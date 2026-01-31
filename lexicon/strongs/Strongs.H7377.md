@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎רִי‎</span></big> **rîy** <small>*(ree)*</small> ==**moisture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָוָה‎</span><sup><small>[[H7301]]</small></sup></small>
+**<big><span class="ashebrew">‎רִי‎</span></big>** **rîy** <small>*(ree)*</small> ==**moisture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7301|‎רָוָה‎]]</big>**</small>
 
 $\quad$ watering.
 - ***irrigation***, i.e. ***a shower***
 
 **1)** moisture
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλεκτός</span><sup><small>[[G1588]]</small></sup>
+<small>See Greek: </small>**<big>[[G1588|ἐκλεκτός]]</big>**

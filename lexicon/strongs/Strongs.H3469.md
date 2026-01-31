@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׁעִי‎</span></big> **Yishʻîy** <small>*(yish-ee')*</small> ==**Ishi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָשַׁע‎</span><sup><small>[[H3467]]</small></sup>; saving</small>
+**<big><span class="ashebrew">‎יִשְׁעִי‎</span></big>** **Yishʻîy** <small>*(yish-ee')*</small> ==**Ishi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3467|‎יָשַׁע‎]]</big>**; saving</small>
 
 $\quad$ Ishi.
 - § Ishi = *"He saves me"*

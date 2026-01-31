@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָבַב‎</span></big> **nâbab** <small>*(naw-bab')*</small> ==**be hollow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָבַב‎</span></big>** **nâbab** <small>*(naw-bab')*</small> ==**be hollow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ hollow, vain.

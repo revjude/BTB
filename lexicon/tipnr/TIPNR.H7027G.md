@@ -4,10 +4,10 @@ Saul's father living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Kish</span> was a Benjamite, the father of Saul, who was anointed by Samuel as the first king of Israel.
 - Saul's father from the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Sam.9.1|1Sa.9.1]]; 
-- referred to as Kish<[[H7027G]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\), or Kish \(KJV= Cis\) <[[G2797]]> \(<span class='tipnrLangGreek'>Κίς</span>\); 
--  son of Abiel<[[H0022G]]> and Maacah<[[H4601N]]>; 
-- a brother of Ner<[[H5369G]]>, Abdon<[[H5658J]]>, Zur<[[H6698I]]>, Baal<[[H1168B]]>, Nadab<[[H5070J]]>, Gedor<[[H1446I]]>, Ahio<[[H0283I]]>, Zecher<[[H2144]]> and Mikloth<[[H4732G]]>; 
--  father of Saul<[[H7586G]]>.
+- referred to as Kish **<big>[[H7027|קִישׁ]]</big>**, or Kish \(KJV= Cis\)  **<big>[[G2797|Κίς]]</big>**; 
+-  son of Abiel **<big>[[H0022|אֲבִיאֵל]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**; 
+- a brother of Ner **<big>[[H5369|נֵר]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zur **<big>[[H6698|צוּר]]</big>**, Baal **<big>[[H1168|בַּעַל]]</big>**, Nadab **<big>[[H5070|נָדָב]]</big>**, Gedor **<big>[[H1446|גְדֹר]]</big>**, Ahio **<big>[[H0283|אַחְיוֹ]]</big>**, Zecher **<big>[[H2144|זֶכֶר]]</big>** and Mikloth **<big>[[H4732|מִקְלוֹת]]</big>**; 
+-  father of Saul **<big>[[H7586|שָׁאוּל]]</big>**.
 
 Kish, a Benjamite from the family of Matri, was the father of Saul, the first king of Israel. He is introduced in [[1Sam.9.1|1 Samuel 9:1]] as a wealthy and influential man. Kish's donkeys went missing, and he sent his son Saul and a servant to search for them \(1 Samuel 9:3\). This journey led to Saul's meeting with the prophet Samuel, who anointed him as king over Israel \(1 Samuel 10:1\). 
 
@@ -23,9 +23,9 @@ Throughout the biblical narrative, Kish is primarily known as the father of Saul
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027G) <small>*Hebrew*</small> | 15x | [[1Sa.9.1] ... [1Ch.26.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=1Sa.9.1;1Sa.9.3;1Sa.9.3;1Sa.10.11;1Sa.10.21;1Sa.14.51;2Sa.21.14;1Ch.8.30;1Ch.8.33;1Ch.8.33;1Ch.9.36;1Ch.9.39;1Ch.9.39;1Ch.12.1;1Ch.26.28) |
-| Kish (KJV= Cis) | [<span class='tipnrLangGreek'>Κίς</span>](G2797) <small>*Greek*</small> | 1x | [Act.13.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Act.13.21) |
-All Strong's for **Kish**: \[[[H7027G]]\] \[[[G2797]]\]
+| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027G) | 15x | [[1Sa.9.1] ... [1Ch.26.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=1Sa.9.1;1Sa.9.3;1Sa.9.3;1Sa.10.11;1Sa.10.21;1Sa.14.51;2Sa.21.14;1Ch.8.30;1Ch.8.33;1Ch.8.33;1Ch.9.36;1Ch.9.39;1Ch.9.39;1Ch.12.1;1Ch.26.28) |
+| Kish (KJV= Cis) | [<span class='tipnrLangGreek'>Κίς</span>](G2797) | 1x | [Act.13.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Act.13.21) |
+All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>** ☩  **<big>[[G2797|Κίς]]</big>**
 #### Related Profiles:
 - **[Abiel](H0022G)** (father)
 - **[Maacah](H4601N)** (mother)

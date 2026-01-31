@@ -6,14 +6,14 @@ They are joined to one another; they clasp and cannot be separated.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.18|Job 41:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| each  | <span class="ashebrew"><big>אִישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on brother its  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָחִ֥י </big></span><small><small><sup>[[H0251I]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.Chi. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are joined together  | <span class="ashebrew"><big>יְדֻבָּ֑קוּ </big></span><small><small><sup>[[H1692]]</sup></small></small> &#8207;| ye.du.Ba.ku <small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they grasp one another  | <span class="ashebrew"><big>יִ֝תְלַכְּד֗וּ </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| yit.la.ke.Du <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are separated  | <span class="ashebrew"><big>יִתְפָּרָֽדוּ </big></span><small><small><sup>[[H6504]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yit.pa.Ra.du <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  |**<big>&#8207;[[H0376I\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on brother its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0251I\|אָחִ֥י]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are joined together  |**<big>&#8207;[[H1692\|יְדֻבָּ֑קוּ]]&#8207; </big>**| ye.du.Ba.ku<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they grasp one another  |**<big>&#8207;[[H3920\|יִ֝תְלַכְּד֗וּ]]&#8207; </big>**| yit.la.ke.Du<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are separated  |**<big>&#8207;[[H6504\|יִתְפָּרָֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.pa.Ra.du<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.18|Job 41:18 >>]]</td></tr></table>
 
 

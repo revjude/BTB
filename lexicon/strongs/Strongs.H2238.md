@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זֶרֶשׁ‎</span></big> **Zeresh** <small>*(zeh'-resh)*</small> ==**Zeresh**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎זֶרֶשׁ‎</span></big>** **Zeresh** <small>*(zeh'-resh)*</small> ==**Zeresh**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Zeresh.

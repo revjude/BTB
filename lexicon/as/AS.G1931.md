@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-δύω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Deut.24.15|De 24:15]], [[LXX.Josh.8.29|Jos 8:29]], [[LXX.Jer.15.9|Je 15:9]] (<span class="ashebrew">בּוֹא</span> <small><sup>[[H0935]]</sup></small>)\* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-δύω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Deut.24.15|De 24:15]], [[LXX.Josh.8.29|Jos 8:29]], [[LXX.Jer.15.9|Je 15:9]] (**<big>[[H0935|בּוֹא]]</big>**)\* ;\]</span> </span>
 <span class="asitalic">to go down, set</span> (of the sun): [[Eph.4.26|Eph 4:26]].†
 
 **Abbott-Smith References**

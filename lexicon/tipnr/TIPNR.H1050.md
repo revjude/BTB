@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-rehob</span> \(Rehob\) was an Aramean city and region, allied with the Ammonites against David, located near the northern border of Israel. \([[Judg.18.28|Judges 18:28]]; [[2Sam.10.6|2 Samuel 10:6]], 8; [[Num.13.21|Numbers 13:21]]\)
 - A location first mentioned at [[Judg.18.28|Jdg.18.28]]; 
-- referred to as Beth-rehob<[[H1050]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>\), or Rehob<[[H7340K]]> \(<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>\).
+- referred to as Beth-rehob **<big>[[H1050|בֵּית רְחוֹב]]</big>**, or Rehob **<big>[[H7340|רְחֹב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.219354,35.544122&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,6 +20,6 @@ The exact location of Beth-rehob is uncertain, but it was likely situated in the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-rehob (NIV= Beth Rehob) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H1050) <small>*Hebrew*</small> | 2x | [[Jdg.18.28] & [2Sa.10.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.18.28;2Sa.10.6) |
-| Rehob | [<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H7340K) <small>*Hebrew*</small> | 2x | [[Num.13.21] & [2Sa.10.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rehob\*\|reference=Num.13.21;2Sa.10.8) |
-All Strong's for **Beth-rehob or Rehob**: \[[[H1050]]\] \[[[H7340K]]\]
+| Beth-rehob (NIV= Beth Rehob) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H1050) | 2x | [[Jdg.18.28] & [2Sa.10.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.18.28;2Sa.10.6) |
+| Rehob | [<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H7340K) | 2x | [[Num.13.21] & [2Sa.10.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rehob\*\|reference=Num.13.21;2Sa.10.8) |
+All entries for **Beth-rehob or Rehob**:  **<big>[[H1050|בֵּית רְחוֹב]]</big>** ☩  **<big>[[H7340|רְחֹב]]</big>**

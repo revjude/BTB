@@ -7,43 +7,43 @@ But the Levites have no part among you; for the priesthood of the LORD [is] thei
 The Levites, however, have no portion among you, because their inheritance is the priesthood of the LORD. And Gad, Reuben, and half the tribe of Manasseh have already received the inheritance that Moses the servant of the LORD gave them beyond the Jordan to the east.”<small><sub>**MT:**</sub></small>
 [[Josh.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.6|<< Joshua 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.8|Joshua 18:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Levi | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for \[the\] priesthood | <big><span class="asgreek">ιερατεία</span></big> <sup><small><small>[[G2405]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] his portion. | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gad, | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| received | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| eastward, | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| no | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| there is | **<big>[[G1510\|εστι]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Levi | **<big>[[G3017\|Λευί]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you; | **<big>[[G1473\|υμίν]]</big>** |
+| for \[the\] priesthood | **<big>[[G2405\|ιερατεία]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[is\] his portion. | **<big>[[G3310\|μερίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gad, | **<big>[[G1045\|Γαδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Reuben, | **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| received | **<big>[[G2983\|έλαβον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| its inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| eastward, | **<big>[[G1909\|επ΄]]</big>** **<big>[[G0395\|ανατολάς]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G3816\|παις]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 [[Josh.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.6|<< Joshua 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.8|Joshua 18:8 >>]]</td></tr></table>
 
 

@@ -12,16 +12,16 @@ A Song of degrees. Many a time have they afflicted me from my youth, may Israel 
 A song of ascents. Many a time they have persecuted me from my youth—let Israel now declare—<small><sub>**MT:**</sub></small>
 [[Ps.129.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.6|<< Psalm 128:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.2|Psalm 129:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Many times | <big><span class="asgreek">πλεονάκις</span></big> <sup><small><small>[[G8805]]</small></small></sup> |
-| they waged war against | <big><span class="asgreek">επολέμησάν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my youth -- | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπάτω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Many times | **<big>[[G8805\|πλεονάκις]]</big>** |
+| they waged war against | **<big>[[G4170\|επολέμησάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| my youth -- | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| say | **<big>[[G2036\|ειπάτω]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ps.129.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.6|<< Psalm 128:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.2|Psalm 129:2 >>]]</td></tr></table>
 
 

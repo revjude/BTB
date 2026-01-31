@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלְכָּם‎</span></big> **Malkâm** <small>*(mal-kawm')*</small> ==**Malcam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מִלְכּוֹם</span> **Milkôwm** <small>*(milkome')*</small>; from <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup> for <span class="ashebrew">‎מֹלֶךְ‎</span><sup><small>[[H4432]]</small></sup></small>
+**<big><span class="ashebrew">‎מַלְכָּם‎</span></big>** **Malkâm** <small>*(mal-kawm')*</small> ==**Malcam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִלְכּוֹם</span></big>** **Milkôwm** <small>*(milkome')*</small>; from **<big>[[H4428|‎מֶלֶךְ‎]]</big>** for **<big>[[H4432|‎מֹלֶךְ‎]]</big>**</small>
 
 $\quad$ Malcham, Milcom.
 - § Milcom = *"great king"*

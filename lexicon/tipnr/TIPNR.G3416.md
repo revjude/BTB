@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Mnason</span>, an early disciple from Cyprus, provided lodging for Paul and his companions when they arrived in Jerusalem.
 - A man living at the time of the New Testament, only mentioned at [[1Chr.1.37|Act.21.16]]; 
-- only referred to as Mnason<[[G3416]]> \(<span class='tipnrLangGreek'>Μνάσων</span>\).
+- only referred to as Mnason **<big>[[G3416|Μνάσων]]</big>**.
 
 Mnason is mentioned in Acts 21:16 as a disciple from Cyprus who hosted the apostle Paul and his companions during their visit to Jerusalem. He is described as an "early disciple," indicating that he had been a follower of Christ for a long time, possibly even from the early days of the church. 
 
@@ -16,5 +16,5 @@ Although no further details are provided about Mnason's life or ministry, his br
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mnason | [<span class='tipnrLangGreek'>Μνάσων</span>](G3416) <small>*Greek*</small> | 1x | [Act.21.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mnason\*\|reference=Act.21.16) |
-All Strong's for **Mnason**: \[[[G3416]]\]
+| Mnason | [<span class='tipnrLangGreek'>Μνάσων</span>](G3416) | 1x | [Act.21.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mnason\*\|reference=Act.21.16) |
+All entries for **Mnason**:  **<big>[[G3416|Μνάσων]]</big>**

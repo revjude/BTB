@@ -7,37 +7,37 @@ In  his days Pul king of \[the\] Assyrians ascended upon the land. And Menahem g
 Then Pul king of Assyria invaded the land, and Menahem gave Pul a thousand talents of silver in order to gain his support and strengthen his own grip on the kingdom.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.18|<< 2 Kings 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.20|2 Kings 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Pul | <big><span class="asgreek">Φουλ</span></big> <sup><small><small>[[H6322]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Menahem | <big><span class="asgreek">Μαναήμ</span></big> <sup><small><small>[[H4505]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Pul | <big><span class="asgreek">Φουλ</span></big> <sup><small><small>[[H6322]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χίλια</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to strengthen | <big><span class="asgreek">κραταιώσαι</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand. | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Pul | **<big>[[H6322\|Φουλ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Menahem | **<big>[[H4505\|Μαναήμ]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Pul | **<big>[[H6322\|Φουλ]]</big>** |
+| a thousand | **<big>[[G5507\|χίλια]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| for his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to strengthen | **<big>[[G2901\|κραταιώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλείαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his hand. | **<big>[[G1473\|χειρί]]</big>** **<big>[[G5495\|αυτού]]</big>** |
 [[2Kgs.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.18|<< 2 Kings 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.20|2 Kings 15:20 >>]]</td></tr></table>
 
 

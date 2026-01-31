@@ -7,19 +7,19 @@ Wilt thou play with him as [with] a bird? or wilt thou bind him for thy maidens?
 Can you pet him like a bird or put him on a leash for your maidens?<small><sub>**MT:**</sub></small>
 [[Job.41.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.4|<< Job 41:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.6|Job 41:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And will you play | <big><span class="asgreek">παίξη</span></big> <sup><small><small>[[G3815]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a bird? | <big><span class="asgreek">ορνέω</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| will you bind | <big><span class="asgreek">δήσεις</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a sparrow | <big><span class="asgreek">στρουθίον</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
-| for a child? | <big><span class="asgreek">παιδίω</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| And will you play | **<big>[[G3815\|παίξη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a bird? | **<big>[[G3732\|ορνέω]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| will you bind | **<big>[[G1210\|δήσεις]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a sparrow | **<big>[[G4765\|στρουθίον]]</big>** |
+| for a child? | **<big>[[G3813\|παιδίω]]</big>** |
 [[Job.41.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.4|<< Job 41:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.6|Job 41:6 >>]]</td></tr></table>
 
 

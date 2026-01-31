@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוּכַל‎</span></big> **Yûwkal** <small>*(yoo-kal')*</small> ==**Jucal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוּכַל‎</span><sup><small>[[H3081]]</small></sup></small>
+**<big><span class="ashebrew">‎יוּכַל‎</span></big>** **Yûwkal** <small>*(yoo-kal')*</small> ==**Jucal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3081|‎יְהוּכַל‎]]</big>**</small>
 
 $\quad$ Jucal.
 - § Jucal = *"Jehovah is able"*

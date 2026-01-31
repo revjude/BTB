@@ -11,20 +11,20 @@ May their place be deserted; let there be no one to dwell in their tents.<small
 > $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Acts.1.20|Acts 1:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their property | <big><span class="asgreek">έπαυλις</span></big> <sup><small><small>[[G1886]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| having been made desolate! | <big><span class="asgreek">ηρημωμένη</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tents | <big><span class="asgreek">σκηνώμασιν</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let there not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| become | **<big>[[G1096\|γενηθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their property | **<big>[[G1886\|έπαυλις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| having been made desolate! | **<big>[[G2049\|ηρημωμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their tents | **<big>[[G4638\|σκηνώμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| let there not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1510\|έστω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one dwelling | **<big>[[G2730\|κατοικών]]</big>** |
 [[Ps.69.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.24|<< Psalm 69:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.26|Psalm 69:26 >>]]</td></tr></table>
 
 

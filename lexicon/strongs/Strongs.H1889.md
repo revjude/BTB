@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֶאָח‎</span></big> **heʼâch** <small>*(heh-awkh')*</small> ==**Aha!**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
-<small>from <span class="ashebrew">‎הֵא‎</span><sup><small>[[H1887]]</small></sup> and <span class="ashebrew">‎אָח‎</span><sup><small>[[H0253]]</small></sup></small>
+**<big><span class="ashebrew">‎הֶאָח‎</span></big>** **heʼâch** <small>*(heh-awkh')*</small> ==**Aha!**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
+<small>from **<big>[[H1887|‎הֵא‎]]</big>** and **<big>[[H0253|‎אָח‎]]</big>**</small>
 
 $\quad$ ah, aha, ha.
 - ***aha!***

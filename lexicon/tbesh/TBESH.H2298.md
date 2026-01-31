@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חַד‎</span> <small>***(chad)***</small> ==**one**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H2297]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2297|חַד]]</big>**</small>

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קוֹל‎</span> <small>***(qol)***</small> ==**voice: [sound of]**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H6963H]]</small> 
+<small>meaning of:</small> <small>**<big>[[H6963H|קוֹל]]</big>**</small> 
 
 - : [sound\_of](THING)

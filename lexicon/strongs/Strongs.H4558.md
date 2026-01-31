@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִסְפָּר‎</span></big> **Miçpâr** <small>*(mis-pawr')*</small> ==**Mispar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מֶלְקָח‎</span><sup><small>[[H4457]]</small></sup>; number</small>
+**<big><span class="ashebrew">‎מִסְפָּר‎</span></big>** **Miçpâr** <small>*(mis-pawr')*</small> ==**Mispar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4457|‎מֶלְקָח‎]]</big>**; number</small>
 
-$\quad$ Mizpar. Compare <span class="ashebrew">‎מִסְפֶּרֶת‎</span><sup><small>[[H4559]]</small></sup>.
+$\quad$ Mizpar. Compare **<big>[[H4559|‎מִסְפֶּרֶת‎]]</big>**.
 - § Mispar = *"number"*
 - ***Mispar***, an Israelite
 

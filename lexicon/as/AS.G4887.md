@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">συν-δέω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">שׁבץ</span> <small><sup>[[H7660]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">συν-δέω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H7660|שׁבץ]]</big>**, etc. ;\]</span> </span>
 <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to bind together</span>;</span>
 <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to bind together with</span>: pass., [[Heb.13.3|He 13:3]].†</span>
 

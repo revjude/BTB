@@ -11,37 +11,37 @@ and told me, ‘Behold, I will make you fruitful and multiply you; I will make y
 > $\quad$ referenced by: [[Acts.7.5|Acts 7:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will increase | <big><span class="asgreek">αυξανώ</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a gathering | <big><span class="asgreek">συναγωγάς</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| possession | <big><span class="asgreek">κατάσχεσιν</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will increase | **<big>[[G0837\|αυξανώ]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a gathering | **<big>[[G4864\|συναγωγάς]]</big>** |
+| of nations. | **<big>[[G1484\|εθνών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land, | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| possession | **<big>[[G2697\|κατάσχεσιν]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
 [[Gen.48.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.3|<< Genesis 48:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.5|Genesis 48:5 >>]]</td></tr></table>
 
 

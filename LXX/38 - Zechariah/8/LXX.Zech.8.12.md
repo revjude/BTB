@@ -7,36 +7,36 @@ For the seed [shall be] prosperous; the vine shall give her fruit, and the groun
 “For the seed will be prosperous, the vine will yield its fruit, the ground will yield its produce, and the skies will give their dew. To the remnant of this people I will give all these things as an inheritance.<small><sub>**MT:**</sub></small>
 [[Zech.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.11|<< Zechariah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.13|Zechariah 8:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| I will show | <big><span class="asgreek">δείξω</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| peace; | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her fruit, | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| will give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her produce, | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| will give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its dew; | <big><span class="asgreek">δρόσον</span></big> <sup><small><small>[[G6970]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will allot | <big><span class="asgreek">κατακληρονομήσω</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnants | <big><span class="asgreek">καταλοίποις</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| but | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| I will show | **<big>[[G1166\|δείξω]]</big>** |
+| peace; | **<big>[[G1515\|ειρήνη]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| grapevine | **<big>[[G0288\|άμπελος]]</big>** |
+| shall give | **<big>[[G1325\|δώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her fruit, | **<big>[[G2590\|καρπόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| will give | **<big>[[G1325\|δώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her produce, | **<big>[[G1081\|γεννήματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| will give | **<big>[[G1325\|δώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its dew; | **<big>[[G6970\|δρόσον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will allot | **<big>[[G7853\|κατακληρονομήσω]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| remnants | **<big>[[G2645\|καταλοίποις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** |
 [[Zech.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.11|<< Zechariah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.13|Zechariah 8:13 >>]]</td></tr></table>
 
 

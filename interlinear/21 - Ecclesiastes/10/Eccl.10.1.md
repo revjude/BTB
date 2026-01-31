@@ -6,19 +6,19 @@ As dead flies bring a stench to the perfumer’s oil, so a little folly outweigh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.18|<< Ecclesiastes 9:18]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.2|Ecclesiastes 10:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| flies of  | <span class="ashebrew"><big>זְב֣וּבֵי </big></span><small><small><sup>[[H2070]]</sup></small></small> &#8207;| ze.Vu.vei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| death  | <span class="ashebrew"><big>מָ֔וֶת </big></span><small><small><sup>[[H4194]]</sup></small></small> &#8207;| Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it causes to stink  | <span class="ashebrew"><big>יַבְאִ֥ישׁ </big></span><small><small><sup>[[H0887]]</sup></small></small> &#8207;| yav.'Ish <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it ferments  | <span class="ashebrew"><big>יַבִּ֖יעַ </big></span><small><small><sup>[[H5042]]</sup></small></small> &#8207;| ya.Bi.a' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] oil of  | <span class="ashebrew"><big>שֶׁ֣מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| She.men <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a perfumer  | <span class="ashebrew"><big>רוֹקֵ֑חַ </big></span><small><small><sup>[[H7543]]</sup></small></small> &#8207;| ro.Ke.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] weighty  | <span class="ashebrew"><big>יָקָ֛ר </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ya.Kar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than wisdom  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חָכְמָ֥ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> cha.khe.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than honor  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּב֖וֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ka.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| folly  | <span class="ashebrew"><big>סִכְל֥וּת </big></span><small><small><sup>[[H5531B]]</sup></small></small> &#8207;| sikh.Lut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a little  | <span class="ashebrew"><big>מְעָֽט </big></span><small><small><sup>[[H4592]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'At <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flies of  |**<big>&#8207;[[H2070\|זְב֣וּבֵי]]&#8207; </big>**| ze.Vu.vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| death  |**<big>&#8207;[[H4194\|מָ֔וֶת]]&#8207; </big>**| Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it causes to stink  |**<big>&#8207;[[H0887\|יַבְאִ֥ישׁ]]&#8207; </big>**| yav.'Ish<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it ferments  |**<big>&#8207;[[H5042\|יַבִּ֖יעַ]]&#8207; </big>**| ya.Bi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oil of  |**<big>&#8207;[[H8081\|שֶׁ֣מֶן]]&#8207; </big>**| She.men<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a perfumer  |**<big>&#8207;[[H7543\|רוֹקֵ֑חַ]]&#8207; </big>**| ro.Ke.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] weighty  |**<big>&#8207;[[H3368\|יָקָ֛ר]]&#8207; </big>**| ya.Kar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than wisdom  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2451\|חָכְמָ֥ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than honor  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3519\|כָּב֖וֹד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| folly  |**<big>&#8207;[[H5531B\|סִכְל֥וּת]]&#8207; </big>**| sikh.Lut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a little  |**<big>&#8207;[[H4592\|מְעָֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.18|<< Ecclesiastes 9:18]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.2|Ecclesiastes 10:2 >>]]</td></tr></table>
 
 

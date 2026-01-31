@@ -7,17 +7,17 @@ Pass through thy land as a river, O daughter of Tarshish: [there is] no more str
 Cultivate your land like the Nile, O Daughter of Tarshish; there is no longer a harbor.<small><sub>**MT:**</sub></small>
 [[Isa.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Work | <big><span class="asgreek">εργάζου</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| boats | <big><span class="asgreek">πλοία</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| come | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Carthage. | <big><span class="asgreek">Καρχηδόνος</span></big> <sup><small><small>[[H8659]]</small></small></sup> |
+| Work | **<big>[[G2038\|εργάζου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your land! | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| boats | **<big>[[G4143\|πλοία]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| come | **<big>[[G2064\|έρχεται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Carthage. | **<big>[[H8659\|Καρχηδόνος]]</big>** |
 [[Isa.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
 
 

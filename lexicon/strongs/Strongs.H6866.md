@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָרַב‎</span></big> **tsârab** <small>*(tsaw-rab')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָרַב‎</span></big>** **tsârab** <small>*(tsaw-rab')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ burn.
@@ -7,4 +7,4 @@ $\quad$ burn.
 **1)** to burn, scorch
 $\quad$ **1a)** (Niphal) to be scorched
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατακαίω</span><sup><small>[[G2618]]</small></sup>
+<small>See Greek: </small>**<big>[[G2618|κατακαίω]]</big>**

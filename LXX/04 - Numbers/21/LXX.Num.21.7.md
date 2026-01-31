@@ -7,40 +7,40 @@ Therefore the people came to Moses, and said, We have sinned, for we have spoken
 Then the people came to Moses and said, “We have sinned by speaking against the LORD and against you. Intercede with the LORD so He will take the snakes away from us.” So Moses interceded for the people.<small><sub>**MT:**</sub></small>
 [[Num.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.6|<< Numbers 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.8|Numbers 21:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">παραγενόμενος</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| saying | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| We sinned, | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we spoke ill | <big><span class="asgreek">κατελαλήσαμεν</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make a vow | <big><span class="asgreek">εύξαι</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he remove | <big><span class="asgreek">αφελέτω</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serpent! | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses made a vow | <big><span class="asgreek">ηύξατο</span></big> <sup><small><small>[[G2172]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G3854\|παραγενόμενος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| saying | **<big>[[G3004\|έλεγον]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| We sinned, | **<big>[[G0264\|ημάρτομεν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| we spoke ill | **<big>[[G2635\|κατελαλήσαμεν]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| make a vow | **<big>[[G2172\|εύξαι]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he remove | **<big>[[G0851\|αφελέτω]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| serpent! | **<big>[[G3789\|όφιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses made a vow | **<big>[[G2172\|ηύξατο]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
 [[Num.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.6|<< Numbers 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.8|Numbers 21:8 >>]]</td></tr></table>
 
 

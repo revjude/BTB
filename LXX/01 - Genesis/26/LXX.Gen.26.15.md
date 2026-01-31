@@ -10,31 +10,31 @@ For all the wells which his father’s servants had digged in the days of Abraha
 So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.<small><sub>**MT:**</sub></small>
 [[Gen.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wells | <big><span class="asgreek">φρέατα</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| dug | <big><span class="asgreek">ώρυξαν</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| obstructed | <big><span class="asgreek">ενέφραξαν</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">χρόνω</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">Φυλιστιείμ</span></big> <sup><small><small>[[H6430]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| filled | <big><span class="asgreek">έπλησαν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\] earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wells | **<big>[[G5421\|φρέατα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| dug | **<big>[[G3736\|ώρυξαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| servants | **<big>[[G3816\|παίδες]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| obstructed | **<big>[[G7213\|ενέφραξαν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| time | **<big>[[G5550\|χρόνω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[H6430\|Φυλιστιείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| filled | **<big>[[G4130\|έπλησαν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| \[with\] earth. | **<big>[[G1093\|γης]]</big>** |
 [[Gen.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 
 

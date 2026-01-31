@@ -7,38 +7,38 @@ And Samuel said, What hast thou done? And Saul said, Because I saw that the peop
 “What have you done?” Samuel asked. And Saul replied, “When I saw that the troops were deserting me, and that you did not come at the appointed time and the Philistines were gathering at Michmash,<small><sub>**MT:**</sub></small>
 [[1Sam.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.10|<< 1 Samuel 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.12|1 Samuel 13:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| have you done? | <big><span class="asgreek">πεποίηκας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| scattered | <big><span class="asgreek">διεσπάρη</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not come | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">παρεγένου</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίω</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| you set in order, | <big><span class="asgreek">διέταξας</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| were gathered together | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Michmash, | <big><span class="asgreek">Μαχμάς</span></big> <sup><small><small>[[H4363]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| have you done? | **<big>[[G4160\|πεποίηκας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| scattered | **<big>[[G1289\|διεσπάρη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| did not come | **<big>[[G3756\|ου]]</big>** **<big>[[G3854\|παρεγένου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίω]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| you set in order, | **<big>[[G1299\|διέταξας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| were gathered together | **<big>[[G4863\|συνήχθησαν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Michmash, | **<big>[[H4363\|Μαχμάς]]</big>** |
 [[1Sam.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.10|<< 1 Samuel 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.12|1 Samuel 13:12 >>]]</td></tr></table>
 
 

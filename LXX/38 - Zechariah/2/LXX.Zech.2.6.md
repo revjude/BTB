@@ -10,27 +10,27 @@ Ho, ho, [come forth], and flee from the land of the north, saith the LORD: for I
 “Get up! Get up! Flee from the land of the north,” declares the LORD, “for I have scattered you like the four winds of heaven,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Zech.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.5|<< Zechariah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.7|Zechariah 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Oh, | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| Oh | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| flee | <big><span class="asgreek">φεύγετε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] north! | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| winds | <big><span class="asgreek">ανέμων</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| I will gather | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Oh, | **<big>[[G5599\|ω]]</big>** |
+| Oh | **<big>[[G5599\|ω]]</big>** |
+| flee | **<big>[[G5343\|φεύγετε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] north! | **<big>[[G1005\|βορρά]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| winds | **<big>[[G0417\|ανέμων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| I will gather | **<big>[[G4863\|συνάξω]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Zech.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.5|<< Zechariah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.7|Zechariah 2:7 >>]]</td></tr></table>
 
 

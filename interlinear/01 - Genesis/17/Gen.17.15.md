@@ -6,22 +6,22 @@ Then God said to Abraham, “As for Sarai your wife, do not call her Sarai, for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.14|<< Genesis 17:14]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.16|Genesis 17:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֤אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִים֙ </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֔ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sarai  | <span class="ashebrew"><big>שָׂרַ֣י </big></span><small><small><sup>[[H8297]]</sup></small></small> &#8207;| sa.Rai <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wife your  | <span class="ashebrew"><big>אִשְׁתְּ </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'ish.te. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will call  | <span class="ashebrew"><big>תִקְרָ֥א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| tik.Ra' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name her  | <span class="ashebrew"><big>שְׁמָ֖ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| she.Ma <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sarai  | <span class="ashebrew"><big>שָׂרָ֑י </big></span><small><small><sup>[[H8297]]</sup></small></small> &#8207;| sa.Rai <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Sarah  | <span class="ashebrew"><big>שָׂרָ֖ה </big></span><small><small><sup>[[H8283]]</sup></small></small> &#8207;| sa.Rah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name her  | <span class="ashebrew"><big>שְׁמָֽ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Ma <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarai  |**<big>&#8207;[[H8297\|שָׂרַ֣י]]&#8207; </big>**| sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife your  |**<big>&#8207;[[H0802H\|אִשְׁתְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| 'ish.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will call  |**<big>&#8207;[[H7121H\|תִקְרָ֥א]]&#8207; </big>**| tik.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name her  |**<big>&#8207;[[H8034\|שְׁמָ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| she.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarai  |**<big>&#8207;[[H8297\|שָׂרָ֑י]]&#8207; </big>**| sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֖ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name her  |**<big>&#8207;[[H8034\|שְׁמָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.14|<< Genesis 17:14]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.16|Genesis 17:16 >>]]</td></tr></table>
 
 

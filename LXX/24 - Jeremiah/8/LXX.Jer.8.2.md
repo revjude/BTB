@@ -7,59 +7,59 @@ And they shall spread them before the sun, and the moon, and all the host of hea
 They will be exposed to the sun and moon, and to all the host of heaven which they have loved, served, followed, consulted, and worshiped. Their bones will not be gathered up or buried, but will become like dung lying on the ground.<small><sub>**MT:**</sub></small>
 [[Jer.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.1|<< Jeremiah 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.3|Jeremiah 8:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall freshen | <big><span class="asgreek">ψύξουσιν</span></big> <sup><small><small>[[G5594]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun, | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon, | <big><span class="asgreek">σελήνην</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars, | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| military | <big><span class="asgreek">στρατιάν</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they loved, | <big><span class="asgreek">ηγάπησαν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they served, | <big><span class="asgreek">εδούλευσαν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they held to, | <big><span class="asgreek">αντείχοντο</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they did obeisance to | <big><span class="asgreek">προσεκύνησαν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They shall not be lamented, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">κοπήσονται</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be entombed. | <big><span class="asgreek">ταφήσονται</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an example | <big><span class="asgreek">παράδειγμα</span></big> <sup><small><small>[[G8606]]</small></small></sup> |
-| on | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall freshen | **<big>[[G5594\|ψύξουσιν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun, | **<big>[[G2246\|ήλιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| moon, | **<big>[[G4582\|σελήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stars, | **<big>[[G0792\|αστέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| military | **<big>[[G4756\|στρατιάν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they loved, | **<big>[[G0025\|ηγάπησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| they served, | **<big>[[G1398\|εδούλευσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| they held to, | **<big>[[G0472\|αντείχοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to whom | **<big>[[G3739\|οις]]</big>** |
+| they did obeisance to | **<big>[[G4352\|προσεκύνησαν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| They shall not be lamented, | **<big>[[G3756\|ου]]</big>** **<big>[[G2875\|κοπήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| be entombed. | **<big>[[G2290\|ταφήσονται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an example | **<big>[[G8606\|παράδειγμα]]</big>** |
+| on | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Jer.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.1|<< Jeremiah 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.3|Jeremiah 8:3 >>]]</td></tr></table>
 
 

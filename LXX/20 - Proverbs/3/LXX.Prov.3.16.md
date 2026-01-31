@@ -7,33 +7,33 @@ Length of days [is] in her right hand; [and] in her left hand riches and honour.
 Long life is in her right hand; in her left hand are riches and honor.<small><sub>**MT:**</sub></small>
 [[Prov.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.15|<< Proverbs 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.17|Proverbs 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of existence | <big><span class="asgreek">βίου</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her right \[hand\]; | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her left | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glory. | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| Out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| goes forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| in righteousness; | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[her\] tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| she wears | <big><span class="asgreek">φορεί</span></big> <sup><small><small>[[G5409]]</small></small></sup> |
+| For length | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of existence | **<big>[[G0979\|βίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her right \[hand\]; | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her left | **<big>[[G0710\|αριστερά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glory. | **<big>[[G1391\|δόξα]]</big>** |
+| Out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| goes forth | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| in righteousness; | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| and law | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[her\] tongue | **<big>[[G1100\|γλώσσης]]</big>** |
+| she wears | **<big>[[G5409\|φορεί]]</big>** |
 [[Prov.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.15|<< Proverbs 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.17|Proverbs 3:17 >>]]</td></tr></table>
 
 

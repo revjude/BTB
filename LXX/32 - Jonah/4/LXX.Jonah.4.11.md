@@ -11,36 +11,36 @@ So should I not care about the great city of Nineveh, which has more than 120,00
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall I not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσομαι</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| Nineveh | <big><span class="asgreek">Νινευϊ</span></big> <sup><small><small>[[G3535]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| dwells | <big><span class="asgreek">κατοικούσι</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| more | <big><span class="asgreek">πλείους</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| myriads | <big><span class="asgreek">μυριάδες</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| their right \[hand\] | <big><span class="asgreek">δεξιάν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| their left, | <big><span class="asgreek">αριστεράν αυτών</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| But I, | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall I not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσομαι]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| Nineveh | **<big>[[G3535\|Νινευϊ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| great | **<big>[[G3173\|μεγάλης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| dwells | **<big>[[G2730\|κατοικούσι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| more | **<big>[[G4183\|πλείους]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| myriads | **<big>[[G3461\|μυριάδες]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| who | **<big>[[G3748\|οίτινες]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνωσαν]]</big>** |
+| their right \[hand\] | **<big>[[G1188\|δεξιάν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| their left, | **<big>[[G0710\|αριστεράν αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
 [[Jonah.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.1|Micah 1:1 >>]]</td></tr></table>
 
 

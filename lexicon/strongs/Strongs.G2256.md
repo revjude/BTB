@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἡμιώριον‎</span></big> **hēmiṓrion** <small>*(hay-mee-o'-ree-on)*</small> ==**half an hour**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
-<small>from the base of <span class="asgreek">ἥμισυ</span><sup><small>[[G2255]]</small></sup> and <span class="asgreek">ὥρα</span><sup><small>[[G5610]]</small></sup></small>
+**<big><span class="asgreek">‎ἡμιώριον‎</span></big>** **hēmiṓrion** <small>*(hay-mee-o'-ree-on)*</small> ==**half an hour**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+<small>from the base of **<big>[[G2255|‎ἥμισυ‎]]</big>** and **<big>[[G5610|‎ὥρα‎]]</big>**</small>
 
 $\quad$ half an hour.
 - a half-hour

@@ -7,22 +7,22 @@ And I will cause the noise of thy songs to cease; and the sound of thy harps sha
 So I will silence the sound of your songs, and the music of your lyres will no longer be heard.<small><sub>**MT:**</sub></small>
 [[Ezek.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.12|<< Ezekiel 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.14|Ezekiel 26:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will rest up | <big><span class="asgreek">καταλύσει</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your musicians. | <big><span class="asgreek">μουσικών</span></big> <sup><small><small>[[G3451]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your psalteries | <big><span class="asgreek">ψαλτηρίων</span></big> <sup><small><small>[[G9783]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be heard | <big><span class="asgreek">ακουσθή</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he will rest up | **<big>[[G2647\|καταλύσει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your musicians. | **<big>[[G3451\|μουσικών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your psalteries | **<big>[[G9783\|ψαλτηρίων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be heard | **<big>[[G0191\|ακουσθή]]</big>** |
+| any longer. | **<big>[[G2089\|έτι]]</big>** |
 [[Ezek.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.12|<< Ezekiel 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.14|Ezekiel 26:14 >>]]</td></tr></table>
 
 

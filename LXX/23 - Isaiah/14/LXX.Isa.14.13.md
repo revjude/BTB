@@ -11,37 +11,37 @@ You said in your heart: “I will ascend to the heavens; I will raise my throne 
 > $\quad$ referenced by: [[Matt.11.23|Matt 11:23]] ☩ [[Luke.10.15|Luke 10:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you said | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| I shall ascend; | <big><span class="asgreek">αναβήσομαι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρων</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my throne | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall sit | <big><span class="asgreek">καθιώ</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| a high | <big><span class="asgreek">υψηλώ</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north; | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| But | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you said | **<big>[[G2036\|είπας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| I shall ascend; | **<big>[[G0305\|αναβήσομαι]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| stars | **<big>[[G0792\|αστέρων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my throne | **<big>[[G2362\|θρόνον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I shall sit | **<big>[[G2523\|καθιώ]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| mountain | **<big>[[G3735\|όρει]]</big>** |
+| a high | **<big>[[G5308\|υψηλώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| high | **<big>[[G5308\|υψηλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north; | **<big>[[G1005\|βορράν]]</big>** |
 [[Isa.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.12|<< Isaiah 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.14|Isaiah 14:14 >>]]</td></tr></table>
 
 

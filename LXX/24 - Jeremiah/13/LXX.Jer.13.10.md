@@ -7,48 +7,48 @@ This evil people, which refuse to hear my words, which walk in the imagination o
 These evil people, who refuse to listen to My words, who follow the stubbornness of their own hearts, and who go after other gods to serve and worship them, they will be like this loincloth—of no use at all.<small><sub>**MT:**</sub></small>
 [[Jer.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.9|<< Jeremiah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.11|Jeremiah 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this great | <big><span class="asgreek">πολλήν</span></big> <sup><small><small>[[G4183]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| wanting | <big><span class="asgreek">βουλομένους</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to obey | <big><span class="asgreek">υπακούειν</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words, | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having gone | <big><span class="asgreek">πορευθέντας</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| straightness | <big><span class="asgreek">ευθύτητι</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having gone | <big><span class="asgreek">πορευθέντας</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| strange gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίων</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to serve | <big><span class="asgreek">δουλεύειν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do obeisance to | <big><span class="asgreek">προσκυνείν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this loincloth | <big><span class="asgreek">περίζωμα</span></big> <sup><small><small>[[G8726]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be used | <big><span class="asgreek">χρησθήσεται</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| anything. | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this great | **<big>[[G4183\|πολλήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| insolence | **<big>[[G5196\|ύβριν]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| wanting | **<big>[[G1014\|βουλομένους]]</big>** |
+| to obey | **<big>[[G5219\|υπακούειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my words, | **<big>[[G3056\|λόγων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| having gone | **<big>[[G4198\|πορευθέντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| straightness | **<big>[[G2118\|ευθύτητι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| of their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| wicked | **<big>[[G4190\|πονηράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| having gone | **<big>[[G4198\|πορευθέντας]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| strange gods, | **<big>[[G2316\|θεών]]</big>** **<big>[[G0245\|αλλοτρίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to serve | **<big>[[G1398\|δουλεύειν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do obeisance to | **<big>[[G4352\|προσκυνείν]]</big>** |
+| them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this loincloth | **<big>[[G8726\|περίζωμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be used | **<big>[[G5530\|χρησθήσεται]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| anything. | **<big>[[G3762\|ουθέν]]</big>** |
 [[Jer.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.9|<< Jeremiah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.11|Jeremiah 13:11 >>]]</td></tr></table>
 
 

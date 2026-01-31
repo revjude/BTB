@@ -7,29 +7,29 @@ To make a difference between the unclean and the clean, and between the beast th
 You must distinguish between the unclean and the clean, between animals that may be eaten and those that may not.’”<small><sub>**MT:**</sub></small>
 [[Lev.11.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.46|<< Leviticus 11:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.1|Leviticus 12:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to distinguish | <big><span class="asgreek">διαστείλαι</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clean; | <big><span class="asgreek">καθαρών</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bringing forth alive | <big><span class="asgreek">ζωογονούντων</span></big> <sup><small><small>[[G2225]]</small></small></sup> |
-| of the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being eaten, | <big><span class="asgreek">εσθιόμενα</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones bringing forth alive | <big><span class="asgreek">ζωογονούντων</span></big> <sup><small><small>[[G2225]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being eaten. | <big><span class="asgreek">εσθιόμενα</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| to distinguish | **<big>[[G1291\|διαστείλαι]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| unclean | **<big>[[G0169\|ακαθάρτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| clean; | **<big>[[G2513\|καθαρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| bringing forth alive | **<big>[[G2225\|ζωογονούντων]]</big>** |
+| of the | **<big>[[G3588\|τα]]</big>** |
+| ones being eaten, | **<big>[[G2068\|εσθιόμενα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones bringing forth alive | **<big>[[G2225\|ζωογονούντων]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being eaten. | **<big>[[G2068\|εσθιόμενα]]</big>** |
 [[Lev.11.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.46|<< Leviticus 11:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.1|Leviticus 12:1 >>]]</td></tr></table>
 
 

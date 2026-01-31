@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Keros</span> was the name of a family of temple servants \(Nethinim\) who returned to Jerusalem from Babylonian exile.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.44|Ezr.2.44]]; 
-- only referred to as Keros<[[H7026]]> \(<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ס</span>\).
+- only referred to as Keros **<big>[[H7026|קֵירֹס]]</big>**.
 
 Keros is mentioned in [[Ezra.2.44|Ezra 2:44]] and [[Neh.7.47|Nehemiah 7:47]] as the name of a family of temple servants, also known as Nethinim, who returned to Jerusalem from Babylonian exile. The Nethinim were a group of people assigned to assist the Levites in the maintenance and service of the temple. 
 
@@ -16,5 +16,5 @@ Apart from these two mentions in the lists of returning exiles, no further infor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Keros | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ס</span>](H7026) <small>*Hebrew*</small> | 2x | [[Ezr.2.44] & [Neh.7.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keros\*\|reference=Ezr.2.44;Neh.7.47) |
-All Strong's for **Keros**: \[[[H7026]]\]
+| Keros | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ס</span>](H7026) | 2x | [[Ezr.2.44] & [Neh.7.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keros\*\|reference=Ezr.2.44;Neh.7.47) |
+All entries for **Keros**:  **<big>[[H7026|קֵירֹס]]</big>**

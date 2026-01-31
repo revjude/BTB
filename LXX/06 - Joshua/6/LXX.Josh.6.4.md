@@ -7,34 +7,34 @@ And seven priests shall bear before the ark seven trumpets of rams’ horns: and
 Have seven priests carry seven rams’ horns in front of the ark. Then on the seventh day, march around the city seven times, while the priests blow the horns.<small><sub>**MT:**</sub></small>
 [[Josh.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.3|<< Joshua 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.5|Joshua 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| horns | <big><span class="asgreek">κερατίνας</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">ιωβήλ</span></big> <sup><small><small>[[G7745]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark. | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| circle | <big><span class="asgreek">κυκλώσατε</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| seven times! | <big><span class="asgreek">επτάκις</span></big> <sup><small><small>[[G2034]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| shall trump | <big><span class="asgreek">σαλπιούσιν</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns. | <big><span class="asgreek">κερατίναις</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| seven | **<big>[[G2409\|επτά]]</big>** |
+| horns | **<big>[[G7998\|κερατίνας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ram | **<big>[[G7745\|ιωβήλ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark. | **<big>[[G2787\|κιβωτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| circle | **<big>[[G2944\|κυκλώσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| seven times! | **<big>[[G2034\|επτάκις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| shall trump | **<big>[[G4537\|σαλπιούσιν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| horns. | **<big>[[G7998\|κερατίναις]]</big>** |
 [[Josh.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.3|<< Joshua 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.5|Joshua 6:5 >>]]</td></tr></table>
 
 

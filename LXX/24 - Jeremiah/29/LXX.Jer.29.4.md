@@ -7,25 +7,25 @@ Thus saith the LORD of hosts, the God of Israel, unto all that are carried away 
 This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon:<small><sub>**MT:**</sub></small>
 [[Jer.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.3|<< Jeremiah 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.5|Jeremiah 29:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resettlement | <big><span class="asgreek">αποικίαν</span></big> <sup><small><small>[[G6430]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he resettled | <big><span class="asgreek">απώκισεν</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon; | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| resettlement | **<big>[[G6430\|αποικίαν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he resettled | **<big>[[G6442\|απώκισεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Babylon; | **<big>[[G0897\|Βαβυλώνα]]</big>** |
 [[Jer.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.3|<< Jeremiah 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.5|Jeremiah 29:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָכַךְ‎</span></big> **zâkak** <small>*(zaw-kak')*</small> ==**be clean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎זָכָה‎</span><sup><small>[[H2135]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זָכַךְ‎</span></big>** **zâkak** <small>*(zaw-kak')*</small> ==**be clean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2135|‎זָכָה‎]]</big>**)</small>
 
 $\quad$ be (make) clean, be pure(-r).
 - ***to be transparent*** or ***clean*** (phys. or morally)

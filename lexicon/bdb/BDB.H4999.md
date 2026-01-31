@@ -1,4 +1,4 @@
-<small>Also see: [[H5116]]</small>
+<small>Also see: **<big>[[H5116|נָוֶה]]</big>**</small>
 
  II. [<span class="bdbLangHebrew">‎נָוָה‎</span>] **noun feminine** ==pasture, meadow==; — plural construct <span class="bdbLangHebrew">‎נְוֺת‎</span> [[Zeph.2.6|Zeph 2:6]], usually <span class="bdbLangHebrew">‎נְאוֺת‎</span> [[Ps.23.2|Ps 23:2]] + 11 t.; — 
 

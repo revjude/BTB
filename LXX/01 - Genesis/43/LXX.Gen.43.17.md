@@ -7,22 +7,22 @@ And the man did as Joseph bade; and the man brought the men into Joseph’s hous
 The man did as Joseph had commanded and took the brothers to Joseph’s house.<small><sub>**MT:**</sub></small>
 [[Gen.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.16|<< Genesis 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.18|Genesis 43:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| Joseph said. | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Joseph. | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| Joseph said. | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0444\|ανθρώπους]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Joseph. | **<big>[[G2501\|Ιωσήφ]]</big>** |
 [[Gen.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.16|<< Genesis 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.18|Genesis 43:18 >>]]</td></tr></table>
 
 

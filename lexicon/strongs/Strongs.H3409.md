@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָרֵךְ‎</span></big> **yârêk** <small>*(yaw-rake')*</small> ==**thigh**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎יָרֵךְ‎</span></big>** **yârêk** <small>*(yaw-rake')*</small> ==**thigh**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to be soft</small>
 
 $\quad$ [idiom] body, loins, shaft, side, thigh.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a2)** loins (as the seat of procreative power)
 $\quad$ **1b)** side (flank) (of object)
 $\quad$ **1c)** base
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡμέρα</span><sup><small>[[G2250]]</small></sup> · <span class="asgreek">μηρός</span><sup><small>[[G3382]]</small></sup> · <span class="asgreek">σκέλος</span><sup><small>[[G4628]]</small></sup>
+<small>See Greek: </small>**<big>[[G2250|ἡμέρα]]</big>** · **<big>[[G3382|μηρός]]</big>** · **<big>[[G4628|σκέλος]]</big>**

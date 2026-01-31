@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹעָשׁ‎</span></big> **Yôwʻâsh** <small>*(yo-awsh')*</small> ==**Joash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎עוּשׁ‎</span><sup><small>[[H5789]]</small></sup>; Jehovahhastened</small>
+**<big><span class="ashebrew">‎יוֹעָשׁ‎</span></big>** **Yôwʻâsh** <small>*(yo-awsh')*</small> ==**Joash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H5789|‎עוּשׁ‎]]</big>**; Jehovahhastened</small>
 
 $\quad$ Joash.
 - § Joash = *"Jehovah hastens"*

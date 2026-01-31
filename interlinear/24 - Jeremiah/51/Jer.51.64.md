@@ -10,25 +10,25 @@ Then you are to say, ‘In the same way Babylon will sink and never rise again, 
 > $\quad$ referenced by: [[Rev.18.21|Rev 18:21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמַרְתָּ֗ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.mar.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כָּ֠כָה </big></span><small><small><sup>[[H3602]]</sup></small></small> &#8207;| Ka.khah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will sink  | <span class="ashebrew"><big>תִּשְׁקַ֨ע </big></span><small><small><sup>[[H8257]]</sup></small></small> &#8207;| tish.Ka' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֤ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will rise  | <span class="ashebrew"><big>תָקוּם֙ </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| ta.Kum <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440I]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the calamity  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רָעָ֗ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֧ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹכִ֛י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to bring  | <span class="ashebrew"><big>מֵבִ֥יא </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| me.Vi' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will grow weary  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָעֵ֑פוּ </big></span><small><small><sup>[[H3286]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.'E.fu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here  | <span class="ashebrew"><big>הֵ֖נָּה </big></span><small><small><sup>[[H2008]]</sup></small></small> &#8207;| He.nah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֥י </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| div.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeremiah  | <span class="ashebrew"><big>יִרְמְיָֽהוּ </big></span><small><small><sup>[[H3414L]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| yir.me.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3602\|כָּ֠כָה]]&#8207; </big>**| Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sink  |**<big>&#8207;[[H8257\|תִּשְׁקַ֨ע]]&#8207; </big>**| tish.Ka'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֤ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will rise  |**<big>&#8207;[[H6965B\|תָקוּם֙]]&#8207; </big>**| ta.Kum<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פְּנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the calamity  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451C\|רָעָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֛י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to bring  |**<big>&#8207;[[H0935P\|מֵבִ֥יא]]&#8207; </big>**| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶ֖י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will grow weary  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3286\|יָעֵ֑פוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.'E.fu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  |**<big>&#8207;[[H2008\|הֵ֖נָּה]]&#8207; </big>**| He.nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
 
 

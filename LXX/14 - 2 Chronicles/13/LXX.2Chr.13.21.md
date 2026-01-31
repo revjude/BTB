@@ -7,24 +7,24 @@ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two so
 But Abijah grew strong, married fourteen wives, and became the father of twenty-two sons and sixteen daughters.<small><sub>**MT:**</sub></small>
 [[2Chr.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.20|<< 2 Chronicles 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.22|2 Chronicles 13:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abijah grew strong, | <big><span class="asgreek">κατίσχυσεν</span></big> <sup><small><small>[[G2729]]</small></small></sup> <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| fourteen | <big><span class="asgreek">δεκατέσσαρας</span></big> <sup><small><small>[[G1180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sixteen | <big><span class="asgreek">εκκαίδεκα</span></big> <sup><small><small>[[G7097]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abijah grew strong, | **<big>[[G2729\|κατίσχυσεν]]</big>** **<big>[[G0007\|Αβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| fourteen | **<big>[[G1180\|δεκατέσσαρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησεν]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons, | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sixteen | **<big>[[G7097\|εκκαίδεκα]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρας]]</big>** |
 [[2Chr.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.20|<< 2 Chronicles 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.22|2 Chronicles 13:22 >>]]</td></tr></table>
 
 

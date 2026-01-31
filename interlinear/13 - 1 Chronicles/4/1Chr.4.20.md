@@ -6,23 +6,23 @@ The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The descendants of Ishi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.19|<< 1 Chronicles 4:19]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.21|1 Chronicles 4:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shimon  | <span class="ashebrew"><big>שִׁימ֔וֹן </big></span><small><small><sup>[[H7889]]</sup></small></small> &#8207;| shi.Mon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amnon  | <span class="ashebrew"><big>אַמְנ֣וֹן </big></span><small><small><sup>[[H0550H]]</sup></small></small> &#8207;| 'am.Non <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Rinnah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רִנָּ֔ה </big></span><small><small><sup>[[H7441]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ri.Nah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ben-  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1135]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hanan  | <span class="ashebrew"><big>חָנָ֖ן </big></span><small><small><sup>[[H1135]]</sup></small></small> &#8207;| cha.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Tilon  [^2] | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִיל֑וֹן </big></span><small><small><sup>[[H8436]]</sup></small></small> &#8207;[^3] | ve. <small><sup>[[HC]]</sup></small> to.lon <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ishi  | <span class="ashebrew"><big>יִשְׁעִ֔י </big></span><small><small><sup>[[H3469H]]</sup></small></small> &#8207;| yish.'I <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zoheth  | <span class="ashebrew"><big>זוֹחֵ֖ת </big></span><small><small><sup>[[H2105]]</sup></small></small> &#8207;| zo.Chet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ben  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1132]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ven- <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zoheth  | <span class="ashebrew"><big>זוֹחֵֽת </big></span><small><small><sup>[[H1132]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| zo.Chet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimon  |**<big>&#8207;[[H7889\|שִׁימ֔וֹן]]&#8207; </big>**| shi.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amnon  |**<big>&#8207;[[H0550H\|אַמְנ֣וֹן]]&#8207; </big>**| 'am.Non<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rinnah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7441\|רִנָּ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ben-  |**<big>&#8207;[[H1135\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hanan  |**<big>&#8207;[[H1135\|חָנָ֖ן]]&#8207; </big>**| cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tilon  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8436\|תִיל֑וֹן]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> to.lon<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishi  |**<big>&#8207;[[H3469H\|יִשְׁעִ֔י]]&#8207; </big>**| yish.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zoheth  |**<big>&#8207;[[H2105\|זוֹחֵ֖ת]]&#8207; </big>**| zo.Chet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ben  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1132\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zoheth  |**<big>&#8207;[[H1132\|זוֹחֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| zo.Chet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.19|<< 1 Chronicles 4:19]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.21|1 Chronicles 4:21 >>]]</td></tr></table>
 
-[^1]: ==K==: **and Tolon ** | <small><sup>[[H8436]]</sup></small> <span class="ashebrew"><big>תוֹלוֹן</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> to.lon<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: **and Tolon ** | <small><sup>[[H8436]]</sup></small> <span class="ashebrew"><big>תוֹלוֹן</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> to.lon<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: and Tolon  | **<big>[[H8436|תוֹלוֹן]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> to.lon<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==K==: and Tolon  | **<big>[[H8436|תוֹלוֹן]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> to.lon<small><sup>[[HNpm]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>וְתִול֑וֹן</big></span>**
 

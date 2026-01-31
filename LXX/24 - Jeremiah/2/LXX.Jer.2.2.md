@@ -7,32 +7,32 @@ Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember the
 “Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your youth, your love as a bride, how you followed Me in the wilderness, in a land not sown.<small><sub>**MT:**</sub></small>
 [[Jer.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yell | <big><span class="asgreek">βοά</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I remembered | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \[the\] mercy | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| of your youth, | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] love | <big><span class="asgreek">αγάπης</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| of your consecration, | <big><span class="asgreek">τελειώσεώς</span></big> <sup><small><small>[[G5050]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for you to follow after | <big><span class="asgreek">εξακολουθήσαί</span></big> <sup><small><small>[[G1811]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Go, | **<big>[[G4198\|πορεύου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| yell | **<big>[[G0994\|βοά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ears | **<big>[[G3775\|ώτα]]</big>** |
+| of Jerusalem! | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| I remembered | **<big>[[G3403\|εμνήσθην]]</big>** |
+| \[the\] mercy | **<big>[[G1656\|ελέους]]</big>** |
+| of your youth, | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] love | **<big>[[G0026\|αγάπης]]</big>** |
+| of your consecration, | **<big>[[G5050\|τελειώσεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for you to follow after | **<big>[[G1811\|εξακολουθήσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| holy one | **<big>[[G0039\|αγίω]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
 

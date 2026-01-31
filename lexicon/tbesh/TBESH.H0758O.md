@@ -1,6 +1,5 @@
-<span class="ashebrew">‎אֲרָם‎</span> <small>***(a.ram)***</small> ==**Aram**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-name of: <small>[[H6307]]</small> 
+<small>name of:</small> <small>**<big>[[H6307|פַּדָּן]]</big>**</small> 
 
 - Aram or Arameans = "exalted"
 -   Aram or Syrian nation
-- Another name of <i>pad.dan</i> (<span class='ashebrew'>‎פ‎</span>ַּ<span class='ashebrew'>‎ד‎</span>ָּ<span class='ashebrew'>‎ן‎</span> "Paddan" [[H6307]])
+- Another name of <i>pad.dan</i> (<span class='ashebrew'>‎פ‎</span>ַּ<span class='ashebrew'>‎ד‎</span>ָּ<span class='ashebrew'>‎ן‎</span> "Paddan" **<big>[[H6307|פַּדָּן]]</big>**)

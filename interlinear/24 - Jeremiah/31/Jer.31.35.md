@@ -6,27 +6,27 @@ Thus says the LORD, who gives the sun for light by day, who sets in order the mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֣ה </big></span><small><small><sup>[[H3541]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] gives  | <span class="ashebrew"><big>נֹתֵ֥ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sun  | <span class="ashebrew"><big>שֶׁ֙מֶשׁ֙ </big></span><small><small><sup>[[H8121]]</sup></small></small> &#8207;| she.mesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for light  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>א֣וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by day  | <span class="ashebrew"><big>יוֹמָ֔ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fixed order\<s> of  | <span class="ashebrew"><big>חֻקֹּ֛ת </big></span><small><small><sup>[[H2708]]</sup></small></small> &#8207;| chu.Kot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] moon  | <span class="ashebrew"><big>יָרֵ֥חַ </big></span><small><small><sup>[[H3394]]</sup></small></small> &#8207;| ya.Re.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] stars  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כוֹכָבִ֖ים </big></span><small><small><sup>[[H3556]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kho.kha.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for light  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>א֣וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| night  | <span class="ashebrew"><big>לָ֑יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| La.ye.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] stirs up  | <span class="ashebrew"><big>רֹגַ֤ע </big></span><small><small><sup>[[H7280A]]</sup></small></small> &#8207;| ro.Ga' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sea  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּם֙ </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they roared  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֶּהֱמ֣וּ </big></span><small><small><sup>[[H1993]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.he.Mu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waves its  | <span class="ashebrew"><big>גַלָּ֔י </big></span><small><small><sup>[[H1530H]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ga.La <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֖וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  | <span class="ashebrew"><big>שְׁמֽ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] gives  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sun  |**<big>&#8207;[[H8121\|שֶׁ֙מֶשׁ֙]]&#8207; </big>**| she.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for light  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0216\|א֣וֹר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָ֔ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fixed order\<s> of  |**<big>&#8207;[[H2708\|חֻקֹּ֛ת]]&#8207; </big>**| chu.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] moon  |**<big>&#8207;[[H3394\|יָרֵ֥חַ]]&#8207; </big>**| ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] stars  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3556\|כוֹכָבִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.kha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for light  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0216\|א֣וֹר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night  |**<big>&#8207;[[H3915\|לָ֑יְלָה]]&#8207; </big>**| La.ye.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] stirs up  |**<big>&#8207;[[H7280A\|רֹגַ֤ע]]&#8207; </big>**| ro.Ga'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220G\|יָּם֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they roared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1993\|יֶּהֱמ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.he.Mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waves its  |**<big>&#8207;[[H1530H\|גַלָּ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ga.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
 

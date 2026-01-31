@@ -6,23 +6,23 @@ As you know, we never used words of flattery or any pretext for greed. God is ou
 <small><sub>**Literal:**</sub></small>
 Never for at any time with word of flattery were we, even as you know, nor with a pretext for greed — God [is] witness —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.4|<< 1 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.6|1 Thessalonians 2:6 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Never |<big><span class="asgreek">οὔτε</span></big> <small><small><sup>[[G3777]]</sup></small></small> |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γάρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| at any time |<big><span class="asgreek">ποτε</span></big> <small><small><sup>[[G4218]]</sup></small></small> |pote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| word |<big><span class="asgreek">λόγῳ</span></big> <small><small><sup>[[G3056]]</sup></small></small> |logō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of flattery |<big><span class="asgreek">κολακείας</span></big> <small><small><sup>[[G2850]]</sup></small></small> [^1] |kolakeias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were we, |<big><span class="asgreek">ἐγενήθημεν,</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egenēthēmen <small><sup>[[V-2AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even as |<big><span class="asgreek">καθὼς</span></big> <small><small><sup>[[G2531]]</sup></small></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you know, |<big><span class="asgreek">οἴδατε,</span></big> <small><small><sup>[[G6063]]</sup></small></small> |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nor |<big><span class="asgreek">οὔτε</span></big> <small><small><sup>[[G3777]]</sup></small></small> |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
-| a pretext |<big><span class="asgreek">προφάσει</span></big> <small><small><sup>[[G4392]]</sup></small></small> |prophasei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for greed — |<big><span class="asgreek">πλεονεξίας,</span></big> <small><small><sup>[[G4124]]</sup></small></small> |pleonexias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| God [is] |<big><span class="asgreek">θεὸς</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| witness — |<big><span class="asgreek">μάρτυς,</span></big> <small><small><sup>[[G3144]]</sup></small></small> |martus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Never |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| at any time |**<big>[[G4218\|ποτε]]</big>**  |pote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| word |**<big>[[G3056\|λόγῳ]]</big>**  |logō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of flattery |**<big>[[G2850\|κολακείας]]</big>**  [^1] |kolakeias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were we, |**<big>[[G1096\|ἐγενήθημεν,]]</big>**  |egenēthēmen <small><sup>[[V-2AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you know, |**<big>[[G6063\|οἴδατε,]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nor |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| a pretext |**<big>[[G4392\|προφάσει]]</big>**  |prophasei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for greed — |**<big>[[G4124\|πλεονεξίας,]]</big>**  |pleonexias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| God [is] |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| witness — |**<big>[[G3144\|μάρτυς,]]</big>**  |martus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.4|<< 1 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.6|1 Thessalonians 2:6 >>]]</td></tr></table>
 
-[^1]: ==WH== spelled: <span class='asgreek'>**κολακίας**</span>
+[^1]: ==WH== spelled: **<big><span class='asgreek'>κολακίας</span></big>**

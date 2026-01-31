@@ -6,19 +6,19 @@ In the fourth generation your descendants will return here, for the iniquity of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.15|<< Genesis 15:15]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.17|Genesis 15:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] generation  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ד֥וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Dor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fourth  | <span class="ashebrew"><big>רְבִיעִ֖י </big></span><small><small><sup>[[H7243]]</sup></small></small> &#8207;| re.vi.'I <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will return  | <span class="ashebrew"><big>יָשׁ֣וּבוּ </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ya.Shu.vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hither  | <span class="ashebrew"><big>הֵ֑נָּה </big></span><small><small><sup>[[H2008]]</sup></small></small> &#8207;| He.nah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] complete  | <span class="ashebrew"><big>שָׁלֵ֛ם </big></span><small><small><sup>[[H8003]]</sup></small></small> &#8207;| sha.Lem <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] iniquity of  | <span class="ashebrew"><big>עֲוֹ֥ן </big></span><small><small><sup>[[H5771G]]</sup></small></small> &#8207;| 'a.Von <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Amorite[s]  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֱמֹרִ֖י </big></span><small><small><sup>[[H0567]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.mo.Ri <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>הֵֽנָּה </big></span><small><small><sup>[[H2008]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| He.nah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] generation  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1755\|ד֥וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fourth  |**<big>&#8207;[[H7243\|רְבִיעִ֖י]]&#8207; </big>**| re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will return  |**<big>&#8207;[[H7725G\|יָשׁ֣וּבוּ]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hither  |**<big>&#8207;[[H2008\|הֵ֑נָּה]]&#8207; </big>**| He.nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] complete  |**<big>&#8207;[[H8003\|שָׁלֵ֛ם]]&#8207; </big>**| sha.Lem<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] iniquity of  |**<big>&#8207;[[H5771G\|עֲוֹ֥ן]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Amorite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0567\|אֱמֹרִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H2008\|הֵֽנָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| He.nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.15|<< Genesis 15:15]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.17|Genesis 15:17 >>]]</td></tr></table>
 
 

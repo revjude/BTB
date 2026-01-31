@@ -7,45 +7,45 @@ And David arose, and came to the place where Saul had pitched: and David beheld 
 Then David set out and went to the place where Saul had camped. He saw the place where Saul and Abner son of Ner, the general of his army, had lain down. Saul was lying inside the inner circle of the camp, with the troops camped around him.<small><sub>**MT:**</sub></small>
 [[1Sam.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| in private, | <big><span class="asgreek">λάθρα</span></big> <sup><small><small>[[G2977]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was sleeping | <big><span class="asgreek">εκάθευδεν</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ner | <big><span class="asgreek">Νηρ</span></big> <sup><small><small>[[H5369]]</small></small></sup> |
-| his commander-in-chief | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| was sleeping | <big><span class="asgreek">εκάθευδεν</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] royal chariot, | <big><span class="asgreek">λαμπήνη</span></big> <sup><small><small>[[G8158]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| were camping | <big><span class="asgreek">παρεμβεβληκώς</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David rose up | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| in private, | **<big>[[G2977\|λάθρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| was sleeping | **<big>[[G2518\|εκάθευδεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David saw | **<big>[[G1492\|είδε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| went to bed | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ner | **<big>[[H5369\|Νηρ]]</big>** |
+| his commander-in-chief | **<big>[[G6559\|αρχιστράτηγος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] there. | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| was sleeping | **<big>[[G2518\|εκάθευδεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] royal chariot, | **<big>[[G8158\|λαμπήνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| were camping | **<big>[[G6070\|παρεμβεβληκώς]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
 

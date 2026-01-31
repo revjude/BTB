@@ -7,19 +7,19 @@ For the LORD will plead their cause, and spoil the soul of those that spoiled th
 for the LORD will take up their case and will plunder those who rob them.<small><sub>**MT:**</sub></small>
 [[Prov.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.22|<< Proverbs 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.24|Proverbs 22:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| will arbitrate | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cause, | <big><span class="asgreek">δίκην</span></big> <sup><small><small>[[G1349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall rescue | <big><span class="asgreek">ρύση</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| your | <big><span class="asgreek">σην</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| against reprisal | <big><span class="asgreek">άσυλον</span></big> <sup><small><small>[[G6577]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| for the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|γαρ]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| will arbitrate | **<big>[[G2919\|κρινεί]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| cause, | **<big>[[G1349\|δίκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall rescue | **<big>[[G4506\|ρύση]]</big>** |
+| your | **<big>[[G4674\|σην]]</big>** |
+| against reprisal | **<big>[[G6577\|άσυλον]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
 [[Prov.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.22|<< Proverbs 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.24|Proverbs 22:24 >>]]</td></tr></table>
 
 

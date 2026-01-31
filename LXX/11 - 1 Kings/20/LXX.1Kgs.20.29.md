@@ -10,34 +10,34 @@ And they pitched one over against the other seven days. And [so] it was, that in
 For seven days the armies camped opposite each other, and on the seventh day the battle ensued, and the Israelites struck down the Arameans—a hundred thousand foot soldiers in one day.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.28|<< 1 Kings 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.30|1 Kings 20:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these camped | <big><span class="asgreek">παρεμβάλλουσιν</span></big> <sup><small><small>[[G6070]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| those | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led on | <big><span class="asgreek">προσήγεν</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syria -- | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| footmen | <big><span class="asgreek">πεζών</span></big> <sup><small><small>[[G8677]]</small></small></sup> |
-| in one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these camped | **<big>[[G6070\|παρεμβάλλουσιν]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| those | **<big>[[G3778\|τούτων]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| led on | **<big>[[G4317\|προσήγεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| war | **<big>[[G4171\|πόλεμος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel struck | **<big>[[G3960\|επάταξεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Syria -- | **<big>[[G4947\|Συρίαν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| footmen | **<big>[[G8677\|πεζών]]</big>** |
+| in one | **<big>[[G1520\|μία]]</big>** |
+| day. | **<big>[[G2250\|ημέρα]]</big>** |
 [[1Kgs.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.28|<< 1 Kings 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.30|1 Kings 20:30 >>]]</td></tr></table>
 
 

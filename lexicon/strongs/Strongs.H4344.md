@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַכְבַּנַּי‎</span></big> **Makbannay** <small>*(mak-ban-nah'-ee)*</small> ==**Machbannai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎מַכְבֵּנָא‎</span><sup><small>[[H4343]]</small></sup></small>
+**<big><span class="ashebrew">‎מַכְבַּנַּי‎</span></big>** **Makbannay** <small>*(mak-ban-nah'-ee)*</small> ==**Machbannai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>patrial from **<big>[[H4343|‎מַכְבֵּנָא‎]]</big>**</small>
 
 $\quad$ Machbanai.
 - § Machbanai = *"bond of the Lord"*

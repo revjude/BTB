@@ -7,32 +7,32 @@ And I sought for a man among them, that should make up the hedge, and stand in t
 I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one.<small><sub>**MT:**</sub></small>
 [[Ezek.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.29|<< Ezekiel 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.31|Ezekiel 22:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sought | <big><span class="asgreek">εζήτουν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| behaving | <big><span class="asgreek">αναστρεφόμενον</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| rightly, | <big><span class="asgreek">ορθώς</span></big> <sup><small><small>[[G3723]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστώτα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| my face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| soundly | <big><span class="asgreek">ολοσχερώς</span></big> <sup><small><small>[[G8499]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger, | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| so as to not | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| wipe her away | <big><span class="asgreek">εξαλείψαι</span></big> <sup><small><small>[[G1813]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find. | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sought | **<big>[[G2212\|εζήτουν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| behaving | **<big>[[G0390\|αναστρεφόμενον]]</big>** |
+| rightly, | **<big>[[G3723\|ορθώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| standing | **<big>[[G2476\|εστώτα]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| my face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| soundly | **<big>[[G8499\|ολοσχερώς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| anger, | **<big>[[G3709\|οργής]]</big>** |
+| so as to not | **<big>[[G3588\|του]]</big>** **<big>[[G3361\|μη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end | **<big>[[G5056\|τέλος]]</big>** |
+| wipe her away | **<big>[[G1813\|εξαλείψαι]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουχ]]</big>** |
+| find. | **<big>[[G2147\|εύρον]]</big>** |
 [[Ezek.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.29|<< Ezekiel 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.31|Ezekiel 22:31 >>]]</td></tr></table>
 
 

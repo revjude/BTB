@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀγρός‎</span></big> **agrós** <small>*(ag-ros')*</small> ==**Field of**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
-<small>from <span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup></small>
+**<big><span class="asgreek">‎ἀγρός‎</span></big>** **agrós** <small>*(ag-ros')*</small> ==**Field of**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+<small>from **<big>[[G0071|‎ἄγω‎]]</big>**</small>
 
 $\quad$ country, farm, piece of ground, land.
 - a field (as a drive for cattle)

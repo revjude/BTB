@@ -7,24 +7,24 @@ For indeed I was stolen away out of the land of the Hebrews: and here also have 
 For I was kidnapped from the land of the Hebrews, and even here I have done nothing for which they should have put me in this dungeon.”<small><sub>**MT:**</sub></small>
 [[Gen.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by stealth | <big><span class="asgreek">κλοπή</span></big> <sup><small><small>[[G2829]]</small></small></sup> |
-| I was stolen | <big><span class="asgreek">εκλάπην</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] Hebrews, | <big><span class="asgreek">Εβραίων</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| I did not do | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| anything, | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| they put | <big><span class="asgreek">ενέβαλον</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this pit. | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| by stealth | **<big>[[G2829\|κλοπή]]</big>** |
+| I was stolen | **<big>[[G2813\|εκλάπην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] Hebrews, | **<big>[[G1444\|Εβραίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| I did not do | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4160\|εποίησα]]</big>** |
+| anything, | **<big>[[G3762\|ουδέν]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| they put | **<big>[[G1685\|ενέβαλον]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this pit. | **<big>[[G8154\|λάκκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[Gen.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
 
 

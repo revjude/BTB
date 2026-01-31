@@ -7,20 +7,20 @@ Keep me as the apple of the eye, hide me under the shadow of thy wings,
 Keep me as the apple of Your eye; hide me in the shadow of Your wings<small><sub>**MT:**</sub></small>
 [[Ps.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.7|<< Psalm 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.9|Psalm 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Guard | <big><span class="asgreek">φύλαξόν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] pupil | <big><span class="asgreek">κόρην</span></big> <sup><small><small>[[G8070]]</small></small></sup> |
-| of \[the\] eye! | <big><span class="asgreek">οφθαλμού</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| Under | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] protection | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shelter | <big><span class="asgreek">σκεπάσεις</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Guard | **<big>[[G5442\|φύλαξόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] pupil | **<big>[[G8070\|κόρην]]</big>** |
+| of \[the\] eye! | **<big>[[G3788\|οφθαλμού]]</big>** |
+| Under | **<big>[[G1722\|εν]]</big>** |
+| \[the\] protection | **<big>[[G9098\|σκέπη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your wings | **<big>[[G4420\|πτερύγων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shelter | **<big>[[G9095\|σκεπάσεις]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
 [[Ps.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.7|<< Psalm 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.9|Psalm 17:9 >>]]</td></tr></table>
 
 

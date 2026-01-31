@@ -7,45 +7,45 @@ And they brake down the altars of Baalim in his presence; and the images, that [
 Then in his presence the altars of the Baals were torn down, and he cut to pieces the incense altars that were above them. He shattered the Asherah poles, the carved idols, and the cast images, crushed them to dust, and scattered them over the graves of those who had sacrificed to them.<small><sub>**MT:**</sub></small>
 [[2Chr.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.3|<< 2 Chronicles 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.5|2 Chronicles 34:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he razed | <big><span class="asgreek">κατέσκαψε</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| his face -- | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| altars, | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baals; | <big><span class="asgreek">Βααλείμ</span></big> <sup><small><small>[[H1168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\], | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| above | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he cut down | <big><span class="asgreek">εξέκοψε</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred groves, | <big><span class="asgreek">άλση</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carved \[images\]. | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molten \[images\] | <big><span class="asgreek">χωνευτά</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| he broke | <big><span class="asgreek">συνέτριψε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[ground\] fine, | <big><span class="asgreek">ελέπτυνε</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed \[their dust\] | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tombs | <big><span class="asgreek">μνημάτων</span></big> <sup><small><small>[[G3418]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones sacrificing | <big><span class="asgreek">θυσιαζόντων</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he razed | **<big>[[G2679\|κατέσκαψε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| before | **<big>[[G2596\|κατά]]</big>** |
+| his face -- | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| altars, | **<big>[[G2379\|θυσιαστήρια]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Baals; | **<big>[[H1168\|Βααλείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| high \[places\], | **<big>[[G5308\|υψηλά]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| above | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he cut down | **<big>[[G1581\|εξέκοψε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sacred groves, | **<big>[[G6242\|άλση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carved \[images\]. | **<big>[[G6745\|γλυπτά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| molten \[images\] | **<big>[[G9778\|χωνευτά]]</big>** |
+| he broke | **<big>[[G4937\|συνέτριψε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[ground\] fine, | **<big>[[G8183\|ελέπτυνε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed \[their dust\] | **<big>[[G4496\|έρριψεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tombs | **<big>[[G3418\|μνημάτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones sacrificing | **<big>[[G7700\|θυσιαζόντων]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[2Chr.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.3|<< 2 Chronicles 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.5|2 Chronicles 34:5 >>]]</td></tr></table>
 
 

@@ -6,20 +6,20 @@ Shepherds and their flocks will come against her; they will pitch their tents al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.2|<< Jeremiah 6:2]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.4|Jeremiah 6:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to it  | <span class="ashebrew"><big>אֵלֶ֛י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come  | <span class="ashebrew"><big>יָבֹ֥אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shepherds  | <span class="ashebrew"><big>רֹעִ֖ים </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| ro.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and flocks their  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶדְרֵי </big></span><small><small><sup>[[H5739]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ed.rei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will pitch  | <span class="ashebrew"><big>תָּקְע֨וּ </big></span><small><small><sup>[[H8628]]</sup></small></small> &#8207;| ta.ke.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at it  | <span class="ashebrew"><big>עָלֶ֤י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tents  | <span class="ashebrew"><big>אֹהָלִים֙ </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'o.ha.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִ֔יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will graze  | <span class="ashebrew"><big>רָע֖וּ </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| ra.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everyone  | <span class="ashebrew"><big>אִ֥ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand his  | <span class="ashebrew"><big>יָדֽ </big></span><small><small><sup>[[H3027M]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.D <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  |**<big>&#8207;[[H0413\|אֵלֶ֛י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come  |**<big>&#8207;[[H0935G\|יָבֹ֥אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shepherds  |**<big>&#8207;[[H7462B\|רֹעִ֖ים]]&#8207; </big>**| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and flocks their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5739\|עֶדְרֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ed.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will pitch  |**<big>&#8207;[[H8628\|תָּקְע֨וּ]]&#8207; </big>**| ta.ke.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at it  |**<big>&#8207;[[H5921A\|עָלֶ֤י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tents  |**<big>&#8207;[[H0168G\|אֹהָלִים֙]]&#8207; </big>**| 'o.ha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִ֔יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will graze  |**<big>&#8207;[[H7462B\|רָע֖וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  |**<big>&#8207;[[H3027M\|יָדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.2|<< Jeremiah 6:2]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.4|Jeremiah 6:4 >>]]</td></tr></table>
 
 

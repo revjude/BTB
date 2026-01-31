@@ -7,33 +7,33 @@ From the cry of Heshbon [even] unto Elealeh, [and even] unto Jahaz, have they ut
 There is a cry from Heshbon to Elealeh; they raise their voices to Jahaz, from Zoar to Horonaim and Eglath-shelishiyah; for even the waters of Nimrim have dried up.<small><sub>**MT:**</sub></small>
 [[Jer.48.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.33|<< Jeremiah 48:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.35|Jeremiah 48:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of Heshbon | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Elealeh, | <big><span class="asgreek">Ελεαλή</span></big> <sup><small><small>[[H0500]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Jahaz, | <big><span class="asgreek">Ιασσά</span></big> <sup><small><small>[[H3096]]</small></small></sup> |
-| they gave out | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| their voice; | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Zoar | <big><span class="asgreek">Ζηγώρ</span></big> <sup><small><small>[[H6820]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Horonaim, | <big><span class="asgreek">Ωρωναϊμ</span></big> <sup><small><small>[[H2773]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[as\] a heifer | <big><span class="asgreek">εγγελά</span></big> <sup><small><small>[[G6996]]</small></small></sup> |
-| of three years. | <big><span class="asgreek">σελισία</span></big> <sup><small><small>[[G9066]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of Nimrim | <big><span class="asgreek">Νεμβρείμ</span></big> <sup><small><small>[[H5249]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| burning | <big><span class="asgreek">κατάκαυμα</span></big> <sup><small><small>[[G7850]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| a cry | **<big>[[G2906\|κραυγής]]</big>** |
+| of Heshbon | **<big>[[H2809\|Εσεβών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Elealeh, | **<big>[[H0500\|Ελεαλή]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Jahaz, | **<big>[[H3096\|Ιασσά]]</big>** |
+| they gave out | **<big>[[G1325\|έδωκαν]]</big>** |
+| their voice; | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Zoar | **<big>[[H6820\|Ζηγώρ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Horonaim, | **<big>[[H2773\|Ωρωναϊμ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[as\] a heifer | **<big>[[G6996\|εγγελά]]</big>** |
+| of three years. | **<big>[[G9066\|σελισία]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of Nimrim | **<big>[[H5249\|Νεμβρείμ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| burning | **<big>[[G7850\|κατάκαυμα]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
 [[Jer.48.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.33|<< Jeremiah 48:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.35|Jeremiah 48:35 >>]]</td></tr></table>
 
 

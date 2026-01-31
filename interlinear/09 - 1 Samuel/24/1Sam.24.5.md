@@ -6,22 +6,22 @@ Afterward, David’s conscience was stricken because he had cut off the corner o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.4|<< 1 Samuel 24:4]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.6|1 Samuel 24:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִי֙ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַֽחֲרֵי </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.cha.rei- <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵ֔ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it struck  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yakh <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heart of  | <span class="ashebrew"><big>לֵב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lev- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֖ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֑ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַ֚ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had cut off  | <span class="ashebrew"><big>כָּרַ֔ת </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| ka.Rat <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] skirt  | <span class="ashebrew"><big>כָּנָ֖ף </big></span><small><small><sup>[[H3671]]</sup></small></small> &#8207;| ka.Naf <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to Saul  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שָׁאֽוּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵ֔ן]]&#8207; </big>**| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart of  |**<big>&#8207;[[H3820A\|לֵב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lev-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had cut off  |**<big>&#8207;[[H3772I\|כָּרַ֔ת]]&#8207; </big>**| ka.Rat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] skirt  |**<big>&#8207;[[H3671\|כָּנָ֖ף]]&#8207; </big>**| ka.Naf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to Saul  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁאֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.4|<< 1 Samuel 24:4]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.6|1 Samuel 24:6 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵיטָם‎</span></big> **ʻÊyṭâm** <small>*(ay-tawm')*</small> ==**Etam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִט‎</span><sup><small>[[H5861]]</small></sup>; hawk-ground</small>
+**<big><span class="ashebrew">‎עֵיטָם‎</span></big>** **ʻÊyṭâm** <small>*(ay-tawm')*</small> ==**Etam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5861|‎עַיִט‎]]</big>**; hawk-ground</small>
 
 $\quad$ Etam.
 - § Etam = *"lair of wild beasts"*

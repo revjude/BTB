@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁבוּאֵל‎</span></big> **Shᵉbûwʼêl** <small>*(sheb-oo-ale')*</small> ==**Shebuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שׁוּבָאֵל</span> **Shûwbâʼêl** <small>*(shoo-baw-ale')*</small>; from <span class="ashebrew">‎שָׁבָה‎</span><sup><small>[[H7617]]</small></sup> (abbreviated form) or <span class="ashebrew">‎שׁוּב‎</span><sup><small>[[H7725]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; captive (or returned) of God</small>
+**<big><span class="ashebrew">‎שְׁבוּאֵל‎</span></big>** **Shᵉbûwʼêl** <small>*(sheb-oo-ale')*</small> ==**Shebuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שׁוּבָאֵל</span></big>** **Shûwbâʼêl** <small>*(shoo-baw-ale')*</small>; from **<big>[[H7617|‎שָׁבָה‎]]</big>** (abbreviated form) or **<big>[[H7725|‎שׁוּב‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; captive (or returned) of God</small>
 
 $\quad$ Shebuel, Shubael.
 - § Shebuel or Shubael = *"captive of God"*

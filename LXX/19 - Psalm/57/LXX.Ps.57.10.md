@@ -7,21 +7,21 @@ For thy mercy [is] great unto the heavens, and thy truth unto the clouds.
 For Your loving devotion reaches to the heavens, and Your faithfulness to the clouds.<small><sub>**MT:**</sub></small>
 [[Ps.57.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.9|<< Psalm 57:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.11|Psalm 57:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφελών</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your truth | <big><span class="asgreek">αλήθειά</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| was magnified | **<big>[[G3170\|εμεγαλύνθη]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| heavens | **<big>[[G3772\|ουρανών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| clouds | **<big>[[G3507\|νεφελών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your truth | **<big>[[G0225\|αλήθειά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.57.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.9|<< Psalm 57:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.11|Psalm 57:11 >>]]</td></tr></table>
 
 

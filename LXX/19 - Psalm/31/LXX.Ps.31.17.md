@@ -7,21 +7,21 @@ Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be as
 O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol.<small><sub>**MT:**</sub></small>
 [[Ps.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.16|<< Psalm 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.18|Psalm 31:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| may I not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be disgraced, | <big><span class="asgreek">καταισχυνθείην</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I called upon | <big><span class="asgreek">επεκαλεσάμην</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be ashamed | <big><span class="asgreek">αισχυνθείησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led down | <big><span class="asgreek">καταχθείησαν</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| may I not | **<big>[[G3361\|μη]]</big>** |
+| be disgraced, | **<big>[[G2617\|καταισχυνθείην]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I called upon | **<big>[[G1941\|επεκαλεσάμην]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| be ashamed | **<big>[[G0153\|αισχυνθείησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| led down | **<big>[[G2609\|καταχθείησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades. | **<big>[[G0086\|άδου]]</big>** |
 [[Ps.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.16|<< Psalm 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.18|Psalm 31:18 >>]]</td></tr></table>
 
 

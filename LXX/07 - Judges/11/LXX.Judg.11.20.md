@@ -7,31 +7,31 @@ But Sihon trusted not Israel to pass through his coast: but Sihon gathered all h
 But Sihon would not trust Israel to pass through his territory. So he gathered all his people, encamped in Jahaz, and fought with Israel.<small><sub>**MT:**</sub></small>
 [[Judg.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.19|<< Judges 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.21|Judges 11:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to go | <big><span class="asgreek">διελθείν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his borders. | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sihon gathered | <big><span class="asgreek">συνήγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they camped | <big><span class="asgreek">παρενέβαλεν</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jahaz, | <big><span class="asgreek">Ιασσά</span></big> <sup><small><small>[[H3096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he waged war | <big><span class="asgreek">επολέμησεν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησε]]</big>** |
+| Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to go | **<big>[[G1330\|διελθείν]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his borders. | **<big>[[G3725\|ορίων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Sihon gathered | **<big>[[G4863\|συνήγαγε]]</big>** **<big>[[H5511\|Σηών]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they camped | **<big>[[G6070\|παρενέβαλεν]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| Jahaz, | **<big>[[H3096\|Ιασσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he waged war | **<big>[[G4170\|επολέμησεν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Judg.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.19|<< Judges 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.21|Judges 11:21 >>]]</td></tr></table>
 
 

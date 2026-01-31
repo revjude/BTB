@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָבָא‎</span></big> **çâbâʼ** <small>*(saw-baw')*</small> ==**to imbibe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָבָא‎</span></big>** **çâbâʼ** <small>*(saw-baw')*</small> ==**to imbibe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ drunkard, fill self, Sabean, (wine-) bibber.

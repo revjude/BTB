@@ -7,19 +7,19 @@ Let them not say in their hearts, Ah, so would we have it: let them not say, We 
 Let them not say in their hearts, “Aha, just what we wanted!” Let them not say, “We have swallowed him up!”<small><sub>**MT:**</sub></small>
 [[Ps.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.24|<< Psalm 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.26|Psalm 35:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May they not say | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είποισαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their heart, | <big><span class="asgreek">καρδίαις</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Well done, | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
-| well done | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our soul. | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| may they say, | <big><span class="asgreek">είποιεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We swallowed | <big><span class="asgreek">κατεπίομεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| him down. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May they not say | **<big>[[G3361\|μη]]</big>** **<big>[[G2036\|είποισαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their heart, | **<big>[[G2588\|καρδίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Well done, | **<big>[[G7530\|εύγε]]</big>** |
+| well done | **<big>[[G7530\|εύγε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| our soul. | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| Nor | **<big>[[G3366\|μηδέ]]</big>** |
+| may they say, | **<big>[[G2036\|είποιεν]]</big>** |
+| We swallowed | **<big>[[G2666\|κατεπίομεν]]</big>** |
+| him down. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.24|<< Psalm 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.26|Psalm 35:26 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And I will lay thy flesh upon the mountains, and fill the valleys with thy heigh
 I will put your flesh on the mountains and fill the valleys with your remains.<small><sub>**MT:**</sub></small>
 [[Ezek.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.4|<< Ezekiel 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.6|Ezekiel 32:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will fill up | <big><span class="asgreek">εμπλήσω</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| ravines | <big><span class="asgreek">φάραγγας</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your blood. | <big><span class="asgreek">αίματός</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your flesh | **<big>[[G4561\|σάρκας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains, | **<big>[[G3735\|όρη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will fill up | **<big>[[G1705\|εμπλήσω]]</big>** |
+| ravines | **<big>[[G5327\|φάραγγας]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your blood. | **<big>[[G0129\|αίματός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.4|<< Ezekiel 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.6|Ezekiel 32:6 >>]]</td></tr></table>
 
 

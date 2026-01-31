@@ -7,36 +7,36 @@ Then Samuel told the people the manner of the kingdom, and wrote [it] in a book,
 Then Samuel explained to the people the rights of kingship. He wrote them on a scroll and laid it up before the LORD. And Samuel sent all the people away, each to his own home.<small><sub>**MT:**</sub></small>
 [[1Sam.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.24|<< 1 Samuel 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.26|1 Samuel 10:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel spoke | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ordinance | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingship. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he wrote | <big><span class="asgreek">έγραψεν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel sent out | <big><span class="asgreek">εξαπέστειλε</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel spoke | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| ordinance | **<big>[[G1345\|δικαίωμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| kingship. | **<big>[[G0932\|βασιλείας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he wrote | **<big>[[G1125\|έγραψεν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| a scroll, | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[it\] | **<big>[[G5087\|έθηκεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel sent out | **<big>[[G1821\|εξαπέστειλε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his place. | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.24|<< 1 Samuel 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.26|1 Samuel 10:26 >>]]</td></tr></table>
 
 

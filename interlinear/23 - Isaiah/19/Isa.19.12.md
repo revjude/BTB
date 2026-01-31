@@ -6,21 +6,21 @@ Where are your wise men now? Let them tell you and reveal what the LORD of Hosts
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.11|<< Isaiah 19:11]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.13|Isaiah 19:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| where [are]? they  | <span class="ashebrew"><big>אַיָּ </big></span><small><small><sup>[[H0335]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9048]]</sup></small></small> &#8207;| 'ai.Ya <small><sup>[[HTi]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אֵפ֣וֹא </big></span><small><small><sup>[[H0645]]</sup></small></small> &#8207;| 'e.Fo' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise [people] your  | <span class="ashebrew"><big>חֲכָמֶ֔י </big></span><small><small><sup>[[H2450]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| cha.kha.Mei. <small><sup>[[HAampc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may tell  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַגִּ֥ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Gi.du <small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֖א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may know  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֵ֣דְע֔וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ye.de.'U <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has he planned  | <span class="ashebrew"><big>יָּעַ֛ץ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| ya.'Atz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֖וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where [are]? they  |**<big>&#8207;[[H0335\|אַיָּ]]&#8207;&#8207;[[H9048\|ם֙]]&#8207; </big>**| 'ai.Ya<small><sup>[[HTi]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0645\|אֵפ֣וֹא]]&#8207; </big>**| 'e.Fo'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people] your  |**<big>&#8207;[[H2450\|חֲכָמֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| cha.kha.Mei.<small><sup>[[HAampc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may tell  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5046\|יַגִּ֥ידוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Gi.du<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֖א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may know  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3045\|יֵ֣דְע֔וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.de.'U<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he planned  |**<big>&#8207;[[H3289\|יָּעַ֛ץ]]&#8207; </big>**| ya.'Atz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.11|<< Isaiah 19:11]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.13|Isaiah 19:13 >>]]</td></tr></table>
 
 

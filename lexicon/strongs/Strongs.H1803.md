@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דַּלָּה‎</span></big> **dallâh** <small>*(dal-law')*</small> ==**hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּלָה‎</span><sup><small>[[H1802]]</small></sup></small>
+**<big><span class="ashebrew">‎דַּלָּה‎</span></big>** **dallâh** <small>*(dal-law')*</small> ==**hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1802|‎דָּלָה‎]]</big>**</small>
 
 $\quad$ hair, pining sickness, poor(-est sort).
 - properly, ***something dangling***, i.e. ***a loose thread*** or ***hair***
@@ -9,4 +9,4 @@ $\quad$ hair, pining sickness, poor(-est sort).
 **2)** poor (usually coll of helpless people)
 **3)**(TWOT) poorest, lowest
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατάλοιπος</span><sup><small>[[G2645]]</small></sup>
+<small>See Greek: </small>**<big>[[G2645|κατάλοιπος]]</big>**

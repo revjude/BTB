@@ -7,29 +7,29 @@ And ye shall do no work in that same day: for it [is] a day of atonement, to mak
 On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God.<small><sub>**MT:**</sub></small>
 [[Lev.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.27|<< Leviticus 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.29|Leviticus 23:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day; | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of making an atonement | <big><span class="asgreek">εξιλασμού</span></big> <sup><small><small>[[G7333]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσασθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|παν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this day; | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| is | **<big>[[G1510\|έστι]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of making an atonement | **<big>[[G7333\|εξιλασμού]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.27|<< Leviticus 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.29|Leviticus 23:29 >>]]</td></tr></table>
 
 

@@ -7,42 +7,42 @@ And it shall be, [that] in the morning, as soon as the sun is up, thou shalt ris
 And in the morning at sunrise, get up and advance against the city. When Gaal and his men come out against you, do to them whatever you are able.”<small><sub>**MT:**</sub></small>
 [[Judg.9.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.32|<< Judges 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.34|Judges 9:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| with the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rising | <big><span class="asgreek">ανατείλαι</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| of the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun, | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall rise early | <big><span class="asgreek">ορθρίεις</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stretch out | <big><span class="asgreek">εκτενείς</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| go forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should find \[opportunity\] | <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| with the | **<big>[[G3588\|τω]]</big>** |
+| rising | **<big>[[G0393\|ανατείλαι]]</big>** |
+| of the | **<big>[[G3588\|τον]]</big>** |
+| sun, | **<big>[[G2246\|ήλιον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall rise early | **<big>[[G3719\|ορθρίεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stretch out | **<big>[[G1614\|εκτενείς]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city. | **<big>[[G4172\|πόλιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| go forth | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should find \[opportunity\] | **<big>[[G2147\|εύρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Judg.9.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.32|<< Judges 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.34|Judges 9:34 >>]]</td></tr></table>
 
 

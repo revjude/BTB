@@ -7,17 +7,17 @@ And I will not have mercy upon her children; for they [be] the children of whore
 I will have no compassion on her children, because they are the children of adultery.<small><sub>**MT:**</sub></small>
 [[Hos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.3|<< Hosea 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.5|Hosea 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| on her children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I show mercy | <big><span class="asgreek">ελεήσω</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of harlotry | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| on her children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I show mercy | **<big>[[G1653\|ελεήσω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| children | **<big>[[G5043\|τέκνα]]</big>** |
+| of harlotry | **<big>[[G4202\|πορνείας]]</big>** |
+| it is | **<big>[[G1510\|εστίν]]</big>** |
 [[Hos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.3|<< Hosea 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.5|Hosea 2:5 >>]]</td></tr></table>
 
 

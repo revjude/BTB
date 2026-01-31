@@ -10,44 +10,44 @@ And the LORD said unto Moses, Hew thee two tables of stone like unto the first: 
 Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke.<small><sub>**MT:**</sub></small>
 [[Exod.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.23|<< Exodus 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.2|Exodus 34:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Dress | <big><span class="asgreek">λάξευσον</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκας</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| of stone, | <big><span class="asgreek">λιθίνας</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| as | <big><span class="asgreek">καθ΄ώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first, | <big><span class="asgreek">πρώται</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain! | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will write | <big><span class="asgreek">γράψω</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλακών</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[were\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλαξί</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώταις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you broke. | <big><span class="asgreek">συνέτριψας</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Dress | **<big>[[G8162\|λάξευσον]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets | **<big>[[G4109\|πλάκας]]</big>** |
+| of stone, | **<big>[[G3035\|λιθίνας]]</big>** |
+| as | **<big>[[G2531\|καθ΄ώς]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| first, | **<big>[[G4413\|πρώται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascend | **<big>[[G0305\|ανάβηθι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain! | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will write | **<big>[[G1125\|γράψω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tablets | **<big>[[G4109\|πλακών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| \[were\] | **<big>[[G1510\|ην]]</big>** |
+| upon | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| tablets | **<big>[[G4109\|πλαξί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| first | **<big>[[G4413\|πρώταις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you broke. | **<big>[[G4937\|συνέτριψας]]</big>** |
 [[Exod.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.23|<< Exodus 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.2|Exodus 34:2 >>]]</td></tr></table>
 
 

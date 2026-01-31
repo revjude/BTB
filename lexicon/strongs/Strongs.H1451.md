@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּדֵרִי‎</span></big> **Gᵉdêrîy** <small>*(ghed-ay-ree')*</small> ==**Gederite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎גֶּדֶר‎</span><sup><small>[[H1445]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּדֵרִי‎</span></big>** **Gᵉdêrîy** <small>*(ghed-ay-ree')*</small> ==**Gederite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H1445|‎גֶּדֶר‎]]</big>**</small>
 
 $\quad$ Gederite.
 - § Gederite = *"a wall"*

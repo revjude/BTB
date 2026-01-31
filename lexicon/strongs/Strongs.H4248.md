@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְלוֹן‎</span></big> **Machlôwn** <small>*(makh-lone')*</small> ==**Mahlon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלָה‎</span><sup><small>[[H2470]]</small></sup>; sick</small>
+**<big><span class="ashebrew">‎מַחְלוֹן‎</span></big>** **Machlôwn** <small>*(makh-lone')*</small> ==**Mahlon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2470|‎חָלָה‎]]</big>**; sick</small>
 
 $\quad$ Mahlon.
 - § Mahlon = *"sick"*

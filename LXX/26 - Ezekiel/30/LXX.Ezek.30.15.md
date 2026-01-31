@@ -7,22 +7,22 @@ And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the 
 I will pour out My wrath on Pelusium, the stronghold of Egypt, and cut off the crowds of Thebes.<small><sub>**MT:**</sub></small>
 [[Ezek.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will pour out | <big><span class="asgreek">εκχεώ</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Sin, | <big><span class="asgreek">Σαείν</span></big> <sup><small><small>[[H5512b]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of Memphis. | <big><span class="asgreek">Μέμφεως</span></big> <sup><small><small>[[H5297]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will pour out | **<big>[[G1632\|εκχεώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Sin, | **<big>[[H5512b\|Σαείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| strength | **<big>[[G2479\|ισχύν]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of Memphis. | **<big>[[H5297\|Μέμφεως]]</big>** |
 [[Ezek.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 
 

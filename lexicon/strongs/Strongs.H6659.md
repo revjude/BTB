@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָדוֹק‎</span></big> **Tsâdôwq** <small>*(tsaw-doke')*</small> ==**Zadok**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎צָדַק‎</span><sup><small>[[H6663]]</small></sup>; just</small>
+**<big><span class="ashebrew">‎צָדוֹק‎</span></big>** **Tsâdôwq** <small>*(tsaw-doke')*</small> ==**Zadok**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6663|‎צָדַק‎]]</big>**; just</small>
 
 $\quad$ Zadok.
 - § Zadok = *"righteous"*
@@ -14,4 +14,4 @@ $\quad$ Zadok.
 **7)** a scribe appointed by Nehemiah as one of the treasurers over the storehouse
 **8)** a valiant warrior of the tribe of Benjamin who joined David at Hebron. Same as 1?
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σαδώκ</span><sup><small>[[G4524]]</small></sup>
+<small>See Greek: </small>**<big>[[G4524|Σαδώκ]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁלַם‎</span></big> **shâlam** <small>*(shaw-lam')*</small> ==**to complete**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁלַם‎</span></big>** **shâlam** <small>*(shaw-lam')*</small> ==**to complete**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make amends, (make an) end, finish, full, give again, make good, (re-) pay (again), (make) (to) (be at) peace(-able), that is perfect, perform, (make) prosper(-ous), recompense, render, requite, make restitution, restore, reward, [idiom] surely.
@@ -33,4 +33,4 @@ $\quad$ **2d)** (Hiphil)
 $\quad$ $\quad$ **2d1)** to complete, perform
 $\quad$ $\quad$ **2d2)** to make an end of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀληθεύω</span><sup><small>[[G0226]]</small></sup> · <span class="asgreek">ἀναπληρόω</span><sup><small>[[G0378]]</small></sup> · <span class="asgreek">ἀνταποδίδωμι</span><sup><small>[[G0467]]</small></sup> · <span class="asgreek">ἀποκαθίστημι</span><sup><small>[[G0600]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">εἰρηνεύω</span><sup><small>[[G1514]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup> · <span class="asgreek">τελέω</span><sup><small>[[G5055]]</small></sup> · <span class="asgreek">ὑγιαίνω</span><sup><small>[[G5198]]</small></sup>
+<small>See Greek: </small>**<big>[[G0226|ἀληθεύω]]</big>** · **<big>[[G0378|ἀναπληρόω]]</big>** · **<big>[[G0467|ἀνταποδίδωμι]]</big>** · **<big>[[G0600|ἀποκαθίστημι]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G1514|εἰρηνεύω]]</big>** · **<big>[[G4982|σώζω]]</big>** · **<big>[[G5055|τελέω]]</big>** · **<big>[[G5198|ὑγιαίνω]]</big>**

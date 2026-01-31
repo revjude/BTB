@@ -1,4 +1,4 @@
-<small>Also see: [[H8382]]</small>
+<small>Also see: **<big>[[H8382|תָּאַם]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תָּם‎</span> **adjective** ==complete== — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ת‎</span> [[Gen.25.27|Gen 25:27]] + 10 t.; suffix <span class="bdbLangHebrew">‎תַּמָּתִי‎</span> [[Song.5.2|Song 5:2]]; [[Song.6.9|Song 6:9]] (late, except [[Gen.25.27|Gen 25:27]]); — 
 

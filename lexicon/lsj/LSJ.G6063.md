@@ -1,5 +1,5 @@
 <span class="asgreek">οἶδα</span> <small>***(oida)***</small> ==**to know**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-form of: <small>[[G1492H]]</small> 
+form of: <small>**<big>[[G1492H|εἴδω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==οἶδα==</span></b>, 

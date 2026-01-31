@@ -7,25 +7,25 @@ I have long time holden my peace; I have been still, [and] refrained myself: [no
 “I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant.<small><sub>**MT:**</sub></small>
 [[Isa.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I kept silent | <big><span class="asgreek">εσιώπησα</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] eon; | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| shall I | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| continually | <big><span class="asgreek">αεί</span></big> <sup><small><small>[[G0104]]</small></small></sup> |
-| keep silent | <big><span class="asgreek">σιωπήσομαι</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| endure? | <big><span class="asgreek">ανέξομαι</span></big> <sup><small><small>[[G0430]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman giving birth | <big><span class="asgreek">τίκτουσα</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| perseveres, | <big><span class="asgreek">εκαρτέρησα</span></big> <sup><small><small>[[G2594]]</small></small></sup> |
-| I will now amaze | <big><span class="asgreek">εκστήσω</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dry out | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| at the same time. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| I kept silent | **<big>[[G4623\|εσιώπησα]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] eon; | **<big>[[G0165\|αιώνος]]</big>** |
+| shall I | **<big>[[G3361\|μη]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| continually | **<big>[[G0104\|αεί]]</big>** |
+| keep silent | **<big>[[G4623\|σιωπήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| endure? | **<big>[[G0430\|ανέξομαι]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman giving birth | **<big>[[G5088\|τίκτουσα]]</big>** |
+| perseveres, | **<big>[[G2594\|εκαρτέρησα]]</big>** |
+| I will now amaze | **<big>[[G1839\|εκστήσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dry out | **<big>[[G3583\|ξηρανώ]]</big>** |
+| at the same time. | **<big>[[G0260\|άμα]]</big>** |
 [[Isa.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
 

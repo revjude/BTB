@@ -6,22 +6,22 @@ King Solomon, however, loved many foreign women along with the daughter of Phara
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.29|<< 1 Kings 10:29]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.2|1 Kings 11:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the king  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֗ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he loved  | <span class="ashebrew"><big>אָהַ֞ב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'a.Hav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| women  | <span class="ashebrew"><big>נָשִׁ֧ים </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foreign  | <span class="ashebrew"><big>נָכְרִיּ֛וֹת </big></span><small><small><sup>[[H5237]]</sup></small></small> &#8207;| na.khe.ri.Yot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבּ֖וֹת </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֑ה </big></span><small><small><sup>[[H6547K]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moabite [women]  | <span class="ashebrew"><big>מוֹאֲבִיּ֤וֹת </big></span><small><small><sup>[[H4125]]</sup></small></small> &#8207;| mo.'a.vi.Yot <small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammonite [women]  | <span class="ashebrew"><big>עַמֳּנִיּוֹת֙ </big></span><small><small><sup>[[H5984H]]</sup></small></small> &#8207;| 'a.mo.ni.yOt <small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Edomite [women]  | <span class="ashebrew"><big>אֲדֹ֣מִיֹּ֔ת </big></span><small><small><sup>[[H0130]]</sup></small></small> &#8207;| 'a.Do.mi.Yot <small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sidonian [women]  | <span class="ashebrew"><big>צֵדְנִיֹּ֖ת </big></span><small><small><sup>[[H6722]]</sup></small></small> &#8207;| tze.de.ni.Yot <small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hittite [women]  | <span class="ashebrew"><big>חִתִּיֹּֽת </big></span><small><small><sup>[[H2850]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chi.ti.Yot <small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the king  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he loved  |**<big>&#8207;[[H0157G\|אָהַ֞ב]]&#8207; </big>**| 'a.Hav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| women  |**<big>&#8207;[[H0802G\|נָשִׁ֧ים]]&#8207; </big>**| na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foreign  |**<big>&#8207;[[H5237\|נָכְרִיּ֛וֹת]]&#8207; </big>**| na.khe.ri.Yot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבּ֖וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547K\|פַּרְעֹ֑ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moabite [women]  |**<big>&#8207;[[H4125\|מוֹאֲבִיּ֤וֹת]]&#8207; </big>**| mo.'a.vi.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammonite [women]  |**<big>&#8207;[[H5984H\|עַמֳּנִיּוֹת֙]]&#8207; </big>**| 'a.mo.ni.yOt<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edomite [women]  |**<big>&#8207;[[H0130\|אֲדֹ֣מִיֹּ֔ת]]&#8207; </big>**| 'a.Do.mi.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sidonian [women]  |**<big>&#8207;[[H6722\|צֵדְנִיֹּ֖ת]]&#8207; </big>**| tze.de.ni.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hittite [women]  |**<big>&#8207;[[H2850\|חִתִּיֹּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chi.ti.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.29|<< 1 Kings 10:29]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.2|1 Kings 11:2 >>]]</td></tr></table>
 
 

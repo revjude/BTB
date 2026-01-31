@@ -7,20 +7,20 @@ And they that serve the city shall serve it out of all the tribes of Israel.
 The workers of the city who cultivate it will come from all the tribes of Israel.<small><sub>**MT:**</sub></small>
 [[Ezek.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.18|<< Ezekiel 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.20|Ezekiel 48:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| working | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| shall work | <big><span class="asgreek">εργώνται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| working | **<big>[[G2038\|εργαζόμενοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| shall work | **<big>[[G2038\|εργώνται]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tribes | **<big>[[G5443\|φυλών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.18|<< Ezekiel 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.20|Ezekiel 48:20 >>]]</td></tr></table>
 
 

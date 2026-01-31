@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַעֲרָה‎</span></big> **Naʻărâh** <small>*(nah-ar-aw')*</small> ==**Naarah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נַעֲרָה‎</span><sup><small>[[H5291]]</small></sup></small>
+**<big><span class="ashebrew">‎נַעֲרָה‎</span></big>** **Naʻărâh** <small>*(nah-ar-aw')*</small> ==**Naarah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H5291|‎נַעֲרָה‎]]</big>**</small>
 
 $\quad$ Naarah, Naarath.
 - § Naarah or Naarath = *"maiden"*

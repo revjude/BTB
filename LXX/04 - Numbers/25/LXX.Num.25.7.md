@@ -10,28 +10,28 @@ And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw [it], he
 On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,<small><sub>**MT:**</sub></small>
 [[Num.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.6|<< Numbers 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.8|Numbers 25:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seeing, | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| Phinehas | <big><span class="asgreek">Φινεές</span></big> <sup><small><small>[[H6372]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Eleazar, | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| rose up | <big><span class="asgreek">εξανέστη</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a spear | <big><span class="asgreek">σειρομάστην</span></big> <sup><small><small>[[G9064]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[his\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| seeing, | **<big>[[G1492\|ιδών]]</big>** |
+| Phinehas | **<big>[[H6372\|Φινεές]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Eleazar, | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| rose up | **<big>[[G1817\|εξανέστη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| a spear | **<big>[[G9064\|σειρομάστην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[his\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| hand, | **<big>[[G5495\|χειρί]]</big>** |
 [[Num.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.6|<< Numbers 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.8|Numbers 25:8 >>]]</td></tr></table>
 
 

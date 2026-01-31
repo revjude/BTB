@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָכַךְ‎</span></big> **çâkak** <small>*(saw-kak')*</small> ==**to fence**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">שָׂכַךְ</span> **sâkak** <small>*(saw-kak')*</small>; (Exodus 33:22), a primitive root</small>
+**<big><span class="ashebrew">‎סָכַךְ‎</span></big>** **çâkak** <small>*(saw-kak')*</small> ==**to fence**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׂכַךְ</span></big>** **sâkak** <small>*(saw-kak')*</small>; (Exodus 33:22), a primitive root</small>
 
 $\quad$ cover, defence, defend, hedge in, join together, set, shut up.
 - properly, ***to entwine as a******screen***
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **2b2)** to cover, defecate (euphemism)
 $\quad$ **4a)** (Qal) to weave together
 $\quad$ **4b)** (Pilpel) to weave, weave together
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπεγείρω</span><sup><small>[[G1892]]</small></sup> · <span class="asgreek">ἐπισκιάζω</span><sup><small>[[G1982]]</small></sup> · <span class="asgreek">κάθημαι</span><sup><small>[[G2521]]</small></sup> · <span class="asgreek">κατασκηνόω</span><sup><small>[[G2681]]</small></sup> · <span class="asgreek">περικαλύπτω</span><sup><small>[[G4028]]</small></sup> · <span class="asgreek">φράσσω</span><sup><small>[[G5420]]</small></sup>
+<small>See Greek: </small>**<big>[[G1892|ἐπεγείρω]]</big>** · **<big>[[G1982|ἐπισκιάζω]]</big>** · **<big>[[G2521|κάθημαι]]</big>** · **<big>[[G2681|κατασκηνόω]]</big>** · **<big>[[G4028|περικαλύπτω]]</big>** · **<big>[[G5420|φράσσω]]</big>**

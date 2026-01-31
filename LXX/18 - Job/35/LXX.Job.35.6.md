@@ -7,18 +7,18 @@ If thou sinnest, what doest thou against him? or [if] thy transgressions be mult
 If you sin, what do you accomplish against Him? If you multiply your transgressions, what do you do to Him?<small><sub>**MT:**</sub></small>
 [[Job.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.5|<< Job 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.7|Job 35:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you sinned, | <big><span class="asgreek">ήμαρτες</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you do? | <big><span class="asgreek">πράξεις</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
-| And even if | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
-| in many \[things\] | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| you acted lawlessly, | <big><span class="asgreek">ηνόμησας</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are you able | <big><span class="asgreek">δύνασαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to do? | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| you sinned, | **<big>[[G0264\|ήμαρτες]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| will you do? | **<big>[[G4238\|πράξεις]]</big>** |
+| And even if | **<big>[[G7048\|ει δε και]]</big>** |
+| in many \[things\] | **<big>[[G4183\|πολλά]]</big>** |
+| you acted lawlessly, | **<big>[[G6349\|ηνόμησας]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| are you able | **<big>[[G1410\|δύνασαι]]</big>** |
+| to do? | **<big>[[G4160\|ποιήσαι]]</big>** |
 [[Job.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.5|<< Job 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.7|Job 35:7 >>]]</td></tr></table>
 
 

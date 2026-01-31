@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁאָל‎</span></big> **Shᵉʼâl** <small>*(sheh-awl')*</small> ==**Sheal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup>; request</small>
+**<big><span class="ashebrew">‎שְׁאָל‎</span></big>** **Shᵉʼâl** <small>*(sheh-awl')*</small> ==**Sheal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7592|‎שָׁאַל‎]]</big>**; request</small>
 
 $\quad$ Sheal.
 - § Sheal = *"asking"*

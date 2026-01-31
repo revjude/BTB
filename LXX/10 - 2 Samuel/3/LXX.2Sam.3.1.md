@@ -10,36 +10,36 @@ Now there was long war between the house of Saul and the house of David: but Dav
 Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker.<small><sub>**MT:**</sub></small>
 [[2Sam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.32|<< 2 Samuel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.2|2 Samuel 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a long \[time\] | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strengthened. | <big><span class="asgreek">εκραταιούτο</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weakened. | <big><span class="asgreek">ησθένει</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| war | **<big>[[G4171\|πόλεμος]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| a long \[time\] | **<big>[[G4183\|πολύ]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strengthened. | **<big>[[G2901\|εκραταιούτο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weakened. | **<big>[[G0770\|ησθένει]]</big>** |
 [[2Sam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.32|<< 2 Samuel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.2|2 Samuel 3:2 >>]]</td></tr></table>
 
 

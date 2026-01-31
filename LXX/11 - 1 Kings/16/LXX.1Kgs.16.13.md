@@ -7,28 +7,28 @@ For all the sins of Baasha, and the sins of Elah his son, by which they sinned, 
 This happened because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.12|<< 1 Kings 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.14|1 Kings 16:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of Baasha, | <big><span class="asgreek">Βαασά</span></big> <sup><small><small>[[H1201]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elah | <big><span class="asgreek">Ηλά</span></big> <sup><small><small>[[H0425]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he led Israel into sin, | <big><span class="asgreek">εξήμαρτε</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| provoking to anger | <big><span class="asgreek">παροργίσαι</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their vanities. | <big><span class="asgreek">ματαίοις</span></big> <sup><small><small>[[G3152]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sins | **<big>[[G0266\|αμαρτιών]]</big>** |
+| of Baasha, | **<big>[[H1201\|Βαασά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Elah | **<big>[[H0425\|Ηλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his son | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| he led Israel into sin, | **<big>[[G7292\|εξήμαρτε]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| provoking to anger | **<big>[[G3949\|παροργίσαι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their vanities. | **<big>[[G3152\|ματαίοις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[1Kgs.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.12|<< 1 Kings 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.14|1 Kings 16:14 >>]]</td></tr></table>
 
 

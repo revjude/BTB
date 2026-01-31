@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֱלוּל‎</span></big> **ʼĔlûwl** <small>*(el-ool')*</small> ==**Elul**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
+**<big><span class="ashebrew">‎אֱלוּל‎</span></big>** **ʼĔlûwl** <small>*(el-ool')*</small> ==**Elul**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Elul.

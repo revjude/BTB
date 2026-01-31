@@ -7,17 +7,17 @@ Out of Jacob shall come he that shall have dominion, and shall destroy him that 
 A ruler will come from Jacob and destroy the survivors of the city.”<small><sub>**MT:**</sub></small>
 [[Num.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.18|<< Numbers 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.20|Numbers 24:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one shall be awakened | <big><span class="asgreek">εξεγερθήσεται</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall destroy | <big><span class="asgreek">απολεί</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \[the\] one escaping | <big><span class="asgreek">σωζόμενον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| one shall be awakened | **<big>[[G1825\|εξεγερθήσεται]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall destroy | **<big>[[G0622\|απολεί]]</big>** |
+| \[the\] one escaping | **<big>[[G4982\|σωζόμενον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Num.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.18|<< Numbers 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.20|Numbers 24:20 >>]]</td></tr></table>
 
 

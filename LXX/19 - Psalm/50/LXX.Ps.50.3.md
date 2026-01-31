@@ -7,26 +7,26 @@ Our God shall come, and shall not keep silence: a fire shall devour before him, 
 Our God approaches and will not be silent! Consuming fire precedes Him, and a tempest rages around Him.<small><sub>**MT:**</sub></small>
 [[Ps.50.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.2|<< Psalm 50:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.4|Psalm 50:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| visibly | <big><span class="asgreek">εμφανώς</span></big> <sup><small><small>[[G7211]]</small></small></sup> |
-| shall come, | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remain silent. | <big><span class="asgreek">παρασιωπήσεται</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| A fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall burn; | <big><span class="asgreek">καυθήσεται</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gale | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| an exceeding | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| visibly | **<big>[[G7211\|εμφανώς]]</big>** |
+| shall come, | **<big>[[G2240\|ήξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| remain silent. | **<big>[[G8637\|παρασιωπήσεται]]</big>** |
+| A fire | **<big>[[G4442\|πυρ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| shall burn; | **<big>[[G2545\|καυθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| gale | **<big>[[G7844\|καταιγίς]]</big>** |
+| an exceeding | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Ps.50.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.2|<< Psalm 50:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.4|Psalm 50:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Hazor\_2 • A town in the southland of Judah.*</small>
 
 <span class='tipnrhighlight'>Hazor</span> was a town allotted to the tribe of Judah in the Negev region.
-- A location near Kadesh-barnea<[[H6946G]]> only mentioned at [[Josh.15.23|Jos.15.23]]; 
-- only referred to as Hazor<[[H2674H]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Kadesh-barnea **<big>[[H6946|קָדֵשׁ]]</big>** only mentioned at [[Josh.15.23|Jos.15.23]]; 
+- only referred to as Hazor **<big>[[H2674|חָצוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.68771281376111,34.49479554246946&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Hazor in the biblical text serves to provide a detailed account o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hazor | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2674H) <small>*Hebrew*</small> | 1x | [Jos.15.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazor\*\|reference=Jos.15.23) |
-All Strong's for **Hazor**: \[[[H2674H]]\]
+| Hazor | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2674H) | 1x | [Jos.15.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazor\*\|reference=Jos.15.23) |
+All entries for **Hazor**:  **<big>[[H2674|חָצוֹר]]</big>**

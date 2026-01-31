@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּרְצִי‎</span></big> **Partsîy** <small>*(par-tsee')*</small> ==**Perezite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎פֶּרֶץ‎</span><sup><small>[[H6557]]</small></sup></small>
+**<big><span class="ashebrew">‎פַּרְצִי‎</span></big>** **Partsîy** <small>*(par-tsee')*</small> ==**Perezite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H6557|‎פֶּרֶץ‎]]</big>**</small>
 
 $\quad$ Pharzites.
 - § Pharzites = *see Pharez "breach"*

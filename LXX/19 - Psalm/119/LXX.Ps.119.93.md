@@ -7,20 +7,20 @@ I will never forget thy precepts: for with them thou hast quickened me.
 I will never forget Your precepts, for by them You have revived me.<small><sub>**MT:**</sub></small>
 [[Ps.119.93|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.92|<< Psalm 119:92]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.94|Psalm 119:94 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I forget | <big><span class="asgreek">επιλάθωμαι</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ordinances | <big><span class="asgreek">δικαιωμάτων</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you enlivened | <big><span class="asgreek">έζησάς</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should I forget | **<big>[[G1950\|επιλάθωμαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your ordinances | **<big>[[G1345\|δικαιωμάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| you enlivened | **<big>[[G2198\|έζησάς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Ps.119.93|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.92|<< Psalm 119:92]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.94|Psalm 119:94 >>]]</td></tr></table>
 
 

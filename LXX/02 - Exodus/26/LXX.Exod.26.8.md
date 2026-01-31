@@ -7,33 +7,33 @@ The length of one curtain [shall be] thirty cubits, and the breadth of one curta
 Each of the eleven curtains is to be the same size—thirty cubits long and four cubits wide.<small><sub>**MT:**</sub></small>
 [[Exod.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.7|<< Exodus 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.9|Exodus 26:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hide covering | <big><span class="asgreek">δέρρεως</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| cubits; | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hide covering | <big><span class="asgreek">δέρρεως</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| measure | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eleven | <big><span class="asgreek">ένδεκα</span></big> <sup><small><small>[[G1733]]</small></small></sup> |
-| hide coverings. | <big><span class="asgreek">δέρρεσι</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| length | **<big>[[G3372\|μήκος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| hide covering | **<big>[[G6801\|δέρρεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| one | **<big>[[G1520\|μιάς]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| cubits; | **<big>[[G4083\|πηχέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| hide covering | **<big>[[G6801\|δέρρεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| one | **<big>[[G1520\|μιάς]]</big>** |
+| measure | **<big>[[G3358\|μέτρον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same | **<big>[[G1473\|αυτό]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| eleven | **<big>[[G1733\|ένδεκα]]</big>** |
+| hide coverings. | **<big>[[G6801\|δέρρεσι]]</big>** |
 [[Exod.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.7|<< Exodus 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.9|Exodus 26:9 >>]]</td></tr></table>
 
 

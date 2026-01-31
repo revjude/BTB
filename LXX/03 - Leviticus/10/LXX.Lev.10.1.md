@@ -10,39 +10,39 @@ And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put 
 Now Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense, and offered unauthorized fire before the LORD, contrary to His command.<small><sub>**MT:**</sub></small>
 [[Lev.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.24|<< Leviticus 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.2|Leviticus 10:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβόντες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| Nadab | <big><span class="asgreek">Ναδάβ</span></big> <sup><small><small>[[H5070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abihu | <big><span class="asgreek">Αβιούδ</span></big> <sup><small><small>[[G0010]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his censer, | <big><span class="asgreek">πυρείον</span></big> <sup><small><small>[[G8992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they placed | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">επέβαλον</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| incense, | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offered | <big><span class="asgreek">προσήνεγκαν</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| an alien | <big><span class="asgreek">αλλότριον</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| assigned not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">προσέταξε</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking | **<big>[[G2983\|λαβόντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| Nadab | **<big>[[H5070\|Ναδάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abihu | **<big>[[G0010\|Αβιούδ]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his censer, | **<big>[[G8992\|πυρείον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they placed | **<big>[[G2007\|επέθηκαν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| fire, | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1911\|επέβαλον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| incense, | **<big>[[G2368\|θυμίαμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offered | **<big>[[G4374\|προσήνεγκαν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| an alien | **<big>[[G0245\|αλλότριον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| assigned not | **<big>[[G3756\|ου]]</big>** **<big>[[G4367\|προσέταξε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Lev.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.24|<< Leviticus 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.2|Leviticus 10:2 >>]]</td></tr></table>
 
 

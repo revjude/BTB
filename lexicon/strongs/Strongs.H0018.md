@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎אֵבוּס‎</span></big> **ʼêbûwç** <small>*(ay-booce')*</small> ==**crib**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבַס‎</span><sup><small>[[H0075]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵבוּס‎</span></big>** **ʼêbûwç** <small>*(ay-booce')*</small> ==**crib**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0075|‎אָבַס‎]]</big>**</small>
 
 $\quad$ crib.
 - ***a manger*** or ***stall***
 
 **1)** crib, manger, feeding trough
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποθήκη</span><sup><small>[[G0596]]</small></sup> · <span class="asgreek">φάτνη</span><sup><small>[[G5336]]</small></sup>
+<small>See Greek: </small>**<big>[[G0596|ἀποθήκη]]</big>** · **<big>[[G5336|φάτνη]]</big>**

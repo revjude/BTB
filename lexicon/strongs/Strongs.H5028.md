@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְבָט‎</span></big> **Nᵉbâṭ** <small>*(neb-awt')*</small> ==**Nebat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָבַט‎</span><sup><small>[[H5027]]</small></sup>; regard</small>
+**<big><span class="ashebrew">‎נְבָט‎</span></big>** **Nᵉbâṭ** <small>*(neb-awt')*</small> ==**Nebat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5027|‎נָבַט‎]]</big>**; regard</small>
 
 $\quad$ Nebat.
 - § Nebat = *"aspect"*

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎חֲבוּלָא‎</span> <small>***(cha.vu.lah)***</small> ==**crime**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H2250]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2250|חַבּוּרָה]]</big>**</small> 
 
-- Aramaic of <i>c[[Hab.hab.0|hab.b]] u.rah</i> (<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎ב‎</span>ּ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ה‎</span> "wound" [[H2250]])
+- Aramaic of <i>c[[Hab.hab.0|hab.b]] u.rah</i> (<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎ב‎</span>ּ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ה‎</span> "wound" **<big>[[H2250|חַבּוּרָה]]</big>**)

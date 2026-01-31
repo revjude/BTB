@@ -6,17 +6,17 @@ I have long time holden my peace; I have been still, [and] refrained myself: [no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I have been silent  | <span class="ashebrew"><big>הֶחֱשֵׁ֙יתִי֙ </big></span><small><small><sup>[[H2814]]</sup></small></small> &#8207;| he.che.Shei.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a long time  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֔ם </big></span><small><small><sup>[[H5769J]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have kept silent  | <span class="ashebrew"><big>אַחֲרִ֖ישׁ </big></span><small><small><sup>[[H2790B]]</sup></small></small> &#8207;| 'a.cha.Rish <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have restrained myself  | <span class="ashebrew"><big>אֶתְאַפָּ֑ק </big></span><small><small><sup>[[H0662]]</sup></small></small> &#8207;| 'et.'a.Pak <small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> [woman] giving birth  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יּוֹלֵדָ֣ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ka <small><sup>[[HRd]]</sup></small> i.yo.le.Dah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I groan  | <span class="ashebrew"><big>אֶפְעֶ֔ה </big></span><small><small><sup>[[H6463]]</sup></small></small> &#8207;| 'ef.'Eh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I puff  | <span class="ashebrew"><big>אֶשֹּׁ֥ם </big></span><small><small><sup>[[H5395]]</sup></small></small> &#8207;| 'e.Shom <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I may pant  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶשְׁאַ֖ף </big></span><small><small><sup>[[H7602A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'esh.'Af <small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יָֽחַד </big></span><small><small><sup>[[H3162A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have been silent  |**<big>&#8207;[[H2814\|הֶחֱשֵׁ֙יתִי֙]]&#8207; </big>**| he.che.Shei.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a long time  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5769J\|עוֹלָ֔ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have kept silent  |**<big>&#8207;[[H2790B\|אַחֲרִ֖ישׁ]]&#8207; </big>**| 'a.cha.Rish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have restrained myself  |**<big>&#8207;[[H0662\|אֶתְאַפָּ֑ק]]&#8207; </big>**| 'et.'a.Pak<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> [woman] giving birth  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3205\|יּוֹלֵדָ֣ה]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I groan  |**<big>&#8207;[[H6463\|אֶפְעֶ֔ה]]&#8207; </big>**| 'ef.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I puff  |**<big>&#8207;[[H5395\|אֶשֹּׁ֥ם]]&#8207; </big>**| 'e.Shom<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may pant  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7602A\|אֶשְׁאַ֖ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'esh.'Af<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162A\|יָֽחַד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
 

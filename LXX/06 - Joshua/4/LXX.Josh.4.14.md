@@ -7,28 +7,28 @@ On that day the LORD magnified Joshua in the sight of all Israel; and they feare
 On that day the LORD exalted Joshua in the sight of all Israel, and they revered him all the days of his life, just as they had revered Moses.<small><sub>**MT:**</sub></small>
 [[Josh.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.13|<< Joshua 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.15|Joshua 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| that | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> increased | <big><span class="asgreek">ηύξησε</span></big> <sup><small><small>[[G0837]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούν</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they feared | <big><span class="asgreek">εφοβούντο</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| they feared | <big><span class="asgreek">εφοβούντο</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| as much | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| time \[as\] | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| he lived. | <big><span class="asgreek">έζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| that | **<big>[[G1565\|εκείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> increased | **<big>[[G0837\|ηύξησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joshua | **<big>[[G2424\|Ιησούν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they feared | **<big>[[G5399\|εφοβούντο]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| they feared | **<big>[[G5399\|εφοβούντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| as much | **<big>[[G3745\|όσον]]</big>** |
+| time \[as\] | **<big>[[G5550\|χρόνον]]</big>** |
+| he lived. | **<big>[[G2198\|έζη]]</big>** |
 [[Josh.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.13|<< Joshua 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.15|Joshua 4:15 >>]]</td></tr></table>
 
 

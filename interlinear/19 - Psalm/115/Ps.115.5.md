@@ -6,16 +6,16 @@ They have mouths, but cannot speak; they have eyes, but cannot see;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.4|<< Psalms 115:4]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.6|Psalms 115:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a mouth  | <span class="ashebrew"><big>פֶּֽה </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| peh- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to them  | <span class="ashebrew"><big>לָ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they speak  | <span class="ashebrew"><big>יְדַבֵּ֑רוּ </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| ye.da.Be.ru <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes  | <span class="ashebrew"><big>עֵינַ֥יִם </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Na.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belong] to them  | <span class="ashebrew"><big>לָ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֗ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they see  | <span class="ashebrew"><big>יִרְאֽוּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yir.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mouth  |**<big>&#8207;[[H6310G\|פֶּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| peh-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to them  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they speak  |**<big>&#8207;[[H1696G\|יְדַבֵּ֑רוּ]]&#8207; </big>**| ye.da.Be.ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes  |**<big>&#8207;[[H5869A\|עֵינַ֥יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to them  |**<big>&#8207;[[H9005\|לָ֝]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they see  |**<big>&#8207;[[H7200G\|יִרְאֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.4|<< Psalms 115:4]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.6|Psalms 115:6 >>]]</td></tr></table>
 
 

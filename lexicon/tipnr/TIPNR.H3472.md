@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ishpah</span> was a descendant of Benjamin through Beriah \([[1Chr.8.16|1Ch.8.16]]\).
 - A man from the tribe of Benjamin  living at the time of Egypt and Wilderness, only mentioned at [[1Chr.8.16|1Ch.8.16]]; 
-- only referred to as Ishpah<[[H3472]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Beriah<[[H1283I]]>; 
-- a brother of Arad<[[H6166B]]>, Ahio<[[H0283H]]>, Shashak<[[H8349]]>, Jeremoth<[[H3406I]]>, Zebadiah<[[H2069G]]>, Eder<[[H5738]]>, Michael<[[H4317L]]> and Joha<[[H3109G]]>.
+- only referred to as Ishpah **<big>[[H3472|יִשְׁפָּה]]</big>**; 
+-  son of Beriah **<big>[[H1283|בְּרִיעָה]]</big>**; 
+- a brother of Arad **<big>[[H6166|עֲרָד]]</big>**, Ahio **<big>[[H0283|אַחְיוֹ]]</big>**, Shashak **<big>[[H8349|שָׁשַׁק]]</big>**, Jeremoth **<big>[[H3406|יְרִימוֹת]]</big>**, Zebadiah **<big>[[H2069|זְבַדְיָה]]</big>**, Eder **<big>[[H5738|עֶדֶר]]</big>**, Michael **<big>[[H4317|מִיכָאֵל]]</big>** and Joha **<big>[[H3109|יוֹחָא]]</big>**.
 
 Ishpah is mentioned in a genealogy of the tribe of Benjamin in [[1Chr.8.16|1 Chronicles 8:16]]. He is listed as one of the sons of Beriah, who was a descendant of Benjamin through Elpaal. 
 
@@ -16,8 +16,8 @@ No additional information is given about Ishpah's life, occupation, or role with
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishpah (KJV= Ispah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3472) <small>*Hebrew*</small> | 1x | [1Ch.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishpah\*\|reference=1Ch.8.16) |
-All Strong's for **Ishpah**: \[[[H3472]]\]
+| Ishpah (KJV= Ispah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3472) | 1x | [1Ch.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishpah\*\|reference=1Ch.8.16) |
+All entries for **Ishpah**:  **<big>[[H3472|יִשְׁפָּה]]</big>**
 #### Related Profiles:
 - **[Beriah](H1283I)** (father)
 - **[Arad](H6166B)** (sibling)

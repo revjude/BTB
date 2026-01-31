@@ -1,8 +1,7 @@
-<span class="ashebrew">‎מִיכַל‎</span> <small>***(mi.khal)***</small> ==**Merab**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-spelling of: <small>[[H4764]]</small> 
+<small>spelling of:</small> <small>**<big>[[H4764|מֵרָב]]</big>**</small> 
 
 - A woman of the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Sam.14.49|1Sa.14.49]]
--  daughter of: Saul ([[H7586G]]) and Ahinoam ([[H0293]]); married to Adriel ([[H5741]])
--  sister of: Jonathan ([[H3083H]]), Abinadab ([[H0041H]]), Malchi-shua ([[H4444]]) and Michal ([[H4324]])
--  half-brother of: Ish-bosheth ([[H0378]]), Armoni ([[H0764]]) and Mephibosheth ([[H4648H]])
-- Another spelling of <i>me.rav</i> (<span class='ashebrew'>‎מ‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ב‎</span> "Merab" [[H4764]])
+-  daughter of: Saul (**<big>[[H7586G|שָׁאוּל]]</big>**) and Ahinoam (**<big>[[H0293|אֲחִינֹעַם]]</big>**); married to Adriel (**<big>[[H5741|עַדְרִיאֵל]]</big>**)
+-  sister of: Jonathan (**<big>[[H3083H|יְהוֹנָתָן]]</big>**), Abinadab (**<big>[[H0041H|אֲבִינָדָב]]</big>**), Malchi-shua (**<big>[[H4444|מַלְכִּישׁוּעַ]]</big>**) and Michal (**<big>[[H4324|מִיכָל]]</big>**)
+-  half-brother of: Ish-bosheth (**<big>[[H0378|אִישׁ־בֹּשֶׁת]]</big>**), Armoni (**<big>[[H0764|אַרְמֹנִי]]</big>**) and Mephibosheth (**<big>[[H4648H|מְפִיבֹשֶׁת]]</big>**)
+- Another spelling of <i>me.rav</i> (<span class='ashebrew'>‎מ‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ב‎</span> "Merab" **<big>[[H4764|מֵרָב]]</big>**)

@@ -10,32 +10,32 @@ Who hath measured the waters in the hollow of his hand, and meted out heaven wit
 Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?<small><sub>**MT:**</sub></small>
 [[Isa.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.11|<< Isaiah 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.13|Isaiah 40:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| measured | <big><span class="asgreek">εμέτρησε</span></big> <sup><small><small>[[G3354]]</small></small></sup> |
-| \[with\] the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| with a span, | <big><span class="asgreek">σπιθαμή</span></big> <sup><small><small>[[G9140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in a handful? | <big><span class="asgreek">δρακί</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| established | <big><span class="asgreek">έστησε</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| weight, | <big><span class="asgreek">σταθμώ</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| groves | <big><span class="asgreek">νάπας</span></big> <sup><small><small>[[G8375]]</small></small></sup> |
-| in a yoke \[balance scale\]? | <big><span class="asgreek">ζυγώ</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| measured | **<big>[[G3354\|εμέτρησε]]</big>** |
+| \[with\] the | **<big>[[G3588\|τη]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| with a span, | **<big>[[G9140\|σπιθαμή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| in a handful? | **<big>[[G6968\|δρακί]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| established | **<big>[[G2476\|έστησε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| weight, | **<big>[[G9150\|σταθμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| groves | **<big>[[G8375\|νάπας]]</big>** |
+| in a yoke \[balance scale\]? | **<big>[[G2218\|ζυγώ]]</big>** |
 [[Isa.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.11|<< Isaiah 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.13|Isaiah 40:13 >>]]</td></tr></table>
 
 

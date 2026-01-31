@@ -7,38 +7,38 @@ And a cubit on the one side, and a cubit on the other side of that which remaine
 And the tent curtains will be a cubit longer on either side, and the excess will hang over the sides of the tabernacle to cover it.<small><sub>**MT:**</sub></small>
 [[Exod.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.12|<< Exodus 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.14|Exodus 26:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A cubit | <big><span class="asgreek">πήχυν</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| this \[side\], | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχυν</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| that \[side\] | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| superior part | <big><span class="asgreek">υπερέχοντος</span></big> <sup><small><small>[[G5242]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hide coverings, | <big><span class="asgreek">δέρρεων</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκους</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hide coverings | <big><span class="asgreek">δέρρεων</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to cover | <big><span class="asgreek">συγκαλύπτον</span></big> <sup><small><small>[[G4780]]</small></small></sup> |
-| up | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">πλάγια</span></big> <sup><small><small>[[G8800]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| on this side and that side, | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| it should be covered. | <big><span class="asgreek">καλύπτη</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| A cubit | **<big>[[G4083\|πήχυν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| this \[side\], | **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cubit | **<big>[[G4083\|πήχυν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| that \[side\] | **<big>[[G3778\|τούτου]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| superior part | **<big>[[G5242\|υπερέχοντος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| hide coverings, | **<big>[[G6801\|δέρρεων]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| length | **<big>[[G3372\|μήκους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| hide coverings | **<big>[[G6801\|δέρρεων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent. | **<big>[[G4633\|σκηνής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to cover | **<big>[[G4780\|συγκαλύπτον]]</big>** |
+| up | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sides | **<big>[[G8800\|πλάγια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| on this side and that side, | **<big>[[G6033\|ένθεν]]</big>** **<big>[[G2532\|και]]</big>** **<big>[[G6033\|ένθεν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| it should be covered. | **<big>[[G2572\|καλύπτη]]</big>** |
 [[Exod.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.12|<< Exodus 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.14|Exodus 26:14 >>]]</td></tr></table>
 
 

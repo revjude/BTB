@@ -6,26 +6,26 @@ One of the criminals who hung there heaped abuse on Him. “Are You not the Chri
 <small><sub>**Literal:**</sub></small>
 One now of those having been hanged criminals he was denigrating Him saying: Surely you yourself are the Christ? do save Yourself and us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.38|<< Luke 23:38]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.40|Luke 23:40 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| One |<big><span class="asgreek">Εἷς</span></big> <small><small><sup>[[G1520]]</sup></small></small> |Heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of those |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having been hanged |<big><span class="asgreek">κρεμασθέντων</span></big> <small><small><sup>[[G2910]]</sup></small></small> |kremasthentōn <small><sup>[[V-APP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| criminals |<big><span class="asgreek">κακούργων</span></big> <small><small><sup>[[G2557]]</sup></small></small> |kakourgōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was denigrating |<big><span class="asgreek">ἐβλασφήμει</span></big> <small><small><sup>[[G0987]]</sup></small></small> |eblasphēmei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying: |<big><span class="asgreek">λέγων·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
-| Surely [^1] [^2] |<big><span class="asgreek">οὐχὶ</span></big> <small><small><sup>[[G3780]]</sup></small></small> |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| you yourself |<big><span class="asgreek">σὺ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are |<big><span class="asgreek">εἶ</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ei <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ? |<big><span class="asgreek">χριστός;</span></big> <small><small><sup>[[G5547]]</sup></small></small> |christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do save |<big><span class="asgreek">σῶσον</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Yourself |<big><span class="asgreek">σεαυτὸν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |seauton <small><sup>[[F-2ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| us! |<big><span class="asgreek">ἡμᾶς.¶</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| One |**<big>[[G1520\|Εἷς]]</big>**  |Heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of those |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having been hanged |**<big>[[G2910\|κρεμασθέντων]]</big>**  |kremasthentōn <small><sup>[[V-APP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| criminals |**<big>[[G2557\|κακούργων]]</big>**  |kakourgōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was denigrating |**<big>[[G0987\|ἐβλασφήμει]]</big>**  |eblasphēmei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying: |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| Surely [^1] [^2] |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are |**<big>[[G1510\|εἶ]]</big>**  |ei <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ? |**<big>[[G5547\|χριστός;]]</big>**  |christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do save |**<big>[[G4982\|σῶσον]]</big>**  |sōson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Yourself |**<big>[[G4771\|σεαυτὸν]]</big>**  |seauton <small><sup>[[F-2ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| us! |**<big>[[G3165\|ἡμᾶς.¶]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.38|<< Luke 23:38]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.40|Luke 23:40 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**Εἰ**</span>  (<i>Ei</i>) 'if' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**οὐχὶ**</span>  (<i>ouchi</i>) 'Surely' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^2]: ==TR+Byz==: if | <span class="asgreek">Εἰ</span><small><sup>[[G1487]]</sup></small> | Ei<small><sup>[[COND]]</sup></small>
+[^1]: Variant:  **<big><span class='asgreek'>Εἰ</span></big>**  (<i>Ei</i>) 'if' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>οὐχὶ</span></big>**  (<i>ouchi</i>) 'Surely' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^2]: ==TR+Byz==: if | **<big>[[G1487|Εἰ]]</big>** | Ei<small><sup>[[COND]]</sup></small>

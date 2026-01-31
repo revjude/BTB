@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרָז‎</span></big> **pârâz** <small>*(paw-rawz')*</small> ==**warrior**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרָז‎</span></big>** **pârâz** <small>*(paw-rawz')*</small> ==**warrior**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to separate, i.e.</small>
 
 $\quad$ village.

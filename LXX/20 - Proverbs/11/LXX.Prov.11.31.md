@@ -11,18 +11,18 @@ If the righteous receive their due on earth, how much more the ungodly and the s
 > $\quad$ referenced by: [[1Pet.4.18|1Pet 4:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If then | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| \[the\] just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \[are\] hardly | <big><span class="asgreek">μόλις</span></big> <sup><small><small>[[G3433]]</small></small></sup> |
-| delivered, | <big><span class="asgreek">σώζεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious one | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sinner, | <big><span class="asgreek">αμαρτωλός</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| shall he appear? | <big><span class="asgreek">φανείται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
+| If then | **<big>[[G1487\|ει]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G3303\|μεν]]</big>** |
+| \[the\] just | **<big>[[G1342\|δίκαιος]]</big>** |
+| \[are\] hardly | **<big>[[G3433\|μόλις]]</big>** |
+| delivered, | **<big>[[G4982\|σώζεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| impious one | **<big>[[G0765\|ασεβής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sinner, | **<big>[[G0268\|αμαρτωλός]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| shall he appear? | **<big>[[G5316\|φανείται]]</big>** |
 [[Prov.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.30|<< Proverbs 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.1|Proverbs 12:1 >>]]</td></tr></table>
 
 

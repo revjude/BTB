@@ -7,22 +7,22 @@ All they shall speak and say unto thee, Art thou also become weak as we? art tho
 They will all respond to you, saying, “You too have become weak, as we are; you have become like us!”<small><sub>**MT:**</sub></small>
 [[Isa.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.9|<< Isaiah 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.11|Isaiah 14:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| shall answer | <big><span class="asgreek">αποκριθήσονται</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερούσί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| captured | <big><span class="asgreek">εάλως</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we; | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| are you reckoned | <big><span class="asgreek">κατελογίσθης</span></big> <sup><small><small>[[G7871]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| shall answer | **<big>[[G0611\|αποκριθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερούσί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| You also | **<big>[[G2532\|και]]</big>** **<big>[[G1473\|συ]]</big>** |
+| captured | **<big>[[G6226\|εάλως]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| we; | **<big>[[G1473\|ημείς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| are you reckoned | **<big>[[G7871\|κατελογίσθης]]</big>** |
 [[Isa.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.9|<< Isaiah 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.11|Isaiah 14:11 >>]]</td></tr></table>
 
 

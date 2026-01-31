@@ -7,21 +7,21 @@ Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart
 Whoever keeps his command will come to no harm, and a wise heart knows the right time and procedure.<small><sub>**MT:**</sub></small>
 [[Eccl.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.4|<< Ecclesiastes 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.6|Ecclesiastes 8:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one keeping | <big><span class="asgreek">φυλάσσων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[the\] commandment | <big><span class="asgreek">εντολήν</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">γνώσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| an evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of judgment | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| knows | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of \[the\] wise | <big><span class="asgreek">σοφού</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one keeping | **<big>[[G5442\|φυλάσσων]]</big>** |
+| \[the\] commandment | **<big>[[G1785\|εντολήν]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| know | **<big>[[G1097\|γνώσεται]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| an evil | **<big>[[G4190\|πονηρόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρόν]]</big>** |
+| of judgment | **<big>[[G2920\|κρίσεως]]</big>** |
+| knows | **<big>[[G1097\|γινώσκει]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of \[the\] wise | **<big>[[G4680\|σοφού]]</big>** |
 [[Eccl.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.4|<< Ecclesiastes 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.6|Ecclesiastes 8:6 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ I built reservoirs to water my groves of flourishing trees.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.5|<< Ecclesiastes 2:5]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.7|Ecclesiastes 2:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I made  | <span class="ashebrew"><big>עָשִׂ֥יתִי </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Si.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> myself  | <span class="ashebrew"><big>לִ֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pools of  | <span class="ashebrew"><big>בְּרֵכ֣וֹת </big></span><small><small><sup>[[H1295H]]</sup></small></small> &#8207;| be.re.Khot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָ֑יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to water  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַשְׁק֣וֹת </big></span><small><small><sup>[[H8248G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hash.Kot <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from \<the> them  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| me. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a forest  | <span class="ashebrew"><big>יַ֖עַר </big></span><small><small><sup>[[H3293A]]</sup></small></small> &#8207;| Ya.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sprouting of  | <span class="ashebrew"><big>צוֹמֵ֥חַ </big></span><small><small><sup>[[H6779]]</sup></small></small> &#8207;| tzo.Me.ach <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trees  | <span class="ashebrew"><big>עֵצִֽים </big></span><small><small><sup>[[H6086H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Tzim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I made  |**<big>&#8207;[[H6213H\|עָשִׂ֥יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> myself  |**<big>&#8207;[[H9005\|לִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pools of  |**<big>&#8207;[[H1295H\|בְּרֵכ֣וֹת]]&#8207; </big>**| be.re.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָ֑יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to water  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8248G\|הַשְׁק֣וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hash.Kot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a forest  |**<big>&#8207;[[H3293A\|יַ֖עַר]]&#8207; </big>**| Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sprouting of  |**<big>&#8207;[[H6779\|צוֹמֵ֥חַ]]&#8207; </big>**| tzo.Me.ach<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trees  |**<big>&#8207;[[H6086H\|עֵצִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.5|<< Ecclesiastes 2:5]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.7|Ecclesiastes 2:7 >>]]</td></tr></table>
 
 

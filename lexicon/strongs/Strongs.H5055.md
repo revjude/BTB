@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָגַח‎</span></big> **nâgach** <small>*(naw-gakh')*</small> ==**to gore**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָגַח‎</span></big>** **nâgach** <small>*(naw-gakh')*</small> ==**to gore**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gore, push (down, -ing).

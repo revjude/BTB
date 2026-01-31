@@ -4,9 +4,9 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Dara</span> was a son of Zerah and grandson of Judah. \([[1Chr.2.6|1Ch.2.6]]\)
 - A man from the tribe of Judah living before Israel's Monarchy, only mentioned at [[1Chr.2.6|1Ch.2.6]]; 
-- only referred to as Dara<[[H1873]]> \(<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of Zerah<[[H2226I]]>; 
-- a brother of Zabdi<[[H2067G]]>, Ethan<[[H0387H]]>, Heman<[[H1968H]]> and Calcol<[[H3633H]]>.
+- only referred to as Dara **<big>[[H1873|דָּרַע]]</big>**; 
+-  son of Zerah **<big>[[H2226|זֶרַח]]</big>**; 
+- a brother of Zabdi **<big>[[H2067|זַבְדִּי]]</big>**, Ethan **<big>[[H0387|אֵיתָן]]</big>**, Heman **<big>[[H1968|הֵימָן]]</big>** and Calcol **<big>[[H3633|כַּלְכֹּל]]</big>**.
 
 Dara is mentioned in [[1Chr.2.6|1 Chronicles 2:6]] as one of the five sons of Zerah, along with Zimri, Ethan, Heman, and Calcol. Zerah was one of the twin sons of Judah, born to Tamar \(Genesis 38:30\). 
 
@@ -16,8 +16,8 @@ Apart from being listed in the genealogy of Judah, no other details about Dara's
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dara | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H1873) <small>*Hebrew*</small> | 1x | [1Ch.2.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dara\*\|reference=1Ch.2.6) |
-All Strong's for **Dara**: \[[[H1873]]\]
+| Dara | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H1873) | 1x | [1Ch.2.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dara\*\|reference=1Ch.2.6) |
+All entries for **Dara**:  **<big>[[H1873|דָּרַע]]</big>**
 #### Related Profiles:
 - **[Zerah](H2226I)** (father)
 - **[Zabdi](H2067G)** (sibling)

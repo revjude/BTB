@@ -7,28 +7,28 @@ And the cloud departed from off the tabernacle; and, behold, Miriam [became] lep
 As the cloud lifted from above the Tent, suddenly Miriam became leprous, white as snow. Aaron turned toward her, saw that she was leprous,<small><sub>**MT:**</sub></small>
 [[Num.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.9|<< Numbers 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.11|Numbers 12:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| left | <big><span class="asgreek">απέστη</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Miriam | <big><span class="asgreek">Μαριάμ</span></big> <sup><small><small>[[G3137]]</small></small></sup> |
-| became leprous | <big><span class="asgreek">λεπρώσα</span></big> <sup><small><small>[[G8181]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| snow. | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron looked | <big><span class="asgreek">επέβλεψεν</span></big> <sup><small><small>[[G1914]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Miriam, | <big><span class="asgreek">Μαριάμ</span></big> <sup><small><small>[[G3137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| she was leprous. | <big><span class="asgreek">λεπρώσα</span></big> <sup><small><small>[[G8181]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| left | **<big>[[G0868\|απέστη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent. | **<big>[[G4633\|σκηνής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Miriam | **<big>[[G3137\|Μαριάμ]]</big>** |
+| became leprous | **<big>[[G8181\|λεπρώσα]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| snow. | **<big>[[G5510\|χιών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Aaron looked | **<big>[[G1914\|επέβλεψεν]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Miriam, | **<big>[[G3137\|Μαριάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| she was leprous. | **<big>[[G8181\|λεπρώσα]]</big>** |
 [[Num.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.9|<< Numbers 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.11|Numbers 12:11 >>]]</td></tr></table>
 
 

@@ -6,25 +6,25 @@ Uthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, a desce
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.3|<< 1 Chronicles 9:3]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.5|1 Chronicles 9:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Uthai  | <span class="ashebrew"><big>עוּתַ֨י </big></span><small><small><sup>[[H5793G]]</sup></small></small> &#8207;| 'u.Tai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammihud  | <span class="ashebrew"><big>עַמִּיה֤וּד </big></span><small><small><sup>[[H5989K]]</sup></small></small> &#8207;| 'a.mi.Hud <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Omri  | <span class="ashebrew"><big>עָמְרִי֙ </big></span><small><small><sup>[[H6018I]]</sup></small></small> &#8207;| 'a.me.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Imri  | <span class="ashebrew"><big>אִמְרִ֣י </big></span><small><small><sup>[[H0566G]]</sup></small></small> &#8207;| 'im.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bani  from  [^3] | <span class="ashebrew"><big>בָּנִ֔י </big></span><small><small><sup>[[H1137I]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> &#8207;[^4] | ba.ni <small><sup>[[HNpm]]</sup></small>   min <small><sup>[[HR]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Perez  | <span class="ashebrew"><big>פֶ֖רֶץ </big></span><small><small><sup>[[H6557]]</sup></small></small> &#8207;| Fe.retz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָֽה </big></span><small><small><sup>[[H3063G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uthai  |**<big>&#8207;[[H5793G\|עוּתַ֨י]]&#8207; </big>**| 'u.Tai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammihud  |**<big>&#8207;[[H5989K\|עַמִּיה֤וּד]]&#8207; </big>**| 'a.mi.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Omri  |**<big>&#8207;[[H6018I\|עָמְרִי֙]]&#8207; </big>**| 'a.me.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Imri  |**<big>&#8207;[[H0566G\|אִמְרִ֣י]]&#8207; </big>**| 'im.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bani  from  [^3]|**<big>&#8207;[[H1137I\|בָּנִ֔י]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207; </big>**[^4] | ba.ni<small><sup>[[HNpm]]</sup></small>   min<small><sup>[[HR]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Perez  |**<big>&#8207;[[H6557\|פֶ֖רֶץ]]&#8207; </big>**| Fe.retz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.3|<< 1 Chronicles 9:3]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.5|1 Chronicles 9:5 >>]]</td></tr></table>
 
-[^1]: ==K==: **Benjamin ** | <small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>־</big></span> <small><sup>[[H1144G]]</sup></small> <span class="ashebrew"><big>בִּנְיָמִן</big></span>  | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: **Benjamin ** | <small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>־</big></span> <small><sup>[[H1144G]]</sup></small> <span class="ashebrew"><big>בִּנְיָמִן</big></span>  | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==K==: **Benjamin ** | <small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>־</big></span> <small><sup>[[H1144G]]</sup></small> <span class="ashebrew"><big>בִּנְיָמִן</big></span>  | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
+[^3]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
 [^4]: ==L== spelled: **<span class="ashebrew"><big>בִּנְיָמִן\־</big></span>**
 

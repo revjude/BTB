@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּסַל‎</span></big> **kâçal** <small>*(kaw-sal')*</small> ==**be stupid**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּסַל‎</span></big>** **kâçal** <small>*(kaw-sal')*</small> ==**be stupid**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be foolish.

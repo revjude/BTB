@@ -11,23 +11,23 @@ Your throne, O God, endures forever and ever, and justice is the scepter of Your
 > $\quad$ referenced by: [[Heb.1.8|Heb 1:8-9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your throne, | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| A rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of straightness | <big><span class="asgreek">ευθύτητος</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your kingdom. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your throne, | **<big>[[G2362\|θρόνος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| eon. | **<big>[[G0165\|αιώνος]]</big>** |
+| A rod | **<big>[[G4464\|ράβδος]]</big>** |
+| of straightness | **<big>[[G2118\|ευθύτητος]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| rod | **<big>[[G4464\|ράβδος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your kingdom. | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.45.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.5|<< Psalm 45:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.7|Psalm 45:7 >>]]</td></tr></table>
 
 

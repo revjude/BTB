@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּלִּים‎</span></big> **Gallîym** <small>*(gal-leem')*</small> ==**Gallim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎גַּל‎</span><sup><small>[[H1530]]</small></sup>; springs</small>
+**<big><span class="ashebrew">‎גַּלִּים‎</span></big>** **Gallîym** <small>*(gal-leem')*</small> ==**Gallim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H1530|‎גַּל‎]]</big>**; springs</small>
 
 $\quad$ Gallim.
 - § Gallim = *"springs"*

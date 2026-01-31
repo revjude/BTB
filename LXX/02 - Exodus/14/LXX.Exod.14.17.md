@@ -7,40 +7,40 @@ And I, behold, I will harden the hearts of the Egyptians, and they shall follow 
 And I will harden the hearts of the Egyptians so that they will go in after them. Then I will gain honor by means of Pharaoh and all his army and chariots and horsemen.<small><sub>**MT:**</sub></small>
 [[Exod.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.16|<< Exodus 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.18|Exodus 14:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will harden | <big><span class="asgreek">σκληρυνώ</span></big> <sup><small><small>[[G4645]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will enter in | <big><span class="asgreek">εισελεύσονται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will be glorified | <big><span class="asgreek">ενδοξασθήσομαι</span></big> <sup><small><small>[[G1740]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his military, | <big><span class="asgreek">στρατιά</span></big> <sup><small><small>[[G4756]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρμασι</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his horses. | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will harden | **<big>[[G4645\|σκληρυνώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will enter in | **<big>[[G1525\|εισελεύσονται]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will be glorified | **<big>[[G1740\|ενδοξασθήσομαι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his military, | **<big>[[G4756\|στρατιά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| chariots, | **<big>[[G0716\|άρμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his horses. | **<big>[[G2462\|ίπποις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.16|<< Exodus 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.18|Exodus 14:18 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּרְתַּם‎</span></big> **partam** <small>*(par-tam')*</small> ==**noble**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פַּרְתַּם‎</span></big>** **partam** <small>*(par-tam')*</small> ==**noble**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ (most) noble, prince.
@@ -6,4 +6,4 @@ $\quad$ (most) noble, prince.
 
 **1)** noble, nobleman
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔνδοξος</span><sup><small>[[G1741]]</small></sup>
+<small>See Greek: </small>**<big>[[G1741|ἔνδοξος]]</big>**

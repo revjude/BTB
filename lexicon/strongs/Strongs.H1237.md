@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּקְעָה‎</span></big> **biqʻâh** <small>*(bik-aw')*</small> ==**Valley (of Jericho)**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּקַע‎</span><sup><small>[[H1234]]</small></sup></small>
+**<big><span class="ashebrew">‎בִּקְעָה‎</span></big>** **biqʻâh** <small>*(bik-aw')*</small> ==**Valley (of Jericho)**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1234|‎בָּקַע‎]]</big>**</small>
 
 $\quad$ plain, valley.
 - properly, ***a split***, i.e. ***a wide level valley between mountains***
@@ -7,4 +7,4 @@ $\quad$ plain, valley.
 **1)** valley
 **2)** plain, level valley
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λεῖος</span><sup><small>[[G3006]]</small></sup> · <span class="asgreek">πεδινός</span><sup><small>[[G3977]]</small></sup>
+<small>See Greek: </small>**<big>[[G3006|λεῖος]]</big>** · **<big>[[G3977|πεδινός]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּבְעָתִי‎</span></big> **Gibʻâthîy** <small>*(ghib-aw-thee')*</small> ==**Gibeathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎גִּבְעָה‎</span><sup><small>[[H1390]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּבְעָתִי‎</span></big>** **Gibʻâthîy** <small>*(ghib-aw-thee')*</small> ==**Gibeathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H1390|‎גִּבְעָה‎]]</big>**</small>
 
 $\quad$ Gibeathite.
 - § Gibeathite = *"hilliness"*

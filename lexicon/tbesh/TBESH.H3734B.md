@@ -1,3 +1,1 @@
-<span class="asaramaic">‎כּוֹר‎</span> <small>***(kor)***</small> ==**kor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H3734A]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H3734A|כֹּר]]</big>**</small>

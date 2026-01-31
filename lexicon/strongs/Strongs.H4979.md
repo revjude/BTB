@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַתָּנָה‎</span></big> **mattânâh** <small>*(mat-taw-naw')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מַתָּן‎</span><sup><small>[[H4976]]</small></sup></small>
+**<big><span class="ashebrew">‎מַתָּנָה‎</span></big>** **mattânâh** <small>*(mat-taw-naw')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4976|‎מַתָּן‎]]</big>**</small>
 
 $\quad$ gift.
 - ***a present***
@@ -7,4 +7,4 @@ $\quad$ gift.
 
 **1)** gift
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δόμα</span><sup><small>[[G1390]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">δῶρον</span><sup><small>[[G1435]]</small></sup>
+<small>See Greek: </small>**<big>[[G1390|δόμα]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G1435|δῶρον]]</big>**

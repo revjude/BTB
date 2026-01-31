@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַכְלִלוּת‎</span></big> **chaklilûwth** <small>*(khak-lee-looth')*</small> ==**dullness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חַכְלִיל‎</span><sup><small>[[H2447]]</small></sup></small>
+**<big><span class="ashebrew">‎חַכְלִלוּת‎</span></big>** **chaklilûwth** <small>*(khak-lee-looth')*</small> ==**dullness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2447|‎חַכְלִיל‎]]</big>**</small>
 
 $\quad$ redness.
 - ***flash*** (of the eyes)
@@ -7,4 +7,4 @@ $\quad$ redness.
 
 **1)** redness, dullness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μέλας</span><sup><small>[[G3189]]</small></sup>
+<small>See Greek: </small>**<big>[[G3189|μέλας]]</big>**

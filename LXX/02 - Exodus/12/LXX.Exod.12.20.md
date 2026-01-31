@@ -7,18 +7,18 @@ Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened b
 You are not to eat anything leavened; eat unleavened bread in all your homes.”<small><sub>**MT:**</sub></small>
 [[Exod.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.19|<< Exodus 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.21|Exodus 12:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Anything | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| leavened | <big><span class="asgreek">ζυμωτόν</span></big> <sup><small><small>[[G7608]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat. | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| home | <big><span class="asgreek">κατοικητηρίω</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
-| of yours | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| unleavened \[breads\]. | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
+| Anything | **<big>[[G3956\|παν]]</big>** |
+| leavened | **<big>[[G7608\|ζυμωτόν]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| eat. | **<big>[[G2068\|έδεσθε]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| home | **<big>[[G2732\|κατοικητηρίω]]</big>** |
+| of yours | **<big>[[G1473\|υμών]]</big>** |
+| you shall eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| unleavened \[breads\]. | **<big>[[G0106\|άζυμα]]</big>** |
 [[Exod.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.19|<< Exodus 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.21|Exodus 12:21 >>]]</td></tr></table>
 
 

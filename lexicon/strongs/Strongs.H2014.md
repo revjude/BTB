@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲפֻגָה‎</span></big> **hăphugâh** <small>*(haf-oo-gaw')*</small> ==**cessation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎פּוּג‎</span><sup><small>[[H6313]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲפֻגָה‎</span></big>** **hăphugâh** <small>*(haf-oo-gaw')*</small> ==**cessation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6313|‎פּוּג‎]]</big>**</small>
 
 $\quad$ intermission.
 - ***relaxation***

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁדַף‎</span></big> **shâdaph** <small>*(shaw-daf')*</small> ==**to scorch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁדַף‎</span></big>** **shâdaph** <small>*(shaw-daf')*</small> ==**to scorch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ blast.

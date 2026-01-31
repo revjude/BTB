@@ -11,46 +11,46 @@ Because of the greatness that He bestowed on him, the people of every nation and
 > $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| greatness | <big><span class="asgreek">μεγαλωσύνης</span></big> <sup><small><small>[[G3172]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| tribes, | <big><span class="asgreek">φυλαί</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| languages | <big><span class="asgreek">γλώσσαι</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| trembling | <big><span class="asgreek">τρέμοντες</span></big> <sup><small><small>[[G5141]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβούμενοι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| before | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he willed | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did away with, | <big><span class="asgreek">ανήρει</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he willed | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beat, | <big><span class="asgreek">έτυπτεν</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he willed | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| raised up high, | <big><span class="asgreek">ύψου</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he willed | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| humbled. | <big><span class="asgreek">εταπείνου</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| greatness | **<big>[[G3172\|μεγαλωσύνης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples, | **<big>[[G2992\|λαοί]]</big>** |
+| tribes, | **<big>[[G5443\|φυλαί]]</big>** |
+| languages | **<big>[[G1100\|γλώσσαι]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| trembling | **<big>[[G5141\|τρέμοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fearing | **<big>[[G5399\|φοβούμενοι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| before | **<big>[[G4383\|προσώπου]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| Whom | **<big>[[G3739\|ους]]</big>** |
+| he willed | **<big>[[G1014\|εβούλετο]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| did away with, | **<big>[[G0337\|ανήρει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| he willed | **<big>[[G1014\|εβούλετο]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| beat, | **<big>[[G5180\|έτυπτεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| he willed | **<big>[[G1014\|εβούλετο]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| raised up high, | **<big>[[G5312\|ύψου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| he willed | **<big>[[G1014\|εβούλετο]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| humbled. | **<big>[[G5013\|εταπείνου]]</big>** |
 [[Dan.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.18|<< Daniel 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.20|Daniel 5:20 >>]]</td></tr></table>
 
 

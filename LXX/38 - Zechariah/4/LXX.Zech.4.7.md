@@ -7,29 +7,29 @@ Who [art] thou, O great mountain? before Zerubbabel [thou shalt become] a plain:
 What are you, O great mountain? Before Zerubbabel you will become a plain. Then he will bring forth the capstone accompanied by shouts of ‘Grace, grace to it!’”<small><sub>**MT:**</sub></small>
 [[Zech.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Zerubbabel | <big><span class="asgreek">Ζοροβάβελ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to set up? | <big><span class="asgreek">κατορθώσαι</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring forth | <big><span class="asgreek">εξοίσω</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| equaling | <big><span class="asgreek">ισότητα</span></big> <sup><small><small>[[G2471]]</small></small></sup> |
-| \[my\] favor | <big><span class="asgreek">χάριτος</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| of its favor | <big><span class="asgreek">χάριτα</span></big> <sup><small><small>[[G5485]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Zerubbabel | **<big>[[G2216\|Ζοροβάβελ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to set up? | **<big>[[G7976\|κατορθώσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will bring forth | **<big>[[G1627\|εξοίσω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίας]]</big>** |
+| equaling | **<big>[[G2471\|ισότητα]]</big>** |
+| \[my\] favor | **<big>[[G5485\|χάριτος]]</big>** |
+| of its favor | **<big>[[G5485\|χάριτα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Zech.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
 
 

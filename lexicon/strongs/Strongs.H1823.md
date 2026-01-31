@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּמוּת‎</span></big> **dᵉmûwth** <small>*(dem-ooth')*</small> ==**likeness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּמָה‎</span><sup><small>[[H1819]]</small></sup></small>
+**<big><span class="ashebrew">‎דְּמוּת‎</span></big>** **dᵉmûwth** <small>*(dem-ooth')*</small> ==**likeness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1819|‎דָּמָה‎]]</big>**</small>
 
 $\quad$ fashion, like (-ness, as), manner, similitude.
 - ***resemblance***
@@ -11,4 +11,4 @@ n f
 adv
 **2)** in the likeness of, like as
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἰδέα</span><sup><small>[[G2397]]</small></sup> · <span class="asgreek">ὅμοιος</span><sup><small>[[G3664]]</small></sup> · <span class="asgreek">ὁμοίωμα</span><sup><small>[[G3667]]</small></sup> · <span class="asgreek">ὁμοίωσις</span><sup><small>[[G3669]]</small></sup>
+<small>See Greek: </small>**<big>[[G2397|ἰδέα]]</big>** · **<big>[[G3664|ὅμοιος]]</big>** · **<big>[[G3667|ὁμοίωμα]]</big>** · **<big>[[G3669|ὁμοίωσις]]</big>**

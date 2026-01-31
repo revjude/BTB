@@ -10,26 +10,26 @@ And he found a new jawbone of an ass, and put forth his hand, and took it, and s
 He found the fresh jawbone of a donkey, reached out his hand and took it, and struck down a thousand men.<small><sub>**MT:**</sub></small>
 [[Judg.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.16|Judges 15:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a jaw \[bone\] | <big><span class="asgreek">σιαγόνα</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
-| of a donkey | <big><span class="asgreek">όνου</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| having been tossed. | <big><span class="asgreek">ερριμμένην</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stretched out | <big><span class="asgreek">εξέτεινε</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he found | **<big>[[G2147\|εύρεν]]</big>** |
+| a jaw \[bone\] | **<big>[[G4600\|σιαγόνα]]</big>** |
+| of a donkey | **<big>[[G3688\|όνου]]</big>** |
+| having been tossed. | **<big>[[G4496\|ερριμμένην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stretched out | **<big>[[G1614\|εξέτεινε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand, | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| men. | **<big>[[G0435\|άνδρας]]</big>** |
 [[Judg.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.16|Judges 15:16 >>]]</td></tr></table>
 
 

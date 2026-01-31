@@ -7,26 +7,26 @@ Make thee two trumpets of silver; of a whole piece shalt thou make them: that th
 “Make two trumpets of hammered silver to be used for calling the congregation and for having the camps set out.<small><sub>**MT:**</sub></small>
 [[Num.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.1|<< Numbers 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.3|Numbers 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Make | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| trumpets | <big><span class="asgreek">σάλπιγγας</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| of silver! | <big><span class="asgreek">αργυράς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| A hammered \[work\] | <big><span class="asgreek">ελατάς</span></big> <sup><small><small>[[G7179]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονταί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to call | <big><span class="asgreek">ανακαλείν</span></big> <sup><small><small>[[G6285]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to lift away | <big><span class="asgreek">εξαιρείν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camps. | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| Make | **<big>[[G4160\|ποίησον]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| trumpets | **<big>[[G4536\|σάλπιγγας]]</big>** |
+| of silver! | **<big>[[G0693\|αργυράς]]</big>** |
+| A hammered \[work\] | **<big>[[G7179\|ελατάς]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονταί]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| to call | **<big>[[G6285\|ανακαλείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to lift away | **<big>[[G1808\|εξαιρείν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| camps. | **<big>[[G3925\|παρεμβολάς]]</big>** |
 [[Num.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.1|<< Numbers 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.3|Numbers 10:3 >>]]</td></tr></table>
 
 

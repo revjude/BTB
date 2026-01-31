@@ -6,27 +6,27 @@ with houses full of every good thing with which you did not fill them, with well
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.10|<< Deuteronomy 6:10]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.12|Deuteronomy 6:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and houses  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָ֨תִּ֜ים </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Va.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| full  | <span class="ashebrew"><big>מְלֵאִ֣ים </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| me.le.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good thing  | <span class="ashebrew"><big>טוּב֮ </big></span><small><small><sup>[[H2898]]</sup></small></small> &#8207;| tuv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you filled  | <span class="ashebrew"><big>מִלֵּאתָ֒ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mi.le.Ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wells  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֹרֹ֤ת </big></span><small><small><sup>[[H0953A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vo.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dug out  | <span class="ashebrew"><big>חֲצוּבִים֙ </big></span><small><small><sup>[[H2672]]</sup></small></small> &#8207;| cha.tzu.Vim <small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you dug  | <span class="ashebrew"><big>חָצַ֔בְתָּ </big></span><small><small><sup>[[H2672]]</sup></small></small> &#8207;| cha.Tzav.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vineyards  | <span class="ashebrew"><big>כְּרָמִ֥ים </big></span><small><small><sup>[[H3754]]</sup></small></small> &#8207;| ke.ra.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and olive trees  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זֵיתִ֖ים </big></span><small><small><sup>[[H2132H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> zei.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you planted  | <span class="ashebrew"><big>נָטָ֑עְתָּ </big></span><small><small><sup>[[H5193]]</sup></small></small> &#8207;| na.Ta.'e.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will eat  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָכַלְתָּ֖ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.khal.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will be satisfied  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שָׂבָֽעְתָּ </big></span><small><small><sup>[[H7646]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sa.Va.'e.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and houses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בָ֨תִּ֜ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Va.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  |**<big>&#8207;[[H4392\|מְלֵאִ֣ים]]&#8207; </big>**| me.le.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good thing  |**<big>&#8207;[[H2898\|טוּב֮]]&#8207; </big>**| tuv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you filled  |**<big>&#8207;[[H4390\|מִלֵּאתָ֒]]&#8207; </big>**| mi.le.Ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wells  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0953A\|בֹרֹ֤ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vo.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dug out  |**<big>&#8207;[[H2672\|חֲצוּבִים֙]]&#8207; </big>**| cha.tzu.Vim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you dug  |**<big>&#8207;[[H2672\|חָצַ֔בְתָּ]]&#8207; </big>**| cha.Tzav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyards  |**<big>&#8207;[[H3754\|כְּרָמִ֥ים]]&#8207; </big>**| ke.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and olive trees  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2132H\|זֵיתִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zei.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you planted  |**<big>&#8207;[[H5193\|נָטָ֑עְתָּ]]&#8207; </big>**| na.Ta.'e.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכַלְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khal.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be satisfied  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7646\|שָׂבָֽעְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Va.'e.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.10|<< Deuteronomy 6:10]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.12|Deuteronomy 6:12 >>]]</td></tr></table>
 
 

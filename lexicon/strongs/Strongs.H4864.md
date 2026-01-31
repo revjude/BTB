@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשְׂאֵת‎</span></big> **masʼêth** <small>*(mas-ayth')*</small> ==**tribute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָשָׂא‎</span><sup><small>[[H5375]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשְׂאֵת‎</span></big>** **masʼêth** <small>*(mas-ayth')*</small> ==**tribute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5375|‎נָשָׂא‎]]</big>**</small>
 
 $\quad$ burden, collection, sign of fire, (great) flame, gift, lifting up, mess, oblation, reward.
 - properly, (abstractly) ***a raising*** (as of the hands in prayer), or ***rising*** (of flame)
@@ -14,4 +14,4 @@ $\quad$ **1b)** utterance, oracle
 $\quad$ **1c)** burden
 $\quad$ **1d)** portion, present, largesse, gift, contribution, offering, tribute
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δῶρον</span><sup><small>[[G1435]]</small></sup> · <span class="asgreek">μερίς</span><sup><small>[[G3310]]</small></sup> · <span class="asgreek">πύργος</span><sup><small>[[G4444]]</small></sup> · <span class="asgreek">σημεῖον</span><sup><small>[[G4592]]</small></sup> · <span class="asgreek">σύσσημον</span><sup><small>[[G4953]]</small></sup>
+<small>See Greek: </small>**<big>[[G1435|δῶρον]]</big>** · **<big>[[G3310|μερίς]]</big>** · **<big>[[G4444|πύργος]]</big>** · **<big>[[G4592|σημεῖον]]</big>** · **<big>[[G4953|σύσσημον]]</big>**

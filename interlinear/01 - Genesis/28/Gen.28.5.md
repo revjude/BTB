@@ -6,25 +6,25 @@ So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.4|<< Genesis 28:4]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.6|Genesis 28:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he sent off  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁלַ֤ח </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Lach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָק֙ </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶֽת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֔ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֖לֶךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.lekh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Paddan towards  | <span class="ashebrew"><big>פַּדֶּ֣נָֽ </big></span><small><small><sup>[[H6307]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| pa.De.na <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aram  | <span class="ashebrew"><big>אֲרָ֑ם </big></span><small><small><sup>[[H0758L]]</sup></small></small> &#8207;| 'a.Ram <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Laban  | <span class="ashebrew"><big>לָבָ֤ן </big></span><small><small><sup>[[H3837A]]</sup></small></small> &#8207;| la.Van <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bethuel  | <span class="ashebrew"><big>בְּתוּאֵל֙ </big></span><small><small><sup>[[H1328A]]</sup></small></small> &#8207;| be.tu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Aramean  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲרַמִּ֔י </big></span><small><small><sup>[[H0761J]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.ra.Mi <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] brother of  | <span class="ashebrew"><big>אֲחִ֣י </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rebekah  | <span class="ashebrew"><big>רִבְקָ֔ה </big></span><small><small><sup>[[H7259]]</sup></small></small> &#8207;| riv.Kah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mother of  | <span class="ashebrew"><big>אֵ֥ם </big></span><small><small><sup>[[H0517]]</sup></small></small> &#8207;| 'em <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֖ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Esau  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵשָֽׂו </big></span><small><small><sup>[[H6215G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.Sav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he sent off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָק֙]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֔ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֖לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Paddan towards  |**<big>&#8207;[[H6307\|פַּדֶּ֣נָֽ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| pa.De.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  |**<big>&#8207;[[H0758L\|אֲרָ֑ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֤ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bethuel  |**<big>&#8207;[[H1328A\|בְּתוּאֵל֙]]&#8207; </big>**| be.tu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Aramean  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0761J\|אֲרַמִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Mi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֣י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rebekah  |**<big>&#8207;[[H7259\|רִבְקָ֔ה]]&#8207; </big>**| riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mother of  |**<big>&#8207;[[H0517\|אֵ֥ם]]&#8207; </big>**| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Esau  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6215G\|עֵשָֽׂו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.4|<< Genesis 28:4]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.6|Genesis 28:6 >>]]</td></tr></table>
 
 

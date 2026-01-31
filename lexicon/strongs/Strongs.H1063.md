@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּכּוּרָה‎</span></big> **bikkûwrâh** <small>*(bik-koo-raw')*</small> ==**early fig**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎בִּכּוּר‎</span><sup><small>[[H1061]]</small></sup></small>
+**<big><span class="ashebrew">‎בִּכּוּרָה‎</span></big>** **bikkûwrâh** <small>*(bik-koo-raw')*</small> ==**early fig**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H1061|‎בִּכּוּר‎]]</big>**</small>
 
 $\quad$ firstripe (fruit).
 - ***the early fig***
@@ -7,4 +7,4 @@ $\quad$ firstripe (fruit).
 **1)** first-ripe fig, early fig
 **2)** (TWOT) firstfruits
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πρόδρομος</span><sup><small>[[G4274]]</small></sup> · <span class="asgreek">πρώϊμος</span><sup><small>[[G4406]]</small></sup> · <span class="asgreek">σῦκον</span><sup><small>[[G4810]]</small></sup>
+<small>See Greek: </small>**<big>[[G4274|πρόδρομος]]</big>** · **<big>[[G4406|πρώϊμος]]</big>** · **<big>[[G4810|σῦκον]]</big>**

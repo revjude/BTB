@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐν-τρέπω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">כָּנַע</span> <small><sup>[[H3665]]</sup></small> ni., <span class="ashebrew">כָּלַם</span> <small><sup>[[H3637]]</sup></small> ni., etc. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐν-τρέπω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H3665|כָּנַע]]</big>** ni., **<big>[[H3637|כָּלַם]]</big>** ni., etc. ;\] </span> </span>
 <span class="asitalic">to turn about</span>; metaph., <span class="asitalic">put to shame</span>: c. acc, [[1Cor.4.14|I Co 4:14]]; pass., [[2Thess.3.14|II Th 3:14]], [[Titus.2.8|Tit 2:8]]; mid., <span class="asitalic">to reverence</span>: c. acc pers. (cl. c. gen.), [[Matt.21.37|Mt 21:37]], [[Mark.12.6|Mk 12:6]], [[Luke.18.2|Lk 18:2]], [[Luke.18.4|4]] [[Luke.20.13|20:13]], [[Heb.12.9|He 12:9]] (cf. MM, <span class="asitalic">Exp.</span>, iii, xiii).†
 
 **Abbott-Smith References**

@@ -7,18 +7,18 @@ Therefore doth Job open his mouth in vain; he multiplieth words without knowledg
 So Job opens his mouth in vain and multiplies words without knowledge.”<small><sub>**MT:**</sub></small>
 [[Job.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.15|<< Job 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.1|Job 36:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Job | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| acting in folly | <big><span class="asgreek">ματαίως</span></big> <sup><small><small>[[G8260]]</small></small></sup> |
-| opens | <big><span class="asgreek">ανοίγει</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth; | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ignorance | <big><span class="asgreek">αγνωσία</span></big> <sup><small><small>[[G0056]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| he weighs down | <big><span class="asgreek">βαρύνει</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| Job | **<big>[[G2492\|Ιωβ]]</big>** |
+| acting in folly | **<big>[[G8260\|ματαίως]]</big>** |
+| opens | **<big>[[G0455\|ανοίγει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mouth; | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| ignorance | **<big>[[G0056\|αγνωσία]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| he weighs down | **<big>[[G0925\|βαρύνει]]</big>** |
 [[Job.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.15|<< Job 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.1|Job 36:1 >>]]</td></tr></table>
 
 

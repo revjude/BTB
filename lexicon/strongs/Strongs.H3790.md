@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כְּתַב‎</span></big> **kᵉthab** <small>*(keth-ab')*</small> ==**to write**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כָּתַב‎</span><sup><small>[[H3789]]</small></sup></small>
+**<big><span class="asaramaic">‎כְּתַב‎</span></big>** **kᵉthab** <small>*(keth-ab')*</small> ==**to write**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3789|‎כָּתַב‎]]</big>**</small>
 
 $\quad$ write(-ten).
 - {***to grave***, by implication, ***to write*** (describe, inscribe, prescribe, subscribe)}

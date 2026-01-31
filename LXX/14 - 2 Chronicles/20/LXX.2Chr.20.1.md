@@ -10,28 +10,28 @@ It came to pass after this also, [that] the children of Moab, and the children o
 After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat.<small><sub>**MT:**</sub></small>
 [[2Chr.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.11|<< 2 Chronicles 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.2|2 Chronicles 20:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[ones\] of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonites | <big><span class="asgreek">Αμμανιτών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war. | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| \[ones\] of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Ammonites | **<big>[[H5983\|Αμμανιτών]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war. | **<big>[[G4171\|πόλεμον]]</big>** |
 [[2Chr.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.11|<< 2 Chronicles 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.2|2 Chronicles 20:2 >>]]</td></tr></table>
 
 

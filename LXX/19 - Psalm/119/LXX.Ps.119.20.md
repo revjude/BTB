@@ -7,18 +7,18 @@ My soul breaketh for the longing [that it hath] unto thy judgments at all times.
 My soul is consumed with longing for Your judgments at all times.<small><sub>**MT:**</sub></small>
 [[Ps.119.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.19|<< Psalm 119:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.21|Psalm 119:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| longed | <big><span class="asgreek">επεπόθησεν</span></big> <sup><small><small>[[G1971]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to desire | <big><span class="asgreek">επιθυμήσαι</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgments | <big><span class="asgreek">κρίματά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| occasion. | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| longed | **<big>[[G1971\|επεπόθησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to desire | **<big>[[G1937\|επιθυμήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your judgments | **<big>[[G2917\|κρίματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| occasion. | **<big>[[G2540\|καιρώ]]</big>** |
 [[Ps.119.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.19|<< Psalm 119:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.21|Psalm 119:21 >>]]</td></tr></table>
 
 

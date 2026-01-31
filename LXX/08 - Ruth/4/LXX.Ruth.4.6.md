@@ -7,29 +7,29 @@ And the kinsman said, I cannot redeem [it] for myself, lest I mar mine own inher
 The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardize my own inheritance. Take my right of redemption, because I cannot redeem it.”<small><sub>**MT:**</sub></small>
 [[Ruth.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relative | <big><span class="asgreek">αγχιστεύς</span></big> <sup><small><small>[[G6130]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to act as next of kin | <big><span class="asgreek">αγχιστεύσαι</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| myself, | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| I ruin | <big><span class="asgreek">διαφθείρω</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my right of inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| act as next of kin | <big><span class="asgreek">αγχίστευσον</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my inheritance! | <big><span class="asgreek">αγχιστείαν</span></big> <sup><small><small>[[G6129]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to act as next of kin. | <big><span class="asgreek">αγχιστεύσαι</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| relative | **<big>[[G6130\|αγχιστεύς]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to act as next of kin | **<big>[[G6131\|αγχιστεύσαι]]</big>** |
+| myself, | **<big>[[G1683\|εμαυτώ]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| I ruin | **<big>[[G1311\|διαφθείρω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my right of inheritance. | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| act as next of kin | **<big>[[G6131\|αγχίστευσον]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| for my inheritance! | **<big>[[G6129\|αγχιστείαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to act as next of kin. | **<big>[[G6131\|αγχιστεύσαι]]</big>** |
 [[Ruth.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 
 

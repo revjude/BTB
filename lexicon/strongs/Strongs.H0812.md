@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶשְׁכֹּל‎</span></big> **ʼEshkôl** <small>*(esh-kole')*</small> ==**Eshcol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אֶשְׁכּוֹל‎</span><sup><small>[[H0811]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶשְׁכֹּל‎</span></big>** **ʼEshkôl** <small>*(esh-kole')*</small> ==**Eshcol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0811|‎אֶשְׁכּוֹל‎]]</big>**</small>
 
 $\quad$ Eshcol.
 - § Eshcol = *"cluster"*

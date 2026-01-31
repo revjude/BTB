@@ -7,21 +7,21 @@ O God, thou hast taught me from my youth: and hitherto have I declared thy wondr
 O God, You have taught me from my youth, and to this day I proclaim Your marvelous deeds.<small><sub>**MT:**</sub></small>
 [[Ps.71.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.16|<< Psalm 71:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.18|Psalm 71:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You taught | <big><span class="asgreek">εδίδαξάς</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my youth; | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">μέχρι</span></big> <sup><small><small>[[G3360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I will report | <big><span class="asgreek">απαγγελώ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wonders. | <big><span class="asgreek">θαυμάσιά</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You taught | **<big>[[G1321\|εδίδαξάς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| my youth; | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G3360\|μέχρι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| I will report | **<big>[[G0518\|απαγγελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your wonders. | **<big>[[G2297\|θαυμάσιά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.71.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.16|<< Psalm 71:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.18|Psalm 71:18 >>]]</td></tr></table>
 
 

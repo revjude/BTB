@@ -1,4 +1,4 @@
-<small>Also see: [[H8192]]</small>
+<small>Also see: **<big>[[H8192|שָׁפָה]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎שְׁפִי‎</span> **noun masculine** ==bareness, smooth or bare== (treeless) height; — 
 

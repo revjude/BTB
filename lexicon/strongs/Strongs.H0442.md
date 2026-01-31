@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָלוּשׁ‎</span></big> **ʼÂlûwsh** <small>*(aw-loosh')*</small> ==**Alush**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אָלוּשׁ‎</span></big>** **ʼÂlûwsh** <small>*(aw-loosh')*</small> ==**Alush**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Alush.

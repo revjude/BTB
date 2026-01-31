@@ -7,32 +7,32 @@ Or with any stone, wherewith a man may die, seeing [him] not, and cast [it] upon
 or without looking drops a heavy stone that kills him, but he was not an enemy and did not intend to harm him,<small><sub>**MT:**</sub></small>
 [[Num.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.22|<< Numbers 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.24|Numbers 35:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθω</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| knowing, | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should fall | <big><span class="asgreek">επιπέση</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should die, | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| but he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| his enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητών</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to do evil | <big><span class="asgreek">κακοποιήσαι</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
-| against him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | **<big>[[G2228\|η]]</big>** |
+| any | **<big>[[G3956\|παντί]]</big>** |
+| stone | **<big>[[G3037\|λίθω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| he shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| knowing, | **<big>[[G1492\|ειδώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should fall | **<big>[[G1968\|επιπέση]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should die, | **<big>[[G0599\|αποθάνη]]</big>** |
+| but he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| his enemy | **<big>[[G2190\|εχθρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| seeking | **<big>[[G2212\|ζητών]]</big>** |
+| to do evil | **<big>[[G2554\|κακοποιήσαι]]</big>** |
+| against him; | **<big>[[G1473\|αυτόν]]</big>** |
 [[Num.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.22|<< Numbers 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.24|Numbers 35:24 >>]]</td></tr></table>
 
 

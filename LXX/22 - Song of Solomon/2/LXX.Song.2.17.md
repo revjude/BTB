@@ -7,28 +7,28 @@ Until the day break, and the shadows flee away, turn, my beloved, and be thou li
 Before the day breaks and shadows flee, turn, my beloved, and be like a gazelle or a young stag on the mountains of Bether.<small><sub>**MT:**</sub></small>
 [[Song.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.16|<< Song of Solomon 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.1|Song of Solomon 3:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| should refresh | <big><span class="asgreek">διαπνεύση</span></big> <sup><small><small>[[G6866]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should move | <big><span class="asgreek">κινηθώσιν</span></big> <sup><small><small>[[G2795]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shadows | <big><span class="asgreek">σκιαί</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| return! | <big><span class="asgreek">απόστερψον</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| You be like, | <big><span class="asgreek">ομοιώθητι</span></big> <sup><small><small>[[G3666]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my beloved \[man\], | <big><span class="asgreek">αδελφιδέ</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| buck | <big><span class="asgreek">δόρκωνι</span></big> <sup><small><small>[[G6964]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| fawn | <big><span class="asgreek">νεβρώ</span></big> <sup><small><small>[[G8381]]</small></small></sup> |
-| of \[the\] hinds | <big><span class="asgreek">ελάφων</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| encircling | <big><span class="asgreek">κοιλωμάτων</span></big> <sup><small><small>[[G8043]]</small></small></sup> |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| should refresh | **<big>[[G6866\|διαπνεύση]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should move | **<big>[[G2795\|κινηθώσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| shadows | **<big>[[G4639\|σκιαί]]</big>** |
+| return! | **<big>[[G0654\|απόστερψον]]</big>** |
+| You be like, | **<big>[[G3666\|ομοιώθητι]]</big>** **<big>[[G1473\|συ]]</big>** |
+| O my beloved \[man\], | **<big>[[G6137\|αδελφιδέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| buck | **<big>[[G6964\|δόρκωνι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| fawn | **<big>[[G8381\|νεβρώ]]</big>** |
+| of \[the\] hinds | **<big>[[G7180\|ελάφων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] mountains | **<big>[[G3735\|όρη]]</big>** |
+| encircling | **<big>[[G8043\|κοιλωμάτων]]</big>** |
 [[Song.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.16|<< Song of Solomon 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.1|Song of Solomon 3:1 >>]]</td></tr></table>
 
 

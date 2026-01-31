@@ -11,40 +11,40 @@ I will gather all the nations and bring them down to the Valley of Jehoshaphat. 
 > $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will gather | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">κατάξω</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| valley | <big><span class="asgreek">κοιλάδα</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
-| of Jehoshaphat. | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will litigate | <big><span class="asgreek">διακριθήσομαι</span></big> <sup><small><small>[[G1252]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I dispersed | <big><span class="asgreek">διέσπειρα</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[who\] divided | <big><span class="asgreek">κατεδείλαντο</span></big> <sup><small><small>[[G7836]]</small></small></sup> |
+| I will gather | **<big>[[G4863\|συνάξω]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G2609\|κατάξω]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| valley | **<big>[[G8038\|κοιλάδα]]</big>** |
+| of Jehoshaphat. | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will litigate | **<big>[[G1252\|διακριθήσομαι]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my inheritance | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| I dispersed | **<big>[[G1289\|διέσπειρα]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| my land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[who\] divided | **<big>[[G7836\|κατεδείλαντο]]</big>** |
 [[Joel.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.1|<< Joel 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.3|Joel 3:3 >>]]</td></tr></table>
 
 

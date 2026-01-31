@@ -1,4 +1,3 @@
-<span class="asaramaic">‎כׇּרְסֵא‎</span> <small>***(kor.se)***</small> ==**throne**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H3678G]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3678G|כִּסֵּא]]</big>**</small> 
 
-- Aramaic of <i>kis.se</i> (<span class='ashebrew'>‎כ‎</span>ִּ<span class='ashebrew'>‎ס‎</span>ֵּ<span class='ashebrew'>‎א‎</span> ": throne" [[H3678]])
+- Aramaic of <i>kis.se</i> (<span class='ashebrew'>‎כ‎</span>ִּ<span class='ashebrew'>‎ס‎</span>ֵּ<span class='ashebrew'>‎א‎</span> ": throne" **<big>[[H3678|כִּסֵּא]]</big>**)

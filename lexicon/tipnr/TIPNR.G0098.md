@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Adramyttium</span>, a port city in Asia Minor, where Paul boarded a ship.
 - A location only mentioned at [[2Chr.11.9|Act.27.2]]; 
-- only referred to as Adramyttium<[[G0098]]> \(<span class='tipnrLangGreek'>Ἀδραμυττηνός</span>\).
+- only referred to as Adramyttium **<big>[[G0098|Ἀδραμυττηνός]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.574800,26.936700&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ Adramyttium was located in the region of Mysia, near the island of Lesbos. It wa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adramyttium | [<span class='tipnrLangGreek'>Ἀδραμυττηνός</span>](G0098) <small>*Greek*</small> | 1x | [Act.27.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adramyttium\*\|reference=Act.27.2) |
-All Strong's for **Adramyttium**: \[[[G0098]]\]
+| Adramyttium | [<span class='tipnrLangGreek'>Ἀδραμυττηνός</span>](G0098) | 1x | [Act.27.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adramyttium\*\|reference=Act.27.2) |
+All entries for **Adramyttium**:  **<big>[[G0098|Ἀδραμυττηνός]]</big>**

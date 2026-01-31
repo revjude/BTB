@@ -7,37 +7,37 @@ And the priest shall charge her by an oath, and say unto the woman, If no man ha
 And he is to put the woman under oath and say to her, ‘If no other man has slept with you and you have not gone astray and become defiled while under your husband’s authority, may you be immune to this bitter water that brings a curse.<small><sub>**MT:**</sub></small>
 [[Num.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.18|<< Numbers 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.20|Numbers 5:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall adjure | <big><span class="asgreek">ορκιεί</span></big> <sup><small><small>[[G3726]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| If no | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| one has gone to bed | <big><span class="asgreek">κεκοίμηταί</span></big> <sup><small><small>[[G2837]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if you have not | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| violated | <big><span class="asgreek">παραβέβηκας</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| to be defiled | <big><span class="asgreek">μιανθήναι</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| \[being\] under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| husband | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your own | <big><span class="asgreek">σεαυτής</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| be innocent | <big><span class="asgreek">αθώα</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">ίσθι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| by the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of rebuke | <big><span class="asgreek">ελεγμού</span></big> <sup><small><small>[[G6031]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this accursing | <big><span class="asgreek">επικαταρωμένου</span></big> <sup><small><small>[[G7414]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall adjure | **<big>[[G3726\|ορκιεί]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall say | **<big>[[G2046\|ερεί]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| woman, | **<big>[[G1135\|γυναικί]]</big>** |
+| If no | **<big>[[G1508\|ει μη]]</big>** |
+| one has gone to bed | **<big>[[G2837\|κεκοίμηταί]]</big>** **<big>[[G5100\|τις]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| if you have not | **<big>[[G1508\|ει μη]]</big>** |
+| violated | **<big>[[G3845\|παραβέβηκας]]</big>** |
+| to be defiled | **<big>[[G3392\|μιανθήναι]]</big>** |
+| \[being\] under | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| husband | **<big>[[G0435\|άνδρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your own | **<big>[[G4572\|σεαυτής]]</big>** |
+| be innocent | **<big>[[G0121\|αθώα]]</big>** **<big>[[G1510\|ίσθι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| by the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of rebuke | **<big>[[G6031\|ελεγμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this accursing | **<big>[[G7414\|επικαταρωμένου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[Num.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.18|<< Numbers 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.20|Numbers 5:20 >>]]</td></tr></table>
 
 

@@ -12,12 +12,12 @@ To the chief Musician, [A Psalm] of David, the servant of the LORD, who spake un
 For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said: I love You, O LORD, my strength.<small><sub>**MT:**</sub></small>
 [[Ps.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.15|<< Psalm 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.2|Psalm 18:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall love | <big><span class="asgreek">αγαπήσω</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of my strength. | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall love | **<big>[[G0025\|αγαπήσω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| of my strength. | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.15|<< Psalm 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.2|Psalm 18:2 >>]]</td></tr></table>
 
 

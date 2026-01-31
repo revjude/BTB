@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָבֵל מְחוֹלָה‎</span></big> **ʼÂbêl Mᵉchôwlâh** <small>*(aw-bale' mekh-o-law')*</small> ==**Abel-meholah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבֵל‎</span><sup><small>[[H0058]]</small></sup> and <span class="ashebrew">‎מְחֹלָה‎</span><sup><small>[[H4246]]</small></sup>; meadow of dancing</small>
+**<big><span class="ashebrew">‎אָבֵל מְחוֹלָה‎</span></big>** **ʼÂbêl Mᵉchôwlâh** <small>*(aw-bale' mekh-o-law')*</small> ==**Abel-meholah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0058|‎אָבֵל‎]]</big>** and **<big>[[H4246|‎מְחֹלָה‎]]</big>**; meadow of dancing</small>
 
 $\quad$ Abel-meholah.
 - § Abel Meholah = *"meadow of dancing"*

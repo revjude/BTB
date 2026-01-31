@@ -7,30 +7,30 @@ And they gave him threescore and ten [pieces] of silver out of the house of Baal
 So they gave him seventy shekels of silver from the temple of Baal-berith, with which Abimelech hired some worthless and reckless men to follow him.<small><sub>**MT:**</sub></small>
 [[Judg.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.3|<< Judges 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.5|Judges 9:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| \[pieces of\] silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Baal-berith; | <big><span class="asgreek">Βαάλβερίθ</span></big> <sup><small><small>[[H1170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hired | <big><span class="asgreek">εμισθώσατο</span></big> <sup><small><small>[[G3409]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| vain | <big><span class="asgreek">κενούς</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| distraught | <big><span class="asgreek">θαμβουμένους</span></big> <sup><small><small>[[G2284]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| \[pieces of\] silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Baal-berith; | **<big>[[H1170\|Βαάλβερίθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hired | **<big>[[G3409\|εμισθώσατο]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| vain | **<big>[[G2756\|κενούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| distraught | **<big>[[G2284\|θαμβουμένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.3|<< Judges 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.5|Judges 9:5 >>]]</td></tr></table>
 
 

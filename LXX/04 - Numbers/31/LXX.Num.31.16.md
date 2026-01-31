@@ -11,34 +11,34 @@ Behold, these caused the children of Israel, through the counsel of Balaam, to c
 > $\quad$ referenced by: [[Rev.2.14|Rev 2:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| were \[the occasion\] | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of Balaam | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| of their | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leaving | <big><span class="asgreek">αποστήσαι</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| overlooking | <big><span class="asgreek">υπεριδείν</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| Peor, | <big><span class="asgreek">Φογωρ</span></big> <sup><small><small>[[H6465]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For these | **<big>[[G3778\|αύται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| were \[the occasion\] | **<big>[[G1510\|ήσαν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of Balaam | **<big>[[G0903\|Βαλαάμ]]</big>** |
+| of their | **<big>[[G3588\|του]]</big>** |
+| leaving | **<big>[[G0868\|αποστήσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| overlooking | **<big>[[G5237\|υπεριδείν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| Peor, | **<big>[[H6465\|Φογωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| calamity | **<big>[[G4127\|πληγή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγή]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Num.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.15|<< Numbers 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.17|Numbers 31:17 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Amariah</span> was the chief priest who assisted King Jehoshaphat in his judicial reforms in Judah. \([[2Chr.19.11|2Ch.19.11]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.19.11|2Ch.19.11]]; 
-- only referred to as Amariah<[[H0568J]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**.
 
 Amariah is mentioned in the context of King Jehoshaphat's judicial reforms in Judah. Jehoshaphat, known for his devotion to God, sought to establish a system of justice based on the laws of God. \(2Ch.19.4-11\) 
 
@@ -18,5 +18,5 @@ The mention of Amariah in this context highlights the importance of the priestho
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568J) <small>*Hebrew*</small> | 1x | [2Ch.19.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=2Ch.19.11) |
-All Strong's for **Amariah**: \[[[H0568J]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568J) | 1x | [2Ch.19.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=2Ch.19.11) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**

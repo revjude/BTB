@@ -10,32 +10,32 @@ Then sang Moses and the children of Israel this song unto the LORD, and spake, s
 Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea.<small><sub>**MT:**</sub></small>
 [[Exod.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.31|<< Exodus 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.2|Exodus 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| they sang, | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this ode | <big><span class="asgreek">ωδήν</span></big> <sup><small><small>[[G5603]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We should sing | <big><span class="asgreek">άσωμεν</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for gloriously | <big><span class="asgreek">ενδόξως</span></big> <sup><small><small>[[G7229]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he is glorified; | <big><span class="asgreek">δεδόξασται</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| horse | <big><span class="asgreek">ίππον</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rider | <big><span class="asgreek">αναβάτην</span></big> <sup><small><small>[[G6275]]</small></small></sup> |
-| he tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| they sang, | **<big>[[G0103\|ήσαν]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this ode | **<big>[[G5603\|ωδήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| We should sing | **<big>[[G0103\|άσωμεν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| for gloriously | **<big>[[G7229\|ενδόξως]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he is glorified; | **<big>[[G1392\|δεδόξασται]]</big>** |
+| horse | **<big>[[G2462\|ίππον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rider | **<big>[[G6275\|αναβάτην]]</big>** |
+| he tossed | **<big>[[G4496\|έρριψεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] sea. | **<big>[[G2281\|θάλασσαν]]</big>** |
 [[Exod.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.31|<< Exodus 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.2|Exodus 15:2 >>]]</td></tr></table>
 
 

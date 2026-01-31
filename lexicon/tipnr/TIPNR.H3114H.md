@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Joiarib</span> was one of the men of understanding sent by Ezra to bring Levites to Jerusalem \([[Ezra.8.16|Ezr.8.16]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.8.16|Ezr.8.16]]; 
-- only referred to as Joiarib<[[H3114H]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>\).
+- only referred to as Joiarib **<big>[[H3114|יוֹיָרִיב]]</big>**.
 
 Joiarib is mentioned briefly in [[Ezra.8.16|Ezra 8:16]] as one of the men of understanding whom Ezra sent to Iddo, the leader of the Levites at Casiphia, to bring ministers for the house of God. This event took place during Ezra's journey from Babylon to Jerusalem, as he sought to restore the worship and religious practices of the Jews in their homeland. 
 
@@ -16,5 +16,5 @@ No further details are provided about Joiarib's background or his specific contr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114H) <small>*Hebrew*</small> | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Ezr.8.16) |
-All Strong's for **Joiarib**: \[[[H3114H]]\]
+| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114H) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Ezr.8.16) |
+All entries for **Joiarib**:  **<big>[[H3114|יוֹיָרִיב]]</big>**

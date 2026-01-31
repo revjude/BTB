@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Helkath-hazzurim</span>, meaning "Field of Swords," was the site of a battle between David's men and those of Ish-bosheth, resulting in Abner's defeat \(2 Sam 2:16\).
 - A location only mentioned at [[2Sam.2.16|2Sa.2.16]]; 
-- only referred to as Helkath-hazzurim<[[H2521]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>צ</span>ֻּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Helkath-hazzurim **<big>[[H2521|חֶלְקַת הַצֻּרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.880126,35.280188&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Helkath-hazzurim, meaning "Field of Swords" or "Field of Hostilities," was the n
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Helkath-hazzurim (NIV= Helkath Hazzurim) | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>צ</span>ֻּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2521) <small>*Hebrew*</small> | 1x | [2Sa.2.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helkath\*\|reference=2Sa.2.16) |
-All Strong's for **Helkath-hazzurim**: \[[[H2521]]\]
+| Helkath-hazzurim (NIV= Helkath Hazzurim) | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>צ</span>ֻּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2521) | 1x | [2Sa.2.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helkath\*\|reference=2Sa.2.16) |
+All entries for **Helkath-hazzurim**:  **<big>[[H2521|חֶלְקַת הַצֻּרִים]]</big>**

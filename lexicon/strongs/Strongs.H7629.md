@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֹׁבִי‎</span></big> **Shôbîy** <small>*(sho-bee')*</small> ==**Shobi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁבָה‎</span><sup><small>[[H7617]]</small></sup>; captor</small>
+**<big><span class="ashebrew">‎שֹׁבִי‎</span></big>** **Shôbîy** <small>*(sho-bee')*</small> ==**Shobi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7617|‎שָׁבָה‎]]</big>**; captor</small>
 
 $\quad$ Shobi.
 - § Shobi = *"glorious"*

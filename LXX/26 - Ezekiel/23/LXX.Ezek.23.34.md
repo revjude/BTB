@@ -7,34 +7,34 @@ Thou shalt even drink it and suck [it] out, and thou shalt break the sherds ther
 You will drink it and drain it; you will dash it to pieces, and tear your breasts. For I have spoken,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
 [[Ezek.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.33|<< Ezekiel 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.35|Ezekiel 23:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall drink | <big><span class="asgreek">πίεσαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strain it out. | <big><span class="asgreek">εκστραγγιείς</span></big> <sup><small><small>[[G7147]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his potsherds | <big><span class="asgreek">όστρακα</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G8561]]</small></small></sup> |
-| you shall devour, | <big><span class="asgreek">κατατρώξη</span></big> <sup><small><small>[[G7941]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your breasts | <big><span class="asgreek">μαστούς</span></big> <sup><small><small>[[G3149]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall pull about | <big><span class="asgreek">κατατιλείς</span></big> <sup><small><small>[[G7938]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your holiday \[feasts\], | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your new moons | <big><span class="asgreek">νουμηνίας</span></big> <sup><small><small>[[G3561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will pervert, | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have spoken, | <big><span class="asgreek">λελάληκα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall drink | **<big>[[G4095\|πίεσαι]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strain it out. | **<big>[[G7147\|εκστραγγιείς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his potsherds | **<big>[[G1473\|όστρακα]]</big>** **<big>[[G8561\|αυτού]]</big>** |
+| you shall devour, | **<big>[[G7941\|κατατρώξη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your breasts | **<big>[[G3149\|μαστούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall pull about | **<big>[[G7938\|κατατιλείς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your holiday \[feasts\], | **<big>[[G1859\|εορτάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your new moons | **<big>[[G3561\|νουμηνίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will pervert, | **<big>[[G0654\|αποστρέψω]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| have spoken, | **<big>[[G2980\|λελάληκα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.33|<< Ezekiel 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.35|Ezekiel 23:35 >>]]</td></tr></table>
 
 

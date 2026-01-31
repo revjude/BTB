@@ -7,19 +7,19 @@ Moreover by them is thy servant warned: [and] in keeping of them [there is] grea
 By them indeed Your servant is warned; in keeping them is great reward.<small><sub>**MT:**</sub></small>
 [[Ps.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.10|<< Psalm 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.12|Psalm 19:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| reward | <big><span class="asgreek">ανταπόδοσις</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
-| \[there is\] great | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| For also | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| guards | **<big>[[G5442\|φυλάσσει]]</big>** |
+| them; | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| of them | **<big>[[G1473\|αυτά]]</big>** |
+| reward | **<big>[[G0469\|ανταπόδοσις]]</big>** |
+| \[there is\] great | **<big>[[G4183\|πολλή]]</big>** |
 [[Ps.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.10|<< Psalm 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.12|Psalm 19:12 >>]]</td></tr></table>
 
 

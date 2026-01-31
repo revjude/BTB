@@ -7,16 +7,16 @@ For by them judgeth he the people; he giveth meat in abundance.
 For by these He judges the nations and provides food in abundance.<small><sub>**MT:**</sub></small>
 [[Job.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.30|<< Job 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.32|Job 36:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall judge | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| peoples; | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| nourishment | <big><span class="asgreek">τροφήν</span></big> <sup><small><small>[[G5160]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being strong. | <big><span class="asgreek">ισχύοντι</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
+| For in | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| he shall judge | **<big>[[G2919\|κρινεί]]</big>** |
+| peoples; | **<big>[[G2992\|λαούς]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| nourishment | **<big>[[G5160\|τροφήν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one being strong. | **<big>[[G2480\|ισχύοντι]]</big>** |
 [[Job.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.30|<< Job 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.32|Job 36:32 >>]]</td></tr></table>
 
 

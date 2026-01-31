@@ -6,29 +6,29 @@ But if it is from God, you will not be able to stop them. You may even find your
 <small><sub>**Literal:**</sub></small>
 if however from God it is, not you will be able to overthrow them, otherwise also fighting against God You shall be found. [40] They were persuaded now by him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.38|<< Acts 5:38]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.40|Acts 5:40 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if |<big><span class="asgreek">εἰ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| God |<big><span class="asgreek">θεοῦ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is, |<big><span class="asgreek">ἐστιν,</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you will be able [^1] |<big><span class="asgreek">δυνήσεσθε</span></big> <small><small><sup>[[G1410]]</sup></small></small> |dunēsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to overthrow |<big><span class="asgreek">καταλῦσαι</span></big> <small><small><sup>[[G2647]]</sup></small></small> |katalusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them, [^2] [^3] |<big><span class="asgreek">αὐτούς,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| otherwise |<big><span class="asgreek">μήποτε</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mēpote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fighting against God |<big><span class="asgreek">θεομάχοι</span></big> <small><small><sup>[[G2314]]</sup></small></small> |theomachoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You shall be found. |<big><span class="asgreek">εὑρεθῆτε.</span></big> <small><small><sup>[[G2147]]</sup></small></small> |heurethēte <small><sup>[[V-APS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [40] They were persuaded |<big><span class="asgreek">ἐπείσθησαν</span></big> <small><small><sup>[[G3982]]</sup></small></small> |epeisthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^4] | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^5] | |
-| by him, |<big><span class="asgreek">αὐτῷ,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^6] | |
+| if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is, |**<big>[[G1510\|ἐστιν,]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you will be able [^1] |**<big>[[G1410\|δυνήσεσθε]]</big>**  |dunēsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| to overthrow |**<big>[[G2647\|καταλῦσαι]]</big>**  |katalusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them, [^2] [^3] |**<big>[[G0846\|αὐτούς,]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| otherwise |**<big>[[G3361\|μήποτε]]</big>**  |mēpote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fighting against God |**<big>[[G2314\|θεομάχοι]]</big>**  |theomachoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You shall be found. |**<big>[[G2147\|εὑρεθῆτε.]]</big>**  |heurethēte <small><sup>[[V-APS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [40] They were persuaded |**<big>[[G3982\|ἐπείσθησαν]]</big>**  |epeisthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^4] | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^5] | |
+| by him, |**<big>[[G0846\|αὐτῷ,]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^6] | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.38|<< Acts 5:38]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.40|Acts 5:40 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: you are able | <span class="asgreek">δύνασθε</span><small><sup>[[G1410]]</sup></small> | dunasthe<small><sup>[[V-PNI-2P]]</sup></small>
-[^2]: Variant:  <span class='asgreek'>**αὐτό**</span>  (<i>auto</i>) 'it' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**αὐτούς**</span>,  (<i>autous</i>) 'them,' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^3]: ==TR+Byz==: it | <span class="asgreek">αὐτό</span><small><sup>[[G0846]]</sup></small> | auto<small><sup>[[P-ASN]]</sup></small>
+[^1]: ==TR+Byz==: you are able | **<big>[[G1410|δύνασθε]]</big>** | dunasthe<small><sup>[[V-PNI-2P]]</sup></small>
+[^2]: Variant:  **<big><span class='asgreek'>αὐτό</span></big>**  (<i>auto</i>) 'it' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>αὐτούς</span></big>**,  (<i>autous</i>) 'them,' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^3]: ==TR+Byz==: it | **<big>[[G0846|αὐτό]]</big>** | auto<small><sup>[[P-ASN]]</sup></small>
 [^4]: In KJV this word occurs in verse 5.40
 [^5]: In KJV this word occurs in verse 5.40
 [^6]: In KJV this word occurs in verse 5.40

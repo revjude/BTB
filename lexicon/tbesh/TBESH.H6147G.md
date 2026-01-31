@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עֵר‎</span> <small>***(er)***</small> ==**Er**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[Gen.38.3|Gen.38.3]]
--  son of: Judah ([[H3063]]) and Bath-shua ([[H1323I]])
--  brother of: Onan ([[H0209]]) and Shelah ([[H7956]])
--  half-brother of: Perez ([[H6557]]) and Zerah ([[H2226I]]); married to Tamar ([[H8559]])
+-  son of: Judah (**<big>[[H3063|יְהוּדָה]]</big>**) and Bath-shua (**<big>[[H1323I|בַּת]]</big>**)
+-  brother of: Onan (**<big>[[H0209|אוֹנָן]]</big>**) and Shelah (**<big>[[H7956|שֵׁלָה]]</big>**)
+-  half-brother of: Perez (**<big>[[H6557|פֶּרֶץ]]</big>**) and Zerah (**<big>[[H2226I|זֶרַח]]</big>**); married to Tamar (**<big>[[H8559|תָּמָר]]</big>**)

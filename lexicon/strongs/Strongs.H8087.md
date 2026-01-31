@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁמַע‎</span></big> **Shemaʻ** <small>*(sheh'-mah)*</small> ==**Shema**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for the same as <span class="ashebrew">‎שֵׁמַע‎</span><sup><small>[[H8088]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁמַע‎</span></big>** **Shemaʻ** <small>*(sheh'-mah)*</small> ==**Shema**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for the same as **<big>[[H8088|‎שֵׁמַע‎]]</big>**</small>
 
 $\quad$ Shema.
 - § Shema = *"hear"*

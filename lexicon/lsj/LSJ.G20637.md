@@ -1,4 +1,4 @@
-form of: <small>[[G20643]]</small> 
+form of: <small>**<big>[[G20643|λοχώ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==λεχώς==</span>-<span class='asgreek'>ώς</span></b>, 

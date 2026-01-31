@@ -7,24 +7,24 @@ The nakedness of thy sister, the daughter of thy father, or daughter of thy moth
 You must not have sexual relations with your sister, either your father’s daughter or your mother’s daughter, whether she was born in the same home or elsewhere.<small><sub>**MT:**</sub></small>
 [[Lev.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.8|<< Leviticus 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.10|Leviticus 18:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your mother, | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| natural | <big><span class="asgreek">ενδογενούς</span></big> <sup><small><small>[[G7226]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| being procreated | <big><span class="asgreek">γεγεννημένης</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| uncover | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their indecency. | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] indecency | **<big>[[G0808\|ασχημοσύνην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your sister | **<big>[[G0079\|αδελφής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| your mother, | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| natural | **<big>[[G7226\|ενδογενούς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| being procreated | **<big>[[G1080\|γεγεννημένης]]</big>** |
+| outside, | **<big>[[G1854\|έξω]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| uncover | **<big>[[G0601\|αποκαλύψεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their indecency. | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lev.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.8|<< Leviticus 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.10|Leviticus 18:10 >>]]</td></tr></table>
 
 

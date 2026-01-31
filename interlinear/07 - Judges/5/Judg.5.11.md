@@ -6,24 +6,24 @@ the voices of the singers at the watering places. There they shall recount the r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.10|<< Judges 5:10]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.12|Judges 5:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from [the] sound of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קּ֣וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| archers  | <span class="ashebrew"><big>מְחַֽצְצִ֗ים </big></span><small><small><sup>[[H2686B]]</sup></small></small> &#8207;| me.cha.Tzim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֚ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] places for drawing water  | <span class="ashebrew"><big>מַשְׁאַבִּ֔ים </big></span><small><small><sup>[[H4857]]</sup></small></small> &#8207;| mash.'a.Bim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֤ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will recount  | <span class="ashebrew"><big>יְתַנּוּ֙ </big></span><small><small><sup>[[H8567]]</sup></small></small> &#8207;| ye.ta.Nu <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteousness\<es> of  | <span class="ashebrew"><big>צִדְק֣וֹת </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| tzid.Kot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteousness\<es> of  | <span class="ashebrew"><big>צִדְקֹ֥ת </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| tzid.Kot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rural people his  | <span class="ashebrew"><big>פִּרְזֹנ֖ </big></span><small><small><sup>[[H6520]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| pir.zo.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Israel  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֛ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they went down  | <span class="ashebrew"><big>יָרְד֥וּ </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.re.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the gates  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְּׁעָרִ֖ים </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> she.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>עַם </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'am- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֣וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| archers  |**<big>&#8207;[[H2686B\|מְחַֽצְצִ֗ים]]&#8207; </big>**| me.cha.Tzim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֚ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] places for drawing water  |**<big>&#8207;[[H4857\|מַשְׁאַבִּ֔ים]]&#8207; </big>**| mash.'a.Bim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will recount  |**<big>&#8207;[[H8567\|יְתַנּוּ֙]]&#8207; </big>**| ye.ta.Nu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteousness\<es> of  |**<big>&#8207;[[H6666\|צִדְק֣וֹת]]&#8207; </big>**| tzid.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteousness\<es> of  |**<big>&#8207;[[H6666\|צִדְקֹ֥ת]]&#8207; </big>**| tzid.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rural people his  |**<big>&#8207;[[H6520\|פִּרְזֹנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| pir.zo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֛ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they went down  |**<big>&#8207;[[H3381\|יָרְד֥וּ]]&#8207; </big>**| ya.re.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the gates  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8179G\|שְּׁעָרִ֖ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.10|<< Judges 5:10]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.12|Judges 5:12 >>]]</td></tr></table>
 
 

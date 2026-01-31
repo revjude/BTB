@@ -7,31 +7,31 @@ O LORD, why hast thou made us to err from thy ways, [and] hardened our heart fro
 Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage.<small><sub>**MT:**</sub></small>
 [[Isa.63.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did you wander | <big><span class="asgreek">επλάνησας</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your way? | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You hardened | <big><span class="asgreek">εσκλήρυνας</span></big> <sup><small><small>[[G4645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our hearts | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβείσθαί</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Return | <big><span class="asgreek">επίστρεψον</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants! | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your inheritance. | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| did you wander | **<big>[[G4105\|επλάνησας]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your way? | **<big>[[G3598\|οδού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You hardened | **<big>[[G4645\|εσκλήρυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our hearts | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβείσθαί]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| Return | **<big>[[G1994\|επίστρεψον]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your servants! | **<big>[[G1401\|δούλους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your inheritance. | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.63.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
 
 

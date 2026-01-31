@@ -7,33 +7,33 @@ Thus will I accomplish my wrath upon the wall, and upon them that have daubed it
 And after I have vented My wrath against the wall and against those who whitewashed it, I will say to you: ‘The wall is gone, and so are those who whitewashed it—<small><sub>**MT:**</sub></small>
 [[Ezek.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.14|<< Ezekiel 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.16|Ezekiel 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will exhaust | <big><span class="asgreek">συντελέσω</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plastering | <big><span class="asgreek">αλείφοντας</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall fall. | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τοίχος</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plastering | <big><span class="asgreek">αλείφοντες</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| it -- | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will exhaust | **<big>[[G4931\|συντελέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wall, | **<big>[[G5109\|τοίχον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| plastering | **<big>[[G0218\|αλείφοντας]]</big>** |
+| it, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall fall. | **<big>[[G4098\|πεσείται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| wall | **<big>[[G5109\|τοίχος]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| plastering | **<big>[[G0218\|αλείφοντες]]</big>** |
+| it -- | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ezek.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.14|<< Ezekiel 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.16|Ezekiel 13:16 >>]]</td></tr></table>
 
 

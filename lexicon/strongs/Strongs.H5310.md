@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָפַץ‎</span></big> **nâphats** <small>*(naw-fats')*</small> ==**to shatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָפַץ‎</span></big>** **nâphats** <small>*(naw-fats')*</small> ==**to shatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be beaten in sunder, break (in pieces), broken, dash (in pieces), cause to be discharged, dispersed, be overspread, scatter.
@@ -15,4 +15,4 @@ $\quad$ **2a)** (Qal)
 $\quad$ $\quad$ **2a1)** to be scattered
 $\quad$ $\quad$ **2a2)** dispersed (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄφεσις</span><sup><small>[[G0859]]</small></sup> · <span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">ἐδαφίζω</span><sup><small>[[G1474]]</small></sup> · <span class="asgreek">ἐκτινάσσω</span><sup><small>[[G1621]]</small></sup> · <span class="asgreek">κατακόπτω</span><sup><small>[[G2629]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup>
+<small>See Greek: </small>**<big>[[G0859|ἄφεσις]]</big>** · **<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G1474|ἐδαφίζω]]</big>** · **<big>[[G1621|ἐκτινάσσω]]</big>** · **<big>[[G2629|κατακόπτω]]</big>** · **<big>[[G4937|συντρίβω]]</big>**

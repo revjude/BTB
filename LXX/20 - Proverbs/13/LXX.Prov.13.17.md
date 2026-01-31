@@ -7,18 +7,18 @@ A wicked messenger falleth into mischief: but a faithful ambassador [is] health.
 A wicked messenger falls into trouble, but a faithful envoy brings healing.<small><sub>**MT:**</sub></small>
 [[Prov.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| A rash | <big><span class="asgreek">θρασύς</span></big> <sup><small><small>[[G7686]]</small></small></sup> |
-| falls | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| evils; | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">ρύσεται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| A rash | **<big>[[G7686\|θρασύς]]</big>** |
+| falls | **<big>[[G4098\|πεσείται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| evils; | **<big>[[G2556\|κακά]]</big>** |
+| messenger | **<big>[[G0032\|άγγελος]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| a wise | **<big>[[G4680\|σοφός]]</big>** |
+| shall rescue | **<big>[[G4506\|ρύσεται]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Prov.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H6001]]</small>
+<small>Also see: **<big>[[H6001|עָמֵל]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎עָמֵל‎</span> **verbal adjective** ==toiling==, only Ecclesiastes, as predicate; — [[Eccl.2.18|Eccl 2:18]]; [[Eccl.2.22|Eccl 2:22]]; [[Eccl.3.9|Eccl 3:9]]; [[Eccl.4.8|Eccl 4:8]]; [[Eccl.9.9|Eccl 9:9]]. 
 

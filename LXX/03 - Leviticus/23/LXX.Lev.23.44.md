@@ -7,16 +7,16 @@ And Moses declared unto the children of Israel the feasts of the LORD.
 So Moses announced to the Israelites the appointed feasts of the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.23.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.43|<< Leviticus 23:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.1|Leviticus 24:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses told | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holidays | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses told | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| holidays | **<big>[[G1859\|εορτάς]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Lev.23.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.43|<< Leviticus 23:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.1|Leviticus 24:1 >>]]</td></tr></table>
 
 

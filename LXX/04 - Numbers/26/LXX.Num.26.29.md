@@ -7,25 +7,25 @@ Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir beg
 These were the descendants of Manasseh: The Machirite clan from Machir, the father of Gilead, and the Gileadite clan from Gilead.<small><sub>**MT:**</sub></small>
 [[Num.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.28|<< Numbers 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.30|Numbers 26:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Machir, | <big><span class="asgreek">Μαχείρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Machirites; | <big><span class="asgreek">Μαχειρί</span></big> <sup><small><small>[[H4381]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Machir | <big><span class="asgreek">Μαχείρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead; | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gileadites; | <big><span class="asgreek">Γαλααδί</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Machir, | **<big>[[H4353\|Μαχείρ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Machirites; | **<big>[[H4381\|Μαχειρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Machir | **<big>[[H4353\|Μαχείρ]]</big>** |
+| procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Gilead; | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Gileadites; | **<big>[[H1568\|Γαλααδί]]</big>** |
 [[Num.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.28|<< Numbers 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.30|Numbers 26:30 >>]]</td></tr></table>
 
 

@@ -11,31 +11,31 @@ Come, let us deal shrewdly with them, or they will increase even more; and if a 
 > $\quad$ referenced by: [[Acts.7.19|Acts 7:19]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Come | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| we should deal subtly | <big><span class="asgreek">κατασοφισώμεθα</span></big> <sup><small><small>[[G2686]]</small></small></sup> |
-| with them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| they should multiply, | <big><span class="asgreek">πληθυνθή</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| may come to pass | <big><span class="asgreek">συμβή</span></big> <sup><small><small>[[G4819]]</small></small></sup> |
-| a war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| will add | <big><span class="asgreek">προστεθήσονται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| these also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opponents, | <big><span class="asgreek">υπεναντίους</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| waging war against | <big><span class="asgreek">εκπολεμήσαντες</span></big> <sup><small><small>[[G7134]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall go forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Come | **<big>[[G1205\|δεύτε]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| we should deal subtly | **<big>[[G2686\|κατασοφισώμεθα]]</big>** |
+| with them, | **<big>[[G1473\|αυτούς]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| they should multiply, | **<big>[[G4129\|πληθυνθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whenever | **<big>[[G2259\|ηνίκα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| may come to pass | **<big>[[G4819\|συμβή]]</big>** |
+| a war | **<big>[[G4171\|πόλεμος]]</big>** |
+| will add | **<big>[[G4369\|προστεθήσονται]]</big>** |
+| these also | **<big>[[G2532\|και]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| opponents, | **<big>[[G5227\|υπεναντίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| waging war against | **<big>[[G7134\|εκπολεμήσαντες]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| they shall go forth | **<big>[[G1831\|εξελεύσονται]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[Exod.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.9|<< Exodus 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.11|Exodus 1:11 >>]]</td></tr></table>
 
 

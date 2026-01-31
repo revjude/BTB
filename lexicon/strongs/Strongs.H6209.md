@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרַר‎</span></big> **ʻârar** <small>*(aw-rar')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרַר‎</span></big>** **ʻârar** <small>*(aw-rar')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make bare, break, raise up (perhaps by clerical error for raze), [idiom] utterly.
@@ -11,4 +11,4 @@ $\quad$ **1b)** (Poel) to lay bare
 $\quad$ **1c)** (Hithpalpel) to be utterly stripped, be utterly laid bare
 $\quad$ **1d)** (Pilpel) break
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατασκάπτω</span><sup><small>[[G2679]]</small></sup>
+<small>See Greek: </small>**<big>[[G2679|κατασκάπτω]]</big>**

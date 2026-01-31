@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Imnah</span>, a Levite, was appointed as an overseer of the freewill offerings during the religious reforms of King Hezekiah.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.31.14|2Ch.31.14]]; 
-- only referred to as Imnah<[[H3232H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Kore<[[H6981H]]>.
+- only referred to as Imnah **<big>[[H3232|יִמְנָה]]</big>**; 
+-  father of Kore **<big>[[H6981|קוֹרֵא]]</big>**.
 
 Imnah is mentioned in [[2Chr.31.14|2 Chronicles 31:14]] as a Levite who served during the reign of King Hezekiah of Judah. He was appointed as an overseer of the freewill offerings brought to the temple. 
 
@@ -21,7 +21,7 @@ Apart from this brief mention in 2 Chronicles 31, no other details are provided 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Imnah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232H) <small>*Hebrew*</small> | 1x | [2Ch.31.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnah\*\|reference=2Ch.31.14) |
-All Strong's for **Imnah**: \[[[H3232H]]\]
+| Imnah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232H) | 1x | [2Ch.31.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnah\*\|reference=2Ch.31.14) |
+All entries for **Imnah**:  **<big>[[H3232|יִמְנָה]]</big>**
 #### Related Profiles:
 - **[Kore](H6981H)** (child)

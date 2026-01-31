@@ -7,29 +7,29 @@ Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the vi
 Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood.<small><sub>**MT:**</sub></small>
 [[Joel.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.18|<< Joel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.20|Joel 3:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Egypt | <big><span class="asgreek">Αίγυπτος</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Ιδουμαία</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a plain | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of extinction, | <big><span class="asgreek">αφανισμού</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| because of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| iniquities | <big><span class="asgreek">αδικιών</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they poured out | <big><span class="asgreek">εξέχεαν</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of \[the\] just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Egypt | **<big>[[G0125\|Αίγυπτος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction | **<big>[[G0854\|αφανισμόν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Edom | **<big>[[H0123\|Ιδουμαία]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a plain | **<big>[[G8676\|πεδίον]]</big>** |
+| of extinction, | **<big>[[G0854\|αφανισμού]]</big>** |
+| because of | **<big>[[G1537\|εξ]]</big>** |
+| iniquities | **<big>[[G0093\|αδικιών]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they poured out | **<big>[[G1632\|εξέχεαν]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| of \[the\] just | **<big>[[G1342\|δίκαιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their land. | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Joel.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.18|<< Joel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.20|Joel 3:20 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ And set two men, sons of Belial, before him, to bear witness against him, saying
 But seat two scoundrels opposite him and have them testify, ‘You have cursed both God and the king!’ Then take him out and stone him to death.”<small><sub>**MT:**</sub></small>
 [[1Kgs.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.9|<< 1 Kings 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.11|1 Kings 21:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set | <big><span class="asgreek">καθίσατε</span></big> <sup><small><small>[[G7003]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of lawbreakers, | <big><span class="asgreek">παρανόμων</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them bear witness against | <big><span class="asgreek">καταμαρτυρησάτωσαν</span></big> <sup><small><small>[[G2649]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You raved \[against\] | <big><span class="asgreek">ευλόγηκας</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them lead him out | <big><span class="asgreek">εξαγαγέτωσαν</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone | <big><span class="asgreek">λιθοβολησάτωσαν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| set | **<big>[[G7003\|καθίσατε]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of lawbreakers, | **<big>[[G8627\|παρανόμων]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them bear witness against | **<big>[[G2649\|καταμαρτυρησάτωσαν]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| You raved \[against\] | **<big>[[G2127\|ευλόγηκας]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| king. | **<big>[[G0935\|βασιλέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them lead him out | **<big>[[G1806\|εξαγαγέτωσαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone | **<big>[[G3036\|λιθοβολησάτωσαν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him die! | **<big>[[G0599\|αποθανέτω]]</big>** |
 [[1Kgs.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.9|<< 1 Kings 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.11|1 Kings 21:11 >>]]</td></tr></table>
 
 

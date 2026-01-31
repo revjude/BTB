@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָבֵל‎</span></big> **ʼÂbêl** <small>*(aw-bale')*</small> ==**Abel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבֵל‎</span><sup><small>[[H0058]]</small></sup>; a meadow</small>
+**<big><span class="ashebrew">‎אָבֵל‎</span></big>** **ʼÂbêl** <small>*(aw-bale')*</small> ==**Abel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0058|‎אָבֵל‎]]</big>**; a meadow</small>
 
 $\quad$ Abel.
 - ***Abel***, the name of two places in Palestine.

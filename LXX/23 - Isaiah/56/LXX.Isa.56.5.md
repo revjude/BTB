@@ -7,30 +7,30 @@ Even unto them will I give in mine house and within my walls a place and a name 
 I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off.<small><sub>**MT:**</sub></small>
 [[Isa.56.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.4|<< Isaiah 56:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.6|Isaiah 56:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wall | <big><span class="asgreek">τείχει</span></big> <sup><small><small>[[G5038]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| a famous | <big><span class="asgreek">ονομαστόν</span></big> <sup><small><small>[[G8520]]</small></small></sup> |
-| better | <big><span class="asgreek">κρείττω</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
-| \[than\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cease. | <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my house, | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my wall | **<big>[[G5038\|τείχει]]</big>** **<big>[[G1473\|μου]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| a famous | **<big>[[G8520\|ονομαστόν]]</big>** |
+| better | **<big>[[G2908\|κρείττω]]</big>** |
+| \[than\] sons | **<big>[[G5207\|υιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρων]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ουκ]]</big>** |
+| cease. | **<big>[[G1587\|εκλείψει]]</big>** |
 [[Isa.56.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.4|<< Isaiah 56:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.6|Isaiah 56:6 >>]]</td></tr></table>
 
 

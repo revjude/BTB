@@ -1,4 +1,4 @@
-meaning of: <small>[[G4151G]]</small> 
+meaning of: <small>**<big>[[G4151G|πνεῦμα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πνεῦμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 

@@ -7,37 +7,37 @@ And Saul pitched in the hill of Hachilah, which [is] before Jeshimon, by the way
 Saul camped beside the road at the hill of Hachilah opposite Jeshimon, but David was living in the wilderness. When he realized that Saul had followed him there,<small><sub>**MT:**</sub></small>
 [[1Sam.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.2|<< 1 Samuel 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.4|1 Samuel 26:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul camped | <big><span class="asgreek">παρενέβαλε</span></big> <sup><small><small>[[G6070]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνώ</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hachilah, | <big><span class="asgreek">Εχελά</span></big> <sup><small><small>[[H2444]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Jeshimon, | <big><span class="asgreek">Ιεσσεμούν</span></big> <sup><small><small>[[H3452]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way. | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| stayed | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Saul comes | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul camped | **<big>[[G6070\|παρενέβαλε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| hill | **<big>[[G1015\|βουνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Hachilah, | **<big>[[H2444\|Εχελά]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Jeshimon, | **<big>[[H3452\|Ιεσσεμούν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| way. | **<big>[[G3598\|οδού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| stayed | **<big>[[G2523\|εκάθισεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David saw | **<big>[[G1492\|είδε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Saul comes | **<big>[[G2240\|ήκει]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness. | **<big>[[G2048\|έρημον]]</big>** |
 [[1Sam.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.2|<< 1 Samuel 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.4|1 Samuel 26:4 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ Notwithstanding the land shall be divided by lot: according to the names of the 
 Indeed, the land must be divided by lot; they shall receive their inheritance according to the names of the tribes of their fathers.<small><sub>**MT:**</sub></small>
 [[Num.26.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.54|<< Numbers 26:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.56|Numbers 26:56 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| lots | <big><span class="asgreek">κλήρων</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| shall be portioned | <big><span class="asgreek">μερισθήσεται</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| by the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names; | <big><span class="asgreek">ονόμασι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of their patrimony | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall inherit. | <big><span class="asgreek">κληρονομήσουσιν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
+| By | **<big>[[G1223\|διά]]</big>** |
+| lots | **<big>[[G2819\|κλήρων]]</big>** |
+| shall be portioned | **<big>[[G3307\|μερισθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| by the | **<big>[[G3588\|τοις]]</big>** |
+| names; | **<big>[[G3686\|ονόμασι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| of their patrimony | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall inherit. | **<big>[[G2816\|κληρονομήσουσιν]]</big>** |
 [[Num.26.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.54|<< Numbers 26:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.56|Numbers 26:56 >>]]</td></tr></table>
 
 

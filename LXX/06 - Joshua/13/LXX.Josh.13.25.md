@@ -7,29 +7,29 @@ And their coast was Jazer, and all the cities of Gilead, and half the land of th
 The territory of Jazer, all the cities of Gilead, and half the land of the Ammonites as far as Aroer, near Rabbah;<small><sub>**MT:**</sub></small>
 [[Josh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| Jazer, | <big><span class="asgreek">Ιαζίρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
-| \[and\] all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Aroer | <big><span class="asgreek">Αροήρ</span></big> <sup><small><small>[[H6177]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Rabbah. | <big><span class="asgreek">Ραββά</span></big> <sup><small><small>[[H7237]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγένετο]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| Jazer, | **<big>[[H3270\|Ιαζίρ]]</big>** |
+| \[and\] all | **<big>[[G3956\|πάσα]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Aroer | **<big>[[H6177\|Αροήρ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of Rabbah. | **<big>[[H7237\|Ραββά]]</big>** |
 [[Josh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 
 

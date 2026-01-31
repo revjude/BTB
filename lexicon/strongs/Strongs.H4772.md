@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מַרְגְלָה‎</span></big> **margᵉlâh** <small>*(mar-ghel-aw')*</small> ==**feet**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>denominative from <span class="ashebrew">‎רֶגֶל‎</span><sup><small>[[H7272]]</small></sup></small>
+**<big><span class="ashebrew">‎מַרְגְלָה‎</span></big>** **margᵉlâh** <small>*(mar-ghel-aw')*</small> ==**feet**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>denominative from **<big>[[H7272|‎רֶגֶל‎]]</big>**</small>
 
-$\quad$ feet. Compare <span class="ashebrew">‎מְרַאֲשָׁה‎</span><sup><small>[[H4763]]</small></sup>.
+$\quad$ feet. Compare **<big>[[H4763|‎מְרַאֲשָׁה‎]]</big>**.
 - (plural for collective) ***a footpiece***, i.e. (adverbially) ***at the foot***, or (direct.) ***the foot*** itself
 
 **1)** place of the feet, feet
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πούς</span><sup><small>[[G4228]]</small></sup>
+<small>See Greek: </small>**<big>[[G4228|πούς]]</big>**

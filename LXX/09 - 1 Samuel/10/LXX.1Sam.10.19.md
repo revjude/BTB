@@ -7,43 +7,43 @@ And ye have this day rejected your God, who himself saved you out of all your ad
 But today you have rejected your God, who saves you from all your troubles and afflictions, and you have said to Him, ‘No, set a king over us.’ Now therefore present yourselves before the LORD by your tribes and clans.”<small><sub>**MT:**</sub></small>
 [[1Sam.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.18|<< 1 Samuel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.20|1 Samuel 10:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| treat with contempt | <big><span class="asgreek">εξουδενώσατε</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliverer | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bad \[things\], | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your afflictions. | <big><span class="asgreek">θλίψεων</span></big> <sup><small><small>[[G2347]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| But only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| you shall place | <big><span class="asgreek">καταστήσεις</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| stand | <big><span class="asgreek">κατάστητε</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your thousands! | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| treat with contempt | **<big>[[G1847\|εξουδενώσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God, | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|υμων]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| he himself | **<big>[[G1473\|αυτός]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| deliverer | **<big>[[G4990\|σωτήρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your bad \[things\], | **<big>[[G2556\|κακών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your afflictions. | **<big>[[G2347\|θλίψεων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπατε]]</big>** |
+| But only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| a king | **<big>[[G0935\|βασιλέα]]</big>** |
+| you shall place | **<big>[[G2525\|καταστήσεις]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| us. | **<big>[[G1473\|ημών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| stand | **<big>[[G2525\|κατάστητε]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| your tribes | **<big>[[G5443\|φυλάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| your thousands! | **<big>[[G5505\|χιλιάδας]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[1Sam.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.18|<< 1 Samuel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.20|1 Samuel 10:20 >>]]</td></tr></table>
 
 

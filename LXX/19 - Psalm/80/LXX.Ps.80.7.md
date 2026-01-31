@@ -7,21 +7,21 @@ Turn us again, O God of hosts, and cause thy face to shine; and we shall be save
 Restore us, O God of Hosts, and cause Your face to shine upon us, that we may be saved.<small><sub>**MT:**</sub></small>
 [[Ps.80.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.6|<< Psalm 80:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.8|Psalm 80:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| turn towards | <big><span class="asgreek">επίστρεψον</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appear | <big><span class="asgreek">επίφανον</span></big> <sup><small><small>[[G2014]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall be delivered. | <big><span class="asgreek">σωθησόμεθα</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| turn towards | **<big>[[G1994\|επίστρεψον]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| appear | **<big>[[G2014\|επίφανον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall be delivered. | **<big>[[G4982\|σωθησόμεθα]]</big>** |
 [[Ps.80.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.6|<< Psalm 80:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.8|Psalm 80:8 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קָדַשׁ‎</span> <small>***(qa.dash)***</small> ==**to consecrate: forfeit**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H6942G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H6942G|קָדַשׁ]]</big>**</small> 
 
 - : forfeit

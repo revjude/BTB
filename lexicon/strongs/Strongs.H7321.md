@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רוּעַ‎</span></big> **rûwaʻ** <small>*(roo-ah')*</small> ==**to shout**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רוּעַ‎</span></big>** **rûwaʻ** <small>*(roo-ah')*</small> ==**to shout**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ blow an alarm, cry (alarm, aloud, out), destroy, make a joyful noise, smart, shout (for joy), sound an alarm, triumph.
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c1)** to shout in triumph
 $\quad$ $\quad$ **1c2)** to shout for joy
 **2)** (Niphal) destroyed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰνέω</span><sup><small>[[G0134]]</small></sup> · <span class="asgreek">ἀλαλάζω</span><sup><small>[[G0214]]</small></sup> · <span class="asgreek">ἀναβοάω</span><sup><small>[[G0310]]</small></sup> · <span class="asgreek">ἀνακράζω</span><sup><small>[[G0349]]</small></sup> · <span class="asgreek">βοάω</span><sup><small>[[G0994]]</small></sup> · <span class="asgreek">κηρύσσω</span><sup><small>[[G2784]]</small></sup> · <span class="asgreek">κράζω</span><sup><small>[[G2896]]</small></sup> · <span class="asgreek">κραυγάζω</span><sup><small>[[G2905]]</small></sup> · <span class="asgreek">σαλπίζω</span><sup><small>[[G4537]]</small></sup> · <span class="asgreek">σημαίνω</span><sup><small>[[G4591]]</small></sup>
+<small>See Greek: </small>**<big>[[G0134|αἰνέω]]</big>** · **<big>[[G0214|ἀλαλάζω]]</big>** · **<big>[[G0310|ἀναβοάω]]</big>** · **<big>[[G0349|ἀνακράζω]]</big>** · **<big>[[G0994|βοάω]]</big>** · **<big>[[G2784|κηρύσσω]]</big>** · **<big>[[G2896|κράζω]]</big>** · **<big>[[G2905|κραυγάζω]]</big>** · **<big>[[G4537|σαλπίζω]]</big>** · **<big>[[G4591|σημαίνω]]</big>**

@@ -7,24 +7,24 @@ And the children of Israel, [even] the whole congregation, journeyed from Kadesh
 After they had set out from Kadesh, the whole congregation of Israel came to Mount Hor.<small><sub>**MT:**</sub></small>
 [[Num.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.21|<< Numbers 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.23|Numbers 20:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they departed | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Kadesh. | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hor | <big><span class="asgreek">Ωρ</span></big> <sup><small><small>[[H2023]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they departed | **<big>[[G0522\|απήραν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Kadesh. | **<big>[[H6946\|Κάδης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγή]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Hor | **<big>[[H2023\|Ωρ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain. | **<big>[[G3735\|όρος]]</big>** |
 [[Num.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.21|<< Numbers 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.23|Numbers 20:23 >>]]</td></tr></table>
 
 

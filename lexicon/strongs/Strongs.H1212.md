@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּצַלְאֵל‎</span></big> **Bᵉtsalʼêl** <small>*(bets-al-ale')*</small> ==**Bezalel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎צֵל‎</span><sup><small>[[H6738]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> with a prepositional prefix; in (the) shadow (i.e. protection) of God</small>
+**<big><span class="ashebrew">‎בְּצַלְאֵל‎</span></big>** **Bᵉtsalʼêl** <small>*(bets-al-ale')*</small> ==**Bezalel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H6738|‎צֵל‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>** with a prepositional prefix; in (the) shadow (i.e. protection) of God</small>
 
 $\quad$ Bezaleel.
 - § Bezaleel = *"in the shadow (i.e. protection) of God"*

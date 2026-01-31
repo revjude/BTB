@@ -10,32 +10,32 @@ Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inh
 This is what the Lord GOD says: ‘If the prince gives a gift to any of his sons as an inheritance, it will belong to his descendants. It will become their property by inheritance.<small><sub>**MT:**</sub></small>
 [[Ezek.46.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.15|<< Ezekiel 46:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.17|Ezekiel 46:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| shall give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guiding | <big><span class="asgreek">αφηγούμενος</span></big> <sup><small><small>[[G6622]]</small></small></sup> |
-| a gift | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| to one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance, | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to his sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a possession | <big><span class="asgreek">κατάσχεσις</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| inheritance. | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| shall give | **<big>[[G1325\|δω]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| guiding | **<big>[[G6622\|αφηγούμενος]]</big>** |
+| a gift | **<big>[[G1390\|δόμα]]</big>** |
+| to one | **<big>[[G1520\|ενί]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his inheritance, | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| to his sons | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| a possession | **<big>[[G2697\|κατάσχεσις]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| inheritance. | **<big>[[G2817\|κληρονομία]]</big>** |
 [[Ezek.46.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.15|<< Ezekiel 46:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.17|Ezekiel 46:17 >>]]</td></tr></table>
 
 

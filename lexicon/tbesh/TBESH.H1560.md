@@ -1,4 +1,3 @@
-<span class="asaramaic">‎גְּלָל‎</span> <small>***(ge.lal)***</small> ==**great**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H1556]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1556|גָּלַל]]</big>**</small> 
 
-- Aramaic of <i>ga.lal</i> (<span class='ashebrew'>‎ג‎</span>ָּ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ל‎</span> "to roll" [[H1556]])
+- Aramaic of <i>ga.lal</i> (<span class='ashebrew'>‎ג‎</span>ָּ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ל‎</span> "to roll" **<big>[[H1556|גָּלַל]]</big>**)

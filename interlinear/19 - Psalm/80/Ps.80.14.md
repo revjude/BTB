@@ -6,18 +6,18 @@ Return, O God of Hosts, we pray! Look down from heaven and see! Attend to this v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.13|<< Psalms 80:13]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.15|Psalms 80:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O God of  | <span class="ashebrew"><big>אֱלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hosts  | <span class="ashebrew"><big>צְבָאוֹת֮ </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'Ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| return  | <span class="ashebrew"><big>שֽׁ֫וּב </big></span><small><small><sup>[[H7725J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Shuv- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֥א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pay attention  | <span class="ashebrew"><big>הַבֵּ֣ט </big></span><small><small><sup>[[H5027]]</sup></small></small> &#8207;| ha.Bet <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from heaven  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שָּׁמַ֣יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and see  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְאֵ֑ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.'Eh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and attend to  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פְקֹ֗ד </big></span><small><small><sup>[[H6485I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fe.Kod <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vine  | <span class="ashebrew"><big>גֶּ֣פֶן </big></span><small><small><sup>[[H1612]]</sup></small></small> &#8207;| Ge.fen <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹֽאת </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God of  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֮]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| return  |**<big>&#8207;[[H7725J\|שֽׁ֫וּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Shuv-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֥א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pay attention  |**<big>&#8207;[[H5027\|הַבֵּ֣ט]]&#8207; </big>**| ha.Bet<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַ֣יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and see  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7200G\|רְאֵ֑ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and attend to  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H6485I\|פְקֹ֗ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.Kod<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vine  |**<big>&#8207;[[H1612\|גֶּ֣פֶן]]&#8207; </big>**| Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.13|<< Psalms 80:13]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.15|Psalms 80:15 >>]]</td></tr></table>
 
 

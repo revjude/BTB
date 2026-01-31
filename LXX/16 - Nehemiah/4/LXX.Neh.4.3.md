@@ -7,30 +7,30 @@ Now Tobiah the Ammonite [was] by him, and he said, Even that which they build, i
 Then Tobiah the Ammonite, who was beside him, said, “If even a fox were to climb up on what they are building, it would break down their wall of stones!”<small><sub>**MT:**</sub></small>
 [[Neh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.2|<< Nehemiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.4|Nehemiah 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tobiah | <big><span class="asgreek">Τωβίας</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite | <big><span class="asgreek">Αμμανίτης</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| \[was\] next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| And even if | <big><span class="asgreek">και</span></big> <sup><small><small>[[G3532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall build, | <big><span class="asgreek">οικοδομούσιν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| a fox | <big><span class="asgreek">αλώπηξ</span></big> <sup><small><small>[[G0258]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| demolish | <big><span class="asgreek">καθελεί</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of stones | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Tobiah | **<big>[[H2900\|Τωβίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ammonite | **<big>[[H5983\|Αμμανίτης]]</big>** |
+| \[was\] next to | **<big>[[G2192\|εχόμενα]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1438\|αυτούς]]</big>** |
+| And even if | **<big>[[G3532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall build, | **<big>[[G3618\|οικοδομούσιν]]</big>** |
+| shall not | **<big>[[G3780\|ουχί]]</big>** |
+| ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| a fox | **<big>[[G0258\|αλώπηξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| demolish | **<big>[[G2507\|καθελεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| of stones | **<big>[[G3037\|λίθων]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
 [[Neh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.2|<< Nehemiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.4|Nehemiah 4:4 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adnah</span> was one of the Manassite leaders who defected to David at Ziklag while he was hiding from Saul.
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.20|1Ch.12.20]]; 
-- only referred to as Adnah<[[H5734G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Adnah **<big>[[H5734|עַדְנָה]]</big>**.
 
 Adnah is mentioned in [[1Chr.12.20|1 Chronicles 12:20]] as one of the Manassite leaders who joined David at Ziklag when he was seeking refuge from King Saul. Along with other warriors from the tribes of Benjamin and Judah, these Manassites defected to David and provided him with military support. 
 
@@ -16,5 +16,5 @@ Apart from being listed as one of the Manassite leaders who joined David at Zikl
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adnah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5734G) <small>*Hebrew*</small> | 1x | [1Ch.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adnah\*\|reference=1Ch.12.20) |
-All Strong's for **Adnah**: \[[[H5734G]]\]
+| Adnah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5734G) | 1x | [1Ch.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adnah\*\|reference=1Ch.12.20) |
+All entries for **Adnah**:  **<big>[[H5734|עַדְנָה]]</big>**

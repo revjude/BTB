@@ -7,28 +7,28 @@ And he cried, A lion: My lord, I stand continually upon the watchtower in the da
 Then the lookout shouted: “Day after day, my lord, I stand on the watchtower; night after night I stay at my post.<small><sub>**MT:**</sub></small>
 [[Isa.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.7|<< Isaiah 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.9|Isaiah 21:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| call | <big><span class="asgreek">κάλεσον</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| Uriah | <big><span class="asgreek">Ουρίαν</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watchtower | <big><span class="asgreek">σκοπιάν</span></big> <sup><small><small>[[G9115]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I stood | <big><span class="asgreek">έστην</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| by day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| I stood | <big><span class="asgreek">έστην</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| all | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| call | **<big>[[G2564\|κάλεσον]]</big>** |
+| Uriah | **<big>[[H0223b\|Ουρίαν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| watchtower | **<big>[[G9115\|σκοπιάν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I stood | **<big>[[G2476\|έστην]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| by day, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| I stood | **<big>[[G2476\|έστην]]</big>** |
+| all | **<big>[[G3650\|όλην]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| night. | **<big>[[G3571\|νύκτα]]</big>** |
 [[Isa.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.7|<< Isaiah 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.9|Isaiah 21:9 >>]]</td></tr></table>
 
 

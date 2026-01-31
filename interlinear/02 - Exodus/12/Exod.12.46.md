@@ -10,22 +10,22 @@ It must be eaten inside one house. You are not to take any of the meat outside t
 > $\quad$ referenced by: [[John.19.36|John 19:36]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in a house  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בַ֤יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Va.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָד֙ </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be eaten  | <span class="ashebrew"><big>יֵאָכֵ֔ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ye.'a.Khel <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will bring out  | <span class="ashebrew"><big>תוֹצִ֧יא </big></span><small><small><sup>[[H3318H]]</sup></small></small> &#8207;| to.Tzi' <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the house  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בַּ֛יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any of  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the meat  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּשָׂ֖ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] outside towards  | <span class="ashebrew"><big>ח֑וּצָ </big></span><small><small><sup>[[H2351]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| Chu.tza <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a bone  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶ֖צֶם </big></span><small><small><sup>[[H6106G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.tzem <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will break  | <span class="ashebrew"><big>תִשְׁבְּרוּ </big></span><small><small><sup>[[H7665]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tish.be.ru- <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> it  | <span class="ashebrew"><big>בֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| v <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a house  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004B\|בַ֤יִת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Va.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָד֙]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be eaten  |**<big>&#8207;[[H0398\|יֵאָכֵ֔ל]]&#8207; </big>**| ye.'a.Khel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring out  |**<big>&#8207;[[H3318H\|תוֹצִ֧יא]]&#8207; </big>**| to.Tzi'<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בַּ֛יִת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the meat  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1320\|בָּשָׂ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] outside towards  |**<big>&#8207;[[H2351\|ח֑וּצָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Chu.tza<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a bone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6106G\|עֶ֖צֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.tzem<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will break  |**<big>&#8207;[[H7665\|תִשְׁבְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tish.be.ru-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  |**<big>&#8207;[[H9003\|בֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.45|<< Exodus 12:45]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.47|Exodus 12:47 >>]]</td></tr></table>
 
 

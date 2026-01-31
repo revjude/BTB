@@ -11,23 +11,23 @@ Unless the LORD of Hosts had left us a few survivors, we would have become like 
 > $\quad$ referenced by: [[Rom.9.29|Rom 9:29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unless | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| left | <big><span class="asgreek">εγκατέλιπεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a seed, | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Sodom | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| we would have become | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> <big><span class="asgreek">εγενήθημεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Gomorrah | <big><span class="asgreek">Γόμορρα</span></big> <sup><small><small>[[G1116]]</small></small></sup> |
-|  | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| likened | <big><span class="asgreek">ωμοιώθημεν</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| unless | **<big>[[G1508\|ει μη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| left | **<big>[[G1459\|εγκατέλιπεν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| a seed, | **<big>[[G4690\|σπέρμα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Sodom | **<big>[[G4670\|Σόδομα]]</big>** |
+| we would have become | **<big>[[G0302\|αν]]</big>** **<big>[[G1096\|εγενήθημεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Gomorrah | **<big>[[G1116\|Γόμορρα]]</big>** |
+|  | **<big>[[G0302\|αν]]</big>** |
+| likened | **<big>[[G3666\|ωμοιώθημεν]]</big>** |
 [[Isa.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.8|<< Isaiah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.10|Isaiah 1:10 >>]]</td></tr></table>
 
 

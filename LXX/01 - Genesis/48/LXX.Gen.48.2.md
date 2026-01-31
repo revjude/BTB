@@ -7,25 +7,25 @@ And [one] told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Isr
 When Jacob was told, “Your son Joseph has come to you,” Israel rallied his strength and sat up in bed.<small><sub>**MT:**</sub></small>
 [[Gen.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.1|<< Genesis 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.3|Genesis 48:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it was reported | <big><span class="asgreek">απηγγέλη</span></big> <sup><small><small>[[G0518]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| comes | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel growing strong | <big><span class="asgreek">ενισχύσας</span></big> <sup><small><small>[[G1765]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bed. | <big><span class="asgreek">κλίνην</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
+| And it was reported | **<big>[[G0518\|απηγγέλη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| comes | **<big>[[G2064\|έρχεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel growing strong | **<big>[[G1765\|ενισχύσας]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| bed. | **<big>[[G2825\|κλίνην]]</big>** |
 [[Gen.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.1|<< Genesis 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.3|Genesis 48:3 >>]]</td></tr></table>
 
 

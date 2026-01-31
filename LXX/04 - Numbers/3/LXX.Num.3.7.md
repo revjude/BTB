@@ -7,28 +7,28 @@ And they shall keep his charge, and the charge of the whole congregation before 
 They are to perform duties for him and for the whole congregation before the Tent of Meeting, attending to the service of the tabernacle.<small><sub>**MT:**</sub></small>
 [[Num.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.6|<< Numbers 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.8|Numbers 3:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall guard | <big><span class="asgreek">φυλάξουσι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his watches, | <big><span class="asgreek">φυλακάς</span></big> <sup><small><small>[[G5438]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watches | <big><span class="asgreek">φυλακάς</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| to work | <big><span class="asgreek">εργάζεσθαι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall guard | **<big>[[G5442\|φυλάξουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his watches, | **<big>[[G5438\|φυλακάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| watches | **<big>[[G5438\|φυλακάς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| to work | **<big>[[G2038\|εργάζεσθαι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent. | **<big>[[G4633\|σκηνής]]</big>** |
 [[Num.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.6|<< Numbers 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.8|Numbers 3:8 >>]]</td></tr></table>
 
 

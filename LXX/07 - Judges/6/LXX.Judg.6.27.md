@@ -7,41 +7,41 @@ Then Gideon took ten men of his servants, and did as the LORD had said unto him:
 So Gideon took ten of his servants and did as the LORD had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime.<small><sub>**MT:**</sub></small>
 [[Judg.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gideon took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his manservants, | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| that | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he feared | <big><span class="asgreek">εφοβήθη</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| household | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[so as\] to not act | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| by day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he acted \[it\] | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[by\] night. | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gideon took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G1066\|Γεδεών]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his manservants, | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did | **<big>[[G4160\|εποίησεν]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| that | **<big>[[G5613\|ως]]</big>** |
+| he feared | **<big>[[G5399\|εφοβήθη]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| household | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[so as\] to not act | **<big>[[G3361\|μη]]</big>** **<big>[[G4160\|ποιήσαι]]</big>** |
+| by day, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he acted \[it\] | **<big>[[G4160\|εποίησε]]</big>** |
+| \[by\] night. | **<big>[[G3571\|νυκτός]]</big>** |
 [[Judg.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
 
 

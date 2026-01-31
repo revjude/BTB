@@ -7,37 +7,37 @@ And he answered and spake unto those that stood before him, saying, Take away th
 So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.”<small><sub>**MT:**</sub></small>
 [[Zech.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.3|<< Zechariah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.5|Zechariah 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the angel\] responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστηκότας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in front | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Remove | <big><span class="asgreek">αφέλετε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| filthy | <big><span class="asgreek">ρυπαρά</span></big> <sup><small><small>[[G4508]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I took | <big><span class="asgreek">εξειλόμην</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your iniquities. | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you clothe | <big><span class="asgreek">ενδύσατε</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in a foot length robe! | <big><span class="asgreek">ποδήρη</span></big> <sup><small><small>[[G4158]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the angel\] responded | **<big>[[G0611\|απεκρίθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| standing | **<big>[[G2476\|εστηκότας]]</big>** |
+| in front | **<big>[[G4253\|προ]]</big>** **<big>[[G4383\|προσώπου]]</big>** |
+| of him, | **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Remove | **<big>[[G0851\|αφέλετε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| garments | **<big>[[G2440\|ιμάτια]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| filthy | **<big>[[G4508\|ρυπαρά]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I took | **<big>[[G1807\|εξειλόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your iniquities. | **<big>[[G0093\|αδικίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you clothe | **<big>[[G1746\|ενδύσατε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in a foot length robe! | **<big>[[G4158\|ποδήρη]]</big>** |
 [[Zech.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.3|<< Zechariah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.5|Zechariah 3:5 >>]]</td></tr></table>
 
 

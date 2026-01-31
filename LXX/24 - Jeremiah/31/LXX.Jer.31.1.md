@@ -10,25 +10,25 @@ At the same time, saith the LORD, will I be the God of all the families of Israe
 “At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”<small><sub>**MT:**</sub></small>
 [[Jer.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time, | <big><span class="asgreek">χρόνω</span></big> <sup><small><small>[[G5550]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| race | <big><span class="asgreek">γένει</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονταί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time, | **<big>[[G5550\|χρόνω]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a God | **<big>[[G2316\|θεόν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| race | **<big>[[G1085\|γένει]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| will be | **<big>[[G1510\|έσονταί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for a | **<big>[[G1519\|εις]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
 [[Jer.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
 

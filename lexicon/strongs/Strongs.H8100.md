@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְעַת‎</span></big> **Shimʻath** <small>*(shim-awth')*</small> ==**Shimeath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שֵׁמַע‎</span><sup><small>[[H8088]]</small></sup>; annunciation</small>
+**<big><span class="ashebrew">‎שִׁמְעַת‎</span></big>** **Shimʻath** <small>*(shim-awth')*</small> ==**Shimeath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H8088|‎שֵׁמַע‎]]</big>**; annunciation</small>
 
 $\quad$ Shimath.
 - § Shimeath = *"report"*

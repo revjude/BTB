@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָעֵב‎</span></big> **râʻêb** <small>*(raw-abe')*</small> ==**be hungry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָעֵב‎</span></big>** **râʻêb** <small>*(raw-abe')*</small> ==**be hungry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (suffer to) famish, (be, have, suffer, suffer to) hunger(-ry).
@@ -8,4 +8,4 @@ $\quad$ (suffer to) famish, (be, have, suffer, suffer to) hunger(-ry).
 $\quad$ **1a)** (Qal) to be hungry
 $\quad$ **1b)** (Hiphil) to allow one to be hungry, allow to hunger
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πεινάω</span><sup><small>[[G3983]]</small></sup>
+<small>See Greek: </small>**<big>[[G3983|πεινάω]]</big>**

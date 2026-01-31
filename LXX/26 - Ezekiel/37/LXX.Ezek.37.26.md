@@ -7,33 +7,33 @@ Moreover I will make a covenant of peace with them; it shall be an everlasting c
 And I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and multiply them, and I will set My sanctuary among them forever.<small><sub>**MT:**</sub></small>
 [[Ezek.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.25|<< Ezekiel 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.27|Ezekiel 37:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will ordain | <big><span class="asgreek">διαθήσομαι</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of peace; | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιωνία</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy \[things\] | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will ordain | **<big>[[G1303\|διαθήσομαι]]</big>** |
+| with them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| of peace; | **<big>[[G1515\|ειρήνης]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκη]]</big>** |
+| an eternal | **<big>[[G0166\|αιωνία]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| them; | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my holy \[things\] | **<big>[[G0039\|άγιά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their midst | **<big>[[G3319\|μέσω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
 [[Ezek.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.25|<< Ezekiel 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.27|Ezekiel 37:27 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Amal</span> was a son of Helem, a descendant of Asher, and is listed in the genealogy of the tribe of Asher. \([[1Chr.7.35|1Ch.7.35]]\)
 - A man from the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.35|1Ch.7.35]]; 
-- only referred to as Amal<[[H6000]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Hotham<[[H2369G]]>; 
-- a brother of Zophah<[[H6690]]>, Imna<[[H3234]]> and Shelesh<[[H8028]]>.
+- only referred to as Amal **<big>[[H6000|עָמָל]]</big>**; 
+-  son of Hotham **<big>[[H2369|חוֹתָם]]</big>**; 
+- a brother of Zophah **<big>[[H6690|צוֹפַח]]</big>**, Imna **<big>[[H3234|יִמְנָע]]</big>** and Shelesh **<big>[[H8028|שֶׁלֶשׁ]]</big>**.
 
 Amal is mentioned briefly in the genealogy of the tribe of Asher, one of the twelve tribes of Israel. He is listed as one of the sons of Helem, who was a descendant of Asher through his son Heber. \([[1Chr.7.35|1Ch.7.35]]\) 
 
@@ -18,8 +18,8 @@ The mention of Amal in the genealogy serves to document the lineage of the tribe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amal | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>](H6000) <small>*Hebrew*</small> | 1x | [1Ch.7.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amal\*\|reference=1Ch.7.35) |
-All Strong's for **Amal**: \[[[H6000]]\]
+| Amal | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>](H6000) | 1x | [1Ch.7.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amal\*\|reference=1Ch.7.35) |
+All entries for **Amal**:  **<big>[[H6000|עָמָל]]</big>**
 #### Related Profiles:
 - **[Hotham](H2369G)** (father)
 - **[Zophah](H6690)** (sibling)

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Rabbith</span> was a town in the territory of Issachar, mentioned in the list of cities and towns allocated to the tribe during the division of the Promised Land.
 - A location only mentioned at [[Josh.19.20|Jos.19.20]]; 
-- only referred to as Rabbith<[[H7245]]> \(<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ית</span>\).
+- only referred to as Rabbith **<big>[[H7245|רַבִּית]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.391416,35.377302&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Rabbith was a town located in the territory allocated to the tribe of Issachar d
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Rabbith | [<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ית</span>](H7245) <small>*Hebrew*</small> | 1x | [Jos.19.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rabbith\*\|reference=Jos.19.20) |
-All Strong's for **Rabbith**: \[[[H7245]]\]
+| Rabbith | [<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ית</span>](H7245) | 1x | [Jos.19.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rabbith\*\|reference=Jos.19.20) |
+All entries for **Rabbith**:  **<big>[[H7245|רַבִּית]]</big>**

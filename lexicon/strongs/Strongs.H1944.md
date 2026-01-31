@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הוֹהָם‎</span></big> **Hôwhâm** <small>*(ho-hawm')*</small> ==**Hoham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎הוֹהָם‎</span></big>** **Hôwhâm** <small>*(ho-hawm')*</small> ==**Hoham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Hoham.

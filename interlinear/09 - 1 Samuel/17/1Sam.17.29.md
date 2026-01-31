@@ -6,16 +6,16 @@ And David said, What have I now done? [Is there] not a cause?
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.28|<< 1 Samuel 17:28]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.30|1 Samuel 17:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֔ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מֶ֥ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| meh <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have I done  | <span class="ashebrew"><big>עָשִׂ֖יתִי </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Si.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>עָ֑תָּה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ל֖וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a word  | <span class="ashebrew"><big>דָּבָ֥ר </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] it  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מֶ֥ה]]&#8207; </big>**| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have I done  |**<big>&#8207;[[H6213A\|עָשִׂ֖יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עָ֑תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֖וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a word  |**<big>&#8207;[[H1697G\|דָּבָ֥ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.28|<< 1 Samuel 17:28]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.30|1 Samuel 17:30 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ Curse not the king, no not in thy thought; and curse not the rich in thy bedcham
 Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech.<small><sub>**MT:**</sub></small>
 [[Eccl.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your conscience | <big><span class="asgreek">συνειδήσει</span></big> <sup><small><small>[[G4893]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| you should not curse | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">καταράση</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] closets | <big><span class="asgreek">ταμιείοις</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| of your bedrooms | <big><span class="asgreek">κοιτώνων</span></big> <sup><small><small>[[G2846]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not curse | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">καταράση</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| a rich \[man\]. | <big><span class="asgreek">πλούσιον</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a winged creature | <big><span class="asgreek">πετεινόν</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| shall carry | <big><span class="asgreek">αποίσει</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voice, | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one having | <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτέρυγας</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| shall report | <big><span class="asgreek">απαγγελεί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| your word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your conscience | **<big>[[G4893\|συνειδήσει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| a king | **<big>[[G0935\|βασιλέα]]</big>** |
+| you should not curse | **<big>[[G3361\|μη]]</big>** **<big>[[G2672\|καταράση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] closets | **<big>[[G5009\|ταμιείοις]]</big>** |
+| of your bedrooms | **<big>[[G2846\|κοιτώνων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you should not curse | **<big>[[G3361\|μη]]</big>** **<big>[[G2672\|καταράση]]</big>** |
+| a rich \[man\]. | **<big>[[G4145\|πλούσιον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a winged creature | **<big>[[G4071\|πετεινόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| shall carry | **<big>[[G0667\|αποίσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your voice, | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one having | **<big>[[G2192\|έχων]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| wings | **<big>[[G4420\|πτέρυγας]]</big>** |
+| shall report | **<big>[[G0518\|απαγγελεί]]</big>** |
+| your word. | **<big>[[G3056\|λόγον]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Eccl.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
 

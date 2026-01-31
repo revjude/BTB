@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H0676]]</small>
+<small>Hebrew form: **<big>[[H0676|אֶצְבַּע]]</big>**</small>
  [<span class="bdbLangAramaic">‎אֶצְבַּע‎</span>] **noun feminine** 
 
 **1.** ==finger==; 

@@ -7,32 +7,32 @@ And the man Micah had an house of gods, and made an ephod, and teraphim, and con
 Now this man Micah had a shrine, and he made an ephod and some household idols, and ordained one of his sons as his priest.<small><sub>**MT:**</sub></small>
 [[Judg.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.4|<< Judges 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.6|Judges 17:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Micah | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| was to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| an ephod | <big><span class="asgreek">εφούδ</span></big> <sup><small><small>[[G7587]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| teraphim. | <big><span class="asgreek">θεραφίν</span></big> <sup><small><small>[[G7655]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he filled up | <big><span class="asgreek">ενέπλησε</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a priest. | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| of Micah | **<big>[[H4318\|Μιχά]]</big>** |
+| was to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκος]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| an ephod | **<big>[[G7587\|εφούδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| teraphim. | **<big>[[G7655\|θεραφίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he filled up | **<big>[[G1705\|ενέπλησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| of one | **<big>[[G1520\|ενός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he became | **<big>[[G1096\|εγενήθη]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a priest. | **<big>[[G2409\|ιερέα]]</big>** |
 [[Judg.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.4|<< Judges 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.6|Judges 17:6 >>]]</td></tr></table>
 
 

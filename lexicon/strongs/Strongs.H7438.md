@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֹן‎</span></big> **rôn** <small>*(rone)*</small> ==**song**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָנַן‎</span><sup><small>[[H7442]]</small></sup></small>
+**<big><span class="ashebrew">‎רֹן‎</span></big>** **rôn** <small>*(rone)*</small> ==**song**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7442|‎רָנַן‎]]</big>**</small>
 
 $\quad$ song.
 - ***a shout*** (of deliverance)

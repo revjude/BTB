@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לְמוּאֵל‎</span></big> **Lᵉmûwʼêl** <small>*(lem-oo-ale')*</small> ==**Lemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">לְמוֹאֵל</span> **Lᵉmôwʼêl** <small>*(lem-oale')*</small>; from <span class="ashebrew">‎לְמוֹ‎</span><sup><small>[[H3926]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; (belonging) to God</small>
+**<big><span class="ashebrew">‎לְמוּאֵל‎</span></big>** **Lᵉmûwʼêl** <small>*(lem-oo-ale')*</small> ==**Lemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">לְמוֹאֵל</span></big>** **Lᵉmôwʼêl** <small>*(lem-oale')*</small>; from **<big>[[H3926|‎לְמוֹ‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; (belonging) to God</small>
 
 $\quad$ Lemuel.
 - § Lemuel = *"for God"*

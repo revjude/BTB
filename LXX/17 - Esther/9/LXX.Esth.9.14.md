@@ -7,26 +7,26 @@ And the king commanded it so to be done: and the decree was given at Shushan; an
 So the king commanded that this be done. An edict was issued in Susa, and they hanged the ten sons of Haman.<small><sub>**MT:**</sub></small>
 [[Esth.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.13|<< Esther 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.15|Esther 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| committed it | <big><span class="asgreek">επέτρεψεν</span></big> <sup><small><small>[[G2010]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| to be. | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he displayed | <big><span class="asgreek">εξέθηκε</span></big> <sup><small><small>[[G1620]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίοις</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bodies | <big><span class="asgreek">σώματα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| to hang. | <big><span class="asgreek">κρεμάσαι</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| committed it | **<big>[[G2010\|επέτρεψεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| to be. | **<big>[[G1096\|γενέσθαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he displayed | **<big>[[G1620\|εξέθηκε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bodies | **<big>[[G4983\|σώματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Haman | **<big>[[H2001\|Αμάν]]</big>** |
+| to hang. | **<big>[[G2910\|κρεμάσαι]]</big>** |
 [[Esth.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.13|<< Esther 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.15|Esther 9:15 >>]]</td></tr></table>
 
 

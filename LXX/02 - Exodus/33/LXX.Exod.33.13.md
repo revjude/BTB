@@ -7,35 +7,35 @@ Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy 
 Now if indeed I have found favor in Your sight, please let me know Your ways, that I may know You and find favor in Your sight. Remember that this nation is Your people.”<small><sub>**MT:**</sub></small>
 [[Exod.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.12|<< Exodus 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.14|Exodus 33:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| I have found | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| reveal | <big><span class="asgreek">εμφάνισόν</span></big> <sup><small><small>[[G1718]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| knowingly! | <big><span class="asgreek">γνωστώς</span></big> <sup><small><small>[[G6756]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I might see | <big><span class="asgreek">ίδω</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| how | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should be | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| found | <big><span class="asgreek">ευρηκώς</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I might know, | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| I have found | **<big>[[G2147\|εύρηκα]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| reveal | **<big>[[G1718\|εμφάνισόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτόν]]</big>** |
+| knowingly! | **<big>[[G6756\|γνωστώς]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I might see | **<big>[[G1492\|ίδω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| how | **<big>[[G3704\|όπως]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I should be | **<big>[[G1510\|ω]]</big>** |
+| found | **<big>[[G2147\|ευρηκώς]]</big>** |
+| in favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I might know, | **<big>[[G1097\|γνώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this nation | **<big>[[G1484\|έθνος]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 [[Exod.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.12|<< Exodus 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.14|Exodus 33:14 >>]]</td></tr></table>
 
 

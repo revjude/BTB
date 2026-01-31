@@ -7,18 +7,18 @@ O Lord, open thou my lips; and my mouth shall shew forth thy praise.
 O Lord, open my lips, and my mouth will declare Your praise.<small><sub>**MT:**</sub></small>
 [[Ps.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.14|<< Psalm 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.16|Psalm 51:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall open | <big><span class="asgreek">ανοίξεις</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall announce | <big><span class="asgreek">αναγγελεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your praise. | <big><span class="asgreek">αίνεσίν</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my lips | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you shall open | **<big>[[G0455\|ανοίξεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall announce | **<big>[[G0312\|αναγγελεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your praise. | **<big>[[G0133\|αίνεσίν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.14|<< Psalm 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.16|Psalm 51:16 >>]]</td></tr></table>
 
 

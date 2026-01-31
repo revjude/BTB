@@ -7,40 +7,40 @@ And they commanded the people, saying, When ye see the ark of the covenant of th
 and commanded the people: “When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, you are to set out from your positions and follow it.<small><sub>**MT:**</sub></small>
 [[Josh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.2|<< Joshua 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.4|Joshua 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave charge | <big><span class="asgreek">ενετείλαντο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should behold | <big><span class="asgreek">ίδητε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίροντας</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall depart | <big><span class="asgreek">απαρείτε</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gave charge | **<big>[[G1781\|ενετείλαντο]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should behold | **<big>[[G1492\|ίδητε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites | **<big>[[G3017\|Λευίτας]]</big>** |
+| lifting | **<big>[[G0142\|αίροντας]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| shall depart | **<big>[[G0522\|απαρείτε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your place | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| it! | **<big>[[G1473\|αυτής]]</big>** |
 [[Josh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.2|<< Joshua 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.4|Joshua 3:4 >>]]</td></tr></table>
 
 

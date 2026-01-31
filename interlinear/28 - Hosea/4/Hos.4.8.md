@@ -6,15 +6,15 @@ They feed on the sins of My people and set their hearts on iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.7|<< Hosea 4:7]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.9|Hosea 4:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sin of  | <span class="ashebrew"><big>חַטַּ֥את </big></span><small><small><sup>[[H2403B]]</sup></small></small> &#8207;| cha.Tat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ֖ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they eat  | <span class="ashebrew"><big>יֹאכֵ֑לוּ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| yo.Khe.lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| iniquity their  | <span class="ashebrew"><big>עֲוֹנָ֖ </big></span><small><small><sup>[[H5771G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'a.vo.Na <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they lift up  | <span class="ashebrew"><big>יִשְׂא֥וּ </big></span><small><small><sup>[[H5375O]]</sup></small></small> &#8207;| yis.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desire its  | <span class="ashebrew"><big>נַפְשֽׁ </big></span><small><small><sup>[[H5315L]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sin of  |**<big>&#8207;[[H2403B\|חַטַּ֥את]]&#8207; </big>**| cha.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they eat  |**<big>&#8207;[[H0398\|יֹאכֵ֑לוּ]]&#8207; </big>**| yo.Khe.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity their  |**<big>&#8207;[[H5771G\|עֲוֹנָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'a.vo.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lift up  |**<big>&#8207;[[H5375O\|יִשְׂא֥וּ]]&#8207; </big>**| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desire its  |**<big>&#8207;[[H5315L\|נַפְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.7|<< Hosea 4:7]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.9|Hosea 4:9 >>]]</td></tr></table>
 
 

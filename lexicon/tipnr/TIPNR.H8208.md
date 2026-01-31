@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shaphir</span> was a town mentioned in Micah's prophecy, urged to pass on in nakedness and shame \(Mic. 1:11\).
 - A location only mentioned at [[Mic.1.11|Mic.1.11]]; 
-- only referred to as Shaphir<[[H8208]]> \(<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Shaphir **<big>[[H8208|שָׁפִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.743719,34.694006&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shaphir is mentioned only once in the Bible, in the context of the prophet Micah
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shaphir | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8208) <small>*Hebrew*</small> | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaphir\*\|reference=Mic.1.11) |
-All Strong's for **Shaphir**: \[[[H8208]]\]
+| Shaphir | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8208) | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaphir\*\|reference=Mic.1.11) |
+All entries for **Shaphir**:  **<big>[[H8208|שָׁפִיר]]</big>**

@@ -11,34 +11,34 @@ For this is what the LORD says: “When Babylon’s seventy years are complete, 
 > $\quad$ referenced by: [[LXX.Dan.9.2|Dan 9:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| \[is\] about | <big><span class="asgreek">μέλλη</span></big> <sup><small><small>[[G3195]]</small></small></sup> |
-| to be filled | <big><span class="asgreek">πληρούσθαι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλώνι</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| I will visit | <big><span class="asgreek">επισκέψομαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to return | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| \[is\] about | **<big>[[G3195\|μέλλη]]</big>** |
+| to be filled | **<big>[[G4137\|πληρούσθαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλώνι]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| I will visit | **<big>[[G1980\|επισκέψομαι]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will set | **<big>[[G2186\|επιστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to return | **<big>[[G1994\|επιστρέψαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this place. | **<big>[[G5117\|τόπον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[Jer.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.9|<< Jeremiah 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.11|Jeremiah 29:11 >>]]</td></tr></table>
 
 

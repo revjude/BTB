@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יַ֫חַת‎</span> <small>***(ya.chat)***</small> ==**Jahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.6.20|1Ch.6.20]]
--  son of: Shimei ([[H8096G]])
--  brother of: Jahath ([[H3189H]]), Zizah ([[H2126]]); Jeush@ ([[H3266J]]), Beriah ([[H1283J]])
--  father of: Zimmah ([[H2155G]])
+-  son of: Shimei (**<big>[[H8096G|שִׁמְעִי]]</big>**)
+-  brother of: Jahath (**<big>[[H3189H|יַחַת]]</big>**), Zizah (**<big>[[H2126|זִינָא]]</big>**); Jeush@ (**<big>[[H3266J|יְעוּשׁ]]</big>**), Beriah (**<big>[[H1283J|בְּרִיעָה]]</big>**)
+-  father of: Zimmah (**<big>[[H2155G|זִמָּה]]</big>**)

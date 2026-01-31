@@ -1,4 +1,4 @@
-<small>Also see: [[H4067]] | [[H4060]]</small>
+<small>Also see: **<big>[[H4067|מָדוֹן]]</big>** | **<big>[[H4060|מִדָּה]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎מָדוֺן‎</span> **noun masculine**<sup>[[Prov.22.10|Prov 22:10]]</sup> ==strife, contention== — [[Ps.80.7|Ps 80:7]] + 9 t.; plural <span class="bdbLangHebrew">‎מִדְיָנִים‎</span> [[Prov.18.18|Prov 18:18]], <span class="bdbLangHebrew">‎מִדְ֯וָנִים‎</span> [[Prov.18.19|Prov 18:19]] + 7 t.; contracted into <span class="bdbLangHebrew">‎מְדָנִים‎</span> [[Prov.6.19|Prov 6:19]]; [[Prov.10.12|Prov 10:12]], <span class="bdbLangHebrew">‎מִדְ֯נִים‎</span> [[Prov.6.14|Prov 6:14]] construct <span class="bdbLangHebrew">‎מִדְיְנֵי‎</span> [[Prov.19.13|Prov 19:13]]. 
 

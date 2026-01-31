@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹן‎</span></big> **ʼÔwn** <small>*(one)*</small> ==**On**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened); <span class="ashebrew">אֹן</span> **ʼÔn** <small>*(one)*</small>; of Egyptian derivation</small>
+**<big><span class="ashebrew">‎אוֹן‎</span></big>** **ʼÔwn** <small>*(one)*</small> ==**On**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened); **<big><span class="ashebrew">אֹן</span></big>** **ʼÔn** <small>*(one)*</small>; of Egyptian derivation</small>
 
 $\quad$ On.
 - § On = *"strength or vigour"*

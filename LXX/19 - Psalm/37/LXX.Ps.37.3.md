@@ -7,23 +7,23 @@ Trust in the LORD, and do good; [so] shalt thou dwell in the land, and verily th
 Trust in the LORD and do good; dwell in the land and cultivate faithfulness.<small><sub>**MT:**</sub></small>
 [[Ps.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.2|<< Psalm 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.4|Psalm 37:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hope | <big><span class="asgreek">έλπισον</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| execute | <big><span class="asgreek">ποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| graciousness! | <big><span class="asgreek">χρηστότητα</span></big> <sup><small><small>[[G5544]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encamp | <big><span class="asgreek">κατασκήνου</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be tended | <big><span class="asgreek">ποιμανθήση</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its riches. | <big><span class="asgreek">πλούτω</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hope | **<big>[[G1679\|έλπισον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| execute | **<big>[[G4160\|ποίει]]</big>** |
+| graciousness! | **<big>[[G5544\|χρηστότητα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| encamp | **<big>[[G2681\|κατασκήνου]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| land! | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be tended | **<big>[[G4165\|ποιμανθήση]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| its riches. | **<big>[[G4149\|πλούτω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.2|<< Psalm 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.4|Psalm 37:4 >>]]</td></tr></table>
 
 

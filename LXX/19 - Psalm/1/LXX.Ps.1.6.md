@@ -7,16 +7,16 @@ For the LORD knoweth the way of the righteous: but the way of the ungodly shall 
 For the LORD guards the path of the righteous, but the way of the wicked will perish.<small><sub>**MT:**</sub></small>
 [[Ps.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.5|<< Psalm 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.1|Psalm 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> knows | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of \[the\] just, | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of impious ones | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall perish. | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> knows | **<big>[[G1097\|γινώσκει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of \[the\] just, | **<big>[[G1342\|δικαίων]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδός]]</big>** |
+| of impious ones | **<big>[[G0765\|ασεβών]]</big>** |
+| shall perish. | **<big>[[G0622\|απολείται]]</big>** |
 [[Ps.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.5|<< Psalm 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.1|Psalm 2:1 >>]]</td></tr></table>
 
 

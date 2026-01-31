@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חַטִּיל‎</span></big> **Chaṭṭîyl** <small>*(khat-teel')*</small> ==**Hattil**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎חַטִּיל‎</span></big>** **Chaṭṭîyl** <small>*(khat-teel')*</small> ==**Hattil**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root apparently meaning to wave; fluctuating</small>
 
 $\quad$ Hattil.

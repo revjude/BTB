@@ -4,9 +4,9 @@ Woman living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Naamah</span>, an Ammonite woman, was the mother of Rehoboam, who succeeded his father Solomon as king of Judah.
 - A woman of the Ammonites living at the time of United Monarchy, first mentioned at [[1Kgs.14.21|1Ki.14.21]]; 
-- only referred to as Naamah<[[H5279A]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Solomon<[[H8010]]>; 
--  mother of Rehoboam<[[H7346]]>.
+- only referred to as Naamah **<big>[[H5279|נַעֲמָה]]</big>**; 
+- wife of Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**; 
+-  mother of Rehoboam **<big>[[H7346|רְחַבְעָם]]</big>**.
 
 Naamah was an Ammonite woman who became the wife of King Solomon of Israel and the mother of his successor, King Rehoboam of Judah \([[1Kgs.14.21|1 Kings 14:21]],31; [[2Chr.12.13|2 Chronicles 12:13]]\). The Ammonites were a neighboring people of the Israelites, often in conflict with them throughout their history. 
 
@@ -18,8 +18,8 @@ The mention of Naamah's Ammonite heritage in both 1 Kings and 2 Chronicles sugge
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naamah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5279A) <small>*Hebrew*</small> | 3x | [[1Ki.14.21] ... [2Ch.12.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamah\*\|reference=1Ki.14.21;1Ki.14.31;2Ch.12.13) |
-All Strong's for **Naamah**: \[[[H5279A]]\]
+| Naamah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5279A) | 3x | [[1Ki.14.21] ... [2Ch.12.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamah\*\|reference=1Ki.14.21;1Ki.14.31;2Ch.12.13) |
+All entries for **Naamah**:  **<big>[[H5279|נַעֲמָה]]</big>**
 #### Related Profiles:
 - **[Solomon](H8010)** (spouse)
 - **[Rehoboam](H7346)** (child)

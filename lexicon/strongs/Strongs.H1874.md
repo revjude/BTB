@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דַּרְקוֹן‎</span></big> **Darqôwn** <small>*(dar-kone')*</small> ==**Darkon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎דַּרְקוֹן‎</span></big>** **Darqôwn** <small>*(dar-kone')*</small> ==**Darkon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Darkon.

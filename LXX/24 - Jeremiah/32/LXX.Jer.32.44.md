@@ -7,54 +7,54 @@ Men shall buy fields for money, and subscribe evidences, and seal [them], and ta
 Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills, and the Negev—because I will restore them from captivity, declares the LORD.”<small><sub>**MT:**</sub></small>
 [[Jer.32.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall acquire | <big><span class="asgreek">κτήσονται</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| fields | <big><span class="asgreek">αγρούς</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| silver; | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall write | <big><span class="asgreek">γράψεις</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall set a seal upon \[it\], | <big><span class="asgreek">σφραγιή</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take testimony | <big><span class="asgreek">διαμαρτύρη</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
-| of witnesses | <big><span class="asgreek">μάρτυρας</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sephela, | <big><span class="asgreek">Σεφηλά</span></big> <sup><small><small>[[H8219]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Negev. | <big><span class="asgreek">Ναγέβ</span></big> <sup><small><small>[[H5045]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I shall return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their resettlement, | <big><span class="asgreek">αποικίας</span></big> <sup><small><small>[[G6430]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall acquire | **<big>[[G2932\|κτήσονται]]</big>** |
+| fields | **<big>[[G0068\|αγρούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| silver; | **<big>[[G0694\|αργυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall write | **<big>[[G1125\|γράψεις]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| a scroll, | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall set a seal upon \[it\], | **<big>[[G4972\|σφραγιή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall take testimony | **<big>[[G1263\|διαμαρτύρη]]</big>** |
+| of witnesses | **<big>[[G3144\|μάρτυρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| Sephela, | **<big>[[H8219\|Σεφηλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| Negev. | **<big>[[H5045\|Ναγέβ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I shall return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their resettlement, | **<big>[[G6430\|αποικίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.32.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
 

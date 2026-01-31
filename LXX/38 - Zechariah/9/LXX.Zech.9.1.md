@@ -10,27 +10,27 @@ The burden of the word of the LORD in the land of Hadrach, and Damascus [shall b
 This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—<small><sub>**MT:**</sub></small>
 [[Zech.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.23|<< Zechariah 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.2|Zechariah 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] concern | <big><span class="asgreek">λήμμα</span></big> <sup><small><small>[[G8189]]</small></small></sup> |
-| of \[the\] word | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Hadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H2317]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of Damascus | <big><span class="asgreek">Δαμασκού</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| his sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| inspects | <big><span class="asgreek">εφορά</span></big> <sup><small><small>[[G7586]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| \[The\] concern | **<big>[[G8189\|λήμμα]]</big>** |
+| of \[the\] word | **<big>[[G3056\|λόγου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Hadrach, | **<big>[[H2317\|Σεδράχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of Damascus | **<big>[[G1154\|Δαμασκού]]</big>** |
+| his sacrifice | **<big>[[G2378\|θυσία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| inspects | **<big>[[G7586\|εφορά]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Zech.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.23|<< Zechariah 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.2|Zechariah 9:2 >>]]</td></tr></table>
 
 

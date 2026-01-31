@@ -7,29 +7,29 @@ But your iniquities have separated between you and your God, and your sins have 
 But your iniquities have built barriers between you and your God, and your sins have hidden His face from you, so that He does not hear.<small><sub>**MT:**</sub></small>
 [[Isa.59.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.1|<< Isaiah 59:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.3|Isaiah 59:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make a part | <big><span class="asgreek">διϊστώσιν</span></big> <sup><small><small>[[G1339]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he turned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| show mercy. | <big><span class="asgreek">ελεήσαι</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sins | **<big>[[G0265\|αμαρτήματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| make a part | **<big>[[G1339\|διϊστώσιν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God; | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your sins | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| he turned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| show mercy. | **<big>[[G1653\|ελεήσαι]]</big>** |
 [[Isa.59.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.1|<< Isaiah 59:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.3|Isaiah 59:3 >>]]</td></tr></table>
 
 

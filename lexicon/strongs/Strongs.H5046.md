@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָגַד‎</span></big> **nâgad** <small>*(naw-gad')*</small> ==**to tell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָגַד‎</span></big>** **nâgad** <small>*(naw-gad')*</small> ==**to tell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bewray, [idiom] certainly, certify, declare(-ing), denounce, expound, [idiom] fully, messenger, plainly, profess, rehearse, report, shew (forth), speak, [idiom] surely, tell, utter.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1a5)** to avow, acknowledge, confess
 $\quad$ $\quad$ $\quad$ **1a5a)** messenger (participle)
 $\quad$ **1b)** (Hophal) to be told, be announced, be reported
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγγελία</span><sup><small>[[G0031]]</small></sup> · <span class="asgreek">ἀναγγέλλω</span><sup><small>[[G0312]]</small></sup> · <span class="asgreek">ἀπαγγέλλω</span><sup><small>[[G0518]]</small></sup> · <span class="asgreek">ἀποκαλύπτω</span><sup><small>[[G0601]]</small></sup> · <span class="asgreek">γινώσκω</span><sup><small>[[G1097]]</small></sup> · <span class="asgreek">δεικνύω</span><sup><small>[[G1166]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">προλέγω</span><sup><small>[[G4302]]</small></sup> · <span class="asgreek">σημαίνω</span><sup><small>[[G4591]]</small></sup> · <span class="asgreek">ὑποδείκνυμι</span><sup><small>[[G5263]]</small></sup>
+<small>See Greek: </small>**<big>[[G0031|ἀγγελία]]</big>** · **<big>[[G0312|ἀναγγέλλω]]</big>** · **<big>[[G0518|ἀπαγγέλλω]]</big>** · **<big>[[G0601|ἀποκαλύπτω]]</big>** · **<big>[[G1097|γινώσκω]]</big>** · **<big>[[G1166|δεικνύω]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G4302|προλέγω]]</big>** · **<big>[[G4591|σημαίνω]]</big>** · **<big>[[G5263|ὑποδείκνυμι]]</big>**

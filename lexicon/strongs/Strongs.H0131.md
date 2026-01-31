@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדֻמִּים‎</span></big> **ʼĂdummîym** <small>*(ad-oom-meem')*</small> ==**Adummim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎אָדָם‎</span><sup><small>[[H0121]]</small></sup>; red spots</small>
+**<big><span class="ashebrew">‎אֲדֻמִּים‎</span></big>** **ʼĂdummîym** <small>*(ad-oom-meem')*</small> ==**Adummim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H0121|‎אָדָם‎]]</big>**; red spots</small>
 
 $\quad$ Adummim.
 - § Adummim = *"ruddy one: quieted ones?"*

@@ -7,22 +7,22 @@ Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and
 Nevertheless, some from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem.<small><sub>**MT:**</sub></small>
 [[2Chr.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.10|<< 2 Chronicles 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.12|2 Chronicles 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Asher, | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| felt shame, | <big><span class="asgreek">ενετράπησαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Asher, | **<big>[[G0768\|Ασήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| felt shame, | **<big>[[G1788\|ενετράπησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Chr.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.10|<< 2 Chronicles 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.12|2 Chronicles 30:12 >>]]</td></tr></table>
 
 

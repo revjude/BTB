@@ -7,19 +7,19 @@ I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.
 I said, “O LORD, be gracious to me; heal me, for I have sinned against You.”<small><sub>**MT:**</sub></small>
 [[Ps.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.3|<< Psalm 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.5|Psalm 41:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| show mercy | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| on me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Heal | <big><span class="asgreek">ίασαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul! | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I sinned | <big><span class="asgreek">ήμαρτόν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| said, | **<big>[[G2036\|είπα]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| show mercy | **<big>[[G1653\|ελέησόν]]</big>** |
+| on me! | **<big>[[G1473\|με]]</big>** |
+| Heal | **<big>[[G2390\|ίασαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul! | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I sinned | **<big>[[G0264\|ήμαρτόν]]</big>** |
+| against you. | **<big>[[G1473\|σοι]]</big>** |
 [[Ps.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.3|<< Psalm 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.5|Psalm 41:5 >>]]</td></tr></table>
 
 

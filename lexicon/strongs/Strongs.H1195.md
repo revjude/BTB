@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעֲנָא‎</span></big> **Baʻănâʼ** <small>*(bah-an-aw')*</small> ==**Baana**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בַּעֲנָה‎</span><sup><small>[[H1196]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּעֲנָא‎</span></big>** **Baʻănâʼ** <small>*(bah-an-aw')*</small> ==**Baana**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1196|‎בַּעֲנָה‎]]</big>**</small>
 
 $\quad$ Baana, Baanah.
 - § Baana or Baanah = *"in the affliction"*

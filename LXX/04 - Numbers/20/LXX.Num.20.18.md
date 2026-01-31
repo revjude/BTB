@@ -10,24 +10,24 @@ And Edom said unto him, Thou shalt not pass by me, lest I come out against thee 
 But Edom answered, “You may not travel through our land, or we will come out and confront you with the sword.”<small><sub>**MT:**</sub></small>
 [[Num.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.17|<< Numbers 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.19|Numbers 20:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go | <big><span class="asgreek">διελεύση</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| mine, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and if otherwise, | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| war | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| I shall come forth | <big><span class="asgreek">εξελεύσομαι</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συνάντησίν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| go | **<big>[[G1330\|διελεύση]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| mine, | **<big>[[G1473\|εμού]]</big>** |
+| and if otherwise, | **<big>[[G1490\|ει δε μη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| war | **<big>[[G4171\|πολέμω]]</big>** |
+| I shall come forth | **<big>[[G1831\|εξελεύσομαι]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet with | **<big>[[G4877\|συνάντησίν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Num.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.17|<< Numbers 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.19|Numbers 20:19 >>]]</td></tr></table>
 
 

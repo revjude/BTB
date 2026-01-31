@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵרֶךְ‎</span></big> **ʻêrek** <small>*(eh'rek)*</small> ==**valuation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָרַךְ‎</span><sup><small>[[H6186]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵרֶךְ‎</span></big>** **ʻêrek** <small>*(eh'rek)*</small> ==**valuation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6186|‎עָרַךְ‎]]</big>**</small>
 
 $\quad$ equal, estimation, (things that are set in) order, price, proportion, [idiom] set at, suit, taxation, [idiom] valuest.
 - ***a pile***, ***equipment***, ***estimate***
@@ -8,4 +8,4 @@ $\quad$ equal, estimation, (things that are set in) order, price, proportion, [i
 $\quad$ **1a)** order, row
 $\quad$ **1b)** estimate, valuation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζεῦγος</span><sup><small>[[G2201]]</small></sup> · <span class="asgreek">ἰσόψυχος</span><sup><small>[[G2473]]</small></sup> · <span class="asgreek">μακροθυμία</span><sup><small>[[G3115]]</small></sup> · <span class="asgreek">πρόθεσις</span><sup><small>[[G4286]]</small></sup> · <span class="asgreek">στολή</span><sup><small>[[G4749]]</small></sup> · <span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup>
+<small>See Greek: </small>**<big>[[G2201|ζεῦγος]]</big>** · **<big>[[G2473|ἰσόψυχος]]</big>** · **<big>[[G3115|μακροθυμία]]</big>** · **<big>[[G4286|πρόθεσις]]</big>** · **<big>[[G4749|στολή]]</big>** · **<big>[[G5092|τιμή]]</big>**

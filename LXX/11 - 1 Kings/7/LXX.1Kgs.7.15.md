@@ -7,39 +7,39 @@ For he cast two pillars of brass, of eighteen cubits high apiece: and a line of 
 He cast two pillars of bronze, each eighteen cubits high and twelve cubits in circumference.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.14|<< 1 Kings 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.16|1 Kings 7:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he cast in a furnace | <big><span class="asgreek">εχώνευσε</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house -- | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| eighteen | <big><span class="asgreek">οκτωκαίδεκα</span></big> <sup><small><small>[[G8478]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| column, | <big><span class="asgreek">στύλου</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perimeter | <big><span class="asgreek">περίμετρον</span></big> <sup><small><small>[[G8739]]</small></small></sup> |
-| \[had\] a two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| cord | <big><span class="asgreek">σπαρτίον</span></big> <sup><small><small>[[G9137]]</small></small></sup> |
-| encircling | <big><span class="asgreek">εκύκλου</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| column | <big><span class="asgreek">στύλος</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he cast in a furnace | **<big>[[G9779\|εχώνευσε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| columns | **<big>[[G4769\|στύλους]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house -- | **<big>[[G3624\|οίκου]]</big>** |
+| eighteen | **<big>[[G8478\|οκτωκαίδεκα]]</big>** |
+| cubits | **<big>[[G4083\|πήχεις]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| column, | **<big>[[G4769\|στύλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| perimeter | **<big>[[G8739\|περίμετρον]]</big>** |
+| \[had\] a two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| cord | **<big>[[G9137\|σπαρτίον]]</big>** |
+| encircling | **<big>[[G2944\|εκύκλου]]</big>** |
+| it. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| \[was\] the | **<big>[[G3588\|ο]]</big>** |
+| column | **<big>[[G4769\|στύλος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| second | **<big>[[G1208\|δεύτερος]]</big>** |
 [[1Kgs.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.14|<< 1 Kings 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.16|1 Kings 7:16 >>]]</td></tr></table>
 
 

@@ -6,12 +6,12 @@ Elishama, Eliada, and Eliphelet—nine in all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.7|<< 1 Chronicles 3:7]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.9|1 Chronicles 3:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Elishama  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִישָׁמָ֧ע </big></span><small><small><sup>[[H0476H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.sha.Ma' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eliada  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶלְיָדָ֛ע </big></span><small><small><sup>[[H0450G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el.ya.Da' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eliphelet  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִיפֶ֖לֶט </big></span><small><small><sup>[[H0467G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.Fe.let <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nine  | <span class="ashebrew"><big>תִּשְׁעָֽה </big></span><small><small><sup>[[H8672]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.'Ah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elishama  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0476H\|אֱלִישָׁמָ֧ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.sha.Ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eliada  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0450G\|אֶלְיָדָ֛ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eliphelet  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0467G\|אֱלִיפֶ֖לֶט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Fe.let<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nine  |**<big>&#8207;[[H8672\|תִּשְׁעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.7|<< 1 Chronicles 3:7]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.9|1 Chronicles 3:9 >>]]</td></tr></table>
 
 

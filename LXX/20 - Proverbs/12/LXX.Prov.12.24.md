@@ -7,16 +7,16 @@ The hand of the diligent shall bear rule: but the slothful shall be under tribut
 The hand of the diligent will rule, but laziness ends in forced labor.<small><sub>**MT:**</sub></small>
 [[Prov.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.23|<< Proverbs 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.25|Proverbs 12:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of chosen men | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| shall prevail | <big><span class="asgreek">κρατήσει</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| easily; | <big><span class="asgreek">ευχερώς</span></big> <sup><small><small>[[G7573]]</small></small></sup> |
-| but \[the\] deceitful | <big><span class="asgreek">δόλιοι</span></big> <sup><small><small>[[G1386]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder. | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
+| \[The\] hand | **<big>[[G5495\|χειρ]]</big>** |
+| of chosen men | **<big>[[G1588\|εκλεκτών]]</big>** |
+| shall prevail | **<big>[[G2902\|κρατήσει]]</big>** |
+| easily; | **<big>[[G7573\|ευχερώς]]</big>** |
+| but \[the\] deceitful | **<big>[[G1386\|δόλιοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder. | **<big>[[G8903\|προνομήν]]</big>** |
 [[Prov.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.23|<< Proverbs 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.25|Proverbs 12:25 >>]]</td></tr></table>
 
 

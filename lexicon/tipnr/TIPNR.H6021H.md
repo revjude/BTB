@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Amasa</span>, along with other leaders of Ephraim, opposed the Israelite army's attempt to bring Judahite captives as slaves to Samaria. \([[2Chr.28.12|2Ch.28.12]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.28.12|2Ch.28.12]]; 
-- only referred to as Amasa<[[H6021H]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>\); 
-- a son of Hadlai<[[H2311]]>.
+- only referred to as Amasa **<big>[[H6021|עֲמָשָׂא]]</big>**; 
+- a son of Hadlai **<big>[[H2311|חַדְלַי]]</big>**.
 
 Amasa is mentioned in the context of the conflict between the kingdoms of Israel and Judah during the reign of King Ahaz of Judah. Ahaz's unfaithfulness to God led to Judah's defeat by Israel and their allies, resulting in the capture of many Judahites. \(2Ch.28.5-8\) 
 
@@ -19,7 +19,7 @@ This act of compassion and solidarity demonstrated by Amasa and the other Ephrai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amasa | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>](H6021H) <small>*Hebrew*</small> | 1x | [2Ch.28.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amasa\*\|reference=2Ch.28.12) |
-All Strong's for **Amasa**: \[[[H6021H]]\]
+| Amasa | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>](H6021H) | 1x | [2Ch.28.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amasa\*\|reference=2Ch.28.12) |
+All entries for **Amasa**:  **<big>[[H6021|עֲמָשָׂא]]</big>**
 #### Related Profiles:
 - **[Hadlai](H2311)** (father)

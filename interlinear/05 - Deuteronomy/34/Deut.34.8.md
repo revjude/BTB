@@ -6,22 +6,22 @@ The Israelites grieved for Moses in the plains of Moab thirty days, until the ti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they wept for  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּבְכּוּ֩ </big></span><small><small><sup>[[H1058]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yiv.Ku <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְנֵ֨י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֧ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֛ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] desert plains of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַֽרְבֹ֥ת </big></span><small><small><sup>[[H6160I]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ar.Vot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֖ב </big></span><small><small><sup>[[H4124I]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day[s]  | <span class="ashebrew"><big>י֑וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they were completed  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְּמ֔וּ </big></span><small><small><sup>[[H8552]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.te.Mu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֥י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] weeping of  | <span class="ashebrew"><big>בְכִ֖י </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| ve.Khi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mourning of  | <span class="ashebrew"><big>אֵ֥בֶל </big></span><small><small><sup>[[H0060]]</sup></small></small> &#8207;| 'E.vel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶֽׁה </big></span><small><small><sup>[[H4872]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they wept for  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|יִּבְכּוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְנֵ֨י]]&#8207; </big>**| ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֧ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֛ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] desert plains of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6160I\|עַֽרְבֹ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.Vot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124I\|מוֹאָ֖ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֣ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day[s]  |**<big>&#8207;[[H3117G\|י֑וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were completed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8552\|יִּתְּמ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֥י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] weeping of  |**<big>&#8207;[[H1065\|בְכִ֖י]]&#8207; </big>**| ve.Khi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mourning of  |**<big>&#8207;[[H0060\|אֵ֥בֶל]]&#8207; </big>**| 'E.vel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
 

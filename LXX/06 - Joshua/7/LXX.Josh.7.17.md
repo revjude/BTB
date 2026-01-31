@@ -7,22 +7,22 @@ And he brought the family of Judah; and he took the family of the Zarhites: and 
 He had the clans of Judah come forward, and the clan of the Zerahites was selected. He had the clan of the Zerahites come forward, and the family of Zabdi was selected.<small><sub>**MT:**</sub></small>
 [[Josh.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.16|<< Joshua 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.18|Joshua 7:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were made manifest | <big><span class="asgreek">ανεδείχθη</span></big> <sup><small><small>[[G0322]]</small></small></sup> |
-| people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zarhite | <big><span class="asgreek">Ζαραϊ</span></big> <sup><small><small>[[H2228]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led forward | <big><span class="asgreek">προσήχθη</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zarhite | <big><span class="asgreek">Ζαραϊ</span></big> <sup><small><small>[[H2228]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zabdi was made manifest. | <big><span class="asgreek">ανεδείχθη</span></big> <sup><small><small>[[G0322]]</small></small></sup> <big><span class="asgreek">Ζαβδί</span></big> <sup><small><small>[[H2067]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were made manifest | **<big>[[G0322\|ανεδείχθη]]</big>** |
+| people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Zarhite | **<big>[[H2228\|Ζαραϊ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led forward | **<big>[[G4317\|προσήχθη]]</big>** |
+| people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Zarhite | **<big>[[H2228\|Ζαραϊ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| man, | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zabdi was made manifest. | **<big>[[G0322\|ανεδείχθη]]</big>** **<big>[[H2067\|Ζαβδί]]</big>** |
 [[Josh.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.16|<< Joshua 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.18|Joshua 7:18 >>]]</td></tr></table>
 
 

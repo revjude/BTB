@@ -6,19 +6,19 @@ So the angel of the LORD answered Manoah, “Your wife is to do everything I tol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.12|<< Judges 13:12]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.14|Judges 13:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֛אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] angel of  | <span class="ashebrew"><big>מַלְאַ֥ךְ </big></span><small><small><sup>[[H4397H]]</sup></small></small> &#8207;| mal.'Akh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Manoah  | <span class="ashebrew"><big>מָנ֑וֹחַ </big></span><small><small><sup>[[H4495]]</sup></small></small> &#8207;| ma.No.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֹּ֛ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I said  | <span class="ashebrew"><big>אָמַ֥רְתִּי </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the woman  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אִשָּׁ֖ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will take care  | <span class="ashebrew"><big>תִּשָּׁמֵֽר </big></span><small><small><sup>[[H8104J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.sha.Mer <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֛אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֥ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manoah  |**<big>&#8207;[[H4495\|מָנ֑וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּ֛ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  |**<big>&#8207;[[H0559\|אָמַ֥רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will take care  |**<big>&#8207;[[H8104J\|תִּשָּׁמֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ti.sha.Mer<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.12|<< Judges 13:12]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.14|Judges 13:14 >>]]</td></tr></table>
 
 

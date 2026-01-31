@@ -7,18 +7,18 @@ And afterward I will bring again the captivity of the children of Ammon, saith t
 Yet afterward I will restore the Ammonites from captivity,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.49.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.5|<< Jeremiah 49:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.7|Jeremiah 49:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will return | <big><span class="asgreek">επιστρέψω</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| I will return | **<big>[[G1994\|επιστρέψω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.49.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.5|<< Jeremiah 49:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.7|Jeremiah 49:7 >>]]</td></tr></table>
 
 

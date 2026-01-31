@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָלַם‎</span></big> **ʻâlam** <small>*(aw-lam')*</small> ==**to conceal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָלַם‎</span></big>** **ʻâlam** <small>*(aw-lam')*</small> ==**to conceal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] any ways, blind, dissembler, hide (self), secret (thing).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b2)** concealed, dissembler (participle)
 $\quad$ **1c)** (Hiphil) to conceal, hide
 $\quad$ **1d)** (Hithpael) to hide oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄλαλος</span><sup><small>[[G0216]]</small></sup> · <span class="asgreek">ἀποκρύπτω</span><sup><small>[[G0613]]</small></sup> · <span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">ἄφωνος</span><sup><small>[[G0880]]</small></sup> · <span class="asgreek">ἐπιπίπτω</span><sup><small>[[G1968]]</small></sup> · <span class="asgreek">κατανύσσω</span><sup><small>[[G2660]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">λανθάνω</span><sup><small>[[G2990]]</small></sup> · <span class="asgreek">παρακαλύπτω</span><sup><small>[[G3871]]</small></sup> · <span class="asgreek">παρανομέω</span><sup><small>[[G3891]]</small></sup> · <span class="asgreek">παρέρχομαι</span><sup><small>[[G3928]]</small></sup> · <span class="asgreek">σιωπάω</span><sup><small>[[G4623]]</small></sup> · <span class="asgreek">συνέχω</span><sup><small>[[G4912]]</small></sup> · <span class="asgreek">ὑπερείδω</span><sup><small>[[G5237]]</small></sup>
+<small>See Greek: </small>**<big>[[G0216|ἄλαλος]]</big>** · **<big>[[G0613|ἀποκρύπτω]]</big>** · **<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G0880|ἄφωνος]]</big>** · **<big>[[G1968|ἐπιπίπτω]]</big>** · **<big>[[G2660|κατανύσσω]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G2990|λανθάνω]]</big>** · **<big>[[G3871|παρακαλύπτω]]</big>** · **<big>[[G3891|παρανομέω]]</big>** · **<big>[[G3928|παρέρχομαι]]</big>** · **<big>[[G4623|σιωπάω]]</big>** · **<big>[[G4912|συνέχω]]</big>** · **<big>[[G5237|ὑπερείδω]]</big>**

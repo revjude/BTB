@@ -6,18 +6,18 @@ Reuben, you are my firstborn, my might, and the beginning of my strength, excell
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.2|<< Genesis 49:2]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.4|Genesis 49:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O Reuben  | <span class="ashebrew"><big>רְאוּבֵן֙ </big></span><small><small><sup>[[H7205]]</sup></small></small> &#8207;| re.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] firstborn my  | <span class="ashebrew"><big>בְּכֹ֣רִ </big></span><small><small><sup>[[H1060]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| be.Kho.r <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֔תָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength my  | <span class="ashebrew"><big>כֹּחִ֖ </big></span><small><small><sup>[[H3581B]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ko.Ch <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] beginning of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֵאשִׁ֣ית </big></span><small><small><sup>[[H7225G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> re.Shit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| manly vigor my  | <span class="ashebrew"><big>אוֹנִ֑ </big></span><small><small><sup>[[H0202]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'o.N <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| excellence of  | <span class="ashebrew"><big>יֶ֥תֶר </big></span><small><small><sup>[[H3499A]]</sup></small></small> &#8207;| Ye.ter <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dignity  | <span class="ashebrew"><big>שְׂאֵ֖ת </big></span><small><small><sup>[[H7613]]</sup></small></small> &#8207;| se.'Et <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and excellence of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֶ֥תֶר </big></span><small><small><sup>[[H3499A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ye.ter <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| power  | <span class="ashebrew"><big>עָֽז </big></span><small><small><sup>[[H5794]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Az <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵן֙]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] firstborn my  |**<big>&#8207;[[H1060\|בְּכֹ֣רִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.Kho.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַ֔תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength my  |**<big>&#8207;[[H3581B\|כֹּחִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ko.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] beginning of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7225G\|רֵאשִׁ֣ית]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| manly vigor my  |**<big>&#8207;[[H0202\|אוֹנִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| excellence of  |**<big>&#8207;[[H3499A\|יֶ֥תֶר]]&#8207; </big>**| Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dignity  |**<big>&#8207;[[H7613\|שְׂאֵ֖ת]]&#8207; </big>**| se.'Et<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and excellence of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֥תֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| power  |**<big>&#8207;[[H5794\|עָֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Az<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.2|<< Genesis 49:2]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.4|Genesis 49:4 >>]]</td></tr></table>
 
 

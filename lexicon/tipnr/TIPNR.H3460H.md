@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ishmaiah</span> son of Obadiah was the leader of the tribe of Zebulun during King David's reign \([[1Chr.27.19|1Ch.27.19]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.27.19|1Ch.27.19]]; 
-- only referred to as Ishmaiah<[[H3460H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Obadiah<[[H5662M]]>.
+- only referred to as Ishmaiah **<big>[[H3460|יִשְׁמַעְיָה]]</big>**; 
+- a son of Obadiah **<big>[[H5662|עֹבַדְיָה]]</big>**.
 
 Ishmaiah son of Obadiah is mentioned in [[1Chr.27.19|1 Chronicles 27:19]] as the leader of the tribe of Zebulun during King David's reign. The passage lists the leaders of each tribe who were responsible for overseeing their respective tribes' affairs and resources. 
 
@@ -15,7 +15,7 @@ The text does not provide any additional information about Ishmaiah's background
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishmaiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3460H) <small>*Hebrew*</small> | 1x | [1Ch.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmaiah\*\|reference=1Ch.27.19) |
-All Strong's for **Ishmaiah**: \[[[H3460H]]\]
+| Ishmaiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3460H) | 1x | [1Ch.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmaiah\*\|reference=1Ch.27.19) |
+All entries for **Ishmaiah**:  **<big>[[H3460|יִשְׁמַעְיָה]]</big>**
 #### Related Profiles:
 - **[Obadiah](H5662M)** (father)

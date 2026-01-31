@@ -6,21 +6,21 @@ Because of the cluster of grapes the Israelites cut there, that place was called
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> the place  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּק֣וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> that  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone called  | <span class="ashebrew"><big>קָרָ֖א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| ka.Ra' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wadi of  | <span class="ashebrew"><big>נַ֣חַל </big></span><small><small><sup>[[H5158H]]</sup></small></small> &#8207;| Na.chal <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eshcol  | <span class="ashebrew"><big>אֶשְׁכּ֑וֹל </big></span><small><small><sup>[[H0812H]]</sup></small></small> &#8207;| 'esh.Kol <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַ֚ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] causes of  | <span class="ashebrew"><big>אֹד֣וֹת </big></span><small><small><sup>[[H0182]]</sup></small></small> &#8207;| 'o.Dot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the cluster  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶשְׁכּ֔וֹל </big></span><small><small><sup>[[H0811]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'esh.Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they cut down  | <span class="ashebrew"><big>כָּרְת֥וּ </big></span><small><small><sup>[[H3772G]]</sup></small></small> &#8207;| ka.re.Tu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from there  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שָּׁ֖ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the place  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4725\|מָּק֣וֹם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone called  |**<big>&#8207;[[H7121H\|קָרָ֖א]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi of  |**<big>&#8207;[[H5158H\|נַ֣חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eshcol  |**<big>&#8207;[[H0812H\|אֶשְׁכּ֑וֹל]]&#8207; </big>**| 'esh.Kol<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] causes of  |**<big>&#8207;[[H0182\|אֹד֣וֹת]]&#8207; </big>**| 'o.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cluster  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0811\|אֶשְׁכּ֔וֹל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'esh.Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cut down  |**<big>&#8207;[[H3772G\|כָּרְת֥וּ]]&#8207; </big>**| ka.re.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֖ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
 

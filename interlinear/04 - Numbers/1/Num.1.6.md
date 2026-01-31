@@ -6,12 +6,12 @@ from Simeon, Shelumiel son of Zurishaddai;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.5|<< Numbers 1:5]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.7|Numbers 1:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for Simeon  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שִׁמְע֕וֹן </big></span><small><small><sup>[[H8095G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> shim.'on <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shelumiel  | <span class="ashebrew"><big>שְׁלֻמִיאֵ֖ל </big></span><small><small><sup>[[H8017]]</sup></small></small> &#8207;| she.lu.mi.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zurishaddai  | <span class="ashebrew"><big>צוּרִֽישַׁדָּֽי </big></span><small><small><sup>[[H6701]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzu.Ri.sha.Dai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Simeon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8095G\|שִׁמְע֕וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shelumiel  |**<big>&#8207;[[H8017\|שְׁלֻמִיאֵ֖ל]]&#8207; </big>**| she.lu.mi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zurishaddai  |**<big>&#8207;[[H6701\|צוּרִֽישַׁדָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzu.Ri.sha.Dai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.5|<< Numbers 1:5]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.7|Numbers 1:7 >>]]</td></tr></table>
 
 

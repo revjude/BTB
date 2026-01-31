@@ -7,44 +7,44 @@ And Shaphan the scribe came to the king, and brought the king word again, and sa
 And Shaphan the scribe went to the king and reported, “Your servants have paid out the money that was found in the temple and have put it into the hands of the workers and supervisors of the house of the LORD.”<small><sub>**MT:**</sub></small>
 [[2Kgs.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.8|<< 2 Kings 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.10|2 Kings 22:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shapan entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Σαφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Josiah. | <big><span class="asgreek">Ιωσίας</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he turned | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for a word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| cast | <big><span class="asgreek">εχώνευσαν</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your servants | <big><span class="asgreek">δούλοί</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| being | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| found | <big><span class="asgreek">ευρεθέν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντων</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being ordained | <big><span class="asgreek">καθεσταμένων</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shapan entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[H8227b\|Σαφάν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| Josiah. | **<big>[[G2502\|Ιωσίας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he turned | **<big>[[G1994\|επέστρεψε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| for a word, | **<big>[[G3056\|λόγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| cast | **<big>[[G9779\|εχώνευσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your servants | **<big>[[G1401\|δούλοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| being | **<big>[[G3588\|το]]</big>** |
+| found | **<big>[[G2147\|ευρεθέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they put | **<big>[[G1325\|έδωκαν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| doing | **<big>[[G4160\|ποιούντων]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| being ordained | **<big>[[G2525\|καθεσταμένων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.8|<< 2 Kings 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.10|2 Kings 22:10 >>]]</td></tr></table>
 
 

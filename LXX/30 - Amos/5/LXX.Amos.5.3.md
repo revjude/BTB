@@ -7,32 +7,32 @@ For thus saith the Lord GOD; The city that went out [by] a thousand shall leave 
 This is what the Lord GOD says: “The city that marches out a thousand strong will have but a hundred left, and the one that marches out a hundred strong will have but ten left in the house of Israel.”<small><sub>**MT:**</sub></small>
 [[Amos.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.2|<< Amos 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.4|Amos 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| from out | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| went | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| a thousand, | <big><span class="asgreek">χίλιοι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| shall be left with | <big><span class="asgreek">υπολειφθήσονται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| a hundred; | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| a hundred, | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| shall be left | <big><span class="asgreek">υπολειφθήσονται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| from out | **<big>[[G1537\|εξ]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| went | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| a thousand, | **<big>[[G5507\|χίλιοι]]</big>** |
+| shall be left with | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
+| a hundred; | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out | **<big>[[G1537\|εξ]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| went forth | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| a hundred, | **<big>[[G1540\|εκατόν]]</big>** |
+| shall be left | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Amos.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.2|<< Amos 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.4|Amos 5:4 >>]]</td></tr></table>
 
 

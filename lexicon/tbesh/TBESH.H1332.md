@@ -1,5 +1,3 @@
-<span class="ashebrew">‎בִּתְיָה‎</span> <small>***(bit.yah)***</small> ==**Bithiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the Egyptians living at the time of Divided Monarchy, only mentioned at [[1Chr.4.18|1Ch.4.18]]
--  daughter of: Pharaoh ([[H6547M]]); married to Mered ([[H4778]])(?)
--  mother of: Miriam ([[H4813H]]), Shammai ([[H8060I]]) and Ishbah ([[H3431]])
-
+-  daughter of: Pharaoh (**<big>[[H6547M|פַּרְעֹה]]</big>**); married to Mered (**<big>[[H4778|מֶרֶד]]</big>**)
+-  mother of: Miriam (**<big>[[H4813H|מִרְיָם]]</big>**), Shammai (**<big>[[H8060I|שַׁמַּי]]</big>**) and Ishbah (**<big>[[H3431|יִשְׁבַּח]]</big>**)

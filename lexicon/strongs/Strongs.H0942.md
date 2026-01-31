@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בַּוַּי‎</span></big> **Bavvay** <small>*(bav-vah'ee)*</small> ==**Bavvai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בַּוַּי‎</span></big>** **Bavvay** <small>*(bav-vah'ee)*</small> ==**Bavvai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of Persian origin</small>
 
 $\quad$ Bavai.

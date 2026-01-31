@@ -6,20 +6,20 @@ and he burned with anger against Job’s three friends because they had failed t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.4|Job 32:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and on [the] three  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹ֣שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi <small><sup>[[HR]]</sup></small> sh.Lo.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| companions his  | <span class="ashebrew"><big>רֵעָי </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>ו֮ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| re.'A <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it burned  | <span class="ashebrew"><big>חָרָ֪ה </big></span><small><small><sup>[[H2734]]</sup></small></small> &#8207;| cha.Rah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger his  | <span class="ashebrew"><big>אַ֫פּ֥ </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.P <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַ֤ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had found  | <span class="ashebrew"><big>מָצְא֣וּ </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ma.tze.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an answer  | <span class="ashebrew"><big>מַעֲנֶ֑ה </big></span><small><small><sup>[[H4617]]</sup></small></small> &#8207;| ma.'a.Neh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they had condemned as guilty  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּרְשִׁ֗יעוּ </big></span><small><small><sup>[[H7561]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yar.Shi.'u <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Job  | <span class="ashebrew"><big>אִיּֽוֹב </big></span><small><small><sup>[[H0347]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'i.Yov <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on [the] three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H7969\|שְׁלֹ֣שֶׁת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| companions his  |**<big>&#8207;[[H7453\|רֵעָי]]&#8207;&#8207;[[H9023\|ו֮]]&#8207; </big>**| re.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it burned  |**<big>&#8207;[[H2734\|חָרָ֪ה]]&#8207; </big>**| cha.Rah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger his  |**<big>&#8207;[[H0639G\|אַ֫פּ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had found  |**<big>&#8207;[[H4672\|מָצְא֣וּ]]&#8207; </big>**| ma.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an answer  |**<big>&#8207;[[H4617\|מַעֲנֶ֑ה]]&#8207; </big>**| ma.'a.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they had condemned as guilty  |**<big>&#8207;[[H9001\|וַ֝]]&#8207;&#8207;[[H7561\|יַּרְשִׁ֗יעוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.Shi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Job  |**<big>&#8207;[[H0347\|אִיּֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.4|Job 32:4 >>]]</td></tr></table>
 
 

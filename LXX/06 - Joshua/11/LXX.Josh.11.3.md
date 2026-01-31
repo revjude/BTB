@@ -7,39 +7,39 @@ and to the ones on the coast -- \[the\] Canaanites from \[the\] east, and to the
 to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah.<small><sub>**MT:**</sub></small>
 [[Josh.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.2|<< Joshua 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.4|Joshua 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones on the coast -- | <big><span class="asgreek">παραλίους</span></big> <sup><small><small>[[G3882]]</small></small></sup> |
-| \[the\] Canaanites | <big><span class="asgreek">Χαναναίους</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones on the coast -- | <big><span class="asgreek">παραλίους</span></big> <sup><small><small>[[G3882]]</small></small></sup> |
-| \[the\] Amorites, | <big><span class="asgreek">Αμορραίους</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hittites, | <big><span class="asgreek">Χετταίους</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Perizzites, | <big><span class="asgreek">Φερεζαίους</span></big> <sup><small><small>[[H6522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jebusites, | <big><span class="asgreek">Ιεβουσαίους</span></big> <sup><small><small>[[H2983]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hivites | <big><span class="asgreek">Ευαίους</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| Hermon | <big><span class="asgreek">Αερμών</span></big> <sup><small><small>[[H2768]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Mizpeh. | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones on the coast -- | **<big>[[G3882\|παραλίους]]</big>** |
+| \[the\] Canaanites | **<big>[[G5477\|Χαναναίους]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones on the coast -- | **<big>[[G3882\|παραλίους]]</big>** |
+| \[the\] Amorites, | **<big>[[H0567\|Αμορραίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Hittites, | **<big>[[H2850\|Χετταίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Perizzites, | **<big>[[H6522\|Φερεζαίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jebusites, | **<big>[[H2983\|Ιεβουσαίους]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain, | **<big>[[G3735\|όρει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Hivites | **<big>[[H2340\|Ευαίους]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| Hermon | **<big>[[H2768\|Αερμών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Mizpeh. | **<big>[[H4709\|Μασσηφά]]</big>** |
 [[Josh.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.2|<< Joshua 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.4|Joshua 11:4 >>]]</td></tr></table>
 
 

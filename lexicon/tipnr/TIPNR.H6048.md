@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Anammelech</span> was an Assyrian deity worshiped by the Sepharvites, who were among the foreign peoples settled in Samaria by the Assyrian king.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Kgs.17.31|2Ki.17.31]]; 
-- only referred to as Anammelech<[[H6048]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- only referred to as Anammelech **<big>[[H6048|עֲנַמֶּלֶךְ]]</big>**.
 
 Anammelech was an Assyrian deity mentioned in the Bible as one of the gods worshiped by the Sepharvites. The Sepharvites were a people group from the Assyrian Empire who were brought to Samaria by the Assyrian king after the deportation of the Israelites. They settled in the cities of Samaria and continued to worship their own gods, including Anammelech. 
 
@@ -14,5 +14,5 @@ The name "Anammelech" is believed to mean "Anu is king" or "Anu is prince," refe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anammelech (NIV= Anammelek) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H6048) <small>*Hebrew*</small> | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anammelech\*\|reference=2Ki.17.31) |
-All Strong's for **Anammelech**: \[[[H6048]]\]
+| Anammelech (NIV= Anammelek) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H6048) | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anammelech\*\|reference=2Ki.17.31) |
+All entries for **Anammelech**:  **<big>[[H6048|עֲנַמֶּלֶךְ]]</big>**

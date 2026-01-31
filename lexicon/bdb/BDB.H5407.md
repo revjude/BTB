@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H5406]]</small>
+<small>Hebrew form: **<big>[[H5406|נִשְׁתְּוָן]]</big>**</small>
  [<span class="bdbLangAramaic">‎נִשְׁתְּרָן‎</span>] **noun masculine**<sup>[[Ezra.4.18|Ezra 4:18]]</sup> ==letter== (probably Persian; see Biblical Hebrew); — emphatic <span class="bdbLangAramaic">‎נִשְׁתְוָנָא‎</span> [[Ezra.4.18|Ezra 4:18]]; [[Ezra.4.23|Ezra 4:23]]; [[Ezra.5.5|Ezra 5:5]]. 
 
 **Brown-Driver-Briggs References**

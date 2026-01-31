@@ -7,19 +7,19 @@ She layeth her hands to the spindle, and her hands hold the distaff.
 She stretches out her hands to the distaff and grasps the spindle with her fingers.<small><sub>**MT:**</sub></small>
 [[Prov.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.18|<< Proverbs 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.20|Proverbs 31:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| She stretches out | <big><span class="asgreek">εκτείνει</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being advantageous; | <big><span class="asgreek">συμφέροντα</span></big> <sup><small><small>[[G4851]]</small></small></sup> |
-| and the \[things\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of her hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she sticks | <big><span class="asgreek">ερείδει</span></big> <sup><small><small>[[G2043]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] spindle. | <big><span class="asgreek">άτρακτον</span></big> <sup><small><small>[[G6591]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her cubits | **<big>[[G4083\|πήχεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| She stretches out | **<big>[[G1614\|εκτείνει]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being advantageous; | **<big>[[G4851\|συμφέροντα]]</big>** |
+| and the \[things\]\<obj.> | **<big>[[G3588\|τας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of her hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she sticks | **<big>[[G2043\|ερείδει]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] spindle. | **<big>[[G6591\|άτρακτον]]</big>** |
 [[Prov.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.18|<< Proverbs 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.20|Proverbs 31:20 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָטַף‎</span></big> **qâṭaph** <small>*(kaw-taf')*</small> ==**to pluck**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָטַף‎</span></big>** **qâṭaph** <small>*(kaw-taf')*</small> ==**to pluck**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ crop off, cut down (up), pluck.
@@ -8,4 +8,4 @@ $\quad$ crop off, cut down (up), pluck.
 $\quad$ **1a)** (Qal) to pluck off
 $\quad$ **1b)** (Niphal) to be plucked off
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θερίζω</span><sup><small>[[G2325]]</small></sup> · <span class="asgreek">παῤῥησία</span><sup><small>[[G3954]]</small></sup> · <span class="asgreek">συλλέγω</span><sup><small>[[G4816]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup>
+<small>See Greek: </small>**<big>[[G2325|θερίζω]]</big>** · **<big>[[G3954|παῤῥησία]]</big>** · **<big>[[G4816|συλλέγω]]</big>** · **<big>[[G4863|συνάγω]]</big>**

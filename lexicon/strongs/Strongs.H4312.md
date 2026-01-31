@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵידָד‎</span></big> **Mêydâd** <small>*(may-dawd')*</small> ==**Medad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַד‎</span><sup><small>[[H3032]]</small></sup> in the sense of loving; affectionate</small>
+**<big><span class="ashebrew">‎מֵידָד‎</span></big>** **Mêydâd** <small>*(may-dawd')*</small> ==**Medad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3032|‎יָדַד‎]]</big>** in the sense of loving; affectionate</small>
 
 $\quad$ Medad.
 - § Medad = *"love"*

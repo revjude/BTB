@@ -7,49 +7,49 @@ If ye will not hear, and if ye will not lay [it] to heart, to give glory unto my
 If you do not listen, and if you do not take it to heart to honor My name,” says the LORD of Hosts, “I will send a curse among you, and I will curse your blessings. Yes, I have already begun to curse them, because you are not taking it to heart.<small><sub>**MT:**</sub></small>
 [[Mal.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.1|<< Malachi 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.3|Malachi 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken, | <big><span class="asgreek">ακούσητε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| put it | <big><span class="asgreek">θήσθε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name, | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send | <big><span class="asgreek">εξαποστελώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curse, | <big><span class="asgreek">κατάραν</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will accurse | <big><span class="asgreek">επικαταράσομαι</span></big> <sup><small><small>[[G7414]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your blessing -- | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will curse | <big><span class="asgreek">καταράσομαι</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put \[it\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">τίθεσθε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]][[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| hearken, | **<big>[[G0191\|ακούσητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| put it | **<big>[[G5087\|θήσθε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my name, | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will send | **<big>[[G1821\|εξαποστελώ]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| curse, | **<big>[[G2671\|κατάραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will accurse | **<big>[[G7414\|επικαταράσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your blessing -- | **<big>[[G2129\|ευλογίαν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| I will curse | **<big>[[G2672\|καταράσομαι]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| put \[it\] not | **<big>[[G3756\|ου]]</big>** **<big>[[G5087\|τίθεσθε]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart. | **<big>[[G2588\|καρδίαν]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
 [[Mal.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.1|<< Malachi 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.3|Malachi 2:3 >>]]</td></tr></table>
 
 

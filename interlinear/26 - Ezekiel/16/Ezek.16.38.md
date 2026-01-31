@@ -10,17 +10,17 @@ And I will sentence you to the punishment of women who commit adultery and those
 > $\quad$ referenced by: [[Rev.16.6|Rev 16:6]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I will judge you  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שְׁפַטְתִּי </big></span><small><small><sup>[[H8199]]</sup></small></small> <span class="ashebrew"><big>ךְ֙ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> she.fa.ti <small><sup>[[HVqq1cs]]</sup></small> Kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgments of  | <span class="ashebrew"><big>מִשְׁפְּטֵ֣י </big></span><small><small><sup>[[H4941G]]</sup></small></small> &#8207;| mish.pe.Tei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| adulteresses  | <span class="ashebrew"><big>נֹאֲפ֔וֹת </big></span><small><small><sup>[[H5003]]</sup></small></small> &#8207;| no.'a.Fot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [women who] shed  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁפְכֹ֖ת </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.fe.Khot <small><sup>[[HVqrfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood  | <span class="ashebrew"><big>דָּ֑ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will put on you  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נְתַתִּ֕י </big></span><small><small><sup>[[H5414G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> ne.ta.Ti <small><sup>[[HVqq1cs]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood of  | <span class="ashebrew"><big>דַּ֥ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| dam <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rage  | <span class="ashebrew"><big>חֵמָ֖ה </big></span><small><small><sup>[[H2534]]</sup></small></small> &#8207;| che.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and jealousy  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קִנְאָֽה </big></span><small><small><sup>[[H7068]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kin.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will judge you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8199\|שְׁפַטְתִּי]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.fa.ti<small><sup>[[HVqq1cs]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments of  |**<big>&#8207;[[H4941G\|מִשְׁפְּטֵ֣י]]&#8207; </big>**| mish.pe.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| adulteresses  |**<big>&#8207;[[H5003\|נֹאֲפ֔וֹת]]&#8207; </big>**| no.'a.Fot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [women who] shed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8210H\|שֹׁפְכֹ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.fe.Khot<small><sup>[[HVqrfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  |**<big>&#8207;[[H1818\|דָּ֑ם]]&#8207; </big>**| Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will put on you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתַתִּ֕י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood of  |**<big>&#8207;[[H1818\|דַּ֥ם]]&#8207; </big>**| dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rage  |**<big>&#8207;[[H2534\|חֵמָ֖ה]]&#8207; </big>**| che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and jealousy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7068\|קִנְאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.37|<< Ezekiel 16:37]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.39|Ezekiel 16:39 >>]]</td></tr></table>
 
 

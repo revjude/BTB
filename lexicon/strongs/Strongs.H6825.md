@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְפוֹ‎</span></big> **Tsᵉphôw** <small>*(tsef-o')*</small> ==**Zepho**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">צְפִי</span> **Tsᵉphîy** <small>*(tsef-ee')*</small>; from <span class="ashebrew">‎צָפָה‎</span><sup><small>[[H6822]]</small></sup>; observant</small>
+**<big><span class="ashebrew">‎צְפוֹ‎</span></big>** **Tsᵉphôw** <small>*(tsef-o')*</small> ==**Zepho**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">צְפִי</span></big>** **Tsᵉphîy** <small>*(tsef-ee')*</small>; from **<big>[[H6822|‎צָפָה‎]]</big>**; observant</small>
 
 $\quad$ Zephi, Zepho.
 - § Zepho or Zephi = *"watch-tower"*

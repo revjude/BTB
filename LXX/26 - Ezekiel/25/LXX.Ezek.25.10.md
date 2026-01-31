@@ -7,28 +7,28 @@ Unto the men of the east with the Ammonites, and will give them in possession, t
 I will give it along with the Ammonites as a possession to the people of the East, so that the Ammonites will no longer be remembered among the nations.<small><sub>**MT:**</sub></small>
 [[Ezek.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.9|<< Ezekiel 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.11|Ezekiel 25:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kedem | <big><span class="asgreek">Κέδεμ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
-| in addition to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an inheritance, | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| there should not be | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a memory | <big><span class="asgreek">μνεία</span></big> <sup><small><small>[[G3417]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| Of the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Kedem | **<big>[[H6938\|Κέδεμ]]</big>** |
+| in addition to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an inheritance, | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| there should not be | **<big>[[G3361\|μη]]</big>** **<big>[[G1096\|γένηται]]</big>** |
+| a memory | **<big>[[G3417\|μνεία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations. | **<big>[[G1484\|έθνεσι]]</big>** |
 [[Ezek.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.9|<< Ezekiel 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.11|Ezekiel 25:11 >>]]</td></tr></table>
 
 

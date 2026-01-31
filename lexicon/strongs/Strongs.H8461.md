@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחְכְּמֹנִי‎</span></big> **Tachkᵉmônîy** <small>*(takh-kem-o-nee')*</small> ==**Tahchemonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>probably for <span class="ashebrew">‎חַכְמוֹנִי‎</span><sup><small>[[H2453]]</small></sup>; sagacious</small>
+**<big><span class="ashebrew">‎תַּחְכְּמֹנִי‎</span></big>** **Tachkᵉmônîy** <small>*(takh-kem-o-nee')*</small> ==**Tahchemonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>probably for **<big>[[H2453|‎חַכְמוֹנִי‎]]</big>**; sagacious</small>
 
 $\quad$ Tachmonite.
 - § Tachmonite = *"thou will make me wise"*

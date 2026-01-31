@@ -7,25 +7,25 @@ So now the LORD God of Israel hath dispossessed the Amorites from before his peo
 Now since the LORD, the God of Israel, has driven out the Amorites from before His people Israel, should you now possess it?<small><sub>**MT:**</sub></small>
 [[Judg.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| lifted away | <big><span class="asgreek">εξήρε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorite | <big><span class="asgreek">Αμορραίον</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of his people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall you inherit | <big><span class="asgreek">κληρονομήσεις</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| lifted away | **<big>[[G1808\|εξήρε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Amorite | **<big>[[H0567\|Αμορραίον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of his people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| shall you inherit | **<big>[[G2816\|κληρονομήσεις]]</big>** |
+| it? | **<big>[[G1473\|αυτόν]]</big>** |
 [[Judg.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
 
 

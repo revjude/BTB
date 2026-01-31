@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּלִי‎</span></big> **kᵉlîy** <small>*(kel-ee')*</small> ==**article/utensil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָה‎</span><sup><small>[[H3615]]</small></sup></small>
+**<big><span class="ashebrew">‎כְּלִי‎</span></big>** **kᵉlîy** <small>*(kel-ee')*</small> ==**article/utensil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3615|‎כָּלָה‎]]</big>**</small>
 
 $\quad$ armour(-bearer), artillery, bag, carriage, [phrase] furnish, furniture, instrument, jewel, that is made of, [idiom] one from another, that which pertaineth, pot, [phrase] psaltery, sack, stuff, thing, tool, vessel, ware, weapon, [phrase] whatsoever.
 - ***something prepared***, i.e. ***any apparatus*** (as an implement, utensil, dress, vessel or weapon)
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b5)** utensils, furniture
 $\quad$ **1c)** vessel, receptacle (general)
 $\quad$ **1d)** vessels (boats) of paper-reed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγγεῖον</span><sup><small>[[G0030]]</small></sup> · <span class="asgreek">ἀγγεῖον</span><sup><small>[[G0030]]</small></sup> · <span class="asgreek">ἄγγελος</span><sup><small>[[G0032]]</small></sup> · <span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">ἐπιστολή</span><sup><small>[[G1992]]</small></sup> · <span class="asgreek">ἔργον</span><sup><small>[[G2041]]</small></sup> · <span class="asgreek">κόσμος</span><sup><small>[[G2889]]</small></sup> · <span class="asgreek">ὅπλον</span><sup><small>[[G3696]]</small></sup> · <span class="asgreek">ποτήριον</span><sup><small>[[G4221]]</small></sup> · <span class="asgreek">σκεῦος</span><sup><small>[[G4632]]</small></sup>
+<small>See Greek: </small>**<big>[[G0030|ἀγγεῖον]]</big>** · **<big>[[G0030|ἀγγεῖον]]</big>** · **<big>[[G0032|ἄγγελος]]</big>** · **<big>[[G1012|βουλή]]</big>** · **<big>[[G1992|ἐπιστολή]]</big>** · **<big>[[G2041|ἔργον]]</big>** · **<big>[[G2889|κόσμος]]</big>** · **<big>[[G3696|ὅπλον]]</big>** · **<big>[[G4221|ποτήριον]]</big>** · **<big>[[G4632|σκεῦος]]</big>**

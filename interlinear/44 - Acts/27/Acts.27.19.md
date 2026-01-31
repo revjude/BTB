@@ -6,19 +6,19 @@ On the third day, they threw the ship’s tackle overboard with their own hands.
 <small><sub>**Literal:**</sub></small>
 and on the third [day] with [their] own hands the tackle of the ship they cast away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.18|<< Acts 27:18]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.20|Acts 27:20 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| third [day] |<big><span class="asgreek">τρίτῃ</span></big> <small><small><sup>[[G5154]]</sup></small></small> |tritē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with [their] own hands |<big><span class="asgreek">αὐτόχειρες</span></big> <small><small><sup>[[G0849]]</sup></small></small> |autocheires <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| tackle |<big><span class="asgreek">σκευὴν</span></big> <small><small><sup>[[G4631]]</sup></small></small> |skeuēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ship |<big><span class="asgreek">πλοίου</span></big> <small><small><sup>[[G4143]]</sup></small></small> |ploiou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they cast away; [^1] [^2] |<big><span class="asgreek">ἔρριψαν·</span></big> <small><small><sup>[[G4496]]</sup></small></small> [^3] |erripsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| third [day] |**<big>[[G5154\|τρίτῃ]]</big>**  |tritē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with [their] own hands |**<big>[[G0849\|αὐτόχειρες]]</big>**  |autocheires <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| tackle |**<big>[[G4631\|σκευὴν]]</big>**  |skeuēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ship |**<big>[[G4143\|πλοίου]]</big>**  |ploiou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they cast away; [^1] [^2] |**<big>[[G4496\|ἔρριψαν·]]</big>**  [^3] |erripsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.18|<< Acts 27:18]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.20|Acts 27:20 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**ἐρρίψαμεν**</span>  (<i>erripsamen</i>) 'we cast away' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἔρριψαν**</span>·  (<i>erripsan</i>) 'they cast away;' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^2]: ==TR+Byz==: we cast away | <span class="asgreek">ἐρρίψαμεν</span><small><sup>[[G4496]]</sup></small> | erripsamen<small><sup>[[V-AAI-1P]]</sup></small>
-[^3]: ==WH== spelled: <span class='asgreek'>**ἔριψαν**</span>
+[^1]: Variant:  **<big><span class='asgreek'>ἐρρίψαμεν</span></big>**  (<i>erripsamen</i>) 'we cast away' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>ἔρριψαν</span></big>**·  (<i>erripsan</i>) 'they cast away;' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^2]: ==TR+Byz==: we cast away | **<big>[[G4496|ἐρρίψαμεν]]</big>** | erripsamen<small><sup>[[V-AAI-1P]]</sup></small>
+[^3]: ==WH== spelled: **<big><span class='asgreek'>ἔριψαν</span></big>**

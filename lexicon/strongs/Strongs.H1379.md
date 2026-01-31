@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּבַל‎</span></big> **gâbal** <small>*(gaw-bal')*</small> ==**to border**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also as a denominative from <span class="ashebrew">‎גְּבוּל‎</span><sup><small>[[H1366]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּבַל‎</span></big>** **gâbal** <small>*(gaw-bal')*</small> ==**to border**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also as a denominative from **<big>[[H1366|‎גְּבוּל‎]]</big>**</small>
 
 $\quad$ be border, set (bounds about).
 - properly, ***to twist as a******rope***

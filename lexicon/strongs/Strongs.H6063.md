@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָנֵר‎</span></big> **ʻÂnêr** <small>*(aw-nare')*</small> ==**Aner**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎נַעַר‎</span><sup><small>[[H5288]]</small></sup></small>
+**<big><span class="ashebrew">‎עָנֵר‎</span></big>** **ʻÂnêr** <small>*(aw-nare')*</small> ==**Aner**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H5288|‎נַעַר‎]]</big>**</small>
 
 $\quad$ Aner.
 - § Aner = *"boy"*

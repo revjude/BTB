@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Allon</span> was the son of Jedaiah, a descendant of Simeon. \([[1Chr.4.37|1Ch.4.37]]\)
 - A man from the tribe of Simeon\(?\) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.37|1Ch.4.37]]; 
-- only referred to as Allon<[[H0438H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Jedaiah<[[H3042G]]>; 
--  father of Shiphi<[[H8230]]>.
+- only referred to as Allon **<big>[[H0438|אַלּוֹן]]</big>**; 
+- a son of Jedaiah **<big>[[H3042|יְדָיָה]]</big>**; 
+-  father of Shiphi **<big>[[H8230|שִׁפְעִי]]</big>**.
 
 Allon is mentioned briefly in the genealogy of the tribe of Simeon, which is recorded in the book of 1 Chronicles. He is listed as the son of Jedaiah, who was a descendant of Simeon through his son Shimei. \([[1Chr.4.37|1Ch.4.37]]\) 
 
@@ -18,8 +18,8 @@ The mention of Allon in the genealogy serves to document the lineage of the Sime
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Allon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0438H) <small>*Hebrew*</small> | 1x | [1Ch.4.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Allon\*\|reference=1Ch.4.37) |
-All Strong's for **Allon**: \[[[H0438H]]\]
+| Allon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0438H) | 1x | [1Ch.4.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Allon\*\|reference=1Ch.4.37) |
+All entries for **Allon**:  **<big>[[H0438|אַלּוֹן]]</big>**
 #### Related Profiles:
 - **[Jedaiah](H3042G)** (father)
 - **[Shiphi](H8230)** (child)

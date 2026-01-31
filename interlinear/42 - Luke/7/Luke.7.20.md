@@ -6,32 +6,32 @@ When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Ar
 <small><sub>**Literal:**</sub></small>
 Having come then to Him the men said; John the Baptist has sent us to you saying; You yourself are the coming [One], or another are we to look for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.19|<< Luke 7:19]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.21|Luke 7:21 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Having come |<big><span class="asgreek">Παραγενόμενοι</span></big> <small><small><sup>[[G3854]]</sup></small></small> |Paragenomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| men |<big><span class="asgreek">ἄνδρες</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| said; |<big><span class="asgreek">εἶπαν·</span></big> <small><small><sup>[[G2036]]</sup></small></small> [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| John |<big><span class="asgreek">Ἰωάννης</span></big> <small><small><sup>[[G2491G]]</sup></small></small> [^2] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Baptist |<big><span class="asgreek">βαπτιστὴς</span></big> <small><small><sup>[[G0910]]</sup></small></small> |baptistēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has sent [^3] |<big><span class="asgreek">ἀπέστειλεν</span></big> <small><small><sup>[[G0649]]</sup></small></small> |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
-| us |<big><span class="asgreek">ἡμᾶς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<big><span class="asgreek">σὲ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<big><span class="asgreek">λέγων·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You yourself |<big><span class="asgreek">σὺ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are |<big><span class="asgreek">εἶ</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ei <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| coming [One], |<big><span class="asgreek">ἐρχόμενος,</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| another |<big><span class="asgreek">ἄλλον</span></big> <small><small><sup>[[G0243]]</sup></small></small> |allon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are we to look for? |<big><span class="asgreek">προσδοκῶμεν;</span></big> <small><small><sup>[[G4328]]</sup></small></small> |prosdokōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Having come |**<big>[[G3854\|Παραγενόμενοι]]</big>**  |Paragenomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| men |**<big>[[G0435G\|ἄνδρες]]</big>**  |andres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| said; |**<big>[[G2036\|εἶπαν·]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| John |**<big>[[G2491G\|Ἰωάννης]]</big>**  [^2] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Baptist |**<big>[[G0910\|βαπτιστὴς]]</big>**  |baptistēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has sent [^3] |**<big>[[G0649\|ἀπέστειλεν]]</big>**  |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| us |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |**<big>[[G4771\|σὲ]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are |**<big>[[G1510\|εἶ]]</big>**  |ei <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| coming [One], |**<big>[[G2064\|ἐρχόμενος,]]</big>**  |erchomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| another |**<big>[[G0243\|ἄλλον]]</big>**  |allon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are we to look for? |**<big>[[G4328\|προσδοκῶμεν;]]</big>**  |prosdokōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.19|<< Luke 7:19]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.21|Luke 7:21 >>]]</td></tr></table>
 
-[^1]: ==TR== spelled: <span class='asgreek'>**εἶπον**</span>
-[^2]: ==WH== spelled: <span class='asgreek'>**Ἰωάνης**</span>
-[^3]: ==Treg+TR+Byz==: has sent | <span class="asgreek">ἀπέσταλκεν</span><small><sup>[[G0649]]</sup></small> | apestalken<small><sup>[[V-RAI-3S]]</sup></small>
+[^1]: ==TR== spelled: **<big><span class='asgreek'>εἶπον</span></big>**
+[^2]: ==WH== spelled: **<big><span class='asgreek'>Ἰωάνης</span></big>**
+[^3]: ==Treg+TR+Byz==: has sent | **<big>[[G0649|ἀπέσταλκεν]]</big>** | apestalken<small><sup>[[V-RAI-3S]]</sup></small>

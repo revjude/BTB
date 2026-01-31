@@ -7,38 +7,38 @@ Hide not thy face [far] from me; put not thy servant away in anger: thou hast be
 Hide not Your face from me, nor turn away Your servant in anger. You have been my helper; do not leave me or forsake me, O God of my salvation.<small><sub>**MT:**</sub></small>
 [[Ps.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.8|<< Psalm 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.10|Psalm 27:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλίνης</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant. | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Become | <big><span class="asgreek">γενού</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| curse me to be far away, | <big><span class="asgreek">αποσκορακίσης</span></big> <sup><small><small>[[G6482]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλίπης</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| overlook | <big><span class="asgreek">υπερίδης</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverer! | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| turn | **<big>[[G0654\|αποστρέψης]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλίνης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your servant. | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| my helper | **<big>[[G0998\|βοηθός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Become | **<big>[[G1096\|γενού]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| curse me to be far away, | **<big>[[G6482\|αποσκορακίσης]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλίπης]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| overlook | **<big>[[G5237\|υπερίδης]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my deliverer! | **<big>[[G4990\|σωτήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.8|<< Psalm 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.10|Psalm 27:10 >>]]</td></tr></table>
 
 

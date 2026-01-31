@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוּשׁ‎</span></big> **mûwsh** <small>*(moosh)*</small> ==**to feel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מוּשׁ‎</span></big>** **mûwsh** <small>*(moosh)*</small> ==**to feel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ feel, handle.

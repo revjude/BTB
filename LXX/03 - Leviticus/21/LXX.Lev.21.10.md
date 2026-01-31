@@ -7,41 +7,41 @@ And [he that is] the high priest among his brethren, upon whose head the anointi
 The priest who is highest among his brothers, who has had the anointing oil poured on his head and has been ordained to wear the priestly garments, must not let his hair hang loose or tear his garments.<small><sub>**MT:**</sub></small>
 [[Lev.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.9|<< Leviticus 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.11|Leviticus 21:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| from among | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poured | <big><span class="asgreek">επικεχυμένου</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anointing | <big><span class="asgreek">χριστού</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having been perfected | <big><span class="asgreek">τετελειωμένου</span></big> <sup><small><small>[[G5048]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χειρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to put on | <big><span class="asgreek">ενδύσασθαι</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garments -- | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be without a turban, | <big><span class="asgreek">αποκιδαρώσει</span></big> <sup><small><small>[[G6441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| tear up; | <big><span class="asgreek">διαρρήξει</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| from among | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| poured | **<big>[[G2022\|επικεχυμένου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| oil | **<big>[[G1637\|ελαίου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| anointing | **<big>[[G5547\|χριστού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| having been perfected | **<big>[[G5048\|τετελειωμένου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his hands | **<big>[[G5495\|χειρας]]</big>** **<big>[[G1473\|αυτου]]</big>** |
+| to put on | **<big>[[G1746\|ενδύσασθαι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| garments -- | **<big>[[G2440\|ιμάτια]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be without a turban, | **<big>[[G6441\|αποκιδαρώσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| garments | **<big>[[G2440\|ιμάτια]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| tear up; | **<big>[[G1284\|διαρρήξει]]</big>** |
 [[Lev.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.9|<< Leviticus 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.11|Leviticus 21:11 >>]]</td></tr></table>
 
 

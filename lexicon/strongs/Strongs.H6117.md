@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָקַב‎</span></big> **ʻâqab** <small>*(aw-kab')*</small> ==**to assail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to swell out or up; used only as denominative from <span class="ashebrew">‎עָקֵב‎</span><sup><small>[[H6119]]</small></sup>,</small>
+**<big><span class="ashebrew">‎עָקַב‎</span></big>** **ʻâqab** <small>*(aw-kab')*</small> ==**to assail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to swell out or up; used only as denominative from **<big>[[H6119|‎עָקֵב‎]]</big>**,</small>
 
 $\quad$ take by the heel, stay, supplant, [idiom] utterly.
 - ***to seize by the heel***

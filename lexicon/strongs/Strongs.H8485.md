@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּימָא‎</span></big> **Têymâʼ** <small>*(tay-maw')*</small> ==**Tema**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">תֵּמָא</span> **Têmâʼ** <small>*(tay-maw')*</small>; probably of foreign derivation</small>
+**<big><span class="ashebrew">‎תֵּימָא‎</span></big>** **Têymâʼ** <small>*(tay-maw')*</small> ==**Tema**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֵּמָא</span></big>** **Têmâʼ** <small>*(tay-maw')*</small>; probably of foreign derivation</small>
 
 $\quad$ Tema.
 - § Tema = *"desert"*

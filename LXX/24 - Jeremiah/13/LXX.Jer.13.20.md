@@ -7,27 +7,27 @@ Lift up your eyes, and behold them that come from the north: where [is] the floc
 Lift up your eyes and see those coming from the north. Where is the flock entrusted to you, the sheep that were your pride?<small><sub>**MT:**</sub></small>
 [[Jer.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lift up | <big><span class="asgreek">ανάλαβε</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένους</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north! | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flock | <big><span class="asgreek">ποίμνιον</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| of your glory? | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Lift up | **<big>[[G0353\|ανάλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold | **<big>[[G1492\|ίδε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| coming | **<big>[[G2064\|ερχομένους]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north! | **<big>[[G1005\|βορρά]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| flock | **<big>[[G4168\|ποίμνιον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| was given | **<big>[[G1325\|εδόθη]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| of your glory? | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Jer.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
 

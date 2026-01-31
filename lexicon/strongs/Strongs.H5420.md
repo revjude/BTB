@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָתָס‎</span></big> **nâthâç** <small>*(naw-thas')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָתָס‎</span></big>** **nâthâç** <small>*(naw-thas')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mar.

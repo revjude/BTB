@@ -7,40 +7,40 @@ And she said unto him, My father, [if] thou hast opened thy mouth unto the LORD,
 “My father,” she replied, “you have given your word to the LORD. Do to me as you have said, for the LORD has avenged you of your enemies, the Ammonites.”<small><sub>**MT:**</sub></small>
 [[Judg.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.35|<< Judges 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.37|Judges 11:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| about | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you opened | <big><span class="asgreek">ήνοιξας</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| let him do | <big><span class="asgreek">ποίησόν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| it came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth, | <big><span class="asgreek">στόματός σου</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδικήσις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon. | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| about | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| you opened | **<big>[[G0455\|ήνοιξας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| let him do | **<big>[[G4160\|ποίησόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| it came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your mouth, | **<big>[[G4750\|στόματός σου]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| did | **<big>[[G4160\|εποίησέ]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| vengeance | **<big>[[G1557\|εκδικήσις]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon. | **<big>[[H5983\|Αμμών]]</big>** |
 [[Judg.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.35|<< Judges 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.37|Judges 11:37 >>]]</td></tr></table>
 
 

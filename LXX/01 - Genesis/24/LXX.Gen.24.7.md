@@ -7,59 +7,59 @@ The LORD God of heaven, which took me from my father’s house, and from the lan
 The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there.<small><sub>**MT:**</sub></small>
 [[Gen.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.6|<< Genesis 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.8|Genesis 24:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβέ</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father's | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I was born, | <big><span class="asgreek">εγεννήθην</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησέ</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| swore by an oath | <big><span class="asgreek">ώμοσέ</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| To you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed -- | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will send | <big><span class="asgreek">αποστελεί</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his angel | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for\] my son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there. | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| took | **<big>[[G2983\|έλαβέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my father's | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I was born, | **<big>[[G1080\|εγεννήθην]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| swore by an oath | **<big>[[G3660\|ώμοσέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| To you | **<big>[[G1473\|σοι]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed -- | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will send | **<big>[[G0649\|αποστελεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his angel | **<big>[[G0032\|άγγελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| a wife, | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[for\] my son | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from there. | **<big>[[G1564\|εκείθεν]]</big>** |
 [[Gen.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.6|<< Genesis 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.8|Genesis 24:8 >>]]</td></tr></table>
 
 

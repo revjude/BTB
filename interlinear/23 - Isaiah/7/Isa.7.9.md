@@ -6,21 +6,21 @@ The head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.8|<< Isaiah 7:8]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.10|Isaiah 7:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [is] [the] head of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֤אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֙יִם֙ </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samaria  | <span class="ashebrew"><big>שֹׁמְר֔וֹן </big></span><small><small><sup>[[H8111]]</sup></small></small> &#8207;| sho.me.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] [the] head of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֥אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samaria  | <span class="ashebrew"><big>שֹׁמְר֖וֹן </big></span><small><small><sup>[[H8111]]</sup></small></small> &#8207;| sho.me.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Remaliah  | <span class="ashebrew"><big>רְמַלְיָ֑הוּ </big></span><small><small><sup>[[H7425]]</sup></small></small> &#8207;| re.mal.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִ֚ם </big></span><small><small><sup>[[H0518A]]</sup></small></small> &#8207;| 'im <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will believe  | <span class="ashebrew"><big>תַאֲמִ֔ינוּ </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| ta.'a.Mi.nu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֖י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be established  | <span class="ashebrew"><big>תֵאָמֵֽנוּ </big></span><small><small><sup>[[H0539]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| te.'a.Me.nu <small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] [the] head of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218H\|רֹ֤אשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֔וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] [the] head of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218H\|רֹ֥אשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֖וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Remaliah  |**<big>&#8207;[[H7425\|רְמַלְיָ֑הוּ]]&#8207; </big>**| re.mal.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִ֚ם]]&#8207; </big>**| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will believe  |**<big>&#8207;[[H0539\|תַאֲמִ֔ינוּ]]&#8207; </big>**| ta.'a.Mi.nu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be established  |**<big>&#8207;[[H0539\|תֵאָמֵֽנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te.'a.Me.nu<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.8|<< Isaiah 7:8]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.10|Isaiah 7:10 >>]]</td></tr></table>
 
 

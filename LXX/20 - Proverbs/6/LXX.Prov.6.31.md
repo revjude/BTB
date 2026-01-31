@@ -7,19 +7,19 @@ But [if] he be found, he shall restore sevenfold; he shall give all the substanc
 Yet if caught, he must pay sevenfold; he must give up all the wealth of his house.<small><sub>**MT:**</sub></small>
 [[Prov.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.30|<< Proverbs 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.32|Proverbs 6:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should be captured | <big><span class="asgreek">αλώ</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| seven-fold, | <big><span class="asgreek">επταπλάσια</span></big> <sup><small><small>[[G7487]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his possessions | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[by\] giving | <big><span class="asgreek">δους</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">ρύσεταί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| but if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should be captured | **<big>[[G6226\|αλώ]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| seven-fold, | **<big>[[G7487\|επταπλάσια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his possessions | **<big>[[G5225\|υπάρχοντα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[by\] giving | **<big>[[G1325\|δους]]</big>** |
+| shall rescue | **<big>[[G4506\|ρύσεταί]]</big>** |
+| himself | **<big>[[G1438\|εαυτόν]]</big>** |
 [[Prov.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.30|<< Proverbs 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.32|Proverbs 6:32 >>]]</td></tr></table>
 
 

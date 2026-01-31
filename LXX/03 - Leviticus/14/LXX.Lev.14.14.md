@@ -7,47 +7,47 @@ And the priest shall take [some] of the blood of the trespass offering, and the 
 The priest is to take some of the blood from the guilt offering and put it on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot.<small><sub>**MT:**</sub></small>
 [[Lev.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.13|<< Leviticus 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.15|Leviticus 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\], | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall place it | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lobe | <big><span class="asgreek">λοβόν</span></big> <sup><small><small>[[G8207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ear | <big><span class="asgreek">ωτός</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being cleansed -- | <big><span class="asgreek">καθαριζομένου</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right, | <big><span class="asgreek">δεξιού</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thumb | <big><span class="asgreek">άκρον</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his hand -- | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right, | <big><span class="asgreek">δεξιάς</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| big toe | <big><span class="asgreek">άκρον</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his foot -- | <big><span class="asgreek">ποδός</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right. | <big><span class="asgreek">δεξιού</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| blood, | **<big>[[G0129\|αίματος]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| trespass \[offering\], | **<big>[[G8811\|πλημμελείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall place it | **<big>[[G2007\|επιθήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lobe | **<big>[[G8207\|λοβόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ear | **<big>[[G3775\|ωτός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one being cleansed -- | **<big>[[G2511\|καθαριζομένου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| right, | **<big>[[G1188\|δεξιού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thumb | **<big>[[G6208\|άκρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his hand -- | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| right, | **<big>[[G1188\|δεξιάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| big toe | **<big>[[G6208\|άκρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his foot -- | **<big>[[G4228\|ποδός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| right. | **<big>[[G1188\|δεξιού]]</big>** |
 [[Lev.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.13|<< Leviticus 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.15|Leviticus 14:15 >>]]</td></tr></table>
 
 

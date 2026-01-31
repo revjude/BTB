@@ -11,24 +11,24 @@ Cast your burden upon the LORD and He will sustain you; He will never let the ri
 > $\quad$ referenced by: [[1Pet.5.7|1Pet 5:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Cast | <big><span class="asgreek">επίρριψον</span></big> <sup><small><small>[[G1977]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anxiety, | <big><span class="asgreek">μέριμνάν</span></big> <sup><small><small>[[G3308]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will nourish you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">διαθρέψει</span></big> <sup><small><small>[[G6894]]</small></small></sup> |
-| He will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| grant | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| for a tossing about | <big><span class="asgreek">σάλον</span></big> <sup><small><small>[[G4535]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| Cast | **<big>[[G1977\|επίρριψον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your anxiety, | **<big>[[G3308\|μέριμνάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will nourish you! | **<big>[[G1473\|σε]]</big>** **<big>[[G6894\|διαθρέψει]]</big>** |
+| He will not | **<big>[[G3756\|ου]]</big>** |
+| grant | **<big>[[G1325\|δώσει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| for a tossing about | **<big>[[G4535\|σάλον]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| just | **<big>[[G1342\|δικαίω]]</big>** |
 [[Ps.55.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.21|<< Psalm 55:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.23|Psalm 55:23 >>]]</td></tr></table>
 
 

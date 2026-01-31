@@ -1,4 +1,4 @@
-<small>Also see: [[H5437]]</small>
+<small>Also see: **<big>[[H5437|סָבַב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎סָבִיב‎</span><sub>336</sub> **substantive**, used mostly as **adverb** and **preposition**, ==circuit, round about==: — construct <span class="bdbLangHebrew">‎סְבִיב‎</span> [[Amos.3.11|Amos 3:11]] plural construct <span class="bdbLangHebrew">‎סְבִיבֵי‎</span> [[Jer.32.44|Jer 32:44]]; [[Jer.33.13|Jer 33:13]], suffix <span class="bdbLangHebrew">‎סְבִיבֶיךָ‎</span> etc. (10 t.), much oftener <span class="bdbLangHebrew">‎סְבִיבוֺת‎</span> [[Exod.7.24|Exod 7:24]] + 22 t., <span class="bdbLangHebrew">‎סְבִיבוֺתַי‎</span>, <span class="bdbLangHebrew">‎תֶיךָ‎</span>-, etc., [[Deut.17.14|Deut 17:14]], etc. (48 t.): — 
 

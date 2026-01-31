@@ -6,16 +6,16 @@ The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin, and Eker.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.26|<< 1 Chronicles 2:26]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.28|1 Chronicles 2:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּהְי֥וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yih.Yu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ram  | <span class="ashebrew"><big>רָ֖ם </big></span><small><small><sup>[[H7410H]]</sup></small></small> &#8207;| ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] firstborn of  | <span class="ashebrew"><big>בְּכ֣וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> &#8207;| be.Khor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerahmeel  | <span class="ashebrew"><big>יְרַחְמְאֵ֑ל </big></span><small><small><sup>[[H3396G]]</sup></small></small> &#8207;| ye.rach.me.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Maaz  | <span class="ashebrew"><big>מַ֥עַץ </big></span><small><small><sup>[[H4619]]</sup></small></small> &#8207;| Ma.'atz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jamin  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָמִ֖ין </big></span><small><small><sup>[[H3226H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eker  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵֽקֶר </big></span><small><small><sup>[[H6134]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'E.ker <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ram  |**<big>&#8207;[[H7410H\|רָ֖ם]]&#8207; </big>**| ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֣וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerahmeel  |**<big>&#8207;[[H3396G\|יְרַחְמְאֵ֑ל]]&#8207; </big>**| ye.rach.me.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maaz  |**<big>&#8207;[[H4619\|מַ֥עַץ]]&#8207; </big>**| Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jamin  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3226H\|יָמִ֖ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eker  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6134\|עֵֽקֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'E.ker<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.26|<< 1 Chronicles 2:26]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.28|1 Chronicles 2:28 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ And it was so, that when the children of Ammon made war against Israel, the elde
 and made war with them, the elders of Gilead went to get Jephthah from the land of Tob.<small><sub>**MT:**</sub></small>
 [[Judg.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.4|<< Judges 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.6|Judges 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| to take | <big><span class="asgreek">παραλαβείν</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jephthah | <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Tob. | <big><span class="asgreek">Τωβ</span></big> <sup><small><small>[[H2897]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| of Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| to take | **<big>[[G3880\|παραλαβείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jephthah | **<big>[[G2422\|Ιεφθάε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of Tob. | **<big>[[H2897\|Τωβ]]</big>** |
 [[Judg.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.4|<< Judges 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.6|Judges 11:6 >>]]</td></tr></table>
 
 

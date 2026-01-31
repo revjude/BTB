@@ -7,24 +7,24 @@ And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son
 and Maaseiah son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, a descendant of Shelah.<small><sub>**MT:**</sub></small>
 [[Neh.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.4|<< Nehemiah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.6|Nehemiah 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Maaseiah | <big><span class="asgreek">Μαασία</span></big> <sup><small><small>[[H4641]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Baruch, | <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Col-hozeh, | <big><span class="asgreek">Χαλαζά</span></big> <sup><small><small>[[H3626]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hazaiah, | <big><span class="asgreek">Οζιά</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Adaiah, | <big><span class="asgreek">Αδαϊα</span></big> <sup><small><small>[[H5718]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joiarib, | <big><span class="asgreek">Ιωαρείβ</span></big> <sup><small><small>[[H3080]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zechariah, | <big><span class="asgreek">Ζαχαρίου</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shiloni. | <big><span class="asgreek">Σηιλονί</span></big> <sup><small><small>[[H8023]]</small></small></sup> |
+| Maaseiah | **<big>[[H4641\|Μαασία]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Baruch, | **<big>[[H1263\|Βαρούχ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Col-hozeh, | **<big>[[H3626\|Χαλαζά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Hazaiah, | **<big>[[G3604\|Οζιά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Adaiah, | **<big>[[H5718\|Αδαϊα]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Joiarib, | **<big>[[H3080\|Ιωαρείβ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Zechariah, | **<big>[[G2197\|Ζαχαρίου]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Shiloni. | **<big>[[H8023\|Σηιλονί]]</big>** |
 [[Neh.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.4|<< Nehemiah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.6|Nehemiah 11:6 >>]]</td></tr></table>
 
 

@@ -7,14 +7,14 @@ But with one accord the ones being bound do not hear \[the\] voice of \[the\] tr
 The captives enjoy their ease; they do not hear the voice of the oppressor.<small><sub>**MT:**</sub></small>
 [[Job.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.17|<< Job 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.19|Job 3:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But with one accord | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being bound | <big><span class="asgreek">δεδεμένοι</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| do not hear | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] tribute-gatherer. | <big><span class="asgreek">φορολόγου</span></big> <sup><small><small>[[G9661]]</small></small></sup> |
+| But with one accord | **<big>[[G3661\|ομοθυμαδόν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones being bound | **<big>[[G1210\|δεδεμένοι]]</big>** |
+| do not hear | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσαν]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] tribute-gatherer. | **<big>[[G9661\|φορολόγου]]</big>** |
 [[Job.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.17|<< Job 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.19|Job 3:19 >>]]</td></tr></table>
 
 

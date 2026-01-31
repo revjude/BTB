@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּר‎</span></big> **bar** <small>*(bar)*</small> ==**pure**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּרַר‎</span><sup><small>[[H1305]]</small></sup> (in its various senses)</small>
+**<big><span class="ashebrew">‎בַּר‎</span></big>** **bar** <small>*(bar)*</small> ==**pure**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H1305|‎בָּרַר‎]]</big>** (in its various senses)</small>
 
 $\quad$ choice, clean, clear, pure.
 - ***beloved***
@@ -11,4 +11,4 @@ adj
 adv
 **3)** purely
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup> · <span class="asgreek">γεννάω</span><sup><small>[[G1080]]</small></sup> · <span class="asgreek">ἐκλεκτός</span><sup><small>[[G1588]]</small></sup> · <span class="asgreek">ἐνδεής</span><sup><small>[[G1729]]</small></sup> · <span class="asgreek">ἔξω</span><sup><small>[[G1854]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">θησαυρός</span><sup><small>[[G2344]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">σῖτος</span><sup><small>[[G4621]]</small></sup>
+<small>See Greek: </small>**<big>[[G0273|ἄμεμπτος]]</big>** · **<big>[[G1080|γεννάω]]</big>** · **<big>[[G1588|ἐκλεκτός]]</big>** · **<big>[[G1729|ἐνδεής]]</big>** · **<big>[[G1854|ἔξω]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G2344|θησαυρός]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G4621|σῖτος]]</big>**

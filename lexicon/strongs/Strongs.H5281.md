@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נׇעֳמִי‎</span></big> **Noʻŏmîy** <small>*(no-om-ee')*</small> ==**Naomi**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נֹעַם‎</span><sup><small>[[H5278]]</small></sup>; pleasant</small>
+**<big><span class="ashebrew">‎נׇעֳמִי‎</span></big>** **Noʻŏmîy** <small>*(no-om-ee')*</small> ==**Naomi**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H5278|‎נֹעַם‎]]</big>**; pleasant</small>
 
 $\quad$ Naomi.
 - § Naomi = *"my delight"*

@@ -7,35 +7,35 @@ And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day
 “Why have you brought this trouble upon us?” said Joshua. “Today the LORD will bring trouble upon you!” And all Israel stoned him to death. Then they stoned the others and burned their bodies.<small><sub>**MT:**</sub></small>
 [[Josh.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.24|<< Joshua 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.26|Joshua 7:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did you annihilate | <big><span class="asgreek">ωλόθρευσας</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| even | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stoned | <big><span class="asgreek">ελιθοβόλησαν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[with\] stones, | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they burned | <big><span class="asgreek">κατέκαυσαν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they stoned | <big><span class="asgreek">ελιθοβόλησαν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stones. | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| did you annihilate | **<big>[[G3645\|ωλόθρευσας]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[for the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| even | **<big>[[G2505\|καθά]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| today? | **<big>[[G4594\|σήμερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stoned | **<big>[[G3036\|ελιθοβόλησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[with\] stones, | **<big>[[G3037\|λίθοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they burned | **<big>[[G2618\|κατέκαυσαν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| fire, | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they stoned | **<big>[[G3036\|ελιθοβόλησαν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| stones. | **<big>[[G3037\|λίθοις]]</big>** |
 [[Josh.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.24|<< Joshua 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.26|Joshua 7:26 >>]]</td></tr></table>
 
 

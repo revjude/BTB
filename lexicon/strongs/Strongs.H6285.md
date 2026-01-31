@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֵּאָה‎</span></big> **pêʼâh** <small>*(pay-aw')*</small> ==**side**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎פֹּה‎</span><sup><small>[[H6311]]</small></sup></small>
+**<big><span class="ashebrew">‎פֵּאָה‎</span></big>** **pêʼâh** <small>*(pay-aw')*</small> ==**side**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6311|‎פֹּה‎]]</big>**</small>
 
 $\quad$ corner, end, quarter, side.
 - properly, ***mouth*** in a figurative sense, i.e. ***direction***, ***region***, ***extremity***
@@ -8,4 +8,4 @@ $\quad$ corner, end, quarter, side.
 $\quad$ **1a)** corner
 $\quad$ **1b)** side
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχηγός</span><sup><small>[[G0747]]</small></sup> · <span class="asgreek">θερισμός</span><sup><small>[[G2326]]</small></sup> · <span class="asgreek">κόμη</span><sup><small>[[G2864]]</small></sup> · <span class="asgreek">λοιποί</span><sup><small>[[G3062]]</small></sup> · <span class="asgreek">λοιπόν</span><sup><small>[[G3063]]</small></sup> · <span class="asgreek">λοιποῦ</span><sup><small>[[G3064]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">νῦν</span><sup><small>[[G3568]]</small></sup> · <span class="asgreek">ὅριον</span><sup><small>[[G3725]]</small></sup> · <span class="asgreek">ὄψις</span><sup><small>[[G3799]]</small></sup> · <span class="asgreek">πρόσωπον</span><sup><small>[[G4383]]</small></sup>
+<small>See Greek: </small>**<big>[[G0747|ἀρχηγός]]</big>** · **<big>[[G2326|θερισμός]]</big>** · **<big>[[G2864|κόμη]]</big>** · **<big>[[G3062|λοιποί]]</big>** · **<big>[[G3063|λοιπόν]]</big>** · **<big>[[G3064|λοιποῦ]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G3568|νῦν]]</big>** · **<big>[[G3725|ὅριον]]</big>** · **<big>[[G3799|ὄψις]]</big>** · **<big>[[G4383|πρόσωπον]]</big>**

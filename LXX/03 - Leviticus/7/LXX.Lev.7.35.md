@@ -7,29 +7,29 @@ This [is the portion] of the anointing of Aaron, and of the anointing of his son
 This is the portion of the food offerings to the LORD for Aaron and his sons since the day they were presented to serve the LORD as priests.<small><sub>**MT:**</sub></small>
 [[Lev.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.34|<< Leviticus 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.36|Leviticus 7:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This is | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anointing | <big><span class="asgreek">χρίσις</span></big> <sup><small><small>[[G9758]]</small></small></sup> |
-| of Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anointing | <big><span class="asgreek">χρίσις</span></big> <sup><small><small>[[G9758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of \[their portion\] | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yield \[offerings\] | <big><span class="asgreek">καρπωμάτων</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he brought | <big><span class="asgreek">προσηγάγετο</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to officiate as priest | <big><span class="asgreek">ιερατεύειν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| This is | **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| anointing | **<big>[[G9758\|χρίσις]]</big>** |
+| of Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| anointing | **<big>[[G9758\|χρίσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of \[their portion\] | **<big>[[G0575\|από]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| yield \[offerings\] | **<big>[[G7806\|καρπωμάτων]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he brought | **<big>[[G4317\|προσηγάγετο]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to officiate as priest | **<big>[[G2407\|ιερατεύειν]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.34|<< Leviticus 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.36|Leviticus 7:36 >>]]</td></tr></table>
 
 

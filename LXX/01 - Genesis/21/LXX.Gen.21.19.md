@@ -7,29 +7,29 @@ And God opened her eyes, and she saw a well of water; and she went, and filled t
 Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.<small><sub>**MT:**</sub></small>
 [[Gen.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.18|<< Genesis 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.20|Genesis 21:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God opened | <big><span class="asgreek">ανέωξεν</span></big> <sup><small><small>[[G0455]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her eyes. | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| a well | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \[of\] living | <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| filled | <big><span class="asgreek">έπλησε</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leather bag | <big><span class="asgreek">άσκον</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave a drink | <big><span class="asgreek">επότισε</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| to the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child. | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God opened | **<big>[[G0455\|ανέωξεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she saw | **<big>[[G1492\|είδε]]</big>** |
+| a well | **<big>[[G5421\|φρέαρ]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| \[of\] living | **<big>[[G2198\|ζώντος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she went | **<big>[[G4198\|επορεύθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| filled | **<big>[[G4130\|έπλησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| leather bag | **<big>[[G0779\|άσκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of water, | **<big>[[G5204\|ύδατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave a drink | **<big>[[G4222\|επότισε]]</big>** |
+| to the | **<big>[[G3588\|το]]</big>** |
+| child. | **<big>[[G3813\|παιδίον]]</big>** |
 [[Gen.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.18|<< Genesis 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.20|Genesis 21:20 >>]]</td></tr></table>
 
 

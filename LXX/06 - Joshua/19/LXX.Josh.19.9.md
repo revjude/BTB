@@ -7,36 +7,36 @@ Out of the portion of the children of Judah [was] the inheritance of the childre
 The inheritance of the Simeonites was taken from the territory of Judah, because the share for Judah’s descendants was too large for them. So the Simeonites received an inheritance within Judah’s portion.<small><sub>**MT:**</sub></small>
 [[Josh.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.8|<< Joshua 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.10|Joshua 19:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρου</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Simeon, | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it was \[that\] | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| was greater than | <big><span class="asgreek">μείζων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| theirs; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| inherited | <big><span class="asgreek">εκληρονόμησαν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Simeon | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their lot. | <big><span class="asgreek">κλήρου</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| lot | **<big>[[G2819\|κλήρου]]</big>** |
+| of | **<big>[[G3588\|του]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[was\] the | **<big>[[G3588\|η]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομία]]</big>** |
+| of \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Simeon, | **<big>[[G4826\|Συμεών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it was \[that\] | **<big>[[G1096\|εγενήθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| was greater than | **<big>[[G3173\|μείζων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| theirs; | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| inherited | **<big>[[G2816\|εκληρονόμησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Simeon | **<big>[[G4826\|Συμεών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their lot. | **<big>[[G2819\|κλήρου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.8|<< Joshua 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.10|Joshua 19:10 >>]]</td></tr></table>
 
 

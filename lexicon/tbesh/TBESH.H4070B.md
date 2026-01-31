@@ -1,5 +1,4 @@
-<span class="asaramaic">‎מְדָר‎</span> <small>***(me.dar)***</small> ==**dwelling**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H4033]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4033|מָגוּר]]</big>**</small> 
 
 - dwelling
-- Aramaic of <i>ma.gur</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎גו‎</span>ֹ<span class='ashebrew'>‎ר‎</span> "sojourning" [[H4033]])
+- Aramaic of <i>ma.gur</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎גו‎</span>ֹ<span class='ashebrew'>‎ר‎</span> "sojourning" **<big>[[H4033|מָגוּר]]</big>**)

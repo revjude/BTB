@@ -7,25 +7,25 @@ And all the inhabitants of Egypt shall know that I [am] the LORD, because they h
 Then all the people of Egypt will know that I am the LORD. For you were only a staff of reeds to the house of Israel.<small><sub>**MT:**</sub></small>
 [[Ezek.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| you became | <big><span class="asgreek">εγενήθης</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of reed | <big><span class="asgreek">καλαμίνη</span></big> <sup><small><small>[[G7778]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| you became | **<big>[[G1096\|εγενήθης]]</big>** |
+| a rod | **<big>[[G4464\|ράβδος]]</big>** |
+| of reed | **<big>[[G7778\|καλαμίνη]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
 

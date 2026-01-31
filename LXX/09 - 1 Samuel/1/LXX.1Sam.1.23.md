@@ -7,43 +7,43 @@ And Elkanah her husband said unto her, Do what seemeth thee good; tarry until th
 “Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm His word.” So Hannah stayed and nursed her son until she had weaned him.<small><sub>**MT:**</sub></small>
 [[1Sam.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.22|<< 1 Samuel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.24|1 Samuel 1:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elkanah | <big><span class="asgreek">Ελκανά</span></big> <sup><small><small>[[H0511]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You do | <big><span class="asgreek">ποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[thing\] | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sit | <big><span class="asgreek">κάθου</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should wean | <big><span class="asgreek">απογαλακτίσης</span></big> <sup><small><small>[[G6418]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| may \[the\] <span class="smallcaps">lord</span> establish | <big><span class="asgreek">στήσαι</span></big> <sup><small><small>[[G2476]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθόν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth. | <big><span class="asgreek">στόματός</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| nursed | <big><span class="asgreek">εθήλασε</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| she weaned | <big><span class="asgreek">απογαλακτίση</span></big> <sup><small><small>[[G6418]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| Elkanah | **<big>[[H0511\|Ελκανά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her husband | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| You do | **<big>[[G4160\|ποίει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| good \[thing\] | **<big>[[G0018\|αγαθόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| sit | **<big>[[G2521\|κάθου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| you should wean | **<big>[[G6418\|απογαλακτίσης]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
+| Only | **<big>[[G4133\|πλην]]</big>** |
+| may \[the\] <span class="smallcaps">lord</span> establish | **<big>[[G2476\|στήσαι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθόν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your mouth. | **<big>[[G4750\|στόματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| nursed | **<big>[[G2337\|εθήλασε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| she weaned | **<big>[[G6418\|απογαλακτίση]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[1Sam.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.22|<< 1 Samuel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.24|1 Samuel 1:24 >>]]</td></tr></table>
 
 

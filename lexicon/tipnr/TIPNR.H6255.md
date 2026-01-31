@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ashteroth-karnaim</span> was a city east of the Jordan River defeated by King Chedorlaomer.
 - A location first mentioned at [[Gen.14.5|Gen.14.5]]; 
-- referred to as Ashteroth-karnaim<[[H6255]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\), or Karnaim<[[H7161B]]> \(<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Ashteroth-karnaim **<big>[[H6255|עַשְׁתְּרֹת קַרְנַיִם]]</big>**, or Karnaim **<big>[[H7161|קֶרֶן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.7666666667,36.0166666667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Ashteroth-karnaim, also called Karnaim, was an ancient city located east of the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ashteroth-karnaim (KJV, NIV= Ashteroth Karnaim) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6255) <small>*Hebrew*</small> | 1x | [Gen.14.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashteroth\*\|reference=Gen.14.5) |
-| Karnaim | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H7161B) <small>*Hebrew*</small> | 1x | [Amo.6.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Karnaim\*\|reference=Amo.6.13) |
-All Strong's for **Ashteroth-karnaim or Karnaim**: \[[[H6255]]\] \[[[H7161B]]\]
+| Ashteroth-karnaim (KJV, NIV= Ashteroth Karnaim) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6255) | 1x | [Gen.14.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashteroth\*\|reference=Gen.14.5) |
+| Karnaim | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H7161B) | 1x | [Amo.6.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Karnaim\*\|reference=Amo.6.13) |
+All entries for **Ashteroth-karnaim or Karnaim**:  **<big>[[H6255|עַשְׁתְּרֹת קַרְנַיִם]]</big>** ☩  **<big>[[H7161|קֶרֶן]]</big>**

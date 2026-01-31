@@ -7,22 +7,22 @@ then separate my shoulder from the collar-bone,  and be broken my arm from the e
 then may my arm fall from my shoulder and be torn from its socket.<small><sub>**MT:**</sub></small>
 [[Job.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.21|<< Job 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.23|Job 31:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| separate | <big><span class="asgreek">αποσταίη</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| then | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my shoulder | <big><span class="asgreek">ώμός</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| collar-bone, | <big><span class="asgreek">κλειδός</span></big> <sup><small><small>[[G2807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my arm | <big><span class="asgreek">βραχίων</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elbow | <big><span class="asgreek">αγκώνος</span></big> <sup><small><small>[[G6118]]</small></small></sup> |
-| be broken | <big><span class="asgreek">συντριβείη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| separate | **<big>[[G0868\|αποσταίη]]</big>** |
+| then | **<big>[[G0686\|άρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my shoulder | **<big>[[G5606\|ώμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| collar-bone, | **<big>[[G2807\|κλειδός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my arm | **<big>[[G1023\|βραχίων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| elbow | **<big>[[G6118\|αγκώνος]]</big>** |
+| be broken | **<big>[[G4937\|συντριβείη]]</big>** |
 [[Job.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.21|<< Job 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.23|Job 31:23 >>]]</td></tr></table>
 
 

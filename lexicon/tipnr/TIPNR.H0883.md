@@ -1,8 +1,8 @@
 <small>*Beer-lahai-roi • Well where Hagar encountered the Angel of the Lord.*</small>
 
 <span class='tipnrhighlight'>Beer-lahai-roi</span> was a well where Hagar encountered the Angel of the Lord, between Kadesh and Bered. \([[Gen.16.14|Genesis 16:14]], 24:62, 25:11\)
-- A location near Kadesh-barnea<[[H6946G]]> first mentioned at [[Gen.16.14|Gen.16.14]]; 
-- referred to as Beer-lahai-roi or Beer-lahai-roi<[[H0883]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- A location near Kadesh-barnea **<big>[[H6946|קָדֵשׁ]]</big>** first mentioned at [[Gen.16.14|Gen.16.14]]; 
+- referred to as Beer-lahai-roi or Beer-lahai-roi **<big>[[H0883|בְּאֵר לַחַי רֹאִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.68771281376111,34.49479554246946&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The well of Beer-lahai-roi served as a significant location in the story of Haga
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beer-lahai-roi (KJV= well Lahai-roi) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H0883) <small>*Hebrew*</small> | 2x | [[Gen.24.62] & [Gen.25.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Gen.24.62;Gen.25.11) |
-| Beer-lahai-roi | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H0883) <small>*Hebrew*</small> | 1x | [Gen.16.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Gen.16.14) |
-All Strong's for **Beer-lahai-roi**: \[[[H0883]]\]
+| Beer-lahai-roi (KJV= well Lahai-roi) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H0883) | 2x | [[Gen.24.62] & [Gen.25.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Gen.24.62;Gen.25.11) |
+| Beer-lahai-roi | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H0883) | 1x | [Gen.16.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Gen.16.14) |
+All entries for **Beer-lahai-roi**:  **<big>[[H0883|בְּאֵר לַחַי רֹאִי]]</big>**

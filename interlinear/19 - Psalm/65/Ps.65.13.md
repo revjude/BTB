@@ -6,17 +6,17 @@ The pastures are clothed with flocks, and the valleys are decked with grain. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.12|<< Psalms 65:12]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.0|Psalms 66:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they are clothed  | <span class="ashebrew"><big>לָבְשׁ֬וּ </big></span><small><small><sup>[[H3847]]</sup></small></small> &#8207;| la.ve.Shu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pastures  | <span class="ashebrew"><big>כָרִ֨ים </big></span><small><small><sup>[[H3733B]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| kha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> flock[s]  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צֹּ֗אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] valleys  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲמָקִ֥ים </big></span><small><small><sup>[[H6010R]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ma.Kim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they cover themselves  | <span class="ashebrew"><big>יַֽעַטְפוּ </big></span><small><small><sup>[[H5848B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'at.fu- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grain  | <span class="ashebrew"><big>בָ֑ר </big></span><small><small><sup>[[H1250A]]</sup></small></small> &#8207;| Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they shout for joy  | <span class="ashebrew"><big>יִ֝תְרוֹעֲע֗וּ </big></span><small><small><sup>[[H7321]]</sup></small></small> &#8207;| yit.ro.'a.'U <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they sing  | <span class="ashebrew"><big>יָשִֽׁירוּ </big></span><small><small><sup>[[H7891]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Shi.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are clothed  |**<big>&#8207;[[H3847\|לָבְשׁ֬וּ]]&#8207; </big>**| la.ve.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pastures  |**<big>&#8207;[[H3733B\|כָרִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> flock[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6629G\|צֹּ֗אן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] valleys  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6010R\|עֲמָקִ֥ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ma.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cover themselves  |**<big>&#8207;[[H5848B\|יַֽעַטְפוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'at.fu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grain  |**<big>&#8207;[[H1250A\|בָ֑ר]]&#8207; </big>**| Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they shout for joy  |**<big>&#8207;[[H7321\|יִ֝תְרוֹעֲע֗וּ]]&#8207; </big>**| yit.ro.'a.'U<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sing  |**<big>&#8207;[[H7891\|יָשִֽׁירוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Shi.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.12|<< Psalms 65:12]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.0|Psalms 66:0 >>]]</td></tr></table>
 
 

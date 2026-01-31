@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎נְשִׁיקָה‎</span></big> **nᵉshîyqâh** <small>*(nesh-ee-kaw')*</small> ==**kiss**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָשַׁק‎</span><sup><small>[[H5401]]</small></sup></small>
+**<big><span class="ashebrew">‎נְשִׁיקָה‎</span></big>** **nᵉshîyqâh** <small>*(nesh-ee-kaw')*</small> ==**kiss**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5401|‎נָשַׁק‎]]</big>**</small>
 
 $\quad$ kiss.
 - ***a kiss***
 
 **1)** kiss
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φίλημα</span><sup><small>[[G5370]]</small></sup>
+<small>See Greek: </small>**<big>[[G5370|φίλημα]]</big>**

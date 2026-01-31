@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָמַם‎</span></big> **châmam** <small>*(khaw-mam')*</small> ==**to warm**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָמַם‎</span></big>** **châmam** <small>*(khaw-mam')*</small> ==**to warm**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ enflame self, get (have) heat, be (wax) hot, (be, wax) warm (self, at).
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Niphal) to become aroused, inflame oneself with
 $\quad$ **1c)** (Piel) to warm
 $\quad$ **1d)** (Hithpael) to warm oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδίκημα</span><sup><small>[[G0092]]</small></sup> · <span class="asgreek">θάλπω</span><sup><small>[[G2282]]</small></sup> · <span class="asgreek">θερμαίνω</span><sup><small>[[G2328]]</small></sup> · <span class="asgreek">θέρμη</span><sup><small>[[G2329]]</small></sup>
+<small>See Greek: </small>**<big>[[G0092|ἀδίκημα]]</big>** · **<big>[[G2282|θάλπω]]</big>** · **<big>[[G2328|θερμαίνω]]</big>** · **<big>[[G2329|θέρμη]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעַל פְּעוֹר‎</span></big> **Baʻal Pᵉʻôwr** <small>*(bah'-al peh-ore')*</small> ==**Baal of Peor**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup> and <span class="ashebrew">‎פְּעוֹר‎</span><sup><small>[[H6465]]</small></sup>; Baal of Peor</small>
+**<big><span class="ashebrew">‎בַּעַל פְּעוֹר‎</span></big>** **Baʻal Pᵉʻôwr** <small>*(bah'-al peh-ore')*</small> ==**Baal of Peor**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>from **<big>[[H1168|‎בַּעַל‎]]</big>** and **<big>[[H6465|‎פְּעוֹר‎]]</big>**; Baal of Peor</small>
 
 $\quad$ Baal-peor.
 - § Baal-peor = *"lord of the gap"*

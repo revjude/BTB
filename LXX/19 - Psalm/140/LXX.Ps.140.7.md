@@ -7,20 +7,20 @@ O GOD the Lord, the strength of my salvation, thou hast covered my head in the d
 O GOD the Lord, the strength of my salvation, You shield my head in the day of battle.<small><sub>**MT:**</sub></small>
 [[Ps.140.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.6|<< Psalm 140:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.8|Psalm 140:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">Lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O Lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] power | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my deliverance. | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shadowed | <big><span class="asgreek">επεσκίασας</span></big> <sup><small><small>[[G1982]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of battle. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| O <span class="smallcaps">Lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| O Lord, | **<big>[[G2962\|κύριε]]</big>** |
+| \[the\] power | **<big>[[G1411\|δύναμις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my deliverance. | **<big>[[G4991\|σωτηρίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You shadowed | **<big>[[G1982\|επεσκίασας]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of battle. | **<big>[[G4171\|πολέμου]]</big>** |
 [[Ps.140.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.6|<< Psalm 140:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.8|Psalm 140:8 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ And Moses [was] an hundred and twenty years old when he died: his eye was not di
 Moses was a hundred and twenty years old when he died, yet his eyes were not weak, and his vitality had not diminished.<small><sub>**MT:**</sub></small>
 [[Deut.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.6|<< Deuteronomy 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.8|Deuteronomy 34:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| years \[old\] | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his coming to an end. | <big><span class="asgreek">τελευτάν</span></big> <sup><small><small>[[G5053]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| darkened | <big><span class="asgreek">ημαυρώθησαν</span></big> <sup><small><small>[[G6253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| corrupted | <big><span class="asgreek">εφθάρησαν</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his lips | <big><span class="asgreek">χελύνια</span></big> <sup><small><small>[[G9716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And Moses | **<big>[[G3475\|Μωυσής]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| years \[old\] | **<big>[[G2094\|ετών]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his coming to an end. | **<big>[[G5053\|τελευτάν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| darkened | **<big>[[G6253\|ημαυρώθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| His eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| corrupted | **<big>[[G5351\|εφθάρησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his lips | **<big>[[G9716\|χελύνια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.6|<< Deuteronomy 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.8|Deuteronomy 34:8 >>]]</td></tr></table>
 
 

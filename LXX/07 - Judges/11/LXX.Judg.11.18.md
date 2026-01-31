@@ -7,43 +7,43 @@ Then they went along through the wilderness, and compassed the land of Edom, and
 Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border.<small><sub>**MT:**</sub></small>
 [[Judg.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.17|<< Judges 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.19|Judges 11:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[Israel\] went through | <big><span class="asgreek">διήλθεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encircled | <big><span class="asgreek">εκύκλωσε</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it arrived | <big><span class="asgreek">παρεγένετο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] rising | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| camped | <big><span class="asgreek">παρενέβαλεν</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of Arnon, | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| border | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[Israel\] went through | **<big>[[G1330\|διήλθεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| encircled | **<big>[[G2944\|εκύκλωσε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it arrived | **<big>[[G3854\|παρεγένετο]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] rising | **<big>[[G0395\|ανατολάς]]</big>** |
+| of \[the\] sun | **<big>[[G2246\|ηλίου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| camped | **<big>[[G6070\|παρενέβαλεν]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of Arnon, | **<big>[[H0769\|Αρνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| border | **<big>[[G3725\|όριον]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Judg.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.17|<< Judges 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.19|Judges 11:19 >>]]</td></tr></table>
 
 

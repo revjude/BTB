@@ -7,27 +7,27 @@ These [are] unclean to you among all that creep: whosoever doth touch them, when
 These animals are unclean for you among all the crawling creatures. Whoever touches them when they are dead shall be unclean until evening.<small><sub>**MT:**</sub></small>
 [[Lev.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.30|<< Leviticus 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.32|Leviticus 11:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are unclean | <big><span class="asgreek">ακάθαρτά</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling things | <big><span class="asgreek">ερπετών</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling | <big><span class="asgreek">ερπόντων</span></big> <sup><small><small>[[G7508]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their decaying flesh | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| are unclean | **<big>[[G0169\|ακάθαρτά]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| from out of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| crawling things | **<big>[[G2062\|ερπετών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| crawling | **<big>[[G7508\|ερπόντων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth; | **<big>[[G1093\|γην]]</big>** |
+| every one | **<big>[[G3956\|πας]]</big>** **<big>[[G3588\|ο]]</big>** |
+| touching | **<big>[[G0680\|απτόμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their decaying flesh | **<big>[[G7681\|θνησιμαίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| will be unclean | **<big>[[G0169\|ακάθαρτος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρας]]</big>** |
 [[Lev.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.30|<< Leviticus 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.32|Leviticus 11:32 >>]]</td></tr></table>
 
 

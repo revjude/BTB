@@ -7,30 +7,30 @@ And gladness is taken away, and joy out of the plentiful field; and in the viney
 Joy and gladness are removed from the orchard; no one sings or shouts in the vineyards. No one tramples the grapes in the winepresses; I have put an end to the cheering.<small><sub>**MT:**</sub></small>
 [[Isa.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be lifted away | <big><span class="asgreek">αρθήσεται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] leap for joy | <big><span class="asgreek">αγαλλίαμα</span></big> <sup><small><small>[[G6110]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vineyards; | <big><span class="asgreek">αμπέλωνων</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your vineyards | <big><span class="asgreek">αμπελώσι</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they be glad; | <big><span class="asgreek">ευφρανθήσονται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they tread | <big><span class="asgreek">πατήσουσιν</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine-vats; | <big><span class="asgreek">υπολήνια</span></big> <sup><small><small>[[G5276]]</small></small></sup> |
-| for \[the vintage\] has been ceased. | <big><span class="asgreek">πέπαυται</span></big> <sup><small><small>[[G3973]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be lifted away | **<big>[[G0142\|αρθήσεται]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] leap for joy | **<big>[[G6110\|αγαλλίαμα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| vineyards; | **<big>[[G0290\|αμπέλωνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your vineyards | **<big>[[G0290\|αμπελώσι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they be glad; | **<big>[[G2165\|ευφρανθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they tread | **<big>[[G3961\|πατήσουσιν]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wine-vats; | **<big>[[G5276\|υπολήνια]]</big>** |
+| for \[the vintage\] has been ceased. | **<big>[[G3973\|πέπαυται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
 [[Isa.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 The Brook of <span class='tipnrhighlight'>Kanah</span> formed part of the border between the territories of Ephraim and Manasseh \([[Josh.16.8|Joshua 16:8]]; 17:9\).
 - A location first mentioned at [[Josh.16.8|Jos.16.8]]; 
-- only referred to as Kanah<[[H7071G]]> \(<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Kanah **<big>[[H7071|קָנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.138219,35.038971&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Brook of Kanah was a stream that served as a boundary marker between the tri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kanah | [<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7071G) <small>*Hebrew*</small> | 2x | [[Jos.16.8] & [Jos.17.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kanah\*\|reference=Jos.16.8;Jos.17.9) |
-All Strong's for **Kanah**: \[[[H7071G]]\]
+| Kanah | [<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7071G) | 2x | [[Jos.16.8] & [Jos.17.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kanah\*\|reference=Jos.16.8;Jos.17.9) |
+All entries for **Kanah**:  **<big>[[H7071|קָנָה]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֶדֶר‎</span></big> **heder** <small>*(heh'-der)*</small> ==**glory**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎הָדַר‎</span><sup><small>[[H1921]]</small></sup></small>
+**<big><span class="ashebrew">‎הֶדֶר‎</span></big>** **heder** <small>*(heh'-der)*</small> ==**glory**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1921|‎הָדַר‎]]</big>**</small>
 
 $\quad$ glory.
 - ***honour***

@@ -7,32 +7,32 @@ Zedekiah [was] twenty and one years old when he began to reign, and he reigned e
 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.<small><sub>**MT:**</sub></small>
 [[2Kgs.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.17|<< 2 Kings 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.19|2 Kings 24:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \[being\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| years \[old\] | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| Zedekiah \[was\] | <big><span class="asgreek">Σεδεκίας</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his taking reign. | <big><span class="asgreek">βασιλεύειν</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eleven | <big><span class="asgreek">ένδεκα</span></big> <sup><small><small>[[G1733]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| he reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Hamutal, | <big><span class="asgreek">Αμιτάλ</span></big> <sup><small><small>[[H2537]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jeremiah | <big><span class="asgreek">Ιερεμίου</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Libnah. | <big><span class="asgreek">Λοβεννά</span></big> <sup><small><small>[[H3841]]</small></small></sup> |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| \[being\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| years \[old\] | **<big>[[G2094\|ετών]]</big>** |
+| Zedekiah \[was\] | **<big>[[H6667\|Σεδεκίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his taking reign. | **<big>[[G0936\|βασιλεύειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| eleven | **<big>[[G1733\|ένδεκα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| he reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his mother | **<big>[[G3384\|μητρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] Hamutal, | **<big>[[H2537\|Αμιτάλ]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Jeremiah | **<big>[[G2408\|Ιερεμίου]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| Libnah. | **<big>[[H3841\|Λοβεννά]]</big>** |
 [[2Kgs.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.17|<< 2 Kings 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.19|2 Kings 24:19 >>]]</td></tr></table>
 
 

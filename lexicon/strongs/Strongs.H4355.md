@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָכַךְ‎</span></big> **mâkak** <small>*(maw-kak')*</small> ==**to sink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָכַךְ‎</span></big>** **mâkak** <small>*(maw-kak')*</small> ==**to sink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be brought low, decay.

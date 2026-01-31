@@ -4,7 +4,7 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Phicol</span>, the commander of the army of Abimelech, the Philistine king of Gerar, who accompanied Abimelech in making treaties with Abraham and Isaac.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.21.22|Gen.21.22]]; 
-- only referred to as Phicol<[[H6369]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>יכ</span>ֹ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Phicol **<big>[[H6369|פִּיכֹל]]</big>**.
 
 Phicol was the commander of the army of Abimelech, the Philistine king of Gerar. He is mentioned twice in the book of Genesis, both times in the context of treaties made between Abimelech and the patriarchs. 
 
@@ -16,5 +16,5 @@ Phicol's presence in these narratives suggests that he was a trusted official in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Phicol (KJV= Phichol) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>יכ</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H6369) <small>*Hebrew*</small> | 3x | [[Gen.21.22] ... [Gen.26.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phicol\*\|reference=Gen.21.22;Gen.21.32;Gen.26.26) |
-All Strong's for **Phicol**: \[[[H6369]]\]
+| Phicol (KJV= Phichol) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>יכ</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H6369) | 3x | [[Gen.21.22] ... [Gen.26.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phicol\*\|reference=Gen.21.22;Gen.21.32;Gen.26.26) |
+All entries for **Phicol**:  **<big>[[H6369|פִּיכֹל]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹרָה‎</span></big> **Yôwrâh** <small>*(yo-raw')*</small> ==**Jorah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָרָה‎</span><sup><small>[[H3384]]</small></sup>; rainy</small>
+**<big><span class="ashebrew">‎יוֹרָה‎</span></big>** **Yôwrâh** <small>*(yo-raw')*</small> ==**Jorah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3384|‎יָרָה‎]]</big>**; rainy</small>
 
 $\quad$ Jorah.
 - § Jorah = *"he instructs"*

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Goshen</span> was a town and region in the hill country of Judah, mentioned in the accounts of Joshua's conquests \([[Josh.10.41|Joshua 10:41]]; 11:16; 15:51\).
 - A location first mentioned at [[Josh.10.41|Jos.10.41]]; 
-- only referred to as Goshen<[[H1657H]]> \(<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Goshen **<big>[[H1657|גֹּשֶׁן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.450000,34.916667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Goshen was a town and region located in the hill country of Judah, in the southe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Goshen | [<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>](H1657H) <small>*Hebrew*</small> | 3x | [[Jos.10.41] ... [Jos.15.51] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goshen\*\|reference=Jos.10.41;Jos.11.16;Jos.15.51) |
-All Strong's for **Goshen**: \[[[H1657H]]\]
+| Goshen | [<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>](H1657H) | 3x | [[Jos.10.41] ... [Jos.15.51] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goshen\*\|reference=Jos.10.41;Jos.11.16;Jos.15.51) |
+All entries for **Goshen**:  **<big>[[H1657|גֹּשֶׁן]]</big>**

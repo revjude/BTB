@@ -11,32 +11,32 @@ It grew as high as the host of heaven, and it cast down some of the host and som
 > $\quad$ referenced by: [[Rev.12.4|Rev 12:4]] ☩ [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars, | <big><span class="asgreek">άστρων</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he trampled upon | <big><span class="asgreek">συνεπάτησεν</span></big> <sup><small><small>[[G9271]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was magnified | **<big>[[G3170\|εμεγαλύνθη]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it fell | **<big>[[G4098\|έπεσεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| stars, | **<big>[[G0798\|άστρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he trampled upon | **<big>[[G9271\|συνεπάτησεν]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Dan.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.9|<< Daniel 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.11|Daniel 8:11 >>]]</td></tr></table>
 
 

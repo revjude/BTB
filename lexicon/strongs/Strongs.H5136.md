@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נוּשׁ‎</span></big> **nûwsh** <small>*(noosh)*</small> ==**be sick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נוּשׁ‎</span></big>** **nûwsh** <small>*(noosh)*</small> ==**be sick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be full of heaviness.
@@ -6,4 +6,4 @@ $\quad$ be full of heaviness.
 
 **1)** (Qal) to be sick
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ταλαιπωρία</span><sup><small>[[G5004]]</small></sup>
+<small>See Greek: </small>**<big>[[G5004|ταλαιπωρία]]</big>**

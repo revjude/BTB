@@ -7,21 +7,21 @@ At the noise of the taking of Babylon the earth is moved, and the cry is heard a
 At the sound of Babylon’s capture the earth will quake; a cry will be heard among the nations.<small><sub>**MT:**</sub></small>
 [[Jer.50.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.45|<< Jeremiah 50:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.1|Jeremiah 51:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διοτι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] conquest | <big><span class="asgreek">αλώσεως</span></big> <sup><small><small>[[G0259]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">σεισθήσεται</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| her cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| shall be heard. | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| For | **<big>[[G1360\|διοτι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] conquest | **<big>[[G0259\|αλώσεως]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| shall be shaken | **<big>[[G4579\|σεισθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| her cry | **<big>[[G2906\|κραυγή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| nations | **<big>[[G1484\|έθνεσιν]]</big>** |
+| shall be heard. | **<big>[[G0191\|ακουσθήσεται]]</big>** |
 [[Jer.50.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.45|<< Jeremiah 50:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.1|Jeremiah 51:1 >>]]</td></tr></table>
 
 

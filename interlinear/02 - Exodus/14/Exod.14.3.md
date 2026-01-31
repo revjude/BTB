@@ -6,18 +6,18 @@ For Pharaoh will say of the Israelites, ‘They are wandering the land in confus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.2|<< Exodus 14:2]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.4|Exodus 14:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he will say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמַ֤ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Mar <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹה֙ </big></span><small><small><sup>[[H6547J]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] people of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] wandering in confusion  | <span class="ashebrew"><big>נְבֻכִ֥ים </big></span><small><small><sup>[[H0943]]</sup></small></small> &#8207;| ne.vu.Khim <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֖ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the land  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has shut  | <span class="ashebrew"><big>סָגַ֥ר </big></span><small><small><sup>[[H5462]]</sup></small></small> &#8207;| sa.Gar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the wilderness  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּֽר </big></span><small><small><sup>[[H4057B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֤ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹה֙]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] wandering in confusion  |**<big>&#8207;[[H0943\|נְבֻכִ֥ים]]&#8207; </big>**| ne.vu.Khim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֖ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has shut  |**<big>&#8207;[[H5462\|סָגַ֥ר]]&#8207; </big>**| sa.Gar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wilderness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4057B\|מִּדְבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.2|<< Exodus 14:2]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.4|Exodus 14:4 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.
 When Azubah died, Caleb married Ephrath, who bore to him Hur.<small><sub>**MT:**</sub></small>
 [[1Chr.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.18|<< 1 Chronicles 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.20|1 Chronicles 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Azubah died, | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Αζουβά</span></big> <sup><small><small>[[H5806]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephrath, | <big><span class="asgreek">Εφράθ</span></big> <sup><small><small>[[H0673]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hur. | <big><span class="asgreek">Ωρ</span></big> <sup><small><small>[[H2354]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Azubah died, | **<big>[[G0599\|απέθανε]]</big>** **<big>[[H5806\|Αζουβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Ephrath, | **<big>[[H0673\|Εφράθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hur. | **<big>[[H2354\|Ωρ]]</big>** |
 [[1Chr.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.18|<< 1 Chronicles 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.20|1 Chronicles 2:20 >>]]</td></tr></table>
 
 

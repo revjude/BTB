@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ramah</span> was a fortified city located in the territory of Naphtali, mentioned in the list of cities allocated to the tribe during the division of the Promised Land.
 - A location only mentioned at [[Josh.19.36|Jos.19.36]]; 
-- only referred to as Ramah<[[H7414I]]> \(<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Ramah **<big>[[H7414|רָמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.939010,35.368123&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ramah is mentioned in the Bible as one of the fortified cities in the territory 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ramah | [<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7414I) <small>*Hebrew*</small> | 1x | [Jos.19.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramah\*\|reference=Jos.19.36) |
-All Strong's for **Ramah**: \[[[H7414I]]\]
+| Ramah | [<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7414I) | 1x | [Jos.19.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramah\*\|reference=Jos.19.36) |
+All entries for **Ramah**:  **<big>[[H7414|רָמָה]]</big>**

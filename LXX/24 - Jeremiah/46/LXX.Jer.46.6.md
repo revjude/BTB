@@ -7,27 +7,27 @@ Let not the swift flee away, nor the mighty man escape; they shall stumble, and 
 “The swift cannot flee, and the warrior cannot escape! In the north by the River Euphrates they stumble and fall.<small><sub>**MT:**</sub></small>
 [[Jer.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| flee | <big><span class="asgreek">φευγέτω</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nimble | <big><span class="asgreek">κούφος</span></big> <sup><small><small>[[G8080]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be rescued | <big><span class="asgreek">ανασωζέσθω</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] north! | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| The \[ones\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Euphrates | <big><span class="asgreek">Ευφράτην</span></big> <sup><small><small>[[G2166]]</small></small></sup> |
-| are weakened | <big><span class="asgreek">ησθένησαν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| have fallen. | <big><span class="asgreek">πεπτώκασι</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| flee | **<big>[[G5343\|φευγέτω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| nimble | **<big>[[G8080\|κούφος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| be rescued | **<big>[[G6314\|ανασωζέσθω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] north! | **<big>[[G1005\|βορράν]]</big>** |
+| The \[ones\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| river | **<big>[[G4215\|ποταμόν]]</big>** |
+| Euphrates | **<big>[[G2166\|Ευφράτην]]</big>** |
+| are weakened | **<big>[[G0770\|ησθένησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| have fallen. | **<big>[[G4098\|πεπτώκασι]]</big>** |
 [[Jer.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
 
 

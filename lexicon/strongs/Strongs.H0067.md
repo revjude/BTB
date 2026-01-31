@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָבֵל מִצְרַיִם‎</span></big> **ʼÂbêl Mitsrayim** <small>*(aw-bale' mits-rah'-yim)*</small> ==**Abel-mizraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבֵל‎</span><sup><small>[[H0058]]</small></sup> and <span class="ashebrew">‎מִצְרַיִם‎</span><sup><small>[[H4714]]</small></sup>; meadow of Egypt</small>
+**<big><span class="ashebrew">‎אָבֵל מִצְרַיִם‎</span></big>** **ʼÂbêl Mitsrayim** <small>*(aw-bale' mits-rah'-yim)*</small> ==**Abel-mizraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0058|‎אָבֵל‎]]</big>** and **<big>[[H4714|‎מִצְרַיִם‎]]</big>**; meadow of Egypt</small>
 
 $\quad$ Abel-mizraim.
 - § Abel Mizraim = *"meadow of Egypt"*

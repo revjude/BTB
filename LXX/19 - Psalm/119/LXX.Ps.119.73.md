@@ -7,21 +7,21 @@ JOD. Thy hands have made me and fashioned me: give me understanding, that I may 
 Your hands have made me and fashioned me; give me understanding to learn Your commandments.<small><sub>**MT:**</sub></small>
 [[Ps.119.73|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.72|<< Psalm 119:72]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.74|Psalm 119:74 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your hands | <big><span class="asgreek">χείρές</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησάν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shaped | <big><span class="asgreek">έπλασάν</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Bring understanding to | <big><span class="asgreek">συνέτισόν</span></big> <sup><small><small>[[G9318]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall learn | <big><span class="asgreek">μαθήσομαι</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments. | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your hands | **<big>[[G5495\|χείρές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| made | **<big>[[G4160\|εποίησάν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shaped | **<big>[[G4111\|έπλασάν]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| Bring understanding to | **<big>[[G9318\|συνέτισόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall learn | **<big>[[G3129\|μαθήσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments. | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.73|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.72|<< Psalm 119:72]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.74|Psalm 119:74 >>]]</td></tr></table>
 
 

@@ -10,41 +10,41 @@ Summon the archers against Babylon, all who string the bow. Encamp all around he
 > $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| summon  | <span class="ashebrew"><big>הַשְׁמִ֣יעוּ </big></span><small><small><sup>[[H8085I]]</sup></small></small> &#8207;| hash.Mi.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֣ל </big></span><small><small><sup>[[H0894]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| archers  | <span class="ashebrew"><big>רַ֠בִּים </big></span><small><small><sup>[[H7228]]</sup></small></small> &#8207;| Ra.bim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] bend  | <span class="ashebrew"><big>דֹּ֨רְכֵי </big></span><small><small><sup>[[H1869]]</sup></small></small> &#8207;| Do.re.khei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> a bow  | <span class="ashebrew"><big>קֶ֜שֶׁת </big></span><small><small><sup>[[H7198]]</sup></small></small> &#8207;| Ke.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| encamp  | <span class="ashebrew"><big>חֲנ֧וּ </big></span><small><small><sup>[[H2583]]</sup></small></small> &#8207;| cha.Nu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶ֣י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִ֗יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it be - to \<the> it  [^4] | <span class="ashebrew"><big>יְהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ֙ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;[^5] | ye.hi <small><sup>[[HVqj3ms]]</sup></small> - L <small><sup>[[HRd]]</sup></small> ah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| escape  | <span class="ashebrew"><big>פְּלֵטָ֔ה </big></span><small><small><sup>[[H6413]]</sup></small></small> &#8207;| pe.le.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| repay  | <span class="ashebrew"><big>שַׁלְּמוּ </big></span><small><small><sup>[[H7999A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| sha.le.mu- <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> it  | <span class="ashebrew"><big>לָ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to deed[s] its  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>פָעֳלָ֔ </big></span><small><small><sup>[[H6467]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> fo.'o.La <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to all  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>כֹ֛ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Khol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has done  | <span class="ashebrew"><big>עָשְׂתָ֖ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.se.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do  | <span class="ashebrew"><big>עֲשׂוּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.su- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> it  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| La <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to>  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has defied proudly  | <span class="ashebrew"><big>זָ֖דָה </big></span><small><small><sup>[[H2102]]</sup></small></small> &#8207;| Za.dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to>  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [one] of  | <span class="ashebrew"><big>קְד֥וֹשׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ke.Do.osh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| summon  |**<big>&#8207;[[H8085I\|הַשְׁמִ֣יעוּ]]&#8207; </big>**| hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| archers  |**<big>&#8207;[[H7228\|רַ֠בִּים]]&#8207; </big>**| Ra.bim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] bend  |**<big>&#8207;[[H1869\|דֹּ֨רְכֵי]]&#8207; </big>**| Do.re.khei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> a bow  |**<big>&#8207;[[H7198\|קֶ֜שֶׁת]]&#8207; </big>**| Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| encamp  |**<big>&#8207;[[H2583\|חֲנ֧וּ]]&#8207; </big>**| cha.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶ֣י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִ֗יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it be - to \<the> it  [^4]|**<big>&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**[^5] | ye.hi<small><sup>[[HVqj3ms]]</sup></small> - L<small><sup>[[HRd]]</sup></small> ah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| escape  |**<big>&#8207;[[H6413\|פְּלֵטָ֔ה]]&#8207; </big>**| pe.le.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| repay  |**<big>&#8207;[[H7999A\|שַׁלְּמוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.le.mu-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> it  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to deed[s] its  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6467\|פָעֳלָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> fo.'o.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כֹ֛ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has done  |**<big>&#8207;[[H6213A\|עָשְׂתָ֖ה]]&#8207; </big>**| 'a.se.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do  |**<big>&#8207;[[H6213A\|עֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.su-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> it  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has defied proudly  |**<big>&#8207;[[H2102\|זָ֖דָה]]&#8207; </big>**| Za.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one] of  |**<big>&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 
-[^1]: ==K==: **it be ** | <small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span>  | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^2]: ==K==: **it be ** | <small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span>  | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^3]: ==K==: **it be ** | <small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span>  | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^4]: ==K==: **it be ** | <small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span>  | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
+[^1]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
+[^2]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
+[^3]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
+[^4]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
 [^5]: ==L== spelled: **<span class="ashebrew"><big>יְהִיָ֙\־</big></span>**
 

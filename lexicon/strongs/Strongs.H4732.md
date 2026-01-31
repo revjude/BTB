@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִקְלוֹת‎</span></big> **Miqlôwth** <small>*(mik-lohth')*</small> ==**Mikloth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(or perhaps mik-kel-ohth') plural of (feminine) <span class="ashebrew">‎מַקֵּל‎</span><sup><small>[[H4731]]</small></sup>; rods</small>
+**<big><span class="ashebrew">‎מִקְלוֹת‎</span></big>** **Miqlôwth** <small>*(mik-lohth')*</small> ==**Mikloth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(or perhaps mik-kel-ohth') plural of (feminine) **<big>[[H4731|‎מַקֵּל‎]]</big>**; rods</small>
 
 $\quad$ Mikloth.
 - § Mikloth = *"staves"*

@@ -7,25 +7,25 @@ And thou shalt offer them before the LORD, and the priests shall cast salt upon 
 You must present them before the LORD; the priests are to sprinkle salt on them and sacrifice them as a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
 [[Ezek.43.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.23|<< Ezekiel 43:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.25|Ezekiel 43:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall offer \[them\] | <big><span class="asgreek">προσοίσετε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cast | <big><span class="asgreek">επιρρίψουσιν</span></big> <sup><small><small>[[G1977]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| salt | <big><span class="asgreek">άλα</span></big> <sup><small><small>[[G0217]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall offer | <big><span class="asgreek">ανοίσουσιν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as\] whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall offer \[them\] | **<big>[[G4374\|προσοίσετε]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall cast | **<big>[[G1977\|επιρρίψουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| salt | **<big>[[G0217\|άλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall offer | **<big>[[G0399\|ανοίσουσιν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| \[as\] whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Ezek.43.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.23|<< Ezekiel 43:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.25|Ezekiel 43:25 >>]]</td></tr></table>
 
 

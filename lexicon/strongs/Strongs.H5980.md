@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻמָּה‎</span></big> **ʻummâh** <small>*(oom-maw')*</small> ==**close**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַם‎</span><sup><small>[[H6004]]</small></sup></small>
+**<big><span class="ashebrew">‎עֻמָּה‎</span></big>** **ʻummâh** <small>*(oom-maw')*</small> ==**close**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6004|‎עָמַם‎]]</big>**</small>
 
 $\quad$ (over) against, at, beside, hard by, in points.
 - conjunction, i.e. ***society***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּדְהָר‎</span></big> **tidhâr** <small>*(tid-hawr')*</small> ==**elm**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎דָּהַר‎</span><sup><small>[[H1725]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּדְהָר‎</span></big>** **tidhâr** <small>*(tid-hawr')*</small> ==**elm**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>apparently from **<big>[[H1725|‎דָּהַר‎]]</big>**</small>
 
 $\quad$ pine (tree).
 - ***enduring***

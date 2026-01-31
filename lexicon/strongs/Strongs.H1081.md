@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּלְאֲדָן‎</span></big> **Balʼădân** <small>*(bal-ad-awn')*</small> ==**Baladan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בֵּל‎</span><sup><small>[[H1078]]</small></sup> and <span class="ashebrew">‎אָדוֹן‎</span><sup><small>[[H0113]]</small></sup> (contracted); Bel (is his) lord</small>
+**<big><span class="ashebrew">‎בַּלְאֲדָן‎</span></big>** **Balʼădân** <small>*(bal-ad-awn')*</small> ==**Baladan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1078|‎בֵּל‎]]</big>** and **<big>[[H0113|‎אָדוֹן‎]]</big>** (contracted); Bel (is his) lord</small>
 
 $\quad$ Baladan.
 - § Baladan = *"Bel (is his) lord)"*

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שֶׁבַע‎</span></big> **shebaʻ** <small>*(sheh'-bah)*</small> ==**seven**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>or (masculine) (<span class="ashebrew">שִׁבְעָה</span> **shibʻâh** <small>*(shibaw')*</small>); from <span class="ashebrew">‎שָׁבַע‎</span><sup><small>[[H7650]]</small></sup>; a primitive cardinal number</small>
+**<big><span class="ashebrew">‎שֶׁבַע‎</span></big>** **shebaʻ** <small>*(sheh'-bah)*</small> ==**seven**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>or (masculine) (**<big><span class="ashebrew">שִׁבְעָה</span></big>** **shibʻâh** <small>*(shibaw')*</small>); from **<big>[[H7650|‎שָׁבַע‎]]</big>**; a primitive cardinal number</small>
 
-$\quad$ ([phrase] by) seven(-fold),-s, (-teen, -teenth), -th, times). Compare <span class="ashebrew">‎שִׁבְעָנָה‎</span><sup><small>[[H7658]]</small></sup>.
+$\quad$ ([phrase] by) seven(-fold),-s, (-teen, -teenth), -th, times). Compare **<big>[[H7658|‎שִׁבְעָנָה‎]]</big>**.
 - ***seven*** (as the sacred full one)
 -  also (adverbially) ***seven times***
 -  by implication, ***a week***

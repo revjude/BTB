@@ -7,39 +7,39 @@ Because thy rage against me, and thy tumult, is come up into mine ears, therefor
 Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’<small><sub>**MT:**</sub></small>
 [[Isa.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.28|<< Isaiah 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.30|Isaiah 37:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you were enraged. | <big><span class="asgreek">εθυμώθης</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bitterness | <big><span class="asgreek">πικρία</span></big> <sup><small><small>[[G4088]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">εμβαλώ</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| a rein | <big><span class="asgreek">φιμόν</span></big> <sup><small><small>[[G9643]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your nose, | <big><span class="asgreek">ρινά</span></big> <sup><small><small>[[G9027]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a bit | <big><span class="asgreek">χαλινόν</span></big> <sup><small><small>[[G5469]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lips, | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you came | <big><span class="asgreek">ήλθες</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| your rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| you were enraged. | **<big>[[G2373\|εθυμώθης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your bitterness | **<big>[[G4088\|πικρία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1685\|εμβαλώ]]</big>** |
+| a rein | **<big>[[G9643\|φιμόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your nose, | **<big>[[G9027\|ρινά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a bit | **<big>[[G5469\|χαλινόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your lips, | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| you came | **<big>[[G2064\|ήλθες]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Isa.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.28|<< Isaiah 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.30|Isaiah 37:30 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ Strangers shall submit themselves unto me: as soon as they hear, they shall be o
 Foreigners cower before me; when they hear me, they obey me.<small><sub>**MT:**</sub></small>
 [[2Sam.22.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.44|<< 2 Samuel 22:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.46|2 Samuel 22:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a hearing | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| ear | <big><span class="asgreek">ωτίου</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
-| it obeyed | <big><span class="asgreek">υπήκουσέ</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Alien | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| lied | <big><span class="asgreek">εψεύσαντό</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| With | **<big>[[G1519\|εις]]</big>** |
+| a hearing | **<big>[[G0189\|ακοήν]]</big>** |
+| ear | **<big>[[G5621\|ωτίου]]</big>** |
+| it obeyed | **<big>[[G5219\|υπήκουσέ]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| Alien | **<big>[[G0245\|αλλότριοι]]</big>** |
+| lied | **<big>[[G5574\|εψεύσαντό]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
 [[2Sam.22.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.44|<< 2 Samuel 22:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.46|2 Samuel 22:46 >>]]</td></tr></table>
 
 

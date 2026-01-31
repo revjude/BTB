@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִלְקִיָּה‎</span></big> **Chilqîyâh** <small>*(khil-kee-yaw')*</small> ==**Hilkiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חִלְקִיָּהוּ</span> **Chilqîyâhûw** <small>*(khil-kee-yaw'-hoo)*</small>; from <span class="ashebrew">‎חֵלֶק‎</span><sup><small>[[H2506]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; portion of Jah</small>
+**<big><span class="ashebrew">‎חִלְקִיָּה‎</span></big>** **Chilqîyâh** <small>*(khil-kee-yaw')*</small> ==**Hilkiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חִלְקִיָּהוּ</span></big>** **Chilqîyâhûw** <small>*(khil-kee-yaw'-hoo)*</small>; from **<big>[[H2506|‎חֵלֶק‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; portion of Jah</small>
 
 $\quad$ Hillkiah.
 - § Hilkiah = *"my portion is Jehovah"*

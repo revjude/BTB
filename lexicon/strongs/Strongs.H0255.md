@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֹחַ‎</span></big> **ʼôach** <small>*(o'-akh)*</small> ==**howling animal**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎אָח‎</span><sup><small>[[H0253]]</small></sup></small>
+**<big><span class="ashebrew">‎אֹחַ‎</span></big>** **ʼôach** <small>*(o'-akh)*</small> ==**howling animal**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H0253|‎אָח‎]]</big>**</small>
 
 $\quad$ doleful creature.
 - ***a howler*** or ***lonesome wild animal***
@@ -8,4 +8,4 @@ $\quad$ doleful creature.
 $\quad$ **1a)** jackal
 $\quad$ **1b)** hyena
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἦχος</span><sup><small>[[G2279]]</small></sup>
+<small>See Greek: </small>**<big>[[G2279|ἦχος]]</big>**

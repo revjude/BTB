@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שָׁמִיר‎</span></big> **Shâmîyr** <small>*(shaw-meer')*</small> ==**Shamir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שָׁמִיר‎</span><sup><small>[[H8068]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁמִיר‎</span></big>** **Shâmîyr** <small>*(shaw-meer')*</small> ==**Shamir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H8068|‎שָׁמִיר‎]]</big>**</small>
 
-$\quad$ Shamir. Compare <span class="ashebrew">‎שָׁמוּר‎</span><sup><small>[[H8053]]</small></sup>.
+$\quad$ Shamir. Compare **<big>[[H8053|‎שָׁמוּר‎]]</big>**.
 - § Shamir = *"a point" or "thorn"*
 - ***Shamir***, the name of two places in Palestine
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gath-rimmon</span>, a Levitical city, was allotted to the Kohathite Levites within the territories of Dan and Manasseh.
 - A location first mentioned at [[Josh.19.45|Jos.19.45]]; 
-- only referred to as Gath-rimmon<[[H1667G]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Gath-rimmon **<big>[[H1667|גַּת־רִמּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.06972222222223,34.88305555555556&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The name Gath-rimmon is composed of two elements: "Gath," meaning "winepress," a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gath-rimmon (NIV= Gath Rimmon) | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1667G) <small>*Hebrew*</small> | 3x | [[Jos.19.45] ... [1Ch.6.69] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gath\*\|reference=Jos.19.45;Jos.21.24;1Ch.6.69) |
-All Strong's for **Gath-rimmon**: \[[[H1667G]]\]
+| Gath-rimmon (NIV= Gath Rimmon) | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1667G) | 3x | [[Jos.19.45] ... [1Ch.6.69] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gath\*\|reference=Jos.19.45;Jos.21.24;1Ch.6.69) |
+All entries for **Gath-rimmon**:  **<big>[[H1667|גַּת־רִמּוֹן]]</big>**

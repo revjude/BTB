@@ -7,17 +7,17 @@ Lay not wait, O wicked [man], against the dwelling of the righteous; spoil not h
 Do not lie in wait, O wicked man, near the dwelling of the righteous; do not destroy his resting place.<small><sub>**MT:**</sub></small>
 [[Prov.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.14|<< Proverbs 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.16|Proverbs 24:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| lead | <big><span class="asgreek">προσαγάγης</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \[the\] impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| to \[the\] pasture | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| of \[the\] just; | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| should you be deceived | <big><span class="asgreek">απατηθής</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
-| in filling | <big><span class="asgreek">χορτασία</span></big> <sup><small><small>[[G9751]]</small></small></sup> |
-| \[the\] belly. | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| lead | **<big>[[G4317\|προσαγάγης]]</big>** |
+| \[the\] impious | **<big>[[G0765\|ασεβή]]</big>** |
+| to \[the\] pasture | **<big>[[G3542\|νομή]]</big>** |
+| of \[the\] just; | **<big>[[G1342\|δικαίων]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| should you be deceived | **<big>[[G0538\|απατηθής]]</big>** |
+| in filling | **<big>[[G9751\|χορτασία]]</big>** |
+| \[the\] belly. | **<big>[[G2836\|κοιλίας]]</big>** |
 [[Prov.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.14|<< Proverbs 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.16|Proverbs 24:16 >>]]</td></tr></table>
 
 

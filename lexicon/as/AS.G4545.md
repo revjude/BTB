@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Σαμουήλ</span></span>, <span class="asgreek">ὁ </span> indecl. </span> <span class="asetym">  <span class="asderivation">(in FlJ, <span class="asgreek">Σαμούηλος</span>; <span class="asitalic">Heb.</span> <span class="ashebrew">שְׁמוּאֵל</span> <small><sup>[[H8050]]</sup></small>), </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Σαμουήλ</span></span>, <span class="asgreek">ὁ </span> indecl. </span> <span class="asetym">  <span class="asderivation">(in FlJ, <span class="asgreek">Σαμούηλος</span>; <span class="asitalic">Heb.</span> **<big>[[H8050|שְׁמוּאֵל]]</big>**), </span> </span>
 <span class="asitalic">Samuel</span> ([[LXX.1Sam.1.20|I Ki 1:20]], al.): [[Acts.3.24|Ac 3:24]] [[Acts.13.20|13:20]], [[Heb.11.32|He 11:32]].†
 
 **Abbott-Smith References**

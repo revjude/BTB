@@ -7,26 +7,26 @@ Their meat offering and their drink offerings for the bullocks, for the rams, an
 along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed.<small><sub>**MT:**</sub></small>
 [[Num.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.23|<< Numbers 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.25|Numbers 29:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sacrifice \[offerings\], | <big><span class="asgreek">θυσίαι</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their libations | <big><span class="asgreek">σπονδαί</span></big> <sup><small><small>[[G9145]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχοις</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριοίς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lambs, | <big><span class="asgreek">αμνοίς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their number, | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their interpretation, | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their sacrifice \[offerings\], | **<big>[[G2378\|θυσίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their libations | **<big>[[G9145\|σπονδαί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| calves, | **<big>[[G3448\|μόσχοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| rams, | **<big>[[G8096\|κριοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| lambs, | **<big>[[G0286\|αμνοίς]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their number, | **<big>[[G0706\|αριθμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their interpretation, | **<big>[[G9241\|σύγκρισιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.23|<< Numbers 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.25|Numbers 29:25 >>]]</td></tr></table>
 
 

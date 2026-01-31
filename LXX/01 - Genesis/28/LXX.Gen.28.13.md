@@ -7,41 +7,41 @@ And, behold, the LORD stood above it, and said, I [am] the LORD God of Abraham t
 And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie.<small><sub>**MT:**</sub></small>
 [[Gen.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.12|<< Genesis 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.14|Genesis 28:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| stayed | <big><span class="asgreek">επεστήρικτο</span></big> <sup><small><small>[[G1991]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Isaac. | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sleep | <big><span class="asgreek">καθεύδεις</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed. | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| stayed | **<big>[[G1991\|επεστήρικτο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Isaac. | **<big>[[G2464\|Ισαάκ]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φοβού]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| sleep | **<big>[[G2518\|καθεύδεις]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed. | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.12|<< Genesis 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.14|Genesis 28:14 >>]]</td></tr></table>
 
 

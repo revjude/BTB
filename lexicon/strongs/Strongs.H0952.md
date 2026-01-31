@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בּוּר‎</span></big> **bûwr** <small>*(boor)*</small> ==**to explain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בּוּר‎</span></big>** **bûwr** <small>*(boor)*</small> ==**to explain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ declare.

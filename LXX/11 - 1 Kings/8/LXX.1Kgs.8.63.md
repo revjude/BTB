@@ -7,44 +7,44 @@ And Solomon offered a sacrifice of peace offerings, which he offered unto the LO
 And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep. So the king and all the Israelites dedicated the house of the LORD.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.62|<< 1 Kings 8:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.64|1 Kings 8:64 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrificed | <big><span class="asgreek">έθυσεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peace \[offerings\] | <big><span class="asgreek">ειρηνικών</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sacrificed | <big><span class="asgreek">έθυσε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dedicated | <big><span class="asgreek">ενεκαίνισε</span></big> <sup><small><small>[[G1457]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sacrificed | **<big>[[G2380\|έθυσεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sacrifices | **<big>[[G2378\|θυσίας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peace \[offerings\] | **<big>[[G1516\|ειρηνικών]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| he sacrificed | **<big>[[G2380\|έθυσε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίω]]</big>** |
+| oxen | **<big>[[G1016\|βοών]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep | **<big>[[G4263\|προβάτων]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| dedicated | **<big>[[G1457\|ενεκαίνισε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[with\] all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Kgs.8.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.62|<< 1 Kings 8:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.64|1 Kings 8:64 >>]]</td></tr></table>
 
 

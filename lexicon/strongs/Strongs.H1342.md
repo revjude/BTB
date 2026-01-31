@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּאָה‎</span></big> **gâʼâh** <small>*(gaw-aw')*</small> ==**to rise up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּאָה‎</span></big>** **gâʼâh** <small>*(gaw-aw')*</small> ==**to rise up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gloriously, grow up, increase, be risen, triumph.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** to rise up
 $\quad$ $\quad$ **1a2)** to grow up
 $\quad$ $\quad$ **1a3)** to be lifted up, be raised up, be exalted
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγρεύω</span><sup><small>[[G0064]]</small></sup> · <span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup>
+<small>See Greek: </small>**<big>[[G0064|ἀγρεύω]]</big>** · **<big>[[G1392|δοξάζω]]</big>**

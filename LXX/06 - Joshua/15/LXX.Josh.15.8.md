@@ -7,48 +7,48 @@ And the border went up by the valley of the son of Hinnom unto the south side of
 From there the border went up the Valley of Ben-hinnom along the southern slope of the Jebusites (that is, Jerusalem) and ascended to the top of the hill that faces the Valley of Hinnom on the west, at the northern end of the Valley of Rephaim.<small><sub>**MT:**</sub></small>
 [[Josh.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.7|<< Joshua 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.9|Joshua 15:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβαίνει</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hinnom | <big><span class="asgreek">Εννόμ</span></big> <sup><small><small>[[H2011]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jebus | <big><span class="asgreek">Ιεβούς</span></big> <sup><small><small>[[H2982]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] south, | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pass out | <big><span class="asgreek">διεκβάλλει</span></big> <sup><small><small>[[G6913]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of \[the\] mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] ravine | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Hinnom | <big><span class="asgreek">Εννόμ</span></big> <sup><small><small>[[H2011]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] west, | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Rephaim | <big><span class="asgreek">Ραφαϊμ</span></big> <sup><small><small>[[H7497b]]</small></small></sup> |
-| towards | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascend | **<big>[[G0305\|αναβαίνει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| of \[the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hinnom | **<big>[[H2011\|Εννόμ]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] back | **<big>[[G3577\|νώτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jebus | **<big>[[H2982\|Ιεβούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] south, | **<big>[[G3047\|λιβός]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| pass out | **<big>[[G6913\|διεκβάλλει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] top | **<big>[[G8073\|κορυφήν]]</big>** |
+| of \[the\] mountain | **<big>[[G3735\|όρους]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] ravine | **<big>[[G5327\|φάραγγος]]</big>** |
+| of Hinnom | **<big>[[H2011\|Εννόμ]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] west, | **<big>[[G2281\|θαλάσση]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| part | **<big>[[G3313\|μέρους]]</big>** |
+| of \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Rephaim | **<big>[[H7497b\|Ραφαϊμ]]</big>** |
+| towards | **<big>[[G1909\|επί]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορρά]]</big>** |
 [[Josh.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.7|<< Joshua 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.9|Joshua 15:9 >>]]</td></tr></table>
 
 

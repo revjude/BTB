@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִם‎</span></big> **ʻim** <small>*(eem)*</small> ==**with**==  <sup><small>[[TEHMC#H:Prep|H:Prep]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַם‎</span><sup><small>[[H6004]]</small></sup></small>
+**<big><span class="ashebrew">‎עִם‎</span></big>** **ʻim** <small>*(eem)*</small> ==**with**==  <sup><small>[[TEHMC#H:Prep|H:Prep]]</small></sup> 
+<small>from **<big>[[H6004|‎עָמַם‎]]</big>**</small>
 
 $\quad$ accompanying, against, and, as ([idiom] long as), before, beside, by (reason of), for all, from (among, between), in, like, more than, of, (un-) to, with(-al).
 - adverb or preposition, ***with*** (i.e. in conjunction with), in varied applications
@@ -14,4 +14,4 @@ $\quad$ **1d)** as long as
 $\quad$ **1e)** beside, except
 $\quad$ **1f)** in spite of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">μετά</span><sup><small>[[G3326]]</small></sup> · <span class="asgreek">ὀπίσω</span><sup><small>[[G3694]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup>
+<small>See Greek: </small>**<big>[[G2192|ἔχω]]</big>** · **<big>[[G3326|μετά]]</big>** · **<big>[[G3694|ὀπίσω]]</big>** · **<big>[[G4133|πλήν]]</big>**

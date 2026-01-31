@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּרַע‎</span></big> **kâraʻ** <small>*(kaw-rah')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּרַע‎</span></big>** **kâraʻ** <small>*(kaw-rah')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bow (down, self), bring down (low), cast down, couch, fall, feeble, kneeling, sink, smite (stoop) down, subdue, [idiom] very.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a3)** to bow down over
 $\quad$ $\quad$ **1a4)** to tilt, lean
 $\quad$ **1b)** (Hiphil) to cause to bow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδυνατέω</span><sup><small>[[G0101]]</small></sup> · <span class="asgreek">ἀναπίπτω</span><sup><small>[[G0377]]</small></sup> · <span class="asgreek">ἐκτρέφω</span><sup><small>[[G1625]]</small></sup> · <span class="asgreek">ἐμπίπτω</span><sup><small>[[G1706]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup> · <span class="asgreek">κάμπτω</span><sup><small>[[G2578]]</small></sup> · <span class="asgreek">κατακλίνω</span><sup><small>[[G2625]]</small></sup> · <span class="asgreek">κλαίω</span><sup><small>[[G2799]]</small></sup> · <span class="asgreek">κλίνω</span><sup><small>[[G2827]]</small></sup> · <span class="asgreek">πίπτω</span><sup><small>[[G4098]]</small></sup> · <span class="asgreek">προσκυνέω</span><sup><small>[[G4352]]</small></sup> · <span class="asgreek">προσπίπτω</span><sup><small>[[G4363]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup> · <span class="asgreek">ταραχή</span><sup><small>[[G5016]]</small></sup>
+<small>See Greek: </small>**<big>[[G0101|ἀδυνατέω]]</big>** · **<big>[[G0377|ἀναπίπτω]]</big>** · **<big>[[G1625|ἐκτρέφω]]</big>** · **<big>[[G1706|ἐμπίπτω]]</big>** · **<big>[[G2480|ἰσχύω]]</big>** · **<big>[[G2578|κάμπτω]]</big>** · **<big>[[G2625|κατακλίνω]]</big>** · **<big>[[G2799|κλαίω]]</big>** · **<big>[[G2827|κλίνω]]</big>** · **<big>[[G4098|πίπτω]]</big>** · **<big>[[G4352|προσκυνέω]]</big>** · **<big>[[G4363|προσπίπτω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>** · **<big>[[G5015|ταράσσω]]</big>** · **<big>[[G5016|ταραχή]]</big>**

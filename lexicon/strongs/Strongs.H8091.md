@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁמָע‎</span></big> **Shâmâʻ** <small>*(shaw-maw')*</small> ==**Shama**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup>; obedient</small>
+**<big><span class="ashebrew">‎שָׁמָע‎</span></big>** **Shâmâʻ** <small>*(shaw-maw')*</small> ==**Shama**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8085|‎שָׁמַע‎]]</big>**; obedient</small>
 
 $\quad$ Shama.
 - § Shama = *"obedient"*

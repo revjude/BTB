@@ -7,18 +7,18 @@ But murmured in their tents, [and] hearkened not unto the voice of the LORD.
 They grumbled in their tents and did not listen to the voice of the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.106.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.24|<< Psalm 106:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.26|Psalm 106:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they grumbled | <big><span class="asgreek">εγόγγυσαν</span></big> <sup><small><small>[[G1111]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tents; | <big><span class="asgreek">σκηνώμασιν</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισήκουσαν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they grumbled | **<big>[[G1111\|εγόγγυσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their tents; | **<big>[[G4638\|σκηνώμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| listen to | **<big>[[G1522\|εισήκουσαν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ps.106.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.24|<< Psalm 106:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.26|Psalm 106:26 >>]]</td></tr></table>
 
 

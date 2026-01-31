@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἄνωθεν‎</span></big> **ánōthen** <small>*(an'-o-then)*</small> ==**from above/again**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
-<small>from <span class="asgreek">ἄνω</span><sup><small>[[G0507]]</small></sup></small>
+**<big><span class="asgreek">‎ἄνωθεν‎</span></big>** **ánōthen** <small>*(an'-o-then)*</small> ==**from above/again**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
+<small>from **<big>[[G0507|‎ἄνω‎]]</big>**</small>
 
 $\quad$ from above, again, from the beginning (very first), the top.
 - from above

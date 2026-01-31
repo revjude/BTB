@@ -10,15 +10,15 @@ So I swore on oath in My anger, “They shall never enter My rest.”
 > $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.3.18|Heb 3:18]] ☩ [[Heb.4.3|Heb 4:3]] ☩ [[Heb.4.10|Heb 4:10]] ☩ [[Heb.4.5|Heb 4:5]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I swore an oath  | <span class="ashebrew"><big>נִשְׁבַּ֥עְתִּי </big></span><small><small><sup>[[H7650]]</sup></small></small> &#8207;| nish.Ba'.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in anger my  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אַפִּ֑ </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'a.P <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will go !  | <span class="ashebrew"><big>יְ֝בֹא֗וּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ye.vo.'U <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rest my  | <span class="ashebrew"><big>מְנוּחָתִֽ </big></span><small><small><sup>[[H4496H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.nu.cha.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I swore an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּ֥עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in anger my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0639G\|אַפִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will go !  |**<big>&#8207;[[H0935G\|יְ֝בֹא֗וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.vo.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rest my  |**<big>&#8207;[[H4496H\|מְנוּחָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.nu.cha.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.10|<< Psalms 95:10]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.1|Psalms 96:1 >>]]</td></tr></table>
 
 

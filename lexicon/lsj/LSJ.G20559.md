@@ -1,4 +1,4 @@
-spelling of: <small>[[G6046]]</small> 
+spelling of: <small>**<big>[[G6046|καταβαρύνω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==καταβαρύνω==</span>-<span class='asgreek'>ύνω</span></b>, 

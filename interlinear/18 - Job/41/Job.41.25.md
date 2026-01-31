@@ -6,13 +6,13 @@ When Leviathan rises up, the mighty are terrified; they withdraw before his thra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.24|<< Job 41:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.26|Job 41:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from uprising its  | <span class="ashebrew"><big>מִ֭ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שֵּׂת </big></span><small><small><sup>[[H7613]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> se.t <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are afraid  | <span class="ashebrew"><big>יָג֣וּרוּ </big></span><small><small><sup>[[H1481C]]</sup></small></small> &#8207;| ya.Gu.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty ones  | <span class="ashebrew"><big>אֵלִ֑ים </big></span><small><small><sup>[[H0410K]]</sup></small></small> &#8207;| 'e.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from crashing\<s>  | <span class="ashebrew"><big>מִ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שְּׁבָרִ֗ים </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> she.va.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are bewildered  | <span class="ashebrew"><big>יִתְחַטָּֽאוּ </big></span><small><small><sup>[[H2398]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yit.cha.Ta.'u <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from uprising its  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H7613\|שֵּׂת]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> se.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are afraid  |**<big>&#8207;[[H1481C\|יָג֣וּרוּ]]&#8207; </big>**| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty ones  |**<big>&#8207;[[H0410K\|אֵלִ֑ים]]&#8207; </big>**| 'e.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from crashing\<s>  |**<big>&#8207;[[H9006\|מִ֝]]&#8207;&#8207;[[H7667\|שְּׁבָרִ֗ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are bewildered  |**<big>&#8207;[[H2398\|יִתְחַטָּֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.cha.Ta.'u<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.24|<< Job 41:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.26|Job 41:26 >>]]</td></tr></table>
 
 

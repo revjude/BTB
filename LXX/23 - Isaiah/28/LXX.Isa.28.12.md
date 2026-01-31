@@ -11,23 +11,23 @@ to whom He has said: “This is the place of rest, let the weary rest; this is t
 > $\quad$ referenced by: [[1Cor.14.21|1Cor 14:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">ανάπαυμα</span></big> <sup><small><small>[[G6299]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one hungering, | <big><span class="asgreek">πεινώντι</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destruction; | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησαν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| to hear. | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| to it, | **<big>[[G1473\|αυτώ]]</big>** |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| rest | **<big>[[G6299\|ανάπαυμα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one hungering, | **<big>[[G3983\|πεινώντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| destruction; | **<big>[[G4938\|σύντριμμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησαν]]</big>** |
+| to hear. | **<big>[[G0191\|ακούειν]]</big>** |
 [[Isa.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.11|<< Isaiah 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.13|Isaiah 28:13 >>]]</td></tr></table>
 
 

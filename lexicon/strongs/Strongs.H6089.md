@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶצֶב‎</span></big> **ʻetseb** <small>*(eh'-tseb)*</small> ==**toil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָצַב‎</span><sup><small>[[H6087]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶצֶב‎</span></big>** **ʻetseb** <small>*(eh'-tseb)*</small> ==**toil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6087|‎עָצַב‎]]</big>**</small>
 
 $\quad$ grievous, idol, labor, sorrow.
 - ***an earthen vessel***
@@ -13,4 +13,4 @@ $\quad$ **1c)** toil, hardship
 **2)** vessel, creation, object
 **3)** (TWOT) idol
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λύπη</span><sup><small>[[G3077]]</small></sup> · <span class="asgreek">μεριμνάω</span><sup><small>[[G3309]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">πόνος</span><sup><small>[[G4192]]</small></sup>
+<small>See Greek: </small>**<big>[[G3077|λύπη]]</big>** · **<big>[[G3309|μεριμνάω]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G4192|πόνος]]</big>**

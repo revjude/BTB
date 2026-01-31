@@ -1,5 +1,3 @@
-<span class="ashebrew">‎דַּלְפוֹן‎</span> <small>***(dal.phon)***</small> ==**Dalphon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Exile and Return, only mentioned at [[Esth.9.7|Est.9.7]]
--  son of: Haman ([[H2001]])
--  brother of: Parshandatha ([[H6577]]), Aspatha ([[H0630]]), Poratha ([[H6334]]), Adalia ([[H0118]]), Aridatha ([[H0743]]), Parmashta ([[H6534]]), Arisai ([[H0747]]), Aridai ([[H0742]]) and Vaizatha ([[H2055]])
-
+-  son of: Haman (**<big>[[H2001|הָמָן]]</big>**)
+-  brother of: Parshandatha (**<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**), Aspatha (**<big>[[H0630|אַסְפָּתָא]]</big>**), Poratha (**<big>[[H6334|פּוֹרָתָא]]</big>**), Adalia (**<big>[[H0118|אֲדַלְיָא]]</big>**), Aridatha (**<big>[[H0743|אֲרִידָתָא]]</big>**), Parmashta (**<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**), Arisai (**<big>[[H0747|אֲרִיסַי]]</big>**), Aridai (**<big>[[H0742|אֲרִידַי]]</big>**) and Vaizatha (**<big>[[H2055|וַיְזָתָא]]</big>**)

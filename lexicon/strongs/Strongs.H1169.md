@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎בְּעֵל‎</span></big> **bᵉʻêl** <small>*(beh-ale')*</small> ==**commander**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1167]]</small></sup></small>
+**<big><span class="asaramaic">‎בְּעֵל‎</span></big>** **bᵉʻêl** <small>*(beh-ale')*</small> ==**commander**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1167|‎בַּעַל‎]]</big>**</small>
 
 $\quad$ [phrase] chancellor.
 - {***a master***

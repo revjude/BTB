@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁמוּר‎</span></big> **Shâmûwr** <small>*(shaw-moor')*</small> ==**Shamir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>passive participle of <span class="ashebrew">‎שִׁמְצָה‎</span><sup><small>[[H8103]]</small></sup>; observed</small>
+**<big><span class="ashebrew">‎שָׁמוּר‎</span></big>** **Shâmûwr** <small>*(shaw-moor')*</small> ==**Shamir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>passive participle of **<big>[[H8103|‎שִׁמְצָה‎]]</big>**; observed</small>
 
 $\quad$ Shamir (from the margin).
 - § Shamer or Shamir = *"guardian"*

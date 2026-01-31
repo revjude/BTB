@@ -7,16 +7,16 @@ Evil pursueth sinners: but to the righteous good shall be repayed.
 Disaster pursues sinners, but prosperity is the reward of the righteous.<small><sub>**MT:**</sub></small>
 [[Prov.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.20|<< Proverbs 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.22|Proverbs 13:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ones sinning | <big><span class="asgreek">αμαρτάνοντας</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| shall pursue | <big><span class="asgreek">καταδιώξεται</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| Evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] just | <big><span class="asgreek">δικαίους</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| shall overtake | <big><span class="asgreek">καταλήψεται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| ones sinning | **<big>[[G0264\|αμαρτάνοντας]]</big>** |
+| shall pursue | **<big>[[G2614\|καταδιώξεται]]</big>** |
+| Evils | **<big>[[G2556\|κακά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| \[the\] just | **<big>[[G1342\|δικαίους]]</big>** |
+| shall overtake | **<big>[[G2638\|καταλήψεται]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
 [[Prov.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.20|<< Proverbs 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.22|Proverbs 13:22 >>]]</td></tr></table>
 
 

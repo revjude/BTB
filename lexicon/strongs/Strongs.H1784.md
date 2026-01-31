@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דִּינַי‎</span></big> **Dîynay** <small>*(dee-nah'-ee)*</small> ==**judge**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎דִּינַי‎</span></big>** **Dîynay** <small>*(dee-nah'-ee)*</small> ==**judge**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>(Aramaic) partial from uncertain primitive</small>
 
 $\quad$ Dinaite.

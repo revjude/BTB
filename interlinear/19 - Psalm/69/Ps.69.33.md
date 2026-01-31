@@ -6,17 +6,17 @@ For the LORD listens to the needy and does not despise His captive people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.32|<< Psalms 69:32]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.34|Psalms 69:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] listening  | <span class="ashebrew"><big>שֹׁמֵ֣עַ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sho.Me.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| needy [people]  | <span class="ashebrew"><big>אֶבְיוֹנִ֣ים </big></span><small><small><sup>[[H0034]]</sup></small></small> &#8207;| 'ev.yo.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prisoners his  | <span class="ashebrew"><big>אֲ֝סִירָ֗י </big></span><small><small><sup>[[H0615]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.si.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he despises  | <span class="ashebrew"><big>בָזָֽה </big></span><small><small><sup>[[H0959]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va.Zah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] listening  |**<big>&#8207;[[H8085G\|שֹׁמֵ֣עַ]]&#8207; </big>**| sho.Me.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| needy [people]  |**<big>&#8207;[[H0034\|אֶבְיוֹנִ֣ים]]&#8207; </big>**| 'ev.yo.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prisoners his  |**<big>&#8207;[[H0615\|אֲ֝סִירָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.si.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he despises  |**<big>&#8207;[[H0959\|בָזָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.Zah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.32|<< Psalms 69:32]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.34|Psalms 69:34 >>]]</td></tr></table>
 
 

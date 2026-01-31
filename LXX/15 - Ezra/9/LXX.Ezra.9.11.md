@@ -7,44 +7,44 @@ Which thou hast commanded by thy servants the prophets, saying, The land, unto w
 that You gave through Your servants the prophets, saying: ‘The land that you are entering to possess is a land polluted by the impurity of its peoples and the abominations with which they have filled it from end to end.<small><sub>**MT:**</sub></small>
 [[Ezra.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.10|<< Ezra 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.12|Ezra 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] ones which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you gave | <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισπορεύεσθε</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to be an heir | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| to it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in motion | <big><span class="asgreek">μετακινουμένη</span></big> <sup><small><small>[[G3334]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] removal | <big><span class="asgreek">μετακινήσει</span></big> <sup><small><small>[[G8296]]</small></small></sup> |
-| of \[the\] peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lands | <big><span class="asgreek">γαιών</span></big> <sup><small><small>[[G6710]]</small></small></sup> |
-| of their abominations, | <big><span class="asgreek">βδελύγμασιν</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they filled | <big><span class="asgreek">έπλησαν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their uncleannesses. | <big><span class="asgreek">ακαθαρσίαις</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] ones which | **<big>[[G3739\|ας]]</big>** |
+| you gave | **<big>[[G1325\|έδωκας]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| prophets, | **<big>[[G4396\|προφητών]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you enter | **<big>[[G1531\|εισπορεύεσθε]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| to be an heir | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| to it, | **<big>[[G1473\|αυτήν]]</big>** |
+| a land | **<big>[[G1093\|γη]]</big>** |
+| in motion | **<big>[[G3334\|μετακινουμένη]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] removal | **<big>[[G8296\|μετακινήσει]]</big>** |
+| of \[the\] peoples | **<big>[[G2992\|λαών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| lands | **<big>[[G6710\|γαιών]]</big>** |
+| of their abominations, | **<big>[[G0946\|βδελύγμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| they filled | **<big>[[G4130\|έπλησαν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| mouth | **<big>[[G4750\|στόματος]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their uncleannesses. | **<big>[[G0167\|ακαθαρσίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezra.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.10|<< Ezra 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.12|Ezra 9:12 >>]]</td></tr></table>
 
 

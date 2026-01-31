@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Kue</span>, a place from which Solomon obtained horses \(1 Kings 10:28; 2 Chronicles 1:16\).
 - A location first mentioned at 1Ki.10.28; 
-- only referred to as Kue<[[H4723A]]> \(<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Kue **<big>[[H4723|מִקְוֶה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.91802695356275,34.89153398422567&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Kue is mentioned in 1 Kings 10:28 and 2 Chronicles 1:16 as one of the places fro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kue | [<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H4723A) <small>*Hebrew*</small> | 4x | [[1Ki.10.28a] ... [2Ch.1.16b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kue\*\|reference=1Ki.10.28;1Ki.10.28;2Ch.1.16;2Ch.1.16) |
-All Strong's for **Kue**: \[[[H4723A]]\]
+| Kue | [<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H4723A) | 4x | [[1Ki.10.28a] ... [2Ch.1.16b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kue\*\|reference=1Ki.10.28;1Ki.10.28;2Ch.1.16;2Ch.1.16) |
+All entries for **Kue**:  **<big>[[H4723|מִקְוֶה]]</big>**

@@ -7,31 +7,31 @@ And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do th
 And Isaiah had replied, “This will be a sign to you from the LORD that He will do what He has promised: Would you like the shadow to go forward ten steps, or back ten steps?”<small><sub>**MT:**</sub></small>
 [[2Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.8|<< 2 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.10|2 Kings 20:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaiah said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ησαϊας</span></big> <sup><small><small>[[G2268]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sign | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall do | <big><span class="asgreek">ποίησει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he spoke. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| stairs | <big><span class="asgreek">αναβαθμούς</span></big> <sup><small><small>[[G0304]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| shall it return | <big><span class="asgreek">αναστρέψει</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| stairs. | <big><span class="asgreek">αναβαθμούς</span></big> <sup><small><small>[[G0304]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Isaiah said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2268\|Ησαϊας]]</big>** |
+| This | **<big>[[G3778\|τούτό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| sign | **<big>[[G4592\|σημείον]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall do | **<big>[[G4160\|ποίησει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he spoke. | **<big>[[G2980\|ελάλησε]]</big>** |
+| go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| shadow | **<big>[[G4639\|σκιά]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| stairs | **<big>[[G0304\|αναβαθμούς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| shall it return | **<big>[[G0390\|αναστρέψει]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| stairs. | **<big>[[G0304\|αναβαθμούς]]</big>** |
 [[2Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.8|<< 2 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.10|2 Kings 20:10 >>]]</td></tr></table>
 
 

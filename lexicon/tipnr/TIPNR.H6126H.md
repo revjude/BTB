@@ -4,7 +4,7 @@ Levite living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Akkub</span> was a Levite who served as a gatekeeper in the Temple during the post-exilic period. \([[1Chr.9.17|1Ch.9.17]]; [[Ezra.2.42|Ezr.2.42]]; [[Neh.7.45|Neh.7.45]]; 11.19; 12.25\)
 - A man from the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.17|1Ch.9.17]]; 
-- only referred to as Akkub<[[H6126H]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Akkub **<big>[[H6126|עַקּוּב]]</big>**.
 
 Akkub was a Levite who belonged to the family of gatekeepers during the post-exilic period, after the return of the Jews from Babylonian captivity. He is mentioned in several lists of Levites and Temple servants in the books of 1 Chronicles, Ezra, and Nehemiah. 
 
@@ -20,5 +20,5 @@ Akkub's repeated mention in the lists of Levites and Temple servants highlights 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Akkub | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H6126H) <small>*Hebrew*</small> | 5x | [[1Ch.9.17] ... [Neh.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akkub\*\|reference=1Ch.9.17;Ezr.2.42;Neh.7.45;Neh.11.19;Neh.12.25) |
-All Strong's for **Akkub**: \[[[H6126H]]\]
+| Akkub | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H6126H) | 5x | [[1Ch.9.17] ... [Neh.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akkub\*\|reference=1Ch.9.17;Ezr.2.42;Neh.7.45;Neh.11.19;Neh.12.25) |
+All entries for **Akkub**:  **<big>[[H6126|עַקּוּב]]</big>**

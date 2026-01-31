@@ -10,14 +10,14 @@ The stone the builders rejected has become the cornerstone.
 > $\quad$ referenced by: [[Matt.21.42|Matt 21:42]] ☩ [[Mark.12.10|Mark 12:10-11]] ☩ [[Luke.20.17|Luke 20:17]] ☩ [[Acts.4.11|Acts 4:11]] ☩ [[1Pet.2.4|1Pet 2:4]] ☩ [[1Pet.2.7|1Pet 2:7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a stone  | <span class="ashebrew"><big>אֶ֭בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] they rejected  | <span class="ashebrew"><big>מָאֲס֣וּ </big></span><small><small><sup>[[H3988A]]</sup></small></small> &#8207;| ma.'a.Su <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the builders  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בּוֹנִ֑ים </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> bo.Nim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has become  | <span class="ashebrew"><big>הָ֝יְתָ֗ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> [the] head of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֹ֣אשׁ </big></span><small><small><sup>[[H7218A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] corner  | <span class="ashebrew"><big>פִּנָּֽה </big></span><small><small><sup>[[H6438H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stone  |**<big>&#8207;[[H0068G\|אֶ֭בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] they rejected  |**<big>&#8207;[[H3988A\|מָאֲס֣וּ]]&#8207; </big>**| ma.'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the builders  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בּוֹנִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has become  |**<big>&#8207;[[H1961\|הָ֝יְתָ֗ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> [the] head of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7218A\|רֹ֣אשׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] corner  |**<big>&#8207;[[H6438H\|פִּנָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.21|<< Psalms 118:21]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.23|Psalms 118:23 >>]]</td></tr></table>
 
 

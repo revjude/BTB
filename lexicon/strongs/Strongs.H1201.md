@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בַּעְשָׁא‎</span></big> **Baʻshâʼ** <small>*(bah-shaw')*</small> ==**Baasha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בַּעְשָׁא‎</span></big>** **Baʻshâʼ** <small>*(bah-shaw')*</small> ==**Baasha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to stink; offensiveness</small>
 
 $\quad$ Baasha.

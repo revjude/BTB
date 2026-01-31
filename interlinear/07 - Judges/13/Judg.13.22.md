@@ -6,17 +6,17 @@ And Manoah said unto his wife, We shall surely die, because we have seen God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.21|<< Judges 13:21]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.23|Judges 13:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֧אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Manoah  | <span class="ashebrew"><big>מָנ֛וֹחַ </big></span><small><small><sup>[[H4495]]</sup></small></small> &#8207;| ma.No.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wife his  | <span class="ashebrew"><big>אִשְׁתּ֖ </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ish.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to die>  | <span class="ashebrew"><big>מ֣וֹת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| Mot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will die  | <span class="ashebrew"><big>נָמ֑וּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| na.Mut <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we have seen  | <span class="ashebrew"><big>רָאִֽינוּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.'I.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manoah  |**<big>&#8207;[[H4495\|מָנ֛וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  |**<big>&#8207;[[H0802H\|אִשְׁתּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to die>  |**<big>&#8207;[[H4191\|מ֣וֹת]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will die  |**<big>&#8207;[[H4191\|נָמ֑וּת]]&#8207; </big>**| na.Mut<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have seen  |**<big>&#8207;[[H7200G\|רָאִֽינוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.'I.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.21|<< Judges 13:21]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.23|Judges 13:23 >>]]</td></tr></table>
 
 

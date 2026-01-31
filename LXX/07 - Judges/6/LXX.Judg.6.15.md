@@ -11,35 +11,35 @@ And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my fami
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gideon | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| \[Be it\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my Lord, | <big><span class="asgreek">κύριέ</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what \[means\] | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I deliver | <big><span class="asgreek">σώσω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my thousand | <big><span class="asgreek">χιλιάς</span></big> <sup><small><small>[[G5505]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] humbler | <big><span class="asgreek">ταπεινότερα</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] lesser | <big><span class="asgreek">μικρότερος</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Gideon | **<big>[[G1066\|Γεδεών]]</big>** |
+| \[Be it\] | **<big>[[G1722\|εν]]</big>** |
+| to me, | **<big>[[G1473\|εμοί]]</big>** |
+| O my Lord, | **<big>[[G2962\|κύριέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| what \[means\] | **<big>[[G5100\|τίνι]]</big>** |
+| shall I deliver | **<big>[[G4982\|σώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my thousand | **<big>[[G5505\|χιλιάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] humbler | **<big>[[G5011\|ταπεινότερα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] lesser | **<big>[[G3398\|μικρότερος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Judg.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.14|<< Judges 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.16|Judges 6:16 >>]]</td></tr></table>
 
 

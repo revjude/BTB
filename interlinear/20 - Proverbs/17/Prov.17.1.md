@@ -6,17 +6,17 @@ Better a dry morsel in quietness than a house full of feasting with strife.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.33|<< Proverbs 16:33]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.2|Proverbs 17:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] good  | <span class="ashebrew"><big>ט֤וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a morsel  | <span class="ashebrew"><big>פַּ֣ת </big></span><small><small><sup>[[H6595A]]</sup></small></small> &#8207;| pat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dry  | <span class="ashebrew"><big>חֲ֭רֵבָה </big></span><small><small><sup>[[H2720A]]</sup></small></small> &#8207;| Cha.re.vah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and quietness  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שַׁלְוָה </big></span><small><small><sup>[[H7962]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shal.vah- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with it  | <span class="ashebrew"><big>בָ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| Va <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than a house  | <span class="ashebrew"><big>מִ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בַּ֗יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| full  | <span class="ashebrew"><big>מָלֵ֥א </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| ma.Le' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sacrifices of  | <span class="ashebrew"><big>זִבְחֵי </big></span><small><small><sup>[[H2077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ziv.chei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strife  | <span class="ashebrew"><big>רִֽיב </big></span><small><small><sup>[[H7379]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Riv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a morsel  |**<big>&#8207;[[H6595A\|פַּ֣ת]]&#8207; </big>**| pat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dry  |**<big>&#8207;[[H2720A\|חֲ֭רֵבָה]]&#8207; </big>**| Cha.re.vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and quietness  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7962\|שַׁלְוָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shal.vah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with it  |**<big>&#8207;[[H9003\|בָ֑]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than a house  |**<big>&#8207;[[H9006\|מִ֝]]&#8207;&#8207;[[H1004B\|בַּ֗יִת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  |**<big>&#8207;[[H4392\|מָלֵ֥א]]&#8207; </big>**| ma.Le'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sacrifices of  |**<big>&#8207;[[H2077\|זִבְחֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ziv.chei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strife  |**<big>&#8207;[[H7379\|רִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.33|<< Proverbs 16:33]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.2|Proverbs 17:2 >>]]</td></tr></table>
 
 

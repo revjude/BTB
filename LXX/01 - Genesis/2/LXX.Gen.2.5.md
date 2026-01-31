@@ -7,40 +7,40 @@ And every plant of the field before it was in the earth, and every herb of the f
 Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground.<small><sub>**MT:**</sub></small>
 [[Gen.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.4|<< Genesis 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.6|Genesis 2:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| green | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| it existed | <big><span class="asgreek">γένεσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτον</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| of \[the\] field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] rising, | <big><span class="asgreek">ανατείλαι</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| rain | <big><span class="asgreek">έβρεξεν</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to work | <big><span class="asgreek">εργάζεσθαι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| green | **<big>[[G5515\|χλωρόν]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| it existed | **<big>[[G1096\|γένεσθαι]]</big>** |
+| upon | **<big>[[G1909\|επι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| grass | **<big>[[G5528\|χόρτον]]</big>** |
+| of \[the\] field | **<big>[[G0068\|αγρού]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[its\] rising, | **<big>[[G0393\|ανατείλαι]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| rain | **<big>[[G1026\|έβρεξεν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| no | **<big>[[G3756\|ουκ]]</big>** |
+| there was | **<big>[[G1510\|ην]]</big>** |
+| to work | **<big>[[G2038\|εργάζεσθαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Gen.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.4|<< Genesis 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.6|Genesis 2:6 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יֶזַע‎</span></big> **yezaʻ** <small>*(yeh'-zah)*</small> ==**sweat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יֶזַע‎</span></big>** **yezaʻ** <small>*(yeh'-zah)*</small> ==**sweat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root mean to ooze</small>
 
 $\quad$ any thing that causeth sweat.
@@ -6,4 +6,4 @@ $\quad$ any thing that causeth sweat.
 
 **1)** sweat, perspiration
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βία</span><sup><small>[[G0970]]</small></sup>
+<small>See Greek: </small>**<big>[[G0970|βία]]</big>**

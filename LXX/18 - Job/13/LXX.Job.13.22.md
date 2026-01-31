@@ -7,17 +7,17 @@ Then call thou, and I will answer: or let me speak, and answer thou me.
 Then call me, and I will answer, or let me speak, and You can reply.<small><sub>**MT:**</sub></small>
 [[Job.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.21|<< Job 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.23|Job 13:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">είτα</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
-| you shall call, | <big><span class="asgreek">καλέσεις</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will hearken to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υποακούσομαι</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| you shall speak, | <big><span class="asgreek">λαλήσεις</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will give you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| an answer. | <big><span class="asgreek">ανταπόκρισιν</span></big> <sup><small><small>[[G6359]]</small></small></sup> |
+| Then | **<big>[[G1534\|είτα]]</big>** |
+| you shall call, | **<big>[[G2564\|καλέσεις]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will hearken to you; | **<big>[[G1473\|σοι]]</big>** **<big>[[G5219\|υποακούσομαι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| you shall speak, | **<big>[[G2980\|λαλήσεις]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will give you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1325\|δώσω]]</big>** |
+| an answer. | **<big>[[G6359\|ανταπόκρισιν]]</big>** |
 [[Job.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.21|<< Job 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.23|Job 13:23 >>]]</td></tr></table>
 
 

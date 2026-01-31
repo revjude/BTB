@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּפְסַח‎</span></big> **Tiphçach** <small>*(tif-sakh')*</small> ==**Tiphsah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּסַח‎</span><sup><small>[[H6452]]</small></sup>; ford</small>
+**<big><span class="ashebrew">‎תִּפְסַח‎</span></big>** **Tiphçach** <small>*(tif-sakh')*</small> ==**Tiphsah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6452|‎פָּסַח‎]]</big>**; ford</small>
 
 $\quad$ Tipsah.
 - § Tiphsah = *"cross over"*

@@ -7,19 +7,19 @@ Lay thine hand upon him, remember the battle, do no more.
 If you lay a hand on him, you will remember the battle and never repeat it!<small><sub>**MT:**</sub></small>
 [[Job.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.7|<< Job 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.9|Job 41:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But shall you place | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a hand on him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| remembering | <big><span class="asgreek">μνησθείς</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \[the\] war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking place | <big><span class="asgreek">γινόμενον</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his body, | <big><span class="asgreek">σώματι</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let it no longer | <big><span class="asgreek">μηκέτι</span></big> <sup><small><small>[[G3371]]</small></small></sup> |
-| take place? | <big><span class="asgreek">γινέσθω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| But shall you place | **<big>[[G2007\|επιθήσεις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a hand on him, | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G5495\|χείρα]]</big>** |
+| remembering | **<big>[[G3403\|μνησθείς]]</big>** |
+| \[the\] war | **<big>[[G4171\|πόλεμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| taking place | **<big>[[G1096\|γινόμενον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his body, | **<big>[[G4983\|σώματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let it no longer | **<big>[[G3371\|μηκέτι]]</big>** |
+| take place? | **<big>[[G1096\|γινέσθω]]</big>** |
 [[Job.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.7|<< Job 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.9|Job 41:9 >>]]</td></tr></table>
 
 

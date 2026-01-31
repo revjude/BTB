@@ -7,21 +7,21 @@ This shall they have for their pride, because they have reproached and magnified
 This they shall have in return for their pride, for taunting and mocking the people of the LORD of Hosts.<small><sub>**MT:**</sub></small>
 [[Zeph.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.9|<< Zephaniah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.11|Zephaniah 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their insolence, | <big><span class="asgreek">ύβρεως</span></big> <sup><small><small>[[G5196]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they berated | <big><span class="asgreek">ωνείδισαν</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| magnified \[themselves\] | <big><span class="asgreek">εμεγαλύνθησαν</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτορα</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their insolence, | **<big>[[G5196\|ύβρεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| they berated | **<big>[[G3679\|ωνείδισαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| magnified \[themselves\] | **<big>[[G3170\|εμεγαλύνθησαν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτορα]]</big>** |
 [[Zeph.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.9|<< Zephaniah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.11|Zephaniah 2:11 >>]]</td></tr></table>
 
 

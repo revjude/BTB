@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Bethlehem</span> was a town allotted to the tribe of Zebulun, distinct from the more well-known Bethlehem in Judah. \([[Josh.19.15|Joshua 19:15]]\)
 - A location only mentioned at [[Josh.19.15|Jos.19.15]]; 
-- only referred to as Bethlehem<[[H1035H]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Bethlehem **<big>[[H1035|בֵּית לֶחֶם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.735379,35.189704&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ No other information about this Bethlehem is provided in the Bible, and it is no
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bethlehem (KJV= Beth-lehem) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H1035H) <small>*Hebrew*</small> | 1x | [Jos.19.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethlehem\*\|reference=Jos.19.15) |
-All Strong's for **Bethlehem**: \[[[H1035H]]\]
+| Bethlehem (KJV= Beth-lehem) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H1035H) | 1x | [Jos.19.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethlehem\*\|reference=Jos.19.15) |
+All entries for **Bethlehem**:  **<big>[[H1035|בֵּית לֶחֶם]]</big>**

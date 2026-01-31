@@ -6,19 +6,19 @@ Then my enemies will retreat on the day I cry for help. By this I will know that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.8|<< Psalms 56:8]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.10|Psalms 56:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="ashebrew"><big>אָ֥֨ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will turn back  | <span class="ashebrew"><big>יָ֘שׁ֤וּבוּ </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ya.Shu.vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies my  | <span class="ashebrew"><big>אוֹיְבַ֣ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'oy.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| backwards  | <span class="ashebrew"><big>אָ֭חוֹר </big></span><small><small><sup>[[H0268]]</sup></small></small> &#8207;| 'A.chor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [when] I will call out  | <span class="ashebrew"><big>אֶקְרָ֑א </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| 'ek.Ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶה </big></span><small><small><sup>[[H2088]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| zeh- <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>יָ֝דַ֗עְתִּי </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da'.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֥ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] for me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֥֨ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will turn back  |**<big>&#8207;[[H7725G\|יָ֘שׁ֤וּבוּ]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  |**<big>&#8207;[[H0341\|אוֹיְבַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| backwards  |**<big>&#8207;[[H0268\|אָ֭חוֹר]]&#8207; </big>**| 'A.chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [when] I will call out  |**<big>&#8207;[[H7121I\|אֶקְרָ֑א]]&#8207; </big>**| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zeh-<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|יָ֝דַ֗עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] for me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.8|<< Psalms 56:8]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.10|Psalms 56:10 >>]]</td></tr></table>
 
 

@@ -3,7 +3,7 @@
 Priest living at the time of the New Testament
 
 <span class='tipnrhighlight'>Alexander</span> was a member of the high-priestly family in Jerusalem who was present during Peter and John's interrogation before the Sanhedrin. \([[2Tim.4.14|Act.4.6]]\)
-- A priest living at the time of the New Testament, only mentioned at [[2Tim.4.14|Act.4.6]]; called Alexander <[[G0223H]]> \(<span class='tipnrLangGreek'>Ἀλέξανδρος</span>\)
+- A priest living at the time of the New Testament, only mentioned at [[2Tim.4.14|Act.4.6]]; called Alexander  **<big>[[G0223|Ἀλέξανδρος]]</big>**
 
 Alexander is mentioned in the Book of Acts as a member of the high-priestly family in Jerusalem. He was present when Peter and John were brought before the Sanhedrin, the Jewish high court, after healing a lame man and preaching in the Temple. \(Act.4.1-6\) 
 
@@ -19,5 +19,5 @@ Alexander's role in this event is not explicitly described, but his presence amo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223H) <small>*Greek*</small> | 1x | [Act.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Act.4.6) |
-All Strong's for **Alexander**: \[[[G0223H]]\]
+| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223H) | 1x | [Act.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Act.4.6) |
+All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**

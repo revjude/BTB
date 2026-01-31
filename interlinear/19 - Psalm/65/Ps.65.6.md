@@ -6,13 +6,13 @@ You formed the mountains by Your power, having girded Yourself with might.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.5|<< Psalms 65:5]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.7|Psalms 65:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [who] established  | <span class="ashebrew"><big>מֵכִ֣ין </big></span><small><small><sup>[[H3559I]]</sup></small></small> &#8207;| me.Khin <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִ֣ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by strength his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֹח֑ </big></span><small><small><sup>[[H3581B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kho.Ch <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] is girded  | <span class="ashebrew"><big>נֶ֝אְזָ֗ר </big></span><small><small><sup>[[H0247]]</sup></small></small> &#8207;| ne'.Zar <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with might  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גְבוּרָֽה </big></span><small><small><sup>[[H1369]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> g.vu.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] established  |**<big>&#8207;[[H3559I\|מֵכִ֣ין]]&#8207; </big>**| me.Khin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by strength his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3581B\|כֹח֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kho.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] is girded  |**<big>&#8207;[[H0247\|נֶ֝אְזָ֗ר]]&#8207; </big>**| ne'.Zar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with might  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1369\|גְבוּרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.vu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.5|<< Psalms 65:5]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.7|Psalms 65:7 >>]]</td></tr></table>
 
 

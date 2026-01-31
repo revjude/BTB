@@ -6,25 +6,25 @@ These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.13|<< 1 Chronicles 5:13]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.15|1 Chronicles 5:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֣לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abihail  | <span class="ashebrew"><big>אֲבִיחַ֗יִל </big></span><small><small><sup>[[H0032I]]</sup></small></small> &#8207;| 'a.vi.Cha.yil <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Huri  | <span class="ashebrew"><big>חוּרִ֡י </big></span><small><small><sup>[[H2359]]</sup></small></small> &#8207;| chu.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jaroah  | <span class="ashebrew"><big>יָ֠רוֹחַ </big></span><small><small><sup>[[H3386]]</sup></small></small> &#8207;| Ya.ro.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  | <span class="ashebrew"><big>גִּלְעָ֧ד </big></span><small><small><sup>[[H1568J]]</sup></small></small> &#8207;| gil.'Ad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Michael  | <span class="ashebrew"><big>מִיכָאֵ֛ל </big></span><small><small><sup>[[H4317I]]</sup></small></small> &#8207;| mi.kha.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeshishai  | <span class="ashebrew"><big>יְשִׁישַׁ֥י </big></span><small><small><sup>[[H3454]]</sup></small></small> &#8207;| ye.shi.Shai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jahdo  | <span class="ashebrew"><big>יַחְדּ֖וֹ </big></span><small><small><sup>[[H3163]]</sup></small></small> &#8207;| yach.Do <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Buz  | <span class="ashebrew"><big>בּֽוּז </big></span><small><small><sup>[[H0938H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Buz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abihail  |**<big>&#8207;[[H0032I\|אֲבִיחַ֗יִל]]&#8207; </big>**| 'a.vi.Cha.yil<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Huri  |**<big>&#8207;[[H2359\|חוּרִ֡י]]&#8207; </big>**| chu.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jaroah  |**<big>&#8207;[[H3386\|יָ֠רוֹחַ]]&#8207; </big>**| Ya.ro.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568J\|גִּלְעָ֧ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Michael  |**<big>&#8207;[[H4317I\|מִיכָאֵ֛ל]]&#8207; </big>**| mi.kha.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeshishai  |**<big>&#8207;[[H3454\|יְשִׁישַׁ֥י]]&#8207; </big>**| ye.shi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jahdo  |**<big>&#8207;[[H3163\|יַחְדּ֖וֹ]]&#8207; </big>**| yach.Do<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Buz  |**<big>&#8207;[[H0938H\|בּֽוּז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Buz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.13|<< 1 Chronicles 5:13]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.15|1 Chronicles 5:15 >>]]</td></tr></table>
 
 

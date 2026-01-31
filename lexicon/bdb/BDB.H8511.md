@@ -1,4 +1,4 @@
-<small>Also see: [[H8518]]</small>
+<small>Also see: **<big>[[H8518|תָּלָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תָּלָא‎</span> **verb** ==hang== (\|\| form of <span class="bdbLangHebrew">‎תלה‎</span>, [[BDB#Ges|Ges]]<sup>«GKC:75rr»§ 75rr</sup>); — 
 

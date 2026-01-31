@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁאַלְתִּיאֵל‎</span></big> **Shᵉʼaltîyʼêl** <small>*(sheh-al-tee-ale')*</small> ==**Shealtiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שַׁלְתִּיאֵל</span> **Shaltîyʼêl** <small>*(shal-tee-ale')*</small>; from <span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; I have asked God</small>
+**<big><span class="ashebrew">‎שְׁאַלְתִּיאֵל‎</span></big>** **Shᵉʼaltîyʼêl** <small>*(sheh-al-tee-ale')*</small> ==**Shealtiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שַׁלְתִּיאֵל</span></big>** **Shaltîyʼêl** <small>*(shal-tee-ale')*</small>; from **<big>[[H7592|‎שָׁאַל‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; I have asked God</small>
 
 $\quad$ Shalthiel, Shealtiel.
 - § Shealtiel or Salathiel = *"I have asked of God"*
@@ -8,4 +8,4 @@ $\quad$ Shalthiel, Shealtiel.
 **1)** father of Zerubbabel
 **2)** son of king Jehoiachin or Jeconiah or Coniah of Judah and uncle of Zerubbabel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σαλαθιήλ</span><sup><small>[[G4528]]</small></sup>
+<small>See Greek: </small>**<big>[[G4528|Σαλαθιήλ]]</big>**

@@ -6,20 +6,20 @@ You are sons of the LORD your God; do not cut yourselves or shave your foreheads
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.18|<< Deuteronomy 13:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.2|Deuteronomy 14:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [are] children  | <span class="ashebrew"><big>בָּנִ֣ים </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתֶּ֔ם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| 'a.Tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will cut yourselves  | <span class="ashebrew"><big>תִתְגֹּֽדְד֗וּ </big></span><small><small><sup>[[H1413]]</sup></small></small> &#8207;| tit.go.de.Du <small><sup>[[HVti2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will make  | <span class="ashebrew"><big>תָשִׂ֧ימוּ </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| ta.Si.mu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| baldness  | <span class="ashebrew"><big>קָרְחָ֛ה </big></span><small><small><sup>[[H7144]]</sup></small></small> &#8207;| ka.re.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֥ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes your  | <span class="ashebrew"><big>עֵינֵי </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| 'ei.nei. <small><sup>[[HNcfdc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a dead [person]  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מֵֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Met <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] children  |**<big>&#8207;[[H1121A\|בָּנִ֣ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859D\|אַתֶּ֔ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will cut yourselves  |**<big>&#8207;[[H1413\|תִתְגֹּֽדְד֗וּ]]&#8207; </big>**| tit.go.de.Du<small><sup>[[HVti2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  |**<big>&#8207;[[H7760A\|תָשִׂ֧ימוּ]]&#8207; </big>**| ta.Si.mu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| baldness  |**<big>&#8207;[[H7144\|קָרְחָ֛ה]]&#8207; </big>**| ka.re.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֥ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  |**<big>&#8207;[[H5869A\|עֵינֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a dead [person]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.18|<< Deuteronomy 13:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.2|Deuteronomy 14:2 >>]]</td></tr></table>
 
 

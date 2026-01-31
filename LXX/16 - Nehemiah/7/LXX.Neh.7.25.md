@@ -7,11 +7,11 @@ The children of Gibeon, ninety and five.
 the descendants of Gibeon, 95;<small><sub>**MT:**</sub></small>
 [[Neh.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.24|<< Nehemiah 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.26|Nehemiah 7:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gibeon, | <big><span class="asgreek">Γαβαών</span></big> <sup><small><small>[[H1391]]</small></small></sup> |
-| ninety-five; | <big><span class="asgreek">ενενηκονταπέντε</span></big> <sup><small><small>[[G7252]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Gibeon, | **<big>[[H1391\|Γαβαών]]</big>** |
+| ninety-five; | **<big>[[G7252\|ενενηκονταπέντε]]</big>** |
 [[Neh.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.24|<< Nehemiah 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.26|Nehemiah 7:26 >>]]</td></tr></table>
 
 

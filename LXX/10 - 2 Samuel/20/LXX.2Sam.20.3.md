@@ -7,51 +7,51 @@ And David came to his house at Jerusalem; and the king took the ten women [his] 
 When David returned to his palace in Jerusalem, he took the ten concubines he had left to take care of the palace, and he placed them in a house under guard. He provided for them, but he no longer slept with them. They were confined until the day of their death, living as widows.<small><sub>**MT:**</sub></small>
 [[2Sam.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.2|<< 2 Samuel 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.4|2 Samuel 20:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his concubines, | <big><span class="asgreek">παλλακάς</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he left behind | <big><span class="asgreek">κατέλιπε</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house; | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| guard, | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he nourished | <big><span class="asgreek">διέθρεψεν</span></big> <sup><small><small>[[G6894]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| held | <big><span class="asgreek">συνεχόμεναι</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of their death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as widows | <big><span class="asgreek">χήραι</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώσαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| women | **<big>[[G1135\|γυναίκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of his concubines, | **<big>[[G8589\|παλλακάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| whom | **<big>[[G3739\|ας]]</big>** |
+| he left behind | **<big>[[G2641\|κατέλιπε]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house; | **<big>[[G3624\|οίκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| guard, | **<big>[[G5438\|φυλακής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he nourished | **<big>[[G6894\|διέθρεψεν]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισήλθε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| held | **<big>[[G4912\|συνεχόμεναι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέρας]]</big>** |
+| of their death | **<big>[[G2288\|θανάτου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as widows | **<big>[[G5503\|χήραι]]</big>** |
+| living | **<big>[[G2198\|ζώσαι]]</big>** |
 [[2Sam.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.2|<< 2 Samuel 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.4|2 Samuel 20:4 >>]]</td></tr></table>
 
 

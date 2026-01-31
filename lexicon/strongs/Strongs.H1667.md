@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּת־רִמּוֹן‎</span></big> **Gath-Rimmôwn** <small>*(gath-rim-mone')*</small> ==**Gath-rimmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גַּת‎</span><sup><small>[[H1660]]</small></sup> and <span class="ashebrew">‎רִמּוֹן‎</span><sup><small>[[H7416]]</small></sup>; wine-press of (the) pomegranate</small>
+**<big><span class="ashebrew">‎גַּת־רִמּוֹן‎</span></big>** **Gath-Rimmôwn** <small>*(gath-rim-mone')*</small> ==**Gath-rimmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1660|‎גַּת‎]]</big>** and **<big>[[H7416|‎רִמּוֹן‎]]</big>**; wine-press of (the) pomegranate</small>
 
 $\quad$ Gath-rimmon. d
 - § Gath-rimmon = *"winepress of the pomegranate"*

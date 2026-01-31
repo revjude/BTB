@@ -7,33 +7,33 @@ Behold is not all the earth before you? Part yourself from me! If you \[go\] to 
 Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left.”<small><sub>**MT:**</sub></small>
 [[Gen.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.8|<< Genesis 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.10|Genesis 13:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Part yourself | <big><span class="asgreek">διαχωρίσθητι</span></big> <sup><small><small>[[G1316]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[go\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] left, | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| I \[will go\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] right; | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| but if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[go\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] right, | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| I \[will go\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] left. | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| Part yourself | **<big>[[G1316\|διαχωρίσθητι]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me! | **<big>[[G1473\|εμού]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \[go\] to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] left, | **<big>[[G0710\|αριστερά]]</big>** |
+| I \[will go\] | **<big>[[G1473\|εγώ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] right; | **<big>[[G1188\|δεξιά]]</big>** |
+| but if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \[go\] to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] right, | **<big>[[G1188\|δεξιά]]</big>** |
+| I \[will go\] | **<big>[[G1473\|εγώ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] left. | **<big>[[G0710\|αριστερά]]</big>** |
 [[Gen.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.8|<< Genesis 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.10|Genesis 13:10 >>]]</td></tr></table>
 
 

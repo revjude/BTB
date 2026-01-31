@@ -7,50 +7,50 @@ Therefore, ye mountains of Israel, hear the word of the Lord GOD; Thus saith the
 therefore, O mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, which have become a spoil and a mockery to the rest of the nations around you.<small><sub>**MT:**</sub></small>
 [[Ezek.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.3|<< Ezekiel 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.5|Ezekiel 36:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| O mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">όρεσι</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills, | <big><span class="asgreek">βουνοίς</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing streams, | <big><span class="asgreek">χειμάρροις</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravines, | <big><span class="asgreek">φάραγξι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places being made quite desolate, | <big><span class="asgreek">εξηρημωμένοις</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being obliterated, | <big><span class="asgreek">ηφανισμένοις</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being abandoned, | <big><span class="asgreek">εγκαταλελειμμέναις</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| trampling | <big><span class="asgreek">καταπάτημα</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλειφθείσιν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| surrounding | <big><span class="asgreek">περικύκλω</span></big> <sup><small><small>[[G8735]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| O mountains | **<big>[[G3735\|όρη]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| mountains, | **<big>[[G3735\|όρεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| hills, | **<big>[[G1015\|βουνοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| rushing streams, | **<big>[[G5493\|χειμάρροις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| ravines, | **<big>[[G5327\|φάραγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| places being made quite desolate, | **<big>[[G7315\|εξηρημωμένοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being obliterated, | **<big>[[G0853\|ηφανισμένοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| being abandoned, | **<big>[[G1459\|εγκαταλελειμμέναις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένοντο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder | **<big>[[G8903\|προνομήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| trampling | **<big>[[G7888\|καταπάτημα]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| being left behind | **<big>[[G2641\|καταλειφθείσιν]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| surrounding | **<big>[[G8735\|περικύκλω]]</big>** |
 [[Ezek.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.3|<< Ezekiel 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.5|Ezekiel 36:5 >>]]</td></tr></table>
 
 

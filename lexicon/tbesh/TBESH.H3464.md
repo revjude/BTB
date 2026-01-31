@@ -1,5 +1,3 @@
-<span class="ashebrew">‎יָשֵׁן‎</span> <small>***(ya.shen)***</small> ==**Jashen**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.23.32|2Sa.23.32]]
 -  also called Hashem at [[1Chr.11.34|1Ch.11.34]]
-- Also named: <i>ha.shem</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ש‎</span>ֵׁ<span class='ashebrew'>‎ם‎</span> "Hashem" [[H2044]])
-
+- Also named: <i>ha.shem</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ש‎</span>ֵׁ<span class='ashebrew'>‎ם‎</span> "Hashem" **<big>[[H2044|הָשֵׁם]]</big>**)

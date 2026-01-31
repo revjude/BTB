@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּדַל‎</span></big> **gâdal** <small>*(gaw-dal')*</small> ==**to magnify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to twist (compare <span class="ashebrew">‎גְּדִל‎</span><sup><small>[[H1434]]</small></sup>), i.e.</small>
+**<big><span class="ashebrew">‎גָּדַל‎</span></big>** **gâdal** <small>*(gaw-dal')*</small> ==**to magnify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to twist (compare **<big>[[H1434|‎גְּדִל‎]]</big>**), i.e.</small>
 
 $\quad$ advance, boast, bring up, exceed, excellent, be(-come, do, give, make, wax), great(-er, come to... estate, [phrase] things), grow(up), increase, lift up, magnify(-ifical), be much set by, nourish (up), pass, promote, proudly (spoken), tower.
 - ***to be*** (causatively make) ***large*** (in various senses, as in body, mind, estate or honor, also in pride)
@@ -20,4 +20,4 @@ $\quad$ $\quad$ **1d2)** to magnify
 $\quad$ $\quad$ **1d3)** to do great things
 $\quad$ **1e)** (Hithpael) to magnify oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αὐξάνω</span><sup><small>[[G0837]]</small></sup> · <span class="asgreek">γέννημα</span><sup><small>[[G1081]]</small></sup> · <span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">ἐκτρέφω</span><sup><small>[[G1625]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">μεγαλύνω</span><sup><small>[[G3170]]</small></sup> · <span class="asgreek">μηκύνω</span><sup><small>[[G3373]]</small></sup> · <span class="asgreek">περιτίθημι</span><sup><small>[[G4060]]</small></sup> · <span class="asgreek">τρέφω</span><sup><small>[[G5142]]</small></sup> · <span class="asgreek">ὑψόω</span><sup><small>[[G5312]]</small></sup>
+<small>See Greek: </small>**<big>[[G0837|αὐξάνω]]</big>** · **<big>[[G1081|γέννημα]]</big>** · **<big>[[G1392|δοξάζω]]</big>** · **<big>[[G1625|ἐκτρέφω]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G3170|μεγαλύνω]]</big>** · **<big>[[G3373|μηκύνω]]</big>** · **<big>[[G4060|περιτίθημι]]</big>** · **<big>[[G5142|τρέφω]]</big>** · **<big>[[G5312|ὑψόω]]</big>**

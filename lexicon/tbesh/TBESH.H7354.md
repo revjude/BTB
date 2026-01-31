@@ -1,7 +1,5 @@
-<span class="ashebrew">‎רָחֵל‎</span> <small>***(ra.chel)***</small> ==**Rachel**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time of the Patriarchs, first mentioned at [[Gen.29.6|Gen.29.6]]
--  daughter of: Laban ([[H3837A]])
--  sister of: Leah ([[H3812]]); married to Israel ([[H3478]])
--  mother of: Joseph ([[H3130]]) and Benjamin ([[H1144]])
-- Also named: <i>Rhachēl</i> (<span class='asgreek'>Ῥαχήλ</span> "Rachel" [[G4478]])
-
+-  daughter of: Laban (**<big>[[H3837A|לָבָן]]</big>**)
+-  sister of: Leah (**<big>[[H3812|לֵאָה]]</big>**); married to Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**)
+-  mother of: Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+- Also named: <i>Rhachēl</i> (<span class='asgreek'>Ῥαχήλ</span> "Rachel" **<big>[[G4478|Ῥαχήλ]]</big>**)

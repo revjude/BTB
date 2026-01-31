@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוּשִׁים‎</span></big> **Chûwshîym** <small>*(khoo-sheem')*</small> ==**Hushim**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>or <span class="ashebrew">חֻשִׁים</span> **Chushîym** <small>*(khoo-shem')*</small>; or <span class="ashebrew">חֻשִׁם</span> **Chushim** <small>*(khoo-sheem')*</small>; plural from <span class="ashebrew">‎חוּשׁ‎</span><sup><small>[[H2363]]</small></sup>; hasters</small>
+**<big><span class="ashebrew">‎חוּשִׁים‎</span></big>** **Chûwshîym** <small>*(khoo-sheem')*</small> ==**Hushim**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֻשִׁים</span></big>** **Chushîym** <small>*(khoo-shem')*</small>; or **<big><span class="ashebrew">חֻשִׁם</span></big>** **Chushim** <small>*(khoo-sheem')*</small>; plural from **<big>[[H2363|‎חוּשׁ‎]]</big>**; hasters</small>
 
 $\quad$ Hushim.
 - § Hushim = *"who makes haste"*

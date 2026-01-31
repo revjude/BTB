@@ -7,34 +7,34 @@ And David spake to the chief of the Levites to appoint their brethren [to be] th
 David also told the leaders of the Levites to appoint their relatives as singers to lift up their voices with joy, accompanied by musical instruments—harps, lyres, and cymbals.<small><sub>**MT:**</sub></small>
 [[1Chr.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.15|<< 1 Chronicles 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.17|1 Chronicles 15:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχουσι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| You shall station | <big><span class="asgreek">στήσετε</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| psalm singers | <big><span class="asgreek">ψαλτωδούς</span></big> <sup><small><small>[[G9786]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| instruments | <big><span class="asgreek">οργάνοις</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
-| for odes, | <big><span class="asgreek">ωδών</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stringed instruments, | <big><span class="asgreek">ναβλαίς</span></big> <sup><small><small>[[G8372]]</small></small></sup> |
-| lutes, | <big><span class="asgreek">κινύραις</span></big> <sup><small><small>[[G8011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cymbals, | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sound out loud | <big><span class="asgreek">φωνήσαι</span></big> <sup><small><small>[[G5455]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| high | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \[of\] gladness. | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| rulers | **<big>[[G0758\|άρχουσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Levites, | **<big>[[G3017\|Λευιτών]]</big>** |
+| You shall station | **<big>[[G2476\|στήσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| psalm singers | **<big>[[G9786\|ψαλτωδούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| instruments | **<big>[[G8545\|οργάνοις]]</big>** |
+| for odes, | **<big>[[G5603\|ωδών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| stringed instruments, | **<big>[[G8372\|ναβλαίς]]</big>** |
+| lutes, | **<big>[[G8011\|κινύραις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cymbals, | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sound out loud | **<big>[[G5455\|φωνήσαι]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| high | **<big>[[G5311\|ύψος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| \[of\] gladness. | **<big>[[G2167\|ευφροσύνην]]</big>** |
 [[1Chr.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.15|<< 1 Chronicles 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.17|1 Chronicles 15:17 >>]]</td></tr></table>
 
 

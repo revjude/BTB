@@ -10,26 +10,26 @@ The hail fell and the lightning continued flashing through it. The hail was so s
 > $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִ֣י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hail  | <span class="ashebrew"><big>בָרָ֔ד </big></span><small><small><sup>[[H1259]]</sup></small></small> &#8207;| va.Rad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fire  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֕שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] flashing  | <span class="ashebrew"><big>מִתְלַקַּ֖חַת </big></span><small><small><sup>[[H3947L]]</sup></small></small> &#8207;| mit.la.Ka.chat <small><sup>[[HVtrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] middle of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ת֣וֹךְ </big></span><small><small><sup>[[H8432]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Tokh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the hail  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּרָ֑ד </big></span><small><small><sup>[[H1259]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.Rad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heavy  | <span class="ashebrew"><big>כָּבֵ֣ד </big></span><small><small><sup>[[H3515]]</sup></small></small> &#8207;| ka.Ved <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| very  | <span class="ashebrew"><big>מְאֹ֔ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲ֠שֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had been  | <span class="ashebrew"><big>הָיָ֤ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like it  | <span class="ashebrew"><big>כָמֹ֙ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>הוּ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| kha.Mo. <small><sup>[[HRd]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from then  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָ֖ז </big></span><small><small><sup>[[H0227B]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had become  | <span class="ashebrew"><big>הָיְתָ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a nation  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גֽוֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hail  |**<big>&#8207;[[H1259\|בָרָ֔ד]]&#8207; </big>**| va.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fire  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0784\|אֵ֕שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] flashing  |**<big>&#8207;[[H3947L\|מִתְלַקַּ֖חַת]]&#8207; </big>**| mit.la.Ka.chat<small><sup>[[HVtrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] middle of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֣וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hail  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1259\|בָּרָ֑ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavy  |**<big>&#8207;[[H3515\|כָּבֵ֣ד]]&#8207; </big>**| ka.Ved<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  |**<big>&#8207;[[H3966\|מְאֹ֔ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲ֠שֶׁר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been  |**<big>&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like it  |**<big>&#8207;[[H3644G\|כָמֹ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| kha.Mo.<small><sup>[[HRd]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from then  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0227B\|אָ֖ז]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had become  |**<big>&#8207;[[H1961\|הָיְתָ֥ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a nation  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1471A\|גֽוֹי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.23|<< Exodus 9:23]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.25|Exodus 9:25 >>]]</td></tr></table>
 
 

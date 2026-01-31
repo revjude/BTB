@@ -7,37 +7,37 @@ The shew of their countenance doth witness against them; and they declare their 
 The expression on their faces testifies against them, and like Sodom they flaunt their sin; they do not conceal it. Woe to them, for they have brought disaster upon themselves.<small><sub>**MT:**</sub></small>
 [[Isa.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.8|<< Isaiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.10|Isaiah 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| was abased | <big><span class="asgreek">εταπεινώθη</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shame | <big><span class="asgreek">αισχύνη</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| withstood | <big><span class="asgreek">αντέστη</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| their sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Sodom | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| they announced | <big><span class="asgreek">ανήγγειλαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| revealed \[it\]. | <big><span class="asgreek">ενεφάνισαν</span></big> <sup><small><small>[[G1718]]</small></small></sup> |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to their soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they consulted | <big><span class="asgreek">βεβούλευνται</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηράν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| against | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| themselves; | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| was abased | **<big>[[G5013\|εταπεινώθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| shame | **<big>[[G0152\|αισχύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| withstood | **<big>[[G0436\|αντέστη]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| their sin | **<big>[[G0266\|αμαρτίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Sodom | **<big>[[G4670\|Σοδόμων]]</big>** |
+| they announced | **<big>[[G0312\|ανήγγειλαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| revealed \[it\]. | **<big>[[G1718\|ενεφάνισαν]]</big>** |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to their soul, | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| they consulted | **<big>[[G1011\|βεβούλευνται]]</big>** |
+| counsel | **<big>[[G1012\|βουλήν]]</big>** |
+| wicked | **<big>[[G4190\|πονηράν]]</big>** |
+| against | **<big>[[G2596\|καθ΄]]</big>** |
+| themselves; | **<big>[[G1438\|εαυτών]]</big>** |
 [[Isa.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.8|<< Isaiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.10|Isaiah 3:10 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ The LORD shall bring thee, and thy king which thou shalt set over thee, unto a n
 The LORD will bring you and the king you appoint to a nation neither you nor your fathers have known, and there you will worship other gods—gods of wood and stone.<small><sub>**MT:**</sub></small>
 [[Deut.28.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.35|<< Deuteronomy 28:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.37|Deuteronomy 28:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> take | <big><span class="asgreek">απαγάγοι</span></big> <sup><small><small>[[G0520]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rulers, | <big><span class="asgreek">αρχοντάς</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should place | <big><span class="asgreek">καταστήσης</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| who | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| knowledge of | <big><span class="asgreek">επίστασαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| yourself | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[nor\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers; | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall serve | <big><span class="asgreek">λατρεύσεις</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| other gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ετέροις</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| \[of\] wood | <big><span class="asgreek">ξύλοις</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone. | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> take | **<big>[[G0520\|απαγάγοι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your rulers, | **<big>[[G0758\|αρχοντάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should place | **<big>[[G2525\|καταστήσης]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| yourself, | **<big>[[G4572\|σεαυτόν]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| who | **<big>[[G3739\|ο]]</big>** |
+| you have no | **<big>[[G3756\|ουκ]]</big>** |
+| knowledge of | **<big>[[G1987\|επίστασαι]]</big>** |
+| yourself | **<big>[[G1473\|συ]]</big>** |
+| \[nor\] | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers; | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall serve | **<big>[[G3000\|λατρεύσεις]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| other gods | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G2087\|ετέροις]]</big>** |
+| \[of\] wood | **<big>[[G3586\|ξύλοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone. | **<big>[[G3037\|λίθοις]]</big>** |
 [[Deut.28.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.35|<< Deuteronomy 28:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.37|Deuteronomy 28:37 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And ye shall do as I have done: ye shall not cover [your] lips, nor eat the brea
 Then you will do as I have done: You will not cover your lips or eat the bread of mourners.<small><sub>**MT:**</sub></small>
 [[Ezek.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.21|<< Ezekiel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.23|Ezekiel 24:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| I have done. | <big><span class="asgreek">πεποίηκα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be comforted, | <big><span class="asgreek">παρακληθήσεσθε</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat. | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| I have done. | **<big>[[G4160\|πεποίηκα]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| their mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| be comforted, | **<big>[[G3870\|παρακληθήσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] bread | **<big>[[G0740\|άρτον]]</big>** |
+| of men | **<big>[[G0435\|ανδρών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat. | **<big>[[G2068\|φάγεσθε]]</big>** |
 [[Ezek.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.21|<< Ezekiel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.23|Ezekiel 24:23 >>]]</td></tr></table>
 
 

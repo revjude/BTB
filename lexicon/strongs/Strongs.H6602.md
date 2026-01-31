@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּתוּאֵל‎</span></big> **Pᵉthûwʼêl** <small>*(peth-oo-ale')*</small> ==**Pethuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּתָה‎</span><sup><small>[[H6601]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; enlarged of God</small>
+**<big><span class="ashebrew">‎פְּתוּאֵל‎</span></big>** **Pᵉthûwʼêl** <small>*(peth-oo-ale')*</small> ==**Pethuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6601|‎פָּתָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; enlarged of God</small>
 
 $\quad$ Pethuel.
 - § Pethuel = *"vision of God"*

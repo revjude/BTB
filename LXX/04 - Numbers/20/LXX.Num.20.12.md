@@ -7,37 +7,37 @@ And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify
 But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”<small><sub>**MT:**</sub></small>
 [[Num.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.11|<< Numbers 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.13|Numbers 20:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| Because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| trust | <big><span class="asgreek">επιστεύσατέ</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| in me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάσαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bring | <big><span class="asgreek">εισάξετε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| you yourselves | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this congregation | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| Because | **<big>[[G3754\|ότι]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| trust | **<big>[[G4100\|επιστεύσατέ]]</big>** |
+| in me | **<big>[[G1473\|μοι]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάσαι]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| bring | **<big>[[G1521\|εισάξετε]]</big>** |
+| you yourselves | **<big>[[G1473\|υμείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this congregation | **<big>[[G4864\|συναγωγήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Num.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.11|<< Numbers 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.13|Numbers 20:13 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And [that] which the rest of the people gave [was] twenty thousand drams of gold
 The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments.<small><sub>**MT:**</sub></small>
 [[Neh.7.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.71|<< Nehemiah 7:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.73|Nehemiah 7:73 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιποι</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| drachmas | <big><span class="asgreek">δραχμάς</span></big> <sup><small><small>[[G1406]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| ten thousands | <big><span class="asgreek">μυριάδας</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| minas | <big><span class="asgreek">μνας</span></big> <sup><small><small>[[G3414]]</small></small></sup> |
-| two thousand | <big><span class="asgreek">δισχιλίας</span></big> <sup><small><small>[[G1367]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| garments | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| sixty-seven | <big><span class="asgreek">εξηκονταεπτά</span></big> <sup><small><small>[[G7325]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιποι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| of gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| drachmas | **<big>[[G1406\|δραχμάς]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| ten thousands | **<big>[[G3461\|μυριάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| minas | **<big>[[G3414\|μνας]]</big>** |
+| two thousand | **<big>[[G1367\|δισχιλίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| garments | **<big>[[G4749\|στολάς]]</big>** |
+| for the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| sixty-seven | **<big>[[G7325\|εξηκονταεπτά]]</big>** |
 [[Neh.7.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.71|<< Nehemiah 7:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.73|Nehemiah 7:73 >>]]</td></tr></table>
 
 

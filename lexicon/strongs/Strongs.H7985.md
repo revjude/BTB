@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שׇׁלְטָן‎</span></big> **sholṭân** <small>*(shol-tawn')*</small> ==**dominion**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎שְׁלֵט‎</span><sup><small>[[H7981]]</small></sup></small>
+**<big><span class="asaramaic">‎שׇׁלְטָן‎</span></big>** **sholṭân** <small>*(shol-tawn')*</small> ==**dominion**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H7981|‎שְׁלֵט‎]]</big>**</small>
 
 $\quad$ dominion.
 - ***empire*** (abstractly or concretely)
@@ -8,4 +8,4 @@ $\quad$ dominion.
 $\quad$ **1a)** dominion, sovereignty
 $\quad$ **1b)** realm
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup> · <span class="asgreek">βασιλεία</span><sup><small>[[G0932]]</small></sup> · <span class="asgreek">ἐξουσία</span><sup><small>[[G1849]]</small></sup>
+<small>See Greek: </small>**<big>[[G0746|ἀρχή]]</big>** · **<big>[[G0932|βασιλεία]]</big>** · **<big>[[G1849|ἐξουσία]]</big>**

@@ -6,24 +6,24 @@ The LORD once called you a flourishing olive tree, beautiful with well-formed fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.15|<< Jeremiah 11:15]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.17|Jeremiah 11:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an olive tree  | <span class="ashebrew"><big>זַ֤יִת </big></span><small><small><sup>[[H2132H]]</sup></small></small> &#8207;| Za.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| luxuriant  | <span class="ashebrew"><big>רַֽעֲנָן֙ </big></span><small><small><sup>[[H7488B]]</sup></small></small> &#8207;| ra.'a.Nan <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| beautiful of  | <span class="ashebrew"><big>יְפֵ֣ה </big></span><small><small><sup>[[H3303]]</sup></small></small> &#8207;| ye.Peh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit of  | <span class="ashebrew"><big>פְרִי </big></span><small><small><sup>[[H6529]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| fe.ri- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| form  | <span class="ashebrew"><big>תֹ֔אַר </big></span><small><small><sup>[[H8389]]</sup></small></small> &#8207;| To.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he called  | <span class="ashebrew"><big>קָרָ֥א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| ka.Ra' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שְׁמֵ֑ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| she.Me <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] sound of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a rainstorm  | <span class="ashebrew"><big>הֲמוּלָּ֣ה </big></span><small><small><sup>[[H1999]]</sup></small></small> &#8207;| ha.mu.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גְדֹלָ֗ה </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has kindled  | <span class="ashebrew"><big>הִצִּ֥ית </big></span><small><small><sup>[[H3341]]</sup></small></small> &#8207;| hi.Tzit <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵשׁ֙ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶ֔י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they are bad  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>רָע֖וּ </big></span><small><small><sup>[[H7489B]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ra.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| branches its  | <span class="ashebrew"><big>דָּלִיּוֹתָֽי </big></span><small><small><sup>[[H1808]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| da.li.yo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an olive tree  |**<big>&#8207;[[H2132H\|זַ֤יִת]]&#8207; </big>**| Za.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| luxuriant  |**<big>&#8207;[[H7488B\|רַֽעֲנָן֙]]&#8207; </big>**| ra.'a.Nan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beautiful of  |**<big>&#8207;[[H3303\|יְפֵ֣ה]]&#8207; </big>**| ye.Peh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit of  |**<big>&#8207;[[H6529\|פְרִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fe.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| form  |**<big>&#8207;[[H8389\|תֹ֔אַר]]&#8207; </big>**| To.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he called  |**<big>&#8207;[[H7121H\|קָרָ֥א]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שְׁמֵ֑]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| she.Me<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] sound of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963H\|ק֣וֹל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a rainstorm  |**<big>&#8207;[[H1999\|הֲמוּלָּ֣ה]]&#8207; </big>**| ha.mu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גְדֹלָ֗ה]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has kindled  |**<big>&#8207;[[H3341\|הִצִּ֥ית]]&#8207; </big>**| hi.Tzit<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶ֔י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they are bad  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7489B\|רָע֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| branches its  |**<big>&#8207;[[H1808\|דָּלִיּוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.li.yo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.15|<< Jeremiah 11:15]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.17|Jeremiah 11:17 >>]]</td></tr></table>
 
 

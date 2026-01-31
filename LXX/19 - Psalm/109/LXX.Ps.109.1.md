@@ -12,14 +12,14 @@ To the chief Musician, A Psalm of David. Hold not thy peace, O God of my praise;
 For the choirmaster. A Psalm of David. O God of my praise, be not silent.<small><sub>**MT:**</sub></small>
 [[Ps.109.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.13|<< Psalm 108:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.2|Psalm 109:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my praise, | <big><span class="asgreek">αίνεσίν</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| remain silent; | <big><span class="asgreek">παρασιωπήσης</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of my praise, | **<big>[[G0133\|αίνεσίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| remain silent; | **<big>[[G8637\|παρασιωπήσης]]</big>** |
 [[Ps.109.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.13|<< Psalm 108:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.2|Psalm 109:2 >>]]</td></tr></table>
 
 

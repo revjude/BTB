@@ -7,21 +7,21 @@ In a moment shall they die, and the people shall be troubled at midnight, and pa
 They die in an instant, in the middle of the night. The people convulse and pass away; the mighty are removed without human hand.<small><sub>**MT:**</sub></small>
 [[Job.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.19|<< Job 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.21|Job 34:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in vanity | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall result | <big><span class="asgreek">αποβήσεται</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to cry out | <big><span class="asgreek">κεκραγέναι</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to beseech | <big><span class="asgreek">δείσθαι</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
-| a man; | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| for they dealt | <big><span class="asgreek">εχρήσαντο</span></big> <sup><small><small>[[G5530]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| unlawfully, | <big><span class="asgreek">παρανόμως</span></big> <sup><small><small>[[G8628]]</small></small></sup> |
-| turning aside | <big><span class="asgreek">εκκλεινομένων</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| \[the\] disabled. | <big><span class="asgreek">αδυνάτων</span></big> <sup><small><small>[[G0102]]</small></small></sup> |
+| in vanity | **<big>[[G2756\|κενά]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| it shall result | **<big>[[G0576\|αποβήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to cry out | **<big>[[G2896\|κεκραγέναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to beseech | **<big>[[G1189\|δείσθαι]]</big>** |
+| a man; | **<big>[[G0435\|ανδρός]]</big>** |
+| for they dealt | **<big>[[G5530\|εχρήσαντο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| unlawfully, | **<big>[[G8628\|παρανόμως]]</big>** |
+| turning aside | **<big>[[G1578\|εκκλεινομένων]]</big>** |
+| \[the\] disabled. | **<big>[[G0102\|αδυνάτων]]</big>** |
 [[Job.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.19|<< Job 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.21|Job 34:21 >>]]</td></tr></table>
 
 

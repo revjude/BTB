@@ -1,4 +1,4 @@
-<small>Also see: [[H1394]]</small>
+<small>Also see: **<big>[[H1394|גִּבְעַת]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎גִּבְעָה‎</span> **proper name, of a location** (***hill***) — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ג‎</span> [[Josh.15.57|Josh 15:57]] +; <span class="bdbLangHebrew">‎(הַ)גִּבְעָ֫תָה‎</span> [[Judg.20.4|Judg 20:4]] + 5 t.; <span class="bdbLangHebrew">‎גִּבְעַת‎</span> [[Josh.18.28|Josh 18:28]] construct <span class="bdbLangHebrew">‎גִּבְעַת‎</span> [[1Sam.11.4|1Sam 11:4]] + 9 t.; absolute always with article except [[Josh.15.57|Josh 15:57]]; [[Josh.18.28|Josh 18:28]]; [[Judg.19.12|Judg 19:12]]; [[Judg.20.31|Judg 20:31]]; [[1Sam.10.26|1Sam 10:26]]; [[2Chr.13.2|2Chr 13:2]] — 
 

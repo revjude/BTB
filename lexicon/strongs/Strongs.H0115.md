@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדוֹרַיִם‎</span></big> **ʼĂdôwrayim** <small>*(ad-o-rah'-yim)*</small> ==**Adoraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>dual from <span class="ashebrew">‎אָדַר‎</span><sup><small>[[H0142]]</small></sup> (in the sense of eminence); double mound</small>
+**<big><span class="ashebrew">‎אֲדוֹרַיִם‎</span></big>** **ʼĂdôwrayim** <small>*(ad-o-rah'-yim)*</small> ==**Adoraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>dual from **<big>[[H0142|‎אָדַר‎]]</big>** (in the sense of eminence); double mound</small>
 
 $\quad$ Adoraim.
 - § Adoraim = *"double glory"*

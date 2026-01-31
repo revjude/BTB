@@ -7,22 +7,22 @@ And Joseph answered and said, This [is] the interpretation thereof: The three ba
 Joseph replied, “This is the interpretation: The three baskets are three days.<small><sub>**MT:**</sub></small>
 [[Gen.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.17|<< Genesis 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.19|Genesis 40:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And answering | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισις</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| bins | <big><span class="asgreek">κανά</span></big> <sup><small><small>[[G7794]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And answering | **<big>[[G0611\|αποκριθείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισις]]</big>** |
+| of it. | **<big>[[G1473\|αυτού]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| bins | **<big>[[G7794\|κανά]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
 [[Gen.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.17|<< Genesis 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.19|Genesis 40:19 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ Blessed [be] the LORD, that hath given rest unto his people Israel, according to
 “Blessed be the LORD, who has given rest to His people Israel according to all that He promised. Not one word has failed of all the good promises He made through His servant Moses.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.55|<< 1 Kings 8:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.57|1 Kings 8:57 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed \[be\] | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάπαυσιν</span></big> <sup><small><small>[[G2663]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he spoke. | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| perished | <big><span class="asgreek">διεφώνησε</span></big> <sup><small><small>[[G6902]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθοίς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Moses | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant. | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Blessed \[be\] | **<big>[[G2128\|ευλογητός]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| rest | **<big>[[G2663\|κατάπαυσιν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| he spoke. | **<big>[[G2980\|ελάλησεν]]</big>** |
+| Not | **<big>[[G3756\|ου]]</big>** |
+| perished | **<big>[[G6902\|διεφώνησε]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| in | **<big>[[G1519\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| words | **<big>[[G3056\|λόγοις]]</big>** |
+| of his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| good | **<big>[[G0018\|αγαθοίς]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Moses | **<big>[[G3475\|Μωυσή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his servant. | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.8.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.55|<< 1 Kings 8:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.57|1 Kings 8:57 >>]]</td></tr></table>
 
 

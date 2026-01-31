@@ -6,52 +6,52 @@ After three days, he called together the leaders of the Jews. When they had gath
 <small><sub>**Literal:**</sub></small>
 It came to pass then after days three calling together <the> he those being of the Jews leaders; When they were assembling then they he was saying to them; I myself, men brothers no [thing] against having done the people or against the customs <the> of our fathers, a prisoner from Jerusalem was delivered into the hands of the Romans,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.16|<< Acts 28:16]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.18|Acts 28:18 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| It came to pass |<big><span class="asgreek">Ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| after |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| days |<big><span class="asgreek">ἡμέρας</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| three |<big><span class="asgreek">τρεῖς</span></big> <small><small><sup>[[G5140]]</sup></small></small> |treis <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| calling together |<big><span class="asgreek">συγκαλέσασθαι</span></big> <small><small><sup>[[G4779]]</sup></small></small> [^1] |sugkalesasthai <small><sup>[[V-AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| he [^2] [^3] |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| those |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being |<big><span class="asgreek">ὄντας</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ontas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jews |<big><span class="asgreek">Ἰουδαίων</span></big> <small><small><sup>[[G2453]]</sup></small></small> |Ioudaiōn <small><sup>[[N-GPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| leaders; |<big><span class="asgreek">πρώτους·</span></big> <small><small><sup>[[G4413I]]</sup></small></small> |prōtous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| When they were assembling |<big><span class="asgreek">συνελθόντων</span></big> <small><small><sup>[[G4905]]</sup></small></small> |sunelthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was saying |<big><span class="asgreek">ἔλεγεν</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them; |<big><span class="asgreek">αὐτούς·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself, |<big><span class="asgreek">ἐγώ,</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»2+Byz»2">NKO</abbr> | |
-| men |<big><span class="asgreek">ἄνδρες</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brothers |<big><span class="asgreek">ἀδελφοί,</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against |<big><span class="asgreek">ἐναντίον</span></big> <small><small><sup>[[G1727]]</sup></small></small> |enantion <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having done |<big><span class="asgreek">ποιήσας</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| people |<big><span class="asgreek">λαῷ</span></big> <small><small><sup>[[G2992]]</sup></small></small> |laō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| customs |<big><span class="asgreek">ἔθεσιν</span></big> <small><small><sup>[[G1485]]</sup></small></small> |ethesin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of our fathers, |<big><span class="asgreek">πατρῴοις,</span></big> <small><small><sup>[[G3971]]</sup></small></small> |patrōois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a prisoner |<big><span class="asgreek">δέσμιος</span></big> <small><small><sup>[[G1198]]</sup></small></small> |desmios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<big><span class="asgreek">ἐξ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jerusalem |<big><span class="asgreek">Ἱεροσολύμων</span></big> <small><small><sup>[[G2414]]</sup></small></small> |Hi'erosolumōn <small><sup>[[N-GPN-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was delivered |<big><span class="asgreek">παρεδόθην</span></big> <small><small><sup>[[G3860]]</sup></small></small> |paredothēn <small><sup>[[V-API-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hands |<big><span class="asgreek">χεῖρας</span></big> <small><small><sup>[[G5495]]</sup></small></small> |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Romans, |<big><span class="asgreek">Ῥωμαίων,</span></big> <small><small><sup>[[G4514]]</sup></small></small> [^4] |Rhōmaiōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| days |**<big>[[G2250\|ἡμέρας]]</big>**  |hēmeras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| three |**<big>[[G5140\|τρεῖς]]</big>**  |treis <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| calling together |**<big>[[G4779\|συγκαλέσασθαι]]</big>**  [^1] |sugkalesasthai <small><sup>[[V-AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| he [^2] [^3] |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| those |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being |**<big>[[G1510\|ὄντας]]</big>**  |ontas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jews |**<big>[[G2453\|Ἰουδαίων]]</big>**  |Ioudaiōn <small><sup>[[N-GPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| leaders; |**<big>[[G4413I\|πρώτους·]]</big>**  |prōtous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| When they were assembling |**<big>[[G4905\|συνελθόντων]]</big>**  |sunelthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they |**<big>[[G0846\|αὐτῶν]]</big>**  |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them; |**<big>[[G0846\|αὐτούς·]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself, |**<big>[[G1473\|ἐγώ,]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»2+Byz»2">NKO</abbr> | |
+| men |**<big>[[G0435G\|ἄνδρες]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brothers |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no [thing] |**<big>[[G3762\|οὐδὲν]]</big>**  |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against |**<big>[[G1727\|ἐναντίον]]</big>**  |enantion <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having done |**<big>[[G4160G\|ποιήσας]]</big>**  |poiēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| people |**<big>[[G2992\|λαῷ]]</big>**  |laō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against the |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| customs |**<big>[[G1485\|ἔθεσιν]]</big>**  |ethesin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of our fathers, |**<big>[[G3971\|πατρῴοις,]]</big>**  |patrōois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a prisoner |**<big>[[G1198\|δέσμιος]]</big>**  |desmios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jerusalem |**<big>[[G2414\|Ἱεροσολύμων]]</big>**  |Hi'erosolumōn <small><sup>[[N-GPN-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was delivered |**<big>[[G3860\|παρεδόθην]]</big>**  |paredothēn <small><sup>[[V-API-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hands |**<big>[[G5495\|χεῖρας]]</big>**  |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Romans, |**<big>[[G4514\|Ῥωμαίων,]]</big>**  [^4] |Rhōmaiōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.16|<< Acts 28:16]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.18|Acts 28:18 >>]]</td></tr></table>
 
-[^1]: ==Tyn+WH== spelled: <span class='asgreek'>**συνκαλέσασθαι**</span>
-[^2]: Variant:  <span class='asgreek'>**Παῦλον**</span>  (<i>Paulon</i>) 'Paul' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**αὐτὸν**</span>  (<i>auton</i>) 'he' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^3]: ==TR+Byz==: Paul | <span class="asgreek">Παῦλον</span><small><sup>[[G3972]]</sup></small> | Paulon<small><sup>[[N-ASM-P]]</sup></small>
-[^4]: ==Tyn== spelled: ̔<span class='asgreek'>**Ρωμαίων**</span>
+[^1]: ==Tyn+WH== spelled: **<big><span class='asgreek'>συνκαλέσασθαι</span></big>**
+[^2]: Variant:  **<big><span class='asgreek'>Παῦλον</span></big>**  (<i>Paulon</i>) 'Paul' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>αὐτὸν</span></big>**  (<i>auton</i>) 'he' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^3]: ==TR+Byz==: Paul | **<big>[[G3972|Παῦλον]]</big>** | Paulon<small><sup>[[N-ASM-P]]</sup></small>
+[^4]: ==Tyn== spelled: ̔**<big><span class='asgreek'>Ρωμαίων</span></big>**

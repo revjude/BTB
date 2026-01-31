@@ -6,19 +6,19 @@ Better to live on a corner of the roof than to share a house with a quarrelsome 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.23|<< Proverbs 25:23]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.25|Proverbs 25:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] good  | <span class="ashebrew"><big>ט֗וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to dwell  | <span class="ashebrew"><big>שֶׁ֥בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| She.vet <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] corner of  | <span class="ashebrew"><big>פִּנַּת </big></span><small><small><sup>[[H6438H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pi.nat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a roof  | <span class="ashebrew"><big>גָּ֑ג </big></span><small><small><sup>[[H1406]]</sup></small></small> &#8207;| Gag <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than a woman of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֥שֶׁת </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'E.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| contentions  [^1] | <span class="ashebrew"><big>מִ֝דְיָנִ֗ים </big></span><small><small><sup>[[H4079]]</sup></small></small> &#8207;[^2] | mi.do.nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and a house of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| association  | <span class="asaramaic"><big>חָֽבֶר </big></span><small><small><sup>[[H2269]]</sup></small></small> <span class="asaramaic"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֗וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to dwell  |**<big>&#8207;[[H3427\|שֶׁ֥בֶת]]&#8207; </big>**| She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] corner of  |**<big>&#8207;[[H6438H\|פִּנַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pi.nat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a roof  |**<big>&#8207;[[H1406\|גָּ֑ג]]&#8207; </big>**| Gag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than a woman of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0802H\|אֵ֥שֶׁת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| contentions  [^1]|**<big>&#8207;[[H4079\|מִ֝דְיָנִ֗ים]]&#8207; </big>**[^2] | mi.do.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and a house of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בֵ֥ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| association  |**<big>&#8207;[[H2269\|חָֽבֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.23|<< Proverbs 25:23]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.25|Proverbs 25:25 >>]]</td></tr></table>
 
-[^1]: ==K==: **contentions ** | <small><sup>[[H4066]]</sup></small> <span class="ashebrew"><big>מְדוֹנִים</big></span>  | mi.do.nim<small><sup>[[HNcmpa]]</sup></small> 
+[^1]: ==K==: contentions  | **<big>[[H4066|מְדוֹנִים]]</big> ** | mi.do.nim<small><sup>[[HNcmpa]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>מִ֝דְוָנִ֗ים</big></span>**
 

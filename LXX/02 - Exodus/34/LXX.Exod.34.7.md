@@ -7,41 +7,41 @@ Keeping mercy for thousands, forgiving iniquity and transgression and sin, and t
 maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”<small><sub>**MT:**</sub></small>
 [[Exod.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.6|<< Exodus 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.8|Exodus 34:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| observing | <big><span class="asgreek">διατηρών</span></big> <sup><small><small>[[G1301]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| thousands, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| removing | <big><span class="asgreek">αφαιρών</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| lawlessnesses, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iniquities, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sins; | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liable | <big><span class="asgreek">ένοχον</span></big> <sup><small><small>[[G1777]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cleanse; | <big><span class="asgreek">καθαριεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| bringing | <big><span class="asgreek">επάγων</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| \[the\] lawlessnesses | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| of \[the\] fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of \[the\] children, | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτην</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτην</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| generation. | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| observing | **<big>[[G1301\|διατηρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| doing | **<big>[[G4160\|ποιών]]</big>** |
+| mercy | **<big>[[G1656\|έλεος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| thousands, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| removing | **<big>[[G0851\|αφαιρών]]</big>** |
+| lawlessnesses, | **<big>[[G0458\|ανομίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iniquities, | **<big>[[G0093\|αδικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sins; | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| liable | **<big>[[G1777\|ένοχον]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| cleanse; | **<big>[[G2511\|καθαριεί]]</big>** |
+| bringing | **<big>[[G1863\|επάγων]]</big>** |
+| \[the\] lawlessnesses | **<big>[[G0458\|ανομίας]]</big>** |
+| of \[the\] fathers | **<big>[[G3962\|πατέρων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] children, | **<big>[[G5043\|τέκνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] children | **<big>[[G5043\|τέκνα]]</big>** |
+| of \[the\] children, | **<big>[[G5043\|τέκνων]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτην]]</big>** |
+| generation. | **<big>[[G1074\|γενεάν]]</big>** |
 [[Exod.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.6|<< Exodus 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.8|Exodus 34:8 >>]]</td></tr></table>
 
 

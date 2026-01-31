@@ -7,16 +7,16 @@ If he cut off, and shut up, or gather together, then who can hinder him?
 If He comes along to imprison you, or convenes a court, who can stop Him?<small><sub>**MT:**</sub></small>
 [[Job.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.9|<< Job 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.11|Job 11:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he shall eradicate | <big><span class="asgreek">καταστρέψη</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| all \[things\], | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did you do? | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he shall eradicate | **<big>[[G2690\|καταστρέψη]]</big>** |
+| all \[things\], | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| will say | **<big>[[G2046\|ερεί]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| did you do? | **<big>[[G4160\|εποίησας]]</big>** |
 [[Job.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.9|<< Job 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.11|Job 11:11 >>]]</td></tr></table>
 
 

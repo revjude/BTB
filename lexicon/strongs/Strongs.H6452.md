@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּסַח‎</span></big> **pâçach** <small>*(paw-sakh')*</small> ==**to pass**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּסַח‎</span></big>** **pâçach** <small>*(paw-sakh')*</small> ==**to pass**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ halt, become lame, leap, pass over.
@@ -14,4 +14,4 @@ $\quad$ **2a)** (Qal) to limp
 $\quad$ **2b)** (Niphal) to be lame
 $\quad$ **2c)** (Piel) to limp
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παρέρχομαι</span><sup><small>[[G3928]]</small></sup> · <span class="asgreek">περιποιέομαι</span><sup><small>[[G4046]]</small></sup>
+<small>See Greek: </small>**<big>[[G3928|παρέρχομαι]]</big>** · **<big>[[G4046|περιποιέομαι]]</big>**

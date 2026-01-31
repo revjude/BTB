@@ -7,37 +7,37 @@ And the gate of the inner court [was] over against the gate toward the north, an
 There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits.<small><sub>**MT:**</sub></small>
 [[Ezek.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.22|<< Ezekiel 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.24|Ezekiel 40:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there was\] a gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρα</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπουσά</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| towards | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| in the | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| gate -- | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[there was\] a gate | **<big>[[G4439\|πύλη]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρα]]</big>** |
+| looking | **<big>[[G0991\|βλεπουσά]]</big>** |
+| towards | **<big>[[G1909\|επί]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλην]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| north, | **<big>[[G1005\|βορρά]]</big>** |
+| in the | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| courtyard | **<big>[[G0833\|αυλήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| gate -- | **<big>[[G4439\|πύλην]]</big>** |
+| cubits | **<big>[[G4083\|πήχεις]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
 [[Ezek.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.22|<< Ezekiel 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.24|Ezekiel 40:24 >>]]</td></tr></table>
 
 

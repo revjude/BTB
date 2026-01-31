@@ -6,18 +6,18 @@ I went past the field of a slacker and by the vineyard of a man lacking judgment
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.29|<< Proverbs 24:29]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.31|Proverbs 24:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] field of  | <span class="ashebrew"><big>שְׂדֵ֣ה </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| se.Deh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lazy  | <span class="ashebrew"><big>עָצֵ֣ל </big></span><small><small><sup>[[H6102]]</sup></small></small> &#8207;| 'a.Tzel <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I passed by  | <span class="ashebrew"><big>עָבַ֑רְתִּי </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and at  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] vineyard of  | <span class="ashebrew"><big>כֶּ֝֗רֶם </big></span><small><small><sup>[[H3754]]</sup></small></small> &#8207;| Ke.rem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lacking of  | <span class="ashebrew"><big>חֲסַר </big></span><small><small><sup>[[H2638]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| cha.sar- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵֽב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field of  |**<big>&#8207;[[H7704G\|שְׂדֵ֣ה]]&#8207; </big>**| se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lazy  |**<big>&#8207;[[H6102\|עָצֵ֣ל]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I passed by  |**<big>&#8207;[[H5674A\|עָבַ֑רְתִּי]]&#8207; </big>**| 'a.Var.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vineyard of  |**<big>&#8207;[[H3754\|כֶּ֝֗רֶם]]&#8207; </big>**| Ke.rem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lacking of  |**<big>&#8207;[[H2638\|חֲסַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.sar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.29|<< Proverbs 24:29]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.31|Proverbs 24:31 >>]]</td></tr></table>
 
 

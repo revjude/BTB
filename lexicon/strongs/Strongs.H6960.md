@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָוָה‎</span></big> **qâvâh** <small>*(kaw-vaw')*</small> ==**to await**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָוָה‎</span></big>** **qâvâh** <small>*(kaw-vaw')*</small> ==**to await**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gather (together), look, patiently, tarry, wait (for, on, upon).
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b3)** to wait for, linger for
 **2)** to collect, bind together
 $\quad$ **2a)** (Niphal) to be collected
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναμένω</span><sup><small>[[G0362]]</small></sup> · <span class="asgreek">ἐγγίζω</span><sup><small>[[G1448]]</small></sup> · <span class="asgreek">ἐλπίζω</span><sup><small>[[G1679]]</small></sup> · <span class="asgreek">ἐπέχω</span><sup><small>[[G1907]]</small></sup> · <span class="asgreek">μένω</span><sup><small>[[G3306]]</small></sup> · <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup> · <span class="asgreek">περιμένω</span><sup><small>[[G4037]]</small></sup> · <span class="asgreek">προσδοκάω</span><sup><small>[[G4328]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">ὑπομένω</span><sup><small>[[G5278]]</small></sup>
+<small>See Greek: </small>**<big>[[G0362|ἀναμένω]]</big>** · **<big>[[G1448|ἐγγίζω]]</big>** · **<big>[[G1679|ἐλπίζω]]</big>** · **<big>[[G1907|ἐπέχω]]</big>** · **<big>[[G3306|μένω]]</big>** · **<big>[[G3982|πείθω]]</big>** · **<big>[[G4037|περιμένω]]</big>** · **<big>[[G4328|προσδοκάω]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G5278|ὑπομένω]]</big>**

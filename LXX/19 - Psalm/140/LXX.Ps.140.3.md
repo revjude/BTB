@@ -11,18 +11,18 @@ They sharpen their tongues like snakes; the venom of vipers is on their lips. Se
 > $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They sharpened | <big><span class="asgreek">ηκόνησαν</span></big> <sup><small><small>[[G6193]]</small></small></sup> |
-| their tongue | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a serpent; | <big><span class="asgreek">όφεως</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| \[the\] poison | <big><span class="asgreek">ιός</span></big> <sup><small><small>[[G2447]]</small></small></sup> |
-| of asps | <big><span class="asgreek">ασπίδων</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
-| \[is\] under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lips. | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
+| They sharpened | **<big>[[G6193\|ηκόνησαν]]</big>** |
+| their tongue | **<big>[[G1100\|γλώσσαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a serpent; | **<big>[[G3789\|όφεως]]</big>** |
+| \[the\] poison | **<big>[[G2447\|ιός]]</big>** |
+| of asps | **<big>[[G0785\|ασπίδων]]</big>** |
+| \[is\] under | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their lips. | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
 [[Ps.140.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.2|<< Psalm 140:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.4|Psalm 140:4 >>]]</td></tr></table>
 
 

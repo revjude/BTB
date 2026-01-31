@@ -7,26 +7,26 @@ Then will I stablish the throne of thy kingdom, according as I have covenanted w
 then I will establish your royal throne, as I covenanted with your father David when I said, ‘You will never fail to have a man to rule over Israel.’<small><sub>**MT:**</sub></small>
 [[2Chr.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.17|<< 2 Chronicles 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.19|2 Chronicles 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will raise up | <big><span class="asgreek">αναστήσω</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| throne | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| I ordained | <big><span class="asgreek">διεθέμην</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| to David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father, | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| There shall not be removed | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξαρθήσεταί</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| ruling | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will raise up | **<big>[[G0450\|αναστήσω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| throne | **<big>[[G2362\|θρόνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your kingdom | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| I ordained | **<big>[[G1303\|διεθέμην]]</big>** |
+| to David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your father, | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| There shall not be removed | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1808\|εξαρθήσεταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| ruling | **<big>[[G2233\|ηγούμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Chr.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.17|<< 2 Chronicles 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.19|2 Chronicles 7:19 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ And Hamor and Shechem his son came unto the gate of their city, and communed wit
 So Hamor and his son Shechem went to the gate of their city and addressed the men of their city:<small><sub>**MT:**</sub></small>
 [[Gen.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.19|<< Genesis 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.21|Genesis 34:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Hamor | <big><span class="asgreek">Εμμώρ</span></big> <sup><small><small>[[G1697]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shechem | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Hamor | **<big>[[G1697\|Εμμώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate | **<big>[[G4439\|πύλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
 [[Gen.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.19|<< Genesis 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.21|Genesis 34:21 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.0|<< Psalms 9:0]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.2|Psalms 9:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I will give thanks to  | <span class="ashebrew"><big>אוֹדֶ֣ה </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| 'o.Deh <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לִבִּ֑ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will recount  | <span class="ashebrew"><big>אֲ֝סַפְּרָ֗ה </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| 'a.sa.pe.Rah <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonders your  | <span class="ashebrew"><big>נִפְלְאוֹתֶֽי </big></span><small><small><sup>[[H6381]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nif.le.'o.Tei. <small><sup>[[HVNrfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give thanks to  |**<big>&#8207;[[H3034\|אוֹדֶ֣ה]]&#8207; </big>**| 'o.Deh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will recount  |**<big>&#8207;[[H5608A\|אֲ֝סַפְּרָ֗ה]]&#8207; </big>**| 'a.sa.pe.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonders your  |**<big>&#8207;[[H6381\|נִפְלְאוֹתֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nif.le.'o.Tei.<small><sup>[[HVNrfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.0|<< Psalms 9:0]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.2|Psalms 9:2 >>]]</td></tr></table>
 
 

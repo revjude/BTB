@@ -7,38 +7,38 @@ Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very mu
 And from Tibhath and Cun, cities of Hadadezer, David took a large amount of bronze, with which Solomon made the bronze Sea, the pillars, and various bronze articles.<small><sub>**MT:**</sub></small>
 [[1Chr.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.7|<< 1 Chronicles 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.9|1 Chronicles 18:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Tibhath, | <big><span class="asgreek">Ταβάθ</span></big> <sup><small><small>[[H2880]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hadarezer, | <big><span class="asgreek">Αδαδεζέρ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
-| David took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| brass | <big><span class="asgreek">χαλκόν</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| much | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| Of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Solomon made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brass | <big><span class="asgreek">χαλκήν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns, | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of brass. | <big><span class="asgreek">χαλκά</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Tibhath, | **<big>[[H2880\|Ταβάθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτών]]</big>** |
+| cities | **<big>[[G4172\|πόλεων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of Hadarezer, | **<big>[[H1928\|Αδαδεζέρ]]</big>** |
+| David took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| brass | **<big>[[G5475\|χαλκόν]]</big>** |
+| much | **<big>[[G4183\|πολύν]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| Of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| Solomon made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| brass | **<big>[[G5470\|χαλκήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| columns, | **<big>[[G4769\|στύλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of brass. | **<big>[[G5470\|χαλκά]]</big>** |
 [[1Chr.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.7|<< 1 Chronicles 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.9|1 Chronicles 18:9 >>]]</td></tr></table>
 
 

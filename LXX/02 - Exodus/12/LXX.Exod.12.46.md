@@ -11,26 +11,26 @@ It must be eaten inside one house. You are not to take any of the meat outside t
 > $\quad$ referenced by: [[John.19.36|John 19:36]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| it shall be eaten, | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bring forth | <big><span class="asgreek">εξοίσετε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| \[of any\] of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a bone | <big><span class="asgreek">οστούν</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| you shall not break | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συντρίψετε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| it shall be eaten, | **<big>[[G0977\|βρωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| bring forth | **<big>[[G1627\|εξοίσετε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| house | **<big>[[G3614\|οικίας]]</big>** |
+| \[of any\] of the | **<big>[[G3588\|των]]</big>** |
+| meats | **<big>[[G2907\|κρεών]]</big>** |
+| outside, | **<big>[[G1854\|έξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a bone | **<big>[[G3747\|οστούν]]</big>** |
+| you shall not break | **<big>[[G3756\|ου]]</big>** **<big>[[G4937\|συντρίψετε]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.12.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.45|<< Exodus 12:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.47|Exodus 12:47 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ashkelon</span>, one of the five principal Philistine cities, was captured by Judah but later became a symbol of judgment.
 - A location in Philistia first mentioned at [[Josh.13.3|Jos.13.3]]; 
-- referred to as Ashkelon<[[H0831]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Ashkelon<[[H0832]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Ashkelon **<big>[[H0831|אַשְׁקְלוֹן]]</big>**, or Ashkelon **<big>[[H0832|אֶשְׁקְלוֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.66240510553615,34.54722773494757&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ Throughout its biblical history, Ashkelon remains a significant Philistine stron
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ashkelon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0831) <small>*Hebrew*</small> | 12x | [[Jdg.1.18] ... [Zec.9.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkelon\*\|reference=Jdg.1.18;Jdg.14.19;1Sa.6.17;2Sa.1.20;Jer.25.20;Jer.47.5;Jer.47.7;Amo.1.8;Zep.2.4;Zep.2.7;Zec.9.5;Zec.9.5) |
-| Ashkelon | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0832) <small>*Hebrew*</small> | 1x | [Jos.13.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkelon\*\|reference=Jos.13.3) |
-All Strong's for **Ashkelon**: \[[[H0831]]\] \[[[H0832]]\]
+| Ashkelon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0831) | 12x | [[Jdg.1.18] ... [Zec.9.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkelon\*\|reference=Jdg.1.18;Jdg.14.19;1Sa.6.17;2Sa.1.20;Jer.25.20;Jer.47.5;Jer.47.7;Amo.1.8;Zep.2.4;Zep.2.7;Zec.9.5;Zec.9.5) |
+| Ashkelon | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0832) | 1x | [Jos.13.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkelon\*\|reference=Jos.13.3) |
+All entries for **Ashkelon**:  **<big>[[H0831|אַשְׁקְלוֹן]]</big>** ☩  **<big>[[H0832|אֶשְׁקְלוֹנִי]]</big>**

@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Alexander</span> was a Jew whom the crowd put forward during the riot in Ephesus, but they shouted him down when they realized he was a Jew. \(Act.19.33\)
 - A man living at the time of the New Testament, only mentioned at Act.19.33; 
-- only referred to as Alexander<[[G0223I]]> \(<span class='tipnrLangGreek'>Ἀλέξανδρος</span>\).
+- only referred to as Alexander **<big>[[G0223|Ἀλέξανδρος]]</big>**.
 
 Alexander is mentioned during the account of the riot in Ephesus, which was instigated by Demetrius, a silversmith who crafted shrines of Artemis. Demetrius and his fellow craftsmen felt threatened by Paul's preaching, which led many people to turn away from worshipping Artemis. \(Act.19.23-27\) 
 
@@ -20,5 +20,5 @@ Alexander's brief appearance in this narrative highlights the complex social and
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223I) <small>*Greek*</small> | 2x | [[Act.19.33a] & [Act.19.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Act.19.33) |
-All Strong's for **Alexander**: \[[[G0223I]]\]
+| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223I) | 2x | [[Act.19.33a] & [Act.19.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Act.19.33) |
+All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**

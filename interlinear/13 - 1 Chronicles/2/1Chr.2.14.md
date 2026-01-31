@@ -6,12 +6,12 @@ Nethanel fourth, Raddai fifth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.13|<< 1 Chronicles 2:13]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.15|1 Chronicles 2:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Nethanel  | <span class="ashebrew"><big>נְתַנְאֵל֙ </big></span><small><small><sup>[[H5417H]]</sup></small></small> &#8207;| ne.tan.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fourth  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רְבִיעִ֔י </big></span><small><small><sup>[[H7243]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> re.vi.'I <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Raddai  | <span class="ashebrew"><big>רַדַּ֖י </big></span><small><small><sup>[[H7288]]</sup></small></small> &#8207;| ra.Dai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fifth  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חֲמִישִֽׁי </big></span><small><small><sup>[[H2549]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> cha.mi.Shi <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nethanel  |**<big>&#8207;[[H5417H\|נְתַנְאֵל֙]]&#8207; </big>**| ne.tan.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fourth  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7243\|רְבִיעִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Raddai  |**<big>&#8207;[[H7288\|רַדַּ֖י]]&#8207; </big>**| ra.Dai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִֽׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.13|<< 1 Chronicles 2:13]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.15|1 Chronicles 2:15 >>]]</td></tr></table>
 
 

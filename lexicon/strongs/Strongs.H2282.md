@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַג‎</span></big> **chag** <small>*(khag)*</small> ==**feast**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">חָג</span> **châg** <small>*(khawg)*</small>; from <span class="ashebrew">‎חָגַג‎</span><sup><small>[[H2287]]</small></sup></small>
+**<big><span class="ashebrew">‎חַג‎</span></big>** **chag** <small>*(khag)*</small> ==**feast**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">חָג</span></big>** **châg** <small>*(khawg)*</small>; from **<big>[[H2287|‎חָגַג‎]]</big>**</small>
 
 $\quad$ (solemn) feast (day), sacrifice, solemnity.
 - ***a festival***, or ***a victim therefor***
@@ -8,4 +8,4 @@ $\quad$ (solemn) feast (day), sacrifice, solemnity.
 $\quad$ **1a)** feast
 $\quad$ **1b)** festival sacrifice
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἑορτή</span><sup><small>[[G1859]]</small></sup>
+<small>See Greek: </small>**<big>[[G1859|ἑορτή]]</big>**

@@ -6,21 +6,21 @@ And there in the presence of the Israelites, Joshua inscribed on the stones a co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.31|<< Joshua 8:31]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.33|Joshua 8:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he wrote  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּכְתָּב </big></span><small><small><sup>[[H3789]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yikh.tov- <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֖ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the stones  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲבָנִ֑ים </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.va.Nim <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֗ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> copy of  | <span class="ashebrew"><big>מִשְׁנֵה֙ </big></span><small><small><sup>[[H4932H]]</sup></small></small> &#8207;| mish.Neh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] law of  | <span class="ashebrew"><big>תּוֹרַ֣ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had written  | <span class="ashebrew"><big>כָּתַ֔ב </big></span><small><small><sup>[[H3789]]</sup></small></small> &#8207;| ka.Tav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֖י </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתָּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.tov-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the stones  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0068G\|אֲבָנִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֗ת]]&#8207; </big>**| 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> copy of  |**<big>&#8207;[[H4932H\|מִשְׁנֵה֙]]&#8207; </big>**| mish.Neh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֣ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had written  |**<big>&#8207;[[H3789\|כָּתַ֔ב]]&#8207; </big>**| ka.Tav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440H\|פְנֵ֖י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.31|<< Joshua 8:31]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.33|Joshua 8:33 >>]]</td></tr></table>
 
 

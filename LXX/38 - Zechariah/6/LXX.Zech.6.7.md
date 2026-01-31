@@ -7,28 +7,28 @@ And the bay went forth, and sought to go that they might walk to and fro through
 As the strong horses went out, they were eager to go and patrol the earth; and the LORD said, “Go and patrol the earth.” So they patrolled the earth.<small><sub>**MT:**</sub></small>
 [[Zech.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.6|<< Zechariah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.8|Zechariah 6:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dapple-gray -- | <big><span class="asgreek">ψαροί</span></big> <sup><small><small>[[G9787]]</small></small></sup> |
-| they went forth, | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they looked | <big><span class="asgreek">επέβλεπον</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to travel about | <big><span class="asgreek">περιοδεύσαι</span></big> <sup><small><small>[[G8740]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| travel about | <big><span class="asgreek">περιοδεύσατε</span></big> <sup><small><small>[[G8740]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they traveled about | <big><span class="asgreek">περιώδευσαν</span></big> <sup><small><small>[[G8740]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| dapple-gray -- | **<big>[[G9787\|ψαροί]]</big>** |
+| they went forth, | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they looked | **<big>[[G1914\|επέβλεπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to travel about | **<big>[[G8740\|περιοδεύσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| travel about | **<big>[[G8740\|περιοδεύσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth! | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they traveled about | **<big>[[G8740\|περιώδευσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
 [[Zech.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.6|<< Zechariah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.8|Zechariah 6:8 >>]]</td></tr></table>
 
 

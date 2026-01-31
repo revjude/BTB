@@ -6,16 +6,16 @@ When Arphaxad was 35 years old, he became the father of Shelah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.11|<< Genesis 11:11]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.13|Genesis 11:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Arphaxad  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַרְפַּכְשַׁ֣ד </big></span><small><small><sup>[[H0775]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ar.pakh.Shad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he lived  | <span class="ashebrew"><big>חַ֔י </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| Chai <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חָמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thirty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹשִׁ֖ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he fathered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יּ֖וֹלֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.led <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shelah  | <span class="ashebrew"><big>שָֽׁלַח </big></span><small><small><sup>[[H7974]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.lach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Arphaxad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0775\|אַרְפַּכְשַׁ֣ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.pakh.Shad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lived  |**<big>&#8207;[[H2421\|חַ֔י]]&#8207; </big>**| Chai<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חָמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִׁ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֖וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shelah  |**<big>&#8207;[[H7974\|שָֽׁלַח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.lach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.11|<< Genesis 11:11]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.13|Genesis 11:13 >>]]</td></tr></table>
 
 

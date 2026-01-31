@@ -6,17 +6,17 @@ Do you not know that from antiquity, since man was placed on the earth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.3|<< Job 20:3]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.5|Job 20:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ this  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>זֹ֣את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do you know  | <span class="ashebrew"><big>יָ֭דַעְתָּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Ya.da'.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִנִּי </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi.ni- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| antiquity  | <span class="ashebrew"><big>עַ֑ד </big></span><small><small><sup>[[H5703]]</sup></small></small> &#8207;| 'Ad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from when  | <span class="ashebrew"><big>מִנִּ֤י </big></span><small><small><sup>[[H4480A]]</sup></small></small> &#8207;| mi.Ni <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| put  | <span class="ashebrew"><big>שִׂ֖ים </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| sim <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֣ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| earth  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ this  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you know  |**<big>&#8207;[[H3045\|יָ֭דַעְתָּ]]&#8207; </big>**| Ya.da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִנִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.ni-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| antiquity  |**<big>&#8207;[[H5703\|עַ֑ד]]&#8207; </big>**| 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from when  |**<big>&#8207;[[H4480A\|מִנִּ֤י]]&#8207; </big>**| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| put  |**<big>&#8207;[[H7760H\|שִׂ֖ים]]&#8207; </big>**| sim<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| earth  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.3|<< Job 20:3]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.5|Job 20:5 >>]]</td></tr></table>
 
 

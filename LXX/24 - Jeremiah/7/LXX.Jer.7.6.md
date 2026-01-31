@@ -7,31 +7,31 @@ and you should not tyrannize over \[the\] foreigner and orphan and widow; and yo
 if you no longer oppress the foreigner and the fatherless and the widow, and if you no longer shed innocent blood in this place or follow other gods to your own harm,<small><sub>**MT:**</sub></small>
 [[Jer.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] foreigner | <big><span class="asgreek">προσήλυτον</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| orphan | <big><span class="asgreek">ορφανόν</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| widow | <big><span class="asgreek">χήραν</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| tyrannize over | <big><span class="asgreek">καταδυναστεύσητε</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| innocent | <big><span class="asgreek">αθώον</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| pour out | <big><span class="asgreek">εκχέητε</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place; | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| strange gods | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίων</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύησθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| your hurt; | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">υμιν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] foreigner | **<big>[[G4339\|προσήλυτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| orphan | **<big>[[G3737\|ορφανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| widow | **<big>[[G5503\|χήραν]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| tyrannize over | **<big>[[G2616\|καταδυναστεύσητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| innocent | **<big>[[G0121\|αθώον]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| pour out | **<big>[[G1632\|εκχέητε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place; | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| strange gods | **<big>[[G2316\|θεών]]</big>** **<big>[[G0245\|αλλοτρίων]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| go | **<big>[[G4198\|πορεύησθε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| your hurt; | **<big>[[G2556\|κακόν]]</big>** **<big>[[G1473\|υμιν]]</big>** |
 [[Jer.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
 

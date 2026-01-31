@@ -7,39 +7,39 @@ And he arose early in the morning on the fifth day to depart: and the damsel’s
 On the fifth day, he got up early in the morning to depart, but the girl’s father said, “Please refresh your heart.” So they waited until late afternoon and the two of them ate.<small><sub>**MT:**</sub></small>
 [[Judg.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.7|<< Judges 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.9|Judges 19:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he rose early | <big><span class="asgreek">ώρθρισε</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth | <big><span class="asgreek">πέμπτη</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to depart. | <big><span class="asgreek">απελθείν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman | <big><span class="asgreek">νεάνιδος</span></big> <sup><small><small>[[G8379]]</small></small></sup> |
-| Support | <big><span class="asgreek">στήρισον</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with bread, | <big><span class="asgreek">άρτω</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| soldier | <big><span class="asgreek">στρατεύθητι</span></big> <sup><small><small>[[G4754]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| should decline | <big><span class="asgreek">κλίνη</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drank | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he rose early | **<big>[[G3719\|ώρθρισε]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| fifth | **<big>[[G3991\|πέμπτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to depart. | **<big>[[G0565\|απελθείν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| young woman | **<big>[[G8379\|νεάνιδος]]</big>** |
+| Support | **<big>[[G4741\|στήρισον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with bread, | **<big>[[G0740\|άρτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| soldier | **<big>[[G4754\|στρατεύθητι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| should decline | **<big>[[G2827\|κλίνη]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| ate | **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drank | **<big>[[G4095\|έπιον]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
 [[Judg.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.7|<< Judges 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.9|Judges 19:9 >>]]</td></tr></table>
 
 

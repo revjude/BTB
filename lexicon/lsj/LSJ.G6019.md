@@ -1,5 +1,5 @@
 <span class="asgreek">δισμυριάς</span> <small>***(dismurias)***</small> ==**two-myriad**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-combination of: <small>[[G3461]] ([[G1417]]+[[G3461]])</small> 
+combination of: <small>**<big>[[G3461|μυριάς]]</big>** (**<big>[[G1417|δύο]]</big>**+**<big>[[G3461|μυριάς]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==δισμυριάς==</span>-<span class='asgreek'>μύριοι</span></b> [<span class='asgreek'>ῡ</span>], <span class='asgreek'>αι</span>, <span class='asgreek'>α</span>, 

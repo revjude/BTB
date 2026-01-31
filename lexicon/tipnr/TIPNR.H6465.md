@@ -1,8 +1,8 @@
 <small>*Peor • A mountain in Moab associated with idolatry*</small>
 
 <span class='tipnrhighlight'>Peor</span> was a mountain in Moab where Balak brought Balaam to curse Israel, and where the Israelites later engaged in idolatry and immorality with the Moabites.
-- A location near Pisgah<[[H6449]]> first mentioned at [[Num.23.28|Num.23.28]]; 
-- only referred to as Peor<[[H6465]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Pisgah **<big>[[H6449|פִּסְגָּה]]</big>** first mentioned at [[Num.23.28|Num.23.28]]; 
+- only referred to as Peor **<big>[[H6465|פְּעוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.76503129703305,35.71856575741812&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ Later, when the Israelites were camped in the plains of Moab, they began to enga
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Peor | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H6465) <small>*Hebrew*</small> | 5x | [[Num.23.28] ... [Jos.22.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Peor\*\|reference=Num.23.28;Num.25.18;Num.25.18;Num.31.16;Jos.22.17) |
-All Strong's for **Peor**: \[[[H6465]]\]
+| Peor | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H6465) | 5x | [[Num.23.28] ... [Jos.22.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Peor\*\|reference=Num.23.28;Num.25.18;Num.25.18;Num.31.16;Jos.22.17) |
+All entries for **Peor**:  **<big>[[H6465|פְּעוֹר]]</big>**

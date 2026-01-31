@@ -11,28 +11,28 @@ You must not swear falsely by My name and so profane the name of your God. I am 
 > $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| swear by an oath | <big><span class="asgreek">ομείσθε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| unjustly. | <big><span class="asgreek">αδίκω</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| profane | <big><span class="asgreek">βεβηλώσετε</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| swear by an oath | **<big>[[G3660\|ομείσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| unjustly. | **<big>[[G0094\|αδίκω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| profane | **<big>[[G0953\|βεβηλώσετε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.11|<< Leviticus 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.13|Leviticus 19:13 >>]]</td></tr></table>
 
 

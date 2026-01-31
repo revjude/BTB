@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָנָה‎</span></big> **qânâh** <small>*(kaw-naw')*</small> ==**to buy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָנָה‎</span></big>** **qânâh** <small>*(kaw-naw')*</small> ==**to buy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ attain, buy(-er), teach to keep cattle, get, provoke to jealousy, possess(-or), purchase, recover, redeem, [idiom] surely, [idiom] verily.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1a2)** to buy
 $\quad$ **1b)** (Niphal) to be bought
 $\quad$ **1c)** (Hiphil) to cause to possess
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἀγοράζω</span><sup><small>[[G0059]]</small></sup> · <span class="asgreek">γέννημα</span><sup><small>[[G1081]]</small></sup> · <span class="asgreek">κτάομαι</span><sup><small>[[G2932]]</small></sup> · <span class="asgreek">κτίζω</span><sup><small>[[G2936]]</small></sup> · <span class="asgreek">λυτρόω</span><sup><small>[[G3084]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0059|ἀγοράζω]]</big>** · **<big>[[G1081|γέννημα]]</big>** · **<big>[[G2932|κτάομαι]]</big>** · **<big>[[G2936|κτίζω]]</big>** · **<big>[[G3084|λυτρόω]]</big>**

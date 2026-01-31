@@ -14,30 +14,30 @@ Then he had the tribe of Benjamin come forward by its clans, and the clan of Mat
 > $\quad$ referenced by: [[Acts.13.21|Acts 13:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led forward | <big><span class="asgreek">προσήγαγε</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλήν</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Benjamin | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| family, | <big><span class="asgreek">πατριάν</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was chosen by lot | <big><span class="asgreek">κατακληρούται</span></big> <sup><small><small>[[G7854]]</small></small></sup> |
-| \[the\] family | <big><span class="asgreek">πατριά</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| of Matri | <big><span class="asgreek">Αματταρί</span></big> <sup><small><small>[[H4309]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was chosen by lot | <big><span class="asgreek">κατακληρούται</span></big> <sup><small><small>[[G7854]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kish | <big><span class="asgreek">Κις</span></big> <sup><small><small>[[G2797]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sought | <big><span class="asgreek">εζήτει</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| found. | <big><span class="asgreek">ευρίσκετο</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led forward | **<big>[[G4317\|προσήγαγε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tribe | **<big>[[G5443\|φυλήν]]</big>** |
+| of Benjamin | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| family, | **<big>[[G3965\|πατριάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was chosen by lot | **<big>[[G7854\|κατακληρούται]]</big>** |
+| \[the\] family | **<big>[[G3965\|πατριά]]</big>** |
+| of Matri | **<big>[[H4309\|Αματταρί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was chosen by lot | **<big>[[G7854\|κατακληρούται]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Kish | **<big>[[G2797\|Κις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sought | **<big>[[G2212\|εζήτει]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was not | **<big>[[G3756\|ουχ]]</big>** |
+| found. | **<big>[[G2147\|ευρίσκετο]]</big>** |
 [[1Sam.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
 
 

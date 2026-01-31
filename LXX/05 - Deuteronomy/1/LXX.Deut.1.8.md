@@ -7,35 +7,35 @@ Behold, I have set the land before you: go in and possess the land which the LOR
 See, I have placed the land before you. Enter and possess the land that the LORD swore He would give to your fathers Abraham, Isaac, and Jacob, and to their descendants after them.”<small><sub>**MT:**</sub></small>
 [[Deut.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.7|<< Deuteronomy 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.9|Deuteronomy 1:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| I have delivered up | <big><span class="asgreek">παραδέδωκα</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Having entered, | <big><span class="asgreek">εισπορευθέντες</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| inherit | <big><span class="asgreek">κληρονομήσατε</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I swore by an oath | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers, | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their seed | <big><span class="asgreek">σπέρματι</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold! | **<big>[[G1492\|ίδετε]]</big>** |
+| I have delivered up | **<big>[[G3860\|παραδέδωκα]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
+| Having entered, | **<big>[[G1531\|εισπορευθέντες]]</big>** |
+| inherit | **<big>[[G2816\|κληρονομήσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land! | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I swore by an oath | **<big>[[G3660\|ώμοσα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your fathers, | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| their seed | **<big>[[G4690\|σπέρματι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Deut.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.7|<< Deuteronomy 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.9|Deuteronomy 1:9 >>]]</td></tr></table>
 
 

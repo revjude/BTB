@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎זוּד‎</span></big> **zûwd** <small>*(zood)*</small> ==**be proud**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎זוּד‎</span><sup><small>[[H2102]]</small></sup></small>
+**<big><span class="asaramaic">‎זוּד‎</span></big>** **zûwd** <small>*(zood)*</small> ==**be proud**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2102|‎זוּד‎]]</big>**</small>
 
 $\quad$ in pride.
 - ***to be proud***

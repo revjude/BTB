@@ -7,43 +7,43 @@ And they arose out of Midian, and came to Paran: and they took men with them out
 Hadad and his men set out from Midian and went to Paran. They took men from Paran with them and went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food.<small><sub>**MT:**</sub></small>
 [[1Kgs.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.17|<< 1 Kings 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.19|1 Kings 11:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they rose up | <big><span class="asgreek">ανίστανται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Midian, | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Paran. | <big><span class="asgreek">Φαράν</span></big> <sup><small><small>[[H6290]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">λαμβάνουσιν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| themselves, | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hadad entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh. | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| ordered | <big><span class="asgreek">διέταξεν</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
-| for him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they rose up | **<big>[[G0450\|ανίστανται]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| Midian, | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|έρχονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Paran. | **<big>[[H6290\|Φαράν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|λαμβάνουσιν]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| themselves, | **<big>[[G1438\|εαυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|έρχονται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hadad entered | **<big>[[G1525\|εισήλθεν]]</big>** **<big>[[H2301\|Αδάρ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh. | **<big>[[G5328\|Φαραώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a house, | **<big>[[G3624\|οίκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| ordered | **<big>[[G1299\|διέταξεν]]</big>** |
+| for him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[1Kgs.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.17|<< 1 Kings 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.19|1 Kings 11:19 >>]]</td></tr></table>
 
 

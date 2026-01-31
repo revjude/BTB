@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עַצְלָה‎</span></big> **ʻatslâh** <small>*(ats-law')*</small> ==**sluggishness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עָצֵל‎</span><sup><small>[[H6102]]</small></sup></small>
+**<big><span class="ashebrew">‎עַצְלָה‎</span></big>** **ʻatslâh** <small>*(ats-law')*</small> ==**sluggishness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6102|‎עָצֵל‎]]</big>**</small>
 
 $\quad$ slothfulness.
 - (as abstractly) ***indolence***
 
 **1)** sluggishness, laziness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δειλία</span><sup><small>[[G1167]]</small></sup>
+<small>See Greek: </small>**<big>[[G1167|δειλία]]</big>**

@@ -7,34 +7,34 @@ All the men of thy confederacy have brought thee [even] to the border: the men t
 All the men allied with you will drive you to the border; the men at peace with you will deceive and overpower you. Those who eat your bread will set a trap for you without your awareness of it.<small><sub>**MT:**</sub></small>
 [[Obad.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.6|<< Obadiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.8|Obadiah 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| they sent | <big><span class="asgreek">εξαπέστειλάν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| opposed | <big><span class="asgreek">αντέστησάν</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they prevailed | <big><span class="asgreek">ηδυνάσθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| peaceable | <big><span class="asgreek">ειρηνικοί</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put | <big><span class="asgreek">έθηκαν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| an ambush | <big><span class="asgreek">ένεδρα</span></big> <sup><small><small>[[G1749]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| There is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| understanding | <big><span class="asgreek">σύνεσις</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G3725\|ορίων]]</big>** |
+| they sent | **<big>[[G1821\|εξαπέστειλάν]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your covenant | **<big>[[G1242\|διαθήκης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| opposed | **<big>[[G0436\|αντέστησάν]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
+| they prevailed | **<big>[[G1410\|ηδυνάσθησαν]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| peaceable | **<big>[[G1516\|ειρηνικοί]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| put | **<big>[[G5087\|έθηκαν]]</big>** |
+| an ambush | **<big>[[G1749\|ένεδρα]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| There is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| understanding | **<big>[[G4907\|σύνεσις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Obad.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.6|<< Obadiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.8|Obadiah 1:8 >>]]</td></tr></table>
 
 

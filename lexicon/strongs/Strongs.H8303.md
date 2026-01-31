@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁרְיוֹן‎</span></big> **Shiryôwn** <small>*(shir-yone')*</small> ==**Sirion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>and <span class="ashebrew">שִׂרְיֹן</span> **Siryôn** <small>*(sir-yone')*</small>; the same as <span class="ashebrew">‎שְׂרָיָה‎</span><sup><small>[[H8304]]</small></sup> (i.e. sheeted with snow)</small>
+**<big><span class="ashebrew">‎שִׁרְיוֹן‎</span></big>** **Shiryôwn** <small>*(shir-yone')*</small> ==**Sirion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>and **<big><span class="ashebrew">שִׂרְיֹן</span></big>** **Siryôn** <small>*(sir-yone')*</small>; the same as **<big>[[H8304|‎שְׂרָיָה‎]]</big>** (i.e. sheeted with snow)</small>
 
 $\quad$ Sirion.
 - § Sirion = *"breastplate"*

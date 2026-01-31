@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹשַׁעְיָה‎</span></big> **Hôwshaʻyâh** <small>*(ho-shah-yaw')*</small> ==**Hoshaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָשַׁע‎</span><sup><small>[[H3467]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has saved</small>
+**<big><span class="ashebrew">‎הוֹשַׁעְיָה‎</span></big>** **Hôwshaʻyâh** <small>*(ho-shah-yaw')*</small> ==**Hoshaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3467|‎יָשַׁע‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has saved</small>
 
 $\quad$ Hoshaiah.
 - § Hoshaiah = *"Jehovah as saved"*

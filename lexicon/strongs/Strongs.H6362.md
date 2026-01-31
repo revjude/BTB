@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּטַר‎</span></big> **pâṭar** <small>*(paw-tar')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּטַר‎</span></big>** **pâṭar** <small>*(paw-tar')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ dismiss, free, let (shoot) out, slip away.

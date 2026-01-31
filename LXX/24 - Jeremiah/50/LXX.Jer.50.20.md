@@ -7,36 +7,36 @@ In those days, and in that time, saith the LORD, the iniquity of Israel shall be
 In those days and at that time, declares the LORD, a search will be made for Israel’s guilt, but there will be none, and for Judah’s sins, but they will not be found; for I will forgive the remnant I preserve.<small><sub>**MT:**</sub></small>
 [[Jer.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.19|<< Jeremiah 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.21|Jeremiah 50:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time, | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they shall seek | <big><span class="asgreek">ζητήσουσι</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unrighteousness | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exist. | <big><span class="asgreek">υπάρξει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| And \[they shall seek\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they be found. | <big><span class="asgreek">ευρεθώσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| kindness | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind. | <big><span class="asgreek">υπολελειμμένοις</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days, | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time, | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| they shall seek | **<big>[[G2212\|ζητήσουσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| unrighteousness | **<big>[[G0093\|αδικίαν]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will not | **<big>[[G3756\|ουχ]]</big>** |
+| exist. | **<big>[[G5225\|υπάρξει]]</big>** |
+| And \[they shall seek\] | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they be found. | **<big>[[G2147\|ευρεθώσιν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| kindness | **<big>[[G2436\|ίλεως]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| being left behind. | **<big>[[G5275\|υπολελειμμένοις]]</big>** |
 [[Jer.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.19|<< Jeremiah 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.21|Jeremiah 50:21 >>]]</td></tr></table>
 
 

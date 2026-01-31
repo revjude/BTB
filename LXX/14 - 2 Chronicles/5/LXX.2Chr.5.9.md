@@ -7,38 +7,38 @@ And they drew out the staves [of the ark], that the ends of the staves were seen
 The poles of the ark extended far enough that their ends were visible from in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day.<small><sub>**MT:**</sub></small>
 [[2Chr.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.8|<< 2 Chronicles 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.10|2 Chronicles 5:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| projected | <big><span class="asgreek">υπερείχον</span></big> <sup><small><small>[[G5242]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were seen | <big><span class="asgreek">εβλέποντο</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tips | <big><span class="asgreek">κεφαλαί</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles | <big><span class="asgreek">αναφορέων</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dabir, | <big><span class="asgreek">δαβίρ</span></big> <sup><small><small>[[G6780]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[they were\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seen | <big><span class="asgreek">εβλέποντο</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| outside. | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| projected | **<big>[[G5242\|υπερείχον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bearing poles | **<big>[[G6320\|αναφορείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were seen | **<big>[[G0991\|εβλέποντο]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| tips | **<big>[[G2776\|κεφαλαί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| bearing poles | **<big>[[G6320\|αναφορέων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holies | **<big>[[G0039\|αγίων]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| dabir, | **<big>[[G6780\|δαβίρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[they were\] not | **<big>[[G3756\|ουκ]]</big>** |
+| seen | **<big>[[G0991\|εβλέποντο]]</big>** |
+| outside. | **<big>[[G1854\|έξω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[2Chr.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.8|<< 2 Chronicles 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.10|2 Chronicles 5:10 >>]]</td></tr></table>
 
 

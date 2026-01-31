@@ -6,17 +6,17 @@ Alas for the day! For the Day of the LORD is near, and it will come as destructi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.14|<< Joel 1:14]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.16|Joel 1:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| alas!  | <span class="ashebrew"><big>אֲהָ֖הּ </big></span><small><small><sup>[[H0162]]</sup></small></small> &#8207;| 'a.Hah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the day  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יּ֑וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> i.Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] near  | <span class="ashebrew"><big>קָרוֹב֙ </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ka.rOv <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day of  | <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like devastation  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שֹׁ֖ד </big></span><small><small><sup>[[H7701]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HR]]</sup></small> Shod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] Almighty  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שַׁדַּ֥י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come  | <span class="ashebrew"><big>יָבֽוֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alas!  |**<big>&#8207;[[H0162\|אֲהָ֖הּ]]&#8207; </big>**| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the day  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3117G\|יּ֑וֹם]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] near  |**<big>&#8207;[[H7138\|קָרוֹב֙]]&#8207; </big>**| ka.rOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  |**<big>&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like devastation  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H7701\|שֹׁ֖ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> Shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] Almighty  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7706\|שַׁדַּ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  |**<big>&#8207;[[H0935G\|יָבֽוֹא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.14|<< Joel 1:14]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.16|Joel 1:16 >>]]</td></tr></table>
 
 

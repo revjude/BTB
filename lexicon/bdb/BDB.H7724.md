@@ -1,4 +1,4 @@
-<small>Also see: [[H8304]]</small>
+<small>Also see: **<big>[[H8304|שְׂרָיָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שְׁוָא‎</span> 
 

@@ -10,28 +10,28 @@ And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me
 Jeremiah told them, “Thus says the LORD, the God of Israel, to whom you sent me to present your petition:<small><sub>**MT:**</sub></small>
 [[Jer.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you sent | <big><span class="asgreek">απεστάλκατέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should fall | <big><span class="asgreek">πέση</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your supplication | <big><span class="asgreek">δέησις</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| of whom | **<big>[[G3739\|ου]]</big>** |
+| you sent | **<big>[[G0649\|απεστάλκατέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should fall | **<big>[[G4098\|πέση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your supplication | **<big>[[G1162\|δέησις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
 
 

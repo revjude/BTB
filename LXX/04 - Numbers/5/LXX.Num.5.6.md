@@ -7,32 +7,32 @@ Speak unto the children of Israel, When a man or woman shall commit any sin that
 “Tell the Israelites that when a man or woman acts unfaithfully against the LORD by committing any sin against another, that person is guilty<small><sub>**MT:**</sub></small>
 [[Num.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.5|<< Numbers 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.7|Numbers 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| A man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| who | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should commit | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mankind, | <big><span class="asgreek">ανθρωπίνων</span></big> <sup><small><small>[[G0442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ignoring | <big><span class="asgreek">παριδών</span></big> <sup><small><small>[[G8646]]</small></small></sup> |
-| should ignore, | <big><span class="asgreek">παρίδη</span></big> <sup><small><small>[[G8646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should trespass | <big><span class="asgreek">πλημμελήση</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| Speak | **<big>[[G2980\|λάλησον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| A man | **<big>[[G0435\|ανήρ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| woman, | **<big>[[G1135\|γυνή]]</big>** |
+| who | **<big>[[G3748\|όστις]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should commit | **<big>[[G4160\|ποιήση]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sins | **<big>[[G0266\|αμαρτιών]]</big>** |
+| of | **<big>[[G3588\|των]]</big>** |
+| mankind, | **<big>[[G0442\|ανθρωπίνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ignoring | **<big>[[G8646\|παριδών]]</big>** |
+| should ignore, | **<big>[[G8646\|παρίδη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should trespass | **<big>[[G8812\|πλημμελήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[Num.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.5|<< Numbers 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.7|Numbers 5:7 >>]]</td></tr></table>
 
 

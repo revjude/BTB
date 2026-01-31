@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻלָּא‎</span></big> **ʻUllâʼ** <small>*(ool-law')*</small> ==**Ulla**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹל‎</span><sup><small>[[H5923]]</small></sup>; burden</small>
+**<big><span class="ashebrew">‎עֻלָּא‎</span></big>** **ʻUllâʼ** <small>*(ool-law')*</small> ==**Ulla**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>feminine of **<big>[[H5923|‎עֹל‎]]</big>**; burden</small>
 
 $\quad$ Ulla.
 - § Ulla = *"yoke"*

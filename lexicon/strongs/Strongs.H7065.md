@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָנָא‎</span></big> **qânâʼ** <small>*(kaw-naw')*</small> ==**be jealous**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָנָא‎</span></big>** **qânâʼ** <small>*(kaw-naw')*</small> ==**be jealous**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (be) envy(-ious), be (move to, provoke to) jealous(-y), [idiom] very, (be) zeal(-ous).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a3)** to be zealous for
 $\quad$ $\quad$ **1a4)** to excite to jealous anger
 $\quad$ **1b)** (Hiphil)  to provoke to jealous anger, cause jealousy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζηλόω</span><sup><small>[[G2206]]</small></sup> · <span class="asgreek">παραζηλόω</span><sup><small>[[G3863]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">παροργίζω</span><sup><small>[[G3949]]</small></sup>
+<small>See Greek: </small>**<big>[[G2206|ζηλόω]]</big>** · **<big>[[G3863|παραζηλόω]]</big>** · **<big>[[G3947|παροξύνω]]</big>** · **<big>[[G3949|παροργίζω]]</big>**

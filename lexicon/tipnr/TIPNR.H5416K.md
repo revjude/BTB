@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nathan</span>, along with other leaders, was summoned by Ezra to assist in teaching the Law to the people.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.8.16|Ezr.8.16]]; 
-- only referred to as Nathan<[[H5416K]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Nathan **<big>[[H5416|נָתָן]]</big>**.
 
 Nathan is mentioned in [[Ezra.8.16|Ezra 8:16]] as one of the leaders summoned by Ezra, a priest and scribe, to assist in teaching the Law of God to the people of Israel. This event took place during the reign of King Artaxerxes of Persia, after Ezra had led a group of exiles back to Jerusalem. 
 
@@ -14,5 +14,5 @@ As part of this effort, Ezra assembled a group of leaders, including Nathan, to 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416K) <small>*Hebrew*</small> | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Ezr.8.16) |
-All Strong's for **Nathan**: \[[[H5416K]]\]
+| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416K) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Ezr.8.16) |
+All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>**

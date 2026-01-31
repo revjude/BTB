@@ -7,34 +7,34 @@ they made war with Bera king of Sodom, and with Birsha king of Gomorrah, and wit
 went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).<small><sub>**MT:**</sub></small>
 [[Gen.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.1|<< Genesis 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.3|Genesis 14:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Bera | <big><span class="asgreek">Βαλλά</span></big> <sup><small><small>[[H1298]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Sodom, | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Birsha | <big><span class="asgreek">Βαρσά</span></big> <sup><small><small>[[H1306]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Gomorrah, | <big><span class="asgreek">Γομόρρας</span></big> <sup><small><small>[[G1116]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Shinab | <big><span class="asgreek">Σενναάρ</span></big> <sup><small><small>[[H8134]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Admah, | <big><span class="asgreek">Αδαμά</span></big> <sup><small><small>[[H0128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shemeber | <big><span class="asgreek">Συμόρ</span></big> <sup><small><small>[[H8038]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Zeboiim, | <big><span class="asgreek">Σεβωείμ</span></big> <sup><small><small>[[H6636]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Bela -- | <big><span class="asgreek">Βαλάκ</span></big> <sup><small><small>[[H1106b]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Zoar. | <big><span class="asgreek">Σηγώρ</span></big> <sup><small><small>[[H6820]]</small></small></sup> |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Bera | **<big>[[H1298\|Βαλλά]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Sodom, | **<big>[[G4670\|Σοδόμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Birsha | **<big>[[H1306\|Βαρσά]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Gomorrah, | **<big>[[G1116\|Γομόρρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Shinab | **<big>[[H8134\|Σενναάρ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Admah, | **<big>[[H0128\|Αδαμά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shemeber | **<big>[[H8038\|Συμόρ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Zeboiim, | **<big>[[H6636\|Σεβωείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| Bela -- | **<big>[[H1106b\|Βαλάκ]]</big>** |
+| this | **<big>[[G3778\|αυτή]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| Zoar. | **<big>[[H6820\|Σηγώρ]]</big>** |
 [[Gen.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.1|<< Genesis 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.3|Genesis 14:3 >>]]</td></tr></table>
 
 

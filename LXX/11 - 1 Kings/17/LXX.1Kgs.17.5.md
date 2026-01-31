@@ -7,27 +7,27 @@ So he went and did according unto the word of the LORD: for he went and dwelt by
 So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan.<small><sub>**MT:**</sub></small>
 [[1Kgs.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.4|<< 1 Kings 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.6|1 Kings 17:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| Elijah | <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he settled | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρω</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Cherith | <big><span class="asgreek">Χερίθ</span></big> <sup><small><small>[[H3747]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| Elijah | **<big>[[G2243\|Ηλίας]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| saying | **<big>[[G4487\|ρήμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he settled | **<big>[[G2523\|εκάθισεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρω]]</big>** |
+| Cherith | **<big>[[H3747\|Χερίθ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan. | **<big>[[G2446\|Ιορδάνου]]</big>** |
 [[1Kgs.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.4|<< 1 Kings 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.6|1 Kings 17:6 >>]]</td></tr></table>
 
 

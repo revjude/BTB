@@ -6,16 +6,16 @@ Moses listened to his father-in-law and did everything he said.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.23|<< Exodus 18:23]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.25|Exodus 18:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he listened  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁמַ֥ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Ma' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֖ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] voice  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father-in-law his  | <span class="ashebrew"><big>חֹתְנ֑ </big></span><small><small><sup>[[H2859A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cho.te.N <small><sup>[[HVqrmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he did  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֕עַשׂ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had said  | <span class="ashebrew"><big>אָמָֽר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he listened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] voice  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father-in-law his  |**<big>&#8207;[[H2859A\|חֹתְנ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| cho.te.N<small><sup>[[HVqrmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֕עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had said  |**<big>&#8207;[[H0559\|אָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.23|<< Exodus 18:23]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.25|Exodus 18:25 >>]]</td></tr></table>
 
 

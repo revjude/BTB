@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִדַּד‎</span></big> **middad** <small>*(mid-dad')*</small> ==**to extend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎נָדַד‎</span><sup><small>[[H5074]]</small></sup></small>
+**<big><span class="ashebrew">‎מִדַּד‎</span></big>** **middad** <small>*(mid-dad')*</small> ==**to extend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H5074|‎נָדַד‎]]</big>**</small>
 
 $\quad$ be gone.
 - ***flight***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחֻזַּת‎</span></big> **ʼĂchuzzath** <small>*(akh-ooz-zath')*</small> ==**Ahuzzath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎אֲחֻזָּה‎</span><sup><small>[[H0272]]</small></sup>; possession</small>
+**<big><span class="ashebrew">‎אֲחֻזַּת‎</span></big>** **ʼĂchuzzath** <small>*(akh-ooz-zath')*</small> ==**Ahuzzath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a variation of **<big>[[H0272|‎אֲחֻזָּה‎]]</big>**; possession</small>
 
 $\quad$ Ahuzzath.
 - § Ahuzzath = *"possession"*

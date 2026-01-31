@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎פֶּלֶס‎</span></big> **peleç** <small>*(peh'-les)*</small> ==**balance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּלַס‎</span><sup><small>[[H6424]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּלֶס‎</span></big>** **peleç** <small>*(peh'-les)*</small> ==**balance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6424|‎פָּלַס‎]]</big>**</small>
 
 $\quad$ scales, weight.
 - ***a balance***
 
 **1)** balance, scale
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ῥιπή</span><sup><small>[[G4493]]</small></sup>
+<small>See Greek: </small>**<big>[[G4493|ῥιπή]]</big>**

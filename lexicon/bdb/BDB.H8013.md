@@ -1,4 +1,4 @@
-<small>Also see: [[H8019]]</small>
+<small>Also see: **<big>[[H8019|שְׁלֹמִית]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שְׁלֹמוֺת‎</span>, I. <span class="bdbLangHebrew">‎שְׁלמִית‎</span> (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׁלוֺ‎</span> [[Ezra.8.10|Ezra 8:10]]) 
 

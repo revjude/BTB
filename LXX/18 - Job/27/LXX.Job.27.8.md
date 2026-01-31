@@ -7,20 +7,20 @@ For what [is] the hope of the hypocrite, though he hath gained, when God taketh 
 For what is the hope of the godless when he is cut off, when God takes away his life?<small><sub>**MT:**</sub></small>
 [[Job.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.7|<< Job 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.9|Job 27:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| For what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβεί</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he waits for? | <big><span class="asgreek">επέχει</span></big> <sup><small><small>[[G1907]]</small></small></sup> |
-| in yielding | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Is it | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| \[that\] he shall be delivered? | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+|  | **<big>[[G2532\|και]]</big>** |
+| For what | **<big>[[G5100\|τις]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \[the\] hope | **<big>[[G1680\|ελπίς]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβεί]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he waits for? | **<big>[[G1907\|επέχει]]</big>** |
+| in yielding | **<big>[[G3982\|πεποιθώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| Is it | **<big>[[G0686\|άρα]]</big>** |
+| \[that\] he shall be delivered? | **<big>[[G4982\|σωθήσεται]]</big>** |
 [[Job.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.7|<< Job 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.9|Job 27:9 >>]]</td></tr></table>
 
 

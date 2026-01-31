@@ -11,39 +11,39 @@ You must show no pity: life for life, eye for eye, tooth for tooth, hand for han
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| life, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| eye | <big><span class="asgreek">οφθαλμόν</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| eye, | <big><span class="asgreek">οφθαλμού</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| tooth | <big><span class="asgreek">οδόντα</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| tooth, | <big><span class="asgreek">οδόντος</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| foot; | <big><span class="asgreek">ποδός</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| in so far | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a blemish | <big><span class="asgreek">μώμον</span></big> <sup><small><small>[[G3470]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσετε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+|  | **<big>[[G1909\|επ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| life | **<big>[[G5590\|ψυχήν]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| life, | **<big>[[G5590\|ψυχής]]</big>** |
+| eye | **<big>[[G3788\|οφθαλμόν]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| eye, | **<big>[[G3788\|οφθαλμού]]</big>** |
+| tooth | **<big>[[G3599\|οδόντα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| tooth, | **<big>[[G3599\|οδόντος]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| hand, | **<big>[[G5495\|χειρός]]</big>** |
+| foot | **<big>[[G4228\|πόδα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| foot; | **<big>[[G4228\|ποδός]]</big>** |
+| in so far | **<big>[[G2530\|καθότι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| should give | **<big>[[G1325\|δω]]</big>** |
+| a blemish | **<big>[[G3470\|μώμον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| neighbor, | **<big>[[G4139\|πλησίον]]</big>** |
+| thus | **<big>[[G3779\|ούτω]]</big>** |
+| you shall give | **<big>[[G1325\|δώσετε]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Deut.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.20|<< Deuteronomy 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.1|Deuteronomy 20:1 >>]]</td></tr></table>
 
 

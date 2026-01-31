@@ -7,15 +7,15 @@ He removeth away the speech of the trusty, and taketh away the understanding of 
 He deprives the trusted of speech and takes away the discernment of elders.<small><sub>**MT:**</sub></small>
 [[Job.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.19|<< Job 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.21|Job 12:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| reconciling | <big><span class="asgreek">διαλλάσσων</span></big> <sup><small><small>[[G1259]]</small></small></sup> |
-| \[the\] lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of \[the\] trustworthy; | <big><span class="asgreek">πιστών</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| \[the\] understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]][[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| he knew; | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| reconciling | **<big>[[G1259\|διαλλάσσων]]</big>** |
+| \[the\] lips | **<big>[[G5491\|χείλη]]</big>** |
+| of \[the\] trustworthy; | **<big>[[G4103\|πιστών]]</big>** |
+| \[the\] understanding | **<big>[[G4907\|σύνεσιν]]</big>**<sup><small>[[G1161\| [ • ] ]]</small></sup> |
+| and | **<big>[[G1161\|δε]]</big>** |
+| of \[the\] elders | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
+| he knew; | **<big>[[G1097\|έγνω]]</big>** |
 [[Job.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.19|<< Job 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.21|Job 12:21 >>]]</td></tr></table>
 
 

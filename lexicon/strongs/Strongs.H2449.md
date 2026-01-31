@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָכַם‎</span></big> **châkam** <small>*(khaw-kam')*</small> ==**be wise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָכַם‎</span></big>** **châkam** <small>*(khaw-kam')*</small> ==**be wise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root,</small>
 
 $\quad$ [idiom] exceeding, teach wisdom, be (make self, shew self) wise, deal (never so) wisely, make wiser.

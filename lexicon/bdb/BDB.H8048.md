@@ -1,4 +1,4 @@
-<small>Also see: [[H8092]] | [[H8096]] | [[H8054]] | [[H8049]]</small>
+<small>Also see: **<big>[[H8092|שִׁמְעָא]]</big>** | **<big>[[H8096|שִׁמְעִי]]</big>** | **<big>[[H8054|שַׁמּוֹת]]</big>** | **<big>[[H8049|שַׁמְהוּת]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎שַׁמָּה‎</span> 
 

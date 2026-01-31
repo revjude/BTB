@@ -6,23 +6,23 @@ Jacob returned to his father Isaac at Mamre, near Kiriath-arba (that is, Hebron)
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.26|<< Genesis 35:26]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.28|Genesis 35:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֤א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹב֙ </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֣ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  | <span class="ashebrew"><big>אָבִ֔י </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Mamre  | <span class="ashebrew"><big>מַמְרֵ֖א </big></span><small><small><sup>[[H4471G]]</sup></small></small> &#8207;| mam.Re' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kiriath  | <span class="ashebrew"><big>קִרְיַ֣ת </big></span><small><small><sup>[[H7153]]</sup></small></small> &#8207;| kir.Yat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Arba  | <span class="ashebrew"><big>הָֽאַרְבַּ֑ע </big></span><small><small><sup>[[H7153]]</sup></small></small> &#8207;| ha.'ar.Ba' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>הִ֣וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Hebron  | <span class="ashebrew"><big>חֶבְר֔וֹן </big></span><small><small><sup>[[H2275A]]</sup></small></small> &#8207;| chev.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had sojourned  | <span class="ashebrew"><big>גָּֽר </big></span><small><small><sup>[[H1481A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gar- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֥ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֖ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Isaac  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִצְחָֽק </big></span><small><small><sup>[[H3327]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹב֙]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֣ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mamre  |**<big>&#8207;[[H4471G\|מַמְרֵ֖א]]&#8207; </big>**| mam.Re'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kiriath  |**<big>&#8207;[[H7153\|קִרְיַ֣ת]]&#8207; </big>**| kir.Yat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Arba  |**<big>&#8207;[[H7153\|הָֽאַרְבַּ֑ע]]&#8207; </big>**| ha.'ar.Ba'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|הִ֣וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Hebron  |**<big>&#8207;[[H2275A\|חֶבְר֔וֹן]]&#8207; </big>**| chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had sojourned  |**<big>&#8207;[[H1481A\|גָּֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gar-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֥ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Isaac  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3327\|יִצְחָֽק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.26|<< Genesis 35:26]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.28|Genesis 35:28 >>]]</td></tr></table>
 
 

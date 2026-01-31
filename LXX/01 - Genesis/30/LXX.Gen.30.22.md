@@ -10,24 +10,24 @@ And God remembered Rachel, and God hearkened to her, and opened her womb.
 Then God remembered Rachel. He listened to her and opened her womb,<small><sub>**MT:**</sub></small>
 [[Gen.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.21|<< Genesis 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.23|Genesis 30:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| remembered | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rachel. | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heeded | <big><span class="asgreek">επήκουσεν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he opened | <big><span class="asgreek">ανέωξεν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| womb. | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
+| remembered | **<big>[[G3403\|εμνήσθη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Rachel. | **<big>[[G4478\|Ραχήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| heeded | **<big>[[G1873\|επήκουσεν]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he opened | **<big>[[G0455\|ανέωξεν]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| womb. | **<big>[[G3388\|μήτραν]]</big>** |
 [[Gen.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.21|<< Genesis 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.23|Genesis 30:23 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ Mine eyes fail for thy salvation, and for the word of thy righteousness.
 My eyes fail, looking for Your salvation, and for Your righteous promise.<small><sub>**MT:**</sub></small>
 [[Ps.119.123|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.122|<< Psalm 119:122]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.124|Psalm 119:124 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] wanting | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance, | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λόγιον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[are\] wanting | **<big>[[G1587\|εξέλιπον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your deliverance, | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λόγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your righteousness. | **<big>[[G1343\|δικαιοσύνης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.123|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.122|<< Psalm 119:122]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.124|Psalm 119:124 >>]]</td></tr></table>
 
 

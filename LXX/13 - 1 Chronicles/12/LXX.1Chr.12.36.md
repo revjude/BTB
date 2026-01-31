@@ -7,18 +7,18 @@ And of Asher, such as went forth to battle, expert in war, forty thousand.
 From Asher: 40,000 fit for service, prepared for battle.<small><sub>**MT:**</sub></small>
 [[1Chr.12.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.35|<< 1 Chronicles 12:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.37|1 Chronicles 12:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Asher | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
-| ones going forth | <big><span class="asgreek">εκπορευόμενοι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to help | <big><span class="asgreek">βοηθήσαι</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war -- | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Asher | **<big>[[G0768\|Ασήρ]]</big>** |
+| ones going forth | **<big>[[G1607\|εκπορευόμενοι]]</big>** |
+| to help | **<big>[[G0997\|βοηθήσαι]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| war -- | **<big>[[G4171\|πόλεμον]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[1Chr.12.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.35|<< 1 Chronicles 12:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.37|1 Chronicles 12:37 >>]]</td></tr></table>
 
 

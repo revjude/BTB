@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִישׁוֹן‎</span></big> **Qîyshôwn** <small>*(kee-shone')*</small> ==**Kishon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קוֹשׁ‎</span><sup><small>[[H6983]]</small></sup>; winding</small>
+**<big><span class="ashebrew">‎קִישׁוֹן‎</span></big>** **Qîyshôwn** <small>*(kee-shone')*</small> ==**Kishon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6983|‎קוֹשׁ‎]]</big>**; winding</small>
 
 $\quad$ Kishon, Kison.
 - § Kishon = *"winding"*

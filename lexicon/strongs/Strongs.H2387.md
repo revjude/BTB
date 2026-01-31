@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵזִיר‎</span></big> **Chêzîyr** <small>*(khay-zeer')*</small> ==**Hezir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎חֲזִיר‎</span><sup><small>[[H2386]]</small></sup>; perhaps protected</small>
+**<big><span class="ashebrew">‎חֵזִיר‎</span></big>** **Chêzîyr** <small>*(khay-zeer')*</small> ==**Hezir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H2386|‎חֲזִיר‎]]</big>**; perhaps protected</small>
 
 $\quad$ Hezir.
 - § Hezir = *"swine"*

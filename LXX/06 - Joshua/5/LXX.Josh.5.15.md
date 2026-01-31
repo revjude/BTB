@@ -7,32 +7,32 @@ And the captain of the LORD’S host said unto Joshua, Loose thy shoe from off t
 The Commander of the LORD’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.<small><sub>**MT:**</sub></small>
 [[Josh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commander-in-chief | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joshua, | <big><span class="asgreek">Ιησούν</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| Untie | <big><span class="asgreek">λύσαι</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sandal | <big><span class="asgreek">υπόδημά</span></big> <sup><small><small>[[G5266]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your feet! | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you stand | <big><span class="asgreek">έστηκας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is holy. | <big><span class="asgreek">άγιός</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Josua did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| commander-in-chief | **<big>[[G6559\|αρχιστράτηγος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joshua, | **<big>[[G2424\|Ιησούν]]</big>** |
+| Untie | **<big>[[G3089\|λύσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your sandal | **<big>[[G5266\|υπόδημά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your feet! | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| you stand | **<big>[[G2476\|έστηκας]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| is holy. | **<big>[[G0039\|άγιός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Josua did | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| thus. | **<big>[[G3779\|ούτως]]</big>** |
 [[Josh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
 

@@ -7,40 +7,40 @@ Then certain of the heads of the children of Ephraim, Azariah the son of Johanan
 Then some of the leaders of the Ephraimites—Azariah son of Jehohanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—stood in opposition to those arriving from the war.<small><sub>**MT:**</sub></small>
 [[2Chr.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.11|<< 2 Chronicles 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.13|2 Chronicles 28:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| \[the\] rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| (Azariah | <big><span class="asgreek">Αζαρίας</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Johanan, | <big><span class="asgreek">Ιωνάν</span></big> <sup><small><small>[[G2494]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Berechiah | <big><span class="asgreek">Βαραχίας</span></big> <sup><small><small>[[G0914]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Meshillemoth, | <big><span class="asgreek">Μωσολαμώθ</span></big> <sup><small><small>[[H4919]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehizkiah | <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shallum, | <big><span class="asgreek">Σελλείμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amasa | <big><span class="asgreek">Αμασίας</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hadlai) | <big><span class="asgreek">Αδδί</span></big> <sup><small><small>[[H2311]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένους</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| \[the\] rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| (Azariah | **<big>[[H5839\|Αζαρίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Johanan, | **<big>[[G2494\|Ιωνάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Berechiah | **<big>[[G0914\|Βαραχίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Meshillemoth, | **<big>[[H4919\|Μωσολαμώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehizkiah | **<big>[[G1478\|Εζεκίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son of | **<big>[[G3588\|του]]</big>** |
+| Shallum, | **<big>[[H7968\|Σελλείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amasa | **<big>[[H0558\|Αμασίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Hadlai) | **<big>[[H2311\|Αδδί]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| coming | **<big>[[G2064\|ερχομένους]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| war. | **<big>[[G4171\|πολέμου]]</big>** |
 [[2Chr.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.11|<< 2 Chronicles 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.13|2 Chronicles 28:13 >>]]</td></tr></table>
 
 

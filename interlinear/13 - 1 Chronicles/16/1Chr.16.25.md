@@ -6,18 +6,18 @@ For great is the LORD, and greatly to be praised; He is to be feared above all g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.24|<< 1 Chronicles 16:24]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.26|1 Chronicles 16:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] great  | <span class="ashebrew"><big>גָד֨וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] to be praised  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְהֻלָּל֙ </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.hu.Lal <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹ֔ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] to be feared  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נוֹרָ֥א </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> no.Ra' <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| above  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] great  |**<big>&#8207;[[H1419A\|גָד֨וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] to be praised  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1984B\|מְהֻלָּל֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.hu.Lal<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֔ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] to be feared  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3372G\|נוֹרָ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> no.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.24|<< 1 Chronicles 16:24]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.26|1 Chronicles 16:26 >>]]</td></tr></table>
 
 

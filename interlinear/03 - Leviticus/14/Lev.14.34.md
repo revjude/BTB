@@ -6,24 +6,24 @@ When ye be come into the land of Canaan, which I give to you for a possession, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.33|<< Leviticus 14:33]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.35|Leviticus 14:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will go  | <span class="ashebrew"><big>תָבֹ֙אוּ֙ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ta.Vo.'u <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Canaan  | <span class="ashebrew"><big>כְּנַ֔עַן </big></span><small><small><sup>[[H3667A]]</sup></small></small> &#8207;| ke.Na.'an <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֛י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to give  | <span class="ashebrew"><big>נֹתֵ֥ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a possession  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֲחֻזָּ֑ה </big></span><small><small><sup>[[H0272]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.chu.Zah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will put  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָתַתִּי֙ </big></span><small><small><sup>[[H5414H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.ta.Ti <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a plague of  | <span class="ashebrew"><big>נֶ֣גַע </big></span><small><small><sup>[[H5061]]</sup></small></small> &#8207;| Ne.ga' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a serious disease  | <span class="ashebrew"><big>צָרַ֔עַת </big></span><small><small><sup>[[H6883]]</sup></small></small> &#8207;| tza.Ra.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] house of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֵ֖ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| possession your  | <span class="ashebrew"><big>אֲחֻזַּתְ </big></span><small><small><sup>[[H0272]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.chu.zat. <small><sup>[[HNcfsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will go  |**<big>&#8207;[[H0935G\|תָבֹ֙אוּ֙]]&#8207; </big>**| ta.Vo.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנַ֔עַן]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֛י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to give  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a possession  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0272\|אֲחֻזָּ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.chu.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a plague of  |**<big>&#8207;[[H5061\|נֶ֣גַע]]&#8207; </big>**| Ne.ga'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a serious disease  |**<big>&#8207;[[H6883\|צָרַ֔עַת]]&#8207; </big>**| tza.Ra.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004B\|בֵ֖ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| possession your  |**<big>&#8207;[[H0272\|אֲחֻזַּתְ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.chu.zat.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.33|<< Leviticus 14:33]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.35|Leviticus 14:35 >>]]</td></tr></table>
 
 

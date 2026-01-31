@@ -11,36 +11,36 @@ For the LORD your God is God of gods and Lord of lords, the great, mighty, and a
 > $\quad$ referenced by: [[Acts.10.34|Acts 10:34]] ☩ [[Rom.2.11|Rom 2:11]] ☩ [[Gal.2.6|Gal 2:6]] ☩ [[Eph.6.9|Eph 6:9]] ☩ [[Col.3.25|Col 3:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he \[is\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of lords, | <big><span class="asgreek">κυρίων</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fearful | <big><span class="asgreek">φοβερός</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
-| who | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| marvel | <big><span class="asgreek">θαυμάζει</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| \[over a\] person, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδε</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a bribe; | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| For the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| he \[is\] | **<big>[[G3778\|ούτος]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of gods, | **<big>[[G2316\|θεών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of lords, | **<big>[[G2962\|κυρίων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fearful | **<big>[[G5398\|φοβερός]]</big>** |
+| who | **<big>[[G3748\|όστις]]</big>** |
+| does not | **<big>[[G3756\|ου]]</big>** |
+| marvel | **<big>[[G2296\|θαυμάζει]]</big>** |
+| \[over a\] person, | **<big>[[G4383\|πρόσωπον]]</big>** |
+| nor | **<big>[[G3761\|ουδε]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| take | **<big>[[G2983\|λάβη]]</big>** |
+| a bribe; | **<big>[[G1435\|δώρον]]</big>** |
 [[Deut.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.16|<< Deuteronomy 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.18|Deuteronomy 10:18 >>]]</td></tr></table>
 
 

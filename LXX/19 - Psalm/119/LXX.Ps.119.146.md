@@ -7,16 +7,16 @@ I cried unto thee; save me, and I shall keep thy testimonies.
 I call to You; save me, that I may keep Your testimonies.<small><sub>**MT:**</sub></small>
 [[Ps.119.146|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.145|<< Psalm 119:145]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.147|Psalm 119:147 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I cried out | <big><span class="asgreek">εκέκραξά</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will keep | <big><span class="asgreek">φυλάξω</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your testimonies. | <big><span class="asgreek">μαρτύριά</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I cried out | **<big>[[G2896\|εκέκραξά]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| deliver | **<big>[[G4982\|σώσόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will keep | **<big>[[G5442\|φυλάξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your testimonies. | **<big>[[G3142\|μαρτύριά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.146|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.145|<< Psalm 119:145]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.147|Psalm 119:147 >>]]</td></tr></table>
 
 

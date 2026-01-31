@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H5132]]</small>
+<small>Also see: **<big>[[H5132|נוּץ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎נָצַץ‎</span>] **verb denominative** ==bloom, blossom== (Late Hebrew ***id.***; Jewish-Aramaic <span class="bdbLangAramaic">‎נְצַץ‎</span> ***id.***); — 
 

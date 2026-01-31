@@ -11,21 +11,21 @@ I have set the LORD always before me. Because He is at my right hand, I will not
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I foresaw | <big><span class="asgreek">προωρώμην</span></big> <sup><small><small>[[G4308]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| always; | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be shaken. | <big><span class="asgreek">σαλευθώ</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| I foresaw | **<big>[[G4308\|προωρώμην]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| always; | **<big>[[G1275\|διαπαντός]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| my right | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he is | **<big>[[G1510\|εστίν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I should not | **<big>[[G3361\|μη]]</big>** |
+| be shaken. | **<big>[[G4531\|σαλευθώ]]</big>** |
 [[Ps.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.7|<< Psalm 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.9|Psalm 16:9 >>]]</td></tr></table>
 
 

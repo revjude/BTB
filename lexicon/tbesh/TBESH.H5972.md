@@ -1,3 +1,1 @@
-<span class="asaramaic">‎עַם‎</span> <small>***(am)***</small> ==**people**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H5971A]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H5971A|עַם]]</big>**</small>

@@ -7,14 +7,14 @@ All the congregation of Israel shall keep it.
 The whole congregation of Israel must celebrate it.<small><sub>**MT:**</sub></small>
 [[Exod.12.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.46|<< Exodus 12:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.48|Exodus 12:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτο</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| gathering | **<big>[[G4864\|συναγωγή]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| it. | **<big>[[G1473\|αυτο]]</big>** |
 [[Exod.12.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.46|<< Exodus 12:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.48|Exodus 12:48 >>]]</td></tr></table>
 
 

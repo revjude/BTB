@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּעָה‎</span></big> **gâʻâh** <small>*(gaw-aw')*</small> ==**to low**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּעָה‎</span></big>** **gâʻâh** <small>*(gaw-aw')*</small> ==**to low**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ low.
@@ -6,4 +6,4 @@ $\quad$ low.
 
 **1)** (Qal) to low, bellow (of cattle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup>
+<small>See Greek: </small>**<big>[[G5456|φωνή]]</big>**

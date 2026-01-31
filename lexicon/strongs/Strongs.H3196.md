@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יַיִן‎</span></big> **yayin** <small>*(yah'-yin)*</small> ==**wine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יַיִן‎</span></big>** **yayin** <small>*(yah'-yin)*</small> ==**wine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to effervesce</small>
 
 $\quad$ banqueting, wine, wine(-bibber).
@@ -7,4 +7,4 @@ $\quad$ banqueting, wine, wine(-bibber).
 
 **1)** wine
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γλεῦκος</span><sup><small>[[G1098]]</small></sup> · <span class="asgreek">οἶνος</span><sup><small>[[G3631]]</small></sup>
+<small>See Greek: </small>**<big>[[G1098|γλεῦκος]]</big>** · **<big>[[G3631|οἶνος]]</big>**

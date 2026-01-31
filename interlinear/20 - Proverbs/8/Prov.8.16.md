@@ -6,16 +6,16 @@ By me princes rule, and all nobles who govern justly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| by \<the> me  | <span class="ashebrew"><big>בִּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| b <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| princes  | <span class="ashebrew"><big>שָׂרִ֣ים </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| sa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they rule  | <span class="ashebrew"><big>יָשֹׂ֑רוּ </big></span><small><small><sup>[[H8323A]]</sup></small></small> &#8207;| ya.So.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and noble [people]  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְדִיבִ֗ים </big></span><small><small><sup>[[H5081H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.di.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judges of  | <span class="ashebrew"><big>שֹׁ֥פְטֵי </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| Sho.fe.tei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  [^1] | <span class="ashebrew"><big>צֶֽדֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (BenChayim)">L(H)</abbr> |
+| by \<the> me  |**<big>&#8207;[[H9003\|בִּ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| princes  |**<big>&#8207;[[H8269\|שָׂרִ֣ים]]&#8207; </big>**| sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they rule  |**<big>&#8207;[[H8323A\|יָשֹׂ֑רוּ]]&#8207; </big>**| ya.So.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and noble [people]  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H5081H\|נְדִיבִ֗ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.di.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judges of  |**<big>&#8207;[[H8199\|שֹׁ֥פְטֵי]]&#8207; </big>**| Sho.fe.tei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  [^1]|**<big>&#8207;[[H6664G\|צֶֽדֶק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (BenChayim)">L(H)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
-[^1]: ==H==: **[the] earth ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span>  | Tze.dek<small><sup>[[HNcfsa]]</sup></small> 
+[^1]: ==H==: [the] earth  | **<big>[[H9016|׃]]</big><big>[[H0776G|אָֽרֶץ]]</big> ** | Tze.dek<small><sup>[[HNcfsa]]</sup></small> 
 

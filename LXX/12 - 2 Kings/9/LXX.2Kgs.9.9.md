@@ -7,26 +7,26 @@ And I will make the house of Ahab like the house of Jeroboam the son of Nebat, a
 I will make the house of Ahab like the houses of Jeroboam son of Nebat and Baasha son of Ahijah.<small><sub>**MT:**</sub></small>
 [[2Kgs.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.8|<< 2 Kings 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.10|2 Kings 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat, | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Baasha | <big><span class="asgreek">Βαασά</span></big> <sup><small><small>[[H1201]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahijah. | <big><span class="asgreek">Αχία</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nebat, | **<big>[[H5028\|Ναβάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Baasha | **<big>[[H1201\|Βαασά]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ahijah. | **<big>[[H0281\|Αχία]]</big>** |
 [[2Kgs.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.8|<< 2 Kings 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.10|2 Kings 9:10 >>]]</td></tr></table>
 
 

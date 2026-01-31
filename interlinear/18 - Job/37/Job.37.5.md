@@ -6,16 +6,16 @@ God thunders wondrously with His voice; He does great things we cannot comprehen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.6|Job 37:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he thunders  | <span class="ashebrew"><big>יַרְעֵ֤ם </big></span><small><small><sup>[[H7481]]</sup></small></small> &#8207;| yar.'Em <small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֣ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with voice his  | <span class="ashebrew"><big>בְּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קוֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ko.l <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonders  | <span class="ashebrew"><big>נִפְלָא֑וֹת </big></span><small><small><sup>[[H6381]]</sup></small></small> &#8207;| nif.la.'ot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [he is] doing  | <span class="ashebrew"><big>עֹשֶׂ֥ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great [things]  | <span class="ashebrew"><big>גְ֝דֹל֗וֹת </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we know  | <span class="ashebrew"><big>נֵדָֽע </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.Da' <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he thunders  |**<big>&#8207;[[H7481\|יַרְעֵ֤ם]]&#8207; </big>**| yar.'Em<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with voice his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H6963A\|קוֹל]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ko.l<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonders  |**<big>&#8207;[[H6381\|נִפְלָא֑וֹת]]&#8207; </big>**| nif.la.'ot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] doing  |**<big>&#8207;[[H6213A\|עֹשֶׂ֥ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great [things]  |**<big>&#8207;[[H1419A\|גְ֝דֹל֗וֹת]]&#8207; </big>**| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we know  |**<big>&#8207;[[H3045\|נֵדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.Da'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.6|Job 37:6 >>]]</td></tr></table>
 
 

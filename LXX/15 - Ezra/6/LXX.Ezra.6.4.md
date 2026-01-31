@@ -7,26 +7,26 @@ and three layers of fortified stones, and one layer of new timbers! And the expe
 with three layers of cut stones and one of timbers. The costs are to be paid from the royal treasury.<small><sub>**MT:**</sub></small>
 [[Ezra.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.3|<< Ezra 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.5|Ezra 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| layers | <big><span class="asgreek">δόμοι</span></big> <sup><small><small>[[G6959]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθινοι</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| of fortified | <big><span class="asgreek">κραταιοί</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| layer | <big><span class="asgreek">δόμον</span></big> <sup><small><small>[[G6959]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of new | <big><span class="asgreek">καινών</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| expense | <big><span class="asgreek">δαπάνη</span></big> <sup><small><small>[[G1160]]</small></small></sup> |
-| out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| shall be granted | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| layers | **<big>[[G6959\|δόμοι]]</big>** |
+| stones | **<big>[[G3035\|λίθινοι]]</big>** |
+| of fortified | **<big>[[G2900\|κραταιοί]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| layer | **<big>[[G6959\|δόμον]]</big>** |
+| timbers | **<big>[[G3586\|ξύλων]]</big>** |
+| of new | **<big>[[G2537\|καινών]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| expense | **<big>[[G1160\|δαπάνη]]</big>** |
+| out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| shall be granted | **<big>[[G1325\|δοθήσεται]]</big>** |
 [[Ezra.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.3|<< Ezra 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.5|Ezra 6:5 >>]]</td></tr></table>
 
 

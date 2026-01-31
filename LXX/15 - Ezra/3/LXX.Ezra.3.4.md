@@ -7,32 +7,32 @@ They kept also the feast of tabernacles, as [it is] written, and [offered] the d
 They also celebrated the Feast of Tabernacles in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day.<small><sub>**MT:**</sub></small>
 [[Ezra.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.3|<< Ezra 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.5|Ezra 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they observed | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tents, | <big><span class="asgreek">σκηνών</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written, | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] whole burnt-offerings | <big><span class="asgreek">ολοκαυτώσεις</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| number, | <big><span class="asgreek">αριθμώ</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| according to | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| distinguishing manner | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of \[the\] reckoning | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| for it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they observed | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| holiday | **<big>[[G1859\|εορτήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tents, | **<big>[[G4633\|σκηνών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| being written, | **<big>[[G1125\|γεγραμμένον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] whole burnt-offerings | **<big>[[G8495\|ολοκαυτώσεις]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| number, | **<big>[[G0706\|αριθμώ]]</big>** |
+| according to | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| distinguishing manner | **<big>[[G2920\|κρίσις]]</big>** |
+| of \[the\] reckoning | **<big>[[G3056\|λόγον]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| for it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Ezra.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.3|<< Ezra 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.5|Ezra 3:5 >>]]</td></tr></table>
 
 

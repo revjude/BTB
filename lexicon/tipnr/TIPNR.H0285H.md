@@ -4,9 +4,9 @@ Priest living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahitub</span> was the father of Zadok, who served as a priest alongside Abiathar during the reign of King David. \([[2Sam.8.17|2Sa.8.17]]; [[1Chr.18.16|1Ch.18.16]]\)
 - A priest from the tribe of Levi living at the time of United Monarchy, first mentioned at [[2Sam.8.17|2Sa.8.17]]; 
-- only referred to as Ahitub<[[H0285H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>\); 
-- a son of Amariah<[[H0568G]]>; 
--  father of Zadok<[[H6659G]]>.
+- only referred to as Ahitub **<big>[[H0285|אֲחִיטוּב]]</big>**; 
+- a son of Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**; 
+-  father of Zadok **<big>[[H6659|צָדוֹק]]</big>**.
 
 Ahitub is mentioned as the father of Zadok, one of the prominent priests who served during the reign of King David. Zadok, along with Ahimelech the son of Abiathar, is listed among David's chief officials. \([[2Sam.8.17|2Sa.8.17]]; [[1Chr.18.16|1Ch.18.16]]\) 
 
@@ -18,8 +18,8 @@ Although little is recorded about Ahitub himself, his importance lies in his pos
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahitub | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H0285H) <small>*Hebrew*</small> | 5x | [[2Sa.8.17] ... [1Ch.18.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahitub\*\|reference=2Sa.8.17;1Ch.6.7;1Ch.6.8;1Ch.6.52;1Ch.18.16) |
-All Strong's for **Ahitub**: \[[[H0285H]]\]
+| Ahitub | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H0285H) | 5x | [[2Sa.8.17] ... [1Ch.18.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahitub\*\|reference=2Sa.8.17;1Ch.6.7;1Ch.6.8;1Ch.6.52;1Ch.18.16) |
+All entries for **Ahitub**:  **<big>[[H0285|אֲחִיטוּב]]</big>**
 #### Related Profiles:
 - **[Amariah](H0568G)** (father)
 - **[Zadok](H6659G)** (child)

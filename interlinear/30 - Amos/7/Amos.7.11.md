@@ -6,20 +6,20 @@ for this is what Amos has said: ‘Jeroboam will die by the sword, and Israel wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.10|<< Amos 7:10]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.12|Amos 7:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹה֙ </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has said  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amos  | <span class="ashebrew"><big>עָמ֔וֹס </big></span><small><small><sup>[[H5986]]</sup></small></small> &#8207;| a.Mos <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by the sword  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֶ֖רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  | <span class="ashebrew"><big>יָמ֣וּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| ya.Mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeroboam  | <span class="ashebrew"><big>יָרָבְעָ֑ם </big></span><small><small><sup>[[H3379H]]</sup></small></small> &#8207;| ya.ra.ve.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Israel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִ֨שְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<go into exile>  | <span class="ashebrew"><big>גָּלֹ֥ה </big></span><small><small><sup>[[H1540K]]</sup></small></small> &#8207;| ga.Loh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go into exile  | <span class="ashebrew"><big>יִגְלֶ֖ה </big></span><small><small><sup>[[H1540K]]</sup></small></small> &#8207;| yig.Leh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from on  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עַ֥ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| land its  | <span class="ashebrew"><big>אַדְמָתֽ </big></span><small><small><sup>[[H0127G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'ad.ma.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹה֙]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amos  |**<big>&#8207;[[H5986\|עָמ֔וֹס]]&#8207; </big>**| a.Mos<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2719\|חֶ֖רֶב]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  |**<big>&#8207;[[H4191\|יָמ֣וּת]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  |**<big>&#8207;[[H3379H\|יָרָבְעָ֑ם]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Israel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3478\|יִ֨שְׂרָאֵ֔ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<go into exile>  |**<big>&#8207;[[H1540K\|גָּלֹ֥ה]]&#8207; </big>**| ga.Loh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go into exile  |**<big>&#8207;[[H1540K\|יִגְלֶ֖ה]]&#8207; </big>**| yig.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land its  |**<big>&#8207;[[H0127G\|אַדְמָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ad.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.10|<< Amos 7:10]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.12|Amos 7:12 >>]]</td></tr></table>
 
 

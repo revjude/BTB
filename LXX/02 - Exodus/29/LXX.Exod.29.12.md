@@ -7,35 +7,35 @@ And thou shalt take of the blood of the bullock, and put [it] upon the horns of 
 Take some of the blood of the bull and put it on the horns of the altar with your finger; then pour out the rest of the blood at the base of the altar.<small><sub>**MT:**</sub></small>
 [[Exod.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf, | <big><span class="asgreek">μόσχου</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">θήσεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κεράτων</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| with | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your finger. | <big><span class="asgreek">δακτύλω</span></big> <sup><small><small>[[G1147]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| remaining | <big><span class="asgreek">λοιπόν</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| you shall discharge | <big><span class="asgreek">εκχεείς</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| base | <big><span class="asgreek">βάσιν</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| calf, | **<big>[[G3448\|μόσχου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[it\] | **<big>[[G5087\|θήσεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| horns | **<big>[[G2768\|κεράτων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| with | **<big>[[G3588\|τω]]</big>** |
+| your finger. | **<big>[[G1147\|δακτύλω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| remaining | **<big>[[G3062\|λοιπόν]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| you shall discharge | **<big>[[G1632\|εκχεείς]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| base | **<big>[[G0939\|βάσιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
 [[Exod.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
 

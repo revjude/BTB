@@ -7,29 +7,29 @@ Then Gideon built an altar there unto the LORD, and called it Jehovahshalom: unt
 So Gideon built an altar to the LORD there and called it The LORD Is Peace. To this day it stands in Ophrah of the Abiezrites.<small><sub>**MT:**</sub></small>
 [[Judg.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.23|<< Judges 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.25|Judges 6:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| built | <big><span class="asgreek">ωκοδόμησεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Gideon | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσεν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Peace of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| It \[is\] still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Ephratah | <big><span class="asgreek">Εφραθά</span></big> <sup><small><small>[[H6084]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ezri. | <big><span class="asgreek">Εζρί</span></big> <sup><small><small>[[H5836]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| built | **<big>[[G3618\|ωκοδόμησεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Gideon | **<big>[[G1066\|Γεδεών]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσεν]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| Peace of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1515\|ειρήνη]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| It \[is\] still | **<big>[[G2089\|έτι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| Ephratah | **<big>[[H6084\|Εφραθά]]</big>** |
+| father | **<big>[[G3962\|πατρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Ezri. | **<big>[[H5836\|Εζρί]]</big>** |
 [[Judg.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.23|<< Judges 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.25|Judges 6:25 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Thy silver and thy gold [is] mine; thy wives also and thy children, [even] the g
 saying, “This is what Ben-hadad says: ‘Your silver and gold are mine, and your best wives and children are mine!’”<small><sub>**MT:**</sub></small>
 [[1Kgs.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.2|<< 1 Kings 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.4|1 Kings 20:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your silver | <big><span class="asgreek">αργύριόν</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is mine; | <big><span class="asgreek">εμόν</span></big> <sup><small><small>[[G1699]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wives | <big><span class="asgreek">γυναίκές</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| best | <big><span class="asgreek">κάλλιστα</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| is mine. | <big><span class="asgreek">εμά</span></big> <sup><small><small>[[G1699]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Your silver | **<big>[[G0694\|αργύριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your gold | **<big>[[G5553\|χρυσίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is mine; | **<big>[[G1699\|εμόν]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your wives | **<big>[[G1135\|γυναίκές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children, | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| best | **<big>[[G2570\|κάλλιστα]]</big>** |
+| is mine. | **<big>[[G1699\|εμά]]</big>** **<big>[[G1510\|εστι]]</big>** |
 [[1Kgs.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.2|<< 1 Kings 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.4|1 Kings 20:4 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Timnah</span>, a town in the hill country of Judah \(Josh. 15:57\).
 - A location only mentioned at [[Josh.15.57|Jos.15.57]]; 
-- only referred to as Timnah<[[H8553H]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Timnah **<big>[[H8553|תִּמְנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.699323,35.040359&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Timnah is mentioned in [[Josh.15.57|Joshua 15:57]] as one of the towns in the hi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Timnah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8553H) <small>*Hebrew*</small> | 1x | [Jos.15.57 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnah\*\|reference=Jos.15.57) |
-All Strong's for **Timnah**: \[[[H8553H]]\]
+| Timnah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8553H) | 1x | [Jos.15.57 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnah\*\|reference=Jos.15.57) |
+All entries for **Timnah**:  **<big>[[H8553|תִּמְנָה]]</big>**

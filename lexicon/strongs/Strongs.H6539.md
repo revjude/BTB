@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַס‎</span></big> **Pâraç** <small>*(paw-ras')*</small> ==**Persia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַס‎</span></big>** **Pâraç** <small>*(paw-ras')*</small> ==**Persia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Persia, Persians.

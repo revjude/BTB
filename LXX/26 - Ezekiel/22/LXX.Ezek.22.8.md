@@ -7,18 +7,18 @@ Thou hast despised mine holy things, and hast profaned my sabbaths.
 You have despised My holy things and profaned My Sabbaths.<small><sub>**MT:**</sub></small>
 [[Ezek.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.7|<< Ezekiel 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.9|Ezekiel 22:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy \[things\] | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they treat with contempt, | <big><span class="asgreek">εξουδένουν</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my Sabbaths | <big><span class="asgreek">σάββατά</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they profaned | <big><span class="asgreek">εβεβήλουν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my holy \[things\] | **<big>[[G0039\|άγιά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they treat with contempt, | **<big>[[G1847\|εξουδένουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my Sabbaths | **<big>[[G4521\|σάββατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they profaned | **<big>[[G0953\|εβεβήλουν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Ezek.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.7|<< Ezekiel 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.9|Ezekiel 22:9 >>]]</td></tr></table>
 
 

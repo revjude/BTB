@@ -7,29 +7,29 @@ Thou wentest forth for the salvation of thy people, [even] for salvation with th
 You went forth for the salvation of Your people, to save Your anointed. You crushed the head of the house of the wicked and stripped him from head to toe. Selah<small><sub>**MT:**</sub></small>
 [[Hab.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You came forth | <big><span class="asgreek">εξήλθες</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| of your people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anointed one. | <big><span class="asgreek">χριστόν</span></big> <sup><small><small>[[G5547]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You threw | <big><span class="asgreek">έβαλες</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| onto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] heads | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of lawless ones | <big><span class="asgreek">ανόμων</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| you rose | <big><span class="asgreek">εξήγειρας</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| bonds | <big><span class="asgreek">δεσμούς</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neck | <big><span class="asgreek">τραχήλου</span></big> <sup><small><small>[[G5137]]</small></small></sup> |
-| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completion | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| You came forth | **<big>[[G1831\|εξήλθες]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| deliverance | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| of your people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your anointed one. | **<big>[[G5547\|χριστόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You threw | **<big>[[G0906\|έβαλες]]</big>** |
+| onto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] heads | **<big>[[G2776\|κεφαλάς]]</big>** |
+| of lawless ones | **<big>[[G0459\|ανόμων]]</big>** |
+| death | **<big>[[G2288\|θάνατον]]</big>** |
+| you rose | **<big>[[G1825\|εξήγειρας]]</big>** |
+| bonds | **<big>[[G1199\|δεσμούς]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| neck | **<big>[[G5137\|τραχήλου]]</big>** |
+| For | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| completion | **<big>[[G5056\|τέλος]]</big>** |
 [[Hab.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ And they gathered them together upon heaps: and the land stank.
 They were piled into countless heaps, and there was a terrible stench in the land.<small><sub>**MT:**</sub></small>
 [[Exod.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.13|<< Exodus 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.15|Exodus 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought | <big><span class="asgreek">συνήγαγον</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heaps \[upon\] | <big><span class="asgreek">θημωνίας</span></big> <sup><small><small>[[G7667]]</small></small></sup> |
-| heaps, | <big><span class="asgreek">θημωνίας</span></big> <sup><small><small>[[G7667]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stunk | <big><span class="asgreek">επώζεσεν</span></big> <sup><small><small>[[G7478]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they brought | **<big>[[G4863\|συνήγαγον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| heaps \[upon\] | **<big>[[G7667\|θημωνίας]]</big>** |
+| heaps, | **<big>[[G7667\|θημωνίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stunk | **<big>[[G7478\|επώζεσεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
 [[Exod.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.13|<< Exodus 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.15|Exodus 8:15 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ Only the cattle and the spoil of that city Israel took for a prey unto themselve
 Israel took for themselves only the cattle and plunder of that city, as the LORD had commanded Joshua.<small><sub>**MT:**</sub></small>
 [[Josh.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.26|<< Joshua 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.28|Joshua 8:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| despoiled | <big><span class="asgreek">επρονόμευσαν</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Joshua. | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
+| Except | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cattle | **<big>[[G2934\|κτηνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| spoils | **<big>[[G4661\|σκύλων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that city | **<big>[[G4172\|πόλει]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| despoiled | **<big>[[G8902\|επρονόμευσαν]]</big>** |
+| for themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] order | **<big>[[G8943\|πρόσταγμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Joshua. | **<big>[[G2424\|Ιησού]]</big>** |
 [[Josh.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.26|<< Joshua 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.28|Joshua 8:28 >>]]</td></tr></table>
 
 

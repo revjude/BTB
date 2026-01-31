@@ -7,26 +7,26 @@ And Balaam said unto Balak, Build me here seven altars, and prepare me here seve
 Then Balaam said, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”<small><sub>**MT:**</sub></small>
 [[Num.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.28|<< Numbers 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.30|Numbers 23:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balaam said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Balak, | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| Build | <big><span class="asgreek">οικοδόμησόν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| shrines, | <big><span class="asgreek">βωμούς</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prepare | <big><span class="asgreek">ετοίμασόν</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| rams! | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balaam said | **<big>[[G2036\|είπε]]</big>** **<big>[[G0903\|Βαλαάμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Balak, | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| Build | **<big>[[G3618\|οικοδόμησόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| shrines, | **<big>[[G1041\|βωμούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prepare | **<big>[[G2090\|ετοίμασόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| rams! | **<big>[[G8096\|κριούς]]</big>** |
 [[Num.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.28|<< Numbers 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.30|Numbers 23:30 >>]]</td></tr></table>
 
 

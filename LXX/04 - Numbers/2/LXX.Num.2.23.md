@@ -7,17 +7,17 @@ And his host, and those that were numbered of them, [were] thirty and five thous
 and his division numbers 35,400.<small><sub>**MT:**</sub></small>
 [[Num.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.22|<< Numbers 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.24|Numbers 2:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of his force | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being numbered -- | <big><span class="asgreek">επεσκεμμένοι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four hundred. | <big><span class="asgreek">τετρακόσιοι</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
+| Of his force | **<big>[[G1411\|δύναμις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| being numbered -- | **<big>[[G1980\|επεσκεμμένοι]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four hundred. | **<big>[[G5071\|τετρακόσιοι]]</big>** |
 [[Num.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.22|<< Numbers 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.24|Numbers 2:24 >>]]</td></tr></table>
 
 

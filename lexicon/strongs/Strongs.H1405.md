@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּבְּתוֹן‎</span></big> **Gibbᵉthôwn** <small>*(ghib-beth-one')*</small> ==**Gibbethon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>intensive from <span class="ashebrew">‎גִּבְעָה‎</span><sup><small>[[H1389]]</small></sup>; a hilly spot</small>
+**<big><span class="ashebrew">‎גִּבְּתוֹן‎</span></big>** **Gibbᵉthôwn** <small>*(ghib-beth-one')*</small> ==**Gibbethon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>intensive from **<big>[[H1389|‎גִּבְעָה‎]]</big>**; a hilly spot</small>
 
 $\quad$ Gibbethon.
 - § Gibbethon = *"mound"*

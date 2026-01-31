@@ -7,25 +7,25 @@ And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for hi
 Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days.<small><sub>**MT:**</sub></small>
 [[Gen.37.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.33|<< Genesis 37:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.35|Genesis 37:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| tore | <big><span class="asgreek">διέρρηξε</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his clothes, | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed | <big><span class="asgreek">επέθετο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| sackcloth | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his loin, | <big><span class="asgreek">οσφύν</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mourned \[for\] | <big><span class="asgreek">επένθει</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| tore | **<big>[[G1284\|διέρρηξε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his clothes, | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed | **<big>[[G2007\|επέθετο]]</big>** |
+| sackcloth | **<big>[[G4526\|σάκκον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his loin, | **<big>[[G3751\|οσφύν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mourned \[for\] | **<big>[[G3996\|επένθει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| many | **<big>[[G4183\|πολλάς]]</big>** |
 [[Gen.37.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.33|<< Genesis 37:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.35|Genesis 37:35 >>]]</td></tr></table>
 
 

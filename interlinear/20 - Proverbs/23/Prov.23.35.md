@@ -6,19 +6,19 @@ They have stricken me, [shalt thou say, and] I was not sick; they have beaten me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.34|<< Proverbs 23:34]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.1|Proverbs 24:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they struck me  | <span class="ashebrew"><big>הִכּ֥וּ </big></span><small><small><sup>[[H5221]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| hi.Ku. <small><sup>[[HVhp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בַל </big></span><small><small><sup>[[H1077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| val- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am sick  | <span class="ashebrew"><big>חָלִיתִי֮ </big></span><small><small><sup>[[H2470H]]</sup></small></small> &#8207;| cha.li.Ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they beat me  | <span class="ashebrew"><big>הֲלָמ֗וּ </big></span><small><small><sup>[[H1986]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ha.la.Mu. <small><sup>[[HVqp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בַּל </big></span><small><small><sup>[[H1077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bal- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>יָ֫דָ֥עְתִּי </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da.'e.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>מָתַ֥י </big></span><small><small><sup>[[H4970]]</sup></small></small> &#8207;| ma.Tai <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I awake  | <span class="ashebrew"><big>אָקִ֑יץ </big></span><small><small><sup>[[H6974]]</sup></small></small> &#8207;| 'a.Kitz <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will repeat  | <span class="ashebrew"><big>א֝וֹסִ֗יף </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| 'o.Sif <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will seek it  | <span class="ashebrew"><big>אֲבַקְשֶׁ֥ </big></span><small><small><sup>[[H1245]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.vak.She. <small><sup>[[HVpi1cs]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עֽוֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they struck me  |**<big>&#8207;[[H5221\|הִכּ֥וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| hi.Ku.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am sick  |**<big>&#8207;[[H2470H\|חָלִיתִי֮]]&#8207; </big>**| cha.li.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they beat me  |**<big>&#8207;[[H1986\|הֲלָמ֗וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ha.la.Mu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1077\|בַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|יָ֫דָ֥עְתִּי]]&#8207; </big>**| ya.Da.'e.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H4970\|מָתַ֥י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I awake  |**<big>&#8207;[[H6974\|אָקִ֑יץ]]&#8207; </big>**| 'a.Kitz<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will repeat  |**<big>&#8207;[[H3254H\|א֝וֹסִ֗יף]]&#8207; </big>**| 'o.Sif<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will seek it  |**<big>&#8207;[[H1245\|אֲבַקְשֶׁ֥]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'a.vak.She.<small><sup>[[HVpi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.34|<< Proverbs 23:34]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.1|Proverbs 24:1 >>]]</td></tr></table>
 
 

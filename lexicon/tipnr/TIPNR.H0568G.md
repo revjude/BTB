@@ -4,9 +4,9 @@ Priest living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Amariah</span>, son of Meraioth, was an ancestor of Zadok the priest and a descendant of Aaron through his son Eleazar. \(1Ch.6.7,52\)
 - A priest from the tribe of Levi living at the time of United Monarchy, first mentioned at 1Ch.6.7; 
-- only referred to as Amariah<[[H0568G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Meraioth<[[H4812G]]>; 
--  father of Ahitub<[[H0285H]]>.
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**; 
+- a son of Meraioth **<big>[[H4812|מְרָיוֹת]]</big>**; 
+-  father of Ahitub **<big>[[H0285|אֲחִיטוּב]]</big>**.
 
 Amariah is mentioned in the genealogy of the Levitical priesthood, specifically in the lineage of Aaron's son Eleazar. He is listed as the son of Meraioth and the father of Ahitub, who was the father of Zadok, the high priest during the reigns of David and Solomon. \(1Ch.6.7,52\) 
 
@@ -20,8 +20,8 @@ The inclusion of Amariah in the priestly genealogy serves to validate the legiti
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568G) <small>*Hebrew*</small> | 3x | [[1Ch.6.7a] ... [1Ch.6.52] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=1Ch.6.7;1Ch.6.7;1Ch.6.52) |
-All Strong's for **Amariah**: \[[[H0568G]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568G) | 3x | [[1Ch.6.7a] ... [1Ch.6.52] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=1Ch.6.7;1Ch.6.7;1Ch.6.52) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**
 #### Related Profiles:
 - **[Meraioth](H4812G)** (father)
 - **[Ahitub](H0285H)** (child)

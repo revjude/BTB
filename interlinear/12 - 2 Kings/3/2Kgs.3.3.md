@@ -6,21 +6,21 @@ Nevertheless, he clung to the sins that Jeroboam son of Nebat had caused Israel 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.2|<< 2 Kings 3:2]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.4|2 Kings 3:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| only  | <span class="ashebrew"><big>רַ֠ק </big></span><small><small><sup>[[H7535]]</sup></small></small> &#8207;| rak <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] sins of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חַטֹּ֞אות </big></span><small><small><sup>[[H2403B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.Tot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeroboam  | <span class="ashebrew"><big>יָרָבְעָ֧ם </big></span><small><small><sup>[[H3379G]]</sup></small></small> &#8207;| ya.ra.ve.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebat  | <span class="ashebrew"><big>נְבָ֛ט </big></span><small><small><sup>[[H5028]]</sup></small></small> &#8207;| ne.Vat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he caused to sin  | <span class="ashebrew"><big>הֶחֱטִ֥יא </big></span><small><small><sup>[[H2398]]</sup></small></small> &#8207;| he.che.Ti' <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he clung  | <span class="ashebrew"><big>דָּבֵ֑ק </big></span><small><small><sup>[[H1692]]</sup></small></small> &#8207;| da.Vek <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he turned aside  | <span class="ashebrew"><big>סָ֖ר </big></span><small><small><sup>[[H5493H]]</sup></small></small> &#8207;| sar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H7535\|רַ֠ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] sins of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2403B\|חַטֹּ֞אות]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָ֧ם]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebat  |**<big>&#8207;[[H5028\|נְבָ֛ט]]&#8207; </big>**| ne.Vat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he caused to sin  |**<big>&#8207;[[H2398\|הֶחֱטִ֥יא]]&#8207; </big>**| he.che.Ti'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he clung  |**<big>&#8207;[[H1692\|דָּבֵ֑ק]]&#8207; </big>**| da.Vek<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he turned aside  |**<big>&#8207;[[H5493H\|סָ֖ר]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.2|<< 2 Kings 3:2]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.4|2 Kings 3:4 >>]]</td></tr></table>
 
 

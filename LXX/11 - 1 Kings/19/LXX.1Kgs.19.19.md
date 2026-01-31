@@ -7,44 +7,44 @@ So he departed thence, and found Elisha the son of Shaphat, who [was] plowing [w
 So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him.<small><sub>**MT:**</sub></small>
 [[1Kgs.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.18|<< 1 Kings 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.20|1 Kings 19:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he finds | <big><span class="asgreek">ευρίσκει</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shaphat, | <big><span class="asgreek">Σαφάτ</span></big> <sup><small><small>[[H8202]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| plowing | <big><span class="asgreek">αροτριών</span></big> <sup><small><small>[[G0722]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| oxen. | <big><span class="asgreek">βουσί</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| Twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| teams | <big><span class="asgreek">ζεύγη</span></big> <sup><small><small>[[G2201]]</small></small></sup> |
-| \[were\] before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twelve. | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| Elijah | <big><span class="asgreek">Ελίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sheepskin. | <big><span class="asgreek">μηλωτήν</span></big> <sup><small><small>[[G3374]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he finds | **<big>[[G2147\|ευρίσκει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Shaphat, | **<big>[[H8202\|Σαφάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| plowing | **<big>[[G0722\|αροτριών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| oxen. | **<big>[[G1016\|βουσί]]</big>** |
+| Twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| teams | **<big>[[G2201\|ζεύγη]]</big>** |
+| \[were\] before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| \[was\] among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| twelve. | **<big>[[G1427\|δώδεκα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| Elijah | **<big>[[G2243\|Ελίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he tossed | **<big>[[G4496\|έρριψε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sheepskin. | **<big>[[G3374\|μηλωτήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.18|<< 1 Kings 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.20|1 Kings 19:20 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָזֶה‎</span></big> **mâzeh** <small>*(maw-zeh')*</small> ==**empty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+**<big><span class="ashebrew">‎מָזֶה‎</span></big>** **mâzeh** <small>*(maw-zeh')*</small> ==**empty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
 <small>from an unused root meaning to suck out</small>
 
 $\quad$ burnt.
@@ -6,4 +6,4 @@ $\quad$ burnt.
 
 **1)** sucked out, empty, exhausted
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τήκω</span><sup><small>[[G5080]]</small></sup>
+<small>See Greek: </small>**<big>[[G5080|τήκω]]</big>**

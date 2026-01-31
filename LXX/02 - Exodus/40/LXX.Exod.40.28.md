@@ -7,16 +7,16 @@ And he set up the hanging [at] the door of the tabernacle.
 Then he put up the curtain at the entrance to the tabernacle.<small><sub>**MT:**</sub></small>
 [[Exod.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.27|<< Exodus 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.29|Exodus 40:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">έθηκε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| draw curtain | <big><span class="asgreek">επίσπαστρον</span></big> <sup><small><small>[[G7449]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G5087\|έθηκε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| draw curtain | **<big>[[G7449\|επίσπαστρον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent. | **<big>[[G4633\|σκηνής]]</big>** |
 [[Exod.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.27|<< Exodus 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.29|Exodus 40:29 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎בְּשַׁר‎</span></big> **bᵉshar** <small>*(bes-ar')*</small> ==**flesh**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בָּשָׂר‎</span><sup><small>[[H1320]]</small></sup></small>
+**<big><span class="asaramaic">‎בְּשַׁר‎</span></big>** **bᵉshar** <small>*(bes-ar')*</small> ==**flesh**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1320|‎בָּשָׂר‎]]</big>**</small>
 
 $\quad$ flesh.
 - {***flesh*** (from its freshness)

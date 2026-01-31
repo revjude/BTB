@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּרִיץ‎</span></big> **pᵉrîyts** <small>*(per-eets')*</small> ==**violent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּרַץ‎</span><sup><small>[[H6555]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּרִיץ‎</span></big>** **pᵉrîyts** <small>*(per-eets')*</small> ==**violent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6555|‎פָּרַץ‎]]</big>**</small>
 
 $\quad$ destroyer, ravenous, robber.
 - ***violent***, i.e. ***a tyrant***
@@ -7,4 +7,4 @@ $\quad$ destroyer, ravenous, robber.
 **1)** violent one, breaker
 $\quad$ **1a)** robber, murderer
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λῃστής</span><sup><small>[[G3027]]</small></sup> · <span class="asgreek">λοιμός</span><sup><small>[[G3061]]</small></sup> · <span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup>
+<small>See Greek: </small>**<big>[[G3027|λῃστής]]</big>** · **<big>[[G3061|λοιμός]]</big>** · **<big>[[G4642|σκληρός]]</big>**

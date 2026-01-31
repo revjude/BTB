@@ -7,32 +7,32 @@ Because thou hast spoiled many nations, all the remnant of the people shall spoi
 Because you have plundered many nations, the remnant of the people will plunder you—because of your bloodshed against man and your violence against the land, the city, and all their dwellers.<small><sub>**MT:**</sub></small>
 [[Hab.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.7|<< Habakkuk 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.9|Habakkuk 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| despoiled | <big><span class="asgreek">εσκύλευσας</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| shall despoil | <big><span class="asgreek">σκυλεύσουσί</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left | <big><span class="asgreek">υπολελειμμένοι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] impious deeds | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| \[of the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| despoiled | **<big>[[G9120\|εσκύλευσας]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| shall despoil | **<big>[[G9120\|σκυλεύσουσί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| being left | **<big>[[G5275\|υπολελειμμένοι]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] blood | **<big>[[G0129\|αίματα]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] impious deeds | **<big>[[G0763\|ασεβείας]]</big>** |
+| \[of the\] land | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| in it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Hab.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.7|<< Habakkuk 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.9|Habakkuk 2:9 >>]]</td></tr></table>
 
 

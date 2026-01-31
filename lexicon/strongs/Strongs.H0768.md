@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַרְנֶבֶת‎</span></big> **ʼarnebeth** <small>*(ar-neh'-beth)*</small> ==**hare**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎אַרְנֶבֶת‎</span></big>** **ʼarnebeth** <small>*(ar-neh'-beth)*</small> ==**hare**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ hare.

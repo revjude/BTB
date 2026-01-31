@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שִׁבֹּל‎</span></big> **shibbôl** <small>*(shib-bole)*</small> ==**stream**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">שִׁבֹּלֶת</span> **shibbôleth** <small>*(shib-bo'-leth)*</small>; from the same as <span class="ashebrew">‎שֹׁבֶל‎</span><sup><small>[[H7640]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁבֹּל‎</span></big>** **shibbôl** <small>*(shib-bole)*</small> ==**stream**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">שִׁבֹּלֶת</span></big>** **shibbôleth** <small>*(shib-bo'-leth)*</small>; from the same as **<big>[[H7640|‎שֹׁבֶל‎]]</big>**</small>
 
-$\quad$ branch, channel, ear (of corn), (water-)flood, Shibboleth. Compare <span class="ashebrew">‎סִבֹּלֶת‎</span><sup><small>[[H5451]]</small></sup>.
+$\quad$ branch, channel, ear (of corn), (water-)flood, Shibboleth. Compare **<big>[[H5451|‎סִבֹּלֶת‎]]</big>**.
 - ***a stream*** (as flowing)
 -  also ***an ear of grain*** (as growing out)
 -  by analogy, ***a branch***
@@ -11,4 +11,4 @@ $\quad$ branch, channel, ear (of corn), (water-)flood, Shibboleth. Compare <span
 $\quad$ **2a)** as growing
 $\quad$ **2b)** cluster
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καλάμη</span><sup><small>[[G2562]]</small></sup> · <span class="asgreek">κλάδος</span><sup><small>[[G2798]]</small></sup> · <span class="asgreek">στάχυς</span><sup><small>[[G4719]]</small></sup>
+<small>See Greek: </small>**<big>[[G2562|καλάμη]]</big>** · **<big>[[G2798|κλάδος]]</big>** · **<big>[[G4719|στάχυς]]</big>**

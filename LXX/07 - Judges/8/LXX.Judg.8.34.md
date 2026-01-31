@@ -7,26 +7,26 @@ And the children of Israel remembered not the LORD their God, who had delivered 
 The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side.<small><sub>**MT:**</sub></small>
 [[Judg.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.33|<< Judges 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.35|Judges 8:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remember | <big><span class="asgreek">εμνήσθησαν</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rescuing | <big><span class="asgreek">ρυσαμένου</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| remember | **<big>[[G3403\|εμνήσθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| rescuing | **<big>[[G4506\|ρυσαμένου]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their enemies | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[Judg.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.33|<< Judges 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.35|Judges 8:35 >>]]</td></tr></table>
 
 

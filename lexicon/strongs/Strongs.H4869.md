@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׂגָּב‎</span></big> **misgâb** <small>*(mis-gawb')*</small> ==**high refuge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂגַב‎</span><sup><small>[[H7682]]</small></sup>; properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge</small>
+**<big><span class="ashebrew">‎מִשְׂגָּב‎</span></big>** **misgâb** <small>*(mis-gawb')*</small> ==**high refuge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7682|‎שָׂגַב‎]]</big>**; properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge</small>
 
 $\quad$ Misgab.
 - § Misgab = *"height"*
@@ -12,4 +12,4 @@ $\quad$ **1b)** refuge (of God)
 n pr loc
 **2)** a place in Moab
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοηθός</span><sup><small>[[G0998]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup>
+<small>See Greek: </small>**<big>[[G0998|βοηθός]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>**

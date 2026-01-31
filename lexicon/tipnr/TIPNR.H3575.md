@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cuthah</span> was a Babylonian city from which the Assyrian king brought people to settle in Samaria after the deportation of the Israelites.
 - A location first mentioned at [[2Kgs.17.24|2Ki.17.24]]; 
-- referred to as Cuthah or Cuth \(NIV= Kuthah\) <[[H3575]]> \(<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Cuthah or Cuth \(NIV= Kuthah\)  **<big>[[H3575|כּוּת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.733333,44.666667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The mention of Cuthah in the Bible provides insight into the complex history of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cuthah (NIV= Kuthah) | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3575) <small>*Hebrew*</small> | 1x | [2Ki.17.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cuthah\*\|reference=2Ki.17.24) |
-| Cuth (NIV= Kuthah) | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3575) <small>*Hebrew*</small> | 1x | [2Ki.17.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cuth\*\|reference=2Ki.17.30) |
-All Strong's for **Cuthah or Cuth**: \[[[H3575]]\]
+| Cuthah (NIV= Kuthah) | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3575) | 1x | [2Ki.17.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cuthah\*\|reference=2Ki.17.24) |
+| Cuth (NIV= Kuthah) | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3575) | 1x | [2Ki.17.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cuth\*\|reference=2Ki.17.30) |
+All entries for **Cuthah or Cuth**:  **<big>[[H3575|כּוּת]]</big>**

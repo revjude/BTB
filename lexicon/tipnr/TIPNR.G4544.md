@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Samos</span> is an island in the Aegean Sea where Paul stopped during his third missionary journey \(Acts 20:15\).
 - A location only mentioned at [[John.4.9c|Act.20.15]]; 
-- only referred to as Samos<[[G4544]]> \(<span class='tipnrLangGreek'>Σάμος</span>\).
+- only referred to as Samos **<big>[[G4544|Σάμος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.715172,26.934167&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Samos is a Greek island located in the eastern Aegean Sea, near the coast of mod
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Samos | [<span class='tipnrLangGreek'>Σάμος</span>](G4544) <small>*Greek*</small> | 1x | [Act.20.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Samos\*\|reference=Act.20.15) |
-All Strong's for **Samos**: \[[[G4544]]\]
+| Samos | [<span class='tipnrLangGreek'>Σάμος</span>](G4544) | 1x | [Act.20.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Samos\*\|reference=Act.20.15) |
+All entries for **Samos**:  **<big>[[G4544|Σάμος]]</big>**

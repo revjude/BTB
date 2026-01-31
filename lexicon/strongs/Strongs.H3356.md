@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יָקִים‎</span></big> **Yâqîym** <small>*(yaw-keem')*</small> ==**Jakim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup>; he will raise</small>
+**<big><span class="ashebrew">‎יָקִים‎</span></big>** **Yâqîym** <small>*(yaw-keem')*</small> ==**Jakim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6965|‎קוּם‎]]</big>**; he will raise</small>
 
-$\quad$ Jakim. Compare <span class="ashebrew">‎יְהוֹיָקִים‎</span><sup><small>[[H3079]]</small></sup>.
+$\quad$ Jakim. Compare **<big>[[H3079|‎יְהוֹיָקִים‎]]</big>**.
 - § Jakim = *"He will raise"*
 - ***Jakim***, the name of two Israelites
 

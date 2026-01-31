@@ -7,19 +7,19 @@ For he remembered his holy promise, [and] Abraham his servant.
 For He remembered His holy promise to Abraham His servant.<small><sub>**MT:**</sub></small>
 [[Ps.105.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.41|<< Psalm 105:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.43|Psalm 105:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he remembered | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[spoken\] to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant. | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he remembered | **<big>[[G3403\|εμνήσθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| word | **<big>[[G3056\|λόγου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his holy | **<big>[[G0039\|αγίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[spoken\] to | **<big>[[G4314\|προς]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his servant. | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.105.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.41|<< Psalm 105:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.43|Psalm 105:43 >>]]</td></tr></table>
 
 

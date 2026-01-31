@@ -7,32 +7,32 @@ And I will destroy your high places, and cut down your images, and cast your car
 I will destroy your high places, cut down your incense altars, and heap your lifeless bodies on the lifeless remains of your idols; and My soul will despise you.<small><sub>**MT:**</sub></small>
 [[Lev.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.29|<< Leviticus 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.31|Leviticus 26:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make desolate | <big><span class="asgreek">ερημώσω</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your monuments, | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will utterly destroy | <big><span class="asgreek">εξολοθρεύσω</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wooden \[images\] | <big><span class="asgreek">ξύλινα</span></big> <sup><small><small>[[G3585]]</small></small></sup> |
-| made by hands | <big><span class="asgreek">χειροποίητα</span></big> <sup><small><small>[[G5499]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your carcasses | <big><span class="asgreek">κώλα</span></big> <sup><small><small>[[G2966]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carcasses | <big><span class="asgreek">κώλα</span></big> <sup><small><small>[[G2966]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your idols. | <big><span class="asgreek">ειδώλων</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will loathe | <big><span class="asgreek">προσοχθιεί</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will make desolate | **<big>[[G2049\|ερημώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your monuments, | **<big>[[G9171\|στήλας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will utterly destroy | **<big>[[G1842\|εξολοθρεύσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| wooden \[images\] | **<big>[[G3585\|ξύλινα]]</big>** |
+| made by hands | **<big>[[G5499\|χειροποίητα]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your carcasses | **<big>[[G2966\|κώλα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carcasses | **<big>[[G2966\|κώλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your idols. | **<big>[[G1497\|ειδώλων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will loathe | **<big>[[G4360\|προσοχθιεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.29|<< Leviticus 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.31|Leviticus 26:31 >>]]</td></tr></table>
 
 

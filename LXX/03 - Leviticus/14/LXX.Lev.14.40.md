@@ -7,30 +7,30 @@ Then the priest shall command that they take away the stones in which the plague
 he must order that the contaminated stones be pulled out and thrown into an unclean place outside the city.<small><sub>**MT:**</sub></small>
 [[Lev.14.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.39|<< Leviticus 14:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.41|Leviticus 14:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall assign | <big><span class="asgreek">προστάξει</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall take out | <big><span class="asgreek">εξελούσι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection, | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall cast | <big><span class="asgreek">εκβαλούσιν</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| an unclean | <big><span class="asgreek">ακάθαρτον</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall assign | **<big>[[G4367\|προστάξει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall take out | **<big>[[G1807\|εξελούσι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection, | **<big>[[G0860\|αφή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall cast | **<big>[[G1544\|εκβαλούσιν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| an unclean | **<big>[[G0169\|ακάθαρτον]]</big>** |
 [[Lev.14.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.39|<< Leviticus 14:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.41|Leviticus 14:41 >>]]</td></tr></table>
 
 

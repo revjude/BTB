@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוּכַל‎</span></big> **Yᵉhûwkal** <small>*(yeh-hoo-kal')*</small> ==**Jehucal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָכֹל‎</span><sup><small>[[H3201]]</small></sup>; potent</small>
+**<big><span class="ashebrew">‎יְהוּכַל‎</span></big>** **Yᵉhûwkal** <small>*(yeh-hoo-kal')*</small> ==**Jehucal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3201|‎יָכֹל‎]]</big>**; potent</small>
 
-$\quad$ Jehucal. Compare <span class="ashebrew">‎יוּכַל‎</span><sup><small>[[H3116]]</small></sup>.
+$\quad$ Jehucal. Compare **<big>[[H3116|‎יוּכַל‎]]</big>**.
 - § Jehucal = *"Jehovah is able"*
 - ***Jehukal***, an Israelite
 

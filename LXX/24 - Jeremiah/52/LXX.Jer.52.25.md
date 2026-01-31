@@ -7,61 +7,61 @@ He took also out of the city an eunuch, which had the charge of the men of war; 
 Of those still in the city, he took a court official who had been appointed over the men of war, as well as seven trusted royal advisers. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city.<small><sub>**MT:**</sub></small>
 [[Jer.52.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.24|<< Jeremiah 52:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.26|Jeremiah 52:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| eunuch | <big><span class="asgreek">ευνούχον</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| supervisor | <big><span class="asgreek">επιστάτης</span></big> <sup><small><small>[[G1988]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warriors, | <big><span class="asgreek">πολεμιστών</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| famous | <big><span class="asgreek">ονομαστούς</span></big> <sup><small><small>[[G8520]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| front | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέντας</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe | <big><span class="asgreek">γραμματέα</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as scribe | <big><span class="asgreek">γραμματεύοντα</span></big> <sup><small><small>[[G6764]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέντας</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| eunuch | **<big>[[G2135\|ευνούχον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| supervisor | **<big>[[G1988\|επιστάτης]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| warriors, | **<big>[[G8841\|πολεμιστών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| famous | **<big>[[G8520\|ονομαστούς]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| front | **<big>[[G4383\|προσώπω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city, | **<big>[[G4172\|πόλει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| scribe | **<big>[[G1122\|γραμματέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| acting as scribe | **<big>[[G6764\|γραμματεύοντα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| men | **<big>[[G0444\|ανθρώπους]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Jer.52.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.24|<< Jeremiah 52:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.26|Jeremiah 52:26 >>]]</td></tr></table>
 
 

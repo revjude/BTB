@@ -2,7 +2,7 @@
 
 Mount Carmel was a mountain range in northern Israel where the prophet Elijah confronted the prophets of Baal.
 - A location first mentioned at [[1Kgs.18.19|1Ki.18.19]]; 
-- referred to as Carmel\_Mount or Carmel<[[H3760H]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Carmel\_Mount or Carmel **<big>[[H3760|כַּרְמֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.729350157734,35.04978957235391&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ Mount Carmel's lush vegetation and beauty made it a symbol of fertility and God'
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Carmel | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H3760H) <small>*Hebrew*</small> | 4x | [[1Ki.18.19] ... [2Ki.4.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carmel\*\|reference=1Ki.18.19;1Ki.18.20;2Ki.2.25;2Ki.4.25) |
-| Carmel | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H3760H) <small>*Hebrew*</small> | 1x | [1Ki.18.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carmel\*\|reference=1Ki.18.42) |
-All Strong's for **Carmel_Mount**: \[[[H3760H]]\]
+| (Mount )Carmel | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H3760H) | 4x | [[1Ki.18.19] ... [2Ki.4.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carmel\*\|reference=1Ki.18.19;1Ki.18.20;2Ki.2.25;2Ki.4.25) |
+| Carmel | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H3760H) | 1x | [1Ki.18.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carmel\*\|reference=1Ki.18.42) |
+All entries for **Carmel Mount**:  **<big>[[H3760|כַּרְמֶל]]</big>**

@@ -7,19 +7,19 @@ Thy testimonies have I taken as an heritage for ever: for they [are] the rejoici
 Your testimonies are my heritage forever, for they are the joy of my heart.<small><sub>**MT:**</sub></small>
 [[Ps.119.111|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.110|<< Psalm 119:110]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.112|Psalm 119:112 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I inherited | <big><span class="asgreek">εκληρονόμησα</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your testimonies | <big><span class="asgreek">μαρτύριά</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon; | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a leap for joy | <big><span class="asgreek">αγαλλίαμα</span></big> <sup><small><small>[[G6110]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| I inherited | **<big>[[G2816\|εκληρονόμησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your testimonies | **<big>[[G3142\|μαρτύριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon; | **<big>[[G0165\|αιώνα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a leap for joy | **<big>[[G6110\|αγαλλίαμα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| my heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they are | **<big>[[G1510\|εισίν]]</big>** |
 [[Ps.119.111|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.110|<< Psalm 119:110]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.112|Psalm 119:112 >>]]</td></tr></table>
 
 

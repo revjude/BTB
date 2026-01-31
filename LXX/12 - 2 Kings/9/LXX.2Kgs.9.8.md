@@ -7,27 +7,27 @@ For the whole house of Ahab shall perish: and I will cut off from Ahab him that 
 The whole house of Ahab will perish, and I will cut off from Ahab every male, both slave and free, in Israel.<small><sub>**MT:**</sub></small>
 [[2Kgs.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.7|<< 2 Kings 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.9|2 Kings 9:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the entire | <big><span class="asgreek">όλου</span></big> <sup><small><small>[[G3650]]</small></small></sup> <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahab. | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall utterly destroy | <big><span class="asgreek">εξολοθρεύσεις</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| \[the\] ones urinating | <big><span class="asgreek">ουρούντα</span></big> <sup><small><small>[[G8568]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| a wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one being held | <big><span class="asgreek">συνεχόμενον</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one left \[free\] | <big><span class="asgreek">εγκαταλελειμμένον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the entire | **<big>[[G3650\|όλου]]</big>** **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Ahab. | **<big>[[H0256\|Αχαάβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall utterly destroy | **<big>[[G1842\|εξολοθρεύσεις]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| \[the\] ones urinating | **<big>[[G8568\|ουρούντα]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| a wall, | **<big>[[G5109\|τοίχον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one being held | **<big>[[G4912\|συνεχόμενον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one left \[free\] | **<big>[[G1459\|εγκαταλελειμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.7|<< 2 Kings 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.9|2 Kings 9:9 >>]]</td></tr></table>
 
 

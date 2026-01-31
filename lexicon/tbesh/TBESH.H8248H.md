@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שָׁקָה‎</span> <small>***(sha.qah)***</small> ==**to water: drink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H8248G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H8248G|שָׁקָה]]</big>**</small> 
 
 - : drink(PEOPLE)

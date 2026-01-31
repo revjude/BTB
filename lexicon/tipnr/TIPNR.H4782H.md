@@ -4,8 +4,8 @@ Esther's adversary living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Mordecai</span>, Esther's cousin and guardian, played a crucial role in saving the Jews from Haman's plot during the reign of King Ahasuerus \(Xerxes\) of Persia.
 - Esther's adversary living at the time of Exile and Return, first mentioned at [[Esth.2.5|Est.2.5]]; 
-- only referred to as Mordecai<[[H4782H]]> \(<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>\); 
-- a son of Jair<[[H2971J]]>.
+- only referred to as Mordecai **<big>[[H4782|מׇרְדְּכַי]]</big>**; 
+- a son of Jair **<big>[[H2971|יָאִיר]]</big>**.
 
 Mordecai, a prominent figure in the book of Esther, was a Jewish man living in the Persian capital of Susa during the reign of King Ahasuerus \(Xerxes I\). He was the son of Jair, from the tribe of Benjamin, and had been taken into exile from Jerusalem by Nebuchadnezzar, the king of Babylon \([[Esth.2.5|Esther 2:5]]-6\). 
 
@@ -23,7 +23,7 @@ Throughout the book of Esther, Mordecai is portrayed as a wise, courageous, and 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mordecai | [<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4782H) <small>*Hebrew*</small> | 58x | [[Est.2.5] ... [Est.10.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mordecai\*\|reference=Est.2.5;Est.2.7;Est.2.10;Est.2.11;Est.2.15;Est.2.19;Est.2.20;Est.2.20;Est.2.21;Est.2.22;Est.2.22;Est.3.2;Est.3.3;Est.3.4;Est.3.5;Est.3.6;Est.3.6;Est.3.6;Est.4.1;Est.4.1;Est.4.4;Est.4.5;Est.4.6;Est.4.7;Est.4.9;Est.4.10;Est.4.12;Est.4.13;Est.4.15;Est.4.17;Est.5.9;Est.5.9;Est.5.13;Est.5.14;Est.6.2;Est.6.3;Est.6.4;Est.6.10;Est.6.11;Est.6.12) |
-All Strong's for **Mordecai**: \[[[H4782H]]\]
+| Mordecai | [<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4782H) | 58x | [[Est.2.5] ... [Est.10.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mordecai\*\|reference=Est.2.5;Est.2.7;Est.2.10;Est.2.11;Est.2.15;Est.2.19;Est.2.20;Est.2.20;Est.2.21;Est.2.22;Est.2.22;Est.3.2;Est.3.3;Est.3.4;Est.3.5;Est.3.6;Est.3.6;Est.3.6;Est.4.1;Est.4.1;Est.4.4;Est.4.5;Est.4.6;Est.4.7;Est.4.9;Est.4.10;Est.4.12;Est.4.13;Est.4.15;Est.4.17;Est.5.9;Est.5.9;Est.5.13;Est.5.14;Est.6.2;Est.6.3;Est.6.4;Est.6.10;Est.6.11;Est.6.12) |
+All entries for **Mordecai**:  **<big>[[H4782|מׇרְדְּכַי]]</big>**
 #### Related Profiles:
 - **[Jair](H2971J)** (father)

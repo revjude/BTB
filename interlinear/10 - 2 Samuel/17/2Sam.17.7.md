@@ -6,20 +6,20 @@ Hushai replied, “This time the advice of Ahithophel is not sound.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.6|<< 2 Samuel 17:6]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.8|2 Samuel 17:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֥אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hushai  | <span class="ashebrew"><big>חוּשַׁ֖י </big></span><small><small><sup>[[H2365]]</sup></small></small> &#8207;| chu.Shai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Absalom  | <span class="ashebrew"><big>אַבְשָׁל֑וֹם </big></span><small><small><sup>[[H0053]]</sup></small></small> &#8207;| 'av.sha.Lom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] good  | <span class="ashebrew"><big>טוֹבָ֧ה </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| to.Vah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the counsel  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֵצָ֛ה </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Tzah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has counseled  | <span class="ashebrew"><big>יָעַ֥ץ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| ya.'Atz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahithophel  | <span class="ashebrew"><big>אֲחִיתֹ֖פֶל </big></span><small><small><sup>[[H0302]]</sup></small></small> &#8207;| 'a.chi.To.fel <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at the time  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פַּ֥עַם </big></span><small><small><sup>[[H6471]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Pa.'am <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֹּֽאת </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hushai  |**<big>&#8207;[[H2365\|חוּשַׁ֖י]]&#8207; </big>**| chu.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֑וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|טוֹבָ֧ה]]&#8207; </big>**| to.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the counsel  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6098\|עֵצָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has counseled  |**<big>&#8207;[[H3289\|יָעַ֥ץ]]&#8207; </big>**| ya.'Atz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahithophel  |**<big>&#8207;[[H0302\|אֲחִיתֹ֖פֶל]]&#8207; </big>**| 'a.chi.To.fel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the time  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6471\|פַּ֥עַם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Pa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.6|<< 2 Samuel 17:6]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.8|2 Samuel 17:8 >>]]</td></tr></table>
 
 

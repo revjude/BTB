@@ -7,32 +7,32 @@ Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I [am]
 Thus says the LORD, your Redeemer who formed you from the womb: “I am the LORD, who has made all things, who alone stretched out the heavens, who by Myself spread out the earth,<small><sub>**MT:**</sub></small>
 [[Isa.44.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.23|<< Isaiah 44:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.25|Isaiah 44:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one ransoming | <big><span class="asgreek">λυτρούμενός</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one shaping | <big><span class="asgreek">πλάσσων</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] belly, | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completing | <big><span class="asgreek">συντελών</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| all \[things\]. | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| I stretched out | <big><span class="asgreek">εξέτεινα</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| alone, | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| solidified | <big><span class="asgreek">εστερέωσα</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one ransoming | **<big>[[G3084\|λυτρούμενός]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one shaping | **<big>[[G4111\|πλάσσων]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] belly, | **<big>[[G2836\|κοιλίας]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| completing | **<big>[[G4931\|συντελών]]</big>** |
+| all \[things\]. | **<big>[[G3956\|πάντα]]</big>** |
+| I stretched out | **<big>[[G1614\|εξέτεινα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| alone, | **<big>[[G3441\|μόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| solidified | **<big>[[G4732\|εστερέωσα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
 [[Isa.44.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.23|<< Isaiah 44:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.25|Isaiah 44:25 >>]]</td></tr></table>
 
 

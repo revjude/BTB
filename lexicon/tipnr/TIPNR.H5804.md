@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gaza</span>, one of the five major Philistine cities, was the site of Samson's exploits and a place visited by Philip the evangelist in the early church.
 - A location first mentioned at [[Gen.10.19|Gen.10.19]]; 
-- referred to as Gaza or Ayyah<[[H5804]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ה</span>\), or Gaza or Gazite<[[H5841]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Gaza<[[G1048]]> \(<span class='tipnrLangGreek'>Γάζα</span>\).
+- referred to as Gaza or Ayyah **<big>[[H5804|עַזָּה]]</big>**, or Gaza or Gazite **<big>[[H5841|עַזָּתִי]]</big>**, or Gaza **<big>[[G1048|Γάζα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.52481769532773,34.4333647185274&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,9 +20,9 @@ The name Gaza is believed to be derived from the Hebrew root meaning "to be stro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gaza | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5804) <small>*Hebrew*</small> | 20x | [[Gen.10.19] ... [Zec.9.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Gen.10.19;Deu.2.23;Jos.10.41;Jos.11.22;Jos.15.47;Jdg.1.18;Jdg.6.4;Jdg.16.1;Jdg.16.21;1Sa.6.17;1Ki.4.24;2Ki.18.8;Jer.25.20;Jer.47.1;Jer.47.5;Amo.1.6;Amo.1.7;Zep.2.4;Zec.9.5;Zec.9.5) |
-| Ayyah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5804) <small>*Hebrew*</small> | 1x | [1Ch.7.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ayyah\*\|reference=1Ch.7.28) |
-| Gaza | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5841) <small>*Hebrew*</small> | 1x | [Jos.13.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Jos.13.3) |
-| Gazite | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5841) <small>*Hebrew*</small> | 1x | [Jdg.16.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gazite\*\|reference=Jdg.16.2) |
-| Gaza | [<span class='tipnrLangGreek'>Γάζα</span>](G1048) <small>*Greek*</small> | 1x | [Act.8.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Act.8.26) |
-All Strong's for **Gaza or Ayyah**: \[[[H5804]]\] \[[[H5841]]\] \[[[G1048]]\]
+| Gaza | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5804) | 20x | [[Gen.10.19] ... [Zec.9.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Gen.10.19;Deu.2.23;Jos.10.41;Jos.11.22;Jos.15.47;Jdg.1.18;Jdg.6.4;Jdg.16.1;Jdg.16.21;1Sa.6.17;1Ki.4.24;2Ki.18.8;Jer.25.20;Jer.47.1;Jer.47.5;Amo.1.6;Amo.1.7;Zep.2.4;Zec.9.5;Zec.9.5) |
+| Ayyah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5804) | 1x | [1Ch.7.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ayyah\*\|reference=1Ch.7.28) |
+| Gaza | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5841) | 1x | [Jos.13.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Jos.13.3) |
+| Gazite | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5841) | 1x | [Jdg.16.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gazite\*\|reference=Jdg.16.2) |
+| Gaza | [<span class='tipnrLangGreek'>Γάζα</span>](G1048) | 1x | [Act.8.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gaza\*\|reference=Act.8.26) |
+All entries for **Gaza or Ayyah**:  **<big>[[H5804|עַזָּה]]</big>** ☩  **<big>[[H5841|עַזָּתִי]]</big>** ☩  **<big>[[G1048|Γάζα]]</big>**

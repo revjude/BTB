@@ -7,34 +7,34 @@ My meat also which I gave thee, fine flour, and oil, and honey, [wherewith] I fe
 And you set before them as a pleasing aroma the food I had given you—the fine flour, oil, and honey that I had fed you. That is what happened, declares the Lord GOD.<small><sub>**MT:**</sub></small>
 [[Ezek.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.18|<< Ezekiel 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.20|Ezekiel 16:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκά</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fine flour | <big><span class="asgreek">σεμίδαλιν</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey, | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| \[which\] I fed | <big><span class="asgreek">εψώμισά</span></big> <sup><small><small>[[G5595]]</small></small></sup> |
-| you -- | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you put | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| their face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma. | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| Yes, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became so, | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my bread loaves | **<big>[[G0740\|άρτους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| I gave | **<big>[[G1325\|έδωκά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| fine flour | **<big>[[G4585\|σεμίδαλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey, | **<big>[[G3192\|μέλι]]</big>** |
+| \[which\] I fed | **<big>[[G5595\|εψώμισά]]</big>** |
+| you -- | **<big>[[G1473\|σε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| you put | **<big>[[G5087\|έθηκας]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| their face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma. | **<big>[[G2175\|ευωδίας]]</big>** |
+| Yes, | **<big>[[G2532\|και]]</big>** |
+| it became so, | **<big>[[G1096\|εγένετο]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.18|<< Ezekiel 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.20|Ezekiel 16:20 >>]]</td></tr></table>
 
 

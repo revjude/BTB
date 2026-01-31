@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סַבְתָּא‎</span></big> **Çabtâʼ** <small>*(sab-taw')*</small> ==**Sabtah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">סַבְתָּה</span> **Çabtâh** <small>*(sab-taw')*</small>; probably of foreign derivation</small>
+**<big><span class="ashebrew">‎סַבְתָּא‎</span></big>** **Çabtâʼ** <small>*(sab-taw')*</small> ==**Sabtah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">סַבְתָּה</span></big>** **Çabtâh** <small>*(sab-taw')*</small>; probably of foreign derivation</small>
 
 $\quad$ Sabta, Sabtah.
 - § Sabta or Sabtah = *"striking"*

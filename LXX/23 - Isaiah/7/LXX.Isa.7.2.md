@@ -7,37 +7,37 @@ And it was told the house of David, saying, Syria is confederate with Ephraim. A
 When it was reported to the house of David that Aram was in league with Ephraim, the hearts of Ahaz and his people trembled like trees in the forest shaken by the wind.<small><sub>**MT:**</sub></small>
 [[Isa.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.1|<< Isaiah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.3|Isaiah 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was announced | <big><span class="asgreek">ανηγγέλη</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| joined in harmony | <big><span class="asgreek">συνεφώνησεν</span></big> <sup><small><small>[[G4856]]</small></small></sup> |
-| Aram | <big><span class="asgreek">Αράμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim. | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it startled | <big><span class="asgreek">εξέστη</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a grove | <big><span class="asgreek">δρυμώ</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| a tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| a wind | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| is shaken | <big><span class="asgreek">σαλευθή</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was announced | **<big>[[G0312\|ανηγγέλη]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of David, | **<big>[[G1138\|Δαυίδ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| joined in harmony | **<big>[[G4856\|συνεφώνησεν]]</big>** |
+| Aram | **<big>[[H7410\|Αράμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ephraim. | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it startled | **<big>[[G1839\|εξέστη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his soul, | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a grove | **<big>[[G6971\|δρυμώ]]</big>** |
+| a tree | **<big>[[G3586\|ξύλον]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| a wind | **<big>[[G4151\|πνεύματος]]</big>** |
+| is shaken | **<big>[[G4531\|σαλευθή]]</big>** |
 [[Isa.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.1|<< Isaiah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.3|Isaiah 7:3 >>]]</td></tr></table>
 
 

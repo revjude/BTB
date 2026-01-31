@@ -10,32 +10,32 @@ Woe is me! for I am as when they have gathered the summer fruits, as the grapegl
 Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave.<small><sub>**MT:**</sub></small>
 [[Mic.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.16|<< Micah 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.2|Micah 7:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Alas, | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one gathering | <big><span class="asgreek">συνάγων</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| stubble | <big><span class="asgreek">καλάμην</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a harvest, | <big><span class="asgreek">αμητώ</span></big> <sup><small><small>[[G6259]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| grape gleanings | <big><span class="asgreek">επιφυλλίδα</span></big> <sup><small><small>[[G7470]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| one gathering | <big><span class="asgreek">τρυγητώ</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| where there does not exist | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπάρχοντος</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| grapes | <big><span class="asgreek">βότρυος</span></big> <sup><small><small>[[G1009]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| first-ripe | <big><span class="asgreek">πρωτόγονα</span></big> <sup><small><small>[[G8967]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| longs after | <big><span class="asgreek">επεπόθησεν</span></big> <sup><small><small>[[G1971]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Woe | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| O soul. | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| Alas, | **<big>[[G8461\|οίμοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I became | **<big>[[G1096\|εγενήθην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one gathering | **<big>[[G4863\|συνάγων]]</big>** |
+| stubble | **<big>[[G2562\|καλάμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a harvest, | **<big>[[G6259\|αμητώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| grape gleanings | **<big>[[G7470\|επιφυλλίδα]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| one gathering | **<big>[[G9506\|τρυγητώ]]</big>** |
+| where there does not exist | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5225\|υπάρχοντος]]</big>** |
+| grapes | **<big>[[G1009\|βότρυος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| first-ripe | **<big>[[G8967\|πρωτόγονα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| longs after | **<big>[[G1971\|επεπόθησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Woe | **<big>[[G8461\|οίμοι]]</big>** |
+| O soul. | **<big>[[G5590\|ψυχή]]</big>** |
 [[Mic.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.16|<< Micah 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.2|Micah 7:2 >>]]</td></tr></table>
 
 

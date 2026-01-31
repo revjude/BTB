@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹתָם‎</span></big> **Yôwthâm** <small>*(yo-thawm')*</small> ==**Jotham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎תָּם‎</span><sup><small>[[H8535]]</small></sup>; Jehovah (is) perfect</small>
+**<big><span class="ashebrew">‎יוֹתָם‎</span></big>** **Yôwthâm** <small>*(yo-thawm')*</small> ==**Jotham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H8535|‎תָּם‎]]</big>**; Jehovah (is) perfect</small>
 
 $\quad$ Jotham.
 - § Jotham = *"Jehovah is perfect"*
@@ -9,4 +9,4 @@ $\quad$ Jotham.
 **2)** son of Jahdai and a descendant of Caleb and Judah
 **3)** youngest son of Gideon who escaped from the massacre of his brothers
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰωάθαμ</span><sup><small>[[G2488]]</small></sup>
+<small>See Greek: </small>**<big>[[G2488|Ἰωάθαμ]]</big>**

@@ -6,24 +6,24 @@ Nevertheless, the high places were not taken away; the people continued sacrific
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.34|<< 2 Kings 15:34]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.36|2 Kings 15:36 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| only  | <span class="ashebrew"><big>רַ֤ק </big></span><small><small><sup>[[H7535]]</sup></small></small> &#8207;| rak <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the high places  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּמוֹת֙ </big></span><small><small><sup>[[H1116]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.mOt <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were removed  | <span class="ashebrew"><big>סָ֔רוּ </big></span><small><small><sup>[[H5493G]]</sup></small></small> &#8207;| Sa.ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  | <span class="ashebrew"><big>ע֗וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָ֛ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] sacrificing  | <span class="ashebrew"><big>מְזַבְּחִ֥ים </big></span><small><small><sup>[[H2076]]</sup></small></small> &#8207;| me.za.be.Chim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [were] making smoke  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְקַטְּרִ֖ים </big></span><small><small><sup>[[H6999H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.ka.te.Rim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at the high places  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בָּמ֑וֹת </big></span><small><small><sup>[[H1116]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ba.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֗וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he built  | <span class="ashebrew"><big>בָּנָ֛ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ba.Nah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gate of  | <span class="ashebrew"><big>שַׁ֥עַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| Sha.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּית </big></span><small><small><sup>[[H1004Q]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> upper  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֶלְיֽוֹן </big></span><small><small><sup>[[H5945A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'el.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H7535\|רַ֤ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the high places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1116\|בָּמוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.mOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were removed  |**<big>&#8207;[[H5493G\|סָ֔רוּ]]&#8207; </big>**| Sa.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֗וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] sacrificing  |**<big>&#8207;[[H2076\|מְזַבְּחִ֥ים]]&#8207; </big>**| me.za.be.Chim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [were] making smoke  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H6999H\|מְקַטְּרִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.ka.te.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the high places  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1116\|בָּמ֑וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ba.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he built  |**<big>&#8207;[[H1129\|בָּנָ֛ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gate of  |**<big>&#8207;[[H8179G\|שַׁ֥עַר]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004Q\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> upper  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5945A\|עֶלְיֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.34|<< 2 Kings 15:34]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.36|2 Kings 15:36 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הָמוֹן‎</span></big> **hâmôwn** <small>*(haw-mone')*</small> ==**crowd**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">הָמֹן</span> **hâmôn** <small>*(haw-mone')*</small>; (Ezekiel 5:7), from <span class="ashebrew">‎הָמָה‎</span><sup><small>[[H1993]]</small></sup></small>
+**<big><span class="ashebrew">‎הָמוֹן‎</span></big>** **hâmôwn** <small>*(haw-mone')*</small> ==**crowd**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">הָמֹן</span></big>** **hâmôn** <small>*(haw-mone')*</small>; (Ezekiel 5:7), from **<big>[[H1993|‎הָמָה‎]]</big>**</small>
 
 $\quad$ abundance, company, many, multitude, multiply, noise, riches, rumbling, sounding, store, tumult.
 - ***a noise***, ***tumult***, ***crowd***
@@ -12,4 +12,4 @@ $\quad$ **1c)** crowd, multitude
 $\quad$ **1d)** great number, abundance
 $\quad$ **1e)** abundance, wealth
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφορμή</span><sup><small>[[G0874]]</small></sup> · <span class="asgreek">βοή</span><sup><small>[[G0995]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">ἔθνος</span><sup><small>[[G1484]]</small></sup> · <span class="asgreek">ἐξηχέομαι</span><sup><small>[[G1837]]</small></sup> · <span class="asgreek">ἦχος</span><sup><small>[[G2279]]</small></sup> · <span class="asgreek">θόρυβος</span><sup><small>[[G2351]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">λαός</span><sup><small>[[G2992]]</small></sup> · <span class="asgreek">μέγας</span><sup><small>[[G3173]]</small></sup> · <span class="asgreek">ὄχλος</span><sup><small>[[G3793]]</small></sup> · <span class="asgreek">παρεμβολή</span><sup><small>[[G3925]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup> · <span class="asgreek">πλοῦτος</span><sup><small>[[G4149]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup> · <span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup>
+<small>See Greek: </small>**<big>[[G0874|ἀφορμή]]</big>** · **<big>[[G0995|βοή]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G1484|ἔθνος]]</big>** · **<big>[[G1837|ἐξηχέομαι]]</big>** · **<big>[[G2279|ἦχος]]</big>** · **<big>[[G2351|θόρυβος]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G2992|λαός]]</big>** · **<big>[[G3173|μέγας]]</big>** · **<big>[[G3793|ὄχλος]]</big>** · **<big>[[G3925|παρεμβολή]]</big>** · **<big>[[G4128|πλῆθος]]</big>** · **<big>[[G4149|πλοῦτος]]</big>** · **<big>[[G4864|συναγωγή]]</big>** · **<big>[[G5456|φωνή]]</big>**

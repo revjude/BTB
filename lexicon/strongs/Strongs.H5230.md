@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָכַל‎</span></big> **nâkal** <small>*(naw-kal')*</small> ==**to plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָכַל‎</span></big>** **nâkal** <small>*(naw-kal')*</small> ==**to plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beguile, conspire, deceiver, deal subtilly.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** deceiver (participle)
 $\quad$ **1b)** (Piel) to beguile
 $\quad$ **1c)** (Hithpael) to act craftily, act knavishly, deal knavishly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δολιόω</span><sup><small>[[G1387]]</small></sup>
+<small>See Greek: </small>**<big>[[G1387|δολιόω]]</big>**

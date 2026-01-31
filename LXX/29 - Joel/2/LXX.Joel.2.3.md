@@ -11,36 +11,36 @@ Before them a fire devours, and behind them a flame scorches. The land before th
 > $\quad$ referenced by: [[LXX.Ezek.36.35|Ezek 36:35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| a consuming | <big><span class="asgreek">αναλίσκον</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being lighted | <big><span class="asgreek">αναπτομένη</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλοξ</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a paradise | <big><span class="asgreek">παράδεισος</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
-| of delicacy | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| his face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a plain | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of extinction; | <big><span class="asgreek">αφανισμού</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones escaping | <big><span class="asgreek">ανασωζόμενος</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| a consuming | **<big>[[G0355\|αναλίσκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| being lighted | **<big>[[G0381\|αναπτομένη]]</big>** |
+| a flame | **<big>[[G5395\|φλοξ]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| a paradise | **<big>[[G3857\|παράδεισος]]</big>** |
+| of delicacy | **<big>[[G5172\|τρυφής]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| his face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| a plain | **<big>[[G8676\|πεδίον]]</big>** |
+| of extinction; | **<big>[[G0854\|αφανισμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones escaping | **<big>[[G6314\|ανασωζόμενος]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Joel.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.4|Joel 2:4 >>]]</td></tr></table>
 
 

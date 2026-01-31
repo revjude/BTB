@@ -6,19 +6,19 @@ Then Saul struck down the Amalekites all the way from Havilah to Shur, which is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.6|<< 1 Samuel 15:6]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.8|1 Samuel 15:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he attacked  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yakh <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֖וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amalek  | <span class="ashebrew"><big>עֲמָלֵ֑ק </big></span><small><small><sup>[[H6002G]]</sup></small></small> &#8207;| 'a.ma.Lek <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Havilah  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חֲוִילָה֙ </big></span><small><small><sup>[[H2341J]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> cha.vi.Lah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| coming you  | <span class="ashebrew"><big>בּוֹאֲ </big></span><small><small><sup>[[H0935I]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9041]]</sup></small></small> &#8207;| bo.'a. <small><sup>[[HVqcc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shur  | <span class="ashebrew"><big>שׁ֔וּר </big></span><small><small><sup>[[H7793]]</sup></small></small> &#8207;| Shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440J]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he attacked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amalek  |**<big>&#8207;[[H6002G\|עֲמָלֵ֑ק]]&#8207; </big>**| 'a.ma.Lek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Havilah  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2341J\|חֲוִילָה֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.vi.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| coming you  |**<big>&#8207;[[H0935I\|בּוֹאֲ]]&#8207;&#8207;[[H9041\|ךָ֣]]&#8207; </big>**| bo.'a.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shur  |**<big>&#8207;[[H7793\|שׁ֔וּר]]&#8207; </big>**| Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.6|<< 1 Samuel 15:6]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.8|1 Samuel 15:8 >>]]</td></tr></table>
 
 

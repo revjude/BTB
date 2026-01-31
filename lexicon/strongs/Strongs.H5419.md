@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְתַן־מֶלֶךְ‎</span></big> **Nᵉthan-Melek** <small>*(neth-an' meh'-lek)*</small> ==**Nathan-melech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup> and <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup>; given of (the) king</small>
+**<big><span class="ashebrew">‎נְתַן־מֶלֶךְ‎</span></big>** **Nᵉthan-Melek** <small>*(neth-an' meh'-lek)*</small> ==**Nathan-melech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5414|‎נָתַן‎]]</big>** and **<big>[[H4428|‎מֶלֶךְ‎]]</big>**; given of (the) king</small>
 
 $\quad$ Nathanmelech.
 - § Nathan-melech = *"the gift of the king"*

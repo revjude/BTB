@@ -6,16 +6,16 @@ There is no one to plead your cause, no remedy for your sores, no recovery for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.12|<< Jeremiah 30:12]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.14|Jeremiah 30:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there not  | <span class="ashebrew"><big>אֵֽין </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ein- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is one who] pleads  | <span class="ashebrew"><big>דָּ֥ן </big></span><small><small><sup>[[H1777]]</sup></small></small> &#8207;| dan <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cause your  | <span class="ashebrew"><big>דִּינֵ֖ </big></span><small><small><sup>[[H1779]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| di.Ne <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a sore  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָז֑וֹר </big></span><small><small><sup>[[H4205]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ma.Zor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] medications of  | <span class="ashebrew"><big>רְפֻא֥וֹת </big></span><small><small><sup>[[H7499]]</sup></small></small> &#8207;| re.fu.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| healing  | <span class="ashebrew"><big>תְּעָלָ֖ה </big></span><small><small><sup>[[H8585B]]</sup></small></small> &#8207;| te.'a.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La <small><sup>[[HRd]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] pleads  |**<big>&#8207;[[H1777\|דָּ֥ן]]&#8207; </big>**| dan<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cause your  |**<big>&#8207;[[H1779\|דִּינֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| di.Ne<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a sore  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4205\|מָז֑וֹר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Zor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] medications of  |**<big>&#8207;[[H7499\|רְפֻא֥וֹת]]&#8207; </big>**| re.fu.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| healing  |**<big>&#8207;[[H8585B\|תְּעָלָ֖ה]]&#8207; </big>**| te.'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.12|<< Jeremiah 30:12]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.14|Jeremiah 30:14 >>]]</td></tr></table>
 
 

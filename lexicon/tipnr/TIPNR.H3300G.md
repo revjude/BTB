@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jaasiel</span>, the son of Abner, was one of David's mighty warriors \([[1Chr.11.47|1Ch.11.47]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.11.47|1Ch.11.47]]; 
-- only referred to as Jaasiel<[[H3300G]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Jaasiel **<big>[[H3300|יַעֲשִׂיאֵל]]</big>**.
 
 Jaasiel, the son of Abner, is mentioned in [[1Chr.11.47|1 Chronicles 11:47]] as one of David's mighty warriors. He is listed among the warriors who came to David at Ziklag and helped him in his battles against the raiders \(1Ch.12.1-7\). 
 
@@ -16,5 +16,5 @@ No other information is given about Jaasiel's specific exploits or his role in D
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaasiel (KJV= Jasiel) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3300G) <small>*Hebrew*</small> | 1x | [1Ch.11.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaasiel\*\|reference=1Ch.11.47) |
-All Strong's for **Jaasiel**: \[[[H3300G]]\]
+| Jaasiel (KJV= Jasiel) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3300G) | 1x | [1Ch.11.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaasiel\*\|reference=1Ch.11.47) |
+All entries for **Jaasiel**:  **<big>[[H3300|יַעֲשִׂיאֵל]]</big>**

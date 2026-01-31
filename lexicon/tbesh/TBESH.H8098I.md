@@ -1,5 +1,4 @@
-<span class="ashebrew">‎שְׁמַעְיָ֫הוּ‎</span> <small>***(she.ma.yah)***</small> ==**Shemaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[1Chr.26.4|1Ch.26.4]]
--  son of: Obed-edom ([[H5654]])
--  brother of: Jehozabad ([[H3075H]]), Joah ([[H3098I]]), Sachar ([[H7940]]), Nethanel ([[H5417K]]), Ammiel ([[H5988I]]), Issachar ([[H3485H]]) and Peullethai ([[H6469]])
--  father of: Othni ([[H6273]]), Rephael ([[H7501]]), Obed ([[H5744J]]), Elzabad ([[H0443H]]), Elihu ([[H0453I]]) and Semachiah ([[H5565]])
+-  son of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**)
+-  brother of: Jehozabad (**<big>[[H3075H|יְהוֹזָבָד]]</big>**), Joah (**<big>[[H3098I|יוֹאָח]]</big>**), Sachar (**<big>[[H7940|שָׂכָר]]</big>**), Nethanel (**<big>[[H5417K|נְתַנְאֵל]]</big>**), Ammiel (**<big>[[H5988I|עַמִּיאֵל]]</big>**), Issachar (**<big>[[H3485H|יִשָּׂשכָר]]</big>**) and Peullethai (**<big>[[H6469|פְּעֻלְּתַי]]</big>**)
+-  father of: Othni (**<big>[[H6273|עׇתְנִי]]</big>**), Rephael (**<big>[[H7501|רְפָאֵל]]</big>**), Obed (**<big>[[H5744J|עוֹבֵד]]</big>**), Elzabad (**<big>[[H0443H|אֶלְזָבָד]]</big>**), Elihu (**<big>[[H0453I|אֱלִיהוּ]]</big>**) and Semachiah (**<big>[[H5565|סְמַכְיָהוּ]]</big>**)

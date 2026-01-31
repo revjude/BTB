@@ -4,9 +4,9 @@ Arabian living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Kedemah</span> was a son of Ishmael, while the Nodab were a Hagrite tribe defeated by the Reubenites, Gadites, and half-tribe of Manasseh.
 - A man of the Arabs living at the time of the Patriarchs, first mentioned at [[Gen.25.15|Gen.25.15]]; 
-- referred to as Kedemah<[[H6929]]> \(<span class='tipnrLangHebrew'>ק</span>ֵ֑<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Nodab<[[H5114]]> \(<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ֑<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Ishmael<[[H3458G]]>; 
-- a brother of Nebaioth<[[H5032]]>, Kedar<[[H6938]]>, Adbeel<[[H0110]]>, Mibsam<[[H4017G]]>, Mishma<[[H4927G]]>, Dumah<[[H1746G]]>, Massa<[[H4854]]>, Hadad<[[H2301]]>, Tema<[[H8485G]]>, Jetur<[[H3195G]]>, Naphish<[[H5305]]> and Mahalath<[[H4258G]]>.
+- referred to as Kedemah **<big>[[H6929|קֵדְמָה]]</big>**, or Nodab **<big>[[H5114|נוֹדָב]]</big>**; 
+-  son of Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>**; 
+- a brother of Nebaioth **<big>[[H5032|נְבָיוֹת]]</big>**, Kedar **<big>[[H6938|קֵדָר]]</big>**, Adbeel **<big>[[H0110|אַדְבְּאֵל]]</big>**, Mibsam **<big>[[H4017|מִבְשָׂם]]</big>**, Mishma **<big>[[H4927|מִשְׁמָע]]</big>**, Dumah **<big>[[H1746|דּוּמָה]]</big>**, Massa **<big>[[H4854|מַשָּׂא]]</big>**, Hadad **<big>[[H2301|חֲדַד]]</big>**, Tema **<big>[[H8485|תֵּימָא]]</big>**, Jetur **<big>[[H3195|יְטוּר]]</big>**, Naphish **<big>[[H5305|נָפִישׁ]]</big>** and Mahalath **<big>[[H4258|מַחֲלַת]]</big>**.
 
 Kedemah is mentioned in [[Gen.25.15|Genesis 25:15]] and [[1Chr.1.31|1 Chronicles 1:31]] as one of the twelve sons of Ishmael, the son of Abraham. He is listed along with his brothers as the ancestors of the twelve tribes of Ishmael. 
 
@@ -20,9 +20,9 @@ Apart from this brief mention in the context of the Israelite tribes' victory ov
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kedemah | [<span class='tipnrLangHebrew'>ק</span>ֵ֑<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6929) <small>*Hebrew*</small> | 2x | [[Gen.25.15] & [1Ch.1.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedemah\*\|reference=Gen.25.15;1Ch.1.31) |
-| Nodab | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ֑<span class='tipnrLangHebrew'>ב</span>](H5114) <small>*Hebrew*</small> | 1x | [1Ch.5.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nodab\*\|reference=1Ch.5.19) |
-All Strong's for **Kedemah or Nodab**: \[[[H6929]]\] \[[[H5114]]\]
+| Kedemah | [<span class='tipnrLangHebrew'>ק</span>ֵ֑<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6929) | 2x | [[Gen.25.15] & [1Ch.1.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedemah\*\|reference=Gen.25.15;1Ch.1.31) |
+| Nodab | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ֑<span class='tipnrLangHebrew'>ב</span>](H5114) | 1x | [1Ch.5.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nodab\*\|reference=1Ch.5.19) |
+All entries for **Kedemah or Nodab**:  **<big>[[H6929|קֵדְמָה]]</big>** ☩  **<big>[[H5114|נוֹדָב]]</big>**
 #### Related Profiles:
 - **[Ishmael](H3458G)** (father)
 - **[Nebaioth](H5032)** (sibling)

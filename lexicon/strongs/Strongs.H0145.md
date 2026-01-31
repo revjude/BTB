@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶדֶר‎</span></big> **ʼeder** <small>*(eh'-der)*</small> ==**robe**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎אָדַר‎</span><sup><small>[[H0142]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶדֶר‎</span></big>** **ʼeder** <small>*(eh'-der)*</small> ==**robe**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H0142|‎אָדַר‎]]</big>**</small>
 
 $\quad$ goodly, robe.
 - ***amplitude***, i.e. (concrete) ***a mantle***

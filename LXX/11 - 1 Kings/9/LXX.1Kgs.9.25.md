@@ -7,35 +7,35 @@ And three times in a year did Solomon offer burnt offerings and peace offerings 
 Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple.<small><sub>**MT:**</sub></small>
 [[1Kgs.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.24|<< 1 Kings 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.26|1 Kings 9:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon offered | <big><span class="asgreek">προσήνεγκεν</span></big> <sup><small><small>[[G4374]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| thrice | <big><span class="asgreek">τρισσώς</span></big> <sup><small><small>[[G9495]]</small></small></sup> |
-| in | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| a year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peace \[offerings\] | <big><span class="asgreek">ειρηνικάς</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he built | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he burnt incense | <big><span class="asgreek">εθυμίασεν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[was\] before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he finished | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon offered | **<big>[[G4374\|προσήνεγκεν]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| thrice | **<big>[[G9495\|τρισσώς]]</big>** |
+| in | **<big>[[G2596\|κατ΄]]</big>** |
+| a year | **<big>[[G1763\|ενιαυτόν]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| peace \[offerings\] | **<big>[[G1516\|ειρηνικάς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| he built | **<big>[[G3618\|ωκοδόμησε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he burnt incense | **<big>[[G2370\|εθυμίασεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| \[was\] before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he finished | **<big>[[G4931\|συνετέλεσε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house. | **<big>[[G3624\|οίκον]]</big>** |
 [[1Kgs.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.24|<< 1 Kings 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.26|1 Kings 9:26 >>]]</td></tr></table>
 
 

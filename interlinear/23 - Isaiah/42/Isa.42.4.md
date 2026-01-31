@@ -10,19 +10,19 @@ He will not grow weak or discouraged before He has established justice on the ea
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will grow dim  | <span class="ashebrew"><big>יִכְהֶה֙ </big></span><small><small><sup>[[H3543A]]</sup></small></small> &#8207;| yikh.Heh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be crushed  | <span class="ashebrew"><big>יָר֔וּץ </big></span><small><small><sup>[[H7533]]</sup></small></small> &#8207;| ya.Rutz <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will establish  | <span class="ashebrew"><big>יָשִׂ֥ים </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| ya.Sim <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the earth  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for instruction his  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>תוֹרָת֖ </big></span><small><small><sup>[[H8451]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> to.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| islands  | <span class="ashebrew"><big>אִיִּ֥ים </big></span><small><small><sup>[[H0339]]</sup></small></small> &#8207;| 'i.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will wait  | <span class="ashebrew"><big>יְיַחֵֽילוּ </big></span><small><small><sup>[[H3176H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ye.ya.Chei.lu <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will grow dim  |**<big>&#8207;[[H3543A\|יִכְהֶה֙]]&#8207; </big>**| yikh.Heh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be crushed  |**<big>&#8207;[[H7533\|יָר֔וּץ]]&#8207; </big>**| ya.Rutz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will establish  |**<big>&#8207;[[H7760A\|יָשִׂ֥ים]]&#8207; </big>**| ya.Sim<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the earth  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for instruction his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8451\|תוֹרָת֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> to.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| islands  |**<big>&#8207;[[H0339\|אִיִּ֥ים]]&#8207; </big>**| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will wait  |**<big>&#8207;[[H3176H\|יְיַחֵֽילוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ya.Chei.lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.3|<< Isaiah 42:3]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.5|Isaiah 42:5 >>]]</td></tr></table>
 
 

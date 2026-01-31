@@ -17,11 +17,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.8.33|33]]**<span class="
 
 [^3]: [[Num.26|Num 26:38]], Ahiram
 
-[^4]: The variation in this name is occasioned simply by the transposition of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth*** and <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***; being in the parallel passage ***ΰ<span class='asgreek'>ψγ</span>*** (<span class="ashebrew">‎אַרְדְּ‎</span><sup><small>[[H0714]]</small></sup>), ***Ard***, and here ***ΰ<span class='asgreek'>γψ</span>*** (<span class="ashebrew">‎אַדָּר‎</span><sup><small>[[H0146]]</small></sup>), ***Addar***. [[Gen.46|Gen 46:21]]; [[Num.26|Num 26:40]], Ard
+[^4]: The variation in this name is occasioned simply by the transposition of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth*** and <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***; being in the parallel passage ***ΰ<span class='asgreek'>ψγ</span>*** ( [[H0714|‎אַרְדְּ‎]] ), ***Ard***, and here ***ΰ<span class='asgreek'>γψ</span>*** ( [[H0146|‎אַדָּר‎]] ), ***Addar***. [[Gen.46|Gen 46:21]]; [[Num.26|Num 26:40]], Ard
 
 [^5]: [[Judg.3|Judg 3:15]]
 
-[^6]: <span class="asgreek"><span class='asgreek'>ωΡτν</span></span> (<span class="ashebrew">‎שֻׁפִּים‎</span><sup><small>[[H8206]]</small></sup>), ***Shuppim***, seems to be merely a contracted form of <span class="asgreek"><span class='asgreek'>ωΡτετν</span></span> (<span class="ashebrew">‎שְׁפוּפָם‎</span><sup><small>[[H8197]]</small></sup>), ***Shupham***, or rather, ***Shephupham***, which, by the mutation of <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***, into <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***, is here changed into <span class="asgreek"><span class='asgreek'>ωΡτετο</span></span> (<span class="ashebrew">‎שְׁפוּפָם‎</span><sup><small>[[H8197]]</small></sup>), ***Shephuphan***. [[1Chr.7|1Chr 7:12]], Shuppim, [[Num.26|Num 26:39]], Shupham
+[^6]: <span class="asgreek"><span class='asgreek'>ωΡτν</span></span> ( [[H8206|‎שֻׁפִּים‎]] ), ***Shuppim***, seems to be merely a contracted form of <span class="asgreek"><span class='asgreek'>ωΡτετν</span></span> ( [[H8197|‎שְׁפוּפָם‎]] ), ***Shupham***, or rather, ***Shephupham***, which, by the mutation of <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***, into <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***, is here changed into <span class="asgreek"><span class='asgreek'>ωΡτετο</span></span> ( [[H8197|‎שְׁפוּפָם‎]] ), ***Shephuphan***. [[1Chr.7|1Chr 7:12]], Shuppim, [[Num.26|Num 26:39]], Shupham
 
 [^7]: Huram appears to be an error for Hupham in the parallel passage of Numbers, which, by contraction, is written Huppim.
 
@@ -37,11 +37,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.8.33|33]]**<span class="
 
 [^13]: In the preceding verse it is said that "Hushim and Baara were his wives;" and here it said, "he begat of Hodesh his wife," etc; and then in the [[1Chr.8|1Chr 8:11]], his children by Hushim are mentioned, but not a word of Baara. It is probable, therefore, that Hodesh was another name for Baara; and this is asserted by the Targumist: "And he begat of Baara, that is, of Chodesh, his wife, so called because he espoused her anew."
 
-[^14]: i.e. counselor; he will take counsel, (<span class="ashebrew">‎יְעוּץ‎</span><sup><small>[[H3263]]</small></sup>).
+[^14]: i.e. counselor; he will take counsel, ( [[H3263|‎יְעוּץ‎]] ).
 
-[^15]: i.e. captivation; captive of the Lord; the return of Jah, (<span class="ashebrew">‎שׇׁבְיָה‎</span><sup><small>[[H7634]]</small></sup>)
+[^15]: i.e. captivation; captive of the Lord; the return of Jah, ( [[H7634|‎שׇׁבְיָה‎]] )
 
-[^16]: i.e. deceit, guile, fraud, (<span class="ashebrew">‎מִרְמָה‎</span><sup><small>[[H4821]]</small></sup>). [[1Chr.8|1Chr 8:10]]
+[^16]: i.e. deceit, guile, fraud, ( [[H4821|‎מִרְמָה‎]] ). [[1Chr.8|1Chr 8:10]]
 
 [^17]: Ono is stated by Reland to have been three miles from Lydda. [[Ezra.2|Ezra 2:33]]; [[Neh.6|Neh 6:2]], [[Neh.7|Neh 7:37]], [[Neh.11|Neh 11:35]]
 

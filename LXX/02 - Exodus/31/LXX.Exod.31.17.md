@@ -7,37 +7,37 @@ It [is] a sign between me and the children of Israel for ever: for [in] six days
 It is a sign between Me and the Israelites forever; for in six days the LORD made the heavens and the earth, but on the seventh day He rested and was refreshed.’”<small><sub>**MT:**</sub></small>
 [[Exod.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.16|<< Exodus 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.18|Exodus 31:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| covenant | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \[It is\] an eternal | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| sign | <big><span class="asgreek">σημείόν</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| he ceased | <big><span class="asgreek">επαύσατο</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rested. | <big><span class="asgreek">κατέπαυσε</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
+| covenant | **<big>[[G1242\|διαθήκη]]</big>** |
+| \[It is\] an eternal | **<big>[[G0166\|αιώνιος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| sign | **<big>[[G4592\|σημείόν]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| he ceased | **<big>[[G3973\|επαύσατο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rested. | **<big>[[G2664\|κατέπαυσε]]</big>** |
 [[Exod.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.16|<< Exodus 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.18|Exodus 31:18 >>]]</td></tr></table>
 
 

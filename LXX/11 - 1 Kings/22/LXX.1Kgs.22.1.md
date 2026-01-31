@@ -10,20 +10,20 @@ And they continued three years without war between Syria and Israel.
 Then three years passed without war between Aram and Israel.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.29|<< 1 Kings 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.2|1 Kings 22:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stayed in place | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stayed in place | **<big>[[G2523\|εκάθισε]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| war | **<big>[[G4171\|πόλεμος]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Kgs.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.29|<< 1 Kings 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.2|1 Kings 22:2 >>]]</td></tr></table>
 
 

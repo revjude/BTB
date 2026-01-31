@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ὑπέρ‎</span></big> **hypér** <small>*(hoop-er')*</small> ==**above/for**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
+**<big><span class="asgreek">‎ὑπέρ‎</span></big>** **hypér** <small>*(hoop-er')*</small> ==**above/for**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
 <small>a primary preposition</small>
 
 $\quad$ (+ exceeding, abundantly) above, in (on) behalf of, beyond, by, + very chiefest, concerning, exceeding (above, -ly), for, + very highly, more (than), of, over, on the part of, for sake of, in stead, than, to(-ward), very.

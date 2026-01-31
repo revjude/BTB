@@ -7,41 +7,41 @@ And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mo
 Jehoiachin king of Judah, his mother, his servants, his commanders, and his officials all surrendered to the king of Babylon. So in the eighth year of his reign, the king of Babylon took him captive.<small><sub>**MT:**</sub></small>
 [[2Kgs.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.11|<< 2 Kings 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.13|2 Kings 24:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| Jehoiachin | <big><span class="asgreek">Ιωαχίν</span></big> <sup><small><small>[[H3112]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rulers, | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eunuchs. | <big><span class="asgreek">ευνούχοι</span></big> <sup><small><small>[[G2135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eighth | <big><span class="asgreek">ογδόω</span></big> <sup><small><small>[[G3590]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his kingdom. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| Jehoiachin | **<big>[[H3112\|Ιωαχίν]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his mother, | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his servants, | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his rulers, | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his eunuchs. | **<big>[[G2135\|ευνούχοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| eighth | **<big>[[G3590\|ογδόω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his kingdom. | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.11|<< 2 Kings 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.13|2 Kings 24:13 >>]]</td></tr></table>
 
 

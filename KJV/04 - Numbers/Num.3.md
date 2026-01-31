@@ -105,7 +105,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.3.44|44]]**<span class="e
 
 [^29]: [[Num.1|Num 1:53]], [[Num.2|Num 2:17]]
 
-[^30]: i.e. unto, by, because of God, (<span class="ashebrew">‎לָאֵל‎</span><sup><small>[[H3815]]</small></sup>). [[Num.3|Num 3:24]]
+[^30]: i.e. unto, by, because of God, ( [[H3815|‎לָאֵל‎]] ). [[Num.3|Num 3:24]]
 
 [^31]: From this and the next chapter, we see the very severe labour which the Levites were to perform, while the journeyings of the Israelites lasted. When we consider, that there was not less than 14 tons 266 lbs. of metal employed in the tabernacle (see note on [[Exod.38|Exod 38:24]]), besides the immense weight of the skins, hangings, cords, boards, and posts, we shall find it was no easy matter to transport this moveable temple from place to place. The Gershonites, who were 7,500 in number had to carry the tent, coverings, vail, hangings of the court, cords, etc. ([[Num.3|Num 3:25]] and [[Num.3|Num 3:26]]); the Kohathites, who were 8,600, the ark, table, candlestick, altars, and instruments of the sanctuary ([[Num.3|Num 3:31]]); and the Merarites, who were 6,200, the boards, bars, sockets, and all matters connected with these belonging to the tabernacle, with the pillars of the court, their sockets, pins, and cords ([[Num.3|Num 3:36]] and [[Num.3|Num 3:37]]). [[Num.3|Num 3:7]], [[Num.4|Num 4:24-28]], [[Num.7|Num 7:7]], [[Num.10|Num 10:17]]; [[1Chr.9|1Chr 9:14-33]], [[1Chr.23|1Chr 23:32]], [[1Chr.26|1Chr 26:21-22]]; [[2Chr.31|2Chr 31:2]], [[2Chr.31|2Chr 31:11-18]]; [[Ezra.8|Ezra 8:28-30]]; [[Mark.13|Mark 13:34]]; [[Rom.12|Rom 12:6-8]]; [[Col.4|Col 4:17]]; [[1Tim.1|1Tim 1:18]]
 

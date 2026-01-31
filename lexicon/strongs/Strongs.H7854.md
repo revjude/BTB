@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂטָן‎</span></big> **sâṭân** <small>*(saw-tawn')*</small> ==**Satan**==  <sup><small>[[TEHMC#H:N-M / N:N--T|H:N-M / N:N--T]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂטַן‎</span><sup><small>[[H7853]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׂטָן‎</span></big>** **sâṭân** <small>*(saw-tawn')*</small> ==**Satan**==  <sup><small>[[TEHMC#H:N-M / N:N--T|H:N-M / N:N--T]]</small></sup> 
+<small>from **<big>[[H7853|‎שָׂטַן‎]]</big>**</small>
 
 $\quad$ adversary, Satan, withstand.
 - ***an opponent***
@@ -10,4 +10,4 @@ $\quad$ **1a)** adversary (in general-personal or national)
 **2)** superhuman adversary
 $\quad$ **2a)** Satan (as noun pr)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διάβολος</span><sup><small>[[G1228]]</small></sup> · <span class="asgreek">Σατᾶν</span><sup><small>[[G4566]]</small></sup> · <span class="asgreek">Σατανᾶς</span><sup><small>[[G4567]]</small></sup>
+<small>See Greek: </small>**<big>[[G1228|διάβολος]]</big>** · **<big>[[G4566|Σατᾶν]]</big>** · **<big>[[G4567|Σατανᾶς]]</big>**

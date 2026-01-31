@@ -7,31 +7,31 @@ These [be] the sons of Leah, which she bare unto Jacob in Padanaram, with his da
 These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daughter Dinah. The total number of sons and daughters was thirty-three.<small><sub>**MT:**</sub></small>
 [[Gen.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.14|<< Genesis 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.16|Genesis 46:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These \[are the\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Leah, | <big><span class="asgreek">Λείας</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she bore | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Mesopotamia | <big><span class="asgreek">Μεσοποταμία</span></big> <sup><small><small>[[G3318]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Syria, | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dinah | <big><span class="asgreek">Δίναν</span></big> <sup><small><small>[[H1783]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter. | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| souls, | <big><span class="asgreek">ψυχαί</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| three. | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| These \[are the\] | **<big>[[G3778\|ούτοι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Leah, | **<big>[[H3812\|Λείας]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| she bore | **<big>[[G1080\|εγέννησε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Mesopotamia | **<big>[[G3318\|Μεσοποταμία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Syria, | **<big>[[G4947\|Συρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dinah | **<big>[[H1783\|Δίναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his daughter. | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| All | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| souls, | **<big>[[G5590\|ψυχαί]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατέρες]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| three. | **<big>[[G5140\|τρεις]]</big>** |
 [[Gen.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.14|<< Genesis 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.16|Genesis 46:16 >>]]</td></tr></table>
 
 

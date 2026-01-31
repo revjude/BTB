@@ -7,41 +7,41 @@ And Hezekiah had exceeding much riches and honour: and he made himself treasurie
 Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles.<small><sub>**MT:**</sub></small>
 [[2Chr.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.26|<< 2 Chronicles 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.28|2 Chronicles 32:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκία</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glory -- | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| treasuries | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of valuable | <big><span class="asgreek">τιμίου</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| aromatics; | <big><span class="asgreek">αρώματα</span></big> <sup><small><small>[[G0759]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| armories | <big><span class="asgreek">οπλοθήκας</span></big> <sup><small><small>[[G8537]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύεσι</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desirable \[things\] | <big><span class="asgreek">επιθυμίας</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| storehouses | <big><span class="asgreek">αποθήκας</span></big> <sup><small><small>[[G0596]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came | **<big>[[G1096\|εγένετο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκία]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glory -- | **<big>[[G1391\|δόξα]]</big>** |
+| much | **<big>[[G4183\|πολλή]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| treasuries | **<big>[[G2344\|θησαυρούς]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| himself | **<big>[[G1473\|αυτώ]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone | **<big>[[G3037\|λίθου]]</big>** |
+| of valuable | **<big>[[G5093\|τιμίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| aromatics; | **<big>[[G0759\|αρώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| armories | **<big>[[G8537\|οπλοθήκας]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| items | **<big>[[G4632\|σκεύεσι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| desirable \[things\] | **<big>[[G1939\|επιθυμίας]]</big>** |
+| storehouses | **<big>[[G0596\|αποθήκας]]</big>** |
 [[2Chr.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.26|<< 2 Chronicles 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.28|2 Chronicles 32:28 >>]]</td></tr></table>
 
 

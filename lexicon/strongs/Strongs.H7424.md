@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רַמָּךְ‎</span></big> **rammâk** <small>*(ram-mawk')*</small> ==**mare**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎רַמָּךְ‎</span></big>** **rammâk** <small>*(ram-mawk')*</small> ==**mare**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ dromedary.

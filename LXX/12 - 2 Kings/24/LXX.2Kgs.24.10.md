@@ -10,23 +10,23 @@ At that time the servants of Nebuchadnezzar king of Babylon came up against Jeru
 At that time the servants of Nebuchadnezzar king of Babylon marched up to Jerusalem, and the city came under siege.<small><sub>**MT:**</sub></small>
 [[2Kgs.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.9|<< 2 Kings 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.11|2 Kings 24:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \[to be\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| encompassed about. | <big><span class="asgreek">περιοχή</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| \[to be\] | **<big>[[G1722\|εν]]</big>** |
+| encompassed about. | **<big>[[G4042\|περιοχή]]</big>** |
 [[2Kgs.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.9|<< 2 Kings 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.11|2 Kings 24:11 >>]]</td></tr></table>
 
 

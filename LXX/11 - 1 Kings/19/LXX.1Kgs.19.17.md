@@ -7,23 +7,23 @@ And it shall come to pass, [that] him that escapeth the sword of Hazael shall Je
 Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu.<small><sub>**MT:**</sub></small>
 [[1Kgs.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.16|<< 1 Kings 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.18|1 Kings 19:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being delivered | <big><span class="asgreek">σωζόμενον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| of Hazael, | <big><span class="asgreek">Αζαήλ</span></big> <sup><small><small>[[H2371]]</small></small></sup> |
-| Jehu shall put to death. | <big><span class="asgreek">θανατώσει</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being delivered | <big><span class="asgreek">σωζόμενον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| of Jehu, | <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| Elisha shall put to death. | <big><span class="asgreek">θανατώσει</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one being delivered | **<big>[[G4982\|σωζόμενον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαίας]]</big>** |
+| of Hazael, | **<big>[[H2371\|Αζαήλ]]</big>** |
+| Jehu shall put to death. | **<big>[[G2289\|θανατώσει]]</big>** **<big>[[H3058\|Ιού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one being delivered | **<big>[[G4982\|σωζόμενον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαίας]]</big>** |
+| of Jehu, | **<big>[[H3058\|Ιού]]</big>** |
+| Elisha shall put to death. | **<big>[[G2289\|θανατώσει]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
 [[1Kgs.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.16|<< 1 Kings 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.18|1 Kings 19:18 >>]]</td></tr></table>
 
 

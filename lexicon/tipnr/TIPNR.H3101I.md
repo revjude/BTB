@@ -4,10 +4,10 @@ King living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Joash</span> \(Jehoash\), son of Ahaziah, became king of Judah at age seven and reigned for forty years \([[2Kgs.11.2|2Ki.11.2]],21; 12.1; [[2Chr.22.11|2Ch.22.11]]; 24.1\).
 - A king of Judah living at the time of Divided Monarchy, first mentioned at [[2Kgs.11.2|2Ki.11.2]]; 
-- referred to as Joash<[[H3101I]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\), or Jehoash \(NIV= Joash\) <[[H3060G]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
-- a son of Ahaziah<[[H0274H]]> and Zibiah<[[H6645]]>; 
-- husband of Jehoaddan<[[H3086]]>; 
--  father of Amaziah<[[H0558G]]>.
+- referred to as Joash **<big>[[H3101|יוֹאָשׁ]]</big>**, or Jehoash \(NIV= Joash\)  **<big>[[H3060|יְהוֹאָשׁ]]</big>**; 
+- a son of Ahaziah **<big>[[H0274|אֲחַזְיָה]]</big>** and Zibiah **<big>[[H6645|צִבְיָּה]]</big>**; 
+- husband of Jehoaddan **<big>[[H3086|יְהוֹעַדִּין]]</big>**; 
+-  father of Amaziah **<big>[[H0558|אֲמַצְיָה]]</big>**.
 
 Joash, also known as Jehoash, was the king of Judah and the son of Ahaziah. He became king at the age of seven, after being hidden by his aunt Jehosheba for six years following the usurpation of the throne by Athaliah \([[2Kgs.11.2|2Ki.11.2]]; [[2Chr.22.11|2Ch.22.11]]\). During his forty-year reign \([[2Kgs.12.1|2Ki.12.1]]; [[2Chr.24.1|2Ch.24.1]]\), Joash initiated repairs to the temple of the Lord, which had fallen into disrepair \([[2Kgs.12.4|2Ki.12.4]]-7; [[2Chr.24.4|2Ch.24.4]]\). 
 
@@ -17,9 +17,9 @@ Consequently, Judah faced military defeats and Joash was wounded \([[2Chr.24.2|2
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3101I) <small>*Hebrew*</small> | 18x | [[2Ki.11.2] ... [2Ch.25.25a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=2Ki.11.2;2Ki.12.19;2Ki.12.20;2Ki.13.1;2Ki.13.10;2Ki.14.1;2Ki.14.3;2Ki.14.17;2Ki.14.23;1Ch.3.11;2Ch.22.11;2Ch.24.1;2Ch.24.2;2Ch.24.4;2Ch.24.22;2Ch.24.24;2Ch.25.23;2Ch.25.25) |
-| Jehoash (NIV= Joash) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3060G) <small>*Hebrew*</small> | 8x | [[2Ki.11.21] ... [2Ki.14.13b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehoash\*\|reference=2Ki.11.21;2Ki.12.1;2Ki.12.2;2Ki.12.4;2Ki.12.6;2Ki.12.7;2Ki.12.18;2Ki.14.13) |
-All Strong's for **Joash or Jehoash**: \[[[H3101I]]\] \[[[H3060G]]\]
+| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3101I) | 18x | [[2Ki.11.2] ... [2Ch.25.25a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=2Ki.11.2;2Ki.12.19;2Ki.12.20;2Ki.13.1;2Ki.13.10;2Ki.14.1;2Ki.14.3;2Ki.14.17;2Ki.14.23;1Ch.3.11;2Ch.22.11;2Ch.24.1;2Ch.24.2;2Ch.24.4;2Ch.24.22;2Ch.24.24;2Ch.25.23;2Ch.25.25) |
+| Jehoash (NIV= Joash) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3060G) | 8x | [[2Ki.11.21] ... [2Ki.14.13b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehoash\*\|reference=2Ki.11.21;2Ki.12.1;2Ki.12.2;2Ki.12.4;2Ki.12.6;2Ki.12.7;2Ki.12.18;2Ki.14.13) |
+All entries for **Joash or Jehoash**:  **<big>[[H3101|יוֹאָשׁ]]</big>** ☩  **<big>[[H3060|יְהוֹאָשׁ]]</big>**
 #### Related Profiles:
 - **[Ahaziah](H0274H)** (father)
 - **[Zibiah](H6645)** (mother)

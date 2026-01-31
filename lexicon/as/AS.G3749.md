@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὀστράκινος</span></span> <span class="asgreek">-η, -ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὄστρακον</span>, <span class="asitalic">an earthen vessel</span> or <span class="asitalic">potsherd</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">חֶרֶשׂ</span> <small><sup>[[H2789]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὀστράκινος</span></span> <span class="asgreek">-η, -ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὄστρακον</span>, <span class="asitalic">an earthen vessel</span> or <span class="asitalic">potsherd</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H2789|חֶרֶשׂ]]</big>**;\]</span> </span>
 <span class="asitalic">made of clay</span>, <span class="asitalic">earthen</span>: [[2Cor.4.7|II Co 4:7]], [[2Tim.2.20|II Ti 2:20]].†
 
 **Abbott-Smith References**

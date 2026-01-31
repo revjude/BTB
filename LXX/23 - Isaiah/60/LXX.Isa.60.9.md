@@ -7,42 +7,42 @@ Surely the isles shall wait for me, and the ships of Tarshish first, to bring th
 Surely the islands will wait for Me, with the ships of Tarshish in the lead, to bring your children from afar, with their silver and gold, to the honor of the LORD your God, the Holy One of Israel, for He has glorified you.<small><sub>**MT:**</sub></small>
 [[Isa.60.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.8|<< Isaiah 60:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.10|Isaiah 60:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Islands | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| waited | <big><span class="asgreek">υπέμειναν</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| boats | <big><span class="asgreek">πλοία</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| of Tarshish | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| \[are\] among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| to lead | <big><span class="asgreek">αγαγείν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from far off, | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">άργυρον</span></big> <sup><small><small>[[G0696]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσόν</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to be glorious. | <big><span class="asgreek">ένδοξον</span></big> <sup><small><small>[[G1741]]</small></small></sup> <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for me | **<big>[[G1473\|εμέ]]</big>** |
+| Islands | **<big>[[G3520\|νήσοι]]</big>** |
+| waited | **<big>[[G5278\|υπέμειναν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| boats | **<big>[[G4143\|πλοία]]</big>** |
+| of Tarshish | **<big>[[H0948\|Θαρσείς]]</big>** |
+| \[are\] among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτοις]]</big>** |
+| to lead | **<big>[[G0071\|αγαγείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from far off, | **<big>[[G3113\|μακρόθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| silver | **<big>[[G0696\|άργυρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| gold | **<big>[[G5557\|χρυσόν]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \[is\] with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| holy one | **<big>[[G0039\|άγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to be glorious. | **<big>[[G1741\|ένδοξον]]</big>** **<big>[[G1510\|είναι]]</big>** |
 [[Isa.60.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.8|<< Isaiah 60:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.10|Isaiah 60:10 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ Observe and hear all these words which I command thee, that it may go well with 
 Be careful to obey all these things I command you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the LORD your God.<small><sub>**MT:**</sub></small>
 [[Deut.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Guard | <big><span class="asgreek">φυλάσσου</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearken! | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge | <big><span class="asgreek">εντέλλομαί</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| should happen to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] eon, | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pleasing | <big><span class="asgreek">αρεστόν</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[thing\] | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Guard | **<big>[[G5442\|φυλάσσου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hearken! | **<big>[[G0191\|άκουε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge | **<big>[[G1781\|εντέλλομαί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| should happen to you, | **<big>[[G1473\|σοι]]</big>** **<big>[[G1096\|γένηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| your sons | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] eon, | **<big>[[G0165\|αιώνος]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should do | **<big>[[G4160\|ποιήσης]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| pleasing | **<big>[[G0701\|αρεστόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| good \[thing\] | **<big>[[G2570\|καλόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
 

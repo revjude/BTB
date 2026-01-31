@@ -7,30 +7,30 @@ And their border went up toward the sea, and Maralah, and reached to Dabbasheth,
 It went up westward to Maralah, reached Dabbesheth, and met the brook east of Jokneam.<small><sub>**MT:**</sub></small>
 [[Josh.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.10|<< Joshua 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.12|Joshua 19:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascend | <big><span class="asgreek">προσαναβαίνει</span></big> <sup><small><small>[[G4320]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] west, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Maralah, | <big><span class="asgreek">Μαραλά</span></big> <sup><small><small>[[H4831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it joins together | <big><span class="asgreek">συνάψει</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Dabbasheth, | <big><span class="asgreek">Δαβασθέ</span></big> <sup><small><small>[[H1708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| meets | <big><span class="asgreek">απαντήσει</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Jokneam. | <big><span class="asgreek">Ιεκνάμ</span></big> <sup><small><small>[[H3362]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascend | **<big>[[G4320\|προσαναβαίνει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their borders | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] west, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Maralah, | **<big>[[H4831\|Μαραλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it joins together | **<big>[[G9297\|συνάψει]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| Dabbasheth, | **<big>[[H1708\|Δαβασθέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| meets | **<big>[[G0528\|απαντήσει]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| at | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of Jokneam. | **<big>[[H3362\|Ιεκνάμ]]</big>** |
 [[Josh.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.10|<< Joshua 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.12|Joshua 19:12 >>]]</td></tr></table>
 
 

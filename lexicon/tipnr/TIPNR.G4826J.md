@@ -4,12 +4,12 @@ Jacob's son living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Simeon</span>, the second son of Jacob and Leah, was the founder of the tribe of Simeon and played a role in the story of Joseph.
 - Jacob's son who founded the tribe of Simeon  living at the time of the Patriarchs, first mentioned at [[Gen.29.33|Gen.29.33]]; 
-- referred to as Simeon or Simeonite<[[H8095G]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Simeon or Simeonite<[[H8099]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Simeon<[[G4826J]]> \(<span class='tipnrLangGreek'>Συμεών</span>\); 
--  son of Israel<[[H3478]]> and Leah<[[H3812]]>; 
-- a brother of Reuben<[[H7205]]>, Levi<[[H3878]]>, Judah<[[H3063G]]>, Issachar<[[H3485G]]>, Zebulun<[[H2074]]> and Dinah<[[H1783]]>; 
--  half-brother of: Dan<[[H1835H]]>, Naphtali<[[H5321G]]>, Gad<[[H1410G]]>, Asher<[[H0836]]>, Joseph<[[H3130G]]> and Benjamin<[[H1144G]]>; 
-- husband of Canaanite\_woman<[[H3669G]]>; 
--  father of Jemuel<[[H3223]]>, Jamin<[[H3226G]]>, Ohad<[[H0161]]>, Jachin<[[H3199G]]>, Zerah<[[H2226L]]> and Shaul<[[H7586H]]>.
+- referred to as Simeon or Simeonite **<big>[[H8095|שִׁמְעוֹן]]</big>**, or Simeon or Simeonite **<big>[[H8099|שִׁמְעֹנִי]]</big>**, or Simeon **<big>[[G4826|Συμεών]]</big>**; 
+-  son of Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>** and Leah **<big>[[H3812|לֵאָה]]</big>**; 
+- a brother of Reuben **<big>[[H7205|רְאוּבֵן]]</big>**, Levi **<big>[[H3878|לֵוִי]]</big>**, Judah **<big>[[H3063|יְהוּדָה]]</big>**, Issachar **<big>[[H3485|יִשָּׂשכָר]]</big>**, Zebulun **<big>[[H2074|זְבוּלוּן]]</big>** and Dinah **<big>[[H1783|דִּינָה]]</big>**; 
+-  half-brother of: Dan **<big>[[H1835|דָּן]]</big>**, Naphtali **<big>[[H5321|נַפְתָּלִי]]</big>**, Gad **<big>[[H1410|גָּד]]</big>**, Asher **<big>[[H0836|אָשֵׁר]]</big>**, Joseph **<big>[[H3130|יוֹסֵף]]</big>** and Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+- husband of Canaanite\_woman **<big>[[H3669|כְּנַעַנִי]]</big>**; 
+-  father of Jemuel **<big>[[H3223|יְמוּאֵל]]</big>**, Jamin **<big>[[H3226|יָמִין]]</big>**, Ohad **<big>[[H0161|אֹהַד]]</big>**, Jachin **<big>[[H3199|יָכִין]]</big>**, Zerah **<big>[[H2226|זֶרַח]]</big>** and Shaul **<big>[[H7586|שָׁאוּל]]</big>**.
 
 Simeon was the second son of Israel \(or 'Jacob'\) and Leah, born after Reuben \([[Gen.29.33|Genesis 29:33]]\). He was one of the twelve sons of Jacob who became the founders of the twelve tribes of Israel. Simeon, along with his brother Levi, took violent revenge against the Shechemites for the rape of their sister Dinah \([[Gen.34.25|Genesis 34:25]]-30\). This action was condemned by their father, Jacob \([[Gen.49.5|Genesis 49:5]]-7\). 
 
@@ -21,12 +21,12 @@ In later history, some from the tribe of Simeon migrated to Edom during the reig
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) <small>*Hebrew*</small> | 41x | [[Gen.29.33] ... [Ezk.48.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Gen.29.33;Gen.34.25;Gen.34.30;Gen.35.23;Gen.42.24;Gen.42.36;Gen.43.23;Gen.46.10;Gen.48.5;Gen.49.5;Exo.1.2;Exo.6.15;Exo.6.15;Num.1.6;Num.1.22;Num.1.23;Num.2.12;Num.2.12;Num.7.36;Num.10.19;Num.13.5;Num.26.12;Num.34.20;Deu.27.12;Jos.19.1;Jos.19.1;Jos.19.8;Jos.19.9;Jos.19.9;Jos.21.9;Jdg.1.3;Jdg.1.3;Jdg.1.17;1Ch.2.1;1Ch.4.24;1Ch.6.65;2Ch.15.9;2Ch.34.6;Ezk.48.24;Ezk.48.25) |
-| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) <small>*Hebrew*</small> | 2x | [[1Ch.4.42] & [1Ch.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=1Ch.4.42;1Ch.12.25) |
-| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) <small>*Hebrew*</small> | 1x | [Jos.21.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Jos.21.4) |
-| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) <small>*Hebrew*</small> | 3x | [[Num.25.14] ... [1Ch.27.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=Num.25.14;Num.26.14;1Ch.27.16) |
-| Simeon | [<span class='tipnrLangGreek'>Συμεών</span>](G4826J) <small>*Greek*</small> | 1x | [Rev.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Rev.7.7) |
-All Strong's for **Simeon**: \[[[H8095G]]\] \[[[H8099]]\] \[[[G4826J]]\]
+| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) | 41x | [[Gen.29.33] ... [Ezk.48.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Gen.29.33;Gen.34.25;Gen.34.30;Gen.35.23;Gen.42.24;Gen.42.36;Gen.43.23;Gen.46.10;Gen.48.5;Gen.49.5;Exo.1.2;Exo.6.15;Exo.6.15;Num.1.6;Num.1.22;Num.1.23;Num.2.12;Num.2.12;Num.7.36;Num.10.19;Num.13.5;Num.26.12;Num.34.20;Deu.27.12;Jos.19.1;Jos.19.1;Jos.19.8;Jos.19.9;Jos.19.9;Jos.21.9;Jdg.1.3;Jdg.1.3;Jdg.1.17;1Ch.2.1;1Ch.4.24;1Ch.6.65;2Ch.15.9;2Ch.34.6;Ezk.48.24;Ezk.48.25) |
+| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) | 2x | [[1Ch.4.42] & [1Ch.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=1Ch.4.42;1Ch.12.25) |
+| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) | 1x | [Jos.21.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Jos.21.4) |
+| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) | 3x | [[Num.25.14] ... [1Ch.27.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=Num.25.14;Num.26.14;1Ch.27.16) |
+| Simeon | [<span class='tipnrLangGreek'>Συμεών</span>](G4826J) | 1x | [Rev.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Rev.7.7) |
+All entries for **Simeon**:  **<big>[[H8095|שִׁמְעוֹן]]</big>** ☩  **<big>[[H8099|שִׁמְעֹנִי]]</big>** ☩  **<big>[[G4826|Συμεών]]</big>**
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Leah](H3812)** (mother)

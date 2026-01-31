@@ -7,27 +7,27 @@ Be thou instructed, O Jerusalem, lest my soul depart from thee; lest I make thee
 Be forewarned, O Jerusalem, or I will turn away from you; I will make you a desolation, a land without inhabitant.”<small><sub>**MT:**</sub></small>
 [[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In misery | <big><span class="asgreek">πόνω</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] a whip | <big><span class="asgreek">μάστιγι</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
-| you shall be corrected, | <big><span class="asgreek">παιδευθήση</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| O Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| should depart | <big><span class="asgreek">αποστή</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| I should make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an untrodden | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be settled in. | <big><span class="asgreek">κατοικισθήσεται</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
+| In misery | **<big>[[G4192\|πόνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[with\] a whip | **<big>[[G3148\|μάστιγι]]</big>** |
+| you shall be corrected, | **<big>[[G3811\|παιδευθήση]]</big>** |
+| O Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| should depart | **<big>[[G0868\|αποστή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| I should make | **<big>[[G4160\|ποιήσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| an untrodden | **<big>[[G6101\|άβατον]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be settled in. | **<big>[[G6052\|κατοικισθήσεται]]</big>** |
 [[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ephes-dammim</span> \(or Pas-dammim\), the place where the Philistines and Israelites faced each other in battle, and where Goliath challenged the Israelites.
 - A location first mentioned at [[1Sam.17.1|1Sa.17.1]]; 
-- referred to as Ephes-dammim<[[H0658]]> \(<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>\), or Pas-dammim \(NIV= Pas Dammim\) <[[H6450]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Ephes-dammim **<big>[[H0658|אֶפֶס דַּמִּים]]</big>**, or Pas-dammim \(NIV= Pas Dammim\)  **<big>[[H6450|פַּס דַּמִּים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.691186,34.944496&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The alternate name Pas-dammim, used in [[1Chr.11.13|1 Chronicles 11:13]], may be
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ephes-dammim (NIV= Ephes Dammim) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H0658) <small>*Hebrew*</small> | 1x | [1Sa.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephes\*\|reference=1Sa.17.1) |
-| Pas-dammim (NIV= Pas Dammim) | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H6450) <small>*Hebrew*</small> | 1x | [1Ch.11.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pas\*\|reference=1Ch.11.13) |
-All Strong's for **Ephes-dammim or Pas-dammim**: \[[[H0658]]\] \[[[H6450]]\]
+| Ephes-dammim (NIV= Ephes Dammim) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H0658) | 1x | [1Sa.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephes\*\|reference=1Sa.17.1) |
+| Pas-dammim (NIV= Pas Dammim) | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H6450) | 1x | [1Ch.11.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pas\*\|reference=1Ch.11.13) |
+All entries for **Ephes-dammim or Pas-dammim**:  **<big>[[H0658|אֶפֶס דַּמִּים]]</big>** ☩  **<big>[[H6450|פַּס דַּמִּים]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְרָיוֹת‎</span></big> **Mᵉrâyôwth** <small>*(mer-aw-yohth')*</small> ==**Meraioth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural of <span class="ashebrew">‎מְרָיָה‎</span><sup><small>[[H4811]]</small></sup>; rebellious</small>
+**<big><span class="ashebrew">‎מְרָיוֹת‎</span></big>** **Mᵉrâyôwth** <small>*(mer-aw-yohth')*</small> ==**Meraioth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural of **<big>[[H4811|‎מְרָיָה‎]]</big>**; rebellious</small>
 
 $\quad$ Meraioth.
 - § Meraioth = *"rebellious"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁפָט‎</span></big> **Shâphâṭ** <small>*(shaw-fawt')*</small> ==**Shaphat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַט‎</span><sup><small>[[H8199]]</small></sup>; judge</small>
+**<big><span class="ashebrew">‎שָׁפָט‎</span></big>** **Shâphâṭ** <small>*(shaw-fawt')*</small> ==**Shaphat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8199|‎שָׁפַט‎]]</big>**; judge</small>
 
 $\quad$ Shaphat.
 - § Shaphat = *"judged" or "he hath judged"*

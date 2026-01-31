@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוֹד‎</span></big> **ʻôwd** <small>*(ode)*</small> ==**still**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">עֹד</span> **ʻôd** <small>*(ode)*</small>; from <span class="ashebrew">‎עוּד‎</span><sup><small>[[H5749]]</small></sup></small>
+**<big><span class="ashebrew">‎עוֹד‎</span></big>** **ʻôwd** <small>*(ode)*</small> ==**still**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֹד</span></big>** **ʻôd** <small>*(ode)*</small>; from **<big>[[H5749|‎עוּד‎]]</big>**</small>
 
 $\quad$ again, [idiom] all life long, at all, besides, but, else, further(-more), henceforth, (any) longer, (any) more(-over), [idiom] once, since, (be) still, when, (good, the) while (having being), (as, because, whether, while) yet (within).
 - properly, ***iteration*** or ***continuance***
@@ -14,4 +14,4 @@ $\quad$ **2b)** still, yet, more (of addition or repetition)
 $\quad$ **2c)** again
 $\quad$ **2d)** still, moreover, besides
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">ἄλλος</span><sup><small>[[G0243]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup> · <span class="asgreek">νεότης</span><sup><small>[[G3503]]</small></sup> · <span class="asgreek">οὐκέτι</span><sup><small>[[G3765]]</small></sup> · <span class="asgreek">πάλιν</span><sup><small>[[G3825]]</small></sup>
+<small>See Greek: </small>**<big>[[G0165|αἰών]]</big>** · **<big>[[G0243|ἄλλος]]</big>** · **<big>[[G2087|ἕτερος]]</big>** · **<big>[[G3503|νεότης]]</big>** · **<big>[[G3765|οὐκέτι]]</big>** · **<big>[[G3825|πάλιν]]</big>**

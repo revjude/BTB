@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּלוּת‎</span></big> **gâlûwth** <small>*(gaw-looth')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine from <span class="ashebrew">‎גָּלָה‎</span><sup><small>[[H1540]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּלוּת‎</span></big>** **gâlûwth** <small>*(gaw-looth')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine from **<big>[[H1540|‎גָּלָה‎]]</big>**</small>
 
 $\quad$ (they that are carried away) captives(-ity).
 - ***captivity***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֵּן‎</span></big> **kên** <small>*(kane)*</small> ==**right**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>from <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup></small>
+**<big><span class="ashebrew">‎כֵּן‎</span></big>** **kên** <small>*(kane)*</small> ==**right**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>from **<big>[[H3559|‎כּוּן‎]]</big>**</small>
 
 $\quad$ [phrase] after that (this, -ward, -wards), as... as, [phrase] (for-) asmuch as yet, [phrase] be (for which) cause, [phrase] following, howbeit, in (the) like (manner, -wise), [idiom] the more, right, (even) so, state, straightway, such (thing), surely, [phrase] there (where) -fore, this, thus, true, well, [idiom] you.
 - properly, ***set upright***

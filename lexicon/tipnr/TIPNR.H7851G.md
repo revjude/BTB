@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shittim</span>, also called Abel-shittim, the final Israelite encampment before entering Canaan.
 - A location first mentioned at [[Num.33.49|Num.33.49]]; 
-- referred to as Shittim<[[H7851G]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>\), or Abel-shittim \(NIV= Abel Shittim\) <[[H0063]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Shittim **<big>[[H7851|שִׁטִּים]]</big>**, or Abel-shittim \(NIV= Abel Shittim\)  **<big>[[H0063|אָבֵל הַשִּׁטִּים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.85826217905818,35.64156652792805&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Shittim, also known as Abel-shittim, was the last campsite of the Israelites bef
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shittim | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7851G) <small>*Hebrew*</small> | 4x | [[Num.25.1] ... [Mic.6.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shittim\*\|reference=Num.25.1;Jos.2.1;Jos.3.1;Mic.6.5) |
-| Abel-shittim (NIV= Abel Shittim) | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H0063) <small>*Hebrew*</small> | 1x | [Num.33.49 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Num.33.49) |
-All Strong's for **Shittim or Abel-shittim**: \[[[H7851G]]\] \[[[H0063]]\]
+| Shittim | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7851G) | 4x | [[Num.25.1] ... [Mic.6.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shittim\*\|reference=Num.25.1;Jos.2.1;Jos.3.1;Mic.6.5) |
+| Abel-shittim (NIV= Abel Shittim) | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H0063) | 1x | [Num.33.49 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Num.33.49) |
+All entries for **Shittim or Abel-shittim**:  **<big>[[H7851|שִׁטִּים]]</big>** ☩  **<big>[[H0063|אָבֵל הַשִּׁטִּים]]</big>**

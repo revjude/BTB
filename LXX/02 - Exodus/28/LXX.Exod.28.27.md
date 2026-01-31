@@ -7,33 +7,33 @@ And two [other] rings of gold thou shalt make, and shalt put them on the two sid
 Make two additional gold rings and attach them to the bottom of the two shoulder pieces of the ephod, on its front, near its seam just above its woven waistband.<small><sub>**MT:**</sub></small>
 [[Exod.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.26|<< Exodus 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.28|Exodus 28:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall place \[them\] | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφοτέρους</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulders | <big><span class="asgreek">ώμους</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| from below | <big><span class="asgreek">κάτωθεν</span></big> <sup><small><small>[[G7985]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] front, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coupling | <big><span class="asgreek">συμβολήν</span></big> <sup><small><small>[[G9257]]</small></small></sup> |
-| from above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woven part | <big><span class="asgreek">συνυφής</span></big> <sup><small><small>[[G9345]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece. | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίους]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall place \[them\] | **<big>[[G2007\|επιθήσεις]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| both | **<big>[[G0297\|αμφοτέρους]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| shoulders | **<big>[[G5606\|ώμους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece | **<big>[[G7490\|επωμίδος]]</big>** |
+| from below | **<big>[[G7985\|κάτωθεν]]</big>** |
+| it, | **<big>[[G1473\|αυτού]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] front, | **<big>[[G4383\|πρόσωπον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| coupling | **<big>[[G9257\|συμβολήν]]</big>** |
+| from above | **<big>[[G0509\|άνωθεν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| woven part | **<big>[[G9345\|συνυφής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece. | **<big>[[G7490\|επωμίδος]]</big>** |
 [[Exod.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.26|<< Exodus 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.28|Exodus 28:28 >>]]</td></tr></table>
 
 

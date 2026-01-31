@@ -6,18 +6,18 @@ There is another evil I have seen under the sun, and it weighs heavily upon mank
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.20|<< Ecclesiastes 5:20]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.2|Ecclesiastes 6:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there  | <span class="ashebrew"><big>יֵ֣שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] an evil  | <span class="ashebrew"><big>רָעָ֔ה </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have seen  | <span class="ashebrew"><big>רָאִ֖יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| under  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sun  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׁ֑מֶשׁ </big></span><small><small><sup>[[H8121]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Sha.mesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] great  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רַבָּ֥ה </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.Bah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֖יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> humankind  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָדָֽם </big></span><small><small><sup>[[H0120G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] an evil  |**<big>&#8207;[[H7451I\|רָעָ֔ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  |**<big>&#8207;[[H7200G\|רָאִ֖יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שָּׁ֑מֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7227A\|רַבָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֖יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.20|<< Ecclesiastes 5:20]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.2|Ecclesiastes 6:2 >>]]</td></tr></table>
 
 

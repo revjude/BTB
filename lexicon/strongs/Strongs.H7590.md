@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁאט‎</span></big> **shâʼṭ** <small>*(shawt)*</small> ==**to despise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>for active part of <span class="ashebrew">‎שׂוּט‎</span><sup><small>[[H7750]]</small></sup> (compare <span class="ashebrew">‎שְׁאָט‎</span><sup><small>[[H7589]]</small></sup>)</small>
+**<big><span class="ashebrew">‎שָׁאט‎</span></big>** **shâʼṭ** <small>*(shawt)*</small> ==**to despise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>for active part of **<big>[[H7750|‎שׂוּט‎]]</big>** (compare **<big>[[H7589|‎שְׁאָט‎]]</big>**)</small>
 
 $\quad$ that (which) despise(-d).
 - ***one contemning***

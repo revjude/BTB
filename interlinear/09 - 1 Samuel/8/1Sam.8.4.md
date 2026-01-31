@@ -6,16 +6,16 @@ So all the elders of Israel gathered together and came to Samuel at Ramah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.3|<< 1 Samuel 8:3]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.5|1 Samuel 8:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they gathered together  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּֽתְקַבְּצ֔וּ </big></span><small><small><sup>[[H6908]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yit.ka.be.Tzu <small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] elders of  | <span class="ashebrew"><big>זִקְנֵ֣י </big></span><small><small><sup>[[H2205G]]</sup></small></small> &#8207;| zik.Nei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֥אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo.'u <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samuel  | <span class="ashebrew"><big>שְׁמוּאֵ֖ל </big></span><small><small><sup>[[H8050G]]</sup></small></small> &#8207;| she.mu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Ramah towards  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רָמָֽתָ </big></span><small><small><sup>[[H7414J]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ra.Ma.ta <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they gathered together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּֽתְקַבְּצ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ka.be.Tzu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵ֣י]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֖ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Ramah towards  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7414J\|רָמָֽתָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Ma.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.3|<< 1 Samuel 8:3]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.5|1 Samuel 8:5 >>]]</td></tr></table>
 
 

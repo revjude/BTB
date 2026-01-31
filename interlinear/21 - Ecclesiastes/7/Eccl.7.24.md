@@ -6,15 +6,15 @@ What exists is out of reach and very deep. Who can fathom it?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.23|<< Ecclesiastes 7:23]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.25|Ecclesiastes 7:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] far away  | <span class="ashebrew"><big>רָח֖וֹק </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| ra.Chok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whatever  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which \<it> has been  | <span class="ashebrew"><big>שֶּׁ </big></span><small><small><sup>[[H9007]]</sup></small></small> <span class="ashebrew"><big>הָיָ֑ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| she. <small><sup>[[HTr]]</sup></small> ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and deep  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָמֹ֥ק </big></span><small><small><sup>[[H6013]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Mok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deep  | <span class="ashebrew"><big>עָמֹ֖ק </big></span><small><small><sup>[[H6013]]</sup></small></small> &#8207;| 'a.Mok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֥י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he find out it  | <span class="ashebrew"><big>יִמְצָאֶֽ </big></span><small><small><sup>[[H4672]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yim.tza.'E. <small><sup>[[HVqi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] far away  |**<big>&#8207;[[H7350\|רָח֖וֹק]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whatever  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which \<it> has been  |**<big>&#8207;[[H9007\|שֶּׁ]]&#8207;&#8207;[[H1961\|הָיָ֑ה]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deep  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6013\|עָמֹ֥ק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Mok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep  |**<big>&#8207;[[H6013\|עָמֹ֖ק]]&#8207; </big>**| 'a.Mok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he find out it  |**<big>&#8207;[[H4672\|יִמְצָאֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yim.tza.'E.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.23|<< Ecclesiastes 7:23]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.25|Ecclesiastes 7:25 >>]]</td></tr></table>
 
 

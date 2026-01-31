@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Rimmon</span>, a town allotted to Judah and later given to Simeon, was located in the Negev region.
 - A location first mentioned at [[Josh.15.32|Jos.15.32]]; 
-- referred to as Rimmon or Rimmon \(KJV= Remmon\) <[[H7417I]]> \(<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ\).
+- referred to as Rimmon or Rimmon \(KJV= Remmon\)  **<big>[[H7417|רִמּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.370835,34.860665&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Rimmon is mentioned in [[Josh.15.32|Joshua 15:32]] as one of the towns allotted 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Rimmon | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417I) <small>*Hebrew*</small> | 2x | [[Jos.15.32] & [1Ch.4.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Jos.15.32;1Ch.4.32) |
-| Rimmon (KJV= Remmon) | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417I) <small>*Hebrew*</small> | 1x | [Jos.19.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Jos.19.7) |
-All Strong's for **Rimmon**: \[[[H7417I]]\]
+| Rimmon | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417I) | 2x | [[Jos.15.32] & [1Ch.4.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Jos.15.32;1Ch.4.32) |
+| Rimmon (KJV= Remmon) | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417I) | 1x | [Jos.19.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Jos.19.7) |
+All entries for **Rimmon**:  **<big>[[H7417|רִמּוֹן]]</big>**

@@ -7,57 +7,57 @@ He fought also with the king of the Ammonites, and prevailed against them. And t
 Jotham waged war against the king of the Ammonites and defeated them, and that year they gave him a hundred talents of silver, ten thousand cors of wheat, and ten thousand cors of barley. They paid him the same in the second and third years.<small><sub>**MT:**</sub></small>
 [[2Chr.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.4|<< 2 Chronicles 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.6|2 Chronicles 27:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did combat | <big><span class="asgreek">εμαχέσατο</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prevailed | <big><span class="asgreek">κατίσχυσεν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">εδίδουν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| each | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| cors | <big><span class="asgreek">κόρων</span></big> <sup><small><small>[[G2884]]</small></small></sup> |
-| of wheat, | <big><span class="asgreek">πυρού</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of barley | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| These | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| brought | <big><span class="asgreek">έφερεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| each | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| year, | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third. | <big><span class="asgreek">τρίτω</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| did combat | **<big>[[G3164\|εμαχέσατο]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he prevailed | **<big>[[G2729\|κατίσχυσεν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|εδίδουν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| each | **<big>[[G2596\|κατ΄]]</big>** |
+| year | **<big>[[G1763\|ενιαυτόν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| cors | **<big>[[G2884\|κόρων]]</big>** |
+| of wheat, | **<big>[[G8994\|πυρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of barley | **<big>[[G2915\|κριθών]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| These | **<big>[[G3778\|ταύτα]]</big>** |
+| brought | **<big>[[G5342\|έφερεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| each | **<big>[[G2596\|κατ΄]]</big>** |
+| year, | **<big>[[G1763\|ενιαυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| second | **<big>[[G1208\|δευτέρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| third. | **<big>[[G5154\|τρίτω]]</big>** |
 [[2Chr.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.4|<< 2 Chronicles 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.6|2 Chronicles 27:6 >>]]</td></tr></table>
 
 

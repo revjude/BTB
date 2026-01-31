@@ -11,34 +11,34 @@ Now if you will indeed obey My voice and keep My covenant, you will be My treasu
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in hearing, | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| you should hear | <big><span class="asgreek">ακούσητε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my | <big><span class="asgreek">εμής</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| guard | <big><span class="asgreek">φυλάξητε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έσεσθέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a prized | <big><span class="asgreek">περιούσιος</span></big> <sup><small><small>[[G4041]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| mine | <big><span class="asgreek">εμή</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| in hearing, | **<big>[[G0189\|ακοή]]</big>** |
+| you should hear | **<big>[[G0191\|ακούσητε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my | **<big>[[G1699\|εμής]]</big>** |
+| voice, | **<big>[[G5456\|φωνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| guard | **<big>[[G5442\|φυλάξητε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you will be | **<big>[[G1510\|έσεσθέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a prized | **<big>[[G4041\|περιούσιος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations. | **<big>[[G1484\|εθνών]]</big>** |
+| mine | **<big>[[G1699\|εμή]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
 [[Exod.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.4|<< Exodus 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.6|Exodus 19:6 >>]]</td></tr></table>
 
 

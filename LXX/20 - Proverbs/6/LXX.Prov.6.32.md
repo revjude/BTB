@@ -7,17 +7,17 @@ But the adulterer, through lack of sense, procures destruction for his soul.
 He who commits adultery lacks judgment; whoever does so destroys himself.<small><sub>**MT:**</sub></small>
 [[Prov.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.31|<< Proverbs 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.33|Proverbs 6:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| adulterer, | <big><span class="asgreek">μοιχός</span></big> <sup><small><small>[[G3432]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| lack | <big><span class="asgreek">ένδειαν</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
-| of sense, | <big><span class="asgreek">φρενών</span></big> <sup><small><small>[[G5424]]</small></small></sup> |
-| destruction | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| procures | <big><span class="asgreek">περιποιείται</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
+| But the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| adulterer, | **<big>[[G3432\|μοιχός]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| lack | **<big>[[G7218\|ένδειαν]]</big>** |
+| of sense, | **<big>[[G5424\|φρενών]]</big>** |
+| destruction | **<big>[[G0684\|απώλειαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| for his soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| procures | **<big>[[G4046\|περιποιείται]]</big>** |
 [[Prov.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.31|<< Proverbs 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.33|Proverbs 6:33 >>]]</td></tr></table>
 
 

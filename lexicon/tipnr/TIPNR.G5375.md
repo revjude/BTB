@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Philippi</span> was a city in Macedonia where Paul founded a church and experienced persecution, imprisonment, and a miraculous deliverance.
 - A location first mentioned at [[Rev.3.7|Act.16.12]]; 
-- referred to as Philippi or - \(KJV= Philippi\) <[[G5375]]> \(<span class='tipnrLangGreek'>Φίλιπποι</span>\), or Philippian or - \(KJV= Philippian\) <[[G5374]]> \(<span class='tipnrLangGreek'>Φιλιππήσιος</span>\).
+- referred to as Philippi or - \(KJV= Philippi\)  **<big>[[G5375|Φίλιπποι]]</big>**, or Philippian or - \(KJV= Philippian\)  **<big>[[G5374|Φιλιππήσιος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=41.0119594798466,24.28619097780519&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,8 +12,8 @@ Paul visited Philippi again on his third missionary journey \(Acts 20:6\) and la
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Philippi | [<span class='tipnrLangGreek'>Φίλιπποι</span>](G5375) <small>*Greek*</small> | 4x | [[Act.16.12] ... [1Th.2.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philippi\*\|reference=Act.16.12;Act.20.6;Php.1.1;1Th.2.2) |
-| - (KJV= Philippi) | [<span class='tipnrLangGreek'>Φίλιπποι</span>](G5375) <small>*Greek*</small> | 3x | [[1Co.16.24] ... [2Co.13.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Co.16.24;2Co.13.14) |
-| Philippian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Φιλιππήσιος</span>](G5374) <small>*Greek*</small> | 1x | [Php.4.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philippian\*\|reference=Php.4.15) |
-| - (KJV= Philippian) | [<span class='tipnrLangGreek'>Φιλιππήσιος</span>](G5374) <small>*Greek*</small> | 1x | [Php.4.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Php.4.23) |
-All Strong's for **Philippi**: \[[[G5375]]\] \[[[G5374]]\]
+| Philippi | [<span class='tipnrLangGreek'>Φίλιπποι</span>](G5375) | 4x | [[Act.16.12] ... [1Th.2.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philippi\*\|reference=Act.16.12;Act.20.6;Php.1.1;1Th.2.2) |
+| - (KJV= Philippi) | [<span class='tipnrLangGreek'>Φίλιπποι</span>](G5375) | 3x | [[1Co.16.24] ... [2Co.13.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Co.16.24;2Co.13.14) |
+| Philippian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Φιλιππήσιος</span>](G5374) | 1x | [Php.4.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philippian\*\|reference=Php.4.15) |
+| - (KJV= Philippian) | [<span class='tipnrLangGreek'>Φιλιππήσιος</span>](G5374) | 1x | [Php.4.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Php.4.23) |
+All entries for **Philippi**:  **<big>[[G5375|Φίλιπποι]]</big>** ☩  **<big>[[G5374|Φιλιππήσιος]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁפְרוּר‎</span></big> **shaphrûwr** <small>*(shaf-roor')*</small> ==**pavilion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַר‎</span><sup><small>[[H8231]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁפְרוּר‎</span></big>** **shaphrûwr** <small>*(shaf-roor')*</small> ==**pavilion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8231|‎שָׁפַר‎]]</big>**</small>
 
 $\quad$ royal pavilion.
 - ***splendid***, i.e. ***a tapestry*** or ***canopy***

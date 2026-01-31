@@ -7,21 +7,21 @@
 As a cloud vanishes and is gone, so he who goes down to Sheol does not come back up.<small><sub>**MT:**</sub></small>
 [[Job.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.8|<< Job 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.10|Job 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[I am\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a cloud | <big><span class="asgreek">νέφος</span></big> <sup><small><small>[[G3509]]</small></small></sup> |
-| being cleared away | <big><span class="asgreek">αποκαθαρθέν</span></big> <sup><small><small>[[G6434]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| for if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| should go down | <big><span class="asgreek">καταβή</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades, | <big><span class="asgreek">άδην</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκ έτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should he ascend; | <big><span class="asgreek">αναβή</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| \[I am\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a cloud | **<big>[[G3509\|νέφος]]</big>** |
+| being cleared away | **<big>[[G6434\|αποκαθαρθέν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| for if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| should go down | **<big>[[G2597\|καταβή]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades, | **<big>[[G0086\|άδην]]</big>** |
+| no longer | **<big>[[G3765\|ουκ έτι]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| should he ascend; | **<big>[[G0305\|αναβή]]</big>** |
 [[Job.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.8|<< Job 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.10|Job 7:10 >>]]</td></tr></table>
 
 

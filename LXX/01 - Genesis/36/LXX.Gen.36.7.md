@@ -7,29 +7,29 @@ For their riches were more than that they might dwell together; and the land whe
 For their possessions were too great for them to dwell together; the land where they stayed could not support them because of their livestock.<small><sub>**MT:**</sub></small>
 [[Gen.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.6|<< Genesis 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.8|Genesis 36:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For it was \[that\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| possessions | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| \[were\] many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to live | <big><span class="asgreek">οικείν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| together. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was not able | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηδύνατο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their sojourning | <big><span class="asgreek">παροικήσεως</span></big> <sup><small><small>[[G8656]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to bear | <big><span class="asgreek">φέρειν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their possessions. | <big><span class="asgreek">υπαρχόντων</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For it was \[that\] | **<big>[[G1510\|ην]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| possessions | **<big>[[G5225\|υπάρχοντα]]</big>** |
+| \[were\] many | **<big>[[G4183\|πολλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to live | **<big>[[G3611\|οικείν]]</big>** |
+| together. | **<big>[[G0260\|άμα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was not able | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1410\|ηδύνατο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their sojourning | **<big>[[G8656\|παροικήσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to bear | **<big>[[G5342\|φέρειν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their possessions. | **<big>[[G5225\|υπαρχόντων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Gen.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.6|<< Genesis 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.8|Genesis 36:8 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ But the people held their peace, and answered him not a word: for the king’s c
 But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”<small><sub>**MT:**</sub></small>
 [[2Kgs.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.35|<< 2 Kings 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.37|2 Kings 18:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they kept silent, | <big><span class="asgreek">εσιώπησαν</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| answer | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| because of | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] commandment | <big><span class="asgreek">εντολή</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| answer | <big><span class="asgreek">αποκριθήσεσθε</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they kept silent, | **<big>[[G4623\|εσιώπησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| answer | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| a word, | **<big>[[G3056\|λόγον]]</big>** |
+| because of | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] commandment | **<big>[[G1785\|εντολή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| answer | **<big>[[G0611\|αποκριθήσεσθε]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[2Kgs.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.35|<< 2 Kings 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.37|2 Kings 18:37 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּד‎</span></big> **bad** <small>*(bad)*</small> ==**alone: pole**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּדַד‎</span><sup><small>[[H0909]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּד‎</span></big>** **bad** <small>*(bad)*</small> ==**alone: pole**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0909|‎בָּדַד‎]]</big>**</small>
 
 $\quad$ alone, apart, bar, besides, branch, by self, of each alike, except, only, part, staff, strength.
 - properly, ***separation***
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a2)** apart from, besides (prep)
 $\quad$ **1b)** part
 $\quad$ **1c)** parts (eg limbs, shoots), bars
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκτός</span><sup><small>[[G1622]]</small></sup> · <span class="asgreek">μόνον</span><sup><small>[[G3440]]</small></sup> · <span class="asgreek">μόνον</span><sup><small>[[G3440]]</small></sup> · <span class="asgreek">μόνος</span><sup><small>[[G3441]]</small></sup> · <span class="asgreek">μόνος</span><sup><small>[[G3441]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup>
+<small>See Greek: </small>**<big>[[G1622|ἐκτός]]</big>** · **<big>[[G3440|μόνον]]</big>** · **<big>[[G3440|μόνον]]</big>** · **<big>[[G3441|μόνος]]</big>** · **<big>[[G3441|μόνος]]</big>** · **<big>[[G4133|πλήν]]</big>**

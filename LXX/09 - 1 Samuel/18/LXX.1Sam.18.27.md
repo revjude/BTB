@@ -7,45 +7,45 @@ Wherefore David arose and went, he and his men, and slew of the Philistines two 
 David and his men went out and killed two hundred Philistines. He brought their foreskins and presented them as payment in full to become the king’s son-in-law. Then Saul gave his daughter Michal to David in marriage.<small><sub>**MT:**</sub></small>
 [[1Sam.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.26|<< 1 Samuel 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.28|1 Samuel 18:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλοις</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">ήνεγκε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their foreskins, | <big><span class="asgreek">ακροβυστίας</span></big> <sup><small><small>[[G0203]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fulfilled | <big><span class="asgreek">επλήρωσεν</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king; | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he becomes allied by marriage | <big><span class="asgreek">επιγαμβρεύεται</span></big> <sup><small><small>[[G1918]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king; | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Michal | <big><span class="asgreek">Μελχόλ</span></big> <sup><small><small>[[H4324]]</small></small></sup> |
-| his daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David rose up | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men, | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλοις]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίους]]</big>** |
+| men. | **<big>[[G0435\|άνδρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G5342\|ήνεγκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their foreskins, | **<big>[[G0203\|ακροβυστίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fulfilled | **<big>[[G4137\|επλήρωσεν]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king; | **<big>[[G0935\|βασιλεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he becomes allied by marriage | **<big>[[G1918\|επιγαμβρεύεται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king; | **<big>[[G0935\|βασιλεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gives | **<big>[[G1325\|δίδωσιν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Michal | **<big>[[H4324\|Μελχόλ]]</big>** |
+| his daughter | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Sam.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.26|<< 1 Samuel 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.28|1 Samuel 18:28 >>]]</td></tr></table>
 
 

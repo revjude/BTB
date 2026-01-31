@@ -7,19 +7,19 @@ And their border was Helkath, and Hali, and Beten, and Achshaph,
 Their territory included Helkath, Hali, Beten, Achshaph,<small><sub>**MT:**</sub></small>
 [[Josh.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.24|<< Joshua 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.26|Joshua 19:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Helkath, | <big><span class="asgreek">Ελκάθ</span></big> <sup><small><small>[[H2520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hali, | <big><span class="asgreek">Αλί</span></big> <sup><small><small>[[H2482]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beten, | <big><span class="asgreek">Βεθέν</span></big> <sup><small><small>[[H0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Achshaph, | <big><span class="asgreek">Αχασάφ</span></big> <sup><small><small>[[H0407]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγενήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their borders | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Helkath, | **<big>[[H2520\|Ελκάθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hali, | **<big>[[H2482\|Αλί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beten, | **<big>[[H0991\|Βεθέν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Achshaph, | **<big>[[H0407\|Αχασάφ]]</big>** |
 [[Josh.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.24|<< Joshua 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.26|Joshua 19:26 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ Praise him upon the loud cymbals: praise him upon the high sounding cymbals.
 Praise Him with clashing cymbals; praise Him with resounding cymbals.<small><sub>**MT:**</sub></small>
 [[Ps.150.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.150.4|<< Psalm 150:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.6|Psalm 150:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cymbals | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| distinct | <big><span class="asgreek">ευήχοις</span></big> <sup><small><small>[[G7538]]</small></small></sup> |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| of cymbals | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| a shout | <big><span class="asgreek">αλαλαγμού</span></big> <sup><small><small>[[G6214]]</small></small></sup> |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cymbals | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| distinct | **<big>[[G7538\|ευήχοις]]</big>** |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| of cymbals | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| a shout | **<big>[[G6214\|αλαλαγμού]]</big>** |
 [[Ps.150.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.150.4|<< Psalm 150:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.6|Psalm 150:6 >>]]</td></tr></table>
 
 

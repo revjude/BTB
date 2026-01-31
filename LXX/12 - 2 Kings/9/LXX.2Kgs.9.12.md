@@ -7,34 +7,34 @@ And they said, [It is] false; tell us now. And he said, Thus and thus spake he t
 “That is a lie!” they said. “Tell us now!” So Jehu answered, “He talked to me about this and that, saying, ‘This is what the LORD says: I anoint you king over Israel.’”<small><sub>**MT:**</sub></small>
 [[2Kgs.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.11|<< 2 Kings 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.13|2 Kings 9:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[That's\] unjust, | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| announce | <big><span class="asgreek">ανάγγειλον</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to us! | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Such | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| such | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he said | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I anoint | <big><span class="asgreek">κέχρικά</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| \[That's\] unjust, | **<big>[[G0094\|άδικον]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| announce | **<big>[[G0312\|ανάγγειλον]]</big>** |
+| to us! | **<big>[[G1473\|ημίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Such | **<big>[[G3779\|ούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| such | **<big>[[G3779\|ούτως]]</big>** |
+| he said | **<big>[[G2980\|ελάλησε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| I anoint | **<big>[[G5548\|κέχρικά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.11|<< 2 Kings 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.13|2 Kings 9:13 >>]]</td></tr></table>
 
 

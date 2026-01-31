@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרוֹדִי‎</span></big> **ʼĂrôwdîy** <small>*(ar-o-dee')*</small> ==**Arodi**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎אַרְוָדִי‎</span><sup><small>[[H0721]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲרוֹדִי‎</span></big>** **ʼĂrôwdîy** <small>*(ar-o-dee')*</small> ==**Arodi**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H0721|‎אַרְוָדִי‎]]</big>**</small>
 
 $\quad$ Arodi, Arodites.
 - § Arodi or Arodites = *"I shall subdue: I shall roam"*

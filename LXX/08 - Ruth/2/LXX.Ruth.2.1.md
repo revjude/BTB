@@ -10,27 +10,27 @@ And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the famil
 Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz.<small><sub>**MT:**</sub></small>
 [[Ruth.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.22|<< Ruth 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.2|Ruth 2:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Naomi | <big><span class="asgreek">Νοομί</span></big> <sup><small><small>[[H5281]]</small></small></sup> |
-| \[was\] a male | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| acquaintance | <big><span class="asgreek">γνώριμος</span></big> <sup><small><small>[[G6755]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband, | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| was mighty | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| in strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kin | <big><span class="asgreek">συγγενείας</span></big> <sup><small><small>[[G4772]]</small></small></sup> |
-| of Elimelech; | <big><span class="asgreek">Ελιμέλεχ</span></big> <sup><small><small>[[H0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Boaz. | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Naomi | **<big>[[H5281\|Νοομί]]</big>** |
+| \[was\] a male | **<big>[[G0435\|ανήρ]]</big>** |
+| acquaintance | **<big>[[G6755\|γνώριμος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her husband, | **<big>[[G0435\|ανδρί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| was mighty | **<big>[[G1415\|δυνατός]]</big>** |
+| in strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| kin | **<big>[[G4772\|συγγενείας]]</big>** |
+| of Elimelech; | **<big>[[H0458\|Ελιμέλεχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[was\] Boaz. | **<big>[[G1003\|Βοόζ]]</big>** |
 [[Ruth.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.22|<< Ruth 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.2|Ruth 2:2 >>]]</td></tr></table>
 
 

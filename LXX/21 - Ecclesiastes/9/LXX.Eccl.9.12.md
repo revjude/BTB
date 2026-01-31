@@ -7,45 +7,45 @@ For man also knoweth not his time: as the fishes that are taken in an evil net, 
 For surely no man knows his time: Like fish caught in a cruel net or birds trapped in a snare, so men are ensnared in an evil time that suddenly falls upon them.<small><sub>**MT:**</sub></small>
 [[Eccl.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.11|<< Ecclesiastes 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.13|Ecclesiastes 9:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| does not know | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his season. | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fishes | <big><span class="asgreek">ιχθύες</span></big> <sup><small><small>[[G2486]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being hunted | <big><span class="asgreek">θηρευόμενοι</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| casting-net | <big><span class="asgreek">αμφιβλήστρω</span></big> <sup><small><small>[[G0293]]</small></small></sup> |
-| a hurtful | <big><span class="asgreek">κακώ</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being hunted | <big><span class="asgreek">θηρευόμενα</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a snare -- | <big><span class="asgreek">παγίδι</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be ensnared | <big><span class="asgreek">παγιδεύονται</span></big> <sup><small><small>[[G3802]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| season | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| an evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| it should fall | <big><span class="asgreek">επιπέση</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| suddenly. | <big><span class="asgreek">άφνω</span></big> <sup><small><small>[[G0869]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| does not know | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his season. | **<big>[[G2540\|καιρόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| fishes | **<big>[[G2486\|ιχθύες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| being hunted | **<big>[[G2340\|θηρευόμενοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| casting-net | **<big>[[G0293\|αμφιβλήστρω]]</big>** |
+| a hurtful | **<big>[[G2556\|κακώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| birds | **<big>[[G3732\|όρνεα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being hunted | **<big>[[G2340\|θηρευόμενα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a snare -- | **<big>[[G3803\|παγίδι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| shall be ensnared | **<big>[[G3802\|παγιδεύονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| season | **<big>[[G2540\|καιρόν]]</big>** |
+| an evil | **<big>[[G4190\|πονηρόν]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| it should fall | **<big>[[G1968\|επιπέση]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| suddenly. | **<big>[[G0869\|άφνω]]</big>** |
 [[Eccl.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.11|<< Ecclesiastes 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.13|Ecclesiastes 9:13 >>]]</td></tr></table>
 
 

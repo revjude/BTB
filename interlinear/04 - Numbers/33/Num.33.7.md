@@ -6,22 +6,22 @@ They set out from Etham and turned back to Pi-hahiroth, opposite Baal-zephon, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.6|<< Numbers 33:6]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.8|Numbers 33:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they set out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּסְעוּ֙ </big></span><small><small><sup>[[H5265]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yis.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Etham  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵתָ֔ם </big></span><small><small><sup>[[H0864]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'e.Tam <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he turned back  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֙שָׁב֙ </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.shov <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pi-  | <span class="ashebrew"><big>פִּ֣י </big></span><small><small><sup>[[H6367]]</sup></small></small> &#8207;| pi <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hahiroth  | <span class="ashebrew"><big>הַחִירֹ֔ת </big></span><small><small><sup>[[H6367]]</sup></small></small> &#8207;| ha.chi.Rot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֖י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Baal-  | <span class="ashebrew"><big>בַּ֣עַל </big></span><small><small><sup>[[H1189]]</sup></small></small> &#8207;| Ba.'al <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zephon  | <span class="ashebrew"><big>צְפ֑וֹן </big></span><small><small><sup>[[H1189]]</sup></small></small> &#8207;| tze.Fon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they encamped  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּחֲנ֖וּ </big></span><small><small><sup>[[H2583]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.cha.Nu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֥י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Migdol  | <span class="ashebrew"><big>מִגְדֹּֽל </big></span><small><small><sup>[[H4024B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mig.Dol <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Etham  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0864\|אֵתָ֔ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.Tam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֙שָׁב֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pi-  |**<big>&#8207;[[H6367\|פִּ֣י]]&#8207; </big>**| pi<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hahiroth  |**<big>&#8207;[[H6367\|הַחִירֹ֔ת]]&#8207; </big>**| ha.chi.Rot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵ֖י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Baal-  |**<big>&#8207;[[H1189\|בַּ֣עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zephon  |**<big>&#8207;[[H1189\|צְפ֑וֹן]]&#8207; </big>**| tze.Fon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2583\|יַּחֲנ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Migdol  |**<big>&#8207;[[H4024B\|מִגְדֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mig.Dol<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.6|<< Numbers 33:6]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.8|Numbers 33:8 >>]]</td></tr></table>
 
 

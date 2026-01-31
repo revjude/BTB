@@ -6,25 +6,25 @@ This is the inventory for the tabernacle, the tabernacle of the Testimony, as re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֣לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] expenses of  | <span class="ashebrew"><big>פְקוּדֵ֤י </big></span><small><small><sup>[[H6485B]]</sup></small></small> &#8207;| fe.ku.Dei <small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the tabernacle  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּשְׁכָּן֙ </big></span><small><small><sup>[[H4908]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mish.Kan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tabernacle of  | <span class="ashebrew"><big>מִשְׁכַּ֣ן </big></span><small><small><sup>[[H4908]]</sup></small></small> &#8207;| mish.Kan <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the testimony  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֵדֻ֔ת </big></span><small><small><sup>[[H5715]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Dut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was recorded  | <span class="ashebrew"><big>פֻּקַּ֖ד </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| pu.Kad <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mouth of  | <span class="ashebrew"><big>פִּ֣י </big></span><small><small><sup>[[H6310I]]</sup></small></small> &#8207;| pi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֑ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] service of  | <span class="ashebrew"><big>עֲבֹדַת֙ </big></span><small><small><sup>[[H5656I]]</sup></small></small> &#8207;| 'a.vo.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Levites  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לְוִיִּ֔ם </big></span><small><small><sup>[[H3881]]</sup></small></small> &#8207;| ha <small><sup>[[HTd]]</sup></small> l.vi.Yim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] hand of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יַד֙ </big></span><small><small><sup>[[H3027H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yad <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ithamar  | <span class="ashebrew"><big>אִֽיתָמָ֔ר </big></span><small><small><sup>[[H0385]]</sup></small></small> &#8207;| 'i.ta.Mar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֖ן </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priest  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֵֽן </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Hen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] expenses of  |**<big>&#8207;[[H6485B\|פְקוּדֵ֤י]]&#8207; </big>**| fe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tabernacle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tabernacle of  |**<big>&#8207;[[H4908\|מִשְׁכַּ֣ן]]&#8207; </big>**| mish.Kan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the testimony  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5715\|עֵדֻ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was recorded  |**<big>&#8207;[[H6485A\|פֻּקַּ֖ד]]&#8207; </big>**| pu.Kad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  |**<big>&#8207;[[H6310I\|פִּ֣י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֑ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] service of  |**<big>&#8207;[[H5656I\|עֲבֹדַת֙]]&#8207; </big>**| 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֔ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ithamar  |**<big>&#8207;[[H0385\|אִֽיתָמָ֔ר]]&#8207; </big>**| 'i.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֖ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶוַח‎</span></big> **revach** <small>*(reh'-vakh)*</small> ==**space**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָוַח‎</span><sup><small>[[H7304]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶוַח‎</span></big>** **revach** <small>*(reh'-vakh)*</small> ==**space**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7304|‎רָוַח‎]]</big>**</small>
 
 $\quad$ enlargement, space.
 - ***room***, literally (an interval) or figuratively (deliverance)
@@ -8,4 +8,4 @@ $\quad$ enlargement, space.
 $\quad$ **1a)** space, interval
 $\quad$ **1b)** respite, relief
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοήθεια</span><sup><small>[[G0996]]</small></sup> · <span class="asgreek">διάστημα</span><sup><small>[[G1292]]</small></sup>
+<small>See Greek: </small>**<big>[[G0996|βοήθεια]]</big>** · **<big>[[G1292|διάστημα]]</big>**

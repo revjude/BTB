@@ -7,20 +7,20 @@ All the days that he separateth [himself] unto the LORD he shall come at no dead
 Throughout the days of his separation to the LORD, he must not go near a dead body.<small><sub>**MT:**</sub></small>
 [[Num.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.5|<< Numbers 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.7|Numbers 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vow | <big><span class="asgreek">ευχής</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| any | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| coming to an end | <big><span class="asgreek">τετελευτηκύια</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| All | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| vow | **<big>[[G2171\|ευχής]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| any | **<big>[[G3956\|πάση]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| coming to an end | **<big>[[G5053\|τετελευτηκύια]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
 [[Num.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.5|<< Numbers 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.7|Numbers 6:7 >>]]</td></tr></table>
 
 

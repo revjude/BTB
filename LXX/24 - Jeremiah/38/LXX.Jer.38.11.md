@@ -7,37 +7,37 @@ So Ebedmelech took the men with him, and went into the house of the king under t
 Then Ebed-melech took the men with him and went to the king’s palace, to a place below the storehouse. From there he took old rags and worn-out clothes and lowered them with ropes to Jeremiah in the cistern.<small><sub>**MT:**</sub></small>
 [[Jer.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.10|<< Jeremiah 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.12|Jeremiah 38:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ebed-melech took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Αβδεμέλεχ</span></big> <sup><small><small>[[H5663]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| subterranean \[part\], | <big><span class="asgreek">υπόγαιον</span></big> <sup><small><small>[[G9570]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| rags | <big><span class="asgreek">ράκη</span></big> <sup><small><small>[[G4470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| rough cords; | <big><span class="asgreek">σχοινία</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit. | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ebed-melech took | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[H5663\|Αβδεμέλεχ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| subterranean \[part\], | **<big>[[G9570\|υπόγαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| old | **<big>[[G3820\|παλαιά]]</big>** |
+| rags | **<big>[[G4470\|ράκη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| old | **<big>[[G3820\|παλαιά]]</big>** |
+| rough cords; | **<big>[[G4979\|σχοινία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he tossed | **<big>[[G4496\|έρριψεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pit. | **<big>[[G8154\|λάκκον]]</big>** |
 [[Jer.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.10|<< Jeremiah 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.12|Jeremiah 38:12 >>]]</td></tr></table>
 
 

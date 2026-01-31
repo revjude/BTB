@@ -7,42 +7,42 @@ Set ye up a standard in the land, blow the trumpet among the nations, prepare th
 “Raise a banner in the land! Blow the ram’s horn among the nations! Prepare the nations against her. Summon the kingdoms against her—Ararat, Minni, and Ashkenaz. Appoint a captain against her; bring up horses like swarming locusts.<small><sub>**MT:**</sub></small>
 [[Jer.51.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lift up | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a sign | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Trump | <big><span class="asgreek">σαλπίσατε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| with a trumpet! | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| Sanctify | <big><span class="asgreek">αγιάσατε</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| Exhort | <big><span class="asgreek">παραγγείλατε</span></big> <sup><small><small>[[G3853]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| kingdoms | <big><span class="asgreek">βασιλείαις</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| Ararat | <big><span class="asgreek">Αραράτ</span></big> <sup><small><small>[[H0780]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashchenazi! | <big><span class="asgreek">Ασκαναζαίοις</span></big> <sup><small><small>[[H0813]]</small></small></sup> |
-| Set | <big><span class="asgreek">επιστήσατε</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a range of weapons! | <big><span class="asgreek">βελοστάσεις</span></big> <sup><small><small>[[G6667]]</small></small></sup> |
-| Haul | <big><span class="asgreek">αναβιβάσατε</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| of locusts | <big><span class="asgreek">ακρίδων</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| Lift up | **<big>[[G0142\|άρατε]]</big>** |
+| a sign | **<big>[[G4592\|σημείον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
+| Trump | **<big>[[G4537\|σαλπίσατε]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| with a trumpet! | **<big>[[G4536\|σάλπιγγι]]</big>** |
+| Sanctify | **<big>[[G0037\|αγιάσατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνη]]</big>** |
+| Exhort | **<big>[[G3853\|παραγγείλατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| kingdoms | **<big>[[G0932\|βασιλείαις]]</big>** |
+| Ararat | **<big>[[H0780\|Αραράτ]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Ashchenazi! | **<big>[[H0813\|Ασκαναζαίοις]]</big>** |
+| Set | **<big>[[G2186\|επιστήσατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| a range of weapons! | **<big>[[G6667\|βελοστάσεις]]</big>** |
+| Haul | **<big>[[G0307\|αναβιβάσατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| \[the\] horses | **<big>[[G2462\|ίππων]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| of locusts | **<big>[[G0200\|ακρίδων]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθος]]</big>** |
 [[Jer.51.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
 
 

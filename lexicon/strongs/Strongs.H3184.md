@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחְצְאֵלִי‎</span></big> **Yachtsᵉʼêlîy** <small>*(yakh-tseh-ay-lee')*</small> ==**Jahzeelite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎יַחְצְאֵל‎</span><sup><small>[[H3183]]</small></sup></small>
+**<big><span class="ashebrew">‎יַחְצְאֵלִי‎</span></big>** **Yachtsᵉʼêlîy** <small>*(yakh-tseh-ay-lee')*</small> ==**Jahzeelite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H3183|‎יַחְצְאֵל‎]]</big>**</small>
 
 $\quad$ Jahzeelites.
 - § Jahzeelites = *see Jahzeel "God divides"*

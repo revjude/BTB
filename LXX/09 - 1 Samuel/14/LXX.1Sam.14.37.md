@@ -7,30 +7,30 @@ And Saul asked counsel of God, Shall I go down after the Philistines? wilt thou 
 So Saul inquired of God, “Shall I go down after the Philistines? Will You give them into the hand of Israel?” But God did not answer him that day.<small><sub>**MT:**</sub></small>
 [[1Sam.14.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.36|<< 1 Samuel 14:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.38|1 Samuel 14:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul asked | <big><span class="asgreek">επηρώτησε</span></big> <sup><small><small>[[G1905]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I go down | <big><span class="asgreek">καταβώ</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines? | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you deliver | <big><span class="asgreek">παραδώσεις</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| answer | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul asked | **<big>[[G1905\|επηρώτησε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I go down | **<big>[[G2597\|καταβώ]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Philistines? | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| you deliver | **<big>[[G3860\|παραδώσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| answer | **<big>[[G0611\|απεκρίθη]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[1Sam.14.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.36|<< 1 Samuel 14:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.38|1 Samuel 14:38 >>]]</td></tr></table>
 
 

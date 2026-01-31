@@ -11,36 +11,36 @@ He dug it up and cleared the stones and planted the finest vines. He built a wat
 > $\quad$ referenced by: [[Matt.21.33|Matt 21:33]] ☩ [[Mark.12.1|Mark 12:1]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a barrier | <big><span class="asgreek">φραγμόν</span></big> <sup><small><small>[[G5418]]</small></small></sup> |
-| I put | <big><span class="asgreek">περιέθηκα</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I built a palisade, | <big><span class="asgreek">εχαράκωσα</span></big> <sup><small><small>[[G9701]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| planted | <big><span class="asgreek">εφύτευσα</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| a grapevine, | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| a choice vine; | <big><span class="asgreek">σωρήκ</span></big> <sup><small><small>[[G9390]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I built | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a tower | <big><span class="asgreek">πύργον</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wine press | <big><span class="asgreek">προλήνιον</span></big> <sup><small><small>[[G8899]]</small></small></sup> |
-| I dug | <big><span class="asgreek">ώρυξα</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I waited | <big><span class="asgreek">έμεινα</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for it\] to produce | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] grape, | <big><span class="asgreek">σταφυλήν</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it produced | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thorn-bushes. | <big><span class="asgreek">ακάνθας</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a barrier | **<big>[[G5418\|φραγμόν]]</big>** |
+| I put | **<big>[[G4060\|περιέθηκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I built a palisade, | **<big>[[G9701\|εχαράκωσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| planted | **<big>[[G5452\|εφύτευσα]]</big>** |
+| a grapevine, | **<big>[[G0288\|άμπελον]]</big>** |
+| a choice vine; | **<big>[[G9390\|σωρήκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I built | **<big>[[G3618\|ωκοδόμησα]]</big>** |
+| a tower | **<big>[[G4444\|πύργον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of it; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a wine press | **<big>[[G8899\|προλήνιον]]</big>** |
+| I dug | **<big>[[G3736\|ώρυξα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I waited | **<big>[[G3306\|έμεινα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[for it\] to produce | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \[the\] grape, | **<big>[[G4718\|σταφυλήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it produced | **<big>[[G4160\|εποίησεν]]</big>** |
+| thorn-bushes. | **<big>[[G0173\|ακάνθας]]</big>** |
 [[Isa.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.1|<< Isaiah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.3|Isaiah 5:3 >>]]</td></tr></table>
 
 

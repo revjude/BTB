@@ -7,31 +7,31 @@ And Moses took the breast, and waved it [for] a wave offering before the LORD: [
 He also took the breast—Moses’ portion of the ram of ordination—and waved it before the LORD as a wave offering, as the LORD had commanded him.<small><sub>**MT:**</sub></small>
 [[Lev.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.28|<< Leviticus 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.30|Leviticus 8:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breast, | <big><span class="asgreek">στηθύνιον</span></big> <sup><small><small>[[G9170]]</small></small></sup> |
-| removed | <big><span class="asgreek">αφείλεν</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for an increase \[offering\] | <big><span class="asgreek">επίθεμα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριού</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecration; | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| Moses' | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| portion, | <big><span class="asgreek">μερίδι</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses taking | **<big>[[G2983\|λαβών]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breast, | **<big>[[G9170\|στηθύνιον]]</big>** |
+| removed | **<big>[[G0851\|αφείλεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| for an increase \[offering\] | **<big>[[G7409\|επίθεμα]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ram | **<big>[[G8096\|κριού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| consecration; | **<big>[[G5050\|τελειώσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετο]]</big>** |
+| Moses' | **<big>[[G3475\|Μωυσή]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| portion, | **<big>[[G3310\|μερίδι]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Lev.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.28|<< Leviticus 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.30|Leviticus 8:30 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my peop
 Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel.<small><sub>**MT:**</sub></small>
 [[Ezek.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.11|<< Ezekiel 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.13|Ezekiel 37:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say! | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tombs, | <big><span class="asgreek">μνήματα υμών</span></big> <sup><small><small>[[G3418]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall lead | <big><span class="asgreek">ανάξω</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tombs, | <big><span class="asgreek">μνημάτων</span></big> <sup><small><small>[[G3418]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring | <big><span class="asgreek">εισάξω</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| prophesy | **<big>[[G4395\|προφήτευσον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say! | **<big>[[G2036\|ειπέ]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall open | **<big>[[G0455\|ανοίξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your tombs, | **<big>[[G3418\|μνήματα υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall lead | **<big>[[G0321\|ανάξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your tombs, | **<big>[[G3418\|μνημάτων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will bring | **<big>[[G1521\|εισάξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.11|<< Ezekiel 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.13|Ezekiel 37:13 >>]]</td></tr></table>
 
 

@@ -10,23 +10,23 @@ These [are] also proverbs of Solomon, which the men of Hezekiah king of Judah co
 These are additional proverbs of Solomon, which were copied by the men of Hezekiah king of Judah:<small><sub>**MT:**</sub></small>
 [[Prov.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.34|<< Proverbs 24:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.2|Proverbs 25:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| parables | <big><span class="asgreek">παροιμίαι</span></big> <sup><small><small>[[G3942]]</small></small></sup> |
-| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impartial | <big><span class="asgreek">αδιάκριτοι</span></big> <sup><small><small>[[G0087]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| wrote out | <big><span class="asgreek">εξεγράψαντο</span></big> <sup><small><small>[[G7084]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| friends | <big><span class="asgreek">φίλοι</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| of Hezekiah | <big><span class="asgreek">Εζεκίου</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judea | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
+| These | **<big>[[G3778\|αύται]]</big>** |
+| \[are\] the | **<big>[[G3588\|αι]]</big>** |
+| parables | **<big>[[G3942\|παροιμίαι]]</big>** |
+| of Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| impartial | **<big>[[G0087\|αδιάκριτοι]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| wrote out | **<big>[[G7084\|εξεγράψαντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| friends | **<big>[[G5384\|φίλοι]]</big>** |
+| of Hezekiah | **<big>[[G1478\|Εζεκίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Judea | **<big>[[G2449\|Ιουδαίας]]</big>** |
 [[Prov.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.34|<< Proverbs 24:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.2|Proverbs 25:2 >>]]</td></tr></table>
 
 

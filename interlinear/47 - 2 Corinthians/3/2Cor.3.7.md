@@ -10,42 +10,42 @@ If now the ministry <the> of death in letters engraved in stones was produced in
 > $\quad$ referencing: [[LXX.Exod.34.35|Exod 34:35]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<big><span class="asgreek">εἰ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ministry |<big><span class="asgreek">διακονία</span></big> <small><small><sup>[[G1248]]</sup></small></small> |diakonia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of death |<big><span class="asgreek">θανάτου</span></big> <small><small><sup>[[G2288]]</sup></small></small> |thanatou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| letters [^1] |<big><span class="asgreek">γράμμασιν</span></big> <small><small><sup>[[G1121]]</sup></small></small> |grammasin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
-| engraved |<big><span class="asgreek">ἐντετυπωμένη</span></big> <small><small><sup>[[G1795]]</sup></small></small> |entetupōmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| stones |<big><span class="asgreek">λίθοις</span></big> <small><small><sup>[[G3037]]</sup></small></small> |lithois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was produced |<big><span class="asgreek">ἐγενήθη</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egenēthē <small><sup>[[V-2AOI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| glory, |<big><span class="asgreek">δόξῃ,</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so as for |<big><span class="asgreek">ὥστε</span></big> <small><small><sup>[[G5620]]</sup></small></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be able |<big><span class="asgreek">δύνασθαι</span></big> <small><small><sup>[[G1410]]</sup></small></small> |dunasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to look intently |<big><span class="asgreek">ἀτενίσαι</span></big> <small><small><sup>[[G0816]]</sup></small></small> |atenisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sons |<big><span class="asgreek">υἱοὺς</span></big> <small><small><sup>[[G5207]]</sup></small></small> |huious <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Israel |<big><span class="asgreek">Ἰσραὴλ</span></big> <small><small><sup>[[G2474]]</sup></small></small> |Israēl <small><sup>[[N-GSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| face |<big><span class="asgreek">πρόσωπον</span></big> <small><small><sup>[[G4383]]</sup></small></small> |prosōpon <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Moses |<big><span class="asgreek">Μωϋσέως</span></big> <small><small><sup>[[G3475]]</sup></small></small> [^2] |Mōuseōs <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on account of |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| glory |<big><span class="asgreek">δόξαν</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| face |<big><span class="asgreek">προσώπου</span></big> <small><small><sup>[[G4383]]</sup></small></small> |prosōpou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is fading, |<big><span class="asgreek">καταργουμένην,</span></big> <small><small><sup>[[G2673]]</sup></small></small> |katargoumenēn <small><sup>[[V-PPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ministry |**<big>[[G1248\|διακονία]]</big>**  |diakonia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of death |**<big>[[G2288\|θανάτου]]</big>**  |thanatou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| letters [^1] |**<big>[[G1121\|γράμμασιν]]</big>**  |grammasin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
+| engraved |**<big>[[G1795\|ἐντετυπωμένη]]</big>**  |entetupōmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| stones |**<big>[[G3037\|λίθοις]]</big>**  |lithois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was produced |**<big>[[G1096\|ἐγενήθη]]</big>**  |egenēthē <small><sup>[[V-2AOI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| glory, |**<big>[[G1391\|δόξῃ,]]</big>**  |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so as for |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be able |**<big>[[G1410\|δύνασθαι]]</big>**  |dunasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to look intently |**<big>[[G0816\|ἀτενίσαι]]</big>**  |atenisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sons |**<big>[[G5207\|υἱοὺς]]</big>**  |huious <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Israel |**<big>[[G2474\|Ἰσραὴλ]]</big>**  |Israēl <small><sup>[[N-GSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| face |**<big>[[G4383\|πρόσωπον]]</big>**  |prosōpon <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Moses |**<big>[[G3475\|Μωϋσέως]]</big>**  [^2] |Mōuseōs <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on account of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| glory |**<big>[[G1391\|δόξαν]]</big>**  |doxan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| face |**<big>[[G4383\|προσώπου]]</big>**  |prosōpou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is fading, |**<big>[[G2673\|καταργουμένην,]]</big>**  |katargoumenēn <small><sup>[[V-PPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.6|<< 2 Corinthians 3:6]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.8|2 Corinthians 3:8 >>]]</td></tr></table>
 
-[^1]: ==Treg==: letter | <span class="asgreek">γράμματι</span><small><sup>[[G1121]]</sup></small> | grammati<small><sup>[[N-DSN]]</sup></small>
-[^2]: ==TR== spelled: <span class='asgreek'>**Μωσέως**</span>
+[^1]: ==Treg==: letter | **<big>[[G1121|γράμματι]]</big>** | grammati<small><sup>[[N-DSN]]</sup></small>
+[^2]: ==TR== spelled: **<big><span class='asgreek'>Μωσέως</span></big>**

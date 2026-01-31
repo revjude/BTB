@@ -1,6 +1,4 @@
-<span class="ashebrew">‎אַשְׁחוּר‎</span> <small>***(ash.chur)***</small> ==**Ashhur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[1Chr.2.24|1Ch.2.24]]
--  son of: Hezron ([[H2696H]]) and Abiah ([[H0029J]])
--  half-brother of: Ram ([[H7410]]), Jerahmeel ([[H3396]]), Caleb ([[H3612H]]) and Segub ([[H7687H]]); married to Helah ([[H2458]]) and Naarah ([[H5292B]])
--  father of: Ahuzzam ([[H0275]]), Hepher ([[H2660]]), Temeni ([[H8488]]), Haahashtari ([[H0326]]), Zereth ([[H6889]]), Izhar ([[H3328]]), Ethnan ([[H0869]]) and Koz ([[H6976]])
-
+-  son of: Hezron (**<big>[[H2696H|חֶצְרוֹן]]</big>**) and Abiah (**<big>[[H0029J|אֲבִיָּה]]</big>**)
+-  half-brother of: Ram (**<big>[[H7410|רָם]]</big>**), Jerahmeel (**<big>[[H3396|יְרַחְמְאֵל]]</big>**), Caleb (**<big>[[H3612H|כָּלֵב]]</big>**) and Segub (**<big>[[H7687H|שְׂגוּב]]</big>**); married to Helah (**<big>[[H2458|חֶלְאָה]]</big>**) and Naarah (**<big>[[H5292B|נַעֲרָה]]</big>**)
+-  father of: Ahuzzam (**<big>[[H0275|אֲחֻזָּם]]</big>**), Hepher (**<big>[[H2660|חֵפֶר]]</big>**), Temeni (**<big>[[H8488|תֵּימְנִי]]</big>**), Haahashtari (**<big>[[H0326|אֲחַשְׁתָּרִי]]</big>**), Zereth (**<big>[[H6889|צֶרֶת]]</big>**), Izhar (**<big>[[H3328|יִצְחַר]]</big>**), Ethnan (**<big>[[H0869|אֶתְנַן]]</big>**) and Koz (**<big>[[H6976|קוֹץ]]</big>**)

@@ -7,30 +7,30 @@ And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs,
 Cut the ram into pieces, wash the entrails and legs, and place them with its head and other pieces.<small><sub>**MT:**</sub></small>
 [[Exod.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.16|<< Exodus 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.18|Exodus 29:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| you shall cut in pieces | <big><span class="asgreek">διχοτομήσεις</span></big> <sup><small><small>[[G1371]]</small></small></sup> |
-| according to \[its\] | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| limbs. | <big><span class="asgreek">μέλη</span></big> <sup><small><small>[[G3196]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall wash | <big><span class="asgreek">πλυνείς</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrails, | <big><span class="asgreek">ενδόσθια</span></big> <sup><small><small>[[G7230]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| in water. | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall place \[them\] | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pieces | <big><span class="asgreek">διχοτομήματα</span></big> <sup><small><small>[[G6949]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head. | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| you shall cut in pieces | **<big>[[G1371\|διχοτομήσεις]]</big>** |
+| according to \[its\] | **<big>[[G2596\|κατά]]</big>** |
+| limbs. | **<big>[[G3196\|μέλη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall wash | **<big>[[G4150\|πλυνείς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| entrails, | **<big>[[G7230\|ενδόσθια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| feet | **<big>[[G4228\|πόδας]]</big>** |
+| in water. | **<big>[[G5204\|ύδατι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall place \[them\] | **<big>[[G2007\|επιθήσεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| pieces | **<big>[[G6949\|διχοτομήματα]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| head. | **<big>[[G2776\|κεφαλή]]</big>** |
 [[Exod.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.16|<< Exodus 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.18|Exodus 29:18 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Then said he unto me, Hast thou seen [this], O son of man? turn thee yet again, 
 “Son of man,” He said to me, “do you see this? Yet you will see even greater abominations than these.”<small><sub>**MT:**</sub></small>
 [[Ezek.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.14|<< Ezekiel 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.16|Ezekiel 8:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You have seen, | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| you shall see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| practices | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> |
-| greater | <big><span class="asgreek">μείζονα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[than\] these. | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| You have seen, | **<big>[[G3708\|εώρακας]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| you shall see | **<big>[[G3708\|όψει]]</big>** |
+| practices | **<big>[[G7461\|επιτηδεύματα]]</big>** |
+| greater | **<big>[[G3173\|μείζονα]]</big>** |
+| \[than\] these. | **<big>[[G3778\|τούτων]]</big>** |
 [[Ezek.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.14|<< Ezekiel 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.16|Ezekiel 8:16 >>]]</td></tr></table>
 
 

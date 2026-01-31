@@ -1,4 +1,4 @@
-Greek of: <small>[[H3568H]]</small> 
+Greek of: <small>**<big>[[H3568H|כּוּשׁ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Αἰθίοψ==</span></b>, <span class='asgreek'>οπος</span>, <span class='asgreek'>ὁ</span>, 

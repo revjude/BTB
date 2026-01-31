@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָפַף‎</span></big> **ṭâphaph** <small>*(taw-faf')*</small> ==**to mince**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָפַף‎</span></big>** **ṭâphaph** <small>*(taw-faf')*</small> ==**to mince**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root; apparently</small>
 
 $\quad$ mince.

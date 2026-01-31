@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָכַךְ‎</span></big> **râkak** <small>*(raw-kak')*</small> ==**be tender**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָכַךְ‎</span></big>** **râkak** <small>*(raw-kak')*</small> ==**be tender**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (be) faint(-hearted), mollify, (be, make) soft(-er), be tender.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Pual) to be softened
 $\quad$ **1c)** (Hiphil) to cause to be weak
 $\quad$ **1d)** (Niphal) tender
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ἐντρέπω</span><sup><small>[[G1788]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup>
+<small>See Greek: </small>**<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G1788|ἐντρέπω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>**

@@ -7,31 +7,31 @@ Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab,
 a wise woman called out from the city, “Listen! Listen! Please tell Joab to come here so that I may speak with him.”<small><sub>**MT:**</sub></small>
 [[2Sam.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled out | <big><span class="asgreek">εβόησε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| a wise | <big><span class="asgreek">σοφή</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Hearken | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| indeed! | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| hearken! | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| Say | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| Approach | <big><span class="asgreek">έγγισον</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| here! | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| yelled out | **<big>[[G0994\|εβόησε]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| a wise | **<big>[[G4680\|σοφή]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Hearken | **<big>[[G0191\|ακούσατε]]</big>** |
+| indeed! | **<big>[[G1211\|δη]]</big>** |
+| hearken! | **<big>[[G0191\|ακούσατε]]</big>** |
+| Say | **<big>[[G2036\|είπατε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| Approach | **<big>[[G1448\|έγγισον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| here! | **<big>[[G5602\|ώδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Sam.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
 
 

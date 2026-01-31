@@ -11,45 +11,45 @@ And the bones of Joseph, which the Israelites had brought up out of Egypt, were 
 > $\quad$ referenced by: [[Acts.7.16|Acts 7:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| took up | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they buried \[them\] | <big><span class="asgreek">κατώρυξαν</span></big> <sup><small><small>[[G7978]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shechem, | <big><span class="asgreek">Σικίμοις</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίδι</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Jacob acquired | <big><span class="asgreek">εκτήσατο</span></big> <sup><small><small>[[G2932]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shechem | <big><span class="asgreek">Σικίμοις</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| \[for a\] hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| ewe-lambs, | <big><span class="asgreek">αμνάδων</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a portion. | <big><span class="asgreek">μερίδι</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| took up | **<big>[[G0321\|ανήγαγον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they buried \[them\] | **<big>[[G7978\|κατώρυξαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shechem, | **<big>[[G4966\|Σικίμοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| portion | **<big>[[G3310\|μερίδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| Jacob acquired | **<big>[[G2932\|εκτήσατο]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Amorites | **<big>[[H0567\|Αμορραίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shechem | **<big>[[G4966\|Σικίμοις]]</big>** |
+| \[for a\] hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| ewe-lambs, | **<big>[[G6261\|αμνάδων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| a portion. | **<big>[[G3310\|μερίδι]]</big>** |
 [[Josh.24.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
 
 

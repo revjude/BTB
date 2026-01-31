@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נִמְרוֹד‎</span></big> **Nimrôwd** <small>*(nim-rode')*</small> ==**Nimrod**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">נִמְרֹד</span> **Nimrôd** <small>*(nim-rode')*</small>; probably of foreign origin</small>
+**<big><span class="ashebrew">‎נִמְרוֹד‎</span></big>** **Nimrôwd** <small>*(nim-rode')*</small> ==**Nimrod**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">נִמְרֹד</span></big>** **Nimrôd** <small>*(nim-rode')*</small>; probably of foreign origin</small>
 
 $\quad$ Nimrod.
 - § Nimrod = *"rebellion" or "the valiant"*

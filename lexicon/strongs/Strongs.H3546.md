@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כְּהַל‎</span></big> **kᵉhal** <small>*(keh-hal')*</small> ==**be able**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) a root corresponding to and <span class="ashebrew">‎כּוּל‎</span><sup><small>[[H3557]]</small></sup></small>
+**<big><span class="asaramaic">‎כְּהַל‎</span></big>** **kᵉhal** <small>*(keh-hal')*</small> ==**be able**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) a root corresponding to and **<big>[[H3557|‎כּוּל‎]]</big>**</small>
 
 $\quad$ be able, could.
 - ***to be able***
@@ -7,4 +7,4 @@ $\quad$ be able, could.
 **1)** to be able
 $\quad$ **1a)** (P'al) to be able
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δύναμαι</span><sup><small>[[G1410]]</small></sup>
+<small>See Greek: </small>**<big>[[G1410|δύναμαι]]</big>**

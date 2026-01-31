@@ -7,41 +7,41 @@ And her merchandise and her hire shall be holiness to the LORD: it shall not be 
 Yet her profits and wages will be set apart to the LORD; they will not be stored or saved, for her profit will go to those who live before the LORD, for abundant food and fine clothing.<small><sub>**MT:**</sub></small>
 [[Isa.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.17|<< Isaiah 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.1|Isaiah 24:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trade | <big><span class="asgreek">εμπορία</span></big> <sup><small><small>[[G1711]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be brought | <big><span class="asgreek">συναχθήσεται</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[even\] all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her trade, | <big><span class="asgreek">εμπορία</span></big> <sup><small><small>[[G1711]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink, | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be filled, | <big><span class="asgreek">εμπλησθήναι</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a compact | <big><span class="asgreek">συμβολήν</span></big> <sup><small><small>[[G9257]]</small></small></sup> |
-| memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| trade | **<big>[[G1711\|εμπορία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| wage | **<big>[[G3408\|μισθός]]</big>** |
+| holy | **<big>[[G0039\|άγιος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| be brought | **<big>[[G4863\|συναχθήσεται]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούσιν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \[even\] all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her trade, | **<big>[[G1711\|εμπορία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink, | **<big>[[G4095\|πιείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be filled, | **<big>[[G1705\|εμπλησθήναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a compact | **<big>[[G9257\|συμβολήν]]</big>** |
+| memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Isa.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.17|<< Isaiah 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.1|Isaiah 24:1 >>]]</td></tr></table>
 
 

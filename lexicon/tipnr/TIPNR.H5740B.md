@@ -1,8 +1,8 @@
 <small>*Eder\_2 • A town in the Negev region of Judah.*</small>
 
 <span class='tipnrhighlight'>Eder</span>, a town located in the Negev region of Judah \([[Josh.15.21|Joshua 15:21]]\).
-- A location near Adadah<[[H5735]]> only mentioned at [[Josh.15.21|Jos.15.21]]; 
-- only referred to as Eder<[[H5740B]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Adadah **<big>[[H5735|עֲדְעָדָה]]</big>** only mentioned at [[Josh.15.21|Jos.15.21]]; 
+- only referred to as Eder **<big>[[H5740|עֵדֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.1858,34.96745&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Eder was a town situated in the Negev, the southern region of the territory allo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eder | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5740B) <small>*Hebrew*</small> | 1x | [Jos.15.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eder\*\|reference=Jos.15.21) |
-All Strong's for **Eder**: \[[[H5740B]]\]
+| Eder | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5740B) | 1x | [Jos.15.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eder\*\|reference=Jos.15.21) |
+All entries for **Eder**:  **<big>[[H5740|עֵדֶר]]</big>**

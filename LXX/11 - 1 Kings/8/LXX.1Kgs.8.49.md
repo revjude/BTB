@@ -7,27 +7,27 @@ Then hear thou their prayer and their supplication in heaven thy dwelling place,
 then may You hear from heaven, Your dwelling place, their prayer and petition, and may You uphold their cause.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall listen | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| prepared | <big><span class="asgreek">ετοίμου</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| home | <big><span class="asgreek">κατοικητηρίου</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their prayer | <big><span class="asgreek">προσευχής</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their supplication, | <big><span class="asgreek">δεήσεως</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just thing | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| for them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall listen | **<big>[[G1522\|εισακούση]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| prepared | **<big>[[G2092\|ετοίμου]]</big>** |
+| home | **<big>[[G2732\|κατοικητηρίου]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their prayer | **<big>[[G4335\|προσευχής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their supplication, | **<big>[[G1162\|δεήσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| just thing | **<big>[[G1345\|δικαίωμα]]</big>** |
+| for them, | **<big>[[G1473\|αυτών]]</big>** |
 [[1Kgs.8.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
 
 

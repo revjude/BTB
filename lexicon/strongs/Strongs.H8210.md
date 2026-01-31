@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁפַךְ‎</span></big> **shâphak** <small>*(shaw-fak')*</small> ==**to pour: pour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁפַךְ‎</span></big>** **shâphak** <small>*(shaw-fak')*</small> ==**to pour: pour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cast (up), gush out, pour (out), shed(-der, out), slip.
@@ -18,4 +18,4 @@ $\quad$ **1d)** (Hithpael)
 $\quad$ $\quad$ **1d1)** to be poured out
 $\quad$ $\quad$ **1d2)** to pour out oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάλλω</span><sup><small>[[G0906]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ἐκχέω</span><sup><small>[[G1632]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">ἐπιστρέφω</span><sup><small>[[G1994]]</small></sup> · <span class="asgreek">κυκλόω</span><sup><small>[[G2944]]</small></sup> · <span class="asgreek">περιβάλλω</span><sup><small>[[G4016]]</small></sup> · <span class="asgreek">περιποιέομαι</span><sup><small>[[G4046]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup>
+<small>See Greek: </small>**<big>[[G0906|βάλλω]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G1632|ἐκχέω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G1994|ἐπιστρέφω]]</big>** · **<big>[[G2944|κυκλόω]]</big>** · **<big>[[G4016|περιβάλλω]]</big>** · **<big>[[G4046|περιποιέομαι]]</big>** · **<big>[[G4160|ποιέω]]</big>**

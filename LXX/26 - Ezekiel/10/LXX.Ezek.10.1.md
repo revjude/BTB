@@ -10,27 +10,27 @@ Then I looked, and, behold, in the firmament that was above the head of the cher
 And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire.<small><sub>**MT:**</sub></small>
 [[Ezek.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.11|<< Ezekiel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.2|Ezekiel 10:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld, | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament | <big><span class="asgreek">στερεώματος</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| was | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of sapphire | <big><span class="asgreek">σαπφείρου</span></big> <sup><small><small>[[G4552]]</small></small></sup> |
-| a likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| of a throne | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld, | **<big>[[G1492\|ίδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| firmament | **<big>[[G4733\|στερεώματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cherubim | **<big>[[G5502\|χερουβείμ]]</big>** |
+| was | **<big>[[G5613\|ως]]</big>** |
+| stone | **<big>[[G3037\|λίθος]]</big>** |
+| of sapphire | **<big>[[G4552\|σαπφείρου]]</big>** |
+| a likeness | **<big>[[G3667\|ομοίωμα]]</big>** |
+| of a throne | **<big>[[G2362\|θρόνου]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.11|<< Ezekiel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.2|Ezekiel 10:2 >>]]</td></tr></table>
 
 

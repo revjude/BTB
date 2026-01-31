@@ -7,30 +7,30 @@ And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon;
 And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’<small><sub>**MT:**</sub></small>
 [[Judg.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.18|<< Judges 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.20|Judges 11:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Heshbon. | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| I shall go by | <big><span class="asgreek">παρελεύσομαι</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my place. | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Heshbon. | **<big>[[H2809\|Εσεβών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| I shall go by | **<big>[[G3928\|παρελεύσομαι]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my place. | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Judg.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.18|<< Judges 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.20|Judges 11:20 >>]]</td></tr></table>
 
 

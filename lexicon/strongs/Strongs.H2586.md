@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָנוּן‎</span></big> **Chânûwn** <small>*(khaw-noon')*</small> ==**Hanun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup>; favored</small>
+**<big><span class="ashebrew">‎חָנוּן‎</span></big>** **Chânûwn** <small>*(khaw-noon')*</small> ==**Hanun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>**; favored</small>
 
 $\quad$ Hanun.
 - § Hanun = *"gracious"*

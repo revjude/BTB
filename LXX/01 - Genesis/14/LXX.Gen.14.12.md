@@ -7,26 +7,26 @@ And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods,
 They also carried off Abram’s nephew Lot and his possessions, since Lot was living in Sodom.<small><sub>**MT:**</sub></small>
 [[Gen.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.11|<< Genesis 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.13|Genesis 14:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lot, | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of Abram, | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his belongings, | <big><span class="asgreek">αποσκευήν</span></big> <sup><small><small>[[G6478]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| moved -- | <big><span class="asgreek">απώχοντο</span></big> <sup><small><small>[[G6433]]</small></small></sup> |
-| for he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Sodom. | <big><span class="asgreek">Σοδόμοις</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
+| And they took | **<big>[[G2983\|έλαβον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Lot, | **<big>[[G3091\|Λωτ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of Abram, | **<big>[[H0087\|Άβραμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his belongings, | **<big>[[G6478\|αποσκευήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| moved -- | **<big>[[G6433\|απώχοντο]]</big>** |
+| for he was | **<big>[[G1510\|ην]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Sodom. | **<big>[[G4670\|Σοδόμοις]]</big>** |
 [[Gen.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.11|<< Genesis 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.13|Genesis 14:13 >>]]</td></tr></table>
 
 

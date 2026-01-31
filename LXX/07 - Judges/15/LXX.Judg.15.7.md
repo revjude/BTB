@@ -7,24 +7,24 @@ And Samson said unto them, Though ye have done this, yet will I be avenged of yo
 And Samson told them, “Because you have done this, I will not rest until I have taken vengeance upon you.”<small><sub>**MT:**</sub></small>
 [[Judg.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.6|<< Judges 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.8|Judges 15:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| Since | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should do | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I shall not think well, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευδοκήσω</span></big> <sup><small><small>[[G2106]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my vengeance | <big><span class="asgreek">εκδίκησίν</span></big> <sup><small><small>[[G1557]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| each | <big><span class="asgreek">εκάστου</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will execute | <big><span class="asgreek">ποιήσομαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Samson | **<big>[[G4546\|Σαμψών]]</big>** |
+| Since | **<big>[[G1437\|εάν]]</big>** |
+| you should do | **<big>[[G4160\|ποιήσητε]]</big>** |
+| thus, | **<big>[[G3779\|ούτως]]</big>** |
+| I shall not think well, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2106\|ευδοκήσω]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my vengeance | **<big>[[G1557\|εκδίκησίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1537\|εξ]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| each | **<big>[[G1538\|εκάστου]]</big>** |
+| of you | **<big>[[G1473\|υμών]]</big>** |
+| I will execute | **<big>[[G4160\|ποιήσομαι]]</big>** |
 [[Judg.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.6|<< Judges 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.8|Judges 15:8 >>]]</td></tr></table>
 
 

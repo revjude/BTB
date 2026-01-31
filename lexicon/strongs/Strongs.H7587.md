@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁאוּלִי‎</span></big> **Shâʼûwlîy** <small>*(shaw-oo-lee')*</small> ==**Shaulite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎שִׂטְנָה‎</span><sup><small>[[H7856]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁאוּלִי‎</span></big>** **Shâʼûwlîy** <small>*(shaw-oo-lee')*</small> ==**Shaulite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H7856|‎שִׂטְנָה‎]]</big>**</small>
 
 $\quad$ Shaulites.
 - § Shaulites = *see Saul "desired"*

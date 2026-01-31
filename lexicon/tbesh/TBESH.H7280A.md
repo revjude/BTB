@@ -1,1 +1,0 @@
-<span class="ashebrew">‎רָגַע‎</span> <small>***(ra.ga)***</small> ==**to disturb**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

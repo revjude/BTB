@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H6633]]</small>
+<small>Hebrew form: **<big>[[H6633|צָבָא]]</big>**</small>
 <span class="bdbLangHebrew">‎<big>צ</big>‎</span> [<span class="bdbLangAramaic">‎צְבָא‎</span>] **verb** ==be inclined, desire, be pleased== ([[BDB#Tg|ᵑ7]] Syriac; compare Biblical Hebrew II.  <span class="bdbLangHebrew">‎צבה‎</span>); — 
 
 **Pe\`al 1.** ***desire:*** ***Perfect*** 1 singular <span class="bdbLangAramaic">‎צְבִית‎</span> ([[BDB#Kau|K]]<sup>§ 47 Beisp. 1</sup>) ***a)*** [[BDB#Nö|Nö]]<sup>GGA, 1884, 1019</sup> perfect intransitive) [[Dan.7.19|Dan 7:19]] (c. infinitive). 

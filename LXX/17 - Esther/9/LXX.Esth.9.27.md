@@ -7,42 +7,42 @@ The Jews ordained, and took upon them, and upon their seed, and upon all such as
 the Jews bound themselves to establish the custom that they and their descendants and all who join them should not fail to celebrate these two days at the appointed time each and every year, according to their regulation.<small><sub>**MT:**</sub></small>
 [[Esth.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| favorably received \[it\] | <big><span class="asgreek">προσεδέχοντο</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαιοι</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| for | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| themselves, | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their seed, | <big><span class="asgreek">σπέρματι</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| purposed | <big><span class="asgreek">προτεθειμένοις</span></big> <sup><small><small>[[G4388]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them \[to observe it\] -- | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| in fact | <big><span class="asgreek">μην</span></big> <sup><small><small>[[G3375]]</small></small></sup> |
-| otherwise | <big><span class="asgreek">άλλως</span></big> <sup><small><small>[[G0247]]</small></small></sup> |
-| shall they treat \[it\] | <big><span class="asgreek">χρήσονται</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| And | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| these days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] a memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| being completed | <big><span class="asgreek">επιτελουμενον</span></big> <sup><small><small>[[G2005]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεαν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation, | <big><span class="asgreek">γενεαν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| family, | <big><span class="asgreek">πατριαν</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place. | <big><span class="asgreek">χωραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| favorably received \[it\] | **<big>[[G4327\|προσεδέχοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαιοι]]</big>** |
+| for | **<big>[[G1909\|εφ΄]]</big>** |
+| themselves, | **<big>[[G1438\|εαυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their seed, | **<big>[[G4690\|σπέρματι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| purposed | **<big>[[G4388\|προτεθειμένοις]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| them \[to observe it\] -- | **<big>[[G1473\|αυτών]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| in fact | **<big>[[G3375\|μην]]</big>** |
+| otherwise | **<big>[[G0247\|άλλως]]</big>** |
+| shall they treat \[it\] | **<big>[[G5530\|χρήσονται]]</big>** |
+| And | **<big>[[G3588\|αι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| these days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G3778\|αύται]]</big>** |
+| \[were\] a memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| being completed | **<big>[[G2005\|επιτελουμενον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| generation | **<big>[[G1074\|γενεαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation, | **<big>[[G1074\|γενεαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| family, | **<big>[[G3965\|πατριαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| place. | **<big>[[G5561\|χωραν]]</big>** |
 [[Esth.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
 

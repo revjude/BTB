@@ -6,14 +6,14 @@ the descendants of Lebanah, the descendants of Hagabah, the descendants of Akkub
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.44|<< Ezra 2:44]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.46|Ezra 2:46 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebanah  | <span class="ashebrew"><big>לְבָנָ֥ה </big></span><small><small><sup>[[H3838]]</sup></small></small> &#8207;| le.va.Nah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hagabah  | <span class="ashebrew"><big>חֲגָבָ֖ה </big></span><small><small><sup>[[H2286B]]</sup></small></small> &#8207;| cha.ga.Vah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Akkub  | <span class="ashebrew"><big>עַקּֽוּב </big></span><small><small><sup>[[H6126I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Kuv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebanah  |**<big>&#8207;[[H3838\|לְבָנָ֥ה]]&#8207; </big>**| le.va.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hagabah  |**<big>&#8207;[[H2286B\|חֲגָבָ֖ה]]&#8207; </big>**| cha.ga.Vah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Akkub  |**<big>&#8207;[[H6126I\|עַקּֽוּב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Kuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.44|<< Ezra 2:44]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.46|Ezra 2:46 >>]]</td></tr></table>
 
 

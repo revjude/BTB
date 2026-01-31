@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָשַׁע‎</span></big> **yâshaʻ** <small>*(yaw-shah')*</small> ==**to save**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָשַׁע‎</span></big>** **yâshaʻ** <small>*(yaw-shah')*</small> ==**to save**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] at all, avenging, defend, deliver(-er), help, preserve, rescue, be safe, bring (having) salvation, save(-iour), get victory.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to save, deliver
 $\quad$ $\quad$ **1b2)** to save from moral troubles
 $\quad$ $\quad$ **1b3)** to give victory to
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμύνομαι</span><sup><small>[[G0292]]</small></sup> · <span class="asgreek">βοηθέω</span><sup><small>[[G0997]]</small></sup> · <span class="asgreek">βοηθός</span><sup><small>[[G0998]]</small></sup> · <span class="asgreek">διασώζω</span><sup><small>[[G1295]]</small></sup> · <span class="asgreek">εἰσακούω</span><sup><small>[[G1522]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">ῥύομαι</span><sup><small>[[G4506]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup> · <span class="asgreek">σωτήρ</span><sup><small>[[G4990]]</small></sup> · <span class="asgreek">ὡσαννά</span><sup><small>[[G5614]]</small></sup>
+<small>See Greek: </small>**<big>[[G0292|ἀμύνομαι]]</big>** · **<big>[[G0997|βοηθέω]]</big>** · **<big>[[G0998|βοηθός]]</big>** · **<big>[[G1295|διασώζω]]</big>** · **<big>[[G1522|εἰσακούω]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4506|ῥύομαι]]</big>** · **<big>[[G4982|σώζω]]</big>** · **<big>[[G4990|σωτήρ]]</big>** · **<big>[[G5614|ὡσαννά]]</big>**

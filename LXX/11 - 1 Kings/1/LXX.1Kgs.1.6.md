@@ -7,32 +7,32 @@ And his father had not displeased him at any time in saying, Why hast thou done 
 (His father had never once reprimanded him by saying, “Why do you act this way?” Adonijah was also very handsome, born next after Absalom.)<small><sub>**MT:**</sub></small>
 [[1Kgs.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.5|<< 1 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.7|1 Kings 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| make a reproach | <big><span class="asgreek">επιτίμησεν</span></big> <sup><small><small>[[G2008]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at any time, | <big><span class="asgreek">πώποτε</span></big> <sup><small><small>[[G4455]]</small></small></sup> |
-| saying, | <big><span class="asgreek">ειπών</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Why \[is it\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| have you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| done | <big><span class="asgreek">πεποίηκας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus? | <big><span class="asgreek">ουτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] good | <big><span class="asgreek">καλός</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in appearance, | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was born | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| make a reproach | **<big>[[G2008\|επιτίμησεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| at any time, | **<big>[[G4455\|πώποτε]]</big>** |
+| saying, | **<big>[[G2036\|ειπών]]</big>** |
+| Why \[is it\] | **<big>[[G5100\|τι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| have you | **<big>[[G1473\|συ]]</big>** |
+| done | **<big>[[G4160\|πεποίηκας]]</big>** |
+| thus? | **<big>[[G3779\|ουτως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| \[was\] good | **<big>[[G2570\|καλός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in appearance, | **<big>[[G3799\|όψει]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτόν]]</big>** |
+| was born | **<big>[[G5088\|έτεκεν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
 [[1Kgs.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.5|<< 1 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.7|1 Kings 1:7 >>]]</td></tr></table>
 
 

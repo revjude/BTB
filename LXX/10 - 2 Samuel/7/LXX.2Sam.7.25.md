@@ -7,31 +7,31 @@ And now, O LORD God, the word that thou hast spoken concerning thy servant, and 
 And now, O LORD God, confirm forever the word You have spoken concerning Your servant and his house. Do as You have promised,<small><sub>**MT:**</sub></small>
 [[2Sam.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.24|<< 2 Samuel 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.26|2 Samuel 7:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| O my Lord, | <big><span class="asgreek">κύριέ</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant, | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| confirm \[it\] as trustworthy | <big><span class="asgreek">πίστωσον</span></big> <sup><small><small>[[G4104]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon! | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| you spoke, | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| do! | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| O my Lord, | **<big>[[G2962\|κύριέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| you spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your servant, | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his house, | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| confirm \[it\] as trustworthy | **<big>[[G4104\|πίστωσον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon! | **<big>[[G0165\|αιώνος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| you spoke, | **<big>[[G2980\|ελάλησας]]</big>** |
+| do! | **<big>[[G4160\|ποίησον]]</big>** |
 [[2Sam.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.24|<< 2 Samuel 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.26|2 Samuel 7:26 >>]]</td></tr></table>
 
 

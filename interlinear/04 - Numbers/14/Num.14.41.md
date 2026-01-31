@@ -6,20 +6,20 @@ But Moses said, “Why are you transgressing the commandment of the LORD? This w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.40|<< Numbers 14:40]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.42|Numbers 14:42 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> why?  | <span class="ashebrew"><big>לָ֥ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶּ֛ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] you  | <span class="ashebrew"><big>אַתֶּ֥ם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| 'a.Tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgressing  | <span class="ashebrew"><big>עֹבְרִ֖ים </big></span><small><small><sup>[[H5674D]]</sup></small></small> &#8207;| 'oe.Rim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mouth of  | <span class="ashebrew"><big>פִּ֣י </big></span><small><small><sup>[[H6310I]]</sup></small></small> &#8207;| pi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִ֖וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hiv' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will succeed  | <span class="ashebrew"><big>תִצְלָֽח </big></span><small><small><sup>[[H6743B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| titz.Lach <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> why?  |**<big>&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶּ֛ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  |**<big>&#8207;[[H0859D\|אַתֶּ֥ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgressing  |**<big>&#8207;[[H5674D\|עֹבְרִ֖ים]]&#8207; </big>**| 'oe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  |**<big>&#8207;[[H6310I\|פִּ֣י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הִ֖וא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hiv'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will succeed  |**<big>&#8207;[[H6743B\|תִצְלָֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| titz.Lach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.40|<< Numbers 14:40]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.42|Numbers 14:42 >>]]</td></tr></table>
 
 

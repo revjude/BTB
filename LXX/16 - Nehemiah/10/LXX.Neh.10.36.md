@@ -7,37 +7,37 @@ Also the firstborn of our sons, and of our cattle, as [it is] written in the law
 And we will bring the firstborn of our sons and our livestock, as it is written in the Law, and will bring the firstborn of our herds and flocks to the house of our God, to the priests who minister in the house of our God.<small><sub>**MT:**</sub></small>
 [[Neh.10.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.35|<< Nehemiah 10:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.37|Nehemiah 10:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of our sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of our cattle, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[is\] written | <big><span class="asgreek">γέγραπται</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law, | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of our flocks, | <big><span class="asgreek">ποιμνίων</span></big> <sup><small><small>[[G4168]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to bring | <big><span class="asgreek">ενέγκαι</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of our God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones officiating | <big><span class="asgreek">λειτουργούσιν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of our God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| of our sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of our cattle, | **<big>[[G2934\|κτηνών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[is\] written | **<big>[[G1125\|γέγραπται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| law, | **<big>[[G3551\|νόμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our oxen, | **<big>[[G1016\|βοών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of our flocks, | **<big>[[G4168\|ποιμνίων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to bring | **<big>[[G5342\|ενέγκαι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of our God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| priests, | **<big>[[G2409\|ιερεύσι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| ones officiating | **<big>[[G3008\|λειτουργούσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of our God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Neh.10.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.35|<< Nehemiah 10:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.37|Nehemiah 10:37 >>]]</td></tr></table>
 
 

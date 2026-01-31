@@ -6,14 +6,14 @@ You will lie down without fear, and many will court your favor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.18|<< Job 11:18]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.20|Job 11:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will lie down  | <span class="ashebrew"><big>וְֽ֭ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>רָבַצְתָּ </big></span><small><small><sup>[[H7257]]</sup></small></small> &#8207;| Ve. <small><sup>[[Hc]]</sup></small> ra.vatz.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be one who] disturbs  | <span class="ashebrew"><big>מַחֲרִ֑יד </big></span><small><small><sup>[[H2729]]</sup></small></small> &#8207;| ma.cha.Rid <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will entreat  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>חִלּ֖וּ </big></span><small><small><sup>[[H2470B]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> chi.Lu <small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face your  | <span class="ashebrew"><big>פָנֶ֣י </big></span><small><small><sup>[[H6440L]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| fa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many [people]  | <span class="ashebrew"><big>רַבִּֽים </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will lie down  |**<big>&#8207;[[H9001\|וְֽ֭]]&#8207;&#8207;[[H7257\|רָבַצְתָּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ra.vatz.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be one who] disturbs  |**<big>&#8207;[[H2729\|מַחֲרִ֑יד]]&#8207; </big>**| ma.cha.Rid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will entreat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2470B\|חִלּ֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Lu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  |**<big>&#8207;[[H6440L\|פָנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many [people]  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.18|<< Job 11:18]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.20|Job 11:20 >>]]</td></tr></table>
 
 

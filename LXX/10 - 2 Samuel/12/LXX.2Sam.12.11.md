@@ -7,38 +7,38 @@ Thus saith the LORD, Behold, I will raise up evil against thee out of thine own 
 This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight.<small><sub>**MT:**</sub></small>
 [[2Sam.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.10|<< 2 Samuel 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.12|2 Samuel 12:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall awaken | <big><span class="asgreek">εξεγείρω</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall take | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wives | <big><span class="asgreek">γυναίκάς</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give \[them\] | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall go to bed | <big><span class="asgreek">κοιμηθήσεται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wives | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this sun. | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall awaken | **<big>[[G1825\|εξεγείρω]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| evils | **<big>[[G2556\|κακά]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your house, | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall take | **<big>[[G2983\|λήψομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your wives | **<big>[[G1135\|γυναίκάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give \[them\] | **<big>[[G1325\|δώσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall go to bed | **<big>[[G2837\|κοιμηθήσεται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your wives | **<big>[[G1135\|γυναικών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this sun. | **<big>[[G2246\|ηλίου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[2Sam.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.10|<< 2 Samuel 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.12|2 Samuel 12:12 >>]]</td></tr></table>
 
 

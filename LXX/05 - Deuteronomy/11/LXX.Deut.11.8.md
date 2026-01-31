@@ -7,37 +7,37 @@ Therefore shall ye keep all the commandments which I command you this day, that 
 You shall therefore keep every commandment I am giving you today, so that you may have the strength to go in and possess the land that you are crossing the Jordan to possess,<small><sub>**MT:**</sub></small>
 [[Deut.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.7|<< Deuteronomy 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.9|Deuteronomy 11:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall guard | <big><span class="asgreek">φυλάξεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge | <big><span class="asgreek">εντέλλομαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should live, | <big><span class="asgreek">ζήτε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should manifoldly multiply, | <big><span class="asgreek">πολυπλασιασθήτε</span></big> <sup><small><small>[[G8853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should enter, | <big><span class="asgreek">εισέλθητε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should inherit | <big><span class="asgreek">κληρονομησήτε</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pass over | <big><span class="asgreek">διαβαίνετε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall guard | **<big>[[G5442\|φυλάξεσθε]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of his commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as many as | **<big>[[G3745\|όσας]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge | **<big>[[G1781\|εντέλλομαι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should live, | **<big>[[G2198\|ζήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should manifoldly multiply, | **<big>[[G8853\|πολυπλασιασθήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should enter, | **<big>[[G1525\|εισέλθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should inherit | **<big>[[G2816\|κληρονομησήτε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| pass over | **<big>[[G1224\|διαβαίνετε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| it; | **<big>[[G1473\|αυτήν]]</big>** |
 [[Deut.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.7|<< Deuteronomy 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.9|Deuteronomy 11:9 >>]]</td></tr></table>
 
 

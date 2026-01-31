@@ -7,18 +7,18 @@ And next unto them repaired Rephaiah the son of Hur, the ruler of the half part 
 Next to them, Rephaiah son of Hur, ruler of a half-district of Jerusalem, made repairs;<small><sub>**MT:**</sub></small>
 [[Neh.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.8|<< Nehemiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.10|Nehemiah 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Rephaiah repaired, | <big><span class="asgreek">εκραταίωσεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Ραφαϊας</span></big> <sup><small><small>[[H7509]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hur, | <big><span class="asgreek">Σουρ</span></big> <sup><small><small>[[H6698]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of \[the\] place round about | <big><span class="asgreek">περιχώρου</span></big> <sup><small><small>[[G4066]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| their hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Rephaiah repaired, | **<big>[[G2902\|εκραταίωσεν]]</big>** **<big>[[H7509\|Ραφαϊας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Hur, | **<big>[[H6698\|Σουρ]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of half | **<big>[[G2255\|ημίσους]]</big>** |
+| of \[the\] place round about | **<big>[[G4066\|περιχώρου]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Neh.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.8|<< Nehemiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.10|Nehemiah 3:10 >>]]</td></tr></table>
 
 

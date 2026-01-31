@@ -7,38 +7,38 @@ And the glory of the LORD abode upon mount Sinai, and the cloud covered it six d
 and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud.<small><sub>**MT:**</sub></small>
 [[Exod.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.15|<< Exodus 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.17|Exodus 24:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sinai, | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud. | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came down | **<big>[[G2597\|κατέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Sinai, | **<big>[[H6790\|Σινά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covered | **<big>[[G2572\|εκάλυψεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> called | **<big>[[G2564\|εκάλεσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| cloud. | **<big>[[G3507\|νεφέλης]]</big>** |
 [[Exod.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.15|<< Exodus 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.17|Exodus 24:17 >>]]</td></tr></table>
 
 

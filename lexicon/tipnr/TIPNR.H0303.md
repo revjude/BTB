@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ahlab</span> \(Mahalab\), a city in Asher's territory, not conquered by the Israelites.
 - A location first mentioned at [[Judg.1.31|Jdg.1.31]]; 
-- referred to as Ahlab<[[H0303]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ב</span>\), or Mahalab \(KJV= "coast," NIV= "region"\) <[[H2256A]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Ahlab **<big>[[H0303|אַחְלָב]]</big>**, or Mahalab \(KJV= "coast," NIV= "region"\)  **<big>[[H2256|חֶבֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.02498036359259,35.44544657992798&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,6 +12,6 @@ This failure to completely conquer and possess the allotted territory was a comm
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahlab | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0303) <small>*Hebrew*</small> | 1x | [Jdg.1.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahlab\*\|reference=Jdg.1.31) |
-| Mahalab (KJV= coast; NIV= region) | [<span class='tipnrLangHebrew'>ח</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H2256A) <small>*Hebrew*</small> | 1x | [Jos.19.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mahalab\*\|reference=Jos.19.29) |
-All Strong's for **Ahlab or Mahalab**: \[[[H0303]]\] \[[[H2256A]]\]
+| Ahlab | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0303) | 1x | [Jdg.1.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahlab\*\|reference=Jdg.1.31) |
+| Mahalab (KJV= coast; NIV= region) | [<span class='tipnrLangHebrew'>ח</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H2256A) | 1x | [Jos.19.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mahalab\*\|reference=Jos.19.29) |
+All entries for **Ahlab or Mahalab**:  **<big>[[H0303|אַחְלָב]]</big>** ☩  **<big>[[H2256|חֶבֶל]]</big>**

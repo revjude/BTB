@@ -7,26 +7,26 @@ And Samuel said, What [meaneth] then this bleating of the sheep in mine ears, an
 But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”<small><sub>**MT:**</sub></small>
 [[1Sam.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.13|<< 1 Samuel 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.15|1 Samuel 15:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this flock | <big><span class="asgreek">ποιμνίου</span></big> <sup><small><small>[[G4168]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ears, | <big><span class="asgreek">ωσί</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| of which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear? | <big><span class="asgreek">ακούω</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this flock | **<big>[[G4168\|ποιμνίου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my ears, | **<big>[[G3775\|ωσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| oxen | **<big>[[G1016\|βοών]]</big>** |
+| of which | **<big>[[G3739\|ων]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| hear? | **<big>[[G0191\|ακούω]]</big>** |
 [[1Sam.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.13|<< 1 Samuel 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.15|1 Samuel 15:15 >>]]</td></tr></table>
 
 

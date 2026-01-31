@@ -7,46 +7,46 @@ See, for that the LORD hath given you the sabbath, therefore he giveth you on th
 Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”<small><sub>**MT:**</sub></small>
 [[Exod.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.28|<< Exodus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.30|Exodus 16:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| See! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sabbath | <big><span class="asgreek">σάββατα</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sixth | <big><span class="asgreek">έκτη</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| \[for\] two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| sit down | <big><span class="asgreek">καθίσασθε</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| himself! | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Not one | <big><span class="asgreek">μηδείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| go forth | <big><span class="asgreek">εκπορευέσθω</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| during the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| See! | **<big>[[G1492\|ίδετε]]</big>** |
+| for the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| Sabbath | **<big>[[G4521\|σάββατα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| sixth | **<big>[[G1623\|έκτη]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| \[for\] two | **<big>[[G1417\|δύο]]</big>** |
+| days. | **<big>[[G2250\|ημερών]]</big>** |
+| sit down | **<big>[[G2521\|καθίσασθε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your houses | **<big>[[G3624\|οίκους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| himself! | **<big>[[G1438\|εαυτώ]]</big>** |
+| Not one | **<big>[[G3367\|μηδείς]]</big>** |
+| of you | **<big>[[G1473\|υμών]]</big>** |
+| go forth | **<big>[[G1607\|εκπορευέσθω]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his place | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| during the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
 [[Exod.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.28|<< Exodus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.30|Exodus 16:30 >>]]</td></tr></table>
 
 

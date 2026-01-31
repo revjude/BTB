@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nebuzaradan</span>, the captain of the Babylonian guard, oversaw the destruction of Jerusalem, the exile of its inhabitants, and the release of Jeremiah.
 - A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.25.8|2Ki.25.8]]; 
-- only referred to as Nebuzaradan<[[H5018]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Nebuzaradan **<big>[[H5018|נְבוּזַרְאֲדָן]]</big>**.
 
 Nebuzaradan was a high-ranking Babylonian military officer who served as the captain of the guard under King Nebuchadnezzar II. He played a significant role in the events surrounding the fall of Jerusalem and the subsequent exile of the Judeans to Babylon in 586 BC. 
 
@@ -20,5 +20,5 @@ As the captain of the guard, Nebuzaradan was a powerful and influential figure i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nebuzaradan | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5018) <small>*Hebrew*</small> | 15x | [[2Ki.25.8] ... [Jer.52.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebuzaradan\*\|reference=2Ki.25.8;2Ki.25.11;2Ki.25.20;Jer.39.9;Jer.39.10;Jer.39.11;Jer.39.13;Jer.40.1;Jer.41.10;Jer.43.6;Jer.52.12;Jer.52.15;Jer.52.16;Jer.52.26;Jer.52.30) |
-All Strong's for **Nebuzaradan**: \[[[H5018]]\]
+| Nebuzaradan | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5018) | 15x | [[2Ki.25.8] ... [Jer.52.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebuzaradan\*\|reference=2Ki.25.8;2Ki.25.11;2Ki.25.20;Jer.39.9;Jer.39.10;Jer.39.11;Jer.39.13;Jer.40.1;Jer.41.10;Jer.43.6;Jer.52.12;Jer.52.15;Jer.52.16;Jer.52.26;Jer.52.30) |
+All entries for **Nebuzaradan**:  **<big>[[H5018|נְבוּזַרְאֲדָן]]</big>**

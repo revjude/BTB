@@ -7,18 +7,18 @@ If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
 If I sinned, You would take note, and would not acquit me of my iniquity.<small><sub>**MT:**</sub></small>
 [[Job.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.13|<< Job 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.15|Job 10:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| I should sin, | <big><span class="asgreek">αμάρτω</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| you guard | <big><span class="asgreek">φυλάσσεις</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| innocent | <big><span class="asgreek">αθώόν</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| appointed | <big><span class="asgreek">πεποίηκας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| For if | **<big>[[G1437\|εάν]]</big>** **<big>[[G5037\|τε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| I should sin, | **<big>[[G0264\|αμάρτω]]</big>** |
+| you guard | **<big>[[G5442\|φυλάσσεις]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| but from | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίας]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| innocent | **<big>[[G0121\|αθώόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| appointed | **<big>[[G4160\|πεποίηκας]]</big>** |
 [[Job.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.13|<< Job 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.15|Job 10:15 >>]]</td></tr></table>
 
 

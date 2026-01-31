@@ -7,29 +7,29 @@ I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I 
 I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed.<small><sub>**MT:**</sub></small>
 [[Dan.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| Of desirable | <big><span class="asgreek">επιθυμιών</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| I ate not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth, | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an anointing | <big><span class="asgreek">άλειμμα</span></big> <sup><small><small>[[G6221]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| anoint \[with\] | <big><span class="asgreek">ηλειψάμην</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] fullness | <big><span class="asgreek">πληρώσεως</span></big> <sup><small><small>[[G8815]]</small></small></sup> |
-| of \[the\] three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| period of sevens | <big><span class="asgreek">εβδομάδων</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| of days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| Of desirable | **<big>[[G1939\|επιθυμιών]]</big>** |
+| I ate not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| meat | **<big>[[G2907\|κρέας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| go | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth, | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an anointing | **<big>[[G6221\|άλειμμα]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| anoint \[with\] | **<big>[[G0218\|ηλειψάμην]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[the\] fullness | **<big>[[G8815\|πληρώσεως]]</big>** |
+| of \[the\] three | **<big>[[G5140\|τριών]]</big>** |
+| period of sevens | **<big>[[G6988\|εβδομάδων]]</big>** |
+| of days. | **<big>[[G2250\|ημερών]]</big>** |
 [[Dan.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
 

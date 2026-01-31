@@ -7,27 +7,27 @@ For, behold, the darkness shall cover the earth, and gross darkness the people: 
 For behold, darkness covers the earth, and thick darkness is over the peoples; but the LORD will rise upon you, and His glory will appear over you.<small><sub>**MT:**</sub></small>
 [[Isa.60.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.1|<< Isaiah 60:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.3|Isaiah 60:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| shall cover | <big><span class="asgreek">καλύψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| \[the\] earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a dimness | <big><span class="asgreek">γνόφος</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| nations; | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall appear | <big><span class="asgreek">φανήσεται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be seen | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| shall cover | **<big>[[G2572\|καλύψει]]</big>** |
+| \[the\] earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a dimness | **<big>[[G1105\|γνόφος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| nations; | **<big>[[G1484\|έθνη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| shall appear | **<big>[[G5316\|φανήσεται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| shall be seen | **<big>[[G3708\|οφθήσεται]]</big>** |
 [[Isa.60.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.1|<< Isaiah 60:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.3|Isaiah 60:3 >>]]</td></tr></table>
 
 

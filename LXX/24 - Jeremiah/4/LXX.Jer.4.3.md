@@ -7,27 +7,27 @@ For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow 
 For this is what the LORD says to the men of Judah and Jerusalem: “Break up your unplowed ground, and do not sow among the thorns.<small><sub>**MT:**</sub></small>
 [[Jer.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.2|<< Jeremiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.4|Jeremiah 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδράσιν</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Plow | <big><span class="asgreek">νεώσατε</span></big> <sup><small><small>[[G8386]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| fields prepared for plowing! | <big><span class="asgreek">νεώματα</span></big> <sup><small><small>[[G8393]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| sow | <big><span class="asgreek">σπείρητε</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| among | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| thorn-bushes. | <big><span class="asgreek">ακάνθαις</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| men | **<big>[[G0435\|ανδράσιν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούσιν]]</big>** |
+| in Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Plow | **<big>[[G8386\|νεώσατε]]</big>** |
+| to yourselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| fields prepared for plowing! | **<big>[[G8393\|νεώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| sow | **<big>[[G4687\|σπείρητε]]</big>** |
+| among | **<big>[[G1909\|επ΄]]</big>** |
+| thorn-bushes. | **<big>[[G0173\|ακάνθαις]]</big>** |
 [[Jer.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.2|<< Jeremiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.4|Jeremiah 4:4 >>]]</td></tr></table>
 
 

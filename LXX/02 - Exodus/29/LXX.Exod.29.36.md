@@ -7,34 +7,34 @@ And thou shalt offer every day a bullock [for] a sin offering for atonement: and
 Sacrifice a bull as a sin offering each day for atonement. Purify the altar by making atonement for it, and anoint it to consecrate it.<small><sub>**MT:**</sub></small>
 [[Exod.29.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.35|<< Exodus 29:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.37|Exodus 29:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young calf, | <big><span class="asgreek">μοσχάριον</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of cleansing. | <big><span class="asgreek">καθαρισμού</span></big> <sup><small><small>[[G2512]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall cleanse | <big><span class="asgreek">καθαριείς</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sanctifying | <big><span class="asgreek">αγιάζειν</span></big> <sup><small><small>[[G0037]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall anoint | <big><span class="asgreek">χρίσεις</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάσαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| young calf, | **<big>[[G8349\|μοσχάριον]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσεις]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of cleansing. | **<big>[[G2512\|καθαρισμού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall cleanse | **<big>[[G2511\|καθαριείς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your sanctifying | **<big>[[G0037\|αγιάζειν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall anoint | **<big>[[G5548\|χρίσεις]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.29.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.35|<< Exodus 29:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.37|Exodus 29:37 >>]]</td></tr></table>
 
 

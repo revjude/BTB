@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עַקְרָב‎</span></big> **ʻaqrâb** <small>*(ak-rawb')*</small> ==**scorpion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎עַקְרָב‎</span></big>** **ʻaqrâb** <small>*(ak-rawb')*</small> ==**scorpion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ scorpion.
@@ -7,4 +7,4 @@ $\quad$ scorpion.
 
 **1)** scorpion
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σκορπίος</span><sup><small>[[G4651]]</small></sup>
+<small>See Greek: </small>**<big>[[G4651|σκορπίος]]</big>**

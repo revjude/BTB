@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶלְעָזָר‎</span></big> **ʼElʻâzâr** <small>*(el-aw-zawr')*</small> ==**Eleazar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup>; God (is) helper</small>
+**<big><span class="ashebrew">‎אֶלְעָזָר‎</span></big>** **ʼElʻâzâr** <small>*(el-aw-zawr')*</small> ==**Eleazar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H5826|‎עָזַר‎]]</big>**; God (is) helper</small>
 
 $\quad$ Eleazar.
 - § Eleazar = *"God has helped"*
@@ -12,4 +12,4 @@ $\quad$ Eleazar.
 **5)** a Levite
 **6)** one of the line of Parosh
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐλεάζαρ</span><sup><small>[[G1648]]</small></sup> · <span class="asgreek">Λάζαρος</span><sup><small>[[G2976]]</small></sup>
+<small>See Greek: </small>**<big>[[G1648|Ἐλεάζαρ]]</big>** · **<big>[[G2976|Λάζαρος]]</big>**

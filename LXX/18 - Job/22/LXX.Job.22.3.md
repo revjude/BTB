@@ -7,24 +7,24 @@ For what does it concern the <span class="smallcaps">lord</span> if you were  bl
 Does it delight the Almighty that you are righteous? Does He profit if your ways are blameless?<small><sub>**MT:**</sub></small>
 [[Job.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.2|<< Job 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.4|Job 22:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| does it concern | <big><span class="asgreek">μέλει</span></big> <sup><small><small>[[G3199]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| blameless | <big><span class="asgreek">άμεμπτος</span></big> <sup><small><small>[[G0273]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[what\] benefit | <big><span class="asgreek">ωφέλεια</span></big> <sup><small><small>[[G5622]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you simplify | <big><span class="asgreek">απλώσης</span></big> <sup><small><small>[[G6416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your way? | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For what | **<big>[[G5100\|τι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| does it concern | **<big>[[G3199\|μέλει]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| were | **<big>[[G1510\|ήσθα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| in works | **<big>[[G2041\|έργοις]]</big>** |
+| blameless | **<big>[[G0273\|άμεμπτος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \[what\] benefit | **<big>[[G5622\|ωφέλεια]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you simplify | **<big>[[G6416\|απλώσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your way? | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Job.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.2|<< Job 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.4|Job 22:4 >>]]</td></tr></table>
 
 

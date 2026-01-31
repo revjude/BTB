@@ -7,25 +7,25 @@ Thus will I cause lewdness to cease out of the land, that all women may be taugh
 So I will put an end to indecency in the land, and all the women will be admonished not to imitate your behavior.<small><sub>**MT:**</sub></small>
 [[Ezek.23.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.47|<< Ezekiel 23:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.49|Ezekiel 23:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \[the\] impiety | <big><span class="asgreek">ασέβειαν</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be corrected | <big><span class="asgreek">παιδευθήσονται</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they do | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their impious deeds. | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| \[the\] impiety | **<big>[[G0763\|ασέβειαν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be corrected | **<big>[[G3811\|παιδευθήσονται]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| women | **<big>[[G1135\|γυναίκες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they do | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their impious deeds. | **<big>[[G0763\|ασεβείας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.23.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.47|<< Ezekiel 23:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.49|Ezekiel 23:49 >>]]</td></tr></table>
 
 

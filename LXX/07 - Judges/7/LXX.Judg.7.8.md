@@ -7,39 +7,39 @@ So the people took victuals in their hand, and their trumpets: and he sent all [
 So Gideon sent the rest of the Israelites to their tents but kept the three hundred men, who took charge of the provisions and rams’ horns of the others. And the camp of Midian lay below him in the valley.<small><sub>**MT:**</sub></small>
 [[Judg.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.7|<< Judges 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.9|Judges 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| provision | <big><span class="asgreek">επισιτισμόν</span></big> <sup><small><small>[[G1979]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their horns. | <big><span class="asgreek">κερατίνας</span></big> <sup><small><small>[[G7998]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| he sent out | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tent, | <big><span class="asgreek">σκήνωμα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίων</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| he kept. | <big><span class="asgreek">εκράτησεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| And the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of Midian | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| underneath him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| valley. | <big><span class="asgreek">κοιλάδι</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| provision | **<big>[[G1979\|επισιτισμόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their horns. | **<big>[[G7998\|κερατίνας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| he sent out | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his tent, | **<big>[[G4638\|σκήνωμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and the | **<big>[[G3588\|των]]</big>** **<big>[[G1161\|δε]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίων]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| he kept. | **<big>[[G2902\|εκράτησεν]]</big>** |
+| And the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολή]]</big>** |
+| of Midian | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| underneath him | **<big>[[G1473\|αυτού]]</big>** **<big>[[G5270\|υποκάτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| valley. | **<big>[[G8038\|κοιλάδι]]</big>** |
 [[Judg.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.7|<< Judges 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.9|Judges 7:9 >>]]</td></tr></table>
 
 

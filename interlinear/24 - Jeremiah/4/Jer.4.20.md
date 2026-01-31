@@ -6,21 +6,21 @@ Disaster after disaster is proclaimed, for the whole land is laid waste. My tent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.19|<< Jeremiah 4:19]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.21|Jeremiah 4:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| destruction  | <span class="ashebrew"><big>שֶׁ֤בֶר </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| She.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| destruction  | <span class="ashebrew"><big>שֶׁ֙בֶר֙ </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| she.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been proclaimed  | <span class="ashebrew"><big>נִקְרָ֔א </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| nik.Ra' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been devastated  | <span class="ashebrew"><big>שֻׁדְּדָ֖ה </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| shu.de.Dah <small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suddenly  | <span class="ashebrew"><big>פִּתְאֹם֙ </big></span><small><small><sup>[[H6597]]</sup></small></small> &#8207;| pit.'Om <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have been devastated  | <span class="ashebrew"><big>שֻׁדְּד֣וּ </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| shu.de.Du <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tents my  | <span class="ashebrew"><big>אֹהָלַ֔ </big></span><small><small><sup>[[H0168G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'o.ha.La <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a moment  | <span class="ashebrew"><big>רֶ֖גַע </big></span><small><small><sup>[[H7281]]</sup></small></small> &#8207;| Re.ga' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tent curtains my  | <span class="ashebrew"><big>יְרִיעֹתָֽ </big></span><small><small><sup>[[H3407]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ri.'o.Ta <small><sup>[[HNcfpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destruction  |**<big>&#8207;[[H7667\|שֶׁ֤בֶר]]&#8207; </big>**| She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destruction  |**<big>&#8207;[[H7667\|שֶׁ֙בֶר֙]]&#8207; </big>**| she.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been proclaimed  |**<big>&#8207;[[H7121I\|נִקְרָ֔א]]&#8207; </big>**| nik.Ra'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been devastated  |**<big>&#8207;[[H7703\|שֻׁדְּדָ֖ה]]&#8207; </big>**| shu.de.Dah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suddenly  |**<big>&#8207;[[H6597\|פִּתְאֹם֙]]&#8207; </big>**| pit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been devastated  |**<big>&#8207;[[H7703\|שֻׁדְּד֣וּ]]&#8207; </big>**| shu.de.Du<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tents my  |**<big>&#8207;[[H0168G\|אֹהָלַ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ha.La<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a moment  |**<big>&#8207;[[H7281\|רֶ֖גַע]]&#8207; </big>**| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tent curtains my  |**<big>&#8207;[[H3407\|יְרִיעֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ri.'o.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.19|<< Jeremiah 4:19]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.21|Jeremiah 4:21 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H1568]] | [[H7414]] | [[H7418]] | [[H3406]]</small>
+<small>Also see: **<big>[[H1568|גִּלְעָד]]</big>** | **<big>[[H7414|רָמָה]]</big>** | **<big>[[H7418|רָמוֹת]]</big>** | **<big>[[H3406|יְרִימוֹת]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רָ(א)מוֺת‎</span><sub>26</sub> **proper name** 
 

@@ -1,4 +1,4 @@
-combination of: <small>[[G1564]] ([[G2532]]+[[G1564]]#;)</small> 
+combination of: <small>**<big>[[G1564|ἐκεῖθεν]]</big>** (**<big>[[G2532|καί]]</big>**+**<big>[[G1564|ἐκεῖθεν]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==κἀκεῖθεν==</span></b>, 

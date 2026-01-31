@@ -1,4 +1,3 @@
-<span class="ashebrew">‎הָלַךְ‎</span> <small>***(ha.lakh)***</small> ==**to go: come**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H1980I]]</small> 
+<small>meaning of:</small> <small>**<big>[[H1980I|הָלַךְ]]</big>**</small> 
 
 - : come[nearer]

@@ -7,38 +7,38 @@ And there stood before them seventy men of the ancients of the house of Israel, 
 Before them stood seventy elders of the house of Israel, with Jaazaniah son of Shaphan standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.<small><sub>**MT:**</sub></small>
 [[Ezek.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.10|<< Ezekiel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.12|Ezekiel 8:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jaazaniah | <big><span class="asgreek">Ιεζονίας</span></big> <sup><small><small>[[H3153]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shaphan | <big><span class="asgreek">Σαφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| standing | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| their face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his incense pan | <big><span class="asgreek">θυμιατήριον</span></big> <sup><small><small>[[G2369]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| had | <big><span class="asgreek">είχεν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand; | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vapor | <big><span class="asgreek">ατμίς</span></big> <sup><small><small>[[G0822]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| incense | <big><span class="asgreek">θυμιάματος</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| ascended. | <big><span class="asgreek">ανέβαινε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jaazaniah | **<big>[[H3153\|Ιεζονίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Shaphan | **<big>[[H8227b\|Σαφάν]]</big>** |
+| standing | **<big>[[G2476\|ειστήκει]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| their face; | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his incense pan | **<big>[[G2369\|θυμιατήριον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| had | **<big>[[G2192\|είχεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| hand; | **<big>[[G5495\|χειρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| vapor | **<big>[[G0822\|ατμίς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| incense | **<big>[[G2368\|θυμιάματος]]</big>** |
+| ascended. | **<big>[[G0305\|ανέβαινε]]</big>** |
 [[Ezek.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.10|<< Ezekiel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.12|Ezekiel 8:12 >>]]</td></tr></table>
 
 

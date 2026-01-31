@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אִלֵּךְ‎</span> <small>***(il.lekh)***</small> ==**these**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H0411]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H0411|אֵל]]</big>**</small> 
 
-- Aramaic of <i>el</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "these" [[H0411]])
+- Aramaic of <i>el</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "these" **<big>[[H0411|אֵל]]</big>**)

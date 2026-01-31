@@ -7,52 +7,52 @@ Be ye not as your fathers, unto whom the former prophets have cried, saying, Thu
 Do not be like your fathers, to whom the former prophets proclaimed that this is what the LORD of Hosts says: ‘Turn now from your evil ways and deeds.’ But they did not listen or pay attention to Me, declares the LORD.<small><sub>**MT:**</sub></small>
 [[Zech.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.3|<< Zechariah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.5|Zechariah 1:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| become | <big><span class="asgreek">γίνεσθε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers! | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ones whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| accused | <big><span class="asgreek">ενεκάλεσαν</span></big> <sup><small><small>[[G1458]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήται</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beforehand | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| Turn | <big><span class="asgreek">αποστρέψατε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| practices | <big><span class="asgreek">επιτηδευμάτων</span></big> <sup><small><small>[[G7461]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen, | <big><span class="asgreek">εισήκουσαν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take heed | <big><span class="asgreek">προσέσχον</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to listen to | <big><span class="asgreek">εισακούσαί</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| become | **<big>[[G1096\|γίνεσθε]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers! | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| ones whom | **<big>[[G3739\|οις]]</big>** |
+| accused | **<big>[[G1458\|ενεκάλεσαν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| prophets | **<big>[[G4396\|προφήται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| beforehand | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| Turn | **<big>[[G0654\|αποστρέψατε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| ways | **<big>[[G3598\|οδών]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| wicked | **<big>[[G4190\|πονηρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| practices | **<big>[[G7461\|επιτηδευμάτων]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| wicked | **<big>[[G4190\|πονηρών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ου]]</big>** |
+| listen, | **<big>[[G1522\|εισήκουσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| take heed | **<big>[[G4337\|προσέσχον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to listen to | **<big>[[G1522\|εισακούσαί]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Zech.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.3|<< Zechariah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.5|Zechariah 1:5 >>]]</td></tr></table>
 
 

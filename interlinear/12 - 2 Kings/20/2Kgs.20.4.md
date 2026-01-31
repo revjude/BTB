@@ -6,21 +6,21 @@ Before Isaiah had left the middle courtyard, the word of the LORD came to him, s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.3|<< 2 Kings 20:3]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.5|2 Kings 20:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִ֣י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaiah  | <span class="ashebrew"><big>יְשַׁעְיָ֔הוּ </big></span><small><small><sup>[[H3470A]]</sup></small></small> &#8207;| ye.sha'.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had gone out  | <span class="ashebrew"><big>יָצָ֔א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.Tza' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] court  [^1] | <span class="ashebrew"><big>חָצֵ֖ר </big></span><small><small><sup>[[H2691A]]</sup></small></small> &#8207;[^2] | ha.'ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| \<the> middle  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>תִּֽיכֹנָ֑ה </big></span><small><small><sup>[[H8484]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ti.kho.Nah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] word of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְבַר </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.var- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>הָיָ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָ֖י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹֽר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaiah  |**<big>&#8207;[[H3470A\|יְשַׁעְיָ֔הוּ]]&#8207; </big>**| ye.sha'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had gone out  |**<big>&#8207;[[H3318G\|יָצָ֔א]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] court  [^1]|**<big>&#8207;[[H2691A\|חָצֵ֖ר]]&#8207; </big>**[^2] | ha.'ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<the> middle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8484\|תִּֽיכֹנָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ti.kho.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] word of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.3|<< 2 Kings 20:3]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.5|2 Kings 20:5 >>]]</td></tr></table>
 
-[^1]: ==K==: **the city ** | <small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>עִיר</big></span> <small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> 
+[^1]: ==K==: the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>הָעֵ֖יר</big></span>**
 

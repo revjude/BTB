@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲדַלְיָא‎</span></big> **ʼĂdalyâʼ** <small>*(ad-al-yaw')*</small> ==**Adalia**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲדַלְיָא‎</span></big>** **ʼĂdalyâʼ** <small>*(ad-al-yaw')*</small> ==**Adalia**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Adalia.

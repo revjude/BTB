@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎תִּמֹּר‎</span></big> **timmôr** <small>*(tim-more')*</small> ==**palm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>(plural or (feminine) <span class="ashebrew">תִּמֹּרָה</span> **timmôrâh** <small>*(tim-mo-raw')*</small>; (singular and plural), from the same root as <span class="ashebrew">‎תָּמָר‎</span><sup><small>[[H8558]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּמֹּר‎</span></big>** **timmôr** <small>*(tim-more')*</small> ==**palm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>(plural or (feminine) **<big><span class="ashebrew">תִּמֹּרָה</span></big>** **timmôrâh** <small>*(tim-mo-raw')*</small>; (singular and plural), from the same root as **<big>[[H8558|‎תָּמָר‎]]</big>**</small>
 
 $\quad$ palm tree.
 - (architectural) ***a palm-like pilaster*** (i.e. umbellate)
 
 **1)** palm tree figure (as ornament)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀτμίς</span><sup><small>[[G0822]]</small></sup>
+<small>See Greek: </small>**<big>[[G0822|ἀτμίς]]</big>**

@@ -10,21 +10,21 @@ Who has performed this and carried it out, calling forth the generations from th
 > $\quad$ referenced by: [[Rev.1.8|Rev 1:8]] ☩ [[Rev.22.13|Rev 22:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has he done [it]  | <span class="ashebrew"><big>פָעַ֣ל </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| fa.'Al <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and has he accomplished [it]?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָשָׂ֔ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calling forth  | <span class="ashebrew"><big>קֹרֵ֥א </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| ko.Re' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the generations  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דֹּר֖וֹת </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> do.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] beginning  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רֹ֑אשׁ </big></span><small><small><sup>[[H7218J]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֤י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] first  | <span class="ashebrew"><big>רִאשׁ֔וֹן </big></span><small><small><sup>[[H7223G]]</sup></small></small> &#8207;| ri.Shon <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and with  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] last  | <span class="ashebrew"><big>אַחֲרֹנִ֖ים </big></span><small><small><sup>[[H0314]]</sup></small></small> &#8207;| 'a.cha.ro.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.ni- <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] he  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he done [it]  |**<big>&#8207;[[H6466\|פָעַ֣ל]]&#8207; </big>**| fa.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and has he accomplished [it]?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calling forth  |**<big>&#8207;[[H7121G\|קֹרֵ֥א]]&#8207; </big>**| ko.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the generations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1755\|דֹּר֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> do.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] beginning  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7218J\|רֹ֑אשׁ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] first  |**<big>&#8207;[[H7223G\|רִאשׁ֔וֹן]]&#8207; </big>**| ri.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] last  |**<big>&#8207;[[H0314\|אַחֲרֹנִ֖ים]]&#8207; </big>**| 'a.cha.ro.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ni-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.3|<< Isaiah 41:3]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.5|Isaiah 41:5 >>]]</td></tr></table>
 
 

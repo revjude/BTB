@@ -7,41 +7,41 @@ And I gave my heart to seek and search out by wisdom concerning all [things] tha
 And I set my mind to seek and explore by wisdom all that is done under heaven. What a miserable task God has laid upon the sons of men to occupy them!<small><sub>**MT:**</sub></small>
 [[Eccl.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.12|<< Ecclesiastes 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.14|Ecclesiastes 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to inquire | <big><span class="asgreek">εκζητήσαι</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to survey | <big><span class="asgreek">κατασκέψασθαι</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| happening | <big><span class="asgreek">γινομένων</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| distraction | <big><span class="asgreek">περισπασμόν</span></big> <sup><small><small>[[G8755]]</small></small></sup> |
-| a wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be distracting | <big><span class="asgreek">περισπάσθαι</span></big> <sup><small><small>[[G4049]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to inquire | **<big>[[G1567\|εκζητήσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to survey | **<big>[[G7919\|κατασκέψασθαι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| happening | **<big>[[G1096\|γινομένων]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανόν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| distraction | **<big>[[G8755\|περισπασμόν]]</big>** |
+| a wicked | **<big>[[G4190\|πονηρόν]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be distracting | **<big>[[G4049\|περισπάσθαι]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Eccl.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.12|<< Ecclesiastes 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.14|Ecclesiastes 1:14 >>]]</td></tr></table>
 
 

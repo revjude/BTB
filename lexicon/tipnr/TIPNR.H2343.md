@@ -4,9 +4,9 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Hul</span> was one of the sons of Aram and a grandson of Shem, mentioned in the genealogies of Genesis and 1 Chronicles.
 - A man of the Syrians living at the time of the Patriarchs, first mentioned at [[Gen.10.23|Gen.10.23]]; 
-- only referred to as Hul<[[H2343]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Aram<[[H0758G]]>; 
-- a brother of Uz<[[H5780G]]>, Gether<[[H1666]]> and Mash<[[H4851]]>.
+- only referred to as Hul **<big>[[H2343|חוּל]]</big>**; 
+-  son of Aram **<big>[[H0758|אֲרָם]]</big>**; 
+- a brother of Uz **<big>[[H5780|עוּץ]]</big>**, Gether **<big>[[H1666|גֶּתֶר]]</big>** and Mash **<big>[[H4851|מַשׁ]]</big>**.
 
 Hul is mentioned in [[Gen.10.23|Genesis 10:23]] and [[1Chr.1.17|1 Chronicles 1:17]] as one of the sons of Aram, who was a son of Shem, one of Noah's three sons. Hul is listed alongside his brothers Uz, Gether, and Mash \(or Meshech in 1 Chronicles\). 
 
@@ -18,8 +18,8 @@ Apart from being mentioned in these genealogies, no other information is provide
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hul | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H2343) <small>*Hebrew*</small> | 2x | [[Gen.10.23] & [1Ch.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hul\*\|reference=Gen.10.23;1Ch.1.17) |
-All Strong's for **Hul**: \[[[H2343]]\]
+| Hul | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H2343) | 2x | [[Gen.10.23] & [1Ch.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hul\*\|reference=Gen.10.23;1Ch.1.17) |
+All entries for **Hul**:  **<big>[[H2343|חוּל]]</big>**
 #### Related Profiles:
 - **[Aram](H0758G)** (father)
 - **[Uz](H5780G)** (sibling)

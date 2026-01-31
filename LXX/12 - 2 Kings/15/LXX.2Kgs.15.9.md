@@ -7,29 +7,29 @@ And he did [that which was] evil in the sight of the LORD, as his fathers had do
 And he did evil in the sight of the LORD, as his fathers had done. He did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.8|<< 2 Kings 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.10|2 Kings 15:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fathers. | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abstain | <big><span class="asgreek">απέστη</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat, | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| led Israel into sin. | <big><span class="asgreek">εξήμαρτε</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wicked \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| as | **<big>[[G2505\|κατά]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his fathers. | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He did not | **<big>[[G3756\|ουκ]]</big>** |
+| abstain | **<big>[[G0868\|απέστη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sins | **<big>[[G0266\|αμαρτιών]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nebat, | **<big>[[H5028\|Ναβάτ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| led Israel into sin. | **<big>[[G7292\|εξήμαρτε]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.8|<< 2 Kings 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.10|2 Kings 15:10 >>]]</td></tr></table>
 
 

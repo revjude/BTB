@@ -1,8 +1,8 @@
 <small>*Millo • A fortification in Jerusalem built by Solomon*</small>
 
 <span class='tipnrhighlight'>Millo</span> \(Akra\), a fortification in Jerusalem built by Solomon \([[1Kgs.9.15|1 Kings 9:15]], 24; 11:27\) and repaired by Hezekiah \([[2Chr.32.5|2 Chronicles 32:5]]\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[2Sam.5.9|2Sa.5.9]]; 
-- referred to as Millo<[[H4407]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>\), or Millo<[[G6202G]]> \(<span class='tipnrLangGreek'>ἄκρα</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[2Sam.5.9|2Sa.5.9]]; 
+- referred to as Millo **<big>[[H4407|מִלּוֹא]]</big>**, or Millo **<big>[[G6202|ἄκρα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The exact location and nature of Millo are not clearly described in the Bible. S
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Millo | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H4407) <small>*Hebrew*</small> | 6x | [[2Sa.5.9] ... [2Ch.32.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Millo\*\|reference=2Sa.5.9;1Ki.9.15;1Ki.9.24;1Ki.11.27;1Ch.11.8;2Ch.32.5) |
-| Millo | [<span class='tipnrLangGreek'>ἄκρα</span>](G6202G) <small>*Greek*</small> | 5x | [[2Sa.5.9] ... [Isa.22.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Millo\*\|reference=LXX 2Sa.5.9;1Ki.9.15;1Ki.11.27;1Ch.11.8;Isa.22.9) |
-All Strong's for **Millo or Akra**: \[[[H4407]]\] \[[[G6202G]]\]
+| Millo | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H4407) | 6x | [[2Sa.5.9] ... [2Ch.32.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Millo\*\|reference=2Sa.5.9;1Ki.9.15;1Ki.9.24;1Ki.11.27;1Ch.11.8;2Ch.32.5) |
+| Millo | [<span class='tipnrLangGreek'>ἄκρα</span>](G6202G) | 5x | [[2Sa.5.9] ... [Isa.22.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Millo\*\|reference=LXX 2Sa.5.9;1Ki.9.15;1Ki.11.27;1Ch.11.8;Isa.22.9) |
+All entries for **Millo or Akra**:  **<big>[[H4407|מִלּוֹא]]</big>** ☩  **<big>[[G6202|ἄκρα]]</big>**

@@ -10,55 +10,55 @@ Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heaven
 You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You.<small><sub>**MT:**</sub></small>
 [[Neh.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezra said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Έσδρας</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| alone. | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their positions; | <big><span class="asgreek">δυνάμεις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seas | <big><span class="asgreek">θαλάσσας</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| restore to life | <big><span class="asgreek">ζωοποιείς</span></big> <sup><small><small>[[G2227]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all \[things\]; | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do obeisance | <big><span class="asgreek">προσκυνούσιν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| militaries | <big><span class="asgreek">στρατιαί</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ezra said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H5831\|Έσδρας]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| he, | **<big>[[G1473\|αυτός]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| alone. | **<big>[[G3441\|μόνος]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| made | **<big>[[G4160\|εποίησας]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their positions; | **<big>[[G1411\|δυνάμεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it; | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| seas | **<big>[[G2281\|θαλάσσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυταίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| restore to life | **<big>[[G2227\|ζωοποιείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| all \[things\]; | **<big>[[G3956\|πάντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| do obeisance | **<big>[[G4352\|προσκυνούσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| militaries | **<big>[[G4756\|στρατιαί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| heavens | **<big>[[G3772\|ουρανών]]</big>** |
 [[Neh.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ἔμ-προσθεν </span></span></span>    <span class="asgramGrp"><span class="aspos">adv.</span> </span>
-of place (in cl. also of time),  <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">עֳנִי</span> <small><sup>[[H6040]]</sup></small> ;\] </span> </span>
+of place (in cl. also of time),  <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H6040|עֳנִי]]</big>** ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> adverbially, <span class="asitalic">before, in front</span>: [[Luke.19.28|Lk 19:28]]; <span class="asgreek">εἰς τὸ ἔ.</span>, [[Luke.19.4|Lk 19:4]]; opp. to <span class="asgreek">ὄπισθεν</span>, [[Rev.4.6|Re 4:6]]; opp. to <span class="asgreek">τὰ ὀπίσω, τὰ ἔ.</span>, [[Phil.3.13|Phl 3:13]].</span>
 <span class="asbullet"><span class="asbold">2.</span> As prep., <span class="asitalic">before</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> in front of: [[Matt.5.24|Mt 5:24]] [[Matt.6.2|6:2]] [[Matt.7.6|7:6]] [[Matt.11.10|11:10]] [[Matt.27.29|27:29]], [[Luke.5.19|Lk 5:19]] [[Luke.7.27|7:27]] [[Luke.14.2|14:2]], [[John.3.28|Jo 3:28]] [[John.10.4|10:4]], [[Rev.19.10|Re 19:10]] [[Rev.22.8|22:8]];</span>

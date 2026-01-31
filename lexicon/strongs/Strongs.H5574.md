@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סְנוּאָה‎</span></big> **Çᵉnûwʼâh** <small>*(sen-oo-aw')*</small> ==**Hassenuah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">סְנֻאָה</span> **Çᵉnuʼâh** <small>*(sen-oo-aw')*</small> from the same as <span class="ashebrew">‎סְנָאָה‎</span><sup><small>[[H5570]]</small></sup></small>
+**<big><span class="ashebrew">‎סְנוּאָה‎</span></big>** **Çᵉnûwʼâh** <small>*(sen-oo-aw')*</small> ==**Hassenuah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">סְנֻאָה</span></big>** **Çᵉnuʼâh** <small>*(sen-oo-aw')*</small> from the same as **<big>[[H5570|‎סְנָאָה‎]]</big>**</small>
 
 $\quad$ Hasenuah (including the art), Senuah.
 - § Senuah or Hasenuah [with the art] = *"bristling"*

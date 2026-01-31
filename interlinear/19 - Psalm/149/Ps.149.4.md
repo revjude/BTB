@@ -6,15 +6,15 @@ For the LORD takes pleasure in His people; He adorns the afflicted with salvatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.3|<< Psalms 149:3]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.5|Psalms 149:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] taking pleasure  | <span class="ashebrew"><big>רוֹצֶ֣ה </big></span><small><small><sup>[[H7521]]</sup></small></small> &#8207;| ro.Tzeh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in people his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַמּ֑ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he glorifies  | <span class="ashebrew"><big>יְפָאֵ֥ר </big></span><small><small><sup>[[H6286A]]</sup></small></small> &#8207;| ye.fa.'Er <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humble [people]  | <span class="ashebrew"><big>עֲ֝נָוִ֗ים </big></span><small><small><sup>[[H6035]]</sup></small></small> &#8207;| 'a.na.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with salvation  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ישׁוּעָֽה </big></span><small><small><sup>[[H3444]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> shu.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] taking pleasure  |**<big>&#8207;[[H7521\|רוֹצֶ֣ה]]&#8207; </big>**| ro.Tzeh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in people his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5971A\|עַמּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he glorifies  |**<big>&#8207;[[H6286A\|יְפָאֵ֥ר]]&#8207; </big>**| ye.fa.'Er<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humble [people]  |**<big>&#8207;[[H6035\|עֲ֝נָוִ֗ים]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with salvation  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3444\|ישׁוּעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.3|<< Psalms 149:3]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.5|Psalms 149:5 >>]]</td></tr></table>
 
 

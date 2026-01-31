@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נִיחוֹחַ‎</span></big> **nîychôwach** <small>*(nee-kho'-akh)*</small> ==**soothing**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">נִיחֹחַ</span> **nîychôach** <small>*(nee-kho'-akh)*</small>; (shorter) (Aramaic), corresponding to <span class="ashebrew">‎נִיחוֹחַ‎</span><sup><small>[[H5207]]</small></sup></small>
+**<big><span class="asaramaic">‎נִיחוֹחַ‎</span></big>** **nîychôwach** <small>*(nee-kho'-akh)*</small> ==**soothing**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">נִיחֹחַ</span></big>** **nîychôach** <small>*(nee-kho'-akh)*</small>; (shorter) (Aramaic), corresponding to **<big>[[H5207|‎נִיחוֹחַ‎]]</big>**</small>
 
 $\quad$ sweet odour (savour).
 - ***pleasure***

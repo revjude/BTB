@@ -7,36 +7,36 @@ When the LORD thy God shall enlarge thy border, as he hath promised thee, and th
 When the LORD your God expands your territory as He has promised, and you crave meat and say, “I want to eat meat,” you may eat it whenever you want.<small><sub>**MT:**</sub></small>
 [[Deut.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.19|<< Deuteronomy 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.21|Deuteronomy 12:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should widen | <big><span class="asgreek">εμπλατύνη</span></big> <sup><small><small>[[G7198]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your borders, | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησέ</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| I will eat | <big><span class="asgreek">φάγομαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| meats; | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should desire | <big><span class="asgreek">επιθυμήση</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| meats, | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your soul, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| meats. | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should widen | **<big>[[G7198\|εμπλατύνη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your borders, | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλησέ]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| I will eat | **<big>[[G2068\|φάγομαι]]</big>** |
+| meats; | **<big>[[G2907\|κρέα]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should desire | **<big>[[G1937\|επιθυμήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| meats, | **<big>[[G2907\|κρέα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| desire | **<big>[[G1939\|επιθυμία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your soul, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall eat | **<big>[[G2068\|φαγή]]</big>** |
+| meats. | **<big>[[G2907\|κρέα]]</big>** |
 [[Deut.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.19|<< Deuteronomy 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.21|Deuteronomy 12:21 >>]]</td></tr></table>
 
 

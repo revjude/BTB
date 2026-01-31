@@ -7,45 +7,45 @@ And as the evil figs, which cannot be eaten, they are so evil; surely thus saith
 But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will I deal with Zedekiah king of Judah, his officials, and the remnant of Jerusalem—those remaining in this land and those living in the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Jer.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.7|<< Jeremiah 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.9|Jeremiah 24:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| figs | <big><span class="asgreek">σύκα</span></big> <sup><small><small>[[G4810]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be eaten | <big><span class="asgreek">βρωθήσονται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their badness, | <big><span class="asgreek">πονηρίας</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| will I deliver up | <big><span class="asgreek">παραδώσω</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zedekiah | <big><span class="asgreek">Σεδεκίαν</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his great men, | <big><span class="asgreek">μεγιστάνας</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">υπολελειμμένους</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| figs | **<big>[[G4810\|σύκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| bad | **<big>[[G4190\|πονηρά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be eaten | **<big>[[G0977\|βρωθήσονται]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| their badness, | **<big>[[G4189\|πονηρίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| So | **<big>[[G3779\|ούτω]]</big>** |
+| will I deliver up | **<big>[[G3860\|παραδώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zedekiah | **<big>[[H6667\|Σεδεκίαν]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his great men, | **<big>[[G3175\|μεγιστάνας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιπον]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| being left behind | **<big>[[G5275\|υπολελειμμένους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this land, | **<big>[[G1093\|γη]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt. | **<big>[[G0125\|Αιγύπτω]]</big>** |
 [[Jer.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.7|<< Jeremiah 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.9|Jeremiah 24:9 >>]]</td></tr></table>
 
 

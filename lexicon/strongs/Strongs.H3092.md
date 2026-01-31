@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹשָׁפָט‎</span></big> **Yᵉhôwshâphâṭ** <small>*(yeh-ho-shaw-fawt')*</small> ==**Jehoshaphat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎שָׁפַט‎</span><sup><small>[[H8199]]</small></sup>; Jehovah-judged</small>
+**<big><span class="ashebrew">‎יְהוֹשָׁפָט‎</span></big>** **Yᵉhôwshâphâṭ** <small>*(yeh-ho-shaw-fawt')*</small> ==**Jehoshaphat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H8199|‎שָׁפַט‎]]</big>**; Jehovah-judged</small>
 
-$\quad$ Jehoshaphat. Compare <span class="ashebrew">‎יוֹשָׁפָט‎</span><sup><small>[[H3146]]</small></sup>.
+$\quad$ Jehoshaphat. Compare **<big>[[H3146|‎יוֹשָׁפָט‎]]</big>**.
 - § Jehoshaphat = *"Jehovah has judged"*
 - ***Jehoshaphat***, the name of six Israelites
 -  also of a valley near Jerusalem
@@ -15,4 +15,4 @@ n pr m
 n pr loc
 **6)** symbolical name of a valley near Jerusalem which is the place of ultimate judgment; maybe the deep ravine which separates Jerusalem from the Mount of Olives through which the Kidron flowed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰωσαφάτ</span><sup><small>[[G2498]]</small></sup>
+<small>See Greek: </small>**<big>[[G2498|Ἰωσαφάτ]]</big>**

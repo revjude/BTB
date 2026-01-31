@@ -1,7 +1,6 @@
-<span class="ashebrew">‎כַּשְׂדַּי‎</span> <small>***(kas.day)***</small> ==**Chaldean**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-group of: <small>[[H3778]]</small> 
+<small>group of:</small> <small>**<big>[[H3778|כַּשְׂדִּי]]</big>**</small> 
 
 
-- Group of <i>kas.di</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎ד‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Chaldea" [[H3778]])
+- Group of <i>kas.di</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎ד‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Chaldea" **<big>[[H3778|כַּשְׂדִּי]]</big>**)
 
 -  1) a territory in lower Mesopotamia bordering on the Persian Gulf

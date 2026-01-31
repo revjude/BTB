@@ -7,20 +7,20 @@ And the LORD shall give them up before your face, that ye may do unto them accor
 The LORD will deliver them over to you, and you must do to them exactly as I have commanded you.<small><sub>**MT:**</sub></small>
 [[Deut.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| delivered | <big><span class="asgreek">παρέδωκεν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| them \[up\] | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| delivered | **<big>[[G3860\|παρέδωκεν]]</big>** |
+| them \[up\] | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you; | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Deut.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
 
 

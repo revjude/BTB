@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לוּעַ‎</span></big> **lûwaʻ** <small>*(loo'-ah)*</small> ==**to swallow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לוּעַ‎</span></big>** **lûwaʻ** <small>*(loo'-ah)*</small> ==**to swallow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ swallow down (up).
@@ -7,4 +7,4 @@ $\quad$ swallow down (up).
 
 **1)** (Qal) to swallow, swallow down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καταβαίνω</span><sup><small>[[G2597]]</small></sup> · <span class="asgreek">φαῦλος</span><sup><small>[[G5337]]</small></sup>
+<small>See Greek: </small>**<big>[[G2597|καταβαίνω]]</big>** · **<big>[[G5337|φαῦλος]]</big>**

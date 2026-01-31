@@ -1,4 +1,4 @@
-<small>Also see: [[H1516]]</small>
+<small>Also see: **<big>[[H1516|גַּיְא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חָרָשׁ‎</span> **noun masculine**<sup>[[Exod.38.23|Exod 38:23]]</sup> ==graver, artificer== (Phoenician <span class="bdbLangHebrew">‎חרש‎</span>) — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> (= \*<span class="bdbLangHebrew">‎חַרָּשׁ‎</span>) [[Exod.35.35|Exod 35:35]] + 14 t.; construct <span class="bdbLangHebrew">‎חָרַשׁ‎</span> [[Exod.28.11|Exod 28:11]] + 2 t.; plural <span class="bdbLangHebrew">‎חָֽרָשִׁים‎</span> [[Hos.13.2|Hos 13:2]] + 7 t.; <span class="bdbLangHebrew">‎חֲרָשִׁים‎</span> [[1Chr.4.14|1Chr 4:14]] (twice in verse); [[Neh.11.35|Neh 11:35]] (see below); construct <span class="bdbLangHebrew">‎חָֽרָשֵׁי‎</span> [[2Sam.5.11|2Sam 5:11]] + 6 t.; — 
 

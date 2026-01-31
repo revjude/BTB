@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּד‎</span></big> **bad** <small>*(bad)*</small> ==**bluster**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּדָא‎</span><sup><small>[[H0908]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּד‎</span></big>** **bad** <small>*(bad)*</small> ==**bluster**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0908|‎בָּדָא‎]]</big>**</small>
 
 $\quad$ liar, lie.
 - ***a brag*** or ***lie***

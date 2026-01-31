@@ -7,30 +7,30 @@ Bring forth him that hath cursed without the camp; and let all that heard [him] 
 “Take the blasphemer outside the camp, and have all who heard him lay their hands on his head; then have the whole assembly stone him.<small><sub>**MT:**</sub></small>
 [[Lev.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.13|<< Leviticus 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.15|Leviticus 24:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lead | <big><span class="asgreek">εξάγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one cursing | <big><span class="asgreek">καταρασάμενον</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall place | <big><span class="asgreek">επιθήσουσιν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούσαντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall stone | <big><span class="asgreek">λιθοβολήσουσιν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| Lead | **<big>[[G1806\|εξάγαγε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one cursing | **<big>[[G2672\|καταρασάμενον]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall place | **<big>[[G2007\|επιθήσουσιν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| hearing | **<big>[[G0191\|ακούσαντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall stone | **<big>[[G3036\|λιθοβολήσουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγή]]</big>** |
 [[Lev.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.13|<< Leviticus 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.15|Leviticus 24:15 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ And I will appoint over them four kinds, saith the LORD: the sword to slay, and 
 I will appoint over them four kinds of destroyers, declares the LORD: the sword to kill, the dogs to drag away, and the birds of the air and beasts of the earth to devour and destroy.<small><sub>**MT:**</sub></small>
 [[Jer.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.2|<< Jeremiah 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.4|Jeremiah 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will avenge | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| forms, | <big><span class="asgreek">είδη</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| slaughter, | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dogs | <big><span class="asgreek">κύνας</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tearing in pieces, | <big><span class="asgreek">διασπασμόν</span></big> <sup><small><small>[[G6881]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| solid food | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| corruption. | <big><span class="asgreek">διαφθοράν</span></big> <sup><small><small>[[G1312]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will avenge | **<big>[[G1556\|εκδικήσω]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| forms, | **<big>[[G1491\|είδη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| slaughter, | **<big>[[G4967\|σφαγήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| dogs | **<big>[[G2965\|κύνας]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| tearing in pieces, | **<big>[[G6881\|διασπασμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| solid food | **<big>[[G1035\|βρώσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| corruption. | **<big>[[G1312\|διαφθοράν]]</big>** |
 [[Jer.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.2|<< Jeremiah 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.4|Jeremiah 15:4 >>]]</td></tr></table>
 
 

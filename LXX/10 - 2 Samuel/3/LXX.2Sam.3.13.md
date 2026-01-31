@@ -7,39 +7,39 @@ And he said, Well; I will make a league with thee: but one thing I require of th
 “Good,” replied David, “I will make a covenant with you. But there is one thing I require of you: Do not appear before me unless you bring Saul’s daughter Michal when you come to see me.”<small><sub>**MT:**</sub></small>
 [[2Sam.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.12|<< 2 Samuel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.14|2 Samuel 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Well, | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall ordain | <big><span class="asgreek">διαθήσομαι</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ask | <big><span class="asgreek">αιτούμαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| lead | <big><span class="asgreek">αγάγης</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Michal | <big><span class="asgreek">Μελχόλ</span></big> <sup><small><small>[[H4324]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| in your coming | <big><span class="asgreek">παραγινομένου</span></big> <sup><small><small>[[G3854]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to behold | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face. | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| Well, | **<big>[[G2573\|καλώς]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall ordain | **<big>[[G1303\|διαθήσομαι]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| a covenant, | **<big>[[G1242\|διαθήκην]]</big>** |
+| except | **<big>[[G4133\|πλην]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| ask | **<big>[[G0154\|αιτούμαι]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G3708\|όψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face, | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you do not | **<big>[[G3361\|μη]]</big>** |
+| lead | **<big>[[G0071\|αγάγης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Michal | **<big>[[H4324\|Μελχόλ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| in your coming | **<big>[[G3854\|παραγινομένου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to behold | **<big>[[G1492\|ιδείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face. | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Sam.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.12|<< 2 Samuel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.14|2 Samuel 3:14 >>]]</td></tr></table>
 
 

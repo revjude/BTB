@@ -7,38 +7,38 @@ But I will put it into the hand of them that afflict thee; which have said to th
 I will place it in the hands of your tormentors, who told you: ‘Lie down, so we can walk over you,’ so that you made your back like the ground, like a street to be traversed.”<small><sub>**MT:**</sub></small>
 [[Isa.51.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wronging | <big><span class="asgreek">αδικησάντων</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| humbling | <big><span class="asgreek">ταπεινωσάντων</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Bow! | <big><span class="asgreek">κύψον</span></big> <sup><small><small>[[G2955]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| we should go by. | <big><span class="asgreek">παρέλθωμεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you put | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| equal | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in your midst | <big><span class="asgreek">μέσα</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming near. | <big><span class="asgreek">παραπορευομένοις</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I give | **<big>[[G1325\|δώσω]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hand | **<big>[[G5495\|χείρας]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| wronging | **<big>[[G0091\|αδικησάντων]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| humbling | **<big>[[G5013\|ταπεινωσάντων]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| \[the\] ones who | **<big>[[G3739\|οι]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your soul, | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Bow! | **<big>[[G2955\|κύψον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| we should go by. | **<big>[[G3928\|παρέλθωμεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you put | **<big>[[G5087\|έθηκας]]</big>** |
+| equal | **<big>[[G2470\|ίσα]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| ground | **<big>[[G1093\|γη]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in your midst | **<big>[[G3319\|μέσα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| coming near. | **<big>[[G3899\|παραπορευομένοις]]</big>** |
 [[Isa.51.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
 

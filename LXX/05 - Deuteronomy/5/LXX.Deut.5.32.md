@@ -7,23 +7,23 @@ Ye shall observe to do therefore as the LORD your God hath commanded you: ye sha
 So be careful to do as the LORD your God has commanded you; you are not to turn aside to the right or to the left.<small><sub>**MT:**</sub></small>
 [[Deut.5.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.31|<< Deuteronomy 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.33|Deuteronomy 5:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall guard | <big><span class="asgreek">φυλάξεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινείς</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| left, | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall guard | **<big>[[G5442\|φυλάξεσθε]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινείς]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| left, | **<big>[[G0710\|αριστερά]]</big>** |
 [[Deut.5.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.31|<< Deuteronomy 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.33|Deuteronomy 5:33 >>]]</td></tr></table>
 
 

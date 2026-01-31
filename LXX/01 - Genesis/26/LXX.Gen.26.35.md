@@ -7,16 +7,16 @@ Which were a grief of mind unto Isaac and to Rebekah.
 And they brought grief to Isaac and Rebekah.<small><sub>**MT:**</sub></small>
 [[Gen.26.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.34|<< Genesis 26:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.1|Genesis 27:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| contending | <big><span class="asgreek">ερίζουσαι</span></big> <sup><small><small>[[G2051]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rebekah. | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| contending | **<big>[[G2051\|ερίζουσαι]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Rebekah. | **<big>[[G4479\|Ρεβέκκα]]</big>** |
 [[Gen.26.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.34|<< Genesis 26:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.1|Genesis 27:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית הַיְשִׁימוֹת‎</span></big> **Bêyth ha-Yshîy-môwth** <small>*(bayth hah-yesh-eemoth')*</small> ==**Beth-jeshimoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and the plural of <span class="ashebrew">‎יְשִׁימַה‎</span><sup><small>[[H3451]]</small></sup> with the article interposed; house of the deserts</small>
+**<big><span class="ashebrew">‎בֵּית הַיְשִׁימוֹת‎</span></big>** **Bêyth ha-Yshîy-môwth** <small>*(bayth hah-yesh-eemoth')*</small> ==**Beth-jeshimoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and the plural of **<big>[[H3451|‎יְשִׁימַה‎]]</big>** with the article interposed; house of the deserts</small>
 
 $\quad$ Beth-jeshimoth.
 - § Beth-jesimoth = *"house of the desolation"*

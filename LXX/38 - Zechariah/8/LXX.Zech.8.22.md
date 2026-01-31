@@ -7,26 +7,26 @@ Yea, many people and strong nations shall come to seek the LORD of hosts in Jeru
 And many peoples and strong nations will come to seek the LORD of Hosts in Jerusalem and to plead before the LORD.”<small><sub>**MT:**</sub></small>
 [[Zech.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.21|<< Zechariah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.23|Zechariah 8:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall come | <big><span class="asgreek">ήξουσιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| many nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| to seek after | <big><span class="asgreek">εκζητήσαι</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτορος</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσασθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall come | **<big>[[G2240\|ήξουσιν]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| many nations | **<big>[[G1484\|έθνη]]</big>** **<big>[[G4183\|πολλά]]</big>** |
+| to seek after | **<big>[[G1567\|εκζητήσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτορος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Zech.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.21|<< Zechariah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.23|Zechariah 8:23 >>]]</td></tr></table>
 
 

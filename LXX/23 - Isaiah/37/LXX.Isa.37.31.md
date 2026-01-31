@@ -7,22 +7,22 @@ And the remnant that is escaped of the house of Judah shall again take root down
 And the surviving remnant of the house of Judah will again take root below and bear fruit above.<small><sub>**MT:**</sub></small>
 [[Isa.37.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.30|<< Isaiah 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.32|Isaiah 37:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλελειμμένοι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judea. | <big><span class="asgreek">Ιουδαία</span></big> <sup><small><small>[[G2451]]</small></small></sup> |
-| They shall germinate | <big><span class="asgreek">φυήσουσι</span></big> <sup><small><small>[[G5453]]</small></small></sup> |
-| a root | <big><span class="asgreek">ρίζαν</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| below, | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall produce | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| grain | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| upward. | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being left behind | **<big>[[G2641\|καταλελειμμένοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Judea. | **<big>[[G2451\|Ιουδαία]]</big>** |
+| They shall germinate | **<big>[[G5453\|φυήσουσι]]</big>** |
+| a root | **<big>[[G4491\|ρίζαν]]</big>** |
+| below, | **<big>[[G2736\|κάτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall produce | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| grain | **<big>[[G4690\|σπέρμα]]</big>** |
+| upward. | **<big>[[G0507\|άνω]]</big>** |
 [[Isa.37.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.30|<< Isaiah 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.32|Isaiah 37:32 >>]]</td></tr></table>
 
 

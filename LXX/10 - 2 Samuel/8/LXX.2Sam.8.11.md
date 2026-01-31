@@ -10,30 +10,30 @@ Which also king David did dedicate unto the LORD, with the silver and gold that 
 and King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he had subdued—<small><sub>**MT:**</sub></small>
 [[2Sam.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.10|<< 2 Samuel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.12|2 Samuel 8:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| sanctified | <big><span class="asgreek">ηγίασεν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sanctified | <big><span class="asgreek">ηγίασεν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he overpowered; | <big><span class="asgreek">κατεδυνάστευσεν</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| sanctified | **<big>[[G0037\|ηγίασεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| he sanctified | **<big>[[G0037\|ηγίασεν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cities | **<big>[[G4172\|πόλεων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he overpowered; | **<big>[[G2616\|κατεδυνάστευσεν]]</big>** |
 [[2Sam.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.10|<< 2 Samuel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.12|2 Samuel 8:12 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎עוֹד‎</span> <small>***(od)***</small> ==**still**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-Aramaic of: <small>[[H5750]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H5750|עוֹד]]</big>**</small> 
 
-- Aramaic of <i>od</i> (<span class='ashebrew'>‎עו‎</span>ֹ<span class='ashebrew'>‎ד‎</span> "still" [[H5750]])
+- Aramaic of <i>od</i> (<span class='ashebrew'>‎עו‎</span>ֹ<span class='ashebrew'>‎ד‎</span> "still" **<big>[[H5750|עוֹד]]</big>**)

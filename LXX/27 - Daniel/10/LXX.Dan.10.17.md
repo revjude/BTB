@@ -7,33 +7,33 @@ For how can the servant of this my lord talk with this my lord? for as for me, s
 How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.”<small><sub>**MT:**</sub></small>
 [[Dan.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.16|<< Daniel 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.18|Daniel 10:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lord | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| present | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength in me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no breath | <big><span class="asgreek">πνοή</span></big> <sup><small><small>[[G4157]]</small></small></sup> <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| left | <big><span class="asgreek">υπελείφθη</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G4459\|πως]]</big>** |
+| be able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O lord, | **<big>[[G2962\|κύριε]]</big>** |
+| to speak | **<big>[[G2980\|λαλήσαι]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my lord | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| present | **<big>[[G3568\|νυν]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| stand | **<big>[[G2476\|στήσεται]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| strength in me, | **<big>[[G1473\|εμοί]]</big>** **<big>[[G2479\|ισχύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no breath | **<big>[[G4157\|πνοή]]</big>** **<big>[[G3756\|ουχ]]</big>** |
+| left | **<big>[[G5275\|υπελείφθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
 [[Dan.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.16|<< Daniel 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.18|Daniel 10:18 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ In thy name shall they rejoice all the day: and in thy righteousness shall they 
 They rejoice in Your name all day long, and in Your righteousness they exult.<small><sub>**MT:**</sub></small>
 [[Ps.89.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.15|<< Psalm 89:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.17|Psalm 89:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day. | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall be raised up high. | <big><span class="asgreek">υψωθήσονται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they shall exult | **<big>[[G0021\|αγαλλιάσονται]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day. | **<big>[[G2250\|ημέραν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they shall be raised up high. | **<big>[[G5312\|υψωθήσονται]]</big>** |
 [[Ps.89.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.15|<< Psalm 89:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.17|Psalm 89:17 >>]]</td></tr></table>
 
 

@@ -10,69 +10,69 @@ And it came to pass, when all the kings of the Amorites, which [were] on the sid
 Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the LORD had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites.<small><sub>**MT:**</sub></small>
 [[Josh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.24|<< Joshua 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.2|Joshua 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| (\[the kings\] of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[who\] were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Phoenicia | <big><span class="asgreek">Φοινίκης</span></big> <sup><small><small>[[G5403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea) | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to dry up | <big><span class="asgreek">απεξήρανε</span></big> <sup><small><small>[[G6462]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their passing over, | <big><span class="asgreek">διαβήναι</span></big> <sup><small><small>[[G1224]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| melted away | <big><span class="asgreek">ετάκησαν</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their thoughts | <big><span class="asgreek">δίανοιαι</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were struck with terror, | <big><span class="asgreek">κατεπλάγησαν</span></big> <sup><small><small>[[G7899]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with intellect | <big><span class="asgreek">φρόνησις</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
-| any one | <big><span class="asgreek">ουδεμία</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| heard | **<big>[[G0191\|ήκουσαν]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| (\[the kings\] of the | **<big>[[G3588\|των]]</big>** |
+| Amorites | **<big>[[H0567\|Αμορραίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[who\] were | **<big>[[G1510\|ήσαν]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Phoenicia | **<big>[[G5403\|Φοινίκης]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea) | **<big>[[G2281\|θάλασσαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| to dry up | **<big>[[G6462\|απεξήρανε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| river | **<big>[[G4215\|ποταμόν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their passing over, | **<big>[[G1224\|διαβήναι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| melted away | **<big>[[G5080\|ετάκησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their thoughts | **<big>[[G1271\|δίανοιαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were struck with terror, | **<big>[[G7899\|κατεπλάγησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| with intellect | **<big>[[G5428\|φρόνησις]]</big>** |
+| any one | **<big>[[G3762\|ουδεμία]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] presence | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Josh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.24|<< Joshua 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.2|Joshua 5:2 >>]]</td></tr></table>
 
 

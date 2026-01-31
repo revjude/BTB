@@ -7,23 +7,23 @@ Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king
 Even though Elnathan, Delaiah, and Gemariah urged the king not to burn the scroll, he would not listen to them.<small><sub>**MT:**</sub></small>
 [[Jer.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.24|<< Jeremiah 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.26|Jeremiah 36:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elnathan | <big><span class="asgreek">Ελναθάν</span></big> <sup><small><small>[[H0494]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Delaiah | <big><span class="asgreek">Δαλαϊας</span></big> <sup><small><small>[[H1806]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gemariah | <big><span class="asgreek">Γαμαρίας</span></big> <sup><small><small>[[H1587]]</small></small></sup> |
-| suggested | <big><span class="asgreek">υπέθεντο</span></big> <sup><small><small>[[G5294]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| incinerate | <big><span class="asgreek">κατακαύσαι</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| papyrus paper. | <big><span class="asgreek">χαρτίον</span></big> <sup><small><small>[[G9707]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elnathan | **<big>[[H0494\|Ελναθάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Delaiah | **<big>[[H1806\|Δαλαϊας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Gemariah | **<big>[[H1587\|Γαμαρίας]]</big>** |
+| suggested | **<big>[[G5294\|υπέθεντο]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| incinerate | **<big>[[G2618\|κατακαύσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| papyrus paper. | **<big>[[G9707\|χαρτίον]]</big>** |
 [[Jer.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.24|<< Jeremiah 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.26|Jeremiah 36:26 >>]]</td></tr></table>
 
 

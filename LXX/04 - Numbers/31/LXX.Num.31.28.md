@@ -7,46 +7,46 @@ And levy a tribute unto the LORD of the men of war which went out to battle: one
 Set aside a tribute for the LORD from what belongs to the soldiers who went into battle: one out of every five hundred, whether persons, cattle, donkeys, or sheep.<small><sub>**MT:**</sub></small>
 [[Num.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.27|<< Numbers 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.29|Numbers 31:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall offer up | <big><span class="asgreek">αφελείτε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tax | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warriors, | <big><span class="asgreek">πολεμιστών</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones going forth | <big><span class="asgreek">εκπορευομένων</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle array, | <big><span class="asgreek">παράταξιν</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακοσίων</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys; | <big><span class="asgreek">όνων</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall offer up | **<big>[[G0851\|αφελείτε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tax | **<big>[[G5056\|τέλος]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| warriors, | **<big>[[G8841\|πολεμιστών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones going forth | **<big>[[G1607\|εκπορευομένων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| battle array, | **<big>[[G8640\|παράταξιν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακοσίων]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| people, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cattle, | **<big>[[G2934\|κτηνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| oxen, | **<big>[[G1016\|βοών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| donkeys; | **<big>[[G3688\|όνων]]</big>** |
 [[Num.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.27|<< Numbers 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.29|Numbers 31:29 >>]]</td></tr></table>
 
 

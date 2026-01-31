@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוּמָה‎</span></big> **Dûwmâh** <small>*(doo-maw')*</small> ==**Dumah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎דּוּמָה‎</span><sup><small>[[H1745]]</small></sup></small>
+**<big><span class="ashebrew">‎דּוּמָה‎</span></big>** **Dûwmâh** <small>*(doo-maw')*</small> ==**Dumah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1745|‎דּוּמָה‎]]</big>**</small>
 
 $\quad$ Dumah.
 - § Dumah = *"silence"*

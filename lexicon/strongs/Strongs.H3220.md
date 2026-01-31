@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָם‎</span></big> **yâm** <small>*(yawm)*</small> ==**sea**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יָם‎</span></big>** **yâm** <small>*(yawm)*</small> ==**sea**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to roar</small>
 
 $\quad$ sea ([idiom] -faring man, (-shore)), south, west (-ern, side, -ward).
@@ -17,4 +17,4 @@ $\quad$ **1f)** mighty river (Nile)
 $\quad$ **1g)** the sea (the great basin in the temple court)
 $\quad$ **1h)** seaward, west, westward
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυσμή</span><sup><small>[[G1424]]</small></sup> · <span class="asgreek">θάλασσα</span><sup><small>[[G2281]]</small></sup> · <span class="asgreek">παράλιος</span><sup><small>[[G3882]]</small></sup>
+<small>See Greek: </small>**<big>[[G1424|δυσμή]]</big>** · **<big>[[G2281|θάλασσα]]</big>** · **<big>[[G3882|παράλιος]]</big>**

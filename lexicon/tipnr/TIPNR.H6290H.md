@@ -1,8 +1,8 @@
 <small>*Mount Paran • A mountain associated with God's appearance*</small>
 
 Mount Paran is mentioned in poetic passages as a place from which God comes or shines forth.
-- A location in Paran<[[H6290G]]> first mentioned at [[1Kgs.11.18b|Deu.33.2]]; 
-- only referred to as Paran\_Mount<[[H6290H]]> \(<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- A location in Paran **<big>[[H6290|פָּארָן]]</big>** first mentioned at [[1Kgs.11.18b|Deu.33.2]]; 
+- only referred to as Paran\_Mount **<big>[[H6290|פָּארָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.151667,33.541944&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The exact location of Mount Paran is uncertain, and there is no clear geographic
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Paran | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6290H) <small>*Hebrew*</small> | 2x | [[Deu.33.2] & [Hab.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paran\*\|reference=Deu.33.2;Hab.3.3) |
-All Strong's for **Paran_Mount**: \[[[H6290H]]\]
+| (Mount )Paran | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6290H) | 2x | [[Deu.33.2] & [Hab.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paran\*\|reference=Deu.33.2;Hab.3.3) |
+All entries for **Paran Mount**:  **<big>[[H6290|פָּארָן]]</big>**

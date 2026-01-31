@@ -7,32 +7,32 @@ So he measured the length thereof, twenty cubits; and the breadth, twenty cubits
 Then he measured the room adjacent to the inner sanctuary to be twenty cubits long and twenty cubits wide. And he said to me, “This is the Most Holy Place.”<small><sub>**MT:**</sub></small>
 [[Ezek.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.3|<< Ezekiel 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.5|Ezekiel 41:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates -- | <big><span class="asgreek">πυλών</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] breadth -- | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple. | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| length | **<big>[[G3372\|μήκος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| gates -- | **<big>[[G4439\|πυλών]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] breadth -- | **<big>[[G7563\|εύρος]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| temple. | **<big>[[G3485\|ναού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies. | **<big>[[G0039\|αγίων]]</big>** |
 [[Ezek.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.3|<< Ezekiel 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.5|Ezekiel 41:5 >>]]</td></tr></table>
 
 

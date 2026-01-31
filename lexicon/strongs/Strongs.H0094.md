@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָגוּר‎</span></big> **ʼÂgûwr** <small>*(aw-goor')*</small> ==**Agur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>passive participle of <span class="ashebrew">‎אָגַר‎</span><sup><small>[[H0103]]</small></sup>; gathered (i.e. received among the sages)</small>
+**<big><span class="ashebrew">‎אָגוּר‎</span></big>** **ʼÂgûwr** <small>*(aw-goor')*</small> ==**Agur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>passive participle of **<big>[[H0103|‎אָגַר‎]]</big>**; gathered (i.e. received among the sages)</small>
 
 $\quad$ Agur.
 - § Agur = *"gathered"*

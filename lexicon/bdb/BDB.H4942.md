@@ -1,4 +1,4 @@
-<small>Also see: [[H8240]]</small>
+<small>Also see: **<big>[[H8240|שָׁפָת]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎שְׁפַתָּ֑יִם‎</span> **noun [masculine] dual**: probably = <span class="bdbLangHebrew">‎מִשְׁפְּתַיִם‎</span>, below, q. v.; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בֵּין שׁ‎</span> [[Ps.68.14|Ps 68:14]] (based on [[Judg.5.16|Judg 5:16]] ?). 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמִידָעִי‎</span></big> **Shᵉmîydâʻîy** <small>*(shem-ee-daw-ee')*</small> ==**Shemidaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎שְׁמִידָע‎</span><sup><small>[[H8061]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁמִידָעִי‎</span></big>** **Shᵉmîydâʻîy** <small>*(shem-ee-daw-ee')*</small> ==**Shemidaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H8061|‎שְׁמִידָע‎]]</big>**</small>
 
 $\quad$ Shemidaites.
 - § Shemidaites = *see Shemida "wise"*

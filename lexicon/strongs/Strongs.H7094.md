@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָצַב‎</span></big> **qâtsab** <small>*(kaw-tsab')*</small> ==**to shear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָצַב‎</span></big>** **qâtsab** <small>*(kaw-tsab')*</small> ==**to shear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut down, shorn.
@@ -6,4 +6,4 @@ $\quad$ cut down, shorn.
 
 **1)** (Qal) to cut off, shear
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κείρω</span><sup><small>[[G2751]]</small></sup>
+<small>See Greek: </small>**<big>[[G2751|κείρω]]</big>**

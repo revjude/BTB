@@ -7,27 +7,27 @@ So stood the two [companies of them that gave] thanks in the house of God, and I
 The two thanksgiving choirs then stood in the house of God, as did I, along with the half of the officials accompanying me,<small><sub>**MT:**</sub></small>
 [[Neh.12.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.39|<< Nehemiah 12:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.41|Nehemiah 12:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two \[groups\] | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for praise | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commandants | <big><span class="asgreek">στρατηγών</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| two \[groups\] | **<big>[[G1417\|δύο]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| for praise | **<big>[[G0133\|αινέσεως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| commandants | **<big>[[G4755\|στρατηγών]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Neh.12.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.39|<< Nehemiah 12:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.41|Nehemiah 12:41 >>]]</td></tr></table>
 
 

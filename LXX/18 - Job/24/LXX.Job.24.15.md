@@ -7,21 +7,21 @@ The eye also of the adulterer waiteth for the twilight, saying, No eye shall see
 The eye of the adulterer watches for twilight. Thinking, ‘No eye will see me,’ he covers his face.<small><sub>**MT:**</sub></small>
 [[Job.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.14|<< Job 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.16|Job 24:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] adulterer | <big><span class="asgreek">μοιχού</span></big> <sup><small><small>[[G3432]]</small></small></sup> |
-| watched | <big><span class="asgreek">εφύλαξε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| for \[the\] darkness, | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| think of me beforehand | <big><span class="asgreek">προνοήσει</span></big> <sup><small><small>[[G4306]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a concealment | <big><span class="asgreek">αποκρυβήν</span></big> <sup><small><small>[[G6449]]</small></small></sup> |
-| \[for his\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] eye | **<big>[[G3788\|οφθαλμός]]</big>** |
+| of \[the\] adulterer | **<big>[[G3432\|μοιχού]]</big>** |
+| watched | **<big>[[G5442\|εφύλαξε]]</big>** |
+| for \[the\] darkness, | **<big>[[G4655\|σκότος]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| think of me beforehand | **<big>[[G4306\|προνοήσει]]</big>** **<big>[[G1473\|με]]</big>** |
+| \[The\] eye | **<big>[[G3788\|οφθαλμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a concealment | **<big>[[G6449\|αποκρυβήν]]</big>** |
+| \[for his\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| he put | **<big>[[G5087\|έθετο]]</big>** |
 [[Job.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.14|<< Job 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.16|Job 24:16 >>]]</td></tr></table>
 
 

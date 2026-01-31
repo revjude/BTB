@@ -1,5 +1,4 @@
-<span class="ashebrew">‎שָׁמַע‎</span> <small>***(sha.ma)***</small> ==**to hear: understand**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H8085G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H8085G|שָׁמַע]]</big>**</small> 
 
 - : understand
 - v

@@ -7,44 +7,44 @@ Thus saith the Lord GOD; In the day when he went down to the grave I caused a mo
 This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it.<small><sub>**MT:**</sub></small>
 [[Ezek.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades, | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| mourned | <big><span class="asgreek">επένθησεν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abyss | <big><span class="asgreek">άβυσσος</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I attended to | <big><span class="asgreek">επέστησα</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her rivers, | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| restrained | <big><span class="asgreek">εκώλυσα</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
-| \[the\] abundance | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of water. | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was darkened | <big><span class="asgreek">εσκότασεν</span></big> <sup><small><small>[[G9117]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon | <big><span class="asgreek">Λίβανος</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plains | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were enfeebled | <big><span class="asgreek">εξελύθησαν</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he went down | **<big>[[G2597\|κατέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades, | **<big>[[G0086\|άδου]]</big>** |
+| mourned | **<big>[[G3996\|επένθησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| abyss | **<big>[[G0012\|άβυσσος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I attended to | **<big>[[G2186\|επέστησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her rivers, | **<big>[[G4215\|ποταμούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| restrained | **<big>[[G2967\|εκώλυσα]]</big>** |
+| \[the\] abundance | **<big>[[G4128\|πλήθος]]</big>** |
+| of water. | **<big>[[G5204\|ύδατος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was darkened | **<big>[[G9117\|εσκότασεν]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Lebanon | **<big>[[H3844\|Λίβανος]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plains | **<big>[[G8676\|πεδίου]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| were enfeebled | **<big>[[G1590\|εξελύθησαν]]</big>** |
 [[Ezek.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 
 

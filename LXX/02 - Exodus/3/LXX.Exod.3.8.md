@@ -11,53 +11,53 @@ I have come down to rescue them from the hand of the Egyptians and to bring them
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I came down | <big><span class="asgreek">κατέβην</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to rescue | <big><span class="asgreek">εξελέσθαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians, | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to lead | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to bring | <big><span class="asgreek">εισαγαγείν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| populous; | <big><span class="asgreek">πολλήν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| flowing | <big><span class="asgreek">ρέουσαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey; | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites, | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hittites, | <big><span class="asgreek">Χετταίων</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Perizzites, | <big><span class="asgreek">Φερεζαίων</span></big> <sup><small><small>[[H6522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gergesites, | <big><span class="asgreek">Γεργεσαίων</span></big> <sup><small><small>[[H1622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hivites, | <big><span class="asgreek">Ευαίων</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jebusites. | <big><span class="asgreek">Ιεβουσαίων</span></big> <sup><small><small>[[H2983]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I came down | **<big>[[G2597\|κατέβην]]</big>** |
+| to rescue | **<big>[[G1807\|εξελέσθαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Egyptians, | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to lead | **<big>[[G1806\|εξαγαγείν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| that land, | **<big>[[G1093\|γης]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to bring | **<big>[[G1521\|εισαγαγείν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| good | **<big>[[G0018\|αγαθήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| populous; | **<big>[[G4183\|πολλήν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| flowing | **<big>[[G4482\|ρέουσαν]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey; | **<big>[[G3192\|μέλι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Canaanites, | **<big>[[G5477\|Χαναναίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hittites, | **<big>[[H2850\|Χετταίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Perizzites, | **<big>[[H6522\|Φερεζαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Gergesites, | **<big>[[H1622\|Γεργεσαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hivites, | **<big>[[H2340\|Ευαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jebusites. | **<big>[[H2983\|Ιεβουσαίων]]</big>** |
 [[Exod.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.7|<< Exodus 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.9|Exodus 3:9 >>]]</td></tr></table>
 
 

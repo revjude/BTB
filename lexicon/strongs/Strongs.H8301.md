@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂרִיד‎</span></big> **Sârîyd** <small>*(suw-reed')*</small> ==**Sarid**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שָׂרִיד‎</span><sup><small>[[H8300]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׂרִיד‎</span></big>** **Sârîyd** <small>*(suw-reed')*</small> ==**Sarid**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H8300|‎שָׂרִיד‎]]</big>**</small>
 
 $\quad$ Sarid.
 - § Sarid = *"survivor"*

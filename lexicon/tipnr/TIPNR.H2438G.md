@@ -4,7 +4,7 @@ King living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Hiram</span>, king of Tyre, provided materials and craftsmen for the construction of David's palace and Solomon's temple and palace.
 - A king of Syria living at the time of United Monarchy, first mentioned at [[2Sam.5.11|2Sa.5.11]]; 
-- referred to as Hiram<[[H2438G]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Hiram \(=Ketiv. Qere, KJV= Huram\) <[[H2361G]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Hiram **<big>[[H2438|חִירָם]]</big>**, or Hiram \(=Ketiv. Qere, KJV= Huram\)  **<big>[[H2361|חוּרָם]]</big>**.
 
 Hiram, also known as Huram, was the king of Tyre, a Phoenician city-state located on the Mediterranean coast north of Israel. He is mentioned in several passages in the Old Testament, primarily in connection with his alliances with King David and King Solomon of Israel. 
 
@@ -18,8 +18,8 @@ In addition to their trade and construction projects, Hiram and Solomon exchange
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hiram | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2438G) <small>*Hebrew*</small> | 18x | [[2Sa.5.11] ... [1Ki.10.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Sa.5.11;1Ki.5.1;1Ki.5.1;1Ki.5.2;1Ki.5.7;1Ki.5.8;1Ki.5.10;1Ki.5.11;1Ki.5.11;1Ki.5.12;1Ki.5.18;1Ki.9.11;1Ki.9.11;1Ki.9.12;1Ki.9.14;1Ki.9.27;1Ki.10.11;1Ki.10.22) |
-| Hiram (KJV= Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) <small>*Hebrew*</small> | 6x | [[2Ch.2.3] ... [2Ch.9.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Ch.2.3;2Ch.2.11;2Ch.2.12;2Ch.8.2;2Ch.8.18;2Ch.9.21) |
-| Hiram (=Ketiv. Qere, KJV= Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) <small>*Hebrew*</small> | 1x | [2Ch.9.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Ch.9.10) |
-| Hiram (=Ketiv. Qere=Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) <small>*Hebrew*</small> | 1x | [1Ch.14.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=1Ch.14.1) |
-All Strong's for **Hiram or Huram**: \[[[H2438G]]\] \[[[H2361G]]\]
+| Hiram | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2438G) | 18x | [[2Sa.5.11] ... [1Ki.10.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Sa.5.11;1Ki.5.1;1Ki.5.1;1Ki.5.2;1Ki.5.7;1Ki.5.8;1Ki.5.10;1Ki.5.11;1Ki.5.11;1Ki.5.12;1Ki.5.18;1Ki.9.11;1Ki.9.11;1Ki.9.12;1Ki.9.14;1Ki.9.27;1Ki.10.11;1Ki.10.22) |
+| Hiram (KJV= Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) | 6x | [[2Ch.2.3] ... [2Ch.9.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Ch.2.3;2Ch.2.11;2Ch.2.12;2Ch.8.2;2Ch.8.18;2Ch.9.21) |
+| Hiram (=Ketiv. Qere, KJV= Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) | 1x | [2Ch.9.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=2Ch.9.10) |
+| Hiram (=Ketiv. Qere=Huram) | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361G) | 1x | [1Ch.14.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hiram\*\|reference=1Ch.14.1) |
+All entries for **Hiram or Huram**:  **<big>[[H2438|חִירָם]]</big>** ☩  **<big>[[H2361|חוּרָם]]</big>**

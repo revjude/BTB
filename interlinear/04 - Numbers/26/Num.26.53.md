@@ -6,14 +6,14 @@ Unto these the land shall be divided for an inheritance according to the number 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.52|<< Numbers 26:52]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.54|Numbers 26:54 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to these  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֗לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be divided  | <span class="ashebrew"><big>תֵּחָלֵ֥ק </big></span><small><small><sup>[[H2505A]]</sup></small></small> &#8207;| te.cha.Lek <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֛רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> an inheritance  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נַחֲלָ֖ה </big></span><small><small><sup>[[H5159]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> na.cha.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] number of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִסְפַּ֥ר </big></span><small><small><sup>[[H4557]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mis.Par <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| names  | <span class="ashebrew"><big>שֵׁמֽוֹת </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to these  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be divided  |**<big>&#8207;[[H2505A\|תֵּחָלֵ֥ק]]&#8207; </big>**| te.cha.Lek<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֛רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> an inheritance  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5159\|נַחֲלָ֖ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] number of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4557\|מִסְפַּ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| names  |**<big>&#8207;[[H8034\|שֵׁמֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.52|<< Numbers 26:52]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.54|Numbers 26:54 >>]]</td></tr></table>
 
 

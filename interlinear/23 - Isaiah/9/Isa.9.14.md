@@ -6,17 +6,17 @@ So the LORD will cut off Israel’s head and tail, both palm branch and reed in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.13|<< Isaiah 9:13]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.15|Isaiah 9:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he cut off  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּכְרֵ֨ת </big></span><small><small><sup>[[H3772G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yakh.Ret <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Israel  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יִּשְׂרָאֵ֗ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head  | <span class="ashebrew"><big>רֹ֧אשׁ </big></span><small><small><sup>[[H7218A]]</sup></small></small> &#8207;| rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and tail  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זָנָ֛ב </big></span><small><small><sup>[[H2180]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> za.Nav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| palm branch  | <span class="ashebrew"><big>כִּפָּ֥ה </big></span><small><small><sup>[[H3712]]</sup></small></small> &#8207;| ki.Pah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and bulrush  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַגְמ֖וֹן </big></span><small><small><sup>[[H0100]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ag.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָֽד </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he cut off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772G\|יַּכְרֵ֨ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yakh.Ret<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Israel  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3478\|יִּשְׂרָאֵ֗ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head  |**<big>&#8207;[[H7218A\|רֹ֧אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and tail  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2180\|זָנָ֛ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.Nav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palm branch  |**<big>&#8207;[[H3712\|כִּפָּ֥ה]]&#8207; </big>**| ki.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bulrush  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0100\|אַגְמ֖וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ag.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.13|<< Isaiah 9:13]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.15|Isaiah 9:15 >>]]</td></tr></table>
 
 

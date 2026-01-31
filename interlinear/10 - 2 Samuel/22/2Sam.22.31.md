@@ -6,19 +6,19 @@ As for God, His way is perfect; the word of the LORD is flawless. He is a shield
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.30|<< 2 Samuel 22:30]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.32|2 Samuel 22:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> God  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] blameless  | <span class="ashebrew"><big>תָּמִ֣ים </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| ta.Mim <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way his  | <span class="ashebrew"><big>דַּרְכּ֑ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| dar.K <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] word of  | <span class="ashebrew"><big>אִמְרַ֤ת </big></span><small><small><sup>[[H0565A]]</sup></small></small> &#8207;| 'im.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] refined  | <span class="ashebrew"><big>צְרוּפָ֔ה </big></span><small><small><sup>[[H6884]]</sup></small></small> &#8207;| tze.ru.Fah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a shield  | <span class="ashebrew"><big>מָגֵ֣ן </big></span><small><small><sup>[[H4043]]</sup></small></small> &#8207;| ma.Gen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for all  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֹ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| those [who] seek refuge  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חֹסִ֥ים </big></span><small><small><sup>[[H2620]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> cho.Sim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> him  | <span class="ashebrew"><big>בּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| b <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] blameless  |**<big>&#8207;[[H8549G\|תָּמִ֣ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way his  |**<big>&#8207;[[H1870G\|דַּרְכּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  |**<big>&#8207;[[H0565A\|אִמְרַ֤ת]]&#8207; </big>**| 'im.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] refined  |**<big>&#8207;[[H6884\|צְרוּפָ֔ה]]&#8207; </big>**| tze.ru.Fah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a shield  |**<big>&#8207;[[H4043\|מָגֵ֣ן]]&#8207; </big>**| ma.Gen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] seek refuge  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2620\|חֹסִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> him  |**<big>&#8207;[[H9003\|בּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.30|<< 2 Samuel 22:30]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.32|2 Samuel 22:32 >>]]</td></tr></table>
 
 

@@ -11,38 +11,38 @@ Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many
 > $\quad$ referenced by: [[Rev.18.11|Rev 18:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Sor, | <big><span class="asgreek">Σορ</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούση</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrance | <big><span class="asgreek">εισόδου</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| market-place | <big><span class="asgreek">εμπορίω</span></big> <sup><small><small>[[G1712]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| islands | <big><span class="asgreek">νήσων</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Sor, | <big><span class="asgreek">Σορ</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| invested | <big><span class="asgreek">περιέθηκα</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| myself with | <big><span class="asgreek">εμαυτή</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| my beauty. | <big><span class="asgreek">κάλλος</span></big> <sup><small><small>[[G7782]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Sor, | **<big>[[G5184\|Σορ]]</big>** |
+| to the one | **<big>[[G3588\|τη]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούση]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| entrance | **<big>[[G1529\|εισόδου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| market-place | **<big>[[G1712\|εμπορίω]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| islands | **<big>[[G3520\|νήσων]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Sor, | **<big>[[G5184\|Σορ]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| said, | **<big>[[G2036\|είπας]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| invested | **<big>[[G4060\|περιέθηκα]]</big>** |
+| myself with | **<big>[[G1683\|εμαυτή]]</big>** |
+| my beauty. | **<big>[[G7782\|κάλλος]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ezek.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
 
 

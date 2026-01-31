@@ -9,31 +9,31 @@ Judah is gone into captivity because of affliction, and because of great servitu
 Judah has gone into exile under affliction and harsh slavery; she dwells among the nations but finds no place to rest. All her pursuers have overtaken her in the midst of her distress.<small><sub>**MT:**</sub></small>
 [[Lam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.2|<< Lamentations 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.4|Lamentations 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΓΙΜΑΛ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΓΙΜΑΛ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Judea was displaced | <big><span class="asgreek">μετωκίσθη</span></big> <sup><small><small>[[G3351]]</small></small></sup> <big><span class="asgreek">Ιουδαία</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| her humiliation, | <big><span class="asgreek">ταπεινώσεως</span></big> <sup><small><small>[[G5014]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of her servitude. | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| She stays | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] nations, | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| she did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| rest. | <big><span class="asgreek">ανάπαυσιν</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pursuing | <big><span class="asgreek">καταδιώκοντες</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| overtook | <big><span class="asgreek">κατέλαβον</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| afflicting. | <big><span class="asgreek">θλιβόντων</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| ΓΙΜΑΛ <sup><small>[acrostic title]</small></sup> |  |
+| Judea was displaced | **<big>[[G3351\|μετωκίσθη]]</big>** **<big>[[G2449\|Ιουδαία]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| her humiliation, | **<big>[[G5014\|ταπεινώσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| of her servitude. | **<big>[[G1397\|δουλείας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| She stays | **<big>[[G2523\|εκάθισεν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] nations, | **<big>[[G1484\|έθνεσιν]]</big>** |
+| she did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρεν]]</big>** |
+| rest. | **<big>[[G0372\|ανάπαυσιν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| pursuing | **<big>[[G2614\|καταδιώκοντες]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| overtook | **<big>[[G2638\|κατέλαβον]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| afflicting. | **<big>[[G2346\|θλιβόντων]]</big>** |
 [[Lam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.2|<< Lamentations 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.4|Lamentations 1:4 >>]]</td></tr></table>
 
 

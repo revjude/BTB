@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָבַט‎</span></big> **châbaṭ** <small>*(khaw-bat')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָבַט‎</span></big>** **châbaṭ** <small>*(khaw-bat')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat (off, out), thresh.
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to beat out
 $\quad$ $\quad$ **1a2)** to beat off
 $\quad$ **1b)** (Niphal) to be beaten out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκτινάσσω</span><sup><small>[[G1621]]</small></sup> · <span class="asgreek">ῥαβδίζω</span><sup><small>[[G4463]]</small></sup>
+<small>See Greek: </small>**<big>[[G1621|ἐκτινάσσω]]</big>** · **<big>[[G4463|ῥαβδίζω]]</big>**

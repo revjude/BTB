@@ -11,19 +11,19 @@ Posterity will serve Him; they will declare the Lord to a new generation.<small
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall serve | <big><span class="asgreek">δουλεύσει</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be announced | <big><span class="asgreek">αναγγελήσεται</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[The\] generation | <big><span class="asgreek">γενεά</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall serve | **<big>[[G1398\|δουλεύσει]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| shall be announced | **<big>[[G0312\|αναγγελήσεται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \[The\] generation | **<big>[[G1074\|γενεά]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| coming | **<big>[[G2064\|ερχομένη]]</big>** |
 [[Ps.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.29|<< Psalm 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.31|Psalm 22:31 >>]]</td></tr></table>
 
 

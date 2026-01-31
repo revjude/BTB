@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎פְּלַג‎</span></big> **pᵉlag** <small>*(pel-ag')*</small> ==**half**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎פְּלַג‎</span><sup><small>[[H6386]]</small></sup></small>
+**<big><span class="asaramaic">‎פְּלַג‎</span></big>** **pᵉlag** <small>*(pel-ag')*</small> ==**half**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H6386|‎פְּלַג‎]]</big>**</small>
 
 $\quad$ dividing.
 - ***a half***

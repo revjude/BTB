@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elkosh</span>, the hometown of the prophet Nahum, probably located in Judah.
 - A location only mentioned at [[Num.33.10|Nam.1.1]]; 
-- only referred to as Elkosh<[[H0512]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Elkosh **<big>[[H0512|אֶלְקֹשִׁי]]</big>**.
 
 Elkosh is mentioned only once in the Bible, in Nahum 1:1, as the hometown of the prophet Nahum. No other details about the town are provided in the biblical text. Nahum's prophecy is primarily an oracle against the Assyrian capital of Nineveh, foretelling its destruction due to its wickedness and cruelty. 
 
@@ -12,5 +12,5 @@ Regardless of its exact location, Elkosh was significant as the birthplace of on
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elkosh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H0512) <small>*Hebrew*</small> | 1x | [Nam.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elkosh\*\|reference=Nam.1.1) |
-All Strong's for **Elkosh**: \[[[H0512]]\]
+| Elkosh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H0512) | 1x | [Nam.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elkosh\*\|reference=Nam.1.1) |
+All entries for **Elkosh**:  **<big>[[H0512|אֶלְקֹשִׁי]]</big>**

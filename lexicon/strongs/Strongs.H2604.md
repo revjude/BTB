@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲנַן‎</span></big> **chănan** <small>*(khan-an')*</small> ==**be gracious**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup></small>
+**<big><span class="asaramaic">‎חֲנַן‎</span></big>** **chănan** <small>*(khan-an')*</small> ==**be gracious**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2603|‎חָנַן‎]]</big>**</small>
 
 $\quad$ shew mercy, make supplication.
 - ***to favor*** or (causatively) ***to entreat***

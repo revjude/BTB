@@ -7,24 +7,24 @@ For oftentimes also thine own heart knoweth that thou thyself likewise hast curs
 For you know in your heart that many times you yourself have cursed others.<small><sub>**MT:**</sub></small>
 [[Eccl.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.21|<< Ecclesiastes 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.23|Ecclesiastes 7:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| very often | <big><span class="asgreek">πλειστάκις</span></big> <sup><small><small>[[G8804]]</small></small></sup> |
-| he will act wickedly | <big><span class="asgreek">πονηρεύσεταί</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| against you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| returning | <big><span class="asgreek">καθόδους</span></big> <sup><small><small>[[G7761]]</small></small></sup> |
-| many \[times\] | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| he shall inflict | <big><span class="asgreek">κακώσει</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| your heart; | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cursed | <big><span class="asgreek">κατηράσω</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| others. | <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| very often | **<big>[[G8804\|πλειστάκις]]</big>** |
+| he will act wickedly | **<big>[[G8863\|πονηρεύσεταί]]</big>** |
+| against you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| returning | **<big>[[G7761\|καθόδους]]</big>** |
+| many \[times\] | **<big>[[G4183\|πολλάς]]</big>** |
+| he shall inflict | **<big>[[G2559\|κακώσει]]</big>** |
+| your heart; | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| cursed | **<big>[[G2672\|κατηράσω]]</big>** |
+| others. | **<big>[[G2087\|ετέρους]]</big>** |
 [[Eccl.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.21|<< Ecclesiastes 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.23|Ecclesiastes 7:23 >>]]</td></tr></table>
 
 

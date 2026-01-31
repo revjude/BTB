@@ -11,40 +11,40 @@ The nations will escort Israel and bring it to its homeland. Then the house of I
 > $\quad$ referenced by: [[Rev.13.10|Rev 13:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring \[them\] | <big><span class="asgreek">εισάξουσιν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their place; | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall inherit \[them\], | <big><span class="asgreek">κατακληρονομήσουσι</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be multiplied | <big><span class="asgreek">πληθυνθήσονται</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| manservants | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| maidservants; | <big><span class="asgreek">δούλας</span></big> <sup><small><small>[[G1399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| captives | <big><span class="asgreek">αιχμάλωτοι</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones capturing | <big><span class="asgreek">αιχμαλωτεύσαντες</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall dominate | <big><span class="asgreek">κυριευθήσονται</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dominating them. | <big><span class="asgreek">κυριεύσαντες</span></big> <sup><small><small>[[G2961]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring \[them\] | **<big>[[G1521\|εισάξουσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their place; | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall inherit \[them\], | **<big>[[G7853\|κατακληρονομήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be multiplied | **<big>[[G4129\|πληθυνθήσονται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| manservants | **<big>[[G1401\|δούλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| maidservants; | **<big>[[G1399\|δούλας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| captives | **<big>[[G0164\|αιχμάλωτοι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones capturing | **<big>[[G0162\|αιχμαλωτεύσαντες]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall dominate | **<big>[[G2961\|κυριευθήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones dominating them. | **<big>[[G2961\|κυριεύσαντες]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Isa.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.1|<< Isaiah 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.3|Isaiah 14:3 >>]]</td></tr></table>
 
 

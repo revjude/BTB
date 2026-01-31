@@ -7,26 +7,26 @@ And ye shall teach them your children, speaking of them when thou sittest in thi
 Teach them to your children, speaking about them when you sit at home and when you walk along the road, when you lie down and when you get up.<small><sub>**MT:**</sub></small>
 [[Deut.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.18|<< Deuteronomy 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.20|Deuteronomy 11:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall teach | <big><span class="asgreek">διδάξετε</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sitting down | <big><span class="asgreek">καθημένους</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευομένους</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| laying in bed, | <big><span class="asgreek">κοιταζομένους</span></big> <sup><small><small>[[G8045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| arising. | <big><span class="asgreek">διανισταμένους</span></big> <sup><small><small>[[G6853]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall teach | **<big>[[G1321\|διδάξετε]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to speak | **<big>[[G2980\|λαλείν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| sitting down | **<big>[[G2521\|καθημένους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house, | **<big>[[G3624\|οίκω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| going | **<big>[[G4198\|πορευομένους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] way, | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| laying in bed, | **<big>[[G8045\|κοιταζομένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| arising. | **<big>[[G6853\|διανισταμένους]]</big>** |
 [[Deut.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.18|<< Deuteronomy 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.20|Deuteronomy 11:20 >>]]</td></tr></table>
 
 

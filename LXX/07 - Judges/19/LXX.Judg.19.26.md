@@ -10,32 +10,32 @@ Then came the woman in the dawning of the day, and fell down at the door of the 
 Early that morning, the woman went back to the house where her master was staying, collapsed at the doorway, and lay there until it was light.<small><sub>**MT:**</sub></small>
 [[Judg.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibule | <big><span class="asgreek">πυλώνος</span></big> <sup><small><small>[[G4440]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her master | <big><span class="asgreek">κυριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| light shown through. | <big><span class="asgreek">διέφαυσε</span></big> <sup><small><small>[[G6898]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| in the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fell | **<big>[[G4098\|έπεσε]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| vestibule | **<big>[[G4440\|πυλώνος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| man | **<big>[[G0435\|ανδρός]]</big>** |
+| of whom | **<big>[[G3739\|ου]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her master | **<big>[[G2962\|κυριός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| light shown through. | **<big>[[G6898\|διέφαυσε]]</big>** |
 [[Judg.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 
 

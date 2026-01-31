@@ -7,56 +7,56 @@ This day will the LORD deliver thee into mine hand; and I will smite thee, and t
 This day the LORD will deliver you into my hand. This day I will strike you down, cut off your head, and give the carcasses of the Philistine army to the birds of the air and the creatures of the earth. Then the whole world will know that there is a God in Israel.<small><sub>**MT:**</sub></small>
 [[1Sam.17.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.45|<< 1 Samuel 17:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.47|1 Samuel 17:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall shut you up | <big><span class="asgreek">αποκλείσει</span></big> <sup><small><small>[[G0608]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will kill | <big><span class="asgreek">αποκτενώ</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will remove | <big><span class="asgreek">αφελώ</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your carcass | <big><span class="asgreek">κωλά</span></big> <sup><small><small>[[G2966]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carcasses | <big><span class="asgreek">κώλα</span></big> <sup><small><small>[[G2966]]</small></small></sup> |
-| of \[the\] camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| birds | <big><span class="asgreek">πετεινοίς</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρίοις</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| God is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall shut you up | **<big>[[G0608\|αποκλείσει]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hand, | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will kill | **<big>[[G0615\|αποκτενώ]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will remove | **<big>[[G0851\|αφελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your carcass | **<big>[[G2966\|κωλά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carcasses | **<big>[[G2966\|κώλα]]</big>** |
+| of \[the\] camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this | **<big>[[G3778\|ταύτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| birds | **<big>[[G4071\|πετεινοίς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρίοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall know | **<big>[[G1097\|γνώσεται]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| God is | **<big>[[G1510\|εστί]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Sam.17.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.45|<< 1 Samuel 17:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.47|1 Samuel 17:47 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Jehoahaz [was] twenty and three years old when he began to reign, and he reigned
 Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months.<small><sub>**MT:**</sub></small>
 [[2Chr.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.1|<< 2 Chronicles 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.3|2 Chronicles 36:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[was\] a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| years \[old\] | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| Jehoahaz | <big><span class="asgreek">Ιωάχαζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his taking reign, | <big><span class="asgreek">βασιλεύειν</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three months | <big><span class="asgreek">τρίμηνον</span></big> <sup><small><small>[[G5150]]</small></small></sup> |
-| he reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| \[was\] a son | **<big>[[G5207\|υιός]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| years \[old\] | **<big>[[G2094\|ετών]]</big>** |
+| Jehoahaz | **<big>[[H3059\|Ιωάχαζ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his taking reign, | **<big>[[G0936\|βασιλεύειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three months | **<big>[[G5150\|τρίμηνον]]</big>** |
+| he reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Chr.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.1|<< 2 Chronicles 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.3|2 Chronicles 36:3 >>]]</td></tr></table>
 
 

@@ -10,16 +10,16 @@ The LORD is near to all who call on Him, to all who call out to Him in truth.
 > $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] near  | <span class="ashebrew"><big>קָר֣וֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ka.Rov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to all  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] call out to him  | <span class="ashebrew"><big>קֹרְאָ֑י </big></span><small><small><sup>[[H7121G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ko.re.'A <small><sup>[[HVqrmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to all  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֹ֤ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Khol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] who  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they call out to him  | <span class="ashebrew"><big>יִקְרָאֻ֣ </big></span><small><small><sup>[[H7121G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| yik.ra.'U. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in truth  | <span class="ashebrew"><big>בֶ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֱמֶֽת </big></span><small><small><sup>[[H0571H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] near  |**<big>&#8207;[[H7138\|קָר֣וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] call out to him  |**<big>&#8207;[[H7121G\|קֹרְאָ֑י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ko.re.'A<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹ֤ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they call out to him  |**<big>&#8207;[[H7121G\|יִקְרָאֻ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yik.ra.'U.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in truth  |**<big>&#8207;[[H9003\|בֶ]]&#8207;&#8207;[[H0571H\|אֱמֶֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.17|<< Psalms 145:17]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.19|Psalms 145:19 >>]]</td></tr></table>
 
 

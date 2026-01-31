@@ -6,14 +6,14 @@ The LORD preserves the simplehearted; I was helpless, and He saved me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.5|<< Psalms 116:5]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.7|Psalms 116:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] protecting  | <span class="ashebrew"><big>שֹׁמֵ֣ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| simple people  | <span class="ashebrew"><big>פְּתָאיִ֣ם </big></span><small><small><sup>[[H6612A]]</sup></small></small> &#8207;| pe.ta.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהֹוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I had become low  | <span class="ashebrew"><big>דַּ֝לּוֹתִ֗י </big></span><small><small><sup>[[H1809]]</sup></small></small> &#8207;| da.lo.Ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<to> me  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he saved  | <span class="ashebrew"><big>יְהוֹשִֽׁיעַ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ho.Shi.a' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] protecting  |**<big>&#8207;[[H8104H\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| simple people  |**<big>&#8207;[[H6612A\|פְּתָאיִ֣ם]]&#8207; </big>**| pe.ta.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had become low  |**<big>&#8207;[[H1809\|דַּ֝לּוֹתִ֗י]]&#8207; </big>**| da.lo.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saved  |**<big>&#8207;[[H3467\|יְהוֹשִֽׁיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ho.Shi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.5|<< Psalms 116:5]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.7|Psalms 116:7 >>]]</td></tr></table>
 
 

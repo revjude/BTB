@@ -1,10 +1,8 @@
-<span class="ashebrew">‎גָּדִי‎</span> <small>***(ga.di)***</small> ==**Gad**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-name of: <small>[[H1410G]]</small> 
+<small>name of:</small> <small>**<big>[[H1410G|גָּד]]</big>**</small> 
 
 - Spomeone from the tribe of Gad  living at the time of the Patriarchs, first mentioned at [[Gen.30.11|Gen.30.11]]
--  son of: Israel ([[H3478]]) and Zilpah ([[H2153]])
--  brother of: Asher ([[H0836]])
--  half-brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Dan ([[H1835H]]), Naphtali ([[H5321]]), Issachar ([[H3485]]), Zebulun ([[H2074]]), Dinah ([[H1783]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
--  father of: Ziphion ([[H6837]]), Haggi ([[H2291]]), Shuni ([[H7764]]), Ezbon ([[H0675]]), Eri ([[H6179]]), Arod ([[H0720]]) and Areli ([[H0692]])
-- Another name of <i>gad</i> (<span class='ashebrew'>‎ג‎</span>ָּ<span class='ashebrew'>‎ד‎</span> "Gad" [[H1410G]])
-
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Zilpah (**<big>[[H2153|זִלְפָּה]]</big>**)
+-  brother of: Asher (**<big>[[H0836|אָשֵׁר]]</big>**)
+-  half-brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**), Dinah (**<big>[[H1783|דִּינָה]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  father of: Ziphion (**<big>[[H6837|צִפְיוֹן]]</big>**), Haggi (**<big>[[H2291|חַגִּי]]</big>**), Shuni (**<big>[[H7764|שׁוּנִי]]</big>**), Ezbon (**<big>[[H0675|אֶצְבּוֹן]]</big>**), Eri (**<big>[[H6179|עֵרִי]]</big>**), Arod (**<big>[[H0720|אֲרוֹד]]</big>**) and Areli (**<big>[[H0692|אַרְאֵלִי]]</big>**)
+- Another name of <i>gad</i> (<span class='ashebrew'>‎ג‎</span>ָּ<span class='ashebrew'>‎ד‎</span> "Gad" **<big>[[H1410G|גָּד]]</big>**)

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עֲזַרְאֵל‎</span> <small>***(a.zar.el)***</small> ==**Azarel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Exile and Return, only mentioned at [[Neh.12.36|Neh.12.36]]
--  son of: Jonathan ([[H3129K]])
--  brother of: Zechariah ([[H2148Z]]), Shemaiah ([[H8098V]]), Milalai ([[H4450]]), Gilalai ([[H1562]]), Maai ([[H4597]]), Nethanel ([[H5417P]]), Judah ([[H3063K]]) and Hanani ([[H2607K]])
+-  son of: Jonathan (**<big>[[H3129K|יוֹנָתָן]]</big>**)
+-  brother of: Zechariah (**<big>[[H2148Z|זְכַרְיָה]]</big>**), Shemaiah (**<big>[[H8098V|שְׁמַעְיָה]]</big>**), Milalai (**<big>[[H4450|מִלֲלַי]]</big>**), Gilalai (**<big>[[H1562|גִּלֲלַי]]</big>**), Maai (**<big>[[H4597|מָעַי]]</big>**), Nethanel (**<big>[[H5417P|נְתַנְאֵל]]</big>**), Judah (**<big>[[H3063K|יְהוּדָה]]</big>**) and Hanani (**<big>[[H2607K|חֲנָנִי]]</big>**)

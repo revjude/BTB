@@ -7,24 +7,24 @@ And he shall take to cleanse the house two birds, and cedar wood, and scarlet, a
 He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the house;<small><sub>**MT:**</sub></small>
 [[Lev.14.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.48|<< Leviticus 14:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.50|Leviticus 14:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to purify | <big><span class="asgreek">αφαγνίσαι</span></big> <sup><small><small>[[G6615]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| birds | <big><span class="asgreek">ορνίθια</span></big> <sup><small><small>[[G8551]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντα</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedar, | <big><span class="asgreek">κέδρινον</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twined | <big><span class="asgreek">κεκλωσμένον</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hyssop. | <big><span class="asgreek">ύσσωπον</span></big> <sup><small><small>[[G5301]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| to purify | **<big>[[G6615\|αφαγνίσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house, | **<big>[[G3614\|οικίαν]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| birds | **<big>[[G8551\|ορνίθια]]</big>** |
+| living | **<big>[[G2198\|ζώντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wood | **<big>[[G3586\|ξύλον]]</big>** |
+| of cedar, | **<big>[[G7989\|κέδρινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twined | **<big>[[G8029\|κεκλωσμένον]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hyssop. | **<big>[[G5301\|ύσσωπον]]</big>** |
 [[Lev.14.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.48|<< Leviticus 14:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.50|Leviticus 14:50 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ It [shall be] unto you a sabbath of rest, and ye shall afflict your souls: in th
 It will be a Sabbath of complete rest for you, and you shall humble yourselves. From the evening of the ninth day of the month until the following evening you are to keep your Sabbath.”<small><sub>**MT:**</sub></small>
 [[Lev.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.31|<< Leviticus 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.33|Leviticus 23:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A Sabbath | <big><span class="asgreek">σάββατα</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| of Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall humble | <big><span class="asgreek">ταπεινώσετε</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] ninth | <big><span class="asgreek">εννάτης</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month. | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| to | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| you shall observe the Sabbath | <big><span class="asgreek">σαββατιείτε</span></big> <sup><small><small>[[G9043]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your Sabbaths. | <big><span class="asgreek">σάββατα</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A Sabbath | **<big>[[G4521\|σάββατα]]</big>** |
+| of Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall humble | **<big>[[G5013\|ταπεινώσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your souls | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] ninth | **<big>[[G1766\|εννάτης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month. | **<big>[[G3376\|μηνός]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| to | **<big>[[G2193\|έως]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| you shall observe the Sabbath | **<big>[[G9043\|σαββατιείτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of your Sabbaths. | **<big>[[G4521\|σάββατα]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.31|<< Leviticus 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.33|Leviticus 23:33 >>]]</td></tr></table>
 
 

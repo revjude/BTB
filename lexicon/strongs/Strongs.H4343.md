@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַכְבֵּנָא‎</span></big> **Makbênâʼ** <small>*(mak-bay-naw')*</small> ==**Machbenah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎כַּבּוֹן‎</span><sup><small>[[H3522]]</small></sup>; knoll</small>
+**<big><span class="ashebrew">‎מַכְבֵּנָא‎</span></big>** **Makbênâʼ** <small>*(mak-bay-naw')*</small> ==**Machbenah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H3522|‎כַּבּוֹן‎]]</big>**; knoll</small>
 
 $\quad$ Machbenah.
 - § Machbenah = *"bond"*

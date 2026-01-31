@@ -10,30 +10,30 @@ But he went in, and stood before his master. And Elisha said unto him, Whence [c
 When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied.<small><sub>**MT:**</sub></small>
 [[2Kgs.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">παρειστήκει</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| From what place \[did you come from\] | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| Gehazi? | <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gehazi said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
-| has not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| gone | <big><span class="asgreek">πεπόρευται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| here or there. | <big><span class="asgreek">ένθα και ένθα</span></big> <sup><small><small>[[G7240]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G3936\|παρειστήκει]]</big>** |
+| before | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his master. | **<big>[[G2962\|κύριον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| From what place \[did you come from\] | **<big>[[G4159\|πόθεν]]</big>** |
+| Gehazi? | **<big>[[H1522\|Γιεζί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gehazi said, | **<big>[[G2036\|είπε]]</big>** **<big>[[H1522\|Γιεζί]]</big>** |
+| has not | **<big>[[G3756\|ου]]</big>** |
+| gone | **<big>[[G4198\|πεπόρευται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| here or there. | **<big>[[G7240\|ένθα και ένθα]]</big>** |
 [[2Kgs.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
 

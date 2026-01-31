@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צׇפְנַת פַּעְנֵחַ‎</span></big> **Tsophnath Paʻnêach** <small>*(tsof-nath' pah-nay'-akh)*</small> ==**Zaphenath-paneah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎צׇפְנַת פַּעְנֵחַ‎</span></big>** **Tsophnath Paʻnêach** <small>*(tsof-nath' pah-nay'-akh)*</small> ==**Zaphenath-paneah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Zaphnath-paaneah.

@@ -1,8 +1,6 @@
-<span class="ashebrew">‎שׁוּפָמִי‎</span> <small>***(shu.pha.mi)***</small> ==**Shuphamite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H4649]]</small> 
+<small>group of:</small> <small>**<big>[[H4649|מֻפִּים]]</big>**</small> 
 
 - Someone descended from Muppim who was a man of the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]
--  son of: Benjamin ([[H1144]])
--  brother of: Bela ([[H1106A]]), Becher ([[H1071]]), Ashbel ([[H0788]]), Gera ([[H1617]]), Naaman ([[H5283]]), Ehi ([[H0278]]), Rosh ([[H7220]]), Huppim ([[H2650H]]), Ard ([[H0714]]), Ahiram ([[H0297]]) and Jediael ([[H3043]]); also called Shephupham (KJV, NIV: Shupham) at [[Num.26.39|Num.26.39]] Shephuphan at [[1Chr.8.5|1Ch.8.5]]
-- Group of <i>mup.pim</i> (<span class='ashebrew'>‎מ‎</span>ֻ<span class='ashebrew'>‎פ‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Muppim" [[H4649]])
-
+-  son of: Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  brother of: Bela (**<big>[[H1106A|בֶּלַע]]</big>**), Becher (**<big>[[H1071|בֶכֶר]]</big>**), Ashbel (**<big>[[H0788|אַשְׁבֵּל]]</big>**), Gera (**<big>[[H1617|גֵּרָא]]</big>**), Naaman (**<big>[[H5283|נַעֲמָן]]</big>**), Ehi (**<big>[[H0278|אֵחִי]]</big>**), Rosh (**<big>[[H7220|רֹאשׁ]]</big>**), Huppim (**<big>[[H2650H|חֻפִּים]]</big>**), Ard (**<big>[[H0714|אַרְדְּ]]</big>**), Ahiram (**<big>[[H0297|אֲחִירָם]]</big>**) and Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**); also called Shephupham (KJV, NIV: Shupham) at [[Num.26.39|Num.26.39]] Shephuphan at [[1Chr.8.5|1Ch.8.5]]
+- Group of <i>mup.pim</i> (<span class='ashebrew'>‎מ‎</span>ֻ<span class='ashebrew'>‎פ‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Muppim" **<big>[[H4649|מֻפִּים]]</big>**)

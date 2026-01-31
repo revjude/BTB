@@ -7,32 +7,32 @@ And I will punish Bel in Babylon, and I will bring forth out of his mouth that w
 I will punish Bel in Babylon. I will make him spew out what he swallowed. The nations will no longer stream to him; even the wall of Babylon will fall.<small><sub>**MT:**</sub></small>
 [[Jer.51.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.43|<< Jeremiah 51:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.45|Jeremiah 51:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall take vengeance | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Babylon, | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring forth | <big><span class="asgreek">εξοίσω</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she swallowed down | <big><span class="asgreek">κατέπιεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mouth; | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| gather | <big><span class="asgreek">συναχθώσι</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any more | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| even | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \[the\] wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| shall fall. | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall take vengeance | **<big>[[G1556\|εκδικήσω]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Babylon, | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will bring forth | **<big>[[G1627\|εξοίσω]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| she swallowed down | **<big>[[G2666\|κατέπιεν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her mouth; | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| gather | **<big>[[G4863\|συναχθώσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| any more | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| even | **<big>[[G1065\|γε]]</big>** |
+| \[the\] wall | **<big>[[G5038\|τείχος]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| shall fall. | **<big>[[G4098\|πεσείται]]</big>** |
 [[Jer.51.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.43|<< Jeremiah 51:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.45|Jeremiah 51:45 >>]]</td></tr></table>
 
 

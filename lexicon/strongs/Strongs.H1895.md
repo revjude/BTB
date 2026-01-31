@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָבַר‎</span></big> **hâbar** <small>*(haw-bar')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָבַר‎</span></big>** **hâbar** <small>*(haw-bar')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root of uncertain (perhaps foreign) derivation</small>
 
 $\quad$ [phrase] (astro-) loger.

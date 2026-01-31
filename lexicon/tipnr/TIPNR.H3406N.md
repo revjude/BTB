@@ -4,17 +4,17 @@ David's son living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Jerimoth</span> was a son of King David and Abihail, the daughter of Eliab, David's brother.
 - David's son from the tribe of Judah living at the time of United Monarchy, only mentioned at [[2Chr.11.18|2Ch.11.18]]; 
-- only referred to as Jerimoth<[[H3406N]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>, <span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ימו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\); 
--  son of David<[[H1732]]>; 
-- a brother of Amnon<[[H0550G]]>, Chileab<[[H3609]]>, Absalom<[[H0053]]>, Adonijah<[[H0138G]]>, Shephatiah<[[H8203G]]>, Ithream<[[H3507]]>, Shammua<[[H8051H]]>, Shobab<[[H7727G]]>, Nathan<[[H5416G]]>, Solomon<[[H8010]]>, Ibhar<[[H2984]]>, Elishua<[[H0474]]>, Nepheg<[[H5298H]]>, Japhia<[[H3309I]]>, Elishama<[[H0476H]]>, Eliada<[[H0450G]]>, Eliphelet<[[H0467G]]>, Tamar<[[H8559H]]>, Elpelet<[[H0467I]]> and Nogah<[[H5052]]>; 
--  father of Mahalath<[[H4258H]]>.
+- only referred to as Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**; 
+-  son of David **<big>[[H1732|דָּוִד]]</big>**; 
+- a brother of Amnon **<big>[[H0550|אַמְנוֹן]]</big>**, Chileab **<big>[[H3609|כִּלְאָב]]</big>**, Absalom **<big>[[H0053|אֲבִישָׁלוֹם]]</big>**, Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**, Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**, Ithream **<big>[[H3507|יִתְרְעָם]]</big>**, Shammua **<big>[[H8051|שַׁמּוּעַ]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>**, Nathan **<big>[[H5416|נָתָן]]</big>**, Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**, Ibhar **<big>[[H2984|יִבְחַר]]</big>**, Elishua **<big>[[H0474|אֱלִישׁוּעַ]]</big>**, Nepheg **<big>[[H5298|נֶפֶג]]</big>**, Japhia **<big>[[H3309|יָפִיעַ]]</big>**, Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**, Eliada **<big>[[H0450|אֶלְיָדָע]]</big>**, Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Tamar **<big>[[H8559|תָּמָר]]</big>**, Elpelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>** and Nogah **<big>[[H5052|נֹגַהּ]]</big>**; 
+-  father of Mahalath **<big>[[H4258|מַחֲלַת]]</big>**.
 
 Jerimoth is mentioned in 2 Chronicles as one of the sons of King David. He was born to Abihail, the daughter of Eliab, who was David's brother. This makes Jerimoth not only David's son but also his nephew. The mention of Jerimoth in the genealogy of David's family highlights the complex family relationships within the royal household and the importance of documenting lineage in ancient Israelite society.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jerimoth | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>, <span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ימו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3406N) <small>*Hebrew*</small> | 1x | [2Ch.11.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jerimoth\*\|reference=2Ch.11.18) |
-All Strong's for **Jerimoth**: \[[[H3406N]]\]
+| Jerimoth | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>, <span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ימו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3406N) | 1x | [2Ch.11.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jerimoth\*\|reference=2Ch.11.18) |
+All entries for **Jerimoth**:  **<big>[[H3406|יְרִימוֹת]]</big>**
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

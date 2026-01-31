@@ -6,22 +6,22 @@ When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.4|<< 2 Samuel 8:4]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.6|2 Samuel 8:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תָּבֹא֙ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ta.Vo' <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aram  | <span class="ashebrew"><big>אֲרַ֣ם </big></span><small><small><sup>[[H0758I]]</sup></small></small> &#8207;| 'a.Ram <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Damascus  | <span class="ashebrew"><big>דַּמֶּ֔שֶׂק </big></span><small><small><sup>[[H1834]]</sup></small></small> &#8207;| da.Me.sek <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to help  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עְזֹ֕ר </big></span><small><small><sup>[[H5826]]</sup></small></small> &#8207;| la <small><sup>[[HR]]</sup></small> '.Zor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Hadadezer  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֲדַדְעֶ֖זֶר </big></span><small><small><sup>[[H1909]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> ha.dad.'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zobah  | <span class="ashebrew"><big>צוֹבָ֑ה </big></span><small><small><sup>[[H6678G]]</sup></small></small> &#8207;| tzo.Vah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he struck down  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֤ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yakh <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִד֙ </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among Aram  | <span class="ashebrew"><big>בַּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֲרָ֔ם </big></span><small><small><sup>[[H0758I]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> 'a.Ram <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twenty  | <span class="ashebrew"><big>עֶשְׂרִֽים </big></span><small><small><sup>[[H6242]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'es.rim- <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and two  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁנַ֥יִם </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.Na.yim <small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אֶ֖לֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'E.lef <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| man  | <span class="ashebrew"><big>אִֽישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  |**<big>&#8207;[[H0758I\|אֲרַ֣ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Damascus  |**<big>&#8207;[[H1834\|דַּמֶּ֔שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to help  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5826\|עְזֹ֕ר]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> '.Zor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Hadadezer  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1909\|הֲדַדְעֶ֖זֶר]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.dad.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zobah  |**<big>&#8207;[[H6678G\|צוֹבָ֑ה]]&#8207; </big>**| tzo.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֤ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among Aram  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H0758I\|אֲרָ֔ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'es.rim-<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנַ֥יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.4|<< 2 Samuel 8:4]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.6|2 Samuel 8:6 >>]]</td></tr></table>
 
 

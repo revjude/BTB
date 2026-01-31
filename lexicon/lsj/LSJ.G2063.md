@@ -1,4 +1,4 @@
-Greek of: <small>[[H5488G]]</small> 
+Greek of: <small>**<big>[[H5488G|סוּף]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐρυθρός==</span></b>, <span class='asgreek'>ά</span>, <span class='asgreek'>όν</span>, [<span class='asgreek'>ῠ</span> 

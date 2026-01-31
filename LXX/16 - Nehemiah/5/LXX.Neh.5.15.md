@@ -7,45 +7,45 @@ But the former governors that [had been] before me were chargeable unto the peop
 The governors before me had heavily burdened the people, taking from them bread and wine plus forty shekels of silver. Their servants also oppressed the people. But I did not do this, because of my fear of God.<small><sub>**MT:**</sub></small>
 [[Neh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.14|<< Nehemiah 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.16|Nehemiah 5:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| rulers, | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| oppressed | <big><span class="asgreek">εβάρυναν</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| bread \[loaves\] | <big><span class="asgreek">άρτοις</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| wine; | <big><span class="asgreek">οίνω</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| \[and\] last | <big><span class="asgreek">έσχατον</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| of forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| And also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their servants | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dominated | <big><span class="asgreek">εκυρίευσαν</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| But I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] countenance | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] fear | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| rulers, | **<big>[[G0758\|άρχοντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| before | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| oppressed | **<big>[[G0925\|εβάρυναν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβον]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| bread \[loaves\] | **<big>[[G0740\|άρτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| wine; | **<big>[[G3631\|οίνω]]</big>** |
+| \[and\] last | **<big>[[G2078\|έσχατον]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| of forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| And also | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their servants | **<big>[[G3808\|παιδάρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| dominated | **<big>[[G2961\|εκυρίευσαν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
+| But I | **<big>[[G2504\|καγώ]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| do | **<big>[[G4160\|εποίησα]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] countenance | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] fear | **<big>[[G5401\|φόβου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Neh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.14|<< Nehemiah 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.16|Nehemiah 5:16 >>]]</td></tr></table>
 
 

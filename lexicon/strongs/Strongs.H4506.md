@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָנַחַת‎</span></big> **Mânachath** <small>*(maw-nakh'-ath)*</small> ==**Manahath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎נוּחַ‎</span><sup><small>[[H5117]]</small></sup>; rest</small>
+**<big><span class="ashebrew">‎מָנַחַת‎</span></big>** **Mânachath** <small>*(maw-nakh'-ath)*</small> ==**Manahath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5117|‎נוּחַ‎]]</big>**; rest</small>
 
 $\quad$ Manahath.
 - § Manahath = *"rest"*

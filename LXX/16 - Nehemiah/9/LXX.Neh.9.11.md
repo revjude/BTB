@@ -7,34 +7,34 @@ And thou didst divide the sea before them, so that they went through the midst o
 You divided the sea before them, and they crossed through it on dry ground. You hurled their pursuers into the depths like a stone into raging waters.<small><sub>**MT:**</sub></small>
 [[Neh.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.10|<< Nehemiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.12|Nehemiah 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| you tore up | <big><span class="asgreek">διέρρηξας</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">παρήλθον</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| dryness; | <big><span class="asgreek">ξηρασία</span></big> <sup><small><small>[[G8425]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones pursuing | <big><span class="asgreek">καταδιώκοντας</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you tossed | <big><span class="asgreek">έρριψας</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] bottom of the sea, | <big><span class="asgreek">βυθόν</span></big> <sup><small><small>[[G1037]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| vehement | <big><span class="asgreek">σφοδρώ</span></big> <sup><small><small>[[G9374]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| you tore up | **<big>[[G1284\|διέρρηξας]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G3928\|παρήλθον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| dryness; | **<big>[[G8425\|ξηρασία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones pursuing | **<big>[[G2614\|καταδιώκοντας]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| you tossed | **<big>[[G4496\|έρριψας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] bottom of the sea, | **<big>[[G1037\|βυθόν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a stone | **<big>[[G3037\|λίθον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| water | **<big>[[G5204\|ύδατι]]</big>** |
+| vehement | **<big>[[G9374\|σφοδρώ]]</big>** |
 [[Neh.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.10|<< Nehemiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.12|Nehemiah 9:12 >>]]</td></tr></table>
 
 

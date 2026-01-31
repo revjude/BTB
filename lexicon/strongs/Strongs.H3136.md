@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹצָדָק‎</span></big> **Yôwtsâdâq** <small>*(yo-tsaw-dawk')*</small> ==**Jozadak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹצָדָק‎</span><sup><small>[[H3087]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹצָדָק‎</span></big>** **Yôwtsâdâq** <small>*(yo-tsaw-dawk')*</small> ==**Jozadak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3087|‎יְהוֹצָדָק‎]]</big>**</small>
 
 $\quad$ Jozadak.
 - § Jozadak = *"Jehovah is righteous"*

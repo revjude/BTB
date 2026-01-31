@@ -11,39 +11,39 @@ For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceiv
 > $\quad$ referenced by: [[Mark.13.5|Mark 13:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| dissuade | <big><span class="asgreek">αναπειθέτωσαν</span></big> <sup><small><small>[[G0374]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| false prophets | <big><span class="asgreek">ψευδοπροφήται</span></big> <sup><small><small>[[G5578]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you! | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| dissuade | <big><span class="asgreek">αναπειθέτωσαν</span></big> <sup><small><small>[[G0374]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your clairvoyants! | <big><span class="asgreek">μάντεις</span></big> <sup><small><small>[[G8254]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearken not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ακούετε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dreams | <big><span class="asgreek">ενύπνια</span></big> <sup><small><small>[[G1798]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dream! | <big><span class="asgreek">ενυπνιάζεσθε</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| dissuade | **<big>[[G0374\|αναπειθέτωσαν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| false prophets | **<big>[[G5578\|ψευδοπροφήται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you! | **<big>[[G1473\|υμίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| dissuade | **<big>[[G0374\|αναπειθέτωσαν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your clairvoyants! | **<big>[[G8254\|μάντεις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| hearken not | **<big>[[G3361\|μη]]</big>** **<big>[[G0191\|ακούετε]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your dreams | **<big>[[G1798\|ενύπνια]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| dream! | **<big>[[G1797\|ενυπνιάζεσθε]]</big>** |
 [[Jer.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.7|<< Jeremiah 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.9|Jeremiah 29:9 >>]]</td></tr></table>
 
 

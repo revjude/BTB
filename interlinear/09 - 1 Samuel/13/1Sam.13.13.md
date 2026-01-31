@@ -6,31 +6,31 @@ And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the comman
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֧אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samuel  | <span class="ashebrew"><big>שְׁמוּאֵ֛ל </big></span><small><small><sup>[[H8050G]]</sup></small></small> &#8207;| she.mu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֖וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have acted foolishly  | <span class="ashebrew"><big>נִסְכָּ֑לְתָּ </big></span><small><small><sup>[[H5528]]</sup></small></small> &#8207;| nis.Kal.ta <small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have kept  | <span class="ashebrew"><big>שָׁמַ֗רְתָּ </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| sha.Mar.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] commandment of  | <span class="ashebrew"><big>מִצְוַ֞ת </big></span><small><small><sup>[[H4687]]</sup></small></small> &#8207;| mitz.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֶ֙י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he commanded you  | <span class="ashebrew"><big>צִוָּ֔ </big></span><small><small><sup>[[H6680]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| tzi.Va <small><sup>[[HVpp3ms]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>עַתָּ֗ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he established  | <span class="ashebrew"><big>הֵכִ֨ין </big></span><small><small><sup>[[H3559H]]</sup></small></small> &#8207;| he.Khin <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֧ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kingdom your  | <span class="ashebrew"><big>מַֽמְלַכְתְּ </big></span><small><small><sup>[[H4467]]</sup></small></small> <span class="ashebrew"><big>ךָ֛ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| mam.lakh.te. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם </big></span><small><small><sup>[[H5769G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֛ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have acted foolishly  |**<big>&#8207;[[H5528\|נִסְכָּ֑לְתָּ]]&#8207; </big>**| nis.Kal.ta<small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have kept  |**<big>&#8207;[[H8104G\|שָׁמַ֗רְתָּ]]&#8207; </big>**| sha.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commandment of  |**<big>&#8207;[[H4687\|מִצְוַ֞ת]]&#8207; </big>**| mitz.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he commanded you  |**<big>&#8207;[[H6680\|צִוָּ֔]]&#8207;&#8207;[[H9031\|ךְ]]&#8207; </big>**| tzi.Va<small><sup>[[HVpp3ms]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he established  |**<big>&#8207;[[H3559H\|הֵכִ֨ין]]&#8207; </big>**| he.Khin<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kingdom your  |**<big>&#8207;[[H4467\|מַֽמְלַכְתְּ]]&#8207;&#8207;[[H9021\|ךָ֛]]&#8207; </big>**| mam.lakh.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 
 

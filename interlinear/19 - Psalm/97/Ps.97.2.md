@@ -6,15 +6,15 @@ Clouds and darkness surround Him; righteousness and justice are His throne’s f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.1|<< Psalms 97:1]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.3|Psalms 97:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| cloud  | <span class="ashebrew"><big>עָנָ֣ן </big></span><small><small><sup>[[H6051]]</sup></small></small> &#8207;| 'a.Nan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thick darkness  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲרָפֶ֣ל </big></span><small><small><sup>[[H6205]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ra.Fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] around him  | <span class="ashebrew"><big>סְבִיבָ֑י </big></span><small><small><sup>[[H5439G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| se.vi.Va <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] righteousness  | <span class="ashebrew"><big>צֶ֥דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and justice  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּ֗ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] foundation of  | <span class="ashebrew"><big>מְכ֣וֹן </big></span><small><small><sup>[[H4349]]</sup></small></small> &#8207;| me.Khon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| throne his  | <span class="ashebrew"><big>כִּסְאֽ </big></span><small><small><sup>[[H3678G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kis.' <small><sup>[[HNcmsc]]</sup></small> O <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cloud  |**<big>&#8207;[[H6051\|עָנָ֣ן]]&#8207; </big>**| 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thick darkness  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6205\|עֲרָפֶ֣ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ra.Fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] around him  |**<big>&#8207;[[H5439G\|סְבִיבָ֑י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| se.vi.Va<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] righteousness  |**<big>&#8207;[[H6664G\|צֶ֥דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and justice  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֗ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] foundation of  |**<big>&#8207;[[H4349\|מְכ֣וֹן]]&#8207; </big>**| me.Khon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| throne his  |**<big>&#8207;[[H3678G\|כִּסְאֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kis.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.1|<< Psalms 97:1]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.3|Psalms 97:3 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ And Jehoshaphat said, [Is there] not here a prophet of the LORD besides, that we
 But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?”<small><sub>**MT:**</sub></small>
 [[1Kgs.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.6|<< 1 Kings 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.8|1 Kings 22:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Is there not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| a prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall ask | <big><span class="asgreek">επερωτήσομεν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Is there not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| a prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall ask | **<big>[[G1905\|επερωτήσομεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| him? | **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.6|<< 1 Kings 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.8|1 Kings 22:8 >>]]</td></tr></table>
 
 

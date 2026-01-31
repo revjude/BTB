@@ -6,18 +6,18 @@ And the arches round about [were] five and twenty cubits long, and five cubits b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.29|<< Ezekiel 40:29]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.31|Ezekiel 40:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and porches  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵֽלַמּ֖וֹת </big></span><small><small><sup>[[H0361]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.la.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] all around  | <span class="ashebrew"><big>סָבִ֣יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִ֑יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] length  | <span class="ashebrew"><big>אֹ֗רֶךְ </big></span><small><small><sup>[[H0753]]</sup></small></small> &#8207;| 'O.rekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] five  | <span class="ashebrew"><big>חָמֵ֤שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶשְׂרִים֙ </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubit[s]  | <span class="ashebrew"><big>אַמָּ֔ה </big></span><small><small><sup>[[H0520A]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] breadth  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֖חַב </big></span><small><small><sup>[[H7341]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ro.chav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] five  | <span class="ashebrew"><big>חָמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubits  | <span class="ashebrew"><big>אַמּֽוֹת </big></span><small><small><sup>[[H0520A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and porches  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0361\|אֵֽלַמּ֖וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.la.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] all around  |**<big>&#8207;[[H5439G\|סָבִ֣יב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִ֑יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] length  |**<big>&#8207;[[H0753\|אֹ֗רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] five  |**<big>&#8207;[[H2568\|חָמֵ֤שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּ֔ה]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] breadth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7341\|רֹ֖חַב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ro.chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] five  |**<big>&#8207;[[H2568\|חָמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  |**<big>&#8207;[[H0520A\|אַמּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.29|<< Ezekiel 40:29]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.31|Ezekiel 40:31 >>]]</td></tr></table>
 
 

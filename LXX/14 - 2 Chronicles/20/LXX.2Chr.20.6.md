@@ -7,41 +7,41 @@ And said, O LORD God of our fathers, [art] not thou God in heaven? and rulest [n
 and said, “O LORD, God of our fathers, are You not the God who is in heaven, and do You not rule over all the kingdoms of the nations? Power and might are in Your hand, and no one can stand against You.<small><sub>**MT:**</sub></small>
 [[2Chr.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.5|<< 2 Chronicles 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.7|2 Chronicles 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| heaven? | <big><span class="asgreek">ουρανώ</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[do\] you \[not\] | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dominate | <big><span class="asgreek">κυριεύεις</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdoms | <big><span class="asgreek">βασιλειών</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations? | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[is not\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dominion, | <big><span class="asgreek">δυναστεία</span></big> <sup><small><small>[[G6973]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| against | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to oppose | <big><span class="asgreek">αντιστήναι</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| you not | **<big>[[G3780\|ουχί]]</big>** **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| heaven? | **<big>[[G3772\|ουρανώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[do\] you \[not\] | **<big>[[G1473\|συ]]</big>** |
+| dominate | **<big>[[G2961\|κυριεύεις]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| kingdoms | **<big>[[G0932\|βασιλειών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations? | **<big>[[G1484\|εθνών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[is not\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| strength | **<big>[[G2479\|ισχύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dominion, | **<big>[[G6973\|δυναστεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no one | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| against | **<big>[[G3844\|παρά]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to oppose | **<big>[[G0436\|αντιστήναι]]</big>** |
 [[2Chr.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.5|<< 2 Chronicles 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.7|2 Chronicles 20:7 >>]]</td></tr></table>
 
 

@@ -11,51 +11,51 @@ Then Samuel said to all the house of Israel, “If you are returning to the LORD
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| turn | <big><span class="asgreek">επεστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| remove | <big><span class="asgreek">περιέλεσθε</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| aliens | <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your midst, | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred groves, | <big><span class="asgreek">άλση</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prepare | <big><span class="asgreek">ετοιμάσατε</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hearts | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| serve | <big><span class="asgreek">δουλεύσατε</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone! | <big><span class="asgreek">μόνω</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will rescue | <big><span class="asgreek">εξελείται</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines. | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| entire | **<big>[[G3650\|όλη]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| turn | **<big>[[G1994\|επεστρέψατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| remove | **<big>[[G4014\|περιέλεσθε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| aliens | **<big>[[G0245\|αλλοτρίους]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| your midst, | **<big>[[G3319\|μέσου]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sacred groves, | **<big>[[G6242\|άλση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prepare | **<big>[[G2090\|ετοιμάσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hearts | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| serve | **<big>[[G1398\|δουλεύσατε]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| alone! | **<big>[[G3441\|μόνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will rescue | **<big>[[G1807\|εξελείται]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines. | **<big>[[G0246\|αλλοφύλων]]</big>** |
 [[1Sam.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.2|<< 1 Samuel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.4|1 Samuel 7:4 >>]]</td></tr></table>
 
 

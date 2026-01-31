@@ -7,29 +7,29 @@ Behold, it is cast into the fire for fuel; the fire devoureth both the ends of i
 No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?<small><sub>**MT:**</sub></small>
 [[Ezek.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.3|<< Ezekiel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.5|Ezekiel 15:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| is given | <big><span class="asgreek">δέδοται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| consumption | <big><span class="asgreek">ανάλωσιν</span></big> <sup><small><small>[[G6293]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yearly; | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| in \[the\] cleansing | <big><span class="asgreek">κάθαρσιν</span></big> <sup><small><small>[[G7754]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| consumes | <big><span class="asgreek">αναλίσκει</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the wood\] vanishes | <big><span class="asgreek">εκλείπει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end. | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| it be profitable | <big><span class="asgreek">χρήσιμόν</span></big> <sup><small><small>[[G5539]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| work? | <big><span class="asgreek">εργασίαν</span></big> <sup><small><small>[[G2039]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| fire | **<big>[[G4442\|πυρί]]</big>** |
+| is given | **<big>[[G1325\|δέδοται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| consumption | **<big>[[G6293\|ανάλωσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| yearly; | **<big>[[G2596\|κατ΄]]</big>** **<big>[[G1763\|ενιαυτόν]]</big>** |
+| in \[the\] cleansing | **<big>[[G7754\|κάθαρσιν]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| consumes | **<big>[[G0355\|αναλίσκει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the wood\] vanishes | **<big>[[G1587\|εκλείπει]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end. | **<big>[[G5056\|τέλος]]</big>** |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| it be profitable | **<big>[[G5539\|χρήσιμόν]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| work? | **<big>[[G2039\|εργασίαν]]</big>** |
 [[Ezek.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.3|<< Ezekiel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.5|Ezekiel 15:5 >>]]</td></tr></table>
 
 

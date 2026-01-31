@@ -7,45 +7,45 @@ So they killed the bullocks, and the priests received the blood, and sprinkled [
 So they slaughtered the bulls, and the priests took the blood and splattered it on the altar. They slaughtered the rams and splattered the blood on the altar. And they slaughtered the lambs and splattered the blood on the altar.<small><sub>**MT:**</sub></small>
 [[2Chr.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.21|<< 2 Chronicles 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.23|2 Chronicles 29:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">εδέξαντο</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poured | <big><span class="asgreek">προσέχεον</span></big> <sup><small><small>[[G8947]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poured | <big><span class="asgreek">προσέχεον</span></big> <sup><small><small>[[G8947]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood. | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lambs, | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they poured | <big><span class="asgreek">προσέχεον</span></big> <sup><small><small>[[G8947]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sacrificed | **<big>[[G2380\|έθυσαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G1209\|εδέξαντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood, | **<big>[[G0129\|αίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poured | **<big>[[G8947\|προσέχεον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sacrificed | **<big>[[G2380\|έθυσαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rams, | **<big>[[G8096\|κριούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poured | **<big>[[G8947\|προσέχεον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood. | **<big>[[G0129\|αίμα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sacrificed | **<big>[[G2380\|έθυσαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| lambs, | **<big>[[G0286\|αμνούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they poured | **<big>[[G8947\|προσέχεον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
 [[2Chr.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.21|<< 2 Chronicles 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.23|2 Chronicles 29:23 >>]]</td></tr></table>
 
 

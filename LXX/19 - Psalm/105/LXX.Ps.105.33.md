@@ -7,20 +7,20 @@ He smote their vines also and their fig trees; and brake the trees of their coas
 He struck their vines and fig trees and shattered the trees of their country.<small><sub>**MT:**</sub></small>
 [[Ps.105.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.32|<< Psalm 105:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.34|Psalm 105:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their grapevines, | <big><span class="asgreek">αμπέλους</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fig-trees; | <big><span class="asgreek">συκάς</span></big> <sup><small><small>[[G4808]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he broke | <big><span class="asgreek">συνέτριψε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of their border. | <big><span class="asgreek">ορίου</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their grapevines, | **<big>[[G0288\|αμπέλους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their fig-trees; | **<big>[[G4808\|συκάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he broke | **<big>[[G4937\|συνέτριψε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| of their border. | **<big>[[G3725\|ορίου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.105.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.32|<< Psalm 105:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.34|Psalm 105:34 >>]]</td></tr></table>
 
 

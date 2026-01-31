@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לִבְנָה‎</span></big> **Libnâh** <small>*(lib-naw')*</small> ==**Libnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎לִבְנֶה‎</span><sup><small>[[H3839]]</small></sup></small>
+**<big><span class="ashebrew">‎לִבְנָה‎</span></big>** **Libnâh** <small>*(lib-naw')*</small> ==**Libnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3839|‎לִבְנֶה‎]]</big>**</small>
 
 $\quad$ Libnah.
 - § Libnah = *"pavement"*

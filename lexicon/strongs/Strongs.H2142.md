@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָכַר‎</span></big> **zâkar** <small>*(zaw-kar')*</small> ==**to remember**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also as denominative from <span class="ashebrew">‎זָכָר‎</span><sup><small>[[H2145]]</small></sup></small>
+**<big><span class="ashebrew">‎זָכַר‎</span></big>** **zâkar** <small>*(zaw-kar')*</small> ==**to remember**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also as denominative from **<big>[[H2145|‎זָכָר‎]]</big>**</small>
 
 $\quad$ [idiom] burn (incense), [idiom] earnestly, be male, (make) mention (of), be mindful, recount, record(-er), remember, make to be remembered, bring (call, come, keep, put) to (in) remembrance, [idiom] still, think on, [idiom] well.
 - properly, ***to mark*** (so as to be recognized), i.e. ***to remember***
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c3)** to mention
 $\quad$ $\quad$ **1c4)** to record
 $\quad$ $\quad$ **1c5)** to make a memorial, make remembrance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαλλιάω</span><sup><small>[[G0021]]</small></sup> · <span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἀναμιμνήσκω</span><sup><small>[[G0363]]</small></sup> · <span class="asgreek">ἀνάμνησις</span><sup><small>[[G0364]]</small></sup> · <span class="asgreek">ἀναφωνέω</span><sup><small>[[G0400]]</small></sup> · <span class="asgreek">ἐπικαλέομαι</span><sup><small>[[G1941]]</small></sup> · <span class="asgreek">ἐπονομάζω</span><sup><small>[[G2028]]</small></sup> · <span class="asgreek">καλέω</span><sup><small>[[G2564]]</small></sup> · <span class="asgreek">μιμνήσκω</span><sup><small>[[G3403]]</small></sup> · <span class="asgreek">μνεία</span><sup><small>[[G3417]]</small></sup> · <span class="asgreek">μνημονεύω</span><sup><small>[[G3421]]</small></sup> · <span class="asgreek">μνημόσυνον</span><sup><small>[[G3422]]</small></sup> · <span class="asgreek">ὀνομάζω</span><sup><small>[[G3687]]</small></sup> · <span class="asgreek">ὑπομιμνήσκω</span><sup><small>[[G5279]]</small></sup>
+<small>See Greek: </small>**<big>[[G0021|ἀγαλλιάω]]</big>** · **<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0363|ἀναμιμνήσκω]]</big>** · **<big>[[G0364|ἀνάμνησις]]</big>** · **<big>[[G0400|ἀναφωνέω]]</big>** · **<big>[[G1941|ἐπικαλέομαι]]</big>** · **<big>[[G2028|ἐπονομάζω]]</big>** · **<big>[[G2564|καλέω]]</big>** · **<big>[[G3403|μιμνήσκω]]</big>** · **<big>[[G3417|μνεία]]</big>** · **<big>[[G3421|μνημονεύω]]</big>** · **<big>[[G3422|μνημόσυνον]]</big>** · **<big>[[G3687|ὀνομάζω]]</big>** · **<big>[[G5279|ὑπομιμνήσκω]]</big>**

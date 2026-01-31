@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H4333]]</small>
+<small>Aramaic form: **<big>[[H4333|מִישָׁאֵל]]</big>**</small>
  <span class="bdbLangHebrew">‎מִישָׁאֵל‎</span> **proper name, masculine** (***Who is what God is ?*** Ass. form., compare <span class="bdbLangHebrew">‎׃מְתוּשָׁאֵל‎</span> note also in Thothmes' list of towns <abbr title="transliteration"><u>***Bai-ti-š-°-ra***</u></abbr>, i.e probably <span class="bdbLangHebrew">‎בֵּיתְשָׁאֵל‎</span>, Hebrew <span class="bdbLangHebrew">‎בֵּיתְאֵל‎</span> [[BDB#WMM|WMM]]<sup>As.Eur.193</sup>): — 
 
 **1.** a cousin of Moses [[Exod.6.22|Exod 6:22]]; [[Lev.10.4|Lev 10:4]] ([[BDB#P|P]]). 

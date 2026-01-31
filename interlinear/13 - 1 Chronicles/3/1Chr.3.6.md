@@ -6,11 +6,11 @@ David’s other sons were Ibhar, Elishua, Eliphelet,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.5|<< 1 Chronicles 3:5]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.7|1 Chronicles 3:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Ibhar  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִבְחָ֥ר </big></span><small><small><sup>[[H2984]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yiv.Char <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Elishama  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִישָׁמָ֖ע </big></span><small><small><sup>[[H0476M]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.sha.Ma' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eliphelet  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִיפָֽלֶט </big></span><small><small><sup>[[H0467I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.Fa.let <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ibhar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2984\|יִבְחָ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yiv.Char<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elishama  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0476M\|אֱלִישָׁמָ֖ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.sha.Ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eliphelet  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0467I\|אֱלִיפָֽלֶט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Fa.let<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.5|<< 1 Chronicles 3:5]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.7|1 Chronicles 3:7 >>]]</td></tr></table>
 
 

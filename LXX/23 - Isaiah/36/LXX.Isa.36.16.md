@@ -7,36 +7,36 @@ Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement]
 Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me. Then every one of you will eat from his own vine and his own fig tree, and drink water from his own cistern,<small><sub>**MT:**</sub></small>
 [[Isa.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.15|<< Isaiah 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.17|Isaiah 36:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken | <big><span class="asgreek">ακούετε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| to Hezekiah! | <big><span class="asgreek">Εζεκίου</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians, | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you want | <big><span class="asgreek">βούλεσθε</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to be blessed, | <big><span class="asgreek">ευλογηθήναι</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εκπορεύεσθε</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his own grapevine | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fig-trees, | <big><span class="asgreek">συκάς</span></big> <sup><small><small>[[G4808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall drink | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own well; | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| hearken | **<big>[[G0191\|ακούετε]]</big>** |
+| to Hezekiah! | **<big>[[G1478\|Εζεκίου]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians, | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| you want | **<big>[[G1014\|βούλεσθε]]</big>** |
+| to be blessed, | **<big>[[G2127\|ευλογηθήναι]]</big>** |
+| come forth | **<big>[[G1607\|εκπορεύεσθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of his own grapevine | **<big>[[G0288\|άμπελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| fig-trees, | **<big>[[G4808\|συκάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall drink | **<big>[[G4095\|πίεσθε]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his own well; | **<big>[[G8154\|λάκκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.15|<< Isaiah 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.17|Isaiah 36:17 >>]]</td></tr></table>
 
 

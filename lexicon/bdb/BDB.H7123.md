@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H7121]]</small>
+<small>Hebrew form: **<big>[[H7121|קָרָא]]</big>**</small>
  [<span class="bdbLangAramaic">‎קְרָא‎</span>] **verb** ==call, read out, aloud== (see Biblical Hebrew I. <span class="bdbLangAramaic">‎קרא‎</span>); — 
 
 **Pe\`al** ***Imperfect*** 3 masculine singular <span class="bdbLangAramaic">‎יִקְרֵה‎</span> [[Dan.5.7|Dan 5:7]], 1 singular <span class="bdbLangAramaic">‎אֶקְרֵא‎</span> v[[Dan.5.17|Dan 5:17]] 3 masculine plural <span class="bdbLangAramaic">‎יִקְרוֺן‎</span> v[[Dan.5.15|Dan 5:15]] ***Infinitive*** <span class="bdbLangAramaic">‎לְמִקְרֵא‎</span> v[[Dan.5.8|Dan 5:8]] v[[Dan.5.16|Dan 5:16]] ***Participle active*** <span class="bdbLangAramaic">‎קָרֵא‎</span> [[Dan.3.4|Dan 3:4]] +; — 

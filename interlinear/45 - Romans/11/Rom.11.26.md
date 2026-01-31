@@ -10,23 +10,23 @@ and so all Israel will be saved even as it has been written: Will come out of Zi
 > $\quad$ referencing: [[LXX.Isa.2.3|Isa 2:3]] ☩ [[LXX.Isa.46.13|Isa 46:13]] ☩ [[LXX.Isa.59.20|Isa 59:20-21]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so |<big><span class="asgreek">οὕτως</span></big> <small><small><sup>[[G3779]]</sup></small></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<big><span class="asgreek">πᾶς</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Israel |<big><span class="asgreek">Ἰσραὴλ</span></big> <small><small><sup>[[G2474]]</sup></small></small> |Israēl <small><sup>[[N-NSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be saved |<big><span class="asgreek">σωθήσεται</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even as |<big><span class="asgreek">καθὼς</span></big> <small><small><sup>[[G2531]]</sup></small></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it has been written: |<big><span class="asgreek">γέγραπται·</span></big> <small><small><sup>[[G1125]]</sup></small></small> |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Will come |<big><span class="asgreek">ἥξει</span></big> <small><small><sup>[[G2240]]</sup></small></small> |hēxei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Zion |<big><span class="asgreek">Σιὼν</span></big> <small><small><sup>[[G4622]]</sup></small></small> |Siōn <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [One] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Delivering, |<big><span class="asgreek">ῥυόμενος,</span></big> <small><small><sup>[[G4506]]</sup></small></small> |rhuomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| He will remove |<big><span class="asgreek">ἀποστρέψει</span></big> <small><small><sup>[[G0654]]</sup></small></small> |apostrepsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ungodliness |<big><span class="asgreek">ἀσεβείας</span></big> <small><small><sup>[[G0763]]</sup></small></small> |asebeias <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jacob; |<big><span class="asgreek">Ἰακώβ·</span></big> <small><small><sup>[[G2384H]]</sup></small></small> |Iakōb <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Israel |**<big>[[G2474\|Ἰσραὴλ]]</big>**  |Israēl <small><sup>[[N-NSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be saved |**<big>[[G4982\|σωθήσεται]]</big>**  |sōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Will come |**<big>[[G2240\|ἥξει]]</big>**  |hēxei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Zion |**<big>[[G4622\|Σιὼν]]</big>**  |Siōn <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Delivering, |**<big>[[G4506\|ῥυόμενος,]]</big>**  |rhuomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| He will remove |**<big>[[G0654\|ἀποστρέψει]]</big>**  |apostrepsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ungodliness |**<big>[[G0763\|ἀσεβείας]]</big>**  |asebeias <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jacob; |**<big>[[G2384H\|Ἰακώβ·]]</big>**  |Iakōb <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.25|<< Romans 11:25]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.27|Romans 11:27 >>]]</td></tr></table>

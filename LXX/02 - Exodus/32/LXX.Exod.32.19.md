@@ -11,36 +11,36 @@ As Moses approached the camp and saw the calf and the dancing, he burned with an
 > $\quad$ referenced by: [[Acts.7.41|Acts 7:41]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| he approached | <big><span class="asgreek">ήγγιζε</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| he sees | <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| company of dancers. | <big><span class="asgreek">χορούς</span></big> <sup><small><small>[[G5525]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being provoked to anger | <big><span class="asgreek">οργισθείς</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| in rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets, | <big><span class="asgreek">πλάκας</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he broke | <big><span class="asgreek">συνέτριψεν</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| below | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| he approached | **<big>[[G1448\|ήγγιζε]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολή]]</big>** |
+| he sees | **<big>[[G3708\|ορά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| company of dancers. | **<big>[[G5525\|χορούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| being provoked to anger | **<big>[[G3710\|οργισθείς]]</big>** |
+| in rage | **<big>[[G2372\|θυμώ]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| tossed | **<big>[[G4496\|έρριψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets, | **<big>[[G4109\|πλάκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he broke | **<big>[[G4937\|συνέτριψεν]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| below | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain. | **<big>[[G3735\|όρος]]</big>** |
 [[Exod.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.18|<< Exodus 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.20|Exodus 32:20 >>]]</td></tr></table>
 
 

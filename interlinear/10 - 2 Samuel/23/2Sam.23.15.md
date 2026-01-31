@@ -6,19 +6,19 @@ David longed for water and said, “Oh, that someone would get me a drink of wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.14|<< 2 Samuel 23:14]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.16|2 Samuel 23:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he desired  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְאַוֶּ֥ה </big></span><small><small><sup>[[H0183]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yit.'a.Veh <small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָוִ֖ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַ֑ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֚י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he give to drink me  | <span class="ashebrew"><big>יַשְׁקֵ֣ </big></span><small><small><sup>[[H8248H]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| yash.Ke. <small><sup>[[HVhi3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מַ֔יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] well of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בֹּ֥אר </big></span><small><small><sup>[[H0877]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Bor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth-  | <span class="ashebrew"><big>בֵּֽית </big></span><small><small><sup>[[H1035G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -lehem  | <span class="ashebrew"><big>לֶ֖חֶם </big></span><small><small><sup>[[H1035G]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] at the gate  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שָּֽׁעַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Sha.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he desired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0183\|יִּתְאַוֶּ֥ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Veh<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֑ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֚י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give to drink me  |**<big>&#8207;[[H8248H\|יַשְׁקֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yash.Ke.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מַ֔יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] well of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0877\|בֹּ֥אר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Bor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  |**<big>&#8207;[[H1035G\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -lehem  |**<big>&#8207;[[H1035G\|לֶ֖חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] at the gate  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8179G\|שָּֽׁעַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.14|<< 2 Samuel 23:14]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.16|2 Samuel 23:16 >>]]</td></tr></table>
 
 

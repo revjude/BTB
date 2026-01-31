@@ -7,42 +7,42 @@ And he said unto me, The LORD, before whom I walk, will send his angel with thee
 And he told me, ‘The LORD, before whom I have walked, will send His angel with you and make your journey a success, so that you may take a wife for my son from my kindred and from my father’s house.<small><sub>**MT:**</sub></small>
 [[Gen.24.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.39|<< Genesis 24:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.41|Genesis 24:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I was found well-pleasing | <big><span class="asgreek">ευηρέστησα</span></big> <sup><small><small>[[G2100]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will send out | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his angel | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prosper | <big><span class="asgreek">ευοδώσει</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your way. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my tribe, | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| in whom | **<big>[[G3739\|ω]]</big>** |
+| I was found well-pleasing | **<big>[[G2100\|ευηρέστησα]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will send out | **<big>[[G1821\|εξαποστελεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his angel | **<big>[[G0032\|άγγελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prosper | **<big>[[G2137\|ευοδώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your way. | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you will take | **<big>[[G2983\|λήψη]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for my son | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my tribe, | **<big>[[G5443\|φυλής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.24.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.39|<< Genesis 24:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.41|Genesis 24:41 >>]]</td></tr></table>
 
 

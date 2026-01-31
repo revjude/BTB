@@ -1,5 +1,3 @@
-<span class="ashebrew">‎פְּעֻלְּתַי‎</span> <small>***(pe.ul.l.tay)***</small> ==**Peullethai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, only mentioned at [[1Chr.26.5|1Ch.26.5]]
--  son of: Obed-edom ([[H5654]])
--  brother of: Shemaiah ([[H8098I]]), Jehozabad ([[H3075H]]), Joah ([[H3098I]]), Sachar ([[H7940]]), Nethanel ([[H5417K]]), Issachar ([[H3485H]]) and Ammiel ([[H5988I]])
-
+-  son of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**)
+-  brother of: Shemaiah (**<big>[[H8098I|שְׁמַעְיָה]]</big>**), Jehozabad (**<big>[[H3075H|יְהוֹזָבָד]]</big>**), Joah (**<big>[[H3098I|יוֹאָח]]</big>**), Sachar (**<big>[[H7940|שָׂכָר]]</big>**), Nethanel (**<big>[[H5417K|נְתַנְאֵל]]</big>**), Issachar (**<big>[[H3485H|יִשָּׂשכָר]]</big>**) and Ammiel (**<big>[[H5988I|עַמִּיאֵל]]</big>**)

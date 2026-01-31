@@ -7,20 +7,20 @@ Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twel
 and from the Uzzielites, Amminadab the chief and 112 of his relatives.<small><sub>**MT:**</sub></small>
 [[1Chr.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.9|<< 1 Chronicles 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.11|1 Chronicles 15:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Uzziel; | <big><span class="asgreek">Οζιήλ</span></big> <sup><small><small>[[H5816]]</small></small></sup> |
-| Amminadab | <big><span class="asgreek">Αμιναδάβ</span></big> <sup><small><small>[[G0284]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler, | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren -- | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twelve. | <big><span class="asgreek">δεκαδύο</span></big> <sup><small><small>[[G1177]]</small></small></sup> |
+| Of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Uzziel; | **<big>[[H5816\|Οζιήλ]]</big>** |
+| Amminadab | **<big>[[G0284\|Αμιναδάβ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler, | **<big>[[G0758\|άρχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brethren -- | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twelve. | **<big>[[G1177\|δεκαδύο]]</big>** |
 [[1Chr.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.9|<< 1 Chronicles 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.11|1 Chronicles 15:11 >>]]</td></tr></table>
 
 

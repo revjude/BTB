@@ -11,42 +11,42 @@ And he will confirm a covenant with many for one week, but in the middle of the 
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]] ☩ [[Rev.20.4|Rev 20:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall strengthen | <big><span class="asgreek">δυναμώσει</span></big> <sup><small><small>[[G1412]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| with many | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| period of sevens | <big><span class="asgreek">εβδομάς</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ημίσει</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| period of seven | <big><span class="asgreek">εβδομάδος</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| shall be lifted away | <big><span class="asgreek">αρθήσεται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| libation \[offering\], | <big><span class="asgreek">σπονδή</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple | <big><span class="asgreek">ιερόν</span></big> <sup><small><small>[[G2413]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desolations | <big><span class="asgreek">ερημώσεων</span></big> <sup><small><small>[[G2050]]</small></small></sup> |
-| will be; | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completion | <big><span class="asgreek">συντελείας</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| of time, | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| completion | <big><span class="asgreek">συντέλεια</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| shall be given | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desolation. | <big><span class="asgreek">ερήμωσιν</span></big> <sup><small><small>[[G2050]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall strengthen | **<big>[[G1412\|δυναμώσει]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| with many | **<big>[[G4183\|πολλοίς]]</big>** |
+| period of sevens | **<big>[[G6988\|εβδομάς]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| half | **<big>[[G2255\|ημίσει]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| period of seven | **<big>[[G6988\|εβδομάδος]]</big>** |
+| shall be lifted away | **<big>[[G0142\|αρθήσεται]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| libation \[offering\], | **<big>[[G9145\|σπονδή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| temple | **<big>[[G2413\|ιερόν]]</big>** |
+| an abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| desolations | **<big>[[G2050\|ερημώσεων]]</big>** |
+| will be; | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| completion | **<big>[[G4930\|συντελείας]]</big>** |
+| of time, | **<big>[[G2540\|καιρού]]</big>** |
+| completion | **<big>[[G4930\|συντέλεια]]</big>** |
+| shall be given | **<big>[[G1325\|δοθήσεται]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| desolation. | **<big>[[G2050\|ερήμωσιν]]</big>** |
 [[Dan.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.26|<< Daniel 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.1|Daniel 10:1 >>]]</td></tr></table>
 
 

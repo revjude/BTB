@@ -10,43 +10,43 @@ And it came to pass on the day that Moses had fully set up the tabernacle, and h
 On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils.<small><sub>**MT:**</sub></small>
 [[Num.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.27|<< Numbers 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.2|Numbers 7:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses completed | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to raise up | <big><span class="asgreek">αναστήσαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he anointed | <big><span class="asgreek">έχρισεν</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sanctified | <big><span class="asgreek">ηγίασεν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he anointed | <big><span class="asgreek">έχρισεν</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sanctified | <big><span class="asgreek">ηγίασεν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| Moses completed | **<big>[[G4931\|συνετέλεσε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to raise up | **<big>[[G0450\|αναστήσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent, | **<big>[[G4633\|σκηνήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he anointed | **<big>[[G5548\|έχρισεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sanctified | **<big>[[G0037\|ηγίασεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of it; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he anointed | **<big>[[G5548\|έχρισεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sanctified | **<big>[[G0037\|ηγίασεν]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Num.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.27|<< Numbers 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.2|Numbers 7:2 >>]]</td></tr></table>
 
 

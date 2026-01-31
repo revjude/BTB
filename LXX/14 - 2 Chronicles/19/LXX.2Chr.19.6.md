@@ -7,29 +7,29 @@ And said to the judges, Take heed what ye do: for ye judge not for man, but for 
 Then he said to the judges, “Consider carefully what you do, for you are not judging for man, but for the LORD, who is with you when you render judgment.<small><sub>**MT:**</sub></small>
 [[2Chr.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.5|<< 2 Chronicles 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.7|2 Chronicles 19:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judges, | <big><span class="asgreek">κριταίς</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| Know | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do, | <big><span class="asgreek">ποιείτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| unto man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| do you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| judge, | <big><span class="asgreek">κρίνετε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you \[are\] | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of judgment. | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| judges, | **<big>[[G2923\|κριταίς]]</big>** |
+| Know | **<big>[[G1492\|ίδετε]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| do, | **<big>[[G4160\|ποιείτε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| unto man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| do you | **<big>[[G1473\|υμείς]]</big>** |
+| judge, | **<big>[[G2919\|κρίνετε]]</big>** |
+| but | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you \[are\] | **<big>[[G1473\|υμών]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγοι]]</big>** |
+| of judgment. | **<big>[[G2920\|κρίσεως]]</big>** |
 [[2Chr.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.5|<< 2 Chronicles 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.7|2 Chronicles 19:7 >>]]</td></tr></table>
 
 

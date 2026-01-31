@@ -6,23 +6,23 @@ Then Pharaoh said to Joseph, “Since God has made all this known to you, there 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.38|<< Genesis 41:38]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.40|Genesis 41:40 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֤אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹה֙ </big></span><small><small><sup>[[H6547H]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֔ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֨י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has made know  | <span class="ashebrew"><big>הוֹדִ֧יעַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ho.Di.a' <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֛ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> you  | <span class="ashebrew"><big>אוֹתְ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'ot. <small><sup>[[HTo]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֑את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵין </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ein- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a discerning [person]  | <span class="ashebrew"><big>נָב֥וֹן </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| na.Von <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a wise [person]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָכָ֖ם </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like you  | <span class="ashebrew"><big>כָּמֽוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.Mo. <small><sup>[[HRd]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹה֙]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֔ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֨י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has made know  |**<big>&#8207;[[H3045\|הוֹדִ֧יעַ]]&#8207; </big>**| ho.Di.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  |**<big>&#8207;[[H0853\|אוֹתְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| 'ot.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֑את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a discerning [person]  |**<big>&#8207;[[H0995\|נָב֥וֹן]]&#8207; </big>**| na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a wise [person]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2450\|חָכָ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like you  |**<big>&#8207;[[H3644G\|כָּמֽוֹ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Mo.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.38|<< Genesis 41:38]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.40|Genesis 41:40 >>]]</td></tr></table>
 
 

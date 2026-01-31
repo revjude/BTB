@@ -7,25 +7,25 @@ Ask me never so much dowry and gift, and I will give according as ye shall say u
 Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!”<small><sub>**MT:**</sub></small>
 [[Gen.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.11|<< Genesis 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.13|Genesis 34:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You multiply | <big><span class="asgreek">πληθύνατε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dowry | <big><span class="asgreek">φέρνην</span></big> <sup><small><small>[[G9631]]</small></small></sup> |
-| exceedingly! | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| whatever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should have said | <big><span class="asgreek">είπητέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσετέ</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this child | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| You multiply | **<big>[[G4129\|πληθύνατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| dowry | **<big>[[G9631\|φέρνην]]</big>** |
+| exceedingly! | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| whatever | **<big>[[G0302\|αν]]</big>** |
+| you should have said | **<big>[[G2036\|είπητέ]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall give | **<big>[[G1325\|δώσετέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this child | **<big>[[G3816\|παίδα]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[Gen.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.11|<< Genesis 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.13|Genesis 34:13 >>]]</td></tr></table>
 
 

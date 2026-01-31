@@ -7,41 +7,41 @@ And these [are] the garments which they shall make; a breastplate, and an ephod,
 These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests.<small><sub>**MT:**</sub></small>
 [[Exod.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.3|<< Exodus 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.5|Exodus 28:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολαί</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they shall make; | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breast-plate, | <big><span class="asgreek">περιστήθιον</span></big> <sup><small><small>[[G8759]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece, | <big><span class="asgreek">επωμίδα</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foot length robe, | <big><span class="asgreek">ποδήρη</span></big> <sup><small><small>[[G4158]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| inner garment | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| a fringed | <big><span class="asgreek">κοσυμβωτόν</span></big> <sup><small><small>[[G8076]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turban, | <big><span class="asgreek">κίδαριν</span></big> <sup><small><small>[[G8010]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| belt. | <big><span class="asgreek">ζώνην</span></big> <sup><small><small>[[G2223]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall make | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίας</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| for Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| officiating as priest | <big><span class="asgreek">ιερατεύειν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|αύται]]</big>** |
+| \[are\] the | **<big>[[G3588\|αι]]</big>** |
+| apparels | **<big>[[G4749\|στολαί]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| they shall make; | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breast-plate, | **<big>[[G8759\|περιστήθιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| shoulder-piece, | **<big>[[G7490\|επωμίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| foot length robe, | **<big>[[G4158\|ποδήρη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| inner garment | **<big>[[G5509\|χιτώνα]]</big>** |
+| a fringed | **<big>[[G8076\|κοσυμβωτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turban, | **<big>[[G8010\|κίδαριν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| belt. | **<big>[[G2223\|ζώνην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall make | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| holy | **<big>[[G0039\|αγίας]]</big>** |
+| for Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| officiating as priest | **<big>[[G2407\|ιερατεύειν]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Exod.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.3|<< Exodus 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.5|Exodus 28:5 >>]]</td></tr></table>
 
 

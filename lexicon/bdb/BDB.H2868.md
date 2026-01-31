@@ -1,5 +1,5 @@
-<small>Hebrew form: [[H2895]]</small>
-<small>Also see: [[H0888]]</small>
+<small>Hebrew form: **<big>[[H2895|טוֹב]]</big>**</small>
+<small>Also see: **<big>[[H0888|בְּאֵשׁ]]</big>**</small>
 
 <span class="bdbLangHebrew">‎<big>ט</big>‎</span> <span class="bdbLangAramaic">‎טְאֵב‎</span> **verb** ==be good== ([[BDB#Tg|ᵑ7]] Syriac, see Biblical Hebrew <span class="bdbLangAramaic">‎טוֺב‎</span>); — 
 

@@ -7,29 +7,29 @@ Moreover as for me, God forbid that I should sin against the LORD in ceasing to 
 As for me, far be it from me that I should sin against the LORD by ceasing to pray for you. And I will continue to teach you the good and right way.<small><sub>**MT:**</sub></small>
 [[1Sam.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.22|<< 1 Samuel 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.24|1 Samuel 12:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| may it not be | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">γένοιτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to sin | <big><span class="asgreek">αμαρτείν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| \[against\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to stop | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">διαλείπειν</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
-| praying | <big><span class="asgreek">προσευχόμενον</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will manifest | <big><span class="asgreek">δηλώσω</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| straight | <big><span class="asgreek">ευθείαν</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| But to me, | **<big>[[G1473\|εμοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| may it not be | **<big>[[G3361\|μη]]</big>** **<big>[[G1096\|γένοιτο]]</big>** |
+| to sin | **<big>[[G0264\|αμαρτείν]]</big>** |
+| \[against\] the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| to stop | **<big>[[G3588\|του]]</big>** **<big>[[G1257\|διαλείπειν]]</big>** |
+| praying | **<big>[[G4336\|προσευχόμενον]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2316\|κυρίω]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| I will manifest | **<big>[[G1213\|δηλώσω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| good | **<big>[[G0018\|αγαθήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| straight | **<big>[[G2117\|ευθείαν]]</big>** |
 [[1Sam.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.22|<< 1 Samuel 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.24|1 Samuel 12:24 >>]]</td></tr></table>
 
 

@@ -7,43 +7,43 @@ And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast bu
 You are to proclaim concerning Jehoiakim king of Judah that this is what the LORD says: You have burned the scroll and said, ‘Why have you written on it that the king of Babylon would surely come and destroy this land and deprive it of man and beast?’<small><sub>**MT:**</sub></small>
 [[Jer.36.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jehoaikim, | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3079]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| incinerated | <big><span class="asgreek">κατέκαυσας</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| did you write | <big><span class="asgreek">έγραψας</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In entering | <big><span class="asgreek">εισπορευόμενος</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall utterly destroy | <big><span class="asgreek">εξολοθρεύσει</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall obliterate | <big><span class="asgreek">εκτρίψει</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast. | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jehoaikim, | **<big>[[H3079\|Ιωακείμ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| incinerated | **<big>[[G2618\|κατέκαυσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this scroll, | **<big>[[G0975\|βιβλίον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Why | **<big>[[G1302\|διατί]]</big>** |
+| did you write | **<big>[[G1125\|έγραψας]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| In entering | **<big>[[G1531\|εισπορευόμενος]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall utterly destroy | **<big>[[G1842\|εξολοθρεύσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land, | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall obliterate | **<big>[[G7160\|εκτρίψει]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast. | **<big>[[G2934\|κτήνη]]</big>** |
 [[Jer.36.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
 

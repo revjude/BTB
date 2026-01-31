@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוֹטִיפַר‎</span></big> **Pôwṭîyphar** <small>*(po-tee-far')*</small> ==**Potiphar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פּוֹטִיפַר‎</span></big>** **Pôwṭîyphar** <small>*(po-tee-far')*</small> ==**Potiphar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Potiphar.

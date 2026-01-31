@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרְגֹּל‎</span></big> **chârᵉgôl** <small>*(khar-gole')*</small> ==**locust**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַג‎</span><sup><small>[[H2727]]</small></sup></small>
+**<big><span class="ashebrew">‎חָרְגֹּל‎</span></big>** **chârᵉgôl** <small>*(khar-gole')*</small> ==**locust**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2727|‎חָרַג‎]]</big>**</small>
 
 $\quad$ beetle.
 - ***the leaping insect***, i.e. ***a locust***

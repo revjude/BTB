@@ -7,34 +7,34 @@ Then she said, Let me find favour in thy sight, my lord; for that thou hast comf
 “My lord,” she said, “may I continue to find favor in your eyes, for you have comforted and spoken kindly to your maidservant, though I am not like one of your servant girls.”<small><sub>**MT:**</sub></small>
 [[Ruth.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.12|<< Ruth 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.14|Ruth 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| May I find | <big><span class="asgreek">εύροιμι</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my master; | <big><span class="asgreek">κύριέ</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you comforted | <big><span class="asgreek">παρεκάλεσάς</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in \[your\] | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant; | <big><span class="asgreek">δούλης</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your maidservants. | <big><span class="asgreek">παιδισκών</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
+| May I find | **<big>[[G2147\|εύροιμι]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O my master; | **<big>[[G2962\|κύριέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you comforted | **<big>[[G3870\|παρεκάλεσάς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| you spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| in \[your\] | **<big>[[G1909\|επί]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| your maidservant; | **<big>[[G1399\|δούλης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall be | **<big>[[G1510\|έσομαι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your maidservants. | **<big>[[G3814\|παιδισκών]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ruth.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.12|<< Ruth 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.14|Ruth 2:14 >>]]</td></tr></table>
 
 

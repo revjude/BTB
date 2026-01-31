@@ -7,18 +7,18 @@ And the glede, and the kite, and the vulture after his kind,
 the red kite, the falcon, any kind of kite,<small><sub>**MT:**</sub></small>
 [[Deut.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.12|<< Deuteronomy 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.14|Deuteronomy 14:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vulture, | <big><span class="asgreek">γύπα</span></big> <sup><small><small>[[G6778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kite, | <big><span class="asgreek">ικτίνα</span></big> <sup><small><small>[[G7717]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| vulture, | **<big>[[G6778\|γύπα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| kite, | **<big>[[G7717\|ικτίνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| likened | **<big>[[G3664\|όμοια]]</big>** |
+| to it, | **<big>[[G1473\|αυτώ]]</big>** |
 [[Deut.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.12|<< Deuteronomy 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.14|Deuteronomy 14:14 >>]]</td></tr></table>
 
 

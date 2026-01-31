@@ -7,21 +7,21 @@ The heaven, [even] the heavens, [are] the LORD’S: but the earth hath he given 
 The highest heavens belong to the LORD, but the earth He has given to mankind.<small><sub>**MT:**</sub></small>
 [[Ps.115.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.15|<< Psalm 115:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.17|Psalm 115:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \[belongs\] to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| but the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| \[belongs\] to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίω]]</big>** |
+| but the | **<big>[[G3588\|την]]</big>** **<big>[[G1161\|δε]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| he gave | **<big>[[G1325\|έδωκε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Ps.115.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.15|<< Psalm 115:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.17|Psalm 115:17 >>]]</td></tr></table>
 
 

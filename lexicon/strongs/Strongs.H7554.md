@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָקַע‎</span></big> **râqaʻ** <small>*(raw-kah')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָקַע‎</span></big>** **râqaʻ** <small>*(raw-kah')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat, make broad, spread abroad (forth, over, out, into plates), stamp, stretch.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Piel) to overlay, beat out (for plating)
 $\quad$ **1c)** (Pual) beaten out (participle)
 $\quad$ **1d)** (Hiphil) to make a spreading (of clouds)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">στερεόω</span><sup><small>[[G4732]]</small></sup>
+<small>See Greek: </small>**<big>[[G4732|στερεόω]]</big>**

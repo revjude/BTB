@@ -1,5 +1,3 @@
-<span class="ashebrew">‎אֲבִימָאֵל‎</span> <small>***(a.vi.ma.el)***</small> ==**Abimael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.28|Gen.10.28]]
--  son of: Joktan ([[H3355]])
--  brother of: Almodad ([[H0486]]), Sheleph ([[H8026]]), Hazarmaveth ([[H2700]]), Jerah ([[H3392]]), Hadoram ([[H1913A]]), Uzal ([[H0187]]), Diklah ([[H1853]]), Obal ([[H5745]]), Sheba ([[H7614H]]), Ophir ([[H0211]]), Havilah ([[H2341I]]) and Jobab ([[H3103]])
-
+-  son of: Joktan (**<big>[[H3355|יׇקְטָן]]</big>**)
+-  brother of: Almodad (**<big>[[H0486|אַלְמוֹדָד]]</big>**), Sheleph (**<big>[[H8026|שֶׁלֶף]]</big>**), Hazarmaveth (**<big>[[H2700|חֲצַרְמָוֶת]]</big>**), Jerah (**<big>[[H3392|יֶרַח]]</big>**), Hadoram (**<big>[[H1913A|הֲדוֹרָם]]</big>**), Uzal (**<big>[[H0187|אוּזָל]]</big>**), Diklah (**<big>[[H1853|דִּקְלָה]]</big>**), Obal (**<big>[[H5745|עוֹבָל]]</big>**), Sheba (**<big>[[H7614H|שְׁבָא]]</big>**), Ophir (**<big>[[H0211|אוֹפִיר]]</big>**), Havilah (**<big>[[H2341I|חֲוִילָה]]</big>**) and Jobab (**<big>[[H3103|יוֹבָב]]</big>**)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵלֶק‎</span></big> **chêleq** <small>*(khay'lek)*</small> ==**portion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלַק‎</span><sup><small>[[H2505]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵלֶק‎</span></big>** **chêleq** <small>*(khay'lek)*</small> ==**portion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2505|‎חָלַק‎]]</big>**</small>
 
 $\quad$ flattery, inheritance, part, [idiom] partake, portion.
 - properly, ***smoothness*** (of the tongue)
@@ -13,4 +13,4 @@ $\quad$ **1d)** (chosen) portion
 $\quad$ **1e)** portion, award (from God)
 **2)** smoothness, seductiveness, flattery
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀκελδαμά</span><sup><small>[[G0184]]</small></sup>
+<small>See Greek: </small>**<big>[[G0184|Ἀκελδαμά]]</big>**

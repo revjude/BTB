@@ -4,7 +4,7 @@ Levite living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Ahiman</span> was a Levite who served as a gatekeeper during the reign of David. \([[1Chr.9.17|1Ch.9.17]]\)
 - A man from the tribe of Levi  living at the time of Exile and Return, only mentioned at [[1Chr.9.17|1Ch.9.17]]; 
-- only referred to as Ahiman<[[H0289H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ַ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Ahiman **<big>[[H0289|אֲחִימַן]]</big>**.
 
 Ahiman is mentioned briefly in a list of Levites who served as gatekeepers during the reign of King David. The gatekeepers were responsible for guarding the entrances to the tabernacle and later the temple. They ensured that only authorized individuals entered the sacred premises and maintained order. 
 
@@ -14,5 +14,5 @@ No further details about Ahiman's specific duties or life are provided in the Bi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahiman | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ַ<span class='tipnrLangHebrew'>ן</span>](H0289H) <small>*Hebrew*</small> | 1x | [1Ch.9.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahiman\*\|reference=1Ch.9.17) |
-All Strong's for **Ahiman**: \[[[H0289H]]\]
+| Ahiman | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ַ<span class='tipnrLangHebrew'>ן</span>](H0289H) | 1x | [1Ch.9.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahiman\*\|reference=1Ch.9.17) |
+All entries for **Ahiman**:  **<big>[[H0289|אֲחִימַן]]</big>**

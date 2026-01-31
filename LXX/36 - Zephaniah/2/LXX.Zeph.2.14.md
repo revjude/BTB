@@ -7,43 +7,43 @@ And flocks shall lie down in the midst of her, all the beasts of the nations: bo
 Herds will lie down in her midst, creatures of every kind. Both the desert owl and screech owl will roost atop her pillars. Their calls will sound from the window, but desolation will lie on the threshold, for He will expose the beams of cedar.<small><sub>**MT:**</sub></small>
 [[Zeph.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.13|<< Zephaniah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.15|Zephaniah 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall feed | <big><span class="asgreek">νεμήσονται</span></big> <sup><small><small>[[G8385]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| chameleons; | <big><span class="asgreek">χαμαιλέοντες</span></big> <sup><small><small>[[G9697]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hedgehogs | <big><span class="asgreek">εχίνοι</span></big> <sup><small><small>[[G7591]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her fretwork | <big><span class="asgreek">φατνώμασιν</span></big> <sup><small><small>[[G9625]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall make a bed | <big><span class="asgreek">κοιτασθήσονται</span></big> <sup><small><small>[[G8045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| to sound out loud | <big><span class="asgreek">φωνήσει</span></big> <sup><small><small>[[G5455]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her ditches, | <big><span class="asgreek">διορύγμασιν</span></big> <sup><small><small>[[G6939]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| crows | <big><span class="asgreek">κόρακες</span></big> <sup><small><small>[[G2876]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her gatehouses. | <big><span class="asgreek">πυλώσιν</span></big> <sup><small><small>[[G4440]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[was as the\] cedar | <big><span class="asgreek">κέδρος</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her height | <big><span class="asgreek">ανάστημα</span></big> <sup><small><small>[[G6312]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall feed | **<big>[[G8385\|νεμήσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of her | **<big>[[G1473\|αυτής]]</big>** |
+| flocks | **<big>[[G4168\|ποίμνια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| chameleons; | **<big>[[G9697\|χαμαιλέοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hedgehogs | **<big>[[G7591\|εχίνοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| her fretwork | **<big>[[G9625\|φατνώμασιν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall make a bed | **<big>[[G8045\|κοιτασθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| to sound out loud | **<big>[[G5455\|φωνήσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| her ditches, | **<big>[[G6939\|διορύγμασιν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| crows | **<big>[[G2876\|κόρακες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| her gatehouses. | **<big>[[G4440\|πυλώσιν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| \[was as the\] cedar | **<big>[[G2748\|κέδρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| her height | **<big>[[G6312\|ανάστημα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Zeph.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.13|<< Zephaniah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.15|Zephaniah 2:15 >>]]</td></tr></table>
 
 

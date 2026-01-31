@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָרַר‎</span></big> **mârar** <small>*(maw-rar')*</small> ==**to provoke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to trickle (see <span class="ashebrew">‎מַר‎</span><sup><small>[[H4752]]</small></sup>); but used only as a denominative from <span class="ashebrew">‎מַר‎</span><sup><small>[[H4751]]</small></sup></small>
+**<big><span class="ashebrew">‎מָרַר‎</span></big>** **mârar** <small>*(maw-rar')*</small> ==**to provoke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to trickle (see **<big>[[H4752|‎מַר‎]]</big>**); but used only as a denominative from **<big>[[H4751|‎מַר‎]]</big>**</small>
 
 $\quad$ (be, be in, deal, have, make) bitter(-ly, -ness), be moved with choler, (be, have sorely, it) grieved(-eth), provoke, vex.
 - ***to be*** (causatively, make) ***bitter*** (literally or figuratively)
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1d1)** to embitter oneself
 $\quad$ $\quad$ **1d2)** to be enraged
 **2)** (TWOT) to be strong, strengthen
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπειθέω</span><sup><small>[[G0544]]</small></sup> · <span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">ὀδυνάω</span><sup><small>[[G3600]]</small></sup> · <span class="asgreek">ὀργίζω</span><sup><small>[[G3710]]</small></sup> · <span class="asgreek">πικρός</span><sup><small>[[G4089]]</small></sup> · <span class="asgreek">πικρῶς</span><sup><small>[[G4090]]</small></sup>
+<small>See Greek: </small>**<big>[[G0544|ἀπειθέω]]</big>** · **<big>[[G2373|θυμόω]]</big>** · **<big>[[G3600|ὀδυνάω]]</big>** · **<big>[[G3710|ὀργίζω]]</big>** · **<big>[[G4089|πικρός]]</big>** · **<big>[[G4090|πικρῶς]]</big>**

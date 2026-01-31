@@ -11,34 +11,34 @@ The hands of the witnesses shall be the first in putting him to death, and after
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| witnesses | <big><span class="asgreek">μαρτύρων</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| to put him to death, | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| upon \[him\] | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| last. | <big><span class="asgreek">εσχάτω</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lift away | <big><span class="asgreek">εξαρείς</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| witnesses | **<big>[[G3144\|μαρτύρων]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτοις]]</big>** |
+| to put him to death, | **<big>[[G2289\|θανατώσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| of all | **<big>[[G3956\|παντός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| upon \[him\] | **<big>[[G1909\|επ΄]]</big>** |
+| last. | **<big>[[G2078\|εσχάτω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall lift away | **<big>[[G1808\|εξαρείς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wicked \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.6|<< Deuteronomy 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.8|Deuteronomy 17:8 >>]]</td></tr></table>
 
 

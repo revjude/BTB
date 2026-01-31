@@ -7,31 +7,31 @@ Behold, I [am] against thee, saith the LORD of hosts; and I will discover thy sk
 “Behold, I am against you,” declares the LORD of Hosts. “I will lift your skirts over your face. I will show your nakedness to the nations and your shame to the kingdoms.<small><sub>**MT:**</sub></small>
 [[Nah.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.4|<< Nahum 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.6|Nahum 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will uncover | <big><span class="asgreek">αποκαλύψω</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your presence, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will show | <big><span class="asgreek">δείξω</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your shame, | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to kingdoms | <big><span class="asgreek">βασιλείαις</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dishonor. | <big><span class="asgreek">ατιμίαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I am | **<big>[[G1473\|εγώ]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will uncover | **<big>[[G0601\|αποκαλύψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your behind | **<big>[[G3694\|οπίσω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your presence, | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will show | **<big>[[G1166\|δείξω]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your shame, | **<big>[[G0152\|αισχύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to kingdoms | **<big>[[G0932\|βασιλείαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your dishonor. | **<big>[[G0819\|ατιμίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Nah.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.4|<< Nahum 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.6|Nahum 3:6 >>]]</td></tr></table>
 
 

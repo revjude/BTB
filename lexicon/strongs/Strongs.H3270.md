@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַעֲזֵיר‎</span></big> **Yaʻăzêyr** <small>*(yah-az-ayr')*</small> ==**Jazer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">יַעְזֵר</span> **Yaʻzêr** <small>*(yah-zare')*</small>; from <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup>; helpful</small>
+**<big><span class="ashebrew">‎יַעֲזֵיר‎</span></big>** **Yaʻăzêyr** <small>*(yah-az-ayr')*</small> ==**Jazer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">יַעְזֵר</span></big>** **Yaʻzêr** <small>*(yah-zare')*</small>; from **<big>[[H5826|‎עָזַר‎]]</big>**; helpful</small>
 
 $\quad$ Jaazer, Jazer.
 - § Jazer or Jaazer = *"helped"*

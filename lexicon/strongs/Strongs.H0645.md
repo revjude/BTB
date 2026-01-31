@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵפוֹ‎</span></big> **ʼêphôw** <small>*(ay-fo')*</small> ==**then**==  <sup><small>[[TEHMC#H:Part|H:Part]]</small></sup> 
-<small>or <span class="ashebrew">אֵפוֹא</span> **ʼêphôwʼ** <small>*(ay-fo')*</small>; from <span class="ashebrew">‎פֹּה‎</span><sup><small>[[H6311]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵפוֹ‎</span></big>** **ʼêphôw** <small>*(ay-fo')*</small> ==**then**==  <sup><small>[[TEHMC#H:Part|H:Part]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֵפוֹא</span></big>** **ʼêphôwʼ** <small>*(ay-fo')*</small>; from **<big>[[H6311|‎פֹּה‎]]</big>**</small>
 
 $\quad$ here, now, where?
 - strictly a demonstrative particle, ***here***

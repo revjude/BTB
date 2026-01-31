@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑπ-έχω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.89.50|Ps 88 (89):50]] (<span class="ashebrew">נָשָׂא</span> <small><sup>[[H5375]]</sup></small>), [[LXX.Lam.5.7|La 5:7]] (<span class="ashebrew">סָבַל</span> <small><sup>[[H5445]]</sup></small>), [[Wis.12.21|Wi 12:21]], [[2Macc.4.48|II Mac 4:48]] \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑπ-έχω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.89.50|Ps 88 (89):50]] (**<big>[[H5375|נָשָׂא]]</big>**), [[LXX.Lam.5.7|La 5:7]] (**<big>[[H5445|סָבַל]]</big>**), [[Wis.12.21|Wi 12:21]], [[2Macc.4.48|II Mac 4:48]] \* ;\] </span> </span>
 <span class="asitalic">to hold</span> or <span class="asitalic">put under</span>. Metaph., <span class="asitalic">to undergo, suffer</span>: <span class="asgreek">δίκην</span>, [[Jude.1.7|Ju 7]] (Soph., Eur., al.).†
 
 **Abbott-Smith References**

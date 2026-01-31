@@ -7,34 +7,34 @@ Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, tho
 But Pharaoh asked him, “What have you lacked here with me that you suddenly want to go back to your own country?” “Nothing,” Hadad replied, “but please let me go.”<small><sub>**MT:**</sub></small>
 [[1Kgs.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hadad, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| What | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lack | <big><span class="asgreek">ελαττονή</span></big> <sup><small><small>[[G1641]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seek | <big><span class="asgreek">ζητείς</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to go forth | <big><span class="asgreek">απελθείν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land? | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hadad | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| Not one thing, | <big><span class="asgreek">μηδαμώς</span></big> <sup><small><small>[[G3365]]</small></small></sup> |
-| but | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by sending | <big><span class="asgreek">εξαποστέλλων</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you shall send | <big><span class="asgreek">εξαποστελείς</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh said | **<big>[[G2036\|είπε]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Hadad, | **<big>[[H2301\|Αδάρ]]</big>** |
+| What | **<big>[[G5100\|τίνι]]</big>** |
+| do you | **<big>[[G1473\|συ]]</big>** |
+| lack | **<big>[[G1641\|ελαττονή]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| seek | **<big>[[G2212\|ζητείς]]</big>** |
+| to go forth | **<big>[[G0565\|απελθείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your land? | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Hadad | **<big>[[H2301\|Αδάρ]]</big>** |
+| Not one thing, | **<big>[[G3365\|μηδαμώς]]</big>** |
+| but | **<big>[[G3754\|ότι]]</big>** |
+| by sending | **<big>[[G1821\|εξαποστέλλων]]</big>** |
+| you shall send | **<big>[[G1821\|εξαποστελείς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[1Kgs.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
 
 

@@ -10,15 +10,15 @@ And the LORD spake unto Moses and to Aaron, saying,
 And the LORD said to Moses and Aaron,<small><sub>**MT:**</sub></small>
 [[Lev.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.57|<< Leviticus 14:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.2|Leviticus 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> spoke | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Lev.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.57|<< Leviticus 14:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.2|Leviticus 15:2 >>]]</td></tr></table>
 
 

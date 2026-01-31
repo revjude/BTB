@@ -7,24 +7,24 @@ And thou shalt bring the Levites before the LORD: and the children of Israel sha
 You are to present the Levites before the LORD and have the Israelites lay their hands upon them.<small><sub>**MT:**</sub></small>
 [[Num.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.9|<< Numbers 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.11|Numbers 8:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lead forward | <big><span class="asgreek">προσάξεις</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall place | <big><span class="asgreek">επιθήσουσιν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites. | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall lead forward | **<big>[[G4317\|προσάξεις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites | **<big>[[G3017\|Λευίτας]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall place | **<big>[[G2007\|επιθήσουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites. | **<big>[[G3017\|Λευίτας]]</big>** |
 [[Num.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.9|<< Numbers 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.11|Numbers 8:11 >>]]</td></tr></table>
 
 

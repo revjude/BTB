@@ -7,33 +7,33 @@ And he shall make an atonement for the holy sanctuary, and he shall make an aton
 and make atonement for the Most Holy Place, the Tent of Meeting, and the altar, and for the priests and all the people of the assembly.<small><sub>**MT:**</sub></small>
 [[Lev.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.32|<< Leviticus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.34|Leviticus 16:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy; | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| he shall atone; | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| he shall atone. | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy; | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| he shall atone; | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| he shall atone. | **<big>[[G7331\|εξιλάσεται]]</big>** |
 [[Lev.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.32|<< Leviticus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.34|Leviticus 16:34 >>]]</td></tr></table>
 
 

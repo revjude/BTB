@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָבַד‎</span></big> **ʼâbad** <small>*(aw-bad')*</small> ==**to perish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָבַד‎</span></big>** **ʼâbad** <small>*(aw-bad')*</small> ==**to perish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ break, destroy(-uction), [phrase] not escape, fail, lose, (cause to, make) perish, spend, [idiom] and surely, take, be undone, [idiom] utterly, be void of, have no way to flee.
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c1)** to destroy, put to death
 $\quad$ $\quad$ $\quad$ **1c1a)** of divine judgment
 $\quad$ $\quad$ **1c2)** object name of kings (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λύπη</span><sup><small>[[G3077]]</small></sup>
+<small>See Greek: </small>**<big>[[G3077|λύπη]]</big>**

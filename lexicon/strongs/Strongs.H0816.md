@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָשַׁם‎</span></big> **ʼâsham** <small>*(aw-sham')*</small> ==**be guilty**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">אָשֵׁם</span> **ʼâshêm** <small>*(aw-shame')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎אָשַׁם‎</span></big>** **ʼâsham** <small>*(aw-sham')*</small> ==**be guilty**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">אָשֵׁם</span></big>** **ʼâshêm** <small>*(aw-shame')*</small>; a primitive root</small>
 
 $\quad$ [idiom] certainly, be(-come, made) desolate, destroy, [idiom] greatly, be(-come, found, hold) guilty, offend (acknowledge offence), trespass.
 - ***to be guilty***
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Niphal) to suffer punishment
 $\quad$ **1c)** (Hiphil) to declare guilty
 **2)** (TWOT) to be desolate, acknowledge offense
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγνοέω</span><sup><small>[[G0050]]</small></sup> · <span class="asgreek">ἁμαρτάνω</span><sup><small>[[G0264]]</small></sup> · <span class="asgreek">ἀνίημι</span><sup><small>[[G0447]]</small></sup> · <span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">μεταμέλλομαι</span><sup><small>[[G3338]]</small></sup> · <span class="asgreek">παραπίπτω</span><sup><small>[[G3895]]</small></sup>
+<small>See Greek: </small>**<big>[[G0050|ἀγνοέω]]</big>** · **<big>[[G0264|ἁμαρτάνω]]</big>** · **<big>[[G0447|ἀνίημι]]</big>** · **<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G3338|μεταμέλλομαι]]</big>** · **<big>[[G3895|παραπίπτω]]</big>**

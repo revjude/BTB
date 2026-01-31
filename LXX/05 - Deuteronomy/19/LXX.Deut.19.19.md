@@ -11,24 +11,24 @@ you must do to him as he intended to do to his brother. So you must purge the ev
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| he devised wickedly | <big><span class="asgreek">επονηρεύσατο</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lift away | <big><span class="asgreek">εξαρείτε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| yourselves. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| he devised wickedly | **<big>[[G8863\|επονηρεύσατο]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall lift away | **<big>[[G1808\|εξαρείτε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wicked | **<big>[[G4190\|πονηρόν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| yourselves. | **<big>[[G1473\|υμών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
 
 

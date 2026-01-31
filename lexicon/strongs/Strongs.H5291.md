@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַעֲרָה‎</span></big> **naʻărâh** <small>*(nah-ar-aw')*</small> ==**maiden**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נַעַר‎</span><sup><small>[[H5288]]</small></sup></small>
+**<big><span class="ashebrew">‎נַעֲרָה‎</span></big>** **naʻărâh** <small>*(nah-ar-aw')*</small> ==**maiden**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5288|‎נַעַר‎]]</big>**</small>
 
 $\quad$ damsel, maid(-en), young (woman).
 - ***a girl*** (from infancy to adolescence)
@@ -9,4 +9,4 @@ $\quad$ **1a)** girl, damsel, little girl
 $\quad$ $\quad$ **1a1)** of young woman, marriageable young woman, concubine, prostitute
 $\quad$ **1b)** maid, female attendant, female servant
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup> · <span class="asgreek">δούλη</span><sup><small>[[G1399]]</small></sup> · <span class="asgreek">δοῦλον</span><sup><small>[[G1400]]</small></sup> · <span class="asgreek">δοῦλος</span><sup><small>[[G1401]]</small></sup> · <span class="asgreek">θεράπων</span><sup><small>[[G2324]]</small></sup> · <span class="asgreek">κοράσιον</span><sup><small>[[G2877]]</small></sup> · <span class="asgreek">παιδίσκη</span><sup><small>[[G3814]]</small></sup> · <span class="asgreek">παῖς</span><sup><small>[[G3816]]</small></sup> · <span class="asgreek">παρθένος</span><sup><small>[[G3933]]</small></sup>
+<small>See Greek: </small>**<big>[[G1135|γυνή]]</big>** · **<big>[[G1399|δούλη]]</big>** · **<big>[[G1400|δοῦλον]]</big>** · **<big>[[G1401|δοῦλος]]</big>** · **<big>[[G2324|θεράπων]]</big>** · **<big>[[G2877|κοράσιον]]</big>** · **<big>[[G3814|παιδίσκη]]</big>** · **<big>[[G3816|παῖς]]</big>** · **<big>[[G3933|παρθένος]]</big>**

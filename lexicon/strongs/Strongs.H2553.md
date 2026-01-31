@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַמָּן‎</span></big> **chammân** <small>*(kham-mawn')*</small> ==**pillar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חַמָּה‎</span><sup><small>[[H2535]]</small></sup></small>
+**<big><span class="ashebrew">‎חַמָּן‎</span></big>** **chammân** <small>*(kham-mawn')*</small> ==**pillar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2535|‎חַמָּה‎]]</big>**</small>
 
 $\quad$ idol, image.
 - ***a sun-pillar***
@@ -7,4 +7,4 @@ $\quad$ idol, image.
 **1)** incense altar, sun-pillar, idol, image
 $\quad$ **1a)** used in idolatrous worship
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βδέλυγμα</span><sup><small>[[G0946]]</small></sup> · <span class="asgreek">εἴδωλον</span><sup><small>[[G1497]]</small></sup> · <span class="asgreek">ξύλινος</span><sup><small>[[G3585]]</small></sup>
+<small>See Greek: </small>**<big>[[G0946|βδέλυγμα]]</big>** · **<big>[[G1497|εἴδωλον]]</big>** · **<big>[[G3585|ξύλινος]]</big>**

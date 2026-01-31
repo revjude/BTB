@@ -6,16 +6,16 @@ You who forbid adultery, do you commit adultery? You who abhor idols, do you rob
 <small><sub>**Literal:**</sub></small>
 You who [are] saying not to commit adultery do you commit adultery? You who [are] abhorring <the> idols do you rob temples?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.21|<< Romans 2:21]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.23|Romans 2:23 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| You who [are] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying |<big><span class="asgreek">λέγων</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legōn <small><sup>[[V-PAP-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to commit adultery |<big><span class="asgreek">μοιχεύειν</span></big> <small><small><sup>[[G3431]]</sup></small></small> |moicheuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do you commit adultery? |<big><span class="asgreek">μοιχεύεις;</span></big> <small><small><sup>[[G3431]]</sup></small></small> |moicheueis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You who [are] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| abhorring |<big><span class="asgreek">βδελυσσόμενος</span></big> <small><small><sup>[[G0948]]</sup></small></small> |bdelussomenos <small><sup>[[V-PNP-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| idols |<big><span class="asgreek">εἴδωλα</span></big> <small><small><sup>[[G1497]]</sup></small></small> |eidōla <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do you rob temples? |<big><span class="asgreek">ἱεροσυλεῖς;</span></big> <small><small><sup>[[G2416]]</sup></small></small> |hi'erosuleis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You who [are] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to commit adultery |**<big>[[G3431\|μοιχεύειν]]</big>**  |moicheuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do you commit adultery? |**<big>[[G3431\|μοιχεύεις;]]</big>**  |moicheueis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You who [are] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| abhorring |**<big>[[G0948\|βδελυσσόμενος]]</big>**  |bdelussomenos <small><sup>[[V-PNP-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| idols |**<big>[[G1497\|εἴδωλα]]</big>**  |eidōla <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do you rob temples? |**<big>[[G2416\|ἱεροσυλεῖς;]]</big>**  |hi'erosuleis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.21|<< Romans 2:21]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.23|Romans 2:23 >>]]</td></tr></table>

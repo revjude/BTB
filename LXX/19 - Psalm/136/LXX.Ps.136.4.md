@@ -7,19 +7,19 @@ To him who alone doeth great wonders: for his mercy [endureth] for ever.
 He alone does great wonders. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
 [[Ps.136.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.3|<< Psalm 136:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.5|Psalm 136:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one doing | <big><span class="asgreek">ποιήσαντι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| alone, | <big><span class="asgreek">μόνω</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] his mercy. | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| To the | **<big>[[G3588\|τω]]</big>** |
+| one doing | **<big>[[G4160\|ποιήσαντι]]</big>** |
+| wonders | **<big>[[G2297\|θαυμάσια]]</big>** |
+| great | **<big>[[G3173\|μεγάλα]]</big>** |
+| alone, | **<big>[[G3441\|μόνω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[is\] his mercy. | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.136.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.3|<< Psalm 136:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.5|Psalm 136:5 >>]]</td></tr></table>
 
 

@@ -7,16 +7,16 @@ Which forsaketh the guide of her youth, and forgetteth the covenant of her God.
 who abandons the partner of her youth and forgets the covenant of her God.<small><sub>**MT:**</sub></small>
 [[Prov.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.16|<< Proverbs 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.18|Proverbs 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| left | <big><span class="asgreek">απολιπούσα</span></big> <sup><small><small>[[G0620]]</small></small></sup> |
-| \[the\] instruction | <big><span class="asgreek">διδασκαλίαν</span></big> <sup><small><small>[[G1319]]</small></small></sup> |
-| of youth, | <big><span class="asgreek">νεότητος</span></big> <sup><small><small>[[G3503]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \[the\] divine | <big><span class="asgreek">θείαν</span></big> <sup><small><small>[[G2304]]</small></small></sup> |
-| forgot | <big><span class="asgreek">επιλελησμένη</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
+| which | **<big>[[G3739\|η]]</big>** |
+| left | **<big>[[G0620\|απολιπούσα]]</big>** |
+| \[the\] instruction | **<big>[[G1319\|διδασκαλίαν]]</big>** |
+| of youth, | **<big>[[G3503\|νεότητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| \[the\] divine | **<big>[[G2304\|θείαν]]</big>** |
+| forgot | **<big>[[G1950\|επιλελησμένη]]</big>** |
 [[Prov.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.16|<< Proverbs 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.18|Proverbs 2:18 >>]]</td></tr></table>
 
 

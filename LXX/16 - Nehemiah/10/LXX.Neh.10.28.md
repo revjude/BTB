@@ -7,43 +7,43 @@ And the rest of the people, the priests, the Levites, the porters, the singers, 
 “The rest of the people—the priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the land to obey the Law of God—along with their wives and all their sons and daughters who are able to understand,<small><sub>**MT:**</sub></small>
 [[Neh.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.27|<< Nehemiah 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.29|Nehemiah 10:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιποι</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatekeepers, | <big><span class="asgreek">πυλωροί</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singers, | <big><span class="asgreek">άδοντες</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nethinim, | <big><span class="asgreek">Ναθηνείμ</span></big> <sup><small><small>[[H5411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] ones being parted | <big><span class="asgreek">διαχωρισθέντες</span></big> <sup><small><small>[[G1316]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God -- | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| their wives, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their sons, | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their daughters, | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| perceiving, | <big><span class="asgreek">συνιών</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιποι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| gatekeepers, | **<big>[[G8988\|πυλωροί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| singers, | **<big>[[G0103\|άδοντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Nethinim, | **<big>[[H5411\|Ναθηνείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] ones being parted | **<big>[[G1316\|διαχωρισθέντες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God -- | **<big>[[G2316\|θεού]]</big>** |
+| their wives, | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| their sons, | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| their daughters, | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| every one | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| knowing | **<big>[[G1492\|ειδώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| perceiving, | **<big>[[G4920\|συνιών]]</big>** |
 [[Neh.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.27|<< Nehemiah 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.29|Nehemiah 10:29 >>]]</td></tr></table>
 
 

@@ -6,29 +6,29 @@ For the entire period of his vow of separation, no razor shall touch his head. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵי֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] vow of  | <span class="ashebrew"><big>נֶ֣דֶר </big></span><small><small><sup>[[H5088]]</sup></small></small> &#8207;| Ne.der <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nazirite vow his  | <span class="ashebrew"><big>נִזְר֔ </big></span><small><small><sup>[[H5145G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| niz.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a razor  | <span class="ashebrew"><big>תַּ֖עַר </big></span><small><small><sup>[[H8593]]</sup></small></small> &#8207;| Ta.'ar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will pass  | <span class="ashebrew"><big>יַעֲבֹ֣ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| ya.'a.Vor <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head his  | <span class="ashebrew"><big>רֹאשׁ֑ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ro.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are completed  | <span class="ashebrew"><big>מְלֹ֨את </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| me.Lot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the days  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּמִ֜ם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be a Nazirite  | <span class="ashebrew"><big>יַזִּ֤יר </big></span><small><small><sup>[[H5144B]]</sup></small></small> &#8207;| ya.Zir <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holy  | <span class="ashebrew"><big>קָדֹ֣שׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ka.Dosh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be  | <span class="ashebrew"><big>יִהְיֶ֔ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make grow  | <span class="ashebrew"><big>גַּדֵּ֥ל </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| ga.Del <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] lock[s] of  | <span class="ashebrew"><big>פֶּ֖רַע </big></span><small><small><sup>[[H6545]]</sup></small></small> &#8207;| Pe.ra' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] hair of  | <span class="ashebrew"><big>שְׂעַ֥ר </big></span><small><small><sup>[[H8181]]</sup></small></small> &#8207;| se.'Ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head his  | <span class="ashebrew"><big>רֹאשֽׁ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵי֙]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vow of  |**<big>&#8207;[[H5088\|נֶ֣דֶר]]&#8207; </big>**| Ne.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nazirite vow his  |**<big>&#8207;[[H5145G\|נִזְר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| niz.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a razor  |**<big>&#8207;[[H8593\|תַּ֖עַר]]&#8207; </big>**| Ta.'ar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will pass  |**<big>&#8207;[[H5674A\|יַעֲבֹ֣ר]]&#8207; </big>**| ya.'a.Vor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7218A\|רֹאשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are completed  |**<big>&#8207;[[H4390\|מְלֹ֨את]]&#8207; </big>**| me.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֜ם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be a Nazirite  |**<big>&#8207;[[H5144B\|יַזִּ֤יר]]&#8207; </big>**| ya.Zir<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy  |**<big>&#8207;[[H6918G\|קָדֹ֣שׁ]]&#8207; </big>**| ka.Dosh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be  |**<big>&#8207;[[H1961\|יִהְיֶ֔ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make grow  |**<big>&#8207;[[H1431\|גַּדֵּ֥ל]]&#8207; </big>**| ga.Del<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lock[s] of  |**<big>&#8207;[[H6545\|פֶּ֖רַע]]&#8207; </big>**| Pe.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hair of  |**<big>&#8207;[[H8181\|שְׂעַ֥ר]]&#8207; </big>**| se.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7218A\|רֹאשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
 

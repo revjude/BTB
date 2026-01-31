@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹחָא‎</span></big> **Yôwchâʼ** <small>*(yo-khaw')*</small> ==**Joha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and a variation of <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup>; Jehovah-revived</small>
+**<big><span class="ashebrew">‎יוֹחָא‎</span></big>** **Yôwchâʼ** <small>*(yo-khaw')*</small> ==**Joha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and a variation of **<big>[[H2421|‎חָיָה‎]]</big>**; Jehovah-revived</small>
 
 $\quad$ Joha.
 - § Joha = *"Jehovah gives life"*

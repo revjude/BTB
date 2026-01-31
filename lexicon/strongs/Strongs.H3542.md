@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כָּה‎</span></big> **kâh** <small>*(kaw)*</small> ==**thus**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כֹּה‎</span><sup><small>[[H3541]]</small></sup></small>
+**<big><span class="asaramaic">‎כָּה‎</span></big>** **kâh** <small>*(kaw)*</small> ==**thus**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3541|‎כֹּה‎]]</big>**</small>
 
 $\quad$ hitherto.
 - {properly, ***like this***, i.e. by implication, (of manner) ***thus*** (or so)

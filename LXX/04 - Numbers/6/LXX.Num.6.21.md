@@ -7,40 +7,40 @@ This [is] the law of the Nazarite who hath vowed, [and of] his offering unto the
 This is the law of the Nazirite who vows his offering to the LORD for his separation, in addition to whatever else he can afford; he must fulfill whatever vow he makes, according to the law of his separation.”<small><sub>**MT:**</sub></small>
 [[Num.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.20|<< Numbers 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.22|Numbers 6:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This is | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one making a vow; | <big><span class="asgreek">ευξαμένου</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should make a vow | <big><span class="asgreek">εύξηται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of his gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vow, | <big><span class="asgreek">ευχής</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| separate from | <big><span class="asgreek">χωρίς</span></big> <sup><small><small>[[G5565]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should find | <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| ability | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his vow, | <big><span class="asgreek">ευχής</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of what | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should have vowed | <big><span class="asgreek">εύξηται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of his purity. | <big><span class="asgreek">αγνείας</span></big> <sup><small><small>[[G0047]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| This is | **<big>[[G3778\|ούτος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| law | **<big>[[G3551\|νόμος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one making a vow; | **<big>[[G2172\|ευξαμένου]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should make a vow | **<big>[[G2172\|εύξηται]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| of his gift | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| vow, | **<big>[[G2171\|ευχής]]</big>** |
+| separate from | **<big>[[G5565\|χωρίς]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should find | **<big>[[G2147\|εύρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| ability | **<big>[[G1411\|δύναμιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his vow, | **<big>[[G2171\|ευχής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of what | **<big>[[G3739\|ης]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| he should have vowed | **<big>[[G2172\|εύξηται]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| law | **<big>[[G3551\|νόμον]]</big>** |
+| of his purity. | **<big>[[G0047\|αγνείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.20|<< Numbers 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.22|Numbers 6:22 >>]]</td></tr></table>
 
 

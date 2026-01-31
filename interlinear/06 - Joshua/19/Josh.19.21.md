@@ -6,15 +6,15 @@ Remeth, En-gannim, En-haddah, and Beth-pazzez.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.20|<< Joshua 19:20]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.22|Joshua 19:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Remeth  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֶ֧מֶת </big></span><small><small><sup>[[H7432]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Re.met <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and En  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵין </big></span><small><small><sup>[[H5873H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ein- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gannim  | <span class="ashebrew"><big>גַּנִּ֛ים </big></span><small><small><sup>[[H5873H]]</sup></small></small> &#8207;| ga.Nim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and En  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵ֥ין </big></span><small><small><sup>[[H5876]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Haddah  | <span class="ashebrew"><big>חַדָּ֖ה </big></span><small><small><sup>[[H5876]]</sup></small></small> &#8207;| cha.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Beth  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ית </big></span><small><small><sup>[[H1048]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Veit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pazzez  | <span class="ashebrew"><big>פַּצֵּֽץ </big></span><small><small><sup>[[H1048]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pa.Tzetz <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Remeth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7432\|רֶ֧מֶת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Re.met<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and En  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5873H\|עֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ein-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gannim  |**<big>&#8207;[[H5873H\|גַּנִּ֛ים]]&#8207; </big>**| ga.Nim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and En  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5876\|עֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haddah  |**<big>&#8207;[[H5876\|חַדָּ֖ה]]&#8207; </big>**| cha.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1048\|בֵ֥ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pazzez  |**<big>&#8207;[[H1048\|פַּצֵּֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pa.Tzetz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.20|<< Joshua 19:20]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.22|Joshua 19:22 >>]]</td></tr></table>
 
 

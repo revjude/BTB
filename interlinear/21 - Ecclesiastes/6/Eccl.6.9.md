@@ -6,18 +6,18 @@ Better what the eye can see than the wandering of desire. This too is futile and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.8|<< Ecclesiastes 6:8]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.10|Ecclesiastes 6:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] good  | <span class="ashebrew"><big>ט֛וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sight of  | <span class="ashebrew"><big>מַרְאֵ֥ה </big></span><small><small><sup>[[H4758]]</sup></small></small> &#8207;| mar.'Eh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes  | <span class="ashebrew"><big>עֵינַ֖יִם </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Na.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than going  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֲלָךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> ha.lokh- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desire  | <span class="ashebrew"><big>נָ֑פֶשׁ </big></span><small><small><sup>[[H5315L]]</sup></small></small> &#8207;| Na.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֥ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] futility  | <span class="ashebrew"><big>הֶ֖בֶל </big></span><small><small><sup>[[H1892]]</sup></small></small> &#8207;| He.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and striving of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְע֥וּת </big></span><small><small><sup>[[H7469]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.'Ut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wind  | <span class="ashebrew"><big>רֽוּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֛וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sight of  |**<big>&#8207;[[H4758\|מַרְאֵ֥ה]]&#8207; </big>**| mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes  |**<big>&#8207;[[H5869A\|עֵינַ֖יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than going  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H1980I\|הֲלָךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.lokh-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desire  |**<big>&#8207;[[H5315L\|נָ֑פֶשׁ]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֥ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] futility  |**<big>&#8207;[[H1892\|הֶ֖בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and striving of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7469\|רְע֥וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'Ut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wind  |**<big>&#8207;[[H7307H\|רֽוּחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.8|<< Ecclesiastes 6:8]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.10|Ecclesiastes 6:10 >>]]</td></tr></table>
 
 

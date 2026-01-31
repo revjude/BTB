@@ -7,30 +7,30 @@ For thus saith the LORD unto the king’s house of Judah; Thou [art] Gilead unto
 For this is what the LORD says concerning the house of the king of Judah: “You are like Gilead to Me, like the summit of Lebanon; but I will surely turn you into a desert, like cities that are uninhabited.<small><sub>**MT:**</sub></small>
 [[Jer.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.5|<< Jeremiah 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.7|Jeremiah 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| You \[are\] Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| head | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| Should I | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| make | <big><span class="asgreek">θω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| desolate, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being dwelt in? | <big><span class="asgreek">κατοικηθησομένας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
+| You \[are\] Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** **<big>[[G1473\|συ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| head | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
+| Should I | **<big>[[G1437\|εάν]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| make | **<big>[[G5087\|θω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| desolate, | **<big>[[G2048\|έρημον]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being dwelt in? | **<big>[[G2730\|κατοικηθησομένας]]</big>** |
 [[Jer.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.5|<< Jeremiah 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.7|Jeremiah 22:7 >>]]</td></tr></table>
 
 

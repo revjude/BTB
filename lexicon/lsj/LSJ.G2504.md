@@ -1,4 +1,4 @@
-combination of: <small>[[G1473]] ([[G2532]]+[[G1473]])</small> 
+combination of: <small>**<big>[[G1473|ἐγώ]]</big>** (**<big>[[G2532|καί]]</big>**+**<big>[[G1473|ἐγώ]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==κἀγώ==</span></b> [<span class='asgreek'>ᾱ</span>], 

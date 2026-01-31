@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֶרֶת‎</span></big> **zereth** <small>*(zeh'-reth)*</small> ==**span**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎זָרָה‎</span><sup><small>[[H2219]]</small></sup></small>
+**<big><span class="ashebrew">‎זֶרֶת‎</span></big>** **zereth** <small>*(zeh'-reth)*</small> ==**span**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2219|‎זָרָה‎]]</big>**</small>
 
 $\quad$ span.
 - ***the spread of the fingers***, i.e. ***a span***

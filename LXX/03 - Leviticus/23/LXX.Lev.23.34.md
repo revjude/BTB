@@ -7,26 +7,26 @@ Speak unto the children of Israel, saying, The fifteenth day of this seventh mon
 “Speak to the Israelites and say, ‘On the fifteenth day of the seventh month the Feast of Tabernacles to the LORD begins, and it continues for seven days.<small><sub>**MT:**</sub></small>
 [[Lev.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.33|<< Leviticus 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.35|Leviticus 23:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifteenth | <big><span class="asgreek">πεντεκαιδεκάτη</span></big> <sup><small><small>[[G4003]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμου</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] a holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of tents | <big><span class="asgreek">σκηνών</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Speak | **<big>[[G2980\|λάλησον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| The | **<big>[[G3588\|τη]]</big>** |
+| fifteenth | **<big>[[G4003\|πεντεκαιδεκάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμου]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| \[is\] a holiday | **<big>[[G1859\|εορτή]]</big>** |
+| of tents | **<big>[[G4633\|σκηνών]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.33|<< Leviticus 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.35|Leviticus 23:35 >>]]</td></tr></table>
 
 

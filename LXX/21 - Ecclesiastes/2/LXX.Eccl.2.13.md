@@ -7,25 +7,25 @@ Then I saw that wisdom excelleth folly, as far as light excelleth darkness.
 And I saw that wisdom exceeds folly, just as light exceeds darkness:<small><sub>**MT:**</sub></small>
 [[Eccl.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.12|<< Ecclesiastes 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.14|Ecclesiastes 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| an advantage | <big><span class="asgreek">περίσσεια</span></big> <sup><small><small>[[G4050]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| folly; | <big><span class="asgreek">αφροσύνην</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] advantage | <big><span class="asgreek">περίσσεια</span></big> <sup><small><small>[[G4050]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| light | <big><span class="asgreek">φωτός</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darkness. | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld | **<big>[[G1492\|είδον]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| an advantage | **<big>[[G4050\|περίσσεια]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| folly; | **<big>[[G0877\|αφροσύνην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] advantage | **<big>[[G4050\|περίσσεια]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| light | **<big>[[G5457\|φωτός]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| darkness. | **<big>[[G4655\|σκότος]]</big>** |
 [[Eccl.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.12|<< Ecclesiastes 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.14|Ecclesiastes 2:14 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ And the king said unto Joab, Behold now, I have done this thing: go therefore, b
 Then the king said to Joab, “I hereby grant this request. Go, bring back the young man Absalom.”<small><sub>**MT:**</sub></small>
 [[2Sam.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.20|<< 2 Samuel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.22|2 Samuel 14:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| I do | <big><span class="asgreek">πεποίηκά</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| return | <big><span class="asgreek">επίστρεψον</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young man | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Absalom! | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| I do | **<big>[[G4160\|πεποίηκά]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your word | **<big>[[G3056\|λόγον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| this | **<big>[[G3778\|τούτον]]</big>** |
+| Go | **<big>[[G4198\|πορεύου]]</big>** |
+| return | **<big>[[G1994\|επίστρεψον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| young man | **<big>[[G3808\|παιδάριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Absalom! | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
 [[2Sam.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.20|<< 2 Samuel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.22|2 Samuel 14:22 >>]]</td></tr></table>
 
 

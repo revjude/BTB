@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָרַח‎</span></big> **qârach** <small>*(kaw-rakh')*</small> ==**to make bald**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָרַח‎</span></big>** **qârach** <small>*(kaw-rakh')*</small> ==**to make bald**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make (self) bald.
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Niphal) to make oneself bald
 $\quad$ **1c)** (Hiphil) to make oneself bald
 $\quad$ **1d)**(Hophal) to make bald
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ξυράω</span><sup><small>[[G3587]]</small></sup>
+<small>See Greek: </small>**<big>[[G3587|ξυράω]]</big>**

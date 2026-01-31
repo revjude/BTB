@@ -7,18 +7,18 @@ Lift up your hands [in] the sanctuary, and bless the LORD.
 Lift up your hands to the sanctuary and bless the LORD!<small><sub>**MT:**</sub></small>
 [[Ps.134.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.134.1|<< Psalm 134:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.134.3|Psalm 134:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lift up | <big><span class="asgreek">επάρατε</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place, | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bless | <big><span class="asgreek">ευλογείτε</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Lift up | **<big>[[G1869\|επάρατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy place, | **<big>[[G0039\|άγια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bless | **<big>[[G2127\|ευλογείτε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριον]]</big>** |
 [[Ps.134.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.134.1|<< Psalm 134:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.134.3|Psalm 134:3 >>]]</td></tr></table>
 
 

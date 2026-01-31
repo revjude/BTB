@@ -7,33 +7,33 @@ And I will put enmity between thee and the woman, and between thy seed and her s
 And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”<small><sub>**MT:**</sub></small>
 [[Gen.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.14|<< Genesis 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.16|Genesis 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hatred | <big><span class="asgreek">έχθραν</span></big> <sup><small><small>[[G2189]]</small></small></sup> |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman; | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρματός</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her seed. | <big><span class="asgreek">σπερματός</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will give heed to your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τηρήσει</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will give heed to | <big><span class="asgreek">τηρήσεις</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heel. | <big><span class="asgreek">πτέρναν</span></big> <sup><small><small>[[G4418]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| hatred | **<big>[[G2189\|έχθραν]]</big>** |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| woman; | **<big>[[G1135\|γυναικός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your seed | **<big>[[G4690\|σπέρματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her seed. | **<big>[[G4690\|σπερματός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| He | **<big>[[G1473\|αυτός]]</big>** |
+| will give heed to your | **<big>[[G1473\|σου]]</big>** **<big>[[G5083\|τηρήσει]]</big>** |
+| head, | **<big>[[G2776\|κεφαλήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| will give heed to | **<big>[[G5083\|τηρήσεις]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| heel. | **<big>[[G4418\|πτέρναν]]</big>** |
 [[Gen.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.14|<< Genesis 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.16|Genesis 3:16 >>]]</td></tr></table>
 
 

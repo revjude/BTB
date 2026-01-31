@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׂעִיר‎</span></big> **Sêʻîyr** <small>*(say-eer')*</small> ==**Seir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>formed like <span class="ashebrew">‎שָׂעִיר‎</span><sup><small>[[H8163]]</small></sup>; rough</small>
+**<big><span class="ashebrew">‎שֵׂעִיר‎</span></big>** **Sêʻîyr** <small>*(say-eer')*</small> ==**Seir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>formed like **<big>[[H8163|‎שָׂעִיר‎]]</big>**; rough</small>
 
 $\quad$ Seir.
 - § Seir = *"hairy" or "shaggy"*

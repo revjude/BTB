@@ -7,33 +7,33 @@ Thou shalt surely smite the inhabitants of that city with the edge of the sword,
 you must surely put the inhabitants of that city to the sword. Devote to destruction all its people and livestock.<small><sub>**MT:**</sub></small>
 [[Deut.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then by doing away with, | <big><span class="asgreek">αναιρών</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| you shall do away with | <big><span class="asgreek">ανελείς</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| carnage | <big><span class="asgreek">φόνω</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
-| \[of the\] sword; | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| under anathema | <big><span class="asgreek">αναθέματι</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| you shall devote it to consumption, | <big><span class="asgreek">αναθεματιείτε</span></big> <sup><small><small>[[G0332]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] sword. | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| then by doing away with, | **<big>[[G0337\|αναιρών]]</big>** |
+| you shall do away with | **<big>[[G0337\|ανελείς]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that city | **<big>[[G4172\|πόλει]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| carnage | **<big>[[G5408\|φόνω]]</big>** |
+| \[of the\] sword; | **<big>[[G3162\|μαχαίρας]]</big>** |
+| under anathema | **<big>[[G0331\|αναθέματι]]</big>** |
+| you shall devote it to consumption, | **<big>[[G0332\|αναθεματιείτε]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its cattle | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματι]]</big>** |
+| of \[the\] sword. | **<big>[[G3162\|μαχαίρας]]</big>** |
 [[Deut.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
 

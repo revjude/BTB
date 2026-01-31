@@ -10,43 +10,43 @@ For the LORD will have mercy on Jacob, and will yet choose Israel, and set them 
 For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.<small><sub>**MT:**</sub></small>
 [[Isa.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.22|<< Isaiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.2|Isaiah 14:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| it comes, | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass time, | <big><span class="asgreek">χρονιεί</span></big> <sup><small><small>[[G5549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall drag. | <big><span class="asgreek">εφελκυσθώσι</span></big> <sup><small><small>[[G7580]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall show mercy on | <big><span class="asgreek">ελεήσει</span></big> <sup><small><small>[[G1653]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will choose | <big><span class="asgreek">εκλέξεται</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall rest | <big><span class="asgreek">αναπαύσονται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">γειώρας</span></big> <sup><small><small>[[G6724]]</small></small></sup> |
-| shall be added | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be added | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| Quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| it comes, | **<big>[[G2064\|έρχεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| pass time, | **<big>[[G5549\|χρονιεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall drag. | **<big>[[G7580\|εφελκυσθώσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall show mercy on | **<big>[[G1653\|ελεήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will choose | **<big>[[G1586\|εκλέξεται]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall rest | **<big>[[G0373\|αναπαύσονται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their land; | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner | **<big>[[G6724\|γειώρας]]</big>** |
+| shall be added | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be added | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Isa.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.22|<< Isaiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.2|Isaiah 14:2 >>]]</td></tr></table>
 
 

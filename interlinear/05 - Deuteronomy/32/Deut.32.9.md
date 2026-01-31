@@ -6,15 +6,15 @@ But the LORD’s portion is His people, Jacob His allotted inheritance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.8|<< Deuteronomy 32:8]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.10|Deuteronomy 32:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] portion of  | <span class="ashebrew"><big>חֵ֥לֶק </big></span><small><small><sup>[[H2506A]]</sup></small></small> &#8207;| Che.lek <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהֹוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] people his  | <span class="ashebrew"><big>עַמּ֑ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| a.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֖ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] measured portion of  | <span class="ashebrew"><big>חֶ֥בֶל </big></span><small><small><sup>[[H2256M]]</sup></small></small> &#8207;| Che.vel <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inheritance his  | <span class="ashebrew"><big>נַחֲלָתֽ </big></span><small><small><sup>[[H5159]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.cha.la.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  |**<big>&#8207;[[H2506A\|חֵ֥לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] people his  |**<big>&#8207;[[H5971A\|עַמּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] measured portion of  |**<big>&#8207;[[H2256M\|חֶ֥בֶל]]&#8207; </big>**| Che.vel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance his  |**<big>&#8207;[[H5159\|נַחֲלָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.8|<< Deuteronomy 32:8]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.10|Deuteronomy 32:10 >>]]</td></tr></table>
 
 

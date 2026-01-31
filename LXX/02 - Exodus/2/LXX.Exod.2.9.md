@@ -11,36 +11,36 @@ Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Carefully keep | <big><span class="asgreek">διατήρησόν</span></big> <sup><small><small>[[G1301]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this male child, | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| suckle | <big><span class="asgreek">θήλασόν</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| it for me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wage. | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| male child, | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| suckled | <big><span class="asgreek">εθήλαζεν</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| Carefully keep | **<big>[[G1301\|διατήρησόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this male child, | **<big>[[G3813\|παιδίον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| suckle | **<big>[[G2337\|θήλασόν]]</big>** |
+| it for me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wage. | **<big>[[G3408\|μισθόν]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| male child, | **<big>[[G3813\|παιδίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| suckled | **<big>[[G2337\|εθήλαζεν]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.8|<< Exodus 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.10|Exodus 2:10 >>]]</td></tr></table>
 
 

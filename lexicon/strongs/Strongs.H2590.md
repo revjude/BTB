@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָנַט‎</span></big> **chânaṭ** <small>*(khaw-nat')*</small> ==**to spice**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָנַט‎</span></big>** **chânaṭ** <small>*(khaw-nat')*</small> ==**to spice**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ embalm, put forth.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1a2)** to embalm
 n m pl abst
 **3)** (BDB) embalming
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκφέρω</span><sup><small>[[G1627]]</small></sup> · <span class="asgreek">ἐνταφιάζω</span><sup><small>[[G1779]]</small></sup> · <span class="asgreek">θάπτω</span><sup><small>[[G2290]]</small></sup> · <span class="asgreek">ταφή</span><sup><small>[[G5027]]</small></sup>
+<small>See Greek: </small>**<big>[[G1627|ἐκφέρω]]</big>** · **<big>[[G1779|ἐνταφιάζω]]</big>** · **<big>[[G2290|θάπτω]]</big>** · **<big>[[G5027|ταφή]]</big>**

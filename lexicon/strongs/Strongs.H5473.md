@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סוּג‎</span></big> **çûwg** <small>*(soog)*</small> ==**to fence**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (probably rather identical with <span class="ashebrew">‎סוּג‎</span><sup><small>[[H5472]]</small></sup> through the idea of shrinking from a hedge; compare <span class="ashebrew">‎שׂוּג‎</span><sup><small>[[H7735]]</small></sup>)</small>
+**<big><span class="ashebrew">‎סוּג‎</span></big>** **çûwg** <small>*(soog)*</small> ==**to fence**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (probably rather identical with **<big>[[H5472|‎סוּג‎]]</big>** through the idea of shrinking from a hedge; compare **<big>[[H7735|‎שׂוּג‎]]</big>**)</small>
 
 $\quad$ set about.
 - ***to hem in***, i.e. ***bind***

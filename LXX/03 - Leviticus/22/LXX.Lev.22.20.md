@@ -7,23 +7,23 @@ Of all as many as you have \[with a\] blemish among them you shall not bring \[t
 You must not present anything with a defect, because it will not be accepted on your behalf.<small><sub>**MT:**</sub></small>
 [[Lev.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.19|<< Leviticus 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.21|Leviticus 22:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you have | <big><span class="asgreek">έχη</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| \[with a\] blemish | <big><span class="asgreek">μώμον</span></big> <sup><small><small>[[G3470]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bring | <big><span class="asgreek">προσάξουσι</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| accepted | <big><span class="asgreek">δεκτόν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Of all | **<big>[[G3956\|πάντα]]</big>** |
+| as many | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| you have | **<big>[[G2192\|έχη]]</big>** |
+| \[with a\] blemish | **<big>[[G3470\|μώμον]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| bring | **<big>[[G4317\|προσάξουσι]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| accepted | **<big>[[G1184\|δεκτόν]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| for you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.19|<< Leviticus 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.21|Leviticus 22:21 >>]]</td></tr></table>
 
 

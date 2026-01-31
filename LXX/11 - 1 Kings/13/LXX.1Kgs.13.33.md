@@ -7,39 +7,39 @@ After this thing Jeroboam returned not from his evil way, but made again of the 
 Even after these events, Jeroboam did not repent of his evil ways, but again he appointed priests for the high places from every class of people. He ordained anyone who desired to be a priest of the high places.<small><sub>**MT:**</sub></small>
 [[1Kgs.13.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.32|<< 1 Kings 13:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.34|1 Kings 13:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his evil, | <big><span class="asgreek">κακίας</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appointed | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\]. | <big><span class="asgreek">υψηλών</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wanting \[to be a priest\] | <big><span class="asgreek">βουλόμενος</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| he filled \[the post\] | <big><span class="asgreek">επλήρου</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by his hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\]. | <big><span class="asgreek">υψηλών</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this saying | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| turn | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his evil, | **<big>[[G2549\|κακίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| appointed | **<big>[[G4160\|εποίησεν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| part | **<big>[[G3313\|μέρους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| high \[places\]. | **<big>[[G5308\|υψηλών]]</big>** |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| wanting \[to be a priest\] | **<big>[[G1014\|βουλόμενος]]</big>** |
+| he filled \[the post\] | **<big>[[G4137\|επλήρου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| by his hand, | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he became | **<big>[[G1096\|εγένετο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| high \[places\]. | **<big>[[G5308\|υψηλών]]</big>** |
 [[1Kgs.13.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.32|<< 1 Kings 13:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.34|1 Kings 13:34 >>]]</td></tr></table>
 
 

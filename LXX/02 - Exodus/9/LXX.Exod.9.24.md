@@ -11,33 +11,33 @@ The hail fell and the lightning continued flashing through it. The hail was so s
 > $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail, | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| blazing | <big><span class="asgreek">φλογίζον</span></big> <sup><small><small>[[G5394]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail. | <big><span class="asgreek">χαλάζη</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| And the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| hail | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| \[was\] great -- | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| in which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| was there not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γεγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| when | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there was | <big><span class="asgreek">γεγένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| And there was | **<big>[[G1510\|ην]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| hail, | **<big>[[G5464\|χάλαζα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| blazing | **<big>[[G5394\|φλογίζον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| hail. | **<big>[[G5464\|χαλάζη]]</big>** |
+| And the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| hail | **<big>[[G5464\|χάλαζα]]</big>** |
+| \[was\] great -- | **<big>[[G4183\|πολλή]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| in which | **<big>[[G3748\|ήτις]]</big>** |
+| was there not | **<big>[[G3756\|ου]]</big>** **<big>[[G1096\|γεγονε]]</big>** |
+| such | **<big>[[G5108\|τοιαύτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| when | **<big>[[G3739\|ης]]</big>** |
+| there was | **<big>[[G1096\|γεγένηται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
 [[Exod.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.23|<< Exodus 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.25|Exodus 9:25 >>]]</td></tr></table>
 
 

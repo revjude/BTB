@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H2094]]</small>
+<small>Hebrew form: **<big>[[H2094|זָהַר]]</big>**</small>
  [<span class="bdbLangAramaic">‎זְהַר‎</span>] **verb Pe\`al** ***Passive participle*** plural <span class="bdbLangAramaic">‎זְהִירִין‎</span> [[Ezra.4.22|Ezra 4:22]] ***be warned*** ([[BDB#Tg|ᵑ7]] Syriac, compare Biblical Hebrew II. [<span class="bdbLangAramaic">‎זָהַר‎</span>] **Hiph\`il** ***warn***). 
 
 **Brown-Driver-Briggs References**

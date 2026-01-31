@@ -7,15 +7,15 @@ What time I am afraid, I will trust in thee.
 When I am afraid, I put my trust in You.<small><sub>**MT:**</sub></small>
 [[Ps.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.2|<< Psalm 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.4|Psalm 56:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| I do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήσομαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall hope | <big><span class="asgreek">ελπιώ</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] day | **<big>[[G2250\|ημέρας]]</big>** |
+| I do not | **<big>[[G3756\|ου]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήσομαι]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall hope | **<big>[[G1679\|ελπιώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Ps.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.2|<< Psalm 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.4|Psalm 56:4 >>]]</td></tr></table>
 
 

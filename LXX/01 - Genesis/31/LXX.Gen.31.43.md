@@ -7,42 +7,42 @@ And Laban answered and said unto Jacob, [These] daughters [are] my daughters, an
 But Laban answered Jacob, “These daughters are my daughters, these sons are my sons, and these flocks are my flocks! Everything you see is mine! Yet what can I do today about these daughters of mine or the children they have borne?<small><sub>**MT:**</sub></small>
 [[Gen.31.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.42|<< Genesis 31:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.44|Genesis 31:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And responding | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| The | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \[are\] my daughters, | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| my sons, | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| my cattle; | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see | <big><span class="asgreek">οράς</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| is mine, | <big><span class="asgreek">εμά</span></big> <sup><small><small>[[G1699]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[property\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my daughters. | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with these \[women\] | <big><span class="asgreek">ταύταις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνοις</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they bore? | <big><span class="asgreek">έτεκον</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| And responding | **<big>[[G0611\|αποκριθείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| The | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| \[are\] my daughters, | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| my sons, | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
+| my cattle; | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| see | **<big>[[G3708\|οράς]]</big>** |
+| is mine, | **<big>[[G1699\|εμά]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[property\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my daughters. | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall I do | **<big>[[G4160\|ποιήσω]]</big>** |
+| with these \[women\] | **<big>[[G3778\|ταύταις]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| children | **<big>[[G5043\|τέκνοις]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| whom | **<big>[[G3739\|οις]]</big>** |
+| they bore? | **<big>[[G5088\|έτεκον]]</big>** |
 [[Gen.31.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.42|<< Genesis 31:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.44|Genesis 31:44 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַדְמֹנִי‎</span></big> **Qadmônîy** <small>*(kad-mo-nee')*</small> ==**Kadmonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קַדְמוֹנִי‎</span><sup><small>[[H6931]]</small></sup>; ancient, i.e. aboriginal</small>
+**<big><span class="ashebrew">‎קַדְמֹנִי‎</span></big>** **Qadmônîy** <small>*(kad-mo-nee')*</small> ==**Kadmonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>the same as **<big>[[H6931|‎קַדְמוֹנִי‎]]</big>**; ancient, i.e. aboriginal</small>
 
 $\quad$ Kadmonites.
 - § Kadmonites = *"easterners"*

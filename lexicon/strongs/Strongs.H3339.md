@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִצְרִי‎</span></big> **Yitsrîy** <small>*(yits-ree')*</small> ==**Izri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָצַר‎</span><sup><small>[[H3335]]</small></sup>; formative</small>
+**<big><span class="ashebrew">‎יִצְרִי‎</span></big>** **Yitsrîy** <small>*(yits-ree')*</small> ==**Izri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3335|‎יָצַר‎]]</big>**; formative</small>
 
 $\quad$ Isri.
 - § Izri = *"my fashioner"*

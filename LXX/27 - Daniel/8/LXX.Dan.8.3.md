@@ -7,41 +7,41 @@ Then I lifted up mine eyes, and saw, and, behold, there stood before the river a
 Then I lifted up my eyes and saw a ram with two horns standing beside the canal. The horns were long, but one was longer than the other, and the longer one grew up later.<small><sub>**MT:**</sub></small>
 [[Dan.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.2|<< Daniel 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.4|Daniel 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I lifted | <big><span class="asgreek">ήρα</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked. | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριός</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστηκώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ubal; | <big><span class="asgreek">Ούβαλ</span></big> <sup><small><small>[[H0180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there was\] to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| horns, | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| \[were\] high; | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] higher | <big><span class="asgreek">υψηλότερον</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| than | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] other, | <big><span class="asgreek">ετέρου</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high one | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| up | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| last. | <big><span class="asgreek">εσχάτων</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I lifted | **<big>[[G0142\|ήρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| looked. | **<big>[[G1492\|είδον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| ram | **<big>[[G8096\|κριός]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| standing | **<big>[[G2476\|εστηκώς]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Ubal; | **<big>[[H0180\|Ούβαλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there was\] to him | **<big>[[G1473\|αυτώ]]</big>** |
+| horns, | **<big>[[G2768\|κέρατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| horns | **<big>[[G2768\|κέρατα]]</big>** |
+| \[were\] high; | **<big>[[G5308\|υψηλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| \[was\] higher | **<big>[[G5308\|υψηλότερον]]</big>** |
+| than | **<big>[[G3588\|του]]</big>** |
+| \[the\] other, | **<big>[[G2087\|ετέρου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| high one | **<big>[[G5308\|υψηλόν]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινεν]]</big>** |
+| up | **<big>[[G1909\|επ΄]]</big>** |
+| last. | **<big>[[G2078\|εσχάτων]]</big>** |
 [[Dan.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.2|<< Daniel 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.4|Daniel 8:4 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gebim</span>, a town in Benjamin, is mentioned in Isaiah's prophecy describing the advance of the Assyrian army towards Jerusalem.
 - A location only mentioned at [[Isa.10.31|Isa.10.31]]; 
-- only referred to as Gebim<[[H1374]]> \(<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Gebim **<big>[[H1374|גֵּבִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.800000,35.250000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Apart from this single reference in Isaiah, no other information about Gebim is 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gebim | [<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1374) <small>*Hebrew*</small> | 1x | [Isa.10.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebim\*\|reference=Isa.10.31) |
-All Strong's for **Gebim**: \[[[H1374]]\]
+| Gebim | [<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1374) | 1x | [Isa.10.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebim\*\|reference=Isa.10.31) |
+All entries for **Gebim**:  **<big>[[H1374|גֵּבִים]]</big>**

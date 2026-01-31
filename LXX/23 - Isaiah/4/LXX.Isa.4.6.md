@@ -7,24 +7,24 @@ And there shall be a tabernacle for a shadow in the daytime from the heat, and f
 a shelter to give shade from the heat by day, and a refuge and hiding place from the storm and the rain.<small><sub>**MT:**</sub></small>
 [[Isa.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.5|<< Isaiah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.1|Isaiah 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a shade | <big><span class="asgreek">σκιάν</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| sweltering heat, | <big><span class="asgreek">καύματος</span></big> <sup><small><small>[[G2738]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| protection, | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a concealment | <big><span class="asgreek">αποκρύφω</span></big> <sup><small><small>[[G0614]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] hardness of \[weather\] | <big><span class="asgreek">σκληρότητος</span></big> <sup><small><small>[[G4643]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rain. | <big><span class="asgreek">υετού</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a shade | **<big>[[G4639\|σκιάν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| sweltering heat, | **<big>[[G2738\|καύματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| protection, | **<big>[[G9098\|σκέπη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| a concealment | **<big>[[G0614\|αποκρύφω]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] hardness of \[weather\] | **<big>[[G4643\|σκληρότητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rain. | **<big>[[G5205\|υετού]]</big>** |
 [[Isa.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.5|<< Isaiah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.1|Isaiah 5:1 >>]]</td></tr></table>
 
 

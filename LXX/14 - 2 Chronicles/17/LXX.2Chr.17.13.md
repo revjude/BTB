@@ -7,23 +7,23 @@ And he had much business in the cities of Judah: and the men of war, mighty men 
 and kept vast supplies in the cities of Judah. He also had warriors in Jerusalem who were mighty men of valor.<small><sub>**MT:**</sub></small>
 [[2Chr.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.12|<< 2 Chronicles 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.14|2 Chronicles 17:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| were taking place | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| by him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| warriors | <big><span class="asgreek">πολεμισταί</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| being strong | <big><span class="asgreek">ισχύοντες</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| \[were\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| were taking place | **<big>[[G1096\|εγένετο]]</big>** |
+| by him | **<big>[[G1473\|αυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| warriors | **<big>[[G8841\|πολεμισταί]]</big>** |
+| mighty | **<big>[[G1415\|δυνατοί]]</big>** |
+| being strong | **<big>[[G2480\|ισχύοντες]]</big>** |
+| \[were\] in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Chr.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.12|<< 2 Chronicles 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.14|2 Chronicles 17:14 >>]]</td></tr></table>
 
 

@@ -7,37 +7,37 @@ And Balak said unto him, Come, I pray thee, with me unto another place, from whe
 Then Balak said to him, “Please come with me to another place where you can see them. You will only see the outskirts of their camp—not all of them. And from there, curse them for me.”<small><sub>**MT:**</sub></small>
 [[Num.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.12|<< Numbers 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.14|Numbers 23:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Balak | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| Come | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall not see | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| a certain part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall you see, | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you see | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you curse | <big><span class="asgreek">κατάρασαί</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| it for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there! | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Balak | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| Come | **<big>[[G1204\|δεύρο]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| another | **<big>[[G0243\|άλλον]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| you shall not see | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3708\|όψει]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| a certain part | **<big>[[G3313\|μέρος]]</big>** **<big>[[G5100\|τι]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| shall you see, | **<big>[[G3708\|όψει]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you see | **<big>[[G1492\|ίδης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you curse | **<big>[[G2672\|κατάρασαί]]</big>** |
+| it for me | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| from there! | **<big>[[G1564\|εκείθεν]]</big>** |
 [[Num.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.12|<< Numbers 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.14|Numbers 23:14 >>]]</td></tr></table>
 
 

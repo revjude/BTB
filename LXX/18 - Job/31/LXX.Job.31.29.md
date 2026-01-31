@@ -7,18 +7,18 @@ If I rejoiced at the destruction of him that hated me, or lifted up myself when 
 If I have rejoiced in my enemy’s ruin, or exulted when evil befell him—<small><sub>**MT:**</sub></small>
 [[Job.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.28|<< Job 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.30|Job 31:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And even if | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
-| gratified | <big><span class="asgreek">επιχαρής</span></big> <sup><small><small>[[G7472]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| at \[the\] calamitous downfall | <big><span class="asgreek">πτώματι</span></big> <sup><small><small>[[G4430]]</small></small></sup> |
-| of my enemies; | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Well done! | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
+| And even if | **<big>[[G7048\|ει δε και]]</big>** |
+| gratified | **<big>[[G7472\|επιχαρής]]</big>** |
+| I became | **<big>[[G1096\|εγενόμην]]</big>** |
+| at \[the\] calamitous downfall | **<big>[[G4430\|πτώματι]]</big>** |
+| of my enemies; | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Well done! | **<big>[[G7530\|εύγε]]</big>** |
 [[Job.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.28|<< Job 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.30|Job 31:30 >>]]</td></tr></table>
 
 

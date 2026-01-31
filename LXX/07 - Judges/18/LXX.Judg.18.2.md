@@ -7,53 +7,53 @@ And the children of Dan sent of their family five men from their coasts, men of 
 So the Danites sent out five men from their clans, men of valor from Zorah and Eshtaol, to spy out the land and explore it. “Go and explore the land,” they told them. The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.<small><sub>**MT:**</sub></small>
 [[Judg.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.1|<< Judges 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.3|Judges 18:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent out | <big><span class="asgreek">εξαπέστειλαν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their peoples | <big><span class="asgreek">δήμων</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their part, | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of power, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Zorah | <big><span class="asgreek">Σαραά</span></big> <sup><small><small>[[H6881]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Esthaol, | <big><span class="asgreek">Εσθαόλ</span></big> <sup><small><small>[[H0847]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to survey | <big><span class="asgreek">κατασκέψασθαι</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to track | <big><span class="asgreek">εξιχνιάσαι</span></big> <sup><small><small>[[G7337]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Go, | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| search out | <big><span class="asgreek">εξερευνήσατε</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Micah, | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they rested | <big><span class="asgreek">κατέπαυσαν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent out | **<big>[[G1821\|εξαπέστειλαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Dan | **<big>[[H1835\|Δαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their peoples | **<big>[[G1218\|δήμων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their part, | **<big>[[G3313\|μέρους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of sons | **<big>[[G5207\|υιούς]]</big>** |
+| of power, | **<big>[[G1411\|δυνάμεως]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Zorah | **<big>[[H6881\|Σαραά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Esthaol, | **<big>[[H0847\|Εσθαόλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to survey | **<big>[[G7919\|κατασκέψασθαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to track | **<big>[[G7337\|εξιχνιάσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Go, | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| search out | **<big>[[G1830\|εξερευνήσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land! | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Micah, | **<big>[[H4318\|Μιχά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they rested | **<big>[[G2664\|κατέπαυσαν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Judg.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.1|<< Judges 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.3|Judges 18:3 >>]]</td></tr></table>
 
 

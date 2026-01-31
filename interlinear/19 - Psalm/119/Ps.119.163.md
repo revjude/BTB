@@ -6,13 +6,13 @@ I hate and abhor falsehood, but Your law I love.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.163|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.162|<< Psalms 119:162]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.164|Psalms 119:164 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֣קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I hate  | <span class="ashebrew"><big>שָׂ֭נֵאתִי </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| Sa.ne.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I abhor  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲתַעֵ֑בָה </big></span><small><small><sup>[[H8581]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ta.'E.vah <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| law your  | <span class="ashebrew"><big>תּוֹרָתְ </big></span><small><small><sup>[[H8451]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| to.ra.te. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I love  | <span class="ashebrew"><big>אָהָֽבְתִּי </big></span><small><small><sup>[[H0157G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Ha.ve.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֣קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I hate  |**<big>&#8207;[[H8130\|שָׂ֭נֵאתִי]]&#8207; </big>**| Sa.ne.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I abhor  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H8581\|אֲתַעֵ֑בָה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ta.'E.vah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| law your  |**<big>&#8207;[[H8451\|תּוֹרָתְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| to.ra.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I love  |**<big>&#8207;[[H0157G\|אָהָֽבְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Ha.ve.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.162|<< Psalms 119:162]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.164|Psalms 119:164 >>]]</td></tr></table>
 
 

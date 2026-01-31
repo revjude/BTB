@@ -6,13 +6,13 @@ I would have said that I would cut them to pieces and blot out their memory from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.25|<< Deuteronomy 32:25]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.27|Deuteronomy 32:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I said  | <span class="ashebrew"><big>אָמַ֖רְתִּי </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will cut in pieces them  | <span class="ashebrew"><big>אַפְאֵי </big></span><small><small><sup>[[H6284]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'af.'ei. <small><sup>[[HVhi1cs]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make cease  | <span class="ashebrew"><big>אַשְׁבִּ֥יתָה </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| 'ash.Bi.tah <small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from humankind  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֱנ֖וֹשׁ </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'e.No.osh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| memory their  | <span class="ashebrew"><big>זִכְרָֽ </big></span><small><small><sup>[[H2143]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| zikh.Ra <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  |**<big>&#8207;[[H0559\|אָמַ֖רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will cut in pieces them  |**<big>&#8207;[[H6284\|אַפְאֵי]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| 'af.'ei.<small><sup>[[HVhi1cs]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make cease  |**<big>&#8207;[[H7673A\|אַשְׁבִּ֥יתָה]]&#8207; </big>**| 'ash.Bi.tah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from humankind  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0582\|אֱנ֖וֹשׁ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| memory their  |**<big>&#8207;[[H2143\|זִכְרָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| zikh.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.25|<< Deuteronomy 32:25]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.27|Deuteronomy 32:27 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Yet they were not afraid, nor rent their garments, [neither] the king, nor any o
 Yet in hearing all these words, the king and his servants did not become frightened or tear their garments.<small><sub>**MT:**</sub></small>
 [[Jer.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.23|<< Jeremiah 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.25|Jeremiah 36:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not amazed, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξέστησαν</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they tore not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διέρρηξαν</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their garments -- | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούοντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words. | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were not amazed, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1839\|εξέστησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they tore not | **<big>[[G3756\|ου]]</big>** **<big>[[G1284\|διέρρηξαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their garments -- | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his servants, | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| hearing | **<big>[[G0191\|ακούοντες]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words. | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
 [[Jer.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.23|<< Jeremiah 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.25|Jeremiah 36:25 >>]]</td></tr></table>
 
 

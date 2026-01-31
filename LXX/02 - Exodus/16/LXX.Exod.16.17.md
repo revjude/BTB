@@ -7,23 +7,23 @@ And the children of Israel did so, and gathered, some more, some less.
 So the Israelites did this. Some gathered more, and some less.<small><sub>**MT:**</sub></small>
 [[Exod.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.16|<< Exodus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.18|Exodus 16:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they collected together | <big><span class="asgreek">συνέλεξαν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| what \[was\] | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what \[was\] | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| less. | <big><span class="asgreek">έλαττον</span></big> <sup><small><small>[[G1640]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they collected together | **<big>[[G4816\|συνέλεξαν]]</big>** |
+| what \[was\] | **<big>[[G3739\|ο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| much | **<big>[[G4183\|πολύ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what \[was\] | **<big>[[G3739\|ο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| less. | **<big>[[G1640\|έλαττον]]</big>** |
 [[Exod.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.16|<< Exodus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.18|Exodus 16:18 >>]]</td></tr></table>
 
 

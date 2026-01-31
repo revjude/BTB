@@ -7,14 +7,14 @@ Neither shalt thou countenance a poor man in his cause.
 And do not show favoritism to a poor man in his lawsuit.<small><sub>**MT:**</sub></small>
 [[Exod.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.2|<< Exodus 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.4|Exodus 23:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[because one is\] needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show mercy | <big><span class="asgreek">ελεήσεις</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a judgment | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[because one is\] needy | **<big>[[G3993\|πένητα]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| show mercy | **<big>[[G1653\|ελεήσεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a judgment | **<big>[[G2920\|κρίσει]]</big>** |
 [[Exod.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.2|<< Exodus 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.4|Exodus 23:4 >>]]</td></tr></table>
 
 

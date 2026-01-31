@@ -6,23 +6,23 @@ Then the LORD said to Moses, “Stretch out your hand toward heaven, so that dar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.20|<< Exodus 10:20]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.22|Exodus 10:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֨אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֗ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stretch out  | <span class="ashebrew"><big>נְטֵ֤ה </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| ne.Teh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand your  | <span class="ashebrew"><big>יָֽדְ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ya.de. <small><sup>[[HNcbsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the heavens  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׁמַ֔יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so may it be  | <span class="ashebrew"><big>וִ֥ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| Vi. <small><sup>[[HC]]</sup></small> hi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹ֖שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may feel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָמֵ֖שׁ </big></span><small><small><sup>[[H4959]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Mesh <small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹֽשֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֗ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stretch out  |**<big>&#8207;[[H5186\|נְטֵ֤ה]]&#8207; </big>**| ne.Teh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand your  |**<big>&#8207;[[H3027G\|יָֽדְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֔יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so may it be  |**<big>&#8207;[[H9002\|וִ֥]]&#8207;&#8207;[[H1961\|יהִי]]&#8207; </big>**| Vi.<small><sup>[[HC]]</sup></small> hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹ֖שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may feel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H4959\|יָמֵ֖שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Mesh<small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹֽשֶׁךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.20|<< Exodus 10:20]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.22|Exodus 10:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׂגוּב‎</span></big> **Sᵉgûwb** <small>*(seg-oob')*</small> ==**Segub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂגַב‎</span><sup><small>[[H7682]]</small></sup>; aloft</small>
+**<big><span class="ashebrew">‎שְׂגוּב‎</span></big>** **Sᵉgûwb** <small>*(seg-oob')*</small> ==**Segub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7682|‎שָׂגַב‎]]</big>**; aloft</small>
 
 $\quad$ Segub.
 - § Segub = *"exalted"*

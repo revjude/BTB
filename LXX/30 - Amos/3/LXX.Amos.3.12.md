@@ -7,40 +7,40 @@ Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two leg
 This is what the LORD says: “As the shepherd snatches from the mouth of the lion two legs or a piece of an ear, so the Israelites dwelling in Samaria will be rescued having just the corner of a bed or the cushion of a couch.<small><sub>**MT:**</sub></small>
 [[Amos.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.11|<< Amos 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.13|Amos 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| In which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| should pull out | <big><span class="asgreek">εκσπάση</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμήν</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lion | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| legs | <big><span class="asgreek">σκέλη</span></big> <sup><small><small>[[G4628]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a lobe | <big><span class="asgreek">λοβόν</span></big> <sup><small><small>[[G8207]]</small></small></sup> |
-| of an ear, | <big><span class="asgreek">ωτίου</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| be pulled out | <big><span class="asgreek">εκσπασθήσονται</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| before | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| a \[foreign\] tribe, | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Damascus. | <big><span class="asgreek">Δαμασκώ</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| In which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| should pull out | **<big>[[G7145\|εκσπάση]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμήν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| lion | **<big>[[G3023\|λέοντος]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| legs | **<big>[[G4628\|σκέλη]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a lobe | **<big>[[G8207\|λοβόν]]</big>** |
+| of an ear, | **<big>[[G5621\|ωτίου]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| be pulled out | **<big>[[G7145\|εκσπασθήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμαρεία]]</big>** |
+| before | **<big>[[G2713\|κατέναντι]]</big>** |
+| a \[foreign\] tribe, | **<big>[[G5443\|φυλής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Damascus. | **<big>[[G1154\|Δαμασκώ]]</big>** |
 [[Amos.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.11|<< Amos 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.13|Amos 3:13 >>]]</td></tr></table>
 
 

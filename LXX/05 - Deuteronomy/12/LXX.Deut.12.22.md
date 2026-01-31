@@ -7,27 +7,27 @@ Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean a
 Indeed, you may eat it as you would eat a gazelle or deer; both the ceremonially unclean and the clean may eat it.<small><sub>**MT:**</sub></small>
 [[Deut.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.21|<< Deuteronomy 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.23|Deuteronomy 12:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| are eaten | <big><span class="asgreek">έσθεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doe | <big><span class="asgreek">δορκάς</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stag | <big><span class="asgreek">έλαφος</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall you eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| shall eat it | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| are eaten | **<big>[[G2068\|έσθεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| doe | **<big>[[G1393\|δορκάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| stag | **<big>[[G7180\|έλαφος]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall you eat | **<big>[[G2068\|φαγή]]</big>** |
+| it; | **<big>[[G1473\|αυτό]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| clean | **<big>[[G2513\|καθαρός]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| shall eat it | **<big>[[G2068\|έδεται]]</big>** |
 [[Deut.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.21|<< Deuteronomy 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.23|Deuteronomy 12:23 >>]]</td></tr></table>
 
 

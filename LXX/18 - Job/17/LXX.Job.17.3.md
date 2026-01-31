@@ -7,14 +7,14 @@ Lay down now, put me in a surety with thee; who [is] he [that] will strike hands
 Give me, I pray, the pledge You demand. Who else will be my guarantor?<small><sub>**MT:**</sub></small>
 [[Job.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.2|<< Job 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.4|Job 17:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tied together? | <big><span class="asgreek">συνδεθήτω</span></big> <sup><small><small>[[G4887]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| this | **<big>[[G3778\|ούτος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| tied together? | **<big>[[G4887\|συνδεθήτω]]</big>** |
 [[Job.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.2|<< Job 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.4|Job 17:4 >>]]</td></tr></table>
 
 

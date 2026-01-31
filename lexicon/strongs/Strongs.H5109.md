@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נוֹבַי‎</span></big> **Nôwbay** <small>*(no-bah'ee)*</small> ==**Nebai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נוֹב‎</span><sup><small>[[H5108]]</small></sup>; fruitful</small>
+**<big><span class="ashebrew">‎נוֹבַי‎</span></big>** **Nôwbay** <small>*(no-bah'ee)*</small> ==**Nebai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5108|‎נוֹב‎]]</big>**; fruitful</small>
 
 $\quad$ Nebai (from the margin).
 - § Nebai = *"fruitful"*

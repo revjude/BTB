@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סִיר‎</span></big> **çîyr** <small>*(seer)*</small> ==**pot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">סִירָה</span> **çîyrâh** <small>*(see-raw')*</small>; or <span class="ashebrew">סִרָה</span> **çirâh** <small>*(see-raw')*</small>; (Jeremiah 52:18), from a primitive root meaning to boil up</small>
+**<big><span class="ashebrew">‎סִיר‎</span></big>** **çîyr** <small>*(seer)*</small> ==**pot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">סִירָה</span></big>** **çîyrâh** <small>*(see-raw')*</small>; or **<big><span class="ashebrew">סִרָה</span></big>** **çirâh** <small>*(see-raw')*</small>; (Jeremiah 52:18), from a primitive root meaning to boil up</small>
 
 $\quad$ caldron, fishhook, pan, (wash-)pot, thorn.
 - ***a pot***
@@ -13,4 +13,4 @@ $\quad$ **1b)** pot (of temple)
 $\quad$ **2a)** thorns
 $\quad$ **2b)** hooks
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄκανθα</span><sup><small>[[G0173]]</small></sup> · <span class="asgreek">ἀκάνθινος</span><sup><small>[[G0174]]</small></sup> · <span class="asgreek">σκόλοψ</span><sup><small>[[G4647]]</small></sup> · <span class="asgreek">χαλκίον</span><sup><small>[[G5473]]</small></sup>
+<small>See Greek: </small>**<big>[[G0173|ἄκανθα]]</big>** · **<big>[[G0174|ἀκάνθινος]]</big>** · **<big>[[G4647|σκόλοψ]]</big>** · **<big>[[G5473|χαλκίον]]</big>**

@@ -10,23 +10,23 @@ that they may possess the remnant of Edom and all the nations that bear My name,
 > $\quad$ referenced by: [[Acts.15.16|Acts 15:16-17]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so that  | <span class="ashebrew"><big>לְמַ֨עַן </big></span><small><small><sup>[[H4616]]</sup></small></small> &#8207;| le.Ma.'an <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they may dispossess  | <span class="ashebrew"><big>יִֽירְשׁ֜וּ </big></span><small><small><sup>[[H3423G]]</sup></small></small> &#8207;| yi.re.Shu <small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] remnant of  | <span class="ashebrew"><big>שְׁאֵרִ֤ית </big></span><small><small><sup>[[H7611]]</sup></small></small> &#8207;| she.'e.Rit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Edom  | <span class="ashebrew"><big>אֱדוֹם֙ </big></span><small><small><sup>[[H0123G]]</sup></small></small> &#8207;| 'e.dOm <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the nations  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִ֔ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is called  | <span class="ashebrew"><big>נִקְרָ֥א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| nik.Ra' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name my  | <span class="ashebrew"><big>שְׁמִ֖ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻם </big></span><small><small><sup>[[H5002]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ne.'um- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who is] about to do  | <span class="ashebrew"><big>עֹ֥שֶׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'O.seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹּֽאת </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  |**<big>&#8207;[[H4616\|לְמַ֨עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they may dispossess  |**<big>&#8207;[[H3423G\|יִֽירְשׁ֜וּ]]&#8207; </big>**| yi.re.Shu<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] remnant of  |**<big>&#8207;[[H7611\|שְׁאֵרִ֤ית]]&#8207; </big>**| she.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  |**<big>&#8207;[[H0123G\|אֱדוֹם֙]]&#8207; </big>**| 'e.dOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is called  |**<big>&#8207;[[H7121H\|נִקְרָ֥א]]&#8207; </big>**| nik.Ra'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name my  |**<big>&#8207;[[H8034\|שְׁמִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who is] about to do  |**<big>&#8207;[[H6213A\|עֹ֥שֶׂה]]&#8207; </big>**| 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.11|<< Amos 9:11]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.13|Amos 9:13 >>]]</td></tr></table>
 
 

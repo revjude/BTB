@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תֶּרֶשׁ‎</span></big> **Teresh** <small>*(teh'-resh)*</small> ==**Teresh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎תֶּרֶשׁ‎</span></big>** **Teresh** <small>*(teh'-resh)*</small> ==**Teresh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Teresh.

@@ -7,29 +7,29 @@ And the number of the burnt offerings, which the congregation brought, was three
 The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
 [[2Chr.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.31|<< 2 Chronicles 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.33|2 Chronicles 29:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώσεως</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| offered | <big><span class="asgreek">ανήνεγκεν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχοι</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριοί</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| lambs | <big><span class="asgreek">αμνοί</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| number | **<big>[[G0706\|αριθμός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| whole burnt-offerings | **<big>[[G8495\|ολοκαυτώσεως]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| offered | **<big>[[G0399\|ανήνεγκεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| calves | **<big>[[G3448\|μόσχοι]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| rams | **<big>[[G8096\|κριοί]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| lambs | **<big>[[G0286\|αμνοί]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσιοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
 [[2Chr.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.31|<< 2 Chronicles 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.33|2 Chronicles 29:33 >>]]</td></tr></table>
 
 

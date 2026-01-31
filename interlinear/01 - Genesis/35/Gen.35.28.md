@@ -6,15 +6,15 @@ And Isaac lived 180 years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.27|<< Genesis 35:27]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.29|Genesis 35:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּֽהְי֖וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yih.Yu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֑ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one hundred  | <span class="ashebrew"><big>מְאַ֥ת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'At <small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֖ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and eighty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמֹנִ֥ים </big></span><small><small><sup>[[H8084]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.mo.Nim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָֽה </big></span><small><small><sup>[[H8141]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְי֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֣י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֑ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  |**<big>&#8207;[[H3967\|מְאַ֥ת]]&#8207; </big>**| me.'At<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֖ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eighty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8084\|שְׁמֹנִ֥ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.Nim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.27|<< Genesis 35:27]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.29|Genesis 35:29 >>]]</td></tr></table>
 
 

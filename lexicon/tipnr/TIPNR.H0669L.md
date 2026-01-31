@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ephraim</span>, a city near the Judean wilderness where Jesus withdrew after the raising of Lazarus.
 - A location first mentioned at [[2Sam.13.23|2Sa.13.23]]; 
-- referred to as Ephraim<[[H0669L]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\), or Ephraim<[[G2187]]> \(<span class='tipnrLangGreek'>Ἐφραίμ</span>\).
+- referred to as Ephraim **<big>[[H0669|אֶפְרַיִם]]</big>**, or Ephraim **<big>[[G2187|Ἐφραίμ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.954444, 35.300278&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ The exact location of Ephraim is uncertain, but it may be the same as the city o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669L) <small>*Hebrew*</small> | 1x | [2Sa.13.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=2Sa.13.23) |
-| Ephraim | [<span class='tipnrLangGreek'>Ἐφραίμ</span>](G2187) <small>*Greek*</small> | 1x | [Jhn.11.54 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Jhn.11.54) |
-All Strong's for **Ephraim**: \[[[H0669L]]\] \[[[G2187]]\]
+| Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669L) | 1x | [2Sa.13.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=2Sa.13.23) |
+| Ephraim | [<span class='tipnrLangGreek'>Ἐφραίμ</span>](G2187) | 1x | [Jhn.11.54 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Jhn.11.54) |
+All entries for **Ephraim**:  **<big>[[H0669|אֶפְרַיִם]]</big>** ☩  **<big>[[G2187|Ἐφραίμ]]</big>**

@@ -7,55 +7,55 @@ And, behold, the whole family is risen against thine handmaid, and they said, De
 Now the whole clan has risen up against your maidservant and said, ‘Hand over the one who struck down his brother, that we may put him to death for the life of the brother whom he killed. Then we will cut off the heir as well!’ So they would extinguish my one remaining ember by not preserving my husband’s name or posterity on the earth.”<small><sub>**MT:**</sub></small>
 [[2Sam.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.6|<< 2 Samuel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.8|2 Samuel 14:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| rose up | <big><span class="asgreek">επανέστη</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| family | <big><span class="asgreek">πατριά</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant, | <big><span class="asgreek">δούλην</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Give \[over\] | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one hitting | <big><span class="asgreek">παίσαντα</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall kill him, | <big><span class="asgreek">θανατώσομεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he killed; | <big><span class="asgreek">απέκτεινε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall take away | <big><span class="asgreek">εξαρούμεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heir. | <big><span class="asgreek">κληρονόμον</span></big> <sup><small><small>[[G2818]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[so\] they shall extinguish | <big><span class="asgreek">σβεσθήσεται</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my \[spark\] of coal, | <big><span class="asgreek">άνθρακά</span></big> <sup><small><small>[[G0440]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind \[to me\], | <big><span class="asgreek">καταλειφθέντα</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| establish | <big><span class="asgreek">θέσθαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my husband | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a vestige | <big><span class="asgreek">κατάλειμμα</span></big> <sup><small><small>[[G2640]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| rose up | **<big>[[G1881\|επανέστη]]</big>** |
+| entire | **<big>[[G3650\|όλη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| family | **<big>[[G3965\|πατριά]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your maidservant, | **<big>[[G1399\|δούλην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| Give \[over\] | **<big>[[G1325\|δος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one hitting | **<big>[[G3817\|παίσαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall kill him, | **<big>[[G2289\|θανατώσομεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| on account of | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| life | **<big>[[G5590\|ψυχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| he killed; | **<big>[[G0615\|απέκτεινε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall take away | **<big>[[G1808\|εξαρούμεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heir. | **<big>[[G2818\|κληρονόμον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[so\] they shall extinguish | **<big>[[G4570\|σβεσθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my \[spark\] of coal, | **<big>[[G0440\|άνθρακά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| being left behind \[to me\], | **<big>[[G2641\|καταλειφθέντα]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| establish | **<big>[[G5087\|θέσθαι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my husband | **<big>[[G0435\|ανδρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| a vestige | **<big>[[G2640\|κατάλειμμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[2Sam.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.6|<< 2 Samuel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.8|2 Samuel 14:8 >>]]</td></tr></table>
 
 

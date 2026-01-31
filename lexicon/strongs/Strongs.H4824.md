@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מֵרֹנֹתִי‎</span></big> **Mêrônôthîy** <small>*(may-ro-no-thee')*</small> ==**Meronothite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎מֵרֹנֹתִי‎</span></big>** **Mêrônôthîy** <small>*(may-ro-no-thee')*</small> ==**Meronothite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>patrial from an unused noun</small>
 
 $\quad$ Meronothite.

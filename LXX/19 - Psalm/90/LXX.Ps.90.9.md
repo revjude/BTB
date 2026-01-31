@@ -7,23 +7,23 @@ For all our days are passed away in thy wrath: we spend our years as a tale [tha
 For all our days decline in Your fury; we finish our years with a sigh.<small><sub>**MT:**</sub></small>
 [[Ps.90.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.8|<< Psalm 90:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.10|Psalm 90:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| failed; | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we failed. | <big><span class="asgreek">εξελίπομεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Our years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| of a spider | <big><span class="asgreek">αράχνη</span></big> <sup><small><small>[[G6523]]</small></small></sup> |
-| meditating. | <big><span class="asgreek">εμελέτων</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| our days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| failed; | **<big>[[G1587\|εξέλιπον]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| we failed. | **<big>[[G1587\|εξελίπομεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| Our years | **<big>[[G2094\|έτη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[are\] as | **<big>[[G5616\|ωσεί]]</big>** |
+| of a spider | **<big>[[G6523\|αράχνη]]</big>** |
+| meditating. | **<big>[[G3191\|εμελέτων]]</big>** |
 [[Ps.90.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.8|<< Psalm 90:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.10|Psalm 90:10 >>]]</td></tr></table>
 
 

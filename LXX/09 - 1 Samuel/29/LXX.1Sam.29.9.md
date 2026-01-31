@@ -7,34 +7,34 @@ And Achish answered and said to David, I know that thou [art] good in my sight, 
 Achish replied, “I know that you are as pleasing in my sight as an angel of God. But the commanders of the Philistines have said, ‘He must not go into battle with us.’<small><sub>**MT:**</sub></small>
 [[1Sam.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Achish answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| an angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| say, | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| He shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war. | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Achish answered | **<big>[[G0611\|απεκρίθη]]</big>** **<big>[[H0397\|Ακχίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you are good | **<big>[[G0018\|αγαθός]]</big>** **<big>[[G1473\|συ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| an angel | **<big>[[G0032\|άγγελος]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| satraps | **<big>[[G9059\|σατράπαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| say, | **<big>[[G3004\|λέγουσιν]]</big>** |
+| He shall not | **<big>[[G3756\|ουχ]]</big>** |
+| come | **<big>[[G2240\|ήξει]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| war. | **<big>[[G4171\|πόλεμον]]</big>** |
 [[1Sam.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
 
 

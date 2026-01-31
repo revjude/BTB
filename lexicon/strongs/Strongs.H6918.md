@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָדוֹשׁ‎</span></big> **qâdôwsh** <small>*(kaw-doshe')*</small> ==**holy**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">קָדֹשׁ</span> **qâdôsh** <small>*(kaw-doshe')*</small>; from <span class="ashebrew">‎קָדַשׁ‎</span><sup><small>[[H6942]]</small></sup></small>
+**<big><span class="ashebrew">‎קָדוֹשׁ‎</span></big>** **qâdôwsh** <small>*(kaw-doshe')*</small> ==**holy**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">קָדֹשׁ</span></big>** **qâdôsh** <small>*(kaw-doshe')*</small>; from **<big>[[H6942|‎קָדַשׁ‎]]</big>**</small>
 
 $\quad$ holy (One), saint.
 - ***sacred*** (ceremonially or morally)
@@ -7,4 +7,4 @@ $\quad$ holy (One), saint.
 
 **1)** sacred, holy, Holy One, saint, set apart
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιάζω</span><sup><small>[[G0037]]</small></sup> · <span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup>
+<small>See Greek: </small>**<big>[[G0037|ἁγιάζω]]</big>** · **<big>[[G0039|ἅγιον]]</big>** · **<big>[[G2513|καθαρός]]</big>**

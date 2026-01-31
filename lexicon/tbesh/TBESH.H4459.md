@@ -1,3 +1,1 @@
-<span class="ashebrew">‎מַלְתָּעָה‎</span> <small>***(mal.ta.ah)***</small> ==**tooth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-spelling of: <small>[[H4973]]</small> 
-
+<small>spelling of:</small> <small>**<big>[[H4973|מְתַלְּעָה]]</big>**</small>

@@ -6,18 +6,18 @@ The region of Tappuah belonged to Manasseh, but Tappuah itself, on the border of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.7|<< Joshua 17:7]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.9|Joshua 17:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to Manasseh  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְנַשֶּׁ֕ה </big></span><small><small><sup>[[H4519G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> m.na.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it belonged  | <span class="ashebrew"><big>הָיְתָ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tappuah  | <span class="ashebrew"><big>תַּפּ֑וּחַ </big></span><small><small><sup>[[H8599B]]</sup></small></small> &#8207;| ta.Pu.ach <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Tappuah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תַפּ֛וּחַ </big></span><small><small><sup>[[H8599B]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ta.Pu.ach <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] border of  | <span class="ashebrew"><big>גְּב֥וּל </big></span><small><small><sup>[[H1366G]]</sup></small></small> &#8207;| ge.Vul <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֖ה </big></span><small><small><sup>[[H4519G]]</sup></small></small> &#8207;| me.na.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to [the] descendants of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרָֽיִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Manasseh  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4519G\|מְנַשֶּׁ֕ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it belonged  |**<big>&#8207;[[H1961\|הָיְתָ֖ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tappuah  |**<big>&#8207;[[H8599B\|תַּפּ֑וּחַ]]&#8207; </big>**| ta.Pu.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tappuah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8599B\|תַפּ֛וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Pu.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] border of  |**<big>&#8207;[[H1366G\|גְּב֥וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֖ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.7|<< Joshua 17:7]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.9|Joshua 17:9 >>]]</td></tr></table>
 
 

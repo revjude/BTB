@@ -7,60 +7,60 @@ Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah
 Then all the officials sent word to Baruch through Jehudi son of Nethaniah, the son of Shelemiah, the son of Cushi, saying, “Bring the scroll that you read in the hearing of the people, and come here.” So Baruch son of Neriah took the scroll and went to them.<small><sub>**MT:**</sub></small>
 [[Jer.36.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.13|<< Jeremiah 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.15|Jeremiah 36:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Baruch, | <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Neriah, | <big><span class="asgreek">Νηρίου</span></big> <sup><small><small>[[H5374]]</small></small></sup> |
-| the \[son of\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehudi, | <big><span class="asgreek">Ιουδείν</span></big> <sup><small><small>[[H3065]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nethaniah, | <big><span class="asgreek">Ναθανίου</span></big> <sup><small><small>[[H5418]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shelemiah, | <big><span class="asgreek">Σελεμίου</span></big> <sup><small><small>[[H8018]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Cushi, | <big><span class="asgreek">Χουσί</span></big> <sup><small><small>[[H2365]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| read | <big><span class="asgreek">αναγινώσκεις</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come! | <big><span class="asgreek">ήκε</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| Baruch | <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Neriah | <big><span class="asgreek">Νηρίου</span></big> <sup><small><small>[[H5374]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Baruch, | **<big>[[H1263\|Βαρούχ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Neriah, | **<big>[[H5374\|Νηρίου]]</big>** |
+| the \[son of\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jehudi, | **<big>[[H3065\|Ιουδείν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Nethaniah, | **<big>[[H5418\|Ναθανίου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Shelemiah, | **<big>[[H8018\|Σελεμίου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Cushi, | **<big>[[H2365\|Χουσί]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| read | **<big>[[G0314\|αναγινώσκεις]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ears | **<big>[[G3775\|ώτα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| come! | **<big>[[G2240\|ήκε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| Baruch | **<big>[[H1263\|Βαρούχ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Neriah | **<big>[[H5374\|Νηρίου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατέβη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Jer.36.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.13|<< Jeremiah 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.15|Jeremiah 36:15 >>]]</td></tr></table>
 
 

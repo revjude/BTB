@@ -11,30 +11,30 @@ So the men Moses had sent to spy out the land, who had returned and made the who
 > $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]] ☩ [[Heb.9.14|Heb 9:14]] ☩ [[Heb.3.17|Heb 3:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to survey | <big><span class="asgreek">κατασκέψασθαι</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| coming, | <big><span class="asgreek">παραγενηθέντες</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| complained | <big><span class="asgreek">διεγόγγυσαν</span></big> <sup><small><small>[[G1234]]</small></small></sup> |
-| concerning | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| to bring forth | <big><span class="asgreek">εξενέγκαι</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| bad | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| Moses sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to survey | **<big>[[G7919\|κατασκέψασθαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| coming, | **<big>[[G3854\|παραγενηθέντες]]</big>** |
+| complained | **<big>[[G1234\|διεγόγγυσαν]]</big>** |
+| concerning | **<big>[[G2596\|κατ΄]]</big>** |
+| this | **<big>[[G1473\|αυτής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγήν]]</big>** |
+| to bring forth | **<big>[[G1627\|εξενέγκαι]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| bad | **<big>[[G4190\|πονηρά]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
 [[Num.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.35|<< Numbers 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.37|Numbers 14:37 >>]]</td></tr></table>
 
 

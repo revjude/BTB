@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֶבֶץ‎</span></big> **ʼEbets** <small>*(eh'-bets)*</small> ==**Ebez**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אֶבֶץ‎</span></big>** **ʼEbets** <small>*(eh'-bets)*</small> ==**Ebez**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root probably meaning to gleam; conspicuous</small>
 
 $\quad$ Abez.

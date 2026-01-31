@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">προφήτης</span></span>, <span class="asgreek">-ου, ὁ</span> \[&lt; <span class="asgreek">πρόφημι</span>, <span class="asitalic">to speak forth</span>),</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">נָבִיא</span> <small><sup>[[H5030]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">προφήτης</span></span>, <span class="asgreek">-ου, ὁ</span> \[&lt; <span class="asgreek">πρόφημι</span>, <span class="asitalic">to speak forth</span>),</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5030|נָבִיא]]</big>**;\]</span> </span>
 one who acts as an interpreter or forth-teller of the Divine will (v. Lft., <span class="asitalic">Notes</span>, 83 f.; Tr., <span class="asitalic">Syn.</span>, § vi), <span class="asitalic">a prophet</span>;
 <span class="asbullet"><span class="asbold">1.</span> in cl. (Æsch., Hdt., Plat., al.), of the interpreters of oracles.</span>
 <span class="asbullet"><span class="asbold">2.</span> In NT,</span>

@@ -7,31 +7,31 @@ And I have also established my covenant with them, to give them the land of Cana
 I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners.<small><sub>**MT:**</sub></small>
 [[Exod.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.3|<< Exodus 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.5|Exodus 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I established | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Canaan, | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sojourned, | <big><span class="asgreek">παρωκήκασιν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sojourned | <big><span class="asgreek">παρώκησαν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I established | **<big>[[G2476\|έστησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of Canaan, | **<big>[[G5477\|Χαναναίων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| they sojourned, | **<big>[[G3939\|παρωκήκασιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| they sojourned | **<big>[[G3939\|παρώκησαν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Exod.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.3|<< Exodus 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.5|Exodus 6:5 >>]]</td></tr></table>
 
 

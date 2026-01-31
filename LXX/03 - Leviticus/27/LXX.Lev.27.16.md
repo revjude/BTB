@@ -7,30 +7,30 @@ And if a man shall sanctify unto the LORD [some part] of a field of his possessi
 If a man consecrates to the LORD a parcel of his land, then your valuation shall be proportional to the seed required for it—fifty shekels of silver for every homer of barley seed.<small><sub>**MT:**</sub></small>
 [[Lev.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.15|<< Leviticus 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.17|Leviticus 27:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his possession | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should sanctify | <big><span class="asgreek">αγιάση</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its sowing -- | <big><span class="asgreek">σπόρον</span></big> <sup><small><small>[[G4703]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a cor | <big><span class="asgreek">κόρου</span></big> <sup><small><small>[[G2884]]</small></small></sup> |
-| of barley | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| \[equals\] fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| double-drachmas | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| of silver. | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his possession | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| should sanctify | **<big>[[G0037\|αγιάση]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| value | **<big>[[G5092\|τιμή]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its sowing -- | **<big>[[G4703\|σπόρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a cor | **<big>[[G2884\|κόρου]]</big>** |
+| of barley | **<big>[[G2915\|κριθών]]</big>** |
+| \[equals\] fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| double-drachmas | **<big>[[G1323\|δίδραχμα]]</big>** |
+| of silver. | **<big>[[G0694\|αργυρίου]]</big>** |
 [[Lev.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.15|<< Leviticus 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.17|Leviticus 27:17 >>]]</td></tr></table>
 
 

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חֲנַן‎</span> <small>***(cha.nan)***</small> ==**be gracious**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2603A]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2603A|חָנַן]]</big>**</small>

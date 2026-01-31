@@ -7,36 +7,36 @@ The one building his ascent into the heaven. and the one founding his promise up
 He builds His upper rooms in the heavens and founds His vault upon the earth. He summons the waters of the sea and pours them over the face of the earth. The LORD is His name.<small><sub>**MT:**</sub></small>
 [[Amos.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| building | <big><span class="asgreek">οικοδομών</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| his ascent | <big><span class="asgreek">ανάβασιν</span></big> <sup><small><small>[[G6273]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his promise | <big><span class="asgreek">επαγγελίαν</span></big> <sup><small><small>[[G1860]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| founding | <big><span class="asgreek">θεμελιών</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calling on | <big><span class="asgreek">προσκαλούμενος</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pouring | <big><span class="asgreek">εκχέων</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth -- | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| building | **<big>[[G3618\|οικοδομών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| his ascent | **<big>[[G6273\|ανάβασιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| his promise | **<big>[[G1860\|επαγγελίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| founding | **<big>[[G2311\|θεμελιών]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| calling on | **<big>[[G4341\|προσκαλούμενος]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pouring | **<big>[[G1632\|εκχέων]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth -- | **<big>[[G1093\|γης]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
 [[Amos.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
 

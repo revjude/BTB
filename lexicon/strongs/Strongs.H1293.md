@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּרָכָה‎</span></big> **Bᵉrâkâh** <small>*(ber-aw-kaw')*</small> ==**blessing**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָרַךְ‎</span><sup><small>[[H1288]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּרָכָה‎</span></big>** **Bᵉrâkâh** <small>*(ber-aw-kaw')*</small> ==**blessing**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1288|‎בָרַךְ‎]]</big>**</small>
 
 $\quad$ blessing, liberal, pool, present.
 - ***benediction***
@@ -12,4 +12,4 @@ $\quad$ blessing, liberal, pool, present.
 **5)** a gift, present
 **6)** treaty of peace
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εὐλογία</span><sup><small>[[G2129]]</small></sup>
+<small>See Greek: </small>**<big>[[G2129|εὐλογία]]</big>**

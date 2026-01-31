@@ -7,23 +7,23 @@ And the king of Israel answered and said, Tell [him], Let not him that girdeth o
 And the king of Israel replied, “Tell him: ‘The one putting on his armor should not boast like one taking it off.’”<small><sub>**MT:**</sub></small>
 [[1Kgs.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.10|<< 1 Kings 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.12|1 Kings 20:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Let it be enough! | <big><span class="asgreek">ικανούσθω</span></big> <sup><small><small>[[G2427]]</small></small></sup> |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| boast | <big><span class="asgreek">καυχάσθω</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| humpback | <big><span class="asgreek">κυρτός</span></big> <sup><small><small>[[G8133]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one standing straight! | <big><span class="asgreek">ορθός</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Let it be enough! | **<big>[[G2427\|ικανούσθω]]</big>** |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| boast | **<big>[[G2744\|καυχάσθω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| humpback | **<big>[[G8133\|κυρτός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one standing straight! | **<big>[[G3717\|ορθός]]</big>** |
 [[1Kgs.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.10|<< 1 Kings 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.12|1 Kings 20:12 >>]]</td></tr></table>
 
 

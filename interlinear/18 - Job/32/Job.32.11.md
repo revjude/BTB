@@ -6,17 +6,17 @@ Indeed, I waited while you spoke; I listened to your reasoning; as you searched 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.10|<< Job 32:10]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.12|Job 32:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הֵ֤ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I waited  | <span class="ashebrew"><big>הוֹחַ֨לְתִּי </big></span><small><small><sup>[[H3176G]]</sup></small></small> &#8207;| ho.Chal.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for words your  | <span class="ashebrew"><big>לְֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דִבְרֵי </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>כֶ֗ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> div.rei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I gave ear  | <span class="ashebrew"><big>אָ֭זִין </big></span><small><small><sup>[[H0238]]</sup></small></small> &#8207;| 'A.zin <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding\<s> your  | <span class="ashebrew"><big>תְּב֥וּנֹֽתֵי </big></span><small><small><sup>[[H8394]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| te.Vu.no.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַֽד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you searched for !  | <span class="ashebrew"><big>תַּחְקְר֥וּ </big></span><small><small><sup>[[H2713]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| tach.ke.Ru <small><sup>[[HVqi2mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words  | <span class="ashebrew"><big>מִלִּֽין </big></span><small><small><sup>[[H4405]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Lin <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I waited  |**<big>&#8207;[[H3176G\|הוֹחַ֨לְתִּי]]&#8207; </big>**| ho.Chal.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for words your  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H1697G\|דִבְרֵי]]&#8207;&#8207;[[H9026\|כֶ֗ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I gave ear  |**<big>&#8207;[[H0238\|אָ֭זִין]]&#8207; </big>**| 'A.zin<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding\<s> your  |**<big>&#8207;[[H8394\|תְּב֥וּנֹֽתֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| te.Vu.no.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַֽד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you searched for !  |**<big>&#8207;[[H2713\|תַּחְקְר֥וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tach.ke.Ru<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words  |**<big>&#8207;[[H4405\|מִלִּֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Lin<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.10|<< Job 32:10]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.12|Job 32:12 >>]]</td></tr></table>
 
 

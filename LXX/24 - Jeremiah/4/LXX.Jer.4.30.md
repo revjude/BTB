@@ -7,35 +7,35 @@ And [when] thou [art] spoiled, what wilt thou do? Though thou clothest thyself w
 And you, O devastated one, what will you do, though you dress yourself in scarlet, though you adorn yourself with gold jewelry, though you enlarge your eyes with paint? You adorn yourself in vain; your lovers despise you; they want to take your life.<small><sub>**MT:**</sub></small>
 [[Jer.4.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.29|<< Jeremiah 4:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.31|Jeremiah 4:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall you do? | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should put on | <big><span class="asgreek">περιβάλη</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be adorned | <big><span class="asgreek">κοσμήση</span></big> <sup><small><small>[[G2885]]</small></small></sup> |
-| with an ornament | <big><span class="asgreek">κόσμω</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| of gold; | <big><span class="asgreek">χρυσώ</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should rub | <big><span class="asgreek">εγχρίση</span></big> <sup><small><small>[[G1472]]</small></small></sup> |
-| antimony \[on\] | <big><span class="asgreek">στίβι</span></big> <sup><small><small>[[G9179]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| vain | <big><span class="asgreek">μάταιον</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| your finery | <big><span class="asgreek">ωραϊσμός</span></big> <sup><small><small>[[G9815]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thrusted you away | <big><span class="asgreek">απώσαντό</span></big> <sup><small><small>[[G0683]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lovers | <big><span class="asgreek">ερασταί</span></big> <sup><small><small>[[G7492]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they seek | <big><span class="asgreek">ζητούσιν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| shall you do? | **<big>[[G4160\|ποιήσεις]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should put on | **<big>[[G4016\|περιβάλη]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be adorned | **<big>[[G2885\|κοσμήση]]</big>** |
+| with an ornament | **<big>[[G2889\|κόσμω]]</big>** |
+| of gold; | **<big>[[G5557\|χρυσώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should rub | **<big>[[G1472\|εγχρίση]]</big>** |
+| antimony \[on\] | **<big>[[G9179\|στίβι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] in | **<big>[[G1519\|εις]]</big>** |
+| vain | **<big>[[G3152\|μάταιον]]</big>** |
+| your finery | **<big>[[G9815\|ωραϊσμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| thrusted you away | **<big>[[G0683\|απώσαντό]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your lovers | **<big>[[G7492\|ερασταί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| life | **<big>[[G5590\|ψυχήν]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| they seek | **<big>[[G2212\|ζητούσιν]]</big>** |
 [[Jer.4.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.29|<< Jeremiah 4:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.31|Jeremiah 4:31 >>]]</td></tr></table>
 
 

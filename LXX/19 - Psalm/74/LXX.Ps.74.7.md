@@ -7,21 +7,21 @@ They have cast fire into thy sanctuary, they have defiled [by casting down] the 
 They have burned Your sanctuary to the ground; they have defiled the dwelling place of Your Name.<small><sub>**MT:**</sub></small>
 [[Ps.74.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.6|<< Psalm 74:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.8|Psalm 74:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They set | <big><span class="asgreek">ενεπύρισαν</span></big> <sup><small><small>[[G7207]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sanctuary | <big><span class="asgreek">αγιαστήριόν</span></big> <sup><small><small>[[G6115]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| They profaned | <big><span class="asgreek">εβεβήλωσαν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκήνωμα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your name. | <big><span class="asgreek">ονόματός</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They set | **<big>[[G7207\|ενεπύρισαν]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| fire | **<big>[[G4442\|πυρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your sanctuary | **<big>[[G6115\|αγιαστήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
+| They profaned | **<big>[[G0953\|εβεβήλωσαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tent | **<big>[[G4638\|σκήνωμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your name. | **<big>[[G3686\|ονόματός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.74.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.6|<< Psalm 74:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.8|Psalm 74:8 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀπό-κειμαι</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.49.10|Ge 49:10]] (<span class="ashebrew">שִׁילֹה</span> <small><sup>[[H7886]]</sup></small>), [[LXX.Job.38.23|Jb 38:23]] (<span class="ashebrew">חשׂךְ</span> <small><sup>[[H2820]]</sup></small>), [[2Macc.12.45|II Mac 12:45]], [[4Macc.8.11|IV Mac 8:11]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀπό-κειμαι</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.49.10|Ge 49:10]] (**<big>[[H7886|שִׁילֹה]]</big>**), [[LXX.Job.38.23|Jb 38:23]] (**<big>[[H2820|חשׂךְ]]</big>**), [[2Macc.12.45|II Mac 12:45]], [[4Macc.8.11|IV Mac 8:11]]\*;\]</span> </span>
 <span class="asitalic">to be laid up</span>, <span class="asitalic">in store</span>, <span class="asitalic">laid away</span>: [[Luke.19.20|Lk 19:20]]. Metaph., c. dat. pers., <span class="asitalic">to be reserved</span> (Dem., Plat.; and v. MM, s.v.): [[Col.1.5|Col 1:5]], [[2Tim.4.8|II Ti 4:8]], [[Heb.9.27|He 9:27]].†
 
 **Abbott-Smith References**

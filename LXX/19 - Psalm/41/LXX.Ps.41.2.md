@@ -7,27 +7,27 @@ The LORD will preserve him, and keep him alive; [and] he shall be blessed upon t
 The LORD will protect and preserve him; He will bless him in the land and refuse to give him over to the will of his foes.<small><sub>**MT:**</sub></small>
 [[Ps.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.1|<< Psalm 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.3|Psalm 41:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| guard | <big><span class="asgreek">διαφυλάξαι</span></big> <sup><small><small>[[G1314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| enliven | <big><span class="asgreek">ζήσαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bless | <big><span class="asgreek">μακαρίσαι</span></big> <sup><small><small>[[G3106]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may he not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| deliver | <big><span class="asgreek">παραδοί</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of his enemies. | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| guard | **<big>[[G1314\|διαφυλάξαι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| enliven | **<big>[[G2198\|ζήσαι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bless | **<big>[[G3106\|μακαρίσαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land; | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may he not | **<big>[[G3361\|μη]]</big>** |
+| deliver | **<big>[[G3860\|παραδοί]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of his enemies. | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.1|<< Psalm 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.3|Psalm 41:3 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ As for me, I will call upon God; and the LORD shall save me.
 But I call to God, and the LORD saves me.<small><sub>**MT:**</sub></small>
 [[Ps.55.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.15|<< Psalm 55:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.17|Psalm 55:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| listened to | <big><span class="asgreek">εισήκουσέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| listened to | **<big>[[G1522\|εισήκουσέ]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[Ps.55.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.15|<< Psalm 55:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.17|Psalm 55:17 >>]]</td></tr></table>
 
 

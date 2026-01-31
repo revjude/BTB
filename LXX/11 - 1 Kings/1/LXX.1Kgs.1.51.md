@@ -7,39 +7,39 @@ And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo,
 It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’”<small><sub>**MT:**</sub></small>
 [[1Kgs.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.50|<< 1 Kings 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.52|1 Kings 1:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was announced | <big><span class="asgreek">ανηγγέλη</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Solomon, | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Adonijah | <big><span class="asgreek">Αδωνίας</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| fears | <big><span class="asgreek">εφοβήθη</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon, | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he takes hold | <big><span class="asgreek">κατέχει</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κεράτων</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| swear by an oath | <big><span class="asgreek">ομοσάτω</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| to | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| put to death | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was announced | **<big>[[G0312\|ανηγγέλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Solomon, | **<big>[[G4672\|Σολομώντι]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Adonijah | **<big>[[H0138\|Αδωνίας]]</big>** |
+| fears | **<big>[[G5399\|εφοβήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| Solomon, | **<big>[[G4672\|Σολομώντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he takes hold | **<big>[[G2722\|κατέχει]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| horns | **<big>[[G2768\|κεράτων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| swear by an oath | **<big>[[G3660\|ομοσάτω]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| to | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| put to death | **<big>[[G2289\|θανατώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his servant | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
 [[1Kgs.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.50|<< 1 Kings 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.52|1 Kings 1:52 >>]]</td></tr></table>
 
 

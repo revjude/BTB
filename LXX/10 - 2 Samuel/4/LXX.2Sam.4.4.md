@@ -7,55 +7,55 @@ And Jonathan, Saul’s son, had a son [that was] lame of [his] feet. He was five
 And Jonathan son of Saul had a son who was lame in his feet. He was five years old when the report about Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but as she was hurrying to escape, he fell and became lame. His name was Mephibosheth.<small><sub>**MT:**</sub></small>
 [[2Sam.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.3|<< 2 Samuel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.5|2 Samuel 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jonathan, | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \[there was\] a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| stricken | <big><span class="asgreek">πεπληγώς</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
-| in the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet, | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| years old | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one \[was\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in \[the way\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \[of\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| message | <big><span class="asgreek">αγγελίαν</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jezreel; | <big><span class="asgreek">Ιεζραήλ</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήρεν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wet-nurse | <big><span class="asgreek">τιθηνός</span></big> <sup><small><small>[[G9450]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled. | <big><span class="asgreek">έφυγε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hastening | <big><span class="asgreek">σπεύδειν</span></big> <sup><small><small>[[G4692]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| withdrawing | <big><span class="asgreek">αναχωρείν</span></big> <sup><small><small>[[G0402]]</small></small></sup> |
-| he fell | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became lame. | <big><span class="asgreek">εχωλάνθη</span></big> <sup><small><small>[[G9770]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Mephibosheth. | <big><span class="asgreek">Μεφιβόσεθ</span></big> <sup><small><small>[[H4648]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jonathan, | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| \[there was\] a son | **<big>[[G5207\|υιός]]</big>** |
+| stricken | **<big>[[G4141\|πεπληγώς]]</big>** |
+| in the | **<big>[[G3588\|τους]]</big>** |
+| feet, | **<big>[[G4228\|πόδας]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| years old | **<big>[[G2094\|ετών]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one \[was\] | **<big>[[G3778\|ούτος]]</big>** |
+| in \[the way\] | **<big>[[G1722\|εν]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| coming | **<big>[[G2064\|ελθείν]]</big>** |
+| \[of\] the | **<big>[[G3588\|την]]</big>** |
+| message | **<big>[[G0031\|αγγελίαν]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his son | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jezreel; | **<big>[[H3157\|Ιεζραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted | **<big>[[G0142\|ήρεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his wet-nurse | **<big>[[G9450\|τιθηνός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fled. | **<big>[[G5343\|έφυγε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her hastening | **<big>[[G4692\|σπεύδειν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| withdrawing | **<big>[[G0402\|αναχωρείν]]</big>** |
+| he fell | **<big>[[G4098\|έπεσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became lame. | **<big>[[G9770\|εχωλάνθη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[was\] Mephibosheth. | **<big>[[H4648\|Μεφιβόσεθ]]</big>** |
 [[2Sam.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.3|<< 2 Samuel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.5|2 Samuel 4:5 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And I will cast abominable filth upon thee, and make thee vile, and will set the
 I will pelt you with filth and treat you with contempt; I will make a spectacle of you.<small><sub>**MT:**</sub></small>
 [[Nah.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.5|<< Nahum 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.7|Nahum 3:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cast | <big><span class="asgreek">επιρρίψω</span></big> <sup><small><small>[[G1977]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδελυγμόν</span></big> <sup><small><small>[[G6662]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your uncleannesses, | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">θήσομαί</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an example. | <big><span class="asgreek">παράδειγμα</span></big> <sup><small><small>[[G8606]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will cast | **<big>[[G1977\|επιρρίψω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| an abomination | **<big>[[G6662\|βδελυγμόν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your uncleannesses, | **<big>[[G0167\|ακαθαρσίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G5087\|θήσομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an example. | **<big>[[G8606\|παράδειγμα]]</big>** |
 [[Nah.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.5|<< Nahum 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.7|Nahum 3:7 >>]]</td></tr></table>
 
 

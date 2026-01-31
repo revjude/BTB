@@ -7,51 +7,51 @@ And it was [so] on the morrow, that Saul put the people in three companies; and 
 The next day Saul organized the troops into three divisions, and during the morning watch they invaded the camp of the Ammonites and slaughtered them, until the hottest part of the day. And the survivors were so scattered that no two of them were left together.<small><sub>**MT:**</sub></small>
 [[1Sam.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.10|<< 1 Samuel 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.12|1 Samuel 11:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| morning, | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| companies, | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισπορεύονται</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| early morning | <big><span class="asgreek">πρωϊνή</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
-| watch, | <big><span class="asgreek">φυλακή</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they struck | <big><span class="asgreek">έτυπτον</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| warmed through | <big><span class="asgreek">διεθερμάνθη</span></big> <sup><small><small>[[G6826]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass, | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">υπολελειμμένοι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| were scattered, | <big><span class="asgreek">διεσπάρησαν</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| left behind | <big><span class="asgreek">υπελείφθησαν</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| together. | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| morning, | **<big>[[G0839\|αύριον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| Saul put | **<big>[[G5087\|έθετο]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| companies, | **<big>[[G0746\|αρχάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1531\|εισπορεύονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| early morning | **<big>[[G4407\|πρωϊνή]]</big>** |
+| watch, | **<big>[[G5438\|φυλακή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they struck | **<big>[[G5180\|έτυπτον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| warmed through | **<big>[[G6826\|διεθερμάνθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass, | **<big>[[G1096\|εγενήθη]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being left behind | **<big>[[G5275\|υπολελειμμένοι]]</big>** |
+| were scattered, | **<big>[[G1289\|διεσπάρησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουχ]]</big>** |
+| left behind | **<big>[[G5275\|υπελείφθησαν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| together. | **<big>[[G2089\|επί]]</big>** **<big>[[G3588\|το]]</big>** **<big>[[G1473\|αυτό]]</big>** |
 [[1Sam.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.10|<< 1 Samuel 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.12|1 Samuel 11:12 >>]]</td></tr></table>
 
 

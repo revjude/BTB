@@ -1,8 +1,8 @@
 <small>*New Gate • A gate in Jerusalem during Jeremiah's time*</small>
 
 The <span class='tipnrhighlight'>New Gate</span> was a gate in Jerusalem during the time of the prophet Jeremiah.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Jer.26.10|Jer.26.10]]; 
-- only referred to as New\_Gate<[[H2319G]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Jer.26.10|Jer.26.10]]; 
+- only referred to as New\_Gate **<big>[[H2319|חָדָשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The New Gate was one of the gates of Jerusalem mentioned in the book of Jeremiah
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| New (Gate) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H2319G) <small>*Hebrew*</small> | 2x | [[Jer.26.10] & [Jer.36.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=New\*\|reference=Jer.26.10;Jer.36.10) |
-All Strong's for **New_Gate**: \[[[H2319G]]\]
+| New (Gate) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H2319G) | 2x | [[Jer.26.10] & [Jer.36.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=New\*\|reference=Jer.26.10;Jer.36.10) |
+All entries for **New Gate**:  **<big>[[H2319|חָדָשׁ]]</big>**

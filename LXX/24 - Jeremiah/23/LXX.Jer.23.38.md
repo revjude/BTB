@@ -7,28 +7,28 @@ But since ye say, The burden of the LORD; therefore thus saith the LORD; Because
 But if you claim, ‘This is the burden of the LORD,’ then this is what the LORD says: Because you have said, ‘This is the burden of the LORD,’ and I specifically told you not to make this claim,<small><sub>**MT:**</sub></small>
 [[Jer.23.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.37|<< Jeremiah 23:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.39|Jeremiah 23:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| you said | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[The\] concern | <big><span class="asgreek">λήμμα</span></big> <sup><small><small>[[G8189]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| say, | <big><span class="asgreek">ερείτε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \[The\] concern | <big><span class="asgreek">λήμμα</span></big> <sup><small><small>[[G8189]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| you said | **<big>[[G2036\|είπατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this word, | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| \[The\] concern | **<big>[[G8189\|λήμμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I sent | **<big>[[G0649\|απέστειλα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| say, | **<big>[[G2046\|ερείτε]]</big>** |
+| \[The\] concern | **<big>[[G8189\|λήμμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Jer.23.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.37|<< Jeremiah 23:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.39|Jeremiah 23:39 >>]]</td></tr></table>
 
 

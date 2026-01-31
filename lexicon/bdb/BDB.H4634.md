@@ -1,4 +1,4 @@
-<small>Also see: [[H4630]]</small>
+<small>Also see: **<big>[[H4630|מַעֲרָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַעֲרָכָה‎</span> **noun feminine** ==row, rank, battle-line==; — 
 

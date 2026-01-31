@@ -10,28 +10,28 @@ And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.<small><sub>**MT:**</sub></small>
 [[Exod.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.25|<< Exodus 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.2|Exodus 8:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Enter | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh! | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Send out | <big><span class="asgreek">εξαπόστειλον</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they may serve me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">λατρεύσωσιν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Enter | **<big>[[G1525\|είσελθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh! | **<big>[[G5328\|Φαραώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Send out | **<big>[[G1821\|εξαπόστειλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they may serve me! | **<big>[[G1473\|μοι]]</big>** **<big>[[G3000\|λατρεύσωσιν]]</big>** |
 [[Exod.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.25|<< Exodus 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.2|Exodus 8:2 >>]]</td></tr></table>
 
 

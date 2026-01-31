@@ -7,17 +7,17 @@ I [am] small and despised: [yet] do not I forget thy precepts.
 I am lowly and despised, but I do not forget Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.141|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.140|<< Psalm 119:140]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.142|Psalm 119:142 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being treated with contempt; | <big><span class="asgreek">εξουδενωμένος</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ordinances | <big><span class="asgreek">δικαιώματά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| forget | <big><span class="asgreek">επελαθόμην</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being treated with contempt; | **<big>[[G1847\|εξουδενωμένος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ordinances | **<big>[[G1345\|δικαιώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| forget | **<big>[[G1950\|επελαθόμην]]</big>** |
 [[Ps.119.141|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.140|<< Psalm 119:140]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.142|Psalm 119:142 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עָשַׁר‎</span></big> **ʻâshar** <small>*(aw-shar')*</small> ==**to enrich**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָשַׁר‎</span></big>** **ʻâshar** <small>*(aw-shar')*</small> ==**to enrich**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ be(-come, en-, make, make self, wax) rich, make (1 Kings 22:48 marg). See <span class="ashebrew">‎עָשָׂר‎</span><sup><small>[[H6240]]</small></sup>.
+$\quad$ be(-come, en-, make, make self, wax) rich, make (1 Kings 22:48 marg). See **<big>[[H6240|‎עָשָׂר‎]]</big>**.
 - properly, ***to accumulate***
 -  ***chiefly*** (specifically) ***to grow*** (causatively, make) ***rich***
 
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b1)** to make rich
 $\quad$ $\quad$ **1b2)** to gain riches
 $\quad$ **1c)** (Hithpael) to enrich oneself, pretend to be rich
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πλουτέω</span><sup><small>[[G4147]]</small></sup> · <span class="asgreek">πλουτίζω</span><sup><small>[[G4148]]</small></sup>
+<small>See Greek: </small>**<big>[[G4147|πλουτέω]]</big>** · **<big>[[G4148|πλουτίζω]]</big>**

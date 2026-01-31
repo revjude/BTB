@@ -6,14 +6,14 @@ He makes peace at your borders; He fills you with the finest wheat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.13|<< Psalms 147:13]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.15|Psalms 147:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the [one who] makes  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂם </big></span><small><small><sup>[[H7760A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> som- <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| territory your  | <span class="ashebrew"><big>גְּבוּלֵ֥ </big></span><small><small><sup>[[H1366G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ge.vu.Le <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peace  | <span class="ashebrew"><big>שָׁל֑וֹם </big></span><small><small><sup>[[H7965G]]</sup></small></small> &#8207;| sha.Lom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] best of  | <span class="ashebrew"><big>חֵ֥לֶב </big></span><small><small><sup>[[H2459]]</sup></small></small> &#8207;| Che.lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wheat\<s>  | <span class="ashebrew"><big>חִ֝טִּ֗ים </big></span><small><small><sup>[[H2406]]</sup></small></small> &#8207;| chi.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he satisfies you  | <span class="ashebrew"><big>יַשְׂבִּיעֵֽ </big></span><small><small><sup>[[H7646]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yas.bi.'E <small><sup>[[HVhi3ms]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one who] makes  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7760A\|שָּׂם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> som-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| territory your  |**<big>&#8207;[[H1366G\|גְּבוּלֵ֥]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ge.vu.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  |**<big>&#8207;[[H7965G\|שָׁל֑וֹם]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] best of  |**<big>&#8207;[[H2459\|חֵ֥לֶב]]&#8207; </big>**| Che.lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheat\<s>  |**<big>&#8207;[[H2406\|חִ֝טִּ֗ים]]&#8207; </big>**| chi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he satisfies you  |**<big>&#8207;[[H7646\|יַשְׂבִּיעֵֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yas.bi.'E<small><sup>[[HVhi3ms]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.13|<< Psalms 147:13]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.15|Psalms 147:15 >>]]</td></tr></table>
 
 

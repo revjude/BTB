@@ -7,33 +7,33 @@ And now, O Lord our God, that hast brought thy people forth out of the land of E
 Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly.<small><sub>**MT:**</sub></small>
 [[Dan.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.14|<< Daniel 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.16|Daniel 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| led | <big><span class="asgreek">εξήγαγες</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| a fortified | <big><span class="asgreek">κραταιά</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| a name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[it is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day -- | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| we sinned, | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| we acted lawlessly, | <big><span class="asgreek">ηνομήσαμεν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| we transgressed. | <big><span class="asgreek">ηδικήσαμεν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| led | **<big>[[G1806\|εξήγαγες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| a fortified | **<big>[[G2900\|κραταιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| a name | **<big>[[G3686\|όνομα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[it is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day -- | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| we sinned, | **<big>[[G0264\|ημάρτομεν]]</big>** |
+| we acted lawlessly, | **<big>[[G6349\|ηνομήσαμεν]]</big>** |
+| we transgressed. | **<big>[[G0091\|ηδικήσαμεν]]</big>** |
 [[Dan.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.14|<< Daniel 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.16|Daniel 9:16 >>]]</td></tr></table>
 
 

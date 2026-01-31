@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּזַר‎</span></big> **pâzar** <small>*(paw-zar')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּזַר‎</span></big>** **pâzar** <small>*(paw-zar')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ disperse, scatter (abroad).
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Niphal) to be scattered
 $\quad$ **1c)** (Piel) to scatter
 $\quad$ **1d)** (Pual) to be scattered
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup> · <span class="asgreek">σκορπίζω</span><sup><small>[[G4650]]</small></sup> · <span class="asgreek">σπείρω</span><sup><small>[[G4687]]</small></sup>
+<small>See Greek: </small>**<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G4105|πλανάω]]</big>** · **<big>[[G4650|σκορπίζω]]</big>** · **<big>[[G4687|σπείρω]]</big>**

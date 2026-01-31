@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἐπικατάρατος‎</span></big> **epikatáratos** <small>*(ep-ee-kat-ar'-at-os)*</small> ==**cursed**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>from <span class="asgreek">ἐπί</span><sup><small>[[G1909]]</small></sup> and a derivative of <span class="asgreek">καταράομαι</span><sup><small>[[G2672]]</small></sup></small>
+**<big><span class="asgreek">‎ἐπικατάρατος‎</span></big>** **epikatáratos** <small>*(ep-ee-kat-ar'-at-os)*</small> ==**cursed**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>from **<big>[[G1909|‎ἐπί‎]]</big>** and a derivative of **<big>[[G2672|‎καταράομαι‎]]</big>**</small>
 
 $\quad$ accursed.
 - imprecated, i.e. execrable

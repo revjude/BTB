@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Dibri</span>, of the tribe of Dan, was the father of Shelomith, whose son blasphemed the name of God and was stoned to death. \([[Lev.24.11|Lev.24.11]]\)
 - A man living at the time of Egypt and Wilderness, only mentioned at [[Lev.24.11|Lev.24.11]]; 
-- only referred to as Dibri<[[H1704]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  father of Shelomith<[[H8019B]]>.
+- only referred to as Dibri **<big>[[H1704|דִּבְרִי]]</big>**; 
+-  father of Shelomith **<big>[[H8019|שְׁלֹמִית]]</big>**.
 
 Dibri, a man from the tribe of Dan, is mentioned in [[Lev.24.11|Leviticus 24:11]] as the father of Shelomith, whose son was involved in a blasphemy incident in the Israelite camp. The verse states that Shelomith's son, whose father was an Egyptian, blasphemed the name of God and cursed during a fight with an Israelite man. 
 
@@ -17,7 +17,7 @@ The incident involving Dibri's grandson emphasizes the seriousness of blasphemy 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dibri | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1704) <small>*Hebrew*</small> | 1x | [Lev.24.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dibri\*\|reference=Lev.24.11) |
-All Strong's for **Dibri**: \[[[H1704]]\]
+| Dibri | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1704) | 1x | [Lev.24.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dibri\*\|reference=Lev.24.11) |
+All entries for **Dibri**:  **<big>[[H1704|דִּבְרִי]]</big>**
 #### Related Profiles:
 - **[Shelomith](H8019B)** (child)

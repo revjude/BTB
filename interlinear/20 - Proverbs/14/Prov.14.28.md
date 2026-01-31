@@ -6,16 +6,16 @@ A large population is a king’s splendor, but a lack of subjects is a prince’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.27|<< Proverbs 14:27]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.29|Proverbs 14:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] in [the] multitude of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָב </big></span><small><small><sup>[[H7230]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> rov- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עָ֥ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] glory of  | <span class="ashebrew"><big>הַדְרַת </big></span><small><small><sup>[[H1927]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| had.rat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a king  | <span class="ashebrew"><big>מֶ֑לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in not  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֥פֶס </big></span><small><small><sup>[[H0657A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'E.fes <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>לְ֝אֹ֗ם </big></span><small><small><sup>[[H3816]]</sup></small></small> &#8207;| le.'Om <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ruin of  | <span class="ashebrew"><big>מְחִתַּ֥ת </big></span><small><small><sup>[[H4288]]</sup></small></small> &#8207;| me.chi.Tat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ruler  | <span class="ashebrew"><big>רָזֽוֹן </big></span><small><small><sup>[[H7333]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Zon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] multitude of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rov-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עָ֥ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] glory of  |**<big>&#8207;[[H1927\|הַדְרַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| had.rat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶ֑לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0657A\|אֶ֥פֶס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'E.fes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H3816\|לְ֝אֹ֗ם]]&#8207; </big>**| le.'Om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ruin of  |**<big>&#8207;[[H4288\|מְחִתַּ֥ת]]&#8207; </big>**| me.chi.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ruler  |**<big>&#8207;[[H7333\|רָזֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Zon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.27|<< Proverbs 14:27]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.29|Proverbs 14:29 >>]]</td></tr></table>
 
 

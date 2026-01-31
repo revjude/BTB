@@ -7,18 +7,18 @@ Because thou hast been my help, therefore in the shadow of thy wings will I rejo
 For You are my help; I will sing for joy in the shadow of Your wings.<small><sub>**MT:**</sub></small>
 [[Ps.63.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.6|<< Psalm 63:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.8|Psalm 63:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are | <big><span class="asgreek">εγενήθης</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| my helper, | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| protection | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall exult. | <big><span class="asgreek">αγαλλιάσομαι</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you are | **<big>[[G1096\|εγενήθης]]</big>** |
+| my helper, | **<big>[[G0998\|βοηθός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| protection | **<big>[[G9098\|σκέπη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your wings | **<big>[[G4420\|πτερύγων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall exult. | **<big>[[G0021\|αγαλλιάσομαι]]</big>** |
 [[Ps.63.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.6|<< Psalm 63:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.8|Psalm 63:8 >>]]</td></tr></table>
 
 

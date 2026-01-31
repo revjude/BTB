@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱמֹרִי‎</span></big> **ʼĔmôrîy** <small>*(em-o-ree')*</small> ==**Amorite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>probably a patronymic from an unused name derived from <span class="ashebrew">‎אָמַר‎</span><sup><small>[[H0559]]</small></sup> in the sense of publicity, i.e. prominence; thus, a mountaineer</small>
+**<big><span class="ashebrew">‎אֱמֹרִי‎</span></big>** **ʼĔmôrîy** <small>*(em-o-ree')*</small> ==**Amorite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>probably a patronymic from an unused name derived from **<big>[[H0559|‎אָמַר‎]]</big>** in the sense of publicity, i.e. prominence; thus, a mountaineer</small>
 
 $\quad$ Amorite.
 - § Amorite = *"a sayer"*

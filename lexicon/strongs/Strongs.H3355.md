@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇקְטָן‎</span></big> **Yoqṭân** <small>*(yok-tawn')*</small> ==**Joktan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קָטֹן‎</span><sup><small>[[H6994]]</small></sup>; he will be made little</small>
+**<big><span class="ashebrew">‎יׇקְטָן‎</span></big>** **Yoqṭân** <small>*(yok-tawn')*</small> ==**Joktan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6994|‎קָטֹן‎]]</big>**; he will be made little</small>
 
 $\quad$ Joktan.
 - § Joktan = *"smallness"*

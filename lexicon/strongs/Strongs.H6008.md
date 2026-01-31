@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמְעָד‎</span></big> **ʻAmʻâd** <small>*(am-awd')*</small> ==**Amad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup> and <span class="ashebrew">‎עַד‎</span><sup><small>[[H5703]]</small></sup>; people of time</small>
+**<big><span class="ashebrew">‎עַמְעָד‎</span></big>** **ʻAmʻâd** <small>*(am-awd')*</small> ==**Amad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5971|‎עַם‎]]</big>** and **<big>[[H5703|‎עַד‎]]</big>**; people of time</small>
 
 $\quad$ Amad.
 - § Amad = *"enduring"*

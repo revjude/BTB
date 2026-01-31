@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִגְאָל‎</span></big> **Yigʼâl** <small>*(yig-awl')*</small> ==**Igal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּאַל‎</span><sup><small>[[H1350]]</small></sup>; avenger</small>
+**<big><span class="ashebrew">‎יִגְאָל‎</span></big>** **Yigʼâl** <small>*(yig-awl')*</small> ==**Igal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1350|‎גָּאַל‎]]</big>**; avenger</small>
 
 $\quad$ Igal, Igeal.
 - § Igal or Igeal = *"He redeems"*

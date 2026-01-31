@@ -4,9 +4,9 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Jotham</span>, the youngest son of Gideon, was the only one to escape when Abimelech killed his seventy brothers.
 - A man living before Israel's Monarchy, first mentioned at [[Judg.9.5|Jdg.9.5]]; 
-- only referred to as Jotham<[[H3147G]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>\); 
--  son of Gideon<[[H1439]]>; 
-- a brother of Jether<[[H3500G]]> and Abimelech<[[H0040H]]>.
+- only referred to as Jotham **<big>[[H3147|יוֹתָם]]</big>**; 
+-  son of Gideon **<big>[[H1439|גִּדְעוֹן]]</big>**; 
+- a brother of Jether **<big>[[H3500|יֶתֶר]]</big>** and Abimelech **<big>[[H0040|אֲבִימֶלֶךְ]]</big>**.
 
 Jotham was the youngest of Gideon's seventy sons \([[Judg.9.5|Judges 9:5]]\). After Gideon's death, Abimelech, another of Gideon's sons, conspired to become king and killed his seventy brothers on one stone \([[Judg.9.5|Judges 9:5]]\). However, Jotham escaped by hiding \([[Judg.9.5|Judges 9:5]]\). 
 
@@ -16,8 +16,8 @@ Later, God sent an evil spirit between Abimelech and the men of Shechem, causing
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jotham | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3147G) <small>*Hebrew*</small> | 4x | [[Jdg.9.5] ... [Jdg.9.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jotham\*\|reference=Jdg.9.5;Jdg.9.7;Jdg.9.21;Jdg.9.57) |
-All Strong's for **Jotham**: \[[[H3147G]]\]
+| Jotham | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3147G) | 4x | [[Jdg.9.5] ... [Jdg.9.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jotham\*\|reference=Jdg.9.5;Jdg.9.7;Jdg.9.21;Jdg.9.57) |
+All entries for **Jotham**:  **<big>[[H3147|יוֹתָם]]</big>**
 #### Related Profiles:
 - **[Gideon](H1439)** (father)
 - **[Jether](H3500G)** (sibling)

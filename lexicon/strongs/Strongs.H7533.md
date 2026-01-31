@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָצַץ‎</span></big> **râtsats** <small>*(raw-tsats')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָצַץ‎</span></big>** **râtsats** <small>*(raw-tsats')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ break, bruise, crush, discourage, oppress, struggle together.
@@ -17,4 +17,4 @@ $\quad$ **1d)** (Poel) to oppress (fig)
 $\quad$ **1e)** (Hiphil) to crush
 $\quad$ **1f)** (Hithpoel) to crush each other
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θραύω</span><sup><small>[[G2352]]</small></sup> · <span class="asgreek">καταδυναστεύω</span><sup><small>[[G2616]]</small></sup> · <span class="asgreek">καταπατέω</span><sup><small>[[G2662]]</small></sup> · <span class="asgreek">κλάω</span><sup><small>[[G2806]]</small></sup> · <span class="asgreek">λυμαίνομαι</span><sup><small>[[G3075]]</small></sup> · <span class="asgreek">σκιρτάω</span><sup><small>[[G4640]]</small></sup> · <span class="asgreek">συνθλάω</span><sup><small>[[G4917]]</small></sup> · <span class="asgreek">συνθλίβω</span><sup><small>[[G4918]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup>
+<small>See Greek: </small>**<big>[[G2352|θραύω]]</big>** · **<big>[[G2616|καταδυναστεύω]]</big>** · **<big>[[G2662|καταπατέω]]</big>** · **<big>[[G2806|κλάω]]</big>** · **<big>[[G3075|λυμαίνομαι]]</big>** · **<big>[[G4640|σκιρτάω]]</big>** · **<big>[[G4917|συνθλάω]]</big>** · **<big>[[G4918|συνθλίβω]]</big>** · **<big>[[G4937|συντρίβω]]</big>**

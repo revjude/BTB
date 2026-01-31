@@ -7,37 +7,37 @@ Behold, I will watch over them for evil, and not for good: and all the men of Ju
 I am watching over them for harm and not for good, and every man of Judah who is in the land of Egypt will meet his end by sword or famine, until they are finished off.<small><sub>**MT:**</sub></small>
 [[Jer.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have been vigilant | <big><span class="asgreek">εγρήγορα</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to inflict hurt | <big><span class="asgreek">κακώσαι</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| on them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do good. | <big><span class="asgreek">αγαθώσαι</span></big> <sup><small><small>[[G6107]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fail | <big><span class="asgreek">εκλείψουσι</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| famine, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they shall cease. | <big><span class="asgreek">εκλείπωσι</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| have been vigilant | **<big>[[G1453\|εγρήγορα]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to inflict hurt | **<big>[[G2559\|κακώσαι]]</big>** |
+| on them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to not | **<big>[[G3756\|ουκ]]</big>** |
+| do good. | **<big>[[G6107\|αγαθώσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall fail | **<big>[[G1587\|εκλείψουσι]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| famine, | **<big>[[G3042\|λιμώ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| they shall cease. | **<big>[[G1587\|εκλείπωσι]]</big>** |
 [[Jer.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
 

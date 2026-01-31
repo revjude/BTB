@@ -7,27 +7,27 @@ Then David sent home to Tamar, saying, Go now to thy brother Amnon’s house, an
 Then David sent word to Tamar at the palace: “Please go to the house of Amnon your brother and prepare a meal for him.”<small><sub>**MT:**</sub></small>
 [[2Sam.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.6|<< 2 Samuel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.8|2 Samuel 13:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Tamar | <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύθητι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| food for him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">βρώμα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| Tamar | **<big>[[G2283\|Θαμάρ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house, | **<big>[[G3624\|οίκον]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Go | **<big>[[G4198\|πορεύθητι]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your brother, | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G4160\|ποίησον]]</big>** |
+| food for him! | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1033\|βρώμα]]</big>** |
 [[2Sam.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.6|<< 2 Samuel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.8|2 Samuel 13:8 >>]]</td></tr></table>
 
 

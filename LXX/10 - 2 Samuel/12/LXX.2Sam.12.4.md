@@ -7,51 +7,51 @@ And there came a traveller unto the rich man, and he spared to take of his own f
 Now a traveler came to the rich man, who refrained from taking one of his own sheep or cattle to prepare for the traveler who had come to him. Instead, he took the poor man’s lamb and prepared it for his guest.”<small><sub>**MT:**</sub></small>
 [[2Sam.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.3|<< 2 Samuel 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.5|2 Samuel 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| a traveller | <big><span class="asgreek">οδοιπόρος</span></big> <sup><small><small>[[G8444]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rich | <big><span class="asgreek">πλούσιον</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spared | <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his flock, | <big><span class="asgreek">ποιμνίου</span></big> <sup><small><small>[[G4168]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his herd, | <big><span class="asgreek">βουκολίου</span></big> <sup><small><small>[[G6690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to prepare | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stranger | <big><span class="asgreek">ξένω</span></big> <sup><small><small>[[G3581]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθοντί</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ewe-lamb | <big><span class="asgreek">αμνάδα</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prepared | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθόντι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| a traveller | **<big>[[G8444\|οδοιπόρος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| rich | **<big>[[G4145\|πλούσιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spared | **<big>[[G5339\|εφείσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his flock, | **<big>[[G4168\|ποιμνίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his herd, | **<big>[[G6690\|βουκολίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to prepare | **<big>[[G4160\|ποιήσαι]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| stranger | **<big>[[G3581\|ξένω]]</big>** |
+| coming | **<big>[[G2064\|ελθοντί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ewe-lamb | **<big>[[G6261\|αμνάδα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| man | **<big>[[G0435\|ανδρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| needy | **<big>[[G3993\|πένητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he prepared | **<big>[[G4160\|εποίησεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| man | **<big>[[G0435\|ανδρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| coming | **<big>[[G2064\|ελθόντι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Sam.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.3|<< 2 Samuel 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.5|2 Samuel 12:5 >>]]</td></tr></table>
 
 

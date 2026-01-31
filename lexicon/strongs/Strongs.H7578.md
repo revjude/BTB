@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎רְתֵת‎</span></big> **rᵉthêth** <small>*(reth-ayth')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>for <span class="ashebrew">‎רֶטֶט‎</span><sup><small>[[H7374]]</small></sup></small>
+**<big><span class="ashebrew">‎רְתֵת‎</span></big>** **rᵉthêth** <small>*(reth-ayth')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>for **<big>[[H7374|‎רֶטֶט‎]]</big>**</small>
 
 $\quad$ trembling. �
 - ***terror***
 
 **1)** trembling
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τρόμος</span><sup><small>[[G5156]]</small></sup>
+<small>See Greek: </small>**<big>[[G5156|τρόμος]]</big>**

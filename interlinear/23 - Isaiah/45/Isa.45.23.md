@@ -10,24 +10,24 @@ By Myself I have sworn; truth has gone out from My mouth, a word that will not b
 > $\quad$ referenced by: [[Rom.14.11|Rom 14:11]] ☩ [[Phil.2.10|Phil 2:10]] ☩ [[Phil.2.11|Phil 2:11]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| by myself  | <span class="ashebrew"><big>בִּ֣ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| b <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I swear  | <span class="ashebrew"><big>נִשְׁבַּ֔עְתִּי </big></span><small><small><sup>[[H7650]]</sup></small></small> &#8207;| nish.Ba'.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it goes forth  | <span class="ashebrew"><big>יָצָ֨א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.Tza' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from mouth my  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פִּ֧ </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> P <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צְדָקָ֛ה </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a word  | <span class="ashebrew"><big>דָּבָ֖ר </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will return  | <span class="ashebrew"><big>יָשׁ֑וּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ya.Shuv <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will bow down  | <span class="ashebrew"><big>תִּכְרַ֣ע </big></span><small><small><sup>[[H3766]]</sup></small></small> &#8207;| tikh.Ra' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knee  | <span class="ashebrew"><big>בֶּ֔רֶךְ </big></span><small><small><sup>[[H1290]]</sup></small></small> &#8207;| Be.rekh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will swear  | <span class="ashebrew"><big>תִּשָּׁבַ֖ע </big></span><small><small><sup>[[H7650]]</sup></small></small> &#8207;| ti.sha.Va' <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tongue  | <span class="ashebrew"><big>לָשֽׁוֹן </big></span><small><small><sup>[[H3956G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la.Shon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by myself  |**<big>&#8207;[[H9003\|בִּ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I swear  |**<big>&#8207;[[H7650\|נִשְׁבַּ֔עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it goes forth  |**<big>&#8207;[[H3318G\|יָצָ֨א]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from mouth my  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6310G\|פִּ֧]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6666\|צְדָקָ֛ה]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a word  |**<big>&#8207;[[H1697G\|דָּבָ֖ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will return  |**<big>&#8207;[[H7725G\|יָשׁ֑וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will bow down  |**<big>&#8207;[[H3766\|תִּכְרַ֣ע]]&#8207; </big>**| tikh.Ra'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knee  |**<big>&#8207;[[H1290\|בֶּ֔רֶךְ]]&#8207; </big>**| Be.rekh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will swear  |**<big>&#8207;[[H7650\|תִּשָּׁבַ֖ע]]&#8207; </big>**| ti.sha.Va'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue  |**<big>&#8207;[[H3956G\|לָשֽׁוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.Shon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.22|<< Isaiah 45:22]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.24|Isaiah 45:24 >>]]</td></tr></table>
 
 

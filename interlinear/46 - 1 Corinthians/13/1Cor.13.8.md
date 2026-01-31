@@ -6,22 +6,22 @@ Love never fails. But where there are prophecies, they will cease; where there a
 <small><sub>**Literal:**</sub></small>
 <the> Love never falls. if however [there are] prophesies, they will be abated; if tongues, they will cease; if knowledge it will be abated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.7|<< 1 Corinthians 13:7]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.9|1 Corinthians 13:9 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Love |<big><span class="asgreek">ἀγάπη</span></big> <small><small><sup>[[G0026]]</sup></small></small> |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| never |<big><span class="asgreek">οὐδέποτε</span></big> <small><small><sup>[[G3763]]</sup></small></small> |oudepote <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| falls. [^1] |<big><span class="asgreek">πίπτει.¶</span></big> <small><small><sup>[[G4098]]</sup></small></small> |piptei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| if |<big><span class="asgreek">Εἴτε</span></big> <small><small><sup>[[G1535]]</sup></small></small> |Eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [there are] prophesies, |<big><span class="asgreek">προφητεῖαι,</span></big> <small><small><sup>[[G4394]]</sup></small></small> |prophēteiai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will be abated; |<big><span class="asgreek">καταργηθήσονται·</span></big> <small><small><sup>[[G2673]]</sup></small></small> |katargēthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if |<big><span class="asgreek">εἴτε</span></big> <small><small><sup>[[G1535]]</sup></small></small> |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| tongues, |<big><span class="asgreek">γλῶσσαι,</span></big> <small><small><sup>[[G1100]]</sup></small></small> |glōssai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will cease; |<big><span class="asgreek">παύσονται·</span></big> <small><small><sup>[[G3973]]</sup></small></small> |pausontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if |<big><span class="asgreek">εἴτε</span></big> <small><small><sup>[[G1535]]</sup></small></small> |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knowledge |<big><span class="asgreek">γνῶσις,</span></big> <small><small><sup>[[G1108]]</sup></small></small> |gnōsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it will be abated. |<big><span class="asgreek">καταργηθήσεται.</span></big> <small><small><sup>[[G2673]]</sup></small></small> |katargēthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Love |**<big>[[G0026\|ἀγάπη]]</big>**  |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| never |**<big>[[G3763\|οὐδέποτε]]</big>**  |oudepote <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| falls. [^1] |**<big>[[G4098\|πίπτει.¶]]</big>**  |piptei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| if |**<big>[[G1535\|Εἴτε]]</big>**  |Eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [there are] prophesies, |**<big>[[G4394\|προφητεῖαι,]]</big>**  |prophēteiai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will be abated; |**<big>[[G2673\|καταργηθήσονται·]]</big>**  |katargēthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| tongues, |**<big>[[G1100\|γλῶσσαι,]]</big>**  |glōssai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will cease; |**<big>[[G3973\|παύσονται·]]</big>**  |pausontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knowledge |**<big>[[G1108\|γνῶσις,]]</big>**  |gnōsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it will be abated. |**<big>[[G2673\|καταργηθήσεται.]]</big>**  |katargēthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.7|<< 1 Corinthians 13:7]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.9|1 Corinthians 13:9 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: falls out | <span class="asgreek">ἐκπίπτει</span><small><sup>[[G1601]]</sup></small> | ekpiptei<small><sup>[[V-PAI-3S]]</sup></small>
+[^1]: ==TR+Byz==: falls out | **<big>[[G1601|ἐκπίπτει]]</big>** | ekpiptei<small><sup>[[V-PAI-3S]]</sup></small>

@@ -7,14 +7,14 @@ And thirty and six thousand beeves,
 36,000 cattle,<small><sub>**MT:**</sub></small>
 [[Num.31.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.43|<< Numbers 31:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.45|Numbers 31:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| oxen -- | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| thousand; | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| oxen -- | **<big>[[G1016\|βόες]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| thousand; | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[Num.31.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.43|<< Numbers 31:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.45|Numbers 31:45 >>]]</td></tr></table>
 
 

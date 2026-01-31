@@ -7,18 +7,18 @@ A wise [man] feareth, and departeth from evil: but the fool rageth, and is confi
 A wise man fears and turns from evil, but a fool is careless and reckless.<small><sub>**MT:**</sub></small>
 [[Prov.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.15|<< Proverbs 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.17|Proverbs 14:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A wise man, | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| fearing, | <big><span class="asgreek">φοβηθείς</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| turns aside | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| evil; | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| fool, | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| yielding to himself, | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| mixes in | <big><span class="asgreek">μίγνυται</span></big> <sup><small><small>[[G3396]]</small></small></sup> |
-| with \[the\] lawless one. | <big><span class="asgreek">ανόμω</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| A wise man, | **<big>[[G4680\|σοφός]]</big>** |
+| fearing, | **<big>[[G5399\|φοβηθείς]]</big>** |
+| turns aside | **<big>[[G1578\|εξέκλινεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| evil; | **<big>[[G2556\|κακού]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| fool, | **<big>[[G0878\|άφρων]]</big>** |
+| yielding to himself, | **<big>[[G1438\|εαυτώ]]</big>** **<big>[[G3982\|πεποιθώς]]</big>** |
+| mixes in | **<big>[[G3396\|μίγνυται]]</big>** |
+| with \[the\] lawless one. | **<big>[[G0459\|ανόμω]]</big>** |
 [[Prov.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.15|<< Proverbs 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.17|Proverbs 14:17 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַרְגֹּב‎</span></big> **ʼArgôb** <small>*(ar-gobe')*</small> ==**Argob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎רֶגֶב‎</span><sup><small>[[H7263]]</small></sup>; stony</small>
+**<big><span class="ashebrew">‎אַרְגֹּב‎</span></big>** **ʼArgôb** <small>*(ar-gobe')*</small> ==**Argob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H7263|‎רֶגֶב‎]]</big>**; stony</small>
 
 $\quad$ Argob.
 - § Argob = *"heap of clods"*

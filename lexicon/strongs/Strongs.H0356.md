@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵילוֹן‎</span></big> **ʼÊylôwn** <small>*(ay-lone')*</small> ==**Elon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אֵלוֹן</span> **ʼÊlôwn** <small>*(ay-lone')*</small> ; or <span class="ashebrew">אֵילֹן</span> **ʼÊylôn** <small>*(ay-lone')*</small> ; from <span class="ashebrew">‎אַיִל‎</span><sup><small>[[H0352]]</small></sup>; oak-grove</small>
+**<big><span class="ashebrew">‎אֵילוֹן‎</span></big>** **ʼÊylôwn** <small>*(ay-lone')*</small> ==**Elon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אֵלוֹן</span></big>** **ʼÊlôwn** <small>*(ay-lone')*</small> ; or **<big><span class="ashebrew">אֵילֹן</span></big>** **ʼÊylôn** <small>*(ay-lone')*</small> ; from **<big>[[H0352|‎אַיִל‎]]</big>**; oak-grove</small>
 
 $\quad$ Elon.
 - § Elon = *"terebinth, mighty"*

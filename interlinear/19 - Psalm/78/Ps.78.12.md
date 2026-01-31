@@ -6,16 +6,16 @@ He worked wonders before their fathers in the land of Egypt, in the region of Zo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.11|<< Psalms 78:11]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.13|Psalms 78:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| before  | <span class="ashebrew"><big>נֶ֣גֶד </big></span><small><small><sup>[[H5048]]</sup></small></small> &#8207;| Ne.ged <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors their  | <span class="ashebrew"><big>אֲ֭בוֹתָ </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'A.vo.to <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  | <span class="ashebrew"><big>עָ֣שָׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'A.sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonder[s]  | <span class="ashebrew"><big>פֶ֑לֶא </big></span><small><small><sup>[[H6382]]</sup></small></small> &#8207;| Fe.le' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] land of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֣יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] region of  | <span class="ashebrew"><big>שְׂדֵה </big></span><small><small><sup>[[H7704G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| se.deh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zoan  | <span class="ashebrew"><big>צֹֽעַן </big></span><small><small><sup>[[H6814]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Tzo.'an <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  |**<big>&#8207;[[H0001G\|אֲ֭בוֹתָ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'A.vo.to<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6213A\|עָ֣שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonder[s]  |**<big>&#8207;[[H6382\|פֶ֑לֶא]]&#8207; </big>**| Fe.le'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֣יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] region of  |**<big>&#8207;[[H7704G\|שְׂדֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.deh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zoan  |**<big>&#8207;[[H6814\|צֹֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tzo.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.11|<< Psalms 78:11]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.13|Psalms 78:13 >>]]</td></tr></table>
 
 

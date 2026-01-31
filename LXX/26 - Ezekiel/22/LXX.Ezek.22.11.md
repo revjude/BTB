@@ -7,31 +7,31 @@ And one hath committed abomination with his neighbour’s wife; and another hath
 One man commits an abomination with his neighbor’s wife; another wickedly defiles his daughter-in-law; and yet another violates his sister, his own father’s daughter.<small><sub>**MT:**</sub></small>
 [[Ezek.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.10|<< Ezekiel 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.12|Ezekiel 22:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| with the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| acted lawlessly; | <big><span class="asgreek">ηνόμουν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter-in-law | <big><span class="asgreek">νύμφην</span></big> <sup><small><small>[[G3565]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| defiled | <big><span class="asgreek">εμίαινεν</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| impiety; | <big><span class="asgreek">ασεβεία</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sister | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| abased | <big><span class="asgreek">εταπείνουν</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Each | **<big>[[G1538\|έκαστος]]</big>** |
+| with the | **<big>[[G3588\|την]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| acted lawlessly; | **<big>[[G6349\|ηνόμουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his daughter-in-law | **<big>[[G3565\|νύμφην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| defiled | **<big>[[G3392\|εμίαινεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| impiety; | **<big>[[G0763\|ασεβεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sister | **<big>[[G0079\|αδελφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| abased | **<big>[[G5013\|εταπείνουν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Ezek.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.10|<< Ezekiel 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.12|Ezekiel 22:12 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ And Huzzab shall be led away captive, she shall be brought up, and her maids sha
 It is decreed that the city be exiled and carried away; her maidservants moan like doves, and beat upon their breasts.<small><sub>**MT:**</sub></small>
 [[Nah.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.6|<< Nahum 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.8|Nahum 2:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| support | <big><span class="asgreek">υπόστασις</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| was uncovered; | <big><span class="asgreek">απεκαλύφθη</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">άυτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ascended, | <big><span class="asgreek">ανέβαινε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her maidservants | <big><span class="asgreek">δούλαι</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were led \[away\] | <big><span class="asgreek">ήγοντο</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| doves, | <big><span class="asgreek">περιστεραί</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
-| uttering sounds | <big><span class="asgreek">φθεγγόμεναι</span></big> <sup><small><small>[[G5350]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their hearts. | <big><span class="asgreek">καρδίαις</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| support | **<big>[[G5287\|υπόστασις]]</big>** |
+| was uncovered; | **<big>[[G0601\|απεκαλύφθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|άυτη]]</big>** |
+| ascended, | **<big>[[G0305\|ανέβαινε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her maidservants | **<big>[[G1399\|δούλαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were led \[away\] | **<big>[[G0071\|ήγοντο]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| doves, | **<big>[[G4058\|περιστεραί]]</big>** |
+| uttering sounds | **<big>[[G5350\|φθεγγόμεναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their hearts. | **<big>[[G2588\|καρδίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Nah.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.6|<< Nahum 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.8|Nahum 2:8 >>]]</td></tr></table>
 
 

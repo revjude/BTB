@@ -7,19 +7,19 @@ Help me, O LORD my God: O save me according to thy mercy:
 Help me, O LORD my God; save me according to Your loving devotion.<small><sub>**MT:**</sub></small>
 [[Ps.109.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.25|<< Psalm 109:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.27|Psalm 109:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Help | <big><span class="asgreek">βοήθησόν</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy! | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Help | **<big>[[G0997\|βοήθησόν]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deliver | **<big>[[G4982\|σώσόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy! | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.109.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.25|<< Psalm 109:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.27|Psalm 109:27 >>]]</td></tr></table>
 
 

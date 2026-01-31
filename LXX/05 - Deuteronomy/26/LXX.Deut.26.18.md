@@ -7,24 +7,24 @@ And the LORD hath avouched thee this day to be his peculiar people, as he hath p
 And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments,<small><sub>**MT:**</sub></small>
 [[Deut.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.17|<< Deuteronomy 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.19|Deuteronomy 26:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| took | <big><span class="asgreek">είλατό</span></big> <sup><small><small>[[G0138]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| for you to be | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a prized | <big><span class="asgreek">περιούσιον</span></big> <sup><small><small>[[G4041]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to you -- | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for you\] to guard | <big><span class="asgreek">φυλάττειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his commandments; | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| took | **<big>[[G0138\|είλατό]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| for you to be | **<big>[[G1096\|γενέσθαι]]</big>** **<big>[[G1473\|σε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| a prized | **<big>[[G4041\|περιούσιον]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| he spoke | **<big>[[G2036\|είπε]]</big>** |
+| to you -- | **<big>[[G1473\|σοι]]</big>** |
+| \[for you\] to guard | **<big>[[G5442\|φυλάττειν]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his commandments; | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.17|<< Deuteronomy 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.19|Deuteronomy 26:19 >>]]</td></tr></table>
 
 

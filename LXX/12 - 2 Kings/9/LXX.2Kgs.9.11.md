@@ -7,38 +7,38 @@ Then Jehu came forth to the servants of his lord: and [one] said unto him, [Is] 
 When Jehu went out to the servants of his master, they asked, “Is everything all right? Why did this madman come to you?” “You know his kind and their babble,” he replied.<small><sub>**MT:**</sub></small>
 [[2Kgs.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.10|<< 2 Kings 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.12|2 Kings 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his master, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Peace? | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| What \[is it\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overcome by convulsions | <big><span class="asgreek">επίληπτος</span></big> <sup><small><small>[[G7429]]</small></small></sup> |
-| this \[one\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδατε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his meditation. | <big><span class="asgreek">αδολεσχίαν</span></big> <sup><small><small>[[G6140]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehu | **<big>[[H3058\|Ιού]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| servants | **<big>[[G3816\|παίδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his master, | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Peace? | **<big>[[G1515\|ειρήνη]]</big>** |
+| What \[is it\] | **<big>[[G5100\|τι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| overcome by convulsions | **<big>[[G7429\|επίληπτος]]</big>** |
+| this \[one\] | **<big>[[G3778\|ούτος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| know | **<big>[[G1492\|οίδατε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man, | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his meditation. | **<big>[[G6140\|αδολεσχίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.10|<< 2 Kings 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.12|2 Kings 9:12 >>]]</td></tr></table>
 
 

@@ -7,38 +7,38 @@ Wherein [was] written, It is reported among the heathen, and Gashmu saith [it, t
 that read: “It is reported among the nations—and Geshem agrees—that you and the Jews are plotting to revolt, and this is why you are building the wall. According to these reports, you are to become their king,<small><sub>**MT:**</sub></small>
 [[Neh.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.5|<< Nehemiah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.7|Nehemiah 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| written | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| it was heard, | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Geshem | <big><span class="asgreek">Γησάμ</span></big> <sup><small><small>[[H1654]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίοι</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| are considering | <big><span class="asgreek">λογίζεσθε</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| to defect. | <big><span class="asgreek">αποστατήσαι</span></big> <sup><small><small>[[G6489]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are building | <big><span class="asgreek">οικοδομείς</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should be | <big><span class="asgreek">γίνη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| written | **<big>[[G1125\|γεγραμμένον]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| Among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνεσιν]]</big>** |
+| it was heard, | **<big>[[G0191\|ηκούσθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Geshem | **<big>[[H1654\|Γησάμ]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίοι]]</big>** |
+| are considering | **<big>[[G3049\|λογίζεσθε]]</big>** |
+| to defect. | **<big>[[G6489\|αποστατήσαι]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are building | **<big>[[G3618\|οικοδομείς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall, | **<big>[[G5038\|τείχος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| should be | **<big>[[G1096\|γίνη]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| king. | **<big>[[G0935\|βασιλέα]]</big>** |
 [[Neh.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.5|<< Nehemiah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.7|Nehemiah 6:7 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ And Adam named his wife Eve, because she would be the mother of all the living.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.19|<< Genesis 3:19]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.21|Genesis 3:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he called  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקְרָ֧א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yik.Ra' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the man  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָדָ֛ם </big></span><small><small><sup>[[H0120H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֥ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wife his  | <span class="ashebrew"><big>אִשְׁתּ֖ </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ish.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eve  | <span class="ashebrew"><big>חַוָּ֑ה </big></span><small><small><sup>[[H2332]]</sup></small></small> &#8207;| cha.Vah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  | <span class="ashebrew"><big>הִ֥וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she was  | <span class="ashebrew"><big>הָֽיְתָ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mother of  | <span class="ashebrew"><big>אֵ֥ם </big></span><small><small><sup>[[H0517]]</sup></small></small> &#8207;| 'em <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| living [person]  | <span class="ashebrew"><big>חָֽי </big></span><small><small><sup>[[H2416A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the man  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0120H\|אָדָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  |**<big>&#8207;[[H0802H\|אִשְׁתּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eve  |**<big>&#8207;[[H2332\|חַוָּ֑ה]]&#8207; </big>**| cha.Vah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִ֥וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she was  |**<big>&#8207;[[H1961\|הָֽיְתָ֖ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mother of  |**<big>&#8207;[[H0517\|אֵ֥ם]]&#8207; </big>**| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living [person]  |**<big>&#8207;[[H2416A\|חָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.19|<< Genesis 3:19]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.21|Genesis 3:21 >>]]</td></tr></table>
 
 

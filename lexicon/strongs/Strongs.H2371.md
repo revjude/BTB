@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲזָאֵל‎</span></big> **Chăzâʼêl** <small>*(khaz-aw-ale')*</small> ==**Hazael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חֲזָהאֵל</span> **Chăzâhʼêl** <small>*(khazaw-ale')*</small>; from <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God has seen</small>
+**<big><span class="ashebrew">‎חֲזָאֵל‎</span></big>** **Chăzâʼêl** <small>*(khaz-aw-ale')*</small> ==**Hazael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲזָהאֵל</span></big>** **Chăzâhʼêl** <small>*(khazaw-ale')*</small>; from **<big>[[H2372|‎חָזָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God has seen</small>
 
 $\quad$ Hazael.
 - § Hazael = *"one who sees God"*

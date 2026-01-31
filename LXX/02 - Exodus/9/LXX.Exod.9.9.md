@@ -7,41 +7,41 @@ And it shall become small dust in all the land of Egypt, and shall be a boil bre
 It will become fine dust over all the land of Egypt, and festering boils will break out on man and beast throughout the land.”<small><sub>**MT:**</sub></small>
 [[Exod.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.8|<< Exodus 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.10|Exodus 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let there become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a cloud of dust | <big><span class="asgreek">κονιορτός</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt! | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[creatures\] | <big><span class="asgreek">τετράποδα</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| sores | <big><span class="asgreek">έλκη</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| of boils | <big><span class="asgreek">φλυκτίδες</span></big> <sup><small><small>[[G9649]]</small></small></sup> |
-| breaking out | <big><span class="asgreek">αναζέουσαι</span></big> <sup><small><small>[[G6280]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[creatures\], | <big><span class="asgreek">τετράποσι</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| let there become | **<big>[[G1096\|γενηθήτω]]</big>** |
+| a cloud of dust | **<big>[[G2868\|κονιορτός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt! | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0444\|ανθρώπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| four-footed \[creatures\] | **<big>[[G5074\|τετράποδα]]</big>** |
+| sores | **<big>[[G1668\|έλκη]]</big>** |
+| of boils | **<big>[[G9649\|φλυκτίδες]]</big>** |
+| breaking out | **<big>[[G6280\|αναζέουσαι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| both | **<big>[[G5037\|τε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| men, | **<big>[[G0444\|ανθρώποις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| four-footed \[creatures\], | **<big>[[G5074\|τετράποσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.8|<< Exodus 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.10|Exodus 9:10 >>]]</td></tr></table>
 
 

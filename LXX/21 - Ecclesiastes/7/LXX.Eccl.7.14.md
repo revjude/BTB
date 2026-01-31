@@ -7,38 +7,38 @@ In the day of prosperity be joyful, but in the day of adversity consider: God al
 In the day of prosperity, be joyful, but in the day of adversity, consider this: God has made one of these along with the other, so that a man cannot discover anything that will come after him.<small><sub>**MT:**</sub></small>
 [[Eccl.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.13|<< Ecclesiastes 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.15|Ecclesiastes 7:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of goodness | <big><span class="asgreek">αγαθωσύνης</span></big> <sup><small><small>[[G0019]][[G1473]]</small></small></sup> |
-| live | <big><span class="asgreek">ζήθι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| good! | <big><span class="asgreek">αγαθώ</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| look \[out\] | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of evil! | <big><span class="asgreek">κακίας</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| Behold! | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| one | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| harmony | <big><span class="asgreek">σύμφωνον</span></big> <sup><small><small>[[G9289]]</small></small></sup> |
-| with these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| caused | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| speech, | <big><span class="asgreek">λαλιάς</span></big> <sup><small><small>[[G2981]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should not find | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| anything | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of goodness | **<big>[[G0019\|αγαθωσύνης]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| live | **<big>[[G2198\|ζήθι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| good! | **<big>[[G0018\|αγαθώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| look \[out\] | **<big>[[G1492\|ίδε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of evil! | **<big>[[G2549\|κακίας]]</big>** |
+| Behold! | **<big>[[G1492\|ίδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| one | **<big>[[G3778\|τούτο]]</big>** |
+| harmony | **<big>[[G9289\|σύμφωνον]]</big>** |
+| with these | **<big>[[G3778\|τούτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| caused | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| speech, | **<big>[[G2981\|λαλιάς]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should not find | **<big>[[G3361\|μη]]</big>** **<big>[[G2147\|εύρη]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| anything | **<big>[[G3762\|ουδέν]]</big>** |
 [[Eccl.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.13|<< Ecclesiastes 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.15|Ecclesiastes 7:15 >>]]</td></tr></table>
 
 

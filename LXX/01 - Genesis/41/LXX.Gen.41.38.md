@@ -10,22 +10,22 @@ And Pharaoh said unto his servants, Can we find [such a one] as this [is], a man
 So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”<small><sub>**MT:**</sub></small>
 [[Gen.41.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.37|<< Genesis 41:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.39|Genesis 41:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Φαράω</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| we find | <big><span class="asgreek">ευρήσομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιούτον</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh said | **<big>[[G2036\|είπε]]</big>** **<big>[[G5328\|Φαράω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| we find | **<big>[[G2147\|ευρήσομεν]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| such | **<big>[[G5108\|τοιούτον]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| has | **<big>[[G2192\|έχει]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| him? | **<big>[[G1473\|αυτώ]]</big>** |
 [[Gen.41.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.37|<< Genesis 41:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.39|Genesis 41:39 >>]]</td></tr></table>
 
 

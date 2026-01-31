@@ -6,22 +6,22 @@ If he vows an animal that may be brought as an offering to the LORD, any such an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.8|<< Leviticus 27:8]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.10|Leviticus 27:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and if  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an animal  | <span class="ashebrew"><big>בְּהֵמָ֔ה </big></span><small><small><sup>[[H0929]]</sup></small></small> &#8207;| be.he.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people will present  | <span class="ashebrew"><big>יַקְרִ֧יבוּ </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| yak.Ri.vu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּ֛ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HRd]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a present  | <span class="ashebrew"><big>קָרְבָּ֖ן </big></span><small><small><sup>[[H7133A]]</sup></small></small> &#8207;| kor.ban <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּל֩ </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone will give  | <span class="ashebrew"><big>יִתֵּ֥ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּ֛ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  | <span class="ashebrew"><big>יִֽהְיֶה </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yih.yeh- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a holy thing  | <span class="ashebrew"><big>קֹּֽדֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an animal  |**<big>&#8207;[[H0929\|בְּהֵמָ֔ה]]&#8207; </big>**| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will present  |**<big>&#8207;[[H7126H\|יַקְרִ֧יבוּ]]&#8207; </big>**| yak.Ri.vu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּ֛]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a present  |**<big>&#8207;[[H7133A\|קָרְבָּ֖ן]]&#8207; </big>**| kor.ban<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּל֩]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will give  |**<big>&#8207;[[H5414G\|יִתֵּ֥ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּ֛]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|יִֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a holy thing  |**<big>&#8207;[[H6944G\|קֹּֽדֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.8|<< Leviticus 27:8]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.10|Leviticus 27:10 >>]]</td></tr></table>
 
 

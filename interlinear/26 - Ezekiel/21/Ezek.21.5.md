@@ -6,20 +6,20 @@ Then all flesh will know that I, the LORD, have taken My sword from its sheath, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.4|<< Ezekiel 21:4]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.6|Ezekiel 21:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they will know  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָֽדְעוּ֙ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.de.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flesh  | <span class="ashebrew"><big>בָּשָׂ֔ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have brought out  | <span class="ashebrew"><big>הוֹצֵ֥אתִי </big></span><small><small><sup>[[H3318H]]</sup></small></small> &#8207;| ho.Tze.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sword my  | <span class="ashebrew"><big>חַרְבִּ֖ </big></span><small><small><sup>[[H2719]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| char.B <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from sheath its  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>תַּעְרָ֑ </big></span><small><small><sup>[[H8593]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ta'.Ra <small><sup>[[HNcbsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go back  | <span class="ashebrew"><big>תָשׁ֖וּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ta.Shuv <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עֽוֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָֽדְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  |**<big>&#8207;[[H1320\|בָּשָׂ֔ר]]&#8207; </big>**| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have brought out  |**<big>&#8207;[[H3318H\|הוֹצֵ֥אתִי]]&#8207; </big>**| ho.Tze.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sword my  |**<big>&#8207;[[H2719\|חַרְבִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| char.B<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from sheath its  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8593\|תַּעְרָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ta'.Ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go back  |**<big>&#8207;[[H7725G\|תָשׁ֖וּב]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.4|<< Ezekiel 21:4]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.6|Ezekiel 21:6 >>]]</td></tr></table>
 
 

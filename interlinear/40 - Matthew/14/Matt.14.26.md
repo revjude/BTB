@@ -6,29 +6,29 @@ When the disciples saw Him walking on the sea, they were terrified. “It’s a 
 <small><sub>**Literal:**</sub></small>
 <the> and the disciples having seen Him on the sea walking they were troubled saying that A ghost it is! And in <the> fear they cried out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.25|<< Matthew 14:25]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.27|Matthew 14:27 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<big><span class="asgreek">Οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn»4»4+SBL+WH+Treg»4+TR»4+Byz»4">NKO</abbr> | |
-| and [^1] |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
-| the disciples |<big><span class="asgreek">μαθηταὶ</span></big> <small><small><sup>[[G3101]]</sup></small></small> |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn»2+SBL+WH+Treg»2+TR»2+Byz»2">NKO</abbr> | |
-| having seen |<big><span class="asgreek">ἰδόντες</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [^2] |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| sea [^3] |<big><span class="asgreek">θαλάσσης</span></big> <small><small><sup>[[G2281]]</sup></small></small> |thalassēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| walking |<big><span class="asgreek">περιπατοῦντα</span></big> <small><small><sup>[[G4043]]</sup></small></small> |peripatounta <small><sup>[[V-PAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were troubled |<big><span class="asgreek">ἐταράχθησαν</span></big> <small><small><sup>[[G5015]]</sup></small></small> |etarachthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying |<big><span class="asgreek">λέγοντες</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| A ghost |<big><span class="asgreek">φάντασμά</span></big> <small><small><sup>[[G5326]]</sup></small></small> |phantasma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is! |<big><span class="asgreek">ἐστιν,</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fear |<big><span class="asgreek">φόβου</span></big> <small><small><sup>[[G5401]]</sup></small></small> |phobou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they cried out. |<big><span class="asgreek">ἔκραξαν.</span></big> <small><small><sup>[[G2896]]</sup></small></small> |ekraxan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn»4»4+SBL+WH+Treg»4+TR»4+Byz»4">NKO</abbr> | |
+| and [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
+| the disciples |**<big>[[G3101\|μαθηταὶ]]</big>**  |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn»2+SBL+WH+Treg»2+TR»2+Byz»2">NKO</abbr> | |
+| having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [^2] |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| sea [^3] |**<big>[[G2281\|θαλάσσης]]</big>**  |thalassēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| walking |**<big>[[G4043\|περιπατοῦντα]]</big>**  |peripatounta <small><sup>[[V-PAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were troubled |**<big>[[G5015\|ἐταράχθησαν]]</big>**  |etarachthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| A ghost |**<big>[[G5326\|φάντασμά]]</big>**  |phantasma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is! |**<big>[[G1510\|ἐστιν,]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fear |**<big>[[G5401\|φόβου]]</big>**  |phobou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they cried out. |**<big>[[G2896\|ἔκραξαν.]]</big>**  |ekraxan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.25|<< Matthew 14:25]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.27|Matthew 14:27 >>]]</td></tr></table>
 
-[^1]: ==Tyn+Treg+TR+Byz==: and | <span class="asgreek">καὶ</span><small><sup>[[G2532]]</sup></small> | kai<small><sup>[[CONJ]]</sup></small>
-[^2]: ==TR+Byz==: the | <span class="asgreek">τὴν</span><small><sup>[[G3588]]</sup></small> | tēn<small><sup>[[T-ASF]]</sup></small>
-[^3]: ==TR+Byz==: sea | <span class="asgreek">θάλασσαν</span><small><sup>[[G2281]]</sup></small> | thalassan<small><sup>[[N-ASF]]</sup></small>
+[^1]: ==Tyn+Treg+TR+Byz==: and | **<big>[[G2532|καὶ]]</big>** | kai<small><sup>[[CONJ]]</sup></small>
+[^2]: ==TR+Byz==: the | **<big>[[G3588|τὴν]]</big>** | tēn<small><sup>[[T-ASF]]</sup></small>
+[^3]: ==TR+Byz==: sea | **<big>[[G2281|θάλασσαν]]</big>** | thalassan<small><sup>[[N-ASF]]</sup></small>

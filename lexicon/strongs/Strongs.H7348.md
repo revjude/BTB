@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְחוּם‎</span></big> **Rᵉchûwm** <small>*(rekh-oom')*</small> ==**Rehum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎רַחוּם‎</span><sup><small>[[H7349]]</small></sup></small>
+**<big><span class="ashebrew">‎רְחוּם‎</span></big>** **Rᵉchûwm** <small>*(rekh-oom')*</small> ==**Rehum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H7349|‎רַחוּם‎]]</big>**</small>
 
 $\quad$ Rehum.
 - § Rehum = *"compassion"*

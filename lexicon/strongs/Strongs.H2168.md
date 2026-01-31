@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָמַר‎</span></big> **zâmar** <small>*(zaw-mar')*</small> ==**to prune**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎זָמַר‎</span><sup><small>[[H2167]]</small></sup>, <span class="ashebrew">‎סָמַר‎</span><sup><small>[[H5568]]</small></sup>, <span class="ashebrew">‎צֶמֶר‎</span><sup><small>[[H6785]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זָמַר‎</span></big>** **zâmar** <small>*(zaw-mar')*</small> ==**to prune**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2167|‎זָמַר‎]]</big>**, **<big>[[H5568|‎סָמַר‎]]</big>**, **<big>[[H6785|‎צֶמֶר‎]]</big>**)</small>
 
 $\quad$ prune.
 - ***to trim*** (a vine)

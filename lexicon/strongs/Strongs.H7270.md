@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָגַל‎</span></big> **râgal** <small>*(raw-gal')*</small> ==**to spy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root;  also as denominative from <span class="ashebrew">‎רֶגֶל‎</span><sup><small>[[H7272]]</small></sup></small>
+**<big><span class="ashebrew">‎רָגַל‎</span></big>** **râgal** <small>*(raw-gal')*</small> ==**to spy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root;  also as denominative from **<big>[[H7272|‎רֶגֶל‎]]</big>**</small>
 
 $\quad$ backbite, search, slander, (e-) spy (out), teach to go, view.
 - ***to walk along***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1b1)** to slander
 $\quad$ $\quad$ **1b2)** to go about as explorer, spy
 $\quad$ **1c)** (Tiphel) to teach to walk
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δολόω</span><sup><small>[[G1389]]</small></sup> · <span class="asgreek">κατασκοπέω</span><sup><small>[[G2684]]</small></sup> · <span class="asgreek">κατάσκοπος</span><sup><small>[[G2685]]</small></sup>
+<small>See Greek: </small>**<big>[[G1389|δολόω]]</big>** · **<big>[[G2684|κατασκοπέω]]</big>** · **<big>[[G2685|κατάσκοπος]]</big>**

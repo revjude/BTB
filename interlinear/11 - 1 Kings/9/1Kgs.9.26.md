@@ -6,23 +6,23 @@ King Solomon also assembled a fleet of ships at Ezion-geber, which is near Eloth
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.25|<< 1 Kings 9:25]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.27|1 Kings 9:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and ship[s]  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֳנִ֡י </big></span><small><small><sup>[[H0590]]</sup></small></small> &#8207;| vo. <small><sup>[[HC]]</sup></small> 'o.Ni <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he made  | <span class="ashebrew"><big>עָשָׂה֩ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּ֨לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֜ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Ezion  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶצְיֽוֹן </big></span><small><small><sup>[[H6100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'etz.yon- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Geber  | <span class="ashebrew"><big>גֶּ֨בֶר </big></span><small><small><sup>[[H6100]]</sup></small></small> &#8207;| Ge.ver <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֧ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] with  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elath  | <span class="ashebrew"><big>אֵל֛וֹת </big></span><small><small><sup>[[H0359B]]</sup></small></small> &#8207;| 'e.Lot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] shore of  | <span class="ashebrew"><big>שְׂפַ֥ת </big></span><small><small><sup>[[H8193J]]</sup></small></small> &#8207;| se.Fat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea of  | <span class="ashebrew"><big>יַם </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yam- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| reed[s]  | <span class="ashebrew"><big>ס֖וּף </big></span><small><small><sup>[[H5488G]]</sup></small></small> &#8207;| suf <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] land of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Edom  | <span class="ashebrew"><big>אֱדֽוֹם </big></span><small><small><sup>[[H0123G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Dom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and ship[s]  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0590\|אֳנִ֡י]]&#8207; </big>**| vo.<small><sup>[[HC]]</sup></small> 'o.Ni<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H6213H\|עָשָׂה֩]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֨לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֜ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Ezion  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6100\|עֶצְיֽוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'etz.yon-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geber  |**<big>&#8207;[[H6100\|גֶּ֨בֶר]]&#8207; </big>**| Ge.ver<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elath  |**<big>&#8207;[[H0359B\|אֵל֛וֹת]]&#8207; </big>**| 'e.Lot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shore of  |**<big>&#8207;[[H8193J\|שְׂפַ֥ת]]&#8207; </big>**| se.Fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea of  |**<big>&#8207;[[H3220G\|יַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reed[s]  |**<big>&#8207;[[H5488G\|ס֖וּף]]&#8207; </big>**| suf<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  |**<big>&#8207;[[H0123G\|אֱדֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.25|<< 1 Kings 9:25]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.27|1 Kings 9:27 >>]]</td></tr></table>
 
 

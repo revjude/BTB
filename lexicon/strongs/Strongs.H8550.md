@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֻּמִּים‎</span></big> **Tummîym** <small>*(toom-meem')*</small> ==**Thummim**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>plural of <span class="ashebrew">‎תֹּם‎</span><sup><small>[[H8537]]</small></sup></small>
+**<big><span class="ashebrew">‎תֻּמִּים‎</span></big>** **Tummîym** <small>*(toom-meem')*</small> ==**Thummim**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>plural of **<big>[[H8537|‎תֹּם‎]]</big>**</small>
 
 $\quad$ Thummim.
 - § Thummim = *"perfection"*

@@ -6,19 +6,19 @@ So why have you not kept your oath to the LORD and the command that I gave you?�
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.42|<< 1 Kings 2:42]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.44|1 Kings 2:44 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and why?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַדּ֕וּעַ </big></span><small><small><sup>[[H4069]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Du.a' <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have you kept  | <span class="ashebrew"><big>שָׁמַ֔רְתָּ </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| sha.Mar.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] oath of  | <span class="ashebrew"><big>שְׁבֻעַ֣ת </big></span><small><small><sup>[[H7621]]</sup></small></small> &#8207;| she.vu.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the command  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּצְוָ֖ה </big></span><small><small><sup>[[H4687]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mitz.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I commanded  | <span class="ashebrew"><big>צִוִּ֥יתִי </big></span><small><small><sup>[[H6680]]</sup></small></small> &#8207;| tzi.Vi.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>עָלֶֽי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and why?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4069\|מַדּ֕וּעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you kept  |**<big>&#8207;[[H8104G\|שָׁמַ֔רְתָּ]]&#8207; </big>**| sha.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oath of  |**<big>&#8207;[[H7621\|שְׁבֻעַ֣ת]]&#8207; </big>**| she.vu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the command  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4687\|מִּצְוָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I commanded  |**<big>&#8207;[[H6680\|צִוִּ֥יתִי]]&#8207; </big>**| tzi.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H5921A\|עָלֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.42|<< 1 Kings 2:42]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.44|1 Kings 2:44 >>]]</td></tr></table>
 
 

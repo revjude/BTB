@@ -1,5 +1,4 @@
-<span class="ashebrew">‎נַעֲמָה‎</span> <small>***(na.a.mah)***</small> ==**Naamah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time before the Flood, only mentioned at [[Gen.4.22|Gen.4.22]]
--  daughter of: Lamech ([[H3929]]) and Zillah ([[H6741]])
--  sister of: Jabal ([[H2989]]), Jubal ([[H3106]]), Tubal-cain ([[H8423]])
+-  daughter of: Lamech (**<big>[[H3929|לֶמֶךְ]]</big>**) and Zillah (**<big>[[H6741|צִלָּה]]</big>**)
+-  sister of: Jabal (**<big>[[H2989|יָבָל]]</big>**), Jubal (**<big>[[H3106|יוּבַל]]</big>**), Tubal-cain (**<big>[[H8423|תּוּבַל קַיִן]]</big>**)
 -  a town in the lowlands of Judah in Philistia

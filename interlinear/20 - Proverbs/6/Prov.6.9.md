@@ -6,15 +6,15 @@ How long will you lie there, O slacker? When will you get up from your sleep?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.8|<< Proverbs 6:8]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.10|Proverbs 6:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>מָתַ֖י </big></span><small><small><sup>[[H4970]]</sup></small></small> &#8207;| ma.Tai <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O sluggard  | <span class="ashebrew"><big>עָצֵ֥ל </big></span><small><small><sup>[[H6102]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Tzel <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you lie down  | <span class="ashebrew"><big>תִּשְׁכָּ֑ב </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| tish.Kav <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>מָ֝תַ֗י </big></span><small><small><sup>[[H4970]]</sup></small></small> &#8207;| ma.Tai <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you rise  | <span class="ashebrew"><big>תָּק֥וּם </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| ta.Kum <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from sleep your  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שְּׁנָתֶֽ </big></span><small><small><sup>[[H8142]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> she.na.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H4970\|מָתַ֖י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O sluggard  |**<big>&#8207;[[H6102\|עָצֵ֥ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you lie down  |**<big>&#8207;[[H7901G\|תִּשְׁכָּ֑ב]]&#8207; </big>**| tish.Kav<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H4970\|מָ֝תַ֗י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you rise  |**<big>&#8207;[[H6965B\|תָּק֥וּם]]&#8207; </big>**| ta.Kum<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from sleep your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8142\|שְּׁנָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.na.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.8|<< Proverbs 6:8]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.10|Proverbs 6:10 >>]]</td></tr></table>
 
 

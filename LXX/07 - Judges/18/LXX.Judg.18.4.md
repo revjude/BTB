@@ -7,26 +7,26 @@ And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, a
 “Micah has done this and that for me,” he replied, “and he has hired me to be his priest.”<small><sub>**MT:**</sub></small>
 [[Judg.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.3|<< Judges 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.5|Judges 18:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Micah | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hired | <big><span class="asgreek">εμισθώσατό</span></big> <sup><small><small>[[G3409]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a priest. | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| so | **<big>[[G3779\|ούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| did | **<big>[[G4160\|εποίησέ]]</big>** |
+| with me | **<big>[[G1473\|μοι]]</big>** |
+| Micah | **<big>[[H4318\|Μιχά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hired | **<big>[[G3409\|εμισθώσατό]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I became | **<big>[[G1096\|εγενήθην]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a priest. | **<big>[[G2409\|ιερέα]]</big>** |
 [[Judg.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.3|<< Judges 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.5|Judges 18:5 >>]]</td></tr></table>
 
 

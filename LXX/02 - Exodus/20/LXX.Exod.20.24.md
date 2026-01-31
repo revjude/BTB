@@ -7,43 +7,43 @@ An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt
 You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you.<small><sub>**MT:**</sub></small>
 [[Exod.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.23|<< Exodus 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.25|Exodus 20:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| An altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσετέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall sacrifice | <big><span class="asgreek">θύσετε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your whole burnt-offerings, | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance \[offerings\] -- | <big><span class="asgreek">σωτήρια</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I should name | <big><span class="asgreek">επονομάσω</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will come | <big><span class="asgreek">ήξω</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| An altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γης]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσετέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall sacrifice | **<big>[[G2380\|θύσετε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your whole burnt-offerings, | **<big>[[G3646\|ολοκαυτώματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your deliverance \[offerings\] -- | **<big>[[G4992\|σωτήρια]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sheep, | **<big>[[G4263\|πρόβατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your calves, | **<big>[[G3448\|μόσχους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| I should name | **<big>[[G2028\|επονομάσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will come | **<big>[[G2240\|ήξω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Exod.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.23|<< Exodus 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.25|Exodus 20:25 >>]]</td></tr></table>
 
 

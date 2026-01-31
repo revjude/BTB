@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Adoraim</span>, one of the cities fortified by King Rehoboam in Judah.
 - A location only mentioned at [[2Chr.11.9|2Ch.11.9]]; 
-- only referred to as Adoraim<[[H0115]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Adoraim **<big>[[H0115|אֲדוֹרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.51666666666667,34.98333333333333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The exact location of Adoraim is not specified in the Bible, but it was likely s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adoraim | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0115) <small>*Hebrew*</small> | 1x | [2Ch.11.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoraim\*\|reference=2Ch.11.9) |
-All Strong's for **Adoraim**: \[[[H0115]]\]
+| Adoraim | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0115) | 1x | [2Ch.11.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoraim\*\|reference=2Ch.11.9) |
+All entries for **Adoraim**:  **<big>[[H0115|אֲדוֹרַיִם]]</big>**

@@ -10,23 +10,23 @@ The burden of Moab. Because in the night Ar of Moab is laid waste, [and] brought
 This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night!<small><sub>**MT:**</sub></small>
 [[Isa.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| by night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| shall be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[The land of\] Moab | <big><span class="asgreek">Μωαβίτις</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| for by night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| shall be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[land of\] Moab | <big><span class="asgreek">Μωαβίτιδος</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
+| by night | **<big>[[G3571\|νυκτός]]</big>** |
+| shall be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[The land of\] Moab | **<big>[[H4124\|Μωαβίτις]]</big>** |
+| for by night | **<big>[[G3571\|νυκτός]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| shall be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| \[land of\] Moab | **<big>[[H4124\|Μωαβίτιδος]]</big>** |
 [[Isa.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
 

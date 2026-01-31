@@ -7,35 +7,35 @@ For the land is full of adulterers; for because of swearing the land mourneth; t
 For the land is full of adulterers—because of the curse, the land mourns and the pastures of the wilderness have dried up—their course is evil and their power is misused.<small><sub>**MT:**</sub></small>
 [[Jer.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| of adulterers | <big><span class="asgreek">μοιχών</span></big> <sup><small><small>[[G3432]]</small></small></sup> |
-| is full | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] countenance | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of these \[things\] | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| mourned | <big><span class="asgreek">επένθησεν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| were dried up | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pastures | <big><span class="asgreek">νομαί</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their race | <big><span class="asgreek">δρόμος</span></big> <sup><small><small>[[G1408]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wicked, | <big><span class="asgreek">πονηρός</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| of adulterers | **<big>[[G3432\|μοιχών]]</big>** |
+| is full | **<big>[[G4130\|επλήσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] countenance | **<big>[[G4383\|προσώπου]]</big>** |
+| of these \[things\] | **<big>[[G3778\|τούτων]]</big>** |
+| mourned | **<big>[[G3996\|επένθησεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| were dried up | **<big>[[G3583\|εξηράνθησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| pastures | **<big>[[G3542\|νομαί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their race | **<big>[[G1408\|δρόμος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| wicked, | **<big>[[G4190\|πονηρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| thus. | **<big>[[G3779\|ούτως]]</big>** |
 [[Jer.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
 
 

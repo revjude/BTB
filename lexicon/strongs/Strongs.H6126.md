@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַקּוּב‎</span></big> **ʻAqqûwb** <small>*(ak-koob')*</small> ==**Akkub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָקַב‎</span><sup><small>[[H6117]]</small></sup>; insidious</small>
+**<big><span class="ashebrew">‎עַקּוּב‎</span></big>** **ʻAqqûwb** <small>*(ak-koob')*</small> ==**Akkub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6117|‎עָקַב‎]]</big>**; insidious</small>
 
 $\quad$ Akkub.
 - § Akkub = *"insidious"*

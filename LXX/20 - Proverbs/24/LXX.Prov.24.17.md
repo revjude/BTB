@@ -7,19 +7,19 @@ Rejoice not when thine enemy falleth, and let not thine heart be glad when he st
 Do not gloat when your enemy falls, and do not let your heart rejoice when he stumbles,<small><sub>**MT:**</sub></small>
 [[Prov.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.16|<< Proverbs 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.18|Proverbs 24:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should fall | <big><span class="asgreek">πέση</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| rejoice over | <big><span class="asgreek">επιχαρής</span></big> <sup><small><small>[[G7471]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fall | <big><span class="asgreek">υποσκελίσματι</span></big> <sup><small><small>[[G9589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be not lifted up! | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">επαίρου</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should fall | **<big>[[G4098\|πέση]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your enemy | **<big>[[G2190\|εχθρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| rejoice over | **<big>[[G7471\|επιχαρής]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his fall | **<big>[[G9589\|υποσκελίσματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| be not lifted up! | **<big>[[G3361\|μη]]</big>** **<big>[[G1869\|επαίρου]]</big>** |
 [[Prov.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.16|<< Proverbs 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.18|Proverbs 24:18 >>]]</td></tr></table>
 
 

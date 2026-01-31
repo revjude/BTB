@@ -7,20 +7,20 @@ And if the woman be not defiled, but be clean; then she shall be free, and shall
 But if the woman has not defiled herself and is clean, she will be unaffected and able to conceive children.<small><sub>**MT:**</sub></small>
 [[Num.5.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.27|<< Numbers 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.29|Numbers 5:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be defiled | <big><span class="asgreek">μιανθή</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be clean, | <big><span class="asgreek">καθαρά</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she will be innocent, | <big><span class="asgreek">αθώα</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall produce offspring | <big><span class="asgreek">εκσπερματιεί</span></big> <sup><small><small>[[G7146]]</small></small></sup> |
-| of semen. | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be defiled | **<big>[[G3392\|μιανθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be clean, | **<big>[[G2513\|καθαρά]]</big>** **<big>[[G1510\|η]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| she will be innocent, | **<big>[[G0121\|αθώα]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall produce offspring | **<big>[[G7146\|εκσπερματιεί]]</big>** |
+| of semen. | **<big>[[G4690\|σπέρμα]]</big>** |
 [[Num.5.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.27|<< Numbers 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.29|Numbers 5:29 >>]]</td></tr></table>
 
 

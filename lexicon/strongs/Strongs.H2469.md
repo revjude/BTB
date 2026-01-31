@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְדַּי‎</span></big> **Chelday** <small>*(khel-dah'-ee)*</small> ==**Heldai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֵלֶד‎</span><sup><small>[[H2466]]</small></sup>; worldliness</small>
+**<big><span class="ashebrew">‎חֶלְדַּי‎</span></big>** **Chelday** <small>*(khel-dah'-ee)*</small> ==**Heldai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2466|‎חֵלֶד‎]]</big>**; worldliness</small>
 
 $\quad$ Heldai.
 - § Heldai = *"worldly"*

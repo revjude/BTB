@@ -7,16 +7,16 @@ Thou hast shewed thy people hard things: thou hast made us to drink the wine of 
 You have shown Your people hardship; we are staggered from the wine You made us drink.<small><sub>**MT:**</sub></small>
 [[Ps.60.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.2|<< Psalm 60:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.4|Psalm 60:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You showed | <big><span class="asgreek">έδειξας</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hard \[things\]; | <big><span class="asgreek">σκληρά</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| you watered | <big><span class="asgreek">επότισας</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| us \[down\] | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with the\] wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| of vexation. | <big><span class="asgreek">κατανύξεως</span></big> <sup><small><small>[[G2659]]</small></small></sup> |
+| You showed | **<big>[[G1166\|έδειξας]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| hard \[things\]; | **<big>[[G4642\|σκληρά]]</big>** |
+| you watered | **<big>[[G4222\|επότισας]]</big>** |
+| us \[down\] | **<big>[[G1473\|ημάς]]</big>** |
+| \[with the\] wine | **<big>[[G3631\|οίνον]]</big>** |
+| of vexation. | **<big>[[G2659\|κατανύξεως]]</big>** |
 [[Ps.60.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.2|<< Psalm 60:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.4|Psalm 60:4 >>]]</td></tr></table>
 
 

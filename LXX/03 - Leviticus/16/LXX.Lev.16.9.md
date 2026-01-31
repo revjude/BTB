@@ -7,25 +7,25 @@ And Aaron shall bring the goat upon which the LORD’S lot fell, and offer him [
 he shall present the goat chosen by lot for the LORD and sacrifice it as a sin offering.<small><sub>**MT:**</sub></small>
 [[Lev.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.8|<< Leviticus 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.10|Leviticus 16:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron shall bring | <big><span class="asgreek">προσάξει</span></big> <sup><small><small>[[G4317]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young he-goat, | <big><span class="asgreek">χίμαρον</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| came | <big><span class="asgreek">επήλθεν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer it | <big><span class="asgreek">προσοίσει</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Aaron shall bring | **<big>[[G4317\|προσάξει]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| young he-goat, | **<big>[[G9733\|χίμαρον]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| came | **<big>[[G1904\|επήλθεν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lot | **<big>[[G2819\|κλήρος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall offer it | **<big>[[G4374\|προσοίσει]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\]. | **<big>[[G0266\|αμαρτίας]]</big>** |
 [[Lev.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.8|<< Leviticus 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.10|Leviticus 16:10 >>]]</td></tr></table>
 
 

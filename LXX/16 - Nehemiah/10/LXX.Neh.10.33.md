@@ -7,45 +7,45 @@ For the shewbread, and for the continual meat offering, and for the continual bu
 for the showbread, for the regular grain offerings and burnt offerings, for the Sabbath offerings, for the New Moons and appointed feasts, for the holy offerings, for the sin offerings to make atonement for Israel, and for all the duties of the house of our God.<small><sub>**MT:**</sub></small>
 [[Neh.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.32|<< Nehemiah 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.34|Nehemiah 10:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in front, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perpetual | <big><span class="asgreek">ενδελεχισμού</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perpetual | <big><span class="asgreek">ενδελεχισμου</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths, | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new moons, | <big><span class="asgreek">νουμηνιών</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holidays, | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\], | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσασθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| in front, | **<big>[[G4383\|προσώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| perpetual | **<big>[[G7219\|ενδελεχισμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| perpetual | **<big>[[G7219\|ενδελεχισμου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths, | **<big>[[G4521\|σαββάτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| new moons, | **<big>[[G3561\|νουμηνιών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| holidays, | **<big>[[G1859\|εορτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\], | **<big>[[G0039\|άγια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] works | **<big>[[G2041\|έργα]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of our God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Neh.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.32|<< Nehemiah 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.34|Nehemiah 10:34 >>]]</td></tr></table>
 
 

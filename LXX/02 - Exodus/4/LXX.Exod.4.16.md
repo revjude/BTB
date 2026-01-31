@@ -7,26 +7,26 @@ And he shall be thy spokesman unto the people: and he shall be, [even] he shall 
 He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him.<small><sub>**MT:**</sub></small>
 [[Exod.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall speak | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mouth. | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will be to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall speak | **<big>[[G1473\|σοι]]</big>** **<big>[[G2980\|λαλήσει]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| mouth. | **<big>[[G4750\|στόμα]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will be to him | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1510\|έση]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God. | **<big>[[G2316\|θεόν]]</big>** |
 [[Exod.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
 
 

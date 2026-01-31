@@ -7,34 +7,34 @@ And he said, About this season, according to the time of life, thou shalt embrac
 And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God.”<small><sub>**MT:**</sub></small>
 [[2Kgs.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| At | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this time \[next year\], | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| about | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this hour, | <big><span class="asgreek">ώρα</span></big> <sup><small><small>[[G5610]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[and\] living, | <big><span class="asgreek">ζώσα</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be holding | <big><span class="asgreek">περιειληφυία</span></big> <sup><small><small>[[G8736]]</small></small></sup> |
-| a son. | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| No, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| O master, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O man | <big><span class="asgreek">άνθρωπε</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| disappoint | <big><span class="asgreek">διαψεύση</span></big> <sup><small><small>[[G6909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant. | <big><span class="asgreek">δούλην</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| At | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this time \[next year\], | **<big>[[G2540\|καιρόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| about | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this hour, | **<big>[[G5610\|ώρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| \[and\] living, | **<big>[[G2198\|ζώσα]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall be holding | **<big>[[G8736\|περιειληφυία]]</big>** |
+| a son. | **<big>[[G5207\|υιόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| No, | **<big>[[G3361\|μη]]</big>** |
+| O master, | **<big>[[G2962\|κύριε]]</big>** |
+| O man | **<big>[[G0444\|άνθρωπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| disappoint | **<big>[[G6909\|διαψεύση]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your maidservant. | **<big>[[G1399\|δούλην]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[2Kgs.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
 
 

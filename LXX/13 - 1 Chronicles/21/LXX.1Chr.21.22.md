@@ -7,37 +7,37 @@ Then David said to Ornan, Grant me the place of [this] threshingfloor, that I ma
 Then David said to Ornan, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.”<small><sub>**MT:**</sub></small>
 [[1Chr.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.21|<< 1 Chronicles 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.23|1 Chronicles 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Ornan, | <big><span class="asgreek">Ορνάν</span></big> <sup><small><small>[[H0771]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing-floor! | <big><span class="asgreek">άλω</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall build | <big><span class="asgreek">οικοδομήσω</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[its\] money's | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| worth | <big><span class="asgreek">αξίω</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cease | <big><span class="asgreek">παύσεται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| from \[among\] | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Ornan, | **<big>[[H0771\|Ορνάν]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| threshing-floor! | **<big>[[G0257\|άλω]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| I shall build | **<big>[[G3618\|οικοδομήσω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| \[its\] money's | **<big>[[G0694\|αργυρίω]]</big>** |
+| worth | **<big>[[G0514\|αξίω]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| it to me | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall cease | **<big>[[G3973\|παύσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| calamity | **<big>[[G4127\|πληγή]]</big>** |
+| from \[among\] | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
 [[1Chr.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.21|<< 1 Chronicles 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.23|1 Chronicles 21:23 >>]]</td></tr></table>
 
 

@@ -11,29 +11,29 @@ All the rich of the earth will feast and worship; all who go down to the dust wi
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did obeisance | <big><span class="asgreek">προσεκύνησαν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearty | <big><span class="asgreek">πίονες</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fell down | <big><span class="asgreek">προπεσούνται</span></big> <sup><small><small>[[G8907]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνοντες</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lives for him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| ate | **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did obeisance | **<big>[[G4352\|προσεκύνησαν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| hearty | **<big>[[G8798\|πίονες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| fell down | **<big>[[G8907\|προπεσούνται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνοντες]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| lives for him. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G2198\|ζη]]</big>** |
 [[Ps.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.28|<< Psalm 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.30|Psalm 22:30 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ Open thou mine eyes, that I may behold wondrous things out of thy law.
 Open my eyes that I may see wondrous things from Your law.<small><sub>**MT:**</sub></small>
 [[Ps.119.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.17|<< Psalm 119:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.19|Psalm 119:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Uncover | <big><span class="asgreek">αποκάλυψον</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes! | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall contemplate | <big><span class="asgreek">κατανοήσω</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law. | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Uncover | **<big>[[G0601\|αποκάλυψον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes! | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall contemplate | **<big>[[G2657\|κατανοήσω]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wonders | **<big>[[G2297\|θαυμάσια]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your law. | **<big>[[G3551\|νόμου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.17|<< Psalm 119:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.19|Psalm 119:19 >>]]</td></tr></table>
 
 

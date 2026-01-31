@@ -7,41 +7,41 @@ If a man beget an hundred [children], and live many years, so that the days of h
 A man may father a hundred children and live for many years; yet no matter how long he lives, if he is unsatisfied with his prosperity and does not even receive a proper burial, I say that a stillborn child is better off than he.<small><sub>**MT:**</sub></small>
 [[Eccl.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.2|<< Ecclesiastes 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.4|Ecclesiastes 6:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should engender | <big><span class="asgreek">γεννήση</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a hundred, | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| shall live | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| abundant | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| however | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of his years, | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be filled up | <big><span class="asgreek">εμπλησθήσεται</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| goodness, | <big><span class="asgreek">αγαθωσύνης</span></big> <sup><small><small>[[G0019]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| no burial | <big><span class="asgreek">ταφή</span></big> <sup><small><small>[[G5027]]</small></small></sup> <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there be | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Better | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| miscarriage. | <big><span class="asgreek">έκτρωμα</span></big> <sup><small><small>[[G1626]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should engender | **<big>[[G1080\|γεννήση]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| a hundred, | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| shall live | **<big>[[G2198\|ζήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| abundant | **<big>[[G4128\|πλήθος]]</big>** |
+| however | **<big>[[G3739\|ο]]</big>** **<big>[[G5100\|τι]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of his years, | **<big>[[G2094\|ετών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be filled up | **<big>[[G1705\|εμπλησθήσεται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| goodness, | **<big>[[G0019\|αγαθωσύνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| no burial | **<big>[[G5027\|ταφή]]</big>** **<big>[[G3756\|ουκ]]</big>** |
+| there be | **<big>[[G1096\|εγένετο]]</big>** |
+| for him. | **<big>[[G1473\|αυτώ]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| Better | **<big>[[G0018\|αγαθόν]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| miscarriage. | **<big>[[G1626\|έκτρωμα]]</big>** |
 [[Eccl.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.2|<< Ecclesiastes 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.4|Ecclesiastes 6:4 >>]]</td></tr></table>
 
 

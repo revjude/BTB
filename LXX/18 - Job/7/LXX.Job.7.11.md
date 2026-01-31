@@ -7,25 +7,25 @@ Therefore I will not refrain my mouth; I will speak in the anguish of my spirit;
 Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.<small><sub>**MT:**</sub></small>
 [[Job.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.10|<< Job 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.12|Job 7:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Nevertheless | <big><span class="asgreek">ατάρ</span></big> <sup><small><small>[[G6586]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| will I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσομαι</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth; | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| distress | <big><span class="asgreek">ανάγκη</span></big> <sup><small><small>[[G0318]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my spirit; | <big><span class="asgreek">πνεύματός</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \[the\] bitterness | <big><span class="asgreek">πικρία</span></big> <sup><small><small>[[G4088]]</small></small></sup> |
-| of my soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being held in. | <big><span class="asgreek">συνεχόμενος</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| Nevertheless | **<big>[[G6586\|ατάρ]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| will I | **<big>[[G1473\|εγώ]]</big>** |
+| spare | **<big>[[G5339\|φείσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my mouth; | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| distress | **<big>[[G0318\|ανάγκη]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my spirit; | **<big>[[G4151\|πνεύματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will open | **<big>[[G0455\|ανοίξω]]</big>** |
+| \[the\] bitterness | **<big>[[G4088\|πικρία]]</big>** |
+| of my soul | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| being held in. | **<big>[[G4912\|συνεχόμενος]]</big>** |
 [[Job.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.10|<< Job 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.12|Job 7:12 >>]]</td></tr></table>
 
 

@@ -7,46 +7,46 @@ I make a decree, That in every dominion of my kingdom men tremble and fear befor
 I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end.<small><sub>**MT:**</sub></small>
 [[Dan.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I made | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a decree | <big><span class="asgreek">δόγμα</span></big> <sup><small><small>[[G1378]]</small></small></sup> |
-| for the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| rule | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| trembling | <big><span class="asgreek">τρέμοντας</span></big> <sup><small><small>[[G5141]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένους</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Daniel. | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] living God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ζών</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one abiding | <big><span class="asgreek">μένων</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons, | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be destroyed, | <big><span class="asgreek">διαφθαρήσεται</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his dominion | <big><span class="asgreek">κυρεία</span></big> <sup><small><small>[[G6974]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] end. | <big><span class="asgreek">τέλους</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| my presence | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I made | **<big>[[G5087\|ετέθη]]</big>** |
+| a decree | **<big>[[G1378\|δόγμα]]</big>** |
+| for the one | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| rule | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my kingdom | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| trembling | **<big>[[G5141\|τρέμοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένους]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Daniel. | **<big>[[G1158\|Δανιήλ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \[the\] living God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G2198\|ζών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one abiding | **<big>[[G3306\|μένων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eons, | **<big>[[G0165\|αιώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be destroyed, | **<big>[[G1311\|διαφθαρήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his dominion | **<big>[[G6974\|κυρεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] end. | **<big>[[G5056\|τέλους]]</big>** |
 [[Dan.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
 

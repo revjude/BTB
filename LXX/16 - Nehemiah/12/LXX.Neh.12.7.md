@@ -7,22 +7,22 @@ Sallu, Amok, Hilkiah, Jedaiah. These [were] the chief of the priests and of thei
 Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua.<small><sub>**MT:**</sub></small>
 [[Neh.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.6|<< Nehemiah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.8|Nehemiah 12:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sallu, | <big><span class="asgreek">Σαλού</span></big> <sup><small><small>[[H7975b]]</small></small></sup> |
-| Amok, | <big><span class="asgreek">Αμούκ</span></big> <sup><small><small>[[H5987]]</small></small></sup> |
-| Hilkiah, | <big><span class="asgreek">Χελκείας</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
-| Jedaiah. | <big><span class="asgreek">Ωδουϊας</span></big> <sup><small><small>[[H3048]]</small></small></sup> |
-| These \[were\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their brethren | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Jeshua. | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
+| Sallu, | **<big>[[H7975b\|Σαλού]]</big>** |
+| Amok, | **<big>[[H5987\|Αμούκ]]</big>** |
+| Hilkiah, | **<big>[[H2518\|Χελκείας]]</big>** |
+| Jedaiah. | **<big>[[H3048\|Ωδουϊας]]</big>** |
+| These \[were\] | **<big>[[G3778\|ούτοι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests, | **<big>[[G2409\|ιερέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their brethren | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Jeshua. | **<big>[[G2424\|Ιησού]]</big>** |
 [[Neh.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.6|<< Nehemiah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.8|Nehemiah 12:8 >>]]</td></tr></table>
 
 

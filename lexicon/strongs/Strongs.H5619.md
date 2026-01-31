@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָקַל‎</span></big> **çâqal** <small>*(saw-kal')*</small> ==**to stone**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָקַל‎</span></big>** **çâqal** <small>*(saw-kal')*</small> ==**to stone**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (cast, gather out, throw) stone(-s), [idiom] surely.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1c1)** to stone, pelt with stones
 $\quad$ $\quad$ **1c2)** to free from stones (of vineyard, highway)
 $\quad$ **1d)** (Pual) to be stoned to death
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λιθάζω</span><sup><small>[[G3034]]</small></sup> · <span class="asgreek">λιθοβολέω</span><sup><small>[[G3036]]</small></sup> · <span class="asgreek">λίθος</span><sup><small>[[G3037]]</small></sup>
+<small>See Greek: </small>**<big>[[G3034|λιθάζω]]</big>** · **<big>[[G3036|λιθοβολέω]]</big>** · **<big>[[G3037|λίθος]]</big>**

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עַזְמָוֶת‎</span></big> **ʻAzmâveth** <small>*(az-maw'-veth)*</small> ==**Azmaveth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַז‎</span><sup><small>[[H5794]]</small></sup> and <span class="ashebrew">‎מָוֶת‎</span><sup><small>[[H4194]]</small></sup>; strong one of death</small>
+**<big><span class="ashebrew">‎עַזְמָוֶת‎</span></big>** **ʻAzmâveth** <small>*(az-maw'-veth)*</small> ==**Azmaveth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5794|‎עַז‎]]</big>** and **<big>[[H4194|‎מָוֶת‎]]</big>**; strong one of death</small>
 
-$\quad$ Azmaveth. See also <span class="ashebrew">‎בֵּית עַזְמָוֶת‎</span><sup><small>[[H1041]]</small></sup>.
+$\quad$ Azmaveth. See also **<big>[[H1041|‎בֵּית עַזְמָוֶת‎]]</big>**.
 - § Azmaveth = *"strong unto death"*
 - ***Azmaveth***, the name of three Israelites and of a place in Palestine
 

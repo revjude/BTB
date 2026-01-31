@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּהַל‎</span></big> **bâhal** <small>*(baw-hal')*</small> ==**to dismay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּהַל‎</span></big>** **bâhal** <small>*(baw-hal')*</small> ==**to dismay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (make) affrighted (afraid, amazed, dismayed, rash), (be, get, make) haste(-n, -y, -ily), (give) speedy(-ily), thrust out, trouble, vex.
@@ -19,4 +19,4 @@ $\quad$ **1d)** (Hiphil)
 $\quad$ $\quad$ **1d1)** to hasten, hurry, make haste
 $\quad$ $\quad$ **1d2)** to dismay, terrify
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξέρχομαι</span><sup><small>[[G1831]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup> · <span class="asgreek">σπεύδω</span><sup><small>[[G4692]]</small></sup> · <span class="asgreek">σπουδάζω</span><sup><small>[[G4704]]</small></sup> · <span class="asgreek">σπουδή</span><sup><small>[[G4710]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G1831|ἐξέρχομαι]]</big>** · **<big>[[G3886|παραλύω]]</big>** · **<big>[[G3935|παρίημι]]</big>** · **<big>[[G4692|σπεύδω]]</big>** · **<big>[[G4704|σπουδάζω]]</big>** · **<big>[[G4710|σπουδή]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

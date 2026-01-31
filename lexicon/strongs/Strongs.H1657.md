@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גֹּשֶׁן‎</span></big> **Gôshen** <small>*(go'-shen)*</small> ==**Goshen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎גֹּשֶׁן‎</span></big>** **Gôshen** <small>*(go'-shen)*</small> ==**Goshen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of Egyptian origin</small>
 
 $\quad$ Goshen.

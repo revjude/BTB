@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μέριμνα</span></span>, <span class="asgreek">-ης, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.55.22|Ps 54 (55):22]] (<span class="ashebrew">יְהַב</span> <small><sup>[[H3052]]</sup></small>), [[LXX.Job.11.18|Jb 11:18]], [[Sir.30.24|Si 30:24]], al;\]</span>  <span class="asderivation">(in cl. chiefly poët.)</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μέριμνα</span></span>, <span class="asgreek">-ης, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.55.22|Ps 54 (55):22]] (**<big>[[H3052|יְהַב]]</big>**), [[LXX.Job.11.18|Jb 11:18]], [[Sir.30.24|Si 30:24]], al;\]</span>  <span class="asderivation">(in cl. chiefly poët.)</span> </span>
 <span class="asitalic">care</span>, <span class="asitalic">anxiety</span>: [[1Pet.5.7|I Pe 5:7]]; pl., [[Luke.8.14|Lk 8:14]] [[Luke.21.34|21:34]]; c. gen. obj., [[Matt.13.22|Mt 13:22]], [[Mark.4.19|Mk 4:19]], [[2Cor.11.28|II Co 11:28]].†
 
 **Abbott-Smith References**

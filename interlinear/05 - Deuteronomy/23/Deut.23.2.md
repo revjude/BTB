@@ -6,21 +6,21 @@ No one of illegitimate birth may enter the assembly of the LORD, nor may any of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.1|<< Deuteronomy 23:1]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.3|Deuteronomy 23:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go  | <span class="ashebrew"><big>יָבֹ֥א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a bastard  | <span class="ashebrew"><big>מַמְזֵ֖ר </big></span><small><small><sup>[[H4464]]</sup></small></small> &#8207;| mam.Zer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] assembly of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קְהַ֣ל </big></span><small><small><sup>[[H6951]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> k.Hal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּ֚ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a generation  | <span class="ashebrew"><big>דּ֣וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| Dor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tenth  | <span class="ashebrew"><big>עֲשִׂירִ֔י </big></span><small><small><sup>[[H6224]]</sup></small></small> &#8207;| 'a.si.Ri <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go  | <span class="ashebrew"><big>יָ֥בֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ya.vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> him  | <span class="ashebrew"><big>ל֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] assembly of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קְהַ֥ל </big></span><small><small><sup>[[H6951]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> k.Hal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go  |**<big>&#8207;[[H0935G\|יָבֹ֥א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bastard  |**<big>&#8207;[[H4464\|מַמְזֵ֖ר]]&#8207; </big>**| mam.Zer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] assembly of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6951\|קְהַ֣ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּ֚ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a generation  |**<big>&#8207;[[H1755\|דּ֣וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tenth  |**<big>&#8207;[[H6224\|עֲשִׂירִ֔י]]&#8207; </big>**| 'a.si.Ri<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go  |**<big>&#8207;[[H0935G\|יָ֥בֹא]]&#8207; </big>**| Ya.vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> him  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] assembly of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6951\|קְהַ֥ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.1|<< Deuteronomy 23:1]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.3|Deuteronomy 23:3 >>]]</td></tr></table>
 
 

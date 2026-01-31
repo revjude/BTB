@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּכָא‎</span></big> **dâkâʼ** <small>*(daw-kaw')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎דָּכָה‎</span><sup><small>[[H1794]]</small></sup>)</small>
+**<big><span class="ashebrew">‎דָּכָא‎</span></big>** **dâkâʼ** <small>*(daw-kaw')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H1794|‎דָּכָה‎]]</big>**)</small>
 
 $\quad$ beat to pieces, break (in pieces), bruise, contrite, crush, destroy, humble, oppress, smite.
 - ***to crumble***
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1c1)** to be crushed, be shattered
 $\quad$ $\quad$ **1c2)** to be made contrite
 $\quad$ **1d)** (Hithpael) to allow oneself to be crushed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἀτιμάζω</span><sup><small>[[G0818]]</small></sup> · <span class="asgreek">καθαιρέω</span><sup><small>[[G2507]]</small></sup> · <span class="asgreek">κακόω</span><sup><small>[[G2559]]</small></sup> · <span class="asgreek">ὀλιγόψυχος</span><sup><small>[[G3642]]</small></sup> · <span class="asgreek">παίω</span><sup><small>[[G3817]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup> · <span class="asgreek">ταπεινός</span><sup><small>[[G5011]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">ταπείνωσις</span><sup><small>[[G5014]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0818|ἀτιμάζω]]</big>** · **<big>[[G2507|καθαιρέω]]</big>** · **<big>[[G2559|κακόω]]</big>** · **<big>[[G3642|ὀλιγόψυχος]]</big>** · **<big>[[G3817|παίω]]</big>** · **<big>[[G4937|συντρίβω]]</big>** · **<big>[[G5011|ταπεινός]]</big>** · **<big>[[G5013|ταπεινόω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>** · **<big>[[G5014|ταπείνωσις]]</big>**

@@ -4,9 +4,9 @@ Woman living at the time before the Flood
 
 <span class='tipnrhighlight'>Adah</span> was one of the two wives of Lamech, a descendant of Cain, and the mother of Jabal, the first to live in tents and raise livestock, and Jubal, the first to play the lyre and pipe.
 - A woman living at the time before the Flood, first mentioned at [[Gen.4.19|Gen.4.19]]; 
-- only referred to as Adah<[[H5711G]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Lamech<[[H3929G]]>; 
--  mother of Jabal<[[H2989]]> and Jubal<[[H3106]]>.
+- only referred to as Adah **<big>[[H5711|עָדָה]]</big>**; 
+- wife of Lamech **<big>[[H3929|לֶמֶךְ]]</big>**; 
+-  mother of Jabal **<big>[[H2989|יָבָל]]</big>** and Jubal **<big>[[H3106|יוּבַל]]</big>**.
 
 Adah was one of the two wives of Lamech, a descendant of Cain, who is mentioned in the genealogy of Cain in Genesis 4. Lamech is the first recorded polygamist in the Bible, having taken both Adah and Zillah as his wives \([[Gen.4.19|Genesis 4:19]]\). 
 
@@ -18,8 +18,8 @@ Adah's mention in the genealogy of Cain highlights the development of various as
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adah | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5711G) <small>*Hebrew*</small> | 3x | [[Gen.4.19] ... [Gen.4.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adah\*\|reference=Gen.4.19;Gen.4.20;Gen.4.23) |
-All Strong's for **Adah**: \[[[H5711G]]\]
+| Adah | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5711G) | 3x | [[Gen.4.19] ... [Gen.4.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adah\*\|reference=Gen.4.19;Gen.4.20;Gen.4.23) |
+All entries for **Adah**:  **<big>[[H5711|עָדָה]]</big>**
 #### Related Profiles:
 - **[Lamech](H3929G)** (spouse)
 - **[Jabal](H2989)** (child)

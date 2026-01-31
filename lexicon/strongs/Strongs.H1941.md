@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹדִיָּה‎</span></big> **Hôwdîyâh** <small>*(ho-dee-yaw')*</small> ==**Hodiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎הוֹדַוְיָה‎</span><sup><small>[[H1938]]</small></sup></small>
+**<big><span class="ashebrew">‎הוֹדִיָּה‎</span></big>** **Hôwdîyâh** <small>*(ho-dee-yaw')*</small> ==**Hodiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H1938|‎הוֹדַוְיָה‎]]</big>**</small>
 
 $\quad$ Hodijah.
 - § Hodijah = *"my majesty is Jehovah"*

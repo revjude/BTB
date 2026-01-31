@@ -14,26 +14,26 @@ The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot,
 > $\quad$ referenced by: [[Acts.13.17|Acts 13:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| having departed | <big><span class="asgreek">απάραντες</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Rameses | <big><span class="asgreek">Ραμεσσή</span></big> <sup><small><small>[[H7486]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Succoth, | <big><span class="asgreek">Σοχώθ</span></big> <sup><small><small>[[H5523]]</small></small></sup> |
-| to \[the number of\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακοσίας</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| footmen, | <big><span class="asgreek">πεζών</span></big> <sup><small><small>[[G8677]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| males, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλήν</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| belongings, | <big><span class="asgreek">αποσκευής</span></big> <sup><small><small>[[G6478]]</small></small></sup> |
+| having departed | **<big>[[G0522\|απάραντες]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Rameses | **<big>[[H7486\|Ραμεσσή]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Succoth, | **<big>[[H5523\|Σοχώθ]]</big>** |
+| to \[the number of\] | **<big>[[G1519\|εις]]</big>** |
+| six hundred | **<big>[[G1812\|εξακοσίας]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| footmen, | **<big>[[G8677\|πεζών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| males, | **<big>[[G0435\|άνδρες]]</big>** |
+| besides | **<big>[[G4133\|πλήν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| belongings, | **<big>[[G6478\|αποσκευής]]</big>** |
 [[Exod.12.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.36|<< Exodus 12:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.38|Exodus 12:38 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ These [are] the beasts which ye shall eat: the ox, the sheep, and the goat,
 These are the animals that you may eat: The ox, the sheep, the goat,<small><sub>**MT:**</sub></small>
 [[Deut.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.3|<< Deuteronomy 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.5|Deuteronomy 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall eat -- | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \[the\] calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a lamb | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a young he-goat | <big><span class="asgreek">χίμαρον</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] goats, | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
+| These \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you shall eat -- | **<big>[[G2068\|φάγεσθε]]</big>** |
+| \[the\] calf | **<big>[[G3448\|μόσχον]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] oxen, | **<big>[[G1016\|βοών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a lamb | **<big>[[G0286\|αμνόν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a young he-goat | **<big>[[G9733\|χίμαρον]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] goats, | **<big>[[G6167\|αιγών]]</big>** |
 [[Deut.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.3|<< Deuteronomy 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.5|Deuteronomy 14:5 >>]]</td></tr></table>
 
 

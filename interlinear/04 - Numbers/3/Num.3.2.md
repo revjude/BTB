@@ -6,17 +6,17 @@ These are the names of the sons of Aaron: Nadab the firstborn, then Abihu, Eleaz
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.1|<< Numbers 3:1]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.3|Numbers 3:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֛לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] names of  | <span class="ashebrew"><big>שְׁמ֥וֹת </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| she.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּֽנֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֖ן </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the firstborn  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בְּכ֣וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> be.Khor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nadab  | <span class="ashebrew"><big>נָדָ֑ב </big></span><small><small><sup>[[H5070G]]</sup></small></small> &#8207;| na.Dav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Abihu  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִיה֕וּא </big></span><small><small><sup>[[H0030]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Hu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eleazar  | <span class="ashebrew"><big>אֶלְעָזָ֖ר </big></span><small><small><sup>[[H0499G]]</sup></small></small> &#8207;| 'el.'a.Zar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ithamar  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִיתָמָֽר </big></span><small><small><sup>[[H0385]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'i.ta.Mar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֥וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּֽנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֖ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1060\|בְּכ֣וֹר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nadab  |**<big>&#8207;[[H5070G\|נָדָ֑ב]]&#8207; </big>**| na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abihu  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0030\|אֲבִיה֕וּא]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eleazar  |**<big>&#8207;[[H0499G\|אֶלְעָזָ֖ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ithamar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0385\|אִיתָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.1|<< Numbers 3:1]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.3|Numbers 3:3 >>]]</td></tr></table>
 
 

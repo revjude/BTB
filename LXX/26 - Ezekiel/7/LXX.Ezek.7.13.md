@@ -7,34 +7,34 @@ For the seller shall not return to that which is sold, although they were yet al
 The seller will surely not recover what he sold while both remain alive. For the vision concerning the whole multitude will not be revoked, and because of their iniquity, not one of them will preserve his life.<small><sub>**MT:**</sub></small>
 [[Ezek.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.12|<< Ezekiel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.14|Ezekiel 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acquiring | <big><span class="asgreek">κτώμενος</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing selling | <big><span class="asgreek">πωλούντα</span></big> <sup><small><small>[[G4453]]</small></small></sup> |
-| shall not return | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their living, | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| \[is\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their multitude -- | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall not return, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ανακάμψει</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| his life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not hold | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">κρατήσει</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| acquiring | **<big>[[G2932\|κτώμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| thing selling | **<big>[[G4453\|πωλούντα]]</big>** |
+| shall not return | **<big>[[G3361\|μη]]</big>** **<big>[[G1994\|επιστρέψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| still | **<big>[[G3754\|έτι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] life | **<big>[[G2222\|ζωή]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of their living, | **<big>[[G2198\|ζην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] vision | **<big>[[G3706\|όρασις]]</big>** |
+| \[is\] for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their multitude -- | **<big>[[G4128\|πλήθος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| it shall not return, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0344\|ανακάμψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| his life | **<big>[[G2222\|ζωής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not hold | **<big>[[G3756\|ου]]</big>** **<big>[[G2902\|κρατήσει]]</big>** |
 [[Ezek.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.12|<< Ezekiel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.14|Ezekiel 7:14 >>]]</td></tr></table>
 
 

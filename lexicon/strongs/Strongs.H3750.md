@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּרְכֹּם‎</span></big> **karkôm** <small>*(kar-kome')*</small> ==**saffron**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎כַּרְכֹּם‎</span></big>** **karkôm** <small>*(kar-kome')*</small> ==**saffron**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ saffron.

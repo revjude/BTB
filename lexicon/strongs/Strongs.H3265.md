@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָעוּר‎</span></big> **Yâʻûwr** <small>*(yaw-oor')*</small> ==**Jair**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently the passive participle of the same as <span class="ashebrew">‎יַעַר‎</span><sup><small>[[H3293]]</small></sup>; wooded</small>
+**<big><span class="ashebrew">‎יָעוּר‎</span></big>** **Yâʻûwr** <small>*(yaw-oor')*</small> ==**Jair**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently the passive participle of the same as **<big>[[H3293|‎יַעַר‎]]</big>**; wooded</small>
 
 $\quad$ Jair(from the margin).
 - § Jair = *"forested"*

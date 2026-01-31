@@ -7,31 +7,31 @@ And Moses went into the midst of the cloud, and gat him up into the mount: and M
 Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights.<small><sub>**MT:**</sub></small>
 [[Exod.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.17|<< Exodus 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.1|Exodus 25:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud, | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">ορει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| nights. | <big><span class="asgreek">νύκτας</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| cloud, | **<big>[[G3507\|νεφέλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain, | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain | **<big>[[G3735\|ορει]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| nights. | **<big>[[G3571\|νύκτας]]</big>** |
 [[Exod.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.17|<< Exodus 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.1|Exodus 25:1 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant
 On that day, declares the LORD of Hosts, I will take you, My servant, Zerubbabel son of Shealtiel, declares the LORD, and I will make you like My signet ring, for I have chosen you, declares the LORD of Hosts.”<small><sub>**MT:**</sub></small>
 [[Hag.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.22|<< Haggai 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.1|Zechariah 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| I will take | <big><span class="asgreek">λήψομαί</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Zerubbabel | <big><span class="asgreek">Ζοροβάβελ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shealtiel | <big><span class="asgreek">Σαλαθιήλ</span></big> <sup><small><small>[[H7598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servant, | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will set | <big><span class="asgreek">θήσομαί</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a seal. | <big><span class="asgreek">σφραγίδα</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I have selected you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ηρέτικα</span></big> <sup><small><small>[[G0140]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| I will take | **<big>[[G2983\|λήψομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| Zerubbabel | **<big>[[G2216\|Ζοροβάβελ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Shealtiel | **<big>[[H7598\|Σαλαθιήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my servant, | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will set | **<big>[[G5087\|θήσομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a seal. | **<big>[[G4973\|σφραγίδα]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| I have selected you, | **<big>[[G1473\|σε]]</big>** **<big>[[G0140\|ηρέτικα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 [[Hag.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.22|<< Haggai 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.1|Zechariah 1:1 >>]]</td></tr></table>
 
 

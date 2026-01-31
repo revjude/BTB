@@ -7,28 +7,28 @@ And the LORD spake unto Moses, saying,
 and the LORD answered him,<small><sub>**MT:**</sub></small>
 [[Num.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.5|<< Numbers 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.7|Numbers 27:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rightly | <big><span class="asgreek">ορθώς</span></big> <sup><small><small>[[G3723]]</small></small></sup> |
-| \[the\] daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zelophehad | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| have spoken. | <big><span class="asgreek">λελαλήκασι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| A gift | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for possession | <big><span class="asgreek">κατάσχεσιν</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
-| of an inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \[of the\] brothers | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of their father; | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">περιθήσεις</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Rightly | **<big>[[G3723\|ορθώς]]</big>** |
+| \[the\] daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of Zelophehad | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| have spoken. | **<big>[[G2980\|λελαλήκασι]]</big>** |
+| A gift | **<big>[[G1390\|δόμα]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| to them | **<big>[[G1473\|αυταίς]]</big>** |
+| for possession | **<big>[[G2697\|κατάσχεσιν]]</big>** |
+| of an inheritance | **<big>[[G2817\|κληρονομίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \[of the\] brothers | **<big>[[G0080\|αδελφών]]</big>** |
+| of their father; | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall put | **<big>[[G4060\|περιθήσεις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lot | **<big>[[G2819\|κλήρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| among them. | **<big>[[G1473\|αυταίς]]</big>** |
 [[Num.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.5|<< Numbers 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.7|Numbers 27:7 >>]]</td></tr></table>
 
 

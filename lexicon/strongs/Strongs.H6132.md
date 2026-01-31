@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֲקַר‎</span></big> **ʻăqar** <small>*(ak-ar')*</small> ==**be uprooted**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עָקַר‎</span><sup><small>[[H6131]]</small></sup></small>
+**<big><span class="asaramaic">‎עֲקַר‎</span></big>** **ʻăqar** <small>*(ak-ar')*</small> ==**be uprooted**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6131|‎עָקַר‎]]</big>**</small>
 
 $\quad$ pluck up by the roots.
 - {***to pluck up*** (especially by the roots)
@@ -9,4 +9,4 @@ $\quad$ pluck up by the roots.
 **1)** to pluck, be rooted up
 $\quad$ **1a)** (Ithp'al) to be rooted up
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποβαίνω</span><sup><small>[[G0576]]</small></sup>
+<small>See Greek: </small>**<big>[[G0576|ἀποβαίνω]]</big>**

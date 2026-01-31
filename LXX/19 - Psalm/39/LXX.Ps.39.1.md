@@ -12,28 +12,28 @@ To the chief Musician, [even] to Jeduthun, A Psalm of David. I said, I will take
 For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”<small><sub>**MT:**</sub></small>
 [[Ps.39.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.22|<< Psalm 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.2|Psalm 39:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I shall guard | <big><span class="asgreek">φυλάξω</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not sin | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αμαρτάνειν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| for me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my tongue. | <big><span class="asgreek">γλώσση</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I put | <big><span class="asgreek">εθέμην</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my mouth | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a guard | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| while | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stood | <big><span class="asgreek">συστήναι</span></big> <sup><small><small>[[G4921]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinner | <big><span class="asgreek">αμαρτωλόν</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| I shall guard | **<big>[[G5442\|φυλάξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not sin | **<big>[[G3361\|μη]]</big>** **<big>[[G0264\|αμαρτάνειν]]</big>** |
+| for me | **<big>[[G1473\|με]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| my tongue. | **<big>[[G1100\|γλώσση]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I put | **<big>[[G5087\|εθέμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for my mouth | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| a guard | **<big>[[G5438\|φυλακήν]]</big>** |
+| while | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| stood | **<big>[[G4921\|συστήναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| sinner | **<big>[[G0268\|αμαρτωλόν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[Ps.39.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.22|<< Psalm 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.2|Psalm 39:2 >>]]</td></tr></table>
 
 

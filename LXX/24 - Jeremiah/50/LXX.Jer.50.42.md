@@ -7,33 +7,33 @@ They shall hold the bow and the lance: they [are] cruel, and will not shew mercy
 They grasp the bow and spear; they are cruel and merciless. Their voice roars like the sea, and they ride upon horses, lined up like men in formation against you, O Daughter of Babylon.<small><sub>**MT:**</sub></small>
 [[Jer.50.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.41|<< Jeremiah 50:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.43|Jeremiah 50:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a knife | <big><span class="asgreek">εγχειρίδιον</span></big> <sup><small><small>[[G7038]]</small></small></sup> |
-| They are holding | <big><span class="asgreek">έχοντες</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| They are audacious, | <big><span class="asgreek">ιταμός</span></big> <sup><small><small>[[G7739]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they show mercy. | <big><span class="asgreek">ελεήση</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| shall sound | <big><span class="asgreek">ηχήσει</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| Upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| they shall ride, | <big><span class="asgreek">ιππάσονται</span></big> <sup><small><small>[[G7725]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">παρεσκευασμένοι</span></big> <sup><small><small>[[G3903]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| a bow | **<big>[[G5115\|τόξον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a knife | **<big>[[G7038\|εγχειρίδιον]]</big>** |
+| They are holding | **<big>[[G2192\|έχοντες]]</big>** |
+| They are audacious, | **<big>[[G7739\|ιταμός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they show mercy. | **<big>[[G1653\|ελεήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Their voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| shall sound | **<big>[[G2278\|ηχήσει]]</big>** |
+| Upon | **<big>[[G1909\|εφ΄]]</big>** |
+| horses | **<big>[[G2462\|ίπποις]]</big>** |
+| they shall ride, | **<big>[[G7725\|ιππάσονται]]</big>** |
+| being prepared | **<big>[[G3903\|παρεσκευασμένοι]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
 [[Jer.50.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.41|<< Jeremiah 50:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.43|Jeremiah 50:43 >>]]</td></tr></table>
 
 

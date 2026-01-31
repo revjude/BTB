@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָרַע‎</span></big> **zâraʻ** <small>*(zaw-rah')*</small> ==**to sow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָרַע‎</span></big>** **zâraʻ** <small>*(zaw-rah')*</small> ==**to sow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear, conceive seed, set with sow(-er), yield.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b2)** to become pregnant, be made pregnant
 $\quad$ **1c)** (Pual) to be sown
 $\quad$ **1d)** (Hiphil) to produce seed, yield seed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατέλλω</span><sup><small>[[G0393]]</small></sup> · <span class="asgreek">σπείρω</span><sup><small>[[G4687]]</small></sup> · <span class="asgreek">σπορά</span><sup><small>[[G4701]]</small></sup> · <span class="asgreek">σπόριμος</span><sup><small>[[G4702]]</small></sup>
+<small>See Greek: </small>**<big>[[G0393|ἀνατέλλω]]</big>** · **<big>[[G4687|σπείρω]]</big>** · **<big>[[G4701|σπορά]]</big>** · **<big>[[G4702|σπόριμος]]</big>**

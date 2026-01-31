@@ -7,43 +7,43 @@ And whatsoever man [there be] of the house of Israel, or of the strangers that s
 If anyone from the house of Israel or a foreigner living among them eats any blood, I will set My face against that person and cut him off from among his people.<small><sub>**MT:**</sub></small>
 [[Lev.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.9|<< Leviticus 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.11|Leviticus 17:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">προσηλύτων</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones lying nearby | <big><span class="asgreek">προσκειμένων</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should eat | <big><span class="asgreek">φάγη</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eating | <big><span class="asgreek">έσθουσαν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| foreigners | **<big>[[G4339\|προσηλύτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones lying nearby | **<big>[[G8929\|προσκειμένων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should eat | **<big>[[G2068\|φάγη]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| blood, | **<big>[[G0129\|αίμα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I will set | **<big>[[G2186\|επιστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| eating | **<big>[[G2068\|έσθουσαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood, | **<big>[[G0129\|αίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.9|<< Leviticus 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.11|Leviticus 17:11 >>]]</td></tr></table>
 
 

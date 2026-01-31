@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sychar</span>, a Samaritan city near Jacob's well, where Jesus spoke with a Samaritan woman \([[John.4.5|John 4:5]]\).
 - A location only mentioned at [[John.4.5|Jhn.4.5]]; 
-- only referred to as Sychar<[[G4965]]> \(<span class='tipnrLangGreek'>Συχάρ</span>\).
+- only referred to as Sychar **<big>[[G4965|Συχάρ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.20307656686443,35.31192106402537&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Sychar is mentioned in [[John.4.5|John 4:5]] as a Samaritan city near the plot o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sychar | [<span class='tipnrLangGreek'>Συχάρ</span>](G4965) <small>*Greek*</small> | 1x | [Jhn.4.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sychar\*\|reference=Jhn.4.5) |
-All Strong's for **Sychar**: \[[[G4965]]\]
+| Sychar | [<span class='tipnrLangGreek'>Συχάρ</span>](G4965) | 1x | [Jhn.4.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sychar\*\|reference=Jhn.4.5) |
+All entries for **Sychar**:  **<big>[[G4965|Συχάρ]]</big>**

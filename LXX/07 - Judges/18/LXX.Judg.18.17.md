@@ -7,50 +7,50 @@ And the five men that went to spy out the land went up, [and] came in thither, [
 And the five men who had gone to spy out the land went inside and took the graven image, the ephod, the household idols, and the molten idol, while the priest stood at the entrance of the gate with the six hundred armed men.<small><sub>**MT:**</sub></small>
 [[Judg.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.16|<< Judges 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.18|Judges 18:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενοι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to survey | <big><span class="asgreek">κατασκέψασθαι</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| coming | <big><span class="asgreek">επελθόντες</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carved \[image\], | <big><span class="asgreek">γλυπτόν</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ephod, | <big><span class="asgreek">εφούδ</span></big> <sup><small><small>[[G7587]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| teraphim, | <big><span class="asgreek">θεραφίμ</span></big> <sup><small><small>[[G7655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molten \[image\]. | <big><span class="asgreek">χωνευτόν</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| was set up | <big><span class="asgreek">εστηλωμένος</span></big> <sup><small><small>[[G9173]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatehouse, | <big><span class="asgreek">πυλώνος</span></big> <sup><small><small>[[G4440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| were girded with | <big><span class="asgreek">περιεζωσμένοι</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| weapons | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| for warfare. | <big><span class="asgreek">πολεμικά</span></big> <sup><small><small>[[G8839]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| going | **<big>[[G4198\|πορευόμενοι]]</big>** |
+| to survey | **<big>[[G7919\|κατασκέψασθαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| coming | **<big>[[G1904\|επελθόντες]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| carved \[image\], | **<big>[[G6745\|γλυπτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| ephod, | **<big>[[G7587\|εφούδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| teraphim, | **<big>[[G7655\|θεραφίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| molten \[image\]. | **<big>[[G9778\|χωνευτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| was set up | **<big>[[G9173\|εστηλωμένος]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| gatehouse, | **<big>[[G4440\|πυλώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| were girded with | **<big>[[G4024\|περιεζωσμένοι]]</big>** |
+| weapons | **<big>[[G4632\|σκεύη]]</big>** |
+| for warfare. | **<big>[[G8839\|πολεμικά]]</big>** |
 [[Judg.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.16|<< Judges 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.18|Judges 18:18 >>]]</td></tr></table>
 
 

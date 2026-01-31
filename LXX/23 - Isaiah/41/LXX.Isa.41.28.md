@@ -7,29 +7,29 @@ For I beheld, and [there was] no man; even among them, and [there was] no counse
 When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say.<small><sub>**MT:**</sub></small>
 [[Isa.41.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.27|<< Isaiah 41:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.29|Isaiah 41:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[there was\] no one; | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols | <big><span class="asgreek">ειδώλων</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one announcing. | <big><span class="asgreek">αναγγέλλων</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I should ask | <big><span class="asgreek">ερωτήσω</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From what place | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| are you? | <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should they answer | <big><span class="asgreek">αποκριθώσί</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For from | **<big>[[G0575\|από]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations, | **<big>[[G1484\|εθνών]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[there was\] no one; | **<big>[[G3762\|ουθέν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their idols | **<big>[[G1497\|ειδώλων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one announcing. | **<big>[[G0312\|αναγγέλλων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| I should ask | **<big>[[G2065\|ερωτήσω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| From what place | **<big>[[G4159\|πόθεν]]</big>** |
+| are you? | **<big>[[G1510\|εστέ]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should they answer | **<big>[[G0611\|αποκριθώσί]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Isa.41.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.27|<< Isaiah 41:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.29|Isaiah 41:29 >>]]</td></tr></table>
 
 

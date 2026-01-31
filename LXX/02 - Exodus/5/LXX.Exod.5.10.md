@@ -7,30 +7,30 @@ And the taskmasters of the people went out, and their officers, and they spake t
 So the taskmasters and foremen of the people went out and said to them, “This is what Pharaoh says: ‘I am no longer giving you straw.<small><sub>**MT:**</sub></small>
 [[Exod.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.9|<< Exodus 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.11|Exodus 5:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And hastened | <big><span class="asgreek">κατέσπευδον</span></big> <sup><small><small>[[G7926]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foremen, | <big><span class="asgreek">εργοδιώκται</span></big> <sup><small><small>[[G7498]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribes | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| No longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| do I give | <big><span class="asgreek">δίδωμι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| straw. | <big><span class="asgreek">άχυρα</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
+| And hastened | **<big>[[G7926\|κατέσπευδον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| foremen, | **<big>[[G7498\|εργοδιώκται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| scribes | **<big>[[G1122\|γραμματείς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G3004\|έλεγον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| No longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| do I give | **<big>[[G1325\|δίδωμι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| straw. | **<big>[[G0892\|άχυρα]]</big>** |
 [[Exod.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.9|<< Exodus 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.11|Exodus 5:11 >>]]</td></tr></table>
 
 

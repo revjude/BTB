@@ -7,23 +7,23 @@ For they shall be ashamed of the oaks which ye have desired, and ye shall be con
 Surely you will be ashamed of the sacred oaks in which you have delighted; you will be embarrassed by the gardens that you have chosen.<small><sub>**MT:**</sub></small>
 [[Isa.1.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.28|<< Isaiah 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.30|Isaiah 1:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they shall be ashamed | <big><span class="asgreek">αισχυνθήσονται</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols, | <big><span class="asgreek">ειδώλων</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| preferred; | <big><span class="asgreek">ηβούλοντο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be ashamed | <big><span class="asgreek">επησχύνθησαν</span></big> <sup><small><small>[[G1870]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gardens | <big><span class="asgreek">κήποις</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they desired. | <big><span class="asgreek">επεθύμησαν</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| they shall be ashamed | **<big>[[G0153\|αισχυνθήσονται]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their idols, | **<big>[[G1497\|ειδώλων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| preferred; | **<big>[[G1014\|ηβούλοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be ashamed | **<big>[[G1870\|επησχύνθησαν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| gardens | **<big>[[G2779\|κήποις]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they desired. | **<big>[[G1937\|επεθύμησαν]]</big>** |
 [[Isa.1.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.28|<< Isaiah 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.30|Isaiah 1:30 >>]]</td></tr></table>
 
 

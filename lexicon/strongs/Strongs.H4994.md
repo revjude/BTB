@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָא‎</span></big> **nâʼ** <small>*(naw)*</small> ==**please**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
+**<big><span class="ashebrew">‎נָא‎</span></big>** **nâʼ** <small>*(naw)*</small> ==**please**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
 <small>a primitive particle of incitement and entreaty, which may usually be rendered</small>
 
 $\quad$ I beseech (pray) thee (you), go to, now, oh.
@@ -8,4 +8,4 @@ $\quad$ I beseech (pray) thee (you), go to, now, oh.
 **1)** I (we) pray, now, please
 $\quad$ **1a)** used in entreaty or exhortation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀξιόω</span><sup><small>[[G0515]]</small></sup> · <span class="asgreek">νῦν</span><sup><small>[[G3568]]</small></sup> · <span class="asgreek">ὡσαννά</span><sup><small>[[G5614]]</small></sup>
+<small>See Greek: </small>**<big>[[G0515|ἀξιόω]]</big>** · **<big>[[G3568|νῦν]]</big>** · **<big>[[G5614|ὡσαννά]]</big>**

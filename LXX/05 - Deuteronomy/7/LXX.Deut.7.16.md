@@ -7,37 +7,37 @@ And thou shalt consume all the people which the LORD thy God shall deliver thee;
 You must destroy all the peoples the LORD your God will deliver to you. Do not look on them with pity. Do not worship their gods, for that will be a snare to you.<small><sub>**MT:**</sub></small>
 [[Deut.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.15|<< Deuteronomy 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.17|Deuteronomy 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you serve | <big><span class="asgreek">λατρεύσης</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gods; | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an impediment | <big><span class="asgreek">σκώλον</span></big> <sup><small><small>[[G9123]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|φαγή]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| gives | **<big>[[G1325\|δίδωσί]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you serve | **<big>[[G3000\|λατρεύσης]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their gods; | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| an impediment | **<big>[[G9123\|σκώλον]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Deut.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.15|<< Deuteronomy 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.17|Deuteronomy 7:17 >>]]</td></tr></table>
 
 

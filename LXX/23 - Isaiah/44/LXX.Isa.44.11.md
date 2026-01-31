@@ -7,27 +7,27 @@ Behold, all his fellows shall be ashamed: and the workmen, they [are] of men: le
 Behold, all his companions will be put to shame, for the craftsmen themselves are only human. Let them all assemble and take their stand; they will all be brought to terror and shame.<small><sub>**MT:**</sub></small>
 [[Isa.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
-| they came from | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| were dried up. | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| Yes, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] deaf-mutes | <big><span class="asgreek">κωφοί</span></big> <sup><small><small>[[G2974]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| be brought together | <big><span class="asgreek">συναχθήτωσαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them stand | <big><span class="asgreek">στήτωσαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them feel remorse, | <big><span class="asgreek">εντραπήτωσαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them be ashamed | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| together! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| from where | **<big>[[G3606\|όθεν]]</big>** |
+| they came from | **<big>[[G1096\|εγένοντο]]</big>** |
+| were dried up. | **<big>[[G3583\|εξηράνθησαν]]</big>** |
+| Yes, | **<big>[[G2532\|και]]</big>** |
+| \[the\] deaf-mutes | **<big>[[G2974\|κωφοί]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| be brought together | **<big>[[G4863\|συναχθήτωσαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them stand | **<big>[[G2476\|στήτωσαν]]</big>** |
+| together, | **<big>[[G0260\|άμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them feel remorse, | **<big>[[G1788\|εντραπήτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them be ashamed | **<big>[[G0153\|αισχυνθήτωσαν]]</big>** |
+| together! | **<big>[[G0260\|άμα]]</big>** |
 [[Isa.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
 

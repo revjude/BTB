@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שַׂלְמָה‎</span></big> **Salmâh** <small>*(sal-maw')*</small> ==**Salmon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שַׂלְמָה‎</span><sup><small>[[H8008]]</small></sup>; clothing</small>
+**<big><span class="ashebrew">‎שַׂלְמָה‎</span></big>** **Salmâh** <small>*(sal-maw')*</small> ==**Salmon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8008|‎שַׂלְמָה‎]]</big>**; clothing</small>
 
-$\quad$ Salmon. Compare <span class="ashebrew">‎שַׂלְמוֹן‎</span><sup><small>[[H8012]]</small></sup>.
+$\quad$ Salmon. Compare **<big>[[H8012|‎שַׂלְמוֹן‎]]</big>**.
 - § Salmon = *"garment"*
 - ***Salmah***, an Israelite
 

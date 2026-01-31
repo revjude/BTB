@@ -11,32 +11,32 @@ We would have healed Babylon, but she is not healed: forsake her, and let us go 
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We medically treated | <big><span class="asgreek">ιατρεύσαμεν</span></big> <sup><small><small>[[G7707]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Babylon, | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she would not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be healed. | <big><span class="asgreek">ιάθη</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| We should abandon | <big><span class="asgreek">εγκαταλίπωμεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go forth | <big><span class="asgreek">απέλθωμεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has approached | <big><span class="asgreek">ήγγικεν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You lifted | <big><span class="asgreek">εξήρεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars. | <big><span class="asgreek">άστρων</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
+| We medically treated | **<big>[[G7707\|ιατρεύσαμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Babylon, | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she would not | **<big>[[G3756\|ουκ]]</big>** |
+| be healed. | **<big>[[G2390\|ιάθη]]</big>** |
+| We should abandon | **<big>[[G1459\|εγκαταλίπωμεν]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go forth | **<big>[[G0565\|απέλθωμεν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his land, | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| has approached | **<big>[[G1448\|ήγγικεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| her judgment | **<big>[[G2917\|κρίμα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| You lifted | **<big>[[G1808\|εξήρεν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| stars. | **<big>[[G0798\|άστρων]]</big>** |
 [[Jer.51.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.8|<< Jeremiah 51:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.10|Jeremiah 51:10 >>]]</td></tr></table>
 
 

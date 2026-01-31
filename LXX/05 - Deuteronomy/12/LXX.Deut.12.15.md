@@ -7,42 +7,42 @@ Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy 
 But whenever you want, you may slaughter and eat meat within any of your gates, according to the blessing the LORD your God has given you. Both the ceremonially clean and unclean may eat it as they would a gazelle or deer,<small><sub>**MT:**</sub></small>
 [[Deut.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.14|<< Deuteronomy 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.16|Deuteronomy 12:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| your desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall sacrifice | <big><span class="asgreek">θύσεις</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| meats | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blessing | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκέ</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| city -- | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| the same | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as a | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| doe | <big><span class="asgreek">δορκάδα</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| stag. | <big><span class="asgreek">έλαφον</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
+| But | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| your desire | **<big>[[G1939\|επιθυμία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall sacrifice | **<big>[[G2380\|θύσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall eat | **<big>[[G2068\|φαγή]]</big>** |
+| meats | **<big>[[G2907\|κρέα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| blessing | **<big>[[G2129\|ευλογίαν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he gave | **<big>[[G1325\|έδωκέ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| city -- | **<big>[[G4172\|πόλει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| clean | **<big>[[G2513\|καθαρός]]</big>** |
+| the same | **<big>[[G1909\|επι]]</big>** **<big>[[G3588\|το]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| as a | **<big>[[G5613\|ως]]</big>** |
+| doe | **<big>[[G1393\|δορκάδα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| stag. | **<big>[[G7180\|έλαφον]]</big>** |
 [[Deut.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.14|<< Deuteronomy 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.16|Deuteronomy 12:16 >>]]</td></tr></table>
 
 

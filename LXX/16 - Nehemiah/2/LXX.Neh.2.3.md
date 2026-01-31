@@ -7,38 +7,38 @@ And said unto the king, Let the king live for ever: why should not my countenanc
 and replied to the king, “May the king live forever! Why should I not be sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?”<small><sub>**MT:**</sub></small>
 [[Neh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.2|<< Nehemiah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.4|Nehemiah 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| Live | <big><span class="asgreek">ζήτω</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| should not | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| sorry | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] sepulchres | <big><span class="asgreek">μνημείων</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| of my fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was made desolate, | <big><span class="asgreek">ηρημώθη</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were devoured | <big><span class="asgreek">κατεβρώθησαν</span></big> <sup><small><small>[[G7827]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire? | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| king, | **<big>[[G0935\|βασιλεύς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| Live | **<big>[[G2198\|ζήτω]]</big>** |
+| Why | **<big>[[G1302\|διατί]]</big>** |
+| should not | **<big>[[G3364\|ου μη]]</big>** |
+| be | **<big>[[G1096\|γένηται]]</big>** |
+| sorry | **<big>[[G4190\|πονηρόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπόν]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city, | **<big>[[G4172\|πόλις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκος]]</big>** |
+| of \[the\] sepulchres | **<big>[[G3419\|μνημείων]]</big>** |
+| of my fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was made desolate, | **<big>[[G2049\|ηρημώθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| its gates | **<big>[[G4439\|πύλαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were devoured | **<big>[[G7827\|κατεβρώθησαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire? | **<big>[[G4442\|πυρί]]</big>** |
 [[Neh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.2|<< Nehemiah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.4|Nehemiah 2:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Temple of the female deity Ashoreth \(H6252G\) in the time of the Old Testament • Philistine city where Saul's armor was put in a temple.*</small>
 
 <span class='tipnrhighlight'>Beth-Ashtoreth</span> was a Philistine city where Saul's armor was put in the temple of Ashtoreth after his death. \([[1Sam.31.10|1 Samuel 31:10]]\)
-- A location \#Temple of the female deity Ashoreth<[[H6252G]]> in the time of the Old Testament only mentioned at [[1Sam.31.10|1Sa.31.10]] also known asPlace; 
-- only referred to as Beth-Ashtoreth<[[H1045]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- A location \#Temple of the female deity Ashoreth **<big>[[H6252|עַשְׁתָּרוֹת]]</big>** in the time of the Old Testament only mentioned at [[1Sam.31.10|1Sa.31.10]] also known asPlace; 
+- only referred to as Beth-Ashtoreth **<big>[[H1045|בֵּית עַשְׁתָּרוֹת]]</big>**.
 
 Beth-Ashtoreth, meaning "house of Ashtoreth" in Hebrew, was a Philistine city mentioned in [[1Sam.31.10|1 Samuel 31:10]]. After King Saul's death in the battle against the Philistines on Mount Gilboa, the Philistines found his body and cut off his head. They then sent messengers throughout their land to proclaim the news in the temples of their idols and among the people. 
 
@@ -14,5 +14,5 @@ The event also highlights the tragic end of Saul's reign and the humiliation tha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| temple of Ashtoroth (KJV= house of Ashtoroth; NIV= temple of the Ashoreths) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1045) <small>*Hebrew*</small> | 1x | [1Sa.31.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashtoreth\*\|reference=1Sa.31.10) |
-All Strong's for **Beth-Ashtoreth**: \[[[H1045]]\]
+| temple of Ashtoroth (KJV= house of Ashtoroth; NIV= temple of the Ashoreths) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1045) | 1x | [1Sa.31.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashtoreth\*\|reference=1Sa.31.10) |
+All entries for **Beth-Ashtoreth**:  **<big>[[H1045|בֵּית עַשְׁתָּרוֹת]]</big>**

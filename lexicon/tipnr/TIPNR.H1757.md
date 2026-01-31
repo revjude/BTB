@@ -1,8 +1,8 @@
 <small>*Dura • A plain in Babylon where Nebuchadnezzar set up a statue.*</small>
 
 <span class='tipnrhighlight'>Dura</span>, a plain in the province of Babylon where King Nebuchadnezzar set up a golden statue \([[Dan.3.1|Daniel 3:1]]\).
-- A location near Babylon<[[H0894]]> only mentioned at [[Dan.3.1|Dan.3.1]]; 
-- only referred to as Dura<[[H1757]]> \(<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Babylon **<big>[[H0894|בָּבֶל]]</big>** only mentioned at [[Dan.3.1|Dan.3.1]]; 
+- only referred to as Dura **<big>[[H1757|דּוּרָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.53650368616845,44.42088287373876&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dura was a plain located in the province of Babylon, mentioned in the book of Da
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dura | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>](H1757) <small>*Hebrew*</small> | 1x | [Dan.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dura\*\|reference=Dan.3.1) |
-All Strong's for **Dura**: \[[[H1757]]\]
+| Dura | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>](H1757) | 1x | [Dan.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dura\*\|reference=Dan.3.1) |
+All entries for **Dura**:  **<big>[[H1757|דּוּרָא]]</big>**

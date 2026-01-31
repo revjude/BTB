@@ -6,17 +6,17 @@ When I behold Your heavens, the work of Your fingers, the moon and the stars, wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.2|<< Psalms 8:2]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.4|Psalms 8:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will see  | <span class="ashebrew"><big>אֶרְאֶ֣ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| 'er.'Eh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heavens your  | <span class="ashebrew"><big>שָׁ֭מֶי </big></span><small><small><sup>[[H8064]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| Sha.mei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] works  | <span class="ashebrew"><big>מַעֲשֵׂ֣י </big></span><small><small><sup>[[H4639G]]</sup></small></small> &#8207;| ma.'a.Sei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fingers your  | <span class="ashebrew"><big>אֶצְבְּעֹתֶ֑י </big></span><small><small><sup>[[H0676]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'etz.be.'o.Tei. <small><sup>[[HNcfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] moon  | <span class="ashebrew"><big>יָרֵ֥חַ </big></span><small><small><sup>[[H3394]]</sup></small></small> &#8207;| ya.Re.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] stars  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כוֹכָבִ֗ים </big></span><small><small><sup>[[H3556]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kho.kha.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have established  | <span class="ashebrew"><big>כּוֹנָֽנְתָּה </big></span><small><small><sup>[[H3559I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ko.Na.ne.tah <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will see  |**<big>&#8207;[[H7200G\|אֶרְאֶ֣ה]]&#8207; </big>**| 'er.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavens your  |**<big>&#8207;[[H8064\|שָׁ֭מֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Sha.mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] works  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣י]]&#8207; </big>**| ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fingers your  |**<big>&#8207;[[H0676\|אֶצְבְּעֹתֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'etz.be.'o.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] moon  |**<big>&#8207;[[H3394\|יָרֵ֥חַ]]&#8207; </big>**| ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] stars  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3556\|כוֹכָבִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.kha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have established  |**<big>&#8207;[[H3559I\|כּוֹנָֽנְתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ko.Na.ne.tah<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.2|<< Psalms 8:2]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.4|Psalms 8:4 >>]]</td></tr></table>
 
 

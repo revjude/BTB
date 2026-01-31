@@ -1,3 +1,2 @@
-<span class="ashebrew">‎אֲחִימַ֫עַץ‎</span> <small>***(a.chi.ma.ats)***</small> ==**Ahimaaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of United Monarchy, only mentioned at [[1Sam.14.50|1Sa.14.50]]
--  father of: Ahinoam ([[H0293]])
+-  father of: Ahinoam (**<big>[[H0293|אֲחִינֹעַם]]</big>**)

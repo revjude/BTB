@@ -7,43 +7,43 @@ So Joram went over to Zair, and all the chariots with him: and he rose by night,
 So Jehoram crossed over to Zair with all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night. His troops, however, fled to their homes.<small><sub>**MT:**</sub></small>
 [[2Kgs.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.20|<< 2 Kings 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.22|2 Kings 8:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoram ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Zair, | <big><span class="asgreek">Σιώρ</span></big> <sup><small><small>[[H6811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| at night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| circling | <big><span class="asgreek">κυκλούντα</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commanders | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots. | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled | <big><span class="asgreek">έφυγεν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its tents. | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτόυ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoram ascended | **<big>[[G0305\|ανέβη]]</big>** **<big>[[G2496\|Ιωράμ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Zair, | **<big>[[H6811\|Σιώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| chariots | **<big>[[G0716\|άρματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| he rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| at night, | **<big>[[G3571\|νυκτός]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| circling | **<big>[[G2944\|κυκλούντα]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| commanders | **<big>[[G0758\|άρχοντας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| chariots. | **<big>[[G0716\|αρμάτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| fled | **<big>[[G5343\|έφυγεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its tents. | **<big>[[G4638\|σκηνώματα]]</big>** **<big>[[G1473\|αυτόυ]]</big>** |
 [[2Kgs.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.20|<< 2 Kings 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.22|2 Kings 8:22 >>]]</td></tr></table>
 
 

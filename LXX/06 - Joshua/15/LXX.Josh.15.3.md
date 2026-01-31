@@ -7,37 +7,37 @@ And it went out to the south side to Maalehacrabbim, and passed along to Zin, an
 proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the south of Kadesh-barnea, ran past Hezron up to Addar, and curved toward Karka.<small><sub>**MT:**</sub></small>
 [[Josh.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.2|<< Joshua 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.4|Joshua 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it travels over | <big><span class="asgreek">διαπορεύεται</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascent leading to | <big><span class="asgreek">προσαναβάσεως</span></big> <sup><small><small>[[G8909]]</small></small></sup> |
-| Acrabbim, | <big><span class="asgreek">Ακραβίν</span></big> <sup><small><small>[[H4610]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| goes around | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| Zin, | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascends | <big><span class="asgreek">αναβαίνει</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Kadesh | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| Barnea, | <big><span class="asgreek">Βαρνή</span></big> <sup><small><small>[[H6947]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it goes forth to | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| Hezron, | <big><span class="asgreek">Εσρών</span></big> <sup><small><small>[[G2074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascends | <big><span class="asgreek">προσαναβαίνει</span></big> <sup><small><small>[[G4320]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Adar, | <big><span class="asgreek">Αδδαρά</span></big> <sup><small><small>[[H0144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it marches around | <big><span class="asgreek">εκπεριπορεύεται</span></big> <sup><small><small>[[G7127]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] descent | <big><span class="asgreek">δυσμάς</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| of Kadesh. | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it travels over | **<big>[[G1279\|διαπορεύεται]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ascent leading to | **<big>[[G8909\|προσαναβάσεως]]</big>** |
+| Acrabbim, | **<big>[[H4610\|Ακραβίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| goes around | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| Zin, | **<big>[[H6790\|Σινά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascends | **<big>[[G0305\|αναβαίνει]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] south | **<big>[[G3047\|λιβός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Kadesh | **<big>[[H6946\|Κάδης]]</big>** |
+| Barnea, | **<big>[[H6947\|Βαρνή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it goes forth to | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| Hezron, | **<big>[[G2074\|Εσρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascends | **<big>[[G4320\|προσαναβαίνει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Adar, | **<big>[[H0144\|Αδδαρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it marches around | **<big>[[G7127\|εκπεριπορεύεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] descent | **<big>[[G1424\|δυσμάς]]</big>** |
+| of Kadesh. | **<big>[[H6946\|Κάδης]]</big>** |
 [[Josh.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.2|<< Joshua 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.4|Joshua 15:4 >>]]</td></tr></table>
 
 

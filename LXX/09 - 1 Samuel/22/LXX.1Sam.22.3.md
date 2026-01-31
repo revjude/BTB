@@ -7,38 +7,38 @@ And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let 
 From there David went to Mizpeh of Moab, where he said to the king of Moab, “Please let my father and mother stay with you until I learn what God will do for me.”<small><sub>**MT:**</sub></small>
 [[1Sam.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.2|<< 1 Samuel 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.4|1 Samuel 22:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David went forth | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> <big><span class="asgreek">Δαύιδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mizpeh | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| Let | <big><span class="asgreek">γινέσθωσαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[be\] by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ότου</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| I know | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David went forth | **<big>[[G0565\|απήλθε]]</big>** **<big>[[G4622\|Δαύιδ]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Mizpeh | **<big>[[H4709\|Μασσηφά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| Let | **<big>[[G1096\|γινέσθωσαν]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my mother | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[be\] by | **<big>[[G3844\|παρά]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G3748\|ότου]]</big>** |
+| I know | **<big>[[G1097\|γνώ]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
 [[1Sam.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.2|<< 1 Samuel 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.4|1 Samuel 22:4 >>]]</td></tr></table>
 
 

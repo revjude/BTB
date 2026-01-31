@@ -7,31 +7,31 @@ Cause me to hear thy lovingkindness in the morning; for in thee do I trust: caus
 Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul.<small><sub>**MT:**</sub></small>
 [[Ps.143.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.7|<< Psalm 143:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.9|Psalm 143:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to be\] audible | <big><span class="asgreek">ακουστόν</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| Cause | <big><span class="asgreek">ποίησόν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I hoped. | <big><span class="asgreek">ήλπισα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| Make known | <big><span class="asgreek">γνώρισόν</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I shall go! | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I lifted | <big><span class="asgreek">ήρα</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul. | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[to be\] audible | **<big>[[G6200\|ακουστόν]]</big>** |
+| Cause | **<big>[[G4160\|ποίησόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| I hoped. | **<big>[[G1679\|ήλπισα]]</big>** |
+| Make known | **<big>[[G1107\|γνώρισόν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| I shall go! | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| I lifted | **<big>[[G0142\|ήρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul. | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.143.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.7|<< Psalm 143:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.9|Psalm 143:9 >>]]</td></tr></table>
 
 

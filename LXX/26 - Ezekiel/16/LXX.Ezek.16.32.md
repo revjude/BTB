@@ -7,20 +7,20 @@ The wife  committing adultery \[is\] likened to you, the one taking wages from h
 You adulterous wife! You receive strangers instead of your own husband!<small><sub>**MT:**</sub></small>
 [[Ezek.16.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.31|<< Ezekiel 16:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.33|Ezekiel 16:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| committing adultery | <big><span class="asgreek">μοιχωμένη</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
-| \[is\] likened | <big><span class="asgreek">ομοία</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαμβάνουσα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| wages | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| committing adultery | **<big>[[G3429\|μοιχωμένη]]</big>** |
+| \[is\] likened | **<big>[[G3664\|ομοία]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her husband | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| taking | **<big>[[G2983\|λαμβάνουσα]]</big>** |
+| wages | **<big>[[G3410\|μισθώματα]]</big>** |
 [[Ezek.16.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.31|<< Ezekiel 16:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.33|Ezekiel 16:33 >>]]</td></tr></table>
 
 

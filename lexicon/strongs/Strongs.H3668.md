@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּנַעֲנָה‎</span></big> **Kᵉnaʻănâh** <small>*(ken-ah-an-aw')*</small> ==**Chenaanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎כְּנַעַן‎</span><sup><small>[[H3667]]</small></sup></small>
+**<big><span class="ashebrew">‎כְּנַעֲנָה‎</span></big>** **Kᵉnaʻănâh** <small>*(ken-ah-an-aw')*</small> ==**Chenaanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>feminine of **<big>[[H3667|‎כְּנַעַן‎]]</big>**</small>
 
 $\quad$ Chenaanah.
 - § Chenaanah = *"trader"*

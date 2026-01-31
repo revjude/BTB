@@ -7,49 +7,49 @@ And the ass saw the angel of the LORD standing in the way, and his sword drawn i
 When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.<small><sub>**MT:**</sub></small>
 [[Num.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.22|<< Numbers 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.24|Numbers 22:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seeing | <big><span class="asgreek">ιδούσα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">αγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| opposing it | <big><span class="asgreek">ανθεστηκότα</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| being unsheathed | <big><span class="asgreek">εσπασμένην</span></big> <sup><small><small>[[G4685]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned aside | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain. | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to straighten | <big><span class="asgreek">ευθύναι</span></big> <sup><small><small>[[G2116]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way. | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| seeing | **<big>[[G1492\|ιδούσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| donkey | **<big>[[G3688\|όνος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| angel | **<big>[[G0032\|αγγελον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| opposing it | **<big>[[G0436\|ανθεστηκότα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| being unsheathed | **<big>[[G4685\|εσπασμένην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| turned aside | **<big>[[G1578\|εξέκλινεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| donkey | **<big>[[G3688\|όνος]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| way, | **<big>[[G3598\|οδού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plain. | **<big>[[G8676\|πεδίον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| donkey | **<big>[[G3688\|όνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to straighten | **<big>[[G2116\|ευθύναι]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way. | **<big>[[G3598\|οδώ]]</big>** |
 [[Num.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.22|<< Numbers 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.24|Numbers 22:24 >>]]</td></tr></table>
 
 

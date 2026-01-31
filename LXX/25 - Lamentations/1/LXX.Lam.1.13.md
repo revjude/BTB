@@ -9,34 +9,34 @@ From above hath he sent fire into my bones, and it prevaileth against them: he h
 He sent fire from on high, and it overpowered my bones. He spread a net for my feet and turned me back. He made me desolate, faint all the day long.<small><sub>**MT:**</sub></small>
 [[Lam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΜΗΜ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΜΗΜ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| From out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his height | <big><span class="asgreek">ύψους</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bones, | <big><span class="asgreek">οστέοις</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led it down. | <big><span class="asgreek">κατήγαγεν</span></big> <sup><small><small>[[G2609]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He opened and spread out | <big><span class="asgreek">διεπέτασε</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| a net | <big><span class="asgreek">δίκτυον</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my feet. | <big><span class="asgreek">ποσί</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He turned | <big><span class="asgreek">απέστρεψέ</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear. | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| He appointed | <big><span class="asgreek">έδωκέ</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for being removed from view; | <big><span class="asgreek">ηφανισμένην</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| an entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| for grieving. | <big><span class="asgreek">οδυνωμένην</span></big> <sup><small><small>[[G3600]]</small></small></sup> |
+| ΜΗΜ <sup><small>[acrostic title]</small></sup> |  |
+| From out of | **<big>[[G1537\|εξ]]</big>** |
+| his height | **<big>[[G5311\|ύψους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my bones, | **<big>[[G3747\|οστέοις]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led it down. | **<big>[[G2609\|κατήγαγεν]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| He opened and spread out | **<big>[[G6861\|διεπέτασε]]</big>** |
+| a net | **<big>[[G1350\|δίκτυον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| for my feet. | **<big>[[G4228\|ποσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| He turned | **<big>[[G0654\|απέστρεψέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear. | **<big>[[G3694\|οπίσω]]</big>** |
+| He appointed | **<big>[[G1325\|έδωκέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| for being removed from view; | **<big>[[G0853\|ηφανισμένην]]</big>** |
+| an entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| for grieving. | **<big>[[G3600\|οδυνωμένην]]</big>** |
 [[Lam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
 

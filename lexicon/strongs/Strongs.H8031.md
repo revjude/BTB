@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁלִשָׁה‎</span></big> **Shâlishâh** <small>*(shaw-lee-shaw')*</small> ==**Shalishah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine from <span class="ashebrew">‎שָׁלַשׁ‎</span><sup><small>[[H8027]]</small></sup>; trebled land</small>
+**<big><span class="ashebrew">‎שָׁלִשָׁה‎</span></big>** **Shâlishâh** <small>*(shaw-lee-shaw')*</small> ==**Shalishah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine from **<big>[[H8027|‎שָׁלַשׁ‎]]</big>**; trebled land</small>
 
 $\quad$ Shalisha.
 - § Shalisha = *"thirs"*

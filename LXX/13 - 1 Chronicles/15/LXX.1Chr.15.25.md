@@ -7,32 +7,32 @@ So David, and the elders of Israel, and the captains over thousands, went to bri
 So David, the elders of Israel, and the commanders of thousands went with rejoicing to bring the ark of the covenant of the LORD from the house of Obed-edom.<small><sub>**MT:**</sub></small>
 [[1Chr.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.24|<< 1 Chronicles 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.26|1 Chronicles 15:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David was, | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">κα</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commanders of thousands, | <big><span class="asgreek">χιλίαρχοι</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενοι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">ανενεγκείν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness. | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David was, | **<big>[[G1510\|ην]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|κα]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| commanders of thousands, | **<big>[[G5506\|χιλίαρχοι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| going | **<big>[[G4198\|πορευόμενοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G0399\|ανενεγκείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| gladness. | **<big>[[G2167\|ευφροσύνη]]</big>** |
 [[1Chr.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.24|<< 1 Chronicles 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.26|1 Chronicles 15:26 >>]]</td></tr></table>
 
 

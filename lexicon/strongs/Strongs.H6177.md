@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲרוֹעֵר‎</span></big> **ʻĂrôwʻêr** <small>*(ar-o-ayr')*</small> ==**Aroer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">עֲרֹעֵר</span> **ʻĂrôʻêr** <small>*(ar-o-ayr')*</small>; or <span class="ashebrew">עַרְעוֹר</span> **ʻArʻôwr** <small>*(ar-ore')*</small>; the same as <span class="ashebrew">‎עֲרוֹעֵר‎</span><sup><small>[[H6176]]</small></sup>; nudity of situation</small>
+**<big><span class="ashebrew">‎עֲרוֹעֵר‎</span></big>** **ʻĂrôwʻêr** <small>*(ar-o-ayr')*</small> ==**Aroer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲרֹעֵר</span></big>** **ʻĂrôʻêr** <small>*(ar-o-ayr')*</small>; or **<big><span class="ashebrew">עַרְעוֹר</span></big>** **ʻArʻôwr** <small>*(ar-ore')*</small>; the same as **<big>[[H6176|‎עֲרוֹעֵר‎]]</big>**; nudity of situation</small>
 
 $\quad$ Aroer.
 - § Aroer = *"ruins"*

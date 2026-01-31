@@ -11,38 +11,38 @@ Above Him stood seraphim, each having six wings: With two wings they covered the
 > $\quad$ referenced by: [[Rev.4.5|Rev 4:5]] ☩ [[Rev.4.8|Rev 4:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seraphim | <big><span class="asgreek">σεραφείμ</span></big> <sup><small><small>[[G9067]]</small></small></sup> |
-| stood | <big><span class="asgreek">ειστήκεισαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτέρυγες</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one, | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτέρυγες</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[other\] one. | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[first\] | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| they covered up | <big><span class="asgreek">κατεκάλυπτον</span></big> <sup><small><small>[[G2619]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| front; | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| and with the \[second\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| they covered up | <big><span class="asgreek">κατεκάλυπτον</span></big> <sup><small><small>[[G2619]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet; | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with the \[third\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσίν</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| they flew. | <big><span class="asgreek">επέταντο</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| seraphim | **<big>[[G9067\|σεραφείμ]]</big>** |
+| stood | **<big>[[G2476\|ειστήκεισαν]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| wings | **<big>[[G4420\|πτέρυγες]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one, | **<big>[[G1520\|ενί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| wings | **<big>[[G4420\|πτέρυγες]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| \[other\] one. | **<big>[[G1520\|ενί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| with the | **<big>[[G3588\|ταις]]</big>** |
+| \[first\] | **<big>[[G3303\|μεν]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| they covered up | **<big>[[G2619\|κατεκάλυπτον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| front; | **<big>[[G4383\|πρόσωπον]]</big>** |
+| and with the \[second\]\<obj.> | **<big>[[G3588\|ταις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| they covered up | **<big>[[G2619\|κατεκάλυπτον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| feet; | **<big>[[G4228\|πόδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with the \[third\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| two | **<big>[[G1417\|δυσίν]]</big>** |
+| they flew. | **<big>[[G4072\|επέταντο]]</big>** |
 [[Isa.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.1|<< Isaiah 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.3|Isaiah 6:3 >>]]</td></tr></table>
 
 

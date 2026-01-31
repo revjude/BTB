@@ -7,41 +7,41 @@ Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return
 that this is what the LORD says: ‘You are not to go up and fight against your brothers. Each of you must return home, for this is My doing.’” So they listened to the words of the LORD and turned back from going against Jeroboam.<small><sub>**MT:**</sub></small>
 [[2Chr.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.3|<< 2 Chronicles 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.5|2 Chronicles 11:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You shall not ascend, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αναβήσεσθε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| wage war | <big><span class="asgreek">πολεμήσετε</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren. | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| return | <big><span class="asgreek">αποστρέφετε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house! | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| took place | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they heeded | <big><span class="asgreek">επήκουσαν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they turned | <big><span class="asgreek">απεστράφησαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jeroboam. | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You shall not ascend, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0305\|αναβήσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| wage war | **<big>[[G4170\|πολεμήσετε]]</big>** |
+| against | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your brethren. | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| return | **<big>[[G0654\|αποστρέφετε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house! | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| took place | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they heeded | **<big>[[G1873\|επήκουσαν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| word | **<big>[[G3056\|λόγου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they turned | **<big>[[G0654\|απεστράφησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jeroboam. | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
 [[2Chr.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.3|<< 2 Chronicles 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.5|2 Chronicles 11:5 >>]]</td></tr></table>
 
 

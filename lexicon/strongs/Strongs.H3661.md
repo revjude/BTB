@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּנַן‎</span></big> **kânan** <small>*(kaw-nan')*</small> ==**stock**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎כָּנַן‎</span></big>** **kânan** <small>*(kaw-nan')*</small> ==**stock**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] vineyard.
@@ -6,4 +6,4 @@ $\quad$ [idiom] vineyard.
 
 **1)** (Qal) root, support (of tree), shoot, stock
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καταρτίζω</span><sup><small>[[G2675]]</small></sup>
+<small>See Greek: </small>**<big>[[G2675|καταρτίζω]]</big>**

@@ -6,16 +6,16 @@ No man with crushed or severed genitals may enter the assembly of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.30|<< Deuteronomy 22:30]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.2|Deuteronomy 23:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go  | <span class="ashebrew"><big>יָבֹ֧א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] is wounded of  | <span class="ashebrew"><big>פְצֽוּעַ </big></span><small><small><sup>[[H6481]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| fe.tzu.a'- <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crushing  | <span class="ashebrew"><big>דַּכָּ֛א </big></span><small><small><sup>[[H1795]]</sup></small></small> &#8207;| da.Ka' <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] is cut off of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְר֥וּת </big></span><small><small><sup>[[H3772G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Rut <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| penis  | <span class="ashebrew"><big>שָׁפְכָ֖ה </big></span><small><small><sup>[[H8212]]</sup></small></small> &#8207;| sha.fe.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] assembly of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קְהַ֥ל </big></span><small><small><sup>[[H6951]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> k.Hal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go  |**<big>&#8207;[[H0935G\|יָבֹ֧א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] is wounded of  |**<big>&#8207;[[H6481\|פְצֽוּעַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fe.tzu.a'-<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crushing  |**<big>&#8207;[[H1795\|דַּכָּ֛א]]&#8207; </big>**| da.Ka'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] is cut off of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3772G\|כְר֥וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Rut<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| penis  |**<big>&#8207;[[H8212\|שָׁפְכָ֖ה]]&#8207; </big>**| sha.fe.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] assembly of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6951\|קְהַ֥ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.30|<< Deuteronomy 22:30]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.2|Deuteronomy 23:2 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ The LORD render to every man his righteousness and his faithfulness: for the LOR
 May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not extend my hand against the LORD’s anointed.<small><sub>**MT:**</sub></small>
 [[1Sam.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.22|<< 1 Samuel 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.24|1 Samuel 26:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| will restore | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness | <big><span class="asgreek">δικαιοσύνας</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his trust; | <big><span class="asgreek">πίστιν</span></big> <sup><small><small>[[G4102]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| delivered | <big><span class="asgreek">παρέδωκέ</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| my hands, | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησα</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| to bear | <big><span class="asgreek">επενεγκείν</span></big> <sup><small><small>[[G2018]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] anointed one | <big><span class="asgreek">χριστόν</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| will restore | **<big>[[G1994\|επιστρέψει]]</big>** |
+| to each | **<big>[[G1538\|εκάστω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his righteousness | **<big>[[G1343\|δικαιοσύνας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his trust; | **<big>[[G4102\|πίστιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| delivered | **<big>[[G3860\|παρέδωκέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| my hands, | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησα]]</big>** |
+| to bear | **<big>[[G2018\|επενεγκείν]]</big>** |
+| my hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] anointed one | **<big>[[G5547\|χριστόν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.22|<< 1 Samuel 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.24|1 Samuel 26:24 >>]]</td></tr></table>
 
 

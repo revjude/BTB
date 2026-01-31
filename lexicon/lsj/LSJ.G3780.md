@@ -1,4 +1,4 @@
-form of: <small>[[G3756]]</small> 
+form of: <small>**<big>[[G3756|οὐ]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==οὐχί==</span></b>, 

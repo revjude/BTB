@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַהֲרַי‎</span></big> **Mahăray** <small>*(mah-har-ah'-ee)*</small> ==**Maharai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מָהַר‎</span><sup><small>[[H4116]]</small></sup>; hasty</small>
+**<big><span class="ashebrew">‎מַהֲרַי‎</span></big>** **Mahăray** <small>*(mah-har-ah'-ee)*</small> ==**Maharai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4116|‎מָהַר‎]]</big>**; hasty</small>
 
 $\quad$ Maharai.
 - § Maharai = *"impetuous"*

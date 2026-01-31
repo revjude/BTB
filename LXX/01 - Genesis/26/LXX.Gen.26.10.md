@@ -7,30 +7,30 @@ And Abimelech said, What [is] this thou hast done unto us? one of the people mig
 “What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”<small><sub>**MT:**</sub></small>
 [[Gen.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.9|<< Genesis 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.11|Genesis 26:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[Is it a\] small \[thing\] | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| if someone | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kind | <big><span class="asgreek">γένους</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| of my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wife, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you brought | <big><span class="asgreek">επήγαγες</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[a sin of\] ignorance? | <big><span class="asgreek">άγνοιαν</span></big> <sup><small><small>[[G0052]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[is\] this | **<big>[[G3778\|τούτο]]</big>** |
+| you did | **<big>[[G4160\|εποίησας]]</big>** |
+| to us? | **<big>[[G1473\|ημίν]]</big>** |
+| \[Is it a\] small \[thing\] | **<big>[[G3398\|μικρού]]</big>** |
+| went to bed | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| if someone | **<big>[[G5100\|τις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| kind | **<big>[[G1085\|γένους]]</big>** |
+| of my | **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your wife, | **<big>[[G1135\|γυναικός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you brought | **<big>[[G1863\|επήγαγες]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| \[a sin of\] ignorance? | **<big>[[G0052\|άγνοιαν]]</big>** |
 [[Gen.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.9|<< Genesis 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.11|Genesis 26:11 >>]]</td></tr></table>
 
 

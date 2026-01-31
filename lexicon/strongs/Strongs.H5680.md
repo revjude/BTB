@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִבְרִי‎</span></big> **ʻIbrîy** <small>*(ib-ree')*</small> ==**Hebrew**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎עֵבֵר‎</span><sup><small>[[H5677]]</small></sup></small>
+**<big><span class="ashebrew">‎עִבְרִי‎</span></big>** **ʻIbrîy** <small>*(ib-ree')*</small> ==**Hebrew**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H5677|‎עֵבֵר‎]]</big>**</small>
 
 $\quad$ Hebrew(-ess, woman).
 - § Hebrew = *"one from beyond"*

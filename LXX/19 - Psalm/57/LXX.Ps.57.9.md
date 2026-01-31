@@ -7,17 +7,17 @@ I will praise thee, O Lord, among the people: I will sing unto thee among the na
 I will praise You, O Lord, among the nations; I will sing Your praises among the peoples.<small><sub>**MT:**</sub></small>
 [[Ps.57.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.8|<< Psalm 57:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.10|Psalm 57:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will make acknowledgment | <big><span class="asgreek">εξομολογήσομαί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαοίς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will strum | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| nations. | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| I will make acknowledgment | **<big>[[G1843\|εξομολογήσομαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| peoples, | **<big>[[G2992\|λαοίς]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| I will strum | **<big>[[G5567\|ψαλώ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| nations. | **<big>[[G1484\|έθνεσιν]]</big>** |
 [[Ps.57.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.8|<< Psalm 57:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.10|Psalm 57:10 >>]]</td></tr></table>
 
 

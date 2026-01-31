@@ -6,14 +6,14 @@ what was declared by wise men and was not concealed from their fathers,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.19|Job 15:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise [people]  | <span class="ashebrew"><big>חֲכָמִ֥ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have told  | <span class="ashebrew"><big>יַגִּ֑ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ya.Gi.du <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have hidden  | <span class="ashebrew"><big>כִֽ֝חֲד֗וּ </big></span><small><small><sup>[[H3582]]</sup></small></small> &#8207;| khi.cha.Du <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from ancestors their  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֲבוֹתָֽ </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.vo.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֥ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have told  |**<big>&#8207;[[H5046\|יַגִּ֑ידוּ]]&#8207; </big>**| ya.Gi.du<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have hidden  |**<big>&#8207;[[H3582\|כִֽ֝חֲד֗וּ]]&#8207; </big>**| khi.cha.Du<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from ancestors their  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0001G\|אֲבוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.19|Job 15:19 >>]]</td></tr></table>
 
 

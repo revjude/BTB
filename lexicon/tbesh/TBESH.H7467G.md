@@ -1,5 +1,4 @@
-<span class="ashebrew">‎רְעוּאֵל‎</span> <small>***(re.u.el)***</small> ==**Reuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the Edomites living at the time of the Patriarchs, first mentioned at [[Gen.36.4|Gen.36.4]]
--  son of: Esau ([[H6215]]) and Mahalath ([[H4258]])
--  half-brother of: Eliphaz ([[H0464]]), Jeush ([[H3266]]), Jalam ([[H3281]]) and Korah ([[H7141]])
--  father of: Nahath ([[H5184]]), Zerah ([[H2226]]), Shammah ([[H8048]]) and Mizzah ([[H4199]])
+-  son of: Esau (**<big>[[H6215|עֵשָׂו]]</big>**) and Mahalath (**<big>[[H4258|מַחֲלַת]]</big>**)
+-  half-brother of: Eliphaz (**<big>[[H0464|אֱלִיפַז]]</big>**), Jeush (**<big>[[H3266|יְעוּשׁ]]</big>**), Jalam (**<big>[[H3281|יַעְלָם]]</big>**) and Korah (**<big>[[H7141|קֹרַח]]</big>**)
+-  father of: Nahath (**<big>[[H5184|נַחַת]]</big>**), Zerah (**<big>[[H2226|זֶרַח]]</big>**), Shammah (**<big>[[H8048|שַׁמָּה]]</big>**) and Mizzah (**<big>[[H4199|מִזָּה]]</big>**)

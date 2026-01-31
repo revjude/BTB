@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שִׁתִּין‎</span></big> **shittîyn** <small>*(shit-teen')*</small> ==**sixty**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שִׁשִּׁים‎</span><sup><small>[[H8346]]</small></sup> (compare <span class="asaramaic">‎שֵׁת‎</span><sup><small>[[H8353]]</small></sup>)</small>
+**<big><span class="asaramaic">‎שִׁתִּין‎</span></big>** **shittîyn** <small>*(shit-teen')*</small> ==**sixty**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8346|‎שִׁשִּׁים‎]]</big>** (compare **<big>[[H8353|‎שֵׁת‎]]</big>**)</small>
 
 $\quad$ threescore.
 - ***sixty***

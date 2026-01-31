@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Tema</span>, an Arabian city and tribe known for its caravans and trade, mentioned in prophetic and poetic texts \([[Job.6.19|Job 6:19]]; Isa. 21:14; Jer. 25:23\).
 - A location first mentioned at [[Job.6.19|Job.6.19]]; 
-- only referred to as Tema<[[H8485H]]> \(<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Tema **<big>[[H8485|תֵּימָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=27.633172,38.554125&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tema is mentioned in several Old Testament passages as an Arabian city and tribe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tema | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>א</span>](H8485H) <small>*Hebrew*</small> | 3x | [[Job.6.19] ... [Jer.25.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tema\*\|reference=Job.6.19;Isa.21.14;Jer.25.23) |
-All Strong's for **Tema**: \[[[H8485H]]\]
+| Tema | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>א</span>](H8485H) | 3x | [[Job.6.19] ... [Jer.25.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tema\*\|reference=Job.6.19;Isa.21.14;Jer.25.23) |
+All entries for **Tema**:  **<big>[[H8485|תֵּימָא]]</big>**

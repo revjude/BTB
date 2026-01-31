@@ -1,8 +1,8 @@
 <small>*Sibraim • Landmark on the northeastern border of the Promised Land*</small>
 
 <span class='tipnrhighlight'>Sibraim</span> was a place mentioned by Ezekiel as a landmark on the northeastern border of the Promised Land, between the territory of Damascus and that of Hamath \(Ezek. 47:16\).
-- A location near Hamath<[[H2574G]]> only mentioned at [[Ezek.47.16|Ezk.47.16]]; 
-- only referred to as Sibraim<[[H5453]]> \(<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Hamath **<big>[[H2574|חֲמָת]]</big>** only mentioned at [[Ezek.47.16|Ezk.47.16]]; 
+- only referred to as Sibraim **<big>[[H5453|סִבְרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.136204,36.749488&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Ezekiel's vision of the restored Promised Land and its boundaries, including the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sibraim | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5453) <small>*Hebrew*</small> | 1x | [Ezk.47.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sibraim\*\|reference=Ezk.47.16) |
-All Strong's for **Sibraim**: \[[[H5453]]\]
+| Sibraim | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5453) | 1x | [Ezk.47.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sibraim\*\|reference=Ezk.47.16) |
+All entries for **Sibraim**:  **<big>[[H5453|סִבְרַיִם]]</big>**

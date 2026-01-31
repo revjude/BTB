@@ -7,24 +7,24 @@ Like as a woman with child, [that] draweth near the time of her delivery, is in 
 As a woman with child about to give birth writhes and cries out in pain, so were we in Your presence, O LORD.<small><sub>**MT:**</sub></small>
 [[Isa.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a \[woman\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| travailing | <big><span class="asgreek">ωδίνουσα</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| approaches | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give birth, | <big><span class="asgreek">τεκείν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her \[birth\] pangs | <big><span class="asgreek">ωδίνι</span></big> <sup><small><small>[[G5604]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she cries out, | <big><span class="asgreek">εκέκραξεν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| we were | <big><span class="asgreek">εγένηθημεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your beloved. | <big><span class="asgreek">αγαπητώ</span></big> <sup><small><small>[[G0027]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a \[woman\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| travailing | **<big>[[G5605\|ωδίνουσα]]</big>** |
+| approaches | **<big>[[G1448\|εγγίζει]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give birth, | **<big>[[G5088\|τεκείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her \[birth\] pangs | **<big>[[G5604\|ωδίνι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she cries out, | **<big>[[G2896\|εκέκραξεν]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| we were | **<big>[[G1096\|εγένηθημεν]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your beloved. | **<big>[[G0027\|αγαπητώ]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
 

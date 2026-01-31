@@ -7,16 +7,16 @@ to the sons of Uzziel -- Michah; to the sons of Michah -- Shamir.
 From the sons of Uzziel: Micah; from the sons of Micah: Shamir.<small><sub>**MT:**</sub></small>
 [[1Chr.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.23|<< 1 Chronicles 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.25|1 Chronicles 24:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Uzziel -- | <big><span class="asgreek">Οζιήλ</span></big> <sup><small><small>[[H5816]]</small></small></sup> |
-| Michah; | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Michah -- | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| Shamir. | <big><span class="asgreek">Σεμμήρ</span></big> <sup><small><small>[[H8069]]</small></small></sup> |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Uzziel -- | **<big>[[H5816\|Οζιήλ]]</big>** |
+| Michah; | **<big>[[H4318\|Μιχά]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Michah -- | **<big>[[H4318\|Μιχά]]</big>** |
+| Shamir. | **<big>[[H8069\|Σεμμήρ]]</big>** |
 [[1Chr.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.23|<< 1 Chronicles 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.25|1 Chronicles 24:25 >>]]</td></tr></table>
 
 

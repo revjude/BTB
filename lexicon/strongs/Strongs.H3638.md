@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כִּלְמָד‎</span></big> **Kilmâd** <small>*(kil-mawd')*</small> ==**Chilmad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎כִּלְמָד‎</span></big>** **Kilmâd** <small>*(kil-mawd')*</small> ==**Chilmad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Chilmad.

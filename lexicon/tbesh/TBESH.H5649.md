@@ -1,4 +1,3 @@
-<span class="asaramaic">‎עֲבַד‎</span> <small>***(a.vad)***</small> ==**servant/slave**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H5650]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H5650|עֶבֶד]]</big>**</small> 
 
-- Aramaic of <i>e.ved</i> (<span class='ashebrew'>‎ע‎</span>ֶ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ד‎</span> "servant/slave" [[H5650]])
+- Aramaic of <i>e.ved</i> (<span class='ashebrew'>‎ע‎</span>ֶ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ד‎</span> "servant/slave" **<big>[[H5650|עֶבֶד]]</big>**)

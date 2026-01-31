@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַרְצָא‎</span></big> **ʼartsâʼ** <small>*(ar-tsaw')*</small> ==**Arza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֶרֶץ‎</span><sup><small>[[H0776]]</small></sup>; earthiness</small>
+**<big><span class="ashebrew">‎אַרְצָא‎</span></big>** **ʼartsâʼ** <small>*(ar-tsaw')*</small> ==**Arza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0776|‎אֶרֶץ‎]]</big>**; earthiness</small>
 
 $\quad$ Arza.
 - § Arza = *"earthy"*
@@ -7,4 +7,4 @@ $\quad$ Arza.
 
 **1)** housekeeper of Elah, king of Israel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διακρίνω</span><sup><small>[[G1252]]</small></sup>
+<small>See Greek: </small>**<big>[[G1252|διακρίνω]]</big>**

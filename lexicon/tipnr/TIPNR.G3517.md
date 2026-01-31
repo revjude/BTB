@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Nereus</span> was a Christian in Rome to whom Paul sent greetings in his letter to the Romans.
 - A man living at the time of the New Testament, only mentioned at [[Rom.16.15|Rom.16.15]]; 
-- only referred to as Nereus<[[G3517]]> \(<span class='tipnrLangGreek'>Νηρεύς</span>\).
+- only referred to as Nereus **<big>[[G3517|Νηρεύς]]</big>**.
 
 Nereus is mentioned briefly in [[Rom.16.15|Romans 16:15]] as one of the individuals to whom the Apostle Paul sends greetings in his letter to the church in Rome. Paul's greeting to Nereus is part of a larger list of personal greetings to various members of the Roman Christian community. 
 
@@ -18,5 +18,5 @@ The inclusion of Nereus in Paul's greetings highlights the diversity and interco
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nereus | [<span class='tipnrLangGreek'>Νηρεύς</span>](G3517) <small>*Greek*</small> | 1x | [Rom.16.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nereus\*\|reference=Rom.16.15) |
-All Strong's for **Nereus**: \[[[G3517]]\]
+| Nereus | [<span class='tipnrLangGreek'>Νηρεύς</span>](G3517) | 1x | [Rom.16.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nereus\*\|reference=Rom.16.15) |
+All entries for **Nereus**:  **<big>[[G3517|Νηρεύς]]</big>**

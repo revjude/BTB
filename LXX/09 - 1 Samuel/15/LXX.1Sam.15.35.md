@@ -7,29 +7,29 @@ And Samuel came no more to see Saul until the day of his death: nevertheless Sam
 And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.<small><sub>**MT:**</sub></small>
 [[1Sam.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.34|<< 1 Samuel 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.1|1 Samuel 16:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to see | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of his death, | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Samuel mourned | <big><span class="asgreek">επένθει</span></big> <sup><small><small>[[G3996]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| repented | <big><span class="asgreek">μετεμελήθη</span></big> <sup><small><small>[[G3338]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Saul reigned | <big><span class="asgreek">εβασίλευσε τον Σαούλ</span></big> <sup><small><small>[[G0936]][[G3588]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσέθετο]]</big>** |
+| Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to see | **<big>[[G1492\|ιδείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρας]]</big>** |
+| of his death, | **<big>[[G2288\|θανάτου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Samuel mourned | **<big>[[G3996\|επένθει]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| repented | **<big>[[G3338\|μετεμελήθη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Saul reigned | **<big>[[G0936\|εβασίλευσε τον Σαούλ]]</big>**<sup><small>[[G3588\| [ • ] ]]</small></sup> |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Sam.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.34|<< 1 Samuel 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.1|1 Samuel 16:1 >>]]</td></tr></table>
 
 

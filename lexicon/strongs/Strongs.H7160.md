@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָרַן‎</span></big> **qâran** <small>*(kaw-ran')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; to push or gore; used only as denominative from <span class="ashebrew">‎קֶרֶן‎</span><sup><small>[[H7161]]</small></sup>,</small>
+**<big><span class="ashebrew">‎קָרַן‎</span></big>** **qâran** <small>*(kaw-ran')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to push or gore; used only as denominative from **<big>[[H7161|‎קֶרֶן‎]]</big>**,</small>
 
 $\quad$ have horns, shine.
 - ***to shoot out horns***
@@ -9,4 +9,4 @@ $\quad$ have horns, shine.
 $\quad$ **1a)** (Qal) to send out rays
 $\quad$ **1b)** (Hiphil) to display or grow horns, be horned
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">ἐκφέρω</span><sup><small>[[G1627]]</small></sup> · <span class="asgreek">κέρας</span><sup><small>[[G2768]]</small></sup>
+<small>See Greek: </small>**<big>[[G1392|δοξάζω]]</big>** · **<big>[[G1627|ἐκφέρω]]</big>** · **<big>[[G2768|κέρας]]</big>**

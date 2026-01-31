@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chesulloth</span>, also known as Chisloth-tabor or Tabor, was a town on the border between Issachar and Zebulun.
 - A location first mentioned at [[Josh.19.18|Jos.19.18]]; 
-- referred to as Chesulloth<[[H3694]]> \(<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ס</span>ֻ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\), or Chisloth-tabor \(NIV= Kisloth Tabor\) <[[H3696]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ר</span>\), or Tabor<[[H8396I]]> \(<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- referred to as Chesulloth **<big>[[H3694|כְּסֻלּוֹת]]</big>**, or Chisloth-tabor \(NIV= Kisloth Tabor\)  **<big>[[H3696|כִּסְלֹת תָּבֹר]]</big>**, or Tabor **<big>[[H8396|תָּבוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.683231,35.324694&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,7 +16,7 @@ The exact location of Chesulloth is uncertain, but its proximity to Mount Tabor 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chesulloth | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ס</span>ֻ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3694) <small>*Hebrew*</small> | 1x | [Jos.19.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chesulloth\*\|reference=Jos.19.18) |
-| Chisloth-tabor (NIV= Kisloth Tabor) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H3696) <small>*Hebrew*</small> | 1x | [Jos.19.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chisloth\*\|reference=Jos.19.12) |
-| Tabor | [<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H8396I) <small>*Hebrew*</small> | 1x | [1Ch.6.77 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tabor\*\|reference=1Ch.6.77) |
-All Strong's for **Chesulloth or Chisloth-tabor or Tabor**: \[[[H3694]]\] \[[[H3696]]\] \[[[H8396I]]\]
+| Chesulloth | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ס</span>ֻ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3694) | 1x | [Jos.19.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chesulloth\*\|reference=Jos.19.18) |
+| Chisloth-tabor (NIV= Kisloth Tabor) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H3696) | 1x | [Jos.19.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chisloth\*\|reference=Jos.19.12) |
+| Tabor | [<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H8396I) | 1x | [1Ch.6.77 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tabor\*\|reference=1Ch.6.77) |
+All entries for **Chesulloth or Chisloth-tabor or Tabor**:  **<big>[[H3694|כְּסֻלּוֹת]]</big>** ☩  **<big>[[H3696|כִּסְלֹת תָּבֹר]]</big>** ☩  **<big>[[H8396|תָּבוֹר]]</big>**

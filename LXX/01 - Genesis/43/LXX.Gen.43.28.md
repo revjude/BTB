@@ -7,29 +7,29 @@ And they answered, Thy servant our father [is] in good health, he [is] yet alive
 “Your servant our father is well,” they answered. “He is still alive.” And they bowed down to honor him.<small><sub>**MT:**</sub></small>
 [[Gen.43.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.27|<< Genesis 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.29|Genesis 43:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| He is in health -- | <big><span class="asgreek">υγιαίνει</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our father, | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| lives. | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Blessed be | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bowing | <big><span class="asgreek">κύψαντες</span></big> <sup><small><small>[[G2955]]</small></small></sup> |
-| they did obeisance | <big><span class="asgreek">προσεκύνησαν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| He is in health -- | **<big>[[G5198\|υγιαίνει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our father, | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| lives. | **<big>[[G2198\|ζη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Blessed be | **<big>[[G2128\|ευλογητός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| that man | **<big>[[G0444\|άνθρωπος]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| by God. | **<big>[[G2316\|θεώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| bowing | **<big>[[G2955\|κύψαντες]]</big>** |
+| they did obeisance | **<big>[[G4352\|προσεκύνησαν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Gen.43.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.27|<< Genesis 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.29|Genesis 43:29 >>]]</td></tr></table>
 
 

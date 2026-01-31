@@ -6,14 +6,14 @@ To impart prudence to the simple and knowledge and discretion to the young,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.3|<< Proverbs 1:3]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.5|Proverbs 1:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to give  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>תֵ֣ת </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Tet <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to naive people  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְתָאיִ֣ם </big></span><small><small><sup>[[H6612A]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.ta.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prudence  | <span class="ashebrew"><big>עָרְמָ֑ה </big></span><small><small><sup>[[H6195]]</sup></small></small> &#8207;| 'a.re.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a youth  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נַ֗עַר </big></span><small><small><sup>[[H5288]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Na.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דַּ֣עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and discretion  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְזִמָּֽה </big></span><small><small><sup>[[H4209]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.zi.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5414G\|תֵ֣ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to naive people  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6612A\|פְתָאיִ֣ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.ta.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prudence  |**<big>&#8207;[[H6195\|עָרְמָ֑ה]]&#8207; </big>**| 'a.re.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a youth  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H5288\|נַ֗עַר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דַּ֣עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and discretion  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4209\|מְזִמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.zi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.3|<< Proverbs 1:3]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.5|Proverbs 1:5 >>]]</td></tr></table>
 
 

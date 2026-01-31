@@ -11,34 +11,34 @@ I will make your descendants as numerous as the stars in the sky, and I will giv
 > $\quad$ referenced by: [[Acts.3.25|Acts 3:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be blessed | <big><span class="asgreek">ευλογηθήσονται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stars | **<big>[[G0792\|αστέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land. | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be blessed | **<big>[[G2127\|ευλογηθήσονται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
 [[Gen.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.3|<< Genesis 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.5|Genesis 26:5 >>]]</td></tr></table>
 
 

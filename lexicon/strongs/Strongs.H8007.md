@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׂלְמָא‎</span></big> **Salmâʼ** <small>*(sal-maw')*</small> ==**Salmon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎שַׂלְמָה‎</span><sup><small>[[H8008]]</small></sup>; clothing</small>
+**<big><span class="ashebrew">‎שַׂלְמָא‎</span></big>** **Salmâʼ** <small>*(sal-maw')*</small> ==**Salmon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H8008|‎שַׂלְמָה‎]]</big>**; clothing</small>
 
 $\quad$ Salma.
 - § Salma = *"garment"*

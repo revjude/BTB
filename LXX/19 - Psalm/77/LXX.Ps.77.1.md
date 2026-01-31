@@ -12,19 +12,19 @@ To the chief Musician, to Jeduthun, A Psalm of Asaph. I cried unto God with my v
 For the choirmaster. According to Jeduthun. A Psalm of Asaph. I cried out to God; I cried aloud to God to hear me.<small><sub>**MT:**</sub></small>
 [[Ps.77.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.12|<< Psalm 76:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.2|Psalm 77:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With my voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| my voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heeded | <big><span class="asgreek">προσέσχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| With my voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| I cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| my voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God; | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he heeded | **<big>[[G4337\|προσέσχε]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Ps.77.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.12|<< Psalm 76:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.2|Psalm 77:2 >>]]</td></tr></table>
 
 

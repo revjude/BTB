@@ -7,25 +7,25 @@ And Jehoiakim the king sent men into Egypt, [namely], Elnathan the son of Achbor
 Then King Jehoiakim sent men to Egypt: Elnathan son of Achbor along with some other men.<small><sub>**MT:**</sub></small>
 [[Jer.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.21|<< Jeremiah 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.23|Jeremiah 26:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| Elnathan | <big><span class="asgreek">Ελιακίμ</span></big> <sup><small><small>[[H0494]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Achbor, | <big><span class="asgreek">Αχοβώρ</span></big> <sup><small><small>[[H5907]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| Elnathan | **<big>[[H0494\|Ελιακίμ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Achbor, | **<big>[[H5907\|Αχοβώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Egypt. | **<big>[[G0125\|Αίγυπτον]]</big>** |
 [[Jer.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.21|<< Jeremiah 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.23|Jeremiah 26:23 >>]]</td></tr></table>
 
 

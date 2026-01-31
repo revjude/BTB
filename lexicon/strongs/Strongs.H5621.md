@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָרָב‎</span></big> **çârâb** <small>*(saw-rawb')*</small> ==**thorn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎סָרָב‎</span></big>** **çârâb** <small>*(saw-rawb')*</small> ==**thorn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to sting</small>
 
 $\quad$ brier.

@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Imri</span>, a descendant of Perez from the tribe of Judah, was among those who settled in Jerusalem after the Babylonian exile.
 - A man from the tribe of Judah  living at the time of Exile and Return, only mentioned at [[1Chr.9.4|1Ch.9.4]]; 
-- only referred to as Imri<[[H0566G]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
-- a son of Bani<[[H1137I]]>; 
--  father of Omri<[[H6018I]]>.
+- only referred to as Imri **<big>[[H0566|אִמְרִי]]</big>**; 
+- a son of Bani **<big>[[H1137|בָּנִי]]</big>**; 
+-  father of Omri **<big>[[H6018|עׇמְרִי]]</big>**.
 
 Imri is mentioned in [[1Chr.9.4|1 Chronicles 9:4]] as one of the descendants of Judah who lived in Jerusalem after the Babylonian exile. He is specifically identified as a descendant of Perez, one of the twin sons of Judah. 
 
@@ -22,8 +22,8 @@ Imri's presence in the list of those who resettled in Jerusalem underscores the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Imri | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H0566G) <small>*Hebrew*</small> | 1x | [1Ch.9.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imri\*\|reference=1Ch.9.4) |
-All Strong's for **Imri**: \[[[H0566G]]\]
+| Imri | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H0566G) | 1x | [1Ch.9.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imri\*\|reference=1Ch.9.4) |
+All entries for **Imri**:  **<big>[[H0566|אִמְרִי]]</big>**
 #### Related Profiles:
 - **[Bani](H1137I)** (father)
 - **[Omri](H6018I)** (child)

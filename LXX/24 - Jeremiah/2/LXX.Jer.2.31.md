@@ -7,34 +7,34 @@ O generation, see ye the word of the LORD. Have I been a wilderness unto Israel?
 You people of this generation, consider the word of the LORD: “Have I been a wilderness to Israel or a land of dense darkness? Why do My people say, ‘We are free to roam; we will come to You no more’?<small><sub>**MT:**</sub></small>
 [[Jer.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.30|<< Jeremiah 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.32|Jeremiah 2:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Did | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| a wilderness | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| I become | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| being made barren? | <big><span class="asgreek">κεχερσωμένη</span></big> <sup><small><small>[[G9720]]</small></small></sup> |
-| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be lorded over, | <big><span class="asgreek">κυριευθησόμεθα</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come | <big><span class="asgreek">ήξομεν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer? | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Did | **<big>[[G3361\|μη]]</big>** |
+| a wilderness | **<big>[[G2048\|έρημος]]</big>** |
+| I become | **<big>[[G1096\|εγενόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a land | **<big>[[G1093\|γη]]</big>** |
+| being made barren? | **<big>[[G9720\|κεχερσωμένη]]</big>** |
+| Why | **<big>[[G1302\|διατί]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| We will not | **<big>[[G3756\|ου]]</big>** |
+| be lorded over, | **<big>[[G2961\|κυριευθησόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall not | **<big>[[G3756\|ουχ]]</big>** |
+| come | **<big>[[G2240\|ήξομεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| any longer? | **<big>[[G2089\|έτι]]</big>** |
 [[Jer.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.30|<< Jeremiah 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.32|Jeremiah 2:32 >>]]</td></tr></table>
 
 

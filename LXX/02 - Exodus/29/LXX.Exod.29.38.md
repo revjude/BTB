@@ -11,25 +11,25 @@ This is what you are to offer regularly on the altar, each day: two lambs that a
 > $\quad$ referenced by: [[Heb.10.11|Heb 10:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar -- | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| lambs | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\], | <big><span class="asgreek">ενιαυσίους</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| unblemished, | <big><span class="asgreek">αμώμους</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| for \[each\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| perpetually -- | <big><span class="asgreek">ενδελεχώς</span></big> <sup><small><small>[[G7220]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωμα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| of perpetuity. | <big><span class="asgreek">ενδελεχισμού</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτά]]</big>** |
+| are | **<big>[[G1510\|εστιν]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| altar -- | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| lambs | **<big>[[G0286\|αμνούς]]</big>** |
+| of a year \[old\], | **<big>[[G7245\|ενιαυσίους]]</big>** |
+| unblemished, | **<big>[[G0299\|αμώμους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| for \[each\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| perpetually -- | **<big>[[G7220\|ενδελεχώς]]</big>** |
+| a yield \[offering\] | **<big>[[G7806\|κάρπωμα]]</big>** |
+| of perpetuity. | **<big>[[G7219\|ενδελεχισμού]]</big>** |
 [[Exod.29.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.37|<< Exodus 29:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.39|Exodus 29:39 >>]]</td></tr></table>
 
 

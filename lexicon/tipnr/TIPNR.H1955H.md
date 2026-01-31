@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hoshaiah</span>, the son of Maaseiah, was one of the military leaders who sought Jeremiah's counsel after the fall of Jerusalem but later disobeyed his prophetic warning.
 - A man living at the time of Divided Monarchy, first mentioned at [[Jer.42.1|Jer.42.1]]; 
-- only referred to as Hoshaiah<[[H1955H]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Jezaniah<[[H3153]]>.
+- only referred to as Hoshaiah **<big>[[H1955|הוֹשַׁעְיָה]]</big>**; 
+-  father of Jezaniah **<big>[[H3153|יְזַנְיָה]]</big>**.
 
 Hoshaiah, the son of Maaseiah, was a military leader who is mentioned in the book of Jeremiah during the events following the fall of Jerusalem to the Babylonians. 
 
@@ -19,7 +19,7 @@ The story of Hoshaiah highlights the tension between seeking God's guidance and 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hoshaiah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1955H) <small>*Hebrew*</small> | 2x | [[Jer.42.1] & [Jer.43.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshaiah\*\|reference=Jer.42.1;Jer.43.2) |
-All Strong's for **Hoshaiah**: \[[[H1955H]]\]
+| Hoshaiah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1955H) | 2x | [[Jer.42.1] & [Jer.43.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshaiah\*\|reference=Jer.42.1;Jer.43.2) |
+All entries for **Hoshaiah**:  **<big>[[H1955|הוֹשַׁעְיָה]]</big>**
 #### Related Profiles:
 - **[Jezaniah](H3153)** (child)

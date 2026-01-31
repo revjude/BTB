@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Three Taverns</span>, a staging post on the Appian Way, about 33 miles from Rome, where Paul was met by Roman Christians \(Acts 28:15\).
 - A location only mentioned at [[2Thess.1.1|Act.28.15]]; 
-- only referred to as Three\_Taverns<[[G5140]]><[[G4999]]> \(<span class='tipnrLangGreek'>τρεῖς</span>, <span class='tipnrLangGreek'>τρία</span> <span class='tipnrLangGreek'>Ταβέρναι</span>\).
+- only referred to as Three\_Taverns **<big>[[G5140|τρεῖς]]</big>** **<big>[[G4999|Ταβέρναι]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=41.591320,12.828636&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Three Taverns \(Latin: Tres Tabernae\) was a staging post located on the Appian 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Three/ Taverns | [<span class='tipnrLangGreek'>τρεῖς</span>, <span class='tipnrLangGreek'>τρία</span>](G5140)[<span class='tipnrLangGreek'>Ταβέρναι</span>](G4999) <small>*Greek*</small> | 1x | [Act.28.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Three\*\|reference=Act.28.15) |
-All Strong's for **Three_Taverns**: \[[[G5140]]\]
+| Three/ Taverns | [<span class='tipnrLangGreek'>τρεῖς</span>, <span class='tipnrLangGreek'>τρία</span>](G5140)[<span class='tipnrLangGreek'>Ταβέρναι</span>](G4999) | 1x | [Act.28.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Three\*\|reference=Act.28.15) |
+All entries for **Three Taverns**:  **<big>[[G5140|τρεῖς]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָפַר‎</span></big> **çâphar** <small>*(saw-far')*</small> ==**to recount**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָפַר‎</span></big>** **çâphar** <small>*(saw-far')*</small> ==**to recount**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ commune, (ac-) count; declare, number, [phrase] penknife, reckon, scribe, shew forth, speak, talk, tell (out), writer.
@@ -21,4 +21,4 @@ n m
 $\quad$ **2a)** enumerator, muster-officer, secretary
 $\quad$ **2b)** learned man, scribe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναγγέλλω</span><sup><small>[[G0312]]</small></sup> · <span class="asgreek">ἀπαγγέλλω</span><sup><small>[[G0518]]</small></sup> · <span class="asgreek">ἀριθμέω</span><sup><small>[[G0705]]</small></sup> · <span class="asgreek">γραμματεύς</span><sup><small>[[G1122]]</small></sup> · <span class="asgreek">διαγγέλλω</span><sup><small>[[G1229]]</small></sup> · <span class="asgreek">διηγέομαι</span><sup><small>[[G1334]]</small></sup> · <span class="asgreek">ἐκδιηγέομαι</span><sup><small>[[G1555]]</small></sup> · <span class="asgreek">ἐξαγγέλλω</span><sup><small>[[G1804]]</small></sup> · <span class="asgreek">ἐξηγέομαι</span><sup><small>[[G1834]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">λέγω</span><sup><small>[[G3004]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">ὑποδείκνυμι</span><sup><small>[[G5263]]</small></sup> · <span class="asgreek">ψηφίζω</span><sup><small>[[G5585]]</small></sup>
+<small>See Greek: </small>**<big>[[G0312|ἀναγγέλλω]]</big>** · **<big>[[G0518|ἀπαγγέλλω]]</big>** · **<big>[[G0705|ἀριθμέω]]</big>** · **<big>[[G1122|γραμματεύς]]</big>** · **<big>[[G1229|διαγγέλλω]]</big>** · **<big>[[G1334|διηγέομαι]]</big>** · **<big>[[G1555|ἐκδιηγέομαι]]</big>** · **<big>[[G1804|ἐξαγγέλλω]]</big>** · **<big>[[G1834|ἐξηγέομαι]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G3004|λέγω]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G5263|ὑποδείκνυμι]]</big>** · **<big>[[G5585|ψηφίζω]]</big>**

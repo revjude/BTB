@@ -7,29 +7,29 @@ And [so] it was at the beginning of their dwelling there, [that] they feared not
 Now when the settlers first lived there, they did not worship the LORD, so He sent lions among them, which killed some of them.<small><sub>**MT:**</sub></small>
 [[2Kgs.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.24|<< 2 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.26|2 Kings 17:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] beginning | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their \[place\] of sitting down, | <big><span class="asgreek">καθέδρας</span></big> <sup><small><small>[[G2515]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">εφοβήθησαν</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lions, | <big><span class="asgreek">λέοντας</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| being killed | <big><span class="asgreek">αποκτείνοντες</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] beginning | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their \[place\] of sitting down, | **<big>[[G2515\|καθέδρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| fear | **<big>[[G5399\|εφοβήθησαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| lions, | **<big>[[G3023\|λέοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| being killed | **<big>[[G0615\|αποκτείνοντες]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[2Kgs.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.24|<< 2 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.26|2 Kings 17:26 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-meaning of: <small>[[G0435G]]</small> 
+meaning of: <small>**<big>[[G0435G|ἀνήρ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἀνήρ==</span></b>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἀνδρός</span>, <span class='asgreek'>ἀνδρί</span>, <span class='asgreek'>ἄνδρα</span>, 

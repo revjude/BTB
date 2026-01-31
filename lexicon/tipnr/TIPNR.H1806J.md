@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Delaiah</span> was the father of Shemaiah, who tried to deceive Nehemiah into hiding in the temple. \([[Neh.6.10|Neh.6.10]]\)
 - A man living at the time of Exile and Return, only mentioned at [[Neh.6.10|Neh.6.10]]; 
-- only referred to as Delaiah<[[H1806J]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Mehetabel<[[H4105H]]>; 
--  father of Shemaiah<[[H8098S]]>.
+- only referred to as Delaiah **<big>[[H1806|דְּלָיָה]]</big>**; 
+- a son of Mehetabel **<big>[[H4105|מְהֵיטַבְאֵל]]</big>**; 
+-  father of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**.
 
 Delaiah is mentioned in [[Neh.6.10|Nehemiah 6:10]] as the father of Shemaiah, a man who tried to deceive Nehemiah during the rebuilding of the walls of Jerusalem. Nehemiah's enemies, Sanballat and Tobiah, had hired Shemaiah to trick Nehemiah into hiding in the temple, claiming that there was a plot to kill him. 
 
@@ -18,8 +18,8 @@ The mention of Delaiah in this context serves to identify Shemaiah and to highli
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806J) <small>*Hebrew*</small> | 1x | [Neh.6.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Neh.6.10) |
-All Strong's for **Delaiah**: \[[[H1806J]]\]
+| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806J) | 1x | [Neh.6.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Neh.6.10) |
+All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**
 #### Related Profiles:
 - **[Mehetabel](H4105H)** (father)
 - **[Shemaiah](H8098S)** (child)

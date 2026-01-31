@@ -7,16 +7,16 @@ The one rescuing you -- \[the\] <span class="smallcaps">lord</span> of Hosts \[i
 Our Redeemer—the LORD of Hosts is His name—is the Holy One of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.3|<< Isaiah 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.5|Isaiah 47:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rescuing | <big><span class="asgreek">ρυσάμενός</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| you -- | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| \[is\] his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| rescuing | **<big>[[G4506\|ρυσάμενός]]</big>** |
+| you -- | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| \[is\] his name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] holy one | **<big>[[G0039\|άγιος]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.3|<< Isaiah 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.5|Isaiah 47:5 >>]]</td></tr></table>
 
 

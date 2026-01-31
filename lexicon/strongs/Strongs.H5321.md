@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַפְתָּלִי‎</span></big> **Naphtâlîy** <small>*(naf-taw-lee')*</small> ==**Naphtali**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּתַל‎</span><sup><small>[[H6617]]</small></sup>; my wrestling</small>
+**<big><span class="ashebrew">‎נַפְתָּלִי‎</span></big>** **Naphtâlîy** <small>*(naf-taw-lee')*</small> ==**Naphtali**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6617|‎פָּתַל‎]]</big>**; my wrestling</small>
 
 $\quad$ Naphtali.
 - § Naphtali = *"wrestling"*
@@ -11,4 +11,4 @@ n pr m
 n pr loc
 **3)** the territory assigned to the tribe of Naphtali
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Νεφθαλείμ</span><sup><small>[[G3508]]</small></sup>
+<small>See Greek: </small>**<big>[[G3508|Νεφθαλείμ]]</big>**

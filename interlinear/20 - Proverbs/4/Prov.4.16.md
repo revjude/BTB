@@ -6,21 +6,21 @@ For they cannot sleep unless they do evil; they are deprived of slumber until th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.15|<< Proverbs 4:15]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.17|Proverbs 4:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will sleep  | <span class="ashebrew"><big>יִֽ֭שְׁנוּ </big></span><small><small><sup>[[H3462]]</sup></small></small> &#8207;| Yish.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they do harm  | <span class="ashebrew"><big>יָרֵ֑עוּ </big></span><small><small><sup>[[H7489A]]</sup></small></small> &#8207;| ya.Re.'u <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it is taken away  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נִגְזְלָ֥ה </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> nig.ze.Lah <small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sleep their  | <span class="ashebrew"><big>שְׁ֝נָתָ֗ </big></span><small><small><sup>[[H8142]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| She.na.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they bring injury  [^1] | <span class="ashebrew"><big>יַכְשִֽׁילוּ </big></span><small><small><sup>[[H3782]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;[^2] | yikh.sho.lu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will sleep  |**<big>&#8207;[[H3462\|יִֽ֭שְׁנוּ]]&#8207; </big>**| Yish.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518J\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they do harm  |**<big>&#8207;[[H7489A\|יָרֵ֑עוּ]]&#8207; </big>**| ya.Re.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it is taken away  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1497\|נִגְזְלָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nig.ze.Lah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sleep their  |**<big>&#8207;[[H8142\|שְׁ֝נָתָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| She.na.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518J\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they bring injury  [^1]|**<big>&#8207;[[H3782\|יַכְשִֽׁילוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | yikh.sho.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.15|<< Proverbs 4:15]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.17|Proverbs 4:17 >>]]</td></tr></table>
 
-[^1]: ==K==: **they stumble ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H3782]]</sup></small> <span class="ashebrew"><big>יִכְשׁוֹלוּ</big></span>  | yikh.sho.lu<small><sup>[[HVqi3mp]]</sup></small> 
+[^1]: ==K==: they stumble  | **<big>[[H9016|׃]]</big><big>[[H3782|יִכְשׁוֹלוּ]]</big> ** | yikh.sho.lu<small><sup>[[HVqi3mp]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>יַכְשִֽׁולוּ\׃</big></span>**
 

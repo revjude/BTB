@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Mithredath</span> was one of the Persian officials who wrote a letter to King Artaxerxes, accusing the Jews of rebuilding Jerusalem's walls.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.4.7|Ezr.4.7]]; 
-- only referred to as Mithredath<[[H4990H]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Mithredath **<big>[[H4990|מִתְרְדָת]]</big>**.
 
 Mithredath is mentioned in [[Ezra.4.7|Ezra 4:7]] as one of the Persian officials who opposed the rebuilding of Jerusalem during the reign of King Artaxerxes. Along with Bishlam, Tabeel, and the rest of their associates, Mithredath wrote a letter to the king, accusing the Jews of rebuilding the city walls and expressing concern that this would lead to rebellion against the Persian Empire. 
 
@@ -16,5 +16,5 @@ Mithredath's actions demonstrate the political challenges faced by the Jewish pe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990H) <small>*Hebrew*</small> | 1x | [Ezr.4.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.4.7) |
-All Strong's for **Mithredath**: \[[[H4990H]]\]
+| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990H) | 1x | [Ezr.4.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.4.7) |
+All entries for **Mithredath**:  **<big>[[H4990|מִתְרְדָת]]</big>**

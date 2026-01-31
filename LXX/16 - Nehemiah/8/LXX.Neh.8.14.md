@@ -10,31 +10,31 @@ And they found written in the law which the LORD had commanded by Moses, that th
 And they found written in the Law, which the LORD had commanded through Moses, that the Israelites were to dwell in booths during the feast of the seventh month,<small><sub>**MT:**</sub></small>
 [[Neh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.13|<< Nehemiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.15|Nehemiah 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| written | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should dwell | <big><span class="asgreek">κατοικήσωσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tents | <big><span class="asgreek">σκηναίς</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they found | **<big>[[G2147\|εύρον]]</big>** |
+| written | **<big>[[G1125\|γεγραμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| law | **<big>[[G3551\|νόμω]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+| should dwell | **<big>[[G2730\|κατοικήσωσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| tents | **<big>[[G4633\|σκηναίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] holiday | **<big>[[G1859\|εορτή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
 [[Neh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.13|<< Nehemiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.15|Nehemiah 8:15 >>]]</td></tr></table>
 
 

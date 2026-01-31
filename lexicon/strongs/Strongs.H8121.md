@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שֶׁמֶשׁ‎</span></big> **shemesh** <small>*(sheh'-mesh)*</small> ==**sun**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+**<big><span class="ashebrew">‎שֶׁמֶשׁ‎</span></big>** **shemesh** <small>*(sheh'-mesh)*</small> ==**sun**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
 <small>from an unused root meaning to be brilliant</small>
 
-$\quad$ [phrase] east side(-ward), sun (rising), [phrase] west(-ward), window. See also <span class="ashebrew">‎בֵּית שֶׁמֶשׁ‎</span><sup><small>[[H1053]]</small></sup>.
+$\quad$ [phrase] east side(-ward), sun (rising), [phrase] west(-ward), window. See also **<big>[[H1053|‎בֵּית שֶׁמֶשׁ‎]]</big>**.
 - ***the sun***
 -  by implication, ***the east***
 -  figuratively, ***a ray***, i.e. (architectural) ***a notched battlement***
@@ -13,4 +13,4 @@ $\quad$ **1c)** sun (as object of illicit worship)
 $\quad$ **1d)** openly, publicly (in other phrases)
 $\quad$ **1e)** pinnacles, battlements, shields (as glittering or shining)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἥλιος</span><sup><small>[[G2246]]</small></sup>
+<small>See Greek: </small>**<big>[[G2246|ἥλιος]]</big>**

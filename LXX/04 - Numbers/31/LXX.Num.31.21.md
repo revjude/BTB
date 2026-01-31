@@ -7,34 +7,34 @@ And Eleazar the priest said unto the men of war which went to the battle, This [
 Then Eleazar the priest said to the soldiers who had gone into battle, “This is the statute of the law which the LORD has commanded Moses:<small><sub>**MT:**</sub></small>
 [[Num.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.20|<< Numbers 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.22|Numbers 31:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Eleazar | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones coming | <big><span class="asgreek">ερχομένους</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle array | <big><span class="asgreek">παρατάξεως</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war, | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ordinance | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| Eleazar | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| ones coming | **<big>[[G2064\|ερχομένους]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| battle array | **<big>[[G8640\|παρατάξεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| war, | **<big>[[G4171\|πολέμου]]</big>** |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| ordinance | **<big>[[G1345\|δικαίωμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| law | **<big>[[G3551\|νόμου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Num.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.20|<< Numbers 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.22|Numbers 31:22 >>]]</td></tr></table>
 
 

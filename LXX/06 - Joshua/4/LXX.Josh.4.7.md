@@ -7,50 +7,50 @@ Then ye shall answer them, That the waters of Jordan were cut off before the ark
 you are to tell them, ‘The waters of the Jordan were cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the waters were cut off.’ Therefore these stones will be a memorial to the Israelites forever.”<small><sub>**MT:**</sub></small>
 [[Josh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.6|<< Joshua 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.8|Joshua 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall make manifest | <big><span class="asgreek">δηλώσεις</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your son, | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| ceased | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνης</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| it passed over | <big><span class="asgreek">διέβαινεν</span></big> <sup><small><small>[[G1224]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan -- | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ceased | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these stones | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall make manifest | **<big>[[G1213\|δηλώσεις]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your son, | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| saying | **<big>[[G3004\|λέγων]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| ceased | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνης]]</big>** |
+| river | **<big>[[G4215\|ποταμός]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| it passed over | **<big>[[G1224\|διέβαινεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan -- | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| ceased | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these stones | **<big>[[G3037\|λίθοι]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| a memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[Josh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.6|<< Joshua 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.8|Joshua 4:8 >>]]</td></tr></table>
 
 

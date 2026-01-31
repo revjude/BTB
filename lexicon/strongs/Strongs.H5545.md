@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָלַח‎</span></big> **çâlach** <small>*(saw-lakh')*</small> ==**to forgive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָלַח‎</span></big>** **çâlach** <small>*(saw-lakh')*</small> ==**to forgive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ forgive, pardon, spare.
@@ -8,4 +8,4 @@ $\quad$ forgive, pardon, spare.
 $\quad$ **1a)** (Qal) to forgive, pardon
 $\quad$ **1b)** (Niphal) to be forgiven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἀφίημι</span><sup><small>[[G0863]]</small></sup> · <span class="asgreek">ἱλάσκομαι</span><sup><small>[[G2433]]</small></sup> · <span class="asgreek">ἵλεως</span><sup><small>[[G2436]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">μιμνήσκω</span><sup><small>[[G3403]]</small></sup>
+<small>See Greek: </small>**<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G0863|ἀφίημι]]</big>** · **<big>[[G2433|ἱλάσκομαι]]</big>** · **<big>[[G2436|ἵλεως]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G3403|μιμνήσκω]]</big>**

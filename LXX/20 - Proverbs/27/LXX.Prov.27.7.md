@@ -7,21 +7,21 @@ The full soul loatheth an honeycomb; but to the hungry soul every bitter thing i
 The soul that is full loathes honey, but to a hungry soul, any bitter thing is sweet.<small><sub>**MT:**</sub></small>
 [[Prov.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.6|<< Proverbs 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.8|Proverbs 27:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fullness | <big><span class="asgreek">πλησμονή</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| honeycombs | <big><span class="asgreek">κηρίοις</span></big> <sup><small><small>[[G2781]]</small></small></sup> |
-| mocks | <big><span class="asgreek">εμπαίζει</span></big> <sup><small><small>[[G1702]]</small></small></sup> |
-| but to a soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| lacking, | <big><span class="asgreek">ενδεεί</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bitter \[things\] | <big><span class="asgreek">πικρά</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
-| sweet | <big><span class="asgreek">γλυκέα</span></big> <sup><small><small>[[G1099]]</small></small></sup> |
-| appear | <big><span class="asgreek">φαίνεται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
+| A soul | **<big>[[G5590\|ψυχή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| fullness | **<big>[[G4140\|πλησμονή]]</big>** |
+| being | **<big>[[G1510\|ούσα]]</big>** |
+| honeycombs | **<big>[[G2781\|κηρίοις]]</big>** |
+| mocks | **<big>[[G1702\|εμπαίζει]]</big>** |
+| but to a soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| lacking, | **<big>[[G1729\|ενδεεί]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bitter \[things\] | **<big>[[G4089\|πικρά]]</big>** |
+| sweet | **<big>[[G1099\|γλυκέα]]</big>** |
+| appear | **<big>[[G5316\|φαίνεται]]</big>** |
 [[Prov.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.6|<< Proverbs 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.8|Proverbs 27:8 >>]]</td></tr></table>
 
 

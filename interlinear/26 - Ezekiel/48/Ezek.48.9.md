@@ -6,19 +6,19 @@ The special portion you set apart to the LORD shall be 25,000 cubits long and 10
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.8|<< Ezekiel 48:8]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.10|Ezekiel 48:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the contribution  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>תְּרוּמָ֕ה </big></span><small><small><sup>[[H8641]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> te.ru.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will contribute  | <span class="ashebrew"><big>תָּרִ֖ימוּ </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ta.Ri.mu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] length  | <span class="ashebrew"><big>אֹ֗רֶךְ </big></span><small><small><sup>[[H0753]]</sup></small></small> &#8207;| 'O.rekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] five  | <span class="ashebrew"><big>חֲמִשָּׁ֤ה </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶשְׂרִים֙ </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand [cubits]  | <span class="ashebrew"><big>אֶ֔לֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'E.lef <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] breadth  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֖חַב </big></span><small><small><sup>[[H7341]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ro.chav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] ten  | <span class="ashebrew"><big>עֲשֶׂ֥רֶת </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.Se.ret <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand [cubits]  | <span class="ashebrew"><big>אֲלָפִֽים </big></span><small><small><sup>[[H0505G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the contribution  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8641\|תְּרוּמָ֕ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will contribute  |**<big>&#8207;[[H7311A\|תָּרִ֖ימוּ]]&#8207; </big>**| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] length  |**<big>&#8207;[[H0753\|אֹ֗רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] five  |**<big>&#8207;[[H2568\|חֲמִשָּׁ֤ה]]&#8207; </big>**| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  |**<big>&#8207;[[H0505G\|אֶ֔לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] breadth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7341\|רֹ֖חַב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ro.chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] ten  |**<big>&#8207;[[H6235\|עֲשֶׂ֥רֶת]]&#8207; </big>**| 'a.Se.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  |**<big>&#8207;[[H0505G\|אֲלָפִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.8|<< Ezekiel 48:8]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.10|Ezekiel 48:10 >>]]</td></tr></table>
 
 

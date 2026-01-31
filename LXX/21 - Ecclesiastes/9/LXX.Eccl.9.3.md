@@ -7,41 +7,41 @@ This [is] an evil among all [things] that are done under the sun, that [there is
 This is an evil in everything that is done under the sun: There is one fate for everyone. Furthermore, the hearts of men are full of evil and madness while they are alive, and afterward they join the dead.<small><sub>**MT:**</sub></small>
 [[Eccl.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.2|<< Ecclesiastes 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.4|Ecclesiastes 9:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| being done | <big><span class="asgreek">πεποιήμενω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun, | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| for \[there is\] | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| event | <big><span class="asgreek">συνάντημα</span></big> <sup><small><small>[[G9296]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to all. | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| are filled | <big><span class="asgreek">επληρώθη</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| with evil; | <big><span class="asgreek">πονηρού</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| madness | <big><span class="asgreek">περιφέρεια</span></big> <sup><small><small>[[G8768]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their life, | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[they go\] to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dead. | <big><span class="asgreek">νεκρούς</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| evil | **<big>[[G4190\|πονηρόν]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| being done | **<big>[[G4160\|πεποιήμενω]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun, | **<big>[[G2246\|ήλιον]]</big>** |
+| for \[there is\] | **<big>[[G3754\|ότι]]</big>** |
+| event | **<big>[[G9296\|συνάντημα]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| to all. | **<big>[[G3956\|πάσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| are filled | **<big>[[G4137\|επληρώθη]]</big>** |
+| with evil; | **<big>[[G4190\|πονηρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| madness | **<big>[[G8768\|περιφέρεια]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| their life, | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| \[they go\] to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| dead. | **<big>[[G3498\|νεκρούς]]</big>** |
 [[Eccl.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.2|<< Ecclesiastes 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.4|Ecclesiastes 9:4 >>]]</td></tr></table>
 
 

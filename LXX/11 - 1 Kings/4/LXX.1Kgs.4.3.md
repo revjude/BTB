@@ -7,18 +7,18 @@ Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud,
 Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder;<small><sub>**MT:**</sub></small>
 [[1Kgs.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.2|<< 1 Kings 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.4|1 Kings 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Elihoreph | <big><span class="asgreek">Ελιχόρεφ</span></big> <sup><small><small>[[H0456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahiah | <big><span class="asgreek">Αχία</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shisha | <big><span class="asgreek">Σιζά</span></big> <sup><small><small>[[H7894]]</small></small></sup> |
-| \[were\] scribes; | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahilud | <big><span class="asgreek">Αχιλούδ</span></big> <sup><small><small>[[H0286]]</small></small></sup> |
-| \[was\] recorder; | <big><span class="asgreek">αναμιμνήσκων</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
+| Elihoreph | **<big>[[H0456\|Ελιχόρεφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ahiah | **<big>[[H0281\|Αχία]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shisha | **<big>[[H7894\|Σιζά]]</big>** |
+| \[were\] scribes; | **<big>[[G1122\|γραμματείς]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ahilud | **<big>[[H0286\|Αχιλούδ]]</big>** |
+| \[was\] recorder; | **<big>[[G0363\|αναμιμνήσκων]]</big>** |
 [[1Kgs.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.2|<< 1 Kings 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.4|1 Kings 4:4 >>]]</td></tr></table>
 
 

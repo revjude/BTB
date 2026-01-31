@@ -1,8 +1,8 @@
 <small>*Buz • Arabian tribe, possibly descendants of Nahor*</small>
 
 <span class='tipnrhighlight'>Buz</span> was an Arabian tribe, possibly descended from Nahor, that was threatened with judgment.
-- A location near Dedan<[[H1719A]]> only mentioned at [[Jer.25.23|Jer.25.23]]; 
-- only referred to as Buz<[[H0938I]]> \(<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ז</span>\).
+- A location near Dedan **<big>[[H1719|דְּדָן]]</big>** only mentioned at [[Jer.25.23|Jer.25.23]]; 
+- only referred to as Buz **<big>[[H0938|בּוּז]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=26.625139,37.919663&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The name Buz may be derived from Buz, the son of Nahor and nephew of Abraham \(G
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Buz | [<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ז</span>](H0938I) <small>*Hebrew*</small> | 1x | [Jer.25.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Buz\*\|reference=Jer.25.23) |
-All Strong's for **Buz**: \[[[H0938I]]\]
+| Buz | [<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ז</span>](H0938I) | 1x | [Jer.25.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Buz\*\|reference=Jer.25.23) |
+All entries for **Buz**:  **<big>[[H0938|בּוּז]]</big>**

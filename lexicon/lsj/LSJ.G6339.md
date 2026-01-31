@@ -1,5 +1,5 @@
 <span class="asgreek">ἀνθ᾽ ὧν</span> <small>***(anth᾽ hōn)***</small> ==**because of**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
-combination of: <small>[[G0473]] ([[G0473]]+[[G3739]])</small> 
+combination of: <small>**<big>[[G0473|ἀντί]]</big>** (**<big>[[G0473|ἀντί]]</big>**+**<big>[[G3739|ὅς]]</big>**)</small> 
 
 
 Included with: <b> <span class='asgreek'>==ἀνθ᾽ ὧν==</span></b>, 

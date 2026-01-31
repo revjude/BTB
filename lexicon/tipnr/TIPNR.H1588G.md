@@ -1,8 +1,8 @@
 <small>*garden of Uzza • A garden where Manasseh and Amon were buried*</small>
 
 <span class='tipnrhighlight'>Uzza</span>, a garden in Jerusalem where Manasseh and his son Amon, kings of Judah, were buried \(2 Kgs. 21:18, 26\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[2Kgs.21.18|2Ki.21.18]]; 
-- only referred to as Uzza<[[H1588G]]><[[H1588G]]> \(<span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[2Kgs.21.18|2Ki.21.18]]; 
+- only referred to as Uzza **<big>[[H1588|גַּן]]</big>** **<big>[[H1588|גַּן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Uzza is mentioned in the Bible as a garden in Jerusalem where two kings of Judah
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| garden/ of Uzza | [<span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span>](H5798G)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>](H1588G) <small>*Hebrew*</small> | 2x | [[2Ki.21.18] & [2Ki.21.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=garden\*\|reference=2Ki.21.18;2Ki.21.26) |
-All Strong's for **Uzza**: \[[[H5798G]]\] \[[[H1588G]]\]
+| garden/ of Uzza | [<span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span>](H5798G)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>](H1588G) | 2x | [[2Ki.21.18] & [2Ki.21.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=garden\*\|reference=2Ki.21.18;2Ki.21.26) |
+All entries for **Uzza**:  **<big>[[H5798|עֻזָּא]]</big>** ☩  **<big>[[H1588|גַּן]]</big>**

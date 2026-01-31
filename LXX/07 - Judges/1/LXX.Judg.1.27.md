@@ -7,51 +7,51 @@ Neither did Manasseh drive out [the inhabitants of] Bethshean and her towns, nor
 At that time Manasseh failed to drive out the inhabitants of Beth-shean, Taanach, Dor, Ibleam, Megiddo, and their villages; for the Canaanites were determined to dwell in that land.<small><sub>**MT:**</sub></small>
 [[Judg.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.26|<< Judges 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.28|Judges 1:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remove | <big><span class="asgreek">εξήρε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beth-shean | <big><span class="asgreek">Βαιθσάν</span></big> <sup><small><small>[[H1052]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its daughter \[towns\], | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| Taanach | <big><span class="asgreek">Θανάκ</span></big> <sup><small><small>[[H8590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughter \[towns\], | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Dor | <big><span class="asgreek">Δωρ</span></big> <sup><small><small>[[H1756]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughter \[towns\], | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Megiddo | <big><span class="asgreek">Μαγεδδών</span></big> <sup><small><small>[[H4023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughter \[towns\], | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Ibleam | <big><span class="asgreek">Ιεβλάμ</span></big> <sup><small><small>[[H2991]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughter \[towns\]. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| began | <big><span class="asgreek">ήρξατο</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χαναναίος</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| to dwell | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| remove | **<big>[[G1808\|εξήρε]]</big>** |
+| Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Beth-shean | **<big>[[H1052\|Βαιθσάν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| its daughter \[towns\], | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| Taanach | **<big>[[H8590\|Θανάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her daughter \[towns\], | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in Dor | **<big>[[H1756\|Δωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her daughter \[towns\], | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Megiddo | **<big>[[H4023\|Μαγεδδών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her daughter \[towns\], | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Ibleam | **<big>[[H2991\|Ιεβλάμ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her daughter \[towns\]. | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| began | **<big>[[G0756\|ήρξατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Canaanite | **<big>[[G5477\|Χαναναίος]]</big>** |
+| to dwell | **<big>[[G2730\|κατοικείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this land. | **<big>[[G1093\|γη]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
 [[Judg.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.26|<< Judges 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.28|Judges 1:28 >>]]</td></tr></table>
 
 

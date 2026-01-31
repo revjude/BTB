@@ -1,4 +1,3 @@
-<span class="asaramaic">‎שְׁמַשׁ‎</span> <small>***(she.mash)***</small> ==**to minister**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H8121]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H8121|שֶׁמֶשׁ]]</big>**</small> 
 
-- Aramaic of <i>she.mesh</i> (<span class='ashebrew'>‎ש‎</span>ֶׁ֫<span class='ashebrew'>‎מ‎</span>ֶ<span class='ashebrew'>‎ש‎</span>ׁ "sun" [[H8121]])
+- Aramaic of <i>she.mesh</i> (<span class='ashebrew'>‎ש‎</span>ֶׁ֫<span class='ashebrew'>‎מ‎</span>ֶ<span class='ashebrew'>‎ש‎</span>ׁ "sun" **<big>[[H8121|שֶׁמֶשׁ]]</big>**)

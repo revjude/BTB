@@ -6,24 +6,24 @@ A voice is heard on the barren heights, the children of Israel weeping and beggi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.20|<< Jeremiah 3:20]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.22|Jeremiah 3:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a sound  | <span class="ashebrew"><big>ק֚וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bare heights  | <span class="ashebrew"><big>שְׁפָיִ֣ים </big></span><small><small><sup>[[H8205]]</sup></small></small> &#8207;| she.fa.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] heard  | <span class="ashebrew"><big>נִשְׁמָ֔ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| nish.Ma' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] weeping of  | <span class="ashebrew"><big>בְּכִ֥י </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| be.Khi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] supplications of  | <span class="ashebrew"><big>תַחֲנוּנֵ֖י </big></span><small><small><sup>[[H8469]]</sup></small></small> &#8207;| ta.cha.nu.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have perverted  | <span class="ashebrew"><big>הֶעֱוּוּ֙ </big></span><small><small><sup>[[H5753A]]</sup></small></small> &#8207;| he.'e.Vu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way their  | <span class="ashebrew"><big>דַּרְכָּ֔ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| dar.Ka <small><sup>[[HNcbsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have forgotten  | <span class="ashebrew"><big>שָׁכְח֖וּ </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| sha.khe.Chu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהֹוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sound  |**<big>&#8207;[[H6963A\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bare heights  |**<big>&#8207;[[H8205\|שְׁפָיִ֣ים]]&#8207; </big>**| she.fa.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] heard  |**<big>&#8207;[[H8085G\|נִשְׁמָ֔ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] weeping of  |**<big>&#8207;[[H1065\|בְּכִ֥י]]&#8207; </big>**| be.Khi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] supplications of  |**<big>&#8207;[[H8469\|תַחֲנוּנֵ֖י]]&#8207; </big>**| ta.cha.nu.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have perverted  |**<big>&#8207;[[H5753A\|הֶעֱוּוּ֙]]&#8207; </big>**| he.'e.Vu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way their  |**<big>&#8207;[[H1870G\|דַּרְכָּ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have forgotten  |**<big>&#8207;[[H7911\|שָׁכְח֖וּ]]&#8207; </big>**| sha.khe.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.20|<< Jeremiah 3:20]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.22|Jeremiah 3:22 >>]]</td></tr></table>
 
 

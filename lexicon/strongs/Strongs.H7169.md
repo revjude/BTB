@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָרַץ‎</span></big> **qârats** <small>*(kaw-rats')*</small> ==**to wink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָרַץ‎</span></big>** **qârats** <small>*(kaw-rats')*</small> ==**to wink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ form, move, wink.
@@ -8,4 +8,4 @@ $\quad$ form, move, wink.
 $\quad$ **1a)** (Qal) to pinch
 $\quad$ **1b)** (Pual) to be nipped or pinched off, be formed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διανεύω</span><sup><small>[[G1269]]</small></sup> · <span class="asgreek">ἐννεύω</span><sup><small>[[G1770]]</small></sup> · <span class="asgreek">ὁρίζω</span><sup><small>[[G3724]]</small></sup>
+<small>See Greek: </small>**<big>[[G1269|διανεύω]]</big>** · **<big>[[G1770|ἐννεύω]]</big>** · **<big>[[G3724|ὁρίζω]]</big>**

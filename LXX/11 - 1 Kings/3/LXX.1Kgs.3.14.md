@@ -7,30 +7,30 @@ And if thou wilt walk in my ways, to keep my statutes and my commandments, as th
 So if you walk in My ways and keep My statutes and commandments, just as your father David did, I will prolong your days.”<small><sub>**MT:**</sub></small>
 [[1Kgs.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.13|<< 1 Kings 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.15|1 Kings 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should have gone | <big><span class="asgreek">πορευθής</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders, | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will prolong | <big><span class="asgreek">μακρυνώ</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should have gone | **<big>[[G4198\|πορευθής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my way, | **<big>[[G3598\|οδώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my orders, | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will prolong | **<big>[[G8239\|μακρυνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your days. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[1Kgs.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.13|<< 1 Kings 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.15|1 Kings 3:15 >>]]</td></tr></table>
 
 

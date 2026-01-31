@@ -7,34 +7,34 @@ But Johanan the son of Kareah, and all the captains of the forces, took all the 
 Instead, Johanan son of Kareah and all the commanders of the forces took the whole remnant of Judah, those who had returned to the land of Judah from all the nations to which they had been scattered,<small><sub>**MT:**</sub></small>
 [[Jer.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.4|<< Jeremiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.6|Jeremiah 43:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Johanan took, | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Ιωάναν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leaders | <big><span class="asgreek">ηγεμόνες</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| the whole | <big><span class="asgreek">άπάντας</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| returning | <big><span class="asgreek">αποστραφέντας</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they were scattered | <big><span class="asgreek">διεσκορπίσθησαν</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to dwell | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Judah; | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Johanan took, | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[H3110\|Ιωάναν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| leaders | **<big>[[G2232\|ηγεμόνες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force, | **<big>[[G1411\|δυνάμεως]]</big>** |
+| the whole | **<big>[[G0537\|άπάντας]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| rest | **<big>[[G2645\|καταλοίπους]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| returning | **<big>[[G0654\|αποστραφέντας]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they were scattered | **<big>[[G1287\|διεσκορπίσθησαν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| to dwell | **<big>[[G2730\|κατοικείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Judah; | **<big>[[G2448\|Ιούδα]]</big>** |
 [[Jer.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.4|<< Jeremiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.6|Jeremiah 43:6 >>]]</td></tr></table>
 
 

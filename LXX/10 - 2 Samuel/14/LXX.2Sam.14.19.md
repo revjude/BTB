@@ -7,68 +7,68 @@ And the king said, [Is not] the hand of Joab with thee in all this? And the woma
 So the king asked, “Is the hand of Joab behind all this?” The woman answered, “As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say.<small><sub>**MT:**</sub></small>
 [[2Sam.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.18|<< 2 Samuel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.20|2 Samuel 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[Is\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my master, | <big><span class="asgreek">κύριέ</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| since there is \[no turning\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your maidservant | <big><span class="asgreek">δούλης</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[Is\] not | **<big>[[G3361\|μη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| of Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you? | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| lives | **<big>[[G2198\|ζη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O my master, | **<big>[[G2962\|κύριέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| since there is \[no turning\] | **<big>[[G1487\|ει]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| left | **<big>[[G0710\|αριστερά]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| put | **<big>[[G5087\|έθετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mouth | **<big>[[G4750\|στόματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your maidservant | **<big>[[G1399\|δούλης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
 [[2Sam.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.18|<< 2 Samuel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.20|2 Samuel 14:20 >>]]</td></tr></table>
 
 

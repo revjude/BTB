@@ -1,4 +1,3 @@
-<span class="ashebrew">‎הָרָן‎</span> <small>***(ha.ran)***</small> ==**Haran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.23.9|1Ch.23.9]]
--  son of: Jehiel ([[H3171H]])
--  brother of: Shelomoth ([[H8013G]]) and Haziel ([[H2381]])
+-  son of: Jehiel (**<big>[[H3171H|יְחִיאֵל]]</big>**)
+-  brother of: Shelomoth (**<big>[[H8013G|שְׁלֹמוֹת]]</big>**) and Haziel (**<big>[[H2381|חֲזִיאֵל]]</big>**)

@@ -7,42 +7,42 @@ But where [are] thy gods that thou hast made thee? let them arise, if they can s
 But where are the gods you made for yourselves? Let them rise up in your time of trouble and save you if they can; for your gods are as numerous as your cities, O Judah.<small><sub>**MT:**</sub></small>
 [[Jer.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gods | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself? | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| they rise up | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deliver | <big><span class="asgreek">σώσουσί</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your ill-treatment, \[no\]. | <big><span class="asgreek">κακώσεώς</span></big> <sup><small><small>[[G2561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your cities | <big><span class="asgreek">πόλεών</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| your gods, | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Judah; | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of \[the\] corridors | <big><span class="asgreek">διόδων</span></big> <sup><small><small>[[G6932]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| they sacrificed | <big><span class="asgreek">έθυον</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baal. | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your gods | **<big>[[G2316\|θεοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| for yourself? | **<big>[[G4572\|σεαυτώ]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| they rise up | **<big>[[G0450\|αναστήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deliver | **<big>[[G4982\|σώσουσί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your ill-treatment, \[no\]. | **<big>[[G2561\|κακώσεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your cities | **<big>[[G4172\|πόλεών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| your gods, | **<big>[[G2316\|θεοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Judah; | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμόν]]</big>** |
+| of \[the\] corridors | **<big>[[G6932\|διόδων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| they sacrificed | **<big>[[G2380\|έθυον]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Baal. | **<big>[[G0896\|Βάαλ]]</big>** |
 [[Jer.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
 

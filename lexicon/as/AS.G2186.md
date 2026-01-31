@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐφ-ίστημι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נָצַב</span> <small><sup>[[H5324]]</sup></small> ni., <span class="ashebrew">שִׁית</span> <small><sup>[[H7896]]</sup></small>, <span class="ashebrew">נָתַן</span> <small><sup>[[H5414]]</sup></small>, etc. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐφ-ίστημι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H5324|נָצַב]]</big>** ni., **<big>[[H7896|שִׁית]]</big>**, **<big>[[H5414|נָתַן]]</big>**, etc. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> causal in pres., impf., fut., 1 aor., <span class="asitalic">to set upon</span> or <span class="asitalic">by, set up</span>, etc. (Æsch., Hdt.,   Arist., al).</span>
 <span class="asbullet"><span class="asbold">2.</span> Intrans. in mid, and in pf. and 2 aor. act.;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to stand upon</span>;</span>

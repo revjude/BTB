@@ -10,32 +10,32 @@ I, [even] I, [am] he that comforteth you: who [art] thou, that thou shouldest be
 “I, even I, am He who comforts you. Why should you be afraid of mortal man, of a son of man who withers like grass?<small><sub>**MT:**</sub></small>
 [[Isa.51.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.11|<< Isaiah 51:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.13|Isaiah 51:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am, | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comforting | <big><span class="asgreek">παρακαλών</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Know | <big><span class="asgreek">γνώθι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is being! | <big><span class="asgreek">ούσα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should be fearful | <big><span class="asgreek">φοβηθής</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| mortal | <big><span class="asgreek">θνητού</span></big> <sup><small><small>[[G2349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man -- | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| were dried up. | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am, | **<big>[[G1510\|ειμι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| he, | **<big>[[G1473\|αυτός]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| comforting | **<big>[[G3870\|παρακαλών]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| Know | **<big>[[G1097\|γνώθι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| is being! | **<big>[[G1510\|ούσα]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should be fearful | **<big>[[G5399\|φοβηθής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| mortal | **<big>[[G2349\|θνητού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a son | **<big>[[G5207\|υιόυ]]</big>** |
+| of man -- | **<big>[[G0444\|ανθρώπου]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| grass | **<big>[[G5528\|χόρτος]]</big>** |
+| were dried up. | **<big>[[G3583\|εξηράνθησαν]]</big>** |
 [[Isa.51.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.11|<< Isaiah 51:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.13|Isaiah 51:13 >>]]</td></tr></table>
 
 

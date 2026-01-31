@@ -7,16 +7,16 @@ The entrance of thy words giveth light; it giveth understanding unto the simple.
 The unfolding of Your words gives light; it informs the simple.<small><sub>**MT:**</sub></small>
 [[Ps.119.130|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.129|<< Psalm 119:129]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.131|Psalm 119:131 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| manifestation | <big><span class="asgreek">δήλωσις</span></big> <sup><small><small>[[G6809]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall give light, | <big><span class="asgreek">φωτιεί</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring understanding to | <big><span class="asgreek">συνετιεί</span></big> <sup><small><small>[[G9318]]</small></small></sup> |
-| simple ones. | <big><span class="asgreek">νηπίους</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| manifestation | **<big>[[G6809\|δήλωσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your words | **<big>[[G3056\|λόγων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall give light, | **<big>[[G5461\|φωτιεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring understanding to | **<big>[[G9318\|συνετιεί]]</big>** |
+| simple ones. | **<big>[[G3516\|νηπίους]]</big>** |
 [[Ps.119.130|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.129|<< Psalm 119:129]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.131|Psalm 119:131 >>]]</td></tr></table>
 
 

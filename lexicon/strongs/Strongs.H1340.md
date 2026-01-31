@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּת־שׁוּעַ‎</span></big> **Bath-Shûwaʻ** <small>*(bath-shoo'-ah)*</small> ==**Bath-shua**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּת‎</span><sup><small>[[H1323]]</small></sup> and <span class="ashebrew">‎שׁוֹעַ‎</span><sup><small>[[H7771]]</small></sup>; daughter of wealth;  the same as <span class="ashebrew">‎בַּת־שֶׁבַע‎</span><sup><small>[[H1339]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּת־שׁוּעַ‎</span></big>** **Bath-Shûwaʻ** <small>*(bath-shoo'-ah)*</small> ==**Bath-shua**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H1323|‎בַּת‎]]</big>** and **<big>[[H7771|‎שׁוֹעַ‎]]</big>**; daughter of wealth;  the same as **<big>[[H1339|‎בַּת־שֶׁבַע‎]]</big>**</small>
 
 $\quad$ Bath-shua.
 - § Bath-shua = *"daughter of wealth"*

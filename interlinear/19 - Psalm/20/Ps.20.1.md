@@ -6,16 +6,16 @@ For the choirmaster. A Psalm of David. May the LORD answer you in the day of tro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.0|<< Psalms 20:0]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.2|Psalms 20:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may he answer you  | <span class="ashebrew"><big>יַֽעַנְ </big></span><small><small><sup>[[H6030B]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ya.'an. <small><sup>[[HVqi3ms]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  | <span class="ashebrew"><big>צָרָ֑ה </big></span><small><small><sup>[[H6869B]]</sup></small></small> &#8207;| tza.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may it set on high you  | <span class="ashebrew"><big>יְ֝שַׂגֶּבְ </big></span><small><small><sup>[[H7682]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ye.sa.gev. <small><sup>[[HVpi3ms]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֤ם </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֬י </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'e.lo.Hei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹֽב </big></span><small><small><sup>[[H3290]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may he answer you  |**<big>&#8207;[[H6030B\|יַֽעַנְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ya.'an.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H6869B\|צָרָ֑ה]]&#8207; </big>**| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it set on high you  |**<big>&#8207;[[H7682\|יְ֝שַׂגֶּבְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| ye.sa.gev.<small><sup>[[HVpi3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֬י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.0|<< Psalms 20:0]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.2|Psalms 20:2 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ And they shall build houses, and inhabit [them]; and they shall plant vineyards,
 They will build houses and dwell in them; they will plant vineyards and eat their fruit.<small><sub>**MT:**</sub></small>
 [[Isa.65.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.20|<< Isaiah 65:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.22|Isaiah 65:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall build | <big><span class="asgreek">οικοδομήσουσιν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| residences, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall dwell in \[them\]. | <big><span class="asgreek">ενοικήσουσι</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall plant | <big><span class="asgreek">καταφυτεύσουσιν</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| vineyards, | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their produce, | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall build | **<big>[[G3618\|οικοδομήσουσιν]]</big>** |
+| residences, | **<big>[[G3614\|οικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall dwell in \[them\]. | **<big>[[G1774\|ενοικήσουσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall plant | **<big>[[G7952\|καταφυτεύσουσιν]]</big>** |
+| vineyards, | **<big>[[G0290\|αμπελώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall eat | **<big>[[G2068\|φάγονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their produce, | **<big>[[G1081\|γεννήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| shall drink | **<big>[[G4095\|πίονται]]</big>** |
 [[Isa.65.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.20|<< Isaiah 65:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.22|Isaiah 65:22 >>]]</td></tr></table>
 
 

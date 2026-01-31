@@ -7,35 +7,35 @@ And now, behold, I have brought the firstfruits of the land, which thou, O LORD,
 And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me.” Then you are to place the basket before the LORD your God and bow down before Him.<small><sub>**MT:**</sub></small>
 [[Deut.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.9|<< Deuteronomy 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.11|Deuteronomy 26:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have brought | <big><span class="asgreek">ενήνοχα</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-fruit | <big><span class="asgreek">απαρχήν</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| produce | <big><span class="asgreek">γενημάτων</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you gave | <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall leave | <big><span class="asgreek">αφήσεις</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do obeisance | <big><span class="asgreek">προσκυνήσεις</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I have brought | **<big>[[G5342\|ενήνοχα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| first-fruit | **<big>[[G0536\|απαρχήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| produce | **<big>[[G1081\|γενημάτων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| you gave | **<big>[[G1325\|έδωκας]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall leave | **<big>[[G0863\|αφήσεις]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do obeisance | **<big>[[G4352\|προσκυνήσεις]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.9|<< Deuteronomy 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.11|Deuteronomy 26:11 >>]]</td></tr></table>
 
 

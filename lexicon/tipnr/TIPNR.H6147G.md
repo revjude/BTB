@@ -4,11 +4,11 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Er</span>, Judah's firstborn son, was killed by God because of his wickedness.
 - A man from the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[Gen.38.3|Gen.38.3]]; 
-- only referred to as Er<[[H6147G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Judah<[[H3063G]]> and Bath-shua<[[H1323I]]>; 
-- a brother of Onan<[[H0209]]> and Shelah<[[H7956]]>; 
--  half-brother of: Perez<[[H6557]]> and Zerah<[[H2226I]]>; 
-- husband of Tamar<[[H8559G]]>.
+- only referred to as Er **<big>[[H6147|עֵר]]</big>**; 
+-  son of Judah **<big>[[H3063|יְהוּדָה]]</big>** and Bath-shua **<big>[[H1323|בַּת]]</big>**; 
+- a brother of Onan **<big>[[H0209|אוֹנָן]]</big>** and Shelah **<big>[[H7956|שֵׁלָה]]</big>**; 
+-  half-brother of: Perez **<big>[[H6557|פֶּרֶץ]]</big>** and Zerah **<big>[[H2226|זֶרַח]]</big>**; 
+- husband of Tamar **<big>[[H8559|תָּמָר]]</big>**.
 
 Er was the firstborn son of Judah and his Canaanite wife, the daughter of Shua \(Gen. 38:3; 1 Ch. 2:3\). He married Tamar, but the Lord put him to death because of his wickedness \(Gen. 38:6-7\). The nature of his wickedness is not specified in the text. 
 
@@ -18,8 +18,8 @@ Er is mentioned again in the genealogy of Judah \(Gen. 46:12; Num. 26:19; 1 Ch. 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Er | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H6147G) <small>*Hebrew*</small> | 9x | [[Gen.38.3] ... [1Ch.2.3b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Er\*\|reference=Gen.38.3;Gen.38.6;Gen.38.7;Gen.46.12;Gen.46.12;Num.26.19;Num.26.19;1Ch.2.3;1Ch.2.3) |
-All Strong's for **Er**: \[[[H6147G]]\]
+| Er | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H6147G) | 9x | [[Gen.38.3] ... [1Ch.2.3b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Er\*\|reference=Gen.38.3;Gen.38.6;Gen.38.7;Gen.46.12;Gen.46.12;Num.26.19;Num.26.19;1Ch.2.3;1Ch.2.3) |
+All entries for **Er**:  **<big>[[H6147|עֵר]]</big>**
 #### Related Profiles:
 - **[Judah](H3063G)** (father)
 - **[Bath-shua](Bath)** (mother)

@@ -7,33 +7,33 @@ Because ye trespassed against me among the children of Israel at the waters of M
 For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence.<small><sub>**MT:**</sub></small>
 [[Deut.32.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.50|<< Deuteronomy 32:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.52|Deuteronomy 32:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you resisted persuasion | <big><span class="asgreek">ηπειθήσατε</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my word, | <big><span class="asgreek">ρήματί</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of dispute, | <big><span class="asgreek">αντιλογίας</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
-| Kadesh, | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Sin; | <big><span class="asgreek">Σιν</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sanctify | <big><span class="asgreek">ηγιάσατέ</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| you resisted persuasion | **<big>[[G0544\|ηπειθήσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of my word, | **<big>[[G4487\|ρήματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| of dispute, | **<big>[[G0485\|αντιλογίας]]</big>** |
+| Kadesh, | **<big>[[H6946\|Κάδης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| of Sin; | **<big>[[H6790\|Σιν]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| you did not | **<big>[[G3756\|ουχ]]</big>** |
+| sanctify | **<big>[[G0037\|ηγιάσατέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Deut.32.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.50|<< Deuteronomy 32:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.52|Deuteronomy 32:52 >>]]</td></tr></table>
 
 

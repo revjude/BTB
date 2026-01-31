@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּנָּה‎</span></big> **tannâh** <small>*(tan-naw')*</small> ==**dragon**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably feminine of <span class="ashebrew">‎תַּן‎</span><sup><small>[[H8565]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּנָּה‎</span></big>** **tannâh** <small>*(tan-naw')*</small> ==**dragon**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably feminine of **<big>[[H8565|‎תַּן‎]]</big>**</small>
 
 $\quad$ dragon.
 - ***a female jackal***

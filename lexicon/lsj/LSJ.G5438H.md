@@ -1,4 +1,4 @@
-meaning of: <small>[[G5438G]]</small> 
+meaning of: <small>**<big>[[G5438G|φυλακή]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φυλακή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 

@@ -7,16 +7,16 @@ And if it be stolen from him, he shall make restitution unto the owner thereof.
 But if the animal was actually stolen from the neighbor, he must make restitution to the owner.<small><sub>**MT:**</sub></small>
 [[Exod.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.11|<< Exodus 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.13|Exodus 22:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it be stolen | <big><span class="asgreek">κλαπή</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| owner | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| it be stolen | **<big>[[G2813\|κλαπή]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| owner | **<big>[[G2962\|κυρίω]]</big>** |
+| of it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.11|<< Exodus 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.13|Exodus 22:13 >>]]</td></tr></table>
 
 

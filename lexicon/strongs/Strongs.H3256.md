@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָסַר‎</span></big> **yâçar** <small>*(yaw-sar')*</small> ==**to discipline**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָסַר‎</span></big>** **yâçar** <small>*(yaw-sar')*</small> ==**to discipline**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bind, chasten, chastise, correct, instruct, punish, reform, reprove, sore, teach.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c2)** to chasten, chastise
 $\quad$ **1d)** (Hiphil) to chasten
 $\quad$ **1e)** (Nithpael) to teach
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">νουθετέω</span><sup><small>[[G3560]]</small></sup> · <span class="asgreek">παιδεύω</span><sup><small>[[G3811]]</small></sup>
+<small>See Greek: </small>**<big>[[G0758|ἄρχων]]</big>** · **<big>[[G3560|νουθετέω]]</big>** · **<big>[[G3811|παιδεύω]]</big>**

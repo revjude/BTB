@@ -1,5 +1,3 @@
-<span class="ashebrew">‎בִּמְהָל‎</span> <small>***(bim.hal)***</small> ==**Bimhal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living before Israel's Monarchy, only mentioned at [[1Chr.7.33|1Ch.7.33]]
--  son of: Japhlet ([[H3310]])
--  brother of: Pasach ([[H6457]]) and Ashvath ([[H6220]])
-
+-  son of: Japhlet (**<big>[[H3310|יַפְלֵט]]</big>**)
+-  brother of: Pasach (**<big>[[H6457|פָּסַךְ]]</big>**) and Ashvath (**<big>[[H6220|עַשְׁוָת]]</big>**)

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עַוִּים‎</span> <small>***(av.vim)***</small> ==**Avvite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-group of: <small>[[H5755]]</small> 
+<small>group of:</small> <small>**<big>[[H5755|עִוָּה]]</big>**</small> 
 
 
-- Group of <i>iv.vah</i> (<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ו‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "Ivvah" [[H5755]])
+- Group of <i>iv.vah</i> (<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ו‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "Ivvah" **<big>[[H5755|עִוָּה]]</big>**)

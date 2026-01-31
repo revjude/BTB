@@ -7,30 +7,30 @@ Because they had not executed my judgments, but had despised my statutes, and ha
 For they did not practice My ordinances, but they rejected My statutes and profaned My Sabbaths, fixing their eyes on the idols of their fathers.<small><sub>**MT:**</sub></small>
 [[Ezek.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ordinances | <big><span class="asgreek">δικαιώματά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| observe | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they thrusted away | <big><span class="asgreek">απώσαντο</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my Sabbaths | <big><span class="asgreek">σάββατά</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| profaned | <big><span class="asgreek">εβεβήλουν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thoughts | <big><span class="asgreek">ενθυμημάτων</span></big> <sup><small><small>[[G7243]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eyes | <big><span class="asgreek">οφθαλμοί αυτών</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my ordinances | **<big>[[G1345\|δικαιώματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| observe | **<big>[[G4160\|εποίησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my orders | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they thrusted away | **<big>[[G0683\|απώσαντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my Sabbaths | **<big>[[G4521\|σάββατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| profaned | **<big>[[G0953\|εβεβήλουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| thoughts | **<big>[[G7243\|ενθυμημάτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their eyes | **<big>[[G3788\|οφθαλμοί αυτών]]</big>** |
 [[Ezek.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
 
 

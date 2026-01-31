@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Shittim Valley</span> is mentioned in Joel's prophecy as a place where water will flow when God restores Judah's fortunes \(Joel 3:18\).
 - A location only mentioned at [[Num.33.49|Jol.3.18]]; 
-- only referred to as Shittim\_Valley<[[H7851H]]><[[H5158I]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span> <span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Shittim\_Valley **<big>[[H7851|שִׁטִּים]]</big>** **<big>[[H5158|נַחַל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.85826217905818,35.64156652792805&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Shittim Valley is mentioned in the context of the prophet Joel's vision of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Shittim (NIV= acacias) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7851H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158I) <small>*Hebrew*</small> | 1x | [Jol.3.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jol.3.18) |
-All Strong's for **Shittim_Valley**: \[[[H7851H]]\]
+| Valley/ of Shittim (NIV= acacias) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ט</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7851H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158I) | 1x | [Jol.3.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jol.3.18) |
+All entries for **Shittim Valley**:  **<big>[[H7851|שִׁטִּים]]</big>**

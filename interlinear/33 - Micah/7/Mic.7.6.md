@@ -10,21 +10,21 @@ For a son dishonors his father, a daughter rises against her mother, and a daugh
 > $\quad$ referenced by: [[Matt.10.35|Matt 10:35-36]] ☩ [[Mark.13.12|Mark 13:12]] ☩ [[Luke.12.53|Luke 12:53]] ☩ [[Luke.14.26|Luke 14:26]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵן֙ </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] treating with contempt  | <span class="ashebrew"><big>מְנַבֵּ֣ל </big></span><small><small><sup>[[H5034A]]</sup></small></small> &#8207;| me.na.Bel <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a father  | <span class="ashebrew"><big>אָ֔ב </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'Av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a daughter  | <span class="ashebrew"><big>בַּ֚ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| bat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] arising  | <span class="ashebrew"><big>קָמָ֣ה </big></span><small><small><sup>[[H6965J]]</sup></small></small> &#8207;| ka.Mah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on mother her  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אִמָּ֔ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'i.Ma <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a daughter-in-law  | <span class="ashebrew"><big>כַּלָּ֖ה </big></span><small><small><sup>[[H3618H]]</sup></small></small> &#8207;| ka.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on mother-in-law her  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֲמֹתָ֑ </big></span><small><small><sup>[[H2545]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> cha.mo.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are the] enemies of  | <span class="ashebrew"><big>אֹיְבֵ֥י </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| 'o.ye.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>אַנְשֵׁ֥י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own household his  | <span class="ashebrew"><big>בֵיתֽ </big></span><small><small><sup>[[H1004M]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| vei.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵן֙]]&#8207; </big>**| ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] treating with contempt  |**<big>&#8207;[[H5034A\|מְנַבֵּ֣ל]]&#8207; </big>**| me.na.Bel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a father  |**<big>&#8207;[[H0001G\|אָ֔ב]]&#8207; </big>**| 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a daughter  |**<big>&#8207;[[H1323G\|בַּ֚ת]]&#8207; </big>**| bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] arising  |**<big>&#8207;[[H6965J\|קָמָ֣ה]]&#8207; </big>**| ka.Mah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on mother her  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0517\|אִמָּ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'i.Ma<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a daughter-in-law  |**<big>&#8207;[[H3618H\|כַּלָּ֖ה]]&#8207; </big>**| ka.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on mother-in-law her  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2545\|חֲמֹתָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.mo.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are the] enemies of  |**<big>&#8207;[[H0341\|אֹיְבֵ֥י]]&#8207; </big>**| 'o.ye.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own household his  |**<big>&#8207;[[H1004M\|בֵיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.5|<< Micah 7:5]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.7|Micah 7:7 >>]]</td></tr></table>
 
 

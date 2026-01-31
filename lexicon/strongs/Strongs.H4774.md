@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַרְגֵּעָה‎</span></big> **margêʻâh** <small>*(mar-gay-aw')*</small> ==**repose**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָגַע‎</span><sup><small>[[H7280]]</small></sup></small>
+**<big><span class="ashebrew">‎מַרְגֵּעָה‎</span></big>** **margêʻâh** <small>*(mar-gay-aw')*</small> ==**repose**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7280|‎רָגַע‎]]</big>**</small>
 
 $\quad$ refreshing.
 - ***rest***

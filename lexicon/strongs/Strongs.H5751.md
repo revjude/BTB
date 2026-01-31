@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עוֹד‎</span></big> **ʻôwd** <small>*(ode)*</small> ==**still**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עוֹד‎</span><sup><small>[[H5750]]</small></sup></small>
+**<big><span class="asaramaic">‎עוֹד‎</span></big>** **ʻôwd** <small>*(ode)*</small> ==**still**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5750|‎עוֹד‎]]</big>**</small>
 
 $\quad$ while.
 - {properly, ***iteration*** or ***continuance***

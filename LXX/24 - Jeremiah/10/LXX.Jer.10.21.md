@@ -7,25 +7,25 @@ For the pastors are become brutish, and have not sought the LORD: therefore they
 For the shepherds have become senseless; they do not seek the LORD. Therefore they have not prospered, and all their flock is scattered.<small><sub>**MT:**</sub></small>
 [[Jer.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.20|<< Jeremiah 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.22|Jeremiah 10:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| were unwise, | <big><span class="asgreek">ηφρονεύσαντο</span></big> <sup><small><small>[[G6629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seek | <big><span class="asgreek">εζήτησαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| comprehended not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ενόησε</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[sheep of the\] pasture | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| are dispersed. | <big><span class="asgreek">διεσκορπίσθησαν</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
+| were unwise, | **<big>[[G6629\|ηφρονεύσαντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| seek | **<big>[[G2212\|εζήτησαν]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| comprehended not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3539\|ενόησε]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| \[sheep of the\] pasture | **<big>[[G3542\|νομή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| are dispersed. | **<big>[[G1287\|διεσκορπίσθησαν]]</big>** |
 [[Jer.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.20|<< Jeremiah 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.22|Jeremiah 10:22 >>]]</td></tr></table>
 
 

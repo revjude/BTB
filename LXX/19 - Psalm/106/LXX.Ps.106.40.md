@@ -7,19 +7,19 @@ Therefore was the wrath of the LORD kindled against his people, insomuch that he
 So the anger of the LORD burned against His people, and He abhorred His own inheritance.<small><sub>**MT:**</sub></small>
 [[Ps.106.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.39|<< Psalm 106:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.41|Psalm 106:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| in rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people; | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he abhorred | <big><span class="asgreek">εβδελύξατο</span></big> <sup><small><small>[[G0948]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** |
+| in rage | **<big>[[G2372\|θυμώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people; | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he abhorred | **<big>[[G0948\|εβδελύξατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his inheritance. | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.106.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.39|<< Psalm 106:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.41|Psalm 106:41 >>]]</td></tr></table>
 
 

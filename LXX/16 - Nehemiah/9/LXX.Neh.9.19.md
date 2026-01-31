@@ -7,51 +7,51 @@ Yet thou in thy manifold mercies forsookest them not in the wilderness: the pill
 You in Your great compassion did not forsake them in the wilderness. By day the pillar of cloud never turned away from guiding them on their path; and by the night the pillar of fire illuminated the way they should go.<small><sub>**MT:**</sub></small>
 [[Neh.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.18|<< Nehemiah 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.20|Nehemiah 9:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| compassions | <big><span class="asgreek">οικτιρμοίς</span></big> <sup><small><small>[[G3628]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλοις</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκατέλιπες</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| The | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| column | <big><span class="asgreek">στύλον</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of cloud | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εξέκλινας</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to guide | <big><span class="asgreek">οδηγήσαι</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way; | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| column | <big><span class="asgreek">στύλον</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by night | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| to give light | <big><span class="asgreek">φωτίζειν</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they went | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| compassions | **<big>[[G3628\|οικτιρμοίς]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| great | **<big>[[G3173\|μεγάλοις]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon | **<big>[[G1459\|εγκατέλιπες]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
+| The | **<big>[[G3588\|τον]]</big>** |
+| column | **<big>[[G4769\|στύλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of cloud | **<big>[[G3507\|νεφέλης]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εξέκλινας]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| by day | **<big>[[G2250\|ημέρας]]</big>** |
+| to guide | **<big>[[G3594\|οδηγήσαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way; | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| column | **<big>[[G4769\|στύλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| by night | **<big>[[G3571\|νύκτα]]</big>** |
+| to give light | **<big>[[G5461\|φωτίζειν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| they went | **<big>[[G4198\|πορεύσονται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Neh.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.18|<< Nehemiah 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.20|Nehemiah 9:20 >>]]</td></tr></table>
 
 

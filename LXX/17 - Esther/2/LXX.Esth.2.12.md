@@ -7,37 +7,37 @@ Now when every maid’s turn was come to go in to king Ahasuerus, after that she
 In the twelve months before her turn to go to King Xerxes, the harem regulation required each young woman to receive beauty treatments with oil of myrrh for six months, and then with perfumes and cosmetics for another six months.<small><sub>**MT:**</sub></small>
 [[Esth.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.11|<< Esther 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.13|Esther 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| for a young woman | <big><span class="asgreek">κορασίου</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| to enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| she should have fulfilled | <big><span class="asgreek">αναπληρώση</span></big> <sup><small><small>[[G0378]]</small></small></sup> |
-| months | <big><span class="asgreek">μήνας</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δεκαδύο</span></big> <sup><small><small>[[G1177]]</small></small></sup> |
-| for thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[are\] fulfilled | <big><span class="asgreek">αναπληρούνται</span></big> <sup><small><small>[[G0378]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treatment, | <big><span class="asgreek">θεραπείας</span></big> <sup><small><small>[[G2322]]</small></small></sup> |
-| months | <big><span class="asgreek">μήνας</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| aromatics | <big><span class="asgreek">αρώμασι</span></big> <sup><small><small>[[G0759]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beauty treatments | <big><span class="asgreek">σμήγμασι</span></big> <sup><small><small>[[G9125]]</small></small></sup> |
-| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women, | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| For this | **<big>[[G3778\|ούτος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρός]]</big>** |
+| for a young woman | **<big>[[G2877\|κορασίου]]</big>** |
+| to enter | **<big>[[G1525\|εισελθείν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| she should have fulfilled | **<big>[[G0378\|αναπληρώση]]</big>** |
+| months | **<big>[[G3376\|μήνας]]</big>** |
+| twelve | **<big>[[G1177\|δεκαδύο]]</big>** |
+| for thus | **<big>[[G3779\|ούτως]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[are\] fulfilled | **<big>[[G0378\|αναπληρούνται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| treatment, | **<big>[[G2322\|θεραπείας]]</big>** |
+| months | **<big>[[G3376\|μήνας]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| aromatics | **<big>[[G0759\|αρώμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| beauty treatments | **<big>[[G9125\|σμήγμασι]]</big>** |
+| for the | **<big>[[G3588\|των]]</big>** |
+| women, | **<big>[[G1135\|γυναικών]]</big>** |
 [[Esth.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.11|<< Esther 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.13|Esther 2:13 >>]]</td></tr></table>
 
 

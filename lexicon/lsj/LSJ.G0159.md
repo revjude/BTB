@@ -1,4 +1,4 @@
-form of: <small>[[G0158]]</small> 
+form of: <small>**<big>[[G0158|αἴτιον]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==αἴτιος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 

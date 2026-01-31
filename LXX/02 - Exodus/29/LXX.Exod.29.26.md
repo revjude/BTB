@@ -7,31 +7,31 @@ And thou shalt take the breast of the ram of Aaron’s consecration, and wave it
 Take the breast of the ram of Aaron’s ordination and wave it before the LORD as a wave offering, and it will be your portion.<small><sub>**MT:**</sub></small>
 [[Exod.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.25|<< Exodus 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.27|Exodus 29:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breast | <big><span class="asgreek">στηθύνιον</span></big> <sup><small><small>[[G9170]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριού</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecration, | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Aaron's, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall separate | <big><span class="asgreek">αφοριείς</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as a\] separation \[offering\] | <big><span class="asgreek">αφόρισμα</span></big> <sup><small><small>[[G6627]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for a | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| portion. | <big><span class="asgreek">μερίδι</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breast | **<big>[[G9170\|στηθύνιον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ram | **<big>[[G8096\|κριού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| consecration, | **<big>[[G5050\|τελειώσεως]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| Aaron's, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall separate | **<big>[[G0873\|αφοριείς]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| \[as a\] separation \[offering\] | **<big>[[G6627\|αφόρισμα]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| for a | **<big>[[G1722\|εν]]</big>** |
+| portion. | **<big>[[G3310\|μερίδι]]</big>** |
 [[Exod.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.25|<< Exodus 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.27|Exodus 29:27 >>]]</td></tr></table>
 
 

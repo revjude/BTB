@@ -1,5 +1,4 @@
-<span class="ashebrew">‎רָאמוֹת‎</span> <small>***(ra.mot)***</small> ==**Ramoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-name of: <small>[[H7432]]</small> 
+<small>name of:</small> <small>**<big>[[H7432|רֶמֶת]]</big>**</small> 
 
 
 -   a place in Issachar

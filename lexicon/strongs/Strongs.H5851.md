@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲטָרָה‎</span></big> **ʻĂṭârâh** <small>*(at-aw-raw')*</small> ==**Atarah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֲטָרָה‎</span><sup><small>[[H5850]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲטָרָה‎</span></big>** **ʻĂṭârâh** <small>*(at-aw-raw')*</small> ==**Atarah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H5850|‎עֲטָרָה‎]]</big>**</small>
 
 $\quad$ Atarah.
 - § Atarah = *"a crown"*

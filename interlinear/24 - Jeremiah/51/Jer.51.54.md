@@ -6,15 +6,15 @@ A sound of a cry [cometh] from Babylon, and great destruction from the land of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.53|<< Jeremiah 51:53]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.55|Jeremiah 51:55 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sound of  | <span class="ashebrew"><big>ק֥וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cry of distress  | <span class="ashebrew"><big>זְעָקָ֖ה </big></span><small><small><sup>[[H2201]]</sup></small></small> &#8207;| ze.'a.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Babylon  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בָּבֶ֑ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and destruction  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֶׁ֥בֶר </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גָּד֖וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] land of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Chaldeans  | <span class="ashebrew"><big>כַּשְׂדִּֽים </big></span><small><small><sup>[[H3778]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kas.Dim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cry of distress  |**<big>&#8207;[[H2201\|זְעָקָ֖ה]]&#8207; </big>**| ze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Babylon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0894\|בָּבֶ֑ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and destruction  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7667\|שֶׁ֥בֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָּד֖וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Chaldeans  |**<big>&#8207;[[H3778\|כַּשְׂדִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.53|<< Jeremiah 51:53]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.55|Jeremiah 51:55 >>]]</td></tr></table>
 
 

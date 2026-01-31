@@ -7,58 +7,58 @@ And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daugh
 and you shall rejoice before the LORD your God in the place He will choose as a dwelling for His Name—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates, as well as the foreigner, the fatherless, and the widows among you.<small><sub>**MT:**</sub></small>
 [[Deut.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.10|<< Deuteronomy 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.12|Deuteronomy 16:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be glad | <big><span class="asgreek">ευφρανθήση</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughter, | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your manservant, | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant, | <big><span class="asgreek">παιδίσκη</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cities, | <big><span class="asgreek">πόλεσί</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner, | <big><span class="asgreek">προσήλυτος</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| orphan, | <big><span class="asgreek">ορφανός</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| widow | <big><span class="asgreek">χήρα</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should choose | <big><span class="asgreek">εκλέξηται</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be called upon | <big><span class="asgreek">επικληθήναι</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be glad | **<big>[[G2165\|ευφρανθήση]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your daughter, | **<big>[[G2364\|θυγάτηρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your manservant, | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your maidservant, | **<big>[[G3814\|παιδίσκη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite | **<big>[[G3017\|Λευίτης]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your cities, | **<big>[[G4172\|πόλεσί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner, | **<big>[[G4339\|προσήλυτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| orphan, | **<big>[[G3737\|ορφανός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| widow | **<big>[[G5503\|χήρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should choose | **<big>[[G1586\|εκλέξηται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to be called upon | **<big>[[G1941\|επικληθήναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Deut.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.10|<< Deuteronomy 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.12|Deuteronomy 16:12 >>]]</td></tr></table>
 
 

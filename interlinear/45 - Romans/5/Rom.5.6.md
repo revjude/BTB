@@ -6,23 +6,23 @@ For at just the right time, while we were still powerless, Christ died for the u
 <small><sub>**Literal:**</sub></small>
 Yet for Christ being of us without strength still according to [the] right time for [the] ungodly died;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.5|<< Romans 5:5]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.7|Romans 5:7 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yet [^1] [^2] |<big><span class="asgreek">ἔτι</span></big> <small><small><sup>[[G2089]]</sup></small></small> |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |
-| for [^3] |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
-| Christ |<big><span class="asgreek">Χριστὸς</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being |<big><span class="asgreek">ὄντων</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of us |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| without strength |<big><span class="asgreek">ἀσθενῶν</span></big> <small><small><sup>[[G0772G]]</sup></small></small> |asthenōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| still [^4] |<big><span class="asgreek">ἔτι</span></big> <small><small><sup>[[G2089]]</sup></small></small> |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| according to |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] right time |<big><span class="asgreek">καιρὸν</span></big> <small><small><sup>[[G2540]]</sup></small></small> |kairon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">ὑπὲρ</span></big> <small><small><sup>[[G5228]]</sup></small></small> |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] ungodly |<big><span class="asgreek">ἀσεβῶν</span></big> <small><small><sup>[[G0765]]</sup></small></small> |asebōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| died; |<big><span class="asgreek">ἀπέθανεν·</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Yet [^1] [^2] |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |
+| for [^3] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
+| Christ |**<big>[[G5547\|Χριστὸς]]</big>**  |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being |**<big>[[G1510\|ὄντων]]</big>**  |ontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of us |**<big>[[G3165\|ἡμῶν]]</big>**  |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| without strength |**<big>[[G0772G\|ἀσθενῶν]]</big>**  |asthenōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| still [^4] |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] right time |**<big>[[G2540\|καιρὸν]]</big>**  |kairon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] ungodly |**<big>[[G0765\|ἀσεβῶν]]</big>**  |asebōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| died; |**<big>[[G0599\|ἀπέθανεν·]]</big>**  |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.5|<< Romans 5:5]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.7|Romans 5:7 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**εἴ**</span>  (<i>ei</i>) 'if' occurs in a few manuscripts (WH) instead of <span class='asgreek'>**ἔτι**</span>  (<i>eti</i>) 'Yet' in older manuscripts (NA28+NA27+Tyn+SBL+Treg+TR+Byz)
-[^2]: ==WH==: if | <span class="asgreek">εἴ</span><small><sup>[[G1487]]</sup></small> | ei<small><sup>[[COND]]</sup></small>
-[^3]: ==WH==: indeed | <span class="asgreek">γε</span><small><sup>[[G1065]]</sup></small> | ge<small><sup>[[PRT]]</sup></small>
-[^4]: Extra Text:  <span class='asgreek'>**ἔτι**</span>  (<i>eti</i>) 'still' is only in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^1]: Variant:  **<big><span class='asgreek'>εἴ</span></big>**  (<i>ei</i>) 'if' occurs in a few manuscripts (WH) instead of **<big><span class='asgreek'>ἔτι</span></big>**  (<i>eti</i>) 'Yet' in older manuscripts (NA28+NA27+Tyn+SBL+Treg+TR+Byz)
+[^2]: ==WH==: if | **<big>[[G1487|εἴ]]</big>** | ei<small><sup>[[COND]]</sup></small>
+[^3]: ==WH==: indeed | **<big>[[G1065|γε]]</big>** | ge<small><sup>[[PRT]]</sup></small>
+[^4]: Extra Text:  **<big><span class='asgreek'>ἔτι</span></big>**  (<i>eti</i>) 'still' is only in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

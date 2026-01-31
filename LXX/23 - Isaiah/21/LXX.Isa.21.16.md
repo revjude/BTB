@@ -7,22 +7,22 @@ For thus hath the Lord said unto me, Within a year, according to the years of an
 For this is what the Lord says to me: “Within one year, as a hired worker would count it, all the glory of Kedar will be gone.<small><sub>**MT:**</sub></small>
 [[Isa.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.15|<< Isaiah 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.17|Isaiah 21:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a year, | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of a hireling, | <big><span class="asgreek">μισθωτού</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
-| shall fail | <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of Kedar | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
+| For | **<big>[[G3754\|οτι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| Yet | **<big>[[G2089\|έτι]]</big>** |
+| a year, | **<big>[[G1763\|ενιαυτός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| of a hireling, | **<big>[[G3411\|μισθωτού]]</big>** |
+| shall fail | **<big>[[G1587\|εκλείψει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| of Kedar | **<big>[[H6938\|Κηδάρ]]</big>** |
 [[Isa.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.15|<< Isaiah 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.17|Isaiah 21:17 >>]]</td></tr></table>
 
 

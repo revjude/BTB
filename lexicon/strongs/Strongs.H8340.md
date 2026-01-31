@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁשְׁבַּצַּר‎</span></big> **Shêshᵉbatstsar** <small>*(shaysh-bats-tsar')*</small> ==**Sheshbazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֵׁשְׁבַּצַּר‎</span><sup><small>[[H8339]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁשְׁבַּצַּר‎</span></big>** **Shêshᵉbatstsar** <small>*(shaysh-bats-tsar')*</small> ==**Sheshbazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8339|‎שֵׁשְׁבַּצַּר‎]]</big>**</small>
 
 $\quad$ Sheshbazzar.
 - § Sheshbazzar = *"worshipper of fire"*

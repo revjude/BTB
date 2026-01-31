@@ -7,35 +7,35 @@ Yet there is both straw and provender for our asses; and there is bread and wine
 even though there is both straw and feed for our donkeys, and bread and wine for me and the maidservant and young man with me. There is nothing that we, your servants, lack.”<small><sub>**MT:**</sub></small>
 [[Judg.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.18|<< Judges 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.20|Judges 19:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| straw | <big><span class="asgreek">άχυρα</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fodder | <big><span class="asgreek">χορτάσματα</span></big> <sup><small><small>[[G5527]]</small></small></sup> |
-| exists | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| for | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our donkeys, | <big><span class="asgreek">όνοις</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτος</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| exists | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| maidservant, | <big><span class="asgreek">παιδίσκη</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant; | <big><span class="asgreek">νεανίσκω</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| \[and to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">δούλοις</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| deficiency | <big><span class="asgreek">υστέρημα</span></big> <sup><small><small>[[G5303]]</small></small></sup> |
-| of any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| thing. | <big><span class="asgreek">πράγματος</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| straw | **<big>[[G0892\|άχυρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fodder | **<big>[[G5527\|χορτάσματα]]</big>** |
+| exists | **<big>[[G5225\|υπάρχει]]</big>** |
+| for | **<big>[[G3588\|τοις]]</big>** |
+| our donkeys, | **<big>[[G3688\|όνοις]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| bread | **<big>[[G0740\|άρτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| exists | **<big>[[G5225\|υπάρχει]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| maidservant, | **<big>[[G3814\|παιδίσκη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| servant; | **<big>[[G3495\|νεανίσκω]]</big>** |
+| \[and to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your servants | **<big>[[G1401\|δούλοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| deficiency | **<big>[[G5303\|υστέρημα]]</big>** |
+| of any | **<big>[[G3956\|παντός]]</big>** |
+| thing. | **<big>[[G4229\|πράγματος]]</big>** |
 [[Judg.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.18|<< Judges 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.20|Judges 19:20 >>]]</td></tr></table>
 
 

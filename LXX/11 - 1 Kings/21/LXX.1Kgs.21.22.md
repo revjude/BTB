@@ -7,32 +7,32 @@ And will make thine house like the house of Jeroboam the son of Nebat, and like 
 I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah, because you have provoked My anger and caused Israel to sin.’<small><sub>**MT:**</sub></small>
 [[1Kgs.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.21|<< 1 Kings 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.23|1 Kings 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat, | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Baasha | <big><span class="asgreek">Βαασά</span></big> <sup><small><small>[[H1201]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahijah, | <big><span class="asgreek">Αχιά</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| provocations | <big><span class="asgreek">παροργισμάτων</span></big> <sup><small><small>[[G8660]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you provoke to anger, | <big><span class="asgreek">παρώργισας</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led Israel into sin. | <big><span class="asgreek">εξήμαρτες</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nebat, | **<big>[[H5028\|Ναβάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Baasha | **<big>[[H1201\|Βαασά]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ahijah, | **<big>[[H0281\|Αχιά]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| provocations | **<big>[[G8660\|παροργισμάτων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| you provoke to anger, | **<big>[[G3949\|παρώργισας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| led Israel into sin. | **<big>[[G7292\|εξήμαρτες]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Kgs.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.21|<< 1 Kings 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.23|1 Kings 21:23 >>]]</td></tr></table>
 
 

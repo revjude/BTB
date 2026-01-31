@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎אַפְּתֹם‎</span></big> **ʼappᵉthôm** <small>*(ap-pe-thome')*</small> ==**revenue**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+**<big><span class="asaramaic">‎אַפְּתֹם‎</span></big>** **ʼappᵉthôm** <small>*(ap-pe-thome')*</small> ==**revenue**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
 <small>(Aramaic) of Persian origin</small>
 
 $\quad$ revenue.

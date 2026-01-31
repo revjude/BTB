@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Beracah Valley</span> was where Jehoshaphat and his army blessed the Lord after a miraculous victory. \(2 Chronicles 20:26\)
 - A location first mentioned at 2Ch.20.26; 
-- only referred to as Beracah\_Valley<[[H1294H]]><[[H6010H]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Beracah\_Valley **<big>[[H1294|בְּרָכָה]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.610650,35.165648&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Beracah Valley, meaning "Valley of Blessing," is mentioned in 2 Chronicles 2
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Beracah (KJV= Berachah; NIV= Berakah) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1294H)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010H) <small>*Hebrew*</small> | 2x | [[2Ch.20.26a] & [2Ch.20.26b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Ch.20.26;2Ch.20.26) |
-All Strong's for **Beracah_Valley**: \[[[H1294H]]\]
+| Valley/ of Beracah (KJV= Berachah; NIV= Berakah) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1294H)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010H) | 2x | [[2Ch.20.26a] & [2Ch.20.26b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Ch.20.26;2Ch.20.26) |
+All entries for **Beracah Valley**:  **<big>[[H1294|בְּרָכָה]]</big>**

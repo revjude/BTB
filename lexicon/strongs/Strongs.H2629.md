@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָסַם‎</span></big> **châçam** <small>*(khaw-sam')*</small> ==**to muzzle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָסַם‎</span></big>** **châçam** <small>*(khaw-sam')*</small> ==**to muzzle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ muzzle, stop.
@@ -7,4 +7,4 @@ $\quad$ muzzle, stop.
 
 **1)** (Qal) to stop up, muzzle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φιμόω</span><sup><small>[[G5392]]</small></sup>
+<small>See Greek: </small>**<big>[[G5392|φιμόω]]</big>**

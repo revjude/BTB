@@ -6,14 +6,14 @@ From there he spies out food; his eyes see it from afar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.28|<< Job 39:28]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.30|Job 39:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from there  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שָּׁ֥ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it spies out  | <span class="ashebrew"><big>חָֽפַר </big></span><small><small><sup>[[H2658]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| cha.far- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>אֹ֑כֶל </big></span><small><small><sup>[[H0400]]</sup></small></small> &#8207;| 'O.khel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> from afar  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רָח֗וֹק </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> me. <small><sup>[[HR]]</sup></small> ra.Chok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes its  | <span class="ashebrew"><big>עֵינָ֥י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they look  | <span class="ashebrew"><big>יַבִּֽיטוּ </big></span><small><small><sup>[[H5027]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Bi.tu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֥ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it spies out  |**<big>&#8207;[[H2658\|חָֽפַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.far-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H0400\|אֹ֑כֶל]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> from afar  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7350\|רָח֗וֹק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes its  |**<big>&#8207;[[H5869A\|עֵינָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they look  |**<big>&#8207;[[H5027\|יַבִּֽיטוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Bi.tu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.28|<< Job 39:28]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.30|Job 39:30 >>]]</td></tr></table>
 
 

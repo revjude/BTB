@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָכַן‎</span></big> **çâkan** <small>*(saw-kan')*</small> ==**to endanger**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>probably a denominative from <span class="ashebrew">‎שַׂכִּין‎</span><sup><small>[[H7915]]</small></sup></small>
+**<big><span class="ashebrew">‎סָכַן‎</span></big>** **çâkan** <small>*(saw-kan')*</small> ==**to endanger**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>probably a denominative from **<big>[[H7915|‎שַׂכִּין‎]]</big>**</small>
 
 $\quad$ endanger, impoverish.
 - properly, ***to cut***, i.e. ***damage***
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Niphal) to endanger oneself
 **2)** to be poor
 $\quad$ **2a)** (Pual) to be impoverished
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κινδυνεύω</span><sup><small>[[G2793]]</small></sup>
+<small>See Greek: </small>**<big>[[G2793|κινδυνεύω]]</big>**

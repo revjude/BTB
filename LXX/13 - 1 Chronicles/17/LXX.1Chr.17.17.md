@@ -7,34 +7,34 @@ And [yet] this was a small thing in thine eyes, O God; for thou hast [also] spok
 And as if this was a small thing in Your eyes, O God, You have spoken about the future of the house of Your servant and have regarded me as a man of great distinction, O LORD God.<small><sub>**MT:**</sub></small>
 [[1Chr.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.16|<< 1 Chronicles 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.18|1 Chronicles 17:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[things\] were diminished | <big><span class="asgreek">εσμικρύνθη</span></big> <sup><small><small>[[G9126]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| O God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| about | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servant | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a long \[time\], | <big><span class="asgreek">μακρών</span></big> <sup><small><small>[[G3117]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked upon | <big><span class="asgreek">επείδες</span></big> <sup><small><small>[[G1896]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| man's | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raised me up high, | <big><span class="asgreek">ύψωσάς</span></big> <sup><small><small>[[G5312]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[things\] were diminished | **<big>[[G9126\|εσμικρύνθη]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| O God; | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| about | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your servant | **<big>[[G3816\|παιδός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|απο]]</big>** |
+| a long \[time\], | **<big>[[G3117\|μακρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| looked upon | **<big>[[G1896\|επείδες]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| man's | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raised me up high, | **<big>[[G5312\|ύψωσάς]]</big>** **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God. | **<big>[[G2316\|θεός]]</big>** |
 [[1Chr.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.16|<< 1 Chronicles 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.18|1 Chronicles 17:18 >>]]</td></tr></table>
 
 

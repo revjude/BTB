@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַגֵּפָה‎</span></big> **maggêphâh** <small>*(mag-gay-faw')*</small> ==**plague**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָגַף‎</span><sup><small>[[H5062]]</small></sup></small>
+**<big><span class="ashebrew">‎מַגֵּפָה‎</span></big>** **maggêphâh** <small>*(mag-gay-faw')*</small> ==**plague**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5062|‎נָגַף‎]]</big>**</small>
 
 $\quad$ ([idiom] be) plague(-d), slaughter, stroke.
 - ***a pestilence***
@@ -10,4 +10,4 @@ $\quad$ **1a)** blow (fatal stroke)
 $\quad$ **1b)** slaughter (of battle)
 $\quad$ **1c)** plague, pestilence (divine judgment)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup> · <span class="asgreek">πληγή</span><sup><small>[[G4127]]</small></sup>
+<small>See Greek: </small>**<big>[[G0684|ἀπώλεια]]</big>** · **<big>[[G4127|πληγή]]</big>**

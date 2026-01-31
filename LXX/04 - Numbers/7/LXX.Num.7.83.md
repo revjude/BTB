@@ -7,27 +7,27 @@ And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
 and a peace offering of two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan.<small><sub>**MT:**</sub></small>
 [[Num.7.83|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.82|<< Numbers 7:82]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.84|Numbers 7:84 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of deliverance, | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| heifers | <big><span class="asgreek">δαμάλεις</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| he-goats | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| ewe-lambs | <big><span class="asgreek">αμνάδας</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαυσίας</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| of Ahira | <big><span class="asgreek">Αχιρά</span></big> <sup><small><small>[[H0299]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Enan. | <big><span class="asgreek">Αινάν</span></big> <sup><small><small>[[H5881]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of deliverance, | **<big>[[G4992\|σωτηρίου]]</big>** |
+| heifers | **<big>[[G1151\|δαμάλεις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| rams | **<big>[[G8096\|κριούς]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| he-goats | **<big>[[G5131\|τράγους]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| ewe-lambs | **<big>[[G6261\|αμνάδας]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαυσίας]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| this \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift | **<big>[[G1435\|δώρον]]</big>** |
+| of Ahira | **<big>[[H0299\|Αχιρά]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Enan. | **<big>[[H5881\|Αινάν]]</big>** |
 [[Num.7.83|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.82|<< Numbers 7:82]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.84|Numbers 7:84 >>]]</td></tr></table>
 
 

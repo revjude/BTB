@@ -7,34 +7,34 @@ And Rebekah said to Isaac, I am weary of my life because of the daughters of Het
 Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”<small><sub>**MT:**</sub></small>
 [[Gen.27.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.45|<< Genesis 27:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.1|Genesis 28:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| I loathe | <big><span class="asgreek">προσώχθικα</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life, | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Heth. | <big><span class="asgreek">Χετ</span></big> <sup><small><small>[[H2845]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| Jacob shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| why | <big><span class="asgreek">ίνατι</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| \[is it\] for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to live? | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| I loathe | **<big>[[G4360\|προσώχθικα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my life, | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Heth. | **<big>[[H2845\|Χετ]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| Jacob shall take | **<big>[[G2983\|λήψεται]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this land, | **<big>[[G1093\|γης]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| why | **<big>[[G2444\|ίνατι]]</big>** |
+| \[is it\] for me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to live? | **<big>[[G2198\|ζην]]</big>** |
 [[Gen.27.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.45|<< Genesis 27:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.1|Genesis 28:1 >>]]</td></tr></table>
 
 

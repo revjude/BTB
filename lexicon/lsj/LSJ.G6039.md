@@ -1,5 +1,5 @@
 <span class="asgreek">εὐθύμως</span> <small>***(euthumōs)***</small> ==**cheerfully**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
-spelling of: <small>[[G2115]]</small> 
+spelling of: <small>**<big>[[G2115|εὔθυμος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==εὐθύμως==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 

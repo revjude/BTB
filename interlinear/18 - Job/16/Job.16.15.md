@@ -6,15 +6,15 @@ I have sewn sackcloth over my skin; I have buried my horn in the dust.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.16|Job 16:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| sackcloth  | <span class="ashebrew"><big>שַׂ֣ק </big></span><small><small><sup>[[H8242]]</sup></small></small> &#8207;| sak <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have sewed  | <span class="ashebrew"><big>תָּ֭פַרְתִּי </big></span><small><small><sup>[[H8609]]</sup></small></small> &#8207;| Ta.far.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עֲלֵ֣י </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'a.Lei <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| skin my  | <span class="ashebrew"><big>גִלְדִּ֑ </big></span><small><small><sup>[[H1539]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| gil.D <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I have inserted  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עֹלַ֖לְתִּי </big></span><small><small><sup>[[H5953D]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'o.Lal.ti <small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the dust  | <span class="ashebrew"><big>בֶ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָפָ֣ר </big></span><small><small><sup>[[H6083]]</sup></small></small> &#8207;| ve. <small><sup>[[HRd]]</sup></small> 'a.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| horn my  | <span class="ashebrew"><big>קַרְנִֽ </big></span><small><small><sup>[[H7161A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kar.N <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sackcloth  |**<big>&#8207;[[H8242\|שַׂ֣ק]]&#8207; </big>**| sak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have sewed  |**<big>&#8207;[[H8609\|תָּ֭פַרְתִּי]]&#8207; </big>**| Ta.far.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עֲלֵ֣י]]&#8207; </big>**| 'a.Lei<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skin my  |**<big>&#8207;[[H1539\|גִלְדִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| gil.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have inserted  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5953D\|עֹלַ֖לְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'o.Lal.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the dust  |**<big>&#8207;[[H9003\|בֶ]]&#8207;&#8207;[[H6083\|עָפָ֣ר]]&#8207; </big>**| ve.<small><sup>[[HRd]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horn my  |**<big>&#8207;[[H7161A\|קַרְנִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kar.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.16|Job 16:16 >>]]</td></tr></table>
 
 

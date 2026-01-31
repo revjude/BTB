@@ -6,22 +6,22 @@ I will also make the fruit of the trees and the crops of the field plentiful, so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.29|<< Ezekiel 36:29]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.31|Ezekiel 36:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I will increase  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִרְבֵּיתִי֙ </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hir.bei.Ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fruit of  | <span class="ashebrew"><big>פְּרִ֣י </big></span><small><small><sup>[[H6529]]</sup></small></small> &#8207;| pe.Ri <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the tree  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֵ֔ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] produce of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְנוּבַ֖ת </big></span><small><small><sup>[[H8570]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.nu.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶ֑ה </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so that  | <span class="ashebrew"><big>לְמַ֗עַן </big></span><small><small><sup>[[H4616]]</sup></small></small> &#8207;| le.Ma.'an <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲ֠שֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you may receive  | <span class="ashebrew"><big>תִקְח֥וּ </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| tik.Chu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֛וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] reproach of  | <span class="ashebrew"><big>חֶרְפַּ֥ת </big></span><small><small><sup>[[H2781]]</sup></small></small> &#8207;| cher.Pat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| famine  | <span class="ashebrew"><big>רָעָ֖ב </big></span><small><small><sup>[[H7458]]</sup></small></small> &#8207;| ra.'Av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the nations  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִֽם </big></span><small><small><sup>[[H1471A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will increase  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7235A\|הִרְבֵּיתִי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.bei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fruit of  |**<big>&#8207;[[H6529\|פְּרִ֣י]]&#8207; </big>**| pe.Ri<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tree  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6086H\|עֵ֔ץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] produce of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8570\|תְנוּבַ֖ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.nu.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  |**<big>&#8207;[[H4616\|לְמַ֗עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲ֠שֶׁר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you may receive  |**<big>&#8207;[[H3947H\|תִקְח֥וּ]]&#8207; </big>**| tik.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֛וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] reproach of  |**<big>&#8207;[[H2781\|חֶרְפַּ֥ת]]&#8207; </big>**| cher.Pat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| famine  |**<big>&#8207;[[H7458\|רָעָ֖ב]]&#8207; </big>**| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.29|<< Ezekiel 36:29]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.31|Ezekiel 36:31 >>]]</td></tr></table>
 
 

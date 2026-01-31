@@ -7,19 +7,19 @@ Of the Rock [that] begat thee thou art unmindful, and hast forgotten God that fo
 You ignored the Rock who brought you forth; you forgot the God who gave you birth.<small><sub>**MT:**</sub></small>
 [[Deut.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.17|<< Deuteronomy 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.19|Deuteronomy 32:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one creating | <big><span class="asgreek">γεννήσαντά</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you abandoned; | <big><span class="asgreek">εγκατέλιπες</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you forgot | <big><span class="asgreek">επελάθου</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one maintaining | <big><span class="asgreek">τρέφοντός</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one creating | **<big>[[G1080\|γεννήσαντά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| you abandoned; | **<big>[[G1459\|εγκατέλιπες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you forgot | **<big>[[G1950\|επελάθου]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| one maintaining | **<big>[[G5142\|τρέφοντός]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Deut.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.17|<< Deuteronomy 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.19|Deuteronomy 32:19 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְעָה‎</span></big> **Shimʻâh** <small>*(shim-aw')*</small> ==**Shimeah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שֵׁמַע‎</span><sup><small>[[H8088]]</small></sup>; annunciation</small>
+**<big><span class="ashebrew">‎שִׁמְעָה‎</span></big>** **Shimʻâh** <small>*(shim-aw')*</small> ==**Shimeah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>feminine of **<big>[[H8088|‎שֵׁמַע‎]]</big>**; annunciation</small>
 
 $\quad$ Shimeah.
 - § Shimeah = *"fame"*

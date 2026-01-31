@@ -6,24 +6,24 @@ And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Zillah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צִלָּ֣ה </big></span><small><small><sup>[[H6741]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tzi.Lah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  | <span class="ashebrew"><big>הִ֗וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she bore  | <span class="ashebrew"><big>יָֽלְדָה֙ </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yal.Dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tubal-  | <span class="ashebrew"><big>תּ֣וּבַל </big></span><small><small><sup>[[H8423]]</sup></small></small> &#8207;| Tu.val <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cain  | <span class="ashebrew"><big>קַ֔יִן </big></span><small><small><sup>[[H8423]]</sup></small></small> &#8207;| Ka.yin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sharpener of  | <span class="ashebrew"><big>לֹטֵ֕שׁ </big></span><small><small><sup>[[H3913]]</sup></small></small> &#8207;| lo.Tesh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| worker of  | <span class="ashebrew"><big>חֹרֵ֥שׁ </big></span><small><small><sup>[[H2790A]]</sup></small></small> &#8207;| cho.Resh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bronze  | <span class="ashebrew"><big>נְחֹ֖שֶׁת </big></span><small><small><sup>[[H5178A]]</sup></small></small> &#8207;| ne.Cho.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and iron  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַרְזֶ֑ל </big></span><small><small><sup>[[H1270]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> var.Zel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [was] [the] sister of  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲח֥וֹת </big></span><small><small><sup>[[H0269]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Chot <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tubal-  | <span class="ashebrew"><big>תּֽוּבַל </big></span><small><small><sup>[[H8423]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tu.val- <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cain  | <span class="ashebrew"><big>קַ֖יִן </big></span><small><small><sup>[[H8423]]</sup></small></small> &#8207;| Ka.yin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Naamah  | <span class="ashebrew"><big>נַֽעֲמָֽה </big></span><small><small><sup>[[H5279G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.'a.Mah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zillah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6741\|צִלָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzi.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִ֗וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bore  |**<big>&#8207;[[H3205\|יָֽלְדָה֙]]&#8207; </big>**| yal.Dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tubal-  |**<big>&#8207;[[H8423\|תּ֣וּבַל]]&#8207; </big>**| Tu.val<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cain  |**<big>&#8207;[[H8423\|קַ֔יִן]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sharpener of  |**<big>&#8207;[[H3913\|לֹטֵ֕שׁ]]&#8207; </big>**| lo.Tesh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| worker of  |**<big>&#8207;[[H2790A\|חֹרֵ֥שׁ]]&#8207; </big>**| cho.Resh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  |**<big>&#8207;[[H5178A\|נְחֹ֖שֶׁת]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and iron  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1270\|בַרְזֶ֑ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] [the] sister of  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H0269\|אֲח֥וֹת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Chot<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tubal-  |**<big>&#8207;[[H8423\|תּֽוּבַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tu.val-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cain  |**<big>&#8207;[[H8423\|קַ֖יִן]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naamah  |**<big>&#8207;[[H5279G\|נַֽעֲמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.'a.Mah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 
 

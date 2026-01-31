@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְאֹד‎</span></big> **mᵉʼôd** <small>*(meh-ode')*</small> ==**much**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎אוּד‎</span><sup><small>[[H0181]]</small></sup></small>
+**<big><span class="ashebrew">‎מְאֹד‎</span></big>** **mᵉʼôd** <small>*(meh-ode')*</small> ==**much**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from the same as **<big>[[H0181|‎אוּד‎]]</big>**</small>
 
 $\quad$ diligently, especially, exceeding(-ly), far, fast, good, great(-ly), [idiom] louder and louder, might(-ily, -y), (so) much, quickly, (so) sore, utterly, very ([phrase] much, sore), well.
 - properly, ***vehemence***, i.e. (with or without preposition) ***vehemently***
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **3b1)** exceedingly
 $\quad$ $\quad$ **3b2)** up to abundance, to a great degree, exceedingly
 $\quad$ $\quad$ **3b3)** with muchness, muchness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">λίαν</span><sup><small>[[G3029]]</small></sup> · <span class="asgreek">σφόδρα</span><sup><small>[[G4970]]</small></sup>
+<small>See Greek: </small>**<big>[[G1411|δύναμις]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G3029|λίαν]]</big>** · **<big>[[G4970|σφόδρα]]</big>**

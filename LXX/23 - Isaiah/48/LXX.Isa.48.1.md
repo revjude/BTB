@@ -10,37 +10,37 @@ Hear ye this, O house of Jacob, which are called by the name of Israel, and are 
 “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel—but not in truth or righteousness—<small><sub>**MT:**</sub></small>
 [[Isa.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.15|<< Isaiah 47:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.2|Isaiah 48:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jacob! | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being called | <big><span class="asgreek">κεκλημένοι</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθόντες</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| swearing by an oath | <big><span class="asgreek">ομνύοντες</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| ones remembering | <big><span class="asgreek">μιμνησκόμενοι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| truth, | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Jacob! | **<big>[[G2384\|Ιακώβ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being called | **<big>[[G2564\|κεκλημένοι]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| waters | **<big>[[G5204\|ύδατος]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθόντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| swearing by an oath | **<big>[[G3660\|ομνύοντες]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| ones remembering | **<big>[[G3403\|μιμνησκόμενοι]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| truth, | **<big>[[G0225\|αληθείας]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνης]]</big>** |
 [[Isa.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.15|<< Isaiah 47:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.2|Isaiah 48:2 >>]]</td></tr></table>
 
 

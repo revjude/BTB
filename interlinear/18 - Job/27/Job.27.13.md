@@ -6,18 +6,18 @@ This is the wicked man’s portion from God—the heritage the ruthless receive 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.12|<< Job 27:12]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.14|Job 27:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֶ֤ה </big></span><small><small><sup>[[H2088]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] portion of  | <span class="ashebrew"><big>חֵֽלֶק </big></span><small><small><sup>[[H2506A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| che.lek- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אָדָ֖ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked  | <span class="ashebrew"><big>רָשָׁ֥ע </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] inheritance of  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נַחֲלַ֥ת </big></span><small><small><sup>[[H5159]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.cha.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ruthless [people]  | <span class="ashebrew"><big>עָ֝רִיצִ֗ים </big></span><small><small><sup>[[H6184]]</sup></small></small> &#8207;| 'a.ri.Tzim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] from [the] Almighty  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שַּׁדַּ֥י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will receive  | <span class="ashebrew"><big>יִקָּֽחוּ </big></span><small><small><sup>[[H3947H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.Ka.chu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] portion of  |**<big>&#8207;[[H2506A\|חֵֽלֶק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| che.lek-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked  |**<big>&#8207;[[H7563\|רָשָׁ֥ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] inheritance of  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H5159\|נַחֲלַ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ruthless [people]  |**<big>&#8207;[[H6184\|עָ֝רִיצִ֗ים]]&#8207; </big>**| 'a.ri.Tzim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] from [the] Almighty  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7706\|שַּׁדַּ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will receive  |**<big>&#8207;[[H3947H\|יִקָּֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Ka.chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.12|<< Job 27:12]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.14|Job 27:14 >>]]</td></tr></table>
 
 

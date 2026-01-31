@@ -7,31 +7,31 @@ Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing decl
 Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”<small><sub>**MT:**</sub></small>
 [[Isa.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Come forth | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| O one fleeing | <big><span class="asgreek">φεύγων</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans! | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| \[With\] a voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of gladness | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| announce \[it\], | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| audibly | <big><span class="asgreek">ακουστόν</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| let this be made known! | <big><span class="asgreek">γενέσθω</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Report | <big><span class="asgreek">απαγγείλατε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Say! | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> rescued | <big><span class="asgreek">ερρύσατο</span></big> <sup><small><small>[[G4506]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| Come forth | **<big>[[G1831\|έξελθε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| O one fleeing | **<big>[[G5343\|φεύγων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans! | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| \[With\] a voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of gladness | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| announce \[it\], | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| audibly | **<big>[[G6200\|ακουστόν]]</big>** |
+| let this be made known! | **<big>[[G1096\|γενέσθω]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| Report | **<big>[[G0518\|απαγγείλατε]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] end | **<big>[[G2078\|εσχάτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
+| Say! | **<big>[[G3004\|λέγετε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> rescued | **<big>[[G4506\|ερρύσατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his servant | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Isa.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
 

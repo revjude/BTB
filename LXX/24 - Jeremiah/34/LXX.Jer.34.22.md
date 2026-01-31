@@ -7,41 +7,41 @@ Behold, I will command, saith the LORD, and cause them to return to this city; a
 Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”<small><sub>**MT:**</sub></small>
 [[Jer.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| order it, | <big><span class="asgreek">συντάσσω</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">επιστρέψω</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall wage war | <big><span class="asgreek">πολεμήσουσιν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall incinerate | <big><span class="asgreek">κατακαύσουσιν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah -- | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| I will make | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| untrodden | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| ones dwelling. | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| order it, | **<big>[[G4929\|συντάσσω]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G1994\|επιστρέψω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this city. | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall wage war | **<big>[[G4170\|πολεμήσουσιν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall incinerate | **<big>[[G2618\|κατακαύσουσιν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| fire; | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of Judah -- | **<big>[[G2448\|Ιούδα]]</big>** |
+| I will make | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| untrodden | **<big>[[G6101\|άβατον]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| ones dwelling. | **<big>[[G2730\|κατοικούντων]]</big>** |
 [[Jer.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
 

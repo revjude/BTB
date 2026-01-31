@@ -7,16 +7,16 @@ Zion shall be redeemed with judgment, and her converts with righteousness.
 Zion will be redeemed with justice, her repentant ones with righteousness.<small><sub>**MT:**</sub></small>
 [[Isa.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.26|<< Isaiah 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.28|Isaiah 1:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίματος</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| shall be delivered | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her captivity | <big><span class="asgreek">αιχμαλωσία</span></big> <sup><small><small>[[G0161]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| charity. | <big><span class="asgreek">ελεημοσύνης</span></big> <sup><small><small>[[G1654]]</small></small></sup> |
+| For with | **<big>[[G3326\|μετά]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| judgment | **<big>[[G2917\|κρίματος]]</big>** |
+| shall be delivered | **<big>[[G4982\|σωθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her captivity | **<big>[[G0161\|αιχμαλωσία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| charity. | **<big>[[G1654\|ελεημοσύνης]]</big>** |
 [[Isa.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.26|<< Isaiah 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.28|Isaiah 1:28 >>]]</td></tr></table>
 
 

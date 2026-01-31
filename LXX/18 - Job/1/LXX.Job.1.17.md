@@ -7,44 +7,44 @@ While he [was] yet speaking, there came also another, and said, The Chaldeans ma
 While he was still speaking, another messenger came and reported: “The Chaldeans formed three bands, raided the camels, and took them away. They put the servants to the sword, and I alone have escaped to tell you!”<small><sub>**MT:**</sub></small>
 [[Job.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.16|<< Job 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.18|Job 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| While | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| speaking this, | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| there came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| messenger, | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Job, | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| put | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| companies, | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encircled | <big><span class="asgreek">εκύκλωσαν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camels, | <big><span class="asgreek">καμήλους</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| captured | <big><span class="asgreek">ηχμαλώτευσαν</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| swords, | <big><span class="asgreek">μαχαίραις</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| escaped | <big><span class="asgreek">εσώθην</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to report | <big><span class="asgreek">απαγγείλαί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| While | **<big>[[G2089\|έτι]]</big>** |
+| speaking this, | **<big>[[G3778\|τούτου]]</big>** **<big>[[G2980\|λαλούντος]]</big>** |
+| there came | **<big>[[G2064\|ήλθεν]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| messenger, | **<big>[[G0032\|άγγελος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Job, | **<big>[[G2492\|Ιωβ]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίοι]]</big>** |
+| put | **<big>[[G2007\|επέθηκαν]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| companies, | **<big>[[G0746\|αρχάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| encircled | **<big>[[G2944\|εκύκλωσαν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| camels, | **<big>[[G2574\|καμήλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| captured | **<big>[[G0162\|ηχμαλώτευσαν]]</big>** |
+| them; | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| servants | **<big>[[G3816\|παίδας]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| swords, | **<big>[[G3162\|μαχαίραις]]</big>** |
+| escaped | **<big>[[G4982\|εσώθην]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to report | **<big>[[G0518\|απαγγείλαί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Job.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.16|<< Job 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.18|Job 1:18 >>]]</td></tr></table>
 
 

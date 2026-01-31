@@ -6,15 +6,15 @@ A song. A Psalm of David. My heart is steadfast, O God; I will sing and make mus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.0|<< Psalms 108:0]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.2|Psalms 108:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] steadfast  | <span class="ashebrew"><big>נָכ֣וֹן </big></span><small><small><sup>[[H3559H]]</sup></small></small> &#8207;| na.Khon <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לִבִּ֣ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֑ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will sing  | <span class="ashebrew"><big>אָשִׁ֥ירָה </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| 'a.Shi.rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will sing praises  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲזַמְּרָ֗ה </big></span><small><small><sup>[[H2167]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.za.me.Rah <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| honor my  | <span class="ashebrew"><big>כְּבוֹדִֽ </big></span><small><small><sup>[[H3519]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.vo.D <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] steadfast  |**<big>&#8207;[[H3559H\|נָכ֣וֹן]]&#8207; </big>**| na.Khon<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will sing  |**<big>&#8207;[[H7891\|אָשִׁ֥ירָה]]&#8207; </big>**| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will sing praises  |**<big>&#8207;[[H9002\|וַ֝]]&#8207;&#8207;[[H2167\|אֲזַמְּרָ֗ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.za.me.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| honor my  |**<big>&#8207;[[H3519\|כְּבוֹדִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.vo.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.0|<< Psalms 108:0]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.2|Psalms 108:2 >>]]</td></tr></table>
 
 

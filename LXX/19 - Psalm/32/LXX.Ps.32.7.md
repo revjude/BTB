@@ -7,25 +7,25 @@ Thou [art] my hiding place; thou shalt preserve me from trouble; thou shalt comp
 You are my hiding place. You protect me from trouble; You surround me with songs of deliverance. Selah<small><sub>**MT:**</sub></small>
 [[Ps.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.6|<< Psalm 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.8|Psalm 32:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| refuge | <big><span class="asgreek">καταφυγή</span></big> <sup><small><small>[[G7950]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| encompassing | <big><span class="asgreek">περιεχούσης</span></big> <sup><small><small>[[G4023]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my leap for joy | <big><span class="asgreek">αγαλλίαμά</span></big> <sup><small><small>[[G6110]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to ransom | <big><span class="asgreek">λύτρωσαί</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones encircling | <big><span class="asgreek">κυκλωσάντων</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
+| You | **<big>[[G1473\|συ]]</big>** |
+| are my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|ει]]</big>** |
+| refuge | **<big>[[G7950\|καταφυγή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| affliction | **<big>[[G2347\|θλίψεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| encompassing | **<big>[[G4023\|περιεχούσης]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my leap for joy | **<big>[[G6110\|αγαλλίαμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to ransom | **<big>[[G3084\|λύτρωσαί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones encircling | **<big>[[G2944\|κυκλωσάντων]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
 [[Ps.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.6|<< Psalm 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.8|Psalm 32:8 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ And I charged your judges at that time, saying, Hear [the causes] between your b
 At that time I charged your judges: “Hear the disputes between your brothers, and judge fairly between a man and his brother or a foreign resident.<small><sub>**MT:**</sub></small>
 [[Deut.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.15|<< Deuteronomy 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.17|Deuteronomy 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judges | <big><span class="asgreek">κριταίς</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time, | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Hold a hearing | <big><span class="asgreek">διακούετε</span></big> <sup><small><small>[[G1251]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judge | <big><span class="asgreek">κρίνατε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| justly | <big><span class="asgreek">δικαιώς</span></big> <sup><small><small>[[G1346]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] foreigner \[with\] him! | <big><span class="asgreek">προσηλύτου</span></big> <sup><small><small>[[G4339]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your judges | **<big>[[G2923\|κριταίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time, | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Hold a hearing | **<big>[[G1251\|διακούετε]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judge | **<big>[[G2919\|κρίνατε]]</big>** |
+| justly | **<big>[[G1346\|δικαιώς]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| a man | **<big>[[G0435\|ανδρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] foreigner \[with\] him! | **<big>[[G4339\|προσηλύτου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.15|<< Deuteronomy 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.17|Deuteronomy 1:17 >>]]</td></tr></table>
 
 

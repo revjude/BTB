@@ -7,28 +7,28 @@ In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the
 in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.<small><sub>**MT:**</sub></small>
 [[Jer.52.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.29|<< Jeremiah 52:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.31|Jeremiah 52:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτω</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth | <big><span class="asgreek">εικοστώ</span></big> <sup><small><small>[[G9686]]</small></small></sup> |
-| of Nebuchadnezzar, | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| transferred | <big><span class="asgreek">μετέθηκεν</span></big> <sup><small><small>[[G3346]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard | <big><span class="asgreek">αρχιμάγειρος</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
-| of Jews | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| seven hundred | <big><span class="asgreek">επτακοσίας</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| forty-five | <big><span class="asgreek">τεσσαρακονταπέντε</span></big> <sup><small><small>[[G9430]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχαί</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred. | <big><span class="asgreek">εξακόσιαι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth | **<big>[[G9686\|εικοστώ]]</big>** |
+| of Nebuchadnezzar, | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| transferred | **<big>[[G3346\|μετέθηκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief guard | **<big>[[G6554\|αρχιμάγειρος]]</big>** |
+| of Jews | **<big>[[G2453\|Ιουδαίων]]</big>** |
+| souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| seven hundred | **<big>[[G7485\|επτακοσίας]]</big>** |
+| forty-five | **<big>[[G9430\|τεσσαρακονταπέντε]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| souls | **<big>[[G5590\|ψυχαί]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred. | **<big>[[G1812\|εξακόσιαι]]</big>** |
 [[Jer.52.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.29|<< Jeremiah 52:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.31|Jeremiah 52:31 >>]]</td></tr></table>
 
 

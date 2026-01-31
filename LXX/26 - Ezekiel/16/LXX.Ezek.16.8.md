@@ -7,46 +7,46 @@ Now when I passed by thee, and looked upon thee, behold, thy time [was] the time
 Then I passed by and saw you, and you were indeed old enough for love. So I spread My cloak over you and covered your nakedness. I pledged Myself to you, entered into a covenant with you, and you became Mine, declares the Lord GOD.<small><sub>**MT:**</sub></small>
 [[Ezek.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.7|<< Ezekiel 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.9|Ezekiel 16:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I went | <big><span class="asgreek">διήλθον</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδόν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[it was\] your time, | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a time | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of resting up. | <big><span class="asgreek">καταλυόντων</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I opened and spread out | <big><span class="asgreek">διεπέτασα</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wings | <big><span class="asgreek">πτέρυγάς</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I covered | <big><span class="asgreek">εκάλυψα</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your indecency, | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I swore an oath | <big><span class="asgreek">ώμοσά</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you became | <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| mine. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I went | **<big>[[G1330\|διήλθον]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδόν]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[it was\] your time, | **<big>[[G2540\|καιρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a time | **<big>[[G2540\|καιρός]]</big>** |
+| of resting up. | **<big>[[G2647\|καταλυόντων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I opened and spread out | **<big>[[G6861\|διεπέτασα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my wings | **<big>[[G4420\|πτέρυγάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I covered | **<big>[[G2572\|εκάλυψα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your indecency, | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I swore an oath | **<big>[[G3660\|ώμοσά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκη]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you became | **<big>[[G1096\|εγένου]]</big>** |
+| mine. | **<big>[[G1473\|μοι]]</big>** |
 [[Ezek.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.7|<< Ezekiel 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.9|Ezekiel 16:9 >>]]</td></tr></table>
 
 

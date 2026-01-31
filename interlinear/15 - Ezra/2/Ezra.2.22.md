@@ -6,12 +6,12 @@ the men of Netophah, 56;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.21|<< Ezra 2:21]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.23|Ezra 2:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] men of  | <span class="ashebrew"><big>אַנְשֵׁ֥י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Netophah  | <span class="ashebrew"><big>נְטֹפָ֖ה </big></span><small><small><sup>[[H5199]]</sup></small></small> &#8207;| ne.to.Fah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֥ים </big></span><small><small><sup>[[H2572]]</sup></small></small> &#8207;| cha.mi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and six  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁשָּֽׁה </big></span><small><small><sup>[[H8337]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Netophah  |**<big>&#8207;[[H5199\|נְטֹפָ֖ה]]&#8207; </big>**| ne.to.Fah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שִׁשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.21|<< Ezra 2:21]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.23|Ezra 2:23 >>]]</td></tr></table>
 
 

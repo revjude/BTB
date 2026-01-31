@@ -7,31 +7,31 @@ And the number of them that lapped, [putting] their hand to their mouth, were th
 And the number of those who lapped the water with their hands to their mouths was three hundred men; all the others knelt to drink.<small><sub>**MT:**</sub></small>
 [[Judg.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.5|<< Judges 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.7|Judges 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones lapping | <big><span class="asgreek">λαψάντων</span></big> <sup><small><small>[[G8163]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tongue | <big><span class="asgreek">γλώσση</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακόσιοι</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remaining | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| bent | <big><span class="asgreek">έκαμψαν</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their knees | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| number | **<big>[[G0706\|αριθμός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones lapping | **<big>[[G8163\|λαψάντων]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their tongue | **<big>[[G1100\|γλώσση]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| three hundred | **<big>[[G5145\|τριακόσιοι]]</big>** |
+| men. | **<big>[[G0435\|άνδρες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| remaining | **<big>[[G2645\|κατάλοιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| bent | **<big>[[G2578\|έκαμψαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their knees | **<big>[[G1119\|γόνατα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to drink | **<big>[[G4095\|πιείν]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Judg.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.5|<< Judges 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.7|Judges 7:7 >>]]</td></tr></table>
 
 

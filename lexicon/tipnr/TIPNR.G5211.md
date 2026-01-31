@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Hymenaeus</span> was a man who had rejected the faith and was handed over to Satan by Paul so that he might learn not to blaspheme.
 - A man living at the time of the New Testament, first mentioned at [[1Tim.1.20|1Ti.1.20]]; 
-- only referred to as Hymenaeus<[[G5211]]> \(<span class='tipnrLangGreek'>Ὑμεναῖος</span>\).
+- only referred to as Hymenaeus **<big>[[G5211|Ὑμεναῖος]]</big>**.
 
 Hymenaeus is mentioned in two of Paul's epistles to Timothy \([[1Tim.1.20|1 Timothy 1:20]] and [[2Tim.2.17|2 Timothy 2:17]]\) as a man who had strayed from the truth and was causing harm to the faith of others. 
 
@@ -16,5 +16,5 @@ These passages highlight the importance of maintaining sound doctrine and the ne
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hymenaeus | [<span class='tipnrLangGreek'>Ὑμεναῖος</span>](G5211) <small>*Greek*</small> | 2x | [[1Ti.1.20] & [2Ti.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hymenaeus\*\|reference=1Ti.1.20;2Ti.2.17) |
-All Strong's for **Hymenaeus**: \[[[G5211]]\]
+| Hymenaeus | [<span class='tipnrLangGreek'>Ὑμεναῖος</span>](G5211) | 2x | [[1Ti.1.20] & [2Ti.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hymenaeus\*\|reference=1Ti.1.20;2Ti.2.17) |
+All entries for **Hymenaeus**:  **<big>[[G5211|Ὑμεναῖος]]</big>**

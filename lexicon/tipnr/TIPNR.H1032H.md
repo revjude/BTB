@@ -2,7 +2,7 @@
 
 Upper Beth-horon was a town in Ephraim, near Lower Beth-horon, fortified by Solomon. \([[Josh.16.5|Joshua 16:5]]; 1 Chronicles 7:24; 2 Chronicles 8:5\)
 - A location first mentioned at [[Josh.16.5|Jos.16.5]]; 
-- only referred to as Beth-horon\_Upper<[[H1032H]]><[[H5945G]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Beth-horon\_Upper **<big>[[H1032|בֵּית חוֹרוֹן]]</big>** **<big>[[H5945|עֶלְיוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.85891795409998,35.12831317484221&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,5 +20,5 @@ Today, the ancient site of Upper Beth-horon is identified with the modern Palest
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Upper/ Beth-horon (NIV= Upper Beth Horon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1032H)[<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5945G) <small>*Hebrew*</small> | 3x | [[Jos.16.5] ... [2Ch.8.5a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Upper\*\|reference=Jos.16.5;1Ch.7.24;2Ch.8.5) |
-All Strong's for **Beth-horon_Upper**: \[[[H1032H]]\]
+| Upper/ Beth-horon (NIV= Upper Beth Horon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1032H)[<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5945G) | 3x | [[Jos.16.5] ... [2Ch.8.5a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Upper\*\|reference=Jos.16.5;1Ch.7.24;2Ch.8.5) |
+All entries for **Beth-horon Upper**:  **<big>[[H1032|בֵּית חוֹרוֹן]]</big>**

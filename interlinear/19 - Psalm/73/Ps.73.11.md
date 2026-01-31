@@ -6,15 +6,15 @@ The wicked say, “How can God know? Does the Most High have knowledge?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.10|<< Psalms 73:10]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.12|Psalms 73:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they say  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמְר֗וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.me.Ru <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how?  | <span class="ashebrew"><big>אֵיכָ֥ה </big></span><small><small><sup>[[H0349B]]</sup></small></small> &#8207;| 'ei.Khah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| does he know  | <span class="ashebrew"><big>יָדַֽע </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.da'- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] there?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֵ֖שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דֵּעָ֣ה </big></span><small><small><sup>[[H1844]]</sup></small></small> &#8207;| de.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with [the] Most High  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶלְיֽוֹן </big></span><small><small><sup>[[H5945B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'el.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they say  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H0559\|אָמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how?  |**<big>&#8207;[[H0349B\|אֵיכָ֥ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| does he know  |**<big>&#8207;[[H3045\|יָדַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.da'-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] there?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵ֖שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1844\|דֵּעָ֣ה]]&#8207; </big>**| de.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] Most High  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5945B\|עֶלְיֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.10|<< Psalms 73:10]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.12|Psalms 73:12 >>]]</td></tr></table>
 
 

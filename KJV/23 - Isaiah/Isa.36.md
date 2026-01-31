@@ -85,7 +85,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Isa.36.22|22]]**<span class="
 
 [^36]: [[Num.34|Num 34:8]]; [[2Sam.8|2Sam 8:9]]
 
-[^37]: The variation of ***Arphad*** and ***Arpad*** exists only in the translation; the original being uniformly ***ΰ<span class='asgreek'>ψτγ</span>*** (<span class="ashebrew">‎אַרְפָּד‎</span><sup><small>[[H0774]]</small></sup>). [[Isa.10|Isa 10:9]]; [[Jer.49|Jer 49:23]], Arpad
+[^37]: The variation of ***Arphad*** and ***Arpad*** exists only in the translation; the original being uniformly ***ΰ<span class='asgreek'>ψτγ</span>*** ( [[H0774|‎אַרְפָּד‎]] ). [[Isa.10|Isa 10:9]]; [[Jer.49|Jer 49:23]], Arpad
 
 [^38]: Calmet is of opinion that Sepharvaim was the capital of the Saspires, who, according to Herodotus, were the only people that inhabited between the Colchians and Medes; and probably the Sarapases, whom Strabo places in Armenia. Hiller considers the name as denoting Sephar of the Parvaim, i.e., Mount Sephar adjacent to the regions of Arabia called Parvaim. But it is more probable, as Wells and others suppose, that Sepharvaim is the <span class="asgreek"><span class='asgreek'>Σιπφαρα</span></span>, Sipphara, of Ptolemy, the <span class="asgreek"><span class='asgreek'>Σιππαρηνων</span> <span class='asgreek'>πολις</span></span>, the city of the Sippareni, mentioned by Abydenus, and probably the Hipparenum of Pliny, a city of Mesopotamia, situated upon the Euphrates, near where it is divided into two arms, by one of which, it is probable, it was divided into two parts. [[2Kgs.17|2Kgs 17:24]]
 

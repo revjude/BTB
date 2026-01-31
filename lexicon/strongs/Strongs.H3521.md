@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּבוּל‎</span></big> **Kâbûwl** <small>*(kaw-bool')*</small> ==**Cabul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎כֶּבֶל‎</span><sup><small>[[H3525]]</small></sup> in the sense of limitation; sterile</small>
+**<big><span class="ashebrew">‎כָּבוּל‎</span></big>** **Kâbûwl** <small>*(kaw-bool')*</small> ==**Cabul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H3525|‎כֶּבֶל‎]]</big>** in the sense of limitation; sterile</small>
 
 $\quad$ Cabul.
 - § Cabul = *"binding"*

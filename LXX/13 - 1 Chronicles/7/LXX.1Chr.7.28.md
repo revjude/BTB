@@ -7,37 +7,37 @@ And their possessions and habitations [were], Bethel and the towns thereof, and 
 Their holdings and settlements included Bethel and its villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages as far as Ayyah and its villages.<small><sub>**MT:**</sub></small>
 [[1Chr.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.27|<< 1 Chronicles 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.29|1 Chronicles 7:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their possession | <big><span class="asgreek">κατάσχεσις</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικία</span></big> <sup><small><small>[[G2733]]</small></small></sup> |
-| \[was\] Beth-el | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| Naaran, | <big><span class="asgreek">Νοαράν</span></big> <sup><small><small>[[H5295]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] west | <big><span class="asgreek">δυσμάς</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| Gezer | <big><span class="asgreek">Γαζέρ</span></big> <sup><small><small>[[H1507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shechem | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Gaza | <big><span class="asgreek">Γάζης</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns. | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| their possession | **<big>[[G2697\|κατάσχεσις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwelling | **<big>[[G2733\|κατοικία]]</big>** |
+| \[was\] Beth-el | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| Naaran, | **<big>[[H5295\|Νοαράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] west | **<big>[[G1424\|δυσμάς]]</big>** |
+| Gezer | **<big>[[H1507\|Γαζέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| unto | **<big>[[G2193\|εως]]</big>** |
+| Gaza | **<big>[[G1048\|Γάζης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns. | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[1Chr.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.27|<< 1 Chronicles 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.29|1 Chronicles 7:29 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ For God \[the\] <span class="smallcaps">lord</span> your God \[is\] pitying and 
 For the LORD your God is a merciful God; He will not abandon you or destroy you or forget the covenant with your fathers, which He swore to them by oath.<small><sub>**MT:**</sub></small>
 [[Deut.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.30|<< Deuteronomy 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.32|Deuteronomy 4:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] pitying | <big><span class="asgreek">οικτίρμων</span></big> <sup><small><small>[[G3629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| merciful | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλείψει</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor in any way | <big><span class="asgreek">ουδε μή</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| will he obliterate | <big><span class="asgreek">εκτρίψη</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| forget | <big><span class="asgreek">επιλήσεται</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he swore by an oath | <big><span class="asgreek">ώμοσεν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] pitying | **<big>[[G3629\|οικτίρμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| merciful | **<big>[[G1655\|ελεήμων]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| He will not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλείψει]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| nor in any way | **<big>[[G8565\|ουδε μή]]</big>** |
+| will he obliterate | **<big>[[G7160\|εκτρίψη]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| he will not | **<big>[[G3756\|ουκ]]</big>** |
+| forget | **<big>[[G1950\|επιλήσεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he swore by an oath | **<big>[[G3660\|ώμοσεν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Deut.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.30|<< Deuteronomy 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.32|Deuteronomy 4:32 >>]]</td></tr></table>
 
 

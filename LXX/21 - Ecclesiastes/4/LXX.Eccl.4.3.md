@@ -7,28 +7,28 @@ Yea, better [is he] than both they, which hath not yet been, who hath not seen t
 But better than both is he who has not yet existed, who has not seen the evil that is done under the sun.<small><sub>**MT:**</sub></small>
 [[Eccl.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| better | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| not yet | <big><span class="asgreek">ούπω</span></big> <sup><small><small>[[G3768]]</small></small></sup> |
-| was born, | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| all | <big><span class="asgreek">σύμπαν</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| action | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being done | <big><span class="asgreek">πεποιημένον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun. | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| better | **<big>[[G0018\|αγαθός]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these two | **<big>[[G1417\|δύο]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| which | **<big>[[G3748\|όστις]]</big>** |
+| not yet | **<big>[[G3768\|ούπω]]</big>** |
+| was born, | **<big>[[G1096\|εγένετο]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| knew not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|είδε]]</big>** |
+| all | **<big>[[G9270\|σύμπαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| action | **<big>[[G4161\|ποίημα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| evil | **<big>[[G4190\|πονηρόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being done | **<big>[[G4160\|πεποιημένον]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun. | **<big>[[G2246\|ήλιον]]</big>** |
 [[Eccl.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
 

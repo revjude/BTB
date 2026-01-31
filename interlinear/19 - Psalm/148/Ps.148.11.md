@@ -6,16 +6,16 @@ kings of the earth and all peoples, princes and all rulers of the earth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.10|<< Psalms 148:10]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.12|Psalms 148:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O kings of  | <span class="ashebrew"><big>מַלְכֵי </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mal.khei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אֶ֭רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples of  | <span class="ashebrew"><big>לְאֻמִּ֑ים </big></span><small><small><sup>[[H3816]]</sup></small></small> &#8207;| le.'u.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| icials  | <span class="ashebrew"><big>שָׂ֝רִ֗ים </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| Sa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rulers of  | <span class="ashebrew"><big>שֹׁ֥פְטֵי </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| Sho.fe.tei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O kings of  |**<big>&#8207;[[H4428G\|מַלְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.khei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples of  |**<big>&#8207;[[H3816\|לְאֻמִּ֑ים]]&#8207; </big>**| le.'u.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| icials  |**<big>&#8207;[[H8269\|שָׂ֝רִ֗ים]]&#8207; </big>**| Sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rulers of  |**<big>&#8207;[[H8199\|שֹׁ֥פְטֵי]]&#8207; </big>**| Sho.fe.tei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.10|<< Psalms 148:10]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.12|Psalms 148:12 >>]]</td></tr></table>
 
 

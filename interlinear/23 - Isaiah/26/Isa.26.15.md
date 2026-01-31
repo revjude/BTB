@@ -6,18 +6,18 @@ You have enlarged the nation, O LORD; You have enlarged the nation. You have gai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.14|<< Isaiah 26:14]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.16|Isaiah 26:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you have added  | <span class="ashebrew"><big>יָסַ֤פְתָּ </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| ya.Saf.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the nation  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גּוֹי֙ </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have added  | <span class="ashebrew"><big>יָסַ֥פְתָּ </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| ya.Saf.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the nation  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גּ֖וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have gained glory  | <span class="ashebrew"><big>נִכְבָּ֑דְתָּ </big></span><small><small><sup>[[H3513G]]</sup></small></small> &#8207;| nikh.Ba.de.ta <small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have extended  | <span class="ashebrew"><big>רִחַ֖קְתָּ </big></span><small><small><sup>[[H7368]]</sup></small></small> &#8207;| ri.Chak.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] boundaries of  | <span class="ashebrew"><big>קַצְוֵי </big></span><small><small><sup>[[H7099]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| katz.vei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have added  |**<big>&#8207;[[H3254H\|יָסַ֤פְתָּ]]&#8207; </big>**| ya.Saf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the nation  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1471A\|גּוֹי֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have added  |**<big>&#8207;[[H3254H\|יָסַ֥פְתָּ]]&#8207; </big>**| ya.Saf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the nation  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1471A\|גּ֖וֹי]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have gained glory  |**<big>&#8207;[[H3513G\|נִכְבָּ֑דְתָּ]]&#8207; </big>**| nikh.Ba.de.ta<small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have extended  |**<big>&#8207;[[H7368\|רִחַ֖קְתָּ]]&#8207; </big>**| ri.Chak.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] boundaries of  |**<big>&#8207;[[H7099\|קַצְוֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| katz.vei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.14|<< Isaiah 26:14]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.16|Isaiah 26:16 >>]]</td></tr></table>
 
 

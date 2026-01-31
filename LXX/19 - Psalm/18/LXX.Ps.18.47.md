@@ -7,19 +7,19 @@ The God, the one granting acts of vengeance to me, and submitting peoples under 
 the God who avenges me and subdues nations beneath me,<small><sub>**MT:**</sub></small>
 [[Ps.18.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.46|<< Psalm 18:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.48|Psalm 18:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one granting | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| acts of vengeance | <big><span class="asgreek">εκδικήσεις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| submitting | <big><span class="asgreek">υποτάξας</span></big> <sup><small><small>[[G5293]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| me; | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one granting | **<big>[[G1325\|διδούς]]</big>** |
+| acts of vengeance | **<big>[[G1557\|εκδικήσεις]]</big>** |
+| to me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| submitting | **<big>[[G5293\|υποτάξας]]</big>** |
+| peoples | **<big>[[G2992\|λαούς]]</big>** |
+| under | **<big>[[G5259\|υπ΄]]</big>** |
+| me; | **<big>[[G1473\|εμέ]]</big>** |
 [[Ps.18.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.46|<< Psalm 18:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.48|Psalm 18:48 >>]]</td></tr></table>
 
 

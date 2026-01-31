@@ -7,52 +7,52 @@ And Arphaxad lived after he begat Salah four hundred and three years, and begat 
 And after he had become the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
 [[Gen.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.12|<< Genesis 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.14|Genesis 11:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Arphaxad lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Αρφαξάδ</span></big> <sup><small><small>[[G0742]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his procreating | <big><span class="asgreek">γεννήσαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cainan, | <big><span class="asgreek">Καϊναν</span></big> <sup><small><small>[[G2536]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακόσια</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Cainan lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Καϊνάν</span></big> <sup><small><small>[[G2536]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Salah. | <big><span class="asgreek">Σαλά</span></big> <sup><small><small>[[H7975a]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Cainan lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Καϊναν</span></big> <sup><small><small>[[G2536]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his procreating | <big><span class="asgreek">γεννήσαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> <big><span class="asgreek">αυτω</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Salah, | <big><span class="asgreek">Σαλα</span></big> <sup><small><small>[[H7975a]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακόσια</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Arphaxad lived | **<big>[[G2198\|έζησεν]]</big>** **<big>[[G0742\|Αρφαξάδ]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his procreating | **<big>[[G1080\|γεννήσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Cainan, | **<big>[[G2536\|Καϊναν]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| three hundred | **<big>[[G5145\|τριακόσια]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησεν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Cainan lived | **<big>[[G2198\|έζησε]]</big>** **<big>[[G2536\|Καϊνάν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Salah. | **<big>[[H7975a\|Σαλά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Cainan lived | **<big>[[G2198\|έζησε]]</big>** **<big>[[G2536\|Καϊναν]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his procreating | **<big>[[G1080\|γεννήσαι]]</big>** **<big>[[G1473\|αυτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Salah, | **<big>[[H7975a\|Σαλα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| three hundred | **<big>[[G5145\|τριακόσια]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησεν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
 [[Gen.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.12|<< Genesis 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.14|Genesis 11:14 >>]]</td></tr></table>
 
 

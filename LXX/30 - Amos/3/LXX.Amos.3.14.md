@@ -7,36 +7,36 @@ That in the day that I shall visit the transgressions of Israel upon him I will 
 On the day I punish Israel for their transgressions, I will visit destruction on the altars of Bethel; the horns of the altar will be cut off, and they will fall to the ground.<small><sub>**MT:**</sub></small>
 [[Amos.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.13|<< Amos 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.15|Amos 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I shall avenge | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| \[the\] impious deeds | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will take vengeance | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altars | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of Beth-el. | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be razed | <big><span class="asgreek">κατασκαφήσεται</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| I shall avenge | **<big>[[G1556\|εκδικήσω]]</big>** |
+| \[the\] impious deeds | **<big>[[G0763\|ασεβείας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| I will take vengeance | **<big>[[G1556\|εκδικήσω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| altars | **<big>[[G2379\|θυσιαστήρια]]</big>** |
+| of Beth-el. | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be razed | **<big>[[G2679\|κατασκαφήσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| horns | **<big>[[G2768\|κέρατα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
 [[Amos.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.13|<< Amos 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.15|Amos 3:15 >>]]</td></tr></table>
 
 

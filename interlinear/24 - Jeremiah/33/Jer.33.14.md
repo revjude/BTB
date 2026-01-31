@@ -6,25 +6,25 @@ Behold, the days are coming, declares the LORD, when I will fulfill the gracious
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.13|<< Jeremiah 33:13]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.15|Jeremiah 33:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הִנֵּ֛ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֥ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] coming  | <span class="ashebrew"><big>בָּאִ֖ים </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ba.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻם </big></span><small><small><sup>[[H5002]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ne.'um- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will carry out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הֲקִֽמֹתִי֙ </big></span><small><small><sup>[[H6965I]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ha.ki.mo.Ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the word  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דָּבָ֣ר </big></span><small><small><sup>[[H1697J]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> good  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טּ֔וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spoken  | <span class="ashebrew"><big>דִּבַּ֛רְתִּי </big></span><small><small><sup>[[H1696I]]</sup></small></small> &#8207;| di.Bar.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָֽה </big></span><small><small><sup>[[H3063G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֥ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] coming  |**<big>&#8207;[[H0935G\|בָּאִ֖ים]]&#8207; </big>**| ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will carry out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|הֲקִֽמֹתִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ki.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697J\|דָּבָ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> good  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896A\|טּ֔וֹב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spoken  |**<big>&#8207;[[H1696I\|דִּבַּ֛רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.13|<< Jeremiah 33:13]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.15|Jeremiah 33:15 >>]]</td></tr></table>
 
 

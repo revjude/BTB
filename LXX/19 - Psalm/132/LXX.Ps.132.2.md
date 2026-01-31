@@ -7,16 +7,16 @@ How he sware unto the LORD, [and] vowed unto the mighty [God] of Jacob;
 how he swore an oath to the LORD, and vowed to the Mighty One of Jacob:<small><sub>**MT:**</sub></small>
 [[Ps.132.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.1|<< Psalm 132:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.3|Psalm 132:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he made a vow | <big><span class="asgreek">ηύξατο</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Jacob, \[saying\], | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| he swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίω]]</big>** |
+| he made a vow | **<big>[[G2172\|ηύξατο]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| of Jacob, \[saying\], | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Ps.132.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.1|<< Psalm 132:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.3|Psalm 132:3 >>]]</td></tr></table>
 
 

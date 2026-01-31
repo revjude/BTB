@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎אׇרְנָן‎</span></big> **ʼOrnân** <small>*(or-nawn')*</small> ==**Ornan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎אֹרֶן‎</span><sup><small>[[H0766]]</small></sup>; strong</small>
+**<big><span class="ashebrew">‎אׇרְנָן‎</span></big>** **ʼOrnân** <small>*(or-nawn')*</small> ==**Ornan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H0766|‎אֹרֶן‎]]</big>**; strong</small>
 
-$\quad$ Ornan. See <span class="ashebrew">‎אֲרַוְנָה‎</span><sup><small>[[H0728]]</small></sup>.
+$\quad$ Ornan. See **<big>[[H0728|‎אֲרַוְנָה‎]]</big>**.
 - § Ornan = *"light was perpetuated: their fir trees"*
 - ***Ornan***, a Jebusite
 

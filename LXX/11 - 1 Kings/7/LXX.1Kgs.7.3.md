@@ -7,34 +7,34 @@ And [it was] covered with cedar above upon the beams, that [lay] on forty five p
 The house was roofed with cedar above the beams that rested on the pillars—forty-five beams, fifteen per row.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.2|<< 1 Kings 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.4|1 Kings 7:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he decorated with fretwork | <big><span class="asgreek">εφάτνωσε</span></big> <sup><small><small>[[G9624]]</small></small></sup> |
-| in cedar | <big><span class="asgreek">κέδρω</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">πλευρών</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns. | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \[was\] forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five -- | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| row | <big><span class="asgreek">στίχος</span></big> <sup><small><small>[[G9184]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he decorated with fretwork | **<big>[[G9624\|εφάτνωσε]]</big>** |
+| in cedar | **<big>[[G2748\|κέδρω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| above | **<big>[[G0509\|άνωθεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sides | **<big>[[G4125\|πλευρών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns. | **<big>[[G4769\|στύλων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| number | **<big>[[G0706\|αριθμός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns | **<big>[[G4769\|στύλων]]</big>** |
+| \[was\] forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five -- | **<big>[[G4002\|πέντε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| row | **<big>[[G9184\|στίχος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| in one | **<big>[[G1520\|εις]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G4002\|πέντε]]</big>** |
 [[1Kgs.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.2|<< 1 Kings 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.4|1 Kings 7:4 >>]]</td></tr></table>
 
 

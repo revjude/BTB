@@ -7,31 +7,31 @@ And when he came to him, behold, he stood by his burnt offering, and the princes
 So he returned to Balak, who was standing there by his burnt offering with the princes of Moab. “What did the LORD say?” Balak asked.<small><sub>**MT:**</sub></small>
 [[Num.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.16|<< Numbers 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.18|Numbers 23:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">όδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| he was standing | <big><span class="asgreek">εφειστήκει</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| beside | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his whole burnt-offering, | <big><span class="asgreek">ολοκαυτώσεως</span></big> <sup><small><small>[[G8495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Balak | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| said | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G0654\|απεστράφη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|όδε]]</big>** |
+| he was standing | **<big>[[G2186\|εφειστήκει]]</big>** |
+| beside | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his whole burnt-offering, | **<big>[[G8495\|ολοκαυτώσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Balak | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| said | **<big>[[G2980\|ελάλησε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριος]]</big>** |
 [[Num.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.16|<< Numbers 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.18|Numbers 23:18 >>]]</td></tr></table>
 
 

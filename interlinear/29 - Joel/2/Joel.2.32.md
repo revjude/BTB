@@ -10,28 +10,28 @@ And everyone who calls on the name of the LORD will be saved; for on Mount Zion 
 > $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rom.10.13|Rom 10:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָיָ֗ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כֹּ֧ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one] who  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will call  | <span class="ashebrew"><big>יִקְרָ֛א </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| yik.Ra' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] name of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֥ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will escape  | <span class="ashebrew"><big>יִמָּלֵ֑ט </big></span><small><small><sup>[[H4422]]</sup></small></small> &#8207;| yi.ma.Let <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֠י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] mountain of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֨וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in Jerusalem  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ירוּשָׁלִַ֜ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi. <small><sup>[[HR]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  | <span class="ashebrew"><big>תִּֽהְיֶ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an escaped remnant  | <span class="ashebrew"><big>פְלֵיטָ֗ה </big></span><small><small><sup>[[H6413]]</sup></small></small> &#8207;| fe.lei.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּֽ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁר֙ </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has said  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and among the survivors  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַ֨ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שְּׂרִידִ֔ים </big></span><small><small><sup>[[H8300]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Va. <small><sup>[[HRd]]</sup></small> se.ri.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] calling  | <span class="ashebrew"><big>קֹרֵֽא </big></span><small><small><sup>[[H7121G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ko.Re' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כֹּ֧ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will call  |**<big>&#8207;[[H7121G\|יִקְרָ֛א]]&#8207; </big>**| yik.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will escape  |**<big>&#8207;[[H4422\|יִמָּלֵ֑ט]]&#8207; </big>**| yi.ma.Let<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֨וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֜ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an escaped remnant  |**<big>&#8207;[[H6413\|פְלֵיטָ֗ה]]&#8207; </big>**| fe.lei.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֙]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and among the survivors  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ֨]]&#8207;&#8207;[[H8300\|שְּׂרִידִ֔ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Va.<small><sup>[[HRd]]</sup></small> se.ri.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] calling  |**<big>&#8207;[[H7121G\|קֹרֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ko.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.31|<< Joel 2:31]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.1|Joel 3:1 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ Take great stones in thine hand, and hide them in the clay in the brickkiln, whi
 “In the sight of the Jews, pick up some large stones and bury them in the clay of the brick pavement at the entrance to Pharaoh’s palace at Tahpanhes.<small><sub>**MT:**</sub></small>
 [[Jer.43.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλους</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hide | <big><span class="asgreek">κατάκρυψον</span></big> <sup><small><small>[[G7861]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] thresholds | <big><span class="asgreek">προθύροις</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| residence | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Tahpanhes, | <big><span class="asgreek">Τάφναις</span></big> <sup><small><small>[[H8471]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| great | **<big>[[G3173\|μεγάλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hide | **<big>[[G7861\|κατάκρυψον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] thresholds | **<big>[[G8895\|προθύροις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| residence | **<big>[[G3614\|οικίας]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Tahpanhes, | **<big>[[H8471\|Τάφναις]]</big>** |
+| in front of | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of \[the\] men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[Jer.43.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
 
 

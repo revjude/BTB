@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲרַק‎</span></big> **ʼăraq** <small>*(ar-ak')*</small> ==**earth**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) by transmutation for <span class="asaramaic">‎אֲרַע‎</span><sup><small>[[H0772]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲרַק‎</span></big>** **ʼăraq** <small>*(ar-ak')*</small> ==**earth**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) by transmutation for **<big>[[H0772|‎אֲרַע‎]]</big>**</small>
 
 $\quad$ earth.
 - ***the earth***

@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎καταναλίσκω‎</span></big> **katanalískō** <small>*(kat-an-al-is'-ko)*</small> ==**to consume**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">κατά</span><sup><small>[[G2596]]</small></sup> and <span class="asgreek">ἀναλίσκω</span><sup><small>[[G0355]]</small></sup></small>
+**<big><span class="asgreek">‎καταναλίσκω‎</span></big>** **katanalískō** <small>*(kat-an-al-is'-ko)*</small> ==**to consume**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G2596|‎κατά‎]]</big>** and **<big>[[G0355|‎ἀναλίσκω‎]]</big>**</small>
 
 $\quad$ consume.
 - to consume utterly

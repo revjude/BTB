@@ -6,17 +6,17 @@ Hallelujah! I will give thanks to the LORD with all my heart in the council of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.7|<< Psalms 110:7]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.2|Psalms 111:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| praise  | <span class="ashebrew"><big>הַ֥לְלוּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| Ha.lu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָ֨הּ </big></span><small><small><sup>[[H3050]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will give thanks to  | <span class="ashebrew"><big>אוֹדֶ֣ה </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| 'o.Deh <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heart  | <span class="ashebrew"><big>לֵבָ֑ב </big></span><small><small><sup>[[H3824]]</sup></small></small> &#8207;| le.Vav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] council of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ס֖וֹד </big></span><small><small><sup>[[H5475]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Sod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright [people]  | <span class="ashebrew"><big>יְשָׁרִ֣ים </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ye.sha.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] congregation  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵדָֽה </big></span><small><small><sup>[[H5712]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H1984B\|הַ֥לְלוּ]]&#8207; </big>**| Ha.lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָ֨הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give thanks to  |**<big>&#8207;[[H3034\|אוֹדֶ֣ה]]&#8207; </big>**| 'o.Deh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart  |**<big>&#8207;[[H3824\|לֵבָ֑ב]]&#8207; </big>**| le.Vav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] council of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5475\|ס֖וֹד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Sod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֣ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] congregation  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5712\|עֵדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.7|<< Psalms 110:7]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.2|Psalms 111:2 >>]]</td></tr></table>
 
 

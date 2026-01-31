@@ -7,30 +7,30 @@ Thou shalt not eat it; that it may go well with thee, and with thy children afte
 Do not eat it, so that it may go well with you and your children after you, because you will be doing what is right in the eyes of the LORD.<small><sub>**MT:**</sub></small>
 [[Deut.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.24|<< Deuteronomy 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.26|Deuteronomy 12:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| should happen to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pleasing \[thing\] | <big><span class="asgreek">αρεστόν</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φαγή]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| should happen to you, | **<big>[[G1473\|σοι]]</big>** **<big>[[G1096\|γένηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your sons | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should do | **<big>[[G4160\|ποιήσης]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| pleasing \[thing\] | **<big>[[G0701\|αρεστόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.24|<< Deuteronomy 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.26|Deuteronomy 12:26 >>]]</td></tr></table>
 
 

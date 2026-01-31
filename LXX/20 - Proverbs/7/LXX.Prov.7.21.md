@@ -7,19 +7,19 @@ With her much fair speech she caused him to yield, with the flattering of her li
 With her great persuasion she entices him; with her flattering lips she lures him.<small><sub>**MT:**</sub></small>
 [[Prov.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.20|<< Proverbs 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.22|Proverbs 7:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| astray | <big><span class="asgreek">απεπλάνησε</span></big> <sup><small><small>[[G0635]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with much | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| companionship, | <big><span class="asgreek">ομιλία</span></big> <sup><small><small>[[G3657]]</small></small></sup> |
-| with nooses | <big><span class="asgreek">βρόχοις</span></big> <sup><small><small>[[G1029]]</small></small></sup> |
-| and also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| By the \[things\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[her\] lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| she led him aground. | <big><span class="asgreek">εξώκειλεν</span></big> <sup><small><small>[[G7344]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| astray | **<big>[[G0635\|απεπλάνησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with much | **<big>[[G4183\|πολλή]]</big>** |
+| companionship, | **<big>[[G3657\|ομιλία]]</big>** |
+| with nooses | **<big>[[G1029\|βρόχοις]]</big>** |
+| and also | **<big>[[G5037\|τε]]</big>** |
+| By the \[things\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[her\] lips | **<big>[[G5491\|χειλέων]]</big>** |
+| she led him aground. | **<big>[[G7344\|εξώκειλεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Prov.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.20|<< Proverbs 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.22|Proverbs 7:22 >>]]</td></tr></table>
 
 

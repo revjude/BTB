@@ -11,18 +11,18 @@ Salmon was the father of Boaz, Boaz was the father of Obed,<small><sub>**MT:**<
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Salmon | <big><span class="asgreek">Σαλμών</span></big> <sup><small><small>[[G4533]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Boaz, | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Obed, | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Salmon | **<big>[[G4533\|Σαλμών]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Boaz, | **<big>[[G1003\|Βοόζ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Boaz | **<big>[[G1003\|Βοόζ]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Obed, | **<big>[[G5601\|Ωβήδ]]</big>** |
 [[Ruth.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.20|<< Ruth 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.22|Ruth 4:22 >>]]</td></tr></table>
 
 

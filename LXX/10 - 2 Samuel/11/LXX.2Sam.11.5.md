@@ -7,20 +7,20 @@ And the woman conceived, and sent and told David, and said, I [am] with child.
 And the woman conceived and sent word to David, saying, “I am pregnant.”<small><sub>**MT:**</sub></small>
 [[2Sam.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.4|<< 2 Samuel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.6|2 Samuel 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| conceived | <big><span class="asgreek">συνέλαβεν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reported | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I am one conceiving. | <big><span class="asgreek">συνείληφα</span></big> <sup><small><small>[[G4815]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| conceived | **<big>[[G4815\|συνέλαβεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reported | **<big>[[G0518\|απήγγειλε]]</big>** |
+| to David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| I am one conceiving. | **<big>[[G4815\|συνείληφα]]</big>** **<big>[[G1473\|εγώ]]</big>** |
 [[2Sam.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.4|<< 2 Samuel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.6|2 Samuel 11:6 >>]]</td></tr></table>
 
 

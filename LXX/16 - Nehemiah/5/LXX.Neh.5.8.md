@@ -7,37 +7,37 @@ And I said unto them, We after our ability have redeemed our brethren the Jews, 
 and said, “We have done our best to buy back our Jewish brothers who were sold to foreigners, but now you are selling your own brothers, that they may be sold back to us!” But they remained silent, for they could find nothing to say.<small><sub>**MT:**</sub></small>
 [[Neh.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.7|<< Nehemiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.9|Nehemiah 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have acquired | <big><span class="asgreek">κεκτήμεθα</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews, | <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been sold | <big><span class="asgreek">πωλουμένους</span></big> <sup><small><small>[[G4453]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| our voluntary \[offerings\]; | <big><span class="asgreek">εκουσίω</span></big> <sup><small><small>[[G1595]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sell | <big><span class="asgreek">πωλείτε</span></big> <sup><small><small>[[G4453]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren? | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall they be sold | <big><span class="asgreek">πραθήσονται</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| to us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were quiet, | <big><span class="asgreek">ησύχασαν</span></big> <sup><small><small>[[G2270]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| We | **<big>[[G1473\|ημείς]]</big>** |
+| have acquired | **<big>[[G2932\|κεκτήμεθα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| Jews, | **<big>[[G2453\|Ιουδαίους]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| having been sold | **<big>[[G4453\|πωλουμένους]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσιν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| our voluntary \[offerings\]; | **<big>[[G1595\|εκουσίω]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do you | **<big>[[G1473\|υμείς]]</big>** |
+| sell | **<big>[[G4453\|πωλείτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your brethren? | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| Or | **<big>[[G2532\|και]]</big>** |
+| shall they be sold | **<big>[[G4097\|πραθήσονται]]</big>** |
+| to us? | **<big>[[G1473\|ημίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were quiet, | **<big>[[G2270\|ησύχασαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρον]]</big>** |
+| a word. | **<big>[[G3056\|λόγον]]</big>** |
 [[Neh.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.7|<< Nehemiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.9|Nehemiah 5:9 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ For we are sold, I and my people, to be destroyed, to be slain, and to perish. B
 For my people and I have been sold out to destruction, death, and annihilation. If we had merely been sold as menservants and maidservants, I would have remained silent, because no such distress would justify burdening the king.”<small><sub>**MT:**</sub></small>
 [[Esth.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.3|<< Esther 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.5|Esther 7:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were sold | <big><span class="asgreek">επράθημεν</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| both I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| destruction, | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ravaging, | <big><span class="asgreek">διαρπαγήν</span></big> <sup><small><small>[[G6869]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| slavery; | <big><span class="asgreek">δουλείαν</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| we, | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| manservants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| maidservants, | <big><span class="asgreek">παιδίσκας</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I neglected \[to speak\]; | <big><span class="asgreek">παρήκουσας</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| \[is\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| worthy | <big><span class="asgreek">άξιος</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slanderer | <big><span class="asgreek">διάβολος</span></big> <sup><small><small>[[G1228]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| were sold | **<big>[[G4097\|επράθημεν]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| both I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G5037\|τε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| destruction, | **<big>[[G0684\|απώλειαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ravaging, | **<big>[[G6869\|διαρπαγήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| slavery; | **<big>[[G1397\|δουλείαν]]</big>** |
+| we, | **<big>[[G1473\|ημείς]]</big>** |
+| and both | **<big>[[G5037\|τε]]</big>** **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| our children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| manservants | **<big>[[G3816\|παίδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| maidservants, | **<big>[[G3814\|παιδίσκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I neglected \[to speak\]; | **<big>[[G3935\|παρήκουσας]]</big>** |
+| \[is\] not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| worthy | **<big>[[G0514\|άξιος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| slanderer | **<big>[[G1228\|διάβολος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Esth.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.3|<< Esther 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.5|Esther 7:5 >>]]</td></tr></table>
 
 

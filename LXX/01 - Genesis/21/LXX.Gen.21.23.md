@@ -7,42 +7,42 @@ Now therefore swear unto me here by God that thou wilt not deal falsely with me,
 Now, therefore, swear to me here before God that you will not deal falsely with me or my children or descendants. Show to me and to the country in which you reside the same kindness that I have shown to you.”<small><sub>**MT:**</sub></small>
 [[Gen.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.22|<< Genesis 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.24|Genesis 21:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| swear by an oath | <big><span class="asgreek">όμοσόν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[by\] God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[that you will\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| wrong | <big><span class="asgreek">αδικήσειν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my seed, | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name! | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I did | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| where | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sojourned | <big><span class="asgreek">παρώκησας</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| swear by an oath | **<big>[[G3660\|όμοσόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[by\] God | **<big>[[G2316\|θεόν]]</big>** |
+| \[that you will\] not | **<big>[[G3361\|μη]]</big>** |
+| wrong | **<big>[[G0091\|αδικήσειν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my seed, | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name! | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I did | **<big>[[G4160\|εποίησα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| where | **<big>[[G3739\|η]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| sojourned | **<big>[[G3939\|παρώκησας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Gen.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.22|<< Genesis 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.24|Genesis 21:24 >>]]</td></tr></table>
 
 

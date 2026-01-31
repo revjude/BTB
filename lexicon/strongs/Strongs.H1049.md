@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית צוּר‎</span></big> **Bêyth Tsûwr** <small>*(bayth tsoor')*</small> ==**Beth-zur**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎צוּר‎</span><sup><small>[[H6697]]</small></sup>; house of (the) rock</small>
+**<big><span class="ashebrew">‎בֵּית צוּר‎</span></big>** **Bêyth Tsûwr** <small>*(bayth tsoor')*</small> ==**Beth-zur**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H6697|‎צוּר‎]]</big>**; house of (the) rock</small>
 
 $\quad$ Beth-zur.
 - § Beth-zur = *"house of the rock"*

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎יְשַׁעְיָ֫הוּ‎</span> <small>***(ye.sha.yah)***</small> ==**Jeshaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[1Chr.25.3|1Ch.25.3]]
--  son of: Jeduthun ([[H3038]])
--  brother of: Obed-edom ([[H5654]]), Mattithiah ([[H4993H]]), Gedaliah ([[H1436I]]), Zeri ([[H6874]]), Hashabiah ([[H2811I]])
+-  son of: Jeduthun (**<big>[[H3038|יְדוּתוּן]]</big>**)
+-  brother of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**), Mattithiah (**<big>[[H4993H|מַתִּתְיָה]]</big>**), Gedaliah (**<big>[[H1436I|גְּדַּלְיָה]]</big>**), Zeri (**<big>[[H6874|צְרִי]]</big>**), Hashabiah (**<big>[[H2811I|חֲשַׁבְיָה]]</big>**)

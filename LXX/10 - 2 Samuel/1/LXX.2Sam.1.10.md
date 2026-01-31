@@ -7,43 +7,43 @@ So I stood upon him, and slew him, because I was sure that he could not live aft
 So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band that was on his arm, and I have brought them here to my lord.”<small><sub>**MT:**</sub></small>
 [[2Sam.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.9|<< 2 Samuel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.11|2 Samuel 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I stood | <big><span class="asgreek">επέστην</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put him to death, | <big><span class="asgreek">εθανάτωσα</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I knew | <big><span class="asgreek">ήδειν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he would not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| live | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he fell. | <big><span class="asgreek">πεσείν</span></big> <sup><small><small>[[G4098]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crown, | <big><span class="asgreek">βασίλειον</span></big> <sup><small><small>[[G0933]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| armlet, | <big><span class="asgreek">χλιδώνα</span></big> <sup><small><small>[[G9738]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his arm, | <big><span class="asgreek">βραχίονος</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I brought | <big><span class="asgreek">ενήνοχα</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I stood | **<big>[[G2186\|επέστην]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put him to death, | **<big>[[G2289\|εθανάτωσα]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I knew | **<big>[[G1492\|ήδειν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he would not | **<big>[[G3756\|ου]]</big>** |
+| live | **<big>[[G2198\|ζήσεται]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| he fell. | **<big>[[G4098\|πεσείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I took | **<big>[[G2983\|έλαβον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| crown, | **<big>[[G0933\|βασίλειον]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| armlet, | **<big>[[G9738\|χλιδώνα]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his arm, | **<big>[[G1023\|βραχίονος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I brought | **<big>[[G5342\|ενήνοχα]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my master | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
 [[2Sam.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.9|<< 2 Samuel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.11|2 Samuel 1:11 >>]]</td></tr></table>
 
 

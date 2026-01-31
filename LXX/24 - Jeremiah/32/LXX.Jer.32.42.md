@@ -7,36 +7,36 @@ For thus saith the LORD; Like as I have brought all this great evil upon this pe
 For this is what the LORD says: Just as I have brought all this great disaster on this people, so I will bring on them all the good I have promised them.<small><sub>**MT:**</sub></small>
 [[Jer.32.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.41|<< Jeremiah 32:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.43|Jeremiah 32:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| As | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| I brought | <big><span class="asgreek">επήγαγον</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad \[things\] | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| As | **<big>[[G2505\|καθά]]</big>** |
+| I brought | **<big>[[G1863\|επήγαγον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| bad \[things\] | **<big>[[G2556\|κακά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| great | **<big>[[G3173\|μεγάλα]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will bring | **<big>[[G1863\|επάξω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Jer.32.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.41|<< Jeremiah 32:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.43|Jeremiah 32:43 >>]]</td></tr></table>
 
 

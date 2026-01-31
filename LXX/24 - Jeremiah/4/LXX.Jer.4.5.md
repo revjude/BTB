@@ -10,33 +10,33 @@ Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in t
 Announce in Judah, proclaim in Jerusalem, and say: “Blow the ram’s horn throughout the land. Cry aloud and say, ‘Assemble yourselves and let us flee to the fortified cities.’<small><sub>**MT:**</sub></small>
 [[Jer.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.4|<< Jeremiah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.6|Jeremiah 4:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Announce | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearken | <big><span class="asgreek">ακουσθήτω</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Say! | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Signify | <big><span class="asgreek">σημάνατε</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| with a trumpet | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Cry out | <big><span class="asgreek">κεκράξατε</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| great! | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| Say! | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Be gathered together! | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| We should enter | <big><span class="asgreek">εισέλθωμεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walled | <big><span class="asgreek">τειχήρεις</span></big> <sup><small><small>[[G9408]]</small></small></sup> |
+| Announce | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hearken | **<big>[[G0191\|ακουσθήτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem! | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Say! | **<big>[[G2036\|είπατε]]</big>** |
+| Signify | **<big>[[G4591\|σημάνατε]]</big>** |
+| with a trumpet | **<big>[[G4536\|σάλπιγγι]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land! | **<big>[[G1093\|γης]]</big>** |
+| Cry out | **<big>[[G2896\|κεκράξατε]]</big>** |
+| great! | **<big>[[G3173\|μέγα]]</big>** |
+| Say! | **<big>[[G2036\|είπατε]]</big>** |
+| Be gathered together! | **<big>[[G4863\|συνάχθητε]]</big>** |
+| and, | **<big>[[G2532\|και]]</big>** |
+| We should enter | **<big>[[G1525\|εισέλθωμεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| walled | **<big>[[G9408\|τειχήρεις]]</big>** |
 [[Jer.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.4|<< Jeremiah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.6|Jeremiah 4:6 >>]]</td></tr></table>
 
 

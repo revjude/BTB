@@ -7,19 +7,19 @@ When they went, they went upon their four sides: [and] they turned not when they
 As they moved, they went in any of the four directions, without pivoting as they moved.<small><sub>**MT:**</sub></small>
 [[Ezek.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.16|<< Ezekiel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.18|Ezekiel 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| parts | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they went; | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn | <big><span class="asgreek">επέστρεφον</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their going, | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| parts | **<big>[[G3313\|μέρη]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| they went; | **<big>[[G4198\|επορεύοντο]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| turn | **<big>[[G1994\|επέστρεφον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their going, | **<big>[[G4198\|πορεύεσθαι]]</big>** **<big>[[G1473\|αυτά]]</big>** |
 [[Ezek.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.16|<< Ezekiel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.18|Ezekiel 1:18 >>]]</td></tr></table>
 
 

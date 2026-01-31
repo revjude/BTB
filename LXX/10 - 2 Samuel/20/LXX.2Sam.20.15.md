@@ -7,41 +7,41 @@ And they came and besieged him in Abel of Bethmaachah, and they cast up a bank a
 And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city. As all the troops with Joab were battering the wall to topple it,<small><sub>**MT:**</sub></small>
 [[2Sam.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.14|<< 2 Samuel 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.16|2 Samuel 20:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">παρεγενήθησαν</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| assaulted | <big><span class="asgreek">επολιόρκουν</span></big> <sup><small><small>[[G8843]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abel | <big><span class="asgreek">Αβέλ</span></big> <sup><small><small>[[H0059]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beth-maacah. | <big><span class="asgreek">Βαιθμαακά</span></big> <sup><small><small>[[H1038]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cast | <big><span class="asgreek">έβαλον</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| a seige mound | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| area around the wall. | <big><span class="asgreek">προτειχίσματι</span></big> <sup><small><small>[[G8950]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| purposed | <big><span class="asgreek">ενόουσαν</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| to throw down | <big><span class="asgreek">καταβαλείν</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall. | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G3854\|παρεγενήθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| assaulted | **<big>[[G8843\|επολιόρκουν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Abel | **<big>[[H0059\|Αβέλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beth-maacah. | **<big>[[H1038\|Βαιθμαακά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they cast | **<big>[[G0906\|έβαλον]]</big>** |
+| a seige mound | **<big>[[G5482\|χάρακα]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it stood | **<big>[[G2476\|έστη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| area around the wall. | **<big>[[G8950\|προτειχίσματι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| purposed | **<big>[[G3539\|ενόουσαν]]</big>** |
+| to throw down | **<big>[[G2598\|καταβαλείν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall. | **<big>[[G5038\|τείχος]]</big>** |
 [[2Sam.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.14|<< 2 Samuel 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.16|2 Samuel 20:16 >>]]</td></tr></table>
 
 

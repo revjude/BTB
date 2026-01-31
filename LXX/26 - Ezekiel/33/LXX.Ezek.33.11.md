@@ -7,43 +7,43 @@ Say unto them, [As] I live, saith the Lord GOD, I have no pleasure in the death 
 Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’<small><sub>**MT:**</sub></small>
 [[Ezek.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.10|<< Ezekiel 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.12|Ezekiel 33:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them! | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">βούλομαι</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious, | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| \[but\] as \[for\] | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| to turn | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way, | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to live | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[for\] him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| By turning | <big><span class="asgreek">αποστροφή</span></big> <sup><small><small>[[G6493]]</small></small></sup> |
-| you turn | <big><span class="asgreek">αποστρέψατε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| do you die, | <big><span class="asgreek">αποθνήσκετε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Say | **<big>[[G2036\|είπον]]</big>** |
+| to them! | **<big>[[G1473\|αυτοίς]]</big>** |
+| As I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| I do not | **<big>[[G3756\|ου]]</big>** |
+| want | **<big>[[G1014\|βούλομαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| death | **<big>[[G2288\|θάνατον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| impious, | **<big>[[G0765\|ασεβούς]]</big>** |
+| \[but\] as \[for\] | **<big>[[G5613\|ως]]</big>** |
+| to turn | **<big>[[G0654\|αποστρέψαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| impious | **<big>[[G0765\|ασεβή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his way, | **<big>[[G3598\|οδού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to live | **<big>[[G2198\|ζην]]</big>** |
+| \[for\] him | **<big>[[G1473\|αυτόν]]</big>** |
+| By turning | **<big>[[G6493\|αποστροφή]]</big>** |
+| you turn | **<big>[[G0654\|αποστρέψατε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| evil | **<big>[[G4190\|πονηράς]]</big>** |
+| For | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| do you die, | **<big>[[G0599\|αποθνήσκετε]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.10|<< Ezekiel 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.12|Ezekiel 33:12 >>]]</td></tr></table>
 
 

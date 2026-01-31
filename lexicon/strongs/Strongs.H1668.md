@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎דָּא‎</span></big> **dâʼ** <small>*(daw)*</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎זֶה‎</span><sup><small>[[H2088]]</small></sup></small>
+**<big><span class="asaramaic">‎דָּא‎</span></big>** **dâʼ** <small>*(daw)*</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2088|‎זֶה‎]]</big>**</small>
 
 $\quad$ one..another, this.
 - ***this***

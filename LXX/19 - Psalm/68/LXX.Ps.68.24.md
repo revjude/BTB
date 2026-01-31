@@ -7,23 +7,23 @@ They have seen thy goings, O God; [even] the goings of my God, my King, in the s
 They have seen Your procession, O God—the march of my God and King into the sanctuary.<small><sub>**MT:**</sub></small>
 [[Ps.68.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.23|<< Psalm 68:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.25|Psalm 68:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were viewed | <big><span class="asgreek">εθεωρήθησαν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your goings | <big><span class="asgreek">πορίαί</span></big> <sup><small><small>[[G4197]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| goings | <big><span class="asgreek">πορείαι</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place. | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| were viewed | **<big>[[G2334\|εθεωρήθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your goings | **<big>[[G4197\|πορίαί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| goings | **<big>[[G4197\|πορείαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| holy place. | **<big>[[G0039\|αγίω]]</big>** |
 [[Ps.68.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.23|<< Psalm 68:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.25|Psalm 68:25 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ When those carrying the ark of the LORD had advanced six paces, he sacrificed an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִ֗י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had stepped  | <span class="ashebrew"><big>צָעֲד֛וּ </big></span><small><small><sup>[[H6805]]</sup></small></small> &#8207;| tza.'a.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] bearers of  | <span class="ashebrew"><big>נֹשְׂאֵ֥י </big></span><small><small><sup>[[H5375H]]</sup></small></small> &#8207;| no.se.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ark of  | <span class="ashebrew"><big>אֲרוֹן </big></span><small><small><sup>[[H0727]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.ron- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שִׁשָּׁ֣ה </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| shi.Shah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| steps  | <span class="ashebrew"><big>צְעָדִ֑ים </big></span><small><small><sup>[[H6806]]</sup></small></small> &#8207;| tze.'a.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he sacrificed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּזְבַּ֥ח </big></span><small><small><sup>[[H2076]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yiz.Bach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ox  | <span class="ashebrew"><big>שׁ֖וֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| Shor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a fatling  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְרִֽיא </big></span><small><small><sup>[[H4806]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.Ri' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had stepped  |**<big>&#8207;[[H6805\|צָעֲד֛וּ]]&#8207; </big>**| tza.'a.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bearers of  |**<big>&#8207;[[H5375H\|נֹשְׂאֵ֥י]]&#8207; </big>**| no.se.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  |**<big>&#8207;[[H0727\|אֲרוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ron-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שִׁשָּׁ֣ה]]&#8207; </big>**| shi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| steps  |**<big>&#8207;[[H6806\|צְעָדִ֑ים]]&#8207; </big>**| tze.'a.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ox  |**<big>&#8207;[[H7794\|שׁ֖וֹר]]&#8207; </big>**| Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a fatling  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4806\|מְרִֽיא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Ri'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 
 

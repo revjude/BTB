@@ -7,38 +7,38 @@ And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of th
 Then Amnon said to Tamar, “Bring the food into the bedroom, so that I may eat it from your hand.” Tamar took the cakes she had made and went to her brother Amnon’s bedroom.<small><sub>**MT:**</sub></small>
 [[2Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amnon said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Tamar, | <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| Carry in | <big><span class="asgreek">εισένεγκέ</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| food | <big><span class="asgreek">βρώμα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bedroom! | <big><span class="asgreek">κοιτώνα</span></big> <sup><small><small>[[G2846]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall eat | <big><span class="asgreek">φαγόμαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand. | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tamar took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| biscuits | <big><span class="asgreek">κολλυρίδας</span></big> <sup><small><small>[[G8054]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she made, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| carried \[them\] | <big><span class="asgreek">εισήνεγκε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| her brother, | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bedroom. | <big><span class="asgreek">κοιτώνα</span></big> <sup><small><small>[[G2846]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Amnon said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0550\|Αμνών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Tamar, | **<big>[[G2283\|Θαμάρ]]</big>** |
+| Carry in | **<big>[[G1533\|εισένεγκέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| food | **<big>[[G1033\|βρώμα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| bedroom! | **<big>[[G2846\|κοιτώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall eat | **<big>[[G2068\|φαγόμαι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your hand. | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Tamar took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G2283\|Θαμάρ]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| biscuits | **<big>[[G8054\|κολλυρίδας]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| she made, | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| carried \[them\] | **<big>[[G1533\|εισήνεγκε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| her brother, | **<big>[[G0080\|αδελφώ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| bedroom. | **<big>[[G2846\|κοιτώνα]]</big>** |
 [[2Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
 

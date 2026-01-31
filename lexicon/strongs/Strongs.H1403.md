@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּבְרִיאֵל‎</span></big> **Gabrîyʼêl** <small>*(gab-ree-ale')*</small> ==**Gabriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גֶּבֶר‎</span><sup><small>[[H1397]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; man of God</small>
+**<big><span class="ashebrew">‎גַּבְרִיאֵל‎</span></big>** **Gabrîyʼêl** <small>*(gab-ree-ale')*</small> ==**Gabriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1397|‎גֶּבֶר‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; man of God</small>
 
 $\quad$ Garbriel.
 - § Gabriel = *"warrior of God" or "man of God"*
@@ -7,4 +7,4 @@ $\quad$ Garbriel.
 
 **1)** an archangel; the angel God used to send messages of great importance to man; sent to Daniel, to Zacharias, and to Mary
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Γαβριήλ</span><sup><small>[[G1043]]</small></sup>
+<small>See Greek: </small>**<big>[[G1043|Γαβριήλ]]</big>**

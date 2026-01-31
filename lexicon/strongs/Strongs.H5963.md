@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַלְמֹן דִּבְלָתָיְמָה‎</span></big> **ʻAlmôn Diblâthâyᵉmâh** <small>*(al-mone' dib-lawthaw'-yem-aw)*</small> ==**Almon-diblathaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎עַלְמוֹן‎</span><sup><small>[[H5960]]</small></sup> and the dual of <span class="ashebrew">‎הֻיְּדָה‎</span><sup><small>[[H1960]]</small></sup> (compare <span class="ashebrew">‎בֵּית דִּבְלָתַיִם‎</span><sup><small>[[H1015]]</small></sup>) with enclitic of direction; Almon towards Diblathajim</small>
+**<big><span class="ashebrew">‎עַלְמֹן דִּבְלָתָיְמָה‎</span></big>** **ʻAlmôn Diblâthâyᵉmâh** <small>*(al-mone' dib-lawthaw'-yem-aw)*</small> ==**Almon-diblathaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H5960|‎עַלְמוֹן‎]]</big>** and the dual of **<big>[[H1960|‎הֻיְּדָה‎]]</big>** (compare **<big>[[H1015|‎בֵּית דִּבְלָתַיִם‎]]</big>**) with enclitic of direction; Almon towards Diblathajim</small>
 
 $\quad$ Almondilathaim.
 - § Almon-diblathaim = *"concealing the two cakes"*

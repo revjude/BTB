@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּפְתֹּר‎</span></big> **Kaphtôr** <small>*(kaf-tore')*</small> ==**Caphtor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (Amos 9:7) <span class="ashebrew">כַּפְתּוֹר</span> **Kaphtôwr** <small>*(kaf-tore')*</small>; apparently the same as <span class="ashebrew">‎כַּפְתֹּר‎</span><sup><small>[[H3730]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּפְתֹּר‎</span></big>** **Kaphtôr** <small>*(kaf-tore')*</small> ==**Caphtor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (Amos 9:7) **<big><span class="ashebrew">כַּפְתּוֹר</span></big>** **Kaphtôwr** <small>*(kaf-tore')*</small>; apparently the same as **<big>[[H3730|‎כַּפְתֹּר‎]]</big>**</small>
 
 $\quad$ Caphtor.
 - § Caphtor = *"a crown"*

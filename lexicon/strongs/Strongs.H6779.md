@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָמַח‎</span></big> **tsâmach** <small>*(tsaw-makh')*</small> ==**to spring**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָמַח‎</span></big>** **tsâmach** <small>*(tsaw-makh')*</small> ==**to spring**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear, bring forth, (cause to, make to) bud (forth), (cause to, make to) grow (again, up), (cause to) spring (forth, up).
@@ -15,4 +15,4 @@ $\quad$ **1c)** (Hiphil)
 $\quad$ $\quad$ **1c1)** to cause to grow
 $\quad$ $\quad$ **1c2)** to cause to sprout
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατέλλω</span><sup><small>[[G0393]]</small></sup> · <span class="asgreek">βλαστάνω</span><sup><small>[[G0985]]</small></sup> · <span class="asgreek">ἐξανατέλλω</span><sup><small>[[G1816]]</small></sup> · <span class="asgreek">φύω</span><sup><small>[[G5453]]</small></sup>
+<small>See Greek: </small>**<big>[[G0393|ἀνατέλλω]]</big>** · **<big>[[G0985|βλαστάνω]]</big>** · **<big>[[G1816|ἐξανατέλλω]]</big>** · **<big>[[G5453|φύω]]</big>**

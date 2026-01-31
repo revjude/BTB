@@ -7,20 +7,20 @@ Which said unto God, Depart from us: and what can the Almighty do for them?
 They said to God, ‘Depart from us. What can the Almighty do to us?’<small><sub>**MT:**</sub></small>
 [[Job.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.16|<< Job 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.18|Job 22:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will he do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| bring upon | <big><span class="asgreek">επάξεται</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| \[The\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| will he do | **<big>[[G4160\|ποιήσει]]</big>** |
+| to us? | **<big>[[G1473\|ημίν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| bring upon | **<big>[[G1863\|επάξεται]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 [[Job.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.16|<< Job 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.18|Job 22:18 >>]]</td></tr></table>
 
 

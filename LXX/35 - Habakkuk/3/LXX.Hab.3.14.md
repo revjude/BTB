@@ -7,41 +7,41 @@ Thou didst strike through with his staves the head of his villages: they came ou
 With his own spear You pierced his head, when his warriors stormed out to scatter us, gloating as though ready to secretly devour the weak.<small><sub>**MT:**</sub></small>
 [[Hab.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You cut | <big><span class="asgreek">διέκοψας</span></big> <sup><small><small>[[G6839]]</small></small></sup> <big><span class="asgreek">διεμέρισας</span></big> <sup><small><small>[[G1266]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| astonishment | <big><span class="asgreek">εκστάσει</span></big> <sup><small><small>[[G1611]]</small></small></sup> <big><span class="asgreek">θάμβει</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
-| heads | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of mighty ones | <big><span class="asgreek">δυναστών</span></big> <sup><small><small>[[G1413]]</small></small></sup> <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| they shall shake | <big><span class="asgreek">σεισθήσονται</span></big> <sup><small><small>[[G4579]]</small></small></sup> <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σαλευθήσονται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| they shall open wide | <big><span class="asgreek">διανοίξουσι</span></big> <sup><small><small>[[G1272]]</small></small></sup> <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their bridles | <big><span class="asgreek">χαλινούς</span></big> <sup><small><small>[[G5469]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ανοίξουσι</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">ηνίας αυτών</span></big> <sup><small><small>[[G7632]]</small></small></sup> |
-| eating | <big><span class="asgreek">έσθων</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">τρώγλων</span></big> <sup><small><small>[[G5176]]</small></small></sup> |
-| in private. | <big><span class="asgreek">λάθρα</span></big> <sup><small><small>[[G2977]]</small></small></sup> <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| You divided into parts | <big><span class="asgreek">διέκοψας</span></big> <sup><small><small>[[G6839]]</small></small></sup> <big><span class="asgreek">διεμέρισας</span></big> <sup><small><small>[[G1266]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stupefaction | <big><span class="asgreek">εκστάσει</span></big> <sup><small><small>[[G1611]]</small></small></sup> <big><span class="asgreek">θάμβει</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
-| the | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heads | <big><span class="asgreek">δυναστών</span></big> <sup><small><small>[[G1413]]</small></small></sup> <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">σεισθήσονται</span></big> <sup><small><small>[[G4579]]</small></small></sup> <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mighty. | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| They shall shake | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σαλευθήσονται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| in | <big><span class="asgreek">διανοίξουσι</span></big> <sup><small><small>[[G1272]]</small></small></sup> <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">χαλινούς</span></big> <sup><small><small>[[G5469]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They shall open | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ανοίξουσι</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their reins | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">ηνίας αυτών</span></big> <sup><small><small>[[G7632]]</small></small></sup> |
-| as | <big><span class="asgreek">έσθων</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| chewing | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">τρώγλων</span></big> <sup><small><small>[[G5176]]</small></small></sup> |
-| \[the\] poor | <big><span class="asgreek">λάθρα</span></big> <sup><small><small>[[G2977]]</small></small></sup> <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| concealment. | <big><span class="asgreek">αποκρύφω</span></big> <sup><small><small>[[G0614]]</small></small></sup> |
+| You cut | **<big>[[G6839\|διέκοψας]]</big>** **<big>[[G1266\|διεμέρισας]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** **<big>[[G1722\|εν]]</big>** |
+| astonishment | **<big>[[G1611\|εκστάσει]]</big>** **<big>[[G2285\|θάμβει]]</big>** |
+| heads | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G3588\|τας]]</big>** |
+| of mighty ones | **<big>[[G1413\|δυναστών]]</big>** **<big>[[G2776\|κεφαλάς]]</big>** |
+| they shall shake | **<big>[[G4579\|σεισθήσονται]]</big>** **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** **<big>[[G1415\|δυνατών]]</big>** |
+| it; | **<big>[[G1473\|αυτή]]</big>** **<big>[[G4531\|σαλευθήσονται]]</big>** |
+| they shall open wide | **<big>[[G1272\|διανοίξουσι]]</big>** **<big>[[G1722\|εν]]</big>** |
+| their bridles | **<big>[[G5469\|χαλινούς]]</big>** **<big>[[G1473\|αυτών]]</big>** **<big>[[G1473\|αυτή]]</big>** **<big>[[G0455\|ανοίξουσι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** **<big>[[G3588\|τας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** **<big>[[G7632\|ηνίας αυτών]]</big>** |
+| eating | **<big>[[G2068\|έσθων]]</big>** **<big>[[G5613\|ως]]</big>** |
+| poor | **<big>[[G4434\|πτωχός]]</big>** **<big>[[G5176\|τρώγλων]]</big>** |
+| in private. | **<big>[[G2977\|λάθρα]]</big>** **<big>[[G4434\|πτωχόν]]</big>** |
+| You divided into parts | **<big>[[G6839\|διέκοψας]]</big>** **<big>[[G1266\|διεμέρισας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** **<big>[[G1722\|εν]]</big>** |
+| stupefaction | **<big>[[G1611\|εκστάσει]]</big>** **<big>[[G2285\|θάμβει]]</big>** |
+| the | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G3588\|τας]]</big>** |
+| heads | **<big>[[G1413\|δυναστών]]</big>** **<big>[[G2776\|κεφαλάς]]</big>** |
+| of the | **<big>[[G4579\|σεισθήσονται]]</big>** **<big>[[G3588\|των]]</big>** |
+| mighty. | **<big>[[G1722\|εν]]</big>** **<big>[[G1415\|δυνατών]]</big>** |
+| They shall shake | **<big>[[G1473\|αυτή]]</big>** **<big>[[G4531\|σαλευθήσονται]]</big>** |
+| in | **<big>[[G1272\|διανοίξουσι]]</big>** **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G5469\|χαλινούς]]</big>** **<big>[[G1473\|αυτή]]</big>** |
+| They shall open | **<big>[[G1473\|αυτών]]</big>** **<big>[[G0455\|ανοίξουσι]]</big>** |
+| \<obj.> | **<big>[[G5613\|ως]]</big>** **<big>[[G3588\|τας]]</big>** |
+| their reins | **<big>[[G3588\|ο]]</big>** **<big>[[G7632\|ηνίας αυτών]]</big>** |
+| as | **<big>[[G2068\|έσθων]]</big>** **<big>[[G5613\|ως]]</big>** |
+| chewing | **<big>[[G4434\|πτωχός]]</big>** **<big>[[G5176\|τρώγλων]]</big>** |
+| \[the\] poor | **<big>[[G2977\|λάθρα]]</big>** **<big>[[G4434\|πτωχόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| concealment. | **<big>[[G0614\|αποκρύφω]]</big>** |
 [[Hab.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
 

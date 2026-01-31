@@ -7,42 +7,42 @@ Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my yo
 “Ah, Lord GOD,” I said, “I have never defiled myself. From my youth until now I have not eaten anything found dead or mauled by wild beasts. No unclean meat has ever entered my mouth.”<small><sub>**MT:**</sub></small>
 [[Ezek.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| By no means, | <big><span class="asgreek">μηδαμώς</span></big> <sup><small><small>[[G3365]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| since | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| been defiled | <big><span class="asgreek">μεμίανται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| uncleanness; | <big><span class="asgreek">ακαθαρσία</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| decaying flesh | <big><span class="asgreek">θνησιμαίον</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that taken by wild beasts | <big><span class="asgreek">θηριάλωτον</span></big> <sup><small><small>[[G7670]]</small></small></sup> |
-| I have not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eaten | <big><span class="asgreek">βέβρωκα</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| my birth | <big><span class="asgreek">γένεσεώς</span></big> <sup><small><small>[[G1078]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| present; | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισελήλυθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| profane | <big><span class="asgreek">βέβηλον</span></big> <sup><small><small>[[G0952]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| By no means, | **<big>[[G3365\|μηδαμώς]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| since | **<big>[[G1487\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| has not | **<big>[[G3756\|ου]]</big>** |
+| been defiled | **<big>[[G3392\|μεμίανται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| uncleanness; | **<big>[[G0167\|ακαθαρσία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| decaying flesh | **<big>[[G7681\|θνησιμαίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that taken by wild beasts | **<big>[[G7670\|θηριάλωτον]]</big>** |
+| I have not | **<big>[[G3756\|ου]]</big>** |
+| eaten | **<big>[[G0977\|βέβρωκα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| my birth | **<big>[[G1078\|γένεσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| present; | **<big>[[G3568\|νυν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| entered | **<big>[[G1525\|εισελήλυθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| meat | **<big>[[G2907\|κρέας]]</big>** |
+| profane | **<big>[[G0952\|βέβηλον]]</big>** |
 [[Ezek.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
 

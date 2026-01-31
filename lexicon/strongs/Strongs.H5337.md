@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָצַל‎</span></big> **nâtsal** <small>*(naw-tsal')*</small> ==**to rescue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָצַל‎</span></big>** **nâtsal** <small>*(naw-tsal')*</small> ==**to rescue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] at all, defend, deliver (self), escape, [idiom] without fail, part, pluck, preserve, recover, rescue, rid, save, spoil, strip, [idiom] surely, take (out).
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c4)** to deliver from sin and guilt
 $\quad$ **1d)** (Hophal) to be plucked out
 $\quad$ **1e)** (Hithpael) to strip oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπελαύνω</span><sup><small>[[G0556]]</small></sup> · <span class="asgreek">ἀπέχει</span><sup><small>[[G0566]]</small></sup> · <span class="asgreek">ἀπέχομαι</span><sup><small>[[G0567]]</small></sup> · <span class="asgreek">ἀπέχω</span><sup><small>[[G0568]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">βοήθεια</span><sup><small>[[G0996]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">κατευθύνω</span><sup><small>[[G2720]]</small></sup> · <span class="asgreek">περιαιρέω</span><sup><small>[[G4014]]</small></sup> · <span class="asgreek">ῥύομαι</span><sup><small>[[G4506]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup>
+<small>See Greek: </small>**<big>[[G0556|ἀπελαύνω]]</big>** · **<big>[[G0566|ἀπέχει]]</big>** · **<big>[[G0567|ἀπέχομαι]]</big>** · **<big>[[G0568|ἀπέχω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G0996|βοήθεια]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G2720|κατευθύνω]]</big>** · **<big>[[G4014|περιαιρέω]]</big>** · **<big>[[G4506|ῥύομαι]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G4982|σώζω]]</big>**

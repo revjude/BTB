@@ -7,22 +7,22 @@ That thou mayest bear thine own shame, and mayest be confounded in all that thou
 So you will bear your disgrace and be ashamed of all you did to comfort them.<small><sub>**MT:**</sub></small>
 [[Ezek.16.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.53|<< Ezekiel 16:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.55|Ezekiel 16:55 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| you should carry | <big><span class="asgreek">κομίση</span></big> <sup><small><small>[[G2865]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your torment, | <big><span class="asgreek">βάσανόν</span></big> <sup><small><small>[[G0931]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be disgraced | <big><span class="asgreek">ατιμωθήση</span></big> <sup><small><small>[[G0821]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| provoking me to anger. | <big><span class="asgreek">παροργίσαι</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| you should carry | **<big>[[G2865\|κομίση]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your torment, | **<big>[[G0931\|βάσανόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be disgraced | **<big>[[G0821\|ατιμωθήση]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| you did | **<big>[[G4160\|εποίησας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your | **<big>[[G1473\|σε]]</big>** |
+| provoking me to anger. | **<big>[[G3949\|παροργίσαι]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Ezek.16.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.53|<< Ezekiel 16:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.55|Ezekiel 16:55 >>]]</td></tr></table>
 
 

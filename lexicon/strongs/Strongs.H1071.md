@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶכֶר‎</span></big> **Beker** <small>*(beh'-ker)*</small> ==**Becher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בֶּכֶר‎</span><sup><small>[[H1070]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶכֶר‎</span></big>** **Beker** <small>*(beh'-ker)*</small> ==**Becher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1070|‎בֶּכֶר‎]]</big>**</small>
 
 $\quad$ Becher.
 - § Becher = *"young camel"*

@@ -7,37 +7,37 @@ Go thou near, and hear all that the LORD our God shall say: and speak thou unto 
 Go near and listen to all that the LORD our God says. Then you can tell us everything the LORD our God tells you; we will listen and obey.”<small><sub>**MT:**</sub></small>
 [[Deut.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.26|<< Deuteronomy 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.28|Deuteronomy 5:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You approach | <big><span class="asgreek">πρόσελθε</span></big> <sup><small><small>[[G4334]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| should | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall speak | <big><span class="asgreek">λαλήσεις</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| whatever as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should speak | <big><span class="asgreek">λαλήση</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will hear, | <big><span class="asgreek">ακουσόμεθα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will do. | <big><span class="asgreek">ποιήσομεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| You approach | **<big>[[G4334\|πρόσελθε]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hear | **<big>[[G0191\|άκουσον]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| should | **<big>[[G0302\|αν]]</big>** |
+| say | **<big>[[G2036\|είπη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you! | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall speak | **<big>[[G2980\|λαλήσεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| whatever as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should speak | **<big>[[G2980\|λαλήση]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will hear, | **<big>[[G0191\|ακουσόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will do. | **<big>[[G4160\|ποιήσομεν]]</big>** |
 [[Deut.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.26|<< Deuteronomy 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.28|Deuteronomy 5:28 >>]]</td></tr></table>
 
 

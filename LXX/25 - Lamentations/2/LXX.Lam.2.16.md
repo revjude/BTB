@@ -9,31 +9,31 @@ All thine enemies have opened their mouth against thee: they hiss and gnash the 
 All your enemies open their mouths against you. They hiss and gnash their teeth, saying, “We have swallowed her up. This is the day for which we have waited. We have lived to see it!”<small><sub>**MT:**</sub></small>
 [[Lam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.15|<< Lamentations 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.17|Lamentations 2:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| wide | <big><span class="asgreek">διήνοιξαν</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They whistled | <big><span class="asgreek">εσύρισαν</span></big> <sup><small><small>[[G9349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gnashed | <big><span class="asgreek">έβρυξαν</span></big> <sup><small><small>[[G1031]]</small></small></sup> |
-| \[their\] teeth. | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| They said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We swallowed her down. | <big><span class="asgreek">κατεπίομεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Besides, | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we expected; | <big><span class="asgreek">προσεδοκώμεν</span></big> <sup><small><small>[[G4328]]</small></small></sup> |
-| we found | <big><span class="asgreek">εύρομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we saw \[it\]. | <big><span class="asgreek">είδομεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| ΑΙΝ <sup><small>[acrostic title]</small></sup> |  |
+| wide | **<big>[[G1272\|διήνοιξαν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| their mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| They whistled | **<big>[[G9349\|εσύρισαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gnashed | **<big>[[G1031\|έβρυξαν]]</big>** |
+| \[their\] teeth. | **<big>[[G3599\|οδόντας]]</big>** |
+| They said, | **<big>[[G2036\|είπαν]]</big>** |
+| We swallowed her down. | **<big>[[G2666\|κατεπίομεν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| Besides, | **<big>[[G4133\|πλην]]</big>** |
+| this \[is\] | **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| we expected; | **<big>[[G4328\|προσεδοκώμεν]]</big>** |
+| we found | **<big>[[G2147\|εύρομεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| we saw \[it\]. | **<big>[[G1492\|είδομεν]]</big>** |
 [[Lam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.15|<< Lamentations 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.17|Lamentations 2:17 >>]]</td></tr></table>
 
 

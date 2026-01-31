@@ -7,39 +7,39 @@ At his right hand was the divination for Jerusalem, to appoint captains, to open
 In his right hand appears the portent for Jerusalem, where he is to set up battering rams, to call for the slaughter, to lift a battle cry, to direct the battering rams against the gates, to build a ramp, and to erect a siege wall.<small><sub>**MT:**</sub></small>
 [[Ezek.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.21|<< Ezekiel 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.23|Ezekiel 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">μαντείον</span></big> <sup><small><small>[[G8253]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to throw up | <big><span class="asgreek">βαλείν</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| a siege mound, | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to open wide | <big><span class="asgreek">διανοίξαι</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| yelling, | <big><span class="asgreek">βοή</span></big> <sup><small><small>[[G0995]]</small></small></sup> |
-| to raise up high | <big><span class="asgreek">υψώσαι</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| a voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a cry, | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to throw up | <big><span class="asgreek">βαλείν</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| a siege mound | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her gates, | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to throw up | <big><span class="asgreek">βαλείν</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| an embankment, | <big><span class="asgreek">χώμα</span></big> <sup><small><small>[[G9771]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a range of weapons. | <big><span class="asgreek">βελοστάσεις</span></big> <sup><small><small>[[G6667]]</small></small></sup> |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| his right | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G8253\|μαντείον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to throw up | **<big>[[G0906\|βαλείν]]</big>** |
+| a siege mound, | **<big>[[G5482\|χάρακα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to open wide | **<big>[[G1272\|διανοίξαι]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| yelling, | **<big>[[G0995\|βοή]]</big>** |
+| to raise up high | **<big>[[G5312\|υψώσαι]]</big>** |
+| a voice | **<big>[[G5456\|φωνήν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a cry, | **<big>[[G2906\|κραυγής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to throw up | **<big>[[G0906\|βαλείν]]</big>** |
+| a siege mound | **<big>[[G5482\|χάρακα]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her gates, | **<big>[[G4439\|πύλας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to throw up | **<big>[[G0906\|βαλείν]]</big>** |
+| an embankment, | **<big>[[G9771\|χώμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| a range of weapons. | **<big>[[G6667\|βελοστάσεις]]</big>** |
 [[Ezek.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.21|<< Ezekiel 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.23|Ezekiel 21:23 >>]]</td></tr></table>
 
 

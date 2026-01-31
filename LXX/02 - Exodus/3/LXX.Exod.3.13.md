@@ -10,44 +10,44 @@ And Moses said unto God, Behold, [when] I come unto the children of Israel, and 
 Then Moses asked God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is His name?’ What should I tell them?”<small><sub>**MT:**</sub></small>
 [[Exod.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.12|<< Exodus 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.14|Exodus 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will go | <big><span class="asgreek">ελεύσομαι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall say | <big><span class="asgreek">ερώ</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέσταλκέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they shall ask | <big><span class="asgreek">ερωτήσωσί</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[given\] to him? | <big><span class="asgreek">αυτω</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I say | <big><span class="asgreek">έρω</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them? | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will go | **<big>[[G2064\|ελεύσομαι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall say | **<big>[[G2046\|ερώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| sent | **<big>[[G0649\|απέσταλκέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εαν]]</big>** |
+| they shall ask | **<big>[[G2065\|ερωτήσωσί]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \[given\] to him? | **<big>[[G1473\|αυτω]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall I say | **<big>[[G2046\|έρω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them? | **<big>[[G1473\|αυτούς]]</big>** |
 [[Exod.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.12|<< Exodus 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.14|Exodus 3:14 >>]]</td></tr></table>
 
 

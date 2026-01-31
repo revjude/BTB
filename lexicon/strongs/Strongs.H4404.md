@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלְבֵּן‎</span></big> **malbên** <small>*(mal-bane')*</small> ==**brick**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎לָבַן‎</span><sup><small>[[H3835]]</small></sup> (denominative)</small>
+**<big><span class="ashebrew">‎מַלְבֵּן‎</span></big>** **malbên** <small>*(mal-bane')*</small> ==**brick**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3835|‎לָבַן‎]]</big>** (denominative)</small>
 
 $\quad$ brickkiln.
 - ***a brickkiln***

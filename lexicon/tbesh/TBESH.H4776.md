@@ -1,3 +1,1 @@
-<span class="asaramaic">‎מְרַד‎</span> <small>***(me.rad)***</small> ==**rebellion**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H4777]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H4777|מֶרֶד]]</big>**</small>

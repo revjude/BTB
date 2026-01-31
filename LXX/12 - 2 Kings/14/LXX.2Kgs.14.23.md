@@ -7,28 +7,28 @@ In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son
 In the fifteenth year of the reign of Amaziah son of Joash over Judah, Jeroboam son of Jehoash became king of Israel, and he reigned in Samaria forty-one years.<small><sub>**MT:**</sub></small>
 [[2Kgs.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.22|<< 2 Kings 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.24|2 Kings 14:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] fifteenth | <big><span class="asgreek">πεντεκαιδεκάτω</span></big> <sup><small><small>[[G4003]]</small></small></sup> |
-| of Amaziah | <big><span class="asgreek">Αμεσίας</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Samaria -- | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| year. | <big><span class="asgreek">έτος</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \[the\] fifteenth | **<big>[[G4003\|πεντεκαιδεκάτω]]</big>** |
+| of Amaziah | **<big>[[H0558\|Αμεσίας]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Samaria -- | **<big>[[G4540\|Σαμαρεία]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| year. | **<big>[[G2094\|έτος]]</big>** |
 [[2Kgs.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.22|<< 2 Kings 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.24|2 Kings 14:24 >>]]</td></tr></table>
 
 

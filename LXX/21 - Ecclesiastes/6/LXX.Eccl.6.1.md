@@ -10,20 +10,20 @@ There is an evil which I have seen under the sun, and it [is] common among men:
 There is another evil I have seen under the sun, and it weighs heavily upon mankind:<small><sub>**MT:**</sub></small>
 [[Eccl.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.20|<< Ecclesiastes 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.2|Ecclesiastes 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a wickedness | <big><span class="asgreek">πονηρία</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun, | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it is abundant | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνθρωποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| There is | **<big>[[G1510\|έστι]]</big>** |
+| a wickedness | **<big>[[G4189\|πονηρία]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I beheld | **<big>[[G1492\|είδον]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun, | **<big>[[G2246\|ήλιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it is abundant | **<big>[[G4183\|πολλή]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| with | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| men. | **<big>[[G0444\|άνθρωποις]]</big>** |
 [[Eccl.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.20|<< Ecclesiastes 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.2|Ecclesiastes 6:2 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou
 You shall settle in the land of Goshen and be near me—you and your children and grandchildren, your flocks and herds, and everything you own.<small><sub>**MT:**</sub></small>
 [[Gen.45.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.9|<< Genesis 45:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.11|Genesis 45:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dwell | <big><span class="asgreek">κατοικήσεις</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Goshen, | <big><span class="asgreek">Γεσέμ</span></big> <sup><small><small>[[H1657]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons, | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sheep | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oxen, | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| is yours. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall dwell | **<big>[[G2730\|κατοικήσεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Goshen, | **<big>[[H1657\|Γεσέμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| near | **<big>[[G1451\|εγγύς]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your sons, | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sheep | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your oxen, | **<big>[[G1016\|βόες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| is yours. | **<big>[[G1473\|σοι]]</big>** **<big>[[G1510\|εστί]]</big>** |
 [[Gen.45.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.9|<< Genesis 45:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.11|Genesis 45:11 >>]]</td></tr></table>
 
 

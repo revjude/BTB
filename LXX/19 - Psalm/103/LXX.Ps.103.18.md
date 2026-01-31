@@ -7,19 +7,19 @@ To such as keep his covenant, and to those that remember his commandments to do 
 to those who keep His covenant and remember to obey His precepts.<small><sub>**MT:**</sub></small>
 [[Ps.103.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.17|<< Psalm 103:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.19|Psalm 103:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσουσι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to the\] ones remembering | <big><span class="asgreek">μεμνημένοις</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his commandments | <big><span class="asgreek">εντολών</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to observe | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to the\] ones remembering | **<big>[[G3403\|μεμνημένοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his commandments | **<big>[[G1785\|εντολών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to observe | **<big>[[G4160\|ποιήσαι]]</big>** |
+| them. | **<big>[[G1473\|αυτάς]]</big>** |
 [[Ps.103.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.17|<< Psalm 103:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.19|Psalm 103:19 >>]]</td></tr></table>
 
 

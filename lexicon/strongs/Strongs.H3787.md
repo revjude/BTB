@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּשֵׁר‎</span></big> **kâshêr** <small>*(kaw-share')*</small> ==**to succeed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּשֵׁר‎</span></big>** **kâshêr** <small>*(kaw-share')*</small> ==**to succeed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root properly, to be straight or right</small>
 
 $\quad$ direct, be right, prosper.
@@ -9,4 +9,4 @@ $\quad$ direct, be right, prosper.
 $\quad$ **1a)** (Qal) to please, be proper
 $\quad$ **1b)** (Hiphil) to give success
 
-<sub><small>See Greek: </small></sub><span class="asgreek">στοιχέω</span><sup><small>[[G4748]]</small></sup>
+<small>See Greek: </small>**<big>[[G4748|στοιχέω]]</big>**

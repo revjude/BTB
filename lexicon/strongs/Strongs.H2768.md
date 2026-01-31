@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶרְמוֹן‎</span></big> **Chermôwn** <small>*(kher-mone')*</small> ==**(Mount) Hermon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַם‎</span><sup><small>[[H2763]]</small></sup>; abrupt</small>
+**<big><span class="ashebrew">‎חֶרְמוֹן‎</span></big>** **Chermôwn** <small>*(kher-mone')*</small> ==**(Mount) Hermon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2763|‎חָרַם‎]]</big>**; abrupt</small>
 
 $\quad$ Hermon.
 - § Hermon = *"a sanctuary"*

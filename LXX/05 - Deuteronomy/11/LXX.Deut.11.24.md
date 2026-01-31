@@ -7,42 +7,42 @@ Every place whereon the soles of your feet shall tread shall be yours: from the 
 Every place where the sole of your foot treads will be yours. Your territory will extend from the wilderness to Lebanon, and from the Euphrates River to the Western Sea.<small><sub>**MT:**</sub></small>
 [[Deut.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.23|<< Deuteronomy 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.25|Deuteronomy 11:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| may tread | <big><span class="asgreek">πατήση</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| track | <big><span class="asgreek">ίχνος</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your foot | <big><span class="asgreek">ποδός</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be yours. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Antilebanon, | <big><span class="asgreek">Αντιλιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Euphrates, | <big><span class="asgreek">Ευφράτου</span></big> <sup><small><small>[[G2166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] descent \[of the sun\] | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your boundaries. | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| may tread | **<big>[[G3961\|πατήση]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| track | **<big>[[G2487\|ίχνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your foot | **<big>[[G4228\|ποδός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| will be yours. | **<big>[[G1473\|υμίν]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Antilebanon, | **<big>[[H3844\|Αντιλιβάνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river | **<big>[[G4215\|ποταμού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
+| river | **<big>[[G4215\|ποταμού]]</big>** |
+| Euphrates, | **<big>[[G2166\|Ευφράτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] descent \[of the sun\] | **<big>[[G1424\|δυσμών]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your boundaries. | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Deut.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.23|<< Deuteronomy 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.25|Deuteronomy 11:25 >>]]</td></tr></table>
 
 

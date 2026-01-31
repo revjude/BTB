@@ -7,47 +7,47 @@ And I will persecute them with the sword, with the famine, and with the pestilen
 I will pursue them with sword and famine and plague. I will make them a horror to all the kingdoms of the earth—a curse, a desolation, and an object of scorn and reproach among all the nations to which I banish them.<small><sub>**MT:**</sub></small>
 [[Jer.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall pursue | <big><span class="asgreek">διώξω</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a sword, | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| famine, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pestilence. | <big><span class="asgreek">λοιμώ</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| movement | <big><span class="asgreek">κίνησιν</span></big> <sup><small><small>[[G2796]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdoms | <big><span class="asgreek">βασιλείαις</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a curse, | <big><span class="asgreek">κατάραν</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| perplexity, | <big><span class="asgreek">απορίαν</span></big> <sup><small><small>[[G0640]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a hissing, | <big><span class="asgreek">συρισμόν</span></big> <sup><small><small>[[G9350]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| scorning | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cast them. | <big><span class="asgreek">εκβάλλω</span></big> <sup><small><small>[[G1544]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall pursue | **<big>[[G1377\|διώξω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a sword, | **<big>[[G3162\|μαχαίρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| famine, | **<big>[[G3042\|λιμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pestilence. | **<big>[[G3061\|λοιμώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall give | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| movement | **<big>[[G2796\|κίνησιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| kingdoms | **<big>[[G0932\|βασιλείαις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a curse, | **<big>[[G2671\|κατάραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| perplexity, | **<big>[[G0640\|απορίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a hissing, | **<big>[[G9350\|συρισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| scorning | **<big>[[G3680\|ονειδισμόν]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| cast them. | **<big>[[G1544\|εκβάλλω]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Jer.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
 

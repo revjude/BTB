@@ -7,31 +7,31 @@ And Moses and Aaron went into the tabernacle of the congregation, and came out, 
 Moses and Aaron then entered the Tent of Meeting. When they came out, they blessed the people, and the glory of the LORD appeared to all the people.<small><sub>**MT:**</sub></small>
 [[Lev.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.22|<< Leviticus 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.24|Leviticus 9:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony. | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθόντες</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| they blessed | <big><span class="asgreek">ευλόγησαν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appeared | <big><span class="asgreek">ώφθη</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony. | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθόντες]]</big>** |
+| they blessed | **<big>[[G2127\|ευλόγησαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| appeared | **<big>[[G3708\|ώφθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| people. | **<big>[[G2992\|λαώ]]</big>** |
 [[Lev.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.22|<< Leviticus 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.24|Leviticus 9:24 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LO
 Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised.<small><sub>**MT:**</sub></small>
 [[Prov.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.29|<< Proverbs 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.31|Proverbs 31:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is false | <big><span class="asgreek">ψευδείς</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| Allurement | <big><span class="asgreek">αρέσκειαι</span></big> <sup><small><small>[[G0699]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vain | <big><span class="asgreek">μάταιον</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| beauty | <big><span class="asgreek">κάλλος</span></big> <sup><small><small>[[G7782]]</small></small></sup> |
-| it is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a discerning | <big><span class="asgreek">συνετή</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| is blessed; | <big><span class="asgreek">ευλογείται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[the\] fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| let her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| praise | <big><span class="asgreek">αινείτω</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| is false | **<big>[[G5571\|ψευδείς]]</big>** |
+| Allurement | **<big>[[G0699\|αρέσκειαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| vain | **<big>[[G3152\|μάταιον]]</big>** |
+| beauty | **<big>[[G7782\|κάλλος]]</big>** |
+| it is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| a discerning | **<big>[[G4908\|συνετή]]</big>** |
+| is blessed; | **<big>[[G2127\|ευλογείται]]</big>** |
+| \[the\] fear | **<big>[[G5401\|φόβον]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| let her | **<big>[[G1473\|αυτή]]</big>** |
+| praise | **<big>[[G0134\|αινείτω]]</big>** |
 [[Prov.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.29|<< Proverbs 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.31|Proverbs 31:31 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.
 This is to be done for each bull, ram, lamb, or goat.<small><sub>**MT:**</sub></small>
 [[Num.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.10|<< Numbers 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.12|Numbers 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb | <big><span class="asgreek">αμνώ</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[a kid\] of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| goats. | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσεις]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| ram | **<big>[[G8096\|κριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| lamb | **<big>[[G0286\|αμνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \[a kid\] of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| goats. | **<big>[[G6167\|αιγών]]</big>** |
 [[Num.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.10|<< Numbers 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.12|Numbers 15:12 >>]]</td></tr></table>
 
 

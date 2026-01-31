@@ -7,24 +7,24 @@ But I wrought for my name’s sake, that it should not be polluted before the he
 But I acted for the sake of My name, so that it would not be profaned in the eyes of the nations in whose sight I had brought them out.<small><sub>**MT:**</sub></small>
 [[Ezek.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.13|<< Ezekiel 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.15|Ezekiel 20:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I acted | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| should not be thoroughly | <big><span class="asgreek">παράπαν</span></big> <sup><small><small>[[G8630]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| profaned | <big><span class="asgreek">βεβηλωθή</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I led | <big><span class="asgreek">εξήγαγον</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| them out | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their eyes. | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I acted | **<big>[[G4160\|εποίησα]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| should not be thoroughly | **<big>[[G8630\|παράπαν]]</big>** **<big>[[G3361\|μη]]</big>** |
+| profaned | **<big>[[G0953\|βεβηλωθή]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| I led | **<big>[[G1806\|εξήγαγον]]</big>** |
+| them out | **<big>[[G1473\|αυτούς]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| their eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.13|<< Ezekiel 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.15|Ezekiel 20:15 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ Then will I leave thee upon the land, I will cast thee forth upon the open field
 I will abandon you on the land and hurl you into the open field. I will cause all the birds of the air to settle upon you, and all the beasts of the earth to eat their fill of you.<small><sub>**MT:**</sub></small>
 [[Ezek.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.3|<< Ezekiel 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.5|Ezekiel 32:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will stretch | <big><span class="asgreek">εκτενώ</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] plains | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| shall be filled. | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall set | <big><span class="asgreek">επικαθιώ</span></big> <sup><small><small>[[G1940]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| birds | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will fill up | <big><span class="asgreek">εμπλήσω</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will stretch | **<big>[[G1614\|εκτενώ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth; | **<big>[[G1093\|γην]]</big>** |
+| \[the\] plains | **<big>[[G8676\|πεδία]]</big>** |
+| shall be filled. | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall set | **<big>[[G1940\|επικαθιώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| birds | **<big>[[G4071\|πετεινά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will fill up | **<big>[[G1705\|εμπλήσω]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Ezek.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.3|<< Ezekiel 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.5|Ezekiel 32:5 >>]]</td></tr></table>
 
 

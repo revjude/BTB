@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מְשִׁלֵּמוֹת‎</span></big> **Mᵉshillêmôwth** <small>*(mesh-il-lay-mohth')*</small> ==**Meshillemoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural from <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup>; reconciliations</small>
+**<big><span class="ashebrew">‎מְשִׁלֵּמוֹת‎</span></big>** **Mᵉshillêmôwth** <small>*(mesh-il-lay-mohth')*</small> ==**Meshillemoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural from **<big>[[H7999|‎שָׁלַם‎]]</big>**; reconciliations</small>
 
-$\quad$ Meshillemoth. Compare <span class="ashebrew">‎מְשִׁלֵּמִית‎</span><sup><small>[[H4921]]</small></sup>.
+$\quad$ Meshillemoth. Compare **<big>[[H4921|‎מְשִׁלֵּמִית‎]]</big>**.
 - § Meshillemoth = *"recompense"*
 - ***Meshillemoth***, an Israelite
 

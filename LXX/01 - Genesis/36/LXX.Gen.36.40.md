@@ -7,32 +7,32 @@ And these [are] the names of the dukes [that came] of Esau, according to their f
 These are the names of Esau’s chiefs, according to their families and regions, by their names: Chiefs Timna, Alvah, Jetheth,<small><sub>**MT:**</sub></small>
 [[Gen.36.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.39|<< Genesis 36:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.41|Genesis 36:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| princes | <big><span class="asgreek">ηγεμόνων</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| of Esau, | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tribes | <big><span class="asgreek">φυλαίς</span></big> <sup><small><small>[[G5443]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their place, | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their regions, | <big><span class="asgreek">χώραις</span></big> <sup><small><small>[[G5561]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their nations -- | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| Timnah, | <big><span class="asgreek">Θαμνά</span></big> <sup><small><small>[[H8556b]]</small></small></sup> |
-| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| Alvah, | <big><span class="asgreek">Γώλα</span></big> <sup><small><small>[[H5933]]</small></small></sup> |
-| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| Jetheth, | <big><span class="asgreek">Ιεθέρ</span></big> <sup><small><small>[[H3509]]</small></small></sup> |
+| These are | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| princes | **<big>[[G2232\|ηγεμόνων]]</big>** |
+| of Esau, | **<big>[[G2269\|Ησαύ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their tribes | **<big>[[G5443\|φυλαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their place, | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their regions, | **<big>[[G5561\|χώραις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their nations -- | **<big>[[G1484\|έθνεσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| prince | **<big>[[G2232\|ηγεμών]]</big>** |
+| Timnah, | **<big>[[H8556b\|Θαμνά]]</big>** |
+| prince | **<big>[[G2232\|ηγεμών]]</big>** |
+| Alvah, | **<big>[[H5933\|Γώλα]]</big>** |
+| prince | **<big>[[G2232\|ηγεμών]]</big>** |
+| Jetheth, | **<big>[[H3509\|Ιεθέρ]]</big>** |
 [[Gen.36.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.39|<< Genesis 36:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.41|Genesis 36:41 >>]]</td></tr></table>
 
 

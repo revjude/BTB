@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פִּצֵּץ‎</span></big> **Pitstsêts** <small>*(pits-tsates')*</small> ==**Happizzez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פִּצֵּץ‎</span></big>** **Pitstsêts** <small>*(pits-tsates')*</small> ==**Happizzez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to dissever; dispersive</small>
 
 $\quad$ Apses (including the article).

@@ -1,8 +1,8 @@
 <small>*Goah • A place near Jerusalem, mentioned in a prophetic context.*</small>
 
 <span class='tipnrhighlight'>Goah</span> was a place near Jerusalem, mentioned in the context of a prophetic description of the city's future restoration \([[Jer.31.39|Jeremiah 31:39]]\).
-- A location in Jerusalem<[[H3389]]> only mentioned at [[Jer.31.39|Jer.31.39]]; 
-- only referred to as Goah<[[H1601]]> \(<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Jer.31.39|Jer.31.39]]; 
+- only referred to as Goah **<big>[[H1601|גֹּעָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Goah is a place mentioned only once in the Bible, in the book of Jeremiah. The r
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Goah | [<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1601) <small>*Hebrew*</small> | 1x | [Jer.31.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goah\*\|reference=Jer.31.39) |
-All Strong's for **Goah**: \[[[H1601]]\]
+| Goah | [<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1601) | 1x | [Jer.31.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goah\*\|reference=Jer.31.39) |
+All entries for **Goah**:  **<big>[[H1601|גֹּעָה]]</big>**

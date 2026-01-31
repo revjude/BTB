@@ -6,17 +6,17 @@ For who is God besides the LORD? And who is the Rock except our God?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.30|<< Psalms 18:30]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.32|Psalms 18:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] God  | <span class="ashebrew"><big>אֱ֭לוֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'E.lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> except  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בַּלְעֲדֵ֣י </big></span><small><small><sup>[[H1107]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> bal.'a.Dei <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and who?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִ֥י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a rock  | <span class="ashebrew"><big>צ֝֗וּר </big></span><small><small><sup>[[H6697H]]</sup></small></small> &#8207;| Tzur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| except  | <span class="ashebrew"><big>זוּלָתִ֥י </big></span><small><small><sup>[[H2108]]</sup></small></small> &#8207;| zu.la.Ti <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  | <span class="ashebrew"><big>אֱלֹהֵֽי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] God  |**<big>&#8207;[[H0433\|אֱ֭לוֹהַּ]]&#8207; </big>**| 'E.lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> except  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1107\|בַּלְעֲדֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> bal.'a.Dei<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a rock  |**<big>&#8207;[[H6697H\|צ֝֗וּר]]&#8207; </big>**| Tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  |**<big>&#8207;[[H2108\|זוּלָתִ֥י]]&#8207; </big>**| zu.la.Ti<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.30|<< Psalms 18:30]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.32|Psalms 18:32 >>]]</td></tr></table>
 
 

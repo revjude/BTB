@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּרַח‎</span></big> **bârach** <small>*(baw-rakh')*</small> ==**to flee**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּרַח‎</span></big>** **bârach** <small>*(baw-rakh')*</small> ==**to flee**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ chase (away); drive away, fain, flee (away), put to flight, make haste, reach, run away, shoot.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to pass through
 $\quad$ $\quad$ **1b2)** to cause to flee, put to flight
 $\quad$ $\quad$ **1b3)** to drive away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναχωρέω</span><sup><small>[[G0402]]</small></sup> · <span class="asgreek">ἀπωθέομαι</span><sup><small>[[G0683]]</small></sup> · <span class="asgreek">διϊκνέομαι</span><sup><small>[[G1338]]</small></sup> · <span class="asgreek">διώκω</span><sup><small>[[G1377]]</small></sup> · <span class="asgreek">ἐκδιώκω</span><sup><small>[[G1559]]</small></sup> · <span class="asgreek">ἐκχωρέω</span><sup><small>[[G1633]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup> · <span class="asgreek">φεύγω</span><sup><small>[[G5343]]</small></sup> · <span class="asgreek">φυγή</span><sup><small>[[G5437]]</small></sup>
+<small>See Greek: </small>**<big>[[G0402|ἀναχωρέω]]</big>** · **<big>[[G0683|ἀπωθέομαι]]</big>** · **<big>[[G1338|διϊκνέομαι]]</big>** · **<big>[[G1377|διώκω]]</big>** · **<big>[[G1559|ἐκδιώκω]]</big>** · **<big>[[G1633|ἐκχωρέω]]</big>** · **<big>[[G4982|σώζω]]</big>** · **<big>[[G5343|φεύγω]]</big>** · **<big>[[G5437|φυγή]]</big>**

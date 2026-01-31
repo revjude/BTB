@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּתְאוֹם‎</span></big> **pithʼôwm** <small>*(pith-ome')*</small> ==**suddenly**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>or <span class="ashebrew">פִּתְאֹם</span> **pithʼôm** <small>*(pith-ome')*</small>; from <span class="ashebrew">‎פֶּתַע‎</span><sup><small>[[H6621]]</small></sup></small>
+**<big><span class="ashebrew">‎פִּתְאוֹם‎</span></big>** **pithʼôwm** <small>*(pith-ome')*</small> ==**suddenly**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>or **<big><span class="ashebrew">פִּתְאֹם</span></big>** **pithʼôm** <small>*(pith-ome')*</small>; from **<big>[[H6621|‎פֶּתַע‎]]</big>**</small>
 
 $\quad$ straightway, sudden(-ly).
 - ***instantly***
@@ -9,4 +9,4 @@ adv
 subst
 **2)** suddenness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄφνω</span><sup><small>[[G0869]]</small></sup> · <span class="asgreek">ἐξαίφνης</span><sup><small>[[G1810]]</small></sup> · <span class="asgreek">ἐξάπινα</span><sup><small>[[G1819]]</small></sup> · <span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">παραχρῆμα</span><sup><small>[[G3916]]</small></sup>
+<small>See Greek: </small>**<big>[[G0869|ἄφνω]]</big>** · **<big>[[G1810|ἐξαίφνης]]</big>** · **<big>[[G1819|ἐξάπινα]]</big>** · **<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G3916|παραχρῆμα]]</big>**

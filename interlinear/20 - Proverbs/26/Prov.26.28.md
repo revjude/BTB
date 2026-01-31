@@ -6,16 +6,16 @@ A lying tongue hates those it crushes, and a flattering mouth causes ruin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.27|<< Proverbs 26:27]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.1|Proverbs 27:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a tongue of  | <span class="ashebrew"><big>לְֽשׁוֹן </big></span><small><small><sup>[[H3956G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le.sho.no.She- <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֭קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it hates  | <span class="ashebrew"><big>יִשְׂנָ֣א </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| yis.Na' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crushed [people] its  | <span class="ashebrew"><big>דַכָּ֑י </big></span><small><small><sup>[[H1790]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| da.Ka <small><sup>[[HAampc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a mouth  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פֶ֥ה </big></span><small><small><sup>[[H6310G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Peh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flattering  | <span class="ashebrew"><big>חָ֝לָ֗ק </big></span><small><small><sup>[[H2509]]</sup></small></small> &#8207;| cha.Lak <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it makes  | <span class="ashebrew"><big>יַעֲשֶׂ֥ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stumbling  | <span class="ashebrew"><big>מִדְחֶֽה </big></span><small><small><sup>[[H4072]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mid.Cheh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tongue of  |**<big>&#8207;[[H3956G\|לְֽשׁוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.sho.no.She-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֭קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it hates  |**<big>&#8207;[[H8130\|יִשְׂנָ֣א]]&#8207; </big>**| yis.Na'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crushed [people] its  |**<big>&#8207;[[H1790\|דַכָּ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| da.Ka<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a mouth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6310G\|פֶ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flattering  |**<big>&#8207;[[H2509\|חָ֝לָ֗ק]]&#8207; </big>**| cha.Lak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it makes  |**<big>&#8207;[[H6213H\|יַעֲשֶׂ֥ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stumbling  |**<big>&#8207;[[H4072\|מִדְחֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mid.Cheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.27|<< Proverbs 26:27]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.1|Proverbs 27:1 >>]]</td></tr></table>
 
 

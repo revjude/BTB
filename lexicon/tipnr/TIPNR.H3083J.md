@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Jonathan</span>, the son of Shammah the Hararite, was one of David's mighty men, known for his military prowess \([[2Sam.23.32|2Sa.23.32]]; [[1Chr.11.34|1Ch.11.34]]\).
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.23.32|2Sa.23.32]]; 
-- referred to as Jonathan<[[H3083J]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Jonathan<[[H3129P]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Shammah<[[H8048I]]>.
+- referred to as Jonathan **<big>[[H3083|יְהוֹנָתָן]]</big>**, or Jonathan **<big>[[H3129|יוֹנָתָן]]</big>**; 
+- a son of Shammah **<big>[[H8048|שַׁמָּה]]</big>**.
 
 Jonathan, the son of Shammah the Hararite, is mentioned in the lists of David's mighty men in both 2 Samuel and 1 Chronicles. These lists commemorate the valiant warriors who fought alongside David and played significant roles in establishing and defending his kingdom. 
 
@@ -17,8 +17,8 @@ While little is known about Jonathan's personal life or the specific battles he 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083J) <small>*Hebrew*</small> | 1x | [2Sa.23.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=2Sa.23.32) |
-| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129P) <small>*Hebrew*</small> | 1x | [1Ch.11.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=1Ch.11.34) |
-All Strong's for **Jonathan**: \[[[H3083J]]\] \[[[H3129P]]\]
+| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083J) | 1x | [2Sa.23.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=2Sa.23.32) |
+| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129P) | 1x | [1Ch.11.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=1Ch.11.34) |
+All entries for **Jonathan**:  **<big>[[H3083|יְהוֹנָתָן]]</big>** ☩  **<big>[[H3129|יוֹנָתָן]]</big>**
 #### Related Profiles:
 - **[Shammah](H8048I)** (father)

@@ -7,17 +7,17 @@
 It is good to wait quietly for the salvation of the LORD.<small><sub>**MT:**</sub></small>
 [[Lam.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.25|<< Lamentations 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.27|Lamentations 3:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is\] good, | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall wait | <big><span class="asgreek">υπομενεί</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be still | <big><span class="asgreek">ησυχάσει</span></big> <sup><small><small>[[G2270]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| deliverance | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[It is\] good, | **<big>[[G0018\|αγαθόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall wait | **<big>[[G5278\|υπομενεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be still | **<big>[[G2270\|ησυχάσει]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| deliverance | **<big>[[G4992\|σωτήριον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Lam.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.25|<< Lamentations 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.27|Lamentations 3:27 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ The tribe of Manasseh will be next to it. The leader of the Manassites is Gamali
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.19|<< Numbers 2:19]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.21|Numbers 2:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [will be] on him  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָלָ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tribe of  | <span class="ashebrew"><big>מַטֵּ֣ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֑ה </big></span><small><small><sup>[[H4519G]]</sup></small></small> &#8207;| me.na.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] leader  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָשִׂיא֙ </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Si' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] descendants of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֔ה </big></span><small><small><sup>[[H4519G]]</sup></small></small> &#8207;| me.na.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Gamaliel  | <span class="ashebrew"><big>גַּמְלִיאֵ֖ל </big></span><small><small><sup>[[H1583]]</sup></small></small> &#8207;| gam.li.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pedahzur  | <span class="ashebrew"><big>פְּדָהצֽוּר </big></span><small><small><sup>[[H6301]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pe.da.h.Tzur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] on him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עָלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֣ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֑ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] leader  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5387A\|נָשִׂיא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֔ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Gamaliel  |**<big>&#8207;[[H1583\|גַּמְלִיאֵ֖ל]]&#8207; </big>**| gam.li.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pedahzur  |**<big>&#8207;[[H6301\|פְּדָהצֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pe.da.h.Tzur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.19|<< Numbers 2:19]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.21|Numbers 2:21 >>]]</td></tr></table>
 
 

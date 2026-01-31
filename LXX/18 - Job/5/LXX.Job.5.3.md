@@ -7,18 +7,18 @@ I have seen the foolish taking root: but suddenly I cursed his habitation.
 I have seen a fool taking root, but suddenly his house was cursed.<small><sub>**MT:**</sub></small>
 [[Job.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.2|<< Job 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.4|Job 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| have seen | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| fools | <big><span class="asgreek">άφρονας</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| root | <big><span class="asgreek">ρίζας</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| laying | <big><span class="asgreek">βάλλοντας</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I cursed | <big><span class="asgreek">κατηρασάμην</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their attractiveness | <big><span class="asgreek">ευπρέπειαν</span></big> <sup><small><small>[[G2143]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| immediately. | <big><span class="asgreek">παραχρήμα</span></big> <sup><small><small>[[G3916]]</small></small></sup> |
+| And I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| have seen | **<big>[[G3708\|εώρακα]]</big>** |
+| fools | **<big>[[G0878\|άφρονας]]</big>** |
+| root | **<big>[[G4491\|ρίζας]]</big>** |
+| laying | **<big>[[G0906\|βάλλοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I cursed | **<big>[[G2672\|κατηρασάμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their attractiveness | **<big>[[G2143\|ευπρέπειαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| immediately. | **<big>[[G3916\|παραχρήμα]]</big>** |
 [[Job.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.2|<< Job 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.4|Job 5:4 >>]]</td></tr></table>
 
 

@@ -6,20 +6,20 @@ How the gold has become tarnished, the pure gold has become dull! The gems of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how!  | <span class="ashebrew"><big>אֵיכָה֙ </big></span><small><small><sup>[[H0349B]]</sup></small></small> &#8207;| 'ei.Khah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is dimmed  | <span class="ashebrew"><big>יוּעַ֣ם </big></span><small><small><sup>[[H6004]]</sup></small></small> &#8207;| yu.'Am <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֔ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is changed  | <span class="ashebrew"><big>יִשְׁנֶ֖א </big></span><small><small><sup>[[H8132]]</sup></small></small> &#8207;| yish.Ne' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gold  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֶּ֣תֶם </big></span><small><small><sup>[[H3800]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ke.tem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> fine  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טּ֑וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they lie scattered  | <span class="ashebrew"><big>תִּשְׁתַּפֵּ֙כְנָה֙ </big></span><small><small><sup>[[H8210J]]</sup></small></small> &#8207;| tish.ta.Pe.khe.nah <small><sup>[[HVti3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stones of  | <span class="ashebrew"><big>אַבְנֵי </big></span><small><small><sup>[[H0068G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'av.nei- <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness  | <span class="ashebrew"><big>קֹ֔דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at [the] head of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רֹ֖אשׁ </big></span><small><small><sup>[[H7218I]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] streets  | <span class="ashebrew"><big>חוּצֽוֹת </big></span><small><small><sup>[[H2351]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| chu.Tzot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H0349B\|אֵיכָה֙]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is dimmed  |**<big>&#8207;[[H6004\|יוּעַ֣ם]]&#8207; </big>**| yu.'Am<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֔ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is changed  |**<big>&#8207;[[H8132\|יִשְׁנֶ֖א]]&#8207; </big>**| yish.Ne'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gold  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3800\|כֶּ֣תֶם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.tem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> fine  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896A\|טּ֑וֹב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lie scattered  |**<big>&#8207;[[H8210J\|תִּשְׁתַּפֵּ֙כְנָה֙]]&#8207; </big>**| tish.ta.Pe.khe.nah<small><sup>[[HVti3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones of  |**<big>&#8207;[[H0068G\|אַבְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'av.nei-<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness  |**<big>&#8207;[[H6944G\|קֹ֔דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] head of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7218I\|רֹ֖אשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] streets  |**<big>&#8207;[[H2351\|חוּצֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צוּף‎</span></big> **tsûwph** <small>*(tsoof)*</small> ==**to flow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צוּף‎</span></big>** **tsûwph** <small>*(tsoof)*</small> ==**to flow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make to over-) flow, swim.
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to cause to flow over
 $\quad$ $\quad$ **1b2)** to cause to float
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θλίβω</span><sup><small>[[G2346]]</small></sup> · <span class="asgreek">κατεργάζομαι</span><sup><small>[[G2716]]</small></sup> · <span class="asgreek">παρενοχλέω</span><sup><small>[[G3926]]</small></sup>
+<small>See Greek: </small>**<big>[[G2346|θλίβω]]</big>** · **<big>[[G2716|κατεργάζομαι]]</big>** · **<big>[[G3926|παρενοχλέω]]</big>**

@@ -7,34 +7,34 @@ And he made a porch of pillars; the length thereof [was] fifty cubits, and the b
 Solomon made his colonnade fifty cubits long and thirty cubits wide, with a portico in front of it and a canopy with pillars in front of the portico.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.5|<< 1 Kings 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.7|1 Kings 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \[was\] fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[in\] length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| width, | <big><span class="asgreek">πλάτει</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| being joined together | <big><span class="asgreek">εζυγωμένα</span></big> <sup><small><small>[[G7605]]</small></small></sup> |
-| by a columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλοι</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thick \[beams\] | <big><span class="asgreek">πάχος</span></big> <sup><small><small>[[G8673]]</small></small></sup> |
-| were at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns | **<big>[[G4769\|στύλων]]</big>** |
+| \[was\] fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[in\] length, | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| width, | **<big>[[G4114\|πλάτει]]</big>** |
+| being joined together | **<big>[[G7605\|εζυγωμένα]]</big>** |
+| by a columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| columns | **<big>[[G4769\|στύλοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thick \[beams\] | **<big>[[G8673\|πάχος]]</big>** |
+| were at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[1Kgs.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.5|<< 1 Kings 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.7|1 Kings 7:7 >>]]</td></tr></table>
 
 

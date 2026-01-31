@@ -9,18 +9,18 @@ Let us search and try our ways, and turn again to the LORD.
 Let us examine and test our ways, and turn back to the LORD.<small><sub>**MT:**</sub></small>
 [[Lam.3.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.39|<< Lamentations 3:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.41|Lamentations 3:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΝΟΥΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΝΟΥΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| was searched out | <big><span class="asgreek">εξηρευνήθη</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Our way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| examined, | <big><span class="asgreek">ητάσθη</span></big> <sup><small><small>[[G7521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should turn | <big><span class="asgreek">επιστρέψωμεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| ΝΟΥΝ <sup><small>[acrostic title]</small></sup> |  |
+| was searched out | **<big>[[G1830\|εξηρευνήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Our way | **<big>[[G3598\|οδός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| examined, | **<big>[[G7521\|ητάσθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should turn | **<big>[[G1994\|επιστρέψωμεν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Lam.3.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.39|<< Lamentations 3:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.41|Lamentations 3:41 >>]]</td></tr></table>
 
 

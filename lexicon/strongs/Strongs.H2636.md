@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חַסְפַּס‎</span></big> **chaçpaç** <small>*(khas-pas')*</small> ==**to peel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חַסְפַּס‎</span></big>** **chaçpaç** <small>*(khas-pas')*</small> ==**to peel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>reduplicated from an unused root meaning apparently to peel</small>
 
 $\quad$ round thing.

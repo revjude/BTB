@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹטָה‎</span></big> **môwṭâh** <small>*(mo-taw')*</small> ==**yoke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מוֹט‎</span><sup><small>[[H4132]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹטָה‎</span></big>** **môwṭâh** <small>*(mo-taw')*</small> ==**yoke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4132|‎מוֹט‎]]</big>**</small>
 
 $\quad$ bands, heavy, staves, yoke.
 - ***a pole***
@@ -11,4 +11,4 @@ $\quad$ **1a)** pole
 $\quad$ **1b)** bar of yoke
 $\quad$ $\quad$ **1b1)** of oppression (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δεσμόν</span><sup><small>[[G1199]]</small></sup> · <span class="asgreek">σύνδεσμος</span><sup><small>[[G4886]]</small></sup>
+<small>See Greek: </small>**<big>[[G1199|δεσμόν]]</big>** · **<big>[[G4886|σύνδεσμος]]</big>**

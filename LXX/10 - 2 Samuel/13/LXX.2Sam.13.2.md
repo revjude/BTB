@@ -7,28 +7,28 @@ And Amnon was so vexed, that he fell sick for his sister Tamar; for she [was] a 
 Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her.<small><sub>**MT:**</sub></small>
 [[2Sam.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.1|<< 2 Samuel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.3|2 Samuel 13:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amnon was afflicted | <big><span class="asgreek">εθλίβετο</span></big> <sup><small><small>[[G2346]]</small></small></sup> <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to be ill | <big><span class="asgreek">αρρωστείν</span></big> <sup><small><small>[[G6542]]</small></small></sup> |
-| over | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Tamar | <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sister, | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a virgin | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| she was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was an enormous \[thing\] | <big><span class="asgreek">υπέρογκον</span></big> <sup><small><small>[[G5246]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαί</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| to her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Amnon was afflicted | **<big>[[G2346\|εθλίβετο]]</big>** **<big>[[H0550\|Αμνών]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to be ill | **<big>[[G6542\|αρρωστείν]]</big>** |
+| over | **<big>[[G1223\|διά]]</big>** |
+| Tamar | **<big>[[G2283\|Θαμάρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sister, | **<big>[[G0079\|αδελφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a virgin | **<big>[[G3933\|παρθένος]]</big>** |
+| she was | **<big>[[G1510\|ην]]</big>** **<big>[[G1473\|αύτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it was an enormous \[thing\] | **<big>[[G5246\|υπέρογκον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| of Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαί]]</big>** |
+| anything | **<big>[[G5100\|τι]]</big>** |
+| to her. | **<big>[[G1473\|αυτή]]</big>** |
 [[2Sam.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.1|<< 2 Samuel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.3|2 Samuel 13:3 >>]]</td></tr></table>
 
 

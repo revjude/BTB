@@ -11,33 +11,33 @@ With a sound like that of chariots they bound over the mountaintops, like the cr
 > $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of chariots | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tops | <big><span class="asgreek">κορυφάς</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| they shall leap, | <big><span class="asgreek">εξαλούνται</span></big> <sup><small><small>[[G1814]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of a flame | <big><span class="asgreek">φλογός</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| devouring | <big><span class="asgreek">κατεσθιούσης</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| stubble, | <big><span class="asgreek">καλάμην</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a vast | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| being deployed | <big><span class="asgreek">παρατασσόμενος</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| battle. | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of chariots | **<big>[[G0716\|αρμάτων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tops | **<big>[[G8073\|κορυφάς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mountains | **<big>[[G3735\|ορέων]]</big>** |
+| they shall leap, | **<big>[[G1814\|εξαλούνται]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of a flame | **<big>[[G5395\|φλογός]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| devouring | **<big>[[G2719\|κατεσθιούσης]]</big>** |
+| stubble, | **<big>[[G2562\|καλάμην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a vast | **<big>[[G4183\|πολύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| being deployed | **<big>[[G8641\|παρατασσόμενος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| battle. | **<big>[[G4171\|πόλεμον]]</big>** |
 [[Joel.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.4|<< Joel 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.6|Joel 2:6 >>]]</td></tr></table>
 
 

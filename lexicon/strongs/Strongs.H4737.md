@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִקְנֵיָהוּ‎</span></big> **Miqnêyâhûw** <small>*(mik-nay-yaw'-hoo)*</small> ==**Mikneiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מִקְנֶה‎</span><sup><small>[[H4735]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; possession of Jah</small>
+**<big><span class="ashebrew">‎מִקְנֵיָהוּ‎</span></big>** **Miqnêyâhûw** <small>*(mik-nay-yaw'-hoo)*</small> ==**Mikneiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4735|‎מִקְנֶה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; possession of Jah</small>
 
 $\quad$ Mikneiah.
 - § Mikneiah = *"possession of Jehovah"*

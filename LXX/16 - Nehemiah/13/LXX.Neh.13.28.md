@@ -7,28 +7,28 @@ And [one] of the sons of Joiada, the son of Eliashib the high priest, [was] son 
 Even one of the sons of Jehoiada son of Eliashib the high priest had become a son-in-law to Sanballat the Horonite. Therefore I drove him away from me.<small><sub>**MT:**</sub></small>
 [[Neh.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.27|<< Nehemiah 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.29|Nehemiah 13:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joiada, | <big><span class="asgreek">Ιωαδά</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Eliashib | <big><span class="asgreek">Ελιασούβ</span></big> <sup><small><small>[[H0475]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in-law | <big><span class="asgreek">γαμβρός</span></big> <sup><small><small>[[G6716]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Sanballat | <big><span class="asgreek">Σαναβαλάτ</span></big> <sup><small><small>[[H5571]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Horonite -- | <big><span class="asgreek">Ουρανίτου</span></big> <sup><small><small>[[H2772]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I threw | <big><span class="asgreek">εξέβρασα</span></big> <sup><small><small>[[G7081]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Joiada, | **<big>[[H3111\|Ιωαδά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Eliashib | **<big>[[H0475\|Ελιασούβ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
+| in-law | **<big>[[G6716\|γαμβρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to Sanballat | **<big>[[H5571\|Σαναβαλάτ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Horonite -- | **<big>[[H2772\|Ουρανίτου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| I threw | **<big>[[G7081\|εξέβρασα]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Neh.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.27|<< Nehemiah 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.29|Nehemiah 13:29 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ They return, [but] not to the most High: they are like a deceitful bow: their pr
 They turn, but not to the Most High; they are like a faulty bow. Their leaders will fall by the sword for the cursing of their tongue; for this they will be ridiculed in the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Hos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.15|<< Hosea 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.1|Hosea 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They returned | <big><span class="asgreek">απεστράφησαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| nothing; | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| being stretched tight; | <big><span class="asgreek">εντεταμένον</span></big> <sup><small><small>[[G7265]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] stupidity | <big><span class="asgreek">απαιδευσίαν</span></big> <sup><small><small>[[G6388]]</small></small></sup> |
-| of their tongue; | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this is | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their disparagement | <big><span class="asgreek">φαυλισμός</span></big> <sup><small><small>[[G9628]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| They returned | **<big>[[G0654\|απεστράφησαν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| nothing; | **<big>[[G3762\|ουδέν]]</big>** |
+| they became | **<big>[[G1096\|εγένοντο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a bow | **<big>[[G5115\|τόξον]]</big>** |
+| being stretched tight; | **<big>[[G7265\|εντεταμένον]]</big>** |
+| shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| \[the\] stupidity | **<big>[[G6388\|απαιδευσίαν]]</big>** |
+| of their tongue; | **<big>[[G1100\|γλώσσης]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| this is | **<big>[[G3778\|ούτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their disparagement | **<big>[[G9628\|φαυλισμός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτω]]</big>** |
 [[Hos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.15|<< Hosea 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.1|Hosea 8:1 >>]]</td></tr></table>
 
 

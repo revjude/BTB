@@ -1,5 +1,3 @@
-<span class="ashebrew">‎תִּירָ֑ס‎</span> <small>***(ti.ras)***</small> ==**Tiras**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.2|Gen.10.2]]
--  son of: Japheth ([[H3315]])
--  brother of: Gomer ([[H1586]]), Magog ([[H4031]]), Madai ([[H4074]]), Javan ([[H3120]]), Tubal ([[H8422]]) and Meshech ([[H4902]])
-
+-  son of: Japheth (**<big>[[H3315|יֶפֶת]]</big>**)
+-  brother of: Gomer (**<big>[[H1586|גֹּמֶר]]</big>**), Magog (**<big>[[H4031|מָגוֹג]]</big>**), Madai (**<big>[[H4074|מָדַי]]</big>**), Javan (**<big>[[H3120|יָוָן]]</big>**), Tubal (**<big>[[H8422|תּוּבַל]]</big>**) and Meshech (**<big>[[H4902|מֶשֶׁךְ]]</big>**)

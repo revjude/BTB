@@ -6,15 +6,15 @@ He who assaults his father or evicts his mother is a son who brings shame and di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.25|<< Proverbs 19:25]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.27|Proverbs 19:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] assaults  | <span class="ashebrew"><big>מְֽשַׁדֶּד </big></span><small><small><sup>[[H7703]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me.sha.ded- <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a father  | <span class="ashebrew"><big>אָ֭ב </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he drives away  | <span class="ashebrew"><big>יַבְרִ֣יחַ </big></span><small><small><sup>[[H1272]]</sup></small></small> &#8207;| yav.Ri.ach <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mother  | <span class="ashebrew"><big>אֵ֑ם </big></span><small><small><sup>[[H0517]]</sup></small></small> &#8207;| 'Em <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a son  | <span class="ashebrew"><big>בֵּ֝֗ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| Ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] brings shame  | <span class="ashebrew"><big>מֵבִ֥ישׁ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| me.Vish <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] causes shame  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַחְפִּֽיר </big></span><small><small><sup>[[H2659]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mach.Pir <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] assaults  |**<big>&#8207;[[H7703\|מְֽשַׁדֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.sha.ded-<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a father  |**<big>&#8207;[[H0001G\|אָ֭ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he drives away  |**<big>&#8207;[[H1272\|יַבְרִ֣יחַ]]&#8207; </big>**| yav.Ri.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mother  |**<big>&#8207;[[H0517\|אֵ֑ם]]&#8207; </big>**| 'Em<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a son  |**<big>&#8207;[[H1121A\|בֵּ֝֗ן]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] brings shame  |**<big>&#8207;[[H0954\|מֵבִ֥ישׁ]]&#8207; </big>**| me.Vish<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] causes shame  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2659\|מַחְפִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mach.Pir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.25|<< Proverbs 19:25]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.27|Proverbs 19:27 >>]]</td></tr></table>
 
 

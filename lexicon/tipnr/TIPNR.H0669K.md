@@ -2,7 +2,7 @@
 
 The Forest of Ephraim, where the battle between David's forces and Absalom's army took place during Absalom's rebellion.
 - A location only mentioned at [[2Sam.18.6|2Sa.18.6]]; 
-- only referred to as Forest\_Ephraim<[[H0669K]]><[[H3293H]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Forest\_Ephraim **<big>[[H0669|אֶפְרַיִם]]</big>** **<big>[[H3293|יַעַר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.764722,32.381111&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The significance of the Forest of Ephraim lies in its role as the setting for th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Forest/ of Ephraim (KJV= wood of Ephraim) | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669K)[<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>](H3293H) <small>*Hebrew*</small> | 1x | [2Sa.18.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=2Sa.18.6) |
-All Strong's for **Forest_Ephraim**: \[[[H0669K]]\]
+| Forest/ of Ephraim (KJV= wood of Ephraim) | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669K)[<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>](H3293H) | 1x | [2Sa.18.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=2Sa.18.6) |
+All entries for **Forest Ephraim**:  **<big>[[H0669|אֶפְרַיִם]]</big>**

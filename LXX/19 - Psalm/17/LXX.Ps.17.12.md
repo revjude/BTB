@@ -7,21 +7,21 @@ Like as a lion [that] is greedy of his prey, and as it were a young lion lurking
 like a lion greedy for prey, like a young lion lurking in ambush.<small><sub>**MT:**</sub></small>
 [[Ps.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.11|<< Psalm 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.13|Psalm 17:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| they undertook | <big><span class="asgreek">υπέλαβόν</span></big> <sup><small><small>[[G5274]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| prepared | <big><span class="asgreek">έτοιμος</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a hunt | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| living | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| concealment. | <big><span class="asgreek">αποκρύφοις</span></big> <sup><small><small>[[G0614]]</small></small></sup> |
+| they undertook | **<big>[[G5274\|υπέλαβόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| As | **<big>[[G5616\|ωσεί]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| prepared | **<big>[[G2092\|έτοιμος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a hunt | **<big>[[G2339\|θήραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a cub | **<big>[[G9121\|σκύμνος]]</big>** |
+| living | **<big>[[G3611\|οίκων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| concealment. | **<big>[[G0614\|αποκρύφοις]]</big>** |
 [[Ps.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.11|<< Psalm 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.13|Psalm 17:13 >>]]</td></tr></table>
 
 

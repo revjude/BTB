@@ -7,44 +7,44 @@ Howbeit in [the business of] the ambassadors of the princes of Babylon, who sent
 And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.<small><sub>**MT:**</sub></small>
 [[2Chr.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.30|<< 2 Chronicles 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.32|2 Chronicles 32:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the \[matters concerning\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] ambassadors | <big><span class="asgreek">πρεσβευταίς</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being sent | <big><span class="asgreek">αποσταλείσι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to inquire | <big><span class="asgreek">πυθέσθαι</span></big> <sup><small><small>[[G4441]]</small></small></sup> |
-| of | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| miracle | <big><span class="asgreek">τέρας</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| took place | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to test | <big><span class="asgreek">πειράσαι</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to know | <big><span class="asgreek">ειδέναι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the \[matters concerning\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| \[the\] ambassadors | **<big>[[G4246\|πρεσβευταίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| being sent | **<big>[[G0649\|αποσταλείσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| to inquire | **<big>[[G4441\|πυθέσθαι]]</big>** |
+| of | **<big>[[G3844\|παρ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|το]]</big>** |
+| miracle | **<big>[[G5059\|τέρας]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| took place | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to test | **<big>[[G3985\|πειράσαι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| to know | **<big>[[G1492\|ειδέναι]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his heart. | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.30|<< 2 Chronicles 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.32|2 Chronicles 32:32 >>]]</td></tr></table>
 
 

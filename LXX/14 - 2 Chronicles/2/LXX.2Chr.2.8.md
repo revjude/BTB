@@ -7,39 +7,39 @@ Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know
 Send me also cedar, cypress, and algum logs from Lebanon, for I know that your servants have skill to cut timber there. And indeed, my servants will work with yours<small><sub>**MT:**</sub></small>
 [[2Chr.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.7|<< 2 Chronicles 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.9|2 Chronicles 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| send | <big><span class="asgreek">απόστειλόν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedars, | <big><span class="asgreek">κέδρινα</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of junipers, | <big><span class="asgreek">αρκεύθινα</span></big> <sup><small><small>[[G6533]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of pines, | <big><span class="asgreek">πεύκινα</span></big> <sup><small><small>[[G8785]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon! | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| for I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">δούλοί</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know how | <big><span class="asgreek">οίδασι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| to fell | <big><span class="asgreek">κόπτειν</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servants | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants, | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| send | **<big>[[G0649\|απόστειλόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| of cedars, | **<big>[[G7989\|κέδρινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of junipers, | **<big>[[G6533\|αρκεύθινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of pines, | **<big>[[G8785\|πεύκινα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Lebanon! | **<big>[[H3844\|Λιβάνου]]</big>** |
+| for I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your servants | **<big>[[G1401\|δούλοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| know how | **<big>[[G1492\|οίδασι]]</big>** |
+| to fell | **<big>[[G2875\|κόπτειν]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my servants | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσονται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your servants, | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[2Chr.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.7|<< 2 Chronicles 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.9|2 Chronicles 2:9 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ A land wherein thou shalt eat bread without scarceness, thou shalt not lack any 
 a land where you will eat food without scarcity, where you will lack nothing; a land whose rocks are iron and whose hills are ready to be mined for copper.<small><sub>**MT:**</sub></small>
 [[Deut.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.8|<< Deuteronomy 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.10|Deuteronomy 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| without | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| poorness | <big><span class="asgreek">πτωχείας</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not be in want | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ενδεηθήση</span></big> <sup><small><small>[[G7222]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| A land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its stones | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] iron, | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall mine | <big><span class="asgreek">μεταλλεύσεις</span></big> <sup><small><small>[[G8297]]</small></small></sup> |
-| brass. | <big><span class="asgreek">χαλκόν</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
+| A land | **<big>[[G1093\|γη]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| without | **<big>[[G3756\|ου]]</big>** **<big>[[G3326\|μετά]]</big>** |
+| poorness | **<big>[[G4432\|πτωχείας]]</big>** |
+| you shall eat | **<big>[[G2068\|φαγή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not be in want | **<big>[[G3756\|ουκ]]</big>** **<big>[[G7222\|ενδεηθήση]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
+| A land | **<big>[[G1093\|γη]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its stones | **<big>[[G3037\|λίθοι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[are\] iron, | **<big>[[G4604\|σίδηρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| its mountains | **<big>[[G3735\|ορέων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| you shall mine | **<big>[[G8297\|μεταλλεύσεις]]</big>** |
+| brass. | **<big>[[G5475\|χαλκόν]]</big>** |
 [[Deut.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.8|<< Deuteronomy 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.10|Deuteronomy 8:10 >>]]</td></tr></table>
 
 

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎בּוּז‎</span> <small>***(buz)***</small> ==**Buz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, only mentioned at [[Gen.22.21|Gen.22.21]]
--  son of: Nahor ([[H5152H]]) and Milcah ([[H4435]])
--  brother of: Uz ([[H5780H]]), Kemuel ([[H7055]]), Chesed ([[H3777]]), Hazo ([[H2375]]), Pildash ([[H6394]]), Jidlaph ([[H3044]]) and Bethuel ([[H1328A]])
--  half-brother of: Tebah ([[H2875]]), Gaham ([[H1514]]), Tahash ([[H8477]]) and Maacah ([[H4601]])
+-  son of: Nahor (**<big>[[H5152H|נָחוֹר]]</big>**) and Milcah (**<big>[[H4435|מִלְכָּה]]</big>**)
+-  brother of: Uz (**<big>[[H5780H|עוּץ]]</big>**), Kemuel (**<big>[[H7055|קְמוּאֵל]]</big>**), Chesed (**<big>[[H3777|כֶּשֶׂד]]</big>**), Hazo (**<big>[[H2375|חֲזוֹ]]</big>**), Pildash (**<big>[[H6394|פִּלְדָּשׁ]]</big>**), Jidlaph (**<big>[[H3044|יִדְלָף]]</big>**) and Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**)
+-  half-brother of: Tebah (**<big>[[H2875|טֶבַח]]</big>**), Gaham (**<big>[[H1514|גַּחַם]]</big>**), Tahash (**<big>[[H8477|תַּחַשׁ]]</big>**) and Maacah (**<big>[[H4601|מַעֲכָה]]</big>**)

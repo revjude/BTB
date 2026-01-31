@@ -6,22 +6,22 @@ Do not be angry, O LORD, beyond measure; do not remember our iniquity forever. O
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.8|<< Isaiah 64:8]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.10|Isaiah 64:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be angry  | <span class="ashebrew"><big>תִּקְצֹ֤ף </big></span><small><small><sup>[[H7107]]</sup></small></small> &#8207;| tik.Tzof <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| up to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| muchness  | <span class="ashebrew"><big>מְאֹ֔ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and may not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עַ֖ד </big></span><small><small><sup>[[H5703]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'Ad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you remember  | <span class="ashebrew"><big>תִּזְכֹּ֣ר </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| tiz.Kor <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| iniquity  | <span class="ashebrew"><big>עָוֹ֑ן </big></span><small><small><sup>[[H5771G]]</sup></small></small> &#8207;| 'a.Von <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הֵ֥ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| look  | <span class="ashebrew"><big>הַבֶּט </big></span><small><small><sup>[[H5027]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha.bet- <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֖א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] people your  | <span class="ashebrew"><big>עַמְּ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'a.me. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of us  | <span class="ashebrew"><big>כֻלָּֽ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| khu.La. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be angry  |**<big>&#8207;[[H7107\|תִּקְצֹ֤ף]]&#8207; </big>**| tik.Tzof<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| up to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| muchness  |**<big>&#8207;[[H3966\|מְאֹ֔ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5703\|עַ֖ד]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you remember  |**<big>&#8207;[[H2142\|תִּזְכֹּ֣ר]]&#8207; </big>**| tiz.Kor<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity  |**<big>&#8207;[[H5771G\|עָוֹ֑ן]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2005\|הֵ֥ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| look  |**<big>&#8207;[[H5027\|הַבֶּט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.bet-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֖א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of us  |**<big>&#8207;[[H3605\|כֻלָּֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| khu.La.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.8|<< Isaiah 64:8]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.10|Isaiah 64:10 >>]]</td></tr></table>
 
 

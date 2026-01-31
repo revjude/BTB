@@ -11,22 +11,22 @@ Yet You brought me forth from the womb; You made me secure at my mother’s brea
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one pulling | <big><span class="asgreek">εκσπάσας</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] womb; | <big><span class="asgreek">γαστρός</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] breasts | <big><span class="asgreek">μαστών</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my mother. | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one pulling | **<big>[[G7145\|εκσπάσας]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] womb; | **<big>[[G1064\|γαστρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my hope | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] breasts | **<big>[[G3149\|μαστών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my mother. | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.8|<< Psalm 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.10|Psalm 22:10 >>]]</td></tr></table>
 
 

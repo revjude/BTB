@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִכְתָּם‎</span></big> **miktâm** <small>*(mik-tawm')*</small> ==**Miktam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּתַם‎</span><sup><small>[[H3799]]</small></sup></small>
+**<big><span class="ashebrew">‎מִכְתָּם‎</span></big>** **miktâm** <small>*(mik-tawm')*</small> ==**Miktam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3799|‎כָּתַם‎]]</big>**</small>
 
 $\quad$ Michtam.
 - ***an engraving***, i.e. (techn.) ***a poem***

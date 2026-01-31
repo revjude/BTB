@@ -7,22 +7,22 @@ So the priests and the Levites sanctified themselves to bring up the ark of the 
 So the priests and Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
 [[1Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.13|<< 1 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.15|1 Chronicles 15:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purified \[themselves\] | <big><span class="asgreek">ηγνίσθησαν</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">ενεγκείν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| purified \[themselves\] | **<big>[[G0048\|ηγνίσθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G5342\|ενεγκείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.13|<< 1 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.15|1 Chronicles 15:15 >>]]</td></tr></table>
 
 

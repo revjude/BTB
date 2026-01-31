@@ -10,35 +10,35 @@ Now when he had made an end of measuring the inner house, he brought me forth to
 Now when the man had finished measuring the interior of the temple area, he led me out by the gate that faced east, and he measured the area all around:<small><sub>**MT:**</sub></small>
 [[Ezek.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.14|<< Ezekiel 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.16|Ezekiel 42:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was completed | <big><span class="asgreek">συνετελέσθη</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| measurement | <big><span class="asgreek">διαμέτρησις</span></big> <sup><small><small>[[G6849]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| from inside; | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led me out | <big><span class="asgreek">εξήγαγέ</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east; | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plan | <big><span class="asgreek">υπόδειγμα</span></big> <sup><small><small>[[G5262]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| arrangement. | <big><span class="asgreek">διατάξει</span></big> <sup><small><small>[[G6886]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was completed | **<big>[[G4931\|συνετελέσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| measurement | **<big>[[G6849\|διαμέτρησις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| from inside; | **<big>[[G2081\|έσωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led me out | **<big>[[G1806\|εξήγαγέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east; | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plan | **<big>[[G5262\|υπόδειγμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| arrangement. | **<big>[[G6886\|διατάξει]]</big>** |
 [[Ezek.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.14|<< Ezekiel 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.16|Ezekiel 42:16 >>]]</td></tr></table>
 
 

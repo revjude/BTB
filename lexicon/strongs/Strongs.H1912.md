@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הֹדוּ‎</span></big> **Hôdûw** <small>*(ho'-doo)*</small> ==**India**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎הֹדוּ‎</span></big>** **Hôdûw** <small>*(ho'-doo)*</small> ==**India**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ India.

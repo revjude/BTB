@@ -11,32 +11,32 @@ And you are to set up a boundary for the people around the mountain and tell the
 > $\quad$ referenced by: [[Heb.12.20|Heb 12:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall separate | <big><span class="asgreek">αφοριείς</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Take heed | <big><span class="asgreek">προσέχετε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lightly touching | <big><span class="asgreek">θίγειν</span></big> <sup><small><small>[[G2345]]</small></small></sup> |
-| any | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| touching | <big><span class="asgreek">αψάμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| by death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| he will come to an end. | <big><span class="asgreek">τελευτήσει</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall separate | **<big>[[G0873\|αφοριείς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| round about, | **<big>[[G2945\|κύκλω]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Take heed | **<big>[[G4337\|προσέχετε]]</big>** |
+| to yourselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| ascending | **<big>[[G0305\|αναβήναι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain, | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lightly touching | **<big>[[G2345\|θίγειν]]</big>** |
+| any | **<big>[[G5100\|τι]]</big>** |
+| of it. | **<big>[[G1473\|αυτού]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| touching | **<big>[[G0680\|αψάμενος]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| by death | **<big>[[G2288\|θανάτω]]</big>** |
+| he will come to an end. | **<big>[[G5053\|τελευτήσει]]</big>** |
 [[Exod.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.11|<< Exodus 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.13|Exodus 19:13 >>]]</td></tr></table>
 
 

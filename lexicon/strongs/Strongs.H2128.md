@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִיף‎</span></big> **Zîyph** <small>*(zeef)*</small> ==**Ziph**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎זֶפֶת‎</span><sup><small>[[H2203]]</small></sup>; flowing</small>
+**<big><span class="ashebrew">‎זִיף‎</span></big>** **Zîyph** <small>*(zeef)*</small> ==**Ziph**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H2203|‎זֶפֶת‎]]</big>**; flowing</small>
 
 $\quad$ Ziph.
 - § Ziph = *"battlement"*

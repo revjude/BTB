@@ -7,36 +7,36 @@ But the word of the LORD came to me, saying, Thou hast shed blood abundantly, an
 but this word of the LORD came to me: ‘You have shed much blood and waged great wars. You are not to build a house for My Name because you have shed so much blood on the ground before Me.<small><sub>**MT:**</sub></small>
 [[1Chr.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.7|<< 1 Chronicles 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.9|1 Chronicles 22:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| You poured out | <big><span class="asgreek">εξέχεας</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wars | <big><span class="asgreek">πολέμους</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλους</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you shall not build | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name, | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| you poured out | <big><span class="asgreek">εξέχεας</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| You poured out | **<big>[[G1632\|εξέχεας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wars | **<big>[[G4171\|πολέμους]]</big>** |
+| great | **<big>[[G3173\|μεγάλους]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| you shall not build | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my name, | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| blood | **<big>[[G0129\|αίματα]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| you poured out | **<big>[[G1632\|εξέχεας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[1Chr.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.7|<< 1 Chronicles 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.9|1 Chronicles 22:9 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">γράφω</span></span>, \[in LXX chiefly for <span class="ashebrew">כּתב</span> <small><sup>[[H3789]]</sup></small> \]; </span>
+<span class="asform"><span class="asgreek"><span class="asbold">γράφω</span></span>, \[in LXX chiefly for **<big>[[H3789|כּתב]]</big>** \]; </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to scrape, graze</span> (Hom.), and later (Hdt.) <span class="asitalic">to sketch, draw</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to write</span>;</span>

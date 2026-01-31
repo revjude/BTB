@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַתַּנְיָה‎</span></big> **Mattanyâh** <small>*(mat-tan-yaw')*</small> ==**Mattaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַתַּנְיָהוּ</span> **Mattanyâhûw** <small>*(mat-tan-yaw'-hoo)*</small>; from <span class="ashebrew">‎מַתָּן‎</span><sup><small>[[H4976]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; gift of Jah</small>
+**<big><span class="ashebrew">‎מַתַּנְיָה‎</span></big>** **Mattanyâh** <small>*(mat-tan-yaw')*</small> ==**Mattaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַתַּנְיָהוּ</span></big>** **Mattanyâhûw** <small>*(mat-tan-yaw'-hoo)*</small>; from **<big>[[H4976|‎מַתָּן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; gift of Jah</small>
 
 $\quad$ Mattaniah.
 - § Mattaniah = *"gift of Jehovah"*

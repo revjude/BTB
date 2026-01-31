@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">σῶμα</span></span>, <span class="asgreek">-τος, τό</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">גְּוִיָּה ,בָּשָׂר</span> <small><sup>[[H1472]]</sup></small><small><sup>[[H1320]]</sup></small>, etc., and for Aram. <span class="asaramic">נְבֵלָה</span> ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">σῶμα</span></span>, <span class="asgreek">-τος, τό</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1472|גְּוִיָּה]]</big>** **<big>[[H1320|בָּשָׂר]]</big>**, etc., and for Aram. <span class="asaramic">נְבֵלָה</span> ;\]</span> </span>
 <span class="asitalic">a body</span>.
 <span class="asbullet"><span class="asbold">1.</span> Prop., of the human body,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> as always in Hom. (opp. to <span class="asgreek">δέμας</span>), of the dead body: [[Matt.27.58|Mt 27:58]],  [[Matt.27.59|59]] [[Mark.15.43|Mk 15:43]], al.;</span>

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶבְרָה‎</span></big> **ʼebrâh** <small>*(eb-raw')*</small> ==**pinion**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אֵבֶר‎</span><sup><small>[[H0083]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶבְרָה‎</span></big>** **ʼebrâh** <small>*(eb-raw')*</small> ==**pinion**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0083|‎אֵבֶר‎]]</big>**</small>
 
 $\quad$ feather, wing.
 - {***a pinion***}

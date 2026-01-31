@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָוָן‎</span></big> **Yâvân** <small>*(yaw-vawn')*</small> ==**Javan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from the same as <span class="ashebrew">‎יַיִן‎</span><sup><small>[[H3196]]</small></sup>; effervescing (i.e. hot and active)</small>
+**<big><span class="ashebrew">‎יָוָן‎</span></big>** **Yâvân** <small>*(yaw-vawn')*</small> ==**Javan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from the same as **<big>[[H3196|‎יַיִן‎]]</big>**; effervescing (i.e. hot and active)</small>
 
 $\quad$ Javan.
 - § Javan = *"Ionia" or "Greece"*

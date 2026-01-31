@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ananiah</span>, a town settled by the Benjamites after the exile.
 - A location only mentioned at [[Neh.11.32|Neh.11.32]]; 
-- only referred to as Ananiah<[[H6055H]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Ananiah **<big>[[H6055|עֲנַנְיָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.832910,35.219683&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its mention in the list of towns resettled by the Benjamites, no othe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ananiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6055H) <small>*Hebrew*</small> | 1x | [Neh.11.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ananiah\*\|reference=Neh.11.32) |
-All Strong's for **Ananiah**: \[[[H6055H]]\]
+| Ananiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6055H) | 1x | [Neh.11.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ananiah\*\|reference=Neh.11.32) |
+All entries for **Ananiah**:  **<big>[[H6055|עֲנַנְיָה]]</big>**

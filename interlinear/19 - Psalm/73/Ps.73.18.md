@@ -6,14 +6,14 @@ Surely You set them on slick ground; You cast them down into ruin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.17|<< Psalms 73:17]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.19|Psalms 73:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| surely  | <span class="ashebrew"><big>אַ֣ךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> &#8207;| 'akh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on slippery [places]  | <span class="ashebrew"><big>בַּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֲלָקוֹת </big></span><small><small><sup>[[H2513B]]</sup></small></small> &#8207;| Ba. <small><sup>[[HR]]</sup></small> cha.la.kot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you set  | <span class="ashebrew"><big>תָּשִׁ֣ית </big></span><small><small><sup>[[H7896G]]</sup></small></small> &#8207;| ta.Shit <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> them  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you make fall them  | <span class="ashebrew"><big>הִ֝פַּלְתָּ֗ </big></span><small><small><sup>[[H5307G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| hi.pal.Ta <small><sup>[[HVhp2ms]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to deceptions  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַשּׁוּאֽוֹת </big></span><small><small><sup>[[H4876]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ma.shu.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on slippery [places]  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H2513B\|חֲלָקוֹת]]&#8207; </big>**| Ba.<small><sup>[[HR]]</sup></small> cha.la.kot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you set  |**<big>&#8207;[[H7896G\|תָּשִׁ֣ית]]&#8207; </big>**| ta.Shit<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> them  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you make fall them  |**<big>&#8207;[[H5307G\|הִ֝פַּלְתָּ֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| hi.pal.Ta<small><sup>[[HVhp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to deceptions  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4876\|מַשּׁוּאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.shu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.17|<< Psalms 73:17]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.19|Psalms 73:19 >>]]</td></tr></table>
 
 

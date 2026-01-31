@@ -7,27 +7,27 @@ And the sons of strangers shall build up thy walls, and their kings shall minist
 Foreigners will rebuild your walls, and their kings will serve you. Although I struck you in anger, yet in favor I will show you mercy.<small><sub>**MT:**</sub></small>
 [[Isa.60.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.9|<< Isaiah 60:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.11|Isaiah 60:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall build | <big><span class="asgreek">οικοδομήσουσιν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">αλλογενείς</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your walls, | <big><span class="asgreek">τείχη</span></big> <sup><small><small>[[G5038]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall stand beside | <big><span class="asgreek">παραστήσονταί</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| my anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I struck | <big><span class="asgreek">επάταξά</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| I loved | <big><span class="asgreek">ηγάπησά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall build | **<big>[[G3618\|οικοδομήσουσιν]]</big>** |
+| foreigners | **<big>[[G0241\|αλλογενείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your walls, | **<big>[[G5038\|τείχη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their kings | **<big>[[G0935\|βασιλείς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall stand beside | **<big>[[G3936\|παραστήσονταί]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
+| For on account of | **<big>[[G1223\|διά]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| my anger | **<big>[[G3709\|οργήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I struck | **<big>[[G3960\|επάταξά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| I loved | **<big>[[G0025\|ηγάπησά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Isa.60.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.9|<< Isaiah 60:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.11|Isaiah 60:11 >>]]</td></tr></table>
 
 

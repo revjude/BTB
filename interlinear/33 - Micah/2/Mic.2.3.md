@@ -6,30 +6,30 @@ Therefore this is what the LORD says: “I am planning against this nation a dis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.2|<< Micah 2:2]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.4|Micah 2:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> therefore  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֵ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֚ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֥י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] planning  | <span class="ashebrew"><big>חֹשֵׁ֛ב </big></span><small><small><sup>[[H2803I]]</sup></small></small> &#8207;| cho.Shev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the clan  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּשְׁפָּחָ֥ה </big></span><small><small><sup>[[H4940]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mish.pa.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֹּ֖את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calamity  | <span class="ashebrew"><big>רָעָ֑ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲ֠שֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will remove  | <span class="ashebrew"><big>תָמִ֨ישׁוּ </big></span><small><small><sup>[[H4185]]</sup></small></small> &#8207;| ta.Mi.shu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from there  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שָּׁ֜ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| necks your  | <span class="ashebrew"><big>צַוְּארֹֽתֵי </big></span><small><small><sup>[[H6677A]]</sup></small></small> <span class="ashebrew"><big>כֶ֗ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| tza.ve.ro.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will walk  | <span class="ashebrew"><big>תֵֽלְכוּ֙ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| te.le.Khu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| haughtily  | <span class="ashebrew"><big>רוֹמָ֔ה </big></span><small><small><sup>[[H7317]]</sup></small></small> &#8207;| ro.Mah <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a time  | <span class="ashebrew"><big>עֵ֥ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| 'et <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָעָ֖ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִֽיא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֥י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] planning  |**<big>&#8207;[[H2803I\|חֹשֵׁ֛ב]]&#8207; </big>**| cho.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the clan  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4940\|מִּשְׁפָּחָ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.pa.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֖את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calamity  |**<big>&#8207;[[H7451C\|רָעָ֑ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲ֠שֶׁר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remove  |**<big>&#8207;[[H4185\|תָמִ֨ישׁוּ]]&#8207; </big>**| ta.Mi.shu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֜ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| necks your  |**<big>&#8207;[[H6677A\|צַוְּארֹֽתֵי]]&#8207;&#8207;[[H9026\|כֶ֗ם]]&#8207; </big>**| tza.ve.ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will walk  |**<big>&#8207;[[H1980I\|תֵֽלְכוּ֙]]&#8207; </big>**| te.le.Khu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| haughtily  |**<big>&#8207;[[H7317\|רוֹמָ֔ה]]&#8207; </big>**| ro.Mah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a time  |**<big>&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451C\|רָעָ֖ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִֽיא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.2|<< Micah 2:2]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.4|Micah 2:4 >>]]</td></tr></table>
 
 

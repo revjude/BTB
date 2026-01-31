@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇפְרָה‎</span></big> **ʻOphrâh** <small>*(of-raw')*</small> ==**Ophrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹפֶר‎</span><sup><small>[[H6082]]</small></sup>; female fawn</small>
+**<big><span class="ashebrew">‎עׇפְרָה‎</span></big>** **ʻOphrâh** <small>*(of-raw')*</small> ==**Ophrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H6082|‎עֹפֶר‎]]</big>**; female fawn</small>
 
 $\quad$ Ophrah.
 - § Ophrah = *"fawn"*

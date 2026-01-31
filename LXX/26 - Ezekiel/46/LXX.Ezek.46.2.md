@@ -7,53 +7,53 @@ And the prince shall enter by the way of the porch of [that] gate without, and s
 The prince is to enter from the outside through the portico of the gateway and stand by the gatepost, while the priests sacrifice his burnt offerings and peace offerings. He is to bow in worship at the threshold of the gate and then depart, but the gate must not be shut until evening.<small><sub>**MT:**</sub></small>
 [[Ezek.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.1|<< Ezekiel 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.3|Ezekiel 46:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guiding | <big><span class="asgreek">αφηγούμενος</span></big> <sup><small><small>[[G6622]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| outward, | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">πρόθυρα</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate; | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall offer | <big><span class="asgreek">ποιήσουσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his whole burnt-offerings | <big><span class="asgreek">ολοκαυτωματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his deliverance \[offering\]; | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall do obeisance | <big><span class="asgreek">προσκυνήσει</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshold | <big><span class="asgreek">προθύρου</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate, | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall come forth; | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be locked | <big><span class="asgreek">κλεισθή</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| guiding | **<big>[[G6622\|αφηγούμενος]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| outward, | **<big>[[G1855\|έξωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall stand | **<big>[[G2476\|στήσεται]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thresholds | **<big>[[G8895\|πρόθυρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate; | **<big>[[G4439\|πύλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall offer | **<big>[[G4160\|ποιήσουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of his whole burnt-offerings | **<big>[[G3646\|ολοκαυτωματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his deliverance \[offering\]; | **<big>[[G4992\|σωτηρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall do obeisance | **<big>[[G4352\|προσκυνήσει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| threshold | **<big>[[G8895\|προθύρου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate, | **<big>[[G4439\|πύλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall come forth; | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be locked | **<big>[[G2808\|κλεισθή]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρας]]</big>** |
 [[Ezek.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.1|<< Ezekiel 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.3|Ezekiel 46:3 >>]]</td></tr></table>
 
 

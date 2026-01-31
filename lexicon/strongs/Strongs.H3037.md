@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַדּוּעַ‎</span></big> **Yaddûwaʻ** <small>*(yad-doo'-ah)*</small> ==**Jaddua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup>; knowing</small>
+**<big><span class="ashebrew">‎יַדּוּעַ‎</span></big>** **Yaddûwaʻ** <small>*(yad-doo'-ah)*</small> ==**Jaddua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>**; knowing</small>
 
 $\quad$ Jaddua.
 - § Jaddua = *"knowing"*

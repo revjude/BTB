@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרִיאֵל‎</span></big> **ʼărîyʼêl** <small>*(ar-ee-ale')*</small> ==**Ariel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">אֲרִאֵל</span> **ʼăriʼêl** <small>*(ar-ee-ale')*</small>; from <span class="ashebrew">‎אֲרִי‎</span><sup><small>[[H0738]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲרִיאֵל‎</span></big>** **ʼărîyʼêl** <small>*(ar-ee-ale')*</small> ==**Ariel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֲרִאֵל</span></big>** **ʼăriʼêl** <small>*(ar-ee-ale')*</small>; from **<big>[[H0738|‎אֲרִי‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**</small>
 
 $\quad$ lionlike men.
 - ***lion of God***

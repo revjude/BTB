@@ -7,36 +7,36 @@ And when ye shall come into the land, and shall have planted all manner of trees
 When you enter the land and plant any kind of tree for food, you shall regard the fruit as forbidden. For three years it will be forbidden to you and must not be eaten.<small><sub>**MT:**</sub></small>
 [[Lev.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.22|<< Leviticus 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.24|Leviticus 19:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should enter | <big><span class="asgreek">εισέλθητε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should plant | <big><span class="asgreek">καταφυτεύσητε</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| eatable | <big><span class="asgreek">βρώσιμον</span></big> <sup><small><small>[[G1034]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall purge away | <big><span class="asgreek">περικαθαριείτε</span></big> <sup><small><small>[[G8729]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its uncleanness. | <big><span class="asgreek">ακαθαρσίαν</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Its fruit | <big><span class="asgreek">καρπός</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| impure to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">απερικάθαρτος</span></big> <sup><small><small>[[G6410]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be eaten. | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
+| And whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should enter | **<big>[[G1525\|εισέλθητε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| gives | **<big>[[G1325\|δίδωσιν]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should plant | **<big>[[G7952\|καταφυτεύσητε]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| eatable | **<big>[[G1034\|βρώσιμον]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall purge away | **<big>[[G8729\|περικαθαριείτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| its uncleanness. | **<big>[[G0167\|ακαθαρσίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Its fruit | **<big>[[G2590\|καρπός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for three | **<big>[[G5140\|τρία]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| impure to you, | **<big>[[G1473\|υμίν]]</big>** **<big>[[G6410\|απερικάθαρτος]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be eaten. | **<big>[[G0977\|βρωθήσεται]]</big>** |
 [[Lev.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.22|<< Leviticus 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.24|Leviticus 19:24 >>]]</td></tr></table>
 
 

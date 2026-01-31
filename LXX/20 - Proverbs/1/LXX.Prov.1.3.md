@@ -7,22 +7,22 @@ To receive the instruction of wisdom, justice, and judgment, and equity;
 and for receiving instruction in wise living and in righteousness, justice, and equity.<small><sub>**MT:**</sub></small>
 [[Prov.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.2|<< Proverbs 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.4|Proverbs 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to receive | <big><span class="asgreek">δέξασθαί</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \[the\] shifting and turning | <big><span class="asgreek">στροφάς</span></big> <sup><small><small>[[G9209]]</small></small></sup> |
-| of words, | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loosening | <big><span class="asgreek">λύσεις</span></big> <sup><small><small>[[G3080]]</small></small></sup> |
-| enigmas; | <big><span class="asgreek">αινιγμάτων</span></big> <sup><small><small>[[G0135]]</small></small></sup> |
-| to comprehend | <big><span class="asgreek">νοήσαί</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθή</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| to straighten out | <big><span class="asgreek">κατευθύνειν</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
+| to receive | **<big>[[G1209\|δέξασθαί]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| \[the\] shifting and turning | **<big>[[G9209\|στροφάς]]</big>** |
+| of words, | **<big>[[G3056\|λόγων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loosening | **<big>[[G3080\|λύσεις]]</big>** |
+| enigmas; | **<big>[[G0135\|αινιγμάτων]]</big>** |
+| to comprehend | **<big>[[G3539\|νοήσαί]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| true | **<big>[[G0227\|αληθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| to straighten out | **<big>[[G2720\|κατευθύνειν]]</big>** |
 [[Prov.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.2|<< Proverbs 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.4|Proverbs 1:4 >>]]</td></tr></table>
 
 

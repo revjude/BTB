@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָמֵשׁ‎</span></big> **châmêsh** <small>*(khaw-maysh')*</small> ==**five**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>masculine <span class="ashebrew">חֲמִשָּׁה</span> **chămishshâh** <small>*(kham-ish-shaw)*</small>; a primitive numeral</small>
+**<big><span class="ashebrew">‎חָמֵשׁ‎</span></big>** **châmêsh** <small>*(khaw-maysh')*</small> ==**five**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>masculine **<big><span class="ashebrew">חֲמִשָּׁה</span></big>** **chămishshâh** <small>*(kham-ish-shaw)*</small>; a primitive numeral</small>
 
 $\quad$ fif(-teen), fifth, five ([idiom] apiece).
 - ***five***

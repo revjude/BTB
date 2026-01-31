@@ -4,8 +4,8 @@ Prophet living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Joel</span>, the son of Pethuel, was a prophet of Judah who delivered a message of judgment and hope \([[Ezra.10.43|Jol.1.1]]; Act.2.16\).
 - A prophet living at the time of Divided Monarchy, first mentioned at [[Ezra.10.43|Jol.1.1]]; 
-- referred to as Joel<[[H3100T]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\), or Joel<[[G2493]]> \(<span class='tipnrLangGreek'>Ἰωήλ</span>\); 
-- a son of Pethuel<[[H6602]]>.
+- referred to as Joel **<big>[[H3100|יוֹאֵל]]</big>**, or Joel **<big>[[G2493|Ἰωήλ]]</big>**; 
+- a son of Pethuel **<big>[[H6602|פְּתוּאֵל]]</big>**.
 
 Joel, the son of Pethuel, was a prophet of Judah and the author of the Old Testament book that bears his name. Little is known about Joel's personal life or the exact time of his ministry, as the book does not provide specific historical references. However, based on the themes and content of his prophecy, scholars generally place him in the post-exilic period, possibly during the late 5th or early 4th century BC. 
 
@@ -15,8 +15,8 @@ This prophecy is notably quoted by the apostle Peter in his sermon on the Day of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joel | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3100T) <small>*Hebrew*</small> | 1x | [Jol.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joel\*\|reference=Jol.1.1) |
-| Joel | [<span class='tipnrLangGreek'>Ἰωήλ</span>](G2493) <small>*Greek*</small> | 1x | [Act.2.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joel\*\|reference=Act.2.16) |
-All Strong's for **Joel**: \[[[H3100T]]\] \[[[G2493]]\]
+| Joel | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3100T) | 1x | [Jol.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joel\*\|reference=Jol.1.1) |
+| Joel | [<span class='tipnrLangGreek'>Ἰωήλ</span>](G2493) | 1x | [Act.2.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joel\*\|reference=Act.2.16) |
+All entries for **Joel**:  **<big>[[H3100|יוֹאֵל]]</big>** ☩  **<big>[[G2493|Ἰωήλ]]</big>**
 #### Related Profiles:
 - **[Pethuel](H6602)** (father)

@@ -7,33 +7,33 @@ And five cubits [was] the one wing of the cherub, and five cubits the other wing
 One wing of the first cherub was five cubits long, and the other wing was five cubits long as well. So the full wingspan was ten cubits.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.23|<< 1 Kings 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.25|1 Kings 6:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wing | <big><span class="asgreek">πτερύγιον</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherub | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[was\] five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its wing | <big><span class="asgreek">πτερύγιον</span></big> <sup><small><small>[[G4419]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| Ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχει</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[one\] part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of its wing | <big><span class="asgreek">πτερυγίου</span></big> <sup><small><small>[[G4419]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the other\] part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of its wing. | <big><span class="asgreek">πτερυγίου</span></big> <sup><small><small>[[G4419]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| wing | **<big>[[G4419\|πτερύγιον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| cherub | **<big>[[G5502\|χερούβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[was\] five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of its wing | **<big>[[G4419\|πτερύγιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| Ten | **<big>[[G1176\|δέκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a cubit | **<big>[[G4083\|πήχει]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[one\] part | **<big>[[G3313\|μέρους]]</big>** |
+| of its wing | **<big>[[G4419\|πτερυγίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the other\] part | **<big>[[G3313\|μέρος]]</big>** |
+| of its wing. | **<big>[[G4419\|πτερυγίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.23|<< 1 Kings 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.25|1 Kings 6:25 >>]]</td></tr></table>
 
 

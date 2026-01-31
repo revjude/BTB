@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְבֶּרֶת‎</span></big> **machbereth** <small>*(makh-beh'-reth)*</small> ==**joining**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָבַר‎</span><sup><small>[[H2266]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחְבֶּרֶת‎</span></big>** **machbereth** <small>*(makh-beh'-reth)*</small> ==**joining**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2266|‎חָבַר‎]]</big>**</small>
 
 $\quad$ coupling.
 - ***a junction***, i.e. ***seam*** or ***sewed piece***

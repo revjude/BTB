@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָמַת‎</span></big> **tsâmath** <small>*(tsaw-math')*</small> ==**to destroy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָמַת‎</span></big>** **tsâmath** <small>*(tsaw-math')*</small> ==**to destroy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ consume, cut off, destroy, vanish.
@@ -11,4 +11,4 @@ $\quad$ **1c)** (Piel) to put an end to
 $\quad$ **1d)** (Pilel) to be exterminated, be annihilated
 $\quad$ **1e)** (Hiphil) to exterminate, annihilate
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποκτείνω</span><sup><small>[[G0615]]</small></sup> · <span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">ἐκδιώκω</span><sup><small>[[G1559]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">ἐχθρός</span><sup><small>[[G2190]]</small></sup> · <span class="asgreek">θανατόω</span><sup><small>[[G2289]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G0615|ἀποκτείνω]]</big>** · **<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1559|ἐκδιώκω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G2190|ἐχθρός]]</big>** · **<big>[[G2289|θανατόω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

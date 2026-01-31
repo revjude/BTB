@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדֹנִיקָם‎</span></big> **ʼĂdônîyqâm** <small>*(ad-o-nee-kawm')*</small> ==**Adonikam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָדוֹן‎</span><sup><small>[[H0113]]</small></sup> and <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup>; lord of rising (i.e. high)</small>
+**<big><span class="ashebrew">‎אֲדֹנִיקָם‎</span></big>** **ʼĂdônîyqâm** <small>*(ad-o-nee-kawm')*</small> ==**Adonikam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0113|‎אָדוֹן‎]]</big>** and **<big>[[H6965|‎קוּם‎]]</big>**; lord of rising (i.e. high)</small>
 
 $\quad$ Adonikam.
 - § Adonikam = *"my lord arose"*

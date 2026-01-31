@@ -7,34 +7,34 @@ And Saul said, They have brought them from the Amalekites: for the people spared
 Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”<small><sub>**MT:**</sub></small>
 [[1Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.14|<< 1 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.16|1 Samuel 15:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Amalek | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| I brought | <big><span class="asgreek">ήνεγκα</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| procured | <big><span class="asgreek">περιεποιήσατο</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| most excellent | <big><span class="asgreek">κράτιστα</span></big> <sup><small><small>[[G2903]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποιμνίων</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| herds, | <big><span class="asgreek">βουκολίων</span></big> <sup><small><small>[[G6690]]</small></small></sup> |
-| so as | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| it may be a sacrifice | <big><span class="asgreek">τυθή</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιπά</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| I utterly destroyed. | <big><span class="asgreek">εξωλόθρευσα</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| From out of | **<big>[[G1537\|εξ]]</big>** |
+| Amalek | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| I brought | **<big>[[G5342\|ήνεγκα]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| procured | **<big>[[G4046\|περιεποιήσατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| most excellent | **<big>[[G2903\|κράτιστα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| flocks | **<big>[[G4168\|ποιμνίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| herds, | **<big>[[G6690\|βουκολίων]]</big>** |
+| so as | **<big>[[G3704\|όπως]]</big>** |
+| it may be a sacrifice | **<big>[[G2380\|τυθή]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rest | **<big>[[G3062\|λοιπά]]</big>** |
+| I utterly destroyed. | **<big>[[G1842\|εξωλόθρευσα]]</big>** |
 [[1Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.14|<< 1 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.16|1 Samuel 15:16 >>]]</td></tr></table>
 
 

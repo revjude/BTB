@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְשָׁמָה‎</span></big> **nᵉshâmâh** <small>*(nesh-aw-maw')*</small> ==**breath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָשַׁם‎</span><sup><small>[[H5395]]</small></sup></small>
+**<big><span class="ashebrew">‎נְשָׁמָה‎</span></big>** **nᵉshâmâh** <small>*(nesh-aw-maw')*</small> ==**breath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5395|‎נָשַׁם‎]]</big>**</small>
 
 $\quad$ blast, (that) breath(-eth), inspiration, soul, spirit.
 - ***a puff***, i.e. ***wind***, ***angry*** or ***vital breath***, ***divine inspiration***, ***intellect***. or (concretely) ***an animal***
@@ -10,4 +10,4 @@ $\quad$ **1b)** breath (of man)
 $\quad$ **1c)** every breathing thing
 $\quad$ **1d)** spirit (of man)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup> · <span class="asgreek">πνεῦμα</span><sup><small>[[G4151]]</small></sup> · <span class="asgreek">πνοή</span><sup><small>[[G4157]]</small></sup>
+<small>See Greek: </small>**<big>[[G2372|θυμός]]</big>** · **<big>[[G4151|πνεῦμα]]</big>** · **<big>[[G4157|πνοή]]</big>**

@@ -7,55 +7,55 @@ For Solomon had made a brasen scaffold, of five cubits long, and five cubits bro
 Now Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high and had placed it in the middle of the courtyard. He stood on it, knelt down before the whole assembly of Israel, spread out his hands toward heaven,<small><sub>**MT:**</sub></small>
 [[2Chr.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.12|<< 2 Chronicles 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.14|2 Chronicles 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Solomon made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| platform | <big><span class="asgreek">βάσιν</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| a brass | <big><span class="asgreek">χαλκήν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple -- | <big><span class="asgreek">ιερού</span></big> <sup><small><small>[[G2413]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[was\] its length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[was\] its breadth, | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[was\] its height. | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he bent | <big><span class="asgreek">έκαμψεν</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his knees | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] assembly | <big><span class="asgreek">εκκλησίας</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he opened and spread out | <big><span class="asgreek">διεπέτασε</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| Solomon made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| platform | **<big>[[G0939\|βάσιν]]</big>** |
+| a brass | **<big>[[G5470\|χαλκήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G5087\|έθηκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| temple -- | **<big>[[G2413\|ιερού]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[was\] its length, | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[was\] its breadth, | **<big>[[G7563\|εύρος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[was\] its height. | **<big>[[G5311\|ύψος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stood | **<big>[[G2476\|έστη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he bent | **<big>[[G2578\|έκαμψεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his knees | **<big>[[G1119\|γόνατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| \[the\] assembly | **<big>[[G1577\|εκκλησίας]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he opened and spread out | **<big>[[G6861\|διεπέτασε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανόν]]</big>** |
 [[2Chr.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.12|<< 2 Chronicles 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.14|2 Chronicles 6:14 >>]]</td></tr></table>
 
 

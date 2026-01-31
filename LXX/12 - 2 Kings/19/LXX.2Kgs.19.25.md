@@ -7,31 +7,31 @@ Hast thou not heard long ago [how] I have done it, [and] of ancient times that I
 Have you not heard? Long ago I ordained it; in days of old I planned it. Now I have brought it to pass, that you should crush fortified cities into piles of rubble.<small><sub>**MT:**</sub></small>
 [[2Kgs.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.24|<< 2 Kings 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.26|2 Kings 19:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Heard you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| far off | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| her? | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| ancient | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| I formed | <big><span class="asgreek">έπλασα</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I brought | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| haughtiness | <big><span class="asgreek">επάρσεις</span></big> <sup><small><small>[[G7371]]</small></small></sup> |
-| resettlements | <big><span class="asgreek">αποικεσιών</span></big> <sup><small><small>[[G6429]]</small></small></sup> |
-| of combative | <big><span class="asgreek">μαχίμων</span></big> <sup><small><small>[[G8264]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
+| Heard you not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσας]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| far off | **<big>[[G3113\|μακρόθεν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| made | **<big>[[G4160\|εποίησα]]</big>** |
+| her? | **<big>[[G1473\|αυτήν]]</big>** |
+| From | **<big>[[G1537\|εξ]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| ancient | **<big>[[G0746\|αρχής]]</big>** |
+| I formed | **<big>[[G4111\|έπλασα]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| I brought | **<big>[[G0071\|ήγαγον]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she became | **<big>[[G1096\|εγένετο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| haughtiness | **<big>[[G7371\|επάρσεις]]</big>** |
+| resettlements | **<big>[[G6429\|αποικεσιών]]</big>** |
+| of combative | **<big>[[G8264\|μαχίμων]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of fortified | **<big>[[G8575\|οχυράς]]</big>** |
 [[2Kgs.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.24|<< 2 Kings 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.26|2 Kings 19:26 >>]]</td></tr></table>
 
 

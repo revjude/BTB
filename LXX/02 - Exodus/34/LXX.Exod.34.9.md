@@ -7,34 +7,34 @@ And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray
 “O Lord,” he said, “if I have indeed found favor in Your sight, my Lord, please go with us. Although this is a stiff-necked people, forgive our iniquity and sin, and take us as Your inheritance.”<small><sub>**MT:**</sub></small>
 [[Exod.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.8|<< Exodus 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.10|Exodus 34:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I have found | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| go | <big><span class="asgreek">συμπορευθήτω</span></big> <sup><small><small>[[G4848]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| are hard-necked. | <big><span class="asgreek">σκληροτράχηλός</span></big> <sup><small><small>[[G4644]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remove | <big><span class="asgreek">αφελείς</span></big> <sup><small><small>[[G0851]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins, | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our lawless deeds, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will be | <big><span class="asgreek">εσόμεθά</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| yours. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| I have found | **<big>[[G2147\|εύρηκα]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| go | **<big>[[G4848\|συμπορευθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us! | **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| are hard-necked. | **<big>[[G4644\|σκληροτράχηλός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remove | **<big>[[G0851\|αφελείς]]</big>** **<big>[[G1473\|συ]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sins, | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our lawless deeds, | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will be | **<big>[[G1510\|εσόμεθά]]</big>** |
+| yours. | **<big>[[G1473\|σοι]]</big>** |
 [[Exod.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.8|<< Exodus 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.10|Exodus 34:10 >>]]</td></tr></table>
 
 

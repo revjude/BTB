@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sela</span>, also known as rock or Joktheel, was an Edomite stronghold captured by King Amaziah of Judah \(2 Ki. 14:7; 2 Chr. 25:12; Isa. 16:1; 42:11; Judg. 1:36\).
 - A location first mentioned at [[Judg.1.36|Jdg.1.36]]; 
-- referred to as Sela or Sela \(KJV= Selah\) or Sela \(KJV= "rock"\) <[[H5554]]> \(<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>\), or "rock" \(NIV= "cliff"\) <[[H5553G]]> \(<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>\), or Joktheel<[[H3371H]]> \(<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Sela or Sela \(KJV= Selah\) or Sela \(KJV= "rock"\)  **<big>[[H5554|סֶלַע]]</big>**, or "rock" \(NIV= "cliff"\)  **<big>[[H5553|סֶלַע]]</big>**, or Joktheel **<big>[[H3371|יׇקְתְאֵל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.32243571223214,35.45627946919968&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,9 +10,9 @@ Sela, meaning "rock" in Hebrew, was an Edomite stronghold located in the mountai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sela | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) <small>*Hebrew*</small> | 2x | [[Isa.16.1] & [Isa.42.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=Isa.16.1;Isa.42.11) |
-| Sela (KJV= Selah) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) <small>*Hebrew*</small> | 1x | [2Ki.14.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=2Ki.14.7) |
-| Sela (KJV= rock) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) <small>*Hebrew*</small> | 1x | [Jdg.1.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=Jdg.1.36) |
-| rock (NIV= cliff) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5553G) <small>*Hebrew*</small> | 1x | [2Ch.25.12 ⌕](https://www.stepbible.org/?q=reference=2Ch.25.12) |
-| Joktheel | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3371H) <small>*Hebrew*</small> | 1x | [2Ki.14.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joktheel\*\|reference=2Ki.14.7) |
-All Strong's for **Sela or rock or Joktheel**: \[[[H5554]]\] \[[[H5553G]]\] \[[[H3371H]]\]
+| Sela | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) | 2x | [[Isa.16.1] & [Isa.42.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=Isa.16.1;Isa.42.11) |
+| Sela (KJV= Selah) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) | 1x | [2Ki.14.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=2Ki.14.7) |
+| Sela (KJV= rock) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5554) | 1x | [Jdg.1.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sela\*\|reference=Jdg.1.36) |
+| rock (NIV= cliff) | [<span class='tipnrLangHebrew'>ס</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>](H5553G) | 1x | [2Ch.25.12 ⌕](https://www.stepbible.org/?q=reference=2Ch.25.12) |
+| Joktheel | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3371H) | 1x | [2Ki.14.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joktheel\*\|reference=2Ki.14.7) |
+All entries for **Sela or rock or Joktheel**:  **<big>[[H5554|סֶלַע]]</big>** ☩  **<big>[[H5553|סֶלַע]]</big>** ☩  **<big>[[H3371|יׇקְתְאֵל]]</big>**

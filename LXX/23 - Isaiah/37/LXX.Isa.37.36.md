@@ -7,30 +7,30 @@ Then the angel of the LORD went forth, and smote in the camp of the Assyrians a 
 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!<small><sub>**MT:**</sub></small>
 [[Isa.37.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.35|<< Isaiah 37:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.37|Isaiah 37:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| an angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did away | <big><span class="asgreek">ανείλεν</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| with | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Assyrians -- | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| eighty-five | <big><span class="asgreek">ογδοηκονταπέντε</span></big> <sup><small><small>[[G8440]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising up | <big><span class="asgreek">αναστάντες</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| he found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bodies | <big><span class="asgreek">σώματα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκρά</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| an angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did away | **<big>[[G0337\|ανείλεν]]</big>** |
+| with | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Assyrians -- | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| eighty-five | **<big>[[G8440\|ογδοηκονταπέντε]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| rising up | **<big>[[G0450\|αναστάντες]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| he found | **<big>[[G2147\|εύρον]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bodies | **<big>[[G4983\|σώματα]]</big>** |
+| dead | **<big>[[G3498\|νεκρά]]</big>** |
 [[Isa.37.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.35|<< Isaiah 37:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.37|Isaiah 37:37 >>]]</td></tr></table>
 
 

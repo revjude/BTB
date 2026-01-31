@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָחַב‎</span></big> **çâchab** <small>*(saw-khab')*</small> ==**to drag**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָחַב‎</span></big>** **çâchab** <small>*(saw-khab')*</small> ==**to drag**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ draw (out), tear.
@@ -6,4 +6,4 @@ $\quad$ draw (out), tear.
 
 **1)** (Qal) to drag
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σύρω</span><sup><small>[[G4951]]</small></sup>
+<small>See Greek: </small>**<big>[[G4951|σύρω]]</big>**

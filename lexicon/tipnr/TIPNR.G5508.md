@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chios</span> was an island in the Aegean Sea where Paul's ship stopped during his journey to Jerusalem.
 - A location only mentioned at [[Josh.19.35|Act.20.15]]; 
-- only referred to as Chios<[[G5508]]> \(<span class='tipnrLangGreek'>Χίος</span>\).
+- only referred to as Chios **<big>[[G5508|Χίος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=38.444840,26.063302&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Although the Bible does not provide any further details about Paul's activities 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chios | [<span class='tipnrLangGreek'>Χίος</span>](G5508) <small>*Greek*</small> | 1x | [Act.20.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chios\*\|reference=Act.20.15) |
-All Strong's for **Chios**: \[[[G5508]]\]
+| Chios | [<span class='tipnrLangGreek'>Χίος</span>](G5508) | 1x | [Act.20.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chios\*\|reference=Act.20.15) |
+All entries for **Chios**:  **<big>[[G5508|Χίος]]</big>**

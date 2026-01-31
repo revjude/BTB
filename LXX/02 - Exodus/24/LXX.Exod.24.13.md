@@ -7,21 +7,21 @@ And Moses rose up, and his minister Joshua: and Moses went up into the mount of 
 So Moses set out with Joshua his attendant and went up on the mountain of God.<small><sub>**MT:**</sub></small>
 [[Exod.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.12|<< Exodus 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.14|Exodus 24:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses rising up, | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing beside | <big><span class="asgreek">παρεστηκώς</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses rising up, | **<big>[[G0450\|αναστάς]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| standing beside | **<big>[[G3936\|παρεστηκώς]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
 [[Exod.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.12|<< Exodus 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.14|Exodus 24:14 >>]]</td></tr></table>
 
 

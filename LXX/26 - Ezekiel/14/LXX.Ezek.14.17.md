@@ -7,30 +7,30 @@ Or [if] I bring a sword upon that land, and say, Sword, go through the land; so 
 Or if I bring a sword against that land and say, ‘Let a sword pass through it,’ so that I cut off from it both man and beast,<small><sub>**MT:**</sub></small>
 [[Ezek.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.16|<< Ezekiel 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.18|Ezekiel 14:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I bring | <big><span class="asgreek">επάγω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I should say, | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Let \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| go | <big><span class="asgreek">διελθέτω</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall lift away | <big><span class="asgreek">εξαρώ</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast. | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| a broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| I bring | **<big>[[G1863\|επάγω]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that land, | **<big>[[G1093\|γην]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I should say, | **<big>[[G2036\|είπω]]</big>** |
+| Let \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| go | **<big>[[G1330\|διελθέτω]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land! | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall lift away | **<big>[[G1808\|εξαρώ]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast. | **<big>[[G2934\|κτήνος]]</big>** |
 [[Ezek.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.16|<< Ezekiel 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.18|Ezekiel 14:18 >>]]</td></tr></table>
 
 

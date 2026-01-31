@@ -7,20 +7,20 @@ The wicked walk on every side, when the vilest men are exalted.
 The wicked wander freely, and vileness is exalted among men.<small><sub>**MT:**</sub></small>
 [[Ps.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.7|<< Psalm 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.1|Psalm 13:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| walk | <big><span class="asgreek">περιπατούσι</span></big> <sup><small><small>[[G4043]]</small></small></sup> |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your stature | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you took great care | <big><span class="asgreek">επολυώρησας</span></big> <sup><small><small>[[G8861]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| walk | **<big>[[G4043\|περιπατούσι]]</big>** |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your stature | **<big>[[G5311\|ύψος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you took great care | **<big>[[G8861\|επολυώρησας]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Ps.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.7|<< Psalm 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.1|Psalm 13:1 >>]]</td></tr></table>
 
 

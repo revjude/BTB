@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Hur</span> was one of the twelve district governors appointed by King Solomon to oversee the provision of food for the royal household.
 - A man living at the time of United Monarchy, only mentioned at [[1Kgs.4.8|1Ki.4.8]]; 
-- only referred to as Hur<[[H1133H]]> \(<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>\); 
--  father of Ben-hur<[[H1133G]]>.
+- only referred to as Hur **<big>[[H1133|בֶּן־חוּר]]</big>**; 
+-  father of Ben-hur **<big>[[H1133|בֶּן־חוּר]]</big>**.
 
 Hur is mentioned in [[1Kgs.4.8|1 Kings 4:8]] as one of the twelve district governors appointed by King Solomon during his reign over Israel. Each governor was responsible for providing food for the royal household for one month out of the year. 
 
@@ -19,7 +19,7 @@ Apart from this brief mention in [[1Kgs.4.8|1 Kings 4:8]], no other information 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hur | [<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1133H) <small>*Hebrew*</small> | 1x | [1Ki.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=1Ki.4.8) |
-All Strong's for **Hur**: \[[[H1133H]]\]
+| Hur | [<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1133H) | 1x | [1Ki.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=1Ki.4.8) |
+All entries for **Hur**:  **<big>[[H1133|בֶּן־חוּר]]</big>**
 #### Related Profiles:
 - **[Ben-hur](Ben)** (child)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּשֵׁן‎</span></big> **dâshên** <small>*(daw-shane')*</small> ==**to prosper**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also denominatively (from <span class="ashebrew">‎דֶּשֶׁן‎</span><sup><small>[[H1880]]</small></sup>)</small>
+**<big><span class="ashebrew">‎דָּשֵׁן‎</span></big>** **dâshên** <small>*(daw-shane')*</small> ==**to prosper**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also denominatively (from **<big>[[H1880|‎דֶּשֶׁן‎]]</big>**)</small>
 
 $\quad$ accept, anoint, take away the (receive) ashes (from), make (wax) fat.
 - ***to be fat***
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1b3)** to take away ashes (from altar)
 $\quad$ **1c)** (Pual) to be made fat
 $\quad$ **1d)** (Hothpael) to fatten oneself (of Jehovah's sword)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπίπλημι</span><sup><small>[[G1705]]</small></sup> · <span class="asgreek">παχύνω</span><sup><small>[[G3975]]</small></sup>
+<small>See Greek: </small>**<big>[[G1705|ἐμπίπλημι]]</big>** · **<big>[[G3975|παχύνω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁבְנָא‎</span></big> **Shebnâʼ** <small>*(sheb-naw')*</small> ==**Shebna**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שֶׁבְנָה</span> **Shebnâh** <small>*(sheb-naw')*</small>; from an unused root meaning to grow; growth</small>
+**<big><span class="ashebrew">‎שֶׁבְנָא‎</span></big>** **Shebnâʼ** <small>*(sheb-naw')*</small> ==**Shebna**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שֶׁבְנָה</span></big>** **Shebnâh** <small>*(sheb-naw')*</small>; from an unused root meaning to grow; growth</small>
 
 $\quad$ Shebna, Shebnah.
 - § Shebna = *"vigour"*

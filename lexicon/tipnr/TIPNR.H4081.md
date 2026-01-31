@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Middin</span>, a town in the wilderness of Judah \([[Josh.15.61|Joshua 15:61]]\).
 - A location only mentioned at [[Josh.15.61|Jos.15.61]]; 
-- only referred to as Middin<[[H4081]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Middin **<big>[[H4081|מִדִּין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.743894,35.401591&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Middin is mentioned only once in the Bible, in [[Josh.15.61|Joshua 15:61]], as o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Middin | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ין</span>](H4081) <small>*Hebrew*</small> | 1x | [Jos.15.61 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Middin\*\|reference=Jos.15.61) |
-All Strong's for **Middin**: \[[[H4081]]\]
+| Middin | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ין</span>](H4081) | 1x | [Jos.15.61 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Middin\*\|reference=Jos.15.61) |
+All entries for **Middin**:  **<big>[[H4081|מִדִּין]]</big>**

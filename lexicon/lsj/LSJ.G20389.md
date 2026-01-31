@@ -1,4 +1,4 @@
-spelling of: <small>[[G7341]]</small> 
+spelling of: <small>**<big>[[G7341|ἐξόδιος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐξέλευσις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 

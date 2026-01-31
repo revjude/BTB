@@ -6,20 +6,20 @@ See how the faithful city has become a harlot! She once was full of justice; rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how!  | <span class="ashebrew"><big>אֵיכָה֙ </big></span><small><small><sup>[[H0349B]]</sup></small></small> &#8207;| 'ei.Khah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has become  | <span class="ashebrew"><big>הָיְתָ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a prostitute  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>זוֹנָ֔ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> zo.Nah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a town  | <span class="ashebrew"><big>קִרְיָ֖ה </big></span><small><small><sup>[[H7151]]</sup></small></small> &#8207;| kir.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithful  | <span class="ashebrew"><big>נֶאֱמָנָ֑ה </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| ne.'e.ma.Nah <small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| full of  | <span class="ashebrew"><big>מְלֵאֲתִ֣י </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| me.le.'a.Ti <small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֗ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צֶ֛דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it lodged  | <span class="ashebrew"><big>יָלִ֥ין </big></span><small><small><sup>[[H3885A]]</sup></small></small> &#8207;| ya.Lin <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in it  | <span class="ashebrew"><big>בָּ֖ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ba <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and now  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתָּ֥ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| murderers  | <span class="ashebrew"><big>מְרַצְּחִֽים </big></span><small><small><sup>[[H7523]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.ra.tze.Chim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H0349B\|אֵיכָה֙]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has become  |**<big>&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a prostitute  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2181\|זוֹנָ֔ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a town  |**<big>&#8207;[[H7151\|קִרְיָ֖ה]]&#8207; </big>**| kir.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithful  |**<big>&#8207;[[H0539\|נֶאֱמָנָ֑ה]]&#8207; </big>**| ne.'e.ma.Nah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full of  |**<big>&#8207;[[H4392\|מְלֵאֲתִ֣י]]&#8207; </big>**| me.le.'a.Ti<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֗ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6664G\|צֶ֛דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it lodged  |**<big>&#8207;[[H3885A\|יָלִ֥ין]]&#8207; </big>**| ya.Lin<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  |**<big>&#8207;[[H9003\|בָּ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| murderers  |**<big>&#8207;[[H7523\|מְרַצְּחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.ra.tze.Chim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
 

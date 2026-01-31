@@ -7,49 +7,49 @@ And they shall come from the cities of Judah, and from the places about Jerusale
 And people will come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, and from the foothills, the hill country, and the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and thank offerings to the house of the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.25|<< Jeremiah 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.27|Jeremiah 17:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come | <big><span class="asgreek">ήξουσιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain, | <big><span class="asgreek">πεδινής</span></big> <sup><small><small>[[G3977]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[country\] to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south, | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| bringing | <big><span class="asgreek">φέροντες</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| whole burnt-offerings, | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrifices, | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| incenses, | <big><span class="asgreek">θυμιάματα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| manna, | <big><span class="asgreek">μαννά</span></big> <sup><small><small>[[G3131]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| frankincense; | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
-| bringing | <big><span class="asgreek">φέροντες</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| praise | <big><span class="asgreek">αίνεσιν</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall come | **<big>[[G2240\|ήξουσιν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cities | **<big>[[G4172\|πόλεων]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| plain, | **<big>[[G3977\|πεδινής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| \[country\] to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south, | **<big>[[G3558\|νότον]]</big>** |
+| bringing | **<big>[[G5342\|φέροντες]]</big>** |
+| whole burnt-offerings, | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrifices, | **<big>[[G2378\|θυσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| incenses, | **<big>[[G2368\|θυμιάματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| manna, | **<big>[[G3131\|μαννά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| frankincense; | **<big>[[G3030\|λίβανον]]</big>** |
+| bringing | **<big>[[G5342\|φέροντες]]</big>** |
+| praise | **<big>[[G0133\|αίνεσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Jer.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.25|<< Jeremiah 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.27|Jeremiah 17:27 >>]]</td></tr></table>
 
 

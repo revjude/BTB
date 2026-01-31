@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shunem</span> was a town allotted to the tribe of Issachar \(Josh. 19:18\), known for being the home of the Shunammite woman who hosted Elisha \(2 Ki. 4:8\) and where the Philistines camped before battling Saul \(1 Sam. 28:4\).
 - A location first mentioned at [[Josh.19.18|Jos.19.18]]; 
-- only referred to as Shunem<[[H7766]]> \(<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Shunem **<big>[[H7766|שׁוּנֵם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.60563102234625,35.33430585716489&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The town of Shunem was strategically located along the main trade route connecti
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shunem | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>](H7766) <small>*Hebrew*</small> | 3x | [[Jos.19.18] ... [2Ki.4.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shunem\*\|reference=Jos.19.18;1Sa.28.4;2Ki.4.8) |
-All Strong's for **Shunem**: \[[[H7766]]\]
+| Shunem | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>](H7766) | 3x | [[Jos.19.18] ... [2Ki.4.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shunem\*\|reference=Jos.19.18;1Sa.28.4;2Ki.4.8) |
+All entries for **Shunem**:  **<big>[[H7766|שׁוּנֵם]]</big>**

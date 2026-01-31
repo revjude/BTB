@@ -7,21 +7,21 @@ Then shall [his] mind change, and he shall pass over, and offend, [imputing] thi
 Then they sweep by like the wind and pass through. They are guilty; their own strength is their god.”<small><sub>**MT:**</sub></small>
 [[Hab.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.10|<< Habakkuk 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.12|Habakkuk 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| he shall turn | <big><span class="asgreek">μεταβαλεί</span></big> <sup><small><small>[[G3328]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go through, | <big><span class="asgreek">διελεύσεται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall make atonement, \[saying\], | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| This | <big><span class="asgreek">άυτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \[is to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my god. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| he shall turn | **<big>[[G3328\|μεταβαλεί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit, | **<big>[[G4151\|πνεύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall go through, | **<big>[[G1330\|διελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall make atonement, \[saying\], | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| This | **<big>[[G1473\|άυτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| strength | **<big>[[G2479\|ισχύς]]</big>** |
+| \[is to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my god. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Hab.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.10|<< Habakkuk 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.12|Habakkuk 1:12 >>]]</td></tr></table>
 
 

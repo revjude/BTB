@@ -6,23 +6,23 @@ There they are, overwhelmed with dread, where there was nothing to fear. For God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.4|<< Psalms 53:4]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.6|Psalms 53:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there  | <span class="ashebrew"><big>שָׁ֤ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they feared  | <span class="ashebrew"><big>פָּֽחֲדוּ </big></span><small><small><sup>[[H6342]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pa.cha.du- <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fear  | <span class="ashebrew"><big>פַחַד֮ </big></span><small><small><sup>[[H6343]]</sup></small></small> &#8207;| fa.Chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was  | <span class="ashebrew"><big>הָ֪יָה֫ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fear  | <span class="ashebrew"><big>פָ֥חַד </big></span><small><small><sup>[[H6343]]</sup></small></small> &#8207;| Fa.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has scattered  | <span class="ashebrew"><big>פִּ֭זַּר </big></span><small><small><sup>[[H6340]]</sup></small></small> &#8207;| Pi.zar <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] bones of  | <span class="ashebrew"><big>עַצְמ֣וֹת </big></span><small><small><sup>[[H6106G]]</sup></small></small> &#8207;| atz.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] encamped against you  | <span class="ashebrew"><big>חֹנָ֑ </big></span><small><small><sup>[[H2583]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| cho.Na <small><sup>[[HVqrmsc]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have put [them] to shame  | <span class="ashebrew"><big>הֱ֝בִשֹׁ֗תָה </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| he.vi.Sho.tah <small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֥ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has rejected them  | <span class="ashebrew"><big>מְאָסָֽ </big></span><small><small><sup>[[H3988A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'a.Sa <small><sup>[[HVqp3ms]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they feared  |**<big>&#8207;[[H6342\|פָּֽחֲדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pa.cha.du-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fear  |**<big>&#8207;[[H6343\|פַחַד֮]]&#8207; </big>**| fa.Chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was  |**<big>&#8207;[[H1961\|הָ֪יָה֫]]&#8207; </big>**| ha.yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fear  |**<big>&#8207;[[H6343\|פָ֥חַד]]&#8207; </big>**| Fa.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has scattered  |**<big>&#8207;[[H6340\|פִּ֭זַּר]]&#8207; </big>**| Pi.zar<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bones of  |**<big>&#8207;[[H6106G\|עַצְמ֣וֹת]]&#8207; </big>**| atz.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] encamped against you  |**<big>&#8207;[[H2583\|חֹנָ֑]]&#8207;&#8207;[[H9031\|ךְ]]&#8207; </big>**| cho.Na<small><sup>[[HVqrmsc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have put [them] to shame  |**<big>&#8207;[[H0954\|הֱ֝בִשֹׁ֗תָה]]&#8207; </big>**| he.vi.Sho.tah<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has rejected them  |**<big>&#8207;[[H3988A\|מְאָסָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'a.Sa<small><sup>[[HVqp3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.4|<< Psalms 53:4]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.6|Psalms 53:6 >>]]</td></tr></table>
 
 

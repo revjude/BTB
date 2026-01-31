@@ -7,27 +7,27 @@ Be thou ashamed, O Zidon: for the sea hath spoken, [even] the strength of the se
 Be ashamed, O Sidon, the stronghold of the sea, for the sea has spoken: “I have not been in labor or given birth. I have not raised young men or brought up young women.”<small><sub>**MT:**</sub></small>
 [[Isa.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.3|<< Isaiah 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.5|Isaiah 23:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be ashamed, | <big><span class="asgreek">αισχύνθητι</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| O Sidon, | <big><span class="asgreek">Σιδών</span></big> <sup><small><small>[[G4605]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea! | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| Even the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I travailed not, | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ώδινον</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| gave birth, | <big><span class="asgreek">έτεκον</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| nourished | <big><span class="asgreek">εξέθρεψα</span></big> <sup><small><small>[[G1625]]</small></small></sup> |
-| young ones, | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| raised up | <big><span class="asgreek">ύψωσα</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| virgins. | <big><span class="asgreek">παρθένους</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| Be ashamed, | **<big>[[G0153\|αισχύνθητι]]</big>** |
+| O Sidon, | **<big>[[G4605\|Σιδών]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea! | **<big>[[G2281\|θάλασσα]]</big>** |
+| Even the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| strength | **<big>[[G2479\|ισχύς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| I travailed not, | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5605\|ώδινον]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| gave birth, | **<big>[[G5088\|έτεκον]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| nourished | **<big>[[G1625\|εξέθρεψα]]</big>** |
+| young ones, | **<big>[[G3495\|νεανίσκους]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| raised up | **<big>[[G5312\|ύψωσα]]</big>** |
+| virgins. | **<big>[[G3933\|παρθένους]]</big>** |
 [[Isa.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.3|<< Isaiah 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.5|Isaiah 23:5 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ And they said, Should he deal with our sister as with an harlot?
 But they replied, “Should he have treated our sister like a prostitute?”<small><sub>**MT:**</sub></small>
 [[Gen.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.30|<< Genesis 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.1|Genesis 35:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they said, | <big><span class="asgreek">ειπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a harlot | <big><span class="asgreek">πόρνη</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| they treated | <big><span class="asgreek">χρήσονται</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our sister. | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| they said, | **<big>[[G2036\|ειπον]]</big>** |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a harlot | **<big>[[G4204\|πόρνη]]</big>** |
+| they treated | **<big>[[G5530\|χρήσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| our sister. | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Gen.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.30|<< Genesis 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.1|Genesis 35:1 >>]]</td></tr></table>
 
 

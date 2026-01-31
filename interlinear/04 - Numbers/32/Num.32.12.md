@@ -6,20 +6,20 @@ not one except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun—beca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.11|<< Numbers 32:11]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.13|Numbers 32:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| except  | <span class="ashebrew"><big>בִּלְתִּ֞י </big></span><small><small><sup>[[H1115]]</sup></small></small> &#8207;| bil.Ti <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Caleb  | <span class="ashebrew"><big>כָּלֵ֤ב </big></span><small><small><sup>[[H3612G]]</sup></small></small> &#8207;| ka.Lev <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephunneh  | <span class="ashebrew"><big>יְפֻנֶּה֙ </big></span><small><small><sup>[[H3312G]]</sup></small></small> &#8207;| ye.fu.Neh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Kenizzite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קְּנִזִּ֔י </big></span><small><small><sup>[[H7074H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ke.ni.Zi <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Joshua  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוֹשֻׁ֖עַ </big></span><small><small><sup>[[H3091G]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> ho.Shu.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בִּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bin- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nun  | <span class="ashebrew"><big>נ֑וּן </big></span><small><small><sup>[[H5126]]</sup></small></small> &#8207;| Nun <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have filled  | <span class="ashebrew"><big>מִלְא֖וּ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mil.'U <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֥י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  |**<big>&#8207;[[H1115\|בִּלְתִּ֞י]]&#8207; </big>**| bil.Ti<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Caleb  |**<big>&#8207;[[H3612G\|כָּלֵ֤ב]]&#8207; </big>**| ka.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּה֙]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kenizzite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7074H\|קְּנִזִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ni.Zi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joshua  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3091G\|יהוֹשֻׁ֖עַ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בִּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bin-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nun  |**<big>&#8207;[[H5126\|נ֑וּן]]&#8207; </big>**| Nun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have filled  |**<big>&#8207;[[H4390\|מִלְא֖וּ]]&#8207; </big>**| mil.'U<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֥י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.11|<< Numbers 32:11]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.13|Numbers 32:13 >>]]</td></tr></table>
 
 

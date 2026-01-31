@@ -7,26 +7,26 @@ And God saw every thing that he had made, and, behold, [it was] very good. And t
 And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day.<small><sub>**MT:**</sub></small>
 [[Gen.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.30|<< Genesis 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.1|Genesis 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he made. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, \[it was\] | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| good | <big><span class="asgreek">καλά</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρα</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] sixth | <big><span class="asgreek">έκτη</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God beheld | **<big>[[G1492\|είδεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| he made. | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, \[it was\] | **<big>[[G2400\|ιδού]]</big>** |
+| good | **<big>[[G2570\|καλά]]</big>** |
+| exceedingly | **<big>[[G3029\|λίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| evening | **<big>[[G2073\|εσπέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| morning, | **<big>[[G4404\|πρωϊ]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \[the\] sixth | **<big>[[G1623\|έκτη]]</big>** |
 [[Gen.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.30|<< Genesis 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.1|Genesis 2:1 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ King living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Husham</span> was a king of Edom who reigned before the Israelites had kings, according to the genealogies in Genesis and 1 Chronicles.
 - An Edomite king living at the time of the Patriarchs, first mentioned at [[Gen.36.34|Gen.36.34]]; 
-- only referred to as Husham<[[H2367]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Husham **<big>[[H2367|חוּשָׁם]]</big>**.
 
 Husham is mentioned in the genealogies of Edom in [[Gen.36.34|Genesis 36:34]]-35 and [[1Chr.1.45|1 Chronicles 1:45]]-46. He was one of the kings who reigned in Edom before any Israelite king reigned. 
 
@@ -18,5 +18,5 @@ These genealogies also serve to highlight the fulfillment of God's promise to Ab
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Husham | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ם</span>](H2367) <small>*Hebrew*</small> | 4x | [[Gen.36.34] ... [1Ch.1.46] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Husham\*\|reference=Gen.36.34;Gen.36.35;1Ch.1.45;1Ch.1.46) |
-All Strong's for **Husham**: \[[[H2367]]\]
+| Husham | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ם</span>](H2367) | 4x | [[Gen.36.34] ... [1Ch.1.46] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Husham\*\|reference=Gen.36.34;Gen.36.35;1Ch.1.45;1Ch.1.46) |
+All entries for **Husham**:  **<big>[[H2367|חוּשָׁם]]</big>**

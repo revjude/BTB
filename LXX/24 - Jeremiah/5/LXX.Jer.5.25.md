@@ -7,20 +7,20 @@ Your iniquities have turned away these [things], and your sins have withholden g
 Your iniquities have diverted these from you; your sins have deprived you of My bounty.<small><sub>**MT:**</sub></small>
 [[Jer.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.24|<< Jeremiah 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.26|Jeremiah 5:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your lawless deeds | <big><span class="asgreek">ανομίαι</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| turned aside | <big><span class="asgreek">εξέκλιναν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins | <big><span class="asgreek">αμαρτίαι</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| removed | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your lawless deeds | **<big>[[G0458\|ανομίαι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| turned aside | **<big>[[G1578\|εξέκλιναν]]</big>** |
+| these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your sins | **<big>[[G0266\|αμαρτίαι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| removed | **<big>[[G0868\|απέστησαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Jer.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.24|<< Jeremiah 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.26|Jeremiah 5:26 >>]]</td></tr></table>
 
 

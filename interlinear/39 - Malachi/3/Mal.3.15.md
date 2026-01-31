@@ -6,20 +6,20 @@ So now we call the arrogant blessed. Not only do evildoers prosper, they even te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and therefore  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתָּ֕ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we  | <span class="ashebrew"><big>אֲנַ֖חְנוּ </big></span><small><small><sup>[[H0587]]</sup></small></small> &#8207;| 'a.Nach.nu <small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] calling blessed  | <span class="ashebrew"><big>מְאַשְּׁרִ֣ים </big></span><small><small><sup>[[H0833]]</sup></small></small> &#8207;| me.'a.she.Rim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrogant [people]  | <span class="ashebrew"><big>זֵדִ֑ים </big></span><small><small><sup>[[H2086]]</sup></small></small> &#8207;| ze.Dim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| both  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have been built up  | <span class="ashebrew"><big>נִבְנוּ֙ </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| niv.Nu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] do  | <span class="ashebrew"><big>עֹשֵׂ֣י </big></span><small><small><sup>[[H6213J]]</sup></small></small> &#8207;| 'o.Sei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> wickedness  | <span class="ashebrew"><big>רִשְׁעָ֔ה </big></span><small><small><sup>[[H7564]]</sup></small></small> &#8207;| rish.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as well as  | <span class="ashebrew"><big>גַּ֧ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have tested  | <span class="ashebrew"><big>בָּחֲנ֛וּ </big></span><small><small><sup>[[H0974]]</sup></small></small> &#8207;| ba.cha.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they have escaped  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּמָּלֵֽטוּ </big></span><small><small><sup>[[H4422]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.ma.Le.tu <small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  |**<big>&#8207;[[H0587\|אֲנַ֖חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] calling blessed  |**<big>&#8207;[[H0833\|מְאַשְּׁרִ֣ים]]&#8207; </big>**| me.'a.she.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrogant [people]  |**<big>&#8207;[[H2086\|זֵדִ֑ים]]&#8207; </big>**| ze.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been built up  |**<big>&#8207;[[H1129\|נִבְנוּ֙]]&#8207; </big>**| niv.Nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] do  |**<big>&#8207;[[H6213J\|עֹשֵׂ֣י]]&#8207; </big>**| 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> wickedness  |**<big>&#8207;[[H7564\|רִשְׁעָ֔ה]]&#8207; </big>**| rish.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as well as  |**<big>&#8207;[[H1571\|גַּ֧ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have tested  |**<big>&#8207;[[H0974\|בָּחֲנ֛וּ]]&#8207; </big>**| ba.cha.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have escaped  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4422\|יִּמָּלֵֽטוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.Le.tu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
 

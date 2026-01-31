@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gezer</span>, also known as Gob, was a Canaanite city conquered by Joshua and later by David, and it was fortified by Solomon \([[Josh.10.33|Joshua 10:33]]; 12:12; 16:3, 10; 21:21; Judges 1:29; [[2Sam.5.25|2 Samuel 5:25]]; 21:18-19; [[1Kgs.9.15|1 Kings 9:15]]-17; [[1Chr.6.67|1 Chronicles 6:67]]; 7:28; 14:16; 20:4\).
 - A location first mentioned at [[Josh.10.33|Jos.10.33]]; 
-- referred to as Gezer<[[H1507]]> \(<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>\), or Gob<[[H1359]]> \(<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>\).
+- referred to as Gezer **<big>[[H1507|גֶּזֶר]]</big>**, or Gob **<big>[[H1359|גֹּב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.87611111111111,34.9225&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Gezer, also referred to as Gob, was a significant Canaanite city located in the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gezer | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1507) <small>*Hebrew*</small> | 15x | [[Jos.10.33] ... [1Ch.20.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gezer\*\|reference=Jos.10.33;Jos.12.12;Jos.16.3;Jos.16.10;Jos.21.21;Jdg.1.29;Jdg.1.29;2Sa.5.25;1Ki.9.15;1Ki.9.16;1Ki.9.17;1Ch.6.67;1Ch.7.28;1Ch.14.16;1Ch.20.4) |
-| Gob | [<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>](H1359) <small>*Hebrew*</small> | 2x | [[2Sa.21.18] & [2Sa.21.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gob\*\|reference=2Sa.21.18;2Sa.21.19) |
-All Strong's for **Gezer or Gob**: \[[[H1507]]\] \[[[H1359]]\]
+| Gezer | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1507) | 15x | [[Jos.10.33] ... [1Ch.20.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gezer\*\|reference=Jos.10.33;Jos.12.12;Jos.16.3;Jos.16.10;Jos.21.21;Jdg.1.29;Jdg.1.29;2Sa.5.25;1Ki.9.15;1Ki.9.16;1Ki.9.17;1Ch.6.67;1Ch.7.28;1Ch.14.16;1Ch.20.4) |
+| Gob | [<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>](H1359) | 2x | [[2Sa.21.18] & [2Sa.21.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gob\*\|reference=2Sa.21.18;2Sa.21.19) |
+All entries for **Gezer or Gob**:  **<big>[[H1507|גֶּזֶר]]</big>** ☩  **<big>[[H1359|גֹּב]]</big>**

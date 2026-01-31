@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎חוֹל‎</span></big> **chôwl** <small>*(khole)*</small> ==**sand**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חוּל‎</span><sup><small>[[H2342]]</small></sup></small>
+**<big><span class="ashebrew">‎חוֹל‎</span></big>** **chôwl** <small>*(khole)*</small> ==**sand**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2342|‎חוּל‎]]</big>**</small>
 
 $\quad$ sand.
 - ***sand*** (as round or whirling particles)
 
 **1)** sand
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄμμος</span><sup><small>[[G0285]]</small></sup> · <span class="asgreek">βέβηλος</span><sup><small>[[G0952]]</small></sup> · <span class="asgreek">παράλιος</span><sup><small>[[G3882]]</small></sup>
+<small>See Greek: </small>**<big>[[G0285|ἄμμος]]</big>** · **<big>[[G0952|βέβηλος]]</big>** · **<big>[[G3882|παράλιος]]</big>**

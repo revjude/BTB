@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶלֶף‎</span></big> **ʼeleph** <small>*(eh'-lef)*</small> ==**cattle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָלַף‎</span><sup><small>[[H0502]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶלֶף‎</span></big>** **ʼeleph** <small>*(eh'-lef)*</small> ==**cattle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0502|‎אָלַף‎]]</big>**</small>
 
 $\quad$ family, kine, oxen.
 - ***a family***
@@ -9,4 +9,4 @@ $\quad$ family, kine, oxen.
 $\quad$ **1a)** in farming
 $\quad$ **1b)** as a possession
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ταῦρος</span><sup><small>[[G5022]]</small></sup>
+<small>See Greek: </small>**<big>[[G5022|ταῦρος]]</big>**

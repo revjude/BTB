@@ -10,27 +10,27 @@ And it came to pass after these things, [that] Naboth the Jezreelite had a viney
 Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria.<small><sub>**MT:**</sub></small>
 [[1Kgs.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.43|<< 1 Kings 20:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.2|1 Kings 21:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words, | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vineyard | <big><span class="asgreek">αμπελών</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[there\] was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Naboth | <big><span class="asgreek">Ναβούθ</span></big> <sup><small><small>[[H5022]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jezreelite, | <big><span class="asgreek">Ιεζραηλίτη</span></big> <sup><small><small>[[H3158]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Samaria. | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these words, | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| vineyard | **<big>[[G0290\|αμπελών]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| \[there\] was | **<big>[[G1510\|ην]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Naboth | **<big>[[H5022\|Ναβούθ]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| Jezreelite, | **<big>[[H3158\|Ιεζραηλίτη]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Samaria. | **<big>[[G4541\|Σαμαρείας]]</big>** |
 [[1Kgs.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.43|<< 1 Kings 20:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.2|1 Kings 21:2 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תָּבוֹר‎</span></big> **Tâbôwr** <small>*(taw-bore')*</small> ==**(Mount) Tabor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from a root corresponding to <span class="asaramaic">‎תְּבַר‎</span><sup><small>[[H8406]]</small></sup>; broken region</small>
+**<big><span class="ashebrew">‎תָּבוֹר‎</span></big>** **Tâbôwr** <small>*(taw-bore')*</small> ==**(Mount) Tabor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from a root corresponding to **<big>[[H8406|‎תְּבַר‎]]</big>**; broken region</small>
 
 $\quad$ Tabor.
 - § Tabor = *"mound"*

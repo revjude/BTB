@@ -1,4 +1,4 @@
-meaning of: <small>[[G4245G]]</small> 
+meaning of: <small>**<big>[[G4245G|πρεσβύτερος]]</big>**</small> 
 
 
 Related to: <b> <span class='asgreek'>==πρεσβύτερος==</span></b> 

@@ -7,29 +7,29 @@ And he said, Let him alone; let no man move his bones. So they let his bones alo
 “Let him rest,” said Josiah. “Do not let anyone disturb his bones.” So they left his bones undisturbed, along with those of the prophet who had come from Samaria.<small><sub>**MT:**</sub></small>
 [[2Kgs.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.17|<< 2 Kings 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.19|2 Kings 23:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Allow | <big><span class="asgreek">εάσατε</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| no one | <big><span class="asgreek">μηδεις</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| move | <big><span class="asgreek">κινησάτω</span></big> <sup><small><small>[[G2795]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bones! | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he preserved | <big><span class="asgreek">ερρύσθησαν</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστέων</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having come | <big><span class="asgreek">ήκοντος</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Samaria. | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Allow | **<big>[[G1439\|εάσατε]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| no one | **<big>[[G3367\|μηδεις]]</big>** |
+| move | **<big>[[G2795\|κινησάτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his bones! | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he preserved | **<big>[[G4506\|ερρύσθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| bones | **<big>[[G3747\|οστέων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| prophet | **<big>[[G4396\|προφήτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| having come | **<big>[[G2240\|ήκοντος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Samaria. | **<big>[[G4541\|Σαμαρείας]]</big>** |
 [[2Kgs.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.17|<< 2 Kings 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.19|2 Kings 23:19 >>]]</td></tr></table>
 
 

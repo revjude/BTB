@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎חָרָה‎</span></big> **chârâh** <small>*(khaw-raw')*</small> ==**to be incensed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חָרַר‎</span><sup><small>[[H2787]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָרָה‎</span></big>** **chârâh** <small>*(khaw-raw')*</small> ==**to be incensed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2787|‎חָרַר‎]]</big>**)</small>
 
-$\quad$ be angry, burn, be displeased, [idiom] earnestly, fret self, grieve, be (wax) hot, be incensed, kindle, [idiom] very, be wroth. See <span class="ashebrew">‎תַּחָרָה‎</span><sup><small>[[H8474]]</small></sup>.
+$\quad$ be angry, burn, be displeased, [idiom] earnestly, fret self, grieve, be (wax) hot, be incensed, kindle, [idiom] very, be wroth. See **<big>[[H8474|‎תַּחָרָה‎]]</big>**.
 - ***to glow*** or ***grow warm***
 -  figuratively (usually) ***to blaze up***, ***of anger***, ***zeal***, ***jealousy***
 
@@ -11,4 +11,4 @@ $\quad$ **1b)** (Niphal) to be angry with, be incensed
 $\quad$ **1c)** (Hiphil) to burn, kindle
 $\quad$ **1d)** (Hithpael) to heat oneself in vexation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀθυμέω</span><sup><small>[[G0120]]</small></sup> · <span class="asgreek">ἀντίκειμαι</span><sup><small>[[G0480]]</small></sup> · <span class="asgreek">ἀποκρίνομαι</span><sup><small>[[G0611]]</small></sup> · <span class="asgreek">βαρέως</span><sup><small>[[G0917]]</small></sup> · <span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">λυπέω</span><sup><small>[[G3076]]</small></sup> · <span class="asgreek">μάχομαι</span><sup><small>[[G3164]]</small></sup> · <span class="asgreek">ὀργίζω</span><sup><small>[[G3710]]</small></sup> · <span class="asgreek">παραζηλόω</span><sup><small>[[G3863]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup> · <span class="asgreek">φαίνω</span><sup><small>[[G5316]]</small></sup> · <span class="asgreek">φαίνω</span><sup><small>[[G5316]]</small></sup> · <span class="asgreek">φαίνω</span><sup><small>[[G5316]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup>
+<small>See Greek: </small>**<big>[[G0120|ἀθυμέω]]</big>** · **<big>[[G0480|ἀντίκειμαι]]</big>** · **<big>[[G0611|ἀποκρίνομαι]]</big>** · **<big>[[G0917|βαρέως]]</big>** · **<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G2373|θυμόω]]</big>** · **<big>[[G2373|θυμόω]]</big>** · **<big>[[G3076|λυπέω]]</big>** · **<big>[[G3164|μάχομαι]]</big>** · **<big>[[G3710|ὀργίζω]]</big>** · **<big>[[G3863|παραζηλόω]]</big>** · **<big>[[G3947|παροξύνω]]</big>** · **<big>[[G4642|σκληρός]]</big>** · **<big>[[G5316|φαίνω]]</big>** · **<big>[[G5316|φαίνω]]</big>** · **<big>[[G5316|φαίνω]]</big>** · **<big>[[G5342|φέρω]]</big>**

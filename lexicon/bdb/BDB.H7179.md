@@ -1,4 +1,4 @@
-<small>Also see: [[H3368]]</small>
+<small>Also see: **<big>[[H3368|יָקָר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎קַר‎</span> **adjective** ==cool==; — construct (figurative) <span class="bdbLangHebrew">‎וְקַררֿוּחַ‎</span> [[Prov.17.27|Prov 17:27]] ([[BDB#Kt|Kt]]) ***cool of spirit***, i.e. calm, self-possessed ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎יְקַרֿ‎</span>); plural <span class="bdbLangHebrew">‎קָרִים‎</span> of water [[Jer.18.14|Jer 18:14]]; [[Prov.25.25|Prov 25:25]]. 
 

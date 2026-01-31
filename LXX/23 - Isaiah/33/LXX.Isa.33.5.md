@@ -7,19 +7,19 @@ The LORD is exalted; for he dwelleth on high: he hath filled Zion with judgment 
 The LORD is exalted, for He dwells on high; He has filled Zion with justice and righteousness.<small><sub>**MT:**</sub></small>
 [[Isa.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| heavens. | <big><span class="asgreek">ουρανοίς</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| Zion shall be filled up | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| with equity | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| Holy | **<big>[[G0039\|άγιος]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| heavens. | **<big>[[G3772\|ουρανοίς]]</big>** |
+| Zion shall be filled up | **<big>[[G1705\|ενεπλήσθη]]</big>** **<big>[[G4622\|Σιών]]</big>** |
+| with equity | **<big>[[G2920\|κρίσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| righteousness. | **<big>[[G1343\|δικαιοσύνης]]</big>** |
 [[Isa.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
 

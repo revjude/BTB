@@ -7,25 +7,25 @@ And he cast for it four rings of gold, and put the rings upon the four corners t
 He cast four gold rings for the table and fastened them to the four corners at its four legs.<small><sub>**MT:**</sub></small>
 [[Exod.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.12|<< Exodus 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.14|Exodus 37:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he cast | <big><span class="asgreek">εχώνευσεν</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| for it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| golden | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">επέθηκε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| parts | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by \[its\] feet. | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he cast | **<big>[[G9779\|εχώνευσεν]]</big>** |
+| for it | **<big>[[G1473\|αυτή]]</big>** |
+| four | **<big>[[G5064\|τέσσαρας]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίους]]</big>** |
+| golden | **<big>[[G5552\|χρυσούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2007\|επέθηκε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| four | **<big>[[G5064\|τέσσαρας]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίους]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| parts | **<big>[[G3313\|μέρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| by \[its\] feet. | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Exod.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.12|<< Exodus 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.14|Exodus 37:14 >>]]</td></tr></table>
 
 

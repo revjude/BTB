@@ -7,19 +7,19 @@ When righteous [men] do rejoice, [there is] great glory: but when the wicked ris
 When the righteous triumph, there is great glory, but when the wicked rise, men hide themselves.<small><sub>**MT:**</sub></small>
 [[Prov.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.11|<< Proverbs 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.13|Proverbs 28:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] help | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| of \[the\] just ones | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| comes to pass | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| but in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] places | <big><span class="asgreek">τόποις</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| are being captured | <big><span class="asgreek">αλίσκονται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| Through | **<big>[[G1223\|διά]]</big>** |
+| \[the\] help | **<big>[[G0996\|βοήθειαν]]</big>** |
+| of \[the\] just ones | **<big>[[G1342\|δικαίων]]</big>** |
+| much | **<big>[[G4183\|πολλή]]</big>** |
+| comes to pass | **<big>[[G1096\|γίνεται]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| but in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] places | **<big>[[G5117\|τόποις]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβών]]</big>** |
+| are being captured | **<big>[[G6226\|αλίσκονται]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
 [[Prov.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.11|<< Proverbs 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.13|Proverbs 28:13 >>]]</td></tr></table>
 
 

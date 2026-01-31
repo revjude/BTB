@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָצָה‎</span></big> **qâtsâh** <small>*(kaw-tsaw')*</small> ==**to cut off**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָצָה‎</span></big>** **qâtsâh** <small>*(kaw-tsaw')*</small> ==**to cut off**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut off, cut short, scrape (off).

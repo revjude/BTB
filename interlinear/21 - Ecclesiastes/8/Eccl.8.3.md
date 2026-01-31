@@ -6,21 +6,21 @@ Do not hasten to leave his presence, and do not persist in a bad cause, for he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be hasty  | <span class="ashebrew"><big>תִּבָּהֵ֤ל </big></span><small><small><sup>[[H0926]]</sup></small></small> &#8207;| ti.ba.Hel <small><sup>[[HVNj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before him  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פָּנָי </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pa.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will go  | <span class="ashebrew"><big>תֵּלֵ֔ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| te.Lekh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַֽל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you stand  | <span class="ashebrew"><big>תַּעֲמֹ֖ד </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| ta.'a.Mod <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a matter  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דָבָ֣ר </big></span><small><small><sup>[[H1697L]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָ֑ע </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will desire  | <span class="ashebrew"><big>יַחְפֹּ֖ץ </big></span><small><small><sup>[[H2654A]]</sup></small></small> &#8207;| yach.Potz <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will do  | <span class="ashebrew"><big>יַעֲשֶֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be hasty  |**<big>&#8207;[[H0926\|תִּבָּהֵ֤ל]]&#8207; </big>**| ti.ba.Hel<small><sup>[[HVNj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before him  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440H\|פָּנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will go  |**<big>&#8207;[[H1980G\|תֵּלֵ֔ךְ]]&#8207; </big>**| te.Lekh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you stand  |**<big>&#8207;[[H5975G\|תַּעֲמֹ֖ד]]&#8207; </big>**| ta.'a.Mod<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a matter  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1697L\|דָבָ֣ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451H\|רָ֑ע]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will desire  |**<big>&#8207;[[H2654A\|יַחְפֹּ֖ץ]]&#8207; </big>**| yach.Potz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will do  |**<big>&#8207;[[H6213A\|יַעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
 

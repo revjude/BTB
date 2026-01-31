@@ -7,38 +7,38 @@ And for the altar of incense refined gold by weight; and gold for the pattern of
 the weight of the refined gold for the altar of incense; and the plans for the chariot of the gold cherubim that spread their wings and overshadowed the ark of the covenant of the LORD.<small><sub>**MT:**</sub></small>
 [[1Chr.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.17|<< 1 Chronicles 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.19|1 Chronicles 28:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| incenses | <big><span class="asgreek">θυμιαμάτων</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| \[the\] weight | <big><span class="asgreek">σταθμόν</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| \[the\] unadulterated | <big><span class="asgreek">δοκίμου</span></big> <sup><small><small>[[G1384]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he plainly showed | <big><span class="asgreek">υπέδειξεν</span></big> <sup><small><small>[[G5263]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plan | <big><span class="asgreek">παράδειγμα</span></big> <sup><small><small>[[G8606]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim, | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opening and spreading out | <big><span class="asgreek">διαπεπετασμένων</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wings, | <big><span class="asgreek">πτέρυξι</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shadowing | <big><span class="asgreek">σκιαζόντων</span></big> <sup><small><small>[[G9106]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of \[the\] covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| incenses | **<big>[[G2368\|θυμιαμάτων]]</big>** |
+| \[the\] weight | **<big>[[G9150\|σταθμόν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| \[the\] unadulterated | **<big>[[G1384\|δοκίμου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he plainly showed | **<big>[[G5263\|υπέδειξεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plan | **<big>[[G8606\|παράδειγμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| chariot | **<big>[[G0716\|άρματος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cherubim, | **<big>[[G5502\|χερουβίμ]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| opening and spreading out | **<big>[[G6861\|διαπεπετασμένων]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| wings, | **<big>[[G4420\|πτέρυξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shadowing | **<big>[[G9106\|σκιαζόντων]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of \[the\] covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Chr.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.17|<< 1 Chronicles 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.19|1 Chronicles 28:19 >>]]</td></tr></table>
 
 

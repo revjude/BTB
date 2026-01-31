@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵחִי‎</span></big> **ʼÊchîy** <small>*(ay-khee')*</small> ==**Ehi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably the same as <span class="ashebrew">‎אֲחִי‎</span><sup><small>[[H0277]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵחִי‎</span></big>** **ʼÊchîy** <small>*(ay-khee')*</small> ==**Ehi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably the same as **<big>[[H0277|‎אֲחִי‎]]</big>**</small>
 
 $\quad$ Ehi.
 - § Ehi = *"my brother"*

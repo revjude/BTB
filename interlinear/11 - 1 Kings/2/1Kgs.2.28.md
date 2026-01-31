@@ -6,29 +6,29 @@ When the news reached Joab, who had conspired with Adonijah but not with Absalom
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.27|<< 1 Kings 2:27]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.29|1 Kings 2:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the report  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁמֻעָה֙ </big></span><small><small><sup>[[H8052]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> she.mu.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>בָּ֣אָה </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joab  | <span class="ashebrew"><big>יוֹאָ֔ב </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joab  | <span class="ashebrew"><big>יוֹאָ֗ב </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had turned aside  | <span class="ashebrew"><big>נָטָה֙ </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| na.Tah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֣י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Adonijah  | <span class="ashebrew"><big>אֲדֹנִיָּ֔ה </big></span><small><small><sup>[[H0138G]]</sup></small></small> &#8207;| 'a.do.ni.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and after  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַחֲרֵ֥י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Absalom  | <span class="ashebrew"><big>אַבְשָׁל֖וֹם </big></span><small><small><sup>[[H0053]]</sup></small></small> &#8207;| 'av.sha.Lom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had turned aside  | <span class="ashebrew"><big>נָטָ֑ה </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| na.Tah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he fled  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֤נָס </big></span><small><small><sup>[[H5127]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.nos <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joab  | <span class="ashebrew"><big>יוֹאָב֙ </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tent of  | <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he took hold  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּחֲזֵ֖ק </big></span><small><small><sup>[[H2388H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.cha.Zek <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] horns of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קַרְנ֥וֹת </big></span><small><small><sup>[[H7161A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kar.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the altar  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּזְבֵּֽחַ </big></span><small><small><sup>[[H4196]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> miz.Be.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the report  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8052\|שְּׁמֻעָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H0935G\|בָּ֣אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֔ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֗ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had turned aside  |**<big>&#8207;[[H5186\|נָטָה֙]]&#8207; </big>**| na.Tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּ֔ה]]&#8207; </big>**| 'a.do.ni.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֖וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had turned aside  |**<big>&#8207;[[H5186\|נָטָ֑ה]]&#8207; </big>**| na.Tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּ֤נָס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  |**<big>&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took hold  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2388H\|יַּחֲזֵ֖ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Zek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] horns of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7161A\|קַרְנ֥וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kar.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּֽחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.27|<< 1 Kings 2:27]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.29|1 Kings 2:29 >>]]</td></tr></table>
 
 

@@ -14,26 +14,26 @@ Now when the queen of Sheba heard about the fame of Solomon concerning the name 
 > $\quad$ referenced by: [[Matt.12.42|Matt 12:42]] ☩ [[Luke.11.31|Luke 11:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] queen | <big><span class="asgreek">βασίλισσα</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| of Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of Solomon, | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to test | <big><span class="asgreek">πειράσαι</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| enigmas. | <big><span class="asgreek">αινίγμασι</span></big> <sup><small><small>[[G0135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] queen | **<big>[[G0938\|βασίλισσα]]</big>** |
+| of Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of Solomon, | **<big>[[G4672\|Σολομώντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she came | **<big>[[G2064\|ήλθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to test | **<big>[[G3985\|πειράσαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| enigmas. | **<big>[[G0135\|αινίγμασι]]</big>** |
 [[1Kgs.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.28|<< 1 Kings 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.2|1 Kings 10:2 >>]]</td></tr></table>
 
 

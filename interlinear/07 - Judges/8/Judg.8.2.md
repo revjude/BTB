@@ -6,20 +6,20 @@ But Gideon answered them, “Now what have I accomplished compared to you? Are n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.1|<< Judges 8:1]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.3|Judges 8:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>אֲלֵי </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מֶה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| meh- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have I done  | <span class="ashebrew"><big>עָשִׂ֥יתִי </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Si.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>עַתָּ֖ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> you  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ל֗וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good  | <span class="ashebrew"><big>ט֛וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] gleanings of  | <span class="ashebrew"><big>עֹלְל֥וֹת </big></span><small><small><sup>[[H5955]]</sup></small></small> &#8207;| o.le.Lot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֖יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than [the] grape harvest of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בְצִ֥יר </big></span><small><small><sup>[[H1210]]</sup></small></small> &#8207;| mi <small><sup>[[HR]]</sup></small> v.Tzir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abiezer  | <span class="ashebrew"><big>אֲבִיעֶֽזֶר </big></span><small><small><sup>[[H0044I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.vi.'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| meh-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have I done  |**<big>&#8207;[[H6213A\|עָשִׂ֥יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> you  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9036\|כֶ֑ם]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֗וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  |**<big>&#8207;[[H2896A\|ט֛וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] gleanings of  |**<big>&#8207;[[H5955\|עֹלְל֥וֹת]]&#8207; </big>**| o.le.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than [the] grape harvest of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1210\|בְצִ֥יר]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> v.Tzir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abiezer  |**<big>&#8207;[[H0044I\|אֲבִיעֶֽזֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.vi.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.1|<< Judges 8:1]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.3|Judges 8:3 >>]]</td></tr></table>
 
 

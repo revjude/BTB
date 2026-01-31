@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יַצַע‎</span></big> **yatsaʻ** <small>*(yaw-tsah')*</small> ==**to lay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יַצַע‎</span></big>** **yatsaʻ** <small>*(yaw-tsah')*</small> ==**to lay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make (one's) bed, [idiom] lie, spread.

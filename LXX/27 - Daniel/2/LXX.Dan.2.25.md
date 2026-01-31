@@ -10,36 +10,36 @@ Then Arioch brought in Daniel before the king in haste, and said thus unto him, 
 Arioch hastily brought Daniel before the king and said to him, “I have found a man among the exiles from Judah who will tell the king the interpretation.”<small><sub>**MT:**</sub></small>
 [[Dan.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.24|<< Daniel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.26|Daniel 2:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| Arioch | <big><span class="asgreek">Αριώχ</span></big> <sup><small><small>[[H0746b]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| haste | <big><span class="asgreek">σπουδή</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
-| brought | <big><span class="asgreek">εισήγαγε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I found | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judea, | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| one who | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκριμα</span></big> <sup><small><small>[[G9240]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| will announce | <big><span class="asgreek">αναγγελεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| Arioch | **<big>[[H0746b\|Αριώχ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| haste | **<big>[[G4710\|σπουδή]]</big>** |
+| brought | **<big>[[G1521\|εισήγαγε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| I found | **<big>[[G2147\|εύρηκα]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Judea, | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| one who | **<big>[[G3748\|όστις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| interpretation | **<big>[[G9240\|σύγκριμα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| will announce | **<big>[[G0312\|αναγγελεί]]</big>** |
 [[Dan.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.24|<< Daniel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.26|Daniel 2:26 >>]]</td></tr></table>
 
 

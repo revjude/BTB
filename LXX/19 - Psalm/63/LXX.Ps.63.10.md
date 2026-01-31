@@ -7,15 +7,15 @@ They shall fall by the sword: they shall be a portion for foxes.
 They will fall to the power of the sword; they will become a portion for foxes.<small><sub>**MT:**</sub></small>
 [[Ps.63.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.9|<< Psalm 63:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.11|Psalm 63:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They shall be delivered up | <big><span class="asgreek">παραδοθήσονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] broadsword; | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| portions | <big><span class="asgreek">μερίδες</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| \[for\] foxes | <big><span class="asgreek">αλωπέκων</span></big> <sup><small><small>[[G0258]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| They shall be delivered up | **<big>[[G3860\|παραδοθήσονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of \[the\] broadsword; | **<big>[[G4501\|ρομφαίας]]</big>** |
+| portions | **<big>[[G3310\|μερίδες]]</big>** |
+| \[for\] foxes | **<big>[[G0258\|αλωπέκων]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
 [[Ps.63.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.9|<< Psalm 63:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.11|Psalm 63:11 >>]]</td></tr></table>
 
 

@@ -11,32 +11,32 @@ The LORD said, “I have indeed seen the affliction of My people in Egypt. I hav
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| In seeing, | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ill-treatment | <big><span class="asgreek">κάκωσιν</span></big> <sup><small><small>[[G2561]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have heard | <big><span class="asgreek">ακήκοα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foremen. | <big><span class="asgreek">εργοδιωκτών</span></big> <sup><small><small>[[G7498]]</small></small></sup> |
-| For I have seen | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their grief. | <big><span class="asgreek">οδύνην</span></big> <sup><small><small>[[G3601]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| In seeing, | **<big>[[G1492\|ιδών]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ill-treatment | **<big>[[G2561\|κάκωσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their cry | **<big>[[G2906\|κραυγής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| I have heard | **<big>[[G0191\|ακήκοα]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| foremen. | **<big>[[G7498\|εργοδιωκτών]]</big>** |
+| For I have seen | **<big>[[G1492\|οίδα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their grief. | **<big>[[G3601\|οδύνην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Exod.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.6|<< Exodus 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.8|Exodus 3:8 >>]]</td></tr></table>
 
 

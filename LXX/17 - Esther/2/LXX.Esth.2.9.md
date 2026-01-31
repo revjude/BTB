@@ -10,46 +10,46 @@ And the maiden pleased him, and she obtained kindness of him; and he speedily ga
 And the young woman pleased him and obtained his favor, so he quickly provided her with beauty treatments and the special diet. He assigned to her seven select maidservants from the palace and transferred her with them to the best place in the harem.<small><sub>**MT:**</sub></small>
 [[Esth.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.8|<< Esther 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.10|Esther 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pleased | <big><span class="asgreek">ήρεσεν</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman | <big><span class="asgreek">κοράσιον</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she found | <big><span class="asgreek">εύρε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hastened | <big><span class="asgreek">έσπευσε</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beauty treatment, | <big><span class="asgreek">σμήγμα</span></big> <sup><small><small>[[G9125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[her\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion, | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| young women | <big><span class="asgreek">κοράσια</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being exhibited | <big><span class="asgreek">αποδεδειγμένα</span></big> <sup><small><small>[[G0584]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] royal \[palace\]. | <big><span class="asgreek">βασιλικού</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he treated | <big><span class="asgreek">εχρήσατο</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| well, | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her handmaidens | <big><span class="asgreek">άβραις</span></big> <sup><small><small>[[G6105]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chamber of the women. | <big><span class="asgreek">γυναικώνι</span></big> <sup><small><small>[[G6774]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| pleased | **<big>[[G0700\|ήρεσεν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| young woman | **<big>[[G2877\|κοράσιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she found | **<big>[[G2147\|εύρε]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he hastened | **<big>[[G4692\|έσπευσε]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| beauty treatment, | **<big>[[G9125\|σμήγμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[her\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| portion, | **<big>[[G3310\|μερίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| young women | **<big>[[G2877\|κοράσια]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being exhibited | **<big>[[G0584\|αποδεδειγμένα]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] royal \[palace\]. | **<big>[[G0937\|βασιλικού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he treated | **<big>[[G5530\|εχρήσατο]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| well, | **<big>[[G2573\|καλώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| her handmaidens | **<big>[[G6105\|άβραις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| chamber of the women. | **<big>[[G6774\|γυναικώνι]]</big>** |
 [[Esth.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.8|<< Esther 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.10|Esther 2:10 >>]]</td></tr></table>
 
 

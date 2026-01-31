@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H3652]]</small>
-<small>Also see: [[H3653]] | [[H3654]]</small>
+<small>Aramaic form: **<big>[[H3652|כֵּן]]</big>**</small>
+<small>Also see: **<big>[[H3653|כֵּן]]</big>** | **<big>[[H3654|כֵּן]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎כֵּן‎</span> **adjective** ==right, veritable, honest== (properly ***firm, upright***; Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHAAcAIAAAAAAAP///yH5BAAAAAAALAAAAAAcABwAAAJRjI+pywjQonpQ2kCvzTryznzg9IxhaS7oQa2b24oSHFfviruezuoy1iLZgL6aMRF0lIw84rCI2T2HnWR0Em0SpVZh4/jVOqnelEo8+pnR5ksBADs="> ***recte*** [[BDB#PS|PS]]<sup>1662</sup>) — absolute <span class="bdbLangHebrew">‎כֵּן‎</span> [[Exod.10.29|Exod 10:29]] + (on possibly construct see **2** near the end); plural <span class="bdbLangHebrew">‎כֵּנִים‎</span> [[Gen.42.11|Gen 42:11]]; [[Gen.42.19|Gen 42:19]]; [[Gen.42.31|Gen 42:31]]; [[Gen.42.33|Gen 42:33]]; [[Gen.42.34|Gen 42:34]] — 
 
@@ -53,7 +53,7 @@ $\quad$ $\quad$ **e.** <span class="bdbLangHebrew">‎עַדכֵּֿן‎</span>
 
 
 
-<small>Also see: [[H3653]] | [[H3654]]</small>
+<small>Also see: **<big>[[H3653|כֵּן]]</big>** | **<big>[[H3654|כֵּן]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎כֵּן‎</span> see  <span class="bdbLangHebrew">‎כון‎</span>; III. <span class="bdbLangHebrew">‎כֵּן‎</span> see I.  <span class="bdbLangHebrew">‎כנן‎</span>; IV. <span class="bdbLangHebrew">‎כֵּן‎</span> see II.  <span class="bdbLangHebrew">‎כנן‎</span>. p. 467, below 
 

@@ -1,8 +1,8 @@
 <small>*Bethel\_2 • Town in Judah that received spoils from David's victory.*</small>
 
 <span class='tipnrhighlight'>Bethel</span> was a town in Judah that received spoils from David's victory over the Amalekites. \([[1Sam.30.27|1 Samuel 30:27]]\)
-- A location near Beersheba<[[H0884]]> first mentioned at Jos.12.16; 
--  referred to as Bethel<[[H1008H]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּֽ<span class='tipnrLangHebrew'>ית</span>ְ־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\), or Bethuel<[[H1328B]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\), or Bethul<[[H1329]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Beersheba **<big>[[H0884|בְּאֵר שֶׁבַע]]</big>** first mentioned at Jos.12.16; 
+-  referred to as Bethel **<big>[[H1008|בֵּית־אֵל]]</big>**, or Bethuel **<big>[[H1328|בְּתוּאֵל]]</big>**, or Bethul **<big>[[H1329|בְּתוּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.244952,34.840888&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,7 +16,7 @@ This Bethel was a town in the southern region of Judah, distinct from the more f
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bethel | [<span class='tipnrLangHebrew'>ב</span>ֵּֽ<span class='tipnrLangHebrew'>ית</span>ְ־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1008H) <small>*Hebrew*</small> | 1x | [1Sa.30.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethel\*\|reference=Jos.12.16;1Sa.30.27) |
-| Bethuel | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1328B) <small>*Hebrew*</small> | 1x | [1Ch.4.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethuel\*\|reference=1Ch.4.30) |
-| Bethul | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H1329) <small>*Hebrew*</small> | 1x | [Jos.19.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethul\*\|reference=Jos.19.4) |
-All Strong's for **Bethel**: \[[[H1008H]]\] \[[[H1328B]]\] \[[[H1329]]\]
+| Bethel | [<span class='tipnrLangHebrew'>ב</span>ֵּֽ<span class='tipnrLangHebrew'>ית</span>ְ־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1008H) | 1x | [1Sa.30.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethel\*\|reference=Jos.12.16;1Sa.30.27) |
+| Bethuel | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1328B) | 1x | [1Ch.4.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethuel\*\|reference=1Ch.4.30) |
+| Bethul | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H1329) | 1x | [Jos.19.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethul\*\|reference=Jos.19.4) |
+All entries for **Bethel**:  **<big>[[H1008|בֵּית־אֵל]]</big>** ☩  **<big>[[H1328|בְּתוּאֵל]]</big>** ☩  **<big>[[H1329|בְּתוּל]]</big>**

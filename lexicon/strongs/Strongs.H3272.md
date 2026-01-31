@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יְעַט‎</span></big> **yᵉʻaṭ** <small>*(yeh-at')*</small> ==**to counsel**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יָעַץ‎</span><sup><small>[[H3289]]</small></sup></small>
+**<big><span class="asaramaic">‎יְעַט‎</span></big>** **yᵉʻaṭ** <small>*(yeh-at')*</small> ==**to counsel**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3289|‎יָעַץ‎]]</big>**</small>
 
 $\quad$ counsellor, consult together.
 - ***to counsel***

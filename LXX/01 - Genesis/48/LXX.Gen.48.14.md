@@ -7,34 +7,34 @@ And Israel stretched out his right hand, and laid [it] upon Ephraim’s head, wh
 But Israel stretched out his right hand and put it on the head of Ephraim, the younger; and crossing his hands, he put his left on Manasseh’s head, although Manasseh was the firstborn.<small><sub>**MT:**</sub></small>
 [[Gen.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| stretching out | <big><span class="asgreek">εκτείνας</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιάν</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| put it | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger; | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left | <big><span class="asgreek">αριστεράν</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Manasseh; | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| crosswise \[with\] | <big><span class="asgreek">εναλλάξ</span></big> <sup><small><small>[[G7215]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| stretching out | **<big>[[G1614\|εκτείνας]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| right | **<big>[[G1188\|δεξιάν]]</big>** |
+| put it | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραίμ]]</big>** |
+| and this one | **<big>[[G3778\|ούτος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| younger; | **<big>[[G3501\|νεώτερος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| left | **<big>[[G0710\|αριστεράν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Manasseh; | **<big>[[G3128\|Μανασσή]]</big>** |
+| crosswise \[with\] | **<big>[[G7215\|εναλλάξ]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands. | **<big>[[G5495\|χείρας]]</big>** |
 [[Gen.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
 
 

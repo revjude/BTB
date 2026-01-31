@@ -7,38 +7,38 @@ So the king of Israel went, and the king of Judah, and the king of Edom: and the
 So the king of Israel, the king of Judah, and the king of Edom set out, and after they had traveled a roundabout route for seven days, they had no water for their army or for their animals.<small><sub>**MT:**</sub></small>
 [[2Kgs.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.8|<< 2 Kings 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.10|2 Kings 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Edom. | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they encircled | <big><span class="asgreek">εκύκλωσαν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| a journey | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| for the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτήνεσι</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their feet. | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Edom. | **<big>[[H0123\|Εδώμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they encircled | **<big>[[G2944\|εκύκλωσαν]]</big>** |
+| a journey | **<big>[[G3598\|οδόν]]</big>** |
+| of seven | **<big>[[G2033\|επτά]]</big>** |
+| days. | **<big>[[G2250\|ημερών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| for the | **<big>[[G3588\|τη]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| cattle, | **<big>[[G2934\|κτήνεσι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their feet. | **<big>[[G4228\|ποσίν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[2Kgs.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.8|<< 2 Kings 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.10|2 Kings 3:10 >>]]</td></tr></table>
 
 

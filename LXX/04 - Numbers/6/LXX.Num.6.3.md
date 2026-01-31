@@ -11,37 +11,37 @@ he is to abstain from wine and strong drink. He must not drink vinegar made from
 > $\quad$ referenced by: [[Luke.1.15|Luke 1:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| liquor | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| he shall be pure, | <big><span class="asgreek">αγνισθήσεται</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong drink | <big><span class="asgreek">όξος</span></big> <sup><small><small>[[G3690]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| wine; | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong drink | <big><span class="asgreek">όξος</span></big> <sup><small><small>[[G3690]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| liquor | <big><span class="asgreek">σικέρα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| drink; | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| \[are\] manufactured | <big><span class="asgreek">κατεργάζεται</span></big> <sup><small><small>[[G2716]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] grape | <big><span class="asgreek">σταφυλής</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| drink; | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grape | <big><span class="asgreek">σταφυλήν</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
-| fresh | <big><span class="asgreek">πρόσφατον</span></big> <sup><small><small>[[G4372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dried grape | <big><span class="asgreek">σταφίδας</span></big> <sup><small><small>[[G9154]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat. | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| wine | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| liquor | **<big>[[G4608\|σίκερα]]</big>** |
+| he shall be pure, | **<big>[[G0048\|αγνισθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong drink | **<big>[[G3690\|όξος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| wine; | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong drink | **<big>[[G3690\|όξος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| liquor | **<big>[[G4608\|σικέρα]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| drink; | **<big>[[G4095\|πίεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| \[are\] manufactured | **<big>[[G2716\|κατεργάζεται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] grape | **<big>[[G4718\|σταφυλής]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| drink; | **<big>[[G4095\|πίεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grape | **<big>[[G4718\|σταφυλήν]]</big>** |
+| fresh | **<big>[[G4372\|πρόσφατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dried grape | **<big>[[G9154\|σταφίδας]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| eat. | **<big>[[G2068\|φάγεται]]</big>** |
 [[Num.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.2|<< Numbers 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.4|Numbers 6:4 >>]]</td></tr></table>
 
 

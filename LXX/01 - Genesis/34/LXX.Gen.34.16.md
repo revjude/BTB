@@ -7,28 +7,28 @@ Then will we give our daughters unto you, and we will take your daughters to us,
 Then we will give you our daughters and take your daughters for ourselves. We will dwell among you and become one people.<small><sub>**MT:**</sub></small>
 [[Gen.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.15|<< Genesis 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.17|Genesis 34:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will give | <big><span class="asgreek">δώσομεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we will take | <big><span class="asgreek">ληψόμεθα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to ourselves | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wives, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will live | <big><span class="asgreek">οικήσομεν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will be | <big><span class="asgreek">εσόμεθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| race | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| we will give | **<big>[[G1325\|δώσομεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| we will take | **<big>[[G2983\|ληψόμεθα]]</big>** |
+| to ourselves | **<big>[[G1473\|ημίν]]</big>** |
+| wives, | **<big>[[G1135\|γυναίκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will live | **<big>[[G3611\|οικήσομεν]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will be | **<big>[[G1510\|εσόμεθα]]</big>** |
+| race | **<big>[[G1085\|γένος]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
 [[Gen.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.15|<< Genesis 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.17|Genesis 34:17 >>]]</td></tr></table>
 
 

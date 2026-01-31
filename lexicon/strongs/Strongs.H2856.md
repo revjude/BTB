@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָתַם‎</span></big> **châtham** <small>*(khaw-tham')*</small> ==**to seal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָתַם‎</span></big>** **châtham** <small>*(khaw-tham')*</small> ==**to seal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make an end, mark, seal (up), stop.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Niphal) to seal
 $\quad$ **1c)** (Piel) to lock up
 $\quad$ **1d)** (Hiphil) to be stopped
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">κατασφραγίζω</span><sup><small>[[G2696]]</small></sup> · <span class="asgreek">συνιστάω</span><sup><small>[[G4921]]</small></sup> · <span class="asgreek">συντελέω</span><sup><small>[[G4931]]</small></sup> · <span class="asgreek">σφραγίζω</span><sup><small>[[G4972]]</small></sup>
+<small>See Greek: </small>**<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G2696|κατασφραγίζω]]</big>** · **<big>[[G4921|συνιστάω]]</big>** · **<big>[[G4931|συντελέω]]</big>** · **<big>[[G4972|σφραγίζω]]</big>**

@@ -6,18 +6,18 @@ Therefore I admire all Your precepts and hate every false way.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.128|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.127|<< Psalms 119:127]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.129|Psalms 119:129 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֤ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] precepts of  | <span class="ashebrew"><big>פִּקּ֣וּדֵי </big></span><small><small><sup>[[H6490]]</sup></small></small> &#8207;| pi.Ku.dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everything  | <span class="ashebrew"><big>כֹ֣ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| khol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I approve  | <span class="ashebrew"><big>יִשָּׁ֑רְתִּי </big></span><small><small><sup>[[H3474]]</sup></small></small> &#8207;| yi.Sha.re.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| path of  | <span class="ashebrew"><big>אֹ֖רַח </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| 'O.rach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֣קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I hate  | <span class="ashebrew"><big>שָׂנֵֽאתִי </big></span><small><small><sup>[[H8130]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sa.Ne.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] precepts of  |**<big>&#8207;[[H6490\|פִּקּ֣וּדֵי]]&#8207; </big>**| pi.Ku.dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everything  |**<big>&#8207;[[H3605\|כֹ֣ל]]&#8207; </big>**| khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I approve  |**<big>&#8207;[[H3474\|יִשָּׁ֑רְתִּי]]&#8207; </big>**| yi.Sha.re.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| path of  |**<big>&#8207;[[H0734\|אֹ֖רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֣קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I hate  |**<big>&#8207;[[H8130\|שָׂנֵֽאתִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Ne.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.127|<< Psalms 119:127]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.129|Psalms 119:129 >>]]</td></tr></table>
 
 

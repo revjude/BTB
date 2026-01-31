@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָדַק‎</span></big> **tsâdaq** <small>*(tsaw-dak')*</small> ==**to justify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָדַק‎</span></big>** **tsâdaq** <small>*(tsaw-dak')*</small> ==**to justify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cleanse, clear self, (be, do) just(-ice, -ify, -ify self), (be turn to) righteous(-ness).
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d3)** to justify, vindicate the cause of, save
 $\quad$ $\quad$ **1d4)** to make righteous, turn to righteousness
 $\quad$ **1e)** (Hithpael) to justify oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup> · <span class="asgreek">ἀναφαίνω</span><sup><small>[[G0398]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δικαιόω</span><sup><small>[[G1344]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup>
+<small>See Greek: </small>**<big>[[G0273|ἄμεμπτος]]</big>** · **<big>[[G0398|ἀναφαίνω]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1344|δικαιόω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>**

@@ -7,33 +7,33 @@ Then Saul arose, and went down to the wilderness of Ziph, having three thousand 
 So Saul, accompanied by three thousand chosen men of Israel, went down to the Wilderness of Ziph to search for David there.<small><sub>**MT:**</sub></small>
 [[1Sam.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.1|<< 1 Samuel 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.3|1 Samuel 26:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Ziph, | <big><span class="asgreek">Ζιφ</span></big> <sup><small><small>[[H2128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to seek | <big><span class="asgreek">ζητείν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Ziph. | <big><span class="asgreek">Ζιφ</span></big> <sup><small><small>[[H2128]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul rose up, | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατέβη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| of Ziph, | **<big>[[H2128\|Ζιφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτών]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to seek | **<big>[[G2212\|ζητείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| of Ziph. | **<big>[[H2128\|Ζιφ]]</big>** |
 [[1Sam.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.1|<< 1 Samuel 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.3|1 Samuel 26:3 >>]]</td></tr></table>
 
 

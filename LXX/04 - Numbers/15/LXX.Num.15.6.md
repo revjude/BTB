@@ -7,31 +7,31 @@ Or for a ram, thou shalt prepare [for] a meat offering two tenth deals of flour 
 With a ram you are to prepare a grain offering of two-tenths of an ephah of fine flour mixed with a third of a hin of olive oil,<small><sub>**MT:**</sub></small>
 [[Num.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.5|<< Numbers 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.7|Numbers 15:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram, | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you offer | <big><span class="asgreek">ποιήτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκάρπωμα</span></big> <sup><small><small>[[G8492]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\], | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| you shall prepare | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of fine flour -- | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δεκάτα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">αναπεποιημένης</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτον</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hin. | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| ram, | **<big>[[G8096\|κριώ]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| you offer | **<big>[[G4160\|ποιήτε]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering | **<big>[[G8492\|ολοκάρπωμα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\], | **<big>[[G2378\|θυσίαν]]</big>** |
+| you shall prepare | **<big>[[G4160\|ποιήσεις]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of fine flour -- | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tenths | **<big>[[G1181\|δεκάτα]]</big>** |
+| being prepared | **<big>[[G6305\|αναπεποιημένης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil, | **<big>[[G1637\|ελαίω]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| third | **<big>[[G5154\|τρίτον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hin. | **<big>[[G9824\|ιν]]</big>** |
 [[Num.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.5|<< Numbers 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.7|Numbers 15:7 >>]]</td></tr></table>
 
 

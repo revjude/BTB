@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָעוֹךְ‎</span></big> **Mâʻôwk** <small>*(maw-oke')*</small> ==**Maoch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מָעַךְ‎</span><sup><small>[[H4600]]</small></sup>; oppressed</small>
+**<big><span class="ashebrew">‎מָעוֹךְ‎</span></big>** **Mâʻôwk** <small>*(maw-oke')*</small> ==**Maoch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4600|‎מָעַךְ‎]]</big>**; oppressed</small>
 
 $\quad$ Maoch.
 - § Maoch = *"oppression"*

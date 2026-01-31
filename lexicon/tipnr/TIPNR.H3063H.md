@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Judah</span> was one of the Levites who had married foreign women during the time of Ezra and agreed to put them away.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.23|Ezr.10.23]]; 
-- only referred to as Judah<[[H3063H]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Judah **<big>[[H3063|יְהוּדָה]]</big>**.
 
 Judah is mentioned in [[Ezra.10.23|Ezra 10:23]] as one of the Levites who had married foreign women during the post-exilic period. The context of the passage is Ezra's reforms and the issue of intermarriage between the Israelites and the pagan peoples of the land \(Ezra 9-10\). 
 
@@ -14,5 +14,5 @@ This event highlights the importance of maintaining religious and cultural purit
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Judah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3063H) <small>*Hebrew*</small> | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judah\*\|reference=Ezr.10.23) |
-All Strong's for **Judah**: \[[[H3063H]]\]
+| Judah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3063H) | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judah\*\|reference=Ezr.10.23) |
+All entries for **Judah**:  **<big>[[H3063|יְהוּדָה]]</big>**

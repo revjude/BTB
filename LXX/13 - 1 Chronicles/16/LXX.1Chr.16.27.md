@@ -7,19 +7,19 @@ Glory and honour [are] in his presence; strength and gladness [are] in his place
 Splendor and majesty are before Him; strength and joy fill His dwelling.<small><sub>**MT:**</sub></small>
 [[1Chr.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.26|<< 1 Chronicles 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.28|1 Chronicles 16:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| high praise | <big><span class="asgreek">έπαινος</span></big> <sup><small><small>[[G1868]]</small></small></sup> |
-| \[are\] before | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| his face; | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| boasting | <big><span class="asgreek">καύχημα</span></big> <sup><small><small>[[G2745]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| his holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Glory | **<big>[[G1391\|δόξα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| high praise | **<big>[[G1868\|έπαινος]]</big>** |
+| \[are\] before | **<big>[[G2596\|κατά]]</big>** |
+| his face; | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| strength | **<big>[[G2479\|ισχύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| boasting | **<big>[[G2745\|καύχημα]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| his holy | **<big>[[G0039\|αγίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Chr.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.26|<< 1 Chronicles 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.28|1 Chronicles 16:28 >>]]</td></tr></table>
 
 

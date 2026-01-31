@@ -7,24 +7,24 @@ The cloths of service to do service in the holy [place], and the holy garments f
 and the woven garments for ministering in the sanctuary, both the holy garments for Aaron the priest and the garments for his sons to serve as priests.<small><sub>**MT:**</sub></small>
 [[Exod.39.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.40|<< Exodus 39:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.42|Exodus 39:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\] | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priesthood. | <big><span class="asgreek">ιερατείαν</span></big> <sup><small><small>[[G2405]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy \[place\] | **<big>[[G0039\|αγίου]]</big>** |
+| which | **<big>[[G3739\|αι]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
+| for Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| priesthood. | **<big>[[G2405\|ιερατείαν]]</big>** |
 [[Exod.39.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.40|<< Exodus 39:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.42|Exodus 39:42 >>]]</td></tr></table>
 
 

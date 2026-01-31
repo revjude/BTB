@@ -1,5 +1,4 @@
-<span class="ashebrew">‎גֵּרְשֹׁם‎</span> <small>***(ge.re.shom)***</small> ==**Gershom**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.2.22|Exo.2.22]]
--  son of: Moses ([[H4872]]) and Zipporah ([[H6855]])
--  brother of: Eliezer ([[H0461H]])
--  father of: Jonathan ([[H3083]])(?) and Shebuel ([[H7619]])
+-  son of: Moses (**<big>[[H4872|מֹשֶׁה]]</big>**) and Zipporah (**<big>[[H6855|צִפֹּרָה]]</big>**)
+-  brother of: Eliezer (**<big>[[H0461H|אֱלִיעֶזֶר]]</big>**)
+-  father of: Jonathan (**<big>[[H3083|יְהוֹנָתָן]]</big>**) and Shebuel (**<big>[[H7619|שְׁבוּאֵל]]</big>**)

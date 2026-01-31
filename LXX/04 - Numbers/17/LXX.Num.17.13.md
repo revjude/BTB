@@ -7,18 +7,18 @@ Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall
 Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?”<small><sub>**MT:**</sub></small>
 [[Num.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| dies. | <big><span class="asgreek">αποθνήσκει</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| Until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| completion | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| should we die? | <big><span class="asgreek">αποθάνωμεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| every | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one touching | **<big>[[G0680\|απτόμενος]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| dies. | **<big>[[G0599\|αποθνήσκει]]</big>** |
+| Until | **<big>[[G2193\|έως]]</big>** |
+| completion | **<big>[[G1519\|εις]]</big>** **<big>[[G5056\|τέλος]]</big>** |
+| should we die? | **<big>[[G0599\|αποθάνωμεν]]</big>** |
 [[Num.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
 

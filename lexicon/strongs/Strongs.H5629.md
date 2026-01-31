@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֶרַח‎</span></big> **çerach** <small>*(seh'-rakh)*</small> ==**excess**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָרַח‎</span><sup><small>[[H5628]]</small></sup></small>
+**<big><span class="ashebrew">‎סֶרַח‎</span></big>** **çerach** <small>*(seh'-rakh)*</small> ==**excess**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5628|‎סָרַח‎]]</big>**</small>
 
 $\quad$ remnant.
 - ***a redundancy***

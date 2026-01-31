@@ -7,20 +7,20 @@ I know that the LORD will maintain the cause of the afflicted, [and] the right o
 I know that the LORD upholds justice for the poor and defends the cause of the needy.<small><sub>**MT:**</sub></small>
 [[Ps.140.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.11|<< Psalm 140:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.13|Psalm 140:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I know | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall deal with | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poor, | <big><span class="asgreek">πτωχών</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cause | <big><span class="asgreek">δίκην</span></big> <sup><small><small>[[G1349]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy. | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| I know | **<big>[[G1097\|έγνων]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall deal with | **<big>[[G4160\|ποιήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| case | **<big>[[G2920\|κρίσιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| poor, | **<big>[[G4434\|πτωχών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| cause | **<big>[[G1349\|δίκην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| needy. | **<big>[[G3993\|πενήτων]]</big>** |
 [[Ps.140.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.11|<< Psalm 140:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.13|Psalm 140:13 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִמְכָּר‎</span></big> **mimkâr** <small>*(mim-kawr')*</small> ==**sale**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָכַר‎</span><sup><small>[[H4376]]</small></sup></small>
+**<big><span class="ashebrew">‎מִמְכָּר‎</span></big>** **mimkâr** <small>*(mim-kawr')*</small> ==**sale**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4376|‎מָכַר‎]]</big>**</small>
 
 $\quad$ [idiom] ought, (that which cometh of) sale, that which...sold, ware.
 - ***merchandise***

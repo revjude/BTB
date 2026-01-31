@@ -1,4 +1,3 @@
-<span class="asaramaic">‎תְּקַל‎</span> <small>***(te.qal)***</small> ==**to weigh**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H8254]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H8254|שָׁקַל]]</big>**</small> 
 
 - v

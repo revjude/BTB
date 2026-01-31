@@ -4,7 +4,7 @@ Syrian living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Naaman</span>, a commander of the Aramean army, was healed of his leprosy by the prophet Elisha, demonstrating God's power and compassion.
 - A Syrian man with leprosy living at the time of Divided Monarchy, first mentioned at [[2Kgs.5.1|2Ki.5.1]]; 
-- referred to as Naaman<[[H5283I]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Naaman<[[G3497]]> \(<span class='tipnrLangGreek'>Νεεμάν</span>, <span class='tipnrLangGreek'>Ναιμάν</span>\).
+- referred to as Naaman **<big>[[H5283|נַעֲמָן]]</big>**, or Naaman **<big>[[G3497|Νεεμάν]]</big>**.
 
 Naaman was a commander of the army of the king of Aram \(Syria\) who lived during the time of the prophet Elisha. He is described as a great man, highly regarded by his master, and a valiant soldier. However, Naaman was afflicted with leprosy \([[2Kgs.5.1|2 Kings 5:1]]\). 
 
@@ -20,6 +20,6 @@ Jesus later referred to Naaman's story in [[Luke.4.27|Luke 4:27]], using it as a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283I) <small>*Hebrew*</small> | 11x | [[2Ki.5.1] ... [2Ki.5.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=2Ki.5.1;2Ki.5.2;2Ki.5.6;2Ki.5.9;2Ki.5.11;2Ki.5.17;2Ki.5.20;2Ki.5.21;2Ki.5.21;2Ki.5.23;2Ki.5.27) |
-| Naaman | [<span class='tipnrLangGreek'>Νεεμάν</span>, <span class='tipnrLangGreek'>Ναιμάν</span>](G3497) <small>*Greek*</small> | 1x | [Luk.4.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=Luk.4.27) |
-All Strong's for **Naaman**: \[[[H5283I]]\] \[[[G3497]]\]
+| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283I) | 11x | [[2Ki.5.1] ... [2Ki.5.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=2Ki.5.1;2Ki.5.2;2Ki.5.6;2Ki.5.9;2Ki.5.11;2Ki.5.17;2Ki.5.20;2Ki.5.21;2Ki.5.21;2Ki.5.23;2Ki.5.27) |
+| Naaman | [<span class='tipnrLangGreek'>Νεεμάν</span>, <span class='tipnrLangGreek'>Ναιμάν</span>](G3497) | 1x | [Luk.4.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=Luk.4.27) |
+All entries for **Naaman**:  **<big>[[H5283|נַעֲמָן]]</big>** ☩  **<big>[[G3497|Νεεμάν]]</big>**

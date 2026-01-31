@@ -7,39 +7,39 @@ I know also, my God, that thou triest the heart, and hast pleasure in uprightnes
 I know, my God, that You test the heart and delight in uprightness. All these things I have given willingly and with an upright heart, and now I have seen Your people who are present here giving joyfully and willingly to You.<small><sub>**MT:**</sub></small>
 [[1Chr.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.16|<< 1 Chronicles 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.18|1 Chronicles 29:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I know, | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| examining | <big><span class="asgreek">ετάζων</span></big> <sup><small><small>[[G7521]]</small></small></sup> |
-| hearts, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπών</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| righteousness. | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| singleness | <big><span class="asgreek">απλότητι</span></big> <sup><small><small>[[G0572]]</small></small></sup> |
-| of heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| volunteered | <big><span class="asgreek">εκουσιάσθην</span></big> <sup><small><small>[[G7124]]</small></small></sup> |
-| all these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέντα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| here, | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| see | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| volunteering | <big><span class="asgreek">εκουσιασθέντα</span></big> <sup><small><small>[[G7124]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I know, | **<big>[[G1097\|έγνων]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| examining | **<big>[[G7521\|ετάζων]]</big>** |
+| hearts, | **<big>[[G2588\|καρδίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loving | **<big>[[G0025\|αγαπών]]</big>** |
+| righteousness. | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| singleness | **<big>[[G0572\|απλότητι]]</big>** |
+| of heart | **<big>[[G2588\|καρδίας]]</big>** |
+| volunteered | **<big>[[G7124\|εκουσιάσθην]]</big>** |
+| all these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέντα]]</big>** |
+| here, | **<big>[[G5602\|ώδε]]</big>** |
+| see | **<big>[[G1492\|είδον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| volunteering | **<big>[[G7124\|εκουσιασθέντα]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[1Chr.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.16|<< 1 Chronicles 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.18|1 Chronicles 29:18 >>]]</td></tr></table>
 
 

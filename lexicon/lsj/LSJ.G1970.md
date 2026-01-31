@@ -1,4 +1,4 @@
-combination of: <small>[[G4155]] ([[G1909]]+[[G4155]])</small> 
+combination of: <small>**<big>[[G4155|πνίγω]]</big>** (**<big>[[G1909|ἐπί]]</big>**+**<big>[[G4155|πνίγω]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==ἐπιπνίγω==</span>-<span class='asgreek'>ω</span></b> [<span class='asgreek'>ῑ</span>], 

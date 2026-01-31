@@ -6,16 +6,16 @@ So Laban invited all the men of that place and prepared a feast.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.21|<< Genesis 29:21]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.23|Genesis 29:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he gathered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֶּאֱסֹ֥ף </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.'e.Sof <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Laban  | <span class="ashebrew"><big>לָבָ֛ן </big></span><small><small><sup>[[H3837A]]</sup></small></small> &#8207;| la.Van <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>אַנְשֵׁ֥י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the place  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּק֖וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he prepared  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥עַשׂ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a feast  | <span class="ashebrew"><big>מִשְׁתֶּֽה </big></span><small><small><sup>[[H4960]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mish.Teh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֶּאֱסֹ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Sof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֛ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֖וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he prepared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a feast  |**<big>&#8207;[[H4960\|מִשְׁתֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.21|<< Genesis 29:21]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.23|Genesis 29:23 >>]]</td></tr></table>
 
 

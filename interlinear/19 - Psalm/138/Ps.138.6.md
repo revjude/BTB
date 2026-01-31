@@ -6,16 +6,16 @@ Though the LORD is on high, He attends to the lowly; but the proud He knows from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.5|<< Psalms 138:5]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.7|Psalms 138:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] exalted  | <span class="ashebrew"><big>רָ֣ם </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ram <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] lowly  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁפָ֣ל </big></span><small><small><sup>[[H8217]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.Fal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sees  | <span class="ashebrew"><big>יִרְאֶ֑ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| yir.'Eh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] proud  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גָבֹ֗הַּ </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga.Vo.ah <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a distance  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מֶּרְחָ֥ק </big></span><small><small><sup>[[H4801]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> mer.Chak <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knows  | <span class="ashebrew"><big>יְיֵדָֽע </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ye.Da' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] exalted  |**<big>&#8207;[[H7311A\|רָ֣ם]]&#8207; </big>**| ram<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] lowly  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8217\|שָׁפָ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Fal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sees  |**<big>&#8207;[[H7200G\|יִרְאֶ֑ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] proud  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1364\|גָבֹ֗הַּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Vo.ah<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distance  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4801\|מֶּרְחָ֥ק]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mer.Chak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knows  |**<big>&#8207;[[H3045\|יְיֵדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ye.Da'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.5|<< Psalms 138:5]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.7|Psalms 138:7 >>]]</td></tr></table>
 
 

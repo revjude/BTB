@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Calah</span> was an ancient Assyrian city built by Nimrod, along with Nineveh and Resen.
 - A location first mentioned at [[Gen.10.11|Gen.10.11]]; 
-- only referred to as Calah<[[H3625]]> \(<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>\).
+- only referred to as Calah **<big>[[H3625|כֶּלַח]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.142884,43.312178&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ In the Bible, Calah is mentioned only in the context of Nimrod's kingdom and the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Calah | [<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H3625) <small>*Hebrew*</small> | 2x | [[Gen.10.11] & [Gen.10.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calah\*\|reference=Gen.10.11;Gen.10.12) |
-All Strong's for **Calah**: \[[[H3625]]\]
+| Calah | [<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H3625) | 2x | [[Gen.10.11] & [Gen.10.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calah\*\|reference=Gen.10.11;Gen.10.12) |
+All entries for **Calah**:  **<big>[[H3625|כֶּלַח]]</big>**

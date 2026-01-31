@@ -7,26 +7,26 @@ Every day will I bless thee; and I will praise thy name for ever and ever.
 Every day I will bless You, and I will praise Your name forever and ever.<small><sub>**MT:**</sub></small>
 [[Ps.145.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.1|<< Psalm 145:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.3|Psalm 145:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| each | <big><span class="asgreek">εκάστην</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| I will bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will praise | <big><span class="asgreek">αινέσω</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| According to | **<big>[[G2596\|καθ΄]]</big>** |
+| each | **<big>[[G1538\|εκάστην]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| I will bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will praise | **<big>[[G0134\|αινέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon, | **<big>[[G0165\|αιώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[Ps.145.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.1|<< Psalm 145:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.3|Psalm 145:3 >>]]</td></tr></table>
 
 

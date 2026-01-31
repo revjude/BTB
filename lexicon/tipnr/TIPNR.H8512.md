@@ -1,8 +1,8 @@
 <small>*Tel-abib • Settlement of exiled Jews in Babylonia*</small>
 
 <span class='tipnrhighlight'>Tel-abib</span>, a settlement of exiled Jews by the Chebar River in Babylonia, where the prophet Ezekiel lived \(Ezek. 3:15\).
-- A location near Calneh<[[H3641A]]> only mentioned at [[Ezek.3.15|Ezk.3.15]]; 
-- only referred to as Tel-abib<[[H8512]]> \(<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יב</span>\).
+- A location near Calneh **<big>[[H3641|כַּלְנֶה]]</big>** only mentioned at [[Ezek.3.15|Ezk.3.15]]; 
+- only referred to as Tel-abib **<big>[[H8512|תֵּל אָבִיב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.127213,45.229995&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tel-abib was a settlement of exiled Jews located by the Chebar River in Babyloni
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tel-abib (NIV= Tel Aviv) | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יב</span>](H8512) <small>*Hebrew*</small> | 1x | [Ezk.3.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tel\*\|reference=Ezk.3.15) |
-All Strong's for **Tel-abib**: \[[[H8512]]\]
+| Tel-abib (NIV= Tel Aviv) | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יב</span>](H8512) | 1x | [Ezk.3.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tel\*\|reference=Ezk.3.15) |
+All entries for **Tel-abib**:  **<big>[[H8512|תֵּל אָבִיב]]</big>**

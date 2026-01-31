@@ -10,46 +10,46 @@ But Jehoiada the priest commanded the captains of the hundreds, the officers of 
 And Jehoiada the priest ordered the commanders of hundreds in charge of the army, “Bring her out between the ranks, and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the house of the LORD.”<small><sub>**MT:**</sub></small>
 [[2Kgs.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.14|<< 2 Kings 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.16|2 Kings 11:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| Jehoiada | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commanders of hundreds, | <big><span class="asgreek">εκατοντάρχοις</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overseers | <big><span class="asgreek">επισκόποις</span></big> <sup><small><small>[[G1985]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lead | <big><span class="asgreek">εξαγάγετε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ranks | <big><span class="asgreek">σαδηρώθ</span></big> <sup><small><small>[[G9049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπορευόμενος</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| her! | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| she shall be put to death | <big><span class="asgreek">θανατωθήσεται</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| She should not die | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| Jehoiada | **<big>[[H3111\|Ιωδαέ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| commanders of hundreds, | **<big>[[G1543\|εκατοντάρχοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| overseers | **<big>[[G1985\|επισκόποις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force, | **<big>[[G1411\|δυνάμεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Lead | **<big>[[G1806\|εξαγάγετε]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| outside | **<big>[[G1855\|έξωθεν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ranks | **<big>[[G9049\|σαδηρώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| entering | **<big>[[G1531\|εισπορευόμενος]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| her! | **<big>[[G1473\|αυτής]]</big>** |
+| To death | **<big>[[G2288\|θανάτω]]</big>** |
+| she shall be put to death | **<big>[[G2289\|θανατωθήσεται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| She should not die | **<big>[[G3361\|μη]]</big>** **<big>[[G0599\|αποθάνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.14|<< 2 Kings 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.16|2 Kings 11:16 >>]]</td></tr></table>
 
 

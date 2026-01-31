@@ -1,8 +1,8 @@
 <small>*Gedor\_2 • Region where Simeonites sought pasture for their flocks*</small>
 
 <span class='tipnrhighlight'>Gedor</span>, a region where some Simeonites went to find pasture for their flocks during the reign of King Hezekiah.
-- A location near Gederah<[[H1449]]> only mentioned at [[1Chr.4.39|1Ch.4.39]]; 
-- only referred to as Gedor<[[H1446H]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Gederah **<big>[[H1449|גְּדֵרָה]]</big>** only mentioned at [[1Chr.4.39|1Ch.4.39]]; 
+- only referred to as Gedor **<big>[[H1446|גְדֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.823337,34.777779&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The specific location of this Gedor is uncertain, but it is described as being t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gedor | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1446H) <small>*Hebrew*</small> | 1x | [1Ch.4.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gedor\*\|reference=1Ch.4.39) |
-All Strong's for **Gedor**: \[[[H1446H]]\]
+| Gedor | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1446H) | 1x | [1Ch.4.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gedor\*\|reference=1Ch.4.39) |
+All entries for **Gedor**:  **<big>[[H1446|גְדֹר]]</big>**

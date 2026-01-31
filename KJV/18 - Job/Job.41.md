@@ -7,7 +7,7 @@
 
 [^1]:  [[Job.41|Job 41:1]], Of God’s great power in the leviathan.
 
-[^2]: (<span class="ashebrew">‎לִוְיָתָן‎</span><sup><small>[[H3882]]</small></sup>)
+[^2]: ( [[H3882|‎לִוְיָתָן‎]] )
 
 [^3]: Heb. drownest
 
@@ -29,7 +29,7 @@
 
 [^12]: [[Judg.14|Judg 14:11]]
 
-[^13]: The Leviathan, <span class="asgreek"><span class='asgreek'>μει</span>ϊ<span class='asgreek'>ο</span></span> (<span class="ashebrew">‎לִוְיָתָן‎</span><sup><small>[[H3882]]</small></sup>)
+[^13]: The Leviathan, <span class="asgreek"><span class='asgreek'>μει</span>ϊ<span class='asgreek'>ο</span></span> ( [[H3882|‎לִוְיָתָן‎]] )
 
 [^14]: [[Job.41|Job 41:26-29]]
 

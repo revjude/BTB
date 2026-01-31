@@ -1,4 +1,4 @@
-spelling of: <small>[[G5009]]</small> 
+spelling of: <small>**<big>[[G5009|ταμεῖον]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ταμιεῖον==</span>-<span class='asgreek'>εῖον</span></b>, <span class='asgreek'>τό</span>, 

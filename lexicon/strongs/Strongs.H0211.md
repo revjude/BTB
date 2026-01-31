@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹפִיר‎</span></big> **ʼÔwphîyr** <small>*(o-feer')*</small> ==**Ophir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אֹפִיר</span> **ʼÔphîyr** <small>*(ofeer')*</small>; and <span class="ashebrew">אוֹפִר</span> **ʼÔwphir** <small>*(o-feer')*</small>; of uncertain derivation</small>
+**<big><span class="ashebrew">‎אוֹפִיר‎</span></big>** **ʼÔwphîyr** <small>*(o-feer')*</small> ==**Ophir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אֹפִיר</span></big>** **ʼÔphîyr** <small>*(ofeer')*</small>; and **<big><span class="ashebrew">אוֹפִר</span></big>** **ʼÔwphir** <small>*(o-feer')*</small>; of uncertain derivation</small>
 
 $\quad$ Ophir.
 - § Ophir = *"reducing to ashes"*

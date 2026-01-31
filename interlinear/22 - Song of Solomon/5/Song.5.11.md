@@ -6,15 +6,15 @@ His head is purest gold; his hair is wavy and black as a raven.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.10|<< Song of Solomon 5:10]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.12|Song of Solomon 5:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| head his  | <span class="ashebrew"><big>רֹאשׁ֖ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ro.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] gold of  | <span class="ashebrew"><big>כֶּ֣תֶם </big></span><small><small><sup>[[H3800]]</sup></small></small> &#8207;| Ke.tem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure gold  | <span class="ashebrew"><big>פָּ֑ז </big></span><small><small><sup>[[H6337]]</sup></small></small> &#8207;| Paz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| locks his  | <span class="ashebrew"><big>קְוּצּוֹתָי </big></span><small><small><sup>[[H6977]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ke.vtz.tzo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] curls  | <span class="ashebrew"><big>תַּלְתַּלִּ֔ים </big></span><small><small><sup>[[H8534]]</sup></small></small> &#8207;| tal.ta.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| black  | <span class="ashebrew"><big>שְׁחֹר֖וֹת </big></span><small><small><sup>[[H7838]]</sup></small></small> &#8207;| she.cho.Rot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> raven  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עוֹרֵֽב </big></span><small><small><sup>[[H6158]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'o.Rev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7218A\|רֹאשׁ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] gold of  |**<big>&#8207;[[H3800\|כֶּ֣תֶם]]&#8207; </big>**| Ke.tem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure gold  |**<big>&#8207;[[H6337\|פָּ֑ז]]&#8207; </big>**| Paz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| locks his  |**<big>&#8207;[[H6977\|קְוּצּוֹתָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| ke.vtz.tzo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] curls  |**<big>&#8207;[[H8534\|תַּלְתַּלִּ֔ים]]&#8207; </big>**| tal.ta.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| black  |**<big>&#8207;[[H7838\|שְׁחֹר֖וֹת]]&#8207; </big>**| she.cho.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> raven  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H6158\|עוֹרֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'o.Rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.10|<< Song of Solomon 5:10]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.12|Song of Solomon 5:12 >>]]</td></tr></table>
 
 

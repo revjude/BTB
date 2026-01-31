@@ -7,43 +7,43 @@ And it shall be, when their fathers or their brethren come unto us to complain, 
 When their fathers or brothers come to us to complain, we will tell them, ‘Do us a favor by helping them, since we did not get wives for each of them in the war. Since you did not actually give them your daughters, you have no guilt.’”<small><sub>**MT:**</sub></small>
 [[Judg.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.21|<< Judges 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.23|Judges 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should come | <big><span class="asgreek">έλθωσιν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers | <big><span class="asgreek">πατέρες αυτών</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to quarrel | <big><span class="asgreek">κρίνεσθαι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall say | <big><span class="asgreek">ερούμεν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Show mercy on | <big><span class="asgreek">ελεήσατε</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| did not take | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δεδώκατε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you trespassed. | <big><span class="asgreek">επλημμελήσατε</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should come | **<big>[[G2064\|έλθωσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fathers | **<big>[[G3962\|πατέρες αυτών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their brothers | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to quarrel | **<big>[[G2919\|κρίνεσθαι]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| we shall say | **<big>[[G2046\|ερούμεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Show mercy on | **<big>[[G1653\|ελεήσατε]]</big>** |
+| them! | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| did not take | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2983\|έλαβεν]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| battle, | **<big>[[G4171\|πολέμω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you did not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| give | **<big>[[G1325\|δεδώκατε]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| time | **<big>[[G2540\|καιρόν]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| you trespassed. | **<big>[[G8812\|επλημμελήσατε]]</big>** |
 [[Judg.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.21|<< Judges 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.23|Judges 21:23 >>]]</td></tr></table>
 
 

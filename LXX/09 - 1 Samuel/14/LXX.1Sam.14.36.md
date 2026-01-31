@@ -7,43 +7,43 @@ And Saul said, Let us go down after the Philistines by night, and spoil them unt
 And Saul said, “Let us go down after the Philistines by night and plunder them until dawn, leaving no man alive!” “Do what seems good to you,” the troops replied. But the priest said, “We must consult God here.”<small><sub>**MT:**</sub></small>
 [[1Sam.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.35|<< 1 Samuel 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.37|1 Samuel 14:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Let us go down | <big><span class="asgreek">καταβώμεν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| \[this\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall tear them into pieces | <big><span class="asgreek">διαρπάσωμεν</span></big> <sup><small><small>[[G1283]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| it should illuminate | <big><span class="asgreek">διαφωτίση</span></big> <sup><small><small>[[G6903]]</small></small></sup> |
-| in the morning; | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should not leave behind | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">υπολείπωμεν</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man. | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| All | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[that is\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you do! | <big><span class="asgreek">ποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| We should come forward | <big><span class="asgreek">προσέλθωμεν</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| here | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| Let us go down | **<big>[[G2597\|καταβώμεν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| \[this\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| night, | **<big>[[G3571\|νύκτα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall tear them into pieces | **<big>[[G1283\|διαρπάσωμεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| it should illuminate | **<big>[[G6903\|διαφωτίση]]</big>** |
+| in the morning; | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should not leave behind | **<big>[[G3361\|μη]]</big>** **<big>[[G5275\|υπολείπωμεν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a man. | **<big>[[G0435\|άνδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| All | **<big>[[G3956\|παν]]</big>** |
+| \[that is\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| good | **<big>[[G0018\|αγαθόν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| you do! | **<big>[[G4160\|ποίει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| We should come forward | **<big>[[G4334\|προσέλθωμεν]]</big>** |
+| here | **<big>[[G7263\|ενταύθα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God. | **<big>[[G2316\|θεόν]]</big>** |
 [[1Sam.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.35|<< 1 Samuel 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.37|1 Samuel 14:37 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ And I will make with them a covenant of peace, and will cause the evil beasts to
 I will make with them a covenant of peace and rid the land of wild animals, so that they may dwell securely in the wilderness and sleep in the forest.<small><sub>**MT:**</sub></small>
 [[Ezek.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.24|<< Ezekiel 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.26|Ezekiel 34:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will ordain | <big><span class="asgreek">διαθήσομαι</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of peace. | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will obliterate | <big><span class="asgreek">αφανιώ</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| \[the\] ferocious | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall dwell | <big><span class="asgreek">κατοικήσουσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall sleep | <big><span class="asgreek">υπνώσουσιν</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forests. | <big><span class="asgreek">δρυμοίς</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will ordain | **<big>[[G1303\|διαθήσομαι]]</big>** |
+| with them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| of peace. | **<big>[[G1515\|ειρήνης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will obliterate | **<big>[[G0853\|αφανιώ]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| \[the\] ferocious | **<big>[[G4190\|πονηρά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall dwell | **<big>[[G2730\|κατοικήσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall sleep | **<big>[[G9567\|υπνώσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| forests. | **<big>[[G6971\|δρυμοίς]]</big>** |
 [[Ezek.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.24|<< Ezekiel 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.26|Ezekiel 34:26 >>]]</td></tr></table>
 
 

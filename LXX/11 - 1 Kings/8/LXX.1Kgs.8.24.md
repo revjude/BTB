@@ -7,28 +7,28 @@ Who hast kept with thy servant David my father that thou promisedst him: thou sp
 You have kept Your promise to Your servant, my father David. What You spoke with Your mouth You have fulfilled with Your hand this day.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.23|<< 1 Kings 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.25|1 Kings 8:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you kept | <big><span class="asgreek">εφύλαξας</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλω</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father, | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have spoken | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth; | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you fulfilled | <big><span class="asgreek">επλήρωσας</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[even\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| which | **<big>[[G3739\|α]]</big>** |
+| you kept | **<big>[[G5442\|εφύλαξας]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your servant | **<big>[[G1401\|δούλω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my father, | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you have spoken | **<big>[[G2980\|ελάλησας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your mouth; | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your hands | **<big>[[G5495\|χερσί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you fulfilled | **<big>[[G4137\|επλήρωσας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[even\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
 [[1Kgs.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.23|<< 1 Kings 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.25|1 Kings 8:25 >>]]</td></tr></table>
 
 

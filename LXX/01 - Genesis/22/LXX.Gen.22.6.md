@@ -7,33 +7,33 @@ And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his so
 Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.<small><sub>**MT:**</sub></small>
 [[Gen.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.5|<< Genesis 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.7|Genesis 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole offering, | <big><span class="asgreek">ολοκαρπώσεως</span></big> <sup><small><small>[[G8493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed it upon | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son. | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \[his\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knife; | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| together. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| \[for\] the | **<big>[[G3588\|της]]</big>** |
+| whole offering, | **<big>[[G8493\|ολοκαρπώσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed it upon | **<big>[[G2007\|επέθηκεν]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his son. | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And he took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \[his\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| knife; | **<big>[[G3162\|μάχαιραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| together. | **<big>[[G0260\|άμα]]</big>** |
 [[Gen.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.5|<< Genesis 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.7|Genesis 22:7 >>]]</td></tr></table>
 
 

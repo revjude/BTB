@@ -7,21 +7,21 @@ And they shall be upon thee for a sign and for a wonder, and upon thy seed for e
 These curses will be a sign and a wonder upon you and your descendants forever.<small><sub>**MT:**</sub></small>
 [[Deut.28.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.45|<< Deuteronomy 28:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.47|Deuteronomy 28:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[they\] will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| signs to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σημεία</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| miracles, | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρματί</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[they\] will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| signs to you, | **<big>[[G1473\|σοι]]</big>** **<big>[[G4592\|σημεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| miracles, | **<big>[[G5059\|τέρατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your seed | **<big>[[G4690\|σπέρματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[Deut.28.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.45|<< Deuteronomy 28:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.47|Deuteronomy 28:47 >>]]</td></tr></table>
 
 

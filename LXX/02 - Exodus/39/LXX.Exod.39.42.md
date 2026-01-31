@@ -7,34 +7,34 @@ According to all that the LORD commanded Moses, so the children of Israel made a
 The Israelites had done all the work just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
 [[Exod.39.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.41|<< Exodus 39:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.43|Exodus 39:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| accoutrements. | <big><span class="asgreek">παρασκευήν</span></big> <sup><small><small>[[G3904]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Μωυσης</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works; | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| doing | <big><span class="asgreek">πεποιηκότες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| made | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| accoutrements. | **<big>[[G3904\|παρασκευήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses saw | **<big>[[G1492\|είδε]]</big>** **<big>[[G3475\|Μωυσης]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works; | **<big>[[G2041\|έργα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| doing | **<big>[[G4160\|πεποιηκότες]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in the | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
 [[Exod.39.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.41|<< Exodus 39:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.43|Exodus 39:43 >>]]</td></tr></table>
 
 

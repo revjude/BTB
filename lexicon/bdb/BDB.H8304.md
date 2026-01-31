@@ -1,4 +1,4 @@
-<small>Also see: [[H7724]]</small>
+<small>Also see: **<big>[[H7724|שְׁוָא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שְׂרָיָה(וּׅ‎</span> **proper name, masculine** (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***persisteth*** [[BDB#Dr|Dr]]<sup>Hast. DB. ii. 530 JACOB</sup>); — usually <span class="bdbLangGreek">Σαραια</span>(<span class="bdbLangGreek">ς</span>); — <span class="bdbLangHebrew">‎שְׂרָיָה‎</span>: 
 

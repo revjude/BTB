@@ -1,4 +1,3 @@
-<span class="asaramaic">‎הֲדַר‎</span> <small>***(ha.dar)***</small> ==**to honor**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1921]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1921|הָדַר]]</big>**</small> 
 
-- Aramaic of <i>ha.dar</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ד‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to honor" [[H1921]])
+- Aramaic of <i>ha.dar</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ד‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to honor" **<big>[[H1921|הָדַר]]</big>**)

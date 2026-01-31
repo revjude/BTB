@@ -7,34 +7,34 @@ And all they that [were] about them strengthened their hands with vessels of sil
 And all their neighbors supported them with articles of silver and gold, with goods and livestock, and with valuables, in addition to all their freewill offerings.<small><sub>**MT:**</sub></small>
 [[Ezra.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strengthened | <big><span class="asgreek">ενίσχυσαν</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύεσιν</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσώ</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| belongings, | <big><span class="asgreek">αποσκευή</span></big> <sup><small><small>[[G6478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτήνεσι</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gifts, | <big><span class="asgreek">ξενίοις</span></big> <sup><small><small>[[G8423]]</small></small></sup> |
-| besides | <big><span class="asgreek">πάρεξ</span></big> <sup><small><small>[[G8649]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| voluntary offerings. | <big><span class="asgreek">εκουσίοις</span></big> <sup><small><small>[[G1595]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| strengthened | **<big>[[G1765\|ενίσχυσαν]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| their hands | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| items | **<big>[[G4632\|σκεύεσιν]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| gold, | **<big>[[G5557\|χρυσώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| belongings, | **<big>[[G6478\|αποσκευή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cattle, | **<big>[[G2934\|κτήνεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| gifts, | **<big>[[G8423\|ξενίοις]]</big>** |
+| besides | **<big>[[G8649\|πάρεξ]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| voluntary offerings. | **<big>[[G1595\|εκουσίοις]]</big>** |
 [[Ezra.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
 

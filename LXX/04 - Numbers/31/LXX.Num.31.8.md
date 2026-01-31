@@ -7,44 +7,44 @@ And they slew the kings of Midian, beside the rest of them that were slain; [nam
 Among the slain were Evi, Rekem, Zur, Hur, and Reba—the five kings of Midian. They also killed Balaam son of Beor with the sword.<small><sub>**MT:**</sub></small>
 [[Num.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.7|<< Numbers 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.9|Numbers 31:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Midian | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their slain -- | <big><span class="asgreek">τραυματίαις</span></big> <sup><small><small>[[G9470]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Evi, | <big><span class="asgreek">Ευνίν</span></big> <sup><small><small>[[H0189]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rekem, | <big><span class="asgreek">Ρουκόμ</span></big> <sup><small><small>[[H7552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zur, | <big><span class="asgreek">Σούρ</span></big> <sup><small><small>[[H6698]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hur, | <big><span class="asgreek">Ούρ</span></big> <sup><small><small>[[H2354]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Reba, | <big><span class="asgreek">Ροβέκ</span></big> <sup><small><small>[[H7254]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Midian; | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Balaam | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Beor | <big><span class="asgreek">Βεώρ</span></big> <sup><small><small>[[G1007]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their slain. | <big><span class="asgreek">τραυματίαις</span></big> <sup><small><small>[[G9470]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of Midian | **<big>[[G3099\|Μαδιάν]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their slain -- | **<big>[[G9470\|τραυματίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Evi, | **<big>[[H0189\|Ευνίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Rekem, | **<big>[[H7552\|Ρουκόμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zur, | **<big>[[H6698\|Σούρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hur, | **<big>[[H2354\|Ούρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Reba, | **<big>[[H7254\|Ροβέκ]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of Midian; | **<big>[[G3099\|Μαδιάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Balaam | **<big>[[G0903\|Βαλαάμ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Beor | **<big>[[G1007\|Βεώρ]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their slain. | **<big>[[G9470\|τραυματίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.7|<< Numbers 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.9|Numbers 31:9 >>]]</td></tr></table>
 
 

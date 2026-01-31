@@ -7,28 +7,28 @@ Now therefore, O LORD our God, save us from his hand, that all the kingdoms of t
 And now, O LORD our God, save us from his hand, so that all the kingdoms of the earth may know that You alone, O LORD, are God.”<small><sub>**MT:**</sub></small>
 [[Isa.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.19|<< Isaiah 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.21|Isaiah 37:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliver | <big><span class="asgreek">σώσον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his hand! | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| alone. | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
+| But now, | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| deliver | **<big>[[G4982\|σώσον]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| his hand! | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should know | **<big>[[G1097\|γνω]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| alone. | **<big>[[G3441\|μόνος]]</big>** |
 [[Isa.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.19|<< Isaiah 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.21|Isaiah 37:21 >>]]</td></tr></table>
 
 

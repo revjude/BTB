@@ -7,17 +7,17 @@ None [is so] fierce that dare stir him up: who then is able to stand before me?
 No one is so fierce as to rouse Leviathan. Then who is able to stand against Me?<small><sub>**MT:**</sub></small>
 [[Job.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.9|<< Job 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.11|Job 41:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Are you not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in awe | <big><span class="asgreek">δέδοικας</span></big> <sup><small><small>[[G6786]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it has been prepared | <big><span class="asgreek">ητοίμασταί</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| by me? | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opposing me? | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αντιστάς</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
+| Are you not | **<big>[[G3756\|ου]]</big>** |
+| in awe | **<big>[[G6786\|δέδοικας]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| it has been prepared | **<big>[[G2090\|ητοίμασταί]]</big>** |
+| by me? | **<big>[[G1473\|μοι]]</big>** |
+| For who | **<big>[[G5100\|τις]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| opposing me? | **<big>[[G1473\|εμοί]]</big>** **<big>[[G0436\|αντιστάς]]</big>** |
 [[Job.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.9|<< Job 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.11|Job 41:11 >>]]</td></tr></table>
 
 

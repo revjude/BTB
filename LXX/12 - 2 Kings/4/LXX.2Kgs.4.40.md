@@ -7,36 +7,36 @@ So they poured out for the men to eat. And it came to pass, as they were eating 
 And they poured it out for the men to eat, but when they tasted the stew they cried out, “There is death in the pot, O man of God!” And they could not eat it.<small><sub>**MT:**</sub></small>
 [[2Kgs.4.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.39|<< 2 Kings 4:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.41|2 Kings 4:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he poured out | <big><span class="asgreek">ενέχεεν</span></big> <sup><small><small>[[G7040]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to eat. | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eating | <big><span class="asgreek">εσθίειν</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stew, | <big><span class="asgreek">εψέματος</span></big> <sup><small><small>[[G7593]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yelled out | <big><span class="asgreek">ανεβόησαν</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kettle, | <big><span class="asgreek">λέβητι</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
-| O man | <big><span class="asgreek">άνθρωπε</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not able | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to eat. | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he poured out | **<big>[[G7040\|ενέχεεν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| men | **<big>[[G0435\|ανδράσι]]</big>** |
+| to eat. | **<big>[[G2068\|φαγείν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their eating | **<big>[[G2068\|εσθίειν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| stew, | **<big>[[G7593\|εψέματος]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| yelled out | **<big>[[G0310\|ανεβόησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπον]]</big>** |
+| Death | **<big>[[G2288\|θάνατος]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| kettle, | **<big>[[G8172\|λέβητι]]</big>** |
+| O man | **<big>[[G0444\|άνθρωπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were not able | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1410\|ηδύναντο]]</big>** |
+| to eat. | **<big>[[G2068\|φαγείν]]</big>** |
 [[2Kgs.4.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.39|<< 2 Kings 4:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.41|2 Kings 4:41 >>]]</td></tr></table>
 
 

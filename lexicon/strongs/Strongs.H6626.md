@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּתַת‎</span></big> **pâthath** <small>*(paw-thath')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּתַת‎</span></big>** **pâthath** <small>*(paw-thath')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ participle x

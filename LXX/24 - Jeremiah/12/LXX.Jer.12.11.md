@@ -7,25 +7,25 @@ They have made it desolate, [and being] desolate it mourneth unto me; the whole 
 They have made it a desolation; desolate before Me, it mourns. All the land is laid waste, but no man takes it to heart.<small><sub>**MT:**</sub></small>
 [[Jer.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.10|<< Jeremiah 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.12|Jeremiah 12:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It was appointed | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| by destruction; | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in extinction | <big><span class="asgreek">αφανισμώ</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| was obliterated | <big><span class="asgreek">ηφανίσθη</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| putting | <big><span class="asgreek">τιθέμενος</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| it to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| It was appointed | **<big>[[G5087\|ετέθη]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction | **<big>[[G0854\|αφανισμόν]]</big>** |
+| by destruction; | **<big>[[G0684\|απωλείας]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| in extinction | **<big>[[G0854\|αφανισμώ]]</big>** |
+| was obliterated | **<big>[[G0853\|ηφανίσθη]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| putting | **<big>[[G5087\|τιθέμενος]]</big>** |
+| it to | **<big>[[G1722\|εν]]</big>** |
+| heart. | **<big>[[G2588\|καρδία]]</big>** |
 [[Jer.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.10|<< Jeremiah 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.12|Jeremiah 12:12 >>]]</td></tr></table>
 
 

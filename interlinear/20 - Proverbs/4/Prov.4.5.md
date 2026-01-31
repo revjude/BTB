@@ -6,18 +6,18 @@ Get wisdom, get understanding; do not forget my words or turn from them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.4|<< Proverbs 4:4]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.6|Proverbs 4:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| acquire  | <span class="ashebrew"><big>קְנֵ֣ה </big></span><small><small><sup>[[H7069]]</sup></small></small> &#8207;| ke.Neh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָ֭כְמָה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| acquire  | <span class="ashebrew"><big>קְנֵ֣ה </big></span><small><small><sup>[[H7069]]</sup></small></small> &#8207;| ke.Neh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>בִינָ֑ה </big></span><small><small><sup>[[H0998]]</sup></small></small> &#8207;| vi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you forget  | <span class="ashebrew"><big>תִּשְׁכַּ֥ח </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| tish.Kach <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and may not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you turn aside  | <span class="ashebrew"><big>תֵּ֝֗ט </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| Tet <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] utterances of  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אִמְרֵי </big></span><small><small><sup>[[H0561]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'im.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth my  | <span class="ashebrew"><big>פִֽ </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| F <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| acquire  |**<big>&#8207;[[H7069\|קְנֵ֣ה]]&#8207; </big>**| ke.Neh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָ֭כְמָה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| acquire  |**<big>&#8207;[[H7069\|קְנֵ֣ה]]&#8207; </big>**| ke.Neh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0998\|בִינָ֑ה]]&#8207; </big>**| vi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you forget  |**<big>&#8207;[[H7911\|תִּשְׁכַּ֥ח]]&#8207; </big>**| tish.Kach<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you turn aside  |**<big>&#8207;[[H5186\|תֵּ֝֗ט]]&#8207; </big>**| Tet<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] utterances of  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0561\|אִמְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'im.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth my  |**<big>&#8207;[[H6310G\|פִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| F<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.4|<< Proverbs 4:4]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.6|Proverbs 4:6 >>]]</td></tr></table>
 
 

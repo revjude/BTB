@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chephar-ammoni</span> was a town allotted to the tribe of Benjamin.
 - A location only mentioned at [[Josh.18.24|Jos.18.24]]; 
-- only referred to as Chephar-ammoni<[[H3723G]]><[[H3726]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>  <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Chephar-ammoni **<big>[[H3723|כָּפָר]]</big>** **<big>[[H3726|כְּפַר הָעַמּוֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.966667,35.250000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Chephar-ammoni was a town located in the territory assigned to the tribe of Benj
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chephar/-ammoni (=Ketiv. Qere= Chephar-ammonah; KJV= Chephar-haammonai; NIV= Kephar Ammoni) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H3723G)[ <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H3726) <small>*Hebrew*</small> | 1x | [Jos.18.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephar\*\|reference=Jos.18.24) |
-All Strong's for **Chephar-ammoni**: \[[[H3723G]]\]
+| Chephar/-ammoni (=Ketiv. Qere= Chephar-ammonah; KJV= Chephar-haammonai; NIV= Kephar Ammoni) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H3723G)[ <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H3726) | 1x | [Jos.18.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephar\*\|reference=Jos.18.24) |
+All entries for **Chephar-ammoni**:  **<big>[[H3723|כָּפָר]]</big>**

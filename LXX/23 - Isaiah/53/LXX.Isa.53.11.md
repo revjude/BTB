@@ -7,33 +7,33 @@ He shall see of the travail of his soul, [and] shall be satisfied: by his knowle
 After the anguish of His soul, He will see the light of life and be satisfied. By His knowledge My righteous Servant will justify many, and He will bear their iniquities.<small><sub>**MT:**</sub></small>
 [[Isa.53.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.10|<< Isaiah 53:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.12|Isaiah 53:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> willed | <big><span class="asgreek">βούλεται</span></big> <sup><small><small>[[G1014]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to remove | <big><span class="asgreek">αφελείν</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| misery | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his soul, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to show | <big><span class="asgreek">δείξαι</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| light, | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to shape | <big><span class="asgreek">πλάσαι</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| understanding; | <big><span class="asgreek">συνέσει</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| to justify | <big><span class="asgreek">δικαιώσαι</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| \[the\] just one, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \[the\] good one | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύοντα</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| many, | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall bear | <big><span class="asgreek">ανοίσει</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> willed | **<big>[[G1014\|βούλεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to remove | **<big>[[G0851\|αφελείν]]</big>** |
+| misery | **<big>[[G4192\|πόνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his soul, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to show | **<big>[[G1166\|δείξαι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| light, | **<big>[[G5457\|φως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to shape | **<big>[[G4111\|πλάσαι]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| understanding; | **<big>[[G4907\|συνέσει]]</big>** |
+| to justify | **<big>[[G1344\|δικαιώσαι]]</big>** |
+| \[the\] just one, | **<big>[[G1342\|δίκαιον]]</big>** |
+| \[the\] good one | **<big>[[G2095\|ευ]]</big>** |
+| serving | **<big>[[G1398\|δουλεύοντα]]</big>** |
+| many, | **<big>[[G4183\|πολλοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their sins | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall bear | **<big>[[G0399\|ανοίσει]]</big>** |
 [[Isa.53.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.10|<< Isaiah 53:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.12|Isaiah 53:12 >>]]</td></tr></table>
 
 

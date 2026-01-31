@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָטָד‎</span></big> **ʼâṭâd** <small>*(aw-tawd')*</small> ==**Atad**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אָטָד‎</span></big>** **ʼâṭâd** <small>*(aw-tawd')*</small> ==**Atad**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to pierce or make fast</small>
 
 $\quad$ Atad, bramble, thorn.

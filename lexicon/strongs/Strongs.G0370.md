@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀνάξιος‎</span></big> **anáxios** <small>*(an-ax'-ee-os)*</small> ==**unworthy**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>from <span class="asgreek">Α</span><sup><small>[[G0001]]</small></sup> (as a negative particle) and <span class="asgreek">ἄξιος</span><sup><small>[[G0514]]</small></sup></small>
+**<big><span class="asgreek">‎ἀνάξιος‎</span></big>** **anáxios** <small>*(an-ax'-ee-os)*</small> ==**unworthy**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>from **<big>[[G0001|‎Α‎]]</big>** (as a negative particle) and **<big>[[G0514|‎ἄξιος‎]]</big>**</small>
 
 $\quad$ unworthy.
 - unfit

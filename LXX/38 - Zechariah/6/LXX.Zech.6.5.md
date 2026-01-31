@@ -7,33 +7,33 @@ And the angel answered and said unto me, These [are] the four spirits of the hea
 And the angel told me, “These are the four spirits of heaven, going forth from their station before the Lord of all the earth.<small><sub>**MT:**</sub></small>
 [[Zech.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| These | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| winds | <big><span class="asgreek">άνεμοι</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they go forth | <big><span class="asgreek">εκπορεύονται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to stand beside | <big><span class="asgreek">παραστήναι</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lord | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| speaking | **<big>[[G2980\|λαλών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| These | **<big>[[G3778\|ταύτά]]</big>** |
+| are | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| winds | **<big>[[G0417\|άνεμοι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they go forth | **<big>[[G1607\|εκπορεύονται]]</big>** |
+| to stand beside | **<big>[[G3936\|παραστήναι]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| Lord | **<big>[[G2962\|κυρίω]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
 [[Zech.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
 
 

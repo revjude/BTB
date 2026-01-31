@@ -7,40 +7,40 @@ And all the congregation of Judah, with the priests and the Levites, and all the
 Then the whole assembly of Judah rejoiced along with the priests and Levites and the whole assembly that had come from Israel, including the foreigners who had come from Israel and those who lived in Judah.<small><sub>**MT:**</sub></small>
 [[2Chr.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.24|<< 2 Chronicles 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.26|2 Chronicles 30:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was glad | <big><span class="asgreek">ευφράνθη</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθόντες</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">προσήλυτοι</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθόντες</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was glad | **<big>[[G2165\|ευφράνθη]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| coming | **<big>[[G2064\|ελθόντες]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| foreigners | **<big>[[G4339\|προσήλυτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| coming | **<big>[[G2064\|ελθόντες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[2Chr.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.24|<< 2 Chronicles 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.26|2 Chronicles 30:26 >>]]</td></tr></table>
 
 

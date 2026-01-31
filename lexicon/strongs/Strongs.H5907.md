@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַכְבּוֹר‎</span></big> **ʻAkbôwr** <small>*(ak-bore')*</small> ==**Achbor**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎עַכְבָּר‎</span><sup><small>[[H5909]]</small></sup></small>
+**<big><span class="ashebrew">‎עַכְבּוֹר‎</span></big>** **ʻAkbôwr** <small>*(ak-bore')*</small> ==**Achbor**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H5909|‎עַכְבָּר‎]]</big>**</small>
 
 $\quad$ Achbor.
 - § Achbor = *"mouse"*

@@ -11,17 +11,17 @@ He protects all his bones; not one of them will be broken.<small><sub>**MT:**</
 > $\quad$ referenced by: [[John.19.36|John 19:36]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bones; | <big><span class="asgreek">οστα</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shall be broken. | <big><span class="asgreek">συντριβήσεται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> guards | **<big>[[G5442\|φυλάσσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their bones; | **<big>[[G3747\|οστα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| shall be broken. | **<big>[[G4937\|συντριβήσεται]]</big>** |
 [[Ps.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.19|<< Psalm 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.21|Psalm 34:21 >>]]</td></tr></table>
 
 

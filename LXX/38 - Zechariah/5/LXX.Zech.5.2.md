@@ -7,28 +7,28 @@ And he said unto me, What seest thou? And I answered, I see a flying roll; the l
 “What do you see?” asked the angel. “I see a flying scroll,” I replied, “twenty cubits long and ten cubits wide.”<small><sub>**MT:**</sub></small>
 [[Zech.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.1|<< Zechariah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.3|Zechariah 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see? | <big><span class="asgreek">βλέπεις</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see | <big><span class="asgreek">ορώ</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| a sickle | <big><span class="asgreek">δρέπανον</span></big> <sup><small><small>[[G1407]]</small></small></sup> |
-| flying, | <big><span class="asgreek">πετόμενον</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
-| \[the\] length -- | <big><span class="asgreek">μήκους</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] width -- | <big><span class="asgreek">πλάτους</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| do you | **<big>[[G1473\|συ]]</big>** |
+| see? | **<big>[[G0991\|βλέπεις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| see | **<big>[[G3708\|ορώ]]</big>** |
+| a sickle | **<big>[[G1407\|δρέπανον]]</big>** |
+| flying, | **<big>[[G4072\|πετόμενον]]</big>** |
+| \[the\] length -- | **<big>[[G3372\|μήκους]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] width -- | **<big>[[G4114\|πλάτους]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
 [[Zech.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.1|<< Zechariah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.3|Zechariah 5:3 >>]]</td></tr></table>
 
 

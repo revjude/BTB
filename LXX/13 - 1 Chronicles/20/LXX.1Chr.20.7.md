@@ -7,20 +7,20 @@ But when he defied Israel, Jonathan the son of Shimea David’s brother slew him
 and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.<small><sub>**MT:**</sub></small>
 [[1Chr.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.6|<< 1 Chronicles 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.8|1 Chronicles 20:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he berated | <big><span class="asgreek">ωνείδισε</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shimea | <big><span class="asgreek">Σαμαά</span></big> <sup><small><small>[[H8092]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he berated | **<big>[[G3679\|ωνείδισε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Shimea | **<big>[[H8092\|Σαμαά]]</big>** |
+| brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
 [[1Chr.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.6|<< 1 Chronicles 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.8|1 Chronicles 20:8 >>]]</td></tr></table>
 
 

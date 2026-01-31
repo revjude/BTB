@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּבְעָה‎</span></big> **Gibʻâh** <small>*(ghib-aw')*</small> ==**Gibeah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎גִּבְעָה‎</span><sup><small>[[H1389]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּבְעָה‎</span></big>** **Gibʻâh** <small>*(ghib-aw')*</small> ==**Gibeah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H1389|‎גִּבְעָה‎]]</big>**</small>
 
 $\quad$ Gibeah, the hill.
 - § Gibeah = *"hill"*

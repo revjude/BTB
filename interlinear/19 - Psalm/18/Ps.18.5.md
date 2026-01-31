@@ -6,14 +6,14 @@ The cords of Sheol entangled me; the snares of death confronted me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.4|<< Psalms 18:4]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.6|Psalms 18:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] cords of  | <span class="ashebrew"><big>חֶבְלֵ֣י </big></span><small><small><sup>[[H2256M]]</sup></small></small> &#8207;| chev.Lei <small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sheol  | <span class="ashebrew"><big>שְׁא֣וֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| she.'ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they surrounded me  | <span class="ashebrew"><big>סְבָב֑וּ </big></span><small><small><sup>[[H5437H]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| se.va.Vu. <small><sup>[[HVqp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they confronted me  | <span class="ashebrew"><big>קִ֝דְּמ֗וּ </big></span><small><small><sup>[[H6923]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ki.de.Mu. <small><sup>[[HVpp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] snares of  | <span class="ashebrew"><big>מ֣וֹקְשֵׁי </big></span><small><small><sup>[[H4170]]</sup></small></small> &#8207;| Mok.shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| death  | <span class="ashebrew"><big>מָֽוֶת </big></span><small><small><sup>[[H4194]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cords of  |**<big>&#8207;[[H2256M\|חֶבְלֵ֣י]]&#8207; </big>**| chev.Lei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  |**<big>&#8207;[[H7585\|שְׁא֣וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they surrounded me  |**<big>&#8207;[[H5437H\|סְבָב֑וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| se.va.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they confronted me  |**<big>&#8207;[[H6923\|קִ֝דְּמ֗וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ki.de.Mu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] snares of  |**<big>&#8207;[[H4170\|מ֣וֹקְשֵׁי]]&#8207; </big>**| Mok.shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| death  |**<big>&#8207;[[H4194\|מָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.4|<< Psalms 18:4]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.6|Psalms 18:6 >>]]</td></tr></table>
 
 

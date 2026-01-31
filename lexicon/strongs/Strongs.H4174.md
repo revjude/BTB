@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹרָד‎</span></big> **môwrâd** <small>*(mo-rawd')*</small> ==**descent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָרַד‎</span><sup><small>[[H3381]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹרָד‎</span></big>** **môwrâd** <small>*(mo-rawd')*</small> ==**descent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3381|‎יָרַד‎]]</big>**</small>
 
 $\quad$ going down, steep place, thin work.
 - ***a descent***
@@ -9,4 +9,4 @@ $\quad$ going down, steep place, thin work.
 $\quad$ **1a)** descent
 $\quad$ **1b)** hanging work
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὁδός</span><sup><small>[[G3598]]</small></sup>
+<small>See Greek: </small>**<big>[[G3598|ὁδός]]</big>**

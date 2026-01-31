@@ -11,21 +11,21 @@ Did you bring Me sacrifices and offerings forty years in the wilderness, O house
 > $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Did | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| victims for slaughter | <big><span class="asgreek">σφάγια</span></big> <sup><small><small>[[G4968]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrifices | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| you bring near | <big><span class="asgreek">προσηνέγκατέ</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| for forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness? | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| Did | **<big>[[G3361\|μη]]</big>** |
+| victims for slaughter | **<big>[[G4968\|σφάγια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrifices | **<big>[[G2378\|θυσίας]]</big>** |
+| you bring near | **<big>[[G4374\|προσηνέγκατέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| for forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness? | **<big>[[G2048\|ερήμω]]</big>** |
 [[Amos.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.24|<< Amos 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.26|Amos 5:26 >>]]</td></tr></table>
 
 

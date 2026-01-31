@@ -7,35 +7,35 @@ For, behold, I have made thee this day a defenced city, and an iron pillar, and 
 Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its officials, its priests, and the people of the land.<small><sub>**MT:**</sub></small>
 [[Jer.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.17|<< Jeremiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.19|Jeremiah 1:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδου</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have made | <big><span class="asgreek">τεθεικά</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| today's | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| a fortified | <big><span class="asgreek">οχυράν</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of brass | <big><span class="asgreek">χαλκούν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| a fortified | <big><span class="asgreek">οχυρόν</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| all together \[against\] | <big><span class="asgreek">άπασι</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλεύσιν</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its rulers, | <big><span class="asgreek">άρχουσιν</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδου]]</big>** |
+| I have made | **<big>[[G5087\|τεθεικά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| today's | **<big>[[G4594\|σήμερον]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| a fortified | **<big>[[G8575\|οχυράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| of brass | **<big>[[G5470\|χαλκούν]]</big>** |
+| a fortified | **<big>[[G8575\|οχυρόν]]</big>** |
+| all together \[against\] | **<big>[[G0537\|άπασι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| kings | **<big>[[G0935\|βασιλεύσιν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| its rulers, | **<big>[[G0758\|άρχουσιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[Jer.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.17|<< Jeremiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.19|Jeremiah 1:19 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adalia</span> was one of the ten sons of Haman, the enemy of the Jews, who was killed along with his brothers \([[Esth.9.8|Est.9.8]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Esth.9.8|Est.9.8]]; 
-- only referred to as Adalia<[[H0118]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>\); 
--  son of Haman<[[H2001]]>; 
-- a brother of Parshandatha<[[H6577]]>, Dalphon<[[H1813]]>, Aspatha<[[H0630]]>, Poratha<[[H6334]]>, Aridatha<[[H0743]]>, Parmashta<[[H6534]]>, Arisai<[[H0747]]>, Aridai<[[H0742]]> and Vaizatha<[[H2055]]>.
+- only referred to as Adalia **<big>[[H0118|אֲדַלְיָא]]</big>**; 
+-  son of Haman **<big>[[H2001|הָמָן]]</big>**; 
+- a brother of Parshandatha **<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**, Dalphon **<big>[[H1813|דַּלְפוֹן]]</big>**, Aspatha **<big>[[H0630|אַסְפָּתָא]]</big>**, Poratha **<big>[[H6334|פּוֹרָתָא]]</big>**, Aridatha **<big>[[H0743|אֲרִידָתָא]]</big>**, Parmashta **<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**, Arisai **<big>[[H0747|אֲרִיסַי]]</big>**, Aridai **<big>[[H0742|אֲרִידַי]]</big>** and Vaizatha **<big>[[H2055|וַיְזָתָא]]</big>**.
 
 Adalia was one of the ten sons of Haman, the notorious enemy of the Jews in the book of Esther. Haman, a high-ranking official in the Persian court, had plotted to destroy all the Jews in the empire due to his hatred for Mordecai, a Jew who refused to bow down to him \(Esther 3:5-6\). 
 
@@ -18,8 +18,8 @@ Adalia is mentioned by name among the sons of Haman who were killed \([[Esth.9.8
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adalia | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>](H0118) <small>*Hebrew*</small> | 1x | [Est.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adalia\*\|reference=Est.9.8) |
-All Strong's for **Adalia**: \[[[H0118]]\]
+| Adalia | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>](H0118) | 1x | [Est.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adalia\*\|reference=Est.9.8) |
+All entries for **Adalia**:  **<big>[[H0118|אֲדַלְיָא]]</big>**
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

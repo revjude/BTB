@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָהּ‎</span></big> **Yâhh** <small>*(yaw)*</small> ==**LORD**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>contraction for <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup>, and meaning the same</small>
+**<big><span class="ashebrew">‎יָהּ‎</span></big>** **Yâhh** <small>*(yaw)*</small> ==**LORD**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>contraction for **<big>[[H3068|‎יְהֹוָה‎]]</big>**, and meaning the same</small>
 
 $\quad$ Jah, the Lord, most vehement. Compare names in '-iah,' '-jah.'
 - ***Jah***, the sacred name
@@ -10,4 +10,4 @@ $\quad$ **1b)** used in many compounds
 $\quad$ $\quad$ **1b1)** names beginning with the letters 'Je'
 $\quad$ $\quad$ **1b2)** names ending with 'iah' or 'jah'
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλληλουϊα</span><sup><small>[[G0239]]</small></sup>
+<small>See Greek: </small>**<big>[[G0239|ἀλληλουϊα]]</big>**

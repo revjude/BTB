@@ -7,20 +7,20 @@ Examine me, O LORD, and prove me; try my reins and my heart.
 Test me, O LORD, and try me; examine my heart and mind.<small><sub>**MT:**</sub></small>
 [[Ps.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.1|<< Psalm 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.3|Psalm 26:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Try | <big><span class="asgreek">δοκίμασόν</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| test | <big><span class="asgreek">πείρασόν</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Set on fire | <big><span class="asgreek">πύρωσον</span></big> <sup><small><small>[[G4448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my kidneys | <big><span class="asgreek">νεφρούς</span></big> <sup><small><small>[[G3510]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart! | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Try | **<big>[[G1381\|δοκίμασόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| test | **<big>[[G3985\|πείρασόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| Set on fire | **<big>[[G4448\|πύρωσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my kidneys | **<big>[[G3510\|νεφρούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart! | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.1|<< Psalm 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.3|Psalm 26:3 >>]]</td></tr></table>
 
 

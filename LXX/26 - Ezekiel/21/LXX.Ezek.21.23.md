@@ -7,22 +7,22 @@ And it shall be unto them as a false divination in their sight, to them that hav
 It will seem like a false omen to the eyes of those who have sworn allegiance to him, but it will draw attention to their guilt and take them captive.<small><sub>**MT:**</sub></small>
 [[Ezek.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.22|<< Ezekiel 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.24|Ezekiel 21:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one using oracles | <big><span class="asgreek">μαντευόμενος</span></big> <sup><small><small>[[G3132]]</small></small></sup> |
-| for divination | <big><span class="asgreek">μαντείαν</span></big> <sup><small><small>[[G8252]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| calling to mind | <big><span class="asgreek">αναμιμνήσκων</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
-| their iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be seized. | <big><span class="asgreek">συλληφθήναι</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \[was\] as | **<big>[[G5613\|ως]]</big>** |
+| one using oracles | **<big>[[G3132\|μαντευόμενος]]</big>** |
+| for divination | **<big>[[G8252\|μαντείαν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he himself | **<big>[[G1473\|αυτός]]</big>** |
+| calling to mind | **<big>[[G0363\|αναμιμνήσκων]]</big>** |
+| their iniquity | **<big>[[G0093\|αδικίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be seized. | **<big>[[G4815\|συλληφθήναι]]</big>** |
 [[Ezek.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.22|<< Ezekiel 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.24|Ezekiel 21:24 >>]]</td></tr></table>
 
 

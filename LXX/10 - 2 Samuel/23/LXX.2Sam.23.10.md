@@ -7,43 +7,43 @@ He arose, and smote the Philistines until his hand was weary, and his hand clave
 but Eleazar stood his ground and struck the Philistines until his hand grew weary and stuck to his sword. The LORD brought about a great victory that day. Then the troops returned to him, but only to plunder the dead.<small><sub>**MT:**</sub></small>
 [[2Sam.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.9|<< 2 Samuel 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.11|2 Samuel 23:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| tired | <big><span class="asgreek">εκοπίασεν</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was cleaved | <big><span class="asgreek">προσεκολλήθη</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword. | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| deliverance | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| returned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-|  | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| despoiling. | <big><span class="asgreek">σκυλεύειν</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| tired | **<big>[[G2872\|εκοπίασεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χείρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was cleaved | **<big>[[G4347\|προσεκολλήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χείρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sword. | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| deliverance | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1473\|εκείνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| returned | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+|  | **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| despoiling. | **<big>[[G9120\|σκυλεύειν]]</big>** |
 [[2Sam.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.9|<< 2 Samuel 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.11|2 Samuel 23:11 >>]]</td></tr></table>
 
 

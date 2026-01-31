@@ -1,4 +1,3 @@
-<span class="ashebrew">‎חֲנַנְיָ֫הוּ‎</span> <small>***(cha.nan.yah)***</small> ==**Hananiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Divided Monarchy, first mentioned at [[1Chr.25.4|1Ch.25.4]]
--  son of: Heman ([[H1968I]])
--  brother of: Bukkiah ([[H1232]]), Mattaniah ([[H4983H]]), Uzziel ([[H5816J]]), Shebuel ([[H7619H]]), Jerimoth ([[H3406L]]), Hanani ([[H2607H]]), Eliathah ([[H0448]]), Giddalti ([[H1437]]), Romamti-ezer ([[H7320]]), Joshbekashah ([[H3436]]), Mallothi ([[H4413]]), Hothir ([[H1956]]), Mahazioth ([[H4238]])
+-  son of: Heman (**<big>[[H1968I|הֵימָן]]</big>**)
+-  brother of: Bukkiah (**<big>[[H1232|בֻּקִּיָּה]]</big>**), Mattaniah (**<big>[[H4983H|מַתַּנְיָה]]</big>**), Uzziel (**<big>[[H5816J|עֻזִּיאֵל]]</big>**), Shebuel (**<big>[[H7619H|שְׁבוּאֵל]]</big>**), Jerimoth (**<big>[[H3406L|יְרִימוֹת]]</big>**), Hanani (**<big>[[H2607H|חֲנָנִי]]</big>**), Eliathah (**<big>[[H0448|אֱלִיאָתָה]]</big>**), Giddalti (**<big>[[H1437|גִּדַּלְתִּי]]</big>**), Romamti-ezer (**<big>[[H7320|רוֹמַמְתִּי עֶזֶר]]</big>**), Joshbekashah (**<big>[[H3436|יׇשְׁבְּקָשָׁה]]</big>**), Mallothi (**<big>[[H4413|מַלּוֹתִי]]</big>**), Hothir (**<big>[[H1956|הוֹתִיר]]</big>**), Mahazioth (**<big>[[H4238|מַחֲזִיאוֹת]]</big>**)

@@ -6,7 +6,7 @@
 
 
 
-<small>Also see: [[H0884]]</small>
+<small>Also see: **<big>[[H0884|בְּאֵר שֶׁבַע]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎שֶׁבַע‎</span> si vera lectio **proper name, of a location** ==in Simeon==, <span class="bdbLangHebrew">‎בְּאֵרשֶֿׁבֶע וְשֶׁבַע‎</span> [[Josh.19.2|Josh 19:2]] <span class="bdbLangGreek">Σαμαα</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Σαβε</span>; probably strike out <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְשׁ‎</span> [[BDB#Di|Di]] and others (omit \|\| [[1Chr.4.23|1Chr 4:23]]). — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּאֵר שׁ‎</span>. <span class="bdbLangHebrew">‎שֶׁבַע‎</span> see in compounds <span class="bdbLangHebrew">‎אֱלִישֶׁבַע‎</span>, (<span class="bdbLangHebrew">‎בַּתשֶֿׁבַע‎</span>), <span class="bdbLangHebrew">‎יְהוֺשֶׁבַע‎</span>.
 

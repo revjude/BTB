@@ -7,16 +7,16 @@ And Zebadiah, and Meshullam, and Hezeki, and Heber,
 Zebadiah, Meshullam, Hizki, Heber,<small><sub>**MT:**</sub></small>
 [[1Chr.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.16|<< 1 Chronicles 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.18|1 Chronicles 8:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zebadiah, | <big><span class="asgreek">Ζαβαδία</span></big> <sup><small><small>[[H2069]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Meshullam, | <big><span class="asgreek">Μοσολλάμ</span></big> <sup><small><small>[[H4918]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezeki, | <big><span class="asgreek">Εζεκί</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Heber, | <big><span class="asgreek">Άβερ</span></big> <sup><small><small>[[H2268]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Zebadiah, | **<big>[[H2069\|Ζαβαδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Meshullam, | **<big>[[H4918\|Μοσολλάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hezeki, | **<big>[[G1478\|Εζεκί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Heber, | **<big>[[H2268\|Άβερ]]</big>** |
 [[1Chr.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.16|<< 1 Chronicles 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.18|1 Chronicles 8:18 >>]]</td></tr></table>
 
 

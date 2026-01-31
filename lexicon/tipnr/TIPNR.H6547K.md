@@ -4,8 +4,8 @@ Pharaoh living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Pharaoh</span>, the Egyptian ruler who made an alliance with King Solomon and gave him his daughter in marriage.
 - An Egyptian Pharaoh living at the time of United Monarchy, first mentioned at 1Ki.3.1; 
-- only referred to as Pharaoh<[[H6547K]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>\); 
-- husband of Tahpenes<[[H8472G]]>.
+- only referred to as Pharaoh **<big>[[H6547|פַּרְעֹה]]</big>**; 
+- husband of Tahpenes **<big>[[H8472|תַּחְפְּנֵיס]]</big>**.
 
 This Pharaoh was the Egyptian ruler during the reign of King Solomon \(1 Kings 3:1; 9:16\). Solomon made an alliance with Pharaoh and married his daughter, who brought the city of Gezer as a dowry. Solomon built a separate palace for Pharaoh's daughter \([[1Kgs.7.8|1 Kings 7:8]]; 9:24; [[2Chr.8.11|2 Chronicles 8:11]]\) and included her among his many foreign wives \([[1Kgs.11.1|1 Kings 11:1]]\). 
 
@@ -15,8 +15,8 @@ The specific identity of this Pharaoh is not provided in the Bible. However, bas
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pharaoh | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547K) <small>*Hebrew*</small> | 15x | [[1Ki.3.1a] ... [Sng.1.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=1Ki.3.1;1Ki.3.1;1Ki.7.8;1Ki.9.16;1Ki.9.24;1Ki.11.1;1Ki.11.18;1Ki.11.19;1Ki.11.20;1Ki.11.20;1Ki.11.20;1Ki.11.21;1Ki.11.22;2Ch.8.11;Sng.1.9) |
-All Strong's for **Pharaoh**: \[[[H6547K]]\]
+| Pharaoh | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547K) | 15x | [[1Ki.3.1a] ... [Sng.1.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=1Ki.3.1;1Ki.3.1;1Ki.7.8;1Ki.9.16;1Ki.9.24;1Ki.11.1;1Ki.11.18;1Ki.11.19;1Ki.11.20;1Ki.11.20;1Ki.11.20;1Ki.11.21;1Ki.11.22;2Ch.8.11;Sng.1.9) |
+All entries for **Pharaoh**:  **<big>[[H6547|פַּרְעֹה]]</big>**
 #### Related Profiles:
 - **[Tahpenes](H8472G)** (spouse)
 - **[daughter_of_Pharaoh](H6547P)** (child)

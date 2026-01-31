@@ -6,14 +6,14 @@ Thinkest thou this to be right, [that] thou saidst, My righteousness [is] more t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.1|<< Job 35:1]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.3|Job 35:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ this  | <span class="ashebrew"><big>הֲ֭ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>זֹאת </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTi]]</sup></small> zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do you consider  | <span class="ashebrew"><big>חָשַׁ֣בְתָּ </big></span><small><small><sup>[[H2803J]]</sup></small></small> &#8207;| cha.Shav.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to justice  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have said  | <span class="ashebrew"><big>אָ֝מַ֗רְתָּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness my  | <span class="ashebrew"><big>צִדְקִ֥ </big></span><small><small><sup>[[H6664G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| tzid.K <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] more than God  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵֽל </big></span><small><small><sup>[[H0410G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ this  |**<big>&#8207;[[H9008\|הֲ֭]]&#8207;&#8207;[[H2063\|זֹאת]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you consider  |**<big>&#8207;[[H2803J\|חָשַׁ֣בְתָּ]]&#8207; </big>**| cha.Shav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to justice  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have said  |**<big>&#8207;[[H0559\|אָ֝מַ֗רְתָּ]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness my  |**<big>&#8207;[[H6664G\|צִדְקִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tzid.K<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] more than God  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0410G\|אֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.1|<< Job 35:1]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.3|Job 35:3 >>]]</td></tr></table>
 
 

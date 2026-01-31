@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Mesopotamia</span>, the ancient region between the Tigris and Euphrates rivers, where Abraham lived before being called to Canaan \([[Gen.24.10|Genesis 24:10]]; Acts 7:2\) and where the Israelites were oppressed by Cushan-rishathaim \([[Judg.3.8|Judges 3:8]], 10\).
 - A location first mentioned at [[Gen.24.10|Gen.24.10]]; 
-- referred to as Mesopotamia<[[H0763G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\), or Mesopotamia \(NIV= Aram\) <[[H0758N]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Mesopotamia<[[G3318]]> \(<span class='tipnrLangGreek'>Μεσοποταμία</span>\).
+- referred to as Mesopotamia **<big>[[H0763|אֲרַם נַהֲרַיִם]]</big>**, or Mesopotamia \(NIV= Aram\)  **<big>[[H0758|אֲרָם]]</big>**, or Mesopotamia **<big>[[G3318|Μεσοποταμία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.53650368616845,44.42088287373876&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Mesopotamia, meaning "between the rivers," refers to the ancient region located 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mesopotamia | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0763G) <small>*Hebrew*</small> | 4x | [[Gen.24.10] ... [1Ch.19.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Gen.24.10;Deu.23.4;Jdg.3.8;1Ch.19.6) |
-| Mesopotamia (NIV= Aram) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0758N) <small>*Hebrew*</small> | 1x | [Jdg.3.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Jdg.3.10) |
-| Mesopotamia | [<span class='tipnrLangGreek'>Μεσοποταμία</span>](G3318) <small>*Greek*</small> | 2x | [[Act.2.9] & [Act.7.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Act.2.9;Act.7.2) |
-All Strong's for **Mesopotamia**: \[[[H0763G]]\] \[[[H0758N]]\] \[[[G3318]]\]
+| Mesopotamia | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0763G) | 4x | [[Gen.24.10] ... [1Ch.19.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Gen.24.10;Deu.23.4;Jdg.3.8;1Ch.19.6) |
+| Mesopotamia (NIV= Aram) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0758N) | 1x | [Jdg.3.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Jdg.3.10) |
+| Mesopotamia | [<span class='tipnrLangGreek'>Μεσοποταμία</span>](G3318) | 2x | [[Act.2.9] & [Act.7.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesopotamia\*\|reference=Act.2.9;Act.7.2) |
+All entries for **Mesopotamia**:  **<big>[[H0763|אֲרַם נַהֲרַיִם]]</big>** ☩  **<big>[[H0758|אֲרָם]]</big>** ☩  **<big>[[G3318|Μεσοποταμία]]</big>**

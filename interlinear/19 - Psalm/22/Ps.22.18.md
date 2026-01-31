@@ -10,15 +10,15 @@ They divide my garments among them and cast lots for my clothing.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.35|Matt 27:35]] ☩ [[Mark.15.24|Mark 15:24]] ☩ [[Luke.23.34|Luke 23:34]] ☩ [[John.19.24|John 19:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they distribute  | <span class="ashebrew"><big>יְחַלְּק֣וּ </big></span><small><small><sup>[[H2505A]]</sup></small></small> &#8207;| ye.cha.le.Ku <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clothes my  | <span class="ashebrew"><big>בְגָדַ֣ </big></span><small><small><sup>[[H0899B]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve.ga.Da <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to themselves  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clothing my  | <span class="ashebrew"><big>לְ֝בוּשִׁ֗ </big></span><small><small><sup>[[H3830]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| le.vu.Sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they cast  | <span class="ashebrew"><big>יַפִּ֥ילוּ </big></span><small><small><sup>[[H5307I]]</sup></small></small> &#8207;| ya.Pi.lu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lot  | <span class="ashebrew"><big>גוֹרָֽל </big></span><small><small><sup>[[H1486]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| go.Ral <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they distribute  |**<big>&#8207;[[H2505A\|יְחַלְּק֣וּ]]&#8207; </big>**| ye.cha.le.Ku<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothes my  |**<big>&#8207;[[H0899B\|בְגָדַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.ga.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothing my  |**<big>&#8207;[[H3830\|לְ֝בוּשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.vu.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cast  |**<big>&#8207;[[H5307I\|יַפִּ֥ילוּ]]&#8207; </big>**| ya.Pi.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lot  |**<big>&#8207;[[H1486\|גוֹרָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.17|<< Psalms 22:17]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.19|Psalms 22:19 >>]]</td></tr></table>
 
 

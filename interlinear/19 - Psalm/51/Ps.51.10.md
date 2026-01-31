@@ -6,17 +6,17 @@ Create in me a clean heart, O God, and renew a right spirit within me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.9|<< Psalms 51:9]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.11|Psalms 51:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a heart  | <span class="ashebrew"><big>לֵ֣ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure  | <span class="ashebrew"><big>טָ֭הוֹר </big></span><small><small><sup>[[H2889]]</sup></small></small> &#8207;| Ta.hor <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| create  | <span class="ashebrew"><big>בְּרָא </big></span><small><small><sup>[[H1254A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.ra'- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> me  | <span class="ashebrew"><big>לִ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֑ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a spirit  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ר֥וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| steadfast  | <span class="ashebrew"><big>נָ֝כ֗וֹן </big></span><small><small><sup>[[H3559K]]</sup></small></small> &#8207;| na.Khon <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| renew  | <span class="ashebrew"><big>חַדֵּ֥שׁ </big></span><small><small><sup>[[H2318]]</sup></small></small> &#8207;| cha.Desh <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in inner being my  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבִּֽ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a heart  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  |**<big>&#8207;[[H2889\|טָ֭הוֹר]]&#8207; </big>**| Ta.hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| create  |**<big>&#8207;[[H1254A\|בְּרָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.ra'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  |**<big>&#8207;[[H9005\|לִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a spirit  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֥וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| steadfast  |**<big>&#8207;[[H3559K\|נָ֝כ֗וֹן]]&#8207; </big>**| na.Khon<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| renew  |**<big>&#8207;[[H2318\|חַדֵּ֥שׁ]]&#8207; </big>**| cha.Desh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in inner being my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.9|<< Psalms 51:9]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.11|Psalms 51:11 >>]]</td></tr></table>
 
 

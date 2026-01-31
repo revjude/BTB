@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Michmethath</span>, a place on the border between the territories of Ephraim and Manasseh \([[Josh.16.6|Joshua 16:6]]; 17:7\).
 - A location first mentioned at [[Josh.16.6|Jos.16.6]]; 
-- only referred to as Michmethath<[[H4366]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Michmethath **<big>[[H4366|מִכְמְתָת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.183333,35.283333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Michmethath is mentioned twice in the Bible as a place situated on the border be
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Michmethath (KJV= Michmethah; NIV= Mikmethath) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4366) <small>*Hebrew*</small> | 2x | [[Jos.16.6] & [Jos.17.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmethath\*\|reference=Jos.16.6;Jos.17.7) |
-All Strong's for **Michmethath**: \[[[H4366]]\]
+| Michmethath (KJV= Michmethah; NIV= Mikmethath) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4366) | 2x | [[Jos.16.6] & [Jos.17.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmethath\*\|reference=Jos.16.6;Jos.17.7) |
+All entries for **Michmethath**:  **<big>[[H4366|מִכְמְתָת]]</big>**

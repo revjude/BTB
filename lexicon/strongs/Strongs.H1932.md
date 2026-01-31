@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎הוּא‎</span></big> **hûwʼ** <small>*(hoo)*</small> ==**he/she/it**==  <sup><small>[[TEHMC#A:PerP-CS|A:PerP-CS]]</small></sup> 
-<small>(Aramaic) or (feminine) <span class="ashebrew">הִיא</span> **hîyʼ** <small>*(he)*</small>; (Aramaic), corresponding to <span class="ashebrew">‎הוּא‎</span><sup><small>[[H1931]]</small></sup></small>
+**<big><span class="asaramaic">‎הוּא‎</span></big>** **hûwʼ** <small>*(hoo)*</small> ==**he/she/it**==  <sup><small>[[TEHMC#A:PerP-CS|A:PerP-CS]]</small></sup> 
+<small>(Aramaic) or (feminine) **<big><span class="ashebrew">הִיא</span></big>** **hîyʼ** <small>*(he)*</small>; (Aramaic), corresponding to **<big>[[H1931|‎הוּא‎]]</big>**</small>
 
 $\quad$ [idiom] are, it, this.
 - {***he*** (she or it)

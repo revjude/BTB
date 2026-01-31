@@ -7,44 +7,44 @@ For only Og king of Bashan remained of the remnant of giants; behold, his bedste
 (For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)<small><sub>**MT:**</sub></small>
 [[Deut.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| Og | <big><span class="asgreek">Ωγ</span></big> <sup><small><small>[[H5747]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Bashan | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| was left | <big><span class="asgreek">κατελείφθη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rephaim. | <big><span class="asgreek">Ραφαϊν</span></big> <sup><small><small>[[H7497b]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bed | <big><span class="asgreek">κλίνη</span></big> <sup><small><small>[[G2825]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is a bed | <big><span class="asgreek">κλίνη</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| of iron. | <big><span class="asgreek">σιδηρά</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Akra | <big><span class="asgreek">άκρα</span></big> <sup><small><small>[[G6202]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon. | <big><span class="asgreek">Αμμάν</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| Nine | <big><span class="asgreek">εννέα</span></big> <sup><small><small>[[G1767]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| was the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cubit | <big><span class="asgreek">πήχει</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| of a man. | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| only | **<big>[[G4133\|πλην]]</big>** |
+| Og | **<big>[[H5747\|Ωγ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Bashan | **<big>[[H1316\|Βασάν]]</big>** |
+| was left | **<big>[[G2641\|κατελείφθη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Rephaim. | **<big>[[H7497b\|Ραφαϊν]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his bed | **<big>[[G2825\|κλίνη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is a bed | **<big>[[G2825\|κλίνη]]</big>** |
+| of iron. | **<big>[[G4603\|σιδηρά]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| this \[is\] | **<big>[[G3778\|αύτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| Akra | **<big>[[G6202\|άκρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon. | **<big>[[H5983\|Αμμάν]]</big>** |
+| Nine | **<big>[[G1767\|εννέα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| was the | **<big>[[G3588\|το]]</big>** |
+| length | **<big>[[G3372\|μήκος]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cubit | **<big>[[G4083\|πήχει]]</big>** |
+| of a man. | **<big>[[G0435\|ανδρός]]</big>** |
 [[Deut.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
 

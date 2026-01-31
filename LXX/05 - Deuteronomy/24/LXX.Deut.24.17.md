@@ -7,21 +7,21 @@ Thou shalt not pervert the judgment of the stranger, [nor] of the fatherless; no
 Do not deny justice to the foreigner or the fatherless, and do not take a widow’s cloak as security.<small><sub>**MT:**</sub></small>
 [[Deut.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινείς</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| a judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of a foreigner, | <big><span class="asgreek">προσηλύτου</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an orphan, | <big><span class="asgreek">ορφανού</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a widow; | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take for security | <big><span class="asgreek">ενεχυράσεις</span></big> <sup><small><small>[[G7236]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| of a widow. | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινείς]]</big>** |
+| a judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| of a foreigner, | **<big>[[G4339\|προσηλύτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an orphan, | **<big>[[G3737\|ορφανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a widow; | **<big>[[G5503\|χήρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| take for security | **<big>[[G7236\|ενεχυράσεις]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| of a widow. | **<big>[[G5503\|χήρας]]</big>** |
 [[Deut.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 
 

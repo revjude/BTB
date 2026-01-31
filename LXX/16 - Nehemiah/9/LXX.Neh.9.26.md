@@ -7,36 +7,36 @@ Nevertheless they were disobedient, and rebelled against thee, and cast thy law 
 But they were disobedient and rebelled against You; they flung Your law behind their backs. They killed Your prophets, who had admonished them to return to You. They committed terrible blasphemies.<small><sub>**MT:**</sub></small>
 [[Neh.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.25|<< Nehemiah 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.27|Nehemiah 9:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they changed | <big><span class="asgreek">ήλλαξαν</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| revolted | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they tossed | <big><span class="asgreek">έρριψαν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| their body, | <big><span class="asgreek">σώματος</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| testifying | <big><span class="asgreek">διεμαρτύραντο</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to turn | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| provocations to anger | <big><span class="asgreek">παροργισμούς</span></big> <sup><small><small>[[G3950]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλους</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they changed | **<big>[[G0236\|ήλλαξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| revolted | **<big>[[G0868\|απέστησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they tossed | **<big>[[G4496\|έρριψαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your law | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| their body, | **<big>[[G4983\|σώματος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your prophets | **<big>[[G4396\|προφήτας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| the ones | **<big>[[G3739\|οι]]</big>** |
+| testifying | **<big>[[G1263\|διεμαρτύραντο]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| to turn | **<big>[[G1994\|επιστρέψαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| provocations to anger | **<big>[[G3950\|παροργισμούς]]</big>** |
+| great | **<big>[[G3173\|μεγάλους]]</big>** |
 [[Neh.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.25|<< Nehemiah 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.27|Nehemiah 9:27 >>]]</td></tr></table>
 
 

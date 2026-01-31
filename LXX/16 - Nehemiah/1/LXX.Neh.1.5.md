@@ -7,37 +7,37 @@ And said, I beseech thee, O LORD God of heaven, the great and terrible God, that
 Then I said: “O LORD, God of heaven, the great and awesome God who keeps His covenant of loving devotion with those who love Him and keep His commandments,<small><sub>**MT:**</sub></small>
 [[Neh.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.4|<< Nehemiah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.6|Nehemiah 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fearful \[one\], | <big><span class="asgreek">φοβερός</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώσιν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσουσι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his commandments. | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fearful \[one\], | **<big>[[G5398\|φοβερός]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mercy | **<big>[[G1656\|έλεος]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| loving | **<big>[[G0025\|αγαπώσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his commandments. | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Neh.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.4|<< Nehemiah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.6|Nehemiah 1:6 >>]]</td></tr></table>
 
 

@@ -10,39 +10,39 @@ And they gave the money, being told, into the hands of them that did the work, t
 Then they would put the counted money into the hands of those who supervised the work on the house of the LORD, who in turn would pay those doing the work—the carpenters, builders,<small><sub>**MT:**</sub></small>
 [[2Kgs.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">ετοιμασθέν</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| into | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντων</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overseeing | <big><span class="asgreek">επισκόπων</span></big> <sup><small><small>[[G1984]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they handed over | <big><span class="asgreek">εξέδοσαν</span></big> <sup><small><small>[[G1554]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fabricators | <big><span class="asgreek">τέκτοσι</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood \[items\], | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| builders | <big><span class="asgreek">οικοδόμοις</span></big> <sup><small><small>[[G6065]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being prepared | **<big>[[G2090\|ετοιμασθέν]]</big>** |
+| into | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| doing | **<big>[[G4160\|ποιούντων]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| overseeing | **<big>[[G1984\|επισκόπων]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they handed over | **<big>[[G1554\|εξέδοσαν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| fabricators | **<big>[[G5045\|τέκτοσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wood \[items\], | **<big>[[G3586\|ξύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| builders | **<big>[[G6065\|οικοδόμοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| doing | **<big>[[G4160\|ποιούσιν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
 

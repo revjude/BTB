@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הִלֵּל‎</span></big> **Hillêl** <small>*(hil-layl')*</small> ==**Hillel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎הָלַל‎</span><sup><small>[[H1984]]</small></sup>; praising (namely God)</small>
+**<big><span class="ashebrew">‎הִלֵּל‎</span></big>** **Hillêl** <small>*(hil-layl')*</small> ==**Hillel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1984|‎הָלַל‎]]</big>**; praising (namely God)</small>
 
 $\quad$ Hillel.
 - § Hillel = *"praising"*

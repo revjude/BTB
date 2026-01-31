@@ -7,29 +7,29 @@ But all the Israelites went down to the Philistines, to sharpen every man his sh
 Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.<small><sub>**MT:**</sub></small>
 [[1Sam.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.19|<< 1 Samuel 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.21|1 Samuel 13:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβαινε</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| to forge | <big><span class="asgreek">χαλκεύειν</span></big> <sup><small><small>[[G9696]]</small></small></sup> |
-| for each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own reaping hook, | <big><span class="asgreek">θέριστρον</span></big> <sup><small><small>[[G7658]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his utensil, | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his axe, | <big><span class="asgreek">αξίνην</span></big> <sup><small><small>[[G0513]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sickle. | <big><span class="asgreek">δρέπανον</span></big> <sup><small><small>[[G1407]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατέβαινε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] Philistines, | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| to forge | **<big>[[G9696\|χαλκεύειν]]</big>** |
+| for each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his own reaping hook, | **<big>[[G7658\|θέριστρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his utensil, | **<big>[[G4632\|σκεύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his axe, | **<big>[[G0513\|αξίνην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his sickle. | **<big>[[G1407\|δρέπανον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.19|<< 1 Samuel 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.21|1 Samuel 13:21 >>]]</td></tr></table>
 
 

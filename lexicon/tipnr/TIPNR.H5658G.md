@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Abdon</span>, a town allotted to the Levites within the tribal territory of Asher.
 - A location first mentioned at [[Josh.21.30|Jos.21.30]]; 
-- referred to as Abdon<[[H5658G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Ebron \(KJV= Hebron, NIV= Abdon\) <[[H5683]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, or Ebron \(KJV= Hebron, NIV= Abdon\)  **<big>[[H5683|עֶבְרֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.047808,35.146201&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Abdon, also called Ebron, was a town allotted to the Levites within the tribal t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abdon | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5658G) <small>*Hebrew*</small> | 2x | [[Jos.21.30] & [1Ch.6.74] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abdon\*\|reference=Jos.21.30;1Ch.6.74) |
-| Ebron (KJV= Hebron; NIV= Abdon) | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5683) <small>*Hebrew*</small> | 1x | [Jos.19.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebron\*\|reference=Jos.19.28) |
-All Strong's for **Abdon or Ebron**: \[[[H5658G]]\] \[[[H5683]]\]
+| Abdon | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5658G) | 2x | [[Jos.21.30] & [1Ch.6.74] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abdon\*\|reference=Jos.21.30;1Ch.6.74) |
+| Ebron (KJV= Hebron; NIV= Abdon) | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5683) | 1x | [Jos.19.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebron\*\|reference=Jos.19.28) |
+All entries for **Abdon or Ebron**:  **<big>[[H5658|עַבְדוֹן]]</big>** ☩  **<big>[[H5683|עֶבְרֹן]]</big>**

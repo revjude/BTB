@@ -6,15 +6,15 @@ Ahiam son of Sachar the Hararite, Eliphal son of Ur,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.34|<< 1 Chronicles 11:34]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.36|1 Chronicles 11:36 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Ahiam  | <span class="ashebrew"><big>אֲחִיאָ֧ם </big></span><small><small><sup>[[H0279]]</sup></small></small> &#8207;| 'a.chi.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sakar  | <span class="ashebrew"><big>שָׂכָ֛ר </big></span><small><small><sup>[[H7940H]]</sup></small></small> &#8207;| sa.Khar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Hararite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הֲרָרִ֖י </big></span><small><small><sup>[[H2043]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ha.ra.Ri <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliphal  | <span class="ashebrew"><big>אֱלִיפַ֥ל </big></span><small><small><sup>[[H0465]]</sup></small></small> &#8207;| 'e.li.Fal <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ur  | <span class="ashebrew"><big>אֽוּר </big></span><small><small><sup>[[H0218A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'Ur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahiam  |**<big>&#8207;[[H0279\|אֲחִיאָ֧ם]]&#8207; </big>**| 'a.chi.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sakar  |**<big>&#8207;[[H7940H\|שָׂכָ֛ר]]&#8207; </big>**| sa.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hararite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2043\|הֲרָרִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ha.ra.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliphal  |**<big>&#8207;[[H0465\|אֱלִיפַ֥ל]]&#8207; </big>**| 'e.li.Fal<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ur  |**<big>&#8207;[[H0218A\|אֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Ur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.34|<< 1 Chronicles 11:34]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.36|1 Chronicles 11:36 >>]]</td></tr></table>
 
 

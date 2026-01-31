@@ -10,33 +10,33 @@ Samuel also said unto Saul, The LORD sent me to anoint thee [to be] king over hi
 Then Samuel said to Saul, “The LORD sent me to anoint you king over His people Israel. Now therefore, listen to the words of the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.52|<< 1 Samuel 14:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.2|1 Samuel 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has sent | <big><span class="asgreek">απέσταλκεν</span></big> <sup><small><small>[[G0649]][[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to anoint | <big><span class="asgreek">χρίσαί</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| has sent | **<big>[[G0649\|απέσταλκεν]]</big>**<sup><small>[[G2962\| [ • ] ]]</small></sup> |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to anoint | **<big>[[G5548\|χρίσαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| hear | **<big>[[G0191\|άκουε]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| saying | **<big>[[G4487\|ρήματος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.52|<< 1 Samuel 14:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.2|1 Samuel 15:2 >>]]</td></tr></table>
 
 

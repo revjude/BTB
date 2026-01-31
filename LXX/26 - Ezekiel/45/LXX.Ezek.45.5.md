@@ -7,30 +7,30 @@ And the five and twenty thousand of length, and the ten thousand of breadth, sha
 An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live.<small><sub>**MT:**</sub></small>
 [[Ezek.45.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.4|<< Ezekiel 45:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.6|Ezekiel 45:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| in length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ministering | <big><span class="asgreek">λειτουργούσι</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| possession | <big><span class="asgreek">κατάσχεσιν</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to dwell in. | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| in length, | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίταις]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| ministering | **<big>[[G3008\|λειτουργούσι]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| house, | **<big>[[G3624\|οίκω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| possession | **<big>[[G2697\|κατάσχεσιν]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to dwell in. | **<big>[[G2730\|κατοικείν]]</big>** |
 [[Ezek.45.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.4|<< Ezekiel 45:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.6|Ezekiel 45:6 >>]]</td></tr></table>
 
 

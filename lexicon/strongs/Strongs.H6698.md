@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צוּר‎</span></big> **Tsûwr** <small>*(tsoor)*</small> ==**Zur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎צוּר‎</span><sup><small>[[H6697]]</small></sup>; rock</small>
+**<big><span class="ashebrew">‎צוּר‎</span></big>** **Tsûwr** <small>*(tsoor)*</small> ==**Zur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6697|‎צוּר‎]]</big>**; rock</small>
 
 $\quad$ Zur.
 - § Zur = *"rock"*

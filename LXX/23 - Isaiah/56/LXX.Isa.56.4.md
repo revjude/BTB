@@ -7,28 +7,28 @@ For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose [the 
 For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant—<small><sub>**MT:**</sub></small>
 [[Isa.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.3|<< Isaiah 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.5|Isaiah 56:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eunuchs, | <big><span class="asgreek">ευνούχοις</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| As many | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should keep | <big><span class="asgreek">φυλάξωνται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my Sabbaths, | <big><span class="asgreek">σάββατά</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should choose | <big><span class="asgreek">εκλέξωνται</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| want, | <big><span class="asgreek">θέλω</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should hold to | <big><span class="asgreek">αντέχωνται</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| eunuchs, | **<big>[[G2135\|ευνούχοις]]</big>** |
+| As many | **<big>[[G3745\|όσοι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| should keep | **<big>[[G5442\|φυλάξωνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my Sabbaths, | **<big>[[G4521\|σάββατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should choose | **<big>[[G1586\|εκλέξωνται]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| want, | **<big>[[G2309\|θέλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should hold to | **<big>[[G0472\|αντέχωνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκης]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.3|<< Isaiah 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.5|Isaiah 56:5 >>]]</td></tr></table>
 
 

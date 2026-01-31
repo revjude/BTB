@@ -7,32 +7,32 @@ So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now 
 So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.8|<< 1 Samuel 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.10|1 Samuel 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hannah rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Άννα</span></big> <sup><small><small>[[H2584]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eating | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shiloh, | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| drinking. | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eli | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chair | <big><span class="asgreek">δίφρου</span></big> <sup><small><small>[[G6947]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doorposts | <big><span class="asgreek">φλιών</span></big> <sup><small><small>[[G9647]]</small></small></sup> |
-| of \[the\] temple | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hannah rose up | **<big>[[G0450\|ανέστη]]</big>** **<big>[[H2584\|Άννα]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their eating | **<big>[[G2068\|φαγείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shiloh, | **<big>[[H7887\|Συλώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| drinking. | **<big>[[G4095\|πιείν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Eli | **<big>[[G2242\|Ηλί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| sat | **<big>[[G2521\|εκάθητο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| chair | **<big>[[G6947\|δίφρου]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| doorposts | **<big>[[G9647\|φλιών]]</big>** |
+| of \[the\] temple | **<big>[[G3485\|ναού]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.8|<< 1 Samuel 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.10|1 Samuel 1:10 >>]]</td></tr></table>
 
 

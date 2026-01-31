@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָרַב‎</span></big> **zârab** <small>*(zaw-rab')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָרַב‎</span></big>** **zârab** <small>*(zaw-rab')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ wax warm.
@@ -6,4 +6,4 @@ $\quad$ wax warm.
 
 **1)** (Pual) to dry up, be warmed, be burned, be scorched
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τήκω</span><sup><small>[[G5080]]</small></sup>
+<small>See Greek: </small>**<big>[[G5080|τήκω]]</big>**

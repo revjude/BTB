@@ -7,34 +7,34 @@ When Joab saw that the front of the battle was against him before and behind, he
 When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans.<small><sub>**MT:**</sub></small>
 [[2Sam.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| him | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] facing | <big><span class="asgreek">αντιπρόσωπον</span></big> <sup><small><small>[[G6371]]</small></small></sup> |
-| that the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the face | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| right opposite, | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear. | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he chose | <big><span class="asgreek">επελέξατο</span></big> <sup><small><small>[[G1951]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young men | <big><span class="asgreek">νεανιών</span></big> <sup><small><small>[[G3494]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deployed | <big><span class="asgreek">παρετάξαντο</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| Syria. | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab beheld | **<big>[[G1492\|είδεν]]</big>** **<big>[[H3097\|Ιωάβ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| it came to pass | **<big>[[G1096\|εγενήθη]]</big>** |
+| him | **<big>[[G4314\|προς]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \[was\] facing | **<big>[[G6371\|αντιπρόσωπον]]</big>** |
+| that the | **<big>[[G3588\|του]]</big>** |
+| war | **<big>[[G4171\|πολέμου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the face | **<big>[[G3588\|του]]</big>** **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| right opposite, | **<big>[[G7295\|εξεναντίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| rear. | **<big>[[G3693\|όπισθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he chose | **<big>[[G1951\|επελέξατο]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| young men | **<big>[[G3494\|νεανιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deployed | **<big>[[G8641\|παρετάξαντο]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| Syria. | **<big>[[G4947\|Συρίας]]</big>** |
 [[2Sam.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ Then I looked up and saw four horns.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.17|<< Zechariah 1:17]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.19|Zechariah 1:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I lifted up  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֶשָּׂ֥א </big></span><small><small><sup>[[H5375M]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'e.Sa' <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes my  | <span class="ashebrew"><big>עֵינַ֖ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I saw  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֵ֑רֶא </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'E.re' <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there!  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִנֵּ֖ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבַּ֥ע </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba' <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| horns  | <span class="ashebrew"><big>קְרָנֽוֹת </big></span><small><small><sup>[[H7161A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.ra.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I lifted up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5375M\|אֶשָּׂ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Sa'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  |**<big>&#8207;[[H5869A\|עֵינַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֑רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבַּ֥ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horns  |**<big>&#8207;[[H7161A\|קְרָנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.ra.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.17|<< Zechariah 1:17]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.19|Zechariah 1:19 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ With trumpets and sound of cornet make a joyful noise before the LORD, the King.
 With trumpets and the blast of the ram’s horn shout for joy before the LORD, the King.<small><sub>**MT:**</sub></small>
 [[Ps.98.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.5|<< Psalm 98:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.7|Psalm 98:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trumpets | <big><span class="asgreek">σάλπιγξιν</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| hammered \[metal\] | <big><span class="asgreek">ελαταίς</span></big> <sup><small><small>[[G7179]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] trumpet | <big><span class="asgreek">σάλπιγγος</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| of \[the\] horn | <big><span class="asgreek">κερατίνης</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| shout | <big><span class="asgreek">αλαλάξατε</span></big> <sup><small><small>[[G0214]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| With | **<big>[[G1722\|εν]]</big>** |
+| trumpets | **<big>[[G4536\|σάλπιγξιν]]</big>** |
+| hammered \[metal\] | **<big>[[G7179\|ελαταίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] trumpet | **<big>[[G4536\|σάλπιγγος]]</big>** |
+| of \[the\] horn | **<big>[[G7998\|κερατίνης]]</big>** |
+| shout | **<big>[[G0214\|αλαλάξατε]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ps.98.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.5|<< Psalm 98:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.7|Psalm 98:7 >>]]</td></tr></table>
 
 

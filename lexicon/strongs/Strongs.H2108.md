@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זוּלָה‎</span></big> **zûwlâh** <small>*(zoo-law')*</small> ==**exception**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎זוּל‎</span><sup><small>[[H2107]]</small></sup></small>
+**<big><span class="ashebrew">‎זוּלָה‎</span></big>** **zûwlâh** <small>*(zoo-law')*</small> ==**exception**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2107|‎זוּל‎]]</big>**</small>
 
 $\quad$ beside, but, only, save.
 - probably ***scattering***, i.e. ***removal***
@@ -12,4 +12,4 @@ prep
 conj
 **3)** except that
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκτός</span><sup><small>[[G1622]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup>
+<small>See Greek: </small>**<big>[[G1622|ἐκτός]]</big>** · **<big>[[G4133|πλήν]]</big>**

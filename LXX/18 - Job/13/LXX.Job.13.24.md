@@ -7,16 +7,16 @@ Wherefore hidest thou thy face, and holdest me for thine enemy?
 Why do You hide Your face and consider me as Your enemy?<small><sub>**MT:**</sub></small>
 [[Job.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.23|<< Job 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.25|Job 13:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do you hide | <big><span class="asgreek">κρύπτη</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| and esteem | <big><span class="asgreek">ήγησαι</span></big> <sup><small><small>[[G2233]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| contrary to | <big><span class="asgreek">υπεναντίον</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
-| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Why | **<big>[[G1302\|διατί]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| do you hide | **<big>[[G2928\|κρύπτη]]</big>** |
+| and esteem | **<big>[[G2233\|ήγησαι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| contrary to | **<big>[[G5227\|υπεναντίον]]</big>** |
+| you? | **<big>[[G1473\|σου]]</big>** |
 [[Job.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.23|<< Job 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.25|Job 13:25 >>]]</td></tr></table>
 
 

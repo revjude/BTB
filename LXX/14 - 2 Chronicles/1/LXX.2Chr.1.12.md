@@ -7,38 +7,38 @@ Wisdom and knowledge [is] granted unto thee; and I will give thee riches, and we
 therefore wisdom and knowledge have been granted to you. And I will also give you riches and wealth and honor unlike anything given to the kings before you or after you.”<small><sub>**MT:**</sub></small>
 [[2Chr.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.11|<< 2 Chronicles 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.13|2 Chronicles 1:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| I give | <big><span class="asgreek">δίδωμί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wealth, | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| possessions, | <big><span class="asgreek">χρήματα</span></big> <sup><small><small>[[G5223]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| I shall give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| did not happen | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| unto you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| the | **<big>[[G3588\|την]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| understanding | **<big>[[G4907\|σύνεσιν]]</big>** |
+| I give | **<big>[[G1325\|δίδωμί]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wealth, | **<big>[[G4149\|πλούτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| possessions, | **<big>[[G5223\|χρήματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| I shall give | **<big>[[G1325\|δώσω]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| did not happen | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγένετο]]</big>** |
+| likened | **<big>[[G3664\|όμοιός]]</big>** |
+| unto you | **<big>[[G1473\|σοι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| kings | **<big>[[G0935\|βασιλεύσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| before | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| it will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
 [[2Chr.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.11|<< 2 Chronicles 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.13|2 Chronicles 1:13 >>]]</td></tr></table>
 
 

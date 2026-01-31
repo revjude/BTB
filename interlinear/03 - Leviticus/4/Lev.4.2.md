@@ -6,26 +6,26 @@ Speak unto the children of Israel, saying, If a soul shall sin through ignorance
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.1|<< Leviticus 4:1]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.3|Leviticus 4:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| speak  | <span class="ashebrew"><big>דַּבֵּ֞ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| da.Ber <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֘ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹר֒ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>נֶ֗פֶשׁ </big></span><small><small><sup>[[H5315J]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will sin  | <span class="ashebrew"><big>תֶחֱטָ֤א </big></span><small><small><sup>[[H2398]]</sup></small></small> &#8207;| te.che.Ta' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by inadvertence  | <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שְׁגָגָה֙ </big></span><small><small><sup>[[H7684]]</sup></small></small> &#8207;| vi <small><sup>[[HR]]</sup></small> sh.ga.Gah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any of all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֹּל֙ </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] commandments of  | <span class="ashebrew"><big>מִצְוֹ֣ת </big></span><small><small><sup>[[H4687]]</sup></small></small> &#8207;| mitz.Vot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be done  | <span class="ashebrew"><big>תֵעָשֶׂ֑ינָה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| te.'a.Sei.nah <small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will do  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָשָׂ֕ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Sah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any one  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אַחַ֖ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of them  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֵֽנָּה </big></span><small><small><sup>[[H9039]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> He.nah <small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֞ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֘ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹר֒]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H5315J\|נֶ֗פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sin  |**<big>&#8207;[[H2398\|תֶחֱטָ֤א]]&#8207; </big>**| te.che.Ta'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by inadvertence  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H7684\|שְׁגָגָה֙]]&#8207; </big>**| vi<small><sup>[[HR]]</sup></small> sh.ga.Gah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּל֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commandments of  |**<big>&#8207;[[H4687\|מִצְוֹ֣ת]]&#8207; </big>**| mitz.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be done  |**<big>&#8207;[[H6213A\|תֵעָשֶׂ֑ינָה]]&#8207; </big>**| te.'a.Sei.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֕ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any one  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0259\|אַחַ֖ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9039\|הֵֽנָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.1|<< Leviticus 4:1]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.3|Leviticus 4:3 >>]]</td></tr></table>
 
 

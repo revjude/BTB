@@ -7,44 +7,44 @@ For the king said to Joab the captain of the host, which [was] with him, Go now 
 So the king said to Joab the commander of his army, who was with him, “Go now throughout the tribes of Israel from Dan to Beersheba and register the troops, so that I may know their number.”<small><sub>**MT:**</sub></small>
 [[2Sam.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.1|<< 2 Samuel 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.3|2 Samuel 24:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Go around | <big><span class="asgreek">περίελθε</span></big> <sup><small><small>[[G4022]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Beer-sheba, | <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| number | <big><span class="asgreek">επίσκεψαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people! | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall know | <big><span class="asgreek">γνώσομαι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces | **<big>[[G1411\|δυνάμεων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| Go around | **<big>[[G4022\|περίελθε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Beer-sheba, | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| number | **<big>[[G1980\|επίσκεψαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people! | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall know | **<big>[[G1097\|γνώσομαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| number | **<big>[[G0706\|αριθμόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
 [[2Sam.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.1|<< 2 Samuel 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.3|2 Samuel 24:3 >>]]</td></tr></table>
 
 

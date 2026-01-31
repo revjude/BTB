@@ -7,32 +7,32 @@ Barley also and straw for the horses and dromedaries brought they unto the place
 Each one also brought to the required place their quotas of barley and straw for the chariot horses and other horses.<small><sub>**MT:**</sub></small>
 [[1Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.27|<< 1 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.29|1 Kings 4:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| barley | <big><span class="asgreek">κριθάς</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| straw | <big><span class="asgreek">άχυρον</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρμασιν</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| they took | <big><span class="asgreek">ήρον</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his arrangement. | <big><span class="asgreek">σύνταξιν</span></big> <sup><small><small>[[G9336]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| barley | **<big>[[G2915\|κριθάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| straw | **<big>[[G0892\|άχυρον]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| horses | **<big>[[G2462\|ίπποις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| chariots | **<big>[[G0716\|άρμασιν]]</big>** |
+| they took | **<big>[[G0142\|ήρον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| might be | **<big>[[G1510\|η]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his arrangement. | **<big>[[G9336\|σύνταξιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.27|<< 1 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.29|1 Kings 4:29 >>]]</td></tr></table>
 
 

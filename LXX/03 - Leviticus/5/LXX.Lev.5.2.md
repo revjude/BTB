@@ -7,33 +7,33 @@ Or if a soul touch any unclean thing, whether [it be] a carcase of an unclean be
 Or if a person touches anything unclean—whether the carcass of any unclean wild animal or livestock or crawling creature—even if he is unaware of it, he is unclean and guilty.<small><sub>**MT:**</sub></small>
 [[Lev.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.1|<< Leviticus 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.3|Leviticus 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| That soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should touch | <big><span class="asgreek">άψηται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| thing | <big><span class="asgreek">πράγματος</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| unclean, | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| decaying flesh, | <big><span class="asgreek">θνησιμαίου</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| taken by wild beasts | <big><span class="asgreek">θηριαλώτου</span></big> <sup><small><small>[[G7670]]</small></small></sup> |
-| \[that which is\] unclean | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| decaying flesh | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| of abominations | <big><span class="asgreek">βδελυγμάτων</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean, | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| decaying flesh | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of unclean | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| That soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| should touch | **<big>[[G0680\|άψηται]]</big>** |
+| any | **<big>[[G3956\|παντός]]</big>** |
+| thing | **<big>[[G4229\|πράγματος]]</big>** |
+| unclean, | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| decaying flesh, | **<big>[[G7681\|θνησιμαίου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| taken by wild beasts | **<big>[[G7670\|θηριαλώτου]]</big>** |
+| \[that which is\] unclean | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| decaying flesh | **<big>[[G7681\|θνησιμαίων]]</big>** |
+| of abominations | **<big>[[G0946\|βδελυγμάτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| unclean, | **<big>[[G0169\|ακαθάρτων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| decaying flesh | **<big>[[G7681\|θνησιμαίων]]</big>** |
+| cattle | **<big>[[G2934\|κτηνών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of unclean | **<big>[[G0169\|ακαθάρτων]]</big>** |
 [[Lev.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.1|<< Leviticus 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.3|Leviticus 5:3 >>]]</td></tr></table>
 
 

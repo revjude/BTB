@@ -7,26 +7,26 @@ Can a bird fall in a snare upon the earth, where no gin [is] for him? shall [one
 Does a bird land in a snare where no bait has been set? Does a trap spring from the ground when it has nothing to catch?<small><sub>**MT:**</sub></small>
 [[Amos.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.4|<< Amos 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.6|Amos 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| a bird | <big><span class="asgreek">όρνεον</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| a fowler, \[no\]. | <big><span class="asgreek">ιξευτού</span></big> <sup><small><small>[[G7723]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| be opened up | <big><span class="asgreek">σχασθήσεται</span></big> <sup><small><small>[[G9379]]</small></small></sup> |
-| a snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seizing | <big><span class="asgreek">συλλαβείν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| anything, \[no\]. | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| fall | **<big>[[G4098\|πεσείται]]</big>** |
+| a bird | **<big>[[G3732\|όρνεον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| without | **<big>[[G0427\|άνευ]]</big>** |
+| a fowler, \[no\]. | **<big>[[G7723\|ιξευτού]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| be opened up | **<big>[[G9379\|σχασθήσεται]]</big>** |
+| a snare | **<big>[[G3803\|παγίς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| without | **<big>[[G0427\|άνευ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| seizing | **<big>[[G4815\|συλλαβείν]]</big>** |
+| anything, \[no\]. | **<big>[[G5100\|τι]]</big>** |
 [[Amos.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.4|<< Amos 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.6|Amos 3:6 >>]]</td></tr></table>
 
 

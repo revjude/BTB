@@ -7,36 +7,36 @@ And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on
 Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing by Him on His right and on His left.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.18|<< 1 Kings 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.20|1 Kings 22:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Micaiah said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μιχαίας</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| On account of this | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| sitting | <big><span class="asgreek">καθήμενον</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his throne, | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| military | <big><span class="asgreek">στρατιά</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| standing | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| about | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his right, | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his left. | <big><span class="asgreek">αριστερών</span></big> <sup><small><small>[[G0710]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Micaiah said, | **<big>[[G2036\|είπε]]</big>** **<big>[[H4318\|Μιχαίας]]</big>** |
+| On account of this | **<big>[[G1223\|διά]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| hear | **<big>[[G0191\|άκουσον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| sitting | **<big>[[G2521\|καθήμενον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his throne, | **<big>[[G2362\|θρόνου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| military | **<big>[[G4756\|στρατιά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| standing | **<big>[[G2476\|ειστήκει]]</big>** |
+| about | **<big>[[G4012\|περί]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| his right, | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at | **<big>[[G1537\|εξ]]</big>** |
+| his left. | **<big>[[G0710\|αριστερών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.18|<< 1 Kings 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.20|1 Kings 22:20 >>]]</td></tr></table>
 
 

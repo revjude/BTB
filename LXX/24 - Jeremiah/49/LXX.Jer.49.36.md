@@ -7,36 +7,36 @@ And upon Elam will I bring the four winds from the four quarters of heaven, and 
 I will bring the four winds against Elam from the four corners of the heavens, and I will scatter them to all these winds. There will not be a nation to which Elam’s exiles will not go.<small><sub>**MT:**</sub></small>
 [[Jer.49.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Elam | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| winds | <big><span class="asgreek">ανέμους</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| uttermost parts | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασπερώ</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these winds; | <big><span class="asgreek">ανέμοις</span></big> <sup><small><small>[[G0417]]</small></small></sup> <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come -- | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being pushing out | <big><span class="asgreek">εξωσμένοι</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
-| of Elam. | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall bring | **<big>[[G1863\|επάξω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Elam | **<big>[[G1639\|Αιλάμ]]</big>** |
+| four | **<big>[[G5064\|τέσσαρας]]</big>** |
+| winds | **<big>[[G0417\|ανέμους]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| uttermost parts | **<big>[[G6208\|άκρων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1289\|διασπερώ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| these winds; | **<big>[[G0417\|ανέμοις]]</big>** **<big>[[G3778\|τούτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| shall not | **<big>[[G3756\|ουχ]]</big>** |
+| come -- | **<big>[[G2240\|ήξει]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being pushing out | **<big>[[G1856\|εξωσμένοι]]</big>** |
+| of Elam. | **<big>[[G1639\|Αιλάμ]]</big>** |
 [[Jer.49.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
 

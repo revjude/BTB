@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶבֶד‎</span></big> **ʻEbed** <small>*(eh'-bed)*</small> ==**Ebed**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֶבֶד‎</span><sup><small>[[H5650]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶבֶד‎</span></big>** **ʻEbed** <small>*(eh'-bed)*</small> ==**Ebed**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5650|‎עֶבֶד‎]]</big>**</small>
 
 $\quad$ Ebed.
 - § Ebed = *"servant"*

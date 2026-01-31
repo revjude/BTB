@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרָן‎</span></big> **ʼĂrân** <small>*(ar-awn')*</small> ==**Aran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָנַן‎</span><sup><small>[[H7442]]</small></sup>; stridulous</small>
+**<big><span class="ashebrew">‎אֲרָן‎</span></big>** **ʼĂrân** <small>*(ar-awn')*</small> ==**Aran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7442|‎רָנַן‎]]</big>**; stridulous</small>
 
 $\quad$ Aran.
 - § Aran = *"joyous"*

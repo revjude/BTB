@@ -7,19 +7,19 @@ House and riches [are] the inheritance of fathers: and a prudent wife [is] from 
 Houses and wealth are inherited from fathers, but a prudent wife is from the LORD.<small><sub>**MT:**</sub></small>
 [[Prov.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.13|<< Proverbs 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.15|Proverbs 19:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| substance | <big><span class="asgreek">ύπαρξιν</span></big> <sup><small><small>[[G5223]]</small></small></sup> |
-| is portioned | <big><span class="asgreek">μερίζουσι</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| \[by\] fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| to children; | <big><span class="asgreek">παισί</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| but by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| is accorded | <big><span class="asgreek">αρμόζεται</span></big> <sup><small><small>[[G0718]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| to a man. | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| A house | **<big>[[G3624\|οίκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| substance | **<big>[[G5223\|ύπαρξιν]]</big>** |
+| is portioned | **<big>[[G3307\|μερίζουσι]]</big>** |
+| \[by\] fathers | **<big>[[G3962\|πατέρες]]</big>** |
+| to children; | **<big>[[G3816\|παισί]]</big>** |
+| but by | **<big>[[G3844\|παρά]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| is accorded | **<big>[[G0718\|αρμόζεται]]</big>** |
+| a wife | **<big>[[G1135\|γυνή]]</big>** |
+| to a man. | **<big>[[G0435\|ανδρί]]</big>** |
 [[Prov.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.13|<< Proverbs 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.15|Proverbs 19:15 >>]]</td></tr></table>
 
 

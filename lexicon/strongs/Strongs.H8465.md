@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחַן‎</span></big> **Tachan** <small>*(takh'-an)*</small> ==**Tahan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎חָנָה‎</span><sup><small>[[H2583]]</small></sup>; station</small>
+**<big><span class="ashebrew">‎תַּחַן‎</span></big>** **Tachan** <small>*(takh'-an)*</small> ==**Tahan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H2583|‎חָנָה‎]]</big>**; station</small>
 
 $\quad$ Tahan.
 - § Tahan = *"camp"*

@@ -7,16 +7,16 @@ She considereth a field, and buyeth it: with the fruit of her hands she planteth
 She appraises a field and buys it; from her earnings she plants a vineyard.<small><sub>**MT:**</sub></small>
 [[Prov.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.15|<< Proverbs 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.17|Proverbs 31:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In viewing | <big><span class="asgreek">θεωρήσασα</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| a farm, | <big><span class="asgreek">γεώργιον</span></big> <sup><small><small>[[G1091]]</small></small></sup> |
-| she buys; | <big><span class="asgreek">επρίατο</span></big> <sup><small><small>[[G8883]]</small></small></sup> |
-| and from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] fruits | <big><span class="asgreek">καρπών</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of her hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she plants | <big><span class="asgreek">κατεφύτευσε</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| a possession. | <big><span class="asgreek">κτήμα</span></big> <sup><small><small>[[G2933]]</small></small></sup> |
+| In viewing | **<big>[[G2334\|θεωρήσασα]]</big>** |
+| a farm, | **<big>[[G1091\|γεώργιον]]</big>** |
+| she buys; | **<big>[[G8883\|επρίατο]]</big>** |
+| and from | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] fruits | **<big>[[G2590\|καρπών]]</big>** |
+| of her hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she plants | **<big>[[G7952\|κατεφύτευσε]]</big>** |
+| a possession. | **<big>[[G2933\|κτήμα]]</big>** |
 [[Prov.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.15|<< Proverbs 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.17|Proverbs 31:17 >>]]</td></tr></table>
 
 

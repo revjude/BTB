@@ -7,30 +7,30 @@ The bonnets, and the ornaments of the legs, and the headbands, and the tablets, 
 their headdresses, ankle chains, and sashes; their perfume bottles and charms;<small><sub>**MT:**</sub></small>
 [[Isa.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.19|<< Isaiah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.21|Isaiah 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| array | <big><span class="asgreek">σύνθεσιν</span></big> <sup><small><small>[[G9324]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ornament | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of glory, | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| armlets, | <big><span class="asgreek">χλιδώνας</span></big> <sup><small><small>[[G9738]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bracelets, | <big><span class="asgreek">ψέλλια</span></big> <sup><small><small>[[G9790]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wreaths, | <big><span class="asgreek">εμπλόκια</span></big> <sup><small><small>[[G7199]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rings, | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right armbands, | <big><span class="asgreek">περιδέξια</span></big> <sup><small><small>[[G8723]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| array | **<big>[[G9324\|σύνθεσιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ornament | **<big>[[G2889\|κόσμου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of glory, | **<big>[[G1391\|δόξης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| armlets, | **<big>[[G9738\|χλιδώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bracelets, | **<big>[[G9790\|ψέλλια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wreaths, | **<big>[[G7199\|εμπλόκια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rings, | **<big>[[G1146\|δακτυλίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| right armbands, | **<big>[[G8723\|περιδέξια]]</big>** |
 [[Isa.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.19|<< Isaiah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.21|Isaiah 3:21 >>]]</td></tr></table>
 
 

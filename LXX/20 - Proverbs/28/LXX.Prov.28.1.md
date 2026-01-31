@@ -10,16 +10,16 @@ The wicked flee when no man pursueth: but the righteous are bold as a lion.
 The wicked flee when no one pursues, but the righteous are as bold as a lion.<small><sub>**MT:**</sub></small>
 [[Prov.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.27|<< Proverbs 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.2|Proverbs 28:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| flees | <big><span class="asgreek">φεύγει</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| An impious \[man\] | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| \[with\] no one | <big><span class="asgreek">μηδενός</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| pursuing; | <big><span class="asgreek">διώκοντος</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| but \[the\] just man | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| is secure | <big><span class="asgreek">πέποιθε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| flees | **<big>[[G5343\|φεύγει]]</big>** |
+| An impious \[man\] | **<big>[[G0765\|ασεβής]]</big>** |
+| \[with\] no one | **<big>[[G3367\|μηδενός]]</big>** |
+| pursuing; | **<big>[[G1377\|διώκοντος]]</big>** |
+| but \[the\] just man | **<big>[[G1342\|δίκαιος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| is secure | **<big>[[G3982\|πέποιθε]]</big>** |
 [[Prov.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.27|<< Proverbs 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.2|Proverbs 28:2 >>]]</td></tr></table>
 
 

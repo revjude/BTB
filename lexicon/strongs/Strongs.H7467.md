@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְעוּאֵל‎</span></big> **Rᵉʻûwʼêl** <small>*(reh-oo-ale')*</small> ==**Reuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎רְעוּ‎</span><sup><small>[[H7466]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; friend of God</small>
+**<big><span class="ashebrew">‎רְעוּאֵל‎</span></big>** **Rᵉʻûwʼêl** <small>*(reh-oo-ale')*</small> ==**Reuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H7466|‎רְעוּ‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; friend of God</small>
 
 $\quad$ Raguel, Reuel.
 - § Reuel or Raguel = *"friend of God"*

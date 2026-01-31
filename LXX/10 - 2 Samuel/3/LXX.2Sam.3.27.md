@@ -10,39 +10,39 @@ And when Abner was returned to Hebron, Joab took him aside in the gate to speak 
 When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died on account of the blood of Joab’s brother Asahel.<small><sub>**MT:**</sub></small>
 [[2Sam.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.26|<< 2 Samuel 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.28|2 Samuel 3:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abner returned | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hebron, | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] side | <big><span class="asgreek">πλαγίων</span></big> <sup><small><small>[[G8800]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| laying in wait. | <big><span class="asgreek">ενεδρεύων</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flank, | <big><span class="asgreek">ψόαν</span></big> <sup><small><small>[[G9797]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| Asahel | <big><span class="asgreek">Ασσαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abner returned | **<big>[[G1994\|επέστρεψε]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[H0074\|Αβενήρ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Hebron, | **<big>[[H2275b\|Χεβρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G1578\|εξέκλινεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] side | **<big>[[G8800\|πλαγίων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| to speak | **<big>[[G2980\|λαλήσαι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| laying in wait. | **<big>[[G1748\|ενεδρεύων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| flank, | **<big>[[G9797\|ψόαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died | **<big>[[G0599\|απέθανεν]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| blood | **<big>[[G0129\|αίματι]]</big>** |
+| Asahel | **<big>[[H6214\|Ασσαήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.26|<< 2 Samuel 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.28|2 Samuel 3:28 >>]]</td></tr></table>
 
 

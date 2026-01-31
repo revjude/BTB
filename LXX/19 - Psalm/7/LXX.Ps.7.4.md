@@ -7,20 +7,20 @@ If I have rewarded evil unto him that was at peace with me; (yea, I have deliver
 if I have rewarded my ally with evil, if I have plundered my foe without cause,<small><sub>**MT:**</sub></small>
 [[Ps.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.3|<< Psalm 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.5|Psalm 7:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I recompensed | <big><span class="asgreek">ανταπέδωκα</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recompensing | <big><span class="asgreek">ανταποδιδούσί</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with bad \[things\], | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| may I fall away | <big><span class="asgreek">αποπέσοιμι</span></big> <sup><small><small>[[G0634]]</small></small></sup> |
-| thus | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| empty -- | <big><span class="asgreek">κενός</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| if | **<big>[[G1487\|ει]]</big>** |
+| I recompensed | **<big>[[G0467\|ανταπέδωκα]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| recompensing | **<big>[[G0467\|ανταποδιδούσί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| with bad \[things\], | **<big>[[G2556\|κακά]]</big>** |
+| may I fall away | **<big>[[G0634\|αποπέσοιμι]]</big>** |
+| thus | **<big>[[G0686\|άρα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my enemies | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| empty -- | **<big>[[G2756\|κενός]]</big>** |
 [[Ps.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.3|<< Psalm 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.5|Psalm 7:5 >>]]</td></tr></table>
 
 

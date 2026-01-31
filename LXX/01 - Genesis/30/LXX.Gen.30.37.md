@@ -7,37 +7,37 @@ And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and 
 Jacob, however, took fresh branches of poplar, almond, and plane trees, and peeled the bark, exposing the white inner wood of the branches.<small><sub>**MT:**</sub></small>
 [[Gen.30.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.36|<< Genesis 30:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.38|Genesis 30:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| poplar | <big><span class="asgreek">στυρακίνην</span></big> <sup><small><small>[[G9217]]</small></small></sup> |
-| of green | <big><span class="asgreek">χλωράν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of walnut, | <big><span class="asgreek">καρυίνην</span></big> <sup><small><small>[[G7812]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of \[the\] plane tree. | <big><span class="asgreek">πλατάνου</span></big> <sup><small><small>[[G8802]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peeled | <big><span class="asgreek">ελέπισεν</span></big> <sup><small><small>[[G8179]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| peels | <big><span class="asgreek">λεπίσματα</span></big> <sup><small><small>[[G8180]]</small></small></sup> |
-| \[into\] white | <big><span class="asgreek">λευκά</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| tearing away | <big><span class="asgreek">περισύρων</span></big> <sup><small><small>[[G8764]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| green. | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| And there appeared | <big><span class="asgreek">εφαίνετο</span></big> <sup><small><small>[[G5316]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rods | <big><span class="asgreek">ράβδοις</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white | <big><span class="asgreek">λευκόν</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he peeled -- | <big><span class="asgreek">ελέπισε</span></big> <sup><small><small>[[G8179]]</small></small></sup> |
-| varying. | <big><span class="asgreek">ποικίλον</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| a rod | **<big>[[G4464\|ράβδον]]</big>** |
+| poplar | **<big>[[G9217\|στυρακίνην]]</big>** |
+| of green | **<big>[[G5515\|χλωράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of walnut, | **<big>[[G7812\|καρυίνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of \[the\] plane tree. | **<big>[[G8802\|πλατάνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| peeled | **<big>[[G8179\|ελέπισεν]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| peels | **<big>[[G8180\|λεπίσματα]]</big>** |
+| \[into\] white | **<big>[[G3022\|λευκά]]</big>** |
+| tearing away | **<big>[[G8764\|περισύρων]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| green. | **<big>[[G5515\|χλωρόν]]</big>** |
+| And there appeared | **<big>[[G5316\|εφαίνετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| rods | **<big>[[G4464\|ράβδοις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| white | **<big>[[G3022\|λευκόν]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| he peeled -- | **<big>[[G8179\|ελέπισε]]</big>** |
+| varying. | **<big>[[G4164\|ποικίλον]]</big>** |
 [[Gen.30.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.36|<< Genesis 30:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.38|Genesis 30:38 >>]]</td></tr></table>
 
 

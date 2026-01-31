@@ -6,16 +6,16 @@ How painful are honest words! But what does your argument prove?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.24|<< Job 6:24]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.26|Job 6:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how!  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are painful  | <span class="ashebrew"><big>נִּמְרְצ֥וּ </big></span><small><small><sup>[[H4834]]</sup></small></small> &#8207;| nim.re.Tzu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words of  | <span class="ashebrew"><big>אִמְרֵי </big></span><small><small><sup>[[H0561]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| uprightness  | <span class="ashebrew"><big>יֹ֑שֶׁר </big></span><small><small><sup>[[H3476]]</sup></small></small> &#8207;| Yo.sher <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and what?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| does it prove  | <span class="ashebrew"><big>יּוֹכִ֖יחַ </big></span><small><small><sup>[[H3198]]</sup></small></small> &#8207;| yo.Khi.ach <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completely \<to prove>  | <span class="ashebrew"><big>הוֹכֵ֣חַ </big></span><small><small><sup>[[H3198]]</sup></small></small> &#8207;| ho.Khe.ach <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from \<the> you  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֶּֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HRd]]</sup></small> Kem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are painful  |**<big>&#8207;[[H4834\|נִּמְרְצ֥וּ]]&#8207; </big>**| nim.re.Tzu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words of  |**<big>&#8207;[[H0561\|אִמְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| uprightness  |**<big>&#8207;[[H3476\|יֹ֑שֶׁר]]&#8207; </big>**| Yo.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| does it prove  |**<big>&#8207;[[H3198\|יּוֹכִ֖יחַ]]&#8207; </big>**| yo.Khi.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completely \<to prove>  |**<big>&#8207;[[H3198\|הוֹכֵ֣חַ]]&#8207; </big>**| ho.Khe.ach<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from \<the> you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.24|<< Job 6:24]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.26|Job 6:26 >>]]</td></tr></table>
 
 

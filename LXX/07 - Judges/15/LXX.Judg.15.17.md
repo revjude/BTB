@@ -7,26 +7,26 @@ And it came to pass, when he had made an end of speaking, that he cast away the 
 And when Samson had finished speaking, he cast the jawbone from his hand; and he named that place Ramath-lehi.<small><sub>**MT:**</sub></small>
 [[Judg.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.16|<< Judges 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.18|Judges 15:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| he finished | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| speaking, | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| jaw \[bone\] | <big><span class="asgreek">σιαγόνα</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that place, | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| Removal | <big><span class="asgreek">αναίρεσις</span></big> <sup><small><small>[[G0336]]</small></small></sup> |
-| of \[the\] Jaw. | <big><span class="asgreek">σιαγόνος</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| he finished | **<big>[[G4931\|συνετέλεσε]]</big>** |
+| speaking, | **<big>[[G2980\|λαλών]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he tossed | **<big>[[G4496\|έρριψε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| jaw \[bone\] | **<big>[[G4600\|σιαγόνα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his hand, | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that place, | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1565\|εκείνον]]</big>** |
+| Removal | **<big>[[G0336\|αναίρεσις]]</big>** |
+| of \[the\] Jaw. | **<big>[[G4600\|σιαγόνος]]</big>** |
 [[Judg.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.16|<< Judges 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.18|Judges 15:18 >>]]</td></tr></table>
 
 

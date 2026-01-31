@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעַזְיָה‎</span></big> **Maʻazyâh** <small>*(mah-az-yaw')*</small> ==**Maaziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַעַזְיָהוּ</span> **Maʻazyâhûw** <small>*(mah-az-yaw'-hoo)*</small>; probably from <span class="ashebrew">‎עוּז‎</span><sup><small>[[H5756]]</small></sup> (in the sense of protection) and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; rescue of Jah</small>
+**<big><span class="ashebrew">‎מַעַזְיָה‎</span></big>** **Maʻazyâh** <small>*(mah-az-yaw')*</small> ==**Maaziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַעַזְיָהוּ</span></big>** **Maʻazyâhûw** <small>*(mah-az-yaw'-hoo)*</small>; probably from **<big>[[H5756|‎עוּז‎]]</big>** (in the sense of protection) and **<big>[[H3050|‎יָהּ‎]]</big>**; rescue of Jah</small>
 
 $\quad$ Maaziah.
 - § Maaziah = *"consolation of Jehovah"*

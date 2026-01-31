@@ -7,29 +7,29 @@ Of Zebulun, such as went forth to battle, expert in war, with all instruments of
 From Zebulun: 50,000 fit for service, trained for battle with all kinds of weapons of war, who with one purpose were devoted to David.<small><sub>**MT:**</sub></small>
 [[1Chr.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.32|<< 1 Chronicles 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.34|1 Chronicles 12:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενοι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| battle array | <big><span class="asgreek">παράταξιν</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| for war | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] weapons | <big><span class="asgreek">σκεύεσι</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| for warfare -- | <big><span class="asgreek">πολεμικοίς</span></big> <sup><small><small>[[G8839]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| to help | <big><span class="asgreek">βοηθήσαι</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heart. | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενοι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| battle array | **<big>[[G8640\|παράταξιν]]</big>** |
+| for war | **<big>[[G4171\|πολέμου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \[the\] weapons | **<big>[[G4632\|σκεύεσι]]</big>** |
+| for warfare -- | **<big>[[G8839\|πολεμικοίς]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδες]]</big>** |
+| to help | **<big>[[G0997\|βοηθήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| heart. | **<big>[[G2588\|καρδίας]]</big>** |
 [[1Chr.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.32|<< 1 Chronicles 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.34|1 Chronicles 12:34 >>]]</td></tr></table>
 
 

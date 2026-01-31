@@ -6,13 +6,13 @@ For the Lord will not cast us off forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.30|<< Lamentations 3:30]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.32|Lamentations 3:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will reject  | <span class="ashebrew"><big>יִזְנַ֛ח </big></span><small><small><sup>[[H2186A]]</sup></small></small> &#8207;| yiz.Nach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֖ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָֽי </big></span><small><small><sup>[[H0136]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will reject  |**<big>&#8207;[[H2186A\|יִזְנַ֛ח]]&#8207; </big>**| yiz.Nach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֖ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.30|<< Lamentations 3:30]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.32|Lamentations 3:32 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אוּץ‎</span></big> **ʼûwts** <small>*(oots)*</small> ==**to hasten**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אוּץ‎</span></big>** **ʼûwts** <small>*(oots)*</small> ==**to hasten**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make) haste(-n, -y), labor, be narrow.
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to urge, insist
 $\quad$ $\quad$ **1b2)** to hasten
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλεύω</span><sup><small>[[G1011]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">προπορεύομαι</span><sup><small>[[G4313]]</small></sup> · <span class="asgreek">σπουδάζω</span><sup><small>[[G4704]]</small></sup> · <span class="asgreek">στενοχωρέω</span><sup><small>[[G4729]]</small></sup> · <span class="asgreek">ταχύ</span><sup><small>[[G5035]]</small></sup> · <span class="asgreek">ταχύς</span><sup><small>[[G5036]]</small></sup>
+<small>See Greek: </small>**<big>[[G1011|βουλεύω]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G2872|κοπιάω]]</big>** · **<big>[[G4313|προπορεύομαι]]</big>** · **<big>[[G4704|σπουδάζω]]</big>** · **<big>[[G4729|στενοχωρέω]]</big>** · **<big>[[G5035|ταχύ]]</big>** · **<big>[[G5036|ταχύς]]</big>**

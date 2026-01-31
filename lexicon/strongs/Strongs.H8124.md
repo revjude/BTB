@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְשַׁי‎</span></big> **Shimshay** <small>*(shim-shah'-ee)*</small> ==**Shimshai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎שֶׁמֶשׁ‎</span><sup><small>[[H8122]]</small></sup>; sunny</small>
+**<big><span class="ashebrew">‎שִׁמְשַׁי‎</span></big>** **Shimshay** <small>*(shim-shah'-ee)*</small> ==**Shimshai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) from **<big>[[H8122|‎שֶׁמֶשׁ‎]]</big>**; sunny</small>
 
 $\quad$ Shimshai.
 - § Shimshai = *"sunny"*

@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H8651]]</small>
-<small>Also see: [[H5869]]</small>
+<small>Aramaic form: **<big>[[H8651|תְּרַע]]</big>**</small>
+<small>Also see: **<big>[[H5869|עַיִן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שַׁ֫עַר‎</span><sub>373</sub> **noun masculine**<sup>[[2Sam.18.24|2Sam 18:24]]</sup> (**feminine**<sup>[[Isa.14.31|Isa 14:31]]</sup> in personification, [[BDB#Albr.|Albr]]<sup>ZAW xvi (1896), 86</sup>) ==gate==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> absolute [[Judg.9.40|Judg 9:40]] +, construct [[Gen.22.17|Gen 22:17]] +; with <span class="bdbLangHebrew">‎ה‎</span> locative, <span class="bdbLangHebrew">‎שָׁ֑עְרָה‎</span> [[Isa.28.6|Isa 28:6]] +; plural <span class="bdbLangHebrew">‎שְׁעָרִים‎</span> [[2Sam.18.24|2Sam 18:24]] +, construct <span class="bdbLangHebrew">‎שַׁעֲרֵי‎</span> [[1Sam.17.52|1Sam 17:52]] +; suffix <span class="bdbLangHebrew">‎שְׁעָרֶיךָ‎</span> [[Deut.12.15|Deut 12:15]] +, <span class="bdbLangHebrew">‎שַׁעֲרֵיהֶם‎</span> [[Ezek.21.20|Ezek 21:20]]; [[Ezek.48.34|Ezek 48:34]], etc.; — 
 

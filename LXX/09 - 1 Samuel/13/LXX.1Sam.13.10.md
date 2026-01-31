@@ -7,26 +7,26 @@ And it came to pass, that as soon as he had made an end of offering the burnt of
 Just as he finished offering the burnt offering, Samuel arrived, and Saul went out to greet him.<small><sub>**MT:**</sub></small>
 [[1Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.9|<< 1 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.11|1 Samuel 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he completed | <big><span class="asgreek">συνετέλεσεν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| offering | <big><span class="asgreek">αναφέρων</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering, | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| arrived. | <big><span class="asgreek">παραγένετο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to bless | <big><span class="asgreek">ευλογήσαι</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| he completed | **<big>[[G4931\|συνετέλεσεν]]</big>** |
+| offering | **<big>[[G0399\|αναφέρων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| whole burnt-offering, | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| arrived. | **<big>[[G3854\|παραγένετο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul came forth | **<big>[[G1831\|εξήλθε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G0529\|απάντησιν]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| to bless | **<big>[[G2127\|ευλογήσαι]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[1Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.9|<< 1 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.11|1 Samuel 13:11 >>]]</td></tr></table>
 
 

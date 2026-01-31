@@ -6,15 +6,15 @@ May their path be dark and slick, as the angel of the LORD pursues.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.5|<< Psalms 35:5]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.7|Psalms 35:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may it be  | <span class="ashebrew"><big>יְֽהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.hi- <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way their  | <span class="ashebrew"><big>דַרְכָּ֗ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| dar.Ka <small><sup>[[HNcbsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹ֥שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and slippery places  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲלַקְלַקּ֑וֹת </big></span><small><small><sup>[[H2519]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.lak.la.Kot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] angel of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַלְאַ֥ךְ </big></span><small><small><sup>[[H4397H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mal.'Akh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pursuing them  | <span class="ashebrew"><big>רֹדְפָֽ </big></span><small><small><sup>[[H7291]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.de.Fa <small><sup>[[HVqrmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it be  |**<big>&#8207;[[H1961\|יְֽהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way their  |**<big>&#8207;[[H1870G\|דַרְכָּ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹ֥שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and slippery places  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2519\|חֲלַקְלַקּ֑וֹת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.lak.la.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] angel of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397H\|מַלְאַ֥ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pursuing them  |**<big>&#8207;[[H7291\|רֹדְפָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.de.Fa<small><sup>[[HVqrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.5|<< Psalms 35:5]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.7|Psalms 35:7 >>]]</td></tr></table>
 
 

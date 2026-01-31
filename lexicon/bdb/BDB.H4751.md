@@ -1,4 +1,4 @@
-<small>Also see: [[H4755]]</small>
+<small>Also see: **<big>[[H4755|מָרָא]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎מַר‎</span> **adjective** and **substantive** ==bitter, bitterness==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Prov.27.7|Prov 27:7]] +, <span class="bdbLangHebrew">‎הַמַּר‎</span> [[Hab.1.6|Hab 1:6]], <span class="bdbLangHebrew">‎מָ֑ר‎</span> [[Ps.64.4|Ps 64:4]] +; construct <span class="bdbLangHebrew">‎מַר‎</span> [[1Sam.22.2|1Sam 22:2]] +; feminine <span class="bdbLangHebrew">‎מָרָה‎</span> [[Gen.27.34|Gen 27:34]] +, <span class="bdbLangHebrew">‎מָרָא‎</span> [[Ruth.1.20|Ruth 1:20]] construct <span class="bdbLangHebrew">‎מָרַת‎</span> [[1Sam.1.10|1Sam 1:10]] masculine plural <span class="bdbLangHebrew">‎מָרִים‎</span> [[Exod.15.23|Exod 15:23]] +; construct <span class="bdbLangHebrew">‎מָרֵי‎</span> [[Judg.18.25|Judg 18:25]]; [[Prov.31.6|Prov 31:6]] — ***bitter:*** 
 

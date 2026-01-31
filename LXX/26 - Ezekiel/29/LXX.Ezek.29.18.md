@@ -7,44 +7,44 @@ Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great serv
 “Son of man, Nebuchadnezzar king of Babylon caused his army to labor strenuously against Tyre. Every head was made bald and every shoulder made raw. But he and his army received no wages from Tyre for the labor they expended on it.<small><sub>**MT:**</sub></small>
 [[Ezek.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.17|<< Ezekiel 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.19|Ezekiel 29:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| reduced to slavery | <big><span class="asgreek">κατεδουλώσατο</span></big> <sup><small><small>[[G2615]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his force | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλεία</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| for a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Tyre. | <big><span class="asgreek">Τύρου</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| \[was\] bald | <big><span class="asgreek">φαλακρά</span></big> <sup><small><small>[[G9615]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| shoulder | <big><span class="asgreek">ώμος</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
-| loose of hair. | <big><span class="asgreek">μαδών</span></big> <sup><small><small>[[G8223]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exist | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his force | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Tyre, | <big><span class="asgreek">Τύρον</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| for | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they served | <big><span class="asgreek">εδούλευσαν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| reduced to slavery | **<big>[[G2615\|κατεδουλώσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his force | **<big>[[G1411\|δύναμιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| service | **<big>[[G1397\|δουλεία]]</big>** |
+| for a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Tyre. | **<big>[[G5184\|Τύρου]]</big>** |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| head | **<big>[[G2776\|κεφαλή]]</big>** |
+| \[was\] bald | **<big>[[G9615\|φαλακρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| shoulder | **<big>[[G5606\|ώμος]]</big>** |
+| loose of hair. | **<big>[[G8223\|μαδών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| a wage | **<big>[[G3408\|μισθός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| exist | **<big>[[G1096\|εγένετο]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his force | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] against | **<big>[[G1909\|επί]]</big>** |
+| Tyre, | **<big>[[G5184\|Τύρον]]</big>** |
+| for | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| service | **<big>[[G1397\|δουλείας]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| they served | **<big>[[G1398\|εδούλευσαν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.17|<< Ezekiel 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.19|Ezekiel 29:19 >>]]</td></tr></table>
 
 

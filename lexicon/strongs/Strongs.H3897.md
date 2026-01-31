@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָחַךְ‎</span></big> **lâchak** <small>*(law-khak')*</small> ==**to lick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָחַךְ‎</span></big>** **lâchak** <small>*(law-khak')*</small> ==**to lick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lick (up).

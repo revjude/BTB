@@ -7,49 +7,49 @@ It stood upon twelve oxen, three looking toward the north, and three looking tow
 The Sea stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea rested on them, with all their hindquarters toward the center.<small><sub>**MT:**</sub></small>
 [[2Chr.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.3|<< 2 Chronicles 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.5|2 Chronicles 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[And\] standing | <big><span class="asgreek">εστώσα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| \[were\] looking | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| north, | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| \[were\] looking | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| west, | <big><span class="asgreek">δυσμάς</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| \[were\] looking | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| south, | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| \[were\] looking | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \[was\] upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upward. | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posteriors | <big><span class="asgreek">οπίσθια</span></big> <sup><small><small>[[G8531]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[towards the\] inside. | <big><span class="asgreek">έσω</span></big> <sup><small><small>[[G2080]]</small></small></sup> |
+| in which | **<big>[[G3739\|η]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| \[And\] standing | **<big>[[G2476\|εστώσα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| calves | **<big>[[G3448\|μόσχους]]</big>** |
+| \[was\] the | **<big>[[G3588\|η]]</big>** |
+| sea. | **<big>[[G2281\|θάλασσα]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| \[were\] looking | **<big>[[G0991\|βλέποντες]]</big>** |
+| north, | **<big>[[G1005\|βορράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| \[were\] looking | **<big>[[G0991\|βλέποντες]]</big>** |
+| west, | **<big>[[G1424\|δυσμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| \[were\] looking | **<big>[[G0991\|βλέποντες]]</big>** |
+| south, | **<big>[[G3558\|νότον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| \[were\] looking | **<big>[[G0991\|βλέποντες]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| \[was\] upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| upward. | **<big>[[G0507\|άνω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| posteriors | **<big>[[G8531\|οπίσθια]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \[towards the\] inside. | **<big>[[G2080\|έσω]]</big>** |
 [[2Chr.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.3|<< 2 Chronicles 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.5|2 Chronicles 4:5 >>]]</td></tr></table>
 
 

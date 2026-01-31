@@ -4,8 +4,8 @@ People from Dodan\(?\)
 
 The <span class='tipnrhighlight'>Dodanim</span> were descendants of Javan, son of Japheth, mentioned in the Table of Nations. \([[Gen.10.4|Gen.10.4]]; [[1Chr.1.7|1Ch.1.7]]\)
 - People from Dodan\(?\) of the Greeks, first mentioned at [[Gen.10.4|Gen.10.4]]; 
-- referred to as Dodanim or Rodanim \(KJV= Dodanim, NIV= Rodanites\) <[[H1721]]> \(<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>\); 
-- descended from Javan<[[H3120G]]> along with Elishah<[[H0473G]]>, Tarshish<[[H8659G]]> and Kittim<[[H3794G]]>.
+- referred to as Dodanim or Rodanim \(KJV= Dodanim, NIV= Rodanites\)  **<big>[[H1721|דֹּדָנִים]]</big>**; 
+- descended from Javan **<big>[[H3120|יָוָן]]</big>** along with Elishah **<big>[[H0473|אֱלִישָׁה]]</big>**, Tarshish **<big>[[H8659|תַּרְשִׁישׁ]]</big>** and Kittim **<big>[[H3794|כִּתִּי]]</big>**.
 
 The Dodanim are mentioned in the Table of Nations in Genesis 10 and 1 Chronicles 1. They are listed as one of the descendants of Javan, the son of Japheth \([[Gen.10.4|Genesis 10:4]]; [[1Chr.1.7|1 Chronicles 1:7]]\). 
 
@@ -21,9 +21,9 @@ Apart from these mentions in the Table of Nations, no further information is pro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dodanim (NIV= Rodanites) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1721) <small>*Hebrew*</small> | 1x | [Gen.10.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodanim\*\|reference=Gen.10.4) |
-| Rodanim (KJV= Dodanim; NIV= Rodanites) | [<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1721) <small>*Hebrew*</small> | 1x | [1Ch.1.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rodanim\*\|reference=1Ch.1.7) |
-All Strong's for **Dodanim or Rodanim**: \[[[H1721]]\]
+| Dodanim (NIV= Rodanites) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1721) | 1x | [Gen.10.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodanim\*\|reference=Gen.10.4) |
+| Rodanim (KJV= Dodanim; NIV= Rodanites) | [<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1721) | 1x | [1Ch.1.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rodanim\*\|reference=1Ch.1.7) |
+All entries for **Dodanim or Rodanim**:  **<big>[[H1721|דֹּדָנִים]]</big>**
 #### Related Profiles:
 - **[Javan](H3120G)** (father)
 - **[Elishah](H0473G)** (sibling)

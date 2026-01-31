@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָבַע‎</span></big> **râbaʻ** <small>*(raw-bah')*</small> ==**to mate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָבַע‎</span></big>** **râbaʻ** <small>*(raw-bah')*</small> ==**to mate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ let gender, lie down.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ $\quad$ **1a1a)** for repose
 $\quad$ $\quad$ $\quad$ **1a1b)** for copulation (of woman with beast)
 $\quad$ **1b)** (Hiphil) to cause to lay down (of cattle breeding)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τετράγωνος</span><sup><small>[[G5068]]</small></sup>
+<small>See Greek: </small>**<big>[[G5068|τετράγωνος]]</big>**

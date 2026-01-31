@@ -6,14 +6,14 @@ Bukki his son, Uzzi his son, Zerahiah his son,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.50|<< 1 Chronicles 6:50]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.52|1 Chronicles 6:52 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Bukki  | <span class="ashebrew"><big>בֻּקִּ֥י </big></span><small><small><sup>[[H1231H]]</sup></small></small> &#8207;| bu.Ki <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְנ֛ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Uzzi  | <span class="ashebrew"><big>עֻזִּ֥י </big></span><small><small><sup>[[H5813G]]</sup></small></small> &#8207;| 'u.Zi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְנ֖ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zerahiah  | <span class="ashebrew"><big>זְרַֽחְיָ֥ה </big></span><small><small><sup>[[H2228G]]</sup></small></small> &#8207;| ze.rach.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְנֽ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bukki  |**<big>&#8207;[[H1231H\|בֻּקִּ֥י]]&#8207; </big>**| bu.Ki<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uzzi  |**<big>&#8207;[[H5813G\|עֻזִּ֥י]]&#8207; </big>**| 'u.Zi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zerahiah  |**<big>&#8207;[[H2228G\|זְרַֽחְיָ֥ה]]&#8207; </big>**| ze.rach.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.50|<< 1 Chronicles 6:50]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.52|1 Chronicles 6:52 >>]]</td></tr></table>
 
 

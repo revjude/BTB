@@ -6,17 +6,17 @@ For with much wisdom comes much sorrow, and as knowledge grows, grief increases.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.17|<< Ecclesiastes 1:17]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.1|Ecclesiastes 2:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in abundance of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רֹ֥ב </big></span><small><small><sup>[[H7230]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ro <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֖ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| abundance of  | <span class="ashebrew"><big>רָב </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| rov- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| frustration  | <span class="ashebrew"><big>כָּ֑עַס </big></span><small><small><sup>[[H3708A]]</sup></small></small> &#8207;| Ka.'as <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so someone may increase  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹסִ֥יף </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Sif <small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דַּ֖עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will increase  | <span class="ashebrew"><big>יוֹסִ֥יף </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| yo.Sif <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pain  | <span class="ashebrew"><big>מַכְאֽוֹב </big></span><small><small><sup>[[H4341]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| makh.'ov <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in abundance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֥ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֖ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| abundance of  |**<big>&#8207;[[H7227A\|רָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rov-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| frustration  |**<big>&#8207;[[H3708A\|כָּ֑עַס]]&#8207; </big>**| Ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so someone may increase  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3254H\|יוֹסִ֥יף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Sif<small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דַּ֖עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will increase  |**<big>&#8207;[[H3254H\|יוֹסִ֥יף]]&#8207; </big>**| yo.Sif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pain  |**<big>&#8207;[[H4341\|מַכְאֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| makh.'ov<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.17|<< Ecclesiastes 1:17]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.1|Ecclesiastes 2:1 >>]]</td></tr></table>
 
 

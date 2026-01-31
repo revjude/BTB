@@ -7,36 +7,36 @@ And the curious girdle of the ephod, which [is] upon it, shall be of the same, a
 And the skillfully woven waistband of the ephod must be of one piece, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen.<small><sub>**MT:**</sub></small>
 [[Exod.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.7|<< Exodus 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.9|Exodus 28:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woven work | <big><span class="asgreek">ύφασμα</span></big> <sup><small><small>[[G9608]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-pieces | <big><span class="asgreek">επωμίδων</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποίησιν</span></big> <sup><small><small>[[G4162]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαρού</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blue, | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| being spun, | <big><span class="asgreek">διανενησμένου</span></big> <sup><small><small>[[G6851]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined. | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| woven work | **<big>[[G9608\|ύφασμα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| shoulder-pieces | **<big>[[G7490\|επωμίδων]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| concerning | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| making | **<big>[[G4162\|ποίησιν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| it, | **<big>[[G1473\|αυτού]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| pure | **<big>[[G2513\|καθαρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blue, | **<big>[[G5192\|υακίνθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet | **<big>[[G2847\|κοκκίνου]]</big>** |
+| being spun, | **<big>[[G6851\|διανενησμένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined. | **<big>[[G8029\|κεκλωσμένης]]</big>** |
 [[Exod.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.7|<< Exodus 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.9|Exodus 28:9 >>]]</td></tr></table>
 
 

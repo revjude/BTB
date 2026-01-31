@@ -6,18 +6,18 @@ Now Balak son of Zippor saw all that Israel had done to the Amorites,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.1|<< Numbers 22:1]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.3|Numbers 22:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he saw  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥רְא </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yar' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balak  | <span class="ashebrew"><big>בָּלָ֖ק </big></span><small><small><sup>[[H1111]]</sup></small></small> &#8207;| ba.Lak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zippor  | <span class="ashebrew"><big>צִפּ֑וֹר </big></span><small><small><sup>[[H6834]]</sup></small></small> &#8207;| tzi.Por <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֛ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had done  | <span class="ashebrew"><big>עָשָׂ֥ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the Amorite[s]  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֱמֹרִֽי </big></span><small><small><sup>[[H0567]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La. <small><sup>[[HRd]]</sup></small> 'e.mo.Ri <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֥רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  |**<big>&#8207;[[H1111\|בָּלָ֖ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zippor  |**<big>&#8207;[[H6834\|צִפּ֑וֹר]]&#8207; </big>**| tzi.Por<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had done  |**<big>&#8207;[[H6213A\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the Amorite[s]  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H0567\|אֱמֹרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.1|<< Numbers 22:1]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.3|Numbers 22:3 >>]]</td></tr></table>
 
 

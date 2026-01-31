@@ -7,22 +7,22 @@ And they answered, We will willingly give [them]. And they spread a garment, and
 “We will give them gladly,” they replied. So they spread out a garment, and each man threw an earring from his plunder onto it.<small><sub>**MT:**</sub></small>
 [[Judg.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| In giving | <big><span class="asgreek">διδόντες</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| we will give. | <big><span class="asgreek">δώσομεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he unfolded | <big><span class="asgreek">ανέπτυξε</span></big> <sup><small><small>[[G0380]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garment, | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \[each\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| an ear-ring | <big><span class="asgreek">ενώτιον</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
-| of his spoils. | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| In giving | **<big>[[G1325\|διδόντες]]</big>** |
+| we will give. | **<big>[[G1325\|δώσομεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he unfolded | **<big>[[G0380\|ανέπτυξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his garment, | **<big>[[G2440\|ιμάτιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed | **<big>[[G4496\|έρριψεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| \[each\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| an ear-ring | **<big>[[G7278\|ενώτιον]]</big>** |
+| of his spoils. | **<big>[[G4661\|σκύλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*El-paran • Wilderness area where the Horites were defeated by Chedorlaomer*</small>
 
 <span class='tipnrhighlight'>El-paran</span>, a wilderness region where Chedorlaomer and his allies defeated the Horites during their campaign.
-- A location near Paran<[[H6290G]]> only mentioned at [[Gen.14.6|Gen.14.6]]; 
-- only referred to as El-paran<[[H0364]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span> <span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Paran **<big>[[H6290|פָּארָן]]</big>** only mentioned at [[Gen.14.6|Gen.14.6]]; 
+- only referred to as El-paran **<big>[[H0364|אֵיל פָּארָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.151667,33.541944&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ El-paran is mentioned only once in the Bible, in the context of the battle betwe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| El-paran (NIV= El Paran) | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span> <span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H0364) <small>*Hebrew*</small> | 1x | [Gen.14.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=El\*\|reference=Gen.14.6) |
-All Strong's for **El-paran**: \[[[H0364]]\]
+| El-paran (NIV= El Paran) | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span> <span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H0364) | 1x | [Gen.14.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=El\*\|reference=Gen.14.6) |
+All entries for **El-paran**:  **<big>[[H0364|אֵיל פָּארָן]]</big>**

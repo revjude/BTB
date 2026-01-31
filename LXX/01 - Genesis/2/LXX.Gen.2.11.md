@@ -7,24 +7,24 @@ The name of the first [is] Pison: that [is] it which compasseth the whole land o
 The name of the first river is the Pishon; it winds through the whole land of Havilah, where there is gold.<small><sub>**MT:**</sub></small>
 [[Gen.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.10|<< Genesis 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.12|Genesis 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[is\] Phison. | <big><span class="asgreek">Φισών</span></big> <sup><small><small>[[H6376]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| encircling | <big><span class="asgreek">κυκλών</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Havilah -- | <big><span class="asgreek">Ευιλάτ</span></big> <sup><small><small>[[H2341]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| \[The\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| \[is\] Phison. | **<big>[[H6376\|Φισών]]</big>** |
+| This \[is\] | **<big>[[G3778\|ούτος]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| encircling | **<big>[[G2944\|κυκλών]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Havilah -- | **<big>[[H2341\|Ευιλάτ]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| is | **<big>[[G1510\|έστι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
 [[Gen.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.10|<< Genesis 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.12|Genesis 2:12 >>]]</td></tr></table>
 
 

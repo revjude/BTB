@@ -7,27 +7,27 @@ And the Sabeans fell [upon them], and took them away; yea, they have slain the s
 the Sabeans swooped down and took them away. They put the servants to the sword, and I alone have escaped to tell you!”<small><sub>**MT:**</sub></small>
 [[Job.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.14|<< Job 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.16|Job 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sabeans fell upon | <big><span class="asgreek">επέπεσε</span></big> <sup><small><small>[[G1968]]</small></small></sup> <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7652b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| captured | <big><span class="asgreek">ηχμαλώτευσαν</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| swords. | <big><span class="asgreek">μαχαίραις</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| escaped | <big><span class="asgreek">σωθείς</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| \[and\] I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to report | <big><span class="asgreek">απαγγείλαί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Sabeans fell upon | **<big>[[G1968\|επέπεσε]]</big>** **<big>[[H7652b\|Σαβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| captured | **<big>[[G0162\|ηχμαλώτευσαν]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| servants | **<big>[[G3816\|παίδας]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| swords. | **<big>[[G3162\|μαχαίραις]]</big>** |
+| escaped | **<big>[[G4982\|σωθείς]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| \[and\] I came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to report | **<big>[[G0518\|απαγγείλαί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Job.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.14|<< Job 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.16|Job 1:16 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ For their rock [is] not as our Rock, even our enemies themselves [being] judges.
 For their rock is not like our Rock, even our enemies concede.<small><sub>**MT:**</sub></small>
 [[Deut.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.30|<< Deuteronomy 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.32|Deuteronomy 32:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gods | <big><span class="asgreek">θεοι</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| our enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are unthinking. | <big><span class="asgreek">ανόητοι</span></big> <sup><small><small>[[G0453]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισίν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their gods | **<big>[[G2316\|θεοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| our enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| are unthinking. | **<big>[[G0453\|ανόητοι]]</big>** |
 [[Deut.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.30|<< Deuteronomy 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.32|Deuteronomy 32:32 >>]]</td></tr></table>
 
 

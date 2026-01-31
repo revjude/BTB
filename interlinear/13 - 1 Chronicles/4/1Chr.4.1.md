@@ -6,15 +6,15 @@ The descendants of Judah: Perez, Hezron, Carmi, Hur, and Shobal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.24|<< 1 Chronicles 3:24]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.2|1 Chronicles 4:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֖י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Perez  | <span class="ashebrew"><big>פֶּ֧רֶץ </big></span><small><small><sup>[[H6557]]</sup></small></small> &#8207;| Pe.retz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hezron  | <span class="ashebrew"><big>חֶצְר֛וֹן </big></span><small><small><sup>[[H2696H]]</sup></small></small> &#8207;| chetz.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Carmi  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כַרְמִ֖י </big></span><small><small><sup>[[H3756I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khar.Mi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Hur  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ח֥וּר </big></span><small><small><sup>[[H2354G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Chur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Shobal  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שׁוֹבָֽל </big></span><small><small><sup>[[H7732H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.Val <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121G\|בְּנֵ֖י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Perez  |**<big>&#8207;[[H6557\|פֶּ֧רֶץ]]&#8207; </big>**| Pe.retz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezron  |**<big>&#8207;[[H2696H\|חֶצְר֛וֹן]]&#8207; </big>**| chetz.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Carmi  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3756I\|כַרְמִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khar.Mi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hur  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2354G\|ח֥וּר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shobal  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7732H\|שׁוֹבָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.Val<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.24|<< 1 Chronicles 3:24]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.2|1 Chronicles 4:2 >>]]</td></tr></table>
 
 

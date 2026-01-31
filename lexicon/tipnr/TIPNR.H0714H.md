@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ard</span>, a grandson of Benjamin, is mentioned in the census of the Israelites taken in the wilderness of Moab.
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, only mentioned at [[Num.26.40|Num.26.40]]; 
-- referred to as Ard<[[H0714H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ\), or Ardite<[[H0716]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Bela<[[H1106A]]>; 
-- a brother of Naaman<[[H5283H]]>, Ezbon<[[H0675H]]>, Uzzi<[[H5813I]]>, Uzziel<[[H5816I]]>, Jerimoth<[[H3406G]]>, Iri<[[H5901]]>, Addar<[[H0146H]]>, Gera<[[H1617I]]>, Abihud<[[H0031]]>, Abishua<[[H0050H]]> and Ahoah<[[H0265]]>.
+- referred to as Ard **<big>[[H0714|אַרְדְּ]]</big>**, or Ardite **<big>[[H0716|אַרְדִּי]]</big>**; 
+-  son of Bela **<big>[[H1106|בֶּלַע]]</big>**; 
+- a brother of Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ezbon **<big>[[H0675|אֶצְבּוֹן]]</big>**, Uzzi **<big>[[H5813|עֻזִּי]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Iri **<big>[[H5901|עִירִי]]</big>**, Addar **<big>[[H0146|אַדָּר]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Abihud **<big>[[H0031|אֲבִיהוּד]]</big>**, Abishua **<big>[[H0050|אֲבִישׁוּעַ]]</big>** and Ahoah **<big>[[H0265|אֲחוֹחַ]]</big>**.
 
 Ard is mentioned in the book of Numbers as one of the descendants of Benjamin, the youngest son of Israel \(or 'Jacob'\). In the census of the Israelites taken in the wilderness of Moab, near the end of their forty years of wandering, Ard is listed as a grandson of Benjamin through his son Bela \([[Num.26.40|Numbers 26:40]]\). 
 
@@ -16,9 +16,9 @@ This reference to Ard in the book of Numbers is consistent with his mention in t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714H) <small>*Hebrew*</small> | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Num.26.40) |
-| Ardite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>י</span>](H0716) <small>*Hebrew*</small> | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ardite\*\|reference=Num.26.40) |
-All Strong's for **Ard**: \[[[H0714H]]\] \[[[H0716]]\]
+| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714H) | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Num.26.40) |
+| Ardite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>י</span>](H0716) | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ardite\*\|reference=Num.26.40) |
+All entries for **Ard**:  **<big>[[H0714|אַרְדְּ]]</big>** ☩  **<big>[[H0716|אַרְדִּי]]</big>**
 #### Related Profiles:
 - **[Bela](H1106A)** (father)
 - **[Naaman](H5283H)** (sibling)

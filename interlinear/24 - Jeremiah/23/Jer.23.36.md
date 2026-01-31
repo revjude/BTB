@@ -6,26 +6,26 @@ But refer no more to the burden of the LORD, for each man’s word becomes the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.35|<< Jeremiah 23:35]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.37|Jeremiah 23:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] burden of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַשָּׂ֥א </big></span><small><small><sup>[[H4853B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Sa' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will remember  | <span class="ashebrew"><big>תִזְכְּרוּ </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tiz.ke.ru- <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֑וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the burden  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּשָּׂ֗א </big></span><small><small><sup>[[H4853B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Sa' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is  | <span class="ashebrew"><big>יִֽהְיֶה֙ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for a person  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own word his  | <span class="ashebrew"><big>דְּבָר֔ </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| de.va.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you change  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הֲפַכְתֶּ֗ם </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ha.fakh.Tem <small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵי֙ </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| div.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| living  | <span class="ashebrew"><big>חַיִּ֔ים </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai.Yim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֖וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  | <span class="ashebrew"><big>אֱלֹהֵֽי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] burden of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4853B\|מַשָּׂ֥א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remember  |**<big>&#8207;[[H2142\|תִזְכְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tiz.ke.ru-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֑וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the burden  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4853B\|מַּשָּׂ֗א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Sa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is  |**<big>&#8207;[[H1961\|יִֽהְיֶה֙]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a person  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own word his  |**<big>&#8207;[[H1697G\|דְּבָר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| de.va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you change  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2015\|הֲפַכְתֶּ֗ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.fakh.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵי֙]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  |**<big>&#8207;[[H2416A\|חַיִּ֔ים]]&#8207; </big>**| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.35|<< Jeremiah 23:35]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.37|Jeremiah 23:37 >>]]</td></tr></table>
 
 

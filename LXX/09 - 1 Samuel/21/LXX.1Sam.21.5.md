@@ -7,48 +7,48 @@ And David answered the priest, and said unto him, Of a truth women [have been] k
 David answered, “Women have indeed been kept from us, as is usual when I set out. And the bodies of the young men are holy even on common missions. How much more so today!”<small><sub>**MT:**</sub></small>
 [[1Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Yes, | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| we have been at a distance | <big><span class="asgreek">απεσχήμεθα</span></big> <sup><small><small>[[G0568]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yesterday | <big><span class="asgreek">εχθές</span></big> <sup><small><small>[[G5504]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτης</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| day \[before\]. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my coming forth | <big><span class="asgreek">εξελθείν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| journey | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| have been | <big><span class="asgreek">γέγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| purified; | <big><span class="asgreek">ηγνισμένα</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| journey | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| is profane, | <big><span class="asgreek">βέβηλος</span></big> <sup><small><small>[[G0952]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| it shall be sanctified | <big><span class="asgreek">αγιασθήσεται</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my weapons. | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David answered | **<big>[[G0611\|απεκρίθη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| priest, | **<big>[[G2409\|ιερεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Yes, | **<big>[[G0235\|αλλά]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a woman | **<big>[[G1135\|γυναικός]]</big>** |
+| we have been at a distance | **<big>[[G0568\|απεσχήμεθα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| yesterday | **<big>[[G5504\|εχθές]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτης]]</big>** |
+| day \[before\]. | **<big>[[G2250\|ημέρας]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my coming forth | **<big>[[G1831\|εξελθείν]]</big>** **<big>[[G1473\|με]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| journey | **<big>[[G3598\|οδόν]]</big>** |
+| have been | **<big>[[G1096\|γέγονε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| servants | **<big>[[G3813\|παιδία]]</big>** |
+| purified; | **<big>[[G0048\|ηγνισμένα]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G1473\|αυτή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| journey | **<big>[[G3598\|οδός]]</big>** |
+| is profane, | **<big>[[G0952\|βέβηλος]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| it shall be sanctified | **<big>[[G0037\|αγιασθήσεται]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my weapons. | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[1Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
 

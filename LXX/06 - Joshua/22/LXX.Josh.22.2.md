@@ -7,30 +7,30 @@ And said unto them, Ye have kept all that Moses the servant of the LORD commande
 and told them, “You have done all that Moses the servant of the LORD commanded you, and you have obeyed my voice in all that I commanded you.<small><sub>**MT:**</sub></small>
 [[Josh.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.1|<< Joshua 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.3|Joshua 22:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have heard | <big><span class="asgreek">ακηκόατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the whole, | <big><span class="asgreek">σύμπαντα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you heeded | <big><span class="asgreek">επηκούσατε</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| have heard | **<big>[[G0191\|ακηκόατε]]</big>** |
+| the whole, | **<big>[[G9270\|σύμπαντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G3816\|παις]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you heeded | **<big>[[G1873\|επηκούσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Josh.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.1|<< Joshua 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.3|Joshua 22:3 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ But if ye say, We will not dwell in this land, neither obey the voice of the LOR
 But if you say, ‘We will not stay in this land,’ and you thus disobey the voice of the LORD your God,<small><sub>**MT:**</sub></small>
 [[Jer.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.12|<< Jeremiah 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.14|Jeremiah 42:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you say | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to yourselves, | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should we stay | <big><span class="asgreek">καθίσωμεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">ακούσαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you say | **<big>[[G3004\|λέγετε]]</big>** |
+| to yourselves, | **<big>[[G1473\|υμείς]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should we stay | **<big>[[G2523\|καθίσωμεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this land, | **<big>[[G1093\|γη]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| hearken to | **<big>[[G0191\|ακούσαι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Jer.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.12|<< Jeremiah 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.14|Jeremiah 42:14 >>]]</td></tr></table>
 
 

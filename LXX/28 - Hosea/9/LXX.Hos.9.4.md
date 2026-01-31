@@ -7,37 +7,37 @@ They shall not offer wine [offerings] to the LORD, neither shall they be pleasin
 They will not pour out wine offerings to the LORD, and their sacrifices will not please Him, but will be to them like the bread of mourners; all who eat will be defiled. For their bread will be for themselves; it will not enter the house of the LORD.<small><sub>**MT:**</sub></small>
 [[Hos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.3|<< Hosea 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.5|Hosea 9:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They offered not a libation | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσπεισαν</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| delicious | <big><span class="asgreek">ήδυναν</span></big> <sup><small><small>[[G7619]]</small></small></sup> |
-| to him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sacrifices | <big><span class="asgreek">θυσίαι</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτος</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of mourning | <big><span class="asgreek">πένθους</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eating | <big><span class="asgreek">εσθίοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be defiled. | <big><span class="asgreek">μιανθήσονται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| their bread loaves | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for their lives | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσονται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| They offered not a libation | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4689\|έσπεισαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| of wine, | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were not | **<big>[[G3756\|ουχ]]</big>** |
+| delicious | **<big>[[G7619\|ήδυναν]]</big>** |
+| to him; | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their sacrifices | **<big>[[G2378\|θυσίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[were\] as | **<big>[[G5613\|ως]]</big>** |
+| bread | **<big>[[G0740\|άρτος]]</big>** |
+| of mourning | **<big>[[G3997\|πένθους]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| eating | **<big>[[G2068\|εσθίοντες]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| shall be defiled. | **<big>[[G3392\|μιανθήσονται]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| their bread loaves | **<big>[[G0740\|άρτοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| for their lives | **<big>[[G5590\|ψυχαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Hos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.3|<< Hosea 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.5|Hosea 9:5 >>]]</td></tr></table>
 
 

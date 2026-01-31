@@ -7,22 +7,22 @@ Ye shall not therefore oppress one another; but thou shalt fear thy God: for I [
 Do not take advantage of each other, but fear your God; for I am the LORD your God.<small><sub>**MT:**</sub></small>
 [[Lev.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.16|<< Leviticus 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.18|Leviticus 25:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| afflict | <big><span class="asgreek">θλιβέτω</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor! | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall fear | <big><span class="asgreek">φοβηθήση</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| afflict | **<big>[[G2346\|θλιβέτω]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his neighbor! | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall fear | **<big>[[G5399\|φοβηθήση]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God. | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.16|<< Leviticus 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.18|Leviticus 25:18 >>]]</td></tr></table>
 
 

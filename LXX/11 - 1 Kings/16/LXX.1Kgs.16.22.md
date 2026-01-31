@@ -10,27 +10,27 @@ But the people that followed Omri prevailed against the people that followed Tib
 But the followers of Omri proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.21|<< 1 Kings 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.23|1 Kings 16:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Omri | <big><span class="asgreek">Αμβρί</span></big> <sup><small><small>[[H6018]]</small></small></sup> |
-| prevailed against | <big><span class="asgreek">υπερεκράτησε</span></big> <sup><small><small>[[G9552]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \[that followed\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Tibni | <big><span class="asgreek">Θαβνί</span></big> <sup><small><small>[[H8402]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ginath. | <big><span class="asgreek">Γινήθ</span></big> <sup><small><small>[[H1527]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tibni died, | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Θαβνί</span></big> <sup><small><small>[[H8402]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Omri reigned. | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">Αμβρί</span></big> <sup><small><small>[[H6018]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Omri | **<big>[[H6018\|Αμβρί]]</big>** |
+| prevailed against | **<big>[[G9552\|υπερεκράτησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| \[that followed\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Tibni | **<big>[[H8402\|Θαβνί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ginath. | **<big>[[H1527\|Γινήθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Tibni died, | **<big>[[G0599\|απέθανε]]</big>** **<big>[[H8402\|Θαβνί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Omri reigned. | **<big>[[G0936\|εβασίλευσεν]]</big>** **<big>[[H6018\|Αμβρί]]</big>** |
 [[1Kgs.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.21|<< 1 Kings 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.23|1 Kings 16:23 >>]]</td></tr></table>
 
 

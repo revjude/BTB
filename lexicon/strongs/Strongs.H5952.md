@@ -1,7 +1,7 @@
-<big><span class="asaramaic">‎עַלִּית‎</span></big> **ʻallîyth** <small>*(al-leeth')*</small> ==**roof**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="asaramaic">‎עַלִּית‎</span></big>** **ʻallîyth** <small>*(al-leeth')*</small> ==**roof**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>from **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
-$\quad$ chamber. Compare <span class="ashebrew">‎עֲלִיָּה‎</span><sup><small>[[H5944]]</small></sup>.
+$\quad$ chamber. Compare **<big>[[H5944|‎עֲלִיָּה‎]]</big>**.
 - ***a second-story room***
 
 **1)** roof-room, roof chamber

@@ -6,15 +6,15 @@ You would even cast lots for an orphan and barter away your friend.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.26|<< Job 6:26]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.28|Job 6:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| even  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fatherless one  | <span class="ashebrew"><big>יָת֥וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will make fall  | <span class="ashebrew"><big>תַּפִּ֑ילוּ </big></span><small><small><sup>[[H5307I]]</sup></small></small> &#8207;| ta.Pi.lu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you may bargain  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִכְר֗וּ </big></span><small><small><sup>[[H3739A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tikh.Ru <small><sup>[[HVqu2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| friend your  | <span class="ashebrew"><big>רֵֽיעֲ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Rei.'a. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| even  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fatherless one  |**<big>&#8207;[[H3490\|יָת֥וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make fall  |**<big>&#8207;[[H5307I\|תַּפִּ֑ילוּ]]&#8207; </big>**| ta.Pi.lu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you may bargain  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3739A\|תִכְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tikh.Ru<small><sup>[[HVqu2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| friend your  |**<big>&#8207;[[H7453\|רֵֽיעֲ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Rei.'a.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.26|<< Job 6:26]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.28|Job 6:28 >>]]</td></tr></table>
 
 

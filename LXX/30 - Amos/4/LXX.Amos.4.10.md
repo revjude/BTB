@@ -7,39 +7,39 @@ I have sent among you the pestilence after the manner of Egypt: your young men h
 “I sent plagues among you like those of Egypt; I killed your young men with the sword, along with your captured horses. I filled your nostrils with the stench of your camp, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Amos.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.9|<< Amos 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.11|Amos 4:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I sent | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| plague | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| I killed | <big><span class="asgreek">απέκτεινα</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your young men | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with a captivity | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| of your horses. | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I led | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your camps | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anger, | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| neither | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you returned | <big><span class="asgreek">επεστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I sent | **<big>[[G1821\|εξαπέστειλα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| plague | **<big>[[G2288\|θάνατον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδώ]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| I killed | **<big>[[G0615\|απέκτεινα]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your young men | **<big>[[G3495\|νεανίσκους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| with a captivity | **<big>[[G3326\|μετά]]</big>** **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| of your horses. | **<big>[[G2462\|ίππων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I led | **<big>[[G0321\|ανήγαγον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire | **<big>[[G4442\|πυρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your camps | **<big>[[G3925\|παρεμβολάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your anger, | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| neither | **<big>[[G3761\|ουδ΄]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| you returned | **<big>[[G1994\|επεστρέψατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Amos.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.9|<< Amos 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.11|Amos 4:11 >>]]</td></tr></table>
 
 

@@ -11,18 +11,18 @@ With joy you will draw water from the springs of salvation,<small><sub>**MT:**<
 > $\quad$ referenced by: [[John.7.38|John 7:38]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| draw | <big><span class="asgreek">αντλήσατε</span></big> <sup><small><small>[[G0501]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| springs | <big><span class="asgreek">πηγών</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of deliverance! | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| draw | **<big>[[G0501\|αντλήσατε]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| springs | **<big>[[G4077\|πηγών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of deliverance! | **<big>[[G4992\|σωτηρίου]]</big>** |
 [[Isa.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.12.2|<< Isaiah 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.4|Isaiah 12:4 >>]]</td></tr></table>
 
 

@@ -7,41 +7,41 @@ And they turned and fled toward the wilderness unto the rock of Rimmon: and they
 Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more.<small><sub>**MT:**</sub></small>
 [[Judg.20.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.44|<< Judges 20:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.46|Judges 20:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they turned aside | <big><span class="asgreek">εξέκλιναν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled | <big><span class="asgreek">έφευγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rock | <big><span class="asgreek">πέτραν</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Rimmon. | <big><span class="asgreek">Ρεμμών</span></big> <sup><small><small>[[H7417c]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gleaned | <big><span class="asgreek">εκαλαμήσαντο</span></big> <sup><small><small>[[G7777]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways -- | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men. | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cleaved | <big><span class="asgreek">προσεκολλήθησαν</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Gidom, | <big><span class="asgreek">Γαδαάμ</span></big> <sup><small><small>[[H1440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two thousand | <big><span class="asgreek">δισχιλίους</span></big> <sup><small><small>[[G1367]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they turned aside | **<big>[[G1578\|εξέκλιναν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fled | **<big>[[G5343\|έφευγον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rock | **<big>[[G4073\|πέτραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Rimmon. | **<big>[[H7417c\|Ρεμμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gleaned | **<big>[[G7777\|εκαλαμήσαντο]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| ways -- | **<big>[[G3598\|οδοίς]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men. | **<big>[[G0435\|ανδρών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they cleaved | **<big>[[G4347\|προσεκολλήθησαν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them | **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Gidom, | **<big>[[H1440\|Γαδαάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| two thousand | **<big>[[G1367\|δισχιλίους]]</big>** |
+| men. | **<big>[[G0435\|άνδρας]]</big>** |
 [[Judg.20.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.44|<< Judges 20:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.46|Judges 20:46 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H3409]]</small>
+<small>Hebrew form: **<big>[[H3409|יָרֵךְ]]</big>**</small>
  [<span class="bdbLangAramaic">‎יַרְכָה‎</span>] **noun feminine** ==thigh, or loin== ([[BDB#Tg|ᵑ7]]; see Biblical Hebrew  <span class="bdbLangHebrew">‎ירך‎</span>); — plural suffix <span class="bdbLangAramaic">‎יַרְכָתֵהּ‎</span> [[Dan.2.32|Dan 2:32]]. 
 
 **Brown-Driver-Briggs References**

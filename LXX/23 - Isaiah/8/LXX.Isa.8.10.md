@@ -11,28 +11,28 @@ Devise a plan, but it will be thwarted; state a proposal, but it will not happen
 > $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should consult | <big><span class="asgreek">βουλεύσησθε</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| counsel, | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall efface it; | <big><span class="asgreek">διασκεδάσει</span></big> <sup><small><small>[[G6876]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| what | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should speak, | <big><span class="asgreek">λαλήσητε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should it adhere | <big><span class="asgreek">εμμείνη</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ην]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should consult | **<big>[[G1011\|βουλεύσησθε]]</big>** |
+| counsel, | **<big>[[G1012\|βουλήν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall efface it; | **<big>[[G6876\|διασκεδάσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| what | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| you should speak, | **<big>[[G2980\|λαλήσητε]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should it adhere | **<big>[[G1696\|εμμείνη]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you; | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
 [[Isa.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.9|<< Isaiah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.11|Isaiah 8:11 >>]]</td></tr></table>
 
 

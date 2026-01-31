@@ -4,20 +4,20 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ishbah</span> was the  father \(ie founder\) of Eshtemoa, mentioned in the genealogy of Judah. \([[1Chr.4.17|1Ch.4.17]]\).
 - A man from the tribe of Judah\(?\) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.17|1Ch.4.17]]; 
-- only referred to as Ishbah<[[H3431]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ח</span>\); 
--  son of Mered<[[H4778]]> and Bithiah<[[H1332]]>; 
-- a brother of Miriam<[[H4813H]]> and Shammai<[[H8060I]]>; 
--  half-brother of: Jered<[[H3382H]]>\(?\), Heber<[[H2268I]]>\(?\) and Jekuthiel<[[H3354]]>\(?\); 
-- husband of Hodiah<[[H1940G]]>\(?\); 
--  father of son\_of\_Hodiah<[[H1940I]]>\(?\); 
-- founder of the town of Eshtemoa<[[H0851]]>\(?\) and Keilah<[[H7084]]>\(?\).
+- only referred to as Ishbah **<big>[[H3431|יִשְׁבַּח]]</big>**; 
+-  son of Mered **<big>[[H4778|מֶרֶד]]</big>** and Bithiah **<big>[[H1332|בִּתְיָה]]</big>**; 
+- a brother of Miriam **<big>[[H4813|מִרְיָם]]</big>** and Shammai **<big>[[H8060|שַׁמַּי]]</big>**; 
+-  half-brother of: Jered **<big>[[H3382|יֶרֶד]]</big>**, Heber **<big>[[H2268|חֶבֶר]]</big>** and Jekuthiel **<big>[[H3354|יְקוּתִיאֵל]]</big>**; 
+- husband of Hodiah **<big>[[H1940|הוֹדִיָּה]]</big>**; 
+-  father of son\_of\_Hodiah **<big>[[H1940|הוֹדִיָּה]]</big>**; 
+- founder of the town of Eshtemoa **<big>[[H0851|אֶשְׁתְּמֹעַ]]</big>** and Keilah **<big>[[H7084|קְעִילָה]]</big>**.
 
 Ishbah is mentioned only once in the Bible, in [[1Chr.4.17|1 Chronicles 4:17]], within the genealogical records of the descendants of Judah. He is identified as the  father \(ie founder\) of Eshtemoa, a town allotted to the Levites within the territory of Judah \(Joshua 21:14\), likely named after Ishbah's son or his descendants who settled there.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishbah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ח</span>](H3431) <small>*Hebrew*</small> | 1x | [1Ch.4.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishbah\*\|reference=1Ch.4.17) |
-All Strong's for **Ishbah**: \[[[H3431]]\]
+| Ishbah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ח</span>](H3431) | 1x | [1Ch.4.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishbah\*\|reference=1Ch.4.17) |
+All entries for **Ishbah**:  **<big>[[H3431|יִשְׁבַּח]]</big>**
 #### Related Profiles:
 - **[Mered](H4778)** (father)
 - **[Bithiah](H1332)** (mother)

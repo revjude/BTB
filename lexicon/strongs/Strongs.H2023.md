@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֹר‎</span></big> **Hôr** <small>*(hore)*</small> ==**(Mount) Hor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>another form of <span class="ashebrew">‎הַר‎</span><sup><small>[[H2022]]</small></sup>; mountain</small>
+**<big><span class="ashebrew">‎הֹר‎</span></big>** **Hôr** <small>*(hore)*</small> ==**(Mount) Hor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>another form of **<big>[[H2022|‎הַר‎]]</big>**; mountain</small>
 
 $\quad$ Hor.
 - § Hor = *"mountain"*

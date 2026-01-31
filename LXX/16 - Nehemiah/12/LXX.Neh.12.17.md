@@ -7,16 +7,16 @@ Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
 of Abijah, Zichri; of Miniamin and of Moadiah, Piltai;<small><sub>**MT:**</sub></small>
 [[Neh.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.16|<< Nehemiah 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.18|Nehemiah 12:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abijah, | <big><span class="asgreek">Αβιά</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| Zichri; | <big><span class="asgreek">Ζεχρί</span></big> <sup><small><small>[[H5644]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Miniamin, | <big><span class="asgreek">Μιαμίν</span></big> <sup><small><small>[[H4509]]</small></small></sup> |
-| Moadiah, | <big><span class="asgreek">Μααδαϊ</span></big> <sup><small><small>[[H4153]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Piltai, | <big><span class="asgreek">Φελετί</span></big> <sup><small><small>[[H6408]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Abijah, | **<big>[[G0007\|Αβιά]]</big>** |
+| Zichri; | **<big>[[H5644\|Ζεχρί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Miniamin, | **<big>[[H4509\|Μιαμίν]]</big>** |
+| Moadiah, | **<big>[[H4153\|Μααδαϊ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Piltai, | **<big>[[H6408\|Φελετί]]</big>** |
 [[Neh.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.16|<< Nehemiah 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.18|Nehemiah 12:18 >>]]</td></tr></table>
 
 

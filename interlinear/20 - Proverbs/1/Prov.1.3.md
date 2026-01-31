@@ -6,14 +6,14 @@ and for receiving instruction in wise living and in righteousness, justice, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.2|<< Proverbs 1:2]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.4|Proverbs 1:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to receive  | <span class="ashebrew"><big>לָ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>קַחַת </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> ka.chat <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| correction of  | <span class="ashebrew"><big>מוּסַ֣ר </big></span><small><small><sup>[[H4148H]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| insight  | <span class="ashebrew"><big>הַשְׂכֵּ֑ל </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| has.Kel <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צֶ֥דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and justice  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּ֗ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and uprightness\<es>  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֵישָׁרִֽים </big></span><small><small><sup>[[H4339]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mei.sha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to receive  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H3947H\|קַחַת]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> ka.chat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correction of  |**<big>&#8207;[[H4148H\|מוּסַ֣ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| insight  |**<big>&#8207;[[H7919A\|הַשְׂכֵּ֑ל]]&#8207; </big>**| has.Kel<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6664G\|צֶ֥דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and justice  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֗ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and uprightness\<es>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4339\|מֵישָׁרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mei.sha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.2|<< Proverbs 1:2]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.4|Proverbs 1:4 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ Then she arose with her daughters in law, that she might return from the country
 When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.<small><sub>**MT:**</sub></small>
 [[Ruth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.5|<< Ruth 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.7|Ruth 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| daughter-in-laws | <big><span class="asgreek">νύμφαι</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] country | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Moab; | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] country | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> visited | <big><span class="asgreek">επέσκεπται</span></big> <sup><small><small>[[G1980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bread \[loaves\]. | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she rose up, | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| daughter-in-laws | **<big>[[G3565\|νύμφαι]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] country | **<big>[[G0068\|αγρού]]</big>** |
+| of Moab; | **<big>[[H6355\|Μωάβ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they heard | **<big>[[G0191\|ήκουσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] country | **<big>[[G0068\|αγρώ]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> visited | **<big>[[G1980\|επέσκεπται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| bread \[loaves\]. | **<big>[[G0740\|άρτους]]</big>** |
 [[Ruth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.5|<< Ruth 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.7|Ruth 1:7 >>]]</td></tr></table>
 
 

@@ -7,45 +7,45 @@ O Lord, according to all thy righteousness, I beseech thee, let thine anger and 
 O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.<small><sub>**MT:**</sub></small>
 [[Dan.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.15|<< Daniel 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.17|Daniel 9:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| your charity | <big><span class="asgreek">ελεημοσύνη</span></big> <sup><small><small>[[G1654]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let turn | <big><span class="asgreek">αποστραφήτω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rage, | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| your holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we sinned | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our iniquities, | <big><span class="asgreek">αδικίαις</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| scorn | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| surrounding | <big><span class="asgreek">περικύκλω</span></big> <sup><small><small>[[G8735]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| your charity | **<big>[[G1654\|ελεημοσύνη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| let turn | **<big>[[G0654\|αποστραφήτω]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your rage, | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| your holy | **<big>[[G0039\|αγίου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| we sinned | **<big>[[G0264\|ημάρτομεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| our iniquities, | **<big>[[G0093\|αδικίαις]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| of our fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| scorn | **<big>[[G3680\|ονειδισμόν]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| surrounding | **<big>[[G8735\|περικύκλω]]</big>** |
+| us. | **<big>[[G1473\|ημών]]</big>** |
 [[Dan.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.15|<< Daniel 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.17|Daniel 9:17 >>]]</td></tr></table>
 
 

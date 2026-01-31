@@ -10,36 +10,36 @@ Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine
 > $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֡ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אֱמֹר֩ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'e.Mor <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] ruler of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נְגִ֨יד </big></span><small><small><sup>[[H5057]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> n.Gid <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tyre  | <span class="ashebrew"><big>צֹ֜ר </big></span><small><small><sup>[[H6865]]</sup></small></small> &#8207;| tzor <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּֽה </big></span><small><small><sup>[[H3541]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| koh- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהֹוִ֗ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because  | <span class="ashebrew"><big>יַ֣עַן </big></span><small><small><sup>[[H3282]]</sup></small></small> &#8207;| Ya.'an <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been haughty  | <span class="ashebrew"><big>גָּבַ֤הּ </big></span><small><small><sup>[[H1361]]</sup></small></small> &#8207;| ga.Vah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart your  | <span class="ashebrew"><big>לִבְּ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| li.be. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you have said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֹּ֙אמֶר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> To.mer <small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] a god  | <span class="ashebrew"><big>אֵ֣ל </big></span><small><small><sup>[[H0410K]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָ֔נִי </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'A.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seat of  | <span class="ashebrew"><big>מוֹשַׁ֧ב </big></span><small><small><sup>[[H4186]]</sup></small></small> &#8207;| mo.Shav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִ֛ים </big></span><small><small><sup>[[H0430J]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I sit  | <span class="ashebrew"><big>יָשַׁ֖בְתִּי </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| ya.Shav.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] heart of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֵ֣ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seas  | <span class="ashebrew"><big>יַמִּ֑ים </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֤ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a human being  | <span class="ashebrew"><big>אָדָם֙ </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a god  | <span class="ashebrew"><big>אֵ֔ל </big></span><small><small><sup>[[H0410K]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you have made  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּתֵּ֥ן </big></span><small><small><sup>[[H5414I]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ti.Ten <small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart your  | <span class="ashebrew"><big>לִבְּ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| li.be. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] heart of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לֵ֥ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a god  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֡ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אֱמֹר֩]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] ruler of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5057\|נְגִ֨יד]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.Gid<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tyre  |**<big>&#8207;[[H6865\|צֹ֜ר]]&#8207; </big>**| tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H3282\|יַ֣עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been haughty  |**<big>&#8207;[[H1361\|גָּבַ֤הּ]]&#8207; </big>**| ga.Vah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] a god  |**<big>&#8207;[[H0410K\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אָ֔נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seat of  |**<big>&#8207;[[H4186\|מוֹשַׁ֧ב]]&#8207; </big>**| mo.Shav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I sit  |**<big>&#8207;[[H3427\|יָשַׁ֖בְתִּי]]&#8207; </big>**| ya.Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] heart of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  |**<big>&#8207;[[H3220G\|יַמִּ֑ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a human being  |**<big>&#8207;[[H0120G\|אָדָם֙]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a god  |**<big>&#8207;[[H0410K\|אֵ֔ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414I\|תִּתֵּ֥ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ten<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] heart of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3820A\|לֵ֥ב]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a god  |**<big>&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
 
 

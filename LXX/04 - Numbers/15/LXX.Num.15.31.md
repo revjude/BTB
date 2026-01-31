@@ -7,25 +7,25 @@ Because he hath despised the word of the LORD, and hath broken his commandment, 
 He shall certainly be cut off, because he has despised the word of the LORD and broken His commandment; his guilt remains on him.”<small><sub>**MT:**</sub></small>
 [[Num.15.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.30|<< Numbers 15:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.32|Numbers 15:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he treated as worthless, | <big><span class="asgreek">εφαύλισε</span></big> <sup><small><small>[[G9626]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he effaced; | <big><span class="asgreek">διεσκέδασεν</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| by obliteration | <big><span class="asgreek">εκτρίψει</span></big> <sup><small><small>[[G7161]]</small></small></sup> |
-| shall be obliterated | <big><span class="asgreek">εκτριβήσεται</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[be\] on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| he treated as worthless, | **<big>[[G9626\|εφαύλισε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his commandments | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he effaced; | **<big>[[G6876\|διεσκέδασεν]]</big>** |
+| by obliteration | **<big>[[G7161\|εκτρίψει]]</big>** |
+| shall be obliterated | **<big>[[G7160\|εκτριβήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his sin | **<big>[[G0266\|αμαρτία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[be\] on | **<big>[[G1722\|εν]]</big>** |
+| him. | **<big>[[G1473\|αυτή]]</big>** |
 [[Num.15.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.30|<< Numbers 15:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.32|Numbers 15:32 >>]]</td></tr></table>
 
 

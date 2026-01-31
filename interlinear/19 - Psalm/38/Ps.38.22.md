@@ -6,12 +6,12 @@ Come quickly to help me, O Lord my Savior.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.21|<< Psalms 38:21]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.0|Psalms 39:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| make haste !  | <span class="ashebrew"><big>ח֥וּשָׁ </big></span><small><small><sup>[[H2363A]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| Chu.sha <small><sup>[[HVqv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to help my  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֶזְרָתִ֑ </big></span><small><small><sup>[[H5833]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'ez.ra.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Lord  | <span class="ashebrew"><big>אֲ֝דֹנָ֗י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salvation my  | <span class="ashebrew"><big>תְּשׁוּעָתִֽ </big></span><small><small><sup>[[H8668G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.shu.'a.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make haste !  |**<big>&#8207;[[H2363A\|ח֥וּשָׁ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to help my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5833\|עֶזְרָתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ez.ra.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  |**<big>&#8207;[[H0136\|אֲ֝דֹנָ֗י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation my  |**<big>&#8207;[[H8668G\|תְּשׁוּעָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.shu.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.21|<< Psalms 38:21]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.0|Psalms 39:0 >>]]</td></tr></table>
 
 

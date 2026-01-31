@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּפַר‎</span></big> **tâphar** <small>*(taw-far')*</small> ==**to sew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּפַר‎</span></big>** **tâphar** <small>*(taw-far')*</small> ==**to sew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (women that) sew (together).

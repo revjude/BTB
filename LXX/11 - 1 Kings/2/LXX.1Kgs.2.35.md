@@ -7,34 +7,34 @@ And the king put Benaiah the son of Jehoiada in his room over the host: and Zado
 And the king appointed Benaiah son of Jehoiada in Joab’s place over the army, and he appointed Zadok the priest in Abiathar’s place.<small><sub>**MT:**</sub></small>
 [[1Kgs.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.34|<< 1 Kings 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.36|1 Kings 2:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appointed | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Benaiah | <big><span class="asgreek">Βανέαν</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoiada | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| military. | <big><span class="asgreek">στρατιάν</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zadok | <big><span class="asgreek">Σαδώκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| appointed | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| foremost | <big><span class="asgreek">πρώτον</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| instead | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| of Abiathar. | <big><span class="asgreek">Αβιάθαρ</span></big> <sup><small><small>[[G0008]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| appointed | **<big>[[G1325\|έδωκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Benaiah | **<big>[[H1141\|Βανέαν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Jehoiada | **<big>[[H3111\|Ιωδαέ]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| military. | **<big>[[G4756\|στρατιάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zadok | **<big>[[G4524\|Σαδώκ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| priest | **<big>[[G2409\|ιερέα]]</big>** |
+| appointed | **<big>[[G1325\|έδωκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| priest | **<big>[[G2409\|ιερέα]]</big>** |
+| foremost | **<big>[[G4413\|πρώτον]]</big>** |
+| instead | **<big>[[G0473\|αντί]]</big>** |
+| of Abiathar. | **<big>[[G0008\|Αβιάθαρ]]</big>** |
 [[1Kgs.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.34|<< 1 Kings 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.36|1 Kings 2:36 >>]]</td></tr></table>
 
 

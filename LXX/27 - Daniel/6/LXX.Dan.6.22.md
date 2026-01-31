@@ -11,36 +11,36 @@ My God sent His angel and shut the mouths of the lions. They have not hurt me, f
 > $\quad$ referenced by: [[Heb.11.33|Heb 11:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his angel, | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he obstructed | <big><span class="asgreek">ενέφραξε</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouths | <big><span class="asgreek">στόματα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lions, | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lay me waste; | <big><span class="asgreek">ελυμήναντό</span></big> <sup><small><small>[[G3075]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| before | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| uprightness | <big><span class="asgreek">ευθύτης</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
-| was found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me; | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| even before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| a transgression | <big><span class="asgreek">παράπτωμα</span></big> <sup><small><small>[[G3900]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| commit | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his angel, | **<big>[[G0032\|άγγελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he obstructed | **<big>[[G7213\|ενέφραξε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mouths | **<big>[[G4750\|στόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| lions, | **<big>[[G3023\|λεόντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| lay me waste; | **<big>[[G3075\|ελυμήναντό]]</big>** **<big>[[G1473\|με]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| before | **<big>[[G2713\|κατέναντι]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| uprightness | **<big>[[G2118\|ευθύτης]]</big>** |
+| was found | **<big>[[G2147\|ευρέθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me; | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| even before | **<big>[[G1799\|ενώπιον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| a transgression | **<big>[[G3900\|παράπτωμα]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| commit | **<big>[[G4160\|εποίησα]]</big>** |
 [[Dan.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
 
 

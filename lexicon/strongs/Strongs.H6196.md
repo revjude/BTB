@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַרְמוֹן‎</span></big> **ʻarmôwn** <small>*(ar-mone')*</small> ==**plane tree**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎עָרַם‎</span><sup><small>[[H6191]]</small></sup></small>
+**<big><span class="ashebrew">‎עַרְמוֹן‎</span></big>** **ʻarmôwn** <small>*(ar-mone')*</small> ==**plane tree**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H6191|‎עָרַם‎]]</big>**</small>
 
 $\quad$ chestnut tree.
 - ***the plane tree*** (from its smooth and shed bark)

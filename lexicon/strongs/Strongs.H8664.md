@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּשְׁבִּי‎</span></big> **Tishbîy** <small>*(tish-bee')*</small> ==**Tishbite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎תִּשְׁבִּי‎</span></big>** **Tishbîy** <small>*(tish-bee')*</small> ==**Tishbite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>patrial from an unused name meaning recourse</small>
 
 $\quad$ Tishbite.

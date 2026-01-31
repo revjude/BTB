@@ -7,20 +7,20 @@ It is a snare to a man quickly to sanctify anything of his own; for after  vowin
 It is a trap for a man to dedicate something rashly, only later to reconsider his vows.<small><sub>**MT:**</sub></small>
 [[Prov.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.24|<< Proverbs 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.26|Proverbs 20:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It is a snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| to a man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his own | <big><span class="asgreek">ιδίων</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάσαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| for after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vowing it, | <big><span class="asgreek">εύξασθαι</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| changing of the mind | <big><span class="asgreek">μετανοείν</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
-| happens. | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| It is a snare | **<big>[[G3803\|παγίς]]</big>** |
+| to a man | **<big>[[G0435\|ανδρί]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| anything | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his own | **<big>[[G2398\|ιδίων]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάσαι]]</big>** |
+| for after | **<big>[[G3326\|μετά]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| vowing it, | **<big>[[G2172\|εύξασθαι]]</big>** |
+| changing of the mind | **<big>[[G3340\|μετανοείν]]</big>** |
+| happens. | **<big>[[G1096\|γίνεται]]</big>** |
 [[Prov.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.24|<< Proverbs 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.26|Proverbs 20:26 >>]]</td></tr></table>
 
 

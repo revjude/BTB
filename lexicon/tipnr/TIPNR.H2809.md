@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Heshbon</span>, an Amorite city conquered by Moses \([[Num.21.25|Num.21.25]]-30\), was allotted to Reuben \([[Num.32.3|Num.32.3]]7; Josh 13:17\) but later given to the Levites \(Josh 21:39\); it was a significant city in the region \([[Isa.15.4|Isa.15.4]]; 16:8-9; [[Jer.48.2|Jer.48.2]], 34, 45; 49:3\).
 - A location first mentioned at [[Num.21.25|Num.21.25]]; 
-- only referred to as Heshbon<[[H2809]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Heshbon **<big>[[H2809|חֶשְׁבּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.80052000870321,35.80901866717255&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Heshbon was a prominent Amorite city located about 50 miles east of Jerusalem, i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Heshbon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2809) <small>*Hebrew*</small> | 38x | [[Num.21.25] ... [Jer.49.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heshbon\*\|reference=Num.21.25;Num.21.26;Num.21.27;Num.21.28;Num.21.30;Num.21.34;Num.32.3;Num.32.37;Deu.1.4;Deu.2.24;Deu.2.26;Deu.2.30;Deu.3.2;Deu.3.6;Deu.4.46;Deu.29.7;Jos.9.10;Jos.12.2;Jos.12.5;Jos.13.10;Jos.13.17;Jos.13.21;Jos.13.26;Jos.13.27;Jos.21.39;Jdg.11.19;Jdg.11.26;1Ch.6.81;Neh.9.22;Sng.7.4;Isa.15.4;Isa.16.8;Isa.16.9;Jer.48.2;Jer.48.34;Jer.48.45;Jer.48.45;Jer.49.3) |
-All Strong's for **Heshbon**: \[[[H2809]]\]
+| Heshbon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2809) | 38x | [[Num.21.25] ... [Jer.49.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heshbon\*\|reference=Num.21.25;Num.21.26;Num.21.27;Num.21.28;Num.21.30;Num.21.34;Num.32.3;Num.32.37;Deu.1.4;Deu.2.24;Deu.2.26;Deu.2.30;Deu.3.2;Deu.3.6;Deu.4.46;Deu.29.7;Jos.9.10;Jos.12.2;Jos.12.5;Jos.13.10;Jos.13.17;Jos.13.21;Jos.13.26;Jos.13.27;Jos.21.39;Jdg.11.19;Jdg.11.26;1Ch.6.81;Neh.9.22;Sng.7.4;Isa.15.4;Isa.16.8;Isa.16.9;Jer.48.2;Jer.48.34;Jer.48.45;Jer.48.45;Jer.49.3) |
+All entries for **Heshbon**:  **<big>[[H2809|חֶשְׁבּוֹן]]</big>**

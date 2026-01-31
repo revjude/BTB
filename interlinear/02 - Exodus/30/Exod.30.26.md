@@ -6,16 +6,16 @@ Use this oil to anoint the Tent of Meeting, the ark of the Testimony,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.25|<< Exodus 30:25]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.27|Exodus 30:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will anoint  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>מָשַׁחְתָּ֥ </big></span><small><small><sup>[[H4886]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> ma.shach.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> it  | <span class="ashebrew"><big>ב֖ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| v <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tent of  | <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵ֑ד </big></span><small><small><sup>[[H4150I]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ark of  | <span class="ashebrew"><big>אֲר֥וֹן </big></span><small><small><sup>[[H0727]]</sup></small></small> &#8207;| 'a.Ron <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the testimony  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֵדֻֽת </big></span><small><small><sup>[[H5715]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Dut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will anoint  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4886\|מָשַׁחְתָּ֥]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.shach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> it  |**<big>&#8207;[[H9003\|ב֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֑ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  |**<big>&#8207;[[H0727\|אֲר֥וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the testimony  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5715\|עֵדֻֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.25|<< Exodus 30:25]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.27|Exodus 30:27 >>]]</td></tr></table>
 
 

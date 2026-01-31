@@ -7,29 +7,29 @@ And the king said unto the man of God, Come home with me, and refresh thyself, a
 Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.”<small><sub>**MT:**</sub></small>
 [[1Kgs.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.6|<< 1 Kings 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.8|1 Kings 13:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Enter | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dine, | <big><span class="asgreek">αρίστησον</span></big> <sup><small><small>[[G0709]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a gift! | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| Enter | **<big>[[G1525\|είσελθε]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dine, | **<big>[[G0709\|αρίστησον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| a gift! | **<big>[[G1390\|δόμα]]</big>** |
 [[1Kgs.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.6|<< 1 Kings 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.8|1 Kings 13:8 >>]]</td></tr></table>
 
 

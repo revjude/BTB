@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוּר‎</span></big> **Chûwr** <small>*(khoor)*</small> ==**Hur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חוּר‎</span><sup><small>[[H2353]]</small></sup> or <span class="ashebrew">‎חוּר‎</span><sup><small>[[H2352]]</small></sup></small>
+**<big><span class="ashebrew">‎חוּר‎</span></big>** **Chûwr** <small>*(khoor)*</small> ==**Hur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2353|‎חוּר‎]]</big>** or **<big>[[H2352|‎חוּר‎]]</big>**</small>
 
 $\quad$ Hur.
 - § Hur = *"hole"*

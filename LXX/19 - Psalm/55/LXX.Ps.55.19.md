@@ -7,28 +7,28 @@ God shall hear, and afflict them, even he that abideth of old. Selah. Because th
 God will hear and humiliate them—the One enthroned for the ages—Selah because they do not change and they have no fear of God.<small><sub>**MT:**</sub></small>
 [[Ps.55.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.18|<< Psalm 55:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.20|Psalm 55:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| God shall listen, | <big><span class="asgreek">εισακούσεται</span></big> <sup><small><small>[[G1522]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall humble | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| existing | <big><span class="asgreek">υπάρχων</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons | <big><span class="asgreek">αιώνων</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bargaining | <big><span class="asgreek">αντάλλαγμα</span></big> <sup><small><small>[[G0465]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">εφοβήθησαν</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| God shall listen, | **<big>[[G1522\|εισακούσεται]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall humble | **<big>[[G5013\|ταπεινώσει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| existing | **<big>[[G5225\|υπάρχων]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| eons | **<big>[[G0165\|αιώνων]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| there is | **<big>[[G1510\|εστιν]]</big>** |
+| with them | **<big>[[G1473\|αυτοίς]]</big>** |
+| bargaining | **<big>[[G0465\|αντάλλαγμα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| fear | **<big>[[G5399\|εφοβήθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God. | **<big>[[G2316\|θεόν]]</big>** |
 [[Ps.55.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.18|<< Psalm 55:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.20|Psalm 55:20 >>]]</td></tr></table>
 
 

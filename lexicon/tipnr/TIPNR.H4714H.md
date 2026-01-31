@@ -4,10 +4,10 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Egypt</span> \(Mizraim\) was a descendant of Ham and the ancestor of various African peoples, such as the Ludites, Anamites, Lehabites, Naphtuhites, Pathrusites, Casluhites, and Caphtorites. \([[Gen.10.6|Gen.10.6]],13; [[1Chr.1.8|1Ch.1.8]],11\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.6|Gen.10.6]]; 
-- only referred to as Egypt<[[H4714H]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\); 
--  son of Ham<[[H2526G]]>; 
-- a brother of Canaan<[[H3667G]]>, Cush<[[H3568G]]> and Put<[[H6316G]]>; 
--  father of Ludim<[[H3866G]]>, Anamim<[[H6047]]>, Lehabim<[[H3853]]>, Naphtuhim<[[H5320]]>, Pathrusim<[[H6625]]>, Casluhim<[[H3695]]> and Caphtorim<[[H3732]]>.
+- only referred to as Egypt **<big>[[H4714|מִצְרַיִם]]</big>**; 
+-  son of Ham **<big>[[H2526|חָם]]</big>**; 
+- a brother of Canaan **<big>[[H3667|כְּנַעַן]]</big>**, Cush **<big>[[H3568|כּוּשׁ]]</big>** and Put **<big>[[H6316|פּוּט]]</big>**; 
+-  father of Ludim **<big>[[H3866|לוּדִי]]</big>**, Anamim **<big>[[H6047|עֲנָמִים]]</big>**, Lehabim **<big>[[H3853|לְהָבִים]]</big>**, Naphtuhim **<big>[[H5320|נַפְתֻּחִים]]</big>**, Pathrusim **<big>[[H6625|פַּתְרֻסִי]]</big>**, Casluhim **<big>[[H3695|כַּסְלֻחִים]]</big>** and Caphtorim **<big>[[H3732|כַּפְתֹּרִי]]</big>**.
 
 Egypt, also known as Mizraim in Hebrew, is mentioned in the Table of Nations in Genesis 10 and 1 Chronicles 1 as one of the descendants of Ham, the son of Noah. Ham's sons, including Egypt, are generally associated with the peoples of Africa. 
 
@@ -25,8 +25,8 @@ The inclusion of Egypt in the Table of Nations serves to trace the origins and s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Egypt (KJV= Mizraim) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H4714H) <small>*Hebrew*</small> | 4x | [[Gen.10.6] ... [1Ch.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Egypt\*\|reference=Gen.10.6;Gen.10.13;1Ch.1.8;1Ch.1.11) |
-All Strong's for **Egypt**: \[[[H4714H]]\]
+| Egypt (KJV= Mizraim) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H4714H) | 4x | [[Gen.10.6] ... [1Ch.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Egypt\*\|reference=Gen.10.6;Gen.10.13;1Ch.1.8;1Ch.1.11) |
+All entries for **Egypt**:  **<big>[[H4714|מִצְרַיִם]]</big>**
 #### Related Profiles:
 - **[Ham](H2526G)** (father)
 - **[Canaan](H3667G)** (sibling)

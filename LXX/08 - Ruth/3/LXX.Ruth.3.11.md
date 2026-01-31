@@ -7,30 +7,30 @@ And now, my daughter, fear not; I will do to thee all that thou requirest: for a
 And now do not be afraid, my daughter. I will do for you whatever you request, since all my fellow townspeople know that you are a woman of noble character.<small><sub>**MT:**</sub></small>
 [[Ruth.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.10|<< Ruth 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.12|Ruth 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| O daughter, | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| what | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should say | <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of ability | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| O daughter, | **<big>[[G2364\|θύγατερ]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φοβού]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| what | **<big>[[G3745\|όσα]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should say | **<big>[[G2036\|είπης]]</big>** |
+| I will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| for you. | **<big>[[G1473\|σοι]]</big>** |
+| know | **<big>[[G1492\|οίδε]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] people | **<big>[[G2992\|λαού]]</big>** |
+| of my | **<big>[[G1473\|μου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+| of ability | **<big>[[G1411\|δυνάμεως]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
 [[Ruth.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.10|<< Ruth 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.12|Ruth 3:12 >>]]</td></tr></table>
 
 

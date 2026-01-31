@@ -2,7 +2,7 @@
 
 Mount Halak was a mountain that marked the southern boundary of the territory conquered by Joshua \([[Josh.11.17|Joshua 11:17]]; 12:7\).
 - A location first mentioned at [[Josh.11.17|Jos.11.17]]; 
-- only referred to as Halak\_Mount<[[H2510]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Halak\_Mount **<big>[[H2510|חָלָק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.916667,34.833333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mount Halak was a mountain that served as a significant geographical marker in t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Halak | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ק</span>](H2510) <small>*Hebrew*</small> | 2x | [[Jos.11.17] & [Jos.12.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halak\*\|reference=Jos.11.17;Jos.12.7) |
-All Strong's for **Halak_Mount**: \[[[H2510]]\]
+| (Mount )Halak | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ק</span>](H2510) | 2x | [[Jos.11.17] & [Jos.12.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halak\*\|reference=Jos.11.17;Jos.12.7) |
+All entries for **Halak Mount**:  **<big>[[H2510|חָלָק]]</big>**

@@ -10,26 +10,26 @@ Therefore also now, saith the LORD, turn ye [even] to me with all your heart, an
 “Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.”<small><sub>**MT:**</sub></small>
 [[Joel.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.11|<< Joel 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.13|Joel 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Return | <big><span class="asgreek">επιστράφητε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fasting, | <big><span class="asgreek">νηστεία</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weeping, | <big><span class="asgreek">κλαυθμώ</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beating of the breast! | <big><span class="asgreek">κοπετώ</span></big> <sup><small><small>[[G2870]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Return | **<big>[[G1994\|επιστράφητε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| with | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| fasting, | **<big>[[G3521\|νηστεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weeping, | **<big>[[G2805\|κλαυθμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beating of the breast! | **<big>[[G2870\|κοπετώ]]</big>** |
 [[Joel.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.11|<< Joel 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.13|Joel 2:13 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Bere
 Obadiah son of Shemaiah, the son of Galal, the son of Jeduthun; and Berechiah son of Asa, the son of Elkanah, who lived in the villages of the Netophathites.<small><sub>**MT:**</sub></small>
 [[1Chr.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.15|<< 1 Chronicles 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.17|1 Chronicles 9:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah | <big><span class="asgreek">Αβδία</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shemiah, | <big><span class="asgreek">Σαμαϊα</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Galal, | <big><span class="asgreek">Γαλάλ</span></big> <sup><small><small>[[H1559]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeduthun, | <big><span class="asgreek">Ιδουθούν</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Berechiah | <big><span class="asgreek">Βαραχίας</span></big> <sup><small><small>[[G0914]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asa, | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Elkanah, | <big><span class="asgreek">Ελκανά</span></big> <sup><small><small>[[H0511]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyards | <big><span class="asgreek">αυλαίς</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of \[the\] Netophathites. | <big><span class="asgreek">Νετωφατί</span></big> <sup><small><small>[[H5199]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Obadiah | **<big>[[H5662\|Αβδία]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shemiah, | **<big>[[H8098\|Σαμαϊα]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Galal, | **<big>[[H1559\|Γαλάλ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jeduthun, | **<big>[[H3038\|Ιδουθούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Berechiah | **<big>[[G0914\|Βαραχίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Asa, | **<big>[[G0760\|Ασά]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Elkanah, | **<big>[[H0511\|Ελκανά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one dwelling | **<big>[[G2730\|κατοικών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| courtyards | **<big>[[G0833\|αυλαίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of \[the\] Netophathites. | **<big>[[H5199\|Νετωφατί]]</big>** |
 [[1Chr.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.15|<< 1 Chronicles 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.17|1 Chronicles 9:17 >>]]</td></tr></table>
 
 

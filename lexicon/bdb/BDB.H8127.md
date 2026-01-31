@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H8150]]</small>
+<small>Aramaic form: **<big>[[H8150|שָׁנַן]]</big>**</small>
  I. <span class="bdbLangHebrew">‎שֵׁן‎</span> **noun feminine**<sup>[[1Sam.2.13|1Sam 2:13]]</sup> (yet **masculine** [[1Sam.14.5|1Sam 14:5]] compare [[BDB#Dr|Dr]]) ==tooth, ivory==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> absolute [[Exod.21.24|Exod 21:24]] +, construct v[[Exod.21.27|Exod 21:27]] +, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֶׁן‎</span> [[Deut.32.24|Deut 32:24]] suffix <span class="bdbLangHebrew">‎שִׁנּם‎</span> [[Exod.21.27|Exod 21:27]] dual <span class="bdbLangHebrew">‎שִׁנַּיִם‎</span> [[Prov.10.26|Prov 10:26]], construct <span class="bdbLangHebrew">‎שִׁנֵּי‎</span> [[Jer.31.29|Jer 31:29]] +; suffix <span class="bdbLangHebrew">‎שִׁנֵּיהֶם‎</span> [[Ps.124.6|Ps 124:6]], <span class="bdbLangHebrew">‎שִׁנֵּימוֺ‎</span> [[Ps.58.7|Ps 58:7]], etc.; — 
 
 **1.** ***tooth:*** 

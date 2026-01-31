@@ -7,28 +7,28 @@ And he said unto them, Why do ye such things? for I hear of your evil dealings b
 “Why are you doing these things?” Eli said to his sons. “I hear about your wicked deeds from all these people.<small><sub>**MT:**</sub></small>
 [[1Sam.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.22|<< 1 Samuel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.24|1 Samuel 2:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| do you do | <big><span class="asgreek">ποιείτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these things, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούω</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| being spoken ill | <big><span class="asgreek">καταλαλούμενα</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
-| of | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| do you do | **<big>[[G4160\|ποιείτε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these things, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| hear | **<big>[[G0191\|ακούω]]</big>** |
+| being spoken ill | **<big>[[G2635\|καταλαλούμενα]]</big>** |
+| of | **<big>[[G2596\|καθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of all | **<big>[[G3956\|παντός]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.22|<< 1 Samuel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.24|1 Samuel 2:24 >>]]</td></tr></table>
 
 

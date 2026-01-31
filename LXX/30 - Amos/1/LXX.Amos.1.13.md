@@ -10,37 +10,37 @@ Thus saith the LORD; For three transgressions of the children of Ammon, and for 
 This is what the LORD says: “For three transgressions of the Ammonites, even four, I will not revoke My judgment, because they ripped open the pregnant women of Gilead in order to enlarge their territory.<small><sub>**MT:**</sub></small>
 [[Amos.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they ripped open | <big><span class="asgreek">ανέσχιζον</span></big> <sup><small><small>[[G6313]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| having one | <big><span class="asgreek">εχούσας</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλααδιτών</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they should widen | <big><span class="asgreek">εμπλατύνωσι</span></big> <sup><small><small>[[G7198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their borders. | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they ripped open | **<big>[[G6313\|ανέσχιζον]]</big>** |
+| the ones | **<big>[[G3588\|τας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] womb | **<big>[[G1064\|γαστρί]]</big>** |
+| having one | **<big>[[G2192\|εχούσας]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλααδιτών]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| they should widen | **<big>[[G7198\|εμπλατύνωσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their borders. | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Amos.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
 
 

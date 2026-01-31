@@ -7,34 +7,34 @@ He was more honourable than the thirty, but he attained not to the [first] three
 He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.<small><sub>**MT:**</sub></small>
 [[2Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[He was\] over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| honorable ones, | <big><span class="asgreek">ένδοξος</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[first\] three | <big><span class="asgreek">τρείς</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| arrive at. | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ordered | <big><span class="asgreek">έταξεν</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his reports. | <big><span class="asgreek">ακοάς</span></big> <sup><small><small>[[G0189]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mighty ones | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| \[He was\] over | **<big>[[G5228\|υπέρ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| honorable ones, | **<big>[[G1741\|ένδοξος]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| \[first\] three | **<big>[[G5140\|τρείς]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| arrive at. | **<big>[[G2064\|ήρχετο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| ordered | **<big>[[G5021\|έταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his reports. | **<big>[[G0189\|ακοάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| are the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mighty ones | **<big>[[G1415\|δυνατών]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[2Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
 
 

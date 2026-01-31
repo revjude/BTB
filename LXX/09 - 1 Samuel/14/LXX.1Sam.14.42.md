@@ -10,32 +10,32 @@ And Saul said, Cast [lots] between me and Jonathan my son. And Jonathan was take
 Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan was selected.<small><sub>**MT:**</sub></small>
 [[1Sam.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Throw | <big><span class="asgreek">βάλε</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| \[the\] lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son, | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whomever | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> should choose by lot | <big><span class="asgreek">κατακληρώσηται</span></big> <sup><small><small>[[G7854]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| let him die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they threw | <big><span class="asgreek">βάλλουσιν</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| lots | <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Jonathan, | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan was chosen by lot. | <big><span class="asgreek">κατακληρούται</span></big> <sup><small><small>[[G7854]]</small></small></sup> <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| Throw | **<big>[[G0906\|βάλε]]</big>** |
+| \[the\] lot | **<big>[[G2819\|κλήρον]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my son, | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| whomever | **<big>[[G3739\|ον]]</big>** **<big>[[G0302\|αν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> should choose by lot | **<big>[[G7854\|κατακληρώσηται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| let him die! | **<big>[[G0599\|αποθανέτω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they threw | **<big>[[G0906\|βάλλουσιν]]</big>** |
+| lots | **<big>[[G2819\|κλήρους]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Jonathan, | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jonathan was chosen by lot. | **<big>[[G7854\|κατακληρούται]]</big>** **<big>[[H3129\|Ιωναθάν]]</big>** |
 [[1Sam.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 
 

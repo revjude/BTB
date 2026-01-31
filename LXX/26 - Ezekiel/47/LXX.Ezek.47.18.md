@@ -7,42 +7,42 @@ And the east side ye shall measure from Hauran, and from Damascus, and from Gile
 On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar. This will be the eastern boundary.<small><sub>**MT:**</sub></small>
 [[Ezek.47.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.17|<< Ezekiel 47:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.19|Ezekiel 47:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hauran, | <big><span class="asgreek">Αυρανίτιδος</span></big> <sup><small><small>[[H2362]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Damascus, | <big><span class="asgreek">Δαμασκού</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead, | <big><span class="asgreek">Γαλααδίτιδος</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνης</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| separates | <big><span class="asgreek">διορίζει</span></big> <sup><small><small>[[G6938]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of Palm-grove; | <big><span class="asgreek">φοινικώνος</span></big> <sup><small><small>[[G9654]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the \[borders\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Hauran, | **<big>[[H2362\|Αυρανίτιδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Damascus, | **<big>[[G1154\|Δαμασκού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Gilead, | **<big>[[H1568\|Γαλααδίτιδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνης]]</big>** |
+| separates | **<big>[[G6938\|διορίζει]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| of Palm-grove; | **<big>[[G9654\|φοινικώνος]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the \[borders\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολάς]]</big>** |
 [[Ezek.47.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.17|<< Ezekiel 47:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.19|Ezekiel 47:19 >>]]</td></tr></table>
 
 

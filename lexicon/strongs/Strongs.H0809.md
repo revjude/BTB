@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲשִׁישָׁה‎</span></big> **ʼăshîyshâh** <small>*(ash-ee-shaw')*</small> ==**raisin bun**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אָשִׁישׁ‎</span><sup><small>[[H0808]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲשִׁישָׁה‎</span></big>** **ʼăshîyshâh** <small>*(ash-ee-shaw')*</small> ==**raisin bun**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0808|‎אָשִׁישׁ‎]]</big>**</small>
 
 $\quad$ flagon.
 - ***something closely pressed together***, i.e. ***a cake of raisins*** or ***other comfits***

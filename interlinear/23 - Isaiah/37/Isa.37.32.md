@@ -6,20 +6,20 @@ For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The z
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.31|<< Isaiah 37:31]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.33|Isaiah 37:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Jerusalem  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>ירֽוּשָׁלִַ֙ם֙ </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go out  | <span class="ashebrew"><big>תֵּצֵ֣א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| te.Tze' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a remnant  | <span class="ashebrew"><big>שְׁאֵרִ֔ית </big></span><small><small><sup>[[H7611]]</sup></small></small> &#8207;| she.'e.Rit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an escaped remnant  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פְלֵיטָ֖ה </big></span><small><small><sup>[[H6413]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fe.lei.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] mountain of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הַ֣ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֑וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] zeal of  | <span class="ashebrew"><big>קִנְאַ֛ת </big></span><small><small><sup>[[H7068]]</sup></small></small> &#8207;| kin.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֖וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will accomplish  | <span class="ashebrew"><big>תַּֽעֲשֶׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ta.'a.seh- <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹּֽאת </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Jerusalem  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3389\|ירֽוּשָׁלִַ֙ם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go out  |**<big>&#8207;[[H3318G\|תֵּצֵ֣א]]&#8207; </big>**| te.Tze'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a remnant  |**<big>&#8207;[[H7611\|שְׁאֵרִ֔ית]]&#8207; </big>**| she.'e.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an escaped remnant  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6413\|פְלֵיטָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.lei.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] mountain of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2022G\|הַ֣ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֑וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] zeal of  |**<big>&#8207;[[H7068\|קִנְאַ֛ת]]&#8207; </big>**| kin.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will accomplish  |**<big>&#8207;[[H6213A\|תַּֽעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.seh-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.31|<< Isaiah 37:31]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.33|Isaiah 37:33 >>]]</td></tr></table>
 
 

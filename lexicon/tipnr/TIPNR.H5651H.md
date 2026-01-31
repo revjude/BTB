@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Ebed</span>, a descendant of Adin, was among those who returned to Jerusalem with Ezra during the second wave of the return from Babylonian exile. \([[Ezra.8.6|Ezr.8.6]]\)
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.8.6|Ezr.8.6]]; 
-- only referred to as Ebed<[[H5651H]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>\); 
-- a son of Jonathan<[[H3129H]]>.
+- only referred to as Ebed **<big>[[H5651|עֶבֶד]]</big>**; 
+- a son of Jonathan **<big>[[H3129|יוֹנָתָן]]</big>**.
 
 Ebed is mentioned in [[Ezra.8.6|Ezra 8:6]] as one of the descendants of Adin who returned to Jerusalem with Ezra during the second wave of the return from Babylonian exile. This return took place during the reign of King Artaxerxes of Persia, who granted Ezra permission to lead a group of exiles back to Jerusalem \(Ezra 7:11-26\). 
 
@@ -19,7 +19,7 @@ Apart from this brief mention, no further information is provided about Ebed's s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebed | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H5651H) <small>*Hebrew*</small> | 1x | [Ezr.8.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebed\*\|reference=Ezr.8.6) |
-All Strong's for **Ebed**: \[[[H5651H]]\]
+| Ebed | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H5651H) | 1x | [Ezr.8.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebed\*\|reference=Ezr.8.6) |
+All entries for **Ebed**:  **<big>[[H5651|עֶבֶד]]</big>**
 #### Related Profiles:
 - **[Jonathan](H3129H)** (father)

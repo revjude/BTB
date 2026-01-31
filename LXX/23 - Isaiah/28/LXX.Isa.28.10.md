@@ -7,19 +7,19 @@ For precept [must be] upon precept, precept upon precept; line upon line, line u
 For they hear: “Order on order, order on order, line on line, line on line; a little here, a little there.”<small><sub>**MT:**</sub></small>
 [[Isa.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.9|<< Isaiah 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.11|Isaiah 28:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Affliction | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| affliction; | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| favorably receive | <big><span class="asgreek">προσδέχου</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| hope; | <big><span class="asgreek">ελπίδι</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a little, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a little, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| Affliction | **<big>[[G2347\|θλίψιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| affliction; | **<big>[[G2347\|θλίψιν]]</big>** |
+| favorably receive | **<big>[[G4327\|προσδέχου]]</big>** |
+| hope | **<big>[[G1680\|ελπίδα]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| hope; | **<big>[[G1680\|ελπίδι]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| a little, | **<big>[[G3398\|μικρόν]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| a little, | **<big>[[G3398\|μικρόν]]</big>** |
 [[Isa.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.9|<< Isaiah 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.11|Isaiah 28:11 >>]]</td></tr></table>
 
 

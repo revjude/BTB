@@ -4,11 +4,11 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Kemuel</span> was a son of Nahor and Milcah and the father of Aram.
 - A man living at the time of the Patriarchs, only mentioned at [[Gen.22.21|Gen.22.21]]; 
-- only referred to as Kemuel<[[H7055G]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Nahor<[[H5152H]]> and Milcah<[[H4435G]]>; 
-- a brother of Uz<[[H5780H]]>, Buz<[[H0938G]]>, Chesed<[[H3777]]>, Hazo<[[H2375]]>, Pildash<[[H6394]]>, Jidlaph<[[H3044]]> and Bethuel<[[H1328A]]>; 
--  half-brother of: Tebah<[[H2875]]>, Gaham<[[H1514]]>, Tahash<[[H8477]]> and Maacah<[[H4601G]]>; 
--  father of Aram<[[H0758H]]>.
+- only referred to as Kemuel **<big>[[H7055|קְמוּאֵל]]</big>**; 
+-  son of Nahor **<big>[[H5152|נָחוֹר]]</big>** and Milcah **<big>[[H4435|מִלְכָּה]]</big>**; 
+- a brother of Uz **<big>[[H5780|עוּץ]]</big>**, Buz **<big>[[H0938|בּוּז]]</big>**, Chesed **<big>[[H3777|כֶּשֶׂד]]</big>**, Hazo **<big>[[H2375|חֲזוֹ]]</big>**, Pildash **<big>[[H6394|פִּלְדָּשׁ]]</big>**, Jidlaph **<big>[[H3044|יִדְלָף]]</big>** and Bethuel **<big>[[H1328|בְּתוּאֵל]]</big>**; 
+-  half-brother of: Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**; 
+-  father of Aram **<big>[[H0758|אֲרָם]]</big>**.
 
 Kemuel is mentioned in [[Gen.22.21|Genesis 22:21]] as one of the sons of Nahor and Milcah. Nahor was Abraham's brother, making Kemuel Abraham's nephew. 
 
@@ -20,8 +20,8 @@ Apart from this genealogical note, no further information is given about Kemuel'
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kemuel | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H7055G) <small>*Hebrew*</small> | 1x | [Gen.22.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kemuel\*\|reference=Gen.22.21) |
-All Strong's for **Kemuel**: \[[[H7055G]]\]
+| Kemuel | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H7055G) | 1x | [Gen.22.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kemuel\*\|reference=Gen.22.21) |
+All entries for **Kemuel**:  **<big>[[H7055|קְמוּאֵל]]</big>**
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

@@ -11,41 +11,41 @@ Then the LORD said to Moses, “Behold, I will rain down bread from heaven for y
 > $\quad$ referenced by: [[John.6.31|John 6:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rain | <big><span class="asgreek">ύω</span></big> <sup><small><small>[[G9612]]</small></small></sup> |
-| upon you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall collect together | <big><span class="asgreek">συλλέξουσι</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| the \[bread\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| I should test | <big><span class="asgreek">πειράσω</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| they shall go \[by\] | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my law | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| rain | **<big>[[G9612\|ύω]]</big>** |
+| upon you | **<big>[[G1473\|υμίν]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall collect together | **<big>[[G4816\|συλλέξουσι]]</big>** |
+| the \[bread\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| day, | **<big>[[G2250\|ημέραν]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+| I should test | **<big>[[G3985\|πειράσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| they shall go \[by\] | **<big>[[G4198\|πορεύσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my law | **<big>[[G3551\|νόμω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| not. | **<big>[[G3756\|ου]]</big>** |
 [[Exod.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.3|<< Exodus 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.5|Exodus 16:5 >>]]</td></tr></table>
 
 

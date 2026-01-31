@@ -6,17 +6,17 @@ I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.4|<< Song of Solomon 1:4]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.6|Song of Solomon 1:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [am] black  | <span class="ashebrew"><big>שְׁחוֹרָ֤ה </big></span><small><small><sup>[[H7838]]</sup></small></small> &#8207;| she.cho.Rah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִי֙ </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and lovely  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָאוָ֔ה </big></span><small><small><sup>[[H5000]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Vah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughters of  | <span class="ashebrew"><big>בְּנ֖וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] tents of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אָהֳלֵ֣י </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> 'o.ho.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kedar  | <span class="ashebrew"><big>קֵדָ֔ר </big></span><small><small><sup>[[H6938]]</sup></small></small> &#8207;| ke.Dar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] tent curtains of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ירִיע֖וֹת </big></span><small><small><sup>[[H3407]]</sup></small></small> &#8207;| ki. <small><sup>[[HR]]</sup></small> ri.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹֽה </big></span><small><small><sup>[[H8010]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] black  |**<big>&#8207;[[H7838\|שְׁחוֹרָ֤ה]]&#8207; </big>**| she.cho.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lovely  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H5000\|נָאוָ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughters of  |**<big>&#8207;[[H1323G\|בְּנ֖וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] tents of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0168G\|אָהֳלֵ֣י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'o.ho.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedar  |**<big>&#8207;[[H6938\|קֵדָ֔ר]]&#8207; </big>**| ke.Dar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] tent curtains of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3407\|ירִיע֖וֹת]]&#8207; </big>**| ki.<small><sup>[[HR]]</sup></small> ri.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.4|<< Song of Solomon 1:4]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.6|Song of Solomon 1:6 >>]]</td></tr></table>
 
 

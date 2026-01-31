@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֹּשֶׁת‎</span></big> **bôsheth** <small>*(bo'-sheth)*</small> ==**shame**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בּוּשׁ‎</span><sup><small>[[H0954]]</small></sup></small>
+**<big><span class="ashebrew">‎בֹּשֶׁת‎</span></big>** **bôsheth** <small>*(bo'-sheth)*</small> ==**shame**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0954|‎בּוּשׁ‎]]</big>**</small>
 
 $\quad$ ashamed, confusion, [phrase] greatly, (put to) shame(-ful thing).
 - ***shame*** (the feeling and the condition, as well as its cause)
@@ -9,4 +9,4 @@ $\quad$ ashamed, confusion, [phrase] greatly, (put to) shame(-ful thing).
 $\quad$ **1a)** shame
 $\quad$ **1b)** shameful thing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰσχύνη</span><sup><small>[[G0152]]</small></sup>
+<small>See Greek: </small>**<big>[[G0152|αἰσχύνη]]</big>**

@@ -7,21 +7,21 @@ And when the five lords of the Philistines had seen [it], they returned to Ekron
 And when the five rulers of the Philistines saw this, they returned to Ekron that same day.<small><sub>**MT:**</sub></small>
 [[1Sam.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.15|<< 1 Samuel 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.17|1 Samuel 6:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| saw, | <big><span class="asgreek">εώρων</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">ανέστρεψαν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ekron | <big><span class="asgreek">Ακαρών</span></big> <sup><small><small>[[H6138]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| satraps | **<big>[[G9059\|σατράπαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| saw, | **<big>[[G3708\|εώρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G0390\|ανέστρεψαν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Ekron | **<big>[[H6138\|Ακαρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[1Sam.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.15|<< 1 Samuel 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.17|1 Samuel 6:17 >>]]</td></tr></table>
 
 

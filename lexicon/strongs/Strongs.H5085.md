@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נִדְנֶה‎</span></big> **nidneh** <small>*(nid-neh')*</small> ==**sheath**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from the same as <span class="ashebrew">‎נָדָן‎</span><sup><small>[[H5084]]</small></sup></small>
+**<big><span class="asaramaic">‎נִדְנֶה‎</span></big>** **nidneh** <small>*(nid-neh')*</small> ==**sheath**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from the same as **<big>[[H5084|‎נָדָן‎]]</big>**</small>
 
 $\quad$ body.
 - ***a sheath***

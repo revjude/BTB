@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּרְגָּשִׁי‎</span></big> **Girgâshîy** <small>*(ghir-gaw-shee')*</small> ==**Girgashite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎גִּרְגָּשִׁי‎</span></big>** **Girgâshîy** <small>*(ghir-gaw-shee')*</small> ==**Girgashite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>patrial from an unused name (of uncertain derivation)</small>
 
 $\quad$ Girgashite, Girgasite.
@@ -7,4 +7,4 @@ $\quad$ Girgashite, Girgasite.
 
 **1)** descendants of Canaan and one of the nations living east of the sea of Galilee when the Israelites entered the promised land
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Γεργεσηνός</span><sup><small>[[G1086]]</small></sup>
+<small>See Greek: </small>**<big>[[G1086|Γεργεσηνός]]</big>**

@@ -7,37 +7,37 @@ So will I break down the wall that ye have daubed with untempered [morter], and 
 I will tear down the wall you whitewashed and level it to the ground, so that its foundation is exposed. The city will fall, and you will be destroyed within it. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
 [[Ezek.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.13|<< Ezekiel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.15|Ezekiel 13:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will raze | <big><span class="asgreek">κατασκάψω</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you plastered, | <big><span class="asgreek">ηλείψατε</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall fall. | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be uncovered | <big><span class="asgreek">αποκαλυφθήσεται</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall fall. | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be exhausted | <big><span class="asgreek">συντελεσθήσεσθε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| reproofs; | <big><span class="asgreek">ελέγχων</span></big> <sup><small><small>[[G1650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall realize | <big><span class="asgreek">επιγνώσεσθε</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| that | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will raze | **<big>[[G2679\|κατασκάψω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wall | **<big>[[G5109\|τοίχον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| you plastered, | **<big>[[G0218\|ηλείψατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall fall. | **<big>[[G4098\|πεσείται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be uncovered | **<big>[[G0601\|αποκαλυφθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its foundations | **<big>[[G2310\|θεμέλια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall fall. | **<big>[[G4098\|πεσείται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be exhausted | **<big>[[G4931\|συντελεσθήσεσθε]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| reproofs; | **<big>[[G1650\|ελέγχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall realize | **<big>[[G1921\|επιγνώσεσθε]]</big>** |
+| that | **<big>[[G1360\|διότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.13|<< Ezekiel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.15|Ezekiel 13:15 >>]]</td></tr></table>
 
 

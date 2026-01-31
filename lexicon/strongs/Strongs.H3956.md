@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לָשׁוֹן‎</span></big> **lâshôwn** <small>*(law-shone')*</small> ==**tongue**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>or <span class="ashebrew">לָשֹׁן</span> **lâshôn** <small>*(law-shone')*</small>; also (in plural) feminine <span class="ashebrew">לְשֹׁנָה</span> **lᵉshônâh** <small>*(lesh-o-naw')*</small>; from <span class="ashebrew">‎לָשַׁן‎</span><sup><small>[[H3960]]</small></sup></small>
+**<big><span class="ashebrew">‎לָשׁוֹן‎</span></big>** **lâshôwn** <small>*(law-shone')*</small> ==**tongue**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>or **<big><span class="ashebrew">לָשֹׁן</span></big>** **lâshôn** <small>*(law-shone')*</small>; also (in plural) feminine **<big><span class="ashebrew">לְשֹׁנָה</span></big>** **lᵉshônâh** <small>*(lesh-o-naw')*</small>; from **<big>[[H3960|‎לָשַׁן‎]]</big>**</small>
 
 $\quad$ [phrase] babbler, bay, [phrase] evil speaker, language, talker, tongue, wedge.
 - ***the tongue*** (of man or animals), used literally (as the instrument of licking, eating, or speech), and figuratively (speech, an ingot, a fork of flame, a cove of water)
@@ -13,4 +13,4 @@ $\quad$ **1c)** tongue (of animals)
 $\quad$ **1d)** tongue (of fire)
 $\quad$ **1e)** wedge, bay of sea (tongue-shaped)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθραξ</span><sup><small>[[G0440]]</small></sup> · <span class="asgreek">γλῶσσα</span><sup><small>[[G1100]]</small></sup> · <span class="asgreek">διάλεκτος</span><sup><small>[[G1258]]</small></sup> · <span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup>
+<small>See Greek: </small>**<big>[[G0440|ἄνθραξ]]</big>** · **<big>[[G1100|γλῶσσα]]</big>** · **<big>[[G1258|διάλεκτος]]</big>** · **<big>[[G5456|φωνή]]</big>**

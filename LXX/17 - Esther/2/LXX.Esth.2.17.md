@@ -7,27 +7,27 @@ And the king loved Esther above all the women, and she obtained grace and favour
 And the king loved Esther more than all the other women, and she found grace and favor in his sight more than all of the other virgins. So he placed the royal crown upon her head and made her queen in place of Vashti.<small><sub>**MT:**</sub></small>
 [[Esth.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.16|<< Esther 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.18|Esther 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| passionately | <big><span class="asgreek">ηράσθη</span></big> <sup><small><small>[[G7493]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Esther | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she found | <big><span class="asgreek">εύρε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| above | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virgins; | <big><span class="asgreek">παρθένους</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed upon | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| diadem | <big><span class="asgreek">διάδημα</span></big> <sup><small><small>[[G1238]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feminine | <big><span class="asgreek">γυναικείον</span></big> <sup><small><small>[[G1134]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| passionately | **<big>[[G7493\|ηράσθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Esther | **<big>[[H0635\|Εσθήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she found | **<big>[[G2147\|εύρε]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| above | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| virgins; | **<big>[[G3933\|παρθένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed upon | **<big>[[G2007\|επέθηκεν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| diadem | **<big>[[G1238\|διάδημα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| feminine | **<big>[[G1134\|γυναικείον]]</big>** |
 [[Esth.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.16|<< Esther 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.18|Esther 2:18 >>]]</td></tr></table>
 
 

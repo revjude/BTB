@@ -7,29 +7,29 @@ And they slew every one his man: and the Syrians fled; and Israel pursued them: 
 and each one struck down his opponent. So the Arameans fled, with the Israelites in pursuit. But Ben-hadad king of Aram escaped on horseback with the cavalry.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.19|<< 1 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.21|1 Kings 20:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| each \[man\] | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Syria fled, | <big><span class="asgreek">έφυγε</span></big> <sup><small><small>[[G5343]]</small></small></sup> <big><span class="asgreek">Συρία</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pursued | <big><span class="asgreek">κατεδίωξεν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| escaped | <big><span class="asgreek">σώζεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hadad | <big><span class="asgreek">Άδερ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a horse | <big><span class="asgreek">ίππου</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| of a horseman. | <big><span class="asgreek">ιππέως</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| each \[man\] | **<big>[[G1538\|έκαστος]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Syria fled, | **<big>[[G5343\|έφυγε]]</big>** **<big>[[G4947\|Συρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pursued | **<big>[[G2614\|κατεδίωξεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| escaped | **<big>[[G4982\|σώζεται]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Hadad | **<big>[[H2301\|Άδερ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| a horse | **<big>[[G2462\|ίππου]]</big>** |
+| of a horseman. | **<big>[[G2460\|ιππέως]]</big>** |
 [[1Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.19|<< 1 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.21|1 Kings 20:21 >>]]</td></tr></table>
 
 

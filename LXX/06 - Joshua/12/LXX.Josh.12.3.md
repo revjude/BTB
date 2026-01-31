@@ -7,39 +7,39 @@ And from the plain to the sea of Chinneroth on the east, and unto the sea of the
 as well as the Arabah east of the Sea of Chinnereth to the Sea of the Arabah (the Salt Sea), eastward through Beth-jeshimoth, and southward below the slopes of Pisgah.<small><sub>**MT:**</sub></small>
 [[Josh.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.2|<< Joshua 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.4|Joshua 12:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Araba | <big><span class="asgreek">Αραβά</span></big> <sup><small><small>[[H6160]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| of Chinneroth | <big><span class="asgreek">Χενερέθ</span></big> <sup><small><small>[[H3672]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| of Araba, | <big><span class="asgreek">Αραβά</span></big> <sup><small><small>[[H6160]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θαλάσσας</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of salts | <big><span class="asgreek">αλών</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Beth-jeshimoth; | <big><span class="asgreek">Βηθσιμόθ</span></big> <sup><small><small>[[H1020]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Teman, | <big><span class="asgreek">Θεμάν</span></big> <sup><small><small>[[H8486]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| Ashdoth | <big><span class="asgreek">Ασηδώθ</span></big> <sup><small><small>[[H0795]]</small></small></sup> |
-| Pisgah. | <big><span class="asgreek">Φασγά</span></big> <sup><small><small>[[H6449]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Araba | **<big>[[H6160\|Αραβά]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| of Chinneroth | **<big>[[H3672\|Χενερέθ]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| of Araba, | **<big>[[H6160\|Αραβά]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θαλάσσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of salts | **<big>[[G0251\|αλών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολών]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| Beth-jeshimoth; | **<big>[[H1020\|Βηθσιμόθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Teman, | **<big>[[H8486\|Θεμάν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| Ashdoth | **<big>[[H0795\|Ασηδώθ]]</big>** |
+| Pisgah. | **<big>[[H6449\|Φασγά]]</big>** |
 [[Josh.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.2|<< Joshua 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.4|Joshua 12:4 >>]]</td></tr></table>
 
 

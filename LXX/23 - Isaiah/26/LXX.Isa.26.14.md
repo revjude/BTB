@@ -7,27 +7,27 @@ But the dead in no way shall see life, nor shall physicians in any way raise the
 The dead will not live; the departed spirits will not rise. Therefore You have punished and destroyed them; You have wiped out all memory of them.<small><sub>**MT:**</sub></small>
 [[Isa.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.13|<< Isaiah 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.15|Isaiah 26:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall see | <big><span class="asgreek">ίδωσιν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall physicians | <big><span class="asgreek">ιατροί</span></big> <sup><small><small>[[G2395]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| raise them up. | <big><span class="asgreek">αναστήσουσι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you struck, | <big><span class="asgreek">επήγαγες</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| destroyed; | <big><span class="asgreek">απώλεσας</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you lifted away | <big><span class="asgreek">ήρας</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| male | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| dead | **<big>[[G3498\|νεκροί]]</big>** |
+| life | **<big>[[G2222\|ζωήν]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall see | **<big>[[G1492\|ίδωσιν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall physicians | **<big>[[G2395\|ιατροί]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| raise them up. | **<big>[[G0450\|αναστήσουσι]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| you struck, | **<big>[[G1863\|επήγαγες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| destroyed; | **<big>[[G0622\|απώλεσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you lifted away | **<big>[[G0142\|ήρας]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| male | **<big>[[G0730\|άρσεν]]</big>** |
+| of them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.13|<< Isaiah 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.15|Isaiah 26:15 >>]]</td></tr></table>
 
 

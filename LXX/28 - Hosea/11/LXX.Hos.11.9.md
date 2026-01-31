@@ -7,34 +7,34 @@ I will not execute the fierceness of mine anger, I will not return to destroy Ep
 I will not execute the full fury of My anger; I will not destroy Ephraim again. For I am God and not man—the Holy One among you—and I will not come in wrath.<small><sub>**MT:**</sub></small>
 [[Hos.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| No way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I act | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my rage. | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| No way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I abandon | <big><span class="asgreek">εγκαταλίπω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim to be wiped away. | <big><span class="asgreek">εξαλειφθήναι</span></big> <sup><small><small>[[G1813]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| man; | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will not enter | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισελεύσομαι</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| No way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I act | **<big>[[G4160\|ποιήσω]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| anger | **<big>[[G3709\|οργήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my rage. | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| No way | **<big>[[G3364\|ου μη]]</big>** |
+| should I abandon | **<big>[[G1459\|εγκαταλίπω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Ephraim to be wiped away. | **<big>[[G1813\|εξαλειφθήναι]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2187\|Εφραϊμ]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| man; | **<big>[[G0444\|άνθρωπος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] holy one | **<big>[[G0039\|άγιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will not enter | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1525\|εισελεύσομαι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] city. | **<big>[[G4172\|πόλιν]]</big>** |
 [[Hos.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
 

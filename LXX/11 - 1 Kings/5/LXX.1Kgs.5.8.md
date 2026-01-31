@@ -7,29 +7,29 @@ And Hiram sent to Solomon, saying, I have considered the things which thou sente
 Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber.<small><sub>**MT:**</sub></small>
 [[1Kgs.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.7|<< 1 Kings 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.9|1 Kings 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hiram sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Solomon, | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| I have heard | <big><span class="asgreek">ακήκοα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have sent | <big><span class="asgreek">απέσταλκας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| your will | <big><span class="asgreek">θέλημά</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedars | <big><span class="asgreek">κέδρινα</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of pines. | <big><span class="asgreek">πεύκινα</span></big> <sup><small><small>[[G8785]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hiram sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[H2438\|Χειράμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Solomon, | **<big>[[G4672\|Σολομώντα]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| I have heard | **<big>[[G0191\|ακήκοα]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| you have sent | **<big>[[G0649\|απέσταλκας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| your will | **<big>[[G2307\|θέλημά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| of cedars | **<big>[[G7989\|κέδρινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of pines. | **<big>[[G8785\|πεύκινα]]</big>** |
 [[1Kgs.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.7|<< 1 Kings 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.9|1 Kings 5:9 >>]]</td></tr></table>
 
 

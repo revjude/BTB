@@ -7,26 +7,26 @@ And Jonathan Saul’s son arose, and went to David into the wood, and strengthen
 And Saul’s son Jonathan came to David in Horesh and strengthened his hand in God,<small><sub>**MT:**</sub></small>
 [[1Sam.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.15|<< 1 Samuel 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.17|1 Samuel 23:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| New. | <big><span class="asgreek">καινήν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he fortified | <big><span class="asgreek">εκραταίωσε</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| New. | **<big>[[G2537\|καινήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he fortified | **<big>[[G2901\|εκραταίωσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[1Sam.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.15|<< 1 Samuel 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.17|1 Samuel 23:17 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ And the men of his city, [even] the elders and the nobles who were the inhabitan
 So the elders and nobles who lived in Naboth’s city did as Jezebel had instructed in the letters she had written to them.<small><sub>**MT:**</sub></small>
 [[1Kgs.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.10|<< 1 Kings 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.12|1 Kings 21:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| (the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders, | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| free \[men\] | <big><span class="asgreek">ελεύθεροι</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his city) | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jezebel | <big><span class="asgreek">Ιεζάβελ</span></big> <sup><small><small>[[G2403]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| was written | <big><span class="asgreek">εγέγραπτο</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scrolls | <big><span class="asgreek">βιβλίοις</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| (the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders, | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| free \[men\] | **<big>[[G1658\|ελεύθεροι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his city) | **<big>[[G4172\|πόλει]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Jezebel | **<big>[[G2403\|Ιεζάβελ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| was written | **<big>[[G1125\|εγέγραπτο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| scrolls | **<big>[[G0975\|βιβλίοις]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| she sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[1Kgs.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.10|<< 1 Kings 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.12|1 Kings 21:12 >>]]</td></tr></table>
 
 

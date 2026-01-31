@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נָשָׂא</span> <small><sup>[[H5375]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H5375|נָשָׂא]]</big>**, etc. ;\]</span> </span>
 <span class="asitalic">to bear by being under</span>. Metaph., <span class="asitalic">to endure</span>: c. acc rei, [[1Cor.10.13|I Co 10:13]], [[2Tim.3.11|II Ti 3:11]], [[1Pet.2.19|I Pe 2:19]].†
 
 **Abbott-Smith References**

@@ -89,7 +89,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class=
 
 [^29]: [[Exod.26|Exod 26:19]]
 
-[^30]: (<span class="ashebrew">‎מְקֻצְעָה‎</span><sup><small>[[H4742]]</small></sup>), [[Exod.36|Exod 36:28]]
+[^30]: ( [[H4742|‎מְקֻצְעָה‎]] ), [[Exod.36|Exod 36:28]]
 
 [^31]: Heb. twined
 

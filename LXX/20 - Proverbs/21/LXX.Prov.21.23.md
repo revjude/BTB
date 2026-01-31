@@ -7,20 +7,20 @@ Whoso keepeth his mouth and his tongue keepeth his soul from troubles.
 He who guards his mouth and tongue keeps his soul from distress.<small><sub>**MT:**</sub></small>
 [[Prov.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.22|<< Proverbs 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.24|Proverbs 21:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tongue | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| carefully keeps | <big><span class="asgreek">διατηρεί</span></big> <sup><small><small>[[G1301]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The one who | **<big>[[G3739\|ος]]</big>** |
+| guards | **<big>[[G5442\|φυλάσσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tongue | **<big>[[G1100\|γλώσσαν]]</big>** |
+| carefully keeps | **<big>[[G1301\|διατηρεί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| affliction | **<big>[[G2347\|θλίψεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.22|<< Proverbs 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.24|Proverbs 21:24 >>]]</td></tr></table>
 
 

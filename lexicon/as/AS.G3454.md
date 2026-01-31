@@ -3,7 +3,7 @@
 <span class="asbullet"><span class="asbold">2.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span>  <span class="asitalic">a story</span>, <span class="asitalic">narrative</span> (Hom.);</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> later, opp. to <span class="asgreek">λόγος</span> (<span class="asitalic">a true narrative</span>) = Lat. <span class="aslatin">fabula</span>, <span class="asitalic">a myth</span>, <span class="asitalic">fable</span>, <span class="asitalic">fiction</span>: [[1Tim.1.4|I Ti 1:4]] [[1Tim.4.7|4:7]], [[2Tim.4.4|II Ti 4:4]], [[Titus.1.14|Tit 1:14]], [[2Pet.1.16|II Pe 1:16]].†</span>
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asgreek">λόγος</span> <small><sup>[[G3056]]</sup></small>, q.v. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G3056|λόγος]]</big>**, q.v. </span>
 
 **Abbott-Smith References**
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּד‎</span></big> **Gad** <small>*(gad)*</small> ==**Fortune**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎גָּד‎</span><sup><small>[[H1409]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּד‎</span></big>** **Gad** <small>*(gad)*</small> ==**Fortune**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>a variation of **<big>[[H1409|‎גָּד‎]]</big>**</small>
 
 $\quad$ that troop.
 - § Gad = *"god of fortune"*
@@ -7,4 +7,4 @@ $\quad$ that troop.
 
 **1)** a Babylonian deity
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δαιμόνιον</span><sup><small>[[G1140]]</small></sup> · <span class="asgreek">δαίμων</span><sup><small>[[G1142]]</small></sup>
+<small>See Greek: </small>**<big>[[G1140|δαιμόνιον]]</big>** · **<big>[[G1142|δαίμων]]</big>**

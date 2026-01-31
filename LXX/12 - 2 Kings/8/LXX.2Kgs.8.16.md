@@ -10,23 +10,23 @@ And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat [bein
 In the fifth year of the reign of Joram son of Ahab over Israel, Jehoram son of Jehoshaphat succeeded his father as king of Judah.<small><sub>**MT:**</sub></small>
 [[2Kgs.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.15|<< 2 Kings 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.17|2 Kings 8:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] fifth | <big><span class="asgreek">πέμπτω</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jehoram | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Jehoram | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \[the\] fifth | **<big>[[G3991\|πέμπτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jehoram | **<big>[[G2496\|Ιωράμ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| Jehoram | **<big>[[G2496\|Ιωράμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
 [[2Kgs.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.15|<< 2 Kings 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.17|2 Kings 8:17 >>]]</td></tr></table>
 
 

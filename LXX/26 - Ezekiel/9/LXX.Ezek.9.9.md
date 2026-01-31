@@ -7,43 +7,43 @@ Then said he unto me, The iniquity of the house of Israel and Judah [is] exceedi
 He replied, “The iniquity of the house of Israel and Judah is exceedingly great. The land is full of bloodshed, and the city is full of perversity. For they say, ‘The LORD has forsaken the land; the LORD does not see.’<small><sub>**MT:**</sub></small>
 [[Ezek.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.8|<< Ezekiel 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.10|Ezekiel 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] iniquity | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| has been magnified | <big><span class="asgreek">μεμεγάλυνται</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| very | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| was filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| with iniquity | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| uncleanness. | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they say, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> has abandoned | <big><span class="asgreek">εγκαταλέλοιπε</span></big> <sup><small><small>[[G1459]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| inspect it | <big><span class="asgreek">εφορά</span></big> <sup><small><small>[[G7586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| \[The\] iniquity | **<big>[[G0093\|αδικία]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| has been magnified | **<big>[[G3170\|μεμεγάλυνται]]</big>** |
+| very | **<big>[[G4970\|σφόδρα]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| was filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| of many | **<big>[[G4183\|πολλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| was filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| with iniquity | **<big>[[G0093\|αδικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| uncleanness. | **<big>[[G0167\|ακαθαρσίας]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| they say, | **<big>[[G2036\|είπαν]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> has abandoned | **<big>[[G1459\|εγκαταλέλοιπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| does not | **<big>[[G3756\|ουκ]]</big>** |
+| inspect it | **<big>[[G7586\|εφορά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.8|<< Ezekiel 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.10|Ezekiel 9:10 >>]]</td></tr></table>
 
 

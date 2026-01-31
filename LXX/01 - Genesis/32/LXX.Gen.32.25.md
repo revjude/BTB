@@ -7,31 +7,31 @@ And when he saw that he prevailed not against him, he touched the hollow of his 
 When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled.<small><sub>**MT:**</sub></small>
 [[Gen.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.24|<< Genesis 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.26|Genesis 32:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he was not able | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δύναται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to \[prevail against\] | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wide \[part\] | <big><span class="asgreek">πλάτους</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his thigh, | <big><span class="asgreek">μηρού</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he paralyzed | <big><span class="asgreek">ενάρκησε</span></big> <sup><small><small>[[G8376]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wide part | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thigh | <big><span class="asgreek">μηρού</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
-| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wrestling | <big><span class="asgreek">παλαίειν</span></big> <sup><small><small>[[G8586]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And he saw | **<big>[[G1492\|είδε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he was not able | **<big>[[G3756\|ου]]</big>** **<big>[[G1410\|δύναται]]</big>** |
+| to \[prevail against\] | **<big>[[G4314\|προς]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he touched | **<big>[[G0680\|ήψατο]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wide \[part\] | **<big>[[G4114\|πλάτους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his thigh, | **<big>[[G3382\|μηρού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he paralyzed | **<big>[[G8376\|ενάρκησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wide part | **<big>[[G4114\|πλάτος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| thigh | **<big>[[G3382\|μηρού]]</big>** |
+| of Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his wrestling | **<big>[[G8586\|παλαίειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.24|<< Genesis 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.26|Genesis 32:26 >>]]</td></tr></table>
 
 

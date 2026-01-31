@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מִנְחָה‎</span> <small>***(min.chah)***</small> ==**offering: tribute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-meaning of: <small>[[H4503G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H4503G|מִנְחָה]]</big>**</small> 
 
 - : tribute

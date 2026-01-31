@@ -7,25 +7,25 @@ The voice of thy thunder [was] in the heaven: the lightnings lightened the world
 Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked.<small><sub>**MT:**</sub></small>
 [[Ps.77.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.17|<< Psalm 77:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.19|Psalm 77:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your thunder | <big><span class="asgreek">βροντής</span></big> <sup><small><small>[[G1027]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wheel; | <big><span class="asgreek">τροχώ</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
-| appeared | <big><span class="asgreek">έφαναν</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lightnings | <big><span class="asgreek">αστραπαί</span></big> <sup><small><small>[[G0796]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world; | <big><span class="asgreek">οικουμενή</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| was shaken | <big><span class="asgreek">εσαλεύθη</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trembling | <big><span class="asgreek">έντρομος</span></big> <sup><small><small>[[G1790]]</small></small></sup> |
-| took place | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[The\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your thunder | **<big>[[G1027\|βροντής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| wheel; | **<big>[[G5164\|τροχώ]]</big>** |
+| appeared | **<big>[[G5316\|έφαναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your lightnings | **<big>[[G0796\|αστραπαί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| inhabitable world; | **<big>[[G3611\|οικουμενή]]</big>** |
+| was shaken | **<big>[[G4531\|εσαλεύθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trembling | **<big>[[G1790\|έντρομος]]</big>** |
+| took place | **<big>[[G1096\|εγενήθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
 [[Ps.77.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.17|<< Psalm 77:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.19|Psalm 77:19 >>]]</td></tr></table>
 
 

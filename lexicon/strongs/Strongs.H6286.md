@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּאַר‎</span></big> **pâʼar** <small>*(paw-ar')*</small> ==**to beautify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also denominative from <span class="ashebrew">‎פְּאֹרָה‎</span><sup><small>[[H6288]]</small></sup>,</small>
+**<big><span class="ashebrew">‎פָּאַר‎</span></big>** **pâʼar** <small>*(paw-ar')*</small> ==**to beautify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also denominative from **<big>[[H6288|‎פְּאֹרָה‎]]</big>**,</small>
 
 $\quad$ beautify, boast self, go over the boughs, glorify (self), glory, vaunt self.
 - ***to gleam***, i.e. (causatively) ***embellish***
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to glorify oneself
 $\quad$ $\quad$ **1b2)** to get glory to oneself, be glorified
 **2)** (Piel) to go over the boughs
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνοίγω</span><sup><small>[[G0455]]</small></sup> · <span class="asgreek">διανοίγω</span><sup><small>[[G1272]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">ἐνδοξάζω</span><sup><small>[[G1740]]</small></sup> · <span class="asgreek">ἔνδοξος</span><sup><small>[[G1741]]</small></sup> · <span class="asgreek">καυχάομαι</span><sup><small>[[G2744]]</small></sup> · <span class="asgreek">τάσσω</span><sup><small>[[G5021]]</small></sup> · <span class="asgreek">ὑψόω</span><sup><small>[[G5312]]</small></sup>
+<small>See Greek: </small>**<big>[[G0455|ἀνοίγω]]</big>** · **<big>[[G1272|διανοίγω]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G1392|δοξάζω]]</big>** · **<big>[[G1740|ἐνδοξάζω]]</big>** · **<big>[[G1741|ἔνδοξος]]</big>** · **<big>[[G2744|καυχάομαι]]</big>** · **<big>[[G5021|τάσσω]]</big>** · **<big>[[G5312|ὑψόω]]</big>**

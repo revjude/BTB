@@ -1,5 +1,5 @@
 <span class="asgreek">δὺο δύο</span> <small>***(duo duo)***</small> ==**two by two**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-combination of: <small>[[G1417]] ([[G1417]]+[[G1417]])</small> 
+combination of: <small>**<big>[[G1417|δύο]]</big>** (**<big>[[G1417|δύο]]</big>**+**<big>[[G1417|δύο]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==δὺο δύο==</span></b> [<span class='asgreek'>ῠ</span>], 

@@ -7,20 +7,20 @@ Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 Do not be quickly provoked in your spirit, for anger settles in the lap of a fool.<small><sub>**MT:**</sub></small>
 [[Eccl.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.8|<< Ecclesiastes 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.10|Ecclesiastes 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hasten | <big><span class="asgreek">σπεύσης</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your spirit | <big><span class="asgreek">πνεύματί</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be enraged, | <big><span class="asgreek">θυμούσθαι</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] bosom | <big><span class="asgreek">κόλπω</span></big> <sup><small><small>[[G2859]]</small></small></sup> |
-| of fools | <big><span class="asgreek">αφρόνων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσεται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| hasten | **<big>[[G4692\|σπεύσης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your spirit | **<big>[[G4151\|πνεύματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be enraged, | **<big>[[G2373\|θυμούσθαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] bosom | **<big>[[G2859\|κόλπω]]</big>** |
+| of fools | **<big>[[G0878\|αφρόνων]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσεται]]</big>** |
 [[Eccl.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.8|<< Ecclesiastes 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.10|Ecclesiastes 7:10 >>]]</td></tr></table>
 
 

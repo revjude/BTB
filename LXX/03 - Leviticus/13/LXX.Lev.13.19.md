@@ -7,26 +7,26 @@ And in the place of the boil there be a white rising, or a bright spot, white, a
 and a white swelling or a reddish-white spot develops where the boil was, he must present himself to the priest.<small><sub>**MT:**</sub></small>
 [[Lev.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.18|<< Leviticus 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.20|Leviticus 13:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there\] should become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lesion, | <big><span class="asgreek">έλκους</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| discoloration | <big><span class="asgreek">ουλή</span></big> <sup><small><small>[[G8566]]</small></small></sup> |
-| a white | <big><span class="asgreek">λευκή</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| radiant | <big><span class="asgreek">τηλαυγής</span></big> <sup><small><small>[[G9446]]</small></small></sup> |
-| being whitened, | <big><span class="asgreek">λευκαίνουσα</span></big> <sup><small><small>[[G3021]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| being reddish, | <big><span class="asgreek">πυρρίζουσα</span></big> <sup><small><small>[[G8997]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it should be looked at | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| by the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest; | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there\] should become | **<big>[[G1096\|γένηται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| lesion, | **<big>[[G1668\|έλκους]]</big>** |
+| discoloration | **<big>[[G8566\|ουλή]]</big>** |
+| a white | **<big>[[G3022\|λευκή]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| radiant | **<big>[[G9446\|τηλαυγής]]</big>** |
+| being whitened, | **<big>[[G3021\|λευκαίνουσα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| being reddish, | **<big>[[G8997\|πυρρίζουσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it should be looked at | **<big>[[G3708\|οφθήσεται]]</big>** |
+| by the | **<big>[[G3588\|τω]]</big>** |
+| priest; | **<big>[[G2409\|ιερεί]]</big>** |
 [[Lev.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.18|<< Leviticus 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.20|Leviticus 13:20 >>]]</td></tr></table>
 
 

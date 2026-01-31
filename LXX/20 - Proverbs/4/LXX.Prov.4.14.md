@@ -7,15 +7,15 @@ Enter not into the path of the wicked, and go not in the way of evil [men].
 Do not set foot on the path of the wicked or walk in the way of evildoers.<small><sub>**MT:**</sub></small>
 [[Prov.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.13|<< Proverbs 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.15|Proverbs 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| by impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| You should not come | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">επέλθης</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| be jealous | <big><span class="asgreek">ζηλώσης</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
-| of \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of lawbreakers. | <big><span class="asgreek">παρανόμων</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| by impious | **<big>[[G0765\|ασεβών]]</big>** |
+| You should not come | **<big>[[G3361\|μη]]</big>** **<big>[[G1904\|επέλθης]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| be jealous | **<big>[[G2206\|ζηλώσης]]</big>** |
+| of \[the\] ways | **<big>[[G3598\|οδούς]]</big>** |
+| of lawbreakers. | **<big>[[G8627\|παρανόμων]]</big>** |
 [[Prov.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.13|<< Proverbs 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.15|Proverbs 4:15 >>]]</td></tr></table>
 
 

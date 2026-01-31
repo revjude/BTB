@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nathan</span>, the son of Attai, is mentioned in the genealogy of the tribe of Judah.
 - A man from the tribe of Judah living at the time of Divided Monarchy, first mentioned at 1Ch.2.36; 
-- only referred to as Nathan<[[H5416J]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Attai<[[H6262G]]>; 
--  father of Zabad<[[H2066G]]>.
+- only referred to as Nathan **<big>[[H5416|נָתָן]]</big>**; 
+- a son of Attai **<big>[[H6262|עַתַּי]]</big>**; 
+-  father of Zabad **<big>[[H2066|זָבָד]]</big>**.
 
 Nathan is briefly mentioned in 1 Chronicles 2:36 as part of the genealogy of the tribe of Judah. He is identified as the son of Attai and the father of Zabad. 
 
@@ -18,8 +18,8 @@ The inclusion of Nathan in this genealogical record highlights the importance of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416J) <small>*Hebrew*</small> | 2x | [[1Ch.2.36a] & [1Ch.2.36b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=1Ch.2.36;1Ch.2.36) |
-All Strong's for **Nathan**: \[[[H5416J]]\]
+| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416J) | 2x | [[1Ch.2.36a] & [1Ch.2.36b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=1Ch.2.36;1Ch.2.36) |
+All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>**
 #### Related Profiles:
 - **[Attai](H6262G)** (father)
 - **[Zabad](H2066G)** (child)

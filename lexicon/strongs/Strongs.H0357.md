@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַיָּלוֹן‎</span></big> **ʼAyâlôwn** <small>*(ah-yaw-lone')*</small> ==**Aijalon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אַיָּל‎</span><sup><small>[[H0354]]</small></sup>; deer-field</small>
+**<big><span class="ashebrew">‎אַיָּלוֹן‎</span></big>** **ʼAyâlôwn** <small>*(ah-yaw-lone')*</small> ==**Aijalon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0354|‎אַיָּל‎]]</big>**; deer-field</small>
 
 $\quad$ Aijalon, Ajalon.
 - § Ajalon or Aijalon = *"field of deer"*

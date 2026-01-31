@@ -11,18 +11,18 @@ If your enemy is hungry, give him food to eat, and if he is thirsty, give him wa
 > $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| hungers | <big><span class="asgreek">πεινά</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nourish | <big><span class="asgreek">τρέφε</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he thirsts | <big><span class="asgreek">διψά</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| give him to drink! | <big><span class="asgreek">πότιζε</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| hungers | **<big>[[G3983\|πεινά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| enemy | **<big>[[G2190\|εχθρός]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| nourish | **<big>[[G5142\|τρέφε]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he thirsts | **<big>[[G1372\|διψά]]</big>** |
+| give him to drink! | **<big>[[G4222\|πότιζε]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Prov.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.20|<< Proverbs 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.22|Proverbs 25:22 >>]]</td></tr></table>
 
 

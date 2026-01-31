@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְרִיא‎</span></big> **mᵉrîyʼ** <small>*(mer-ee')*</small> ==**fatling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָרָא‎</span><sup><small>[[H4754]]</small></sup> in the sense of grossness, through the idea of domineering (compare <span class="asaramaic">‎מָרֵא‎</span><sup><small>[[H4756]]</small></sup>)</small>
+**<big><span class="ashebrew">‎מְרִיא‎</span></big>** **mᵉrîyʼ** <small>*(mer-ee')*</small> ==**fatling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4754|‎מָרָא‎]]</big>** in the sense of grossness, through the idea of domineering (compare **<big>[[H4756|‎מָרֵא‎]]</big>**)</small>
 
 $\quad$ fat (fed) beast (cattle, -ling).
 - ***stall-fed***
@@ -7,4 +7,4 @@ $\quad$ fat (fed) beast (cattle, -ling).
 
 **1)** well-fed, fatling
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντιλογία</span><sup><small>[[G0485]]</small></sup> · <span class="asgreek">ἀπειθής</span><sup><small>[[G0545]]</small></sup> · <span class="asgreek">ἀρήν</span><sup><small>[[G0704]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">παραπικραίνω</span><sup><small>[[G3893]]</small></sup> · <span class="asgreek">ταῦρος</span><sup><small>[[G5022]]</small></sup>
+<small>See Greek: </small>**<big>[[G0485|ἀντιλογία]]</big>** · **<big>[[G0545|ἀπειθής]]</big>** · **<big>[[G0704|ἀρήν]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G3893|παραπικραίνω]]</big>** · **<big>[[G5022|ταῦρος]]</big>**

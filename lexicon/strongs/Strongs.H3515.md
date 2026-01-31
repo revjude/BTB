@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּבֵד‎</span></big> **kâbêd** <small>*(kaw-bade')*</small> ==**heavy**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּבַד‎</span><sup><small>[[H3513]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּבֵד‎</span></big>** **kâbêd** <small>*(kaw-bade')*</small> ==**heavy**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3513|‎כָּבַד‎]]</big>**</small>
 
 $\quad$ (so) great, grievous, hard(-ened), (too) heavy(-ier), laden, much, slow, sore, thick.
 - ***heavy***
@@ -12,4 +12,4 @@ $\quad$ **1c)** heavy, dull
 $\quad$ **1d)** hard, difficult, burdensome
 $\quad$ **1e)** very oppressive, numerous, rich
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βαρύς</span><sup><small>[[G0926]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup> · <span class="asgreek">πλήρης</span><sup><small>[[G4134]]</small></sup> · <span class="asgreek">πλούσιος</span><sup><small>[[G4145]]</small></sup>
+<small>See Greek: </small>**<big>[[G0926|βαρύς]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G4128|πλῆθος]]</big>** · **<big>[[G4134|πλήρης]]</big>** · **<big>[[G4145|πλούσιος]]</big>**

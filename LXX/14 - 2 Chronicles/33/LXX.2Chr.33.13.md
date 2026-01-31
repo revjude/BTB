@@ -7,35 +7,35 @@ And prayed unto him: and he was intreated of him, and heard his supplication, an
 And when he prayed to Him, the LORD received his plea and heard his petition. So He brought him back to Jerusalem and to his kingdom. Then Manasseh knew that the LORD is God.<small><sub>**MT:**</sub></small>
 [[2Chr.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.12|<< 2 Chronicles 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.14|2 Chronicles 33:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prayed | <big><span class="asgreek">προσηύξατο</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heeded | <big><span class="asgreek">επήκουσεν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heeded | <big><span class="asgreek">επήκουσε</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his yelling, | <big><span class="asgreek">βοής</span></big> <sup><small><small>[[G0995]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom. | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Manasseh knew | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he prayed | **<big>[[G4336\|προσηύξατο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he heeded | **<big>[[G1873\|επήκουσεν]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he heeded | **<big>[[G1873\|επήκουσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his yelling, | **<big>[[G0995\|βοής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his kingdom. | **<big>[[G0932\|βασιλείαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Manasseh knew | **<big>[[G1097\|έγνω]]</big>** **<big>[[G3128\|Μανασσής]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κύριος]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God. | **<big>[[G2316\|θεός]]</big>** |
 [[2Chr.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.12|<< 2 Chronicles 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.14|2 Chronicles 33:14 >>]]</td></tr></table>
 
 

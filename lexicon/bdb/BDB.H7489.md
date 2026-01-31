@@ -16,7 +16,7 @@
 
 
 
-<small>Also see: [[H7462]]</small>
+<small>Also see: **<big>[[H7462|רָעָה]]</big>**</small>
 
  II. [<span class="bdbLangHebrew">‎רָעַע‎</span>] **verb** ==break== (Aramaic loan-word = Hebrew  <span class="bdbLangHebrew">‎רָצַץ‎</span> q. v.); — 
 

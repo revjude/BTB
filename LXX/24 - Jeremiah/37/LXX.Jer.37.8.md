@@ -7,26 +7,26 @@ And the Chaldeans shall come again, and fight against this city, and take it, an
 Then the Chaldeans will return and fight against this city. They will capture it and burn it down.<small><sub>**MT:**</sub></small>
 [[Jer.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.7|<< Jeremiah 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.9|Jeremiah 37:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall return | <big><span class="asgreek">αναστρέψουσιν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall wage war | <big><span class="asgreek">πολεμήσουσιν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall seize | <big><span class="asgreek">συλλήψονται</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall burn | <big><span class="asgreek">καύσουσιν</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire. | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall return | **<big>[[G0390\|αναστρέψουσιν]]</big>** |
+| themselves | **<big>[[G1473\|αυτοί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall wage war | **<big>[[G4170\|πολεμήσουσιν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this city, | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall seize | **<big>[[G4815\|συλλήψονται]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall burn | **<big>[[G2545\|καύσουσιν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| fire. | **<big>[[G4442\|πυρί]]</big>** |
 [[Jer.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.7|<< Jeremiah 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.9|Jeremiah 37:9 >>]]</td></tr></table>
 
 

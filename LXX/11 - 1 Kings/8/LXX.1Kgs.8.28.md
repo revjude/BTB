@@ -7,36 +7,36 @@ Yet have thou respect unto the prayer of thy servant, and to his supplication, O
 Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.27|<< 1 Kings 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.29|1 Kings 8:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should you look | <big><span class="asgreek">επιβλέψη</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prayer, | <big><span class="asgreek">προσευχήν</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my supplication, | <big><span class="asgreek">δέησίν</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to hear | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| supplication | <big><span class="asgreek">δεήσεως</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prayer | <big><span class="asgreek">προσευχής</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| prays | <big><span class="asgreek">προσεύχεται</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| should you look | **<big>[[G1914\|επιβλέψη]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my prayer, | **<big>[[G4335\|προσευχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G2089\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my supplication, | **<big>[[G1162\|δέησίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to hear | **<big>[[G0191\|ακούειν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| supplication | **<big>[[G1162\|δεήσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| prayer | **<big>[[G4335\|προσευχής]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| prays | **<big>[[G4336\|προσεύχεται]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[1Kgs.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.27|<< 1 Kings 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.29|1 Kings 8:29 >>]]</td></tr></table>
 
 

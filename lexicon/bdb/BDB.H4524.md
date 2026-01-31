@@ -1,4 +1,4 @@
-<small>Also see: [[H5437]]</small>
+<small>Also see: **<big>[[H5437|סָבַב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מֵסַב‎</span> **noun [masculine]** ==that which surrounds, or is round==; — 
 

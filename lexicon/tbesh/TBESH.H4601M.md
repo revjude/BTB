@@ -1,6 +1,5 @@
-<span class="ashebrew">‎מַעֲכָה‎</span> <small>***(ma.a.khah)***</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Manasseh  living at the time of Egypt and Wilderness, first mentioned at [[1Chr.7.15|1Ch.7.15]]
--  daughter of: Ir ([[H5893G]])
--  sister of: Shuppim ([[H8206G]]) and Huppim ([[H2650G]]); married to Machir ([[H4353G]])
--  mother of: Peresh ([[H6570]]), Sheresh ([[H8329]])
+-  daughter of: Ir (**<big>[[H5893G|עִיר]]</big>**)
+-  sister of: Shuppim (**<big>[[H8206G|שֻׁפִּים]]</big>**) and Huppim (**<big>[[H2650G|חֻפִּים]]</big>**); married to Machir (**<big>[[H4353G|מָכִיר]]</big>**)
+-  mother of: Peresh (**<big>[[H6570|פֶּרֶשׁ]]</big>**), Sheresh (**<big>[[H8329|שֶׁרֶשׁ]]</big>**)
 -  wife of Machir of the tribe of Manasseh

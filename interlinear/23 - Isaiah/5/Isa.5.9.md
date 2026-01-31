@@ -10,21 +10,21 @@ I heard the LORD of Hosts declare: “Surely many houses will become desolate, g
 > $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in ears my  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָזְנָ֖ </big></span><small><small><sup>[[H0241H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.ze.Na <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֑וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֞א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| houses  | <span class="ashebrew"><big>בָּתִּ֤ים </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| ba.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּים֙ </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a waste  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שַׁמָּ֣ה </big></span><small><small><sup>[[H8047G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will become  | <span class="ashebrew"><big>יִֽהְי֔וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great [houses]  | <span class="ashebrew"><big>גְּדֹלִ֥ים </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and good [houses]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>טוֹבִ֖ים </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from not  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inhabitant  | <span class="ashebrew"><big>יוֹשֵֽׁב </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.Shev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in ears my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0241H\|אָזְנָ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֑וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֞א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| houses  |**<big>&#8207;[[H1004B\|בָּתִּ֤ים]]&#8207; </big>**| ba.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּים֙]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a waste  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8047G\|שַׁמָּ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will become  |**<big>&#8207;[[H1961\|יִֽהְי֔וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great [houses]  |**<big>&#8207;[[H1419A\|גְּדֹלִ֥ים]]&#8207; </big>**| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and good [houses]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2896A\|טוֹבִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from not  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inhabitant  |**<big>&#8207;[[H3427\|יוֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.8|<< Isaiah 5:8]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.10|Isaiah 5:10 >>]]</td></tr></table>
 
 

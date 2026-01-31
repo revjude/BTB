@@ -7,23 +7,23 @@ Bring me venison, and make me savoury meat, that I may eat, and bless thee befor
 ‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’<small><sub>**MT:**</sub></small>
 [[Gen.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Bring | <big><span class="asgreek">ένεγκόν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| game, | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">ποίησόν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| food for me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εδέσματα</span></big> <sup><small><small>[[G7043]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| eating, | <big><span class="asgreek">φαγών</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| I may bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my dying. | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Bring | **<big>[[G5342\|ένεγκόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| game, | **<big>[[G2339\|θήραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G4160\|ποίησόν]]</big>** |
+| food for me! | **<big>[[G1473\|μοι]]</big>** **<big>[[G7043\|εδέσματα]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| eating, | **<big>[[G2068\|φαγών]]</big>** |
+| I may bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my dying. | **<big>[[G0599\|αποθανείν]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Gen.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
 
 

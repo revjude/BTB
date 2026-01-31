@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adonijah</span> was one of the Levites who sealed the covenant led by Nehemiah to follow the Law of God.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.10.16|Neh.10.16]]; 
-- only referred to as Adonijah<[[H0138I]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**.
 
 Adonijah is listed in [[Neh.10.16|Nehemiah 10:16]] as one of the Levites who sealed the covenant made by the people of Israel during the time of Nehemiah. After the completion of the wall of Jerusalem and the public reading of the Law, the people made a solemn covenant to follow God's commandments and to maintain the worship and service in the temple. 
 
@@ -16,5 +16,5 @@ Apart from this mention in the list of those who sealed the covenant, no other i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138I) <small>*Hebrew*</small> | 1x | [Neh.10.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=Neh.10.16) |
-All Strong's for **Adonijah**: \[[[H0138I]]\]
+| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138I) | 1x | [Neh.10.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=Neh.10.16) |
+All entries for **Adonijah**:  **<big>[[H0138|אֲדֹנִיָּה]]</big>**

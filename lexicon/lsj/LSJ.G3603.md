@@ -1,4 +1,4 @@
-combination of: <small>[[G1510]] ([[G3588]]+[[G1510]])</small> 
+combination of: <small>**<big>[[G1510|εἰμί]]</big>** (**<big>[[G3588|ὁ]]</big>**+**<big>[[G1510|εἰμί]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==ὅ ἐστι==</span></b> 

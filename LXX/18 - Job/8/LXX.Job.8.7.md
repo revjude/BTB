@@ -7,17 +7,17 @@ Though thy beginning was small, yet thy latter end should greatly increase.
 Though your beginnings were modest, your latter days will flourish.<small><sub>**MT:**</sub></small>
 [[Job.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.6|<< Job 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.8|Job 8:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| that as | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| your first | <big><span class="asgreek">πρώτά</span></big> <sup><small><small>[[G4413]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be\] little, | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yet | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your last | <big><span class="asgreek">έσχατά</span></big> <sup><small><small>[[G2078]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] an untold \[amount\]. | <big><span class="asgreek">αμύθητα</span></big> <sup><small><small>[[G6266]]</small></small></sup> |
+| It will be | **<big>[[G1510\|έσται]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| that as | **<big>[[G3588\|τα]]</big>** **<big>[[G3303\|μεν]]</big>** |
+| your first | **<big>[[G4413\|πρώτά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[shall be\] little, | **<big>[[G3641\|ολίγα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| yet | **<big>[[G1161\|δε]]</big>** |
+| your last | **<big>[[G2078\|έσχατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[will be\] an untold \[amount\]. | **<big>[[G6266\|αμύθητα]]</big>** |
 [[Job.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.6|<< Job 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.8|Job 8:8 >>]]</td></tr></table>
 
 

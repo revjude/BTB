@@ -6,16 +6,16 @@ Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.16|<< 1 Chronicles 2:16]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.18|1 Chronicles 2:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Abigail  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִיגַ֕יִל </big></span><small><small><sup>[[H0026H]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Ga.yil <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she bore  | <span class="ashebrew"><big>יָלְדָ֖ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| Yal.dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amasa  | <span class="ashebrew"><big>עֲמָשָׂ֑א </big></span><small><small><sup>[[H6021G]]</sup></small></small> &#8207;| 'a.ma.Sa' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] father of  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amasa  | <span class="ashebrew"><big>עֲמָשָׂ֔א </big></span><small><small><sup>[[H6021G]]</sup></small></small> &#8207;| 'a.ma.Sa' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jether  | <span class="ashebrew"><big>יֶ֖תֶר </big></span><small><small><sup>[[H3500H]]</sup></small></small> &#8207;| Ye.ter <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Ishmaelite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁמְעֵאלִֽי </big></span><small><small><sup>[[H3459]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> yish.me.'e.Li <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abigail  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0026H\|אֲבִיגַ֕יִל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bore  |**<big>&#8207;[[H3205\|יָלְדָ֖ה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amasa  |**<big>&#8207;[[H6021G\|עֲמָשָׂ֑א]]&#8207; </big>**| 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] father of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amasa  |**<big>&#8207;[[H6021G\|עֲמָשָׂ֔א]]&#8207; </big>**| 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jether  |**<big>&#8207;[[H3500H\|יֶ֖תֶר]]&#8207; </big>**| Ye.ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ishmaelite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3459\|יִּשְׁמְעֵאלִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yish.me.'e.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.16|<< 1 Chronicles 2:16]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.18|1 Chronicles 2:18 >>]]</td></tr></table>
 
 

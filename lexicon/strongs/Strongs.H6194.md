@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָרֵם‎</span></big> **ʻârêm** <small>*(aw-rame')*</small> ==**heap**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>(Jeremiah 50:26) or (feminine) <span class="ashebrew">עֲרֵמָה</span> **ʻărêmâh** <small>*(ar-ay-maw')*</small>; from <span class="ashebrew">‎עָרַם‎</span><sup><small>[[H6192]]</small></sup></small>
+**<big><span class="ashebrew">‎עָרֵם‎</span></big>** **ʻârêm** <small>*(aw-rame')*</small> ==**heap**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>(Jeremiah 50:26) or (feminine) **<big><span class="ashebrew">עֲרֵמָה</span></big>** **ʻărêmâh** <small>*(ar-ay-maw')*</small>; from **<big>[[H6192|‎עָרַם‎]]</big>**</small>
 
 $\quad$ heap (of corn), sheaf.
 - ***a heap***
@@ -7,4 +7,4 @@ $\quad$ heap (of corn), sheaf.
 
 **1)** heap, pile
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θεμέλιος</span><sup><small>[[G2310]]</small></sup>
+<small>See Greek: </small>**<big>[[G2310|θεμέλιος]]</big>**

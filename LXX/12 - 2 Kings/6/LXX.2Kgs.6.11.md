@@ -7,35 +7,35 @@ Therefore the heart of the king of Syria was sore troubled for this thing; and h
 For this reason the king of Aram became enraged and called his servants to demand of them, “Tell me, which one of us is on the side of the king of Israel?”<small><sub>**MT:**</sub></small>
 [[2Kgs.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.10|<< 2 Kings 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.12|2 Kings 6:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was startled | <big><span class="asgreek">εξέστη</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word. | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shall you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| announce | <big><span class="asgreek">αναγγέλείτε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| betrays | <big><span class="asgreek">προδίδωσί</span></big> <sup><small><small>[[G4272]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was startled | **<big>[[G1839\|εξέστη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| soul | **<big>[[G2588\|καρδία]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this word. | **<big>[[G3056\|λόγου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants, | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Shall you not | **<big>[[G3756\|ουκ]]</big>** |
+| announce | **<big>[[G0312\|αναγγέλείτε]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| betrays | **<big>[[G4272\|προδίδωσί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.10|<< 2 Kings 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.12|2 Kings 6:12 >>]]</td></tr></table>
 
 

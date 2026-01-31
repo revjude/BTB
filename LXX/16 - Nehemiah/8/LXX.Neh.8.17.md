@@ -7,43 +7,43 @@ And all the congregation of them that were come again out of the captivity made 
 The whole assembly that had returned from exile made booths and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated like this. And there was great rejoicing.<small><sub>**MT:**</sub></small>
 [[Neh.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.16|<< Nehemiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.18|Nehemiah 8:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| of the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones returning | <big><span class="asgreek">επιστρέψαντες</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| tents, | <big><span class="asgreek">σκηνάς</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they stayed | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tents; | <big><span class="asgreek">σκηναίς</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Joshua | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nun | <big><span class="asgreek">Ναυή</span></big> <sup><small><small>[[H5126]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| exceedingly much. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησαν]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| of the | **<big>[[G3588\|οι]]</big>** |
+| ones returning | **<big>[[G1994\|επιστρέψαντες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| tents, | **<big>[[G4633\|σκηνάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they stayed | **<big>[[G2523\|εκάθισαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| tents; | **<big>[[G4633\|σκηναίς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| do | **<big>[[G4160\|εποίησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημερών]]</big>** |
+| of Joshua | **<big>[[G2424\|Ιησού]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nun | **<big>[[H5126\|Ναυή]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| that day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there became | **<big>[[G1096\|εγένετο]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| exceedingly much. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Neh.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.16|<< Nehemiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.18|Nehemiah 8:18 >>]]</td></tr></table>
 
 

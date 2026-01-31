@@ -6,20 +6,20 @@ Abram traveled through the land as far as the site of the Oak of Moreh at Sheche
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he passed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲבֹ֤ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'a.Vor <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abram  | <span class="ashebrew"><big>אַבְרָם֙ </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the land  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַ֚ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] place of  | <span class="ashebrew"><big>מְק֣וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| me.Kom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shechem  | <span class="ashebrew"><big>שְׁכֶ֔ם </big></span><small><small><sup>[[H7927G]]</sup></small></small> &#8207;| she.Khem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַ֖ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] great tree of  | <span class="ashebrew"><big>אֵל֣וֹן </big></span><small><small><sup>[[H0436H]]</sup></small></small> &#8207;| 'e.Lon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moreh  | <span class="ashebrew"><big>מוֹרֶ֑ה </big></span><small><small><sup>[[H4176G]]</sup></small></small> &#8207;| mo.Reh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the Canaanite[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כְּנַעֲנִ֖י </big></span><small><small><sup>[[H3669A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> ke.na.'a.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֥ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] in the land  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he passed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abram  |**<big>&#8207;[[H0087\|אַבְרָם֙]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַ֚ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place of  |**<big>&#8207;[[H4725\|מְק֣וֹם]]&#8207; </big>**| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shechem  |**<big>&#8207;[[H7927G\|שְׁכֶ֔ם]]&#8207; </big>**| she.Khem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] great tree of  |**<big>&#8207;[[H0436H\|אֵל֣וֹן]]&#8207; </big>**| 'e.Lon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moreh  |**<big>&#8207;[[H4176G\|מוֹרֶ֑ה]]&#8207; </big>**| mo.Reh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Canaanite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3669A\|כְּנַעֲנִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֥ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
 

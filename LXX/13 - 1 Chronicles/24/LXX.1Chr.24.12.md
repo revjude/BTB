@@ -7,16 +7,16 @@ The eleventh to Eliashib, the twelfth to Jakim,
 the eleventh to Eliashib, the twelfth to Jakim,<small><sub>**MT:**</sub></small>
 [[1Chr.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.11|<< 1 Chronicles 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.13|1 Chronicles 24:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Eliashib | <big><span class="asgreek">Ελιασούβ</span></big> <sup><small><small>[[H0475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eleventh, | <big><span class="asgreek">ενδέκατος</span></big> <sup><small><small>[[G1734]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jakim | <big><span class="asgreek">Ιακείμ</span></big> <sup><small><small>[[H3356]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twelfth, | <big><span class="asgreek">δωδέκατος</span></big> <sup><small><small>[[G1428]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Eliashib | **<big>[[H0475\|Ελιασούβ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| eleventh, | **<big>[[G1734\|ενδέκατος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jakim | **<big>[[H3356\|Ιακείμ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| twelfth, | **<big>[[G1428\|δωδέκατος]]</big>** |
 [[1Chr.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.11|<< 1 Chronicles 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.13|1 Chronicles 24:13 >>]]</td></tr></table>
 
 

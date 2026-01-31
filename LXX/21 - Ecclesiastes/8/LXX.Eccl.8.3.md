@@ -7,23 +7,23 @@ Be not hasty to go out of his sight: stand not in an evil thing; for he doeth wh
 Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.<small><sub>**MT:**</sub></small>
 [[Eccl.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hurriedly | <big><span class="asgreek">σπουδάσης</span></big> <sup><small><small>[[G4704]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| stand | <big><span class="asgreek">στης</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| matter | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| an evil | <big><span class="asgreek">πονηρώ</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he wants, | <big><span class="asgreek">θελήση</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| he does. | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| not | **<big>[[G3361\|μη]]</big>** |
+| hurriedly | **<big>[[G4704\|σπουδάσης]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| go | **<big>[[G4198\|πορεύση]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| stand | **<big>[[G2476\|στης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| matter | **<big>[[G3056\|λόγω]]</big>** |
+| an evil | **<big>[[G4190\|πονηρώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| he wants, | **<big>[[G2309\|θελήση]]</big>** |
+| he does. | **<big>[[G4160\|ποιήσει]]</big>** |
 [[Eccl.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
 

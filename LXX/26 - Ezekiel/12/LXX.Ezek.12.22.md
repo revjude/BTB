@@ -11,26 +11,26 @@ Son of man, what [is] that proverb [that] ye have in the land of Israel, saying,
 > $\quad$ referenced by: [[2Pet.3.4|2Pet 3:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this parable | <big><span class="asgreek">παραβολή</span></big> <sup><small><small>[[G3850]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[are\] far off; | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| has perished | <big><span class="asgreek">απόλωλε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| this parable | **<big>[[G3850\|παραβολή]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| The | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| \[are\] far off; | **<big>[[G3112\|μακράν]]</big>** |
+| has perished | **<big>[[G0622\|απόλωλε]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
 [[Ezek.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.21|<< Ezekiel 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.23|Ezekiel 12:23 >>]]</td></tr></table>
 
 

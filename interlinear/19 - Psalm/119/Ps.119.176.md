@@ -6,17 +6,17 @@ I have strayed like a lost sheep; seek Your servant, for I have not forgotten Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.176|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.175|<< Psalms 119:175]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.0|Psalms 120:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I have gone astray  | <span class="ashebrew"><big>תָּעִ֗יתִי </big></span><small><small><sup>[[H8582]]</sup></small></small> &#8207;| ta.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a sheep  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שֶׂ֣ה </big></span><small><small><sup>[[H7716]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Seh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lost  | <span class="ashebrew"><big>אֹ֭בֵד </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| 'O.ved <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seek  | <span class="ashebrew"><big>בַּקֵּ֣שׁ </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| ba.Kesh <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant your  | <span class="ashebrew"><big>עַבְדֶּ֑ </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'av.De. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| commandments your  | <span class="ashebrew"><big>מִ֝צְוֹתֶ֗י </big></span><small><small><sup>[[H4687]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| mitz.vo.Tei. <small><sup>[[HNcfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have forgotten  | <span class="ashebrew"><big>שָׁכָֽחְתִּי </big></span><small><small><sup>[[H7911]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Kha.che.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have gone astray  |**<big>&#8207;[[H8582\|תָּעִ֗יתִי]]&#8207; </big>**| ta.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a sheep  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7716\|שֶׂ֣ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lost  |**<big>&#8207;[[H0006\|אֹ֭בֵד]]&#8207; </big>**| 'O.ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seek  |**<big>&#8207;[[H1245\|בַּקֵּ֣שׁ]]&#8207; </big>**| ba.Kesh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  |**<big>&#8207;[[H5650\|עַבְדֶּ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'av.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| commandments your  |**<big>&#8207;[[H4687\|מִ֝צְוֹתֶ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mitz.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have forgotten  |**<big>&#8207;[[H7911\|שָׁכָֽחְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Kha.che.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.175|<< Psalms 119:175]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.0|Psalms 120:0 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ They have not known nor understood: for he hath shut their eyes, that they canno
 They do not comprehend or discern, for He has shut their eyes so they cannot see and closed their minds so they cannot understand.<small><sub>**MT:**</sub></small>
 [[Isa.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.17|<< Isaiah 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.19|Isaiah 44:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| to think, | <big><span class="asgreek">φρονήσαι</span></big> <sup><small><small>[[G5426]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were blurred | <big><span class="asgreek">απημαυρώθησαν</span></big> <sup><small><small>[[G6394]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to see | <big><span class="asgreek">βλέπειν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with their eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to comprehend | <big><span class="asgreek">νοήσαι</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They do not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνωσαν]]</big>** |
+| to think, | **<big>[[G5426\|φρονήσαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they were blurred | **<big>[[G6394\|απημαυρώθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to see | **<big>[[G0991\|βλέπειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| with their eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to comprehend | **<big>[[G3539\|νοήσαι]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their heart. | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.17|<< Isaiah 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.19|Isaiah 44:19 >>]]</td></tr></table>
 
 

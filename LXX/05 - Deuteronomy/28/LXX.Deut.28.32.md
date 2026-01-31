@@ -7,28 +7,28 @@ Thy sons and thy daughters [shall be] given unto another people, and thine eyes 
 Your sons and daughters will be given to another nation, while your eyes grow weary looking for them day after day, with no power in your hand.<small><sub>**MT:**</sub></small>
 [[Deut.28.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.31|<< Deuteronomy 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.33|Deuteronomy 28:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be given | <big><span class="asgreek">δεδομέναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| to another | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| being inflamed | <big><span class="asgreek">σφακελίζοντες</span></big> <sup><small><small>[[G9364]]</small></small></sup> |
-| over | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be strong | <big><span class="asgreek">ισχύσει</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| will be given | **<big>[[G1325\|δεδομέναι]]</big>** |
+| nation | **<big>[[G1484\|έθνει]]</big>** |
+| to another | **<big>[[G2087\|ετέρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall see | **<big>[[G3708\|όψονται]]</big>** |
+| being inflamed | **<big>[[G9364\|σφακελίζοντες]]</big>** |
+| over | **<big>[[G1519\|εις]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be strong | **<big>[[G2480\|ισχύσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.28.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.31|<< Deuteronomy 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.33|Deuteronomy 28:33 >>]]</td></tr></table>
 
 

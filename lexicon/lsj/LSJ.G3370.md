@@ -1,4 +1,4 @@
-Greek of: <small>[[H4091]]</small> 
+Greek of: <small>**<big>[[H4091|מְדָן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Μῆδος==</span></b>, <span class='asgreek'>ὁ</span>, 

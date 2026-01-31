@@ -6,18 +6,18 @@ Or the seven loaves for the four thousand, and how many basketfuls you gathered?
 <small><sub>**Literal:**</sub></small>
 Nor [remember] the seven loaves for the four thousand and how many baskets you gathered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.9|<< Matthew 16:9]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.11|Matthew 16:11 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Nor [remember] |<big><span class="asgreek">οὐδὲ</span></big> <small><small><sup>[[G3761]]</sup></small></small> |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seven |<big><span class="asgreek">ἑπτὰ</span></big> <small><small><sup>[[G2033]]</sup></small></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| loaves |<big><span class="asgreek">ἄρτους</span></big> <small><small><sup>[[G0740]]</sup></small></small> |artous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| four thousand |<big><span class="asgreek">τετρακισχιλίων</span></big> <small><small><sup>[[G5070]]</sup></small></small> |tetrakischiliōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| how many |<big><span class="asgreek">πόσας</span></big> <small><small><sup>[[G4214]]</sup></small></small> |posas <small><sup>[[Q-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| baskets |<big><span class="asgreek">σπυρίδας</span></big> <small><small><sup>[[G4711]]</sup></small></small> [^1] |spuridas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you gathered? |<big><span class="asgreek">ἐλάβετε;</span></big> <small><small><sup>[[G2983]]</sup></small></small> |elabete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Nor [remember] |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seven |**<big>[[G2033\|ἑπτὰ]]</big>**  |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| loaves |**<big>[[G0740\|ἄρτους]]</big>**  |artous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| four thousand |**<big>[[G5070\|τετρακισχιλίων]]</big>**  |tetrakischiliōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| how many |**<big>[[G4214\|πόσας]]</big>**  |posas <small><sup>[[Q-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| baskets |**<big>[[G4711\|σπυρίδας]]</big>**  [^1] |spuridas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you gathered? |**<big>[[G2983\|ἐλάβετε;]]</big>**  |elabete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.9|<< Matthew 16:9]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.11|Matthew 16:11 >>]]</td></tr></table>
 
-[^1]: ==WH== spelled: <span class='asgreek'>**σφυρίδας**</span>
+[^1]: ==WH== spelled: **<big><span class='asgreek'>σφυρίδας</span></big>**

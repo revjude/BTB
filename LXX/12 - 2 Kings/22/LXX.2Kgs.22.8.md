@@ -10,35 +10,35 @@ And Hilkiah the high priest said unto Shaphan the scribe, I have found the book 
 Then Hilkiah the high priest said to Shaphan the scribe, “I have found the Book of the Law in the house of the LORD!” And he gave it to Shaphan, who read it.<small><sub>**MT:**</sub></small>
 [[2Kgs.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.7|<< 2 Kings 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.9|2 Kings 22:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Hilkiah | <big><span class="asgreek">Χελκίας</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Shaphan | <big><span class="asgreek">Σαπφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματέα</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| a scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hilkiah gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Χελκίας</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shaphan | <big><span class="asgreek">Σαπφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he read | <big><span class="asgreek">ανέγνω</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| Hilkiah | **<big>[[H2518\|Χελκίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Shaphan | **<big>[[H8227b\|Σαπφάν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματέα]]</big>** |
+| a scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| law | **<big>[[G3551\|νόμου]]</big>** |
+| I found | **<big>[[G2147\|εύρον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hilkiah gave | **<big>[[G1325\|έδωκε]]</big>** **<big>[[H2518\|Χελκίας]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Shaphan | **<big>[[H8227b\|Σαπφάν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll, | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he read | **<big>[[G0314\|ανέγνω]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[2Kgs.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.7|<< 2 Kings 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.9|2 Kings 22:9 >>]]</td></tr></table>
 
 

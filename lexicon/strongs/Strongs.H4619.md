@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעַץ‎</span></big> **Maʻats** <small>*(mah'-ats)*</small> ==**Maaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָצָה‎</span><sup><small>[[H6095]]</small></sup>; closure</small>
+**<big><span class="ashebrew">‎מַעַץ‎</span></big>** **Maʻats** <small>*(mah'-ats)*</small> ==**Maaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6095|‎עָצָה‎]]</big>**; closure</small>
 
 $\quad$ Maaz.
 - § Maaz = *"wrath"*

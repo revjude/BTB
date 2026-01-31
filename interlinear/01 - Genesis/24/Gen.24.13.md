@@ -6,20 +6,20 @@ Here I am, standing beside the spring, and the daughters of the townspeople are 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.12|<< Genesis 24:12]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.14|Genesis 24:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הִנֵּ֛ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹכִ֥י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] standing  | <span class="ashebrew"><big>נִצָּ֖ב </big></span><small><small><sup>[[H5324]]</sup></small></small> &#8207;| ni.Tzav <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] spring of  | <span class="ashebrew"><big>עֵ֣ין </big></span><small><small><sup>[[H5869M]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the water  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּ֑יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] daughters of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנוֹת֙ </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.noT <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>אַנְשֵׁ֣י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the city  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עִ֔יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] coming out  | <span class="ashebrew"><big>יֹצְאֹ֖ת </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| yo.tze.'Ot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to draw  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁאֹ֥ב </big></span><small><small><sup>[[H7579]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.'O <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֥י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] standing  |**<big>&#8207;[[H5324\|נִצָּ֖ב]]&#8207; </big>**| ni.Tzav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] spring of  |**<big>&#8207;[[H5869M\|עֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּ֑יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] daughters of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בְנוֹת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.noT<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֔יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] coming out  |**<big>&#8207;[[H3318G\|יֹצְאֹ֖ת]]&#8207; </big>**| yo.tze.'Ot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to draw  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7579\|שְׁאֹ֥ב]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.'O<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.12|<< Genesis 24:12]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.14|Genesis 24:14 >>]]</td></tr></table>
 
 

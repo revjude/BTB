@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְשֵׁיזַבְאֵל‎</span></big> **Mᵉshêyzabʼêl** <small>*(mesh-ay-zab-ale')*</small> ==**Meshezabel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from an equiv. to <span class="asaramaic">‎שְׁזַב‎</span><sup><small>[[H7804]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; delivered of God</small>
+**<big><span class="ashebrew">‎מְשֵׁיזַבְאֵל‎</span></big>** **Mᵉshêyzabʼêl** <small>*(mesh-ay-zab-ale')*</small> ==**Meshezabel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from an equiv. to **<big>[[H7804|‎שְׁזַב‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; delivered of God</small>
 
 $\quad$ Meshezabeel.
 - § Meshezabeel = *"God delivers"*

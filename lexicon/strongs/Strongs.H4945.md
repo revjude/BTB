@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשְׁקֶה‎</span></big> **mashqeh** <small>*(mash-keh')*</small> ==**cupbearer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁקָה‎</span><sup><small>[[H8248]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשְׁקֶה‎</span></big>** **mashqeh** <small>*(mash-keh')*</small> ==**cupbearer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8248|‎שָׁקָה‎]]</big>**</small>
 
 $\quad$ butler(-ship), cupbearer, drink(-ing), fat pasture, watered.
 - properly, ***causing to drink***, i.e. ***a butler***
@@ -12,4 +12,4 @@ $\quad$ **1b)** drink, drinking vessels
 $\quad$ **1c)** butlership (office of butler)
 **2)** butler, cup-bearer
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup>
+<small>See Greek: </small>**<big>[[G0746|ἀρχή]]</big>**

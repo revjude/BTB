@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְחֹב‎</span></big> **Rᵉchôb** <small>*(rekh-obe')*</small> ==**Rehob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">רְחוֹב</span> **Rᵉchôwb** <small>*(rekh-obe')*</small>; the same as <span class="ashebrew">‎רְחֹב‎</span><sup><small>[[H7339]]</small></sup></small>
+**<big><span class="ashebrew">‎רְחֹב‎</span></big>** **Rᵉchôb** <small>*(rekh-obe')*</small> ==**Rehob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">רְחוֹב</span></big>** **Rᵉchôwb** <small>*(rekh-obe')*</small>; the same as **<big>[[H7339|‎רְחֹב‎]]</big>**</small>
 
 $\quad$ Rehob.
 - § Rehob = *"broad place"*

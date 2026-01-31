@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּרְכַּס‎</span></big> **Karkaç** <small>*(kar-kas')*</small> ==**Carkas**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎כַּרְכַּס‎</span></big>** **Karkaç** <small>*(kar-kas')*</small> ==**Carkas**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Carcas.

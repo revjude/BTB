@@ -6,16 +6,16 @@ The bricks are fallen down, but we will build with hewn stones: the sycomores ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.9|<< Isaiah 9:9]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.11|Isaiah 9:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| bricks  | <span class="ashebrew"><big>לְבֵנִ֥ים </big></span><small><small><sup>[[H3843]]</sup></small></small> &#8207;| le.ve.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have fallen  | <span class="ashebrew"><big>נָפָ֖לוּ </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| na.Fa.lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hewn [stone]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גָזִ֣ית </big></span><small><small><sup>[[H1496]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga.Zit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will rebuild  | <span class="ashebrew"><big>נִבְנֶ֑ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| niv.Neh <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sycamores  | <span class="ashebrew"><big>שִׁקְמִ֣ים </big></span><small><small><sup>[[H8256]]</sup></small></small> &#8207;| shik.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have been cut down  | <span class="ashebrew"><big>גֻּדָּ֔עוּ </big></span><small><small><sup>[[H1438]]</sup></small></small> &#8207;| gu.Da.'u <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and cedars  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲרָזִ֖ים </big></span><small><small><sup>[[H0730]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ra.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will substitute  | <span class="ashebrew"><big>נַחֲלִֽיף </big></span><small><small><sup>[[H2498]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.cha.Lif <small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bricks  |**<big>&#8207;[[H3843\|לְבֵנִ֥ים]]&#8207; </big>**| le.ve.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have fallen  |**<big>&#8207;[[H5307G\|נָפָ֖לוּ]]&#8207; </big>**| na.Fa.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hewn [stone]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1496\|גָזִ֣ית]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Zit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will rebuild  |**<big>&#8207;[[H1129\|נִבְנֶ֑ה]]&#8207; </big>**| niv.Neh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sycamores  |**<big>&#8207;[[H8256\|שִׁקְמִ֣ים]]&#8207; </big>**| shik.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been cut down  |**<big>&#8207;[[H1438\|גֻּדָּ֔עוּ]]&#8207; </big>**| gu.Da.'u<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cedars  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0730\|אֲרָזִ֖ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will substitute  |**<big>&#8207;[[H2498\|נַחֲלִֽיף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.cha.Lif<small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.9|<< Isaiah 9:9]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.11|Isaiah 9:11 >>]]</td></tr></table>
 
 

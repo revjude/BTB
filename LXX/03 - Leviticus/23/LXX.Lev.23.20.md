@@ -7,35 +7,35 @@ And the priest shall wave them with the bread of the firstfruits [for] a wave of
 The priest is to wave the lambs as a wave offering before the LORD, together with the bread of the firstfruits. The bread and the two lambs shall be holy to the LORD for the priest.<small><sub>**MT:**</sub></small>
 [[Lev.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.19|<< Leviticus 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.21|Leviticus 23:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall place | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first produce | <big><span class="asgreek">πρωτογεννημάτων</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
-| increase \[offering\] | <big><span class="asgreek">επίθεμα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| lambs. | <big><span class="asgreek">αμνών</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| They shall be holy | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bringing | <big><span class="asgreek">προσφέροντι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it will be. | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall place | **<big>[[G2007\|επιθήσει]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| first produce | **<big>[[G8966\|πρωτογεννημάτων]]</big>** |
+| increase \[offering\] | **<big>[[G7409\|επίθεμα]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| lambs. | **<big>[[G0286\|αμνών]]</big>** |
+| They shall be holy | **<big>[[G0039\|άγια]]</big>** **<big>[[G1510\|έσονται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| priest | **<big>[[G2409\|ιερεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| bringing | **<big>[[G4374\|προσφέροντι]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| it will be. | **<big>[[G1510\|έσται]]</big>** |
 [[Lev.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.19|<< Leviticus 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.21|Leviticus 23:21 >>]]</td></tr></table>
 
 

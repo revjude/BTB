@@ -77,7 +77,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.3.19|19]]**<span class="
 
 [^33]: [[Exod.3|Exod 3:6]], [[Exod.4|Exod 4:5]]; [[Gen.17|Gen 17:7-8]]; [[Deut.1|Deut 1:11]], [[Deut.1|Deut 1:35]], [[Deut.4|Deut 4:1]]; [[2Chr.28|2Chr 28:9]]; [[Matt.22|Matt 22:32]]; [[Acts.7|Acts 7:32]]
 
-[^34]: The name here referred to is that which immediately precedes, <span class="asgreek"><span class='asgreek'>ιδεδ</span></span>, (<span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup>), ***Yehowah***, which we translate "Lord", the name by which God had been known from the creation of the world ([[Gen.2|Gen 2:2]]), and by which he is known to the present day. <span class="asgreek"><span class='asgreek'>ιδεδ</span></span>, ***Yehowah***, from <span class="asgreek"><span class='asgreek'>δεδ</span></span>, ***hawah***, to be, subsist, signifies "He who is", or "subsists", i.e., eminently and in a manner superior to all other beings; and is essentially the same with ***ΰ<span class='asgreek'>διδ</span>***, ***eheyeh***, "I AM", in the preceding verse. [[Ps.72|Ps 72:17]], [[Ps.72|Ps 72:19]], [[Ps.135|Ps 135:13]], [[Ps.145|Ps 145:1-2]]; [[Isa.9|Isa 9:6]], [[Isa.63|Isa 63:12]]
+[^34]: The name here referred to is that which immediately precedes, <span class="asgreek"><span class='asgreek'>ιδεδ</span></span>, ( [[H3068|‎יְהֹוָה‎]] ), ***Yehowah***, which we translate "Lord", the name by which God had been known from the creation of the world ([[Gen.2|Gen 2:2]]), and by which he is known to the present day. <span class="asgreek"><span class='asgreek'>ιδεδ</span></span>, ***Yehowah***, from <span class="asgreek"><span class='asgreek'>δεδ</span></span>, ***hawah***, to be, subsist, signifies "He who is", or "subsists", i.e., eminently and in a manner superior to all other beings; and is essentially the same with ***ΰ<span class='asgreek'>διδ</span>***, ***eheyeh***, "I AM", in the preceding verse. [[Ps.72|Ps 72:17]], [[Ps.72|Ps 72:19]], [[Ps.135|Ps 135:13]], [[Ps.145|Ps 145:1-2]]; [[Isa.9|Isa 9:6]], [[Isa.63|Isa 63:12]]
 
 [^35]: [[Ps.102|Ps 102:12]]; [[Hos.12|Hos 12:5]]; [[Mic.4|Mic 4:5]]; [[Mal.3|Mal 3:6]]; [[Heb.13|Heb 13:8]]
 
@@ -117,7 +117,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.3.19|19]]**<span class="
 
 [^53]: [[Exod.11|Exod 11:2]], [[Exod.12|Exod 12:35-36]]; [[Gen.15|Gen 15:14]]; [[Ps.105|Ps 105:37]]
 
-[^54]: Or, rather ask or demand, as the word <span class="asgreek"><span class='asgreek'>ωΡ</span>ΰ<span class='asgreek'>μ</span></span> (<span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup>) properly signifies; and is so rendered by the LXX, Vulgate, and Geneva and Barker's Bible. The other ancient versions are the same as the Hebrew.
+[^54]: Or, rather ask or demand, as the word <span class="asgreek"><span class='asgreek'>ωΡ</span>ΰ<span class='asgreek'>μ</span></span> ( [[H7592|‎שָׁאַל‎]] ) properly signifies; and is so rendered by the LXX, Vulgate, and Geneva and Barker's Bible. The other ancient versions are the same as the Hebrew.
 
 [^55]: [[Job.27|Job 27:16-17]]; [[Prov.13|Prov 13:22]]; [[Isa.33|Isa 33:1]]; [[Ezek.39|Ezek 39:10]]
 

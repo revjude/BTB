@@ -6,27 +6,27 @@ and if you say, ‘No, but we will go to the land of Egypt and live there, where
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֗ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| In-  | <span class="ashebrew"><big>לֹ֚א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deed  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֤רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֙יִם֙ </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will go  | <span class="ashebrew"><big>נָב֔וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| na.Vo' <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will see  | <span class="ashebrew"><big>נִרְאֶה֙ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| nir.'Eh <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| warfare  | <span class="ashebrew"><big>מִלְחָמָ֔ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] sound of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ק֥וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a trumpet  | <span class="ashebrew"><big>שׁוֹפָ֖ר </big></span><small><small><sup>[[H7782]]</sup></small></small> &#8207;| sho.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will hear  | <span class="ashebrew"><big>נִשְׁמָ֑ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| nish.Ma' <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for \<the> bread  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>לֶּ֥חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la. <small><sup>[[HRd]]</sup></small> Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will be hungry  | <span class="ashebrew"><big>נִרְעָ֖ב </big></span><small><small><sup>[[H7456]]</sup></small></small> &#8207;| nir.'Av <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁ֥ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will dwell  | <span class="ashebrew"><big>נֵשֵֽׁב </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.Shev <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֗ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| In-  |**<big>&#8207;[[H3808\|לֹ֚א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will go  |**<big>&#8207;[[H0935G\|נָב֔וֹא]]&#8207; </big>**| na.Vo'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will see  |**<big>&#8207;[[H7200G\|נִרְאֶה֙]]&#8207; </big>**| nir.'Eh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| warfare  |**<big>&#8207;[[H4421\|מִלְחָמָ֔ה]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963H\|ק֥וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trumpet  |**<big>&#8207;[[H7782\|שׁוֹפָ֖ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will hear  |**<big>&#8207;[[H8085G\|נִשְׁמָ֑ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for \<the> bread  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3899H\|לֶּ֥חֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will be hungry  |**<big>&#8207;[[H7456\|נִרְעָ֖ב]]&#8207; </big>**| nir.'Av<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8033G\|שָׁ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will dwell  |**<big>&#8207;[[H3427\|נֵשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.Shev<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
 

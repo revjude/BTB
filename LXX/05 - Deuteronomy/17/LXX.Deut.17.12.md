@@ -7,49 +7,49 @@ And the man that will do presumptuously, and will not hearken unto the priest th
 But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel.<small><sub>**MT:**</sub></small>
 [[Deut.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.11|<< Deuteronomy 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.13|Deuteronomy 17:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should do | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| pride | <big><span class="asgreek">υπερηφανία</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| obey | <big><span class="asgreek">υπακούσαι</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing beside | <big><span class="asgreek">παρεστηκότος</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| to officiate | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judge | <big><span class="asgreek">κριτού</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lift away | <big><span class="asgreek">εξαρείς</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[one\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should do | **<big>[[G4160\|ποιήση]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| pride | **<big>[[G5243\|υπερηφανία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| obey | **<big>[[G5219\|υπακούσαι]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| standing beside | **<big>[[G3936\|παρεστηκότος]]</big>** |
+| to officiate | **<big>[[G3008\|λειτουργείν]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| judge | **<big>[[G2923\|κριτού]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should be | **<big>[[G1096\|γένηται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days, | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| that man | **<big>[[G0444\|άνθρωπος]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall lift away | **<big>[[G1808\|εξαρείς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wicked \[one\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Deut.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.11|<< Deuteronomy 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.13|Deuteronomy 17:13 >>]]</td></tr></table>
 
 

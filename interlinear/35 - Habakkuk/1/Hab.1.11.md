@@ -6,16 +6,16 @@ Then they sweep by like the wind and pass through. They are guilty; their own st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.10|<< Habakkuk 1:10]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.12|Habakkuk 1:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="ashebrew"><big>אָ֣ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it swept on  | <span class="ashebrew"><big>חָלַ֥ף </big></span><small><small><sup>[[H2498]]</sup></small></small> &#8207;| cha.Laf <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wind  | <span class="ashebrew"><big>ר֛וּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it passed on  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲבֹ֖ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'a.Vor <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he is guilty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָשֵׁ֑ם </big></span><small><small><sup>[[H0816]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Shem <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the one] who  | <span class="ashebrew"><big>ז֥וּ </big></span><small><small><sup>[[H2098]]</sup></small></small> &#8207;| zu <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength his  | <span class="ashebrew"><big>כֹח֖ </big></span><small><small><sup>[[H3581B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| kho.Ch <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [becomes] \<into> god his  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אלֹהֽ </big></span><small><small><sup>[[H0433]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> lo.H <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it swept on  |**<big>&#8207;[[H2498\|חָלַ֥ף]]&#8207; </big>**| cha.Laf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wind  |**<big>&#8207;[[H7307H\|ר֛וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it passed on  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֖ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he is guilty  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0816\|אָשֵׁ֑ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Shem<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the one] who  |**<big>&#8207;[[H2098\|ז֥וּ]]&#8207; </big>**| zu<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength his  |**<big>&#8207;[[H3581B\|כֹח֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| kho.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [becomes] \<into> god his  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0433\|אלֹהֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.H<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.10|<< Habakkuk 1:10]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.12|Habakkuk 1:12 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ And Joseph answered Pharaoh, saying, [It is] not in me: God shall give Pharaoh a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.15|<< Genesis 41:15]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.17|Genesis 41:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he answered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֨עַן </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'an <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֧ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֛ה </big></span><small><small><sup>[[H6547H]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| apart from me  | <span class="ashebrew"><big>בִּלְעָדָ֑ </big></span><small><small><sup>[[H1107]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| bil.'a.Da <small><sup>[[HAcbsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֕ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will answer  | <span class="ashebrew"><big>יַעֲנֶ֖ה </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| ya.'a.Neh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] welfare of  | <span class="ashebrew"><big>שְׁל֥וֹם </big></span><small><small><sup>[[H7965G]]</sup></small></small> &#8207;| she.Lom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹֽה </big></span><small><small><sup>[[H6547H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֧ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֛ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| apart from me  |**<big>&#8207;[[H1107\|בִּלְעָדָ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| bil.'a.Da<small><sup>[[HAcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֕ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will answer  |**<big>&#8207;[[H6030B\|יַעֲנֶ֖ה]]&#8207; </big>**| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] welfare of  |**<big>&#8207;[[H7965G\|שְׁל֥וֹם]]&#8207; </big>**| she.Lom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.15|<< Genesis 41:15]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.17|Genesis 41:17 >>]]</td></tr></table>
 
 

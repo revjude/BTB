@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Kelita</span> was a Levite who helped explain the Law to the people and sealed the covenant during the time of Nehemiah.
 - A man living at the time of Exile and Return, first mentioned at [[Neh.8.7|Neh.8.7]]; 
-- only referred to as Kelita<[[H7042G]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Kelita **<big>[[H7042|קְלִיטָא]]</big>**.
 
 Kelita is mentioned in [[Neh.8.7|Nehemiah 8:7]] and 10:10 as a Levite who played a significant role in the spiritual renewal of the people during the time of Nehemiah. 
 
@@ -18,5 +18,5 @@ Apart from these two mentions in Nehemiah, no other information is provided abou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kelita | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>](H7042G) <small>*Hebrew*</small> | 2x | [[Neh.8.7] & [Neh.10.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelita\*\|reference=Neh.8.7;Neh.10.10) |
-All Strong's for **Kelita**: \[[[H7042G]]\]
+| Kelita | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>](H7042G) | 2x | [[Neh.8.7] & [Neh.10.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelita\*\|reference=Neh.8.7;Neh.10.10) |
+All entries for **Kelita**:  **<big>[[H7042|קְלִיטָא]]</big>**

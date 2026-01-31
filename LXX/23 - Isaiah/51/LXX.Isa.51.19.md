@@ -7,24 +7,24 @@ These two [things] are come unto thee; who shall be sorry for thee? desolation, 
 These pairs have befallen you: devastation and destruction, famine and sword. Who will grieve for you? Who can comfort you?<small><sub>**MT:**</sub></small>
 [[Isa.51.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.18|<< Isaiah 51:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.20|Isaiah 51:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Therefore | <big><span class="asgreek">διό</span></big> <sup><small><small>[[G1352]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are adverse | <big><span class="asgreek">αντικείμενά</span></big> <sup><small><small>[[G0480]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will grieve with | <big><span class="asgreek">συλλυπηθήσεται</span></big> <sup><small><small>[[G4818]]</small></small></sup> |
-| you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| A calamitous downfall, | <big><span class="asgreek">πτώμα</span></big> <sup><small><small>[[G4430]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| defeat, | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| hunger, | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sword; | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will comfort | <big><span class="asgreek">παρακαλέσει</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Therefore | **<big>[[G1352\|διό]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| are adverse | **<big>[[G0480\|αντικείμενά]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| will grieve with | **<big>[[G4818\|συλλυπηθήσεται]]</big>** |
+| you? | **<big>[[G1473\|σοι]]</big>** |
+| A calamitous downfall, | **<big>[[G4430\|πτώμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| defeat, | **<big>[[G4938\|σύντριμμα]]</big>** |
+| hunger, | **<big>[[G3042\|λιμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sword; | **<big>[[G3162\|μάχαιρα]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| will comfort | **<big>[[G3870\|παρακαλέσει]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
 [[Isa.51.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.18|<< Isaiah 51:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.20|Isaiah 51:20 >>]]</td></tr></table>
 
 

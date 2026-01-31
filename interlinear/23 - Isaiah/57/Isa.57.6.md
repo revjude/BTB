@@ -6,23 +6,23 @@ Your portion is among the smooth stones of the valley; indeed, they are your lot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] among [the] smooth [stones] of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חַלְּקֵי </big></span><small><small><sup>[[H2511]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.le.kei- <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wadi  | <span class="ashebrew"><big>נַ֣חַל </big></span><small><small><sup>[[H5158A]]</sup></small></small> &#8207;| Na.chal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| portion your  | <span class="ashebrew"><big>חֶלְקֵ֔ </big></span><small><small><sup>[[H2506A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| chel.Ke <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֥ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֖ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] allotted portion your  | <span class="ashebrew"><big>גּוֹרָלֵ֑ </big></span><small><small><sup>[[H1486]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| go.ra.Le <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֞ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have poured out  | <span class="ashebrew"><big>שָׁפַ֥כְתְּ </big></span><small><small><sup>[[H8210G]]</sup></small></small> &#8207;| sha.Fakht <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a drink offering  | <span class="ashebrew"><big>נֶ֙סֶךְ֙ </big></span><small><small><sup>[[H5262]]</sup></small></small> &#8207;| ne.sekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have offered up  | <span class="ashebrew"><big>הֶעֱלִ֣ית </big></span><small><small><sup>[[H5927H]]</sup></small></small> &#8207;| he.'e.Lit <small><sup>[[HVhp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a grain offering  | <span class="ashebrew"><big>מִנְחָ֔ה </big></span><small><small><sup>[[H4503G]]</sup></small></small> &#8207;| min.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ on  | <span class="ashebrew"><big>הַ֥ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTi]]</sup></small> 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these [things]  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I relent  | <span class="ashebrew"><big>אֶנָּחֵֽם </big></span><small><small><sup>[[H5162H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.na.Chem <small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] among [the] smooth [stones] of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2511\|חַלְּקֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.le.kei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi  |**<big>&#8207;[[H5158A\|נַ֣חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| portion your  |**<big>&#8207;[[H2506A\|חֶלְקֵ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| chel.Ke<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֥ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֖ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] allotted portion your  |**<big>&#8207;[[H1486\|גּוֹרָלֵ֑]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| go.ra.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֞ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have poured out  |**<big>&#8207;[[H8210G\|שָׁפַ֥כְתְּ]]&#8207; </big>**| sha.Fakht<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a drink offering  |**<big>&#8207;[[H5262\|נֶ֙סֶךְ֙]]&#8207; </big>**| ne.sekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have offered up  |**<big>&#8207;[[H5927H\|הֶעֱלִ֣ית]]&#8207; </big>**| he.'e.Lit<small><sup>[[HVhp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a grain offering  |**<big>&#8207;[[H4503G\|מִנְחָ֔ה]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ on  |**<big>&#8207;[[H9008\|הַ֥]]&#8207;&#8207;[[H5921A\|עַל]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I relent  |**<big>&#8207;[[H5162H\|אֶנָּחֵֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.na.Chem<small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
 

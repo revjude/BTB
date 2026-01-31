@@ -11,30 +11,30 @@ Hate evil and love good; establish justice in the gate. Perhaps the LORD, the Go
 > $\quad$ referenced by: [[Rom.12.9|Rom 12:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We have detested | <big><span class="asgreek">μεμισήκαμεν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil \[things\], | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we loved | <big><span class="asgreek">ηγαπήσαμεν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\]. | <big><span class="asgreek">καλά</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| restore | <big><span class="asgreek">αποκαταστήσατε</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should show mercy on | <big><span class="asgreek">ελεήση</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| residue | <big><span class="asgreek">περιλοίπους</span></big> <sup><small><small>[[G8738]]</small></small></sup> |
-| of Joseph. | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| We have detested | **<big>[[G3404\|μεμισήκαμεν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| evil \[things\], | **<big>[[G4190\|πονηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we loved | **<big>[[G0025\|ηγαπήσαμεν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| good \[things\]. | **<big>[[G2570\|καλά]]</big>** |
+| Then | **<big>[[G2532\|και]]</big>** |
+| restore | **<big>[[G0600\|αποκαταστήσατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλαις]]</big>** |
+| judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should show mercy on | **<big>[[G1653\|ελεήση]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| residue | **<big>[[G8738\|περιλοίπους]]</big>** |
+| of Joseph. | **<big>[[G2501\|Ιωσήφ]]</big>** |
 [[Amos.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.14|<< Amos 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.16|Amos 5:16 >>]]</td></tr></table>
 
 

@@ -6,13 +6,13 @@ Pray for the peace of Jerusalem: “May those who love you prosper.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.5|<< Psalms 122:5]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.7|Psalms 122:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ask for  | <span class="ashebrew"><big>שַׁ֭אֲלוּ </big></span><small><small><sup>[[H7592]]</sup></small></small> &#8207;| Sha.'a.lu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] peace of  | <span class="ashebrew"><big>שְׁל֣וֹם </big></span><small><small><sup>[[H7965G]]</sup></small></small> &#8207;| she.Lom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may they be at ease  | <span class="ashebrew"><big>יִ֝שְׁלָ֗יוּ </big></span><small><small><sup>[[H7951]]</sup></small></small> &#8207;| yish.La.yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] love you  | <span class="ashebrew"><big>אֹהֲבָֽיִ </big></span><small><small><sup>[[H0157G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'o.ha.Va.yi <small><sup>[[HVqrmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ask for  |**<big>&#8207;[[H7592\|שַׁ֭אֲלוּ]]&#8207; </big>**| Sha.'a.lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] peace of  |**<big>&#8207;[[H7965G\|שְׁל֣וֹם]]&#8207; </big>**| she.Lom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they be at ease  |**<big>&#8207;[[H7951\|יִ֝שְׁלָ֗יוּ]]&#8207; </big>**| yish.La.yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] love you  |**<big>&#8207;[[H0157G\|אֹהֲבָֽיִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.ha.Va.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.5|<< Psalms 122:5]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.7|Psalms 122:7 >>]]</td></tr></table>
 
 

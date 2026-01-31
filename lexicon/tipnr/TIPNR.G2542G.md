@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Caesarea Philippi</span> was the location where Peter acknowledged Jesus as the Messiah and Son of God.
 - A location first mentioned at [[Matt.16.13|Mat.16.13]]; 
-- only referred to as Caesarea\_Philippi<[[G2542G]]><[[G5376K]]> \(<span class='tipnrLangGreek'>Καισάρεια</span> <span class='tipnrLangGreek'>Φίλιππος</span>\).
+- only referred to as Caesarea\_Philippi **<big>[[G2542|Καισάρεια]]</big>** **<big>[[G5376|Φίλιππος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.2480599128704,35.69463725353769&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Jesus' conversation with his disciples at Caesarea Philippi marked a turning poi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Caesarea/ Philippi | [<span class='tipnrLangGreek'>Καισάρεια</span>](G2542G)[<span class='tipnrLangGreek'>Φίλιππος</span>](G5376K) <small>*Greek*</small> | 2x | [[Mat.16.13] & [Mrk.8.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesarea\*\|reference=Mat.16.13;Mrk.8.27) |
-All Strong's for **Caesarea_Philippi**: \[[[G2542G]]\]
+| Caesarea/ Philippi | [<span class='tipnrLangGreek'>Καισάρεια</span>](G2542G)[<span class='tipnrLangGreek'>Φίλιππος</span>](G5376K) | 2x | [[Mat.16.13] & [Mrk.8.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesarea\*\|reference=Mat.16.13;Mrk.8.27) |
+All entries for **Caesarea Philippi**:  **<big>[[G2542|Καισάρεια]]</big>**

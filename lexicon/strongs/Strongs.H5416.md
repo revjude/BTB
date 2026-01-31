@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָתָן‎</span></big> **Nâthân** <small>*(naw-thawn')*</small> ==**Nathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup>; given</small>
+**<big><span class="ashebrew">‎נָתָן‎</span></big>** **Nâthân** <small>*(naw-thawn')*</small> ==**Nathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5414|‎נָתַן‎]]</big>**; given</small>
 
 $\quad$ Nathan.
 - § Nathan = *"giver"*
@@ -15,4 +15,4 @@ $\quad$ Nathan.
 **8)** a man with a foreign wife in the time of Ezra
 **9)** head of a family of Israel who shall mourn when they look on Him whom they pierced
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ναθάν</span><sup><small>[[G3481]]</small></sup>
+<small>See Greek: </small>**<big>[[G3481|Ναθάν]]</big>**

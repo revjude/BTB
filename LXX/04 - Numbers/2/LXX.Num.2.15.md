@@ -7,20 +7,20 @@ And his host, and those that were numbered of them, [were] forty and five thousa
 and his division numbers 45,650.<small><sub>**MT:**</sub></small>
 [[Num.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.14|<< Numbers 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.16|Numbers 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of his force | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being numbered -- | <big><span class="asgreek">επεσκεμμένοι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty. | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of his force | **<big>[[G1411\|δύναμις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| being numbered -- | **<big>[[G1980\|επεσκεμμένοι]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty. | **<big>[[G4004\|πεντήκοντα]]</big>** |
 [[Num.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.14|<< Numbers 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.16|Numbers 2:16 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ But her end is bitter as wormwood, sharp as a twoedged sword.
 in the end she is bitter as wormwood, sharp as a double-edged sword.<small><sub>**MT:**</sub></small>
 [[Prov.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.3|<< Proverbs 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.5|Proverbs 5:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Afterwards | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
-| however | <big><span class="asgreek">μέντοι</span></big> <sup><small><small>[[G3305]]</small></small></sup> |
-| more bitter | <big><span class="asgreek">πικρότερον</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
-| than bile | <big><span class="asgreek">χολής</span></big> <sup><small><small>[[G5521]]</small></small></sup> |
-| you shall find \[it\] | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being more sharpened | <big><span class="asgreek">ηκονημένον</span></big> <sup><small><small>[[G6193]]</small></small></sup> |
-| rather than | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
-| sword | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| a double-edged | <big><span class="asgreek">διστόμου</span></big> <sup><small><small>[[G1366]]</small></small></sup> |
+| Afterwards | **<big>[[G5305\|ύστερον]]</big>** |
+| however | **<big>[[G3305\|μέντοι]]</big>** |
+| more bitter | **<big>[[G4089\|πικρότερον]]</big>** |
+| than bile | **<big>[[G5521\|χολής]]</big>** |
+| you shall find \[it\] | **<big>[[G2147\|ευρήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being more sharpened | **<big>[[G6193\|ηκονημένον]]</big>** |
+| rather than | **<big>[[G3123\|μάλλον]]</big>** |
+| sword | **<big>[[G3162\|μαχαίρας]]</big>** |
+| a double-edged | **<big>[[G1366\|διστόμου]]</big>** |
 [[Prov.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.3|<< Proverbs 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.5|Proverbs 5:5 >>]]</td></tr></table>
 
 

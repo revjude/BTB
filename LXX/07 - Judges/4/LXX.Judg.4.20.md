@@ -7,37 +7,37 @@ Again he said unto her, Stand in the door of the tent, and it shall be, when any
 “Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”<small><sub>**MT:**</sub></small>
 [[Judg.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.21|Judges 4:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Stand | <big><span class="asgreek">στήθι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent! | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| a man | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should ask | <big><span class="asgreek">ερωτήση</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| here | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| That | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| There is not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| Stand | **<big>[[G2476\|στήθι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| door | **<big>[[G2374\|θύρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent! | **<big>[[G4633\|σκηνής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| a man | **<big>[[G5100\|τις]]</big>** |
+| should come | **<big>[[G2064\|έλθη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should ask | **<big>[[G2065\|ερωτήση]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should say | **<big>[[G2036\|είπη]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| Is | **<big>[[G1510\|έστιν]]</big>** |
+| here | **<big>[[G7263\|ενταύθα]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| That | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| There is not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
 [[Judg.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.21|Judges 4:21 >>]]</td></tr></table>
 
 

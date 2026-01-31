@@ -7,35 +7,35 @@ Therefore thus saith the Lord GOD; Your slain whom ye have laid in the midst of 
 Therefore this is what the Lord GOD says: The slain you have laid within this city are the meat, and the city is the pot; but I will remove you from it.<small><sub>**MT:**</sub></small>
 [[Ezek.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.6|<< Ezekiel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.8|Ezekiel 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your dead | <big><span class="asgreek">νεκρούς</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you struck | <big><span class="asgreek">επατάξατε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats, | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| and she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kettle. | <big><span class="asgreek">λέβης</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will lead out | <big><span class="asgreek">εξάξω</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of her. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| Your dead | **<big>[[G3498\|νεκρούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you struck | **<big>[[G3960\|επατάξατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of her, | **<big>[[G1473\|αυτής]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| are | **<big>[[G1510\|εισί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| meats, | **<big>[[G2907\|κρέα]]</big>** |
+| and she | **<big>[[G3778\|αύτη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| kettle. | **<big>[[G8172\|λέβης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| I will lead out | **<big>[[G1806\|εξάξω]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of her. | **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.6|<< Ezekiel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.8|Ezekiel 11:8 >>]]</td></tr></table>
 
 

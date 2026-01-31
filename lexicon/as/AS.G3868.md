@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">παρ-αιτέομαι</span></span>, <span class="asgreek">-οῦμαι</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">בּקשׁ</span> <small><sup>[[H1245]]</sup></small> pi., etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">παρ-αιτέομαι</span></span>, <span class="asgreek">-οῦμαι</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1245|בּקשׁ]]</big>** pi., etc.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to beg of</span> or <span class="asitalic">from</span> another: [[Mark.15.6|Mk 15:6]] (Rec. <span class="asgreek">ὅνπερ ᾐτοῦντο</span>, v. Field, <span class="asitalic">Notes</span>, 43).</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to deprecate</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> prop., c. neg., <span class="asitalic">to entreat</span> that <span class="asitalic">not</span> (Thuc., al.): [[Heb.12.19|He 12:19]];</span>

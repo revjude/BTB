@@ -7,44 +7,44 @@ And as for me, when I came from Padan, Rachel died by me in the land of Canaan i
 Now as for me, when I was returning from Paddan, to my sorrow Rachel died along the way in the land of Canaan, some distance from Ephrath. So I buried her there beside the road to Ephrath” (that is, Bethlehem).<small><sub>**MT:**</sub></small>
 [[Gen.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.6|<< Genesis 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.8|Genesis 48:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| I came | <big><span class="asgreek">ηρχόμην</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Mesopotamia | <big><span class="asgreek">Μεσοποταμίας</span></big> <sup><small><small>[[G3318]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Syria, | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| died | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| \[at\] my approaching | <big><span class="asgreek">εγγίζοντός</span></big> <sup><small><small>[[G1448]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| down by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| course of the horses | <big><span class="asgreek">ιππόδρομον</span></big> <sup><small><small>[[G7729]]</small></small></sup> |
-| of Habratha | <big><span class="asgreek">Χαβραθά</span></big> <sup><small><small>[[H3530]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming into | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| Ephrath. | <big><span class="asgreek">Εφραθά</span></big> <sup><small><small>[[H6084]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I buried | <big><span class="asgreek">κατώρυξα</span></big> <sup><small><small>[[G7978]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| course of the horses -- | <big><span class="asgreek">ιπποδρόμου</span></big> <sup><small><small>[[G7729]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Beth-lehem. | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
+| But I, | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| I came | **<big>[[G2064\|ηρχόμην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Mesopotamia | **<big>[[G3318\|Μεσοποταμίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Syria, | **<big>[[G4947\|Συρίας]]</big>** |
+| died | **<big>[[G0599\|απέθανε]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your mother | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Canaan | **<big>[[H3668\|Χαναάν]]</big>** |
+| \[at\] my approaching | **<big>[[G1448\|εγγίζοντός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| down by | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| course of the horses | **<big>[[G7729\|ιππόδρομον]]</big>** |
+| of Habratha | **<big>[[H3530\|Χαβραθά]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| coming into | **<big>[[G2064\|ελθείν]]</big>** |
+| Ephrath. | **<big>[[H6084\|Εφραθά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I buried | **<big>[[G7978\|κατώρυξα]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| course of the horses -- | **<big>[[G7729\|ιπποδρόμου]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| is | **<big>[[G1510\|έστι]]</big>** |
+| Beth-lehem. | **<big>[[G0965\|Βηθλεέμ]]</big>** |
 [[Gen.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.6|<< Genesis 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.8|Genesis 48:8 >>]]</td></tr></table>
 
 

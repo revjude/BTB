@@ -7,38 +7,38 @@ Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose w
 Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, for all His works are true and all His ways are just. And He is able to humble those who walk in pride.<small><sub>**MT:**</sub></small>
 [[Dan.4.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.36|<< Daniel 4:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.1|Daniel 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| praise | <big><span class="asgreek">αινώ</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| greatly exalt | <big><span class="asgreek">υπερυψώ</span></big> <sup><small><small>[[G5251]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glorify | <big><span class="asgreek">δοξάζω</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] true, | <big><span class="asgreek">αληθινά</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his paths | <big><span class="asgreek">τρίβοι αυτού</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| equitable, | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευομένους</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| pride | <big><span class="asgreek">υπερηφανία</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
-| he is able | <big><span class="asgreek">δύναται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to humble. | <big><span class="asgreek">ταπεινώσαι</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| praise | **<big>[[G0134\|αινώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| greatly exalt | **<big>[[G5251\|υπερυψώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glorify | **<big>[[G1392\|δοξάζω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his works | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] true, | **<big>[[G0228\|αληθινά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his paths | **<big>[[G5147\|τρίβοι αυτού]]</big>** |
+| equitable, | **<big>[[G2920\|κρίσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| going | **<big>[[G4198\|πορευομένους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| pride | **<big>[[G5243\|υπερηφανία]]</big>** |
+| he is able | **<big>[[G1410\|δύναται]]</big>** |
+| to humble. | **<big>[[G5013\|ταπεινώσαι]]</big>** |
 [[Dan.4.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.36|<< Daniel 4:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.1|Daniel 5:1 >>]]</td></tr></table>
 
 

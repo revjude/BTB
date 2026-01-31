@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲצַרְמָוֶת‎</span></big> **Chătsarmâveth** <small>*(khats-ar-maw'-veth)*</small> ==**Hazarmaveth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצֵר‎</span><sup><small>[[H2691]]</small></sup> and <span class="ashebrew">‎מָוֶת‎</span><sup><small>[[H4194]]</small></sup>; village of death</small>
+**<big><span class="ashebrew">‎חֲצַרְמָוֶת‎</span></big>** **Chătsarmâveth** <small>*(khats-ar-maw'-veth)*</small> ==**Hazarmaveth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2691|‎חָצֵר‎]]</big>** and **<big>[[H4194|‎מָוֶת‎]]</big>**; village of death</small>
 
 $\quad$ Hazarmaveth.
 - § Hazarmaveth = *"village of death"*

@@ -7,17 +7,17 @@ Then he said unto him, Come home with me, and eat bread.
 So the prophet said to the man of God, “Come home with me and eat some bread.”<small><sub>**MT:**</sub></small>
 [[1Kgs.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.14|<< 1 Kings 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.16|1 Kings 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Come | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread! | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Come | **<big>[[G1204\|δεύρο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eat | **<big>[[G2068\|φάγε]]</big>** |
+| bread! | **<big>[[G0740\|άρτον]]</big>** |
 [[1Kgs.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.14|<< 1 Kings 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.16|1 Kings 13:16 >>]]</td></tr></table>
 
 

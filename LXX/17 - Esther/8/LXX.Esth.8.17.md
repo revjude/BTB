@@ -7,37 +7,37 @@ And in every province, and in every city, whithersoever the king’s commandment
 In every province and every city, wherever the king’s edict and decree reached, there was joy and gladness among the Jews, with feasting and celebrating. And many of the people of the land themselves became Jews, because the fear of the Jews had fallen upon them.<small><sub>**MT:**</sub></small>
 [[Esth.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.16|<< Esther 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.1|Esther 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[In each\] | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| was displayed | <big><span class="asgreek">εξετέθη</span></big> <sup><small><small>[[G1620]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| public notice | <big><span class="asgreek">έκθεμα</span></big> <sup><small><small>[[G7092]]</small></small></sup> |
-| \[there was\] joy | <big><span class="asgreek">χαρά</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| \[among\] the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews, | <big><span class="asgreek">Ιουδαίοις</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| \[with\] toasting | <big><span class="asgreek">κώθων</span></big> <sup><small><small>[[G8139]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gladness. | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| were circumcised, | <big><span class="asgreek">περιετέμοντο</span></big> <sup><small><small>[[G4059]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[were\] Jewish-like | <big><span class="asgreek">Ιουδάϊζον</span></big> <sup><small><small>[[G2450]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews. | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| \[In each\] | **<big>[[G2596\|κατά]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| place | **<big>[[G5561\|χώραν]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| was displayed | **<big>[[G1620\|εξετέθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| public notice | **<big>[[G7092\|έκθεμα]]</big>** |
+| \[there was\] joy | **<big>[[G5479\|χαρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| \[among\] the | **<big>[[G3588\|τοις]]</big>** |
+| Jews, | **<big>[[G2453\|Ιουδαίοις]]</big>** |
+| \[with\] toasting | **<big>[[G8139\|κώθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gladness. | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| were circumcised, | **<big>[[G4059\|περιετέμοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[were\] Jewish-like | **<big>[[G2450\|Ιουδάϊζον]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fear | **<big>[[G5401\|φόβον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Jews. | **<big>[[G2453\|Ιουδαίων]]</big>** |
 [[Esth.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.16|<< Esther 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.1|Esther 9:1 >>]]</td></tr></table>
 
 

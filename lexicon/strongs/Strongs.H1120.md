@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּמוֹת‎</span></big> **Bâmôwth** <small>*(baw-moth')*</small> ==**Bamoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎בָּמָה‎</span><sup><small>[[H1116]]</small></sup>; heights; or (fully) <span class="ashebrew">בָּמוֹת בַּעַל</span> **Bâmôwth Baʻal** <small>*(baw-moth' bah'-al)*</small>; from the same and <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup>; heights of Baal</small>
+**<big><span class="ashebrew">‎בָּמוֹת‎</span></big>** **Bâmôwth** <small>*(baw-moth')*</small> ==**Bamoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H1116|‎בָּמָה‎]]</big>**; heights; or (fully) **<big><span class="ashebrew">בָּמוֹת בַּעַל</span></big>** **Bâmôwth Baʻal** <small>*(baw-moth' bah'-al)*</small>; from the same and **<big>[[H1168|‎בַּעַל‎]]</big>**; heights of Baal</small>
 
 $\quad$ Bamoth, Bamoth-baal.
 - § Bamoth = *"high places" or "great high place"*

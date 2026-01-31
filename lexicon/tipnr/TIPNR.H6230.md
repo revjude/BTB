@@ -1,8 +1,8 @@
 <small>*Esek • Well dug by Isaac's servants; named after quarrel*</small>
 
 <span class='tipnrhighlight'>Esek</span>, a well dug by Isaac's servants, named after a quarrel with local herdsmen.
-- A location near Gerar<[[H1642]]> only mentioned at [[Gen.26.20|Gen.26.20]]; 
-- only referred to as Esek<[[H6230]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ק</span>\).
+- A location near Gerar **<big>[[H1642|גְּרָר]]</big>** only mentioned at [[Gen.26.20|Gen.26.20]]; 
+- only referred to as Esek **<big>[[H6230|עֵשֶׂק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.39129109635703,34.56057015639144&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The incident at Esek demonstrates the ongoing tensions between Isaac and the loc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Esek | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ק</span>](H6230) <small>*Hebrew*</small> | 1x | [Gen.26.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Esek\*\|reference=Gen.26.20) |
-All Strong's for **Esek**: \[[[H6230]]\]
+| Esek | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ק</span>](H6230) | 1x | [Gen.26.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Esek\*\|reference=Gen.26.20) |
+All entries for **Esek**:  **<big>[[H6230|עֵשֶׂק]]</big>**

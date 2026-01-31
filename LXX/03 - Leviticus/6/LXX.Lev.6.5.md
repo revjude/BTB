@@ -7,23 +7,23 @@ Or all that about which he hath sworn falsely; he shall even restore it in the p
 or anything else about which he has sworn falsely. He must make restitution in full, add a fifth of the value, and pay it to the owner on the day he acknowledges his guilt.<small><sub>**MT:**</sub></small>
 [[Lev.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.4|<< Leviticus 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.6|Leviticus 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his trespass \[offering\] | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall bring | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| an unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| \[the\] value | <big><span class="asgreek">τιμής</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he trespassed. | <big><span class="asgreek">επλημμέλησε</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| for his trespass \[offering\] | **<big>[[G8811\|πλημμελείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall bring | **<big>[[G5342\|οίσει]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| an unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| flocks, | **<big>[[G4263\|προβάτων]]</big>** |
+| \[the\] value | **<big>[[G5092\|τιμής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| he trespassed. | **<big>[[G8812\|επλημμέλησε]]</big>** |
 [[Lev.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.4|<< Leviticus 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.6|Leviticus 6:6 >>]]</td></tr></table>
 
 

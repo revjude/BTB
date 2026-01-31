@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gebal</span>, a Phoenician city known for its skilled builders, was allied against Israel and provided materials for Solomon's temple.
 - A location first mentioned at [[Josh.13.5|Jos.13.5]]; 
-- referred to as Gebal<[[H1380]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>\), or Gebal<[[H1381]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>\), or Gebalite or Gebal<[[H1382]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Gebal **<big>[[H1380|גְּבַל]]</big>**, or Gebal **<big>[[H1381|גְּבָל]]</big>**, or Gebalite or Gebal **<big>[[H1382|גִּבְלִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.11910360710159,35.6461419556213&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,8 +18,8 @@ The city of Gebal has a long history, with evidence of occupation dating back to
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gebal | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>](H1380) <small>*Hebrew*</small> | 1x | [Ezk.27.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=Ezk.27.9) |
-| Gebal | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H1381) <small>*Hebrew*</small> | 1x | [Psa.83.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=Psa.83.7) |
-| Gebalite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H1382) <small>*Hebrew*</small> | 1x | [Jos.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebalite\*\|reference=Jos.13.5) |
-| Gebal | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H1382) <small>*Hebrew*</small> | 1x | [1Ki.5.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=1Ki.5.18) |
-All Strong's for **Gebal**: \[[[H1380]]\] \[[[H1381]]\] \[[[H1382]]\]
+| Gebal | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>](H1380) | 1x | [Ezk.27.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=Ezk.27.9) |
+| Gebal | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H1381) | 1x | [Psa.83.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=Psa.83.7) |
+| Gebalite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H1382) | 1x | [Jos.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebalite\*\|reference=Jos.13.5) |
+| Gebal | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H1382) | 1x | [1Ki.5.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gebal\*\|reference=1Ki.5.18) |
+All entries for **Gebal**:  **<big>[[H1380|גְּבַל]]</big>** ☩  **<big>[[H1381|גְּבָל]]</big>** ☩  **<big>[[H1382|גִּבְלִי]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרַחְמְאֵלִי‎</span></big> **Yᵉrachmᵉʼêlîy** <small>*(yer-akh-meh-ay-lee')*</small> ==**Jerahmeelite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎יְרַחְמְאֵל‎</span><sup><small>[[H3396]]</small></sup></small>
+**<big><span class="ashebrew">‎יְרַחְמְאֵלִי‎</span></big>** **Yᵉrachmᵉʼêlîy** <small>*(yer-akh-meh-ay-lee')*</small> ==**Jerahmeelite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H3396|‎יְרַחְמְאֵל‎]]</big>**</small>
 
 $\quad$ Jerahmeelites.
 - § Jerahmeelites = *see Jerahmeel "may God have pity"*

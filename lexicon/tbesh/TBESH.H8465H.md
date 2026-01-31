@@ -1,4 +1,3 @@
-<span class="ashebrew">‎תַּ֫חַן‎</span> <small>***(ta.chan)***</small> ==**Tahan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Ephraim living at the time of Divided Monarchy, only mentioned at [[1Chr.7.25|1Ch.7.25]]
--  son of: Telah ([[H8520]])
--  father of: Ladan ([[H3936]])
+-  son of: Telah (**<big>[[H8520|תֶּלַח]]</big>**)
+-  father of: Ladan (**<big>[[H3936|לַעְדָּן]]</big>**)

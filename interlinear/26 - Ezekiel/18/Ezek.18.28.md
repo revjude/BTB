@@ -6,18 +6,18 @@ Because he considered and turned from all the transgressions he had committed, h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he saw  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּרְאֶ֣ה </big></span><small><small><sup>[[H7200H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yir.'Eh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he turned away  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֔שָׁב </big></span><small><small><sup>[[H7725O]]</sup></small></small> &#8207;[^1] [^2] | va <small><sup>[[Hc]]</sup></small> i.ya.shov <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| from all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgressions his  | <span class="ashebrew"><big>פְּשָׁעָ֖י </big></span><small><small><sup>[[H6588]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| pe.sha.'A <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had done  | <span class="ashebrew"><big>עָשָׂ֑ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<live>  | <span class="ashebrew"><big>חָי֥וֹ </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| cha.Yo <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will live  | <span class="ashebrew"><big>יִחְיֶ֖ה </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| yich.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  | <span class="ashebrew"><big>יָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200H\|יִּרְאֶ֣ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'Eh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he turned away  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725O\|יָּ֔שָׁב]]&#8207; </big>**[^1] [^2] | va<small><sup>[[Hc]]</sup></small> i.ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgressions his  |**<big>&#8207;[[H6588\|פְּשָׁעָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| pe.sha.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had done  |**<big>&#8207;[[H6213H\|עָשָׂ֑ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<live>  |**<big>&#8207;[[H2421\|חָי֥וֹ]]&#8207; </big>**| cha.Yo<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will live  |**<big>&#8207;[[H2421\|יִחְיֶ֖ה]]&#8207; </big>**| yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  |**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
 [^1]: ==L== spelled: **<span class="ashebrew"><big>וַיָּ֔שָׁוב</big></span>**

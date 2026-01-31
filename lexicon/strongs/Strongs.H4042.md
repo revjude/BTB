@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָגַן‎</span></big> **mâgan** <small>*(maw-gan')*</small> ==**to deliver**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a denominative from <span class="ashebrew">‎מָגֵן‎</span><sup><small>[[H4043]]</small></sup></small>
+**<big><span class="ashebrew">‎מָגַן‎</span></big>** **mâgan** <small>*(maw-gan')*</small> ==**to deliver**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a denominative from **<big>[[H4043|‎מָגֵן‎]]</big>**</small>
 
 $\quad$ deliver.
 - properly, ***to shield***
@@ -8,4 +8,4 @@ $\quad$ deliver.
 
 **1)** (Piel) to deliver up, give, deliver
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup>
+<small>See Greek: </small>**<big>[[G3860|παραδίδωμι]]</big>**

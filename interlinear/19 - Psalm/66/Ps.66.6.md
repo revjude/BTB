@@ -6,17 +6,17 @@ He turned the sea into dry land; they passed through the waters on foot; there w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.5|<< Psalms 66:5]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.7|Psalms 66:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he turned  | <span class="ashebrew"><big>הָ֤פַךְ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| Ha.fakh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea  | <span class="ashebrew"><big>יָ֨ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into dry land  | <span class="ashebrew"><big>לְֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יַבָּשָׁ֗ה </big></span><small><small><sup>[[H3004]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ya.ba.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the river  | <span class="ashebrew"><big>בַּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נָּהָר </big></span><small><small><sup>[[H5104H]]</sup></small></small> &#8207;| Ba. <small><sup>[[HRd]]</sup></small> na.hor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they passed  | <span class="ashebrew"><big>יַֽעַבְר֣וּ </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| ya.'av.Ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on foot  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָ֑גֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Ra.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֝֗ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us rejoice  | <span class="ashebrew"><big>נִשְׂמְחָה </big></span><small><small><sup>[[H8055]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| nis.me.chah- <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in him  | <span class="ashebrew"><big>בּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| b <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he turned  |**<big>&#8207;[[H2015\|הָ֤פַךְ]]&#8207; </big>**| Ha.fakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea  |**<big>&#8207;[[H3220G\|יָ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into dry land  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H3004\|יַבָּשָׁ֗ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.ba.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the river  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H5104H\|נָּהָר]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> na.hor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they passed  |**<big>&#8207;[[H5674A\|יַֽעַבְר֣וּ]]&#8207; </big>**| ya.'av.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on foot  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7272\|רָ֑גֶל]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֝֗ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us rejoice  |**<big>&#8207;[[H8055\|נִשְׂמְחָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| nis.me.chah-<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  |**<big>&#8207;[[H9003\|בּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.5|<< Psalms 66:5]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.7|Psalms 66:7 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And David said unto him, How wast thou not afraid to stretch forth thine hand to
 So David asked him, “Why were you not afraid to lift your hand to destroy the LORD’s anointed?”<small><sub>**MT:**</sub></small>
 [[2Sam.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.13|<< 2 Samuel 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.15|2 Samuel 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| How \[is it\] | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| you do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">εφοβήθης</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| to bear | <big><span class="asgreek">επενεγκείν</span></big> <sup><small><small>[[G2018]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">διαφθείραι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anointed one | <big><span class="asgreek">χριστόν</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| How \[is it\] | **<big>[[G4459\|πως]]</big>** |
+| you do not | **<big>[[G3756\|ουκ]]</big>** |
+| fear | **<big>[[G5399\|εφοβήθης]]</big>** |
+| to bear | **<big>[[G2018\|επενεγκείν]]</big>** |
+| your hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to utterly destroy | **<big>[[G1311\|διαφθείραι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| anointed one | **<big>[[G5547\|χριστόν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Sam.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.13|<< 2 Samuel 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.15|2 Samuel 1:15 >>]]</td></tr></table>
 
 

@@ -6,20 +6,20 @@ None of you are to approach any close relative to have sexual relations. I am th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.5|<< Leviticus 18:5]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.7|Leviticus 18:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a man  | <span class="ashebrew"><big>אִ֥ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִישׁ֙ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| relative of  | <span class="ashebrew"><big>שְׁאֵ֣ר </big></span><small><small><sup>[[H7607]]</sup></small></small> &#8207;| she.'Er <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flesh his  | <span class="ashebrew"><big>בְּשָׂר֔ </big></span><small><small><sup>[[H1320]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.sa.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will draw near  | <span class="ashebrew"><big>תִקְרְב֖וּ </big></span><small><small><sup>[[H7126G]]</sup></small></small> &#8207;| tik.re.Vu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to uncover  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גַלּ֣וֹת </big></span><small><small><sup>[[H1540I]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ga.Lot <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nakedness  | <span class="ashebrew"><big>עֶרְוָ֑ה </big></span><small><small><sup>[[H6172]]</sup></small></small> &#8207;| 'er.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֖י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| relative of  |**<big>&#8207;[[H7607\|שְׁאֵ֣ר]]&#8207; </big>**| she.'Er<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh his  |**<big>&#8207;[[H1320\|בְּשָׂר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will draw near  |**<big>&#8207;[[H7126G\|תִקְרְב֖וּ]]&#8207; </big>**| tik.re.Vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to uncover  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1540I\|גַלּ֣וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ga.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nakedness  |**<big>&#8207;[[H6172\|עֶרְוָ֑ה]]&#8207; </big>**| 'er.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.5|<< Leviticus 18:5]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.7|Leviticus 18:7 >>]]</td></tr></table>
 
 

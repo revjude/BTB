@@ -10,17 +10,17 @@ The wilderness and the solitary place shall be glad for them; and the desert sha
 The wilderness and the dry land will be glad; the desert will rejoice and blossom like a rose.<small><sub>**MT:**</sub></small>
 [[Isa.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.17|<< Isaiah 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.2|Isaiah 35:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be glad, | <big><span class="asgreek">ευφράνθητι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| O thirsting | <big><span class="asgreek">διψώσα</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| Exult, | <big><span class="asgreek">αγαλλιάσθω</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| O wilderness, | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bloom | <big><span class="asgreek">ανθείτω</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lily! | <big><span class="asgreek">κρίνον</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
+| Be glad, | **<big>[[G2165\|ευφράνθητι]]</big>** |
+| wilderness | **<big>[[G2048\|έρημος]]</big>** |
+| O thirsting | **<big>[[G1372\|διψώσα]]</big>** |
+| Exult, | **<big>[[G0021\|αγαλλιάσθω]]</big>** |
+| O wilderness, | **<big>[[G2048\|έρημος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bloom | **<big>[[G6341\|ανθείτω]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lily! | **<big>[[G2918\|κρίνον]]</big>** |
 [[Isa.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.17|<< Isaiah 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.2|Isaiah 35:2 >>]]</td></tr></table>
 
 

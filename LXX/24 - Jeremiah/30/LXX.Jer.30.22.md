@@ -7,18 +7,18 @@ And ye shall be my people, and I will be your God.
 “And you will be My people, and I will be your God.”<small><sub>**MT:**</sub></small>
 [[Jer.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.21|<< Jeremiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.23|Jeremiah 30:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έσεσθέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Lord. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be | **<big>[[G1510\|έσεσθέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a people, | **<big>[[G2992\|λαόν]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| shall be | **<big>[[G1510\|έσομαι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| Lord. | **<big>[[G2962\|κύριον]]</big>** |
 [[Jer.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.21|<< Jeremiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.23|Jeremiah 30:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Gaash • Mountain in Ephraim; burial place of Joshua*</small>
 
 <span class='tipnrhighlight'>Gaash</span>, a mountain in the region of Ephraim, was the burial place of Joshua and the homeland of two of David's mighty men.
-- A location near Timnath-heres<[[H8556A]]> first mentioned at [[Josh.24.30|Jos.24.30]]; 
-- only referred to as Gaash<[[H1608]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- A location near Timnath-heres **<big>[[H8556|תִּמְנַת חֶרֶס]]</big>** first mentioned at [[Josh.24.30|Jos.24.30]]; 
+- only referred to as Gaash **<big>[[H1608|גַּעַשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.121473,35.150392&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Mount Gaash in the Bible serves to underscore the importance of J
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gaash | [<span class='tipnrLangHebrew'>ג</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ׁ](H1608) <small>*Hebrew*</small> | 4x | [[Jos.24.30] ... [1Ch.11.32] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gaash\|reference=Jos.24.30;Jdg.2.9;2Sa.23.30;1Ch.11.32) |
-All Strong's for **Gaash**: \[[[H1608]]\]
+| Gaash | [<span class='tipnrLangHebrew'>ג</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ש</span>ׁ](H1608) | 4x | [[Jos.24.30] ... [1Ch.11.32] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gaash\|reference=Jos.24.30;Jdg.2.9;2Sa.23.30;1Ch.11.32) |
+All entries for **Gaash**:  **<big>[[H1608|גַּעַשׁ]]</big>**

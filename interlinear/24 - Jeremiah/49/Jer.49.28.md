@@ -6,29 +6,29 @@ Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| of Kedar  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>קֵדָ֣ר </big></span><small><small><sup>[[H6938]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ke.Dar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and of [the] kingdoms of  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַמְלְכ֣וֹת </big></span><small><small><sup>[[H4467]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> mam.le.Khot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hazor  | <span class="ashebrew"><big>חָצ֗וֹר </big></span><small><small><sup>[[H2674K]]</sup></small></small> &#8207;| cha.Tzor <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he attacked  | <span class="ashebrew"><big>הִכָּה֙ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| hi.Kah <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebuchadnezzar  [^1] | <span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּ֣ר </big></span><small><small><sup>[[H5019]]</sup></small></small> &#8207;[^2] | ne.vu.khad.re.tzor <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֖ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arise  | <span class="ashebrew"><big>ק֚וּמוּ </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| Ku.mu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go up  | <span class="ashebrew"><big>עֲל֣וּ </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'a.Lu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kedar  | <span class="ashebrew"><big>קֵדָ֔ר </big></span><small><small><sup>[[H6938]]</sup></small></small> &#8207;| ke.Dar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and devastate  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁדְד֖וּ </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.de.Du <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] east  | <span class="ashebrew"><big>קֶֽדֶם </big></span><small><small><sup>[[H6924G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ke.dem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Kedar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6938\|קֵדָ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ke.Dar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of [the] kingdoms of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4467\|מַמְלְכ֣וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> mam.le.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazor  |**<big>&#8207;[[H2674K\|חָצ֗וֹר]]&#8207; </big>**| cha.Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he attacked  |**<big>&#8207;[[H5221\|הִכָּה֙]]&#8207; </big>**| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  [^1]|**<big>&#8207;[[H5019\|נְבֽוּכַדְרֶאצַּ֣ר]]&#8207; </big>**[^2] | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֔ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֖ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arise  |**<big>&#8207;[[H6965B\|ק֚וּמוּ]]&#8207; </big>**| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go up  |**<big>&#8207;[[H5927G\|עֲל֣וּ]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedar  |**<big>&#8207;[[H6938\|קֵדָ֔ר]]&#8207; </big>**| ke.Dar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and devastate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7703\|שָׁדְד֖וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.de.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] east  |**<big>&#8207;[[H6924G\|קֶֽדֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
 
-[^1]: ==K==: **Nebuchadnezzar ** | <small><sup>[[H5020]]</sup></small> <span class="ashebrew"><big>נְבוּכַדְרֶאצּוֹר</big></span>  | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Nebuchadnezzar  | **<big>[[H5020|נְבוּכַדְרֶאצּוֹר]]</big> ** | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּו֣ר</big></span>**
 

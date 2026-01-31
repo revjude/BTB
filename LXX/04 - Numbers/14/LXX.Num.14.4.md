@@ -7,19 +7,19 @@ And they said one to another, Let us make a captain, and let us return into Egyp
 So they said to one another, “Let us appoint a leader and return to Egypt.”<small><sub>**MT:**</sub></small>
 [[Num.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.3|<< Numbers 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.5|Numbers 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] other | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other, | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| We should appoint | <big><span class="asgreek">δώμεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a chief, | <big><span class="asgreek">αρχηγόν</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should return | <big><span class="asgreek">αποστρέψωμεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \[the\] other | **<big>[[G2087\|έτερος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| other, | **<big>[[G2087\|ετέρω]]</big>** |
+| We should appoint | **<big>[[G1325\|δώμεν]]</big>** |
+| a chief, | **<big>[[G0747\|αρχηγόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should return | **<big>[[G0654\|αποστρέψωμεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Egypt. | **<big>[[G0125\|Αίγυπτον]]</big>** |
 [[Num.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.3|<< Numbers 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.5|Numbers 14:5 >>]]</td></tr></table>
 
 

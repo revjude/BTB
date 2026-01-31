@@ -7,36 +7,36 @@ And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: an
 Then Moses said to the LORD, “Look, You have been telling me, ‘Lead this people up,’ but You have not let me know whom You will send with me. Yet You have said, ‘I know you by name, and you have found favor in My sight.’<small><sub>**MT:**</sub></small>
 [[Exod.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.11|<< Exodus 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.13|Exodus 33:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| say to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">λέγεις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Lead | <big><span class="asgreek">ανάγαγε</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people! | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| manifested not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδήλωσάς</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall send along | <big><span class="asgreek">συναποστελείς</span></big> <sup><small><small>[[G4882]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| said to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδά</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| above | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all, | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| you have | <big><span class="asgreek">έχεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| with | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| say to me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G3004\|λέγεις]]</big>** |
+| Lead | **<big>[[G0321\|ανάγαγε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people! | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| manifested not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1213\|εδήλωσάς]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you shall send along | **<big>[[G4882\|συναποστελείς]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| said to me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G2036\|είπας]]</big>** |
+| I know | **<big>[[G1492\|οίδά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| above | **<big>[[G3844\|παρά]]</big>** |
+| all, | **<big>[[G3956\|πάντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| you have | **<big>[[G2192\|έχεις]]</big>** |
+| with | **<big>[[G3844\|παρ΄]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
 [[Exod.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.11|<< Exodus 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.13|Exodus 33:13 >>]]</td></tr></table>
 
 

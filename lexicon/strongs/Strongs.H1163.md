@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּעַט‎</span></big> **bâʻaṭ** <small>*(baw-at')*</small> ==**to kick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּעַט‎</span></big>** **bâʻaṭ** <small>*(baw-at')*</small> ==**to kick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ kick.

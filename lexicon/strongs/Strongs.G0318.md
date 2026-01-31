@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀνάγκη‎</span></big> **anánkē** <small>*(an-ang-kay')*</small> ==**necessity**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
-<small>from <span class="asgreek">ἀνά</span><sup><small>[[G0303]]</small></sup> and the base of <span class="asgreek">ἀγκάλη</span><sup><small>[[G0043]]</small></sup></small>
+**<big><span class="asgreek">‎ἀνάγκη‎</span></big>** **anánkē** <small>*(an-ang-kay')*</small> ==**necessity**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+<small>from **<big>[[G0303|‎ἀνά‎]]</big>** and the base of **<big>[[G0043|‎ἀγκάλη‎]]</big>**</small>
 
 $\quad$ distress, must needs, (of) necessity(-sary), needeth, needful.
 - constraint (literally or figuratively)

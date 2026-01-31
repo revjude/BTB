@@ -11,19 +11,19 @@ They cried out to You and were set free; they trusted in You and were not disapp
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they cried out, | <big><span class="asgreek">εκέκραξαν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were delivered; | <big><span class="asgreek">εσώθησαν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they hoped, | <big><span class="asgreek">ήλπισαν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| disgraced. | <big><span class="asgreek">κατησχύνθησαν</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| To | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| they cried out, | **<big>[[G2896\|εκέκραξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were delivered; | **<big>[[G4982\|εσώθησαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| they hoped, | **<big>[[G1679\|ήλπισαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ου]]</big>** |
+| disgraced. | **<big>[[G2617\|κατησχύνθησαν]]</big>** |
 [[Ps.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.4|<< Psalm 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.6|Psalm 22:6 >>]]</td></tr></table>
 
 

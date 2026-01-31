@@ -1,4 +1,4 @@
-part of: <small>[[G0184]]</small> 
+part of: <small>**<big>[[G0184|Ἀκελδαμά]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==χωρίον==</span>-<span class='asgreek'>ίον</span></b>, <span class='asgreek'>τό</span>, 

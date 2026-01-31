@@ -7,31 +7,31 @@ Lo, this only have I found, that God hath made man upright; but they have sought
 Only this have I found: I have discovered that God made mankind upright, but they have sought out many schemes.”<small><sub>**MT:**</sub></small>
 [[Eccl.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.28|<< Ecclesiastes 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.1|Ecclesiastes 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| behold! | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I found, | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| that | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| God dealt | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| upright | <big><span class="asgreek">ευθή</span></big> <sup><small><small>[[G7543]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sought | <big><span class="asgreek">εζήτησαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| devices | <big><span class="asgreek">λογισμούς</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλούς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| knows | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] wise? | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| knows | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] loosening | <big><span class="asgreek">λύσιν</span></big> <sup><small><small>[[G3080]]</small></small></sup> |
-| of a saying? | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| Except | **<big>[[G4133\|πλην]]</big>** |
+| behold! | **<big>[[G1492\|ίδε]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I found, | **<big>[[G2147\|εύρον]]</big>** |
+| that | **<big>[[G3739\|ο]]</big>** |
+| God dealt | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| upright | **<big>[[G7543\|ευθή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| sought | **<big>[[G2212\|εζήτησαν]]</big>** |
+| devices | **<big>[[G3053\|λογισμούς]]</big>** |
+| many | **<big>[[G4183\|πολλούς]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| knows | **<big>[[G1492\|οίδε]]</big>** |
+| \[the\] wise? | **<big>[[G4680\|σοφούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| knows | **<big>[[G1492\|οίδε]]</big>** |
+| \[the\] loosening | **<big>[[G3080\|λύσιν]]</big>** |
+| of a saying? | **<big>[[G4487\|ρήματος]]</big>** |
 [[Eccl.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.28|<< Ecclesiastes 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.1|Ecclesiastes 8:1 >>]]</td></tr></table>
 
 

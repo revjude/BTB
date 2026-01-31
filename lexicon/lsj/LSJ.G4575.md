@@ -1,4 +1,4 @@
-spelling of: <small>[[G0828]]</small> 
+spelling of: <small>**<big>[[G0828|Αὐγοῦστος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σεβαστός==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

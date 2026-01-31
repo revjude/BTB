@@ -7,20 +7,20 @@ Son of man, set thy face against mount Seir, and prophesy against it,
 “Son of man, set your face against Mount Seir and prophesy against it,<small><sub>**MT:**</sub></small>
 [[Ezek.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.1|<< Ezekiel 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.3|Ezekiel 35:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| turn | <big><span class="asgreek">επίστρεψον</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Seir, | <big><span class="asgreek">Σηείρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| turn | **<big>[[G1994\|επίστρεψον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Seir, | **<big>[[H8165b\|Σηείρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prophesy | **<big>[[G4395\|προφήτευσον]]</big>** |
+| unto | **<big>[[G1909\|επ]]</big>** |
+| it! | **<big>[[G1473\|αυτώ]]</big>** |
 [[Ezek.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.1|<< Ezekiel 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.3|Ezekiel 35:3 >>]]</td></tr></table>
 
 

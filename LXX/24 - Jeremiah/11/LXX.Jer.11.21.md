@@ -7,34 +7,34 @@ Therefore thus saith the LORD of the men of Anathoth, that seek thy life, saying
 Therefore this is what the LORD says concerning the people of Anathoth who are seeking your life and saying, “You must not prophesy in the name of the LORD, or you will die by our hand.”<small><sub>**MT:**</sub></small>
 [[Jer.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.20|<< Jeremiah 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.22|Jeremiah 11:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Anathoth, | <big><span class="asgreek">Αναθώθ</span></big> <sup><small><small>[[H6068]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητούντας</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life, | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντας</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you prophesy | <big><span class="asgreek">προφητεύσης</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and if you do not \[agree\] | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| you shall die | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our hands. | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Anathoth, | **<big>[[H6068\|Αναθώθ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| seeking | **<big>[[G2212\|ζητούντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life, | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντας]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you prophesy | **<big>[[G4395\|προφητεύσης]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and if you do not \[agree\] | **<big>[[G1490\|ει δε μη]]</big>** |
+| you shall die | **<big>[[G0599\|αποθάνη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| our hands. | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Jer.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.20|<< Jeremiah 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.22|Jeremiah 11:22 >>]]</td></tr></table>
 
 

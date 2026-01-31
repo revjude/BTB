@@ -6,21 +6,21 @@ This is what the LORD says: If I have not established My covenant with the day a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.24|<< Jeremiah 33:24]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.26|Jeremiah 33:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֚ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covenant of my  | <span class="ashebrew"><big>בְרִיתִ֖ </big></span><small><small><sup>[[H1285]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve.ri.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| daytime  | <span class="ashebrew"><big>יוֹמָ֣ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and night  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לָ֑יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> La.ye.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fixed order\<s> of  | <span class="ashebrew"><big>חֻקּ֛וֹת </big></span><small><small><sup>[[H2708]]</sup></small></small> &#8207;| chu.Kot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁמַ֥יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and earth  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have ordained  | <span class="ashebrew"><big>שָֽׂמְתִּי </big></span><small><small><sup>[[H7760A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sa.me.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant of my  |**<big>&#8207;[[H1285\|בְרִיתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.ri.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daytime  |**<big>&#8207;[[H3119\|יוֹמָ֣ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3915\|לָ֑יְלָה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> La.ye.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fixed order\<s> of  |**<big>&#8207;[[H2708\|חֻקּ֛וֹת]]&#8207; </big>**| chu.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁמַ֥יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and earth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have ordained  |**<big>&#8207;[[H7760A\|שָֽׂמְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sa.me.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.24|<< Jeremiah 33:24]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.26|Jeremiah 33:26 >>]]</td></tr></table>
 
 

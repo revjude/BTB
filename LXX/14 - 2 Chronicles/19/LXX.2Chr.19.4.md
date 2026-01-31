@@ -7,32 +7,32 @@ And Jehoshaphat dwelt at Jerusalem: and he went out again through the people fro
 Jehoshaphat lived in Jerusalem, and once again he went out among the people from Beersheba to the hill country of Ephraim and turned them back to the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
 [[2Chr.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.3|<< 2 Chronicles 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.5|2 Chronicles 19:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Beer-sheba | <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat dwelt | **<big>[[G2730\|κατώκησεν]]</big>** **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| he went forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Beer-sheba | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[2Chr.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.3|<< 2 Chronicles 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.5|2 Chronicles 19:5 >>]]</td></tr></table>
 
 

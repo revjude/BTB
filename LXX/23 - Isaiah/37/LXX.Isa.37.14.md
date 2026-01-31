@@ -10,28 +10,28 @@ And Hezekiah received the letter from the hand of the messengers, and read it: a
 So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD.<small><sub>**MT:**</sub></small>
 [[Isa.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.13|<< Isaiah 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.15|Isaiah 37:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| messengers, | <big><span class="asgreek">αγγέλων</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| read | <big><span class="asgreek">ανέγνω</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| opened | <big><span class="asgreek">ήνοιξεν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hezekiah took | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[G1478\|Εζεκίας]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| messengers, | **<big>[[G0032\|αγγέλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| read | **<big>[[G0314\|ανέγνω]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| opened | **<big>[[G0455\|ήνοιξεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Isa.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.13|<< Isaiah 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.15|Isaiah 37:15 >>]]</td></tr></table>
 
 

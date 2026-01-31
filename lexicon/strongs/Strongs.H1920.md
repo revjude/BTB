@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָדַף‎</span></big> **hâdaph** <small>*(haw-daf')*</small> ==**to thrust**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָדַף‎</span></big>** **hâdaph** <small>*(haw-daf')*</small> ==**to thrust**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cast away (out), drive, expel, thrust (away).
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to thrust, push
 $\quad$ $\quad$ **1a2)** to drive out, thrust out
 $\quad$ $\quad$ **1a3)** to depose
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατρέπω</span><sup><small>[[G0396]]</small></sup> · <span class="asgreek">ἀπωθέομαι</span><sup><small>[[G0683]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἐκδιώκω</span><sup><small>[[G1559]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup>
+<small>See Greek: </small>**<big>[[G0396|ἀνατρέπω]]</big>** · **<big>[[G0683|ἀπωθέομαι]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1559|ἐκδιώκω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G3886|παραλύω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲמָת‎</span></big> **Chămâth** <small>*(kham-awth')*</small> ==**Hamath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎חוֹמָה‎</span><sup><small>[[H2346]]</small></sup>; walled</small>
+**<big><span class="ashebrew">‎חֲמָת‎</span></big>** **Chămâth** <small>*(kham-awth')*</small> ==**Hamath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H2346|‎חוֹמָה‎]]</big>**; walled</small>
 
 $\quad$ Hamath, Hemath.
 - § Hamath = *"fortress"*

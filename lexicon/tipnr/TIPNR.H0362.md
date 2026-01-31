@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elim</span>, a desert oasis where the Israelites camped during their journey from Egypt to Mount Sinai.
 - A location first mentioned at [[Exod.15.27|Exo.15.27]]; 
-- only referred to as Elim<[[H0362]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Elim **<big>[[H0362|אֵילִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.306194,32.980924&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Elim is also mentioned in the list of Israel's journey stages in Numbers 33:9-10
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elim | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0362) <small>*Hebrew*</small> | 6x | [[Exo.15.27] ... [Num.33.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elim\*\|reference=Exo.15.27;Exo.16.1;Exo.16.1;Num.33.9;Num.33.9;Num.33.10) |
-All Strong's for **Elim**: \[[[H0362]]\]
+| Elim | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0362) | 6x | [[Exo.15.27] ... [Num.33.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elim\*\|reference=Exo.15.27;Exo.16.1;Exo.16.1;Num.33.9;Num.33.9;Num.33.10) |
+All entries for **Elim**:  **<big>[[H0362|אֵילִם]]</big>**

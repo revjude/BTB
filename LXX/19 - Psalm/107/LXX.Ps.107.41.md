@@ -7,18 +7,18 @@ Yet setteth he the poor on high from affliction, and maketh [him] families like 
 But He lifts the needy from affliction and increases their families like flocks.<small><sub>**MT:**</sub></small>
 [[Ps.107.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.40|<< Psalm 107:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.42|Psalm 107:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he helps | <big><span class="asgreek">εβοήθησε</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| \[the\] needy | <big><span class="asgreek">πένητι</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| poorness; | <big><span class="asgreek">πτωχείας</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| flocks | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| families | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| he helps | **<big>[[G0997\|εβοήθησε]]</big>** |
+| \[the\] needy | **<big>[[G3993\|πένητι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| poorness; | **<big>[[G4432\|πτωχείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G5087\|έθετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| flocks | **<big>[[G4263\|πρόβατα]]</big>** |
+| families | **<big>[[G3965\|πατριάς]]</big>** |
 [[Ps.107.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.40|<< Psalm 107:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.42|Psalm 107:42 >>]]</td></tr></table>
 
 

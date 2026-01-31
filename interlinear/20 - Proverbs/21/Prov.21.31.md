@@ -6,14 +6,14 @@ A horse is prepared for the day of battle, but victory is of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.30|<< Proverbs 21:30]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.1|Proverbs 22:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a horse  | <span class="ashebrew"><big>ס֗וּס </big></span><small><small><sup>[[H5483M]]</sup></small></small> &#8207;| Sus <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] prepared  | <span class="ashebrew"><big>מ֭וּכָן </big></span><small><small><sup>[[H3559A]]</sup></small></small> &#8207;| Mu.khon <small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for a day of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| battle  | <span class="ashebrew"><big>מִלְחָמָ֑ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [belongs] to Yahweh  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the victory  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>תְּשׁוּעָֽה </big></span><small><small><sup>[[H8668H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> te.shu.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a horse  |**<big>&#8207;[[H5483M\|ס֗וּס]]&#8207; </big>**| Sus<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] prepared  |**<big>&#8207;[[H3559A\|מ֭וּכָן]]&#8207; </big>**| Mu.khon<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a day of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  |**<big>&#8207;[[H4421\|מִלְחָמָ֑ה]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [belongs] to Yahweh  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the victory  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8668H\|תְּשׁוּעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.30|<< Proverbs 21:30]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.1|Proverbs 22:1 >>]]</td></tr></table>
 
 

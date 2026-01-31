@@ -7,24 +7,24 @@ Wherefore didst thou flee away secretly, and steal away from me; and didst not t
 Why did you run away secretly and deceive me, without even telling me? I would have sent you away with joy and singing, with tambourines and harps.<small><sub>**MT:**</sub></small>
 [[Gen.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.26|<< Genesis 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.28|Genesis 31:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you announced | <big><span class="asgreek">ανήγγειλάς</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I would have sent out | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| even | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| music, | <big><span class="asgreek">μουσικών</span></big> <sup><small><small>[[G3451]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tambourines, | <big><span class="asgreek">τυμπάνων</span></big> <sup><small><small>[[G9515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| harps. | <big><span class="asgreek">κιθάρας</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
+| For | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you announced | **<big>[[G0312\|ανήγγειλάς]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| I would have sent out | **<big>[[G1821\|εξαπέστειλα]]</big>** |
+| even | **<big>[[G0302\|αν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| music, | **<big>[[G3451\|μουσικών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tambourines, | **<big>[[G9515\|τυμπάνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| harps. | **<big>[[G2788\|κιθάρας]]</big>** |
 [[Gen.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.26|<< Genesis 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.28|Genesis 31:28 >>]]</td></tr></table>
 
 

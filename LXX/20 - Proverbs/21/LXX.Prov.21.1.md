@@ -10,24 +10,24 @@ The king’s heart [is] in the hand of the LORD, [as] the rivers of water: he tu
 The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases.<small><sub>**MT:**</sub></small>
 [[Prov.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.30|<< Proverbs 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.2|Proverbs 21:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a rush | <big><span class="asgreek">ορμή</span></big> <sup><small><small>[[G3730]]</small></small></sup> |
-| of water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[is the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of a king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| wishing | <big><span class="asgreek">θέλων</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| he should nod, | <big><span class="asgreek">νεύση</span></big> <sup><small><small>[[G3506]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| he leans | <big><span class="asgreek">έκλινεν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | **<big>[[G5618\|ώσπερ]]</big>** |
+| a rush | **<big>[[G3730\|ορμή]]</big>** |
+| of water, | **<big>[[G5204\|ύδατος]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| \[is the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of a king | **<big>[[G0935\|βασιλέως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of God; | **<big>[[G2316\|θεού]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| wishing | **<big>[[G2309\|θέλων]]</big>** |
+| he should nod, | **<big>[[G3506\|νεύση]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| he leans | **<big>[[G2827\|έκλινεν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Prov.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.30|<< Proverbs 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.2|Proverbs 21:2 >>]]</td></tr></table>
 
 

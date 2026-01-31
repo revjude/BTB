@@ -7,16 +7,16 @@ The Nethinims: the children of Ziha, the children of Hashupha, the children of T
 The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth,<small><sub>**MT:**</sub></small>
 [[Neh.7.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.45|<< Nehemiah 7:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.47|Nehemiah 7:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nethinim; | <big><span class="asgreek">Ναθηνείμ</span></big> <sup><small><small>[[H5411]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ziha, | <big><span class="asgreek">σηά</span></big> <sup><small><small>[[H6727]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hashupha, | <big><span class="asgreek">Ασηφά</span></big> <sup><small><small>[[H2817]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Tabbaoth, | <big><span class="asgreek">Ταβαώθ</span></big> <sup><small><small>[[H2884]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| Nethinim; | **<big>[[H5411\|Ναθηνείμ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ziha, | **<big>[[H6727\|σηά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hashupha, | **<big>[[H2817\|Ασηφά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Tabbaoth, | **<big>[[H2884\|Ταβαώθ]]</big>** |
 [[Neh.7.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.45|<< Nehemiah 7:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.47|Nehemiah 7:47 >>]]</td></tr></table>
 
 

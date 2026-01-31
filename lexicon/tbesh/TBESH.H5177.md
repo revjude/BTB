@@ -1,7 +1,5 @@
-<span class="ashebrew">‎נַחְשׁוֹן‎</span> <small>***(nach.shon)***</small> ==**Nahshon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living before Israel's Monarchy, first mentioned at [[Exod.6.23|Exo.6.23]]
--  son of: Amminadab ([[H5992]])
--  brother of: Elisheba ([[H0472]])
--  father of: Salmon ([[H8007]])
-- Also named: <i>Naassōn</i> (<span class='asgreek'>Ναασσών</span> "Nahshon" [[G3476]])
-
+-  son of: Amminadab (**<big>[[H5992|עַמִּינָדָב]]</big>**)
+-  brother of: Elisheba (**<big>[[H0472|אֱלִישֶׁבַע]]</big>**)
+-  father of: Salmon (**<big>[[H8007|שַׂלְמָא]]</big>**)
+- Also named: <i>Naassōn</i> (<span class='asgreek'>Ναασσών</span> "Nahshon" **<big>[[G3476|Ναασσών]]</big>**)

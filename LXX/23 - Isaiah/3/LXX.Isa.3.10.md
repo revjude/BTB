@@ -7,22 +7,22 @@ Say ye to the righteous, that [it shall be] well [with him]: for they shall eat 
 Tell the righteous it will be well with them, for they will enjoy the fruit of their labor.<small><sub>**MT:**</sub></small>
 [[Isa.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.9|<< Isaiah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.11|Isaiah 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| having said, | <big><span class="asgreek">ειπόντες</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We should bind | <big><span class="asgreek">δήσωμεν</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| inconvenient | <big><span class="asgreek">δύσχρηστος</span></big> <sup><small><small>[[G6982]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| therefore | <big><span class="asgreek">τοίνυν</span></big> <sup><small><small>[[G5106]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| produce | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their works | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall eat. | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| having said, | **<big>[[G2036\|ειπόντες]]</big>** |
+| We should bind | **<big>[[G1210\|δήσωμεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| inconvenient | **<big>[[G6982\|δύσχρηστος]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| he is | **<big>[[G1510\|εστι]]</big>** |
+| therefore | **<big>[[G5106\|τοίνυν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| produce | **<big>[[G1081\|γεννήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their works | **<big>[[G2041\|έργων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall eat. | **<big>[[G2068\|φάγονται]]</big>** |
 [[Isa.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.9|<< Isaiah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.11|Isaiah 3:11 >>]]</td></tr></table>
 
 

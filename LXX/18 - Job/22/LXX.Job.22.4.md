@@ -7,18 +7,18 @@ Will he reprove thee for fear of thee? will he enter with thee into judgment?
 Is it for your reverence that He rebukes you and enters into judgment against you?<small><sub>**MT:**</sub></small>
 [[Job.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.3|<< Job 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.5|Job 22:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| your word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιούμενος</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| will he reprove | <big><span class="asgreek">ελέγξει</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will he enter together with | <big><span class="asgreek">συνεισελεύσεταί</span></big> <sup><small><small>[[G4897]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| judgment? | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| or | **<big>[[G2228\|η]]</big>** |
+| your word | **<big>[[G3056\|λόγον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| making | **<big>[[G4160\|ποιούμενος]]</big>** |
+| will he reprove | **<big>[[G1651\|ελέγξει]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will he enter together with | **<big>[[G4897\|συνεισελεύσεταί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| judgment? | **<big>[[G2920\|κρίσιν]]</big>** |
 [[Job.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.3|<< Job 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.5|Job 22:5 >>]]</td></tr></table>
 
 

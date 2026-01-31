@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֻקָּה‎</span></big> **chuqqâh** <small>*(khook-kaw')*</small> ==**statute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חֹק‎</span><sup><small>[[H2706]]</small></sup>, and meaning substantially the same</small>
+**<big><span class="ashebrew">‎חֻקָּה‎</span></big>** **chuqqâh** <small>*(khook-kaw')*</small> ==**statute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2706|‎חֹק‎]]</big>**, and meaning substantially the same</small>
 
 $\quad$ appointed, custom, manner, ordinance, site, statute.
 - {***an enactment***
@@ -8,4 +8,4 @@ $\quad$ appointed, custom, manner, ordinance, site, statute.
 **1)** statute, ordinance, limit, enactment, something prescribed
 $\quad$ **1a)** statute
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαστολή</span><sup><small>[[G1293]]</small></sup>
+<small>See Greek: </small>**<big>[[G1293|διαστολή]]</big>**

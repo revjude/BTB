@@ -6,15 +6,15 @@ For the drunkard and the glutton will come to poverty, and drowsiness will cloth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.20|<< Proverbs 23:20]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.22|Proverbs 23:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a drunkard  | <span class="ashebrew"><big>סֹבֵ֣א </big></span><small><small><sup>[[H5433A]]</sup></small></small> &#8207;| so.Ve' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a glutton  | <span class="ashebrew"><big>וְ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זוֹלֵל </big></span><small><small><sup>[[H2151B]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> zo.lel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will become impoverished  | <span class="ashebrew"><big>יִוָּרֵ֑שׁ </big></span><small><small><sup>[[H3423I]]</sup></small></small> &#8207;| yi.va.Resh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and rags  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קְרָעִ֗ים </big></span><small><small><sup>[[H7168]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ke.ra.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will clothe [them]  | <span class="ashebrew"><big>תַּלְבִּ֥ישׁ </big></span><small><small><sup>[[H3847]]</sup></small></small> &#8207;| tal.Bish <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| drowsiness  | <span class="ashebrew"><big>נוּמָֽה </big></span><small><small><sup>[[H5124]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nu.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a drunkard  |**<big>&#8207;[[H5433A\|סֹבֵ֣א]]&#8207; </big>**| so.Ve'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a glutton  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H2151B\|זוֹלֵל]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> zo.lel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become impoverished  |**<big>&#8207;[[H3423I\|יִוָּרֵ֑שׁ]]&#8207; </big>**| yi.va.Resh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rags  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H7168\|קְרָעִ֗ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.ra.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will clothe [them]  |**<big>&#8207;[[H3847\|תַּלְבִּ֥ישׁ]]&#8207; </big>**| tal.Bish<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drowsiness  |**<big>&#8207;[[H5124\|נוּמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nu.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.20|<< Proverbs 23:20]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.22|Proverbs 23:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֶּלֶף‎</span></big> **deleph** <small>*(deh'-lef)*</small> ==**dripping**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּלַף‎</span><sup><small>[[H1811]]</small></sup></small>
+**<big><span class="ashebrew">‎דֶּלֶף‎</span></big>** **deleph** <small>*(deh'-lef)*</small> ==**dripping**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1811|‎דָּלַף‎]]</big>**</small>
 
 $\quad$ dropping.
 - ***a dripping***

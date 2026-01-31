@@ -7,20 +7,20 @@ The seed is rotten under their clods, the garners are laid desolate, the barns a
 The seeds lie shriveled beneath the clods; the storehouses are in ruins; the granaries are broken down, for the grain has withered away.<small><sub>**MT:**</sub></small>
 [[Joel.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.16|<< Joel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.18|Joel 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| leap | <big><span class="asgreek">εσκίρτησαν</span></big> <sup><small><small>[[G4640]]</small></small></sup> |
-| Heifers | <big><span class="asgreek">δαμάλεις</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their stables, | <big><span class="asgreek">φάτναις</span></big> <sup><small><small>[[G5336]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are obliterated | <big><span class="asgreek">ηφανίσθησαν</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| treasures | <big><span class="asgreek">θησαυροί</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| were razed | <big><span class="asgreek">κατεσκάφησαν</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| wine vats | <big><span class="asgreek">ληνοί</span></big> <sup><small><small>[[G3025]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was dried up | <big><span class="asgreek">εξηράνθη</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| \[the\] grain | <big><span class="asgreek">σίτος</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| leap | **<big>[[G4640\|εσκίρτησαν]]</big>** |
+| Heifers | **<big>[[G1151\|δαμάλεις]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their stables, | **<big>[[G5336\|φάτναις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| are obliterated | **<big>[[G0853\|ηφανίσθησαν]]</big>** |
+| treasures | **<big>[[G2344\|θησαυροί]]</big>** |
+| were razed | **<big>[[G2679\|κατεσκάφησαν]]</big>** |
+| wine vats | **<big>[[G3025\|ληνοί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| was dried up | **<big>[[G3583\|εξηράνθη]]</big>** |
+| \[the\] grain | **<big>[[G4621\|σίτος]]</big>** |
 [[Joel.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.16|<< Joel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.18|Joel 1:18 >>]]</td></tr></table>
 
 

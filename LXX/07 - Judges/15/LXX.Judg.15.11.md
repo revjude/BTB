@@ -7,45 +7,45 @@ Then three thousand men of Judah went to the top of the rock Etam, and said to S
 In response, three thousand men of Judah went to the cave at the rock of Etam, and they asked Samson, “Do you not realize that the Philistines rule over us? What have you done to us?” “I have done to them what they did to me,” he replied.<small><sub>**MT:**</sub></small>
 [[Judg.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.10|<< Judges 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.12|Judges 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβησαν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| three thousand | <big><span class="asgreek">τρισχίλιοι</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hole | <big><span class="asgreek">τρυμαλιάν</span></big> <sup><small><small>[[G5168]]</small></small></sup> |
-| in \[the\] rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| of Etam, | <big><span class="asgreek">Ητάμ</span></big> <sup><small><small>[[H5862]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samson, | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| Do you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| behold | <big><span class="asgreek">οίδας</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| dominate | <big><span class="asgreek">κυριεύουσιν</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| did you \[do\] | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| In which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησάν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I did | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατέβησαν]]</big>** |
+| three thousand | **<big>[[G5153\|τρισχίλιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hole | **<big>[[G5168\|τρυμαλιάν]]</big>** |
+| in \[the\] rock | **<big>[[G4073\|πέτρας]]</big>** |
+| of Etam, | **<big>[[H5862\|Ητάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samson, | **<big>[[G4546\|Σαμψών]]</big>** |
+| Do you not | **<big>[[G3756\|ουκ]]</big>** |
+| behold | **<big>[[G1492\|οίδας]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| dominate | **<big>[[G2961\|κυριεύουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| us? | **<big>[[G1473\|ημών]]</big>** |
+| Then | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| did you \[do\] | **<big>[[G4160\|εποίησας]]</big>** |
+| to us? | **<big>[[G1473\|ημίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Samson | **<big>[[G4546\|Σαμψών]]</big>** |
+| In which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| they did | **<big>[[G4160\|εποίησάν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| I did | **<big>[[G4160\|εποίησα]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Judg.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.10|<< Judges 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.12|Judges 15:12 >>]]</td></tr></table>
 
 

@@ -11,59 +11,59 @@ And the man dressed in linen, who was above the waters of the river, raised his 
 > $\quad$ referenced by: [[Rev.12.14|Rev 12:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man, | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being clothed | <big><span class="asgreek">ενδεδυμένου</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \[with\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| linen clothes, | <big><span class="asgreek">βαδδίν</span></big> <sup><small><small>[[G6641]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he raised up high | <big><span class="asgreek">ύψωσε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his right \[hand\], | <big><span class="asgreek">δεξιάν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his left | <big><span class="asgreek">αριστεράν</span></big> <sup><small><small>[[G0710]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he swore an oath | <big><span class="asgreek">ώμοσεν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one living | <big><span class="asgreek">ζώντι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| times | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| a time, | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completing | <big><span class="asgreek">συντελεσθήναι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \[the\] dispersing | <big><span class="asgreek">διασκορπισμόν</span></big> <sup><small><small>[[G6879]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| having been sanctified, | <big><span class="asgreek">ηγιασμένου</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these things. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I heard | **<big>[[G0191\|ήκουσα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| man, | **<big>[[G0435\|ανδρός]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| being clothed | **<big>[[G1746\|ενδεδυμένου]]</big>** |
+| \[with\] the | **<big>[[G3588\|τα]]</big>** |
+| linen clothes, | **<big>[[G6641\|βαδδίν]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river. | **<big>[[G4215\|ποταμού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he raised up high | **<big>[[G5312\|ύψωσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his right \[hand\], | **<big>[[G1188\|δεξιάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his left | **<big>[[G0710\|αριστεράν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he swore an oath | **<big>[[G3660\|ώμοσεν]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| one living | **<big>[[G2198\|ζώντι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon, | **<big>[[G0165\|αιώνα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a time | **<big>[[G2540\|καιρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| times | **<big>[[G2540\|καιρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| a time, | **<big>[[G2540\|καιρού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| completing | **<big>[[G4931\|συντελεσθήναι]]</big>** |
+| \[the\] dispersing | **<big>[[G6879\|διασκορπισμόν]]</big>** |
+| hand | **<big>[[G5495\|χειρός]]</big>** |
+| of people | **<big>[[G2992\|λαού]]</big>** |
+| having been sanctified, | **<big>[[G0037\|ηγιασμένου]]</big>** |
+| they shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these things. | **<big>[[G3778\|ταύτα]]</big>** |
 [[Dan.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.6|<< Daniel 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.8|Daniel 12:8 >>]]</td></tr></table>
 
 

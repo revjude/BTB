@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָאַל‎</span></big> **yâʼal** <small>*(yaw-al')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (probably rather the same as <span class="ashebrew">‎יָאַל‎</span><sup><small>[[H2973]]</small></sup> through the idea of mental weakness)</small>
+**<big><span class="ashebrew">‎יָאַל‎</span></big>** **yâʼal** <small>*(yaw-al')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (probably rather the same as **<big>[[H2973|‎יָאַל‎]]</big>** through the idea of mental weakness)</small>
 
 $\quad$ assay, begin, be content, please, take upon, [idiom] willingly, would.
 - properly, ***to yield***, especially ***assent***
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** to agree to, show willingness, acquiesce, accept an inv
 $\quad$ $\quad$ **1a2)** to undertake
 $\quad$ $\quad$ **1a3)** to resolve, be pleased, be determined
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">καταμένω</span><sup><small>[[G2650]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">ὄφελος</span><sup><small>[[G3786]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">ὠφέλεια</span><sup><small>[[G5622]]</small></sup> · <span class="asgreek">ὠφελέω</span><sup><small>[[G5623]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0757|ἄρχω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2650|καταμένω]]</big>** · **<big>[[G2872|κοπιάω]]</big>** · **<big>[[G3786|ὄφελος]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G5622|ὠφέλεια]]</big>** · **<big>[[G5623|ὠφελέω]]</big>**

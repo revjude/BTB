@@ -7,27 +7,27 @@ And it came to pass about this time, that [Joseph] went into the house to do his
 One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside.<small><sub>**MT:**</sub></small>
 [[Gen.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.10|<< Genesis 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.12|Genesis 39:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| on such | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| a | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| Joseph entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his works, | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| inside. | <big><span class="asgreek">έσω</span></big> <sup><small><small>[[G2080]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| on such | **<big>[[G5108\|τοιαύτη]]</big>** |
+| a | **<big>[[G5100\|τις]]</big>** |
+| day, | **<big>[[G2250\|ημέρα]]</big>** |
+| Joseph entered | **<big>[[G1525\|εισήλθεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his works, | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no one | **<big>[[G3762\|ουδείς]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| inside. | **<big>[[G2080\|έσω]]</big>** |
 [[Gen.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.10|<< Genesis 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.12|Genesis 39:12 >>]]</td></tr></table>
 
 

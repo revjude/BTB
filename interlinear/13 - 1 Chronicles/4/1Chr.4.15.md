@@ -6,18 +6,18 @@ The sons of Caleb son of Jephunneh: Iru, Elah, and Naam. The son of Elah: Kenaz.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.14|<< 1 Chronicles 4:14]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.16|1 Chronicles 4:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵי֙ </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Caleb  | <span class="ashebrew"><big>כָּלֵ֣ב </big></span><small><small><sup>[[H3612G]]</sup></small></small> &#8207;| ka.Lev <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephunneh  | <span class="ashebrew"><big>יְפֻנֶּ֔ה </big></span><small><small><sup>[[H3312G]]</sup></small></small> &#8207;| ye.fu.Neh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Iru  | <span class="ashebrew"><big>עִ֥ירוּ </big></span><small><small><sup>[[H5900]]</sup></small></small> &#8207;| 'I.ru <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elah  | <span class="ashebrew"><big>אֵלָ֖ה </big></span><small><small><sup>[[H0425J]]</sup></small></small> &#8207;| 'e.Lah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Naam  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָ֑עַם </big></span><small><small><sup>[[H5277]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Na.'am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֥י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elah  | <span class="ashebrew"><big>אֵלָ֖ה </big></span><small><small><sup>[[H0425J]]</sup></small></small> &#8207;| 'e.Lah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Kenaz  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קְנַֽז </big></span><small><small><sup>[[H7073H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ke.Naz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Caleb  |**<big>&#8207;[[H3612G\|כָּלֵ֣ב]]&#8207; </big>**| ka.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּ֔ה]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Iru  |**<big>&#8207;[[H5900\|עִ֥ירוּ]]&#8207; </big>**| 'I.ru<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elah  |**<big>&#8207;[[H0425J\|אֵלָ֖ה]]&#8207; </big>**| 'e.Lah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Naam  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H5277\|נָ֑עַם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Na.'am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elah  |**<big>&#8207;[[H0425J\|אֵלָ֖ה]]&#8207; </big>**| 'e.Lah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kenaz  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7073H\|קְנַֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.Naz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.14|<< 1 Chronicles 4:14]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.16|1 Chronicles 4:16 >>]]</td></tr></table>
 
 

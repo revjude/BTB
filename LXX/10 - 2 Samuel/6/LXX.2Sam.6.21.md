@@ -7,42 +7,42 @@ And David said unto Michal, [It was] before the LORD, which chose me before thy 
 But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD,<small><sub>**MT:**</sub></small>
 [[2Sam.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.20|<< 2 Samuel 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.22|2 Samuel 6:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Michal, | <big><span class="asgreek">Μελχόλ</span></big> <sup><small><small>[[H4324]]</small></small></sup> |
-| In the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will dance, | <big><span class="asgreek">ορχήσομαι</span></big> <sup><small><small>[[G3738]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| chose | <big><span class="asgreek">εξελέξατό</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father, | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to place | <big><span class="asgreek">καταστήσαί</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] lead | <big><span class="asgreek">ηγούμενον</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall play | <big><span class="asgreek">παίξομαι</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dance | <big><span class="asgreek">ορχήσομαι</span></big> <sup><small><small>[[G3738]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Michal, | **<big>[[H4324\|Μελχόλ]]</big>** |
+| In the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| I will dance, | **<big>[[G3738\|ορχήσομαι]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| chose | **<big>[[G1586\|εξελέξατό]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your father, | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house, | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to place | **<big>[[G2525\|καταστήσαί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] lead | **<big>[[G2233\|ηγούμενον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall play | **<big>[[G3815\|παίξομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dance | **<big>[[G3738\|ορχήσομαι]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Sam.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.20|<< 2 Samuel 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.22|2 Samuel 6:22 >>]]</td></tr></table>
 
 

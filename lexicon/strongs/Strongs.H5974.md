@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עִם‎</span></big> **ʻim** <small>*(eem)*</small> ==**with**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עִם‎</span><sup><small>[[H5973]]</small></sup></small>
+**<big><span class="asaramaic">‎עִם‎</span></big>** **ʻim** <small>*(eem)*</small> ==**with**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5973|‎עִם‎]]</big>**</small>
 
 $\quad$ by, from, like, to(-ward), with.
 - {adverb or preposition, ***with*** (i.e. in conjunction with), in varied applications

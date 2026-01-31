@@ -10,24 +10,24 @@ Now these [are] the generations of Ishmael, Abraham’s son, whom Hagar the Egyp
 This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham.<small><sub>**MT:**</sub></small>
 [[Gen.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.11|<< Genesis 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.13|Genesis 25:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And these are | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| origins | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> |
-| of Ishmael, | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Hagar bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> <big><span class="asgreek">Άγαρ</span></big> <sup><small><small>[[G0028]]</small></small></sup> |
-| (the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptian | <big><span class="asgreek">Αιγυπτία</span></big> <sup><small><small>[[G0124]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| maidservant | <big><span class="asgreek">παιδίσκη</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| of Sarah) | <big><span class="asgreek">Σάρρας</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Abraham. | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
+| And these are | **<big>[[G3778\|αύται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| origins | **<big>[[G1078\|γενέσεις]]</big>** |
+| of Ishmael, | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| Hagar bore | **<big>[[G5088\|έτεκεν]]</big>** **<big>[[G0028\|Άγαρ]]</big>** |
+| (the | **<big>[[G3588\|η]]</big>** |
+| Egyptian | **<big>[[G0124\|Αιγυπτία]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| maidservant | **<big>[[G3814\|παιδίσκη]]</big>** |
+| of Sarah) | **<big>[[G4564\|Σάρρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Abraham. | **<big>[[G0011\|Αβραάμ]]</big>** |
 [[Gen.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.11|<< Genesis 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.13|Genesis 25:13 >>]]</td></tr></table>
 
 

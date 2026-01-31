@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָנִים‎</span></big> **Yânîym** <small>*(yaw-neem')*</small> ==**Janim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎נוּם‎</span><sup><small>[[H5123]]</small></sup>; asleep</small>
+**<big><span class="ashebrew">‎יָנִים‎</span></big>** **Yânîym** <small>*(yaw-neem')*</small> ==**Janim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5123|‎נוּם‎]]</big>**; asleep</small>
 
 $\quad$ Janum (from the margin).
 - § Janum = *"asleep"*

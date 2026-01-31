@@ -7,40 +7,40 @@ But if thou return to the city, and say unto Absalom, I will be thy servant, O k
 But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’<small><sub>**MT:**</sub></small>
 [[2Sam.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.33|<< 2 Samuel 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.35|2 Samuel 15:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| you should return, | <big><span class="asgreek">αναστρέψης</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Absalom, | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| allow | <big><span class="asgreek">έασόν</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to live! | <big><span class="asgreek">ζήσαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| a servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for\] I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| just now, | <big><span class="asgreek">αρτίως</span></big> <sup><small><small>[[G6548]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| your servant. | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And \[by saying this\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| efface | <big><span class="asgreek">διασκέδασόν</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| of Ahithophel! | <big><span class="asgreek">Αχιτόφελ</span></big> <sup><small><small>[[H0302]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| you should return, | **<big>[[G0390\|αναστρέψης]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Absalom, | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| your servant | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I am | **<big>[[G1510\|ειμί]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| allow | **<big>[[G1439\|έασόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to live! | **<big>[[G2198\|ζήσαι]]</big>** |
+| a servant | **<big>[[G3816\|παις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[for\] I was | **<big>[[G1510\|ήμην]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| just now, | **<big>[[G6548\|αρτίως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| your servant. | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And \[by saying this\] | **<big>[[G2532\|και]]</big>** |
+| efface | **<big>[[G6876\|διασκέδασόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| counsel | **<big>[[G1012\|βουλήν]]</big>** |
+| of Ahithophel! | **<big>[[H0302\|Αχιτόφελ]]</big>** |
 [[2Sam.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.33|<< 2 Samuel 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.35|2 Samuel 15:35 >>]]</td></tr></table>
 
 

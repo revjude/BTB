@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שׂוֹכָה‎</span> <small>***(so.khah)***</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M/F|H:N-M/F]]</small></sup> 
-spelling of: <small>[[H7754A]]</small> 
+<small>spelling of:</small> <small>**<big>[[H7754A|שׂוֹךְ]]</big>**</small> 
 
-- Another spelling of <i>s.vokh</i> (<span class='ashebrew'>‎ש‎</span>ׂ<span class='ashebrew'>‎ו‎</span>ֹ<span class='ashebrew'>‎ך‎</span>ְ "branch" [[H7754A]])
+- Another spelling of <i>s.vokh</i> (<span class='ashebrew'>‎ש‎</span>ׂ<span class='ashebrew'>‎ו‎</span>ֹ<span class='ashebrew'>‎ך‎</span>ְ "branch" **<big>[[H7754A|שׂוֹךְ]]</big>**)

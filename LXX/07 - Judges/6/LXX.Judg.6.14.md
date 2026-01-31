@@ -7,30 +7,30 @@ And the LORD looked upon him, and said, Go in this thy might, and thou shalt sav
 The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?”<small><sub>**MT:**</sub></small>
 [[Judg.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.13|<< Judges 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.15|Judges 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked | <big><span class="asgreek">επέβλεψε</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall deliver | <big><span class="asgreek">σώσεις</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I send | <big><span class="asgreek">εξαπέστειλά</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| looked | **<big>[[G1914\|επέβλεψε]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Go | **<big>[[G4198\|πορεύου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your strength | **<big>[[G2479\|ισχύϊ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| this | **<big>[[G3778\|ταύτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall deliver | **<big>[[G4982\|σώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I send | **<big>[[G1821\|εξαπέστειλά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Judg.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.13|<< Judges 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.15|Judges 6:15 >>]]</td></tr></table>
 
 

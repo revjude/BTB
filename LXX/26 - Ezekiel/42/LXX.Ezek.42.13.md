@@ -7,69 +7,69 @@ Then said he unto me, The north chambers [and] the south chambers, which [are] b
 Then the man said to me, “The north and south chambers facing the temple courtyard are the holy chambers where the priests who approach the LORD will eat the most holy offerings. There they will place the most holy offerings—the grain offerings, the sin offerings, and the guilt offerings—for the place is holy.<small><sub>**MT:**</sub></small>
 [[Ezek.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.12|<< Ezekiel 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.14|Ezekiel 42:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner chambers, | <big><span class="asgreek">εξέδραι</span></big> <sup><small><small>[[G7306]]</small></small></sup> |
-| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner chambers, | <big><span class="asgreek">εξέδραι</span></big> <sup><small><small>[[G7306]]</small></small></sup> |
-| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south, | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| intervals, | <big><span class="asgreek">διαστημάτων</span></big> <sup><small><small>[[G1292]]</small></small></sup> |
-| these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner chambers | <big><span class="asgreek">εξέδραι</span></big> <sup><small><small>[[G7306]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place, | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| eat | <big><span class="asgreek">εσθίονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| approaching | <big><span class="asgreek">εγγίζοντες</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies; | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">θήσουσι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies, | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice \[offering\], | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| an ignorance \[offering\]; | <big><span class="asgreek">αγνοίας</span></big> <sup><small><small>[[G0052]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \[is\] holy. | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| The | **<big>[[G3588\|αι]]</big>** |
+| inner chambers, | **<big>[[G7306\|εξέδραι]]</big>** |
+| the ones | **<big>[[G3588\|αι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| inner chambers, | **<big>[[G7306\|εξέδραι]]</big>** |
+| the ones | **<big>[[G3588\|αι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south, | **<big>[[G3558\|νότον]]</big>** |
+| being | **<big>[[G1510\|ούσαι]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| intervals, | **<big>[[G1292\|διαστημάτων]]</big>** |
+| these | **<big>[[G3778\|αύται]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| inner chambers | **<big>[[G7306\|εξέδραι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy place, | **<big>[[G0039\|αγίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| eat | **<big>[[G2068\|εσθίονται]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| approaching | **<big>[[G1448\|εγγίζοντες]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies; | **<big>[[G0039\|αγίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| they shall put | **<big>[[G5087\|θήσουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies, | **<big>[[G0039\|αγίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice \[offering\], | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| an ignorance \[offering\]; | **<big>[[G0052\|αγνοίας]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| \[is\] holy. | **<big>[[G0039\|άγιος]]</big>** |
 [[Ezek.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.12|<< Ezekiel 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.14|Ezekiel 42:14 >>]]</td></tr></table>
 
 

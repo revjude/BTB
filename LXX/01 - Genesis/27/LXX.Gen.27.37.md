@@ -7,34 +7,34 @@ And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all
 But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”<small><sub>**MT:**</sub></small>
 [[Gen.27.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.36|<< Genesis 27:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.38|Genesis 27:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And answering | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Esau, | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| master | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I made | <big><span class="asgreek">πεποίηκά</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I made | <big><span class="asgreek">πεποίηκα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| servants, | <big><span class="asgreek">οικέτας</span></big> <sup><small><small>[[G3610]]</small></small></sup> |
-| \[with\] grain | <big><span class="asgreek">σίτω</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνω</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| to support | <big><span class="asgreek">εστήριξα</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| may I do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| child? | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
+| And answering | **<big>[[G0611\|αποκριθείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Esau, | **<big>[[G2269\|Ησαύ]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| master | **<big>[[G2962\|κύριον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| I made | **<big>[[G4160\|πεποίηκά]]</big>** |
+| of you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his brothers | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I made | **<big>[[G4160\|πεποίηκα]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| servants, | **<big>[[G3610\|οικέτας]]</big>** |
+| \[with\] grain | **<big>[[G4621\|σίτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνω]]</big>** |
+| to support | **<big>[[G4741\|εστήριξα]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| then to you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| may I do | **<big>[[G4160\|ποιήσω]]</big>** |
+| child? | **<big>[[G5043\|τέκνον]]</big>** |
 [[Gen.27.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.36|<< Genesis 27:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.38|Genesis 27:38 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ The LORD [is] the portion of mine inheritance and of my cup: thou maintainest my
 The LORD is my chosen portion and my cup; You have made my lot secure.<small><sub>**MT:**</sub></small>
 [[Ps.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.4|<< Psalm 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.6|Psalm 16:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is the\] portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my cup. | <big><span class="asgreek">ποτηρίου</span></big> <sup><small><small>[[G4221]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one restoring | <big><span class="asgreek">αποκαθιστών</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is the\] portion | **<big>[[G3310\|μερίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my inheritance | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my cup. | **<big>[[G4221\|ποτηρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one restoring | **<big>[[G0600\|αποκαθιστών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to me. | **<big>[[G1473\|εμοί]]</big>** |
 [[Ps.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.4|<< Psalm 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.6|Psalm 16:6 >>]]</td></tr></table>
 
 

@@ -7,46 +7,46 @@ Therefore thus saith the LORD concerning the prophets that prophesy in my name, 
 Therefore this is what the LORD says about the prophets who prophesy in My name: I did not send them, yet they say, ‘No sword or famine will touch this land.’ By sword and famine these very prophets will meet their end!<small><sub>**MT:**</sub></small>
 [[Jer.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητευόντων</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| send | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| say, | <big><span class="asgreek">λέγουσι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| a diseased | <big><span class="asgreek">νοσερώ</span></big> <sup><small><small>[[G8406]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hunger | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| they shall be finished off entirely | <big><span class="asgreek">συντελεσθήσονται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήται</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| prophets, | **<big>[[G4396\|προφητών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| prophesying | **<big>[[G4395\|προφητευόντων]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| lies | **<big>[[G5571\|ψευδή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| send | **<big>[[G0649\|απέστειλα]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| say, | **<big>[[G3004\|λέγουσι]]</big>** |
+| Sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this land. | **<big>[[G1093\|γης]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| By | **<big>[[G1722\|εν]]</big>** |
+| death | **<big>[[G2288\|θανάτω]]</big>** |
+| a diseased | **<big>[[G8406\|νοσερώ]]</big>** |
+| shall die | **<big>[[G0599\|αποθανούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| hunger | **<big>[[G3042\|λιμώ]]</big>** |
+| they shall be finished off entirely | **<big>[[G4931\|συντελεσθήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| prophets | **<big>[[G4396\|προφήται]]</big>** |
 [[Jer.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 
 

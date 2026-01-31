@@ -7,33 +7,33 @@ Look unto Abraham your father, and unto Sarah [that] bare you: for I called him 
 Look to Abraham your father, and to Sarah who gave you birth. When I called him, he was but one; then I blessed him and multiplied him.<small><sub>**MT:**</sub></small>
 [[Isa.51.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.1|<< Isaiah 51:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.3|Isaiah 51:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Look | <big><span class="asgreek">εμβλέψατε</span></big> <sup><small><small>[[G1689]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father! | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρραν</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| travailing | <big><span class="asgreek">ωδίνουσαν</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he was one \[person\], | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I called | <big><span class="asgreek">εκάλεσα</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blessed | <big><span class="asgreek">ευλόγησα</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loved | <big><span class="asgreek">ηγάπησα</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multiplied | <big><span class="asgreek">επλήθυνα</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Look | **<big>[[G1689\|εμβλέψατε]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your father! | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρραν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| travailing | **<big>[[G5605\|ωδίνουσαν]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he was one \[person\], | **<big>[[G1520\|εις]]</big>** **<big>[[G1510\|ην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I called | **<big>[[G2564\|εκάλεσα]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blessed | **<big>[[G2127\|ευλόγησα]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loved | **<big>[[G0025\|ηγάπησα]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| multiplied | **<big>[[G4129\|επλήθυνα]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Isa.51.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.1|<< Isaiah 51:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.3|Isaiah 51:3 >>]]</td></tr></table>
 
 

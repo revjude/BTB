@@ -7,35 +7,35 @@ but were of  their sons  being left behind after them in the land of which the s
 their descendants who remained in the land, those whom the Israelites had not destroyed—Solomon conscripted these people to be forced laborers, as they are to this day.<small><sub>**MT:**</sub></small>
 [[2Chr.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.7|<< 2 Chronicles 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.9|2 Chronicles 8:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλειφθέντων</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| utterly destroy | <big><span class="asgreek">εξωλόθρευσαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led | <big><span class="asgreek">ανήγαγεν</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tribute | <big><span class="asgreek">φόρον</span></big> <sup><small><small>[[G5411]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| being left behind | **<big>[[G2641\|καταλειφθέντων]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of which | **<big>[[G3739\|ους]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| utterly destroy | **<big>[[G1842\|εξωλόθρευσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| led | **<big>[[G0321\|ανήγαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| tribute | **<big>[[G5411\|φόρον]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[2Chr.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.7|<< 2 Chronicles 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.9|2 Chronicles 8:9 >>]]</td></tr></table>
 
 

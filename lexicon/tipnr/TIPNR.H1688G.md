@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Debir</span>, a place on the northern border of Judah, distinct from the city of Debir \([[Josh.15.7|Joshua 15:7]]\).
 - A location only mentioned at [[Josh.15.7|Jos.15.7]]; 
-- only referred to as Debir<[[H1688G]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Debir **<big>[[H1688|דְּבִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.816662,35.349994&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Debir is mentioned in [[Josh.15.7|Joshua 15:7]] as a place on the northern borde
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Debir | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>](H1688G) <small>*Hebrew*</small> | 1x | [Jos.15.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Debir\*\|reference=Jos.15.7) |
-All Strong's for **Debir**: \[[[H1688G]]\]
+| Debir | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>](H1688G) | 1x | [Jos.15.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Debir\*\|reference=Jos.15.7) |
+All entries for **Debir**:  **<big>[[H1688|דְּבִיר]]</big>**

@@ -7,26 +7,26 @@ They shall teach Jacob thy judgments, and Israel thy law: they shall put incense
 He will teach Your ordinances to Jacob and Your law to Israel; he will set incense before You and whole burnt offerings on Your altar.<small><sub>**MT:**</sub></small>
 [[Deut.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.9|<< Deuteronomy 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.11|Deuteronomy 33:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They shall manifest | <big><span class="asgreek">δηλώσουσι</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ordinances | <big><span class="asgreek">δικαιώματά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| They shall place | <big><span class="asgreek">επιθήσουσι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| incense | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the time\] of your anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your altar. | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They shall manifest | **<big>[[G1213\|δηλώσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ordinances | **<big>[[G1345\|δικαιώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your law | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| They shall place | **<big>[[G2007\|επιθήσουσι]]</big>** |
+| incense | **<big>[[G2368\|θυμίαμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the time\] of your anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.9|<< Deuteronomy 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.11|Deuteronomy 33:11 >>]]</td></tr></table>
 
 

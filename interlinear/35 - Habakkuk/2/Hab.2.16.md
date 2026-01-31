@@ -6,23 +6,23 @@ You will be filled with shame instead of glory. You too must drink and expose yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.15|<< Habakkuk 2:15]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.17|Habakkuk 2:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you are satisfied  | <span class="ashebrew"><big>שָׂבַ֤עְתָּ </big></span><small><small><sup>[[H7646]]</sup></small></small> &#8207;| sa.Va'.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shame  | <span class="ashebrew"><big>קָלוֹן֙ </big></span><small><small><sup>[[H7036]]</sup></small></small> &#8207;| ka.lOn <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than honor  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּב֔וֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ka.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| drink  | <span class="ashebrew"><big>שְׁתֵ֥ה </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| she.Teh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֖תָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and be counted as uncircumcised  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵֽעָרֵ֑ל </big></span><small><small><sup>[[H6188]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> he.'a.Rel <small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come round  | <span class="ashebrew"><big>תִּסּ֣וֹב </big></span><small><small><sup>[[H5437G]]</sup></small></small> &#8207;| ti.Sov <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>עָלֶ֗י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] cup of  | <span class="ashebrew"><big>כּ֚וֹס </big></span><small><small><sup>[[H3563A]]</sup></small></small> &#8207;| Kos <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] right [hand] of  | <span class="ashebrew"><big>יְמִ֣ין </big></span><small><small><sup>[[H3225G]]</sup></small></small> &#8207;| ye.Min <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and disgrace  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קִיקָל֖וֹן </big></span><small><small><sup>[[H7022]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ki.ka.Lon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| honor your  | <span class="ashebrew"><big>כְּבוֹדֶֽ </big></span><small><small><sup>[[H3519]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.vo.De. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are satisfied  |**<big>&#8207;[[H7646\|שָׂבַ֤עְתָּ]]&#8207; </big>**| sa.Va'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shame  |**<big>&#8207;[[H7036\|קָלוֹן֙]]&#8207; </big>**| ka.lOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than honor  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3519\|כָּב֔וֹד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drink  |**<big>&#8207;[[H8354\|שְׁתֵ֥ה]]&#8207; </big>**| she.Teh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַ֖תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and be counted as uncircumcised  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6188\|הֵֽעָרֵ֑ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.'a.Rel<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come round  |**<big>&#8207;[[H5437G\|תִּסּ֣וֹב]]&#8207; </big>**| ti.Sov<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H5921A\|עָלֶ֗י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cup of  |**<big>&#8207;[[H3563A\|כּ֚וֹס]]&#8207; </big>**| Kos<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] right [hand] of  |**<big>&#8207;[[H3225G\|יְמִ֣ין]]&#8207; </big>**| ye.Min<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and disgrace  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7022\|קִיקָל֖וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ki.ka.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| honor your  |**<big>&#8207;[[H3519\|כְּבוֹדֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.vo.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.15|<< Habakkuk 2:15]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.17|Habakkuk 2:17 >>]]</td></tr></table>
 
 

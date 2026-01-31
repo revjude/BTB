@@ -6,16 +6,16 @@ For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.0|<< Psalms 41:0]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.2|Psalms 41:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how blessed!  | <span class="ashebrew"><big>אַ֭שְׁרֵי </big></span><small><small><sup>[[H0835]]</sup></small></small> &#8207;| 'Ash.rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is one who] considers  | <span class="ashebrew"><big>מַשְׂכִּ֣יל </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| mas.Kil <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to>  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] poor  | <span class="ashebrew"><big>דָּ֑ל </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| Dal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  | <span class="ashebrew"><big>רָ֝עָ֗ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will deliver him  | <span class="ashebrew"><big>יְֽמַלְּטֵ֥ </big></span><small><small><sup>[[H4422]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ye.ma.le.Te. <small><sup>[[HVpi3ms]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how blessed!  |**<big>&#8207;[[H0835\|אַ֭שְׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] considers  |**<big>&#8207;[[H7919A\|מַשְׂכִּ֣יל]]&#8207; </big>**| mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poor  |**<big>&#8207;[[H1800\|דָּ֑ל]]&#8207; </big>**| Dal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H7451C\|רָ֝עָ֗ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will deliver him  |**<big>&#8207;[[H4422\|יְֽמַלְּטֵ֥]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ye.ma.le.Te.<small><sup>[[HVpi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.0|<< Psalms 41:0]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.2|Psalms 41:2 >>]]</td></tr></table>
 
 

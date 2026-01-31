@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎πρέπω‎</span></big> **prépō** <small>*(prep'-o)*</small> ==**be proper**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎πρέπω‎</span></big>** **prépō** <small>*(prep'-o)*</small> ==**be proper**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>apparently a primary verb</small>
 
 $\quad$ become, comely.

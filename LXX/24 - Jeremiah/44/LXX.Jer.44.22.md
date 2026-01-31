@@ -7,39 +7,39 @@ So that the LORD could no longer bear, because of the evil of your doings, [and]
 So the LORD could no longer endure the evil deeds and detestable acts you committed, and your land became a desolation, a horror, and an object of cursing, without inhabitant, as it is this day.<small><sub>**MT:**</sub></small>
 [[Jer.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.21|<< Jeremiah 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.23|Jeremiah 44:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύνατο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to bear up | <big><span class="asgreek">φέρειν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \[of the\] wickedness | <big><span class="asgreek">πονηρίας</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
-| of your deeds, | <big><span class="asgreek">πραγμάτων</span></big> <sup><small><small>[[G4229]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your abominations | <big><span class="asgreek">βδελυγμάτων</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did; | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| desolation, | <big><span class="asgreek">ερήμωσιν</span></big> <sup><small><small>[[G2050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an untrodden \[place\], | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a curse, | <big><span class="asgreek">αράν</span></big> <sup><small><small>[[G0685]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day; | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύνατο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| to bear up | **<big>[[G5342\|φέρειν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| \[of the\] wickedness | **<big>[[G4189\|πονηρίας]]</big>** |
+| of your deeds, | **<big>[[G4229\|πραγμάτων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your abominations | **<big>[[G0946\|βδελυγμάτων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| you did; | **<big>[[G4160\|εποιήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your land | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| desolation, | **<big>[[G2050\|ερήμωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an untrodden \[place\], | **<big>[[G6101\|άβατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a curse, | **<big>[[G0685\|αράν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day; | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1473\|αύτη]]</big>** |
 [[Jer.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.21|<< Jeremiah 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.23|Jeremiah 44:23 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇשְׁקָה‎</span></big> **ʻoshqâh** <small>*(osh-kaw')*</small> ==**oppression**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹשֶׁק‎</span><sup><small>[[H6233]]</small></sup></small>
+**<big><span class="ashebrew">‎עׇשְׁקָה‎</span></big>** **ʻoshqâh** <small>*(osh-kaw')*</small> ==**oppression**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6233|‎עֹשֶׁק‎]]</big>**</small>
 
 $\quad$ oppressed.
 - ***anguish***

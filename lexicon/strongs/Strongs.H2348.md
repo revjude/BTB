@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חוֹף‎</span></big> **chôwph** <small>*(khofe)*</small> ==**coast**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חוֹף‎</span></big>** **chôwph** <small>*(khofe)*</small> ==**coast**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to cover</small>
 
 $\quad$ coast (of the sea), haven, shore, (sea-) side.
@@ -6,4 +6,4 @@ $\quad$ coast (of the sea), haven, shore, (sea-) side.
 
 **1)** seashore, coast, shore
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰγιαλός</span><sup><small>[[G0123]]</small></sup> · <span class="asgreek">παραθαλάσσιος</span><sup><small>[[G3864]]</small></sup> · <span class="asgreek">παράλιος</span><sup><small>[[G3882]]</small></sup> · <span class="asgreek">παράλιος</span><sup><small>[[G3882]]</small></sup>
+<small>See Greek: </small>**<big>[[G0123|αἰγιαλός]]</big>** · **<big>[[G3864|παραθαλάσσιος]]</big>** · **<big>[[G3882|παράλιος]]</big>** · **<big>[[G3882|παράλιος]]</big>**

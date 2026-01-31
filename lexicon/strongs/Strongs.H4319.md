@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָהוּ‎</span></big> **Mîykâhûw** <small>*(me-kaw'-hoo)*</small> ==**Micahu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a contr. for <span class="ashebrew">‎מִיכָיְהוּ‎</span><sup><small>[[H4321]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיכָהוּ‎</span></big>** **Mîykâhûw** <small>*(me-kaw'-hoo)*</small> ==**Micahu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a contr. for **<big>[[H4321|‎מִיכָיְהוּ‎]]</big>**</small>
 
 $\quad$ Micaiah (2 Chronicles 18:8).
 - § Michaiah = *"who is like God"*

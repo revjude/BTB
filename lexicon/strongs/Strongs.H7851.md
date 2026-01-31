@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁטִּים‎</span></big> **Shiṭṭîym** <small>*(shit-teem')*</small> ==**Shittim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as the plural of <span class="ashebrew">‎שִׁטָּה‎</span><sup><small>[[H7848]]</small></sup>; acacia trees</small>
+**<big><span class="ashebrew">‎שִׁטִּים‎</span></big>** **Shiṭṭîym** <small>*(shit-teem')*</small> ==**Shittim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as the plural of **<big>[[H7848|‎שִׁטָּה‎]]</big>**; acacia trees</small>
 
 $\quad$ Shittim.
 - § Shittim = *"the acacias"*

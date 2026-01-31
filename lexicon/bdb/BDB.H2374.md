@@ -1,4 +1,4 @@
-<small>Also see: [[H2335]]</small>
+<small>Also see: **<big>[[H2335|חוֹזַי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חֹזֶה‎</span> **noun masculine** ==seer==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Amos.7.12|Amos 7:12]] + 7 t.; construct <span class="bdbLangHebrew">‎חֹזֵה‎</span> [[1Chr.21.9|1Chr 21:9]] + 3 t.; <span class="bdbLangHebrew">‎חוֺזֵה‎</span> [[2Chr.35.15|2Chr 35:15]] plural <span class="bdbLangHebrew">‎חֹזִים‎</span> [[Isa.29.10|Isa 29:10]] + 4 t.; <span class="bdbLangHebrew">‎חוֺזִים‎</span> [[2Chr.33.19|2Chr 33:19]] (so read with [[BDB#Sept|ᵐ5]]; <span class="bdbLangHebrew">‎חוֺזָי֑‎</span> [[BDB#MT|ᵑ0]] scribal error) — 
 

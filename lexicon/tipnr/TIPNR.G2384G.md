@@ -4,9 +4,9 @@ Man living at the time ofExile and return
 
 <span class='tipnrhighlight'>Jacob</span> was the father of Joseph, the husband of Mary, the mother of Jesus \([[Matt.1.15|Mat.1.15]]-16\).
 - A man from the tribe of Judah living at the time ofExile and return, first mentioned at [[Matt.1.15|Mat.1.15]]; 
-- only referred to as Jacob<[[G2384G]]> \(<span class='tipnrLangGreek'>Ἰακώβ</span>\); 
-- a son of Matthan<[[G3157]]>; 
--  father of Joseph<[[G2501G]]> and Alphaeus<[[G0256]]>\(?\).
+- only referred to as Jacob **<big>[[G2384|Ἰακώβ]]</big>**; 
+- a son of Matthan **<big>[[G3157|Ματθάν]]</big>**; 
+-  father of Joseph **<big>[[G2501|Ἰωσήφ]]</big>** and Alphaeus **<big>[[G0256|Ἀλφαῖος]]</big>**.
 
 Jacob is mentioned in the genealogy of Jesus Christ recorded in [[Matt.1.15|Matthew 1:15]]-16. He is identified as the father of Joseph, who was the husband of Mary, the mother of Jesus. 
 
@@ -18,8 +18,8 @@ It is important to note that while Joseph was Jesus' legal father, he was not hi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jacob | [<span class='tipnrLangGreek'>Ἰακώβ</span>](G2384G) <small>*Greek*</small> | 2x | [[Mat.1.15] & [Mat.1.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jacob\*\|reference=Mat.1.15;Mat.1.16) |
-All Strong's for **Jacob**: \[[[G2384G]]\]
+| Jacob | [<span class='tipnrLangGreek'>Ἰακώβ</span>](G2384G) | 2x | [[Mat.1.15] & [Mat.1.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jacob\*\|reference=Mat.1.15;Mat.1.16) |
+All entries for **Jacob**:  **<big>[[G2384|Ἰακώβ]]</big>**
 #### Related Profiles:
 - **[Matthan](G3157)** (father)
 - **[Joseph](G2501G)** (child)

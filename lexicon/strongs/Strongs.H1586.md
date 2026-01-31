@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֹּמֶר‎</span></big> **Gômer** <small>*(go'-mer)*</small> ==**Gomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּמַר‎</span><sup><small>[[H1584]]</small></sup>; completion</small>
+**<big><span class="ashebrew">‎גֹּמֶר‎</span></big>** **Gômer** <small>*(go'-mer)*</small> ==**Gomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1584|‎גָּמַר‎]]</big>**; completion</small>
 
 $\quad$ Gomer.
 - § Gomer = *"complete"*

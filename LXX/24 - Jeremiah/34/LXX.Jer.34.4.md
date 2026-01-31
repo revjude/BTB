@@ -7,24 +7,24 @@ Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of 
 Yet hear the word of the LORD, O Zedekiah king of Judah. This is what the LORD says concerning you: You will not die by the sword;<small><sub>**MT:**</sub></small>
 [[Jer.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.3|<< Jeremiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.5|Jeremiah 34:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Zedekiah, | <big><span class="asgreek">Σεδεκία</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| O king | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah! | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not die | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αποθανή</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| hear | **<big>[[G0191\|άκουσον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| Zedekiah, | **<big>[[H6667\|Σεδεκία]]</big>** |
+| O king | **<big>[[G0935\|βασιλεύ]]</big>** |
+| of Judah! | **<big>[[G2448\|Ιούδα]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| you shall not die | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0599\|αποθανή]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
 [[Jer.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.3|<< Jeremiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.5|Jeremiah 34:5 >>]]</td></tr></table>
 
 

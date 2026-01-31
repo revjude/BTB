@@ -7,34 +7,34 @@ And he removed from thence, and digged another well; and for that they strove no
 He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”<small><sub>**MT:**</sub></small>
 [[Gen.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.21|<< Genesis 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.23|Genesis 26:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And departing | <big><span class="asgreek">απάρας</span></big> <sup><small><small>[[G0522]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| he dug | <big><span class="asgreek">ώρυξε</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| well | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do combat | <big><span class="asgreek">εμαχέσαντο</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| over | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he named | <big><span class="asgreek">επωνόμασε</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Expanse, | <big><span class="asgreek">ευρυχωρία</span></big> <sup><small><small>[[G9822]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> widened | <big><span class="asgreek">επλάτυνε</span></big> <sup><small><small>[[G4115]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| caused us to grow | <big><span class="asgreek">ηύξησεν</span></big> <sup><small><small>[[G0837]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And departing | **<big>[[G0522\|απάρας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| he dug | **<big>[[G3736\|ώρυξε]]</big>** |
+| well | **<big>[[G5421\|φρέαρ]]</big>** |
+| another | **<big>[[G2087\|έτερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| do combat | **<big>[[G3164\|εμαχέσαντο]]</big>** |
+| over | **<big>[[G4012\|περί]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he named | **<big>[[G2028\|επωνόμασε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| Expanse, | **<big>[[G9822\|ευρυχωρία]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> widened | **<big>[[G4115\|επλάτυνε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| caused us to grow | **<big>[[G0837\|ηύξησεν]]</big>** **<big>[[G1473\|ημάς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Gen.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.21|<< Genesis 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.23|Genesis 26:23 >>]]</td></tr></table>
 
 

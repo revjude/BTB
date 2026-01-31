@@ -7,36 +7,36 @@ Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, 
 “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.<small><sub>**MT:**</sub></small>
 [[1Sam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.8|<< 1 Samuel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.10|1 Samuel 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eli said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Samuel, | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Return | <big><span class="asgreek">ανάστρεφε</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sleep | <big><span class="asgreek">κάθευδε</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| child! | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should call | <big><span class="asgreek">καλέση</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Speak, | <big><span class="asgreek">λάλει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| hears | <big><span class="asgreek">ακούει</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel went, | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place. | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Eli said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2242\|Ηλί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Samuel, | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Return | **<big>[[G0390\|ανάστρεφε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sleep | **<big>[[G2518\|κάθευδε]]</big>** |
+| child! | **<big>[[G5043\|τέκνον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he should call | **<big>[[G2564\|καλέση]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| Speak, | **<big>[[G2980\|λάλει]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| hears | **<big>[[G0191\|ακούει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel went, | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went to bed | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his place. | **<big>[[G5117\|τόπω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.8|<< 1 Samuel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.10|1 Samuel 3:10 >>]]</td></tr></table>
 
 

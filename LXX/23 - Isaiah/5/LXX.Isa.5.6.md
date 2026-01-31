@@ -7,35 +7,35 @@ And I will lay it waste: it shall not be pruned, nor digged; but there shall com
 I will make it a wasteland, neither pruned nor cultivated, and thorns and briers will grow up. I will command the clouds that rain shall not fall on it.”<small><sub>**MT:**</sub></small>
 [[Isa.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.5|<< Isaiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.7|Isaiah 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will forsake | <big><span class="asgreek">ανήσω</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my vineyard; | <big><span class="asgreek">αμπελώνά</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should it be pruned, | <big><span class="asgreek">τμηθή</span></big> <sup><small><small>[[G9419]]</small></small></sup> |
-| neither | <big><span class="asgreek">ουδε μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall it be dug. | <big><span class="asgreek">σκαφή</span></big> <sup><small><small>[[G4626]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an uncultivated land | <big><span class="asgreek">χέρσον</span></big> <sup><small><small>[[G9719]]</small></small></sup> |
-| \[the\] thorn-bush | <big><span class="asgreek">άκανθα</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφέλαις</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| I will give charge | <big><span class="asgreek">εντελούμαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| rain | <big><span class="asgreek">βρέξαι</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| upon | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[any\] rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will forsake | **<big>[[G0447\|ανήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my vineyard; | **<big>[[G0290\|αμπελώνά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should it be pruned, | **<big>[[G9419\|τμηθή]]</big>** |
+| neither | **<big>[[G8565\|ουδε μη]]</big>** |
+| shall it be dug. | **<big>[[G4626\|σκαφή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| an uncultivated land | **<big>[[G9719\|χέρσον]]</big>** |
+| \[the\] thorn-bush | **<big>[[G0173\|άκανθα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| clouds | **<big>[[G3507\|νεφέλαις]]</big>** |
+| I will give charge | **<big>[[G1781\|εντελούμαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| rain | **<big>[[G1026\|βρέξαι]]</big>** |
+| upon | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| \[any\] rain | **<big>[[G5205\|υετόν]]</big>** |
 [[Isa.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.5|<< Isaiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.7|Isaiah 5:7 >>]]</td></tr></table>
 
 

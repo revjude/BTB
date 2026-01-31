@@ -1,4 +1,3 @@
-<span class="ashebrew">‎רָעָה‎</span> <small>***(ra.ah)***</small> ==**distress: harm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-spelling of: <small>[[H7451A]]</small> 
+<small>spelling of:</small> <small>**<big>[[H7451A|רַע]]</big>**</small> 
 
 - : harm

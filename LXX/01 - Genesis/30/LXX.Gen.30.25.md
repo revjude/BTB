@@ -7,26 +7,26 @@ And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Se
 Now after Rachel had given birth to Joseph, Jacob said to Laban, “Send me on my way so I can return to my homeland.<small><sub>**MT:**</sub></small>
 [[Gen.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.24|<< Genesis 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.26|Genesis 30:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass when | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Rachel bore | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| Jacob said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Laban, | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| Send | <big><span class="asgreek">απόστειλόν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I may go forth | <big><span class="asgreek">απέλθω</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my place, | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And it came to pass when | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** **<big>[[G5613\|ως]]</big>** |
+| Rachel bore | **<big>[[G5088\|έτεκε]]</big>** **<big>[[G4478\|Ραχήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| Jacob said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Laban, | **<big>[[H3837b\|Λάβαν]]</big>** |
+| Send | **<big>[[G0649\|απόστειλόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I may go forth | **<big>[[G0565\|απέλθω]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my place, | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my land! | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.24|<< Genesis 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.26|Genesis 30:26 >>]]</td></tr></table>
 
 

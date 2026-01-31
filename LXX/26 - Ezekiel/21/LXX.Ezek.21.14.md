@@ -7,32 +7,32 @@ Thou therefore, son of man, prophesy, and smite [thine] hands together, and let 
 ‘So then, son of man, prophesy and strike your hands together. Let the sword strike two times, even three. It is a sword that slays, a sword of great slaughter closing in on every side!<small><sub>**MT:**</sub></small>
 [[Ezek.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.13|<< Ezekiel 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.15|Ezekiel 21:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| prophesy, | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clap | <big><span class="asgreek">κρότησον</span></big> <sup><small><small>[[G8104]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| hand! | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| repeat | <big><span class="asgreek">διπλασιάσον</span></big> <sup><small><small>[[G6941]]</small></small></sup> |
-| \[the\] broadsword! | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| is of slain ones, | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| of \[the\] slain | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall amaze | <big><span class="asgreek">εκστήσεις</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| prophesy, | **<big>[[G4395\|προφήτευσον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clap | **<big>[[G8104\|κρότησον]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| hand! | **<big>[[G5495\|χείρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| repeat | **<big>[[G6941\|διπλασιάσον]]</big>** |
+| \[the\] broadsword! | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| third | **<big>[[G5154\|τρίτη]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| is of slain ones, | **<big>[[G9470\|τραυματιών]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| of \[the\] slain | **<big>[[G9470\|τραυματιών]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall amaze | **<big>[[G1839\|εκστήσεις]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ezek.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.13|<< Ezekiel 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.15|Ezekiel 21:15 >>]]</td></tr></table>
 
 

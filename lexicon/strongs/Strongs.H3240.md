@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יָנַח‎</span></big> **yânach** <small>*(yaw-nakh')*</small> ==**to rest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָנַח‎</span></big>** **yânach** <small>*(yaw-nakh')*</small> ==**to rest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ bestow, cast down, lay (down, up), leave (off), let alone (remain), pacify, place, put, set (down), suffer, withdraw, withhold. (The Hiphil forms with the dagesh are here referred to, in accordance with the older grammarians; but if any distinction of the kind is to be made, these should rather be referred to <span class="ashebrew">‎נוּחַ‎</span><sup><small>[[H5117]]</small></sup>, and the others here.)
+$\quad$ bestow, cast down, lay (down, up), leave (off), let alone (remain), pacify, place, put, set (down), suffer, withdraw, withhold. (The Hiphil forms with the dagesh are here referred to, in accordance with the older grammarians; but if any distinction of the kind is to be made, these should rather be referred to **<big>[[H5117|‎נוּחַ‎]]</big>**, and the others here.)
 - ***to deposit***
 -  by implication, ***to allow to stay***
 

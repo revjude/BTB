@@ -6,23 +6,23 @@ Then you will trample the wicked, for they will be ashes under the soles of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.2|<< Malachi 4:2]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.4|Malachi 4:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will tread down  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עַסּוֹתֶ֣ם </big></span><small><small><sup>[[H6072]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.so.Tem <small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֔ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְי֣וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ash[es]  | <span class="ashebrew"><big>אֵ֔פֶר </big></span><small><small><sup>[[H0665]]</sup></small></small> &#8207;| 'E.fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| under  | <span class="ashebrew"><big>תַּ֖חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] soles of  | <span class="ashebrew"><big>כַּפּ֣וֹת </big></span><small><small><sup>[[H3709H]]</sup></small></small> &#8207;| ka.Pot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feet your  | <span class="ashebrew"><big>רַגְלֵי </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| rag.lei. <small><sup>[[HNcfdc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the day  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יּוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.yOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] acting  | <span class="ashebrew"><big>עֹשֶׂ֔ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָאֽוֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will tread down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6072\|עַסּוֹתֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.so.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֔ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְי֣וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ash[es]  |**<big>&#8207;[[H0665\|אֵ֔פֶר]]&#8207; </big>**| 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  |**<big>&#8207;[[H8478G\|תַּ֖חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] soles of  |**<big>&#8207;[[H3709H\|כַּפּ֣וֹת]]&#8207; </big>**| ka.Pot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet your  |**<big>&#8207;[[H7272\|רַגְלֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| rag.lei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] acting  |**<big>&#8207;[[H6213A\|עֹשֶׂ֔ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.2|<< Malachi 4:2]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.4|Malachi 4:4 >>]]</td></tr></table>
 
 

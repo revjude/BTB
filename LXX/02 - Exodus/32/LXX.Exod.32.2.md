@@ -7,30 +7,30 @@ And Aaron said unto them, Break off the golden earrings, which [are] in the ears
 So Aaron told them, “Take off the gold earrings that are on your wives and sons and daughters, and bring them to me.”<small><sub>**MT:**</sub></small>
 [[Exod.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.1|<< Exodus 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.3|Exodus 32:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| Remove | <big><span class="asgreek">περιέλεσθε</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ear-rings | <big><span class="asgreek">ενώτια</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears | <big><span class="asgreek">ώσι</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your wives, | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters; | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| \[them\] to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| Remove | **<big>[[G4014\|περιέλεσθε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ear-rings | **<big>[[G7278\|ενώτια]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| gold | **<big>[[G5552\|χρυσά]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| ears | **<big>[[G3775\|ώσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your wives, | **<big>[[G1135\|γυναικών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| daughters; | **<big>[[G2364\|θυγατέρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring | **<big>[[G5342\|ενέγκατε]]</big>** |
+| \[them\] to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
 [[Exod.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.1|<< Exodus 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.3|Exodus 32:3 >>]]</td></tr></table>
 
 

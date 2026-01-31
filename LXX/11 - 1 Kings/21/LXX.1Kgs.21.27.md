@@ -7,32 +7,32 @@ And it came to pass, when Ahab heard those words, that he rent his clothes, and 
 When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly.<small><sub>**MT:**</sub></small>
 [[1Kgs.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.26|<< 1 Kings 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.28|1 Kings 21:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Ahab heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words, | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he tore | <big><span class="asgreek">διέρρηξε</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inner-garment, | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he wore | <big><span class="asgreek">περιβάλετο</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| sackcloth | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his body, | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he fasted, | <big><span class="asgreek">ενηστεύσατο</span></big> <sup><small><small>[[G3522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he laid | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sackcloth, | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| having downcast eyes. | <big><span class="asgreek">κεκυφώς</span></big> <sup><small><small>[[G8135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Ahab heard | **<big>[[G0191\|ήκουσεν]]</big>** **<big>[[H0256\|Αχαάβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these words, | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| he tore | **<big>[[G1284\|διέρρηξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his inner-garment, | **<big>[[G5509\|χιτώνα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he wore | **<big>[[G4016\|περιβάλετο]]</big>** |
+| sackcloth | **<big>[[G4526\|σάκκον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his body, | **<big>[[G4983\|σώμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he fasted, | **<big>[[G3522\|ενηστεύσατο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he laid | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| sackcloth, | **<big>[[G4526\|σάκκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went | **<big>[[G4198\|επορεύετο]]</big>** |
+| having downcast eyes. | **<big>[[G8135\|κεκυφώς]]</big>** |
 [[1Kgs.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.26|<< 1 Kings 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.28|1 Kings 21:28 >>]]</td></tr></table>
 
 

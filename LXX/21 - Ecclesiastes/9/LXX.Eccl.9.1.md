@@ -10,32 +10,32 @@ For all this I considered in my heart even to declare all this, that the righteo
 So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate.<small><sub>**MT:**</sub></small>
 [[Eccl.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.17|<< Ecclesiastes 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.2|Ecclesiastes 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just, | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise, | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their works | <big><span class="asgreek">εργασίαι</span></big> <sup><small><small>[[G2039]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Indeed even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| love, | <big><span class="asgreek">αγάπη</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| indeed even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| hatred, | <big><span class="asgreek">μίσος</span></big> <sup><small><small>[[G8332]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| all the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| just, | **<big>[[G1342\|δίκαιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| wise, | **<big>[[G4680\|σοφοί]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their works | **<big>[[G2039\|εργασίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| are in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| Indeed even | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| love, | **<big>[[G0026\|αγάπη]]</big>** |
+| indeed even | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| hatred, | **<big>[[G8332\|μίσος]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| knowing | **<big>[[G1492\|ειδώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| all the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** **<big>[[G4383\|προσώπου]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Eccl.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.17|<< Ecclesiastes 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.2|Ecclesiastes 9:2 >>]]</td></tr></table>
 
 

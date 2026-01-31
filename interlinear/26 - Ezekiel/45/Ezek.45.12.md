@@ -6,22 +6,22 @@ The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the shekel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֖קֶל </big></span><small><small><sup>[[H8255]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> She.kel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] twenty  | <span class="ashebrew"><big>עֶשְׂרִ֣ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gerah[s]  | <span class="ashebrew"><big>גֵּרָ֑ה </big></span><small><small><sup>[[H1626]]</sup></small></small> &#8207;| ge.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֨ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shekels  | <span class="ashebrew"><big>שְׁקָלִ֜ים </big></span><small><small><sup>[[H8255]]</sup></small></small> &#8207;| she.ka.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמִשָּׁ֧ה </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶשְׂרִ֣ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shekels  | <span class="ashebrew"><big>שְׁקָלִ֗ים </big></span><small><small><sup>[[H8255]]</sup></small></small> &#8207;| she.ka.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָ֤ה </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲמִשָּׁה֙ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shekel[s]  | <span class="ashebrew"><big>שֶׁ֔קֶל </big></span><small><small><sup>[[H8255]]</sup></small></small> &#8207;| She.kel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the mina  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּנֶ֖ה </big></span><small><small><sup>[[H4488]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Neh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  | <span class="ashebrew"><big>יִֽהְיֶ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the shekel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8255\|שֶּׁ֖קֶל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֣ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gerah[s]  |**<big>&#8207;[[H1626\|גֵּרָ֑ה]]&#8207; </big>**| ge.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֨ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekels  |**<big>&#8207;[[H8255\|שְׁקָלִ֜ים]]&#8207; </big>**| she.ka.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמִשָּׁ֧ה]]&#8207; </big>**| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekels  |**<big>&#8207;[[H8255\|שְׁקָלִ֗ים]]&#8207; </big>**| she.ka.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֤ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁה֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekel[s]  |**<big>&#8207;[[H8255\|שֶׁ֔קֶל]]&#8207; </big>**| She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mina  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4488\|מָּנֶ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|יִֽהְיֶ֥ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 
 

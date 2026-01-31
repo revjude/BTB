@@ -4,7 +4,7 @@ People from Naamath\(?\)
 
 The <span class='tipnrhighlight'>Naamathites</span> were the people group to which Zophar, one of Job's three friends, belonged.
 - People from Naamath\(?\), first mentioned at [[Job.2.11|Job.2.11]]; 
-- only referred to as Naamathites<[[H5284]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Naamathites **<big>[[H5284|נַעֲמָתִי]]</big>**.
 
 The Naamathites are mentioned in the Book of Job as the people group to which Zophar, one of Job's three friends, belonged \([[Job.2.11|Job 2:11]]; 11:1; 20:1; 42:9\). Zophar is described as "the Naamathite," indicating his association with this group. 
 
@@ -16,5 +16,5 @@ Zophar's speeches, as a representative of the Naamathites, emphasize the idea th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naamathite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5284) <small>*Hebrew*</small> | 4x | [[Job.2.11] ... [Job.42.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamathite\*\|reference=Job.2.11;Job.11.1;Job.20.1;Job.42.9) |
-All Strong's for **Naamathites**: \[[[H5284]]\]
+| Naamathite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H5284) | 4x | [[Job.2.11] ... [Job.42.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamathite\*\|reference=Job.2.11;Job.11.1;Job.20.1;Job.42.9) |
+All entries for **Naamathites**:  **<big>[[H5284|נַעֲמָתִי]]</big>**

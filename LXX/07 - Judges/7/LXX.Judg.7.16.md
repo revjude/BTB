@@ -7,31 +7,31 @@ And he divided the three hundred men [into] three companies, and he put a trumpe
 And he divided the three hundred men into three companies and gave each man a ram’s horn in one hand and a large jar in the other, containing a torch.<small><sub>**MT:**</sub></small>
 [[Judg.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.15|<< Judges 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.17|Judges 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he divided | <big><span class="asgreek">διείλε</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίους</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| companies, | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| horns | <big><span class="asgreek">κερατίνας</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all, | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water-pitchers | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| empty | <big><span class="asgreek">κενάς</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lamps | <big><span class="asgreek">λαμπάδας</span></big> <sup><small><small>[[G2985]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the middle | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water-pitchers. | <big><span class="asgreek">υδριών</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he divided | **<big>[[G1244\|διείλε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| companies, | **<big>[[G0746\|αρχάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G1325\|έδωκε]]</big>** |
+| horns | **<big>[[G7998\|κερατίνας]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of all, | **<big>[[G3956\|πάντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water-pitchers | **<big>[[G5201\|υδρίας]]</big>** |
+| empty | **<big>[[G2756\|κενάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lamps | **<big>[[G2985\|λαμπάδας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the middle | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| water-pitchers. | **<big>[[G5201\|υδριών]]</big>** |
 [[Judg.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.15|<< Judges 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.17|Judges 7:17 >>]]</td></tr></table>
 
 

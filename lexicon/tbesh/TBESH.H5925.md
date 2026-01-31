@@ -1,9 +1,7 @@
-<span class="ashebrew">‎עֻלָּא‎</span> <small>***(ul.la)***</small> ==**Ulla**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H7777B]]</small> 
+<small>name of:</small> <small>**<big>[[H7777B|שׁוּעָל]]</big>**</small> 
 
 - A man of the tribe of Asher living at the time of Divided Monarchy, first mentioned at [[1Chr.7.36|1Ch.7.36]]
--  son of: Zophah ([[H6690]])
--  brother of: Suah ([[H5477]]), Harnepher ([[H2774]]), Beri ([[H1275]]), Imrah ([[H3236]]), Bezer ([[H1221H]]), Hod ([[H1936]]), Shamma ([[H8037H]]), Shilshah ([[H8030]]), Ithran ([[H3506H]]) and Beera ([[H0878]])
--  father of: Arah ([[H0733]]), Hanniel ([[H2592H]]) and Rizia ([[H7525]]); also called Ulla at [[1Chr.7.39|1Ch.7.39]]
-- Another name of <i>shu.al</i> (<span class='ashebrew'>‎ש‎</span>ׁ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ל‎</span> "Shual" [[H7777B]])
-
+-  son of: Zophah (**<big>[[H6690|צוֹפַח]]</big>**)
+-  brother of: Suah (**<big>[[H5477|סוּחַ]]</big>**), Harnepher (**<big>[[H2774|חַרְנֶפֶר]]</big>**), Beri (**<big>[[H1275|בֵּרִי]]</big>**), Imrah (**<big>[[H3236|יִמְרָה]]</big>**), Bezer (**<big>[[H1221H|בֶּצֶר]]</big>**), Hod (**<big>[[H1936|הוֹד]]</big>**), Shamma (**<big>[[H8037H|שַׁמָּא]]</big>**), Shilshah (**<big>[[H8030|שִׁלְשָׁה]]</big>**), Ithran (**<big>[[H3506H|יִתְרָן]]</big>**) and Beera (**<big>[[H0878|בְּאֵרָא]]</big>**)
+-  father of: Arah (**<big>[[H0733|אָרַח]]</big>**), Hanniel (**<big>[[H2592H|חַנִּיאֵל]]</big>**) and Rizia (**<big>[[H7525|רִצְיָא]]</big>**); also called Ulla at [[1Chr.7.39|1Ch.7.39]]
+- Another name of <i>shu.al</i> (<span class='ashebrew'>‎ש‎</span>ׁ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ל‎</span> "Shual" **<big>[[H7777B|שׁוּעָל]]</big>**)

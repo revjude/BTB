@@ -7,20 +7,20 @@ And it is turned round about by his counsels: that they may do whatsoever he com
 They swirl about, whirling at His direction, accomplishing all that He commands over the face of all the earth.<small><sub>**MT:**</sub></small>
 [[Job.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.11|<< Job 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.13|Job 37:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] swirls | <big><span class="asgreek">κυκλώματα</span></big> <sup><small><small>[[G8119]]</small></small></sup> |
-| shall turn aside | <big><span class="asgreek">διαστρέψει</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[his\] rule | <big><span class="asgreek">θεεβουλαθώθ</span></big> <sup><small><small>[[G7646]]</small></small></sup> |
-| for \[performing\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their works -- | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should give charge | <big><span class="asgreek">εντείληται</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| \[the\] swirls | **<big>[[G8119\|κυκλώματα]]</big>** |
+| shall turn aside | **<big>[[G1294\|διαστρέψει]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[his\] rule | **<big>[[G7646\|θεεβουλαθώθ]]</big>** |
+| for \[performing\] | **<big>[[G1519\|εις]]</big>** |
+| their works -- | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| he should give charge | **<big>[[G1781\|εντείληται]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Job.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.11|<< Job 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.13|Job 37:13 >>]]</td></tr></table>
 
 

@@ -7,49 +7,49 @@ When ye blow an alarm the second time, then the camps that lie on the south side
 When you sound the short blasts a second time, the camps that lie on the south side are to set out. The blasts are to signal them to set out.<small><sub>**MT:**</sub></small>
 [[Num.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.5|<< Numbers 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.7|Numbers 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall trump | <big><span class="asgreek">σαλπιείτε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| for a signal | <big><span class="asgreek">σημασίαν</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| a second \[time\], | <big><span class="asgreek">δευτέραν</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lift away | <big><span class="asgreek">εξαρούσιν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camps | <big><span class="asgreek">παρεμβολαί</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camping | <big><span class="asgreek">παρεμβάλλουσαι</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall trump | <big><span class="asgreek">σαλπιείτε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| signal | <big><span class="asgreek">σημασίαν</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| a third | <big><span class="asgreek">τρίτην</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lift away | <big><span class="asgreek">εξαρούσιν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camps | <big><span class="asgreek">παρεμβολαί</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camping | <big><span class="asgreek">παρεμβάλλουσαι</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] west. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall trump | <big><span class="asgreek">σαλπιείτε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| signal | <big><span class="asgreek">σημασίαν</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| a fourth | <big><span class="asgreek">τετάρτην</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lift away | <big><span class="asgreek">εξαρούσιν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camps | <big><span class="asgreek">παρεμβολαί</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camping | <big><span class="asgreek">παρεμβάλλουσαι</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| a signal | <big><span class="asgreek">σημασίαν</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| You shall trump | <big><span class="asgreek">σαλπιούσιν</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their departure. | <big><span class="asgreek">εξάρσει</span></big> <sup><small><small>[[G7302]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall trump | **<big>[[G4537\|σαλπιείτε]]</big>** |
+| for a signal | **<big>[[G9070\|σημασίαν]]</big>** |
+| a second \[time\], | **<big>[[G1208\|δευτέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lift away | **<big>[[G1808\|εξαρούσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| camps | **<big>[[G3925\|παρεμβολαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| camping | **<big>[[G6070\|παρεμβάλλουσαι]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] south. | **<big>[[G3047\|λίβα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall trump | **<big>[[G4537\|σαλπιείτε]]</big>** |
+| signal | **<big>[[G9070\|σημασίαν]]</big>** |
+| a third | **<big>[[G5154\|τρίτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lift away | **<big>[[G1808\|εξαρούσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| camps | **<big>[[G3925\|παρεμβολαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| camping | **<big>[[G6070\|παρεμβάλλουσαι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] west. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall trump | **<big>[[G4537\|σαλπιείτε]]</big>** |
+| signal | **<big>[[G9070\|σημασίαν]]</big>** |
+| a fourth | **<big>[[G5067\|τετάρτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lift away | **<big>[[G1808\|εξαρούσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| camps | **<big>[[G3925\|παρεμβολαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| camping | **<big>[[G6070\|παρεμβάλλουσαι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορράν]]</big>** |
+| a signal | **<big>[[G9070\|σημασίαν]]</big>** |
+| You shall trump | **<big>[[G4537\|σαλπιούσιν]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their departure. | **<big>[[G7302\|εξάρσει]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.5|<< Numbers 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.7|Numbers 10:7 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ When I washed my steps with butter, and the rock poured me out rivers of oil;
 when my steps were bathed in cream and the rock poured out for me streams of oil!<small><sub>**MT:**</sub></small>
 [[Job.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.5|<< Job 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.7|Job 29:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| poured forth | <big><span class="asgreek">εχέοντο</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| butter, | <big><span class="asgreek">βουτύρω</span></big> <sup><small><small>[[G6694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| poured forth | <big><span class="asgreek">εχέοντο</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
-| milk; | <big><span class="asgreek">γάλακτι</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| poured forth | **<big>[[G9721\|εχέοντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| my ways | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| butter, | **<big>[[G6694\|βουτύρω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my mountains | **<big>[[G3735\|όρη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| poured forth | **<big>[[G9721\|εχέοντο]]</big>** |
+| milk; | **<big>[[G1051\|γάλακτι]]</big>** |
 [[Job.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.5|<< Job 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.7|Job 29:7 >>]]</td></tr></table>
 
 

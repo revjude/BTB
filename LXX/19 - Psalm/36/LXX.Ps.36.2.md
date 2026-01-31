@@ -7,18 +7,18 @@ For he flattereth himself in his own eyes, until his iniquity be found to be hat
 For his eyes are too full of conceit to detect or hate his own sin.<small><sub>**MT:**</sub></small>
 [[Ps.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.1|<< Psalm 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.3|Psalm 36:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he acted treacherously | <big><span class="asgreek">εδόλωσεν</span></big> <sup><small><small>[[G1389]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to find out | <big><span class="asgreek">ευρείν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| detest. | <big><span class="asgreek">μισήσαι</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he acted treacherously | **<big>[[G1389\|εδόλωσεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| so as | **<big>[[G3588\|του]]</big>** |
+| to find out | **<big>[[G2147\|ευρείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his lawlessness | **<big>[[G0458\|ανομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| detest. | **<big>[[G3404\|μισήσαι]]</big>** |
 [[Ps.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.1|<< Psalm 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.3|Psalm 36:3 >>]]</td></tr></table>
 
 

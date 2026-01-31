@@ -4,9 +4,9 @@ King living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nadab</span>, the son of Jeroboam I, reigned as king of Israel for two years before being assassinated by Baasha.
 - A king of Northern Israel, living at the time of Divided Monarchy, first mentioned at [[1Kgs.14.20|1Ki.14.20]]; 
-- only referred to as Nadab<[[H5070H]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Jeroboam<[[H3379G]]>; 
-- a brother of Abijah<[[H0029H]]>.
+- only referred to as Nadab **<big>[[H5070|נָדָב]]</big>**; 
+-  son of Jeroboam **<big>[[H3379|יָרׇבְעָם]]</big>**; 
+- a brother of Abijah **<big>[[H0029|אֲבִיָּה]]</big>**.
 
 Nadab was the son of Jeroboam I, the first king of the northern kingdom of Israel after the division of the united monarchy. He succeeded his father as king and reigned over Israel for two years \([[1Kgs.15.25|1 Kings 15:25]]\). 
 
@@ -20,8 +20,8 @@ Nadab's brief reign and his assassination demonstrate the instability and turmoi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nadab | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H5070H) <small>*Hebrew*</small> | 4x | [[1Ki.14.20] ... [1Ki.15.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nadab\*\|reference=1Ki.14.20;1Ki.15.25;1Ki.15.27;1Ki.15.31) |
-All Strong's for **Nadab**: \[[[H5070H]]\]
+| Nadab | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H5070H) | 4x | [[1Ki.14.20] ... [1Ki.15.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nadab\*\|reference=1Ki.14.20;1Ki.15.25;1Ki.15.27;1Ki.15.31) |
+All entries for **Nadab**:  **<big>[[H5070|נָדָב]]</big>**
 #### Related Profiles:
 - **[Jeroboam](H3379G)** (father)
 - **[Abijah](H0029H)** (sibling)

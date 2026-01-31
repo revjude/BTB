@@ -7,53 +7,53 @@ And the man said unto me, Son of man, behold with thine eyes, and hear with thin
 “Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”<small><sub>**MT:**</sub></small>
 [[Ezek.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| You see, | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man! | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ears | <big><span class="asgreek">ωσί</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| arrange | <big><span class="asgreek">τάξον</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| show | <big><span class="asgreek">δεικνύω</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| on account of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| showing | <big><span class="asgreek">δείξαί</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you entered | <big><span class="asgreek">εισελήλυθας</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will show | <big><span class="asgreek">δείξεις</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| all \[things\], | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see | <big><span class="asgreek">οράς</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| You see, | **<big>[[G3708\|εώρακας]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man! | **<big>[[G0444\|ανθρώπου]]</big>** |
+| With | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| behold, | **<big>[[G1492\|ίδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your ears | **<big>[[G3775\|ωσί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| hear, | **<big>[[G0191\|άκουε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| arrange | **<big>[[G5021\|τάξον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| show | **<big>[[G1166\|δεικνύω]]</big>** |
+| to you! | **<big>[[G1473\|σοι]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| on account of | **<big>[[G1752\|ένεκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| showing | **<big>[[G1166\|δείξαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| you entered | **<big>[[G1525\|εισελήλυθας]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will show | **<big>[[G1166\|δείξεις]]</big>** |
+| all \[things\], | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| see | **<big>[[G3708\|οράς]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ Remember how the enemy has mocked You, O LORD, how a foolish people has spurned 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.17|<< Psalms 74:17]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.19|Psalms 74:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| remember  | <span class="ashebrew"><big>זְכָר </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ze.khor- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֗את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] enemy  | <span class="ashebrew"><big>א֭וֹיֵב </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| 'o.yev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he taunted  | <span class="ashebrew"><big>חֵרֵ֣ף </big></span><small><small><sup>[[H2778A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| che.Ref <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a people  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֥ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foolish  | <span class="ashebrew"><big>נָ֝בָ֗ל </big></span><small><small><sup>[[H5036]]</sup></small></small> &#8207;| na.Val <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they spurned  | <span class="ashebrew"><big>נִֽאֲצ֥וּ </big></span><small><small><sup>[[H5006]]</sup></small></small> &#8207;| ni.'a.Tzu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שְׁמֶֽ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Me. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| remember  |**<big>&#8207;[[H2142\|זְכָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ze.khor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֗את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] enemy  |**<big>&#8207;[[H0341\|א֭וֹיֵב]]&#8207; </big>**| 'o.yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he taunted  |**<big>&#8207;[[H2778A\|חֵרֵ֣ף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| che.Ref<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foolish  |**<big>&#8207;[[H5036\|נָ֝בָ֗ל]]&#8207; </big>**| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they spurned  |**<big>&#8207;[[H5006\|נִֽאֲצ֥וּ]]&#8207; </big>**| ni.'a.Tzu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שְׁמֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.17|<< Psalms 74:17]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.19|Psalms 74:19 >>]]</td></tr></table>
 
 

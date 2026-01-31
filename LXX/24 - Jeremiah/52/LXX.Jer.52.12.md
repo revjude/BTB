@@ -10,29 +10,29 @@ Now in the fifth month, in the tenth [day] of the month, which [was] the ninetee
 On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.<small><sub>**MT:**</sub></small>
 [[Jer.52.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.11|<< Jeremiah 52:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.13|Jeremiah 52:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth | <big><span class="asgreek">πέμπτω</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| \[the\] tenth | <big><span class="asgreek">δεκάτη</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| Nabuzar-ardan | <big><span class="asgreek">Ναβουζαρδάν</span></big> <sup><small><small>[[H5018]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard | <big><span class="asgreek">αρχιμάγειρος</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
-| (the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon) | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| fifth | **<big>[[G3991\|πέμπτω]]</big>** |
+| \[the\] tenth | **<big>[[G1181\|δεκάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| Nabuzar-ardan | **<big>[[H5018\|Ναβουζαρδάν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief guard | **<big>[[G6554\|αρχιμάγειρος]]</big>** |
+| (the one | **<big>[[G3588\|ο]]</big>** |
+| standing | **<big>[[G2476\|εστώς]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon) | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Jer.52.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.11|<< Jeremiah 52:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.13|Jeremiah 52:13 >>]]</td></tr></table>
 
 

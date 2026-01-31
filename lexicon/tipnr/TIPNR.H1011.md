@@ -1,8 +1,8 @@
 <small>*Beth-biri • Town in Simeon, formerly called Bethul.*</small>
 
 <span class='tipnrhighlight'>Beth-biri</span> was a town allotted to the tribe of Simeon, formerly known as Bethul. \([[1Chr.4.31|1 Chronicles 4:31]]\)
-- A location near Madmannah<[[H4089G]]> only mentioned at [[1Chr.4.31|1Ch.4.31]]; 
-- only referred to as Beth-biri<[[H1011]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- A location near Madmannah **<big>[[H4089|מַדְמַנָּה]]</big>** only mentioned at [[1Chr.4.31|1Ch.4.31]]; 
+- only referred to as Beth-biri **<big>[[H1011|בֵּית בִּרְאִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.391668,34.940502&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Beth-biri is not specified in the Bible, but it was within
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-biri (NIV= Beth Biri) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H1011) <small>*Hebrew*</small> | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.4.31) |
-All Strong's for **Beth-biri**: \[[[H1011]]\]
+| Beth-biri (NIV= Beth Biri) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>](H1011) | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.4.31) |
+All entries for **Beth-biri**:  **<big>[[H1011|בֵּית בִּרְאִי]]</big>**

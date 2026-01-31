@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּכָה‎</span></big> **dâkâh** <small>*(daw-kaw')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎דַּךְ‎</span><sup><small>[[H1790]]</small></sup>, <span class="ashebrew">‎דָּכָא‎</span><sup><small>[[H1792]]</small></sup>)</small>
+**<big><span class="ashebrew">‎דָּכָה‎</span></big>** **dâkâh** <small>*(daw-kaw')*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H1790|‎דַּךְ‎]]</big>**, **<big>[[H1792|‎דָּכָא‎]]</big>**)</small>
 
 $\quad$ break (sore), contrite, crouch.
 - ***to collapse*** (phys. or mentally)

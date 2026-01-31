@@ -11,38 +11,38 @@ The remnant of Israel will no longer do wrong or speak lies, nor will a deceitfu
 > $\quad$ referenced by: [[Rev.14.5|Rev 14:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnant | <big><span class="asgreek">κατάλοιποι</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| commit | <big><span class="asgreek">ποιήσουσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| iniquity, | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλήσουσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| vanity, | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should there be found | <big><span class="asgreek">ευρεθή</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| a deceitful | <big><span class="asgreek">δολία</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall feed, | <big><span class="asgreek">νεμήσονται</span></big> <sup><small><small>[[G8385]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lay in bed, | <big><span class="asgreek">κοιτασθήσονται</span></big> <sup><small><small>[[G8045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| frightening | <big><span class="asgreek">εκφοβών</span></big> <sup><small><small>[[G1629]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | **<big>[[G3588\|οι]]</big>** |
+| remnant | **<big>[[G2645\|κατάλοιποι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| commit | **<big>[[G4160\|ποιήσουσιν]]</big>** |
+| iniquity, | **<big>[[G0093\|αδικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| speak | **<big>[[G2980\|λαλήσουσι]]</big>** |
+| vanity, | **<big>[[G3152\|μάταια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should there be found | **<big>[[G2147\|ευρεθή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their mouth | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| tongue | **<big>[[G1100\|γλώσσα]]</big>** |
+| a deceitful | **<big>[[G1386\|δολία]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall feed, | **<big>[[G8385\|νεμήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lay in bed, | **<big>[[G8045\|κοιτασθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| one | **<big>[[G3588\|ο]]</big>** |
+| frightening | **<big>[[G1629\|εκφοβών]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Zeph.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.12|<< Zephaniah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.14|Zephaniah 3:14 >>]]</td></tr></table>
 
 

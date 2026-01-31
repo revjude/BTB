@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חׇכְמָה‎</span></big> **chokmâh** <small>*(khok-maw')*</small> ==**wisdom**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָכַם‎</span><sup><small>[[H2449]]</small></sup></small>
+**<big><span class="ashebrew">‎חׇכְמָה‎</span></big>** **chokmâh** <small>*(khok-maw')*</small> ==**wisdom**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2449|‎חָכַם‎]]</big>**</small>
 
 $\quad$ skilful, wisdom, wisely, wit.
 - ***wisdom*** (in a good sense)
@@ -11,4 +11,4 @@ $\quad$ **1c)** shrewdness, wisdom
 $\quad$ **1d)** wisdom, prudence (in religious affairs)
 $\quad$ **1e)** wisdom (ethical and religious)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζωή</span><sup><small>[[G2222]]</small></sup> · <span class="asgreek">σοφία</span><sup><small>[[G4678]]</small></sup> · <span class="asgreek">σύνεσις</span><sup><small>[[G4907]]</small></sup> · <span class="asgreek">τέχνη</span><sup><small>[[G5078]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup>
+<small>See Greek: </small>**<big>[[G2222|ζωή]]</big>** · **<big>[[G4678|σοφία]]</big>** · **<big>[[G4907|σύνεσις]]</big>** · **<big>[[G5078|τέχνη]]</big>** · **<big>[[G5428|φρόνησις]]</big>**

@@ -6,16 +6,16 @@ Do not speak to a fool, for he will despise the wisdom of your words.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.8|<< Proverbs 23:8]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.10|Proverbs 23:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in [the] ears of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָזְנֵ֣י </big></span><small><small><sup>[[H0241H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.ze.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fool  | <span class="ashebrew"><big>כְ֭סִיל </big></span><small><small><sup>[[H3684]]</sup></small></small> &#8207;| Khe.sil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you speak  | <span class="ashebrew"><big>תְּדַבֵּ֑ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| te.da.Ber <small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will despise  | <span class="ashebrew"><big>יָ֝ב֗וּז </big></span><small><small><sup>[[H0936]]</sup></small></small> &#8207;| ya.Vuz <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> [the] insight of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֵׂ֣כֶל </big></span><small><small><sup>[[H7922]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Se.khel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words your  | <span class="ashebrew"><big>מִלֶּֽי </big></span><small><small><sup>[[H4405]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Lei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] ears of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0241H\|אָזְנֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.ze.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  |**<big>&#8207;[[H3684\|כְ֭סִיל]]&#8207; </big>**| Khe.sil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you speak  |**<big>&#8207;[[H1696G\|תְּדַבֵּ֑ר]]&#8207; </big>**| te.da.Ber<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will despise  |**<big>&#8207;[[H0936\|יָ֝ב֗וּז]]&#8207; </big>**| ya.Vuz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> [the] insight of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7922\|שֵׂ֣כֶל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Se.khel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words your  |**<big>&#8207;[[H4405\|מִלֶּֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.8|<< Proverbs 23:8]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.10|Proverbs 23:10 >>]]</td></tr></table>
 
 

@@ -10,55 +10,55 @@ And the children of Israel did evil again in the sight of the LORD, and served B
 And again the Israelites did evil in the sight of the LORD. They served the Baals, the Ashtoreths, the gods of Aram, Sidon, and Moab, and the gods of the Ammonites and Philistines. Thus they forsook the LORD and did not serve Him.<small><sub>**MT:**</sub></small>
 [[Judg.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.5|<< Judges 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.7|Judges 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proceeded | <big><span class="asgreek">προσέθεντο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wickedly | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they served | <big><span class="asgreek">ελάτρευσαν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baalim, | <big><span class="asgreek">Βααλίμ</span></big> <sup><small><small>[[H1168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashtaroths, | <big><span class="asgreek">Ασταρώθ</span></big> <sup><small><small>[[H6252]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Syria, | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Sidon, | <big><span class="asgreek">Σιδώνος</span></big> <sup><small><small>[[G4605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines; | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| serve | <big><span class="asgreek">εδούλευσαν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| proceeded | **<big>[[G4369\|προσέθεντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wickedly | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they served | **<big>[[G3000\|ελάτρευσαν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Baalim, | **<big>[[H1168\|Βααλίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Ashtaroths, | **<big>[[H6252\|Ασταρώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| of Syria, | **<big>[[G4947\|Συρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| of Sidon, | **<big>[[G4605\|Σιδώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines; | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they abandoned | **<big>[[G1459\|εγκατέλιπον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| serve | **<big>[[G1398\|εδούλευσαν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Judg.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.5|<< Judges 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.7|Judges 10:7 >>]]</td></tr></table>
 
 

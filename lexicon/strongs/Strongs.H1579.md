@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּמְזוֹ‎</span></big> **Gimzôw** <small>*(ghim-zo')*</small> ==**Gimzo**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎גִּמְזוֹ‎</span></big>** **Gimzôw** <small>*(ghim-zo')*</small> ==**Gimzo**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Gimzo.

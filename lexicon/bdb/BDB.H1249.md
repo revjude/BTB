@@ -1,4 +1,4 @@
-<small>Also see: [[H1250]]</small>
+<small>Also see: **<big>[[H1250|בָּר]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎בַּר‎</span> corn, III. <span class="bdbLangHebrew">‎בַּר‎</span> ==pure==, <span class="bdbLangHebrew">‎בָּר‎</span>, I. II. <span class="bdbLangHebrew">‎בֹּר‎</span> see  <span class="bdbLangHebrew">‎ברר‎</span>. 
 

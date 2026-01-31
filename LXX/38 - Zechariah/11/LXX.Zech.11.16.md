@@ -7,45 +7,45 @@ For, lo, I will raise up a shepherd in the land, [which] shall not visit those t
 For behold, I will raise up a shepherd in the land who will neither care for the lost, nor seek the young, nor heal the broken, nor sustain the healthy, but he will devour the flesh of the choice sheep and tear off their hooves.<small><sub>**MT:**</sub></small>
 [[Zech.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.15|<< Zechariah 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.17|Zechariah 11:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I shall arouse | <big><span class="asgreek">εξεγείρω</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| a shepherd | <big><span class="asgreek">ποιμένα</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| one who | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| faltering | <big><span class="asgreek">εκλείπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall visit | <big><span class="asgreek">επισκέψηται</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being dispersed | <big><span class="asgreek">εσκορπισμένον</span></big> <sup><small><small>[[G4650]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he seek | <big><span class="asgreek">ζητήση</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being broken | <big><span class="asgreek">συντετριμμένον</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he heal | <big><span class="asgreek">ιάσηται</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole | <big><span class="asgreek">ολόκληρον</span></big> <sup><small><small>[[G3648]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he conduct | <big><span class="asgreek">κατευθύνη</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| choice | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| he shall devour, | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their vertebrae | <big><span class="asgreek">αστραγάλους</span></big> <sup><small><small>[[G6575]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall distort | <big><span class="asgreek">εκστρέψει</span></big> <sup><small><small>[[G1612]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I shall arouse | **<big>[[G1825\|εξεγείρω]]</big>** |
+| a shepherd | **<big>[[G4166\|ποιμένα]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| one who | **<big>[[G3748\|όστις]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| faltering | **<big>[[G1587\|εκλείπον]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall visit | **<big>[[G1980\|επισκέψηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| being dispersed | **<big>[[G4650\|εσκορπισμένον]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he seek | **<big>[[G2212\|ζητήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| being broken | **<big>[[G4937\|συντετριμμένον]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he heal | **<big>[[G2390\|ιάσηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| whole | **<big>[[G3648\|ολόκληρον]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he conduct | **<big>[[G2720\|κατευθύνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| meats | **<big>[[G2907\|κρέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| choice | **<big>[[G1588\|εκλεκτών]]</big>** |
+| he shall devour, | **<big>[[G2719\|καταφάγεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their vertebrae | **<big>[[G6575\|αστραγάλους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he shall distort | **<big>[[G1612\|εκστρέψει]]</big>** |
 [[Zech.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.15|<< Zechariah 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.17|Zechariah 11:17 >>]]</td></tr></table>
 
 

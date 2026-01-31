@@ -6,16 +6,16 @@ He must not eat anything found dead or torn by wild animals, which would make hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a carcass  | <span class="ashebrew"><big>נְבֵלָ֧ה </big></span><small><small><sup>[[H5038]]</sup></small></small> &#8207;| ne.ve.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a torn animal  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>טְרֵפָ֛ה </big></span><small><small><sup>[[H2966]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.re.Fah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will eat  | <span class="ashebrew"><big>יֹאכַ֖ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| yo.Khal <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to become unclean  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>טָמְאָה </big></span><small><small><sup>[[H2930A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ta.me.'ah- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> it  | <span class="ashebrew"><big>בָ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| Va <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֖י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a carcass  |**<big>&#8207;[[H5038\|נְבֵלָ֧ה]]&#8207; </big>**| ne.ve.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a torn animal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2966\|טְרֵפָ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.re.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will eat  |**<big>&#8207;[[H0398\|יֹאכַ֖ל]]&#8207; </big>**| yo.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to become unclean  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2930A\|טָמְאָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ta.me.'ah-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> it  |**<big>&#8207;[[H9003\|בָ֑]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
 

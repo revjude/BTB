@@ -7,25 +7,25 @@ And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife
 And Rehoboam married Mahalath, who was the daughter of David’s son Jerimoth and of Abihail, the daughter of Jesse’s son Eliab.<small><sub>**MT:**</sub></small>
 [[2Chr.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| for a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mahalath | <big><span class="asgreek">Μαελλέθ</span></big> <sup><small><small>[[H4258]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jerimoth | <big><span class="asgreek">Ιεριμούθ</span></big> <sup><small><small>[[H3406]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abihail | <big><span class="asgreek">Αβιχαϊλ</span></big> <sup><small><small>[[H0032]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Eliab | <big><span class="asgreek">Ελιάβ</span></big> <sup><small><small>[[H0446]]</small></small></sup> |
-| son | <big><span class="asgreek">υιου</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jesse. | <big><span class="asgreek">Ιεσσαί</span></big> <sup><small><small>[[G2421]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| for a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Mahalath | **<big>[[H4258\|Μαελλέθ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Jerimoth | **<big>[[H3406\|Ιεριμούθ]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abihail | **<big>[[H0032\|Αβιχαϊλ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Eliab | **<big>[[H0446\|Ελιάβ]]</big>** |
+| son | **<big>[[G5207\|υιου]]</big>** |
+| of Jesse. | **<big>[[G2421\|Ιεσσαί]]</big>** |
 [[2Chr.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
 

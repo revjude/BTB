@@ -1,4 +1,3 @@
-<span class="asaramaic">‎שְׁלֵה‎</span> <small>***(she.lah)***</small> ==**be safe**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H7951]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7951|שָׁלָה]]</big>**</small> 
 
-- Aramaic of <i>sha.lah</i> (<span class='ashebrew'>‎ש‎</span>ָׁ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ה‎</span> "to prosper" [[H7951]])
+- Aramaic of <i>sha.lah</i> (<span class='ashebrew'>‎ש‎</span>ָׁ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ה‎</span> "to prosper" **<big>[[H7951|שָׁלָה]]</big>**)

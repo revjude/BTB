@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁגָגָה‎</span></big> **shᵉgâgâh** <small>*(sheg-aw-gaw')*</small> ==**unintentionally**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁגַג‎</span><sup><small>[[H7683]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁגָגָה‎</span></big>** **shᵉgâgâh** <small>*(sheg-aw-gaw')*</small> ==**unintentionally**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7683|‎שָׁגַג‎]]</big>**</small>
 
 $\quad$ error, ignorance, at unawares; unwittingly.
 - ***a mistake*** or ***inadvertent transgression***
@@ -7,4 +7,4 @@ $\quad$ error, ignorance, at unawares; unwittingly.
 **1)** sin, sin of error or inadvertence, inadvertent sin
 $\quad$ **1a)** error
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγνοια</span><sup><small>[[G0052]]</small></sup>
+<small>See Greek: </small>**<big>[[G0052|ἄγνοια]]</big>**

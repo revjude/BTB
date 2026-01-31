@@ -6,15 +6,15 @@ But God understands its way, and He knows its place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.22|<< Job 28:22]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.24|Job 28:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| God  | <span class="ashebrew"><big>אֱ֭לֹהִים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he understands  | <span class="ashebrew"><big>הֵבִ֣ין </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| he.Vin <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way its  | <span class="ashebrew"><big>דַּרְכָּ֑ </big></span><small><small><sup>[[H1870J]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| dar.Ka <small><sup>[[HNcbsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֗וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knows  | <span class="ashebrew"><big>יָדַ֥ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| place its  | <span class="ashebrew"><big>מְקוֹמָֽ </big></span><small><small><sup>[[H4725]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.ko.Ma <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he understands  |**<big>&#8207;[[H0995\|הֵבִ֣ין]]&#8207; </big>**| he.Vin<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way its  |**<big>&#8207;[[H1870J\|דַּרְכָּ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knows  |**<big>&#8207;[[H3045\|יָדַ֥ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place its  |**<big>&#8207;[[H4725\|מְקוֹמָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.ko.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.22|<< Job 28:22]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.24|Job 28:24 >>]]</td></tr></table>
 
 

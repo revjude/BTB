@@ -10,38 +10,38 @@ Then came the children of Israel, [even] the whole congregation, into the desert
 In the first month, the whole congregation of Israel entered the Wilderness of Zin and stayed in Kadesh. There Miriam died and was buried.<small><sub>**MT:**</sub></small>
 [[Num.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.22|<< Numbers 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.2|Numbers 20:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| of the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Zin, | <big><span class="asgreek">Σιν</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stayed | <big><span class="asgreek">κατέμεινεν</span></big> <sup><small><small>[[G2650]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Kadesh. | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to an end | <big><span class="asgreek">ετελεύτησεν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Miriam | <big><span class="asgreek">Μαριάμ</span></big> <sup><small><small>[[G3137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she was entombed | <big><span class="asgreek">ετάφη</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| of the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγή]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| of Zin, | **<big>[[H6790\|Σιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| first | **<big>[[G4413\|πρώτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stayed | **<big>[[G2650\|κατέμεινεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Kadesh. | **<big>[[H6946\|Κάδης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to an end | **<big>[[G5053\|ετελεύτησεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Miriam | **<big>[[G3137\|Μαριάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she was entombed | **<big>[[G2290\|ετάφη]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Num.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.22|<< Numbers 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.2|Numbers 20:2 >>]]</td></tr></table>
 
 

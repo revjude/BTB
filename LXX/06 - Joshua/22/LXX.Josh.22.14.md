@@ -7,32 +7,32 @@ And with him ten princes, of each chief house a prince throughout all the tribes
 With him they sent ten chiefs—one family leader from each tribe of Israel, each the head of a family among the clans of Israel.<small><sub>**MT:**</sub></small>
 [[Josh.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of family, | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] families -- | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| commanders of thousands | <big><span class="asgreek">χιλίαρχοι</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| in Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a house | **<big>[[G3624\|οίκου]]</big>** |
+| of family, | **<big>[[G3965\|πατριάς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tribes | **<big>[[G5443\|φυλών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of \[the\] houses | **<big>[[G3624\|οίκων]]</big>** |
+| of \[the\] families -- | **<big>[[G3965\|πατριών]]</big>** |
+| they are | **<big>[[G1510\|εισί]]</big>** |
+| commanders of thousands | **<big>[[G5506\|χιλίαρχοι]]</big>** |
+| in Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Josh.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
 
 

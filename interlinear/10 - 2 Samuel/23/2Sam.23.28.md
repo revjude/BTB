@@ -6,12 +6,12 @@ Zalmon the Ahohite, Maharai the Netophathite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.27|<< 2 Samuel 23:27]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.29|2 Samuel 23:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Zalmon  | <span class="ashebrew"><big>צַלְמוֹן֙ </big></span><small><small><sup>[[H6756B]]</sup></small></small> &#8207;| tzal.mOn <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Ahohite  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲחֹחִ֔י </big></span><small><small><sup>[[H0266]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.cho.Chi <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Maharai  | <span class="ashebrew"><big>מַהְרַ֖י </big></span><small><small><sup>[[H4121]]</sup></small></small> &#8207;| mah.Rai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Netophathite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נְּטֹפָתִֽי </big></span><small><small><sup>[[H5200]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ne.to.fa.Ti <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zalmon  |**<big>&#8207;[[H6756B\|צַלְמוֹן֙]]&#8207; </big>**| tzal.mOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ahohite  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0266\|אֲחֹחִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.cho.Chi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maharai  |**<big>&#8207;[[H4121\|מַהְרַ֖י]]&#8207; </big>**| mah.Rai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Netophathite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5200\|נְּטֹפָתִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.to.fa.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.27|<< 2 Samuel 23:27]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.29|2 Samuel 23:29 >>]]</td></tr></table>
 
 

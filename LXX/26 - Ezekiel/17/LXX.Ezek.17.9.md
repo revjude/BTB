@@ -7,44 +7,44 @@ Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the ro
 So you are to tell them that this is what the Lord GOD says: ‘Will it flourish? Will it not be uprooted and stripped of its fruit so that it shrivels? All its foliage will wither! It will not take a strong arm or many people to pull it up by its roots.<small><sub>**MT:**</sub></small>
 [[Ezek.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.8|<< Ezekiel 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.10|Ezekiel 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| say! | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it prosper, \[no\]. | <big><span class="asgreek">κατευθυνεί</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| Shall not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roots | <big><span class="asgreek">ρίζαι</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her tenderness, | <big><span class="asgreek">απαλότητος</span></big> <sup><small><small>[[G6392]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπός</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| rot? | <big><span class="asgreek">σαπήσεται</span></big> <sup><small><small>[[G4595]]</small></small></sup> |
-| Yes, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be dried up | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her \[things\] shooting up early | <big><span class="asgreek">προανατέλλοντα</span></big> <sup><small><small>[[G8888]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| arm | <big><span class="asgreek">βραχίονι</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλω</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλώ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to pull her out | <big><span class="asgreek">εκσπάσαι</span></big> <sup><small><small>[[G7145]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| her roots. | <big><span class="asgreek">ριζών</span></big> <sup><small><small>[[G4491]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| say! | **<big>[[G2036\|ειπέ]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| it prosper, \[no\]. | **<big>[[G2720\|κατευθυνεί]]</big>** |
+| Shall not | **<big>[[G3780\|ουχί]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| roots | **<big>[[G4491\|ρίζαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of her tenderness, | **<big>[[G6392\|απαλότητος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fruits | **<big>[[G2590\|καρπός]]</big>** |
+| rot? | **<big>[[G4595\|σαπήσεται]]</big>** |
+| Yes, | **<big>[[G2532\|και]]</big>** |
+| shall be dried up | **<big>[[G3583\|ξηρανθήσεται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her \[things\] shooting up early | **<big>[[G8888\|προανατέλλοντα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| arm | **<big>[[G1023\|βραχίονι]]</big>** |
+| a great | **<big>[[G3173\|μεγάλω]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| many | **<big>[[G4183\|πολλώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to pull her out | **<big>[[G7145\|εκσπάσαι]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| her roots. | **<big>[[G4491\|ριζών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.8|<< Ezekiel 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.10|Ezekiel 17:10 >>]]</td></tr></table>
 
 

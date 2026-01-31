@@ -7,25 +7,25 @@ So they took up Jonah, and cast him forth into the sea: and the sea ceased from 
 Then they picked up Jonah and cast him into the sea, and the raging sea grew calm.<small><sub>**MT:**</sub></small>
 [[Jonah.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.14|<< Jonah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.16|Jonah 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jonah, | <big><span class="asgreek">Ιωνάν</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cast | <big><span class="asgreek">εξέβαλον</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its tossing about. | <big><span class="asgreek">σάλου αυτής</span></big> <sup><small><small>[[G4535]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jonah, | **<big>[[G2495\|Ιωνάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they cast | **<big>[[G1544\|εξέβαλον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its tossing about. | **<big>[[G4535\|σάλου αυτής]]</big>** |
 [[Jonah.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.14|<< Jonah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.16|Jonah 1:16 >>]]</td></tr></table>
 
 

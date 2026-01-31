@@ -7,39 +7,39 @@ Notwithstanding no devoted thing, that a man shall devote unto the LORD of all t
 Nothing that a man sets apart to the LORD from all he owns—whether a man, an animal, or his inherited land—can be sold or redeemed; everything so devoted is most holy to the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.27.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.27|<< Leviticus 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.29|Leviticus 27:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| offering for consumption | <big><span class="asgreek">ανάθεμα</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should present | <big><span class="asgreek">αναθή</span></big> <sup><small><small>[[G0394]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| is to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| beast, | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of his possession, | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sell it, | <big><span class="asgreek">αποδώσεται</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| ransom it; | <big><span class="asgreek">λυτρώσεται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| offering for consumption | <big><span class="asgreek">ανάθεμα</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| a holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And every | **<big>[[G3956\|παν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| offering for consumption | **<big>[[G0331\|ανάθεμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|εάν]]</big>** |
+| should present | **<big>[[G0394\|αναθή]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| is to him, | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| beast, | **<big>[[G2934\|κτήνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a field | **<big>[[G0068\|αγρού]]</big>** |
+| of his possession, | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| sell it, | **<big>[[G0591\|αποδώσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| ransom it; | **<big>[[G3084\|λυτρώσεται]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| offering for consumption | **<big>[[G0331\|ανάθεμα]]</big>** |
+| a holy | **<big>[[G0039\|άγιον]]</big>** |
+| of holies | **<big>[[G0039\|αγίων]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.27.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.27|<< Leviticus 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.29|Leviticus 27:29 >>]]</td></tr></table>
 
 

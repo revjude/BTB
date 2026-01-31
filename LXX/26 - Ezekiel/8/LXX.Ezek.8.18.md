@@ -7,30 +7,30 @@ Therefore will I also deal in fury: mine eye shall not spare, neither will I hav
 Therefore I will respond with wrath. I will not look on them with pity, nor will I spare them. Although they shout loudly in My ears, I will not listen to them.”<small><sub>**MT:**</sub></small>
 [[Ezek.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.17|<< Ezekiel 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.1|Ezekiel 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall deal | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| rage. | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall I show mercy, | <big><span class="asgreek">ελεήσω</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should they call | <big><span class="asgreek">καλέσωσιν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ears | <big><span class="asgreek">ωσί</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will not listen to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισακούσω</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall deal | **<big>[[G4160\|ποιήσω]]</big>** |
+| with them | **<big>[[G1473\|αυτοίς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| rage. | **<big>[[G2372\|θυμού]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| shall I show mercy, | **<big>[[G1653\|ελεήσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should they call | **<big>[[G2564\|καλέσωσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my ears | **<big>[[G3775\|ωσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| with a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| I will not listen to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1522\|εισακούσω]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.17|<< Ezekiel 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.1|Ezekiel 9:1 >>]]</td></tr></table>
 
 

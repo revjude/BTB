@@ -6,16 +6,16 @@ These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.28|<< 1 Chronicles 1:28]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.30|1 Chronicles 1:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] generations their  | <span class="ashebrew"><big>תֹּלְדוֹתָ֑ </big></span><small><small><sup>[[H8435]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| to.le.do.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] firstborn of  | <span class="ashebrew"><big>בְּכ֤וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> &#8207;| be.Khor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ishmael  | <span class="ashebrew"><big>יִשְׁמָעֵאל֙ </big></span><small><small><sup>[[H3458G]]</sup></small></small> &#8207;| yish.ma.'eL <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebaioth  | <span class="ashebrew"><big>נְבָי֔וֹת </big></span><small><small><sup>[[H5032]]</sup></small></small> &#8207;| ne.va.Yot <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Kedar  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קֵדָ֥ר </big></span><small><small><sup>[[H6938]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ke.Dar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Adbeel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַדְבְּאֵ֖ל </big></span><small><small><sup>[[H0110]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ad.be.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Mibsam  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִבְשָֽׂם </big></span><small><small><sup>[[H4017G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> miv.Sam <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] generations their  |**<big>&#8207;[[H8435\|תֹּלְדוֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֤וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishmael  |**<big>&#8207;[[H3458G\|יִשְׁמָעֵאל֙]]&#8207; </big>**| yish.ma.'eL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebaioth  |**<big>&#8207;[[H5032\|נְבָי֔וֹת]]&#8207; </big>**| ne.va.Yot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kedar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6938\|קֵדָ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ke.Dar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Adbeel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0110\|אַדְבְּאֵ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad.be.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Mibsam  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4017G\|מִבְשָֽׂם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> miv.Sam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.28|<< 1 Chronicles 1:28]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.30|1 Chronicles 1:30 >>]]</td></tr></table>
 
 

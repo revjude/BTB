@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pi-beseth</span> was an Egyptian city that Ezekiel prophesied would experience God's judgment along with other cities in Egypt.
 - A location only mentioned at [[Ezek.30.17|Ezk.30.17]]; 
-- only referred to as Pi-beseth<[[H6364]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Pi-beseth **<big>[[H6364|פִּי־בֶסֶת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.583333,31.500000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Pi-beseth, also known as Bubastis, was an ancient Egyptian city located in the e
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pi-beseth (NIV= Bubastis) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H6364) <small>*Hebrew*</small> | 1x | [Ezk.30.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pi\*\|reference=Ezk.30.17) |
-All Strong's for **Pi-beseth**: \[[[H6364]]\]
+| Pi-beseth (NIV= Bubastis) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H6364) | 1x | [Ezk.30.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pi\*\|reference=Ezk.30.17) |
+All entries for **Pi-beseth**:  **<big>[[H6364|פִּי־בֶסֶת]]</big>**

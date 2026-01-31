@@ -4,7 +4,7 @@ King living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Eglon</span>, king of Moab, oppressed Israel for 18 years until Ehud, a left-handed Benjamite, assassinated him and delivered Israel. \([[Judg.3.12|Jdg.3.12]],14,15,17,17\)
 - A king in Moab living before Israel's Monarchy, first mentioned at [[Judg.3.12|Jdg.3.12]]; 
-- only referred to as Eglon<[[H5700H]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Eglon **<big>[[H5700|עֶגְלוֹן]]</big>**.
 
 Eglon was the king of Moab who oppressed the Israelites for eighteen years, as recorded in the book of Judges. After the Israelites did evil in the sight of the Lord, God strengthened Eglon against them and allowed him to conquer and rule over Israel \([[Judg.3.12|Judges 3:12]]-14\). 
 
@@ -20,5 +20,5 @@ The story of Eglon's oppression and Ehud's assassination highlights the cycle of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eglon | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5700H) <small>*Hebrew*</small> | 5x | [[Jdg.3.12] ... [Jdg.3.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eglon\*\|reference=Jdg.3.12;Jdg.3.14;Jdg.3.15;Jdg.3.17;Jdg.3.17) |
-All Strong's for **Eglon**: \[[[H5700H]]\]
+| Eglon | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5700H) | 5x | [[Jdg.3.12] ... [Jdg.3.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eglon\*\|reference=Jdg.3.12;Jdg.3.14;Jdg.3.15;Jdg.3.17;Jdg.3.17) |
+All entries for **Eglon**:  **<big>[[H5700|עֶגְלוֹן]]</big>**

@@ -7,46 +7,46 @@ And the river shall bring forth frogs abundantly, which shall go up and come int
 The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.<small><sub>**MT:**</sub></small>
 [[Exod.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.2|<< Exodus 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.4|Exodus 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will discharge forth | <big><span class="asgreek">εξερεύξεται</span></big> <sup><small><small>[[G7313]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| frogs. | <big><span class="asgreek">βατράχους</span></big> <sup><small><small>[[G0944]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in ascending, | <big><span class="asgreek">αναβάντες</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| they shall enter | <big><span class="asgreek">εισελεύσονται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses, | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| closets | <big><span class="asgreek">ταμιεία</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your bedrooms, | <big><span class="asgreek">κοιτώνων</span></big> <sup><small><small>[[G2846]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your beds, | <big><span class="asgreek">κλινών</span></big> <sup><small><small>[[G2825]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your attendants, | <big><span class="asgreek">θεραπόντων</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your batches \[of flour\], | <big><span class="asgreek">φυράμασί</span></big> <sup><small><small>[[G5445]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ovens. | <big><span class="asgreek">κλιβάνοις</span></big> <sup><small><small>[[G2823]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will discharge forth | **<big>[[G7313\|εξερεύξεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| river | **<big>[[G4215\|ποταμός]]</big>** |
+| frogs. | **<big>[[G0944\|βατράχους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in ascending, | **<big>[[G0305\|αναβάντες]]</big>** |
+| they shall enter | **<big>[[G1525\|εισελεύσονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your houses, | **<big>[[G3624\|οίκους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| closets | **<big>[[G5009\|ταμιεία]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your bedrooms, | **<big>[[G2846\|κοιτώνων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your beds, | **<big>[[G2825\|κλινών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| houses | **<big>[[G3624\|οίκους]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your attendants, | **<big>[[G2324\|θεραπόντων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your batches \[of flour\], | **<big>[[G5445\|φυράμασί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your ovens. | **<big>[[G2823\|κλιβάνοις]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Exod.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.2|<< Exodus 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.4|Exodus 8:4 >>]]</td></tr></table>
 
 

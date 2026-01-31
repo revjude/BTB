@@ -10,27 +10,27 @@ And Isaac called Jacob, and blessed him, and charged him, and said unto him, Tho
 So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded.<small><sub>**MT:**</sub></small>
 [[Gen.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.46|<< Genesis 27:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.2|Genesis 28:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| having called | <big><span class="asgreek">προσκαλεσάμενος</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shall you take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites. | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
+| having called | **<big>[[G4341\|προσκαλεσάμενος]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Not | **<big>[[G3756\|ου]]</big>** |
+| shall you take | **<big>[[G2983\|λήψη]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Canaanites. | **<big>[[G5477\|Χαναναίων]]</big>** |
 [[Gen.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.46|<< Genesis 27:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.2|Genesis 28:2 >>]]</td></tr></table>
 
 

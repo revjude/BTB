@@ -1,4 +1,4 @@
-Greek of: <small>[[H1471G]]</small> 
+Greek of: <small>**<big>[[H1471G|גּוֹי]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἔθνος==</span></b>, <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>: 

@@ -7,39 +7,39 @@ When she [was] brought forth, she sent to her father in law, saying, By the man,
 As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?”<small><sub>**MT:**</sub></small>
 [[Gen.38.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.24|<< Genesis 38:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.26|Genesis 38:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[while\] leading | <big><span class="asgreek">αγομένη</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| she sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father-in-law, | <big><span class="asgreek">πενθερόν</span></big> <sup><small><small>[[G3995]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγουσα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">τινος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| have \[one\] | <big><span class="asgreek">έχω</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Recognize | <big><span class="asgreek">επίγνωθι</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| whose | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ring | <big><span class="asgreek">δακτύλιος</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pendant | <big><span class="asgreek">ορμίσκος</span></big> <sup><small><small>[[G8549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| these \[are\]! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[while\] leading | **<big>[[G0071\|αγομένη]]</big>** |
+| she sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her father-in-law, | **<big>[[G3995\|πενθερόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| saying, | **<big>[[G3004\|λέγουσα]]</big>** |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| whom | **<big>[[G3739\|ου]]</big>** **<big>[[G5100\|τινος]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτά]]</big>** |
+| are | **<big>[[G1510\|εστιν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] womb | **<big>[[G1064\|γαστρί]]</big>** |
+| have \[one\] | **<big>[[G2192\|έχω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
+| Recognize | **<big>[[G1921\|επίγνωθι]]</big>** |
+| whose | **<big>[[G5100\|τίνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| ring | **<big>[[G1146\|δακτύλιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| pendant | **<big>[[G8549\|ορμίσκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| rod | **<big>[[G4464\|ράβδος]]</big>** |
+| these \[are\]! | **<big>[[G3778\|αυτή]]</big>** |
 [[Gen.38.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.24|<< Genesis 38:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.26|Genesis 38:26 >>]]</td></tr></table>
 
 

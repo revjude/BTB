@@ -7,44 +7,44 @@ See therefore, and take knowledge of all the lurking places where he hideth hims
 Observe and find out all the places where he hides. Then come back to me with certainty, and I will go with you. If he is in the land, I will search him out among all the clans of Judah.”<small><sub>**MT:**</sub></small>
 [[1Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| look | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| know | <big><span class="asgreek">γνώτε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places | <big><span class="asgreek">τόπων</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">όπου</span></big> <sup><small><small>[[G3699]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hides | <big><span class="asgreek">κρύπτεται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| there! | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| return | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ready! | <big><span class="asgreek">έτοιμον</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall go | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| he is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall search | <big><span class="asgreek">εξερευνήσω</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
-| him out | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] thousands | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| look | **<big>[[G1492\|ίδετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| know | **<big>[[G1097\|γνώτε]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| places | **<big>[[G5117\|τόπων]]</big>** |
+| where | **<big>[[G3699\|όπου]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| hides | **<big>[[G2928\|κρύπτεται]]</big>** |
+| there! | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| return | **<big>[[G1994\|επιστρέψατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| ready! | **<big>[[G2092\|έτοιμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall go | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| he is | **<big>[[G1510\|έστιν]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I shall search | **<big>[[G1830\|εξερευνήσω]]</big>** |
+| him out | **<big>[[G1473\|αυτόν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \[the\] thousands | **<big>[[G5505\|χιλιάσιν]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[1Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
 

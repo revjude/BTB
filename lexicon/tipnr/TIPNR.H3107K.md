@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jozabad</span>, a Levite, was one of the overseers appointed by King Hezekiah to distribute the contributions to the priests and Levites.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.31.13|2Ch.31.13]]; 
-- only referred to as Jozabad<[[H3107K]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is mentioned in [[2Chr.31.13|2 Chronicles 31:13]] as one of the Levites appointed by King Hezekiah to oversee the distribution of contributions to the priests and Levites. The context of the passage is Hezekiah's religious reforms and the restoration of proper worship in Judah \(2 Chronicles 31:1-21\). 
 
@@ -14,5 +14,5 @@ These overseers were entrusted with the task of ensuring that the contributions 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107K) <small>*Hebrew*</small> | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=2Ch.31.13) |
-All Strong's for **Jozabad**: \[[[H3107K]]\]
+| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107K) | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=2Ch.31.13) |
+All entries for **Jozabad**:  **<big>[[H3107|יוֹזָבָד]]</big>**

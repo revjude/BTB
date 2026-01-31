@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִדִּין‎</span></big> **Middîyn** <small>*(mid-deen')*</small> ==**Middin**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎מִדְיָן‎</span><sup><small>[[H4080]]</small></sup></small>
+**<big><span class="ashebrew">‎מִדִּין‎</span></big>** **Middîyn** <small>*(mid-deen')*</small> ==**Middin**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a variation for **<big>[[H4080|‎מִדְיָן‎]]</big>**</small>
 
 $\quad$ Middin.
 - § Middin = *"measures"*

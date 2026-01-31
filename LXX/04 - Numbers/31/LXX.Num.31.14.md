@@ -7,25 +7,25 @@ And Moses was wroth with the officers of the host, [with] the captains over thou
 But Moses was angry with the officers of the army—the commanders of thousands and commanders of hundreds—who were returning from the battle.<small><sub>**MT:**</sub></small>
 [[Num.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.13|<< Numbers 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.15|Numbers 31:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overseers | <big><span class="asgreek">επισκόποις</span></big> <sup><small><small>[[G1985]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force -- | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| commanders of thousands, | <big><span class="asgreek">χιλιάρχοις</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of hundreds, | <big><span class="asgreek">εκατοντάρχοις</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένοις</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle array | <big><span class="asgreek">παρατάξεως</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| overseers | **<big>[[G1985\|επισκόποις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force -- | **<big>[[G1411\|δυνάμεως]]</big>** |
+| commanders of thousands, | **<big>[[G5506\|χιλιάρχοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of hundreds, | **<big>[[G1543\|εκατοντάρχοις]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| coming | **<big>[[G2064\|ερχομένοις]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| battle array | **<big>[[G8640\|παρατάξεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| war. | **<big>[[G4171\|πολέμου]]</big>** |
 [[Num.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.13|<< Numbers 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.15|Numbers 31:15 >>]]</td></tr></table>
 
 

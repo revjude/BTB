@@ -14,32 +14,32 @@ Awake, awake, clothe yourself with strength, O Zion! Put on your garments of spl
 > $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Awaken! | <big><span class="asgreek">εξεγείρου</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| Awaken, | <big><span class="asgreek">εξεγείρου</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| O Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Put on | <big><span class="asgreek">ένδυσαι</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your strength, | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put on | <big><span class="asgreek">ένδυσαι</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your glory, | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| No longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| shall there proceed | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to go | <big><span class="asgreek">διελθείν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| uncircumcised | <big><span class="asgreek">απερίτμητος</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unclean. | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| Awaken! | **<big>[[G1825\|εξεγείρου]]</big>** |
+| Awaken, | **<big>[[G1825\|εξεγείρου]]</big>** |
+| O Zion! | **<big>[[G4622\|Σιών]]</big>** |
+| Put on | **<big>[[G1746\|ένδυσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your strength, | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Zion! | **<big>[[G4622\|Σιών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| put on | **<big>[[G1746\|ένδυσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your glory, | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| holy | **<big>[[G0039\|αγία]]</big>** |
+| No longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| shall there proceed | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| to go | **<big>[[G1330\|διελθείν]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| uncircumcised | **<big>[[G0564\|απερίτμητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unclean. | **<big>[[G0169\|ακάθαρτος]]</big>** |
 [[Isa.52.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.23|<< Isaiah 51:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.2|Isaiah 52:2 >>]]</td></tr></table>
 
 

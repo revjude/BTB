@@ -7,57 +7,57 @@ And that prophet, or that dreamer of dreams, shall be put to death; because he h
 Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
 [[Deut.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.4|<< Deuteronomy 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.6|Deuteronomy 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that prophet, | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| dreaming | <big><span class="asgreek">ενυπνιαζόμενος</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
-| that one | <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall die; | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for he spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| to cause you to wander | <big><span class="asgreek">πλανήσαί</span></big> <sup><small><small>[[G4105]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| (the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one leading | <big><span class="asgreek">εξαγαγόντος</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ransoming | <big><span class="asgreek">λυτρωσαμένου</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slavery) | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| to push | <big><span class="asgreek">εξώσαί</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remove | <big><span class="asgreek">αφανιείτε</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| that prophet, | **<big>[[G4396\|προφήτης]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| dreaming | **<big>[[G1797\|ενυπνιαζόμενος]]</big>** |
+| that one | **<big>[[G1565\|εκείνος]]</big>** |
+| shall die; | **<big>[[G0599\|αποθανείται]]</big>** |
+| for he spoke | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| to cause you to wander | **<big>[[G4105\|πλανήσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| (the | **<big>[[G3588\|του]]</big>** |
+| one leading | **<big>[[G1806\|εξαγαγόντος]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| ransoming | **<big>[[G3084\|λυτρωσαμένου]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| slavery) | **<big>[[G1397\|δουλείας]]</big>** |
+| to push | **<big>[[G1856\|εξώσαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to go | **<big>[[G4198\|πορεύεσθαι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remove | **<big>[[G0853\|αφανιείτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wicked \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.4|<< Deuteronomy 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.6|Deuteronomy 13:6 >>]]</td></tr></table>
 
 

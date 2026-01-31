@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֱלִיצָפָן‎</span> <small>***(e.li.tsa.phan)***</small> ==**Elizaphan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.22|Exo.6.22]]
--  son of: Uzziel ([[H5816]])
--  brother of: Mishael ([[H4332]]), Sithri ([[H5644]]), Micah ([[H4318J]]) and Isshiah ([[H3449I]]); also called Elzaphan at [[Exod.6.22|Exo.6.22]] 1x
+-  son of: Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+-  brother of: Mishael (**<big>[[H4332|מִישָׁאֵל]]</big>**), Sithri (**<big>[[H5644|סִתְרִי]]</big>**), Micah (**<big>[[H4318J|מִיכָה]]</big>**) and Isshiah (**<big>[[H3449I|יִשִּׁיָּה]]</big>**); also called Elzaphan at [[Exod.6.22|Exo.6.22]] 1x

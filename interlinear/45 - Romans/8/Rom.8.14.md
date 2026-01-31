@@ -6,17 +6,17 @@ For all who are led by the Spirit of God are sons of God.
 <small><sub>**Literal:**</sub></small>
 As many as for by [the] Spirit of God are led, these sons of God are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.13|<< Romans 8:13]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.15|Romans 8:15 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| As many as |<big><span class="asgreek">ὅσοι</span></big> <small><small><sup>[[G3745]]</sup></small></small> |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by [the] Spirit |<big><span class="asgreek">πνεύματι</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of God |<big><span class="asgreek">θεοῦ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are led, |<big><span class="asgreek">ἄγονται,</span></big> <small><small><sup>[[G0071]]</sup></small></small> |agontai <small><sup>[[V-PPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| these |<big><span class="asgreek">οὗτοι</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sons |<big><span class="asgreek">υἱοὶ</span></big> <small><small><sup>[[G5207]]</sup></small></small> |huioi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of God |<big><span class="asgreek">θεοῦ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are. |<big><span class="asgreek">εἰσιν.</span></big> <small><small><sup>[[G1510]]</sup></small></small> [^1] |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL«2+WH+Treg«2+TR«3+Byz«3">NKO</abbr> | |
+| As many as |**<big>[[G3745\|ὅσοι]]</big>**  |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by [the] Spirit |**<big>[[G4151G\|πνεύματι]]</big>**  |pneumati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are led, |**<big>[[G0071\|ἄγονται,]]</big>**  |agontai <small><sup>[[V-PPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| these |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sons |**<big>[[G5207\|υἱοὶ]]</big>**  |huioi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are. |**<big>[[G1510\|εἰσιν.]]</big>**  [^1] |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL«2+WH+Treg«2+TR«3+Byz«3">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.13|<< Romans 8:13]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.15|Romans 8:15 >>]]</td></tr></table>
 
-[^1]: ==WH== spelled: <span class='asgreek'>**εἰσίν**</span>
+[^1]: ==WH== spelled: **<big><span class='asgreek'>εἰσίν</span></big>**

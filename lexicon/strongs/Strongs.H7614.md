@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שְׁבָא‎</span></big> **Shᵉbâʼ** <small>*(sheb-aw')*</small> ==**Sheba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שְׁבָא‎</span></big>** **Shᵉbâʼ** <small>*(sheb-aw')*</small> ==**Sheba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Sheba, Sabeans.

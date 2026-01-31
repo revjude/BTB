@@ -1,8 +1,8 @@
 <small>*Brook of the Arabah • Eastern boundary of Jeroboam II's kingdom*</small>
 
 The <span class='tipnrhighlight'>Brook of the Arabah</span> was the eastern boundary of King Jeroboam II's kingdom.
-- A location near Hamath<[[H2574G]]> only mentioned at [[Isa.23.3|Amo.6.14]]; 
-- only referred to as Brook\_of\_the\_Arabah<[[H5158K]]><[[H5158K]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Hamath **<big>[[H2574|חֲמָת]]</big>** only mentioned at [[Isa.23.3|Amo.6.14]]; 
+- only referred to as Brook\_of\_the\_Arabah **<big>[[H5158|נַחַל]]</big>** **<big>[[H5158|נַחַל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.136204,36.749488&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ Amos's prophecy indicates that God would judge Israel for their sins, and their 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Brook/ of the Arabah (KJV= river of the wilderness; NIV= valley of the Arabah) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6160H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158K) <small>*Hebrew*</small> | 1x | [Amo.6.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Brook\*\|reference=Amo.6.14) |
-All Strong's for **Brook_of_the_Arabah**: \[[[H6160H]]\] \[[[H5158K]]\]
+| Brook/ of the Arabah (KJV= river of the wilderness; NIV= valley of the Arabah) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6160H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158K) | 1x | [Amo.6.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Brook\*\|reference=Amo.6.14) |
+All entries for **Brook of the Arabah**:  **<big>[[H6160|עֲרָבָה]]</big>** ☩  **<big>[[H5158|נַחַל]]</big>**

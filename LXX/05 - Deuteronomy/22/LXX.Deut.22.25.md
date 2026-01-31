@@ -7,30 +7,30 @@ But if a man find a betrothed damsel in the field, and the man force her, and li
 But if the man encounters a betrothed woman in the open country, and he overpowers her and lies with her, only the man who has done this must die.<small><sub>**MT:**</sub></small>
 [[Deut.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.24|<< Deuteronomy 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.26|Deuteronomy 22:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| should find | <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a girl, | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being espoused; | <big><span class="asgreek">μεμνηστευμένην</span></big> <sup><small><small>[[G3423]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| using force | <big><span class="asgreek">βιασάμενος</span></big> <sup><small><small>[[G0971]]</small></small></sup> |
-| should go to bed | <big><span class="asgreek">κοιμηθή</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall kill | <big><span class="asgreek">αποκτενείτε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going to bed | <big><span class="asgreek">κοιμώμενον</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| only; | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a plain | **<big>[[G8676\|πεδίω]]</big>** |
+| should find | **<big>[[G2147\|εύρη]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| a girl, | **<big>[[G3816\|παίδα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| being espoused; | **<big>[[G3423\|μεμνηστευμένην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| using force | **<big>[[G0971\|βιασάμενος]]</big>** |
+| should go to bed | **<big>[[G2837\|κοιμηθή]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| you shall kill | **<big>[[G0615\|αποκτενείτε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man, | **<big>[[G0444\|άνθρωπον]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| going to bed | **<big>[[G2837\|κοιμώμενον]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| only; | **<big>[[G3440\|μόνον]]</big>** |
 [[Deut.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.24|<< Deuteronomy 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.26|Deuteronomy 22:26 >>]]</td></tr></table>
 
 

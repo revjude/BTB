@@ -7,41 +7,41 @@ From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, a
 from the Jordan eastward through all the land of Gilead (the region of Gad, Reuben, and Manasseh), and from Aroer by the Arnon Valley through Gilead to Bashan.<small><sub>**MT:**</sub></small>
 [[2Kgs.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.32|<< 2 Kings 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.34|2 Kings 10:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] rising | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of \[the\] sun -- | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gadites, | <big><span class="asgreek">Γαδδί</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Aroer, | <big><span class="asgreek">Αροήρ</span></big> <sup><small><small>[[H6177]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| edge | <big><span class="asgreek">χείλους</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of \[the\] rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Arnon, | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bashan. | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] rising | **<big>[[G0395\|ανατολάς]]</big>** |
+| of \[the\] sun -- | **<big>[[G2246\|ηλίου]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Gadites, | **<big>[[G1045\|Γαδδί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Reuben, | **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Aroer, | **<big>[[H6177\|Αροήρ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| edge | **<big>[[G5491\|χείλους]]</big>** |
+| of \[the\] rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| Arnon, | **<big>[[H0769\|Αρνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Bashan. | **<big>[[H1316\|Βασάν]]</big>** |
 [[2Kgs.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.32|<< 2 Kings 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.34|2 Kings 10:34 >>]]</td></tr></table>
 
 

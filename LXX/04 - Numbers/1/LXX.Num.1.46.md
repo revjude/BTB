@@ -7,16 +7,16 @@ Even all they that were numbered were six hundred thousand and three thousand an
 And all those counted totaled 603,550.<small><sub>**MT:**</sub></small>
 [[Num.1.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.45|<< Numbers 1:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.47|Numbers 1:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| six hundred | <big><span class="asgreek">εξακόσιαι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three thousand | <big><span class="asgreek">τρισχίλιοι</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty. | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| six hundred | **<big>[[G1812\|εξακόσιαι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three thousand | **<big>[[G5153\|τρισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty. | **<big>[[G4004\|πεντήκοντα]]</big>** |
 [[Num.1.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.45|<< Numbers 1:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.47|Numbers 1:47 >>]]</td></tr></table>
 
 

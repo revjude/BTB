@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמִּיהוּד‎</span></big> **ʻAmmîyhûwd** <small>*(am-mee-hood')*</small> ==**Ammihud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup> and <span class="ashebrew">‎הוֹד‎</span><sup><small>[[H1935]]</small></sup>; people of splendor</small>
+**<big><span class="ashebrew">‎עַמִּיהוּד‎</span></big>** **ʻAmmîyhûwd** <small>*(am-mee-hood')*</small> ==**Ammihud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5971|‎עַם‎]]</big>** and **<big>[[H1935|‎הוֹד‎]]</big>**; people of splendor</small>
 
 $\quad$ Ammihud.
 - § Ammihud = *"my kinsman is majesty"*

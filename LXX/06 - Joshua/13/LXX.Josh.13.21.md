@@ -7,55 +7,55 @@ And all the cities of the plain, and all the kingdom of Sihon king of the Amorit
 all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land.<small><sub>**MT:**</sub></small>
 [[Josh.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.20|<< Joshua 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.22|Joshua 13:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Misor, | <big><span class="asgreek">Μισούρ</span></big> <sup><small><small>[[H4334]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Heshbon, | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leaders | <big><span class="asgreek">ηγουμένους</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| of Midian | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Evi | <big><span class="asgreek">Ευεί</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rekem, | <big><span class="asgreek">Ροκόμ</span></big> <sup><small><small>[[H7552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zur, | <big><span class="asgreek">Σουρ</span></big> <sup><small><small>[[H6698]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hur, | <big><span class="asgreek">Ουρ</span></big> <sup><small><small>[[H2354]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Reba, | <big><span class="asgreek">Ροβά</span></big> <sup><small><small>[[H7254]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Sihon, | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Misor, | **<big>[[H4334\|Μισούρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλείαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Heshbon, | **<big>[[H2809\|Εσεβών]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| Moses struck | **<big>[[G3960\|επάταξε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| he | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| leaders | **<big>[[G2233\|ηγουμένους]]</big>** |
+| of Midian | **<big>[[G3099\|Μαδιάν]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Evi | **<big>[[H2340\|Ευεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Rekem, | **<big>[[H7552\|Ροκόμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zur, | **<big>[[H6698\|Σουρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hur, | **<big>[[H2354\|Ουρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Reba, | **<big>[[H7254\|Ροβά]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of Sihon, | **<big>[[H5511\|Σηών]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
 [[Josh.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.20|<< Joshua 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.22|Joshua 13:22 >>]]</td></tr></table>
 
 

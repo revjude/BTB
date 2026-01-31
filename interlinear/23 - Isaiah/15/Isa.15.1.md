@@ -6,22 +6,22 @@ This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] oracle of  | <span class="ashebrew"><big>מַשָּׂ֖א </big></span><small><small><sup>[[H4853B]]</sup></small></small> &#8207;| ma.Sa' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֑ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֠י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a night  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֵ֞יל </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Leil <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> [which] it was devastated  | <span class="ashebrew"><big>שֻׁדַּ֨ד </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| shu.Dad <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ar  | <span class="ashebrew"><big>עָ֤ר </big></span><small><small><sup>[[H6144]]</sup></small></small> &#8207;| 'ar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Moab  | <span class="ashebrew"><big>מוֹאָב֙ </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was destroyed  | <span class="ashebrew"><big>נִדְמָ֔ה </big></span><small><small><sup>[[H1820]]</sup></small></small> &#8207;| nid.Mah <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֗י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| Ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a night  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֵ֛יל </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Leil <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> [which] it was devastated  | <span class="ashebrew"><big>שֻׁדַּ֥ד </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| shu.Dad <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kir of  | <span class="ashebrew"><big>קִיר </big></span><small><small><sup>[[H7024A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kir- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֖ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was destroyed  | <span class="ashebrew"><big>נִדְמָֽה </big></span><small><small><sup>[[H1820]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nid.Mah <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֑ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a night  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3915\|לֵ֞יל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Leil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [which] it was devastated  |**<big>&#8207;[[H7703\|שֻׁדַּ֨ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ar  |**<big>&#8207;[[H6144\|עָ֤ר]]&#8207; </big>**| 'ar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was destroyed  |**<big>&#8207;[[H1820\|נִדְמָ֔ה]]&#8207; </big>**| nid.Mah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a night  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3915\|לֵ֛יל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Leil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [which] it was devastated  |**<big>&#8207;[[H7703\|שֻׁדַּ֥ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kir of  |**<big>&#8207;[[H7024A\|קִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kir-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֖ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was destroyed  |**<big>&#8207;[[H1820\|נִדְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nid.Mah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוּדַי‎</span></big> **dûwday** <small>*(doo-dah'-ee)*</small> ==**mandrake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דּוּד‎</span><sup><small>[[H1731]]</small></sup></small>
+**<big><span class="ashebrew">‎דּוּדַי‎</span></big>** **dûwday** <small>*(doo-dah'-ee)*</small> ==**mandrake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1731|‎דּוּד‎]]</big>**</small>
 
 $\quad$ basket, mandrake.
 - ***a boiler*** or ***basket***

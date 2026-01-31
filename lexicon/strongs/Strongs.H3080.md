@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹיָרִיב‎</span></big> **Yᵉhôwyârîyb** <small>*(yeh-ho-yaw-reeb')*</small> ==**Jehoiarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎רִיב‎</span><sup><small>[[H7378]]</small></sup>; Jehovah will contend</small>
+**<big><span class="ashebrew">‎יְהוֹיָרִיב‎</span></big>** **Yᵉhôwyârîyb** <small>*(yeh-ho-yaw-reeb')*</small> ==**Jehoiarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H7378|‎רִיב‎]]</big>**; Jehovah will contend</small>
 
-$\quad$ Jehoiarib. Compare <span class="ashebrew">‎יוֹיָרִיב‎</span><sup><small>[[H3114]]</small></sup>.
+$\quad$ Jehoiarib. Compare **<big>[[H3114|‎יוֹיָרִיב‎]]</big>**.
 - § Jehoiarib = *"Jehovah contends"*
 - ***Jehojarib***, the name of two Israelites
 

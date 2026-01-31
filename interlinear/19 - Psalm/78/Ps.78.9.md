@@ -6,16 +6,16 @@ The archers of Ephraim turned back on the day of battle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.8|<< Psalms 78:8]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.10|Psalms 78:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] people of  | <span class="ashebrew"><big>בְּֽנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֗יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] equipped of  | <span class="ashebrew"><big>נוֹשְׁקֵ֥י </big></span><small><small><sup>[[H5401B]]</sup></small></small> &#8207;| no.she.Kei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shooters of  | <span class="ashebrew"><big>רוֹמֵי </big></span><small><small><sup>[[H7411A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ro.mei- <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a bow  | <span class="ashebrew"><big>קָ֑שֶׁת </big></span><small><small><sup>[[H7198]]</sup></small></small> &#8207;| Ka.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they turned back  | <span class="ashebrew"><big>הָ֝פְכ֗וּ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| ha.fe.Khu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| battle  | <span class="ashebrew"><big>קְרָֽב </big></span><small><small><sup>[[H7128]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.Rav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּֽנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֗יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] equipped of  |**<big>&#8207;[[H5401B\|נוֹשְׁקֵ֥י]]&#8207; </big>**| no.she.Kei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shooters of  |**<big>&#8207;[[H7411A\|רוֹמֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ro.mei-<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bow  |**<big>&#8207;[[H7198\|קָ֑שֶׁת]]&#8207; </big>**| Ka.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they turned back  |**<big>&#8207;[[H2015\|הָ֝פְכ֗וּ]]&#8207; </big>**| ha.fe.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  |**<big>&#8207;[[H7128\|קְרָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.Rav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.8|<< Psalms 78:8]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.10|Psalms 78:10 >>]]</td></tr></table>
 
 

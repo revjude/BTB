@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָרָא‎</span></big> **mârâʼ** <small>*(maw-raw')*</small> ==**to flap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָרָא‎</span></big>** **mârâʼ** <small>*(maw-raw')*</small> ==**to flap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be filthy, lift up self.
@@ -9,4 +9,4 @@ $\quad$ be filthy, lift up self.
 $\quad$ **1a)** meaning dubious
 **2)** (Qal) filthy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πικρία</span><sup><small>[[G4088]]</small></sup> · <span class="asgreek">ὑψόω</span><sup><small>[[G5312]]</small></sup>
+<small>See Greek: </small>**<big>[[G4088|πικρία]]</big>** · **<big>[[G5312|ὑψόω]]</big>**

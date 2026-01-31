@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Akkub</span> was a descendant of King Jehoiachin of Judah, listed in the genealogy of the royal line. \([[1Chr.3.24|1Ch.3.24]]\)
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.3.24|1Ch.3.24]]; 
-- only referred to as Akkub<[[H6126G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Elioenai<[[H0454B]]>; 
-- a brother of Hodaviah<[[H1938G]]>, Eliashib<[[H0475G]]>, Pelaiah<[[H6411B]]>, Johanan<[[H3110I]]>, Delaiah<[[H1806G]]> and Anani<[[H6054]]>.
+- only referred to as Akkub **<big>[[H6126|עַקּוּב]]</big>**; 
+-  son of Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>**; 
+- a brother of Hodaviah **<big>[[H1938|הוֹדַוְיָה]]</big>**, Eliashib **<big>[[H0475|אֶלְיָשִׁיב]]</big>**, Pelaiah **<big>[[H6411|פְּלָיָה]]</big>**, Johanan **<big>[[H3110|יוֹחָנָן]]</big>**, Delaiah **<big>[[H1806|דְּלָיָה]]</big>** and Anani **<big>[[H6054|עֲנָנִי]]</big>**.
 
 Akkub is mentioned briefly in the genealogy of the royal line of Judah, specifically as a descendant of King Jehoiachin, who was also known as Jeconiah. \([[1Chr.3.24|1Ch.3.24]]\) 
 
@@ -20,8 +20,8 @@ The inclusion of Akkub in the genealogy serves to document the ongoing lineage o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Akkub | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H6126G) <small>*Hebrew*</small> | 1x | [1Ch.3.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akkub\*\|reference=1Ch.3.24) |
-All Strong's for **Akkub**: \[[[H6126G]]\]
+| Akkub | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H6126G) | 1x | [1Ch.3.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akkub\*\|reference=1Ch.3.24) |
+All entries for **Akkub**:  **<big>[[H6126|עַקּוּב]]</big>**
 #### Related Profiles:
 - **[Elioenai](H0454B)** (father)
 - **[Hodaviah](H1938G)** (sibling)

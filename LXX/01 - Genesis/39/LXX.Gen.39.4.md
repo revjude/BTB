@@ -7,32 +7,32 @@ And Joseph found grace in his sight, and he served him: and he made him overseer
 Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.<small><sub>**MT:**</sub></small>
 [[Gen.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.3|<< Genesis 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.5|Genesis 39:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joseph found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was well-pleasing | <big><span class="asgreek">ευηρέστησε</span></big> <sup><small><small>[[G2100]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house; | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Joseph. | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joseph found | **<big>[[G2147\|εύρεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his master. | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he was well-pleasing | **<big>[[G2100\|ευηρέστησε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his house; | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| his | **<big>[[G1473\|αυτώ]]</big>** |
+| he gave | **<big>[[G1325\|έδωκε]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of Joseph. | **<big>[[G2501\|Ιωσήφ]]</big>** |
 [[Gen.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.3|<< Genesis 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.5|Genesis 39:5 >>]]</td></tr></table>
 
 

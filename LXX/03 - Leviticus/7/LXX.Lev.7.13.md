@@ -7,18 +7,18 @@ Besides the cakes, he shall offer [for] his offering leavened bread with the sac
 Along with his peace offering of thanksgiving he is to present an offering with cakes of leavened bread.<small><sub>**MT:**</sub></small>
 [[Lev.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.12|<< Leviticus 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.14|Leviticus 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| breads | <big><span class="asgreek">άρτοις</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| leavened | <big><span class="asgreek">ζυμίταις</span></big> <sup><small><small>[[G7607]]</small></small></sup> |
-| he shall offer | <big><span class="asgreek">προσοίσει</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of praise | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| of his deliverance. | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| With | **<big>[[G1909\|επ΄]]</big>** |
+| breads | **<big>[[G0740\|άρτοις]]</big>** |
+| leavened | **<big>[[G7607\|ζυμίταις]]</big>** |
+| he shall offer | **<big>[[G4374\|προσοίσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| of praise | **<big>[[G0133\|αινέσεως]]</big>** |
+| of his deliverance. | **<big>[[G4992\|σωτηρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.12|<< Leviticus 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.14|Leviticus 7:14 >>]]</td></tr></table>
 
 

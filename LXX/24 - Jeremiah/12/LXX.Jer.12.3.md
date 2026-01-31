@@ -11,30 +11,30 @@ But You know me, O LORD; You see me and test my heart toward You. Drag away the 
 > $\quad$ referenced by: [[Jas.5.5|Jas 5:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| know | <big><span class="asgreek">γινώσκεις</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You have tried | <big><span class="asgreek">δεδοκίμακας</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gather | <big><span class="asgreek">συνάγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a flock | <big><span class="asgreek">ποιμνίον</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice, | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purify | <big><span class="asgreek">άγνισον</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of slaughter! | <big><span class="asgreek">σφαγής</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| know | **<big>[[G1097\|γινώσκεις]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| You have tried | **<big>[[G1381\|δεδοκίμακας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| Gather | **<big>[[G4863\|συνάγαγε]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a flock | **<big>[[G4168\|ποιμνίον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice, | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purify | **<big>[[G0048\|άγνισον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέραν]]</big>** |
+| of slaughter! | **<big>[[G4967\|σφαγής]]</big>** |
 [[Jer.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.2|<< Jeremiah 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.4|Jeremiah 12:4 >>]]</td></tr></table>
 
 

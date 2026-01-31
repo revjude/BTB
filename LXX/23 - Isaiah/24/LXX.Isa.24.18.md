@@ -11,40 +11,40 @@ Whoever flees the sound of panic will fall into the pit, and whoever climbs from
 > $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fleeing | <big><span class="asgreek">φεύγων</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">εμπεσείται</span></big> <sup><small><small>[[G1706]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit; | <big><span class="asgreek">βόθυνον</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going up | <big><span class="asgreek">εκβαίνων</span></big> <sup><small><small>[[G6092]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit | <big><span class="asgreek">βοθύνου</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| shall be captured | <big><span class="asgreek">αλώσεται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| snare; | <big><span class="asgreek">παγίδος</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| windows | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| were opened, | <big><span class="asgreek">ανεώχθησαν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">σεισθήσεται</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| fleeing | **<big>[[G5343\|φεύγων]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fear | **<big>[[G5401\|φόβον]]</big>** |
+| shall fall | **<big>[[G1706\|εμπεσείται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pit; | **<big>[[G0999\|βόθυνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| going up | **<big>[[G6092\|εκβαίνων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| pit | **<big>[[G0999\|βοθύνου]]</big>** |
+| shall be captured | **<big>[[G6226\|αλώσεται]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| snare; | **<big>[[G3803\|παγίδος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| windows | **<big>[[G2376\|θυρίδες]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| were opened, | **<big>[[G0455\|ανεώχθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be shaken | **<big>[[G4579\|σεισθήσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| foundations | **<big>[[G2310\|θεμέλια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
 [[Isa.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.17|<< Isaiah 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.19|Isaiah 24:19 >>]]</td></tr></table>
 
 

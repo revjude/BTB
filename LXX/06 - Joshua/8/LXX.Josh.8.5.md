@@ -7,37 +7,37 @@ And I, and all the people that [are] with me, will approach unto the city: and i
 Then I and all the troops with me will advance on the city. When they come out against us as they did the first time, we will flee from them.<small><sub>**MT:**</sub></small>
 [[Josh.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.4|<< Joshua 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.6|Joshua 8:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will lead forward | <big><span class="asgreek">προσάξομεν</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should come forth | <big><span class="asgreek">εξέλθωσιν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Ai | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| you, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the day before, | <big><span class="asgreek">πρωήν</span></big> <sup><small><small>[[G8960]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we fled | <big><span class="asgreek">φευξόμεθα</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| will lead forward | **<big>[[G4317\|προσάξομεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city. | **<big>[[G4172\|πόλιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should come forth | **<big>[[G1831\|εξέλθωσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in Ai | **<big>[[H5857\|Γαί]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| you, | **<big>[[G1473\|ημίν]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the day before, | **<big>[[G8960\|πρωήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we fled | **<big>[[G5343\|φευξόμεθα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.4|<< Joshua 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.6|Joshua 8:6 >>]]</td></tr></table>
 
 

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎טַל‎</span> <small>***(tal)***</small> ==**dew**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H2919]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2919|טַל]]</big>**</small>

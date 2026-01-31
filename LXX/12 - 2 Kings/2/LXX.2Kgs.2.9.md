@@ -10,34 +10,34 @@ And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask
 After they had crossed over, Elijah said to Elisha, “Tell me, what can I do for you before I am taken away from you?” “Please, let me inherit a double portion of your spirit,” Elisha replied.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.8|<< 2 Kings 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.10|2 Kings 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass, | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their passing over, | <big><span class="asgreek">διαβήναι</span></big> <sup><small><small>[[G1224]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elijah said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elisha, | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| Ask! | <big><span class="asgreek">αίτησαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| I shall do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| my being taken up | <big><span class="asgreek">αναληφθήναί</span></big> <sup><small><small>[[G0353]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| Let there be | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| a double | <big><span class="asgreek">διπλά</span></big> <sup><small><small>[[G1362]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| of your spirit | <big><span class="asgreek">πνεύματί</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass, | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their passing over, | **<big>[[G1224\|διαβήναι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| Elijah said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Elisha, | **<big>[[G1666\|Ελισεαί]]</big>** |
+| Ask! | **<big>[[G0154\|αίτησαι]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| I shall do | **<big>[[G4160\|ποιήσω]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+|  | **<big>[[G2228\|η]]</big>** |
+| my being taken up | **<big>[[G0353\|αναληφθήναί]]</big>** **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| Let there be | **<big>[[G1096\|γενηθήτω]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| a double | **<big>[[G1362\|διπλά]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| of your spirit | **<big>[[G4151\|πνεύματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me! | **<big>[[G1473\|εμέ]]</big>** |
 [[2Kgs.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.8|<< 2 Kings 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.10|2 Kings 2:10 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ And Jacob came out of the field in the evening, and Leah went out to meet him, a
 When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night.<small><sub>**MT:**</sub></small>
 [[Gen.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.15|<< Genesis 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.17|Genesis 30:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακωβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| \[at\] evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| Leah | <big><span class="asgreek">Λεία</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall enter | <big><span class="asgreek">εισελεύση</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| for I have hired | <big><span class="asgreek">μεμίσθωμαι</span></big> <sup><small><small>[[G3409]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in return for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mandrakes | <big><span class="asgreek">μανδραγορών</span></big> <sup><small><small>[[G8248]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my son. | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακωβ]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] field | **<big>[[G0068\|αγρού]]</big>** |
+| \[at\] evening. | **<big>[[G2073\|εσπέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| Leah | **<big>[[H3812\|Λεία]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| You shall enter | **<big>[[G1525\|εισελεύση]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| for I have hired | **<big>[[G3409\|μεμίσθωμαι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in return for | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mandrakes | **<big>[[G8248\|μανδραγορών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my son. | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went to bed | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that night. | **<big>[[G3571\|νύκτα]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
 [[Gen.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.15|<< Genesis 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.17|Genesis 30:17 >>]]</td></tr></table>
 
 

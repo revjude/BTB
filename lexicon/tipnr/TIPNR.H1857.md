@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 Ben-<span class='tipnrhighlight'>Deker</span> was one of Solomon's twelve officers in charge of providing food for the king and his household. \([[1Kgs.4.9|1Ki.4.9]]\)
 - A man living at the time of United Monarchy, only mentioned at [[1Kgs.4.9|1Ki.4.9]]; 
-- only referred to as Deker<[[H1857]]> \(<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>\); 
--  father of Ben-deker<[[H1128]]>.
+- only referred to as Deker **<big>[[H1857|דֶּקֶר]]</big>**; 
+-  father of Ben-deker **<big>[[H1128|בֶּן־דֶּקֶר]]</big>**.
 
 Deker, also known as Ben-Deker \(meaning "son of Deker"\), is mentioned in [[1Kgs.4.9|1 Kings 4:9]] as one of the twelve officers appointed by King Solomon to oversee the provision of food for the king and his household. Each officer was responsible for supplying provisions for one month out of the year. 
 
@@ -17,7 +17,7 @@ Apart from this brief mention in the context of Solomon's administration, no oth
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Deker (KJV= Dekar) | [<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1857) <small>*Hebrew*</small> | 1x | [1Ki.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Deker\*\|reference=1Ki.4.9) |
-All Strong's for **Deker**: \[[[H1857]]\]
+| Deker (KJV= Dekar) | [<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1857) | 1x | [1Ki.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Deker\*\|reference=1Ki.4.9) |
+All entries for **Deker**:  **<big>[[H1857|דֶּקֶר]]</big>**
 #### Related Profiles:
 - **[Ben-deker](Ben)** (child)

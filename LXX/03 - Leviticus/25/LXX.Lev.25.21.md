@@ -7,26 +7,26 @@ Then I will command my blessing upon you in the sixth year, and it shall bring f
 But I will send My blessing upon you in the sixth year, so that the land will yield a crop sufficient for three years.<small><sub>**MT:**</sub></small>
 [[Lev.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.20|<< Leviticus 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.22|Leviticus 25:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send | <big><span class="asgreek">αποστελλώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my blessing | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sixth | <big><span class="asgreek">έκτω</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the land\] shall produce | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its produce | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| I will send | **<big>[[G0649\|αποστελλώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my blessing | **<big>[[G2129\|ευλογίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| sixth | **<big>[[G1623\|έκτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the land\] shall produce | **<big>[[G4160\|ποιήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its produce | **<big>[[G1081\|γεννήματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Lev.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.20|<< Leviticus 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.22|Leviticus 25:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּשַׁן‎</span></big> **Shûwshan** <small>*(shoo-shan')*</small> ==**Susa**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שׁוּשַׁן‎</span><sup><small>[[H7799]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּשַׁן‎</span></big>** **Shûwshan** <small>*(shoo-shan')*</small> ==**Susa**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H7799|‎שׁוּשַׁן‎]]</big>**</small>
 
 $\quad$ Shushan.
 - § Shushan or Susa = *"lily"*

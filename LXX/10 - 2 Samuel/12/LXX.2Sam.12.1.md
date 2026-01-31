@@ -10,33 +10,33 @@ And the LORD sent Nathan unto David. And he came unto him, and said unto him, Th
 Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor.<small><sub>**MT:**</sub></small>
 [[2Sam.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.27|<< 2 Samuel 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.2|2 Samuel 12:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Nathan | <big><span class="asgreek">Ναθάν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| There were two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| city -- | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| rich | <big><span class="asgreek">πλούσιος</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| needy. | <big><span class="asgreek">πένης</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| Nathan | **<big>[[G3481\|Ναθάν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| prophet | **<big>[[G4396\|προφήτην]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| There were two | **<big>[[G1417\|δύο]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| city -- | **<big>[[G4172\|πόλει]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| rich | **<big>[[G4145\|πλούσιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| needy. | **<big>[[G3993\|πένης]]</big>** |
 [[2Sam.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.27|<< 2 Samuel 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.2|2 Samuel 12:2 >>]]</td></tr></table>
 
 

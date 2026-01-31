@@ -7,62 +7,62 @@ Every one [that is] proud in heart [is] an abomination to the LORD: [though] han
 Everyone who is proud in heart is detestable to the LORD; be assured that he will not go unpunished.<small><sub>**MT:**</sub></small>
 [[Prov.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.1|<< Proverbs 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.10|Proverbs 16:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| proud heart | <big><span class="asgreek">υψηλοκάρδιος</span></big> <sup><small><small>[[G9610]]</small></small></sup> |
-| a hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[against\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| a man putting | <big><span class="asgreek">εμβαλών</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| unjustly | <big><span class="asgreek">αδίκως</span></big> <sup><small><small>[[G0095]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be acquitted. | <big><span class="asgreek">αθωωθήσεται</span></big> <sup><small><small>[[G6154]]</small></small></sup> |
-| \[The\] beginning | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of a good | <big><span class="asgreek">αγαθής</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just \[things\]; | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and \[it is more\] acceptable | <big><span class="asgreek">δεκτά</span></big> <sup><small><small>[[G1184]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| rather | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύειν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| sacrifices. | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \[The\] one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητών</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall find | <big><span class="asgreek">ευρήσει</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| knowledge | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| righteousness; | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| \[and\] the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| rightly | <big><span class="asgreek">ορθώς</span></big> <sup><small><small>[[G3723]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητούντες</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall find | <big><span class="asgreek">ευρήσουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| peace. | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[are\] with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| righteousness; | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| is kept | <big><span class="asgreek">φυλάσσεται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] evil | <big><span class="asgreek">κακήν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| \[is\] unclean | **<big>[[G0169\|ακάθαρτος]]</big>** |
+| with | **<big>[[G3844\|παρά]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| Every | **<big>[[G3956\|πας]]</big>** |
+| proud heart | **<big>[[G9610\|υψηλοκάρδιος]]</big>** |
+| a hand | **<big>[[G5495\|χειρί]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| \[against\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| a man putting | **<big>[[G1685\|εμβαλών]]</big>** |
+| unjustly | **<big>[[G0095\|αδίκως]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be acquitted. | **<big>[[G6154\|αθωωθήσεται]]</big>** |
+| \[The\] beginning | **<big>[[G0746\|αρχή]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| of a good | **<big>[[G0018\|αγαθής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[is\] to do | **<big>[[G4160\|ποιείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| just \[things\]; | **<big>[[G1342\|δίκαια]]</big>** |
+| and \[it is more\] acceptable | **<big>[[G1184\|δεκτά]]</big>** **<big>[[G1161\|δε]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| rather | **<big>[[G3123\|μάλλον]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύειν]]</big>** |
+| sacrifices. | **<big>[[G2378\|θυσίας]]</big>** |
+| \[The\] one | **<big>[[G3588\|ο]]</big>** |
+| seeking | **<big>[[G2212\|ζητών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| shall find | **<big>[[G2147\|ευρήσει]]</big>** |
+| knowledge | **<big>[[G1108\|γνώσιν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| righteousness; | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| \[and\] the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| rightly | **<big>[[G3723\|ορθώς]]</big>** |
+| seeking | **<big>[[G2212\|ζητούντες]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| shall find | **<big>[[G2147\|ευρήσουσιν]]</big>** |
+| peace. | **<big>[[G1515\|ειρήνην]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[are\] with | **<big>[[G3326\|μετά]]</big>** |
+| righteousness; | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| is kept | **<big>[[G5442\|φυλάσσεται]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| impious | **<big>[[G0765\|ασεβής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| \[the\] evil | **<big>[[G2556\|κακήν]]</big>** |
 [[Prov.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.1|<< Proverbs 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.10|Proverbs 16:10 >>]]</td></tr></table>
 
 

@@ -7,38 +7,38 @@ And he said, Peace [be] to you, fear not: your God, and the God of your father, 
 “It is fine,” said the steward. “Do not be afraid. Your God, the God of your father, gave you the treasure that was in your sacks. I received your silver.” Then he brought Simeon out to them.<small><sub>**MT:**</sub></small>
 [[Gen.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.22|<< Genesis 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.24|Genesis 43:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Kindness | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
-| \[be\] to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear. | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| treasures | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bags, | <big><span class="asgreek">μαρσίπποις</span></big> <sup><small><small>[[G8257]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in approving | <big><span class="asgreek">ευδοκιμούν</span></big> <sup><small><small>[[G7533]]</small></small></sup> |
-| I receive. | <big><span class="asgreek">απέχω</span></big> <sup><small><small>[[G0568]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led out | <big><span class="asgreek">εξήγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Simeon. | <big><span class="asgreek">Σιμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
+| And he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Kindness | **<big>[[G2436\|ίλεως]]</big>** |
+| \[be\] to you, | **<big>[[G1473\|υμίν]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear. | **<big>[[G5399\|φοβείσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| treasures | **<big>[[G2344\|θησαυρούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your bags, | **<big>[[G8257\|μαρσίπποις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your silver | **<big>[[G0694\|αργύριον]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in approving | **<big>[[G7533\|ευδοκιμούν]]</big>** |
+| I receive. | **<big>[[G0568\|απέχω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led out | **<big>[[G1806\|εξήγαγε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Simeon. | **<big>[[G4826\|Σιμεών]]</big>** |
 [[Gen.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.22|<< Genesis 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.24|Genesis 43:24 >>]]</td></tr></table>
 
 

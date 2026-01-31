@@ -7,18 +7,18 @@ And if thy oblation [be] a meat offering [baken] in the fryingpan, it shall be m
 If your offering is a grain offering cooked in a pan, it must consist of fine flour with oil.<small><sub>**MT:**</sub></small>
 [[Lev.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.6|<< Leviticus 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.8|Leviticus 2:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \[be\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] grate | <big><span class="asgreek">εσχάρας</span></big> <sup><small><small>[[G7516]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gift \[offering\] | <big><span class="asgreek">δώρόν</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fine flour | <big><span class="asgreek">σεμίδαλις</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| it shall be made of | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| \[be\] from | **<big>[[G0575\|από]]</big>** |
+| \[the\] grate | **<big>[[G7516\|εσχάρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your gift \[offering\] | **<big>[[G1435\|δώρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| fine flour | **<big>[[G4585\|σεμίδαλις]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| olive oil | **<big>[[G1637\|ελαίω]]</big>** |
+| it shall be made of | **<big>[[G4160\|ποιηθήσεται]]</big>** |
 [[Lev.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.6|<< Leviticus 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.8|Leviticus 2:8 >>]]</td></tr></table>
 
 

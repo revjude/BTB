@@ -1,6 +1,5 @@
-<span class="ashebrew">‎נֵעָה‎</span> <small>***(ne.ah)***</small> ==**Neah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-name of: <small>[[H5272]]</small> 
+<small>name of:</small> <small>**<big>[[H5272|נְעִיאֵל]]</big>**</small> 
 
 - Neah = "shaking"
 -  a boundary mark of the territory of Zebulun
-- Another name of <i>ne.i.el</i> (<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎ע‎</span>ִ<span class='ashebrew'>‎יא‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Neiel" [[H5272]])
+- Another name of <i>ne.i.el</i> (<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎ע‎</span>ִ<span class='ashebrew'>‎יא‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Neiel" **<big>[[H5272|נְעִיאֵל]]</big>**)

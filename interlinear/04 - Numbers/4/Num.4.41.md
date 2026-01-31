@@ -6,24 +6,24 @@ These were counted from the Gershonite clans who served at the Tent of Meeting, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.40|<< Numbers 4:40]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.42|Numbers 4:42 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֣לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] enrolled [men] of  | <span class="ashebrew"><big>פְקוּדֵ֗י </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| fe.ku.Dei <small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] clans of  | <span class="ashebrew"><big>מִשְׁפְּחֹת֙ </big></span><small><small><sup>[[H4940]]</sup></small></small> &#8207;| mish.pe.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gershon  | <span class="ashebrew"><big>גֵרְשׁ֔וֹן </big></span><small><small><sup>[[H1648]]</sup></small></small> &#8207;| ge.re.Shon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> [one who] serves  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֹבֵ֖ד </big></span><small><small><sup>[[H5647H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'o.Ved <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] tent of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵ֑ד </big></span><small><small><sup>[[H4150I]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he enrolled  | <span class="ashebrew"><big>פָּקַ֥ד </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| pa.Kad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֛ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Aaron  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַהֲרֹ֖ן </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mouth of  | <span class="ashebrew"><big>פִּ֥י </big></span><small><small><sup>[[H6310I]]</sup></small></small> &#8207;| pi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] enrolled [men] of  |**<big>&#8207;[[H6485A\|פְקוּדֵ֗י]]&#8207; </big>**| fe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹת֙]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gershon  |**<big>&#8207;[[H1648\|גֵרְשׁ֔וֹן]]&#8207; </big>**| ge.re.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> [one who] serves  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5647H\|עֹבֵ֖ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֑ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he enrolled  |**<big>&#8207;[[H6485A\|פָּקַ֥ד]]&#8207; </big>**| pa.Kad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֛ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Aaron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֖ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  |**<big>&#8207;[[H6310I\|פִּ֥י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.40|<< Numbers 4:40]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.42|Numbers 4:42 >>]]</td></tr></table>
 
 

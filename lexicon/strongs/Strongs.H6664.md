@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֶדֶק‎</span></big> **tsedeq** <small>*(tseh'-dek)*</small> ==**righteousness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָדַק‎</span><sup><small>[[H6663]]</small></sup></small>
+**<big><span class="ashebrew">‎צֶדֶק‎</span></big>** **tsedeq** <small>*(tseh'-dek)*</small> ==**righteousness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6663|‎צָדַק‎]]</big>**</small>
 
 $\quad$ [idiom] even, ([idiom] that which is altogether) just(-ice), (un-)right(-eous) (cause, -ly, -ness).
 - ***the right*** (natural, moral or legal)
@@ -22,4 +22,4 @@ $\quad$ $\quad$ **1f2)** in name of Messianic king
 $\quad$ $\quad$ **1f3)** of people enjoying salvation
 $\quad$ $\quad$ **1f4)** of Cyrus
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δικαιοσύνη</span><sup><small>[[G1343]]</small></sup> · <span class="asgreek">δικαιόω</span><sup><small>[[G1344]]</small></sup> · <span class="asgreek">δικαίως</span><sup><small>[[G1346]]</small></sup> · <span class="asgreek">κρίσις</span><sup><small>[[G2920]]</small></sup>
+<small>See Greek: </small>**<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1343|δικαιοσύνη]]</big>** · **<big>[[G1344|δικαιόω]]</big>** · **<big>[[G1346|δικαίως]]</big>** · **<big>[[G2920|κρίσις]]</big>**

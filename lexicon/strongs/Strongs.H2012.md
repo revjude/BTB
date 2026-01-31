@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הֵנַע‎</span></big> **Hênaʻ** <small>*(hay-nah')*</small> ==**Hena**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎הֵנַע‎</span></big>** **Hênaʻ** <small>*(hay-nah')*</small> ==**Hena**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Hena.

@@ -7,23 +7,23 @@ Jehoram [was] thirty and two years old when he began to reign, and he reigned ei
 Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.<small><sub>**MT:**</sub></small>
 [[2Chr.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.4|<< 2 Chronicles 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.6|2 Chronicles 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| His being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| years \[old\] | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[was\] Jehoram | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his reigning, | <big><span class="asgreek">βασιλευειν</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτον</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| he reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| His being | **<big>[[G1510\|όντος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| years \[old\] | **<big>[[G2094\|ετών]]</big>** |
+| \[was\] Jehoram | **<big>[[G2496\|Ιωράμ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his reigning, | **<big>[[G0936\|βασιλευειν]]</big>** **<big>[[G1473\|αυτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eight | **<big>[[G3638\|οκτώ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| he reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Chr.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.4|<< 2 Chronicles 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.6|2 Chronicles 21:6 >>]]</td></tr></table>
 
 

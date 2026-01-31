@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַקֵּדָה‎</span></big> **Maqqêdâh** <small>*(mak-kay-daw')*</small> ==**Makkedah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎נָקֹד‎</span><sup><small>[[H5348]]</small></sup> in the denominative sense of herding (compare <span class="ashebrew">‎נֹקֵד‎</span><sup><small>[[H5349]]</small></sup>); fold</small>
+**<big><span class="ashebrew">‎מַקֵּדָה‎</span></big>** **Maqqêdâh** <small>*(mak-kay-daw')*</small> ==**Makkedah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H5348|‎נָקֹד‎]]</big>** in the denominative sense of herding (compare **<big>[[H5349|‎נֹקֵד‎]]</big>**); fold</small>
 
 $\quad$ Makkedah.
 - § Makkedah = *"place of shepherds"*

@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Darkon</span> was the ancestor of a family of temple servants who returned from the Babylonian exile. \([[Ezra.2.56|Ezr.2.56]]; [[Neh.7.58|Neh.7.58]]\)
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.56|Ezr.2.56]]; 
-- only referred to as Darkon<[[H1874]]> \(<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Darkon **<big>[[H1874|דַּרְקוֹן]]</big>**.
 
 Darkon is mentioned in [[Ezra.2.56|Ezra 2:56]] and [[Neh.7.58|Nehemiah 7:58]] as the ancestor of a family of temple servants \(Nethinim\) who returned to Jerusalem from the Babylonian exile. The Nethinim were a group of people assigned to assist the Levites in the maintenance and service of the Temple. 
 
@@ -16,5 +16,5 @@ Apart from being named as the ancestor of a family of temple servants, no other 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Darkon | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1874) <small>*Hebrew*</small> | 2x | [[Ezr.2.56] & [Neh.7.58] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darkon\*\|reference=Ezr.2.56;Neh.7.58) |
-All Strong's for **Darkon**: \[[[H1874]]\]
+| Darkon | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1874) | 2x | [[Ezr.2.56] & [Neh.7.58] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darkon\*\|reference=Ezr.2.56;Neh.7.58) |
+All entries for **Darkon**:  **<big>[[H1874|דַּרְקוֹן]]</big>**

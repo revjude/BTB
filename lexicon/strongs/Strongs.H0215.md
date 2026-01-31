@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אוֹר‎</span></big> **ʼôwr** <small>*(ore)*</small> ==**to light**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אוֹר‎</span></big>** **ʼôwr** <small>*(ore)*</small> ==**to light**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] break of day, glorious, kindle, (be, en-, give, show) light (-en, -ened), set on fire, shine.
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c3)** to kindle, light (candle, wood)
 $\quad$ $\quad$ **1c4)** lighten (of the eyes, his law, etc)
 $\quad$ $\quad$ **1c5)** to make shine (of the face)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναβλέπω</span><sup><small>[[G0308]]</small></sup> · <span class="asgreek">ἀνάπτω</span><sup><small>[[G0381]]</small></sup> · <span class="asgreek">φαίνω</span><sup><small>[[G5316]]</small></sup> · <span class="asgreek">φωτίζω</span><sup><small>[[G5461]]</small></sup>
+<small>See Greek: </small>**<big>[[G0308|ἀναβλέπω]]</big>** · **<big>[[G0381|ἀνάπτω]]</big>** · **<big>[[G5316|φαίνω]]</big>** · **<big>[[G5461|φωτίζω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּלֶה‎</span></big> **kâleh** <small>*(kaw-leh')*</small> ==**longing**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָה‎</span><sup><small>[[H3615]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּלֶה‎</span></big>** **kâleh** <small>*(kaw-leh')*</small> ==**longing**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3615|‎כָּלָה‎]]</big>**</small>
 
 $\quad$ fail.
 - ***pining***

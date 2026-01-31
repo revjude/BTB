@@ -7,40 +7,40 @@ And I commanded Joshua at that time, saying, Thine eyes have seen all that the L
 And at that time I commanded Joshua: “Your own eyes have seen all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms you are about to enter.<small><sub>**MT:**</sub></small>
 [[Deut.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time, | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have seen | <big><span class="asgreek">εωράκασι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdoms | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| unto | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| passed over | <big><span class="asgreek">διαβαίνεις</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Joshua | **<big>[[G2424\|Ιησού]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time, | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| have seen | **<big>[[G3708\|εωράκασι]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| kings | **<big>[[G0935\|βασιλεύσι]]</big>** |
+| to these | **<big>[[G3778\|τούτοις]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| kingdoms | **<big>[[G0932\|βασιλείας]]</big>** |
+| unto | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| passed over | **<big>[[G1224\|διαβαίνεις]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Deut.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 
 

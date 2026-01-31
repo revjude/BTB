@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹנָן‎</span></big> **ʼÔwnân** <small>*(o-nawn')*</small> ==**Onan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎אוֹנוֹ‎</span><sup><small>[[H0207]]</small></sup>; strong</small>
+**<big><span class="ashebrew">‎אוֹנָן‎</span></big>** **ʼÔwnân** <small>*(o-nawn')*</small> ==**Onan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a variation of **<big>[[H0207|‎אוֹנוֹ‎]]</big>**; strong</small>
 
 $\quad$ Onan.
 - § Onan = *"strong"*

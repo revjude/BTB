@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַרְמוּת‎</span></big> **Yarmûwth** <small>*(yar-mooth')*</small> ==**Jarmuth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>; elevation</small>
+**<big><span class="ashebrew">‎יַרְמוּת‎</span></big>** **Yarmûwth** <small>*(yar-mooth')*</small> ==**Jarmuth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7311|‎רוּם‎]]</big>**; elevation</small>
 
 $\quad$ Jarmuth.
 - § Jarmuth = *"heights"*

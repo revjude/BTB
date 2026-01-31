@@ -6,14 +6,14 @@ one gold dish weighing ten shekels, filled with incense;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.31|<< Numbers 7:31]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.33|Numbers 7:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a pan  | <span class="ashebrew"><big>כַּ֥ף </big></span><small><small><sup>[[H3709I]]</sup></small></small> &#8207;| kaf <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אַחַ֛ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'a.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָ֥ה </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| full  | <span class="ashebrew"><big>מְלֵאָ֥ה </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| me.le.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| incense  | <span class="ashebrew"><big>קְטֹֽרֶת </big></span><small><small><sup>[[H7004]]</sup></small></small> &#8207;| ke.To.ret <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pan  |**<big>&#8207;[[H3709I\|כַּ֥ף]]&#8207; </big>**| kaf<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אַחַ֛ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֥ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  |**<big>&#8207;[[H4392\|מְלֵאָ֥ה]]&#8207; </big>**| me.le.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| incense  |**<big>&#8207;[[H7004\|קְטֹֽרֶת]]&#8207; </big>**| ke.To.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.31|<< Numbers 7:31]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.33|Numbers 7:33 >>]]</td></tr></table>
 
 

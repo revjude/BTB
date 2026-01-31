@@ -7,18 +7,18 @@ If his loins have not blessed me, and [if] he were [not] warmed with the fleece 
 if his heart has not blessed me for warming him with the fleece of my sheep,<small><sub>**MT:**</sub></small>
 [[Job.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.19|<< Job 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.21|Job 31:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and the disabled, | <big><span class="asgreek">αδύνατοι</span></big> <sup><small><small>[[G0102]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| unless | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| they blessed | <big><span class="asgreek">ευλόγησαν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] shearing \[wool\] | <big><span class="asgreek">κουράς</span></big> <sup><small><small>[[G8078]]</small></small></sup> |
-| of my lambs | <big><span class="asgreek">αμνών</span></big> <sup><small><small>[[G0286]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were not\] heated | <big><span class="asgreek">εθερμάνθησαν</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their shoulders | <big><span class="asgreek">ώμοι</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and the disabled, | **<big>[[G0102\|αδύνατοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| unless | **<big>[[G1508\|ει μη]]</big>** |
+| they blessed | **<big>[[G2127\|ευλόγησαν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and of | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] shearing \[wool\] | **<big>[[G8078\|κουράς]]</big>** |
+| of my lambs | **<big>[[G0286\|αμνών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[were not\] heated | **<big>[[G2328\|εθερμάνθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their shoulders | **<big>[[G5606\|ώμοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Job.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.19|<< Job 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.21|Job 31:21 >>]]</td></tr></table>
 
 

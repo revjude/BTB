@@ -6,16 +6,16 @@ Cut ye not off the tribe of the families of the Kohathites from among the Levite
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.17|<< Numbers 4:17]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.19|Numbers 4:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you cut off  | <span class="ashebrew"><big>תַּכְרִ֕יתוּ </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| takh.Ri.tu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tribe of  | <span class="ashebrew"><big>שֵׁ֖בֶט </big></span><small><small><sup>[[H7626H]]</sup></small></small> &#8207;| She.vet <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] clans of  | <span class="ashebrew"><big>מִשְׁפְּחֹ֣ת </big></span><small><small><sup>[[H4940]]</sup></small></small> &#8207;| mish.pe.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Kohathite[s]  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קְּהָתִ֑י </big></span><small><small><sup>[[H6956]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ke.ha.Ti <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from among  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>תּ֖וֹךְ </big></span><small><small><sup>[[H8432]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Tokh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Levites  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לְוִיִּֽם </big></span><small><small><sup>[[H3881]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha <small><sup>[[HTd]]</sup></small> l.vi.Yim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you cut off  |**<big>&#8207;[[H3772I\|תַּכְרִ֕יתוּ]]&#8207; </big>**| takh.Ri.tu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  |**<big>&#8207;[[H7626H\|שֵׁ֖בֶט]]&#8207; </big>**| She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֣ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kohathite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6956\|קְּהָתִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ha.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from among  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֖וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.17|<< Numbers 4:17]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.19|Numbers 4:19 >>]]</td></tr></table>
 
 

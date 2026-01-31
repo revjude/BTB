@@ -7,20 +7,20 @@ In that day it shall be said to Jerusalem, Fear thou not: [and to] Zion, Let not
 On that day they will say to Jerusalem: “Do not fear, O Zion; do not let your hands fall limp.<small><sub>**MT:**</sub></small>
 [[Zeph.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.15|<< Zephaniah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.17|Zephaniah 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Be of courage, | <big><span class="asgreek">θάρσει</span></big> <sup><small><small>[[G2293]]</small></small></sup> |
-| O Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| neglect | <big><span class="asgreek">παρείσθωσαν</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands! | <big><span class="asgreek">χείρές</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall say | **<big>[[G2046\|ερεί]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Be of courage, | **<big>[[G2293\|θάρσει]]</big>** |
+| O Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| neglect | **<big>[[G3935\|παρείσθωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your hands! | **<big>[[G5495\|χείρές]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Zeph.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.15|<< Zephaniah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.17|Zephaniah 3:17 >>]]</td></tr></table>
 
 

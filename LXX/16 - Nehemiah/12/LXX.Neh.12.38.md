@@ -7,39 +7,39 @@ And the other [company of them that gave] thanks went over against [them], and I
 The second thanksgiving choir proceeded to the left, and I followed it with half the people along the top of the wall, past the Tower of the Ovens to the Broad Wall,<small><sub>**MT:**</sub></small>
 [[Neh.12.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.37|<< Nehemiah 12:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.39|Nehemiah 12:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| praise, | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second \[group\] | <big><span class="asgreek">δευτέρα</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to meet | <big><span class="asgreek">συναντώσα</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \[were\] above | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| up above | <big><span class="asgreek">υπεράνω</span></big> <sup><small><small>[[G5231]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tower | <big><span class="asgreek">πύργου</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnaces, | <big><span class="asgreek">θεννουρίμ</span></big> <sup><small><small>[[G7653]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broad | <big><span class="asgreek">πλατέος</span></big> <sup><small><small>[[G4116]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| praise, | **<big>[[G0133\|αινέσεως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| second \[group\] | **<big>[[G1208\|δευτέρα]]</big>** |
+| went forth | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| to meet | **<big>[[G4876\|συναντώσα]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| was behind | **<big>[[G3694\|οπίσω]]</big>** |
+| them. | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| \[were\] above | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wall, | **<big>[[G5038\|τείχους]]</big>** |
+| up above | **<big>[[G5231\|υπεράνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| tower | **<big>[[G4444\|πύργου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| furnaces, | **<big>[[G7653\|θεννουρίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wall | **<big>[[G5038\|τείχους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| broad | **<big>[[G4116\|πλατέος]]</big>** |
 [[Neh.12.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.37|<< Nehemiah 12:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.39|Nehemiah 12:39 >>]]</td></tr></table>
 
 

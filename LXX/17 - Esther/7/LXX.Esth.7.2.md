@@ -7,38 +7,38 @@ And the king said again unto Esther on the second day at the banquet of wine, Wh
 and as they drank their wine on that second day, the king asked once more, “Queen Esther, what is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”<small><sub>**MT:**</sub></small>
 [[Esth.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.1|<< Esther 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.3|Esther 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Esther | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρα</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| banquet, | <big><span class="asgreek">πότω</span></big> <sup><small><small>[[G4224]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is it | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| queen Esther? | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> <big><span class="asgreek">βασίλισσα</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what \[is\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your request? | <big><span class="asgreek">αίτημά</span></big> <sup><small><small>[[G0155]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what \[is\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your petition? | <big><span class="asgreek">αξίωμά</span></big> <sup><small><small>[[G6382]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| yours | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my kingdom! | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Esther | **<big>[[H0635\|Εσθήρ]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| second | **<big>[[G1208\|δευτέρα]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| banquet, | **<big>[[G4224\|πότω]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| is it | **<big>[[G1510\|εστιν]]</big>** |
+| queen Esther? | **<big>[[H0635\|Εσθήρ]]</big>** **<big>[[G0938\|βασίλισσα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what \[is\] | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your request? | **<big>[[G0155\|αίτημά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what \[is\] | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your petition? | **<big>[[G6382\|αξίωμά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| yours | **<big>[[G1473\|σοι]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| half | **<big>[[G2255\|ημίσους]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my kingdom! | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Esth.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.1|<< Esther 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.3|Esther 7:3 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נִבְשָׁן‎</span></big> **Nibshân** <small>*(nib-shawn')*</small> ==**Nibshan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎נִבְשָׁן‎</span></big>** **Nibshân** <small>*(nib-shawn')*</small> ==**Nibshan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Nibshan.

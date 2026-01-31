@@ -6,15 +6,15 @@ Praise ye the LORD for the avenging of Israel, when the people willingly offered
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.1|<< Judges 5:1]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.3|Judges 5:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| when acted as leaders  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פְרֹ֤עַ </big></span><small><small><sup>[[H6544A]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> f.Ro.a' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heads  | <span class="ashebrew"><big>פְּרָעוֹת֙ </big></span><small><small><sup>[[H6546]]</sup></small></small> &#8207;| pe.ra.'Ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Israel  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when volunteers  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הִתְנַדֵּ֖ב </big></span><small><small><sup>[[H5068]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> hit.na.Dev <small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עָ֑ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bless  | <span class="ashebrew"><big>בָּרֲכ֖וּ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| ba.ra.Khu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when acted as leaders  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6544A\|פְרֹ֤עַ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> f.Ro.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heads  |**<big>&#8207;[[H6546\|פְּרָעוֹת֙]]&#8207; </big>**| pe.ra.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when volunteers  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5068\|הִתְנַדֵּ֖ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hit.na.Dev<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עָ֑ם]]&#8207; </big>**| 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bless  |**<big>&#8207;[[H1288\|בָּרֲכ֖וּ]]&#8207; </big>**| ba.ra.Khu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.1|<< Judges 5:1]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.3|Judges 5:3 >>]]</td></tr></table>
 
 

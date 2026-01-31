@@ -9,30 +9,30 @@ They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: whe
 “Go away! Unclean!” men shouted at them. “Away, away! Do not touch us!” So they fled and wandered. Among the nations it was said, “They can stay here no longer.”<small><sub>**MT:**</sub></small>
 [[Lam.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΣΑΜΕΧ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΣΑΜΕΧ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Separate | <big><span class="asgreek">απόστητε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from \[the\] unclean! | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| Call | <big><span class="asgreek">καλέσατε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Separate, | <big><span class="asgreek">απόστητε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| separate, | <big><span class="asgreek">απόστητε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| touch! | <big><span class="asgreek">άπτεσθε</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were lit, | <big><span class="asgreek">ανήφθησαν</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| they were shaken. | <big><span class="asgreek">εσαλεύθησαν</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| Say | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations! | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should they proceed | <big><span class="asgreek">προσθώσι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sojourn \[there\]. | <big><span class="asgreek">παροικείν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
+| ΣΑΜΕΧ <sup><small>[acrostic title]</small></sup> |  |
+| Separate | **<big>[[G0868\|απόστητε]]</big>** |
+| from \[the\] unclean! | **<big>[[G0169\|ακαθάρτων]]</big>** |
+| Call | **<big>[[G2564\|καλέσατε]]</big>** |
+| them! | **<big>[[G1473\|αυτούς]]</big>** |
+| Separate, | **<big>[[G0868\|απόστητε]]</big>** |
+| separate, | **<big>[[G0868\|απόστητε]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| touch! | **<big>[[G0680\|άπτεσθε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they were lit, | **<big>[[G0381\|ανήφθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed, | **<big>[[G1065\|γε]]</big>** |
+| they were shaken. | **<big>[[G4531\|εσαλεύθησαν]]</big>** |
+| Say | **<big>[[G2036\|είπατε]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations! | **<big>[[G1484\|έθνεσιν]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should they proceed | **<big>[[G4369\|προσθώσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sojourn \[there\]. | **<big>[[G3939\|παροικείν]]</big>** |
 [[Lam.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
 

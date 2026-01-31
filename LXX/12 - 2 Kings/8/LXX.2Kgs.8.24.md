@@ -10,29 +10,29 @@ And Joram slept with his fathers, and was buried with his fathers in the city of
 And Jehoram rested with his fathers and was buried with them in the City of David. And his son Ahaziah reigned in his place.<small><sub>**MT:**</sub></small>
 [[2Kgs.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.23|<< 2 Kings 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.25|2 Kings 8:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoram slept | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he is entombed | <big><span class="asgreek">θάπτεται</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Ahaziah | <big><span class="asgreek">Οχοζίας</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoram slept | **<big>[[G2837\|εκοιμήθη]]</big>** **<big>[[G2496\|Ιωράμ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he is entombed | **<big>[[G2290\|θάπτεται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] city | **<big>[[G4172\|πόλει]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| Ahaziah | **<big>[[H0274\|Οχοζίας]]</big>** |
+| his son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.23|<< 2 Kings 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.25|2 Kings 8:25 >>]]</td></tr></table>
 
 

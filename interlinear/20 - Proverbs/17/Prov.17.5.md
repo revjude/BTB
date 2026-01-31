@@ -6,16 +6,16 @@ He who mocks the poor insults their Maker; whoever gloats over calamity will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.4|<< Proverbs 17:4]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.6|Proverbs 17:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] mocks  | <span class="ashebrew"><big>לֹעֵ֣ג </big></span><small><small><sup>[[H3932]]</sup></small></small> &#8207;| lo.'Eg <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> the poor [person]  | <span class="ashebrew"><big>לָ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רָשׁ </big></span><small><small><sup>[[H7326]]</sup></small></small> &#8207;| La. <small><sup>[[HRd]]</sup></small> rosh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he reproaches  | <span class="ashebrew"><big>חֵרֵ֣ף </big></span><small><small><sup>[[H2778A]]</sup></small></small> &#8207;| che.Ref <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| maker his  | <span class="ashebrew"><big>עֹשֵׂ֑ </big></span><small><small><sup>[[H6213H]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.Se. <small><sup>[[HVqrmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [a person] joyful  | <span class="ashebrew"><big>שָׂמֵ֥חַ </big></span><small><small><sup>[[H8056]]</sup></small></small> &#8207;| sa.Me.ach <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for calamity  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֗יד </big></span><small><small><sup>[[H0343]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Eid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go unpunished  | <span class="ashebrew"><big>יִנָּקֶֽה </big></span><small><small><sup>[[H5352]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.na.Keh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] mocks  |**<big>&#8207;[[H3932\|לֹעֵ֣ג]]&#8207; </big>**| lo.'Eg<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the poor [person]  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H7326\|רָשׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> rosh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he reproaches  |**<big>&#8207;[[H2778A\|חֵרֵ֣ף]]&#8207; </big>**| che.Ref<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| maker his  |**<big>&#8207;[[H6213H\|עֹשֵׂ֑]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| 'o.Se.<small><sup>[[HVqrmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [a person] joyful  |**<big>&#8207;[[H8056\|שָׂמֵ֥חַ]]&#8207; </big>**| sa.Me.ach<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for calamity  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H0343\|אֵ֗יד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Eid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go unpunished  |**<big>&#8207;[[H5352\|יִנָּקֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.na.Keh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.4|<< Proverbs 17:4]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.6|Proverbs 17:6 >>]]</td></tr></table>
 
 

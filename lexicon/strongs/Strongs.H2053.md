@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎וָו‎</span></big> **vâv** <small>*(vaw)*</small> ==**hook**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎וָו‎</span></big>** **vâv** <small>*(vaw)*</small> ==**hook**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably</small>
 
 $\quad$ hook.
@@ -6,4 +6,4 @@ $\quad$ hook.
 
 **1)** hook, peg, nail, pin
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κεφαλίς</span><sup><small>[[G2777]]</small></sup>
+<small>See Greek: </small>**<big>[[G2777|κεφαλίς]]</big>**

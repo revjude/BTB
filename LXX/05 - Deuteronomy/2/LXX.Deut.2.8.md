@@ -7,35 +7,35 @@ And when we passed by from our brethren the children of Esau, which dwelt in Sei
 So we passed by our brothers, the descendants of Esau, who live in Seir. We turned away from the Arabah road, which comes up from Elath and Ezion-geber, and traveled along the road of the Wilderness of Moab.<small><sub>**MT:**</sub></small>
 [[Deut.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.7|<< Deuteronomy 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.9|Deuteronomy 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we went by | <big><span class="asgreek">παρήλθομεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Esau, | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Seir, | <big><span class="asgreek">Σηείρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[of\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">αραβά</span></big> <sup><small><small>[[H6160]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Aelon, | <big><span class="asgreek">Ελών</span></big> <sup><small><small>[[H0356]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Ezion | <big><span class="asgreek">Γασίων</span></big> <sup><small><small>[[H6100]]</small></small></sup> |
-| Gaber; | <big><span class="asgreek">Γαβέρ</span></big> <sup><small><small>[[H6100]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turning | <big><span class="asgreek">επιστραφέντες</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| we went by | <big><span class="asgreek">παρήλθομεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of \[the\] wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| we went by | **<big>[[G3928\|παρήλθομεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Esau, | **<big>[[G2269\|Ησαύ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Seir, | **<big>[[H8165b\|Σηείρ]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| \[of\] the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[H6160\|αραβά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Aelon, | **<big>[[H0356\|Ελών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Ezion | **<big>[[H6100\|Γασίων]]</big>** |
+| Gaber; | **<big>[[H6100\|Γαβέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turning | **<big>[[G1994\|επιστραφέντες]]</big>** |
+| we went by | **<big>[[G3928\|παρήλθομεν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of \[the\] wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Deut.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.7|<< Deuteronomy 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.9|Deuteronomy 2:9 >>]]</td></tr></table>
 
 

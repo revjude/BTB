@@ -6,17 +6,17 @@ and from Mount Hor to Lebo-hamath, then extend to Zedad,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from Hor  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֹ֣ר </big></span><small><small><sup>[[H2023H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Hor <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the mountain  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הָ֔ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will mark out  | <span class="ashebrew"><big>תְּתָא֖וּ </big></span><small><small><sup>[[H8376]]</sup></small></small> &#8207;| te.ta.'U <small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebo  | <span class="ashebrew"><big>לְבֹ֣א </big></span><small><small><sup>[[H0935H]]</sup></small></small> &#8207;| le.Vo' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hamath  | <span class="ashebrew"><big>חֲמָ֑ת </big></span><small><small><sup>[[H2574G]]</sup></small></small> &#8207;| cha.Mat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָי֛וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] extremities of  | <span class="ashebrew"><big>תּוֹצְאֹ֥ת </big></span><small><small><sup>[[H8444]]</sup></small></small> &#8207;| totz.'Ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the border  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גְּבֻ֖ל </big></span><small><small><sup>[[H1366G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ge.Vul <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zedad towards  | <span class="ashebrew"><big>צְדָֽדָ </big></span><small><small><sup>[[H6657]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tze.Da.da <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Hor  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2023H\|הֹ֣ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will mark out  |**<big>&#8207;[[H8376\|תְּתָא֖וּ]]&#8207; </big>**| te.ta.'U<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebo  |**<big>&#8207;[[H0935H\|לְבֹ֣א]]&#8207; </big>**| le.Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath  |**<big>&#8207;[[H2574G\|חֲמָ֑ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֛וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] extremities of  |**<big>&#8207;[[H8444\|תּוֹצְאֹ֥ת]]&#8207; </big>**| totz.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּבֻ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zedad towards  |**<big>&#8207;[[H6657\|צְדָֽדָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tze.Da.da<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
 

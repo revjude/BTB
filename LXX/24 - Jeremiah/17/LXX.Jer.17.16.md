@@ -7,27 +7,27 @@ As for me, I have not hastened from [being] a pastor to follow thee: neither hav
 But I have not run away from being Your shepherd; I have not desired the day of despair. You know that the utterance of my lips was spoken in Your presence.<small><sub>**MT:**</sub></small>
 [[Jer.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.15|<< Jeremiah 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.17|Jeremiah 17:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| tired not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκοπίασα</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| following closely | <big><span class="asgreek">κατακολουθών</span></big> <sup><small><small>[[G2628]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| I desired not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επεθύμησα</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have knowledge of | <big><span class="asgreek">επίστασαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having gone forth | <big><span class="asgreek">εκπορευόμενα</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lips; | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| tired not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2872\|εκοπίασα]]</big>** |
+| following closely | **<big>[[G2628\|κατακολουθών]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέραν]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| I desired not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1937\|επεθύμησα]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| have knowledge of | **<big>[[G1987\|επίστασαι]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| having gone forth | **<big>[[G1607\|εκπορευόμενα]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my lips; | **<big>[[G5491\|χειλέων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Jer.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.15|<< Jeremiah 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.17|Jeremiah 17:17 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ But if ye will not hearken unto us, to be circumcised; then will we take our dau
 But if you will not agree to be circumcised, then we will take our sister and go.”<small><sub>**MT:**</sub></small>
 [[Gen.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.16|<< Genesis 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.18|Genesis 34:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should not listen to | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εισακούσητε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being circumcised, | <big><span class="asgreek">περιτέμνησθε</span></big> <sup><small><small>[[G4059]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβόντες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our daughter, | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we shall go forth. | <big><span class="asgreek">απελευσόμεθα</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should not listen to | **<big>[[G3361\|μη]]</big>** **<big>[[G1522\|εισακούσητε]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| being circumcised, | **<big>[[G4059\|περιτέμνησθε]]</big>** |
+| taking | **<big>[[G2983\|λαβόντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| our daughter, | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| we shall go forth. | **<big>[[G0565\|απελευσόμεθα]]</big>** |
 [[Gen.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.16|<< Genesis 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.18|Genesis 34:18 >>]]</td></tr></table>
 
 

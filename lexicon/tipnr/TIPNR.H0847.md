@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Eshtaol</span>, a city allotted to Judah and Dan, was the hometown of Samson and the starting point of the Danite migration.
 - A location first mentioned at [[Josh.15.33|Jos.15.33]]; 
-- referred to as Eshtaol<[[H0847]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ל</span>\), or Eshtaolite<[[H0848]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>ֻ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Eshtaol **<big>[[H0847|אֶשְׁתָּאֹל]]</big>**, or Eshtaolite **<big>[[H0848|אֶשְׁתָּאֻלִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.782429,35.009012&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The descendants of the Eshtaolites, a clan from Eshtaol, are mentioned in [[1Chr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eshtaol | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H0847) <small>*Hebrew*</small> | 7x | [[Jos.15.33] ... [Jdg.18.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshtaol\*\|reference=Jos.15.33;Jos.19.41;Jdg.13.25;Jdg.16.31;Jdg.18.2;Jdg.18.8;Jdg.18.11) |
-| Eshtaolite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>ֻ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H0848) <small>*Hebrew*</small> | 1x | [1Ch.2.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshtaolite\*\|reference=1Ch.2.53) |
-All Strong's for **Eshtaol or Eshtaolite**: \[[[H0847]]\] \[[[H0848]]\]
+| Eshtaol | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H0847) | 7x | [[Jos.15.33] ... [Jdg.18.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshtaol\*\|reference=Jos.15.33;Jos.19.41;Jdg.13.25;Jdg.16.31;Jdg.18.2;Jdg.18.8;Jdg.18.11) |
+| Eshtaolite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>ֻ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H0848) | 1x | [1Ch.2.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshtaolite\*\|reference=1Ch.2.53) |
+All entries for **Eshtaol or Eshtaolite**:  **<big>[[H0847|אֶשְׁתָּאֹל]]</big>** ☩  **<big>[[H0848|אֶשְׁתָּאֻלִי]]</big>**

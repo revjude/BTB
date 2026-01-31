@@ -6,14 +6,14 @@ I have not learned wisdom, and I have no knowledge of the Holy One.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.2|<< Proverbs 30:2]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.4|Proverbs 30:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have learned  | <span class="ashebrew"><big>לָמַ֥דְתִּי </big></span><small><small><sup>[[H3925H]]</sup></small></small> &#8207;| la.Mad.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and knowledge of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דַ֖עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Da.'at <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [one\<s>]  | <span class="ashebrew"><big>קְדֹשִׁ֣ים </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ke.do.Shim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>אֵדָֽע </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Da' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have learned  |**<big>&#8207;[[H3925H\|לָמַ֥דְתִּי]]&#8207; </big>**| la.Mad.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֑ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and knowledge of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1847\|דַ֖עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Da.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one\<s>]  |**<big>&#8207;[[H6918G\|קְדֹשִׁ֣ים]]&#8207; </big>**| ke.do.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|אֵדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Da'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.2|<< Proverbs 30:2]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.4|Proverbs 30:4 >>]]</td></tr></table>
 
 

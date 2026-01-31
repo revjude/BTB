@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎זֶה‎</span></big> **zeh** <small>*(zeh)*</small> ==**this**==  <sup><small>[[TEHMC#H:DemP|H:DemP]]</small></sup> 
+**<big><span class="ashebrew">‎זֶה‎</span></big>** **zeh** <small>*(zeh)*</small> ==**this**==  <sup><small>[[TEHMC#H:DemP|H:DemP]]</small></sup> 
 <small>a primitive word</small>
 
-$\quad$ he, [idiom] hence, [idiom] here, it(-self), [idiom] now, [idiom] of him, the one...the other, [idiom] than the other, ([idiom] out of) the (self) same, such (a one) that, these, this (hath, man), on this side...on that side, [idiom] thus, very, which. Compare <span class="ashebrew">‎זֹאת‎</span><sup><small>[[H2063]]</small></sup>, <span class="ashebrew">‎זֹה‎</span><sup><small>[[H2090]]</small></sup>, <span class="ashebrew">‎זוֹ‎</span><sup><small>[[H2097]]</small></sup>, <span class="ashebrew">‎זוּ‎</span><sup><small>[[H2098]]</small></sup>.
+$\quad$ he, [idiom] hence, [idiom] here, it(-self), [idiom] now, [idiom] of him, the one...the other, [idiom] than the other, ([idiom] out of) the (self) same, such (a one) that, these, this (hath, man), on this side...on that side, [idiom] thus, very, which. Compare **<big>[[H2063|‎זֹאת‎]]</big>**, **<big>[[H2090|‎זֹה‎]]</big>**, **<big>[[H2097|‎זוֹ‎]]</big>**, **<big>[[H2098|‎זוּ‎]]</big>**.
 - the masculine demonstrative pronoun, ***this*** or ***that***
 
 **1)** this, this one, here, which, this...that, the one...the other, another, such
@@ -32,4 +32,4 @@ $\quad$ $\quad$ **1f5)** from here, hence, on one side...on the other side
 $\quad$ $\quad$ **1f6)** on this account
 $\quad$ $\quad$ **1f7)** in spite of this, which, whence, how
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄλλος</span><sup><small>[[G0243]]</small></sup> · <span class="asgreek">ἐκεῖνος</span><sup><small>[[G1565]]</small></sup> · <span class="asgreek">ἐντεῦθεν</span><sup><small>[[G1782]]</small></sup> · <span class="asgreek">ἐντεῦθεν</span><sup><small>[[G1782]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup> · <span class="asgreek">ἰδού</span><sup><small>[[G2400]]</small></sup> · <span class="asgreek">οὗτος</span><sup><small>[[G3778]]</small></sup> · <span class="asgreek">ποῖος</span><sup><small>[[G4169]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">ὧδε</span><sup><small>[[G5602]]</small></sup>
+<small>See Greek: </small>**<big>[[G0243|ἄλλος]]</big>** · **<big>[[G1565|ἐκεῖνος]]</big>** · **<big>[[G1782|ἐντεῦθεν]]</big>** · **<big>[[G1782|ἐντεῦθεν]]</big>** · **<big>[[G2087|ἕτερος]]</big>** · **<big>[[G2400|ἰδού]]</big>** · **<big>[[G3778|οὗτος]]</big>** · **<big>[[G4169|ποῖος]]</big>** · **<big>[[G5101|τίς]]</big>** · **<big>[[G5602|ὧδε]]</big>**

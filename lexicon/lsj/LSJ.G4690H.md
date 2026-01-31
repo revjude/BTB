@@ -1,4 +1,4 @@
-meaning of: <small>[[G4690G]]</small> 
+meaning of: <small>**<big>[[G4690G|σπέρμα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σπέρμα==</span>-<span class='asgreek'>α</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 

@@ -7,24 +7,24 @@ All they that were numbered in the camp of Dan [were] an hundred thousand and fi
 The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”<small><sub>**MT:**</sub></small>
 [[Num.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being numbered | <big><span class="asgreek">επεσκεμμένοι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of Dan -- | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty-seven | <big><span class="asgreek">πεντηκονταεπτά</span></big> <sup><small><small>[[G8702]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred; | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| last | <big><span class="asgreek">έσχατοι</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| they shall lift away | <big><span class="asgreek">εξαρούσι</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their order. | <big><span class="asgreek">τάγμα</span></big> <sup><small><small>[[G5001]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being numbered | **<big>[[G1980\|επεσκεμμένοι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| of Dan -- | **<big>[[H1835\|Δαν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty-seven | **<big>[[G8702\|πεντηκονταεπτά]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred; | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| last | **<big>[[G2078\|έσχατοι]]</big>** |
+| they shall lift away | **<big>[[G1808\|εξαρούσι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their order. | **<big>[[G5001\|τάγμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
 

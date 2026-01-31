@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַגִּית‎</span></big> **Chaggîyth** <small>*(khag-gheeth')*</small> ==**Haggith**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חַגִּי‎</span><sup><small>[[H2291]]</small></sup>; festive</small>
+**<big><span class="ashebrew">‎חַגִּית‎</span></big>** **Chaggîyth** <small>*(khag-gheeth')*</small> ==**Haggith**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H2291|‎חַגִּי‎]]</big>**; festive</small>
 
 $\quad$ Haggith.
 - § Haggith = *"festive"*

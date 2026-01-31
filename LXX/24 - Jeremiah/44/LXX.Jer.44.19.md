@@ -7,31 +7,31 @@ And when we burned incense to the queen of heaven, and poured out drink offering
 “Moreover,” said the women, “when we burned incense to the Queen of Heaven and poured out drink offerings to her, was it without our husbands’ knowledge that we made sacrificial cakes in her image and poured out drink offerings to her?”<small><sub>**MT:**</sub></small>
 [[Jer.44.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.18|<< Jeremiah 44:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.20|Jeremiah 44:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[seeing\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| burned incense | <big><span class="asgreek">εθυμιώμεν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen | <big><span class="asgreek">βασιλίσση</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offered | <big><span class="asgreek">εσπείσαμεν</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| libations, | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| did we | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our husbands | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make | <big><span class="asgreek">εποιήσαμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cakes, | <big><span class="asgreek">χαυώνας</span></big> <sup><small><small>[[G9708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offer | <big><span class="asgreek">εσπείσαμεν</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| libations | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| to her? | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[seeing\] that | **<big>[[G3754\|ότι]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| burned incense | **<big>[[G2370\|εθυμιώμεν]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| queen | **<big>[[G0938\|βασιλίσση]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offered | **<big>[[G4689\|εσπείσαμεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| libations, | **<big>[[G9145\|σπονδάς]]</big>** |
+| did we | **<big>[[G3361\|μη]]</big>** |
+| without | **<big>[[G0427\|άνευ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| our husbands | **<big>[[G0435\|ανδρών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| make | **<big>[[G4160\|εποιήσαμεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| cakes, | **<big>[[G9708\|χαυώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offer | **<big>[[G4689\|εσπείσαμεν]]</big>** |
+| libations | **<big>[[G9145\|σπονδάς]]</big>** |
+| to her? | **<big>[[G1473\|αυτή]]</big>** |
 [[Jer.44.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.18|<< Jeremiah 44:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.20|Jeremiah 44:20 >>]]</td></tr></table>
 
 

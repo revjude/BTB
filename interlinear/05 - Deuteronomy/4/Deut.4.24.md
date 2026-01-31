@@ -10,16 +10,16 @@ For the LORD your God is a consuming fire, a jealous God.
 > $\quad$ referenced by: [[Heb.12.29|Heb 12:29]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֶ֔י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a fire  | <span class="ashebrew"><big>אֵ֥שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| consuming  | <span class="ashebrew"><big>אֹכְלָ֖ה </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'o.khe.Lah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a God  | <span class="ashebrew"><big>אֵ֖ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jealous  | <span class="ashebrew"><big>קַנָּֽא </big></span><small><small><sup>[[H7067H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ka.Na' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a fire  |**<big>&#8207;[[H0784\|אֵ֥שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consuming  |**<big>&#8207;[[H0398\|אֹכְלָ֖ה]]&#8207; </big>**| 'o.khe.Lah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a God  |**<big>&#8207;[[H0410G\|אֵ֖ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jealous  |**<big>&#8207;[[H7067H\|קַנָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Na'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.23|<< Deuteronomy 4:23]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.25|Deuteronomy 4:25 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָנַךְ‎</span></big> **chânak** <small>*(khaw-nak')*</small> ==**to dedicate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; (compare <span class="ashebrew">‎חָנַק‎</span><sup><small>[[H2614]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָנַךְ‎</span></big>** **chânak** <small>*(khaw-nak')*</small> ==**to dedicate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; (compare **<big>[[H2614|‎חָנַק‎]]</big>**)</small>
 
 $\quad$ dedicate, train up.
 - properly, ***to narrow***

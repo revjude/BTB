@@ -6,17 +6,17 @@ For without cause they laid their net for me; without reason they dug a pit for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.6|<< Psalms 35:6]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.8|Psalms 35:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| without cause  | <span class="ashebrew"><big>חִנָּ֣ם </big></span><small><small><sup>[[H2600]]</sup></small></small> &#8207;| chi.Nam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have hidden  | <span class="ashebrew"><big>טָֽמְנוּ </big></span><small><small><sup>[[H2934]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ta.me.nu- <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for me  | <span class="ashebrew"><big>לִ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pit of  | <span class="ashebrew"><big>שַׁ֣חַת </big></span><small><small><sup>[[H7845H]]</sup></small></small> &#8207;| Sha.chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| net their  | <span class="ashebrew"><big>רִשְׁתָּ֑ </big></span><small><small><sup>[[H7568]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| rish.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| without cause  | <span class="ashebrew"><big>חִ֝נָּ֗ם </big></span><small><small><sup>[[H2600]]</sup></small></small> &#8207;| chi.Nam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have dug  | <span class="ashebrew"><big>חָפְר֥וּ </big></span><small><small><sup>[[H2658]]</sup></small></small> &#8207;| cha.fe.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for life my  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נַפְשִֽׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| without cause  |**<big>&#8207;[[H2600\|חִנָּ֣ם]]&#8207; </big>**| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have hidden  |**<big>&#8207;[[H2934\|טָֽמְנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.me.nu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for me  |**<big>&#8207;[[H9005\|לִ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pit of  |**<big>&#8207;[[H7845H\|שַׁ֣חַת]]&#8207; </big>**| Sha.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| net their  |**<big>&#8207;[[H7568\|רִשְׁתָּ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| rish.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| without cause  |**<big>&#8207;[[H2600\|חִ֝נָּ֗ם]]&#8207; </big>**| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have dug  |**<big>&#8207;[[H2658\|חָפְר֥וּ]]&#8207; </big>**| cha.fe.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for life my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5315H\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.6|<< Psalms 35:6]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.8|Psalms 35:8 >>]]</td></tr></table>
 
 

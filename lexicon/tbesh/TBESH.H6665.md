@@ -1,4 +1,3 @@
-<span class="asaramaic">‎צִדְקָה‎</span> <small>***(tsid.qah)***</small> ==**righteousness**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-Aramaic of: <small>[[H6666]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6666|צְדָקָה]]</big>**</small> 
 
-- Aramaic of <i>tse.da.qah</i> (<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎ה‎</span> "righteousness" [[H6666]])
+- Aramaic of <i>tse.da.qah</i> (<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎ה‎</span> "righteousness" **<big>[[H6666|צְדָקָה]]</big>**)

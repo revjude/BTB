@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּלֵב אֶפְרָתָה‎</span></big> **Kâlêb ʼEphrâthâh** <small>*(kaw-labe' ef-raw'-thaw)*</small> ==**Caleb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלֵב‎</span><sup><small>[[H3612]]</small></sup> and <span class="ashebrew">‎אֶפְרָת‎</span><sup><small>[[H0672]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּלֵב אֶפְרָתָה‎</span></big>** **Kâlêb ʼEphrâthâh** <small>*(kaw-labe' ef-raw'-thaw)*</small> ==**Caleb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3612|‎כָּלֵב‎]]</big>** and **<big>[[H0672|‎אֶפְרָת‎]]</big>**</small>
 
 $\quad$ Caleb-ephrathah.
 - § Caleb-ephratah = *"dog or ash heap"*

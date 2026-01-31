@@ -7,28 +7,28 @@ And I have led you forty years in the wilderness: your clothes are not waxen old
 For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.<small><sub>**MT:**</sub></small>
 [[Deut.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.4|<< Deuteronomy 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.6|Deuteronomy 29:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led | <big><span class="asgreek">ήγαγεν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| become old | <big><span class="asgreek">επαλαιώθη</span></big> <sup><small><small>[[G3822]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sandals | <big><span class="asgreek">υποδήματα</span></big> <sup><small><small>[[G5266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| wear away | <big><span class="asgreek">κατετρίβη</span></big> <sup><small><small>[[G7939]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your feet. | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led | **<big>[[G0071\|ήγαγεν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| become old | **<big>[[G3822\|επαλαιώθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| Your garments | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sandals | **<big>[[G5266\|υποδήματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| wear away | **<big>[[G7939\|κατετρίβη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your feet. | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Deut.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.4|<< Deuteronomy 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.6|Deuteronomy 29:6 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ They were snatched away before their time, and their foundations were swept away
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.15|<< Job 22:15]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.17|Job 22:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who  | <span class="ashebrew"><big>אֲשֶֽׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were snatched away  | <span class="ashebrew"><big>קֻמְּט֥וּ </big></span><small><small><sup>[[H7059]]</sup></small></small> &#8207;| ku.me.Tu <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an appropriate time  | <span class="ashebrew"><big>עֵ֑ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| 'Et <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a river  | <span class="ashebrew"><big>נָ֝הָ֗ר </big></span><small><small><sup>[[H5104H]]</sup></small></small> &#8207;| na.Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was poured out  | <span class="ashebrew"><big>יוּצַ֥ק </big></span><small><small><sup>[[H3332G]]</sup></small></small> &#8207;| yu.Tzak <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foundation their  | <span class="ashebrew"><big>יְסוֹדָֽ </big></span><small><small><sup>[[H3247H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.so.Da <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶֽׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were snatched away  |**<big>&#8207;[[H7059\|קֻמְּט֥וּ]]&#8207; </big>**| ku.me.Tu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an appropriate time  |**<big>&#8207;[[H6256\|עֵ֑ת]]&#8207; </big>**| 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a river  |**<big>&#8207;[[H5104H\|נָ֝הָ֗ר]]&#8207; </big>**| na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was poured out  |**<big>&#8207;[[H3332G\|יוּצַ֥ק]]&#8207; </big>**| yu.Tzak<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foundation their  |**<big>&#8207;[[H3247H\|יְסוֹדָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.so.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.15|<< Job 22:15]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.17|Job 22:17 >>]]</td></tr></table>
 
 

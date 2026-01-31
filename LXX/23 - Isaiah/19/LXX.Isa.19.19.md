@@ -7,24 +7,24 @@ In that day shall there be an altar to the LORD in the midst of the land of Egyp
 In that day there will be an altar to the LORD in the center of the land of Egypt, and a pillar to the LORD near her border.<small><sub>**MT:**</sub></small>
 [[Isa.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.18|<< Isaiah 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.20|Isaiah 19:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[In\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] region | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of the Egyptians; | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there will be\] a monument | <big><span class="asgreek">στήλη</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| at | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its border | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[In\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] region | **<big>[[G5561\|χώρα]]</big>** |
+| of the Egyptians; | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there will be\] a monument | **<big>[[G9171\|στήλη]]</big>** |
+| at | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its border | **<big>[[G3725\|όριον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Isa.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.18|<< Isaiah 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.20|Isaiah 19:20 >>]]</td></tr></table>
 
 

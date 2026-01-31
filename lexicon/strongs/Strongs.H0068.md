@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶבֶן‎</span></big> **ʼeben** <small>*(eh'-ben)*</small> ==**stone**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the root of <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup> through the meaning to build</small>
+**<big><span class="ashebrew">‎אֶבֶן‎</span></big>** **ʼeben** <small>*(eh'-ben)*</small> ==**stone**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the root of **<big>[[H1129|‎בָּנָה‎]]</big>** through the meaning to build</small>
 
 $\quad$ [phrase] carbuncle, [phrase] mason, [phrase] plummet, (chalk-, hail-, head-, sling-) stone(-ny), (divers) weight(-s).
 - ***a stone***
@@ -23,4 +23,4 @@ $\quad$ **1j)** (metaph)
 $\quad$ $\quad$ **1j1)** petrified with terror
 $\quad$ $\quad$ **1j2)** perverse, hard heart
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">λίθινος</span><sup><small>[[G3035]]</small></sup> · <span class="asgreek">λίθος</span><sup><small>[[G3037]]</small></sup> · <span class="asgreek">μικρός</span><sup><small>[[G3398]]</small></sup> · <span class="asgreek">χάλαζα</span><sup><small>[[G5464]]</small></sup>
+<small>See Greek: </small>**<big>[[G2729|κατισχύω]]</big>** · **<big>[[G3035|λίθινος]]</big>** · **<big>[[G3037|λίθος]]</big>** · **<big>[[G3398|μικρός]]</big>** · **<big>[[G5464|χάλαζα]]</big>**

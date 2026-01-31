@@ -7,41 +7,41 @@ and not exists in  this house one thing outside of me, nor one \[thing\] secretl
 No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”<small><sub>**MT:**</sub></small>
 [[Gen.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.8|<< Genesis 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.10|Genesis 39:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exists | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| one thing | <big><span class="asgreek">ουθεν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| outside | <big><span class="asgreek">εκτος</span></big> <sup><small><small>[[G1622]]</small></small></sup> |
-| of me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| secretly removed | <big><span class="asgreek">υπεξήρηται</span></big> <sup><small><small>[[G9539]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one \[thing\] | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| should I do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτήσομαι</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God? | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| exists | **<big>[[G5225\|υπάρχει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this house | **<big>[[G3614\|οικία]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| one thing | **<big>[[G3762\|ουθεν]]</big>** |
+| outside | **<big>[[G1622\|εκτος]]</big>** |
+| of me, | **<big>[[G1473\|εμού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| secretly removed | **<big>[[G9539\|υπεξήρηται]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| one \[thing\] | **<big>[[G3762\|ουδέν]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| his wife | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G4459\|πως]]</big>** |
+| should I do | **<big>[[G4160\|ποιήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this wicked | **<big>[[G4190\|πονηρόν]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sin | **<big>[[G0264\|αμαρτήσομαι]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God? | **<big>[[G2316\|θεού]]</big>** |
 [[Gen.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.8|<< Genesis 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.10|Genesis 39:10 >>]]</td></tr></table>
 
 

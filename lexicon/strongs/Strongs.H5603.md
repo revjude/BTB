@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָפַן‎</span></big> **çâphan** <small>*(saw-fan')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָפַן‎</span></big>** **çâphan** <small>*(saw-fan')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cieled, cover, seated.
@@ -11,4 +11,4 @@ $\quad$ **1a)** (Qal)
 $\quad$ $\quad$ **1a1)** to cover in, panel
 $\quad$ $\quad$ **1a2)** covered, panelled (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπόριον</span><sup><small>[[G1712]]</small></sup>
+<small>See Greek: </small>**<big>[[G1712|ἐμπόριον]]</big>**

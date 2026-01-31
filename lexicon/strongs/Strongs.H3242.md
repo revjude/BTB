@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְנִיקָה‎</span></big> **yᵉnîyqâh** <small>*(yen-ee-kaw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎יָנַק‎</span><sup><small>[[H3243]]</small></sup></small>
+**<big><span class="ashebrew">‎יְנִיקָה‎</span></big>** **yᵉnîyqâh** <small>*(yen-ee-kaw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3243|‎יָנַק‎]]</big>**</small>
 
 $\quad$ young twig.
 - ***a sucker*** or ***sapling***

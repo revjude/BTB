@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Baal-zephon</span> was an Egyptian location where the Israelites camped before crossing the Red Sea. \([[Exod.14.2|Exodus 14:2]], 9; [[Num.33.7|Numbers 33:7]]\)
 - A location first mentioned at [[Exod.14.2|Exo.14.2]]; 
-- only referred to as Baal-zephon<[[H1189]]> \(<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Baal-zephon **<big>[[H1189|בַּעַל צְפוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.938441,32.395473&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Baal-zephon is mentioned in [[Exod.14.2|Exodus 14:2]], 9, and [[Num.33.7|Numbers
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Baal-zephon (NIV= Baal Zephon) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1189) <small>*Hebrew*</small> | 3x | [[Exo.14.2] ... [Num.33.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Baal\*\|reference=Exo.14.2;Exo.14.9;Num.33.7) |
-All Strong's for **Baal-zephon**: \[[[H1189]]\]
+| Baal-zephon (NIV= Baal Zephon) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1189) | 3x | [[Exo.14.2] ... [Num.33.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Baal\*\|reference=Exo.14.2;Exo.14.9;Num.33.7) |
+All entries for **Baal-zephon**:  **<big>[[H1189|בַּעַל צְפוֹן]]</big>**

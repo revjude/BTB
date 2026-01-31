@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shihor-libnath</span> was a place that marked the boundary of the territory allotted to the tribe of Asher \(Josh. 19:26\).
 - A location only mentioned at [[Josh.19.26|Jos.19.26]]; 
-- only referred to as Shihor-libnath<[[H7884]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Shihor-libnath **<big>[[H7884|שִׁיחוֹר לִבְנָת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.538496,34.907697&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shihor-libnath is mentioned only once in the Bible, in the description of the te
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shihor-libnath (NIV= Shihor Libnath) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H7884) <small>*Hebrew*</small> | 1x | [Jos.19.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shihor\*\|reference=Jos.19.26) |
-All Strong's for **Shihor-libnath**: \[[[H7884]]\]
+| Shihor-libnath (NIV= Shihor Libnath) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H7884) | 1x | [Jos.19.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shihor\*\|reference=Jos.19.26) |
+All entries for **Shihor-libnath**:  **<big>[[H7884|שִׁיחוֹר לִבְנָת]]</big>**

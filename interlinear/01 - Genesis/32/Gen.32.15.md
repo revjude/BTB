@@ -6,20 +6,20 @@ Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.14|<< Genesis 32:14]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.16|Genesis 32:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| camels  | <span class="ashebrew"><big>גְּמַלִּ֧ים </big></span><small><small><sup>[[H1581]]</sup></small></small> &#8207;| ge.ma.Lim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling  | <span class="ashebrew"><big>מֵינִיק֛וֹת </big></span><small><small><sup>[[H3243H]]</sup></small></small> &#8207;| mei.ni.Kot <small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and young their  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.nei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֑ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cows  | <span class="ashebrew"><big>פָּר֤וֹת </big></span><small><small><sup>[[H6510]]</sup></small></small> &#8207;| pa.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| forty  | <span class="ashebrew"><big>אַרְבָּעִים֙ </big></span><small><small><sup>[[H0705]]</sup></small></small> &#8207;| 'ar.ba.'Im <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and bulls  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פָרִ֣ים </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָ֔ה </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| female donkeys  | <span class="ashebrew"><big>אֲתֹנֹ֣ת </big></span><small><small><sup>[[H0860]]</sup></small></small> &#8207;| 'a.to.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֔ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and male donkeys  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עְיָרִ֖ם </big></span><small><small><sup>[[H5895]]</sup></small></small> &#8207;| va <small><sup>[[HC]]</sup></small> '.ya.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָֽה </big></span><small><small><sup>[[H6235]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| camels  |**<big>&#8207;[[H1581\|גְּמַלִּ֧ים]]&#8207; </big>**| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling  |**<big>&#8207;[[H3243H\|מֵינִיק֛וֹת]]&#8207; </big>**| mei.ni.Kot<small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and young their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121H\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֑ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cows  |**<big>&#8207;[[H6510\|פָּר֤וֹת]]&#8207; </big>**| pa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  |**<big>&#8207;[[H0705\|אַרְבָּעִים֙]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bulls  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6499\|פָרִ֣ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֔ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| female donkeys  |**<big>&#8207;[[H0860\|אֲתֹנֹ֣ת]]&#8207; </big>**| 'a.to.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֔ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and male donkeys  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5895\|עְיָרִ֖ם]]&#8207; </big>**| va<small><sup>[[HC]]</sup></small> '.ya.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.14|<< Genesis 32:14]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.16|Genesis 32:16 >>]]</td></tr></table>
 
 

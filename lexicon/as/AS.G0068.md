@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀγρός</span></span>, <span class="asgreek">-οῦ, ὁ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">שָׂדֶה</span> <small><sup>[[H7704]]</sup></small>\];</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀγρός</span></span>, <span class="asgreek">-οῦ, ὁ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7704|שָׂדֶה]]</big>**\];</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a field</span>: [[Matt.6.28|Mt 6:28]], al.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">the country</span>: [[Mark.15.21|Mk 15:21]], al.; pl., <span class="asitalic">country places, farms</span>: [[Mark.5.14|Mk 5:14]] [[Mark.6.36|6:36]] [[Mark.6.56|56]], [[Luke.8.34|Lk 8:34]]  [[Luke.9.12|9:12]].</span>

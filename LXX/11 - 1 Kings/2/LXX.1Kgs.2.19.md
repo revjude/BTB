@@ -7,44 +7,44 @@ Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And 
 So Bathsheba went to King Solomon to speak to him for Adonijah. The king stood up to greet her, bowed to her, and sat down on his throne. Then the king had a throne brought for his mother, who sat down at his right hand.<small><sub>**MT:**</sub></small>
 [[1Kgs.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.18|<< 1 Kings 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.20|1 Kings 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Bath-sheba entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Adonijah. | <big><span class="asgreek">Αδωνίου</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">εξανέστη</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did obeisance to | <big><span class="asgreek">προσεκύνησεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his throne. | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was set | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a throne | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king; | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his right. | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Bath-sheba entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντα]]</big>** |
+| to speak | **<big>[[G2980\|λαλήσαι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Adonijah. | **<big>[[H0138\|Αδωνίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G1817\|εξανέστη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G0529\|απάντησιν]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did obeisance to | **<big>[[G4352\|προσεκύνησεν]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his throne. | **<big>[[G2362\|θρόνον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was set | **<big>[[G5087\|ετέθη]]</big>** |
+| a throne | **<big>[[G2362\|θρόνος]]</big>** |
+| \[for\] the | **<big>[[G3588\|τη]]</big>** |
+| mother | **<big>[[G3384\|μητρί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king; | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| his right. | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.18|<< 1 Kings 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.20|1 Kings 2:20 >>]]</td></tr></table>
 
 

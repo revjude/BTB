@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָצַר‎</span></big> **yâtsar** <small>*(yaw-tsar')*</small> ==**be distressed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָצַר‎</span></big>** **yâtsar** <small>*(yaw-tsar')*</small> ==**be distressed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be distressed, be narrow, be straitened (in straits), be vexed.

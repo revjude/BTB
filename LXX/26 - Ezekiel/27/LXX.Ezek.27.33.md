@@ -7,28 +7,28 @@ When thy wares went forth out of the seas, thou filledst many people; thou didst
 When your wares went out to sea, you satisfied many nations. You enriched the kings of the earth with your abundant wealth and merchandise.<small><sub>**MT:**</sub></small>
 [[Ezek.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How much | <big><span class="asgreek">πόσον</span></big> <sup><small><small>[[G4214]]</small></small></sup> <big><span class="asgreek">τινά</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did you find | <big><span class="asgreek">εύρες</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| wage | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea? | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| You filled up | <big><span class="asgreek">ενέπλησας</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your abundance, | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your consolidation | <big><span class="asgreek">συμμίκτου</span></big> <sup><small><small>[[G9267]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you enriched | <big><span class="asgreek">επλούτησας</span></big> <sup><small><small>[[G4148]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| How much | **<big>[[G4214\|πόσον]]</big>** **<big>[[G5100\|τινά]]</big>** |
+| did you find | **<big>[[G2147\|εύρες]]</big>** |
+| wage | **<big>[[G3408\|μισθόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea? | **<big>[[G2281\|θαλάσσης]]</big>** |
+| You filled up | **<big>[[G1705\|ενέπλησας]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your abundance, | **<big>[[G4128\|πλήθους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your consolidation | **<big>[[G9267\|συμμίκτου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you enriched | **<big>[[G4148\|επλούτησας]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \[the\] kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Ezek.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
 

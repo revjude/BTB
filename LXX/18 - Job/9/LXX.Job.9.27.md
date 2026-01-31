@@ -7,16 +7,16 @@ If I say, I will forget my complaint, I will leave off my heaviness, and comfort
 If I were to say, ‘I will forget my complaint and change my expression and smile,’<small><sub>**MT:**</sub></small>
 [[Job.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.26|<< Job 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.28|Job 9:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if also | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I shall forget | <big><span class="asgreek">επιλήσομαι</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| about speaking, | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| I will stoop down | <big><span class="asgreek">συγκύψας</span></big> <sup><small><small>[[G4794]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[my\] countenance | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \[and\] I will moan. | <big><span class="asgreek">στενάξω</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
+| For if also | **<big>[[G1437\|εάν]]</big>** **<big>[[G5037\|τε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| I said, | **<big>[[G2036\|είπω]]</big>** |
+| I shall forget | **<big>[[G1950\|επιλήσομαι]]</big>** |
+| about speaking, | **<big>[[G2980\|λαλών]]</big>** |
+| I will stoop down | **<big>[[G4794\|συγκύψας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[my\] countenance | **<big>[[G4383\|προσώπω]]</big>** |
+| \[and\] I will moan. | **<big>[[G4727\|στενάξω]]</big>** |
 [[Job.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.26|<< Job 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.28|Job 9:28 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And Moses spake unto all the congregation of the children of Israel, saying, Thi
 Moses also told the whole congregation of Israel, “This is what the LORD has commanded:<small><sub>**MT:**</sub></small>
 [[Exod.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.3|<< Exodus 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.5|Exodus 35:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] congregation | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordered, | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">Κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \[the\] congregation | **<big>[[G4864\|συναγωγήν]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| saying | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordered, | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|Κύριος]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Exod.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.3|<< Exodus 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.5|Exodus 35:5 >>]]</td></tr></table>
 
 

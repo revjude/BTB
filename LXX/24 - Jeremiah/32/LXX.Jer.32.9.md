@@ -11,27 +11,27 @@ So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seve
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I acquired | <big><span class="asgreek">εκτησάμην</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| \[from\] Hanameel | <big><span class="asgreek">Αναμεήλ</span></big> <sup><small><small>[[H2606]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of \[the\] brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of my father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[field\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Anathoth. | <big><span class="asgreek">Αναθώθ</span></big> <sup><small><small>[[H6068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I set | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| for him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I acquired | **<big>[[G2932\|εκτησάμην]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| field | **<big>[[G0068\|αγρόν]]</big>** |
+| \[from\] Hanameel | **<big>[[H2606\|Αναμεήλ]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of \[the\] brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of my father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the \[field\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Anathoth. | **<big>[[H6068\|Αναθώθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I set | **<big>[[G2476\|έστησα]]</big>** |
+| for him | **<big>[[G1473\|αυτώ]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| silver | **<big>[[G0694\|αργυρίου]]</big>** |
 [[Jer.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
 
 

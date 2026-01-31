@@ -7,36 +7,36 @@ And all the firstborn males by the number of names, from a month old and upward,
 The total number of the firstborn males a month old or more, listed by name, was 22,273.<small><sub>**MT:**</sub></small>
 [[Num.3.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.42|<< Numbers 3:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.44|Numbers 3:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| males, | <big><span class="asgreek">αρσενικά</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| number, | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| name, | <big><span class="asgreek">ονόματος</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a month | <big><span class="asgreek">μηνιαίου</span></big> <sup><small><small>[[G8317]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| up, | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their numbering -- | <big><span class="asgreek">επισκέψεως</span></big> <sup><small><small>[[G7448]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two hundred. | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγένοντο]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| males, | **<big>[[G6544\|αρσενικά]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| number, | **<big>[[G0706\|αριθμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1537\|εξ]]</big>** |
+| name, | **<big>[[G3686\|ονόματος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a month | **<big>[[G8317\|μηνιαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| up, | **<big>[[G1883\|επάνω]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their numbering -- | **<big>[[G7448\|επισκέψεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two hundred. | **<big>[[G1250\|διακόσιοι]]</big>** |
 [[Num.3.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.42|<< Numbers 3:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.44|Numbers 3:44 >>]]</td></tr></table>
 
 

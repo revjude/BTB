@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּנַעַן‎</span></big> **Kᵉnaʻan** <small>*(ken-ah'-an)*</small> ==**Canaan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּנַע‎</span><sup><small>[[H3665]]</small></sup>; humiliated</small>
+**<big><span class="ashebrew">‎כְּנַעַן‎</span></big>** **Kᵉnaʻan** <small>*(ken-ah'-an)*</small> ==**Canaan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3665|‎כָּנַע‎]]</big>**; humiliated</small>
 
 $\quad$ Canaan, merchant, traffick.
 - § Canaan = *"lowland"*
@@ -13,4 +13,4 @@ n pr loc
 n m
 **3)** merchant, trader
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Χαναάν</span><sup><small>[[G5477]]</small></sup>
+<small>See Greek: </small>**<big>[[G5477|Χαναάν]]</big>**

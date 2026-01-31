@@ -7,23 +7,23 @@ And Joseph commanded his servants the physicians to embalm his father: and the p
 And Joseph directed the physicians in his service to embalm his father Israel. So they embalmed him,<small><sub>**MT:**</sub></small>
 [[Gen.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.1|<< Genesis 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.3|Genesis 50:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joseph assigned | <big><span class="asgreek">προσέταξεν</span></big> <sup><small><small>[[G4367]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| embalmers | <big><span class="asgreek">ενταφιασταίς</span></big> <sup><small><small>[[G7264]]</small></small></sup> |
-| to embalm | <big><span class="asgreek">ενταφιάσαι</span></big> <sup><small><small>[[G1779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father. | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| embalmed | <big><span class="asgreek">ενεταφίασαν</span></big> <sup><small><small>[[G1779]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| embalmers | <big><span class="asgreek">ενταφιασταί</span></big> <sup><small><small>[[G7264]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joseph assigned | **<big>[[G4367\|προσέταξεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| embalmers | **<big>[[G7264\|ενταφιασταίς]]</big>** |
+| to embalm | **<big>[[G1779\|ενταφιάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his father. | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| embalmed | **<big>[[G1779\|ενεταφίασαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| embalmers | **<big>[[G7264\|ενταφιασταί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Gen.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.1|<< Genesis 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.3|Genesis 50:3 >>]]</td></tr></table>
 
 

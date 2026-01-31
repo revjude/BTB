@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎כַּלְנֶה‎</span></big> **Kalneh** <small>*(kal-neh')*</small> ==**Calneh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">כַּלְנֵה</span> **Kalnêh** <small>*(kal-nay')*</small>; also <span class="ashebrew">כַּלְנוֹ</span> **Kalnôw** <small>*(kal-no')*</small>; of foreign derivation</small>
+**<big><span class="ashebrew">‎כַּלְנֶה‎</span></big>** **Kalneh** <small>*(kal-neh')*</small> ==**Calneh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">כַּלְנֵה</span></big>** **Kalnêh** <small>*(kal-nay')*</small>; also **<big><span class="ashebrew">כַּלְנוֹ</span></big>** **Kalnôw** <small>*(kal-no')*</small>; of foreign derivation</small>
 
-$\quad$ Calneh, Calno. Compare <span class="ashebrew">‎כַּנֶּה‎</span><sup><small>[[H3656]]</small></sup>.
+$\quad$ Calneh, Calno. Compare **<big>[[H3656|‎כַּנֶּה‎]]</big>**.
 - § Calneh or Calno = *"fortress of Anu"*
 - ***Calneh*** or ***Calno***, a place in the Assyrian empire
 

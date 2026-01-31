@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֵצֶר‎</span></big> **Yêtser** <small>*(yay-tser)*</small> ==**Jezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יֵצֶר‎</span><sup><small>[[H3336]]</small></sup></small>
+**<big><span class="ashebrew">‎יֵצֶר‎</span></big>** **Yêtser** <small>*(yay-tser)*</small> ==**Jezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3336|‎יֵצֶר‎]]</big>**</small>
 
 $\quad$ Jezer.
 - § Jezer = *"forming"*

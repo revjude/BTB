@@ -7,19 +7,19 @@ For if thou refuse to let [them] go, and wilt hold them still,
 But if you continue to restrain them and refuse to let them go,<small><sub>**MT:**</sub></small>
 [[Exod.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.1|<< Exodus 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.3|Exodus 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| you do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| want | <big><span class="asgreek">βούλη</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to send out | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to have power over | <big><span class="asgreek">εγκρατείς</span></big> <sup><small><small>[[G7027]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For if | **<big>[[G1487\|ει]]</big>** **<big>[[G3303\|μεν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| you do not | **<big>[[G3361\|μη]]</big>** |
+| want | **<big>[[G1014\|βούλη]]</big>** |
+| to send out | **<big>[[G1821\|εξαποστείλαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| to have power over | **<big>[[G7027\|εγκρατείς]]</big>** |
+| them, | **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.1|<< Exodus 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.3|Exodus 9:3 >>]]</td></tr></table>
 
 

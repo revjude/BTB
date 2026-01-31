@@ -11,38 +11,38 @@ But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you
 > $\quad$ referenced by: [[Matt.2.6|Matt 2:6]] ☩ [[John.7.42|John 7:42]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Beth-lehem, | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ephratah, | <big><span class="asgreek">Ευφραθά</span></big> <sup><small><small>[[H0672]]</small></small></sup> |
-| are very few | <big><span class="asgreek">ολιγοστός</span></big> <sup><small><small>[[G8483]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| thousands | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| of Judah; | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his goings forth | <big><span class="asgreek">έξοδοι</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning, | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| Beth-lehem, | **<big>[[G0965\|Βηθλεέμ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| of Ephratah, | **<big>[[H0672\|Ευφραθά]]</big>** |
+| are very few | **<big>[[G8483\|ολιγοστός]]</big>** **<big>[[G1510\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| thousands | **<big>[[G5505\|χιλιάσιν]]</big>** |
+| of Judah; | **<big>[[G2448\|Ιούδα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his goings forth | **<big>[[G1841\|έξοδοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning, | **<big>[[G0746\|αρχής]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| of days | **<big>[[G2250\|ημερών]]</big>** |
+| eon | **<big>[[G0165\|αιώνος]]</big>** |
 [[Mic.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.1|<< Micah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.3|Micah 5:3 >>]]</td></tr></table>
 
 

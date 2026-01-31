@@ -11,28 +11,28 @@ Before them the earth quakes; the heavens tremble. The sun and moon grow dark, a
 > $\quad$ referenced by: [[LXX.Ezek.32.7|Ezek 32:7]] ☩ [[Matt.24.29|Matt 24:29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| his face | <big><span class="asgreek">προσώπου αυτού</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| shall be confounded | <big><span class="asgreek">συγχυθήσεται</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">σεισθήσεται</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| shall darken, | <big><span class="asgreek">συσκοτάσουσι</span></big> <sup><small><small>[[G9355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
-| shall let down | <big><span class="asgreek">δύσουσι</span></big> <sup><small><small>[[G1416]]</small></small></sup> |
-| their brightness. | <big><span class="asgreek">φέγγος</span></big> <sup><small><small>[[G5338]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Before | **<big>[[G4253\|προ]]</big>** |
+| his face | **<big>[[G4383\|προσώπου αυτού]]</big>** |
+| shall be confounded | **<big>[[G4797\|συγχυθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be shaken | **<big>[[G4579\|σεισθήσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| moon | **<big>[[G4582\|σελήνη]]</big>** |
+| shall darken, | **<big>[[G9355\|συσκοτάσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| stars | **<big>[[G0798\|άστρα]]</big>** |
+| shall let down | **<big>[[G1416\|δύσουσι]]</big>** |
+| their brightness. | **<big>[[G5338\|φέγγος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Joel.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.9|<< Joel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.11|Joel 2:11 >>]]</td></tr></table>
 
 

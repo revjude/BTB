@@ -7,17 +7,17 @@ The blueness of a wound cleanseth away evil: so [do] stripes the inward parts of
 Lashes and wounds scour evil, and beatings cleanse the inmost parts.<small><sub>**MT:**</sub></small>
 [[Prov.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Bruises | <big><span class="asgreek">υπώπια</span></big> <sup><small><small>[[G9603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| breaks | <big><span class="asgreek">συντρίμματα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συναντά</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| bad men; | <big><span class="asgreek">κακοίς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and calamities | <big><span class="asgreek">πληγαί</span></big> <sup><small><small>[[G4127]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[shall come\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] storerooms | <big><span class="asgreek">ταμιεία</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| of \[their\] bellies. | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
+| Bruises | **<big>[[G9603\|υπώπια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| breaks | **<big>[[G4938\|συντρίμματα]]</big>** |
+| meet with | **<big>[[G4876\|συναντά]]</big>** |
+| bad men; | **<big>[[G2556\|κακοίς]]</big>** |
+| and calamities | **<big>[[G4127\|πληγαί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[shall come\] to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] storerooms | **<big>[[G5009\|ταμιεία]]</big>** |
+| of \[their\] bellies. | **<big>[[G2836\|κοιλίας]]</big>** |
 [[Prov.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 
 

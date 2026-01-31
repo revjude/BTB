@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎טַף‎</span></big> **ṭaph** <small>*(taf)*</small> ==**child**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎טָפַף‎</span><sup><small>[[H2952]]</small></sup> (perhaps referring to the tripping gait of children)</small>
+**<big><span class="ashebrew">‎טַף‎</span></big>** **ṭaph** <small>*(taf)*</small> ==**child**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2952|‎טָפַף‎]]</big>** (perhaps referring to the tripping gait of children)</small>
 
 $\quad$ (little) children (ones), families.
 - ***a family*** (mostly used collectively in the singular)
 
 **1)** children, little children, little ones
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔκγονον</span><sup><small>[[G1549]]</small></sup> · <span class="asgreek">λαός</span><sup><small>[[G2992]]</small></sup> · <span class="asgreek">νήπιος</span><sup><small>[[G3516]]</small></sup> · <span class="asgreek">ὄχλος</span><sup><small>[[G3793]]</small></sup> · <span class="asgreek">παιδίον</span><sup><small>[[G3813]]</small></sup> · <span class="asgreek">συγγένεια</span><sup><small>[[G4772]]</small></sup> · <span class="asgreek">σῶμα</span><sup><small>[[G4983]]</small></sup> · <span class="asgreek">τέκνον</span><sup><small>[[G5043]]</small></sup>
+<small>See Greek: </small>**<big>[[G1549|ἔκγονον]]</big>** · **<big>[[G2992|λαός]]</big>** · **<big>[[G3516|νήπιος]]</big>** · **<big>[[G3793|ὄχλος]]</big>** · **<big>[[G3813|παιδίον]]</big>** · **<big>[[G4772|συγγένεια]]</big>** · **<big>[[G4983|σῶμα]]</big>** · **<big>[[G5043|τέκνον]]</big>**

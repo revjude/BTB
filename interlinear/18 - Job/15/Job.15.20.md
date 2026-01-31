@@ -6,17 +6,17 @@ A wicked man writhes in pain all his days; only a few years are reserved for the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.19|<< Job 15:19]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.21|Job 15:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wicked [person]  | <span class="ashebrew"><big>רָ֭שָׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Ra.sho' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] writhing in pain  | <span class="ashebrew"><big>מִתְחוֹלֵ֑ל </big></span><small><small><sup>[[H2342I]]</sup></small></small> &#8207;| mit.cho.Lel <small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] number of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִסְפַּ֥ר </big></span><small><small><sup>[[H4557]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mis.Par <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁ֝נִ֗ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| Sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] they have been stored up  | <span class="ashebrew"><big>נִצְפְּנ֥וּ </big></span><small><small><sup>[[H6845]]</sup></small></small> &#8207;| nitz.pe.Nu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> ruthless [person]  | <span class="ashebrew"><big>לֶ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עָרִֽיץ </big></span><small><small><sup>[[H6184]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> 'a.Ritz <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֣י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wicked [person]  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] writhing in pain  |**<big>&#8207;[[H2342I\|מִתְחוֹלֵ֑ל]]&#8207; </big>**| mit.cho.Lel<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] number of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4557\|מִסְפַּ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁ֝נִ֗ים]]&#8207; </big>**| Sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] they have been stored up  |**<big>&#8207;[[H6845\|נִצְפְּנ֥וּ]]&#8207; </big>**| nitz.pe.Nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> ruthless [person]  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H6184\|עָרִֽיץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> 'a.Ritz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.19|<< Job 15:19]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.21|Job 15:21 >>]]</td></tr></table>
 
 

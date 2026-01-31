@@ -7,30 +7,30 @@ For thus saith the LORD, the God of Israel, concerning the houses of this city, 
 For this is what the LORD, the God of Israel, says about the houses of this city and the palaces of the kings of Judah that have been torn down for defense against the siege ramps and the sword:<small><sub>**MT:**</sub></small>
 [[Jer.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.3|<< Jeremiah 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.5|Jeremiah 33:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being demolished | <big><span class="asgreek">καθηρημένων</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a siege mound | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| battlements, | <big><span class="asgreek">προμαχώνας</span></big> <sup><small><small>[[G8901]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|ταύτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκων]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| being demolished | **<big>[[G2507\|καθηρημένων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a siege mound | **<big>[[G5482\|χάρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| battlements, | **<big>[[G8901\|προμαχώνας]]</big>** |
 [[Jer.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.3|<< Jeremiah 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.5|Jeremiah 33:5 >>]]</td></tr></table>
 
 

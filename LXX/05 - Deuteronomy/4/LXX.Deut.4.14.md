@@ -7,31 +7,31 @@ And the LORD commanded me at that time to teach you statutes and judgments, that
 At that time the LORD commanded me to teach you the statutes and ordinances you are to follow in the land that you are crossing the Jordan to possess.<small><sub>**MT:**</sub></small>
 [[Deut.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.13|<< Deuteronomy 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.15|Deuteronomy 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| to teach | <big><span class="asgreek">διδάξαι</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ordinances | <big><span class="asgreek">δικαιώματα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judgments, | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| for you to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισπορεύεσθε</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| to teach | **<big>[[G1321\|διδάξαι]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| ordinances | **<big>[[G1345\|δικαιώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judgments, | **<big>[[G2920\|κρίσεις]]</big>** |
+| for you to do | **<big>[[G4160\|ποιείν]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| enter | **<big>[[G1531\|εισπορεύεσθε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Deut.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.13|<< Deuteronomy 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.15|Deuteronomy 4:15 >>]]</td></tr></table>
 
 

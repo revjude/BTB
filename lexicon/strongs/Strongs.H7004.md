@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְטֹרֶת‎</span></big> **qᵉṭôreth** <small>*(ket-o'-reth)*</small> ==**incense**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָטַר‎</span><sup><small>[[H6999]]</small></sup></small>
+**<big><span class="ashebrew">‎קְטֹרֶת‎</span></big>** **qᵉṭôreth** <small>*(ket-o'-reth)*</small> ==**incense**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6999|‎קָטַר‎]]</big>**</small>
 
 $\quad$ (sweet) incense, perfume.
 - ***a fumigation***
@@ -9,4 +9,4 @@ $\quad$ **1a)** sweet smoke of sacrifice
 $\quad$ **1b)** incense
 $\quad$ **1c)** perfume
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θυμίαμα</span><sup><small>[[G2368]]</small></sup>
+<small>See Greek: </small>**<big>[[G2368|θυμίαμα]]</big>**

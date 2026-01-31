@@ -7,29 +7,29 @@ And Jephthah sent messengers unto the king of the children of Ammon, saying, Wha
 Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?”<small><sub>**MT:**</sub></small>
 [[Judg.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.11|<< Judges 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.13|Judges 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jephthah sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is it\] to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you come | <big><span class="asgreek">ήκεις</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to wage war | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land? | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jephthah sent | **<big>[[G0649\|απέστειλεν]]</big>** **<big>[[G2422\|Ιεφθάε]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[is it\] to me | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you come | **<big>[[G2240\|ήκεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to wage war | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my land? | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Judg.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.11|<< Judges 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.13|Judges 11:13 >>]]</td></tr></table>
 
 

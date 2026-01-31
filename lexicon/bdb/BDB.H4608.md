@@ -1,4 +1,4 @@
-<small>Also see: [[H0131]] | [[H1032]] | [[H1483]] | [[H2776]] | [[H3872]] | [[H6731]]</small>
+<small>Also see: **<big>[[H0131|אֲדֻמִּים]]</big>** | **<big>[[H1032|בֵּית חוֹרוֹן]]</big>** | **<big>[[H1483|גּוּר]]</big>** | **<big>[[H2776|חֶרֶס]]</big>** | **<big>[[H3872|לוּחִית]]</big>** | **<big>[[H6731|צִיץ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַעֲלֶה‎</span><sub>19</sub> **noun masculine**<sup>[[Isa.15.5|Isa 15:5]]</sup> ==ascent==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Neh.12.37|Neh 12:37]] construct <span class="bdbLangHebrew">‎מַעֲלֵה‎</span> [[Josh.10.10|Josh 10:10]] + 14 t.; <span class="bdbLangHebrew">‎מַעֲלָו֯‎</span> [[Ezek.40.31|Ezek 40:31]]; [[Ezek.40.34|Ezek 40:34]]; [[Ezek.40.37|Ezek 40:37]] 
 

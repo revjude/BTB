@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Adino</span> the Eznite is mentioned in some translations of [[2Sam.23.8|2 Samuel 23:8]] as one of David's mighty men, but the Hebrew text is unclear, and it may be a description of Josheb-Basshebeth's actions rather than a separate person.
 - A man living at the time of United Monarchy, only mentioned at [[2Sam.23.8|2Sa.23.8]]; 
-- only referred to as Adino<[[H5722]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ינו</span>ֹ\).
+- only referred to as Adino **<big>[[H5722|עֲדִינוֹ]]</big>**.
 
 The name Adino appears in some translations of [[2Sam.23.8|2 Samuel 23:8]], which is part of a list of David's mighty men. However, the Hebrew text is ambiguous, and there is uncertainty about whether Adino is a separate individual or a description of the actions of Josheb-Basshebeth, who is mentioned in the same verse. 
 
@@ -16,5 +16,5 @@ Due to the ambiguity in the Hebrew text, it is difficult to determine conclusive
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| wielded (KJV= Adino; NIV= raised) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ינו</span>ֹ](H5722) <small>*Hebrew*</small> | 1x | [2Sa.23.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="wielded"\*\|reference=2Sa.23.8) |
-All Strong's for **Adino or "wielded"**: \[[[H5722]]\]
+| wielded (KJV= Adino; NIV= raised) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ינו</span>ֹ](H5722) | 1x | [2Sa.23.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="wielded"\*\|reference=2Sa.23.8) |
+All entries for **Adino or "wielded"**:  **<big>[[H5722|עֲדִינוֹ]]</big>**

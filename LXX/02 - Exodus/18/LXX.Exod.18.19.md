@@ -7,33 +7,33 @@ Hearken now unto my voice, I will give thee counsel, and God shall be with thee:
 Now listen to me; I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their causes to Him.<small><sub>**MT:**</sub></small>
 [[Exod.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.18|<< Exodus 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.20|Exodus 18:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσόν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I \[shall\] advise | <big><span class="asgreek">συμβουλεύσω</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You become | <big><span class="asgreek">γίνου</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God! | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ανοίσεις</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| hear | **<big>[[G0191\|άκουσόν]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I \[shall\] advise | **<big>[[G4823\|συμβουλεύσω]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| God will be | **<big>[[G1510\|έσται]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| You become | **<big>[[G1096\|γίνου]]</big>** **<big>[[G1473\|συ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| before | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God! | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall offer | **<big>[[G0399\|ανοίσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God. | **<big>[[G2316\|θεόν]]</big>** |
 [[Exod.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.18|<< Exodus 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.20|Exodus 18:20 >>]]</td></tr></table>
 
 

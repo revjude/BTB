@@ -7,21 +7,21 @@ Take an harp, go about the city, thou harlot that hast been forgotten; make swee
 “Take up your harp, stroll through the city, O forgotten harlot. Make sweet melody, sing many a song, so you will be remembered.”<small><sub>**MT:**</sub></small>
 [[Isa.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.15|<< Isaiah 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.17|Isaiah 23:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a harp! | <big><span class="asgreek">κιθάραν</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
-| Stray! | <big><span class="asgreek">ρέμβευσον</span></big> <sup><small><small>[[G9020]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| O harlot | <big><span class="asgreek">πόρνη</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| being forgotten. | <big><span class="asgreek">επιλελησμένη</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| well | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
-| Play the harp | <big><span class="asgreek">κιθάρισον</span></big> <sup><small><small>[[G2789]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| Sing | <big><span class="asgreek">άσον</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| \[the\] memory of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">μνεία</span></big> <sup><small><small>[[G3417]]</small></small></sup> |
-| takes place. | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| a harp! | **<big>[[G2788\|κιθάραν]]</big>** |
+| Stray! | **<big>[[G9020\|ρέμβευσον]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| O harlot | **<big>[[G4204\|πόρνη]]</big>** |
+| being forgotten. | **<big>[[G1950\|επιλελησμένη]]</big>** |
+| well | **<big>[[G2573\|καλώς]]</big>** |
+| Play the harp | **<big>[[G2789\|κιθάρισον]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| Sing | **<big>[[G0103\|άσον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| \[the\] memory of you | **<big>[[G1473\|σου]]</big>** **<big>[[G3417\|μνεία]]</big>** |
+| takes place. | **<big>[[G1096\|γένηται]]</big>** |
 [[Isa.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.15|<< Isaiah 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.17|Isaiah 23:17 >>]]</td></tr></table>
 
 

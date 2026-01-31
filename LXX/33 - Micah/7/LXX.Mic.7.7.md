@@ -7,23 +7,23 @@ Therefore I will look unto the LORD; I will wait for the God of my salvation: my
 But as for me, I will look to the LORD; I will wait for the God of my salvation. My God will hear me.<small><sub>**MT:**</sub></small>
 [[Mic.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.6|<< Micah 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.8|Micah 7:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will look | <big><span class="asgreek">επιβλέψομαι</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| I will wait | <big><span class="asgreek">υπομενώ</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverer. | <big><span class="asgreek">σωτήρί</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will listen to | <big><span class="asgreek">εισακούσεταί</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upon | **<big>[[G2089\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will look | **<big>[[G1914\|επιβλέψομαι]]</big>** |
+| I will wait | **<big>[[G5278\|υπομενώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my deliverer. | **<big>[[G4990\|σωτήρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will listen to | **<big>[[G1522\|εισακούσεταί]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Mic.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.6|<< Micah 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.8|Micah 7:8 >>]]</td></tr></table>
 
 

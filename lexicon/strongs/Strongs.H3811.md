@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָאָה‎</span></big> **lâʼâh** <small>*(law-aw')*</small> ==**be weary**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָאָה‎</span></big>** **lâʼâh** <small>*(law-aw')*</small> ==**be weary**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ faint, grieve, lothe, (be, make) weary (selves).
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal) to be weary, be impatient
 $\quad$ **1b)** (Niphal) to be tired of something, weary oneself
 $\quad$ **1c)** (Hiphil) to weary, make weary, exhaust
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγών</span><sup><small>[[G0073]]</small></sup> · <span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">δύναμαι</span><sup><small>[[G1410]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ἐπέχω</span><sup><small>[[G1907]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">λυπέω</span><sup><small>[[G3076]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup> · <span class="asgreek">παρενοχλέω</span><sup><small>[[G3926]]</small></sup> · <span class="asgreek">παρέχω</span><sup><small>[[G3930]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup>
+<small>See Greek: </small>**<big>[[G0073|ἀγών]]</big>** · **<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G1410|δύναμαι]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G1907|ἐπέχω]]</big>** · **<big>[[G2872|κοπιάω]]</big>** · **<big>[[G3076|λυπέω]]</big>** · **<big>[[G3886|παραλύω]]</big>** · **<big>[[G3926|παρενοχλέω]]</big>** · **<big>[[G3930|παρέχω]]</big>** · **<big>[[G3935|παρίημι]]</big>**

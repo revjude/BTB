@@ -7,29 +7,29 @@ And at the east side four thousand and five hundred: and three gates; and one ga
 On the east side, which will be 4,500 cubits long, there will be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.<small><sub>**MT:**</sub></small>
 [[Ezek.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.31|<< Ezekiel 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.33|Ezekiel 48:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| four thousand | <big><span class="asgreek">τετρακισχίλιοι</span></big> <sup><small><small>[[G5070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five hundred; | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Joseph -- | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| one, | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Benjamin -- | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| one, | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Dan -- | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| one. | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| four thousand | **<big>[[G5070\|τετρακισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five hundred; | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gates | **<big>[[G4439\|πύλαι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Joseph -- | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| one, | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Benjamin -- | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| one, | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Dan -- | **<big>[[H1835\|Δαν]]</big>** |
+| one. | **<big>[[G1520\|μία]]</big>** |
 [[Ezek.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.31|<< Ezekiel 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.33|Ezekiel 48:33 >>]]</td></tr></table>
 
 

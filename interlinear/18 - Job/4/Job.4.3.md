@@ -6,14 +6,14 @@ Surely you have instructed many, and have strengthened their feeble hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.2|<< Job 4:2]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.4|Job 4:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִ֭נֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| Hi.neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have instructed  | <span class="ashebrew"><big>יִסַּ֣רְתָּ </big></span><small><small><sup>[[H3256]]</sup></small></small> &#8207;| yi.Sar.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many [people]  | <span class="ashebrew"><big>רַבִּ֑ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hands  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָדַ֖יִם </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Da.yim <small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| slack  | <span class="ashebrew"><big>רָפ֣וֹת </big></span><small><small><sup>[[H7504]]</sup></small></small> &#8207;| ra.Fot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you strengthened  | <span class="ashebrew"><big>תְּחַזֵּֽק </big></span><small><small><sup>[[H2388G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.cha.Zek <small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִ֭נֵּה]]&#8207; </big>**| Hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have instructed  |**<big>&#8207;[[H3256\|יִסַּ֣רְתָּ]]&#8207; </big>**| yi.Sar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many [people]  |**<big>&#8207;[[H7227A\|רַבִּ֑ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hands  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3027G\|יָדַ֖יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| slack  |**<big>&#8207;[[H7504\|רָפ֣וֹת]]&#8207; </big>**| ra.Fot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you strengthened  |**<big>&#8207;[[H2388G\|תְּחַזֵּֽק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.cha.Zek<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.2|<< Job 4:2]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.4|Job 4:4 >>]]</td></tr></table>
 
 

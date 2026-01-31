@@ -10,27 +10,27 @@ And it was [so], when they came into the midst of the city, that Ishmael the son
 And when they came into the city, Ishmael son of Nethaniah and the men with him slaughtered them and threw them into a cistern.<small><sub>**MT:**</sub></small>
 [[Jer.41.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.6|<< Jeremiah 41:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.8|Jeremiah 41:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened in | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| their entering | <big><span class="asgreek">εισελθόντων</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \[that\] he slew | <big><span class="asgreek">έσφαξεν</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well -- | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened in | **<big>[[G1096\|εγένετο]]</big>** |
+| their entering | **<big>[[G1525\|εισελθόντων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| \[that\] he slew | **<big>[[G4969\|έσφαξεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| well -- | **<big>[[G5421\|φρέαρ]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men, | **<big>[[G0435\|άνδρες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.41.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.6|<< Jeremiah 41:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.8|Jeremiah 41:8 >>]]</td></tr></table>
 
 

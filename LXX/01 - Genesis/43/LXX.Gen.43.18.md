@@ -7,45 +7,45 @@ And the men were afraid, because they were brought into Joseph’s house; and th
 But the brothers were frightened that they had been taken to Joseph’s house. “We have been brought here because of the silver that was returned in our bags the first time,” they said. “They intend to overpower us and take us as slaves, along with our donkeys.”<small><sub>**MT:**</sub></small>
 [[Gen.43.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.17|<< Genesis 43:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.19|Genesis 43:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδόντες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were brought | <big><span class="asgreek">εισήχθησαν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| returned | <big><span class="asgreek">αποστραφέν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our bags | <big><span class="asgreek">μαρσίπποις</span></big> <sup><small><small>[[G8257]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beginning | <big><span class="asgreek">αρχήν</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are brought in -- | <big><span class="asgreek">εισαγόμεθα</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to extort | <big><span class="asgreek">συκοφαντήσαι</span></big> <sup><small><small>[[G4811]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to place \[charge\] upon | <big><span class="asgreek">επιθέσθαι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| servants, | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our donkeys. | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδόντες]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they were brought | **<big>[[G1521\|εισήχθησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| said, | **<big>[[G2036\|είπαν]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| returned | **<big>[[G0654\|αποστραφέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| our bags | **<big>[[G8257\|μαρσίπποις]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| beginning | **<big>[[G0746\|αρχήν]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| are brought in -- | **<big>[[G1521\|εισαγόμεθα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to extort | **<big>[[G4811\|συκοφαντήσαι]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to place \[charge\] upon | **<big>[[G2007\|επιθέσθαι]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| servants, | **<big>[[G3816\|παίδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our donkeys. | **<big>[[G3688\|όνους]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Gen.43.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.17|<< Genesis 43:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.19|Genesis 43:19 >>]]</td></tr></table>
 
 

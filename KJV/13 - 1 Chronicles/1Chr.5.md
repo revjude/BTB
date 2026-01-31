@@ -55,13 +55,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.5.25|25]]**<span class="
 
 [^17]: [[1Chr.9|1Chr 9:16]]
 
-[^18]: i.e. to cover; surmount; top; roof; extension; mountain, (<span class="ashebrew">‎גּוֹג‎</span><sup><small>[[H1463]]</small></sup>), [[1Chr.5|1Chr 5:4]]; [[Ezek.38|Ezek 38:2-3]], [[Ezek.38|Ezek 38:14]], [[Ezek.38|Ezek 38:16]], [[Ezek.38|Ezek 38:18]], [[Ezek.39|Ezek 39:1]], [[Ezek.39|Ezek 39:11]], [[Ezek.39|Ezek 39:15]]
+[^18]: i.e. to cover; surmount; top; roof; extension; mountain, ( [[H1463|‎גּוֹג‎]] ), [[1Chr.5|1Chr 5:4]]; [[Ezek.38|Ezek 38:2-3]], [[Ezek.38|Ezek 38:14]], [[Ezek.38|Ezek 38:16]], [[Ezek.38|Ezek 38:18]], [[Ezek.39|Ezek 39:1]], [[Ezek.39|Ezek 39:11]], [[Ezek.39|Ezek 39:15]]
 
 [^19]: [[2Sam.16|2Sam 16:5]]
 
 [^20]:  Gog and Magog, [[Rev.20|Rev 20:8]], belong to a different time to those spoken of in Ezekiel.
 
-[^21]: i.e. a well, (<span class="ashebrew">‎בְּאֵרָה‎</span><sup><small>[[H0880]]</small></sup>), After their separation from the house of David, the ten tribes continued to have princes of the tribes, till the time that Tiglath–pileser carried them captive; at which time Beerah, who according to the Targum was the same as Baruch, was their prince.
+[^21]: i.e. a well, ( [[H0880|‎בְּאֵרָה‎]] ), After their separation from the house of David, the ten tribes continued to have princes of the tribes, till the time that Tiglath–pileser carried them captive; at which time Beerah, who according to the Targum was the same as Baruch, was their prince.
 
 [^22]: [[1Chr.5|1Chr 5:26]]; [[2Kgs.15|2Kgs 15:29]], [[2Kgs.16|2Kgs 16:7]], Tiglath–pileser
 
@@ -71,7 +71,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.5.25|25]]**<span class="
 
 [^25]: [[Gen.14|Gen 14:2]]
 
-[^26]: i.e. the strong one, (<span class="ashebrew">‎עָזָז‎</span><sup><small>[[H5811]]</small></sup>), Shema. [[Josh.15|Josh 15:26]], or, Shemaiah, [[1Chr.5|1Chr 5:4]]
+[^26]: i.e. the strong one, ( [[H5811|‎עָזָז‎]] ), Shema. [[Josh.15|Josh 15:26]], or, Shemaiah, [[1Chr.5|1Chr 5:4]]
 
 [^27]: [[Num.32|Num 32:34]]; [[Deut.2|Deut 2:36]]; [[Josh.13|Josh 13:15-21]]; [[Isa.17|Isa 17:2]]
 
@@ -87,7 +87,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.5.25|25]]**<span class="
 
 [^33]: [[1Chr.5|1Chr 5:16]]; [[1Chr.26|1Chr 26:31]]; [[Gen.31|Gen 31:23]]; [[Josh.22|Josh 22:9]]; [[1Kgs.17|1Kgs 17:1]]
 
-[^34]: i.e. fugitives, [[1Chr.5|1Chr 5:19-20]]; [[Gen.21|Gen 21:9]], [[Gen.25|Gen 25:12]]; [[2Sam.24|2Sam 24:6]]; [[Ps.83|Ps 83:6]], Hagarenes, (<span class="ashebrew">‎הַגְרִי‎</span><sup><small>[[H1905]]</small></sup>), [[1Chr.5|1Chr 5:10]], [[1Chr.5|1Chr 5:19-20]]; [[Ps.83|Ps 83:6]], Also, [[1Chr.11|1Chr 11:38]], Haggeri, [[1Chr.27|1Chr 27:31]]
+[^34]: i.e. fugitives, [[1Chr.5|1Chr 5:19-20]]; [[Gen.21|Gen 21:9]], [[Gen.25|Gen 25:12]]; [[2Sam.24|2Sam 24:6]]; [[Ps.83|Ps 83:6]], Hagarenes, ( [[H1905|‎הַגְרִי‎]] ), [[1Chr.5|1Chr 5:10]], [[1Chr.5|1Chr 5:19-20]]; [[Ps.83|Ps 83:6]], Also, [[1Chr.11|1Chr 11:38]], Haggeri, [[1Chr.27|1Chr 27:31]]
 
 [^35]: etc. Heb. upon all the face of the East
 
@@ -101,9 +101,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.5.25|25]]**<span class="
 
 [^40]: [[1Sam.8|1Sam 8:2]]
 
-[^41]: i.e. bald, (<span class="ashebrew">‎שָׁפָם‎</span><sup><small>[[H8223]]</small></sup>)
+[^41]: i.e. bald, ( [[H8223|‎שָׁפָם‎]] )
 
-[^42]: i.e. responsive, (<span class="ashebrew">‎יַעֲנַי‎</span><sup><small>[[H3285]]</small></sup>), Shaphat. [[1Chr.3|1Chr 3:22]]
+[^42]: i.e. responsive, ( [[H3285|‎יַעֲנַי‎]] ), Shaphat. [[1Chr.3|1Chr 3:22]]
 
 [^43]: [[1Chr.5|1Chr 5:11]]; [[Num.21|Num 21:33]]
 
@@ -113,31 +113,31 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.5.25|25]]**<span class="
 
 [^46]: [[1Kgs.10|1Kgs 10:1]]
 
-[^47]: i.e. rainy, (<span class="ashebrew">‎יוֹרַי‎</span><sup><small>[[H3140]]</small></sup>)
+[^47]: i.e. rainy, ( [[H3140|‎יוֹרַי‎]] )
 
-[^48]: i.e. afflicted, (<span class="ashebrew">‎יַעְכָּן‎</span><sup><small>[[H3275]]</small></sup>)
+[^48]: i.e. afflicted, ( [[H3275|‎יַעְכָּן‎]] )
 
-[^49]: i.e. trembling; smelling, (<span class="ashebrew">‎זִיעַ‎</span><sup><small>[[H2127]]</small></sup>), Heber. [[Gen.46|Gen 46:17]]
+[^49]: i.e. trembling; smelling, ( [[H2127|‎זִיעַ‎]] ), Heber. [[Gen.46|Gen 46:17]]
 
 [^50]: This verse is wanting both in the Syriac and Arabic.
 
 [^51]: [[Num.3|Num 3:35]]
 
-[^52]: i.e. nobleman, (<span class="ashebrew">‎חוּרִי‎</span><sup><small>[[H2359]]</small></sup>)
+[^52]: i.e. nobleman, ( [[H2359|‎חוּרִי‎]] )
 
-[^53]: i.e. making a sweet odor, (<span class="ashebrew">‎יָרוֹחַ‎</span><sup><small>[[H3386]]</small></sup>). Gilead. [[Gen.31|Gen 31:23]]
+[^53]: i.e. making a sweet odor, ( [[H3386|‎יָרוֹחַ‎]] ). Gilead. [[Gen.31|Gen 31:23]]
 
 [^54]: [[Dan.12|Dan 12:1]]
 
-[^55]: i.e. aged, (<span class="ashebrew">‎יְשִׁישָׁי‎</span><sup><small>[[H3454]]</small></sup>)
+[^55]: i.e. aged, ( [[H3454|‎יְשִׁישָׁי‎]] )
 
-[^56]: i.e. together, (<span class="ashebrew">‎יַחְדוֹ‎</span><sup><small>[[H3163]]</small></sup>)
+[^56]: i.e. together, ( [[H3163|‎יַחְדוֹ‎]] )
 
 [^57]: [[Gen.22|Gen 22:21]]
 
-[^58]: i.e. brotherly, (<span class="ashebrew">‎אֲחִי‎</span><sup><small>[[H0277]]</small></sup>), [[1Chr.5|1Chr 5:15]], [[1Chr.7|1Chr 7:34]]
+[^58]: i.e. brotherly, ( [[H0277|‎אֲחִי‎]] ), [[1Chr.5|1Chr 5:15]], [[1Chr.7|1Chr 7:34]]
 
-[^59]: i.e. servant of God, (<span class="ashebrew">‎עַבְדִיאֵל‎</span><sup><small>[[H5661]]</small></sup>), Guni. [[Gen.46|Gen 46:24]]
+[^59]: i.e. servant of God, ( [[H5661|‎עַבְדִיאֵל‎]] ), Guni. [[Gen.46|Gen 46:24]]
 
 [^60]: [[Gen.31|Gen 31:23]]
 

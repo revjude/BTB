@@ -7,42 +7,42 @@ Now to the [one] half of the tribe of Manasseh Moses had given [possession] in B
 (To the half-tribe of Manasseh Moses had given land in Bashan, and to the other half Joshua gave land on the west side of the Jordan among their brothers.) When Joshua sent them to their homes he blessed them,<small><sub>**MT:**</sub></small>
 [[Josh.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| halves | <big><span class="asgreek">ημίσεσι</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| Moses gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \[a portion\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bashan \[area\]; | <big><span class="asgreek">Βασανίτιδι</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| halves | <big><span class="asgreek">ημίσεσιν</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| Joshua gave \[a portion\] | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| towards | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] west. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| sent | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their houses, | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| halves | **<big>[[G2255\|ημίσεσι]]</big>** |
+| of \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| Moses gave | **<big>[[G1325\|έδωκε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| \[a portion\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| Bashan \[area\]; | **<big>[[H1316\|Βασανίτιδι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| halves | **<big>[[G2255\|ημίσεσιν]]</big>** |
+| Joshua gave \[a portion\] | **<big>[[G1325\|έδωκεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his brethren | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| towards | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] west. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| sent | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their houses, | **<big>[[G3624\|οίκους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Josh.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
 

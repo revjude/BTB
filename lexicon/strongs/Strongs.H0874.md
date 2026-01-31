@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּאַר‎</span></big> **bâʼar** <small>*(baw-ar')*</small> ==**to make plain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּאַר‎</span></big>** **bâʼar** <small>*(baw-ar')*</small> ==**to make plain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ declare, (make) plain(-ly).

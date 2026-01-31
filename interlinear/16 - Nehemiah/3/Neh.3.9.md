@@ -6,18 +6,18 @@ Next to them, Rephaiah son of Hur, ruler of a half-district of Jerusalem, made r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.8|<< Nehemiah 3:8]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.10|Nehemiah 3:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand their  | <span class="ashebrew"><big>יָדָ֤ </big></span><small><small><sup>[[H3027I]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ya.Da <small><sup>[[HNcbsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he repaired  | <span class="ashebrew"><big>הֶחֱזִיק֙ </big></span><small><small><sup>[[H2388G]]</sup></small></small> &#8207;| he.che.Zik <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rephaiah  | <span class="ashebrew"><big>רְפָיָ֣ה </big></span><small><small><sup>[[H7509J]]</sup></small></small> &#8207;| re.fa.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hur  | <span class="ashebrew"><big>ח֔וּר </big></span><small><small><sup>[[H2354I]]</sup></small></small> &#8207;| Chur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] official of  | <span class="ashebrew"><big>שַׂ֕ר </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> half of  | <span class="ashebrew"><big>חֲצִ֖י </big></span><small><small><sup>[[H2677]]</sup></small></small> &#8207;| cha.Tzi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] district of  | <span class="ashebrew"><big>פֶּ֥לֶךְ </big></span><small><small><sup>[[H6418]]</sup></small></small> &#8207;| Pe.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand their  |**<big>&#8207;[[H3027I\|יָדָ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִיק֙]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rephaiah  |**<big>&#8207;[[H7509J\|רְפָיָ֣ה]]&#8207; </big>**| re.fa.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hur  |**<big>&#8207;[[H2354I\|ח֔וּר]]&#8207; </big>**| Chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] official of  |**<big>&#8207;[[H8269\|שַׂ֕ר]]&#8207; </big>**| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> half of  |**<big>&#8207;[[H2677\|חֲצִ֖י]]&#8207; </big>**| cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] district of  |**<big>&#8207;[[H6418\|פֶּ֥לֶךְ]]&#8207; </big>**| Pe.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.8|<< Nehemiah 3:8]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.10|Nehemiah 3:10 >>]]</td></tr></table>
 
 

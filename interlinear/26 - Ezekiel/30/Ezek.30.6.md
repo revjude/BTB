@@ -6,25 +6,25 @@ For this is what the LORD says: The allies of Egypt will fall, and her proud str
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.5|<< Ezekiel 30:5]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.7|Ezekiel 30:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֚ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will fall  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָֽפְלוּ֙ </big></span><small><small><sup>[[H5307J]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.fe.Lu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] supporters of  | <span class="ashebrew"><big>סֹמְכֵ֣י </big></span><small><small><sup>[[H5564]]</sup></small></small> &#8207;| so.me.Khei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will come down  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָרַ֖ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.Rad <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pride of  | <span class="ashebrew"><big>גְּא֣וֹן </big></span><small><small><sup>[[H1347]]</sup></small></small> &#8207;| ge.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength its  | <span class="ashebrew"><big>עֻזָּ֑ </big></span><small><small><sup>[[H5797]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| 'u.Za <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Migdol  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מִּגְדֹּ֣ל </big></span><small><small><sup>[[H4024B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> mig.Dol <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Syene  | <span class="ashebrew"><big>סְוֵנֵ֗ה </big></span><small><small><sup>[[H5482]]</sup></small></small> &#8207;| se.ve.Neh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by the sword  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֶ֙רֶב֙ </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will fall  | <span class="ashebrew"><big>יִפְּלוּ </big></span><small><small><sup>[[H5307J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yi.pe.lu- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in it  | <span class="ashebrew"><big>בָ֔ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| Va <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם </big></span><small><small><sup>[[H5002]]</sup></small></small> &#8207;| ne.'Um <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִֽה </big></span><small><small><sup>[[H3069]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will fall  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5307J\|נָֽפְלוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.fe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] supporters of  |**<big>&#8207;[[H5564\|סֹמְכֵ֣י]]&#8207; </big>**| so.me.Khei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will come down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַ֖ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Rad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pride of  |**<big>&#8207;[[H1347\|גְּא֣וֹן]]&#8207; </big>**| ge.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength its  |**<big>&#8207;[[H5797\|עֻזָּ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| 'u.Za<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Migdol  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4024B\|מִּגְדֹּ֣ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mig.Dol<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Syene  |**<big>&#8207;[[H5482\|סְוֵנֵ֗ה]]&#8207; </big>**| se.ve.Neh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2719\|חֶ֙רֶב֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will fall  |**<big>&#8207;[[H5307J\|יִפְּלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.pe.lu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  |**<big>&#8207;[[H9003\|בָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.5|<< Ezekiel 30:5]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.7|Ezekiel 30:7 >>]]</td></tr></table>
 
 

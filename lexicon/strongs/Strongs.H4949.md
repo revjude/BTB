@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁקֶלֶת‎</span></big> **mishqeleth** <small>*(mish-keh'-leth)*</small> ==**level**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מִשְׁקֹלֶת</span> **mishqôleth** <small>*(mish-ko'-leth)*</small>; feminine of <span class="ashebrew">‎מִשְׁקָל‎</span><sup><small>[[H4948]]</small></sup> or <span class="ashebrew">‎מַשְׁקוֹף‎</span><sup><small>[[H4947]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁקֶלֶת‎</span></big>** **mishqeleth** <small>*(mish-keh'-leth)*</small> ==**level**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִשְׁקֹלֶת</span></big>** **mishqôleth** <small>*(mish-ko'-leth)*</small>; feminine of **<big>[[H4948|‎מִשְׁקָל‎]]</big>** or **<big>[[H4947|‎מַשְׁקוֹף‎]]</big>**</small>
 
 $\quad$ plummet.
 - ***a weight***, i.e. ***a plummet*** (with line attached)

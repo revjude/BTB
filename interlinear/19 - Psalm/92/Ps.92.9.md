@@ -6,20 +6,20 @@ For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.8|<< Psalms 92:8]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.10|Psalms 92:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֪ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies your  | <span class="ashebrew"><big>אֹיְבֶ֡י </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'o.ye.Vei. <small><sup>[[HVqrmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְֽהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies your  | <span class="ashebrew"><big>אֹיְבֶ֣י </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'o.ye.Vei. <small><sup>[[HVqrmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will perish  | <span class="ashebrew"><big>יֹאבֵ֑דוּ </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| yo.Ve.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be scattered  | <span class="ashebrew"><big>יִ֝תְפָּרְד֗וּ </big></span><small><small><sup>[[H6504]]</sup></small></small> &#8207;| yit.pa.re.Du <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] do  | <span class="ashebrew"><big>פֹּ֥עֲלֵי </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| Po.'a.lei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> wickedness  | <span class="ashebrew"><big>אָֽוֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֪ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies your  |**<big>&#8207;[[H0341\|אֹיְבֶ֡י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.ye.Vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies your  |**<big>&#8207;[[H0341\|אֹיְבֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'o.ye.Vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will perish  |**<big>&#8207;[[H0006\|יֹאבֵ֑דוּ]]&#8207; </big>**| yo.Ve.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be scattered  |**<big>&#8207;[[H6504\|יִ֝תְפָּרְד֗וּ]]&#8207; </big>**| yit.pa.re.Du<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] do  |**<big>&#8207;[[H6466\|פֹּ֥עֲלֵי]]&#8207; </big>**| Po.'a.lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> wickedness  |**<big>&#8207;[[H0205G\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.8|<< Psalms 92:8]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.10|Psalms 92:10 >>]]</td></tr></table>
 
 

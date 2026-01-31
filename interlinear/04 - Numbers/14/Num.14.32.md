@@ -10,13 +10,13 @@ As for you, however, your bodies will fall in this wilderness.
 > $\quad$ referenced by: [[Jude.1.5|Jude 1:5]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and corpses your  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פִגְרֵי </big></span><small><small><sup>[[H6297]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fig.rei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתֶּ֑ם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| 'a.Tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will fall  | <span class="ashebrew"><big>יִפְּל֖וּ </big></span><small><small><sup>[[H5307J]]</sup></small></small> &#8207;| yi.pe.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the wilderness  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּ֥ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּֽה </big></span><small><small><sup>[[H2088]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and corpses your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6297\|פִגְרֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fig.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859D\|אַתֶּ֑ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will fall  |**<big>&#8207;[[H5307J\|יִפְּל֖וּ]]&#8207; </big>**| yi.pe.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֥ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.31|<< Numbers 14:31]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.33|Numbers 14:33 >>]]</td></tr></table>
 
 

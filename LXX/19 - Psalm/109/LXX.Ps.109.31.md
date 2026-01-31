@@ -7,20 +7,20 @@ For he shall stand at the right hand of the poor, to save [him] from those that 
 For He stands at the right hand of the needy one, to save him from the condemners of his soul.<small><sub>**MT:**</sub></small>
 [[Ps.109.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.30|<< Psalm 109:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.1|Psalm 110:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he stands | <big><span class="asgreek">παρέστη</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right \[hand\] | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| of \[the\] needy, | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pursuing | <big><span class="asgreek">καταδιωκόντων</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he stands | **<big>[[G3936\|παρέστη]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right \[hand\] | **<big>[[G1188\|δεξιών]]</big>** |
+| of \[the\] needy, | **<big>[[G3993\|πένητος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| pursuing | **<big>[[G2614\|καταδιωκόντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul. | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.109.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.30|<< Psalm 109:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.1|Psalm 110:1 >>]]</td></tr></table>
 
 

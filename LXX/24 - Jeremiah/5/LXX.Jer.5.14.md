@@ -7,34 +7,34 @@ Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, 
 Therefore this is what the LORD God of Hosts says: “Because you have spoken this word, I will make My words a fire in your mouth and this people the wood it consumes.<small><sub>**MT:**</sub></small>
 [[Jer.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.13|<< Jeremiah 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.15|Jeremiah 5:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελαλήσατε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| as wood, | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| you spoke | **<big>[[G2980\|ελαλήσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this word, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as fire, | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| as wood, | **<big>[[G3586\|ξύλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Jer.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.13|<< Jeremiah 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.15|Jeremiah 5:15 >>]]</td></tr></table>
 
 

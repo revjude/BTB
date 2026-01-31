@@ -7,33 +7,33 @@ And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to t
 then turned eastward toward Beth-dagon, touched Zebulun and the Valley of Iphtah-el, and went north to Beth-emek and Neiel, passing Cabul on the left.<small><sub>**MT:**</sub></small>
 [[Josh.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.26|<< Joshua 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.28|Joshua 19:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will turn | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beth-dagon, | <big><span class="asgreek">Βηθδαγών</span></big> <sup><small><small>[[H1016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall join together | <big><span class="asgreek">συνάψει</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jiphthah-el, | <big><span class="asgreek">Γαιεφθαήλ</span></big> <sup><small><small>[[H3317]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| of Beth-emek | <big><span class="asgreek">Βηθαεμέκ</span></big> <sup><small><small>[[H1025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Neiel, | <big><span class="asgreek">Ναιήλ</span></big> <sup><small><small>[[H5272]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go | <big><span class="asgreek">ελεύσεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Cabul | <big><span class="asgreek">Χοβώλ</span></big> <sup><small><small>[[H3521]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] left, | <big><span class="asgreek">αριστερών</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will turn | **<big>[[G1994\|επιστρέψει]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολών]]</big>** |
+| of \[the\] sun | **<big>[[G2246\|ηλίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beth-dagon, | **<big>[[H1016\|Βηθδαγών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall join together | **<big>[[G9297\|συνάψει]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1722\|εν]]</big>** |
+| Jiphthah-el, | **<big>[[H3317\|Γαιεφθαήλ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] north | **<big>[[G1005\|βορράν]]</big>** |
+| of Beth-emek | **<big>[[H1025\|Βηθαεμέκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Neiel, | **<big>[[H5272\|Ναιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall go | **<big>[[G2064\|ελεύσεται]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Cabul | **<big>[[H3521\|Χοβώλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] left, | **<big>[[G0710\|αριστερών]]</big>** |
 [[Josh.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.26|<< Joshua 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.28|Joshua 19:28 >>]]</td></tr></table>
 
 

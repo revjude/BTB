@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַשְׁמֹנָה‎</span></big> **Chashmônâh** <small>*(khash-mo-naw')*</small> ==**Hashmonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חַשְׁמַן‎</span><sup><small>[[H2831]]</small></sup>; fertile</small>
+**<big><span class="ashebrew">‎חַשְׁמֹנָה‎</span></big>** **Chashmônâh** <small>*(khash-mo-naw')*</small> ==**Hashmonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H2831|‎חַשְׁמַן‎]]</big>**; fertile</small>
 
 $\quad$ Hashmonah.
 - § Hashmonah = *"fatness"*

@@ -7,18 +7,18 @@ The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seven
 The priests: The descendants of Jedaiah (through the house of Jeshua), 973;<small><sub>**MT:**</sub></small>
 [[Ezra.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.35|<< Ezra 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.37|Ezra 2:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests -- | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jedaiah, | <big><span class="asgreek">Ιεδούα</span></big> <sup><small><small>[[H3048]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jeshua -- | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| nine hundred | <big><span class="asgreek">εννακόσιοι</span></big> <sup><small><small>[[G7246]]</small></small></sup> |
-| seventy-three. | <big><span class="asgreek">εβδομηκοντατρείς</span></big> <sup><small><small>[[G6993]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests -- | **<big>[[G2409\|ιερείς]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jedaiah, | **<big>[[H3048\|Ιεδούα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Jeshua -- | **<big>[[G2424\|Ιησού]]</big>** |
+| nine hundred | **<big>[[G7246\|εννακόσιοι]]</big>** |
+| seventy-three. | **<big>[[G6993\|εβδομηκοντατρείς]]</big>** |
 [[Ezra.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.35|<< Ezra 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.37|Ezra 2:37 >>]]</td></tr></table>
 
 

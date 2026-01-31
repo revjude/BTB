@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֵּבִים‎</span></big> **Gêbîym** <small>*(gay-beem')*</small> ==**Gebim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎גֵּב‎</span><sup><small>[[H1356]]</small></sup>; cisterns</small>
+**<big><span class="ashebrew">‎גֵּבִים‎</span></big>** **Gêbîym** <small>*(gay-beem')*</small> ==**Gebim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H1356|‎גֵּב‎]]</big>**; cisterns</small>
 
 $\quad$ Gebim.
 - § Gebim = *"cisterns"*

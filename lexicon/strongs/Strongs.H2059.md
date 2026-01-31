@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎וַשְׁנִי‎</span></big> **Vashnîy** <small>*(vash-nee')*</small> ==**`second`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎יִשְׁמְרַי‎</span><sup><small>[[H3461]]</small></sup>; weak</small>
+**<big><span class="ashebrew">‎וַשְׁנִי‎</span></big>** **Vashnîy** <small>*(vash-nee')*</small> ==**`second`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H3461|‎יִשְׁמְרַי‎]]</big>**; weak</small>
 
 $\quad$ Vashni.
 - § Vashni = *"strong"*

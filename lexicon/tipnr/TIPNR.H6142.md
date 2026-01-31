@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ikkesh</span> the Tekoite was the father of Ira, one of King David's mighty warriors and a leader in his army.
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.23.26|2Sa.23.26]]; 
-- only referred to as Ikkesh<[[H6142]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ק</span>ֵּ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  father of Ira<[[H5896H]]>.
+- only referred to as Ikkesh **<big>[[H6142|עִקֵּשׁ]]</big>**; 
+-  father of Ira **<big>[[H5896|עִירָא]]</big>**.
 
 Ikkesh the Tekoite is mentioned in the Bible as the father of Ira, one of King David's mighty warriors. Ira is listed among the "thirty" mighty men who were renowned for their military prowess and bravery \([[2Sam.23.26|2 Samuel 23:26]]; [[1Chr.11.28|1 Chronicles 11:28]]\). 
 
@@ -19,7 +19,7 @@ Although no specific details are provided about Ikkesh himself, his son Ira's in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ikkesh | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ק</span>ֵּ<span class='tipnrLangHebrew'>ש</span>ׁ](H6142) <small>*Hebrew*</small> | 3x | [[2Sa.23.26] ... [1Ch.27.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ikkesh\*\|reference=2Sa.23.26;1Ch.11.28;1Ch.27.9) |
-All Strong's for **Ikkesh**: \[[[H6142]]\]
+| Ikkesh | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ק</span>ֵּ<span class='tipnrLangHebrew'>ש</span>ׁ](H6142) | 3x | [[2Sa.23.26] ... [1Ch.27.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ikkesh\*\|reference=2Sa.23.26;1Ch.11.28;1Ch.27.9) |
+All entries for **Ikkesh**:  **<big>[[H6142|עִקֵּשׁ]]</big>**
 #### Related Profiles:
 - **[Ira](H5896H)** (child)

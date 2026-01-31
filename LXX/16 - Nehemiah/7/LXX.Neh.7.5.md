@@ -7,41 +7,41 @@ And my God put into mine heart to gather together the nobles, and the rulers, an
 Then my God put it into my heart to assemble the nobles, the officials, and the people to be enrolled by genealogy. I found the genealogical register of those who had first returned, and I found the following written in it:<small><sub>**MT:**</sub></small>
 [[Neh.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.4|<< Nehemiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.6|Nehemiah 7:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gathered | <big><span class="asgreek">συνήξα</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| important ones, | <big><span class="asgreek">εντίμους</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers, | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| groups. | <big><span class="asgreek">συνοδίας</span></big> <sup><small><small>[[G4923]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| group, | <big><span class="asgreek">συνοδίας</span></big> <sup><small><small>[[G4923]]</small></small></sup> |
-| to the ones which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| first, | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \[things\] being written | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| put \[it\] | **<big>[[G1325\|έδωκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gathered | **<big>[[G4863\|συνήξα]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| important ones, | **<big>[[G1784\|εντίμους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers, | **<big>[[G0758\|άρχοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| groups. | **<big>[[G4923\|συνοδίας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I found | **<big>[[G2147\|εύρον]]</big>** |
+| a scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| group, | **<big>[[G4923\|συνοδίας]]</big>** |
+| to the ones which | **<big>[[G3739\|οι]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| first, | **<big>[[G4413\|πρώτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I found | **<big>[[G2147\|εύρον]]</big>** |
+| \[things\] being written | **<big>[[G1125\|γεγραμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Neh.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.4|<< Nehemiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.6|Nehemiah 7:6 >>]]</td></tr></table>
 
 

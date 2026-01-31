@@ -6,17 +6,17 @@ He who keeps a commandment preserves his soul, but he who is careless in his way
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] keeps  | <span class="ashebrew"><big>שֹׁמֵ֣ר </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a commandment  | <span class="ashebrew"><big>מִ֭צְוָה </big></span><small><small><sup>[[H4687]]</sup></small></small> &#8207;| Mitz.vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] guarding  | <span class="ashebrew"><big>שֹׁמֵ֣ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life his  | <span class="ashebrew"><big>נַפְשׁ֑ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] [one who] despises  | <span class="ashebrew"><big>בּוֹזֵ֖ה </big></span><small><small><sup>[[H0959]]</sup></small></small> &#8207;| bo.Zeh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> ways his  | <span class="ashebrew"><big>דְרָכָ֣י </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| de.ra.Kha <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  [^1] | <span class="ashebrew"><big>יָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;[^2] | yu.mat <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [one who] keeps  |**<big>&#8207;[[H8104G\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a commandment  |**<big>&#8207;[[H4687\|מִ֭צְוָה]]&#8207; </big>**| Mitz.vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] guarding  |**<big>&#8207;[[H8104H\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life his  |**<big>&#8207;[[H5315H\|נַפְשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] [one who] despises  |**<big>&#8207;[[H0959\|בּוֹזֵ֖ה]]&#8207; </big>**| bo.Zeh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> ways his  |**<big>&#8207;[[H1870G\|דְרָכָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  [^1]|**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | yu.mat<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
-[^1]: ==K==: **he will be put to death ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>יוּמָת</big></span>  | yu.mat<small><sup>[[HVHi3ms]]</sup></small> 
+[^1]: ==K==: he will be put to death  | **<big>[[H9016|׃]]</big><big>[[H4191|יוּמָת]]</big> ** | yu.mat<small><sup>[[HVHi3ms]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>יָומֻֽת\׃</big></span>**
 

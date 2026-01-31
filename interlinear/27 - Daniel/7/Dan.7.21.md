@@ -10,18 +10,18 @@ As I watched, this horn was waging war against the saints and prevailing against
 > $\quad$ referenced by: [[Rev.11.7|Rev 11:7]] ☩ [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| seeing  | <span class="asaramaic"><big>חָזֵ֣ה </big></span><small><small><sup>[[H2370]]</sup></small></small> &#8207;| cha.Zeh <small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I was  | <span class="asaramaic"><big>הֲוֵ֔ית </big></span><small><small><sup>[[H1934]]</sup></small></small> &#8207;| ha.Veit <small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and horn the  | <span class="asaramaic"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>קַרְנָ֣ </big></span><small><small><sup>[[H7162]]</sup></small></small> <span class="asaramaic"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> kar.Na <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="asaramaic"><big>דִכֵּ֔ן </big></span><small><small><sup>[[H1797]]</sup></small></small> &#8207;| di.Ken <small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] making  | <span class="asaramaic"><big>עָבְדָ֥ה </big></span><small><small><sup>[[H5648]]</sup></small></small> &#8207;| 'a.ve.Dah <small><sup>[[AVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="asaramaic"><big>קְרָ֖ב </big></span><small><small><sup>[[H7129]]</sup></small></small> &#8207;| ke.Rav <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="asaramaic"><big>עִם </big></span><small><small><sup>[[H5974]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [ones]  | <span class="asaramaic"><big>קַדִּישִׁ֑ין </big></span><small><small><sup>[[H6922]]</sup></small></small> &#8207;| ka.di.Shin <small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [it was] prevailing  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָכְלָ֖ה </big></span><small><small><sup>[[H3201]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> ya.khe.Lah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֽוֹן </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[AR]]</sup></small> Hon <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seeing  |**<big>&#8207;[[H2370\|חָזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was  |**<big>&#8207;[[H1934\|הֲוֵ֔ית]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and horn the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7162\|קַרְנָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> kar.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H1797\|דִכֵּ֔ן]]&#8207; </big>**| di.Ken<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] making  |**<big>&#8207;[[H5648\|עָבְדָ֥ה]]&#8207; </big>**| 'a.ve.Dah<small><sup>[[AVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H7129\|קְרָ֖ב]]&#8207; </big>**| ke.Rav<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5974\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [ones]  |**<big>&#8207;[[H6922\|קַדִּישִׁ֑ין]]&#8207; </big>**| ka.di.Shin<small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [it was] prevailing  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3201\|יָכְלָ֖ה]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> ya.khe.Lah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9038\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.20|<< Daniel 7:20]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.22|Daniel 7:22 >>]]</td></tr></table>
 
 

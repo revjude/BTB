@@ -6,30 +6,30 @@ Send thou men, that they may search the land of Canaan, which I give unto the ch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.1|<< Numbers 13:1]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.3|Numbers 13:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| send  | <span class="ashebrew"><big>שְׁלַח </big></span><small><small><sup>[[H7971G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| she.lach- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> yourself  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men  | <span class="ashebrew"><big>אֲנָשִׁ֗ים </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'a.na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may spy out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָתֻ֙רוּ֙ </big></span><small><small><sup>[[H8446]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Tu.ru <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Canaan  | <span class="ashebrew"><big>כְּנַ֔עַן </big></span><small><small><sup>[[H3667A]]</sup></small></small> &#8207;| ke.Na.'an <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to give  | <span class="ashebrew"><big>נֹתֵ֖ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] people of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָד֩ </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֨ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֜ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] tribe of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטֵּ֤ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors his  | <span class="ashebrew"><big>אֲבֹתָי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.vo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will send  | <span class="ashebrew"><big>תִּשְׁלָ֔חוּ </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| tish.La.chu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every [one]  | <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a leader  | <span class="ashebrew"><big>נָשִׂ֥יא </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| na.Si' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among \<the> them  | <span class="ashebrew"><big>בָ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| send  |**<big>&#8207;[[H7971G\|שְׁלַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֗ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may spy out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8446\|יָתֻ֙רוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Tu.ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנַ֔עַן]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to give  |**<big>&#8207;[[H5414G\|נֹתֵ֖ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָד֩]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֜ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] tribe of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4294H\|מַטֵּ֤ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors his  |**<big>&#8207;[[H0001G\|אֲבֹתָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will send  |**<big>&#8207;[[H7971G\|תִּשְׁלָ֔חוּ]]&#8207; </big>**| tish.La.chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every [one]  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a leader  |**<big>&#8207;[[H5387A\|נָשִׂ֥יא]]&#8207; </big>**| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.1|<< Numbers 13:1]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.3|Numbers 13:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֵכָר‎</span></big> **nêkâr** <small>*(nay-kawr')*</small> ==**foreign**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>' from <span class="ashebrew">‎נָכַר‎</span><sup><small>[[H5234]]</small></sup></small>
+**<big><span class="ashebrew">‎נֵכָר‎</span></big>** **nêkâr** <small>*(nay-kawr')*</small> ==**foreign**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>' from **<big>[[H5234|‎נָכַר‎]]</big>**</small>
 
 $\quad$ alien, strange ([phrase] -er).
 - ***foreign***, or (concretely) ***a foreigner***, or (abstractly) ***heathendom***
@@ -9,4 +9,4 @@ $\quad$ **1a)** foreignness, foreign gods
 $\quad$ **1b)** alien, foreigner
 $\quad$ **1c)** foreign (vanities)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλογενής</span><sup><small>[[G0241]]</small></sup> · <span class="asgreek">ἀλλότριος</span><sup><small>[[G0245]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0241|ἀλλογενής]]</big>** · **<big>[[G0245|ἀλλότριος]]</big>** · **<big>[[G2087|ἕτερος]]</big>**

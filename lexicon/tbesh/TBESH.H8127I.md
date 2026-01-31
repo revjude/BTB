@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שֵׁן‎</span> <small>***(shen)***</small> ==**tooth: crag**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-meaning of: <small>[[H8127G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H8127G|שֵׁן]]</big>**</small> 
 
 - : crag

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַגָּן‎</span></big> **ʼaggân** <small>*(ag-gawn')*</small> ==**vessel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎נָגַן‎</span><sup><small>[[H5059]]</small></sup></small>
+**<big><span class="ashebrew">‎אַגָּן‎</span></big>** **ʼaggân** <small>*(ag-gawn')*</small> ==**vessel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H5059|‎נָגַן‎]]</big>**</small>
 
 $\quad$ basin, cup, goblet.
 - ***a bowl*** (as pounded out hollow)

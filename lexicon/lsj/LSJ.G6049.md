@@ -1,5 +1,5 @@
 <span class="asgreek">κατακύπτω</span> <small>***(katakuptō)***</small> ==**to stoop down**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-combination of: <small>[[G2955]] ([[G2596]]+[[G2955]])</small> 
+combination of: <small>**<big>[[G2955|κύπτω]]</big>** (**<big>[[G2596|κατά]]</big>**+**<big>[[G2955|κύπτω]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==κατακύπτω==</span></b>, 

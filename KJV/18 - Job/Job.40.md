@@ -73,7 +73,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Job.40.15|15]]**<span class="
 
 [^29]: [[Ps.44|Ps 44:3]], [[Ps.44|Ps 44:6]]; [[Isa.40|Isa 40:29]]; [[Rom.5|Rom 5:6]]; [[Eph.2|Eph 2:4-9]]
 
-[^30]: <span class="asgreek"><span class='asgreek'>αδξε</span>ϊ</span> (<span class="ashebrew">‎בְּהֵמוֹת‎</span><sup><small>[[H0930]]</small></sup>), Perhaps an extinct dinosaur, maybe a Diplodocus or Brachiosaurus, the exact meaning is unknown. Some translate as elephant or hippopotamus but from the description in [[Job.40|Job 40:15-24]], this is patently absurd.
+[^30]: <span class="asgreek"><span class='asgreek'>αδξε</span>ϊ</span> ( [[H0930|‎בְּהֵמוֹת‎]] ), Perhaps an extinct dinosaur, maybe a Diplodocus or Brachiosaurus, the exact meaning is unknown. Some translate as elephant or hippopotamus but from the description in [[Job.40|Job 40:15-24]], this is patently absurd.
 
 [^31]: [[Gen.1|Gen 1:24-26]]
 

@@ -7,17 +7,17 @@ Iron is taken out of the earth, and brass [is] molten [out of] the stone.
 Iron is taken from the earth, and copper is smelted from ore.<small><sub>**MT:**</sub></small>
 [[Job.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.1|<< Job 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.3|Job 28:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| iron | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| For | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| comes | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and brass | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| equally | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| \[like\] stone | <big><span class="asgreek">λίθω</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| is quarried | <big><span class="asgreek">λατομείται</span></big> <sup><small><small>[[G2998]]</small></small></sup> |
+| iron | **<big>[[G4604\|σίδηρος]]</big>** |
+| For | **<big>[[G3303\|μεν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γης]]</big>** |
+| comes | **<big>[[G1096\|γίνεται]]</big>** |
+| and brass | **<big>[[G5475\|χαλκός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| equally | **<big>[[G2470\|ίσα]]</big>** |
+| \[like\] stone | **<big>[[G3037\|λίθω]]</big>** |
+| is quarried | **<big>[[G2998\|λατομείται]]</big>** |
 [[Job.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.1|<< Job 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.3|Job 28:3 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nathan-melech</span> was a court official who had living quarters near the entrance of the temple during King Josiah's reign.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Kgs.23.11|2Ki.23.11]]; 
-- only referred to as Nathan-melech<[[H5419]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- only referred to as Nathan-melech **<big>[[H5419|נְתַן־מֶלֶךְ]]</big>**.
 
 Nathan-melech is mentioned briefly in [[2Kgs.23.11|2 Kings 23:11]] during the reign of King Josiah of Judah. He was a court official who held a position of some importance, as evidenced by his living quarters being located near the entrance of the temple in Jerusalem. 
 
@@ -18,5 +18,5 @@ Apart from this single mention, no further information is given about Nathan-mel
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathan-melech (NIV= Nathan Melek) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H5419) <small>*Hebrew*</small> | 1x | [2Ki.23.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Ki.23.11) |
-All Strong's for **Nathan-melech**: \[[[H5419]]\]
+| Nathan-melech (NIV= Nathan Melek) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H5419) | 1x | [2Ki.23.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Ki.23.11) |
+All entries for **Nathan-melech**:  **<big>[[H5419|נְתַן־מֶלֶךְ]]</big>**

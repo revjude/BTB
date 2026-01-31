@@ -1,4 +1,4 @@
-spelling of: <small>[[G3972G]]</small> 
+spelling of: <small>**<big>[[G3972G|Παῦλος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σαῦλος==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

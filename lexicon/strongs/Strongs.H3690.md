@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּסְלָה‎</span></big> **kiçlâh** <small>*(kis-law')*</small> ==**confidence**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎כֶּסֶל‎</span><sup><small>[[H3689]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּסְלָה‎</span></big>** **kiçlâh** <small>*(kis-law')*</small> ==**confidence**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H3689|‎כֶּסֶל‎]]</big>**</small>
 
 $\quad$ confidence, folly.
 - in a good sense, ***trust***

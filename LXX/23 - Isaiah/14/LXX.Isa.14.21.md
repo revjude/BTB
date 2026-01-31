@@ -7,28 +7,28 @@ Prepare slaughter for his children for the iniquity of their fathers; that they 
 Prepare a place to slaughter his sons for the iniquities of their forefathers. They will never rise up to possess a land or cover the earth with their cities.<small><sub>**MT:**</sub></small>
 [[Isa.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Prepare | <big><span class="asgreek">ετοίμασον</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be slain | <big><span class="asgreek">σφαγήναι</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| for the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their father! | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| rise up | <big><span class="asgreek">αναστώσι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| inherit | <big><span class="asgreek">κληρονομήσωσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should fill up | <big><span class="asgreek">εμπλήσωσι</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| with wars. | <big><span class="asgreek">πολέμων</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| Prepare | **<big>[[G2090\|ετοίμασον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to be slain | **<big>[[G4969\|σφαγήναι]]</big>** |
+| for the | **<big>[[G3588\|ταις]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their father! | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| rise up | **<big>[[G0450\|αναστώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| inherit | **<big>[[G2816\|κληρονομήσωσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should fill up | **<big>[[G1705\|εμπλήσωσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| with wars. | **<big>[[G4171\|πολέμων]]</big>** |
 [[Isa.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
 
 

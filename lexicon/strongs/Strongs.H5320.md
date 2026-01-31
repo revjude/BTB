@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נַפְתֻּחִים‎</span></big> **Naphtuchîym** <small>*(naf-too-kheem)*</small> ==**Naphtuhim**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎נַפְתֻּחִים‎</span></big>** **Naphtuchîym** <small>*(naf-too-kheem)*</small> ==**Naphtuhim**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>plural of foreign origin,</small>
 
 $\quad$ Naptuhim.

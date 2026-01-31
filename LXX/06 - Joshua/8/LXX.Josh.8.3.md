@@ -7,33 +7,33 @@ So Joshua arose, and all the people of war, to go up against Ai: and Joshua chos
 So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night<small><sub>**MT:**</sub></small>
 [[Josh.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.2|<< Joshua 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.4|Joshua 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warriors, | <big><span class="asgreek">πολεμιστής</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to ascend | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ai. | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| chose | <big><span class="asgreek">επέλεξε</span></big> <sup><small><small>[[G1951]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength, | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by night. | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua rose up, | **<big>[[G0450\|ανέστη]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| warriors, | **<big>[[G8841\|πολεμιστής]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to ascend | **<big>[[G0305\|αναβήναι]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Ai. | **<big>[[H5857\|Γαί]]</big>** |
+| chose | **<big>[[G1951\|επέλεξε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| men, | **<big>[[G0435\|ανδρών]]</big>** |
+| mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength, | **<big>[[G2479\|ισχύϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| by night. | **<big>[[G3571\|νυκτός]]</big>** |
 [[Josh.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.2|<< Joshua 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.4|Joshua 8:4 >>]]</td></tr></table>
 
 

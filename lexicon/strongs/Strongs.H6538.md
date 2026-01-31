@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּרֶס‎</span></big> **pereç** <small>*(peh'-res)*</small> ==**vulture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּרַס‎</span><sup><small>[[H6536]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּרֶס‎</span></big>** **pereç** <small>*(peh'-res)*</small> ==**vulture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6536|‎פָּרַס‎]]</big>**</small>
 
 $\quad$ claw, ossifrage.
 - ***a claw***
@@ -9,4 +9,4 @@ $\quad$ claw, ossifrage.
 $\quad$ **1a)** perhaps bearded vulture or ossifrage
 $\quad$ **1b)** perhaps an extinct animal, exact meaning unknown
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Φάρες</span><sup><small>[[G5329]]</small></sup>
+<small>See Greek: </small>**<big>[[G5329|Φάρες]]</big>**

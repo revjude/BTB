@@ -7,27 +7,27 @@ And Amaziah the son of Joash king of Judah lived after the death of Joash son of
 Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.<small><sub>**MT:**</sub></small>
 [[2Chr.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| Amaziah | <big><span class="asgreek">Αμασίας</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dying | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehoahaz | <big><span class="asgreek">Ιωάχαζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| for fifteen | <big><span class="asgreek">δεκαπέντε</span></big> <sup><small><small>[[G1178]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| lived | **<big>[[G2198\|έζησεν]]</big>** |
+| Amaziah | **<big>[[H0558\|Αμασίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dying | **<big>[[G0599\|αποθανείν]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Jehoahaz | **<big>[[H3059\|Ιωάχαζ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| for fifteen | **<big>[[G1178\|δεκαπέντε]]</big>** |
 [[2Chr.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
 

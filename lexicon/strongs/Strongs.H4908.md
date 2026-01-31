@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁכָּן‎</span></big> **mishkân** <small>*(mish-kawn')*</small> ==**tabernacle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁכַן‎</span><sup><small>[[H7931]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁכָּן‎</span></big>** **mishkân** <small>*(mish-kawn')*</small> ==**tabernacle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7931|‎שָׁכַן‎]]</big>**</small>
 
 $\quad$ dwelleth, dwelling (place), habitation, tabernacle, tent.
 - ***a residence*** (including a shepherd's hut, the lair of animals, figuratively, the grave
@@ -10,4 +10,4 @@ $\quad$ dwelleth, dwelling (place), habitation, tabernacle, tent.
 $\quad$ **1a)** dwelling-place
 $\quad$ **1b)** dwellings
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰχμαλωσία</span><sup><small>[[G0161]]</small></sup> · <span class="asgreek">ἐνοικέω</span><sup><small>[[G1774]]</small></sup> · <span class="asgreek">κάλυμα</span><sup><small>[[G2571]]</small></sup> · <span class="asgreek">κατάλυμα</span><sup><small>[[G2646]]</small></sup> · <span class="asgreek">κατασκήνωσις</span><sup><small>[[G2682]]</small></sup> · <span class="asgreek">κιβωτός</span><sup><small>[[G2787]]</small></sup> · <span class="asgreek">οἶκος</span><sup><small>[[G3624]]</small></sup> · <span class="asgreek">σκηνή</span><sup><small>[[G4633]]</small></sup> · <span class="asgreek">σκήνωμα</span><sup><small>[[G4638]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup>
+<small>See Greek: </small>**<big>[[G0161|αἰχμαλωσία]]</big>** · **<big>[[G1774|ἐνοικέω]]</big>** · **<big>[[G2571|κάλυμα]]</big>** · **<big>[[G2646|κατάλυμα]]</big>** · **<big>[[G2682|κατασκήνωσις]]</big>** · **<big>[[G2787|κιβωτός]]</big>** · **<big>[[G3624|οἶκος]]</big>** · **<big>[[G4633|σκηνή]]</big>** · **<big>[[G4638|σκήνωμα]]</big>** · **<big>[[G4864|συναγωγή]]</big>**

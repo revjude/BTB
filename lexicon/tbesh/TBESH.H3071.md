@@ -1,4 +1,3 @@
-<span class="ashebrew">‎יְהֹוָה נִסִּי‎</span> <small>***(ye.ho.vah nis.si)***</small> ==**YHWH/Jehovah-nissi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-combination of: <small>[[H3068G]] ([[H3068G]]+[[H5251G]])</small> 
+<small>combination of:</small> <small>**<big>[[H3068G|יְהֹוָה]]</big>** (**<big>[[H3068G|יְהֹוָה]]</big>**+**<big>[[H5251G|נֵס]]</big>**)</small> 
 
 - Jehovah-nissi = "Jehovah is my banner"

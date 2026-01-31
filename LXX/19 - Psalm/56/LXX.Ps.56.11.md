@@ -7,18 +7,18 @@ In God have I put my trust: I will not be afraid what man can do unto me.
 in God I trust; I will not be afraid. What can man do to me?<small><sub>**MT:**</sub></small>
 [[Ps.56.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.10|<< Psalm 56:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.12|Psalm 56:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I hoped; | <big><span class="asgreek">ήλπισα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be afraid | <big><span class="asgreek">φοβηθήσομαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| in what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| Unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| I hoped; | **<big>[[G1679\|ήλπισα]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| be afraid | **<big>[[G5399\|φοβηθήσομαι]]</big>** |
+| in what | **<big>[[G5100\|τι]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
 [[Ps.56.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.10|<< Psalm 56:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.12|Psalm 56:12 >>]]</td></tr></table>
 
 

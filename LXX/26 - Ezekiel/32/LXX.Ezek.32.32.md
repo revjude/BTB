@@ -7,32 +7,32 @@ For I have caused my terror in the land of the living: and he shall be laid in t
 For I will spread My terror in the land of the living, so that Pharaoh and all his multitude will be laid to rest among the uncircumcised, with those slain by the sword, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
 [[Ezek.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I have put | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of life; | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall sleep | <big><span class="asgreek">κοιμηθήσεται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] uncircumcised | <big><span class="asgreek">απεριτμήτων</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| ones slain | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| \[by the\] sword, | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| \[even\] Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his multitude, | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I have put | **<big>[[G1325\|δέδωκα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fear | **<big>[[G5401\|φόβον]]</big>** |
+| of him | **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of life; | **<big>[[G2222\|ζωής]]</big>** |
+| yet | **<big>[[G2532\|και]]</big>** |
+| he shall sleep | **<big>[[G2837\|κοιμηθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] uncircumcised | **<big>[[G0564\|απεριτμήτων]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| ones slain | **<big>[[G9470\|τραυματιών]]</big>** |
+| \[by the\] sword, | **<big>[[G3162\|μαχαίρας]]</big>** |
+| \[even\] Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his multitude, | **<big>[[G4128\|πλήθος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
 

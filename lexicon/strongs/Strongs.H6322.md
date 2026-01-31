@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוּל‎</span></big> **Pûwl** <small>*(pool)*</small> ==**Pul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פּוּל‎</span></big>** **Pûwl** <small>*(pool)*</small> ==**Pul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Pul.

@@ -7,32 +7,32 @@ And he said unto her, If they bind me fast with new ropes that never were occupi
 He replied, “If they tie me up with new ropes that have never been used, I will become as weak as any other man.”<small><sub>**MT:**</sub></small>
 [[Judg.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.10|<< Judges 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.12|Judges 16:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| by binding, | <big><span class="asgreek">δεσμεύοντες</span></big> <sup><small><small>[[G1195]]</small></small></sup> |
-| they should tie | <big><span class="asgreek">δήσωσί</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ropes | <big><span class="asgreek">καλωδίοις</span></big> <sup><small><small>[[G7787]]</small></small></sup> |
-| new | <big><span class="asgreek">καινοίς</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were not \[used\] | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-|  | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| work, | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be weak, | <big><span class="asgreek">ασθενήσω</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| by binding, | **<big>[[G1195\|δεσμεύοντες]]</big>** |
+| they should tie | **<big>[[G1210\|δήσωσί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| ropes | **<big>[[G7787\|καλωδίοις]]</big>** |
+| new | **<big>[[G2537\|καινοίς]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| were not \[used\] | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+|  | **<big>[[G1473\|αυτοίς]]</big>** |
+| work, | **<big>[[G2041\|έργον]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I shall be weak, | **<big>[[G0770\|ασθενήσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men. | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Judg.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.10|<< Judges 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.12|Judges 16:12 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ So I bought her to me for fifteen [pieces] of silver, and [for] an homer of barl
 So I bought her for fifteen shekels of silver and a homer and a lethech of barley.<small><sub>**MT:**</sub></small>
 [[Hos.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.1|<< Hosea 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.3|Hosea 3:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I hired | <big><span class="asgreek">εμισθωσάμην</span></big> <sup><small><small>[[G3409]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| \[for\] fifteen \[pieces\] | <big><span class="asgreek">πεντεκαίδεκα</span></big> <sup><small><small>[[G8699]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a homer | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| of barley, | <big><span class="asgreek">κριθων</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a skin flask | <big><span class="asgreek">νέβελ</span></big> <sup><small><small>[[G8380]]</small></small></sup> |
-| of wine. | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I hired | **<big>[[G3409\|εμισθωσάμην]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to myself | **<big>[[G1683\|εμαυτώ]]</big>** |
+| \[for\] fifteen \[pieces\] | **<big>[[G8699\|πεντεκαίδεκα]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a homer | **<big>[[G6758\|γόμορ]]</big>** |
+| of barley, | **<big>[[G2915\|κριθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a skin flask | **<big>[[G8380\|νέβελ]]</big>** |
+| of wine. | **<big>[[G3631\|οίνου]]</big>** |
 [[Hos.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.1|<< Hosea 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.3|Hosea 3:3 >>]]</td></tr></table>
 
 

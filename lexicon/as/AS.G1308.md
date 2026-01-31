@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δια-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">שְׁנָא</span> <small><sup>[[H8133]]</sup></small> ([[LXX.Dan.7|Da 7]] only); [[LXX.1Sam.17.39|I Ki 17:39]], [[LXX.Ezra.3.13|Es 3:13]], al. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δια-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H8133|שְׁנָא]]</big>** ([[LXX.Dan.7|Da 7]] only); [[LXX.1Sam.17.39|I Ki 17:39]], [[LXX.Ezra.3.13|Es 3:13]], al. ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> trans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to carry through</span>: seq. <span class="asgreek">διά</span>, [[Mark.11.16|Mk 11:16]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to carry about, spread abroad</span>: pass., [[Acts.13.49|Ac 13:49]] [[Acts.27.27|27:27]].</span>

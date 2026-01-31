@@ -12,18 +12,18 @@ To the chief Musician, Altaschith, Michtam of David. Do ye indeed speak righteou
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?<small><sub>**MT:**</sub></small>
 [[Ps.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.11|<< Psalm 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.2|Psalm 58:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Will | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| truly | <big><span class="asgreek">αληθώς</span></big> <sup><small><small>[[G0230]]</small></small></sup> |
-| thus | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| you speak | <big><span class="asgreek">λαλείτε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \[and\] rightly | <big><span class="asgreek">ευθείας</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| judge, | <big><span class="asgreek">κρίνατε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men? | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| Will | **<big>[[G1487\|ει]]</big>** |
+| truly | **<big>[[G0230\|αληθώς]]</big>** |
+| thus | **<big>[[G0686\|άρα]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| you speak | **<big>[[G2980\|λαλείτε]]</big>** |
+| \[and\] rightly | **<big>[[G2117\|ευθείας]]</big>** |
+| judge, | **<big>[[G2919\|κρίνατε]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men? | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Ps.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.11|<< Psalm 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.2|Psalm 58:2 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פִּתֹם‎</span></big> **Pithôm** <small>*(pee-thome')*</small> ==**Pithom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פִּתֹם‎</span></big>** **Pithôm** <small>*(pee-thome')*</small> ==**Pithom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Pithom.

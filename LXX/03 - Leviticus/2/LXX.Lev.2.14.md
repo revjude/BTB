@@ -7,26 +7,26 @@ And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt o
 If you bring a grain offering of firstfruits to the LORD, you shall offer crushed heads of new grain roasted on the fire.<small><sub>**MT:**</sub></small>
 [[Lev.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should bring | <big><span class="asgreek">προσφέρης</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of first produce | <big><span class="asgreek">πρωτογεννημάτων</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[it shall be\] new | <big><span class="asgreek">νέα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| parched | <big><span class="asgreek">πεφρυγμένα</span></big> <sup><small><small>[[G9670]]</small></small></sup> |
-| green wheat | <big><span class="asgreek">χίδρα</span></big> <sup><small><small>[[G9728]]</small></small></sup> |
-| ground | <big><span class="asgreek">ερικτά</span></big> <sup><small><small>[[G7506]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And \[thus\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall you bring | <big><span class="asgreek">προσοίσεις</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first produce. | <big><span class="asgreek">πρωτογεννημάτων</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should bring | **<big>[[G4374\|προσφέρης]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of first produce | **<big>[[G8966\|πρωτογεννημάτων]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| \[it shall be\] new | **<big>[[G3501\|νέα]]</big>** |
+| parched | **<big>[[G9670\|πεφρυγμένα]]</big>** |
+| green wheat | **<big>[[G9728\|χίδρα]]</big>** |
+| ground | **<big>[[G7506\|ερικτά]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And \[thus\] | **<big>[[G2532\|και]]</big>** |
+| shall you bring | **<big>[[G4374\|προσοίσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| first produce. | **<big>[[G8966\|πρωτογεννημάτων]]</big>** |
 [[Lev.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 
 

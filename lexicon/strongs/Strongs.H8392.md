@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תֵּבָה‎</span></big> **têbâh** <small>*(tay-baw')*</small> ==**ark**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎תֵּבָה‎</span></big>** **têbâh** <small>*(tay-baw')*</small> ==**ark**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>perhaps of foreign derivation</small>
 
 $\quad$ ark.
@@ -8,4 +8,4 @@ $\quad$ ark.
 $\quad$ **1a)** vessel which Noah built
 $\quad$ **1b)** basket vessel in which Moses was placed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θαυμάζω</span><sup><small>[[G2296]]</small></sup> · <span class="asgreek">κιβωτός</span><sup><small>[[G2787]]</small></sup>
+<small>See Greek: </small>**<big>[[G2296|θαυμάζω]]</big>** · **<big>[[G2787|κιβωτός]]</big>**

@@ -7,20 +7,20 @@ And in those  days when king Artaxerxes was enthroned in Shushan the city,
 In those days King Xerxes sat on his royal throne in the citadel of Susa.<small><sub>**MT:**</sub></small>
 [[Esth.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.1|<< Esther 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.3|Esther 1:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| those | <big><span class="asgreek">ταύταις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| was enthroned | <big><span class="asgreek">ενεθρονίσθη</span></big> <sup><small><small>[[G7242]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Artaxerxes | <big><span class="asgreek">Αρταξέρξης</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shushan | <big><span class="asgreek">Σούσοις</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| those | **<big>[[G3778\|ταύταις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| was enthroned | **<big>[[G7242\|ενεθρονίσθη]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Artaxerxes | **<big>[[H0783b\|Αρταξέρξης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shushan | **<big>[[H7800\|Σούσοις]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city, | **<big>[[G4172\|πόλει]]</big>** |
 [[Esth.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.1|<< Esther 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.3|Esther 1:3 >>]]</td></tr></table>
 
 

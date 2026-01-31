@@ -7,24 +7,24 @@ And he said to David, Thou [art] more righteous than I: for thou hast rewarded m
 and said to David, “You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil.<small><sub>**MT:**</sub></small>
 [[1Sam.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.16|<< 1 Samuel 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.18|1 Samuel 24:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| You \[are\] righteous | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| recompensed | <big><span class="asgreek">ανταπέδωκάς</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good \[things\], | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| recompensed | <big><span class="asgreek">ανταπέδωκά</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| evils. | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| You \[are\] righteous | **<big>[[G1342\|δίκαιος]]</big>** **<big>[[G1473\|συ]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| recompensed | **<big>[[G0467\|ανταπέδωκάς]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| good \[things\], | **<big>[[G0018\|αγαθά]]</big>** |
+| but I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| recompensed | **<big>[[G0467\|ανταπέδωκά]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| evils. | **<big>[[G2556\|κακά]]</big>** |
 [[1Sam.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.16|<< 1 Samuel 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.18|1 Samuel 24:18 >>]]</td></tr></table>
 
 

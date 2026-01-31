@@ -7,20 +7,20 @@ Whatsoever soul [it be] that eateth any manner of blood, even that soul shall be
 If anyone eats blood, that person must be cut off from his people.’”<small><sub>**MT:**</sub></small>
 [[Lev.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.26|<< Leviticus 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.28|Leviticus 7:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should eat | <big><span class="asgreek">φάγη</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| shall be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should eat | **<big>[[G2068\|φάγη]]</big>** |
+| blood, | **<big>[[G0129\|αίμα]]</big>** |
+| shall be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.26|<< Leviticus 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.28|Leviticus 7:28 >>]]</td></tr></table>
 
 

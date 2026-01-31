@@ -7,39 +7,39 @@ And the LORD said furthermore unto him, Put now thine hand into thy bosom. And h
 Furthermore, the LORD said to Moses, “Put your hand inside your cloak.” So he put his hand inside his cloak, and when he took it out, his hand was leprous, white as snow.<small><sub>**MT:**</sub></small>
 [[Exod.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.5|<< Exodus 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.7|Exodus 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| again, | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| Insert | <big><span class="asgreek">εισένεγκε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bosom! | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he inserted | <big><span class="asgreek">εισήνεγκε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bosom. | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bosom, | <big><span class="asgreek">κόλπου</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| leprous | <big><span class="asgreek">λεπρώσα</span></big> <sup><small><small>[[G8181]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| snow. | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| again, | **<big>[[G3825\|πάλιν]]</big>** |
+| Insert | **<big>[[G1533\|εισένεγκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your bosom! | **<big>[[G2859\|κόλπον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he inserted | **<big>[[G1533\|εισήνεγκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his bosom. | **<big>[[G2859\|κόλπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1627\|εξήνεγκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his bosom, | **<big>[[G2859\|κόλπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγενήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| leprous | **<big>[[G8181\|λεπρώσα]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| snow. | **<big>[[G5510\|χιών]]</big>** |
 [[Exod.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.5|<< Exodus 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.7|Exodus 4:7 >>]]</td></tr></table>
 
 

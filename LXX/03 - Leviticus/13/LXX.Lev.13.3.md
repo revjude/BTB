@@ -7,46 +7,46 @@ And the priest shall look on the plague in the skin of the flesh: and [when] the
 The priest is to examine the infection on his skin, and if the hair in the infection has turned white and the sore appears to be deeper than the skin, it is a skin disease. After the priest examines him, he must pronounce him unclean.<small><sub>**MT:**</sub></small>
 [[Lev.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.2|<< Leviticus 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.4|Leviticus 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall look at | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] skin | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his flesh, | <big><span class="asgreek">χρωτός</span></big> <sup><small><small>[[G5559]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if \[the\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| hair | <big><span class="asgreek">θριξ</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| should turn | <big><span class="asgreek">μεταβάλη</span></big> <sup><small><small>[[G3328]]</small></small></sup> |
-| white, | <big><span class="asgreek">λευκή</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψις</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφής</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| \[be\] deep | <big><span class="asgreek">ταπεινή</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| under | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin | <big><span class="asgreek">δέρματος</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his flesh, | <big><span class="asgreek">χρωτός</span></big> <sup><small><small>[[G5559]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of leprosy | <big><span class="asgreek">λέπρας</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall look | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall declare him defiled. | <big><span class="asgreek">μιανεί</span></big> <sup><small><small>[[G3392]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall look at | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| infection | **<big>[[G0860\|αφήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] skin | **<big>[[G1192\|δέρματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his flesh, | **<big>[[G5559\|χρωτός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if \[the\] | **<big>[[G1487\|ει]]</big>** |
+| hair | **<big>[[G2359\|θριξ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| should turn | **<big>[[G3328\|μεταβάλη]]</big>** |
+| white, | **<big>[[G3022\|λευκή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| appearance | **<big>[[G3799\|όψις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| infection | **<big>[[G0860\|αφής]]</big>** |
+| \[be\] deep | **<big>[[G5011\|ταπεινή]]</big>** |
+| under | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| skin | **<big>[[G1192\|δέρματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his flesh, | **<big>[[G5559\|χρωτός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| an infection | **<big>[[G0860\|αφή]]</big>** |
+| of leprosy | **<big>[[G3014\|λέπρας]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall look | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall declare him defiled. | **<big>[[G3392\|μιανεί]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Lev.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.2|<< Leviticus 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.4|Leviticus 13:4 >>]]</td></tr></table>
 
 

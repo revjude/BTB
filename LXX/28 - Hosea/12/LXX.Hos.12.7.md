@@ -7,15 +7,15 @@ Canaan, in his hand \[is a\] yoke of iniquity; he loved to tyrannize.
 A merchant loves to defraud with dishonest scales in his hands.<small><sub>**MT:**</sub></small>
 [[Hos.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.6|<< Hosea 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.8|Hosea 12:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is a\] yoke | <big><span class="asgreek">ζυγός</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
-| of iniquity; | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| to tyrannize | <big><span class="asgreek">καταδυναστεύειν</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| he loved | <big><span class="asgreek">ηγάπησε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is a\] yoke | **<big>[[G2218\|ζυγός]]</big>** |
+| of iniquity; | **<big>[[G0093\|αδικίας]]</big>** |
+| to tyrannize | **<big>[[G2616\|καταδυναστεύειν]]</big>** |
+| he loved | **<big>[[G0025\|ηγάπησε]]</big>** |
 [[Hos.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.6|<< Hosea 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.8|Hosea 12:8 >>]]</td></tr></table>
 
 

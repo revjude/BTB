@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Delaiah</span>, the son of Shemaiah, was an official during King Jehoiakim's reign who heard Baruch read Jeremiah's scroll. \([[Jer.36.12|Jer.36.12]],25\)
 - A man living at the time of Divided Monarchy, first mentioned at [[Jer.36.12|Jer.36.12]]; 
-- only referred to as Delaiah<[[H1806K]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Shemaiah<[[H8098Z]]>.
+- only referred to as Delaiah **<big>[[H1806|דְּלָיָה]]</big>**; 
+- a son of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**.
 
 Delaiah, the son of Shemaiah, is mentioned in Jeremiah 36 as one of the officials present when Baruch, Jeremiah's scribe, read the prophet's scroll in the chamber of Gemariah, the son of Shaphan. This event took place during the reign of King Jehoiakim of Judah. 
 
@@ -17,7 +17,7 @@ Delaiah's presence among the officials and his attempt to prevent the king from 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806K) <small>*Hebrew*</small> | 2x | [[Jer.36.12] & [Jer.36.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Jer.36.12;Jer.36.25) |
-All Strong's for **Delaiah**: \[[[H1806K]]\]
+| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806K) | 2x | [[Jer.36.12] & [Jer.36.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Jer.36.12;Jer.36.25) |
+All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**
 #### Related Profiles:
 - **[Shemaiah](H8098Z)** (father)

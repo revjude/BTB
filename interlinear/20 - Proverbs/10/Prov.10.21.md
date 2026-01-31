@@ -6,16 +6,16 @@ The lips of the righteous feed many, but fools die for lack of judgment.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.20|<< Proverbs 10:20]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.22|Proverbs 10:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] lips of  | <span class="ashebrew"><big>שִׂפְתֵ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> &#8207;| sif.Tei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַ֭דִּיק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they feed  | <span class="ashebrew"><big>יִרְע֣וּ </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| yir.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many [people]  | <span class="ashebrew"><big>רַבִּ֑ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fools  | <span class="ashebrew"><big>וֶֽ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱוִילִ֗ים </big></span><small><small><sup>[[H0191]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.vi.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by lack of  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֲסַר </big></span><small><small><sup>[[H2638]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> cha.sar- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵ֥ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they die  | <span class="ashebrew"><big>יָמֽוּתוּ </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mu.tu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lips of  |**<big>&#8207;[[H8193G\|שִׂפְתֵ֣י]]&#8207; </big>**| sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they feed  |**<big>&#8207;[[H7462B\|יִרְע֣וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many [people]  |**<big>&#8207;[[H7227A\|רַבִּ֑ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fools  |**<big>&#8207;[[H9002\|וֶֽ֝]]&#8207;&#8207;[[H0191\|אֱוִילִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.vi.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by lack of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2638\|חֲסַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.sar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֥ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they die  |**<big>&#8207;[[H4191\|יָמֽוּתוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mu.tu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.20|<< Proverbs 10:20]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.22|Proverbs 10:22 >>]]</td></tr></table>
 
 

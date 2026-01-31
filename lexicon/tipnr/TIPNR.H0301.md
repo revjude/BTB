@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahishar</span> was in charge of King Solomon's palace. \([[1Kgs.4.6|1Ki.4.6]]\)
 - A man living at the time of United Monarchy, only mentioned at [[1Kgs.4.6|1Ki.4.6]]; 
-- only referred to as Ahishar<[[H0301]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Ahishar **<big>[[H0301|אֲחִישָׁר]]</big>**.
 
 Ahishar is mentioned briefly in the context of King Solomon's administration. He was appointed as the official in charge of Solomon's palace, which was a significant responsibility. \([[1Kgs.4.6|1Ki.4.6]]\) 
 
@@ -16,5 +16,5 @@ Ahishar's role is listed among other key officials in Solomon's administration, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahishar | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>](H0301) <small>*Hebrew*</small> | 1x | [1Ki.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahishar\*\|reference=1Ki.4.6) |
-All Strong's for **Ahishar**: \[[[H0301]]\]
+| Ahishar | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>](H0301) | 1x | [1Ki.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahishar\*\|reference=1Ki.4.6) |
+All entries for **Ahishar**:  **<big>[[H0301|אֲחִישָׁר]]</big>**

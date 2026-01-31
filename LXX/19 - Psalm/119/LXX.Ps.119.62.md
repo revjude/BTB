@@ -7,18 +7,18 @@ At midnight I will rise to give thanks unto thee because of thy righteous judgme
 At midnight I rise to give You thanks for Your righteous judgments.<small><sub>**MT:**</sub></small>
 [[Ps.119.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.61|<< Psalm 119:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.63|Psalm 119:63 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| At midnight | <big><span class="asgreek">μεσονύκτιον</span></big> <sup><small><small>[[G3317]]</small></small></sup> |
-| I awoke | <big><span class="asgreek">εξεγειρόμην</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to confess | <big><span class="asgreek">εξομολογείσθαί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| At midnight | **<big>[[G3317\|μεσονύκτιον]]</big>** |
+| I awoke | **<big>[[G1825\|εξεγειρόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to confess | **<big>[[G1843\|εξομολογείσθαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your righteousness. | **<big>[[G1343\|δικαιοσύνης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.61|<< Psalm 119:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.63|Psalm 119:63 >>]]</td></tr></table>
 
 

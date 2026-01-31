@@ -7,46 +7,46 @@ Then the priest shall charge the woman with an oath of cursing, and the priest s
 and the priest shall have the woman swear under the oath of the curse—‘then may the LORD make you an attested curse among your people by making your thigh shrivel and your belly swell.<small><sub>**MT:**</sub></small>
 [[Num.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.20|<< Numbers 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.22|Numbers 5:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall bind | <big><span class="asgreek">ορκιεί</span></big> <sup><small><small>[[G3726]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oaths | <big><span class="asgreek">όρκοις</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this imprecation. | <big><span class="asgreek">αράς</span></big> <sup><small><small>[[G0685]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| appoint | <big><span class="asgreek">δώη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a curse | <big><span class="asgreek">αρά</span></big> <sup><small><small>[[G0685]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| solemn affirmation | <big><span class="asgreek">ενόρκιον</span></big> <sup><small><small>[[G7258]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> giving | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your thigh | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to miscarry, | <big><span class="asgreek">διαπεπτωκότα</span></big> <sup><small><small>[[G6863]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your belly | <big><span class="asgreek">κοιλίαν</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to bloat; | <big><span class="asgreek">πεπρησμένην</span></big> <sup><small><small>[[G8882]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall bind | **<big>[[G3726\|ορκιεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| oaths | **<big>[[G3727\|όρκοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this imprecation. | **<big>[[G0685\|αράς]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| woman, | **<big>[[G1135\|γυναικί]]</big>** |
+| appoint | **<big>[[G1325\|δώη]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| a curse | **<big>[[G0685\|αρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| solemn affirmation | **<big>[[G7258\|ενόρκιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> giving | **<big>[[G1325\|δούναι]]</big>** **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of your thigh | **<big>[[G3382\|μηρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to miscarry, | **<big>[[G6863\|διαπεπτωκότα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your belly | **<big>[[G2836\|κοιλίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to bloat; | **<big>[[G8882\|πεπρησμένην]]</big>** |
 [[Num.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.20|<< Numbers 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.22|Numbers 5:22 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And the officers which [were] over thousands of the host, the captains of thousa
 Then the officers who were over the units of the army—the commanders of thousands and of hundreds—approached Moses<small><sub>**MT:**</sub></small>
 [[Num.31.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.49|Numbers 31:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came forward | <big><span class="asgreek">προσήλθον</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| placed | <big><span class="asgreek">καθεστάμενοι</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commanders | <big><span class="asgreek">χιλιαρχίας</span></big> <sup><small><small>[[G9729]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force -- | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| commanders of thousands, | <big><span class="asgreek">χιλίαρχοι</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of hundreds. | <big><span class="asgreek">εκατόνταρχοι</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came forward | **<big>[[G4334\|προσήλθον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| placed | **<big>[[G2525\|καθεστάμενοι]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| commanders | **<big>[[G9729\|χιλιαρχίας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force -- | **<big>[[G1411\|δυνάμεως]]</big>** |
+| commanders of thousands, | **<big>[[G5506\|χιλίαρχοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of hundreds. | **<big>[[G1543\|εκατόνταρχοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
 [[Num.31.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.49|Numbers 31:49 >>]]</td></tr></table>
 
 

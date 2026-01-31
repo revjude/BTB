@@ -7,44 +7,44 @@ And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the so
 There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah. Then Jehoash went to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section of four hundred cubits.<small><sub>**MT:**</sub></small>
 [[2Kgs.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.12|<< 2 Kings 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.14|2 Kings 14:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amaziah | <big><span class="asgreek">Αμεσίαν</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahaziah | <big><span class="asgreek">Οχοζίου</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| seized | <big><span class="asgreek">συνέλαβεν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Beth-shemesh. | <big><span class="asgreek">Βαιθσαμίς</span></big> <sup><small><small>[[H1053]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| demolished | <big><span class="asgreek">καθείλεν</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχει</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| corner -- | <big><span class="asgreek">γωνίας</span></big> <sup><small><small>[[G1137]]</small></small></sup> |
-| four hundred | <big><span class="asgreek">τετρακοσίους</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
-| cubits. | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Amaziah | **<big>[[H0558\|Αμεσίαν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ahaziah | **<big>[[H0274\|Οχοζίου]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| seized | **<big>[[G4815\|συνέλαβεν]]</big>** |
+| Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Beth-shemesh. | **<big>[[H1053\|Βαιθσαμίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he came | **<big>[[G2064\|ήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| demolished | **<big>[[G2507\|καθείλεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| wall | **<big>[[G5038\|τείχει]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| corner -- | **<big>[[G1137\|γωνίας]]</big>** |
+| four hundred | **<big>[[G5071\|τετρακοσίους]]</big>** |
+| cubits. | **<big>[[G4083\|πήχεις]]</big>** |
 [[2Kgs.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.12|<< 2 Kings 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.14|2 Kings 14:14 >>]]</td></tr></table>
 
 

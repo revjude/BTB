@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עוּר‎</span></big> **ʻûwr** <small>*(oor)*</small> ==**be exposed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עוּר‎</span></big>** **ʻûwr** <small>*(oor)*</small> ==**be exposed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be made naked.

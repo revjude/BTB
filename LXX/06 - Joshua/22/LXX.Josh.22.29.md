@@ -7,48 +7,48 @@ God forbid that we should rebel against the LORD, and turn this day from followi
 Far be it from us to rebel against the LORD and turn away from Him today by building an altar for burnt offerings, grain offerings, or sacrifices, other than the altar of the LORD our God, which stands before His tabernacle.”<small><sub>**MT:**</sub></small>
 [[Josh.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May it not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">γένοιτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| for us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to leave | <big><span class="asgreek">αποστήναι</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to turn away | <big><span class="asgreek">αποστραφήναι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| today's | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yield \[offerings\], | <big><span class="asgreek">καρπώμασι</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices, | <big><span class="asgreek">θυσίαις</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of deliverance, | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| except for | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May it not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1096\|γένοιτο]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| for us | **<big>[[G1473\|ημάς]]</big>** |
+| to leave | **<big>[[G0868\|αποστήναι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to turn away | **<big>[[G0654\|αποστραφήναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| today's | **<big>[[G4594\|σήμερον]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| yield \[offerings\], | **<big>[[G7806\|καρπώμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| sacrifices, | **<big>[[G2378\|θυσίαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of deliverance, | **<big>[[G4992\|σωτηρίου]]</big>** |
+| except for | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his tent. | **<big>[[G4633\|σκηνής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Josh.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
 

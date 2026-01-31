@@ -7,26 +7,26 @@ Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do:
 ‘Thus Ezekiel will be a sign for you; you will do everything that he has done. When this happens, you will know that I am the Lord GOD.’<small><sub>**MT:**</sub></small>
 [[Ezek.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.23|<< Ezekiel 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.25|Ezekiel 24:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezekiel will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Ιεζεκιήλ</span></big> <sup><small><small>[[H3168]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a portent; | <big><span class="asgreek">τέρας</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you shall do. | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| these \[things\] should come, | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall realize | <big><span class="asgreek">επιγνώσεσθε</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| that | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ezekiel will be | **<big>[[G1510\|έσται]]</big>** **<big>[[H3168\|Ιεζεκιήλ]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a portent; | **<big>[[G5059\|τέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| you shall do. | **<big>[[G4160\|ποιήσετε]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| these \[things\] should come, | **<big>[[G2064\|έλθη]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall realize | **<big>[[G1921\|επιγνώσεσθε]]</big>** |
+| that | **<big>[[G1360\|διότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.23|<< Ezekiel 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.25|Ezekiel 24:25 >>]]</td></tr></table>
 
 

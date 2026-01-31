@@ -7,29 +7,29 @@ And Judah also shall fight at Jerusalem; and the wealth of all the heathen round
 Judah will also fight at Jerusalem, and the wealth of all the surrounding nations will be collected—gold, silver, and apparel in great abundance.<small><sub>**MT:**</sub></small>
 [[Zech.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.13|<< Zechariah 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.15|Zechariah 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| shall deploy | <big><span class="asgreek">παρατάξεται</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem; | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall bring together | <big><span class="asgreek">συνάξει</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| round about -- | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clothes | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| abundance | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| shall deploy | **<big>[[G8641\|παρατάξεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem; | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall bring together | **<big>[[G4863\|συνάξει]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| strength | **<big>[[G2479\|ισχύν]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| round about -- | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver, | **<big>[[G0694\|αργύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clothes | **<big>[[G2441\|ιματισμόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| abundance | **<big>[[G4128\|πλήθος]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Zech.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.13|<< Zechariah 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.15|Zechariah 14:15 >>]]</td></tr></table>
 
 

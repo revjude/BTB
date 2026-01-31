@@ -7,44 +7,44 @@ And when Ahithophel saw that his counsel was not followed, he saddled [his] ass,
 When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He put his affairs in order and hanged himself. So he died and was buried in his father’s tomb.<small><sub>**MT:**</sub></small>
 [[2Sam.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.22|<< 2 Samuel 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.24|2 Samuel 17:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahithophel | <big><span class="asgreek">Αχιτόφελ</span></big> <sup><small><small>[[H0302]]</small></small></sup> |
-| knew | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he had not taken | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his counsel, | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he saddled | <big><span class="asgreek">επέσαξε</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his donkey, | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his household, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hung himself, | <big><span class="asgreek">απήγξατο</span></big> <sup><small><small>[[G0519]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entombed \[him\] | <big><span class="asgreek">ετάφη</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burying-place | <big><span class="asgreek">τάφω</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahithophel | **<big>[[H0302\|Αχιτόφελ]]</big>** |
+| knew | **<big>[[G1492\|είδεν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he had not taken | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|γέγονεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his counsel, | **<big>[[G1012\|βουλή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he saddled | **<big>[[G7442\|επέσαξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his donkey, | **<big>[[G3688\|όνον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rose up, | **<big>[[G0450\|ανέστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his city. | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his household, | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he hung himself, | **<big>[[G0519\|απήγξατο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| died. | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entombed \[him\] | **<big>[[G2290\|ετάφη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| burying-place | **<big>[[G5028\|τάφω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.22|<< 2 Samuel 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.24|2 Samuel 17:24 >>]]</td></tr></table>
 
 

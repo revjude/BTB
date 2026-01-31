@@ -7,40 +7,40 @@ So David and his men went to Keilah, and fought with the Philistines, and brough
 Then David and his men went to Keilah, fought against the Philistines, and carried off their livestock, striking them with a mighty blow. So David saved the people of Keilah.<small><sub>**MT:**</sub></small>
 [[1Sam.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.4|<< 1 Samuel 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.6|1 Samuel 23:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David went, | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Keilah. | <big><span class="asgreek">Κεϊλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he waged war against | <big><span class="asgreek">επολέμησε</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλοις</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fled | <big><span class="asgreek">έφυγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took away | <big><span class="asgreek">απήγαγε</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cattle, | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beating | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| with a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David delivered | <big><span class="asgreek">έσωσε</span></big> <sup><small><small>[[G4982]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Keilah. | <big><span class="asgreek">Κεϊλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David went, | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men, | **<big>[[G0435\|άνδρες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Keilah. | **<big>[[H7084\|Κεϊλά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he waged war against | **<big>[[G4170\|επολέμησε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fled | **<big>[[G5343\|έφυγον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| his face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took away | **<big>[[G0520\|απήγαγε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their cattle, | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| beating | **<big>[[G4127\|πληγήν]]</big>** |
+| with a great | **<big>[[G3173\|μεγάλην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David delivered | **<big>[[G4982\|έσωσε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in Keilah. | **<big>[[H7084\|Κεϊλά]]</big>** |
 [[1Sam.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.4|<< 1 Samuel 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.6|1 Samuel 23:6 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ And Mordecai went out from the presence of the king in royal apparel of blue and
 Mordecai went out from the presence of the king in royal garments of blue and white, with a large gold crown and a purple robe of fine linen. And the city of Susa shouted and rejoiced.<small><sub>**MT:**</sub></small>
 [[Esth.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.14|<< Esther 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.16|Esther 8:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| robed | <big><span class="asgreek">εστολισμένος</span></big> <sup><small><small>[[G9188]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| royal | <big><span class="asgreek">βασιλικήν</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
-| apparel, | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| having | <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a diadem | <big><span class="asgreek">διάδημα</span></big> <sup><small><small>[[G1238]]</small></small></sup> |
-| fine line | <big><span class="asgreek">βύσσινον</span></big> <sup><small><small>[[G1039]]</small></small></sup> |
-| of purple | <big><span class="asgreek">πορφυρούν</span></big> <sup><small><small>[[G4210]]</small></small></sup> |
-| beholding | <big><span class="asgreek">ιδόντες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shushan | <big><span class="asgreek">Σούσοις</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
-| rejoiced. | <big><span class="asgreek">εχάρησαν</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίος]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| robed | **<big>[[G9188\|εστολισμένος]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| royal | **<big>[[G0937\|βασιλικήν]]</big>** |
+| apparel, | **<big>[[G4749\|στολήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a crown | **<big>[[G4735\|στέφανον]]</big>** |
+| having | **<big>[[G2192\|έχων]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a diadem | **<big>[[G1238\|διάδημα]]</big>** |
+| fine line | **<big>[[G1039\|βύσσινον]]</big>** |
+| of purple | **<big>[[G4210\|πορφυρούν]]</big>** |
+| beholding | **<big>[[G1492\|ιδόντες]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shushan | **<big>[[H7800\|Σούσοις]]</big>** |
+| rejoiced. | **<big>[[G5463\|εχάρησαν]]</big>** |
 [[Esth.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.14|<< Esther 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.16|Esther 8:16 >>]]</td></tr></table>
 
 

@@ -4,8 +4,8 @@ People from Anam\(?\)
 
 The <span class='tipnrhighlight'>Anamim</span> were a people group descended from Mizraim, the son of Ham, and are listed among the nations in the Table of Nations.
 - People from Anam\(?\) of the Egyptians, first mentioned at [[Gen.10.13|Gen.10.13]]; 
-- only referred to as Anamim<[[H6047]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ים</span>\); 
-- descended from Egypt<[[H4714H]]> along with Ludim<[[H3866G]]>, Lehabim<[[H3853]]>, Naphtuhim<[[H5320]]>, Pathrusim<[[H6625]]>, Casluhim<[[H3695]]> and Caphtorim<[[H3732]]>.
+- only referred to as Anamim **<big>[[H6047|עֲנָמִים]]</big>**; 
+- descended from Egypt **<big>[[H4714|מִצְרַיִם]]</big>** along with Ludim **<big>[[H3866|לוּדִי]]</big>**, Lehabim **<big>[[H3853|לְהָבִים]]</big>**, Naphtuhim **<big>[[H5320|נַפְתֻּחִים]]</big>**, Pathrusim **<big>[[H6625|פַּתְרֻסִי]]</big>**, Casluhim **<big>[[H3695|כַּסְלֻחִים]]</big>** and Caphtorim **<big>[[H3732|כַּפְתֹּרִי]]</big>**.
 
 The Anamim were a people group mentioned in the Table of Nations, a genealogical record found in both Genesis and 1 Chronicles. They are listed as descendants of Mizraim, who was a son of Ham and grandson of Noah. The Table of Nations provides insight into the various people groups that emerged after the Flood and their geographical distribution. 
 
@@ -13,8 +13,8 @@ Little is known about the specific identity or location of the Anamim, as they a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anamim <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6047) <small>*Hebrew*</small> | 2x | [[Gen.10.13] & [1Ch.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anamim\*\|reference=Gen.10.13;1Ch.1.11) |
-All Strong's for **Anamim**: \[[[H6047]]\]
+| Anamim <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6047) | 2x | [[Gen.10.13] & [1Ch.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anamim\*\|reference=Gen.10.13;1Ch.1.11) |
+All entries for **Anamim**:  **<big>[[H6047|עֲנָמִים]]</big>**
 #### Related Profiles:
 - **[Egypt](H4714H)** (father)
 - **[Ludim](H3866G)** (sibling)

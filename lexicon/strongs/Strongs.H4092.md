@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְדָנִי‎</span></big> **Mᵉdânîy** <small>*(med-aw-nee')*</small> ==**Midianite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎מִדְיָנִי‎</span><sup><small>[[H4084]]</small></sup></small>
+**<big><span class="ashebrew">‎מְדָנִי‎</span></big>** **Mᵉdânîy** <small>*(med-aw-nee')*</small> ==**Midianite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>a variation of **<big>[[H4084|‎מִדְיָנִי‎]]</big>**</small>
 
 $\quad$ Midianite.
 - § Midianite = *see Midian "strife"*

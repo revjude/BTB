@@ -6,17 +6,17 @@ But Joseph replied, “Do not be afraid. Am I in the place of God?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.18|<< Genesis 50:18]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.20|Genesis 50:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֧אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>אֲלֵ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הֶ֛ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.le. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֖ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you fear  | <span class="ashebrew"><big>תִּירָ֑אוּ </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ti.Ra.'u <small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ in place of  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>תַ֥חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] I  | <span class="ashebrew"><big>אָֽנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| 'a.le.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֖ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you fear  |**<big>&#8207;[[H3372G\|תִּירָ֑אוּ]]&#8207; </big>**| ti.Ra.'u<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ in place of  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H8478H\|תַ֥חַת]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] I  |**<big>&#8207;[[H0589\|אָֽנִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.18|<< Genesis 50:18]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.20|Genesis 50:20 >>]]</td></tr></table>
 
 

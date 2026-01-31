@@ -6,27 +6,27 @@ If thieves came to thee, if robbers by night, (how art thou cut off!) would they
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.4|<< Obadiah 1:4]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.6|Obadiah 1:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thieves  | <span class="ashebrew"><big>גַּנָּבִ֤ים </big></span><small><small><sup>[[H1590]]</sup></small></small> &#8207;| ga.na.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they came  | <span class="ashebrew"><big>בָּאֽוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ba.'u- <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| destroyers of  | <span class="ashebrew"><big>שׁ֣וֹדְדֵי </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| Sho.dei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| night  | <span class="ashebrew"><big>לַ֔יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how!  | <span class="ashebrew"><big>אֵ֣יךְ </big></span><small><small><sup>[[H0349A]]</sup></small></small> &#8207;| 'eikh <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be destroyed  | <span class="ashebrew"><big>נִדְמֵ֔יתָה </big></span><small><small><sup>[[H1820]]</sup></small></small> &#8207;| nid.Mei.tah <small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ל֥וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will they steal  | <span class="ashebrew"><big>יִגְנְב֖וּ </big></span><small><small><sup>[[H1589]]</sup></small></small> &#8207;| yig.ne.Vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sufficiency their  | <span class="ashebrew"><big>דַּיָּ֑ </big></span><small><small><sup>[[H1767]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| dai.Ya <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grape gatherers  | <span class="ashebrew"><big>בֹּֽצְרִים֙ </big></span><small><small><sup>[[H1219]]</sup></small></small> &#8207;| bo.tze.Rim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they came  | <span class="ashebrew"><big>בָּ֣אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ל֖וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will they leave  | <span class="ashebrew"><big>יַשְׁאִ֥ירוּ </big></span><small><small><sup>[[H7604]]</sup></small></small> &#8207;| yash.'I.ru <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gleanings  | <span class="ashebrew"><big>עֹלֵלֽוֹת </big></span><small><small><sup>[[H5955]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| o.le.Lot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thieves  |**<big>&#8207;[[H1590\|גַּנָּבִ֤ים]]&#8207; </big>**| ga.na.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came  |**<big>&#8207;[[H0935G\|בָּאֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.'u-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destroyers of  |**<big>&#8207;[[H7703\|שׁ֣וֹדְדֵי]]&#8207; </big>**| Sho.dei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night  |**<big>&#8207;[[H3915\|לַ֔יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H0349A\|אֵ֣יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be destroyed  |**<big>&#8207;[[H1820\|נִדְמֵ֔יתָה]]&#8207; </big>**| nid.Mei.tah<small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֥וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will they steal  |**<big>&#8207;[[H1589\|יִגְנְב֖וּ]]&#8207; </big>**| yig.ne.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sufficiency their  |**<big>&#8207;[[H1767\|דַּיָּ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| dai.Ya<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grape gatherers  |**<big>&#8207;[[H1219\|בֹּֽצְרִים֙]]&#8207; </big>**| bo.tze.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came  |**<big>&#8207;[[H0935G\|בָּ֣אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֖וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will they leave  |**<big>&#8207;[[H7604\|יַשְׁאִ֥ירוּ]]&#8207; </big>**| yash.'I.ru<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gleanings  |**<big>&#8207;[[H5955\|עֹלֵלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.le.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.4|<< Obadiah 1:4]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.6|Obadiah 1:6 >>]]</td></tr></table>
 
 

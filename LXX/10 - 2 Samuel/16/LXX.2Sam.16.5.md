@@ -10,34 +10,34 @@ And when king David came to Bahurim, behold, thence came out a man of the family
 As King David approached Bahurim, a man from the family of the house of Saul was just coming out. His name was Shimei son of Gera, and as he approached, he kept yelling out curses.<small><sub>**MT:**</sub></small>
 [[2Sam.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Bahurim. | <big><span class="asgreek">Βαουρίμ</span></big> <sup><small><small>[[H0980]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] family | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Shimei, | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gera. | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> |
-| He came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| coming | <big><span class="asgreek">εκπορευόμενος</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cursing, | <big><span class="asgreek">καταρώμενος</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| Bahurim. | **<big>[[H0980\|Βαουρίμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| came forth | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] family | **<big>[[G3965\|πατριάς]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[was\] Shimei, | **<big>[[H8096\|Σεμεϊ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Gera. | **<big>[[H1617\|Γηρά]]</big>** |
+| He came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| coming | **<big>[[G1607\|εκπορευόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cursing, | **<big>[[G2672\|καταρώμενος]]</big>** |
 [[2Sam.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
 
 

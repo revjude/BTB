@@ -7,46 +7,46 @@ And Abner said unto David, I will arise and go, and will gather all Israel unto 
 Then Abner said to David, “Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires.” So David dismissed Abner, and he went in peace.<small><sub>**MT:**</sub></small>
 [[2Sam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.20|<< 2 Samuel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.22|2 Samuel 3:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abner said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| I will arise | <big><span class="asgreek">αναστήσομαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go, | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gather together | <big><span class="asgreek">συναθροίσω</span></big> <sup><small><small>[[G4867]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will ordain | <big><span class="asgreek">διαθήσομαι</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall reign | <big><span class="asgreek">βασιλεύσεις</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| desires | <big><span class="asgreek">επιθυμεί</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sent away | <big><span class="asgreek">εξαπέστειλε</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abner, | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace. | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abner said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0074\|Αβενήρ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| I will arise | **<big>[[G0450\|αναστήσομαι]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go, | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gather together | **<big>[[G4867\|συναθροίσω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my master | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will ordain | **<big>[[G1303\|διαθήσομαι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| a covenant, | **<big>[[G1242\|διαθήκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall reign | **<big>[[G0936\|βασιλεύσεις]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| whom | **<big>[[G3739\|οις]]</big>** |
+| desires | **<big>[[G1937\|επιθυμεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sent away | **<big>[[G1821\|εξαπέστειλε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Abner, | **<big>[[H0074\|Αβενήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went | **<big>[[G4198\|επορεύθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| peace. | **<big>[[G1515\|ειρήνη]]</big>** |
 [[2Sam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.20|<< 2 Samuel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.22|2 Samuel 3:22 >>]]</td></tr></table>
 
 

@@ -1,4 +1,2 @@
-<span class="ashebrew">‎חֹ֫דֶשׁ‎</span> <small>***(cho.desh)***</small> ==**Hodesh**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A womanof the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.9|1Ch.8.9]] married to Shaharaim ([[H7842]])
--  mother of: Jobab ([[H3103J]]), Zibia ([[H6644]]), Mesha ([[H4331]]), Malcam ([[H4445A]]), Jeuz ([[H3263]]), Sachia ([[H7634]]) and Mirmah ([[H4821]])
-
+- A womanof the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.9|1Ch.8.9]] married to Shaharaim (**<big>[[H7842|שַׁחֲרַיִם]]</big>**)
+-  mother of: Jobab (**<big>[[H3103J|יוֹבָב]]</big>**), Zibia (**<big>[[H6644|צִבְיָא]]</big>**), Mesha (**<big>[[H4331|מֵישָׁא]]</big>**), Malcam (**<big>[[H4445A|מַלְכָּם]]</big>**), Jeuz (**<big>[[H3263|יְעוּץ]]</big>**), Sachia (**<big>[[H7634|שׇׁבְיָה]]</big>**) and Mirmah (**<big>[[H4821|מִרְמָה]]</big>**)

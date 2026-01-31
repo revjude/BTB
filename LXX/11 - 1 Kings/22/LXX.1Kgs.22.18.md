@@ -7,28 +7,28 @@ And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would 
 Then the king of Israel said to Jehoshaphat, “Did I not tell you that he never prophesies good for me, but only bad?”<small><sub>**MT:**</sub></small>
 [[1Kgs.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.17|<< 1 Kings 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.19|1 Kings 22:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Did I not say | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ειπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| would not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφητεύει</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| unto me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">καλά</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| bad? | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| Did I not say | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2036\|ειπα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| would not | **<big>[[G3756\|ου]]</big>** |
+| prophesy | **<big>[[G4395\|προφητεύει]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| unto me | **<big>[[G1473\|εμοί]]</big>** |
+| good \[things\] | **<big>[[G2570\|καλά]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| bad? | **<big>[[G2556\|κακά]]</big>** |
 [[1Kgs.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.17|<< 1 Kings 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.19|1 Kings 22:19 >>]]</td></tr></table>
 
 

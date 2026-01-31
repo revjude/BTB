@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Anathoth</span>, a Levitical city in Benjamin, notable as the birthplace of Jeremiah.
 - A location first mentioned at [[Josh.21.18|Jos.21.18]]; 
-- referred to as Anathoth<[[H6068G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\), or Anathoth<[[H6069]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>נ</span>ְּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Anathoth **<big>[[H6068|עֲנָתוֹת]]</big>**, or Anathoth **<big>[[H6069|עַנְתֹתִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.81291276898118,35.26349894226843&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The biblical references to Anathoth highlight its significance as a Levitical ci
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anathoth | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6068G) <small>*Hebrew*</small> | 13x | [[Jos.21.18] ... [Jer.32.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anathoth\*\|reference=Jos.21.18;1Ki.2.26;1Ch.6.60;Ezr.2.23;Neh.7.27;Neh.11.32;Isa.10.30;Jer.1.1;Jer.11.21;Jer.11.23;Jer.32.7;Jer.32.8;Jer.32.9) |
-| Anathoth | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>נ</span>ְּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H6069) <small>*Hebrew*</small> | 5x | [[2Sa.23.27] ... [Jer.29.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anathoth\*\|reference=2Sa.23.27;1Ch.11.28;1Ch.12.3;1Ch.27.12;Jer.29.27) |
-All Strong's for **Anathoth**: \[[[H6068G]]\] \[[[H6069]]\]
+| Anathoth | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6068G) | 13x | [[Jos.21.18] ... [Jer.32.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anathoth\*\|reference=Jos.21.18;1Ki.2.26;1Ch.6.60;Ezr.2.23;Neh.7.27;Neh.11.32;Isa.10.30;Jer.1.1;Jer.11.21;Jer.11.23;Jer.32.7;Jer.32.8;Jer.32.9) |
+| Anathoth | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>נ</span>ְּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H6069) | 5x | [[2Sa.23.27] ... [Jer.29.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anathoth\*\|reference=2Sa.23.27;1Ch.11.28;1Ch.12.3;1Ch.27.12;Jer.29.27) |
+All entries for **Anathoth**:  **<big>[[H6068|עֲנָתוֹת]]</big>** ☩  **<big>[[H6069|עַנְתֹתִי]]</big>**

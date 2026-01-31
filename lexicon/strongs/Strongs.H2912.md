@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָחַן‎</span></big> **ṭâchan** <small>*(taw-khan')*</small> ==**to grind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָחַן‎</span></big>** **ṭâchan** <small>*(taw-khan')*</small> ==**to grind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ grind(-er).

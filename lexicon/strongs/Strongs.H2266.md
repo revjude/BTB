@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָבַר‎</span></big> **châbar** <small>*(khaw-bar')*</small> ==**to unite**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָבַר‎</span></big>** **châbar** <small>*(khaw-bar')*</small> ==**to unite**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ charm(-er), be compact, couple (together), have fellowship with, heap up, join (self, together), league.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **1c2)** to be joined together
 $\quad$ **1d)** (Hiphil) to join together, pile up (words)
 $\quad$ **1e)** (Hithpael) to join oneself to, make an alliance, league together
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">ἐξαρτίζω</span><sup><small>[[G1822]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">κοινωνέω</span><sup><small>[[G2841]]</small></sup> · <span class="asgreek">μεταβάλλω</span><sup><small>[[G3328]]</small></sup> · <span class="asgreek">μετοχή</span><sup><small>[[G3352]]</small></sup> · <span class="asgreek">συμφύω</span><sup><small>[[G4855]]</small></sup> · <span class="asgreek">συνέχω</span><sup><small>[[G4912]]</small></sup> · <span class="asgreek">συντάσσω</span><sup><small>[[G4929]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G1822|ἐξαρτίζω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2841|κοινωνέω]]</big>** · **<big>[[G3328|μεταβάλλω]]</big>** · **<big>[[G3352|μετοχή]]</big>** · **<big>[[G4855|συμφύω]]</big>** · **<big>[[G4912|συνέχω]]</big>** · **<big>[[G4929|συντάσσω]]</big>**

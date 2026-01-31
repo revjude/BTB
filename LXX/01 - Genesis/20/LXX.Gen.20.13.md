@@ -7,40 +7,40 @@ And it came to pass, when God caused me to wander from my father’s house, that
 So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’”<small><sub>**MT:**</sub></small>
 [[Gen.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.12|<< Genesis 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.14|Genesis 20:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| led | <big><span class="asgreek">εξήγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| you will do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I enter; | <big><span class="asgreek">εισέλθωμεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| you say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| of me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| He is my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And it happened | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| led | **<big>[[G1806\|εξήγαγε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| This | **<big>[[G3778\|ταύτην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| you will do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I enter; | **<big>[[G1525\|εισέλθωμεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| you say | **<big>[[G2036\|είπον]]</big>** |
+| of me | **<big>[[G1473\|εμέ]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| He is my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|εστίν]]</big>** |
 [[Gen.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.12|<< Genesis 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.14|Genesis 20:14 >>]]</td></tr></table>
 
 

@@ -9,34 +9,34 @@ Let all their wickedness come before thee; and do unto them, as thou hast done u
 Let all their wickedness come before You, and deal with them as You have dealt with me because of all my transgressions. For my groans are many, and my heart is faint.<small><sub>**MT:**</sub></small>
 [[Lam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.21|<< Lamentations 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.1|Lamentations 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΘΑΥ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΘΑΥ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| enter | <big><span class="asgreek">εισέλθοι</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their evils | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your face. | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glean | <big><span class="asgreek">επιφύλλισον</span></big> <sup><small><small>[[G7469]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a gleaning | <big><span class="asgreek">επιφυλλίδα</span></big> <sup><small><small>[[G7470]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my sins. | <big><span class="asgreek">αμαρτημάτων</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[are\] many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my moanings | <big><span class="asgreek">στεναγμοί</span></big> <sup><small><small>[[G4726]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| frets. | <big><span class="asgreek">λυπείται</span></big> <sup><small><small>[[G3076]]</small></small></sup> |
+| ΘΑΥ <sup><small>[acrostic title]</small></sup> |  |
+| enter | **<big>[[G1525\|εισέλθοι]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their evils | **<big>[[G2549\|κακία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| before | **<big>[[G2596\|κατά]]</big>** |
+| your face. | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| glean | **<big>[[G7469\|επιφύλλισον]]</big>** |
+| them! | **<big>[[G1473\|αυτοίς]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| a gleaning | **<big>[[G7470\|επιφυλλίδα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my sins. | **<big>[[G0265\|αμαρτημάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[are\] many | **<big>[[G4183\|πολλοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my moanings | **<big>[[G4726\|στεναγμοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| frets. | **<big>[[G3076\|λυπείται]]</big>** |
 [[Lam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.21|<< Lamentations 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.1|Lamentations 2:1 >>]]</td></tr></table>
 
 

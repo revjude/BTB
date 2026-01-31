@@ -4,9 +4,9 @@ Woman living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Jahdai</span> was one of the descendants of Caleb, the son of Jephunneh \([[1Chr.2.47|1Ch.2.47]]\).
 - A woman from the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.2.47|1Ch.2.47]]; 
-- only referred to as Jahdai<[[H3056]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ה</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>י</span>\); 
--  wife of Caleb<[[H3612H]]>; 
--  mother of Regem<[[H7276]]>, Jotham<[[H3147I]]>, Geshan<[[H1529]]>, Pelet<[[H6404G]]>, Ephah<[[H5891I]]> and Shaaph<[[H8174G]]>.
+- only referred to as Jahdai **<big>[[H3056|יֶהְדַי]]</big>**; 
+-  wife of Caleb **<big>[[H3612|כָּלֵב]]</big>**; 
+-  mother of Regem **<big>[[H7276|רֶגֶם]]</big>**, Jotham **<big>[[H3147|יוֹתָם]]</big>**, Geshan **<big>[[H1529|גֵּישָׁן]]</big>**, Pelet **<big>[[H6404|פֶּלֶט]]</big>**, Ephah **<big>[[H5891|עֵיפָה]]</big>** and Shaaph **<big>[[H8174|שַׁעַף]]</big>**.
 
 Jahdai is mentioned briefly in [[1Chr.2.47|1 Chronicles 2:47]] as one of the descendants of Caleb, the son of Jephunneh. This passage is part of a larger genealogical record of the tribe of Judah, focusing particularly on the descendants of Hezron, one of the sons of Perez \(1Ch.2.3-55\). 
 
@@ -18,8 +18,8 @@ No other specific details are provided about Jahdai's life, occupation, or role 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahdai | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ה</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>י</span>](H3056) <small>*Hebrew*</small> | 1x | [1Ch.2.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahdai\*\|reference=1Ch.2.47) |
-All Strong's for **Jahdai**: \[[[H3056]]\]
+| Jahdai | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ה</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>י</span>](H3056) | 1x | [1Ch.2.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahdai\*\|reference=1Ch.2.47) |
+All entries for **Jahdai**:  **<big>[[H3056|יֶהְדַי]]</big>**
 #### Related Profiles:
 - **[Caleb](H3612H)** (spouse)
 - **[Regem](H7276)** (child)

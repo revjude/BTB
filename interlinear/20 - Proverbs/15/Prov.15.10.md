@@ -6,15 +6,15 @@ Discipline is harsh for him who leaves the path; he who hates correction will di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.9|<< Proverbs 15:9]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.11|Proverbs 15:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| discipline  | <span class="ashebrew"><big>מוּסָ֣ר </big></span><small><small><sup>[[H4148G]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bad  | <span class="ashebrew"><big>רָ֭ע </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] for [one who] forsakes  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֹזֵ֣ב </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Zev <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] path  | <span class="ashebrew"><big>אֹ֑רַח </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| 'O.rach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] hates  | <span class="ashebrew"><big>שׂוֹנֵ֖א </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| so.Ne' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| correction  | <span class="ashebrew"><big>תוֹכַ֣חַת </big></span><small><small><sup>[[H8433B]]</sup></small></small> &#8207;| to.Kha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  | <span class="ashebrew"><big>יָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| discipline  |**<big>&#8207;[[H4148G\|מוּסָ֣ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bad  |**<big>&#8207;[[H7451A\|רָ֭ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] for [one who] forsakes  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5800A\|עֹזֵ֣ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Zev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] path  |**<big>&#8207;[[H0734\|אֹ֑רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] hates  |**<big>&#8207;[[H8130\|שׂוֹנֵ֖א]]&#8207; </big>**| so.Ne'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correction  |**<big>&#8207;[[H8433B\|תוֹכַ֣חַת]]&#8207; </big>**| to.Kha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  |**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.9|<< Proverbs 15:9]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.11|Proverbs 15:11 >>]]</td></tr></table>
 
 

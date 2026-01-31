@@ -7,49 +7,49 @@ And strangers, the terrible of the nations, have cut him off, and have left him:
 Foreigners, the most ruthless of the nations, cut it down and left it. Its branches have fallen on the mountains and in every valley; its boughs lay broken in all the earth’s ravines. And all the peoples of the earth left its shade and abandoned it.<small><sub>**MT:**</sub></small>
 [[Ezek.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.11|<< Ezekiel 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.13|Ezekiel 31:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| utterly destroyed | <big><span class="asgreek">εξωλόθρευσαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strangers | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| pestilent ones | <big><span class="asgreek">λοιμοί</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they threw him down | <big><span class="asgreek">κατέβαλον αυτόν</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains. | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravines | <big><span class="asgreek">φάραγξιν</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tender branches | <big><span class="asgreek">κλάδοι</span></big> <sup><small><small>[[G2798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were broken | <big><span class="asgreek">συνετρίβη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his trunks | <big><span class="asgreek">στελέχη</span></big> <sup><small><small>[[G9159]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβησαν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his protection | <big><span class="asgreek">σκέπης</span></big> <sup><small><small>[[G9098]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they dashed | <big><span class="asgreek">ηδάφισαν</span></big> <sup><small><small>[[G1474]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| utterly destroyed | **<big>[[G1842\|εξωλόθρευσαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| strangers | **<big>[[G0245\|αλλότριοι]]</big>** |
+| pestilent ones | **<big>[[G3061\|λοιμοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] nations. | **<big>[[G1484\|εθνών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they threw him down | **<big>[[G2598\|κατέβαλον αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains. | **<big>[[G3735\|ορέων]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| ravines | **<big>[[G5327\|φάραγξιν]]</big>** |
+| fell | **<big>[[G4098\|έπεσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his tender branches | **<big>[[G2798\|κλάδοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were broken | **<big>[[G4937\|συνετρίβη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his trunks | **<big>[[G9159\|στελέχη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| plain | **<big>[[G8676\|πεδίω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατέβησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his protection | **<big>[[G9098\|σκέπης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they dashed | **<big>[[G1474\|ηδάφισαν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ezek.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.11|<< Ezekiel 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.13|Ezekiel 31:13 >>]]</td></tr></table>
 
 

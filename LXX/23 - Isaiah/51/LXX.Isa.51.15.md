@@ -7,23 +7,23 @@ But I [am] the LORD thy God, that divided the sea, whose waves roared: The LORD 
 For I am the LORD your God who stirs up the sea so that its waves roar—the LORD of Hosts is His name.<small><sub>**MT:**</sub></small>
 [[Isa.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.14|<< Isaiah 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.16|Isaiah 51:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| disturbing | <big><span class="asgreek">ταράσσων</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| resounding | <big><span class="asgreek">ηχών</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its waves. | <big><span class="asgreek">κύματα</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| \[is\] my name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| disturbing | **<big>[[G5015\|ταράσσων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| resounding | **<big>[[G2278\|ηχών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its waves. | **<big>[[G2949\|κύματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| \[is\] my name. | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μοι]]</big>** |
 [[Isa.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.14|<< Isaiah 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.16|Isaiah 51:16 >>]]</td></tr></table>
 
 

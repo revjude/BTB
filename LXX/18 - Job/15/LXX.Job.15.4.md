@@ -7,17 +7,17 @@ Yea, thou castest off fear, and restrainest prayer before God.
 But you even undermine the fear of God and hinder meditation before Him.<small><sub>**MT:**</sub></small>
 [[Job.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.3|<< Job 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.5|Job 15:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And did you not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| undo | <big><span class="asgreek">απεποιήσω</span></big> <sup><small><small>[[G6469]]</small></small></sup> |
-| fear, | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| and complete | <big><span class="asgreek">συνετελέσω</span></big> <sup><small><small>[[G4931]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιαύτα</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And did you not | **<big>[[G3756\|ου]]</big>** **<big>[[G2532\|και]]</big>** **<big>[[G1473\|συ]]</big>** |
+| undo | **<big>[[G6469\|απεποιήσω]]</big>** |
+| fear, | **<big>[[G5401\|φόβον]]</big>** |
+| and complete | **<big>[[G4931\|συνετελέσω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| sayings | **<big>[[G4487\|ρήματα]]</big>** |
+| such | **<big>[[G5108\|τοιαύτα]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
 [[Job.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.3|<< Job 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.5|Job 15:5 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎קֶדֶם‎</span></big> **qedem** <small>*(keh'-dem)*</small> ==**East**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">קֵדְמָה</span> **qêdᵉmâh** <small>*(kayd'-maw)*</small>; from <span class="ashebrew">‎קָדַם‎</span><sup><small>[[H6923]]</small></sup></small>
+**<big><span class="ashebrew">‎קֶדֶם‎</span></big>** **qedem** <small>*(keh'-dem)*</small> ==**East**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">קֵדְמָה</span></big>** **qêdᵉmâh** <small>*(kayd'-maw)*</small>; from **<big>[[H6923|‎קָדַם‎]]</big>**</small>
 
-$\quad$ aforetime, ancient (time), before, east (end, part, side, -ward), eternal, [idiom] ever(-lasting), forward, old, past. Compare <span class="ashebrew">‎קִדְמָה‎</span><sup><small>[[H6926]]</small></sup>.
+$\quad$ aforetime, ancient (time), before, east (end, part, side, -ward), eternal, [idiom] ever(-lasting), forward, old, past. Compare **<big>[[H6926|‎קִדְמָה‎]]</big>**.
 - ***the front***, ***of place*** (absolutely, the fore part, relatively the East) or ***time*** (antiquity)
 -  often used adverbially (before, anciently, eastward)
 
@@ -15,4 +15,4 @@ $\quad$ **1e)** east
 adv
 **2)** eastward, to or toward the East
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">ἀνατολή</span><sup><small>[[G0395]]</small></sup> · <span class="asgreek">ἀρχαῖος</span><sup><small>[[G0744]]</small></sup> · <span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup> · <span class="asgreek">ἔμπροσθεν</span><sup><small>[[G1715]]</small></sup> · <span class="asgreek">ἥλιος</span><sup><small>[[G2246]]</small></sup>
+<small>See Greek: </small>**<big>[[G0165|αἰών]]</big>** · **<big>[[G0395|ἀνατολή]]</big>** · **<big>[[G0744|ἀρχαῖος]]</big>** · **<big>[[G0746|ἀρχή]]</big>** · **<big>[[G1715|ἔμπροσθεν]]</big>** · **<big>[[G2246|ἥλιος]]</big>**

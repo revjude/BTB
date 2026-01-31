@@ -7,32 +7,32 @@ Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy Go
 Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you.<small><sub>**MT:**</sub></small>
 [[Deut.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.4|<< Deuteronomy 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.6|Deuteronomy 23:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to listen to | <big><span class="asgreek">εισακούσαι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Balaam; | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| converted | <big><span class="asgreek">μετέστρεψε</span></big> <sup><small><small>[[G3344]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curses | <big><span class="asgreek">κατάρας</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a blessing, | <big><span class="asgreek">ευλογίας</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| loved | <big><span class="asgreek">ηγάπησέ</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \Eit the | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to listen to | **<big>[[G1522\|εισακούσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Balaam; | **<big>[[G0903\|Βαλαάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| converted | **<big>[[G3344\|μετέστρεψε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| curses | **<big>[[G2671\|κατάρας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a blessing, | **<big>[[G2129\|ευλογίας]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| loved | **<big>[[G0025\|ηγάπησέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \Eit the | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.4|<< Deuteronomy 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.6|Deuteronomy 23:6 >>]]</td></tr></table>
 
 

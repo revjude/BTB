@@ -7,25 +7,25 @@ Then said Hezekiah unto Isaiah, Good [is] the word of the LORD which thou hast s
 But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “Will there not at least be peace and security in my lifetime?”<small><sub>**MT:**</sub></small>
 [[2Kgs.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.18|<< 2 Kings 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.20|2 Kings 20:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Isaiah, | <big><span class="asgreek">Ησαϊαν</span></big> <sup><small><small>[[G2268]]</small></small></sup> |
-| \[is\] good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he spoke, | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| let there be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| justice | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my days! | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hezekiah said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1478\|Εζεκίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Isaiah, | **<big>[[G2268\|Ησαϊαν]]</big>** |
+| \[is\] good | **<big>[[G0018\|αγαθός]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he spoke, | **<big>[[G2980\|ελάλησεν]]</big>** |
+| let there be | **<big>[[G1510\|έστω]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| justice | **<big>[[G1342\|δικαιοσύνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| my days! | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Kgs.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.18|<< 2 Kings 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.20|2 Kings 20:20 >>]]</td></tr></table>
 
 

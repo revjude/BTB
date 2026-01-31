@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָפָא‎</span></big> **râphâʼ** <small>*(raw-faw')*</small> ==**shade**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָפָא‎</span><sup><small>[[H7495]]</small></sup> in the sense of <span class="ashebrew">‎רָפָה‎</span><sup><small>[[H7503]]</small></sup></small>
+**<big><span class="ashebrew">‎רָפָא‎</span></big>** **râphâʼ** <small>*(raw-faw')*</small> ==**shade**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7495|‎רָפָא‎]]</big>** in the sense of **<big>[[H7503|‎רָפָה‎]]</big>**</small>
 
 $\quad$ dead, deceased.
 - properly, ***lax***, i.e. (figuratively) ***a ghost*** (as dead

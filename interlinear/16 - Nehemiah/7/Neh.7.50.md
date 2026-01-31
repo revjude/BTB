@@ -6,14 +6,14 @@ the descendants of Reaiah, the descendants of Rezin, the descendants of Nekoda,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.49|<< Nehemiah 7:49]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.51|Nehemiah 7:51 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reaiah  | <span class="ashebrew"><big>רְאָיָ֥ה </big></span><small><small><sup>[[H7211H]]</sup></small></small> &#8207;| re.'a.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rezin  | <span class="ashebrew"><big>רְצִ֖ין </big></span><small><small><sup>[[H7526H]]</sup></small></small> &#8207;| re.Tzin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nekoda  | <span class="ashebrew"><big>נְקוֹדָֽא </big></span><small><small><sup>[[H5353G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.ko.Da' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reaiah  |**<big>&#8207;[[H7211H\|רְאָיָ֥ה]]&#8207; </big>**| re.'a.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rezin  |**<big>&#8207;[[H7526H\|רְצִ֖ין]]&#8207; </big>**| re.Tzin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nekoda  |**<big>&#8207;[[H5353G\|נְקוֹדָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.ko.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.49|<< Nehemiah 7:49]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.51|Nehemiah 7:51 >>]]</td></tr></table>
 
 

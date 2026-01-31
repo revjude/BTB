@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּבַק‎</span></big> **dâbaq** <small>*(daw-bak')*</small> ==**to cleave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּבַק‎</span></big>** **dâbaq** <small>*(daw-bak')*</small> ==**to cleave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abide fast, cleave (fast together), follow close (hard after), be joined (together), keep (fast), overtake, pursue hard, stick, take.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c2)** to pursue closely
 $\quad$ $\quad$ **1c3)** to overtake
 $\quad$ **1d)** (Hophal) to be made to cleave
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκολουθέω</span><sup><small>[[G0190]]</small></sup> · <span class="asgreek">ἅπτομαι</span><sup><small>[[G0680]]</small></sup> · <span class="asgreek">ἅπτω</span><sup><small>[[G0681]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">καταβαίνω</span><sup><small>[[G2597]]</small></sup> · <span class="asgreek">καταδιώκω</span><sup><small>[[G2614]]</small></sup> · <span class="asgreek">καταλαμβάνω</span><sup><small>[[G2638]]</small></sup> · <span class="asgreek">κολλάω</span><sup><small>[[G2853]]</small></sup> · <span class="asgreek">προσέχω</span><sup><small>[[G4337]]</small></sup> · <span class="asgreek">προσκολλάω</span><sup><small>[[G4347]]</small></sup> · <span class="asgreek">προστίθημι</span><sup><small>[[G4369]]</small></sup> · <span class="asgreek">συνδέω</span><sup><small>[[G4887]]</small></sup> · <span class="asgreek">φθάνω</span><sup><small>[[G5348]]</small></sup>
+<small>See Greek: </small>**<big>[[G0190|ἀκολουθέω]]</big>** · **<big>[[G0680|ἅπτομαι]]</big>** · **<big>[[G0681|ἅπτω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2597|καταβαίνω]]</big>** · **<big>[[G2614|καταδιώκω]]</big>** · **<big>[[G2638|καταλαμβάνω]]</big>** · **<big>[[G2853|κολλάω]]</big>** · **<big>[[G4337|προσέχω]]</big>** · **<big>[[G4347|προσκολλάω]]</big>** · **<big>[[G4369|προστίθημι]]</big>** · **<big>[[G4887|συνδέω]]</big>** · **<big>[[G5348|φθάνω]]</big>**

@@ -7,21 +7,21 @@ And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.
 the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.<small><sub>**MT:**</sub></small>
 [[1Chr.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.11|<< 1 Chronicles 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.13|1 Chronicles 1:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Pathrusim, | <big><span class="asgreek">Φετρουσίμ</span></big> <sup><small><small>[[H6625]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Casluhim | <big><span class="asgreek">Χασλωίμ</span></big> <sup><small><small>[[H3695]]</small></small></sup> |
-| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθον</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| \[the\] Philistines | <big><span class="asgreek">Φυλιστιείμ</span></big> <sup><small><small>[[H6430]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Caphthorim. | <big><span class="asgreek">Καφθωρίμ</span></big> <sup><small><small>[[H3732]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Pathrusim, | **<big>[[H6625\|Φετρουσίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Casluhim | **<big>[[H3695\|Χασλωίμ]]</big>** |
+| from where | **<big>[[G3606\|όθεν]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| from there | **<big>[[G1564\|εκείθον]]</big>** |
+| \[the\] Philistines | **<big>[[H6430\|Φυλιστιείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Caphthorim. | **<big>[[H3732\|Καφθωρίμ]]</big>** |
 [[1Chr.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.11|<< 1 Chronicles 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.13|1 Chronicles 1:13 >>]]</td></tr></table>
 
 

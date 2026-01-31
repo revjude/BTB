@@ -7,16 +7,16 @@ So he consented to them in this matter, and proved them ten days.
 So he consented to this and tested them for ten days.<small><sub>**MT:**</sub></small>
 [[Dan.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.13|<< Daniel 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.15|Daniel 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hearkened to | <big><span class="asgreek">εισήκουσεν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he tested | <big><span class="asgreek">επείρασεν</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he hearkened to | **<big>[[G1522\|εισήκουσεν]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he tested | **<big>[[G3985\|επείρασεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
 [[Dan.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.13|<< Daniel 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.15|Daniel 1:15 >>]]</td></tr></table>
 
 

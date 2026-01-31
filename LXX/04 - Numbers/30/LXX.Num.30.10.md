@@ -7,24 +7,24 @@ And if she vowed in her husband’s house, or bound her soul by a bond with an o
 If a woman in her husband’s house has made a vow or put herself under an obligation with an oath,<small><sub>**MT:**</sub></small>
 [[Num.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.9|<< Numbers 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.11|Numbers 30:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her husband | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her vow \[be\], | <big><span class="asgreek">ευχή</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| set of limits | <big><span class="asgreek">ορισμός</span></big> <sup><small><small>[[G8547]]</small></small></sup> |
-| on | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her life | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| an oath, | <big><span class="asgreek">όρκου</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of her husband | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her vow \[be\], | **<big>[[G2171\|ευχή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| set of limits | **<big>[[G8547\|ορισμός]]</big>** |
+| on | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| her life | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| an oath, | **<big>[[G3727\|όρκου]]</big>** |
 [[Num.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.9|<< Numbers 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.11|Numbers 30:11 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מַעֲכָה‎</span></big> **Maʻăkâh** <small>*(mah-ak-aw')*</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַעֲכָת</span> **Maʻăkâth** <small>*(mah-ak-awth')*</small>; (Joshua 13:13), from <span class="ashebrew">‎מָעַךְ‎</span><sup><small>[[H4600]]</small></sup>; depression</small>
+**<big><span class="ashebrew">‎מַעֲכָה‎</span></big>** **Maʻăkâh** <small>*(mah-ak-aw')*</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַעֲכָת</span></big>** **Maʻăkâth** <small>*(mah-ak-awth')*</small>; (Joshua 13:13), from **<big>[[H4600|‎מָעַךְ‎]]</big>**; depression</small>
 
-$\quad$ Maachah, Maachathites. See also <span class="ashebrew">‎בֵּית מַעֲכָה‎</span><sup><small>[[H1038]]</small></sup>.
+$\quad$ Maachah, Maachathites. See also **<big>[[H1038|‎בֵּית מַעֲכָה‎]]</big>**.
 - § Maachathites = *"pressure (literally she has pressed)"*
 - ***Maakah*** (or Maakath), the name of a place in Syria, also of a Mesopotamian, of three Israelites, and of four Israelitesses and one Syrian woman
 

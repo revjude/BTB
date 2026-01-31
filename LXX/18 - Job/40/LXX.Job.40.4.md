@@ -7,29 +7,29 @@ Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.
 “Behold, I am insignificant. How can I reply to You? I place my hand over my mouth.<small><sub>**MT:**</sub></small>
 [[Job.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.3|<< Job 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.5|Job 40:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| do I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| plead, | <big><span class="asgreek">κρίνομαι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| being admonished | <big><span class="asgreek">νουθετούμενος</span></big> <sup><small><small>[[G3560]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reproved | <big><span class="asgreek">ελέγχων</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| by \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Hearing | <big><span class="asgreek">ακούων</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| such \[things\], | <big><span class="asgreek">τοιαύτα</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| \[and\] being nothing; | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| what | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| answer | <big><span class="asgreek">απόκρισιν</span></big> <sup><small><small>[[G0612]]</small></small></sup> |
-| shall I give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| these \[things\]? | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| a hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| I shall put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my mouth. | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| do I | **<big>[[G1473\|εγώ]]</big>** |
+| plead, | **<big>[[G2919\|κρίνομαι]]</big>** |
+| being admonished | **<big>[[G3560\|νουθετούμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reproved | **<big>[[G1651\|ελέγχων]]</big>** |
+| by \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριον]]</big>** |
+| Hearing | **<big>[[G0191\|ακούων]]</big>** |
+| such \[things\], | **<big>[[G5108\|τοιαύτα]]</big>** |
+| \[and\] being nothing; | **<big>[[G3762\|ουθέν]]</big>** **<big>[[G1510\|ων]]</big>** |
+| and I, | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| what | **<big>[[G5100\|τίνα]]</big>** |
+| answer | **<big>[[G0612\|απόκρισιν]]</big>** |
+| shall I give | **<big>[[G1325\|δω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| these \[things\]? | **<big>[[G3778\|ταύτα]]</big>** |
+| a hand | **<big>[[G5495\|χείρα]]</big>** |
+| I shall put | **<big>[[G5087\|θήσω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| my mouth. | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Job.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.3|<< Job 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.5|Job 40:5 >>]]</td></tr></table>
 
 

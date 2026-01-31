@@ -7,19 +7,19 @@ Whoso [is] simple, let him turn in hither: [as for] him that wanteth understandi
 “Whoever is simple, let him turn in here!” she says to him who lacks judgment.<small><sub>**MT:**</sub></small>
 [[Prov.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.3|<< Proverbs 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.5|Proverbs 9:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whosoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a fool, | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινάτω</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lacking | <big><span class="asgreek">ενδεέσι</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
-| of sense, | <big><span class="asgreek">φρενών</span></big> <sup><small><small>[[G5424]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Whosoever | **<big>[[G3739\|ος]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| a fool, | **<big>[[G0878\|άφρων]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινάτω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| lacking | **<big>[[G1729\|ενδεέσι]]</big>** |
+| of sense, | **<big>[[G5424\|φρενών]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
 [[Prov.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.3|<< Proverbs 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.5|Proverbs 9:5 >>]]</td></tr></table>
 
 

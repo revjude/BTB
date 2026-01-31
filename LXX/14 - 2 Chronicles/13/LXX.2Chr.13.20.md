@@ -7,24 +7,24 @@ Neither did Jeroboam recover strength again in the days of Abijah: and the LORD 
 Jeroboam did not again recover his power during the days of Abijah, and the LORD struck him down and he died.<small><sub>**MT:**</sub></small>
 [[2Chr.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.19|<< 2 Chronicles 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.21|2 Chronicles 13:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| have | <big><span class="asgreek">έσχεν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| any more | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \[during\] all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Abijah. | <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| have | **<big>[[G2192\|έσχεν]]</big>** |
+| strength | **<big>[[G2479\|ισχύν]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| any more | **<big>[[G2089\|έτι]]</big>** |
+| \[during\] all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of Abijah. | **<big>[[G0007\|Αβία]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
 [[2Chr.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.19|<< 2 Chronicles 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.21|2 Chronicles 13:21 >>]]</td></tr></table>
 
 

@@ -7,40 +7,40 @@ So that the people could not discern the noise of the shout of joy from the nois
 The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar.<small><sub>**MT:**</sub></small>
 [[Ezra.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.12|<< Ezra 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.1|Ezra 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| were | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| recognizing | <big><span class="asgreek">επιγινώσκων</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cheering | <big><span class="asgreek">σημασίας</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gladness | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαυθμού</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people; | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| cried out | <big><span class="asgreek">εκραύγασε</span></big> <sup><small><small>[[G2905]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| was heard | <big><span class="asgreek">ηκούετο</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| even | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| far off. | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| were | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| recognizing | **<big>[[G1921\|επιγινώσκων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| cheering | **<big>[[G9070\|σημασίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of gladness | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sound | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| weeping | **<big>[[G2805\|κλαυθμού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people; | **<big>[[G2992\|λαού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| cried out | **<big>[[G2905\|εκραύγασε]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| with a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| was heard | **<big>[[G0191\|ηκούετο]]</big>** |
+| even | **<big>[[G2193\|έως]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| far off. | **<big>[[G3113\|μακρόθεν]]</big>** |
 [[Ezra.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.12|<< Ezra 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.1|Ezra 4:1 >>]]</td></tr></table>
 
 

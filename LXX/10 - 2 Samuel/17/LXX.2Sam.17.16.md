@@ -10,40 +10,40 @@ Now therefore send quickly, and tell David, saying, Lodge not this night in the 
 Now send quickly and tell David, ‘Do not spend the night at the fords of the wilderness, but be sure to cross over. Otherwise the king and all the people with him will be swallowed up.’”<small><sub>**MT:**</sub></small>
 [[2Sam.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.15|<< 2 Samuel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.17|2 Samuel 17:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| send | <big><span class="asgreek">αποστείλατε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| report | <big><span class="asgreek">απαγγείλατε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to David! | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| lodge | <big><span class="asgreek">αυλισθής</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] descent | <big><span class="asgreek">δυσμάς</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| by passing over, | <big><span class="asgreek">διαβαίνων</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| pass over! | <big><span class="asgreek">διάβηθι</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be swallowed down | <big><span class="asgreek">καταποθή</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| send | **<big>[[G0649\|αποστείλατε]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| report | **<big>[[G0518\|απαγγείλατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to David! | **<big>[[G4622\|Δαυίδ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| lodge | **<big>[[G0835\|αυλισθής]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| night | **<big>[[G3571\|νύκτα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] descent | **<big>[[G1424\|δυσμάς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμου]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| by passing over, | **<big>[[G1224\|διαβαίνων]]</big>** |
+| pass over! | **<big>[[G1224\|διάβηθι]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be swallowed down | **<big>[[G2666\|καταποθή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.15|<< 2 Samuel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.17|2 Samuel 17:17 >>]]</td></tr></table>
 
 

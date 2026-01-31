@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּרִית‎</span></big> **bᵉrîyth** <small>*(ber-eeth')*</small> ==**covenant**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּרָה‎</span><sup><small>[[H1262]]</small></sup> (in the sense of cutting (like <span class="ashebrew">‎בָּרָא‎</span><sup><small>[[H1254]]</small></sup>))</small>
+**<big><span class="ashebrew">‎בְּרִית‎</span></big>** **bᵉrîyth** <small>*(ber-eeth')*</small> ==**covenant**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1262|‎בָּרָה‎]]</big>** (in the sense of cutting (like **<big>[[H1254|‎בָּרָא‎]]</big>**))</small>
 
 $\quad$ confederacy, (con-) feder(-ate), covenant, league.
 - ***a compact*** (because made by passing between pieces of flesh)
@@ -19,4 +19,4 @@ $\quad$ **2a)** covenant making
 $\quad$ **2b)** covenant keeping
 $\quad$ **2c)** covenant violation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαθήκη</span><sup><small>[[G1242]]</small></sup> · <span class="asgreek">ἐντολή</span><sup><small>[[G1785]]</small></sup>
+<small>See Greek: </small>**<big>[[G1242|διαθήκη]]</big>** · **<big>[[G1785|ἐντολή]]</big>**

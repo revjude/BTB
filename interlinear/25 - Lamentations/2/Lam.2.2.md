@@ -6,29 +6,29 @@ Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he has swallowed up  | <span class="ashebrew"><big>בִּלַּ֨ע </big></span><small><small><sup>[[H1104]]</sup></small></small> &#8207;| bi.La' <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֜י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  [^2] | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;[^3] | l <small><sup>[[HC]]</sup></small> o' <small><sup>[[HTn]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| he has spared  | <span class="ashebrew"><big>חָמַ֗ל </big></span><small><small><sup>[[H2550]]</sup></small></small> &#8207;| cha.Mal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] settlements of  | <span class="ashebrew"><big>נְא֣וֹת </big></span><small><small><sup>[[H4999]]</sup></small></small> &#8207;| ne.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֔ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has torn down  | <span class="ashebrew"><big>הָרַ֧ס </big></span><small><small><sup>[[H2040]]</sup></small></small> &#8207;| ha.Ras <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in wrath his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶבְרָת֛ </big></span><small><small><sup>[[H5678]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ev.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fortifications of  | <span class="ashebrew"><big>מִבְצְרֵ֥י </big></span><small><small><sup>[[H4013]]</sup></small></small> &#8207;| miv.tze.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| vat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֖ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has made [them] touch  | <span class="ashebrew"><big>הִגִּ֣יעַ </big></span><small><small><sup>[[H5060]]</sup></small></small> &#8207;| hi.Gi.a' <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> the ground  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has profaned  | <span class="ashebrew"><big>חִלֵּ֥ל </big></span><small><small><sup>[[H2490H]]</sup></small></small> &#8207;| chi.Lel <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] kingdom  | <span class="ashebrew"><big>מַמְלָכָ֖ה </big></span><small><small><sup>[[H4467]]</sup></small></small> &#8207;| mam.la.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and princes its  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׂרֶֽי </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sa.Rei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has swallowed up  |**<big>&#8207;[[H1104\|בִּלַּ֨ע]]&#8207; </big>**| bi.La'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֜י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**[^3] | l<small><sup>[[HC]]</sup></small> o'<small><sup>[[HTn]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| he has spared  |**<big>&#8207;[[H2550\|חָמַ֗ל]]&#8207; </big>**| cha.Mal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] settlements of  |**<big>&#8207;[[H4999\|נְא֣וֹת]]&#8207; </big>**| ne.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֔ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has torn down  |**<big>&#8207;[[H2040\|הָרַ֧ס]]&#8207; </big>**| ha.Ras<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in wrath his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5678\|עֶבְרָת֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ev.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fortifications of  |**<big>&#8207;[[H4013\|מִבְצְרֵ֥י]]&#8207; </big>**| miv.tze.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֖ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has made [them] touch  |**<big>&#8207;[[H5060\|הִגִּ֣יעַ]]&#8207; </big>**| hi.Gi.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the ground  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֑רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has profaned  |**<big>&#8207;[[H2490H\|חִלֵּ֥ל]]&#8207; </big>**| chi.Lel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdom  |**<big>&#8207;[[H4467\|מַמְלָכָ֖ה]]&#8207; </big>**| mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and princes its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
-[^1]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
+[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
+[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>ְלֹ֣א</big></span>**
 

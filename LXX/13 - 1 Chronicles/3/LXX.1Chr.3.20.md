@@ -7,19 +7,19 @@ And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushabhesed, five.
 and five others: Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed.<small><sub>**MT:**</sub></small>
 [[1Chr.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.19|<< 1 Chronicles 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.21|1 Chronicles 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hashubah, | <big><span class="asgreek">Ασαβά</span></big> <sup><small><small>[[H2807]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ohel, | <big><span class="asgreek">Οόλ</span></big> <sup><small><small>[[H0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Berechiah, | <big><span class="asgreek">Βαραχία</span></big> <sup><small><small>[[G0914]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hasadiah, | <big><span class="asgreek">Ασαδιά</span></big> <sup><small><small>[[H2619]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jushab-hesed -- | <big><span class="asgreek">Ιωσαβεσέδ</span></big> <sup><small><small>[[H3142]]</small></small></sup> |
-| five. | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hashubah, | **<big>[[H2807\|Ασαβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ohel, | **<big>[[H0169\|Οόλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Berechiah, | **<big>[[G0914\|Βαραχία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hasadiah, | **<big>[[H2619\|Ασαδιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jushab-hesed -- | **<big>[[H3142\|Ιωσαβεσέδ]]</big>** |
+| five. | **<big>[[G4002\|πέντε]]</big>** |
 [[1Chr.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.19|<< 1 Chronicles 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.21|1 Chronicles 3:21 >>]]</td></tr></table>
 
 

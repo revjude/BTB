@@ -1,8 +1,8 @@
 <small>*Eth-kazin • Border town of Zebulun near Neah*</small>
 
 <span class='tipnrhighlight'>Eth-kazin</span>, a border town of Zebulun located near Neah.
-- A location near Dimnah<[[H1829]]> first mentioned at [[Josh.19.13|Jos.19.13]]; 
-- only referred to as Eth-kazin<[[H6278]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- A location near Dimnah **<big>[[H1829|דִּמְנָה]]</big>** first mentioned at [[Josh.19.13|Jos.19.13]]; 
+- only referred to as Eth-kazin **<big>[[H6278|עֵת קָצִין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.781808,35.321364&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The exact location of Eth-kazin is uncertain, but it was situated near the towns
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eth-kazin (KJV= Ittah-kazin; NIV= Eth Kazin) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H6278) <small>*Hebrew*</small> | 1x | [Jos.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eth\*\|reference=Jos.19.13) |
-All Strong's for **Eth-kazin**: \[[[H6278]]\]
+| Eth-kazin (KJV= Ittah-kazin; NIV= Eth Kazin) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H6278) | 1x | [Jos.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eth\*\|reference=Jos.19.13) |
+All entries for **Eth-kazin**:  **<big>[[H6278|עֵת קָצִין]]</big>**

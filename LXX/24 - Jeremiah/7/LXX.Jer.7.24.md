@@ -7,37 +7,37 @@ But they hearkened not, nor inclined their ear, but walked in the counsels [and]
 Yet they did not listen or incline their ear, but they followed the stubborn inclinations of their own evil hearts. They went backward and not forward.<small><sub>**MT:**</sub></small>
 [[Jer.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.23|<< Jeremiah 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.25|Jeremiah 7:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισήκουσάν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take heed | <big><span class="asgreek">προσέσχον</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ear, | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thoughts | <big><span class="asgreek">ενθυμήμασι</span></big> <sup><small><small>[[G7243]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακής</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear, | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| front. | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| listen to | **<big>[[G1522\|εισήκουσάν]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ου]]</big>** |
+| take heed | **<big>[[G4337\|προσέσχον]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| their ear, | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| thoughts | **<big>[[G7243\|ενθυμήμασι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| of their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| evil | **<big>[[G2556\|κακής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they became | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear, | **<big>[[G3693\|όπισθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| front. | **<big>[[G1715\|έμπροσθεν]]</big>** |
 [[Jer.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.23|<< Jeremiah 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.25|Jeremiah 7:25 >>]]</td></tr></table>
 
 

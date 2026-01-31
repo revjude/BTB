@@ -11,27 +11,27 @@ So Abram departed, as the LORD had directed him, and Lot went with him. Abram wa
 > $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abram went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set out | <big><span class="asgreek">ώχετο</span></big> <sup><small><small>[[G8468]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| And Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| years \[old\] | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| seventy-five | <big><span class="asgreek">εβδομηκονταπέντε</span></big> <sup><small><small>[[G6991]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| he came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Haran. | <big><span class="asgreek">Χαράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abram went | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[H0087\|Άβραμ]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| set out | **<big>[[G8468\|ώχετο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| And Abram | **<big>[[H0087\|Άβραμ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| years \[old\] | **<big>[[G2094\|ετών]]</big>** |
+| seventy-five | **<big>[[G6991\|εβδομηκονταπέντε]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| he came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Haran. | **<big>[[G5488\|Χαράν]]</big>** |
 [[Gen.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.3|<< Genesis 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.5|Genesis 12:5 >>]]</td></tr></table>
 
 

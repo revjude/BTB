@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּצַר‎</span></big> **pâtsar** <small>*(paw-tsar')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּצַר‎</span></big>** **pâtsar** <small>*(paw-tsar')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ press, urge, stubbornness.
@@ -8,4 +8,4 @@ $\quad$ press, urge, stubbornness.
 $\quad$ **1a)** (Qal) to push, press
 $\quad$ **1b)** (Hiphil) be insolent, display pushing (arrogance, presumption)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">βιάζω</span><sup><small>[[G0971]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup>
+<small>See Greek: </small>**<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G0971|βιάζω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>**

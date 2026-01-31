@@ -12,18 +12,18 @@ A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint
 A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.<small><sub>**MT:**</sub></small>
 [[Ps.102.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.8|<< Psalm 101:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.2|Psalm 102:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prayer, | <big><span class="asgreek">προσευχής</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come | <big><span class="asgreek">ελθέτω</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| listen to | **<big>[[G1522\|εισάκουσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my prayer, | **<big>[[G4335\|προσευχής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my cry | **<big>[[G2906\|κραυγή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| come | **<big>[[G2064\|ελθέτω]]</big>** |
 [[Ps.102.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.8|<< Psalm 101:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.2|Psalm 102:2 >>]]</td></tr></table>
 
 

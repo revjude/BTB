@@ -7,37 +7,37 @@ And David said to Joab and to the rulers of the people, Go, number Israel from B
 So David said to Joab and the commanders of the troops, “Go and count the Israelites from Beersheba to Dan and bring me a report, so that I may know their number.”<small><sub>**MT:**</sub></small>
 [[1Chr.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.1|<< 1 Chronicles 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.3|1 Chronicles 21:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| Go, | <big><span class="asgreek">πορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| count | <big><span class="asgreek">αριθμήσατε</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Beer-sheba | <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Dan, | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring \[it\] | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall know | <big><span class="asgreek">γνώσομαι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their number. | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force, | **<big>[[G1411\|δυνάμεως]]</big>** |
+| Go, | **<big>[[G4198\|πορεύθητε]]</big>** |
+| count | **<big>[[G0705\|αριθμήσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Beer-sheba | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Dan, | **<big>[[H1835\|Δαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring \[it\] | **<big>[[G5342\|ενέγκατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall know | **<big>[[G1097\|γνώσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their number. | **<big>[[G0706\|αριθμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[1Chr.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.1|<< 1 Chronicles 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.3|1 Chronicles 21:3 >>]]</td></tr></table>
 
 

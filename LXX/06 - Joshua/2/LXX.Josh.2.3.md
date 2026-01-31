@@ -7,33 +7,33 @@ And the king of Jericho sent unto Rahab, saying, Bring forth the men that are co
 So the king of Jericho sent to Rahab and said, “Bring out the men who came to you and entered your house, for they have come to spy out the whole land.”<small><sub>**MT:**</sub></small>
 [[Josh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.2|<< Joshua 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.4|Joshua 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Jericho | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Rahab, | <big><span class="asgreek">Ραάβ</span></big> <sup><small><small>[[G4460]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Lead out | <big><span class="asgreek">εξάγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men! | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπεπορευμένους</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| to spy out | <big><span class="asgreek">κατασκοπεύσαι</span></big> <sup><small><small>[[G2684]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| they have come | <big><span class="asgreek">ήκασι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Jericho | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Rahab, | **<big>[[G4460\|Ραάβ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Lead out | **<big>[[G1806\|εξάγαγε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men! | **<big>[[G0435\|άνδρας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| entering | **<big>[[G1531\|εισπεπορευμένους]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your house | **<big>[[G3614\|οικίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| night, | **<big>[[G3571\|νύκτα]]</big>** |
+| to spy out | **<big>[[G2684\|κατασκοπεύσαι]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| they have come | **<big>[[G2240\|ήκασι]]</big>** |
 [[Josh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.2|<< Joshua 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.4|Joshua 2:4 >>]]</td></tr></table>
 
 

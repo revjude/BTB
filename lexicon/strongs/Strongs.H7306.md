@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רוּחַ‎</span></big> **rûwach** <small>*(roo'-akh)*</small> ==**to smell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רוּחַ‎</span></big>** **rûwach** <small>*(roo'-akh)*</small> ==**to smell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ accept, smell, [idiom] touch, make of quick understanding.
@@ -9,4 +9,4 @@ $\quad$ accept, smell, [idiom] touch, make of quick understanding.
 $\quad$ **1a)** of horse
 $\quad$ **1b)** of delight (metaph)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπίπλημι</span><sup><small>[[G1705]]</small></sup> · <span class="asgreek">ὀλιγόψυχος</span><sup><small>[[G3642]]</small></sup>
+<small>See Greek: </small>**<big>[[G1705|ἐμπίπλημι]]</big>** · **<big>[[G3642|ὀλιγόψυχος]]</big>**

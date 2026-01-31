@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדָמָה‎</span></big> **ʼădâmâh** <small>*(ad-aw-maw')*</small> ==**land: soil**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎אָדַם‎</span><sup><small>[[H0119]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲדָמָה‎</span></big>** **ʼădâmâh** <small>*(ad-aw-maw')*</small> ==**land: soil**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0119|‎אָדַם‎]]</big>**</small>
 
 $\quad$ country, earth, ground, husband(-man) (-ry), land.
 - ***soil*** (from its general redness)
@@ -13,4 +13,4 @@ $\quad$ **1e)** land, territory, country
 $\quad$ **1f)** whole inhabited earth
 $\quad$ **1g)** city in Naphtali
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γῆ</span><sup><small>[[G1093]]</small></sup> · <span class="asgreek">χώρα</span><sup><small>[[G5561]]</small></sup>
+<small>See Greek: </small>**<big>[[G1093|γῆ]]</big>** · **<big>[[G5561|χώρα]]</big>**

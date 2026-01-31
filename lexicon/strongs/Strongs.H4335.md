@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵישַׁךְ‎</span></big> **Mêyshak** <small>*(may-shak')*</small> ==**Meshach**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>borrowed from <span class="ashebrew">‎מֵישַׁךְ‎</span><sup><small>[[H4336]]</small></sup></small>
+**<big><span class="ashebrew">‎מֵישַׁךְ‎</span></big>** **Mêyshak** <small>*(may-shak')*</small> ==**Meshach**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>borrowed from **<big>[[H4336|‎מֵישַׁךְ‎]]</big>**</small>
 
 $\quad$ Meshak.
 - § Meshach = *"guest of a king"*

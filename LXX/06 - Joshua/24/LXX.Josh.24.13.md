@@ -7,35 +7,35 @@ And I have given you a land for which ye did not labour, and cities which ye bui
 So I gave you a land on which you did not toil and cities that you did not build, and now you live in them and eat from vineyards and olive groves that you did not plant.’<small><sub>**MT:**</sub></small>
 [[Josh.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.12|<< Joshua 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.14|Joshua 24:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| tire \[by labor\] | <big><span class="asgreek">εκοπιάσατε</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| upon; | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[he gave\] cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| build, | <big><span class="asgreek">ωκοδομήσατε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you settled | <big><span class="asgreek">κατωκίσθητε</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[he gave\] vineyards | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive groves | <big><span class="asgreek">ελαιώνας</span></big> <sup><small><small>[[G1638]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| plant, | <big><span class="asgreek">κατεφυτεύσατε</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| \[but\] you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat from \[them\]. | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| tire \[by labor\] | **<big>[[G2872\|εκοπιάσατε]]</big>** |
+| upon; | **<big>[[G1909\|επ΄]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[he gave\] cities | **<big>[[G4172\|πόλεις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| build, | **<big>[[G3618\|ωκοδομήσατε]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| you settled | **<big>[[G6052\|κατωκίσθητε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them; | **<big>[[G1473\|αυταίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[he gave\] vineyards | **<big>[[G0290\|αμπελώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive groves | **<big>[[G1638\|ελαιώνας]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| you did not | **<big>[[G3756\|ου]]</big>** |
+| plant, | **<big>[[G7952\|κατεφυτεύσατε]]</big>** |
+| \[but\] you | **<big>[[G1473\|υμείς]]</big>** |
+| shall eat from \[them\]. | **<big>[[G2068\|έδεσθε]]</big>** |
 [[Josh.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.12|<< Joshua 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.14|Joshua 24:14 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ According to the lot shall the possession thereof be divided between many and fe
 Each inheritance is to be divided by lot among the larger and smaller tribes.”<small><sub>**MT:**</sub></small>
 [[Num.26.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.55|<< Numbers 26:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.57|Numbers 26:57 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρου</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| you shall portion | <big><span class="asgreek">μεριείς</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| few. | <big><span class="asgreek">ολίγων</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| By | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| lot | **<big>[[G2819\|κλήρου]]</big>** |
+| you shall portion | **<big>[[G3307\|μεριείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] many | **<big>[[G4183\|πολλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| few. | **<big>[[G3641\|ολίγων]]</big>** |
 [[Num.26.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.55|<< Numbers 26:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.57|Numbers 26:57 >>]]</td></tr></table>
 
 

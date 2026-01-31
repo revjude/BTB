@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Habor</span> was a river in Assyria along which the Israelite captives from the northern kingdom were settled by the Assyrians \([[2Kgs.17.6|2 Kings 17:6]]; 18:11; [[1Chr.5.26|1 Chronicles 5:26]]\).
 - A location first mentioned at [[2Kgs.17.6|2Ki.17.6]]; 
-- only referred to as Habor<[[H2249]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Habor **<big>[[H2249|חָבוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.344972,40.789333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Habor was a river located in Assyria, associated with the region of Gozan, where
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Habor | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2249) <small>*Hebrew*</small> | 3x | [[2Ki.17.6] ... [1Ch.5.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Habor\*\|reference=2Ki.17.6;2Ki.18.11;1Ch.5.26) |
-All Strong's for **Habor**: \[[[H2249]]\]
+| Habor | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2249) | 3x | [[2Ki.17.6] ... [1Ch.5.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Habor\*\|reference=2Ki.17.6;2Ki.18.11;1Ch.5.26) |
+All entries for **Habor**:  **<big>[[H2249|חָבוֹר]]</big>**

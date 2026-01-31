@@ -6,22 +6,22 @@ At her feet he collapsed, he fell, there he lay still; at her feet he collapsed,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.26|<< Judges 5:26]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.28|Judges 5:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| between  | <span class="ashebrew"><big>בֵּ֣ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feet her  | <span class="ashebrew"><big>רַגְלֶ֔י </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| rag.Lei. <small><sup>[[HNcfdc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he bowed down  | <span class="ashebrew"><big>כָּרַ֥ע </big></span><small><small><sup>[[H3766]]</sup></small></small> &#8207;| ka.Ra' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fell  | <span class="ashebrew"><big>נָפַ֖ל </big></span><small><small><sup>[[H5307J]]</sup></small></small> &#8207;| na.Fal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he lay down  | <span class="ashebrew"><big>שָׁכָ֑ב </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| sha.Khav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֤ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feet her  | <span class="ashebrew"><big>רַגְלֶ֙י </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>הָ֙ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| rag.Lei. <small><sup>[[HNcfdc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he bowed down  | <span class="ashebrew"><big>כָּרַ֣ע </big></span><small><small><sup>[[H3766]]</sup></small></small> &#8207;| ka.Ra' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fell  | <span class="ashebrew"><big>נָפָ֔ל </big></span><small><small><sup>[[H5307J]]</sup></small></small> &#8207;| na.Fal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at where  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834B]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he bowed down  | <span class="ashebrew"><big>כָּרַ֔ע </big></span><small><small><sup>[[H3766]]</sup></small></small> &#8207;| ka.Ra' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֖ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fell  | <span class="ashebrew"><big>נָפַ֥ל </big></span><small><small><sup>[[H5307J]]</sup></small></small> &#8207;| na.Fal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| destroyed  | <span class="ashebrew"><big>שָׁדֽוּד </big></span><small><small><sup>[[H7703]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Dud <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֣ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet her  |**<big>&#8207;[[H7272\|רַגְלֶ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| rag.Lei.<small><sup>[[HNcfdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bowed down  |**<big>&#8207;[[H3766\|כָּרַ֥ע]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fell  |**<big>&#8207;[[H5307J\|נָפַ֖ל]]&#8207; </big>**| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lay down  |**<big>&#8207;[[H7901G\|שָׁכָ֑ב]]&#8207; </big>**| sha.Khav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֤ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet her  |**<big>&#8207;[[H7272\|רַגְלֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| rag.Lei.<small><sup>[[HNcfdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bowed down  |**<big>&#8207;[[H3766\|כָּרַ֣ע]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fell  |**<big>&#8207;[[H5307J\|נָפָ֔ל]]&#8207; </big>**| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at where  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0834B\|אֲשֶׁ֣ר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bowed down  |**<big>&#8207;[[H3766\|כָּרַ֔ע]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fell  |**<big>&#8207;[[H5307J\|נָפַ֥ל]]&#8207; </big>**| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destroyed  |**<big>&#8207;[[H7703\|שָׁדֽוּד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Dud<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.26|<< Judges 5:26]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.28|Judges 5:28 >>]]</td></tr></table>
 
 

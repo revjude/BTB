@@ -7,28 +7,28 @@ And he will lift up an ensign to the nations from far, and will hiss unto them f
 He lifts a banner for the distant nations and whistles for those at the ends of the earth. Behold—how speedily and swiftly they come!<small><sub>**MT:**</sub></small>
 [[Isa.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.25|<< Isaiah 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.27|Isaiah 5:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Accordingly | <big><span class="asgreek">τοιγαρούν</span></big> <sup><small><small>[[G5105]]</small></small></sup> |
-| he shall lift up | <big><span class="asgreek">αρεί</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| an agreed upon sign | <big><span class="asgreek">σύσσημον</span></big> <sup><small><small>[[G4953]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| far off; | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall whistle at | <big><span class="asgreek">συριεί</span></big> <sup><small><small>[[G9349]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] uttermost part | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| nimbly | <big><span class="asgreek">κούφως</span></big> <sup><small><small>[[G8081]]</small></small></sup> |
-| they come. | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| Accordingly | **<big>[[G5105\|τοιγαρούν]]</big>** |
+| he shall lift up | **<big>[[G0142\|αρεί]]</big>** |
+| an agreed upon sign | **<big>[[G4953\|σύσσημον]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| far off; | **<big>[[G3113\|μακρόθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall whistle at | **<big>[[G9349\|συριεί]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] uttermost part | **<big>[[G6208\|άκρου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| nimbly | **<big>[[G8081\|κούφως]]</big>** |
+| they come. | **<big>[[G2064\|έρχονται]]</big>** |
 [[Isa.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.25|<< Isaiah 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.27|Isaiah 5:27 >>]]</td></tr></table>
 
 

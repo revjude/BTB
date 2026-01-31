@@ -1,6 +1,4 @@
-<span class="ashebrew">‎חֵ֫לֶק‎</span> <small>***(che.leq)***</small> ==**Helek**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.30|Num.26.30]]
--  son of: Gilead ([[H1568H]])
--  brother of: Abiezer ([[H0044I]]), Asriel ([[H0844]]), Shechem ([[H7928]]), Shemida ([[H8061]]) and Hepher ([[H2660A]])
-- Also named: <i>chel.qi</i> (<span class='ashebrew'>‎ח‎</span>ֶ<span class='ashebrew'>‎ל‎</span>ְ<span class='ashebrew'>‎ק‎</span>ִ<span class='ashebrew'>‎י‎</span> "Helekite" [[H2516]])
-
+-  son of: Gilead (**<big>[[H1568H|גִּלְעָד]]</big>**)
+-  brother of: Abiezer (**<big>[[H0044I|אֲבִיעֶזֶר]]</big>**), Asriel (**<big>[[H0844|אַשְׂרִיאֵל]]</big>**), Shechem (**<big>[[H7928|שֶׁכֶם]]</big>**), Shemida (**<big>[[H8061|שְׁמִידָע]]</big>**) and Hepher (**<big>[[H2660A|חֵפֶר]]</big>**)
+- Also named: <i>chel.qi</i> (<span class='ashebrew'>‎ח‎</span>ֶ<span class='ashebrew'>‎ל‎</span>ְ<span class='ashebrew'>‎ק‎</span>ִ<span class='ashebrew'>‎י‎</span> "Helekite" **<big>[[H2516|חֶלְקִי]]</big>**)

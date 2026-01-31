@@ -26,7 +26,7 @@
 
 
 
-<small>Also see: [[H2932]]</small>
+<small>Also see: **<big>[[H2932|טֻמְאָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎טָמְאָה‎</span> **noun feminine** ==uncleanness== (<span class="bdbLangHebrew">‎טָֽמְאָה‎</span>, Bear, seems to rest upon a misinterpretation of the form) [[Mic.2.10|Mic 2:10]] (so [[BDB#Thes|Thes]] [[BDB#MV|MV]] [[BDB#SS|SS]]); of ethical uncleanness, from wrong-doing. 
 

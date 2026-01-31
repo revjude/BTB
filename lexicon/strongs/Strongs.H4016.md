@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָבֻשׁ‎</span></big> **mâbush** <small>*(maw-boosh')*</small> ==**genitalia**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בּוּשׁ‎</span><sup><small>[[H0954]]</small></sup></small>
+**<big><span class="ashebrew">‎מָבֻשׁ‎</span></big>** **mâbush** <small>*(maw-boosh')*</small> ==**genitalia**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0954|‎בּוּשׁ‎]]</big>**</small>
 
 $\quad$ secrets.
 - (plural) ***the*** (male) ***pudenda***

@@ -7,30 +7,30 @@ They shall not make baldness upon their head, neither shall they shave off the c
 Priests must not make bald spots on their heads, shave off the edges of their beards, or make cuts in their bodies.<small><sub>**MT:**</sub></small>
 [[Lev.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.4|<< Leviticus 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.6|Leviticus 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to baldness | <big><span class="asgreek">φαλάκρωμα</span></big> <sup><small><small>[[G9616]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shave | <big><span class="asgreek">ξυρηθήσεσθε</span></big> <sup><small><small>[[G3587]]</small></small></sup> |
-| \[your\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] dead; | <big><span class="asgreek">νεκρώ</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψιν</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beard | <big><span class="asgreek">πώγωνος</span></big> <sup><small><small>[[G9002]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shave; | <big><span class="asgreek">ξυρήσονται</span></big> <sup><small><small>[[G3587]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| mutilate | <big><span class="asgreek">κατατεμούσιν</span></big> <sup><small><small>[[G7935]]</small></small></sup> |
-| by cuts. | <big><span class="asgreek">εντομίδας</span></big> <sup><small><small>[[G7271]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to baldness | **<big>[[G9616\|φαλάκρωμα]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| shave | **<big>[[G3587\|ξυρηθήσεσθε]]</big>** |
+| \[your\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| \[the\] dead; | **<big>[[G3498\|νεκρώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| appearance | **<big>[[G3799\|όψιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| beard | **<big>[[G9002\|πώγωνος]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| shave; | **<big>[[G3587\|ξυρήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their flesh | **<big>[[G4561\|σάρκας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| mutilate | **<big>[[G7935\|κατατεμούσιν]]</big>** |
+| by cuts. | **<big>[[G7271\|εντομίδας]]</big>** |
 [[Lev.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.4|<< Leviticus 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.6|Leviticus 21:6 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ When thou criest, let thy companies deliver thee; but the wind shall carry them 
 When you cry out, let your companies of idols deliver you! Yet the wind will carry off all of them, a breath will take them away. But he who seeks refuge in Me will inherit the land and possess My holy mountain.”<small><sub>**MT:**</sub></small>
 [[Isa.57.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.12|<< Isaiah 57:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.14|Isaiah 57:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should yell out, | <big><span class="asgreek">αναβοήσης</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| \[then\] let them rescue | <big><span class="asgreek">εξελέσθωσάν</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your affliction! | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] wind | <big><span class="asgreek">άνεμος</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| shall take, | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall carry away | <big><span class="asgreek">αποίσει</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
-| \[the\] gale | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| But the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| holding on | <big><span class="asgreek">αντεχόμενοι</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall acquire | <big><span class="asgreek">κτήσονται</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| \[the\] earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy | <big><span class="asgreek">άγιόν</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should yell out, | **<big>[[G0310\|αναβοήσης]]</big>** |
+| \[then\] let them rescue | **<big>[[G1807\|εξελέσθωσάν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your affliction! | **<big>[[G2347\|θλίψει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτους]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \[the\] wind | **<big>[[G0417\|άνεμος]]</big>** |
+| shall take, | **<big>[[G2983\|λήψεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall carry away | **<big>[[G0667\|αποίσει]]</big>** |
+| \[the\] gale | **<big>[[G7844\|καταιγίς]]</big>** |
+| But the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| holding on | **<big>[[G0472\|αντεχόμενοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| shall acquire | **<big>[[G2932\|κτήσονται]]</big>** |
+| \[the\] earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall inherit | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my holy | **<big>[[G0039\|άγιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.57.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.12|<< Isaiah 57:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.14|Isaiah 57:14 >>]]</td></tr></table>
 
 

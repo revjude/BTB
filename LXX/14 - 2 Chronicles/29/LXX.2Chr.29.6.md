@@ -7,34 +7,34 @@ For our fathers have trespassed, and done [that which was] evil in the eyes of t
 For our fathers were unfaithful and did evil in the sight of the LORD our God. They abandoned Him, turned their faces away from the dwelling place of the LORD, and turned their backs on Him.<small><sub>**MT:**</sub></small>
 [[2Chr.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.5|<< 2 Chronicles 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.7|2 Chronicles 29:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| revolted | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they abandoned | <big><span class="asgreek">εγκατέλιπαν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave \[him\] | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the back of the neck. | <big><span class="asgreek">αυχένα</span></big> <sup><small><small>[[G6612]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| revolted | **<big>[[G0868\|απέστησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| our fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| evil \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God; | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they abandoned | **<big>[[G1459\|εγκατέλιπαν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gave \[him\] | **<big>[[G1325\|έδωκαν]]</big>** |
+| the back of the neck. | **<big>[[G6612\|αυχένα]]</big>** |
 [[2Chr.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.5|<< 2 Chronicles 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.7|2 Chronicles 29:7 >>]]</td></tr></table>
 
 

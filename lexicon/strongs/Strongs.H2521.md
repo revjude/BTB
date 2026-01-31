@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְקַת הַצֻּרִים‎</span></big> **Chelqath hats-Tsurîym** <small>*(khel-kath' hatstsoo-reem')*</small> ==**Helkath-hazzurim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶלְקַת‎</span><sup><small>[[H2520]]</small></sup> and the plural of <span class="ashebrew">‎צוּר‎</span><sup><small>[[H6697]]</small></sup>, with the article inserted; smoothness of the rocks</small>
+**<big><span class="ashebrew">‎חֶלְקַת הַצֻּרִים‎</span></big>** **Chelqath hats-Tsurîym** <small>*(khel-kath' hatstsoo-reem')*</small> ==**Helkath-hazzurim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2520|‎חֶלְקַת‎]]</big>** and the plural of **<big>[[H6697|‎צוּר‎]]</big>**, with the article inserted; smoothness of the rocks</small>
 
 $\quad$ Helkath-hazzurim.
 - § Helkath-hazzurim = *"field of swords"*

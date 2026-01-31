@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִיחָא‎</span></big> **Tsîychâʼ** <small>*(tsee-khaw')*</small> ==**Ziha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">צִחָא</span> **Tsichâʼ** <small>*(tsee-khaw')*</small>; as if feminine of <span class="ashebrew">‎צִחֶה‎</span><sup><small>[[H6704]]</small></sup>; drought</small>
+**<big><span class="ashebrew">‎צִיחָא‎</span></big>** **Tsîychâʼ** <small>*(tsee-khaw')*</small> ==**Ziha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">צִחָא</span></big>** **Tsichâʼ** <small>*(tsee-khaw')*</small>; as if feminine of **<big>[[H6704|‎צִחֶה‎]]</big>**; drought</small>
 
 $\quad$ Ziha.
 - § Ziha = *"parched"*

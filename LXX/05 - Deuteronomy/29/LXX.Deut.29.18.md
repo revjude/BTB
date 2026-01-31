@@ -11,43 +11,43 @@ Make sure there is no man or woman, clan or tribe among you today whose heart tu
 > $\quad$ referenced by: [[Heb.12.15|Heb 12:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| family | <big><span class="asgreek">πατριά</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| tribe, | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| whose | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thought | <big><span class="asgreek">διάνοια</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| turned aside | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to serve | <big><span class="asgreek">λατρεύειν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of those nations; | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη τις</span></big> <sup><small><small>[[G3385]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a root | <big><span class="asgreek">ρίζα</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| upward | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| germinating | <big><span class="asgreek">φύουσα</span></big> <sup><small><small>[[G5453]]</small></small></sup> |
-| bile | <big><span class="asgreek">χολή</span></big> <sup><small><small>[[G5521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bitterness | <big><span class="asgreek">πικρία</span></big> <sup><small><small>[[G4088]]</small></small></sup> |
+| Lest | **<big>[[G3361\|μη]]</big>** **<big>[[G5100\|τις]]</big>** |
+| there is | **<big>[[G1510\|εστίν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| woman, | **<big>[[G1135\|γυνή]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| family | **<big>[[G3965\|πατριά]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| tribe, | **<big>[[G5443\|φυλή]]</big>** |
+| whose | **<big>[[G5100\|τίνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| thought | **<big>[[G1271\|διάνοια]]</big>** |
+| turned aside | **<big>[[G1578\|εξέκλινεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to go | **<big>[[G4198\|πορεύεσθαι]]</big>** |
+| to serve | **<big>[[G3000\|λατρεύειν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of those nations; | **<big>[[G1484\|εθνών]]</big>** **<big>[[G1565\|εκείνων]]</big>** |
+| lest | **<big>[[G3385\|μη τις]]</big>** |
+| there is | **<big>[[G1510\|εστίν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| a root | **<big>[[G4491\|ρίζα]]</big>** |
+| upward | **<big>[[G0507\|άνω]]</big>** |
+| germinating | **<big>[[G5453\|φύουσα]]</big>** |
+| bile | **<big>[[G5521\|χολή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bitterness | **<big>[[G4088\|πικρία]]</big>** |
 [[Deut.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.17|<< Deuteronomy 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.19|Deuteronomy 29:19 >>]]</td></tr></table>
 
 

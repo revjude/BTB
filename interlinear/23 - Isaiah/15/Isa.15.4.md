@@ -6,23 +6,23 @@ Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.3|<< Isaiah 15:3]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.5|Isaiah 15:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it has cried out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּזְעַ֤ק </big></span><small><small><sup>[[H2199]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> tiz.'Ak <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heshbon  | <span class="ashebrew"><big>חֶשְׁבּוֹן֙ </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| chesh.bOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Elealeh  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶלְעָלֵ֔ה </big></span><small><small><sup>[[H0500]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el.'a.Leh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jahaz  | <span class="ashebrew"><big>יַ֖הַץ </big></span><small><small><sup>[[H3096]]</sup></small></small> &#8207;| Ya.hatz <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been heard  | <span class="ashebrew"><big>נִשְׁמַ֣ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| nish.Ma' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voice their  | <span class="ashebrew"><big>קוֹלָ֑ </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ko.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] armed [men] of  | <span class="ashebrew"><big>חֲלֻצֵ֤י </big></span><small><small><sup>[[H2502B]]</sup></small></small> &#8207;| cha.lu.Tzei <small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָב֙ </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are shouting  | <span class="ashebrew"><big>יָרִ֔יעוּ </big></span><small><small><sup>[[H7321]]</sup></small></small> &#8207;| ya.Ri.'u <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being its  | <span class="ashebrew"><big>נַפְשׁ֖ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is trembling  | <span class="ashebrew"><big>יָ֥רְעָה </big></span><small><small><sup>[[H3415]]</sup></small></small> &#8207;| Ya.re.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to it  | <span class="ashebrew"><big>לּֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|תִּזְעַ֤ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiz.'Ak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּוֹן֙]]&#8207; </big>**| chesh.bOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elealeh  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0500\|אֶלְעָלֵ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Leh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jahaz  |**<big>&#8207;[[H3096\|יַ֖הַץ]]&#8207; </big>**| Ya.hatz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been heard  |**<big>&#8207;[[H8085G\|נִשְׁמַ֣ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice their  |**<big>&#8207;[[H6963A\|קוֹלָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ko.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] armed [men] of  |**<big>&#8207;[[H2502B\|חֲלֻצֵ֤י]]&#8207; </big>**| cha.lu.Tzei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are shouting  |**<big>&#8207;[[H7321\|יָרִ֔יעוּ]]&#8207; </big>**| ya.Ri.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being its  |**<big>&#8207;[[H5315G\|נַפְשׁ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is trembling  |**<big>&#8207;[[H3415\|יָ֥רְעָה]]&#8207; </big>**| Ya.re.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  |**<big>&#8207;[[H9005\|לּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.3|<< Isaiah 15:3]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.5|Isaiah 15:5 >>]]</td></tr></table>
 
 

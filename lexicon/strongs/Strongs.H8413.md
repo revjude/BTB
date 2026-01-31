@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּדְעָל‎</span></big> **Tidʻâl** <small>*(tid-awl')*</small> ==**Tidal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps from <span class="asaramaic">‎דְּחַל‎</span><sup><small>[[H1763]]</small></sup>; fearfulness</small>
+**<big><span class="ashebrew">‎תִּדְעָל‎</span></big>** **Tidʻâl** <small>*(tid-awl')*</small> ==**Tidal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps from **<big>[[H1763|‎דְּחַל‎]]</big>**; fearfulness</small>
 
 $\quad$ Tidal.
 - § Tidal = *"great son"*

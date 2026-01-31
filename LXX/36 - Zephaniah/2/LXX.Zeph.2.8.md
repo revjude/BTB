@@ -10,25 +10,25 @@ I have heard the reproach of Moab, and the revilings of the children of Ammon, w
 “I have heard the reproach of Moab and the insults of the Ammonites, who have taunted My people and threatened their borders.<small><sub>**MT:**</sub></small>
 [[Zeph.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.7|<< Zephaniah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.9|Zephaniah 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] scorns | <big><span class="asgreek">ονειδισμούς</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ill-treatment | <big><span class="asgreek">κονδυλισμούς</span></big> <sup><small><small>[[G8061]]</small></small></sup> |
-| by \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they berated | <big><span class="asgreek">ωνείδιζον</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| magnified themselves | <big><span class="asgreek">εμεγαλύνοντο</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my borders. | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I heard | **<big>[[G0191\|ήκουσα]]</big>** |
+| \[the\] scorns | **<big>[[G3680\|ονειδισμούς]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] ill-treatment | **<big>[[G8061\|κονδυλισμούς]]</big>** |
+| by \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| they berated | **<big>[[G3679\|ωνείδιζον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| magnified themselves | **<big>[[G3170\|εμεγαλύνοντο]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my borders. | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Zeph.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.7|<< Zephaniah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.9|Zephaniah 2:9 >>]]</td></tr></table>
 
 

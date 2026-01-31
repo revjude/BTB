@@ -7,34 +7,34 @@ The third captain of the host for the third month [was] Benaiah the son of Jehoi
 The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
 [[1Chr.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτω</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| \[was\] Benaiah | <big><span class="asgreek">Βανέας</span></big> <sup><small><small>[[H1131]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehoiada, | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruling | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his division | <big><span class="asgreek">διαιρέσεως</span></big> <sup><small><small>[[G1243]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| third | **<big>[[G5154\|τρίτος]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| third | **<big>[[G5154\|τρίτω]]</big>** |
+| \[was\] Benaiah | **<big>[[H1131\|Βανέας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Jehoiada, | **<big>[[H3111\|Ιωδαέ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| ruling | **<big>[[G0758\|άρχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his division | **<big>[[G1243\|διαιρέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[1Chr.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ Neither let the son of the stranger, that hath joined himself to the LORD, speak
 Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.”<small><sub>**MT:**</sub></small>
 [[Isa.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.2|<< Isaiah 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.4|Isaiah 56:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| say | <big><span class="asgreek">λεγέτω</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| joining | <big><span class="asgreek">προσκείμενος</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| By separation | <big><span class="asgreek">αφορισμώ</span></big> <sup><small><small>[[G6627]]</small></small></sup> |
-| will separate | <big><span class="asgreek">αφοριεί</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| surely | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| say | <big><span class="asgreek">λεγέτω</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eunuch | <big><span class="asgreek">ευνούχος</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| a dry | <big><span class="asgreek">ξηρόν</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
+| not | **<big>[[G3361\|μη]]</big>** |
+| say | **<big>[[G3004\|λεγέτω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner | **<big>[[G0241\|αλλογενής]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| joining | **<big>[[G8929\|προσκείμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| By separation | **<big>[[G6627\|αφορισμώ]]</big>** |
+| will separate | **<big>[[G0873\|αφοριεί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| surely | **<big>[[G0686\|άρα]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| say | **<big>[[G3004\|λεγέτω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| eunuch | **<big>[[G2135\|ευνούχος]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| a dry | **<big>[[G3584\|ξηρόν]]</big>** |
 [[Isa.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.2|<< Isaiah 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.4|Isaiah 56:4 >>]]</td></tr></table>
 
 

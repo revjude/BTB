@@ -6,18 +6,18 @@ So Jonathan made a covenant with the house of David, saying, “May the LORD hol
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.15|<< 1 Samuel 20:15]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.17|1 Samuel 20:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he made  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּכְרֹ֥ת </big></span><small><small><sup>[[H3772H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yikh.Rot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יְהוֹנָתָ֖ן </big></span><small><small><sup>[[H3083H]]</sup></small></small> &#8207;| ye.ho.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֑ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will require  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בִקֵּ֣שׁ </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> vi.Kesh <small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] hand of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יַּ֖ד </big></span><small><small><sup>[[H3027K]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Yad <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] enemies of  | <span class="ashebrew"><big>אֹיְבֵ֥י </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| 'o.ye.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָוִֽד </big></span><small><small><sup>[[H1732]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרֹ֥ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3083H\|יְהוֹנָתָ֖ן]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֑ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will require  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1245\|בִקֵּ֣שׁ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.Kesh<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027K\|יַּ֖ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] enemies of  |**<big>&#8207;[[H0341\|אֹיְבֵ֥י]]&#8207; </big>**| 'o.ye.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָוִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.15|<< 1 Samuel 20:15]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.17|1 Samuel 20:17 >>]]</td></tr></table>
 
 

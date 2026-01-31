@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲשַׁבְיָה‎</span></big> **Chăshabyâh** <small>*(khash-ab-yaw')*</small> ==**Hashabiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חֲשַׁבְיָהוּ</span> **Chăshabyâhûw** <small>*(khash-ab-yaw'-hoo)*</small>; from <span class="ashebrew">‎חָשַׁב‎</span><sup><small>[[H2803]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has regarded</small>
+**<big><span class="ashebrew">‎חֲשַׁבְיָה‎</span></big>** **Chăshabyâh** <small>*(khash-ab-yaw')*</small> ==**Hashabiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲשַׁבְיָהוּ</span></big>** **Chăshabyâhûw** <small>*(khash-ab-yaw'-hoo)*</small>; from **<big>[[H2803|‎חָשַׁב‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has regarded</small>
 
 $\quad$ Hashabiah.
 - § Hashabiah = *"Jehovah has considered"*

@@ -6,17 +6,17 @@ You must not have sexual relations with your mother’s sister, for she is your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.12|<< Leviticus 18:12]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.14|Leviticus 18:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] nakedness of  | <span class="ashebrew"><big>עֶרְוַ֥ת </big></span><small><small><sup>[[H6172]]</sup></small></small> &#8207;| 'er.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sister of  | <span class="ashebrew"><big>אֲחֽוֹת </big></span><small><small><sup>[[H0269]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.chot- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mother your  | <span class="ashebrew"><big>אִמְּ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'i.me. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will uncover  | <span class="ashebrew"><big>תְגַלֵּ֑ה </big></span><small><small><sup>[[H1540I]]</sup></small></small> &#8207;| te.ga.Leh <small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a relative of  | <span class="ashebrew"><big>שְׁאֵ֥ר </big></span><small><small><sup>[[H7607]]</sup></small></small> &#8207;| she.'Er <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mother your  | <span class="ashebrew"><big>אִמְּ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'i.me. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  | <span class="ashebrew"><big>הִֽוא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֥ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sister of  |**<big>&#8207;[[H0269\|אֲחֽוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chot-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will uncover  |**<big>&#8207;[[H1540I\|תְגַלֵּ֑ה]]&#8207; </big>**| te.ga.Leh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a relative of  |**<big>&#8207;[[H7607\|שְׁאֵ֥ר]]&#8207; </big>**| she.'Er<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.12|<< Leviticus 18:12]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.14|Leviticus 18:14 >>]]</td></tr></table>
 
 

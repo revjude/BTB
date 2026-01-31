@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶרֶשׁ‎</span></big> **cheresh** <small>*(kheh'-resh)*</small> ==**silently**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַשׁ‎</span><sup><small>[[H2790]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶרֶשׁ‎</span></big>** **cheresh** <small>*(kheh'-resh)*</small> ==**silently**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>from **<big>[[H2790|‎חָרַשׁ‎]]</big>**</small>
 
 $\quad$ cunning, secretly.
 - ***magical craft***

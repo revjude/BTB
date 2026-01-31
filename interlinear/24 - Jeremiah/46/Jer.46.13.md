@@ -6,23 +6,23 @@ This is the word that the LORD spoke to Jeremiah the prophet about the coming of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.12|<< Jeremiah 46:12]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.14|Jeremiah 46:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the word  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דָּבָר֙ </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he spoke  | <span class="ashebrew"><big>דִּבֶּ֣ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶֽל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeremiah  | <span class="ashebrew"><big>יִרְמְיָ֖הוּ </big></span><small><small><sup>[[H3414L]]</sup></small></small> &#8207;| yir.me.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the prophet  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נָּבִ֑יא </big></span><small><small><sup>[[H5030]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> na.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] coming of  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ב֗וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Vo' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebuchadnezzar  | <span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּר֙ </big></span><small><small><sup>[[H5019]]</sup></small></small> &#8207;| ne.vu.khad.re.Tzar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to strike  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַכּ֖וֹת </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ha.Kot <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spoke  |**<big>&#8207;[[H1696G\|דִּבֶּ֣ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֖הוּ]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֑יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] coming of  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0935G\|ב֗וֹא]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  |**<big>&#8207;[[H5019\|נְבֽוּכַדְרֶאצַּר֙]]&#8207; </big>**| ne.vu.khad.re.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֔ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to strike  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5221\|הַכּ֖וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Kot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.12|<< Jeremiah 46:12]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.14|Jeremiah 46:14 >>]]</td></tr></table>
 
 

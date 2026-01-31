@@ -7,28 +7,28 @@ Wisdom [is] too high for a fool: he openeth not his mouth in the gate.
 Wisdom is too high for a fool; he does not open his mouth in the meeting place.<small><sub>**MT:**</sub></small>
 [[Prov.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.6|<< Proverbs 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| insight | <big><span class="asgreek">έννοια</span></big> <sup><small><small>[[G1771]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of \[the\] wise. | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| \[The\] wise | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλίνουσιν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| consider \[things\] | <big><span class="asgreek">λογίζονται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sanhedrins; | <big><span class="asgreek">συνεδρίοις</span></big> <sup><small><small>[[G4892]]</small></small></sup> |
-| \[but the\] uninstructed ones | <big><span class="asgreek">απαιδεύτοις</span></big> <sup><small><small>[[G0521]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συναντά</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| death, | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| Wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| insight | **<big>[[G1771\|έννοια]]</big>** |
+| good | **<big>[[G0018\|αγαθή]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλαις]]</big>** |
+| of \[the\] wise. | **<big>[[G4680\|σοφών]]</big>** |
+| \[The\] wise | **<big>[[G4680\|σοφοί]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλίνουσιν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| consider \[things\] | **<big>[[G3049\|λογίζονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sanhedrins; | **<big>[[G4892\|συνεδρίοις]]</big>** |
+| \[but the\] uninstructed ones | **<big>[[G0521\|απαιδεύτοις]]</big>** |
+| meet with | **<big>[[G4876\|συναντά]]</big>** |
+| death, | **<big>[[G2288\|θάνατος]]</big>** |
 [[Prov.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.6|<< Proverbs 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
 
 

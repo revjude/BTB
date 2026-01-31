@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gilgal</span>, a place associated with the prophets Elijah and Elisha, was the starting point of Elijah's final journey and the location of a prophetic community \([[2Kgs.2.1|2 Kings 2:1]]; 4:38\).
 - A location first mentioned at [[2Kgs.2.1|2Ki.2.1]]; 
-- only referred to as Gilgal<[[H1537H]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Gilgal **<big>[[H1537|גִּלְגָּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.029737,35.222604&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gilgal, mentioned in 2 Kings, was a place associated with the prophets Elijah an
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gilgal | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ל</span>](H1537H) <small>*Hebrew*</small> | 2x | [[2Ki.2.1] & [2Ki.4.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilgal\*\|reference=2Ki.2.1;2Ki.4.38) |
-All Strong's for **Gilgal**: \[[[H1537H]]\]
+| Gilgal | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ל</span>](H1537H) | 2x | [[2Ki.2.1] & [2Ki.4.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilgal\*\|reference=2Ki.2.1;2Ki.4.38) |
+All entries for **Gilgal**:  **<big>[[H1537|גִּלְגָּל]]</big>**

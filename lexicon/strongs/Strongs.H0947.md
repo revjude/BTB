@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בּוּס‎</span></big> **bûwç** <small>*(boos)*</small> ==**to trample**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בּוּס‎</span></big>** **bûwç** <small>*(boos)*</small> ==**to trample**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ loath, tread (down, under (foot)), be polluted.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ $\quad$ **1c2a)** of infants' blind movements
 $\quad$ $\quad$ $\quad$ **1c2b)** of Jerusalem (fig.)
 $\quad$ **1d)** (Hophal) to be trodden down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπαίζω</span><sup><small>[[G1702]]</small></sup> · <span class="asgreek">ἐξουδενόω</span><sup><small>[[G1847]]</small></sup> · <span class="asgreek">καταπατέω</span><sup><small>[[G2662]]</small></sup> · <span class="asgreek">μολύνω</span><sup><small>[[G3435]]</small></sup> · <span class="asgreek">πατέω</span><sup><small>[[G3961]]</small></sup>
+<small>See Greek: </small>**<big>[[G1702|ἐμπαίζω]]</big>** · **<big>[[G1847|ἐξουδενόω]]</big>** · **<big>[[G2662|καταπατέω]]</big>** · **<big>[[G3435|μολύνω]]</big>** · **<big>[[G3961|πατέω]]</big>**

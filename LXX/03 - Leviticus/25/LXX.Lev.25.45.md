@@ -7,37 +7,37 @@ Moreover of the children of the strangers that do sojourn among you, of them sha
 You may also purchase them from the foreigners residing among you or their clans living among you who are born in your land. These may become your property.<small><sub>**MT:**</sub></small>
 [[Lev.25.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.44|<< Leviticus 25:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.46|Leviticus 25:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sojourners | <big><span class="asgreek">παροίκων</span></big> <sup><small><small>[[G3941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you -- | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall acquire, | <big><span class="asgreek">κτήσεσθε</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their relatives | <big><span class="asgreek">συγγενών</span></big> <sup><small><small>[[G4773]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as many | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| happen to be | <big><span class="asgreek">γένωνται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let them be | <big><span class="asgreek">έστωσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a possession! | <big><span class="asgreek">κατάσχεσιν</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sojourners | **<big>[[G3941\|παροίκων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| being | **<big>[[G1510\|όντων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you -- | **<big>[[G1473\|υμίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| these | **<big>[[G3778\|τούτων]]</big>** |
+| you shall acquire, | **<big>[[G2932\|κτήσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their relatives | **<big>[[G4773\|συγγενών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you; | **<big>[[G1473\|υμών]]</big>** |
+| as many | **<big>[[G3745\|όσοι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| happen to be | **<big>[[G1096\|γένωνται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your land, | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| let them be | **<big>[[G1510\|έστωσαν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a possession! | **<big>[[G2697\|κατάσχεσιν]]</big>** |
 [[Lev.25.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.44|<< Leviticus 25:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.46|Leviticus 25:46 >>]]</td></tr></table>
 
 

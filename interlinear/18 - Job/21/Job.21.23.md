@@ -6,15 +6,15 @@ One man dies full of vigor, completely secure and at ease.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.22|<< Job 21:22]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.24|Job 21:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this [one]  | <span class="ashebrew"><big>זֶ֗ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  | <span class="ashebrew"><big>יָ֭מוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| Ya.mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with limb[s] of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶ֣צֶם </big></span><small><small><sup>[[H6106G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.tzem <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completeness his  | <span class="ashebrew"><big>תֻּמּ֑ </big></span><small><small><sup>[[H8537]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tu.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of him  | <span class="ashebrew"><big>כֻּ֝לּ֗ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ku.L <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] at ease  | <span class="ashebrew"><big>שַׁלְאֲנַ֥ן </big></span><small><small><sup>[[H7946]]</sup></small></small> &#8207;| shal.'a.Nan <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and at ease  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁלֵֽיו </big></span><small><small><sup>[[H7961]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.Leiv <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this [one]  |**<big>&#8207;[[H2088\|זֶ֗ה]]&#8207; </big>**| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  |**<big>&#8207;[[H4191\|יָ֭מוּת]]&#8207; </big>**| Ya.mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with limb[s] of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6106G\|עֶ֣צֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completeness his  |**<big>&#8207;[[H8537\|תֻּמּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tu.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of him  |**<big>&#8207;[[H3605\|כֻּ֝לּ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] at ease  |**<big>&#8207;[[H7946\|שַׁלְאֲנַ֥ן]]&#8207; </big>**| shal.'a.Nan<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at ease  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7961\|שָׁלֵֽיו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Leiv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.22|<< Job 21:22]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.24|Job 21:24 >>]]</td></tr></table>
 
 

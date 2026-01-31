@@ -1,4 +1,4 @@
-<small>Also see: [[H8087]] | [[H8092]]</small>
+<small>Also see: **<big>[[H8087|שֶׁמַע]]</big>** | **<big>[[H8092|שִׁמְעָא]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎שִׁמְעִי‎</span><sub>43</sub> **proper name, masculine** usually <span class="bdbLangGreek">Σευεει</span>: 
 

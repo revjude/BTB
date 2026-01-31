@@ -7,29 +7,29 @@ But if not, be it known unto thee, O king, that we will not serve thy gods, nor 
 But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.”<small><sub>**MT:**</sub></small>
 [[Dan.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| not, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| made known | <big><span class="asgreek">γνωστόν</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| let it be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king! | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| serve, | <big><span class="asgreek">λατρεύομεν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνι</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| golden | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you stationed, | <big><span class="asgreek">έστησας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do obeisance to. | <big><span class="asgreek">προσκυνούμεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| not, | **<big>[[G3361\|μη]]</big>** |
+| made known | **<big>[[G1110\|γνωστόν]]</big>** |
+| let it be | **<big>[[G1510\|έστω]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| O king! | **<big>[[G0935\|βασιλεύ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your gods | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| we will not | **<big>[[G3756\|ου]]</big>** |
+| serve, | **<big>[[G3000\|λατρεύομεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| image | **<big>[[G1504\|εικόνι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| golden | **<big>[[G5552\|χρυσή]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| you stationed, | **<big>[[G2476\|έστησας]]</big>** |
+| we will not | **<big>[[G3756\|ου]]</big>** |
+| do obeisance to. | **<big>[[G4352\|προσκυνούμεν]]</big>** |
 [[Dan.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
 

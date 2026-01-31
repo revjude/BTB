@@ -6,18 +6,18 @@ If the ox gores a son or a daughter, it shall be done to him according to the sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.30|<< Exodus 21:30]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.32|Exodus 21:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵ֥ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will gore  | <span class="ashebrew"><big>יִגָּ֖ח </big></span><small><small><sup>[[H5055]]</sup></small></small> &#8207;| yi.Gach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a daughter  | <span class="ashebrew"><big>בַ֣ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| vat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will gore  | <span class="ashebrew"><big>יִגָּ֑ח </big></span><small><small><sup>[[H5055]]</sup></small></small> &#8207;| yi.Gach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to the judgment  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מִּשְׁפָּ֥ט </big></span><small><small><sup>[[H4941G]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּ֖ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be done  | <span class="ashebrew"><big>יֵעָ֥שֶׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ye.'A.seh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>לּֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵ֥ן]]&#8207; </big>**| ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will gore  |**<big>&#8207;[[H5055\|יִגָּ֖ח]]&#8207; </big>**| yi.Gach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a daughter  |**<big>&#8207;[[H1323G\|בַ֣ת]]&#8207; </big>**| vat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will gore  |**<big>&#8207;[[H5055\|יִגָּ֑ח]]&#8207; </big>**| yi.Gach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to the judgment  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4941G\|מִּשְׁפָּ֥ט]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be done  |**<big>&#8207;[[H6213A\|יֵעָ֥שֶׂה]]&#8207; </big>**| ye.'A.seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.30|<< Exodus 21:30]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.32|Exodus 21:32 >>]]</td></tr></table>
 
 

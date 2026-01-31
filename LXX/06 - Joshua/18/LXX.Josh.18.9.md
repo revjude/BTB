@@ -7,40 +7,40 @@ And the men went and passed through the land, and described it by cities into se
 So the men departed and went throughout the land, mapping it city by city into seven portions. Then they returned with the document to Joshua at the camp in Shiloh.<small><sub>**MT:**</sub></small>
 [[Josh.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.8|<< Joshua 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.10|Joshua 18:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spread | <big><span class="asgreek">διήλθον</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| explored | <big><span class="asgreek">εχωροβάτησαν</span></big> <sup><small><small>[[G9781]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they beheld | <big><span class="asgreek">είδοσαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they wrote | <big><span class="asgreek">έγραψαν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| about it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| her cities, | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| portions | <big><span class="asgreek">μερίδας</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought \[it\] | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούν</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] camp | <big><span class="asgreek">παρεμβολήν</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shiloh. | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spread | **<big>[[G1330\|διήλθον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| explored | **<big>[[G9781\|εχωροβάτησαν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they beheld | **<big>[[G1492\|είδοσαν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they wrote | **<big>[[G1125\|έγραψαν]]</big>** |
+| about it | **<big>[[G1473\|αυτήν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| her cities, | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| portions | **<big>[[G3310\|μερίδας]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| a scroll, | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they brought \[it\] | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joshua | **<big>[[G2424\|Ιησούν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] camp | **<big>[[G3925\|παρεμβολήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shiloh. | **<big>[[H7887\|Συλώ]]</big>** |
 [[Josh.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.8|<< Joshua 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.10|Joshua 18:10 >>]]</td></tr></table>
 
 

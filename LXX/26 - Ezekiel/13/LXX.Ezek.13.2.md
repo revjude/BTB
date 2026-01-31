@@ -7,35 +7,35 @@ Son of man, prophesy against the prophets of Israel that prophesy, and say thou 
 “Son of man, prophesy against the prophets of Israel who are now prophesying. Tell those who prophesy out of their own imagination: Hear the word of the LORD!<small><sub>**MT:**</sub></small>
 [[Ezek.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.1|<< Ezekiel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.3|Ezekiel 13:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying! | <big><span class="asgreek">προφητεύοντας</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall speak | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφήταις</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύουσιν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their \[own\] heart. | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall prophesy, | <big><span class="asgreek">προφητεύσεις</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| prophesy | **<big>[[G4395\|προφήτευσον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| prophesying! | **<big>[[G4395\|προφητεύοντας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall speak | **<big>[[G2046\|ερείς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| prophets, | **<big>[[G4396\|προφήταις]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύουσιν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their \[own\] heart. | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall prophesy, | **<big>[[G4395\|προφητεύσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ezek.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.1|<< Ezekiel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.3|Ezekiel 13:3 >>]]</td></tr></table>
 
 

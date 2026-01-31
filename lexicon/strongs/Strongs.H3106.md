@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוּבַל‎</span></big> **Yûwbal** <small>*(yoo-bawl')*</small> ==**Jubal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָבַל‎</span><sup><small>[[H2986]]</small></sup>; stream</small>
+**<big><span class="ashebrew">‎יוּבַל‎</span></big>** **Yûwbal** <small>*(yoo-bawl')*</small> ==**Jubal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2986|‎יָבַל‎]]</big>**; stream</small>
 
 $\quad$ Jubal.
 - § Jubal = *"stream"*

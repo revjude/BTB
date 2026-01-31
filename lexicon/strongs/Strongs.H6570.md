@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּרֶשׁ‎</span></big> **Peresh** <small>*(peh'-resh)*</small> ==**Peresh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎פֶּרֶשׁ‎</span><sup><small>[[H6569]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּרֶשׁ‎</span></big>** **Peresh** <small>*(peh'-resh)*</small> ==**Peresh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6569|‎פֶּרֶשׁ‎]]</big>**</small>
 
 $\quad$ Peresh.
 - § Peresh = *"dung"*

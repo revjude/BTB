@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Timnah</span>, a Canaanite city on the border between Judah and Dan, associated with Judah's son Er and Samson \(Gen. 38:12-14; Josh. 15:10; 19:43; Judg. 14:1-5\).
 - A location in Philistia first mentioned at [[Gen.38.12|Gen.38.12]]; 
-- referred to as Timnah<[[H8553G]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Timnite<[[H8554]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Timnah **<big>[[H8553|תִּמְנָה]]</big>**, or Timnite **<big>[[H8554|תִּמְנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.784368,34.909680&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,6 +12,6 @@ The Timnites are mentioned in [[Judg.15.6|Judges 15:6]] as the people of the Phi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Timnah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8553G) <small>*Hebrew*</small> | 11x | [[Gen.38.12] ... [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnah\*\|reference=Gen.38.12;Gen.38.13;Gen.38.14;Jos.15.10;Jos.19.43;Jdg.14.1;Jdg.14.1;Jdg.14.2;Jdg.14.5;Jdg.14.5;2Ch.28.18) |
-| Timnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8554) <small>*Hebrew*</small> | 1x | [Jdg.15.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnite\*\|reference=Jdg.15.6) |
-All Strong's for **Timnah or Timnites**: \[[[H8553G]]\] \[[[H8554]]\]
+| Timnah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8553G) | 11x | [[Gen.38.12] ... [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnah\*\|reference=Gen.38.12;Gen.38.13;Gen.38.14;Jos.15.10;Jos.19.43;Jdg.14.1;Jdg.14.1;Jdg.14.2;Jdg.14.5;Jdg.14.5;2Ch.28.18) |
+| Timnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8554) | 1x | [Jdg.15.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnite\*\|reference=Jdg.15.6) |
+All entries for **Timnah or Timnites**:  **<big>[[H8553|תִּמְנָה]]</big>** ☩  **<big>[[H8554|תִּמְנִי]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂדֶה‎</span></big> **sâdeh** <small>*(saw-deh')*</small> ==**Sirion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שָׂדַי</span> **sâday** <small>*(saw-dah'-ee)*</small>; from an unused root meaning to spread out</small>
+**<big><span class="ashebrew">‎שָׂדֶה‎</span></big>** **sâdeh** <small>*(saw-deh')*</small> ==**Sirion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׂדַי</span></big>** **sâday** <small>*(saw-dah'-ee)*</small>; from an unused root meaning to spread out</small>
 
 $\quad$ country, field, ground, land, soil, [idiom] wild.
 - ***a field*** (as flat)
@@ -10,4 +10,4 @@ $\quad$ **1b)** of home of wild beasts
 $\quad$ **1c)** plain (opposed to mountain)
 $\quad$ **1d)** land (opposed to sea)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγριος</span><sup><small>[[G0066]]</small></sup> · <span class="asgreek">ἀγρός</span><sup><small>[[G0068]]</small></sup> · <span class="asgreek">ἀμπελών</span><sup><small>[[G0290]]</small></sup> · <span class="asgreek">γεώργιον</span><sup><small>[[G1091]]</small></sup> · <span class="asgreek">γῆ</span><sup><small>[[G1093]]</small></sup> · <span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup> · <span class="asgreek">ὁδός</span><sup><small>[[G3598]]</small></sup> · <span class="asgreek">ὅριον</span><sup><small>[[G3725]]</small></sup> · <span class="asgreek">χώρα</span><sup><small>[[G5561]]</small></sup>
+<small>See Greek: </small>**<big>[[G0066|ἄγριος]]</big>** · **<big>[[G0068|ἀγρός]]</big>** · **<big>[[G0290|ἀμπελών]]</big>** · **<big>[[G1091|γεώργιον]]</big>** · **<big>[[G1093|γῆ]]</big>** · **<big>[[G2233|ἡγέομαι]]</big>** · **<big>[[G3598|ὁδός]]</big>** · **<big>[[G3725|ὅριον]]</big>** · **<big>[[G5561|χώρα]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זְרוֹעַ‎</span></big> **zᵉrôwaʻ** <small>*(zer-o'-ah)*</small> ==**arm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">זְרֹעַ</span> **zᵉrôaʻ** <small>*(zer-o'-ah)*</small>; and (feminine) <span class="ashebrew">זְרוֹעָה</span> **zᵉrôwʻâh** <small>*(zer-o-aw')*</small>; or <span class="ashebrew">זְרֹעָה</span> **zᵉrôʻâh** <small>*(zero-aw')*</small>; from <span class="ashebrew">‎זָרַע‎</span><sup><small>[[H2232]]</small></sup></small>
+**<big><span class="ashebrew">‎זְרוֹעַ‎</span></big>** **zᵉrôwaʻ** <small>*(zer-o'-ah)*</small> ==**arm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">זְרֹעַ</span></big>** **zᵉrôaʻ** <small>*(zer-o'-ah)*</small>; and (feminine) **<big><span class="ashebrew">זְרוֹעָה</span></big>** **zᵉrôwʻâh** <small>*(zer-o-aw')*</small>; or **<big><span class="ashebrew">זְרֹעָה</span></big>** **zᵉrôʻâh** <small>*(zero-aw')*</small>; from **<big>[[H2232|‎זָרַע‎]]</big>**</small>
 
 $\quad$ arm, [phrase] help, mighty, power, shoulder, strength.
 - ***the arm*** (as stretched out), or (of animals) ***the foreleg***
@@ -11,4 +11,4 @@ $\quad$ **1b)** arm (as symbol of strength)
 $\quad$ **1c)** forces (political and military)
 $\quad$ **1d)** shoulder (of animal sacrificed)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντίληψις</span><sup><small>[[G0484]]</small></sup> · <span class="asgreek">βραχίων</span><sup><small>[[G1023]]</small></sup>
+<small>See Greek: </small>**<big>[[G0484|ἀντίληψις]]</big>** · **<big>[[G1023|βραχίων]]</big>**

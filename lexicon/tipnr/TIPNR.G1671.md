@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Greece</span> \(Javan\), a nation and culture mentioned in both the Old and New Testaments.
 - A location in Greece first mentioned at [[Isa.66.19|Isa.66.19]]; 
-- referred to as Greece or Javan or "wine" \(KJV= Javan\) <[[H3120H]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Greece<[[G1671]]> \(<span class='tipnrLangGreek'>Ἑλλάς</span>\), or Hellenist<[[G1675]]> \(<span class='tipnrLangGreek'>Ἑλληνιστής</span>\).
+- referred to as Greece or Javan or "wine" \(KJV= Javan\)  **<big>[[H3120|יָוָן]]</big>**, or Greece **<big>[[G1671|Ἑλλάς]]</big>**, or Hellenist **<big>[[G1675|Ἑλληνιστής]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.95331433666365,27.36782511573013&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,9 +12,9 @@ In the New Testament, Greece is mentioned as a region visited by Paul during his
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Greece | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) <small>*Hebrew*</small> | 4x | [[Dan.8.21] ... [Zec.9.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Greece\*\|reference=Dan.8.21;Dan.10.20;Dan.11.2;Zec.9.13) |
-| Javan | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) <small>*Hebrew*</small> | 2x | [[Isa.66.19] & [Ezk.27.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Javan\*\|reference=Isa.66.19;Ezk.27.13) |
-| wine (KJV= Javan) | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) <small>*Hebrew*</small> | 1x | [Ezk.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=wine\*\|reference=Ezk.27.19) |
-| Greece | [<span class='tipnrLangGreek'>Ἑλλάς</span>](G1671) <small>*Greek*</small> | 1x | [Act.20.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Greece\*\|reference=Act.20.2) |
-| Hellenist <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἑλληνιστής</span>](G1675) <small>*Greek*</small> | 3x | [[Act.6.1] ... [Act.11.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hellenist\*\|reference=Act.6.1;Act.9.29;Act.11.20) |
-All Strong's for **Greece or Javan or Hellenist**: \[[[H3120H]]\] \[[[G1671]]\] \[[[G1675]]\]
+| Greece | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) | 4x | [[Dan.8.21] ... [Zec.9.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Greece\*\|reference=Dan.8.21;Dan.10.20;Dan.11.2;Zec.9.13) |
+| Javan | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) | 2x | [[Isa.66.19] & [Ezk.27.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Javan\*\|reference=Isa.66.19;Ezk.27.13) |
+| wine (KJV= Javan) | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3120H) | 1x | [Ezk.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=wine\*\|reference=Ezk.27.19) |
+| Greece | [<span class='tipnrLangGreek'>Ἑλλάς</span>](G1671) | 1x | [Act.20.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Greece\*\|reference=Act.20.2) |
+| Hellenist <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἑλληνιστής</span>](G1675) | 3x | [[Act.6.1] ... [Act.11.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hellenist\*\|reference=Act.6.1;Act.9.29;Act.11.20) |
+All entries for **Greece or Javan or Hellenist**:  **<big>[[H3120|יָוָן]]</big>** ☩  **<big>[[G1671|Ἑλλάς]]</big>** ☩  **<big>[[G1675|Ἑλληνιστής]]</big>**

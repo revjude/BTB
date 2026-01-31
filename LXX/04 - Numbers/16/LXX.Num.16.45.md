@@ -7,21 +7,21 @@ Get you up from among this congregation, that I may consume them as in a moment.
 “Get away from this congregation so that I may consume them in an instant.” And Moses and Aaron fell facedown.<small><sub>**MT:**</sub></small>
 [[Num.16.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.44|<< Numbers 16:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.46|Numbers 16:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Withdraw | <big><span class="asgreek">εκχωρήσατε</span></big> <sup><small><small>[[G1633]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this congregation, | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall completely consume | <big><span class="asgreek">εξαναλώσω</span></big> <sup><small><small>[[G7294]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at once. | <big><span class="asgreek">εισάπαξ</span></big> <sup><small><small>[[G7065]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fell | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their face. | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Withdraw | **<big>[[G1633\|εκχωρήσατε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this congregation, | **<big>[[G4864\|συναγωγής]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall completely consume | **<big>[[G7294\|εξαναλώσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| at once. | **<big>[[G7065\|εισάπαξ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they fell | **<big>[[G4098\|έπεσον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| their face. | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.16.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.44|<< Numbers 16:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.46|Numbers 16:46 >>]]</td></tr></table>
 
 

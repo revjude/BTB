@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְאָצָה‎</span></big> **nᵉʼâtsâh** <small>*(neh-aw-tsaw')*</small> ==**contempt**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">נֶאָצָה</span> **neʼâtsâh** <small>*(neh-aw-tsaw')*</small>; from <span class="ashebrew">‎נָאַץ‎</span><sup><small>[[H5006]]</small></sup></small>
+**<big><span class="ashebrew">‎נְאָצָה‎</span></big>** **nᵉʼâtsâh** <small>*(neh-aw-tsaw')*</small> ==**contempt**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">נֶאָצָה</span></big>** **neʼâtsâh** <small>*(neh-aw-tsaw')*</small>; from **<big>[[H5006|‎נָאַץ‎]]</big>**</small>
 
 $\quad$ blasphemy.
 - ***scorn***
@@ -7,4 +7,4 @@ $\quad$ blasphemy.
 **1)** contempt, contumely
 **2)** contempt, blasphemy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βλασφημία</span><sup><small>[[G0988]]</small></sup> · <span class="asgreek">ἔλεγχος</span><sup><small>[[G1650]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup> · <span class="asgreek">παροργισμός</span><sup><small>[[G3950]]</small></sup>
+<small>See Greek: </small>**<big>[[G0988|βλασφημία]]</big>** · **<big>[[G1650|ἔλεγχος]]</big>** · **<big>[[G3709|ὀργή]]</big>** · **<big>[[G3950|παροργισμός]]</big>**

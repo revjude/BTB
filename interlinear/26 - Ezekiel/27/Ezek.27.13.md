@@ -6,19 +6,19 @@ Javan, Tubal, and Meshech were your merchants. They exchanged slaves and bronze 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Javan  | <span class="ashebrew"><big>יָוָ֤ן </big></span><small><small><sup>[[H3120H]]</sup></small></small> &#8207;| ya.Van <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tubal  | <span class="ashebrew"><big>תֻּבַל֙ </big></span><small><small><sup>[[H8422H]]</sup></small></small> &#8207;| tu.Val <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Meshech  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֶ֔שֶׁךְ </big></span><small><small><sup>[[H4902H]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Me.shekh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֖מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] traders your  | <span class="ashebrew"><big>רֹֽכְלָ֑יִ </big></span><small><small><sup>[[H7402]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ro.khe.La.yi <small><sup>[[HVqrmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] life of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נֶ֤פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ne.fesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| human[s]  | <span class="ashebrew"><big>אָדָם֙ </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and vessels of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְלֵ֣י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bronze  | <span class="ashebrew"><big>נְחֹ֔שֶׁת </big></span><small><small><sup>[[H5178A]]</sup></small></small> &#8207;| ne.Cho.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they exchanged  | <span class="ashebrew"><big>נָתְנ֖וּ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.te.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| merchandise your  | <span class="ashebrew"><big>מַעֲרָבֵֽ </big></span><small><small><sup>[[H4627]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.'a.ra.Ve <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Javan  |**<big>&#8207;[[H3120H\|יָוָ֤ן]]&#8207; </big>**| ya.Van<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tubal  |**<big>&#8207;[[H8422H\|תֻּבַל֙]]&#8207; </big>**| tu.Val<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Meshech  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H4902H\|מֶ֔שֶׁךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Me.shekh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֖מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] traders your  |**<big>&#8207;[[H7402\|רֹֽכְלָ֑יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ro.khe.La.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] life of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5315H\|נֶ֤פֶשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| human[s]  |**<big>&#8207;[[H0120G\|אָדָם֙]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and vessels of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3627\|כְלֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  |**<big>&#8207;[[H5178A\|נְחֹ֔שֶׁת]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they exchanged  |**<big>&#8207;[[H5414G\|נָתְנ֖וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| merchandise your  |**<big>&#8207;[[H4627\|מַעֲרָבֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.'a.ra.Ve<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
 

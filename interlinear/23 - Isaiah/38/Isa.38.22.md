@@ -6,16 +6,16 @@ And Hezekiah had asked, “What will be the sign that I will go up to the house 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.21|<< Isaiah 38:21]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.1|Isaiah 39:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֥אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hezekiah  | <span class="ashebrew"><big>חִזְקִיָּ֖הוּ </big></span><small><small><sup>[[H2396G]]</sup></small></small> &#8207;| chiz.ki.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מָ֣ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be the] sign  | <span class="ashebrew"><big>א֑וֹת </big></span><small><small><sup>[[H0226G]]</sup></small></small> &#8207;| 'ot <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will go up  | <span class="ashebrew"><big>אֶעֱלֶ֖ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'e.'e.Leh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1004Q]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֖הוּ]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be the] sign  |**<big>&#8207;[[H0226G\|א֑וֹת]]&#8207; </big>**| 'ot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go up  |**<big>&#8207;[[H5927G\|אֶעֱלֶ֖ה]]&#8207; </big>**| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.21|<< Isaiah 38:21]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.1|Isaiah 39:1 >>]]</td></tr></table>
 
 

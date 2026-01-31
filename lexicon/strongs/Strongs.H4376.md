@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָכַר‎</span></big> **mâkar** <small>*(maw-kar')*</small> ==**to sell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָכַר‎</span></big>** **mâkar** <small>*(maw-kar')*</small> ==**to sell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] at all, sell (away, -er, self).
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b2)** to sell oneself
 $\quad$ $\quad$ **1b3)** to be given over to death
 $\quad$ **1c)** (Hithpael) to sell oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποδίδωμι</span><sup><small>[[G0591]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">κτάομαι</span><sup><small>[[G2932]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">πιπράσκω</span><sup><small>[[G4097]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">πωλέω</span><sup><small>[[G4453]]</small></sup>
+<small>See Greek: </small>**<big>[[G0591|ἀποδίδωμι]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G2932|κτάομαι]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4097|πιπράσκω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4453|πωλέω]]</big>**

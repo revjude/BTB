@@ -7,23 +7,23 @@ For the children of Israel walked in all the sins of Jeroboam which he did; they
 The Israelites persisted in all the sins that Jeroboam had committed and did not turn away from them.<small><sub>**MT:**</sub></small>
 [[2Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.21|<< 2 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.23|2 Kings 17:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did -- | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abstain | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \[the\] sins | **<big>[[G0266\|αμαρτίαις]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| he did -- | **<big>[[G4160\|εποίησεν]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| abstain | **<big>[[G0868\|απέστησαν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them; | **<big>[[G1473\|αυτών]]</big>** |
 [[2Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.21|<< 2 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.23|2 Kings 17:23 >>]]</td></tr></table>
 
 

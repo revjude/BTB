@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָלָק‎</span></big> **Châlâq** <small>*(khaw-lawk')*</small> ==**(Mount) Halak**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חָלָק‎</span><sup><small>[[H2509]]</small></sup>; bare</small>
+**<big><span class="ashebrew">‎חָלָק‎</span></big>** **Châlâq** <small>*(khaw-lawk')*</small> ==**(Mount) Halak**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H2509|‎חָלָק‎]]</big>**; bare</small>
 
 $\quad$ Halak.
 - § Halak = *"smooth"*

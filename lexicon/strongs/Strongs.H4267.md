@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחֲנַק‎</span></big> **machănaq** <small>*(makh-an-ak')*</small> ==**strangling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַק‎</span><sup><small>[[H2614]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחֲנַק‎</span></big>** **machănaq** <small>*(makh-an-ak')*</small> ==**strangling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2614|‎חָנַק‎]]</big>**</small>
 
 $\quad$ strangling.
 - ***choking***

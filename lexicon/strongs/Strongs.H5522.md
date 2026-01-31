@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סִכּוּת‎</span></big> **çikkûwth** <small>*(sik-kooth')*</small> ==**Sikkuth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎סָךְ‎</span><sup><small>[[H5519]]</small></sup></small>
+**<big><span class="ashebrew">‎סִכּוּת‎</span></big>** **çikkûwth** <small>*(sik-kooth')*</small> ==**Sikkuth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5519|‎סָךְ‎]]</big>**</small>
 
 $\quad$ tabernacle.
 - § Sikkuth = *"tent"*

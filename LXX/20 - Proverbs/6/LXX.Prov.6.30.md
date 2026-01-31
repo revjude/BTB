@@ -7,18 +7,18 @@
 Men do not despise the thief if he steals to satisfy his hunger.<small><sub>**MT:**</sub></small>
 [[Prov.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.29|<< Proverbs 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.31|Proverbs 6:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| a wonder | <big><span class="asgreek">θαυμαστόν</span></big> <sup><small><small>[[G2298]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| any be captured | <big><span class="asgreek">αλώ</span></big> <sup><small><small>[[G6226]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| stealing; | <big><span class="asgreek">κλέπτων</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| for he steals | <big><span class="asgreek">κλέπτει</span></big> <sup><small><small>[[G2813]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should fill up | <big><span class="asgreek">εμπλήση</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| \[his\] soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \[when\] hungering; | <big><span class="asgreek">πεινώσαν</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| \[It is\] not | **<big>[[G3756\|ου]]</big>** |
+| a wonder | **<big>[[G2298\|θαυμαστόν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| any be captured | **<big>[[G6226\|αλώ]]</big>** **<big>[[G5100\|τις]]</big>** |
+| stealing; | **<big>[[G2813\|κλέπτων]]</big>** |
+| for he steals | **<big>[[G2813\|κλέπτει]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should fill up | **<big>[[G1705\|εμπλήση]]</big>** |
+| \[his\] soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| \[when\] hungering; | **<big>[[G3983\|πεινώσαν]]</big>** |
 [[Prov.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.29|<< Proverbs 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.31|Proverbs 6:31 >>]]</td></tr></table>
 
 

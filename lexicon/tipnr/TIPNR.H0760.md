@@ -1,8 +1,8 @@
 <small>*Aram-zobah • A region mentioned in the title of Psalm 60.*</small>
 
 <span class='tipnrhighlight'>Aram-zobah</span>, a region David fought against, as referenced in Psalm 60's title.
-- A location near Damascus<[[H1834]]> only mentioned at [[1Chr.19.6|Psa.60.1]]; 
-- only referred to as Aram-zobah<[[H0760]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Damascus **<big>[[H1834|דַּמֶּשֶׂק]]</big>** only mentioned at [[1Chr.19.6|Psa.60.1]]; 
+- only referred to as Aram-zobah **<big>[[H0760|אֲרַם צוֹבָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.519299,36.31344999999999&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ David's success against Aram-zobah and the acquisition of valuable resources, su
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aram-zobah (NIV= Aram Zobah) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0760) <small>*Hebrew*</small> | 1x | [Psa.60.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aram\*\|reference=Psa.60.1) |
-All Strong's for **Aram-zobah**: \[[[H0760]]\]
+| Aram-zobah (NIV= Aram Zobah) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ם</span> <span class='tipnrLangHebrew'>צו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0760) | 1x | [Psa.60.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aram\*\|reference=Psa.60.1) |
+All entries for **Aram-zobah**:  **<big>[[H0760|אֲרַם צוֹבָה]]</big>**

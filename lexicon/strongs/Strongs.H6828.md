@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָפוֹן‎</span></big> **tsâphôwn** <small>*(tsaw-fone')*</small> ==**north**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">צָפֹן</span> **tsâphôn** <small>*(tsaw-fone')*</small>; from <span class="ashebrew">‎צָפַן‎</span><sup><small>[[H6845]]</small></sup></small>
+**<big><span class="ashebrew">‎צָפוֹן‎</span></big>** **tsâphôwn** <small>*(tsaw-fone')*</small> ==**north**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">צָפֹן</span></big>** **tsâphôn** <small>*(tsaw-fone')*</small>; from **<big>[[H6845|‎צָפַן‎]]</big>**</small>
 
 $\quad$ north(-ern, side, -ward, wind).
 - properly, ***hidden***, i.e. ***dark***
@@ -9,4 +9,4 @@ $\quad$ north(-ern, side, -ward, wind).
 $\quad$ **1a)** north
 $\quad$ **1b)** northward
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοῤῥᾶς</span><sup><small>[[G1005]]</small></sup> · <span class="asgreek">εὐώνυμος</span><sup><small>[[G2176]]</small></sup>
+<small>See Greek: </small>**<big>[[G1005|βοῤῥᾶς]]</big>** · **<big>[[G2176|εὐώνυμος]]</big>**

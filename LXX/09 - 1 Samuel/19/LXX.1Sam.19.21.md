@@ -7,29 +7,29 @@ And when it was told Saul, he sent other messengers, and they prophesied likewis
 When this was reported to Saul, he sent more messengers, but they began to prophesy as well. So Saul tried again and sent messengers a third time, and even they began to prophesy.<small><sub>**MT:**</sub></small>
 [[1Sam.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.20|<< 1 Samuel 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.22|1 Samuel 19:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was reported | <big><span class="asgreek">απηγγέλη</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| other | <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they prophesied, | <big><span class="asgreek">προεφήτευσαν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they. | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul proceeded | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to send | <big><span class="asgreek">αποστείλαι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| a third \[time\], | <big><span class="asgreek">τρίτους</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they prophesied -- | <big><span class="asgreek">προεφήτευσαν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they. | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was reported | **<big>[[G0518\|απηγγέλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| other | **<big>[[G2087\|ετέρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they prophesied, | **<big>[[G4395\|προεφήτευσαν]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| they. | **<big>[[G1473\|αυτοί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul proceeded | **<big>[[G4369\|προσέθετο]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to send | **<big>[[G0649\|αποστείλαι]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| a third \[time\], | **<big>[[G5154\|τρίτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they prophesied -- | **<big>[[G4395\|προεφήτευσαν]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| they. | **<big>[[G1473\|αυτοί]]</big>** |
 [[1Sam.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.20|<< 1 Samuel 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.22|1 Samuel 19:22 >>]]</td></tr></table>
 
 

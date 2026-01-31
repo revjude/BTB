@@ -11,40 +11,40 @@ It will not be like the covenant I made with their fathers when I took them by t
 > $\quad$ referenced by: [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I ordained | <big><span class="asgreek">διεθέμην</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers, | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I took hold of | <big><span class="asgreek">επελαβόμην</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to lead them | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt; | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| adhere | <big><span class="asgreek">ενέμειναν</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| neglected | <big><span class="asgreek">ημέλησα</span></big> <sup><small><small>[[G0272]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Not | **<big>[[G3756\|ου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I ordained | **<big>[[G1303\|διεθέμην]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their fathers, | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| I took hold of | **<big>[[G1949\|επελαβόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to lead them | **<big>[[G1806\|εξαγαγείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt; | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| adhere | **<big>[[G1696\|ενέμειναν]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| neglected | **<big>[[G0272\|ημέλησα]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And it came to pass through the lightness of her whoredom, that she defiled the 
 Indifferent to her own infidelity, Israel had defiled the land and committed adultery with stones and trees.<small><sub>**MT:**</sub></small>
 [[Jer.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.8|<< Jeremiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.10|Jeremiah 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| nothing \[to her\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her harlotry | <big><span class="asgreek">πορνεία</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she committed adultery | <big><span class="asgreek">εμοίχευσε</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
-| with | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone. | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| nothing \[to her\] | **<big>[[G1519\|εις]]</big>** **<big>[[G3762\|ουδέν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her harlotry | **<big>[[G4202\|πορνεία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she committed adultery | **<big>[[G3431\|εμοίχευσε]]</big>** |
+| with | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wood | **<big>[[G3586\|ξύλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| stone. | **<big>[[G3037\|λίθον]]</big>** |
 [[Jer.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.8|<< Jeremiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.10|Jeremiah 3:10 >>]]</td></tr></table>
 
 

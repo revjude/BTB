@@ -7,17 +7,17 @@ Bind them upon thy fingers, write them upon the table of thine heart.
 Tie them to your fingers; write them on the tablet of your heart.<small><sub>**MT:**</sub></small>
 [[Prov.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.2|<< Proverbs 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.4|Proverbs 7:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Put them on | <big><span class="asgreek">περίθου</span></big> <sup><small><small>[[G4060]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| your | <big><span class="asgreek">σοις</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| fingers, | <big><span class="asgreek">δακτύλοις</span></big> <sup><small><small>[[G1147]]</small></small></sup> |
-| and inscribe \[them\] | <big><span class="asgreek">επίγραψον</span></big> <sup><small><small>[[G1924]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your heart! | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Put them on | **<big>[[G4060\|περίθου]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| your | **<big>[[G4674\|σοις]]</big>** |
+| fingers, | **<big>[[G1147\|δακτύλοις]]</big>** |
+| and inscribe \[them\] | **<big>[[G1924\|επίγραψον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your heart! | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Prov.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.2|<< Proverbs 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.4|Proverbs 7:4 >>]]</td></tr></table>
 
 

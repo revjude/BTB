@@ -7,41 +7,41 @@ The Chaldeans answered before the king, and said, There is not a man upon the ea
 The astrologers answered the king, “No one on earth can do what the king requests! No king, however great and powerful, has ever asked anything like this of any magician, enchanter, or astrologer.<small><sub>**MT:**</sub></small>
 [[Dan.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they say, | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| There is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dry land | <big><span class="asgreek">ξηράς</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
-| who | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| is able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| discourse | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to make known | <big><span class="asgreek">γνωρίσαι</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \[according to\] such | <big><span class="asgreek">τοιούτον</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| asked not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επερωτά</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| an enchanter, | <big><span class="asgreek">επαοιδόν</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
-| magus \[or\] | <big><span class="asgreek">μάγον</span></big> <sup><small><small>[[G3097]]</small></small></sup> |
-| Chaldean. | <big><span class="asgreek">Χαλδαίον</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| Answered | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίοι]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they say, | **<big>[[G3004\|λέγουσιν]]</big>** |
+| There is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| dry land | **<big>[[G3584\|ξηράς]]</big>** |
+| who | **<big>[[G3748\|όστις]]</big>** |
+| is able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| discourse | **<big>[[G4487\|ρήμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| to make known | **<big>[[G1107\|γνωρίσαι]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| \[according to\] such | **<big>[[G5108\|τοιούτον]]</big>** |
+| asked not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1905\|επερωτά]]</big>** |
+| an enchanter, | **<big>[[G7368\|επαοιδόν]]</big>** |
+| magus \[or\] | **<big>[[G3097\|μάγον]]</big>** |
+| Chaldean. | **<big>[[G5466\|Χαλδαίον]]</big>** |
 [[Dan.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
 

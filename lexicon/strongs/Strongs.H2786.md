@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָרַק‎</span></big> **châraq** <small>*(khaw-rak')*</small> ==**to grind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָרַק‎</span></big>** **châraq** <small>*(khaw-rak')*</small> ==**to grind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gnash.
@@ -6,4 +6,4 @@ $\quad$ gnash.
 
 **1)** (Qal) to gnash, grind (the teeth)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βρύχω</span><sup><small>[[G1031]]</small></sup>
+<small>See Greek: </small>**<big>[[G1031|βρύχω]]</big>**

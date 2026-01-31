@@ -6,25 +6,25 @@ You must not bring the wages of a prostitute, whether female or male, into the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.17|<< Deuteronomy 23:17]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.19|Deuteronomy 23:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will bring  | <span class="ashebrew"><big>תָבִיא֩ </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| ta.Vi' <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] price of  | <span class="ashebrew"><big>אֶתְנַ֨ן </big></span><small><small><sup>[[H0868]]</sup></small></small> &#8207;| 'et.Nan <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a prostitute  | <span class="ashebrew"><big>זוֹנָ֜ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| zo.Nah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] hire of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְחִ֣יר </big></span><small><small><sup>[[H4242]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.Chir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a dog  | <span class="ashebrew"><big>כֶּ֗לֶב </big></span><small><small><sup>[[H3611]]</sup></small></small> &#8207;| Ke.lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֛ית </big></span><small><small><sup>[[H1004Q]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֶ֖י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for any  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vow  | <span class="ashebrew"><big>נֶ֑דֶר </big></span><small><small><sup>[[H5088]]</sup></small></small> &#8207;| Ne.der <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] abomination of  | <span class="ashebrew"><big>תוֹעֲבַ֛ת </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| to.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֶ֖י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| both of them  | <span class="ashebrew"><big>שְׁנֵי </big></span><small><small><sup>[[H8147]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.nei. <small><sup>[[HNcbdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring  |**<big>&#8207;[[H0935P\|תָבִיא֩]]&#8207; </big>**| ta.Vi'<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] price of  |**<big>&#8207;[[H0868\|אֶתְנַ֨ן]]&#8207; </big>**| 'et.Nan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  |**<big>&#8207;[[H2181\|זוֹנָ֜ה]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] hire of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4242\|מְחִ֣יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Chir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a dog  |**<big>&#8207;[[H3611\|כֶּ֗לֶב]]&#8207; </big>**| Ke.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֛ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for any  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vow  |**<big>&#8207;[[H5088\|נֶ֑דֶר]]&#8207; </big>**| Ne.der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] abomination of  |**<big>&#8207;[[H8441\|תוֹעֲבַ֛ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both of them  |**<big>&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.nei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.17|<< Deuteronomy 23:17]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.19|Deuteronomy 23:19 >>]]</td></tr></table>
 
 

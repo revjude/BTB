@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Eshcol Valley</span>, where the Israelite spies cut down a large cluster of grapes during their reconnaissance mission in Canaan.
 - A location first mentioned at [[Num.13.23|Num.13.23]]; 
-- only referred to as Eshcol\_Valley<[[H0812H]]><[[H5158H]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֹּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Eshcol\_Valley **<big>[[H0812|אֶשְׁכֹּל]]</big>** **<big>[[H5158|נַחַל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.54909871686872,35.09356062020027&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The Eshcol Valley is also mentioned in Deuteronomy 1:24, recounting the spies' j
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Eshcol (NIV= Eshkol) | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֹּ<span class='tipnrLangHebrew'>ל</span>](H0812H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158H) <small>*Hebrew*</small> | 4x | [[Num.13.23] ... [Deu.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Num.13.23;Num.13.24;Num.32.9;Deu.1.24) |
-All Strong's for **Eshcol_Valley**: \[[[H0812H]]\]
+| Valley/ of Eshcol (NIV= Eshkol) | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֹּ<span class='tipnrLangHebrew'>ל</span>](H0812H)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158H) | 4x | [[Num.13.23] ... [Deu.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Num.13.23;Num.13.24;Num.32.9;Deu.1.24) |
+All entries for **Eshcol Valley**:  **<big>[[H0812|אֶשְׁכֹּל]]</big>**

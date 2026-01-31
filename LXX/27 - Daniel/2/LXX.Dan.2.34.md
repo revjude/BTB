@@ -11,31 +11,31 @@ As you watched, a stone was cut out, but not by human hands. It struck the statu
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You viewed | <big><span class="asgreek">εθεώρεις</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| was shredded | <big><span class="asgreek">απετμήθη</span></big> <sup><small><small>[[G6500]]</small></small></sup> |
-| a stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| hands, | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρούς</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| earthenware; | <big><span class="asgreek">οστρακίνους</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it thinned them out | <big><span class="asgreek">ελέπτυνεν</span></big> <sup><small><small>[[G8183]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| completion. | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| You viewed | **<big>[[G2334\|εθεώρεις]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| was shredded | **<big>[[G6500\|απετμήθη]]</big>** |
+| a stone | **<big>[[G3037\|λίθος]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| a mountain | **<big>[[G3735\|όρους]]</big>** |
+| without | **<big>[[G0427\|άνευ]]</big>** |
+| hands, | **<big>[[G5495\|χειρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| image | **<big>[[G1504\|εικόνα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| feet | **<big>[[G4228\|πόδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| earthenware; | **<big>[[G3749\|οστρακίνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it thinned them out | **<big>[[G8183\|ελέπτυνεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| completion. | **<big>[[G5056\|τέλος]]</big>** |
 [[Dan.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.33|<< Daniel 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.35|Daniel 2:35 >>]]</td></tr></table>
 
 

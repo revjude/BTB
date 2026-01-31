@@ -7,23 +7,23 @@ Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? A
 And the word of the LORD came to me, asking, “Jeremiah, what do you see?” “I see a branch of an almond tree,” I replied.<small><sub>**MT:**</sub></small>
 [[Jer.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.10|<< Jeremiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.12|Jeremiah 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What \[do\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see, | <big><span class="asgreek">οράς</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| Jeremiah? | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| staff | <big><span class="asgreek">βακτηρίαν</span></big> <sup><small><small>[[G6648]]</small></small></sup> |
-| A walnut | <big><span class="asgreek">καρυϊνην</span></big> <sup><small><small>[[G7812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| What \[do\] | **<big>[[G5100\|τι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| see, | **<big>[[G3708\|οράς]]</big>** |
+| Jeremiah? | **<big>[[G2408\|Ιερεμία]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| staff | **<big>[[G6648\|βακτηρίαν]]</big>** |
+| A walnut | **<big>[[G7812\|καρυϊνην]]</big>** |
 [[Jer.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.10|<< Jeremiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.12|Jeremiah 1:12 >>]]</td></tr></table>
 
 

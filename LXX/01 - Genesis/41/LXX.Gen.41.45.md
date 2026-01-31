@@ -7,26 +7,26 @@ And Pharaoh called Joseph’s name Zaphnathpaaneah; and he gave him to wife Asen
 Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Gen.41.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.44|<< Genesis 41:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.46|Genesis 41:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| Zaphnath-paaneah. | <big><span class="asgreek">Ψονθομφανήχ</span></big> <sup><small><small>[[H6847]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Asenath, | <big><span class="asgreek">Ασενέθ</span></big> <sup><small><small>[[H0621]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Poti-phera, | <big><span class="asgreek">Πετεφρή</span></big> <sup><small><small>[[H6318]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of Heliopolis, | <big><span class="asgreek">Ηλιουπόλεως</span></big> <sup><small><small>[[G9829]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh called | **<big>[[G2564\|εκάλεσε]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| Zaphnath-paaneah. | **<big>[[H6847\|Ψονθομφανήχ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Asenath, | **<big>[[H0621\|Ασενέθ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Poti-phera, | **<big>[[H6318\|Πετεφρή]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| of Heliopolis, | **<big>[[G9829\|Ηλιουπόλεως]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| a wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[Gen.41.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.44|<< Genesis 41:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.46|Genesis 41:46 >>]]</td></tr></table>
 
 

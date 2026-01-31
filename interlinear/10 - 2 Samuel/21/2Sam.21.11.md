@@ -6,18 +6,18 @@ When David was told what Saul’s concubine Rizpah, daughter of Aiah, had done,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.10|<< 2 Samuel 21:10]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.12|2 Samuel 21:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was told  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֻּגַּ֖ד </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yu.Gad <small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to David  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָוִ֑ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֧ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she had done  | <span class="ashebrew"><big>עָשְׂתָ֛ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.se.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rizpah  | <span class="ashebrew"><big>רִצְפָּ֥ה </big></span><small><small><sup>[[H7532]]</sup></small></small> &#8207;| ritz.Pah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| vat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aiah  | <span class="ashebrew"><big>אַיָּ֖ה </big></span><small><small><sup>[[H0345H]]</sup></small></small> &#8207;| 'ai.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] concubine of  | <span class="ashebrew"><big>פִּלֶ֥גֶשׁ </big></span><small><small><sup>[[H6370]]</sup></small></small> &#8207;| pi.Le.gesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁאֽוּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֑ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֧ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she had done  |**<big>&#8207;[[H6213A\|עָשְׂתָ֛ה]]&#8207; </big>**| 'a.se.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rizpah  |**<big>&#8207;[[H7532\|רִצְפָּ֥ה]]&#8207; </big>**| ritz.Pah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aiah  |**<big>&#8207;[[H0345H\|אַיָּ֖ה]]&#8207; </big>**| 'ai.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] concubine of  |**<big>&#8207;[[H6370\|פִּלֶ֥גֶשׁ]]&#8207; </big>**| pi.Le.gesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁאֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.10|<< 2 Samuel 21:10]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.12|2 Samuel 21:12 >>]]</td></tr></table>
 
 

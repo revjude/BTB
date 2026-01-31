@@ -7,34 +7,34 @@ Ye mountains of Gilboa, [let there be] no dew, neither [let there be] rain, upon
 O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings of grain. For there the shield of the mighty was defiled, the shield of Saul, no longer anointed with oil.<small><sub>**MT:**</sub></small>
 [[2Sam.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.20|<< 2 Samuel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.22|2 Samuel 1:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilboa, | <big><span class="asgreek">Γελβουέ</span></big> <sup><small><small>[[H1533]]</small></small></sup> |
-| may there not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fall | <big><span class="asgreek">πέσοι</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| neither | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| dew | <big><span class="asgreek">δρόσος</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| nor | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| rain; | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| O fields | <big><span class="asgreek">αγροί</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of first-fruits, | <big><span class="asgreek">απαρχών</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| was loathed | <big><span class="asgreek">προσωχθίσθη</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| \[the\] shield | <big><span class="asgreek">θυρεός</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
-| of \[the\] mighty ones | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| \[the\] shield | <big><span class="asgreek">θυρεός</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| anointed | <big><span class="asgreek">εχρίσθη</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| oil. | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| O mountains | **<big>[[G3735\|όρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gilboa, | **<big>[[H1533\|Γελβουέ]]</big>** |
+| may there not | **<big>[[G3361\|μη]]</big>** |
+| fall | **<big>[[G4098\|πέσοι]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| neither | **<big>[[G3383\|μήτε]]</big>** |
+| dew | **<big>[[G6970\|δρόσος]]</big>** |
+| nor | **<big>[[G3383\|μήτε]]</big>** |
+| rain; | **<big>[[G5205\|υετός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| O fields | **<big>[[G0068\|αγροί]]</big>** |
+| of first-fruits, | **<big>[[G0536\|απαρχών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| was loathed | **<big>[[G4360\|προσωχθίσθη]]</big>** |
+| \[the\] shield | **<big>[[G2375\|θυρεός]]</big>** |
+| of \[the\] mighty ones | **<big>[[G1415\|δυνατών]]</big>** |
+| \[the\] shield | **<big>[[G2375\|θυρεός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| anointed | **<big>[[G5548\|εχρίσθη]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| oil. | **<big>[[G1637\|ελαίω]]</big>** |
 [[2Sam.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.20|<< 2 Samuel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.22|2 Samuel 1:22 >>]]</td></tr></table>
 
 

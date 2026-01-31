@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּעַר‎</span></big> **pâʻar** <small>*(paw-ar')*</small> ==**to open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּעַר‎</span></big>** **pâʻar** <small>*(paw-ar')*</small> ==**to open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gape, open (wide).

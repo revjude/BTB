@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַתְנִיאֵל‎</span></big> **Yathnîyʼêl** <small>*(yath-nee-ale')*</small> ==**Jathniel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from an unused root meaning to endure, and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; continued of God</small>
+**<big><span class="ashebrew">‎יַתְנִיאֵל‎</span></big>** **Yathnîyʼêl** <small>*(yath-nee-ale')*</small> ==**Jathniel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from an unused root meaning to endure, and **<big>[[H0410|‎אֵל‎]]</big>**; continued of God</small>
 
 $\quad$ Jathniel.
 - § Jathniel = *"God hires me"*

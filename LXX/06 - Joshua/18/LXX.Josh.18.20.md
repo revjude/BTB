@@ -7,27 +7,27 @@ And Jordan was the border of it on the east side. This [was] the inheritance of 
 On the east side the border was the Jordan. These were the borders around the inheritance of the clans of the tribe of Benjamin.<small><sub>**MT:**</sub></small>
 [[Josh.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.19|<< Joshua 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.21|Joshua 18:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνης</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| shall define the bounds of | <big><span class="asgreek">οριεί</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their peoples. | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνης]]</big>** |
+| shall define the bounds of | **<big>[[G3724\|οριεί]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] part | **<big>[[G3313\|μέρους]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολών]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομία]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its borders | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| round about, | **<big>[[G2945\|κύκλω]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their peoples. | **<big>[[G1218\|δήμους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.19|<< Joshua 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.21|Joshua 18:21 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@
 Our storehouses will be full, supplying all manner of produce; our flocks will bring forth thousands, tens of thousands in our fields.<small><sub>**MT:**</sub></small>
 [[Ps.144.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.12|<< Psalm 144:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.14|Psalm 144:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their storerooms | <big><span class="asgreek">ταμιεία</span></big> <sup><small><small>[[G5009]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] full, | <big><span class="asgreek">πλήρη</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| discharging forth | <big><span class="asgreek">εξερευγόμενα</span></big> <sup><small><small>[[G7313]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| this one | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| that one; | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] prolific, | <big><span class="asgreek">πολύτοκα</span></big> <sup><small><small>[[G8858]]</small></small></sup> |
-| multiplying | <big><span class="asgreek">πληθύνοντα</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their streets; | <big><span class="asgreek">εξόδοις</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their storerooms | **<big>[[G5009\|ταμιεία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] full, | **<big>[[G4134\|πλήρη]]</big>** |
+| discharging forth | **<big>[[G7313\|εξερευγόμενα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| this one | **<big>[[G3778\|τούτου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| that one; | **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their sheep | **<big>[[G4263\|πρόβατα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] prolific, | **<big>[[G8858\|πολύτοκα]]</big>** |
+| multiplying | **<big>[[G4129\|πληθύνοντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their streets; | **<big>[[G1841\|εξόδοις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.144.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.12|<< Psalm 144:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.14|Psalm 144:14 >>]]</td></tr></table>
 
 

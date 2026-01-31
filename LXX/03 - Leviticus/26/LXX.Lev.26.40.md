@@ -7,28 +7,28 @@ If they shall confess their iniquity, and the iniquity of their fathers, with th
 But if they will confess their iniquity and that of their fathers in the unfaithfulness that they practiced against Me, by which they have also walked in hostility toward Me—<small><sub>**MT:**</sub></small>
 [[Lev.26.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.39|<< Leviticus 26:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.41|Leviticus 26:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall declare openly | <big><span class="asgreek">εξαγορεύσουσι</span></big> <sup><small><small>[[G7279]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins, | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they violated | <big><span class="asgreek">παρέβησαν</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| overlooked | <big><span class="asgreek">υπερείδόν</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sideways. | <big><span class="asgreek">πλάγιοι</span></big> <sup><small><small>[[G8800]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall declare openly | **<big>[[G7279\|εξαγορεύσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their sins, | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their fathers; | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they violated | **<big>[[G3845\|παρέβησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| overlooked | **<big>[[G5237\|υπερείδόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| sideways. | **<big>[[G8800\|πλάγιοι]]</big>** |
 [[Lev.26.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.39|<< Leviticus 26:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.41|Leviticus 26:41 >>]]</td></tr></table>
 
 

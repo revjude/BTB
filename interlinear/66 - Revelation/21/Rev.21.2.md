@@ -10,33 +10,33 @@ And I myself John the city <the> holy Jerusalem new I saw coming down out of <th
 > $\quad$ possibly alluding to: [[LXX.Ezek.40.1|Ezek 40:1]] ☩ [[LXX.Ezek.48.1|Ezek 48:1]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="TR">K</abbr> | |
-| John [^1] |<big><span class="asgreek">Ἰωάννης</span></big> <small><small><sup>[[G2491H]]</sup></small></small> |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| city |<big><span class="asgreek">πόλιν</span></big> <small><small><sup>[[G4172]]</sup></small></small> |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| holy |<big><span class="asgreek">ἁγίαν</span></big> <small><small><sup>[[G0040G]]</sup></small></small> |hagian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jerusalem |<big><span class="asgreek">Ἰερουσαλὴμ</span></big> <small><small><sup>[[G2419]]</sup></small></small> [^2] |Ierousalēm <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| new |<big><span class="asgreek">καινὴν</span></big> <small><small><sup>[[G2537]]</sup></small></small> |kainēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I saw |<big><span class="asgreek">εἶδον</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«7+Byz">NKO</abbr> | |
-| coming down |<big><span class="asgreek">καταβαίνουσαν</span></big> <small><small><sup>[[G2597]]</sup></small></small> |katabainousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heaven |<big><span class="asgreek">οὐρανοῦ</span></big> <small><small><sup>[[G3772]]</sup></small></small> |ouranou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz">NKO</abbr> | |
-| God |<big><span class="asgreek">θεοῦ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«6+Byz">NKO</abbr> | |
-| prepared |<big><span class="asgreek">ἡτοιμασμένην</span></big> <small><small><sup>[[G2090]]</sup></small></small> |hētoimasmenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a bride |<big><span class="asgreek">νύμφην</span></big> <small><small><sup>[[G3565]]</sup></small></small> |numphēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| adorned |<big><span class="asgreek">κεκοσμημένην</span></big> <small><small><sup>[[G2885]]</sup></small></small> |kekosmēmenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| husband |<big><span class="asgreek">ἀνδρὶ</span></big> <small><small><sup>[[G0435H]]</sup></small></small> |andri <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of her. |<big><span class="asgreek">αὐτῆς.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="TR">K</abbr> | |
+| John [^1] |**<big>[[G2491H\|Ἰωάννης]]</big>**  |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| city |**<big>[[G4172\|πόλιν]]</big>**  |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| holy |**<big>[[G0040G\|ἁγίαν]]</big>**  |hagian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jerusalem |**<big>[[G2419\|Ἰερουσαλὴμ]]</big>**  [^2] |Ierousalēm <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| new |**<big>[[G2537\|καινὴν]]</big>**  |kainēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«7+Byz">NKO</abbr> | |
+| coming down |**<big>[[G2597\|καταβαίνουσαν]]</big>**  |katabainousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heaven |**<big>[[G3772\|οὐρανοῦ]]</big>**  |ouranou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz">NKO</abbr> | |
+| God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«6+Byz">NKO</abbr> | |
+| prepared |**<big>[[G2090\|ἡτοιμασμένην]]</big>**  |hētoimasmenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a bride |**<big>[[G3565\|νύμφην]]</big>**  |numphēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| adorned |**<big>[[G2885\|κεκοσμημένην]]</big>**  |kekosmēmenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| husband |**<big>[[G0435H\|ἀνδρὶ]]</big>**  |andri <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of her. |**<big>[[G0846\|αὐτῆς.]]</big>**  |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.1|<< Revelation 21:1]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.3|Revelation 21:3 >>]]</td></tr></table>
 
-[^1]: Extra Text:  <span class='asgreek'>**ἐγὼ**</span>   <span class='asgreek'>**Ἰωάννης**</span>   (<i>egō Iōannēs</i>) 'I myself John' is only in traditional manuscripts (TR)
-[^2]: ==Tyn== spelled: <span class='asgreek'>**Ἱερουσαλὴμ**</span>
+[^1]: Extra Text:  **<big><span class='asgreek'>ἐγὼ</span></big>**   **<big><span class='asgreek'>Ἰωάννης</span></big>**   (<i>egō Iōannēs</i>) 'I myself John' is only in traditional manuscripts (TR)
+[^2]: ==Tyn== spelled: **<big><span class='asgreek'>Ἱερουσαλὴμ</span></big>**

@@ -6,24 +6,24 @@ At that time on a hill east of Jerusalem, Solomon built a high place for Chemosh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.6|<< 1 Kings 11:6]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.8|1 Kings 11:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="ashebrew"><big>אָז֩ </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he built  | <span class="ashebrew"><big>יִבְנֶ֨ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| yiv.Neh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֜ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a high place  | <span class="ashebrew"><big>בָּמָ֗ה </big></span><small><small><sup>[[H1116]]</sup></small></small> &#8207;| ba.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for Chemosh  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כְמוֹשׁ֙ </big></span><small><small><sup>[[H3645]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> kh.mo.Vosh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] detestable thing of  | <span class="ashebrew"><big>שִׁקֻּ֣ץ </big></span><small><small><sup>[[H8251]]</sup></small></small> &#8207;| shi.Kutz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֔ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the mountain  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הָ֕ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440K]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for Molech  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מֹ֕לֶךְ </big></span><small><small><sup>[[H4432]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> Mo.lekh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] detestable thing of  | <span class="ashebrew"><big>שִׁקֻּ֖ץ </big></span><small><small><sup>[[H8251]]</sup></small></small> &#8207;| shi.Kutz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammon  | <span class="ashebrew"><big>עַמּֽוֹן </big></span><small><small><sup>[[H5983]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.Mon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָז֩]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he built  |**<big>&#8207;[[H1129\|יִבְנֶ֨ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֜ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a high place  |**<big>&#8207;[[H1116\|בָּמָ֗ה]]&#8207; </big>**| ba.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Chemosh  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3645\|כְמוֹשׁ֙]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> kh.mo.Vosh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] detestable thing of  |**<big>&#8207;[[H8251\|שִׁקֻּ֣ץ]]&#8207; </big>**| shi.Kutz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֔ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the mountain  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2022G\|הָ֕ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440K\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for Molech  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4432\|מֹ֕לֶךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Mo.lekh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] detestable thing of  |**<big>&#8207;[[H8251\|שִׁקֻּ֖ץ]]&#8207; </big>**| shi.Kutz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammon  |**<big>&#8207;[[H5983\|עַמּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.6|<< 1 Kings 11:6]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.8|1 Kings 11:8 >>]]</td></tr></table>
 
 

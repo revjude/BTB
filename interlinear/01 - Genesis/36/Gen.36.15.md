@@ -6,24 +6,24 @@ These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.14|<< Genesis 36:14]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.16|Genesis 36:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] chiefs of  | <span class="ashebrew"><big>אַלּוּפֵ֣י </big></span><small><small><sup>[[H0441B]]</sup></small></small> &#8207;| 'a.lu.Fei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְנֵֽי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָׂ֑ו </big></span><small><small><sup>[[H6215G]]</sup></small></small> &#8207;| 'e.Sav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֤י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliphaz  | <span class="ashebrew"><big>אֱלִיפַז֙ </big></span><small><small><sup>[[H0464G]]</sup></small></small> &#8207;| 'e.li.Faz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] firstborn of  | <span class="ashebrew"><big>בְּכ֣וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> &#8207;| be.Khor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָׂ֔ו </big></span><small><small><sup>[[H6215G]]</sup></small></small> &#8207;| 'e.Sav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chief  | <span class="ashebrew"><big>אַלּ֤וּף </big></span><small><small><sup>[[H0441B]]</sup></small></small> &#8207;| 'a.Luf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Teman  | <span class="ashebrew"><big>תֵּימָן֙ </big></span><small><small><sup>[[H8487G]]</sup></small></small> &#8207;| tei.Man <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chief  | <span class="ashebrew"><big>אַלּ֣וּף </big></span><small><small><sup>[[H0441B]]</sup></small></small> &#8207;| 'a.Luf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Omar  | <span class="ashebrew"><big>אוֹמָ֔ר </big></span><small><small><sup>[[H0201]]</sup></small></small> &#8207;| 'o.Mar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chief  | <span class="ashebrew"><big>אַלּ֥וּף </big></span><small><small><sup>[[H0441B]]</sup></small></small> &#8207;| 'a.Luf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zepho  | <span class="ashebrew"><big>צְפ֖וֹ </big></span><small><small><sup>[[H6825]]</sup></small></small> &#8207;| tze.Fo <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chief  | <span class="ashebrew"><big>אַלּ֥וּף </big></span><small><small><sup>[[H0441B]]</sup></small></small> &#8207;| 'a.Luf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kenaz  | <span class="ashebrew"><big>קְנַֽז </big></span><small><small><sup>[[H7073G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.Naz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] chiefs of  |**<big>&#8207;[[H0441B\|אַלּוּפֵ֣י]]&#8207; </big>**| 'a.lu.Fei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֑ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliphaz  |**<big>&#8207;[[H0464G\|אֱלִיפַז֙]]&#8207; </big>**| 'e.li.Faz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֣וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֔ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chief  |**<big>&#8207;[[H0441B\|אַלּ֤וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Teman  |**<big>&#8207;[[H8487G\|תֵּימָן֙]]&#8207; </big>**| tei.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chief  |**<big>&#8207;[[H0441B\|אַלּ֣וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Omar  |**<big>&#8207;[[H0201\|אוֹמָ֔ר]]&#8207; </big>**| 'o.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chief  |**<big>&#8207;[[H0441B\|אַלּ֥וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zepho  |**<big>&#8207;[[H6825\|צְפ֖וֹ]]&#8207; </big>**| tze.Fo<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chief  |**<big>&#8207;[[H0441B\|אַלּ֥וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kenaz  |**<big>&#8207;[[H7073G\|קְנַֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.Naz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.14|<< Genesis 36:14]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.16|Genesis 36:16 >>]]</td></tr></table>
 
 

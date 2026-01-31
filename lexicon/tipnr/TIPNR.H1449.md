@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gederah</span>, a town in Judah, was the home of Baal-hanan, one of David's overseers, and Jozabad, one of his mighty men.
 - A location first mentioned at [[Josh.15.36|Jos.15.36]]; 
-- referred to as Gederah<[[H1449]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Gederah<[[H1452]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Gederite<[[H1451]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Gederah **<big>[[H1449|גְּדֵרָה]]</big>**, or Gederah **<big>[[H1452|גְּדֵרָתִי]]</big>**, or Gederite **<big>[[H1451|גְּדֵרִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.823337,34.777779&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,7 +18,7 @@ The exact location of Gederah is not specified in the Bible, but based on its as
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gederah | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1449) <small>*Hebrew*</small> | 2x | [[Jos.15.36] & [1Ch.4.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederah\*\|reference=Jos.15.36;1Ch.4.23) |
-| Gederah | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H1452) <small>*Hebrew*</small> | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederah\*\|reference=1Ch.12.4) |
-| Gederite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1451) <small>*Hebrew*</small> | 1x | [1Ch.27.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederite\*\|reference=1Ch.27.28) |
-All Strong's for **Gederah**: \[[[H1449]]\] \[[[H1452]]\] \[[[H1451]]\]
+| Gederah | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1449) | 2x | [[Jos.15.36] & [1Ch.4.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederah\*\|reference=Jos.15.36;1Ch.4.23) |
+| Gederah | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H1452) | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederah\*\|reference=1Ch.12.4) |
+| Gederite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1451) | 1x | [1Ch.27.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederite\*\|reference=1Ch.27.28) |
+All entries for **Gederah**:  **<big>[[H1449|גְּדֵרָה]]</big>** ☩  **<big>[[H1452|גְּדֵרָתִי]]</big>** ☩  **<big>[[H1451|גְּדֵרִי]]</big>**

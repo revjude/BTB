@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְצֹבָיָה‎</span></big> **Mᵉtsôbâyâh** <small>*(mets-o-baw-yaw')*</small> ==**Mezobaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎מָצָא‎</span><sup><small>[[H4672]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; found of Jah</small>
+**<big><span class="ashebrew">‎מְצֹבָיָה‎</span></big>** **Mᵉtsôbâyâh** <small>*(mets-o-baw-yaw')*</small> ==**Mezobaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>apparently from **<big>[[H4672|‎מָצָא‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; found of Jah</small>
 
 $\quad$ Mesobaite.
 - § Mesobaite = *"the one set up of JAH"*

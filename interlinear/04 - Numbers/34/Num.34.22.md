@@ -6,15 +6,15 @@ Bukki son of Jogli, a leader from the tribe of Dan;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.21|<< Numbers 34:21]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.23|Numbers 34:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and of [the] tribe of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטֵּ֥ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dan  | <span class="ashebrew"><big>דָ֖ן </big></span><small><small><sup>[[H1835G]]</sup></small></small> &#8207;| dan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a leader  | <span class="ashebrew"><big>נָשִׂ֑יא </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| na.Si' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bukki  | <span class="ashebrew"><big>בֻּקִּ֖י </big></span><small><small><sup>[[H1231G]]</sup></small></small> &#8207;| bu.Ki <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jogli  | <span class="ashebrew"><big>יָגְלִֽי </big></span><small><small><sup>[[H3020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.ge.Li <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of [the] tribe of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4294H\|מַטֵּ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dan  |**<big>&#8207;[[H1835G\|דָ֖ן]]&#8207; </big>**| dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a leader  |**<big>&#8207;[[H5387A\|נָשִׂ֑יא]]&#8207; </big>**| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bukki  |**<big>&#8207;[[H1231G\|בֻּקִּ֖י]]&#8207; </big>**| bu.Ki<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jogli  |**<big>&#8207;[[H3020\|יָגְלִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.ge.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.21|<< Numbers 34:21]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.23|Numbers 34:23 >>]]</td></tr></table>
 
 

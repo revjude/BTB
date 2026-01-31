@@ -147,7 +147,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.34.29|29]]**<span class=
 
 [^56]: [[2Kgs.25|2Kgs 25:22]]; [[Jer.26|Jer 26:24]], [[Jer.40|Jer 40:6]], [[Jer.40|Jer 40:9]], [[Jer.40|Jer 40:14]]
 
-[^57]: This person seems to have borne both the name of Achbor and Abdon. [[2Kgs.22|2Kgs 22:12]]; Achbor, [[Jer.26|Jer 26:22]]; Michah, ***Michaiah***, <span class="asgreek"><span class='asgreek'>ξιλιδ</span></span> (<span class="ashebrew">‎מִיכָיְהוּ‎</span><sup><small>[[H4321]]</small></sup>), as he is named in the parallel passage, is here called <span class="asgreek"><span class='asgreek'>ξιλδ</span> </span> (<span class="ashebrew">‎מִיכָה‎</span><sup><small>[[H4318]]</small></sup>), ***Michah***, merely by the omission of <span class="asgreek"><span class='asgreek'>ιδ</span></span> (<span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>) ***yah***, one of the Divine names.
+[^57]: This person seems to have borne both the name of Achbor and Abdon. [[2Kgs.22|2Kgs 22:12]]; Achbor, [[Jer.26|Jer 26:22]]; Michah, ***Michaiah***, <span class="asgreek"><span class='asgreek'>ξιλιδ</span></span> ( [[H4321|‎מִיכָיְהוּ‎]] ), as he is named in the parallel passage, is here called <span class="asgreek"><span class='asgreek'>ξιλδ</span> </span> ( [[H4318|‎מִיכָה‎]] ), ***Michah***, merely by the omission of <span class="asgreek"><span class='asgreek'>ιδ</span></span> ( [[H3050|‎יָהּ‎]] ) ***yah***, one of the Divine names.
 
 [^58]: This variation only exists in the translation; the original being uniformly ***Asaiah***, or rather, ***Asayah***. [[2Kgs.22|2Kgs 22:12]], ***Asahiah***
 

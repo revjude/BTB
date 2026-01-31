@@ -7,19 +7,19 @@ But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
 But I have trusted in Your loving devotion; my heart will rejoice in Your salvation.<small><sub>**MT:**</sub></small>
 [[Ps.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.4|<< Psalm 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.6|Psalm 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy | <big><span class="asgreek">ελέει</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hoped | <big><span class="asgreek">ήλπισα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| shall exult | <big><span class="asgreek">αγαλλιάσεται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance. | <big><span class="asgreek">σωτηρίω</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your mercy | **<big>[[G1656\|ελέει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| hoped | **<big>[[G1679\|ήλπισα]]</big>** |
+| shall exult | **<big>[[G0021\|αγαλλιάσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your deliverance. | **<big>[[G4992\|σωτηρίω]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.4|<< Psalm 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.6|Psalm 13:6 >>]]</td></tr></table>
 
 

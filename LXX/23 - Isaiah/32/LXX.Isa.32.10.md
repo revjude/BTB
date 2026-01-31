@@ -7,26 +7,26 @@ Many days and years shall ye be troubled, ye careless women: for the vintage sha
 In a little more than a year you will tremble, O secure ones. For the grape harvest will fail and the fruit harvest will not arrive.<small><sub>**MT:**</sub></small>
 [[Isa.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.9|<< Isaiah 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.11|Isaiah 32:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for \[the\] days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of a year | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| mention | <big><span class="asgreek">μνείαν</span></big> <sup><small><small>[[G3417]]</small></small></sup> |
-| Make | <big><span class="asgreek">ποιήσασθε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| grief, | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| \[yet\] with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| hope! | <big><span class="asgreek">ελπίδος</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| has been consumed | <big><span class="asgreek">ανήλωται</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| The gathering of crops | <big><span class="asgreek">τρυγητός</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| has ceased | <big><span class="asgreek">πέπαυται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sowing | <big><span class="asgreek">σπόρος</span></big> <sup><small><small>[[G4703]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| it come. | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| for \[the\] days | **<big>[[G2250\|ημέρας]]</big>** |
+| of a year | **<big>[[G1763\|ενιαυτού]]</big>** |
+| mention | **<big>[[G3417\|μνείαν]]</big>** |
+| Make | **<big>[[G4160\|ποιήσασθε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| grief, | **<big>[[G3601\|οδύνη]]</big>** |
+| \[yet\] with | **<big>[[G3326\|μετ΄]]</big>** |
+| hope! | **<big>[[G1680\|ελπίδος]]</big>** |
+| has been consumed | **<big>[[G0355\|ανήλωται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| The gathering of crops | **<big>[[G9506\|τρυγητός]]</big>** |
+| has ceased | **<big>[[G3973\|πέπαυται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sowing | **<big>[[G4703\|σπόρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| it come. | **<big>[[G2064\|έλθη]]</big>** |
 [[Isa.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.9|<< Isaiah 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.11|Isaiah 32:11 >>]]</td></tr></table>
 
 

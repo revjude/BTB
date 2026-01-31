@@ -7,27 +7,27 @@ They shall not take a wife [that is] a whore, or profane; neither shall they tak
 A priest must not marry a woman defiled by prostitution or divorced by her husband, for the priest is holy to his God.<small><sub>**MT:**</sub></small>
 [[Lev.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.6|<< Leviticus 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.8|Leviticus 21:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| harlot | <big><span class="asgreek">πόρνην</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being profaned | <big><span class="asgreek">βεβηλωμένην</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take; | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| being cast out | <big><span class="asgreek">εκβεβλημένην</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| her husband | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take; | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he is holy | <big><span class="asgreek">άγιός</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| harlot | **<big>[[G4204\|πόρνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being profaned | **<big>[[G0953\|βεβηλωμένην]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| take; | **<big>[[G2983\|λήψονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| being cast out | **<big>[[G1544\|εκβεβλημένην]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| her husband | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| take; | **<big>[[G2983\|λήψονται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he is holy | **<big>[[G0039\|άγιός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| \[to\] the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.6|<< Leviticus 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.8|Leviticus 21:8 >>]]</td></tr></table>
 
 

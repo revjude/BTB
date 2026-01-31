@@ -10,30 +10,30 @@ Thus saith the LORD; For three transgressions of Moab, and for four, I will not 
 This is what the LORD says: “For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom’s king.<small><sub>**MT:**</sub></small>
 [[Amos.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.15|<< Amos 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.2|Amos 2:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they incinerated | <big><span class="asgreek">κατέκαυσαν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Edom | <big><span class="asgreek">Ιδουμαίας</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| powder. | <big><span class="asgreek">κονίαν</span></big> <sup><small><small>[[G8062]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| it. | **<big>[[G1473\|αυτόν]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they incinerated | **<big>[[G2618\|κατέκαυσαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Edom | **<big>[[H0123\|Ιδουμαίας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| powder. | **<big>[[G8062\|κονίαν]]</big>** |
 [[Amos.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.15|<< Amos 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.2|Amos 2:2 >>]]</td></tr></table>
 
 

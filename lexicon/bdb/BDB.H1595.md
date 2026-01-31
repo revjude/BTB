@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H1596]]</small>
+<small>Aramaic form: **<big>[[H1596|גְּנַז]]</big>**</small>
  [<span class="bdbLangHebrew">‎גְּנָזִים‎</span>] **noun [masculine] plural** 
 
 **1.** ==chests== (?); 

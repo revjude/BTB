@@ -10,44 +10,44 @@ And it came to pass the same year, in the beginning of the reign of Zedekiah kin
 In the fifth month of that same year, the fourth year, near the beginning of the reign of King Zedekiah of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the LORD in the presence of the priests and all the people:<small><sub>**MT:**</sub></small>
 [[Jer.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.22|<< Jeremiah 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.2|Jeremiah 28:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of \[the\] reigning | <big><span class="asgreek">βασιλεύοντος</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| of Zedekiah | <big><span class="asgreek">Σεδεκίου</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth | <big><span class="asgreek">πέμπτω</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hananiah | <big><span class="asgreek">Ανανίας</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
-| (son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azur | <big><span class="asgreek">Αζώρ</span></big> <sup><small><small>[[H5809]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| false prophet, | <big><span class="asgreek">ψευδοπροφήτης</span></big> <sup><small><small>[[G5578]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Gibeon) | <big><span class="asgreek">Γαβαών</span></big> <sup><small><small>[[H1391]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| of \[the\] reigning | **<big>[[G0936\|βασιλεύοντος]]</big>** |
+| of Zedekiah | **<big>[[H6667\|Σεδεκίου]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| fifth | **<big>[[G3991\|πέμπτω]]</big>** |
+| said | **<big>[[G2036\|είπέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| Hananiah | **<big>[[H2608b\|Ανανίας]]</big>** |
+| (son | **<big>[[G5207\|υιός]]</big>** |
+| of Azur | **<big>[[H5809\|Αζώρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| false prophet, | **<big>[[G5578\|ψευδοπροφήτης]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Gibeon) | **<big>[[H1391\|Γαβαών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in front of | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Jer.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.22|<< Jeremiah 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.2|Jeremiah 28:2 >>]]</td></tr></table>
 
 

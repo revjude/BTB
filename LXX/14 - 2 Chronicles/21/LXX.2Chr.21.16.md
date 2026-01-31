@@ -10,22 +10,22 @@ Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and 
 Then the LORD stirred against Jehoram the spirit of the Philistines and Arabs who lived near the Cushites.<small><sub>**MT:**</sub></small>
 [[2Chr.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.15|<< 2 Chronicles 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.17|2 Chronicles 21:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> roused | <big><span class="asgreek">επήγειρε</span></big> <sup><small><small>[[G1892]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jehoram | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabians, | <big><span class="asgreek">Άραβας</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| adjoining | <big><span class="asgreek">ομόρους</span></big> <sup><small><small>[[G8512]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ethiopians. | <big><span class="asgreek">Αιθιόπων</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> roused | **<big>[[G1892\|επήγειρε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jehoram | **<big>[[G2496\|Ιωράμ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Arabians, | **<big>[[G0688\|Άραβας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| adjoining | **<big>[[G8512\|ομόρους]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Ethiopians. | **<big>[[G0128\|Αιθιόπων]]</big>** |
 [[2Chr.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.15|<< 2 Chronicles 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.17|2 Chronicles 21:17 >>]]</td></tr></table>
 
 

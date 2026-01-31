@@ -7,26 +7,26 @@ Now it came to pass, when the kingdom was established to him, that he slew his s
 As soon as the kingdom was firmly in his grasp, Amaziah executed the servants who had murdered his father the king.<small><sub>**MT:**</sub></small>
 [[2Chr.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.2|<< 2 Chronicles 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.4|2 Chronicles 25:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| was placed | <big><span class="asgreek">κατέστη</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he killed | <big><span class="asgreek">εθανάτωσε</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants -- | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones murdering | <big><span class="asgreek">φονεύσαντας</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| was placed | **<big>[[G2525\|κατέστη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he killed | **<big>[[G2289\|εθανάτωσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants -- | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones murdering | **<big>[[G5407\|φονεύσαντας]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.2|<< 2 Chronicles 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.4|2 Chronicles 25:4 >>]]</td></tr></table>
 
 

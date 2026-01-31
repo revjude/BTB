@@ -4,16 +4,16 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Joash</span> was a descendant of Benjamin through Becher, mentioned in the genealogy of the tribe \([[1Chr.7.8|1Ch.7.8]]\).
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, only mentioned at [[1Chr.7.8|1Ch.7.8]]; 
-- only referred to as Joash<[[H3135G]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  son of Becher<[[H1071G]]>; 
-- a brother of Zemirah<[[H2160]]>, Eliezer<[[H0461I]]>, Elioenai<[[H0454I]]>, Omri<[[H6018H]]>, Jeremoth<[[H3406H]]>, Abijah<[[H0029K]]>, Anathoth<[[H6068H]]> and Alemeth<[[H5964H]]>.
+- only referred to as Joash **<big>[[H3135|יוֹעָשׁ]]</big>**; 
+-  son of Becher **<big>[[H1071|בֶכֶר]]</big>**; 
+- a brother of Zemirah **<big>[[H2160|זְמִירָה]]</big>**, Eliezer **<big>[[H0461|אֱלִיעֶזֶר]]</big>**, Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>**, Omri **<big>[[H6018|עׇמְרִי]]</big>**, Jeremoth **<big>[[H3406|יְרִימוֹת]]</big>**, Abijah **<big>[[H0029|אֲבִיָּה]]</big>**, Anathoth **<big>[[H6068|עֲנָתוֹת]]</big>** and Alemeth **<big>[[H5964|עָלֶמֶת]]</big>**.
 
 Joash is mentioned in [[1Chr.7.8|1 Chronicles 7:8]] as one of the sons of Becher, a descendant of Benjamin. He is listed along with his brothers Zemira, Zemirah, and Eliezer. This genealogical record provides insight into the family structure within the tribe of Benjamin.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3135G) <small>*Hebrew*</small> | 1x | [1Ch.7.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=1Ch.7.8) |
-All Strong's for **Joash**: \[[[H3135G]]\]
+| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3135G) | 1x | [1Ch.7.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=1Ch.7.8) |
+All entries for **Joash**:  **<big>[[H3135|יוֹעָשׁ]]</big>**
 #### Related Profiles:
 - **[Becher](H1071G)** (father)
 - **[Zemirah](H2160)** (sibling)

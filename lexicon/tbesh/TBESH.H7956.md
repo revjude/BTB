@@ -1,8 +1,6 @@
-<span class="ashebrew">‎שֵׁלָה‎</span> <small>***(she.lah)***</small> ==**Shelah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[Gen.38.5|Gen.38.5]]
--  son of: Judah ([[H3063]]) and Bath-shua ([[H1323I]])
--  brother of: Er ([[H6147]]) and Onan ([[H0209]])
--  half-brother of: Perez ([[H6557]]) and Zerah ([[H2226I]])
--  father of: Er ([[H6147H]]), Laadah ([[H3935]]), Jokim ([[H3137]]), Joash ([[H3101K]]) and Saraph ([[H8315]]); also called Shelanite at [[Num.26.20|Num.26.20]]
-- Also named: <i>she.la.ni</i> (<span class='ashebrew'>‎ש‎</span>ֵׁ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎נ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Shelanite" [[H8024]])
-
+-  son of: Judah (**<big>[[H3063|יְהוּדָה]]</big>**) and Bath-shua (**<big>[[H1323I|בַּת]]</big>**)
+-  brother of: Er (**<big>[[H6147|עֵר]]</big>**) and Onan (**<big>[[H0209|אוֹנָן]]</big>**)
+-  half-brother of: Perez (**<big>[[H6557|פֶּרֶץ]]</big>**) and Zerah (**<big>[[H2226I|זֶרַח]]</big>**)
+-  father of: Er (**<big>[[H6147H|עֵר]]</big>**), Laadah (**<big>[[H3935|לַעְדָּה]]</big>**), Jokim (**<big>[[H3137|יוֹקִים]]</big>**), Joash (**<big>[[H3101K|יוֹאָשׁ]]</big>**) and Saraph (**<big>[[H8315|שָׂרָף]]</big>**); also called Shelanite at [[Num.26.20|Num.26.20]]
+- Also named: <i>she.la.ni</i> (<span class='ashebrew'>‎ש‎</span>ֵׁ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎נ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Shelanite" **<big>[[H8024|שֵׁלָנִי]]</big>**)

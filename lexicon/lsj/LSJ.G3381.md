@@ -1,4 +1,4 @@
-combination of: <small>[[G4458]] ([[G3361]]+[[G4458]])</small> 
+combination of: <small>**<big>[[G4458|-πώς]]</big>** (**<big>[[G3361|μή]]</big>**+**<big>[[G4458|-πώς]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==μήπως==</span></b> 

@@ -6,29 +6,29 @@ For this is what the LORD says: “If those who do not deserve to drink the cup 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹ֣ה </big></span><small><small><sup>[[H3541]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִ֠נֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| Hi.neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] who  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>אֵ֨ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sentence their  | <span class="ashebrew"><big>מִשְׁפָּטָ֜ </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| mish.pa.Ta <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] to drink  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁתּ֤וֹת </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.Tot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the cup  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כּוֹס֙ </big></span><small><small><sup>[[H3563A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> kOs <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completely \<to drink>  | <span class="ashebrew"><big>שָׁת֣וֹ </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| sha.To <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will drink [it]  | <span class="ashebrew"><big>יִשְׁתּ֔וּ </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| yish.Tu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֣ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completely \<exempt from punishment>  | <span class="ashebrew"><big>נָקֹ֖ה </big></span><small><small><sup>[[H5352]]</sup></small></small> &#8207;| na.Koh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you be exempt from punishment?  | <span class="ashebrew"><big>תִּנָּקֶ֑ה </big></span><small><small><sup>[[H5352]]</sup></small></small> &#8207;| ti.na.Keh <small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be exempt from punishment  | <span class="ashebrew"><big>תִנָּקֶ֔ה </big></span><small><small><sup>[[H5352]]</sup></small></small> &#8207;| ti.na.Keh <small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<drink>  | <span class="ashebrew"><big>שָׁתֹ֖ה </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| sha.Toh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will drink [it]  | <span class="ashebrew"><big>תִּשְׁתֶּֽה </big></span><small><small><sup>[[H8354]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.Teh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִ֠נֵּה]]&#8207; </big>**| Hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H0369\|אֵ֨ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sentence their  |**<big>&#8207;[[H4941H\|מִשְׁפָּטָ֜]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mish.pa.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] to drink  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּ֤וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cup  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3563A\|כּוֹס֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kOs<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completely \<to drink>  |**<big>&#8207;[[H8354\|שָׁת֣וֹ]]&#8207; </big>**| sha.To<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will drink [it]  |**<big>&#8207;[[H8354\|יִשְׁתּ֔וּ]]&#8207; </big>**| yish.Tu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completely \<exempt from punishment>  |**<big>&#8207;[[H5352\|נָקֹ֖ה]]&#8207; </big>**| na.Koh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you be exempt from punishment?  |**<big>&#8207;[[H5352\|תִּנָּקֶ֑ה]]&#8207; </big>**| ti.na.Keh<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be exempt from punishment  |**<big>&#8207;[[H5352\|תִנָּקֶ֔ה]]&#8207; </big>**| ti.na.Keh<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<drink>  |**<big>&#8207;[[H8354\|שָׁתֹ֖ה]]&#8207; </big>**| sha.Toh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will drink [it]  |**<big>&#8207;[[H8354\|תִּשְׁתֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.Teh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 
 

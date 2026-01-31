@@ -6,18 +6,18 @@ The mountains quaked before the LORD, the One of Sinai, before the LORD, the God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.4|<< Judges 5:4]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.6|Judges 5:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] mountains  | <span class="ashebrew"><big>הָרִ֥ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they flowed  | <span class="ashebrew"><big>נָזְל֖וּ </big></span><small><small><sup>[[H5140]]</sup></small></small> &#8207;| na.ze.Lu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֣ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sinai  | <span class="ashebrew"><big>סִינַ֔י </big></span><small><small><sup>[[H5514G]]</sup></small></small> &#8207;| si.Nai <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֕י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'e.lo.Hei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountains  |**<big>&#8207;[[H2022G\|הָרִ֥ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they flowed  |**<big>&#8207;[[H5140\|נָזְל֖וּ]]&#8207; </big>**| na.ze.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  |**<big>&#8207;[[H5514G\|סִינַ֔י]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֕י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.4|<< Judges 5:4]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.6|Judges 5:6 >>]]</td></tr></table>
 
 

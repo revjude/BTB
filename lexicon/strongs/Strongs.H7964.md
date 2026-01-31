@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁלּוּחַ‎</span></big> **shillûwach** <small>*(shil-loo'-akh)*</small> ==**parting gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שִׁלֻּחַ</span> **shilluach** <small>*(shil-loo'-akh)*</small>; from <span class="ashebrew">‎שָׁלַח‎</span><sup><small>[[H7971]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁלּוּחַ‎</span></big>** **shillûwach** <small>*(shil-loo'-akh)*</small> ==**parting gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שִׁלֻּחַ</span></big>** **shilluach** <small>*(shil-loo'-akh)*</small>; from **<big>[[H7971|‎שָׁלַח‎]]</big>**</small>
 
 $\quad$ presents, have sent back.
 - (only in plural) ***a dismissal***, i.e. (of a wife) ***divorce*** (especially the document)

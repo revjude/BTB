@@ -7,30 +7,30 @@ Ye shall therefore keep my statutes and my judgments, and shall not commit [any]
 But you are to keep My statutes and ordinances, and you must not commit any of these abominations—neither your native-born nor the foreigner who lives among you.<small><sub>**MT:**</sub></small>
 [[Lev.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.25|<< Leviticus 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.27|Leviticus 18:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall guard | <big><span class="asgreek">φυλάξεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my laws, | <big><span class="asgreek">νόμιμά</span></big> <sup><small><small>[[G8403]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders, | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| any of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">παντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these abominations | <big><span class="asgreek">βδελυγμάτων</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| native inhabitant | <big><span class="asgreek">εγχώριος</span></big> <sup><small><small>[[G7042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uniting | <big><span class="asgreek">προσγενόμενος</span></big> <sup><small><small>[[G8913]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">προσήλυτος</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall guard | **<big>[[G5442\|φυλάξεσθε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my laws, | **<big>[[G8403\|νόμιμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my orders, | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| any of | **<big>[[G0575\|από]]</big>** **<big>[[G3956\|παντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| these abominations | **<big>[[G0946\|βδελυγμάτων]]</big>** **<big>[[G3778\|τούτων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| native inhabitant | **<big>[[G7042\|εγχώριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| uniting | **<big>[[G8913\|προσγενόμενος]]</big>** |
+| foreigner | **<big>[[G4339\|προσήλυτος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.25|<< Leviticus 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.27|Leviticus 18:27 >>]]</td></tr></table>
 
 

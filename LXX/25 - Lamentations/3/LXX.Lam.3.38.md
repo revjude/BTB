@@ -7,16 +7,16 @@ Out of the mouth of the most High proceedeth not evil and good?
 Do not both adversity and good come from the mouth of the Most High?<small><sub>**MT:**</sub></small>
 [[Lam.3.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.37|<< Lamentations 3:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.39|Lamentations 3:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] highest | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| shall not come forth | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| bad | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good? | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of \[the\] highest | **<big>[[G5310\|υψίστου]]</big>** |
+| shall not come forth | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1831\|εξελεύσεται]]</big>** |
+| bad | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| good? | **<big>[[G0018\|αγαθόν]]</big>** |
 [[Lam.3.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.37|<< Lamentations 3:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.39|Lamentations 3:39 >>]]</td></tr></table>
 
 

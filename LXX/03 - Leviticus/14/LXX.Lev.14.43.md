@@ -7,33 +7,33 @@ And if the plague come again, and break out in the house, after that he hath tak
 If the mildew reappears in the house after the stones have been torn out and the house has been scraped and replastered,<small><sub>**MT:**</sub></small>
 [[Lev.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.42|<< Leviticus 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.44|Leviticus 14:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should come | <big><span class="asgreek">επέλθη</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should rise up | <big><span class="asgreek">ανατείλη</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking away | <big><span class="asgreek">εξελείν</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stones, | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scraping | <big><span class="asgreek">αποξυσθήναι</span></big> <sup><small><small>[[G6463]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plastering, | <big><span class="asgreek">εξαλειφθήναι</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should come | **<big>[[G1904\|επέλθη]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should rise up | **<big>[[G0393\|ανατείλη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| taking away | **<big>[[G1807\|εξελείν]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| stones, | **<big>[[G3037\|λίθους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scraping | **<big>[[G6463\|αποξυσθήναι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house, | **<big>[[G3614\|οικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plastering, | **<big>[[G1813\|εξαλειφθήναι]]</big>** |
 [[Lev.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.42|<< Leviticus 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.44|Leviticus 14:44 >>]]</td></tr></table>
 
 

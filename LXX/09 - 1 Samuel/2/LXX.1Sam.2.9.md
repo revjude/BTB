@@ -7,22 +7,22 @@ He will keep the feet of his saints, and the wicked shall be silent in darkness;
 He guards the steps of His faithful ones, but the wicked perish in darkness; for by his own strength shall no man prevail.<small><sub>**MT:**</sub></small>
 [[1Sam.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.8|<< 1 Samuel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.10|1 Samuel 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| giving | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[the thing\] vowed for | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one vowing. | <big><span class="asgreek">ευχομένω</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[the\] years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of \[the\] just; | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \[is\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| able. | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| giving | **<big>[[G1325\|διδούς]]</big>** |
+| \[the thing\] vowed for | **<big>[[G2171\|ευχήν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one vowing. | **<big>[[G2172\|ευχομένω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| \[the\] years | **<big>[[G2094\|έτη]]</big>** |
+| of \[the\] just; | **<big>[[G1342\|δικαίου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| \[is\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| able. | **<big>[[G1415\|δυνατός]]</big>** |
 [[1Sam.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.8|<< 1 Samuel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.10|1 Samuel 2:10 >>]]</td></tr></table>
 
 

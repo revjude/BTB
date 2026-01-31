@@ -6,18 +6,18 @@ But the wicked and enemies of the LORD will perish like the glory of the fields.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.19|<< Psalms 37:19]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.21|Psalms 37:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֨ים </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will perish  | <span class="ashebrew"><big>יֹאבֵ֗דוּ </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| yo.Ve.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] enemies of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֹיְבֵ֣י </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.ye.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] like a splendid [thing] of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יקַ֣ר </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ki. <small><sup>[[HR]]</sup></small> Kar <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pastures  | <span class="ashebrew"><big>כָּרִ֑ים </big></span><small><small><sup>[[H3733B]]</sup></small></small> &#8207;| ka.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come to an end  | <span class="ashebrew"><big>כָּל֖וּ </big></span><small><small><sup>[[H3615J]]</sup></small></small> &#8207;| ka.Lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> smoke  | <span class="ashebrew"><big>בֶ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָשָׁ֣ן </big></span><small><small><sup>[[H6227]]</sup></small></small> &#8207;| ve. <small><sup>[[HRd]]</sup></small> 'a.Shan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come to an end  | <span class="ashebrew"><big>כָּֽלוּ </big></span><small><small><sup>[[H3615J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ka.lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will perish  |**<big>&#8207;[[H0006\|יֹאבֵ֗דוּ]]&#8207; </big>**| yo.Ve.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] enemies of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0341\|אֹיְבֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.ye.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] like a splendid [thing] of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3368\|יקַ֣ר]]&#8207; </big>**| ki.<small><sup>[[HR]]</sup></small> Kar<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pastures  |**<big>&#8207;[[H3733B\|כָּרִ֑ים]]&#8207; </big>**| ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come to an end  |**<big>&#8207;[[H3615J\|כָּל֖וּ]]&#8207; </big>**| ka.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> smoke  |**<big>&#8207;[[H9003\|בֶ]]&#8207;&#8207;[[H6227\|עָשָׁ֣ן]]&#8207; </big>**| ve.<small><sup>[[HRd]]</sup></small> 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come to an end  |**<big>&#8207;[[H3615J\|כָּֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.19|<< Psalms 37:19]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.21|Psalms 37:21 >>]]</td></tr></table>
 
 

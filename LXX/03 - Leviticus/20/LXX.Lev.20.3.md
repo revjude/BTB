@@ -7,38 +7,38 @@ And I will set my face against that man, and will cut him off from among his peo
 And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name.<small><sub>**MT:**</sub></small>
 [[Lev.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.2|<< Leviticus 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.4|Leviticus 20:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his semen | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to a chief \[god\], | <big><span class="asgreek">άρχοντι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should defile | <big><span class="asgreek">μιάνη</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy place, | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should profane | <big><span class="asgreek">βεβηλώση</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name -- | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one having been sanctified | <big><span class="asgreek">ηγιασμένον</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will set | **<big>[[G2186\|επιστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that man, | **<big>[[G0444\|άνθρωπον]]</big>** **<big>[[G1565\|εκείνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his semen | **<big>[[G4690\|σπέρματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to a chief \[god\], | **<big>[[G0758\|άρχοντι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should defile | **<big>[[G3392\|μιάνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my holy place, | **<big>[[G0039\|άγιά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should profane | **<big>[[G0953\|βεβηλώση]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name -- | **<big>[[G3686\|όνομα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| one having been sanctified | **<big>[[G0037\|ηγιασμένον]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Lev.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.2|<< Leviticus 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.4|Leviticus 20:4 >>]]</td></tr></table>
 
 

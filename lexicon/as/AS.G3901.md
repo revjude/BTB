@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">παρα-ρρέω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Isa.44.4|Is 44:4]] (<span class="ashebrew">יבל</span> <small><sup>[[H2986]]</sup></small>), [[LXX.Prov.3.21|Pr 3:21]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">παρα-ρρέω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Isa.44.4|Is 44:4]] (**<big>[[H2986|יבל]]</big>**), [[LXX.Prov.3.21|Pr 3:21]]\*;\]</span> </span>
 <span class="asitalic">to flow by</span>, <span class="asitalic">drift away</span>, <span class="asitalic">slip away</span>: [[Heb.2.1|He 2:1]].†
 
 **Abbott-Smith References**

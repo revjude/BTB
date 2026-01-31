@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עוּב‎</span></big> **ʻûwb** <small>*(oob)*</small> ==**to becloud**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עוּב‎</span></big>** **ʻûwb** <small>*(oob)*</small> ==**to becloud**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cover with a cloud.

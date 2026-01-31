@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כּוּב‎</span></big> **Kûwb** <small>*(koob)*</small> ==**Libya**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎כּוּב‎</span></big>** **Kûwb** <small>*(koob)*</small> ==**Libya**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Chub.

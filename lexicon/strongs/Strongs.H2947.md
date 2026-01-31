@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טֵפַח‎</span></big> **ṭêphach** <small>*(tay'-fakh)*</small> ==**handbreadth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎טָפַח‎</span><sup><small>[[H2946]]</small></sup></small>
+**<big><span class="ashebrew">‎טֵפַח‎</span></big>** **ṭêphach** <small>*(tay'-fakh)*</small> ==**handbreadth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2946|‎טָפַח‎]]</big>**</small>
 
 $\quad$ coping, hand-breadth.
 - ***a spread of the hand***, i.e. ***a palm-breadth*** (not 'span' of the fingers)

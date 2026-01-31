@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τρίβος</span></span>, <span class="asgreek">-ου, -ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τρίβω</span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מְסִלָּה</span> <small><sup>[[H4546]]</sup></small>, <span class="ashebrew">נָתִיב</span> <small><sup>[[H5410]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τρίβος</span></span>, <span class="asgreek">-ου, -ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τρίβω</span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H4546|מְסִלָּה]]</big>**, **<big>[[H5410|נָתִיב]]</big>**, etc. ;\]</span> </span>
 <span class="asitalic">a beaten track, a path</span>: [[Matt.3.3|Mt 3:3]], [[Mark.1.3|Mk 1:3]], [[Luke.3.4|Lk 3:4]] <span class="assuperscript">(LXX)</span>.†
 
 **Abbott-Smith References**

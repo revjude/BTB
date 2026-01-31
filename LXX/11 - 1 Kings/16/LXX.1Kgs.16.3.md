@@ -7,27 +7,27 @@ Behold, I will take away the posterity of Baasha, and the posterity of his house
 So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat:<small><sub>**MT:**</sub></small>
 [[1Kgs.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.2|<< 1 Kings 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.4|1 Kings 16:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| arouse \[enemies\] | <big><span class="asgreek">εξεγειρώ</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Baasha, | <big><span class="asgreek">Βαασά</span></big> <sup><small><small>[[H1201]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat. | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| arouse \[enemies\] | **<big>[[G1825\|εξεγειρώ]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Baasha, | **<big>[[H1201\|Βαασά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his house. | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nebat. | **<big>[[H5028\|Ναβάτ]]</big>** |
 [[1Kgs.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.2|<< 1 Kings 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.4|1 Kings 16:4 >>]]</td></tr></table>
 
 

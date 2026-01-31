@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּנֻבַת‎</span></big> **Gᵉnubath** <small>*(ghen-oo-bath')*</small> ==**Genubath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּנַב‎</span><sup><small>[[H1589]]</small></sup>; theft</small>
+**<big><span class="ashebrew">‎גְּנֻבַת‎</span></big>** **Gᵉnubath** <small>*(ghen-oo-bath')*</small> ==**Genubath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1589|‎גָּנַב‎]]</big>**; theft</small>
 
 $\quad$ Genubath.
 - § Genubath = *"theft"*

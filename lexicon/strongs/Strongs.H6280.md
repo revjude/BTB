@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָתַר‎</span></big> **ʻâthar** <small>*(aw-thar')*</small> ==**be abundant**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָתַר‎</span></big>** **ʻâthar** <small>*(aw-thar')*</small> ==**be abundant**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deceitful, multiply.

@@ -7,37 +7,37 @@ Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseec
 So they cried out to the LORD: “Please, O LORD, do not let us perish on account of this man’s life! Do not charge us with innocent blood! For You, O LORD, have done as You pleased.”<small><sub>**MT:**</sub></small>
 [[Jonah.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.13|<< Jonah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.15|Jonah 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they yelled out | <big><span class="asgreek">ανεβόησαν</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">έιπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| By no means, | <big><span class="asgreek">μηδαμώς</span></big> <sup><small><small>[[G3365]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| you destroy \[us\] | <big><span class="asgreek">απολώμεθα</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be imputed | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us | <big><span class="asgreek">ήμας</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of \[the\] just; | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| you want, | <big><span class="asgreek">εβούλου</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| you do. | <big><span class="asgreek">πεποίηκας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they yelled out | **<big>[[G0310\|ανεβόησαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|έιπαν]]</big>** |
+| By no means, | **<big>[[G3365\|μηδαμώς]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| you destroy \[us\] | **<big>[[G0622\|απολώμεθα]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| soul | **<big>[[G5590\|ψυχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this man, | **<big>[[G0444\|ανθρώπου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be imputed | **<big>[[G1325\|δως]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| us | **<big>[[G1473\|ήμας]]</big>** |
+| \[the\] blood | **<big>[[G0129\|αίμα]]</big>** |
+| of \[the\] just; | **<big>[[G1342\|δίκαιον]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| you want, | **<big>[[G1014\|εβούλου]]</big>** |
+| you do. | **<big>[[G4160\|πεποίηκας]]</big>** |
 [[Jonah.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.13|<< Jonah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.15|Jonah 1:15 >>]]</td></tr></table>
 
 

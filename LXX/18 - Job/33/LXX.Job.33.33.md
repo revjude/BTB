@@ -7,17 +7,17 @@ If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.
 But if not, then listen to me; be quiet, and I will teach you wisdom.”<small><sub>**MT:**</sub></small>
 [[Job.33.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.32|<< Job 33:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.1|Job 34:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If not, | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσόν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Be silent! | <big><span class="asgreek">κώφευσον</span></big> <sup><small><small>[[G8146]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will teach | <big><span class="asgreek">διδάξω</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wisdom! | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| If not, | **<big>[[G1508\|ει μη]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| hear | **<big>[[G0191\|άκουσόν]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| Be silent! | **<big>[[G8146\|κώφευσον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will teach | **<big>[[G1321\|διδάξω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| wisdom! | **<big>[[G4678\|σοφίαν]]</big>** |
 [[Job.33.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.32|<< Job 33:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.1|Job 34:1 >>]]</td></tr></table>
 
 

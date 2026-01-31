@@ -6,11 +6,11 @@ Amariah, Malluch, Hattush,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.1|<< Nehemiah 12:1]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.3|Nehemiah 12:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Amariah  | <span class="ashebrew"><big>אֲמַרְיָ֥ה </big></span><small><small><sup>[[H0568M]]</sup></small></small> &#8207;| 'a.mar.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Malluch  | <span class="ashebrew"><big>מַלּ֖וּךְ </big></span><small><small><sup>[[H4409J]]</sup></small></small> &#8207;| ma.Lukh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hattush  | <span class="ashebrew"><big>חַטּֽוּשׁ </big></span><small><small><sup>[[H2407J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.Tush <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amariah  |**<big>&#8207;[[H0568M\|אֲמַרְיָ֥ה]]&#8207; </big>**| 'a.mar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Malluch  |**<big>&#8207;[[H4409J\|מַלּ֖וּךְ]]&#8207; </big>**| ma.Lukh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hattush  |**<big>&#8207;[[H2407J\|חַטּֽוּשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Tush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.1|<< Nehemiah 12:1]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.3|Nehemiah 12:3 >>]]</td></tr></table>
 
 

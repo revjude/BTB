@@ -7,34 +7,34 @@ And, behold, as thy life was much set by this day in mine eyes, so let my life b
 As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.”<small><sub>**MT:**</sub></small>
 [[1Sam.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.23|<< 1 Samuel 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.25|1 Samuel 26:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this, | <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| be magnified | <big><span class="asgreek">μεγαλυνθείη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may he shelter | <big><span class="asgreek">σκεπάσαι</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may he rescue | <big><span class="asgreek">εξέλοιτό</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| affliction. | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| was magnified | **<big>[[G3170\|εμεγαλύνθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your life | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this, | **<big>[[G3778\|ταύτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| be magnified | **<big>[[G3170\|μεγαλυνθείη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my life | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may he shelter | **<big>[[G9095\|σκεπάσαι]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may he rescue | **<big>[[G1807\|εξέλοιτό]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| affliction. | **<big>[[G2347\|θλίψεως]]</big>** |
 [[1Sam.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.23|<< 1 Samuel 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.25|1 Samuel 26:25 >>]]</td></tr></table>
 
 

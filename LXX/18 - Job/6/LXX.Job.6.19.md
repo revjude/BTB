@@ -7,15 +7,15 @@ The troops of Tema looked, the companies of Sheba waited for them.
 The caravans of Tema look for water; the travelers of Sheba hope to find it.<small><sub>**MT:**</sub></small>
 [[Job.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.18|<< Job 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.20|Job 6:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the Temanites, | <big><span class="asgreek">Θαιμανών</span></big> <sup><small><small>[[H8489]]</small></small></sup> |
-| \[the\] short cuts | <big><span class="asgreek">ατραπούς</span></big> <sup><small><small>[[G6592]]</small></small></sup> |
-| of \[the\] Sabaeans | <big><span class="asgreek">Σαβών</span></big> <sup><small><small>[[H7615]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeing clearly | <big><span class="asgreek">διορώντες</span></big> <sup><small><small>[[G6936]]</small></small></sup> |
+| Behold | **<big>[[G1492\|ίδετε]]</big>** |
+| \[the\] ways | **<big>[[G3598\|οδούς]]</big>** |
+| of the Temanites, | **<big>[[H8489\|Θαιμανών]]</big>** |
+| \[the\] short cuts | **<big>[[G6592\|ατραπούς]]</big>** |
+| of \[the\] Sabaeans | **<big>[[H7615\|Σαβών]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| seeing clearly | **<big>[[G6936\|διορώντες]]</big>** |
 [[Job.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.18|<< Job 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.20|Job 6:20 >>]]</td></tr></table>
 
 

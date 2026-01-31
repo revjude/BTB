@@ -7,29 +7,29 @@ Do they not err that devise evil? but mercy and truth [shall be] to them that de
 Do not those who contrive evil go astray? But those who plan goodness find loving devotion and faithfulness.<small><sub>**MT:**</sub></small>
 [[Prov.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.21|<< Proverbs 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.23|Proverbs 14:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] ones wandering | <big><span class="asgreek">πλανώμενοι</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| contrive | <big><span class="asgreek">τεκταίνουσι</span></big> <sup><small><small>[[G9412]]</small></small></sup> |
-| evils; | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| but mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| are contrived | <big><span class="asgreek">τεκταίνουσιν</span></big> <sup><small><small>[[G9412]]</small></small></sup> |
-| by \[the\] good. | <big><span class="asgreek">αγαθοί</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| have knowledge of | <big><span class="asgreek">επίστανται</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trust | <big><span class="asgreek">πίστιν</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| \[The\] fabricators | <big><span class="asgreek">τέκτονες</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| but charity | <big><span class="asgreek">ελεημοσύναι</span></big> <sup><small><small>[[G1654]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trust | <big><span class="asgreek">πίστεις</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| \[are\] by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| fabricators | <big><span class="asgreek">τέκτοσιν</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθοίς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| \[The\] ones wandering | **<big>[[G4105\|πλανώμενοι]]</big>** |
+| contrive | **<big>[[G9412\|τεκταίνουσι]]</big>** |
+| evils; | **<big>[[G2556\|κακά]]</big>** |
+| but mercy | **<big>[[G1656\|έλεον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| truth | **<big>[[G0225\|αλήθειαν]]</big>** |
+| are contrived | **<big>[[G9412\|τεκταίνουσιν]]</big>** |
+| by \[the\] good. | **<big>[[G0018\|αγαθοί]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| have knowledge of | **<big>[[G1987\|επίστανται]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trust | **<big>[[G4102\|πίστιν]]</big>** |
+| \[The\] fabricators | **<big>[[G5045\|τέκτονες]]</big>** |
+| of evils | **<big>[[G2556\|κακών]]</big>** |
+| but charity | **<big>[[G1654\|ελεημοσύναι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trust | **<big>[[G4102\|πίστεις]]</big>** |
+| \[are\] by | **<big>[[G3844\|παρά]]</big>** |
+| fabricators | **<big>[[G5045\|τέκτοσιν]]</big>** |
+| good | **<big>[[G0018\|αγαθοίς]]</big>** |
 [[Prov.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.21|<< Proverbs 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.23|Proverbs 14:23 >>]]</td></tr></table>
 
 

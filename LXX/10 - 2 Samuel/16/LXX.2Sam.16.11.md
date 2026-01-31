@@ -7,42 +7,42 @@ And David said to Abishai, and to all his servants, Behold, my son, which came f
 Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so.<small><sub>**MT:**</sub></small>
 [[2Sam.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.10|<< 2 Samuel 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.12|2 Samuel 16:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abishai, | <big><span class="asgreek">Αβεσσά</span></big> <sup><small><small>[[H0052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθών</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my belly, | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| moreover, | <big><span class="asgreek">προσέτι</span></big> <sup><small><small>[[G8920]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Benjamite. | <big><span class="asgreek">Ιεμιναίου</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| Leave | <big><span class="asgreek">άφετε</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to curse! | <big><span class="asgreek">καταράσθαι</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| told | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abishai, | **<big>[[H0052\|Αβεσσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants, | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my son, | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθών]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my belly, | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| seeks | **<big>[[G2212\|ζητεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life. | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| moreover, | **<big>[[G8920\|προσέτι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Benjamite. | **<big>[[G0958\|Ιεμιναίου]]</big>** |
+| Leave | **<big>[[G0863\|άφετε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to curse! | **<big>[[G2672\|καταράσθαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| told | **<big>[[G2036\|είπεν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[2Sam.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.10|<< 2 Samuel 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.12|2 Samuel 16:12 >>]]</td></tr></table>
 
 

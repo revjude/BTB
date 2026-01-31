@@ -7,30 +7,30 @@ Behold, I [am] against thee, O inhabitant of the valley, [and] rock of the plain
 Behold, I am against you who dwell above the valley, atop the rocky plateau—declares the LORD—you who say, “Who can come against us? Who can enter our dwellings?”<small><sub>**MT:**</sub></small>
 [[Jer.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.12|<< Jeremiah 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.14|Jeremiah 21:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| valley | <big><span class="asgreek">κοιλάδα</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
-| of Sor; | <big><span class="asgreek">Σορ</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain \[country\] | <big><span class="asgreek">πεδινήν</span></big> <sup><small><small>[[G3977]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντας</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall terrify | <big><span class="asgreek">πτοήσει</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our home? | <big><span class="asgreek">κατοικητήριον</span></big> <sup><small><small>[[G2732]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O one | **<big>[[G3588\|τον]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| valley | **<big>[[G8038\|κοιλάδα]]</big>** |
+| of Sor; | **<big>[[G5184\|Σορ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| plain \[country\] | **<big>[[G3977\|πεδινήν]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντας]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| shall terrify | **<big>[[G4422\|πτοήσει]]</big>** |
+| us? | **<big>[[G1473\|ημάς]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| our home? | **<big>[[G2732\|κατοικητήριον]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Jer.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.12|<< Jeremiah 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.14|Jeremiah 21:14 >>]]</td></tr></table>
 
 

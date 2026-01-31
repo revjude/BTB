@@ -7,35 +7,35 @@ Then David inquired of the LORD yet again. And the LORD answered him and said, A
 Once again, David inquired of the LORD, and the LORD answered him: “Go at once to Keilah, for I will deliver the Philistines into your hand.”<small><sub>**MT:**</sub></small>
 [[1Sam.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.3|<< 1 Samuel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.5|1 Samuel 23:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David proceeded | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to ask | <big><span class="asgreek">επερωτήσαι</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go down | <big><span class="asgreek">κατάβηθι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Keilah! | <big><span class="asgreek">Κεϊλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliver up | <big><span class="asgreek">παραδίδωμι</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| your hands. | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David proceeded | **<big>[[G4369\|προσέθετο]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| to ask | **<big>[[G1905\|επερωτήσαι]]</big>** |
+| of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go down | **<big>[[G2597\|κατάβηθι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Keilah! | **<big>[[H7084\|Κεϊλά]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| deliver up | **<big>[[G3860\|παραδίδωμι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| your hands. | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[1Sam.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.3|<< 1 Samuel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.5|1 Samuel 23:5 >>]]</td></tr></table>
 
 

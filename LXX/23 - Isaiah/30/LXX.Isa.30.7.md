@@ -7,22 +7,22 @@ For the Egyptians shall help in vain, and to no purpose: therefore have I cried 
 Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits Still.<small><sub>**MT:**</sub></small>
 [[Isa.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.6|<< Isaiah 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.8|Isaiah 30:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| in vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with emptiness | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| shall benefit | <big><span class="asgreek">ωφελήσουσιν</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Report | <big><span class="asgreek">απάγγελον</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comfort | <big><span class="asgreek">παράκλησις</span></big> <sup><small><small>[[G3874]]</small></small></sup> |
-| of yours | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[The\] Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| in vain | **<big>[[G3152\|μάταια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with emptiness | **<big>[[G2756\|κενά]]</big>** |
+| shall benefit | **<big>[[G5623\|ωφελήσουσιν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| Report | **<big>[[G0518\|απάγγελον]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] vain | **<big>[[G3152\|μάταια]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| comfort | **<big>[[G3874\|παράκλησις]]</big>** |
+| of yours | **<big>[[G1473\|υμών]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
 [[Isa.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.6|<< Isaiah 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.8|Isaiah 30:8 >>]]</td></tr></table>
 
 

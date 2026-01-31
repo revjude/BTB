@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּרִזִים‎</span></big> **Gᵉrizîym** <small>*(gher-ee-zeem')*</small> ==**(Mount) Gerizim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of an unused noun from <span class="ashebrew">‎גָּרַז‎</span><sup><small>[[H1629]]</small></sup> (compare <span class="ashebrew">‎גִּזְרִי‎</span><sup><small>[[H1511]]</small></sup>), cut up (i.e. rocky)</small>
+**<big><span class="ashebrew">‎גְּרִזִים‎</span></big>** **Gᵉrizîym** <small>*(gher-ee-zeem')*</small> ==**(Mount) Gerizim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of an unused noun from **<big>[[H1629|‎גָּרַז‎]]</big>** (compare **<big>[[H1511|‎גִּזְרִי‎]]</big>**), cut up (i.e. rocky)</small>
 
 $\quad$ Gerizim.
 - § Gerizim = *"cuttings off"*

@@ -11,24 +11,24 @@ Each one threw down his staff, and it became a serpent. But Aaron’s staff swal
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψαν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rod, | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| serpents. | <big><span class="asgreek">δράκοντες</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| swallowed down | <big><span class="asgreek">κατέπιεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rods of those men. | <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> <big><span class="asgreek">ράβδους</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| tossed | **<big>[[G4496\|έρριψαν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his rod, | **<big>[[G4464\|ράβδον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they became | **<big>[[G1096\|εγένοντο]]</big>** |
+| serpents. | **<big>[[G1404\|δράκοντες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| swallowed down | **<big>[[G2666\|κατέπιεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rod | **<big>[[G4464\|ράβδος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| rods of those men. | **<big>[[G1565\|εκείνων]]</big>** **<big>[[G4464\|ράβδους]]</big>** |
 [[Exod.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.11|<< Exodus 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.13|Exodus 7:13 >>]]</td></tr></table>
 
 

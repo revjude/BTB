@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָיֶה‎</span></big> **châyeh** <small>*(khaw-yeh')*</small> ==**vigorous**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup></small>
+**<big><span class="ashebrew">‎חָיֶה‎</span></big>** **châyeh** <small>*(khaw-yeh')*</small> ==**vigorous**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2421|‎חָיָה‎]]</big>**</small>
 
 $\quad$ lively.
 - ***vigorous***

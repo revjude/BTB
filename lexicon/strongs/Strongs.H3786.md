@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּשָּׁף‎</span></big> **kashshâph** <small>*(kash-shawf')*</small> ==**sorcerer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּשַׁף‎</span><sup><small>[[H3784]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּשָּׁף‎</span></big>** **kashshâph** <small>*(kash-shawf')*</small> ==**sorcerer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3784|‎כָּשַׁף‎]]</big>**</small>
 
 $\quad$ sorcerer.
 - ***a magician***

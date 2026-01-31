@@ -7,19 +7,19 @@ And Seth lived an hundred and five years, and begat Enos:
 When Seth was 105 years old, he became the father of Enosh.<small><sub>**MT:**</sub></small>
 [[Gen.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.5|<< Genesis 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.7|Genesis 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Seth | <big><span class="asgreek">Σηθ</span></big> <sup><small><small>[[G4589]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσια</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Enos. | <big><span class="asgreek">Ενώς</span></big> <sup><small><small>[[G1800]]</small></small></sup> |
+| lived | **<big>[[G2198\|έζησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Seth | **<big>[[G4589\|Σηθ]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσια]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Enos. | **<big>[[G1800\|Ενώς]]</big>** |
 [[Gen.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.5|<< Genesis 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.7|Genesis 5:7 >>]]</td></tr></table>
 
 

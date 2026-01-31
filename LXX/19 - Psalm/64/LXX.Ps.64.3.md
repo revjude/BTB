@@ -7,18 +7,18 @@ Who whet their tongue like a sword, [and] bend [their bows to shoot] their arrow
 who sharpen their tongues like swords and aim their bitter words like arrows,<small><sub>**MT:**</sub></small>
 [[Ps.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.2|<< Psalm 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.4|Psalm 64:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| sharpened | <big><span class="asgreek">ηκόνησαν</span></big> <sup><small><small>[[G6193]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tongues | <big><span class="asgreek">γλώσσας</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they stretched tight | <big><span class="asgreek">ενέτειναν</span></big> <sup><small><small>[[G7265]]</small></small></sup> |
-| their bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thing | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| \[for\] a bitter | <big><span class="asgreek">πικρόν</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
+| The ones who | **<big>[[G3748\|οίτινες]]</big>** |
+| sharpened | **<big>[[G6193\|ηκόνησαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their tongues | **<big>[[G1100\|γλώσσας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they stretched tight | **<big>[[G7265\|ενέτειναν]]</big>** |
+| their bow | **<big>[[G5115\|τόξον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| thing | **<big>[[G4229\|πράγμα]]</big>** |
+| \[for\] a bitter | **<big>[[G4089\|πικρόν]]</big>** |
 [[Ps.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.2|<< Psalm 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.4|Psalm 64:4 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ I have gone astray like a lost sheep; seek thy servant; for I do not forget thy 
 I have strayed like a lost sheep; seek Your servant, for I have not forgotten Your commandments.<small><sub>**MT:**</sub></small>
 [[Ps.119.176|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.175|<< Psalm 119:175]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.1|Psalm 120:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I wandered | <big><span class="asgreek">επλανήθην</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| perishing. | <big><span class="asgreek">απολωλός</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| Seek | <big><span class="asgreek">ζήτησον</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant! | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| forget. | <big><span class="asgreek">επελαθόμην</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
+| I wandered | **<big>[[G4105\|επλανήθην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a sheep | **<big>[[G4263\|πρόβατον]]</big>** |
+| perishing. | **<big>[[G0622\|απολωλός]]</big>** |
+| Seek | **<big>[[G2212\|ζήτησον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your servant! | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| forget. | **<big>[[G1950\|επελαθόμην]]</big>** |
 [[Ps.119.176|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.175|<< Psalm 119:175]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.1|Psalm 120:1 >>]]</td></tr></table>
 
 

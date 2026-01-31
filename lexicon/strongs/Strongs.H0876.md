@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵר‎</span></big> **Bᵉʼêr** <small>*(be-ayr')*</small> ==**Beer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בְּאֵר‎</span><sup><small>[[H0875]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּאֵר‎</span></big>** **Bᵉʼêr** <small>*(be-ayr')*</small> ==**Beer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H0875|‎בְּאֵר‎]]</big>**</small>
 
 $\quad$ Beer.
 - § Beer = *"well"*

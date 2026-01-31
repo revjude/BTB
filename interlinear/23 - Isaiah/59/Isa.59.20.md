@@ -10,16 +10,16 @@ And the Redeemer shall come to Zion, and unto them that turn from transgression 
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]] ☩ [[Rev.14.1|Rev 14:1]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he will come  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בָ֤א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> Va' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Zion  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>צִיּוֹן֙ </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> tzi.yOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a redeemer  | <span class="ashebrew"><big>גּוֹאֵ֔ל </big></span><small><small><sup>[[H1350A]]</sup></small></small> &#8207;| go.'El <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to [those who] repent of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שָׁבֵ֥י </big></span><small><small><sup>[[H7725O]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> sha.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgression  | <span class="ashebrew"><big>פֶ֖שַׁע </big></span><small><small><sup>[[H6588]]</sup></small></small> &#8207;| Fe.sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Jacob  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יַֽעֲקֹ֑ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם </big></span><small><small><sup>[[H5002]]</sup></small></small> &#8207;| ne.'Um <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֤א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Zion  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a redeemer  |**<big>&#8207;[[H1350A\|גּוֹאֵ֔ל]]&#8207; </big>**| go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [those who] repent of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7725O\|שָׁבֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sha.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgression  |**<big>&#8207;[[H6588\|פֶ֖שַׁע]]&#8207; </big>**| Fe.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jacob  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3290\|יַֽעֲקֹ֑ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.19|<< Isaiah 59:19]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.21|Isaiah 59:21 >>]]</td></tr></table>
 
 

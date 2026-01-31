@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Μανασσῆς</span></span>, <span class="asgreek">-ῆ, ὁ</span> (Heb. <span class="ashebrew">מְנַשֶּׁה</span> <small><sup>[[H4519]]</sup></small>),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Μανασσῆς</span></span>, <span class="asgreek">-ῆ, ὁ</span> (Heb. **<big>[[H4519|מְנַשֶּׁה]]</big>**),</span>
 <span class="asitalic">Manasseh</span>;
 <span class="asbullet"><span class="asbold">1.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> the first-born son of Joseph;</span>

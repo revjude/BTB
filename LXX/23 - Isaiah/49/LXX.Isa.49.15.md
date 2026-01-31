@@ -7,32 +7,32 @@ Can a woman forget her sucking child, that she should not have compassion on the
 “Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you!<small><sub>**MT:**</sub></small>
 [[Isa.49.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.14|<< Isaiah 49:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.16|Isaiah 49:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| forget | <big><span class="asgreek">επιλήσεται</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her child, | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| show mercy on | <big><span class="asgreek">ελεήσαι</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| on the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| progeny | <big><span class="asgreek">έκγονα</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her belly? | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But even if | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| might forget | <big><span class="asgreek">επιλάθοιτο</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-|  | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| forget | <big><span class="asgreek">επιλήσομαί</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| forget | **<big>[[G1950\|επιλήσεται]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her child, | **<big>[[G3816\|παιδός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| show mercy on | **<big>[[G1653\|ελεήσαι]]</big>** |
+| on the | **<big>[[G3588\|τα]]</big>** |
+| progeny | **<big>[[G1549\|έκγονα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of her belly? | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| But even if | **<big>[[G7048\|ει δε και]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| might forget | **<big>[[G1950\|επιλάθοιτο]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+|  | **<big>[[G0235\|αλλ΄]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| forget | **<big>[[G1950\|επιλήσομαί]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Isa.49.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.14|<< Isaiah 49:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.16|Isaiah 49:16 >>]]</td></tr></table>
 
 

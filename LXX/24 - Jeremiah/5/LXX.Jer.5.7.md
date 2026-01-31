@@ -7,33 +7,33 @@ How shall I pardon thee for this? thy children have forsaken me, and sworn by [t
 “Why should I forgive you? Your children have forsaken Me and sworn by gods that are not gods. I satisfied their needs, yet they committed adultery and assembled at the houses of prostitutes.<small><sub>**MT:**</sub></small>
 [[Jer.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What kind | <big><span class="asgreek">ποία</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| for these \[things\] | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| of kindness | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
-| should happen | <big><span class="asgreek">γένωμαί</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπόν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they swore by an oath | <big><span class="asgreek">ώμνυον</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| gods. | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I have filled | <big><span class="asgreek">εχόρτασα</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they committed adultery, | <big><span class="asgreek">εμοιχώντο</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκοις</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of harlots | <big><span class="asgreek">πορνών</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| rested up | <big><span class="asgreek">κατέλυον</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
+| What kind | **<big>[[G4169\|ποία]]</big>** |
+| for these \[things\] | **<big>[[G3778\|τούτων]]</big>** |
+| of kindness | **<big>[[G2436\|ίλεως]]</big>** |
+| should happen | **<big>[[G1096\|γένωμαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| Your sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they swore by an oath | **<big>[[G3660\|ώμνυον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| being | **<big>[[G1510\|ούσι]]</big>** |
+| gods. | **<big>[[G2316\|θεοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I have filled | **<big>[[G5526\|εχόρτασα]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they committed adultery, | **<big>[[G3429\|εμοιχώντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκοις]]</big>** |
+| of harlots | **<big>[[G4204\|πορνών]]</big>** |
+| rested up | **<big>[[G2647\|κατέλυον]]</big>** |
 [[Jer.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
 
 

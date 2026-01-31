@@ -7,21 +7,21 @@ Those that were numbered of them, [even] of the tribe of Reuben, [were] forty an
 those registered to the tribe of Reuben numbered 46,500.<small><sub>**MT:**</sub></small>
 [[Num.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.20|<< Numbers 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.22|Numbers 1:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| numbering | <big><span class="asgreek">επίσκεψις</span></big> <sup><small><small>[[G7448]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Reuben -- | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five hundred. | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
+| the | **<big>[[G3588\|η]]</big>** |
+| numbering | **<big>[[G7448\|επίσκεψις]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Reuben -- | **<big>[[G4502\|Ρουβήν]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five hundred. | **<big>[[G4001\|πεντακόσιοι]]</big>** |
 [[Num.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.20|<< Numbers 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.22|Numbers 1:22 >>]]</td></tr></table>
 
 

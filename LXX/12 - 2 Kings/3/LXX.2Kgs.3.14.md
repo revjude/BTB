@@ -10,34 +10,34 @@ And Elisha said, [As] the LORD of hosts liveth, before whom I stand, surely, wer
 Then Elisha said, “As surely as the LORD of Hosts lives, before whom I stand, were it not for my regard for the presence of Jehoshaphat king of Judah, I would not look at you or acknowledge you.<small><sub>**MT:**</sub></small>
 [[2Kgs.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.13|<< 2 Kings 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.15|2 Kings 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I stand | <big><span class="asgreek">παρέστην</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| if it were not | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[which\] I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| receive, | <big><span class="asgreek">λαμβάνω</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I \[have\] looked | <big><span class="asgreek">επέβλεψα</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδόν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you, \[no\]. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| lives | **<big>[[G2198\|ζη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces | **<big>[[G1411\|δυνάμεων]]</big>** |
+| in whom | **<big>[[G3739\|ω]]</big>** |
+| I stand | **<big>[[G3936\|παρέστην]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| if it were not | **<big>[[G1508\|ει μη]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[which\] I | **<big>[[G1473\|εγώ]]</big>** |
+| receive, | **<big>[[G2983\|λαμβάνω]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| I \[have\] looked | **<big>[[G1914\|επέβλεψα]]</big>** |
+| upon | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| beheld | **<big>[[G1492\|είδόν]]</big>** |
+| you, \[no\]. | **<big>[[G1473\|σε]]</big>** |
 [[2Kgs.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.13|<< 2 Kings 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.15|2 Kings 3:15 >>]]</td></tr></table>
 
 

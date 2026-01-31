@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֵתָם‎</span></big> **ʼÊthâm** <small>*(ay-thawm')*</small> ==**Etham**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אֵתָם‎</span></big>** **ʼÊthâm** <small>*(ay-thawm')*</small> ==**Etham**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Etham.

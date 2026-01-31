@@ -11,33 +11,33 @@ The form of their faces was that of a man, and each of the four had the face of 
 > $\quad$ referenced by: [[Rev.4.7|Rev 4:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] likeness | <big><span class="asgreek">ομοίωσις</span></big> <sup><small><small>[[G3669]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their faces | <big><span class="asgreek">προσώπων</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was as the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of a man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of a lion | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four; | <big><span class="asgreek">τέσσαρσι</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of a calf | <big><span class="asgreek">μόσχου</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left | <big><span class="asgreek">αριστερών</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four; | <big><span class="asgreek">τέσσαρσι</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of an eagle | <big><span class="asgreek">αετού</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four. | <big><span class="asgreek">τέσσαρσι</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] likeness | **<big>[[G3669\|ομοίωσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their faces | **<big>[[G4383\|προσώπων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[was as the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of a man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of a lion | **<big>[[G3023\|λέοντος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right | **<big>[[G1188\|δεξιών]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| four; | **<big>[[G5064\|τέσσαρσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of a calf | **<big>[[G3448\|μόσχου]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left | **<big>[[G0710\|αριστερών]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| four; | **<big>[[G5064\|τέσσαρσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of an eagle | **<big>[[G0105\|αετού]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| four. | **<big>[[G5064\|τέσσαρσι]]</big>** |
 [[Ezek.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.9|<< Ezekiel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.11|Ezekiel 1:11 >>]]</td></tr></table>
 
 

@@ -14,51 +14,51 @@ Then the man brought me back to the entrance of the temple, and I saw water flow
 > $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγέ</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">πρόθυρα</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house; | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from beneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| open \[space\] | <big><span class="asgreek">αιθρίου</span></big> <sup><small><small>[[G6159]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| looked | <big><span class="asgreek">έβλεπε</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβαινεν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιού</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thresholds | **<big>[[G8895\|πρόθυρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house; | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| went forth | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| from beneath | **<big>[[G9575\|υποκάτωθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| open \[space\] | **<big>[[G6159\|αιθρίου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| looked | **<big>[[G0991\|έβλεπε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| went down | **<big>[[G2597\|κατέβαινεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| south | **<big>[[G3558\|νότου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| right | **<big>[[G1188\|δεξιού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| south | **<big>[[G3558\|νότον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
 [[Ezek.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.24|<< Ezekiel 46:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.2|Ezekiel 47:2 >>]]</td></tr></table>
 
 

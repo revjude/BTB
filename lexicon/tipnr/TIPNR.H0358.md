@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elonbeth-hanan</span>, a city under the jurisdiction of Ben-Deker, one of Solomon's twelve governors.
 - A location only mentioned at [[1Kgs.4.9|1Ki.4.9]]; 
-- only referred to as Elonbeth-hanan<[[H0358]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ילו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Elonbeth-hanan **<big>[[H0358|אֵילוֹן בֵּית חָנָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.852593,35.109078&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Based on the other cities mentioned alongside it, it was likely situated in the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elonbeth-hanan (KJV= Elon beth-hanan; NIV= Elon Bethhanan) | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ילו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H0358) <small>*Hebrew*</small> | 1x | [1Ki.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elonbeth\*\|reference=1Ki.4.9) |
-All Strong's for **Elonbeth-hanan**: \[[[H0358]]\]
+| Elonbeth-hanan (KJV= Elon beth-hanan; NIV= Elon Bethhanan) | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ילו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H0358) | 1x | [1Ki.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elonbeth\*\|reference=1Ki.4.9) |
+All entries for **Elonbeth-hanan**:  **<big>[[H0358|אֵילוֹן בֵּית חָנָן]]</big>**

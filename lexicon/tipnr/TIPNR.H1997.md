@@ -1,8 +1,8 @@
 <small>*Hamonah • A city in Ezekiel's vision, meaning "multitude" or "horde."*</small>
 
 <span class='tipnrhighlight'>Hamonah</span> is a city mentioned in Ezekiel's vision \([[Ezek.39.16|Ezekiel 39:16]]\), its name meaning "multitude" or "horde," likely referring to the burial place of Gog's army.
-- A location near Diblathaim<[[H5963]]> only mentioned at [[Ezek.39.16|Ezk.39.16]]; 
-- only referred to as Hamonah<[[H1997]]> \(<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ֿ\).
+- A location near Diblathaim **<big>[[H5963|עַלְמֹן דִּבְלָתָיְמָה]]</big>** only mentioned at [[Ezek.39.16|Ezk.39.16]]; 
+- only referred to as Hamonah **<big>[[H1997|הֲמוֹנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.49684513710609,35.78284105296996&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,5 +20,5 @@ The prophecy of Hamonah and the defeat of Gog underscores God's ultimate victory
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hamonah | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ֿ](H1997) <small>*Hebrew*</small> | 1x | [Ezk.39.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hamonah\*\|reference=Ezk.39.16) |
-All Strong's for **Hamonah**: \[[[H1997]]\]
+| Hamonah | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ֿ](H1997) | 1x | [Ezk.39.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hamonah\*\|reference=Ezk.39.16) |
+All entries for **Hamonah**:  **<big>[[H1997|הֲמוֹנָה]]</big>**

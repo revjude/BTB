@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לָט‎</span></big> **lâṭ** <small>*(lawt)*</small> ==**secrecy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>a form of <span class="ashebrew">‎לָאט‎</span><sup><small>[[H3814]]</small></sup> or else participle from <span class="ashebrew">‎לוּט‎</span><sup><small>[[H3874]]</small></sup></small>
+**<big><span class="ashebrew">‎לָט‎</span></big>** **lâṭ** <small>*(lawt)*</small> ==**secrecy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>a form of **<big>[[H3814|‎לָאט‎]]</big>** or else participle from **<big>[[H3874|‎לוּט‎]]</big>**</small>
 
 $\quad$ enchantment, privily, secretly, softly.
 - properly, ***covered***, i.e. ***secret***

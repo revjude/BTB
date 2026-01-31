@@ -7,22 +7,22 @@ That which he laboured for shall he restore, and shall not swallow [it] down: ac
 He must return the fruit of his labor without consuming it; he cannot enjoy the profits of his trading.<small><sub>**MT:**</sub></small>
 [[Job.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.17|<< Job 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.19|Job 20:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| in emptiness | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vanity | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| he tired | <big><span class="asgreek">εκοπίασε</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| for riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| taste; | <big><span class="asgreek">γεύσεται</span></big> <sup><small><small>[[G1089]]</small></small></sup> |
-| \[it is\] as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| tough, | <big><span class="asgreek">στρίφνος</span></big> <sup><small><small>[[G9201]]</small></small></sup> |
-| unchewable, | <big><span class="asgreek">αμάσητος</span></big> <sup><small><small>[[G6250]]</small></small></sup> |
-| \[and\] impotable. | <big><span class="asgreek">ακατάποτος</span></big> <sup><small><small>[[G6180]]</small></small></sup> |
+| For | **<big>[[G1519\|εις]]</big>** |
+| in emptiness | **<big>[[G2756\|κενά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| vanity | **<big>[[G3152\|μάταια]]</big>** |
+| he tired | **<big>[[G2872\|εκοπίασε]]</big>** |
+| for riches | **<big>[[G4149\|πλούτον]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| taste; | **<big>[[G1089\|γεύσεται]]</big>** |
+| \[it is\] as if | **<big>[[G5618\|ώσπερ]]</big>** |
+| tough, | **<big>[[G9201\|στρίφνος]]</big>** |
+| unchewable, | **<big>[[G6250\|αμάσητος]]</big>** |
+| \[and\] impotable. | **<big>[[G6180\|ακατάποτος]]</big>** |
 [[Job.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.17|<< Job 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.19|Job 20:19 >>]]</td></tr></table>
 
 

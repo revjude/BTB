@@ -10,22 +10,22 @@ Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil t
 Concerning Damascus: “Hamath and Arpad are put to shame, for they have heard a bad report; they are agitated like the sea; their anxiety cannot be calmed.<small><sub>**MT:**</sub></small>
 [[Jer.49.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.22|<< Jeremiah 49:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.24|Jeremiah 49:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[To\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Damascus. | <big><span class="asgreek">Δαμασκώ</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| Hamath was disgraced | <big><span class="asgreek">κατησχύνθη</span></big> <sup><small><small>[[G2617]]</small></small></sup> <big><span class="asgreek">Ημάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Arpad; | <big><span class="asgreek">Αρφάδ</span></big> <sup><small><small>[[H0774]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| report | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| an evil | <big><span class="asgreek">πονηράν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| They \[were\] startled; | <big><span class="asgreek">εξέστησαν</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| they were enraged; | <big><span class="asgreek">εθυμώθησαν</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| to rest | <big><span class="asgreek">αναπαύσασθαι</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they be able | <big><span class="asgreek">δύνωνται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| \[To\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Damascus. | **<big>[[G1154\|Δαμασκώ]]</big>** |
+| Hamath was disgraced | **<big>[[G2617\|κατησχύνθη]]</big>** **<big>[[H2574\|Ημάθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Arpad; | **<big>[[H0774\|Αρφάδ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they heard | **<big>[[G0191\|ήκουσαν]]</big>** |
+| report | **<big>[[G0189\|ακοήν]]</big>** |
+| an evil | **<big>[[G4190\|πονηράν]]</big>** |
+| They \[were\] startled; | **<big>[[G1839\|εξέστησαν]]</big>** |
+| they were enraged; | **<big>[[G2373\|εθυμώθησαν]]</big>** |
+| to rest | **<big>[[G0373\|αναπαύσασθαι]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they be able | **<big>[[G1410\|δύνωνται]]</big>** |
 [[Jer.49.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.22|<< Jeremiah 49:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.24|Jeremiah 49:24 >>]]</td></tr></table>
 
 

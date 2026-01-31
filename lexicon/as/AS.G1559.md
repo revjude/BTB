@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐκ-διώκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">בָּרַח</span> <small><sup>[[H1272]]</sup></small> hi., <span class="ashebrew">צָמַת</span> <small><sup>[[H6789]]</sup></small>, <span class="ashebrew">הָדַף</span> <small><sup>[[H1920]]</sup></small>, etc. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐκ-διώκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1272|בָּרַח]]</big>** hi., **<big>[[H6789|צָמַת]]</big>**, **<big>[[H1920|הָדַף]]</big>**, etc. ;\] </span> </span>
 <span class="asitalic">to chase away, drive out</span>: [[1Thess.2.15|I Th 2:15]] (cf. [[LXX.Deut.6.19|De 6:19]], [[LXX.Joel.2.20|Jl 2:20]]).†
 
 **Abbott-Smith References**

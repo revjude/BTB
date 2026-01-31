@@ -6,22 +6,22 @@ But the LORD will make a distinction between the livestock of Israel and the liv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.3|<< Exodus 9:3]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.5|Exodus 9:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he will separate  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִפְלָ֣ה </big></span><small><small><sup>[[H6395]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hif.Lah <small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֚ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] livestock of  | <span class="ashebrew"><big>מִקְנֵ֣ה </big></span><small><small><sup>[[H4735]]</sup></small></small> &#8207;| mik.Neh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and between  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֖ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Vein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] livestock of  | <span class="ashebrew"><big>מִקְנֵ֣ה </big></span><small><small><sup>[[H4735]]</sup></small></small> &#8207;| mik.Neh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will die  | <span class="ashebrew"><big>יָמ֛וּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| ya.Mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that belongs] to [the] people of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anything  | <span class="ashebrew"><big>דָּבָֽר </big></span><small><small><sup>[[H1697I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will separate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6395\|הִפְלָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hif.Lah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֚ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] livestock of  |**<big>&#8207;[[H4735\|מִקְנֵ֣ה]]&#8207; </big>**| mik.Neh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֖ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] livestock of  |**<big>&#8207;[[H4735\|מִקְנֵ֣ה]]&#8207; </big>**| mik.Neh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will die  |**<big>&#8207;[[H4191\|יָמ֛וּת]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that belongs] to [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything  |**<big>&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.3|<< Exodus 9:3]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.5|Exodus 9:5 >>]]</td></tr></table>
 
 

@@ -11,36 +11,36 @@ The moon will be confounded and the sun will be ashamed; for the LORD of Hosts w
 > $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall melt away | <big><span class="asgreek">τακήσεται</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brick | <big><span class="asgreek">πλίνθος</span></big> <sup><small><small>[[G8820]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall feel remorse | <big><span class="asgreek">εντραπήσεται</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be ashamed | <big><span class="asgreek">αισχυνθήσεται</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall reign | <big><span class="asgreek">βασιλεύσει</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| he shall be glorified | <big><span class="asgreek">δοξασθήσεται</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall melt away | **<big>[[G5080\|τακήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| brick | **<big>[[G8820\|πλίνθος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fall | **<big>[[G4098\|πεσείται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall feel remorse | **<big>[[G1788\|εντραπήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| moon | **<big>[[G4582\|σελήνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be ashamed | **<big>[[G0153\|αισχυνθήσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall reign | **<big>[[G0936\|βασιλεύσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
+| he shall be glorified | **<big>[[G1392\|δοξασθήσεται]]</big>** |
 [[Isa.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.22|<< Isaiah 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.1|Isaiah 25:1 >>]]</td></tr></table>
 
 

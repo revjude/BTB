@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂמֵחַ‎</span></big> **sâmêach** <small>*(saw-may'-akh)*</small> ==**glad**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂמַח‎</span><sup><small>[[H8055]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׂמֵחַ‎</span></big>** **sâmêach** <small>*(saw-may'-akh)*</small> ==**glad**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H8055|‎שָׂמַח‎]]</big>**</small>
 
 $\quad$ (be) glad, joyful, (making) merry((-hearted), -ily), rejoice(-ing).
 - ***blithe*** or ***gleeful***

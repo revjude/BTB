@@ -7,41 +7,41 @@ Then Jehoram went forth with his princes, and all his chariots with him: and he 
 So Jehoram crossed into Edom with his officers and all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night.<small><sub>**MT:**</sub></small>
 [[2Chr.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.8|<< 2 Chronicles 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.10|2 Chronicles 21:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoram set out | <big><span class="asgreek">ώχετο</span></big> <sup><small><small>[[G8468]]</small></small></sup> <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rulers, | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cavalry, | <big><span class="asgreek">ίππος</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he arose | <big><span class="asgreek">ηγέρθη</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| \[by\] night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| encircling | <big><span class="asgreek">κυκλούντα</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots. | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoram set out | **<big>[[G8468\|ώχετο]]</big>** **<big>[[G2496\|Ιωράμ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his rulers, | **<big>[[G0758\|αρχόντων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his chariots, | **<big>[[G0716\|άρματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cavalry, | **<big>[[G2462\|ίππος]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he arose | **<big>[[G1453\|ηγέρθη]]</big>** |
+| \[by\] night | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Edom, | **<big>[[H0123\|Εδώμ]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| encircling | **<big>[[G2944\|κυκλούντα]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| chariots. | **<big>[[G0716\|αρμάτων]]</big>** |
 [[2Chr.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.8|<< 2 Chronicles 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.10|2 Chronicles 21:10 >>]]</td></tr></table>
 
 

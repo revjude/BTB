@@ -7,37 +7,37 @@ And though they hide themselves in the top of Carmel, I will search and take the
 Though they hide themselves atop Carmel, there I will track them and seize them; and though they hide from Me at the bottom of the sea, there I will command the serpent to bite them.<small><sub>**MT:**</sub></small>
 [[Amos.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.2|<< Amos 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.4|Amos 9:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they hide | <big><span class="asgreek">κατακρυβώσιν</span></big> <sup><small><small>[[G7009]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Carmel, | <big><span class="asgreek">Καρμήλου</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| I will search out | <big><span class="asgreek">εξερευνήσω</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they descend | <big><span class="asgreek">καταδύσωσιν</span></big> <sup><small><small>[[G7840]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depths | <big><span class="asgreek">βάθη</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| I will give charge | <big><span class="asgreek">εντελούμαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dragon, | <big><span class="asgreek">δράκοντι</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will bite | <big><span class="asgreek">δήξεται</span></big> <sup><small><small>[[G1143]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| they hide | **<big>[[G7009\|κατακρυβώσιν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| top | **<big>[[G8073\|κορυφήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Carmel, | **<big>[[H3760\|Καρμήλου]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| I will search out | **<big>[[G1830\|εξερευνήσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λήψομαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| they descend | **<big>[[G7840\|καταδύσωσιν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| depths | **<big>[[G0899\|βάθη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| I will give charge | **<big>[[G1781\|εντελούμαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| dragon, | **<big>[[G1404\|δράκοντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will bite | **<big>[[G1143\|δήξεται]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Amos.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.2|<< Amos 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.4|Amos 9:4 >>]]</td></tr></table>
 
 

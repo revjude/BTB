@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּבַס‎</span></big> **kâbaç** <small>*(kaw-bas')*</small> ==**Washer's**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּבַס‎</span></big>** **kâbaç** <small>*(kaw-bas')*</small> ==**Washer's**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fuller, wash(-ing).
@@ -11,4 +11,4 @@ $\quad$ **1b)** (Piel) to wash (garments, person)
 $\quad$ **1c)** (Pual) to be washed
 $\quad$ **1d)** (Hothpael) to be washed out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποπλύνω</span><sup><small>[[G0637]]</small></sup> · <span class="asgreek">γναφεύς</span><sup><small>[[G1102]]</small></sup> · <span class="asgreek">πλύνω</span><sup><small>[[G4150]]</small></sup>
+<small>See Greek: </small>**<big>[[G0637|ἀποπλύνω]]</big>** · **<big>[[G1102|γναφεύς]]</big>** · **<big>[[G4150|πλύνω]]</big>**

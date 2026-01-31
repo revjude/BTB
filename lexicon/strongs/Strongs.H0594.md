@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲנָךְ‎</span></big> **ʼănâk** <small>*(an-awk')*</small> ==**plumbline**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אֲנָךְ‎</span></big>** **ʼănâk** <small>*(an-awk')*</small> ==**plumbline**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably from an unused root meaning to be narrow</small>
 
 $\quad$ plumb-line

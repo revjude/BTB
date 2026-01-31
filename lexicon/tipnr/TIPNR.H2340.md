@@ -4,8 +4,8 @@ People from Hiv\(?\)
 
 The <span class='tipnrhighlight'>Hivites</span> were one of the Canaanite tribes inhabiting the land promised to the Israelites.
 - People from Hiv\(?\) of the Canaanites, first mentioned at [[Gen.10.17|Gen.10.17]]; 
-- only referred to as Hivites<[[H2340]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>י</span>\); 
-- descended from Canaan<[[H3667G]]> along with Sidon<[[H6721G]]>, Heth<[[H2845]]>, Jebusites<[[H2983G]]>, Amorites<[[H0567]]>, Girgashites<[[H1622]]>, Arkites<[[H6208]]>, Sinites<[[H5513]]>, Arvadites<[[H0721]]>, Zemarites<[[H6786]]> and Hamathites<[[H2577]]>.
+- only referred to as Hivites **<big>[[H2340|חִוִּי]]</big>**; 
+- descended from Canaan **<big>[[H3667|כְּנַעַן]]</big>** along with Sidon **<big>[[H6721|צִידוֹן]]</big>**, Heth **<big>[[H2845|חֵת]]</big>**, Jebusites **<big>[[H2983|יְבוּסִי]]</big>**, Amorites **<big>[[H0567|אֱמֹרִי]]</big>**, Girgashites **<big>[[H1622|גִּרְגָּשִׁי]]</big>**, Arkites **<big>[[H6208|עַרְקִי]]</big>**, Sinites **<big>[[H5513|סִינִי]]</big>**, Arvadites **<big>[[H0721|אַרְוָדִי]]</big>**, Zemarites **<big>[[H6786|צְמָרִי]]</big>** and Hamathites **<big>[[H2577|חֲמָתִי]]</big>**.
 
 The Hivites were one of the Canaanite people groups that inhabited the land of Canaan prior to the Israelite conquest. They are first mentioned in [[Gen.10.17|Genesis 10:17]] and [[1Chr.1.15|1 Chronicles 1:15]] as descendants of Canaan, the son of Ham. 
 
@@ -15,8 +15,8 @@ During the Israelite conquest of Canaan, the Hivites of Gibeon tricked Joshua in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hivite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>י</span>](H2340) <small>*Hebrew*</small> | 25x | [[Gen.10.17] ... [2Ch.8.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hivite\*\|reference=Gen.10.17;Gen.34.2;Gen.36.2;Exo.3.8;Exo.3.17;Exo.13.5;Exo.23.23;Exo.23.28;Exo.33.2;Exo.34.11;Deu.7.1;Deu.20.17;Jos.3.10;Jos.9.1;Jos.9.7;Jos.11.3;Jos.11.19;Jos.12.8;Jos.24.11;Jdg.3.3;Jdg.3.5;2Sa.24.7;1Ki.9.20;1Ch.1.15;2Ch.8.7) |
-All Strong's for **Hivites**: \[[[H2340]]\]
+| Hivite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>י</span>](H2340) | 25x | [[Gen.10.17] ... [2Ch.8.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hivite\*\|reference=Gen.10.17;Gen.34.2;Gen.36.2;Exo.3.8;Exo.3.17;Exo.13.5;Exo.23.23;Exo.23.28;Exo.33.2;Exo.34.11;Deu.7.1;Deu.20.17;Jos.3.10;Jos.9.1;Jos.9.7;Jos.11.3;Jos.11.19;Jos.12.8;Jos.24.11;Jdg.3.3;Jdg.3.5;2Sa.24.7;1Ki.9.20;1Ch.1.15;2Ch.8.7) |
+All entries for **Hivites**:  **<big>[[H2340|חִוִּי]]</big>**
 #### Related Profiles:
 - **[Canaan](H3667G)** (father)
 - **[Sidon](H6721G)** (sibling)

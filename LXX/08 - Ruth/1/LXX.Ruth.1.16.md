@@ -10,39 +10,39 @@ And Ruth said, Intreat me not to leave thee, [or] to return from following after
 But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.<small><sub>**MT:**</sub></small>
 [[Ruth.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.15|<< Ruth 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.17|Ruth 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Ruth | <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| confront | <big><span class="asgreek">απαντήσαι</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to leave | <big><span class="asgreek">καταλιπείν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to turn | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| behind | <big><span class="asgreek">όπισθέν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| you! | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you -- | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| where | <big><span class="asgreek">όπου</span></big> <sup><small><small>[[G3699]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should go, | <big><span class="asgreek">πορευθής</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| I shall go; | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">όπου</span></big> <sup><small><small>[[G3699]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should lodge, | <big><span class="asgreek">αυλισθής</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| I shall lodge. | <big><span class="asgreek">αυλισθήσομαι</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be\] my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Ruth | **<big>[[G4503\|Ρουθ]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| confront | **<big>[[G0528\|απαντήσαι]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to leave | **<big>[[G2641\|καταλιπείν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to turn | **<big>[[G0654\|αποστρέψαι]]</big>** |
+| behind | **<big>[[G3693\|όπισθέν]]</big>** |
+| you! | **<big>[[G1473\|σου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you -- | **<big>[[G1473\|συ]]</big>** |
+| where | **<big>[[G3699\|όπου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| you should go, | **<big>[[G4198\|πορευθής]]</big>** |
+| I shall go; | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G3699\|όπου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| you should lodge, | **<big>[[G0835\|αυλισθής]]</big>** |
+| I shall lodge. | **<big>[[G0835\|αυλισθήσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[shall be\] my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| my God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ruth.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.15|<< Ruth 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.17|Ruth 1:17 >>]]</td></tr></table>
 
 

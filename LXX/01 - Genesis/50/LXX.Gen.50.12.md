@@ -7,17 +7,17 @@ And his sons did unto him according as he commanded them:
 So Jacob’s sons did as he had charged them.<small><sub>**MT:**</sub></small>
 [[Gen.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.11|<< Genesis 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.13|Genesis 50:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Gen.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.11|<< Genesis 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.13|Genesis 50:13 >>]]</td></tr></table>
 
 

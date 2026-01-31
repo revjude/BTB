@@ -6,24 +6,24 @@ Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But Davi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.36|<< 2 Samuel 13:36]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.38|2 Samuel 13:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Absalom  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַבְשָׁל֣וֹם </big></span><small><small><sup>[[H0053]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.sha.Lom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fled  | <span class="ashebrew"><big>בָּרַ֔ח </big></span><small><small><sup>[[H1272]]</sup></small></small> &#8207;| ba.Rach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֛לֶךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.lekh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Talmai  | <span class="ashebrew"><big>תַּלְמַ֥י </big></span><small><small><sup>[[H8526H]]</sup></small></small> &#8207;| tal.Mai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammihud  [^1] | <span class="ashebrew"><big>עַמִּיה֖וּד </big></span><small><small><sup>[[H5989J]]</sup></small></small> &#8207;[^2] | a.mi.chur <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Geshur  | <span class="ashebrew"><big>גְּשׁ֑וּר </big></span><small><small><sup>[[H1650]]</sup></small></small> &#8207;| ge.Shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he mourned  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְאַבֵּ֥ל </big></span><small><small><sup>[[H0056]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yit.'a.Bel <small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְּנ֖ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the days  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּמִֽים </big></span><small><small><sup>[[H3117J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Absalom  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֣וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fled  |**<big>&#8207;[[H1272\|בָּרַ֔ח]]&#8207; </big>**| ba.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֛לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Talmai  |**<big>&#8207;[[H8526H\|תַּלְמַ֥י]]&#8207; </big>**| tal.Mai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammihud  [^1]|**<big>&#8207;[[H5989J\|עַמִּיה֖וּד]]&#8207; </big>**[^2] | a.mi.chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geshur  |**<big>&#8207;[[H1650\|גְּשׁ֑וּר]]&#8207; </big>**| ge.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he mourned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0056\|יִּתְאַבֵּ֥ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Bel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְּנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117J\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.36|<< 2 Samuel 13:36]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.38|2 Samuel 13:38 >>]]</td></tr></table>
 
-[^1]: ==K==: **Ammihur ** | <small><sup>[[H5991]]</sup></small> <span class="ashebrew"><big>עַמִּיחוּר</big></span>  | a.mi.chur<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Ammihur  | **<big>[[H5991|עַמִּיחוּר]]</big> ** | a.mi.chur<small><sup>[[HNpm]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>עַמִּיח֖וּר</big></span>**
 

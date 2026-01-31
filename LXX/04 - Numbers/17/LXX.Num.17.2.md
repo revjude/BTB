@@ -7,38 +7,38 @@ Speak unto the children of Israel, and take of every one of them a rod according
 “Speak to the Israelites and take from them twelve staffs, one from the leader of each tribe. Write each man’s name on his staff,<small><sub>**MT:**</sub></small>
 [[Num.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.1|<< Numbers 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.3|Numbers 17:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a rod! | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] patrimony, | <big><span class="asgreek">πατρίων</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rulers, | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their patrimony -- | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| rods. | <big><span class="asgreek">ράβδους</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for each | <big><span class="asgreek">εκάστου</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| inscribe | <big><span class="asgreek">επίγραψον</span></big> <sup><small><small>[[G1924]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rod! | <big><span class="asgreek">ράβδου</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Speak | **<big>[[G2980\|λάλησον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| a rod! | **<big>[[G4464\|ράβδον]]</big>** |
+| a rod | **<big>[[G4464\|ράβδον]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of \[the\] patrimony, | **<big>[[G3965\|πατρίων]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their rulers, | **<big>[[G0758\|αρχόντων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of their patrimony -- | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| rods. | **<big>[[G4464\|ράβδους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| for each | **<big>[[G1538\|εκάστου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| inscribe | **<big>[[G1924\|επίγραψον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his rod! | **<big>[[G4464\|ράβδου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.1|<< Numbers 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.3|Numbers 17:3 >>]]</td></tr></table>
 
 

@@ -11,38 +11,38 @@ So when the Midianite traders passed by, his brothers pulled Joseph out of the p
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came near | <big><span class="asgreek">παρεπορεύοντο</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Midianite | <big><span class="asgreek">Μαδιηναίοι</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| merchants, | <big><span class="asgreek">έμποροι</span></big> <sup><small><small>[[G1713]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they drew out | <big><span class="asgreek">εξείλκυσαν</span></big> <sup><small><small>[[G1828]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hauled | <big><span class="asgreek">ανεβίβασαν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well. | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rendered | <big><span class="asgreek">απέδοντο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ishmaelites | <big><span class="asgreek">Ισμαηλίταις</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| \[pieces\] of gold. | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">κατήγαγον</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came near | **<big>[[G3899\|παρεπορεύοντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[the\] men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Midianite | **<big>[[G3099\|Μαδιηναίοι]]</big>** |
+| merchants, | **<big>[[G1713\|έμποροι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they drew out | **<big>[[G1828\|εξείλκυσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hauled | **<big>[[G0307\|ανεβίβασαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| well. | **<big>[[G8154\|λάκκου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| rendered | **<big>[[G0591\|απέδοντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| Ishmaelites | **<big>[[H3458\|Ισμαηλίταις]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| \[pieces\] of gold. | **<big>[[G5552\|χρυσών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G2609\|κατήγαγον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt. | **<big>[[G0125\|Αίγυπτον]]</big>** |
 [[Gen.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.27|<< Genesis 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.29|Genesis 37:29 >>]]</td></tr></table>
 
 

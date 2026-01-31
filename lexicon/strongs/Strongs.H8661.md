@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תַּרְתָּן‎</span></big> **Tartân** <small>*(tar-tawn')*</small> ==**Tartan**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎תַּרְתָּן‎</span></big>** **Tartân** <small>*(tar-tawn')*</small> ==**Tartan**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Tartan.

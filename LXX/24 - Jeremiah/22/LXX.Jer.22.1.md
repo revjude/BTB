@@ -10,25 +10,25 @@ Thus saith the LORD; Go down to the house of the king of Judah, and speak there 
 This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there,<small><sub>**MT:**</sub></small>
 [[Jer.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.14|<< Jeremiah 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.2|Jeremiah 22:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go down | <big><span class="asgreek">κατάβηθι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah! | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall speak | <big><span class="asgreek">λαλήσεις</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Go, | **<big>[[G4198\|πορεύου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go down | **<big>[[G2597\|κατάβηθι]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah! | **<big>[[G2448\|Ιούδα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall speak | **<big>[[G2980\|λαλήσεις]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this word. | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[Jer.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.14|<< Jeremiah 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.2|Jeremiah 22:2 >>]]</td></tr></table>
 
 

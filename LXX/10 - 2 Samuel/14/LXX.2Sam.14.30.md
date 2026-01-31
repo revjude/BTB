@@ -10,41 +10,41 @@ Therefore he said unto his servants, See, Joab’s field is near mine, and he ha
 Then Absalom said to his servants, “Look, Joab’s field is next to mine, and he has barley there. Go and set it on fire!” And Absalom’s servants set the field on fire.<small><sub>**MT:**</sub></small>
 [[2Sam.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.29|<< 2 Samuel 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.31|2 Samuel 14:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You know | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] field | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| being next to | <big><span class="asgreek">εχόμενά</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| mine, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] barley there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> <big><span class="asgreek">κριθαί</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| You go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| burn | <big><span class="asgreek">εμπρήσατε</span></big> <sup><small><small>[[G1714]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire! | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| burned | <big><span class="asgreek">ενέπρησαν</span></big> <sup><small><small>[[G1714]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">δούλοι</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| of Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion \[of the field\] | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of Joab. | <big><span class="asgreek">Ιωαβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants, | **<big>[[G1401\|δούλους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| You know | **<big>[[G1492\|ίδετε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] field | **<big>[[G0068\|αγρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| being next to | **<big>[[G2192\|εχόμενά]]</big>** |
+| mine, | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[is\] barley there. | **<big>[[G1563\|εκεί]]</big>** **<big>[[G2915\|κριθαί]]</big>** |
+| You go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| burn | **<big>[[G1714\|εμπρήσατε]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire! | **<big>[[G4442\|πυρί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| burned | **<big>[[G1714\|ενέπρησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| servants | **<big>[[G1401\|δούλοι]]</big>** |
+| of Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire | **<big>[[G4442\|πυρί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| portion \[of the field\] | **<big>[[G3310\|μερίδα]]</big>** |
+| of Joab. | **<big>[[H3097\|Ιωαβ]]</big>** |
 [[2Sam.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.29|<< 2 Samuel 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.31|2 Samuel 14:31 >>]]</td></tr></table>
 
 

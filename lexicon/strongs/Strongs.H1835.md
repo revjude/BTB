@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּן‎</span></big> **Dân** <small>*(dawn)*</small> ==**Dan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎דִּין‎</span><sup><small>[[H1777]]</small></sup>; judge</small>
+**<big><span class="ashebrew">‎דָּן‎</span></big>** **Dân** <small>*(dawn)*</small> ==**Dan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1777|‎דִּין‎]]</big>**; judge</small>
 
 $\quad$ Daniel
 - § Dan = *"a judge"*

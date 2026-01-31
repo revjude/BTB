@@ -6,19 +6,19 @@ In God, whose word I praise—in God I trust. I will not be afraid. What can man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.3|<< Psalms 56:3]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.5|Psalms 56:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in God  | <span class="ashebrew"><big>בֵּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אלֹהִים֮ </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will praise  | <span class="ashebrew"><big>אֲהַלֵּ֪ל </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| 'a.ha.Lel <small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| word his  | <span class="ashebrew"><big>דְּבָ֫ר֥ </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| de.Va.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in God  | <span class="ashebrew"><big>בֵּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have trusted  | <span class="ashebrew"><big>בָּ֭טַחְתִּי </big></span><small><small><sup>[[H0982]]</sup></small></small> &#8207;| Ba.tach.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am afraid  | <span class="ashebrew"><big>אִירָ֑א </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| 'i.Ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will it do  | <span class="ashebrew"><big>יַּעֲשֶׂ֖ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flesh  | <span class="ashebrew"><big>בָשָׂ֣ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| va.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in God  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430G\|אלֹהִים֮]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will praise  |**<big>&#8207;[[H1984B\|אֲהַלֵּ֪ל]]&#8207; </big>**| 'a.ha.Lel<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word his  |**<big>&#8207;[[H1697G\|דְּבָ֫ר֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| de.Va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in God  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430G\|אלֹהִ֣ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have trusted  |**<big>&#8207;[[H0982\|בָּ֭טַחְתִּי]]&#8207; </big>**| Ba.tach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am afraid  |**<big>&#8207;[[H3372G\|אִירָ֑א]]&#8207; </big>**| 'i.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will it do  |**<big>&#8207;[[H6213A\|יַּעֲשֶׂ֖ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  |**<big>&#8207;[[H1320\|בָשָׂ֣ר]]&#8207; </big>**| va.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.3|<< Psalms 56:3]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.5|Psalms 56:5 >>]]</td></tr></table>
 
 

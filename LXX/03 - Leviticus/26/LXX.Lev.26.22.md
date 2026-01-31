@@ -7,33 +7,33 @@ I will also send wild beasts among you, which shall rob you of your children, an
 I will send wild animals against you to rob you of your children, destroy your livestock, and reduce your numbers, until your roads lie desolate.<small><sub>**MT:**</sub></small>
 [[Lev.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.21|<< Leviticus 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.23|Leviticus 26:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild | <big><span class="asgreek">αγρία</span></big> <sup><small><small>[[G0066]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall eat | <big><span class="asgreek">κατέδεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall completely consume | <big><span class="asgreek">εξαναλώσει</span></big> <sup><small><small>[[G7294]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cattle; | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| very few | <big><span class="asgreek">ολιγοστούς</span></big> <sup><small><small>[[G8483]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be made desolate | <big><span class="asgreek">ερημωθήσονται</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will send | **<big>[[G0649\|αποστελώ]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| beasts | **<big>[[G2342\|θηρία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| wild | **<big>[[G0066\|αγρία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall eat | **<big>[[G2719\|κατέδεται]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall completely consume | **<big>[[G7294\|εξαναλώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your cattle; | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| very few | **<big>[[G8483\|ολιγοστούς]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be made desolate | **<big>[[G2049\|ερημωθήσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your ways | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.21|<< Leviticus 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.23|Leviticus 26:23 >>]]</td></tr></table>
 
 

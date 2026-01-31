@@ -6,17 +6,17 @@ Cush was the father of Nimrod, who began to be a mighty one on the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.7|<< Genesis 10:7]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.9|Genesis 10:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Cush  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כ֖וּשׁ </big></span><small><small><sup>[[H3568G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khush <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>יָלַ֣ד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ya.Lad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nimrod  | <span class="ashebrew"><big>נִמְרֹ֑ד </big></span><small><small><sup>[[H5248]]</sup></small></small> &#8207;| nim.Rod <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he began  | <span class="ashebrew"><big>הֵחֵ֔ל </big></span><small><small><sup>[[H2490C]]</sup></small></small> &#8207;| he.Chel <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to be  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הְי֥וֹת </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> h.Yot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mighty [man]  | <span class="ashebrew"><big>גִּבֹּ֖ר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.Bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the earth  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Cush  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3568G\|כ֖וּשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|יָלַ֣ד]]&#8207; </big>**| ya.Lad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nimrod  |**<big>&#8207;[[H5248\|נִמְרֹ֑ד]]&#8207; </big>**| nim.Rod<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he began  |**<big>&#8207;[[H2490C\|הֵחֵ֔ל]]&#8207; </big>**| he.Chel<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to be  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H1961\|הְי֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mighty [man]  |**<big>&#8207;[[H1368\|גִּבֹּ֖ר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the earth  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.7|<< Genesis 10:7]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.9|Genesis 10:9 >>]]</td></tr></table>
 
 

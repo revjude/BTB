@@ -7,28 +7,28 @@ Likewise the people of the land shall worship at the door of this gate before th
 On the Sabbaths and New Moons the people of the land are also to bow in worship before the LORD at the entrance to that gateway.<small><sub>**MT:**</sub></small>
 [[Ezek.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.2|<< Ezekiel 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.4|Ezekiel 46:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall do obeisance | <big><span class="asgreek">προσκυνήσει</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">πρόθυρα</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths | <big><span class="asgreek">σαββάτοις</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new moons | <big><span class="asgreek">νουμηνίαις</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall do obeisance | **<big>[[G4352\|προσκυνήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| at | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thresholds | **<big>[[G8895\|πρόθυρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of that gate | **<big>[[G4439\|πύλης]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| Sabbaths | **<big>[[G4521\|σαββάτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| new moons | **<big>[[G3561\|νουμηνίαις]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ezek.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.2|<< Ezekiel 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.4|Ezekiel 46:4 >>]]</td></tr></table>
 
 

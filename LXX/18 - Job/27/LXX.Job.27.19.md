@@ -7,17 +7,17 @@ The rich man shall lie down, but he shall not be gathered: he openeth his eyes, 
 He lies down wealthy, but will do so no more; when he opens his eyes, all is gone.<small><sub>**MT:**</sub></small>
 [[Job.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.20|Job 27:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] rich \[man\] | <big><span class="asgreek">πλούσιος</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| shall sleep, | <big><span class="asgreek">κοιμηθήσεται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed; | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are opened wide, | <big><span class="asgreek">διήνοιξε</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he is no \[longer\]. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[The\] rich \[man\] | **<big>[[G4145\|πλούσιος]]</big>** |
+| shall sleep, | **<big>[[G2837\|κοιμηθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| proceed; | **<big>[[G4369\|προσθήσει]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are opened wide, | **<big>[[G1272\|διήνοιξε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he is no \[longer\]. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
 [[Job.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.20|Job 27:20 >>]]</td></tr></table>
 
 

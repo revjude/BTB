@@ -6,16 +6,16 @@ This is the message that the LORD spoke earlier concerning Moab.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.12|<< Isaiah 16:12]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.14|Isaiah 16:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֶ֣ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the word  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דָּבָ֗ר </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has spoken  | <span class="ashebrew"><big>דִּבֶּ֧ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| concerning  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֖ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from then  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָֽז </big></span><small><small><sup>[[H0227B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֶּ֧ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֖ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from then  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0227B\|אָֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.12|<< Isaiah 16:12]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.14|Isaiah 16:14 >>]]</td></tr></table>
 
 

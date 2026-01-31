@@ -4,7 +4,7 @@ People from Kadmon\(?\)
 
 The <span class='tipnrhighlight'>Kadmonites</span> were one of the Canaanite people groups living in the land promised to Abraham's descendants.
 - People from Kadmon\(?\), only mentioned at [[Gen.15.19|Gen.15.19]]; 
-- only referred to as Kadmonites<[[H6935]]> \(<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Kadmonites **<big>[[H6935|קַדְמֹנִי]]</big>**.
 
 The Kadmonites are mentioned in [[Gen.15.19|Genesis 15:19]] as one of the ten Canaanite people groups inhabiting the land that God promised to give to Abraham's descendants. The context of the passage is the Abrahamic Covenant, in which God makes a covenant with Abraham, promising him a land, descendants, and blessings \(Genesis 15:18-21\). 
 
@@ -16,5 +16,5 @@ The inclusion of the Kadmonites in the list of Canaanite peoples emphasizes the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kadmonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6935) <small>*Hebrew*</small> | 1x | [Gen.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kadmonite\*\|reference=Gen.15.19) |
-All Strong's for **Kadmonites**: \[[[H6935]]\]
+| Kadmonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6935) | 1x | [Gen.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kadmonite\*\|reference=Gen.15.19) |
+All entries for **Kadmonites**:  **<big>[[H6935|קַדְמֹנִי]]</big>**

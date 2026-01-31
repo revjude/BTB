@@ -7,28 +7,28 @@ For my life is spent with grief, and my years with sighing: my strength faileth 
 For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away.<small><sub>**MT:**</sub></small>
 [[Ps.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.9|<< Psalm 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.11|Psalm 31:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| grief | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| moanings. | <big><span class="asgreek">στεναγμοίς</span></big> <sup><small><small>[[G4726]]</small></small></sup> |
-| weakened | <big><span class="asgreek">ησθένησεν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| poorness | <big><span class="asgreek">πτωχεία</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are disturbed. | <big><span class="asgreek">εταράχθησαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| grief | **<big>[[G3601\|οδύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my life | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my years | **<big>[[G2094\|έτη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| moanings. | **<big>[[G4726\|στεναγμοίς]]</big>** |
+| weakened | **<big>[[G0770\|ησθένησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| poorness | **<big>[[G4432\|πτωχεία]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| are disturbed. | **<big>[[G5015\|εταράχθησαν]]</big>** |
 [[Ps.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.9|<< Psalm 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.11|Psalm 31:11 >>]]</td></tr></table>
 
 

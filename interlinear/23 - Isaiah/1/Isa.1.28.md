@@ -6,15 +6,15 @@ But rebels and sinners will together be shattered, and those who forsake the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.27|<< Isaiah 1:27]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.29|Isaiah 1:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a crushing of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֶׁ֧בֶר </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.ver <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rebels  | <span class="ashebrew"><big>פֹּשְׁעִ֛ים </big></span><small><small><sup>[[H6586]]</sup></small></small> &#8207;| po.she.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sinners  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַטָּאִ֖ים </big></span><small><small><sup>[[H2400]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.ta.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יַחְדָּ֑ו </big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [those who] forsake  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֹזְבֵ֥י </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.ze.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come to an end  | <span class="ashebrew"><big>יִכְלֽוּ </big></span><small><small><sup>[[H3615H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yikh.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a crushing of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7667\|שֶׁ֧בֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rebels  |**<big>&#8207;[[H6586\|פֹּשְׁעִ֛ים]]&#8207; </big>**| po.she.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sinners  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2400\|חַטָּאִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.ta.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּ֑ו]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [those who] forsake  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5800A\|עֹזְבֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.ze.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come to an end  |**<big>&#8207;[[H3615H\|יִכְלֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yikh.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.27|<< Isaiah 1:27]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.29|Isaiah 1:29 >>]]</td></tr></table>
 
 

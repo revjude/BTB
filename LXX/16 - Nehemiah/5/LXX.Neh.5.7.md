@@ -7,37 +7,37 @@ Then I consulted with myself, and I rebuked the nobles, and the rulers, and said
 and after serious thought I rebuked the nobles and officials, saying, “You are exacting usury from your own brothers!” So I called a large assembly against them<small><sub>**MT:**</sub></small>
 [[Neh.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.6|<< Nehemiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.8|Nehemiah 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took counsel | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did combat | <big><span class="asgreek">εμαχεσάμην</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| important ones, | <big><span class="asgreek">εντίμους</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers. | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| exact | <big><span class="asgreek">απαιτήσει</span></big> <sup><small><small>[[G0523]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from his brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do? | <big><span class="asgreek">ποιείτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I put | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησίαν</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took counsel | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did combat | **<big>[[G3164\|εμαχεσάμην]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| important ones, | **<big>[[G1784\|εντίμους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers. | **<big>[[G0758\|άρχοντας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| exact | **<big>[[G0523\|απαιτήσει]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| from his brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| do? | **<big>[[G4160\|ποιείτε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I put | **<big>[[G1325\|έδωκα]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησίαν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
 [[Neh.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.6|<< Nehemiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.8|Nehemiah 5:8 >>]]</td></tr></table>
 
 

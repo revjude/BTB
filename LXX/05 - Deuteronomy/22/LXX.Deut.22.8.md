@@ -7,30 +7,30 @@ When thou buildest a new house, then thou shalt make a battlement for thy roof, 
 If you build a new house, you are to construct a railing around your roof, so that you do not bring bloodguilt on your house if someone falls from it.<small><sub>**MT:**</sub></small>
 [[Deut.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.7|<< Deuteronomy 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.9|Deuteronomy 22:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should build | <big><span class="asgreek">οικοδομήσης</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| a new | <big><span class="asgreek">καινήν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a rim | <big><span class="asgreek">στεφάνην</span></big> <sup><small><small>[[G9168]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your roof, | <big><span class="asgreek">δώματί</span></big> <sup><small><small>[[G1430]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cause | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| carnage | <big><span class="asgreek">φόνον</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should fall | <big><span class="asgreek">πέση</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one falling | <big><span class="asgreek">πεσών</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should build | **<big>[[G3618\|οικοδομήσης]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| a new | **<big>[[G2537\|καινήν]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| a rim | **<big>[[G9168\|στεφάνην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for your roof, | **<big>[[G1430\|δώματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will not | **<big>[[G3756\|ου]]</big>** |
+| cause | **<big>[[G4160\|ποιήσεις]]</big>** |
+| carnage | **<big>[[G5408\|φόνον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your house | **<big>[[G3614\|οικία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should fall | **<big>[[G4098\|πέση]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one falling | **<big>[[G4098\|πεσών]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.7|<< Deuteronomy 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.9|Deuteronomy 22:9 >>]]</td></tr></table>
 
 

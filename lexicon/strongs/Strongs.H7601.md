@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁאַס‎</span></big> **shâʼaç** <small>*(shaw-as')*</small> ==**to spoil**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁאַס‎</span></big>** **shâʼaç** <small>*(shaw-as')*</small> ==**to spoil**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ spoil.

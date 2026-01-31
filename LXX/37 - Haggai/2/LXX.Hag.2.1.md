@@ -10,25 +10,25 @@ In the seventh [month], in the one and twentieth [day] of the month, came the wo
 On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet, saying:<small><sub>**MT:**</sub></small>
 [[Hag.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth day | <big><span class="asgreek">εικάδι</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Haggai | <big><span class="asgreek">Αγγαίου</span></big> <sup><small><small>[[H2292b]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet, | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| In the | **<big>[[G3588\|τω]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
+| month, | **<big>[[G3376\|μηνί]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth day | **<big>[[G7051\|εικάδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Haggai | **<big>[[H2292b\|Αγγαίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| prophet, | **<big>[[G4396\|προφήτου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Hag.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
 

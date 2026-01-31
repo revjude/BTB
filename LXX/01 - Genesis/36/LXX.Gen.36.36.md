@@ -7,18 +7,18 @@ And Hadad died, and Samlah of Masrekah reigned in his stead.
 When Hadad died, Samlah from Masrekah reigned in his place.<small><sub>**MT:**</sub></small>
 [[Gen.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.35|<< Genesis 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.37|Genesis 36:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| died | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Hadad | <big><span class="asgreek">Αδάδ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| instead | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| of him -- | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samiah | <big><span class="asgreek">Σαμαά</span></big> <sup><small><small>[[H8092]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Masrekah. | <big><span class="asgreek">Μασεκκάς</span></big> <sup><small><small>[[H4957]]</small></small></sup> |
+| died | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Hadad | **<big>[[H2301\|Αδάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| instead | **<big>[[G0473\|αντ΄]]</big>** |
+| of him -- | **<big>[[G1473\|αυτού]]</big>** |
+| Samiah | **<big>[[H8092\|Σαμαά]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Masrekah. | **<big>[[H4957\|Μασεκκάς]]</big>** |
 [[Gen.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.35|<< Genesis 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.37|Genesis 36:37 >>]]</td></tr></table>
 
 

@@ -11,26 +11,26 @@ You will eat the flesh of the mighty and drink the blood of the princes of the e
 > $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| meats | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| of giants | <big><span class="asgreek">γιγάντων</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| You shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you shall drink | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he-goats, | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχοι</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| all growing fat. | <big><span class="asgreek">εστεατωμένοι</span></big> <sup><small><small>[[G9156]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| meats | **<big>[[G2907\|κρέα]]</big>** |
+| of giants | **<big>[[G6736\|γιγάντων]]</big>** |
+| You shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| of rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| you shall drink | **<big>[[G4095\|πίεσθε]]</big>** |
+| rams, | **<big>[[G8096\|κριούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he-goats, | **<big>[[G5131\|τράγους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| calves | **<big>[[G3448\|μόσχοι]]</big>** |
+| all growing fat. | **<big>[[G9156\|εστεατωμένοι]]</big>** **<big>[[G3956\|πάντες]]</big>** |
 [[Ezek.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.17|<< Ezekiel 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.19|Ezekiel 39:19 >>]]</td></tr></table>
 
 

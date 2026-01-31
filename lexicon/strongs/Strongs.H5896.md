@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִירָא‎</span></big> **ʻÎyrâʼ** <small>*(ee-raw')*</small> ==**Ira**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּר‎</span><sup><small>[[H5782]]</small></sup>; wakefulness</small>
+**<big><span class="ashebrew">‎עִירָא‎</span></big>** **ʻÎyrâʼ** <small>*(ee-raw')*</small> ==**Ira**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5782|‎עוּר‎]]</big>**; wakefulness</small>
 
 $\quad$ Ira.
 - § Ira = *"watchful of a city"*

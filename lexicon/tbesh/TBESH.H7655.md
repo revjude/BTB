@@ -1,3 +1,1 @@
-<span class="asaramaic">‎שִׁבְעָה‎</span> <small>***(shiv.ah)***</small> ==**seven**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-Aramaic of: <small>[[H7651]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7651|שֶׁבַע]]</big>**</small>

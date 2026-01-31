@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מַפָּח‎</span></big> **mappâch** <small>*(map-pawkh')*</small> ==**exhalation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָפַח‎</span><sup><small>[[H5301]]</small></sup></small>
+**<big><span class="ashebrew">‎מַפָּח‎</span></big>** **mappâch** <small>*(map-pawkh')*</small> ==**exhalation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5301|‎נָפַח‎]]</big>**</small>
 
 $\quad$ giving up.
 - ***a breathing out*** (of life), i.e. ***expiring***
 
 **1)** breathing out, expiring, exhaling (of life)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup>
+<small>See Greek: </small>**<big>[[G0684|ἀπώλεια]]</big>**

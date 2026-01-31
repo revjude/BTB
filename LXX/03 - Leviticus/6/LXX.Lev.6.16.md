@@ -7,29 +7,29 @@ And the remainder thereof shall Aaron and his sons eat: with unleavened bread sh
 Aaron and his sons are to eat the remainder. It must be eaten without leaven in a holy place; they are to eat it in the courtyard of the Tent of Meeting.<small><sub>**MT:**</sub></small>
 [[Lev.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.15|<< Leviticus 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.17|Leviticus 6:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| remainder | <big><span class="asgreek">καταλειφθέν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Aaron shall eat | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons. | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unleavened | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| It shall be eaten | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| a holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| they shall eat | <big><span class="asgreek">έδονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| remainder | **<big>[[G2641\|καταλειφθέν]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| Aaron shall eat | **<big>[[G2068\|έδεται]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his sons. | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unleavened | **<big>[[G0106\|άζυμα]]</big>** |
+| It shall be eaten | **<big>[[G0977\|βρωθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| a holy | **<big>[[G0039\|αγίω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| they shall eat | **<big>[[G2068\|έδονται]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Lev.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.15|<< Leviticus 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.17|Leviticus 6:17 >>]]</td></tr></table>
 
 

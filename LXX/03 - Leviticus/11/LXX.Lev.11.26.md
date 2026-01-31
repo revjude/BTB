@@ -7,34 +7,34 @@ And among all the animals which are cloven hoof, and \[with\] cloven-footed claw
 Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean.<small><sub>**MT:**</sub></small>
 [[Lev.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.25|<< Leviticus 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.27|Leviticus 11:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| animals | <big><span class="asgreek">κτήνεσιν</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| cloven | <big><span class="asgreek">διχηλούν</span></big> <sup><small><small>[[G6948]]</small></small></sup> |
-| hoof, | <big><span class="asgreek">οπλήν</span></big> <sup><small><small>[[G8535]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] cloven-footed | <big><span class="asgreek">ονυχιστήρας</span></big> <sup><small><small>[[G8524]]</small></small></sup> |
-| claws, | <big><span class="asgreek">ονυχίζει</span></big> <sup><small><small>[[G8522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of chewing the cud | <big><span class="asgreek">μηρυκισμόν</span></big> <sup><small><small>[[G8323]]</small></small></sup> |
-| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| chew the cud -- | <big><span class="asgreek">μαρυκάται</span></big> <sup><small><small>[[G8322]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτα</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their decaying flesh | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| animals | **<big>[[G2934\|κτήνεσιν]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| are | **<big>[[G1510\|εστι]]</big>** |
+| cloven | **<big>[[G6948\|διχηλούν]]</big>** |
+| hoof, | **<big>[[G8535\|οπλήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[with\] cloven-footed | **<big>[[G8524\|ονυχιστήρας]]</big>** |
+| claws, | **<big>[[G8522\|ονυχίζει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of chewing the cud | **<big>[[G8323\|μηρυκισμόν]]</big>** |
+| does not | **<big>[[G3756\|ου]]</big>** |
+| chew the cud -- | **<big>[[G8322\|μαρυκάται]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτα]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| every one | **<big>[[G3956\|πας]]</big>** **<big>[[G3588\|ο]]</big>** |
+| touching | **<big>[[G0680\|απτόμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their decaying flesh | **<big>[[G7681\|θνησιμαίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| will be unclean | **<big>[[G0169\|ακάθαρτος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρας]]</big>** |
 [[Lev.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.25|<< Leviticus 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.27|Leviticus 11:27 >>]]</td></tr></table>
 
 

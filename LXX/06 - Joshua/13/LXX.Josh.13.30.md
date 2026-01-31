@@ -7,36 +7,36 @@ And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bas
 The territory from Mahanaim through all Bashan—all the kingdom of Og king of Bashan, including all the towns of Jair that are in Bashan, sixty cities;<small><sub>**MT:**</sub></small>
 [[Josh.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.29|<< Joshua 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.31|Joshua 13:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Mahanaim, | <big><span class="asgreek">Μαναϊμ</span></big> <sup><small><small>[[H4266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Bashan, | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Og | <big><span class="asgreek">Ωγ</span></big> <sup><small><small>[[H5747]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Bashan, | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towns | <big><span class="asgreek">κώμας</span></big> <sup><small><small>[[G2968]]</small></small></sup> |
-| of Jair, | <big><span class="asgreek">Ιαίρ</span></big> <sup><small><small>[[H3265]]</small></small></sup> |
-| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Bashan, | <big><span class="asgreek">Βασανίτιδι</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| cities; | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their borders | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Mahanaim, | **<big>[[H4266\|Μαναϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \[the\] kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of Bashan, | **<big>[[H1316\|Βασάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \[the\] kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of Og | **<big>[[H5747\|Ωγ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Bashan, | **<big>[[H1316\|Βασάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| towns | **<big>[[G2968\|κώμας]]</big>** |
+| of Jair, | **<big>[[H3265\|Ιαίρ]]</big>** |
+| which | **<big>[[G3739\|αι]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Bashan, | **<big>[[H1316\|Βασανίτιδι]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| cities; | **<big>[[G4172\|πόλεις]]</big>** |
 [[Josh.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.29|<< Joshua 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.31|Joshua 13:31 >>]]</td></tr></table>
 
 

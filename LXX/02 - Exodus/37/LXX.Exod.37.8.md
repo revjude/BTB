@@ -7,33 +7,33 @@ One cherub on the end on this side, and another cherub on the [other] end on tha
 one cherub on one end and one on the other, all made from one piece of gold.<small><sub>**MT:**</sub></small>
 [[Exod.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| cherub | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| One | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this side, | <big><span class="asgreek">κλίτους</span></big> <sup><small><small>[[G8026]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cherub | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G9717]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">κλίτους</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρου</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat. | <big><span class="asgreek">ιλαστηρίου</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| cherubim | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sides | <big><span class="asgreek">κλίτη</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| \[its\] | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cherub | **<big>[[G5502\|χερούβ]]</big>** |
+| One | **<big>[[G1520\|εις]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this side, | **<big>[[G8026\|κλίτους]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cherub | **<big>[[G9717\|χερούβ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| side | **<big>[[G8026\|κλίτους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| second | **<big>[[G1208\|δευτέρου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| atonement-seat. | **<big>[[G2435\|ιλαστηρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| cherubim | **<big>[[G5502\|χερουβίμ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sides | **<big>[[G8026\|κλίτη]]</big>** |
+| \[its\] | **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
 

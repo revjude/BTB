@@ -1,4 +1,4 @@
-<small>Also see: [[H4882]]</small>
+<small>Also see: **<big>[[H4882|מְשׁוּסָה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎שָׁסָה‎</span>] **verb** ==spoil, plunder== (rarer synonym of <span class="bdbLangHebrew">‎שׁלל‎</span>, <span class="bdbLangHebrew">‎בזז‎</span>; with this √ [[BDB#WMM|WMM]]<sup>As.u.Eur.131</sup> connects Egyptian name of Beduin plunderers <abbr title="transliteration"><u>***Šôs***</u></abbr> [<abbr title="transliteration"><u>***Ša-su, ša-sa***</u></abbr>]; connection doubted by [[BDB#Jen|Jen]]<sup>ZA x (1895), 331</sup>); — 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָשִׁיחַ‎</span></big> **mâshîyach** <small>*(maw-shee'-akh)*</small> ==**anointed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָשַׁח‎</span><sup><small>[[H4886]]</small></sup></small>
+**<big><span class="ashebrew">‎מָשִׁיחַ‎</span></big>** **mâshîyach** <small>*(maw-shee'-akh)*</small> ==**anointed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4886|‎מָשַׁח‎]]</big>**</small>
 
 $\quad$ anointed, Messiah.
 - ***anointed***
@@ -13,4 +13,4 @@ $\quad$ **1c)** of the high priest of Israel
 $\quad$ **1d)** of Cyrus
 $\quad$ **1e)** of the patriarchs as anointed kings
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Μεσσίας</span><sup><small>[[G3323]]</small></sup>
+<small>See Greek: </small>**<big>[[G3323|Μεσσίας]]</big>**

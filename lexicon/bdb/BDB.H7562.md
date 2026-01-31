@@ -1,4 +1,4 @@
-<small>Also see: [[H7564]]</small>
+<small>Also see: **<big>[[H7564|רִשְׁעָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רֶ֫שַׁע‎</span> **noun masculine**<sup>[[1Sam.24.14|1Sam 24:14]]</sup> ==wickedness==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Mic.6.10|Mic 6:10]] +, <span class="bdbLangHebrew">‎רָ֑שַׁע‎</span> [[Eccl.3.16|Eccl 3:16]] construct (perhaps) <span class="bdbLangHebrew">‎רֶ֫שַׁע‎</span> [[Eccl.7.25|Eccl 7:25]] <span class="bdbLangHebrew">‎רִשְׁעוֺ‎</span> [[Deut.9.27|Deut 9:27]] +, etc.; — 
 

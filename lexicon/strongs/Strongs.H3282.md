@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יַעַן‎</span></big> **yaʻan** <small>*(yah'-an)*</small> ==**because**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
+**<big><span class="ashebrew">‎יַעַן‎</span></big>** **yaʻan** <small>*(yah'-an)*</small> ==**because**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
 <small>from an unused root meaning to pay attention</small>
 
 $\quad$ because (that), forasmuch ([phrase] as), seeing then, [phrase] that, [phrase] wheras, [phrase] why.

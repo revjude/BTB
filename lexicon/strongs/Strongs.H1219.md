@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּצַר‎</span></big> **bâtsar** <small>*(baw-tsar')*</small> ==**to gather/restrain/fortify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; to clip off; specifically (as denominative from <span class="ashebrew">‎בָּצִיר‎</span><sup><small>[[H1210]]</small></sup>)</small>
+**<big><span class="ashebrew">‎בָּצַר‎</span></big>** **bâtsar** <small>*(baw-tsar')*</small> ==**to gather/restrain/fortify**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to clip off; specifically (as denominative from **<big>[[H1210|‎בָּצִיר‎]]</big>**)</small>
 
 $\quad$ cut off, (de-) fenced, fortify, (grape) gather(-er), mighty things, restrain, strong, wall (up), withhold.
 - ***to gather grapes***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a3)** secrets, mysteries, inaccessible things (subst)
 $\quad$ **1b)** (Niphal) to be withheld
 $\quad$ **1c)** (Piel) to fortify
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδυνατέω</span><sup><small>[[G0101]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">ὀχύρωμα</span><sup><small>[[G3794]]</small></sup> · <span class="asgreek">σύμφυτος</span><sup><small>[[G4854]]</small></sup> · <span class="asgreek">τρυγάω</span><sup><small>[[G5166]]</small></sup>
+<small>See Greek: </small>**<big>[[G0101|ἀδυνατέω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G3794|ὀχύρωμα]]</big>** · **<big>[[G4854|σύμφυτος]]</big>** · **<big>[[G5166|τρυγάω]]</big>**

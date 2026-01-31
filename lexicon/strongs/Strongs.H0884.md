@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵר שֶׁבַע‎</span></big> **Bᵉʼêr Shebaʻ** <small>*(be-ayr' sheh'-bah)*</small> ==**Beersheba**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בְּאֵר‎</span><sup><small>[[H0875]]</small></sup> and <span class="ashebrew">‎שֶׁבַע‎</span><sup><small>[[H7651]]</small></sup> (in the sense of <span class="ashebrew">‎שָׁבַע‎</span><sup><small>[[H7650]]</small></sup>); well of an oath</small>
+**<big><span class="ashebrew">‎בְּאֵר שֶׁבַע‎</span></big>** **Bᵉʼêr Shebaʻ** <small>*(be-ayr' sheh'-bah)*</small> ==**Beersheba**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0875|‎בְּאֵר‎]]</big>** and **<big>[[H7651|‎שֶׁבַע‎]]</big>** (in the sense of **<big>[[H7650|‎שָׁבַע‎]]</big>**); well of an oath</small>
 
 $\quad$ Beer-shebah.
 - § Beer-sheba = *"well of the sevenfold oath"*

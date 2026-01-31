@@ -6,15 +6,15 @@ The LORD is the strength of His people, a stronghold of salvation for His anoint
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.7|<< Psalms 28:7]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.9|Psalms 28:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] strength  | <span class="ashebrew"><big>עֹֽז </big></span><small><small><sup>[[H5797]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'oz- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of them  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] [the] refuge of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָ֘ע֤וֹז </big></span><small><small><sup>[[H4581]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Ma.'oz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] salvation\<s> of  | <span class="ashebrew"><big>יְשׁוּע֖וֹת </big></span><small><small><sup>[[H3444]]</sup></small></small> &#8207;| ye.shu.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anointed his  | <span class="ashebrew"><big>מְשִׁיח֣ </big></span><small><small><sup>[[H4899]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| me.shi.Ch <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] strength  |**<big>&#8207;[[H5797\|עֹֽז]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'oz-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of them  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] [the] refuge of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4581\|מָ֘ע֤וֹז]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ma.'oz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] salvation\<s> of  |**<big>&#8207;[[H3444\|יְשׁוּע֖וֹת]]&#8207; </big>**| ye.shu.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anointed his  |**<big>&#8207;[[H4899\|מְשִׁיח֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| me.shi.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.7|<< Psalms 28:7]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.9|Psalms 28:9 >>]]</td></tr></table>
 
 

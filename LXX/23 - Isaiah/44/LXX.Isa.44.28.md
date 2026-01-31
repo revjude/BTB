@@ -11,27 +11,27 @@ who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| telling | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Cyrus, | <big><span class="asgreek">Κύρω</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| Think, | <big><span class="asgreek">φρονείν</span></big> <sup><small><small>[[G5426]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wants | <big><span class="asgreek">θελήματά</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will do; | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| You shall be built, | <big><span class="asgreek">οικοδομηθήση</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my holy | <big><span class="asgreek">άγιόν μου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| I shall lay the foundation | <big><span class="asgreek">θεμελιώσω</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| telling | **<big>[[G3004\|λέγων]]</big>** |
+| Cyrus, | **<big>[[H3567\|Κύρω]]</big>** |
+| Think, | **<big>[[G5426\|φρονείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my wants | **<big>[[G2307\|θελήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he will do; | **<big>[[G4160\|ποιήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one saying | **<big>[[G3004\|λέγων]]</big>** |
+| to Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| You shall be built, | **<big>[[G3618\|οικοδομηθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of my holy | **<big>[[G0039\|άγιόν μου]]</big>** |
+| I shall lay the foundation | **<big>[[G2311\|θεμελιώσω]]</big>** |
 [[Isa.44.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.27|<< Isaiah 44:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.1|Isaiah 45:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּקֻדָּה‎</span></big> **pᵉquddâh** <small>*(pek-ood-daw')*</small> ==**punishment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine passive participle of <span class="ashebrew">‎פָּקַד‎</span><sup><small>[[H6485]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּקֻדָּה‎</span></big>** **pᵉquddâh** <small>*(pek-ood-daw')*</small> ==**punishment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle of **<big>[[H6485|‎פָּקַד‎]]</big>**</small>
 
 $\quad$ account, (that have the) charge, custody, that which...laid up, numbers, office(-r), ordering, oversight, [phrase] prison, reckoning, visitation.
 - ***visitation*** (in many senses, chiefly official)
@@ -10,4 +10,4 @@ $\quad$ **1b)** oversight, charge, office, overseer, class of officers
 $\quad$ **1c)** mustering
 $\quad$ **1d)** store
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">ἐπισκοπή</span><sup><small>[[G1984]]</small></sup> · <span class="asgreek">ἔργον</span><sup><small>[[G2041]]</small></sup> · <span class="asgreek">θυρωρός</span><sup><small>[[G2377]]</small></sup>
+<small>See Greek: </small>**<big>[[G0758|ἄρχων]]</big>** · **<big>[[G1984|ἐπισκοπή]]</big>** · **<big>[[G2041|ἔργον]]</big>** · **<big>[[G2377|θυρωρός]]</big>**

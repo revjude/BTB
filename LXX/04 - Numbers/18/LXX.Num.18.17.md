@@ -7,37 +7,37 @@ But the firstling of a cow, or the firstling of a sheep, or the firstling of a g
 But you must not redeem the firstborn of an ox, a sheep, or a goat; they are holy. You are to splatter their blood on the altar and burn their fat as a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
 [[Num.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.16|<< Numbers 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.18|Numbers 18:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of calves, | <big><span class="asgreek">μόσχων</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of goats | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ransom, | <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \[they are\] | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall pour | <big><span class="asgreek">προσχεείς</span></big> <sup><small><small>[[G8947]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ανοίσεις</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| as a yield \[offering\] | <big><span class="asgreek">κάρπωμα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Except | **<big>[[G4133\|πλην]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| of calves, | **<big>[[G3448\|μόσχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| of sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| of goats | **<big>[[G6167\|αιγών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| ransom, | **<big>[[G3084\|λυτρώση]]</big>** |
+| holy | **<big>[[G0039\|άγιά]]</big>** |
+| \[they are\] | **<big>[[G1510\|εστι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall pour | **<big>[[G8947\|προσχεείς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fat | **<big>[[G9155\|στέαρ]]</big>** |
+| you shall offer | **<big>[[G0399\|ανοίσεις]]</big>** |
+| as a yield \[offering\] | **<big>[[G7806\|κάρπωμα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma | **<big>[[G2175\|ευωδίας]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Num.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.16|<< Numbers 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.18|Numbers 18:18 >>]]</td></tr></table>
 
 

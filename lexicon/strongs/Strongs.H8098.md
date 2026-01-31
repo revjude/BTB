@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמַעְיָה‎</span></big> **Shᵉmaʻyâh** <small>*(shem-aw-yaw')*</small> ==**Shemaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׁמַעְיָהוּ</span> **Shᵉmaʻyâhûw** <small>*(shem-aw-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has heard</small>
+**<big><span class="ashebrew">‎שְׁמַעְיָה‎</span></big>** **Shᵉmaʻyâh** <small>*(shem-aw-yaw')*</small> ==**Shemaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁמַעְיָהוּ</span></big>** **Shᵉmaʻyâhûw** <small>*(shem-aw-yaw'-hoo)*</small>; from **<big>[[H8085|‎שָׁמַע‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has heard</small>
 
 $\quad$ Shemaiah.
 - § Shemaiah = *"heard by Jehovah"*

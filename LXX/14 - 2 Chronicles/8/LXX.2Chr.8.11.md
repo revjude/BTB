@@ -7,43 +7,43 @@ And Solomon brought up the daughter of Pharaoh out of the city of David unto the
 Solomon brought the daughter of Pharaoh up from the City of David to the palace he had built for her. For he said, “My wife must not live in the house of David king of Israel, because the places the ark of the LORD has entered are holy.”<small><sub>**MT:**</sub></small>
 [[2Chr.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.10|<< 2 Chronicles 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.12|2 Chronicles 8:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Solomon led | <big><span class="asgreek">ανήγαγε</span></big> <sup><small><small>[[G0321]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he built | <big><span class="asgreek">ωκοδόμησεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| for her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικήσει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it is holy, | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| because | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτός</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| Solomon led | **<big>[[G0321\|ανήγαγε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] city | **<big>[[G4172\|πόλεως]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he built | **<big>[[G3618\|ωκοδόμησεν]]</big>** |
+| for her. | **<big>[[G1473\|αυτή]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| dwell | **<big>[[G2730\|κατοικήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] city | **<big>[[G4172\|πόλει]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it is holy, | **<big>[[G0039\|αγία]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| because | **<big>[[G3739\|ου]]</big>** |
+| entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ark | **<big>[[G2787\|κιβωτός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Chr.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.10|<< 2 Chronicles 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.12|2 Chronicles 8:12 >>]]</td></tr></table>
 
 

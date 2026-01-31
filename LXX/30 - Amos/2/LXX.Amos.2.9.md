@@ -7,33 +7,33 @@ Yet destroyed I the Amorite before them, whose height [was] like the height of t
 Yet it was I who destroyed the Amorite before them, though his height was like that of the cedars, and he was as strong as the oaks. Yet I destroyed his fruit above and his roots below.<small><sub>**MT:**</sub></small>
 [[Amos.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.8|<< Amos 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.10|Amos 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| lifted away | <big><span class="asgreek">ήρα</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorite | <big><span class="asgreek">Αμορραίον</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of cedar | <big><span class="asgreek">κέδρου</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in his height, | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an oak; | <big><span class="asgreek">δρυς</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I removed | <big><span class="asgreek">εξήρα</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on top, | <big><span class="asgreek">επάνωθεν</span></big> <sup><small><small>[[G7366]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his roots | <big><span class="asgreek">ρίζας</span></big> <sup><small><small>[[G4491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beneath. | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| lifted away | **<big>[[G0142\|ήρα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Amorite | **<big>[[H0567\|Αμορραίον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of them, | **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[the\] height | **<big>[[G5311\|ύψος]]</big>** |
+| of cedar | **<big>[[G2748\|κέδρου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in his height, | **<big>[[G5311\|ύψος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was strong | **<big>[[G2478\|ισχυρός]]</big>** **<big>[[G1510\|ην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an oak; | **<big>[[G6972\|δρυς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I removed | **<big>[[G1808\|εξήρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his fruit | **<big>[[G2590\|καρπόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| on top, | **<big>[[G7366\|επάνωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his roots | **<big>[[G4491\|ρίζας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| beneath. | **<big>[[G9575\|υποκάτωθεν]]</big>** |
 [[Amos.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.8|<< Amos 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.10|Amos 2:10 >>]]</td></tr></table>
 
 

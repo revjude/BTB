@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲלִיכָה‎</span></big> **hălîykâh** <small>*(hal-ee-kaw')*</small> ==**walk**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎הָלִיךְ‎</span><sup><small>[[H1978]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲלִיכָה‎</span></big>** **hălîykâh** <small>*(hal-ee-kaw')*</small> ==**walk**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H1978|‎הָלִיךְ‎]]</big>**</small>
 
 $\quad$ company, going, walk, way.
 - ***a walking***
@@ -9,4 +9,4 @@ $\quad$ company, going, walk, way.
 $\quad$ **1a)** going, walk, marching, doings
 $\quad$ **1b)** travelling company, caravan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πορεία</span><sup><small>[[G4197]]</small></sup>
+<small>See Greek: </small>**<big>[[G4197|πορεία]]</big>**

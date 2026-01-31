@@ -10,29 +10,29 @@ Having run then someone and having filled a sponge with vinegar, having put both
 > $\quad$ referencing: [[LXX.Ps.69.21|Ps 69:21]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Having run |<big><span class="asgreek">δραμὼν</span></big> <small><small><sup>[[G5143]]</sup></small></small> |dramōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δέ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| someone [^1] |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NKO</abbr> | |
-| having filled |<big><span class="asgreek">γεμίσας</span></big> <small><small><sup>[[G1072]]</sup></small></small> |gemisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a sponge |<big><span class="asgreek">σπόγγον</span></big> <small><small><sup>[[G4699]]</sup></small></small> |spongon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with vinegar, |<big><span class="asgreek">ὄξους,</span></big> <small><small><sup>[[G3690]]</sup></small></small> |oxous <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having put |<big><span class="asgreek">περιθεὶς</span></big> <small><small><sup>[[G4060]]</sup></small></small> |peritheis <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| both |<big><span class="asgreek">τε</span></big> <small><small><sup>[[G5037]]</sup></small></small> |te <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| on a reed |<big><span class="asgreek">καλάμῳ</span></big> <small><small><sup>[[G2563]]</sup></small></small> |kalamō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was giving to drink |<big><span class="asgreek">ἐπότιζεν</span></big> <small><small><sup>[[G4222]]</sup></small></small> |epotizen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<big><span class="asgreek">αὐτόν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<big><span class="asgreek">λέγων·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Wait! |<big><span class="asgreek">ἄφετε,</span></big> <small><small><sup>[[G0863G]]</sup></small></small> |aphete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| let us see |<big><span class="asgreek">ἴδωμεν</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |idōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if |<big><span class="asgreek">εἰ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| comes |<big><span class="asgreek">ἔρχεται</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Elijah |<big><span class="asgreek">Ἠλίας</span></big> <small><small><sup>[[G2243]]</sup></small></small> [^2] |Ēlias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to take down |<big><span class="asgreek">καθελεῖν</span></big> <small><small><sup>[[G2507]]</sup></small></small> |kathelein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him. |<big><span class="asgreek">αὐτόν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Having run |**<big>[[G5143\|δραμὼν]]</big>**  |dramōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| someone [^1] |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NKO</abbr> | |
+| having filled |**<big>[[G1072\|γεμίσας]]</big>**  |gemisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a sponge |**<big>[[G4699\|σπόγγον]]</big>**  |spongon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with vinegar, |**<big>[[G3690\|ὄξους,]]</big>**  |oxous <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having put |**<big>[[G4060\|περιθεὶς]]</big>**  |peritheis <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| both |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| on a reed |**<big>[[G2563\|καλάμῳ]]</big>**  |kalamō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was giving to drink |**<big>[[G4222\|ἐπότιζεν]]</big>**  |epotizen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |**<big>[[G0846\|αὐτόν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Wait! |**<big>[[G0863G\|ἄφετε,]]</big>**  |aphete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| let us see |**<big>[[G1492H\|ἴδωμεν]]</big>**  |idōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| comes |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Elijah |**<big>[[G2243\|Ἠλίας]]</big>**  [^2] |Ēlias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to take down |**<big>[[G2507\|καθελεῖν]]</big>**  |kathelein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him. |**<big>[[G0846\|αὐτόν.]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.35|<< Mark 15:35]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.37|Mark 15:37 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: one | <span class="asgreek">εἷς</span><small><sup>[[G1520]]</sup></small> | heis<small><sup>[[A-NSM]]</sup></small>
-[^2]: ==WH== spelled: <span class='asgreek'>**Ἠλείας**</span>
+[^1]: ==TR+Byz==: one | **<big>[[G1520|εἷς]]</big>** | heis<small><sup>[[A-NSM]]</sup></small>
+[^2]: ==WH== spelled: **<big><span class='asgreek'>Ἠλείας</span></big>**

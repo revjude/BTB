@@ -7,30 +7,30 @@ And afterward he read all the words of the law, the blessings and cursings, acco
 Afterward, Joshua read aloud all the words of the law—the blessings and the curses—according to all that is written in the Book of the Law.<small><sub>**MT:**</sub></small>
 [[Josh.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.33|<< Joshua 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.35|Joshua 8:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Joshua read | <big><span class="asgreek">ανέγνω</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| the whole | <big><span class="asgreek">σύμπαντα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this law, | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blessings | <big><span class="asgreek">ευλογίας</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curses, | <big><span class="asgreek">κατάρας</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| Joshua read | **<big>[[G0314\|ανέγνω]]</big>** |
+| the whole | **<big>[[G9270\|σύμπαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| sayings | **<big>[[G4487\|ρήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this law, | **<big>[[G3551\|νόμου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| blessings | **<big>[[G2129\|ευλογίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| curses, | **<big>[[G2671\|κατάρας]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| law | **<big>[[G3551\|νόμω]]</big>** |
+| of Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Josh.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.33|<< Joshua 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.35|Joshua 8:35 >>]]</td></tr></table>
 
 

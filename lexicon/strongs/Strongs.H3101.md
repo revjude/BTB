@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹאָשׁ‎</span></big> **Yôwʼâsh** <small>*(yo-awsh')*</small> ==**Joash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יֹאָשׁ</span> **Yôʼâsh** <small>*(yo-awsh')*</small>; (2 Chronicles 24:1), a form of <span class="ashebrew">‎יְהוֹאָשׁ‎</span><sup><small>[[H3060]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹאָשׁ‎</span></big>** **Yôwʼâsh** <small>*(yo-awsh')*</small> ==**Joash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יֹאָשׁ</span></big>** **Yôʼâsh** <small>*(yo-awsh')*</small>; (2 Chronicles 24:1), a form of **<big>[[H3060|‎יְהוֹאָשׁ‎]]</big>**</small>
 
 $\quad$ Joash.
 - § Joash = *"given by the Lord"*

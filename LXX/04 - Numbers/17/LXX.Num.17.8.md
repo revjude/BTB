@@ -7,37 +7,37 @@ And it came to pass, that on the morrow Moses went into the tabernacle of witnes
 The next day Moses entered the Tent of the Testimony and saw that Aaron’s staff, representing the house of Levi, had sprouted, put forth buds, blossomed, and produced almonds.<small><sub>**MT:**</sub></small>
 [[Num.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.7|<< Numbers 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.9|Numbers 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day, | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony; | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| sprouted | <big><span class="asgreek">εβλάστησεν</span></big> <sup><small><small>[[G0985]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Levi; | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it brought forth | <big><span class="asgreek">εξήνεγκε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| a bud, | <big><span class="asgreek">βλαστόν</span></big> <sup><small><small>[[G0986]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it blossomed | <big><span class="asgreek">εξήνθησεν</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
-| a flower, | <big><span class="asgreek">άνθη</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sprouted | <big><span class="asgreek">εβλάστησε</span></big> <sup><small><small>[[G0985]]</small></small></sup> |
-| walnuts. | <big><span class="asgreek">κάρυα</span></big> <sup><small><small>[[G7814]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| next day, | **<big>[[G1887\|επαύριον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| Moses entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony; | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| sprouted | **<big>[[G0985\|εβλάστησεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rod | **<big>[[G4464\|ράβδος]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Levi; | **<big>[[G3017\|Λευί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it brought forth | **<big>[[G1627\|εξήνεγκε]]</big>** |
+| a bud, | **<big>[[G0986\|βλαστόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it blossomed | **<big>[[G7296\|εξήνθησεν]]</big>** |
+| a flower, | **<big>[[G0438\|άνθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sprouted | **<big>[[G0985\|εβλάστησε]]</big>** |
+| walnuts. | **<big>[[G7814\|κάρυα]]</big>** |
 [[Num.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.7|<< Numbers 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.9|Numbers 17:9 >>]]</td></tr></table>
 
 

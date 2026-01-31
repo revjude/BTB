@@ -7,30 +7,30 @@ But thou shalt remember the LORD thy God: for [it is] he that giveth thee power 
 But remember that it is the LORD your God who gives you the power to gain wealth, in order to confirm His covenant that He swore to your fathers even to this day.<small><sub>**MT:**</sub></small>
 [[Deut.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.17|<< Deuteronomy 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.19|Deuteronomy 8:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remember | <big><span class="asgreek">μνησθήση</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δίδωσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to produce | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] ability, | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should establish | <big><span class="asgreek">στήση</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατράσι</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remember | **<big>[[G3403\|μνησθήση]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| gives to you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1325\|δίδωσιν]]</big>** |
+| strength | **<big>[[G2479\|ισχύν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to produce | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \[the\] ability, | **<big>[[G1411\|δύναμιν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should establish | **<big>[[G2476\|στήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| your fathers | **<big>[[G3962\|πατράσι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[Deut.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.17|<< Deuteronomy 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.19|Deuteronomy 8:19 >>]]</td></tr></table>
 
 

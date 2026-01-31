@@ -7,33 +7,33 @@ I am not worthy of the least of all the mercies, and of all the truth, which tho
 I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps.<small><sub>**MT:**</sub></small>
 [[Gen.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.9|<< Genesis 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.11|Genesis 32:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It is fit | <big><span class="asgreek">ικανούσθω</span></big> <sup><small><small>[[G2427]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| truth, | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant; | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rod | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I passed over | <big><span class="asgreek">διέβην</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this Jordan, | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and now | <big><span class="asgreek">νυνί</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| I exist | <big><span class="asgreek">γέγονα</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| camps. | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| It is fit | **<big>[[G2427\|ικανούσθω]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| truth, | **<big>[[G0225\|αληθείας]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| you did | **<big>[[G4160\|εποίησας]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your servant; | **<big>[[G3816\|παιδί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for with | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my rod | **<big>[[G4464\|ράβδω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| this | **<big>[[G3778\|ταύτη]]</big>** |
+| I passed over | **<big>[[G1224\|διέβην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this Jordan, | **<big>[[G2446\|Ιορδάνην]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| and now | **<big>[[G3568\|νυνί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| I exist | **<big>[[G1096\|γέγονα]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| camps. | **<big>[[G3925\|παρεμβολάς]]</big>** |
 [[Gen.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.9|<< Genesis 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.11|Genesis 32:11 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוּא‎</span></big> **hûwʼ** <small>*(hoo)*</small> ==**he/she/it**==  <sup><small>[[TEHMC#H:PerP-CS|H:PerP-CS]]</small></sup> 
-<small>of which the feminine (beyond the Pentateuch) is <span class="ashebrew">הִיא</span> **hîyʼ** <small>*(he)*</small>; a primitive word, the third person pronoun singular</small>
+**<big><span class="ashebrew">‎הוּא‎</span></big>** **hûwʼ** <small>*(hoo)*</small> ==**he/she/it**==  <sup><small>[[TEHMC#H:PerP-CS|H:PerP-CS]]</small></sup> 
+<small>of which the feminine (beyond the Pentateuch) is **<big><span class="ashebrew">הִיא</span></big>** **hîyʼ** <small>*(he)*</small>; a primitive word, the third person pronoun singular</small>
 
 $\quad$ he, as for her, him(-self), it, the same, she (herself), such, that (...it), these, they, this, those, which (is), who.
 - ***he*** (she or it)
@@ -18,4 +18,4 @@ $\quad$ **1e)** (emphasising predicate)
 $\quad$ **1f)** that, it (neuter) demons pron
 **2)** that (with article)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθρωπος</span><sup><small>[[G0444]]</small></sup> · <span class="asgreek">ἐκεῖνος</span><sup><small>[[G1565]]</small></sup> · <span class="asgreek">ἐκεῖνος</span><sup><small>[[G1565]]</small></sup>
+<small>See Greek: </small>**<big>[[G0444|ἄνθρωπος]]</big>** · **<big>[[G1565|ἐκεῖνος]]</big>** · **<big>[[G1565|ἐκεῖνος]]</big>**

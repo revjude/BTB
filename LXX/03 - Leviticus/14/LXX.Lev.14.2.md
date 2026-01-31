@@ -11,22 +11,22 @@ This shall be the law of the leper in the day of his cleansing: He shall be brou
 > $\quad$ referenced by: [[Matt.8.4|Matt 8:4]] ☩ [[Mark.1.44|Mark 1:44]] ☩ [[Luke.5.14|Luke 5:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This is | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leper. | <big><span class="asgreek">λεπρού</span></big> <sup><small><small>[[G3015]]</small></small></sup> |
-| In what | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he should have been cleansed, | <big><span class="asgreek">καθαρισθή</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be brought | <big><span class="asgreek">προσαχθήσεται</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest; | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| This is | **<big>[[G3778\|ούτος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| law | **<big>[[G3551\|νόμος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| leper. | **<big>[[G3015\|λεπρού]]</big>** |
+| In what | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he should have been cleansed, | **<big>[[G2511\|καθαρισθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be brought | **<big>[[G4317\|προσαχθήσεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| priest; | **<big>[[G2409\|ιερέα]]</big>** |
 [[Lev.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.1|<< Leviticus 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.3|Leviticus 14:3 >>]]</td></tr></table>
 
 

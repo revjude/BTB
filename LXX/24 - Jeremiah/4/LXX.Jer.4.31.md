@@ -7,34 +7,34 @@ For I have heard a voice as of a woman in travail, [and] the anguish as of her t
 For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”<small><sub>**MT:**</sub></small>
 [[Jer.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.30|<< Jeremiah 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.1|Jeremiah 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| women travailing | <big><span class="asgreek">ωδινούσης</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your moaning | <big><span class="asgreek">στεναγμού</span></big> <sup><small><small>[[G4726]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one giving birth for the first time. | <big><span class="asgreek">πρωτοτοκούσης</span></big> <sup><small><small>[[G8970]]</small></small></sup> |
-| \[The\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| shall faint, | <big><span class="asgreek">εκλυθήσεται</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall weaken | <big><span class="asgreek">παρήσει</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[saying\], Woe \[am\] | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| fails | <big><span class="asgreek">εκλείπει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being done away with. | <big><span class="asgreek">ανηρημένοις</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a sound | **<big>[[G5456\|φωνήν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| women travailing | **<big>[[G5605\|ωδινούσης]]</big>** |
+| I heard | **<big>[[G0191\|ήκουσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your moaning | **<big>[[G4726\|στεναγμού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one giving birth for the first time. | **<big>[[G8970\|πρωτοτοκούσης]]</big>** |
+| \[The\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of Zion | **<big>[[G4622\|Σιών]]</big>** |
+| shall faint, | **<big>[[G1590\|εκλυθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall weaken | **<big>[[G3935\|παρήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[saying\], Woe \[am\] | **<big>[[G8461\|οίμοι]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| fails | **<big>[[G1587\|εκλείπει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| being done away with. | **<big>[[G0337\|ανηρημένοις]]</big>** |
 [[Jer.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.30|<< Jeremiah 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.1|Jeremiah 5:1 >>]]</td></tr></table>
 
 

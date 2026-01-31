@@ -1,4 +1,4 @@
-<small>Also see: [[H3748]]</small>
+<small>Also see: **<big>[[H3748|כְּרִיתוּת]]</big>**</small>
 
  <span class="bdbLangHebrew">‎כְּרִית‎</span> **proper name, of a location** and <span class="bdbLangHebrew">‎כְּרִיתוּת‎</span> see below <span class="bdbLangHebrew">‎כרת‎</span>. 
 

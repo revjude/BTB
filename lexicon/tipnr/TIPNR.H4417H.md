@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Salt Valley</span> was a location where David and his commanders defeated the Edomites and Arameans \(2 Sa. 8:13; 2 Ki. 14:7; 1 Chr. 18:12; 2 Chr. 25:11; Psa. 60:1\).
 - A location first mentioned at [[2Sam.8.13|2Sa.8.13]]; 
-- only referred to as Salt\_Valley<[[H4417H]]><[[H1516J]]> \(<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Salt\_Valley **<big>[[H4417|מֶלַח]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.087328,35.383740&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Salt Valley, also known as the Valley of Salt, is a location mentioned in th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Salt | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H4417H)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516J) <small>*Hebrew*</small> | 5x | [[2Sa.8.13] ... [Psa.60.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Sa.8.13;2Ki.14.7;1Ch.18.12;2Ch.25.11;Psa.60.1) |
-All Strong's for **Salt_Valley**: \[[[H4417H]]\]
+| Valley/ of Salt | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H4417H)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516J) | 5x | [[2Sa.8.13] ... [Psa.60.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Sa.8.13;2Ki.14.7;1Ch.18.12;2Ch.25.11;Psa.60.1) |
+All entries for **Salt Valley**:  **<big>[[H4417|מֶלַח]]</big>**

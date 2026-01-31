@@ -7,36 +7,36 @@ In like manner shalt thou do with his ass; and so shalt thou do with his raiment
 And you shall do the same for his donkey, his cloak, or anything your brother has lost and you have found. You must not ignore it.<small><sub>**MT:**</sub></small>
 [[Deut.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.2|<< Deuteronomy 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.4|Deuteronomy 22:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his donkey, | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his garment, | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| loss | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your brother; | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as much | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should perish | <big><span class="asgreek">απολήται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| of | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| his, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should find | <big><span class="asgreek">εύρης</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to overlook. | <big><span class="asgreek">υπεριδείν</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
+| So | **<big>[[G3779\|ούτω]]</big>** |
+| shall you do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for his donkey, | **<big>[[G3688\|όνον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτω]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for his garment, | **<big>[[G2440\|ιμάτιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτω]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| loss | **<big>[[G0684\|απώλειαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your brother; | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as much | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| should perish | **<big>[[G0622\|απολήται]]</big>** |
+| of | **<big>[[G3844\|παρ΄]]</big>** |
+| his, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should find | **<big>[[G2147\|εύρης]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήση]]</big>** |
+| to overlook. | **<big>[[G5237\|υπεριδείν]]</big>** |
 [[Deut.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.2|<< Deuteronomy 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.4|Deuteronomy 22:4 >>]]</td></tr></table>
 
 

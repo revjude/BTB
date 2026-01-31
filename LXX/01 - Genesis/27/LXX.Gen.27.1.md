@@ -10,36 +10,36 @@ And it came to pass, that when Isaac was old, and his eyes were dim, so that he 
 When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.<small><sub>**MT:**</sub></small>
 [[Gen.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.35|<< Genesis 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.2|Genesis 27:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγενέτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| growing old | <big><span class="asgreek">γηράσαι</span></big> <sup><small><small>[[G1095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were blunted | <big><span class="asgreek">ημβλύνθησαν</span></big> <sup><small><small>[[G6254]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to see. | <big><span class="asgreek">οράν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσεν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| Esau | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| older | <big><span class="asgreek">πρεσβύτερον</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my son. | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[it is\] I. | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγενέτο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| growing old | **<big>[[G1095\|γηράσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| were blunted | **<big>[[G6254\|ημβλύνθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to see. | **<big>[[G3708\|οράν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσεν]]</big>** |
+| Esau | **<big>[[G2269\|Ησαύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| older | **<big>[[G4245\|πρεσβύτερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| O my son. | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[it is\] I. | **<big>[[G1473\|εγώ]]</big>** |
 [[Gen.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.35|<< Genesis 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.2|Genesis 27:2 >>]]</td></tr></table>
 
 

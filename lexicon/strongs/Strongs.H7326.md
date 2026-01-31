@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רוּשׁ‎</span></big> **rûwsh** <small>*(roosh)*</small> ==**be poor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רוּשׁ‎</span></big>** **rûwsh** <small>*(roosh)*</small> ==**be poor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lack, needy, (make self) poor (man).
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** to be in want or hunger
 $\quad$ $\quad$ **1a3)** poor man (subst)
 $\quad$ **1b)**(Hithpolel) one impoverishing himself (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πτωχεύω</span><sup><small>[[G4433]]</small></sup> · <span class="asgreek">πτωχός</span><sup><small>[[G4434]]</small></sup> · <span class="asgreek">ταπεινός</span><sup><small>[[G5011]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup>
+<small>See Greek: </small>**<big>[[G4433|πτωχεύω]]</big>** · **<big>[[G4434|πτωχός]]</big>** · **<big>[[G5011|ταπεινός]]</big>** · **<big>[[G5013|ταπεινόω]]</big>**

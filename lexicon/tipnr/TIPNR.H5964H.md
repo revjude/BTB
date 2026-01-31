@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Alemeth</span> was a son of Becher and a descendant of Benjamin. \([[1Chr.7.8|1Ch.7.8]]\)
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, only mentioned at [[1Chr.7.8|1Ch.7.8]]; 
-- only referred to as Alemeth<[[H5964H]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ת</span>\); 
--  son of Becher<[[H1071G]]>; 
-- a brother of Zemirah<[[H2160]]>, Joash<[[H3135G]]>, Eliezer<[[H0461I]]>, Elioenai<[[H0454I]]>, Omri<[[H6018H]]>, Jeremoth<[[H3406H]]>, Abijah<[[H0029K]]> and Anathoth<[[H6068H]]>.
+- only referred to as Alemeth **<big>[[H5964|עָלֶמֶת]]</big>**; 
+-  son of Becher **<big>[[H1071|בֶכֶר]]</big>**; 
+- a brother of Zemirah **<big>[[H2160|זְמִירָה]]</big>**, Joash **<big>[[H3135|יוֹעָשׁ]]</big>**, Eliezer **<big>[[H0461|אֱלִיעֶזֶר]]</big>**, Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>**, Omri **<big>[[H6018|עׇמְרִי]]</big>**, Jeremoth **<big>[[H3406|יְרִימוֹת]]</big>**, Abijah **<big>[[H0029|אֲבִיָּה]]</big>** and Anathoth **<big>[[H6068|עֲנָתוֹת]]</big>**.
 
 Alemeth is mentioned briefly in the genealogy of the tribe of Benjamin, specifically as a son of Becher. \([[1Chr.7.8|1Ch.7.8]]\) 
 
@@ -18,8 +18,8 @@ The genealogies in Chronicles serve to document the lineage of the Israelite tri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alemeth (KJV= Alameth) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H5964H) <small>*Hebrew*</small> | 1x | [1Ch.7.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alemeth\*\|reference=1Ch.7.8) |
-All Strong's for **Alemeth**: \[[[H5964H]]\]
+| Alemeth (KJV= Alameth) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֶ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H5964H) | 1x | [1Ch.7.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alemeth\*\|reference=1Ch.7.8) |
+All entries for **Alemeth**:  **<big>[[H5964|עָלֶמֶת]]</big>**
 #### Related Profiles:
 - **[Becher](H1071G)** (father)
 - **[Zemirah](H2160)** (sibling)

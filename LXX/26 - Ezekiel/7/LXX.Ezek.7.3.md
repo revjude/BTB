@@ -7,36 +7,36 @@ Now [is] the end [come] upon thee, and I will send mine anger upon thee, and wil
 The end is now upon you, and I will unleash My anger against you. I will judge you according to your ways and repay you for all your abominations.<small><sub>**MT:**</sub></small>
 [[Ezek.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.2|<< Ezekiel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.4|Ezekiel 7:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is come | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| now; | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage. | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall punish | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall impute | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your abominations. | <big><span class="asgreek">βδελύγματά σου</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| is come | **<big>[[G2240\|ήκει]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| end | **<big>[[G4009\|πέρας]]</big>** |
+| now; | **<big>[[G3568\|νυν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| end | **<big>[[G4009\|πέρας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall send | **<big>[[G0649\|αποστελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my rage. | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall punish | **<big>[[G1556\|εκδικήσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your ways, | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall impute | **<big>[[G1325\|δώσω]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your abominations. | **<big>[[G0946\|βδελύγματά σου]]</big>** |
 [[Ezek.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.2|<< Ezekiel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.4|Ezekiel 7:4 >>]]</td></tr></table>
 
 

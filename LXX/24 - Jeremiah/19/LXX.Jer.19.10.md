@@ -10,20 +10,20 @@ Then shalt thou break the bottle in the sight of the men that go with thee,
 Then you are to shatter the jar in the presence of the men who accompany you,<small><sub>**MT:**</sub></small>
 [[Jer.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.9|<< Jeremiah 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.11|Jeremiah 19:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall break | <big><span class="asgreek">συντρίψεις</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pitcher | <big><span class="asgreek">βικόν</span></big> <sup><small><small>[[G6675]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευομένων</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall break | **<big>[[G4937\|συντρίψεις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pitcher | **<big>[[G6675\|βικόν]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men, | **<big>[[G0435\|ανδρών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευομένων]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Jer.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.9|<< Jeremiah 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.11|Jeremiah 19:11 >>]]</td></tr></table>
 
 

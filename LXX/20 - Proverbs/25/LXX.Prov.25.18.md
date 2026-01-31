@@ -7,24 +7,24 @@ A man that beareth false witness against his neighbour [is] a maul, and a sword,
 Like a club or sword or sharp arrow is a man who bears false witness against his neighbor.<small><sub>**MT:**</sub></small>
 [[Prov.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.17|<< Proverbs 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.19|Proverbs 25:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[As\] a club, | <big><span class="asgreek">ρόπαλον</span></big> <sup><small><small>[[G9033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a sword, | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bow | <big><span class="asgreek">τόξευμα</span></big> <sup><small><small>[[G9463]]</small></small></sup> |
-| a pointed | <big><span class="asgreek">ακιδωτόν</span></big> <sup><small><small>[[G6186]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing | <big><span class="asgreek">καταμαρτυρών</span></big> <sup><small><small>[[G2649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| friend | <big><span class="asgreek">φίλου</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| \[against\] his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| witness | <big><span class="asgreek">μαρτυρίαν</span></big> <sup><small><small>[[G3141]]</small></small></sup> |
-| false | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| \[As\] a club, | **<big>[[G9033\|ρόπαλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a sword, | **<big>[[G3162\|μάχαιρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bow | **<big>[[G9463\|τόξευμα]]</big>** |
+| a pointed | **<big>[[G6186\|ακιδωτόν]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \[the\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| bearing | **<big>[[G2649\|καταμαρτυρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| friend | **<big>[[G5384\|φίλου]]</big>** |
+| \[against\] his | **<big>[[G1473\|αυτού]]</big>** |
+| witness | **<big>[[G3141\|μαρτυρίαν]]</big>** |
+| false | **<big>[[G5571\|ψευδή]]</big>** |
 [[Prov.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.17|<< Proverbs 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.19|Proverbs 25:19 >>]]</td></tr></table>
 
 

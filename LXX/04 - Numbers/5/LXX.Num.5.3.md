@@ -7,27 +7,27 @@ Both male and female shall ye put out, without the camp shall ye put them; that 
 You must send away male and female alike; send them outside the camp so they will not defile their camp, where I dwell among them.”<small><sub>**MT:**</sub></small>
 [[Num.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.2|<< Numbers 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.4|Numbers 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| male | <big><span class="asgreek">αρσενικού</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| female | <big><span class="asgreek">θηλυκού</span></big> <sup><small><small>[[G7665]]</small></small></sup> |
-| you send \[them\] | <big><span class="asgreek">εξαποστείλατε</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp! | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they defile | <big><span class="asgreek">μιανούσι</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their camp | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| occupy | <big><span class="asgreek">καταγίνομαι</span></big> <sup><small><small>[[G7831]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| male | **<big>[[G6544\|αρσενικού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| female | **<big>[[G7665\|θηλυκού]]</big>** |
+| you send \[them\] | **<big>[[G1821\|εξαποστείλατε]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp! | **<big>[[G3925\|παρεμβολής]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they defile | **<big>[[G3392\|μιανούσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their camp | **<big>[[G3925\|παρεμβολάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| occupy | **<big>[[G7831\|καταγίνομαι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Num.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.2|<< Numbers 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.4|Numbers 5:4 >>]]</td></tr></table>
 
 

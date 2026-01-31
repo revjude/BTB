@@ -7,32 +7,32 @@ And Kore the son of Imnah the Levite, the porter toward the east, [was] over the
 Kore son of Imnah the Levite, the keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions to the LORD and the consecrated gifts.<small><sub>**MT:**</sub></small>
 [[2Chr.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.13|<< 2 Chronicles 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.15|2 Chronicles 31:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Kore | <big><span class="asgreek">Κορή</span></big> <sup><small><small>[[H6981]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Imnah | <big><span class="asgreek">Ιεμνά</span></big> <sup><small><small>[[H3232]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite, | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatekeeper | <big><span class="asgreek">πυλωρός</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| \[was\] over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gifts, | <big><span class="asgreek">δομάτων</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-fruits | <big><span class="asgreek">απαρχάς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies, | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Kore | **<big>[[H6981\|Κορή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Imnah | **<big>[[H3232\|Ιεμνά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite, | **<big>[[G3017\|Λευίτης]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| gatekeeper | **<big>[[G8988\|πυλωρός]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| \[was\] over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| gifts, | **<big>[[G1390\|δομάτων]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies, | **<big>[[G0039\|αγίων]]</big>** |
 [[2Chr.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.13|<< 2 Chronicles 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.15|2 Chronicles 31:15 >>]]</td></tr></table>
 
 

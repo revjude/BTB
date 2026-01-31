@@ -1,5 +1,3 @@
-<span class="ashebrew">‎חָרֵף‎</span> <small>***(cha.reph)***</small> ==**Hareph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.2.51|1Ch.2.51]]
--  son of: Hur ([[H2354]])
--  brother of: Uri ([[H0221]]), Shobal ([[H7732H]]), Salma ([[H8007H]]), Jezreel ([[H3157J]]), Ishma ([[H3457]]), Idbash ([[H3031]]), Hazzelelponi ([[H6753]]), Penuel ([[H6439H]]) and Ezer ([[H5829]])
-
+-  son of: Hur (**<big>[[H2354|חוּר]]</big>**)
+-  brother of: Uri (**<big>[[H0221|אוּרִי]]</big>**), Shobal (**<big>[[H7732H|שׁוֹבָל]]</big>**), Salma (**<big>[[H8007H|שַׂלְמָא]]</big>**), Jezreel (**<big>[[H3157J|יִזְרְעֵאל]]</big>**), Ishma (**<big>[[H3457|יִשְׁמָא]]</big>**), Idbash (**<big>[[H3031|יִדְבָּשׁ]]</big>**), Hazzelelponi (**<big>[[H6753|צְלֶלְפּוֹנִי]]</big>**), Penuel (**<big>[[H6439H|פְּנוּאֵל]]</big>**) and Ezer (**<big>[[H5829|עֵזֶר]]</big>**)

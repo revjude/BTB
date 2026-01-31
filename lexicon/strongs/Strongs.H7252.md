@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶבַע‎</span></big> **rebaʻ** <small>*(reh'-bah)*</small> ==**to lie down**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎רָבַע‎</span><sup><small>[[H7250]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶבַע‎</span></big>** **rebaʻ** <small>*(reh'-bah)*</small> ==**to lie down**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H7250|‎רָבַע‎]]</big>**</small>
 
 $\quad$ lying down.
 - ***prostration*** (for sleep)

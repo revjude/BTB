@@ -10,51 +10,51 @@ And it came to pass in the seven and thirtieth year of the captivity of Jehoiach
 On the twenty-seventh day of the twelfth month of the thirty-seventh year of the exile of Judah’s King Jehoiachin, in the year Evil-merodach became king of Babylon, he released King Jehoiachin of Judah from prison.<small><sub>**MT:**</sub></small>
 [[2Kgs.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.26|<< 2 Kings 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.28|2 Kings 25:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirtieth | <big><span class="asgreek">τριακοστώ</span></big> <sup><small><small>[[G9482]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resettlement | <big><span class="asgreek">αποικεσίας</span></big> <sup><small><small>[[G6429]]</small></small></sup> |
-| of Jehoiachin | <big><span class="asgreek">Ιωαχίν</span></big> <sup><small><small>[[H3112]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twelfth | <big><span class="asgreek">δωδεκάτω</span></big> <sup><small><small>[[G1428]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth day | <big><span class="asgreek">εικάδι</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| raised up high | <big><span class="asgreek">ύψωσεν</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| Evil-merodach | <big><span class="asgreek">Εβίλ μαροδάχ</span></big> <sup><small><small>[[H0192]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Jehoiachin | <big><span class="asgreek">Ιωαχίν</span></big> <sup><small><small>[[H3112]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led | <big><span class="asgreek">εξήγαγεν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] prison. | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| thirtieth | **<big>[[G9482\|τριακοστώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| resettlement | **<big>[[G6429\|αποικεσίας]]</big>** |
+| of Jehoiachin | **<big>[[H3112\|Ιωαχίν]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| twelfth | **<big>[[G1428\|δωδεκάτω]]</big>** |
+| month, | **<big>[[G3376\|μηνί]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth day | **<big>[[G7051\|εικάδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| raised up high | **<big>[[G5312\|ύψωσεν]]</big>** |
+| Evil-merodach | **<big>[[H0192\|Εβίλ μαροδάχ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| first year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his kingdom | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Jehoiachin | **<big>[[H3112\|Ιωαχίν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led | **<big>[[G1806\|εξήγαγεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] prison. | **<big>[[G5438\|φυλακής]]</big>** |
 [[2Kgs.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.26|<< 2 Kings 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.28|2 Kings 25:28 >>]]</td></tr></table>
 
 

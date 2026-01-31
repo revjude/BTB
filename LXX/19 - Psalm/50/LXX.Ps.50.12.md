@@ -7,21 +7,21 @@ If I were hungry, I would not tell thee: for the world [is] mine, and the fulnes
 If I were hungry, I would not tell you, for the world is Mine, and the fullness thereof.<small><sub>**MT:**</sub></small>
 [[Ps.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.11|<< Psalm 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.13|Psalm 50:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I should hunger, | <big><span class="asgreek">πεινάσω</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I tell you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| mine | <big><span class="asgreek">εμή</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένη</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fullness | <big><span class="asgreek">πλήρωμα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| I should hunger, | **<big>[[G3983\|πεινάσω]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should I tell you, | **<big>[[G1473\|σοι]]</big>** **<big>[[G2036\|είπω]]</big>** |
+| mine | **<big>[[G1699\|εμή]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fullness | **<big>[[G4138\|πλήρωμα]]</big>** |
+| of it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.11|<< Psalm 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.13|Psalm 50:13 >>]]</td></tr></table>
 
 

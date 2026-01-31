@@ -7,39 +7,39 @@ And Ehud came unto him; and he was sitting in a summer parlour, which he had for
 Then Ehud approached him while he was sitting alone in the coolness of his upper room. “I have a word from God for you,” Ehud said, and the king rose from his seat.<small><sub>**MT:**</sub></small>
 [[Judg.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.19|<< Judges 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.21|Judges 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ehud | <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upper | <big><span class="asgreek">υπερώω</span></big> <sup><small><small>[[G5253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvest \[room\] | <big><span class="asgreek">θερινώ</span></big> <sup><small><small>[[G7657]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone. | <big><span class="asgreek">μονώτατος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ehud said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| \[There is\] a word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king. | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">εξανέστη</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| throne | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| Eglon | <big><span class="asgreek">Εγλών</span></big> <sup><small><small>[[H5700]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ehud | **<big>[[H0161\|Αώδ]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| sat | **<big>[[G2521\|εκάθητο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| upper | **<big>[[G5253\|υπερώω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| harvest \[room\] | **<big>[[G7657\|θερινώ]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| alone. | **<big>[[G3441\|μονώτατος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ehud said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0161\|Αώδ]]</big>** |
+| \[There is\] a word | **<big>[[G3056\|λόγος]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| with me | **<big>[[G1473\|μοι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O king. | **<big>[[G0935\|βασιλεύ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G1817\|εξανέστη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| throne | **<big>[[G2362\|θρόνου]]</big>** |
+| Eglon | **<big>[[H5700\|Εγλών]]</big>** |
+| near | **<big>[[G1451\|εγγύς]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.19|<< Judges 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.21|Judges 3:21 >>]]</td></tr></table>
 
 

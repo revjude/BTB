@@ -6,13 +6,13 @@ My wounds are foul and festering because of my sinful folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.4|<< Psalms 38:4]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.6|Psalms 38:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they stink  | <span class="ashebrew"><big>הִבְאִ֣ישׁוּ </big></span><small><small><sup>[[H0887]]</sup></small></small> &#8207;| hiv.'I.shu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they fester  | <span class="ashebrew"><big>נָ֭מַקּוּ </big></span><small><small><sup>[[H4743]]</sup></small></small> &#8207;| Na.ma.ku <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wounds my  | <span class="ashebrew"><big>חַבּוּרֹתָ֑ </big></span><small><small><sup>[[H2250]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| cha.bu.ro.Ta <small><sup>[[HNcfpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because of  | <span class="ashebrew"><big>מִ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֗י </big></span><small><small><sup>[[H6440I]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| folly my  | <span class="ashebrew"><big>אִוַּלְתִּֽ </big></span><small><small><sup>[[H0200]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'i.val.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they stink  |**<big>&#8207;[[H0887\|הִבְאִ֣ישׁוּ]]&#8207; </big>**| hiv.'I.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they fester  |**<big>&#8207;[[H4743\|נָ֭מַקּוּ]]&#8207; </big>**| Na.ma.ku<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wounds my  |**<big>&#8207;[[H2250\|חַבּוּרֹתָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| cha.bu.ro.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  |**<big>&#8207;[[H9006\|מִ֝]]&#8207;&#8207;[[H6440I\|פְּנֵ֗י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| folly my  |**<big>&#8207;[[H0200\|אִוַּלְתִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.val.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.4|<< Psalms 38:4]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.6|Psalms 38:6 >>]]</td></tr></table>
 
 

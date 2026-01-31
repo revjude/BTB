@@ -7,26 +7,26 @@ For because ye [did it] not at the first, the LORD our God made a breach upon us
 It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.”<small><sub>**MT:**</sub></small>
 [[1Chr.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.12|<< 1 Chronicles 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.14|1 Chronicles 15:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[were\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| prior | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| ready | <big><span class="asgreek">ετοίμους</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| cut through | <big><span class="asgreek">διέκοψεν</span></big> <sup><small><small>[[G6839]][[G3588]][[G2316]]</small></small></sup> |
-| \[and the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seek | <big><span class="asgreek">εζητήσαμεν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| practice. | <big><span class="asgreek">κρίματι</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[were\] not | **<big>[[G3756\|ουκ]]</big>** |
+| prior | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** **<big>[[G4387\|πρότερον]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| ready | **<big>[[G2092\|ετοίμους]]</big>** |
+| cut through | **<big>[[G6839\|διέκοψεν]]</big>**<sup><small>[[G3588\| [ • ] ]]</small></sup><sup><small>[[G2316\| [ • ] ]]</small></sup> |
+| \[and the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| we did not | **<big>[[G3756\|ουκ]]</big>** |
+| seek | **<big>[[G2212\|εζητήσαμεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| practice. | **<big>[[G2917\|κρίματι]]</big>** |
 [[1Chr.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.12|<< 1 Chronicles 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.14|1 Chronicles 15:14 >>]]</td></tr></table>
 
 

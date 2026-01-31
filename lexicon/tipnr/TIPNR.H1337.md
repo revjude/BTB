@@ -1,8 +1,8 @@
 <small>*Bath-rabbim • Gate in Heshbon, mentioned in Song of Solomon.*</small>
 
 <span class='tipnrhighlight'>Bath-rabbim</span> was a gate in Heshbon, mentioned in the Song of Solomon. \(Song of Solomon 7:4\)
-- A location in Heshbon<[[H2809]]> only mentioned at [[Zech.11.2|Sng.7.4]]; 
-- only referred to as Bath-rabbim<[[H1337]]> \(<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ים</span>\).
+- A location in Heshbon **<big>[[H2809|חֶשְׁבּוֹן]]</big>** only mentioned at [[Zech.11.2|Sng.7.4]]; 
+- only referred to as Bath-rabbim **<big>[[H1337|בַּת רַבִּים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.80052000870321,35.80901866717255&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ In the Song of Solomon, the comparison of the Beloved's eyes to these pools sugg
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bath-rabbim (NIV= Bath Rabbim) | [<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H1337) <small>*Hebrew*</small> | 1x | [Sng.7.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bath\*\|reference=Sng.7.4) |
-All Strong's for **Bath-rabbim**: \[[[H1337]]\]
+| Bath-rabbim (NIV= Bath Rabbim) | [<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ת</span>־<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H1337) | 1x | [Sng.7.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bath\*\|reference=Sng.7.4) |
+All entries for **Bath-rabbim**:  **<big>[[H1337|בַּת רַבִּים]]</big>**

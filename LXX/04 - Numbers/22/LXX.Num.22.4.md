@@ -7,40 +7,40 @@ And Moab said unto the elders of Midian, Now shall this company lick up all [tha
 So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,<small><sub>**MT:**</sub></small>
 [[Num.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.3|<< Numbers 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.5|Numbers 22:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moab said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| council of elders | <big><span class="asgreek">γερουσία</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
-| of Midian, | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| shall lick up | <big><span class="asgreek">εκλείξει</span></big> <sup><small><small>[[G7110]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| licks up | <big><span class="asgreek">εκλείξαι</span></big> <sup><small><small>[[G7110]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχος</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| green \[grass\] | <big><span class="asgreek">χλωρά</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain. | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balak | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zippor | <big><span class="asgreek">Σεπφώρ</span></big> <sup><small><small>[[H6834]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time. | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moab said | **<big>[[G2036\|είπε]]</big>** **<big>[[H6355\|Μωάβ]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| council of elders | **<big>[[G1087\|γερουσία]]</big>** |
+| of Midian, | **<big>[[G3099\|Μαδιάν]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| shall lick up | **<big>[[G7110\|εκλείξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this congregation | **<big>[[G4864\|συναγωγή]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| licks up | **<big>[[G7110\|εκλείξαι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| calf | **<big>[[G3448\|μόσχος]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| green \[grass\] | **<big>[[G5515\|χλωρά]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| plain. | **<big>[[G8676\|πεδίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balak | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Zippor | **<big>[[H6834\|Σεπφώρ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| at | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that time. | **<big>[[G2540\|καιρόν]]</big>** **<big>[[G1565\|εκείνον]]</big>** |
 [[Num.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.3|<< Numbers 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.5|Numbers 22:5 >>]]</td></tr></table>
 
 

@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Hori</span>, the son of Shaphat, was one of the twelve spies sent by Moses to explore the land of Canaan.
 - A man living at the time of Egypt and Wilderness, only mentioned at [[Num.13.5|Num.13.5]]; 
-- only referred to as Hori<[[H2753G]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  father of Shaphat<[[H8202G]]>.
+- only referred to as Hori **<big>[[H2753|חֹרִי]]</big>**; 
+-  father of Shaphat **<big>[[H8202|שָׁפָט]]</big>**.
 
 Hori, the son of Shaphat, was a member of the tribe of Simeon who was chosen as one of the twelve spies sent by Moses to explore the land of Canaan \([[Num.13.5|Numbers 13:5]]\). This event took place during the Israelites' journey through the wilderness after their exodus from Egypt. 
 
@@ -15,7 +15,7 @@ The twelve spies, including Hori, spent forty days exploring the land of Canaan 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hori | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2753G) <small>*Hebrew*</small> | 1x | [Num.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hori\*\|reference=Num.13.5) |
-All Strong's for **Hori**: \[[[H2753G]]\]
+| Hori | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2753G) | 1x | [Num.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hori\*\|reference=Num.13.5) |
+All entries for **Hori**:  **<big>[[H2753|חֹרִי]]</big>**
 #### Related Profiles:
 - **[Shaphat](H8202G)** (child)

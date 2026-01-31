@@ -7,36 +7,36 @@ But the mountain shall be thine; for it [is] a wood, and thou shalt cut it down:
 because the hill country will be yours as well. It is a forest; clear it, and its farthest limits will be yours. Although the Canaanites have iron chariots and although they are strong, you can drive them out.”<small><sub>**MT:**</sub></small>
 [[Josh.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| forest | <big><span class="asgreek">δρυμός</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a forest | <big><span class="asgreek">δρυμός</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall clear it out. | <big><span class="asgreek">εκκαθαριείς</span></big> <sup><small><small>[[G7096]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his departure | <big><span class="asgreek">εξοδία</span></big> <sup><small><small>[[G7339]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should utterly destroy | <big><span class="asgreek">εξολοθρεύσης</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite, | <big><span class="asgreek">Χαναναίον</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| cavalry | <big><span class="asgreek">ίππος</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| a choice | <big><span class="asgreek">επίλεκτός</span></big> <sup><small><small>[[G7427]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he is strong; | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| excel in strength over | <big><span class="asgreek">υπερισχύεις</span></big> <sup><small><small>[[G9550]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| forest | **<big>[[G6971\|δρυμός]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a forest | **<big>[[G6971\|δρυμός]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall clear it out. | **<big>[[G7096\|εκκαθαριείς]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his departure | **<big>[[G7339\|εξοδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should utterly destroy | **<big>[[G1842\|εξολοθρεύσης]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Canaanite, | **<big>[[G5477\|Χαναναίον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| cavalry | **<big>[[G2462\|ίππος]]</big>** |
+| a choice | **<big>[[G7427\|επίλεκτός]]</big>** |
+| there is | **<big>[[G1510\|εστι]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he is strong; | **<big>[[G2478\|ισχυρός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| for you | **<big>[[G1473\|συ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| excel in strength over | **<big>[[G9550\|υπερισχύεις]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Josh.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
 

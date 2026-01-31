@@ -6,19 +6,19 @@ And sons were also born to Shem, the older brother of Japheth; Shem was the fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and to Shem  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֥ם </big></span><small><small><sup>[[H8035]]</sup></small></small> &#8207;| u <small><sup>[[HC]]</sup></small> l. <small><sup>[[HR]]</sup></small> Shem <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<it> was born  | <span class="ashebrew"><big>יֻלַּ֖ד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yu.Lad <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִי֙ </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eber  | <span class="ashebrew"><big>עֵ֔בֶר </big></span><small><small><sup>[[H5677G]]</sup></small></small> &#8207;| 'E.ver <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] brother of  | <span class="ashebrew"><big>אֲחִ֖י </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Japheth  | <span class="ashebrew"><big>יֶ֥פֶת </big></span><small><small><sup>[[H3315]]</sup></small></small> &#8207;| Ye.fet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> old  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גָּדֽוֹל </big></span><small><small><sup>[[H1419K]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to Shem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8035\|שֵׁ֥ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<it> was born  |**<big>&#8207;[[H3205\|יֻלַּ֖ד]]&#8207; </big>**| yu.Lad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִי֙]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eber  |**<big>&#8207;[[H5677G\|עֵ֔בֶר]]&#8207; </big>**| 'E.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֖י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Japheth  |**<big>&#8207;[[H3315\|יֶ֥פֶת]]&#8207; </big>**| Ye.fet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> old  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419K\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Adriatic Sea</span>, where Paul's ship was driven by a storm on his journey to Rome.
 - A location only mentioned at [[2Chr.11.9|Act.27.27]]; 
-- only referred to as Adriatic\_Sea<[[G0099]]> \(<span class='tipnrLangGreek'>Ἀδρίας</span>\).
+- only referred to as Adriatic\_Sea **<big>[[G0099|Ἀδρίας]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=42.415000,16.373500&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The storm that Paul's ship encountered was likely a Euraquilo, a strong northeas
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adriatic Sea | [<span class='tipnrLangGreek'>Ἀδρίας</span>](G0099) <small>*Greek*</small> | 1x | [Act.27.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adriatic\*\|reference=Act.27.27) |
-All Strong's for **Adriatic_Sea**: \[[[G0099]]\]
+| Adriatic Sea | [<span class='tipnrLangGreek'>Ἀδρίας</span>](G0099) | 1x | [Act.27.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adriatic\*\|reference=Act.27.27) |
+All entries for **Adriatic Sea**:  **<big>[[G0099|Ἀδρίας]]</big>**

@@ -7,32 +7,32 @@ Ashdod with her towns and her villages, Gaza with her towns and her villages, un
 Ashdod, with its towns and villages; Gaza, with its towns and villages, as far as the Brook of Egypt and the coastline of the Great Sea.<small><sub>**MT:**</sub></small>
 [[Josh.15.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.46|<< Joshua 15:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.48|Joshua 15:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ashdod | <big><span class="asgreek">Εσδώθ</span></big> <sup><small><small>[[H0795]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her properties; | <big><span class="asgreek">επαύλεις</span></big> <sup><small><small>[[G1886]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gaza | <big><span class="asgreek">Γαζί</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her properties, | <big><span class="asgreek">επαύλεις</span></big> <sup><small><small>[[G1886]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| separates. | <big><span class="asgreek">διορίζει</span></big> <sup><small><small>[[G6938]]</small></small></sup> |
+| Ashdod | **<big>[[H0795\|Εσδώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her properties; | **<big>[[G1886\|επαύλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Gaza | **<big>[[G1048\|Γαζί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her properties, | **<big>[[G1886\|επαύλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| separates. | **<big>[[G6938\|διορίζει]]</big>** |
 [[Josh.15.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.46|<< Joshua 15:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.48|Joshua 15:48 >>]]</td></tr></table>
 
 

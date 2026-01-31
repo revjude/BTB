@@ -7,41 +7,41 @@ And he shall reckon with him that bought him from the year that he was sold to h
 He and his purchaser will then count the time from the year he sold himself up to the Year of Jubilee. The price of his sale will be determined by the number of years, based on the daily wages of a hired hand.<small><sub>**MT:**</sub></small>
 [[Lev.25.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.49|<< Leviticus 25:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.51|Leviticus 25:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall reckon together | <big><span class="asgreek">συλλογιείται</span></big> <sup><small><small>[[G4817]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acquiring | <big><span class="asgreek">κεκτημένον</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sold | <big><span class="asgreek">απέδοτο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| release. | <big><span class="asgreek">αφέσεως</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sale | <big><span class="asgreek">πράσεως</span></big> <sup><small><small>[[G8876]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of a hireling. | <big><span class="asgreek">μισθίου</span></big> <sup><small><small>[[G3407]]</small></small></sup> |
-| Year | <big><span class="asgreek">έτος</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| to | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| year | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| he will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall reckon together | **<big>[[G4817\|συλλογιείται]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one acquiring | **<big>[[G2932\|κεκτημένον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| year | **<big>[[G2094\|έτους]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| he sold | **<big>[[G0591\|απέδοτο]]</big>** |
+| himself | **<big>[[G1438\|εαυτόν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| year | **<big>[[G1763\|ενιαυτού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| release. | **<big>[[G0859\|αφέσεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his sale | **<big>[[G8876\|πράσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of a hireling. | **<big>[[G3407\|μισθίου]]</big>** |
+| Year | **<big>[[G2094\|έτος]]</big>** |
+| to | **<big>[[G1537\|εξ]]</big>** |
+| year | **<big>[[G2094\|έτους]]</big>** |
+| he will be | **<big>[[G1510\|έσται]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.25.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.49|<< Leviticus 25:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.51|Leviticus 25:51 >>]]</td></tr></table>
 
 

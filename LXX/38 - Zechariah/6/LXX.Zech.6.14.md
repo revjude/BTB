@@ -7,32 +7,32 @@ And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the
 The crown will reside in the temple of the LORD as a memorial to Helem, Tobijah, Jedaiah, and the gracious son of Zephaniah.<small><sub>**MT:**</sub></small>
 [[Zech.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.13|<< Zechariah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.15|Zechariah 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| crown | <big><span class="asgreek">στέφανος</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waiting, | <big><span class="asgreek">υπομένουσιν</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| profitable | <big><span class="asgreek">χρησίμοις</span></big> <sup><small><small>[[G5539]]</small></small></sup> |
-| of her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recognizing | <big><span class="asgreek">επεγνωκόσιν</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] favor | <big><span class="asgreek">χάριτα</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| of \[the\] son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zephaniah, | <big><span class="asgreek">Σοφονίου</span></big> <sup><small><small>[[H6846]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a psalm | <big><span class="asgreek">ψαλμόν</span></big> <sup><small><small>[[G5568]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| crown | **<big>[[G4735\|στέφανος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| waiting, | **<big>[[G5278\|υπομένουσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| profitable | **<big>[[G5539\|χρησίμοις]]</big>** |
+| of her, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| recognizing | **<big>[[G1921\|επεγνωκόσιν]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] favor | **<big>[[G5485\|χάριτα]]</big>** |
+| of \[the\] son | **<big>[[G5207\|υιού]]</big>** |
+| of Zephaniah, | **<big>[[H6846\|Σοφονίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a psalm | **<big>[[G5568\|ψαλμόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Zech.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.13|<< Zechariah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.15|Zechariah 6:15 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H7967]]</small>
+<small>Also see: **<big>[[H7967|שַׁלּוּם]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שֶׁלֶמְיָה(וּׅ‎</span> 
 

@@ -7,24 +7,24 @@ And they rose up betimes in the morning, and sware one to another: and Isaac sen
 And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.<small><sub>**MT:**</sub></small>
 [[Gen.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.30|<< Genesis 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.32|Genesis 26:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising up | <big><span class="asgreek">αναστάντες</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">το πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| swore by an oath | <big><span class="asgreek">ώμοσεν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent them out | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they moved | <big><span class="asgreek">απώχοντο</span></big> <sup><small><small>[[G6433]]</small></small></sup> |
-| away from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| safety. | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rising up | **<big>[[G0450\|αναστάντες]]</big>** |
+| in the morning, | **<big>[[G4404\|το πρωϊ]]</big>** |
+| swore by an oath | **<big>[[G3660\|ώμοσεν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| neighbor. | **<big>[[G4139\|πλησίον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent them out | **<big>[[G1821\|εξαπέστειλεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they moved | **<big>[[G6433\|απώχοντο]]</big>** |
+| away from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| safety. | **<big>[[G4991\|σωτηρίας]]</big>** |
 [[Gen.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.30|<< Genesis 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.32|Genesis 26:32 >>]]</td></tr></table>
 
 

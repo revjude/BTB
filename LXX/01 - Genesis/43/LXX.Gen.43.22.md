@@ -7,24 +7,24 @@ And other money have we brought down in our hands to buy food: we cannot tell wh
 We have brought additional silver with us to buy food. We do not know who put our silver in our sacks.”<small><sub>**MT:**</sub></small>
 [[Gen.43.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.21|<< Genesis 43:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.23|Genesis 43:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| other | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| we brought | <big><span class="asgreek">ηνέγκαμεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| ourselves | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| to buy | <big><span class="asgreek">αγοράσαι</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| foods, | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| we do not know | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οίδαμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| put | <big><span class="asgreek">ενέβαλε</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our bags. | <big><span class="asgreek">μαρσίππους</span></big> <sup><small><small>[[G8257]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| other | **<big>[[G2087\|έτερον]]</big>** |
+| we brought | **<big>[[G5342\|ηνέγκαμεν]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| ourselves | **<big>[[G1438\|εαυτών]]</big>** |
+| to buy | **<big>[[G0059\|αγοράσαι]]</big>** |
+| foods, | **<big>[[G1033\|βρώματα]]</big>** |
+| we do not know | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|οίδαμεν]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| put | **<big>[[G1685\|ενέβαλε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our bags. | **<big>[[G8257\|μαρσίππους]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Gen.43.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.21|<< Genesis 43:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.23|Genesis 43:23 >>]]</td></tr></table>
 
 

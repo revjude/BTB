@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּלָא‎</span></big> **kâlâʼ** <small>*(kaw-law')*</small> ==**to restrain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּלָא‎</span></big>** **kâlâʼ** <small>*(kaw-law')*</small> ==**to restrain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ finish, forbid, keep (back), refrain, restrain, retain, shut up, be stayed, withhold.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a3)** to withhold
 $\quad$ **1b)** (Niphal) to be restrained
 $\quad$ **1c)** (Piel) to finish
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνέχομαι</span><sup><small>[[G0430]]</small></sup> · <span class="asgreek">κατακλείω</span><sup><small>[[G2623]]</small></sup> · <span class="asgreek">κωλύω</span><sup><small>[[G2967]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">συνέχω</span><sup><small>[[G4912]]</small></sup> · <span class="asgreek">ὑποστέλλω</span><sup><small>[[G5288]]</small></sup>
+<small>See Greek: </small>**<big>[[G0430|ἀνέχομαι]]</big>** · **<big>[[G2623|κατακλείω]]</big>** · **<big>[[G2967|κωλύω]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4912|συνέχω]]</big>** · **<big>[[G5288|ὑποστέλλω]]</big>**

@@ -7,24 +7,24 @@ Also they reported his good deeds before me, and uttered my words to him. [And] 
 Moreover, these nobles kept reporting to me Tobiah’s good deeds, and they relayed my words to him. And Tobiah sent letters to intimidate me.<small><sub>**MT:**</sub></small>
 [[Neh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.18|<< Nehemiah 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.1|Nehemiah 7:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And indeed | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being advantageous to him | <big><span class="asgreek">συμφέροντα</span></big> <sup><small><small>[[G4851]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">έλεγεν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| bringing | <big><span class="asgreek">εκφέροντες</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| letters | <big><span class="asgreek">επιστολάς</span></big> <sup><small><small>[[G1992]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Tobiah | <big><span class="asgreek">Τωβία</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
-| to throw me into fear. | <big><span class="asgreek">φοβερίσαι</span></big> <sup><small><small>[[G9650]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And indeed | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being advantageous to him | **<big>[[G4851\|συμφέροντα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
+| he spoke | **<big>[[G3004\|έλεγεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me; | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| bringing | **<big>[[G1627\|εκφέροντες]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| letters | **<big>[[G1992\|επιστολάς]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| Tobiah | **<big>[[H2900\|Τωβία]]</big>** |
+| to throw me into fear. | **<big>[[G9650\|φοβερίσαι]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Neh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.18|<< Nehemiah 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.1|Nehemiah 7:1 >>]]</td></tr></table>
 
 

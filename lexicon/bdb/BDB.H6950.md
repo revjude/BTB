@@ -1,4 +1,4 @@
-<small>Also see: [[H7035]]</small>
+<small>Also see: **<big>[[H7035|קָלַהּ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎קָהַל‎</span>] **verb denominative** ([[BDB#Gerber|Gerber]]<sup>107 f.</sup>) ==assemble as a== <span class="bdbLangHebrew">‎קָהָל‎</span>; — 
 

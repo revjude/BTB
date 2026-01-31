@@ -10,21 +10,21 @@ Vengeance is Mine; I will repay. In due time their foot will slip; for their day
 > $\quad$ referenced by: [[Rom.12.19|Rom 12:19]] ☩ [[Heb.10.30|Heb 10:30]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [belong] to \<the> me  | <span class="ashebrew"><big>לִ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vengeance  | <span class="ashebrew"><big>נָקָם֙ </big></span><small><small><sup>[[H5359]]</sup></small></small> &#8207;| na.Kam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and retribution  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁלֵּ֔ם </big></span><small><small><sup>[[H8005]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shi.Lem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a time  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֵ֖ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [when] it will slip  | <span class="ashebrew"><big>תָּמ֣וּט </big></span><small><small><sup>[[H4131]]</sup></small></small> &#8207;| ta.Mut <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot their  | <span class="ashebrew"><big>רַגְלָ֑ </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| rag.La <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] near  | <span class="ashebrew"><big>קָרוֹב֙ </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ka.rOv <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day of  | <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| disaster their  | <span class="ashebrew"><big>אֵידָ֔ </big></span><small><small><sup>[[H0343]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'ei.Da <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will make haste  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>חָ֖שׁ </big></span><small><small><sup>[[H2363A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> Chash <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| impending [things]  | <span class="ashebrew"><big>עֲתִדֹ֥ת </big></span><small><small><sup>[[H6264]]</sup></small></small> &#8207;| 'a.ti.Dot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to \<the> me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vengeance  |**<big>&#8207;[[H5359\|נָקָם֙]]&#8207; </big>**| na.Kam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and retribution  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8005\|שִׁלֵּ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Lem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a time  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עֵ֖ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [when] it will slip  |**<big>&#8207;[[H4131\|תָּמ֣וּט]]&#8207; </big>**| ta.Mut<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot their  |**<big>&#8207;[[H7272\|רַגְלָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| rag.La<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] near  |**<big>&#8207;[[H7138\|קָרוֹב֙]]&#8207; </big>**| ka.rOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  |**<big>&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| disaster their  |**<big>&#8207;[[H0343\|אֵידָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'ei.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will make haste  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2363A\|חָ֖שׁ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Chash<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| impending [things]  |**<big>&#8207;[[H6264\|עֲתִדֹ֥ת]]&#8207; </big>**| 'a.ti.Dot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.34|<< Deuteronomy 32:34]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.36|Deuteronomy 32:36 >>]]</td></tr></table>
 
 

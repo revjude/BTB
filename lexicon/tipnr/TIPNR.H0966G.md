@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Bezek</span> was a city where the tribe of Judah defeated the Canaanites and Perizzites.
 - A location first mentioned at [[Judg.1.4|Jdg.1.4]]; 
-- only referred to as Bezek<[[H0966G]]> \(<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Bezek **<big>[[H0966|בֶּזֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.898029,34.952878&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Bezek was a city mentioned in the Bible as the place where the tribe of Judah fo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bezek | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0966G) <small>*Hebrew*</small> | 2x | [[Jdg.1.4] & [Jdg.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bezek\*\|reference=Jdg.1.4;Jdg.1.5) |
-All Strong's for **Bezek**: \[[[H0966G]]\]
+| Bezek | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0966G) | 2x | [[Jdg.1.4] & [Jdg.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bezek\*\|reference=Jdg.1.4;Jdg.1.5) |
+All entries for **Bezek**:  **<big>[[H0966|בֶּזֶק]]</big>**

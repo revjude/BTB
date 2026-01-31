@@ -7,25 +7,25 @@ And set him before Eleazar the priest, and before all the congregation; and give
 Have him stand before Eleazar the priest and the whole congregation, and commission him in their sight.<small><sub>**MT:**</sub></small>
 [[Num.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.18|<< Numbers 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.20|Numbers 27:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall set | <big><span class="asgreek">στήσεις</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| Eleazar | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall give charge | <big><span class="asgreek">εντελή</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall set | **<big>[[G2476\|στήσεις]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| Eleazar | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall give charge | **<big>[[G1781\|εντελή]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
 [[Num.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.18|<< Numbers 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.20|Numbers 27:20 >>]]</td></tr></table>
 
 

@@ -11,42 +11,42 @@ Behold, I will stand there before you by the rock at Horeb. And when you strike 
 > $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stand | <big><span class="asgreek">έστηκα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Horeb. | <big><span class="asgreek">Χωρήβ</span></big> <sup><small><small>[[H2722]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall strike | <big><span class="asgreek">πατάξεις</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rock, | <big><span class="asgreek">πέτραν</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall drink | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| stand | **<big>[[G2476\|έστηκα]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your | **<big>[[G1473\|σε]]</big>** |
+| coming | **<big>[[G2064\|ελθείν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| rock | **<big>[[G4073\|πέτρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Horeb. | **<big>[[H2722\|Χωρήβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall strike | **<big>[[G3960\|πατάξεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rock, | **<big>[[G4073\|πέτραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall drink | **<big>[[G4095\|πίεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Exod.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.5|<< Exodus 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.7|Exodus 17:7 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲלֻמָּה‎</span></big> **ʼălummâh** <small>*(al-oom-maw')*</small> ==**sheaf**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (masculine) <span class="ashebrew">אָלֻם</span> **ʼâlum** <small>*(aw-loom')*</small>; passive participle of <span class="ashebrew">‎אָלַם‎</span><sup><small>[[H0481]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲלֻמָּה‎</span></big>** **ʼălummâh** <small>*(al-oom-maw')*</small> ==**sheaf**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (masculine) **<big><span class="ashebrew">אָלֻם</span></big>** **ʼâlum** <small>*(aw-loom')*</small>; passive participle of **<big>[[H0481|‎אָלַם‎]]</big>**</small>
 
 $\quad$ sheaf.
 - ***something bound***

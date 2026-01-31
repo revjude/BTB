@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּיצִי‎</span></big> **Tîytsîy** <small>*(tee-tsee')*</small> ==**Tizite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎תִּיצִי‎</span></big>** **Tîytsîy** <small>*(tee-tsee')*</small> ==**Tizite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>patrial or patronymically from an unused noun of uncertain meaning</small>
 
 $\quad$ Tizite.

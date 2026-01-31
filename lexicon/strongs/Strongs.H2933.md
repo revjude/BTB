@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טָמָה‎</span></big> **ṭâmâh** <small>*(taw-maw')*</small> ==**to defile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a collateral form of <span class="ashebrew">‎טָמֵא‎</span><sup><small>[[H2930]]</small></sup></small>
+**<big><span class="ashebrew">‎טָמָה‎</span></big>** **ṭâmâh** <small>*(taw-maw')*</small> ==**to defile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a collateral form of **<big>[[H2930|‎טָמֵא‎]]</big>**</small>
 
 $\quad$ be defiled, be reputed vile.
 - ***to be impure*** in a religious sense

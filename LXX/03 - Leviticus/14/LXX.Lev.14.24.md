@@ -7,26 +7,26 @@ And the priest shall take the lamb of the trespass offering, and the log of oil,
 The priest shall take the lamb for the guilt offering, along with the log of olive oil, and wave them as a wave offering before the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.23|<< Leviticus 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.25|Leviticus 14:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\], | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small cup | <big><span class="asgreek">κοτύλην</span></big> <sup><small><small>[[G8077]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| \[and\] he shall place | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for an increase \[offering\] | <big><span class="asgreek">επίθεμα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λαβών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lamb | **<big>[[G0286\|αμνόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| trespass \[offering\], | **<big>[[G8811\|πλημμελείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| small cup | **<big>[[G8077\|κοτύλην]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| olive oil, | **<big>[[G1637\|ελαίου]]</big>** |
+| \[and\] he shall place | **<big>[[G2007\|επιθήσει]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| for an increase \[offering\] | **<big>[[G7409\|επίθεμα]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Lev.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.23|<< Leviticus 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.25|Leviticus 14:25 >>]]</td></tr></table>
 
 

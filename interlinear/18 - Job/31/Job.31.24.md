@@ -6,15 +6,15 @@ If I have put my trust in gold or called pure gold my security,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.23|<< Job 31:23]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.25|Job 31:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have made  | <span class="ashebrew"><big>שַׂ֣מְתִּי </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| Sam.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֣ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| confidence my  | <span class="ashebrew"><big>כִּסְלִ֑ </big></span><small><small><sup>[[H3689]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| kis.L <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to \<the> pure gold  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶּ֗תֶם </big></span><small><small><sup>[[H3800]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la. <small><sup>[[HRd]]</sup></small> Ke.tem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have said  | <span class="ashebrew"><big>אָמַ֥רְתִּי </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| security my  | <span class="ashebrew"><big>מִבְטַחִֽ </big></span><small><small><sup>[[H4009]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| miv.ta.Ch <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made  |**<big>&#8207;[[H7760A\|שַׂ֣מְתִּי]]&#8207; </big>**| Sam.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֣ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| confidence my  |**<big>&#8207;[[H3689\|כִּסְלִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kis.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to \<the> pure gold  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3800\|כֶּ֗תֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Ke.tem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have said  |**<big>&#8207;[[H0559\|אָמַ֥רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| security my  |**<big>&#8207;[[H4009\|מִבְטַחִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| miv.ta.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.23|<< Job 31:23]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.25|Job 31:25 >>]]</td></tr></table>
 
 

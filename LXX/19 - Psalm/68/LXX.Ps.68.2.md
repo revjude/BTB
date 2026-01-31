@@ -7,26 +7,26 @@ As smoke is driven away, [so] drive [them] away: as wax melteth before the fire,
 As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God.<small><sub>**MT:**</sub></small>
 [[Ps.68.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.1|<< Psalm 68:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.3|Psalm 68:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dissipates | <big><span class="asgreek">εκλείπει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| smoke | <big><span class="asgreek">καπνός</span></big> <sup><small><small>[[G2586]]</small></small></sup> |
-| let them dissipate! | <big><span class="asgreek">εκλιπέτωσαν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| melts away | <big><span class="asgreek">τήκεται</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| beeswax | <big><span class="asgreek">κηρός</span></big> <sup><small><small>[[G8008]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \[of the\] fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| be destroyed | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| dissipates | **<big>[[G1587\|εκλείπει]]</big>** |
+| smoke | **<big>[[G2586\|καπνός]]</big>** |
+| let them dissipate! | **<big>[[G1587\|εκλιπέτωσαν]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| melts away | **<big>[[G5080\|τήκεται]]</big>** |
+| beeswax | **<big>[[G8008\|κηρός]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \[of the\] fire, | **<big>[[G4442\|πυρός]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| be destroyed | **<big>[[G0622\|απολούνται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
 [[Ps.68.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.1|<< Psalm 68:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.3|Psalm 68:3 >>]]</td></tr></table>
 
 

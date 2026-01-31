@@ -6,14 +6,14 @@ But I am in pain and distress; let Your salvation protect me, O God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.28|<< Psalms 69:28]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.30|Psalms 69:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I  | <span class="ashebrew"><big>וַ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| Va. <small><sup>[[HC]]</sup></small> 'a.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] afflicted  | <span class="ashebrew"><big>עָנִ֣י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [am] in pain  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כוֹאֵ֑ב </big></span><small><small><sup>[[H3510]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kho.'Ev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salvation your  | <span class="ashebrew"><big>יְשׁוּעָתְ </big></span><small><small><sup>[[H3444]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ye.shu.'a.te. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may it set on high me  | <span class="ashebrew"><big>תְּשַׂגְּבֵֽ </big></span><small><small><sup>[[H7682]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.sa.ge.Ve. <small><sup>[[HVpi2ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] afflicted  |**<big>&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [am] in pain  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3510\|כוֹאֵ֑ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.'Ev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation your  |**<big>&#8207;[[H3444\|יְשׁוּעָתְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| ye.shu.'a.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it set on high me  |**<big>&#8207;[[H7682\|תְּשַׂגְּבֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.sa.ge.Ve.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.28|<< Psalms 69:28]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.30|Psalms 69:30 >>]]</td></tr></table>
 
 

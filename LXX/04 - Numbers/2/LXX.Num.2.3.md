@@ -7,28 +7,28 @@ And on the east side toward the rising of the sun shall they of the standard of 
 On the east side, toward the sunrise, the divisions of Judah are to camp under their standard: The leader of the Judahites is Nahshon son of Amminadab,<small><sub>**MT:**</sub></small>
 [[Num.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.2|<< Numbers 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.4|Numbers 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones camping | <big><span class="asgreek">παρεμβάλλοντες</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτοι</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| in order, | <big><span class="asgreek">τάγμα</span></big> <sup><small><small>[[G5001]]</small></small></sup> |
-| \[was the\] camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| their force. | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[was\] Nashon | <big><span class="asgreek">Ναασσών</span></big> <sup><small><small>[[G3476]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Amminadab. | <big><span class="asgreek">Αμιναδάβ</span></big> <sup><small><small>[[G0284]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones camping | **<big>[[G6070\|παρεμβάλλοντες]]</big>** |
+| first | **<big>[[G4413\|πρώτοι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| in order, | **<big>[[G5001\|τάγμα]]</big>** |
+| \[was the\] camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| their force. | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[was\] Nashon | **<big>[[G3476\|Ναασσών]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Amminadab. | **<big>[[G0284\|Αμιναδάβ]]</big>** |
 [[Num.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.2|<< Numbers 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.4|Numbers 2:4 >>]]</td></tr></table>
 
 

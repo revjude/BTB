@@ -7,23 +7,23 @@ And he overlaid it with pure gold within and without, and made a crown of gold t
 He overlaid it with pure gold, both inside and out, and made a gold molding around it.<small><sub>**MT:**</sub></small>
 [[Exod.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.1|<< Exodus 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.3|Exodus 37:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gilded | <big><span class="asgreek">κατεχρύσωσεν</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| in pure | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| from inside | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from outside. | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a waved border | <big><span class="asgreek">κυμάτιον</span></big> <sup><small><small>[[G8122]]</small></small></sup> |
-| twisted | <big><span class="asgreek">στρεπτόν</span></big> <sup><small><small>[[G9823]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gilded | **<big>[[G7958\|κατεχρύσωσεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| gold | **<big>[[G5553\|χρυσίω]]</big>** |
+| in pure | **<big>[[G2513\|καθαρώ]]</big>** |
+| from inside | **<big>[[G2081\|έσωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from outside. | **<big>[[G1855\|έξωθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| for it | **<big>[[G1473\|αυτή]]</big>** |
+| a waved border | **<big>[[G8122\|κυμάτιον]]</big>** |
+| twisted | **<big>[[G9823\|στρεπτόν]]</big>** |
+| of gold | **<big>[[G5552\|χρυσούν]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
 [[Exod.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.1|<< Exodus 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.3|Exodus 37:3 >>]]</td></tr></table>
 
 

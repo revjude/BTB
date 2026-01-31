@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּסַג‎</span></big> **pâçag** <small>*(paw-sag')*</small> ==**to go through**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּסַג‎</span></big>** **pâçag** <small>*(paw-sag')*</small> ==**to go through**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ consider.

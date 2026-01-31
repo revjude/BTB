@@ -7,26 +7,26 @@ Then I sent unto him, saying, There are no such things done as thou sayest, but 
 Then I sent him this reply: “There is nothing to these rumors you are spreading; you are inventing them in your own mind.”<small><sub>**MT:**</sub></small>
 [[Neh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.7|<< Nehemiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.9|Nehemiah 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| It happened not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| say, | <big><span class="asgreek">λέγεις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lie | <big><span class="asgreek">ψεύδη</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| about them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sent | **<big>[[G0649\|απέστειλα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| It happened not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγενήθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these words | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| which | **<big>[[G3779\|ους]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| say, | **<big>[[G3004\|λέγεις]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίας]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| lie | **<big>[[G5574\|ψεύδη]]</big>** |
+| about them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Neh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.7|<< Nehemiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.9|Nehemiah 6:9 >>]]</td></tr></table>
 
 

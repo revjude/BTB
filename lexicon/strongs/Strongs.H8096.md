@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְעִי‎</span></big> **Shimʻîy** <small>*(shim-ee')*</small> ==**Shimei**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שֵׁמַע‎</span><sup><small>[[H8088]]</small></sup>; famous</small>
+**<big><span class="ashebrew">‎שִׁמְעִי‎</span></big>** **Shimʻîy** <small>*(shim-ee')*</small> ==**Shimei**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8088|‎שֵׁמַע‎]]</big>**; famous</small>
 
 $\quad$ Shimeah (from the margin), Shimei, Shimhi, Shimi.
 - § Shimei or Shimhi or Shimi or Shimea = *"renowned"*
@@ -22,4 +22,4 @@ $\quad$ Shimeah (from the margin), Shimei, Shimhi, Shimi.
 **15)** a Levite, son of Jahath, grandson of Gershon, and great grandson of Levi
 **16)** Benjamite, father of Adaiah, Beraiah, and Shimrath. Spelled 'Shimhi'
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σεμεΐ</span><sup><small>[[G4584]]</small></sup>
+<small>See Greek: </small>**<big>[[G4584|Σεμεΐ]]</big>**

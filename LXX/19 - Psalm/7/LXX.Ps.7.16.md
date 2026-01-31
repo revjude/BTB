@@ -7,19 +7,19 @@ His mischief shall return upon his own head, and his violent dealing shall come 
 His trouble recoils on himself, and his violence falls on his own head.<small><sub>**MT:**</sub></small>
 [[Ps.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.15|<< Psalm 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.17|Psalm 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His misery | <big><span class="asgreek">πόνος</span></big> <sup><small><small>[[G4192]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his \[own\] head; | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his head | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his injustice | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| shall return | **<big>[[G1994\|επιστρέψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| His misery | **<big>[[G4192\|πόνος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| his \[own\] head; | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his head | **<big>[[G8073\|κορυφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his injustice | **<big>[[G0093\|αδικία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall come down | **<big>[[G2597\|καταβήσεται]]</big>** |
 [[Ps.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.15|<< Psalm 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.17|Psalm 7:17 >>]]</td></tr></table>
 
 

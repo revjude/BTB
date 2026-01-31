@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לוּד‎</span></big> **Lûwd** <small>*(lood)*</small> ==**Lud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎לוּד‎</span></big>** **Lûwd** <small>*(lood)*</small> ==**Lud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Lud, Lydia.

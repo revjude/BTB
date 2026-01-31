@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַכַּד‎</span></big> **ʼAkkad** <small>*(ak-kad')*</small> ==**Accad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אַכַּד‎</span></big>** **ʼAkkad** <small>*(ak-kad')*</small> ==**Accad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root probably meaning to strengthen; a fortress</small>
 
 $\quad$ Accad.

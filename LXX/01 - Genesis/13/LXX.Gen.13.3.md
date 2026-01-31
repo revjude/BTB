@@ -7,31 +7,31 @@ And he went on his journeys from the south even to Bethel, unto the place where 
 From the Negev he journeyed from place to place toward Bethel, until he came to the place between Bethel and Ai where his tent had formerly been pitched,<small><sub>**MT:**</sub></small>
 [[Gen.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
-| he came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Beth-el | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Hai; | <big><span class="asgreek">Αγγε</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went | **<big>[[G4198\|επορεύθη]]</big>** |
+| from where | **<big>[[G3606\|όθεν]]</big>** |
+| he came | **<big>[[G2064\|ήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness, | **<big>[[G2048\|έρημον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his tent | **<big>[[G4633\|σκηνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly | **<big>[[G4387\|πρότερον]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Beth-el | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Hai; | **<big>[[H5857\|Αγγε]]</big>** |
 [[Gen.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
 

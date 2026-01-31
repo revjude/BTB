@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲנָפָה‎</span></big> **ʼănâphâh** <small>*(an-aw-faw')*</small> ==**heron**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎אָנַף‎</span><sup><small>[[H0599]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲנָפָה‎</span></big>** **ʼănâphâh** <small>*(an-aw-faw')*</small> ==**heron**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0599|‎אָנַף‎]]</big>**</small>
 
 $\quad$ heron.
 - ***an unclean bird***, perhaps ***the parrot*** (from its irascibility)

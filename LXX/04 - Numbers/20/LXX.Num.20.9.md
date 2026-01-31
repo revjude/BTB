@@ -7,17 +7,17 @@ And Moses took the rod from before the LORD, as he commanded him.
 So Moses took the staff from the LORD’s presence, just as he had been commanded.<small><sub>**MT:**</sub></small>
 [[Num.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.8|<< Numbers 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.10|Numbers 20:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G1473\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rod | **<big>[[G4464\|ράβδον]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Num.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.8|<< Numbers 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.10|Numbers 20:10 >>]]</td></tr></table>
 
 

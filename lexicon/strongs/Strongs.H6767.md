@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְלָצַל‎</span></big> **tsᵉlâtsal** <small>*(tsel-aw-tsal')*</small> ==**buzzing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָלַל‎</span><sup><small>[[H6750]]</small></sup> reduplicated</small>
+**<big><span class="ashebrew">‎צְלָצַל‎</span></big>** **tsᵉlâtsal** <small>*(tsel-aw-tsal')*</small> ==**buzzing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6750|‎צָלַל‎]]</big>** reduplicated</small>
 
 $\quad$ cymbal, locust, shadowing, spear.
 - ***a clatter***, i.e. (abstractly) ***whirring*** (of wings)
@@ -10,4 +10,4 @@ $\quad$ cymbal, locust, shadowing, spear.
 **2)** spear
 **3)** whirring locust
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αὐλός</span><sup><small>[[G0836]]</small></sup> · <span class="asgreek">κύμβαλον</span><sup><small>[[G2950]]</small></sup>
+<small>See Greek: </small>**<big>[[G0836|αὐλός]]</big>** · **<big>[[G2950|κύμβαλον]]</big>**

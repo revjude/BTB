@@ -7,32 +7,32 @@ But he did [that which was] evil in the sight of the LORD, as did Manasseh his f
 And he did evil in the sight of the LORD, as his father Manasseh had done. Amon served and sacrificed to all the idols that his father Manasseh had made,<small><sub>**MT:**</sub></small>
 [[2Chr.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.21|<< 2 Chronicles 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.23|2 Chronicles 33:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| Manasseh | <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father. | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| idols | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| Manasseh | <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Amon sacrificed | <big><span class="asgreek">έθυεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> <big><span class="asgreek">Αμών</span></big> <sup><small><small>[[G0300]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| served | <big><span class="asgreek">εδούλευσεν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wicked \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| Manasseh | **<big>[[G3128\|Μανασσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father. | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| idols | **<big>[[G1497\|ειδώλοις]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| made | **<big>[[G4160\|εποίησε]]</big>** |
+| Manasseh | **<big>[[G3128\|Μανασσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Amon sacrificed | **<big>[[G2380\|έθυεν]]</big>** **<big>[[G0300\|Αμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| served | **<big>[[G1398\|εδούλευσεν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[2Chr.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.21|<< 2 Chronicles 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.23|2 Chronicles 33:23 >>]]</td></tr></table>
 
 

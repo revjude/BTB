@@ -11,36 +11,36 @@ Here am I, and the children the LORD has given me as signs and symbols in Israel
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| children | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκέ</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for signs | <big><span class="asgreek">σημεία</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| miracles | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| dwells | <big><span class="asgreek">κατοικεί</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| children | **<big>[[G3813\|παιδία]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| gave | **<big>[[G1325\|έδωκέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσται]]</big>** |
+| for signs | **<big>[[G4592\|σημεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| miracles | **<big>[[G5059\|τέρατα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| dwells | **<big>[[G2730\|κατοικεί]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| mount | **<big>[[G3735\|όρει]]</big>** |
+| Zion. | **<big>[[G4622\|Σιών]]</big>** |
 [[Isa.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.17|<< Isaiah 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.19|Isaiah 8:19 >>]]</td></tr></table>
 
 

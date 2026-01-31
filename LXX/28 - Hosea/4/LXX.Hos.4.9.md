@@ -7,28 +7,28 @@ And there shall be, like people, like priest: and I will punish them for their w
 And it shall be like people, like priest. I will punish both of them for their ways and repay them for their deeds.<small><sub>**MT:**</sub></small>
 [[Hos.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.8|<< Hosea 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.10|Hosea 4:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest; | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will avenge | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his deliberations | <big><span class="asgreek">διαβούλια</span></big> <sup><small><small>[[G6819]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will recompense | <big><span class="asgreek">ανταποδώσω</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest; | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will avenge | **<big>[[G1556\|εκδικήσω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his deliberations | **<big>[[G6819\|διαβούλια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I will recompense | **<big>[[G0467\|ανταποδώσω]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Hos.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.8|<< Hosea 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.10|Hosea 4:10 >>]]</td></tr></table>
 
 

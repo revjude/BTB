@@ -6,21 +6,21 @@ To You, O LORD, I call, for fire has consumed the open pastures and flames have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.18|<< Joel 1:18]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.20|Joel 1:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to you  | <span class="ashebrew"><big>אֵלֶ֥י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I call  | <span class="ashebrew"><big>אֶקְרָ֑א </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| 'ek.Ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fire  | <span class="ashebrew"><big>אֵ֗שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has consumed  | <span class="ashebrew"><big>אָֽכְלָה֙ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.khe.Lah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pastures of  | <span class="ashebrew"><big>נְא֣וֹת </big></span><small><small><sup>[[H4999]]</sup></small></small> &#8207;| ne.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness  | <span class="ashebrew"><big>מִדְבָּ֔ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a flame  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֶ֣הָבָ֔ה </big></span><small><small><sup>[[H3852]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Le.ha.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has set ablaze  | <span class="ashebrew"><big>לִהֲטָ֖ה </big></span><small><small><sup>[[H3857]]</sup></small></small> &#8207;| li.ha.Tah <small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] trees of  | <span class="ashebrew"><big>עֲצֵ֥י </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'a.Tzei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶֽה </big></span><small><small><sup>[[H7704G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H0413\|אֵלֶ֥י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I call  |**<big>&#8207;[[H7121G\|אֶקְרָ֑א]]&#8207; </big>**| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵ֗שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has consumed  |**<big>&#8207;[[H0398\|אָֽכְלָה֙]]&#8207; </big>**| 'a.khe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pastures of  |**<big>&#8207;[[H4999\|נְא֣וֹת]]&#8207; </big>**| ne.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּ֔ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a flame  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3852\|לֶ֣הָבָ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Le.ha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has set ablaze  |**<big>&#8207;[[H3857\|לִהֲטָ֖ה]]&#8207; </big>**| li.ha.Tah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] trees of  |**<big>&#8207;[[H6086H\|עֲצֵ֥י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.18|<< Joel 1:18]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.20|Joel 1:20 >>]]</td></tr></table>
 
 

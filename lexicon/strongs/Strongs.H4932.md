@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁנֶה‎</span></big> **mishneh** <small>*(mish-neh')*</small> ==**Second [Quarter]**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁנָה‎</span><sup><small>[[H8138]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁנֶה‎</span></big>** **mishneh** <small>*(mish-neh')*</small> ==**Second [Quarter]**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8138|‎שָׁנָה‎]]</big>**</small>
 
 $\quad$ college, copy, double, fatlings, next, second (order), twice as much.
 - properly, ***a repetition***, i.e. ***a duplicate*** (copy of a document), or ***a double*** (in amount)
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1c1)** second rank
 $\quad$ $\quad$ **1c2)** second in age
 $\quad$ **1d)** second quarter or district
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαδέχομαι</span><sup><small>[[G1237]]</small></sup> · <span class="asgreek">διάδοχος</span><sup><small>[[G1240]]</small></sup> · <span class="asgreek">διπλοῦς</span><sup><small>[[G1362]]</small></sup>
+<small>See Greek: </small>**<big>[[G1237|διαδέχομαι]]</big>** · **<big>[[G1240|διάδοχος]]</big>** · **<big>[[G1362|διπλοῦς]]</big>**

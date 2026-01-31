@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ζέω‎</span></big> **zéō** <small>*(dzeh'-o)*</small> ==**be fervent**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎ζέω‎</span></big>** **zéō** <small>*(dzeh'-o)*</small> ==**be fervent**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ be fervent.

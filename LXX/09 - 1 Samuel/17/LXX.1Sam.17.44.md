@@ -7,30 +7,30 @@ And the Philistine said to David, Come to me, and I will give thy flesh unto the
 “Come here,” he called to David, “and I will give your flesh to the birds of the air and the beasts of the field!”<small><sub>**MT:**</sub></small>
 [[1Sam.17.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.43|<< 1 Samuel 17:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.45|1 Samuel 17:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistine | <big><span class="asgreek">αλλόφυλος</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Come here | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] birds | <big><span class="asgreek">πετεινοίς</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρίοις</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Philistine | **<big>[[G0246\|αλλόφυλος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| Come here | **<big>[[G1204\|δεύρο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your flesh | **<big>[[G4561\|σάρκας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| \[the\] birds | **<big>[[G4071\|πετεινοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρίοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[1Sam.17.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.43|<< 1 Samuel 17:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.45|1 Samuel 17:45 >>]]</td></tr></table>
 
 

@@ -7,37 +7,37 @@ And he called for Moses and Aaron by night, and said, Rise up, [and] get you for
 Then Pharaoh summoned Moses and Aaron by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested.<small><sub>**MT:**</sub></small>
 [[Exod.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.30|<< Exodus 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.32|Exodus 12:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \[at\] night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Rise up, | <big><span class="asgreek">ανάστητε</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go forth | <big><span class="asgreek">εξέλθετε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| both | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Proceed | <big><span class="asgreek">βαδίζετε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| serve | <big><span class="asgreek">λατρεύετε</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God! | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| you say. | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh called | **<big>[[G2564\|εκάλεσε]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \[at\] night, | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Rise up, | **<big>[[G0450\|ανάστητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go forth | **<big>[[G1831\|εξέλθετε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| both | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Proceed | **<big>[[G6642\|βαδίζετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| serve | **<big>[[G3000\|λατρεύετε]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God! | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| you say. | **<big>[[G3004\|λέγετε]]</big>** |
 [[Exod.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.30|<< Exodus 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.32|Exodus 12:32 >>]]</td></tr></table>
 
 

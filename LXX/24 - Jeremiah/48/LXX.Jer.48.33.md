@@ -7,29 +7,29 @@ And joy and gladness is taken from the plentiful field, and from the land of Moa
 Joy and gladness are removed from the orchard and from the fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy; their shouts are not for joy.<small><sub>**MT:**</sub></small>
 [[Jer.48.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.32|<< Jeremiah 48:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.34|Jeremiah 48:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| was seized | <big><span class="asgreek">συνελήφθη</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| Cause for joy | <big><span class="asgreek">χαρμονή</span></big> <sup><small><small>[[G9704]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Carmel, | <big><span class="asgreek">Καρμήλου</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] Moabites; | <big><span class="asgreek">Μωαβίτιδος</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| your wine vats | <big><span class="asgreek">ληνοίς</span></big> <sup><small><small>[[G3025]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[by\] morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| they treaded not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επάτησαν</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| at evening. | <big><span class="asgreek">δείλης</span></big> <sup><small><small>[[G6788]]</small></small></sup> |
-| They did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| make | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a joyful acclamation. | <big><span class="asgreek">αιδέδ</span></big> <sup><small><small>[[G6155]]</small></small></sup> |
+| was seized | **<big>[[G4815\|συνελήφθη]]</big>** |
+| Cause for joy | **<big>[[G9704\|χαρμονή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Carmel, | **<big>[[H3760\|Καρμήλου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] Moabites; | **<big>[[H4124\|Μωαβίτιδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| your wine vats | **<big>[[G3025\|ληνοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[by\] morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| they treaded not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3961\|επάτησαν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| at evening. | **<big>[[G6788\|δείλης]]</big>** |
+| They did not | **<big>[[G3756\|ουκ]]</big>** |
+| make | **<big>[[G4160\|εποίησαν]]</big>** |
+| a joyful acclamation. | **<big>[[G6155\|αιδέδ]]</big>** |
 [[Jer.48.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.32|<< Jeremiah 48:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.34|Jeremiah 48:34 >>]]</td></tr></table>
 
 

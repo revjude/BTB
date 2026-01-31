@@ -7,41 +7,41 @@ Thus saith the LORD; Execute ye judgment and righteousness, and deliver the spoi
 This is what the LORD says: Administer justice and righteousness. Rescue the victim of robbery from the hand of his oppressor. Do no wrong or violence to the foreigner, the fatherless, or the widow. Do not shed innocent blood in this place.<small><sub>**MT:**</sub></small>
 [[Jer.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.2|<< Jeremiah 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.4|Jeremiah 22:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Execute | <big><span class="asgreek">ποιείτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rescue | <big><span class="asgreek">εξαιρείσθε</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| the one being plundered | <big><span class="asgreek">διηρπασμένον</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the one wronging | <big><span class="asgreek">αδικούντος</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] foreigner, | <big><span class="asgreek">προσήλυτον</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| orphan, | <big><span class="asgreek">ορφανόν</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| widow, | <big><span class="asgreek">χήραν</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| tyrannize! | <big><span class="asgreek">καταδυναστεύετε</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be impious! | <big><span class="asgreek">ασεβείτε</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| innocent | <big><span class="asgreek">αθώον</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| pour out | <big><span class="asgreek">εκχέητε</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place. | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Execute | **<big>[[G4160\|ποιείτε]]</big>** |
+| equity | **<big>[[G2917\|κρίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rescue | **<big>[[G1807\|εξαιρείσθε]]</big>** |
+| the one being plundered | **<big>[[G1283\|διηρπασμένον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the one wronging | **<big>[[G0091\|αδικούντος]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] foreigner, | **<big>[[G4339\|προσήλυτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| orphan, | **<big>[[G3737\|ορφανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| widow, | **<big>[[G5503\|χήραν]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| tyrannize! | **<big>[[G2616\|καταδυναστεύετε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| be impious! | **<big>[[G0764\|ασεβείτε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| innocent | **<big>[[G0121\|αθώον]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| pour out | **<big>[[G1632\|εκχέητε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place. | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
 [[Jer.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.2|<< Jeremiah 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.4|Jeremiah 22:4 >>]]</td></tr></table>
 
 

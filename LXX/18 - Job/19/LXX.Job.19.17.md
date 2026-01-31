@@ -7,16 +7,16 @@ My breath is strange to my wife, though I intreated for the children’s [sake] 
 My breath is repulsive to my wife, and I am loathsome to my own family.<small><sub>**MT:**</sub></small>
 [[Job.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.16|<< Job 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.18|Job 19:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I entreated | <big><span class="asgreek">ικέτευον</span></big> <sup><small><small>[[G7714]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wife; | <big><span class="asgreek">γυναίκά</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I called -- | <big><span class="asgreek">προσεκαλούμην</span></big> <sup><small><small>[[G4341]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| flattering | <big><span class="asgreek">κολακεύων</span></big> <sup><small><small>[[G8048]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of my concubines. | <big><span class="asgreek">παλλακίδων</span></big> <sup><small><small>[[G8590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I entreated | **<big>[[G7714\|ικέτευον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my wife; | **<big>[[G1135\|γυναίκά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and I called -- | **<big>[[G4341\|προσεκαλούμην]]</big>** **<big>[[G1161\|δε]]</big>** |
+| flattering | **<big>[[G8048\|κολακεύων]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιούς]]</big>** |
+| of my concubines. | **<big>[[G8590\|παλλακίδων]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Job.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.16|<< Job 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.18|Job 19:18 >>]]</td></tr></table>
 
 

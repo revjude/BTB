@@ -7,19 +7,19 @@ For he shall deliver the needy when he crieth; the poor also, and [him] that hat
 For he will deliver the needy who cry out and the afflicted who have no helper.<small><sub>**MT:**</sub></small>
 [[Ps.72.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.11|<< Psalm 72:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.13|Psalm 72:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he rescued | <big><span class="asgreek">ερρύσατο</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mighty one, | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] needy one | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| no | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| existed | <big><span class="asgreek">υπήρχε</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he rescued | **<big>[[G4506\|ερρύσατο]]</big>** |
+| \[the\] poor | **<big>[[G4434\|πτωχόν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] mighty one, | **<big>[[G1413\|δυνάστου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] needy one | **<big>[[G3993\|πένητα]]</big>** |
+| in whom | **<big>[[G3739\|ω]]</big>** |
+| no | **<big>[[G3756\|ουχ]]</big>** |
+| existed | **<big>[[G5225\|υπήρχε]]</big>** |
+| helper | **<big>[[G0998\|βοηθός]]</big>** |
 [[Ps.72.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.11|<< Psalm 72:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.13|Psalm 72:13 >>]]</td></tr></table>
 
 

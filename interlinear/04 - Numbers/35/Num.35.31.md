@@ -6,20 +6,20 @@ You are not to accept a ransom for the life of a murderer who deserves to die; h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.30|<< Numbers 35:30]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.32|Numbers 35:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will take  | <span class="ashebrew"><big>תִקְח֥וּ </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| tik.Chu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ransom  | <span class="ashebrew"><big>כֹ֙פֶר֙ </big></span><small><small><sup>[[H3724A]]</sup></small></small> &#8207;| kho.fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] life of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נֶ֣פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ne.fesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a killer  | <span class="ashebrew"><big>רֹצֵ֔חַ </big></span><small><small><sup>[[H7523]]</sup></small></small> &#8207;| ro.Tze.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֥וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] guilty  | <span class="ashebrew"><big>רָשָׁ֖ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to die  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מ֑וּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Mut <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to die>  | <span class="ashebrew"><big>מ֖וֹת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| Mot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be put to death  | <span class="ashebrew"><big>יוּמָֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yu.Mat <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will take  |**<big>&#8207;[[H3947H\|תִקְח֥וּ]]&#8207; </big>**| tik.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ransom  |**<big>&#8207;[[H3724A\|כֹ֙פֶר֙]]&#8207; </big>**| kho.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] life of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5315H\|נֶ֣פֶשׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a killer  |**<big>&#8207;[[H7523\|רֹצֵ֔חַ]]&#8207; </big>**| ro.Tze.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] guilty  |**<big>&#8207;[[H7563\|רָשָׁ֖ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to die  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4191\|מ֑וּת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mut<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to die>  |**<big>&#8207;[[H4191\|מ֖וֹת]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be put to death  |**<big>&#8207;[[H4191\|יוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yu.Mat<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.30|<< Numbers 35:30]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.32|Numbers 35:32 >>]]</td></tr></table>
 
 

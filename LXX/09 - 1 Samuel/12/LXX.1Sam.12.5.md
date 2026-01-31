@@ -7,34 +7,34 @@ And he said unto them, The LORD [is] witness against you, and his anointed [is] 
 Samuel said to them, “The LORD is a witness against you, and His anointed is a witness today, that you have not found anything in my hand.” “He is a witness,” they replied.<small><sub>**MT:**</sub></small>
 [[1Sam.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.4|<< 1 Samuel 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.6|1 Samuel 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> \[is\] witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[is\] witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his anointed one | <big><span class="asgreek">χριστός</span></big> <sup><small><small>[[G5547]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you have not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| found | <big><span class="asgreek">ευρήκατε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| anything. | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[He is\] witness. | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> \[is\] witness | **<big>[[G3144\|μάρτυς]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[is\] witness | **<big>[[G3144\|μάρτυς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his anointed one | **<big>[[G5547\|χριστός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this | **<big>[[G3778\|ταύτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day, | **<big>[[G2250\|ημέρα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you have not | **<big>[[G3756\|ουχ]]</big>** |
+| found | **<big>[[G2147\|ευρήκατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| anything. | **<big>[[G3762\|ουδέν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| \[He is\] witness. | **<big>[[G3144\|μάρτυς]]</big>** |
 [[1Sam.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.4|<< 1 Samuel 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.6|1 Samuel 12:6 >>]]</td></tr></table>
 
 

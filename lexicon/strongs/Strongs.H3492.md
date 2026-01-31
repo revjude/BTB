@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַתִּיר‎</span></big> **Yattîyr** <small>*(yat-teer')*</small> ==**Jattir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָתַר‎</span><sup><small>[[H3498]]</small></sup>; redundant</small>
+**<big><span class="ashebrew">‎יַתִּיר‎</span></big>** **Yattîyr** <small>*(yat-teer')*</small> ==**Jattir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3498|‎יָתַר‎]]</big>**; redundant</small>
 
 $\quad$ Jattir.
 - § Jattir = *"plenty"*

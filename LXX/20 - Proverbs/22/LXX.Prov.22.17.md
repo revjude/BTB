@@ -7,24 +7,24 @@ Bow down thine ear, and hear the words of the wise, and apply thine heart unto m
 Incline your ear and hear the words of the wise—apply your mind to my knowledge—<small><sub>**MT:**</sub></small>
 [[Prov.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.16|<< Proverbs 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.18|Proverbs 22:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to \[the\] words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] wise | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| Set aside | <big><span class="asgreek">παράβαλλε</span></big> <sup><small><small>[[G3846]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| my | <big><span class="asgreek">εμών</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| words! | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your | <big><span class="asgreek">σην</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| set | <big><span class="asgreek">επίστησον</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should know! | <big><span class="asgreek">γνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| to \[the\] words | **<big>[[G3056\|λόγοις]]</big>** |
+| of \[the\] wise | **<big>[[G4680\|σοφών]]</big>** |
+| Set aside | **<big>[[G3846\|παράβαλλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hear | **<big>[[G0191\|άκουε]]</big>** |
+| my | **<big>[[G1699\|εμών]]</big>** |
+| words! | **<big>[[G3056\|λόγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| your | **<big>[[G4674\|σην]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| set | **<big>[[G2186\|επίστησον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should know! | **<big>[[G1097\|γνως]]</big>** |
 [[Prov.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.16|<< Proverbs 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.18|Proverbs 22:18 >>]]</td></tr></table>
 
 

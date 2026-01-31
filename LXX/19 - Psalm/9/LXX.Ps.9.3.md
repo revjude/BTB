@@ -7,21 +7,21 @@ When mine enemies are turned back, they shall fall and perish at thy presence.
 When my enemies retreat, they stumble and perish before You.<small><sub>**MT:**</sub></small>
 [[Ps.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.2|<< Psalm 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.4|Psalm 9:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turning | <big><span class="asgreek">αποστραφήναι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my enemy | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear, | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| they shall weaken | <big><span class="asgreek">ασθενήσουσι</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be destroyed | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| your face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| turning | **<big>[[G0654\|αποστραφήναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of my enemy | **<big>[[G2190\|εχθρόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear, | **<big>[[G3694\|οπίσω]]</big>** |
+| they shall weaken | **<big>[[G0770\|ασθενήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be destroyed | **<big>[[G0622\|απολούνται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| your face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.2|<< Psalm 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.4|Psalm 9:4 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Woman living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Naomi</span>, also known as Mara, was an Israelite woman who, after losing her husband and sons, returned from Moab to Bethlehem with her daughter-in-law Ruth.
 - A woman living before Israel's Monarchy, first mentioned at [[Luke.3.25|Rut.1.2]]; 
-- referred to as Naomi<[[H5281]]> \(<span class='tipnrLangHebrew'>נ</span>ׇ<span class='tipnrLangHebrew'>ע</span>ֳ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Mara<[[H4755]]> \(<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>\); 
-- wife of Elimelech<[[H0458]]>; 
--  mother of Mahlon<[[H4248]]> and Chilion<[[H3630]]>.
+- referred to as Naomi **<big>[[H5281|נׇעֳמִי]]</big>**, or Mara **<big>[[H4755|מָרָא]]</big>**; 
+- wife of Elimelech **<big>[[H0458|אֱלִימֶלֶךְ]]</big>**; 
+-  mother of Mahlon **<big>[[H4248|מַחְלוֹן]]</big>** and Chilion **<big>[[H3630|כִּלְיוֹן]]</big>**.
 
 Naomi, later known as Mara, was an Israelite woman from Bethlehem who played a significant role in the Book of Ruth. She was the wife of Elimelech and the mother of Mahlon and Chilion. 
 
@@ -22,9 +22,9 @@ Naomi's story is one of loss, faithfulness, and redemption. Her journey from bit
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naomi | [<span class='tipnrLangHebrew'>נ</span>ׇ<span class='tipnrLangHebrew'>ע</span>ֳ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H5281) <small>*Hebrew*</small> | 21x | [[Rut.1.2] ... [Rut.4.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naomi\*\|reference=Rut.1.2;Rut.1.3;Rut.1.8;Rut.1.11;Rut.1.19;Rut.1.20;Rut.1.21;Rut.1.22;Rut.2.1;Rut.2.2;Rut.2.6;Rut.2.20;Rut.2.20;Rut.2.22;Rut.3.1;Rut.4.3;Rut.4.5;Rut.4.9;Rut.4.14;Rut.4.16;Rut.4.17) |
-| Mara | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>](H4755) <small>*Hebrew*</small> | 1x | [Rut.1.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mara\*\|reference=Rut.1.20) |
-All Strong's for **Naomi or Mara**: \[[[H5281]]\] \[[[H4755]]\]
+| Naomi | [<span class='tipnrLangHebrew'>נ</span>ׇ<span class='tipnrLangHebrew'>ע</span>ֳ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H5281) | 21x | [[Rut.1.2] ... [Rut.4.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naomi\*\|reference=Rut.1.2;Rut.1.3;Rut.1.8;Rut.1.11;Rut.1.19;Rut.1.20;Rut.1.21;Rut.1.22;Rut.2.1;Rut.2.2;Rut.2.6;Rut.2.20;Rut.2.20;Rut.2.22;Rut.3.1;Rut.4.3;Rut.4.5;Rut.4.9;Rut.4.14;Rut.4.16;Rut.4.17) |
+| Mara | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>](H4755) | 1x | [Rut.1.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mara\*\|reference=Rut.1.20) |
+All entries for **Naomi or Mara**:  **<big>[[H5281|נׇעֳמִי]]</big>** ☩  **<big>[[H4755|מָרָא]]</big>**
 #### Related Profiles:
 - **[Elimelech](H0458)** (spouse)
 - **[Mahlon](H4248)** (child)

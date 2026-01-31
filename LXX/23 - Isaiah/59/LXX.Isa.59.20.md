@@ -11,19 +11,19 @@ And the Redeemer shall come to Zion, and unto them that turn from transgression 
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]] ☩ [[Rev.14.1|Rev 14:1]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rescuing | <big><span class="asgreek">ρυόμενος</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall turn | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| rescuing | **<big>[[G4506\|ρυόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall turn | **<big>[[G0654\|αποστρέψει]]</big>** |
+| impiety | **<big>[[G0763\|ασεβείας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Isa.59.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.19|<< Isaiah 59:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.21|Isaiah 59:21 >>]]</td></tr></table>
 
 

@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מָרָק‎</span></big> **mârâq** <small>*(maw-rawk')*</small> ==**broth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָרַק‎</span><sup><small>[[H4838]]</small></sup></small>
+**<big><span class="ashebrew">‎מָרָק‎</span></big>** **mârâq** <small>*(maw-rawk')*</small> ==**broth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4838|‎מָרַק‎]]</big>**</small>
 
-$\quad$ broth. See also <span class="ashebrew">‎פָּרָק‎</span><sup><small>[[H6564]]</small></sup>.
+$\quad$ broth. See also **<big>[[H6564|‎פָּרָק‎]]</big>**.
 - ***soup*** (as if a rinsing)
 
 **1)** broth, juice cooked from meat
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup>
+<small>See Greek: </small>**<big>[[G2513|καθαρός]]</big>**

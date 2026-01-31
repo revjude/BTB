@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צַדִּיק‎</span></big> **tsaddîyq** <small>*(tsad-deek')*</small> ==**righteous**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎צָדַק‎</span><sup><small>[[H6663]]</small></sup></small>
+**<big><span class="ashebrew">‎צַדִּיק‎</span></big>** **tsaddîyq** <small>*(tsad-deek')*</small> ==**righteous**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6663|‎צָדַק‎]]</big>**</small>
 
 $\quad$ just, lawful, righteous (man).
 - ***just***
@@ -11,4 +11,4 @@ $\quad$ **1c)** just, righteous (in conduct and character)
 $\quad$ **1d)** righteous (as justified and vindicated by God)
 $\quad$ **1e)** right, correct, lawful
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδίκως</span><sup><small>[[G0095]]</small></sup> · <span class="asgreek">ἀληθής</span><sup><small>[[G0227]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δικαιοσύνη</span><sup><small>[[G1343]]</small></sup> · <span class="asgreek">εὐσεβής</span><sup><small>[[G2152]]</small></sup> · <span class="asgreek">πιστός</span><sup><small>[[G4103]]</small></sup>
+<small>See Greek: </small>**<big>[[G0095|ἀδίκως]]</big>** · **<big>[[G0227|ἀληθής]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1343|δικαιοσύνη]]</big>** · **<big>[[G2152|εὐσεβής]]</big>** · **<big>[[G4103|πιστός]]</big>**

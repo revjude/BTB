@@ -10,37 +10,37 @@ Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman 
 Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.<small><sub>**MT:**</sub></small>
 [[Ruth.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.18|<< Ruth 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.2|Ruth 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate, | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relative | <big><span class="asgreek">αγχιστεύς</span></big> <sup><small><small>[[G6130]]</small></small></sup> |
-| came near | <big><span class="asgreek">παρεπορεύετο</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Boaz spoke of. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| In turning aside, | <big><span class="asgreek">εκκλίνας</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| sit | <big><span class="asgreek">κάθισον</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| in private! | <big><span class="asgreek">κρύφιε</span></big> <sup><small><small>[[G8107]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he turned aside, | <big><span class="asgreek">εξέκλινε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat. | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Boaz | **<big>[[G1003\|Βοόζ]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate, | **<big>[[G4439\|πύλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| relative | **<big>[[G6130\|αγχιστεύς]]</big>** |
+| came near | **<big>[[G3899\|παρεπορεύετο]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| Boaz spoke of. | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G1003\|Βοόζ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Boaz | **<big>[[G1003\|Βοόζ]]</big>** |
+| In turning aside, | **<big>[[G1578\|εκκλίνας]]</big>** |
+| sit | **<big>[[G2523\|κάθισον]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| in private! | **<big>[[G8107\|κρύφιε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he turned aside, | **<big>[[G1578\|εξέκλινε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sat. | **<big>[[G2523\|εκάθισε]]</big>** |
 [[Ruth.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.18|<< Ruth 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.2|Ruth 4:2 >>]]</td></tr></table>
 
 

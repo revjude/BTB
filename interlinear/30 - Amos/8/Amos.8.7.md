@@ -6,17 +6,17 @@ The LORD has sworn by the Pride of Jacob: “I will never forget any of their de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.6|<< Amos 8:6]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.8|Amos 8:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he has sworn  | <span class="ashebrew"><big>נִשְׁבַּ֥ע </big></span><small><small><sup>[[H7650]]</sup></small></small> &#8207;| nish.Ba' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] pride of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גְא֣וֹן </big></span><small><small><sup>[[H1347]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> g.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֑ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will forget  | <span class="ashebrew"><big>אֶשְׁכַּ֥ח </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| 'esh.Kach <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to perpetuity  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נֶ֖צַח </big></span><small><small><sup>[[H5331]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Ne.tzach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deeds their  | <span class="ashebrew"><big>מַעֲשֵׂי </big></span><small><small><sup>[[H4639K]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.'a.sei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has sworn  |**<big>&#8207;[[H7650\|נִשְׁבַּ֥ע]]&#8207; </big>**| nish.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] pride of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1347\|גְא֣וֹן]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֑ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will forget  |**<big>&#8207;[[H7911\|אֶשְׁכַּ֥ח]]&#8207; </big>**| 'esh.Kach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to perpetuity  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5331\|נֶ֖צַח]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deeds their  |**<big>&#8207;[[H4639K\|מַעֲשֵׂי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.'a.sei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.6|<< Amos 8:6]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.8|Amos 8:8 >>]]</td></tr></table>
 
 

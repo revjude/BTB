@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁפֶךְ‎</span></big> **shephek** <small>*(sheh'-fek)*</small> ==**pouring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַךְ‎</span><sup><small>[[H8210]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁפֶךְ‎</span></big>** **shephek** <small>*(sheh'-fek)*</small> ==**pouring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8210|‎שָׁפַךְ‎]]</big>**</small>
 
 $\quad$ are poured out.
 - ***an emptying place***, e.g. ***an ash-heap***

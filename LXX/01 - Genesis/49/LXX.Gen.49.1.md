@@ -10,27 +10,27 @@ And Jacob called unto his sons, and said, Gather yourselves together, that I may
 Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come:<small><sub>**MT:**</sub></small>
 [[Gen.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.22|<< Genesis 48:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.2|Genesis 49:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Come together | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| may announce | <big><span class="asgreek">αναγγείλω</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will meet | <big><span class="asgreek">απαντήσει</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] last | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days! | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| Come together | **<big>[[G4863\|συνάχθητε]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| may announce | **<big>[[G0312\|αναγγείλω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| will meet | **<big>[[G0528\|απαντήσει]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] last | **<big>[[G2078\|εσχάτου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days! | **<big>[[G2250\|ημερών]]</big>** |
 [[Gen.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.22|<< Genesis 48:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.2|Genesis 49:2 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ As a woman with child about to give birth writhes and cries out in pain, so were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| like  | <span class="ashebrew"><big>כְּמ֤וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> &#8207;| ke.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a pregnant [woman]  | <span class="ashebrew"><big>הָרָה֙ </big></span><small><small><sup>[[H2030A]]</sup></small></small> &#8207;| ha.Rah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] she brings near  | <span class="ashebrew"><big>תַּקְרִ֣יב </big></span><small><small><sup>[[H7126G]]</sup></small></small> &#8207;| tak.Riv <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to give birth  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>לֶ֔דֶת </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Le.det <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she is in labor  | <span class="ashebrew"><big>תָּחִ֥יל </big></span><small><small><sup>[[H2342I]]</sup></small></small> &#8207;| ta.Chil <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she cries out  | <span class="ashebrew"><big>תִּזְעַ֖ק </big></span><small><small><sup>[[H2199]]</sup></small></small> &#8207;| tiz.'Ak <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in labor-pains her  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֲבָלֶ֑י </big></span><small><small><sup>[[H2256B]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> cha.va.Lei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֛ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we were  | <span class="ashebrew"><big>הָיִ֥ינוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yi.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because of you  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פָּנֶ֖י </big></span><small><small><sup>[[H6440I]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמ֤וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pregnant [woman]  |**<big>&#8207;[[H2030A\|הָרָה֙]]&#8207; </big>**| ha.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] she brings near  |**<big>&#8207;[[H7126G\|תַּקְרִ֣יב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give birth  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3205\|לֶ֔דֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she is in labor  |**<big>&#8207;[[H2342I\|תָּחִ֥יל]]&#8207; </big>**| ta.Chil<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she cries out  |**<big>&#8207;[[H2199\|תִּזְעַ֖ק]]&#8207; </big>**| tiz.'Ak<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in labor-pains her  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2256B\|חֲבָלֶ֑י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.va.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֛ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we were  |**<big>&#8207;[[H1961\|הָיִ֥ינוּ]]&#8207; </big>**| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פָּנֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
 

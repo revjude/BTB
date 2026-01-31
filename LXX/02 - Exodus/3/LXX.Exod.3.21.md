@@ -7,20 +7,20 @@ And I will give this people favour in the sight of the Egyptians: and it shall c
 And I will grant this people such favor in the sight of the Egyptians that when you leave, you will not go away empty-handed.<small><sub>**MT:**</sub></small>
 [[Exod.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.20|<< Exodus 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.22|Exodus 3:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians. | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you might run from \[them\], | <big><span class="asgreek">αποτρέχητε</span></big> <sup><small><small>[[G6503]]</small></small></sup> |
-| you will not go forth | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">απελεύσεσθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| empty. | <big><span class="asgreek">κενοί</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Egyptians. | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| And whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you might run from \[them\], | **<big>[[G6503\|αποτρέχητε]]</big>** |
+| you will not go forth | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0565\|απελεύσεσθε]]</big>** |
+| empty. | **<big>[[G2756\|κενοί]]</big>** |
 [[Exod.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.20|<< Exodus 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.22|Exodus 3:22 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ And all the people that [were] in Ai were called together to pursue after them: 
 Then all the men of Ai were summoned to pursue them, and they followed Joshua and were drawn away from the city.<small><sub>**MT:**</sub></small>
 [[Josh.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.15|<< Joshua 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.17|Joshua 8:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the people\] fled | <big><span class="asgreek">έφυγεν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| \[by the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grew in strength | <big><span class="asgreek">ενίσχυσε</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ai | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to pursue | <big><span class="asgreek">καταδιώξαι</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| departed | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the people\] fled | **<big>[[G5343\|έφυγεν]]</big>** |
+| \[by the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grew in strength | **<big>[[G1765\|ενίσχυσε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Ai | **<big>[[H5857\|Γαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to pursue | **<big>[[G2614\|καταδιώξαι]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| departed | **<big>[[G0868\|απέστησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Josh.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.15|<< Joshua 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.17|Joshua 8:17 >>]]</td></tr></table>
 
 

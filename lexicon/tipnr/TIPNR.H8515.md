@@ -1,8 +1,8 @@
 <small>*Telassar • Mesopotamian city conquered by the Assyrians*</small>
 
 <span class='tipnrhighlight'>Telassar</span>, a Mesopotamian city conquered by the Assyrians, mentioned in the context of Sennacherib's boasting \(2 Kgs. 19:12; Isa. 37:12\).
-- A location near Susa<[[H7800]]> first mentioned at [[2Kgs.19.12|2Ki.19.12]]; 
-- only referred to as Telassar<[[H8515]]> \(<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>אש</span>ָּׂ֑<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Susa **<big>[[H7800|שׁוּשַׁן]]</big>** first mentioned at [[2Kgs.19.12|2Ki.19.12]]; 
+- only referred to as Telassar **<big>[[H8515|תְּלַאשַּׂר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.18919123705116,48.25788647687722&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Telassar is mentioned in [[2Kgs.19.12|2 Kings 19:12]] and [[Isa.37.12|Isaiah 37:
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Telassar | [<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>אש</span>ָּׂ֑<span class='tipnrLangHebrew'>ר</span>](H8515) <small>*Hebrew*</small> | 2x | [[2Ki.19.12] & [Isa.37.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Telassar\*\|reference=2Ki.19.12;Isa.37.12) |
-All Strong's for **Telassar**: \[[[H8515]]\]
+| Telassar | [<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>אש</span>ָּׂ֑<span class='tipnrLangHebrew'>ר</span>](H8515) | 2x | [[2Ki.19.12] & [Isa.37.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Telassar\*\|reference=2Ki.19.12;Isa.37.12) |
+All entries for **Telassar**:  **<big>[[H8515|תְּלַאשַּׂר]]</big>**

@@ -7,29 +7,29 @@ And Mahlon and Chilion died also both of them; and the woman was left of her two
 both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.<small><sub>**MT:**</sub></small>
 [[Ruth.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| died | <big><span class="asgreek">απέθανον</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| Mahlon | <big><span class="asgreek">Μααλών</span></big> <sup><small><small>[[H4248]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Chilion | <big><span class="asgreek">Χελεών</span></big> <sup><small><small>[[H3630]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was left | <big><span class="asgreek">κατελείφθη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband. | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| died | **<big>[[G0599\|απέθανον]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| Mahlon | **<big>[[H4248\|Μααλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Chilion | **<big>[[H3630\|Χελεών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was left | **<big>[[G2641\|κατελείφθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her husband. | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ruth.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
 
 

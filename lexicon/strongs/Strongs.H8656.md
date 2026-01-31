@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּרְצָה‎</span></big> **Tirtsâh** <small>*(teer-tsaw')*</small> ==**Tirzah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָצָה‎</span><sup><small>[[H7521]]</small></sup>; delightsomeness</small>
+**<big><span class="ashebrew">‎תִּרְצָה‎</span></big>** **Tirtsâh** <small>*(teer-tsaw')*</small> ==**Tirzah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H7521|‎רָצָה‎]]</big>**; delightsomeness</small>
 
 $\quad$ Tirzah.
 - § Tirzah = *"favourable"*

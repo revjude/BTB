@@ -10,40 +10,40 @@ And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, ki
 Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city.<small><sub>**MT:**</sub></small>
 [[Isa.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Ahaz | <big><span class="asgreek">Άχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| son of | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Jotham, | <big><span class="asgreek">Ιωαθάμ</span></big> <sup><small><small>[[G2488]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Uzziah | <big><span class="asgreek">Οζίου</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Rezin | <big><span class="asgreek">Ρασίν</span></big> <sup><small><small>[[H7526]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Aram, | <big><span class="asgreek">Αράμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pekah | <big><span class="asgreek">Φακεέ</span></big> <sup><small><small>[[H6492]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Remaliah, | <big><span class="asgreek">Ρομελίου</span></big> <sup><small><small>[[H7425]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| to wage war | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| with it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to assault | <big><span class="asgreek">πολιορκήσαι</span></big> <sup><small><small>[[G8843]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Ahaz | **<big>[[G0881\|Άχαζ]]</big>** |
+| son of | **<big>[[G5207\|υιού]]</big>** |
+| Jotham, | **<big>[[G2488\|Ιωαθάμ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Uzziah | **<big>[[G3604\|Οζίου]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Rezin | **<big>[[H7526\|Ρασίν]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Aram, | **<big>[[H7410\|Αράμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Pekah | **<big>[[H6492\|Φακεέ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Remaliah, | **<big>[[H7425\|Ρομελίου]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| to wage war | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| with it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδυνήθησαν]]</big>** |
+| to assault | **<big>[[G8843\|πολιορκήσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Isa.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 
 

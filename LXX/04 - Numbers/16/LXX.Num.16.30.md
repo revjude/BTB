@@ -7,44 +7,44 @@ But if the LORD make a new thing, and the earth open her mouth, and swallow them
 But if the LORD brings about something unprecedented, and the earth opens its mouth and swallows them and all that belongs to them so that they go down alive into Sheol, then you will know that these men have treated the LORD with contempt.”<small><sub>**MT:**</sub></small>
 [[Num.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.29|<< Numbers 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.31|Numbers 16:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a visible manifestation | <big><span class="asgreek">φάσματι</span></big> <sup><small><small>[[G9623]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall show, | <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| opening | <big><span class="asgreek">ανοίξασα</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall swallow | <big><span class="asgreek">καταπίεται</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their houses, | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tents, | <big><span class="asgreek">σκηνάς</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| theirs, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall go down | <big><span class="asgreek">καταβήσονται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| alive | <big><span class="asgreek">ζώντες</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades, | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώσεσθε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| provoked | <big><span class="asgreek">παρώξυναν</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But if | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a visible manifestation | **<big>[[G9623\|φάσματι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall show, | **<big>[[G1166\|δείξει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| opening | **<big>[[G0455\|ανοίξασα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall swallow | **<big>[[G2666\|καταπίεται]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their houses, | **<big>[[G3624\|οίκους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their tents, | **<big>[[G4633\|σκηνάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| theirs, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall go down | **<big>[[G2597\|καταβήσονται]]</big>** |
+| alive | **<big>[[G2198\|ζώντες]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades, | **<big>[[G0086\|άδου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall know | **<big>[[G1097\|γνώσεσθε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| provoked | **<big>[[G3947\|παρώξυναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these men | **<big>[[G0444\|άνθρωποι]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
 [[Num.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.29|<< Numbers 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.31|Numbers 16:31 >>]]</td></tr></table>
 
 

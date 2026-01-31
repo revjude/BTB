@@ -7,22 +7,22 @@ And the king, and all the people that [were] with him, came weary, and refreshed
 Finally, the king and all the people with him arrived, exhausted. And there he refreshed himself.<small><sub>**MT:**</sub></small>
 [[2Sam.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.13|<< 2 Samuel 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.15|2 Samuel 16:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being faint; | <big><span class="asgreek">εκλελυμένοι</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they refreshed | <big><span class="asgreek">ανέψυξαν</span></big> <sup><small><small>[[G0404]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G2064\|ήλθεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| being faint; | **<big>[[G1590\|εκλελυμένοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they refreshed | **<big>[[G0404\|ανέψυξαν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[2Sam.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.13|<< 2 Samuel 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.15|2 Samuel 16:15 >>]]</td></tr></table>
 
 

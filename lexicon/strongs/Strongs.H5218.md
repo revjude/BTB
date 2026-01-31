@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎נָכֵא‎</span></big> **nâkêʼ** <small>*(naw-kay')*</small> ==**stricken**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">נָכָא</span> **nâkâʼ** <small>*(naw-kaw')*</small>; from <span class="ashebrew">‎נָכָא‎</span><sup><small>[[H5217]]</small></sup></small>
+**<big><span class="ashebrew">‎נָכֵא‎</span></big>** **nâkêʼ** <small>*(naw-kay')*</small> ==**stricken**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">נָכָא</span></big>** **nâkâʼ** <small>*(naw-kaw')*</small>; from **<big>[[H5217|‎נָכָא‎]]</big>**</small>
 
 $\quad$ broken, stricken, wounded.
 - ***smitten***, i.e. (figuratively) ***afflicted***
 
 **1)** stricken
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σβέννυμι</span><sup><small>[[G4570]]</small></sup>
+<small>See Greek: </small>**<big>[[G4570|σβέννυμι]]</big>**

@@ -7,17 +7,17 @@ And he said, O my Lord, send, I pray thee, by the hand [of him whom] thou wilt s
 But Moses replied, “Please, Lord, send someone else.”<small><sub>**MT:**</sub></small>
 [[Exod.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.12|<< Exodus 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.14|Exodus 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| I beseech, | <big><span class="asgreek">δέομαι</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to handpick | <big><span class="asgreek">προχείρισαι</span></big> <sup><small><small>[[G4400]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| one able | <big><span class="asgreek">δυνάμενον</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall send. | <big><span class="asgreek">αποστελείς</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| I beseech, | **<big>[[G1189\|δέομαι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| to handpick | **<big>[[G4400\|προχείρισαι]]</big>** |
+| another | **<big>[[G0243\|άλλον]]</big>** |
+| one able | **<big>[[G1410\|δυνάμενον]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you shall send. | **<big>[[G0649\|αποστελείς]]</big>** |
 [[Exod.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.12|<< Exodus 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.14|Exodus 4:14 >>]]</td></tr></table>
 
 

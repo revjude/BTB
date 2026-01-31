@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עַיִט‎</span></big> **ʻayiṭ** <small>*(ah'-yit)*</small> ==**bird of prey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עִיט‎</span><sup><small>[[H5860]]</small></sup></small>
+**<big><span class="ashebrew">‎עַיִט‎</span></big>** **ʻayiṭ** <small>*(ah'-yit)*</small> ==**bird of prey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5860|‎עִיט‎]]</big>**</small>
 
 $\quad$ bird, fowl, ravenous (bird).
 - ***a hawk*** or ***other bird of prey***
 
 **1)** bird of prey, a swooper
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὄρνεον</span><sup><small>[[G3732]]</small></sup> · <span class="asgreek">πετεινόν</span><sup><small>[[G4071]]</small></sup>
+<small>See Greek: </small>**<big>[[G3732|ὄρνεον]]</big>** · **<big>[[G4071|πετεινόν]]</big>**

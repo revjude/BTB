@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎דִּיבוֹן‎</span></big> **Dîybôwn** <small>*(dee-bome')*</small> ==**Dibon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">דִּיבֹן</span> **Dîybôn** <small>*(dee-bone')*</small>; from <span class="ashebrew">‎דּוּב‎</span><sup><small>[[H1727]]</small></sup>; pining</small>
+**<big><span class="ashebrew">‎דִּיבוֹן‎</span></big>** **Dîybôwn** <small>*(dee-bome')*</small> ==**Dibon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">דִּיבֹן</span></big>** **Dîybôn** <small>*(dee-bone')*</small>; from **<big>[[H1727|‎דּוּב‎]]</big>**; pining</small>
 
-$\quad$ Dibon. (Also, with <span class="ashebrew">‎גָּד‎</span><sup><small>[[H1410]]</small></sup> added, Dibon-gad.)
+$\quad$ Dibon. (Also, with **<big>[[H1410|‎גָּד‎]]</big>** added, Dibon-gad.)
 - § Dibon = *"wasting"*
 - ***Dibon***, the name of three places in Palestine
 

@@ -7,55 +7,55 @@ And it came to pass, when the king of Ai saw [it], that they hasted and rose up 
 When the king of Ai saw the Israelites, he hurried out early in the morning with the men of the city to engage them in battle at an appointed place overlooking the Arabah. But he did not know that an ambush had been set up against him behind the city.<small><sub>**MT:**</sub></small>
 [[Josh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.13|<< Joshua 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.15|Joshua 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Ai | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hastened | <big><span class="asgreek">έσπευσε</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose early. | <big><span class="asgreek">ώρθρισε</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there went forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| straight on | <big><span class="asgreek">επ</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">ευθείας</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opportune \[time\], | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Araba. | <big><span class="asgreek">Αραβά</span></big> <sup><small><small>[[H6160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an ambush | <big><span class="asgreek">ένεδρα</span></big> <sup><small><small>[[G1747]]</small></small></sup> |
-| against him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| beheld | **<big>[[G1492\|είδεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Ai | **<big>[[H5857\|Γαί]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he hastened | **<big>[[G4692\|έσπευσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rose early. | **<big>[[G3719\|ώρθρισε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there went forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| straight on | **<big>[[G1909\|επ]]</big>** **<big>[[G2117\|ευθείας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| battle, | **<big>[[G4171\|πόλεμον]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| opportune \[time\], | **<big>[[G2540\|καιρόν]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| Araba. | **<big>[[H6160\|Αραβά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδει]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| an ambush | **<big>[[G1747\|ένεδρα]]</big>** |
+| against him | **<big>[[G1473\|αυτώ]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Josh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.13|<< Joshua 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.15|Joshua 8:15 >>]]</td></tr></table>
 
 

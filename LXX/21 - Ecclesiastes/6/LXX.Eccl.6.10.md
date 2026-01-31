@@ -7,26 +7,26 @@ That which hath been is named already, and it is known that it [is] man: neither
 Whatever exists was named long ago, and it is known what man is; but he cannot contend with one stronger than he.<small><sub>**MT:**</sub></small>
 [[Eccl.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If anything | <big><span class="asgreek">ει τι</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
-| became, | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| already | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
-| has been called | <big><span class="asgreek">κέκληται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| its name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it is known | <big><span class="asgreek">εγνώσθη</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| man is, | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to judge | <big><span class="asgreek">κριθήναι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| against | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stronger | <big><span class="asgreek">ισχυρού</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| he. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If anything | **<big>[[G1536\|ει τι]]</big>** |
+| became, | **<big>[[G1096\|εγένετο]]</big>** |
+| already | **<big>[[G2235\|ήδη]]</big>** |
+| has been called | **<big>[[G2564\|κέκληται]]</big>** |
+| its name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it is known | **<big>[[G1097\|εγνώσθη]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| man is, | **<big>[[G1510\|εστίν]]</big>** **<big>[[G0444\|άνθρωπος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he is not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| to judge | **<big>[[G2919\|κριθήναι]]</big>** |
+| against | **<big>[[G3326\|μετά]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| stronger | **<big>[[G2478\|ισχυρού]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| he. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Eccl.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
 

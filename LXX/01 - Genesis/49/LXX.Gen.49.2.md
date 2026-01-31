@@ -7,17 +7,17 @@ Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel 
 Come together and listen, O sons of Jacob; listen to your father Israel.<small><sub>**MT:**</sub></small>
 [[Gen.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.1|<< Genesis 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.3|Genesis 49:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Gather | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hear, | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father! | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Gather | **<big>[[G4863\|συνάχθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hear, | **<big>[[G0191\|ακούσατε]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your father! | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Gen.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.1|<< Genesis 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.3|Genesis 49:3 >>]]</td></tr></table>
 
 

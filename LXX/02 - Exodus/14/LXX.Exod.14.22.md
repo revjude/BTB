@@ -11,30 +11,30 @@ and the Israelites went through the sea on dry ground, with walls of water on th
 > $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]] ☩ [[Heb.11.29|Heb 11:29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| down on | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dry \[land\]. | <big><span class="asgreek">ξηρόν</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was a\] wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left. | <big><span class="asgreek">ευωνύμων</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| down on | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dry \[land\]. | **<big>[[G3584\|ξηρόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[its\] water | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[was a\] wall | **<big>[[G5038\|τείχος]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the right | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a wall | **<big>[[G5038\|τείχος]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left. | **<big>[[G2176\|ευωνύμων]]</big>** |
 [[Exod.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.21|<< Exodus 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.23|Exodus 14:23 >>]]</td></tr></table>
 
 

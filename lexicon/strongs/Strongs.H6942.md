@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָדַשׁ‎</span></big> **qâdash** <small>*(kaw-dash')*</small> ==**to consecrate: consecate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָדַשׁ‎</span></big>** **qâdash** <small>*(kaw-dash')*</small> ==**to consecrate: consecate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, bid, consecrate, dedicate, defile, hallow, (be, keep) holy(-er, place), keep, prepare, proclaim, purify, sanctify(-ied one, self), [idiom] wholly.
@@ -31,4 +31,4 @@ $\quad$ $\quad$ **1f2)** to cause Himself to be hallowed (of God)
 $\quad$ $\quad$ **1f3)** to be observed as holy
 $\quad$ $\quad$ **1f4)** to consecrate oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιάζω</span><sup><small>[[G0037]]</small></sup> · <span class="asgreek">ἁγιασμός</span><sup><small>[[G0038]]</small></sup> · <span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἁγνίζω</span><sup><small>[[G0048]]</small></sup> · <span class="asgreek">ἀναβιβάζω</span><sup><small>[[G0307]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">εἰσάγω</span><sup><small>[[G1521]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">παρασκευάζω</span><sup><small>[[G3903]]</small></sup>
+<small>See Greek: </small>**<big>[[G0037|ἁγιάζω]]</big>** · **<big>[[G0038|ἁγιασμός]]</big>** · **<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0048|ἁγνίζω]]</big>** · **<big>[[G0307|ἀναβιβάζω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1392|δοξάζω]]</big>** · **<big>[[G1521|εἰσάγω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G3903|παρασκευάζω]]</big>**

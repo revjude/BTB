@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָדַח‎</span></big> **nâdach** <small>*(naw-dakh')*</small> ==**to banish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָדַח‎</span></big>** **nâdach** <small>*(naw-dakh')*</small> ==**to banish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ banish, bring, cast down (out), chase, compel, draw away, drive (away, out, quite), fetch a stroke, force, go away, outcast, thrust away (out), withdraw.
@@ -24,4 +24,4 @@ $\quad$ $\quad$ **1d3)** to thrust away, thrust aside
 $\quad$ **1e)** (Hophal) to be chased, be hunted
 $\quad$ $\quad$ **1e1)** chased, hunted (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄπειμι</span><sup><small>[[G0548]]</small></sup> · <span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">ἀποπλανάω</span><sup><small>[[G0635]]</small></sup> · <span class="asgreek">ἀπωθέομαι</span><sup><small>[[G0683]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">διασπορά</span><sup><small>[[G1290]]</small></sup> · <span class="asgreek">ἐκβάλλω</span><sup><small>[[G1544]]</small></sup> · <span class="asgreek">ἐξωθέω</span><sup><small>[[G1856]]</small></sup> · <span class="asgreek">ἐπιβάλλω</span><sup><small>[[G1911]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup> · <span class="asgreek">σπείρω</span><sup><small>[[G4687]]</small></sup> · <span class="asgreek">φεύγω</span><sup><small>[[G5343]]</small></sup>
+<small>See Greek: </small>**<big>[[G0548|ἄπειμι]]</big>** · **<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G0635|ἀποπλανάω]]</big>** · **<big>[[G0683|ἀπωθέομαι]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G1290|διασπορά]]</big>** · **<big>[[G1544|ἐκβάλλω]]</big>** · **<big>[[G1856|ἐξωθέω]]</big>** · **<big>[[G1911|ἐπιβάλλω]]</big>** · **<big>[[G4105|πλανάω]]</big>** · **<big>[[G4687|σπείρω]]</big>** · **<big>[[G5343|φεύγω]]</big>**

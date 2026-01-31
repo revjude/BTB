@@ -7,40 +7,40 @@ Speak, I pray you, in the ears of all the men of Shechem, Whether [is] better fo
 “Please ask all the leaders of Shechem, ‘Is it better for you that seventy men, all the sons of Jerubbaal, rule over you, or just one man?’ Remember that I am your own flesh and blood.”<small><sub>**MT:**</sub></small>
 [[Judg.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.1|<< Judges 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.3|Judges 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">λαλήσατε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears | <big><span class="asgreek">ώσι</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Shechem, \[saying\], | <big><span class="asgreek">Σικήμων</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| Which \[is\] | <big><span class="asgreek">ποίον</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| best | <big><span class="asgreek">βέλτιον</span></big> <sup><small><small>[[G0957]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to rule | <big><span class="asgreek">άρχειν</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for\] seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jerubbaal, | <big><span class="asgreek">Ιεροβάαλ</span></big> <sup><small><small>[[H3380]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to dominate | <big><span class="asgreek">κυριεύειν</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[for\] one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should remember | <big><span class="asgreek">μνήσθητε</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| of your bone | <big><span class="asgreek">οστούν</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of your flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Speak | **<big>[[G2980\|λαλήσατε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| ears | **<big>[[G3775\|ώσι]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Shechem, \[saying\], | **<big>[[G4966\|Σικήμων]]</big>** |
+| Which \[is\] | **<big>[[G4169\|ποίον]]</big>** |
+| best | **<big>[[G0957\|βέλτιον]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to rule | **<big>[[G0756\|άρχειν]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| \[for\] seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Jerubbaal, | **<big>[[H3380\|Ιεροβάαλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to dominate | **<big>[[G2961\|κυριεύειν]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| \[for\] one | **<big>[[G1520\|ένα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you should remember | **<big>[[G3403\|μνήσθητε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| of your bone | **<big>[[G3747\|οστούν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of your flesh | **<big>[[G4561\|σαρξ]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| I am | **<big>[[G1510\|ειμί]]</big>** **<big>[[G1473\|εγώ]]</big>** |
 [[Judg.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.1|<< Judges 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.3|Judges 9:3 >>]]</td></tr></table>
 
 

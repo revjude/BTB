@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָרָה‎</span></big> **ʼârâh** <small>*(aw-raw')*</small> ==**to pluck**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָרָה‎</span></big>** **ʼârâh** <small>*(aw-raw')*</small> ==**to pluck**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gather, pluck.

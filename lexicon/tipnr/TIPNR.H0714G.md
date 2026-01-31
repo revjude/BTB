@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ard</span>, a son of Benjamin, is listed among the descendants of Jacob who went to Egypt during the famine.
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, only mentioned at [[Gen.46.21|Gen.46.21]]; 
-- only referred to as Ard<[[H0714G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ\); 
--  son of Benjamin<[[H1144G]]>; 
-- a brother of Bela<[[H1106A]]>, Becher<[[H1071G]]>, Ashbel<[[H0788]]>, Gera<[[H1617G]]>, Naaman<[[H5283G]]>, Ahiram<[[H0297]]>, Rosh<[[H7220]]>, Muppim<[[H4649]]>, Huppim<[[H2650H]]>, Ahiram<[[H0297]]> and Jediael<[[H3043G]]>.
+- only referred to as Ard **<big>[[H0714|אַרְדְּ]]</big>**; 
+-  son of Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+- a brother of Bela **<big>[[H1106|בֶּלַע]]</big>**, Becher **<big>[[H1071|בֶכֶר]]</big>**, Ashbel **<big>[[H0788|אַשְׁבֵּל]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>**, Rosh **<big>[[H7220|רֹאשׁ]]</big>**, Muppim **<big>[[H4649|מֻפִּים]]</big>**, Huppim **<big>[[H2650|חֻפִּים]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>** and Jediael **<big>[[H3043|יְדִיעֲאֵל]]</big>**.
 
 Ard is mentioned in the genealogy of Benjamin, one of the twelve sons of Israel \(or 'Jacob'\), in [[Gen.46.21|Genesis 46:21]]. He is listed as a son of Bela, who was one of Benjamin's sons. This genealogy is given in the context of Jacob's family migrating to Egypt during the time of famine, at the invitation of Joseph, who had risen to a position of authority in Egypt. 
 
@@ -16,8 +16,8 @@ Apart from this mention in the genealogy, no further information is provided abo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714G) <small>*Hebrew*</small> | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Gen.46.21) |
-All Strong's for **Ard**: \[[[H0714G]]\]
+| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714G) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Gen.46.21) |
+All entries for **Ard**:  **<big>[[H0714|אַרְדְּ]]</big>**
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

@@ -7,31 +7,31 @@ This is the sum of the tabernacle, [even] of the tabernacle of testimony, as it 
 This is the inventory for the tabernacle, the tabernacle of the Testimony, as recorded at Moses’ command by the Levites under the direction of Ithamar son of Aaron the priest.<small><sub>**MT:**</sub></small>
 [[Exod.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arrangement | <big><span class="asgreek">σύνταξις</span></big> <sup><small><small>[[G9336]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| was given orders | <big><span class="asgreek">συνετάγη</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| to Moses; | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ministration | <big><span class="asgreek">λειτουργίαν</span></big> <sup><small><small>[[G3009]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Ithamar | <big><span class="asgreek">Ιθάμαρ</span></big> <sup><small><small>[[H0385]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest. | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| \[was\] the | **<big>[[G3588\|η]]</big>** |
+| arrangement | **<big>[[G9336\|σύνταξις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| was given orders | **<big>[[G4929\|συνετάγη]]</big>** |
+| to Moses; | **<big>[[G3475\|Μωυσή]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ministration | **<big>[[G3009\|λειτουργίαν]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Levites | **<big>[[G3017\|Λευιτών]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| Ithamar | **<big>[[H0385\|Ιθάμαρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest. | **<big>[[G2409\|ιερέως]]</big>** |
 [[Exod.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
 

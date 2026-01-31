@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּטָא‎</span></big> **bâṭâʼ** <small>*(baw-taw')*</small> ==**to speak rashly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">בָּטָה</span> **bâṭâh** <small>*(baw-taw')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎בָּטָא‎</span></big>** **bâṭâʼ** <small>*(baw-taw')*</small> ==**to speak rashly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">בָּטָה</span></big>** **bâṭâh** <small>*(baw-taw')*</small>; a primitive root</small>
 
 $\quad$ pronounce, speak (unadvisedly).
 - ***to babble***

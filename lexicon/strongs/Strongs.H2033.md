@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲרוֹרִי‎</span></big> **Hărôwrîy** <small>*(har-o-ree')*</small> ==**Harod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>another form for <span class="ashebrew">‎הֲרָרִי‎</span><sup><small>[[H2043]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲרוֹרִי‎</span></big>** **Hărôwrîy** <small>*(har-o-ree')*</small> ==**Harod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>another form for **<big>[[H2043|‎הֲרָרִי‎]]</big>**</small>
 
 $\quad$ Harorite.
 - § Harorite = *"the mountaineer"*

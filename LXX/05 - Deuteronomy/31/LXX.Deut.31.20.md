@@ -7,46 +7,46 @@ For when I shall have brought them into the land which I sware unto their father
 When I have brought them into the land that I swore to give their fathers, a land flowing with milk and honey, they will eat their fill and prosper. Then they will turn to other gods and worship them, and they will reject Me and break My covenant.<small><sub>**MT:**</sub></small>
 [[Deut.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.19|<< Deuteronomy 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.21|Deuteronomy 31:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For I shall bring | <big><span class="asgreek">εισάξω</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I swore by an oath | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers; | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| flowing | <big><span class="asgreek">ρέουσαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey. | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall eat. | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being filled up | <big><span class="asgreek">εμπλησθέντες</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| they shall satisfy \[themselves\], | <big><span class="asgreek">κορήσουσι</span></big> <sup><small><small>[[G2880]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall turn | <big><span class="asgreek">επιστραφήσονται</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| alien gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall serve | <big><span class="asgreek">λατρεύσουσιν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall provoke | <big><span class="asgreek">παροξυνούσί</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall efface | <big><span class="asgreek">διασκεδάσουσι</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I ordained | <big><span class="asgreek">διεθέμην</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For I shall bring | **<big>[[G1521\|εισάξω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| good | **<big>[[G0018\|αγαθήν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I swore by an oath | **<big>[[G3660\|ώμοσα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their fathers; | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| flowing | **<big>[[G4482\|ρέουσαν]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey. | **<big>[[G3192\|μέλι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall eat. | **<big>[[G2068\|φάγονται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| being filled up | **<big>[[G1705\|εμπλησθέντες]]</big>** |
+| they shall satisfy \[themselves\], | **<big>[[G2880\|κορήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall turn | **<big>[[G1994\|επιστραφήσονται]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| alien gods, | **<big>[[G2316\|θεούς]]</big>** **<big>[[G0245\|αλλοτρίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall serve | **<big>[[G3000\|λατρεύσουσιν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall provoke | **<big>[[G3947\|παροξυνούσί]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall efface | **<big>[[G6876\|διασκεδάσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I ordained | **<big>[[G1303\|διεθέμην]]</big>** |
+| with them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Deut.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.19|<< Deuteronomy 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.21|Deuteronomy 31:21 >>]]</td></tr></table>
 
 

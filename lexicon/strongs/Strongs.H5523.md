@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֻכּוֹת‎</span></big> **Çukkôwth** <small>*(sook-kohth')*</small> ==**Succoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">סֻכֹּת</span> **Çukkôth** <small>*(sookkohth')*</small>; plural of <span class="ashebrew">‎סֻכָּה‎</span><sup><small>[[H5521]]</small></sup>; booths</small>
+**<big><span class="ashebrew">‎סֻכּוֹת‎</span></big>** **Çukkôwth** <small>*(sook-kohth')*</small> ==**Succoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">סֻכֹּת</span></big>** **Çukkôth** <small>*(sookkohth')*</small>; plural of **<big>[[H5521|‎סֻכָּה‎]]</big>**; booths</small>
 
 $\quad$ Succoth.
 - § Succoth = *"booths"*

@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Idbash</span> was a descendant of Judah, mentioned in the genealogy of the tribe of Judah in 1 Chronicles.
 - A man from the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.4.3|1Ch.4.3]]; 
-- only referred to as Idbash<[[H3031]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  son of Hur<[[H2354G]]>; 
-- a brother of Uri<[[H0221G]]>, Shobal<[[H7732H]]>, Salma<[[H8007H]]>, Hareph<[[H2780]]>, Jezreel<[[H3157J]]>, Ishma<[[H3457]]>, Hazzelelponi<[[H6753]]>, Penuel<[[H6439H]]> and Ezer<[[H5829G]]>.
+- only referred to as Idbash **<big>[[H3031|יִדְבָּשׁ]]</big>**; 
+-  son of Hur **<big>[[H2354|חוּר]]</big>**; 
+- a brother of Uri **<big>[[H0221|אוּרִי]]</big>**, Shobal **<big>[[H7732|שׁוֹבָל]]</big>**, Salma **<big>[[H8007|שַׂלְמָא]]</big>**, Hareph **<big>[[H2780|חָרֵף]]</big>**, Jezreel **<big>[[H3157|יִזְרְעֵאל]]</big>**, Ishma **<big>[[H3457|יִשְׁמָא]]</big>**, Hazzelelponi **<big>[[H6753|צְלֶלְפּוֹנִי]]</big>**, Penuel **<big>[[H6439|פְּנוּאֵל]]</big>** and Ezer **<big>[[H5829|עֵזֶר]]</big>**.
 
 Idbash is mentioned briefly in [[1Chr.4.3|1 Chronicles 4:3]] as one of the sons of Etam, a descendant of Judah. He is listed along with his brothers Jezreel and Ishma. 
 
@@ -20,8 +20,8 @@ The name Idbash is unique and does not appear elsewhere in the Bible. Its meanin
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Idbash | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ׁ](H3031) <small>*Hebrew*</small> | 1x | [1Ch.4.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Idbash\*\|reference=1Ch.4.3) |
-All Strong's for **Idbash**: \[[[H3031]]\]
+| Idbash | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ׁ](H3031) | 1x | [1Ch.4.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Idbash\*\|reference=1Ch.4.3) |
+All entries for **Idbash**:  **<big>[[H3031|יִדְבָּשׁ]]</big>**
 #### Related Profiles:
 - **[Hur](H2354G)** (father)
 - **[Uri](H0221G)** (sibling)

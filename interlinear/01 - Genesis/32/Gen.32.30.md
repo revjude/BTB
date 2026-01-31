@@ -6,21 +6,21 @@ So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.29|<< Genesis 32:29]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.31|Genesis 32:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he called  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקְרָ֧א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yik.Ra' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֛ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֥ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the place  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּק֖וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Peniel  | <span class="ashebrew"><big>פְּנִיאֵ֑ל </big></span><small><small><sup>[[H6439G]]</sup></small></small> &#8207;| pe.ni.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have seen  | <span class="ashebrew"><big>רָאִ֤יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִים֙ </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face  | <span class="ashebrew"><big>פָּנִ֣ים </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| pa.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face  | <span class="ashebrew"><big>פָּנִ֔ים </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| pa.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it has been delivered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּנָּצֵ֖ל </big></span><small><small><sup>[[H5337]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ti.na.Tzel <small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>נַפְשִֽׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֛ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֖וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Peniel  |**<big>&#8207;[[H6439G\|פְּנִיאֵ֑ל]]&#8207; </big>**| pe.ni.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  |**<big>&#8207;[[H7200G\|רָאִ֤יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face  |**<big>&#8207;[[H6440H\|פָּנִ֣ים]]&#8207; </big>**| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face  |**<big>&#8207;[[H6440H\|פָּנִ֔ים]]&#8207; </big>**| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has been delivered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5337\|תִּנָּצֵ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.na.Tzel<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H5315H\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.29|<< Genesis 32:29]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.31|Genesis 32:31 >>]]</td></tr></table>
 
 

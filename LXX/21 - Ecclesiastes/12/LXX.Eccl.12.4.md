@@ -7,31 +7,31 @@ And the doors shall be shut in the streets, when the sound of the grinding is lo
 when the doors to the street are shut and the sound of the mill fades away, when one rises at the sound of a bird and all the daughters of song grow faint,<small><sub>**MT:**</sub></small>
 [[Eccl.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.3|<< Ecclesiastes 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.5|Ecclesiastes 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall lock | <big><span class="asgreek">κλείσουσι</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| \[the\] doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] market | <big><span class="asgreek">αγορά</span></big> <sup><small><small>[[G0058]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| weakness | <big><span class="asgreek">ασθενεία</span></big> <sup><small><small>[[G0769]]</small></small></sup> |
-| of \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[woman\] grinding, | <big><span class="asgreek">αληθούσης</span></big> <sup><small><small>[[G0229]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one shall rise up | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sparrow, | <big><span class="asgreek">στρουθίου</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be humbled | <big><span class="asgreek">ταπεινωθήσονται</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of song | <big><span class="asgreek">άσματος</span></big> <sup><small><small>[[G6571]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall lock | **<big>[[G2808\|κλείσουσι]]</big>** |
+| \[the\] doors | **<big>[[G2374\|θύρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] market | **<big>[[G0058\|αγορά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| weakness | **<big>[[G0769\|ασθενεία]]</big>** |
+| of \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| \[woman\] grinding, | **<big>[[G0229\|αληθούσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one shall rise up | **<big>[[G0450\|αναστήσεται]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sparrow, | **<big>[[G4765\|στρουθίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be humbled | **<big>[[G5013\|ταπεινωθήσονται]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of song | **<big>[[G6571\|άσματος]]</big>** |
 [[Eccl.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.3|<< Ecclesiastes 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.5|Ecclesiastes 12:5 >>]]</td></tr></table>
 
 

@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Ebed</span> was the father of Gaal, who led a rebellion against Abimelech, the son of Gideon, in Shechem. \([[Judg.9.26|Jdg.9.26]],28,30,31,35\)
 - A man living before Israel's Monarchy, first mentioned at [[Judg.9.26|Jdg.9.26]]; 
-- only referred to as Ebed<[[H5651G]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>\); 
--  father of Gaal<[[H1603]]>.
+- only referred to as Ebed **<big>[[H5651|עֶבֶד]]</big>**; 
+-  father of Gaal **<big>[[H1603|גַּעַל]]</big>**.
 
 Ebed is mentioned in the book of Judges as the father of Gaal, a man who opposed Abimelech's rule over Shechem. Abimelech was a son of Gideon, the judge who had delivered Israel from the Midianites. 
 
@@ -19,7 +19,7 @@ While Ebed himself is not mentioned beyond being identified as Gaal's father, hi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebed | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H5651G) <small>*Hebrew*</small> | 5x | [[Jdg.9.26] ... [Jdg.9.35] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebed\*\|reference=Jdg.9.26;Jdg.9.28;Jdg.9.30;Jdg.9.31;Jdg.9.35) |
-All Strong's for **Ebed**: \[[[H5651G]]\]
+| Ebed | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H5651G) | 5x | [[Jdg.9.26] ... [Jdg.9.35] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebed\*\|reference=Jdg.9.26;Jdg.9.28;Jdg.9.30;Jdg.9.31;Jdg.9.35) |
+All entries for **Ebed**:  **<big>[[H5651|עֶבֶד]]</big>**
 #### Related Profiles:
 - **[Gaal](H1603)** (child)

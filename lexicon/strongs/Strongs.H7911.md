@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁכַח‎</span></big> **shâkach** <small>*(shaw-kakh')*</small> ==**to forget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">שָׁכֵחַ</span> **shâkêach** <small>*(shaw-kay'-akh)*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎שָׁכַח‎</span></big>** **shâkach** <small>*(shaw-kakh')*</small> ==**to forget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׁכֵחַ</span></big>** **shâkêach** <small>*(shaw-kay'-akh)*</small>; a primitive root</small>
 
 $\quad$ [idiom] at all, (cause to) forget.
 - ***to mislay***, i.e. ***to be oblivious of***, ***from want of memory*** or ***attention***
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Piel) to cause to forget
 $\quad$ **1d)** (Hiphil) to make or cause to forget
 $\quad$ **1e)** (Hithpael) to be forgotten
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνελεήμων</span><sup><small>[[G0415]]</small></sup> · <span class="asgreek">ἐγκαταλείπω</span><sup><small>[[G1459]]</small></sup> · <span class="asgreek">ἐπιλανθάνομαι</span><sup><small>[[G1950]]</small></sup> · <span class="asgreek">καταλείπω</span><sup><small>[[G2641]]</small></sup> · <span class="asgreek">λήθη</span><sup><small>[[G3024]]</small></sup>
+<small>See Greek: </small>**<big>[[G0415|ἀνελεήμων]]</big>** · **<big>[[G1459|ἐγκαταλείπω]]</big>** · **<big>[[G1950|ἐπιλανθάνομαι]]</big>** · **<big>[[G2641|καταλείπω]]</big>** · **<big>[[G3024|λήθη]]</big>**

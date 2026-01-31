@@ -7,30 +7,30 @@ And Joab returned from following Abner: and when he had gathered all the people 
 When Joab returned from pursuing Abner, he gathered all the troops. In addition to Asahel, nineteen of David’s servants were missing,<small><sub>**MT:**</sub></small>
 [[2Sam.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.29|<< 2 Samuel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.31|2 Samuel 2:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| returned | <big><span class="asgreek">ανέστρεψεν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| from \[following\] behind | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abner, | <big><span class="asgreek">Αβεννήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gathered together | <big><span class="asgreek">συνήθροισε</span></big> <sup><small><small>[[G4867]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they numbered | <big><span class="asgreek">επεσκέπησαν</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having fallen -- | <big><span class="asgreek">πεπτωκότες</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| nineteen | <big><span class="asgreek">εννεακαίδεκα</span></big> <sup><small><small>[[G7247]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asahel. | <big><span class="asgreek">Ασσαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| returned | **<big>[[G0390\|ανέστρεψεν]]</big>** |
+| from \[following\] behind | **<big>[[G3693\|όπισθεν]]</big>** **<big>[[G0575\|απο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Abner, | **<big>[[H0074\|Αβεννήρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gathered together | **<big>[[G4867\|συνήθροισε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they numbered | **<big>[[G1980\|επεσκέπησαν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G3816\|παίδων]]</big>** |
+| of David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| having fallen -- | **<big>[[G4098\|πεπτωκότες]]</big>** |
+| nineteen | **<big>[[G7247\|εννεακαίδεκα]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asahel. | **<big>[[H6214\|Ασσαήλ]]</big>** |
 [[2Sam.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.29|<< 2 Samuel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.31|2 Samuel 2:31 >>]]</td></tr></table>
 
 

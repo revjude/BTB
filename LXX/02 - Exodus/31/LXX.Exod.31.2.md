@@ -7,23 +7,23 @@ See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe
 “See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah.<small><sub>**MT:**</sub></small>
 [[Exod.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.1|<< Exodus 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.3|Exodus 31:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have called | <big><span class="asgreek">ανακέκλημαι</span></big> <sup><small><small>[[G6285]]</small></small></sup> |
-| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματος</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bezaleel | <big><span class="asgreek">Βεσελεήλ</span></big> <sup><small><small>[[H1212]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Uri, | <big><span class="asgreek">Ουρί</span></big> <sup><small><small>[[H0221]]</small></small></sup> |
-| son of | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Hur, | <big><span class="asgreek">Ωρ</span></big> <sup><small><small>[[H2354]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I have called | **<big>[[G6285\|ανακέκλημαι]]</big>** |
+| by | **<big>[[G1537\|εξ]]</big>** |
+| name | **<big>[[G3686\|ονόματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Bezaleel | **<big>[[H1212\|Βεσελεήλ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Uri, | **<big>[[H0221\|Ουρί]]</big>** |
+| son of | **<big>[[G5207\|υιόυ]]</big>** |
+| Hur, | **<big>[[H2354\|Ωρ]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[Exod.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.1|<< Exodus 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.3|Exodus 31:3 >>]]</td></tr></table>
 
 

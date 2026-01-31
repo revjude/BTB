@@ -6,16 +6,16 @@ You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [are] beautiful  | <span class="ashebrew"><big>יָפָ֨ה </big></span><small><small><sup>[[H3303]]</sup></small></small> &#8207;| ya.Fah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֤תְּ </big></span><small><small><sup>[[H0859C]]</sup></small></small> &#8207;| 'at <small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O friend my  | <span class="ashebrew"><big>רַעְיָתִ </big></span><small><small><sup>[[H7474]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ra'.ya.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like Tirzah  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>תִרְצָ֔ה </big></span><small><small><sup>[[H8656H]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> tir.Tzah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lovely  | <span class="ashebrew"><big>נָאוָ֖ה </big></span><small><small><sup>[[H5000]]</sup></small></small> &#8207;| na.Vah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like Jerusalem  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ירוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ki. <small><sup>[[HR]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| majestic  | <span class="ashebrew"><big>אֲיֻמָּ֖ה </big></span><small><small><sup>[[H0366]]</sup></small></small> &#8207;| 'a.yu.Mah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> hosts with banners  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>נִּדְגָּלֽוֹת </big></span><small><small><sup>[[H1713B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> nid.ga.Lot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] beautiful  |**<big>&#8207;[[H3303\|יָפָ֨ה]]&#8207; </big>**| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859C\|אַ֤תְּ]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O friend my  |**<big>&#8207;[[H7474\|רַעְיָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ra'.ya.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Tirzah  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8656H\|תִרְצָ֔ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> tir.Tzah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lovely  |**<big>&#8207;[[H5000\|נָאוָ֖ה]]&#8207; </big>**| na.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Jerusalem  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָ֑ם]]&#8207; </big>**| ki.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| majestic  |**<big>&#8207;[[H0366\|אֲיֻמָּ֖ה]]&#8207; </big>**| 'a.yu.Mah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> hosts with banners  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1713B\|נִּדְגָּלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> nid.ga.Lot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעֲנָה‎</span></big> **Baʻănâh** <small>*(bah-an-aw')*</small> ==**Baanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from a derivative of <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6031]]</small></sup> with prepositional prefix; in affliction</small>
+**<big><span class="ashebrew">‎בַּעֲנָה‎</span></big>** **Baʻănâh** <small>*(bah-an-aw')*</small> ==**Baanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from a derivative of **<big>[[H6031|‎עָנָה‎]]</big>** with prepositional prefix; in affliction</small>
 
 $\quad$ Baanah.
 - § Baana or Baanah = *"in affliction"*

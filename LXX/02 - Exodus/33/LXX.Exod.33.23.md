@@ -7,24 +7,24 @@ And I will take away mine hand, and thou shalt see my back parts: but my face sh
 Then I will take My hand away, and you will see My back; but My face must not be seen.”<small><sub>**MT:**</sub></small>
 [[Exod.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.22|<< Exodus 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.1|Exodus 34:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall remove | <big><span class="asgreek">αφελώ</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| you shall see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| of me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| appear | <big><span class="asgreek">οφθήσεταί</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall remove | **<big>[[G0851\|αφελώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand, | **<big>[[G5495\|χείρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| you shall see | **<big>[[G3708\|όψει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear | **<big>[[G3694\|οπίσω]]</big>** |
+| of me, | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| appear | **<big>[[G3708\|οφθήσεταί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Exod.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.22|<< Exodus 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.1|Exodus 34:1 >>]]</td></tr></table>
 
 

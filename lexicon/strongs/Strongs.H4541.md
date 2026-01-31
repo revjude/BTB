@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַסֵּכָה‎</span></big> **maççêkâh** <small>*(mas-say-kaw')*</small> ==**liquid**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָסַךְ‎</span><sup><small>[[H5258]]</small></sup></small>
+**<big><span class="ashebrew">‎מַסֵּכָה‎</span></big>** **maççêkâh** <small>*(mas-say-kaw')*</small> ==**liquid**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5258|‎נָסַךְ‎]]</big>**</small>
 
 $\quad$ covering, molten (image), vail.
 - properly, ***a pouring over***, i.e. ***fusion of metal*** (especially a cast image)

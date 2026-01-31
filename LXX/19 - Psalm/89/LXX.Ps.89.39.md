@@ -7,19 +7,19 @@ Thou hast made void the covenant of thy servant: thou hast profaned his crown [b
 You have renounced the covenant with Your servant and sullied his crown in the dust.<small><sub>**MT:**</sub></small>
 [[Ps.89.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.38|<< Psalm 89:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.40|Psalm 89:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You eradicated | <big><span class="asgreek">κατέστρεψας</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servant. | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You profaned | <big><span class="asgreek">εβεβήλωσας</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sanctuary. | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You eradicated | **<big>[[G2690\|κατέστρεψας]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your servant. | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You profaned | **<big>[[G0953\|εβεβήλωσας]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of his sanctuary. | **<big>[[G6114\|αγίασμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.89.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.38|<< Psalm 89:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.40|Psalm 89:40 >>]]</td></tr></table>
 
 

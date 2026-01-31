@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יְהוֹשָׁפָט‎</span> <small>***(ye.ho.sha.phat)***</small> ==**Jehoshaphat**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A king of the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Kgs.15.24|1Ki.15.24]]
--  son of: Asa ([[H0609]]) and Azubah ([[H5806]])
--  father of: Jehoram ([[H3088]]), Azariah ([[H5838Q]]), Jehiel ([[H3171J]]), Zechariah ([[H2148J]]), Azariahu ([[H5838R]]), Michael ([[H4317O]]) and Shephatiah ([[H8203K]])
-- Also named: <i>Iōsaphat</i> (<span class='asgreek'>Ἰωσαφάτ</span> "Jehoshaphat" [[G2498]])
+-  son of: Asa (**<big>[[H0609|אָסָא]]</big>**) and Azubah (**<big>[[H5806|עֲזוּבָה]]</big>**)
+-  father of: Jehoram (**<big>[[H3088|יְהוֹרָם]]</big>**), Azariah (**<big>[[H5838Q|עֲזַרְיָה]]</big>**), Jehiel (**<big>[[H3171J|יְחִיאֵל]]</big>**), Zechariah (**<big>[[H2148J|זְכַרְיָה]]</big>**), Azariahu (**<big>[[H5838R|עֲזַרְיָה]]</big>**), Michael (**<big>[[H4317O|מִיכָאֵל]]</big>**) and Shephatiah (**<big>[[H8203K|שְׁפַטְיָה]]</big>**)
+- Also named: <i>Iōsaphat</i> (<span class='asgreek'>Ἰωσαφάτ</span> "Jehoshaphat" **<big>[[G2498|Ἰωσαφάτ]]</big>**)

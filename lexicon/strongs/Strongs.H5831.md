@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶזְרָא‎</span></big> **ʻEzrâʼ** <small>*(ez-raw')*</small> ==**Ezra**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עֶזְרָא‎</span><sup><small>[[H5830]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶזְרָא‎</span></big>** **ʻEzrâʼ** <small>*(ez-raw')*</small> ==**Ezra**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5830|‎עֶזְרָא‎]]</big>**</small>
 
 $\quad$ Ezra.
 - § Ezra = *"help"*

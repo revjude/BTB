@@ -7,36 +7,36 @@ But who is able to build him an house, seeing the heaven and heaven of heavens c
 But who is able to build a house for Him, since the heavens, even the highest heavens, cannot contain Him? Who then am I, that I should build a house for Him, except as a place to burn sacrifices before Him?<small><sub>**MT:**</sub></small>
 [[2Chr.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.5|<< 2 Chronicles 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.7|2 Chronicles 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is strong | <big><span class="asgreek">ισχύσει</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house? | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| does not bear | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">φέρουσι</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| building | <big><span class="asgreek">οικοδομών</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| except | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to burn incense | <big><span class="asgreek">θυμιάν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| is strong | **<big>[[G2480\|ισχύσει]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a house? | **<big>[[G3624\|οίκον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| does not bear | **<big>[[G3756\|ου]]</big>** **<big>[[G5342\|φέρουσι]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| building | **<big>[[G3618\|οικοδομών]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a house, | **<big>[[G3624\|οίκον]]</big>** |
+| except | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to burn incense | **<big>[[G2370\|θυμιάν]]</big>** |
+| in front of | **<big>[[G2713\|κατέναντι]]</big>** |
+| him? | **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.5|<< 2 Chronicles 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.7|2 Chronicles 2:7 >>]]</td></tr></table>
 
 

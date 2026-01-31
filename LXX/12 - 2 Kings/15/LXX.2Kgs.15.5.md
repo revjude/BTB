@@ -7,36 +7,36 @@ And the LORD smote the king, so that he was a leper unto the day of his death, a
 And the LORD afflicted the king with leprosy until the day he died, so that he lived in a separate house while his son Jotham had charge of the palace and governed the people of the land.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.4|<< 2 Kings 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.6|2 Kings 15:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| being leprous | <big><span class="asgreek">λελεπρωμένος</span></big> <sup><small><small>[[G8182]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of his death, | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| apart. | <big><span class="asgreek">αφφουσώθ</span></big> <sup><small><small>[[G6633]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jotham | <big><span class="asgreek">Ιωαθάμ</span></big> <sup><small><small>[[G2488]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[was\] over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> touched | **<big>[[G0680\|ήψατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was | **<big>[[G1510\|ην]]</big>** |
+| being leprous | **<big>[[G8182\|λελεπρωμένος]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρας]]</big>** |
+| of his death, | **<big>[[G2288\|θανάτου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a house | **<big>[[G3624\|οίκω]]</big>** |
+| apart. | **<big>[[G6633\|αφφουσώθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jotham | **<big>[[G2488\|Ιωαθάμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \[was\] over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house, | **<big>[[G3624\|οίκου]]</big>** |
+| judging | **<big>[[G2919\|κρίνων]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[2Kgs.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.4|<< 2 Kings 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.6|2 Kings 15:6 >>]]</td></tr></table>
 
 

@@ -10,14 +10,14 @@ Comfort ye, comfort ye my people, saith your God.
 “Comfort, comfort My people,” says your God.<small><sub>**MT:**</sub></small>
 [[Isa.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.8|<< Isaiah 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.2|Isaiah 40:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take comfort! | <big><span class="asgreek">παρακαλείτε</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| take comfort! | <big><span class="asgreek">παρακαλείτε</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take comfort! | **<big>[[G3870\|παρακαλείτε]]</big>** |
+| take comfort! | **<big>[[G3870\|παρακαλείτε]]</big>** |
+| my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Isa.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.8|<< Isaiah 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.2|Isaiah 40:2 >>]]</td></tr></table>
 
 

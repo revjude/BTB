@@ -7,19 +7,19 @@ The backslider in heart shall be filled with his own ways: and a good man [shall
 The backslider in heart receives the fill of his own ways, but a good man is rewarded for his ways.<small><sub>**MT:**</sub></small>
 [[Prov.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.13|<< Proverbs 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.15|Proverbs 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| shall be filled with | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| \[The\] bold-hearted | <big><span class="asgreek">θρασυκάρδιος</span></big> <sup><small><small>[[G7684]]</small></small></sup> |
-| with | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his thoughts | <big><span class="asgreek">διανοημάτων</span></big> <sup><small><small>[[G1270]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| ways | **<big>[[G3598\|οδών]]</big>** |
+| shall be filled with | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| \[The\] bold-hearted | **<big>[[G7684\|θρασυκάρδιος]]</big>** |
+| with | **<big>[[G0575\|από]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his thoughts | **<big>[[G1270\|διανοημάτων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| a good | **<big>[[G0018\|αγαθός]]</big>** |
 [[Prov.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.13|<< Proverbs 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.15|Proverbs 14:15 >>]]</td></tr></table>
 
 

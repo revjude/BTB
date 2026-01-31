@@ -1,10 +1,8 @@
-<span class="ashebrew">‎זְבוּלֹנִי‎</span> <small>***(ze.vu.lo.ni)***</small> ==**Zebulunite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H2074]]</small> 
+<small>group of:</small> <small>**<big>[[H2074|זְבוּלוּן]]</big>**</small> 
 
 - Someone from the tribe of Zebulun  living at the time of the Patriarchs, first mentioned at [[Gen.30.20|Gen.30.20]]
--  son of: Israel ([[H3478]]) and Leah ([[H3812]])
--  brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Issachar ([[H3485]]) and Dinah ([[H1783]])
--  half-brother of: Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
--  father of: Sered ([[H5624]]), Elon ([[H0356H]]) and Jahleel ([[H3177]])
-- Group of <i>ze.vu.lun</i> (<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎בו‎</span>ּ<span class='ashebrew'>‎ל‎</span>ֻ<span class='ashebrew'>‎ן‎</span> "Zebulun" [[H2074]])
-
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)
+-  brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)
+-  half-brother of: Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  father of: Sered (**<big>[[H5624|סֶרֶד]]</big>**), Elon (**<big>[[H0356H|אֵילוֹן]]</big>**) and Jahleel (**<big>[[H3177|יַחְלְאֵל]]</big>**)
+- Group of <i>ze.vu.lun</i> (<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎בו‎</span>ּ<span class='ashebrew'>‎ל‎</span>ֻ<span class='ashebrew'>‎ן‎</span> "Zebulun" **<big>[[H2074|זְבוּלוּן]]</big>**)

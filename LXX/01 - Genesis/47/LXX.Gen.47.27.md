@@ -7,26 +7,26 @@ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had po
 Now the Israelites settled in the land of Egypt, in the region of Goshen. They acquired property there and became fruitful and increased greatly in number.<small><sub>**MT:**</sub></small>
 [[Gen.47.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.26|<< Genesis 47:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.28|Genesis 47:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| dwelt | <big><span class="asgreek">κατώκησε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Goshen. | <big><span class="asgreek">Γεσέμ</span></big> <sup><small><small>[[H1657]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were heir | <big><span class="asgreek">εκληρονομηθήσαν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they grew | <big><span class="asgreek">ηυξήθησαν</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multiplied | <big><span class="asgreek">επληθύνθησαν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| dwelt | **<big>[[G2730\|κατώκησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Goshen. | **<big>[[H1657\|Γεσέμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were heir | **<big>[[G2816\|εκληρονομηθήσαν]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they grew | **<big>[[G0837\|ηυξήθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| multiplied | **<big>[[G4129\|επληθύνθησαν]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Gen.47.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.26|<< Genesis 47:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.28|Genesis 47:28 >>]]</td></tr></table>
 
 

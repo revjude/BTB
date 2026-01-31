@@ -7,35 +7,35 @@ And she said unto the men, I know that the LORD hath given you the land, and tha
 and said to them, “I know that the LORD has given you this land and that the fear of you has fallen on us, so that all who dwell in the land are melting in fear of you.<small><sub>**MT:**</sub></small>
 [[Josh.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.8|<< Joshua 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.10|Joshua 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I know | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| has fallen | <big><span class="asgreek">επιπέπτωκε</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| are struck with awe | <big><span class="asgreek">κατέπτησον</span></big> <sup><small><small>[[G7904]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| I know | **<big>[[G1987\|επίσταμαι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| has fallen | **<big>[[G1968\|επιπέπτωκε]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fear | **<big>[[G5401\|φόβος]]</big>** |
+| of you | **<big>[[G1473\|υμών]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| are struck with awe | **<big>[[G7904\|κατέπτησον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of | **<big>[[G0575\|αφ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Josh.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.8|<< Joshua 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.10|Joshua 2:10 >>]]</td></tr></table>
 
 

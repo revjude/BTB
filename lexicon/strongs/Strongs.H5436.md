@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סְבָאִי‎</span></big> **Çᵉbâʼîy** <small>*(seb-aw-ee')*</small> ==**Sabeans**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎סְבָא‎</span><sup><small>[[H5434]]</small></sup></small>
+**<big><span class="ashebrew">‎סְבָאִי‎</span></big>** **Çᵉbâʼîy** <small>*(seb-aw-ee')*</small> ==**Sabeans**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patrial from **<big>[[H5434|‎סְבָא‎]]</big>**</small>
 
 $\quad$ Sabean.
 - § Sabeans = *"drunkards"*

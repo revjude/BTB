@@ -1,8 +1,8 @@
 <small>*Haradah • A desert campsite during Israel's journey from Egypt.*</small>
 
 <span class='tipnrhighlight'>Haradah</span> was one of the places where the Israelites camped during their journey through the wilderness after leaving Egypt.
-- A location near Hor\_Mount<[[H2023G]]> first mentioned at [[Num.33.24|Num.33.24]]; 
-- only referred to as Haradah<[[H2732]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Hor\_Mount **<big>[[H2023|הֹר]]</big>** first mentioned at [[Num.33.24|Num.33.24]]; 
+- only referred to as Haradah **<big>[[H2732|חֲרָדָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.317396,35.407152&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Haradah in the itinerary of Israel's wilderness journey serves to
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Haradah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2732) <small>*Hebrew*</small> | 2x | [[Num.33.24] & [Num.33.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haradah\*\|reference=Num.33.24;Num.33.25) |
-All Strong's for **Haradah**: \[[[H2732]]\]
+| Haradah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2732) | 2x | [[Num.33.24] & [Num.33.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haradah\*\|reference=Num.33.24;Num.33.25) |
+All entries for **Haradah**:  **<big>[[H2732|חֲרָדָה]]</big>**

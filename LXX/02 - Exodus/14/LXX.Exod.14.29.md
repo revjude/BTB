@@ -7,28 +7,28 @@ But the children of Israel walked upon dry [land] in the midst of the sea; and t
 But the Israelites had walked through the sea on dry ground, with walls of water on their right and on their left.<small><sub>**MT:**</sub></small>
 [[Exod.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.28|<< Exodus 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.30|Exodus 14:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| dry \[land\] | <big><span class="asgreek">ξηράς</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \[was\] to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right, | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| on | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left. | <big><span class="asgreek">ευωνύμων</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
+| And the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| dry \[land\] | **<big>[[G3584\|ξηράς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea. | **<big>[[G2281\|θαλάσσης]]</big>** |
+| And the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \[was\] to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a wall | **<big>[[G5038\|τείχος]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right, | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a wall | **<big>[[G5038\|τείχος]]</big>** |
+| on | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left. | **<big>[[G2176\|ευωνύμων]]</big>** |
 [[Exod.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.28|<< Exodus 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.30|Exodus 14:30 >>]]</td></tr></table>
 
 

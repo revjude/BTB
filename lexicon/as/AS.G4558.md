@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Σάρεπτα</span></span>, <span class="asgreek">-ων</span> ([[LXX.Obad.1.20|Ob 20]]), <span class="asgreek">τά</span>  (Heb. <span class="ashebrew">צָרְפַת</span> <small><sup>[[H6886]]</sup></small>), </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Σάρεπτα</span></span>, <span class="asgreek">-ων</span> ([[LXX.Obad.1.20|Ob 20]]), <span class="asgreek">τά</span>  (Heb. **<big>[[H6886|צָרְפַת]]</big>**), </span>
 <span class="asitalic">Sarepta</span>, a city of Sidon: [[Luke.4.26|Lk 4:26]].†
 
 **Abbott-Smith References**

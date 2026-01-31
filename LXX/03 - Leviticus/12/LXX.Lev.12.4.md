@@ -11,33 +11,33 @@ The woman shall continue in purification from her bleeding for thirty-three days
 > $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| she shall sit | <big><span class="asgreek">καθήσεται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] blood | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of her cleansing; | <big><span class="asgreek">καθαρισμού</span></big> <sup><small><small>[[G2512]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| anything | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| she shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| touch, | <big><span class="asgreek">άψεται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sanctuary | <big><span class="asgreek">αγιαστήριον</span></big> <sup><small><small>[[G6115]]</small></small></sup> |
-| she shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should have been fulfilled | <big><span class="asgreek">πληρωθώσιν</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of her cleansing | <big><span class="asgreek">καθάρσεως</span></big> <sup><small><small>[[G7754]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| she shall sit | **<big>[[G2521\|καθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] blood | **<big>[[G0129\|αίματι]]</big>** |
+| of her cleansing; | **<big>[[G2512\|καθαρισμού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| anything | **<big>[[G3956\|παντός]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| she shall not | **<big>[[G3756\|ουχ]]</big>** |
+| touch, | **<big>[[G0680\|άψεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| sanctuary | **<big>[[G6115\|αγιαστήριον]]</big>** |
+| she shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should have been fulfilled | **<big>[[G4137\|πληρωθώσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of her cleansing | **<big>[[G7754\|καθάρσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁאַל‎</span></big> **shâʼal** <small>*(shaw-al')*</small> ==**to ask**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">שָׁאֵל</span> **shâʼêl** <small>*(shaw-ale')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎שָׁאַל‎</span></big>** **shâʼal** <small>*(shaw-al')*</small> ==**to ask**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׁאֵל</span></big>** **shâʼêl** <small>*(shaw-ale')*</small>; a primitive root</small>
 
 $\quad$ ask (counsel, on), beg, borrow, lay to charge, consult, demand, desire, [idiom] earnestly, enquire, [phrase] greet, obtain leave, lend, pray, request, require, [phrase] salute, [idiom] straitly, [idiom] surely, wish.
 - ***to inquire***
@@ -21,4 +21,4 @@ $\quad$ **1d)** (Hiphil)
 $\quad$ $\quad$ **1d1)** to be given on request
 $\quad$ $\quad$ **1d2)** to grant, make over to, let (one) ask (successfully) or give or lend on request (then) grant or make over to
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰτέω</span><sup><small>[[G0154]]</small></sup> · <span class="asgreek">ἀσπάζομαι</span><sup><small>[[G0782]]</small></sup> · <span class="asgreek">δανείζω</span><sup><small>[[G1155]]</small></sup> · <span class="asgreek">ἐπαιτέω</span><sup><small>[[G1871]]</small></sup> · <span class="asgreek">ἐπερωτάω</span><sup><small>[[G1905]]</small></sup> · <span class="asgreek">ἐπιθυμέω</span><sup><small>[[G1937]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ἐρωτάω</span><sup><small>[[G2065]]</small></sup> · <span class="asgreek">ζητέω</span><sup><small>[[G2212]]</small></sup> · <span class="asgreek">παραιτέομαι</span><sup><small>[[G3868]]</small></sup> · <span class="asgreek">χράομαι</span><sup><small>[[G5530]]</small></sup> · <span class="asgreek">χρῆσις</span><sup><small>[[G5540]]</small></sup>
+<small>See Greek: </small>**<big>[[G0154|αἰτέω]]</big>** · **<big>[[G0782|ἀσπάζομαι]]</big>** · **<big>[[G1155|δανείζω]]</big>** · **<big>[[G1871|ἐπαιτέω]]</big>** · **<big>[[G1905|ἐπερωτάω]]</big>** · **<big>[[G1937|ἐπιθυμέω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G2065|ἐρωτάω]]</big>** · **<big>[[G2212|ζητέω]]</big>** · **<big>[[G3868|παραιτέομαι]]</big>** · **<big>[[G5530|χράομαι]]</big>** · **<big>[[G5540|χρῆσις]]</big>**

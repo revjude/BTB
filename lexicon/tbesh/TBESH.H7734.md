@@ -1,3 +1,1 @@
-<span class="ashebrew">‎שׂוּג‎</span> <small>***(sug)***</small> ==**to turn back**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-spelling of: <small>[[H5472]]</small> 
-
+<small>spelling of:</small> <small>**<big>[[H5472|סוּג]]</big>**</small>

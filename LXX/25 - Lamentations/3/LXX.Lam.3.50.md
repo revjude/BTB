@@ -7,16 +7,16 @@ Till the LORD look down, and behold from heaven.
 until the LORD looks down from heaven and sees.<small><sub>**MT:**</sub></small>
 [[Lam.3.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.49|<< Lamentations 3:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.51|Lamentations 3:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| should look through | <big><span class="asgreek">διακύψη</span></big> <sup><small><small>[[G6840]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should behold | <big><span class="asgreek">είδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| should look through | **<big>[[G6840\|διακύψη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should behold | **<big>[[G1492\|είδη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανού]]</big>** |
 [[Lam.3.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.49|<< Lamentations 3:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.51|Lamentations 3:51 >>]]</td></tr></table>
 
 

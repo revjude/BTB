@@ -11,25 +11,25 @@ Fear the LORD your God, serve Him only, and take your oaths in His name.<small>
 > $\quad$ referenced by: [[Matt.4.10|Matt 4:10]] ☩ [[Luke.4.8|Luke 4:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall fear | <big><span class="asgreek">φοβηθήση</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| only | <big><span class="asgreek">μόνω</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| you shall serve, | <big><span class="asgreek">λατρεύσεις</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall cleave to, | <big><span class="asgreek">κολληθήση</span></big> <sup><small><small>[[G2853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall swear an oath by. | <big><span class="asgreek">ομή</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You shall fear | **<big>[[G5399\|φοβηθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| only | **<big>[[G3441\|μόνω]]</big>** |
+| you shall serve, | **<big>[[G3000\|λατρεύσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| you shall cleave to, | **<big>[[G2853\|κολληθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his name | **<big>[[G3686\|ονόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| you shall swear an oath by. | **<big>[[G3660\|ομή]]</big>** |
 [[Deut.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.12|<< Deuteronomy 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.14|Deuteronomy 6:14 >>]]</td></tr></table>
 
 

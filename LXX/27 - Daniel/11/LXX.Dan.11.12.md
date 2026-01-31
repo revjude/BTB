@@ -7,21 +7,21 @@ And he shall take the multitude, and his heart shall be exalted; and he shall th
 When the army is carried off, the king of the South will be proud in heart and will cast down tens of thousands, but he will not triumph.<small><sub>**MT:**</sub></small>
 [[Dan.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.11|<< Daniel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.13|Daniel 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude, | <big><span class="asgreek">όχλον</span></big> <sup><small><small>[[G3793]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be exalted | <big><span class="asgreek">υψωθήσεται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall throw down | <big><span class="asgreek">καταβαλεί</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| myriads, | <big><span class="asgreek">μυριάδας</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not prevail. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">κατισχύσει</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| multitude, | **<big>[[G3793\|όχλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be exalted | **<big>[[G5312\|υψωθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall throw down | **<big>[[G2598\|καταβαλεί]]</big>** |
+| myriads, | **<big>[[G3461\|μυριάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not prevail. | **<big>[[G3756\|ου]]</big>** **<big>[[G2729\|κατισχύσει]]</big>** |
 [[Dan.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.11|<< Daniel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.13|Daniel 11:13 >>]]</td></tr></table>
 
 

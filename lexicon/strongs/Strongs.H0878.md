@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵרָא‎</span></big> **Bᵉʼêrâʼ** <small>*(be-ay-raw')*</small> ==**Beera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בְּאֵר‎</span><sup><small>[[H0875]]</small></sup>; a well</small>
+**<big><span class="ashebrew">‎בְּאֵרָא‎</span></big>** **Bᵉʼêrâʼ** <small>*(be-ay-raw')*</small> ==**Beera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0875|‎בְּאֵר‎]]</big>**; a well</small>
 
 $\quad$ Beera.
 - § Beera = *"a well"*

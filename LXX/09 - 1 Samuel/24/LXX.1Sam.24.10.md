@@ -7,46 +7,46 @@ Behold, this day thine eyes have seen how that the LORD had delivered thee to da
 Behold, this day you have seen with your own eyes that the LORD delivered you into my hand in the cave. I was told to kill you, but I spared you and said, ‘I will not lift my hand against my lord, since he is the LORD’s anointed.’<small><sub>**MT:**</sub></small>
 [[1Sam.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.9|<< 1 Samuel 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.11|1 Samuel 24:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| have seen | <big><span class="asgreek">εωράκασιν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| delivered | <big><span class="asgreek">παρέδωκέ</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cave, | <big><span class="asgreek">σπηλαίω</span></big> <sup><small><small>[[G4693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηβουλήθην</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to kill | <big><span class="asgreek">αποκτείναί</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I spared | <big><span class="asgreek">εφεισάμην</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bear | <big><span class="asgreek">εποίσω</span></big> <sup><small><small>[[G2018]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master, | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] anointed one | <big><span class="asgreek">χριστός</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| have seen | **<big>[[G3708\|εωράκασιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| how | **<big>[[G5613\|ως]]</big>** |
+| delivered | **<big>[[G3860\|παρέδωκέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| my hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| cave, | **<big>[[G4693\|σπηλαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G1014\|ηβουλήθην]]</big>** |
+| to kill | **<big>[[G0615\|αποκτείναί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I spared | **<big>[[G5339\|εφεισάμην]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| bear | **<big>[[G2018\|εποίσω]]</big>** |
+| my hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my master, | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] anointed one | **<big>[[G5547\|χριστός]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| this one | **<big>[[G3778\|ούτός]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
 [[1Sam.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.9|<< 1 Samuel 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.11|1 Samuel 24:11 >>]]</td></tr></table>
 
 

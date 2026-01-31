@@ -6,23 +6,23 @@ He does not oppress another, but restores the pledge to the debtor. He does not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.6|<< Ezekiel 18:6]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.8|Ezekiel 18:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and anyone  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִישׁ֙ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he oppressed  | <span class="ashebrew"><big>יוֹנֶ֔ה </big></span><small><small><sup>[[H3238]]</sup></small></small> &#8207;| yo.Neh <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pledge his  | <span class="ashebrew"><big>חֲבֹלָת֥ </big></span><small><small><sup>[[H2258B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cha.vo.la.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a debt  | <span class="ashebrew"><big>חוֹב֙ </big></span><small><small><sup>[[H2326]]</sup></small></small> &#8207;| chOv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he returned  | <span class="ashebrew"><big>יָשִׁ֔יב </big></span><small><small><sup>[[H7725H]]</sup></small></small> &#8207;| ya.Shiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| robbery  | <span class="ashebrew"><big>גְּזֵלָ֖ה </big></span><small><small><sup>[[H1500]]</sup></small></small> &#8207;| ge.ze.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he robbed  | <span class="ashebrew"><big>יִגְזֹ֑ל </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| yig.Zol <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food his  | <span class="ashebrew"><big>לַחְמ </big></span><small><small><sup>[[H3899H]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| lach.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] hungry  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רָעֵ֣ב </big></span><small><small><sup>[[H7457]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ra.'Ev <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he gave  | <span class="ashebrew"><big>יִתֵּ֔ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] naked  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵירֹ֖ם </big></span><small><small><sup>[[H5903]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Rom <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he covered  | <span class="ashebrew"><big>יְכַסֶּה </big></span><small><small><sup>[[H3680]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.kha.seh- <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clothing  | <span class="ashebrew"><big>בָּֽגֶד </big></span><small><small><sup>[[H0899B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ba.ged <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and anyone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִישׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he oppressed  |**<big>&#8207;[[H3238\|יוֹנֶ֔ה]]&#8207; </big>**| yo.Neh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pledge his  |**<big>&#8207;[[H2258B\|חֲבֹלָת֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| cha.vo.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a debt  |**<big>&#8207;[[H2326\|חוֹב֙]]&#8207; </big>**| chOv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he returned  |**<big>&#8207;[[H7725H\|יָשִׁ֔יב]]&#8207; </big>**| ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| robbery  |**<big>&#8207;[[H1500\|גְּזֵלָ֖ה]]&#8207; </big>**| ge.ze.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he robbed  |**<big>&#8207;[[H1497\|יִגְזֹ֑ל]]&#8207; </big>**| yig.Zol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food his  |**<big>&#8207;[[H3899H\|לַחְמ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| lach.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] hungry  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7457\|רָעֵ֣ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.'Ev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gave  |**<big>&#8207;[[H5414G\|יִתֵּ֔ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] naked  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5903\|עֵירֹ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he covered  |**<big>&#8207;[[H3680\|יְכַסֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.kha.seh-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothing  |**<big>&#8207;[[H0899B\|בָּֽגֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.6|<< Ezekiel 18:6]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.8|Ezekiel 18:8 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And Benaiah the son of Jehoiada [was] over the Cherethites and the Pelethites; a
 Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were chief officials at the king’s side.<small><sub>**MT:**</sub></small>
 [[1Chr.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.16|<< 1 Chronicles 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.1|1 Chronicles 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benaiah | <big><span class="asgreek">Βανέας</span></big> <sup><small><small>[[H1131]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoiada | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| \[was\] over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cherethite | <big><span class="asgreek">Κερεθί</span></big> <sup><small><small>[[H3774]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Phelethite; | <big><span class="asgreek">Φελεθί</span></big> <sup><small><small>[[H6432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[were\] the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτοι</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| successors | <big><span class="asgreek">διάδοχοι</span></big> <sup><small><small>[[G1240]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benaiah | **<big>[[H1131\|Βανέας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehoiada | **<big>[[H3111\|Ιωδαέ]]</big>** |
+| \[was\] over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Cherethite | **<big>[[H3774\|Κερεθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Phelethite; | **<big>[[H6432\|Φελεθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \[were\] the | **<big>[[G3588\|οι]]</big>** |
+| first | **<big>[[G4413\|πρώτοι]]</big>** |
+| successors | **<big>[[G1240\|διάδοχοι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[1Chr.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.16|<< 1 Chronicles 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.1|1 Chronicles 19:1 >>]]</td></tr></table>
 
 

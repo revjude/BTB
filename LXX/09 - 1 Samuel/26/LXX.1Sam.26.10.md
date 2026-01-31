@@ -7,28 +7,28 @@ David said furthermore, [As] the LORD liveth, the LORD shall smite him; or his d
 David added, “As surely as the LORD lives, the LORD Himself will strike him down; either his day will come and he will die, or he will go into battle and perish.<small><sub>**MT:**</sub></small>
 [[1Sam.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.9|<< 1 Samuel 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.11|1 Samuel 26:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| As \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| smite | <big><span class="asgreek">παίση</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should die, | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| battle | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| should go down | <big><span class="asgreek">καταβή</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be added \[to his fathers\]; | <big><span class="asgreek">προστεθή</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| As \[the\] <span class="smallcaps">lord</span> lives, | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> should not | **<big>[[G3361\|μη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| smite | **<big>[[G3817\|παίση]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| should come | **<big>[[G2064\|έλθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should die, | **<big>[[G0599\|αποθάνη]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| battle | **<big>[[G4171\|πόλεμον]]</big>** |
+| should go down | **<big>[[G2597\|καταβή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be added \[to his fathers\]; | **<big>[[G4369\|προστεθή]]</big>** |
 [[1Sam.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.9|<< 1 Samuel 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.11|1 Samuel 26:11 >>]]</td></tr></table>
 
 

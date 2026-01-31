@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָרֶבֶת‎</span></big> **tsârebeth** <small>*(tsaw-reh'-beth)*</small> ==**burning**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎צוּעָר‎</span><sup><small>[[H6686]]</small></sup></small>
+**<big><span class="ashebrew">‎צָרֶבֶת‎</span></big>** **tsârebeth** <small>*(tsaw-reh'-beth)*</small> ==**burning**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6686|‎צוּעָר‎]]</big>**</small>
 
 $\quad$ burning, inflammation.
 - ***conflagration*** (of fire or disease)
@@ -9,4 +9,4 @@ n f
 adj
 **2)** burning, scorching
 
-<sub><small>See Greek: </small></sub><span class="asgreek">χαρακτήρ</span><sup><small>[[G5481]]</small></sup>
+<small>See Greek: </small>**<big>[[G5481|χαρακτήρ]]</big>**

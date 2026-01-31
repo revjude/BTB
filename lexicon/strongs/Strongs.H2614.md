@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָנַק‎</span></big> **chânaq** <small>*(khaw-nak')*</small> ==**to strangle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חָנַךְ‎</span><sup><small>[[H2596]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָנַק‎</span></big>** **chânaq** <small>*(khaw-nak')*</small> ==**to strangle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2596|‎חָנַךְ‎]]</big>**)</small>
 
 $\quad$ hang self, strangle.
 - ***to be narrow***
@@ -9,4 +9,4 @@ $\quad$ hang self, strangle.
 $\quad$ **1a)** (Niphal) to strangle oneself
 $\quad$ **1b)** (Piel) to strangle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπάγχομαι</span><sup><small>[[G0519]]</small></sup> · <span class="asgreek">ἀποπνίγω</span><sup><small>[[G0638]]</small></sup>
+<small>See Greek: </small>**<big>[[G0519|ἀπάγχομαι]]</big>** · **<big>[[G0638|ἀποπνίγω]]</big>**

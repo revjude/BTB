@@ -7,40 +7,40 @@ And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that th
 and Jeroboam said to his wife, “Now get up, disguise yourself so they will not recognize you as my wife, and go to Shiloh. For Ahijah the prophet is there; it was he who spoke about my kingship over this people.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.1|<< 1 Kings 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.3|1 Kings 14:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| change | <big><span class="asgreek">αλλοιωθήση</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not know | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you \[are\] | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Jeroboam, | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορευθήση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shiloh! | <big><span class="asgreek">Σηλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[is\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Ahijah | <big><span class="asgreek">Αχιά</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to reign | <big><span class="asgreek">βασιλεύσαι</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his wife | **<big>[[G1135\|γυναικί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| change | **<big>[[G6230\|αλλοιωθήση]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they shall not know | **<big>[[G3756\|ου]]</big>** **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you \[are\] | **<big>[[G1473\|συ]]</big>** |
+| \[the\] wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Jeroboam, | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορευθήση]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Shiloh! | **<big>[[H7887\|Σηλώ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[is\] there | **<big>[[G1563\|εκεί]]</big>** |
+| Ahijah | **<big>[[H0281\|Αχιά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to reign | **<big>[[G0936\|βασιλεύσαι]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[1Kgs.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.1|<< 1 Kings 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.3|1 Kings 14:3 >>]]</td></tr></table>
 
 

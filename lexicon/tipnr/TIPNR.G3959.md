@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Patara</span> was a coastal city in Lycia \(modern-day Turkey\) where Paul changed ships during his journey to Jerusalem.
 - A location only mentioned at [[2Chr.3.6|Act.21.1]]; 
-- only referred to as Patara<[[G3959]]> \(<span class='tipnrLangGreek'>Πάταρα</span>\).
+- only referred to as Patara **<big>[[G3959|Πάταρα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.27471786927205,29.3186378339052&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Patara was a significant port city in the province of Lycia, located on the sout
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Patara | [<span class='tipnrLangGreek'>Πάταρα</span>](G3959) <small>*Greek*</small> | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Patara\*\|reference=Act.21.1) |
-All Strong's for **Patara**: \[[[G3959]]\]
+| Patara | [<span class='tipnrLangGreek'>Πάταρα</span>](G3959) | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Patara\*\|reference=Act.21.1) |
+All entries for **Patara**:  **<big>[[G3959|Πάταρα]]</big>**

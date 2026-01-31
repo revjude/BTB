@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּמֹּן‎</span></big> **kammôn** <small>*(kam-mone')*</small> ==**cummin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎כַּמֹּן‎</span></big>** **kammôn** <small>*(kam-mone')*</small> ==**cummin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to store up or preserve</small>
 
 $\quad$ cummin.
@@ -7,4 +7,4 @@ $\quad$ cummin.
 **1)** cummin, cumin
 $\quad$ **1a)** a seed used as a condiment
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κύμινον</span><sup><small>[[G2951]]</small></sup>
+<small>See Greek: </small>**<big>[[G2951|κύμινον]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נוּן‎</span></big> **nûwn** <small>*(noon)*</small> ==**to propagate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נוּן‎</span></big>** **nûwn** <small>*(noon)*</small> ==**to propagate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be continued.

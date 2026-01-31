@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁכֶם‎</span></big> **shᵉkem** <small>*(shek-em')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁכַם‎</span><sup><small>[[H7925]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁכֶם‎</span></big>** **shᵉkem** <small>*(shek-em')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7925|‎שָׁכַם‎]]</big>**</small>
 
 $\quad$ back, [idiom] consent, portion, shoulder.
 - ***the neck*** (between the shoulders) ***as the place of burdens***
@@ -9,4 +9,4 @@ $\quad$ back, [idiom] consent, portion, shoulder.
 $\quad$ **1a)** shoulder, shoulder-blade
 $\quad$ **1b)** back (in general)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζυγός</span><sup><small>[[G2218]]</small></sup> · <span class="asgreek">νῶτος</span><sup><small>[[G3577]]</small></sup> · <span class="asgreek">Συχέμ</span><sup><small>[[G4966]]</small></sup> · <span class="asgreek">ὦμος</span><sup><small>[[G5606]]</small></sup>
+<small>See Greek: </small>**<big>[[G2218|ζυγός]]</big>** · **<big>[[G3577|νῶτος]]</big>** · **<big>[[G4966|Συχέμ]]</big>** · **<big>[[G5606|ὦμος]]</big>**

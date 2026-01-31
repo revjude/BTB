@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הוֹד‎</span></big> **hôwd** <small>*(hode)*</small> ==**splendor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎הוֹד‎</span></big>** **hôwd** <small>*(hode)*</small> ==**splendor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root</small>
 
 $\quad$ beauty, comeliness, excellency, glorious, glory, goodly, honour, majesty.
@@ -6,4 +6,4 @@ $\quad$ beauty, comeliness, excellency, glorious, glory, goodly, honour, majesty
 
 **1)** splendour, majesty, vigour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιωσύνη</span><sup><small>[[G0042]]</small></sup> · <span class="asgreek">ἀρέτη</span><sup><small>[[G0703]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">ζωή</span><sup><small>[[G2222]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup> · <span class="asgreek">Ἐλιούδ</span><sup><small>[[G1664]]</small></sup>
+<small>See Greek: </small>**<big>[[G0042|ἁγιωσύνη]]</big>** · **<big>[[G0703|ἀρέτη]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G2222|ζωή]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G5092|τιμή]]</big>** · **<big>[[G1664|Ἐλιούδ]]</big>**

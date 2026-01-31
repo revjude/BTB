@@ -7,45 +7,45 @@ And the houses of Jerusalem, and the houses of the kings of Judah, shall be defi
 The houses of Jerusalem and the houses of the kings of Judah will be defiled like that place, Topheth—all the houses on whose rooftops they burned incense to all the host of heaven and poured out drink offerings to other gods.”<small><sub>**MT:**</sub></small>
 [[Jer.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.12|<< Jeremiah 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.14|Jeremiah 19:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having fallen into ruin | <big><span class="asgreek">διαπίπτων</span></big> <sup><small><small>[[G6863]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uncleannesses | <big><span class="asgreek">ακαθαρσιών</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οικίαις</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they burned incense | <big><span class="asgreek">εθυμίασαν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roofs | <big><span class="asgreek">δωμάτων</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| military | <big><span class="asgreek">στρατιά</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offered | <big><span class="asgreek">έσπεισαν</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| libations | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| to strange gods. | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| houses | **<big>[[G3624\|οίκοι]]</big>** |
+| of Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| houses | **<big>[[G3624\|οίκοι]]</big>** |
+| of \[the\] kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| a place | **<big>[[G5117\|τόπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| having fallen into ruin | **<big>[[G6863\|διαπίπτων]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| uncleannesses | **<big>[[G0167\|ακαθαρσιών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| houses | **<big>[[G3614\|οικίαις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| they burned incense | **<big>[[G2370\|εθυμίασαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| roofs | **<big>[[G1430\|δωμάτων]]</big>** |
+| to all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| military | **<big>[[G4756\|στρατιά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offered | **<big>[[G4689\|έσπεισαν]]</big>** |
+| libations | **<big>[[G9145\|σπονδάς]]</big>** |
+| to strange gods. | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G0245\|αλλοτρίοις]]</big>** |
 [[Jer.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.12|<< Jeremiah 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.14|Jeremiah 19:14 >>]]</td></tr></table>
 
 

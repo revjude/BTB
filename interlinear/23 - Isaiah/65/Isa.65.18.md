@@ -6,25 +6,25 @@ But be glad and rejoice forever in what I create; for I will create Jerusalem to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.17|<< Isaiah 65:17]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.19|Isaiah 65:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| except  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rejoice  | <span class="ashebrew"><big>שִׂ֤ישׂוּ </big></span><small><small><sup>[[H7797]]</sup></small></small> &#8207;| Si.su <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and be glad  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גִ֙ילוּ֙ </big></span><small><small><sup>[[H1523]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Gi.lu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עֲדֵי </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.dei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עַ֔ד </big></span><small><small><sup>[[H5703]]</sup></small></small> &#8207;| 'Ad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to create  | <span class="ashebrew"><big>בוֹרֵ֑א </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| vo.Re' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֨י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to create  | <span class="ashebrew"><big>בוֹרֵ֧א </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| vo.Re' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֛ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gladness  | <span class="ashebrew"><big>גִּילָ֖ה </big></span><small><small><sup>[[H1525]]</sup></small></small> &#8207;| gi.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and people its  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַמָּ֥ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Ma <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rejoicing  | <span class="ashebrew"><big>מָשֽׂוֹשׂ </big></span><small><small><sup>[[H4885]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.Sos <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rejoice  |**<big>&#8207;[[H7797\|שִׂ֤ישׂוּ]]&#8207; </big>**| Si.su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and be glad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1523\|גִ֙ילוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gi.lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עֲדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.dei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5703\|עַ֔ד]]&#8207; </big>**| 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to create  |**<big>&#8207;[[H1254A\|בוֹרֵ֑א]]&#8207; </big>**| vo.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to create  |**<big>&#8207;[[H1254A\|בוֹרֵ֧א]]&#8207; </big>**| vo.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֛ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gladness  |**<big>&#8207;[[H1525\|גִּילָ֖ה]]&#8207; </big>**| gi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַמָּ֥]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rejoicing  |**<big>&#8207;[[H4885\|מָשֽׂוֹשׂ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Sos<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.17|<< Isaiah 65:17]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.19|Isaiah 65:19 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶדֶר‎</span></big> **ʻEder** <small>*(eh'-der)*</small> ==**Eder**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עֲדַר‎</span><sup><small>[[H5737]]</small></sup>; an arrangement (i.e. drove)</small>
+**<big><span class="ashebrew">‎עֶדֶר‎</span></big>** **ʻEder** <small>*(eh'-der)*</small> ==**Eder**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5737|‎עֲדַר‎]]</big>**; an arrangement (i.e. drove)</small>
 
 $\quad$ Ader.
 - § Ader = *"flock"*

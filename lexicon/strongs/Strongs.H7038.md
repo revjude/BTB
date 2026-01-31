@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָלַט‎</span></big> **qâlaṭ** <small>*(kaw-lat')*</small> ==**be stunted**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָלַט‎</span></big>** **qâlaṭ** <small>*(kaw-lat')*</small> ==**be stunted**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lacking in his parts.

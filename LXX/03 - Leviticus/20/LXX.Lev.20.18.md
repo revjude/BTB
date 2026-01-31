@@ -7,35 +7,35 @@ And if a man shall lie with a woman having her sickness, and shall uncover her n
 If a man lies with a menstruating woman and has sexual relations with her, he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people.<small><sub>**MT:**</sub></small>
 [[Lev.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.17|<< Leviticus 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.19|Leviticus 20:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should go to bed | <big><span class="asgreek">κοιμηθή</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| sitting apart, | <big><span class="asgreek">αποκαθημένης</span></big> <sup><small><small>[[G6436]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall uncover | <big><span class="asgreek">αποκαλύψει</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her indecency, | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her flow | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he uncovered | <big><span class="asgreek">απεκάλυψε</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| uncovered | <big><span class="asgreek">απεκάλυψε</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flow | <big><span class="asgreek">ρύσιν</span></big> <sup><small><small>[[G4511]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her blood; | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their generation. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should go to bed | **<big>[[G2837\|κοιμηθή]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a woman | **<big>[[G1135\|γυναικός]]</big>** |
+| sitting apart, | **<big>[[G6436\|αποκαθημένης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall uncover | **<big>[[G0601\|αποκαλύψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her indecency, | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her flow | **<big>[[G4077\|πηγήν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| he uncovered | **<big>[[G0601\|απεκάλυψε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G3778\|αύτη]]</big>** |
+| uncovered | **<big>[[G0601\|απεκάλυψε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| flow | **<big>[[G4511\|ρύσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of her blood; | **<big>[[G0129\|αίματος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their generation. | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lev.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.17|<< Leviticus 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.19|Leviticus 20:19 >>]]</td></tr></table>
 
 

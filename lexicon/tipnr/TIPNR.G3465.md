@@ -1,8 +1,8 @@
 <small>*Mysia • A region in northwest Asia Minor visited by Paul*</small>
 
 <span class='tipnrhighlight'>Mysia</span> was a region in northwest Asia Minor \(modern Turkey\) that Paul and his companions passed through on his second missionary journey.
-- A location near Troas<[[G5174]]> first mentioned at [[Neh.3.31|Act.16.7]]; 
-- only referred to as Mysia<[[G3465]]> \(<span class='tipnrLangGreek'>Μυσία</span>\).
+- A location near Troas **<big>[[G5174|Τρωάς]]</big>** first mentioned at [[Neh.3.31|Act.16.7]]; 
+- only referred to as Mysia **<big>[[G3465|Μυσία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.50664305923271,26.08059270470616&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mysia was a region in the northwest of Asia Minor \(modern Turkey\), bordering t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mysia | [<span class='tipnrLangGreek'>Μυσία</span>](G3465) <small>*Greek*</small> | 2x | [[Act.16.7] & [Act.16.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mysia\*\|reference=Act.16.7;Act.16.8) |
-All Strong's for **Mysia**: \[[[G3465]]\]
+| Mysia | [<span class='tipnrLangGreek'>Μυσία</span>](G3465) | 2x | [[Act.16.7] & [Act.16.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mysia\*\|reference=Act.16.7;Act.16.8) |
+All entries for **Mysia**:  **<big>[[G3465|Μυσία]]</big>**

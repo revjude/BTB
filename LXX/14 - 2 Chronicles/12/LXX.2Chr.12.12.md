@@ -7,30 +7,30 @@ And when he humbled himself, the wrath of the LORD turned from him, that he woul
 Because Rehoboam humbled himself, the anger of the LORD turned away from him, and He did not destroy him completely. Indeed, conditions were good in Judah.<small><sub>**MT:**</sub></small>
 [[2Chr.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.11|<< 2 Chronicles 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.13|2 Chronicles 12:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his feeling ashamed, | <big><span class="asgreek">εντραπήναι</span></big> <sup><small><small>[[G1788]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was turned | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| corruption | <big><span class="asgreek">καταφθοράν</span></big> <sup><small><small>[[G7946]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end, | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| matters | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθοί</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his feeling ashamed, | **<big>[[G1788\|εντραπήναι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| was turned | **<big>[[G0654\|απεστράφη]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] anger | **<big>[[G3709\|οργή]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| corruption | **<big>[[G7946\|καταφθοράν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end, | **<big>[[G5056\|τέλος]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| matters | **<big>[[G3056\|λόγοι]]</big>** |
+| good | **<big>[[G0018\|αγαθοί]]</big>** |
 [[2Chr.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.11|<< 2 Chronicles 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.13|2 Chronicles 12:13 >>]]</td></tr></table>
 
 

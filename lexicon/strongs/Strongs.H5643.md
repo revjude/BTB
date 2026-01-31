@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֵתֶר‎</span></big> **çêther** <small>*(say'-ther)*</small> ==**secrecy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">סִתְרָה</span> **çithrâh** <small>*(sith-raw')*</small>; (Deuteronomy [32:38), from <span class="ashebrew">‎סָתַר‎</span><sup><small>[[H5641]]</small></sup></small>
+**<big><span class="ashebrew">‎סֵתֶר‎</span></big>** **çêther** <small>*(say'-ther)*</small> ==**secrecy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">סִתְרָה</span></big>** **çithrâh** <small>*(sith-raw')*</small>; (Deuteronomy [32:38), from **<big>[[H5641|‎סָתַר‎]]</big>**</small>
 
 $\quad$ backbiting, covering, covert, [idiom] disguise(-th), hiding place, privily, protection, secret(-ly, place).
 - ***a cover*** (in a good or a bad, a literal or a figurative sense)
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1c1)** secrecy (of tongue being slanderous)
 n f
 **2)** shelter, protection
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπόκρυφος</span><sup><small>[[G0614]]</small></sup> · <span class="asgreek">βοηθός</span><sup><small>[[G0998]]</small></sup> · <span class="asgreek">δόλος</span><sup><small>[[G1388]]</small></sup> · <span class="asgreek">ἐρεθίζω</span><sup><small>[[G2042]]</small></sup> · <span class="asgreek">λάθρα</span><sup><small>[[G2977]]</small></sup>
+<small>See Greek: </small>**<big>[[G0614|ἀπόκρυφος]]</big>** · **<big>[[G0998|βοηθός]]</big>** · **<big>[[G1388|δόλος]]</big>** · **<big>[[G2042|ἐρεθίζω]]</big>** · **<big>[[G2977|λάθρα]]</big>**

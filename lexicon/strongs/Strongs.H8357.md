@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁתָה‎</span></big> **shêthâh** <small>*(shay-thaw')*</small> ==**buttock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שִׁית‎</span><sup><small>[[H7896]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁתָה‎</span></big>** **shêthâh** <small>*(shay-thaw')*</small> ==**buttock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7896|‎שִׁית‎]]</big>**</small>
 
 $\quad$ buttock.
 - ***the seat*** (of the person)

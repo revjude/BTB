@@ -7,18 +7,18 @@ And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,
 Joel, Jehu son of Joshibiah (son of Seraiah, son of Asiel),<small><sub>**MT:**</sub></small>
 [[1Chr.4.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.34|<< 1 Chronicles 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.36|1 Chronicles 4:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joel, | <big><span class="asgreek">Ιωήλ</span></big> <sup><small><small>[[G2493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ηού</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Josibiah, | <big><span class="asgreek">Ιωσαβία</span></big> <sup><small><small>[[H3143]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Seraiah, | <big><span class="asgreek">Σαρέα</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asiel, | <big><span class="asgreek">Ασιήλ</span></big> <sup><small><small>[[H6221]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Joel, | **<big>[[G2493\|Ιωήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehu | **<big>[[G3778\|Ηού]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Josibiah, | **<big>[[H3143\|Ιωσαβία]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Seraiah, | **<big>[[H8304\|Σαρέα]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Asiel, | **<big>[[H6221\|Ασιήλ]]</big>** |
 [[1Chr.4.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.34|<< 1 Chronicles 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.36|1 Chronicles 4:36 >>]]</td></tr></table>
 
 

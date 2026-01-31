@@ -7,28 +7,28 @@ But David took not the number of them from twenty years old and under: because t
 David did not count the men aged twenty or under, because the LORD had said that He would make Israel as numerous as the stars of the sky.<small><sub>**MT:**</sub></small>
 [[1Chr.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.22|<< 1 Chronicles 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.24|1 Chronicles 27:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| twenty years | <big><span class="asgreek">εικοσαετούς</span></big> <sup><small><small>[[G7052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| below, | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> spoke | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to multiply | <big><span class="asgreek">πληθύναι</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| take | **<big>[[G2983\|έλαβε]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their number | **<big>[[G0706\|αριθμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| twenty years | **<big>[[G7052\|εικοσαετούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| below, | **<big>[[G2736\|κάτω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> spoke | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to multiply | **<big>[[G4129\|πληθύναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stars | **<big>[[G0792\|αστέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανού]]</big>** |
 [[1Chr.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.22|<< 1 Chronicles 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.24|1 Chronicles 27:24 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ Because that Abraham obeyed my voice, and kept my charge, my commandments, my st
 because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”<small><sub>**MT:**</sub></small>
 [[Gen.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.4|<< Genesis 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.6|Genesis 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| obeyed | <big><span class="asgreek">υπήκουσεν</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my | <big><span class="asgreek">εμής</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| guarded | <big><span class="asgreek">εφύλαξε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders, | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ordinances, | <big><span class="asgreek">δικαιώματά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my laws. | <big><span class="asgreek">νόμιμά</span></big> <sup><small><small>[[G8403]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| obeyed | **<big>[[G5219\|υπήκουσεν]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my | **<big>[[G1699\|εμής]]</big>** |
+| voice, | **<big>[[G5456\|φωνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| guarded | **<big>[[G5442\|εφύλαξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my orders, | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my ordinances, | **<big>[[G1345\|δικαιώματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my laws. | **<big>[[G8403\|νόμιμά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.4|<< Genesis 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.6|Genesis 26:6 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ Be careful not to offer your burnt offerings in just any place you see;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.12|<< Deuteronomy 12:12]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.14|Deuteronomy 12:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| take heed  | <span class="ashebrew"><big>הִשָּׁ֣מֶר </big></span><small><small><sup>[[H8104J]]</sup></small></small> &#8207;| hi.Sha.mer <small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to yourself  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּֽן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you should offer up  | <span class="ashebrew"><big>תַּעֲלֶ֖ה </big></span><small><small><sup>[[H5927I]]</sup></small></small> &#8207;| ta.'a.Leh <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| burnt offerings your  | <span class="ashebrew"><big>עֹלֹתֶ֑י </big></span><small><small><sup>[[H5930A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'o.lo.Tei. <small><sup>[[HNcfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in every  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| place  | <span class="ashebrew"><big>מָק֖וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will see  | <span class="ashebrew"><big>תִּרְאֶֽה </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tir.'Eh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take heed  |**<big>&#8207;[[H8104J\|הִשָּׁ֣מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you should offer up  |**<big>&#8207;[[H5927I\|תַּעֲלֶ֖ה]]&#8207; </big>**| ta.'a.Leh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burnt offerings your  |**<big>&#8207;[[H5930A\|עֹלֹתֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'o.lo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in every  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place  |**<big>&#8207;[[H4725\|מָק֖וֹם]]&#8207; </big>**| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will see  |**<big>&#8207;[[H7200G\|תִּרְאֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tir.'Eh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.12|<< Deuteronomy 12:12]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.14|Deuteronomy 12:14 >>]]</td></tr></table>
 
 

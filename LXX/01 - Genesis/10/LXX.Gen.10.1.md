@@ -10,24 +10,24 @@ Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and
 This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.<small><sub>**MT:**</sub></small>
 [[Gen.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.29|<< Genesis 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.2|Genesis 10:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| generations | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Noah -- | <big><span class="asgreek">Νώε</span></big> <sup><small><small>[[G3575]]</small></small></sup> |
-| Shem, | <big><span class="asgreek">Σημ</span></big> <sup><small><small>[[G4590]]</small></small></sup> |
-| Ham, | <big><span class="asgreek">Χαμ</span></big> <sup><small><small>[[H2526]]</small></small></sup> |
-| Japheth. | <big><span class="asgreek">Ιάφεθ</span></big> <sup><small><small>[[H3315]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were born | <big><span class="asgreek">εγεννήθησαν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flood. | <big><span class="asgreek">κατακλυσμόν</span></big> <sup><small><small>[[G2627]]</small></small></sup> |
+| And these | **<big>[[G3778\|αύται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[are\] the | **<big>[[G3588\|αι]]</big>** |
+| generations | **<big>[[G1078\|γενέσεις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Noah -- | **<big>[[G3575\|Νώε]]</big>** |
+| Shem, | **<big>[[G4590\|Σημ]]</big>** |
+| Ham, | **<big>[[H2526\|Χαμ]]</big>** |
+| Japheth. | **<big>[[H3315\|Ιάφεθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| were born | **<big>[[G1080\|εγεννήθησαν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| flood. | **<big>[[G2627\|κατακλυσμόν]]</big>** |
 [[Gen.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.29|<< Genesis 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.2|Genesis 10:2 >>]]</td></tr></table>
 
 

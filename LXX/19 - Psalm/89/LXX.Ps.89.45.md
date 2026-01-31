@@ -7,16 +7,16 @@ The days of his youth hast thou shortened: thou hast covered him with shame. Sel
 You have cut short the days of his youth; You have covered him with shame. Selah<small><sub>**MT:**</sub></small>
 [[Ps.89.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.44|<< Psalm 89:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.46|Psalm 89:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You diminished | <big><span class="asgreek">εσμίκρυνας</span></big> <sup><small><small>[[G9126]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his throne. | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You poured upon | <big><span class="asgreek">κατέχεας</span></big> <sup><small><small>[[G2708]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shame. | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
+| You diminished | **<big>[[G9126\|εσμίκρυνας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his throne. | **<big>[[G2362\|θρόνου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| You poured upon | **<big>[[G2708\|κατέχεας]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| shame. | **<big>[[G0152\|αισχύνην]]</big>** |
 [[Ps.89.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.44|<< Psalm 89:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.46|Psalm 89:46 >>]]</td></tr></table>
 
 

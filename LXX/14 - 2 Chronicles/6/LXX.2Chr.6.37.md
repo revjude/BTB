@@ -7,31 +7,31 @@ Yet [if] they bethink themselves in the land whither they are carried captive, a
 and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’<small><sub>**MT:**</sub></small>
 [[2Chr.6.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.36|<< 2 Chronicles 6:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.38|2 Chronicles 6:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should turn | <big><span class="asgreek">επιστρέψωσι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they were taken captive | <big><span class="asgreek">ηχμαλωτεύθησαν</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall turn | <big><span class="asgreek">επιστρέψωσι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should beseech | <big><span class="asgreek">δεηθώσί</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of their captivity, | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| We sinned, | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| we acted lawlessly, | <big><span class="asgreek">ηνομήσαμεν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we acted impiously; | <big><span class="asgreek">ησεβήσαμεν</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should turn | **<big>[[G1994\|επιστρέψωσι]]</big>** |
+| their heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they were taken captive | **<big>[[G0162\|ηχμαλωτεύθησαν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall turn | **<big>[[G1994\|επιστρέψωσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should beseech | **<big>[[G1189\|δεηθώσί]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of their captivity, | **<big>[[G0161\|αιχμαλωσίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| We sinned, | **<big>[[G0264\|ημάρτομεν]]</big>** |
+| we acted lawlessly, | **<big>[[G6349\|ηνομήσαμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we acted impiously; | **<big>[[G0764\|ησεβήσαμεν]]</big>** |
 [[2Chr.6.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.36|<< 2 Chronicles 6:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.38|2 Chronicles 6:38 >>]]</td></tr></table>
 
 

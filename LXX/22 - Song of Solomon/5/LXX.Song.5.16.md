@@ -7,20 +7,20 @@ His mouth [is] most sweet: yea, he [is] altogether lovely. This [is] my beloved,
 His mouth is most sweet; he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.<small><sub>**MT:**</sub></small>
 [[Song.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.15|<< Song of Solomon 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.1|Song of Solomon 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| His throat | <big><span class="asgreek">φάρυγξ</span></big> <sup><small><small>[[G9621]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] sweetness, | <big><span class="asgreek">γλυκασμοί</span></big> <sup><small><small>[[G6741]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[he is\] entirely | <big><span class="asgreek">όλος</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| desirable. | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| This | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] my beloved \[man\], | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] my dear one, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| His throat | **<big>[[G9621\|φάρυγξ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] sweetness, | **<big>[[G6741\|γλυκασμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[he is\] entirely | **<big>[[G3650\|όλος]]</big>** |
+| desirable. | **<big>[[G1939\|επιθυμία]]</big>** |
+| This | **<big>[[G3778\|ούτος]]</big>** |
+| \[is\] my beloved \[man\], | **<big>[[G6137\|αδελφιδός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|ούτος]]</big>** |
+| \[is\] my dear one, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Song.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.15|<< Song of Solomon 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.1|Song of Solomon 6:1 >>]]</td></tr></table>
 
 

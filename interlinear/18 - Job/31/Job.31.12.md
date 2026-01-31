@@ -6,17 +6,17 @@ For it is a fire that burns down to Abaddon; it would root out my entire harvest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.11|<< Job 31:11]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.13|Job 31:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a fire  | <span class="ashebrew"><big>אֵ֣שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>הִ֭יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abaddon  | <span class="ashebrew"><big>אֲבַדּ֣וֹן </big></span><small><small><sup>[[H0011]]</sup></small></small> &#8207;| 'a.va.Don <small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will devour  | <span class="ashebrew"><big>תֹּאכֵ֑ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| to.Khel <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<in> all  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> Khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| produce my  | <span class="ashebrew"><big>תְּב֖וּאָתִ֣ </big></span><small><small><sup>[[H8393]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| te.Vu.'a.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will root up  | <span class="ashebrew"><big>תְשָׁרֵֽשׁ </big></span><small><small><sup>[[H8327]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.sha.Resh <small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a fire  |**<big>&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|הִ֭יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abaddon  |**<big>&#8207;[[H0011\|אֲבַדּ֣וֹן]]&#8207; </big>**| 'a.va.Don<small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will devour  |**<big>&#8207;[[H0398\|תֹּאכֵ֑ל]]&#8207; </big>**| to.Khel<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<in> all  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce my  |**<big>&#8207;[[H8393\|תְּב֖וּאָתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| te.Vu.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will root up  |**<big>&#8207;[[H8327\|תְשָׁרֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.sha.Resh<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.11|<< Job 31:11]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.13|Job 31:13 >>]]</td></tr></table>
 
 

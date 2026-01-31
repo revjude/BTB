@@ -10,29 +10,29 @@ Ask ye of the LORD rain in the time of the latter rain; [so] the LORD shall make
 Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field.<small><sub>**MT:**</sub></small>
 [[Zech.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.17|<< Zechariah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.2|Zechariah 10:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ask | <big><span class="asgreek">αιτείσθε</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| season, | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| \[the\] early | <big><span class="asgreek">πρώϊμον</span></big> <sup><small><small>[[G4406]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| late \[rain\]. | <big><span class="asgreek">όψιμον</span></big> <sup><small><small>[[G3797]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a visible display; | <big><span class="asgreek">φαντασίας</span></big> <sup><small><small>[[G5325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| of winter | <big><span class="asgreek">χειμερινόν</span></big> <sup><small><small>[[G9710]]</small></small></sup> |
-| he gives | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to each, | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| pasturage | <big><span class="asgreek">βοτάνην</span></big> <sup><small><small>[[G1008]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] field. | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| Ask | **<big>[[G0154\|αιτείσθε]]</big>** |
+| of | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| for rain | **<big>[[G5205\|υετόν]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| season, | **<big>[[G5610\|ώραν]]</big>** |
+| \[the\] early | **<big>[[G4406\|πρώϊμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| late \[rain\]. | **<big>[[G3797\|όψιμον]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| a visible display; | **<big>[[G5325\|φαντασίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] rain | **<big>[[G5205\|υετόν]]</big>** |
+| of winter | **<big>[[G9710\|χειμερινόν]]</big>** |
+| he gives | **<big>[[G1325\|δώσει]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| to each, | **<big>[[G1538\|εκάστω]]</big>** |
+| pasturage | **<big>[[G1008\|βοτάνην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] field. | **<big>[[G0068\|αγρώ]]</big>** |
 [[Zech.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.17|<< Zechariah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.2|Zechariah 10:2 >>]]</td></tr></table>
 
 

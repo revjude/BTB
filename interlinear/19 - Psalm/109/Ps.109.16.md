@@ -6,21 +6,21 @@ For he never thought to show kindness, but pursued the poor and needy and broken
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.15|<< Psalms 109:15]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.17|Psalms 109:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| because  | <span class="ashebrew"><big>יַ֗עַן </big></span><small><small><sup>[[H3282]]</sup></small></small> &#8207;| Ya.'an <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he remembered  | <span class="ashebrew"><big>זָכַר֮ </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| za.Khar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to do  | <span class="ashebrew"><big>עֲשׂ֪וֹת </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| a.Sot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loyalty  | <span class="ashebrew"><big>חָ֥סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Cha.sed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he harassed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּרְדֹּ֡ף </big></span><small><small><sup>[[H7291]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yir.Dof <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>אִישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor  | <span class="ashebrew"><big>עָנִ֣י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and needy  | <span class="ashebrew"><big>וְ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶבְיוֹן </big></span><small><small><sup>[[H0034]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> 'ev.yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and disheartened of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נִכְאֵ֨ה </big></span><small><small><sup>[[H3512A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> nikh.'Eh <small><sup>[[HVNrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵבָ֬ב </big></span><small><small><sup>[[H3824]]</sup></small></small> &#8207;| le.Vav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to put to [them] death  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹתֵֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mo.Tet <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he remembered  |**<big>&#8207;[[H2142\|זָכַר֮]]&#8207; </big>**| za.Khar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do  |**<big>&#8207;[[H6213A\|עֲשׂ֪וֹת]]&#8207; </big>**| a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loyalty  |**<big>&#8207;[[H2617A\|חָ֥סֶד]]&#8207; </big>**| Cha.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he harassed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדֹּ֡ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Dof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0376I\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor  |**<big>&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and needy  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H0034\|אֶבְיוֹן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'ev.yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and disheartened of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3512A\|נִכְאֵ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nikh.'Eh<small><sup>[[HVNrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3824\|לֵבָ֬ב]]&#8207; </big>**| le.Vav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put to [them] death  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4191\|מוֹתֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.Tet<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.15|<< Psalms 109:15]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.17|Psalms 109:17 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּנַן‎</span></big> **gânan** <small>*(gaw-nan')*</small> ==**to defend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּנַן‎</span></big>** **gânan** <small>*(gaw-nan')*</small> ==**to defend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ defend.

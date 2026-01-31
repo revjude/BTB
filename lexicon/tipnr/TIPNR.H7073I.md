@@ -4,10 +4,10 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Kenaz</span> was the father of Othniel, a judge of Israel who delivered the Israelites from the oppression of Cushan-rishathaim.
 - A man living at the time of Egypt and Wilderness, first mentioned at [[Num.32.12|Num.32.12]]; 
-- referred to as Kenaz<[[H7073I]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>\), or Kenizzite<[[H7074H]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Jephunneh<[[H3312G]]>; 
-- a brother of Caleb<[[H3612G]]>; 
--  father of Othniel<[[H6274]]> and Seraiah<[[H8304J]]>.
+- referred to as Kenaz **<big>[[H7073|קְנַז]]</big>**, or Kenizzite **<big>[[H7074|קְנִזִּי]]</big>**; 
+-  son of Jephunneh **<big>[[H3312|יְפֻנֶּה]]</big>**; 
+- a brother of Caleb **<big>[[H3612|כָּלֵב]]</big>**; 
+-  father of Othniel **<big>[[H6274|עׇתְנִיאֵל]]</big>** and Seraiah **<big>[[H8304|שְׂרָיָה]]</big>**.
 
 Kenaz is mentioned in several passages as the father of Othniel, a prominent figure in the early history of Israel. Othniel was a brave warrior and a judge who delivered the Israelites from the oppression of Cushan-rishathaim, king of Mesopotamia \([[Judg.3.9|Judges 3:9]]-11\). 
 
@@ -21,9 +21,9 @@ The story of Kenaz and his son Othniel highlights the importance of faith, coura
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kenaz | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H7073I) <small>*Hebrew*</small> | 5x | [[Jos.15.17] ... [1Ch.4.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenaz\*\|reference=Jos.15.17;Jdg.1.13;Jdg.3.9;Jdg.3.11;1Ch.4.13) |
-| Kenizzite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>](H7074H) <small>*Hebrew*</small> | 3x | [[Num.32.12] ... [Jos.14.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenizzite\*\|reference=Num.32.12;Jos.14.6;Jos.14.14) |
-All Strong's for **Kenaz**: \[[[H7073I]]\] \[[[H7074H]]\]
+| Kenaz | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H7073I) | 5x | [[Jos.15.17] ... [1Ch.4.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenaz\*\|reference=Jos.15.17;Jdg.1.13;Jdg.3.9;Jdg.3.11;1Ch.4.13) |
+| Kenizzite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>](H7074H) | 3x | [[Num.32.12] ... [Jos.14.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenizzite\*\|reference=Num.32.12;Jos.14.6;Jos.14.14) |
+All entries for **Kenaz**:  **<big>[[H7073|קְנַז]]</big>** ☩  **<big>[[H7074|קְנִזִּי]]</big>**
 #### Related Profiles:
 - **[Jephunneh](H3312G)** (father)
 - **[Caleb](H3612G)** (sibling)

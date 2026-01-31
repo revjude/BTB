@@ -7,34 +7,34 @@ And there was nothing lacking to them, neither small nor great, neither sons nor
 Nothing was missing, young or old, son or daughter, or any of the plunder the Amalekites had taken. David brought everything back.<small><sub>**MT:**</sub></small>
 [[1Sam.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.18|<< 1 Samuel 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.20|1 Samuel 30:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| was perished | <big><span class="asgreek">διεφώνησεν</span></big> <sup><small><small>[[G6902]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| great, | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| of theirs -- | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| David returned. | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| nothing | **<big>[[G3756\|ου]]</big>** |
+| was perished | **<big>[[G6902\|διεφώνησεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| small | **<big>[[G3398\|μικρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| great, | **<big>[[G3173\|μεγάλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατέρων]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| spoils | **<big>[[G4661\|σκύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| of theirs -- | **<big>[[G1473\|αυτών]]</big>** |
+| all the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| David returned. | **<big>[[G1994\|επέστρεψε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
 [[1Sam.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.18|<< 1 Samuel 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.20|1 Samuel 30:20 >>]]</td></tr></table>
 
 

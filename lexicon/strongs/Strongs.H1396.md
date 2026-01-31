@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּבַר‎</span></big> **gâbar** <small>*(gaw-bar')*</small> ==**to prevail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּבַר‎</span></big>** **gâbar** <small>*(gaw-bar')*</small> ==**to prevail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ exceed, confirm, be great, be mighty, prevail, put to more (strength), strengthen, be stronger, be valiant.
@@ -17,4 +17,4 @@ $\quad$ **1d)** (Hithpael)
 $\quad$ $\quad$ **1d1)** to show oneself mighty
 $\quad$ $\quad$ **1d2)** to act proudly (toward God)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυναμόω</span><sup><small>[[G1412]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">ἐνισχύω</span><sup><small>[[G1765]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">κραταιόω</span><sup><small>[[G2901]]</small></sup> · <span class="asgreek">μεγαλύνω</span><sup><small>[[G3170]]</small></sup> · <span class="asgreek">ὑψόω</span><sup><small>[[G5312]]</small></sup>
+<small>See Greek: </small>**<big>[[G1412|δυναμόω]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G1765|ἐνισχύω]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G2480|ἰσχύω]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G2901|κραταιόω]]</big>** · **<big>[[G3170|μεγαλύνω]]</big>** · **<big>[[G5312|ὑψόω]]</big>**

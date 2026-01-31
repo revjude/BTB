@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אִם‎</span></big> **ʼim** <small>*(eem)*</small> ==**if**==  <sup><small>[[TEHMC#H:Cond|H:Cond]]</small></sup> 
+**<big><span class="ashebrew">‎אִם‎</span></big>** **ʼim** <small>*(eem)*</small> ==**if**==  <sup><small>[[TEHMC#H:Cond|H:Cond]]</small></sup> 
 <small>a primitive particle</small>
 
 $\quad$ (and, can-, doubtless, if, that) (not), [phrase] but, either, [phrase] except, [phrase] more(-over if, than), neither, nevertheless, nor, oh that, or, [phrase] save (only, -ing), seeing, since, sith, [phrase] surely (no more, none, not), though, [phrase] of a truth, [phrase] unless, [phrase] verily, when, whereas, whether, while, [phrase] yet.

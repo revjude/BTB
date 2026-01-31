@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nahath</span> was one of the Levites appointed by King Hezekiah to oversee the distribution of offerings and tithes.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.31.13|2Ch.31.13]]; 
-- only referred to as Nahath<[[H5184H]]> \(<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Nahath **<big>[[H5184|נַחַת]]</big>**.
 
 Nahath is mentioned in [[2Chr.31.13|2 Chronicles 31:13]] as one of the Levites who served during the reign of King Hezekiah of Judah. He was appointed by the king to oversee the distribution of the offerings, tithes, and dedicated gifts brought to the Temple in Jerusalem. 
 
@@ -16,5 +16,5 @@ The mention of Nahath in this context highlights the importance of the Levites' 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahath | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H5184H) <small>*Hebrew*</small> | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahath\*\|reference=2Ch.31.13) |
-All Strong's for **Nahath**: \[[[H5184H]]\]
+| Nahath | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H5184H) | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahath\*\|reference=2Ch.31.13) |
+All entries for **Nahath**:  **<big>[[H5184|נַחַת]]</big>**

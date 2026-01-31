@@ -7,34 +7,34 @@ And I will overthrow the throne of kingdoms, and I will destroy the strength of 
 I will overturn royal thrones and destroy the power of the kingdoms of the nations. I will overturn chariots and their riders; horses and their riders will fall, each by the sword of his brother.<small><sub>**MT:**</sub></small>
 [[Hag.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.21|<< Haggai 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.23|Haggai 2:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall eradicate | <big><span class="asgreek">καταστρέψω</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| thrones | <big><span class="asgreek">θρόνους</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| of kings, | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall annihilate | <big><span class="asgreek">ολοθρεύσω</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
-| \[the\] power | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall eradicate | <big><span class="asgreek">καταστρέψω</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| riders. | <big><span class="asgreek">αναβάτας</span></big> <sup><small><small>[[G6275]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall come down | <big><span class="asgreek">καταβήσονται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποι</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their riders, | <big><span class="asgreek">αναβάται</span></big> <sup><small><small>[[G6275]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother. | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall eradicate | **<big>[[G2690\|καταστρέψω]]</big>** |
+| thrones | **<big>[[G2362\|θρόνους]]</big>** |
+| of kings, | **<big>[[G0935\|βασιλέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall annihilate | **<big>[[G3645\|ολοθρεύσω]]</big>** |
+| \[the\] power | **<big>[[G1411\|δύναμιν]]</big>** |
+| of kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations. | **<big>[[G1484\|εθνών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall eradicate | **<big>[[G2690\|καταστρέψω]]</big>** |
+| chariots | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| riders. | **<big>[[G6275\|αναβάτας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall come down | **<big>[[G2597\|καταβήσονται]]</big>** |
+| horses | **<big>[[G2462\|ίπποι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their riders, | **<big>[[G6275\|αναβάται]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his brother. | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Hag.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.21|<< Haggai 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.23|Haggai 2:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Fish Gate • Gate in Jerusalem's wall; rebuilt by Hassenaah during Nehemiah's time*</small>
 
 The <span class='tipnrhighlight'>Fish Gate</span>, a gate in Jerusalem's wall, was rebuilt by the sons of Hassenaah during Nehemiah's time and was a location of judgment and trade.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[2Chr.33.14|2Ch.33.14]]; 
-- only referred to as Fish\_Gate<[[H1709G]]> \(<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ג</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[2Chr.33.14|2Ch.33.14]]; 
+- only referred to as Fish\_Gate **<big>[[H1709|דָּג]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The rebuilding of the Fish Gate during Nehemiah's time was part of the larger ef
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Fish (Gate) | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ג</span>](H1709G) <small>*Hebrew*</small> | 4x | [[2Ch.33.14] ... [Zep.1.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Fish\*\|reference=2Ch.33.14;Neh.3.3;Neh.12.39;Zep.1.10) |
-All Strong's for **Fish_Gate**: \[[[H1709G]]\]
+| Fish (Gate) | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ג</span>](H1709G) | 4x | [[2Ch.33.14] ... [Zep.1.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Fish\*\|reference=2Ch.33.14;Neh.3.3;Neh.12.39;Zep.1.10) |
+All entries for **Fish Gate**:  **<big>[[H1709|דָּג]]</big>**

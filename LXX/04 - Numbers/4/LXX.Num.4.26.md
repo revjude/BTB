@@ -7,43 +7,43 @@ And the hangings of the court, and the hanging for the door of the gate of the c
 the curtains of the courtyard, and the curtains for the entrance at the gate of the courtyard that surrounds the tabernacle and altar, along with their ropes and all the equipment for their service. The Gershonites will do all that needs to be done with these items.<small><sub>**MT:**</sub></small>
 [[Num.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.25|<< Numbers 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.27|Numbers 4:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrouds | <big><span class="asgreek">ιστία</span></big> <sup><small><small>[[G7732]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard, | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overcovering | <big><span class="asgreek">κατακάλυμμα</span></big> <sup><small><small>[[G7845]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard, | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| are upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their extras, | <big><span class="asgreek">περισσά</span></big> <sup><small><small>[[G4053]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their ministries. | <big><span class="asgreek">λειτουργικά</span></big> <sup><small><small>[[G3010]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| they officiate | <big><span class="asgreek">λειτουργούσιν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall prepare. | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| shrouds | **<big>[[G7732\|ιστία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard, | **<big>[[G0833\|αυλής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| overcovering | **<big>[[G7845\|κατακάλυμμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard, | **<big>[[G0833\|αυλής]]</big>** |
+| as many as | **<big>[[G3745\|όσα]]</big>** |
+| are upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent, | **<big>[[G4633\|σκηνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their extras, | **<big>[[G4053\|περισσά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of their ministries. | **<big>[[G3010\|λειτουργικά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| as many as | **<big>[[G3745\|όσα]]</big>** |
+| they officiate | **<big>[[G3008\|λειτουργούσιν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| they shall prepare. | **<big>[[G4160\|ποιήσουσι]]</big>** |
 [[Num.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.25|<< Numbers 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.27|Numbers 4:27 >>]]</td></tr></table>
 
 

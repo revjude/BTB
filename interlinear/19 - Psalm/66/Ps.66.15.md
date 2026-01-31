@@ -6,20 +6,20 @@ I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.14|<< Psalms 66:14]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.16|Psalms 66:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| burnt offerings of  | <span class="ashebrew"><big>עֹ֘ל֤וֹת </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| o.Lot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fatlings  | <span class="ashebrew"><big>מֵחִ֣ים </big></span><small><small><sup>[[H4220]]</sup></small></small> &#8207;| me.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will offer up  | <span class="ashebrew"><big>אַעֲלֶה </big></span><small><small><sup>[[H5927I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.'a.leh- <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָּ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| la <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] smoke of  | <span class="ashebrew"><big>קְטֹ֣רֶת </big></span><small><small><sup>[[H7004]]</sup></small></small> &#8207;| ke.To.ret <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rams  | <span class="ashebrew"><big>אֵילִ֑ים </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will offer  | <span class="ashebrew"><big>אֶ֥עֱשֶֽׂה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'E.'e.seh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָקָ֖ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| va.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עַתּוּדִ֣ים </big></span><small><small><sup>[[H6260]]</sup></small></small> &#8207;| 'a.tu.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burnt offerings of  |**<big>&#8207;[[H5930A\|עֹ֘ל֤וֹת]]&#8207; </big>**| o.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatlings  |**<big>&#8207;[[H4220\|מֵחִ֣ים]]&#8207; </big>**| me.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will offer up  |**<big>&#8207;[[H5927I\|אַעֲלֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.'a.leh-<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָּ֭]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] smoke of  |**<big>&#8207;[[H7004\|קְטֹ֣רֶת]]&#8207; </big>**| ke.To.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  |**<big>&#8207;[[H0352A\|אֵילִ֑ים]]&#8207; </big>**| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will offer  |**<big>&#8207;[[H6213H\|אֶ֥עֱשֶֽׂה]]&#8207; </big>**| 'E.'e.seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָקָ֖ר]]&#8207; </big>**| va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H6260\|עַתּוּדִ֣ים]]&#8207; </big>**| 'a.tu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.14|<< Psalms 66:14]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.16|Psalms 66:16 >>]]</td></tr></table>
 
 

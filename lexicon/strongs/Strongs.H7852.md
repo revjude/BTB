@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂטַם‎</span></big> **sâṭam** <small>*(saw-tam')*</small> ==**to hate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂטַם‎</span></big>** **sâṭam** <small>*(saw-tam')*</small> ==**to hate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ hate, oppose self against.

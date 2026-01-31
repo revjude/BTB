@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲטָרוֹת‎</span></big> **ʻĂṭârôwth** <small>*(at-aw-roth')*</small> ==**Ataroth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">עֲטָרֹת</span> **ʻĂṭârôth** <small>*(at-awroth')*</small>; plural of <span class="ashebrew">‎עֲטָרָה‎</span><sup><small>[[H5850]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲטָרוֹת‎</span></big>** **ʻĂṭârôwth** <small>*(at-aw-roth')*</small> ==**Ataroth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲטָרֹת</span></big>** **ʻĂṭârôth** <small>*(at-awroth')*</small>; plural of **<big>[[H5850|‎עֲטָרָה‎]]</big>**</small>
 
 $\quad$ Ataroth.
 - § Ataroth = *"crowns"*

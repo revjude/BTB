@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קְצָת‎</span></big> **qᵉtsâth** <small>*(kets-awth')*</small> ==**end**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎קְצָת‎</span><sup><small>[[H7117]]</small></sup></small>
+**<big><span class="asaramaic">‎קְצָת‎</span></big>** **qᵉtsâth** <small>*(kets-awth')*</small> ==**end**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7117|‎קְצָת‎]]</big>**</small>
 
 $\quad$ end, partly.
 - {***a termination*** (literally or figuratively)

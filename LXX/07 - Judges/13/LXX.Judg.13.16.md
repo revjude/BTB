@@ -7,39 +7,39 @@ And the angel of the LORD said unto Manoah, Though thou detain me, I will not ea
 And the angel of the LORD replied, “Even if I stay, I will not eat your food. But if you prepare a burnt offering, offer it to the LORD.” For Manoah did not know that it was the angel of the LORD.<small><sub>**MT:**</sub></small>
 [[Judg.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.15|<< Judges 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.17|Judges 13:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Manoah, | <big><span class="asgreek">Μανώε</span></big> <sup><small><small>[[H4495]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| it should hold | <big><span class="asgreek">βιάση</span></big> <sup><small><small>[[G0971]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγομαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bread \[loaves\]. | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should offer | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ανοίσεις</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| Manoah | <big><span class="asgreek">Μανώε</span></big> <sup><small><small>[[H4495]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he \[was\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Manoah, | **<big>[[H4495\|Μανώε]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| it should hold | **<big>[[G0971\|βιάση]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φάγομαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your bread \[loaves\]. | **<big>[[G0740\|άρτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should offer | **<big>[[G4160\|ποιήσης]]</big>** |
+| a whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| you shall offer | **<big>[[G0399\|ανοίσεις]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνω]]</big>** |
+| Manoah | **<big>[[H4495\|Μανώε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| an angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| he \[was\] | **<big>[[G1473\|αυτός]]</big>** |
 [[Judg.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.15|<< Judges 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.17|Judges 13:17 >>]]</td></tr></table>
 
 

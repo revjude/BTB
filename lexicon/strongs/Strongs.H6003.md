@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲמָלֵקִי‎</span></big> **ʻĂmâlêqîy** <small>*(am-aw-lay-kee')*</small> ==**Amalekite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎עֲמָלֵק‎</span><sup><small>[[H6002]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲמָלֵקִי‎</span></big>** **ʻĂmâlêqîy** <small>*(am-aw-lay-kee')*</small> ==**Amalekite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H6002|‎עֲמָלֵק‎]]</big>**</small>
 
 $\quad$ Amalekite(-s).
 - § Amalekite = *see Amalek "people of lapping"*

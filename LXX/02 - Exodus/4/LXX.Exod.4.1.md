@@ -10,33 +10,33 @@ And Moses answered and said, But, behold, they will not believe me, nor hearken 
 Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’”<small><sub>**MT:**</sub></small>
 [[Exod.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.22|<< Exodus 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.2|Exodus 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| believe | <big><span class="asgreek">πιστεύσωσί</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισακούσωσι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for they shall say | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| appear | <big><span class="asgreek">ώπταί</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I say | <big><span class="asgreek">ερώ</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them? | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| believe | **<big>[[G4100\|πιστεύσωσί]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| listen to | **<big>[[G1522\|εισακούσωσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for they shall say | **<big>[[G2046\|ερούσι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| appear | **<big>[[G3708\|ώπταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| shall I say | **<big>[[G2046\|ερώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them? | **<big>[[G1473\|αυτούς]]</big>** |
 [[Exod.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.22|<< Exodus 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.2|Exodus 4:2 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gi
 Do not deny justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.<small><sub>**MT:**</sub></small>
 [[Deut.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινούσι</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| a judgment, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| they shall not discriminate | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επιγνώσονται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| a person, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall they take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| bribes; | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| for the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| bribes | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| make blind | <big><span class="asgreek">εκτυφλοί</span></big> <sup><small><small>[[G7167]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] wise, | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lift away | <big><span class="asgreek">εξαίρει</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] just. | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| They shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινούσι]]</big>** |
+| a judgment, | **<big>[[G2920\|κρίσιν]]</big>** |
+| they shall not discriminate | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1921\|επιγνώσονται]]</big>** |
+| a person, | **<big>[[G4383\|πρόσωπον]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall they take | **<big>[[G2983\|λήψονται]]</big>** |
+| bribes; | **<big>[[G1435\|δώρα]]</big>** |
+| for the | **<big>[[G3588\|τα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| bribes | **<big>[[G1435\|δώρα]]</big>** |
+| make blind | **<big>[[G7167\|εκτυφλοί]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of \[the\] wise, | **<big>[[G4680\|σοφών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lift away | **<big>[[G1808\|εξαίρει]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγους]]</big>** |
+| of \[the\] just. | **<big>[[G1342\|δικαίων]]</big>** |
 [[Deut.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
 

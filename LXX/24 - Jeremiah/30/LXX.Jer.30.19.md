@@ -7,21 +7,21 @@ And out of them shall proceed thanksgiving and the voice of them that make merry
 Thanksgiving will proceed from them, a sound of celebration. I will multiply them, and they will not be decreased; I will honor them, and they will not be belittled.<small><sub>**MT:**</sub></small>
 [[Jer.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.18|<< Jeremiah 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.20|Jeremiah 30:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall come forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ones singing, | <big><span class="asgreek">άδοντες</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of ones playing. | <big><span class="asgreek">παιζόντων</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall make them superabundant, | <big><span class="asgreek">πλεονάσω</span></big> <sup><small><small>[[G4121]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they be made less. | <big><span class="asgreek">ελαττωθώσι</span></big> <sup><small><small>[[G7176]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall come forth | **<big>[[G1831\|εξελεύσονται]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| ones singing, | **<big>[[G0103\|άδοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a sound | **<big>[[G5456\|φωνή]]</big>** |
+| of ones playing. | **<big>[[G3815\|παιζόντων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall make them superabundant, | **<big>[[G4121\|πλεονάσω]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they be made less. | **<big>[[G7176\|ελαττωθώσι]]</big>** |
 [[Jer.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.18|<< Jeremiah 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.20|Jeremiah 30:20 >>]]</td></tr></table>
 
 

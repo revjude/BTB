@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֶלֶד‎</span></big> **cheled** <small>*(kheh'-led)*</small> ==**lifetime/world**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֶלֶד‎</span></big>** **cheled** <small>*(kheh'-led)*</small> ==**lifetime/world**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root apparently meaning to glide swiftly</small>
 
 $\quad$ age, short time, world.
@@ -7,4 +7,4 @@ $\quad$ age, short time, world.
 
 **1)** age, duration of life, the world
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βρόχος</span><sup><small>[[G1029]]</small></sup> · <span class="asgreek">γῆ</span><sup><small>[[G1093]]</small></sup> · <span class="asgreek">κληρονομία</span><sup><small>[[G2817]]</small></sup> · <span class="asgreek">κλῆρος</span><sup><small>[[G2819]]</small></sup> · <span class="asgreek">μερίς</span><sup><small>[[G3310]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">ὑπόστασις</span><sup><small>[[G5287]]</small></sup>
+<small>See Greek: </small>**<big>[[G1029|βρόχος]]</big>** · **<big>[[G1093|γῆ]]</big>** · **<big>[[G2817|κληρονομία]]</big>** · **<big>[[G2819|κλῆρος]]</big>** · **<big>[[G3310|μερίς]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G5287|ὑπόστασις]]</big>**

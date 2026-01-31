@@ -7,32 +7,32 @@ Yet within three days shall Pharaoh lift up thy head from off thee, and shall ha
 Within three days Pharaoh will lift off your head and hang you on a tree. Then the birds will eat the flesh of your body.”<small><sub>**MT:**</sub></small>
 [[Gen.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.18|<< Genesis 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.20|Genesis 40:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Yet in | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh will remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hang | <big><span class="asgreek">κρεμάσει</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a timber, | <big><span class="asgreek">ξύλου</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Yet in | **<big>[[G2089\|έτι]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Pharaoh will remove | **<big>[[G0851\|αφελεί]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hang | **<big>[[G2910\|κρεμάσει]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a timber, | **<big>[[G3586\|ξύλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will eat | **<big>[[G2068\|φάγεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| birds | **<big>[[G3732\|όρνεα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| flesh | **<big>[[G4561\|σάρκας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Gen.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.18|<< Genesis 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.20|Genesis 40:20 >>]]</td></tr></table>
 
 

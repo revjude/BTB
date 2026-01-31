@@ -7,33 +7,33 @@ And [there were] made on them, on the doors of the temple, cherubims and palm tr
 Cherubim and palm trees like those on the walls were carved on the doors of the outer sanctuary, and there was a wooden canopy outside, on the front of the portico.<small><sub>**MT:**</sub></small>
 [[Ezek.41.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.24|<< Ezekiel 41:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.26|Ezekiel 41:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a carving | <big><span class="asgreek">γλυφή</span></big> <sup><small><small>[[G6746]]</small></small></sup> |
-| \[was\] upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doorways | <big><span class="asgreek">θυρώματα</span></big> <sup><small><small>[[G7699]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple -- | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| cherubim | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carving | <big><span class="asgreek">γλυφήν</span></big> <sup><small><small>[[G6746]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy places; | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there were\] seasoned | <big><span class="asgreek">σπουδαία</span></big> <sup><small><small>[[G4705]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| outside. | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a carving | **<big>[[G6746\|γλυφή]]</big>** |
+| \[was\] upon | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| doorways | **<big>[[G7699\|θυρώματα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| temple -- | **<big>[[G3485\|ναού]]</big>** |
+| cherubim | **<big>[[G5502\|χερουβείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| palms | **<big>[[G5404\|φοίνικες]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| carving | **<big>[[G6746\|γλυφήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holy places; | **<big>[[G0039\|αγίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there were\] seasoned | **<big>[[G4705\|σπουδαία]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| outside. | **<big>[[G1855\|έξωθεν]]</big>** |
 [[Ezek.41.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.24|<< Ezekiel 41:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.26|Ezekiel 41:26 >>]]</td></tr></table>
 
 

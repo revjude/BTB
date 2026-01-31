@@ -7,38 +7,38 @@ But the word of the LORD was unto them precept upon precept, precept upon precep
 Then the word of the LORD to them will become: “Order on order, order on order, line on line, line on line; a little here, a little there,” so that they will go stumbling backward and will be injured, ensnared, and captured.<small><sub>**MT:**</sub></small>
 [[Isa.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.12|<< Isaiah 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.14|Isaiah 28:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λόγιον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψις</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| affliction, | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| hope, | <big><span class="asgreek">ελπίδι</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a little, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a little; | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should go | <big><span class="asgreek">πορευθώσι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should fall | <big><span class="asgreek">πέσωσιν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear, | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be exposed to danger, | <big><span class="asgreek">κινδυνεύσουσι</span></big> <sup><small><small>[[G2793]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be broken, | <big><span class="asgreek">συντριβήσονται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be captured. | <big><span class="asgreek">αλώσονται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λόγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| affliction | **<big>[[G2347\|θλίψις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| affliction, | **<big>[[G2347\|θλίψιν]]</big>** |
+| hope | **<big>[[G1680\|ελπίς]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| hope, | **<big>[[G1680\|ελπίδι]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| a little, | **<big>[[G3398\|μικρόν]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| a little; | **<big>[[G3398\|μικρόν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should go | **<big>[[G4198\|πορευθώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should fall | **<big>[[G4098\|πέσωσιν]]</big>** |
+| to | **<big>[[G1722\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear, | **<big>[[G3694\|οπίσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be exposed to danger, | **<big>[[G2793\|κινδυνεύσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be broken, | **<big>[[G4937\|συντριβήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be captured. | **<big>[[G6226\|αλώσονται]]</big>** |
 [[Isa.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.12|<< Isaiah 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.14|Isaiah 28:14 >>]]</td></tr></table>
 
 

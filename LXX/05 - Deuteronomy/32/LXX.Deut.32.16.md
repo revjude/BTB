@@ -7,16 +7,16 @@ They provoked him to jealousy with strange [gods], with abominations provoked th
 They provoked His jealousy with foreign gods; they enraged Him with abominations.<small><sub>**MT:**</sub></small>
 [[Deut.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.15|<< Deuteronomy 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.17|Deuteronomy 32:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They provoked | <big><span class="asgreek">παρώξυνάν</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] alien \[ones\]; | <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their abominations | <big><span class="asgreek">βδελύγμασιν</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they greatly embittered | <big><span class="asgreek">εξεπίκρανάν</span></big> <sup><small><small>[[G7129]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They provoked | **<big>[[G3947\|παρώξυνάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] alien \[ones\]; | **<big>[[G0245\|αλλοτρίοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their abominations | **<big>[[G0946\|βδελύγμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they greatly embittered | **<big>[[G7129\|εξεπίκρανάν]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Deut.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.15|<< Deuteronomy 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.17|Deuteronomy 32:17 >>]]</td></tr></table>
 
 

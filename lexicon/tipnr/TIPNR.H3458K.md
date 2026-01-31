@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ishmael</span> was the son of Jehohanan, who supported Jehoiada in making Joash king \([[2Chr.23.1|2Ch.23.1]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1|2Ch.23.1]]; 
-- only referred to as Ishmael<[[H3458K]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>אל</span>\); 
-- a son of Jehohanan<[[H3076K]]>.
+- only referred to as Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>**; 
+- a son of Jehohanan **<big>[[H3076|יְהוֹחָנָן]]</big>**.
 
 Ishmael is mentioned in [[2Chr.23.1|2 Chronicles 23:1]] as the son of Jehohanan. He was one of the commanders that the priest Jehoiada summoned to help him overthrow Queen Athaliah and install Joash as the rightful king of Judah. 
 
@@ -15,7 +15,7 @@ Ishmael himself is not mentioned as being directly involved in the coup. However
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishmael | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>אל</span>](H3458K) <small>*Hebrew*</small> | 1x | [2Ch.23.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmael\*\|reference=2Ch.23.1) |
-All Strong's for **Ishmael**: \[[[H3458K]]\]
+| Ishmael | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>אל</span>](H3458K) | 1x | [2Ch.23.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmael\*\|reference=2Ch.23.1) |
+All entries for **Ishmael**:  **<big>[[H3458|יִשְׁמָעֵאל]]</big>**
 #### Related Profiles:
 - **[Jehohanan](H3076K)** (father)

@@ -7,35 +7,35 @@ Therefore, [as] I live, saith the Lord GOD, I will even do according to thine an
 therefore as surely as I live, declares the Lord GOD, I will treat you according to the anger and jealousy you showed in your hatred against them, and I will make Myself known among them when I judge you.<small><sub>**MT:**</sub></small>
 [[Ezek.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.10|<< Ezekiel 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.12|Ezekiel 35:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[as\] I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hatred, | <big><span class="asgreek">έχθραν</span></big> <sup><small><small>[[G2189]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your zeal | <big><span class="asgreek">ζήλόν</span></big> <sup><small><small>[[G2205]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your detesting | <big><span class="asgreek">μισήσαί</span></big> <sup><small><small>[[G3404]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1472]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be known | <big><span class="asgreek">γνωσθήσομαί</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I judge | <big><span class="asgreek">κρινώ</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| \[as\] I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Even | **<big>[[G2532\|και]]</big>** |
+| I will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hatred, | **<big>[[G2189\|έχθραν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your zeal | **<big>[[G2205\|ζήλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| you did | **<big>[[G4160\|εποίησας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your detesting | **<big>[[G3404\|μισήσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| them; | **<big>[[G1472\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall be known | **<big>[[G1097\|γνωσθήσομαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| whenever | **<big>[[G2259\|ηνίκα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| I judge | **<big>[[G2919\|κρινώ]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Ezek.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.10|<< Ezekiel 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.12|Ezekiel 35:12 >>]]</td></tr></table>
 
 

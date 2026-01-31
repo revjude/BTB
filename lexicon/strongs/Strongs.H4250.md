@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְלִי‎</span></big> **Machlîy** <small>*(makh-lee')*</small> ==**Mahlite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymical from <span class="ashebrew">‎מַחְלִי‎</span><sup><small>[[H4249]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחְלִי‎</span></big>** **Machlîy** <small>*(makh-lee')*</small> ==**Mahlite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymical from **<big>[[H4249|‎מַחְלִי‎]]</big>**</small>
 
 $\quad$ Mahlites.
 - § Mahlites = *see Mahli "my sickness"*

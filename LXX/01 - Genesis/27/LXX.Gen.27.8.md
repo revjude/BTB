@@ -7,16 +7,16 @@ Now therefore, my son, obey my voice according to that which I command thee.
 Now, my son, listen to my voice and do exactly as I tell you.<small><sub>**MT:**</sub></small>
 [[Gen.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.7|<< Genesis 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.9|Genesis 27:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| O my son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσόν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge to you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εντέλλομαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| O my son, | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| hear | **<big>[[G0191\|άκουσόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge to you! | **<big>[[G1473\|σοι]]</big>** **<big>[[G1781\|εντέλλομαι]]</big>** |
 [[Gen.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.7|<< Genesis 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.9|Genesis 27:9 >>]]</td></tr></table>
 
 

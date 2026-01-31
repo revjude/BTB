@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָדִין‎</span></big> **ʻÂdîyn** <small>*(aw-deen')*</small> ==**Adin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עָדִין‎</span><sup><small>[[H5719]]</small></sup></small>
+**<big><span class="ashebrew">‎עָדִין‎</span></big>** **ʻÂdîyn** <small>*(aw-deen')*</small> ==**Adin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5719|‎עָדִין‎]]</big>**</small>
 
 $\quad$ Adin.
 - § Adin = *"dainty" or "delicate"*

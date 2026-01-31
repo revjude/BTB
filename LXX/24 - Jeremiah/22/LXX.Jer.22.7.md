@@ -7,28 +7,28 @@ And I will prepare destroyers against thee, every one with his weapons: and they
 I will appoint destroyers against you, each man with his weapons, and they will cut down the choicest of your cedars and throw them into the fire.<small><sub>**MT:**</sub></small>
 [[Jer.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.6|<< Jeremiah 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.8|Jeremiah 22:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an annihilating | <big><span class="asgreek">ολοθρεύοντα</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hewing axe. | <big><span class="asgreek">πέλεκυν</span></big> <sup><small><small>[[G8685]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall cut down | <big><span class="asgreek">εκκόψουσι</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτάς</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall put \[them\] | <big><span class="asgreek">εμβαλούσιν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire. | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will bring | **<big>[[G1863\|επάξω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| an annihilating | **<big>[[G3645\|ολοθρεύοντα]]</big>** |
+| man, | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his hewing axe. | **<big>[[G8685\|πέλεκυν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall cut down | **<big>[[G1581\|εκκόψουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτάς]]</big>** |
+| cedars | **<big>[[G2748\|κέδρους]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall put \[them\] | **<big>[[G1685\|εμβαλούσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire. | **<big>[[G4442\|πυρ]]</big>** |
 [[Jer.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.6|<< Jeremiah 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.8|Jeremiah 22:8 >>]]</td></tr></table>
 
 

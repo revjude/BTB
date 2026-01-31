@@ -7,30 +7,30 @@ Instead of which king Rehoboam made shields of brass, and committed [them] to th
 Then King Rehoboam made bronze shields in their place and committed them to the care of the captains of the guard on duty at the entrance to the royal palace.<small><sub>**MT:**</sub></small>
 [[2Chr.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.9|<< 2 Chronicles 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.11|2 Chronicles 12:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| shields | <big><span class="asgreek">θυρεούς</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
-| of brass | <big><span class="asgreek">χαλκούς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed \[them\] | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \[of the\] rulers, | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being bodyguards, | <big><span class="asgreek">παρατρεχόντων</span></big> <sup><small><small>[[G8642]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλασσόντων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatehouse | <big><span class="asgreek">πυλώνα</span></big> <sup><small><small>[[G4440]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| shields | **<big>[[G2375\|θυρεούς]]</big>** |
+| of brass | **<big>[[G5470\|χαλκούς]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed \[them\] | **<big>[[G2525\|κατέστησεν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| \[of the\] rulers, | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| being bodyguards, | **<big>[[G8642\|παρατρεχόντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| guarding | **<big>[[G5442\|φυλασσόντων]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| gatehouse | **<big>[[G4440\|πυλώνα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[2Chr.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.9|<< 2 Chronicles 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.11|2 Chronicles 12:11 >>]]</td></tr></table>
 
 

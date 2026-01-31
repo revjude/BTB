@@ -7,24 +7,24 @@ Wherewith shall I come before the LORD, [and] bow myself before the high God? sh
 With what shall I come before the LORD when I bow before the God on high? Should I come to Him with burnt offerings, with year-old calves?<small><sub>**MT:**</sub></small>
 [[Mic.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what \[means\] | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should I overtake | <big><span class="asgreek">καταλάβω</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Shall I take hold of | <big><span class="asgreek">αντιλήψομαι</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| my God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] highest? | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I overtake | <big><span class="asgreek">καταλήψομαι</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαυτώμασιν</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχοις</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| of a year \[old\], \[no\]. | <big><span class="asgreek">ενιαυσίοις</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
+| By | **<big>[[G1722\|εν]]</big>** |
+| what \[means\] | **<big>[[G5100\|τίνι]]</big>** |
+| should I overtake | **<big>[[G2638\|καταλάβω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριον]]</big>** |
+| Shall I take hold of | **<big>[[G0482\|αντιλήψομαι]]</big>** |
+| my God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the\] highest? | **<big>[[G5310\|υψίστου]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I overtake | **<big>[[G2638\|καταλήψομαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a whole burnt-offering, | **<big>[[G3646\|ολοκαυτώμασιν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| calves | **<big>[[G3448\|μόσχοις]]</big>** |
+| of a year \[old\], \[no\]. | **<big>[[G7245\|ενιαυσίοις]]</big>** |
 [[Mic.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 
 

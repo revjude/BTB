@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִינָא‎</span></big> **Zîynâʼ** <small>*(zee-naw')*</small> ==**Zina**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זוּן‎</span><sup><small>[[H2109]]</small></sup>; well-fed; or perhaps an orthographical error for <span class="ashebrew">‎זִיזָא‎</span><sup><small>[[H2124]]</small></sup></small>
+**<big><span class="ashebrew">‎זִינָא‎</span></big>** **Zîynâʼ** <small>*(zee-naw')*</small> ==**Zina**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2109|‎זוּן‎]]</big>**; well-fed; or perhaps an orthographical error for **<big>[[H2124|‎זִיזָא‎]]</big>**</small>
 
 $\quad$ Zina.
 - § Zina = *"well-fed"*

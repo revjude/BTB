@@ -7,23 +7,23 @@ And ye shall be holy men unto me: neither shall ye eat [any] flesh [that is] tor
 You are to be My holy people. You must not eat the meat of a mauled animal found in the field; you are to throw it to the dogs.<small><sub>**MT:**</sub></small>
 [[Exod.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.30|<< Exodus 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.1|Exodus 23:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιοι</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έσεσθέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a field | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| taken by wild beasts | <big><span class="asgreek">θηριάλωτον</span></big> <sup><small><small>[[G7670]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat, | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dogs | <big><span class="asgreek">κυνί</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| throw it away | <big><span class="asgreek">απορρίψατε</span></big> <sup><small><small>[[G0641]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| holy | **<big>[[G0039\|άγιοι]]</big>** |
+| you shall be | **<big>[[G1510\|έσεσθέ]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| meat | **<big>[[G2907\|κρέας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a field | **<big>[[G0068\|αγρώ]]</big>** |
+| taken by wild beasts | **<big>[[G7670\|θηριάλωτον]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| eat, | **<big>[[G2068\|έδεσθε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| dogs | **<big>[[G2965\|κυνί]]</big>** |
+| throw it away | **<big>[[G0641\|απορρίψατε]]</big>** **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.30|<< Exodus 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.1|Exodus 23:1 >>]]</td></tr></table>
 
 

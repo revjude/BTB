@@ -6,22 +6,22 @@ Then David asked, “Is there anyone left from the house of Saul to whom I can s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.18|<< 2 Samuel 8:18]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.2|2 Samuel 9:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֔ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ for  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>כִ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Khi <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] there  | <span class="ashebrew"><big>יֶשׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yesh- <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  | <span class="ashebrew"><big>ע֔וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one] who  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is left  | <span class="ashebrew"><big>נוֹתַ֖ר </big></span><small><small><sup>[[H3498]]</sup></small></small> &#8207;| no.Tar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] house of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בֵ֣ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֑וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so I may do  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶעֱשֶׂ֤ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.'e.Seh <small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with him  | <span class="ashebrew"><big>עִמּ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| i.M <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covenant loyalty  | <span class="ashebrew"><big>חֶ֔סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Che.sed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for sake of  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֲב֖וּר </big></span><small><small><sup>[[H5668]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> 'a.Vur <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יְהוֹנָתָֽן </big></span><small><small><sup>[[H3083H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ho.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ for  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3588A\|כִ֣י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] there  |**<big>&#8207;[[H3426\|יֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֔וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is left  |**<big>&#8207;[[H3498\|נוֹתַ֖ר]]&#8207; </big>**| no.Tar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵ֣ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֑וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may do  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213A\|אֶעֱשֶׂ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.'e.Seh<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  |**<big>&#8207;[[H5973A\|עִמּ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֔סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for sake of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5668\|עֲב֖וּר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3083H\|יְהוֹנָתָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.18|<< 2 Samuel 8:18]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.2|2 Samuel 9:2 >>]]</td></tr></table>
 
 

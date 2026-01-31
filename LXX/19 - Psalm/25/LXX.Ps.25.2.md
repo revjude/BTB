@@ -7,23 +7,23 @@ O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph o
 in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me.<small><sub>**MT:**</sub></small>
 [[Ps.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.1|<< Psalm 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.3|Psalm 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have yielded. | <big><span class="asgreek">πέποιθα</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| May I not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be disgraced | <big><span class="asgreek">καταισχυνθείην</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon; | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| ridicule | <big><span class="asgreek">καταγελάσατωσάν</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| I have yielded. | **<big>[[G3982\|πέποιθα]]</big>** |
+| May I not | **<big>[[G3361\|μη]]</big>** |
+| be disgraced | **<big>[[G2617\|καταισχυνθείην]]</big>** |
+| into | **<big>[[G1722\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon; | **<big>[[G0165\|αιώνα]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| ridicule | **<big>[[G2606\|καταγελάσατωσάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.1|<< Psalm 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.3|Psalm 25:3 >>]]</td></tr></table>
 
 

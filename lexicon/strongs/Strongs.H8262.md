@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁקַץ‎</span></big> **shâqats** <small>*(shaw-kats')*</small> ==**to detest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁקַץ‎</span></big>** **shâqats** <small>*(shaw-kats')*</small> ==**to detest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abhor, make abominable, have in abomination, detest, [idiom] utterly.
@@ -8,4 +8,4 @@ $\quad$ abhor, make abominable, have in abomination, detest, [idiom] utterly.
 $\quad$ **1a)** to detest
 $\quad$ **1b)** to make detestable
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βδελύσσω</span><sup><small>[[G0948]]</small></sup> · <span class="asgreek">προσοχθίζω</span><sup><small>[[G4360]]</small></sup>
+<small>See Greek: </small>**<big>[[G0948|βδελύσσω]]</big>** · **<big>[[G4360|προσοχθίζω]]</big>**

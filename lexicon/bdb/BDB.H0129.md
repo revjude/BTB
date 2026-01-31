@@ -1,4 +1,4 @@
-<small>Also see: [[H5346]]</small>
+<small>Also see: **<big>[[H5346|נֶקֶב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אֲדָמִי הַנֶּ֫קֶב‎</span> **proper name, of a location** ==pass in Naphtali==, [[Josh.19.33|Josh 19:33]] see  <span class="bdbLangHebrew">‎נקב‎</span>. 
 

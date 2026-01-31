@@ -11,18 +11,18 @@ And his sister stood at a distance to see what would happen to him.<small><sub>
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spied out | <big><span class="asgreek">κατεσκόπευεν</span></big> <sup><small><small>[[G2684]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| far off | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| to learn | <big><span class="asgreek">μαθείν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[would\] result | <big><span class="asgreek">αποβησόμενον</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spied out | **<big>[[G2684\|κατεσκόπευεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his sister | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| far off | **<big>[[G3113\|μακρόθεν]]</big>** |
+| to learn | **<big>[[G3129\|μαθείν]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[would\] result | **<big>[[G0576\|αποβησόμενον]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Exod.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.3|<< Exodus 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.5|Exodus 2:5 >>]]</td></tr></table>
 
 

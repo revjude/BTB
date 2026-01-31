@@ -7,36 +7,36 @@ And the elders of Jabesh said unto him, Give us seven days’ respite, that we m
 “Hold off for seven days,” replied the elders of Jabesh, “and let us send messengers throughout Israel. If there is no one to save us, we will surrender to you.”<small><sub>**MT:**</sub></small>
 [[1Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Jabish | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| Spare | <big><span class="asgreek">άνες</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will send | <big><span class="asgreek">αποστελούμεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| border | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| there might not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one delivering | <big><span class="asgreek">σώζων</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will come forth | <big><span class="asgreek">εξελευσόμεθα</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G3004\|λέγουσιν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Jabish | **<big>[[H3003\|Ιαβής]]</big>** |
+| Spare | **<big>[[G0447\|άνες]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will send | **<big>[[G0649\|αποστελούμεν]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| border | **<big>[[G3725\|όριον]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| there might not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1510\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one delivering | **<big>[[G4982\|σώζων]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| we will come forth | **<big>[[G1831\|εξελευσόμεθα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[1Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
 
 

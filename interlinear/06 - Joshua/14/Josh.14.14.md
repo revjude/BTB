@@ -6,27 +6,27 @@ Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.13|<< Joshua 14:13]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.15|Joshua 14:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֣ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it became  | <span class="ashebrew"><big>הָיְתָֽה </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha.ye.tah- <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hebron  | <span class="ashebrew"><big>חֶ֠בְרוֹן </big></span><small><small><sup>[[H2275A]]</sup></small></small> &#8207;| Chev.ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Caleb  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָלֵ֨ב </big></span><small><small><sup>[[H3612G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> kha.Lev <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephunneh  | <span class="ashebrew"><big>יְפֻנֶּ֤ה </big></span><small><small><sup>[[H3312G]]</sup></small></small> &#8207;| ye.fu.Neh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Kenizzite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קְּנִזִּי֙ </big></span><small><small><sup>[[H7074H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ke.ni.Zi <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> an inheritance  | <span class="ashebrew"><big>לְֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נַחֲלָ֔ה </big></span><small><small><sup>[[H5159]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> na.cha.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַ֖ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֣וֹם </big></span><small><small><sup>[[H3117L]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּ֑ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because  | <span class="ashebrew"><big>יַ֚עַן </big></span><small><small><sup>[[H3282]]</sup></small></small> &#8207;| Ya.'an <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he filled  | <span class="ashebrew"><big>מִלֵּ֔א </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mi.Le' <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֕י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'e.lo.Hei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it became  |**<big>&#8207;[[H1961\|הָיְתָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.ye.tah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hebron  |**<big>&#8207;[[H2275A\|חֶ֠בְרוֹן]]&#8207; </big>**| Chev.ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Caleb  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3612G\|כָלֵ֨ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּ֤ה]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kenizzite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7074H\|קְּנִזִּי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ni.Zi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> an inheritance  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H5159\|נַחֲלָ֔ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּ֣וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H3282\|יַ֚עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he filled  |**<big>&#8207;[[H4390\|מִלֵּ֔א]]&#8207; </big>**| mi.Le'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֕י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.13|<< Joshua 14:13]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.15|Joshua 14:15 >>]]</td></tr></table>
 
 

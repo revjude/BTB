@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַטָּאָה‎</span></big> **chaṭṭâʼâh** <small>*(khat-taw-aw')*</small> ==**sin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">חַטָּאת</span> **chaṭṭâʼth** <small>*(khat-tawth')*</small>; from <span class="ashebrew">‎חָטָא‎</span><sup><small>[[H2398]]</small></sup></small>
+**<big><span class="ashebrew">‎חַטָּאָה‎</span></big>** **chaṭṭâʼâh** <small>*(khat-taw-aw')*</small> ==**sin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">חַטָּאת</span></big>** **chaṭṭâʼth** <small>*(khat-tawth')*</small>; from **<big>[[H2398|‎חָטָא‎]]</big>**</small>
 
 $\quad$ punishment (of sin), purifying(-fication for sin), sin(-ner, offering).
 - ***an offence*** (sometimes habitual sinfulness), and ***its penalty***, ***occasion***, ***sacrifice***, or ***expiation***
@@ -13,4 +13,4 @@ $\quad$ **2c)** punishment for sin
 $\quad$ **2d)** sin-offering
 $\quad$ **2e)** purification from sins of ceremonial uncleanness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγνισμός</span><sup><small>[[G0049]]</small></sup> · <span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἁμάρτημα</span><sup><small>[[G0265]]</small></sup> · <span class="asgreek">ἁμαρτία</span><sup><small>[[G0266]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">ἀσέβεια</span><sup><small>[[G0763]]</small></sup> · <span class="asgreek">ἱλασμός</span><sup><small>[[G2434]]</small></sup> · <span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">μάταιος</span><sup><small>[[G3152]]</small></sup>
+<small>See Greek: </small>**<big>[[G0049|ἁγνισμός]]</big>** · **<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0265|ἁμάρτημα]]</big>** · **<big>[[G0266|ἁμαρτία]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G0763|ἀσέβεια]]</big>** · **<big>[[G2434|ἱλασμός]]</big>** · **<big>[[G2588|καρδία]]</big>** · **<big>[[G3152|μάταιος]]</big>**

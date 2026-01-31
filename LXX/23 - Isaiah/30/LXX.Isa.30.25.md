@@ -7,31 +7,31 @@ And there shall be upon every high mountain, and upon every high hill, rivers [a
 And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall.<small><sub>**MT:**</sub></small>
 [[Isa.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλού</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνού</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| elevated | <big><span class="asgreek">μετεώρου</span></big> <sup><small><small>[[G8308]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| traveling over | <big><span class="asgreek">διαπορευόμενον</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be destroyed | <big><span class="asgreek">απόλωνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πέσωσι</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| towers | <big><span class="asgreek">πύργοι</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| high | **<big>[[G5308\|υψηλού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| hill | **<big>[[G1015\|βουνού]]</big>** |
+| elevated | **<big>[[G8308\|μετεώρου]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| traveling over | **<big>[[G1279\|διαπορευόμενον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be destroyed | **<big>[[G0622\|απόλωνται]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| shall fall | **<big>[[G4098\|πέσωσι]]</big>** |
+| towers | **<big>[[G4444\|πύργοι]]</big>** |
 [[Isa.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 
 

@@ -1,6 +1,5 @@
-<span class="ashebrew">‎עִיר‎</span> <small>***(ir)***</small> ==**City (of On)**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-part of: <small>[[H0204]]</small> 
+<small>part of:</small> <small>**<big>[[H0204|אוֹן]]</big>**</small> 
 
-- Combined with <i>on</i> (<span class='ashebrew'>‎א‎</span>ֹ<span class='ashebrew'>‎ן‎</span> "On" [[H0204]])
+- Combined with <i>on</i> (<span class='ashebrew'>‎א‎</span>ֹ<span class='ashebrew'>‎ן‎</span> "On" **<big>[[H0204|אוֹן]]</big>**)
 -  This name means  city, town
-- Another name of <i>on</i> (<span class='ashebrew'>‎א‎</span>ֹ<span class='ashebrew'>‎ן‎</span> "On" [[H0204]])
+- Another name of <i>on</i> (<span class='ashebrew'>‎א‎</span>ֹ<span class='ashebrew'>‎ן‎</span> "On" **<big>[[H0204|אוֹן]]</big>**)

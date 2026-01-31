@@ -11,21 +11,21 @@ When his son Isaac was eight days old, Abraham circumcised him, as God had comma
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| circumcised | <big><span class="asgreek">περιέτεμε</span></big> <sup><small><small>[[G4059]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eighth | <big><span class="asgreek">ογδοή</span></big> <sup><small><small>[[G3590]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| circumcised | **<big>[[G4059\|περιέτεμε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| eighth | **<big>[[G3590\|ογδοή]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
 [[Gen.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.3|<< Genesis 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.5|Genesis 21:5 >>]]</td></tr></table>
 
 

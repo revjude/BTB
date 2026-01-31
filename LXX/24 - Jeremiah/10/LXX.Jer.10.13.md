@@ -7,29 +7,29 @@ When he uttereth his voice, [there is] a multitude of waters in the heavens, and
 When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses.<small><sub>**MT:**</sub></small>
 [[Jer.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.12|<< Jeremiah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.14|Jeremiah 10:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] heaven; | <big><span class="asgreek">ουρανώ</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led | <big><span class="asgreek">ανήγαγε</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφέλας</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| lightnings | <big><span class="asgreek">αστραπάς</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought out | <big><span class="asgreek">εξήγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| winds | <big><span class="asgreek">ανεμούς</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his treasuries. | <big><span class="asgreek">θησαυρών</span></big> <sup><small><small>[[G2344]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of water | **<big>[[G5204\|ύδατος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] heaven; | **<big>[[G3772\|ουρανώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led | **<big>[[G0321\|ανήγαγε]]</big>** |
+| clouds | **<big>[[G3507\|νεφέλας]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] end | **<big>[[G2078\|εσχάτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| lightnings | **<big>[[G0796\|αστραπάς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] rain | **<big>[[G5205\|υετόν]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he brought out | **<big>[[G1806\|εξήγαγε]]</big>** |
+| winds | **<big>[[G0417\|ανεμούς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| his treasuries. | **<big>[[G2344\|θησαυρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.12|<< Jeremiah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.14|Jeremiah 10:14 >>]]</td></tr></table>
 
 

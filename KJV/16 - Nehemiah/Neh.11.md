@@ -39,7 +39,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.11.20|20]]**<span class="
 
 [^13]: [[1Chr.9|1Chr 9:3]], [[1Chr.9|1Chr 9:4-9]]
 
-[^14]: The variation of Pharez and Perez is only found in the translation; the original being uniformly <span class="asgreek"><span class='asgreek'>τψυ</span></span> (<span class="ashebrew">‎פֶּרֶץ‎</span><sup><small>[[H6557]]</small></sup>). [[Gen.38|Gen 38:29]]; [[Ruth.4|Ruth 4:18]], Pharez, [[Matt.1|Matt 1:3]]; [[Luke.3|Luke 3:33]], Phares
+[^14]: The variation of Pharez and Perez is only found in the translation; the original being uniformly <span class="asgreek"><span class='asgreek'>τψυ</span></span> ( [[H6557|‎פֶּרֶץ‎]] ). [[Gen.38|Gen 38:29]]; [[Ruth.4|Ruth 4:18]], Pharez, [[Matt.1|Matt 1:3]]; [[Luke.3|Luke 3:33]], Phares
 
 [^15]: [[Neh.3|Neh 3:15]]
 
@@ -51,7 +51,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.11.20|20]]**<span class="
 
 [^19]: [[1Chr.9|1Chr 9:7]], Hodaviah, Hasenuah
 
-[^20]: One of Dr. Kennicott's manuscripts omits, <span class="asgreek"><span class='asgreek'>αο</span></span> (<span class="ashebrew">‎בֵּן‎</span><sup><small>[[H1121]]</small></sup>), ***ben***, "son of," and reads "Jedaiah, Joiarib, Jachin," which is nearly that of the parallel place. Joiarib, <span class="asgreek"><span class='asgreek'>ιειψια</span></span> (<span class="ashebrew">‎יוֹיָרִיב‎</span><sup><small>[[H3114]]</small></sup>), is merely a contracted form of <span class="asgreek"><span class='asgreek'>ιδειψια</span> </span> (<span class="ashebrew">‎יְהוֹיָרִיב‎</span><sup><small>[[H3080]]</small></sup>), ***Jehoiarib***, by the elision of <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***. [[Neh.7|Neh 7:39]], [[Neh.12|Neh 12:19]]; [[1Chr.9|1Chr 9:10]], Jehoiarib, [[Ezra.2|Ezra 2:36]], [[Ezra.8|Ezra 8:16]]
+[^20]: One of Dr. Kennicott's manuscripts omits, <span class="asgreek"><span class='asgreek'>αο</span></span> ( [[H1121|‎בֵּן‎]] ), ***ben***, "son of," and reads "Jedaiah, Joiarib, Jachin," which is nearly that of the parallel place. Joiarib, <span class="asgreek"><span class='asgreek'>ιειψια</span></span> ( [[H3114|‎יוֹיָרִיב‎]] ), is merely a contracted form of <span class="asgreek"><span class='asgreek'>ιδειψια</span> </span> ( [[H3080|‎יְהוֹיָרִיב‎]] ), ***Jehoiarib***, by the elision of <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***. [[Neh.7|Neh 7:39]], [[Neh.12|Neh 12:19]]; [[1Chr.9|1Chr 9:10]], Jehoiarib, [[Ezra.2|Ezra 2:36]], [[Ezra.8|Ezra 8:16]]
 
 [^21]: [[Neh.12|Neh 12:6]]
 

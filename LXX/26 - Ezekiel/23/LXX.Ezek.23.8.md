@@ -7,31 +7,31 @@ Neither left she her whoredoms [brought] from Egypt: for in her youth they lay w
 She did not give up the prostitution she began in Egypt, when men slept with her in her youth, caressed her virgin bosom, and poured out their lust upon her.<small><sub>**MT:**</sub></small>
 [[Ezek.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.7|<< Ezekiel 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.9|Ezekiel 23:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her harlotry, | <big><span class="asgreek">πορνείαν</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| she did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon, | <big><span class="asgreek">εγκατέλιπεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they went to bed | <big><span class="asgreek">εκοιμώντο</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her youth, | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| caused her loss of virginity, | <big><span class="asgreek">διεπαρθένευσαν</span></big> <sup><small><small>[[G6857]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they poured out | <big><span class="asgreek">εξέχεαν</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their harlotry | <big><span class="asgreek">πορνείαν</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her harlotry, | **<big>[[G4202\|πορνείαν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| with | **<big>[[G1537\|εξ]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| she did not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon, | **<big>[[G1459\|εγκατέλιπεν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| they went to bed | **<big>[[G2837\|εκοιμώντο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her youth, | **<big>[[G3503\|νεότητι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| caused her loss of virginity, | **<big>[[G6857\|διεπαρθένευσαν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they poured out | **<big>[[G1632\|εξέχεαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their harlotry | **<big>[[G4202\|πορνείαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.7|<< Ezekiel 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.9|Ezekiel 23:9 >>]]</td></tr></table>
 
 

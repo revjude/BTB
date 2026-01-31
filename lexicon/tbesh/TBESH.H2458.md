@@ -1,4 +1,2 @@
-<span class="ashebrew">‎חֶלְאָה‎</span> <small>***(chel.ah)***</small> ==**Helah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A womanof the tribe of Judah  living at the time of Divided Monarchy, first mentioned at [[1Chr.4.5|1Ch.4.5]] married to Ashhur ([[H0806]])
--  mother of: Zereth ([[H6889]]), Izhar ([[H3328]]), Ethnan ([[H0869]]) and Koz ([[H6976]])
-
+- A womanof the tribe of Judah  living at the time of Divided Monarchy, first mentioned at [[1Chr.4.5|1Ch.4.5]] married to Ashhur (**<big>[[H0806|אַשְׁחוּר]]</big>**)
+-  mother of: Zereth (**<big>[[H6889|צֶרֶת]]</big>**), Izhar (**<big>[[H3328|יִצְחַר]]</big>**), Ethnan (**<big>[[H0869|אֶתְנַן]]</big>**) and Koz (**<big>[[H6976|קוֹץ]]</big>**)

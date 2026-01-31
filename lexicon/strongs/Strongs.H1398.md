@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֶּבֶר‎</span></big> **Geber** <small>*(gheh'-ber)*</small> ==**Geber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎גֶּבֶר‎</span><sup><small>[[H1397]]</small></sup></small>
+**<big><span class="ashebrew">‎גֶּבֶר‎</span></big>** **Geber** <small>*(gheh'-ber)*</small> ==**Geber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1397|‎גֶּבֶר‎]]</big>**</small>
 
 $\quad$ Geber.
 - § Geber = *"warrior"*

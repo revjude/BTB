@@ -7,24 +7,24 @@ And the arches thereof [were] toward the outward court; and palm trees [were] up
 Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it.<small><sub>**MT:**</sub></small>
 [[Ezek.40.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.33|<< Ezekiel 40:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.35|Ezekiel 40:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there were\] pediments \[opening\] | <big><span class="asgreek">αιλαμμώθ</span></big> <sup><small><small>[[G6162]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρας</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| \[of its\] portals | <big><span class="asgreek">αιλαύ</span></big> <sup><small><small>[[G6160]]</small></small></sup> |
-| on this side and that side, | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| steps | <big><span class="asgreek">κλημακτήρσιν</span></big> <sup><small><small>[[G8024]]</small></small></sup> |
-| ascending | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[there were\] pediments \[opening\] | **<big>[[G6162\|αιλαμμώθ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| palms | **<big>[[G5404\|φοίνικες]]</big>** |
+| \[of its\] portals | **<big>[[G6160\|αιλαύ]]</big>** |
+| on this side and that side, | **<big>[[G6033\|ένθεν και ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eight | **<big>[[G3638\|οκτώ]]</big>** |
+| steps | **<big>[[G8024\|κλημακτήρσιν]]</big>** |
+| ascending | **<big>[[G0305\|ανέβαινον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.40.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.33|<< Ezekiel 40:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.35|Ezekiel 40:35 >>]]</td></tr></table>
 
 

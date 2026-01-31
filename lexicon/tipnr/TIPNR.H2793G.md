@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Horesh</span>, a wilderness area in Judah where David hid from Saul.
 - A location first mentioned at [[1Sam.23.15|1Sa.23.15]]; 
-- only referred to as Horesh<[[H2793G]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- only referred to as Horesh **<big>[[H2793|חֹרֶשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.45113920529978,35.08840337232346&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Horesh was a wilderness area in Judah where David sought refuge from King Saul \
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Horesh (KJV= a wood) | [<span class='tipnrLangHebrew'>ח</span>ֹ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H2793G) <small>*Hebrew*</small> | 4x | [[1Sa.23.15] ... [1Sa.23.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horesh\*\|reference=1Sa.23.15;1Sa.23.16;1Sa.23.18;1Sa.23.19) |
-All Strong's for **Horesh**: \[[[H2793G]]\]
+| Horesh (KJV= a wood) | [<span class='tipnrLangHebrew'>ח</span>ֹ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H2793G) | 4x | [[1Sa.23.15] ... [1Sa.23.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horesh\*\|reference=1Sa.23.15;1Sa.23.16;1Sa.23.18;1Sa.23.19) |
+All entries for **Horesh**:  **<big>[[H2793|חֹרֶשׁ]]</big>**

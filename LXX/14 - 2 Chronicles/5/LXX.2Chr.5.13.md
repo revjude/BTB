@@ -7,68 +7,68 @@ It came even to pass, as the trumpeters and singers [were] as one, to make one s
 The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD: “For He is good; His loving devotion endures forever.” And the temple, the house of the LORD, was filled with a cloud<small><sub>**MT:**</sub></small>
 [[2Chr.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.12|<< 2 Chronicles 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.14|2 Chronicles 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpeting, | <big><span class="asgreek">σαλπίζειν</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singing along with stringed instruments, | <big><span class="asgreek">ψαλτωδείν</span></big> <sup><small><small>[[G9785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sounding out loud | <big><span class="asgreek">αναφωνείν</span></big> <sup><small><small>[[G0400]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to praise | <big><span class="asgreek">αινείν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to make acknowledgement | <big><span class="asgreek">εξομολογείσθαι</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| they raised up high | <big><span class="asgreek">ύψωσαν</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets, | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cymbals, | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| instruments | <big><span class="asgreek">οργάνοις</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
-| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| odes, | <big><span class="asgreek">ωδών</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Make acknowledgment | <big><span class="asgreek">εξομολογείσθε</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[he is\] good, | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] his mercy! | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| was filled up | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| of \[the\] cloud | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of \[the\] glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| trumpeting, | **<big>[[G4537\|σαλπίζειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| singing along with stringed instruments, | **<big>[[G9785\|ψαλτωδείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| sounding out loud | **<big>[[G0400\|αναφωνείν]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| with one | **<big>[[G1520\|μία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to praise | **<big>[[G0134\|αινείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to make acknowledgement | **<big>[[G1843\|εξομολογείσθαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| they raised up high | **<big>[[G5312\|ύψωσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| voice | **<big>[[G5456\|φωνήν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| trumpets, | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cymbals, | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| instruments | **<big>[[G8545\|οργάνοις]]</big>** |
+| for the | **<big>[[G3588\|των]]</big>** |
+| odes, | **<big>[[G5603\|ωδών]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G3004\|έλεγον]]</big>** |
+| Make acknowledgment | **<big>[[G1843\|εξομολογείσθε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[he is\] good, | **<big>[[G0018\|αγαθόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[is\] his mercy! | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| was filled up | **<big>[[G1705\|ενεπλήσθη]]</big>** |
+| of \[the\] cloud | **<big>[[G3507\|νεφέλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of \[the\] glory | **<big>[[G1391\|δόξης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Chr.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.12|<< 2 Chronicles 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.14|2 Chronicles 5:14 >>]]</td></tr></table>
 
 

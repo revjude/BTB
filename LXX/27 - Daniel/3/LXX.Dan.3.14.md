@@ -7,30 +7,30 @@ Nebuchadnezzar spake and said unto them, [Is it] true, O Shadrach, Meshach, and 
 and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up?<small><sub>**MT:**</sub></small>
 [[Dan.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.13|<< Daniel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.15|Daniel 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nebuchadnezzar responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Is it | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| truly, | <big><span class="asgreek">αληθώς</span></big> <sup><small><small>[[G0230]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| Abed-nego, | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you serve not, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λατρεύετε</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνι</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in gold | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I stationed, | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| you do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do obeisance to? | <big><span class="asgreek">προσκυνείτε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Nebuchadnezzar responded | **<big>[[G0611\|απεκρίθη]]</big>** **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Is it | **<big>[[G1487\|ει]]</big>** |
+| truly, | **<big>[[G0230\|αληθώς]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάχ]]</big>** |
+| Abed-nego, | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| my gods | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you serve not, | **<big>[[G3756\|ου]]</big>** **<big>[[G3000\|λατρεύετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| image | **<big>[[G1504\|εικόνι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in gold | **<big>[[G5552\|χρυσή]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| I stationed, | **<big>[[G2476\|έστησα]]</big>** |
+| you do not | **<big>[[G3756\|ου]]</big>** |
+| do obeisance to? | **<big>[[G4352\|προσκυνείτε]]</big>** |
 [[Dan.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.13|<< Daniel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.15|Daniel 3:15 >>]]</td></tr></table>
 
 

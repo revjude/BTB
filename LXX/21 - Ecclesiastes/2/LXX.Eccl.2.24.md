@@ -7,35 +7,35 @@ There is not a good \[thing\] to man unless  to eat and  to drink, and  to show 
 Nothing is better for a man than to eat and drink and enjoy his work. I have also seen that this is from the hand of God.<small><sub>**MT:**</sub></small>
 [[Eccl.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.23|<< Ecclesiastes 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.25|Ecclesiastes 2:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a good \[thing\] | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| to man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| unless | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-|  | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-|  | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| to drink, | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-|  | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| to show | <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his effort. | <big><span class="asgreek">μόχθω</span></big> <sup><small><small>[[G3449]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I knew, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| There is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| a good \[thing\] | **<big>[[G0018\|αγαθόν]]</big>** |
+| to man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| unless | **<big>[[G1508\|ει μη]]</big>** |
+|  | **<big>[[G3739\|ο]]</big>** |
+| to eat | **<big>[[G2068\|φάγεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+|  | **<big>[[G3739\|ο]]</big>** |
+| to drink, | **<big>[[G4095\|πίεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+|  | **<big>[[G3739\|ο]]</big>** |
+| to show | **<big>[[G1166\|δείξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| good | **<big>[[G0018\|αγαθόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his effort. | **<big>[[G3449\|μόχθω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I knew, | **<big>[[G1492\|είδον]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
 [[Eccl.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.23|<< Ecclesiastes 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.25|Ecclesiastes 2:25 >>]]</td></tr></table>
 
 

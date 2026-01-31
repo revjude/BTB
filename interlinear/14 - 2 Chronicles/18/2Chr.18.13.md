@@ -6,19 +6,19 @@ But Micaiah said, “As surely as the LORD lives, I will speak whatever my God t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.12|<< 2 Chronicles 18:12]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.14|2 Chronicles 18:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֖אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Micaiah  | <span class="ashebrew"><big>מִיכָ֑יְהוּ </big></span><small><small><sup>[[H4321G]]</sup></small></small> &#8207;| mi.Kha.ye.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [by] [the] life  | <span class="ashebrew"><big>חַי </big></span><small><small><sup>[[H2416A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| chai- <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Yahweh  | <span class="ashebrew"><big>יְהוָ֕ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will say  | <span class="ashebrew"><big>יֹאמַ֥ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God my  | <span class="ashebrew"><big>אֱלֹהַ֖ </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'e.lo.Ha <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹת֥ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will speak  | <span class="ashebrew"><big>אֲדַבֵּֽר </big></span><small><small><sup>[[H1696G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.da.Ber <small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Micaiah  |**<big>&#8207;[[H4321G\|מִיכָ֑יְהוּ]]&#8207; </big>**| mi.Kha.ye.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֕ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will say  |**<big>&#8207;[[H0559\|יֹאמַ֥ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will speak  |**<big>&#8207;[[H1696G\|אֲדַבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.12|<< 2 Chronicles 18:12]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.14|2 Chronicles 18:14 >>]]</td></tr></table>
 
 

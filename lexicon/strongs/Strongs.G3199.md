@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎μέλω‎</span></big> **mélō** <small>*(mel'-o)*</small> ==**to concern**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎μέλω‎</span></big>** **mélō** <small>*(mel'-o)*</small> ==**to concern**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ (take) care.

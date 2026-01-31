@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲזָא‎</span></big> **ʼăzâʼ** <small>*(az-zaw')*</small> ==**to heat**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">אֲזָה</span> **ʼăzâh** <small>*(az-aw')*</small> (Aramaic)</small>
+**<big><span class="asaramaic">‎אֲזָא‎</span></big>** **ʼăzâʼ** <small>*(az-zaw')*</small> ==**to heat**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">אֲזָה</span></big>** **ʼăzâh** <small>*(az-aw')*</small> (Aramaic)</small>
 
 $\quad$ heat, hot.
 - ***to kindle***
@@ -7,4 +7,4 @@ $\quad$ heat, hot.
 
 **1)** (P'al) make hot, heat
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">καίω</span><sup><small>[[G2545]]</small></sup>
+<small>See Greek: </small>**<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G2545|καίω]]</big>**

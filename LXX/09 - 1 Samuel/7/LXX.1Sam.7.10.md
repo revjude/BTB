@@ -14,38 +14,38 @@ As the Philistines drew near to fight against Israel, Samuel was offering up the
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| offering | <big><span class="asgreek">αναφέρων</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering. | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| led forward | <big><span class="asgreek">προσήγον</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> thundered | <big><span class="asgreek">εβρόντησε</span></big> <sup><small><small>[[G6698]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were confounded, | <big><span class="asgreek">συνεχύθησαν</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| failed | <big><span class="asgreek">έπταισαν</span></big> <sup><small><small>[[G4417]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel was | **<big>[[G1510\|ην]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| offering | **<big>[[G0399\|αναφέρων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| whole burnt-offering. | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| led forward | **<big>[[G4317\|προσήγον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> thundered | **<big>[[G6698\|εβρόντησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were confounded, | **<big>[[G4797\|συνεχύθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| failed | **<big>[[G4417\|έπταισαν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Sam.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.9|<< 1 Samuel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.11|1 Samuel 7:11 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ And their meat offering [shall be of] flour mingled with oil, three tenth deals 
 along with the grain offering of three-tenths of an ephah of fine flour mixed with oil with each of the thirteen bulls, two-tenths of an ephah with each of the two rams,<small><sub>**MT:**</sub></small>
 [[Num.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.13|<< Numbers 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.15|Numbers 29:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their sacrifice \[offerings\] | <big><span class="asgreek">θυσίαι</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be\] of fine flour | <big><span class="asgreek">σεμίδαλις</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">αναπεποιημένη</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil -- | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirteen | <big><span class="asgreek">τρισκαίδεκα</span></big> <sup><small><small>[[G9490]]</small></small></sup> |
-| calves; | <big><span class="asgreek">μόσχοις</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| rams; | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Their sacrifice \[offerings\] | **<big>[[G2378\|θυσίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[shall be\] of fine flour | **<big>[[G4585\|σεμίδαλις]]</big>** |
+| being prepared | **<big>[[G6305\|αναπεποιημένη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil -- | **<big>[[G1637\|ελαίω]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| thirteen | **<big>[[G9490\|τρισκαίδεκα]]</big>** |
+| calves; | **<big>[[G3448\|μόσχοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| ram | **<big>[[G8096\|κριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| rams; | **<big>[[G8096\|κριούς]]</big>** |
 [[Num.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.13|<< Numbers 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.15|Numbers 29:15 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ And when Joab was come out from David, he sent messengers after Abner, which bro
 As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it.<small><sub>**MT:**</sub></small>
 [[2Sam.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.25|<< 2 Samuel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.27|2 Samuel 3:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab went | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Abner, | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">επιστρέφουσιν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well | <big><span class="asgreek">φρέατος</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| of Sirah; | <big><span class="asgreek">Σειρά</span></big> <sup><small><small>[[H5626]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know. | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab went | **<big>[[G1831\|εξήλθεν]]</big>** **<big>[[H3097\|Ιωάβ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Abner, | **<big>[[H0074\|Αβενήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G1994\|επιστρέφουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| well | **<big>[[G5421\|φρέατος]]</big>** |
+| of Sirah; | **<big>[[H5626\|Σειρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know. | **<big>[[G1492\|ήδει]]</big>** |
 [[2Sam.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.25|<< 2 Samuel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.27|2 Samuel 3:27 >>]]</td></tr></table>
 
 

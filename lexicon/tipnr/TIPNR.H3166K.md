@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jahaziel</span>, a descendant of Shecaniah, was one of the men who returned with Ezra from Babylon to Jerusalem \([[Ezra.8.5|Ezr.8.5]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.8.5|Ezr.8.5]]; 
-- only referred to as Jahaziel<[[H3166K]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Jahaziel **<big>[[H3166|יַחֲזִיאֵל]]</big>**.
 
 Jahaziel is mentioned briefly in [[Ezra.8.5|Ezra 8:5]] as one of the descendants of Shecaniah who returned with Ezra from Babylon to Jerusalem. This chapter lists the family heads and some of their descendants who joined Ezra in his journey to Jerusalem, which took place during the reign of King Artaxerxes of Persia \(Ezr.7.1-10\). 
 
@@ -16,5 +16,5 @@ No other specific details are provided about Jahaziel's life, occupation, or rol
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166K) <small>*Hebrew*</small> | 1x | [Ezr.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=Ezr.8.5) |
-All Strong's for **Jahaziel**: \[[[H3166K]]\]
+| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166K) | 1x | [Ezr.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=Ezr.8.5) |
+All entries for **Jahaziel**:  **<big>[[H3166|יַחֲזִיאֵל]]</big>**

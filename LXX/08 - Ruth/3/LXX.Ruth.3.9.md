@@ -7,29 +7,29 @@ And he said, Who [art] thou? And she answered, I [am] Ruth thine handmaid: sprea
 “Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment over me, for you are a kinsman-redeemer.”<small><sub>**MT:**</sub></small>
 [[Ruth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.8|<< Ruth 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.10|Ruth 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you? | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And she | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Ruth, | <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant; | <big><span class="asgreek">δούλη</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">περιβαλείς</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your \[garment\] border | <big><span class="asgreek">πτερύγιόν</span></big> <sup><small><small>[[G4419]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant, | <big><span class="asgreek">δούλην</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a relative | <big><span class="asgreek">αγχιστεύς</span></big> <sup><small><small>[[G6130]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And he said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| you? | **<big>[[G1473\|συ]]</big>** |
+| And she | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| Ruth, | **<big>[[G4503\|Ρουθ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your maidservant; | **<big>[[G1399\|δούλη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall put | **<big>[[G4016\|περιβαλείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your \[garment\] border | **<big>[[G4419\|πτερύγιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your maidservant, | **<big>[[G1399\|δούλην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a relative | **<big>[[G6130\|αγχιστεύς]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Ruth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.8|<< Ruth 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.10|Ruth 3:10 >>]]</td></tr></table>
 
 

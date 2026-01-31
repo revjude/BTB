@@ -7,42 +7,42 @@ And Moses said unto him, As soon as I am gone out of the city, I will spread abr
 Moses said to him, “When I have left the city, I will spread out my hands to the LORD. The thunder will cease, and there will be no more hail, so that you may know that the earth is the LORD’s.<small><sub>**MT:**</sub></small>
 [[Exod.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.28|<< Exodus 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.30|Exodus 9:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should go from | <big><span class="asgreek">εξέλθω</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| I will spread forth | <big><span class="asgreek">εκπετάσω</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sounds | <big><span class="asgreek">φωναί</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| will cease; | <big><span class="asgreek">παύσονται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| any longer, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you may know | <big><span class="asgreek">γνώς</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| whenever | **<big>[[G5613\|ως]]</big>** **<big>[[G0302\|αν]]</big>** |
+| I should go from | **<big>[[G1831\|εξέλθω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| I will spread forth | **<big>[[G1600\|εκπετάσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| sounds | **<big>[[G5456\|φωναί]]</big>** |
+| will cease; | **<big>[[G3973\|παύσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hail | **<big>[[G5464\|χάλαζα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rain | **<big>[[G5205\|υετός]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| any longer, | **<big>[[G2089\|έτι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you may know | **<big>[[G1097\|γνώς]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
 [[Exod.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.28|<< Exodus 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.30|Exodus 9:30 >>]]</td></tr></table>
 
 

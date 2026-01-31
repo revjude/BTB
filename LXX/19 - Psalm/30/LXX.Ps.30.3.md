@@ -7,21 +7,21 @@ O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, th
 O LORD, You pulled me up from Sheol; You spared me from descending into the Pit.<small><sub>**MT:**</sub></small>
 [[Ps.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.2|<< Psalm 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.4|Psalm 30:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you led | <big><span class="asgreek">ανήγαγες</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you delivered | <big><span class="asgreek">έσωσάς</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones going down | <big><span class="asgreek">καταβαινόντων</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] pit. | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| you led | **<big>[[G0321\|ανήγαγες]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Hades | **<big>[[G0086\|άδου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you delivered | **<big>[[G4982\|έσωσάς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones going down | **<big>[[G2597\|καταβαινόντων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] pit. | **<big>[[G8154\|λάκκον]]</big>** |
 [[Ps.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.2|<< Psalm 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.4|Psalm 30:4 >>]]</td></tr></table>
 
 

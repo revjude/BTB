@@ -7,56 +7,56 @@ And the princes of the Philistines were wroth with him; and the princes of the P
 But the commanders of the Philistines were angry with Achish and told him, “Send that man back and let him return to the place you assigned him. He must not go down with us into battle only to become our adversary during the war. What better way for him to regain the favor of his master than with the heads of our men?<small><sub>**MT:**</sub></small>
 [[1Sam.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.3|<< 1 Samuel 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.5|1 Samuel 29:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were enraged | <big><span class="asgreek">εθυμώθησαν</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they say | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Return | <big><span class="asgreek">απόστρεψον</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man! | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him return | <big><span class="asgreek">αποστραφήτω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you placed | <big><span class="asgreek">κατέστησας</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| let him come | <big><span class="asgreek">ερχέσθω</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| become | <big><span class="asgreek">γινέσθω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a plotter | <big><span class="asgreek">επίβουλος</span></big> <sup><small><small>[[G7391]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp! | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how shall | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| he be reconciled | <big><span class="asgreek">διαλλαγήσεται</span></big> <sup><small><small>[[G1259]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master? | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Will it not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| be | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| with the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heads | <big><span class="asgreek">κεφαλαίς</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of those men? | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were enraged | **<big>[[G2373\|εθυμώθησαν]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| satraps | **<big>[[G9059\|σατράπαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they say | **<big>[[G3004\|λέγουσιν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Return | **<big>[[G0654\|απόστρεψον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man! | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him return | **<big>[[G0654\|αποστραφήτω]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| you placed | **<big>[[G2525\|κατέστησας]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| let him come | **<big>[[G2064\|ερχέσθω]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| battle, | **<big>[[G4171\|πόλεμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him not | **<big>[[G3361\|μη]]</big>** |
+| become | **<big>[[G1096\|γινέσθω]]</big>** |
+| a plotter | **<big>[[G7391\|επίβουλος]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| camp! | **<big>[[G3925\|παρεμβολή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| how shall | **<big>[[G1722\|εν]]</big>** **<big>[[G5100\|τίνι]]</big>** |
+| he be reconciled | **<big>[[G1259\|διαλλαγήσεται]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his master? | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Will it not | **<big>[[G3780\|ουχί]]</big>** |
+| be | **<big>[[G1722\|εν]]</big>** |
+| with the | **<big>[[G3588\|ταις]]</big>** |
+| heads | **<big>[[G2776\|κεφαλαίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of those men? | **<big>[[G0435\|ανδρών]]</big>** **<big>[[G1565\|εκείνων]]</big>** |
 [[1Sam.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.3|<< 1 Samuel 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.5|1 Samuel 29:5 >>]]</td></tr></table>
 
 

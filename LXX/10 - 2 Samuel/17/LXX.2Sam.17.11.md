@@ -7,40 +7,40 @@ Therefore I counsel that all Israel be generally gathered unto thee, from Dan ev
 Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle.<small><sub>**MT:**</sub></small>
 [[2Sam.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.10|<< 2 Samuel 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.12|2 Samuel 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| advising, | <big><span class="asgreek">συμβουλεύων</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| advised. | <big><span class="asgreek">συνεβούλευσα</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in gathering together | <big><span class="asgreek">συναγόμενος</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| shall gather together | <big><span class="asgreek">συναχθήσεται</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Beer-sheba, | <big><span class="asgreek">Βηρσαβεέ</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμος</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude. | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your presence | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be going | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| advising, | **<big>[[G4823\|συμβουλεύων]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| advised. | **<big>[[G4823\|συνεβούλευσα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in gathering together | **<big>[[G4863\|συναγόμενος]]</big>** |
+| shall gather together | **<big>[[G4863\|συναχθήσεται]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Beer-sheba, | **<big>[[H0884\|Βηρσαβεέ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sand | **<big>[[G0285\|άμμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude. | **<big>[[G4128\|πλήθος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your presence | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be going | **<big>[[G4198\|πορεύσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of them. | **<big>[[G1473\|αυτών]]</big>** |
 [[2Sam.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.10|<< 2 Samuel 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.12|2 Samuel 17:12 >>]]</td></tr></table>
 
 

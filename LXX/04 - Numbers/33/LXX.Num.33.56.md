@@ -7,16 +7,16 @@ Moreover it shall come to pass, [that] I shall do unto you, as I thought to do u
 And then I will do to you what I had planned to do to them.”<small><sub>**MT:**</sub></small>
 [[Num.33.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.55|<< Numbers 33:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.1|Numbers 34:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| I had determined | <big><span class="asgreek">διεγνώκειν</span></big> <sup><small><small>[[G1231]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| I had determined | **<big>[[G1231\|διεγνώκειν]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to them, | **<big>[[G1473\|αυτούς]]</big>** |
+| I shall do | **<big>[[G4160\|ποιήσω]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Num.33.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.55|<< Numbers 33:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.1|Numbers 34:1 >>]]</td></tr></table>
 
 

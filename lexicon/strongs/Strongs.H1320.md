@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּשָׂר‎</span></big> **bâsâr** <small>*(baw-sawr')*</small> ==**flesh**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּשַׂר‎</span><sup><small>[[H1319]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּשָׂר‎</span></big>** **bâsâr** <small>*(baw-sawr')*</small> ==**flesh**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1319|‎בָּשַׂר‎]]</big>**</small>
 
 $\quad$ body, (fat, lean) flesh(-ed), kin, (man-) kind, [phrase] nakedness, self, skin.
 - ***flesh*** (from its freshness)
@@ -18,4 +18,4 @@ $\quad$ **1f)** all living things
 $\quad$ **1g)** animals
 $\quad$ **1h)** mankind
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθρωπος</span><sup><small>[[G0444]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">κρέας</span><sup><small>[[G2907]]</small></sup> · <span class="asgreek">σάρκινος</span><sup><small>[[G4560]]</small></sup> · <span class="asgreek">σάρξ</span><sup><small>[[G4561]]</small></sup> · <span class="asgreek">σπέρμα</span><sup><small>[[G4690]]</small></sup> · <span class="asgreek">σῶμα</span><sup><small>[[G4983]]</small></sup> · <span class="asgreek">χρώς</span><sup><small>[[G5559]]</small></sup>
+<small>See Greek: </small>**<big>[[G0444|ἄνθρωπος]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G2907|κρέας]]</big>** · **<big>[[G4560|σάρκινος]]</big>** · **<big>[[G4561|σάρξ]]</big>** · **<big>[[G4690|σπέρμα]]</big>** · **<big>[[G4983|σῶμα]]</big>** · **<big>[[G5559|χρώς]]</big>**

@@ -8,7 +8,7 @@
 
  <span class="bdbLangHebrew">‎לַשָּׁרוֺן‎</span> [[Josh.12.8|Josh 12:8]] see  <span class="bdbLangHebrew">‎שָׁרוֺן‎</span>. 
 
-<small>Also see: [[H8290]]</small>
+<small>Also see: **<big>[[H8290|שָׁרוֹנִי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שָׁרוֺן‎</span> **proper name, of a location** <span class="bdbLangHebrew">‎שָׁרוֺנִי‎</span> **adjective, of a people** ( [[1Chr.27.29|1Chr 27:29]]) see  <span class="bdbLangHebrew">‎ישׁר‎</span>. <span class="bdbLangHebrew">‎שׁרות‎</span> [[Jer.15.11|Jer 15:11]] see I.  <span class="bdbLangHebrew">‎שׁרה‎</span>; <span class="bdbLangHebrew">‎שָׁרוֺתֶיהָ‎</span> [[Jer.5.10|Jer 5:10]] see II.  <span class="bdbLangHebrew">‎שׁוּר‎</span>, <span class="bdbLangHebrew">‎שׁוּרָה‎</span>. above <span class="bdbLangHebrew">‎שִׁרְטַי‎</span> [[1Chr.27.29|1Chr 27:29]] [[BDB#Qr|Qr]], see  <span class="bdbLangHebrew">‎שִׁטְרַי‎</span> 
 

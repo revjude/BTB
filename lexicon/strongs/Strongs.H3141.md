@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹרָם‎</span></big> **Yôwrâm** <small>*(yo-rawm')*</small> ==**Joram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹרָם‎</span><sup><small>[[H3088]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹרָם‎</span></big>** **Yôwrâm** <small>*(yo-rawm')*</small> ==**Joram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3088|‎יְהוֹרָם‎]]</big>**</small>
 
 $\quad$ Joram.
 - § Joram = *"Jehovah is exalted"*
@@ -10,4 +10,4 @@ $\quad$ Joram.
 **3)** a Levite in the time of David and an ancestor of Shelomith
 **4)** son of Toi, king of Hamath
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰωράμ</span><sup><small>[[G2496]]</small></sup>
+<small>See Greek: </small>**<big>[[G2496|Ἰωράμ]]</big>**

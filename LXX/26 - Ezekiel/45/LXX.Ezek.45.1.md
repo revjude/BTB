@@ -10,40 +10,40 @@ Moreover, when ye shall divide by lot the land for inheritance, ye shall offer a
 “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.<small><sub>**MT:**</sub></small>
 [[Ezek.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.31|<< Ezekiel 44:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.2|Ezekiel 45:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your measuring | <big><span class="asgreek">καταμετρείσθαι</span></big> <sup><small><small>[[G7876]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| inheritance, | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| you shall separate | <big><span class="asgreek">αφοριείτε</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| \[the\] first-fruit | <big><span class="asgreek">απαρχήν</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a holy \[space\] | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land -- | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| in length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand; | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| it will be holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its limits | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your measuring | **<big>[[G7876\|καταμετρείσθαι]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| inheritance, | **<big>[[G2817\|κληρονομία]]</big>** |
+| you shall separate | **<big>[[G0873\|αφοριείτε]]</big>** |
+| \[the\] first-fruit | **<big>[[G0536\|απαρχήν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| a holy \[space\] | **<big>[[G0039\|άγιον]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land -- | **<big>[[G1093\|γης]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| in length, | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand; | **<big>[[G5505\|χιλιάδας]]</big>** |
+| it will be holy | **<big>[[G0039\|άγιον]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| its limits | **<big>[[G3725\|ορίοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[Ezek.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.31|<< Ezekiel 44:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.2|Ezekiel 45:2 >>]]</td></tr></table>
 
 

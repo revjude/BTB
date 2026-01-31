@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּבוֹד‎</span></big> **kâbôwd** <small>*(kaw-bode')*</small> ==**glory**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>rarely <span class="ashebrew">כָּבֹד</span> **kâbôd** <small>*(kaw-bode')*</small>; from <span class="ashebrew">‎כָּבַד‎</span><sup><small>[[H3513]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּבוֹד‎</span></big>** **kâbôwd** <small>*(kaw-bode')*</small> ==**glory**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>rarely **<big><span class="ashebrew">כָּבֹד</span></big>** **kâbôd** <small>*(kaw-bode')*</small>; from **<big>[[H3513|‎כָּבַד‎]]</big>**</small>
 
 $\quad$ glorious(-ly), glory, honour(-able).
 - properly, ***weight***, but only figuratively in a good sense, ***splendor*** or ***copiousness***
@@ -12,4 +12,4 @@ $\quad$ **1d)** honour, reputation
 $\quad$ **1e)** honour, reverence, glory
 $\quad$ **1f)** glory
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάρος</span><sup><small>[[G0922]]</small></sup> · <span class="asgreek">γλῶσσα</span><sup><small>[[G1100]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">καλός</span><sup><small>[[G2570]]</small></sup> · <span class="asgreek">πλοῦτος</span><sup><small>[[G4149]]</small></sup> · <span class="asgreek">στρώννυμι</span><sup><small>[[G4766]]</small></sup> · <span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup>
+<small>See Greek: </small>**<big>[[G0922|βάρος]]</big>** · **<big>[[G1100|γλῶσσα]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G2570|καλός]]</big>** · **<big>[[G4149|πλοῦτος]]</big>** · **<big>[[G4766|στρώννυμι]]</big>** · **<big>[[G5092|τιμή]]</big>**

@@ -6,23 +6,23 @@ Now there was at the citadel of Susa a Jewish man from the tribe of Benjamin nam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.4|<< Esther 2:4]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.6|Esther 2:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a man  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jewish  | <span class="ashebrew"><big>יְהוּדִ֔י </big></span><small><small><sup>[[H3064]]</sup></small></small> &#8207;| ye.hu.Di <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was  | <span class="ashebrew"><big>הָיָ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Susa  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שׁוּשַׁ֣ן </big></span><small><small><sup>[[H7800]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> shu.Shan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the citadel  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בִּירָ֑ה </big></span><small><small><sup>[[H1002]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> bi.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and name his  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמ֣ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Mordecai  | <span class="ashebrew"><big>מָרְדֳּכַ֗י </big></span><small><small><sup>[[H4782H]]</sup></small></small> &#8207;| ma.re.do.Khai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּ֣ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ben <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jair  | <span class="ashebrew"><big>יָאִ֧יר </big></span><small><small><sup>[[H2971J]]</sup></small></small> &#8207;| ya.'Ir <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shimei  | <span class="ashebrew"><big>שִׁמְעִ֛י </big></span><small><small><sup>[[H8096U]]</sup></small></small> &#8207;| shim.'I <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kish  | <span class="ashebrew"><big>קִ֖ישׁ </big></span><small><small><sup>[[H7027J]]</sup></small></small> &#8207;| kish <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֥ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a Jaminite  | <span class="ashebrew"><big>יְמִינִֽי </big></span><small><small><sup>[[H1145]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.mi.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jewish  |**<big>&#8207;[[H3064\|יְהוּדִ֔י]]&#8207; </big>**| ye.hu.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was  |**<big>&#8207;[[H1961\|הָיָ֖ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Susa  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7800\|שׁוּשַׁ֣ן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shu.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the citadel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1002\|בִּירָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and name his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8034\|שְׁמ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֗י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּ֣ן]]&#8207; </big>**| ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jair  |**<big>&#8207;[[H2971J\|יָאִ֧יר]]&#8207; </big>**| ya.'Ir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimei  |**<big>&#8207;[[H8096U\|שִׁמְעִ֛י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kish  |**<big>&#8207;[[H7027J\|קִ֖ישׁ]]&#8207; </big>**| kish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a Jaminite  |**<big>&#8207;[[H1145\|יְמִינִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.mi.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.4|<< Esther 2:4]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.6|Esther 2:6 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ So Joshua came, and all the people of war with him, against them by the waters o
 So by the waters of Merom, Joshua and his whole army came upon them suddenly and attacked them,<small><sub>**MT:**</sub></small>
 [[Josh.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.6|<< Joshua 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.8|Joshua 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua came, | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warrior | <big><span class="asgreek">πολεμιστής</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of Merom, | <big><span class="asgreek">Μερώμ</span></big> <sup><small><small>[[H4792]]</small></small></sup> |
-| suddenly. | <big><span class="asgreek">εξάπινα</span></big> <sup><small><small>[[G1819]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fell | <big><span class="asgreek">επέπεσαν</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| against them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountainous area. | <big><span class="asgreek">ορεινή</span></big> <sup><small><small>[[G3714]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua came, | **<big>[[G2064\|ήλθεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| warrior | **<big>[[G8841\|πολεμιστής]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of Merom, | **<big>[[H4792\|Μερώμ]]</big>** |
+| suddenly. | **<big>[[G1819\|εξάπινα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they fell | **<big>[[G1968\|επέπεσαν]]</big>** |
+| against them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| mountainous area. | **<big>[[G3714\|ορεινή]]</big>** |
 [[Josh.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.6|<< Joshua 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.8|Joshua 11:8 >>]]</td></tr></table>
 
 

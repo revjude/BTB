@@ -7,40 +7,40 @@ In that day, saith the LORD, I will smite every horse with astonishment, and his
 On that day, declares the LORD, I will strike every horse with panic, and every rider with madness. I will keep a watchful eye on the house of Judah, but I will strike with blindness all the horses of the nations.<small><sub>**MT:**</sub></small>
 [[Zech.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.3|<< Zechariah 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.5|Zechariah 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| I will strike | <big><span class="asgreek">πατάξω</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| horse | <big><span class="asgreek">ίππον</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| astonishment, | <big><span class="asgreek">εκστάσει</span></big> <sup><small><small>[[G1611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its rider | <big><span class="asgreek">αναβάτην</span></big> <sup><small><small>[[G6275]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ranting. | <big><span class="asgreek">παραφρονήσει</span></big> <sup><small><small>[[G8643]]</small></small></sup> |
-| But over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| I will open | <big><span class="asgreek">διανοίξω</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| I will strike | <big><span class="asgreek">πατάξω</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| blindness. | <big><span class="asgreek">αποτυφλώσει</span></big> <sup><small><small>[[G6507]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| I will strike | **<big>[[G3960\|πατάξω]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| horse | **<big>[[G2462\|ίππον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| astonishment, | **<big>[[G1611\|εκστάσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its rider | **<big>[[G6275\|αναβάτην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| ranting. | **<big>[[G8643\|παραφρονήσει]]</big>** |
+| But over | **<big>[[G1909\|επί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| I will open | **<big>[[G1272\|διανοίξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| horses | **<big>[[G2462\|ίππους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| I will strike | **<big>[[G3960\|πατάξω]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| blindness. | **<big>[[G6507\|αποτυφλώσει]]</big>** |
 [[Zech.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.3|<< Zechariah 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.5|Zechariah 12:5 >>]]</td></tr></table>
 
 

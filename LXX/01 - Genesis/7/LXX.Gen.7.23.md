@@ -11,47 +11,47 @@ And every living thing on the face of the earth was destroyed—man and livestoc
 > $\quad$ referenced by: [[2Pet.2.5|2Pet 2:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he wiped away | <big><span class="asgreek">εξήλειψε</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ανάστημα</span></big> <sup><small><small>[[G6312]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| beast, | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reptiles, | <big><span class="asgreek">ερπετών</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were wiped away | <big><span class="asgreek">εξηλείφθησαν</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he left behind | <big><span class="asgreek">κατελείφθη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| only | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| Noah | <big><span class="asgreek">Νώε</span></big> <sup><small><small>[[G3575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark. | <big><span class="asgreek">κιβωτώ</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he wiped away | **<big>[[G1813\|εξήλειψε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G6312\|ανάστημα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| beast, | **<big>[[G2934\|κτήνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reptiles, | **<big>[[G2062\|ερπετών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were wiped away | **<big>[[G1813\|εξηλείφθησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he left behind | **<big>[[G2641\|κατελείφθη]]</big>** |
+| only | **<big>[[G3441\|μόνος]]</big>** |
+| Noah | **<big>[[G3575\|Νώε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| ark. | **<big>[[G2787\|κιβωτώ]]</big>** |
 [[Gen.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.22|<< Genesis 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.24|Genesis 7:24 >>]]</td></tr></table>
 
 

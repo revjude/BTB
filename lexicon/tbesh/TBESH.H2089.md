@@ -1,4 +1,3 @@
-<span class="ashebrew">‎זֶה‎</span> <small>***(zeh)***</small> ==**lamb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-spelling of: <small>[[H7716]]</small> 
+<small>spelling of:</small> <small>**<big>[[H7716|שֶׂה]]</big>**</small> 
 
-- Another spelling of <i>seh</i> (<span class='ashebrew'>‎ש‎</span>ֶׂ<span class='ashebrew'>‎ה‎</span> "sheep" [[H7716]])
+- Another spelling of <i>seh</i> (<span class='ashebrew'>‎ש‎</span>ֶׂ<span class='ashebrew'>‎ה‎</span> "sheep" **<big>[[H7716|שֶׂה]]</big>**)

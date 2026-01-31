@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְדַעְיָה‎</span></big> **Yᵉdaʻyâh** <small>*(yed-ah-yaw')*</small> ==**Jedaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has known</small>
+**<big><span class="ashebrew">‎יְדַעְיָה‎</span></big>** **Yᵉdaʻyâh** <small>*(yed-ah-yaw')*</small> ==**Jedaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has known</small>
 
 $\quad$ Jedaiah.
 - § Jedaiah = *"Jehovah has known"*

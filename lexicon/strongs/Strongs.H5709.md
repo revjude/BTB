@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֲדָא‎</span></big> **ʻădâʼ** <small>*(ad-aw')*</small> ==**to pass on/over/away**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">עֲדָה</span> **ʻădâh** <small>*(ad-aw')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎עָדָה‎</span><sup><small>[[H5710]]</small></sup></small>
+**<big><span class="asaramaic">‎עֲדָא‎</span></big>** **ʻădâʼ** <small>*(ad-aw')*</small> ==**to pass on/over/away**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">עֲדָה</span></big>** **ʻădâh** <small>*(ad-aw')*</small>; (Aramaic), corresponding to **<big>[[H5710|‎עָדָה‎]]</big>**</small>
 
 $\quad$ alter, depart, pass (away), remove, take (away).
 - {***to advance***, i.e. ***pass on*** or ***continue***

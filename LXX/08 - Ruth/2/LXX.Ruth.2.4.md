@@ -7,27 +7,27 @@ And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD [be] 
 Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.<small><sub>**MT:**</sub></small>
 [[Ruth.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.3|<< Ruth 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.5|Ruth 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Beth-lehem, | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvesting, | <big><span class="asgreek">θερίζουσι</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[be\] with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bless | <big><span class="asgreek">ευλογήσαι</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Boaz | **<big>[[G1003\|Βοόζ]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Beth-lehem, | **<big>[[G0965\|Βηθλεέμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| harvesting, | **<big>[[G2325\|θερίζουσι]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[be\] with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| bless | **<big>[[G2127\|ευλογήσαι]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[Ruth.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.3|<< Ruth 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.5|Ruth 2:5 >>]]</td></tr></table>
 
 

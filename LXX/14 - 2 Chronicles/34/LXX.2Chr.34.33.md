@@ -7,49 +7,49 @@ And Josiah took away all the abominations out of all the countries that [pertain
 And Josiah removed all the abominations from all the lands belonging to the Israelites, and he required everyone in Israel to serve the LORD their God. Throughout his reign they did not turn aside from following the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
 [[2Chr.34.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.32|<< 2 Chronicles 34:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.1|2 Chronicles 35:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Josiah removed | <big><span class="asgreek">περιείλεν</span></big> <sup><small><small>[[G4014]]</small></small></sup> <big><span class="asgreek">Ιωσίας</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abominations | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέντας</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serve | <big><span class="asgreek">δουλεύειν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[following\] after | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Josiah removed | **<big>[[G4014\|περιείλεν]]</big>** **<big>[[G2502\|Ιωσίας]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| abominations | **<big>[[G0946\|βδελύγματα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| serve | **<big>[[G1398\|δουλεύειν]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their God | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his days. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He did not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εξέκλινεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[following\] after | **<big>[[G3693\|όπισθεν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.34.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.32|<< 2 Chronicles 34:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.1|2 Chronicles 35:1 >>]]</td></tr></table>
 
 

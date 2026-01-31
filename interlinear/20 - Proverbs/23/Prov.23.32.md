@@ -6,13 +6,13 @@ In the end it bites like a snake and stings like a viper.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.31|<< Proverbs 23:31]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.33|Proverbs 23:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| end its  | <span class="ashebrew"><big>אַ֭חֲרִית </big></span><small><small><sup>[[H0319]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.cha.ri.t <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a snake  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>נָחָ֣שׁ </big></span><small><small><sup>[[H5175]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> na.Chash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will bite  | <span class="ashebrew"><big>יִשָּׁ֑ךְ </big></span><small><small><sup>[[H5391A]]</sup></small></small> &#8207;| yi.Shakh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like a viper  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>צִפְעֹנִ֥י </big></span><small><small><sup>[[H6848B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HR]]</sup></small> tzif.'o.Ni <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will sting  | <span class="ashebrew"><big>יַפְרִֽשׁ </big></span><small><small><sup>[[H6567B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yaf.Rish <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| end its  |**<big>&#8207;[[H0319\|אַ֭חֲרִית]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.cha.ri.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a snake  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5175\|נָחָ֣שׁ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> na.Chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will bite  |**<big>&#8207;[[H5391A\|יִשָּׁ֑ךְ]]&#8207; </big>**| yi.Shakh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a viper  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6848B\|צִפְעֹנִ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> tzif.'o.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sting  |**<big>&#8207;[[H6567B\|יַפְרִֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yaf.Rish<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.31|<< Proverbs 23:31]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.33|Proverbs 23:33 >>]]</td></tr></table>
 
 

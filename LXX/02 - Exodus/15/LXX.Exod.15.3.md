@@ -7,13 +7,13 @@ The LORD [is] a man of war: the LORD [is] his name.
 The LORD is a warrior, the LORD is His name.<small><sub>**MT:**</sub></small>
 [[Exod.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.2|<< Exodus 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.4|Exodus 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| breaking | <big><span class="asgreek">συντρίβων</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| by wars; | <big><span class="asgreek">πολέμους</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| breaking | **<big>[[G4937\|συντρίβων]]</big>** |
+| by wars; | **<big>[[G4171\|πολέμους]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
 [[Exod.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.2|<< Exodus 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.4|Exodus 15:4 >>]]</td></tr></table>
 
 

@@ -7,37 +7,37 @@ And the people flew upon the spoil, and took sheep, and oxen, and calves, and sl
 So they rushed greedily to the plunder, taking sheep, cattle, and calves. They slaughtered them on the ground and ate meat with the blood still in it.<small><sub>**MT:**</sub></small>
 [[1Sam.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.31|<< 1 Samuel 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.33|1 Samuel 14:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| advanced | <big><span class="asgreek">ώρμησεν</span></big> <sup><small><small>[[G3729]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| unto | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils. | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| flocks, | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| herds, | <big><span class="asgreek">βουκόλια</span></big> <sup><small><small>[[G6690]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offspring | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| slew \[them\] | <big><span class="asgreek">έσφαξαν</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate \[them\] | <big><span class="asgreek">ήσθιεν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood. | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| advanced | **<big>[[G3729\|ώρμησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| unto | **<big>[[G1909\|επι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| spoils. | **<big>[[G4661\|σκύλα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| flocks, | **<big>[[G4168\|ποίμνια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| herds, | **<big>[[G6690\|βουκόλια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offspring | **<big>[[G5043\|τέκνα]]</big>** |
+| of oxen, | **<big>[[G1016\|βοών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| slew \[them\] | **<big>[[G4969\|έσφαξαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ate \[them\] | **<big>[[G2068\|ήσθιεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| blood. | **<big>[[G0129\|αίματι]]</big>** |
 [[1Sam.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.31|<< 1 Samuel 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.33|1 Samuel 14:33 >>]]</td></tr></table>
 
 

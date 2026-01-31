@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַת‎</span></big> **math** <small>*(math)*</small> ==**man**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎מָתַי‎</span><sup><small>[[H4970]]</small></sup></small>
+**<big><span class="ashebrew">‎מַת‎</span></big>** **math** <small>*(math)*</small> ==**man**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H4970|‎מָתַי‎]]</big>**</small>
 
 $\quad$ [phrase] few, [idiom] friends, men, persons, [idiom] small.
 - properly, ***an adult*** (as of full length)
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b1)** less emphasis on sex
 $\quad$ **1c)** men (poetic)
 $\quad$ $\quad$ **1c1)** less emphasis on sex
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">σύμφωνος</span><sup><small>[[G4859]]</small></sup>
+<small>See Greek: </small>**<big>[[G2192|ἔχω]]</big>** · **<big>[[G4859|σύμφωνος]]</big>**

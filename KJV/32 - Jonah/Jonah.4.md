@@ -31,7 +31,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Jonah.4.4|4]]**<span class="e
 
 [^12]: [[Jonah.1|Jonah 1:17]]; [[Ps.103|Ps 103:10-14]]
 
-[^13]: or, palmcrist, Heb. ***Kikajon***, <span class="asgreek"><span class='asgreek'>χιχιεο</span></span> (<span class="ashebrew">‎קִיקָיוֹן‎</span><sup><small>[[H7021]]</small></sup>), probably the ***palma Christi***, called ***kiki*** or ***kouki*** by the Egyptians, and ***Elkherod*** by the Arabs, from which caster oil is extracted. It is as large as the olive tree, has leaves like those of a vine, sometimes as broad as the brim of a hat, and is of very quick growth.
+[^13]: or, palmcrist, Heb. ***Kikajon***, <span class="asgreek"><span class='asgreek'>χιχιεο</span></span> ( [[H7021|‎קִיקָיוֹן‎]] ), probably the ***palma Christi***, called ***kiki*** or ***kouki*** by the Egyptians, and ***Elkherod*** by the Arabs, from which caster oil is extracted. It is as large as the olive tree, has leaves like those of a vine, sometimes as broad as the brim of a hat, and is of very quick growth.
 
 [^14]: [[Esth.5|Esth 5:9]]; [[Prov.23|Prov 23:5]]; [[Isa.39|Isa 39:2]]; [[Amos.6|Amos 6:13]]; [[Luke.10|Luke 10:20]]; [[1Cor.7|1Cor 7:30]]
 

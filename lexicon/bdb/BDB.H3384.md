@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H4175]]</small>
+<small>Also see: **<big>[[H4175|מוֹרֶה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יָרָה‎</span> **verb** ==throw, shoot== (Late Hebrew ***shoot***, Hiph\`il ***teach***; Aramaic Aph\`el <span class="bdbLangHebrew">‎אוֺרִי‎</span> ***teach***; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMgARAIAAAAAAAP///yH5BAAAAAAALAAAAAAyABEAAAJkjI+py+2/gASw2jjp3SHrlEGh45XfMSKm10xGmL6uKnXzbKO1/OExDwz6drbeCUfTGTXDZbCIcT6JN+oOSZNCFaPmE2RVtq5kLbRqzCpXYFd3RfzmTtGSqvNiYDn8aP8PGNhXAAA7"> ***jecit***; Amharic ***warê*** is ***information, news***, see [[BDB#Nö|Nö]]<sup>ZMG 1886, 724</sup>; Assyrian <abbr title="transliteration"><u>***ârû***</u></abbr>, ***lead***, ***guide***, [[BDB#Dl|Dl]]<sup>HWB 241</sup>; ***têrtu, law***, [[BDB#Dl|Dl]]<sup>HA 49</sup>; Zinjirli <span class="bdbLangHebrew">‎ירי‎</span> ***set, found***, [[BDB#DHM|DHM]]<sup>Sendsch. 57</sup>, compare **2** below — [[BDB#Buhl|Buhl]] distinguishes **3** √ √ <span class="bdbLangHebrew">‎ירה‎</span>: I. = ***throw***, compare modern Arabic ***warra***; II. Hiph\`il = ***moisten***, compare <span class="bdbLangHebrew">‎רוה‎</span>; III. Hiph\`il = ***teach***, compare <span class="bdbLangHebrew">‎ראה‎</span>, Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHAAhAIAAAAAAAP///yH5BAAAAAAALAAAAAAcACEAAAJUjI+py+2/AIBUSvosznore3mRCE0kY55fqh5h67LwCwey2NEeaOjrj/AldMLbcNWxGYNIGou4FPZkUmlvCJrwHLfslhv5cmrT5c6KEauSNTP5nSgAADs=">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIgAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAiABsAAAJXjI+py+0PI4j0gDstrgpn43HSJ5bmiaYbSoLheXWtW83xsj438mp7QvoFPL8ekDdzBXPADxOJY+yIvuTQuiQ+eVIbtSFUssJbilEs+jatEPI5hYbL54YCADs=">; but evidence for this division hardly sufficient) — 
 

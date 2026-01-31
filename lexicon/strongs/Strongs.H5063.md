@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶגֶף‎</span></big> **negeph** <small>*(neh'-ghef)*</small> ==**plague**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָגַף‎</span><sup><small>[[H5062]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶגֶף‎</span></big>** **negeph** <small>*(neh'-ghef)*</small> ==**plague**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5062|‎נָגַף‎]]</big>**</small>
 
 $\quad$ plague, stumbling.
 - ***a trip*** (of the foot)
@@ -9,4 +9,4 @@ $\quad$ plague, stumbling.
 $\quad$ **1a)** blow, plague (fatal)
 $\quad$ **1b)** striking
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πληγή</span><sup><small>[[G4127]]</small></sup> · <span class="asgreek">πρόσκομμα</span><sup><small>[[G4348]]</small></sup> · <span class="asgreek">πτῶσις</span><sup><small>[[G4431]]</small></sup>
+<small>See Greek: </small>**<big>[[G4127|πληγή]]</big>** · **<big>[[G4348|πρόσκομμα]]</big>** · **<big>[[G4431|πτῶσις]]</big>**

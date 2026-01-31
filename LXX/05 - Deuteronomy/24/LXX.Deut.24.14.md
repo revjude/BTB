@@ -7,25 +7,25 @@ Thou shalt not oppress an hired servant [that is] poor and needy, [whether he be
 Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns.<small><sub>**MT:**</sub></small>
 [[Deut.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.13|<< Deuteronomy 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.15|Deuteronomy 24:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| disregard | <big><span class="asgreek">αποστερήσεις</span></big> <sup><small><small>[[G6492]]</small></small></sup> |
-| \[the\] wage | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| of \[the\] needy | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one lacking | <big><span class="asgreek">ενδεούς</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners, | <big><span class="asgreek">προσηλύτων</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cities. | <big><span class="asgreek">πόλεσί</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| disregard | **<big>[[G6492\|αποστερήσεις]]</big>** |
+| \[the\] wage | **<big>[[G3408\|μισθόν]]</big>** |
+| of \[the\] needy | **<big>[[G3993\|πένητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one lacking | **<big>[[G1729\|ενδεούς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| foreigners, | **<big>[[G4339\|προσηλύτων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your cities. | **<big>[[G4172\|πόλεσί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.13|<< Deuteronomy 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.15|Deuteronomy 24:15 >>]]</td></tr></table>
 
 

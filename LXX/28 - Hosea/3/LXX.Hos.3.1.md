@@ -10,37 +10,37 @@ Then said the LORD unto me, Go yet, love a woman beloved of [her] friend, yet an
 Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.”<small><sub>**MT:**</sub></small>
 [[Hos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You go again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">πορεύθητι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| love | <big><span class="asgreek">αγάπησον</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώσαν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an adulteress! | <big><span class="asgreek">μοιχαλίν</span></big> <sup><small><small>[[G3428]]</small></small></sup> |
-| \[even\] as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| loves | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| look away | <big><span class="asgreek">αποβλέπουσιν</span></big> <sup><small><small>[[G0578]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strange gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[are\] fond of | <big><span class="asgreek">φιλούσι</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
-| cakes | <big><span class="asgreek">πέμματα</span></big> <sup><small><small>[[G8691]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| dried grapes. | <big><span class="asgreek">σταφίδος</span></big> <sup><small><small>[[G9154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| You go again | **<big>[[G2089\|έτι]]</big>** **<big>[[G4198\|πορεύθητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| love | **<big>[[G0025\|αγάπησον]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| loving | **<big>[[G0025\|αγαπώσαν]]</big>** |
+| evil | **<big>[[G4190\|πονηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an adulteress! | **<big>[[G3428\|μοιχαλίν]]</big>** |
+| \[even\] as | **<big>[[G2531\|καθώς]]</big>** |
+| loves | **<big>[[G0025\|αγαπά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| look away | **<big>[[G0578\|αποβλέπουσιν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| strange gods, | **<big>[[G2316\|θεούς]]</big>** **<big>[[G3588\|τους]]</big>** **<big>[[G0245\|αλλοτρίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[are\] fond of | **<big>[[G5368\|φιλούσι]]</big>** |
+| cakes | **<big>[[G8691\|πέμματα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| dried grapes. | **<big>[[G9154\|σταφίδος]]</big>** |
 [[Hos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 
 

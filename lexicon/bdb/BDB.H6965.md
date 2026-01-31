@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H6966]]</small>
-<small>Also see: [[H8347]]</small>
+<small>Aramaic form: **<big>[[H6966|קוּם]]</big>**</small>
+<small>Also see: **<big>[[H8347|שֵׁשַׁךְ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎לֵב קָמָי‎</span> probably late Atbash (compare <span class="bdbLangHebrew">‎שֵׁשַׁךְ‎</span>) for p. 1058 <span class="bdbLangHebrew">‎כשׂדים‎</span> the orginal reading ([[BDB#Sept|ᵐ5]]) [[Jer.51.1|Jer 51:1]]. 
 
@@ -73,7 +73,7 @@ $\quad$ $\quad$ **g.** <span class="bdbLangHebrew">‎לְהָקִים‎</span>
 
 
 
-<small>Also see: [[H8618]]</small>
+<small>Also see: **<big>[[H8618|תְּקוֹמֵם]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎תְּקוֺמֵם‎</span>], <span class="bdbLangHebrew">‎וּבִתְקוֺמְמֶיךָ‎</span> [[Ps.139.21|Ps 139:21]], see √, **Hithpolel** 
 

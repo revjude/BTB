@@ -7,31 +7,31 @@ Am I now come up without the LORD against this place to destroy it? The LORD sai
 So now, was it apart from the LORD that I have come up against this place to destroy it? The LORD Himself said to me, ‘Go up against this land and destroy it.’”<small><sub>**MT:**</sub></small>
 [[2Kgs.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.24|<< 2 Kings 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.26|2 Kings 18:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| is it | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[that\] we ascended | <big><span class="asgreek">ανέβημεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">διαφθείραι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| it? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| utterly destroy | <big><span class="asgreek">διάφθειρον</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| is it | **<big>[[G3361\|μη]]</big>** |
+| without | **<big>[[G0427\|άνευ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[that\] we ascended | **<big>[[G0305\|ανέβημεν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this place | **<big>[[G5117\|τόπον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to utterly destroy | **<big>[[G1311\|διαφθείραι]]</big>** |
+| it? | **<big>[[G1473\|αυτόν]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Ascend | **<big>[[G0305\|ανάβηθι]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| utterly destroy | **<big>[[G1311\|διάφθειρον]]</big>** |
+| it! | **<big>[[G1473\|αυτήν]]</big>** |
 [[2Kgs.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.24|<< 2 Kings 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.26|2 Kings 18:26 >>]]</td></tr></table>
 
 

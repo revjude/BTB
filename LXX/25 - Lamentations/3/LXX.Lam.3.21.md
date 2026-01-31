@@ -10,16 +10,16 @@ This I recall to my mind, therefore have I hope.
 Yet I call this to mind, and therefore I have hope:<small><sub>**MT:**</sub></small>
 [[Lam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.20|<< Lamentations 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.22|Lamentations 3:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will arrange | <big><span class="asgreek">τάξω</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart; | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will wait. | <big><span class="asgreek">υπομένω</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
+| This | **<big>[[G3778\|ταύτην]]</big>** |
+| I will arrange | **<big>[[G5021\|τάξω]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart; | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I will wait. | **<big>[[G5278\|υπομένω]]</big>** |
 [[Lam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.20|<< Lamentations 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.22|Lamentations 3:22 >>]]</td></tr></table>
 
 

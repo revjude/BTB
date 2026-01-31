@@ -7,33 +7,33 @@ Thus saith the LORD, the God of Israel; I made a covenant with your fathers in t
 “This is what the LORD, the God of Israel, says: I made a covenant with your forefathers when I brought them out of the land of Egypt, out of the house of slavery, saying:<small><sub>**MT:**</sub></small>
 [[Jer.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.12|<< Jeremiah 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.14|Jeremiah 34:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ordained | <big><span class="asgreek">διεθέμην</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατέρας</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I rescued | <big><span class="asgreek">εξειλάμην</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of slavery, | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| ordained | **<big>[[G1303\|διεθέμην]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your fathers | **<big>[[G3962\|πατέρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| I rescued | **<big>[[G1807\|εξειλάμην]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of slavery, | **<big>[[G1397\|δουλείας]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Jer.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.12|<< Jeremiah 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.14|Jeremiah 34:14 >>]]</td></tr></table>
 
 

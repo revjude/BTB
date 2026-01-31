@@ -7,28 +7,28 @@ Shew the things that are to come hereafter, that we may know that ye [are] gods:
 Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay.<small><sub>**MT:**</sub></small>
 [[Isa.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.22|<< Isaiah 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.24|Isaiah 41:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Tell | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to us! | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| announce | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">επερχόμενα</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] latter end! | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall know | <big><span class="asgreek">γνωσόμεθα</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are gods. | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| Do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do evil! | <big><span class="asgreek">κακώσατε</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall wonder, | <big><span class="asgreek">θαυμασόμεθα</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall see | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| at the same time; | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| Tell | **<big>[[G2036\|είπατε]]</big>** |
+| to us! | **<big>[[G1473\|ημίν]]</big>** |
+| announce | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| coming | **<big>[[G1904\|επερχόμενα]]</big>** |
+| at | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] latter end! | **<big>[[G2078\|εσχάτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall know | **<big>[[G1097\|γνωσόμεθα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you are gods. | **<big>[[G2316\|θεοί]]</big>** **<big>[[G1510\|εστέ]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| Do | **<big>[[G4160\|ποιήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do evil! | **<big>[[G2559\|κακώσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall wonder, | **<big>[[G2296\|θαυμασόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall see | **<big>[[G3708\|οψόμεθα]]</big>** |
+| at the same time; | **<big>[[G0260\|άμα]]</big>** |
 [[Isa.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.22|<< Isaiah 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.24|Isaiah 41:24 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as [
 For surely You, O LORD, bless the righteous; You surround them with the shield of Your favor.<small><sub>**MT:**</sub></small>
 [[Ps.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.11|<< Psalm 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.1|Psalm 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall bless | <big><span class="asgreek">ευλογήσεις</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[the\] just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a shield | <big><span class="asgreek">όπλω</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| of benevolence | <big><span class="asgreek">ευδοκίας</span></big> <sup><small><small>[[G2107]]</small></small></sup> |
-| you crowned | <big><span class="asgreek">εστεφάνωσας</span></big> <sup><small><small>[[G4737]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall bless | **<big>[[G2127\|ευλογήσεις]]</big>** |
+| \[the\] just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| a shield | **<big>[[G3696\|όπλω]]</big>** |
+| of benevolence | **<big>[[G2107\|ευδοκίας]]</big>** |
+| you crowned | **<big>[[G4737\|εστεφάνωσας]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
 [[Ps.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.11|<< Psalm 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.1|Psalm 6:1 >>]]</td></tr></table>
 
 

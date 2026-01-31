@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַדָּע‎</span></big> **maddâʻ** <small>*(mad-daw')*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מַדַּע</span> **maddaʻ** <small>*(mad-dah')*</small>; from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup></small>
+**<big><span class="ashebrew">‎מַדָּע‎</span></big>** **maddâʻ** <small>*(mad-daw')*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַדַּע</span></big>** **maddaʻ** <small>*(mad-dah')*</small>; from **<big>[[H3045|‎יָדַע‎]]</big>**</small>
 
 $\quad$ knowledge, science, thought.
 - ***intelligence*** or ***consciousness***
@@ -8,4 +8,4 @@ $\quad$ knowledge, science, thought.
 $\quad$ **1a)** knowledge
 $\quad$ **1b)** mind, thought, place of knowledge
 
-<sub><small>See Greek: </small></sub><span class="asgreek">συνείδησις</span><sup><small>[[G4893]]</small></sup>
+<small>See Greek: </small>**<big>[[G4893|συνείδησις]]</big>**

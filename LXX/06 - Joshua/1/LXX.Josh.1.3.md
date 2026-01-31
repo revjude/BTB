@@ -7,27 +7,27 @@ Every place that the sole of your foot shall tread upon, that have I given unto 
 I have given you every place where the sole of your foot will tread, just as I promised to Moses.<small><sub>**MT:**</sub></small>
 [[Josh.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.2|<< Joshua 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.4|Joshua 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should mount | <big><span class="asgreek">επιβή</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| track | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">είρηκα</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| Every | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should mount | **<big>[[G1910\|επιβή]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| track | **<big>[[G2487\|ίχνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| I spoke | **<big>[[G2046\|είρηκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Josh.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.2|<< Joshua 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.4|Joshua 1:4 >>]]</td></tr></table>
 
 

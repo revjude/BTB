@@ -6,15 +6,15 @@ The heart is deceitful above all things and beyond cure. Who can understand it?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.8|<< Jeremiah 17:8]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.10|Jeremiah 17:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] deceitful  | <span class="ashebrew"><big>עָקֹ֥ב </big></span><small><small><sup>[[H6121A]]</sup></small></small> &#8207;| a.Ko <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the heart  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לֵּ֛ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than everything  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] incurable  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָנֻ֣שׁ </big></span><small><small><sup>[[H0605]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Nush <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֖י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he know it  | <span class="ashebrew"><big>יֵדָעֶֽ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.da.'E. <small><sup>[[HVqi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] deceitful  |**<big>&#8207;[[H6121A\|עָקֹ֥ב]]&#8207; </big>**| a.Ko<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heart  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3820A\|לֵּ֛ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than everything  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] incurable  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0605\|אָנֻ֣שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Nush<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֖י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he know it  |**<big>&#8207;[[H3045\|יֵדָעֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.da.'E.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.8|<< Jeremiah 17:8]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.10|Jeremiah 17:10 >>]]</td></tr></table>
 
 

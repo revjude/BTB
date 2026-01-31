@@ -7,29 +7,29 @@ And his father in law, the damsel’s father, retained him; and he abode with hi
 His father-in-law, the girl’s father, persuaded him to stay, so he remained with him three days, eating, drinking, and lodging there.<small><sub>**MT:**</sub></small>
 [[Judg.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.3|<< Judges 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.5|Judges 19:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought him in | <big><span class="asgreek">εισήγαγεν</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father-in-law | <big><span class="asgreek">γαμβρός</span></big> <sup><small><small>[[G6716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman, | <big><span class="asgreek">νεάνιδος</span></big> <sup><small><small>[[G8379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stayed | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drank | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| slept | <big><span class="asgreek">ύπνωσαν</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| brought him in | **<big>[[G1521\|εισήγαγεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father-in-law | **<big>[[G6716\|γαμβρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| young woman, | **<big>[[G8379\|νεάνιδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he stayed | **<big>[[G2523\|εκάθισε]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they ate | **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drank | **<big>[[G4095\|έπιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| slept | **<big>[[G9567\|ύπνωσαν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Judg.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.3|<< Judges 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.5|Judges 19:5 >>]]</td></tr></table>
 
 

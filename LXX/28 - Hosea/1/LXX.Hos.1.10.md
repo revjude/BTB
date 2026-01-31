@@ -11,39 +11,39 @@ Yet the number of the Israelites will be like the sand of the sea, which cannot 
 > $\quad$ referenced by: [[Rom.9.26|Rom 9:26]] ☩ [[Rom.9.27|Rom 9:27]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμος</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be measured out | <big><span class="asgreek">εκμετρηθήσεται</span></big> <sup><small><small>[[G7120]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall be counted out. | <big><span class="asgreek">εξαριθμηθήσεται</span></big> <sup><small><small>[[G7300]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it was said | <big><span class="asgreek">ερρέθη</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You \[are\] | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall be called, | <big><span class="asgreek">κληθήσονται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of \[the\] living God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| number | **<big>[[G0706\|αριθμός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sand | **<big>[[G0285\|άμμος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be measured out | **<big>[[G7120\|εκμετρηθήσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall be counted out. | **<big>[[G7300\|εξαριθμηθήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| it was said | **<big>[[G2046\|ερρέθη]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You \[are\] | **<big>[[G1473\|υμείς]]</big>** |
+| they shall be called, | **<big>[[G2564\|κληθήσονται]]</big>** |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of \[the\] living God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G2198\|ζώντος]]</big>** |
 [[Hos.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.9|<< Hosea 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.11|Hosea 1:11 >>]]</td></tr></table>
 
 

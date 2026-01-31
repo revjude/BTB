@@ -7,17 +7,17 @@ My beloved [is] mine, and I [am] his: he feedeth among the lilies.
 My beloved is mine and I am his; he pastures his flock among the lilies.<small><sub>**MT:**</sub></small>
 [[Song.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.15|<< Song of Solomon 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.17|Song of Solomon 2:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| My beloved \[man\] | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[He is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one tending | <big><span class="asgreek">ποιμαίνων</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lilies, | <big><span class="asgreek">κρίνοις</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
+| My beloved \[man\] | **<big>[[G6137\|αδελφιδός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] to me, | **<big>[[G1473\|εμοί]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| \[He is\] the | **<big>[[G3588\|ο]]</big>** |
+| one tending | **<big>[[G4165\|ποιμαίνων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| lilies, | **<big>[[G2918\|κρίνοις]]</big>** |
 [[Song.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.15|<< Song of Solomon 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.17|Song of Solomon 2:17 >>]]</td></tr></table>
 
 

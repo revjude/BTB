@@ -1,4 +1,4 @@
-<small>Also see: [[H5683]]</small>
+<small>Also see: **<big>[[H5683|עֶבְרֹן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עַבְדּוֺן‎</span> **proper name** I. 
 

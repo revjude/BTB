@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zarephath</span>, a Phoenician city between Tyre and Sidon, where Elijah stayed with a widow during a famine and performed miracles \(1 Kgs. 17:9-10; Obad. 1:20; [[Luke.4.26|Luke 4:26]]\).
 - A location first mentioned at [[1Kgs.17.9|1Ki.17.9]]; 
-- referred to as Zarephath<[[H6886]]> \(<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ת</span>\), or Zarephath<[[G4558]]> \(<span class='tipnrLangGreek'>Σάρεπτα</span>\).
+- referred to as Zarephath **<big>[[H6886|צָרְפַת]]</big>**, or Zarephath **<big>[[G4558|Σάρεπτα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.4333,35.3&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Zarephath, also known as Sarepta, was a Phoenician city located between Tyre and
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zarephath | [<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ת</span>](H6886) <small>*Hebrew*</small> | 3x | [[1Ki.17.9] ... [Oba.1.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarephath\*\|reference=1Ki.17.9;1Ki.17.10;Oba.1.20) |
-| Zarephath | [<span class='tipnrLangGreek'>Σάρεπτα</span>](G4558) <small>*Greek*</small> | 1x | [Luk.4.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarephath\*\|reference=Luk.4.26) |
-All Strong's for **Zarephath**: \[[[H6886]]\] \[[[G4558]]\]
+| Zarephath | [<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ת</span>](H6886) | 3x | [[1Ki.17.9] ... [Oba.1.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarephath\*\|reference=1Ki.17.9;1Ki.17.10;Oba.1.20) |
+| Zarephath | [<span class='tipnrLangGreek'>Σάρεπτα</span>](G4558) | 1x | [Luk.4.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarephath\*\|reference=Luk.4.26) |
+All entries for **Zarephath**:  **<big>[[H6886|צָרְפַת]]</big>** ☩  **<big>[[G4558|Σάρεπτα]]</big>**

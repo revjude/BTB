@@ -6,22 +6,22 @@ This is the word of the LORD that came to Jeremiah the prophet about the Philist
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.28|<< Jeremiah 46:28]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.2|Jeremiah 47:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>הָיָ֧ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] word of  | <span class="ashebrew"><big>דְבַר </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| de.var- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeremiah  | <span class="ashebrew"><big>יִרְמְיָ֥הוּ </big></span><small><small><sup>[[H3414L]]</sup></small></small> &#8207;| yir.me.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the prophet  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נָּבִ֖יא </big></span><small><small><sup>[[H5030]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> na.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| concerning  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֑ים </big></span><small><small><sup>[[H6430G]]</sup></small></small> &#8207;| pe.lish.Tim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> before  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>טֶ֛רֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Te.rem <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he struck  | <span class="ashebrew"><big>יַכֶּ֥ה </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| ya.Keh <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַרְעֹ֖ה </big></span><small><small><sup>[[H6547R]]</sup></small></small> &#8207;| far.'Oh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gaza  | <span class="ashebrew"><big>עַזָּֽה </big></span><small><small><sup>[[H5804]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'a.Zah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H1961\|הָיָ֧ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֥הוּ]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֖יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּ֑ים]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֛רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he struck  |**<big>&#8207;[[H5221\|יַכֶּ֥ה]]&#8207; </big>**| ya.Keh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547R\|פַרְעֹ֖ה]]&#8207; </big>**| far.'Oh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gaza  |**<big>&#8207;[[H5804\|עַזָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.28|<< Jeremiah 46:28]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.2|Jeremiah 47:2 >>]]</td></tr></table>
 
 

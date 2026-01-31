@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zephath</span>, later called Hormah, was a Canaanite city that Israel failed to capture but was later defeated by Judah and Simeon \([[Num.14.45|Num.14.45]]; 21:3; [[Judg.1.17|Jdg.1.17]]\).
 - A location first mentioned at [[Judg.1.17|Jdg.1.17]]; 
-- referred to as Zephath<[[H6857]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֑<span class='tipnrLangHebrew'>ת</span>\), or Hormah<[[H2767]]> \(<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Zephath **<big>[[H6857|צְפַת]]</big>**, or Hormah **<big>[[H2767|חׇרְמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.880918,34.630620&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,6 +12,6 @@ However, Israel later refused to enter Canaan from Kadesh Barnea out of unbelief
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zephath | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֑<span class='tipnrLangHebrew'>ת</span>](H6857) <small>*Hebrew*</small> | 1x | [Jdg.1.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zephath\*\|reference=Jdg.1.17) |
-| Hormah | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2767) <small>*Hebrew*</small> | 9x | [[Num.14.45] ... [1Ch.4.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hormah\*\|reference=Num.14.45;Num.21.3;Deu.1.44;Jos.12.14;Jos.15.30;Jos.19.4;Jdg.1.17;1Sa.30.30;1Ch.4.30) |
-All Strong's for **Zephath or Hormah**: \[[[H6857]]\] \[[[H2767]]\]
+| Zephath | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֑<span class='tipnrLangHebrew'>ת</span>](H6857) | 1x | [Jdg.1.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zephath\*\|reference=Jdg.1.17) |
+| Hormah | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2767) | 9x | [[Num.14.45] ... [1Ch.4.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hormah\*\|reference=Num.14.45;Num.21.3;Deu.1.44;Jos.12.14;Jos.15.30;Jos.19.4;Jdg.1.17;1Sa.30.30;1Ch.4.30) |
+All entries for **Zephath or Hormah**:  **<big>[[H6857|צְפַת]]</big>** ☩  **<big>[[H2767|חׇרְמָה]]</big>**

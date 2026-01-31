@@ -1,4 +1,4 @@
-name of: <small>[[G3972G]]</small> 
+name of: <small>**<big>[[G3972G|Παῦλος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σαούλ==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

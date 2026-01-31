@@ -7,30 +7,30 @@ The king answered and said, I know of certainty that ye would gain the time, bec
 The king replied, “I know for sure that you are stalling for time because you see that my word is final.<small><sub>**MT:**</sub></small>
 [[Dan.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.7|<< Daniel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.9|Daniel 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| In | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| buy back | <big><span class="asgreek">εξαγοράζετε</span></big> <sup><small><small>[[G1805]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| you knew | <big><span class="asgreek">είδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| departed | <big><span class="asgreek">απέστη</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| In | **<big>[[G1909\|επ΄]]</big>** |
+| truth | **<big>[[G0225\|αληθείας]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| time | **<big>[[G2540\|καιρόν]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| buy back | **<big>[[G1805\|εξαγοράζετε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| you knew | **<big>[[G1492\|είδετε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| departed | **<big>[[G0868\|απέστη]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
 [[Dan.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.7|<< Daniel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.9|Daniel 2:9 >>]]</td></tr></table>
 
 

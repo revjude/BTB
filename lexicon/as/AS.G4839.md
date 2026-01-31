@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">συμ-παρα-μένω </span></span></span>
-Rec, for <span class="asgreek">παρα-μένω</span> <small><sup>[[G3887]]</sup></small> (q.v.), [[Phil.1.25|Phl 1:25]].†
+Rec, for **<big>[[G3887|παρα-μένω]]</big>** (q.v.), [[Phil.1.25|Phl 1:25]].†
 
 **Abbott-Smith References**
 

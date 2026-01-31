@@ -7,41 +7,41 @@ Son of man, when the land sinneth against me by trespassing grievously, then wil
 “Son of man, if a land sins against Me by acting unfaithfully, and I stretch out My hand against it to cut off its supply of food, to send famine upon it, and to cut off from it both man and beast,<small><sub>**MT:**</sub></small>
 [[Ezek.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.12|<< Ezekiel 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.14|Ezekiel 14:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| it should sin | <big><span class="asgreek">αμάρτη</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to fall into | <big><span class="asgreek">παραπεσείν</span></big> <sup><small><small>[[G3895]]</small></small></sup> |
-| transgression, | <big><span class="asgreek">παραπτώματι</span></big> <sup><small><small>[[G3900]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall stretch out | <big><span class="asgreek">εκτενώ</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will break | <big><span class="asgreek">συντρίψω</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| its | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| reliance on | <big><span class="asgreek">στήριγμα</span></big> <sup><small><small>[[G9176]]</small></small></sup> |
-| bread, | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send | <big><span class="asgreek">εξαποστελώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| famine, | <big><span class="asgreek">λιμόν</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lift away | <big><span class="asgreek">εξαρώ</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| a land, | **<big>[[G1093\|γη]]</big>** |
+|  | **<big>[[G3739\|η]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| it should sin | **<big>[[G0264\|αμάρτη]]</big>** |
+| against me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to fall into | **<big>[[G3895\|παραπεσείν]]</big>** |
+| transgression, | **<big>[[G3900\|παραπτώματι]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I shall stretch out | **<big>[[G1614\|εκτενώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will break | **<big>[[G4937\|συντρίψω]]</big>** |
+| its | **<big>[[G1473\|αυτής]]</big>** |
+| reliance on | **<big>[[G9176\|στήριγμα]]</big>** |
+| bread, | **<big>[[G0740\|άρτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will send | **<big>[[G1821\|εξαποστελώ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| famine, | **<big>[[G3042\|λιμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will lift away | **<big>[[G1808\|εξαρώ]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast | **<big>[[G2934\|κτήνος]]</big>** |
 [[Ezek.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.12|<< Ezekiel 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.14|Ezekiel 14:14 >>]]</td></tr></table>
 
 

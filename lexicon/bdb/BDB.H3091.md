@@ -24,7 +24,7 @@ $\quad$ $\quad$ **b.** [[2Chr.31.15|2Chr 31:15]]; [[Ezra.8.33|Ezra 8:33]]; [[Neh
 
 
 
-<small>Also see: [[H3442]]</small>
+<small>Also see: **<big>[[H3442|יֵשׁוּעַ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יְהוֺשֻׁעַ‎</span>, <span class="bdbLangHebrew">‎יֵשׁוּעַ‎</span> **proper name**. 
 

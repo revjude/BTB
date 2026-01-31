@@ -6,18 +6,18 @@ Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Abimelech  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִימֶ֕לֶךְ </big></span><small><small><sup>[[H0040G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had drawn near  | <span class="ashebrew"><big>קָרַ֖ב </big></span><small><small><sup>[[H7126G]]</sup></small></small> &#8207;| ka.Rav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to her  | <span class="ashebrew"><big>אֵלֶ֑י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַ֕ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Lord  | <span class="ashebrew"><big>אֲדֹנָ֕י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ a nation  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ג֥וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous  | <span class="ashebrew"><big>צַדִּ֖יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you kill  | <span class="ashebrew"><big>תַּהֲרֹֽג </big></span><small><small><sup>[[H2026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.ha.Rog <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040G\|אֲבִימֶ֕לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had drawn near  |**<big>&#8207;[[H7126G\|קָרַ֖ב]]&#8207; </big>**| ka.Rav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  |**<big>&#8207;[[H0413\|אֵלֶ֑י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֕ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֕י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ a nation  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H1471A\|ג֥וֹי]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous  |**<big>&#8207;[[H6662\|צַדִּ֖יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you kill  |**<big>&#8207;[[H2026\|תַּהֲרֹֽג]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.ha.Rog<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 
 

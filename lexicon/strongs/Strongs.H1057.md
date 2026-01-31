@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּכָא‎</span></big> **bâkâʼ** <small>*(baw-kaw')*</small> ==**balsam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בָּכָא‎</span><sup><small>[[H1056]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּכָא‎</span></big>** **bâkâʼ** <small>*(baw-kaw')*</small> ==**balsam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>the same as **<big>[[H1056|‎בָּכָא‎]]</big>**</small>
 
 $\quad$ mulberry tree.
 - ***the weeping tree*** (some gum-distilling tree, perhaps the balsam)

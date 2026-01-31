@@ -1,3 +1,1 @@
-<span class="ashebrew">‎מַדַּי‎</span> <small>***(mad.day)***</small> ==**sufficiency**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-combination of: <small>[[H1767]] ([[H4100]]+[[H1767]])</small> 
-
+<small>combination of:</small> <small>**<big>[[H1767|דַּי]]</big>** (**<big>[[H4100|מָה]]</big>**+**<big>[[H1767|דַּי]]</big>**)</small>

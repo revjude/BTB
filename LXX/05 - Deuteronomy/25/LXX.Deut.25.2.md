@@ -7,29 +7,29 @@ And it shall be, if the wicked man [be] worthy to be beaten, that the judge shal
 If the guilty man deserves to be beaten, the judge shall have him lie down and be flogged in his presence with the number of lashes his crime warrants.<small><sub>**MT:**</sub></small>
 [[Deut.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.1|<< Deuteronomy 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.3|Deuteronomy 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| worthy | <big><span class="asgreek">άξιος</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
-| might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of strokes | <big><span class="asgreek">πληγών</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
-| they shall sit | <big><span class="asgreek">καθιείς</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judges, | <big><span class="asgreek">κριτών</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall whip | <big><span class="asgreek">μαστιγώσουσιν</span></big> <sup><small><small>[[G3146]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his impiety. | <big><span class="asgreek">ασέβειαν</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| worthy | **<big>[[G0514\|άξιος]]</big>** |
+| might be | **<big>[[G1510\|η]]</big>** |
+| of strokes | **<big>[[G4127\|πληγών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one being impious | **<big>[[G0764\|ασεβών]]</big>** |
+| they shall sit | **<big>[[G2523\|καθιείς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| judges, | **<big>[[G2923\|κριτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall whip | **<big>[[G3146\|μαστιγώσουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his impiety. | **<big>[[G0763\|ασέβειαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.1|<< Deuteronomy 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.3|Deuteronomy 25:3 >>]]</td></tr></table>
 
 

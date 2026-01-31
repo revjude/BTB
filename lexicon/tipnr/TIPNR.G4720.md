@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Stachys</span> was a believer in Rome whom Paul greeted as his beloved friend.
 - A man living at the time of the New Testament, only mentioned at [[Rom.16.9|Rom.16.9]]; 
-- only referred to as Stachys<[[G4720]]> \(<span class='tipnrLangGreek'>Στάχυς</span>\).
+- only referred to as Stachys **<big>[[G4720|Στάχυς]]</big>**.
 
 Stachys is mentioned briefly in [[Rom.16.9|Romans 16:9]] as one of the individuals in Rome to whom Paul sends his greetings. Paul refers to Stachys as "my beloved" \(Greek: ton agapēton mou\), indicating a close personal relationship and affection between the two. 
 
@@ -14,5 +14,5 @@ Although no further information is provided about Stachys in the biblical text, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Stachys | [<span class='tipnrLangGreek'>Στάχυς</span>](G4720) <small>*Greek*</small> | 1x | [Rom.16.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stachys\*\|reference=Rom.16.9) |
-All Strong's for **Stachys**: \[[[G4720]]\]
+| Stachys | [<span class='tipnrLangGreek'>Στάχυς</span>](G4720) | 1x | [Rom.16.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stachys\*\|reference=Rom.16.9) |
+All entries for **Stachys**:  **<big>[[G4720|Στάχυς]]</big>**

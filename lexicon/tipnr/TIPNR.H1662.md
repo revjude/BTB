@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gath-hepher</span>, a town in the territory of Zebulun, was the hometown of the prophet Jonah.
 - A location first mentioned at [[Josh.19.13|Jos.19.13]]; 
-- only referred to as Gath-hepher<[[H1662]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Gath-hepher **<big>[[H1662|גַּת־הַחֵפֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.73918470119603,35.32822661816711&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The name Gath-hepher is composed of two elements: "Gath," meaning "winepress," a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gath-hepher (NIV= Gath Hepher) | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1662) <small>*Hebrew*</small> | 2x | [[Jos.19.13] & [2Ki.14.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gath\*\|reference=Jos.19.13;2Ki.14.25) |
-All Strong's for **Gath-hepher**: \[[[H1662]]\]
+| Gath-hepher (NIV= Gath Hepher) | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1662) | 2x | [[Jos.19.13] & [2Ki.14.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gath\*\|reference=Jos.19.13;2Ki.14.25) |
+All entries for **Gath-hepher**:  **<big>[[H1662|גַּת־הַחֵפֶר]]</big>**

@@ -7,20 +7,20 @@ For there is hope of a tree, if it be cut down, that it will sprout again, and t
 For there is hope for a tree: If it is cut down, it will sprout again, and its tender shoots will not fail.<small><sub>**MT:**</sub></small>
 [[Job.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.6|<< Job 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.8|Job 14:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| for a tree | <big><span class="asgreek">δένδρω</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| for if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| it should be cut down, | <big><span class="asgreek">εκκοπή</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| it will bloom again, | <big><span class="asgreek">επανθήσει</span></big> <sup><small><small>[[G7365]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its tender branch | <big><span class="asgreek">ράδαμνος</span></big> <sup><small><small>[[G9004]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall fail; | <big><span class="asgreek">εκλείπη</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| For there is | **<big>[[G1510\|έστι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| for a tree | **<big>[[G1186\|δένδρω]]</big>** |
+| hope | **<big>[[G1680\|ελπίς]]</big>** |
+| for if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| it should be cut down, | **<big>[[G1581\|εκκοπή]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| it will bloom again, | **<big>[[G7365\|επανθήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| its tender branch | **<big>[[G9004\|ράδαμνος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall fail; | **<big>[[G1587\|εκλείπη]]</big>** |
 [[Job.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.6|<< Job 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.8|Job 14:8 >>]]</td></tr></table>
 
 

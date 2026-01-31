@@ -1,5 +1,3 @@
-<span class="ashebrew">‎שִׁמְרָת‎</span> <small>***(shim.rat)***</small> ==**Shimrath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Divided Monarchy, only mentioned at [[1Chr.8.21|1Ch.8.21]]
--  son of: Shimei ([[H8096N]])
--  brother of: Jakim ([[H3356]]), Zichri ([[H2147H]]), Zabdi ([[H2067H]]), Elienai ([[H0462]]), Zillethai ([[H6769]]), Eliel ([[H0447H]]), Adaiah ([[H5718H]]) and Beraiah ([[H1256]])
-
+-  son of: Shimei (**<big>[[H8096N|שִׁמְעִי]]</big>**)
+-  brother of: Jakim (**<big>[[H3356|יָקִים]]</big>**), Zichri (**<big>[[H2147H|זִכְרִי]]</big>**), Zabdi (**<big>[[H2067H|זַבְדִּי]]</big>**), Elienai (**<big>[[H0462|אֱלִיעֵינַי]]</big>**), Zillethai (**<big>[[H6769|צִלְּתַי]]</big>**), Eliel (**<big>[[H0447H|אֱלִיאֵל]]</big>**), Adaiah (**<big>[[H5718H|עֲדָיָה]]</big>**) and Beraiah (**<big>[[H1256|בְּרָאיָה]]</big>**)

@@ -7,30 +7,30 @@ In their streets they shall gird themselves with sackcloth: on the tops of their
 In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping.<small><sub>**MT:**</sub></small>
 [[Isa.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.2|<< Isaiah 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.4|Isaiah 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their squares | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gird on | <big><span class="asgreek">περιζώσατε</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| sackcloths, | <big><span class="asgreek">σάκκους</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lament | <big><span class="asgreek">κόπτεσθε</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her roofs! | <big><span class="asgreek">δωμάτων</span></big> <sup><small><small>[[G1430]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her squares, | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her streets | <big><span class="asgreek">ρύμαις</span></big> <sup><small><small>[[G4505]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| shriek | <big><span class="asgreek">ολολύζετε</span></big> <sup><small><small>[[G3649]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| weeping! | <big><span class="asgreek">κλαυθμού</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their squares | **<big>[[G4113\|πλατείαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| gird on | **<big>[[G4024\|περιζώσατε]]</big>** |
+| sackcloths, | **<big>[[G4526\|σάκκους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lament | **<big>[[G2875\|κόπτεσθε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her roofs! | **<big>[[G1430\|δωμάτων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| her squares, | **<big>[[G4113\|πλατείαις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| her streets | **<big>[[G4505\|ρύμαις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| shriek | **<big>[[G3649\|ολολύζετε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| weeping! | **<big>[[G2805\|κλαυθμού]]</big>** |
 [[Isa.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.2|<< Isaiah 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.4|Isaiah 15:4 >>]]</td></tr></table>
 
 

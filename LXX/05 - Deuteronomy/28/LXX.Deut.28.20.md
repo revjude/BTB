@@ -7,46 +7,46 @@ The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou se
 The LORD will send curses upon you, confusion and reproof in all to which you put your hand, until you are destroyed and quickly perish because of the wickedness you have committed in forsaking Him.<small><sub>**MT:**</sub></small>
 [[Deut.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.19|<< Deuteronomy 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.21|Deuteronomy 28:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> send | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lack, | <big><span class="asgreek">ένδειαν</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| craving, | <big><span class="asgreek">εκλιμίαν</span></big> <sup><small><small>[[G7114]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consumption, | <big><span class="asgreek">ανάλωσιν</span></big> <sup><small><small>[[G6293]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| upon | <big><span class="asgreek">επιβάλης</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should do, | <big><span class="asgreek">ποιής</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should utterly destroy | <big><span class="asgreek">εξολοθρεύση</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should consume | <big><span class="asgreek">απολέση</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| quickly | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τάχει</span></big> <sup><small><small>[[G5034]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| practices | <big><span class="asgreek">επιτηδεύματά</span></big> <sup><small><small>[[G7461]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you abandoned | <big><span class="asgreek">εγκατέλιπές</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> send | **<big>[[G1821\|εξαποστείλαι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| lack, | **<big>[[G7218\|ένδειαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| craving, | **<big>[[G7114\|εκλιμίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| consumption, | **<big>[[G6293\|ανάλωσιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάντα]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| upon | **<big>[[G1911\|επιβάλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| you should do, | **<big>[[G4160\|ποιής]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| he should utterly destroy | **<big>[[G1842\|εξολοθρεύση]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| he should consume | **<big>[[G0622\|απολέση]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| quickly | **<big>[[G1722\|εν]]</big>** **<big>[[G5034\|τάχει]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| wicked | **<big>[[G4190\|πονηρά]]</big>** |
+| practices | **<big>[[G7461\|επιτηδεύματά]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| you abandoned | **<big>[[G1459\|εγκατέλιπές]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Deut.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.19|<< Deuteronomy 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.21|Deuteronomy 28:21 >>]]</td></tr></table>
 
 

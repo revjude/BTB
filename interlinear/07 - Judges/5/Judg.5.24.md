@@ -6,17 +6,17 @@ Most blessed among women is Jael, the wife of Heber the Kenite, most blessed of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.23|<< Judges 5:23]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.25|Judges 5:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| she will be blessed  | <span class="ashebrew"><big>תְּבֹרַךְ֙ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| te.vo.raKh <small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than women  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>נָּשִׁ֔ים </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jael  | <span class="ashebrew"><big>יָעֵ֕ל </big></span><small><small><sup>[[H3278]]</sup></small></small> &#8207;| ya.'El <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wife of  | <span class="ashebrew"><big>אֵ֖שֶׁת </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| 'E.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heber  | <span class="ashebrew"><big>חֶ֣בֶר </big></span><small><small><sup>[[H2268H]]</sup></small></small> &#8207;| Che.ver <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Kenite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קֵּינִ֑י </big></span><small><small><sup>[[H7017]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> kei.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than women  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>נָּשִׁ֥ים </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the tent  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֹ֖הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'O.hel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will be blessed  | <span class="ashebrew"><big>תְּבֹרָֽךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.vo.Rakh <small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be blessed  |**<big>&#8207;[[H1288\|תְּבֹרַךְ֙]]&#8207; </big>**| te.vo.raKh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than women  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0802G\|נָּשִׁ֔ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jael  |**<big>&#8207;[[H3278\|יָעֵ֕ל]]&#8207; </big>**| ya.'El<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֖שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heber  |**<big>&#8207;[[H2268H\|חֶ֣בֶר]]&#8207; </big>**| Che.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kenite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7017\|קֵּינִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kei.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than women  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0802G\|נָּשִׁ֥ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the tent  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0168G\|אֹ֖הֶל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be blessed  |**<big>&#8207;[[H1288\|תְּבֹרָֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vo.Rakh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.23|<< Judges 5:23]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.25|Judges 5:25 >>]]</td></tr></table>
 
 

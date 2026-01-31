@@ -7,21 +7,21 @@ And they said unto him, Sit down now, and read it in our ears. So Baruch read [i
 “Please sit down,” they said, “and read it in our hearing.” So Baruch read it in their hearing.<small><sub>**MT:**</sub></small>
 [[Jer.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.14|<< Jeremiah 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.16|Jeremiah 36:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| read | <big><span class="asgreek">ανάγνωθι</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our ears! | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Baruch read | <big><span class="asgreek">ανέγνω</span></big> <sup><small><small>[[G0314]]</small></small></sup> <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ears. | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Again | **<big>[[G3825\|πάλιν]]</big>** |
+| read | **<big>[[G0314\|ανάγνωθι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| our ears! | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Baruch read | **<big>[[G0314\|ανέγνω]]</big>** **<big>[[H1263\|Βαρούχ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their ears. | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.14|<< Jeremiah 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.16|Jeremiah 36:16 >>]]</td></tr></table>
 
 

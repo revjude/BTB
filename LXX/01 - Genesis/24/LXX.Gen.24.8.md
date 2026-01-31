@@ -7,29 +7,29 @@ And if the woman will not be willing to follow thee, then thou shalt be clear fr
 And if the woman is unwilling to follow you, then you are released from this oath of mine. Only do not take my son back there.”<small><sub>**MT:**</sub></small>
 [[Gen.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.7|<< Genesis 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.9|Genesis 24:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| want | <big><span class="asgreek">θέλη</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you will be clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this oath. | <big><span class="asgreek">όρκου</span></big> <sup><small><small>[[G3727]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Only | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| return | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| want | **<big>[[G2309\|θέλη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land, | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| you will be clean | **<big>[[G2513\|καθαρός]]</big>** **<big>[[G1510\|έση]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this oath. | **<big>[[G3727\|όρκου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| Only | **<big>[[G3440\|μόνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| return | **<big>[[G0654\|αποστρέψης]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Gen.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.7|<< Genesis 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.9|Genesis 24:9 >>]]</td></tr></table>
 
 

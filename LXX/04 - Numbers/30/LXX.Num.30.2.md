@@ -11,36 +11,36 @@ If a man makes a vow to the LORD or swears an oath to obligate himself by a pled
 > $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should vow | <big><span class="asgreek">εύξηται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| a vow | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| should swear | <big><span class="asgreek">ομόση</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| by an oath, | <big><span class="asgreek">όρκον</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| should confirm | <big><span class="asgreek">ορίσηται</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
-| a set of limits | <big><span class="asgreek">ορισμώ</span></big> <sup><small><small>[[G8547]]</small></small></sup> |
-| upon | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| profane | <big><span class="asgreek">βεβηλώσει</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his word; | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| should | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξέλθη</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall do. | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| A man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should vow | **<big>[[G2172\|εύξηται]]</big>** |
+| a vow | **<big>[[G2171\|ευχήν]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| should swear | **<big>[[G3660\|ομόση]]</big>** |
+| by an oath, | **<big>[[G3727\|όρκον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| should confirm | **<big>[[G3724\|ορίσηται]]</big>** |
+| a set of limits | **<big>[[G8547\|ορισμώ]]</big>** |
+| upon | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his life, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| profane | **<big>[[G0953\|βεβηλώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his word; | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| should | **<big>[[G0302\|αν]]</big>** |
+| come forth | **<big>[[G1831\|εξέλθη]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall do. | **<big>[[G4160\|ποιήσει]]</big>** |
 [[Num.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.3|Numbers 30:3 >>]]</td></tr></table>
 
 

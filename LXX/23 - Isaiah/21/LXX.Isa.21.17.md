@@ -7,25 +7,25 @@ And the residue of the number of archers, the mighty men of the children of Keda
 The remaining archers, the warriors of Kedar, will be few.” For the LORD, the God of Israel, has spoken.<small><sub>**MT:**</sub></small>
 [[Isa.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.16|<< Isaiah 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.1|Isaiah 22:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnant | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bowmen | <big><span class="asgreek">τοξευμάτων</span></big> <sup><small><small>[[G9463]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρών</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kedar | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| few. | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| spoke. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| remnant | **<big>[[G2645\|κατάλοιπον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| bowmen | **<big>[[G9463\|τοξευμάτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| strong | **<big>[[G2478\|ισχυρών]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Kedar | **<big>[[H6938\|Κηδάρ]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| few. | **<big>[[G3641\|ολίγον]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| spoke. | **<big>[[G2980\|ελάλησε]]</big>** |
 [[Isa.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.16|<< Isaiah 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.1|Isaiah 22:1 >>]]</td></tr></table>
 
 

@@ -1,6 +1,4 @@
-<span class="ashebrew">‎חַגִּי‎</span> <small>***(chag.gi)***</small> ==**Haggi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Gad living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.16|Gen.46.16]]
--  son of: Gad ([[H1410]])
--  brother of: Ziphion ([[H6837]]), Shuni ([[H7764]]), Ezbon ([[H0675]]), Eri ([[H6179]]), Arod ([[H0720]]) and Areli ([[H0692]])
+-  son of: Gad (**<big>[[H1410|גָּד]]</big>**)
+-  brother of: Ziphion (**<big>[[H6837|צִפְיוֹן]]</big>**), Shuni (**<big>[[H7764|שׁוּנִי]]</big>**), Ezbon (**<big>[[H0675|אֶצְבּוֹן]]</big>**), Eri (**<big>[[H6179|עֵרִי]]</big>**), Arod (**<big>[[H0720|אֲרוֹד]]</big>**) and Areli (**<big>[[H0692|אַרְאֵלִי]]</big>**)
 - adj
-

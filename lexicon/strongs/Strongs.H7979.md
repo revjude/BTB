@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֻׁלְחָן‎</span></big> **shulchân** <small>*(shool-khawn')*</small> ==**table**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַח‎</span><sup><small>[[H7971]]</small></sup></small>
+**<big><span class="ashebrew">‎שֻׁלְחָן‎</span></big>** **shulchân** <small>*(shool-khawn')*</small> ==**table**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7971|‎שָׁלַח‎]]</big>**</small>
 
 $\quad$ table.
 - ***a table*** (as spread out)
@@ -9,4 +9,4 @@ $\quad$ table.
 $\quad$ **1a)** table
 $\quad$ $\quad$ **1a1)** of king's table, private use, sacred uses
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τράπεζα</span><sup><small>[[G5132]]</small></sup>
+<small>See Greek: </small>**<big>[[G5132|τράπεζα]]</big>**

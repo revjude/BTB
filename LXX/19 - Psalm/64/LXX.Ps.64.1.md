@@ -12,24 +12,24 @@ To the chief Musician, A Psalm of David. Hear my voice, O God, in my prayer: pre
 For the choirmaster. A Psalm of David. Hear, O God, my voice of complaint; preserve my life from dread of the enemy.<small><sub>**MT:**</sub></small>
 [[Ps.64.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.11|<< Psalm 63:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.2|Psalm 64:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear, | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my beseeching | <big><span class="asgreek">δέεσθαί</span></big> <sup><small><small>[[G1189]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] fear | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of \[the\] enemy | <big><span class="asgreek">εχθρού</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| Rescue | <big><span class="asgreek">εξελού</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hear, | **<big>[[G1522\|εισάκουσον]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice! | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my beseeching | **<big>[[G1189\|δέεσθαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] fear | **<big>[[G5401\|φόβου]]</big>** |
+| of \[the\] enemy | **<big>[[G2190\|εχθρού]]</big>** |
+| Rescue | **<big>[[G1807\|εξελού]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.64.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.11|<< Psalm 63:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.2|Psalm 64:2 >>]]</td></tr></table>
 
 

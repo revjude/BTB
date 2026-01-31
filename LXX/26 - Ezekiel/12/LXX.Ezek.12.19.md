@@ -7,51 +7,51 @@ And say unto the people of the land, Thus saith the Lord GOD of the inhabitants 
 Then tell the people of the land that this is what the Lord GOD says about those living in Jerusalem and in the land of Israel: ‘They will eat their bread with anxiety and drink their water in dread, for their land will be stripped of everything in it because of the violence of all who dwell in it.<small><sub>**MT:**</sub></small>
 [[Ezek.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.18|<< Ezekiel 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.20|Ezekiel 12:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| lack | <big><span class="asgreek">ενδείας</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
-| they shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| obliteration | <big><span class="asgreek">αφανισμού</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| they shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should be extinct | <big><span class="asgreek">αφανισθή</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| its fullness | <big><span class="asgreek">πληρώματι</span></big> <sup><small><small>[[G4138]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασεβεία</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούσιν]]</big>** |
+| in Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their bread loaves | **<big>[[G0740\|άρτους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| lack | **<big>[[G7218\|ενδείας]]</big>** |
+| they shall eat | **<big>[[G2068\|φάγονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their water | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| obliteration | **<big>[[G0854\|αφανισμού]]</big>** |
+| they shall drink | **<big>[[G4095\|πίονται]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should be extinct | **<big>[[G0853\|αφανισθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| its fullness | **<big>[[G4138\|πληρώματι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| impiety | **<big>[[G0763\|ασεβεία]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Ezek.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.18|<< Ezekiel 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.20|Ezekiel 12:20 >>]]</td></tr></table>
 
 

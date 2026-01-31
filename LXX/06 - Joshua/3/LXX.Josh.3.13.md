@@ -7,45 +7,45 @@ And it shall come to pass, as soon as the soles of the feet of the priests that 
 When the feet of the priests who carry the ark of the LORD—the Lord of all the earth—touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.”<small><sub>**MT:**</sub></small>
 [[Josh.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.12|<< Joshua 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.14|Joshua 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">καταπαύσωσιν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αιρόντων</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| shall fail, | <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| and the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνον</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| from above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a heap. | <big><span class="asgreek">σωρός</span></big> <sup><small><small>[[G9391]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| shall rest | **<big>[[G2664\|καταπαύσωσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| feet | **<big>[[G4228\|πόδες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| lifting | **<big>[[G0142\|αιρόντων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| water | **<big>[[G5204\|ύδατι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| shall fail, | **<big>[[G1587\|εκλείψει]]</big>** |
+| and the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνον]]</big>** |
+| shall stand | **<big>[[G2476\|στήσεται]]</big>** |
+| from above | **<big>[[G0509\|άνωθεν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a heap. | **<big>[[G9391\|σωρός]]</big>** |
 [[Josh.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.12|<< Joshua 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.14|Joshua 3:14 >>]]</td></tr></table>
 
 

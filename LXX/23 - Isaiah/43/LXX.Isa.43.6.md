@@ -11,30 +11,30 @@ I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold th
 > $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will say | <big><span class="asgreek">ερώ</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| Bring! | <big><span class="asgreek">άγε</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south, | <big><span class="asgreek">λιβί</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| restrain! | <big><span class="asgreek">κώλυε</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
-| Bring | <big><span class="asgreek">άγε</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| at a distance, | <big><span class="asgreek">πόρρωθεν</span></big> <sup><small><small>[[G4207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| uttermost parts | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| I will say | **<big>[[G2046\|ερώ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| north, | **<big>[[G1005\|βορρά]]</big>** |
+| Bring! | **<big>[[G0071\|άγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| south, | **<big>[[G3047\|λιβί]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| restrain! | **<big>[[G2967\|κώλυε]]</big>** |
+| Bring | **<big>[[G0071\|άγε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| at a distance, | **<big>[[G4207\|πόρρωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| uttermost parts | **<big>[[G6208\|άκρων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
 [[Isa.43.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.5|<< Isaiah 43:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.7|Isaiah 43:7 >>]]</td></tr></table>
 
 

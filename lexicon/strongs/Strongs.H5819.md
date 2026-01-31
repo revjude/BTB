@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזִיזָא‎</span></big> **ʻĂzîyzâʼ** <small>*(az-ee-zaw')*</small> ==**Aziza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּז‎</span><sup><small>[[H5756]]</small></sup>; strengthfulness</small>
+**<big><span class="ashebrew">‎עֲזִיזָא‎</span></big>** **ʻĂzîyzâʼ** <small>*(az-ee-zaw')*</small> ==**Aziza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5756|‎עוּז‎]]</big>**; strengthfulness</small>
 
 $\quad$ Aziza.
 - § Aziza = *"strong"*

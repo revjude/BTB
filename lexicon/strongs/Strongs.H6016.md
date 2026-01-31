@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹמֶר‎</span></big> **ʻômer** <small>*(o'-mer)*</small> ==**sheaf**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַר‎</span><sup><small>[[H6014]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹמֶר‎</span></big>** **ʻômer** <small>*(o'-mer)*</small> ==**sheaf**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6014|‎עָמַר‎]]</big>**</small>
 
 $\quad$ omer, sheaf.
 - properly, ***a heap***, i.e. ***a sheaf***

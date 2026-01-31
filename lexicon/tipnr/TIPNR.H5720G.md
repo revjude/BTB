@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adin</span> was one of the Jewish exiles who returned to Jerusalem with Zerubbabel after the Babylonian captivity, as recorded in the lists of returnees in Ezra and Nehemiah.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.15|Ezr.2.15]]; 
-- only referred to as Adin<[[H5720G]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Adin **<big>[[H5720|עָדִין]]</big>**.
 
 Adin is mentioned in the lists of Jewish exiles who returned to Jerusalem from Babylon after the captivity. He is recorded in [[Ezra.2.15|Ezra 2:15]] and [[Neh.7.20|Nehemiah 7:20]] among the descendants of those who came back with Zerubbabel, the leader of the first group of returnees. 
 
@@ -16,5 +16,5 @@ The return of Adin and his fellow exiles to Jerusalem was part of the fulfillmen
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adin | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5720G) <small>*Hebrew*</small> | 3x | [[Ezr.2.15] ... [Neh.7.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adin\*\|reference=Ezr.2.15;Ezr.8.6;Neh.7.20) |
-All Strong's for **Adin**: \[[[H5720G]]\]
+| Adin | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5720G) | 3x | [[Ezr.2.15] ... [Neh.7.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adin\*\|reference=Ezr.2.15;Ezr.8.6;Neh.7.20) |
+All entries for **Adin**:  **<big>[[H5720|עָדִין]]</big>**

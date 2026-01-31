@@ -7,26 +7,26 @@ If he rise again, and walk abroad upon his staff, then shall he that smote [him]
 then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed.<small><sub>**MT:**</sub></small>
 [[Exod.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in arising, | <big><span class="asgreek">εξαναστάς</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| should walk | <big><span class="asgreek">περιπατήση</span></big> <sup><small><small>[[G4043]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his cane, | <big><span class="asgreek">ραβδόν</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be innocent | <big><span class="asgreek">αθώος</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| striking | <big><span class="asgreek">πατάξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his idleness | <big><span class="asgreek">αργίας</span></big> <sup><small><small>[[G6524]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| physician's fee. | <big><span class="asgreek">ιατρεία</span></big> <sup><small><small>[[G7706]]</small></small></sup> |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| in arising, | **<big>[[G1817\|εξαναστάς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| should walk | **<big>[[G4043\|περιπατήση]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his cane, | **<big>[[G4464\|ραβδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| will be innocent | **<big>[[G0121\|αθώος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| striking | **<big>[[G3960\|πατάξας]]</big>** |
+| except | **<big>[[G4133\|πλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| for his idleness | **<big>[[G6524\|αργίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| physician's fee. | **<big>[[G7706\|ιατρεία]]</big>** |
 [[Exod.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
 

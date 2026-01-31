@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּדוּלָה‎</span></big> **gᵉdûwlâh** <small>*(ghed-oo-law')*</small> ==**greatness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">גְּדֻלָּה</span> **gᵉdullâh** <small>*(ghed-ool-law')*</small>; (shortened) or (less accurately) <span class="ashebrew">גְּדוּלָּה</span> **gᵉdûwllâh** <small>*(ghed-ool-law')*</small>; feminine of <span class="ashebrew">‎גָּדוֹל‎</span><sup><small>[[H1419]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּדוּלָה‎</span></big>** **gᵉdûwlâh** <small>*(ghed-oo-law')*</small> ==**greatness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">גְּדֻלָּה</span></big>** **gᵉdullâh** <small>*(ghed-ool-law')*</small>; (shortened) or (less accurately) **<big><span class="ashebrew">גְּדוּלָּה</span></big>** **gᵉdûwllâh** <small>*(ghed-ool-law')*</small>; feminine of **<big>[[H1419|‎גָּדוֹל‎]]</big>**</small>
 
 $\quad$ dignity, great things(-ness), majesty.
 - ***greatness***
@@ -9,4 +9,4 @@ $\quad$ dignity, great things(-ness), majesty.
 $\quad$ **1a)** of man
 $\quad$ **1b)** of God's greatness (as an attribute)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εὐφροσύνη</span><sup><small>[[G2167]]</small></sup> · <span class="asgreek">μεγαλωσύνη</span><sup><small>[[G3172]]</small></sup> · <span class="asgreek">πλοῦτος</span><sup><small>[[G4149]]</small></sup> · <span class="asgreek">χάρις</span><sup><small>[[G5485]]</small></sup>
+<small>See Greek: </small>**<big>[[G2167|εὐφροσύνη]]</big>** · **<big>[[G3172|μεγαλωσύνη]]</big>** · **<big>[[G4149|πλοῦτος]]</big>** · **<big>[[G5485|χάρις]]</big>**

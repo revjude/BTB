@@ -7,19 +7,19 @@ Remember his marvellous works that he hath done, his wonders, and the judgments 
 Remember the wonders He has done, His marvels, and the judgments He has pronounced,<small><sub>**MT:**</sub></small>
 [[1Chr.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.11|<< 1 Chronicles 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.13|1 Chronicles 16:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνημονεύετε</span></big> <sup><small><small>[[G3421]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wonders! | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did; | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his miracles | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mouth. | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Remember | **<big>[[G3421\|μνημονεύετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his wonders! | **<big>[[G2297\|θαυμάσια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| he did; | **<big>[[G4160\|εποίησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his miracles | **<big>[[G5059\|τέρατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his mouth. | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Chr.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.11|<< 1 Chronicles 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.13|1 Chronicles 16:13 >>]]</td></tr></table>
 
 

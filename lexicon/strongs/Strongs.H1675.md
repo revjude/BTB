@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּאָה‎</span></big> **dâʼâh** <small>*(daw-aw')*</small> ==**to fly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּאָה‎</span></big>** **dâʼâh** <small>*(daw-aw')*</small> ==**to fly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fly.

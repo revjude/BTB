@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הָגָה‎</span></big> **hâgâh** <small>*(daw-gaw')*</small> ==**to mutter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎הָגִיג‎</span><sup><small>[[H1901]]</small></sup>)</small>
+**<big><span class="ashebrew">‎הָגָה‎</span></big>** **hâgâh** <small>*(daw-gaw')*</small> ==**to mutter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H1901|‎הָגִיג‎]]</big>**)</small>
 
 $\quad$ imagine, meditate, mourn, mutter, roar, [idiom] sore, speak, study, talk, utter.
 - ***to murmur*** (in pleasure or anger)

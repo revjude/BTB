@@ -1,3 +1,1 @@
-<span class="asaramaic">‎רֵאשׁ‎</span> <small>***(resh)***</small> ==**head**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7218A]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7218A|רֹאשׁ]]</big>**</small>

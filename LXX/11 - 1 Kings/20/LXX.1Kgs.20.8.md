@@ -7,22 +7,22 @@ And all the elders and all the people said unto him, Hearken not [unto him], nor
 And the elders and the people all said, “Do not listen to him or consent to his terms.”<small><sub>**MT:**</sub></small>
 [[1Kgs.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.7|<< 1 Kings 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.9|1 Kings 20:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken, | <big><span class="asgreek">ακούσης</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| want. | <big><span class="asgreek">θελήσης</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| hearken, | **<big>[[G0191\|ακούσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| want. | **<big>[[G2309\|θελήσης]]</big>** |
 [[1Kgs.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.7|<< 1 Kings 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.9|1 Kings 20:9 >>]]</td></tr></table>
 
 

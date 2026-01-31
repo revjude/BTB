@@ -7,33 +7,33 @@ Manasseh, Ephraim; and Ephraim, Manasseh: [and] they together [shall be] against
 Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
 [[Isa.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.20|<< Isaiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.1|Isaiah 10:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Manasseh | <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Manasseh; | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| they shall assault | <big><span class="asgreek">πολιορκήσουσι</span></big> <sup><small><small>[[G8843]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah. | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] high. | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| Manasseh | **<big>[[G3128\|Μανασσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Manasseh; | **<big>[[G3128\|Μανασσή]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| they shall assault | **<big>[[G8843\|πολιορκήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Judah. | **<big>[[G2448\|Ιούδαν]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| all these \[things\] | **<big>[[G3778\|τούτοις]]</big>** **<big>[[G3956\|πάσιν]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn | **<big>[[G0654\|απεστράφη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] high. | **<big>[[G5308\|υψηλή]]</big>** |
 [[Isa.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.20|<< Isaiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.1|Isaiah 10:1 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חוּד‎</span></big> **chûwd** <small>*(khood)*</small> ==**to riddle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חוּד‎</span></big>** **chûwd** <small>*(khood)*</small> ==**to riddle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ put forth.
@@ -6,4 +6,4 @@ $\quad$ put forth.
 
 **1)** (Qal) to propose a riddle, propound a riddle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διηγέομαι</span><sup><small>[[G1334]]</small></sup> · <span class="asgreek">προβάλλω</span><sup><small>[[G4261]]</small></sup>
+<small>See Greek: </small>**<big>[[G1334|διηγέομαι]]</big>** · **<big>[[G4261|προβάλλω]]</big>**

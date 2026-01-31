@@ -133,11 +133,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^54]: [[1Chr.5|1Chr 5:1]]; [[Lev.27|Lev 27:26]]; [[Gen.14|Gen 14:20]]; Here there is an ellipsis of the name of the firstborn, which the margin correctly supplies as Joel. The word ***Vashni*** when otherwise pointed means "second," so that the verse more properly reads "And the sons of Samuel; the firstborn (Joel) and the second Abiah."
 
-[^55]: i.e. Jah is strong; wherefore, sleep thou; changed; my year; second; liberal gift of the Lord, (<span class="ashebrew">‎וַשְׁנִי‎</span><sup><small>[[H2059]]</small></sup>). It appears that the Joel is here lost out of the text; and that ***washni***, which signifies "and the second," and which refers to Abiah, is made into a proper name. The Syriac and Arabic read as in Samuel. The marginal references contain the variation in the names given to the same persons, in different parts of sacred history, as far as it can be ascertained; and nearly the whole, that is at present known concerning them, may be learned by carefully consulting them. [[1Chr.6|1Chr 6:33]]; [[1Sam.8|1Sam 8:2]], Joel
+[^55]: i.e. Jah is strong; wherefore, sleep thou; changed; my year; second; liberal gift of the Lord, ( [[H2059|‎וַשְׁנִי‎]] ). It appears that the Joel is here lost out of the text; and that ***washni***, which signifies "and the second," and which refers to Abiah, is made into a proper name. The Syriac and Arabic read as in Samuel. The marginal references contain the variation in the names given to the same persons, in different parts of sacred history, as far as it can be ascertained; and nearly the whole, that is at present known concerning them, may be learned by carefully consulting them. [[1Chr.6|1Chr 6:33]]; [[1Sam.8|1Sam 8:2]], Joel
 
 [^56]: [[1Chr.6|1Chr 6:19]]; [[Num.3|Num 3:33]]
 
-[^57]: i.e. festival of Jah, (<span class="ashebrew">‎חַגִּיָּה‎</span><sup><small>[[H2293]]</small></sup>), Asaiah. [[2Chr.34|2Chr 34:20]]
+[^57]: i.e. festival of Jah, ( [[H2293|‎חַגִּיָּה‎]] ), Asaiah. [[2Chr.34|2Chr 34:20]]
 
 [^58]: [[1Chr.15|1Chr 15:16-22]], [[1Chr.15|1Chr 15:27]], [[1Chr.25|1Chr 25:1-31]]
 
@@ -167,7 +167,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^71]: [[1Chr.6|1Chr 6:27]], Eliab, [[1Chr.8|1Chr 8:20]]
 
-[^72]: i.e. depressing; inclination; sinking, prostration, (<span class="ashebrew">‎תּוֹחַ‎</span><sup><small>[[H8430]]</small></sup>). [[1Chr.6|1Chr 6:26]], Nahath
+[^72]: i.e. depressing; inclination; sinking, prostration, ( [[H8430|‎תּוֹחַ‎]] ). [[1Chr.6|1Chr 6:26]], Nahath
 
 [^73]: [[1Chr.6|1Chr 6:26]], Zophai, [[1Sam.1|1Sam 1:1]]
 
@@ -197,7 +197,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^86]: [[Dan.12|Dan 12:1]]
 
-[^87]: i.e. pressing together; work of the Lord, (<span class="ashebrew">‎בַּעֲשֵׂיָה‎</span><sup><small>[[H1202]]</small></sup>). Malchiah. [[Jer.38|Jer 38:1]]
+[^87]: i.e. pressing together; work of the Lord, ( [[H1202|‎בַּעֲשֵׂיָה‎]] ). Malchiah. [[Jer.38|Jer 38:1]]
 
 [^88]: [[1Chr.6|1Chr 6:21]], Jeaterai
 
@@ -279,7 +279,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^127]: [[1Chr.4|1Chr 4:17]]; [[Josh.15|Josh 15:48]]
 
-[^128]: i.e. fortress, (<span class="ashebrew">‎חִילֵן‎</span><sup><small>[[H2432]]</small></sup>), or, Holon. [[Josh.15|Josh 15:51]], [[Josh.21|Josh 21:15]]; This variation simply arises from the introduction of a <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood***, and a change of the vowel points; ***Holon*** being written <span class="asgreek"><span class='asgreek'>ημο</span></span> (<span class="ashebrew">‎חֹלוֹן‎</span><sup><small>[[H2473]]</small></sup>), and ***Hilen*** <span class="asgreek"><span class='asgreek'>ηιμο</span></span> (<span class="ashebrew">‎חִילֵן‎</span><sup><small>[[H2432]]</small></sup>).] [[Josh.15|Josh 15:51]], [[Josh.21|Josh 21:15]], Holon
+[^128]: i.e. fortress, ( [[H2432|‎חִילֵן‎]] ), or, Holon. [[Josh.15|Josh 15:51]], [[Josh.21|Josh 21:15]]; This variation simply arises from the introduction of a <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood***, and a change of the vowel points; ***Holon*** being written <span class="asgreek"><span class='asgreek'>ημο</span></span> ( [[H2473|‎חֹלוֹן‎]] ), and ***Hilen*** <span class="asgreek"><span class='asgreek'>ηιμο</span></span> ( [[H2432|‎חִילֵן‎]] ).] [[Josh.15|Josh 15:51]], [[Josh.21|Josh 21:15]], Holon
 
 [^129]: [[Josh.10|Josh 10:3]], [[Josh.10|Josh 10:38]], [[Josh.12|Josh 12:13]], [[Josh.15|Josh 15:49]]
 
@@ -289,7 +289,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^132]: [[1Chr.8|1Chr 8:6]]; [[Josh.18|Josh 18:24]], [[Josh.21|Josh 21:17]]; [[1Sam.13|1Sam 13:3]]
 
-[^133]: i.e. covering a hiding place, (<span class="asaramaic">‎עֲלַל‎</span><sup><small>[[H5954]]</small></sup>). [[Josh.21|Josh 21:18]], Almon
+[^133]: i.e. covering a hiding place, ( [[H5954|‎עֲלַל‎]] ). [[Josh.21|Josh 21:18]], Almon
 
 [^134]: [[1Chr.7|1Chr 7:8]]; [[1Kgs.2|1Kgs 2:26]]; [[Isa.10|Isa 10:30]]; [[Jer.1|Jer 1:1]], [[Jer.11|Jer 11:23]], [[Jer.37|Jer 37:12]]
 
@@ -319,7 +319,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^147]: [[Josh.12|Josh 12:12]], [[Josh.16|Josh 16:3]], [[Josh.16|Josh 16:10]], [[Josh.21|Josh 21:21]]; [[1Kgs.9|1Kgs 9:16]]
 
-[^148]: i.e. gathered of the people; he will establish the people, (<span class="ashebrew">‎יׇקְמְעָם‎</span><sup><small>[[H3361]]</small></sup>), [[1Chr.6|1Chr 6:68]]; [[1Kgs.4|1Kgs 4:12]], Probably the same as Kibzaim, [[Josh.21|Josh 21:22]]
+[^148]: i.e. gathered of the people; he will establish the people, ( [[H3361|‎יׇקְמְעָם‎]] ), [[1Chr.6|1Chr 6:68]]; [[1Kgs.4|1Kgs 4:12]], Probably the same as Kibzaim, [[Josh.21|Josh 21:22]]
 
 [^149]: [[Josh.10|Josh 10:10-11]], [[Josh.16|Josh 16:5]]; [[1Sam.13|1Sam 13:18]]
 
@@ -329,7 +329,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^152]: Aner is probably another name of Tanach, which was a city of the half tribe of Manasseh, west of Jordan; and Eusebius, Jerome, and Procopius of Gaza, say that it was in their time a considerable place, three miles from Legio. [[Josh.21|Josh 21:25]], Tanach, Gath–rimmon
 
-[^153]: i.e. devouring; foreigner, (<span class="ashebrew">‎בִּלְעָם‎</span><sup><small>[[H1109]]</small></sup>). Compare the same Hebrew word rendered Balaam. [[Num.22|Num 22:5]]; Ibleam is here called Bileam, by a transposition of letters common to all languages. It is evident, however, that many of these cities or their names have been changed since the time of Joshua; but, as it has been well observed, Salop and Shrewsbury, Sarum and Salisbury, are as different names as any in these catalogues; yet those who live in their vicinity are not at all confused by them. Some cities also are here mentioned as belonging to Ephraim, which in Joshua are spoken of as cities of Dan; but various changes in such matters would occur in a course of ages. [[Josh.17|Josh 17:11]], Ibleam, [[Judg.1|Judg 1:27]]
+[^153]: i.e. devouring; foreigner, ( [[H1109|‎בִּלְעָם‎]] ). Compare the same Hebrew word rendered Balaam. [[Num.22|Num 22:5]]; Ibleam is here called Bileam, by a transposition of letters common to all languages. It is evident, however, that many of these cities or their names have been changed since the time of Joshua; but, as it has been well observed, Salop and Shrewsbury, Sarum and Salisbury, are as different names as any in these catalogues; yet those who live in their vicinity are not at all confused by them. Some cities also are here mentioned as belonging to Ephraim, which in Joshua are spoken of as cities of Dan; but various changes in such matters would occur in a course of ages. [[Josh.17|Josh 17:11]], Ibleam, [[Judg.1|Judg 1:27]]
 
 [^154]: [[Deut.4|Deut 4:43]]; [[Josh.20|Josh 20:8]], [[Josh.21|Josh 21:27]]
 
@@ -341,13 +341,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^158]: [[Josh.19|Josh 19:12]], [[Josh.21|Josh 21:28-29]], Kishon, Daberah, Jarmuth, En–gannim
 
-[^159]: i.e. heights; coral, (<span class="ashebrew">‎רָאמוֹת‎</span><sup><small>[[H7216]]</small></sup>), [[Deut.4|Deut 4:43]]; [[Josh.20|Josh 20:8]]; [[1Chr.6|1Chr 6:73]], [[1Chr.6|1Chr 6:80]]
+[^159]: i.e. heights; coral, ( [[H7216|‎רָאמוֹת‎]] ), [[Deut.4|Deut 4:43]]; [[Josh.20|Josh 20:8]]; [[1Chr.6|1Chr 6:73]], [[1Chr.6|1Chr 6:80]]
 
-[^160]: i.e. double fountain; two eyes, (<span class="ashebrew">‎עָנֵם‎</span><sup><small>[[H6046]]</small></sup>).
+[^160]: i.e. double fountain; two eyes, ( [[H6046|‎עָנֵם‎]] ).
 
-[^161]: i.e. entreaty, (<span class="ashebrew">‎מָשָׁל‎</span><sup><small>[[H4913]]</small></sup>), [[Josh.19|Josh 19:26]], [[Josh.21|Josh 21:30]], Mishal
+[^161]: i.e. entreaty, ( [[H4913|‎מָשָׁל‎]] ), [[Josh.19|Josh 19:26]], [[Josh.21|Josh 21:30]], Mishal
 
-[^162]: i.e. a ditch; appointed portion; the engraving, (<span class="ashebrew">‎חֻקֹּק‎</span><sup><small>[[H2712]]</small></sup>). [[1Chr.6|1Chr 6:75]]; [[Josh.19|Josh 19:34]], Compare, [[Josh.19|Josh 19:25-26]], [[Josh.21|Josh 21:31]], Helkath
+[^162]: i.e. a ditch; appointed portion; the engraving, ( [[H2712|‎חֻקֹּק‎]] ). [[1Chr.6|1Chr 6:75]]; [[Josh.19|Josh 19:34]], Compare, [[Josh.19|Josh 19:25-26]], [[Josh.21|Josh 21:31]], Helkath
 
 [^163]: [[Josh.12|Josh 12:22]], [[Josh.19|Josh 19:37]], [[Josh.20|Josh 20:7]], [[Josh.21|Josh 21:32]]; [[Judg.4|Judg 4:6]], Kadeshnaphtali
 
@@ -363,7 +363,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.6.54|54]]**<span class="
 
 [^169]: [[Deut.4|Deut 4:41-43]]; [[Josh.20|Josh 20:8]], [[Josh.21|Josh 21:36]]
 
-[^170]: i.e. threshing-floor, (<span class="ashebrew">‎יַהַץ‎</span><sup><small>[[H3096]]</small></sup>), [[1Chr.6|1Chr 6:78]]; [[Josh.13|Josh 13:18]]; [[Jer.48|Jer 48:21]]; [[Josh.21|Josh 21:36-37]], Jahazah
+[^170]: i.e. threshing-floor, ( [[H3096|‎יַהַץ‎]] ), [[1Chr.6|1Chr 6:78]]; [[Josh.13|Josh 13:18]]; [[Jer.48|Jer 48:21]]; [[Josh.21|Josh 21:36-37]], Jahazah
 
 [^171]: [[Josh.13|Josh 13:18]]
 

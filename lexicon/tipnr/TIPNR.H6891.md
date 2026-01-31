@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zarethan</span>, a place near Adam and the Jordan River, mentioned in connection with Israel's crossing and the casting of bronze implements for Solomon's Temple \(Josh. 3:16; 1 Kgs. 4:12; 7:46; 2 Chr. 4:17; Judg. 7:22\).
 - A location first mentioned at [[Josh.3.16|Jos.3.16]]; 
-- referred to as Zarethan<[[H6891]]> \(<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Zeredah<[[H6868H]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Zererah<[[H6888]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Zarethan **<big>[[H6891|צָרְתָן]]</big>**, or Zeredah **<big>[[H6868|צְרֵדָה]]</big>**, or Zererah **<big>[[H6888|צְרֵרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.267821,35.576613&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Zarethan, also known by various spellings such as Zaretan, Zartanah, Zererah, an
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zarethan | [<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6891) <small>*Hebrew*</small> | 3x | [[Jos.3.16] ... [1Ki.7.46] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarethan\*\|reference=Jos.3.16;1Ki.4.12;1Ki.7.46) |
-| Zeredah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6868H) <small>*Hebrew*</small> | 1x | [2Ch.4.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeredah\*\|reference=2Ch.4.17) |
-| Zererah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6888) <small>*Hebrew*</small> | 1x | [Jdg.7.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zererah\*\|reference=Jdg.7.22) |
-All Strong's for **Zarethan or Zeredah or Zererah**: \[[[H6891]]\] \[[[H6868H]]\] \[[[H6888]]\]
+| Zarethan | [<span class='tipnrLangHebrew'>צ</span>ָֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6891) | 3x | [[Jos.3.16] ... [1Ki.7.46] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zarethan\*\|reference=Jos.3.16;1Ki.4.12;1Ki.7.46) |
+| Zeredah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6868H) | 1x | [2Ch.4.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeredah\*\|reference=2Ch.4.17) |
+| Zererah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6888) | 1x | [Jdg.7.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zererah\*\|reference=Jdg.7.22) |
+All entries for **Zarethan or Zeredah or Zererah**:  **<big>[[H6891|צָרְתָן]]</big>** ☩  **<big>[[H6868|צְרֵדָה]]</big>** ☩  **<big>[[H6888|צְרֵרָה]]</big>**

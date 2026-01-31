@@ -6,22 +6,22 @@ If a ram’s horn sounds in a city, do the people not tremble? If calamity comes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.5|<< Amos 3:5]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.7|Amos 3:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<if>?  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| is it blown  | <span class="ashebrew"><big>יִתָּקַ֤ע </big></span><small><small><sup>[[H8628]]</sup></small></small> &#8207;| yi.ta.Ka' <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a trumpet  | <span class="ashebrew"><big>שׁוֹפָר֙ </big></span><small><small><sup>[[H7782]]</sup></small></small> &#8207;| sho.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a city  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִ֔יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] people  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָ֖ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they tremble  | <span class="ashebrew"><big>יֶחֱרָ֑דוּ </big></span><small><small><sup>[[H2729]]</sup></small></small> &#8207;| ye.che.Ra.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or?  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| is it  | <span class="ashebrew"><big>תִּהְיֶ֤ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calamity  | <span class="ashebrew"><big>רָעָה֙ </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a city  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִ֔יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Yahweh  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has done [it]  | <span class="ashebrew"><big>עָשָֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<if>?  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| is it blown  |**<big>&#8207;[[H8628\|יִתָּקַ֤ע]]&#8207; </big>**| yi.ta.Ka'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trumpet  |**<big>&#8207;[[H7782\|שׁוֹפָר֙]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a city  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עִ֔יר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they tremble  |**<big>&#8207;[[H2729\|יֶחֱרָ֑דוּ]]&#8207; </big>**| ye.che.Ra.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or?  |**<big>&#8207;[[H0518J\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| is it  |**<big>&#8207;[[H1961\|תִּהְיֶ֤ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calamity  |**<big>&#8207;[[H7451C\|רָעָה֙]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a city  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עִ֔יר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has done [it]  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.5|<< Amos 3:5]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.7|Amos 3:7 >>]]</td></tr></table>
 
 

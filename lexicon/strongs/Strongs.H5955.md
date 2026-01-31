@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹלֵלָה‎</span></big> **ʻôlêlâh** <small>*(o-lay-law')*</small> ==**gleaning**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎עָלַל‎</span><sup><small>[[H5953]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹלֵלָה‎</span></big>** **ʻôlêlâh** <small>*(o-lay-law')*</small> ==**gleaning**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H5953|‎עָלַל‎]]</big>**</small>
 
 $\quad$ (gleaning) (of the) grapes, grapegleanings.
 - only in plural ***gleanings***
@@ -7,4 +7,4 @@ $\quad$ (gleaning) (of the) grapes, grapegleanings.
 
 **1)** gleaning
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καλάμη</span><sup><small>[[G2562]]</small></sup> · <span class="asgreek">κατάλειμμα</span><sup><small>[[G2640]]</small></sup>
+<small>See Greek: </small>**<big>[[G2562|καλάμη]]</big>** · **<big>[[G2640|κατάλειμμα]]</big>**

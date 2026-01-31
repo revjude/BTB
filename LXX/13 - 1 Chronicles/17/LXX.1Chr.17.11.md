@@ -7,34 +7,34 @@ And it shall come to pass, when thy days be expired that thou must go [to be] wi
 And when your days are fulfilled and you go to be with your fathers, I will raise up your descendant after you, one of your own sons, and I will establish his kingdom.<small><sub>**MT:**</sub></small>
 [[1Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.10|<< 1 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.12|1 Chronicles 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be filled | <big><span class="asgreek">πληρωθώσιν</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will raise up | <big><span class="asgreek">αναστήσω</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your belly, | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will prepare | <big><span class="asgreek">ετοιμάσω</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom. | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be filled | **<big>[[G4137\|πληρωθώσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I will raise up | **<big>[[G0450\|αναστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your belly, | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will prepare | **<big>[[G2090\|ετοιμάσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his kingdom. | **<big>[[G0932\|βασιλείαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.10|<< 1 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.12|1 Chronicles 17:12 >>]]</td></tr></table>
 
 

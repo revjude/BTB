@@ -7,31 +7,31 @@ For he rent Israel from the house of David; and they made Jeroboam the son of Ne
 When the LORD had torn Israel away from the house of David, they made Jeroboam son of Nebat king, and Jeroboam led Israel away from following the LORD and caused them to commit a great sin.<small><sub>**MT:**</sub></small>
 [[2Kgs.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| Israel was torn | <big><span class="asgreek">ερράγη</span></big> <sup><small><small>[[G4486]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David; | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave reign to | <big><span class="asgreek">εβασίλευσαν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat. | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeroboam banished | <big><span class="asgreek">εξέωσεν</span></big> <sup><small><small>[[G1856]]</small></small></sup> <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from following | <big><span class="asgreek">εξόπισθε</span></big> <sup><small><small>[[G7348]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led them into sin -- | <big><span class="asgreek">εξήμαρτεν</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| Except that | **<big>[[G3754\|ότι]]</big>** **<big>[[G4133\|πλην]]</big>** |
+| Israel was torn | **<big>[[G4486\|ερράγη]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of David; | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gave reign to | **<big>[[G0936\|εβασίλευσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Nebat. | **<big>[[H5028\|Ναβάτ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeroboam banished | **<big>[[G1856\|εξέωσεν]]</big>** **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from following | **<big>[[G7348\|εξόπισθε]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led them into sin -- | **<big>[[G7292\|εξήμαρτεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
 [[2Kgs.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
 

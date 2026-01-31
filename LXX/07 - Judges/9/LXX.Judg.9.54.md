@@ -7,41 +7,41 @@ Then he called hastily unto the young man his armourbearer, and said unto him, D
 He quickly called his armor-bearer, saying, “Draw your sword and kill me, lest they say of me, ‘A woman killed him.’” So Abimelech’s armor-bearer ran his sword through him, and he died.<small><sub>**MT:**</sub></small>
 [[Judg.9.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.53|<< Judges 9:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.55|Judges 9:55 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he yelled out | <big><span class="asgreek">εβόησε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| quickly | <big><span class="asgreek">τάχος</span></big> <sup><small><small>[[G5034]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίρον</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his weapons. | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Unsheathe | <big><span class="asgreek">σπάσαι</span></big> <sup><small><small>[[G4685]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my broadsword | <big><span class="asgreek">ρομφαιαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| kill | <big><span class="asgreek">θανάτωσόν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| they should say | <big><span class="asgreek">είπωσι</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| A woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| killed | <big><span class="asgreek">απέκτεινεν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stabbed | <big><span class="asgreek">εξεκέντησεν</span></big> <sup><small><small>[[G1574]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he yelled out | **<big>[[G0994\|εβόησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| quickly | **<big>[[G5034\|τάχος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| servant | **<big>[[G3808\|παιδάριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| lifting | **<big>[[G0142\|αίρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his weapons. | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Unsheathe | **<big>[[G4685\|σπάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my broadsword | **<big>[[G4501\|ρομφαιαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| kill | **<big>[[G2289\|θανάτωσόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| they should say | **<big>[[G2036\|είπωσι]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| A woman | **<big>[[G1135\|γυνή]]</big>** |
+| killed | **<big>[[G0615\|απέκτεινεν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stabbed | **<big>[[G1574\|εξεκέντησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his servant | **<big>[[G3808\|παιδάριον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
 [[Judg.9.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.53|<< Judges 9:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.55|Judges 9:55 >>]]</td></tr></table>
 
 

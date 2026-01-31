@@ -6,17 +6,17 @@ He executes justice for the oppressed and gives food to the hungry. The LORD set
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.6|<< Psalms 146:6]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.8|Psalms 146:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [who] does  | <span class="ashebrew"><big>עֹשֶׂ֤ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֨ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the oppressed  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲשׁוּקִ֗ים </big></span><small><small><sup>[[H6231]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'a.shu.Kim <small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] gives  | <span class="ashebrew"><big>נֹתֵ֣ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>לֶ֭חֶם </big></span><small><small><sup>[[H3899G]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the hungry [people]  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רְעֵבִ֑ים </big></span><small><small><sup>[[H7457]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> re.'e.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] setting free  | <span class="ashebrew"><big>מַתִּ֥יר </big></span><small><small><sup>[[H5425B]]</sup></small></small> &#8207;| ma.Tir <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prisoners  | <span class="ashebrew"><big>אֲסוּרִֽים </big></span><small><small><sup>[[H0631]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.su.Rim <small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] does  |**<big>&#8207;[[H6213A\|עֹשֶׂ֤ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֨ט]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the oppressed  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H6231\|עֲשׁוּקִ֗ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.shu.Kim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] gives  |**<big>&#8207;[[H5414G\|נֹתֵ֣ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H3899G\|לֶ֭חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the hungry [people]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7457\|רְעֵבִ֑ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> re.'e.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] setting free  |**<big>&#8207;[[H5425B\|מַתִּ֥יר]]&#8207; </big>**| ma.Tir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prisoners  |**<big>&#8207;[[H0631\|אֲסוּרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.su.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.6|<< Psalms 146:6]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.8|Psalms 146:8 >>]]</td></tr></table>
 
 

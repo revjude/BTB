@@ -11,29 +11,29 @@ I will ransom them from the power of Sheol; I will redeem them from Death. Where
 > $\quad$ referenced by: [[1Cor.15.55|1Cor 15:55]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| I shall rescue | <big><span class="asgreek">ρύσομαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| I will ransom | <big><span class="asgreek">λυτρώσομαι</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Where \[is\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your punishment, | <big><span class="asgreek">δίκη</span></big> <sup><small><small>[[G1349]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O death? | <big><span class="asgreek">θάνατε</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| Where \[is\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sting, | <big><span class="asgreek">κέντρον</span></big> <sup><small><small>[[G2759]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Hades? | <big><span class="asgreek">άδη</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| Consolation | <big><span class="asgreek">παράκλησις</span></big> <sup><small><small>[[G3874]]</small></small></sup> |
-| is hidden | <big><span class="asgreek">κέκρυπται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| my eyes. | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of Hades | **<big>[[G0086\|άδου]]</big>** |
+| I shall rescue | **<big>[[G4506\|ρύσομαι]]</big>** |
+| them; | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| death | **<big>[[G2288\|θανάτου]]</big>** |
+| I will ransom | **<big>[[G3084\|λυτρώσομαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Where \[is\] | **<big>[[G4226\|που]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your punishment, | **<big>[[G1349\|δίκη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O death? | **<big>[[G2288\|θάνατε]]</big>** |
+| Where \[is\] | **<big>[[G4226\|που]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your sting, | **<big>[[G2759\|κέντρον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Hades? | **<big>[[G0086\|άδη]]</big>** |
+| Consolation | **<big>[[G3874\|παράκλησις]]</big>** |
+| is hidden | **<big>[[G2928\|κέκρυπται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| my eyes. | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Hos.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.13|<< Hosea 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.15|Hosea 13:15 >>]]</td></tr></table>
 
 

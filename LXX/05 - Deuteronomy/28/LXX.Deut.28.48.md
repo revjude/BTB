@@ -7,39 +7,39 @@ Therefore shalt thou serve thine enemies which the LORD shall send against thee,
 you will serve your enemies the LORD will send against you in famine, thirst, nakedness, and destitution. He will place an iron yoke on your neck until He has destroyed you.<small><sub>**MT:**</sub></small>
 [[Deut.28.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall serve | <big><span class="asgreek">λατρεύσεις</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall send as a successor | <big><span class="asgreek">επαποστελεί</span></big> <sup><small><small>[[G7369]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hunger, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| thirst, | <big><span class="asgreek">δίψει</span></big> <sup><small><small>[[G1373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| nakedness, | <big><span class="asgreek">γυμνότητι</span></big> <sup><small><small>[[G1132]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| want | <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G7111]]</small></small></sup> |
-| of all \[things\]. | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall put | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| a collar | <big><span class="asgreek">κλοιόν</span></big> <sup><small><small>[[G8027]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρούν</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your neck, | <big><span class="asgreek">τράχηλόν</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should utterly destroy | <big><span class="asgreek">εξολοθρεύση</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall serve | **<big>[[G3000\|λατρεύσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall send as a successor | **<big>[[G7369\|επαποστελεί]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| hunger, | **<big>[[G3042\|λιμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| thirst, | **<big>[[G1373\|δίψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| nakedness, | **<big>[[G1132\|γυμνότητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| want | **<big>[[G7111\|εκλείψει]]</big>** |
+| of all \[things\]. | **<big>[[G3956\|πάντων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall put | **<big>[[G2007\|επιθήσει]]</big>** |
+| a collar | **<big>[[G8027\|κλοιόν]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρούν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your neck, | **<big>[[G5137\|τράχηλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| he should utterly destroy | **<big>[[G1842\|εξολοθρεύση]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Deut.28.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
 

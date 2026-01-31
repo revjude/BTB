@@ -7,27 +7,27 @@ And shall put thereon the covering of badgers’ skins, and shall spread over [i
 They are to place over this a covering of fine leather, spread a solid blue cloth over it, and insert its poles.<small><sub>**MT:**</sub></small>
 [[Num.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.7|Numbers 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall place | <big><span class="asgreek">επιθήσουσιν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| overcovering | <big><span class="asgreek">κατακάλυμμα</span></big> <sup><small><small>[[G7845]]</small></small></sup> |
-| a skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| of blue. | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">επιβαλούσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| entirely | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| of blue | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
-| from above. | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall insert | <big><span class="asgreek">διεμβαλούσι</span></big> <sup><small><small>[[G6917]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles. | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall place | **<big>[[G2007\|επιθήσουσιν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| overcovering | **<big>[[G7845\|κατακάλυμμα]]</big>** |
+| a skin | **<big>[[G1192\|δέρμα]]</big>** |
+| of blue. | **<big>[[G5191\|υακίνθινον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall put | **<big>[[G1911\|επιβαλούσιν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| entirely | **<big>[[G3650\|όλον]]</big>** |
+| of blue | **<big>[[G5191\|υακίνθινον]]</big>** |
+| from above. | **<big>[[G0509\|άνωθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall insert | **<big>[[G6917\|διεμβαλούσι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bearing poles. | **<big>[[G6320\|αναφορείς]]</big>** |
 [[Num.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.7|Numbers 4:7 >>]]</td></tr></table>
 
 

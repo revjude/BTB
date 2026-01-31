@@ -7,26 +7,26 @@ But thou shalt go unto my country, and to my kindred, and take a wife unto my so
 but will go to my country and my kindred to take a wife for my son Isaac.”<small><sub>**MT:**</sub></small>
 [[Gen.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.3|<< Genesis 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.5|Genesis 24:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I was | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| shall you go, | <big><span class="asgreek">πορεύση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my tribe. | <big><span class="asgreek">φυλήν</span></big> <sup><small><small>[[G5443]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for\] my son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| from there. | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| But only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| I was | **<big>[[G1096\|εγενόμην]]</big>** |
+| shall you go, | **<big>[[G4198\|πορεύση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my tribe. | **<big>[[G5443\|φυλήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[for\] my son | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| from there. | **<big>[[G1564\|εκείθεν]]</big>** |
 [[Gen.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.3|<< Genesis 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.5|Genesis 24:5 >>]]</td></tr></table>
 
 

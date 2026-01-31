@@ -6,16 +6,16 @@ For he has oppressed and forsaken the poor; he has seized houses he did not buil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.18|<< Job 20:18]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.20|Job 20:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has crushed  | <span class="ashebrew"><big>רִ֭צַּץ </big></span><small><small><sup>[[H7533]]</sup></small></small> &#8207;| Ri.tzatz <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has neglected  | <span class="ashebrew"><big>עָזַ֣ב </big></span><small><small><sup>[[H5800H]]</sup></small></small> &#8207;| 'a.Zav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor [people]  | <span class="ashebrew"><big>דַּלִּ֑ים </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| da.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a house  | <span class="ashebrew"><big>בַּ֥יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has seized  | <span class="ashebrew"><big>גָּ֝זַ֗ל </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| ga.Zal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had built it  | <span class="ashebrew"><big>יִבֶנֵֽ </big></span><small><small><sup>[[H1129]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.ve.Ne. <small><sup>[[HVqi3ms]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has crushed  |**<big>&#8207;[[H7533\|רִ֭צַּץ]]&#8207; </big>**| Ri.tzatz<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has neglected  |**<big>&#8207;[[H5800H\|עָזַ֣ב]]&#8207; </big>**| 'a.Zav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor [people]  |**<big>&#8207;[[H1800\|דַּלִּ֑ים]]&#8207; </big>**| da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a house  |**<big>&#8207;[[H1004B\|בַּ֥יִת]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has seized  |**<big>&#8207;[[H1497\|גָּ֝זַ֗ל]]&#8207; </big>**| ga.Zal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had built it  |**<big>&#8207;[[H1129\|יִבֶנֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.ve.Ne.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.18|<< Job 20:18]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.20|Job 20:20 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as
 But you must not eat the blood; pour it on the ground like water.<small><sub>**MT:**</sub></small>
 [[Deut.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.22|<< Deuteronomy 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.1|Deuteronomy 16:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat; | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you shall pour | <big><span class="asgreek">εκχεείς</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| Except | **<big>[[G4133\|πλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat; | **<big>[[G2068\|φαγή]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| you shall pour | **<big>[[G1632\|εκχεείς]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Deut.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.22|<< Deuteronomy 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.1|Deuteronomy 16:1 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Let her not be as one dead, of whom the flesh is half consumed when he cometh ou
 Please do not let her be like a stillborn infant whose flesh is half consumed when he comes out of his mother’s womb.”<small><sub>**MT:**</sub></small>
 [[Num.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.11|<< Numbers 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.13|Numbers 12:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| let her become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| equal | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to death, | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a miscarriage | <big><span class="asgreek">έκτρωμα</span></big> <sup><small><small>[[G1626]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a womb | <big><span class="asgreek">μήτρας</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
-| of his mother, | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it eats up | <big><span class="asgreek">κατεσθίει</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her flesh. | <big><span class="asgreek">σαρκών</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| let her become | **<big>[[G1096\|γένηται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| equal | **<big>[[G2470\|ίσον]]</big>** |
+| to death, | **<big>[[G2288\|θανάτω]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a miscarriage | **<big>[[G1626\|έκτρωμα]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| a womb | **<big>[[G3388\|μήτρας]]</big>** |
+| of his mother, | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it eats up | **<big>[[G2719\|κατεσθίει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of her flesh. | **<big>[[G4561\|σαρκών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Num.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.11|<< Numbers 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.13|Numbers 12:13 >>]]</td></tr></table>
 
 

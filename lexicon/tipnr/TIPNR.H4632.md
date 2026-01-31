@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Mearah</span>, a place near Sidon, mentioned in the description of the land yet to be conquered by the Israelites \([[Josh.13.4|Joshua 13:4]]\).
 - A location only mentioned at [[Josh.13.4|Jos.13.4]]; 
-- only referred to as Mearah<[[H4632]]> \(<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Mearah **<big>[[H4632|מְעָרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.633333,35.433333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mearah is mentioned in [[Josh.13.4|Joshua 13:4]] as part of the description of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mearah (NIV= Arah) | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4632) <small>*Hebrew*</small> | 1x | [Jos.13.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mearah\*\|reference=Jos.13.4) |
-All Strong's for **Mearah**: \[[[H4632]]\]
+| Mearah (NIV= Arah) | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4632) | 1x | [Jos.13.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mearah\*\|reference=Jos.13.4) |
+All entries for **Mearah**:  **<big>[[H4632|מְעָרָה]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָרִיב‎</span></big> **Yârîyb** <small>*(yaw-rebe')*</small> ==**Jarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יָרִיב‎</span><sup><small>[[H3401]]</small></sup></small>
+**<big><span class="ashebrew">‎יָרִיב‎</span></big>** **Yârîyb** <small>*(yaw-rebe')*</small> ==**Jarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3401|‎יָרִיב‎]]</big>**</small>
 
 $\quad$ Jarib.
 - § Jarib = *"he contends"*

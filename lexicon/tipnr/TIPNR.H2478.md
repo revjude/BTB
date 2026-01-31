@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Halhul</span> was a town allotted to the tribe of Judah, located in the hill country \([[Josh.15.58|Joshua 15:58]]\).
 - A location only mentioned at [[Josh.15.58|Jos.15.58]]; 
-- only referred to as Halhul<[[H2478]]> \(<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Halhul **<big>[[H2478|חַלְחוּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.579549,35.099103&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Halhul was a town mentioned in the list of cities and towns allotted to the trib
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Halhul | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H2478) <small>*Hebrew*</small> | 1x | [Jos.15.58 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halhul\*\|reference=Jos.15.58) |
-All Strong's for **Halhul**: \[[[H2478]]\]
+| Halhul | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H2478) | 1x | [Jos.15.58 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halhul\*\|reference=Jos.15.58) |
+All entries for **Halhul**:  **<big>[[H2478|חַלְחוּל]]</big>**

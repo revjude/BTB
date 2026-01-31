@@ -6,22 +6,22 @@ Everything that lives and moves will be food for you; just as I gave you the gre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.2|<< Genesis 9:2]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.4|Genesis 9:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| creeping thing  | <span class="ashebrew"><big>רֶ֙מֶשׂ֙ </big></span><small><small><sup>[[H7431]]</sup></small></small> &#8207;| Re.mes <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hu'- <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] alive  | <span class="ashebrew"><big>חַ֔י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| Chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֥ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will become  | <span class="ashebrew"><big>יִהְיֶ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> food  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָכְלָ֑ה </big></span><small><small><sup>[[H0402]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'okh.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] greenery of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יֶ֣רֶק </big></span><small><small><sup>[[H3418]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Ye.rek <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| plant[s]  | <span class="ashebrew"><big>עֵ֔שֶׂב </big></span><small><small><sup>[[H6212]]</sup></small></small> &#8207;| 'E.sev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I give  | <span class="ashebrew"><big>נָתַ֥תִּי </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.Ta.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everything  | <span class="ashebrew"><big>כֹּֽל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| creeping thing  |**<big>&#8207;[[H7431\|רֶ֙מֶשׂ֙]]&#8207; </big>**| Re.mes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] alive  |**<big>&#8207;[[H2416A\|חַ֔י]]&#8207; </big>**| Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will become  |**<big>&#8207;[[H1961\|יִהְיֶ֖ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> food  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0402\|אָכְלָ֑ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'okh.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] greenery of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3418\|יֶ֣רֶק]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Ye.rek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plant[s]  |**<big>&#8207;[[H6212\|עֵ֔שֶׂב]]&#8207; </big>**| 'E.sev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I give  |**<big>&#8207;[[H5414G\|נָתַ֥תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everything  |**<big>&#8207;[[H3605\|כֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.2|<< Genesis 9:2]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.4|Genesis 9:4 >>]]</td></tr></table>
 
 

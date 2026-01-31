@@ -7,19 +7,19 @@ Ye that fear the LORD, trust in the LORD: he [is] their help and their shield.
 You who fear the LORD, trust in the LORD! He is their help and shield.<small><sub>**MT:**</sub></small>
 [[Ps.115.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.10|<< Psalm 115:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.12|Psalm 115:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones fearing | <big><span class="asgreek">φοβούμενοι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| hoped | <big><span class="asgreek">ήλπισαν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| defender | <big><span class="asgreek">υπερασπιστής</span></big> <sup><small><small>[[G9544]]</small></small></sup> |
-| he is their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| ones fearing | **<big>[[G5399\|φοβούμενοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| hoped | **<big>[[G1679\|ήλπισαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριον]]</big>** |
+| helper | **<big>[[G0998\|βοηθός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| defender | **<big>[[G9544\|υπερασπιστής]]</big>** |
+| he is their | **<big>[[G1473\|αυτών]]</big>** **<big>[[G1510\|εστι]]</big>** |
 [[Ps.115.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.10|<< Psalm 115:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.12|Psalm 115:12 >>]]</td></tr></table>
 
 

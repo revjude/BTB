@@ -7,22 +7,22 @@ And as for the people, he removed them to cities from [one] end of the borders o
 and Joseph reduced the people to servitude from one end of Egypt to the other.<small><sub>**MT:**</sub></small>
 [[Gen.47.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.20|<< Genesis 47:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.22|Genesis 47:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| were reduced to slavery | <big><span class="asgreek">κατεδουλώσατο</span></big> <sup><small><small>[[G2615]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] uttermost parts | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of \[the\] boundaries | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uttermost parts, | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| were reduced to slavery | **<big>[[G2615\|κατεδουλώσατο]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| servants | **<big>[[G3816\|παίδας]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] uttermost parts | **<big>[[G6208\|άκρων]]</big>** |
+| of \[the\] boundaries | **<big>[[G3725\|ορίων]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| uttermost parts, | **<big>[[G6208\|άκρων]]</big>** |
 [[Gen.47.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.20|<< Genesis 47:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.22|Genesis 47:22 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָנַע‎</span></big> **tsânaʻ** <small>*(tsaw-nah')*</small> ==**be humble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָנַע‎</span></big>** **tsânaʻ** <small>*(tsaw-nah')*</small> ==**be humble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ humbly, lowly.
@@ -8,4 +8,4 @@ $\quad$ humbly, lowly.
 $\quad$ **1a)** (Qal) to show humility
 **2)** (Hiphil) modest
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἕτοιμος</span><sup><small>[[G2092]]</small></sup> · <span class="asgreek">ταπεινός</span><sup><small>[[G5011]]</small></sup>
+<small>See Greek: </small>**<big>[[G2092|ἕτοιμος]]</big>** · **<big>[[G5011|ταπεινός]]</big>**

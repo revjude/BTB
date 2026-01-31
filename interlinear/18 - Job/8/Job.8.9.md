@@ -6,18 +6,18 @@ For we were born yesterday and know nothing; our days on earth are but a shadow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.10|Job 8:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] yesterday  | <span class="ashebrew"><big>תְמ֣וֹל </big></span><small><small><sup>[[H8543]]</sup></small></small> &#8207;| te.Mol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we  | <span class="ashebrew"><big>אֲ֭נַחְנוּ </big></span><small><small><sup>[[H0587]]</sup></small></small> &#8207;| 'A.nach.nu <small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we know  | <span class="ashebrew"><big>נֵדָ֑ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ne.Da' <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a shadow  | <span class="ashebrew"><big>צֵ֖ל </big></span><small><small><sup>[[H6738]]</sup></small></small> &#8207;| tzel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days our  | <span class="ashebrew"><big>יָמֵ֣י </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| ya.Mei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| earth  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] yesterday  |**<big>&#8207;[[H8543\|תְמ֣וֹל]]&#8207; </big>**| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  |**<big>&#8207;[[H0587\|אֲ֭נַחְנוּ]]&#8207; </big>**| 'A.nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we know  |**<big>&#8207;[[H3045\|נֵדָ֑ע]]&#8207; </big>**| ne.Da'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a shadow  |**<big>&#8207;[[H6738\|צֵ֖ל]]&#8207; </big>**| tzel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days our  |**<big>&#8207;[[H3117G\|יָמֵ֣י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ya.Mei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| earth  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.10|Job 8:10 >>]]</td></tr></table>
 
 

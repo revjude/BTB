@@ -7,34 +7,34 @@ Rebuke the company of spearmen, the multitude of the bulls, with the calves of t
 Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war.<small><sub>**MT:**</sub></small>
 [[Ps.68.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.29|<< Psalm 68:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.31|Psalm 68:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Give reproach | <big><span class="asgreek">επιτίμησον</span></big> <sup><small><small>[[G2008]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρίοις</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reed! | <big><span class="asgreek">καλάμου</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bulls | <big><span class="asgreek">ταύρων</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heifers | <big><span class="asgreek">δαμάλεσι</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples; | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to lock up | <big><span class="asgreek">εγκλεισθήναι</span></big> <sup><small><small>[[G7016]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being tried | <big><span class="asgreek">δεδοκιμασμένους</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| \[by\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver. | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| Disperse | <big><span class="asgreek">διασκόρπισον</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \[the\] nations! | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wars | <big><span class="asgreek">πολέμους</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| wanting | <big><span class="asgreek">θέλοντα</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
+| Give reproach | **<big>[[G2008\|επιτίμησον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρίοις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| reed! | **<big>[[G2563\|καλάμου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| gathering | **<big>[[G4864\|συναγωγή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| bulls | **<big>[[G5022\|ταύρων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| heifers | **<big>[[G1151\|δαμάλεσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peoples; | **<big>[[G2992\|λαών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to lock up | **<big>[[G7016\|εγκλεισθήναι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones being tried | **<big>[[G1381\|δεδοκιμασμένους]]</big>** |
+| \[by\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| silver. | **<big>[[G0694\|αργυρίω]]</big>** |
+| Disperse | **<big>[[G1287\|διασκόρπισον]]</big>** |
+| \[the\] nations! | **<big>[[G1484\|έθνη]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| wars | **<big>[[G4171\|πολέμους]]</big>** |
+| wanting | **<big>[[G2309\|θέλοντα]]</big>** |
 [[Ps.68.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.29|<< Psalm 68:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.31|Psalm 68:31 >>]]</td></tr></table>
 
 

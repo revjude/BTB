@@ -11,31 +11,31 @@ So Moses took the blood, splattered it on the people, and said, “This is the b
 > $\quad$ referenced by: [[Heb.9.20|Heb 9:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| he scattered it upon | <big><span class="asgreek">κατεσκέδασε</span></big> <sup><small><small>[[G7918]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words. | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood, | **<big>[[G0129\|αίμα]]</big>** |
+| he scattered it upon | **<big>[[G7918\|κατεσκέδασε]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordained | **<big>[[G1303\|διέθετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| these words. | **<big>[[G3056\|λόγων]]</big>** **<big>[[G3778\|τούτων]]</big>** |
 [[Exod.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.7|<< Exodus 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.9|Exodus 24:9 >>]]</td></tr></table>
 
 

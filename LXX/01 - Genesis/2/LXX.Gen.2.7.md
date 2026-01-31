@@ -14,31 +14,31 @@ Then the LORD God formed man from the dust of the ground and breathed the breath
 > $\quad$ referenced by: [[1Cor.15.45|1Cor 15:45]] ☩ [[1Cor.15.47|1Cor 15:47]] ☩ [[1Tim.2.13|1Tim 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God shaped | <big><span class="asgreek">έπλασεν</span></big> <sup><small><small>[[G4111]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he breathed | <big><span class="asgreek">ενεφύσησεν</span></big> <sup><small><small>[[G1720]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| breath | <big><span class="asgreek">πνοήν</span></big> <sup><small><small>[[G4157]]</small></small></sup> |
-| of life, | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώσαν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God shaped | **<big>[[G4111\|έπλασεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man, | **<big>[[G0444\|άνθρωπον]]</big>** |
+| dust | **<big>[[G5522\|χουν]]</big>** |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he breathed | **<big>[[G1720\|ενεφύσησεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| breath | **<big>[[G4157\|πνοήν]]</big>** |
+| of life, | **<big>[[G2222\|ζωής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| a | **<big>[[G1519\|εις]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| living | **<big>[[G2198\|ζώσαν]]</big>** |
 [[Gen.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.6|<< Genesis 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.8|Genesis 2:8 >>]]</td></tr></table>
 
 

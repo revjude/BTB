@@ -7,22 +7,22 @@ Neither shalt thou take a wife to her sister, to vex [her], to uncover her naked
 You must not take your wife’s sister as a rival wife and have sexual relations with her while your wife is still alive.<small><sub>**MT:**</sub></small>
 [[Lev.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in addition | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| to her sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| as a rival, | <big><span class="asgreek">αντίζηλον</span></big> <sup><small><small>[[G6363]]</small></small></sup> |
-| to uncover | <big><span class="asgreek">αποκαλύψαι</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead of | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώσης</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| while she \[is\] | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| in addition | **<big>[[G1909\|επ΄]]</big>** |
+| to her sister | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| as a rival, | **<big>[[G6363\|αντίζηλον]]</big>** |
+| to uncover | **<big>[[G0601\|αποκαλύψαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her indecency | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| instead of | **<big>[[G1909\|επ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτή]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| living | **<big>[[G2198\|ζώσης]]</big>** |
+| while she \[is\] | **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלִילִי‎</span></big> **pᵉlîylîy** <small>*(pel-ee-lee')*</small> ==**judge**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּלִיל‎</span><sup><small>[[H6414]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּלִילִי‎</span></big>** **pᵉlîylîy** <small>*(pel-ee-lee')*</small> ==**judge**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6414|‎פָּלִיל‎]]</big>**</small>
 
 $\quad$ judge.
 - ***judicial***

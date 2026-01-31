@@ -7,38 +7,38 @@ And the coast descended unto the river Kanah, southward of the river: these citi
 From there the border continued southward to the Brook of Kanah. There were cities belonging to Ephraim among the cities of Manasseh, but the border of Manasseh was on the north side of the brook and ended at the Sea.<small><sub>**MT:**</sub></small>
 [[Josh.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.8|<< Joshua 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.10|Joshua 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will go down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| to the | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| south | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Jariel -- | <big><span class="asgreek">Ιαρϊρηλ</span></big> <sup><small><small>[[H7071]]</small></small></sup> |
-| \[the\] terebinth | <big><span class="asgreek">τερέβινθος</span></big> <sup><small><small>[[G9421]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[of the\] city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| towards | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| \[were\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream, | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sea. | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will go down | **<big>[[G2597\|καταβήσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| to the | **<big>[[G1909\|επί]]</big>** |
+| south | **<big>[[G3047\|λίβα]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| of Jariel -- | **<big>[[H7071\|Ιαρϊρηλ]]</big>** |
+| \[the\] terebinth | **<big>[[G9421\|τερέβινθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[of the\] city | **<big>[[G4172\|πόλεως]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] borders | **<big>[[G3725\|όρια]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| towards | **<big>[[G1909\|επί]]</big>** |
+| north | **<big>[[G1005\|βορράν]]</big>** |
+| \[were\] to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rushing stream, | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its outer reaches | **<big>[[G1327\|διέξοδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] sea. | **<big>[[G2281\|θάλασσα]]</big>** |
 [[Josh.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.8|<< Joshua 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.10|Joshua 17:10 >>]]</td></tr></table>
 
 

@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עָרִיץ‎</span></big> **ʻârîyts** <small>*(aw-reets')*</small> ==**ruthless**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎עָרַץ‎</span><sup><small>[[H6206]]</small></sup></small>
+**<big><span class="ashebrew">‎עָרִיץ‎</span></big>** **ʻârîyts** <small>*(aw-reets')*</small> ==**ruthless**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6206|‎עָרַץ‎]]</big>**</small>
 
 $\quad$ mighty, oppressor, in great power, strong, terrible, violent.
 - ***fearful***, i.e. ***powerful*** or ***tyrannical***
 
 **1)** awe-inspiring, terror-striking, awesome, terrifying, ruthless, mighty
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἄνομος</span><sup><small>[[G0459]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup> · <span class="asgreek">καταδυναστεύω</span><sup><small>[[G2616]]</small></sup> · <span class="asgreek">κραταιός</span><sup><small>[[G2900]]</small></sup> · <span class="asgreek">λοιμός</span><sup><small>[[G3061]]</small></sup> · <span class="asgreek">ὑπερήφανος</span><sup><small>[[G5244]]</small></sup> · <span class="asgreek">ὑπερυψόω</span><sup><small>[[G5251]]</small></sup> · <span class="asgreek">φόβος</span><sup><small>[[G5401]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0459|ἄνομος]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G2480|ἰσχύω]]</big>** · **<big>[[G2616|καταδυναστεύω]]</big>** · **<big>[[G2900|κραταιός]]</big>** · **<big>[[G3061|λοιμός]]</big>** · **<big>[[G5244|ὑπερήφανος]]</big>** · **<big>[[G5251|ὑπερυψόω]]</big>** · **<big>[[G5401|φόβος]]</big>**

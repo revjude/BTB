@@ -10,23 +10,23 @@ because [the] blood of saints and of prophets they have poured out, and blood to
 > $\quad$ possibly alluding to: [[LXX.Exod.7.21|Exod 7:21]] ☩ [[LXX.Ezek.16.38|Ezek 16:38]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| because |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754H]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] blood |<big><span class="asgreek">αἷμα</span></big> <small><small><sup>[[G0129G]]</sup></small></small> |haima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of saints |<big><span class="asgreek">ἁγίων</span></big> <small><small><sup>[[G0040H]]</sup></small></small> |hagiōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of prophets |<big><span class="asgreek">προφητῶν</span></big> <small><small><sup>[[G4396]]</sup></small></small> |prophētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they have poured out, |<big><span class="asgreek">ἐξέχεαν,</span></big> <small><small><sup>[[G1632]]</sup></small></small> |exechean <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| blood |<big><span class="asgreek">αἷμα</span></big> <small><small><sup>[[G0129G]]</sup></small></small> |haima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You have given [^1] |<big><span class="asgreek">δέδωκας</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dedōkas <small><sup>[[V-RAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to drink; |<big><span class="asgreek">πιεῖν·</span></big> <small><small><sup>[[G4095]]</sup></small></small> [^2] |piein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| worthy |<big><span class="asgreek">ἄξιοί</span></big> <small><small><sup>[[G0514]]</sup></small></small> |axioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γάρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
-| they are. |<big><span class="asgreek">εἰσιν.¶</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] blood |**<big>[[G0129G\|αἷμα]]</big>**  |haima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of saints |**<big>[[G0040H\|ἁγίων]]</big>**  |hagiōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of prophets |**<big>[[G4396\|προφητῶν]]</big>**  |prophētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they have poured out, |**<big>[[G1632\|ἐξέχεαν,]]</big>**  |exechean <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| blood |**<big>[[G0129G\|αἷμα]]</big>**  |haima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You have given [^1] |**<big>[[G1325\|δέδωκας]]</big>**  |dedōkas <small><sup>[[V-RAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| to drink; |**<big>[[G4095\|πιεῖν·]]</big>**  [^2] |piein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| worthy |**<big>[[G0514\|ἄξιοί]]</big>**  |axioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
+| they are. |**<big>[[G1510\|εἰσιν.¶]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.5|<< Revelation 16:5]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.7|Revelation 16:7 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: you gave | <span class="asgreek">ἔδωκας</span><small><sup>[[G1325]]</sup></small> | edōkas<small><sup>[[V-AAI-2S]]</sup></small>
-[^2]: ==WH== spelled: <span class='asgreek'>**πεῖν**</span>
+[^1]: ==TR+Byz==: you gave | **<big>[[G1325|ἔδωκας]]</big>** | edōkas<small><sup>[[V-AAI-2S]]</sup></small>
+[^2]: ==WH== spelled: **<big><span class='asgreek'>πεῖν</span></big>**

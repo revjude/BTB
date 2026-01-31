@@ -6,23 +6,23 @@ This is the account of Terah. Terah became the father of Abram, Nahor, and Haran
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.26|<< Genesis 11:26]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.28|Genesis 11:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֙לֶּה֙ </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] accounts of  | <span class="ashebrew"><big>תּוֹלְדֹ֣ת </big></span><small><small><sup>[[H8435]]</sup></small></small> &#8207;| tol.Dot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Terah  | <span class="ashebrew"><big>תֶּ֔רַח </big></span><small><small><sup>[[H8646G]]</sup></small></small> &#8207;| Te.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Terah  | <span class="ashebrew"><big>תֶּ֚רַח </big></span><small><small><sup>[[H8646G]]</sup></small></small> &#8207;| Te.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֣יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abram  | <span class="ashebrew"><big>אַבְרָ֔ם </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nahor  | <span class="ashebrew"><big>נָח֖וֹר </big></span><small><small><sup>[[H5152H]]</sup></small></small> &#8207;| na.Chor <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Haran  | <span class="ashebrew"><big>הָרָ֑ן </big></span><small><small><sup>[[H2039G]]</sup></small></small> &#8207;| ha.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Haran  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָרָ֖ן </big></span><small><small><sup>[[H2039G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֥יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lot  | <span class="ashebrew"><big>לֽוֹט </big></span><small><small><sup>[[H3876]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lot <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] accounts of  |**<big>&#8207;[[H8435\|תּוֹלְדֹ֣ת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Terah  |**<big>&#8207;[[H8646G\|תֶּ֔רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Terah  |**<big>&#8207;[[H8646G\|תֶּ֚רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abram  |**<big>&#8207;[[H0087\|אַבְרָ֔ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nahor  |**<big>&#8207;[[H5152H\|נָח֖וֹר]]&#8207; </big>**| na.Chor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haran  |**<big>&#8207;[[H2039G\|הָרָ֑ן]]&#8207; </big>**| ha.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Haran  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2039G\|הָרָ֖ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lot  |**<big>&#8207;[[H3876\|לֽוֹט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.26|<< Genesis 11:26]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.28|Genesis 11:28 >>]]</td></tr></table>
 
 

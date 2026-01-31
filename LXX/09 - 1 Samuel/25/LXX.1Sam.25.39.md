@@ -7,51 +7,51 @@ And when David heard that Nabal was dead, he said, Blessed [be] the LORD, that h
 On hearing that Nabal was dead, David said, “Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head.” Then David sent word to Abigail, asking her to become his wife.<small><sub>**MT:**</sub></small>
 [[1Sam.25.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.38|<< 1 Samuel 25:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.40|1 Samuel 25:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Nabal died, | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Blessed be | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| judged | <big><span class="asgreek">έκρινε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my being scorned | <big><span class="asgreek">ονειδισμού</span></big> <sup><small><small>[[G3680]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Nabal, | <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| protected | <big><span class="asgreek">περιεποιήσατο</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of evils. | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| of Nabal | <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> returned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his \[own\] head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Abigail, | <big><span class="asgreek">Αβιγαϊλ</span></big> <sup><small><small>[[H0026]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David heard | **<big>[[G0191\|ήκουσε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Nabal died, | **<big>[[G0599\|απέθανε]]</big>** **<big>[[H5037\|Ναβάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Blessed be | **<big>[[G2128\|ευλογητός]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| judged | **<big>[[G2919\|έκρινε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| case | **<big>[[G2920\|κρίσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my being scorned | **<big>[[G3680\|ονειδισμού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of Nabal, | **<big>[[H5037\|Ναβάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his servant | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| protected | **<big>[[G4046\|περιεποιήσατο]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of evils. | **<big>[[G2556\|κακών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| evil | **<big>[[G2549\|κακίαν]]</big>** |
+| of Nabal | **<big>[[H5037\|Ναβάλ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> returned | **<big>[[G0654\|απέστρεψε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his \[own\] head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Abigail, | **<big>[[H0026\|Αβιγαϊλ]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Sam.25.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.38|<< 1 Samuel 25:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.40|1 Samuel 25:40 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Etam</span>, the cliff where Samson hid after defeating the Philistines, located in Judah.
 - A location first mentioned at [[Judg.15.8|Jdg.15.8]]; 
-- only referred to as Etam<[[H5862G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Etam **<big>[[H5862|עֵיטָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.736294,35.054850&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of the rock of Etam is uncertain, but it was likely situated 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Etam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5862G) <small>*Hebrew*</small> | 2x | [[Jdg.15.8] & [Jdg.15.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etam\*\|reference=Jdg.15.8;Jdg.15.11) |
-All Strong's for **Etam**: \[[[H5862G]]\]
+| Etam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5862G) | 2x | [[Jdg.15.8] & [Jdg.15.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etam\*\|reference=Jdg.15.8;Jdg.15.11) |
+All entries for **Etam**:  **<big>[[H5862|עֵיטָם]]</big>**

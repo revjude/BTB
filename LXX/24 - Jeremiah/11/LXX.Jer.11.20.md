@@ -7,30 +7,30 @@ But, O LORD of hosts, that judgest righteously, that triest the reins and the he
 O LORD of Hosts, who judges righteously, who examines the heart and mind, let me see Your vengeance upon them, for to You I have committed my cause.<small><sub>**MT:**</sub></small>
 [[Jer.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.19|<< Jeremiah 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.21|Jeremiah 11:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| just \[things\], | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| trying | <big><span class="asgreek">δοκιμάζων</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| \[the\] kidneys | <big><span class="asgreek">νεφρούς</span></big> <sup><small><small>[[G3510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] hearts, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| may I behold | <big><span class="asgreek">ίδοιμι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[exacted\] by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] punishment | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I revealed | <big><span class="asgreek">απεκάλυψα</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my right action. | <big><span class="asgreek">δικαίωμά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| judging | **<big>[[G2919\|κρίνων]]</big>** |
+| just \[things\], | **<big>[[G1342\|δίκαια]]</big>** |
+| trying | **<big>[[G1381\|δοκιμάζων]]</big>** |
+| \[the\] kidneys | **<big>[[G3510\|νεφρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] hearts, | **<big>[[G2588\|καρδίας]]</big>** |
+| may I behold | **<big>[[G1492\|ίδοιμι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| \[exacted\] by | **<big>[[G3844\|παρά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \[the\] punishment | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| I revealed | **<big>[[G0601\|απεκάλυψα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my right action. | **<big>[[G1345\|δικαίωμά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.19|<< Jeremiah 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.21|Jeremiah 11:21 >>]]</td></tr></table>
 
 

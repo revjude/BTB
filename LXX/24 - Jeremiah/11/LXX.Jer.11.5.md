@@ -7,33 +7,33 @@ That I may perform the oath which I have sworn unto your fathers, to give them a
 This was in order to establish the oath I swore to your forefathers, to give them a land flowing with milk and honey, as it is to this day.” “Amen, LORD,” I answered.<small><sub>**MT:**</sub></small>
 [[Jer.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| I should establish | <big><span class="asgreek">στήσω</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my oath | <big><span class="asgreek">όρκον</span></big> <sup><small><small>[[G3727]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I swore by an oath | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers, | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| flowing | <big><span class="asgreek">ρέουσαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey, | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I answered | <big><span class="asgreek">απεκρίθην</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| May it be, | <big><span class="asgreek">γένοιτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| So that | **<big>[[G3704\|όπως]]</big>** |
+| I should establish | **<big>[[G2476\|στήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my oath | **<big>[[G3727\|όρκον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I swore by an oath | **<big>[[G3660\|ώμοσα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your fathers, | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| flowing | **<big>[[G4482\|ρέουσαν]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey, | **<big>[[G3192\|μέλι]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I answered | **<big>[[G0611\|απεκρίθην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπα]]</big>** |
+| May it be, | **<big>[[G1096\|γένοιτο]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Jer.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
 

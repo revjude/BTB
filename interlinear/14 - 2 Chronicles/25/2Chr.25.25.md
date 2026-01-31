@@ -6,24 +6,24 @@ Amaziah son of Joash king of Judah lived for fifteen years after the death of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he lived  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְחִ֨י </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Chi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amaziah  | <span class="ashebrew"><big>אֲמַצְיָ֤הוּ </big></span><small><small><sup>[[H0558G]]</sup></small></small> &#8207;| 'a.matz.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joash  | <span class="ashebrew"><big>יוֹאָשׁ֙ </big></span><small><small><sup>[[H3101I]]</sup></small></small> &#8207;| yo.'Ash <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֣י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] death of  | <span class="ashebrew"><big>מ֔וֹת </big></span><small><small><sup>[[H4194]]</sup></small></small> &#8207;| Mot <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joash  | <span class="ashebrew"><big>יוֹאָ֥שׁ </big></span><small><small><sup>[[H3101I]]</sup></small></small> &#8207;| yo.'Ash <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehoahaz  | <span class="ashebrew"><big>יְהוֹאָחָ֖ז </big></span><small><small><sup>[[H3059G]]</sup></small></small> &#8207;| ye.ho.'a.Chaz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fif-  | <span class="ashebrew"><big>חֲמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עֶשְׂרֵ֖ה </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'es.Reh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָֽה </big></span><small><small><sup>[[H8141]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֨י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֤הוּ]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  |**<big>&#8207;[[H3101I\|יוֹאָשׁ֙]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] death of  |**<big>&#8207;[[H4194\|מ֔וֹת]]&#8207; </big>**| Mot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  |**<big>&#8207;[[H3101I\|יוֹאָ֥שׁ]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoahaz  |**<big>&#8207;[[H3059G\|יְהוֹאָחָ֖ז]]&#8207; </big>**| ye.ho.'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fif-  |**<big>&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֖ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
 

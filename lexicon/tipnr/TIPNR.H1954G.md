@@ -4,8 +4,8 @@ King living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hoshea</span> was the last king of Israel, reigning from around 732 to 722 BC, until the Assyrian conquest of Samaria.
 - A king of Northern Israel, living at the time of Divided Monarchy, first mentioned at [[2Kgs.15.30|2Ki.15.30]]; 
-- only referred to as Hoshea<[[H1954G]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ\); 
-- a son of Elah<[[H0425I]]>.
+- only referred to as Hoshea **<big>[[H1954|הוֹשֵׁעַ]]</big>**; 
+- a son of Elah **<big>[[H0425|אֵלָה]]</big>**.
 
 Hoshea was the nineteenth and last king of the northern kingdom of Israel. He came to power after conspiring against and killing his predecessor, King Pekah, in the twentieth year of Jotham, king of Judah \([[2Kgs.15.30|2 Kings 15:30]]\). 
 
@@ -21,7 +21,7 @@ Hoshea's reign and the fall of Samaria are significant events in the history of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hoshea | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ](H1954G) <small>*Hebrew*</small> | 8x | [[2Ki.15.30] ... [2Ki.18.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshea\*\|reference=2Ki.15.30;2Ki.17.1;2Ki.17.3;2Ki.17.4;2Ki.17.6;2Ki.18.1;2Ki.18.9;2Ki.18.10) |
-All Strong's for **Hoshea**: \[[[H1954G]]\]
+| Hoshea | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ](H1954G) | 8x | [[2Ki.15.30] ... [2Ki.18.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshea\*\|reference=2Ki.15.30;2Ki.17.1;2Ki.17.3;2Ki.17.4;2Ki.17.6;2Ki.18.1;2Ki.18.9;2Ki.18.10) |
+All entries for **Hoshea**:  **<big>[[H1954|הוֹשֵׁעַ]]</big>**
 #### Related Profiles:
 - **[Elah](H0425I)** (father)

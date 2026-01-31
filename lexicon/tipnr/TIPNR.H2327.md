@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hobah</span> was a place north of Damascus where Abraham pursued the defeated army of Chedorlaomer after rescuing Lot \([[Gen.14.15|Gen.14.15]]\).
 - A location only mentioned at [[Gen.14.15|Gen.14.15]]; 
-- only referred to as Hobah<[[H2327]]> \(<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hobah **<big>[[H2327|חוֹבָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.500000,36.466667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hobah was a place located north of Damascus, mentioned in [[Gen.14.15|Genesis 14
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hobah | [<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2327) <small>*Hebrew*</small> | 1x | [Gen.14.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hobah\*\|reference=Gen.14.15) |
-All Strong's for **Hobah**: \[[[H2327]]\]
+| Hobah | [<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2327) | 1x | [Gen.14.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hobah\*\|reference=Gen.14.15) |
+All entries for **Hobah**:  **<big>[[H2327|חוֹבָה]]</big>**

@@ -7,28 +7,28 @@ Take, I pray thee, my blessing that is brought to thee; because God hath dealt g
 Please accept my gift that was brought to you, because God has been gracious to me and I have all I need.” So Jacob pressed him until he accepted.<small><sub>**MT:**</sub></small>
 [[Gen.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.10|<< Genesis 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.12|Genesis 33:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my blessing, | <big><span class="asgreek">ευλογίας</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I brought | <big><span class="asgreek">ήνεγκά</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| showed mercy | <big><span class="asgreek">ηλέησέ</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| on me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all \[things\]. | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he forced | <big><span class="asgreek">εβιάσατο</span></big> <sup><small><small>[[G0971]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took. | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of my blessing, | **<big>[[G2129\|ευλογίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| I brought | **<big>[[G5342\|ήνεγκά]]</big>** |
+| to you! | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| showed mercy | **<big>[[G1653\|ηλέησέ]]</big>** |
+| on me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| all \[things\]. | **<big>[[G3956\|πάντα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he forced | **<big>[[G0971\|εβιάσατο]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took. | **<big>[[G2983\|έλαβε]]</big>** |
 [[Gen.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.10|<< Genesis 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.12|Genesis 33:12 >>]]</td></tr></table>
 
 

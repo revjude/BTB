@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִמְרִי‎</span></big> **Zimrîy** <small>*(zim-ree')*</small> ==**Zimri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָמַר‎</span><sup><small>[[H2167]]</small></sup>; musical</small>
+**<big><span class="ashebrew">‎זִמְרִי‎</span></big>** **Zimrîy** <small>*(zim-ree')*</small> ==**Zimri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2167|‎זָמַר‎]]</big>**; musical</small>
 
 $\quad$ Zimri.
 - § Zimri = *"my music"*

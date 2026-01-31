@@ -1,5 +1,4 @@
-<span class="ashebrew">‎גֹּ֫מֶר‎</span> <small>***(go.mer)***</small> ==**Gomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.2|Gen.10.2]]
--  son of: Japheth ([[H3315]])
--  brother of: Magog ([[H4031]]), Madai ([[H4074]]), Javan ([[H3120]]), Tubal ([[H8422]]), Meshech ([[H4902]]) and Tiras ([[H8494]])
--  father of: Ashkenaz ([[H0813]]), Riphath ([[H7384A]]) and Togarmah ([[H8425]])
+-  son of: Japheth (**<big>[[H3315|יֶפֶת]]</big>**)
+-  brother of: Magog (**<big>[[H4031|מָגוֹג]]</big>**), Madai (**<big>[[H4074|מָדַי]]</big>**), Javan (**<big>[[H3120|יָוָן]]</big>**), Tubal (**<big>[[H8422|תּוּבַל]]</big>**), Meshech (**<big>[[H4902|מֶשֶׁךְ]]</big>**) and Tiras (**<big>[[H8494|תִּירָס]]</big>**)
+-  father of: Ashkenaz (**<big>[[H0813|אַשְׁכְּנַז]]</big>**), Riphath (**<big>[[H7384A|רִיפַת]]</big>**) and Togarmah (**<big>[[H8425|תּוֹגַרְמָה]]</big>**)

@@ -7,29 +7,29 @@ And both these kings’ hearts [shall be] to do mischief, and they shall speak l
 And the two kings, with their hearts bent on evil, will speak lies at the same table, but to no avail, for still the end will come at the appointed time.<small><sub>**MT:**</sub></small>
 [[Dan.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.26|<< Daniel 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.28|Daniel 11:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροί</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings -- | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hearts | <big><span class="asgreek">καρδίαι</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wickedness, | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| table | <big><span class="asgreek">τραπέζη</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| they shall speak | <big><span class="asgreek">λαλήσουσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| straighten out, | <big><span class="asgreek">κατευθυνεί</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| \[is\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a time. | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| both | **<big>[[G0297\|αμφότεροί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| kings -- | **<big>[[G0935\|βασιλείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their hearts | **<big>[[G2588\|καρδίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] for | **<big>[[G1519\|εις]]</big>** |
+| wickedness, | **<big>[[G4189\|πονηρίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| table | **<big>[[G5132\|τραπέζη]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| lies | **<big>[[G5571\|ψευδή]]</big>** |
+| they shall speak | **<big>[[G2980\|λαλήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| straighten out, | **<big>[[G2720\|κατευθυνεί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] end | **<big>[[G4009\|πέρας]]</big>** |
+| \[is\] for | **<big>[[G1519\|εις]]</big>** |
+| a time. | **<big>[[G2540\|καιρόν]]</big>** |
 [[Dan.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.26|<< Daniel 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.28|Daniel 11:28 >>]]</td></tr></table>
 
 

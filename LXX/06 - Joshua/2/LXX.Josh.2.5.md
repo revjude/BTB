@@ -7,29 +7,29 @@ And it came to pass [about the time] of shutting of the gate, when it was dark, 
 At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”<small><sub>**MT:**</sub></small>
 [[Josh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| was locked | <big><span class="asgreek">εκλείετο</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darkness, | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| went forth, | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| I do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| they went. | <big><span class="asgreek">πεπόρευνται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| You pursue | <big><span class="asgreek">καταδίωξατε</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall overtake | <big><span class="asgreek">καταλήψεσθε</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| was locked | **<big>[[G2808\|εκλείετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| darkness, | **<big>[[G4655\|σκότει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| went forth, | **<big>[[G1831\|εξήλθον]]</big>** |
+| I do not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1987\|επίσταμαι]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| they went. | **<big>[[G4198\|πεπόρευνται]]</big>** |
+| You pursue | **<big>[[G2614\|καταδίωξατε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them! | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall overtake | **<big>[[G2638\|καταλήψεσθε]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Josh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
 
 

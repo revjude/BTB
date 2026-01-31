@@ -6,17 +6,17 @@ Now suppose that man has a violent son, who sheds blood or does any of these thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.9|<< Ezekiel 18:9]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.11|Ezekiel 18:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he will father  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הוֹלִ֥יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ho.Lid <small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| violent  | <span class="ashebrew"><big>פָּרִ֖יץ </big></span><small><small><sup>[[H6530]]</sup></small></small> &#8207;| pa.Ritz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] sheds  | <span class="ashebrew"><big>שֹׁפֵ֣ךְ </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| sho.Fekh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood  | <span class="ashebrew"><big>דָּ֑ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will do  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָ֣שָׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'A.sah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| alas!  | <span class="ashebrew"><big>אָ֔ח </big></span><small><small><sup>[[H0253]]</sup></small></small> &#8207;| 'Ach <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any one  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אַחַ֖ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of these [things]  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵֽלֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will father  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Lid<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violent  |**<big>&#8207;[[H6530\|פָּרִ֖יץ]]&#8207; </big>**| pa.Ritz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] sheds  |**<big>&#8207;[[H8210H\|שֹׁפֵ֣ךְ]]&#8207; </big>**| sho.Fekh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  |**<big>&#8207;[[H1818\|דָּ֑ם]]&#8207; </big>**| Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָ֣שָׂה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alas!  |**<big>&#8207;[[H0253\|אָ֔ח]]&#8207; </big>**| 'Ach<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any one  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0259\|אַחַ֖ד]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of these [things]  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.9|<< Ezekiel 18:9]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.11|Ezekiel 18:11 >>]]</td></tr></table>
 
 

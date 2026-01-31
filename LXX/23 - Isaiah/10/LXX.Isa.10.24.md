@@ -7,37 +7,37 @@ Therefore thus saith the Lord GOD of hosts, O my people that dwellest in Zion, b
 Therefore this is what the Lord GOD of Hosts says: “O My people who dwell in Zion, do not fear Assyria, who strikes you with a rod and lifts his staff against you as the Egyptians did.<small><sub>**MT:**</sub></small>
 [[Isa.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts, | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear, | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] Assyrians! | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| he shall strike | <big><span class="asgreek">πατάξει</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a calamity | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]][[G1063]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he brings | <big><span class="asgreek">επάγει</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beholding | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts, | **<big>[[G4519\|σαβαώθ]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear, | **<big>[[G5399\|φοβού]]</big>** |
+| my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] Assyrians! | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a rod | **<big>[[G4464\|ράβδω]]</big>** |
+| he shall strike | **<big>[[G3960\|πατάξει]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| a calamity | **<big>[[G4127\|πληγήν]]</big>**<sup><small>[[G1063\| [ • ] ]]</small></sup> |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| he brings | **<big>[[G1863\|επάγει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| beholding | **<big>[[G1492\|ιδείν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Isa.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשְׁחֵת‎</span></big> **mashchêth** <small>*(mash-khayth')*</small> ==**destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>for <span class="ashebrew">‎מַשְׁחִית‎</span><sup><small>[[H4889]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשְׁחֵת‎</span></big>** **mashchêth** <small>*(mash-khayth')*</small> ==**destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>for **<big>[[H4889|‎מַשְׁחִית‎]]</big>**</small>
 
 $\quad$ destroying.
 - ***destruction***

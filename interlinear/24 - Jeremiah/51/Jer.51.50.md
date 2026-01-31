@@ -6,21 +6,21 @@ You who have escaped the sword, depart and do not linger! Remember the LORD from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.49|<< Jeremiah 51:49]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.51|Jeremiah 51:51 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O escapees  | <span class="ashebrew"><big>פְּלֵטִ֣ים </big></span><small><small><sup>[[H6412B]]</sup></small></small> &#8207;| pe.le.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] sword  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חֶ֔רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go  | <span class="ashebrew"><big>הִלְכ֖וּ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| hil.Khu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַֽל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you stand still  | <span class="ashebrew"><big>תַּעֲמֹ֑דוּ </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| ta.'a.Mo.du <small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| remember  | <span class="ashebrew"><big>זִכְר֤וּ </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| zikh.Ru <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a distant [land]  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רָחוֹק֙ </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> ra.chOk <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jerusalem  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ירֽוּשָׁלִַ֖ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it come up  | <span class="ashebrew"><big>תַּעֲלֶ֥ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| ta.'a.Leh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart your  | <span class="ashebrew"><big>לְבַבְ </big></span><small><small><sup>[[H3824]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le.vav. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O escapees  |**<big>&#8207;[[H6412B\|פְּלֵטִ֣ים]]&#8207; </big>**| pe.le.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] sword  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2719\|חֶ֔רֶב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|הִלְכ֖וּ]]&#8207; </big>**| hil.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you stand still  |**<big>&#8207;[[H5975G\|תַּעֲמֹ֑דוּ]]&#8207; </big>**| ta.'a.Mo.du<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| remember  |**<big>&#8207;[[H2142\|זִכְר֤וּ]]&#8207; </big>**| zikh.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distant [land]  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7350\|רָחוֹק֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.chOk<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jerusalem  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3389\|ירֽוּשָׁלִַ֖ם]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it come up  |**<big>&#8207;[[H5927G\|תַּעֲלֶ֥ה]]&#8207; </big>**| ta.'a.Leh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  |**<big>&#8207;[[H3824\|לְבַבְ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.vav.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.49|<< Jeremiah 51:49]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.51|Jeremiah 51:51 >>]]</td></tr></table>
 
 

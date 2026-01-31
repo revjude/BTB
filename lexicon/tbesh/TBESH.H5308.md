@@ -1,3 +1,1 @@
-<span class="asaramaic">‎נְפַל‎</span> <small>***(ne.phal)***</small> ==**to fall**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H5307G]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H5307G|נָפַל]]</big>**</small>

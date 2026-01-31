@@ -7,24 +7,24 @@ The captive exile hasteneth that he may be loosed, and that he should not die in
 The captive will soon be freed; he will not die in the dungeon, and his bread will not be lacking.<small><sub>**MT:**</sub></small>
 [[Isa.51.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.13|<< Isaiah 51:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.15|Isaiah 51:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your being delivered, | <big><span class="asgreek">σώζεσθαί</span></big> <sup><small><small>[[G4982]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stop | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| pass time. | <big><span class="asgreek">χρονιεί</span></big> <sup><small><small>[[G5549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not kill | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">θανατώσει</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| hurt, | <big><span class="asgreek">διαφθοράν</span></big> <sup><small><small>[[G1312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he lack | <big><span class="asgreek">υστερήσει</span></big> <sup><small><small>[[G5302]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bread. | <big><span class="asgreek">άρτος</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For in | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your being delivered, | **<big>[[G4982\|σώζεσθαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| stop | **<big>[[G2476\|στήσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| pass time. | **<big>[[G5549\|χρονιεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall not kill | **<big>[[G3756\|ου]]</big>** **<big>[[G2289\|θανατώσει]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| hurt, | **<big>[[G1312\|διαφθοράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he lack | **<big>[[G5302\|υστερήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his bread. | **<big>[[G0740\|άρτος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.51.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.13|<< Isaiah 51:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.15|Isaiah 51:15 >>]]</td></tr></table>
 
 

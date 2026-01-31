@@ -7,24 +7,24 @@ What do ye imagine against the LORD? he will make an utter end: affliction shall
 Whatever you plot against the LORD, He will bring to an end. Affliction will not rise up a second time.<small><sub>**MT:**</sub></small>
 [[Nah.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.8|<< Nahum 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.10|Nahum 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you devise | <big><span class="asgreek">λογίζεσθε</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a consummation | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| He himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will make | <big><span class="asgreek">ποιήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| He will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| punish | <big><span class="asgreek">εκδικήσει</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| twice | <big><span class="asgreek">δις</span></big> <sup><small><small>[[G1364]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same \[thing\] | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| affliction. | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| What | **<big>[[G5100\|τι]]</big>** |
+| do you devise | **<big>[[G3049\|λογίζεσθε]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριον]]</big>** |
+| a consummation | **<big>[[G4930\|συντέλειαν]]</big>** |
+| He himself | **<big>[[G1473\|αυτός]]</big>** |
+| will make | **<big>[[G4160\|ποιήσεται]]</big>** |
+| He will not | **<big>[[G3756\|ουκ]]</big>** |
+| punish | **<big>[[G1556\|εκδικήσει]]</big>** |
+| twice | **<big>[[G1364\|δις]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same \[thing\] | **<big>[[G1473\|αυτό]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| affliction. | **<big>[[G2347\|θλίψει]]</big>** |
 [[Nah.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.8|<< Nahum 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.10|Nahum 1:10 >>]]</td></tr></table>
 
 

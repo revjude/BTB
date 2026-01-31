@@ -6,18 +6,18 @@ Shema was the father of Raham the father of Jorkeam, and Rekem was the father of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.43|<< 1 Chronicles 2:43]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.45|1 Chronicles 2:45 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Shema  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֶׁ֣מַע </big></span><small><small><sup>[[H8087G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.ma' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֔יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Raham  | <span class="ashebrew"><big>רַ֖חַם </big></span><small><small><sup>[[H7357]]</sup></small></small> &#8207;| Ra.cham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jorkeam  | <span class="ashebrew"><big>יָרְקֳעָ֑ם </big></span><small><small><sup>[[H3421]]</sup></small></small> &#8207;| ya.re.ko.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Rekem  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֶ֖קֶם </big></span><small><small><sup>[[H7552I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Re.kem <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֥יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shammai  | <span class="ashebrew"><big>שַׁמָּֽי </big></span><small><small><sup>[[H8060H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Mai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shema  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8087G\|שֶׁ֣מַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֔יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Raham  |**<big>&#8207;[[H7357\|רַ֖חַם]]&#8207; </big>**| Ra.cham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jorkeam  |**<big>&#8207;[[H3421\|יָרְקֳעָ֑ם]]&#8207; </big>**| ya.re.ko.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rekem  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7552I\|רֶ֖קֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Re.kem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shammai  |**<big>&#8207;[[H8060H\|שַׁמָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Mai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.43|<< 1 Chronicles 2:43]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.45|1 Chronicles 2:45 >>]]</td></tr></table>
 
 

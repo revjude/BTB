@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּרוּמִיָּה‎</span></big> **tᵉrûwmîyâh** <small>*(ter-oo-mee-yaw')*</small> ==**contribution**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>formed as <span class="ashebrew">‎תְּרוּמָה‎</span><sup><small>[[H8641]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּרוּמִיָּה‎</span></big>** **tᵉrûwmîyâh** <small>*(ter-oo-mee-yaw')*</small> ==**contribution**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>formed as **<big>[[H8641|‎תְּרוּמָה‎]]</big>**</small>
 
 $\quad$ oblation.
 - ***a sacrificial offering***

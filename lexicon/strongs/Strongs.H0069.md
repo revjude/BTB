@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֶבֶן‎</span></big> **ʼeben** <small>*(eh'-ben)*</small> ==**stone**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אֶבֶן‎</span><sup><small>[[H0068]]</small></sup></small>
+**<big><span class="asaramaic">‎אֶבֶן‎</span></big>** **ʼeben** <small>*(eh'-ben)*</small> ==**stone**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0068|‎אֶבֶן‎]]</big>**</small>
 
 $\quad$ stone.
 - {***a stone***}

@@ -6,16 +6,16 @@ Woe to the land of whirring wings, along the rivers of Cush,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| alas!  | <span class="ashebrew"><big>ה֥וֹי </big></span><small><small><sup>[[H1945]]</sup></small></small> &#8207;| Ho <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O land of  | <span class="ashebrew"><big>אֶ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whirring of  | <span class="ashebrew"><big>צִלְצַ֣ל </big></span><small><small><sup>[[H6767A]]</sup></small></small> &#8207;| tzil.Tzal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wings  | <span class="ashebrew"><big>כְּנָפָ֑יִם </big></span><small><small><sup>[[H3671]]</sup></small></small> &#8207;| ke.na.Fa.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] from [the] other side  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עֵ֖בֶר </big></span><small><small><sup>[[H5676H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'E.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] rivers of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נַֽהֲרֵי </big></span><small><small><sup>[[H5104H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> na.ha.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cush  | <span class="ashebrew"><big>כֽוּשׁ </big></span><small><small><sup>[[H3568A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Khush <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alas!  |**<big>&#8207;[[H1945\|ה֥וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O land of  |**<big>&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whirring of  |**<big>&#8207;[[H6767A\|צִלְצַ֣ל]]&#8207; </big>**| tzil.Tzal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wings  |**<big>&#8207;[[H3671\|כְּנָפָ֑יִם]]&#8207; </big>**| ke.na.Fa.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] from [the] other side  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5676H\|עֵ֖בֶר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] rivers of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5104H\|נַֽהֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.ha.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cush  |**<big>&#8207;[[H3568A\|כֽוּשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Khush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 
 

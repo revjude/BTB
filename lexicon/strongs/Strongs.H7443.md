@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶנֶן‎</span></big> **renen** <small>*(reh'-nen)*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָנַן‎</span><sup><small>[[H7442]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶנֶן‎</span></big>** **renen** <small>*(reh'-nen)*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7442|‎רָנַן‎]]</big>**</small>
 
 $\quad$ [idiom] goodly.
 - ***an ostrich*** (from its wail)

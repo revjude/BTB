@@ -6,16 +6,16 @@ My eyes shed streams of tears because Your law is not obeyed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.136|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.135|<< Psalms 119:135]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.137|Psalms 119:137 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| streams of  | <span class="ashebrew"><big>פַּלְגֵי </big></span><small><small><sup>[[H6388]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pal.gei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מַ֭יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have gone down  | <span class="ashebrew"><big>יָרְד֣וּ </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.re.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes my  | <span class="ashebrew"><big>עֵינָ֑ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because  | <span class="ashebrew"><big>עַ֝֗ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people keep  | <span class="ashebrew"><big>שָׁמְר֥וּ </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| sha.me.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| law your  | <span class="ashebrew"><big>תוֹרָתֶֽ </big></span><small><small><sup>[[H8451]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.ra.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| streams of  |**<big>&#8207;[[H6388\|פַּלְגֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pal.gei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מַ֭יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have gone down  |**<big>&#8207;[[H3381\|יָרְד֣וּ]]&#8207; </big>**| ya.re.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  |**<big>&#8207;[[H5869A\|עֵינָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H5921A\|עַ֝֗ל]]&#8207; </big>**| 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people keep  |**<big>&#8207;[[H8104G\|שָׁמְר֥וּ]]&#8207; </big>**| sha.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| law your  |**<big>&#8207;[[H8451\|תוֹרָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.135|<< Psalms 119:135]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.137|Psalms 119:137 >>]]</td></tr></table>
 
 

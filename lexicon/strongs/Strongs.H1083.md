@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּלְגַה‎</span></big> **Bilgah** <small>*(bil-gaw')*</small> ==**Bilgah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּלַג‎</span><sup><small>[[H1082]]</small></sup>; desistance</small>
+**<big><span class="ashebrew">‎בִּלְגַה‎</span></big>** **Bilgah** <small>*(bil-gaw')*</small> ==**Bilgah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1082|‎בָּלַג‎]]</big>**; desistance</small>
 
 $\quad$ Bilgah.
 - § Bilgah = *"cheerfulness"*

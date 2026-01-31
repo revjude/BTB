@@ -7,33 +7,33 @@ Be ye therefore very courageous to keep and to do all that is written in the boo
 Be very strong, then, so that you can keep and obey all that is written in the Book of the Law of Moses, not turning aside from it to the right or to the left.<small><sub>**MT:**</sub></small>
 [[Josh.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.5|<< Joshua 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.7|Joshua 23:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Grow strong | <big><span class="asgreek">κατισχύσατε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| exceedingly! | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all things | <big><span class="asgreek">σύμπαντα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίω</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινήτε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] left; | <big><span class="asgreek">ευώνυμα</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
+| Grow strong | **<big>[[G2729\|κατισχύσατε]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| exceedingly! | **<big>[[G4970\|σφόδρα]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| all things | **<big>[[G9270\|σύμπαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| law | **<big>[[G3551\|νόμου]]</big>** |
+| of Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινήτε]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] right | **<big>[[G1188\|δεξιά]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] left; | **<big>[[G2176\|ευώνυμα]]</big>** |
 [[Josh.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.5|<< Joshua 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.7|Joshua 23:7 >>]]</td></tr></table>
 
 

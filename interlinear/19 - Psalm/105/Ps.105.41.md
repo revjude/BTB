@@ -6,15 +6,15 @@ He opened a rock, and water gushed out; it flowed like a river in the desert.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.40|<< Psalms 105:40]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.42|Psalms 105:42 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he opened  | <span class="ashebrew"><big>פָּ֣תַח </big></span><small><small><sup>[[H6605A]]</sup></small></small> &#8207;| Pa.tach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a rock  | <span class="ashebrew"><big>צ֭וּר </big></span><small><small><sup>[[H6697H]]</sup></small></small> &#8207;| tzur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they flowed out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּז֣וּבוּ </big></span><small><small><sup>[[H2100G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Zu.vu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waters  | <span class="ashebrew"><big>מָ֑יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they went  | <span class="ashebrew"><big>הָ֝לְכ֗וּ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| ha.le.Khu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the dry regions  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צִּיּ֥וֹת </big></span><small><small><sup>[[H6723]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> tzi.Yot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a river  | <span class="ashebrew"><big>נָהָֽר </big></span><small><small><sup>[[H5104H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he opened  |**<big>&#8207;[[H6605A\|פָּ֣תַח]]&#8207; </big>**| Pa.tach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a rock  |**<big>&#8207;[[H6697H\|צ֭וּר]]&#8207; </big>**| tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they flowed out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2100G\|יָּז֣וּבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Zu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waters  |**<big>&#8207;[[H4325G\|מָ֑יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they went  |**<big>&#8207;[[H1980I\|הָ֝לְכ֗וּ]]&#8207; </big>**| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the dry regions  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6723\|צִּיּ֥וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tzi.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a river  |**<big>&#8207;[[H5104H\|נָהָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.40|<< Psalms 105:40]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.42|Psalms 105:42 >>]]</td></tr></table>
 
 

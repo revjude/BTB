@@ -7,25 +7,25 @@ The LORD judge between me and thee, and the LORD avenge me of thee: but mine han
 May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you.<small><sub>**MT:**</sub></small>
 [[1Sam.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.11|<< 1 Samuel 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.13|1 Samuel 24:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> judge | <big><span class="asgreek">κρίναι</span></big> <sup><small><small>[[G2919]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| render justice | <big><span class="asgreek">εκδικήσαι</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| of you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> judge | **<big>[[G2919\|κρίναι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| render justice | **<big>[[G1556\|εκδικήσαι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| because | **<big>[[G1537\|εκ]]</big>** |
+| of you. | **<big>[[G1473\|σου]]</big>** |
+| But | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| my hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[1Sam.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.11|<< 1 Samuel 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.13|1 Samuel 24:13 >>]]</td></tr></table>
 
 

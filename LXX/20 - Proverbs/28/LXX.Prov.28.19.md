@@ -7,20 +7,20 @@ He that tilleth his land shall have plenty of bread: but he that followeth after
 The one who works his land will have plenty of food, but whoever chases fantasies will have his fill of poverty.<small><sub>**MT:**</sub></small>
 [[Prov.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.18|<< Proverbs 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.20|Proverbs 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one working | <big><span class="asgreek">εργαζόμενος</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| \[with\] bread loaves; | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| pursuing | <big><span class="asgreek">διώκων</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| ease | <big><span class="asgreek">σχολήν</span></big> <sup><small><small>[[G4981]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| with poverty. | <big><span class="asgreek">πενίας</span></big> <sup><small><small>[[G8693]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one working | **<big>[[G2038\|εργαζόμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| \[with\] bread loaves; | **<big>[[G0740\|άρτων]]</big>** |
+| but the one | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| pursuing | **<big>[[G1377\|διώκων]]</big>** |
+| ease | **<big>[[G4981\|σχολήν]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| with poverty. | **<big>[[G8693\|πενίας]]</big>** |
 [[Prov.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.18|<< Proverbs 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.20|Proverbs 28:20 >>]]</td></tr></table>
 
 

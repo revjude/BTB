@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּשׂוֹר‎</span></big> **Bᵉsôwr** <small>*(bes-ore')*</small> ==**Besor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּשַׂר‎</span><sup><small>[[H1319]]</small></sup>; cheerful</small>
+**<big><span class="ashebrew">‎בְּשׂוֹר‎</span></big>** **Bᵉsôwr** <small>*(bes-ore')*</small> ==**Besor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1319|‎בָּשַׂר‎]]</big>**; cheerful</small>
 
 $\quad$ Besor.
 - § Besor = *"cheerful"*

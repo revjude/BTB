@@ -7,34 +7,34 @@ Until the LORD removed Israel out of his sight, as he had said by all his servan
 Finally, the LORD removed Israel from His presence, as He had declared through all His servants the prophets. So Israel was exiled from their homeland into Assyria, where they are to this day.<small><sub>**MT:**</sub></small>
 [[2Kgs.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.22|<< 2 Kings 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.24|2 Kings 17:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> removed | <big><span class="asgreek">μετέστησε</span></big> <sup><small><small>[[G3179]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| his face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets. | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel was resettled | <big><span class="asgreek">απωκίσθη</span></big> <sup><small><small>[[G6442]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Assyria | <big><span class="asgreek">Ασσυρίους</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> removed | **<big>[[G3179\|μετέστησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| his face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> spoke | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his servants | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| prophets. | **<big>[[G4396\|προφητών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel was resettled | **<big>[[G6442\|απωκίσθη]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| its land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Assyria | **<big>[[H0804\|Ασσυρίους]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[2Kgs.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.22|<< 2 Kings 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.24|2 Kings 17:24 >>]]</td></tr></table>
 
 

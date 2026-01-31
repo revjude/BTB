@@ -6,20 +6,20 @@ This was the field that Abraham had bought from the Hittites. Abraham was buried
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.9|<< Genesis 25:9]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.11|Genesis 25:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶ֛ה </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had acquired  | <span class="ashebrew"><big>קָנָ֥ה </big></span><small><small><sup>[[H7069]]</sup></small></small> &#8207;| ka.Nah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֖ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heth  | <span class="ashebrew"><big>חֵ֑ת </big></span><small><small><sup>[[H2845]]</sup></small></small> &#8207;| Chet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there \<towards>  | <span class="ashebrew"><big>שָׁ֛מָּ </big></span><small><small><sup>[[H8033G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| Sha.ma <small><sup>[[HD]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was buried  | <span class="ashebrew"><big>קֻבַּ֥ר </big></span><small><small><sup>[[H6912]]</sup></small></small> &#8207;| ku.Bar <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֖ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Sarah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׂרָ֥ה </big></span><small><small><sup>[[H8283]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sa.Rah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wife his  | <span class="ashebrew"><big>אִשְׁתּֽ </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ish.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had acquired  |**<big>&#8207;[[H7069\|קָנָ֥ה]]&#8207; </big>**| ka.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֣ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heth  |**<big>&#8207;[[H2845\|חֵ֑ת]]&#8207; </big>**| Chet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֛מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was buried  |**<big>&#8207;[[H6912\|קֻבַּ֥ר]]&#8207; </big>**| ku.Bar<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Sarah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8283\|שָׂרָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  |**<big>&#8207;[[H0802H\|אִשְׁתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.9|<< Genesis 25:9]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.11|Genesis 25:11 >>]]</td></tr></table>
 
 

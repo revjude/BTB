@@ -6,18 +6,18 @@ When the people of Jabesh-gilead heard what the Philistines had done to Saul,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.10|<< 1 Samuel 31:10]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.12|1 Samuel 31:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they heard  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁמְע֣וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.me.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| concerning him  | <span class="ashebrew"><big>אֵלָ֔י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֖י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.she.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jabesh  | <span class="ashebrew"><big>יָבֵ֣ישׁ </big></span><small><small><sup>[[H3003I]]</sup></small></small> &#8207;| ya.Veish <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  | <span class="ashebrew"><big>גִּלְעָ֑ד </big></span><small><small><sup>[[H1568L]]</sup></small></small> &#8207;| gil.'Ad <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֛ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had done  | <span class="ashebrew"><big>עָשׂ֥וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Su <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּ֖ים </big></span><small><small><sup>[[H6430G]]</sup></small></small> &#8207;| fe.lish.Tim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Saul  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שָׁאֽוּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning him  |**<big>&#8207;[[H0413\|אֵלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֖י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jabesh  |**<big>&#8207;[[H3003I\|יָבֵ֣ישׁ]]&#8207; </big>**| ya.Veish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568L\|גִּלְעָ֑ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had done  |**<big>&#8207;[[H6213A\|עָשׂ֥וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֖ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Saul  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁאֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.10|<< 1 Samuel 31:10]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.12|1 Samuel 31:12 >>]]</td></tr></table>
 
 

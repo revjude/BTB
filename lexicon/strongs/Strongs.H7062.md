@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֹמֶץ‎</span></big> **qômets** <small>*(ko'mets)*</small> ==**handful**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קָמַץ‎</span><sup><small>[[H7061]]</small></sup></small>
+**<big><span class="ashebrew">‎קֹמֶץ‎</span></big>** **qômets** <small>*(ko'mets)*</small> ==**handful**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7061|‎קָמַץ‎]]</big>**</small>
 
 $\quad$ handful.
 - ***a grasp***, i.e. ***handful***

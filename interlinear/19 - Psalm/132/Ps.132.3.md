@@ -6,17 +6,17 @@ Surely I will not come into the tabernacle of my house, nor go up into my bed;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.2|<< Psalms 132:2]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.4|Psalms 132:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will go  | <span class="ashebrew"><big>אָ֭בֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| 'A.vo' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] tent of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| house my  | <span class="ashebrew"><big>בֵּיתִ֑ </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| bei.T <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will go up  | <span class="ashebrew"><big>אֶ֝עֱלֶ֗ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'e.'e.Leh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] couch of  | <span class="ashebrew"><big>עֶ֥רֶשׂ </big></span><small><small><sup>[[H6210]]</sup></small></small> &#8207;| 'E.res <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| beds my  | <span class="ashebrew"><big>יְצוּעָֽ </big></span><small><small><sup>[[H3326A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.tzu.'A <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go  |**<big>&#8207;[[H0935G\|אָ֭בֹא]]&#8207; </big>**| 'A.vo'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168H\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house my  |**<big>&#8207;[[H1004B\|בֵּיתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go up  |**<big>&#8207;[[H5927G\|אֶ֝עֱלֶ֗ה]]&#8207; </big>**| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] couch of  |**<big>&#8207;[[H6210\|עֶ֥רֶשׂ]]&#8207; </big>**| 'E.res<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beds my  |**<big>&#8207;[[H3326A\|יְצוּעָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.tzu.'A<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.2|<< Psalms 132:2]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.4|Psalms 132:4 >>]]</td></tr></table>
 
 

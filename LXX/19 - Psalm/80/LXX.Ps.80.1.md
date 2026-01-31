@@ -12,25 +12,25 @@ To the chief Musician upon ShoshannimEduth, A Psalm of Asaph. Give ear, O Shephe
 For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph. Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth<small><sub>**MT:**</sub></small>
 [[Ps.80.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.13|<< Psalm 79:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.2|Psalm 80:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tending | <big><span class="asgreek">ποιμαίνων</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| take heed! | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guiding | <big><span class="asgreek">οδηγών</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sitting down | <big><span class="asgreek">καθήμενος</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim -- | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| appear! | <big><span class="asgreek">εμφάνηθι</span></big> <sup><small><small>[[G7210]]</small></small></sup> |
+| O one | **<big>[[G3588\|ο]]</big>** |
+| tending | **<big>[[G4165\|ποιμαίνων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| take heed! | **<big>[[G4337\|πρόσχες]]</big>** |
+| O one | **<big>[[G3588\|ο]]</big>** |
+| guiding | **<big>[[G3594\|οδηγών]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| sitting down | **<big>[[G2521\|καθήμενος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cherubim -- | **<big>[[G5502\|χερουβίμ]]</big>** |
+| appear! | **<big>[[G7210\|εμφάνηθι]]</big>** |
 [[Ps.80.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.13|<< Psalm 79:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.2|Psalm 80:2 >>]]</td></tr></table>
 
 

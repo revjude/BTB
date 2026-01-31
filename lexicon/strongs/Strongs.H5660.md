@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַבְדִּי‎</span></big> **ʻAbdîy** <small>*(ab-dee')*</small> ==**Abdi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup>; serviceable</small>
+**<big><span class="ashebrew">‎עַבְדִּי‎</span></big>** **ʻAbdîy** <small>*(ab-dee')*</small> ==**Abdi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5647|‎עָבַד‎]]</big>**; serviceable</small>
 
 $\quad$ Abdi.
 - § Abdi = *"servant of Jehovah"*

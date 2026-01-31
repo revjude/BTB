@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Eltekon</span>, a city in the hill country of Judah, mentioned in the list of cities allotted to Judah.
 - A location only mentioned at [[Josh.15.59|Jos.15.59]]; 
-- only referred to as Eltekon<[[H0515]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Eltekon **<big>[[H0515|אֶלְתְּקֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.660570,34.995406&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ No other details about Eltekon are provided in the Bible. It is mentioned only o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eltekon | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0515) <small>*Hebrew*</small> | 1x | [Jos.15.59 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eltekon\*\|reference=Jos.15.59) |
-All Strong's for **Eltekon**: \[[[H0515]]\]
+| Eltekon | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0515) | 1x | [Jos.15.59 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eltekon\*\|reference=Jos.15.59) |
+All entries for **Eltekon**:  **<big>[[H0515|אֶלְתְּקֹן]]</big>**

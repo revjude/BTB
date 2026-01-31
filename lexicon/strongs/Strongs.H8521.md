@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּל חַרְשָׁא‎</span></big> **Têl Charshâʼ** <small>*(tale khar-shaw')*</small> ==**Tel-harsha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎תֵּל‎</span><sup><small>[[H8510]]</small></sup> and the feminine of <span class="ashebrew">‎חֲרָשִׁים‎</span><sup><small>[[H2798]]</small></sup>; mound of workmanship</small>
+**<big><span class="ashebrew">‎תֵּל חַרְשָׁא‎</span></big>** **Têl Charshâʼ** <small>*(tale khar-shaw')*</small> ==**Tel-harsha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H8510|‎תֵּל‎]]</big>** and the feminine of **<big>[[H2798|‎חֲרָשִׁים‎]]</big>**; mound of workmanship</small>
 
 $\quad$ Tel-haresha, Tel-harsa.
 - § Tel-harsa or Tel-haresha = *"mound of the deaf mute"*

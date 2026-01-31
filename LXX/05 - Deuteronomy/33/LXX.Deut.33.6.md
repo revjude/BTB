@@ -7,17 +7,17 @@ Let Reuben live, and not die; and let [not] his men be few.
 Let Reuben live and not die, nor his men be few.”<small><sub>**MT:**</sub></small>
 [[Deut.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let Reuben live | <big><span class="asgreek">ζήτω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let Simon be | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| many | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| number! | <big><span class="asgreek">αριθμώ</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| Let Reuben live | **<big>[[G2198\|ζήτω]]</big>** **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| die! | **<big>[[G0599\|αποθανέτω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let Simon be | **<big>[[G4826\|Συμεών]]</big>** **<big>[[G1510\|έστω]]</big>** |
+| many | **<big>[[G4183\|πολύς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| number! | **<big>[[G0706\|αριθμώ]]</big>** |
 [[Deut.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
 

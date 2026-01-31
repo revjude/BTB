@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Ἰωσήφ</span></span>, indecl.</span> <span class="asetym">  <span class="asderivation">(FlJ, <span class="asgreek">Ἰώσηπος, -ου</span>), <span class="asgreek">ὁ</span></span>  <span class="asderivation">(Heb. <span class="ashebrew">יוֹסֵף</span> <small><sup>[[H3130]]</sup></small>),</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Ἰωσήφ</span></span>, indecl.</span> <span class="asetym">  <span class="asderivation">(FlJ, <span class="asgreek">Ἰώσηπος, -ου</span>), <span class="asgreek">ὁ</span></span>  <span class="asderivation">(Heb. **<big>[[H3130|יוֹסֵף]]</big>**),</span> </span>
 <span class="asitalic">Joseph</span>;
 <span class="asbullet"><span class="asbold">1.</span> the Son of Jacob: [[John.4.5|Jo 4:5]], [[Acts.7.9|Ac 7:9]], [[Acts.7.13|13]], [[Acts.7.14|14]], [[Acts.7.18|18]], [[Heb.11.21|He 11:21]], [[Heb.11.22|22]], [[Rev.7.8|Re 7:8]].</span>
 <span class="asbullet"><span class="asbold">2.</span> In the genealogy of our Lord,</span>

@@ -7,49 +7,49 @@ And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at 
 And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat.<small><sub>**MT:**</sub></small>
 [[Lev.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.1|<< Leviticus 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.3|Leviticus 16:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother! | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he enters not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εισπορευέσθω</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| at any | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hour | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\] | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inside | <big><span class="asgreek">εσώτερον</span></big> <sup><small><small>[[G7520]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil, | <big><span class="asgreek">καταπετάσματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat | <big><span class="asgreek">ιλαστηρίου</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| I will appear | <big><span class="asgreek">οφθήσομαι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat. | <big><span class="asgreek">ιλαστηρίου</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Speak | **<big>[[G2980\|λάλησον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your brother! | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he enters not | **<big>[[G3361\|μη]]</big>** **<big>[[G1531\|εισπορευέσθω]]</big>** |
+| at any | **<big>[[G3956\|πάσαν]]</big>** |
+| hour | **<big>[[G5610\|ώραν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| holy \[place\] | **<big>[[G0039\|άγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| inside | **<big>[[G7520\|εσώτερον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| veil, | **<big>[[G2665\|καταπετάσματος]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| atonement-seat | **<big>[[G2435\|ιλαστηρίου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die. | **<big>[[G0599\|αποθανείται]]</big>** |
+| For in | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| a cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| I will appear | **<big>[[G3708\|οφθήσομαι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| atonement-seat. | **<big>[[G2435\|ιλαστηρίου]]</big>** |
 [[Lev.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.1|<< Leviticus 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.3|Leviticus 16:3 >>]]</td></tr></table>
 
 

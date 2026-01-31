@@ -47,7 +47,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.10.28|28]]**<span class="
 
 [^18]: [[Neh.12|Neh 12:4]]
 
-[^19]: ***Mijamin*** and ***Miamin*** are the same in the original, <span class="asgreek"><span class='asgreek'>ξιξιο</span></span> (<span class="ashebrew">‎מִיָּמִן‎</span><sup><small>[[H4326]]</small></sup>), which is a defective form of <span class="asgreek"><span class='asgreek'>ξπιξιο</span> </span> (<span class="ashebrew">‎מִנְיָמִין‎</span><sup><small>[[H4509]]</small></sup>), Miniamin. [[Neh.12|Neh 12:5]], Miamin, [[Neh.12|Neh 12:17]], [[Neh.12|Neh 12:41]], Miniamin
+[^19]: ***Mijamin*** and ***Miamin*** are the same in the original, <span class="asgreek"><span class='asgreek'>ξιξιο</span></span> ( [[H4326|‎מִיָּמִן‎]] ), which is a defective form of <span class="asgreek"><span class='asgreek'>ξπιξιο</span> </span> ( [[H4509|‎מִנְיָמִין‎]] ), Miniamin. [[Neh.12|Neh 12:5]], Miamin, [[Neh.12|Neh 12:17]], [[Neh.12|Neh 12:41]], Miniamin
 
 [^20]: [[Neh.12|Neh 12:5]], Bilgah
 
@@ -63,7 +63,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.10.28|28]]**<span class="
 
 [^26]: [[Neh.8|Neh 8:7]], [[Neh.9|Neh 9:4]], [[Neh.12|Neh 12:8]]
 
-[^27]: i.e. our son; our edification, (<span class="ashebrew">‎בְּנִינוּ‎</span><sup><small>[[H1148]]</small></sup>). [[Neh.10|Neh 10:13]]
+[^27]: i.e. our son; our edification, ( [[H1148|‎בְּנִינוּ‎]] ). [[Neh.10|Neh 10:13]]
 
 [^28]: [[Neh.3|Neh 3:11]], [[Neh.7|Neh 7:8]], [[Neh.7|Neh 7:11-13]], Zattu, [[Ezra.2|Ezra 2:3-70]]; The original is uniformly Zattu.
 
@@ -75,7 +75,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.10.28|28]]**<span class="
 
 [^32]: [[Neh.7|Neh 7:22-73]]; [[Ezra.2|Ezra 2:17-70]]
 
-[^33]: i.e. killer of moths; collector; plague of the moth; the plague is consumed, (<span class="ashebrew">‎מַגְפִּיעָשׁ‎</span><sup><small>[[H4047]]</small></sup>), [[Neh.10|Neh 10:20]]
+[^33]: i.e. killer of moths; collector; plague of the moth; the plague is consumed, ( [[H4047|‎מַגְפִּיעָשׁ‎]] ), [[Neh.10|Neh 10:20]]
 
 [^34]: i.e. freed by God, [[Neh.3|Neh 3:4]]
 

@@ -7,34 +7,34 @@ Thou hast also taken thy fair jewels of my gold and of my silver, which I had gi
 You also took the fine jewelry of gold and silver I had given you, and you made male idols with which to prostitute yourself.<small><sub>**MT:**</sub></small>
 [[Ezek.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.16|<< Ezekiel 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.18|Ezekiel 16:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you took | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your boasting | <big><span class="asgreek">καυχήσεως</span></big> <sup><small><small>[[G2746]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκά</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτή</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| images | <big><span class="asgreek">εικόνας</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| male | <big><span class="asgreek">αρσενικάς</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you fornicated | <big><span class="asgreek">εξεπόρνευσας</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you took | **<big>[[G2983\|έλαβες]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your boasting | **<big>[[G2746\|καυχήσεως]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my gold, | **<big>[[G5553\|χρυσίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my silver | **<big>[[G0694\|αργυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| I gave | **<big>[[G1325\|έδωκά]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτή]]</big>** |
+| images | **<big>[[G1504\|εικόνας]]</big>** |
+| male | **<big>[[G6544\|αρσενικάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you fornicated | **<big>[[G1608\|εξεπόρνευσας]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυταίς]]</big>** |
 [[Ezek.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.16|<< Ezekiel 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.18|Ezekiel 16:18 >>]]</td></tr></table>
 
 

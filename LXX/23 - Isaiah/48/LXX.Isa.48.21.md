@@ -7,29 +7,29 @@ And they thirsted not [when] he led them through the deserts: he caused the wate
 They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.<small><sub>**MT:**</sub></small>
 [[Isa.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.20|<< Isaiah 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.22|Isaiah 48:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they should thirst, | <big><span class="asgreek">διψήσωσι</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| he will lead | <big><span class="asgreek">άξει</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| he shall bring forth | <big><span class="asgreek">εξάξει</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be split | <big><span class="asgreek">σχισθήσεται</span></big> <sup><small><small>[[G4977]]</small></small></sup> |
-| \[the\] rock | <big><span class="asgreek">πέτρα</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall flow | <big><span class="asgreek">ρυήσεται</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall drink | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| they should thirst, | **<big>[[G1372\|διψήσωσι]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| he will lead | **<big>[[G0071\|άξει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] rock | **<big>[[G4073\|πέτρας]]</big>** |
+| he shall bring forth | **<big>[[G1806\|εξάξει]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| shall be split | **<big>[[G4977\|σχισθήσεται]]</big>** |
+| \[the\] rock | **<big>[[G4073\|πέτρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall flow | **<big>[[G4482\|ρυήσεται]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall drink | **<big>[[G4095\|πίεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.20|<< Isaiah 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.22|Isaiah 48:22 >>]]</td></tr></table>
 
 

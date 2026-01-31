@@ -6,25 +6,25 @@ As a well gushes its water, so she pours out her evil. Violence and destruction 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| as keeps cool  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>הָקִ֥יר </big></span><small><small><sup>[[H6979B]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> ha.Kir <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a well  [^1] | <span class="ashebrew"><big>בַּ֙יִר֙ </big></span><small><small><sup>[[H0875]]</sup></small></small> &#8207;[^2] | be.ver <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| water its  | <span class="ashebrew"><big>מֵימֶ֔י </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| mei.Mei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֖ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has kept cool  | <span class="ashebrew"><big>הֵקֵ֣רָה </big></span><small><small><sup>[[H6979B]]</sup></small></small> &#8207;| he.Ke.rah <small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil its  | <span class="ashebrew"><big>רָעָתָ֑ </big></span><small><small><sup>[[H7451I]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ra.'a.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| violence  | <span class="ashebrew"><big>חָמָ֣ס </big></span><small><small><sup>[[H2555]]</sup></small></small> &#8207;| cha.Mas <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and havoc  | <span class="ashebrew"><big>וָ֠ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁד </big></span><small><small><sup>[[H7701]]</sup></small></small> &#8207;| Va. <small><sup>[[HC]]</sup></small> shod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is heard  | <span class="ashebrew"><big>יִשָּׁ֨מַע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| yi.Sha.ma' <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> it  | <span class="ashebrew"><big>בָּ֧ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face my  | <span class="ashebrew"><big>פָּנַ֛ </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| pa.Na <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| continually  | <span class="ashebrew"><big>תָּמִ֖יד </big></span><small><small><sup>[[H8548]]</sup></small></small> &#8207;| ta.Mid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sickness  | <span class="ashebrew"><big>חֳלִ֥י </big></span><small><small><sup>[[H2483]]</sup></small></small> &#8207;| cho.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wound[s]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַכָּֽה </big></span><small><small><sup>[[H4347]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as keeps cool  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6979B\|הָקִ֥יר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ha.Kir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a well  [^1]|**<big>&#8207;[[H0875\|בַּ֙יִר֙]]&#8207; </big>**[^2] | be.ver<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| water its  |**<big>&#8207;[[H4325G\|מֵימֶ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| mei.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֖ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has kept cool  |**<big>&#8207;[[H6979B\|הֵקֵ֣רָה]]&#8207; </big>**| he.Ke.rah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil its  |**<big>&#8207;[[H7451I\|רָעָתָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violence  |**<big>&#8207;[[H2555\|חָמָ֣ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and havoc  |**<big>&#8207;[[H9002\|וָ֠]]&#8207;&#8207;[[H7701\|שֹׁד]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is heard  |**<big>&#8207;[[H8085G\|יִשָּׁ֨מַע]]&#8207; </big>**| yi.Sha.ma'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  |**<big>&#8207;[[H9003\|בָּ֧]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָּנַ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continually  |**<big>&#8207;[[H8548\|תָּמִ֖יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sickness  |**<big>&#8207;[[H2483\|חֳלִ֥י]]&#8207; </big>**| cho.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wound[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4347\|מַכָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
-[^1]: ==K==: **a cistern ** | <small><sup>[[H0953A]]</sup></small> <span class="ashebrew"><big>בְּוֵר</big></span>  | be.ver<small><sup>[[HNcbsa]]</sup></small> 
+[^1]: ==K==: a cistern  | **<big>[[H0953A|בְּוֵר]]</big> ** | be.ver<small><sup>[[HNcbsa]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>בַּ֙וִר֙</big></span>**
 

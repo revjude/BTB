@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְדוּתוּן‎</span></big> **Yᵉdûwthûwn** <small>*(yed-oo-thoon')*</small> ==**Jeduthun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יְדֻתוּן</span> **Yᵉduthûwn** <small>*(yed-oo-thoon')*</small>; or <span class="ashebrew">יְדִיתוּן</span> **Yᵉdîythûwn** <small>*(yed-ee-thoon')*</small>; probably from <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup>; laudatory</small>
+**<big><span class="ashebrew">‎יְדוּתוּן‎</span></big>** **Yᵉdûwthûwn** <small>*(yed-oo-thoon')*</small> ==**Jeduthun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יְדֻתוּן</span></big>** **Yᵉduthûwn** <small>*(yed-oo-thoon')*</small>; or **<big><span class="ashebrew">יְדִיתוּן</span></big>** **Yᵉdîythûwn** <small>*(yed-ee-thoon')*</small>; probably from **<big>[[H3034|‎יָדָה‎]]</big>**; laudatory</small>
 
 $\quad$ Jeduthun.
 - § Jeduthun = *"praising"*

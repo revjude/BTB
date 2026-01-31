@@ -7,34 +7,34 @@ Then answered one of the people, and said, Thy father straitly charged the peopl
 Then one of the soldiers told him, “Your father bound the troops with a solemn oath, saying, ‘Cursed is the man who eats food today.’ That is why the people are faint.”<small><sub>**MT:**</sub></small>
 [[1Sam.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.27|<< 1 Samuel 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.29|1 Samuel 14:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| By an oath | <big><span class="asgreek">ορκίσας</span></big> <sup><small><small>[[G3726]]</small></small></sup> |
-| bound | <big><span class="asgreek">ώρκισε</span></big> <sup><small><small>[[G3726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Accursed be | <big><span class="asgreek">επικατάρατος</span></big> <sup><small><small>[[G1944]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| today; | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were faint | <big><span class="asgreek">εξελύθη</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| responded | **<big>[[G0611\|απεκρίθη]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| By an oath | **<big>[[G3726\|ορκίσας]]</big>** |
+| bound | **<big>[[G3726\|ώρκισε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Accursed be | **<big>[[G1944\|επικατάρατος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| today; | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were faint | **<big>[[G1590\|εξελύθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
 [[1Sam.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.27|<< 1 Samuel 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.29|1 Samuel 14:29 >>]]</td></tr></table>
 
 

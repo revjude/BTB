@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gennesaret</span>, a fertile plain on the northwest shore of the Sea of Galilee, was the location of several events in Jesus' ministry.
 - A location first mentioned at [[Matt.14.34|Mat.14.34]]; 
-- only referred to as Gennesaret<[[G1082]]> \(<span class='tipnrLangGreek'>Γεννησαρέτ</span>\).
+- only referred to as Gennesaret **<big>[[G1082|Γεννησαρέτ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.85935860372527,35.50993742021974&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,5 +20,5 @@ The region's fertility and its proximity to the Sea of Galilee made it an import
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gennesaret | [<span class='tipnrLangGreek'>Γεννησαρέτ</span>](G1082) <small>*Greek*</small> | 3x | [[Mat.14.34] ... [Luk.5.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gennesaret\*\|reference=Mat.14.34;Mrk.6.53;Luk.5.1) |
-All Strong's for **Gennesaret**: \[[[G1082]]\]
+| Gennesaret | [<span class='tipnrLangGreek'>Γεννησαρέτ</span>](G1082) | 3x | [[Mat.14.34] ... [Luk.5.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gennesaret\*\|reference=Mat.14.34;Mrk.6.53;Luk.5.1) |
+All entries for **Gennesaret**:  **<big>[[G1082|Γεννησαρέτ]]</big>**

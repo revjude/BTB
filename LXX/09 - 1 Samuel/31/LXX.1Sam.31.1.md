@@ -10,30 +10,30 @@ Now the Philistines fought against Israel: and the men of Israel fled from befor
 Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa.<small><sub>**MT:**</sub></small>
 [[1Sam.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.31|<< 1 Samuel 30:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.2|1 Samuel 31:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| waged war | <big><span class="asgreek">επολέμουν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled | <big><span class="asgreek">έφυγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fell | <big><span class="asgreek">πίπτουσι</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Gilboa. | <big><span class="asgreek">Γελβουέ</span></big> <sup><small><small>[[H1533]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| waged war | **<big>[[G4170\|επολέμουν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| fled | **<big>[[G5343\|έφυγον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fell | **<big>[[G4098\|πίπτουσι]]</big>** |
+| slain | **<big>[[G9470\|τραυματίαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| mount | **<big>[[G3735\|όρει]]</big>** |
+| Gilboa. | **<big>[[H1533\|Γελβουέ]]</big>** |
 [[1Sam.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.31|<< 1 Samuel 30:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.2|1 Samuel 31:2 >>]]</td></tr></table>
 
 

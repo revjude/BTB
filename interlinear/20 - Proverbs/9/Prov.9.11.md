@@ -6,16 +6,16 @@ For through wisdom your days will be multiplied, and years will be added to your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.10|<< Proverbs 9:10]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.12|Proverbs 9:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by me  | <span class="ashebrew"><big>בִ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will increase  | <span class="ashebrew"><big>יִרְבּ֣וּ </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| yir.Bu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days your  | <span class="ashebrew"><big>יָמֶ֑י </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ya.Mei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may add  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹסִ֥יפוּ </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Si.fu <small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לְּ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years of  | <span class="ashebrew"><big>שְׁנ֣וֹת </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| she.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life  | <span class="ashebrew"><big>חַיִּֽים </big></span><small><small><sup>[[H2416E]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chai.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by me  |**<big>&#8207;[[H9003\|בִ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will increase  |**<big>&#8207;[[H7235A\|יִרְבּ֣וּ]]&#8207; </big>**| yir.Bu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days your  |**<big>&#8207;[[H3117G\|יָמֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ya.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may add  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3254H\|יוֹסִ֥יפוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Si.fu<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לְּ֝]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years of  |**<big>&#8207;[[H8141\|שְׁנ֣וֹת]]&#8207; </big>**| she.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life  |**<big>&#8207;[[H2416E\|חַיִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.10|<< Proverbs 9:10]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.12|Proverbs 9:12 >>]]</td></tr></table>
 
 

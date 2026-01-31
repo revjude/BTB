@@ -6,16 +6,16 @@ Some wandered in desert wastelands, finding no path to a city in which to dwell.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.3|<< Psalms 107:3]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.5|Psalms 107:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they wandered about  | <span class="ashebrew"><big>תָּע֣וּ </big></span><small><small><sup>[[H8582]]</sup></small></small> &#8207;| ta.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the wilderness  | <span class="ashebrew"><big>בַ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| Va. <small><sup>[[HRd]]</sup></small> mid.bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a desolate place of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ישִׁימ֣וֹן </big></span><small><small><sup>[[H3452H]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> shi.Mon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a way  | <span class="ashebrew"><big>דָּ֑רֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> &#8207;| Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a city of  | <span class="ashebrew"><big>עִ֥יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'ir <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dwelling  | <span class="ashebrew"><big>מ֝וֹשָׁ֗ב </big></span><small><small><sup>[[H4186]]</sup></small></small> &#8207;| mo.Shav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they found  | <span class="ashebrew"><big>מָצָֽאוּ </big></span><small><small><sup>[[H4672]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.Tza.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they wandered about  |**<big>&#8207;[[H8582\|תָּע֣וּ]]&#8207; </big>**| ta.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  |**<big>&#8207;[[H9003\|בַ֭]]&#8207;&#8207;[[H4057B\|מִּדְבָּר]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> mid.bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a desolate place of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3452H\|ישִׁימ֣וֹן]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> shi.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a way  |**<big>&#8207;[[H1870L\|דָּ֑רֶךְ]]&#8207; </big>**| Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a city of  |**<big>&#8207;[[H5892B\|עִ֥יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling  |**<big>&#8207;[[H4186\|מ֝וֹשָׁ֗ב]]&#8207; </big>**| mo.Shav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they found  |**<big>&#8207;[[H4672\|מָצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Tza.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.3|<< Psalms 107:3]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.5|Psalms 107:5 >>]]</td></tr></table>
 
 

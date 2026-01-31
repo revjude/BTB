@@ -7,32 +7,32 @@ When the LORD thy God shall cut off the nations from before thee, whither thou g
 When the LORD your God cuts off before you the nations you are entering to dispossess, and you drive them out and live in their land,<small><sub>**MT:**</sub></small>
 [[Deut.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.28|<< Deuteronomy 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.30|Deuteronomy 12:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should utterly destroy | <big><span class="asgreek">εξολοθρεύση</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισπορεύη</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| your presence, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should inherit | <big><span class="asgreek">κατακληρονομήσης</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικήσης</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land; | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should utterly destroy | **<big>[[G1842\|εξολοθρεύση]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| you enter | **<big>[[G1531\|εισπορεύη]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| your presence, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should inherit | **<big>[[G7853\|κατακληρονομήσης]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwell | **<big>[[G2730\|κατοικήσης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their land; | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.28|<< Deuteronomy 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.30|Deuteronomy 12:30 >>]]</td></tr></table>
 
 

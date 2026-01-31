@@ -11,23 +11,23 @@ the LORD was with him and extended kindness to him, granting him favor in the ey
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he poured down | <big><span class="asgreek">κατέχεεν</span></big> <sup><small><small>[[G2708]]</small></small></sup> |
-| upon him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mercy; | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief jailer. | <big><span class="asgreek">αρχιδεσμοφύλακος</span></big> <sup><small><small>[[G6550]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> was | **<big>[[G1510\|ην]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he poured down | **<big>[[G2708\|κατέχεεν]]</big>** |
+| upon him | **<big>[[G1473\|αυτού]]</big>** |
+| mercy; | **<big>[[G1656\|έλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| chief jailer. | **<big>[[G6550\|αρχιδεσμοφύλακος]]</big>** |
 [[Gen.39.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.20|<< Genesis 39:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.22|Genesis 39:22 >>]]</td></tr></table>
 
 

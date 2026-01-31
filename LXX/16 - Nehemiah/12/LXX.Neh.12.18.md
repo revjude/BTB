@@ -7,14 +7,14 @@ Of Bilgah, Shammua; of Shemaiah, Jehonathan;
 of Bilgah, Shammua; of Shemaiah, Jonathan;<small><sub>**MT:**</sub></small>
 [[Neh.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.17|<< Nehemiah 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.19|Nehemiah 12:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bilgah, | <big><span class="asgreek">Βαλγάς</span></big> <sup><small><small>[[H1083]]</small></small></sup> |
-| Shammua; | <big><span class="asgreek">Σαμουέ</span></big> <sup><small><small>[[H8051]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shemaiah, | <big><span class="asgreek">Σεμεϊα</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| Jehonathan; | <big><span class="asgreek">Ιωνάθαν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Bilgah, | **<big>[[H1083\|Βαλγάς]]</big>** |
+| Shammua; | **<big>[[H8051\|Σαμουέ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Shemaiah, | **<big>[[H8098\|Σεμεϊα]]</big>** |
+| Jehonathan; | **<big>[[H3129\|Ιωνάθαν]]</big>** |
 [[Neh.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.17|<< Nehemiah 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.19|Nehemiah 12:19 >>]]</td></tr></table>
 
 

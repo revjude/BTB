@@ -7,18 +7,18 @@ They [are] all grievous revolters, walking with slanders: [they are] brass and i
 All are hardened rebels, walking around as slanderers. They are bronze and iron; all of them are corrupt.<small><sub>**MT:**</sub></small>
 [[Jer.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.27|<< Jeremiah 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.29|Jeremiah 6:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| are unhearing, | <big><span class="asgreek">ανήκοοι</span></big> <sup><small><small>[[G6336]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενοι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| crookedly; | <big><span class="asgreek">σκολιώς</span></big> <sup><small><small>[[G9113]]</small></small></sup> |
-| as brass | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iron | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| being corrupted | <big><span class="asgreek">διεφθαρμένοι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| are unhearing, | **<big>[[G6336\|ανήκοοι]]</big>** |
+| going | **<big>[[G4198\|πορευόμενοι]]</big>** |
+| crookedly; | **<big>[[G9113\|σκολιώς]]</big>** |
+| as brass | **<big>[[G5475\|χαλκός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iron | **<big>[[G4604\|σίδηρος]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| being corrupted | **<big>[[G1311\|διεφθαρμένοι]]</big>** |
+| they are | **<big>[[G1510\|εισίν]]</big>** |
 [[Jer.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.27|<< Jeremiah 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.29|Jeremiah 6:29 >>]]</td></tr></table>
 
 

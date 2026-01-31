@@ -7,18 +7,18 @@ The righteous shall inherit the land, and dwell therein for ever.
 The righteous will inherit the land and dwell in it forever.<small><sub>**MT:**</sub></small>
 [[Ps.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.28|<< Psalm 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.30|Psalm 37:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But \[the\] just | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \[the\] earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encamp | <big><span class="asgreek">κατασκηνώσουσιν</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of \[the\] eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But \[the\] just | **<big>[[G1342\|δίκαιοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall inherit | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| \[the\] earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| encamp | **<big>[[G2681\|κατασκηνώσουσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of \[the\] eon | **<big>[[G0165\|αιώνος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.28|<< Psalm 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.30|Psalm 37:30 >>]]</td></tr></table>
 
 

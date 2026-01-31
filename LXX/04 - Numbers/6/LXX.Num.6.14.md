@@ -7,33 +7,33 @@ And he shall offer his offering unto the LORD, one he lamb of the first year wit
 and he is to present an offering to the LORD of an unblemished year-old male lamb as a burnt offering, an unblemished year-old female lamb as a sin offering, and an unblemished ram as a peace offering—<small><sub>**MT:**</sub></small>
 [[Num.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.13|<< Numbers 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.15|Numbers 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lead | <big><span class="asgreek">προσάξει</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he-lamb | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαύσιον</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ewe-lamb | <big><span class="asgreek">αμνάδα</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαυσίαν</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a deliverance \[offering\]; | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lead | **<big>[[G4317\|προσάξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίω]]</big>** |
+| he-lamb | **<big>[[G0286\|αμνόν]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαύσιον]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering, | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ewe-lamb | **<big>[[G6261\|αμνάδα]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαυσίαν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a deliverance \[offering\]; | **<big>[[G4992\|σωτήριον]]</big>** |
 [[Num.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.13|<< Numbers 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.15|Numbers 6:15 >>]]</td></tr></table>
 
 

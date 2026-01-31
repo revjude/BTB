@@ -7,20 +7,20 @@ Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolat
 Be stunned by this, O heavens; be shocked and utterly appalled,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.11|<< Jeremiah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.13|Jeremiah 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is amazed | <big><span class="asgreek">εξέστη</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shuddered | <big><span class="asgreek">έφριξεν</span></big> <sup><small><small>[[G5425]]</small></small></sup> |
-| over it | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| much, | <big><span class="asgreek">πλείον</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| is amazed | **<big>[[G1839\|εξέστη]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shuddered | **<big>[[G5425\|έφριξεν]]</big>** |
+| over it | **<big>[[G1909\|επί]]</big>** |
+| much, | **<big>[[G4183\|πλείον]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.11|<< Jeremiah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.13|Jeremiah 2:13 >>]]</td></tr></table>
 
 

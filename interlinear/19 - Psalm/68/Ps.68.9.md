@@ -6,16 +6,16 @@ You sent abundant rain, O God; You refreshed Your weary inheritance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.8|<< Psalms 68:8]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.10|Psalms 68:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| rain of  | <span class="ashebrew"><big>גֶּ֣שֶׁם </big></span><small><small><sup>[[H1653]]</sup></small></small> &#8207;| Ge.shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voluntariness\<es>  | <span class="ashebrew"><big>נְ֭דָבוֹת </big></span><small><small><sup>[[H5071]]</sup></small></small> &#8207;| Ne.da.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you spread abroad  | <span class="ashebrew"><big>תָּנִ֣יף </big></span><small><small><sup>[[H5130A]]</sup></small></small> &#8207;| ta.Nif <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֑ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inheritance your  | <span class="ashebrew"><big>נַחֲלָתְ </big></span><small><small><sup>[[H5159]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| na.cha.la.te. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<and> weary  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נִלְאָ֗ה </big></span><small><small><sup>[[H3811]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> nil.'Ah <small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֥ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you established it  | <span class="ashebrew"><big>כֽוֹנַנְתָּֽ </big></span><small><small><sup>[[H3559I]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Kho.nan.Ta <small><sup>[[HVpp2ms]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rain of  |**<big>&#8207;[[H1653\|גֶּ֣שֶׁם]]&#8207; </big>**| Ge.shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voluntariness\<es>  |**<big>&#8207;[[H5071\|נְ֭דָבוֹת]]&#8207; </big>**| Ne.da.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you spread abroad  |**<big>&#8207;[[H5130A\|תָּנִ֣יף]]&#8207; </big>**| ta.Nif<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance your  |**<big>&#8207;[[H5159\|נַחֲלָתְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| na.cha.la.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<and> weary  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3811\|נִלְאָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nil.'Ah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you established it  |**<big>&#8207;[[H3559I\|כֽוֹנַנְתָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Kho.nan.Ta<small><sup>[[HVpp2ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.8|<< Psalms 68:8]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.10|Psalms 68:10 >>]]</td></tr></table>
 
 

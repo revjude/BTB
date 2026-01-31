@@ -7,24 +7,24 @@ He made a way to his anger; he spared not their soul from death, but gave their 
 He cleared a path for His anger; He did not spare them from death but delivered their lives to the plague.<small><sub>**MT:**</sub></small>
 [[Ps.78.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.49|<< Psalm 78:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.51|Psalm 78:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He opened | <big><span class="asgreek">ωδοποίησε</span></big> <sup><small><small>[[G8445]]</small></small></sup> |
-| \[the\] road | <big><span class="asgreek">τρίβον</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his anger; | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their souls | <big><span class="asgreek">ψυχών</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| he consigned | <big><span class="asgreek">συνέκλεισε</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
+| He opened | **<big>[[G8445\|ωδοποίησε]]</big>** |
+| \[the\] road | **<big>[[G5147\|τρίβον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| of his anger; | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| spare | **<big>[[G5339\|εφείσατο]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| death | **<big>[[G2288\|θανάτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their souls | **<big>[[G5590\|ψυχών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their cattle | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| death | **<big>[[G2288\|θάνατον]]</big>** |
+| he consigned | **<big>[[G4788\|συνέκλεισε]]</big>** |
 [[Ps.78.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.49|<< Psalm 78:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.51|Psalm 78:51 >>]]</td></tr></table>
 
 

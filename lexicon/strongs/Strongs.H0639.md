@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַף‎</span></big> **ʼaph** <small>*(af)*</small> ==**face: anger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָנַף‎</span><sup><small>[[H0599]]</small></sup></small>
+**<big><span class="ashebrew">‎אַף‎</span></big>** **ʼaph** <small>*(af)*</small> ==**face: anger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0599|‎אָנַף‎]]</big>**</small>
 
 $\quad$ anger(-gry), [phrase] before, countenance, face, [phrase] forebearing, forehead, [phrase] (long-) suffering, nose, nostril, snout, [idiom] worthy, wrath.
 - properly, ***the nose*** or ***nostril***
@@ -9,4 +9,4 @@ $\quad$ anger(-gry), [phrase] before, countenance, face, [phrase] forebearing, f
 **1)** nostril, nose, face
 **2)** anger
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκδίκησις</span><sup><small>[[G1557]]</small></sup> · <span class="asgreek">ἔχθρα</span><sup><small>[[G2189]]</small></sup> · <span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup> · <span class="asgreek">μυκτηρίζω</span><sup><small>[[G3456]]</small></sup> · <span class="asgreek">νῦν</span><sup><small>[[G3568]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup> · <span class="asgreek">ὀργίζω</span><sup><small>[[G3710]]</small></sup> · <span class="asgreek">ὀργίλος</span><sup><small>[[G3711]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup> · <span class="asgreek">πρόσωπον</span><sup><small>[[G4383]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup>
+<small>See Greek: </small>**<big>[[G1557|ἐκδίκησις]]</big>** · **<big>[[G2189|ἔχθρα]]</big>** · **<big>[[G2372|θυμός]]</big>** · **<big>[[G3456|μυκτηρίζω]]</big>** · **<big>[[G3568|νῦν]]</big>** · **<big>[[G3709|ὀργή]]</big>** · **<big>[[G3710|ὀργίζω]]</big>** · **<big>[[G3711|ὀργίλος]]</big>** · **<big>[[G4133|πλήν]]</big>** · **<big>[[G4383|πρόσωπον]]</big>** · **<big>[[G5101|τίς]]</big>**

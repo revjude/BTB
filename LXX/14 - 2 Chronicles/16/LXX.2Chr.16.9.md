@@ -11,34 +11,34 @@ For the eyes of the LORD roam to and fro over all the earth, to show Himself str
 > $\quad$ referenced by: [[Rev.5.6|Rev 5:6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| look | <big><span class="asgreek">επιβλέπουσιν</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| to strengthen | <big><span class="asgreek">κατισχύσαι</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| perfect | <big><span class="asgreek">τελείας</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You have known | <big><span class="asgreek">ηγνόηκας</span></big> <sup><small><small>[[G0050]]</small></small></sup> |
-| about | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this; | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| now \[on\] | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| look | **<big>[[G1914\|επιβλέπουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| to strengthen | **<big>[[G2729\|κατισχύσαι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| every | **<big>[[G3956\|πάσης]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| perfect | **<big>[[G4134\|τελείας]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| You have known | **<big>[[G0050\|ηγνόηκας]]</big>** |
+| about | **<big>[[G1909\|επί]]</big>** |
+| this; | **<big>[[G3778\|τούτω]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| now \[on\] | **<big>[[G3568\|νυν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| war | **<big>[[G4171\|πόλεμος]]</big>** |
 [[2Chr.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.8|<< 2 Chronicles 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.10|2 Chronicles 16:10 >>]]</td></tr></table>
 
 

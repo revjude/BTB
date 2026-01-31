@@ -7,32 +7,32 @@ And he built there an altar, and called the place Elbethel: because there God ap
 There Jacob built an altar, and he called that place El-bethel, because it was there that God had revealed Himself to Jacob as he fled from his brother.<small><sub>**MT:**</sub></small>
 [[Gen.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.6|<< Genesis 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.8|Genesis 35:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he built | <big><span class="asgreek">ωκοδόμησεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| an altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place, | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| for there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| appeared | <big><span class="asgreek">εφάνη</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his running away | <big><span class="asgreek">αποδιδράσκειν</span></big> <sup><small><small>[[G6424]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Esau | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he built | **<big>[[G3618\|ωκοδόμησεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| an altar, | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| place, | **<big>[[G5117\|τόπου]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| for there | **<big>[[G1563\|εκεί]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| appeared | **<big>[[G5316\|εφάνη]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his running away | **<big>[[G6424\|αποδιδράσκειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Esau | **<big>[[G2269\|Ησαύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.6|<< Genesis 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.8|Genesis 35:8 >>]]</td></tr></table>
 
 

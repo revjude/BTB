@@ -7,37 +7,37 @@ And ye were now turned, and had done right in my sight, in proclaiming liberty e
 Recently you repented and did what pleased Me; each of you proclaimed freedom for his neighbor. You made a covenant before Me in the house that bears My Name.<small><sub>**MT:**</sub></small>
 [[Jer.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.14|<< Jeremiah 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.16|Jeremiah 34:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they turned | <big><span class="asgreek">επέστρεψαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right \[thing\] | <big><span class="asgreek">ευθές</span></big> <sup><small><small>[[G7543]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| my eyes, | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to call | <big><span class="asgreek">καλέσαι</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| for a release | <big><span class="asgreek">άφεσιν</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| for each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his neighbor; | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they completed | <big><span class="asgreek">συνετέλεσαν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is called | <big><span class="asgreek">επεκλήθη</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| in it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they turned | **<big>[[G1994\|επέστρεψαν]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| right \[thing\] | **<big>[[G7543\|ευθές]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| my eyes, | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to call | **<big>[[G2564\|καλέσαι]]</big>** |
+| for a release | **<big>[[G0859\|άφεσιν]]</big>** |
+| for each | **<big>[[G1538\|έκαστον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for his neighbor; | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they completed | **<big>[[G4931\|συνετέλεσαν]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπόν]]</big>** |
+| of me, | **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| is called | **<big>[[G1941\|επεκλήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομά]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| in it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Jer.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.14|<< Jeremiah 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.16|Jeremiah 34:16 >>]]</td></tr></table>
 
 

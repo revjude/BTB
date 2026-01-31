@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָסַג‎</span></big> **nâçag** <small>*(naw-sag')*</small> ==**to remove**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָסַג‎</span></big>** **nâçag** <small>*(naw-sag')*</small> ==**to remove**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ departing away, remove, take (hold), turn away.

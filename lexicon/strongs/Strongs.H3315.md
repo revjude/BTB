@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֶפֶת‎</span></big> **Yepheth** <small>*(yeh'-feth)*</small> ==**Japheth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּתָה‎</span><sup><small>[[H6601]]</small></sup>; expansion</small>
+**<big><span class="ashebrew">‎יֶפֶת‎</span></big>** **Yepheth** <small>*(yeh'-feth)*</small> ==**Japheth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6601|‎פָּתָה‎]]</big>**; expansion</small>
 
 $\quad$ Japheth.
 - § Japheth = *"opened"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְרוּיָה‎</span></big> **Tsᵉrûwyâh** <small>*(tser-oo-yaw')*</small> ==**Zeruiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine passive participle from the same as <span class="ashebrew">‎צְרִי‎</span><sup><small>[[H6875]]</small></sup>; wounded</small>
+**<big><span class="ashebrew">‎צְרוּיָה‎</span></big>** **Tsᵉrûwyâh** <small>*(tser-oo-yaw')*</small> ==**Zeruiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine passive participle from the same as **<big>[[H6875|‎צְרִי‎]]</big>**; wounded</small>
 
 $\quad$ Zeruiah.
 - § Zeruiah = *"balsam"*

@@ -7,26 +7,26 @@ For whosoever shall commit any of these abominations, even the souls that commit
 Therefore anyone who commits any of these abominations must be cut off from among his people.<small><sub>**MT:**</sub></small>
 [[Lev.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.28|<< Leviticus 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.30|Leviticus 18:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should do | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these abominations | <big><span class="asgreek">βδελυγμάτων</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall be utterly destroyed -- | <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχαί</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing \[them\], | <big><span class="asgreek">ποιούσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should do | **<big>[[G4160\|ποιήση]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| these abominations | **<big>[[G0946\|βδελυγμάτων]]</big>** **<big>[[G3778\|τούτων]]</big>** |
+| shall be utterly destroyed -- | **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| souls | **<big>[[G5590\|ψυχαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| doing \[them\], | **<big>[[G4160\|ποιούσαι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lev.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.28|<< Leviticus 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.30|Leviticus 18:30 >>]]</td></tr></table>
 
 

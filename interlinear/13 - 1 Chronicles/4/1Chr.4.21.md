@@ -6,24 +6,24 @@ The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.20|<< 1 Chronicles 4:20]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.22|1 Chronicles 4:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵי֙ </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shelah  | <span class="ashebrew"><big>שֵׁלָ֣ה </big></span><small><small><sup>[[H7956]]</sup></small></small> &#8207;| she.Lah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Er  | <span class="ashebrew"><big>עֵ֚ר </big></span><small><small><sup>[[H6147H]]</sup></small></small> &#8207;| 'er <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lecah  | <span class="ashebrew"><big>לֵכָ֔ה </big></span><small><small><sup>[[H3922]]</sup></small></small> &#8207;| le.Khah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Laadah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַעְדָּ֖ה </big></span><small><small><sup>[[H3935]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la'.Dah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Mareshah  | <span class="ashebrew"><big>מָרֵשָׁ֑ה </big></span><small><small><sup>[[H4762H]]</sup></small></small> &#8207;| ma.re.Shah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] clans of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפְּח֛וֹת </big></span><small><small><sup>[[H4940]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.pe.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] House of  | <span class="ashebrew"><big>בֵּית </big></span><small><small><sup>[[H1004G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Work of  | <span class="ashebrew"><big>עֲבֹדַ֥ת </big></span><small><small><sup>[[H5656I]]</sup></small></small> &#8207;| 'a.vo.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Fine linen  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בֻּ֖ץ </big></span><small><small><sup>[[H0948]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Butz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] House of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ית </big></span><small><small><sup>[[H1004G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ashbea  | <span class="ashebrew"><big>אַשְׁבֵּֽעַ </big></span><small><small><sup>[[H0791]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ash.Be.a' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי֙]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shelah  |**<big>&#8207;[[H7956\|שֵׁלָ֣ה]]&#8207; </big>**| she.Lah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Er  |**<big>&#8207;[[H6147H\|עֵ֚ר]]&#8207; </big>**| 'er<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lecah  |**<big>&#8207;[[H3922\|לֵכָ֔ה]]&#8207; </big>**| le.Khah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Laadah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3935\|לַעְדָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la'.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mareshah  |**<big>&#8207;[[H4762H\|מָרֵשָׁ֑ה]]&#8207; </big>**| ma.re.Shah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] clans of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4940\|מִשְׁפְּח֛וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] House of  |**<big>&#8207;[[H1004G\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Work of  |**<big>&#8207;[[H5656I\|עֲבֹדַ֥ת]]&#8207; </big>**| 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Fine linen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0948\|בֻּ֖ץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Butz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] House of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004G\|בֵ֥ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ashbea  |**<big>&#8207;[[H0791\|אַשְׁבֵּֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ash.Be.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.20|<< 1 Chronicles 4:20]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.22|1 Chronicles 4:22 >>]]</td></tr></table>
 
 

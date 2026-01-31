@@ -7,32 +7,32 @@ And when the servants of David were come to Abigail to Carmel, they spake unto h
 When his servants came to Abigail at Carmel, they said, “David has sent us to take you as his wife.”<small><sub>**MT:**</sub></small>
 [[1Sam.25.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.39|<< 1 Samuel 25:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.41|1 Samuel 25:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abigail | <big><span class="asgreek">Αβιγαϊλ</span></big> <sup><small><small>[[H0026]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Carmel. | <big><span class="asgreek">Κάρμηλον</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| sends | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| servants | **<big>[[G3816\|παίδες]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abigail | **<big>[[H0026\|Αβιγαϊλ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Carmel. | **<big>[[H3760\|Κάρμηλον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| sends | **<big>[[G0649\|απέστειλεν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| to himself | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Sam.25.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.39|<< 1 Samuel 25:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.41|1 Samuel 25:41 >>]]</td></tr></table>
 
 

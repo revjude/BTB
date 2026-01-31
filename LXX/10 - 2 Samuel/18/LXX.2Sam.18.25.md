@@ -7,31 +7,31 @@ And the watchman cried, and told the king. And the king said, If he [be] alone, 
 So he called out and told the king. “If he is alone,” the king replied, “he bears good news.” As the first runner drew near,<small><sub>**MT:**</sub></small>
 [[2Sam.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.24|<< 2 Samuel 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.26|2 Samuel 18:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled out | <big><span class="asgreek">ανεβόησεν</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watchman | <big><span class="asgreek">σκοπός</span></big> <sup><small><small>[[G4649]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reported | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| he is alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| good news | <big><span class="asgreek">ευαγγέλια</span></big> <sup><small><small>[[G2098]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth. | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went \[along\], | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| coming | <big><span class="asgreek">πορευόμενος</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| approaching. | <big><span class="asgreek">εγγίζων</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| yelled out | **<big>[[G0310\|ανεβόησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| watchman | **<big>[[G4649\|σκοπός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reported | **<big>[[G0518\|απήγγειλε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king. | **<big>[[G0935\|βασιλεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| he is alone | **<big>[[G3441\|μόνος]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| good news | **<big>[[G2098\|ευαγγέλια]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his mouth. | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went \[along\], | **<big>[[G4198\|επορεύετο]]</big>** |
+| coming | **<big>[[G4198\|πορευόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| approaching. | **<big>[[G1448\|εγγίζων]]</big>** |
 [[2Sam.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.24|<< 2 Samuel 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.26|2 Samuel 18:26 >>]]</td></tr></table>
 
 

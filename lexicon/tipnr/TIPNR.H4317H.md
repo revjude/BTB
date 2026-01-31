@@ -4,16 +4,16 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Michael</span>, a Gadite chief, is mentioned among the leaders of the tribe of Gad during the reign of Jotham, king of Judah \([[1Chr.5.13|1Ch.5.13]]\).
 - A man from the tribe of Gad  living at the time of Divided Monarchy, only mentioned at [[1Chr.5.13|1Ch.5.13]]; 
-- only referred to as Michael<[[H4317H]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יכ</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Abihail<[[H0032I]]>; 
-- a brother of Meshullam<[[H4918I]]>, Sheba<[[H7652G]]>, Jorai<[[H3140]]>, Jacan<[[H3275]]>, Zia<[[H2127]]> and Eber<[[H5677H]]>.
+- only referred to as Michael **<big>[[H4317|מִיכָאֵל]]</big>**; 
+-  son of Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**; 
+- a brother of Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Sheba **<big>[[H7652|שֶׁבַע]]</big>**, Jorai **<big>[[H3140|יוֹרַי]]</big>**, Jacan **<big>[[H3275|יַעְכָּן]]</big>**, Zia **<big>[[H2127|זִיעַ]]</big>** and Eber **<big>[[H5677|עֵבֵר]]</big>**.
 
 Michael is listed in the book of 1 Chronicles as one of the chiefs of the tribe of Gad during the reign of Jotham, king of Judah \([[1Chr.5.13|1Ch.5.13]]\). He is mentioned alongside his brothers: Meshullam, Sheba, Jorai, Jachan, Zia, and Eber. These seven Gadite chiefs are described as brave warriors, famous men, and heads of their fathers' houses \(1Ch.5.14\). The Gadites settled in the land of Bashan, east of the Jordan River, and were known for their valor and military prowess \(1Ch.5.18-22\). No further details about Michael's specific role, accomplishments, or lineage are provided in the biblical text. His mention serves to highlight the leadership structure and notable figures within the tribe of Gad during this period in Israel's history.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Michael | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יכ</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H4317H) <small>*Hebrew*</small> | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michael\*\|reference=1Ch.5.13) |
-All Strong's for **Michael**: \[[[H4317H]]\]
+| Michael | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יכ</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H4317H) | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michael\*\|reference=1Ch.5.13) |
+All entries for **Michael**:  **<big>[[H4317|מִיכָאֵל]]</big>**
 #### Related Profiles:
 - **[Abihail](H0032I)** (father)
 - **[Meshullam](H4918I)** (sibling)

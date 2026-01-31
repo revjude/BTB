@@ -12,21 +12,21 @@ To the chief Musician, Altaschith, A Psalm [or] Song of Asaph. Unto thee, O God,
 For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.<small><sub>**MT:**</sub></small>
 [[Ps.75.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.23|<< Psalm 74:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.2|Psalm 75:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will make acknowledgment | <big><span class="asgreek">εξομολογησόμεθά</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I shall make acknowledgment | <big><span class="asgreek">εξομολογησόμεθά</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall call upon | <big><span class="asgreek">επικαλεσόμεθα</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall describe | <big><span class="asgreek">διηγήσομαι</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wonders. | <big><span class="asgreek">θαυμάσιά</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will make acknowledgment | **<big>[[G1843\|εξομολογησόμεθά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| I shall make acknowledgment | **<big>[[G1843\|εξομολογησόμεθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall call upon | **<big>[[G1941\|επικαλεσόμεθα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name. | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall describe | **<big>[[G1334\|διηγήσομαι]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your wonders. | **<big>[[G2297\|θαυμάσιά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.75.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.23|<< Psalm 74:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.2|Psalm 75:2 >>]]</td></tr></table>
 
 

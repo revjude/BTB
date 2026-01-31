@@ -7,24 +7,24 @@ The purchase of the field and of the cave that [is] therein [was] from the child
 The field and the cave that is in it were purchased from the Hittites.”<small><sub>**MT:**</sub></small>
 [[Gen.49.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.31|<< Genesis 49:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.33|Genesis 49:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a property | <big><span class="asgreek">κτήσει</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field, | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cave | <big><span class="asgreek">σπηλαίου</span></big> <sup><small><small>[[G4693]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Heth. | <big><span class="asgreek">Χετ</span></big> <sup><small><small>[[H2845]]</small></small></sup> |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a property | **<big>[[G8111\|κτήσει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field, | **<big>[[G0068\|αγρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| cave | **<big>[[G4693\|σπηλαίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Heth. | **<big>[[H2845\|Χετ]]</big>** |
 [[Gen.49.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.31|<< Genesis 49:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.33|Genesis 49:33 >>]]</td></tr></table>
 
 

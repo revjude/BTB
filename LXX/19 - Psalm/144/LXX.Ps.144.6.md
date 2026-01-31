@@ -7,18 +7,18 @@ Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them
 Flash forth Your lightning and scatter them; shoot Your arrows and rout them.<small><sub>**MT:**</sub></small>
 [[Ps.144.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.5|<< Psalm 144:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.7|Psalm 144:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Flash | <big><span class="asgreek">άστραψον</span></big> <sup><small><small>[[G0797]]</small></small></sup> |
-| lightning! | <big><span class="asgreek">αστραπήν</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall disperse | <big><span class="asgreek">σκορπιείς</span></big> <sup><small><small>[[G4650]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Send out | <big><span class="asgreek">εξαπόστειλον</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your arrows! | <big><span class="asgreek">βέλη</span></big> <sup><small><small>[[G0956]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall disturb them. | <big><span class="asgreek">συνταράξεις</span></big> <sup><small><small>[[G9337]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Flash | **<big>[[G0797\|άστραψον]]</big>** |
+| lightning! | **<big>[[G0796\|αστραπήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall disperse | **<big>[[G4650\|σκορπιείς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Send out | **<big>[[G1821\|εξαπόστειλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your arrows! | **<big>[[G0956\|βέλη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall disturb them. | **<big>[[G9337\|συνταράξεις]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.144.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.5|<< Psalm 144:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.7|Psalm 144:7 >>]]</td></tr></table>
 
 

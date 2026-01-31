@@ -11,29 +11,29 @@ their voice has gone out into all the earth, their words to the ends of the worl
 > $\quad$ referenced by: [[Rom.10.18|Rom 10:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their knell; | <big><span class="asgreek">φθόγγος</span></big> <sup><small><small>[[G5353]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ends | <big><span class="asgreek">πέρατα</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένης</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their words. | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ηλίω</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| He put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tent | <big><span class="asgreek">σκήνωμα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Into | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their knell; | **<big>[[G5353\|φθόγγος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ends | **<big>[[G4009\|πέρατα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their words. | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| sun | **<big>[[G2246\|ηλίω]]</big>** |
+| He put | **<big>[[G5087\|έθετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his tent | **<big>[[G4638\|σκήνωμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.3|<< Psalm 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.5|Psalm 19:5 >>]]</td></tr></table>
 
 

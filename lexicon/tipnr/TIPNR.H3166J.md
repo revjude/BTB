@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jahaziel</span>, a Levite and descendant of Asaph, prophesied by the Spirit of the Lord that Jehoshaphat would have victory over his enemies \([[2Chr.20.14|2Ch.20.14]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.20.14|2Ch.20.14]]; 
-- only referred to as Jahaziel<[[H3166J]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
-- a son of Zechariah<[[H2148I]]>.
+- only referred to as Jahaziel **<big>[[H3166|יַחֲזִיאֵל]]</big>**; 
+- a son of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
 Jahaziel, son of Zechariah, is mentioned in [[2Chr.20.14|2 Chronicles 20:14]] as a Levite who prophesied during the reign of King Jehoshaphat of Judah. When Jehoshaphat and his people were faced with a great multitude of enemies from Ammon, Moab, and Mount Seir, they gathered to seek the Lord's help \(2Ch.20.1-13\). 
 
@@ -17,7 +17,7 @@ The prophecy of Jahaziel played a crucial role in this victory, as it reassured 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166J) <small>*Hebrew*</small> | 1x | [2Ch.20.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=2Ch.20.14) |
-All Strong's for **Jahaziel**: \[[[H3166J]]\]
+| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166J) | 1x | [2Ch.20.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=2Ch.20.14) |
+All entries for **Jahaziel**:  **<big>[[H3166|יַחֲזִיאֵל]]</big>**
 #### Related Profiles:
 - **[Zechariah](H2148I)** (father)

@@ -10,45 +10,45 @@ Then spake Elisha unto the woman, whose son he had restored to life, saying, Ari
 Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land.”<small><sub>**MT:**</sub></small>
 [[2Kgs.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was enlivened | <big><span class="asgreek">εζωπύρησε</span></big> <sup><small><small>[[G7614]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your household, | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sojourn | <big><span class="asgreek">παροίκει</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever \[place\] | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should \[want to\] sojourn! | <big><span class="asgreek">παροικήσης</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| has called | <big><span class="asgreek">κέκληκε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| a famine | <big><span class="asgreek">λιμόν</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be at hand | <big><span class="asgreek">παρέσται</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[for\] seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| of whom | **<big>[[G3739\|ης]]</big>** |
+| was enlivened | **<big>[[G7614\|εζωπύρησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go, | **<big>[[G4198\|πορεύου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your household, | **<big>[[G3624\|οίκος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sojourn | **<big>[[G3939\|παροίκει]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever \[place\] | **<big>[[G1437\|εάν]]</big>** |
+| you should \[want to\] sojourn! | **<big>[[G3939\|παροικήσης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| has called | **<big>[[G2564\|κέκληκε]]</big>** |
+| a famine | **<big>[[G3042\|λιμόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land; | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be at hand | **<big>[[G3918\|παρέσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \[for\] seven | **<big>[[G2033\|επτά]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[2Kgs.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 
 

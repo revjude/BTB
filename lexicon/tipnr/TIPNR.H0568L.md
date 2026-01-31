@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Amariah</span> was one of the Israelites who had married a foreign woman and agreed to put her away during Ezra's reforms. \([[Ezra.10.42|Ezr.10.42]]\)
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.42|Ezr.10.42]]; 
-- only referred to as Amariah<[[H0568L]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**.
 
 Amariah is mentioned in the context of Ezra's reforms in Jerusalem after the return from the Babylonian exile. Ezra, a priest and scribe, was deeply troubled upon learning that many Israelites, including priests and Levites, had intermarried with the neighboring peoples and adopted their practices. \(Ezr.9.1-2\) 
 
@@ -18,5 +18,5 @@ The mention of Amariah in this context highlights the importance of maintaining 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568L) <small>*Hebrew*</small> | 1x | [Ezr.10.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Ezr.10.42) |
-All Strong's for **Amariah**: \[[[H0568L]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568L) | 1x | [Ezr.10.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Ezr.10.42) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**

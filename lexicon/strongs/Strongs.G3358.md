@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎μέτρον‎</span></big> **métron** <small>*(met'-ron)*</small> ==**measure**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+**<big><span class="asgreek">‎μέτρον‎</span></big>** **métron** <small>*(met'-ron)*</small> ==**measure**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
 <small>an apparently primary word</small>
 
 $\quad$  measure.

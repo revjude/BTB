@@ -7,41 +7,41 @@ And all the men of Judah answered the men of Israel, Because the king [is] near 
 And all the men of Judah replied to the men of Israel, “We did this because the king is our relative. Why does this anger you? Have we ever eaten at the king’s expense or received anything for ourselves?”<small><sub>**MT:**</sub></small>
 [[2Sam.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.41|<< 2 Samuel 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.43|2 Samuel 19:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρασιν</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| is a near \[relative\] | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you are enraged | <big><span class="asgreek">εθυμώθης</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter? | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in eating | <big><span class="asgreek">εσθίοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| have we eaten | <big><span class="asgreek">βεβρώκαμέν</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| any | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| food | <big><span class="asgreek">βρώμα</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a gift | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| given | <big><span class="asgreek">δέδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρασιν]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπον]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| is a near \[relative\] | **<big>[[G1448\|εγγίζει]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| \[is\] this | **<big>[[G3778\|τούτο]]</big>** |
+| you are enraged | **<big>[[G2373\|εθυμώθης]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter? | **<big>[[G3056\|λόγου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| in eating | **<big>[[G2068\|εσθίοντες]]</big>** |
+| have we eaten | **<big>[[G0977\|βεβρώκαμέν]]</big>** |
+| any | **<big>[[G5100\|τι]]</big>** |
+| food | **<big>[[G1035\|βρώμα]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a gift | **<big>[[G1390\|δόμα]]</big>** |
+| given | **<big>[[G1325\|δέδωκεν]]</big>** |
+| to us? | **<big>[[G1473\|ημίν]]</big>** |
 [[2Sam.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.41|<< 2 Samuel 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.43|2 Samuel 19:43 >>]]</td></tr></table>
 
 

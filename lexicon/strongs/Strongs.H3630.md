@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּלְיוֹן‎</span></big> **Kilyôwn** <small>*(kil-yone')*</small> ==**Chilion**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎כִּלָּיוֹן‎</span><sup><small>[[H3631]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּלְיוֹן‎</span></big>** **Kilyôwn** <small>*(kil-yone')*</small> ==**Chilion**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3631|‎כִּלָּיוֹן‎]]</big>**</small>
 
 $\quad$ Chilion.
 - § Chilion = *"pining"*

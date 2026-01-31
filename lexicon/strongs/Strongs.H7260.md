@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רַבְרַב‎</span></big> **rabrab** <small>*(rab-rab')*</small> ==**great**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎רַב‎</span><sup><small>[[H7229]]</small></sup></small>
+**<big><span class="asaramaic">‎רַבְרַב‎</span></big>** **rabrab** <small>*(rab-rab')*</small> ==**great**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) from **<big>[[H7229|‎רַב‎]]</big>**</small>
 
 $\quad$ (very) great (things).
 - ***huge*** (in size)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָיְהוּ‎</span></big> **Mîykâyᵉhûw** <small>*(me-kaw-yeh-hoo')*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מִכָיְהוּ</span> **Mikâyᵉhûw** <small>*(me-kaw-yeh-hoo')*</small>; (Jeremiah 36:11), abbreviated form for <span class="ashebrew">‎מִיכָיָהוּ‎</span><sup><small>[[H4322]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיכָיְהוּ‎</span></big>** **Mîykâyᵉhûw** <small>*(me-kaw-yeh-hoo')*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִכָיְהוּ</span></big>** **Mikâyᵉhûw** <small>*(me-kaw-yeh-hoo')*</small>; (Jeremiah 36:11), abbreviated form for **<big>[[H4322|‎מִיכָיָהוּ‎]]</big>**</small>
 
 $\quad$ Micah, Micaiah, Michaiah.
 - § Micah or Micaiah or Michaiah = *"who is like God"*

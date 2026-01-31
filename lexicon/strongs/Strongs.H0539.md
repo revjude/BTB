@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָמַן‎</span></big> **ʼâman** <small>*(aw-man')*</small> ==**be faithful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; (Isaiah 30:21; interchangeable with <span class="ashebrew">‎אָמַן‎</span><sup><small>[[H0541]]</small></sup>, to go to the right hand)</small>
+**<big><span class="ashebrew">‎אָמַן‎</span></big>** **ʼâman** <small>*(aw-man')*</small> ==**be faithful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; (Isaiah 30:21; interchangeable with **<big>[[H0541|‎אָמַן‎]]</big>**, to go to the right hand)</small>
 
 $\quad$ hence, assurance, believe, bring up, establish, [phrase] fail, be faithful (of long continuance, stedfast, sure, surely, trusty, verified), nurse, (-ing father), (put), trust, turn to the right.
 - properly, ***to build up*** or ***support***
@@ -25,4 +25,4 @@ $\quad$ $\quad$ **1c1)** to stand firm, to trust, to be certain, to believe in
 $\quad$ $\quad$ $\quad$ **1c1a)** stand firm
 $\quad$ $\quad$ $\quad$ **1c1b)** trust, believe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πιστός</span><sup><small>[[G4103]]</small></sup>
+<small>See Greek: </small>**<big>[[G4103|πιστός]]</big>**

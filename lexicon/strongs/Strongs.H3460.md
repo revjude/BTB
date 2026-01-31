@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׁמַעְיָה‎</span></big> **Yishmaʻyâh** <small>*(yish-mah-yaw')*</small> ==**Ishmaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יִשְׁמַעְיָהוּ</span> **Yishmaʻyâhûw** <small>*(yish-mah-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will hear</small>
+**<big><span class="ashebrew">‎יִשְׁמַעְיָה‎</span></big>** **Yishmaʻyâh** <small>*(yish-mah-yaw')*</small> ==**Ishmaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יִשְׁמַעְיָהוּ</span></big>** **Yishmaʻyâhûw** <small>*(yish-mah-yaw'-hoo)*</small>; from **<big>[[H8085|‎שָׁמַע‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will hear</small>
 
 $\quad$ Ishmaiah.
 - § Ishmaiah = *"Jehovah will hear"*

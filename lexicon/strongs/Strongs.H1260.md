@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּרֶד‎</span></big> **Bered** <small>*(beh'red)*</small> ==**Bered**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּרַד‎</span><sup><small>[[H1258]]</small></sup>; hail</small>
+**<big><span class="ashebrew">‎בֶּרֶד‎</span></big>** **Bered** <small>*(beh'red)*</small> ==**Bered**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1258|‎בָּרַד‎]]</big>**; hail</small>
 
 $\quad$ Bered.
 - § Bered = *"hail"*

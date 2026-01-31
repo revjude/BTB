@@ -7,58 +7,58 @@ Our father died in the wilderness, and he was not in the company of them that ga
 “Our father died in the wilderness, but he was not among the followers of Korah who gathered together against the LORD. Instead, he died because of his own sin, and he had no sons.<small><sub>**MT:**</sub></small>
 [[Num.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.2|<< Numbers 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.4|Numbers 27:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Our father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones rising up together | <big><span class="asgreek">επισυστάσης</span></big> <sup><small><small>[[G7458]]</small></small></sup> |
-| against | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of Korah; | <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| his sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be wiped away | <big><span class="asgreek">εξαλειφθήτω</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his people! | <big><span class="asgreek">δήμου</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a son to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a possession | <big><span class="asgreek">κατάσχεσιν</span></big> <sup><small><small>[[G2697]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] brothers | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of our father! | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Our father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| died | **<big>[[G0599\|απέθανεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ones rising up together | **<big>[[G7458\|επισυστάσης]]</big>** |
+| against | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγή]]</big>** |
+| of Korah; | **<big>[[G2879\|Κορέ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| his sin | **<big>[[G0266\|αμαρτίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| no | **<big>[[G3756\|ουκ]]</big>** |
+| there were | **<big>[[G1096\|εγένοντο]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| be wiped away | **<big>[[G1813\|εξαλειφθήτω]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of our father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his people! | **<big>[[G1218\|δήμου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| a son to him. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G5207\|υιός]]</big>** |
+| Give | **<big>[[G1325\|δότε]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| a possession | **<big>[[G2697\|κατάσχεσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] brothers | **<big>[[G0080\|αδελφών]]</big>** |
+| of our father! | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Num.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.2|<< Numbers 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.4|Numbers 27:4 >>]]</td></tr></table>
 
 

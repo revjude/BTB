@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֶרֶט‎</span></big> **chereṭ** <small>*(kheh'-ret)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֶרֶט‎</span></big>** **chereṭ** <small>*(kheh'-ret)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from a primitive root meaning to engrave</small>
 
 $\quad$ graving tool, pen.

@@ -7,40 +7,40 @@ When thy sisters, Sodom and her daughters, shall return to their former estate, 
 And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state. You and your daughters will also return to your former state.<small><sub>**MT:**</sub></small>
 [[Ezek.16.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.54|<< Ezekiel 16:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.56|Ezekiel 16:56 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sodom | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be restored | <big><span class="asgreek">αποκατασταθήσονται</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμάρεια</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be restored | <big><span class="asgreek">αποκατασταθήσονται</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be restored | <big><span class="asgreek">αποκατασταθήσεσθε</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| you were | <big><span class="asgreek">ήτε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your sister | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Sodom | **<big>[[G4670\|Σόδομα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall be restored | **<big>[[G0600\|αποκατασταθήσονται]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning. | **<big>[[G0746\|αρχής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμάρεια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall be restored | **<big>[[G0600\|αποκατασταθήσονται]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning. | **<big>[[G0746\|αρχής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be restored | **<big>[[G0600\|αποκατασταθήσεσθε]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| you were | **<big>[[G1510\|ήτε]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning. | **<big>[[G0746\|αρχής]]</big>** |
 [[Ezek.16.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.54|<< Ezekiel 16:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.56|Ezekiel 16:56 >>]]</td></tr></table>
 
 

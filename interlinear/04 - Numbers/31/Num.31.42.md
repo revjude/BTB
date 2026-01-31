@@ -6,17 +6,17 @@ From the Israelites’ half, which Moses had set apart from the men who had gone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and from [the] half of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מַּחֲצִ֖ית </big></span><small><small><sup>[[H4276]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mi. <small><sup>[[HR]]</sup></small> ma.cha.Tzit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר֙ </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had divided  | <span class="ashebrew"><big>חָצָ֣ה </big></span><small><small><sup>[[H2673]]</sup></small></small> &#8207;| cha.Tzah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the men  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲנָשִׁ֖ים </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who had gone to war  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צֹּבְאִֽים </big></span><small><small><sup>[[H6633]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tzoe.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] half of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4276\|מַּחֲצִ֖ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.cha.Tzit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had divided  |**<big>&#8207;[[H2673\|חָצָ֣ה]]&#8207; </big>**| cha.Tzah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who had gone to war  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6633\|צֹּבְאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzoe.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 
 

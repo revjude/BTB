@@ -7,30 +7,30 @@ And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the comman
 “You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time.<small><sub>**MT:**</sub></small>
 [[1Sam.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| It is folly | <big><span class="asgreek">μεματαίωταί</span></big> <sup><small><small>[[G3154]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you kept not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εφύλαξας</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandment | <big><span class="asgreek">εντολήν</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> prepared | <big><span class="asgreek">ητοίμασε</span></big> <sup><small><small>[[G2090]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| It is folly | **<big>[[G3154\|μεματαίωταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you kept not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5442\|εφύλαξας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my commandment | **<big>[[G1785\|εντολήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> prepared | **<big>[[G2090\|ητοίμασε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your kingdom | **<big>[[G0932\|βασιλείαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[1Sam.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 
 

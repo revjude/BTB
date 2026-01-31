@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוּף‎</span></big> **ʻûwph** <small>*(oof)*</small> ==**to fly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; to cover (with wings or obscurity); hence (as denominative from <span class="ashebrew">‎עוֹף‎</span><sup><small>[[H5775]]</small></sup>)</small>
+**<big><span class="ashebrew">‎עוּף‎</span></big>** **ʻûwph** <small>*(oof)*</small> ==**to fly**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to cover (with wings or obscurity); hence (as denominative from **<big>[[H5775|‎עוֹף‎]]</big>**)</small>
 
 $\quad$ brandish, be (wax) faint, flee away, fly (away), [idiom] set, shine forth, weary.
 - ***to fly***
@@ -19,4 +19,4 @@ $\quad$ **1d)** (Hithpolel) to fly away
 n f
 **3)** gloom
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποστέλλω</span><sup><small>[[G0649]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ἐκπετάννυμι</span><sup><small>[[G1600]]</small></sup> · <span class="asgreek">ἐκψύχω</span><sup><small>[[G1634]]</small></sup> · <span class="asgreek">ἐφίστημι</span><sup><small>[[G2186]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">πέτομαι</span><sup><small>[[G4072]]</small></sup>
+<small>See Greek: </small>**<big>[[G0649|ἀποστέλλω]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G1600|ἐκπετάννυμι]]</big>** · **<big>[[G1634|ἐκψύχω]]</big>** · **<big>[[G2186|ἐφίστημι]]</big>** · **<big>[[G2872|κοπιάω]]</big>** · **<big>[[G4072|πέτομαι]]</big>**

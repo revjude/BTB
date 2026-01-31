@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּסַס‎</span></big> **pâçaç** <small>*(paw-sas')*</small> ==**to disappear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּסַס‎</span></big>** **pâçaç** <small>*(paw-sas')*</small> ==**to disappear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cease.

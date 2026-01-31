@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כּוּן‎</span> <small>***(kun)***</small> ==**to establish: right**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H3559A]]</small> 
+<small>meaning of:</small> <small>**<big>[[H3559A|כּוּן]]</big>**</small> 
 
 - : right/know/certain

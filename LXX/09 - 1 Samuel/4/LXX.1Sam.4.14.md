@@ -7,31 +7,31 @@ And when Eli heard the noise of the crying, he said, What [meaneth] the noise of
 Eli heard the outcry and asked, “Why this commotion?” So the man hurried over and reported to Eli.<small><sub>**MT:**</sub></small>
 [[1Sam.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.13|<< 1 Samuel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.15|1 Samuel 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eli heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yelling, | <big><span class="asgreek">βοής</span></big> <sup><small><small>[[G0995]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of yelling | <big><span class="asgreek">βοής</span></big> <sup><small><small>[[G0995]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| hastening, | <big><span class="asgreek">σπεύσας</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reported | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Eli. | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Eli heard | **<big>[[G0191\|ήκουσεν]]</big>** **<big>[[G2242\|Ηλί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| yelling, | **<big>[[G0995\|βοής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| What \[is\] | **<big>[[G5100\|τις]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of yelling | **<big>[[G0995\|βοής]]</big>** |
+| this | **<big>[[G3778\|ταύτης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| hastening, | **<big>[[G4692\|σπεύσας]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reported | **<big>[[G0518\|απήγγειλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Eli. | **<big>[[G2242\|Ηλί]]</big>** |
 [[1Sam.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.13|<< 1 Samuel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.15|1 Samuel 4:15 >>]]</td></tr></table>
 
 

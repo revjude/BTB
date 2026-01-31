@@ -10,63 +10,63 @@ Now when all this was finished, all Israel that were present went out to the cit
 When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property.<small><sub>**MT:**</sub></small>
 [[2Chr.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.27|<< 2 Chronicles 30:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.2|2 Chronicles 31:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| were completed | <big><span class="asgreek">συνετελέσθη</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέντες</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they broke | <big><span class="asgreek">συνέτριψαν</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| monuments, | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knocked down | <big><span class="asgreek">εξέκοψαν</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred groves, | <big><span class="asgreek">άλση</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tore down | <big><span class="asgreek">κατέσπασαν</span></big> <sup><small><small>[[G7924]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\], | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| demolished | <big><span class="asgreek">καθείλον</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altars | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judea, | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| completion. | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| returned | <big><span class="asgreek">επέστρεψαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance, | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cities. | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| were completed | **<big>[[G4931\|συνετελέσθη]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they broke | **<big>[[G4937\|συνέτριψαν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| monuments, | **<big>[[G9171\|στήλας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| knocked down | **<big>[[G1581\|εξέκοψαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sacred groves, | **<big>[[G6242\|άλση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tore down | **<big>[[G7924\|κατέσπασαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| high \[places\], | **<big>[[G5308\|υψηλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| demolished | **<big>[[G2507\|καθείλον]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| altars | **<big>[[G2379\|θυσιαστήρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Judea, | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| completion. | **<big>[[G4930\|συντέλειαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| returned | **<big>[[G1994\|επέστρεψαν]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his inheritance, | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their cities. | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[2Chr.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.27|<< 2 Chronicles 30:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.2|2 Chronicles 31:2 >>]]</td></tr></table>
 
 

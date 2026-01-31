@@ -1,4 +1,4 @@
-<small>Also see: [[H7333]]</small>
+<small>Also see: **<big>[[H7333|רָזוֹן]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎רָזוֺן‎</span> **noun [masculine]** ==leanness, wasting, scantness==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span>: 
 

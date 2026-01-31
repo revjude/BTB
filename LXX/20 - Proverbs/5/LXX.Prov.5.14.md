@@ -7,19 +7,19 @@ I was almost in all evil in the midst of the congregation and assembly.
 I am on the brink of utter ruin in the midst of the whole assembly.”<small><sub>**MT:**</sub></small>
 [[Prov.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.13|<< Proverbs 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.15|Proverbs 5:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| I came | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| unto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακώ</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst of | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \[the\] assembly | <big><span class="asgreek">εκκλησίας</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| congregation. | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| By | **<big>[[G3844\|παρ΄]]</big>** |
+| little | **<big>[[G3641\|ολίγον]]</big>** |
+| I came | **<big>[[G1096\|εγενόμην]]</big>** |
+| unto | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| evil | **<big>[[G2556\|κακώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst of | **<big>[[G3319\|μέσω]]</big>** |
+| \[the\] assembly | **<big>[[G1577\|εκκλησίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| congregation. | **<big>[[G4864\|συναγωγής]]</big>** |
 [[Prov.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.13|<< Proverbs 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.15|Proverbs 5:15 >>]]</td></tr></table>
 
 

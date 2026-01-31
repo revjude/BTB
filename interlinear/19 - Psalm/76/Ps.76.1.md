@@ -6,14 +6,14 @@ For the choirmaster. With stringed instruments. A Psalm of Asaph. A song. God is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.0|<< Psalms 76:0]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.2|Psalms 76:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] known  | <span class="ashebrew"><big>נוֹדָ֣ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| no.Da' <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Judah  | <span class="ashebrew"><big>בִּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוּדָ֣ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֑ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Israel  | <span class="ashebrew"><big>בְּ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֗ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] great  | <span class="ashebrew"><big>גָּד֥וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  | <span class="ashebrew"><big>שְׁמֽ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] known  |**<big>&#8207;[[H3045\|נוֹדָ֣ע]]&#8207; </big>**| no.Da'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֣ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  |**<big>&#8207;[[H9003\|בְּ֝]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] great  |**<big>&#8207;[[H1419A\|גָּד֥וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.0|<< Psalms 76:0]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.2|Psalms 76:2 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my h
 Abram continued, “Behold, You have given me no offspring, so a servant in my household will be my heir.”<small><sub>**MT:**</sub></small>
 [[Gen.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.2|<< Genesis 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.4|Genesis 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abram said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| Since | <big><span class="asgreek">επειδή</span></big> <sup><small><small>[[G1894]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you gave not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a seed, | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| then | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my native-born servant | <big><span class="asgreek">οικογενής</span></big> <sup><small><small>[[G8456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be heir | <big><span class="asgreek">κληρονομήσει</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| to me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abram said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0087\|Άβραμ]]</big>** |
+| Since | **<big>[[G1894\|επειδή]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| you gave not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1325\|έδωκας]]</big>** |
+| a seed, | **<big>[[G4690\|σπέρμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| then | **<big>[[G1161\|δε]]</big>** |
+| my native-born servant | **<big>[[G8456\|οικογενής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will be heir | **<big>[[G2816\|κληρονομήσει]]</big>** |
+| to me. | **<big>[[G1473\|με]]</big>** |
 [[Gen.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.2|<< Genesis 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.4|Genesis 15:4 >>]]</td></tr></table>
 
 

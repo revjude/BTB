@@ -6,14 +6,14 @@ lest he who hears you bring shame upon you, and your infamy never go away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.9|<< Proverbs 25:9]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.11|Proverbs 25:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| lest  | <span class="ashebrew"><big>פֶּֽן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he should bring shame you  | <span class="ashebrew"><big>יְחַסֶּדְ </big></span><small><small><sup>[[H2616B]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ye.cha.sed. <small><sup>[[HVpi3ms]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] hears  | <span class="ashebrew"><big>שֹׁמֵ֑עַ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sho.Me.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and evil report your  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דִבָּתְ </big></span><small><small><sup>[[H1681]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> di.ba.te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will turn back  | <span class="ashebrew"><big>תָשֽׁוּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Shuv <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he should bring shame you  |**<big>&#8207;[[H2616B\|יְחַסֶּדְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| ye.cha.sed.<small><sup>[[HVpi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] hears  |**<big>&#8207;[[H8085G\|שֹׁמֵ֑עַ]]&#8207; </big>**| sho.Me.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and evil report your  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1681\|דִבָּתְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> di.ba.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will turn back  |**<big>&#8207;[[H7725G\|תָשֽׁוּב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.9|<< Proverbs 25:9]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.11|Proverbs 25:11 >>]]</td></tr></table>
 
 

@@ -7,48 +7,48 @@ And the priest shall set the woman before the LORD, and uncover the woman’s he
 After the priest has the woman stand before the LORD, he is to let down her hair and place in her hands the grain offering of memorial, which is the grain offering for jealousy. The priest is to hold the bitter water that brings a curse.<small><sub>**MT:**</sub></small>
 [[Num.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.17|<< Numbers 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.19|Numbers 5:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall uncover | <big><span class="asgreek">αποκαλύψει</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of memorial, | <big><span class="asgreek">μνημοσύνου</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of jealousy; | <big><span class="asgreek">ζηλοτυπίας</span></big> <sup><small><small>[[G7600]]</small></small></sup> |
-| but in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of rebuke, | <big><span class="asgreek">ελεγμού</span></big> <sup><small><small>[[G6031]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| accursing | <big><span class="asgreek">επικαταρώμενον</span></big> <sup><small><small>[[G7414]]</small></small></sup> |
-| this. | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall stand | **<big>[[G2476\|στήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall uncover | **<big>[[G0601\|αποκαλύψει]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| woman, | **<big>[[G1135\|γυναικός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of memorial, | **<big>[[G3422\|μνημοσύνου]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of jealousy; | **<big>[[G7600\|ζηλοτυπίας]]</big>** |
+| but in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of rebuke, | **<big>[[G6031\|ελεγμού]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| accursing | **<big>[[G7414\|επικαταρώμενον]]</big>** |
+| this. | **<big>[[G3778\|τούτο]]</big>** |
 [[Num.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.17|<< Numbers 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.19|Numbers 5:19 >>]]</td></tr></table>
 
 

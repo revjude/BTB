@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָתַת‎</span></big> **châthath** <small>*(khaw-thath')*</small> ==**to to be dismayed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָתַת‎</span></big>** **châthath** <small>*(khaw-thath')*</small> ==**to to be dismayed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abolish, affright, be (make) afraid, amaze, beat down, discourage, (cause to) dismay, go down, scare, terrify.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1d1)** to cause to be dismayed
 $\quad$ $\quad$ **1d2)** to dismay, terrify
 $\quad$ $\quad$ **1d3)** to shatter
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενής</span><sup><small>[[G0772]]</small></sup> · <span class="asgreek">δειλιάω</span><sup><small>[[G1168]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">ἡττάω</span><sup><small>[[G2274]]</small></sup> · <span class="asgreek">καταλλάσσω</span><sup><small>[[G2644]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup> · <span class="asgreek">πτοέω</span><sup><small>[[G4422]]</small></sup> · <span class="asgreek">στέλλω</span><sup><small>[[G4724]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup> · <span class="asgreek">φοβέω</span><sup><small>[[G5399]]</small></sup>
+<small>See Greek: </small>**<big>[[G0772|ἀσθενής]]</big>** · **<big>[[G1168|δειλιάω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G2274|ἡττάω]]</big>** · **<big>[[G2644|καταλλάσσω]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G3886|παραλύω]]</big>** · **<big>[[G4422|πτοέω]]</big>** · **<big>[[G4724|στέλλω]]</big>** · **<big>[[G4937|συντρίβω]]</big>** · **<big>[[G5399|φοβέω]]</big>**

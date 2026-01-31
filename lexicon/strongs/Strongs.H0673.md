@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶפְרָתִי‎</span></big> **ʼEphrâthîy** <small>*(ef-rawth-ee')*</small> ==**Ephraimite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎אֶפְרָת‎</span><sup><small>[[H0672]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶפְרָתִי‎</span></big>** **ʼEphrâthîy** <small>*(ef-rawth-ee')*</small> ==**Ephraimite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patrial from **<big>[[H0672|‎אֶפְרָת‎]]</big>**</small>
 
 $\quad$ Ephraimite, Ephrathite.
 - § Ephrathite = *"ashiness: fruitfulness"*

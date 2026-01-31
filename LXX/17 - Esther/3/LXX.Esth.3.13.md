@@ -7,32 +7,32 @@ And the letters were sent by posts into all the king’s provinces, to destroy, 
 And the letters were sent by couriers to each of the royal provinces with the order to destroy, kill, and annihilate all the Jews—young and old, women and children—and to plunder their possessions on a single day, the thirteenth day of Adar, the twelfth month.<small><sub>**MT:**</sub></small>
 [[Esth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was sent | <big><span class="asgreek">απεστάλη</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| couriers | <big><span class="asgreek">βιβλιοφόρων</span></big> <sup><small><small>[[G6674]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom of Artaxerxes, | <big><span class="asgreek">Αρταξέρξου</span></big> <sup><small><small>[[H0783b]]</small></small></sup> <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| to remove | <big><span class="asgreek">αφανίσαι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| race | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| of \[the\] twelfth | <big><span class="asgreek">δωδεκάτου</span></big> <sup><small><small>[[G1428]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Adar, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to plunder | <big><span class="asgreek">διαρπάσαι</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their possessions. | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was sent | **<big>[[G0649\|απεστάλη]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| couriers | **<big>[[G6674\|βιβλιοφόρων]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| kingdom of Artaxerxes, | **<big>[[H0783b\|Αρταξέρξου]]</big>** **<big>[[G0932\|βασιλείαν]]</big>** |
+| to remove | **<big>[[G0853\|αφανίσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| race | **<big>[[G1085\|γένος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίων]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| of \[the\] twelfth | **<big>[[G1428\|δωδεκάτου]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| Adar, | **<big>[[G6135\|Αδάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to plunder | **<big>[[G1283\|διαρπάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their possessions. | **<big>[[G5225\|υπάρχοντα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Esth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 
 

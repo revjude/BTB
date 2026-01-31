@@ -7,42 +7,42 @@ Then all the men which knew that their wives had burned incense unto other gods,
 Then all the men who knew that their wives were burning incense to other gods, and all the women standing by—a great assembly—along with all the people living in the land of Egypt and in Pathros, said to Jeremiah,<small><sub>**MT:**</sub></small>
 [[Jer.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.14|<< Jeremiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.16|Jeremiah 44:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeremiah -- | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γνόντες</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| burned incense | <big><span class="asgreek">θυμιώσιν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to other | <big><span class="asgreek">ετέροις</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| settling down | <big><span class="asgreek">καθήμενοι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Pathros, | <big><span class="asgreek">Παθούρης</span></big> <sup><small><small>[[H6624]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they answered | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jeremiah -- | **<big>[[G2408\|Ιερεμία]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| knowing | **<big>[[G1097\|γνόντες]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| burned incense | **<big>[[G2370\|θυμιώσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their wives | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| to other | **<big>[[G2087\|ετέροις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| women, | **<big>[[G1135\|γυναίκες]]</big>** |
+| gathering | **<big>[[G4864\|συναγωγή]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| settling down | **<big>[[G2521\|καθήμενοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Pathros, | **<big>[[H6624\|Παθούρης]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
 [[Jer.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.14|<< Jeremiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.16|Jeremiah 44:16 >>]]</td></tr></table>
 
 

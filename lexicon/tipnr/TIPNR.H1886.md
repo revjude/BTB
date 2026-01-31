@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Dothan</span>, a place where Joseph found his brothers and was later sold into slavery \(Genesis 37:17\).
 - A location first mentioned at Gen.37.17; 
-- only referred to as Dothan<[[H1886]]> \(<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Dothan **<big>[[H1886|דֹּתָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.42064338380848,35.18019829952955&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dothan was a place located in the territory of Israel, mentioned in two signific
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dothan | [<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1886) <small>*Hebrew*</small> | 3x | [[Gen.37.17a] ... [2Ki.6.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dothan\*\|reference=Gen.37.17;Gen.37.17;2Ki.6.13) |
-All Strong's for **Dothan**: \[[[H1886]]\]
+| Dothan | [<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1886) | 3x | [[Gen.37.17a] ... [2Ki.6.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dothan\*\|reference=Gen.37.17;Gen.37.17;2Ki.6.13) |
+All entries for **Dothan**:  **<big>[[H1886|דֹּתָן]]</big>**

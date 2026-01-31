@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׂלְמָה‎</span></big> **salmâh** <small>*(sal-maw')*</small> ==**garment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>transp. for <span class="ashebrew">‎שִׂמְלָה‎</span><sup><small>[[H8071]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׂלְמָה‎</span></big>** **salmâh** <small>*(sal-maw')*</small> ==**garment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>transp. for **<big>[[H8071|‎שִׂמְלָה‎]]</big>**</small>
 
 $\quad$ clothes, garment, raiment.
 - ***a dress***
@@ -7,4 +7,4 @@ $\quad$ clothes, garment, raiment.
 **1)** garment, outer garment, wrapper, mantle
 $\quad$ **1a)** garment, outer garment
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἱμάτιον</span><sup><small>[[G2440]]</small></sup> · <span class="asgreek">ἱματισμός</span><sup><small>[[G2441]]</small></sup> · <span class="asgreek">στολή</span><sup><small>[[G4749]]</small></sup>
+<small>See Greek: </small>**<big>[[G2440|ἱμάτιον]]</big>** · **<big>[[G2441|ἱματισμός]]</big>** · **<big>[[G4749|στολή]]</big>**

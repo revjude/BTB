@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κραυγή</span></span>, <span class="asgreek">-ῆς, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">צְעָקָה</span> <small><sup>[[H6818]]</sup></small>, <span class="ashebrew">תְּרוּעָה</span> <small><sup>[[H8643]]</sup></small>, <span class="ashebrew">שַׁוְעָה</span> <small><sup>[[H7775]]</sup></small>, etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κραυγή</span></span>, <span class="asgreek">-ῆς, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H6818|צְעָקָה]]</big>**, **<big>[[H8643|תְּרוּעָה]]</big>**, **<big>[[H7775|שַׁוְעָה]]</big>**, etc.;\]</span> </span>
 <span class="asitalic">crying</span>, <span class="asitalic">outcry</span>, <span class="asitalic">clamour</span>: [[Matt.25.6|Mt 25:6]], [[Luke.1.42|Lk 1:42]], [[Acts.23.9|Ac 23:9]], [[Eph.4.31|Eph 4:31]], [[Heb.5.7|He 5:7]], [[Rev.21.4|Re 21:4]].†
 
 **Abbott-Smith References**

@@ -7,18 +7,18 @@ He suffered no man to do them wrong: yea, he reproved kings for their sakes;
 He let no man oppress them; He rebuked kings on their behalf:<small><sub>**MT:**</sub></small>
 [[Ps.105.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.13|<< Psalm 105:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.15|Psalm 105:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| let | <big><span class="asgreek">αφήκεν</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| wrong | <big><span class="asgreek">αδικήσαι</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he reproved | <big><span class="asgreek">ηλέγξεν</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| He did not | **<big>[[G3756\|ουκ]]</big>** |
+| let | **<big>[[G0863\|αφήκεν]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| wrong | **<big>[[G0091\|αδικήσαι]]</big>** |
+| them; | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he reproved | **<big>[[G1651\|ηλέγξεν]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
 [[Ps.105.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.13|<< Psalm 105:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.15|Psalm 105:15 >>]]</td></tr></table>
 
 

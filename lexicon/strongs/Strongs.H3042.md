@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְדָיָה‎</span></big> **Yᵉdâyâh** <small>*(yed-aw-yaw')*</small> ==**Jedaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; praised of Jah</small>
+**<big><span class="ashebrew">‎יְדָיָה‎</span></big>** **Yᵉdâyâh** <small>*(yed-aw-yaw')*</small> ==**Jedaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3034|‎יָדָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; praised of Jah</small>
 
 $\quad$ Jedaiah.
 - § Jedaiah = *"praised of Jehovah"*

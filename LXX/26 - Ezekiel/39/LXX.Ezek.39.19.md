@@ -11,24 +11,24 @@ At the sacrifice I am preparing, you will eat fat until you are gorged and drink
 > $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| fullness, | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall drink | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| intoxication | <big><span class="asgreek">μέθην</span></big> <sup><small><small>[[G3178]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I sacrificed | <big><span class="asgreek">έθυσα</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| fat | **<big>[[G9155\|στέαρ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| fullness, | **<big>[[G4140\|πλησμονήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall drink | **<big>[[G4095\|πίεσθε]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| intoxication | **<big>[[G3178\|μέθην]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my sacrifice | **<big>[[G2378\|θυσίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| I sacrificed | **<big>[[G2380\|έθυσα]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Ezek.39.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יִשִּׁיָּהוּ‎</span> <small>***(yish.shiy.yah)***</small> ==**Isshiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.23.20|1Ch.23.20]]
--  son of: Uzziel ([[H5816]])
--  brother of: Mishael ([[H4332]]), Elizaphan ([[H0469]]), Sithri ([[H5644]]) and Micah ([[H4318J]])
--  father of: Zechariah ([[H2148E]])
+-  son of: Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+-  brother of: Mishael (**<big>[[H4332|מִישָׁאֵל]]</big>**), Elizaphan (**<big>[[H0469|אֱלִיצָפָן]]</big>**), Sithri (**<big>[[H5644|סִתְרִי]]</big>**) and Micah (**<big>[[H4318J|מִיכָה]]</big>**)
+-  father of: Zechariah (**<big>[[H2148E|זְכַרְיָה]]</big>**)

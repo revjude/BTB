@@ -7,35 +7,35 @@ He will surely violently turn and toss thee [like] a ball into a large country: 
 roll you into a ball, and sling you into a wide land. There you will die, and there your glorious chariots will remain—a disgrace to the house of your master.<small><sub>**MT:**</sub></small>
 [[Isa.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.17|<< Isaiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.19|Isaiah 22:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will toss | <big><span class="asgreek">ρίψει</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unmeasured | <big><span class="asgreek">αμέτρητον</span></big> <sup><small><small>[[G6258]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| you shall die; | <big><span class="asgreek">αποθανείς</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will establish | <big><span class="asgreek">θήσει</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρμα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| dishonor, | <big><span class="asgreek">άτιμιαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your ruler | <big><span class="asgreek">άρχοντός</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| trampling. | <big><span class="asgreek">καταπάτημα</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| will toss | **<big>[[G4496\|ρίψει]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5561\|χώραν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unmeasured | **<big>[[G6258\|αμέτρητον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| you shall die; | **<big>[[G0599\|αποθανείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will establish | **<big>[[G5087\|θήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| chariot | **<big>[[G0716\|άρμα]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| dishonor, | **<big>[[G0819\|άτιμιαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your ruler | **<big>[[G0758\|άρχοντός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| trampling. | **<big>[[G7888\|καταπάτημα]]</big>** |
 [[Isa.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.17|<< Isaiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.19|Isaiah 22:19 >>]]</td></tr></table>
 
 

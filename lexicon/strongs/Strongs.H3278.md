@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָעֵל‎</span></big> **Yâʻêl** <small>*(yaw-ale')*</small> ==**Jael**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יָעֵל‎</span><sup><small>[[H3277]]</small></sup></small>
+**<big><span class="ashebrew">‎יָעֵל‎</span></big>** **Yâʻêl** <small>*(yaw-ale')*</small> ==**Jael**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H3277|‎יָעֵל‎]]</big>**</small>
 
 $\quad$ Jael.
 - § Jael = *"mountain goat"*

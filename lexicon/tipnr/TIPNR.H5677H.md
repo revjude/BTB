@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Eber</span> was a Gadite chief during the reign of Jotham, king of Judah, mentioned in the genealogy of Gad. \([[1Chr.5.13|1Ch.5.13]]\)
 - A man from the tribe of Gad  living at the time of Divided Monarchy, only mentioned at [[1Chr.5.13|1Ch.5.13]]; 
-- only referred to as Eber<[[H5677H]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Abihail<[[H0032I]]>; 
-- a brother of Michael<[[H4317H]]>, Meshullam<[[H4918I]]>, Sheba<[[H7652G]]>, Jorai<[[H3140]]>, Jacan<[[H3275]]> and Zia<[[H2127]]>.
+- only referred to as Eber **<big>[[H5677|עֵבֵר]]</big>**; 
+-  son of Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**; 
+- a brother of Michael **<big>[[H4317|מִיכָאֵל]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Sheba **<big>[[H7652|שֶׁבַע]]</big>**, Jorai **<big>[[H3140|יוֹרַי]]</big>**, Jacan **<big>[[H3275|יַעְכָּן]]</big>** and Zia **<big>[[H2127|זִיעַ]]</big>**.
 
 Eber is mentioned briefly in [[1Chr.5.13|1 Chronicles 5:13]] as one of the chiefs of the Gadites during the reign of Jotham, king of Judah. He is listed along with his brothers Michael, Meshullam, Sheba, Jorai, Jachan, Zia, and Heber. 
 
@@ -18,8 +18,8 @@ Apart from this brief mention in the genealogy, no further information is provid
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677H) <small>*Hebrew*</small> | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.5.13) |
-All Strong's for **Eber**: \[[[H5677H]]\]
+| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677H) | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.5.13) |
+All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>**
 #### Related Profiles:
 - **[Abihail](H0032I)** (father)
 - **[Michael](H4317H)** (sibling)

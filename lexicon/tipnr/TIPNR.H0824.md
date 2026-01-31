@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Eshan</span>, a city in the hill country of Judah, allotted to the tribe of Judah.
 - A location only mentioned at [[Josh.15.52|Jos.15.52]]; 
-- only referred to as Eshan<[[H0824]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ֑<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Eshan **<big>[[H0824|אֶשְׁעָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.420175,35.033537&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The mention of Eshan in the list of cities allotted to Judah helps to define the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eshan | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ֑<span class='tipnrLangHebrew'>ן</span>](H0824) <small>*Hebrew*</small> | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshan\*\|reference=Jos.15.52) |
-All Strong's for **Eshan**: \[[[H0824]]\]
+| Eshan | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ֑<span class='tipnrLangHebrew'>ן</span>](H0824) | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshan\*\|reference=Jos.15.52) |
+All entries for **Eshan**:  **<big>[[H0824|אֶשְׁעָן]]</big>**

@@ -1,5 +1,5 @@
-<small>Hebrew form: [[H4074]]</small>
-<small>Also see: [[H4077]]</small>
+<small>Hebrew form: **<big>[[H4074|מָדַי]]</big>**</small>
+<small>Also see: **<big>[[H4077|מָדַי]]</big>**</small>
 
  <span class="bdbLangAramaic">‎מָדַי‎</span> **proper name, of a people or territory** ==Medes, Media== (Biblical Hebrew ***id.***); — 
 

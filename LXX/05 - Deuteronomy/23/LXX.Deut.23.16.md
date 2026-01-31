@@ -7,23 +7,23 @@ He shall dwell with thee, [even] among you, in that place which he shall choose 
 Let him live among you wherever he chooses, in the town of his pleasing. Do not oppress him.<small><sub>**MT:**</sub></small>
 [[Deut.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.15|<< Deuteronomy 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.17|Deuteronomy 23:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall dwell | <big><span class="asgreek">κατοικήσει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| it should please | <big><span class="asgreek">αρέση</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| afflict | <big><span class="asgreek">θλίψεις</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| he shall dwell | **<big>[[G2730\|κατοικήσει]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| it should please | **<big>[[G0700\|αρέση]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| afflict | **<big>[[G2346\|θλίψεις]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Deut.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.15|<< Deuteronomy 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.17|Deuteronomy 23:17 >>]]</td></tr></table>
 
 

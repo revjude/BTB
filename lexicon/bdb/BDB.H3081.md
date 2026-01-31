@@ -1,4 +1,4 @@
-<small>Also see: [[H3116]]</small>
+<small>Also see: **<big>[[H3116|יוּכַל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יְהוּכַל‎</span>, <span class="bdbLangHebrew">‎יוּכַל‎</span> **proper name, masculine** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ἰωαχαλ</span> (Manuscripts have <span class="bdbLangGreek">ζ</span>, <span class="bdbLangGreek">χ</span>, <span class="bdbLangGreek">ς</span>, for <span class="bdbLangGreek">λ</span>) (probably contracted from <span class="bdbLangHebrew">‎יהויוכל‎</span>, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***is able***) a courtier of king Zedekiah, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יְהוּ‎</span> [[Jer.37.3|Jer 37:3]] = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יוּ‎</span> [[Jer.38.1|Jer 38:1]]. 
 

@@ -6,36 +6,36 @@ Finally the city clerk quieted the crowd and declared, “Men of Ephesus, doesn�
 <small><sub>**Literal:**</sub></small>
 having calmed then the town clerk the crowd he says; Men Ephesians, who for is there of men who not knows the of [the] Ephesians city temple-keeper as being of the great goddess Artemis and of that fallen from the sky?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.34|<< Acts 19:34]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.36|Acts 19:36 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| having calmed |<big><span class="asgreek">καταστείλας</span></big> <small><small><sup>[[G2687]]</sup></small></small> |katasteilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| town clerk |<big><span class="asgreek">γραμματεὺς</span></big> <small><small><sup>[[G1122]]</sup></small></small> |grammateus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH«3+Treg+TR+Byz">NKO</abbr> | |
-| crowd |<big><span class="asgreek">ὄχλον</span></big> <small><small><sup>[[G3793]]</sup></small></small> |ochlon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH«4+Treg+TR+Byz">NKO</abbr> | |
-| he says; |<big><span class="asgreek">φησίν·</span></big> <small><small><sup>[[G5346]]</sup></small></small> |phēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Men |<big><span class="asgreek">ἄνδρες</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Ephesians, |<big><span class="asgreek">Ἐφέσιοι,</span></big> <small><small><sup>[[G2180]]</sup></small></small> |Ephesioi <small><sup>[[A-VPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<big><span class="asgreek">τίς</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γάρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is there |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of men [^1] |<big><span class="asgreek">ἀνθρώπων</span></big> <small><small><sup>[[G0444]]</sup></small></small> |anthrōpōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| who |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knows |<big><span class="asgreek">γινώσκει</span></big> <small><small><sup>[[G1097]]</sup></small></small> |ginōskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] Ephesians |<big><span class="asgreek">Ἐφεσίων</span></big> <small><small><sup>[[G2180]]</sup></small></small> |Ephesiōn <small><sup>[[A-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| city |<big><span class="asgreek">πόλιν</span></big> <small><small><sup>[[G4172]]</sup></small></small> |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| temple-keeper |<big><span class="asgreek">νεωκόρον</span></big> <small><small><sup>[[G3511]]</sup></small></small> |neōkoron <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as being |<big><span class="asgreek">οὖσαν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| great |<big><span class="asgreek">μεγάλης</span></big> <small><small><sup>[[G3173]]</sup></small></small> |megalēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| goddess |<big><span class="asgreek">θεᾶς</span></big> <small><small><sup>[[G2299]]</sup></small></small> |theas <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| Artemis |<big><span class="asgreek">Ἀρτέμιδος</span></big> <small><small><sup>[[G0735]]</sup></small></small> |Artemidos <small><sup>[[N-GSF-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of that |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fallen from the sky? |<big><span class="asgreek">διοπετοῦς;</span></big> <small><small><sup>[[G1356]]</sup></small></small> |diopetous <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having calmed |**<big>[[G2687\|καταστείλας]]</big>**  |katasteilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| town clerk |**<big>[[G1122\|γραμματεὺς]]</big>**  |grammateus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH«3+Treg+TR+Byz">NKO</abbr> | |
+| crowd |**<big>[[G3793\|ὄχλον]]</big>**  |ochlon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH«4+Treg+TR+Byz">NKO</abbr> | |
+| he says; |**<big>[[G5346\|φησίν·]]</big>**  |phēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Men |**<big>[[G0435G\|ἄνδρες]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Ephesians, |**<big>[[G2180\|Ἐφέσιοι,]]</big>**  |Ephesioi <small><sup>[[A-VPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is there |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of men [^1] |**<big>[[G0444\|ἀνθρώπων]]</big>**  |anthrōpōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knows |**<big>[[G1097\|γινώσκει]]</big>**  |ginōskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] Ephesians |**<big>[[G2180\|Ἐφεσίων]]</big>**  |Ephesiōn <small><sup>[[A-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| city |**<big>[[G4172\|πόλιν]]</big>**  |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| temple-keeper |**<big>[[G3511\|νεωκόρον]]</big>**  |neōkoron <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as being |**<big>[[G1510\|οὖσαν]]</big>**  |ousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| great |**<big>[[G3173\|μεγάλης]]</big>**  |megalēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| goddess |**<big>[[G2299\|θεᾶς]]</big>**  |theas <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| Artemis |**<big>[[G0735\|Ἀρτέμιδος]]</big>**  |Artemidos <small><sup>[[N-GSF-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of that |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fallen from the sky? |**<big>[[G1356\|διοπετοῦς;]]</big>**  |diopetous <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.34|<< Acts 19:34]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.36|Acts 19:36 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: a man | <span class="asgreek">ἄνθρωπος</span><small><sup>[[G0444]]</sup></small> | anthrōpos<small><sup>[[N-NSM]]</sup></small>
+[^1]: ==TR+Byz==: a man | **<big>[[G0444|ἄνθρωπος]]</big>** | anthrōpos<small><sup>[[N-NSM]]</sup></small>

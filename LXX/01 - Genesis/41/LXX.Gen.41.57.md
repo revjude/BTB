@@ -7,26 +7,26 @@ And all countries came into Egypt to Joseph for to buy [corn]; because that the 
 And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.<small><sub>**MT:**</sub></small>
 [[Gen.41.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.56|<< Genesis 41:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.1|Genesis 42:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| regions | <big><span class="asgreek">χώραι</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| to buy | <big><span class="asgreek">αγοράζειν</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| from | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| prevailed | <big><span class="asgreek">επεκράτησε</span></big> <sup><small><small>[[G7421]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| regions | **<big>[[G5561\|χώραι]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| to buy | **<big>[[G0059\|αγοράζειν]]</big>** |
+| from | **<big>[[G4314\|προς]]</big>** |
+| Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| prevailed | **<big>[[G7421\|επεκράτησε]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth. | **<big>[[G1093\|γη]]</big>** |
 [[Gen.41.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.56|<< Genesis 41:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.1|Genesis 42:1 >>]]</td></tr></table>
 
 

@@ -7,37 +7,37 @@ And Judah spake unto him, saying, The man did solemnly protest unto us, saying, 
 But Judah replied, “The man solemnly warned us, ‘You will not see my face again unless your brother is with you.’<small><sub>**MT:**</sub></small>
 [[Gen.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.2|<< Genesis 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.4|Genesis 43:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| bore witness | <big><span class="asgreek">διαμαρτυρία</span></big> <sup><small><small>[[G6847]]</small></small></sup> |
-| by testifying | <big><span class="asgreek">μεμαρτύρηται</span></big> <sup><small><small>[[G3140]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| master | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">όψεσθε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come | <big><span class="asgreek">ελθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| bore witness | **<big>[[G6847\|διαμαρτυρία]]</big>** |
+| by testifying | **<big>[[G3140\|μεμαρτύρηται]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| master | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G3708\|όψεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| come | **<big>[[G2064\|ελθη]]</big>** |
 [[Gen.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.2|<< Genesis 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.4|Genesis 43:4 >>]]</td></tr></table>
 
 

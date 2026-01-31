@@ -1,4 +1,4 @@
-form of: <small>[[G4116]]</small> 
+form of: <small>**<big>[[G4116|πλατύς]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==πλατεῖα==</span></b>, <span class='asgreek'>εῖα</span>, <span class='asgreek'>ύ</span>, 

@@ -7,23 +7,23 @@ And they made coats [of] fine linen [of] woven work for Aaron, and for his sons,
 For Aaron and his sons they made tunics of fine linen, the work of a weaver,<small><sub>**MT:**</sub></small>
 [[Exod.39.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.26|<< Exodus 39:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.28|Exodus 39:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| garments | <big><span class="asgreek">χιτώνας</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| of fine linen, | <big><span class="asgreek">βυσσίνους</span></big> <sup><small><small>[[G1039]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| a woven | <big><span class="asgreek">υφαντόν</span></big> <sup><small><small>[[G5307]]</small></small></sup> |
-| for Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons. | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turbans | <big><span class="asgreek">κιδάρεις</span></big> <sup><small><small>[[G8010]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| linen, | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| garments | **<big>[[G5509\|χιτώνας]]</big>** |
+| of fine linen, | **<big>[[G1039\|βυσσίνους]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| a woven | **<big>[[G5307\|υφαντόν]]</big>** |
+| for Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons. | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| turbans | **<big>[[G8010\|κιδάρεις]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| linen, | **<big>[[G1040\|βύσσου]]</big>** |
 [[Exod.39.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.26|<< Exodus 39:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.28|Exodus 39:28 >>]]</td></tr></table>
 
 

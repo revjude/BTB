@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִישָׁלוֹם‎</span></big> **ʼĂbîyshâlôwm** <small>*(ab-ee-shaw-lome')*</small> ==**Absalom**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אַבְשָׁלוֹם</span> **ʼAbshâlôwm** <small>*(ab-shaw-lome')*</small> ; from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎שָׁלוֹם‎</span><sup><small>[[H7965]]</small></sup>; father of peace (i.e. friendly)</small>
+**<big><span class="ashebrew">‎אֲבִישָׁלוֹם‎</span></big>** **ʼĂbîyshâlôwm** <small>*(ab-ee-shaw-lome')*</small> ==**Absalom**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אַבְשָׁלוֹם</span></big>** **ʼAbshâlôwm** <small>*(ab-shaw-lome')*</small> ; from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H7965|‎שָׁלוֹם‎]]</big>**; father of peace (i.e. friendly)</small>
 
 $\quad$ Abishalom, Absalom.
 - § Absalom or Abishalom = *"my father is peace"*

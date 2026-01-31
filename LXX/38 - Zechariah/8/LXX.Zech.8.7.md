@@ -7,24 +7,24 @@ Thus saith the LORD of hosts; Behold, I will save my people from the east countr
 This is what the LORD of Hosts says: “I will save My people from the land of the east and from the land of the west.<small><sub>**MT:**</sub></small>
 [[Zech.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.6|<< Zechariah 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.8|Zechariah 8:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall deliver | <big><span class="asgreek">σώζω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] east, | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] west. | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall deliver | **<big>[[G4982\|σώζω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] east, | **<big>[[G0395\|ανατολών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] west. | **<big>[[G1424\|δυσμών]]</big>** |
 [[Zech.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.6|<< Zechariah 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.8|Zechariah 8:8 >>]]</td></tr></table>
 
 

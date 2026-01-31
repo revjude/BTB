@@ -7,27 +7,27 @@ For I will restore health unto thee, and I will heal thee of thy wounds, saith t
 But I will restore your health and heal your wounds, declares the LORD, because they call you an outcast, Zion, for whom no one cares.”<small><sub>**MT:**</sub></small>
 [[Jer.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I will lead up | <big><span class="asgreek">ανάξω</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cure, | <big><span class="asgreek">ίαμά</span></big> <sup><small><small>[[G2386]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| wound | <big><span class="asgreek">πληγής</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| a grievous | <big><span class="asgreek">οδυνηράς</span></big> <sup><small><small>[[G8446]]</small></small></sup> |
-| I will treat you | <big><span class="asgreek">ιατρεύσω</span></big> <sup><small><small>[[G7707]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Her Having Been Sown | <big><span class="asgreek">εσπαρμένη</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| you are called | <big><span class="asgreek">εκλήθης</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητών</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I will lead up | **<big>[[G0321\|ανάξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your cure, | **<big>[[G2386\|ίαμά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| wound | **<big>[[G4127\|πληγής]]</big>** |
+| a grievous | **<big>[[G8446\|οδυνηράς]]</big>** |
+| I will treat you | **<big>[[G7707\|ιατρεύσω]]</big>** **<big>[[G1473\|σε]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Her Having Been Sown | **<big>[[G4687\|εσπαρμένη]]</big>** |
+| you are called | **<big>[[G2564\|εκλήθης]]</big>** |
+| Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| seeking | **<big>[[G2212\|ζητών]]</big>** |
+| no | **<big>[[G3756\|ουκ]]</big>** |
+| there is | **<big>[[G1510\|έστιν]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Jer.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
 

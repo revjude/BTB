@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָכָם‎</span></big> **châkâm** <small>*(khaw-kawm')*</small> ==**wise**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָכַם‎</span><sup><small>[[H2449]]</small></sup></small>
+**<big><span class="ashebrew">‎חָכָם‎</span></big>** **châkâm** <small>*(khaw-kawm')*</small> ==**wise**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2449|‎חָכַם‎]]</big>**</small>
 
 $\quad$ cunning (man), subtil, (un-), wise((hearted), man).
 - ***wise***, (i.e. intelligent, skilful or artful)
@@ -12,4 +12,4 @@ $\quad$ **1d)** learned, shrewd (class of men)
 $\quad$ **1e)** prudent
 $\quad$ **1f)** wise (ethically and religiously)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀληθής</span><sup><small>[[G0227]]</small></sup> · <span class="asgreek">κατασοφίζομαι</span><sup><small>[[G2686]]</small></sup> · <span class="asgreek">πανοῦργος</span><sup><small>[[G3835]]</small></sup> · <span class="asgreek">σοφίζω</span><sup><small>[[G4679]]</small></sup> · <span class="asgreek">σοφός</span><sup><small>[[G4680]]</small></sup> · <span class="asgreek">σοφός</span><sup><small>[[G4680]]</small></sup> · <span class="asgreek">σοφός</span><sup><small>[[G4680]]</small></sup> · <span class="asgreek">συνετός</span><sup><small>[[G4908]]</small></sup> · <span class="asgreek">συνετός</span><sup><small>[[G4908]]</small></sup> · <span class="asgreek">φρονέω</span><sup><small>[[G5426]]</small></sup> · <span class="asgreek">φρόνιμος</span><sup><small>[[G5429]]</small></sup>
+<small>See Greek: </small>**<big>[[G0227|ἀληθής]]</big>** · **<big>[[G2686|κατασοφίζομαι]]</big>** · **<big>[[G3835|πανοῦργος]]</big>** · **<big>[[G4679|σοφίζω]]</big>** · **<big>[[G4680|σοφός]]</big>** · **<big>[[G4680|σοφός]]</big>** · **<big>[[G4680|σοφός]]</big>** · **<big>[[G4908|συνετός]]</big>** · **<big>[[G4908|συνετός]]</big>** · **<big>[[G5426|φρονέω]]</big>** · **<big>[[G5429|φρόνιμος]]</big>**

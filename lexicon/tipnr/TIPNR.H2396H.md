@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hizkiah</span> was one of the descendants of King David through the line of Jeconiah.
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.3.23|1Ch.3.23]]; 
-- only referred to as Hizkiah<[[H2396H]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  son of Neariah<[[H5294G]]>; 
-- a brother of Elioenai<[[H0454B]]> and Azrikam<[[H5840G]]>.
+- only referred to as Hizkiah **<big>[[H2396|חִזְקִיָּה]]</big>**; 
+-  son of Neariah **<big>[[H5294|נְעַרְיָה]]</big>**; 
+- a brother of Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>** and Azrikam **<big>[[H5840|עַזְרִיקָם]]</big>**.
 
 Hizkiah is mentioned in [[1Chr.3.23|1 Chronicles 3:23]] as one of the sons of Neariah, who was a descendant of King David through the line of Jeconiah \(also known as Jehoiachin\). Jeconiah was one of the last kings of Judah before the Babylonian exile, and his descendants are listed in the genealogy found in 1 Chronicles 3. 
 
@@ -16,8 +16,8 @@ Apart from being mentioned in this genealogy, no other information is provided a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hizkiah (KJV= Hezekiah) | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2396H) <small>*Hebrew*</small> | 1x | [1Ch.3.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hizkiah\*\|reference=1Ch.3.23) |
-All Strong's for **Hizkiah**: \[[[H2396H]]\]
+| Hizkiah (KJV= Hezekiah) | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2396H) | 1x | [1Ch.3.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hizkiah\*\|reference=1Ch.3.23) |
+All entries for **Hizkiah**:  **<big>[[H2396|חִזְקִיָּה]]</big>**
 #### Related Profiles:
 - **[Neariah](H5294G)** (father)
 - **[Elioenai](H0454B)** (sibling)

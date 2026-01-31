@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָתַץ‎</span></big> **nâthats** <small>*(naw-thats')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָתַץ‎</span></big>** **nâthats** <small>*(naw-thats')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat down, break down (out), cast down, destroy, overthrow, pull down, throw down.
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Piel) to tear down
 $\quad$ **1d)** (Pual) to be torn down
 $\quad$ **1e)** (Hophal) to be broken, be broken down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">διασπάω</span><sup><small>[[G1288]]</small></sup> · <span class="asgreek">καθαιρέω</span><sup><small>[[G2507]]</small></sup> · <span class="asgreek">καταβάλλω</span><sup><small>[[G2598]]</small></sup> · <span class="asgreek">καταλύω</span><sup><small>[[G2647]]</small></sup> · <span class="asgreek">κατασκάπτω</span><sup><small>[[G2679]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">συνθλάω</span><sup><small>[[G4917]]</small></sup>
+<small>See Greek: </small>**<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1288|διασπάω]]</big>** · **<big>[[G2507|καθαιρέω]]</big>** · **<big>[[G2598|καταβάλλω]]</big>** · **<big>[[G2647|καταλύω]]</big>** · **<big>[[G2679|κατασκάπτω]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G4917|συνθλάω]]</big>**

@@ -7,59 +7,59 @@ And I will come near to you to judgment; and I will be a swift witness against t
 “Then I will draw near to you for judgment. And I will be a swift witness against sorcerers and adulterers and perjurers, against oppressors of the widowed and fatherless, and against those who defraud laborers of their wages and deny justice to the foreigner but do not fear Me,” says the LORD of Hosts.<small><sub>**MT:**</sub></small>
 [[Mal.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.4|<< Malachi 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.6|Malachi 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will come forward | <big><span class="asgreek">προσάξω</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| judgment; | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| a quick | <big><span class="asgreek">ταχύς</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| administers of potions, | <big><span class="asgreek">φαρμακούς</span></big> <sup><small><small>[[G5333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| adulterers, | <big><span class="asgreek">μοιχούς</span></big> <sup><small><small>[[G3432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| swearing by an oath | <big><span class="asgreek">ομνύοντας</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a lie, | <big><span class="asgreek">ψεύδει</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depriving | <big><span class="asgreek">αποστερούντας</span></big> <sup><small><small>[[G0650]]</small></small></sup> |
-| a wage | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| of a hireling, | <big><span class="asgreek">μισθωτού</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tyrannizing over | <big><span class="asgreek">καταδυναστεύοντας</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| \[the\] widow, | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| smiting | <big><span class="asgreek">κονδυλίζοντας</span></big> <sup><small><small>[[G8060]]</small></small></sup> |
-| orphans, | <big><span class="asgreek">ορφανούς</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turning aside | <big><span class="asgreek">εκκλίνοντας</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| a \[right\] judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of a foreigner, | <big><span class="asgreek">προσηλύτου</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[they are\] the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένους</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will come forward | **<big>[[G4317\|προσάξω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| judgment; | **<big>[[G2920\|κρίσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| witness | **<big>[[G3144\|μάρτυς]]</big>** |
+| a quick | **<big>[[G5036\|ταχύς]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| administers of potions, | **<big>[[G5333\|φαρμακούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| adulterers, | **<big>[[G3432\|μοιχούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| swearing by an oath | **<big>[[G3660\|ομνύοντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| in my name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| a lie, | **<big>[[G5579\|ψεύδει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| depriving | **<big>[[G0650\|αποστερούντας]]</big>** |
+| a wage | **<big>[[G3408\|μισθόν]]</big>** |
+| of a hireling, | **<big>[[G3411\|μισθωτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tyrannizing over | **<big>[[G2616\|καταδυναστεύοντας]]</big>** |
+| \[the\] widow, | **<big>[[G5503\|χήρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| smiting | **<big>[[G8060\|κονδυλίζοντας]]</big>** |
+| orphans, | **<big>[[G3737\|ορφανούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| turning aside | **<big>[[G1578\|εκκλίνοντας]]</big>** |
+| a \[right\] judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| of a foreigner, | **<big>[[G4339\|προσηλύτου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[they are\] the ones | **<big>[[G3588\|τους]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένους]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 [[Mal.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.4|<< Malachi 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.6|Malachi 3:6 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎תּוֹלָד‎</span></big> **Tôwlâd** <small>*(to-lawd')*</small> ==**Tolad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָלַד‎</span><sup><small>[[H3205]]</small></sup>; posterity</small>
+**<big><span class="ashebrew">‎תּוֹלָד‎</span></big>** **Tôwlâd** <small>*(to-lawd')*</small> ==**Tolad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3205|‎יָלַד‎]]</big>**; posterity</small>
 
-$\quad$ Tolad. Compare <span class="ashebrew">‎אֶלְתּוֹלַד‎</span><sup><small>[[H0513]]</small></sup>.
+$\quad$ Tolad. Compare **<big>[[H0513|‎אֶלְתּוֹלַד‎]]</big>**.
 - § Tolad = *"generation"*
 - ***Tolad***, a place in Palestine
 

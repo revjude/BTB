@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-shittah</span>, a location near where the Midianites fled after being defeated by Gideon's army.
 - A location only mentioned at [[Judg.7.22|Jdg.7.22]]; 
-- only referred to as Beth-shittah<[[H1029]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Beth-shittah **<big>[[H1029|בֵּית הַשִּׁטָּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.552496,35.438257&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Beth-shittah is mentioned in the Bible as a place near where the Midianite army 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-shittah (NIV= Beth Shittah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H1029) <small>*Hebrew*</small> | 1x | [Jdg.7.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.7.22) |
-All Strong's for **Beth-shittah**: \[[[H1029]]\]
+| Beth-shittah (NIV= Beth Shittah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H1029) | 1x | [Jdg.7.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.7.22) |
+All entries for **Beth-shittah**:  **<big>[[H1029|בֵּית הַשִּׁטָּה]]</big>**

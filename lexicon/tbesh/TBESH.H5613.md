@@ -1,4 +1,3 @@
-<span class="asaramaic">‎סָפִר‎</span> <small>***(sa.pher)***</small> ==**scribe**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H5608B]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H5608B|סָפַר]]</big>**</small> 
 
-- Aramaic of <i>so.pher</i> (<span class='ashebrew'>‎ס‎</span>ֹ<span class='ashebrew'>‎פ‎</span>ֵ<span class='ashebrew'>‎ר‎</span> "secretary" [[H5608B]])
+- Aramaic of <i>so.pher</i> (<span class='ashebrew'>‎ס‎</span>ֹ<span class='ashebrew'>‎פ‎</span>ֵ<span class='ashebrew'>‎ר‎</span> "secretary" **<big>[[H5608B|סָפַר]]</big>**)

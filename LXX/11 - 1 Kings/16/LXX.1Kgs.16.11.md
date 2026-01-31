@@ -7,36 +7,36 @@ And it came to pass, when he began to reign, as soon as he sat on his throne, [t
 As soon as Zimri began to reign and was seated on the throne, he struck down the entire household of Baasha. He did not leave a single male, whether a kinsman or friend.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.10|<< 1 Kings 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.12|1 Kings 16:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his taking reign, | <big><span class="asgreek">βασιλεύσαι</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sitting | <big><span class="asgreek">καθίσαι</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his throne, | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Baasha. | <big><span class="asgreek">Βαασά</span></big> <sup><small><small>[[H1201]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he left not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G2641]]</small></small></sup> <big><span class="asgreek">κατέλιπεν</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one urinating | <big><span class="asgreek">ουρούντα</span></big> <sup><small><small>[[G8568]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relatives | <big><span class="asgreek">συγγενείς</span></big> <sup><small><small>[[G4773]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his friends. | <big><span class="asgreek">εταίρους</span></big> <sup><small><small>[[G2083]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his taking reign, | **<big>[[G0936\|βασιλεύσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his sitting | **<big>[[G2523\|καθίσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his throne, | **<big>[[G2362\|θρόνου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Baasha. | **<big>[[H1201\|Βαασά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he left not | **<big>[[G2641\|ου]]</big>** **<big>[[G3756\|κατέλιπεν]]</big>** |
+| to it | **<big>[[G1473\|αυτώ]]</big>** |
+| one urinating | **<big>[[G8568\|ουρούντα]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wall, | **<big>[[G5109\|τοίχον]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| relatives | **<big>[[G4773\|συγγενείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his friends. | **<big>[[G2083\|εταίρους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.10|<< 1 Kings 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.12|1 Kings 16:12 >>]]</td></tr></table>
 
 

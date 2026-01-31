@@ -7,20 +7,20 @@ All the families of the Shuhamites, according to those that were numbered of the
 All of them were Shuhamite clans, and their registration numbered 64,400.<small><sub>**MT:**</sub></small>
 [[Num.26.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.42|<< Numbers 26:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.44|Numbers 26:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">δήμοι</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| of Shuham | <big><span class="asgreek">Σαμεί</span></big> <sup><small><small>[[H7749]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their overseeing -- | <big><span class="asgreek">επισκοπήν</span></big> <sup><small><small>[[G1984]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four hundred. | <big><span class="asgreek">τετρακόσιοι</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G1218\|δήμοι]]</big>** |
+| of Shuham | **<big>[[H7749\|Σαμεί]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| their overseeing -- | **<big>[[G1984\|επισκοπήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four hundred. | **<big>[[G5071\|τετρακόσιοι]]</big>** |
 [[Num.26.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.42|<< Numbers 26:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.44|Numbers 26:44 >>]]</td></tr></table>
 
 

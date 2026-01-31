@@ -7,34 +7,34 @@ Also he strengthened himself, and built up all the wall that was broken, and rai
 Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces of the City of David, and he produced an abundance of weapons and shields.<small><sub>**MT:**</sub></small>
 [[2Chr.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.4|<< 2 Chronicles 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.6|2 Chronicles 32:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah strengthened himself, | <big><span class="asgreek">κατίσχυσεν</span></big> <sup><small><small>[[G2729]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| built up | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been razed, | <big><span class="asgreek">κατεσκαμμένον</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| towers, | <big><span class="asgreek">πύργους</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| wall around | <big><span class="asgreek">προτείχισμα</span></big> <sup><small><small>[[G8950]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλο</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he strengthened | <big><span class="asgreek">κατίσχυσε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elevation | <big><span class="asgreek">ανάλημμα</span></big> <sup><small><small>[[G6292]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| carefully prepared | <big><span class="asgreek">κατεσκεύασεν</span></big> <sup><small><small>[[G2680]]</small></small></sup> |
-| weapons | <big><span class="asgreek">όπλα</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hezekiah strengthened himself, | **<big>[[G2729\|κατίσχυσεν]]</big>** **<big>[[G1478\|Εζεκίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| built up | **<big>[[G3618\|ωκοδόμησε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| having been razed, | **<big>[[G2679\|κατεσκαμμένον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| towers, | **<big>[[G4444\|πύργους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| wall around | **<big>[[G8950\|προτείχισμα]]</big>** |
+| another | **<big>[[G0243\|άλλο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he strengthened | **<big>[[G2729\|κατίσχυσε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| elevation | **<big>[[G6292\|ανάλημμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| of David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| carefully prepared | **<big>[[G2680\|κατεσκεύασεν]]</big>** |
+| weapons | **<big>[[G3696\|όπλα]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
 [[2Chr.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.4|<< 2 Chronicles 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.6|2 Chronicles 32:6 >>]]</td></tr></table>
 
 

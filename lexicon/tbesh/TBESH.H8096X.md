@@ -1,8 +1,7 @@
-<span class="ashebrew">‎שִׁמְעִי‎</span> <small>***(shim.i)***</small> ==**Shimei**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H5654]]</small> 
+<small>name of:</small> <small>**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**</small> 
 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[2Sam.6.10|2Sa.6.10]]
--  son of: Jeduthun ([[H3038]])
--  brother of: Mattithiah ([[H4993H]]), Gedaliah ([[H1436I]]), Zeri ([[H6874]]), Jeshaiah ([[H3470H]]) and Hashabiah ([[H2811I]])
--  father of: Shemaiah ([[H8098I]]), Jehozabad ([[H3075H]]), Joah ([[H3098I]]), Sachar ([[H7940]]), Nethanel ([[H5417K]]), Ammiel ([[H5988I]]), Issachar ([[H3485H]]) and Peullethai ([[H6469]])
-- Another name of <i>o.ved e.dom</i> (<span class='ashebrew'>‎ע‎</span>ֹ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ד‎</span> <span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Obed-edom" [[H5654]])
+-  son of: Jeduthun (**<big>[[H3038|יְדוּתוּן]]</big>**)
+-  brother of: Mattithiah (**<big>[[H4993H|מַתִּתְיָה]]</big>**), Gedaliah (**<big>[[H1436I|גְּדַּלְיָה]]</big>**), Zeri (**<big>[[H6874|צְרִי]]</big>**), Jeshaiah (**<big>[[H3470H|יְשַׁעְיָה]]</big>**) and Hashabiah (**<big>[[H2811I|חֲשַׁבְיָה]]</big>**)
+-  father of: Shemaiah (**<big>[[H8098I|שְׁמַעְיָה]]</big>**), Jehozabad (**<big>[[H3075H|יְהוֹזָבָד]]</big>**), Joah (**<big>[[H3098I|יוֹאָח]]</big>**), Sachar (**<big>[[H7940|שָׂכָר]]</big>**), Nethanel (**<big>[[H5417K|נְתַנְאֵל]]</big>**), Ammiel (**<big>[[H5988I|עַמִּיאֵל]]</big>**), Issachar (**<big>[[H3485H|יִשָּׂשכָר]]</big>**) and Peullethai (**<big>[[H6469|פְּעֻלְּתַי]]</big>**)
+- Another name of <i>o.ved e.dom</i> (<span class='ashebrew'>‎ע‎</span>ֹ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ד‎</span> <span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Obed-edom" **<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**)

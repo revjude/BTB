@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲקָשׁ‎</span></big> **maʻăqâsh** <small>*(mah-ak-awsh')*</small> ==**crooked place**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָקַשׁ‎</span><sup><small>[[H6140]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲקָשׁ‎</span></big>** **maʻăqâsh** <small>*(mah-ak-awsh')*</small> ==**crooked place**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6140|‎עָקַשׁ‎]]</big>**</small>
 
 $\quad$ crooked thing.
 - ***a crook*** (in a road)

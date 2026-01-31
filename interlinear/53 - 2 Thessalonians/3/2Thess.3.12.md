@@ -6,31 +6,31 @@ We command and urge such people by our Lord Jesus Christ to begin working quietl
 <small><sub>**Literal:**</sub></small>
 <the> Now to such we warn and we exhort by the Lord of us Jesus Christ so that with quietness working <the> their own bread they may eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.11|<< 2 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.13|2 Thessalonians 3:13 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<big><span class="asgreek">Τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to such |<big><span class="asgreek">τοιούτοις</span></big> <small><small><sup>[[G5108]]</sup></small></small> |toioutois <small><sup>[[D-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we warn |<big><span class="asgreek">παραγγέλλομεν</span></big> <small><small><sup>[[G3853]]</sup></small></small> |parangellomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we exhort |<big><span class="asgreek">παρακαλοῦμεν</span></big> <small><small><sup>[[G3870]]</sup></small></small> |parakaloumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by [^1] |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| Lord [^2] |<big><span class="asgreek">κυρίῳ</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| of us [^3] |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| Jesus |<big><span class="asgreek">Ἰησοῦ</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsou <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ [^4] |<big><span class="asgreek">Χριστῷ</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| quietness |<big><span class="asgreek">ἡσυχίας</span></big> <small><small><sup>[[G2271]]</sup></small></small> |hēsuchias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| working |<big><span class="asgreek">ἐργαζόμενοι</span></big> <small><small><sup>[[G2038]]</sup></small></small> |ergazomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| their own |<big><span class="asgreek">ἑαυτῶν</span></big> <small><small><sup>[[G1438]]</sup></small></small> |he'autōn <small><sup>[[F-3GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| bread |<big><span class="asgreek">ἄρτον</span></big> <small><small><sup>[[G0740]]</sup></small></small> |arton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they may eat. |<big><span class="asgreek">ἐσθίωσιν.</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiōsin <small><sup>[[V-PAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|Τοῖς]]</big>**  |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to such |**<big>[[G5108\|τοιούτοις]]</big>**  |toioutois <small><sup>[[D-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we warn |**<big>[[G3853\|παραγγέλλομεν]]</big>**  |parangellomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we exhort |**<big>[[G3870\|παρακαλοῦμεν]]</big>**  |parakaloumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by [^1] |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| Lord [^2] |**<big>[[G2962G\|κυρίῳ]]</big>**  |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| of us [^3] |**<big>[[G3165\|ἡμῶν]]</big>**  |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Jesus |**<big>[[G2424G\|Ἰησοῦ]]</big>**  |Iēsou <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ [^4] |**<big>[[G5547\|Χριστῷ]]</big>**  |Christō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| quietness |**<big>[[G2271\|ἡσυχίας]]</big>**  |hēsuchias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| working |**<big>[[G2038\|ἐργαζόμενοι]]</big>**  |ergazomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| their own |**<big>[[G1438\|ἑαυτῶν]]</big>**  |he'autōn <small><sup>[[F-3GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| bread |**<big>[[G0740\|ἄρτον]]</big>**  |arton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they may eat. |**<big>[[G2068\|ἐσθίωσιν.]]</big>**  |esthiōsin <small><sup>[[V-PAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.11|<< 2 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.13|2 Thessalonians 3:13 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz==: through | <span class="asgreek">διὰ</span><small><sup>[[G1223]]</sup></small> | dia<small><sup>[[PREP]]</sup></small>
-[^2]: ==TR+Byz==: Lord | <span class="asgreek">κυρίου</span><small><sup>[[G2962]]</sup></small> | kuriou<small><sup>[[N-GSM-T]]</sup></small>
-[^3]: Extra Text:  <span class='asgreek'>**ἡμῶν**</span>  (<i>hēmōn</i>) 'of us' is only in traditional manuscripts (TR+Byz)
-[^4]: ==TR+Byz==: Christ | <span class="asgreek">Χριστου</span><small><sup>[[G5547]]</sup></small> | Christou<small><sup>[[N-GSM-T]]</sup></small>
+[^1]: ==TR+Byz==: through | **<big>[[G1223|διὰ]]</big>** | dia<small><sup>[[PREP]]</sup></small>
+[^2]: ==TR+Byz==: Lord | **<big>[[G2962|κυρίου]]</big>** | kuriou<small><sup>[[N-GSM-T]]</sup></small>
+[^3]: Extra Text:  **<big><span class='asgreek'>ἡμῶν</span></big>**  (<i>hēmōn</i>) 'of us' is only in traditional manuscripts (TR+Byz)
+[^4]: ==TR+Byz==: Christ | **<big>[[G5547|Χριστου]]</big>** | Christou<small><sup>[[N-GSM-T]]</sup></small>

@@ -7,19 +7,19 @@ For they [are] life unto those that find them, and health to all their flesh.
 For they are life to those who find them, and health to the whole body.<small><sub>**MT:**</sub></small>
 [[Prov.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.21|<< Proverbs 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.23|Proverbs 4:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[they are\] | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| finding | <big><span class="asgreek">ευρίσκουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρκί</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| life | **<big>[[G2222\|ζωή]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| \[they are\] | **<big>[[G1510\|εστι]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| finding | **<big>[[G2147\|ευρίσκουσιν]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|πάση]]</big>** |
+| flesh | **<big>[[G4561\|σαρκί]]</big>** |
+| healing | **<big>[[G2392\|ίασις]]</big>** |
 [[Prov.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.21|<< Proverbs 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.23|Proverbs 4:23 >>]]</td></tr></table>
 
 

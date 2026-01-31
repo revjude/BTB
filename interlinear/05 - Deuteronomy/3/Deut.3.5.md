@@ -6,21 +6,21 @@ All these cities were fortified with high walls and gates and bars, and there we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.4|<< Deuteronomy 3:4]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.6|Deuteronomy 3:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֜לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] cities  | <span class="ashebrew"><big>עָרִ֧ים </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fortified  | <span class="ashebrew"><big>בְּצֻר֛וֹת </big></span><small><small><sup>[[H1219]]</sup></small></small> &#8207;| be.tzu.Rot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wall  | <span class="ashebrew"><big>חוֹמָ֥ה </big></span><small><small><sup>[[H2346G]]</sup></small></small> &#8207;| cho.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| high  | <span class="ashebrew"><big>גְבֹהָ֖ה </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ge.vo.Hah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gates  | <span class="ashebrew"><big>דְּלָתַ֣יִם </big></span><small><small><sup>[[H1817C]]</sup></small></small> &#8207;| de.la.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and bar[s]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְרִ֑יחַ </big></span><small><small><sup>[[H1280]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Ri.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> apart  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַ֛ד </big></span><small><small><sup>[[H0905J]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Vad <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] cities of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עָרֵ֥י </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the hamlet-dweller[s]  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>פְּרָזִ֖י </big></span><small><small><sup>[[H6521]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> pe.ra.Zi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>הַרְבֵּ֥ה </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| har.Beh <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| very  | <span class="ashebrew"><big>מְאֹֽד </big></span><small><small><sup>[[H3966]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] cities  |**<big>&#8207;[[H5892B\|עָרִ֧ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fortified  |**<big>&#8207;[[H1219\|בְּצֻר֛וֹת]]&#8207; </big>**| be.tzu.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wall  |**<big>&#8207;[[H2346G\|חוֹמָ֥ה]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high  |**<big>&#8207;[[H1364\|גְבֹהָ֖ה]]&#8207; </big>**| ge.vo.Hah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gates  |**<big>&#8207;[[H1817C\|דְּלָתַ֣יִם]]&#8207; </big>**| de.la.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bar[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1280\|בְרִ֑יחַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Ri.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> apart  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905J\|בַ֛ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] cities of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5892B\|עָרֵ֥י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hamlet-dweller[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6521\|פְּרָזִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ra.Zi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7235A\|הַרְבֵּ֥ה]]&#8207; </big>**| har.Beh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.4|<< Deuteronomy 3:4]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.6|Deuteronomy 3:6 >>]]</td></tr></table>
 
 

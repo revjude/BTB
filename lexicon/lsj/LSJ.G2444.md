@@ -1,4 +1,4 @@
-combination of: <small>[[G5101]] ([[G2443]]+[[G5101]])</small> 
+combination of: <small>**<big>[[G5101|τίς]]</big>** (**<big>[[G2443|ἵνα]]</big>**+**<big>[[G5101|τίς]]</big>**)</small> 
 
 
 Included with: <b> <span class='asgreek'>==ἱνατί==</span></b>, 

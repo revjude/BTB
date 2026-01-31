@@ -7,45 +7,45 @@ And the priests went into the inner part of the house of the LORD, to cleanse [i
 So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley.<small><sub>**MT:**</sub></small>
 [[2Chr.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.15|<< 2 Chronicles 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.17|2 Chronicles 29:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| inside, | <big><span class="asgreek">εσω</span></big> <sup><small><small>[[G2080]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to purify \[it\], | <big><span class="asgreek">αγνίσαι</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cast out | <big><span class="asgreek">εξέβαλον</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uncleanness | <big><span class="asgreek">ακαθαρσίαν</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| they found | <big><span class="asgreek">ευρεθείσαν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| received | <big><span class="asgreek">εδέξαντο</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring \[it\] forth | <big><span class="asgreek">εξενεγκείν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Kidron | <big><span class="asgreek">Κεδρών</span></big> <sup><small><small>[[H6939]]</small></small></sup> |
-| outside. | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| inside, | **<big>[[G2080\|εσω]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to purify \[it\], | **<big>[[G0048\|αγνίσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they cast out | **<big>[[G1544\|εξέβαλον]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| uncleanness | **<big>[[G0167\|ακαθαρσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| they found | **<big>[[G2147\|ευρεθείσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| courtyard | **<big>[[G0833\|αυλήν]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| received | **<big>[[G1209\|εδέξαντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring \[it\] forth | **<big>[[G1627\|εξενεγκείν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| Kidron | **<big>[[H6939\|Κεδρών]]</big>** |
+| outside. | **<big>[[G1854\|έξω]]</big>** |
 [[2Chr.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.15|<< 2 Chronicles 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.17|2 Chronicles 29:17 >>]]</td></tr></table>
 
 

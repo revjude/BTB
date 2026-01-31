@@ -7,48 +7,48 @@ And they beat down the cities, and on every good piece of land cast every man hi
 They destroyed the cities, and each man threw stones on every good field until it was covered. They stopped up every spring and cut down every good tree. Only Kir-haraseth was left with stones in place, but men with slings surrounded it and attacked it as well.<small><sub>**MT:**</sub></small>
 [[2Kgs.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.24|<< 2 Kings 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.26|2 Kings 3:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| they demolished | <big><span class="asgreek">καθείλον</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| portion \[of land\] | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψαν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| \[each\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his stone, | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they filled | <big><span class="asgreek">ενέπλησαν</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| they obstructed, | <big><span class="asgreek">ενέφραξαν</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| they threw down | <big><span class="asgreek">κατέβαλον</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leaving behind | <big><span class="asgreek">καταλιπείν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τοίχου</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| being demolished. | <big><span class="asgreek">καθηρημένους</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encircled | <big><span class="asgreek">εκύκλωσαν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slingers | <big><span class="asgreek">σφενδονήται</span></big> <sup><small><small>[[G9370]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| they demolished | **<big>[[G2507\|καθείλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| portion \[of land\] | **<big>[[G3310\|μερίδα]]</big>** |
+| good | **<big>[[G0018\|αγαθήν]]</big>** |
+| tossed | **<big>[[G4496\|έρριψαν]]</big>** |
+| \[each\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his stone, | **<big>[[G3037\|λίθον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they filled | **<big>[[G1705\|ενέπλησαν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| spring | **<big>[[G4077\|πηγήν]]</big>** |
+| of water | **<big>[[G5204\|ύδατος]]</big>** |
+| they obstructed, | **<big>[[G7213\|ενέφραξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| good | **<big>[[G0018\|αγαθόν]]</big>** |
+| they threw down | **<big>[[G2598\|κατέβαλον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| leaving behind | **<big>[[G2641\|καταλιπείν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wall | **<big>[[G5109\|τοίχου]]</big>** |
+| being demolished. | **<big>[[G2507\|καθηρημένους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| encircled | **<big>[[G2944\|εκύκλωσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| slingers | **<big>[[G9370\|σφενδονήται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[2Kgs.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.24|<< 2 Kings 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.26|2 Kings 3:26 >>]]</td></tr></table>
 
 

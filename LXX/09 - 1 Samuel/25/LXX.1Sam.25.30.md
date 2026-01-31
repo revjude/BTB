@@ -7,29 +7,29 @@ And it shall come to pass, when the LORD shall have done to my lord according to
 When the LORD has done for my lord all the good He promised, and when He has appointed you ruler over Israel,<small><sub>**MT:**</sub></small>
 [[1Sam.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.29|<< 1 Samuel 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.31|1 Samuel 25:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall give charge | <big><span class="asgreek">εντελείταί</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| taking the lead | <big><span class="asgreek">ηγούμενον</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall do | **<big>[[G4160\|ποιήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| for | **<big>[[G3588\|τω]]</big>** |
+| my master, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| shall give charge | **<big>[[G1781\|εντελείταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| taking the lead | **<big>[[G2233\|ηγούμενον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Sam.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.29|<< 1 Samuel 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.31|1 Samuel 25:31 >>]]</td></tr></table>
 
 

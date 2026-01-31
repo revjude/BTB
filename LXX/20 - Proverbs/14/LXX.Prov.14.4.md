@@ -7,19 +7,19 @@ Where no oxen [are], the crib [is] clean: but much increase [is] by the strength
 Where there are no oxen, the manger is empty, but an abundant harvest comes through the strength of the ox.<small><sub>**MT:**</sub></small>
 [[Prov.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.3|<< Proverbs 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.5|Proverbs 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there are no | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| oxen, | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| \[the\] stables | <big><span class="asgreek">φάτναι</span></big> <sup><small><small>[[G5336]]</small></small></sup> |
-| \[are\] clean; | <big><span class="asgreek">καθαραί</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[there is\] much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| produce, | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| \[is\] apparent | <big><span class="asgreek">φανερά</span></big> <sup><small><small>[[G5318]]</small></small></sup> |
-| of \[the\] ox | <big><span class="asgreek">βοός</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| \[the\] strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| Where | **<big>[[G3739\|ου]]</big>** |
+| there are no | **<big>[[G3361\|μη]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| oxen, | **<big>[[G1016\|βόες]]</big>** |
+| \[the\] stables | **<big>[[G5336\|φάτναι]]</big>** |
+| \[are\] clean; | **<big>[[G2513\|καθαραί]]</big>** |
+| and where | **<big>[[G3739\|ου]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[there is\] much | **<big>[[G4183\|πολλά]]</big>** |
+| produce, | **<big>[[G1081\|γεννήματα]]</big>** |
+| \[is\] apparent | **<big>[[G5318\|φανερά]]</big>** |
+| of \[the\] ox | **<big>[[G1016\|βοός]]</big>** |
+| \[the\] strength | **<big>[[G2479\|ισχύς]]</big>** |
 [[Prov.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.3|<< Proverbs 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.5|Proverbs 14:5 >>]]</td></tr></table>
 
 

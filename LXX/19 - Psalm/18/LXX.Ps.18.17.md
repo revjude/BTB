@@ -7,23 +7,23 @@ He delivered me from my strong enemy, and from them which hated me: for they wer
 He rescued me from my powerful enemy, from foes too mighty for me.<small><sub>**MT:**</sub></small>
 [[Ps.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.16|<< Psalm 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.18|Psalm 18:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He will rescue | <big><span class="asgreek">ρύσεταί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούντων</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they are more solidified | <big><span class="asgreek">εστερεώθησαν</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He will rescue | **<big>[[G4506\|ρύσεταί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| enemies | **<big>[[G2190\|εχθρών]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| mighty | **<big>[[G1415\|δυνατών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| detesting | **<big>[[G3404\|μισούντων]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they are more solidified | **<big>[[G4732\|εστερεώθησαν]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| me. | **<big>[[G1473\|εμέ]]</big>** |
 [[Ps.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.16|<< Psalm 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.18|Psalm 18:18 >>]]</td></tr></table>
 
 

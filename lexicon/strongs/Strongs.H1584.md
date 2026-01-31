@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּמַר‎</span></big> **gâmar** <small>*(gaw-mar')*</small> ==**to cease**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּמַר‎</span></big>** **gâmar** <small>*(gaw-mar')*</small> ==**to cease**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cease, come to an end, fail, perfect, perform.
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to come to an end, be no more
 $\quad$ $\quad$ **1a2)** to bring to an end, complete
 **2)** (TWOT) to fail, perfect, perform
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">εὐεργετέω</span><sup><small>[[G2109]]</small></sup> · <span class="asgreek">συντελέω</span><sup><small>[[G4931]]</small></sup>
+<small>See Greek: </small>**<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G2109|εὐεργετέω]]</big>** · **<big>[[G4931|συντελέω]]</big>**

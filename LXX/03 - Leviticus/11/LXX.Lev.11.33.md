@@ -7,25 +7,25 @@ And every earthen vessel, whereinto [any] of them falleth, whatsoever [is] in it
 If any of them falls into a clay pot, everything in it will be unclean; you must break the pot.<small><sub>**MT:**</sub></small>
 [[Lev.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.32|<< Leviticus 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.34|Leviticus 11:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| item | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| earthenware | <big><span class="asgreek">οστράκινον</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should fall in | <big><span class="asgreek">εμπέση</span></big> <sup><small><small>[[G1706]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| inside, | <big><span class="asgreek">ένδον</span></big> <sup><small><small>[[G7228]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be inside, | <big><span class="asgreek">ένδον</span></big> <sup><small><small>[[G7228]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| it shall be unclean, | <big><span class="asgreek">ακάθαρτα</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be broken. | <big><span class="asgreek">συντριβήσεται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| item | **<big>[[G4632\|σκεύος]]</big>** |
+| earthenware | **<big>[[G3749\|οστράκινον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should fall in | **<big>[[G1706\|εμπέση]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| inside, | **<big>[[G7228\|ένδον]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should be inside, | **<big>[[G7228\|ένδον]]</big>** **<big>[[G1510\|η]]</big>** |
+| it shall be unclean, | **<big>[[G0169\|ακάθαρτα]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| shall be broken. | **<big>[[G4937\|συντριβήσεται]]</big>** |
 [[Lev.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.32|<< Leviticus 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.34|Leviticus 11:34 >>]]</td></tr></table>
 
 

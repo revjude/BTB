@@ -6,24 +6,24 @@ if I had not dreaded the taunt of the enemy, lest their adversaries misunderstan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if not  | <span class="ashebrew"><big>לוּלֵ֗י </big></span><small><small><sup>[[H3884]]</sup></small></small> &#8207;| lu.Lei <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] provocation of  | <span class="ashebrew"><big>כַּ֤עַס </big></span><small><small><sup>[[H3708A]]</sup></small></small> &#8207;| Ka.'as <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an enemy  | <span class="ashebrew"><big>אוֹיֵב֙ </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| 'o.Yev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I was afraid  | <span class="ashebrew"><big>אָג֔וּר </big></span><small><small><sup>[[H1481C]]</sup></small></small> &#8207;| 'a.Gur <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּֽן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they should misconstrue  | <span class="ashebrew"><big>יְנַכְּר֖וּ </big></span><small><small><sup>[[H5234B]]</sup></small></small> &#8207;| ye.na.ke.Ru <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opponents their  | <span class="ashebrew"><big>צָרֵ֑י </big></span><small><small><sup>[[H6862C]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| tza.Rei. <small><sup>[[HNcmpc]]</sup></small> mov <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they should say  | <span class="ashebrew"><big>יֹֽאמְרוּ֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.me.Ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands our  | <span class="ashebrew"><big>יָדֵ֣י </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| ya.Dei. <small><sup>[[HNcbdc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was raised  | <span class="ashebrew"><big>רָ֔מָה </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| Ra.mah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  | <span class="ashebrew"><big>פָּעַ֥ל </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| pa.'Al <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹֽאת </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if not  |**<big>&#8207;[[H3884\|לוּלֵ֗י]]&#8207; </big>**| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] provocation of  |**<big>&#8207;[[H3708A\|כַּ֤עַס]]&#8207; </big>**| Ka.'as<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an enemy  |**<big>&#8207;[[H0341\|אוֹיֵב֙]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was afraid  |**<big>&#8207;[[H1481C\|אָג֔וּר]]&#8207; </big>**| 'a.Gur<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they should misconstrue  |**<big>&#8207;[[H5234B\|יְנַכְּר֖וּ]]&#8207; </big>**| ye.na.ke.Ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents their  |**<big>&#8207;[[H6862C\|צָרֵ֑י]]&#8207;&#8207;[[H9028\|מוֹ]]&#8207; </big>**| tza.Rei.<small><sup>[[HNcmpc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they should say  |**<big>&#8207;[[H0559\|יֹֽאמְרוּ֙]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands our  |**<big>&#8207;[[H3027H\|יָדֵ֣י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ya.Dei.<small><sup>[[HNcbdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was raised  |**<big>&#8207;[[H7311A\|רָ֔מָה]]&#8207; </big>**| Ra.mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6466\|פָּעַ֥ל]]&#8207; </big>**| pa.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
 

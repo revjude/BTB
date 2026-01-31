@@ -7,20 +7,20 @@ And the chief of the house of the father of the Gershonites [shall be] Eliasaph 
 and the leader of the families of the Gershonites was Eliasaph son of Lael.<small><sub>**MT:**</sub></small>
 [[Num.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.23|<< Numbers 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.25|Numbers 3:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] household | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] family | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">δήμου</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Gershon | <big><span class="asgreek">Γερσών</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
-| \[was\] Elisaph | <big><span class="asgreek">Ελεισάφ</span></big> <sup><small><small>[[H0460]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Lael. | <big><span class="asgreek">Δαήλ</span></big> <sup><small><small>[[H3815]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of \[the\] household | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] family | **<big>[[G3965\|πατριάς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G1218\|δήμου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Gershon | **<big>[[H1648\|Γερσών]]</big>** |
+| \[was\] Elisaph | **<big>[[H0460\|Ελεισάφ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Lael. | **<big>[[H3815\|Δαήλ]]</big>** |
 [[Num.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.23|<< Numbers 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.25|Numbers 3:25 >>]]</td></tr></table>
 
 

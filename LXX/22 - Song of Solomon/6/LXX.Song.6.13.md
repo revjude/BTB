@@ -7,18 +7,18 @@ Return, return, O Shulamite; return, return, that we may look upon thee. What wi
 Come back, come back, O Shulammite! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite, as on the dance of Mahanaim?<small><sub>**MT:**</sub></small>
 [[Song.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.12|<< Song of Solomon 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.1|Song of Solomon 7:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| O Shulamite. | <big><span class="asgreek">Σουλαμίτις</span></big> <sup><small><small>[[H7759]]</small></small></sup> |
-| Return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will look | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Return! | **<big>[[G1994\|επίστρεφε]]</big>** |
+| return! | **<big>[[G1994\|επίστρεφε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| O Shulamite. | **<big>[[H7759\|Σουλαμίτις]]</big>** |
+| Return! | **<big>[[G1994\|επίστρεφε]]</big>** |
+| return! | **<big>[[G1994\|επίστρεφε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will look | **<big>[[G3708\|οψόμεθα]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Song.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.12|<< Song of Solomon 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.1|Song of Solomon 7:1 >>]]</td></tr></table>
 
 

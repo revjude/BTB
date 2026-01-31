@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרַב‎</span></big> **chârab** <small>*(khaw-rab')*</small> ==**to dry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">חֲרֵב</span> **chărêb** <small>*(khaw-rabe')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎חָרַב‎</span></big>** **chârab** <small>*(khaw-rab')*</small> ==**to dry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲרֵב</span></big>** **chărêb** <small>*(khaw-rabe')*</small>; a primitive root</small>
 
 $\quad$ decay, (be) desolate, destroy(-er), (be) dry (up), slay, [idiom] surely, (lay, lie, make) waste.
 - ***to parch*** (through drought) i.e. (by analogy,) ***to desolate***, ***destroy***, ***kill***
@@ -18,4 +18,4 @@ $\quad$ **2c)** (Hiphil) to dry up
 $\quad$ **2d)** (Hophal) to be dried up
 **3)** to attack, smite down, slay, fight
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαφθείρω</span><sup><small>[[G1311]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">ἐρημία</span><sup><small>[[G2047]]</small></sup> · <span class="asgreek">ἔρημος</span><sup><small>[[G2048]]</small></sup> · <span class="asgreek">ἐρημόω</span><sup><small>[[G2049]]</small></sup> · <span class="asgreek">μάχομαι</span><sup><small>[[G3164]]</small></sup> · <span class="asgreek">ξηραίνω</span><sup><small>[[G3583]]</small></sup>
+<small>See Greek: </small>**<big>[[G1311|διαφθείρω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G2047|ἐρημία]]</big>** · **<big>[[G2048|ἔρημος]]</big>** · **<big>[[G2049|ἐρημόω]]</big>** · **<big>[[G3164|μάχομαι]]</big>** · **<big>[[G3583|ξηραίνω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִתַּי‎</span></big> **ʼIttay** <small>*(it-tah'ee)*</small> ==**Ittai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">אִיתַי</span> **ʼÎythay** <small>*(ee-thah'ee)*</small>; from <span class="ashebrew">‎אֵת‎</span><sup><small>[[H0854]]</small></sup>; near</small>
+**<big><span class="ashebrew">‎אִתַּי‎</span></big>** **ʼIttay** <small>*(it-tah'ee)*</small> ==**Ittai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">אִיתַי</span></big>** **ʼÎythay** <small>*(ee-thah'ee)*</small>; from **<big>[[H0854|‎אֵת‎]]</big>**; near</small>
 
 $\quad$ Ithai, Ittai.
 - § Ittai or Ithai = *"with me"*

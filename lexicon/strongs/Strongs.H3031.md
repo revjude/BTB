@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִדְבָּשׁ‎</span></big> **Yidbâsh** <small>*(yid-bawsh')*</small> ==**Idbash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎דְּבַשׁ‎</span><sup><small>[[H1706]]</small></sup>; perhaps honeyed</small>
+**<big><span class="ashebrew">‎יִדְבָּשׁ‎</span></big>** **Yidbâsh** <small>*(yid-bawsh')*</small> ==**Idbash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H1706|‎דְּבַשׁ‎]]</big>**; perhaps honeyed</small>
 
 $\quad$ Idbash.
 - § Idbash = *"stout"*

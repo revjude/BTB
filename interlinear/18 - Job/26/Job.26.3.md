@@ -6,15 +6,15 @@ How you have counseled the unwise and provided fully sound insight!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.2|<< Job 26:2]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.4|Job 26:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how!  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have counseled  | <span class="ashebrew"><big>יָּ֭עַצְתָּ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| Ya.'atz.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> not  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sound wisdom  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תוּשִׁיָּ֗ה </big></span><small><small><sup>[[H8454]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tu.shi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for abundance  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֹ֥ב </big></span><small><small><sup>[[H7230]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Ro <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have made known  | <span class="ashebrew"><big>הוֹדָֽעְתָּ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ho.Da.'e.ta <small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have counseled  |**<big>&#8207;[[H3289\|יָּ֭עַצְתָּ]]&#8207; </big>**| Ya.'atz.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֑ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sound wisdom  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8454\|תוּשִׁיָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tu.shi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for abundance  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7230\|רֹ֥ב]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have made known  |**<big>&#8207;[[H3045\|הוֹדָֽעְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ho.Da.'e.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.2|<< Job 26:2]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.4|Job 26:4 >>]]</td></tr></table>
 
 

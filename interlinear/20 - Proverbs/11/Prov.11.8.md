@@ -6,14 +6,14 @@ The righteous man is delivered from trouble; in his place the wicked man goes in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.7|<< Proverbs 11:7]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.9|Proverbs 11:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a righteous [person]  | <span class="ashebrew"><big>צַ֭דִּיק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from distress  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>צָּרָ֣ה </big></span><small><small><sup>[[H6869B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> tza.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] delivered  | <span class="ashebrew"><big>נֶחֱלָ֑ץ </big></span><small><small><sup>[[H2502A]]</sup></small></small> &#8207;| ne.che.Latz <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֖א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wicked [person]  | <span class="ashebrew"><big>רָשָׁ֣ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place his  | <span class="ashebrew"><big>תַּחְתָּֽי </big></span><small><small><sup>[[H8478H]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tach.Ta <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from distress  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6869B\|צָּרָ֣ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] delivered  |**<big>&#8207;[[H2502A\|נֶחֱלָ֑ץ]]&#8207; </big>**| ne.che.Latz<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֖א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֣ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place his  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.7|<< Proverbs 11:7]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.9|Proverbs 11:9 >>]]</td></tr></table>
 
 

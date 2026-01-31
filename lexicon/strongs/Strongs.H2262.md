@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֲבַצַּנְיָה‎</span></big> **Chăbatstsanyâh** <small>*(khab-ats-tsan-yaw')*</small> ==**Habazziniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎חֲבַצַּנְיָה‎</span></big>** **Chăbatstsanyâh** <small>*(khab-ats-tsan-yaw')*</small> ==**Habazziniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Habazaniah.

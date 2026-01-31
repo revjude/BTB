@@ -6,25 +6,25 @@ Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| come down  | <span class="ashebrew"><big>רְדִ֤י </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| re.Di <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from honor  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּבוֹד֙ </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ka.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sit  [^2] | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁבִ֣י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;[^3] | vu. <small><sup>[[HC]]</sup></small> she.vei <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| in \<the> thirst  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צָּמָ֔א </big></span><small><small><sup>[[H6772]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> tza.Ma' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O inhabitant[s]  | <span class="ashebrew"><big>יֹשֶׁ֖בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.She.vet <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dibon  | <span class="ashebrew"><big>דִּיב֑וֹן </big></span><small><small><sup>[[H1769G]]</sup></small></small> &#8207;| di.Von <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] destroyer of  | <span class="ashebrew"><big>שֹׁדֵ֤ד </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| sho.Ded <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָב֙ </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will come up  | <span class="ashebrew"><big>עָ֣לָה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'A.lah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on \<the> you  | <span class="ashebrew"><big>בָ֔ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| Va <small><sup>[[HRd]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will ruin  | <span class="ashebrew"><big>שִׁחֵ֖ת </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| shi.Chet <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strongholds your  | <span class="ashebrew"><big>מִבְצָרָֽיִ </big></span><small><small><sup>[[H4013]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| miv.tza.Ra.yi <small><sup>[[HNcmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come down  |**<big>&#8207;[[H3381\|רְדִ֤י]]&#8207; </big>**| re.Di<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from honor  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3519\|כָּבוֹד֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sit  [^2]|**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3427\|שְׁבִ֣י]]&#8207; </big>**[^3] | vu.<small><sup>[[HC]]</sup></small> she.vei<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| in \<the> thirst  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H6772\|צָּמָ֔א]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> tza.Ma'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O inhabitant[s]  |**<big>&#8207;[[H3427\|יֹשֶׁ֖בֶת]]&#8207; </big>**| yo.She.vet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dibon  |**<big>&#8207;[[H1769G\|דִּיב֑וֹן]]&#8207; </big>**| di.Von<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] destroyer of  |**<big>&#8207;[[H7703\|שֹׁדֵ֤ד]]&#8207; </big>**| sho.Ded<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come up  |**<big>&#8207;[[H5927G\|עָ֣לָה]]&#8207; </big>**| 'A.lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on \<the> you  |**<big>&#8207;[[H9003\|בָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will ruin  |**<big>&#8207;[[H7843\|שִׁחֵ֖ת]]&#8207; </big>**| shi.Chet<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strongholds your  |**<big>&#8207;[[H4013\|מִבְצָרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| miv.tza.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 
-[^1]: ==K==: **O inhabitants ** | <small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>יֹשְׁבֶי</big></span>  | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==K==: **O inhabitants ** | <small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>יֹשְׁבֶי</big></span>  | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
+[^1]: ==K==: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
+[^2]: ==K==: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>יּשְׁבִ֣י</big></span>**
 

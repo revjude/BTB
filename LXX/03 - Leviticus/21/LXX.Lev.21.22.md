@@ -7,17 +7,17 @@ He shall eat the bread of his God, [both] of the most holy, and of the holy.
 He may eat the most holy food of his God as well as the holy food,<small><sub>**MT:**</sub></small>
 [[Lev.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.21|<< Leviticus 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.23|Leviticus 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies, | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| he shall eat. | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| The | **<big>[[G3588\|τα]]</big>** |
+| holy | **<big>[[G0039\|άγια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies, | **<big>[[G0039\|αγίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holy \[things\] | **<big>[[G0039\|αγίων]]</big>** |
+| he shall eat. | **<big>[[G2068\|φάγεται]]</big>** |
 [[Lev.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.21|<< Leviticus 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.23|Leviticus 21:23 >>]]</td></tr></table>
 
 

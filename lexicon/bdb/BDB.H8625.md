@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H4484]]</small>
+<small>Also see: **<big>[[H4484|מְנֵא]]</big>**</small>
 
  <span class="bdbLangAramaic">‎תְּקֵל‎</span> **noun [masculine]** ==shekel== (see Biblical Hebrew <span class="bdbLangAramaic">‎שֶׁקֶל‎</span>; [[BDB#Tg|ᵑ7]] <span class="bdbLangAramaic">‎תִּקְלָא‎</span>); — absolute <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ת‎</span> [[Dan.5.25|Dan 5:25]]; [[Dan.5.27|Dan 5:27]] see  <span class="bdbLangHebrew">‎מְנֵא‎</span> and references 
 

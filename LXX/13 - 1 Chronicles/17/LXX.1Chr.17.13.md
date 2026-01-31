@@ -11,32 +11,32 @@ I will be his Father, and he will be My son. And I will never remove My loving d
 > $\quad$ referenced by: [[Heb.1.5|Heb 1:5]] ☩ [[Rev.21.7|Rev 21:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| father, | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| son. | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remove | <big><span class="asgreek">αποστήσω</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| I removed | <big><span class="asgreek">απέστησα</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will be | **<big>[[G1510\|έσομαι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| father, | **<big>[[G3962\|πατέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| son. | **<big>[[G5207\|υιόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| remove | **<big>[[G0868\|αποστήσω]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| I removed | **<big>[[G0868\|απέστησα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| before | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[1Chr.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.12|<< 1 Chronicles 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.14|1 Chronicles 17:14 >>]]</td></tr></table>
 
 

@@ -6,29 +6,29 @@ Then the LORD said to Isaiah, “Go out with your son Shear-jashub to meet Ahaz 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.2|<< Isaiah 7:2]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.4|Isaiah 7:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֮ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶֽל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaiah  | <span class="ashebrew"><big>יְשַׁעְיָהוּ֒ </big></span><small><small><sup>[[H3470A]]</sup></small></small> &#8207;| ye.sha'.ya.Hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go out  | <span class="ashebrew"><big>צֵא </big></span><small><small><sup>[[H3318G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tze'- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָא֙ </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to meet  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>קְרַ֣את </big></span><small><small><sup>[[H7122G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> k.Rat <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahaz  | <span class="ashebrew"><big>אָחָ֔ז </big></span><small><small><sup>[[H0271G]]</sup></small></small> &#8207;| 'a.Chaz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֕ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Shear-  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁאָ֖ר </big></span><small><small><sup>[[H7610]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.'Ar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jashub  | <span class="ashebrew"><big>יָשׁ֣וּב </big></span><small><small><sup>[[H7610]]</sup></small></small> &#8207;| ya.Shuv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son your  | <span class="ashebrew"><big>בְּנֶ֑ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be.Ne. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] end of  | <span class="ashebrew"><big>קְצֵ֗ה </big></span><small><small><sup>[[H7097A]]</sup></small></small> &#8207;| ke.Tzeh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] conduit of  | <span class="ashebrew"><big>תְּעָלַת֙ </big></span><small><small><sup>[[H8585A]]</sup></small></small> &#8207;| te.'a.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the pool  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בְּרֵכָ֣ה </big></span><small><small><sup>[[H1295H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> be.re.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> upper  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֶלְיוֹנָ֔ה </big></span><small><small><sup>[[H5945A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'el.yo.Nah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] highway of  | <span class="ashebrew"><big>מְסִלַּ֖ת </big></span><small><small><sup>[[H4546]]</sup></small></small> &#8207;| me.si.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] field of  | <span class="ashebrew"><big>שְׂדֵ֥ה </big></span><small><small><sup>[[H7704H]]</sup></small></small> &#8207;| se.Deh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] washer  | <span class="ashebrew"><big>כוֹבֵֽס </big></span><small><small><sup>[[H3526G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kho.Ves <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaiah  |**<big>&#8207;[[H3470A\|יְשַׁעְיָהוּ֒]]&#8207; </big>**| ye.sha'.ya.Hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go out  |**<big>&#8207;[[H3318G\|צֵא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tze'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָא֙]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to meet  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרַ֣את]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.Rat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahaz  |**<big>&#8207;[[H0271G\|אָחָ֔ז]]&#8207; </big>**| 'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֕ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shear-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7610\|שְׁאָ֖ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'Ar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jashub  |**<big>&#8207;[[H7610\|יָשׁ֣וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son your  |**<big>&#8207;[[H1121A\|בְּנֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| be.Ne.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] end of  |**<big>&#8207;[[H7097A\|קְצֵ֗ה]]&#8207; </big>**| ke.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] conduit of  |**<big>&#8207;[[H8585A\|תְּעָלַת֙]]&#8207; </big>**| te.'a.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pool  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1295H\|בְּרֵכָ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.re.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> upper  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5945A\|עֶלְיוֹנָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'el.yo.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] highway of  |**<big>&#8207;[[H4546\|מְסִלַּ֖ת]]&#8207; </big>**| me.si.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field of  |**<big>&#8207;[[H7704H\|שְׂדֵ֥ה]]&#8207; </big>**| se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] washer  |**<big>&#8207;[[H3526G\|כוֹבֵֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kho.Ves<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.2|<< Isaiah 7:2]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.4|Isaiah 7:4 >>]]</td></tr></table>
 
 

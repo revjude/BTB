@@ -7,18 +7,18 @@ For his eyes [are] upon the ways of man, and he seeth all his goings.
 For His eyes are on the ways of a man, and He sees his every step.<small><sub>**MT:**</sub></small>
 [[Job.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.20|<< Job 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.22|Job 34:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is an observer | <big><span class="asgreek">ορατής</span></big> <sup><small><small>[[G8543]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of \[the\] works | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| has escaped | <big><span class="asgreek">λέληθε</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| of how | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they act | <big><span class="asgreek">πράσσουσιν</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| For he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| is an observer | **<big>[[G8543\|ορατής]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| of \[the\] works | **<big>[[G2041\|έργων]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| has escaped | **<big>[[G2990\|λέληθε]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| nothing | **<big>[[G3762\|ουδέν]]</big>** |
+| of how | **<big>[[G3739\|ων]]</big>** |
+| they act | **<big>[[G4238\|πράσσουσιν]]</big>** |
 [[Job.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.20|<< Job 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.22|Job 34:22 >>]]</td></tr></table>
 
 

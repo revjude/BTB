@@ -1,4 +1,4 @@
-spelling of: <small>[[G3471]]</small> 
+spelling of: <small>**<big>[[G3471|μωραίνω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μωρεύω==</span>-<span class='asgreek'>εύω</span></b>, 

@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adin</span> was one of the leaders of the people who signed the covenant of faithfulness to God during the time of Nehemiah.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.10.16|Neh.10.16]]; 
-- only referred to as Adin<[[H5720H]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Adin **<big>[[H5720|עָדִין]]</big>**.
 
 Adin is mentioned in [[Neh.10.16|Nehemiah 10:16]] as one of the leaders of the people who signed the covenant of faithfulness to God during the time of Nehemiah. This covenant was made after the completion of the wall of Jerusalem and the public reading of the Book of the Law. 
 
@@ -16,5 +16,5 @@ Apart from being listed among the signatories of the covenant, no other informat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adin | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5720H) <small>*Hebrew*</small> | 1x | [Neh.10.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adin\*\|reference=Neh.10.16) |
-All Strong's for **Adin**: \[[[H5720H]]\]
+| Adin | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5720H) | 1x | [Neh.10.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adin\*\|reference=Neh.10.16) |
+All entries for **Adin**:  **<big>[[H5720|עָדִין]]</big>**

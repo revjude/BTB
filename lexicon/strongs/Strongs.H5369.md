@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֵר‎</span></big> **Nêr** <small>*(nare)*</small> ==**Ner**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נִיר‎</span><sup><small>[[H5216]]</small></sup>; lamp</small>
+**<big><span class="ashebrew">‎נֵר‎</span></big>** **Nêr** <small>*(nare)*</small> ==**Ner**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5216|‎נִיר‎]]</big>**; lamp</small>
 
 $\quad$ Ner.
 - § Ner = *"lamp"*

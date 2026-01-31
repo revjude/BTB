@@ -7,26 +7,26 @@ And he put them on the shoulders of the ephod, [that they should be] stones for 
 Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
 [[Exod.39.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.6|<< Exodus 39:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.8|Exodus 39:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulders | <big><span class="asgreek">ώμους</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece; | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of memorial | <big><span class="asgreek">μνημοσύνου</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| they placed | **<big>[[G2007\|επέθηκαν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| shoulders | **<big>[[G5606\|ώμους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece; | **<big>[[G7490\|επωμίδος]]</big>** |
+| stones | **<big>[[G3037\|λίθοι]]</big>** |
+| of memorial | **<big>[[G3422\|μνημοσύνου]]</big>** |
+| they are | **<big>[[G1510\|εισίν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Exod.39.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.6|<< Exodus 39:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.8|Exodus 39:8 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ Blessed indeed is the man whom God corrects; so do not despise the discipline of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.16|<< Job 5:16]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.18|Job 5:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how blessed!  | <span class="ashebrew"><big>אַשְׁרֵ֣י </big></span><small><small><sup>[[H0835]]</sup></small></small> &#8207;| 'ash.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] person  | <span class="ashebrew"><big>אֱ֭נוֹשׁ </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'E.no.osh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [whom] he reproves him  | <span class="ashebrew"><big>יוֹכִחֶ֣ </big></span><small><small><sup>[[H3198]]</sup></small></small> <span class="ashebrew"><big>נּֽוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| yo.khi.Che. <small><sup>[[HVhi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱל֑וֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'e.Lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] discipline of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מוּסַ֥ר </big></span><small><small><sup>[[H4148G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mu.Sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁ֝דַּ֗י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| Sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you reject  | <span class="ashebrew"><big>תִּמְאָֽס </big></span><small><small><sup>[[H3988A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tim.'As <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] person  |**<big>&#8207;[[H0582\|אֱ֭נוֹשׁ]]&#8207; </big>**| 'E.no.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [whom] he reproves him  |**<big>&#8207;[[H3198\|יוֹכִחֶ֣]]&#8207;&#8207;[[H9033\|נּֽוּ]]&#8207; </big>**| yo.khi.Che.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0433\|אֱל֑וֹהַּ]]&#8207; </big>**| 'e.Lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] discipline of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4148G\|מוּסַ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁ֝דַּ֗י]]&#8207; </big>**| Sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you reject  |**<big>&#8207;[[H3988A\|תִּמְאָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tim.'As<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.16|<< Job 5:16]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.18|Job 5:18 >>]]</td></tr></table>
 
 

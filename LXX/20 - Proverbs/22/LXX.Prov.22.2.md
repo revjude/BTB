@@ -7,18 +7,18 @@ The rich and poor meet together: the LORD [is] the maker of them all.
 The rich and the poor have this in common: The LORD is Maker of them all.<small><sub>**MT:**</sub></small>
 [[Prov.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.1|<< Proverbs 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.3|Proverbs 22:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rich | <big><span class="asgreek">πλούσιος</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συνήντησαν</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| one another; | <big><span class="asgreek">αλλήλοις</span></big> <sup><small><small>[[G0240]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφοτέρους</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| Rich | **<big>[[G4145\|πλούσιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poor | **<big>[[G4434\|πτωχός]]</big>** |
+| meet with | **<big>[[G4876\|συνήντησαν]]</big>** |
+| one another; | **<big>[[G0240\|αλλήλοις]]</big>** |
+| both | **<big>[[G0297\|αμφοτέρους]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| made | **<big>[[G4160\|εποίησε]]</big>** |
 [[Prov.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.1|<< Proverbs 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.3|Proverbs 22:3 >>]]</td></tr></table>
 
 

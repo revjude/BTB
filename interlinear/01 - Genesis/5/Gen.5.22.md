@@ -6,22 +6,22 @@ And after he had become the father of Methuselah, Enoch walked with God 300 year
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.21|<< Genesis 5:21]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.23|Genesis 5:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he walked about  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְהַלֵּ֨ךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yit.ha.Lekh <small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Enoch  | <span class="ashebrew"><big>חֲנ֜וֹךְ </big></span><small><small><sup>[[H2585H]]</sup></small></small> &#8207;| cha.Nokh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֱלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַֽחֲרֵי֙ </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fathered he  | <span class="ashebrew"><big>הוֹלִיד֣ </big></span><small><small><sup>[[H3205]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9043]]</sup></small></small> &#8207;| ho.li.D <small><sup>[[HVhcc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Methuselah  | <span class="ashebrew"><big>מְתוּשֶׁ֔לַח </big></span><small><small><sup>[[H4968]]</sup></small></small> &#8207;| me.tu.She.lach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֥שׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Losh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he fathered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יּ֥וֹלֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.led <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons  | <span class="ashebrew"><big>בָּנִ֖ים </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and daughters  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָנֽוֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> va.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he walked about  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980I\|יִּתְהַלֵּ֨ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ha.Lekh<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Enoch  |**<big>&#8207;[[H2585H\|חֲנ֜וֹךְ]]&#8207; </big>**| cha.Nokh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathered he  |**<big>&#8207;[[H3205\|הוֹלִיד֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ho.li.D<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Methuselah  |**<big>&#8207;[[H4968\|מְתוּשֶׁ֔לַח]]&#8207; </big>**| me.tu.She.lach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֥וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  |**<big>&#8207;[[H1121A\|בָּנִ֖ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בָנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.21|<< Genesis 5:21]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.23|Genesis 5:23 >>]]</td></tr></table>
 
 

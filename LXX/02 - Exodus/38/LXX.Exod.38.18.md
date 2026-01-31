@@ -7,44 +7,44 @@ And the hanging for the gate of the court [was] needlework, [of] blue, and purpl
 The curtain for the entrance to the courtyard was embroidered with blue, purple, and scarlet yarn, and finely spun linen. It was twenty cubits long and, like the curtains of the courtyard, five cubits high,<small><sub>**MT:**</sub></small>
 [[Exod.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.17|<< Exodus 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.19|Exodus 38:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil | <big><span class="asgreek">καταπέτασμα</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \[was\] a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of an embroiderer, | <big><span class="asgreek">ποικιλτού</span></big> <sup><small><small>[[G8833]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| blue, | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| being spun, | <big><span class="asgreek">νενησμένου</span></big> <sup><small><small>[[G3514]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined; | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits, | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| being made equal | <big><span class="asgreek">εξισούμενον</span></big> <sup><small><small>[[G7336]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrouds | <big><span class="asgreek">ιστίοις</span></big> <sup><small><small>[[G7732]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard. | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| veil | **<big>[[G2665\|καταπέτασμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| \[was\] a work | **<big>[[G2041\|έργον]]</big>** |
+| of an embroiderer, | **<big>[[G8833\|ποικιλτού]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| blue, | **<big>[[G5192\|υακίνθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet | **<big>[[G2847\|κοκκίνου]]</big>** |
+| being spun, | **<big>[[G3514\|νενησμένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined; | **<big>[[G8029\|κεκλωσμένης]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| length, | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits, | **<big>[[G4083\|πηχέων]]</big>** |
+| being made equal | **<big>[[G7336\|εξισούμενον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| shrouds | **<big>[[G7732\|ιστίοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard. | **<big>[[G0833\|αυλής]]</big>** |
 [[Exod.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.17|<< Exodus 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.19|Exodus 38:19 >>]]</td></tr></table>
 
 

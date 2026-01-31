@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָנָה‎</span></big> **mânâh** <small>*(maw-naw')*</small> ==**to count**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָנָה‎</span></big>** **mânâh** <small>*(maw-naw')*</small> ==**to count**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, count, number, prepare, set, tell.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1b2)** to be reckoned, be assigned
 $\quad$ **1c)** (Piel) to appoint, ordain
 $\quad$ **1d)** (Pual) appointed (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλάσσω</span><sup><small>[[G0236]]</small></sup> · <span class="asgreek">ἀναδείκνυμι</span><sup><small>[[G0322]]</small></sup> · <span class="asgreek">ἀριθμέω</span><sup><small>[[G0705]]</small></sup> · <span class="asgreek">διατάσσω</span><sup><small>[[G1299]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">καθίστημι</span><sup><small>[[G2525]]</small></sup> · <span class="asgreek">λογίζομαι</span><sup><small>[[G3049]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">προστάσσω</span><sup><small>[[G4367]]</small></sup>
+<small>See Greek: </small>**<big>[[G0236|ἀλλάσσω]]</big>** · **<big>[[G0322|ἀναδείκνυμι]]</big>** · **<big>[[G0705|ἀριθμέω]]</big>** · **<big>[[G1299|διατάσσω]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G2525|καθίστημι]]</big>** · **<big>[[G3049|λογίζομαι]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4367|προστάσσω]]</big>**

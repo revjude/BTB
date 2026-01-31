@@ -6,15 +6,15 @@ I observed and took it to heart; I looked and received instruction:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.31|<< Proverbs 24:31]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.33|Proverbs 24:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I saw  | <span class="ashebrew"><big>וָֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֶחֱזֶ֣ה </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'e.che.Zeh <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָ֭נֹכִֽי </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'A.no.khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I set  | <span class="ashebrew"><big>אָשִׁ֣ית </big></span><small><small><sup>[[H7896K]]</sup></small></small> &#8207;| 'a.Shit <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לִבִּ֑ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I saw  | <span class="ashebrew"><big>רָ֝אִ֗יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I received  | <span class="ashebrew"><big>לָקַ֥חְתִּי </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| la.Kach.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| instruction  | <span class="ashebrew"><big>מוּסָֽר </big></span><small><small><sup>[[H4148H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I saw  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H2372\|אֶחֱזֶ֣ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.che.Zeh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָ֭נֹכִֽי]]&#8207; </big>**| 'A.no.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I set  |**<big>&#8207;[[H7896K\|אָשִׁ֣ית]]&#8207; </big>**| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I saw  |**<big>&#8207;[[H7200G\|רָ֝אִ֗יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I received  |**<big>&#8207;[[H3947H\|לָקַ֥חְתִּי]]&#8207; </big>**| la.Kach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| instruction  |**<big>&#8207;[[H4148H\|מוּסָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.31|<< Proverbs 24:31]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.33|Proverbs 24:33 >>]]</td></tr></table>
 
 

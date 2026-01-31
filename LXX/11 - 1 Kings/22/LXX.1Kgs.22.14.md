@@ -7,19 +7,19 @@ And Micaiah said, [As] the LORD liveth, what the LORD saith unto me, that will I
 But Micaiah said, “As surely as the LORD lives, I will speak whatever the LORD tells me.”<small><sub>**MT:**</sub></small>
 [[1Kgs.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.13|<< 1 Kings 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.15|1 Kings 22:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Micaiah said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μιχαίας</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| As \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> should say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I shall speak. | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Micaiah said, | **<big>[[G2036\|είπε]]</big>** **<big>[[H4318\|Μιχαίας]]</big>** |
+| As \[the\] <span class="smallcaps">lord</span> lives, | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> should say | **<big>[[G2036\|είπη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| I shall speak. | **<big>[[G2980\|λαλήσω]]</big>** |
 [[1Kgs.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.13|<< 1 Kings 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.15|1 Kings 22:15 >>]]</td></tr></table>
 
 

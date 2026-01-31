@@ -7,47 +7,47 @@ And he shall bring his trespass offering unto the LORD for his sin which he hath
 and he must bring his guilt offering to the LORD for the sin he has committed: a female lamb or goat from the flock as a sin offering. And the priest will make atonement for him concerning his sin.<small><sub>**MT:**</sub></small>
 [[Lev.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.5|<< Leviticus 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.7|Leviticus 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall bring | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he trespassed | <big><span class="asgreek">επλημμέλησε</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
-| \[against\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sinned, | <big><span class="asgreek">ήμαρτε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| a female | <big><span class="asgreek">θήλυ</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| a ewe-lamb | <big><span class="asgreek">αμνάδα</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a yearling | <big><span class="asgreek">χίμαιραν</span></big> <sup><small><small>[[G9732]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] goats | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sinned, | <big><span class="asgreek">ήμαρτε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be forgiven | <big><span class="asgreek">αφεθήσεται</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall bring | **<big>[[G5342\|οίσει]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he trespassed | **<big>[[G8812\|επλημμέλησε]]</big>** |
+| \[against\] the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίας]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| he sinned, | **<big>[[G0264\|ήμαρτε]]</big>** |
+| a female | **<big>[[G2338\|θήλυ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| a ewe-lamb | **<big>[[G6261\|αμνάδα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a yearling | **<big>[[G9732\|χίμαιραν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] goats | **<big>[[G6167\|αιγών]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\]. | **<big>[[G0266\|αμαρτίας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| he sinned, | **<big>[[G0264\|ήμαρτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be forgiven | **<big>[[G0863\|αφεθήσεται]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
 [[Lev.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.5|<< Leviticus 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.7|Leviticus 5:7 >>]]</td></tr></table>
 
 

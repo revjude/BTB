@@ -7,28 +7,28 @@ He that is ready to slip with [his] feet [is as] a lamp despised in the thought 
 The one at ease scorns misfortune as the fate of those whose feet are slipping.<small><sub>**MT:**</sub></small>
 [[Job.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.4|<< Job 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.6|Job 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| time | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| an appointed | <big><span class="asgreek">τακτόν</span></big> <sup><small><small>[[G5002]]</small></small></sup> |
-| \[man\] had been prepared | <big><span class="asgreek">ητοίμαστο</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| to fall | <big><span class="asgreek">πεσείν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| others; | <big><span class="asgreek">άλλων</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| also for | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be pillaged | <big><span class="asgreek">εκπορθείσθαι</span></big> <sup><small><small>[[G7136]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| lawless ones. | <big><span class="asgreek">ανόμων</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| But let not however | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μην</span></big> <sup><small><small>[[G3375]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| any one | <big><span class="asgreek">μηθείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| rely on | <big><span class="asgreek">πεποιθέτω</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρός</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he shall be \[considered\] innocent; | <big><span class="asgreek">αθώος</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">έσεσθαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| at | **<big>[[G1519\|εις]]</big>** |
+| time | **<big>[[G5550\|χρόνον]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| an appointed | **<big>[[G5002\|τακτόν]]</big>** |
+| \[man\] had been prepared | **<big>[[G2090\|ητοίμαστο]]</big>** |
+| to fall | **<big>[[G4098\|πεσείν]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| others; | **<big>[[G0243\|άλλων]]</big>** |
+| house | **<big>[[G3624\|οίκους]]</big>** |
+| also for | **<big>[[G5037\|τε]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| to be pillaged | **<big>[[G7136\|εκπορθείσθαι]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| lawless ones. | **<big>[[G0459\|ανόμων]]</big>** |
+| But let not however | **<big>[[G3756\|ου]]</big>** **<big>[[G3375\|μην]]</big>** **<big>[[G1161\|δε]]</big>** **<big>[[G0235\|αλλά]]</big>** |
+| any one | **<big>[[G3367\|μηθείς]]</big>** |
+| rely on | **<big>[[G3982\|πεποιθέτω]]</big>** |
+| wicked | **<big>[[G4190\|πονηρός]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| he shall be \[considered\] innocent; | **<big>[[G0121\|αθώος]]</big>** **<big>[[G1510\|έσεσθαι]]</big>** |
 [[Job.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.4|<< Job 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.6|Job 12:6 >>]]</td></tr></table>
 
 

@@ -7,48 +7,48 @@ And it shall come to pass, [that] when any shall yet prophesy, then his father a
 And if anyone still prophesies, his father and mother who bore him will say to him, ‘You shall not remain alive, because you have spoken falsely in the name of the LORD.’ When he prophesies, his father and mother who bore him will pierce him through.<small><sub>**MT:**</sub></small>
 [[Zech.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.2|<< Zechariah 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.4|Zechariah 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should prophesy | <big><span class="asgreek">προφητεύση</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| still, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| engendering | <big><span class="asgreek">γεννήσαντες</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| live, | <big><span class="asgreek">ζήση</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bind | <big><span class="asgreek">συμποδιούσιν</span></big> <sup><small><small>[[G9277]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| (his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| engendering | <big><span class="asgreek">γεννήσαντες</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| him) | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his prophesying. | <big><span class="asgreek">προφητεύειν</span></big> <sup><small><small>[[G4395]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should prophesy | **<big>[[G4395\|προφητεύση]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| still, | **<big>[[G2089\|έτι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερεί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his mother, | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| engendering | **<big>[[G1080\|γεννήσαντες]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| live, | **<big>[[G2198\|ζήση]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| lies | **<big>[[G5571\|ψευδή]]</big>** |
+| you spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| they shall bind | **<big>[[G9277\|συμποδιούσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| (his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his mother, | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| engendering | **<big>[[G1080\|γεννήσαντες]]</big>** |
+| him) | **<big>[[G1473\|αυτόν]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his prophesying. | **<big>[[G4395\|προφητεύειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Zech.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.2|<< Zechariah 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.4|Zechariah 13:4 >>]]</td></tr></table>
 
 

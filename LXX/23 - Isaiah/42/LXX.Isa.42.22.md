@@ -7,43 +7,43 @@ But this [is] a people robbed and spoiled; [they are] all of them snared in hole
 But this is a people plundered and looted, all trapped in caves or imprisoned in dungeons. They have become plunder with no one to rescue them, and loot with no one to say, “Send them back!”<small><sub>**MT:**</sub></small>
 [[Isa.42.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.21|<< Isaiah 42:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.23|Isaiah 42:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| were being despoiled | <big><span class="asgreek">πεπρονομευμένος</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| plundered; | <big><span class="asgreek">διηρπασμένος</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| for the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storerooms | <big><span class="asgreek">ταμείοις</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| everywhere, | <big><span class="asgreek">πανταχού</span></big> <sup><small><small>[[G3837]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκοις</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| where | <big><span class="asgreek">όπου</span></big> <sup><small><small>[[G3699]]</small></small></sup> |
-| they hid | <big><span class="asgreek">έκρυψαν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder, | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rescuing | <big><span class="asgreek">εξαιρούμενος</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| one seized; | <big><span class="asgreek">άρπαγμα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Give back! | <big><span class="asgreek">απόδος</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld, | **<big>[[G1492\|είδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| were being despoiled | **<big>[[G8902\|πεπρονομευμένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| plundered; | **<big>[[G1283\|διηρπασμένος]]</big>** |
+| for the | **<big>[[G3588\|η]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| snare | **<big>[[G3803\|παγίς]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| storerooms | **<big>[[G5009\|ταμείοις]]</big>** |
+| everywhere, | **<big>[[G3837\|πανταχού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκοις]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| where | **<big>[[G3699\|όπου]]</big>** |
+| they hid | **<big>[[G2928\|έκρυψαν]]</big>** |
+| them; | **<big>[[G1473\|αυτούς]]</big>** |
+| they became | **<big>[[G1096\|εγένοντο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder, | **<big>[[G8903\|προνομήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| rescuing | **<big>[[G1807\|εξαιρούμενος]]</big>** |
+| one seized; | **<big>[[G6540\|άρπαγμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Give back! | **<big>[[G0591\|απόδος]]</big>** |
 [[Isa.42.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.21|<< Isaiah 42:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.23|Isaiah 42:23 >>]]</td></tr></table>
 
 

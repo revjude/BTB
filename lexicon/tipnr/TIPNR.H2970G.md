@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jaazaniah</span>, the son of Jeremiah, was a Rechabite who was tested by the prophet Jeremiah for his obedience to his ancestor's commands \([[Jer.35.3|Jer.35.3]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[Jer.35.3|Jer.35.3]]; 
-- only referred to as Jaazaniah<[[H2970G]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Jeremiah<[[H3414N]]>.
+- only referred to as Jaazaniah **<big>[[H2970|יַאֲזַנְיָה]]</big>**; 
+- a son of Jeremiah **<big>[[H3414|יִרְמְיָה]]</big>**.
 
 Jaazaniah, the son of Jeremiah \(not the prophet\), is mentioned in [[Jer.35.3|Jeremiah 35:3]] as a member of the Rechabite clan during the time of the prophet Jeremiah. The Rechabites were a nomadic tribe known for their strict adherence to the commands of their ancestor, Jonadab son of Rechab \(Jer.35.6-7\). 
 
@@ -17,7 +17,7 @@ Jaazaniah's inclusion in this narrative serves to highlight the faithfulness of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970G) <small>*Hebrew*</small> | 1x | [Jer.35.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Jer.35.3) |
-All Strong's for **Jaazaniah**: \[[[H2970G]]\]
+| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970G) | 1x | [Jer.35.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Jer.35.3) |
+All entries for **Jaazaniah**:  **<big>[[H2970|יַאֲזַנְיָה]]</big>**
 #### Related Profiles:
 - **[Jeremiah](H3414N)** (father)

@@ -7,19 +7,19 @@ One young bullock, one ram, one lamb of the first year, for a burnt offering:
 one young bull, one ram, and one male lamb a year old for a burnt offering;<small><sub>**MT:**</sub></small>
 [[Num.7.75|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.74|<< Numbers 7:74]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.76|Numbers 7:76 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| he-lamb | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαύσιον</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering; | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] oxen, | **<big>[[G1016\|βοών]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| he-lamb | **<big>[[G0286\|αμνόν]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαύσιον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering; | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
 [[Num.7.75|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.74|<< Numbers 7:74]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.76|Numbers 7:76 >>]]</td></tr></table>
 
 

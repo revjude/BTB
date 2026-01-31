@@ -1,8 +1,8 @@
 <small>*Ezel Stone • Location where David and Jonathan planned to meet*</small>
 
 The Stone of Ezel, a location where David and Jonathan planned to meet and communicate secretly during David's flight from King Saul.
-- A location near Jerusalem<[[H3389]]> only mentioned at [[1Sam.20.19|1Sa.20.19]]; 
-- only referred to as Ezel\_Stone<[[H0237]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[1Sam.20.19|1Sa.20.19]]; 
+- only referred to as Ezel\_Stone **<big>[[H0237|אֶזֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The Stone of Ezel incident demonstrates the deep friendship between David and Jo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ezel | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H0237) <small>*Hebrew*</small> | 1x | [1Sa.20.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezel\*\|reference=1Sa.20.19) |
-All Strong's for **Ezel_Stone**: \[[[H0237]]\]
+| Ezel | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H0237) | 1x | [1Sa.20.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezel\*\|reference=1Sa.20.19) |
+All entries for **Ezel Stone**:  **<big>[[H0237|אֶזֶל]]</big>**

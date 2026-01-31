@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מְרָיָה‎</span></big> **Mᵉrâyâh** <small>*(mer-aw-yaw')*</small> ==**Meraiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מָרָה‎</span><sup><small>[[H4784]]</small></sup>; rebellion</small>
+**<big><span class="ashebrew">‎מְרָיָה‎</span></big>** **Mᵉrâyâh** <small>*(mer-aw-yaw')*</small> ==**Meraiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4784|‎מָרָה‎]]</big>**; rebellion</small>
 
-$\quad$ Meraiah. Compare <span class="ashebrew">‎יִמְרָה‎</span><sup><small>[[H3236]]</small></sup>.
+$\quad$ Meraiah. Compare **<big>[[H3236|‎יִמְרָה‎]]</big>**.
 - § Meraiah = *"rebellion"*
 - ***Merajah***, an Israelite
 

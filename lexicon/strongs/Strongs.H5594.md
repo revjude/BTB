@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָפַד‎</span></big> **çâphad** <small>*(saw-fad')*</small> ==**to mourn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָפַד‎</span></big>** **çâphad** <small>*(saw-fad')*</small> ==**to mourn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lament, mourn(-er), wail.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a1)** to wail, lament
 $\quad$ $\quad$ **1a2)** wailers (participle)
 $\quad$ **1b)** (Niphal) to be lamented, be bewailed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλαίω</span><sup><small>[[G2799]]</small></sup> · <span class="asgreek">κόπτω</span><sup><small>[[G2875]]</small></sup>
+<small>See Greek: </small>**<big>[[G2799|κλαίω]]</big>** · **<big>[[G2875|κόπτω]]</big>**

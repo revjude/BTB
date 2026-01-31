@@ -7,31 +7,31 @@ Behold, I have created the smith that bloweth the coals in the fire, and that br
 Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc.<small><sub>**MT:**</sub></small>
 [[Isa.54.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| created | <big><span class="asgreek">έκτισά</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a brazier | <big><span class="asgreek">χαλκεύς</span></big> <sup><small><small>[[G5471]]</small></small></sup> |
-| blowing | <big><span class="asgreek">φυσών</span></big> <sup><small><small>[[G9684]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| of coals, | <big><span class="asgreek">άνθρακας</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bringing forth | <big><span class="asgreek">εκφέρων</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| a utensil | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| work; | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| created | <big><span class="asgreek">έκτισά</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| destruction | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| to corrupt. | <big><span class="asgreek">φθείραι</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| created | **<big>[[G2936\|έκτισά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a brazier | **<big>[[G5471\|χαλκεύς]]</big>** |
+| blowing | **<big>[[G9684\|φυσών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a fire | **<big>[[G4442\|πυρί]]</big>** |
+| of coals, | **<big>[[G0440\|άνθρακας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bringing forth | **<big>[[G1627\|εκφέρων]]</big>** |
+| a utensil | **<big>[[G4632\|σκεύος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| work; | **<big>[[G2041\|έργον]]</big>** |
+| but I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| created | **<big>[[G2936\|έκτισά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| destruction | **<big>[[G0684\|απώλειαν]]</big>** |
+| to corrupt. | **<big>[[G5351\|φθείραι]]</big>** |
 [[Isa.54.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
 

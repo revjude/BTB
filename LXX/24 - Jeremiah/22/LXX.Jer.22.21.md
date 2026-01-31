@@ -7,25 +7,25 @@ I spake unto thee in thy prosperity; [but] thou saidst, I will not hear. This [h
 I warned you when you were secure. You said, ‘I will not listen.’ This has been your way from youth, that you have not obeyed My voice.<small><sub>**MT:**</sub></small>
 [[Jer.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.20|<< Jeremiah 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.22|Jeremiah 22:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your transgression, | <big><span class="asgreek">παραπτώσει</span></big> <sup><small><small>[[G8634]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will not hearken. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ακούσομαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] your way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your youth, | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice. | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your transgression, | **<big>[[G8634\|παραπτώσει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπας]]</big>** |
+| I will not hearken. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ακούσομαι]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[is\] your way | **<big>[[G3598\|οδός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| your youth, | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you hearkened not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice. | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.20|<< Jeremiah 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.22|Jeremiah 22:22 >>]]</td></tr></table>
 
 

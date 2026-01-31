@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְזוֹן‎</span></big> **Rᵉzôwn** <small>*(rez-one')*</small> ==**Rezon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָזַן‎</span><sup><small>[[H7336]]</small></sup>; prince</small>
+**<big><span class="ashebrew">‎רְזוֹן‎</span></big>** **Rᵉzôwn** <small>*(rez-one')*</small> ==**Rezon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7336|‎רָזַן‎]]</big>**; prince</small>
 
 $\quad$ Rezon.
 - § Rezon = *"prince"*

@@ -7,41 +7,41 @@ Then king Rehoboam sent Adoram, who [was] over the tribute; and all Israel stone
 Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.<small><sub>**MT:**</sub></small>
 [[1Kgs.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.17|<< 1 Kings 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.19|1 Kings 12:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Adoram, | <big><span class="asgreek">Αδωράμ</span></big> <sup><small><small>[[H1913b]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for \[collecting\] | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribute. | <big><span class="asgreek">φόρου</span></big> <sup><small><small>[[G5411]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stoned | <big><span class="asgreek">ελιθοβόλησαν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| anticipated | <big><span class="asgreek">έφθασεν</span></big> <sup><small><small>[[G5348]]</small></small></sup> |
-| to ascend | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρμα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to flee | <big><span class="asgreek">φυγείν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Adoram, | **<big>[[H1913b\|Αδωράμ]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for \[collecting\] | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| tribute. | **<big>[[G5411\|φόρου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stoned | **<big>[[G3036\|ελιθοβόλησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| stones | **<big>[[G3037\|λίθοις]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he died. | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| anticipated | **<big>[[G5348\|έφθασεν]]</big>** |
+| to ascend | **<big>[[G0305\|αναβήναι]]</big>** |
+| upon | **<big>[[G2089\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| chariot | **<big>[[G0716\|άρμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to flee | **<big>[[G5343\|φυγείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[1Kgs.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.17|<< 1 Kings 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.19|1 Kings 12:19 >>]]</td></tr></table>
 
 

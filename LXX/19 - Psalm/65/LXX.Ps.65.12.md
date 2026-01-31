@@ -7,19 +7,19 @@ They drop [upon] the pastures of the wilderness: and the little hills rejoice on
 The pastures of the wilderness overflow; the hills are robed with joy.<small><sub>**MT:**</sub></small>
 [[Ps.65.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.11|<< Psalm 65:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.13|Psalm 65:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall be fattened | <big><span class="asgreek">πιανθήσονται</span></big> <sup><small><small>[[G8790]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραία</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in exultation | <big><span class="asgreek">αγαλλίασιν</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills | <big><span class="asgreek">βουνοί</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| shall gird themselves | <big><span class="asgreek">περιζώσονται</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
+| shall be fattened | **<big>[[G8790\|πιανθήσονται]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| beautiful | **<big>[[G5611\|ωραία]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in exultation | **<big>[[G0020\|αγαλλίασιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| hills | **<big>[[G1015\|βουνοί]]</big>** |
+| shall gird themselves | **<big>[[G4024\|περιζώσονται]]</big>** |
 [[Ps.65.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.11|<< Psalm 65:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.13|Psalm 65:13 >>]]</td></tr></table>
 
 

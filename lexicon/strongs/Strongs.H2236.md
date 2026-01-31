@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָרַק‎</span></big> **zâraq** <small>*(zaw-rak')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָרַק‎</span></big>** **zâraq** <small>*(zaw-rak')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be here and there, scatter, sprinkle, strew.
@@ -8,4 +8,4 @@ $\quad$ be here and there, scatter, sprinkle, strew.
 $\quad$ **1a)** (Qal) to scatter, sprinkle, toss
 $\quad$ **1b)** (Pual) to be sprinkled
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δέχομαι</span><sup><small>[[G1209]]</small></sup> · <span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">ἐκχέω</span><sup><small>[[G1632]]</small></sup> · <span class="asgreek">σπείρω</span><sup><small>[[G4687]]</small></sup>
+<small>See Greek: </small>**<big>[[G1209|δέχομαι]]</big>** · **<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1632|ἐκχέω]]</big>** · **<big>[[G4687|σπείρω]]</big>**

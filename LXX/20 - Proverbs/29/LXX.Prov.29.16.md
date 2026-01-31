@@ -7,19 +7,19 @@ When the wicked are multiplied, transgression increaseth: but the righteous shal
 When the wicked thrive, rebellion increases; but the righteous will see their downfall.<small><sub>**MT:**</sub></small>
 [[Prov.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.15|<< Proverbs 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.17|Proverbs 29:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \[With the\] being | <big><span class="asgreek">όντων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| impious, | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλαί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| take place | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίαι</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| but \[with\] the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| just, | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| at the falling of those, | <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> <big><span class="asgreek">πιπτόντων</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| fear | <big><span class="asgreek">κατάφοβοι</span></big> <sup><small><small>[[G7949]]</small></small></sup> |
-| takes place. | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| of many | **<big>[[G4183\|πολλών]]</big>** |
+| \[With the\] being | **<big>[[G1510\|όντων]]</big>** |
+| impious, | **<big>[[G0765\|ασεβών]]</big>** |
+| many | **<big>[[G4183\|πολλαί]]</big>** |
+| take place | **<big>[[G1096\|γίνονται]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίαι]]</big>** |
+| but \[with\] the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| just, | **<big>[[G1342\|δίκαιοι]]</big>** |
+| at the falling of those, | **<big>[[G1565\|εκείνων]]</big>** **<big>[[G4098\|πιπτόντων]]</big>** |
+| fear | **<big>[[G7949\|κατάφοβοι]]</big>** |
+| takes place. | **<big>[[G1096\|γίνονται]]</big>** |
 [[Prov.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.15|<< Proverbs 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.17|Proverbs 29:17 >>]]</td></tr></table>
 
 

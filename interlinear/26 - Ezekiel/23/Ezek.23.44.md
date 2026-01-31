@@ -6,22 +6,22 @@ And they slept with her as with a prostitute; they slept with Oholah and Oholiba
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.43|<< Ezekiel 23:43]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.45|Ezekiel 23:45 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּב֣וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into her  | <span class="ashebrew"><big>אֵלֶ֔י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HR]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as goes  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ב֖וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Vo' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁ֣ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a prostitute  | <span class="ashebrew"><big>זוֹנָ֑ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| zo.Nah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֣ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they went  | <span class="ashebrew"><big>בָּ֗אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into  | <span class="ashebrew"><big>אֶֽל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Oholah  | <span class="ashebrew"><big>אָֽהֳלָה֙ </big></span><small><small><sup>[[H0170]]</sup></small></small> &#8207;| 'o.ho.Lah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and into  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Oholibah  | <span class="ashebrew"><big>אָ֣הֳלִיבָ֔ה </big></span><small><small><sup>[[H0172]]</sup></small></small> &#8207;| 'o.ho.li.Vah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] women of  | <span class="ashebrew"><big>אִשֹּׁ֖ת </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> licentiousness  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זִּמָּֽה </big></span><small><small><sup>[[H2154]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> zi.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּב֣וֹא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into her  |**<big>&#8207;[[H0413\|אֵלֶ֔י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as goes  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|ב֖וֹא]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֣ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  |**<big>&#8207;[[H2181\|זוֹנָ֑ה]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they went  |**<big>&#8207;[[H0935G\|בָּ֗אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Oholah  |**<big>&#8207;[[H0170\|אָֽהֳלָה֙]]&#8207; </big>**| 'o.ho.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and into  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Oholibah  |**<big>&#8207;[[H0172\|אָ֣הֳלִיבָ֔ה]]&#8207; </big>**| 'o.ho.li.Vah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] women of  |**<big>&#8207;[[H0802G\|אִשֹּׁ֖ת]]&#8207; </big>**| 'i.Shot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> licentiousness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2154\|זִּמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> zi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.43|<< Ezekiel 23:43]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.45|Ezekiel 23:45 >>]]</td></tr></table>
 
 

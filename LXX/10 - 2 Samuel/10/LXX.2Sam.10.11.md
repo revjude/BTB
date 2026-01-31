@@ -7,31 +7,31 @@ And he said, If the Syrians be too strong for me, then thou shalt help me: but i
 “If the Arameans are too strong for me,” said Joab, “then you will come to my rescue. And if the Ammonites are too strong for you, then I will come to your rescue.<small><sub>**MT:**</sub></small>
 [[2Sam.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.10|<< 2 Samuel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.12|2 Samuel 10:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| Syria should strengthen | <big><span class="asgreek">κρατήση</span></big> <sup><small><small>[[G2901]]</small></small></sup> <big><span class="asgreek">Σύρος</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έσεσθέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance. | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| should be strengthened | <big><span class="asgreek">κρατήσωσιν</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will come | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαί</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| Syria should strengthen | **<big>[[G2901\|κρατήση]]</big>** **<big>[[G4947\|Σύρος]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall be | **<big>[[G1510\|έσεσθέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| deliverance. | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| should be strengthened | **<big>[[G2901\|κρατήσωσιν]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will come | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[2Sam.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.10|<< 2 Samuel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.12|2 Samuel 10:12 >>]]</td></tr></table>
 
 

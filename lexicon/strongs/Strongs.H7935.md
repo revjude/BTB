@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁכַנְיָה‎</span></big> **Shᵉkanyâh** <small>*(shek-an-yaw')*</small> ==**Shecaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">שְׁכַנְיָהוּ</span> **Shᵉkanyâhûw** <small>*(shek-an-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁכַן‎</span><sup><small>[[H7931]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has dwelt</small>
+**<big><span class="ashebrew">‎שְׁכַנְיָה‎</span></big>** **Shᵉkanyâh** <small>*(shek-an-yaw')*</small> ==**Shecaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">שְׁכַנְיָהוּ</span></big>** **Shᵉkanyâhûw** <small>*(shek-an-yaw'-hoo)*</small>; from **<big>[[H7931|‎שָׁכַן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has dwelt</small>
 
 $\quad$ Shecaniah, Shechaniah.
 - § Shecaniah or Shechaniah = *"dweller with Jehovah"*

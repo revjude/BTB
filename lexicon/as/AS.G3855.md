@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">παρ-άγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">עבר</span> <small><sup>[[H5674]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">παρ-άγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5674|עבר]]</big>**;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> trans., <span class="asitalic">to lead by</span>, <span class="asitalic">lead aside</span>, <span class="asitalic">lead into</span>, <span class="asitalic">lead forward</span>, etc.</span>
 <span class="asbullet"><span class="asbold">2.</span> Intrans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to pass by</span>: [[Matt.9.9|Mt 9:9]], [[Matt.9.27|27]] [[Matt.20.30|20:30]], [[Mark.2.14|Mk 2:14]] [[Mark.15.21|15:21]], [[John.8.59|Jo 8:59]] R, txt., [[John.9.1|9:1]]; seq. <span class="asgreek">παρό</span>, c. acc., [[Mark.1.16|Mk 1:16]];</span>

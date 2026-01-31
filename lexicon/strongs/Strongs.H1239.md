@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּקַר‎</span></big> **bâqar** <small>*(baw-kar)*</small> ==**to enquire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּקַר‎</span></big>** **bâqar** <small>*(baw-kar)*</small> ==**to enquire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make) inquire (-ry), (make) search, seek out.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Piel)
 $\quad$ $\quad$ **1a1)** to seek, look for
 $\quad$ $\quad$ **1a2)** to consider, reflect
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκζητέω</span><sup><small>[[G1567]]</small></sup> · <span class="asgreek">ἐπισκέπτομαι</span><sup><small>[[G1980]]</small></sup>
+<small>See Greek: </small>**<big>[[G1567|ἐκζητέω]]</big>** · **<big>[[G1980|ἐπισκέπτομαι]]</big>**

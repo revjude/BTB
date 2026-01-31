@@ -7,52 +7,52 @@ And the king stood in his place, and made a covenant before the LORD, to walk af
 So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book.<small><sub>**MT:**</sub></small>
 [[2Chr.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| column, | <big><span class="asgreek">στύλον</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his testimonies, | <big><span class="asgreek">μαρτύρια</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his orders, | <big><span class="asgreek">προστάγματα</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to observe | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been written | <big><span class="asgreek">γεγραμμένους</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this scroll. | <big><span class="asgreek">βιβλίω</span></big> <sup><small><small>[[G0975]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| column, | **<big>[[G4769\|στύλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he ordained | **<big>[[G1303\|διέθετο]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his testimonies, | **<big>[[G3142\|μαρτύρια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his orders, | **<big>[[G8943\|προστάγματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλη]]</big>** |
+| heart, | **<big>[[G2588\|καρδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλη]]</big>** |
+| soul, | **<big>[[G5590\|ψυχή]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to observe | **<big>[[G4160\|ποιείν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| having been written | **<big>[[G1125\|γεγραμμένους]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this scroll. | **<big>[[G0975\|βιβλίω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
 [[2Chr.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
 

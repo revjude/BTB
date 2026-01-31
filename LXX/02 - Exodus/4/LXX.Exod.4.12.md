@@ -10,22 +10,22 @@ Now therefore go, and I will be with thy mouth, and teach thee what thou shalt s
 Now go! I will help you as you speak, and I will teach you what to say.”<small><sub>**MT:**</sub></small>
 [[Exod.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.11|<< Exodus 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.13|Exodus 4:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| go! | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth, | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will instruct | <big><span class="asgreek">συμβιβάσω</span></big> <sup><small><small>[[G4822]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you will be about | <big><span class="asgreek">μέλλεις</span></big> <sup><small><small>[[G3195]]</small></small></sup> |
-| to speak. | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| go! | **<big>[[G4198\|πορεύου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will open | **<big>[[G0455\|ανοίξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mouth, | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will instruct | **<big>[[G4822\|συμβιβάσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you will be about | **<big>[[G3195\|μέλλεις]]</big>** |
+| to speak. | **<big>[[G2980\|λαλήσαι]]</big>** |
 [[Exod.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.11|<< Exodus 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.13|Exodus 4:13 >>]]</td></tr></table>
 
 

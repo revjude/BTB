@@ -7,49 +7,49 @@ Moreover Amaziah gathered Judah together, and made them captains over thousands,
 Then Amaziah gathered the people of Judah and assigned them according to their families to commanders of thousands and of hundreds. And he numbered those twenty years of age or older throughout Judah and Benjamin and found 300,000 chosen men able to serve in the army, bearing the spear and shield.<small><sub>**MT:**</sub></small>
 [[2Chr.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.4|<< 2 Chronicles 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.6|2 Chronicles 25:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amaziah gathered | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">Αμασίας</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he established | <big><span class="asgreek">ανέστησεν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their families | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| commanders of thousands, | <big><span class="asgreek">χιλιάρχους</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of hundreds, | <big><span class="asgreek">εκατοντάρχους</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benjamin. | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he numbered | <big><span class="asgreek">επεσκέψατο</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| twenty years \[old\] | <big><span class="asgreek">εικοσαέτους</span></big> <sup><small><small>[[G7052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| up. | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίας</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| mighty ones | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εξερχομένων</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| mighty ones | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| holding | <big><span class="asgreek">κρατούντων</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shield. | <big><span class="asgreek">θυρεόν</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Amaziah gathered | **<big>[[G4863\|συνήγαγεν]]</big>** **<big>[[H0558\|Αμασίας]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he established | **<big>[[G0450\|ανέστησεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of their families | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| commanders of thousands, | **<big>[[G5506\|χιλιάρχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of hundreds, | **<big>[[G1543\|εκατοντάρχους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benjamin. | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he numbered | **<big>[[G1980\|επεσκέψατο]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| twenty years \[old\] | **<big>[[G7052\|εικοσαέτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| up. | **<big>[[G1883\|επάνω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he found | **<big>[[G2147\|εύρεν]]</big>** |
+| of them | **<big>[[G1473\|αυτούς]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίας]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| mighty ones | **<big>[[G1415\|δυνατών]]</big>** |
+| going forth | **<big>[[G1831\|εξερχομένων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war, | **<big>[[G4171\|πόλεμον]]</big>** |
+| mighty ones | **<big>[[G1415\|δυνατούς]]</big>** |
+| holding | **<big>[[G2902\|κρατούντων]]</big>** |
+| spear | **<big>[[G6965\|δόρυ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shield. | **<big>[[G2375\|θυρεόν]]</big>** |
 [[2Chr.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.4|<< 2 Chronicles 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.6|2 Chronicles 25:6 >>]]</td></tr></table>
 
 

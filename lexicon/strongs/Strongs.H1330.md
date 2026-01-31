@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בְּתוּלָה‎</span></big> **bᵉthûwlâh** <small>*(beth-oo-law')*</small> ==**virgin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎בְּתוּלָה‎</span></big>** **bᵉthûwlâh** <small>*(beth-oo-law')*</small> ==**virgin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>feminine passive participle of an unused root meaning to separate</small>
 
 $\quad$ maid, virgin.
@@ -8,4 +8,4 @@ $\quad$ maid, virgin.
 
 **1)** virgin
 
-<sub><small>See Greek: </small></sub><span class="asgreek">νύμφη</span><sup><small>[[G3565]]</small></sup> · <span class="asgreek">παρθένος</span><sup><small>[[G3933]]</small></sup>
+<small>See Greek: </small>**<big>[[G3565|νύμφη]]</big>** · **<big>[[G3933|παρθένος]]</big>**

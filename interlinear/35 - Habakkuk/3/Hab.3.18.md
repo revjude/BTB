@@ -6,14 +6,14 @@ yet I will exult in the LORD; I will rejoice in the God of my salvation!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.17|<< Habakkuk 3:17]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.19|Habakkuk 3:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִ֖י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Yahweh  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will exult  | <span class="ashebrew"><big>אֶעְל֑וֹזָה </big></span><small><small><sup>[[H5937]]</sup></small></small> &#8207;| 'e'.Lo.zah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will rejoice  | <span class="ashebrew"><big>אָגִ֖ילָה </big></span><small><small><sup>[[H1523]]</sup></small></small> &#8207;| 'a.Gi.lah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] God of  | <span class="ashebrew"><big>בֵּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אלֹהֵ֥י </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> lo.Hei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salvation my  | <span class="ashebrew"><big>יִשְׁעִֽ </big></span><small><small><sup>[[H3468]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yish.' <small><sup>[[HNcmsc]]</sup></small> I <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will exult  |**<big>&#8207;[[H5937\|אֶעְל֑וֹזָה]]&#8207; </big>**| 'e'.Lo.zah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will rejoice  |**<big>&#8207;[[H1523\|אָגִ֖ילָה]]&#8207; </big>**| 'a.Gi.lah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] God of  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430G\|אלֹהֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation my  |**<big>&#8207;[[H3468\|יִשְׁעִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.'<small><sup>[[HNcmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.17|<< Habakkuk 3:17]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.19|Habakkuk 3:19 >>]]</td></tr></table>
 
 

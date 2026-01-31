@@ -10,29 +10,29 @@ And it came to pass, when Solomon had finished the building of the house of the 
 Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do,<small><sub>**MT:**</sub></small>
 [[1Kgs.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.66|<< 1 Kings 8:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.2|1 Kings 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Solomon completed | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| constructing | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matters | <big><span class="asgreek">πραγματείαν</span></big> <sup><small><small>[[G4230]]</small></small></sup> |
-| of Solomon, | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he wanted | <big><span class="asgreek">ηθέλησε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| to do, | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Solomon completed | **<big>[[G4931\|συνετέλεσε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| constructing | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| matters | **<big>[[G4230\|πραγματείαν]]</big>** |
+| of Solomon, | **<big>[[G4672\|Σολομώντος]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| he wanted | **<big>[[G2309\|ηθέλησε]]</big>** |
+| to do, | **<big>[[G4160\|ποιήσαι]]</big>** |
 [[1Kgs.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.66|<< 1 Kings 8:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.2|1 Kings 9:2 >>]]</td></tr></table>
 
 

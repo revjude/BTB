@@ -7,18 +7,18 @@ Woe is me, that I sojourn in Mesech, [that] I dwell in the tents of Kedar!
 Woe to me that I dwell in Meshech, that I live among the tents of Kedar!<small><sub>**MT:**</sub></small>
 [[Ps.120.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.4|<< Psalm 120:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.6|Psalm 120:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Alas, | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sojourn | <big><span class="asgreek">παροικία</span></big> <sup><small><small>[[G3940]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was far; | <big><span class="asgreek">εμακρύνθη</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
-| I encamped | <big><span class="asgreek">κατεσκήνωσα</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tents | <big><span class="asgreek">σκηνωμάτων</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
-| of Kedar. | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
+| Alas, | **<big>[[G8461\|οίμοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my sojourn | **<big>[[G3940\|παροικία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was far; | **<big>[[G8239\|εμακρύνθη]]</big>** |
+| I encamped | **<big>[[G2681\|κατεσκήνωσα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tents | **<big>[[G4638\|σκηνωμάτων]]</big>** |
+| of Kedar. | **<big>[[H6938\|Κηδάρ]]</big>** |
 [[Ps.120.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.4|<< Psalm 120:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.6|Psalm 120:6 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎שְׁבַט‎</span> <small>***(she.vat)***</small> ==**tribe**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7626H]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7626H|שֵׁבֶט]]</big>**</small> 
 
-- Aramaic of <i>she.vet</i> (<span class='ashebrew'>‎ש‎</span>ֵׁ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ט‎</span> ": staff" [[H7626]])
+- Aramaic of <i>she.vet</i> (<span class='ashebrew'>‎ש‎</span>ֵׁ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ט‎</span> ": staff" **<big>[[H7626|שֵׁבֶט]]</big>**)

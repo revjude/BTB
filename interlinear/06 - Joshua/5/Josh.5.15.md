@@ -6,29 +6,29 @@ The Commander of the LORD’s army replied, “Take off your sandals, for the pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמֶר֩ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] commander of  | <span class="ashebrew"><big>שַׂר </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| sar- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] army of  | <span class="ashebrew"><big>צְבָ֨א </big></span><small><small><sup>[[H6635A]]</sup></small></small> &#8207;| tze.Va' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joshua  | <span class="ashebrew"><big>יְהוֹשֻׁ֗עַ </big></span><small><small><sup>[[H3091G]]</sup></small></small> &#8207;| ye.ho.Shu.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| take off  | <span class="ashebrew"><big>שַׁל </big></span><small><small><sup>[[H5394]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shal- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sandal your  | <span class="ashebrew"><big>נַֽעַלְ </big></span><small><small><sup>[[H5275]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| na.'al. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from on  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עַ֣ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot your  | <span class="ashebrew"><big>רַגְלֶ֔ </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| rag.Le. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the place  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּק֗וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֛ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] standing  | <span class="ashebrew"><big>עֹמֵ֥ד </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| 'o.Med <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלָ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a holy place  | <span class="ashebrew"><big>קֹ֣דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he did  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥עַשׂ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joshua  | <span class="ashebrew"><big>יְהוֹשֻׁ֖עַ </big></span><small><small><sup>[[H3091G]]</sup></small></small> &#8207;| ye.ho.Shu.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵּֽן </big></span><small><small><sup>[[H3651C]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commander of  |**<big>&#8207;[[H8269\|שַׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] army of  |**<big>&#8207;[[H6635A\|צְבָ֨א]]&#8207; </big>**| tze.Va'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֗עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take off  |**<big>&#8207;[[H5394\|שַׁל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shal-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sandal your  |**<big>&#8207;[[H5275\|נַֽעַלְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| na.'al.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot your  |**<big>&#8207;[[H7272\|רַגְלֶ֔]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| rag.Le.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֗וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] standing  |**<big>&#8207;[[H5975G\|עֹמֵ֥ד]]&#8207; </big>**| 'o.Med<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a holy place  |**<big>&#8207;[[H6944G\|קֹ֣דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֖עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
 

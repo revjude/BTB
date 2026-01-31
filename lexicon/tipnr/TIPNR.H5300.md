@@ -4,7 +4,7 @@ People from Nephus\(?\)
 
 The <span class='tipnrhighlight'>Nephushesim</span> \(or Nephisim\) were a family of temple servants who returned to Jerusalem from Babylonian captivity.
 - People from Nephus\(?\), first mentioned at [[Ezra.2.50|Ezr.2.50]]; 
-- referred to as Nephushesim<[[H5300]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יש</span>ְׁ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>, <span class='tipnrLangHebrew'>נפיסים</span>\), or Nephisim \(=Ketiv. Qere, KJV, NIV= Nephussim\) <[[H5304]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יס</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Nephushesim **<big>[[H5300|נְפוּשְׁסִים]]</big>**, or Nephisim \(=Ketiv. Qere, KJV, NIV= Nephussim\)  **<big>[[H5304|נְפִיסִים]]</big>**.
 
 The Nephushesim \(also known as Nephisim\) are mentioned in [[Neh.7.52|Nehemiah 7:52]] and [[Ezra.2.50|Ezra 2:50]] as one of the families of temple servants who returned to Jerusalem from Babylonian exile. The temple servants, also known as Nethinim, were a group of individuals assigned to assist the Levites in the maintenance and operation of the temple. 
 
@@ -16,6 +16,6 @@ The mention of the Nephushesim in both Ezra and Nehemiah's accounts of the retur
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nephushesim (=Ketiv. Qere, KJV= Nephishesim; NIV= Nephussim) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יש</span>ְׁ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>, <span class='tipnrLangHebrew'>נפיסים</span>](H5300) <small>*Hebrew*</small> | 1x | [Neh.7.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nephushesim\*\|reference=Neh.7.52) |
-| Nephisim (=Ketiv. Qere, KJV, NIV= Nephussim) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יס</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5304) <small>*Hebrew*</small> | 1x | [Ezr.2.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nephisim\*\|reference=Ezr.2.50) |
-All Strong's for **Nephushesim or Nephisim**: \[[[H5300]]\] \[[[H5304]]\]
+| Nephushesim (=Ketiv. Qere, KJV= Nephishesim; NIV= Nephussim) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יש</span>ְׁ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>, <span class='tipnrLangHebrew'>נפיסים</span>](H5300) | 1x | [Neh.7.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nephushesim\*\|reference=Neh.7.52) |
+| Nephisim (=Ketiv. Qere, KJV, NIV= Nephussim) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יס</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5304) | 1x | [Ezr.2.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nephisim\*\|reference=Ezr.2.50) |
+All entries for **Nephushesim or Nephisim**:  **<big>[[H5300|נְפוּשְׁסִים]]</big>** ☩  **<big>[[H5304|נְפִיסִים]]</big>**

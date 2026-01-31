@@ -10,30 +10,30 @@ Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! 
 > $\quad$ referenced by: [[Matt.21.5|Matt 21:5]] ☩ [[John.12.14|John 12:14-15]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| rejoice  | <span class="ashebrew"><big>גִּילִ֨י </big></span><small><small><sup>[[H1523]]</sup></small></small> &#8207;| gi.Li <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹ֜ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֗וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shout for joy  | <span class="ashebrew"><big>הָרִ֙יעִי֙ </big></span><small><small><sup>[[H7321]]</sup></small></small> &#8207;| ha.Ri.'i <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּ֣ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| bat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֔ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king your  | <span class="ashebrew"><big>מַלְכֵּ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>ךְ֙ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| mal.ke <small><sup>[[HNcmsc]]</sup></small> Kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will come  | <span class="ashebrew"><big>יָ֣בוֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] righteous  | <span class="ashebrew"><big>צַדִּ֥יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and victorious  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נוֹשָׁ֖ע </big></span><small><small><sup>[[H3467]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> no.Sha' <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor  | <span class="ashebrew"><big>עָנִי֙ </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and riding  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹכֵ֣ב </big></span><small><small><sup>[[H7392]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ro.Khev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a donkey  | <span class="ashebrew"><big>חֲמ֔וֹר </big></span><small><small><sup>[[H2543]]</sup></small></small> &#8207;| cha.Mor <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a male donkey  | <span class="ashebrew"><big>עַ֖יִר </big></span><small><small><sup>[[H5895]]</sup></small></small> &#8207;| 'A.yir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a young one of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| female donkeys  | <span class="ashebrew"><big>אֲתֹנֽוֹת </big></span><small><small><sup>[[H0860]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.to.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rejoice  |**<big>&#8207;[[H1523\|גִּילִ֨י]]&#8207; </big>**| gi.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֜ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֗וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shout for joy  |**<big>&#8207;[[H7321\|הָרִ֙יעִי֙]]&#8207; </big>**| ha.Ri.'i<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּ֣ת]]&#8207; </big>**| bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֔ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king your  |**<big>&#8207;[[H4428G\|מַלְכֵּ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| mal.ke<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come  |**<big>&#8207;[[H0935G\|יָ֣בוֹא]]&#8207; </big>**| Ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] righteous  |**<big>&#8207;[[H6662\|צַדִּ֥יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and victorious  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3467\|נוֹשָׁ֖ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> no.Sha'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor  |**<big>&#8207;[[H6041\|עָנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and riding  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7392\|רֹכֵ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a donkey  |**<big>&#8207;[[H2543\|חֲמ֔וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male donkey  |**<big>&#8207;[[H5895\|עַ֖יִר]]&#8207; </big>**| 'A.yir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young one of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| female donkeys  |**<big>&#8207;[[H0860\|אֲתֹנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.to.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.8|<< Zechariah 9:8]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.10|Zechariah 9:10 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ As smoke is blown away, You will drive them out; as wax melts before the fire, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.1|<< Psalms 68:1]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.3|Psalms 68:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| as is driven about  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>הִנְדֹּ֥ף </big></span><small><small><sup>[[H5086]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> hin.Dof <small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| smoke  | <span class="ashebrew"><big>עָשָׁ֗ן </big></span><small><small><sup>[[H6227]]</sup></small></small> &#8207;| 'a.Shan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may you drive [them] about  | <span class="ashebrew"><big>תִּ֫נְדֹּ֥ף </big></span><small><small><sup>[[H5086]]</sup></small></small> &#8207;| tin.Dof <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as melts  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>הִמֵּ֣ס </big></span><small><small><sup>[[H4549]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> hi.Mes <small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wax  | <span class="ashebrew"><big>דּ֭וֹנַג </big></span><small><small><sup>[[H1749]]</sup></small></small> &#8207;| Do.nag <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵי </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵ֑שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may they perish  | <span class="ashebrew"><big>יֹאבְד֥וּ </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| yoe.Du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֝שָׁעִ֗ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as is driven about  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5086\|הִנְדֹּ֥ף]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> hin.Dof<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| smoke  |**<big>&#8207;[[H6227\|עָשָׁ֗ן]]&#8207; </big>**| 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may you drive [them] about  |**<big>&#8207;[[H5086\|תִּ֫נְדֹּ֥ף]]&#8207; </big>**| tin.Dof<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as melts  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4549\|הִמֵּ֣ס]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> hi.Mes<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wax  |**<big>&#8207;[[H1749\|דּ֭וֹנַג]]&#8207; </big>**| Do.nag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵ֑שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they perish  |**<big>&#8207;[[H0006\|יֹאבְד֥וּ]]&#8207; </big>**| yoe.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֝שָׁעִ֗ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.1|<< Psalms 68:1]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.3|Psalms 68:3 >>]]</td></tr></table>
 
 

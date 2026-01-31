@@ -7,19 +7,19 @@ And the LORD repented of the evil which he thought to do unto his people.
 So the LORD relented from the calamity He had threatened to bring on His people.<small><sub>**MT:**</sub></small>
 [[Exod.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.13|<< Exodus 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.15|Exodus 32:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> dealt kindly | <big><span class="asgreek">ιλάσθη</span></big> <sup><small><small>[[G2433]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad | <big><span class="asgreek">κακίας</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| he would do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> dealt kindly | **<big>[[G2433\|ιλάσθη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| bad | **<big>[[G2549\|κακίας]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| he would do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.13|<< Exodus 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.15|Exodus 32:15 >>]]</td></tr></table>
 
 

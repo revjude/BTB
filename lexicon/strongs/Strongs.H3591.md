@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּידוֹן‎</span></big> **kîydôwn** <small>*(kee-dohn')*</small> ==**javelin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎כִּיד‎</span><sup><small>[[H3589]]</small></sup>; (perhaps smaller than <span class="ashebrew">‎חֲנִית‎</span><sup><small>[[H2595]]</small></sup>)</small>
+**<big><span class="ashebrew">‎כִּידוֹן‎</span></big>** **kîydôwn** <small>*(kee-dohn')*</small> ==**javelin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H3589|‎כִּיד‎]]</big>**; (perhaps smaller than **<big>[[H2595|‎חֲנִית‎]]</big>**)</small>
 
 $\quad$ lance, shield, spear, target.
 - properly, ***something to strike with***, i.e. ***a dart***

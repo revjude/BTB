@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֻכּוֹת בְּנוֹת‎</span></big> **Çukkôwth bᵉnôwth** <small>*(sook-kohth' ben-ohth')*</small> ==**Succoth-benoth**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>from <span class="ashebrew">‎סֻכּוֹת‎</span><sup><small>[[H5523]]</small></sup> and the (irregular) plural of <span class="ashebrew">‎בַּת‎</span><sup><small>[[H1323]]</small></sup></small>
+**<big><span class="ashebrew">‎סֻכּוֹת בְּנוֹת‎</span></big>** **Çukkôwth bᵉnôwth** <small>*(sook-kohth' ben-ohth')*</small> ==**Succoth-benoth**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>from **<big>[[H5523|‎סֻכּוֹת‎]]</big>** and the (irregular) plural of **<big>[[H1323|‎בַּת‎]]</big>**</small>
 
 $\quad$ Succothbenoth.
 - § Succoth-benoth = *"the daughter's booth"*

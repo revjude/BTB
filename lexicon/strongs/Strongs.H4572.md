@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲדַי‎</span></big> **Maʻăday** <small>*(mah-ad-ah'-ee)*</small> ==**Maadai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָדָה‎</span><sup><small>[[H5710]]</small></sup>; ornamental</small>
+**<big><span class="ashebrew">‎מַעֲדַי‎</span></big>** **Maʻăday** <small>*(mah-ad-ah'-ee)*</small> ==**Maadai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5710|‎עָדָה‎]]</big>**; ornamental</small>
 
 $\quad$ Maadai.
 - § Maadai = *"ornament of Jehovah"*

@@ -6,17 +6,17 @@ Then Jehu set out toward Samaria. At Beth-eked of the Shepherds,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.11|<< 2 Kings 10:11]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.13|2 Kings 10:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he arose  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֙קָם֙ </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.kom <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֔א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֖לֶךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.lekh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samaria  | <span class="ashebrew"><big>שֹׁמְר֑וֹן </big></span><small><small><sup>[[H8111]]</sup></small></small> &#8207;| sho.me.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֛וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was at] Beth  | <span class="ashebrew"><big>בֵּֽית </big></span><small><small><sup>[[H1044]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eked of  | <span class="ashebrew"><big>עֵ֥קֶד </big></span><small><small><sup>[[H1044]]</sup></small></small> &#8207;| 'E.ked <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Shepherds  | <span class="ashebrew"><big>הָרֹעִ֖ים </big></span><small><small><sup>[[H7462A]]</sup></small></small> &#8207;| ha.ro.'Im <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] way  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דָּֽרֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֙קָם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֔א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֖לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֑וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֛וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was at] Beth  |**<big>&#8207;[[H1044\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eked of  |**<big>&#8207;[[H1044\|עֵ֥קֶד]]&#8207; </big>**| 'E.ked<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Shepherds  |**<big>&#8207;[[H7462A\|הָרֹעִ֖ים]]&#8207; </big>**| ha.ro.'Im<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] way  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1870L\|דָּֽרֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.11|<< 2 Kings 10:11]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.13|2 Kings 10:13 >>]]</td></tr></table>
 
 

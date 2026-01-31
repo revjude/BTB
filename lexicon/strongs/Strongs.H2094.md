@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָהַר‎</span></big> **zâhar** <small>*(zaw-har')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָהַר‎</span></big>** **zâhar** <small>*(zaw-har')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ admonish, shine, teach, (give) warn(-ing).

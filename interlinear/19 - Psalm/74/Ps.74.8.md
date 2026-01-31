@@ -6,17 +6,17 @@ They said in their hearts, “We will crush them completely.” They burned down
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.7|<< Psalms 74:7]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.9|Psalms 74:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they said  | <span class="ashebrew"><big>אָמְר֣וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.me.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in heart their  | <span class="ashebrew"><big>בְ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לִבָּ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| Ve. <small><sup>[[HR]]</sup></small> li.bo <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us oppress them  | <span class="ashebrew"><big>נִינָ֣ </big></span><small><small><sup>[[H3238]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| ni.Na <small><sup>[[HVqi1cp]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| altogether  | <span class="ashebrew"><big>יָ֑חַד </big></span><small><small><sup>[[H3162A]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they burned  | <span class="ashebrew"><big>שָׂרְפ֖וּ </big></span><small><small><sup>[[H8313]]</sup></small></small> &#8207;| sa.re.Fu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] appointed places of  | <span class="ashebrew"><big>מוֹעֲדֵי </big></span><small><small><sup>[[H4150I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mo.'a.dei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֣ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the land  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they said  |**<big>&#8207;[[H0559\|אָמְר֣וּ]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in heart their  |**<big>&#8207;[[H9003\|בְ֭]]&#8207;&#8207;[[H3820A\|לִבָּ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| Ve.<small><sup>[[HR]]</sup></small> li.bo<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us oppress them  |**<big>&#8207;[[H3238\|נִינָ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ni.Na<small><sup>[[HVqi1cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| altogether  |**<big>&#8207;[[H3162A\|יָ֑חַד]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they burned  |**<big>&#8207;[[H8313\|שָׂרְפ֖וּ]]&#8207; </big>**| sa.re.Fu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] appointed places of  |**<big>&#8207;[[H4150I\|מוֹעֲדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mo.'a.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.7|<< Psalms 74:7]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.9|Psalms 74:9 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@
 What is crooked cannot be straightened, and what is lacking cannot be counted.<small><sub>**MT:**</sub></small>
 [[Eccl.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The thing\] being perverted | <big><span class="asgreek">διεστραμμένον</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
-| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be embellished. | <big><span class="asgreek">επικοσμηθήναι</span></big> <sup><small><small>[[G7419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deficiency | <big><span class="asgreek">υστέρημα</span></big> <sup><small><small>[[G5303]]</small></small></sup> |
-| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to be counted. | <big><span class="asgreek">αριθμηθήναι</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
+| \[The thing\] being perverted | **<big>[[G1294\|διεστραμμένον]]</big>** |
+| is not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be embellished. | **<big>[[G7419\|επικοσμηθήναι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| deficiency | **<big>[[G5303\|υστέρημα]]</big>** |
+| is not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| to be counted. | **<big>[[G0705\|αριθμηθήναι]]</big>** |
 [[Eccl.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 
 

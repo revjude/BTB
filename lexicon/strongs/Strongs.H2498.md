@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָלַף‎</span></big> **châlaph** <small>*(khaw-laf')*</small> ==**to pass**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָלַף‎</span></big>** **châlaph** <small>*(khaw-laf')*</small> ==**to pass**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abolish, alter, change, cut off, go on forward, grow up, be over, pass (away, on, through), renew, sprout, strike through.
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Hiph)
 $\quad$ $\quad$ **1c1)** to change, substitute, alter, change for better, renew
 $\quad$ $\quad$ **1c2)** to show newness (of tree)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλάσσω</span><sup><small>[[G0236]]</small></sup> · <span class="asgreek">ἀπέρχομαι</span><sup><small>[[G0565]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">διέρχομαι</span><sup><small>[[G1330]]</small></sup> · <span class="asgreek">ἑλίσσω</span><sup><small>[[G1667]]</small></sup> · <span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">μεταβάλλω</span><sup><small>[[G3328]]</small></sup> · <span class="asgreek">παραλογίζομαι</span><sup><small>[[G3884]]</small></sup> · <span class="asgreek">παρέρχομαι</span><sup><small>[[G3928]]</small></sup>
+<small>See Greek: </small>**<big>[[G0236|ἀλλάσσω]]</big>** · **<big>[[G0565|ἀπέρχομαι]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1330|διέρχομαι]]</big>** · **<big>[[G1667|ἑλίσσω]]</big>** · **<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G3328|μεταβάλλω]]</big>** · **<big>[[G3884|παραλογίζομαι]]</big>** · **<big>[[G3928|παρέρχομαι]]</big>**

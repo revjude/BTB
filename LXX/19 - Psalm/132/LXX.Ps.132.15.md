@@ -7,16 +7,16 @@ I will abundantly bless her provision: I will satisfy her poor with bread.
 I will bless her with abundant provisions; I will satisfy her poor with bread.<small><sub>**MT:**</sub></small>
 [[Ps.132.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.14|<< Psalm 132:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.16|Psalm 132:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Her game | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being a blessing, | <big><span class="asgreek">ευλογών</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| I shall bless; | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her poor | <big><span class="asgreek">πτωχούς</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will fill | <big><span class="asgreek">χορτάσω</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
-| \[with\] bread loaves; | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Her game | **<big>[[G2339\|θήραν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| being a blessing, | **<big>[[G2127\|ευλογών]]</big>** |
+| I shall bless; | **<big>[[G2127\|ευλογήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her poor | **<big>[[G4434\|πτωχούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| I will fill | **<big>[[G5526\|χορτάσω]]</big>** |
+| \[with\] bread loaves; | **<big>[[G0740\|άρτων]]</big>** |
 [[Ps.132.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.14|<< Psalm 132:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.16|Psalm 132:16 >>]]</td></tr></table>
 
 

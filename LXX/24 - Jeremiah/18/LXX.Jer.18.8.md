@@ -7,25 +7,25 @@ If that nation, against whom I have pronounced, turn from their evil, I will rep
 But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring.<small><sub>**MT:**</sub></small>
 [[Jer.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turn | <big><span class="asgreek">επιστρέψη</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">εκείνο</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their evils, | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall change my mind | <big><span class="asgreek">μετανοήσω</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad \[things\] | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I devised | <big><span class="asgreek">ελογισάμην</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| turn | **<big>[[G1994\|επιστρέψη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| that nation | **<big>[[G1484\|έθνος]]</big>** **<big>[[G1565\|εκείνο]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their evils, | **<big>[[G2556\|κακών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I shall change my mind | **<big>[[G3340\|μετανοήσω]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| bad \[things\] | **<big>[[G2556\|κακών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| I devised | **<big>[[G3049\|ελογισάμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Jer.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
 

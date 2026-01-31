@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְדֵמוֹת‎</span></big> **Qᵉdêmôwth** <small>*(ked-ay-mothe')*</small> ==**Kedemoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָדַם‎</span><sup><small>[[H6923]]</small></sup>; beginnings</small>
+**<big><span class="ashebrew">‎קְדֵמוֹת‎</span></big>** **Qᵉdêmôwth** <small>*(ked-ay-mothe')*</small> ==**Kedemoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6923|‎קָדַם‎]]</big>**; beginnings</small>
 
 $\quad$ Kedemoth.
 - § Kedemoth = *"eastern"*

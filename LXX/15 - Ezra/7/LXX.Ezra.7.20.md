@@ -7,24 +7,24 @@ And whatsoever more shall be needful for the house of thy God, which thou shalt 
 And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury.<small><sub>**MT:**</sub></small>
 [[Ezra.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.19|<< Ezra 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.21|Ezra 7:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of \[the\] need | <big><span class="asgreek">χρείας</span></big> <sup><small><small>[[G5532]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be apparent | <big><span class="asgreek">φανή</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to give, | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| treasury | <big><span class="asgreek">γάζης</span></big> <sup><small><small>[[G1047]]</small></small></sup> |
-| \[the\] king's | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|το]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιπον]]</big>** |
+| of \[the\] need | **<big>[[G5532\|χρείας]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should be apparent | **<big>[[G5316\|φανή]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| to give, | **<big>[[G1325\|δούναι]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| houses | **<big>[[G3624\|οίκων]]</big>** |
+| treasury | **<big>[[G1047\|γάζης]]</big>** |
+| \[the\] king's | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Ezra.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.19|<< Ezra 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.21|Ezra 7:21 >>]]</td></tr></table>
 
 

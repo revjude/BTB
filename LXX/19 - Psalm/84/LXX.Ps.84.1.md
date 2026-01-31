@@ -12,15 +12,15 @@ To the chief Musician upon Gittith, A Psalm for the sons of Korah. How amiable [
 For the choirmaster. According to Gittith. A Psalm of the sons of Korah. How lovely is Your dwelling place, O LORD of Hosts!<small><sub>**MT:**</sub></small>
 [[Ps.84.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.18|<< Psalm 83:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.2|Psalm 84:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| beloved | <big><span class="asgreek">αγαπητά</span></big> <sup><small><small>[[G0027]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[are\] your tents, | <big><span class="asgreek">σκηνώματά</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces. | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| How | **<big>[[G5613\|ως]]</big>** |
+| beloved | **<big>[[G0027\|αγαπητά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[are\] your tents, | **<big>[[G4638\|σκηνώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces. | **<big>[[G1411\|δυνάμεων]]</big>** |
 [[Ps.84.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.18|<< Psalm 83:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.2|Psalm 84:2 >>]]</td></tr></table>
 
 

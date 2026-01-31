@@ -1,3 +1,1 @@
-<span class="asaramaic">‎שְׂנָא‎</span> <small>***(se.ne)***</small> ==**to hate**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H8130]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H8130|שָׂנֵא]]</big>**</small>

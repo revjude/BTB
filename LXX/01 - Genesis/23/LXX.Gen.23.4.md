@@ -11,27 +11,27 @@ I [am] a stranger and a sojourner with you: give me a possession of a buryingpla
 > $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a sojourner | <big><span class="asgreek">πάροικος</span></big> <sup><small><small>[[G3941]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an immigrant | <big><span class="asgreek">παρεπίδημος</span></big> <sup><small><small>[[G3927]]</small></small></sup> |
-| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a possession | <big><span class="asgreek">κτήσιν</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
-| of a burying-place | <big><span class="asgreek">τάφου</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
-| among | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you! | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will entomb | <big><span class="asgreek">θάψω</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my dead | <big><span class="asgreek">νεκρόν</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[away\] from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a sojourner | **<big>[[G3941\|πάροικος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an immigrant | **<big>[[G3927\|παρεπίδημος]]</big>** |
+| I am | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| among | **<big>[[G3326\|μεθ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
+| Give | **<big>[[G1325\|δότε]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a possession | **<big>[[G8111\|κτήσιν]]</big>** |
+| of a burying-place | **<big>[[G5028\|τάφου]]</big>** |
+| among | **<big>[[G3326\|μεθ΄]]</big>** |
+| you! | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will entomb | **<big>[[G2290\|θάψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my dead | **<big>[[G3498\|νεκρόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[away\] from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Gen.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.3|<< Genesis 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.5|Genesis 23:5 >>]]</td></tr></table>
 
 

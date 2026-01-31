@@ -7,19 +7,19 @@ And ye shall eat old store, and bring forth the old because of the new.
 You will still be eating the old supply of grain when you need to clear it out to make room for the new.<small><sub>**MT:**</sub></small>
 [[Lev.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.9|<< Leviticus 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.11|Leviticus 26:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| \[of the\] old, | <big><span class="asgreek">παλαιών</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| in | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| front of | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \[the\] new | <big><span class="asgreek">νέων</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| you shall bring forth | <big><span class="asgreek">εξοίσετε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[the\] old | **<big>[[G3820\|παλαιά]]</big>** |
+| \[of the\] old, | **<big>[[G3820\|παλαιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] old | **<big>[[G3820\|παλαιά]]</big>** |
+| in | **<big>[[G1537\|εκ]]</big>** |
+| front of | **<big>[[G4383\|προσώπου]]</big>** |
+| \[the\] new | **<big>[[G3501\|νέων]]</big>** |
+| you shall bring forth | **<big>[[G1627\|εξοίσετε]]</big>** |
 [[Lev.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.9|<< Leviticus 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.11|Leviticus 26:11 >>]]</td></tr></table>
 
 

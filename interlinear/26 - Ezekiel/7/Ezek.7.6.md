@@ -6,16 +6,16 @@ The end has come! The end has come! It has roused itself against you. Behold, it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.5|<< Ezekiel 7:5]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.7|Ezekiel 7:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an end  | <span class="ashebrew"><big>קֵ֣ץ </big></span><small><small><sup>[[H7093]]</sup></small></small> &#8207;| ketz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has come  | <span class="ashebrew"><big>בָּ֔א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has come  | <span class="ashebrew"><big>בָּ֥א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ba' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the end  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קֵּ֖ץ </big></span><small><small><sup>[[H7093]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ketz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has awakened  | <span class="ashebrew"><big>הֵקִ֣יץ </big></span><small><small><sup>[[H6974]]</sup></small></small> &#8207;| he.Kitz <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against you  | <span class="ashebrew"><big>אֵלָ֑יִ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| 'e.La.yi <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֖ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] coming  | <span class="ashebrew"><big>בָּאָֽה </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba.'Ah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an end  |**<big>&#8207;[[H7093\|קֵ֣ץ]]&#8207; </big>**| ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come  |**<big>&#8207;[[H0935G\|בָּ֔א]]&#8207; </big>**| Ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come  |**<big>&#8207;[[H0935G\|בָּ֥א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the end  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7093\|קֵּ֖ץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has awakened  |**<big>&#8207;[[H6974\|הֵקִ֣יץ]]&#8207; </big>**| he.Kitz<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against you  |**<big>&#8207;[[H0413\|אֵלָ֑יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'e.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֖ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] coming  |**<big>&#8207;[[H0935G\|בָּאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.5|<< Ezekiel 7:5]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.7|Ezekiel 7:7 >>]]</td></tr></table>
 
 

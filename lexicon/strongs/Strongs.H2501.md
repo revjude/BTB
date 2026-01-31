@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלֶף‎</span></big> **Cheleph** <small>*(kheh'lef)*</small> ==**Heleph**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חֵלֶף‎</span><sup><small>[[H2500]]</small></sup>; change</small>
+**<big><span class="ashebrew">‎חֶלֶף‎</span></big>** **Cheleph** <small>*(kheh'lef)*</small> ==**Heleph**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H2500|‎חֵלֶף‎]]</big>**; change</small>
 
 $\quad$ Heleph.
 - § Heleph = *"exchange"*
@@ -7,4 +7,4 @@ $\quad$ Heleph.
 
 **1)** the place from which the boundary of Naphtali started, site unknown
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀλφαῖος</span><sup><small>[[G0256]]</small></sup>
+<small>See Greek: </small>**<big>[[G0256|Ἀλφαῖος]]</big>**

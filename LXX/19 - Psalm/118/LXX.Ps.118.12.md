@@ -7,25 +7,25 @@ They compassed me about like bees; they are quenched as the fire of thorns: for 
 They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off.<small><sub>**MT:**</sub></small>
 [[Ps.118.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They encircled | <big><span class="asgreek">εκύκλωσάν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| bees | <big><span class="asgreek">μέλισσαι</span></big> <sup><small><small>[[G8283]]</small></small></sup> |
-| \[at\] a honeycomb; | <big><span class="asgreek">κηρίον</span></big> <sup><small><small>[[G2781]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they burned away | <big><span class="asgreek">εξεκαύθησαν</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| thorn-bushes; | <big><span class="asgreek">ακάνθαις</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I repulsed | <big><span class="asgreek">ημυνάμην</span></big> <sup><small><small>[[G0292]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They encircled | **<big>[[G2944\|εκύκλωσάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| bees | **<big>[[G8283\|μέλισσαι]]</big>** |
+| \[at\] a honeycomb; | **<big>[[G2781\|κηρίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they burned away | **<big>[[G1572\|εξεκαύθησαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| thorn-bushes; | **<big>[[G0173\|ακάνθαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| I repulsed | **<big>[[G0292\|ημυνάμην]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.118.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
 
 

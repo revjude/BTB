@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲמֵלָל‎</span></big> **ʼămêlâl** <small>*(am-ay-lawl')*</small> ==**weak**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אָמַל‎</span><sup><small>[[H0535]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲמֵלָל‎</span></big>** **ʼămêlâl** <small>*(am-ay-lawl')*</small> ==**weak**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0535|‎אָמַל‎]]</big>**</small>
 
 $\quad$ feeble.
 - ***languid***

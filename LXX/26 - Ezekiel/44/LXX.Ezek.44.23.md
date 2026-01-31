@@ -7,23 +7,23 @@ And they shall teach my people [the difference] between the holy and profane, an
 They are to teach My people the difference between the holy and the common and show them how to discern between the clean and the unclean.<small><sub>**MT:**</sub></small>
 [[Ezek.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.22|<< Ezekiel 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.24|Ezekiel 44:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall teach | <big><span class="asgreek">διδάξουσιν</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] profane; | <big><span class="asgreek">βεβήλου</span></big> <sup><small><small>[[G0952]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρού</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| they shall make known | <big><span class="asgreek">γνωριούσιν</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they shall teach | **<big>[[G1321\|διδάξουσιν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] holy | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] profane; | **<big>[[G0952\|βεβήλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| unclean | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clean | **<big>[[G2513\|καθαρού]]</big>** |
+| they shall make known | **<big>[[G1107\|γνωριούσιν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ezek.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.22|<< Ezekiel 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.24|Ezekiel 44:24 >>]]</td></tr></table>
 
 

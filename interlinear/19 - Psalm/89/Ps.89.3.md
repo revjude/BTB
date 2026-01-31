@@ -10,14 +10,14 @@ You said, “I have made a covenant with My chosen one, I have sworn to David My
 > $\quad$ referenced by: [[Acts.2.30|Acts 2:30]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I have made  | <span class="ashebrew"><big>כָּרַ֣תִּֽי </big></span><small><small><sup>[[H3772H]]</sup></small></small> &#8207;| ka.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a covenant  | <span class="ashebrew"><big>בְ֭רִית </big></span><small><small><sup>[[H1285]]</sup></small></small> &#8207;| Ve.rit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to chosen one my  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְחִירִ֑ </big></span><small><small><sup>[[H0972]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.chi.R <small><sup>[[HAamsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have sworn an oath  | <span class="ashebrew"><big>נִ֝שְׁבַּ֗עְתִּי </big></span><small><small><sup>[[H7650]]</sup></small></small> &#8207;| nish.Ba'.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to David  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָוִ֥ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant my  | <span class="ashebrew"><big>עַבְדִּֽ </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'av.D <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made  |**<big>&#8207;[[H3772H\|כָּרַ֣תִּֽי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covenant  |**<big>&#8207;[[H1285\|בְ֭רִית]]&#8207; </big>**| Ve.rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to chosen one my  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H0972\|בְחִירִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.chi.R<small><sup>[[HAamsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have sworn an oath  |**<big>&#8207;[[H7650\|נִ֝שְׁבַּ֗עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֥ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant my  |**<big>&#8207;[[H5650\|עַבְדִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.2|<< Psalms 89:2]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.4|Psalms 89:4 >>]]</td></tr></table>
 
 

@@ -6,20 +6,20 @@ This is what the Lord GOD says: I will put an end to the hordes of Egypt by the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.9|<< Ezekiel 30:9]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.11|Ezekiel 30:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֥ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֑ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will put an end to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִשְׁבַּתִּי֙ </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hish.ba.Ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] multitude of  | <span class="ashebrew"><big>הֲמ֣וֹן </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.Mon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] hand of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יַ֖ד </big></span><small><small><sup>[[H3027H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yad <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebuchadnezzar  | <span class="ashebrew"><big>נְבוּכַדְרֶאצַּ֥ר </big></span><small><small><sup>[[H5019]]</sup></small></small> &#8207;| ne.vu.khad.re.Tzar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶֽל </big></span><small><small><sup>[[H0894]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will put an end to  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|הִשְׁבַּתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] multitude of  |**<big>&#8207;[[H1995A\|הֲמ֣וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַ֖ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  |**<big>&#8207;[[H5019\|נְבוּכַדְרֶאצַּ֥ר]]&#8207; </big>**| ne.vu.khad.re.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.9|<< Ezekiel 30:9]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.11|Ezekiel 30:11 >>]]</td></tr></table>
 
 

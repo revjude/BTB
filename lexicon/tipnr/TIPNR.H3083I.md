@@ -6,7 +6,7 @@ Priest living at the time of United Monarchy
 - A priest living at the time of United Monarchy, first mentioned at [[2Sam.15.27|2Sa.15.27]]; 
 -  son of Abiathar \(H0054\); 
 -  brother of Ahimelech \(H0288I\); 
-- called Jonathan <[[H3083I]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\); or Jonathan <[[H3129O]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\)
+- called Jonathan  **<big>[[H3083|יְהוֹנָתָן]]</big>**; or Jonathan  **<big>[[H3129|יוֹנָתָן]]</big>**
 
 Jonathan, the son of Abiathar the priest, appears in the biblical narrative during the reign of King David. He served as a messenger and informant alongside Ahimaaz, the son of Zadok, during the time of Absalom's rebellion against David \([[2Sam.15.27|2Sa.15.27]],36\). 
 
@@ -20,9 +20,9 @@ Jonathan's role as a messenger and informant highlights the importance of loyalt
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083I) <small>*Hebrew*</small> | 4x | [[2Sa.15.27] ... [2Sa.17.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=2Sa.15.27;2Sa.15.36;2Sa.17.17;2Sa.17.20) |
-| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129O) <small>*Hebrew*</small> | 2x | [[1Ki.1.42] & [1Ki.1.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=1Ki.1.42;1Ki.1.43) |
-All Strong's for **Jonathan**: \[[[H3083I]]\] \[[[H3129O]]\]
+| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083I) | 4x | [[2Sa.15.27] ... [2Sa.17.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=2Sa.15.27;2Sa.15.36;2Sa.17.17;2Sa.17.20) |
+| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129O) | 2x | [[1Ki.1.42] & [1Ki.1.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=1Ki.1.42;1Ki.1.43) |
+All entries for **Jonathan**:  **<big>[[H3083|יְהוֹנָתָן]]</big>** ☩  **<big>[[H3129|יוֹנָתָן]]</big>**
 #### Related Profiles:
 - **[Abiathar](H0054)** (father)
 - **[Ahimelech](H0288I)** (sibling)

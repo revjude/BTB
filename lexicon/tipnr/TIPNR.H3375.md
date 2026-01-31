@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Yiron</span>, a town in the territory of Naphtali, mentioned in the list of cities allotted to the tribe during the division of the Promised Land \(Josh. 19:38\).
 - A location only mentioned at [[Josh.19.38|Jos.19.38]]; 
-- only referred to as Yiron<[[H3375]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Yiron **<big>[[H3375|יִרְאוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.088748,35.414111&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Yiron is a town mentioned in [[Josh.19.38|Joshua 19:38]] as part of the territor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Yiron | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H3375) <small>*Hebrew*</small> | 1x | [Jos.19.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Yiron\*\|reference=Jos.19.38) |
-All Strong's for **Yiron**: \[[[H3375]]\]
+| Yiron | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>או</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H3375) | 1x | [Jos.19.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Yiron\*\|reference=Jos.19.38) |
+All entries for **Yiron**:  **<big>[[H3375|יִרְאוֹן]]</big>**

@@ -6,16 +6,16 @@ For the LORD guards the path of the righteous, but the way of the wicked will pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.5|<< Psalms 1:5]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.1|Psalms 2:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] knowing  | <span class="ashebrew"><big>יוֹדֵ֣עַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| yo.De.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֑ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] way of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דֶ֖רֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֣ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will perish  | <span class="ashebrew"><big>תֹּאבֵֽד </big></span><small><small><sup>[[H0006]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.Ved <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] knowing  |**<big>&#8207;[[H3045\|יוֹדֵ֣עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870L\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֑ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] way of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1870L\|דֶ֖רֶךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will perish  |**<big>&#8207;[[H0006\|תֹּאבֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.Ved<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.5|<< Psalms 1:5]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.1|Psalms 2:1 >>]]</td></tr></table>
 
 

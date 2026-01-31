@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎χειμών‎</span></big> **cheimṓn** <small>*(khi-mone')*</small> ==**winter**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+**<big><span class="asgreek">‎χειμών‎</span></big>** **cheimṓn** <small>*(khi-mone')*</small> ==**winter**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
 <small>from a derivative of <greek BETA="XE/W" unicode="χέω" translit="chéō"/> (to pour</small>
 
 $\quad$ tempest, foul weather, winter.

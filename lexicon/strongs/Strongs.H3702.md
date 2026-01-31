@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כְּסַף‎</span></big> **kᵉçaph** <small>*(kes-af')*</small> ==**silver**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כֶּסֶף‎</span><sup><small>[[H3701]]</small></sup></small>
+**<big><span class="asaramaic">‎כְּסַף‎</span></big>** **kᵉçaph** <small>*(kes-af')*</small> ==**silver**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3701|‎כֶּסֶף‎]]</big>**</small>
 
 $\quad$ money, silver.
 - {***silver*** (from its pale color)

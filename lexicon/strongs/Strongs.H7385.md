@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִיק‎</span></big> **rîyq** <small>*(reek)*</small> ==**vain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רוּק‎</span><sup><small>[[H7324]]</small></sup></small>
+**<big><span class="ashebrew">‎רִיק‎</span></big>** **rîyq** <small>*(reek)*</small> ==**vain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7324|‎רוּק‎]]</big>**</small>
 
 $\quad$ empty, to no purpose, (in) vain (thing), vanity.
 - ***emptiness***
@@ -8,4 +8,4 @@ $\quad$ empty, to no purpose, (in) vain (thing), vanity.
 
 **1)** emptiness, vanity, empty, idle, vain
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κενός</span><sup><small>[[G2756]]</small></sup> · <span class="asgreek">κενῶς</span><sup><small>[[G2761]]</small></sup> · <span class="asgreek">ματαιότης</span><sup><small>[[G3153]]</small></sup>
+<small>See Greek: </small>**<big>[[G2756|κενός]]</big>** · **<big>[[G2761|κενῶς]]</big>** · **<big>[[G3153|ματαιότης]]</big>**

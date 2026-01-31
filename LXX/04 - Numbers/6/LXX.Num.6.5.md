@@ -7,34 +7,34 @@ All the days of the vow of his separation there shall no rasor come upon his hea
 For the entire period of his vow of separation, no razor shall touch his head. He must be holy until the time of his separation to the LORD is complete; he must let the hair of his head grow long.<small><sub>**MT:**</sub></small>
 [[Num.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vow | <big><span class="asgreek">ευχής</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his purification | <big><span class="asgreek">αγνισμού</span></big> <sup><small><small>[[G0049]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a razor | <big><span class="asgreek">ξυρός</span></big> <sup><small><small>[[G8434]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be fulfilled | <big><span class="asgreek">πληρωθώσιν</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he made a vow | <big><span class="asgreek">ηύξατο</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| He shall be holy, | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| maintaining | <big><span class="asgreek">τρέφων</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
-| \[the\] lock | <big><span class="asgreek">κόμην</span></big> <sup><small><small>[[G2864]]</small></small></sup> |
-| of hair | <big><span class="asgreek">τρίχα</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| on his head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| vow | **<big>[[G2171\|ευχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his purification | **<big>[[G0049\|αγνισμού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a razor | **<big>[[G8434\|ξυρός]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| come | **<big>[[G1904\|επελεύσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should be fulfilled | **<big>[[G4137\|πληρωθώσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| as many as | **<big>[[G3745\|όσας]]</big>** |
+| he made a vow | **<big>[[G2172\|ηύξατο]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| He shall be holy, | **<big>[[G0039\|άγιος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| maintaining | **<big>[[G5142\|τρέφων]]</big>** |
+| \[the\] lock | **<big>[[G2864\|κόμην]]</big>** |
+| of hair | **<big>[[G2359\|τρίχα]]</big>** |
+| on his head. | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
 

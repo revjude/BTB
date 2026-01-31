@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jozabad</span>, a Benjamite warrior, was one of the mighty men who joined David at Ziklag.
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.4|1Ch.12.4]]; 
-- only referred to as Jozabad<[[H3107H]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is mentioned in [[1Chr.12.4|1 Chronicles 12:4]] as one of the Benjamite warriors who joined David at Ziklag. The context of the passage is the listing of the mighty men who supported David during his time of exile and conflict with King Saul \(1 Chronicles 12:1-22\). 
 
@@ -14,5 +14,5 @@ The passage highlights the support David received from various tribes, including
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jozabad (KJV= Josabad) | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107H) <small>*Hebrew*</small> | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=1Ch.12.4) |
-All Strong's for **Jozabad**: \[[[H3107H]]\]
+| Jozabad (KJV= Josabad) | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107H) | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=1Ch.12.4) |
+All entries for **Jozabad**:  **<big>[[H3107|יוֹזָבָד]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קֶרֶן‎</span></big> **qeren** <small>*(keh'-ren)*</small> ==**horn**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎קֶרֶן‎</span><sup><small>[[H7161]]</small></sup></small>
+**<big><span class="asaramaic">‎קֶרֶן‎</span></big>** **qeren** <small>*(keh'-ren)*</small> ==**horn**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7161|‎קֶרֶן‎]]</big>**</small>
 
 $\quad$ horn, cornet.
 - ***a horn*** (literally or for sound)

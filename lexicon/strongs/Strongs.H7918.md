@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁכַךְ‎</span></big> **shâkak** <small>*(shaw-kak')*</small> ==**to subside**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁכַךְ‎</span></big>** **shâkak** <small>*(shaw-kak')*</small> ==**to subside**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appease, assuage, make to cease, pacify, set.
@@ -10,4 +10,4 @@ $\quad$ appease, assuage, make to cease, pacify, set.
 $\quad$ **1a)** (Qal) to abate
 $\quad$ **1b)** (Hiphil) to allay
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοπάζω</span><sup><small>[[G2869]]</small></sup> · <span class="asgreek">περιαιρέω</span><sup><small>[[G4014]]</small></sup>
+<small>See Greek: </small>**<big>[[G2869|κοπάζω]]</big>** · **<big>[[G4014|περιαιρέω]]</big>**

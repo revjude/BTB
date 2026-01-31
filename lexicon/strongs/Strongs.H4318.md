@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָה‎</span></big> **Mîykâh** <small>*(mee-kaw')*</small> ==**Micah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>an abbreviated form of <span class="ashebrew">‎מִיכָיָה‎</span><sup><small>[[H4320]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיכָה‎</span></big>** **Mîykâh** <small>*(mee-kaw')*</small> ==**Micah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>an abbreviated form of **<big>[[H4320|‎מִיכָיָה‎]]</big>**</small>
 
 $\quad$ Micah, Micaiah, Michah.
 - § Micah or Micaiah or Michah = *"who is like God"*

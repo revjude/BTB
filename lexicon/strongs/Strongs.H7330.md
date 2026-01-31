@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎רָזֶה‎</span></big> **râzeh** <small>*(raw-zeh')*</small> ==**lean**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎רָזָה‎</span><sup><small>[[H7329]]</small></sup></small>
+**<big><span class="ashebrew">‎רָזֶה‎</span></big>** **râzeh** <small>*(raw-zeh')*</small> ==**lean**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H7329|‎רָזָה‎]]</big>**</small>
 
 $\quad$ lean.
 - ***thin***
 
 **1)** lean
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενής</span><sup><small>[[G0772]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup>
+<small>See Greek: </small>**<big>[[G0772|ἀσθενής]]</big>** · **<big>[[G3935|παρίημι]]</big>**

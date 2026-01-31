@@ -11,34 +11,34 @@ And Jacob had a dream about a ladder that rested on the earth with its top reach
 > $\quad$ referenced by: [[John.1.51|John 1:51]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he dreamed. | <big><span class="asgreek">ενυπνιάσθη</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[there was a\] stairway | <big><span class="asgreek">κλίμαξ</span></big> <sup><small><small>[[G8025]]</small></small></sup> |
-| being supported | <big><span class="asgreek">εστηριγμένη</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| arrived | <big><span class="asgreek">αφικνείτο</span></big> <sup><small><small>[[G0864]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| descended | <big><span class="asgreek">κατέβαινον</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he dreamed. | **<big>[[G1797\|ενυπνιάσθη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[there was a\] stairway | **<big>[[G8025\|κλίμαξ]]</big>** |
+| being supported | **<big>[[G4741\|εστηριγμένη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth, | **<big>[[G1093\|γη]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| top | **<big>[[G2776\|κεφαλή]]</big>** |
+| arrived | **<big>[[G0864\|αφικνείτο]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| angels | **<big>[[G0032\|άγγελοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| descended | **<big>[[G2597\|κατέβαινον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Gen.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.11|<< Genesis 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.13|Genesis 28:13 >>]]</td></tr></table>
 
 

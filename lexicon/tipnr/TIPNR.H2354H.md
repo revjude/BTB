@@ -4,7 +4,7 @@ King living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Hur</span> was one of the five Midianite kings slain by the Israelites during the time of Moses.
 - A Midianite king living at the time of Egypt and Wilderness, first mentioned at [[Num.31.8|Num.31.8]]; 
-- only referred to as Hur<[[H2354H]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Hur **<big>[[H2354|חוּר]]</big>**.
 
 Hur is mentioned in [[Num.31.8|Numbers 31:8]] and [[Josh.13.21|Joshua 13:21]] as one of the five kings of Midian who were killed by the Israelites during the time of Moses. These kings were slain in battle as part of a divine judgment against the Midianites for their role in seducing the Israelites into idolatry and sexual immorality \(Numbers 25:1-18\). 
 
@@ -16,5 +16,5 @@ The biblical account of Hur and the other Midianite kings serves as an example o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hur | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2354H) <small>*Hebrew*</small> | 2x | [[Num.31.8] & [Jos.13.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=Num.31.8;Jos.13.21) |
-All Strong's for **Hur**: \[[[H2354H]]\]
+| Hur | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2354H) | 2x | [[Num.31.8] & [Jos.13.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=Num.31.8;Jos.13.21) |
+All entries for **Hur**:  **<big>[[H2354|חוּר]]</big>**

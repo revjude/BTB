@@ -7,29 +7,29 @@ These four were born to the giant in Gath, and fell by the hand of David, and by
 So these four descendants of Rapha in Gath fell at the hands of David and his servants.<small><sub>**MT:**</sub></small>
 [[2Sam.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.21|<< 2 Samuel 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.1|2 Samuel 22:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| These four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| were born to | <big><span class="asgreek">ετέχθησαν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| descendants | <big><span class="asgreek">απόγονοι</span></big> <sup><small><small>[[G6419]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giants | <big><span class="asgreek">γιγάντων</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gath, | <big><span class="asgreek">Γεθ</span></big> <sup><small><small>[[H1661]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Rapha | <big><span class="asgreek">Ραφά</span></big> <sup><small><small>[[H7498]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fell | <big><span class="asgreek">έπεσαν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his servants. | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| These four | **<big>[[G5064\|τέσσαρες]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| were born to | **<big>[[G5088\|ετέχθησαν]]</big>** |
+| descendants | **<big>[[G6419\|απόγονοι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| giants | **<big>[[G6736\|γιγάντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gath, | **<big>[[H1661\|Γεθ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| of Rapha | **<big>[[H7498\|Ραφά]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they fell | **<big>[[G4098\|έπεσαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his servants. | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.21|<< 2 Samuel 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.1|2 Samuel 22:1 >>]]</td></tr></table>
 
 

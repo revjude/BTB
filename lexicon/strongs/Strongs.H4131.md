@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוֹט‎</span></big> **môwṭ** <small>*(mote)*</small> ==**to shake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מוֹט‎</span></big>** **môwṭ** <small>*(mote)*</small> ==**to shake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be carried, cast, be out of course, be fallen in decay, [idiom] exceedingly, fall(-ing down), be (re-) moved, be ready, shake, slide, slip.

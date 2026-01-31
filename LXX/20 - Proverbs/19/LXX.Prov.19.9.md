@@ -7,20 +7,20 @@ A false witness shall not be unpunished, and [he that] speaketh lies shall peris
 A false witness will not go unpunished, and one who pours out lies will perish.<small><sub>**MT:**</sub></small>
 [[Prov.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.8|<< Proverbs 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.10|Proverbs 19:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| A lying | <big><span class="asgreek">ψευδής</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| unpunished | <big><span class="asgreek">ατιμώρητος</span></big> <sup><small><small>[[G6590]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">δ΄</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| shall kindle | <big><span class="asgreek">εκκαύσει</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| shall perish | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| by | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| witness | **<big>[[G3144\|μάρτυς]]</big>** |
+| A lying | **<big>[[G5571\|ψευδής]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| unpunished | **<big>[[G6590\|ατιμώρητος]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| and who | **<big>[[G3739\|ος]]</big>** **<big>[[G1161\|δ΄]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| shall kindle | **<big>[[G1572\|εκκαύσει]]</big>** |
+| evil | **<big>[[G2549\|κακίαν]]</big>** |
+| shall perish | **<big>[[G0622\|απολείται]]</big>** |
+| by | **<big>[[G5259\|υπ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Prov.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.8|<< Proverbs 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.10|Proverbs 19:10 >>]]</td></tr></table>
 
 

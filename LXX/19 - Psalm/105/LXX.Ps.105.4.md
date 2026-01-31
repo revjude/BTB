@@ -7,17 +7,17 @@ Seek the LORD, and his strength: seek his face evermore.
 Seek out the LORD and His strength; seek His face always.<small><sub>**MT:**</sub></small>
 [[Ps.105.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.3|<< Psalm 105:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.5|Psalm 105:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Seek | <big><span class="asgreek">ζητήσατε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be fortified! | <big><span class="asgreek">κραταιώθητε</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| Seek | <big><span class="asgreek">ζητήσατε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| always! | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| Seek | **<big>[[G2212\|ζητήσατε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be fortified! | **<big>[[G2901\|κραταιώθητε]]</big>** |
+| Seek | **<big>[[G2212\|ζητήσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| always! | **<big>[[G1275\|διαπαντός]]</big>** |
 [[Ps.105.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.3|<< Psalm 105:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.5|Psalm 105:5 >>]]</td></tr></table>
 
 

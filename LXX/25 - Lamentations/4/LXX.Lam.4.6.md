@@ -9,27 +9,27 @@ For the punishment of the iniquity of the daughter of my people is greater than 
 The punishment of the daughter of my people is greater than that of Sodom, which was overthrown in an instant without a hand turned to help her.<small><sub>**MT:**</sub></small>
 [[Lam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.5|<< Lamentations 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.7|Lamentations 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΟΥΑΥ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \[the\] lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] lawlessness | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| of Sodom, | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| the \[place\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being eradicated | <big><span class="asgreek">κατεστραμμένης</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| as \[with\] | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| promptness, | <big><span class="asgreek">σπουδή</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| toil | <big><span class="asgreek">επόνεσαν</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> |  |
+| And | **<big>[[G2532\|και]]</big>** |
+| was magnified | **<big>[[G3170\|εμεγαλύνθη]]</big>** |
+| \[the\] lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| of \[the\] daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] lawlessness | **<big>[[G0458\|ανομίας]]</big>** |
+| of Sodom, | **<big>[[G4670\|Σοδόμων]]</big>** |
+| the \[place\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| being eradicated | **<big>[[G2690\|κατεστραμμένης]]</big>** |
+| as \[with\] | **<big>[[G5618\|ώσπερ]]</big>** |
+| promptness, | **<big>[[G4710\|σπουδή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| toil | **<big>[[G8862\|επόνεσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| hands. | **<big>[[G5495\|χείρας]]</big>** |
 [[Lam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.5|<< Lamentations 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.7|Lamentations 4:7 >>]]</td></tr></table>
 
 

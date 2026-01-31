@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּרֶךְ‎</span></big> **berek** <small>*(beh'-rek)*</small> ==**knee**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָרַךְ‎</span><sup><small>[[H1288]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּרֶךְ‎</span></big>** **berek** <small>*(beh'-rek)*</small> ==**knee**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1288|‎בָרַךְ‎]]</big>**</small>
 
 $\quad$ knee.
 - ***a knee***
@@ -7,4 +7,4 @@ $\quad$ knee.
 **1)** knee
 **2)** weak from fear (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γόνυ</span><sup><small>[[G1119]]</small></sup> · <span class="asgreek">γόνυ</span><sup><small>[[G1119]]</small></sup> · <span class="asgreek">μηρός</span><sup><small>[[G3382]]</small></sup>
+<small>See Greek: </small>**<big>[[G1119|γόνυ]]</big>** · **<big>[[G1119|γόνυ]]</big>** · **<big>[[G3382|μηρός]]</big>**

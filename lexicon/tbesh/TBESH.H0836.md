@@ -1,7 +1,5 @@
-<span class="ashebrew">‎אָשֵׁר‎</span> <small>***(a.sher)***</small> ==**Asher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher  living at the time of the Patriarchs, first mentioned at [[Gen.30.13|Gen.30.13]]
--  son of: Israel ([[H3478]]) and Zilpah ([[H2153]])
--  brother of: Gad ([[H1410]])
--  half-brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Dan ([[H1835H]]), Naphtali ([[H5321]]), Issachar ([[H3485]]), Zebulun ([[H2074]]), Dinah ([[H1783]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
--  father of: Imnah ([[H3232]]), Ishvah ([[H3438]]), Ishvi ([[H3440]]), Beriah ([[H1283]]) and Serah ([[H8294]]); also translated "pine" or "cypress wood" at [[Ezek.27.6|Ezk.27.6]] (?);  Ashurite at [[2Sam.2.9|2Sa.2.9]] (?)
-
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Zilpah (**<big>[[H2153|זִלְפָּה]]</big>**)
+-  brother of: Gad (**<big>[[H1410|גָּד]]</big>**)
+-  half-brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**), Dinah (**<big>[[H1783|דִּינָה]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  father of: Imnah (**<big>[[H3232|יִמְנָה]]</big>**), Ishvah (**<big>[[H3438|יִשְׁוָה]]</big>**), Ishvi (**<big>[[H3440|יִשְׁוִי]]</big>**), Beriah (**<big>[[H1283|בְּרִיעָה]]</big>**) and Serah (**<big>[[H8294|שֶׂרַח]]</big>**); also translated "pine" or "cypress wood" at [[Ezek.27.6|Ezk.27.6]] [[Ezek.27.0|  A]] shurite at [[2Sam.2.9|2Sa.2.9]]

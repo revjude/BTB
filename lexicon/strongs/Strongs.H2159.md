@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָמִיר‎</span></big> **zâmîyr** <small>*(zaw-meer')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זָמַר‎</span><sup><small>[[H2168]]</small></sup></small>
+**<big><span class="ashebrew">‎זָמִיר‎</span></big>** **zâmîyr** <small>*(zaw-meer')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2168|‎זָמַר‎]]</big>**</small>
 
 $\quad$ branch.
 - ***a twig*** (as pruned)

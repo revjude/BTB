@@ -1,4 +1,4 @@
-name of: <small>[[G0675]]</small> 
+name of: <small>**<big>[[G0675|Ἄππιος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Φόρον==</span></b>, <span class='asgreek'>τό</span>, 

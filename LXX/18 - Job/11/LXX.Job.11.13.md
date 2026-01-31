@@ -7,18 +7,18 @@ If thou prepare thine heart, and stretch out thine hands toward him;
 As for you, if you direct your heart and lift up your hands to Him,<small><sub>**MT:**</sub></small>
 [[Job.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.12|<< Job 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.14|Job 11:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαράν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| established | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and turned up and opened | <big><span class="asgreek">υπτιάζεις</span></big> <sup><small><small>[[G9601]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[your\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For if | **<big>[[G1487\|ει]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| clean | **<big>[[G2513\|καθαράν]]</big>** |
+| established | **<big>[[G5087\|έθου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and turned up and opened | **<big>[[G9601\|υπτιάζεις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[your\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
 [[Job.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.12|<< Job 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.14|Job 11:14 >>]]</td></tr></table>
 
 

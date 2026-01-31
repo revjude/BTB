@@ -7,25 +7,25 @@ Happy [are] thy men, happy [are] these thy servants, which stand continually bef
 How blessed are your men! How blessed are these servants of yours who stand continually before you and hear your wisdom!<small><sub>**MT:**</sub></small>
 [[1Kgs.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.7|<< 1 Kings 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.9|1 Kings 10:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed \[are\] | <big><span class="asgreek">μακάριαι</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wives, | <big><span class="asgreek">γυναίκές</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blessed \[are\] | <big><span class="asgreek">μακάριοι</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">παρεστηκότες</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| continually, | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούοντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your intellect. | <big><span class="asgreek">φρόνησίν</span></big> <sup><small><small>[[G5428]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Blessed \[are\] | **<big>[[G3107\|μακάριαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your wives, | **<big>[[G1135\|γυναίκές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blessed \[are\] | **<big>[[G3107\|μακάριοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your servants | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| standing | **<big>[[G3936\|παρεστηκότες]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| continually, | **<big>[[G1275\|διαπαντός]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| hearing | **<big>[[G0191\|ακούοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your intellect. | **<big>[[G5428\|φρόνησίν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[1Kgs.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.7|<< 1 Kings 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.9|1 Kings 10:9 >>]]</td></tr></table>
 
 

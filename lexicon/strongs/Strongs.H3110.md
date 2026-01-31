@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹחָנָן‎</span></big> **Yôwchânân** <small>*(yo-khaw-nawn')*</small> ==**Johanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹחָנָן‎</span><sup><small>[[H3076]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹחָנָן‎</span></big>** **Yôwchânân** <small>*(yo-khaw-nawn')*</small> ==**Johanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3076|‎יְהוֹחָנָן‎]]</big>**</small>
 
 $\quad$ Johanan.
 - § Johanan = *"Jehovah has graced"*
@@ -14,4 +14,4 @@ $\quad$ Johanan.
 **7)** a Gadite, one of David's mighty warriors
 **8)** a returning exile
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰωάννης</span><sup><small>[[G2491]]</small></sup>
+<small>See Greek: </small>**<big>[[G2491|Ἰωάννης]]</big>**

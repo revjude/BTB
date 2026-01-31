@@ -1,5 +1,3 @@
-<span class="ashebrew">‎רֶ֫גֶם‎</span> <small>***(re.gem)***</small> ==**Regem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.2.47|1Ch.2.47]]
--  son of Caleb ([[H3612H]]) and Jahdai ([[H3056]])
--  brother of: Jotham ([[H3147I]]), Geshan ([[H1529]]), Pelet ([[H6404]]), Ephah ([[H5891I]]) and Shaaph ([[H8174]])
-
+-  son of Caleb (**<big>[[H3612H|כָּלֵב]]</big>**) and Jahdai (**<big>[[H3056|יֶהְדַי]]</big>**)
+-  brother of: Jotham (**<big>[[H3147I|יוֹתָם]]</big>**), Geshan (**<big>[[H1529|גֵּישָׁן]]</big>**), Pelet (**<big>[[H6404|פֶּלֶט]]</big>**), Ephah (**<big>[[H5891I|עֵיפָה]]</big>**) and Shaaph (**<big>[[H8174|שַׁעַף]]</big>**)

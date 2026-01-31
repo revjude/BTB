@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָבָא‎</span></big> **châbâʼ** <small>*(khaw-baw')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חָבַב‎</span><sup><small>[[H2245]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָבָא‎</span></big>** **châbâʼ** <small>*(khaw-baw')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2245|‎חָבַב‎]]</big>**)</small>
 
 $\quad$ [idiom] held, hide (self), do secretly.
 - ***to secrete***
@@ -13,4 +13,4 @@ $\quad$ **1e)** (Hithpael)
 $\quad$ $\quad$ **1e1)** to hide oneself, draw back
 $\quad$ $\quad$ **1e2)** to draw together, thicken, harden
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐγκρύπτω</span><sup><small>[[G1470]]</small></sup> · <span class="asgreek">καταβαίνω</span><sup><small>[[G2597]]</small></sup> · <span class="asgreek">καταφεύγω</span><sup><small>[[G2703]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">κρυφῆ</span><sup><small>[[G2931]]</small></sup> · <span class="asgreek">φράζω</span><sup><small>[[G5419]]</small></sup>
+<small>See Greek: </small>**<big>[[G1470|ἐγκρύπτω]]</big>** · **<big>[[G2597|καταβαίνω]]</big>** · **<big>[[G2703|καταφεύγω]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G2931|κρυφῆ]]</big>** · **<big>[[G5419|φράζω]]</big>**

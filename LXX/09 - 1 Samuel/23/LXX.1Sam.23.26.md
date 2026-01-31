@@ -7,45 +7,45 @@ And Saul went on this side of the mountain, and David and his men on that side o
 Saul was proceeding along one side of the mountain, and David and his men along the other side. Even though David was hurrying to get away, Saul and his men were closing in on David and his men to capture them.<small><sub>**MT:**</sub></small>
 [[1Sam.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.25|<< 1 Samuel 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.27|1 Samuel 23:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul went, | <big><span class="asgreek">πορεύεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by the side | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by the \[other\] side | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this mountain. | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| sheltering | <big><span class="asgreek">σκεπαζόμενος</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men -- | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to seize | <big><span class="asgreek">συλλαβείν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul went, | **<big>[[G4198\|πορεύεται]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by the side | **<big>[[G1537\|εκ]]</big>** **<big>[[G3313\|μέρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this mountain, | **<big>[[G3735\|όρους]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by the \[other\] side | **<big>[[G1537\|εκ]]</big>** **<big>[[G3313\|μέρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this mountain. | **<big>[[G3735\|όρους]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David was | **<big>[[G1510\|ην]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| sheltering | **<big>[[G9095\|σκεπαζόμενος]]</big>** |
+| to go | **<big>[[G4198\|πορεύεσθαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his men -- | **<big>[[G0435\|άνδρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to seize | **<big>[[G4815\|συλλαβείν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[1Sam.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.25|<< 1 Samuel 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.27|1 Samuel 23:27 >>]]</td></tr></table>
 
 

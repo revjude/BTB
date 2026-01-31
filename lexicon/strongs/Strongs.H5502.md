@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָחַף‎</span></big> **çâchaph** <small>*(saw-khaf')*</small> ==**to prostatrate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָחַף‎</span></big>** **çâchaph** <small>*(saw-khaf')*</small> ==**to prostatrate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ sweep (away).

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צַלְמֹנָה‎</span></big> **Tsalmônâh** <small>*(tsal-mo-naw')*</small> ==**Zalmonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎צַלְמָוֶת‎</span><sup><small>[[H6757]]</small></sup>; shadiness</small>
+**<big><span class="ashebrew">‎צַלְמֹנָה‎</span></big>** **Tsalmônâh** <small>*(tsal-mo-naw')*</small> ==**Zalmonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H6757|‎צַלְמָוֶת‎]]</big>**; shadiness</small>
 
 $\quad$ Zalmonah.
 - § Zalmonah = *"shady"*

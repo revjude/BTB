@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jacan</span> was a leader from the tribe of Gad during the reign of Jotham, king of Judah \([[1Chr.5.13|1Ch.5.13]]\).
 - A man from the tribe of Gad  living at the time of Divided Monarchy, only mentioned at [[1Chr.5.13|1Ch.5.13]]; 
-- only referred to as Jacan<[[H3275]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Abihail<[[H0032I]]>; 
-- a brother of Michael<[[H4317H]]>, Meshullam<[[H4918I]]>, Sheba<[[H7652G]]>, Jorai<[[H3140]]>, Zia<[[H2127]]> and Eber<[[H5677H]]>.
+- only referred to as Jacan **<big>[[H3275|יַעְכָּן]]</big>**; 
+-  son of Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**; 
+- a brother of Michael **<big>[[H4317|מִיכָאֵל]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Sheba **<big>[[H7652|שֶׁבַע]]</big>**, Jorai **<big>[[H3140|יוֹרַי]]</big>**, Zia **<big>[[H2127|זִיעַ]]</big>** and Eber **<big>[[H5677|עֵבֵר]]</big>**.
 
 Jacan is mentioned briefly in [[1Chr.5.13|1 Chronicles 5:13]] as one of the leaders from the tribe of Gad during the reign of Jotham, king of Judah. He is listed alongside six other leaders: Michael, Meshullam, Sheba, Jorai, Jachan, and Zia. 
 
@@ -18,8 +18,8 @@ No other specific details are provided about Jacan's life or role within the tri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jacan (KJV= Jachan; NIV= Jakan) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H3275) <small>*Hebrew*</small> | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jacan\*\|reference=1Ch.5.13) |
-All Strong's for **Jacan**: \[[[H3275]]\]
+| Jacan (KJV= Jachan; NIV= Jakan) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H3275) | 1x | [1Ch.5.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jacan\*\|reference=1Ch.5.13) |
+All entries for **Jacan**:  **<big>[[H3275|יַעְכָּן]]</big>**
 #### Related Profiles:
 - **[Abihail](H0032I)** (father)
 - **[Michael](H4317H)** (sibling)

@@ -14,31 +14,31 @@ Behold ye among the heathen, and regard, and wonder marvellously: for [I] will w
 > $\quad$ referenced by: [[Acts.13.41|Acts 13:41]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| O | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| despisers, | <big><span class="asgreek">καταφρονηταί</span></big> <sup><small><small>[[G2707]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| look! | <big><span class="asgreek">επιβλέψατε</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wonder | <big><span class="asgreek">θαυμάσατε</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| wonders, | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vanish! | <big><span class="asgreek">αφανίσθητε</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| work | <big><span class="asgreek">εργάζομαι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| you shall believe | <big><span class="asgreek">πιστεύσητε</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should tell \[of it\] in detail. | <big><span class="asgreek">εκδιηγήται</span></big> <sup><small><small>[[G1555]]</small></small></sup> |
+| Behold, | **<big>[[G1492\|ίδετε]]</big>** |
+| O | **<big>[[G3588\|οι]]</big>** |
+| despisers, | **<big>[[G2707\|καταφρονηταί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| look! | **<big>[[G1914\|επιβλέψατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wonder | **<big>[[G2296\|θαυμάσατε]]</big>** |
+| wonders, | **<big>[[G2297\|θαυμάσια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| vanish! | **<big>[[G0853\|αφανίσθητε]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| a work | **<big>[[G2041\|έργον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| work | **<big>[[G2038\|εργάζομαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| you shall believe | **<big>[[G4100\|πιστεύσητε]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| should tell \[of it\] in detail. | **<big>[[G1555\|εκδιηγήται]]</big>** |
 [[Hab.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.4|<< Habakkuk 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.6|Habakkuk 1:6 >>]]</td></tr></table>
 
 

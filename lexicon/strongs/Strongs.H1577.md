@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎גָּמוּל‎</span></big> **gâmûwl** <small>*(gaw-mool')*</small> ==**Gamul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>passive participle of <span class="ashebrew">‎גָּמַל‎</span><sup><small>[[H1580]]</small></sup>; rewarded</small>
+**<big><span class="ashebrew">‎גָּמוּל‎</span></big>** **gâmûwl** <small>*(gaw-mool')*</small> ==**Gamul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>passive participle of **<big>[[H1580|‎גָּמַל‎]]</big>**; rewarded</small>
 
-$\quad$ Gamul. See also <span class="ashebrew">‎בֵּית גָּמוּל‎</span><sup><small>[[H1014]]</small></sup>.
+$\quad$ Gamul. See also **<big>[[H1014|‎בֵּית גָּמוּל‎]]</big>**.
 - § Gamul = *"weaned"*
 - ***Gamul***, an Israelite
 

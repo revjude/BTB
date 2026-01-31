@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָיָהוּ‎</span></big> **Mîykâyâhûw** <small>*(me-kaw-yaw'-hoo)*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎מִיכָיָה‎</span><sup><small>[[H4320]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיכָיָהוּ‎</span></big>** **Mîykâyâhûw** <small>*(me-kaw-yaw'-hoo)*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H4320|‎מִיכָיָה‎]]</big>**</small>
 
 $\quad$ Michaiah.
 - § Michaiah = *"who is like God"*

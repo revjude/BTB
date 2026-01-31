@@ -7,33 +7,33 @@ And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the
 Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”<small><sub>**MT:**</sub></small>
 [[Exod.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.15|<< Exodus 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.17|Exodus 8:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to Aaron! | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| Stretch out | <big><span class="asgreek">έκτεινον</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[with your\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rod, | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strike | <big><span class="asgreek">πάταξον</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| embankment | <big><span class="asgreek">χώμα</span></big> <sup><small><small>[[G9771]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| midges | <big><span class="asgreek">σκνίπες</span></big> <sup><small><small>[[G9110]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Say | **<big>[[G2036\|είπον]]</big>** |
+| to Aaron! | **<big>[[G0002\|Ααρών]]</big>** |
+| Stretch out | **<big>[[G1614\|έκτεινον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| \[with your\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your rod, | **<big>[[G4464\|ράβδον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strike | **<big>[[G3960\|πάταξον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| embankment | **<big>[[G9771\|χώμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land! | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will be | **<big>[[G1510\|έσονται]]</big>** |
+| midges | **<big>[[G9110\|σκνίπες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.15|<< Exodus 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.17|Exodus 8:17 >>]]</td></tr></table>
 
 

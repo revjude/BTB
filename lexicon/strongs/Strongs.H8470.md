@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחֲנִי‎</span></big> **Tachănîy** <small>*(takh-an-ee')*</small> ==**Tahanite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎תַּחַן‎</span><sup><small>[[H8465]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחֲנִי‎</span></big>** **Tachănîy** <small>*(takh-an-ee')*</small> ==**Tahanite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H8465|‎תַּחַן‎]]</big>**</small>
 
 $\quad$ Tahanites.
 - § Tahanites = *see Tachan "thou will decline"*

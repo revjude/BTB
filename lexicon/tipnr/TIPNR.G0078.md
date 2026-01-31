@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Addi</span> was an ancestor of Jesus Christ, mentioned in the genealogy in the Gospel of Luke \([[Luke.3.28|Luk.3.28]]\).
 - A man from the tribe of Judah living at the time of Exile and Return, only mentioned at [[Luke.3.28|Luk.3.28]]; 
-- only referred to as Addi<[[G0078]]> \(<span class='tipnrLangGreek'>Ἀδδί</span>\); 
-- a son of Cosam<[[G2973]]>; 
--  father of Melchi<[[G3197H]]>.
+- only referred to as Addi **<big>[[G0078|Ἀδδί]]</big>**; 
+- a son of Cosam **<big>[[G2973|Κωσάμ]]</big>**; 
+-  father of Melchi **<big>[[G3197|Μελχί]]</big>**.
 
 Addi is mentioned in the genealogy of Jesus Christ recorded in the Gospel of Luke \([[Luke.3.28|Luke 3:28]]\). He is listed as the son of Cosam and the father of Melchi, and he appears in the lineage between David and Joseph, the husband of Mary. 
 
@@ -20,8 +20,8 @@ As with many of the individuals mentioned in biblical genealogies, Addi's signif
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Addi | [<span class='tipnrLangGreek'>Ἀδδί</span>](G0078) <small>*Greek*</small> | 1x | [Luk.3.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Addi\*\|reference=Luk.3.28) |
-All Strong's for **Addi**: \[[[G0078]]\]
+| Addi | [<span class='tipnrLangGreek'>Ἀδδί</span>](G0078) | 1x | [Luk.3.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Addi\*\|reference=Luk.3.28) |
+All entries for **Addi**:  **<big>[[G0078|Ἀδδί]]</big>**
 #### Related Profiles:
 - **[Cosam](G2973)** (father)
 - **[Melchi](G3197H)** (child)

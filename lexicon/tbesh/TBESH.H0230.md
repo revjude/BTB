@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אַזְדָּא‎</span> <small>***(a.zad)***</small> ==**gone**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H0235]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H0235|אָזַל]]</big>**</small> 
 
-- Aramaic of <i>a.zal</i> (<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ז‎</span>ַ<span class='ashebrew'>‎ל‎</span> "be gone" [[H0235]])
+- Aramaic of <i>a.zal</i> (<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ז‎</span>ַ<span class='ashebrew'>‎ל‎</span> "be gone" **<big>[[H0235|אָזַל]]</big>**)

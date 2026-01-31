@@ -1,3 +1,2 @@
-<span class="ashebrew">‎מַעֲכָה‎</span> <small>***(ma.a.khah)***</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A woman of the tribe of Benjamin  living at the time of United Monarchy, first mentioned at [[1Chr.8.29|1Ch.8.29]] married to Abiel ([[H0022G]])
--  mother of: Kish ([[H7027G]]), Ner ([[H5369G]]), Abdon ([[H5658J]]), Zur ([[H6698I]]), Baal ([[H1168B]]), Nadab ([[H5070J]]), Gedor ([[H1446I]]), Ahio ([[H0283I]]), Zecher ([[H2144]]), Mikloth ([[H4732G]])
+- A woman of the tribe of Benjamin  living at the time of United Monarchy, first mentioned at [[1Chr.8.29|1Ch.8.29]] married to Abiel (**<big>[[H0022G|אֲבִיאֵל]]</big>**)
+-  mother of: Kish (**<big>[[H7027G|קִישׁ]]</big>**), Ner (**<big>[[H5369G|נֵר]]</big>**), Abdon (**<big>[[H5658J|עַבְדוֹן]]</big>**), Zur (**<big>[[H6698I|צוּר]]</big>**), Baal (**<big>[[H1168B|בַּעַל]]</big>**), Nadab (**<big>[[H5070J|נָדָב]]</big>**), Gedor (**<big>[[H1446I|גְדֹר]]</big>**), Ahio (**<big>[[H0283I|אַחְיוֹ]]</big>**), Zecher (**<big>[[H2144|זֶכֶר]]</big>**), Mikloth (**<big>[[H4732G|מִקְלוֹת]]</big>**)

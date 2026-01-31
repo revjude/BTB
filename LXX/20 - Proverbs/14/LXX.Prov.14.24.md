@@ -7,15 +7,15 @@ The crown of the wise [is] their riches: [but] the foolishness of fools [is] fol
 The crown of the wise is their wealth, but the effort of fools is folly.<small><sub>**MT:**</sub></small>
 [[Prov.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.23|<< Proverbs 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.25|Proverbs 14:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] crown | <big><span class="asgreek">στέφανος</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| of \[the\] wise | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| \[is\] their riches; | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| pastime | <big><span class="asgreek">διατριβή</span></big> <sup><small><small>[[G6896]]</small></small></sup> |
-| of fools | <big><span class="asgreek">αφρόνων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| \[is\] evil. | <big><span class="asgreek">κακή</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| \[The\] crown | **<big>[[G4735\|στέφανος]]</big>** |
+| of \[the\] wise | **<big>[[G4680\|σοφών]]</big>** |
+| \[is\] their riches; | **<big>[[G4149\|πλούτος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| pastime | **<big>[[G6896\|διατριβή]]</big>** |
+| of fools | **<big>[[G0878\|αφρόνων]]</big>** |
+| \[is\] evil. | **<big>[[G2556\|κακή]]</big>** |
 [[Prov.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.23|<< Proverbs 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.25|Proverbs 14:25 >>]]</td></tr></table>
 
 

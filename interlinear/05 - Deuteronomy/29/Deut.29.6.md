@@ -6,21 +6,21 @@ You ate no bread and drank no wine or strong drink, so that you might know that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.5|<< Deuteronomy 29:5]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.7|Deuteronomy 29:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| bread  | <span class="ashebrew"><big>לֶ֚חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you ate  | <span class="ashebrew"><big>אֲכַלְתֶּ֔ם </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.khal.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wine  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַ֥יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and strong drink  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁכָ֖ר </big></span><small><small><sup>[[H7941]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> she.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you drank  | <span class="ashebrew"><big>שְׁתִיתֶ֑ם </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| she.ti.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so that  | <span class="ashebrew"><big>לְמַ֙עַן֙ </big></span><small><small><sup>[[H4616]]</sup></small></small> &#8207;| le.Ma.'an <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you may know  | <span class="ashebrew"><big>תֵּֽדְע֔וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| te.de.'U <small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  |**<big>&#8207;[[H3899H\|לֶ֚חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you ate  |**<big>&#8207;[[H0398\|אֲכַלְתֶּ֔ם]]&#8207; </big>**| 'a.khal.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wine  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3196\|יַ֥יִן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and strong drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7941\|שֵׁכָ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you drank  |**<big>&#8207;[[H8354\|שְׁתִיתֶ֑ם]]&#8207; </big>**| she.ti.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you may know  |**<big>&#8207;[[H3045\|תֵּֽדְע֔וּ]]&#8207; </big>**| te.de.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.5|<< Deuteronomy 29:5]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.7|Deuteronomy 29:7 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="asgreek">‎ἐμβατεύω‎</span></big> **embateúō** <small>*(em-bat-yoo'-o)*</small> ==**to investigate**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">ἐν</span><sup><small>[[G1722]]</small></sup> and a presumed derivative of the base of <span class="asgreek">βάσις</span><sup><small>[[G0939]]</small></sup></small>
+**<big><span class="asgreek">‎ἐμβατεύω‎</span></big>** **embateúō** <small>*(em-bat-yoo'-o)*</small> ==**to investigate**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G1722|‎ἐν‎]]</big>** and a presumed derivative of the base of **<big>[[G0939|‎βάσις‎]]</big>**</small>
 
 $\quad$ intrude into.
-- equivalent to <span class="asgreek">ἐμβαίνω</span><sup><small>[[G1684]]</small></sup>
+- equivalent to **<big>[[G1684|‎ἐμβαίνω‎]]</big>**
 -  to intrude on (figuratively)
 

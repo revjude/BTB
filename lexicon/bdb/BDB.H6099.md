@@ -1,4 +1,4 @@
-<small>Also see: [[H6110]]</small>
+<small>Also see: **<big>[[H6110|עַצֻּמָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עָצוּם‎</span><sub>31</sub> **adjective** ==mighty, numerous==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Gen.18.18|Gen 18:18]] +, plural <span class="bdbLangHebrew">‎עֲצוּמִים‎</span> [[Isa.8.7|Isa 8:7]] +, <span class="bdbLangHebrew">‎עֲצֻמִים‎</span> [[Mic.4.3|Mic 4:3]] +; suffix <span class="bdbLangHebrew">‎עֲצוּמָיו‎</span> [[Ps.10.10|Ps 10:10]] — 
 

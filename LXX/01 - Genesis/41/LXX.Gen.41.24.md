@@ -7,34 +7,34 @@ And the thin ears devoured the seven good ears: and I told [this] unto the magic
 And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”<small><sub>**MT:**</sub></small>
 [[Gen.41.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.23|<< Genesis 41:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.25|Genesis 41:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| swallowed down | <big><span class="asgreek">κατέπιον</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| ears of corn | <big><span class="asgreek">στάχυες</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thin | <big><span class="asgreek">λεπτοί</span></big> <sup><small><small>[[G3016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| destroyed by the wind | <big><span class="asgreek">ανεμόφθοροι</span></big> <sup><small><small>[[G6334]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| ears of corn | <big><span class="asgreek">στάχυας</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">καλούς</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρεις</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| I told \[it\] | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| expositors, | <big><span class="asgreek">εξηγηταίς</span></big> <sup><small><small>[[G7321]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reporting | <big><span class="asgreek">απαγγέλλων</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| it to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| swallowed down | **<big>[[G2666\|κατέπιον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| ears of corn | **<big>[[G4719\|στάχυες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| thin | **<big>[[G3016\|λεπτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| destroyed by the wind | **<big>[[G6334\|ανεμόφθοροι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| ears of corn | **<big>[[G4719\|στάχυας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| good | **<big>[[G2570\|καλούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| full | **<big>[[G4134\|πλήρεις]]</big>** |
+| I told \[it\] | **<big>[[G2036\|είπα]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| expositors, | **<big>[[G7321\|εξηγηταίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no one | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| reporting | **<big>[[G0518\|απαγγέλλων]]</big>** |
+| it to me. | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτό]]</big>** |
 [[Gen.41.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.23|<< Genesis 41:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.25|Genesis 41:25 >>]]</td></tr></table>
 
 

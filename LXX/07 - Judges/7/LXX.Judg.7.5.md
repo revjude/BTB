@@ -7,50 +7,50 @@ So he brought down the people unto the water: and the LORD said unto Gideon, Eve
 So Gideon brought the men down to the water, and the LORD said to him, “Separate those who lap the water with their tongues like a dog from those who kneel to drink.”<small><sub>**MT:**</sub></small>
 [[Judg.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.4|<< Judges 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.6|Judges 7:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατεβίβασε</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Gideon, | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| laps | <big><span class="asgreek">λάψη</span></big> <sup><small><small>[[G8163]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tongue | <big><span class="asgreek">γλώσση</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| if | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should lap | <big><span class="asgreek">λάψη</span></big> <sup><small><small>[[G8163]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dog | <big><span class="asgreek">κύων</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| you shall stand | <big><span class="asgreek">στήσεις</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone. | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">μόνας</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| bends | <big><span class="asgreek">κάμψη</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his knees | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to drink, | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| you shall remove | <big><span class="asgreek">μεταστήσεις</span></big> <sup><small><small>[[G3179]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| himself. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went down | **<big>[[G2597\|κατεβίβασε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Gideon, | **<big>[[G1066\|Γεδεών]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| laps | **<big>[[G8163\|λάψη]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his tongue | **<big>[[G1100\|γλώσση]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| if | **<big>[[G0302\|αν]]</big>** |
+| should lap | **<big>[[G8163\|λάψη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| dog | **<big>[[G2965\|κύων]]</big>** |
+| you shall stand | **<big>[[G2476\|στήσεις]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| alone. | **<big>[[G2596\|κατά]]</big>** **<big>[[G3441\|μόνας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| bends | **<big>[[G2578\|κάμψη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his knees | **<big>[[G1119\|γόνατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to drink, | **<big>[[G4095\|πιείν]]</big>** |
+| you shall remove | **<big>[[G3179\|μεταστήσεις]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| himself. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Judg.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.4|<< Judges 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.6|Judges 7:6 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And when ye reap the harvest of your land, thou shalt not wholly reap the corner
 When you reap the harvest of your land, you are not to reap to the very edges of your field or gather the gleanings of your harvest.<small><sub>**MT:**</sub></small>
 [[Lev.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.8|<< Leviticus 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.10|Leviticus 19:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reaping | <big><span class="asgreek">εκθεριζόντων</span></big> <sup><small><small>[[G7093]]</small></small></sup> |
-| of your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| complete | <big><span class="asgreek">συντελέσετε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to \[completely\] reap \[it\]. | <big><span class="asgreek">εκθερίσαι</span></big> <sup><small><small>[[G7093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[parts\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| falling away | <big><span class="asgreek">αποπίπτοντα</span></big> <sup><small><small>[[G0634]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your harvest | <big><span class="asgreek">θερισμού</span></big> <sup><small><small>[[G2326]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| collect together. | <big><span class="asgreek">συλλέξεις</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| reaping | **<big>[[G7093\|εκθεριζόντων]]</big>** |
+| of your | **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| harvest | **<big>[[G2326\|θερισμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land, | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| complete | **<big>[[G4931\|συντελέσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your harvest | **<big>[[G2326\|θερισμόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your field | **<big>[[G0068\|αγρού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to \[completely\] reap \[it\]. | **<big>[[G7093\|εκθερίσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the \[parts\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| falling away | **<big>[[G0634\|αποπίπτοντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your harvest | **<big>[[G2326\|θερισμού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| collect together. | **<big>[[G4816\|συλλέξεις]]</big>** |
 [[Lev.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.8|<< Leviticus 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.10|Leviticus 19:10 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἐπαφρίζω‎</span></big> **epaphrízō** <small>*(ep-af-rid'-zo)*</small> ==**to foam up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">ἐπί</span><sup><small>[[G1909]]</small></sup> and <span class="asgreek">ἀφρίζω</span><sup><small>[[G0875]]</small></sup></small>
+**<big><span class="asgreek">‎ἐπαφρίζω‎</span></big>** **epaphrízō** <small>*(ep-af-rid'-zo)*</small> ==**to foam up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G1909|‎ἐπί‎]]</big>** and **<big>[[G0875|‎ἀφρίζω‎]]</big>**</small>
 
 $\quad$ foam out.
 - to foam upon, i.e. (figuratively) to exhibit (a vile passion)

@@ -7,26 +7,26 @@ And I appeared unto Abraham, unto Isaac, and unto Jacob, by [the name of] God Al
 I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them.<small><sub>**MT:**</sub></small>
 [[Exod.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.2|<< Exodus 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.4|Exodus 6:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I appeared | <big><span class="asgreek">ώφθην</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name, | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[was\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| manifested | <big><span class="asgreek">εδήλωσα</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I appeared | **<big>[[G3708\|ώφθην]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name, | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \[was\] not | **<big>[[G3756\|ουκ]]</big>** |
+| manifested | **<big>[[G1213\|εδήλωσα]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Exod.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.2|<< Exodus 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.4|Exodus 6:4 >>]]</td></tr></table>
 
 

@@ -11,34 +11,34 @@ Go up on a high mountain, O Zion, herald of good news. Raise your voice loudly, 
 > $\quad$ referenced by: [[John.12.15|John 12:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[the\] high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| Ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| announcing good news | <big><span class="asgreek">ευαγγελιζόμενος</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
-| of Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Raise up high | <big><span class="asgreek">ύψωσον</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your voice! | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| announcing good news | <big><span class="asgreek">ευαγγελιζόμενος</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
-| of Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Raise it up high! | <big><span class="asgreek">ύψωσατε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| Say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah! | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| \[the\] high | **<big>[[G5308\|υψηλόν]]</big>** |
+| Ascend | **<big>[[G0305\|ανάβηθι]]</big>** |
+| O one | **<big>[[G3588\|ο]]</big>** |
+| announcing good news | **<big>[[G2097\|ευαγγελιζόμενος]]</big>** |
+| of Zion. | **<big>[[G4622\|Σιών]]</big>** |
+| Raise up high | **<big>[[G5312\|ύψωσον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your voice! | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O one | **<big>[[G3588\|ο]]</big>** |
+| announcing good news | **<big>[[G2097\|ευαγγελιζόμενος]]</big>** |
+| of Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Raise it up high! | **<big>[[G5312\|ύψωσατε]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φόβου]]</big>** |
+| Say | **<big>[[G2036\|είπον]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| of Judah! | **<big>[[G2448\|Ιούδα]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Isa.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.8|<< Isaiah 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.10|Isaiah 40:10 >>]]</td></tr></table>
 
 

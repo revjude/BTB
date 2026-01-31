@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פֶּחָם‎</span></big> **pechâm** <small>*(peh-khawm')*</small> ==**coal**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פֶּחָם‎</span></big>** **pechâm** <small>*(peh-khawm')*</small> ==**coal**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>perhaps from an unused root probably meaning to be black</small>
 
 $\quad$ coals.
@@ -6,4 +6,4 @@ $\quad$ coals.
 
 **1)** coal, charcoal, ember
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθραξ</span><sup><small>[[G0440]]</small></sup>
+<small>See Greek: </small>**<big>[[G0440|ἄνθραξ]]</big>**

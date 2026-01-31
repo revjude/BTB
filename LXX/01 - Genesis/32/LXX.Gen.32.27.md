@@ -7,19 +7,19 @@ And he said unto him, What [is] thy name? And he said, Jacob.
 “What is your name?” the man asked. “Jacob,” he replied.<small><sub>**MT:**</sub></small>
 [[Gen.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.26|<< Genesis 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.28|Genesis 32:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| And he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομά]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Gen.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.26|<< Genesis 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.28|Genesis 32:28 >>]]</td></tr></table>
 
 

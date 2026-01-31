@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּירָס‎</span></big> **Tîyrâç** <small>*(tee-rawce')*</small> ==**Tiras**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎תִּירָס‎</span></big>** **Tîyrâç** <small>*(tee-rawce')*</small> ==**Tiras**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Tiras.

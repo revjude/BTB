@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֵרְדְּ‎</span></big> **nêrd** <small>*(nayrd)*</small> ==**nard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎נֵרְדְּ‎</span></big>** **nêrd** <small>*(nayrd)*</small> ==**nard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ spikenard.
@@ -7,4 +7,4 @@ $\quad$ spikenard.
 **1)** spikenard, nard
 $\quad$ **1a)** an odoriferous aromatic plant from India
 
-<sub><small>See Greek: </small></sub><span class="asgreek">νάρδος</span><sup><small>[[G3487]]</small></sup>
+<small>See Greek: </small>**<big>[[G3487|νάρδος]]</big>**

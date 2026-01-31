@@ -6,17 +6,17 @@ if I have rejoiced in my great wealth because my hand had gained so much,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.24|<< Job 31:24]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.26|Job 31:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I rejoiced  | <span class="ashebrew"><big>אֶ֭שְׂמַח </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| 'Es.mach <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] great  | <span class="ashebrew"><big>רַ֣ב </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wealth my  | <span class="ashebrew"><big>חֵילִ֑ </big></span><small><small><sup>[[H2428H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| chei.L <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כִֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khi- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| much  | <span class="ashebrew"><big>כַ֝בִּ֗יר </big></span><small><small><sup>[[H3524]]</sup></small></small> &#8207;| kha.Bir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had found  | <span class="ashebrew"><big>מָצְאָ֥ה </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ma.tze.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand my  | <span class="ashebrew"><big>יָדִֽ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.D <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I rejoiced  |**<big>&#8207;[[H8055\|אֶ֭שְׂמַח]]&#8207; </big>**| 'Es.mach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] great  |**<big>&#8207;[[H7227A\|רַ֣ב]]&#8207; </big>**| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth my  |**<big>&#8207;[[H2428H\|חֵילִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| chei.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| much  |**<big>&#8207;[[H3524\|כַ֝בִּ֗יר]]&#8207; </big>**| kha.Bir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had found  |**<big>&#8207;[[H4672\|מָצְאָ֥ה]]&#8207; </big>**| ma.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand my  |**<big>&#8207;[[H3027G\|יָדִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.24|<< Job 31:24]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.26|Job 31:26 >>]]</td></tr></table>
 
 

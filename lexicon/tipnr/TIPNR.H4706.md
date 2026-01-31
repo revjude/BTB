@@ -1,8 +1,8 @@
 <small>*Mount Mizar • A mountain mentioned in a psalm of lament*</small>
 
 Mount Mizar, a mountain mentioned in a psalm of lament, possibly representing a place of remembrance or longing for God's presence \(Psalm 42:6\).
-- A location near Hermon\_Mount<[[H2768]]> only mentioned at [[Num.33.29|Psa.42.6]]; 
-- only referred to as Mizar\_Mount<[[H4706]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Hermon\_Mount **<big>[[H2768|חֶרְמוֹן]]</big>** only mentioned at [[Num.33.29|Psa.42.6]]; 
+- only referred to as Mizar\_Mount **<big>[[H4706|מִצְעָר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.41615982399708,35.85725617635589&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mount Mizar is mentioned only once in the Bible, in Psalm 42:6, as part of a psa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Mizar | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>](H4706) <small>*Hebrew*</small> | 1x | [Psa.42.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mizar\*\|reference=Psa.42.6) |
-All Strong's for **Mizar_Mount**: \[[[H4706]]\]
+| (Mount )Mizar | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>](H4706) | 1x | [Psa.42.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mizar\*\|reference=Psa.42.6) |
+All entries for **Mizar Mount**:  **<big>[[H4706|מִצְעָר]]</big>**

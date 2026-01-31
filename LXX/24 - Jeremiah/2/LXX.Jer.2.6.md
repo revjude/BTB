@@ -7,48 +7,48 @@ Neither said they, Where [is] the LORD that brought us up out of the land of Egy
 They did not ask, ‘Where is the LORD who brought us up from the land of Egypt, who led us through the wilderness, through a land of deserts and pits, a land of drought and darkness, a land where no one travels and no one lives?’<small><sub>**MT:**</sub></small>
 [[Jer.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.5|<< Jeremiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.7|Jeremiah 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| directing | <big><span class="asgreek">αναγαγών</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| steering | <big><span class="asgreek">καθοδηγήσας</span></big> <sup><small><small>[[G7760]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| a vast | <big><span class="asgreek">απείρω</span></big> <sup><small><small>[[G0552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| untrodden | <big><span class="asgreek">αβάτω</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| waterless | <big><span class="asgreek">ανύδρω</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unfruitful, | <big><span class="asgreek">ακάρπω</span></big> <sup><small><small>[[G0175]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| traveled through | <big><span class="asgreek">διώδευσεν</span></big> <sup><small><small>[[G1353]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| there? | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2036\|είπον]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| directing | **<big>[[G0321\|αναγαγών]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| steering | **<big>[[G7760\|καθοδηγήσας]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| a vast | **<big>[[G0552\|απείρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| untrodden | **<big>[[G6101\|αβάτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a land | **<big>[[G1093\|γη]]</big>** |
+| waterless | **<big>[[G0504\|ανύδρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unfruitful, | **<big>[[G0175\|ακάρπω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a land | **<big>[[G1093\|γη]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| traveled through | **<big>[[G1353\|διώδευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησεν]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| there? | **<big>[[G1563\|εκεί]]</big>** |
 [[Jer.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.5|<< Jeremiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.7|Jeremiah 2:7 >>]]</td></tr></table>
 
 

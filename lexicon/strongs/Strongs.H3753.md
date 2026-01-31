@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּרְכָּרָה‎</span></big> **karkârâh** <small>*(kar-kaw-raw')*</small> ==**dromedary**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּרַר‎</span><sup><small>[[H3769]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּרְכָּרָה‎</span></big>** **karkârâh** <small>*(kar-kaw-raw')*</small> ==**dromedary**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3769|‎כָּרַר‎]]</big>**</small>
 
 $\quad$ swift beast.
 - ***a dromedary*** (from its rapid motion as if dancing)

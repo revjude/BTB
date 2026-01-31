@@ -7,17 +7,17 @@ Ye shall not eat [any thing] with the blood: neither shall ye use enchantment, n
 You must not eat anything with blood still in it. You must not practice divination or sorcery.<small><sub>**MT:**</sub></small>
 [[Lev.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.25|<< Leviticus 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.27|Leviticus 19:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Eat not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">έσθετε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains! | <big><span class="asgreek">ορεών</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| foretell, | <big><span class="asgreek">οιωνιείσθε</span></big> <sup><small><small>[[G8469]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| use augury. | <big><span class="asgreek">ορνιθοσκοπήσεσθε</span></big> <sup><small><small>[[G8552]]</small></small></sup> |
+| Eat not | **<big>[[G3361\|μη]]</big>** **<big>[[G2068\|έσθετε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains! | **<big>[[G3735\|ορεών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| foretell, | **<big>[[G8469\|οιωνιείσθε]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| use augury. | **<big>[[G8552\|ορνιθοσκοπήσεσθε]]</big>** |
 [[Lev.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.25|<< Leviticus 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.27|Leviticus 19:27 >>]]</td></tr></table>
 
 

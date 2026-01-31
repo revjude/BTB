@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H3367]]</small>
+<small>Aramaic form: **<big>[[H3367|יְקָר]]</big>**</small>
  <span class="bdbLangHebrew">‎יְקָר‎</span> **noun masculine** ==preciousness, price, honour== (late: compare BA [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎יְקָר‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAAfAIAAAAAAAP///yH5BAAAAAAALAAAAAAoAB8AAAJjjI+py+0Po2xg2gXyPXXmfn2WGGoj6JnppnosKrXbyb4lGcOc/PU69jPghIghQ6bQtZDJoAPHQxkTvZ2P5LNSrtwulCn0VsRfZyAba5rPM3W79o7L5/Qdey2/1o/oPcUPuFcAADs="> ***glory***); — absolute <span class="bdbLangHebrew">‎יְקָר‎</span> [[Zech.11.13|Zech 11:13]] + 5 t.; <span class="bdbLangHebrew">‎בִּיקָר‎</span> etc. [[Ps.49.13|Ps 49:13]] + 3 t.; construct <span class="bdbLangHebrew">‎יְקָר‎</span> [[Esth.1.4|Esth 1:4]] suffix <span class="bdbLangHebrew">‎בִּיקָרוֺ‎</span> [[Esth.6.6|Esth 6:6]] + 4 t.; <span class="bdbLangHebrew">‎יְקָרָהּ‎</span> [[Jer.20.5|Jer 20:5]] — 
 
 **1.** ***preciousness:*** 

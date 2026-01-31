@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ebez</span> was a town allotted to the tribe of Issachar \([[Josh.19.20|Joshua 19:20]]\).
 - A location only mentioned at [[Josh.19.20|Jos.19.20]]; 
-- only referred to as Ebez<[[H0077]]> \(<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ץ</span>\).
+- only referred to as Ebez **<big>[[H0077|אֶבֶץ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.261621,35.328129&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ebez was a town located in the territory allotted to the tribe of Issachar durin
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebez (KJV= Abez) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ץ</span>](H0077) <small>*Hebrew*</small> | 1x | [Jos.19.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebez\*\|reference=Jos.19.20) |
-All Strong's for **Ebez**: \[[[H0077]]\]
+| Ebez (KJV= Abez) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ץ</span>](H0077) | 1x | [Jos.19.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebez\*\|reference=Jos.19.20) |
+All entries for **Ebez**:  **<big>[[H0077|אֶבֶץ]]</big>**

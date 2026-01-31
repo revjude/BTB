@@ -6,15 +6,15 @@ The lips of the righteous know what is fitting, but the mouth of the wicked is p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.31|<< Proverbs 10:31]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.1|Proverbs 11:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] lips of  | <span class="ashebrew"><big>שִׂפְתֵ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> &#8207;| sif.Tei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַ֭דִּיק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know !  | <span class="ashebrew"><big>יֵדְע֣וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ye.de.'U <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pleasure  | <span class="ashebrew"><big>רָצ֑וֹן </big></span><small><small><sup>[[H7522]]</sup></small></small> &#8207;| ra.Tzon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] mouth of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פִ֥י </big></span><small><small><sup>[[H6310G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Fi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֝שָׁעִ֗ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perversities  | <span class="ashebrew"><big>תַּהְפֻּכֽוֹת </big></span><small><small><sup>[[H8419]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tah.pu.Khot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lips of  |**<big>&#8207;[[H8193G\|שִׂפְתֵ֣י]]&#8207; </big>**| sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know !  |**<big>&#8207;[[H3045\|יֵדְע֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.de.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pleasure  |**<big>&#8207;[[H7522\|רָצ֑וֹן]]&#8207; </big>**| ra.Tzon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] mouth of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6310G\|פִ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֝שָׁעִ֗ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perversities  |**<big>&#8207;[[H8419\|תַּהְפֻּכֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tah.pu.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.31|<< Proverbs 10:31]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.1|Proverbs 11:1 >>]]</td></tr></table>
 
 

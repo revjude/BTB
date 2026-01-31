@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מֹף‎</span></big> **Môph** <small>*(mofe)*</small> ==**Memphis**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎מֹף‎</span></big>** **Môph** <small>*(mofe)*</small> ==**Memphis**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian origin</small>
 
-$\quad$ Memphis. Compare <span class="ashebrew">‎נֹף‎</span><sup><small>[[H5297]]</small></sup>.
+$\quad$ Memphis. Compare **<big>[[H5297|‎נֹף‎]]</big>**.
 - § Memphis = *"haven of the good"*
 - ***Moph***, the capital of Lower Egypt
 

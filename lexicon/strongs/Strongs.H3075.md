@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹזָבָד‎</span></big> **Yᵉhôwzâbâd** <small>*(yeh-ho-zaw-bawd')*</small> ==**Jehozabad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎זָבַד‎</span><sup><small>[[H2064]]</small></sup>; Jehovah-endowed</small>
+**<big><span class="ashebrew">‎יְהוֹזָבָד‎</span></big>** **Yᵉhôwzâbâd** <small>*(yeh-ho-zaw-bawd')*</small> ==**Jehozabad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H2064|‎זָבַד‎]]</big>**; Jehovah-endowed</small>
 
-$\quad$ Jehozabad. Compare <span class="ashebrew">‎יוֹזָבָד‎</span><sup><small>[[H3107]]</small></sup>.
+$\quad$ Jehozabad. Compare **<big>[[H3107|‎יוֹזָבָד‎]]</big>**.
 - § Jehozabad = *"Jehovah has endowed"*
 - ***Jehozabad***, the name of three Israelites
 

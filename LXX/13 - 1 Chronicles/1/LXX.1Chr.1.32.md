@@ -7,34 +7,34 @@ Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, an
 The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.<small><sub>**MT:**</sub></small>
 [[1Chr.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Keturah, | <big><span class="asgreek">Κεττούρας</span></big> <sup><small><small>[[H6989]]</small></small></sup> |
-| concubine | <big><span class="asgreek">παλλακής</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| of Abraham -- | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she bore | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zimran, | <big><span class="asgreek">Ζεμράν</span></big> <sup><small><small>[[H2175]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jokshan, | <big><span class="asgreek">Ιεξάν</span></big> <sup><small><small>[[H3370]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Medan | <big><span class="asgreek">Μαδάν</span></big> <sup><small><small>[[H4091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Midian, | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ishbak, | <big><span class="asgreek">Ιεσβόκ</span></big> <sup><small><small>[[H3435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shuah. | <big><span class="asgreek">Σουέ</span></big> <sup><small><small>[[H5477]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jokshan -- | <big><span class="asgreek">Ιεξάν</span></big> <sup><small><small>[[H3370]]</small></small></sup> |
-| Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dedan. | <big><span class="asgreek">Δαδάν</span></big> <sup><small><small>[[H1719a]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Keturah, | **<big>[[H6989\|Κεττούρας]]</big>** |
+| concubine | **<big>[[G8589\|παλλακής]]</big>** |
+| of Abraham -- | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she bore | **<big>[[G5088\|έτεκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zimran, | **<big>[[H2175\|Ζεμράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jokshan, | **<big>[[H3370\|Ιεξάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Medan | **<big>[[H4091\|Μαδάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Midian, | **<big>[[G3099\|Μαδιάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ishbak, | **<big>[[H3435\|Ιεσβόκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shuah. | **<big>[[H5477\|Σουέ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jokshan -- | **<big>[[H3370\|Ιεξάν]]</big>** |
+| Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dedan. | **<big>[[H1719a\|Δαδάν]]</big>** |
 [[1Chr.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
 

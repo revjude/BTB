@@ -7,33 +7,33 @@ The spoilers are come upon all high places through the wilderness: for the sword
 Over all the barren heights in the wilderness the destroyers have come, for the sword of the LORD devours from one end of the earth to the other. No flesh has peace.<small><sub>**MT:**</sub></small>
 [[Jer.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.11|<< Jeremiah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.13|Jeremiah 12:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mountain pass | <big><span class="asgreek">διεκβολήν</span></big> <sup><small><small>[[G6914]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \[the\] ones causing misery | <big><span class="asgreek">ταλαιπωρούντες</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[one\] tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the other\] tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh. | <big><span class="asgreek">σαρκί</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| mountain pass | **<big>[[G6914\|διεκβολήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| \[the\] ones causing misery | **<big>[[G5003\|ταλαιπωρούντες]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[one\] tip | **<big>[[G6208\|άκρου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the other\] tip | **<big>[[G6208\|άκρου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land; | **<big>[[G1093\|γης]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| to all | **<big>[[G3956\|πάση]]</big>** |
+| flesh. | **<big>[[G4561\|σαρκί]]</big>** |
 [[Jer.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.11|<< Jeremiah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.13|Jeremiah 12:13 >>]]</td></tr></table>
 
 

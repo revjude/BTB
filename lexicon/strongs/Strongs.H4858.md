@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מַשָּׂאָה‎</span></big> **massâʼâh** <small>*(mas-saw-aw')*</small> ==**smoke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָשָׂא‎</span><sup><small>[[H5375]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשָּׂאָה‎</span></big>** **massâʼâh** <small>*(mas-saw-aw')*</small> ==**smoke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5375|‎נָשָׂא‎]]</big>**</small>
 
 $\quad$ burden.
 - ***a conflagration*** (from the rising of smoke)
 
 **1)** the uplifted, uplifting
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λόγιον</span><sup><small>[[G3051]]</small></sup>
+<small>See Greek: </small>**<big>[[G3051|λόγιον]]</big>**

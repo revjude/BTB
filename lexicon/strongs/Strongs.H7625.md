@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁבַט‎</span></big> **shᵉbaṭ** <small>*(sheb-at')*</small> ==**tribe**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֵׁבֶט‎</span><sup><small>[[H7626]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁבַט‎</span></big>** **shᵉbaṭ** <small>*(sheb-at')*</small> ==**tribe**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7626|‎שֵׁבֶט‎]]</big>**</small>
 
 $\quad$ tribe.
 - ***a clan***

@@ -6,15 +6,15 @@ The LORD’s eyes keep watch over knowledge, but He frustrates the words of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.11|<< Proverbs 22:11]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.13|Proverbs 22:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] eyes of  | <span class="ashebrew"><big>עֵינֵ֣י </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they preserve  | <span class="ashebrew"><big>נָ֣צְרוּ </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| Na.tze.ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דָ֑עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has subverted  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְסַלֵּ֗ף </big></span><small><small><sup>[[H5557]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.sa.Lef <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֥י </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| div.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] acts treacherously  | <span class="ashebrew"><big>בֹגֵֽד </big></span><small><small><sup>[[H0898]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| vo.Ged <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they preserve  |**<big>&#8207;[[H5341\|נָ֣צְרוּ]]&#8207; </big>**| Na.tze.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דָ֑עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has subverted  |**<big>&#8207;[[H9001\|וַ֝]]&#8207;&#8207;[[H5557\|יְסַלֵּ֗ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Lef<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] acts treacherously  |**<big>&#8207;[[H0898\|בֹגֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vo.Ged<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.11|<< Proverbs 22:11]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.13|Proverbs 22:13 >>]]</td></tr></table>
 
 

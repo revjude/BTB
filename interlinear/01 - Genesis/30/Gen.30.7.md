@@ -6,17 +6,17 @@ And Rachel’s servant Bilhah conceived again and bore Jacob a second son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.6|<< Genesis 30:6]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.8|Genesis 30:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she conceived  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תַּ֣הַר </big></span><small><small><sup>[[H2029]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Ta.har <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֔וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she bore  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּ֕לֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.led <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bilhah  | <span class="ashebrew"><big>בִּלְהָ֖ה </big></span><small><small><sup>[[H1090A]]</sup></small></small> &#8207;| bil.Hah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] maidservant of  | <span class="ashebrew"><big>שִׁפְחַ֣ת </big></span><small><small><sup>[[H8198]]</sup></small></small> &#8207;| shif.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rachel  | <span class="ashebrew"><big>רָחֵ֑ל </big></span><small><small><sup>[[H7354]]</sup></small></small> &#8207;| ra.Chel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּ֥ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| second  | <span class="ashebrew"><big>שֵׁנִ֖י </big></span><small><small><sup>[[H8145]]</sup></small></small> &#8207;| she.Ni <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Jacob  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יַעֲקֹֽב </big></span><small><small><sup>[[H3290]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּ֣הַר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֔וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֕לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilhah  |**<big>&#8207;[[H1090A\|בִּלְהָ֖ה]]&#8207; </big>**| bil.Hah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] maidservant of  |**<big>&#8207;[[H8198\|שִׁפְחַ֣ת]]&#8207; </big>**| shif.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rachel  |**<big>&#8207;[[H7354\|רָחֵ֑ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּ֥ן]]&#8207; </big>**| ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second  |**<big>&#8207;[[H8145\|שֵׁנִ֖י]]&#8207; </big>**| she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.6|<< Genesis 30:6]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.8|Genesis 30:8 >>]]</td></tr></table>
 
 

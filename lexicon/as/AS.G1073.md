@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">γέμω</span></span> (used only in pres. and impf.), </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מלא</span> <small><sup>[[H4390]]</sup></small>, <span class="ashebrew">נשׂא</span> <small><sup>[[H5375]]</sup></small> ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">γέμω</span></span> (used only in pres. and impf.), </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H4390|מלא]]</big>**, **<big>[[H5375|נשׂא]]</big>** ;\]</span> </span>
 <span class="asitalic">to be full</span>;
 <span class="asbullet"><span class="asbold">1.</span> properly, of a ship (Xen.).</span>
 <span class="asbullet"><span class="asbold">2.</span> Generally (Plat., al.),</span>

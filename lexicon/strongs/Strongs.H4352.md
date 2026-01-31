@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָכִי‎</span></big> **Mâkîy** <small>*(maw-kee')*</small> ==**Machi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎מוּךְ‎</span><sup><small>[[H4134]]</small></sup>; pining</small>
+**<big><span class="ashebrew">‎מָכִי‎</span></big>** **Mâkîy** <small>*(maw-kee')*</small> ==**Machi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H4134|‎מוּךְ‎]]</big>**; pining</small>
 
 $\quad$ Machi.
 - § Machi = *"decrease"*

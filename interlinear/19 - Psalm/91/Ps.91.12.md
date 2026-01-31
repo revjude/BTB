@@ -10,15 +10,15 @@ They will lift you up in their hands, so that you will not strike your foot agai
 > $\quad$ referenced by: [[Matt.4.6|Matt 4:6]] ☩ [[Luke.4.10|Luke 4:10-11]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands  | <span class="ashebrew"><big>כַּפַּ֥יִם </big></span><small><small><sup>[[H3709G]]</sup></small></small> &#8207;| ka.Pa.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will lift up you  | <span class="ashebrew"><big>יִשָּׂא֑וּ </big></span><small><small><sup>[[H5375G]]</sup></small></small> <span class="ashebrew"><big>נְךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| yi.sa.'U.ne. <small><sup>[[HVqi3mp]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you should strike  | <span class="ashebrew"><big>תִּגֹּ֖ף </big></span><small><small><sup>[[H5062]]</sup></small></small> &#8207;| ti.Gof <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on \<the> stone  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֣בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'E.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot your  | <span class="ashebrew"><big>רַגְלֶֽ </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| rag.Le. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands  |**<big>&#8207;[[H3709G\|כַּפַּ֥יִם]]&#8207; </big>**| ka.Pa.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will lift up you  |**<big>&#8207;[[H5375G\|יִשָּׂא֑וּ]]&#8207;&#8207;[[H9031\|נְךָ]]&#8207; </big>**| yi.sa.'U.ne.<small><sup>[[HVqi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you should strike  |**<big>&#8207;[[H5062\|תִּגֹּ֖ף]]&#8207; </big>**| ti.Gof<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on \<the> stone  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0068G\|אֶ֣בֶן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot your  |**<big>&#8207;[[H7272\|רַגְלֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| rag.Le.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.11|<< Psalms 91:11]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.13|Psalms 91:13 >>]]</td></tr></table>
 
 

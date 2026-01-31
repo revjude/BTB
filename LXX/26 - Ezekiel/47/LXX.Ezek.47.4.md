@@ -7,34 +7,34 @@ Again he measured a thousand, and brought me through the waters; the waters [wer
 Then he measured off a thousand cubits and led me through knee-deep water. Again he measured a thousand cubits and led me through waist-deep water.<small><sub>**MT:**</sub></small>
 [[Ezek.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.3|<< Ezekiel 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.5|Ezekiel 47:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went through | <big><span class="asgreek">διήλθεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \[the\] water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of release, | <big><span class="asgreek">αφέσεως</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησεν</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| a thousand, | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went through | <big><span class="asgreek">διήλθεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knees. | <big><span class="asgreek">γονάτων</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησεν</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| a thousand, | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went through | <big><span class="asgreek">διήλθεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[his\] loin. | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went through | **<big>[[G1330\|διήλθεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| water, | **<big>[[G5204\|ύδατι]]</big>** |
+| \[the\] water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of release, | **<big>[[G0859\|αφέσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησεν]]</big>** |
+| a thousand, | **<big>[[G5507\|χιλίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went through | **<big>[[G1330\|διήλθεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| knees. | **<big>[[G1119\|γονάτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησεν]]</big>** |
+| a thousand, | **<big>[[G5507\|χιλίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went through | **<big>[[G1330\|διήλθεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[his\] loin. | **<big>[[G3751\|οσφύος]]</big>** |
 [[Ezek.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.3|<< Ezekiel 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.5|Ezekiel 47:5 >>]]</td></tr></table>
 
 

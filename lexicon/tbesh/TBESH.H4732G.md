@@ -1,5 +1,4 @@
-<span class="ashebrew">‎מִקְלוֹת‎</span> <small>***(miq.lot)***</small> ==**Mikloth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Chr.8.32|1Ch.8.32]]
--  son of: Abiel ([[H0022]]) and Maacah ([[H4601N]])
--  brother of: Kish ([[H7027]]), Ner ([[H5369]]), Abdon ([[H5658J]]), Zur ([[H6698I]]), Baal ([[H1168B]]), Nadab ([[H5070J]]), Gedor ([[H1446I]]), Ahio ([[H0283I]]) and Zecher ([[H2144]])
--  father of: Shimeah ([[H8039]])
+-  son of: Abiel (**<big>[[H0022|אֲבִיאֵל]]</big>**) and Maacah (**<big>[[H4601N|מַעֲכָה]]</big>**)
+-  brother of: Kish (**<big>[[H7027|קִישׁ]]</big>**), Ner (**<big>[[H5369|נֵר]]</big>**), Abdon (**<big>[[H5658J|עַבְדוֹן]]</big>**), Zur (**<big>[[H6698I|צוּר]]</big>**), Baal (**<big>[[H1168B|בַּעַל]]</big>**), Nadab (**<big>[[H5070J|נָדָב]]</big>**), Gedor (**<big>[[H1446I|גְדֹר]]</big>**), Ahio (**<big>[[H0283I|אַחְיוֹ]]</big>**) and Zecher (**<big>[[H2144|זֶכֶר]]</big>**)
+-  father of: Shimeah (**<big>[[H8039|שִׁמְאָה]]</big>**)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַבְנְאֵל‎</span></big> **Yabnᵉʼêl** <small>*(yab-neh-ale')*</small> ==**Jabneel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; built of God</small>
+**<big><span class="ashebrew">‎יַבְנְאֵל‎</span></big>** **Yabnᵉʼêl** <small>*(yab-neh-ale')*</small> ==**Jabneel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1129|‎בָּנָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; built of God</small>
 
 $\quad$ Jabneel.
 - § Jabneel = *"God causes to build"*

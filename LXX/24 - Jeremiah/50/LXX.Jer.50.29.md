@@ -11,42 +11,42 @@ Summon the archers against Babylon, all who string the bow. Encamp all around he
 > $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Exhort | <big><span class="asgreek">παραγγείλατε</span></big> <sup><small><small>[[G3853]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| to every one | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| stretching tight | <big><span class="asgreek">εντείνοντι</span></big> <sup><small><small>[[G7265]]</small></small></sup> |
-| \[the\] bow. | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| Camp | <big><span class="asgreek">παρεμβάλλετε</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about! | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| Let there not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| escaping! | <big><span class="asgreek">ανασωζόμενος</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| Recompense | <big><span class="asgreek">ανταπόδοτε</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her works! | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| she did, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to her! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| she withstood | <big><span class="asgreek">αντέστη</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] holy one | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Exhort | **<big>[[G3853\|παραγγείλατε]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| many | **<big>[[G4183\|πολλοίς]]</big>** |
+| to every one | **<big>[[G3956\|παντί]]</big>** |
+| stretching tight | **<big>[[G7265\|εντείνοντι]]</big>** |
+| \[the\] bow. | **<big>[[G5115\|τόξον]]</big>** |
+| Camp | **<big>[[G6070\|παρεμβάλλετε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| round about! | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| Let there not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1510\|έστω]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| escaping! | **<big>[[G6314\|ανασωζόμενος]]</big>** |
+| Recompense | **<big>[[G0467\|ανταπόδοτε]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her works! | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| she did, | **<big>[[G4160\|εποίησε]]</big>** |
+| you do | **<big>[[G4160\|ποιήσατε]]</big>** |
+| to her! | **<big>[[G1473\|αυτή]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| she withstood | **<big>[[G0436\|αντέστη]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| \[the\] holy one | **<big>[[G0039\|άγιον]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Jer.50.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 
 

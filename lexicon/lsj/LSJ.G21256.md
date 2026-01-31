@@ -1,4 +1,4 @@
-spelling of: <small>[[G5164]]</small> 
+spelling of: <small>**<big>[[G5164|τροχός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==τροχωτός==</span>-<span class='asgreek'>ωτός</span></b>, <span class='asgreek'>όν</span>, 

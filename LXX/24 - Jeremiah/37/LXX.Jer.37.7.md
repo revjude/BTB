@@ -7,39 +7,39 @@ Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, 
 “This is what the LORD, the God of Israel, says that you are to tell the king of Judah, who sent you to Me: Behold, Pharaoh’s army, which has marched out to help you, will go back to its own land of Egypt.<small><sub>**MT:**</sub></small>
 [[Jer.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall you say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sending | <big><span class="asgreek">αποστείλαντα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to inquire of | <big><span class="asgreek">εκζητήσαί</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] force | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθούσα</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| help, | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| they shall return | <big><span class="asgreek">αποστρέψουσιν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| shall you say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| sending | **<big>[[G0649\|αποστείλαντα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to inquire of | **<big>[[G1567\|εκζητήσαί]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] force | **<big>[[G1411\|δύναμις]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθούσα]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| help, | **<big>[[G0996\|βοήθειαν]]</big>** |
+| they shall return | **<big>[[G0654\|αποστρέψουσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Jer.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 
 

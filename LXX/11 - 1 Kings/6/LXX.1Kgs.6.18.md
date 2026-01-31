@@ -7,26 +7,26 @@ And the cedar of the house within [was] carved with knops and open flowers: all 
 The cedar paneling inside the temple was carved with gourds and open flowers. Everything was cedar; not a stone could be seen.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.17|<< 1 Kings 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.19|1 Kings 6:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cedar | <big><span class="asgreek">κέδρω</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| covered | <big><span class="asgreek">περιεσκέπασε</span></big> <sup><small><small>[[G8754]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| inside. | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was carved | <big><span class="asgreek">έγλυψεν</span></big> <sup><small><small>[[G6747]]</small></small></sup> |
-| gourds | <big><span class="asgreek">κολαπτάς</span></big> <sup><small><small>[[G8049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| opened and spread out | <big><span class="asgreek">διαπεπετασμένα</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| leaves | <big><span class="asgreek">πέταλα</span></big> <sup><small><small>[[G8779]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| cedar; | <big><span class="asgreek">κέδρινα</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| appear. | <big><span class="asgreek">εφαίνετο</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cedar | **<big>[[G2748\|κέδρω]]</big>** |
+| covered | **<big>[[G8754\|περιεσκέπασε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| inside. | **<big>[[G2081\|έσωθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was carved | **<big>[[G6747\|έγλυψεν]]</big>** |
+| gourds | **<big>[[G8049\|κολαπτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| opened and spread out | **<big>[[G6861\|διαπεπετασμένα]]</big>** |
+| leaves | **<big>[[G8779\|πέταλα]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| cedar; | **<big>[[G7989\|κέδρινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone | **<big>[[G3037\|λίθος]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| appear. | **<big>[[G5316\|εφαίνετο]]</big>** |
 [[1Kgs.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.17|<< 1 Kings 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.19|1 Kings 6:19 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ And it shall come to pass, [that] when they enter in at the gates of the inner c
 When they enter the gates of the inner court, they are to wear linen garments; they must not wear anything made of wool when they minister at the gates of the inner court or inside the temple.<small><sub>**MT:**</sub></small>
 [[Ezek.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their entering | <big><span class="asgreek">εισπορεύεσθαι</span></big> <sup><small><small>[[G1531]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρας</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| flaxen linen | <big><span class="asgreek">λινάς</span></big> <sup><small><small>[[G8200]]</small></small></sup> |
-| \[that\] they shall put on | <big><span class="asgreek">ενδύσονται</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| put on | <big><span class="asgreek">ενδύσονται</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| wool | <big><span class="asgreek">έρια</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ministering | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρας</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| of \[the\] courtyard. | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their entering | **<big>[[G1531\|εισπορεύεσθαι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| gates | **<big>[[G4439\|πύλας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρας]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| flaxen linen | **<big>[[G8200\|λινάς]]</big>** |
+| \[that\] they shall put on | **<big>[[G1746\|ενδύσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| put on | **<big>[[G1746\|ενδύσονται]]</big>** |
+| wool | **<big>[[G2053\|έρια]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their ministering | **<big>[[G3008\|λειτουργείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρας]]</big>** |
+| of \[the\] courtyard. | **<big>[[G0833\|αυλής]]</big>** |
 [[Ezek.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Surely every man walketh in a vain shew: surely they are disquieted in vain: he 
 Surely every man goes about like a phantom; surely he bustles in vain; he heaps up riches not knowing who will haul them away.<small><sub>**MT:**</sub></small>
 [[Ps.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.5|<< Psalm 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.7|Psalm 39:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| However, | <big><span class="asgreek">μέντοιγε</span></big> <sup><small><small>[[G8286]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| an image | <big><span class="asgreek">εικόνι</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| travels | <big><span class="asgreek">διαπορεύεται</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| except, | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| in folly | <big><span class="asgreek">μάτην</span></big> <sup><small><small>[[G3155]]</small></small></sup> |
-| he is disturbed | <big><span class="asgreek">ταράσσεται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| He treasures up, | <big><span class="asgreek">θησαυρίζει</span></big> <sup><small><small>[[G2343]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| why | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| he shall gather | <big><span class="asgreek">συνάξει</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| However, | **<big>[[G8286\|μέντοιγε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| an image | **<big>[[G1504\|εικόνι]]</big>** |
+| travels | **<big>[[G1279\|διαπορεύεται]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| except, | **<big>[[G4133\|πλην]]</big>** |
+| in folly | **<big>[[G3155\|μάτην]]</big>** |
+| he is disturbed | **<big>[[G5015\|ταράσσεται]]</big>** |
+| He treasures up, | **<big>[[G2343\|θησαυρίζει]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| does not | **<big>[[G3756\|ου]]</big>** |
+| know | **<big>[[G1097\|γινώσκει]]</big>** |
+| why | **<big>[[G5100\|τίνι]]</big>** |
+| he shall gather | **<big>[[G4863\|συνάξει]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Ps.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.5|<< Psalm 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.7|Psalm 39:7 >>]]</td></tr></table>
 
 

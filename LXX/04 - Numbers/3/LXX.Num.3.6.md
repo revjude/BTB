@@ -7,22 +7,22 @@ Bring the tribe of Levi near, and present them before Aaron the priest, that the
 “Bring the tribe of Levi and present them to Aaron the priest to assist him.<small><sub>**MT:**</sub></small>
 [[Num.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.5|<< Numbers 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.7|Numbers 3:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλήν</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Levi! | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall set | <big><span class="asgreek">στήσεις</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall officiate | <big><span class="asgreek">λειτουργήσουσιν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tribe | **<big>[[G5443\|φυλήν]]</big>** |
+| of Levi! | **<big>[[G3017\|Λευί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall set | **<big>[[G2476\|στήσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall officiate | **<big>[[G3008\|λειτουργήσουσιν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
 [[Num.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.5|<< Numbers 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.7|Numbers 3:7 >>]]</td></tr></table>
 
 

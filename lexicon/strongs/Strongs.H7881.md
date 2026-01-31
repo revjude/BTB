@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׂיחָה‎</span></big> **sîychâh** <small>*(see-khaw')*</small> ==**meditation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שִׂיחַ‎</span><sup><small>[[H7879]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׂיחָה‎</span></big>** **sîychâh** <small>*(see-khaw')*</small> ==**meditation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H7879|‎שִׂיחַ‎]]</big>**</small>
 
 $\quad$ meditation, prayer.
 - ***reflection***

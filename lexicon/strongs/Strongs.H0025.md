@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִי גִבְעוֹן‎</span></big> **ʼĂbîy Gibʻôwn** <small>*(ab-ee' ghib-one')*</small> ==**Abi-gibeon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎גִּבְעוֹן‎</span><sup><small>[[H1391]]</small></sup>; father (i.e. founder) of Gibon</small>
+**<big><span class="ashebrew">‎אֲבִי גִבְעוֹן‎</span></big>** **ʼĂbîy Gibʻôwn** <small>*(ab-ee' ghib-one')*</small> ==**Abi-gibeon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H1391|‎גִּבְעוֹן‎]]</big>**; father (i.e. founder) of Gibon</small>
 
 $\quad$ father of Gibeon.
 - § Abi Gibon = *"father of Gibeon"*

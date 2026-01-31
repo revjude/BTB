@@ -11,25 +11,25 @@ Many will stumble over these; they will fall and be broken; they will be ensnare
 > $\quad$ referenced by: [[Luke.2.34|Luke 2:34]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall be powerless | <big><span class="asgreek">αδυνατήσουσιν</span></big> <sup><small><small>[[G0101]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fall, | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be broken; | <big><span class="asgreek">συντριβήσονται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall approach, | <big><span class="asgreek">εγγιούσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be captured | <big><span class="asgreek">αλώσονται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[being\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| safety. | <big><span class="asgreek">ασφαλεία</span></big> <sup><small><small>[[G0803]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| shall be powerless | **<big>[[G0101\|αδυνατήσουσιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fall, | **<big>[[G4098\|πεσούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be broken; | **<big>[[G4937\|συντριβήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall approach, | **<big>[[G1448\|εγγιούσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be captured | **<big>[[G6226\|αλώσονται]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| \[being\] in | **<big>[[G1722\|εν]]</big>** |
+| safety. | **<big>[[G0803\|ασφαλεία]]</big>** |
 [[Isa.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.14|<< Isaiah 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.16|Isaiah 8:16 >>]]</td></tr></table>
 
 

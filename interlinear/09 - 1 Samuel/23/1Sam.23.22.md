@@ -6,28 +6,28 @@ Please go and prepare further. Investigate and watch carefully where he goes and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.21|<< 1 Samuel 23:21]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.23|1 Samuel 23:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| go  | <span class="ashebrew"><big>לְכוּ </big></span><small><small><sup>[[H1980G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le.khu- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֞א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prepare  | <span class="ashebrew"><big>הָכִ֣ינוּ </big></span><small><small><sup>[[H3559K]]</sup></small></small> &#8207;| ha.Khi.nu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  | <span class="ashebrew"><big>ע֗וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and know  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְע֤וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and see  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְאוּ֙ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| place his  | <span class="ashebrew"><big>מְקוֹמ </big></span><small><small><sup>[[H4725]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| me.ko.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is  | <span class="ashebrew"><big>תִּֽהְיֶ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot his  | <span class="ashebrew"><big>רַגְל֔ </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| rag.L <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֥י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has he seen him  | <span class="ashebrew"><big>רָאָ֖ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ra.'A. <small><sup>[[HVqp3ms]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֑ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone has said  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>אֵלַ֔ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to be crafty>  | <span class="ashebrew"><big>עָר֥וֹם </big></span><small><small><sup>[[H6191]]</sup></small></small> &#8207;| a.Rom <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is crafty  | <span class="ashebrew"><big>יַעְרִ֖ם </big></span><small><small><sup>[[H6191]]</sup></small></small> &#8207;| ya'.Rim <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לְכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.khu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֞א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prepare  |**<big>&#8207;[[H3559K\|הָכִ֣ינוּ]]&#8207; </big>**| ha.Khi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֗וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and know  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3045\|דְע֤וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and see  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7200G\|רְאוּ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place his  |**<big>&#8207;[[H4725\|מְקוֹמ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| me.ko.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot his  |**<big>&#8207;[[H7272\|רַגְל֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| rag.L<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he seen him  |**<big>&#8207;[[H7200G\|רָאָ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ra.'A.<small><sup>[[HVqp3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone has said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H0413\|אֵלַ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to be crafty>  |**<big>&#8207;[[H6191\|עָר֥וֹם]]&#8207; </big>**| a.Rom<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is crafty  |**<big>&#8207;[[H6191\|יַעְרִ֖ם]]&#8207; </big>**| ya'.Rim<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.21|<< 1 Samuel 23:21]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.23|1 Samuel 23:23 >>]]</td></tr></table>
 
 

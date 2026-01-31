@@ -7,24 +7,24 @@ None that go unto her return again, neither take they hold of the paths of life.
 None who go to her return or negotiate the paths of life.<small><sub>**MT:**</sub></small>
 [[Prov.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.18|<< Proverbs 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.20|Proverbs 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming near | <big><span class="asgreek">παραπορευόμενοι</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| return; | <big><span class="asgreek">αναστρέψουσιν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall they overtake | <big><span class="asgreek">καταλάβωσι</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| paths | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| straight | <big><span class="asgreek">ευθείας</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| for they are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| overtaken | <big><span class="asgreek">καταλαμβάνονται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| years | <big><span class="asgreek">ενιαυτών</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of life. | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| coming near | **<big>[[G3899\|παραπορευόμενοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| return; | **<big>[[G0390\|αναστρέψουσιν]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| shall they overtake | **<big>[[G2638\|καταλάβωσι]]</big>** |
+| paths | **<big>[[G5147\|τρίβους]]</big>** |
+| straight | **<big>[[G2117\|ευθείας]]</big>** |
+| for they are not | **<big>[[G3756\|ου]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| overtaken | **<big>[[G2638\|καταλαμβάνονται]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| years | **<big>[[G1763\|ενιαυτών]]</big>** |
+| of life. | **<big>[[G2222\|ζωής]]</big>** |
 [[Prov.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.18|<< Proverbs 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.20|Proverbs 2:20 >>]]</td></tr></table>
 
 

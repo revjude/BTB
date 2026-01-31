@@ -7,32 +7,32 @@ For the Egyptians buried all [their] firstborn, which the LORD had smitten among
 who were burying all their firstborn, whom the LORD had struck down among them; for the LORD had executed judgment against their gods.<small><sub>**MT:**</sub></small>
 [[Num.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.3|<< Numbers 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.5|Numbers 33:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| buried | <big><span class="asgreek">εθαπτόν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| theirs | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died, | <big><span class="asgreek">τεθνηκότας</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of as many as | <big><span class="asgreek">όσους</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> struck, | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| executed | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| punishment | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| buried | **<big>[[G2290\|εθαπτόν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| theirs | **<big>[[G1473\|αυτών]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| having died, | **<big>[[G2348\|τεθνηκότας]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| of as many as | **<big>[[G3745\|όσους]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> struck, | **<big>[[G3960\|επάταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτότοκον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their gods | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| executed | **<big>[[G4160\|εποίησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| punishment | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[Num.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.3|<< Numbers 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.5|Numbers 33:5 >>]]</td></tr></table>
 
 

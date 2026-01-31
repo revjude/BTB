@@ -1,4 +1,4 @@
-name of: <small>[[G2381]]</small> 
+name of: <small>**<big>[[G2381|Θωμᾶς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Δίδυμος==</span></b> [<span class='asgreek'>ῐ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

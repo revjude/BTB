@@ -7,26 +7,26 @@ And the king took his ring from his hand, and gave it unto Haman the son of Hamm
 So the king removed the signet ring from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews.<small><sub>**MT:**</sub></small>
 [[Esth.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.9|<< Esther 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.11|Esther 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| removing | <big><span class="asgreek">περιελόμενος</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ring, | <big><span class="asgreek">δακτύλιον</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| gave it | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| to set a seal | <big><span class="asgreek">σφραγίσαι</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| on | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews. | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| removing | **<big>[[G4014\|περιελόμενος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| ring, | **<big>[[G1146\|δακτύλιον]]</big>** |
+| gave it | **<big>[[G1325\|έδωκεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| to set a seal | **<big>[[G4972\|σφραγίσαι]]</big>** |
+| on | **<big>[[G2596\|κατά]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Jews. | **<big>[[G2453\|Ιουδαίων]]</big>** |
 [[Esth.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.9|<< Esther 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.11|Esther 3:11 >>]]</td></tr></table>
 
 

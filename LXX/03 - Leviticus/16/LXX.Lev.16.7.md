@@ -7,25 +7,25 @@ And he shall take the two goats, and present them before the LORD [at] the door 
 Then he shall take the two goats and present them before the LORD at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
 [[Lev.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.6|<< Leviticus 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.8|Leviticus 16:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| young he-goats, | <big><span class="asgreek">χιμάρους</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| present | <big><span class="asgreek">παραστήσει</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony. | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| young he-goats, | **<big>[[G9733\|χιμάρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| present | **<big>[[G3936\|παραστήσει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony. | **<big>[[G3142\|μαρτυρίου]]</big>** |
 [[Lev.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.6|<< Leviticus 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.8|Leviticus 16:8 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Jokneam</span> \(or Jokmeam\), a Canaanite city conquered by Joshua, later allotted to the Levites within the territory of Zebulun.
 - A location first mentioned at [[Josh.12.22|Jos.12.22]]; 
-- referred to as Jokneam<[[H3362]]> \(<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Jokmeam \(KJV= Jokneam\) <[[H3361G]]> \(<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Jokneam **<big>[[H3362|יׇקְנְעָם]]</big>**, or Jokmeam \(KJV= Jokneam\)  **<big>[[H3361|יׇקְמְעָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.66454576550823,35.10891818863304&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Jokneam, also known as Jokmeam, was a Canaanite city mentioned in the book of Jo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jokneam | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3362) <small>*Hebrew*</small> | 3x | [[Jos.12.22] ... [Jos.21.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokneam\*\|reference=Jos.12.22;Jos.19.11;Jos.21.34) |
-| Jokmeam (KJV= Jokneam) | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3361G) <small>*Hebrew*</small> | 1x | [1Ki.4.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokmeam\*\|reference=1Ki.4.12) |
-All Strong's for **Jokneam or Jokmeam**: \[[[H3362]]\] \[[[H3361G]]\]
+| Jokneam | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3362) | 3x | [[Jos.12.22] ... [Jos.21.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokneam\*\|reference=Jos.12.22;Jos.19.11;Jos.21.34) |
+| Jokmeam (KJV= Jokneam) | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3361G) | 1x | [1Ki.4.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokmeam\*\|reference=1Ki.4.12) |
+All entries for **Jokneam or Jokmeam**:  **<big>[[H3362|יׇקְנְעָם]]</big>** ☩  **<big>[[H3361|יׇקְמְעָם]]</big>**

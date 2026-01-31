@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָטַב‎</span></big> **yâṭab** <small>*(yaw-tab')*</small> ==**be good**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָטַב‎</span></big>** **yâṭab** <small>*(yaw-tab')*</small> ==**be good**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be accepted, amend, use aright, benefit, be (make) better, seem best, make cheerful, be comely, [phrase] be content, diligent(-ly), dress, earnestly, find favour, give, be glad, do (be, make) good(-ness), be (make) merry, please ([phrase] well), shew more (kindness), skilfully, [idiom] very small, surely, make sweet, thoroughly, tire, trim, very, be (can, deal, entreat, go, have) well (said, seen).
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1b3)** to do well, do thoroughly
 $\quad$ $\quad$ **1b4)** to make a thing good or right or beautiful
 $\quad$ $\quad$ **1b5)** to do well, do right
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκριβῶς</span><sup><small>[[G0199]]</small></sup> · <span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">ἑτοιμάζω</span><sup><small>[[G2090]]</small></sup> · <span class="asgreek">εὖ</span><sup><small>[[G2095]]</small></sup> · <span class="asgreek">εὖ</span><sup><small>[[G2095]]</small></sup> · <span class="asgreek">καλός</span><sup><small>[[G2570]]</small></sup> · <span class="asgreek">καλῶς</span><sup><small>[[G2573]]</small></sup> · <span class="asgreek">καλῶς</span><sup><small>[[G2573]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">σφόδρα</span><sup><small>[[G4970]]</small></sup> · <span class="asgreek">χαίρω</span><sup><small>[[G5463]]</small></sup> · <span class="asgreek">χράομαι</span><sup><small>[[G5530]]</small></sup>
+<small>See Greek: </small>**<big>[[G0199|ἀκριβῶς]]</big>** · **<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G2090|ἑτοιμάζω]]</big>** · **<big>[[G2095|εὖ]]</big>** · **<big>[[G2095|εὖ]]</big>** · **<big>[[G2570|καλός]]</big>** · **<big>[[G2573|καλῶς]]</big>** · **<big>[[G2573|καλῶς]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4970|σφόδρα]]</big>** · **<big>[[G5463|χαίρω]]</big>** · **<big>[[G5530|χράομαι]]</big>**

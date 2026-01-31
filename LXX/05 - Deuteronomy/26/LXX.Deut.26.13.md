@@ -7,48 +7,48 @@ Then thou shalt say before the LORD thy God, I have brought away the hallowed th
 Then you shall declare in the presence of the LORD your God, “I have removed from my house the sacred portion and have given it to the Levite, the foreigner, the fatherless, and the widow, according to all the commandments You have given me. I have not transgressed or forgotten Your commandments.<small><sub>**MT:**</sub></small>
 [[Deut.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.12|<< Deuteronomy 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.14|Deuteronomy 26:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I cleared | <big><span class="asgreek">εξεκάθαρα</span></big> <sup><small><small>[[G1571]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite, | <big><span class="asgreek">Λευίτη</span></big> <sup><small><small>[[G3019]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner, | <big><span class="asgreek">προσηλύτω</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| orphan, | <big><span class="asgreek">ορφανώ</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| widow, | <big><span class="asgreek">χήρα</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you gave charge | <big><span class="asgreek">ενετείλω</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass by | <big><span class="asgreek">παρήλθον</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandment, | <big><span class="asgreek">εντολήν</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| forget. | <big><span class="asgreek">επελαθόμην</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I cleared | **<big>[[G1571\|εξεκάθαρα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my house, | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Levite, | **<big>[[G3019\|Λευίτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| foreigner, | **<big>[[G4339\|προσηλύτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| orphan, | **<big>[[G3737\|ορφανώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| widow, | **<big>[[G5503\|χήρα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you gave charge | **<big>[[G1781\|ενετείλω]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
+| I did not | **<big>[[G3756\|ου]]</big>** |
+| pass by | **<big>[[G3928\|παρήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your commandment, | **<big>[[G1785\|εντολήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| forget. | **<big>[[G1950\|επελαθόμην]]</big>** |
 [[Deut.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.12|<< Deuteronomy 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.14|Deuteronomy 26:14 >>]]</td></tr></table>
 
 

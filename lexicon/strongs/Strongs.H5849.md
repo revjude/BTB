@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָטַר‎</span></big> **ʻâṭar** <small>*(aw-tar')*</small> ==**to surround**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָטַר‎</span></big>** **ʻâṭar** <small>*(aw-tar')*</small> ==**to surround**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ compass, crown.

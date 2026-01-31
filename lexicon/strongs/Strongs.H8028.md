@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁלֶשׁ‎</span></big> **Shelesh** <small>*(sheh'-lesh)*</small> ==**Shelesh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַשׁ‎</span><sup><small>[[H8027]]</small></sup>; triplet</small>
+**<big><span class="ashebrew">‎שֶׁלֶשׁ‎</span></big>** **Shelesh** <small>*(sheh'-lesh)*</small> ==**Shelesh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8027|‎שָׁלַשׁ‎]]</big>**; triplet</small>
 
 $\quad$ Shelesh.
 - § Shelesh = *"might"*

@@ -4,16 +4,16 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jonathan</span>, a priest, was among those who blew trumpets at the dedication of Jerusalem's wall.
 - A priest living at the time of Exile and Return, only mentioned at [[Neh.12.35|Neh.12.35]]; 
-- only referred to as Jonathan<[[H3129K]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Shemaiah<[[H8098U]]>; 
--  father of Zechariah<[[H2148Z]]>, Shemaiah<[[H8098V]]>, Azarel<[[H5832J]]>, Milalai<[[H4450]]>, Gilalai<[[H1562]]>, Maai<[[H4597]]>, Nethanel<[[H5417P]]>, Judah<[[H3063K]]>, Hanani<[[H2607K]]>.
+- only referred to as Jonathan **<big>[[H3129|יוֹנָתָן]]</big>**; 
+- a son of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**; 
+-  father of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**, Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**, Azarel **<big>[[H5832|עֲזַרְאֵל]]</big>**, Milalai **<big>[[H4450|מִלֲלַי]]</big>**, Gilalai **<big>[[H1562|גִּלֲלַי]]</big>**, Maai **<big>[[H4597|מָעַי]]</big>**, Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**, Judah **<big>[[H3063|יְהוּדָה]]</big>**, Hanani **<big>[[H2607|חֲנָנִי]]</big>**.
 
 In [[Neh.12.35|Nehemiah 12:35]], Jonathan is mentioned as one of the priests who blew trumpets during the dedication of the wall of Jerusalem. This event took place after the Israelites had returned from Babylonian exile and rebuilt the wall under Nehemiah's leadership. The dedication was a joyous occasion, with two large choirs giving thanks and the priests blowing trumpets \(Nehemiah 12:31, 35\). Jonathan's participation as a trumpeter suggests he was a priest serving in Jerusalem at this time, which would have been in the mid-5th century BC under Persian rule.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129K) <small>*Hebrew*</small> | 1x | [Neh.12.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=Neh.12.35) |
-All Strong's for **Jonathan**: \[[[H3129K]]\]
+| Jonathan | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3129K) | 1x | [Neh.12.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=Neh.12.35) |
+All entries for **Jonathan**:  **<big>[[H3129|יוֹנָתָן]]</big>**
 #### Related Profiles:
 - **[Shemaiah](H8098U)** (father)
 - **[Zechariah](H2148Z)** (child)

@@ -10,34 +10,34 @@ Thus saith the LORD; For three transgressions of Gaza, and for four, I will not 
 This is what the LORD says: “For three transgressions of Gaza, even four, I will not revoke My judgment, because they exiled a whole population, delivering them up to Edom.<small><sub>**MT:**</sub></small>
 [[Amos.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.5|<< Amos 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.7|Amos 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of Gaza, | <big><span class="asgreek">Γάζης</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their capturing | <big><span class="asgreek">αιχμαλωτεύσαι</span></big> <sup><small><small>[[G0162]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Solomon, | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to close \[them\] up | <big><span class="asgreek">συγκλείσαι</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom. | <big><span class="asgreek">Ιδουμαίαν</span></big> <sup><small><small>[[G2401]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| of Gaza, | **<big>[[G1048\|Γάζης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their capturing | **<big>[[G0162\|αιχμαλωτεύσαι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Solomon, | **<big>[[G4672\|Σολομών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to close \[them\] up | **<big>[[G4788\|συγκλείσαι]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Edom. | **<big>[[G2401\|Ιδουμαίαν]]</big>** |
 [[Amos.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.5|<< Amos 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.7|Amos 1:7 >>]]</td></tr></table>
 
 

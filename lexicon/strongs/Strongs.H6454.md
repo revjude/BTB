@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּסֵחַ‎</span></big> **Pâçêach** <small>*(paw-say'-akh)*</small> ==**Paseah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּסַח‎</span><sup><small>[[H6452]]</small></sup>; limping</small>
+**<big><span class="ashebrew">‎פָּסֵחַ‎</span></big>** **Pâçêach** <small>*(paw-say'-akh)*</small> ==**Paseah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6452|‎פָּסַח‎]]</big>**; limping</small>
 
 $\quad$ Paseah, Phaseah.
 - § Paseah or Phaseah = *"limper"*

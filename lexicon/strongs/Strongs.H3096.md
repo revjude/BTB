@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַהַץ‎</span></big> **Yahats** <small>*(yah'-hats)*</small> ==**Jahaz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">יַהְצָה</span> **Yahtsâh** <small>*(yah'-tsaw)*</small>; or (feminine) <span class="ashebrew">יַהְצָה</span> **Yahtsâh** <small>*(yah-tsaw')*</small>; from an unused root meaning to stamp; perhaps threshing-floor</small>
+**<big><span class="ashebrew">‎יַהַץ‎</span></big>** **Yahats** <small>*(yah'-hats)*</small> ==**Jahaz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">יַהְצָה</span></big>** **Yahtsâh** <small>*(yah'-tsaw)*</small>; or (feminine) **<big><span class="ashebrew">יַהְצָה</span></big>** **Yahtsâh** <small>*(yah-tsaw')*</small>; from an unused root meaning to stamp; perhaps threshing-floor</small>
 
 $\quad$ Jahaz, Jahazah, Jahzah.
 - § Jahaz or Jahazah or Jahzah = *"trodden down"*

@@ -10,23 +10,23 @@ You must not pervert justice; you must not show partiality to the poor or favori
 > $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[Jas.2.1|Jas 2:1]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will do  | <span class="ashebrew"><big>תַעֲשׂ֥וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Su <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| injustice  | <span class="ashebrew"><big>עָ֙וֶל֙ </big></span><small><small><sup>[[H5766A]]</sup></small></small> &#8207;| 'a.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> judgment  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּשְׁפָּ֔ט </big></span><small><small><sup>[[H4941G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will lift up  | <span class="ashebrew"><big>תִשָּׂ֣א </big></span><small><small><sup>[[H5375Q]]</sup></small></small> &#8207;| ti.Sa' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְנֵי </big></span><small><small><sup>[[H6440N]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| fe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a poor [person]  | <span class="ashebrew"><big>דָ֔ל </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| Dal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will honor  | <span class="ashebrew"><big>תֶהְדַּ֖ר </big></span><small><small><sup>[[H1921]]</sup></small></small> &#8207;| teh.Dar <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a great [person]  | <span class="ashebrew"><big>גָד֑וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in righteousness  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צֶ֖דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will judge  | <span class="ashebrew"><big>תִּשְׁפֹּ֥ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| tish.Pot <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fellow citizen your  | <span class="ashebrew"><big>עֲמִיתֶֽ </big></span><small><small><sup>[[H5997]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.mi.Te. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  |**<big>&#8207;[[H6213A\|תַעֲשׂ֥וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  |**<big>&#8207;[[H5766A\|עָ֙וֶל֙]]&#8207; </big>**| 'a.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> judgment  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4941G\|מִּשְׁפָּ֔ט]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will lift up  |**<big>&#8207;[[H5375Q\|תִשָּׂ֣א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440N\|פְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a poor [person]  |**<big>&#8207;[[H1800\|דָ֔ל]]&#8207; </big>**| Dal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will honor  |**<big>&#8207;[[H1921\|תֶהְדַּ֖ר]]&#8207; </big>**| teh.Dar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a great [person]  |**<big>&#8207;[[H1419A\|גָד֑וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in righteousness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6664G\|צֶ֖דֶק]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will judge  |**<big>&#8207;[[H8199\|תִּשְׁפֹּ֥ט]]&#8207; </big>**| tish.Pot<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fellow citizen your  |**<big>&#8207;[[H5997\|עֲמִיתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.mi.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.14|<< Leviticus 19:14]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.16|Leviticus 19:16 >>]]</td></tr></table>
 
 

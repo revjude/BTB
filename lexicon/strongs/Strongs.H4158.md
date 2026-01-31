@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹפַעַת‎</span></big> **Môwphaʻath** <small>*(mo-fah'-ath)*</small> ==**Mephaath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>(Jeremiah 48:21) or <span class="ashebrew">מֵיפַעַת</span> **mêyphaʻath** <small>*(may-fah'-ath)*</small>; or <span class="ashebrew">מֵפַעַת</span> **mêphaʻath** <small>*(mayfah'-ath)*</small>; from <span class="ashebrew">‎יָפַע‎</span><sup><small>[[H3313]]</small></sup>; illuminative</small>
+**<big><span class="ashebrew">‎מוֹפַעַת‎</span></big>** **Môwphaʻath** <small>*(mo-fah'-ath)*</small> ==**Mephaath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>(Jeremiah 48:21) or **<big><span class="ashebrew">מֵיפַעַת</span></big>** **mêyphaʻath** <small>*(may-fah'-ath)*</small>; or **<big><span class="ashebrew">מֵפַעַת</span></big>** **mêphaʻath** <small>*(mayfah'-ath)*</small>; from **<big>[[H3313|‎יָפַע‎]]</big>**; illuminative</small>
 
 $\quad$ Mephaath.
 - § Mephaath = *"splendour" or "height"*

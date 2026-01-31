@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶשְׁעָן‎</span></big> **ʼEshʻân** <small>*(esh-awn')*</small> ==**Eshan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁעַן‎</span><sup><small>[[H8172]]</small></sup>; support</small>
+**<big><span class="ashebrew">‎אֶשְׁעָן‎</span></big>** **ʼEshʻân** <small>*(esh-awn')*</small> ==**Eshan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H8172|‎שָׁעַן‎]]</big>**; support</small>
 
 $\quad$ Eshean.
 - § Eshean = *"support"*

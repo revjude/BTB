@@ -11,36 +11,36 @@ Son of man, thou dwellest in the midst of a rebellious house, which have eyes to
 > $\quad$ referenced by: [[Mark.8.18|Mark 8:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their iniquities | <big><span class="asgreek">αδικιών</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικείς</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| have | <big><span class="asgreek">έχουσιν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to see, | <big><span class="asgreek">βλέπειν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see; | <big><span class="asgreek">βλέπουσι</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hear, | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear. | <big><span class="asgreek">ακούουσι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| a rebelling | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their iniquities | **<big>[[G0093\|αδικιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| dwell | **<big>[[G2730\|κατοικείς]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| have | **<big>[[G2192\|έχουσιν]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to see, | **<big>[[G0991\|βλέπειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3756\|ου]]</big>** |
+| see; | **<big>[[G0991\|βλέπουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ears | **<big>[[G3775\|ώτα]]</big>** |
+| have | **<big>[[G2192\|έχουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to hear, | **<big>[[G0191\|ακούειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| hear. | **<big>[[G0191\|ακούουσι]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| a rebelling | **<big>[[G3893\|παραπικραίνων]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Ezek.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.1|<< Ezekiel 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.3|Ezekiel 12:3 >>]]</td></tr></table>
 
 

@@ -7,45 +7,45 @@ Turn not to the right hand nor to the left: remove thy foot from evil.
 Do not swerve to the right or to the left; turn your feet away from evil.<small><sub>**MT:**</sub></small>
 [[Prov.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not turn aside | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εκκλίνης</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left; | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| but turn | <big><span class="asgreek">απόστρεψον</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| an evil | <big><span class="asgreek">κακής</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| For \[the\] ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right, | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| knows | <big><span class="asgreek">οίδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| but the ones perverting | <big><span class="asgreek">διεστραμμέναι</span></big> <sup><small><small>[[G1294]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left; | <big><span class="asgreek">αριστερών</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| but he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| straight | <big><span class="asgreek">ορθάς</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| makes | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tracks | <big><span class="asgreek">τροχιάς</span></big> <sup><small><small>[[G5163]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your goings | <big><span class="asgreek">πορείας</span></big> <sup><small><small>[[G4197]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| he shall lead before | <big><span class="asgreek">προάξει</span></big> <sup><small><small>[[G4254]]</small></small></sup> |
+| You should not turn aside | **<big>[[G3361\|μη]]</big>** **<big>[[G1578\|εκκλίνης]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| left; | **<big>[[G0710\|αριστερά]]</big>** |
+| but turn | **<big>[[G0654\|απόστρεψον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| your | **<big>[[G4674\|σον]]</big>** |
+| foot | **<big>[[G4228\|πόδα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| an evil | **<big>[[G2556\|κακής]]</big>** |
+| For \[the\] ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the ones | **<big>[[G3588\|τας]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right, | **<big>[[G1188\|δεξιών]]</big>** |
+| knows | **<big>[[G1492\|οίδεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| but the ones perverting | **<big>[[G1294\|διεστραμμέναι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left; | **<big>[[G0710\|αριστερών]]</big>** |
+| but he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| straight | **<big>[[G3717\|ορθάς]]</big>** |
+| makes | **<big>[[G4160\|ποιήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your tracks | **<big>[[G5163\|τροχιάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| your goings | **<big>[[G4197\|πορείας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| he shall lead before | **<big>[[G4254\|προάξει]]</big>** |
 [[Prov.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ Behold, [there is] a people come out of Egypt, which covereth the face of the ea
 ‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”<small><sub>**MT:**</sub></small>
 [[Num.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.10|<< Numbers 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.12|Numbers 22:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξελήλυθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψιν</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| come | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| curse | <big><span class="asgreek">άρασαί</span></big> <sup><small><small>[[G6522]]</small></small></sup> |
-| it for me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it is so | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| I shall be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cast it out. | <big><span class="asgreek">εκβαλώ</span></big> <sup><small><small>[[G1544]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| come forth | **<big>[[G1831\|εξελήλυθεν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covered | **<big>[[G2572\|εκάλυψεν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| appearance | **<big>[[G3799\|όψιν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| come | **<big>[[G1204\|δεύρο]]</big>** |
+| curse | **<big>[[G6522\|άρασαί]]</big>** |
+| it for me! | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| it is so | **<big>[[G0686\|άρα]]</big>** |
+| I shall be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to strike | **<big>[[G3960\|πατάξαι]]</big>** |
+| it, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will cast it out. | **<big>[[G1544\|εκβαλώ]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Num.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.10|<< Numbers 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.12|Numbers 22:12 >>]]</td></tr></table>
 
 

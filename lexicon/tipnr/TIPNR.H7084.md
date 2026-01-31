@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Keilah</span>, a town in the Shephelah of Judah, was rescued by David from Philistine attack but later threatened to betray him to Saul \([[Josh.15.44|Joshua 15:44]]; 1 Samuel 23\).
 - A location first mentioned at [[Josh.15.44|Jos.15.44]]; 
-- only referred to as Keilah<[[H7084]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Keilah **<big>[[H7084|קְעִילָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.614175,35.002752&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Keilah was a town located in the Shephelah, or lowland region, of Judah \([[Josh
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Keilah | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7084) <small>*Hebrew*</small> | 18x | [[Jos.15.44] ... [Neh.3.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keilah\*\|reference=Jos.15.44;1Sa.23.1;1Sa.23.2;1Sa.23.3;1Sa.23.4;1Sa.23.5;1Sa.23.5;1Sa.23.6;1Sa.23.7;1Sa.23.8;1Sa.23.10;1Sa.23.11;1Sa.23.12;1Sa.23.13;1Sa.23.13;1Ch.4.19;Neh.3.17;Neh.3.18) |
-All Strong's for **Keilah**: \[[[H7084]]\]
+| Keilah | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7084) | 18x | [[Jos.15.44] ... [Neh.3.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keilah\*\|reference=Jos.15.44;1Sa.23.1;1Sa.23.2;1Sa.23.3;1Sa.23.4;1Sa.23.5;1Sa.23.5;1Sa.23.6;1Sa.23.7;1Sa.23.8;1Sa.23.10;1Sa.23.11;1Sa.23.12;1Sa.23.13;1Sa.23.13;1Ch.4.19;Neh.3.17;Neh.3.18) |
+All entries for **Keilah**:  **<big>[[H7084|קְעִילָה]]</big>**

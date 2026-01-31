@@ -7,17 +7,17 @@ He hath bent his bow, and set me as a mark for the arrow.
 He bent His bow and set me as the target for His arrow.<small><sub>**MT:**</sub></small>
 [[Lam.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.11|<< Lamentations 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.13|Lamentations 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He stretched tight | <big><span class="asgreek">ενέτεινε</span></big> <sup><small><small>[[G7265]]</small></small></sup> |
-| his bow, | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he set up a stone \[target\] | <big><span class="asgreek">εστήλωσέ</span></big> <sup><small><small>[[G9173]]</small></small></sup> |
-| for me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] aim | <big><span class="asgreek">σκοπόν</span></big> <sup><small><small>[[G4649]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] arrow. | <big><span class="asgreek">βέλος</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
+| He stretched tight | **<big>[[G7265\|ενέτεινε]]</big>** |
+| his bow, | **<big>[[G5115\|τόξον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he set up a stone \[target\] | **<big>[[G9173\|εστήλωσέ]]</big>** |
+| for me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] aim | **<big>[[G4649\|σκοπόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] arrow. | **<big>[[G0956\|βέλος]]</big>** |
 [[Lam.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.11|<< Lamentations 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.13|Lamentations 3:13 >>]]</td></tr></table>
 
 

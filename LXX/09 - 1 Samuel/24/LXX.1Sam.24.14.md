@@ -7,26 +7,26 @@ After whom is the king of Israel come out? after whom dost thou pursue? after a 
 Against whom has the king of Israel come out? Whom are you pursuing? A dead dog? A flea?<small><sub>**MT:**</sub></small>
 [[1Sam.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.13|<< 1 Samuel 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.15|1 Samuel 24:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| whom | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you go forth, | <big><span class="asgreek">εκπορεύη</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| O king | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| After | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| whom | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you pursue? | <big><span class="asgreek">καταδιώκεις</span></big> <sup><small><small>[[G2614]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| After | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| a dog | <big><span class="asgreek">κυνός</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| having died, | <big><span class="asgreek">τεθνηκότος</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| flea | <big><span class="asgreek">ψύλλου</span></big> <sup><small><small>[[G9803]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| whom | **<big>[[G5100\|τίνος]]</big>** |
+| do you go forth, | **<big>[[G1607\|εκπορεύη]]</big>** |
+| O king | **<big>[[G0935\|βασιλεύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| After | **<big>[[G3694\|οπίσω]]</big>** |
+| whom | **<big>[[G5100\|τίνος]]</big>** |
+| do you pursue? | **<big>[[G2614\|καταδιώκεις]]</big>** **<big>[[G1473\|συ]]</big>** |
+| After | **<big>[[G3694\|οπίσω]]</big>** |
+| a dog | **<big>[[G2965\|κυνός]]</big>** |
+| having died, | **<big>[[G2348\|τεθνηκότος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| flea | **<big>[[G9803\|ψύλλου]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
 [[1Sam.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.13|<< 1 Samuel 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.15|1 Samuel 24:15 >>]]</td></tr></table>
 
 

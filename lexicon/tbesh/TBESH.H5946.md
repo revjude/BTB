@@ -1,6 +1,5 @@
-<span class="asaramaic">‎עֶלְיוֹן‎</span> <small>***(el.yon)***</small> ==**Most High**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H3068G]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3068G|יְהֹוָה]]</big>**</small> 
 
 
-- Aramaic of <i>ye.ho.vah</i> (<span class='ashebrew'>‎יהוה‎</span> "LORD" [[H3068]])
+- Aramaic of <i>ye.ho.vah</i> (<span class='ashebrew'>‎יהוה‎</span> "LORD" **<big>[[H3068|יְהֹוָה]]</big>**)
 -  This name means  the Highest,

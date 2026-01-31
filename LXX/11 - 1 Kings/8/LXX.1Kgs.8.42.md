@@ -7,34 +7,34 @@ for they shall hear  your great name, and  your strong hand, and  your high arm,
 for they will hear of Your great name and mighty hand and outstretched arm—when he comes and prays toward this temple,<small><sub>**MT:**</sub></small>
 [[1Kgs.8.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.41|<< 1 Kings 8:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.43|1 Kings 8:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they shall hear | <big><span class="asgreek">ακούσονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong | <big><span class="asgreek">κραταιάν</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arm | <big><span class="asgreek">βραχίονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pray | <big><span class="asgreek">προσεύξεται</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place; | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| they shall hear | **<big>[[G0191\|ακούσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομά]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| strong | **<big>[[G2900\|κραταιάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| arm | **<big>[[G1023\|βραχίονά]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| high | **<big>[[G5308\|υψηλόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pray | **<big>[[G4336\|προσεύξεται]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this place; | **<big>[[G5117\|τόπον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[1Kgs.8.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.41|<< 1 Kings 8:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.43|1 Kings 8:43 >>]]</td></tr></table>
 
 

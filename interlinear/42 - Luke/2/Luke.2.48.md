@@ -6,33 +6,33 @@ When His parents saw Him, they were astonished. “Child, why have You done this
 <small><sub>**Literal:**</sub></small>
 And having seen Him they were astonished, and said to Him the mother of Him: Child why You did to us thus? Behold the father of You and I myself distressing were seeking You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.47|<< Luke 2:47]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.49|Luke 2:49 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having seen |<big><span class="asgreek">ἰδόντες</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were astonished, |<big><span class="asgreek">ἐξεπλάγησαν,</span></big> <small><small><sup>[[G1605]]</sup></small></small> |exeplagēsan <small><sup>[[V-2API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| said |<big><span class="asgreek">εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»5+Byz»5">NKO</abbr> | |
-| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mother |<big><span class="asgreek">μήτηρ</span></big> <small><small><sup>[[G3384]]</sup></small></small> |mētēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him: |<big><span class="asgreek">αὐτοῦ·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Child |<big><span class="asgreek">τέκνον,</span></big> <small><small><sup>[[G5043]]</sup></small></small> |teknon <small><sup>[[N-VSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| why |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You did |<big><span class="asgreek">ἐποίησας</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |epoiēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to us |<big><span class="asgreek">ἡμῖν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmin <small><sup>[[P-1DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| thus? |<big><span class="asgreek">οὕτως;</span></big> <small><small><sup>[[G3779]]</sup></small></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Behold |<big><span class="asgreek">ἰδοὺ</span></big> <small><small><sup>[[G2400]]</sup></small></small> |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| father |<big><span class="asgreek">πατήρ</span></big> <small><small><sup>[[G3962]]</sup></small></small> |patēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of You |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and I myself |<big><span class="asgreek">κἀγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| distressing |<big><span class="asgreek">ὀδυνώμενοι</span></big> <small><small><sup>[[G3600]]</sup></small></small> |odunōmenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were seeking [^2] |<big><span class="asgreek">ἐζητοῦμέν</span></big> <small><small><sup>[[G2212]]</sup></small></small> |ezētoumen <small><sup>[[V-IAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
-| You. |<big><span class="asgreek">σε.¶</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were astonished, |**<big>[[G1605\|ἐξεπλάγησαν,]]</big>**  |exeplagēsan <small><sup>[[V-2API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»5+Byz»5">NKO</abbr> | |
+| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mother |**<big>[[G3384\|μήτηρ]]</big>**  |mētēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him: |**<big>[[G0846\|αὐτοῦ·]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Child |**<big>[[G5043\|τέκνον,]]</big>**  |teknon <small><sup>[[N-VSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You did |**<big>[[G4160G\|ἐποίησας]]</big>**  |epoiēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to us |**<big>[[G3165\|ἡμῖν]]</big>**  |hēmin <small><sup>[[P-1DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| thus? |**<big>[[G3779\|οὕτως;]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| father |**<big>[[G3962\|πατήρ]]</big>**  |patēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of You |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and I myself |**<big>[[G1473\|κἀγὼ]]</big>**  [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| distressing |**<big>[[G3600\|ὀδυνώμενοι]]</big>**  |odunōmenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were seeking [^2] |**<big>[[G2212\|ἐζητοῦμέν]]</big>**  |ezētoumen <small><sup>[[V-IAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
+| You. |**<big>[[G4771\|σε.¶]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.47|<< Luke 2:47]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.49|Luke 2:49 >>]]</td></tr></table>
 
-[^1]: ==SBL+WH+Treg+Byz== spelled: <span class='asgreek'>**καὶ**</span> <span class='asgreek'>**ἐγὼ**</span>
-[^2]: ==WH==: is seeking | <span class="asgreek">ζητοῦμέν</span><small><sup>[[G2212]]</sup></small> | zētoumen<small><sup>[[V-PAI-1P]]</sup></small>
+[^1]: ==SBL+WH+Treg+Byz== spelled: **<big><span class='asgreek'>καὶ</span></big>** **<big><span class='asgreek'>ἐγὼ</span></big>**
+[^2]: ==WH==: is seeking | **<big>[[G2212|ζητοῦμέν]]</big>** | zētoumen<small><sup>[[V-PAI-1P]]</sup></small>

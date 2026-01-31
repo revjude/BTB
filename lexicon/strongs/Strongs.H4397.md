@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מֲלְאָךְ‎</span></big> **mălʼâk** <small>*(mal-awk')*</small> ==**messenger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מֲלְאָךְ‎</span></big>** **mălʼâk** <small>*(mal-awk')*</small> ==**messenger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to despatch as a deputy</small>
 
 $\quad$ ambassador, angel, king, messenger.
@@ -10,4 +10,4 @@ $\quad$ **1a)** messenger
 $\quad$ **1b)** angel
 $\quad$ **1c)** the theophanic angel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγγελος</span><sup><small>[[G0032]]</small></sup> · <span class="asgreek">ἄγγελος</span><sup><small>[[G0032]]</small></sup> · <span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">βασιλεύς</span><sup><small>[[G0935]]</small></sup> · <span class="asgreek">παῖς</span><sup><small>[[G3816]]</small></sup>
+<small>See Greek: </small>**<big>[[G0032|ἄγγελος]]</big>** · **<big>[[G0032|ἄγγελος]]</big>** · **<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G0935|βασιλεύς]]</big>** · **<big>[[G3816|παῖς]]</big>**

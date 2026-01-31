@@ -7,39 +7,39 @@ And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. T
 Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and cried out in a loud voice, “Oh, Lord GOD, will You bring the remnant of Israel to a complete end?”<small><sub>**MT:**</sub></small>
 [[Ezek.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.12|<< Ezekiel 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.14|Ezekiel 11:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prophesying, | <big><span class="asgreek">προφητεύειν</span></big> <sup><small><small>[[G4395]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pelatiah | <big><span class="asgreek">Φαλτίας</span></big> <sup><small><small>[[H6410]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Benaiah | <big><span class="asgreek">Βαναίου</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
-| died. | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I fell | <big><span class="asgreek">πίπτω</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I yelled out | <big><span class="asgreek">ανεβόησα</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \[with\] a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Alas, | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| consummation | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| do you appoint | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnant | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my prophesying, | **<big>[[G4395\|προφητεύειν]]</big>** **<big>[[G1473\|με]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| Pelatiah | **<big>[[H6410\|Φαλτίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Benaiah | **<big>[[H1141\|Βαναίου]]</big>** |
+| died. | **<big>[[G0599\|απέθανε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I fell | **<big>[[G4098\|πίπτω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| my face, | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I yelled out | **<big>[[G0310\|ανεβόησα]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| \[with\] a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπον]]</big>** |
+| Alas, | **<big>[[G8461\|οίμοι]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| consummation | **<big>[[G4930\|συντέλειαν]]</big>** |
+| do you appoint | **<big>[[G4160\|ποιείς]]</big>** **<big>[[G1473\|συ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| remnant | **<big>[[G2645\|καταλοίπους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.12|<< Ezekiel 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.14|Ezekiel 11:14 >>]]</td></tr></table>
 
 

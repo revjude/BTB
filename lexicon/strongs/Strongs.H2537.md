@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲמוּטַל‎</span></big> **Chămûwṭal** <small>*(kham-oo-tal')*</small> ==**Hamutal**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>or <span class="ashebrew">חֲמִיטַל</span> **Chămîyṭal** <small>*(kham-ee-tal')*</small>; from <span class="ashebrew">‎חָם‎</span><sup><small>[[H2524]]</small></sup> and <span class="ashebrew">‎טַל‎</span><sup><small>[[H2919]]</small></sup>; father-in-law of dew</small>
+**<big><span class="ashebrew">‎חֲמוּטַל‎</span></big>** **Chămûwṭal** <small>*(kham-oo-tal')*</small> ==**Hamutal**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲמִיטַל</span></big>** **Chămîyṭal** <small>*(kham-ee-tal')*</small>; from **<big>[[H2524|‎חָם‎]]</big>** and **<big>[[H2919|‎טַל‎]]</big>**; father-in-law of dew</small>
 
 $\quad$ Hamutal.
 - § Hamutal = *"father-in-law is protection"*

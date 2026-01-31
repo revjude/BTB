@@ -7,31 +7,31 @@ Break your bread with ones hungering, and bring \[the\] homeless poor into  your
 Isn’t it to share your bread with the hungry, to bring the poor and homeless into your home, to clothe the naked when you see him, and not to turn away from your own flesh and blood?<small><sub>**MT:**</sub></small>
 [[Isa.58.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.6|<< Isaiah 58:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.8|Isaiah 58:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Break | <big><span class="asgreek">διάθρυπτε</span></big> <sup><small><small>[[G6828]]</small></small></sup> |
-| with ones hungering | <big><span class="asgreek">πεινώντι</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχούς</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| \[the\] homeless | <big><span class="asgreek">αστέγους</span></big> <sup><small><small>[[G6574]]</small></small></sup> |
-| bring | <big><span class="asgreek">είσαγε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house! | <big><span class="asgreek">οίκόν</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you behold | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| one naked, | <big><span class="asgreek">γυμνόν</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
-| clothe \[him\]! | <big><span class="asgreek">περίβαλε</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| members of \[your\] family | <big><span class="asgreek">οικείων</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your seed, | <big><span class="asgreek">σπέρματός</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| disdain \[them\]. | <big><span class="asgreek">υπερόψει</span></big> <sup><small><small>[[G9558]]</small></small></sup> |
+| Break | **<big>[[G6828\|διάθρυπτε]]</big>** |
+| with ones hungering | **<big>[[G3983\|πεινώντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poor | **<big>[[G4434\|πτωχούς]]</big>** |
+| \[the\] homeless | **<big>[[G6574\|αστέγους]]</big>** |
+| bring | **<big>[[G1521\|είσαγε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your house! | **<big>[[G3624\|οίκόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you behold | **<big>[[G1492\|ίδης]]</big>** |
+| one naked, | **<big>[[G1131\|γυμνόν]]</big>** |
+| clothe \[him\]! | **<big>[[G4016\|περίβαλε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| members of \[your\] family | **<big>[[G3609\|οικείων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your seed, | **<big>[[G4690\|σπέρματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ουχ]]</big>** |
+| disdain \[them\]. | **<big>[[G9558\|υπερόψει]]</big>** |
 [[Isa.58.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.6|<< Isaiah 58:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.8|Isaiah 58:8 >>]]</td></tr></table>
 
 

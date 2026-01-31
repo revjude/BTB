@@ -11,28 +11,28 @@ So the next day they arose, offered burnt offerings, and presented peace offerin
 > $\quad$ referenced by: [[1Cor.10.7|1Cor 10:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising early | <big><span class="asgreek">ορθρίσας</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day, | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| he offered | <big><span class="asgreek">ανεβίβασεν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| whole burnt-offerings, | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he offered | <big><span class="asgreek">προσήνεγκε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| \[the\] sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of deliverance. | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink, | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| to play. | <big><span class="asgreek">παίζειν</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rising early | **<big>[[G3719\|ορθρίσας]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| next day, | **<big>[[G1887\|επαύριον]]</big>** |
+| he offered | **<big>[[G0307\|ανεβίβασεν]]</big>** |
+| whole burnt-offerings, | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he offered | **<big>[[G4374\|προσήνεγκε]]</big>** |
+| \[the\] sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of deliverance. | **<big>[[G4992\|σωτηρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sat | **<big>[[G2523\|εκάθισεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink, | **<big>[[G4095\|πιείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| to play. | **<big>[[G3815\|παίζειν]]</big>** |
 [[Exod.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.5|<< Exodus 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.7|Exodus 32:7 >>]]</td></tr></table>
 
 

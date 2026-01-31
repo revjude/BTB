@@ -10,30 +10,30 @@ And I will betroth thee unto me for ever; yea, I will betroth thee unto me in ri
 So I will betroth you to Me forever; I will betroth you in righteousness and justice, in loving devotion and compassion.<small><sub>**MT:**</sub></small>
 [[Hos.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.18|<< Hosea 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.20|Hosea 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall espouse | <big><span class="asgreek">μνηστεύσομαί</span></big> <sup><small><small>[[G3423]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon; | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall espouse | <big><span class="asgreek">μνηστεύσομαί</span></big> <sup><small><small>[[G3423]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίματι</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| mercy, | <big><span class="asgreek">ελέει</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| compassions. | <big><span class="asgreek">οικτιρμοίς</span></big> <sup><small><small>[[G3628]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall espouse | **<big>[[G3423\|μνηστεύσομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| to myself | **<big>[[G1683\|εμαυτώ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon; | **<big>[[G0165\|αιώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall espouse | **<big>[[G3423\|μνηστεύσομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| to myself | **<big>[[G1683\|εμαυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| equity, | **<big>[[G2917\|κρίματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| mercy, | **<big>[[G1656\|ελέει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| compassions. | **<big>[[G3628\|οικτιρμοίς]]</big>** |
 [[Hos.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.18|<< Hosea 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.20|Hosea 2:20 >>]]</td></tr></table>
 
 

@@ -6,18 +6,18 @@ Construct the altar with boards so that it is hollow. It is to be made just as y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| hollow of  | <span class="ashebrew"><big>נְב֥וּב </big></span><small><small><sup>[[H5014]]</sup></small></small> &#8207;| ne.Vuv <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| boards  | <span class="ashebrew"><big>לֻחֹ֖ת </big></span><small><small><sup>[[H3871]]</sup></small></small> &#8207;| lu.Chot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will make  | <span class="ashebrew"><big>תַּעֲשֶׂ֣ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ta.'a.Seh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹת֑ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he showed  | <span class="ashebrew"><big>הֶרְאָ֥ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| her.'Ah <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> you  | <span class="ashebrew"><big>אֹתְ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>ךָ֛ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'o.te. <small><sup>[[HTo]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the mountain  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הָ֖ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will do  | <span class="ashebrew"><big>יַעֲשֽׂוּ </big></span><small><small><sup>[[H6213H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ya.'a.Su <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hollow of  |**<big>&#8207;[[H5014\|נְב֥וּב]]&#8207; </big>**| ne.Vuv<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| boards  |**<big>&#8207;[[H3871\|לֻחֹ֖ת]]&#8207; </big>**| lu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  |**<big>&#8207;[[H6213H\|תַּעֲשֶׂ֣ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he showed  |**<big>&#8207;[[H7200G\|הֶרְאָ֥ה]]&#8207; </big>**| her.'Ah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  |**<big>&#8207;[[H0853\|אֹתְ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the mountain  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2022G\|הָ֖ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will do  |**<big>&#8207;[[H6213H\|יַעֲשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
 

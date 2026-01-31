@@ -7,33 +7,33 @@ Neither say they in their heart, Let us now fear the LORD our God, that giveth r
 They have not said in their hearts, ‘Let us fear the LORD our God, who gives the rains, both autumn and spring, in season, who keeps for us the appointed weeks of harvest.’<small><sub>**MT:**</sub></small>
 [[Jer.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.23|<< Jeremiah 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.25|Jeremiah 5:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We should indeed fear | <big><span class="asgreek">φοβηθώμεν</span></big> <sup><small><small>[[G5399]]</small></small></sup> <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one giving | <big><span class="asgreek">διδόντα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| \[the\] early | <big><span class="asgreek">πρώϊμον</span></big> <sup><small><small>[[G4406]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| late | <big><span class="asgreek">όψιμον</span></big> <sup><small><small>[[G3797]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[its\] season | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of \[the\] fullness | <big><span class="asgreek">πληρώσεως</span></big> <sup><small><small>[[G8815]]</small></small></sup> |
-| of \[the\] order | <big><span class="asgreek">προστάγματος</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| of harvest, | <big><span class="asgreek">θερισμού</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he guarded it | <big><span class="asgreek">εφύλαξεν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| for us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they have not | **<big>[[G3756\|ουκ]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| We should indeed fear | **<big>[[G5399\|φοβηθώμεν]]</big>** **<big>[[G1211\|δη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| our God, | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one giving | **<big>[[G1325\|διδόντα]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| rain | **<big>[[G5205\|υετόν]]</big>** |
+| \[the\] early | **<big>[[G4406\|πρώϊμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| late | **<big>[[G3797\|όψιμον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[its\] season | **<big>[[G2540\|καιρόν]]</big>** |
+| of \[the\] fullness | **<big>[[G8815\|πληρώσεως]]</big>** |
+| of \[the\] order | **<big>[[G8943\|προστάγματος]]</big>** |
+| of harvest, | **<big>[[G2326\|θερισμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he guarded it | **<big>[[G5442\|εφύλαξεν]]</big>** |
+| for us. | **<big>[[G1473\|ημίν]]</big>** |
 [[Jer.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.23|<< Jeremiah 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.25|Jeremiah 5:25 >>]]</td></tr></table>
 
 

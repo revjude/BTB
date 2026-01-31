@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נִשְׁכָּה‎</span></big> **nishkâh** <small>*(nish-kaw')*</small> ==**chamber**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>for <span class="ashebrew">‎לִשְׁכָּה‎</span><sup><small>[[H3957]]</small></sup></small>
+**<big><span class="ashebrew">‎נִשְׁכָּה‎</span></big>** **nishkâh** <small>*(nish-kaw')*</small> ==**chamber**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>for **<big>[[H3957|‎לִשְׁכָּה‎]]</big>**</small>
 
 $\quad$ chamber.
 - ***a cell***

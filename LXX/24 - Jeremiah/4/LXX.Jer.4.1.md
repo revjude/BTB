@@ -10,29 +10,29 @@ If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt 
 “If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver,<small><sub>**MT:**</sub></small>
 [[Jer.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.25|<< Jeremiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.2|Jeremiah 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| Israel should return, | <big><span class="asgreek">επιστραφή</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall be returned. | <big><span class="asgreek">επιστραφήσεται</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should remove | <big><span class="asgreek">περιέλη</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his abominations | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth, | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should show reverence | <big><span class="asgreek">ευλαβηθή</span></big> <sup><small><small>[[G2125]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| Israel should return, | **<big>[[G1994\|επιστραφή]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| he shall be returned. | **<big>[[G1994\|επιστραφήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he should remove | **<big>[[G4014\|περιέλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his abominations | **<big>[[G0946\|βδελύγματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his mouth, | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of me | **<big>[[G1473\|μου]]</big>** |
+| should show reverence | **<big>[[G2125\|ευλαβηθή]]</big>** |
 [[Jer.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.25|<< Jeremiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.2|Jeremiah 4:2 >>]]</td></tr></table>
 
 

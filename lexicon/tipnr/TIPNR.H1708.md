@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Dabbesheth</span> was a town on the border of the territory allocated to the tribe of Zebulun.
 - A location only mentioned at [[Josh.19.11|Jos.19.11]]; 
-- only referred to as Dabbesheth<[[H1708]]> \(<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Dabbesheth **<big>[[H1708|דַּבֶּשֶׁת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.000000,35.266682&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The meaning of the name Dabbesheth is uncertain, and the lack of additional info
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dabbesheth | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ת</span>](H1708) <small>*Hebrew*</small> | 1x | [Jos.19.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dabbesheth\*\|reference=Jos.19.11) |
-All Strong's for **Dabbesheth**: \[[[H1708]]\]
+| Dabbesheth | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ת</span>](H1708) | 1x | [Jos.19.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dabbesheth\*\|reference=Jos.19.11) |
+All entries for **Dabbesheth**:  **<big>[[H1708|דַּבֶּשֶׁת]]</big>**

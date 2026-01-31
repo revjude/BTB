@@ -6,17 +6,17 @@ The crack of the whip, the rumble of the wheel, galloping horse and bounding cha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.1|<< Nahum 3:1]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.3|Nahum 3:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sound of  | <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a whip  | <span class="ashebrew"><big>שׁ֔וֹט </big></span><small><small><sup>[[H7752]]</sup></small></small> &#8207;| Shot <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] sound of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ק֖וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] rattling of  | <span class="ashebrew"><big>רַ֣עַשׁ </big></span><small><small><sup>[[H7494]]</sup></small></small> &#8207;| Ra.'ash <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wheel  | <span class="ashebrew"><big>אוֹפָ֑ן </big></span><small><small><sup>[[H0212]]</sup></small></small> &#8207;| 'o.Fan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a horse  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ס֣וּס </big></span><small><small><sup>[[H5483M]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Sus <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| galloping  | <span class="ashebrew"><big>דֹּהֵ֔ר </big></span><small><small><sup>[[H1725]]</sup></small></small> &#8207;| do.Her <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a chariot  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֶרְכָּבָ֖ה </big></span><small><small><sup>[[H4818]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mer.ka.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jolting  | <span class="ashebrew"><big>מְרַקֵּדָֽה </big></span><small><small><sup>[[H7540]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.ra.ke.Dah <small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963H\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a whip  |**<big>&#8207;[[H7752\|שׁ֔וֹט]]&#8207; </big>**| Shot<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963A\|ק֖וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rattling of  |**<big>&#8207;[[H7494\|רַ֣עַשׁ]]&#8207; </big>**| Ra.'ash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wheel  |**<big>&#8207;[[H0212\|אוֹפָ֑ן]]&#8207; </big>**| 'o.Fan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a horse  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5483M\|ס֣וּס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sus<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| galloping  |**<big>&#8207;[[H1725\|דֹּהֵ֔ר]]&#8207; </big>**| do.Her<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a chariot  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4818\|מֶרְכָּבָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mer.ka.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jolting  |**<big>&#8207;[[H7540\|מְרַקֵּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.ra.ke.Dah<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.1|<< Nahum 3:1]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.3|Nahum 3:3 >>]]</td></tr></table>
 
 

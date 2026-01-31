@@ -7,28 +7,28 @@ And if ye shall despise my statutes, or if your soul abhor my judgments, so that
 and if you reject My statutes, despise My ordinances, and neglect to carry out all My commandments, and so break My covenant,<small><sub>**MT:**</sub></small>
 [[Lev.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.14|<< Leviticus 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.16|Leviticus 26:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| should resist | <big><span class="asgreek">απειθήσητε</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my judgments | <big><span class="asgreek">κρίμασί</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should loathe | <big><span class="asgreek">προσοχθίση</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in your soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as for | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| observe | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as for | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| you to efface | <big><span class="asgreek">διασκεδάσαι</span></big> <sup><small><small>[[G6876]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| should resist | **<big>[[G0544\|απειθήσητε]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my judgments | **<big>[[G2917\|κρίμασί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you should loathe | **<big>[[G4360\|προσοχθίση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| in your soul, | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| so as for | **<big>[[G5620\|ώστε]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| observe | **<big>[[G4160\|ποιείν]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| so as for | **<big>[[G5620\|ώστε]]</big>** |
+| you to efface | **<big>[[G6876\|διασκεδάσαι]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Lev.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.14|<< Leviticus 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.16|Leviticus 26:16 >>]]</td></tr></table>
 
 

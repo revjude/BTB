@@ -7,37 +7,37 @@ But he himself turned again from the quarries that [were] by Gilgal, and said, I
 But upon reaching the idols near Gilgal, he himself turned back and said, “I have a secret message for you, O king.” “Silence,” said the king, and all his attendants left him.<small><sub>**MT:**</sub></small>
 [[Judg.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.18|<< Judges 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.20|Judges 3:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">υπέστρεψεν</span></big> <sup><small><small>[[G5290]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτών</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| by | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilgal. | <big><span class="asgreek">Γαλγάλ</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ehud said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[There is\] with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a secret | <big><span class="asgreek">κρυφίος</span></big> <sup><small><small>[[G8107]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king. | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eglon said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εγλών</span></big> <sup><small><small>[[H5700]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Be silent! | <big><span class="asgreek">σιώπα</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing around | <big><span class="asgreek">παρεστηκότες</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G5290\|υπέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτών]]</big>** |
+| by | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Gilgal. | **<big>[[H1537\|Γαλγάλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ehud said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0161\|Αώδ]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| \[There is\] with me | **<big>[[G1473\|μοι]]</big>** |
+| a secret | **<big>[[G8107\|κρυφίος]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O king. | **<big>[[G0935\|βασιλεύ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Eglon said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H5700\|Εγλών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Be silent! | **<big>[[G4623\|σιώπα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| him | **<big>[[G1438\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| standing around | **<big>[[G3936\|παρεστηκότες]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Judg.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.18|<< Judges 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.20|Judges 3:20 >>]]</td></tr></table>
 
 

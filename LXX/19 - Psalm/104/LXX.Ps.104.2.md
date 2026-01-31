@@ -7,17 +7,17 @@ Who coverest [thyself] with light as [with] a garment: who stretchest out the he
 He wraps Himself in light as with a garment; He stretches out the heavens like a tent,<small><sub>**MT:**</sub></small>
 [[Ps.104.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.1|<< Psalm 104:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.3|Psalm 104:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| cloaking on | <big><span class="asgreek">αναβαλλόμενος</span></big> <sup><small><small>[[G0306]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a garment; | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| stretching out | <big><span class="asgreek">εκτείνων</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a hide covering; | <big><span class="asgreek">δέρριν</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
+| cloaking on | **<big>[[G0306\|αναβαλλόμενος]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a garment; | **<big>[[G2440\|ιμάτιον]]</big>** |
+| stretching out | **<big>[[G1614\|εκτείνων]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a hide covering; | **<big>[[G6801\|δέρριν]]</big>** |
 [[Ps.104.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.1|<< Psalm 104:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.3|Psalm 104:3 >>]]</td></tr></table>
 
 

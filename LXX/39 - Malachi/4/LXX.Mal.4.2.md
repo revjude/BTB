@@ -11,31 +11,31 @@ But unto you that fear my name shall the Sun of righteousness arise with healing
 > $\quad$ referenced by: [[Luke.1.78|Luke 1:78]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένοις</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall arise | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| of righteousness, | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wings; | <big><span class="asgreek">πτέρυξιν</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall come forth | <big><span class="asgreek">εξελεύσεσθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall leap | <big><span class="asgreek">σκιρτήσετε</span></big> <sup><small><small>[[G4640]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| young calves | <big><span class="asgreek">μοσχάρια</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| bonds | <big><span class="asgreek">δεσμών</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| being spared | <big><span class="asgreek">ανειμένα</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| O ones | **<big>[[G3588\|τοις]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall arise | **<big>[[G0393\|ανατελεί]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| of righteousness, | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| healing | **<big>[[G2392\|ίασις]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his wings; | **<big>[[G4420\|πτέρυξιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall come forth | **<big>[[G1831\|εξελεύσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall leap | **<big>[[G4640\|σκιρτήσετε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| young calves | **<big>[[G8349\|μοσχάρια]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| bonds | **<big>[[G1199\|δεσμών]]</big>** |
+| being spared | **<big>[[G0447\|ανειμένα]]</big>** |
 [[Mal.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
 
 

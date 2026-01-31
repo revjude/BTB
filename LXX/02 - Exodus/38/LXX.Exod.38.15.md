@@ -7,31 +7,31 @@ And for the other side of the court gate, on this hand and that hand, [were] han
 And the curtains on the other side were also fifteen cubits long, with three posts and three bases as well.<small><sub>**MT:**</sub></small>
 [[Exod.38.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.14|<< Exodus 38:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.16|Exodus 38:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρου</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| on this side and that side | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard -- | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| curtains | <big><span class="asgreek">αυλαίαι</span></big> <sup><small><small>[[G6602]]</small></small></sup> |
-| of fifteen | <big><span class="asgreek">πεντεκαίδεκα</span></big> <sup><small><small>[[G8699]]</small></small></sup> |
-| cubits, | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their posts -- | <big><span class="asgreek">στύλοι</span></big> <sup><small><small>[[G4769]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three, | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bases -- | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three. | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| back | **<big>[[G3577\|νώτου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| second | **<big>[[G1208\|δευτέρου]]</big>** |
+| on this side and that side | **<big>[[G6033\|ένθεν]]</big>** **<big>[[G2532\|και]]</big>** **<big>[[G6033\|ένθεν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate | **<big>[[G4439\|πύλην]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard -- | **<big>[[G0833\|αυλής]]</big>** |
+| curtains | **<big>[[G6602\|αυλαίαι]]</big>** |
+| of fifteen | **<big>[[G8699\|πεντεκαίδεκα]]</big>** |
+| cubits, | **<big>[[G4083\|πηχέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their posts -- | **<big>[[G4769\|στύλοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| three, | **<big>[[G5140\|τρεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their bases -- | **<big>[[G0939\|βάσεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| three. | **<big>[[G5140\|τρεις]]</big>** |
 [[Exod.38.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.14|<< Exodus 38:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.16|Exodus 38:16 >>]]</td></tr></table>
 
 

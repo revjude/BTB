@@ -1,5 +1,3 @@
-<span class="ashebrew">‎רוּת‎</span> <small>***(rut)***</small> ==**Ruth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A woman of the Moabites living before Israel's Monarchy, first mentioned at [[Ruth.1.4|Rut.1.4]] married to Mahlon ([[H4248]]) and Boaz ([[H1162]])
--  mother of: Obed ([[H5744]])
-- Also named: <i>Rhouth</i> (<span class='asgreek'>Ῥούθ</span> "Ruth" [[G4503]])
-
+- A woman of the Moabites living before Israel's Monarchy, first mentioned at [[Ruth.1.4|Rut.1.4]] married to Mahlon (**<big>[[H4248|מַחְלוֹן]]</big>**) and Boaz (**<big>[[H1162|בֹּעַז]]</big>**)
+-  mother of: Obed (**<big>[[H5744|עוֹבֵד]]</big>**)
+- Also named: <i>Rhouth</i> (<span class='asgreek'>Ῥούθ</span> "Ruth" **<big>[[G4503|Ῥούθ]]</big>**)

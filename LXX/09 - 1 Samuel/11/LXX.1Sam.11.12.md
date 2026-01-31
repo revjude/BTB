@@ -7,27 +7,27 @@ And the people said unto Samuel, Who [is] he that said, Shall Saul reign over us
 Then the people said to Samuel, “Who said that Saul should not reign over us? Bring those men here so we can kill them!”<small><sub>**MT:**</sub></small>
 [[1Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.11|<< 1 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.13|1 Samuel 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samuel, | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">ειπών</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| reign | <big><span class="asgreek">βασιλεύσει</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Deliver up | <big><span class="asgreek">παράδος</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men! | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will kill them. | <big><span class="asgreek">θανατώσομεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samuel, | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Who \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| saying, | **<big>[[G2036\|ειπών]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| reign | **<big>[[G0936\|βασιλεύσει]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| us? | **<big>[[G1473\|ημάς]]</big>** |
+| Deliver up | **<big>[[G3860\|παράδος]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men! | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will kill them. | **<big>[[G2289\|θανατώσομεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[1Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.11|<< 1 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.13|1 Samuel 11:13 >>]]</td></tr></table>
 
 

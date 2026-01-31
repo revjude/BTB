@@ -7,23 +7,23 @@ There shall the fire devour thee; the sword shall cut thee off, it shall eat the
 There the fire will devour you; the sword will cut you down and consume you like a young locust. Make yourself many like the young locust; make yourself many like the swarming locust!<small><sub>**MT:**</sub></small>
 [[Nah.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.14|<< Nahum 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.16|Nahum 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">καταφάγεταί</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| shall utterly destroy | <big><span class="asgreek">εξολοθρεύσει</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| it shall devour | <big><span class="asgreek">καταφάγεταί</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a locust, | <big><span class="asgreek">ακρίς</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be oppressed | <big><span class="asgreek">βαρυνθήση</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a grasshopper. | <big><span class="asgreek">βρούχος</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
+| There | **<big>[[G1563\|εκεί]]</big>** |
+| shall devour | **<big>[[G2719\|καταφάγεταί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] fire | **<big>[[G4442\|πυρ]]</big>** |
+| shall utterly destroy | **<big>[[G1842\|εξολοθρεύσει]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| it shall devour | **<big>[[G2719\|καταφάγεταί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a locust, | **<big>[[G0200\|ακρίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be oppressed | **<big>[[G0925\|βαρυνθήση]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a grasshopper. | **<big>[[G6700\|βρούχος]]</big>** |
 [[Nah.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.14|<< Nahum 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.16|Nahum 3:16 >>]]</td></tr></table>
 
 

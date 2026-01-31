@@ -6,15 +6,15 @@ A fool vents all his anger, but a wise man holds it back.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.10|<< Proverbs 29:10]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.12|Proverbs 29:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spirit his  | <span class="ashebrew"><big>ר֭וּח </big></span><small><small><sup>[[H7307J]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ru.ch <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sends forth  | <span class="ashebrew"><big>יוֹצִ֣יא </big></span><small><small><sup>[[H3318O]]</sup></small></small> &#8207;| yo.Tzi' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fool  | <span class="ashebrew"><big>כְסִ֑יל </big></span><small><small><sup>[[H3684]]</sup></small></small> &#8207;| khe.Sil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a wise [person]  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָכָ֗ם </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in backwards  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָח֥וֹר </big></span><small><small><sup>[[H0268]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.Chor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he calms it  | <span class="ashebrew"><big>יְשַׁבְּחֶֽ </big></span><small><small><sup>[[H7623A]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.shab.be.Che. <small><sup>[[HVpi3ms]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spirit his  |**<big>&#8207;[[H7307J\|ר֭וּח]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ru.ch<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sends forth  |**<big>&#8207;[[H3318O\|יוֹצִ֣יא]]&#8207; </big>**| yo.Tzi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  |**<big>&#8207;[[H3684\|כְסִ֑יל]]&#8207; </big>**| khe.Sil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a wise [person]  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H2450\|חָכָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in backwards  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0268\|אָח֥וֹר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he calms it  |**<big>&#8207;[[H7623A\|יְשַׁבְּחֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.shab.be.Che.<small><sup>[[HVpi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.10|<< Proverbs 29:10]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.12|Proverbs 29:12 >>]]</td></tr></table>
 
 

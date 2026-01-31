@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָוָה‎</span></big> **tsâvâh** <small>*(tsaw-vaw')*</small> ==**to command**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָוָה‎</span></big>** **tsâvâh** <small>*(tsaw-vaw')*</small> ==**to command**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, (for-) bid, (give a) charge, (give a, give in, send with) command(-er, -ment), send a messenger, put, (set) in order.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1a7)** to charge, commission
 $\quad$ $\quad$ **1a8)** to command, appoint, ordain (of divine act)
 $\quad$ **1b)** (Pual) to be commanded
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποστέλλω</span><sup><small>[[G0649]]</small></sup> · <span class="asgreek">διατίθεμαι</span><sup><small>[[G1303]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">ἐκφέρω</span><sup><small>[[G1627]]</small></sup> · <span class="asgreek">ἐνθυμέομαι</span><sup><small>[[G1760]]</small></sup> · <span class="asgreek">ἐντέλλομαι</span><sup><small>[[G1781]]</small></sup> · <span class="asgreek">ἐπιτάσσω</span><sup><small>[[G2004]]</small></sup> · <span class="asgreek">καθίστημι</span><sup><small>[[G2525]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">προστάσσω</span><sup><small>[[G4367]]</small></sup> · <span class="asgreek">συνιστάω</span><sup><small>[[G4921]]</small></sup> · <span class="asgreek">συντάσσω</span><sup><small>[[G4929]]</small></sup> · <span class="asgreek">τάσσω</span><sup><small>[[G5021]]</small></sup> · <span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0649|ἀποστέλλω]]</big>** · **<big>[[G1303|διατίθεμαι]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G1627|ἐκφέρω]]</big>** · **<big>[[G1760|ἐνθυμέομαι]]</big>** · **<big>[[G1781|ἐντέλλομαι]]</big>** · **<big>[[G2004|ἐπιτάσσω]]</big>** · **<big>[[G2525|καθίστημι]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G4367|προστάσσω]]</big>** · **<big>[[G4921|συνιστάω]]</big>** · **<big>[[G4929|συντάσσω]]</big>** · **<big>[[G5021|τάσσω]]</big>** · **<big>[[G5087|τίθημι]]</big>**

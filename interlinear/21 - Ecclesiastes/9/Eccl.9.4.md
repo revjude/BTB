@@ -6,27 +6,27 @@ There is hope, however, for anyone who is among the living; for even a live dog 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.3|<< Ecclesiastes 9:3]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.5|Ecclesiastes 9:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִי֙ </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is [the] one] who  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is united  [^1] | <span class="ashebrew"><big>יְחֻבַּ֔ר </big></span><small><small><sup>[[H2266]]</sup></small></small> &#8207;[^2] | yi.ba.cher <small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| to  | <span class="ashebrew"><big>אֶ֥ל </big></span><small><small><sup>[[H0413]]</sup></small></small> &#8207;| 'el <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the living  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חַיִּ֖ים </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> chai.Yim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>יֵ֣שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] hope  | <span class="ashebrew"><big>בִּטָּח֑וֹן </big></span><small><small><sup>[[H0986]]</sup></small></small> &#8207;| bi.ta.Chon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a dog  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֤לֶב </big></span><small><small><sup>[[H3611]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Khe.lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| living  | <span class="ashebrew"><big>חַי֙ </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] good  | <span class="ashebrew"><big>ט֔וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the lion  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אַרְיֵ֖ה </big></span><small><small><sup>[[H0738B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'ar.Yeh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> dead  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֵּֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Met <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִי֙]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is [the] one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is united  [^1]|**<big>&#8207;[[H2266\|יְחֻבַּ֔ר]]&#8207; </big>**[^2] | yi.ba.cher<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶ֥ל]]&#8207; </big>**| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the living  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2416A\|חַיִּ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] hope  |**<big>&#8207;[[H0986\|בִּטָּח֑וֹן]]&#8207; </big>**| bi.ta.Chon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a dog  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3611\|כֶ֤לֶב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khe.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  |**<big>&#8207;[[H2416A\|חַי֙]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֔וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the lion  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0738B\|אַרְיֵ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> dead  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.3|<< Ecclesiastes 9:3]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.5|Ecclesiastes 9:5 >>]]</td></tr></table>
 
-[^1]: ==K==: **he is chosen ** | <small><sup>[[H0977]]</sup></small> <span class="ashebrew"><big>יִבָּחֵר</big></span>  | yi.ba.cher<small><sup>[[HVPi3ms]]</sup></small> 
+[^1]: ==K==: he is chosen  | **<big>[[H0977|יִבָּחֵר]]</big> ** | yi.ba.cher<small><sup>[[HVPi3ms]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>יְבֻחַ֔ר</big></span>**
 

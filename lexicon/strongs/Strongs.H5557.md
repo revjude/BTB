@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָלַף‎</span></big> **çâlaph** <small>*(saw-laf')*</small> ==**to pervert**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָלַף‎</span></big>** **çâlaph** <small>*(saw-laf')*</small> ==**to pervert**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ overthrow, pervert.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Piel)
 $\quad$ $\quad$ **1a1)** to pervert (of bribery)
 $\quad$ $\quad$ **1a2)** to subvert, turn upside down, ruin
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">λυμαίνομαι</span><sup><small>[[G3075]]</small></sup> · <span class="asgreek">φαῦλος</span><sup><small>[[G5337]]</small></sup>
+<small>See Greek: </small>**<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G3075|λυμαίνομαι]]</big>** · **<big>[[G5337|φαῦλος]]</big>**

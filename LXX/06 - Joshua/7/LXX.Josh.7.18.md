@@ -7,26 +7,26 @@ And he brought his household man by man; and Achan, the son of Carmi, the son of
 And he had the family of Zabdi come forward man by man, and Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected.<small><sub>**MT:**</sub></small>
 [[Josh.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.17|<< Joshua 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.19|Joshua 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led forward | <big><span class="asgreek">προσήχθη</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was made manifest | <big><span class="asgreek">ανεδείχθη</span></big> <sup><small><small>[[G0322]]</small></small></sup> |
-| Achan | <big><span class="asgreek">Άχαρ</span></big> <sup><small><small>[[H5912]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Carmi, | <big><span class="asgreek">Χαρμί</span></big> <sup><small><small>[[H3756]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zabdi, | <big><span class="asgreek">Ζαβδί</span></big> <sup><small><small>[[H2067]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zerah | <big><span class="asgreek">Ζαρά</span></big> <sup><small><small>[[G2196]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led forward | **<big>[[G4317\|προσήχθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his house | **<big>[[G3624\|οίκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| man, | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was made manifest | **<big>[[G0322\|ανεδείχθη]]</big>** |
+| Achan | **<big>[[H5912\|Άχαρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Carmi, | **<big>[[H3756\|Χαρμί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Zabdi, | **<big>[[H2067\|Ζαβδί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Zerah | **<big>[[G2196\|Ζαρά]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[Josh.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.17|<< Joshua 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.19|Joshua 7:19 >>]]</td></tr></table>
 
 

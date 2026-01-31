@@ -7,24 +7,24 @@ If he will contend with him, he cannot answer him one of a thousand.
 If one wished to contend with God, he could not answer Him one time out of a thousand.<small><sub>**MT:**</sub></small>
 [[Job.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he should want | <big><span class="asgreek">βούληται</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to enter into judgment | <big><span class="asgreek">κριθήναι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| with him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall \[God\] obey | <big><span class="asgreek">υπακούση</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[so\] that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| contradict | <big><span class="asgreek">αντείπη</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a thousand. | <big><span class="asgreek">χιλιών</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| For if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he should want | **<big>[[G1014\|βούληται]]</big>** |
+| to enter into judgment | **<big>[[G2919\|κριθήναι]]</big>** |
+| with him, | **<big>[[G1473\|αυτώ]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall \[God\] obey | **<big>[[G5219\|υπακούση]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| \[so\] that | **<big>[[G2443\|ίνα]]</big>** |
+| he shall not | **<big>[[G3361\|μη]]</big>** |
+| contradict | **<big>[[G0471\|αντείπη]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of his | **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| a thousand. | **<big>[[G5507\|χιλιών]]</big>** |
 [[Job.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
 
 

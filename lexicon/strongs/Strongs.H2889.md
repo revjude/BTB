@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טָהוֹר‎</span></big> **ṭâhôwr** <small>*(taw-hore')*</small> ==**pure**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">טָהֹר</span> **ṭâhôr** <small>*(taw-hore')*</small>; from <span class="ashebrew">‎טָהֵר‎</span><sup><small>[[H2891]]</small></sup></small>
+**<big><span class="ashebrew">‎טָהוֹר‎</span></big>** **ṭâhôwr** <small>*(taw-hore')*</small> ==**pure**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">טָהֹר</span></big>** **ṭâhôr** <small>*(taw-hore')*</small>; from **<big>[[H2891|‎טָהֵר‎]]</big>**</small>
 
 $\quad$ clean, fair, pure(-ness).
 - ***pure*** (in a physical, chemical, ceremonial or moral sense)
@@ -9,4 +9,4 @@ $\quad$ **1a)** clean (ceremonially-of animals)
 $\quad$ **1b)** pure (physically)
 $\quad$ **1c)** pure, clean (morally, ethically)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἁγνός</span><sup><small>[[G0053]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δόκιμος</span><sup><small>[[G1384]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">ὅσιος</span><sup><small>[[G3741]]</small></sup>
+<small>See Greek: </small>**<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0053|ἁγνός]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1384|δόκιμος]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G3741|ὅσιος]]</big>**

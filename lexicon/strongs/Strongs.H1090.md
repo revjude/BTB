@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּלְהָה‎</span></big> **Bilhâh** <small>*(bil-haw')*</small> ==**Bilhah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּלַהּ‎</span><sup><small>[[H1089]]</small></sup>; timid</small>
+**<big><span class="ashebrew">‎בִּלְהָה‎</span></big>** **Bilhâh** <small>*(bil-haw')*</small> ==**Bilhah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H1089|‎בָּלַהּ‎]]</big>**; timid</small>
 
 $\quad$ Bilhah.
 - § Bilhah = *"troubled"*

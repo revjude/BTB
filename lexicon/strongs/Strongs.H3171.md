@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְחִיאֵל‎</span></big> **Yᵉchîyʼêl** <small>*(yekh-ee-ale')*</small> ==**Jehiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (2 Chronicles 29:14) <span class="ashebrew">יְחַוְאֵל</span> **Yᵉchavʼêl** <small>*(yekh-av-ale')*</small>; from <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will live</small>
+**<big><span class="ashebrew">‎יְחִיאֵל‎</span></big>** **Yᵉchîyʼêl** <small>*(yekh-ee-ale')*</small> ==**Jehiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (2 Chronicles 29:14) **<big><span class="ashebrew">יְחַוְאֵל</span></big>** **Yᵉchavʼêl** <small>*(yekh-av-ale')*</small>; from **<big>[[H2421|‎חָיָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will live</small>
 
 $\quad$ Jehiel.
 - § Jehiel = *"God lives"*

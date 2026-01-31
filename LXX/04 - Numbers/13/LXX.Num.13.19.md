@@ -7,38 +7,38 @@ And what the land [is] that they dwell in, whether it [be] good or bad; and what
 Is the land where they live good or bad? Are the cities where they dwell open camps or fortifications?<small><sub>**MT:**</sub></small>
 [[Num.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.18|<< Numbers 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.20|Numbers 13:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land \[is like\] | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| lie in wait | <big><span class="asgreek">εγκάθηνται</span></big> <sup><small><small>[[G7002]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it is good, | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| wicked; | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τίνες</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικούσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| walled | <big><span class="asgreek">τειχήρεσιν</span></big> <sup><small><small>[[G9408]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| unwalled. | <big><span class="asgreek">ατειχίστοις</span></big> <sup><small><small>[[G6587]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land \[is like\] | **<big>[[G1093\|γη]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| lie in wait | **<big>[[G7002\|εγκάθηνται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| it is good, | **<big>[[G2570\|καλή]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| wicked; | **<big>[[G4190\|πονηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τίνες]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| dwell | **<big>[[G2730\|κατοικούσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυταίς]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| walled | **<big>[[G9408\|τειχήρεσιν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| unwalled. | **<big>[[G6587\|ατειχίστοις]]</big>** |
 [[Num.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.18|<< Numbers 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.20|Numbers 13:20 >>]]</td></tr></table>
 
 

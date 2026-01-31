@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎נֶבְרְשָׁא‎</span></big> **nebrᵉshâʼ** <small>*(neb-reh-shaw')*</small> ==**lampstand**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+**<big><span class="asaramaic">‎נֶבְרְשָׁא‎</span></big>** **nebrᵉshâʼ** <small>*(neb-reh-shaw')*</small> ==**lampstand**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
 <small>(Aramaic) from an unused root meaning to shine</small>
 
 $\quad$ candlestick.
@@ -8,4 +8,4 @@ $\quad$ candlestick.
 **1)** lamp stand, candlestick
 $\quad$ **1a)** not the 7 branch candlestick of the temple
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λαμπάς</span><sup><small>[[G2985]]</small></sup> · <span class="asgreek">φῶς</span><sup><small>[[G5457]]</small></sup>
+<small>See Greek: </small>**<big>[[G2985|λαμπάς]]</big>** · **<big>[[G5457|φῶς]]</big>**

@@ -7,37 +7,37 @@ Then said the king to Ittai the Gittite, Wherefore goest thou also with us? retu
 Then the king said to Ittai the Gittite, “Why should you also go with us? Go back and stay with the new king, since you are both a foreigner and an exile from your homeland.<small><sub>**MT:**</sub></small>
 [[2Sam.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.18|<< 2 Samuel 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.20|2 Samuel 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Ittai | <big><span class="asgreek">Εθί</span></big> <sup><small><small>[[H0863]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gittite, | <big><span class="asgreek">Γεθαίον</span></big> <sup><small><small>[[H1663]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| should you go | <big><span class="asgreek">πορεύη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yourself | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Return | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| live | <big><span class="asgreek">οίκει</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king! | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are an alien | <big><span class="asgreek">αλλότριος</span></big> <sup><small><small>[[G0245]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are displaced | <big><span class="asgreek">μετώκισας</span></big> <sup><small><small>[[G8309]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your place. | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Ittai | **<big>[[H0863\|Εθί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Gittite, | **<big>[[H1663\|Γεθαίον]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| should you go | **<big>[[G4198\|πορεύη]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| yourself | **<big>[[G1473\|συ]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us? | **<big>[[G1473\|ημών]]</big>** |
+| Return | **<big>[[G1994\|επίστρεφε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| live | **<big>[[G3611\|οίκει]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king! | **<big>[[G0935\|βασιλέως]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you are an alien | **<big>[[G0245\|αλλότριος]]</big>** **<big>[[G1510\|ει]]</big>** |
+| yourself, | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| you are displaced | **<big>[[G8309\|μετώκισας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your place. | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[2Sam.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.18|<< 2 Samuel 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.20|2 Samuel 15:20 >>]]</td></tr></table>
 
 

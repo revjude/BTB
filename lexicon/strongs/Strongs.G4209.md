@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎πορφύρα‎</span></big> **porphýra** <small>*(por-foo'-rah)*</small> ==**purple cloth**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+**<big><span class="asgreek">‎πορφύρα‎</span></big>** **porphýra** <small>*(por-foo'-rah)*</small> ==**purple cloth**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
 <small>of Latin origin</small>
 
 $\quad$ purple.

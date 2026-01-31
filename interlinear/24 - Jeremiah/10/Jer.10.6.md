@@ -10,16 +10,16 @@ There is none like You, O LORD. You are great, and Your name is mighty in power.
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3-4]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from there not  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] like you  | <span class="ashebrew"><big>כָּמ֖וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ka.Mo. <small><sup>[[HRd]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] great  | <span class="ashebrew"><big>גָּד֥וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֛ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] great  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גָד֥וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שִׁמְ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| shim. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in strength  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גְבוּרָֽה </big></span><small><small><sup>[[H1369]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> g.vu.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there not  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like you  |**<big>&#8207;[[H3644G\|כָּמ֖וֹ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ka.Mo.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] great  |**<big>&#8207;[[H1419A\|גָּד֥וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1419A\|גָד֥וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in strength  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1369\|גְבוּרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.vu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.5|<< Jeremiah 10:5]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.7|Jeremiah 10:7 >>]]</td></tr></table>
 
 

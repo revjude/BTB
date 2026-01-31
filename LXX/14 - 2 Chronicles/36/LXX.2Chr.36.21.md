@@ -7,33 +7,33 @@ To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjo
 So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah.<small><sub>**MT:**</sub></small>
 [[2Chr.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to fulfill | <big><span class="asgreek">πληρωθήναι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of Jeremiah, | <big><span class="asgreek">Ιερεμίου</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| favorably receives | <big><span class="asgreek">προσδέξασθαι</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its Sabbaths; | <big><span class="asgreek">σάββατα</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by observing the Sabbath | <big><span class="asgreek">σαββατίσαι</span></big> <sup><small><small>[[G9043]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its desolation, | <big><span class="asgreek">ερημώσεως</span></big> <sup><small><small>[[G2050]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to observe the Sabbath | <big><span class="asgreek">εσαββάτισεν</span></big> <sup><small><small>[[G9043]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] fulfillment | <big><span class="asgreek">συμπλήρωσιν</span></big> <sup><small><small>[[G9276]]</small></small></sup> |
-| years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to fulfill | **<big>[[G4137\|πληρωθήναι]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of Jeremiah, | **<big>[[G2408\|Ιερεμίου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| favorably receives | **<big>[[G4327\|προσδέξασθαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its Sabbaths; | **<big>[[G4521\|σάββατα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| by observing the Sabbath | **<big>[[G9043\|σαββατίσαι]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of its desolation, | **<big>[[G2050\|ερημώσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to observe the Sabbath | **<big>[[G9043\|εσαββάτισεν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] fulfillment | **<big>[[G9276\|συμπλήρωσιν]]</big>** |
+| years | **<big>[[G2094\|ετών]]</big>** |
+| of seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
 [[2Chr.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
 

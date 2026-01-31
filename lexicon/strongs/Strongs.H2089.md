@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֶה‎</span></big> **zeh** <small>*(zeh)*</small> ==**lamb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>(1 Samuel by permutation for <span class="ashebrew">‎שֶׂה‎</span><sup><small>[[H7716]]</small></sup></small>
+**<big><span class="ashebrew">‎זֶה‎</span></big>** **zeh** <small>*(zeh)*</small> ==**lamb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>(1 Samuel by permutation for **<big>[[H7716|‎שֶׂה‎]]</big>**</small>
 
 $\quad$ lamb.
 - ***a sheep***

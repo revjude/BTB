@@ -7,37 +7,37 @@ And I said, Let them set a fair mitre upon his head. So they set a fair mitre up
 Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by.<small><sub>**MT:**</sub></small>
 [[Zech.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.4|<< Zechariah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.6|Zechariah 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">ανδ</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Place | <big><span class="asgreek">επίθετε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a mitre | <big><span class="asgreek">μίτραν</span></big> <sup><small><small>[[G8333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turban | <big><span class="asgreek">κίδαριν</span></big> <sup><small><small>[[G8010]]</small></small></sup> |
-| a clean | <big><span class="asgreek">καθαράν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head! | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| a mitre | <big><span class="asgreek">μίτραν</span></big> <sup><small><small>[[G8333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turban | <big><span class="asgreek">κίδαριν</span></big> <sup><small><small>[[G8010]]</small></small></sup> |
-| a clean | <big><span class="asgreek">καθαράν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| around | <big><span class="asgreek">περιέβαλον</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| stood. | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| And | **<big>[[G2532\|ανδ]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Place | **<big>[[G2007\|επίθετε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| a mitre | **<big>[[G8333\|μίτραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turban | **<big>[[G8010\|κίδαριν]]</big>** |
+| a clean | **<big>[[G2513\|καθαράν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head! | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they placed | **<big>[[G2007\|επέθηκαν]]</big>** |
+| a mitre | **<big>[[G8333\|μίτραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turban | **<big>[[G8010\|κίδαριν]]</big>** |
+| a clean | **<big>[[G2513\|καθαράν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| around | **<big>[[G4016\|περιέβαλον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| garments | **<big>[[G2440\|ιμάτια]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| stood. | **<big>[[G2476\|ειστήκει]]</big>** |
 [[Zech.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.4|<< Zechariah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.6|Zechariah 3:6 >>]]</td></tr></table>
 
 

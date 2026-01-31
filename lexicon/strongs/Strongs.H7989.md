@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁלִּיט‎</span></big> **shallîyṭ** <small>*(shal-leet')*</small> ==**domineering**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַט‎</span><sup><small>[[H7980]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁלִּיט‎</span></big>** **shallîyṭ** <small>*(shal-leet')*</small> ==**domineering**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H7980|‎שָׁלַט‎]]</big>**</small>
 
 $\quad$ governor, mighty, that hath power, ruler.
 - ***potent***
@@ -10,4 +10,4 @@ $\quad$ **1a)** having mastery
 $\quad$ $\quad$ **1a1)** ruler (subst)
 $\quad$ **1b)** domineering, imperious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">ἐξουσία</span><sup><small>[[G1849]]</small></sup> · <span class="asgreek">κύριος</span><sup><small>[[G2962]]</small></sup>
+<small>See Greek: </small>**<big>[[G1413|δυνάστης]]</big>** · **<big>[[G1849|ἐξουσία]]</big>** · **<big>[[G2962|κύριος]]</big>**

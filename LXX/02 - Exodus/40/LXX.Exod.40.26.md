@@ -7,22 +7,22 @@ And he put the golden altar in the tent of the congregation before the vail:
 Moses placed the gold altar in the Tent of Meeting, in front of the veil,<small><sub>**MT:**</sub></small>
 [[Exod.40.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.25|<< Exodus 40:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.27|Exodus 40:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθηκε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| golden | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil. | <big><span class="asgreek">καταπετάσματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G5087\|έθηκε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| golden | **<big>[[G5552\|χρυσούν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| veil. | **<big>[[G2665\|καταπετάσματος]]</big>** |
 [[Exod.40.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.25|<< Exodus 40:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.27|Exodus 40:27 >>]]</td></tr></table>
 
 

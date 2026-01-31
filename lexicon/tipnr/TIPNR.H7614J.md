@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sheba</span>, also referred to as the South, was a kingdom known for its wealth, trade, and the visit of its queen to King Solomon \(1 Ki. 10:1-13; 2 Chr. 9:1-12; Ps. 72:10, 15; Isa. 60:6; Jer. 6:20; Ezek. 27:22-23; 38:13; [[Luke.11.31|Luke 11:31]]\).
 - A location first mentioned at [[1Kgs.10.1|1Ki.10.1]]; 
-- referred to as Sheba<[[H7614J]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>\), or South<[[G3558H]]> \(<span class='tipnrLangGreek'>νότος</span>\).
+- referred to as Sheba **<big>[[H7614|שְׁבָא]]</big>**, or South **<big>[[G3558|νότος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=9.022736,38.746799&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The kingdom of Sheba played a significant role in the trade networks of the anci
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sheba | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H7614J) <small>*Hebrew*</small> | 15x | [[1Ki.10.1] ... [Ezk.38.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=1Ki.10.1;1Ki.10.10;1Ki.10.13;2Ch.9.1;2Ch.9.3;2Ch.9.9;2Ch.9.12;Job.6.19;Psa.72.10;Psa.72.15;Isa.60.6;Jer.6.20;Ezk.27.22;Ezk.27.23;Ezk.38.13) |
-| South | [<span class='tipnrLangGreek'>νότος</span>](G3558H) <small>*Greek*</small> | 1x | [Luk.11.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=Luk.11.31) |
-All Strong's for **Sheba or South**: \[[[H7614J]]\] \[[[G3558H]]\]
+| Sheba | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H7614J) | 15x | [[1Ki.10.1] ... [Ezk.38.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=1Ki.10.1;1Ki.10.10;1Ki.10.13;2Ch.9.1;2Ch.9.3;2Ch.9.9;2Ch.9.12;Job.6.19;Psa.72.10;Psa.72.15;Isa.60.6;Jer.6.20;Ezk.27.22;Ezk.27.23;Ezk.38.13) |
+| South | [<span class='tipnrLangGreek'>νότος</span>](G3558H) | 1x | [Luk.11.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=Luk.11.31) |
+All entries for **Sheba or South**:  **<big>[[H7614|שְׁבָא]]</big>** ☩  **<big>[[G3558|νότος]]</big>**

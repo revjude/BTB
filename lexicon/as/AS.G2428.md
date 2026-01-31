@@ -2,7 +2,7 @@
 <span class="asitalic">of a suppliant</span>; as subst., <span class="asgreek">ἡ ἱ.</span> (sc. <span class="asgreek">ῥάβδος</span>),
 <span class="asbullet"><span class="asbold">1.</span> in cl., <span class="asitalic">an olive-branch</span>, carried by a suppliant.</span>
 <span class="asbullet"><span class="asbold">2.</span> In late Gk. = <span class="asgreek">ἱκεσία</span>, <span class="asitalic">supplication</span>: pl., <span class="asgreek">δεήσεις κ. ἱ.</span>, [[Heb.5.7|He 5:7]].</span>
-<span class="asre"><span class="asitalic">SYN.</span>: v.s. <span class="asgreek">δέησις</span> <small><sup>[[G1162]]</sup></small>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: v.s. **<big>[[G1162|δέησις]]</big>**. </span>
 
 **Abbott-Smith References**
 

@@ -131,7 +131,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.7.70|70]]**<span class="e
 
 [^49]: [[Josh.18|Josh 18:24-25]]; [[Ezra.2|Ezra 2:26]]
 
-[^50]: The variation between <span class="asgreek"><span class='asgreek'>ξλξωΡ</span></span> (<span class="ashebrew">‎מִכְמָס‎</span><sup><small>[[H4363]]</small></sup>), ***Michmash***, and <span class="asgreek"><span class='asgreek'>ξλξρ</span></span> (<span class="ashebrew">‎מִכְמָס‎</span><sup><small>[[H4363]]</small></sup>), ***Michmas***, arises from the mutation of <span class="asgreek"><span class='asgreek'>ωΡ</span></span>, ***sheen***, and <span class="asgreek"><span class='asgreek'>ρ</span></span>, ***samech***; though several manuscripts have the former reading here also. [[1Sam.13|1Sam 13:5]], [[1Sam.13|1Sam 13:23]]. [[Ezra.2|Ezra 2:27]], [[Isa.10|Isa 10:28]], Michmash.
+[^50]: The variation between <span class="asgreek"><span class='asgreek'>ξλξωΡ</span></span> ( [[H4363|‎מִכְמָס‎]] ), ***Michmash***, and <span class="asgreek"><span class='asgreek'>ξλξρ</span></span> ( [[H4363|‎מִכְמָס‎]] ), ***Michmas***, arises from the mutation of <span class="asgreek"><span class='asgreek'>ωΡ</span></span>, ***sheen***, and <span class="asgreek"><span class='asgreek'>ρ</span></span>, ***samech***; though several manuscripts have the former reading here also. [[1Sam.13|1Sam 13:5]], [[1Sam.13|1Sam 13:23]]. [[Ezra.2|Ezra 2:27]], [[Isa.10|Isa 10:28]], Michmash.
 
 [^51]: [[Josh.8|Josh 8:9]], [[Josh.8|Josh 8:17]]; [[Ezra.2|Ezra 2:28]]. 223
 
@@ -177,7 +177,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.7.70|70]]**<span class="e
 
 [^72]: This variation only exists in the translation; the original being uniformly Paseah. [[Ezra.2|Ezra 2:49]], Paseah
 
-[^73]: The first of these variations is attributable to the translation, the original being uniformly, <span class="asgreek"><span class='asgreek'>ξςεπιν</span></span> (<span class="ashebrew">‎מְעוּנִי‎</span><sup><small>[[H4586]]</small></sup>), ***Meunim***; and the latter arises from the mutation of, <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***, and, <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and insertion of, <span class="asgreek"><span class='asgreek'>ωΡ</span></span>, ***sheen***, though in the parallel passage the Kethiv is <span class="asgreek"><span class='asgreek'>πτιριν</span></span> (<span class="ashebrew">‎נְפִיסִים‎</span><sup><small>[[H5304]]</small></sup>), ***Nephisim***; and here the Keri and many manuscripts have <span class="asgreek"><span class='asgreek'>πτιωΡριν</span></span> (<span class="ashebrew">‎נְפוּשְׁסִים‎</span><sup><small>[[H5300]]</small></sup>), ***Nephishesim***. [[Ezra.2|Ezra 2:50]], Mehunim, Nephusim
+[^73]: The first of these variations is attributable to the translation, the original being uniformly, <span class="asgreek"><span class='asgreek'>ξςεπιν</span></span> ( [[H4586|‎מְעוּנִי‎]] ), ***Meunim***; and the latter arises from the mutation of, <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***, and, <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and insertion of, <span class="asgreek"><span class='asgreek'>ωΡ</span></span>, ***sheen***, though in the parallel passage the Kethiv is <span class="asgreek"><span class='asgreek'>πτιριν</span></span> ( [[H5304|‎נְפִיסִים‎]] ), ***Nephisim***; and here the Keri and many manuscripts have <span class="asgreek"><span class='asgreek'>πτιωΡριν</span></span> ( [[H5300|‎נְפוּשְׁסִים‎]] ), ***Nephishesim***. [[Ezra.2|Ezra 2:50]], Mehunim, Nephusim
 
 [^74]: Instead of Bazlith, many manuscripts and the LXX have Bazluth, as in the parallel place. [[Ezra.2|Ezra 2:52]], Bazluth
 
@@ -187,13 +187,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.7.70|70]]**<span class="e
 
 [^77]: Three manuscripts have Peruda, instead of Perida, as in Ezra. [[Ezra.2|Ezra 2:55]], Peruda
 
-[^78]: The variation of <span class="asgreek"><span class='asgreek'>ιςμδ</span></span> (<span class="ashebrew">‎יַעֲלָא‎</span><sup><small>[[H3279]]</small></sup>), ***Jaalah***, and <span class="asgreek"><span class='asgreek'>ιςμ</span>ΰ</span> (<span class="ashebrew">‎יַעֲלָא‎</span><sup><small>[[H3279]]</small></sup>), ***Jaala***, merely arises from the mutation of <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***, into ***ΰ***, ***aleph***, according to the Chaldee dialect. [[Ezra.2|Ezra 2:56]], Jaalah
+[^78]: The variation of <span class="asgreek"><span class='asgreek'>ιςμδ</span></span> ( [[H3279|‎יַעֲלָא‎]] ), ***Jaalah***, and <span class="asgreek"><span class='asgreek'>ιςμ</span>ΰ</span> ( [[H3279|‎יַעֲלָא‎]] ), ***Jaala***, merely arises from the mutation of <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***, into ***ΰ***, ***aleph***, according to the Chaldee dialect. [[Ezra.2|Ezra 2:56]], Jaalah
 
 [^79]: Instead of Amon, two of De Rossi's manuscripts have Amin, and the LXX have <span class="asgreek"><span class='asgreek'>Ημιμ</span></span>, Emim; which nearly approaches the Ami of Ezra. [[Ezra.2|Ezra 2:57]], Ami
 
 [^80]: [[Ezra.2|Ezra 2:58]]
 
-[^81]: The first of these variations only exists in the translation; the original being uniformly ***ϊ<span class='asgreek'>μ</span> <span class='asgreek'>ηψωΡ</span>ΰ*** (<span class="ashebrew">‎תֵּל חַרְשָׁא‎</span><sup><small>[[H8521]]</small></sup>), ***Tel̇harshà*** the latter simply arises from the insertion of a <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; being written ***ΰ<span class='asgreek'>γο</span>*** (<span class="ashebrew">‎אַדָּן‎</span><sup><small>[[H0135]]</small></sup>), ***Addan***, in the parallel passage, and ***ΰ<span class='asgreek'>γεο</span>*** (<span class="ashebrew">‎אַדּוֹן‎</span><sup><small>[[H0114]]</small></sup>), ***Addon***, here. [[Ezra.2|Ezra 2:59]], Tel–harsa, Addan
+[^81]: The first of these variations only exists in the translation; the original being uniformly ***ϊ<span class='asgreek'>μ</span> <span class='asgreek'>ηψωΡ</span>ΰ*** ( [[H8521|‎תֵּל חַרְשָׁא‎]] ), ***Tel̇harshà*** the latter simply arises from the insertion of a <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; being written ***ΰ<span class='asgreek'>γο</span>*** ( [[H0135|‎אַדָּן‎]] ), ***Addan***, in the parallel passage, and ***ΰ<span class='asgreek'>γεο</span>*** ( [[H0114|‎אַדּוֹן‎]] ), ***Addon***, here. [[Ezra.2|Ezra 2:59]], Tel–harsa, Addan
 
 [^82]: or, pedigree
 

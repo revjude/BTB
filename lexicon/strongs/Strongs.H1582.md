@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּמַלִּי‎</span></big> **Gᵉmallîy** <small>*(ghem-al-lee')*</small> ==**Gemalli**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎גָּמָל‎</span><sup><small>[[H1581]]</small></sup>; cameldriver</small>
+**<big><span class="ashebrew">‎גְּמַלִּי‎</span></big>** **Gᵉmallîy** <small>*(ghem-al-lee')*</small> ==**Gemalli**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H1581|‎גָּמָל‎]]</big>**; cameldriver</small>
 
 $\quad$ Gemalli.
 - § Gemalli = *"camel driver"*

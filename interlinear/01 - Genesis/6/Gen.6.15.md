@@ -6,23 +6,23 @@ And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.14|<< Genesis 6:14]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.16|Genesis 6:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and this  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זֶ֕ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] how  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will make  | <span class="ashebrew"><big>תַּֽעֲשֶׂ֖ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ta.'a.Seh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֑ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] three  | <span class="ashebrew"><big>שְׁלֹ֧שׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Losh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֣וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubit[s]  | <span class="ashebrew"><big>אַמָּ֗ה </big></span><small><small><sup>[[H0520A]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] length of  | <span class="ashebrew"><big>אֹ֚רֶךְ </big></span><small><small><sup>[[H0753]]</sup></small></small> &#8207;| 'O.rekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ark  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>תֵּבָ֔ה </big></span><small><small><sup>[[H8392]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> te.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֤ים </big></span><small><small><sup>[[H2572]]</sup></small></small> &#8207;| cha.mi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubit[s]  | <span class="ashebrew"><big>אַמָּה֙ </big></span><small><small><sup>[[H0520A]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| breadth its  | <span class="ashebrew"><big>רָחְבָּ֔ </big></span><small><small><sup>[[H7341]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ra.che.Ba <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [will be] thirty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹשִׁ֥ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubit[s]  | <span class="ashebrew"><big>אַמָּ֖ה </big></span><small><small><sup>[[H0520A]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| height its  | <span class="ashebrew"><big>קוֹמָתָֽ </big></span><small><small><sup>[[H6967]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ko.ma.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] how  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  |**<big>&#8207;[[H6213H\|תַּֽעֲשֶׂ֖ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֑]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] three  |**<big>&#8207;[[H7969\|שְׁלֹ֧שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֣וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּ֗ה]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] length of  |**<big>&#8207;[[H0753\|אֹ֚רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ark  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8392\|תֵּבָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֤ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּה֙]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breadth its  |**<big>&#8207;[[H7341\|רָחְבָּ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ra.che.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּ֖ה]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height its  |**<big>&#8207;[[H6967\|קוֹמָתָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ko.ma.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.14|<< Genesis 6:14]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.16|Genesis 6:16 >>]]</td></tr></table>
 
 

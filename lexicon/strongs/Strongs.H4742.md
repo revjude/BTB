@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְקֻצְעָה‎</span></big> **mᵉqutsʻâh** <small>*(mek-oots-aw')*</small> ==**corner**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָצַע‎</span><sup><small>[[H7106]]</small></sup> in the denominative sense of bending</small>
+**<big><span class="ashebrew">‎מְקֻצְעָה‎</span></big>** **mᵉqutsʻâh** <small>*(mek-oots-aw')*</small> ==**corner**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7106|‎קָצַע‎]]</big>** in the denominative sense of bending</small>
 
 $\quad$ corner.
 - ***an angle***

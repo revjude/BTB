@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחְלְאֵל‎</span></big> **Yachlᵉʼêl** <small>*(yakh-leh-ale')*</small> ==**Jahleel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָחַל‎</span><sup><small>[[H3176]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; expectant of God</small>
+**<big><span class="ashebrew">‎יַחְלְאֵל‎</span></big>** **Yachlᵉʼêl** <small>*(yakh-leh-ale')*</small> ==**Jahleel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3176|‎יָחַל‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; expectant of God</small>
 
 $\quad$ Jahleel.
 - § Jahleel = *"God waits"*

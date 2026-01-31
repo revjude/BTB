@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַזּוּר‎</span></big> **ʻAzzûwr** <small>*(az-zoor')*</small> ==**Azzur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עַזֻּר</span> **ʻAzzur** <small>*(az-zoor')*</small>; from <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup>; helpful</small>
+**<big><span class="ashebrew">‎עַזּוּר‎</span></big>** **ʻAzzûwr** <small>*(az-zoor')*</small> ==**Azzur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עַזֻּר</span></big>** **ʻAzzur** <small>*(az-zoor')*</small>; from **<big>[[H5826|‎עָזַר‎]]</big>**; helpful</small>
 
 $\quad$ Azur, Azzur.
 - § Azur or Azzur = *"he that assists"*
@@ -8,4 +8,4 @@ $\quad$ Azur, Azzur.
 **1)** a Benjamite of Gibeon, father of the false prophet Hananiah
 **2)** father of Jaazaniah, one of the princes against whom Ezekiel was commanded to prophecy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀζώρ</span><sup><small>[[G0107]]</small></sup>
+<small>See Greek: </small>**<big>[[G0107|Ἀζώρ]]</big>**

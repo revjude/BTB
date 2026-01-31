@@ -7,29 +7,29 @@ My covenant was with him of life and peace; and I gave them to him [for] the fea
 “My covenant with him was one of life and peace, which I gave to him; it called for reverence, and he revered Me and stood in awe of My name.<small><sub>**MT:**</sub></small>
 [[Mal.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.4|<< Malachi 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.6|Malachi 2:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My covenant | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of peace; | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβω</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| to fear | <big><span class="asgreek">φοβείσθαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of my name | <big><span class="asgreek">ονοματός</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to put him in readiness. | <big><span class="asgreek">στέλλεσθαι</span></big> <sup><small><small>[[G4724]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My covenant | **<big>[[G1242\|διαθήκη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| the one | **<big>[[G3588\|της]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of peace; | **<big>[[G1515\|ειρήνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| fear | **<big>[[G5401\|φόβω]]</big>** |
+| to fear | **<big>[[G5399\|φοβείσθαι]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] presence | **<big>[[G4383\|προσώπου]]</big>** |
+| of my name | **<big>[[G3686\|ονοματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to put him in readiness. | **<big>[[G4724\|στέλλεσθαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Mal.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.4|<< Malachi 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.6|Malachi 2:6 >>]]</td></tr></table>
 
 

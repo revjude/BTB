@@ -10,23 +10,23 @@ But when Pharaoh saw that there was respite, he hardened his heart, and hearkene
 When Pharaoh saw that there was relief, however, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.<small><sub>**MT:**</sub></small>
 [[Exod.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.14|<< Exodus 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.16|Exodus 8:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there came to pass | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a respite, | <big><span class="asgreek">ανάψυξις</span></big> <sup><small><small>[[G0403]]</small></small></sup> |
-| was weighed down | <big><span class="asgreek">εβαρύνθη</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[therefore\] his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">εισήκουσεν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδών]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there came to pass | **<big>[[G1096\|γέγονεν]]</big>** |
+| a respite, | **<big>[[G0403\|ανάψυξις]]</big>** |
+| was weighed down | **<big>[[G0925\|εβαρύνθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[therefore\] his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| hearken to | **<big>[[G1522\|εισήκουσεν]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said. | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
 [[Exod.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.14|<< Exodus 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.16|Exodus 8:16 >>]]</td></tr></table>
 
 

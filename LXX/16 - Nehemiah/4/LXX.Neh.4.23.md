@@ -7,37 +7,37 @@ So neither I, nor my brethren, nor my servants, nor the men of the guard which f
 So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water.<small><sub>**MT:**</sub></small>
 [[Neh.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.22|<< Nehemiah 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.1|Nehemiah 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was \[there\], | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my brethren, | <big><span class="asgreek">αδελφοί μου</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young men, | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| advance guard | <big><span class="asgreek">προφυλακής</span></big> <sup><small><small>[[G8955]]</small></small></sup> |
-| \[were\] behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being stripped | <big><span class="asgreek">εκδιδυσκόμενος</span></big> <sup><small><small>[[G7088]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his own garments; | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his weapons | <big><span class="asgreek">όπλον</span></big> <sup><small><small>[[G3696]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I was \[there\], | **<big>[[G1510\|ήμην]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my brethren, | **<big>[[G0080\|αδελφοί μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| young men, | **<big>[[G3808\|παιδάρια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| advance guard | **<big>[[G8955\|προφυλακής]]</big>** |
+| \[were\] behind | **<big>[[G3694\|οπίσω]]</big>** |
+| me; | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| being stripped | **<big>[[G7088\|εκδιδυσκόμενος]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of his own garments; | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1438\|εαυτού]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his weapons | **<big>[[G3696\|όπλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Neh.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.22|<< Nehemiah 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.1|Nehemiah 5:1 >>]]</td></tr></table>
 
 

@@ -6,27 +6,27 @@ Then the LORD sent Nathan to David, and when he arrived, he said, “There were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.27|<< 2 Samuel 11:27]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.2|2 Samuel 12:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he sent  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁלַ֧ח </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Lach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nathan  | <span class="ashebrew"><big>נָתָ֖ן </big></span><small><small><sup>[[H5416H]]</sup></small></small> &#8207;| na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֑ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֣א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָ֗י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֤אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>ל </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנֵ֣י </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Nei <small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men  | <span class="ashebrew"><big>אֲנָשִׁ֗ים </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'a.na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were  | <span class="ashebrew"><big>הָיוּ֙ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a city  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִ֣יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֔ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֥ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] rich  | <span class="ashebrew"><big>עָשִׁ֖יר </big></span><small><small><sup>[[H6223]]</sup></small></small> &#8207;| 'a.Shir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and one  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶחָ֥ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] poor  | <span class="ashebrew"><big>רָֽאשׁ </big></span><small><small><sup>[[H7326]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Rash <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֧ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nathan  |**<big>&#8207;[[H5416H\|נָתָ֖ן]]&#8207; </big>**| na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֑ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנֵ֣י]]&#8207; </big>**| she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֗ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  |**<big>&#8207;[[H1961\|הָיוּ֙]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a city  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֔ת]]&#8207; </big>**| 'e.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] rich  |**<big>&#8207;[[H6223\|עָשִׁ֖יר]]&#8207; </big>**| 'a.Shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] poor  |**<big>&#8207;[[H7326\|רָֽאשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.27|<< 2 Samuel 11:27]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.2|2 Samuel 12:2 >>]]</td></tr></table>
 
 

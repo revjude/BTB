@@ -7,24 +7,24 @@ But Balaam answered and said unto Balak, Told not I thee, saying, All that the L
 But Balaam replied, “Did I not tell you that whatever the LORD says, I must do?”<small><sub>**MT:**</sub></small>
 [[Num.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.25|<< Numbers 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.27|Numbers 23:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balaam answering | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Balak, | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| Did I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak | <big><span class="asgreek">ελάλησά</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| God should speak, | <big><span class="asgreek">λαλήση</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will do? | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balaam answering | **<big>[[G0611\|αποκριθείς]]</big>** **<big>[[G0903\|Βαλαάμ]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Balak, | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| Did I not | **<big>[[G3756\|ουκ]]</big>** |
+| speak | **<big>[[G2980\|ελάλησά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| God should speak, | **<big>[[G2980\|λαλήση]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I will do? | **<big>[[G4160\|ποιήσω]]</big>** |
 [[Num.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.25|<< Numbers 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.27|Numbers 23:27 >>]]</td></tr></table>
 
 

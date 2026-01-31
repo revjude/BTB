@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּלִי‎</span></big> **tᵉlîy** <small>*(tel-ee')*</small> ==**quiver**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎תָּלָה‎</span><sup><small>[[H8518]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּלִי‎</span></big>** **tᵉlîy** <small>*(tel-ee')*</small> ==**quiver**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H8518|‎תָּלָה‎]]</big>**</small>
 
 $\quad$ quiver.
 - ***a quiver*** (as slung)

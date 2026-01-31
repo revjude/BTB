@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֵרְגַּל שַׁרְאֶצֶר‎</span></big> **Nêrᵉgal Sharʼetser** <small>*(nare-gal' shar-eh'-tser)*</small> ==**Nergal-sar-ezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נֵרְגַּל‎</span><sup><small>[[H5370]]</small></sup> and <span class="ashebrew">‎שַׁרְאֶצֶר‎</span><sup><small>[[H8272]]</small></sup></small>
+**<big><span class="ashebrew">‎נֵרְגַּל שַׁרְאֶצֶר‎</span></big>** **Nêrᵉgal Sharʼetser** <small>*(nare-gal' shar-eh'-tser)*</small> ==**Nergal-sar-ezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5370|‎נֵרְגַּל‎]]</big>** and **<big>[[H8272|‎שַׁרְאֶצֶר‎]]</big>**</small>
 
 $\quad$ Nergal-sharezer.
 - § Nergal-sharezer = *"prince of fire"*

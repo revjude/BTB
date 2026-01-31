@@ -6,20 +6,20 @@ The earth is given into the hand of the wicked; He blindfolds its judges. If it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.23|<< Job 9:23]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.25|Job 9:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a land  | <span class="ashebrew"><big>אֶ֤רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been given  | <span class="ashebrew"><big>נִתְּנָ֬ה </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ni.te.Nah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] hand of  | <span class="ashebrew"><big>בְֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יַד </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> yad- <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wicked [person]  | <span class="ashebrew"><big>רָשָׁ֗ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵֽי </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judges its  | <span class="ashebrew"><big>שֹׁפְטֶ֥י </big></span><small><small><sup>[[H8199]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| sho.fe.Tei. <small><sup>[[HVqrmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he covers  | <span class="ashebrew"><big>יְכַסֶּ֑ה </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| ye.kha.Seh <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֖א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אֵפ֣וֹא </big></span><small><small><sup>[[H0645]]</sup></small></small> &#8207;| 'e.Fo' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] it  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a land  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been given  |**<big>&#8207;[[H5414G\|נִתְּנָ֬ה]]&#8207; </big>**| ni.te.Nah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  |**<big>&#8207;[[H9003\|בְֽ]]&#8207;&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֗ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judges its  |**<big>&#8207;[[H8199\|שֹׁפְטֶ֥י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| sho.fe.Tei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he covers  |**<big>&#8207;[[H3680\|יְכַסֶּ֑ה]]&#8207; </big>**| ye.kha.Seh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0645\|אֵפ֣וֹא]]&#8207; </big>**| 'e.Fo'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.23|<< Job 9:23]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.25|Job 9:25 >>]]</td></tr></table>
 
 

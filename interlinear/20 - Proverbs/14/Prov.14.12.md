@@ -6,16 +6,16 @@ There is a way that seems right to a man, but its end is the way of death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.11|<< Proverbs 14:11]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.13|Proverbs 14:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there  | <span class="ashebrew"><big>יֵ֤שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a way  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| right  | <span class="ashebrew"><big>יָ֭שָׁר </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| Ya.shor <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵי </big></span><small><small><sup>[[H6440L]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֑ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and end its  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַחֲרִיתָ֗ </big></span><small><small><sup>[[H0319]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.cha.ri.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] ways of  | <span class="ashebrew"><big>דַּרְכֵי </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| dar.khei- <small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| death  | <span class="ashebrew"><big>מָֽוֶת </big></span><small><small><sup>[[H4194]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֤שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a way  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right  |**<big>&#8207;[[H3477G\|יָ֭שָׁר]]&#8207; </big>**| Ya.shor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440L\|פְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֑ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and end its  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0319\|אַחֲרִיתָ֗]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.ri.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] ways of  |**<big>&#8207;[[H1870G\|דַּרְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dar.khei-<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| death  |**<big>&#8207;[[H4194\|מָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.11|<< Proverbs 14:11]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.13|Proverbs 14:13 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H0758]] | [[H1038]]</small>
+<small>Also see: **<big>[[H0758|אֲרָם]]</big>** | **<big>[[H1038|בֵּית מַעֲכָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַעֲכָה‎</span> **proper name, masculine, feminine and of a people** 
 

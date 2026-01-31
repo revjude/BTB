@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּרְבֵּל‎</span></big> **karbêl** <small>*(kar-bale')*</small> ==**be clothed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎כֶּבֶל‎</span><sup><small>[[H3525]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּרְבֵּל‎</span></big>** **karbêl** <small>*(kar-bale')*</small> ==**be clothed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from the same as **<big>[[H3525|‎כֶּבֶל‎]]</big>**</small>
 
 $\quad$ clothed.
 - ***to gird*** or ***clothe***
@@ -7,4 +7,4 @@ $\quad$ clothed.
 **1)** to put a mantle on, be-mantle, bind around
 $\quad$ **1a)** (Pual) bemantled (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">περιζώννυμι</span><sup><small>[[G4024]]</small></sup>
+<small>See Greek: </small>**<big>[[G4024|περιζώννυμι]]</big>**

@@ -6,19 +6,19 @@ He took 600 of the best chariots, and all the other chariots of Egypt, with offi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.6|<< Exodus 14:6]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.8|Exodus 14:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקַּ֗ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁשׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shesh- <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֥וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chariot[s]  | <span class="ashebrew"><big>רֶ֙כֶב֙ </big></span><small><small><sup>[[H7393G]]</sup></small></small> &#8207;| re.khev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chosen  | <span class="ashebrew"><big>בָּח֔וּר </big></span><small><small><sup>[[H0977]]</sup></small></small> &#8207;| ba.Chur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֹ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] chariotry of  | <span class="ashebrew"><big>רֶ֣כֶב </big></span><small><small><sup>[[H7393G]]</sup></small></small> &#8207;| Re.khev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and officers  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁלִשִׁ֖ם </big></span><small><small><sup>[[H7991C]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.li.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of it  | <span class="ashebrew"><big>כֻּלּֽ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ku.L <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֥וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chariot[s]  |**<big>&#8207;[[H7393G\|רֶ֙כֶב֙]]&#8207; </big>**| re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chosen  |**<big>&#8207;[[H0977\|בָּח֔וּר]]&#8207; </big>**| ba.Chur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chariotry of  |**<big>&#8207;[[H7393G\|רֶ֣כֶב]]&#8207; </big>**| Re.khev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and officers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7991C\|שָׁלִשִׁ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.li.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  |**<big>&#8207;[[H3605\|כֻּלּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.6|<< Exodus 14:6]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.8|Exodus 14:8 >>]]</td></tr></table>
 
 

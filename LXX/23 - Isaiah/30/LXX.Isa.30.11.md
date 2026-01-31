@@ -7,27 +7,27 @@ Get you out of the way, turn aside out of the path, cause the Holy One of Israel
 Get out of the way; turn off the road. Rid us of the Holy One of Israel!”<small><sub>**MT:**</sub></small>
 [[Isa.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.10|<< Isaiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.12|Isaiah 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turn | <big><span class="asgreek">αποστρέψατε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this way! | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Remove | <big><span class="asgreek">αφέλετε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this road, | <big><span class="asgreek">τρίβον</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| remove | <big><span class="asgreek">αφέλετε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λόγιον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| turn | **<big>[[G0654\|αποστρέψατε]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this way! | **<big>[[G3598\|οδού]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| Remove | **<big>[[G0851\|αφέλετε]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this road, | **<big>[[G5147\|τρίβον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| remove | **<big>[[G0851\|αφέλετε]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λόγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.10|<< Isaiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.12|Isaiah 30:12 >>]]</td></tr></table>
 
 

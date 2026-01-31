@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎נִפְקָא‎</span></big> **niphqâʼ** <small>*(nif-kaw')*</small> ==**cost**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎נְפַק‎</span><sup><small>[[H5312]]</small></sup></small>
+**<big><span class="asaramaic">‎נִפְקָא‎</span></big>** **niphqâʼ** <small>*(nif-kaw')*</small> ==**cost**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) from **<big>[[H5312|‎נְפַק‎]]</big>**</small>
 
 $\quad$ expense.
 - ***an outgo***, i.e. ***expense***
 
 **1)** outlay, expense
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δαπάνη</span><sup><small>[[G1160]]</small></sup>
+<small>See Greek: </small>**<big>[[G1160|δαπάνη]]</big>**

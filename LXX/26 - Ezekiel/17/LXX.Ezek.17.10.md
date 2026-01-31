@@ -7,28 +7,28 @@ Yea, behold, [being] planted, shall it prosper? shall it not utterly wither, whe
 Even if it is transplanted, will it flourish? Will it not completely wither when the east wind strikes? It will wither on the bed where it sprouted.’”<small><sub>**MT:**</sub></small>
 [[Ezek.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.9|<< Ezekiel 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.11|Ezekiel 17:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| she was fattened; | <big><span class="asgreek">πιαίνεται</span></big> <sup><small><small>[[G8790]]</small></small></sup> |
-| should she | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| prosper? | <big><span class="asgreek">κατευθηνή</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| Shall she not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her being touched by | <big><span class="asgreek">άψασθαι</span></big> <sup><small><small>[[G0680]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] burning | <big><span class="asgreek">καύσωνα</span></big> <sup><small><small>[[G2742]]</small></small></sup> |
-| be dried up | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| in dryness? | <big><span class="asgreek">ξηρασία</span></big> <sup><small><small>[[G8425]]</small></small></sup> |
-| With | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| casting | <big><span class="asgreek">βόλω</span></big> <sup><small><small>[[G6682]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her east \[wind\] | <big><span class="asgreek">ανατολής</span></big> <sup><small><small>[[G0395]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she shall be dried up. | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| she was fattened; | **<big>[[G8790\|πιαίνεται]]</big>** |
+| should she | **<big>[[G3361\|μη]]</big>** |
+| prosper? | **<big>[[G2720\|κατευθηνή]]</big>** |
+| Shall she not | **<big>[[G3780\|ουχί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her being touched by | **<big>[[G0680\|άψασθαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| wind | **<big>[[G0417\|άνεμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[the\] burning | **<big>[[G2742\|καύσωνα]]</big>** |
+| be dried up | **<big>[[G3583\|ξηρανθήσεται]]</big>** |
+| in dryness? | **<big>[[G8425\|ξηρασία]]</big>** |
+| With | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| casting | **<big>[[G6682\|βόλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of her east \[wind\] | **<big>[[G0395\|ανατολής]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she shall be dried up. | **<big>[[G3583\|ξηρανθήσεται]]</big>** |
 [[Ezek.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.9|<< Ezekiel 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.11|Ezekiel 17:11 >>]]</td></tr></table>
 
 

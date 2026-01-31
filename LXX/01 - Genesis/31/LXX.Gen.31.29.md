@@ -7,31 +7,31 @@ It is in the power of my hand to do you hurt: but the God of your father spake u
 I have power to do you great harm, but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’<small><sub>**MT:**</sub></small>
 [[Gen.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.28|<< Genesis 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.30|Genesis 31:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| is strong | <big><span class="asgreek">ισχύει</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to do evil | <big><span class="asgreek">κακοποιήσαί</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
-| \[against\] you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yesterday | <big><span class="asgreek">χθες</span></big> <sup><small><small>[[G5504]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Guard | <big><span class="asgreek">φύλαξον</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| yourself! | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| you should speak | <big><span class="asgreek">λαλήσης</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| against | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| is strong | **<big>[[G2480\|ισχύει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to do evil | **<big>[[G2554\|κακοποιήσαί]]</big>** |
+| \[against\] you. | **<big>[[G1473\|σε]]</big>** |
+| But the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| yesterday | **<big>[[G5504\|χθες]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Guard | **<big>[[G5442\|φύλαξον]]</big>** |
+| yourself! | **<big>[[G4572\|σεαυτόν]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| you should speak | **<big>[[G2980\|λαλήσης]]</big>** |
+| against | **<big>[[G3326\|μετά]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| evil | **<big>[[G4190\|πονηρά]]</big>** |
 [[Gen.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.28|<< Genesis 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.30|Genesis 31:30 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ Take ye the spoil of silver, take the spoil of gold: for [there is] none end of 
 “Plunder the silver! Plunder the gold!” There is no end to the treasure, an abundance of every precious thing.<small><sub>**MT:**</sub></small>
 [[Nah.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.8|<< Nahum 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.10|Nahum 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They plundered | <big><span class="asgreek">διήρπαζον</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| they plundered | <big><span class="asgreek">διήρπαζον</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| limit | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to her decoration; | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were weighed down | <big><span class="asgreek">βεβάρυνται</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| by | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her desirable | <big><span class="asgreek">επιθυμήματα</span></big> <sup><small><small>[[G7411]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They plundered | **<big>[[G1283\|διήρπαζον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver, | **<big>[[G0694\|αργύριον]]</big>** |
+| they plundered | **<big>[[G1283\|διήρπαζον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| limit | **<big>[[G4009\|πέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to her decoration; | **<big>[[G2889\|κόσμου]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| they were weighed down | **<big>[[G0925\|βεβάρυνται]]</big>** |
+| by | **<big>[[G5228\|υπέρ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her desirable | **<big>[[G7411\|επιθυμήματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Nah.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.8|<< Nahum 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.10|Nahum 2:10 >>]]</td></tr></table>
 
 

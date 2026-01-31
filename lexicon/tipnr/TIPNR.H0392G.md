@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Achzib</span> \(Chezib, Cozeba\), a town in Judah's Shephelah region.
 - A location first mentioned at [[Josh.15.44|Jos.15.44]]; 
-- referred to as Achzib<[[H0392G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>\), or Chezib<[[H3580]]> \(<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>\), or Cozeba \(KJV= Chozeba, NIV= Kozeba\) <[[H3578]]> \(<span class='tipnrLangHebrew'>כ</span>ֹּֽ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ב</span>ָ֗<span class='tipnrLangHebrew'>א</span>\).
+- referred to as Achzib **<big>[[H0392|אַכְזִיב]]</big>**, or Chezib **<big>[[H3580|כְּזִיב]]</big>**, or Cozeba \(KJV= Chozeba, NIV= Kozeba\)  **<big>[[H3578|כֹּזְבָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.700000,35.000000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,7 +12,7 @@ In [[Mic.1.14|Micah 1:14]], Achzib is mentioned in a prophetic oracle of judgmen
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achzib (NIV= Akzib) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H0392G) <small>*Hebrew*</small> | 2x | [[Jos.15.44] & [Mic.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achzib\*\|reference=Jos.15.44;Mic.1.14) |
-| Chezib | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3580) <small>*Hebrew*</small> | 1x | [Gen.38.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chezib\*\|reference=Gen.38.5) |
-| Cozeba (KJV= Chozeba; NIV= Kozeba) | [<span class='tipnrLangHebrew'>כ</span>ֹּֽ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ב</span>ָ֗<span class='tipnrLangHebrew'>א</span>](H3578) <small>*Hebrew*</small> | 1x | [1Ch.4.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cozeba\*\|reference=1Ch.4.22) |
-All Strong's for **Achzib or Chezib or Cozeba**: \[[[H0392G]]\] \[[[H3580]]\] \[[[H3578]]\]
+| Achzib (NIV= Akzib) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H0392G) | 2x | [[Jos.15.44] & [Mic.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achzib\*\|reference=Jos.15.44;Mic.1.14) |
+| Chezib | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3580) | 1x | [Gen.38.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chezib\*\|reference=Gen.38.5) |
+| Cozeba (KJV= Chozeba; NIV= Kozeba) | [<span class='tipnrLangHebrew'>כ</span>ֹּֽ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ב</span>ָ֗<span class='tipnrLangHebrew'>א</span>](H3578) | 1x | [1Ch.4.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cozeba\*\|reference=1Ch.4.22) |
+All entries for **Achzib or Chezib or Cozeba**:  **<big>[[H0392|אַכְזִיב]]</big>** ☩  **<big>[[H3580|כְּזִיב]]</big>** ☩  **<big>[[H3578|כֹּזְבָא]]</big>**

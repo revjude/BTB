@@ -7,27 +7,27 @@ And he commanded the most mighty men that [were] in his army to bind Shadrach, M
 and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace.<small><sub>**MT:**</sub></small>
 [[Dan.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.19|<< Daniel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.21|Daniel 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρούς</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| of strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| he told | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| shackling | <big><span class="asgreek">πεδήσαντας</span></big> <sup><small><small>[[G8675]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abed-nego, | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| to cast \[them\] | <big><span class="asgreek">εμβαλείν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace | <big><span class="asgreek">κάμινον</span></big> <sup><small><small>[[G2575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιομένην</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| strong | **<big>[[G2478\|ισχυρούς]]</big>** |
+| of strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| he told | **<big>[[G2036\|είπε]]</big>** |
+| shackling | **<big>[[G8675\|πεδήσαντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abed-nego, | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| to cast \[them\] | **<big>[[G1685\|εμβαλείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| furnace | **<big>[[G2575\|κάμινον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| fire | **<big>[[G4442\|πυρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| burning | **<big>[[G2545\|καιομένην]]</big>** |
 [[Dan.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.19|<< Daniel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.21|Daniel 3:21 >>]]</td></tr></table>
 
 

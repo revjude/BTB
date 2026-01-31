@@ -7,21 +7,21 @@ He that keepeth the commandment keepeth his own soul; [but] he that despiseth hi
 He who keeps a commandment preserves his soul, but he who is careless in his ways will die.<small><sub>**MT:**</sub></small>
 [[Prov.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| keeps | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[the\] commandment | <big><span class="asgreek">εντολήν</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| gives heed to | <big><span class="asgreek">τηρεί</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| soul; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| disdaining | <big><span class="asgreek">καταφρονών</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| shall perish. | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| \[The\] one who | **<big>[[G3739\|ος]]</big>** |
+| keeps | **<big>[[G5442\|φυλάσσει]]</big>** |
+| \[the\] commandment | **<big>[[G1785\|εντολήν]]</big>** |
+| gives heed to | **<big>[[G5083\|τηρεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| soul; | **<big>[[G5590\|ψυχήν]]</big>** |
+| but the one | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| disdaining | **<big>[[G2706\|καταφρονών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| ways | **<big>[[G3598\|οδών]]</big>** |
+| shall perish. | **<big>[[G0622\|απολείται]]</big>** |
 [[Prov.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
 

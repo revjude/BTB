@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Salamis</span> was a city on the island of Cyprus where Paul and Barnabas preached the gospel in the Jewish synagogues \(Acts 13:5\).
 - A location only mentioned at [[Ezek.27.18|Act.13.5]]; 
-- only referred to as Salamis<[[G4529]]> \(<span class='tipnrLangGreek'>Σαλαμίς</span>\).
+- only referred to as Salamis **<big>[[G4529|Σαλαμίς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.17724606944397,33.90755212865949&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Salamis was a city located on the eastern coast of the island of Cyprus. It was 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Salamis | [<span class='tipnrLangGreek'>Σαλαμίς</span>](G4529) <small>*Greek*</small> | 1x | [Act.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salamis\*\|reference=Act.13.5) |
-All Strong's for **Salamis**: \[[[G4529]]\]
+| Salamis | [<span class='tipnrLangGreek'>Σαλαμίς</span>](G4529) | 1x | [Act.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salamis\*\|reference=Act.13.5) |
+All entries for **Salamis**:  **<big>[[G4529|Σαλαμίς]]</big>**

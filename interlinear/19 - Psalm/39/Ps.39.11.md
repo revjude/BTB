@@ -6,21 +6,21 @@ You discipline and correct a man for his iniquity, consuming like a moth what he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.10|<< Psalms 39:10]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.12|Psalms 39:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| with rebukes  | <span class="ashebrew"><big>בְּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תוֹכָ֘ח֤וֹת </big></span><small><small><sup>[[H8433B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> to.Kha.chot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| iniquity  | <span class="ashebrew"><big>עָוֹ֨ן </big></span><small><small><sup>[[H5771G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Von <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have disciplined  | <span class="ashebrew"><big>יִסַּ֬רְתָּ </big></span><small><small><sup>[[H3256]]</sup></small></small> &#8207;| yi.Sar.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֗ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you have melted  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֶּ֣מֶס </big></span><small><small><sup>[[H4529]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.mes <small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> moth  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עָ֣שׁ </big></span><small><small><sup>[[H6211A]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'Ash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desired [thing] his  | <span class="ashebrew"><big>חֲמוּד֑ </big></span><small><small><sup>[[H2530A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cha.mu.D <small><sup>[[HVqsmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] only  | <span class="ashebrew"><big>אַ֤ךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> &#8207;| 'akh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vanity  | <span class="ashebrew"><big>הֶ֖בֶל </big></span><small><small><sup>[[H1892]]</sup></small></small> &#8207;| He.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֣ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with rebukes  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H8433B\|תוֹכָ֘ח֤וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha.chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity  |**<big>&#8207;[[H5771G\|עָוֹ֨ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have disciplined  |**<big>&#8207;[[H3256\|יִסַּ֬רְתָּ]]&#8207; </big>**| yi.Sar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֗ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have melted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4529\|תֶּ֣מֶס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.mes<small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> moth  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H6211A\|עָ֣שׁ]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'Ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desired [thing] his  |**<big>&#8207;[[H2530A\|חֲמוּד֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| cha.mu.D<small><sup>[[HVqsmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] only  |**<big>&#8207;[[H0389\|אַ֤ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vanity  |**<big>&#8207;[[H1892\|הֶ֖בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.10|<< Psalms 39:10]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.12|Psalms 39:12 >>]]</td></tr></table>
 
 

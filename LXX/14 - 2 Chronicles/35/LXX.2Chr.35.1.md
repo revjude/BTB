@@ -10,27 +10,27 @@ Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the 
 Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.<small><sub>**MT:**</sub></small>
 [[2Chr.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.33|<< 2 Chronicles 34:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.2|2 Chronicles 35:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Josiah observed | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ιωσίας</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passover | <big><span class="asgreek">φασέκ</span></big> <sup><small><small>[[G9622]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| his God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sacrificed | <big><span class="asgreek">έθυσε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passover | <big><span class="asgreek">φασέκ</span></big> <sup><small><small>[[G9622]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτη</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Josiah observed | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G2502\|Ιωσίας]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| passover | **<big>[[G9622\|φασέκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| his God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sacrificed | **<big>[[G2380\|έθυσε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| passover | **<big>[[G9622\|φασέκ]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| fourteenth | **<big>[[G5065\|τεσσαρεσκαιδεκάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| first | **<big>[[G4413\|πρώτου]]</big>** |
 [[2Chr.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.33|<< 2 Chronicles 34:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.2|2 Chronicles 35:2 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ So he let him go: then she said, A bloody husband [thou art], because of the cir
 So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)<small><sub>**MT:**</sub></small>
 [[Exod.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.25|<< Exodus 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.27|Exodus 4:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| is stopped | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| circumcision | <big><span class="asgreek">περιτομής</span></big> <sup><small><small>[[G4061]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my male child | <big><span class="asgreek">παιδίου</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
+| is stopped | **<big>[[G2476\|έστη]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| circumcision | **<big>[[G4061\|περιτομής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my male child | **<big>[[G3813\|παιδίου]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Exod.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.25|<< Exodus 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.27|Exodus 4:27 >>]]</td></tr></table>
 
 

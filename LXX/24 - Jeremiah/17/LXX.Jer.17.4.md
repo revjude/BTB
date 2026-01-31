@@ -7,37 +7,37 @@ And thou, even thyself, shalt discontinue from thine heritage that I gave thee; 
 And you yourself will relinquish the inheritance that I gave you. I will enslave you to your enemies in a land that you do not know, for you have kindled My anger; it will burn forever.”<small><sub>**MT:**</sub></small>
 [[Jer.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.3|<< Jeremiah 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.5|Jeremiah 17:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be forsaken | <big><span class="asgreek">καταλειφθήση</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκά</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to serve | <big><span class="asgreek">δουλεύειν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you knew not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οίδας</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| you kindled | <big><span class="asgreek">ανήψατε</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wrath; | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| it shall blaze. | <big><span class="asgreek">φλέξει</span></big> <sup><small><small>[[G9645]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be forsaken | **<big>[[G2641\|καταλειφθήση]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your inheritance | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I gave | **<big>[[G1325\|έδωκά]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to serve | **<big>[[G1398\|δουλεύειν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you knew not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|οίδας]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| you kindled | **<big>[[G0381\|ανήψατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my wrath; | **<big>[[G2372\|θυμώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon | **<big>[[G0165\|αιώνος]]</big>** |
+| it shall blaze. | **<big>[[G9645\|φλέξει]]</big>** |
 [[Jer.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.3|<< Jeremiah 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.5|Jeremiah 17:5 >>]]</td></tr></table>
 
 

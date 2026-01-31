@@ -7,36 +7,36 @@ And Elijah said unto them, Take the prophets of Baal; let not one of them escape
 Then Elijah ordered them, “Seize the prophets of Baal! Do not let a single one escape.” So they seized them, and Elijah brought them down to the Kishon Valley and slaughtered them there.<small><sub>**MT:**</sub></small>
 [[1Kgs.18.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.39|<< 1 Kings 18:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.41|1 Kings 18:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Seize | <big><span class="asgreek">συλλάβετε</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Baal, | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| let not one | <big><span class="asgreek">μηδείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| escape | <big><span class="asgreek">σωθήτω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they seized | <big><span class="asgreek">συνέλαβον</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led them down | <big><span class="asgreek">κατήγαγεν</span></big> <sup><small><small>[[G2609]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elijah | <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Kishon, | <big><span class="asgreek">Κισών</span></big> <sup><small><small>[[H7028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| slew | <big><span class="asgreek">έσφαξεν</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| Seize | **<big>[[G4815\|συλλάβετε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Baal, | **<big>[[G0896\|Βάαλ]]</big>** |
+| let not one | **<big>[[G3367\|μηδείς]]</big>** |
+| escape | **<big>[[G4982\|σωθήτω]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they seized | **<big>[[G4815\|συνέλαβον]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| led them down | **<big>[[G2609\|κατήγαγεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| Elijah | **<big>[[G2243\|Ηλίας]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| Kishon, | **<big>[[H7028\|Κισών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| slew | **<big>[[G4969\|έσφαξεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[1Kgs.18.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.39|<< 1 Kings 18:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.41|1 Kings 18:41 >>]]</td></tr></table>
 
 

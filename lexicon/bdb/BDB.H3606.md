@@ -1,4 +1,4 @@
-<small>Also see: [[H6903]]</small>
+<small>Also see: **<big>[[H6903|קְבֵל]]</big>**</small>
 
  <span class="bdbLangAramaic">‎כֹּל‎</span>, <span class="bdbLangAramaic">‎כָּלֿ‎</span>: **noun masculine** ==the whole, all== (Biblical Hebrew  <span class="bdbLangHebrew">‎כֹּל‎</span>); — emphatic <span class="bdbLangAramaic">‎כֹּלָּא‎</span> [[Dan.2.40|Dan 2:40]] +, construct <span class="bdbLangAramaic">‎כֹּל‎</span> [[Dan.2.12|Dan 2:12]]; [[Dan.3.2|Dan 3:2]] +, <span class="bdbLangAramaic">‎כָּלֿ‎</span> [[Dan.2.8|Dan 2:8]] +, suffix 3 masculine plural <span class="bdbLangAramaic">‎כָּלְּהוֺן‎</span> (so Palmyrene [[BDB#Ldzb|Lzb]]<sup>296</sup> [[BDB#Cooke|Cooke]]<sup>No. 117</sup>, [[BDB#Tariff|Tariff]] ii.c.19 ii b. 18) [[Dan.2.38|Dan 2:38]]; [[Dan.7.19|Dan 7:19]] ([[BDB#Qr|Qr]] feminine <span class="bdbLangHebrew">‎כָּכְּהֵּן‎</span>); — 
 

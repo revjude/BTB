@@ -11,31 +11,31 @@ Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy 
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Hanameel | <big><span class="asgreek">Αναμεήλ</span></big> <sup><small><small>[[H2606]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shallum | <big><span class="asgreek">Σαλώμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| comes | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Acquire | <big><span class="asgreek">κτήσαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my field, | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Anathoth! | <big><span class="asgreek">Αναθώθ</span></big> <sup><small><small>[[H6068]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[it is\] equitable | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to take \[it\] | <big><span class="asgreek">παραλαβείν</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a possession. | <big><span class="asgreek">κτήσιν</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Hanameel | **<big>[[H2606\|Αναμεήλ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shallum | **<big>[[H7968\|Σαλώμ]]</big>** |
+| brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| comes | **<big>[[G2064\|έρχεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Acquire | **<big>[[G2932\|κτήσαι]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my field, | **<big>[[G0068\|αγρόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Anathoth! | **<big>[[H6068\|Αναθώθ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[it is\] equitable | **<big>[[G2920\|κρίσις]]</big>** |
+| to take \[it\] | **<big>[[G3880\|παραλαβείν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a possession. | **<big>[[G8111\|κτήσιν]]</big>** |
 [[Jer.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.6|<< Jeremiah 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.8|Jeremiah 32:8 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎פִּינְחָס‎</span> <small>***(pin.chas)***</small> ==**Phinehas**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.25|Exo.6.25]]
--  son of: Eleazar ([[H0499]]) and the daughter\_of\_Putiel ([[H6317H]])
--  father of: Abishua ([[H0050]])
+-  son of: Eleazar (**<big>[[H0499|אֶלְעָזָר]]</big>**) and the daughter\_of\_Putiel (**<big>[[H6317H|פּוּטִיאֵל]]</big>**)
+-  father of: Abishua (**<big>[[H0050|אֲבִישׁוּעַ]]</big>**)

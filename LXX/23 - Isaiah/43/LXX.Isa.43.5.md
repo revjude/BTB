@@ -7,23 +7,23 @@ Fear not: for I [am] with thee: I will bring thy seed from the east, and gather 
 Do not be afraid, for I am with you; I will bring your offspring from the east and gather you from the west.<small><sub>**MT:**</sub></small>
 [[Isa.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.4|<< Isaiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.6|Isaiah 43:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear, | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed, | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] west | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| I will bring you together. | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear, | **<big>[[G5399\|φοβού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| I am | **<big>[[G1510\|ειμι]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολών]]</big>** |
+| I will lead | **<big>[[G0071\|άξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed, | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] west | **<big>[[G1424\|δυσμών]]</big>** |
+| I will bring you together. | **<big>[[G4863\|συνάξω]]</big>** **<big>[[G1473\|σε]]</big>** |
 [[Isa.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.4|<< Isaiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.6|Isaiah 43:6 >>]]</td></tr></table>
 
 

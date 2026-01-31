@@ -7,16 +7,16 @@ He that followeth after righteousness and mercy findeth life, righteousness, and
 He who pursues righteousness and loving devotion finds life, righteousness, and honor.<small><sub>**MT:**</sub></small>
 [[Prov.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.20|<< Proverbs 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.22|Proverbs 21:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of righteousness | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| charity | <big><span class="asgreek">ελεημοσύνης</span></big> <sup><small><small>[[G1654]]</small></small></sup> |
-| shall find | <big><span class="asgreek">ευρήσει</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glory. | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| \[The\] way | **<big>[[G3598\|οδός]]</big>** |
+| of righteousness | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| charity | **<big>[[G1654\|ελεημοσύνης]]</big>** |
+| shall find | **<big>[[G2147\|ευρήσει]]</big>** |
+| life | **<big>[[G2222\|ζωήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glory. | **<big>[[G1391\|δόξαν]]</big>** |
 [[Prov.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.20|<< Proverbs 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.22|Proverbs 21:22 >>]]</td></tr></table>
 
 

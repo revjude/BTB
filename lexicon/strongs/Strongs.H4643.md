@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲשֵׂר‎</span></big> **maʻăsêr** <small>*(mah-as-ayr')*</small> ==**tithe**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מַעֲשַׂר</span> **maʻăsar** <small>*(mah-as-ar')*</small>; and (in plural) feminine <span class="ashebrew">מַעַשְׂרָה</span> **maʻasrâh** <small>*(mah-as-raw')*</small>; from <span class="ashebrew">‎עָשָׂר‎</span><sup><small>[[H6240]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲשֵׂר‎</span></big>** **maʻăsêr** <small>*(mah-as-ayr')*</small> ==**tithe**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַעֲשַׂר</span></big>** **maʻăsar** <small>*(mah-as-ar')*</small>; and (in plural) feminine **<big><span class="ashebrew">מַעַשְׂרָה</span></big>** **maʻasrâh** <small>*(mah-as-raw')*</small>; from **<big>[[H6240|‎עָשָׂר‎]]</big>**</small>
 
 $\quad$ tenth (part), tithe(-ing).
 - ***a tenth***
@@ -9,4 +9,4 @@ $\quad$ tenth (part), tithe(-ing).
 $\quad$ **1a)** tenth part
 $\quad$ **1b)** tithe, payment of a tenth part
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπαρχή</span><sup><small>[[G0536]]</small></sup> · <span class="asgreek">δεκάτη</span><sup><small>[[G1181]]</small></sup> · <span class="asgreek">δέκατος</span><sup><small>[[G1182]]</small></sup>
+<small>See Greek: </small>**<big>[[G0536|ἀπαρχή]]</big>** · **<big>[[G1181|δεκάτη]]</big>** · **<big>[[G1182|δέκατος]]</big>**

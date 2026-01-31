@@ -7,39 +7,39 @@ Then hear thou from heaven, and do, and judge thy servants, by requiting the wic
 then may You hear from heaven and act. May You judge Your servants, condemning the wicked man by bringing down on his own head what he has done, and justifying the righteous man by rewarding him according to his righteousness.<small><sub>**MT:**</sub></small>
 [[2Chr.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.22|<< 2 Chronicles 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.24|2 Chronicles 6:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall listen | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall act, | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall judge | <big><span class="asgreek">κρινείς</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants, | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to recompense | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless one, | <big><span class="asgreek">ανόμω</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to recompense | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| his ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his head; | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do justice | <big><span class="asgreek">δικαιώσαι</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| \[to the\] just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to recompense | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness. | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall listen | **<big>[[G1522\|εισακούση]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall act, | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall judge | **<big>[[G2919\|κρινείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your servants, | **<big>[[G1401\|δούλους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to recompense | **<big>[[G0591\|αποδούναι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| lawless one, | **<big>[[G0459\|ανόμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to recompense | **<big>[[G0591\|αποδούναι]]</big>** |
+| his ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1519\|εις]]</big>** |
+| his head; | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do justice | **<big>[[G1344\|δικαιώσαι]]</big>** |
+| \[to the\] just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to recompense | **<big>[[G0591\|αποδούναι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his righteousness. | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.22|<< 2 Chronicles 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.24|2 Chronicles 6:24 >>]]</td></tr></table>
 
 

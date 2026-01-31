@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cilicia</span>, a province in southeast Asia Minor, was the birthplace of Paul and an area where he ministered to the early churches.
 - A location first mentioned at [[Luke.10.13|Act.6.9]]; 
-- only referred to as Cilicia<[[G2791]]> \(<span class='tipnrLangGreek'>Κιλικία</span>, <span class='tipnrLangGreek'>Κιλικία</span>\).
+- only referred to as Cilicia **<big>[[G2791|Κιλικία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.91802695356275,34.89153398422567&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Geographically, Cilicia was an important region, serving as a major trade route 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cilicia | [<span class='tipnrLangGreek'>Κιλικία</span>, <span class='tipnrLangGreek'>Κιλικία</span>](G2791) <small>*Greek*</small> | 8x | [[Act.6.9] ... [Gal.1.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cilicia\*\|reference=Act.6.9;Act.15.23;Act.15.41;Act.21.39;Act.22.3;Act.23.34;Act.27.5;Gal.1.21) |
-All Strong's for **Cilicia**: \[[[G2791]]\]
+| Cilicia | [<span class='tipnrLangGreek'>Κιλικία</span>, <span class='tipnrLangGreek'>Κιλικία</span>](G2791) | 8x | [[Act.6.9] ... [Gal.1.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cilicia\*\|reference=Act.6.9;Act.15.23;Act.15.41;Act.21.39;Act.22.3;Act.23.34;Act.27.5;Gal.1.21) |
+All entries for **Cilicia**:  **<big>[[G2791|Κιλικία]]</big>**

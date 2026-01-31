@@ -1,4 +1,4 @@
-<small>Also see: [[H1665]]</small>
+<small>Also see: **<big>[[H1665|גִּתִּית]]</big>**</small>
 
  <span class="bdbLangHebrew">‎גִּתַּיִם‎</span> **proper name, of a location** <span class="bdbLangHebrew">‎גִּתִּית‎</span> **adjective** see below <span class="bdbLangHebrew">‎יגן‎</span>. p. 387 f 
 

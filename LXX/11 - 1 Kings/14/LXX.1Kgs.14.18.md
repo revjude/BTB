@@ -7,28 +7,28 @@ And they buried him; and all Israel mourned for him, according to the word of th
 And they buried him, and all Israel mourned for him, according to the word that the LORD had spoken through His servant Ahijah the prophet.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.17|<< 1 Kings 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.19|1 Kings 14:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψαν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lamented | <big><span class="asgreek">εκόψαντο</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the \[word\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of his servant | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ahijah | <big><span class="asgreek">Αχιά</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet. | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψαν]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lamented | **<big>[[G2875\|εκόψαντο]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| the \[word\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of his servant | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Ahijah | **<big>[[H0281\|Αχιά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| prophet. | **<big>[[G4396\|προφήτου]]</big>** |
 [[1Kgs.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.17|<< 1 Kings 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.19|1 Kings 14:19 >>]]</td></tr></table>
 
 

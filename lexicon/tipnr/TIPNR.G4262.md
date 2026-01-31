@@ -1,8 +1,8 @@
 <small>*Sheep Gate • Gate in Jerusalem near the sheep market*</small>
 
 The <span class='tipnrhighlight'>Sheep Gate</span> was a gate in Jerusalem's wall, likely near the sheep market, that was rebuilt during Nehemiah's time \(Neh. 3:1, 32; 12:39; [[John.5.2|John 5:2]]\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.3.1|Neh.3.1]]; 
-- referred to as Sheep\_Gate<[[H6629H]]> \(<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>אן</span>\), or Sheep Gate<[[G4262]]> \(<span class='tipnrLangGreek'>προβατικός</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.3.1|Neh.3.1]]; 
+- referred to as Sheep\_Gate **<big>[[H6629|צֹאן]]</big>**, or Sheep Gate **<big>[[G4262|προβατικός]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The Sheep Gate was an important entrance in Jerusalem's walls, first mentioned i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sheep (Gate) | [<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>אן</span>](H6629H) <small>*Hebrew*</small> | 3x | [[Neh.3.1] ... [Neh.12.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheep\*\|reference=Neh.3.1;Neh.3.32;Neh.12.39) |
-| Sheep Gate | [<span class='tipnrLangGreek'>προβατικός</span>](G4262) <small>*Greek*</small> | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheep\*\|reference=Jhn.5.2) |
-All Strong's for **Sheep_Gate**: \[[[H6629H]]\] \[[[G4262]]\]
+| Sheep (Gate) | [<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>אן</span>](H6629H) | 3x | [[Neh.3.1] ... [Neh.12.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheep\*\|reference=Neh.3.1;Neh.3.32;Neh.12.39) |
+| Sheep Gate | [<span class='tipnrLangGreek'>προβατικός</span>](G4262) | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheep\*\|reference=Jhn.5.2) |
+All entries for **Sheep Gate**:  **<big>[[H6629|צֹאן]]</big>** ☩  **<big>[[G4262|προβατικός]]</big>**

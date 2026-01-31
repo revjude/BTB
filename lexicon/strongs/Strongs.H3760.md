@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּרְמֶל‎</span></big> **Karmel** <small>*(kar-mel')*</small> ==**Carmel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎כַּרְמֶל‎</span><sup><small>[[H3759]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּרְמֶל‎</span></big>** **Karmel** <small>*(kar-mel')*</small> ==**Carmel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3759|‎כַּרְמֶל‎]]</big>**</small>
 
 $\quad$ Carmel, fruitful (plentiful) field, (place).
 - § Carmel = *"garden-land"*

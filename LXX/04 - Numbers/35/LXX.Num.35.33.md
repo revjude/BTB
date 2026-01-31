@@ -7,43 +7,43 @@ So ye shall not pollute the land wherein ye [are]: for blood it defileth the lan
 Do not pollute the land where you live, for bloodshed pollutes the land, and no atonement can be made for the land on which the blood is shed, except by the blood of the one who shed it.<small><sub>**MT:**</sub></small>
 [[Num.35.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.32|<< Numbers 35:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.34|Numbers 35:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you pollute with murder | <big><span class="asgreek">φονοκτονήσητε</span></big> <sup><small><small>[[G9656]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικείτε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| this blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| by murder | <big><span class="asgreek">φονοκτονεί</span></big> <sup><small><small>[[G9656]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be atoned | <big><span class="asgreek">εξιλασθήσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been poured out | <big><span class="asgreek">εκχυθέντος</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \[it shall be\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one pouring it out. | <big><span class="asgreek">εκχέοντος</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you pollute with murder | **<big>[[G9656\|φονοκτονήσητε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| dwell | **<big>[[G2730\|κατοικείτε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it; | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| this blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| by murder | **<big>[[G9656\|φονοκτονεί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be atoned | **<big>[[G7331\|εξιλασθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| having been poured out | **<big>[[G1632\|εκχυθέντος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| \[it shall be\] upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one pouring it out. | **<big>[[G1632\|εκχέοντος]]</big>** |
 [[Num.35.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.32|<< Numbers 35:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.34|Numbers 35:34 >>]]</td></tr></table>
 
 

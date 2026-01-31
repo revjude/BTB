@@ -6,13 +6,13 @@ in the second row a turquoise, a sapphire, and a diamond;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.17|<< Exodus 28:17]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.19|Exodus 28:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the row  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טּ֖וּר </big></span><small><small><sup>[[H2905]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> Tur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> second  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שֵּׁנִ֑י </big></span><small><small><sup>[[H8145]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.Ni <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a turquoise  | <span class="ashebrew"><big>נֹ֥פֶךְ </big></span><small><small><sup>[[H5306]]</sup></small></small> &#8207;| No.fekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sapphire  | <span class="ashebrew"><big>סַפִּ֖יר </big></span><small><small><sup>[[H5601]]</sup></small></small> &#8207;| sa.Pir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an emerald  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָהֲלֹֽם </big></span><small><small><sup>[[H3095]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.ha.Lom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the row  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2905\|טּ֖וּר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Tur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a turquoise  |**<big>&#8207;[[H5306\|נֹ֥פֶךְ]]&#8207; </big>**| No.fekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sapphire  |**<big>&#8207;[[H5601\|סַפִּ֖יר]]&#8207; </big>**| sa.Pir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an emerald  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3095\|יָהֲלֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.ha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.17|<< Exodus 28:17]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.19|Exodus 28:19 >>]]</td></tr></table>
 
 

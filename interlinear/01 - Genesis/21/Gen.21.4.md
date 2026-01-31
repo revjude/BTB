@@ -10,20 +10,20 @@ When his son Isaac was eight days old, Abraham circumcised him, as God had comma
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he circumcised  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֤מָל </big></span><small><small><sup>[[H4135A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.mol <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָם֙ </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֣ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְּנ֔ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121L]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eight  | <span class="ashebrew"><big>שְׁמֹנַ֖ת </big></span><small><small><sup>[[H8083]]</sup></small></small> &#8207;| she.mo.Nat <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֑ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֛ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had commanded  | <span class="ashebrew"><big>צִוָּ֥ה </big></span><small><small><sup>[[H6680]]</sup></small></small> &#8207;| tzi.Vah <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֖ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he circumcised  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4135A\|יָּ֤מָל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָם֙]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֣ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְּנ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight  |**<big>&#8207;[[H8083\|שְׁמֹנַ֖ת]]&#8207; </big>**| she.mo.Nat<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֑ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֛ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.3|<< Genesis 21:3]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.5|Genesis 21:5 >>]]</td></tr></table>
 
 

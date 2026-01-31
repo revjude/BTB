@@ -7,25 +7,25 @@ And when all these kings were met together, they came and pitched together at th
 All these kings joined forces and encamped at the waters of Merom to fight against Israel.<small><sub>**MT:**</sub></small>
 [[Josh.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.4|<< Joshua 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.6|Joshua 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| united | <big><span class="asgreek">συνέβαλλον</span></big> <sup><small><small>[[G4820]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| together | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of Merom | <big><span class="asgreek">Μερώμ</span></big> <sup><small><small>[[H4792]]</small></small></sup> |
-| to wage war | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| \[against\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| united | **<big>[[G4820\|συνέβαλλον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these kings | **<big>[[G0935\|βασιλείς]]</big>** **<big>[[G1473\|ούτοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| together | **<big>[[G1909\|επι]]</big>** **<big>[[G3588\|το]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| of Merom | **<big>[[H4792\|Μερώμ]]</big>** |
+| to wage war | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| \[against\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Josh.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.4|<< Joshua 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.6|Joshua 11:6 >>]]</td></tr></table>
 
 

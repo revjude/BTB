@@ -7,18 +7,18 @@ Of Ozni, the family of the Oznites: of Eri, the family of the Erites:
 the Oznite clan from Ozni, the Erite clan from Eri,<small><sub>**MT:**</sub></small>
 [[Num.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.15|<< Numbers 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.17|Numbers 26:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ozni, | <big><span class="asgreek">Αζέ</span></big> <sup><small><small>[[H0244a]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Oznites; | <big><span class="asgreek">Αζενί</span></big> <sup><small><small>[[H0244a]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Eri, | <big><span class="asgreek">Αδδί</span></big> <sup><small><small>[[H2311]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Erites; | <big><span class="asgreek">Αδδί</span></big> <sup><small><small>[[H2311]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ozni, | **<big>[[H0244a\|Αζέ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Oznites; | **<big>[[H0244a\|Αζενί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Eri, | **<big>[[H2311\|Αδδί]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Erites; | **<big>[[H2311\|Αδδί]]</big>** |
 [[Num.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.15|<< Numbers 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.17|Numbers 26:17 >>]]</td></tr></table>
 
 

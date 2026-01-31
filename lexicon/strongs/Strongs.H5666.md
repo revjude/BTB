@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָבָה‎</span></big> **ʻâbâh** <small>*(aw-baw')*</small> ==**to thicken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָבָה‎</span></big>** **ʻâbâh** <small>*(aw-baw')*</small> ==**to thicken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (grow) thick(-er).

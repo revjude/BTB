@@ -7,29 +7,29 @@ And he said, When ye do the office of a midwife to the Hebrew women, and see [th
 “When you help the Hebrew women give birth, observe them on the birthstools. If the child is a son, kill him; but if it is a daughter, let her live.”<small><sub>**MT:**</sub></small>
 [[Exod.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.15|<< Exodus 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.17|Exodus 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you act as midwife | <big><span class="asgreek">μαιούσθε</span></big> <sup><small><small>[[G8230]]</small></small></sup> |
-| to the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrews, | <big><span class="asgreek">Εβραίας</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should be | <big><span class="asgreek">ώσι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| about | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bear, | <big><span class="asgreek">τίκτειν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| then | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| it should be a male, | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you kill | <big><span class="asgreek">αποκτείνατε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a female, | <big><span class="asgreek">θήλυ</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| preserve | <big><span class="asgreek">περιποιήσασθε</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυταίς]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| you act as midwife | **<big>[[G8230\|μαιούσθε]]</big>** |
+| to the | **<big>[[G3588\|τας]]</big>** |
+| Hebrews, | **<big>[[G1444\|Εβραίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should be | **<big>[[G1510\|ώσι]]</big>** |
+| about | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to bear, | **<big>[[G5088\|τίκτειν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| then | **<big>[[G3303\|μεν]]</big>** |
+| it should be a male, | **<big>[[G0730\|άρσεν]]</big>** **<big>[[G1510\|η]]</big>** |
+| you kill | **<big>[[G0615\|αποκτείνατε]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a female, | **<big>[[G2338\|θήλυ]]</big>** |
+| preserve | **<big>[[G4046\|περιποιήσασθε]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.15|<< Exodus 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.17|Exodus 1:17 >>]]</td></tr></table>
 
 

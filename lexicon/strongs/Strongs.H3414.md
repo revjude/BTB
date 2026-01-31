@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִרְמְיָה‎</span></big> **Yirmᵉyâh** <small>*(yir-meh-yaw')*</small> ==**Jeremiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יִרְמְיָהוּ</span> **Yirmᵉyâhûw** <small>*(yirmeh-yaw'-hoo)*</small>; from <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will rise</small>
+**<big><span class="ashebrew">‎יִרְמְיָה‎</span></big>** **Yirmᵉyâh** <small>*(yir-meh-yaw')*</small> ==**Jeremiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יִרְמְיָהוּ</span></big>** **Yirmᵉyâhûw** <small>*(yirmeh-yaw'-hoo)*</small>; from **<big>[[H7311|‎רוּם‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will rise</small>
 
 $\quad$ Jeremiah.
 - § Jeremiah = *"whom Jehovah has appointed"*
@@ -15,4 +15,4 @@ $\quad$ Jeremiah.
 **8)** a priest also in the time of Nehemiah; maybe same as 7
 **9)** father of Jaazaniah the Rechabites
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἱερεμίας</span><sup><small>[[G2408]]</small></sup>
+<small>See Greek: </small>**<big>[[G2408|Ἱερεμίας]]</big>**

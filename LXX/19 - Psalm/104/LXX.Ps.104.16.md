@@ -7,19 +7,19 @@ The trees of the LORD are full [of sap]; the cedars of Lebanon, which he hath pl
 The trees of the LORD have their fill, the cedars of Lebanon that He planted,<small><sub>**MT:**</sub></small>
 [[Ps.104.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.15|<< Psalm 104:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.17|Psalm 104:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall be filled | <big><span class="asgreek">χορτασθήσονται</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woods | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| with the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cedars | <big><span class="asgreek">κέδροι</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you planted. | <big><span class="asgreek">εφύτευσας</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
+| shall be filled | **<big>[[G5526\|χορτασθήσονται]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| woods | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plain | **<big>[[G8676\|πεδίου]]</big>** |
+| with the | **<big>[[G3588\|αι]]</big>** |
+| cedars | **<big>[[G2748\|κέδροι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon | **<big>[[H3844\|Λιβάνου]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you planted. | **<big>[[G5452\|εφύτευσας]]</big>** |
 [[Ps.104.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.15|<< Psalm 104:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.17|Psalm 104:17 >>]]</td></tr></table>
 
 

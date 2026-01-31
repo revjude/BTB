@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵרֵשׁ‎</span></big> **chêrêsh** <small>*(khay-rashe')*</small> ==**deaf**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַשׁ‎</span><sup><small>[[H2790]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵרֵשׁ‎</span></big>** **chêrêsh** <small>*(khay-rashe')*</small> ==**deaf**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2790|‎חָרַשׁ‎]]</big>**</small>
 
 $\quad$ deaf.
 - ***deaf*** (whether literally or spiritual)

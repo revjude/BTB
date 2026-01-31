@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎שֶׁמֶשׁ‎</span></big> **shemesh** <small>*(sheh'-mesh)*</small> ==**sun**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֶׁמֶשׁ‎</span><sup><small>[[H8121]]</small></sup></small>
+**<big><span class="asaramaic">‎שֶׁמֶשׁ‎</span></big>** **shemesh** <small>*(sheh'-mesh)*</small> ==**sun**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8121|‎שֶׁמֶשׁ‎]]</big>**</small>
 
 $\quad$ sun.
 - ***the sun***
 
 **1)** sun
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἥλιος</span><sup><small>[[G2246]]</small></sup>
+<small>See Greek: </small>**<big>[[G2246|ἥλιος]]</big>**

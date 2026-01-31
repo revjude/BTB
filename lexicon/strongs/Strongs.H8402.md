@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּבְנִי‎</span></big> **Tibnîy** <small>*(tib-nee')*</small> ==**Tibni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎תֶּבֶן‎</span><sup><small>[[H8401]]</small></sup>; strawy</small>
+**<big><span class="ashebrew">‎תִּבְנִי‎</span></big>** **Tibnîy** <small>*(tib-nee')*</small> ==**Tibni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8401|‎תֶּבֶן‎]]</big>**; strawy</small>
 
 $\quad$ Tibni.
 - § Tibni = *"intelligent"*

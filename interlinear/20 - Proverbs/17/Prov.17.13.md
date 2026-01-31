@@ -10,16 +10,16 @@ If anyone returns evil for good, evil will never leave his house.
 > $\quad$ referenced by: [[1Thess.5.15|1Thess 5:15]] ☩ [[1Pet.3.7|1Pet 3:7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] returns  | <span class="ashebrew"><big>מֵשִׁ֣יב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| me.Shiv <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָ֭עָה </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| Ra.'ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good  | <span class="ashebrew"><big>טוֹבָ֑ה </big></span><small><small><sup>[[H2896C]]</sup></small></small> &#8207;| to.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will depart  | <span class="ashebrew"><big>תָמ֥וּשׁ </big></span><small><small><sup>[[H4185]]</sup></small></small> &#8207;[^1] [^2] | ta.mish <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| evil  | <span class="ashebrew"><big>רָ֝עָ֗ה </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from house his  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בֵּיתֽ </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> bei.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] returns  |**<big>&#8207;[[H7725G\|מֵשִׁ֣יב]]&#8207; </big>**| me.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451I\|רָ֭עָה]]&#8207; </big>**| Ra.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  |**<big>&#8207;[[H2896C\|טוֹבָ֑ה]]&#8207; </big>**| to.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will depart  |**<big>&#8207;[[H4185\|תָמ֥וּשׁ]]&#8207; </big>**[^1] [^2] | ta.mish<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| evil  |**<big>&#8207;[[H7451I\|רָ֝עָ֗ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from house his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004B\|בֵּיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.12|<< Proverbs 17:12]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.14|Proverbs 17:14 >>]]</td></tr></table>
 
 [^1]: ==L== spelled: **<span class="ashebrew"><big>תָמ֥יּשׁ</big></span>**

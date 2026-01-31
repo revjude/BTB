@@ -6,19 +6,19 @@ Therefore, send farewell gifts to Moresheth-gath; the houses of Achzib will prov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.13|<< Micah 1:13]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.15|Micah 1:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> therefore  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֵן֙ </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will give  | <span class="ashebrew"><big>תִּתְּנִ֣י </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ti.te.Ni <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| parting gifts  | <span class="ashebrew"><big>שִׁלּוּחִ֔ים </big></span><small><small><sup>[[H7964]]</sup></small></small> &#8207;| shi.lu.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַ֖ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moresheth  | <span class="ashebrew"><big>מוֹרֶ֣שֶׁת </big></span><small><small><sup>[[H4182]]</sup></small></small> &#8207;| mo.Re.shet <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gath  | <span class="ashebrew"><big>גַּ֑ת </big></span><small><small><sup>[[H4182]]</sup></small></small> &#8207;| Gat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] houses of  | <span class="ashebrew"><big>בָּתֵּ֤י </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| ba.Tei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aczib  | <span class="ashebrew"><big>אַכְזִיב֙ </big></span><small><small><sup>[[H0392G]]</sup></small></small> &#8207;| 'akh.Ziv <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will become] \<into> a deceitful thing  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אַכְזָ֔ב </big></span><small><small><sup>[[H0391]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'akh.Zav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] kings of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַלְכֵ֖י </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mal.Khei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will give  |**<big>&#8207;[[H5414G\|תִּתְּנִ֣י]]&#8207; </big>**| ti.te.Ni<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| parting gifts  |**<big>&#8207;[[H7964\|שִׁלּוּחִ֔ים]]&#8207; </big>**| shi.lu.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moresheth  |**<big>&#8207;[[H4182\|מוֹרֶ֣שֶׁת]]&#8207; </big>**| mo.Re.shet<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gath  |**<big>&#8207;[[H4182\|גַּ֑ת]]&#8207; </big>**| Gat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] houses of  |**<big>&#8207;[[H1004B\|בָּתֵּ֤י]]&#8207; </big>**| ba.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aczib  |**<big>&#8207;[[H0392G\|אַכְזִיב֙]]&#8207; </big>**| 'akh.Ziv<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will become] \<into> a deceitful thing  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0391\|אַכְזָ֔ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'akh.Zav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] kings of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מַלְכֵ֖י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.13|<< Micah 1:13]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.15|Micah 1:15 >>]]</td></tr></table>
 
 

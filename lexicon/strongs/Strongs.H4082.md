@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְדִינָה‎</span></big> **mᵉdîynâh** <small>*(med-ee-naw')*</small> ==**province**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎דִּין‎</span><sup><small>[[H1777]]</small></sup></small>
+**<big><span class="ashebrew">‎מְדִינָה‎</span></big>** **mᵉdîynâh** <small>*(med-ee-naw')*</small> ==**province**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1777|‎דִּין‎]]</big>**</small>
 
 $\quad$ ([idiom] every) province.
 - properly, ***a judgeship***, i.e. ***jurisdiction***
@@ -10,4 +10,4 @@ $\quad$ ([idiom] every) province.
 $\quad$ **1a)** district
 $\quad$ **1b)** province
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βασιλεία</span><sup><small>[[G0932]]</small></sup> · <span class="asgreek">βασιλεία</span><sup><small>[[G0932]]</small></sup> · <span class="asgreek">βασιλεία</span><sup><small>[[G0932]]</small></sup> · <span class="asgreek">ἐπαρχία</span><sup><small>[[G1885]]</small></sup> · <span class="asgreek">χώρα</span><sup><small>[[G5561]]</small></sup>
+<small>See Greek: </small>**<big>[[G0932|βασιλεία]]</big>** · **<big>[[G0932|βασιλεία]]</big>** · **<big>[[G0932|βασιλεία]]</big>** · **<big>[[G1885|ἐπαρχία]]</big>** · **<big>[[G5561|χώρα]]</big>**

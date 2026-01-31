@@ -1,11 +1,11 @@
-<big><span class="ashebrew">‎מָדוֹן‎</span></big> **mâdôwn** <small>*(maw-dohn')*</small> ==**strife**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דִּין‎</span><sup><small>[[H1777]]</small></sup></small>
+**<big><span class="ashebrew">‎מָדוֹן‎</span></big>** **mâdôwn** <small>*(maw-dohn')*</small> ==**strife**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1777|‎דִּין‎]]</big>**</small>
 
-$\quad$ brawling, contention(-ous), discord, strife. Compare <span class="ashebrew">‎מִדְיָן‎</span><sup><small>[[H4079]]</small></sup>, <span class="ashebrew">‎מְדָן‎</span><sup><small>[[H4090]]</small></sup>.
+$\quad$ brawling, contention(-ous), discord, strife. Compare **<big>[[H4079|‎מִדְיָן‎]]</big>**, **<big>[[H4090|‎מְדָן‎]]</big>**.
 - ***a contest*** or ***quarrel***
 
 **1)** strife, contention
 $\quad$ **1a)** strife, contention
 $\quad$ **1b)** object of contention
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντιλογία</span><sup><small>[[G0485]]</small></sup> · <span class="asgreek">δικαιοσύνη</span><sup><small>[[G1343]]</small></sup> · <span class="asgreek">κακός</span><sup><small>[[G2556]]</small></sup> · <span class="asgreek">λοίδορος</span><sup><small>[[G3060]]</small></sup> · <span class="asgreek">μάχη</span><sup><small>[[G3163]]</small></sup>
+<small>See Greek: </small>**<big>[[G0485|ἀντιλογία]]</big>** · **<big>[[G1343|δικαιοσύνη]]</big>** · **<big>[[G2556|κακός]]</big>** · **<big>[[G3060|λοίδορος]]</big>** · **<big>[[G3163|μάχη]]</big>**

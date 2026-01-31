@@ -10,52 +10,52 @@ Now when these things were done, the princes came to me, saying, The people of I
 After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.<small><sub>**MT:**</sub></small>
 [[Ezra.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.36|<< Ezra 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.2|Ezra 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| these \[things\] were finished, | <big><span class="asgreek">ετελέσθη</span></big> <sup><small><small>[[G5055]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| approached | <big><span class="asgreek">ήγγισαν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| did not separate | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εχωρίσθησαν</span></big> <sup><small><small>[[G5563]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lands | <big><span class="asgreek">γαιών</span></big> <sup><small><small>[[G6710]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their abominations -- | <big><span class="asgreek">βδελύγμασιν</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite, | <big><span class="asgreek">Χαναναίου</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hittite, | <big><span class="asgreek">Εθθί</span></big> <sup><small><small>[[H0863]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Perizzite, | <big><span class="asgreek">Φερεζί</span></big> <sup><small><small>[[H6522]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jebusite, | <big><span class="asgreek">Ιεβουσί</span></big> <sup><small><small>[[H2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite, | <big><span class="asgreek">Αμμωνί</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moabite, | <big><span class="asgreek">Μωαβί</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moserite, | <big><span class="asgreek">Μοσρί</span></big> <sup><small><small>[[H4149b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorite. | <big><span class="asgreek">Αμορί</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| these \[things\] were finished, | **<big>[[G5055\|ετελέσθη]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| approached | **<big>[[G1448\|ήγγισαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| did not separate | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5563\|εχωρίσθησαν]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] peoples | **<big>[[G2992\|λαών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| lands | **<big>[[G6710\|γαιών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their abominations -- | **<big>[[G0946\|βδελύγμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Canaanite, | **<big>[[G5477\|Χαναναίου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Hittite, | **<big>[[H0863\|Εθθί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Perizzite, | **<big>[[H6522\|Φερεζί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jebusite, | **<big>[[H2983\|Ιεβουσί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ammonite, | **<big>[[H5983\|Αμμωνί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Moabite, | **<big>[[H4124\|Μωαβί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Moserite, | **<big>[[H4149b\|Μοσρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Amorite. | **<big>[[H0567\|Αμορί]]</big>** |
 [[Ezra.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.36|<< Ezra 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.2|Ezra 9:2 >>]]</td></tr></table>
 
 

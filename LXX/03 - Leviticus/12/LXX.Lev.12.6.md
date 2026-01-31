@@ -7,41 +7,41 @@ And when the days of her purifying are fulfilled, for a son, or for a daughter, 
 When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering.<small><sub>**MT:**</sub></small>
 [[Lev.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.5|<< Leviticus 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.7|Leviticus 12:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be fulfilled | <big><span class="asgreek">αναπληρωθώσιν</span></big> <sup><small><small>[[G0378]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of her cleansing | <big><span class="asgreek">καθάρσεως</span></big> <sup><small><small>[[G7754]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a daughter, | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| she shall bring | <big><span class="asgreek">προσοίσει</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| a lamb | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαύσιον</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a young | <big><span class="asgreek">νεοσσόν</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| pigeon, | <big><span class="asgreek">περιστεράς</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| turtle-dove | <big><span class="asgreek">τρυγόνα</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\] | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest. | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be fulfilled | **<big>[[G0378\|αναπληρωθώσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of her cleansing | **<big>[[G7754\|καθάρσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G1909\|εφ΄]]</big>** |
+| a son | **<big>[[G5207\|υιώ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| a daughter, | **<big>[[G2364\|θυγατρί]]</big>** |
+| she shall bring | **<big>[[G4374\|προσοίσει]]</big>** |
+| a lamb | **<big>[[G0286\|αμνόν]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαύσιον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a young | **<big>[[G3502\|νεοσσόν]]</big>** |
+| pigeon, | **<big>[[G4058\|περιστεράς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| turtle-dove | **<big>[[G5167\|τρυγόνα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\] | **<big>[[G0266\|αμαρτίας]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| priest. | **<big>[[G2409\|ιερέα]]</big>** |
 [[Lev.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.5|<< Leviticus 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.7|Leviticus 12:7 >>]]</td></tr></table>
 
 

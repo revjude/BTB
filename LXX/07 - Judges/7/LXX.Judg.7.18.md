@@ -7,34 +7,34 @@ When I blow with a trumpet, I and all that [are] with me, then blow ye the trump
 When I and all who are with me blow our horns, then you are also to blow your horns from all around the camp and shout, ‘For the LORD and for Gideon!’”<small><sub>**MT:**</sub></small>
 [[Judg.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| When | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall trump | <big><span class="asgreek">σαλπιώ</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horn, | <big><span class="asgreek">κερατίνη</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall trump | <big><span class="asgreek">σαλπιείτε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κερατίναις</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείτε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| For the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Gideon. | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
+| When | **<big>[[G2532\|και]]</big>** |
+| I shall trump | **<big>[[G4537\|σαλπιώ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| horn, | **<big>[[G7998\|κερατίνη]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall trump | **<big>[[G4537\|σαλπιείτε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| horns | **<big>[[G7998\|κερατίναις]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείτε]]</big>** |
+| For the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for Gideon. | **<big>[[G1066\|Γεδεών]]</big>** |
 [[Judg.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
 

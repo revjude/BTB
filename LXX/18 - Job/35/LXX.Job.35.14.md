@@ -7,25 +7,25 @@ Although thou sayest thou shalt not see him, [yet] judgment [is] before him; the
 How much less, then, when you say that you do not see Him, that your case is before Him and you must wait for Him,<small><sub>**MT:**</sub></small>
 [[Job.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.13|<< Job 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.15|Job 35:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He is an observer | <big><span class="asgreek">ορατής</span></big> <sup><small><small>[[G8543]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completing | <big><span class="asgreek">συντελούντων</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds, | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will deliver | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and you plead | <big><span class="asgreek">κρίθητι</span></big> <sup><small><small>[[G2919]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you are able | <big><span class="asgreek">δύνασαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to praise | <big><span class="asgreek">αινέσαι</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he is. | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| He is an observer | **<big>[[G8543\|ορατής]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| completing | **<big>[[G4931\|συντελούντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| lawless deeds, | **<big>[[G0459\|άνομα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will deliver | **<big>[[G4982\|σώσει]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| and you plead | **<big>[[G2919\|κρίθητι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you are able | **<big>[[G1410\|δύνασαι]]</big>** |
+| to praise | **<big>[[G0134\|αινέσαι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| he is. | **<big>[[G1510\|έστι]]</big>** |
 [[Job.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.13|<< Job 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.15|Job 35:15 >>]]</td></tr></table>
 
 

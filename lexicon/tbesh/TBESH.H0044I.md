@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֲבִיעֶ֫זֶר‎</span> <small>***(a.vi.e.zer)***</small> ==**Abiezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.30|Num.26.30]]
--  son of: Gilead ([[H1568H]])
--  brother of: Helek ([[H2507]]), Asriel ([[H0844]]), Shechem ([[H7928]]), Shemida ([[H8061]]) and Hepher ([[H2660A]]); also called Iezer (KJV: Jeezer) at [[Num.26.30|Num.26.30]]
+-  son of: Gilead (**<big>[[H1568H|גִּלְעָד]]</big>**)
+-  brother of: Helek (**<big>[[H2507|חֵלֶק]]</big>**), Asriel (**<big>[[H0844|אַשְׂרִיאֵל]]</big>**), Shechem (**<big>[[H7928|שֶׁכֶם]]</big>**), Shemida (**<big>[[H8061|שְׁמִידָע]]</big>**) and Hepher (**<big>[[H2660A|חֵפֶר]]</big>**); also called Iezer (KJV: Jeezer) at [[Num.26.30|Num.26.30]]

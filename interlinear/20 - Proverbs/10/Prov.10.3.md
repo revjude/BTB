@@ -6,16 +6,16 @@ The LORD does not let the righteous go hungry, but He denies the craving of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.2|<< Proverbs 10:2]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.4|Proverbs 10:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he allows to hunger  | <span class="ashebrew"><big>יַרְעִ֣יב </big></span><small><small><sup>[[H7456]]</sup></small></small> &#8207;| yar.'Iv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] appetite of  | <span class="ashebrew"><big>נֶ֣פֶשׁ </big></span><small><small><sup>[[H5315L]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַדִּ֑יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] craving of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַוַּ֖ת </big></span><small><small><sup>[[H1942]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֣ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he rejects  | <span class="ashebrew"><big>יֶהְדֹּֽף </big></span><small><small><sup>[[H1920]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yeh.Dof <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he allows to hunger  |**<big>&#8207;[[H7456\|יַרְעִ֣יב]]&#8207; </big>**| yar.'Iv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] appetite of  |**<big>&#8207;[[H5315L\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֑יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] craving of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1942\|הַוַּ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he rejects  |**<big>&#8207;[[H1920\|יֶהְדֹּֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yeh.Dof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.2|<< Proverbs 10:2]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.4|Proverbs 10:4 >>]]</td></tr></table>
 
 

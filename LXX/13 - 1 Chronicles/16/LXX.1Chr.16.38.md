@@ -7,26 +7,26 @@ And Obededom with their brethren, threescore and eight; Obededom also the son of
 along with Obed-edom and his sixty-eight relatives. Obed-edom son of Jeduthun, and also Hosah, were to be gatekeepers.<small><sub>**MT:**</sub></small>
 [[1Chr.16.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.37|<< 1 Chronicles 16:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.39|1 Chronicles 16:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren -- | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eight. | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeduthun | <big><span class="asgreek">Ιδιθούν</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hosah | <big><span class="asgreek">Οσά</span></big> <sup><small><small>[[H2621]]</small></small></sup> |
-| \[were\] as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| gatekeepers. | <big><span class="asgreek">πυλωρούς</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brethren -- | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eight. | **<big>[[G3638\|οκτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jeduthun | **<big>[[H3038\|Ιδιθούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hosah | **<big>[[H2621\|Οσά]]</big>** |
+| \[were\] as | **<big>[[G1519\|εις]]</big>** |
+| gatekeepers. | **<big>[[G8988\|πυλωρούς]]</big>** |
 [[1Chr.16.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.37|<< 1 Chronicles 16:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.39|1 Chronicles 16:39 >>]]</td></tr></table>
 
 

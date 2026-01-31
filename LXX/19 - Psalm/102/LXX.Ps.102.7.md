@@ -7,16 +7,16 @@ I watch, and am as a sparrow alone upon the house top.
 I lie awake; I am like a lone bird on a housetop.<small><sub>**MT:**</sub></small>
 [[Ps.102.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.6|<< Psalm 102:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.8|Psalm 102:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I was sleepless | <big><span class="asgreek">ηγρύπνησα</span></big> <sup><small><small>[[G0069]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a sparrow | <big><span class="asgreek">στρουθίον</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
-| living alone | <big><span class="asgreek">μονάζον</span></big> <sup><small><small>[[G8340]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a roof. | <big><span class="asgreek">δώματος</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
+| I was sleepless | **<big>[[G0069\|ηγρύπνησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I became | **<big>[[G1096\|εγενόμην]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a sparrow | **<big>[[G4765\|στρουθίον]]</big>** |
+| living alone | **<big>[[G8340\|μονάζον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a roof. | **<big>[[G1430\|δώματος]]</big>** |
 [[Ps.102.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.6|<< Psalm 102:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.8|Psalm 102:8 >>]]</td></tr></table>
 
 

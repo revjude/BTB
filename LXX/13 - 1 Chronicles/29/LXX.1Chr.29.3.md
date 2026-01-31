@@ -7,40 +7,40 @@ Moreover, because I have set my affection to the house of my God, I have of mine
 Moreover, because of my delight in the house of my God, I now give for it my personal treasures of gold and silver, over and above all that I have provided for this holy temple:<small><sub>**MT:**</sub></small>
 [[1Chr.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.2|<< 1 Chronicles 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.4|1 Chronicles 29:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| still, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| because of | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my favoring | <big><span class="asgreek">ευδοκήσαί</span></big> <sup><small><small>[[G2106]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of my God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I procured | <big><span class="asgreek">περιπεποίημαι</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I give \[it\] | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of my God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| above | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| \[and\] outside | <big><span class="asgreek">εκτός</span></big> <sup><small><small>[[G1622]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I prepared | <big><span class="asgreek">ητοίμασα</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place -- | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| still, | **<big>[[G2089\|έτι]]</big>** |
+| because of | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my favoring | **<big>[[G2106\|ευδοκήσαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G1722\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of my God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I procured | **<big>[[G4046\|περιπεποίημαι]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I give \[it\] | **<big>[[G1325\|δέδωκα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of my God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| above | **<big>[[G5311\|ύψος]]</big>** |
+| \[and\] outside | **<big>[[G1622\|εκτός]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| I prepared | **<big>[[G2090\|ητοίμασα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of the | **<big>[[G3588\|τον]]</big>** |
+| holy place -- | **<big>[[G0039\|άγιον]]</big>** |
 [[1Chr.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.2|<< 1 Chronicles 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.4|1 Chronicles 29:4 >>]]</td></tr></table>
 
 

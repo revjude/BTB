@@ -11,33 +11,33 @@ So the Philistines were subdued, and they stopped invading the territory of Isra
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> humbled | <big><span class="asgreek">εταπείνωσε</span></big> <sup><small><small>[[G5013]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσέθεντο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ψου</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to come | <big><span class="asgreek">επελθείν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] border | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλους</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Samuel. | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> humbled | **<big>[[G5013\|εταπείνωσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσέθεντο]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ψου]]</big>** |
+| to come | **<big>[[G1904\|επελθείν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] border | **<big>[[G3725\|όριον]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρ]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλους]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Samuel. | **<big>[[G4545\|Σαμουήλ]]</big>** |
 [[1Sam.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.12|<< 1 Samuel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.14|1 Samuel 7:14 >>]]</td></tr></table>
 
 

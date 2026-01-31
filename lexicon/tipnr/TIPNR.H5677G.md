@@ -4,9 +4,9 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Eber</span> was an ancestor of Abraham, the father of Peleg and Joktan, and the eponymous ancestor of the Hebrews. \([[Gen.10.21|Gen.10.21]],24,25; 11.14,15,16,17; [[Num.24.24|Num.24.24]]; [[1Chr.1.18|1Ch.1.18]],19,25; [[Luke.3.35|Luk.3.35]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.21|Gen.10.21]]; 
-- referred to as Eber<[[H5677G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\), or Eber<[[G1443]]> \(<span class='tipnrLangGreek'>Ἐβέρ</span>\); 
-- a son of Shelah<[[H7974]]>; 
--  father of Peleg<[[H6389]]> and Joktan<[[H3355]]>.
+- referred to as Eber **<big>[[H5677|עֵבֵר]]</big>**, or Eber **<big>[[G1443|Ἐβέρ]]</big>**; 
+- a son of Shelah **<big>[[H7974|שֶׁלַח]]</big>**; 
+-  father of Peleg **<big>[[H6389|פֶּלֶג]]</big>** and Joktan **<big>[[H3355|יׇקְטָן]]</big>**.
 
 Eber is a significant figure in the genealogies of the Bible, mentioned in Genesis, Numbers, 1 Chronicles, and Luke. He is a descendant of Shem, the son of Noah, and an ancestor of Abraham, making him an important link in the lineage of the Israelites. 
 
@@ -20,9 +20,9 @@ Eber is also listed in the genealogies of [[1Chr.1.18|1 Chronicles 1:18]],19,25 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677G) <small>*Hebrew*</small> | 11x | [[Gen.10.21] ... [1Ch.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Gen.10.21;Gen.10.24;Gen.10.25;Gen.11.14;Gen.11.15;Gen.11.16;Gen.11.17;Num.24.24;1Ch.1.18;1Ch.1.19;1Ch.1.25) |
-| Eber | [<span class='tipnrLangGreek'>Ἐβέρ</span>](G1443) <small>*Greek*</small> | 1x | [Luk.3.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Luk.3.35) |
-All Strong's for **Eber**: \[[[H5677G]]\] \[[[G1443]]\]
+| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677G) | 11x | [[Gen.10.21] ... [1Ch.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Gen.10.21;Gen.10.24;Gen.10.25;Gen.11.14;Gen.11.15;Gen.11.16;Gen.11.17;Num.24.24;1Ch.1.18;1Ch.1.19;1Ch.1.25) |
+| Eber | [<span class='tipnrLangGreek'>Ἐβέρ</span>](G1443) | 1x | [Luk.3.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Luk.3.35) |
+All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>** ☩  **<big>[[G1443|Ἐβέρ]]</big>**
 #### Related Profiles:
 - **[Shelah](H7974)** (father)
 - **[Peleg](H6389)** (child)

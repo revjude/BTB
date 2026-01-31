@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎תַּקִּיף‎</span></big> **taqqîyph** <small>*(tak-keef')*</small> ==**strong**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎תַּקִּיף‎</span><sup><small>[[H8623]]</small></sup></small>
+**<big><span class="asaramaic">‎תַּקִּיף‎</span></big>** **taqqîyph** <small>*(tak-keef')*</small> ==**strong**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8623|‎תַּקִּיף‎]]</big>**</small>
 
 $\quad$ mighty, strong.
 - {***powerful***}

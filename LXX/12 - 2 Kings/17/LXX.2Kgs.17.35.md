@@ -7,29 +7,29 @@ With whom the LORD had made a covenant, and charged them, saying, Ye shall not f
 For the LORD had made a covenant with the Israelites and commanded them, “Do not worship other gods or bow down to them; do not serve them or sacrifice to them.<small><sub>**MT:**</sub></small>
 [[2Kgs.17.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.34|<< 2 Kings 17:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.36|2 Kings 17:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not fear | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">φοβηθήσεσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| other | <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not do obeisance to | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">προσκυνήσετε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not serve | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λατρεύσετε</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not sacrifice | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">θύσετε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordained | **<big>[[G1303\|διέθετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| a covenant, | **<big>[[G1242\|διαθήκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not fear | **<big>[[G3756\|ου]]</big>** **<big>[[G5399\|φοβηθήσεσθε]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| other | **<big>[[G2087\|ετέρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not do obeisance to | **<big>[[G3756\|ου]]</big>** **<big>[[G4352\|προσκυνήσετε]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not serve | **<big>[[G3756\|ου]]</big>** **<big>[[G3000\|λατρεύσετε]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not sacrifice | **<big>[[G3756\|ου]]</big>** **<big>[[G2380\|θύσετε]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[2Kgs.17.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.34|<< 2 Kings 17:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.36|2 Kings 17:36 >>]]</td></tr></table>
 
 

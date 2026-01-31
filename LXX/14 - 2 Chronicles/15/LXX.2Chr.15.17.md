@@ -7,26 +7,26 @@ But the high places were not taken away out of Israel: nevertheless the heart of
 The high places were not removed from Israel, but Asa’s heart was fully devoted all his days.<small><sub>**MT:**</sub></small>
 [[2Chr.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.16|<< 2 Chronicles 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.18|2 Chronicles 15:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\] | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| removed, | <big><span class="asgreek">εξήρεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[they\] existed | <big><span class="asgreek">υπήρχεν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of Asa | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| was perfect | <big><span class="asgreek">τελεία</span></big> <sup><small><small>[[G5046]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Except | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| high \[places\] | **<big>[[G5308\|υψηλά]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| removed, | **<big>[[G1808\|εξήρεν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[they\] existed | **<big>[[G5225\|υπήρχεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Only | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| of Asa | **<big>[[G0760\|Ασά]]</big>** |
+| was perfect | **<big>[[G5046\|τελεία]]</big>** **<big>[[G1510\|ην]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his days. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.16|<< 2 Chronicles 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.18|2 Chronicles 15:18 >>]]</td></tr></table>
 
 

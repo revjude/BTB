@@ -1,4 +1,4 @@
-combination of: <small>[[G1520]] ([[G2596]]+[[G1520]])</small> 
+combination of: <small>**<big>[[G1520|εἷς]]</big>** (**<big>[[G2596|κατά]]</big>**+**<big>[[G1520|εἷς]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==καθεῖς==</span></b>, 

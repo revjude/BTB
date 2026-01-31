@@ -7,34 +7,34 @@ Yet they had a file for the mattocks, and for the coulters, and for the forks, a
 The charge was a pim for sharpening a plowshare or mattock, a third of a shekel for sharpening a pitchfork or an axe, and a third of a shekel for repointing an oxgoad.<small><sub>**MT:**</sub></small>
 [[1Sam.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.20|<< 1 Samuel 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.22|1 Samuel 13:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering of crops | <big><span class="asgreek">τρυγητός</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| prepared | <big><span class="asgreek">έτοιμος</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to harvest. | <big><span class="asgreek">θερίζειν</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| But for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| there was \[a charge of\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tooth, | <big><span class="asgreek">οδόντα</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| axe, | <big><span class="asgreek">αξίνη</span></big> <sup><small><small>[[G0513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sickle; | <big><span class="asgreek">δρεπάνω</span></big> <sup><small><small>[[G1407]]</small></small></sup> |
-| \[the\] support \[camp\] | <big><span class="asgreek">υπόστασις</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| gathering of crops | **<big>[[G9506\|τρυγητός]]</big>** |
+| prepared | **<big>[[G2092\|έτοιμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to harvest. | **<big>[[G2325\|θερίζειν]]</big>** |
+| But for | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| there was \[a charge of\] | **<big>[[G1510\|ην]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| shekels | **<big>[[G9079\|σίκλοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| tooth, | **<big>[[G3599\|οδόντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| axe, | **<big>[[G0513\|αξίνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| sickle; | **<big>[[G1407\|δρεπάνω]]</big>** |
+| \[the\] support \[camp\] | **<big>[[G5287\|υπόστασις]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| same. | **<big>[[G1473\|αυτή]]</big>** |
 [[1Sam.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.20|<< 1 Samuel 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.22|1 Samuel 13:22 >>]]</td></tr></table>
 
 

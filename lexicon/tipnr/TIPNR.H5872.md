@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Engedi</span> \(or Hazazon-tamar\), an oasis in Judah where David sought refuge from Saul, also the site of Chedorlaomer's victory.
 - A location first mentioned at [[Josh.15.62|Jos.15.62]]; 
-- referred to as Engedi<[[H5872]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Hazazon-tamar \(KJV= Hazezon-tamar, NIV= Hazezon Tamar\) <[[H2688]]> \(<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>צ</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- referred to as Engedi **<big>[[H5872|עֵין גֶּדִי]]</big>**, or Hazazon-tamar \(KJV= Hazezon-tamar, NIV= Hazezon Tamar\)  **<big>[[H2688|חַצְצוֹן תָּמָר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.46152536164766,35.39241108242345&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The name Engedi means "spring of the kid \(young goat\)" or "fountain of the goa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Engedi | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>](H5872) <small>*Hebrew*</small> | 6x | [[Jos.15.62] ... [Ezk.47.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Engedi\*\|reference=Jos.15.62;1Sa.23.29;1Sa.24.1;2Ch.20.2;Sng.1.14;Ezk.47.10) |
-| Hazazon-tamar (KJV= Hazezon-tamar; NIV= Hazezon Tamar) | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>צ</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H2688) <small>*Hebrew*</small> | 2x | [[Gen.14.7] & [2Ch.20.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazazon\*\|reference=Gen.14.7;2Ch.20.2) |
-All Strong's for **Engedi or Hazazon-tamar**: \[[[H5872]]\] \[[[H2688]]\]
+| Engedi | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>](H5872) | 6x | [[Jos.15.62] ... [Ezk.47.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Engedi\*\|reference=Jos.15.62;1Sa.23.29;1Sa.24.1;2Ch.20.2;Sng.1.14;Ezk.47.10) |
+| Hazazon-tamar (KJV= Hazezon-tamar; NIV= Hazezon Tamar) | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>צ</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H2688) | 2x | [[Gen.14.7] & [2Ch.20.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazazon\*\|reference=Gen.14.7;2Ch.20.2) |
+All entries for **Engedi or Hazazon-tamar**:  **<big>[[H5872|עֵין גֶּדִי]]</big>** ☩  **<big>[[H2688|חַצְצוֹן תָּמָר]]</big>**

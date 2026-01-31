@@ -7,43 +7,43 @@ And the LORD was gracious unto them, and had compassion on them, and had respect
 But the LORD was gracious to Israel and had compassion on them, and He turned toward them because of His covenant with Abraham, Isaac, and Jacob. And to this day, the LORD has been unwilling to destroy them or cast them from His presence.<small><sub>**MT:**</sub></small>
 [[2Kgs.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.22|<< 2 Kings 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.24|2 Kings 13:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> showed mercy | <big><span class="asgreek">ηλέησε</span></big> <sup><small><small>[[G1653]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| on them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pitied | <big><span class="asgreek">ωκτείρησεν</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked | <big><span class="asgreek">επέβλεψεν</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">διαφθείραι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| throw | <big><span class="asgreek">απέρριψεν</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| now. | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> showed mercy | **<big>[[G1653\|ηλέησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| on them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pitied | **<big>[[G3627\|ωκτείρησεν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| looked | **<big>[[G1914\|επέβλεψεν]]</big>** |
+| upon | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to utterly destroy | **<big>[[G1311\|διαφθείραι]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| throw | **<big>[[G0641\|απέρριψεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| now. | **<big>[[G3568\|νυν]]</big>** |
 [[2Kgs.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.22|<< 2 Kings 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.24|2 Kings 13:24 >>]]</td></tr></table>
 
 

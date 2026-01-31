@@ -7,37 +7,37 @@ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two [o
 Yet gleanings will remain, like an olive tree that has been beaten—two or three berries atop the tree, four or five on its fruitful branches,” declares the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be left behind | <big><span class="asgreek">καταλειφθή</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stubble | <big><span class="asgreek">καλάμη</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| stones | <big><span class="asgreek">ρώγες</span></big> <sup><small><small>[[G9041]]</small></small></sup> |
-| olive | <big><span class="asgreek">ελαίας</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| at | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] top \[of the tree\] | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| elevated | <big><span class="asgreek">μετεώρου</span></big> <sup><small><small>[[G8308]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tender branches | <big><span class="asgreek">κλάδων</span></big> <sup><small><small>[[G2798]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should be left behind | <big><span class="asgreek">καταλειφθώσι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be left behind | **<big>[[G2641\|καταλειφθή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| stubble | **<big>[[G2562\|καλάμη]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| stones | **<big>[[G9041\|ρώγες]]</big>** |
+| olive | **<big>[[G1636\|ελαίας]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| at | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] top \[of the tree\] | **<big>[[G6208\|άκρου]]</big>** |
+| elevated | **<big>[[G8308\|μετεώρου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their tender branches | **<big>[[G2798\|κλάδων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| should be left behind | **<big>[[G2641\|καταλειφθώσι]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
 
 

@@ -10,20 +10,20 @@ But I had concern for My holy name, which the house of Israel had profaned among
 > $\quad$ referenced by: [[Rom.2.24|Rom 2:24]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I showed pity  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֶחְמֹ֖ל </big></span><small><small><sup>[[H2550]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'ech.Mol <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֣ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness my  | <span class="ashebrew"><big>קָדְשִׁ֑ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| kod.sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had profaned it  | <span class="ashebrew"><big>חִלְּל֙וּ </big></span><small><small><sup>[[H2490H]]</sup></small></small> <span class="ashebrew"><big>הוּ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| chi.le.Lu. <small><sup>[[HVpp3cp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the nations  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִ֖ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had gone  | <span class="ashebrew"><big>בָּ֥אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there towards  | <span class="ashebrew"><big>שָֽׁמָּ </big></span><small><small><sup>[[H8033G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Sha.ma <small><sup>[[HD]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I showed pity  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2550\|אֶחְמֹ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ech.Mol<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness my  |**<big>&#8207;[[H6944G\|קָדְשִׁ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kod.sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had profaned it  |**<big>&#8207;[[H2490H\|חִלְּל֙וּ]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| chi.le.Lu.<small><sup>[[HVpp3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֖ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had gone  |**<big>&#8207;[[H0935G\|בָּ֥אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there towards  |**<big>&#8207;[[H8033G\|שָֽׁמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.20|<< Ezekiel 36:20]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.22|Ezekiel 36:22 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ It repenteth me that I have set up Saul [to be] king: for he is turned back from
 “I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions.” And Samuel was distressed and cried out to the LORD all that night.<small><sub>**MT:**</sub></small>
 [[1Sam.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.10|<< 1 Samuel 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.12|1 Samuel 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I have changed my mind | <big><span class="asgreek">μεταμεμέλημαι</span></big> <sup><small><small>[[G3338]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Saul to reign | <big><span class="asgreek">εβασίλευσα</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he turned away | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[following\] after | <big><span class="asgreek">όπισθέ</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give heed to. | <big><span class="asgreek">ετήρησε</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel was depressed, | <big><span class="asgreek">ηθύμησε</span></big> <sup><small><small>[[G0120]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled | <big><span class="asgreek">εβόησε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| I have changed my mind | **<big>[[G3338\|μεταμεμέλημαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Saul to reign | **<big>[[G0936\|εβασίλευσα]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he turned away | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[following\] after | **<big>[[G3693\|όπισθέ]]</big>** |
+| me; | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| give heed to. | **<big>[[G5083\|ετήρησε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel was depressed, | **<big>[[G0120\|ηθύμησε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| yelled | **<big>[[G0994\|εβόησε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| night. | **<big>[[G3571\|νύκτα]]</big>** |
 [[1Sam.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.10|<< 1 Samuel 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.12|1 Samuel 15:12 >>]]</td></tr></table>
 
 

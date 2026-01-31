@@ -7,28 +7,28 @@ Moreover they reckoned not with the men, into whose hand they delivered the mone
 No accounting was required from the men who received the money to pay the workmen, because they acted with integrity.<small><sub>**MT:**</sub></small>
 [[2Kgs.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.14|<< 2 Kings 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.16|2 Kings 12:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| call into account | <big><span class="asgreek">εξελογίζοντο</span></big> <sup><small><small>[[G7115]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδίδοτο</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| into | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work; | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trust | <big><span class="asgreek">πίστει</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| they were acting | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| call into account | **<big>[[G7115\|εξελογίζοντο]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| to whom | **<big>[[G3739\|οις]]</big>** |
+| was given | **<big>[[G1325\|εδίδοτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| into | **<big>[[G1909\|επί]]</big>** |
+| their hands, | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| doing | **<big>[[G4160\|ποιούσι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| work; | **<big>[[G2041\|έργον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| trust | **<big>[[G4102\|πίστει]]</big>** |
+| they were acting | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G4160\|ποιούσιν]]</big>** |
 [[2Kgs.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.14|<< 2 Kings 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.16|2 Kings 12:16 >>]]</td></tr></table>
 
 

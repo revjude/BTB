@@ -7,28 +7,28 @@ Neither shall he regard the God of his fathers, nor the desire of women, nor reg
 He will show no regard for the gods of his fathers, nor for the one desired by women, nor for any other god, because he will magnify himself above them all.<small><sub>**MT:**</sub></small>
 [[Dan.11.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.36|<< Daniel 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.38|Daniel 11:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will not take notice, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήσει</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| nor | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| of women; | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| god | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take notice; | <big><span class="asgreek">συνήσει</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| above | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| he will be magnified. | <big><span class="asgreek">μεγαλυνθήσεται</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he will not take notice, | **<big>[[G3756\|ου]]</big>** **<big>[[G4920\|συνήσει]]</big>** |
+| nor | **<big>[[G2532\|και]]</big>** |
+| \[the\] desire | **<big>[[G1939\|επιθυμία]]</big>** |
+| of women; | **<big>[[G1135\|γυναικών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| god | **<big>[[G2316\|θεόν]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| take notice; | **<big>[[G4920\|συνήσει]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| above | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| he will be magnified. | **<big>[[G3170\|μεγαλυνθήσεται]]</big>** |
 [[Dan.11.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.36|<< Daniel 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.38|Daniel 11:38 >>]]</td></tr></table>
 
 

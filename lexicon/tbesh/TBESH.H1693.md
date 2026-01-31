@@ -1,4 +1,3 @@
-<span class="asaramaic">‎דְּבֵק‎</span> <small>***(de.vaq)***</small> ==**to cleave**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1692]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1692|דָּבַק]]</big>**</small> 
 
-- Aramaic of <i>da.vaq</i> (<span class='ashebrew'>‎ד‎</span>ָּ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ק‎</span> "to cleave" [[H1692]])
+- Aramaic of <i>da.vaq</i> (<span class='ashebrew'>‎ד‎</span>ָּ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ק‎</span> "to cleave" **<big>[[H1692|דָּבַק]]</big>**)

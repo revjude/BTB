@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zanoah</span>, a town in the Judean lowlands allotted to Judah, whose inhabitants helped rebuild the Valley Gate during Nehemiah's time \(Josh. 15:34; 1 Chr. 4:18; Neh. 3:13; 11:30\).
 - A location first mentioned at [[Josh.15.34|Jos.15.34]]; 
-- only referred to as Zanoah<[[H2182G]]> \(<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ\).
+- only referred to as Zanoah **<big>[[H2182|זָנוֹחַ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.716667,35.000000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zanoah was a town located in the Judean lowlands \(Shephelah\) that was allotted
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zanoah | [<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ](H2182G) <small>*Hebrew*</small> | 4x | [[Jos.15.34] ... [Neh.11.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zanoah\*\|reference=Jos.15.34;1Ch.4.18;Neh.3.13;Neh.11.30) |
-All Strong's for **Zanoah**: \[[[H2182G]]\]
+| Zanoah | [<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ](H2182G) | 4x | [[Jos.15.34] ... [Neh.11.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zanoah\*\|reference=Jos.15.34;1Ch.4.18;Neh.3.13;Neh.11.30) |
+All entries for **Zanoah**:  **<big>[[H2182|זָנוֹחַ]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִזְעָר‎</span></big> **mizʻâr** <small>*(miz-awr')*</small> ==**little**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎זְעֵיר‎</span><sup><small>[[H2191]]</small></sup></small>
+**<big><span class="ashebrew">‎מִזְעָר‎</span></big>** **mizʻâr** <small>*(miz-awr')*</small> ==**little**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H2191|‎זְעֵיר‎]]</big>**</small>
 
 $\quad$ few, [idiom] very.
 - ***fewness***
@@ -9,4 +9,4 @@ $\quad$ few, [idiom] very.
 $\quad$ **1a)** a trifle, a little (of time)
 $\quad$ **1b)** a remnant, a very few (of number)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀλίγος</span><sup><small>[[G3641]]</small></sup>
+<small>See Greek: </small>**<big>[[G3641|ὀλίγος]]</big>**

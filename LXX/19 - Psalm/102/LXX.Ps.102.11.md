@@ -7,17 +7,17 @@ My days [are] like a shadow that declineth; and I am withered like grass.
 My days are like lengthening shadows, and I wither away like grass.<small><sub>**MT:**</sub></small>
 [[Ps.102.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.10|<< Psalm 102:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.12|Psalm 102:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| declined | <big><span class="asgreek">εκλίθησαν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| am dried up. | <big><span class="asgreek">εξηράνθην</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| My days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a shadow | **<big>[[G4639\|σκιά]]</big>** |
+| declined | **<big>[[G2827\|εκλίθησαν]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| grass | **<big>[[G5528\|χόρτος]]</big>** |
+| am dried up. | **<big>[[G3583\|εξηράνθην]]</big>** |
 [[Ps.102.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.10|<< Psalm 102:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.12|Psalm 102:12 >>]]</td></tr></table>
 
 

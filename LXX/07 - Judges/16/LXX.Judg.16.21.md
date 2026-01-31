@@ -7,35 +7,35 @@ But the Philistines took him, and put out his eyes, and brought him down to Gaza
 Then the Philistines seized him, gouged out his eyes, and brought him down to Gaza, where he was bound with bronze shackles and forced to grind grain in the prison.<small><sub>**MT:**</sub></small>
 [[Judg.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.20|<< Judges 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.22|Judges 16:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took hold of | <big><span class="asgreek">επελάβοντο</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gouged out | <big><span class="asgreek">εξώρυξαν</span></big> <sup><small><small>[[G1846]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| carried | <big><span class="asgreek">κατήνεγκαν</span></big> <sup><small><small>[[G2702]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Gaza. | <big><span class="asgreek">Γάζαν</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they bound | <big><span class="asgreek">έδησαν</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| shackles | <big><span class="asgreek">πέδαις</span></big> <sup><small><small>[[G3976]]</small></small></sup> |
-| of brass, | <big><span class="asgreek">χαλκαίς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| grinding | <big><span class="asgreek">αλήθων</span></big> <sup><small><small>[[G0229]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prison. | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took hold of | **<big>[[G1949\|επελάβοντο]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gouged out | **<big>[[G1846\|εξώρυξαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| carried | **<big>[[G2702\|κατήνεγκαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Gaza. | **<big>[[G1048\|Γάζαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they bound | **<big>[[G1210\|έδησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| shackles | **<big>[[G3976\|πέδαις]]</big>** |
+| of brass, | **<big>[[G5470\|χαλκαίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was | **<big>[[G1510\|ην]]</big>** |
+| grinding | **<big>[[G0229\|αλήθων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| prison. | **<big>[[G5438\|φυλακής]]</big>** |
 [[Judg.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.20|<< Judges 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.22|Judges 16:22 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ The floor and the winepress shall not feed them, and the new wine shall fail in 
 The threshing floor and winepress will not feed them, and the new wine will fail them.<small><sub>**MT:**</sub></small>
 [[Hos.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.1|<< Hosea 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.3|Hosea 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] threshing-floor | <big><span class="asgreek">άλων</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine vat | <big><span class="asgreek">ληνός</span></big> <sup><small><small>[[G3025]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| lied | <big><span class="asgreek">εψεύσατο</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] threshing-floor | **<big>[[G0257\|άλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine vat | **<big>[[G3025\|ληνός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| lied | **<big>[[G5574\|εψεύσατο]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Hos.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.1|<< Hosea 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.3|Hosea 9:3 >>]]</td></tr></table>
 
 

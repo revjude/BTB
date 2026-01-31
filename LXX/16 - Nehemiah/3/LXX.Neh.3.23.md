@@ -7,26 +7,26 @@ After him repaired Benjamin and Hashub over against their house. After him repai
 Beyond them, Benjamin and Hasshub made repairs in front of their house, and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house.<small><sub>**MT:**</sub></small>
 [[Neh.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.22|<< Nehemiah 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.24|Nehemiah 3:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Benjamin repaired | <big><span class="asgreek">εκράτησε</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hashub | <big><span class="asgreek">Ασούβ</span></big> <sup><small><small>[[H2815]]</small></small></sup> |
-| over against | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| their house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Azariah repaired, | <big><span class="asgreek">εκράτησεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Αζαρίας</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Maaseiah, | <big><span class="asgreek">Μαασέου</span></big> <sup><small><small>[[H4641]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ananiah, | <big><span class="asgreek">Ανανίου</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| his house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Benjamin repaired | **<big>[[G2902\|εκράτησε]]</big>** **<big>[[G0958\|Βενιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hashub | **<big>[[H2815\|Ασούβ]]</big>** |
+| over against | **<big>[[G2713\|κατέναντι]]</big>** |
+| their house. | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Azariah repaired, | **<big>[[G2902\|εκράτησεν]]</big>** **<big>[[H5839\|Αζαρίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Maaseiah, | **<big>[[H4641\|Μαασέου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ananiah, | **<big>[[H2608b\|Ανανίου]]</big>** |
+| next to | **<big>[[G2192\|εχόμενα]]</big>** |
+| his house. | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Neh.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.22|<< Nehemiah 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.24|Nehemiah 3:24 >>]]</td></tr></table>
 
 

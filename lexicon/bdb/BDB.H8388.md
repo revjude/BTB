@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H8376]] | [[H8427]]</small>
+<small>Also see: **<big>[[H8376|תָּאָה]]</big>** | **<big>[[H8427|תָּוָה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎תָּאַר‎</span>] **verb Pi\`el denominative** ==draw in outline, trace out==; — ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יְתָֽאֲרֵ֫הוּ‎</span> [[Isa.44.13|Isa 44:13]] (twice in verse) (both with <span class="bdbLangHebrew">‎ב‎</span> instrumental), of shaping idols; for [[BDB#MT|ᵑ0]] 2 masculine plural <span class="bdbLangHebrew">‎תְּתָאוּ‎</span> [[Num.34.7|Num 34:7]]; [[Num.34.8|Num 34:8]] [[BDB#Che|Che]]<sup>Ency. Bib. 2109</sup> proposes <span class="bdbLangHebrew">‎תְּתָאֲרוּ‎</span> ***ye shall trace out*** (the boundary; with <span class="bdbLangHebrew">‎וְתֵאַרְתֶּם‎</span> for <span class="bdbLangHebrew">‎וְהִתְאַוִּיתֶם‎</span> v[[Num.34.10|Num 34:10]]); see also  <span class="bdbLangHebrew">‎תאה‎</span>, <span class="bdbLangHebrew">‎תוה‎</span>. <span class="bdbLangHebrew">‎תַּאֲרֵעַ‎</span> see  <span class="bdbLangHebrew">‎תַּחֲרֵעַ‎</span> below <span class="bdbLangHebrew">‎חרע‎</span> p. 357.<span class="bdbLangHebrew">‎תְּאַשּׁוּר‎</span> see below [<span class="bdbLangHebrew">‎אָשַׁר‎</span>] p. 81.
 

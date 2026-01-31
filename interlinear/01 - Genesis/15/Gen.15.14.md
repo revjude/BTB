@@ -10,20 +10,20 @@ But I will judge the nation they serve as slaves, and afterward they will depart
 > $\quad$ referenced by: [[Acts.7.6|Acts 7:6-7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַ֧ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the nation  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גּ֛וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will serve  | <span class="ashebrew"><big>יַעֲבֹ֖דוּ </big></span><small><small><sup>[[H5647G]]</sup></small></small> &#8207;| ya.'a.Vo.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] judging  | <span class="ashebrew"><big>דָּ֣ן </big></span><small><small><sup>[[H1777]]</sup></small></small> &#8207;| dan <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹ֑כִי </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.No.khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and after  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַחֲרֵי </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.cha.rei- <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come out  | <span class="ashebrew"><big>יֵצְא֖וּ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ye.tze.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with possession[s]  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רְכֻ֥שׁ </big></span><small><small><sup>[[H7399]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> r.Khush <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גָּדֽוֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֧ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nation  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּ֛וֹי]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will serve  |**<big>&#8207;[[H5647G\|יַעֲבֹ֖דוּ]]&#8207; </big>**| ya.'a.Vo.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] judging  |**<big>&#8207;[[H1777\|דָּ֣ן]]&#8207; </big>**| dan<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹ֑כִי]]&#8207; </big>**| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵ֥ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come out  |**<big>&#8207;[[H3318G\|יֵצְא֖וּ]]&#8207; </big>**| ye.tze.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with possession[s]  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7399\|רְכֻ֥שׁ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.Khush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.13|<< Genesis 15:13]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.15|Genesis 15:15 >>]]</td></tr></table>
 
 

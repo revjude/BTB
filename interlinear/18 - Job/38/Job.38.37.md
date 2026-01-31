@@ -6,16 +6,16 @@ Who has the wisdom to count the clouds? Or who can tilt the water jars of the he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.36|<< Job 38:36]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.38|Job 38:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he count  | <span class="ashebrew"><big>יְסַפֵּ֣ר </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| ye.sa.Per <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] clouds  | <span class="ashebrew"><big>שְׁחָקִ֣ים </big></span><small><small><sup>[[H7834]]</sup></small></small> &#8207;| she.cha.Kim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by wisdom  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.khe.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] waterskins of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נִבְלֵ֥י </big></span><small><small><sup>[[H5035A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> niv.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁ֝מַ֗יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he make to lie down  | <span class="ashebrew"><big>יַשְׁכִּֽיב </big></span><small><small><sup>[[H7901G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yash.Kiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he count  |**<big>&#8207;[[H5608A\|יְסַפֵּ֣ר]]&#8207; </big>**| ye.sa.Per<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clouds  |**<big>&#8207;[[H7834\|שְׁחָקִ֣ים]]&#8207; </big>**| she.cha.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by wisdom  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2451\|חָכְמָ֑ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] waterskins of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5035A\|נִבְלֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> niv.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁ֝מַ֗יִם]]&#8207; </big>**| Sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he make to lie down  |**<big>&#8207;[[H7901G\|יַשְׁכִּֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yash.Kiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.36|<< Job 38:36]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.38|Job 38:38 >>]]</td></tr></table>
 
 

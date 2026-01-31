@@ -7,17 +7,17 @@ And Gath, and Mareshah, and Ziph,
 Gath, Mareshah, Ziph,<small><sub>**MT:**</sub></small>
 [[2Chr.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.7|<< 2 Chronicles 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.9|2 Chronicles 11:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gath, | <big><span class="asgreek">Γεθ</span></big> <sup><small><small>[[H1661]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mareshah, | <big><span class="asgreek">Μαρισά</span></big> <sup><small><small>[[H4762]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ziph, | <big><span class="asgreek">Ζιφ</span></big> <sup><small><small>[[H2128]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Gath, | **<big>[[H1661\|Γεθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Mareshah, | **<big>[[H4762\|Μαρισά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Ziph, | **<big>[[H2128\|Ζιφ]]</big>** |
 [[2Chr.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.7|<< 2 Chronicles 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.9|2 Chronicles 11:9 >>]]</td></tr></table>
 
 

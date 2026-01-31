@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐν-νεύω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Prov.6.13|Pr 6:13]] [[LXX.Prov.10.10|10:10]] (<span class="ashebrew">קָרַץ</span> <small><sup>[[H7169]]</sup></small>), [[Sir.27.22|Si 27:22]] A \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐν-νεύω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Prov.6.13|Pr 6:13]] [[LXX.Prov.10.10|10:10]] (**<big>[[H7169|קָרַץ]]</big>**), [[Sir.27.22|Si 27:22]] A \* ;\] </span> </span>
 <span class="asitalic">to nod to, make a sign to</span>: c. dat. pers., [[Luke.1.62|Lk 1:62]].†
 
 **Abbott-Smith References**

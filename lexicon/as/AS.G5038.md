@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τεῖχος</span></span>, <span class="asgreek">-ους, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">חוֹמָה</span> <small><sup>[[H2346]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τεῖχος</span></span>, <span class="asgreek">-ους, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H2346|חוֹמָה]]</big>** ;\] </span> </span>
 <span class="asitalic">a wall</span>, esp. that about a town: [[Acts.9.25|Ac 9:25]], [[2Cor.11.33|II Co 11:33]], [[Heb.11.30|He 11:30]], [[Rev.21.12|Re 21:12-19]] †
 
 **Abbott-Smith References**

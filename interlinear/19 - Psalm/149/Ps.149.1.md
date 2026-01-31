@@ -6,17 +6,17 @@ Hallelujah! Sing to the LORD a new song—His praise in the assembly of the godl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.14|<< Psalms 148:14]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.2|Psalms 149:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| praise  | <span class="ashebrew"><big>הַ֥לְלוּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| Ha.lu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָ֨הּ </big></span><small><small><sup>[[H3050]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sing  | <span class="ashebrew"><big>שִׁ֣ירוּ </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| Shi.ru <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a song  | <span class="ashebrew"><big>שִׁ֣יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new  | <span class="ashebrew"><big>חָדָ֑שׁ </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.Dash <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| praise his  | <span class="ashebrew"><big>תְּ֝הִלָּת֗ </big></span><small><small><sup>[[H8416]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| te.hi.la.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] assembly of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קְהַ֥ל </big></span><small><small><sup>[[H6951]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> k.Hal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithful [people]  | <span class="ashebrew"><big>חֲסִידִֽים </big></span><small><small><sup>[[H2623]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.si.Dim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H1984B\|הַ֥לְלוּ]]&#8207; </big>**| Ha.lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָ֨הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sing  |**<big>&#8207;[[H7891\|שִׁ֣ירוּ]]&#8207; </big>**| Shi.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  |**<big>&#8207;[[H7892A\|שִׁ֣יר]]&#8207; </big>**| shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  |**<big>&#8207;[[H2319H\|חָדָ֑שׁ]]&#8207; </big>**| cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise his  |**<big>&#8207;[[H8416\|תְּ֝הִלָּת֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| te.hi.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] assembly of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6951\|קְהַ֥ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithful [people]  |**<big>&#8207;[[H2623\|חֲסִידִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.si.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.14|<< Psalms 148:14]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.2|Psalms 149:2 >>]]</td></tr></table>
 
 

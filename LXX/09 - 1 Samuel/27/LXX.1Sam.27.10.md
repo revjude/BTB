@@ -7,33 +7,33 @@ And Achish said, Whither have ye made a road to day? And David said, Against the
 who would ask him, “What have you raided today?” And David would reply, “The Negev of Judah,” or “The Negev of Jerahmeel,” or “The Negev of the Kenites.”<small><sub>**MT:**</sub></small>
 [[1Sam.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Achish said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| whom did | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you attack | <big><span class="asgreek">επέθεσθε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Achish, | <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| To | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in Judea, | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| of Jerahmeel, | <big><span class="asgreek">Ιεραμιήλ</span></big> <sup><small><small>[[H3396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenite. | <big><span class="asgreek">Κενεζί</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Achish said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0397\|Ακχίς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| whom did | **<big>[[G5100\|τίνα]]</big>** |
+| you attack | **<big>[[G2007\|επέθεσθε]]</big>** |
+| today? | **<big>[[G4594\|σήμερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Achish, | **<big>[[H0397\|Ακχίς]]</big>** |
+| To | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] south | **<big>[[G3558\|νότον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| in Judea, | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] south | **<big>[[G3558\|νότον]]</big>** |
+| of Jerahmeel, | **<big>[[H3396\|Ιεραμιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] south | **<big>[[G3558\|νότον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Kenite. | **<big>[[H7017\|Κενεζί]]</big>** |
 [[1Sam.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
 
 

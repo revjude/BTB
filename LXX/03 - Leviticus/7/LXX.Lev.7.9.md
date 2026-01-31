@@ -7,31 +7,31 @@ And all the meat offering that is baken in the oven, and all that is dressed in 
 Likewise, every grain offering that is baked in an oven or cooked in a pan or on a griddle belongs to the priest who presents it,<small><sub>**MT:**</sub></small>
 [[Lev.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.8|<< Leviticus 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.10|Leviticus 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sacrifice \[offering\] | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| should be prepared | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oven, | <big><span class="asgreek">κλιβάνω</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall be prepared | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a grate | <big><span class="asgreek">εσχάρας</span></big> <sup><small><small>[[G7516]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a frying pan, | <big><span class="asgreek">τηγάνου</span></big> <sup><small><small>[[G9444]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offering | <big><span class="asgreek">προσφέροντος</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall be his. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| sacrifice \[offering\] | **<big>[[G2378\|θυσία]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| should be prepared | **<big>[[G4160\|ποιηθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| oven, | **<big>[[G2823\|κλιβάνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| shall be prepared | **<big>[[G4160\|ποιηθήσεται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| a grate | **<big>[[G7516\|εσχάρας]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a frying pan, | **<big>[[G9444\|τηγάνου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| offering | **<big>[[G4374\|προσφέροντος]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| it shall be his. | **<big>[[G1473\|αυτού]]</big>** **<big>[[G1510\|έσται]]</big>** |
 [[Lev.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.8|<< Leviticus 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.10|Leviticus 7:10 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּדְעֹם‎</span></big> **Gidʻôm** <small>*(ghid-ohm')*</small> ==**Gidom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּדַע‎</span><sup><small>[[H1438]]</small></sup>; a cutting (i.e. desolation)</small>
+**<big><span class="ashebrew">‎גִּדְעֹם‎</span></big>** **Gidʻôm** <small>*(ghid-ohm')*</small> ==**Gidom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1438|‎גָּדַע‎]]</big>**; a cutting (i.e. desolation)</small>
 
 $\quad$ Gidom.
 - § Gidom = *"a cutting down"*

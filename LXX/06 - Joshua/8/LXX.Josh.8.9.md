@@ -7,36 +7,36 @@ Joshua therefore sent them forth: and they went to lie in ambush, and abode betw
 So Joshua sent them out, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai. But Joshua spent that night among the people.<small><sub>**MT:**</sub></small>
 [[Josh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.8|<< Joshua 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.10|Joshua 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ambush, | <big><span class="asgreek">ενέδραν</span></big> <sup><small><small>[[G1747]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat in place | <big><span class="asgreek">ενεκάθισαν</span></big> <sup><small><small>[[G7003]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Beth-el | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Ai, | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] west | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ai. | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua lodged | <big><span class="asgreek">ηυλίσθη</span></big> <sup><small><small>[[G0835]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ambush, | **<big>[[G1747\|ενέδραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sat in place | **<big>[[G7003\|ενεκάθισαν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Beth-el | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Ai, | **<big>[[H5857\|Γαί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] west | **<big>[[G2281\|θαλάσσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Ai. | **<big>[[H5857\|Γαί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua lodged | **<big>[[G0835\|ηυλίσθη]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that night | **<big>[[G3571\|νύκτα]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
 [[Josh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.8|<< Joshua 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.10|Joshua 8:10 >>]]</td></tr></table>
 
 

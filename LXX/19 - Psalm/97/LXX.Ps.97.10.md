@@ -7,24 +7,24 @@ Ye that love the LORD, hate evil: he preserveth the souls of his saints; he deli
 Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked.<small><sub>**MT:**</sub></small>
 [[Ps.97.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.9|<< Psalm 97:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.11|Psalm 97:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώντες</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| detest | <big><span class="asgreek">μισείτε</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| evil. | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sacred ones. | <big><span class="asgreek">οσίων</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] sinner | <big><span class="asgreek">αμαρτωλού</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| he shall rescue | <big><span class="asgreek">ρύσεται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| loving | **<big>[[G0025\|αγαπώντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| detest | **<big>[[G3404\|μισείτε]]</big>** |
+| evil. | **<big>[[G4190\|πονηρά]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> guards | **<big>[[G5442\|φυλάσσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sacred ones. | **<big>[[G3741\|οσίων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of \[the\] sinner | **<big>[[G0268\|αμαρτωλού]]</big>** |
+| he shall rescue | **<big>[[G4506\|ρύσεται]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.97.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.9|<< Psalm 97:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.11|Psalm 97:11 >>]]</td></tr></table>
 
 

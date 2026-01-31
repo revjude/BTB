@@ -7,47 +7,47 @@ And let this apparel and horse be delivered to the hand of one of the king’s m
 Let the robe and the horse be entrusted to one of the king’s most noble princes. Let them array the man the king wants to honor and parade him on the horse through the city square, proclaiming before him, ‘This is what is done for the man whom the king is delighted to honor!’”<small><sub>**MT:**</sub></small>
 [[Esth.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.8|<< Esther 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.10|Esther 6:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give it | <big><span class="asgreek">δότω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| friends | <big><span class="asgreek">φίλων</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| honorable ones; | <big><span class="asgreek">ενδόξον</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| robe | <big><span class="asgreek">στολισάτω</span></big> <sup><small><small>[[G9188]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| loves, | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mount | <big><span class="asgreek">αναβιβασάτω</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horse, | <big><span class="asgreek">ίππον</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him proclaim | <big><span class="asgreek">κηρυσσέτω</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| square | <big><span class="asgreek">πλατείας</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city! | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall \[it\] be \[done\] | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| extols. | <big><span class="asgreek">δοξάζει</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| give it | **<big>[[G1325\|δότω]]</big>** |
+| to one | **<big>[[G1520\|ενί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| friends | **<big>[[G5384\|φίλων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| honorable ones; | **<big>[[G1741\|ενδόξον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| robe | **<big>[[G9188\|στολισάτω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| loves, | **<big>[[G0025\|αγαπά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mount | **<big>[[G0307\|αναβιβασάτω]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| horse, | **<big>[[G2462\|ίππον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him proclaim | **<big>[[G2784\|κηρυσσέτω]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| square | **<big>[[G4113\|πλατείας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city! | **<big>[[G4172\|πόλεως]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| shall \[it\] be \[done\] | **<big>[[G1510\|έσται]]</big>** |
+| to every | **<big>[[G3956\|παντί]]</big>** |
+| man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| extols. | **<big>[[G1392\|δοξάζει]]</big>** |
 [[Esth.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.8|<< Esther 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.10|Esther 6:10 >>]]</td></tr></table>
 
 

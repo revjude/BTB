@@ -7,20 +7,20 @@ A voice of the cry of the shepherds, and an howling of the principal of the floc
 Hear the cry of the shepherds, the wailing of the leaders of the flock, for the LORD is destroying their pasture.<small><sub>**MT:**</sub></small>
 [[Jer.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.35|<< Jeremiah 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.37|Jeremiah 25:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of a cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds, | <big><span class="asgreek">ποιμένων</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a shout | <big><span class="asgreek">αλαλαγμός</span></big> <sup><small><small>[[G6214]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> annihilated | <big><span class="asgreek">ωλόθρευσε</span></big> <sup><small><small>[[G3645]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their pastures. | <big><span class="asgreek">βοσκήματα</span></big> <sup><small><small>[[G6685]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A sound | **<big>[[G5456\|φωνή]]</big>** |
+| of a cry | **<big>[[G2906\|κραυγής]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| shepherds, | **<big>[[G4166\|ποιμένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a shout | **<big>[[G6214\|αλαλαγμός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| rams, | **<big>[[G8096\|κριών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> annihilated | **<big>[[G3645\|ωλόθρευσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their pastures. | **<big>[[G6685\|βοσκήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.35|<< Jeremiah 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.37|Jeremiah 25:37 >>]]</td></tr></table>
 
 

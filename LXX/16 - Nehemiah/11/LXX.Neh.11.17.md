@@ -7,37 +7,37 @@ And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, [was] the pr
 Mattaniah son of Mica, the son of Zabdi, the son of Asaph, who led in thanksgiving and prayer; Bakbukiah, second among his associates; and Abda son of Shammua, the son of Galal, the son of Jeduthun.<small><sub>**MT:**</sub></small>
 [[Neh.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.16|<< Nehemiah 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.18|Nehemiah 11:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mattaniah | <big><span class="asgreek">Ματθανίας</span></big> <sup><small><small>[[H4983]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Micha, | <big><span class="asgreek">Μιχά</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Zechri | <big><span class="asgreek">Ζεχρεί</span></big> <sup><small><small>[[H2067]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asaph | <big><span class="asgreek">Ασάβ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| \[was\] one in charge | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| praise, | <big><span class="asgreek">αίνου</span></big> <sup><small><small>[[G0136]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Juda | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prayer, | <big><span class="asgreek">προσευχής</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Bakbukiah | <big><span class="asgreek">Βοκχείας</span></big> <sup><small><small>[[H1229]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abda | <big><span class="asgreek">Αβδίας</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shammua, | <big><span class="asgreek">Σαμαϊου</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Galal, | <big><span class="asgreek">Γαλέλ</span></big> <sup><small><small>[[H1559]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeduthun. | <big><span class="asgreek">Ιδιθούν</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Mattaniah | **<big>[[H4983\|Ματθανίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Micha, | **<big>[[H4318\|Μιχά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| Zechri | **<big>[[H2067\|Ζεχρεί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Asaph | **<big>[[H0623\|Ασάβ]]</big>** |
+| \[was\] one in charge | **<big>[[G0758\|άρχων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| praise, | **<big>[[G0136\|αίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Juda | **<big>[[G2448\|Ιούδας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| prayer, | **<big>[[G4335\|προσευχής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Bakbukiah | **<big>[[H1229\|Βοκχείας]]</big>** |
+| second | **<big>[[G1208\|δεύτερος]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abda | **<big>[[H5662\|Αβδίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shammua, | **<big>[[H8098\|Σαμαϊου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Galal, | **<big>[[H1559\|Γαλέλ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jeduthun. | **<big>[[H3038\|Ιδιθούν]]</big>** |
 [[Neh.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.16|<< Nehemiah 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.18|Nehemiah 11:18 >>]]</td></tr></table>
 
 

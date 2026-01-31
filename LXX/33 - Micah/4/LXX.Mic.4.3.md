@@ -7,43 +7,43 @@ And he shall judge among many people, and rebuke strong nations afar off; and th
 Then He will judge between many peoples and arbitrate for strong nations far and wide. Then they will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor will they train anymore for war.<small><sub>**MT:**</sub></small>
 [[Mic.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.2|<< Micah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.4|Micah 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall judge | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall completely refute | <big><span class="asgreek">εξελέγξει</span></big> <sup><small><small>[[G1827]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρά</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| afar. | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3117]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall cut | <big><span class="asgreek">κατακόψουσι</span></big> <sup><small><small>[[G2629]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their broadswords | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plows, | <big><span class="asgreek">άροτρα</span></big> <sup><small><small>[[G0723]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their spears | <big><span class="asgreek">δόρατα</span></big> <sup><small><small>[[G6965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| sickles. | <big><span class="asgreek">δρέπανα</span></big> <sup><small><small>[[G1407]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| raise up | <big><span class="asgreek">αντάρη</span></big> <sup><small><small>[[G6353]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| a broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| they learn | <big><span class="asgreek">μάθωσι</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| to wage war. | <big><span class="asgreek">πολεμείν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall judge | **<big>[[G2919\|κρινεί]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall completely refute | **<big>[[G1827\|εξελέγξει]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| strong | **<big>[[G2478\|ισχυρά]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| afar. | **<big>[[G3117\|μακράν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall cut | **<big>[[G2629\|κατακόψουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their broadswords | **<big>[[G4501\|ρομφαίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| plows, | **<big>[[G0723\|άροτρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their spears | **<big>[[G6965\|δόρατα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| sickles. | **<big>[[G1407\|δρέπανα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| raise up | **<big>[[G6353\|αντάρη]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| a broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| they learn | **<big>[[G3129\|μάθωσι]]</big>** |
+| to wage war. | **<big>[[G4170\|πολεμείν]]</big>** |
 [[Mic.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.2|<< Micah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.4|Micah 4:4 >>]]</td></tr></table>
 
 

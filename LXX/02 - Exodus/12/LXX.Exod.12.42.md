@@ -7,32 +7,32 @@ It [is] a night to be much observed unto the LORD for bringing them out from the
 Because the LORD kept a vigil that night to bring them out of the land of Egypt, this same night is to be a vigil to the LORD, to be observed by all the Israelites for the generations to come.<small><sub>**MT:**</sub></small>
 [[Exod.12.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.41|<< Exodus 12:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.43|Exodus 12:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a night | <big><span class="asgreek">νυξ</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| post | <big><span class="asgreek">προφυλακής</span></big> <sup><small><small>[[G8955]]</small></small></sup> |
-| It is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to lead | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| That | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night itself | <big><span class="asgreek">νυξ</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] a post | <big><span class="asgreek">προφυλακή</span></big> <sup><small><small>[[G8955]]</small></small></sup> |
-| to \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their generations. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a night | **<big>[[G3571\|νυξ]]</big>** |
+| post | **<big>[[G8955\|προφυλακής]]</big>** |
+| It is | **<big>[[G1510\|εστι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to lead | **<big>[[G1806\|εξαγαγείν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| That | **<big>[[G1565\|εκείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| night itself | **<big>[[G3571\|νυξ]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] a post | **<big>[[G8955\|προφυλακή]]</big>** |
+| to \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| their generations. | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Exod.12.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.41|<< Exodus 12:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.43|Exodus 12:43 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ They stoop, they bow down together; they could not deliver the burden, but thems
 The gods cower; they crouch together, unable to relieve the burden; but they themselves go into captivity.<small><sub>**MT:**</sub></small>
 [[Isa.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hungering, | <big><span class="asgreek">πεινώντι</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| being able | <big><span class="asgreek">ισχύοντι</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| together; | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνήσονται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to be delivered | <big><span class="asgreek">σωθήναι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| war; | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| but they themselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| as captives | <big><span class="asgreek">αιχμάλωτοι</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
-| are led away | <big><span class="asgreek">ήχθησαν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| hungering, | **<big>[[G3983\|πεινώντι]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| being able | **<big>[[G2480\|ισχύοντι]]</big>** |
+| together; | **<big>[[G0260\|άμα]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| are not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δυνήσονται]]</big>** |
+| to be delivered | **<big>[[G4982\|σωθήναι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| war; | **<big>[[G4171\|πολέμου]]</big>** |
+| but they themselves | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| as captives | **<big>[[G0164\|αιχμάλωτοι]]</big>** |
+| are led away | **<big>[[G0071\|ήχθησαν]]</big>** |
 [[Isa.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
 

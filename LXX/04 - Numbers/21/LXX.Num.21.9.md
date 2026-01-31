@@ -11,32 +11,32 @@ So Moses made a bronze snake and mounted it on a pole. If anyone who was bitten 
 > $\quad$ referenced by: [[John.3.14|John 3:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| a serpent | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| of brass, | <big><span class="asgreek">χαλκούν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a sign. | <big><span class="asgreek">σημείου</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| bit | <big><span class="asgreek">έδακνεν</span></big> <sup><small><small>[[G1143]]</small></small></sup> |
-| a serpent | <big><span class="asgreek">όφις</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| a man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he looked | <big><span class="asgreek">επέβλεψεν</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serpent | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of brass, | <big><span class="asgreek">χαλκούν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he lived. | <big><span class="asgreek">έζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| a serpent | **<big>[[G3789\|όφιν]]</big>** |
+| of brass, | **<big>[[G5470\|χαλκούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| set | **<big>[[G2476\|έστησεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a sign. | **<big>[[G4592\|σημείου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| bit | **<big>[[G1143\|έδακνεν]]</big>** |
+| a serpent | **<big>[[G3789\|όφις]]</big>** |
+| a man, | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he looked | **<big>[[G1914\|επέβλεψεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| serpent | **<big>[[G3789\|όφιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of brass, | **<big>[[G5470\|χαλκούν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he lived. | **<big>[[G2198\|έζη]]</big>** |
 [[Num.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.8|<< Numbers 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.10|Numbers 21:10 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ And against the wall of the house he built chambers round about, [against] the w
 Against the walls of the temple and the inner sanctuary, Solomon built a chambered structure around the temple, in which he constructed the side rooms.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.4|<< 1 Kings 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.6|1 Kings 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| a ridge | <big><span class="asgreek">μέλαθρα</span></big> <sup><small><small>[[G8277]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple, | <big><span class="asgreek">ναώ</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dabir. | <big><span class="asgreek">δαβίρ</span></big> <sup><small><small>[[G6780]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] sides | <big><span class="asgreek">πλευράς</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G4160\|εποίησεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wall | **<big>[[G5109\|τοίχον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| a ridge | **<big>[[G8277\|μέλαθρα]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| temple, | **<big>[[G3485\|ναώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| dabir. | **<big>[[G6780\|δαβίρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| \[the\] sides | **<big>[[G4125\|πλευράς]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[1Kgs.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.4|<< 1 Kings 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.6|1 Kings 6:6 >>]]</td></tr></table>
 
 

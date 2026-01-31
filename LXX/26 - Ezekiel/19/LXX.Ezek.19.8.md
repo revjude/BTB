@@ -7,27 +7,27 @@ Then the nations set against him on every side from the provinces, and spread th
 Then the nations set out against him from the provinces on every side. They spread their net over him; he was trapped in their pit.<small><sub>**MT:**</sub></small>
 [[Ezek.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.7|<< Ezekiel 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.9|Ezekiel 19:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| assailed | <big><span class="asgreek">επέθεντο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places; | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spread forth | <big><span class="asgreek">εξεπέτασαν</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their nets; | <big><span class="asgreek">δίκτυα</span></big> <sup><small><small>[[G1350]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their corruption | <big><span class="asgreek">διαφθορά</span></big> <sup><small><small>[[G1312]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was seized. | <big><span class="asgreek">συνελήφθη</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| assailed | **<big>[[G2007\|επέθεντο]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| places; | **<big>[[G5561\|χωρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they spread forth | **<big>[[G1600\|εξεπέτασαν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| their nets; | **<big>[[G1350\|δίκτυα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their corruption | **<big>[[G1312\|διαφθορά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he was seized. | **<big>[[G4815\|συνελήφθη]]</big>** |
 [[Ezek.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.7|<< Ezekiel 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.9|Ezekiel 19:9 >>]]</td></tr></table>
 
 

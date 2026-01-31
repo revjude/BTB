@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶשֶׁף‎</span></big> **resheph** <small>*(reh'-shef)*</small> ==**flash**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂרַף‎</span><sup><small>[[H8313]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶשֶׁף‎</span></big>** **resheph** <small>*(reh'-shef)*</small> ==**flash**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8313|‎שָׂרַף‎]]</big>**</small>
 
 $\quad$ arrow, (burning) coal, burning heat, [phrase] spark, hot thunderbolt.
 - ***a live coal***
@@ -11,4 +11,4 @@ $\quad$ arrow, (burning) coal, burning heat, [phrase] spark, hot thunderbolt.
 $\quad$ **1a)** flame
 $\quad$ **1b)** fire-bolt
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθραξ</span><sup><small>[[G0440]]</small></sup> · <span class="asgreek">κράτος</span><sup><small>[[G2904]]</small></sup> · <span class="asgreek">πῦρ</span><sup><small>[[G4442]]</small></sup>
+<small>See Greek: </small>**<big>[[G0440|ἄνθραξ]]</big>** · **<big>[[G2904|κράτος]]</big>** · **<big>[[G4442|πῦρ]]</big>**

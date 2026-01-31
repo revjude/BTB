@@ -7,21 +7,21 @@ And the beeves [were] thirty and six thousand; of which the LORD’S tribute [wa
 36,000 cattle, including a tribute to the LORD of 72,<small><sub>**MT:**</sub></small>
 [[Num.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.37|<< Numbers 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.39|Numbers 31:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| oxen -- | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| thousand; | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tax | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventy; | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| oxen -- | **<big>[[G1016\|βόες]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| thousand; | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their tax | **<big>[[G5056\|τέλος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίω]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seventy; | **<big>[[G1440\|εβδομήκοντα]]</big>** |
 [[Num.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.37|<< Numbers 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.39|Numbers 31:39 >>]]</td></tr></table>
 
 

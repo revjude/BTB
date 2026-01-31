@@ -10,45 +10,45 @@ And it came to pass in the four hundred and eightieth year after the children of
 In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.18|<< 1 Kings 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.2|1 Kings 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eightieth | <big><span class="asgreek">ογδοηκοστώ</span></big> <sup><small><small>[[G8443]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four hundredth | <big><span class="asgreek">τετρακοσιοστώ</span></big> <sup><small><small>[[G9437]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exodus | <big><span class="asgreek">εξόδου</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| in \[the\] reigning | <big><span class="asgreek">βασιλεύοντος</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he built | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| eightieth | **<big>[[G8443\|ογδοηκοστώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four hundredth | **<big>[[G9437\|τετρακοσιοστώ]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| exodus | **<big>[[G1841\|εξόδου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| second | **<big>[[G1208\|δευτέρω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| in \[the\] reigning | **<big>[[G0936\|βασιλεύοντος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of king | **<big>[[G0935\|βασιλέως]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he built | **<big>[[G3618\|ωκοδόμησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[1Kgs.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.18|<< 1 Kings 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.2|1 Kings 6:2 >>]]</td></tr></table>
 
 

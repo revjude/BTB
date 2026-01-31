@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שִׁיזָא‎</span></big> **Shîyzâʼ** <small>*(shee-zaw')*</small> ==**Shiza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שִׁיזָא‎</span></big>** **Shîyzâʼ** <small>*(shee-zaw')*</small> ==**Shiza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of unknown derivation</small>
 
 $\quad$ Shiza.

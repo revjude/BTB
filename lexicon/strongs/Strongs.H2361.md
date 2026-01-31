@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎חוּרָם‎</span></big> **Chûwrâm** <small>*(khoo-rawm')*</small> ==**Hiram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎חוּר‎</span><sup><small>[[H2353]]</small></sup>; whiteness, i.e. noble</small>
+**<big><span class="ashebrew">‎חוּרָם‎</span></big>** **Chûwrâm** <small>*(khoo-rawm')*</small> ==**Hiram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H2353|‎חוּר‎]]</big>**; whiteness, i.e. noble</small>
 
-$\quad$ Huram. Compare <span class="ashebrew">‎חִירָם‎</span><sup><small>[[H2438]]</small></sup>.
+$\quad$ Huram. Compare **<big>[[H2438|‎חִירָם‎]]</big>**.
 - § Huram = *"noble born"*
 - ***Churam***, the name of an Israelite and two Syrians
 

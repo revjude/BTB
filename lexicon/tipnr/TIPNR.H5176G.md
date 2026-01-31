@@ -4,7 +4,7 @@ King living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nahash</span>, the king of the Ammonites, besieged Jabesh Gilead and threatened to gouge out the right eyes of its inhabitants.
 - An Ammonite king living at the time of United Monarchy, first mentioned at 1Sa.11.1; 
-- only referred to as Nahash<[[H5176G]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- only referred to as Nahash **<big>[[H5176|נָחָשׁ]]</big>**.
 
 Nahash was the king of the Ammonites, a neighboring nation to Israel, during the early period of the Israelite monarchy. In 1 Samuel 11, Nahash is described as besieging the city of Jabesh Gilead, located in the territory of Manasseh, east of the Jordan River. 
 
@@ -18,5 +18,5 @@ In [[1Sam.12.12|1 Samuel 12:12]], the prophet Samuel reminds the Israelites of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176G) <small>*Hebrew*</small> | 4x | [[1Sa.11.1a] ... [1Sa.12.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=1Sa.11.1;1Sa.11.1;1Sa.11.2;1Sa.12.12) |
-All Strong's for **Nahash**: \[[[H5176G]]\]
+| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176G) | 4x | [[1Sa.11.1a] ... [1Sa.12.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=1Sa.11.1;1Sa.11.1;1Sa.11.2;1Sa.12.12) |
+All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**

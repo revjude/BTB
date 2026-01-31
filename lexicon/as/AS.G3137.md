@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Μαρία</span></span>, <span class="asgreek">-ας</span> (Hellenized form), and <span class="asgreek">Μαριάμ</span>, indecl., <span class="asgreek">ἡ</span> (Aram. <span class="asaramic">מַרְיָם</span>; Heb. (MT) <span class="ashebrew">מִרְיָם</span> <small><sup>[[H4813]]</sup></small>),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Μαρία</span></span>, <span class="asgreek">-ας</span> (Hellenized form), and <span class="asgreek">Μαριάμ</span>, indecl., <span class="asgreek">ἡ</span> (Aram. <span class="asaramic">מַרְיָם</span>; Heb. (MT) **<big>[[H4813|מִרְיָם]]</big>**),</span>
 <span class="asitalic">Mary</span>. In NT;
 <span class="asbullet"><span class="asbold">1.</span> the mother of Jesus: [[Matt.1.16|Mt 1:16]] ff. [[Matt.2.11|2:11]] [[Matt.13.55|13:55]], [[Mark.6.3|Mk 6:3]], [[Luke.1.27|Lk 1:27]] ff. [[Luke.2.5|2:5]], [[Luke.2.16|16]], [[Luke.2.19|19]], [[Luke.2.34|34]], [[Acts.1.14|Ac 1:14]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">M. Magdalene</span> (q.v.).</span>

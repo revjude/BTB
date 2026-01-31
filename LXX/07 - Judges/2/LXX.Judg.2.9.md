@@ -7,25 +7,25 @@ And they buried him in the border of his inheritance in Timnathheres, in the mou
 They buried him in the land of his inheritance, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash.<small><sub>**MT:**</sub></small>
 [[Judg.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.8|<< Judges 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.10|Judges 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψαν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] border | <big><span class="asgreek">ορίω</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Timnath-heres, | <big><span class="asgreek">Θαμναθαρές</span></big> <sup><small><small>[[H8556a]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Gaash. | <big><span class="asgreek">Γαάς</span></big> <sup><small><small>[[H1608]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] border | **<big>[[G3725\|ορίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his inheritance | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Timnath-heres, | **<big>[[H8556a\|Θαμναθαρές]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| mount | **<big>[[G3735\|όρει]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north | **<big>[[G1005\|βορρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of mount | **<big>[[G3735\|όρους]]</big>** |
+| Gaash. | **<big>[[H1608\|Γαάς]]</big>** |
 [[Judg.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.8|<< Judges 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.10|Judges 2:10 >>]]</td></tr></table>
 
 

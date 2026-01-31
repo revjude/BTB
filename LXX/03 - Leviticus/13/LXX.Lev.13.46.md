@@ -7,27 +7,27 @@ All the days wherein the plague [shall be] in him he shall be defiled; he [is] u
 As long as he has the infection, he remains unclean. He must live alone in a place outside the camp.<small><sub>**MT:**</sub></small>
 [[Lev.13.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.45|<< Leviticus 13:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.47|Leviticus 13:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| being unclean, | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he shall be unclean; | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| being separated | <big><span class="asgreek">κεχωρισμένος</span></big> <sup><small><small>[[G5563]]</small></small></sup> |
-| he shall sit down | <big><span class="asgreek">καθήσεται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a \[place\] for pastime. | <big><span class="asgreek">διατριβή</span></big> <sup><small><small>[[G6896]]</small></small></sup> |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| as many as | **<big>[[G3745\|όσας]]</big>** **<big>[[G1437\|εάν]]</big>** |
+| might be | **<big>[[G1510\|η]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| being unclean, | **<big>[[G0169\|ακάθαρτος]]</big>** **<big>[[G1510\|ων]]</big>** |
+| he shall be unclean; | **<big>[[G0169\|ακάθαρτος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| being separated | **<big>[[G5563\|κεχωρισμένος]]</big>** |
+| he shall sit down | **<big>[[G2521\|καθήσεται]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his camp, | **<big>[[G3925\|παρεμβολής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a \[place\] for pastime. | **<big>[[G6896\|διατριβή]]</big>** |
 [[Lev.13.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.45|<< Leviticus 13:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.47|Leviticus 13:47 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָדַם‎</span></big> **ʼâdam** <small>*(aw-dam')*</small> ==**to redden**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָדַם‎</span></big>** **ʼâdam** <small>*(aw-dam')*</small> ==**to redden**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>to show blood (in the face), i.e.</small>
 
 $\quad$ be (dyed, made) red (ruddy).
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d1)** to redden
 $\quad$ $\quad$ **1d2)** to grow red
 $\quad$ $\quad$ **1d3)** to look red
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πυρόω</span><sup><small>[[G4448]]</small></sup>
+<small>See Greek: </small>**<big>[[G4448|πυρόω]]</big>**

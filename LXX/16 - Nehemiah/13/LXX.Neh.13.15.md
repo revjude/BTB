@@ -10,49 +10,49 @@ In those days saw I in Judah [some] treading wine presses on the sabbath, and br
 In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day.<small><sub>**MT:**</sub></small>
 [[Neh.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.14|<< Nehemiah 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.16|Nehemiah 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| ones treading | <big><span class="asgreek">πατούντας</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| \[the\] wine vats | <big><span class="asgreek">ληνούς</span></big> <sup><small><small>[[G3025]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbath, | <big><span class="asgreek">σαββάτω</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bringing | <big><span class="asgreek">φέροντας</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| sheaves, | <big><span class="asgreek">δράγματα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loading | <big><span class="asgreek">επιγεμίζοντας</span></big> <sup><small><small>[[G7395]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys; | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] grape cluster, | <big><span class="asgreek">σταφυλήν</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| figs, | <big><span class="asgreek">σύκα</span></big> <sup><small><small>[[G4810]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| burden, | <big><span class="asgreek">βάσταγμα</span></big> <sup><small><small>[[G6660]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bringing \[them\] | <big><span class="asgreek">φέροντας</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbath. | <big><span class="asgreek">σαββάτου</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I attested to them | <big><span class="asgreek">επεμαρτυράμην</span></big> <sup><small><small>[[G1957]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of their sale. | <big><span class="asgreek">πράσεως</span></big> <sup><small><small>[[G8876]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| I beheld | **<big>[[G1492\|είδον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| ones treading | **<big>[[G3961\|πατούντας]]</big>** |
+| \[the\] wine vats | **<big>[[G3025\|ληνούς]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| Sabbath, | **<big>[[G4521\|σαββάτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bringing | **<big>[[G5342\|φέροντας]]</big>** |
+| sheaves, | **<big>[[G6967\|δράγματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loading | **<big>[[G7395\|επιγεμίζοντας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| donkeys; | **<big>[[G3688\|όνους]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] grape cluster, | **<big>[[G4718\|σταφυλήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| figs, | **<big>[[G4810\|σύκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| burden, | **<big>[[G6660\|βάσταγμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bringing \[them\] | **<big>[[G5342\|φέροντας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Sabbath. | **<big>[[G4521\|σαββάτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I attested to them | **<big>[[G1957\|επεμαρτυράμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of their sale. | **<big>[[G8876\|πράσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Neh.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.14|<< Nehemiah 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.16|Nehemiah 13:16 >>]]</td></tr></table>
 
 

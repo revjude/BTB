@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎פִּדְיוֹם‎</span></big> **pidyôwm** <small>*(pid-yome')*</small> ==**redemption**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">פִּדְיֹם</span> **pidyôm** <small>*(pid-yome')*</small>; also <span class="ashebrew">פִּדְיוֹן</span> **pidyôwn** <small>*(pid-yone')*</small>; or <span class="ashebrew">פִּדְיֹן</span> **pidyôn** <small>*(pid-yone')*</small>; from <span class="ashebrew">‎פָּדָה‎</span><sup><small>[[H6299]]</small></sup></small>
+**<big><span class="ashebrew">‎פִּדְיוֹם‎</span></big>** **pidyôwm** <small>*(pid-yome')*</small> ==**redemption**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">פִּדְיֹם</span></big>** **pidyôm** <small>*(pid-yome')*</small>; also **<big><span class="ashebrew">פִּדְיוֹן</span></big>** **pidyôwn** <small>*(pid-yone')*</small>; or **<big><span class="ashebrew">פִּדְיֹן</span></big>** **pidyôn** <small>*(pid-yone')*</small>; from **<big>[[H6299|‎פָּדָה‎]]</big>**</small>
 
 $\quad$ ransom, that were redeemed, redemption.
 - ***a ransom***
 
 **1)** ransom, redemption
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λύτρον</span><sup><small>[[G3083]]</small></sup> · <span class="asgreek">λύτρωσις</span><sup><small>[[G3085]]</small></sup>
+<small>See Greek: </small>**<big>[[G3083|λύτρον]]</big>** · **<big>[[G3085|λύτρωσις]]</big>**

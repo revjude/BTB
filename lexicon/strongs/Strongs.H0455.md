@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶלְיַחְבָּא‎</span></big> **ʼElyachbâʼ** <small>*(el-yakh-baw')*</small> ==**Eliahba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎חָבָא‎</span><sup><small>[[H2244]]</small></sup>; God will hide</small>
+**<big><span class="ashebrew">‎אֶלְיַחְבָּא‎</span></big>** **ʼElyachbâʼ** <small>*(el-yakh-baw')*</small> ==**Eliahba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H2244|‎חָבָא‎]]</big>**; God will hide</small>
 
 $\quad$ Eliahbah.
 - § Eliahba = *"God hides"*

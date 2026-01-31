@@ -7,37 +7,37 @@ Therefore will I do unto [this] house, which is called by my name, wherein ye tr
 therefore what I did to Shiloh I will now do to the house that bears My Name, the house in which you trust, the place that I gave to you and your fathers.<small><sub>**MT:**</sub></small>
 [[Jer.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.13|<< Jeremiah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.15|Jeremiah 7:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I also | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| (of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is called | <big><span class="asgreek">επικέκληται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| in it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| relied | <big><span class="asgreek">πεποίθατε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers,) | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| I did | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shiloh. | <big><span class="asgreek">Σηλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
+| I also | **<big>[[G2504\|καγώ]]</big>** |
+| will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this house | **<big>[[G3624\|οίκω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| (of which | **<big>[[G3739\|ου]]</big>** |
+| is called | **<big>[[G1941\|επικέκληται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| in it, | **<big>[[G1473\|αυτώ]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| relied | **<big>[[G3982\|πεποίθατε]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your fathers,) | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| I did | **<big>[[G4160\|εποίησα]]</big>** |
+| to | **<big>[[G3588\|τη]]</big>** |
+| Shiloh. | **<big>[[H7887\|Σηλώ]]</big>** |
 [[Jer.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.13|<< Jeremiah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.15|Jeremiah 7:15 >>]]</td></tr></table>
 
 

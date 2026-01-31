@@ -7,14 +7,14 @@ For he will not lay upon man more [than right]; that he should enter into judgme
 For God need not examine a man further or have him approach for judgment.<small><sub>**MT:**</sub></small>
 [[Job.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.22|<< Job 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.24|Job 34:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| put | <big><span class="asgreek">θήσει</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| put | **<big>[[G5087\|θήσει]]</big>** |
+| any longer. | **<big>[[G2089\|έτι]]</big>** |
 [[Job.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.22|<< Job 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.24|Job 34:24 >>]]</td></tr></table>
 
 

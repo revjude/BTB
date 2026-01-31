@@ -7,43 +7,43 @@ Then David said unto the messenger, Thus shalt thou say unto Joab, Let not this 
 Then David told the messenger, “Say this to Joab: ‘Do not let this matter upset you, for the sword devours one as well as another. Strengthen your attack against the city and demolish it.’ Encourage him with these words.”<small><sub>**MT:**</sub></small>
 [[2Sam.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.24|<< 2 Samuel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.26|2 Samuel 11:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| messenger, | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| Do not let | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be severe | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| perhaps | <big><span class="asgreek">ποτέ</span></big> <sup><small><small>[[G4218]]</small></small></sup> |
-| indeed | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| it is thus \[one way\], | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| and perhaps | <big><span class="asgreek">ποτέ</span></big> <sup><small><small>[[G4218]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| thus \[another way\] | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| devours | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \[that\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| strengthen | <big><span class="asgreek">κραταίωσον</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your battle | <big><span class="asgreek">πόλεμόν</span></big> <sup><small><small>[[G4171]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raze it, | <big><span class="asgreek">κατάσκαψον</span></big> <sup><small><small>[[G2679]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strengthen | <big><span class="asgreek">κραταίωσον</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| against it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| messenger, | **<big>[[G0032\|άγγελον]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| Do not let | **<big>[[G3361\|μη]]</big>** |
+| be severe | **<big>[[G4190\|πονηρόν]]</big>** **<big>[[G1510\|έστω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter | **<big>[[G4487\|ρήματος]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| perhaps | **<big>[[G4218\|ποτέ]]</big>** |
+| indeed | **<big>[[G3303\|μεν]]</big>** |
+| it is thus \[one way\], | **<big>[[G3779\|ούτως]]</big>** |
+| and perhaps | **<big>[[G4218\|ποτέ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| thus \[another way\] | **<big>[[G3779\|ούτως]]</big>** |
+| devours | **<big>[[G2719\|καταφάγεται]]</big>** |
+| \[that\] the | **<big>[[G3588\|η]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| strengthen | **<big>[[G2901\|κραταίωσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your battle | **<big>[[G4171\|πόλεμόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raze it, | **<big>[[G2679\|κατάσκαψον]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strengthen | **<big>[[G2901\|κραταίωσον]]</big>** |
+| against it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[2Sam.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.24|<< 2 Samuel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.26|2 Samuel 11:26 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קָרָא‎</span> <small>***(qa.ra)***</small> ==**to encounter: toward**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H7122G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H7122G|קָרָא]]</big>**</small> 
 
 - : toward/(come)against

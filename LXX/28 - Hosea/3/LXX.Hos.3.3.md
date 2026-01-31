@@ -7,27 +7,27 @@ And I said unto her, Thou shalt abide for me many days; thou shalt not play the 
 Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”<small><sub>**MT:**</sub></small>
 [[Hos.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.2|<< Hosea 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.4|Hosea 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| Many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| you shall sit down | <big><span class="asgreek">καθήση</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you commit harlotry, | <big><span class="asgreek">πορνεύσης</span></big> <sup><small><small>[[G4203]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| should you be | <big><span class="asgreek">γένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to a man, | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| Many | **<big>[[G4183\|πολλάς]]</big>** |
+| you shall sit down | **<big>[[G2521\|καθήση]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you commit harlotry, | **<big>[[G4203\|πορνεύσης]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| should you be | **<big>[[G1096\|γένη]]</big>** |
+| to a man, | **<big>[[G0435\|ανδρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[will be\] unto | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Hos.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.2|<< Hosea 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.4|Hosea 3:4 >>]]</td></tr></table>
 
 

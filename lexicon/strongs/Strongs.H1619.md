@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּרֵב‎</span></big> **Gârêb** <small>*(gaw-rabe')*</small> ==**Gareb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎גָּרָב‎</span><sup><small>[[H1618]]</small></sup>; scabby</small>
+**<big><span class="ashebrew">‎גָּרֵב‎</span></big>** **Gârêb** <small>*(gaw-rabe')*</small> ==**Gareb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H1618|‎גָּרָב‎]]</big>**; scabby</small>
 
 $\quad$ Gareb.
 - § Gareb = *"scabby"*

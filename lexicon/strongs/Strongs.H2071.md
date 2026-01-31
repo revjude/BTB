@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָבוּד‎</span></big> **Zâbûwd** <small>*(zaw-bood')*</small> ==**Zabud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָבַד‎</span><sup><small>[[H2064]]</small></sup></small>
+**<big><span class="ashebrew">‎זָבוּד‎</span></big>** **Zâbûwd** <small>*(zaw-bood')*</small> ==**Zabud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2064|‎זָבַד‎]]</big>**</small>
 
 $\quad$ Zabud.
 - § Zabud = *"given"*

@@ -7,30 +7,30 @@ They shall therefore keep mine ordinance, lest they bear sin for it, and die the
 The priests must keep My charge, lest they bear the guilt and die because they profane it. I am the LORD who sanctifies them.<small><sub>**MT:**</sub></small>
 [[Lev.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.8|<< Leviticus 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.10|Leviticus 22:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall guard | <big><span class="asgreek">φυλάξονται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my injunctions, | <big><span class="asgreek">φυλάγματά</span></big> <sup><small><small>[[G9677]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβωσι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should die | <big><span class="asgreek">αποθάνωσι</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they shall profane | <big><span class="asgreek">βεβηλώσουσιν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one sanctifying | <big><span class="asgreek">αγιάζων</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall guard | **<big>[[G5442\|φυλάξονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my injunctions, | **<big>[[G9677\|φυλάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| take | **<big>[[G2983\|λάβωσι]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should die | **<big>[[G0599\|αποθάνωσι]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| they shall profane | **<big>[[G0953\|βεβηλώσουσιν]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one sanctifying | **<big>[[G0037\|αγιάζων]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Lev.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.8|<< Leviticus 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.10|Leviticus 22:10 >>]]</td></tr></table>
 
 

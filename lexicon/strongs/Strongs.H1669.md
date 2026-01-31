@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּאַב‎</span></big> **dâʼab** <small>*(daw-ab')*</small> ==**to languish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּאַב‎</span></big>** **dâʼab** <small>*(daw-ab')*</small> ==**to languish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mourn, sorrow(-ful).
@@ -6,4 +6,4 @@ $\quad$ mourn, sorrow(-ful).
 
 **1)** (Qal) to become faint, languish
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup>
+<small>See Greek: </small>**<big>[[G0770|ἀσθενέω]]</big>**

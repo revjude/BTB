@@ -6,14 +6,14 @@ I cried out to Him with my mouth and praised Him with my tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.16|<< Psalms 66:16]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.18|Psalms 66:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to him  | <span class="ashebrew"><big>אֵלָ֥י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth my  | <span class="ashebrew"><big>פִּֽ </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| p <small><sup>[[HNcmsc]]</sup></small> i- <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I called out  | <span class="ashebrew"><big>קָרָ֑אתִי </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| ka.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and exaltation  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רוֹמַ֗ם </big></span><small><small><sup>[[H7318]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ro.Mam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] under  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tongue my  | <span class="ashebrew"><big>לְשׁוֹנִֽ </big></span><small><small><sup>[[H3956G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le.sho.N <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth my  |**<big>&#8207;[[H6310G\|פִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| p<small><sup>[[HNcmsc]]</sup></small> i-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I called out  |**<big>&#8207;[[H7121I\|קָרָ֑אתִי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and exaltation  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H7318\|רוֹמַ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.Mam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue my  |**<big>&#8207;[[H3956G\|לְשׁוֹנִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.sho.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.16|<< Psalms 66:16]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.18|Psalms 66:18 >>]]</td></tr></table>
 
 

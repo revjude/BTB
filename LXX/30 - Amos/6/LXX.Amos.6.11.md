@@ -7,25 +7,25 @@ For, behold, the LORD commandeth, and he will smite the great house with breache
 For the LORD gives a command: “The great house will be smashed to pieces, and the small house to rubble.”<small><sub>**MT:**</sub></small>
 [[Amos.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.10|<< Amos 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.12|Amos 6:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| gives charge, | <big><span class="asgreek">εντέλλεται</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall strike | <big><span class="asgreek">πατάξει</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[with\] fractures, | <big><span class="asgreek">θλάσμασι</span></big> <sup><small><small>[[G7678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| \[with\] torn pieces. | <big><span class="asgreek">ρήγμασιν</span></big> <sup><small><small>[[G4485]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| gives charge, | **<big>[[G1781\|εντέλλεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall strike | **<big>[[G3960\|πατάξει]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| great | **<big>[[G3173\|μέγαν]]</big>** |
+| \[with\] fractures, | **<big>[[G7678\|θλάσμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| small | **<big>[[G3398\|μικρόν]]</big>** |
+| \[with\] torn pieces. | **<big>[[G4485\|ρήγμασιν]]</big>** |
 [[Amos.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.10|<< Amos 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.12|Amos 6:12 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ I will sing to You a new song, O God; on a harp of ten strings I will make music
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.8|<< Psalms 144:8]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.10|Psalms 144:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O God  | <span class="ashebrew"><big>אֱֽלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'elo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a song  | <span class="ashebrew"><big>שִׁ֣יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new  | <span class="ashebrew"><big>חָ֭דָשׁ </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| Cha.dosh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will sing  | <span class="ashebrew"><big>אָשִׁ֣ירָה </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| 'a.Shi.rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָּ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with a lyre of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נֵ֥בֶל </big></span><small><small><sup>[[H5035B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ne.vel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עָ֝שׂ֗וֹר </big></span><small><small><sup>[[H6218]]</sup></small></small> &#8207;| a.Sor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make music  | <span class="ashebrew"><big>אֲזַמְּרָה </big></span><small><small><sup>[[H2167]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.za.me.rah- <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָּֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  |**<big>&#8207;[[H7892A\|שִׁ֣יר]]&#8207; </big>**| shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  |**<big>&#8207;[[H2319H\|חָ֭דָשׁ]]&#8207; </big>**| Cha.dosh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will sing  |**<big>&#8207;[[H7891\|אָשִׁ֣ירָה]]&#8207; </big>**| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָּ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a lyre of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5035B\|נֵ֥בֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ne.vel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6218\|עָ֝שׂ֗וֹר]]&#8207; </big>**| a.Sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make music  |**<big>&#8207;[[H2167\|אֲזַמְּרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.za.me.rah-<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָּֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.8|<< Psalms 144:8]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.10|Psalms 144:10 >>]]</td></tr></table>
 
 

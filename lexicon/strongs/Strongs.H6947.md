@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָדֵשׁ בַּרְנֵעַ‎</span></big> **Qâdêsh Barnêaʻ** <small>*(kaw-dashe' bar-nay'-ah)*</small> ==**Kadesh-barnea**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎קָדֵשׁ‎</span><sup><small>[[H6946]]</small></sup> and an otherwise unused word (apparently compounded of a correspondent to <span class="asaramaic">‎בַּר‎</span><sup><small>[[H1251]]</small></sup> and a derivative of <span class="ashebrew">‎נוּעַ‎</span><sup><small>[[H5128]]</small></sup>) meaning desert of a fugitive; Kadesh of (the) Wilderness of Wandering</small>
+**<big><span class="ashebrew">‎קָדֵשׁ בַּרְנֵעַ‎</span></big>** **Qâdêsh Barnêaʻ** <small>*(kaw-dashe' bar-nay'-ah)*</small> ==**Kadesh-barnea**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H6946|‎קָדֵשׁ‎]]</big>** and an otherwise unused word (apparently compounded of a correspondent to **<big>[[H1251|‎בַּר‎]]</big>** and a derivative of **<big>[[H5128|‎נוּעַ‎]]</big>**) meaning desert of a fugitive; Kadesh of (the) Wilderness of Wandering</small>
 
 $\quad$ Kadeshbarnea.
 - § Kadesh-barnea = *"holy"*

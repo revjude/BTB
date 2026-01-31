@@ -7,29 +7,29 @@ The ephah and the bath shall be of one measure, that the bath may contain the te
 The ephah and the bath shall be the same quantity so that the bath will contain a tenth of a homer, and the ephah a tenth of a homer; the homer will be the standard measure for both.<small><sub>**MT:**</sub></small>
 [[Ezek.45.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.10|<< Ezekiel 45:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.12|Ezekiel 45:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| choenix | <big><span class="asgreek">χοίνιξ</span></big> <sup><small><small>[[G5518]]</small></small></sup> |
-| in like manner | <big><span class="asgreek">ομοίως</span></big> <sup><small><small>[[G3668]]</small></small></sup> |
-| will be one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to receive | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| homer, | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| a choenix | <big><span class="asgreek">χοίνιξ</span></big> <sup><small><small>[[G5518]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| homer -- | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| \[the\] ephah | <big><span class="asgreek">οίφί</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| homer | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| equal to | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| choenix | **<big>[[G5518\|χοίνιξ]]</big>** |
+| in like manner | **<big>[[G3668\|ομοίως]]</big>** |
+| will be one | **<big>[[G1520\|μία]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to receive | **<big>[[G2983\|λαβείν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tenth | **<big>[[G1181\|δέκατον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| homer, | **<big>[[G6758\|γόμορ]]</big>** |
+| a choenix | **<big>[[G5518\|χοίνιξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a tenth | **<big>[[G1181\|δέκατον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| homer -- | **<big>[[G6758\|γόμορ]]</big>** |
+| \[the\] ephah | **<big>[[G8467\|οίφί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| homer | **<big>[[G6758\|γόμορ]]</big>** |
+| shall be | **<big>[[G1510\|έστω]]</big>** |
+| equal to | **<big>[[G2470\|ίσον]]</big>** |
 [[Ezek.45.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.10|<< Ezekiel 45:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.12|Ezekiel 45:12 >>]]</td></tr></table>
 
 

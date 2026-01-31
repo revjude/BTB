@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָחוֹת‎</span></big> **ʼâchôwth** <small>*(aw-khoth')*</small> ==**sister**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>irregular feminine of <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup></small>
+**<big><span class="ashebrew">‎אָחוֹת‎</span></big>** **ʼâchôwth** <small>*(aw-khoth')*</small> ==**sister**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>irregular feminine of **<big>[[H0251|‎אָח‎]]</big>**</small>
 
 $\quad$ (an-) other, sister, together.
 - ***a sister*** (used very widely (like brother), literally and figuratively***)***
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1d1)** bride
 $\quad$ **1e)** (fig.) of intimate connection
 $\quad$ **1f)** another
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδελφή</span><sup><small>[[G0079]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0079|ἀδελφή]]</big>** · **<big>[[G2087|ἕτερος]]</big>**

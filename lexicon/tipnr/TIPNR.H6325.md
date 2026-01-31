@@ -1,8 +1,8 @@
 <small>*Punon • A stopping place for the Israelites in the wilderness*</small>
 
 <span class='tipnrhighlight'>Punon</span> was one of the places where the Israelites camped during their wilderness wanderings, located between Zalmonah and Oboth.
-- A location near Diblathaim<[[H5963]]> first mentioned at [[Num.33.42|Num.33.42]]; 
-- only referred to as Punon<[[H6325]]> \(<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Diblathaim **<big>[[H5963|עַלְמֹן דִּבְלָתָיְמָה]]</big>** first mentioned at [[Num.33.42|Num.33.42]]; 
+- only referred to as Punon **<big>[[H6325|פּוּנֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.49684513710609,35.78284105296996&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Punon was a stopping place for the Israelites during their wilderness journey, m
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Punon | [<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6325) <small>*Hebrew*</small> | 2x | [[Num.33.42] & [Num.33.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Punon\*\|reference=Num.33.42;Num.33.43) |
-All Strong's for **Punon**: \[[[H6325]]\]
+| Punon | [<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6325) | 2x | [[Num.33.42] & [Num.33.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Punon\*\|reference=Num.33.42;Num.33.43) |
+All entries for **Punon**:  **<big>[[H6325|פּוּנֹן]]</big>**

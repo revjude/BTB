@@ -1,4 +1,4 @@
-<small>Also see: [[H1051]]</small>
+<small>Also see: **<big>[[H1051|בֵּית רָפָא]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎רָפָא‎</span> **proper name, masculine** ==in Benjamin==, [[1Chr.8.2|1Chr 8:2]], <span class="bdbLangGreek">Ραφη[α].</span> — 
 

@@ -7,18 +7,18 @@ Surely the wrath of man shall praise thee: the remainder of wrath shalt thou res
 Even the wrath of man shall praise You; with the survivors of wrath You will clothe Yourself.<small><sub>**MT:**</sub></small>
 [[Ps.76.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.9|<< Psalm 76:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.11|Psalm 76:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] inner thought | <big><span class="asgreek">ενθύμιον</span></big> <sup><small><small>[[G7244]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| shall make acknowledgment | <big><span class="asgreek">εξομολογήσεταί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[what is\] left | <big><span class="asgreek">εγκατάλειμμα</span></big> <sup><small><small>[[G7010]]</small></small></sup> |
-| of \[the\] inner thought | <big><span class="asgreek">ενθυμίου</span></big> <sup><small><small>[[G7244]]</small></small></sup> |
-| shall solemnize a holiday | <big><span class="asgreek">εορτάσει</span></big> <sup><small><small>[[G1858]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] inner thought | **<big>[[G7244\|ενθύμιον]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| shall make acknowledgment | **<big>[[G1843\|εξομολογήσεταί]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[what is\] left | **<big>[[G7010\|εγκατάλειμμα]]</big>** |
+| of \[the\] inner thought | **<big>[[G7244\|ενθυμίου]]</big>** |
+| shall solemnize a holiday | **<big>[[G1858\|εορτάσει]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Ps.76.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.9|<< Psalm 76:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.11|Psalm 76:11 >>]]</td></tr></table>
 
 

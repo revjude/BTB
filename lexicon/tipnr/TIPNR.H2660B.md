@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hepher</span> was a Canaanite city conquered by Joshua and later became part of a district under Solomon's rule.
 - A location first mentioned at [[Josh.12.17|Jos.12.17]]; 
-- only referred to as Hepher<[[H2660B]]> \(<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Hepher **<big>[[H2660|חֵפֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.3667,34.8833&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Hepher in the biblical text serves to highlight the extent of the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hepher | [<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H2660B) <small>*Hebrew*</small> | 2x | [[Jos.12.17] & [1Ki.4.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hepher\*\|reference=Jos.12.17;1Ki.4.10) |
-All Strong's for **Hepher**: \[[[H2660B]]\]
+| Hepher | [<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H2660B) | 2x | [[Jos.12.17] & [1Ki.4.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hepher\*\|reference=Jos.12.17;1Ki.4.10) |
+All entries for **Hepher**:  **<big>[[H2660|חֵפֶר]]</big>**

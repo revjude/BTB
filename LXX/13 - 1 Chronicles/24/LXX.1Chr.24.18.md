@@ -7,20 +7,20 @@ The three and twentieth to Delaiah, the four and twentieth to Maaziah.
 the twenty-third to Delaiah, and the twenty-fourth to Maaziah.<small><sub>**MT:**</sub></small>
 [[1Chr.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.17|<< 1 Chronicles 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.19|1 Chronicles 24:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Delaiah | <big><span class="asgreek">Δαλαϊα</span></big> <sup><small><small>[[H1806]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth, | <big><span class="asgreek">εικοστός</span></big> <sup><small><small>[[G9686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Maaziah | <big><span class="asgreek">Μοοζία</span></big> <sup><small><small>[[H4590]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth. | <big><span class="asgreek">εικοστός</span></big> <sup><small><small>[[G9686]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Delaiah | **<big>[[H1806\|Δαλαϊα]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| third | **<big>[[G5154\|τρίτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth, | **<big>[[G9686\|εικοστός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Maaziah | **<big>[[H4590\|Μοοζία]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fourth | **<big>[[G5067\|τέταρτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth. | **<big>[[G9686\|εικοστός]]</big>** |
 [[1Chr.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.17|<< 1 Chronicles 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.19|1 Chronicles 24:19 >>]]</td></tr></table>
 
 

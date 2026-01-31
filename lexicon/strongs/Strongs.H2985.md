@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָבִין‎</span></big> **Yâbîyn** <small>*(yaw-bene')*</small> ==**Jabin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בִּין‎</span><sup><small>[[H0995]]</small></sup>; intelligent</small>
+**<big><span class="ashebrew">‎יָבִין‎</span></big>** **Yâbîyn** <small>*(yaw-bene')*</small> ==**Jabin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0995|‎בִּין‎]]</big>**; intelligent</small>
 
 $\quad$ Jabin.
 - § Jabin = *"whom God observes"*

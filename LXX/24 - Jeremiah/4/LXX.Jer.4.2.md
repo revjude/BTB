@@ -7,31 +7,31 @@ And thou shalt swear, The LORD liveth, in truth, in judgment, and in righteousne
 and if you can swear, ‘As surely as the LORD lives,’ in truth, in justice, and in righteousness, then the nations will be blessed by Him, and in Him they will glory.”<small><sub>**MT:**</sub></small>
 [[Jer.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.1|<< Jeremiah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.3|Jeremiah 4:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should swear by an oath, | <big><span class="asgreek">ομόση</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| truth, | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| righteousness; | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bless | <big><span class="asgreek">ευλογήσουσιν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall give praise | <big><span class="asgreek">αινέσουσι</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should swear by an oath, | **<big>[[G3660\|ομόση]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> lives, | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| truth, | **<big>[[G0225\|αληθείας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| equity | **<big>[[G2920\|κρίσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| righteousness; | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| they shall bless | **<big>[[G2127\|ευλογήσουσιν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| they shall give praise | **<big>[[G0134\|αινέσουσι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Jer.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.1|<< Jeremiah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.3|Jeremiah 4:3 >>]]</td></tr></table>
 
 

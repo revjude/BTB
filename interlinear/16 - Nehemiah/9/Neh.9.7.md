@@ -10,21 +10,21 @@ You are the LORD, the God who chose Abram, who brought him out of Ur of the Chal
 > $\quad$ referenced by: [[Acts.7.2|Acts 7:2]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you  | <span class="ashebrew"><big>אַתָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.tah- <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>הוּא֙ </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֱלֹהִ֔ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you chose  | <span class="ashebrew"><big>בָּחַ֙רְתָּ֙ </big></span><small><small><sup>[[H0977]]</sup></small></small> &#8207;| ba.Char.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> Abram  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אַבְרָ֔ם </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you brought out him  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הוֹצֵאת֖ </big></span><small><small><sup>[[H3318H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ho.tze.T <small><sup>[[HVhq2ms]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Ur  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>א֣וּר </big></span><small><small><sup>[[H0218B]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Ur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] Chaldeans  | <span class="ashebrew"><big>כַּשְׂדִּ֑ים </big></span><small><small><sup>[[H3778]]</sup></small></small> &#8207;| kas.Dim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you made  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שַׂ֥מְתָּ </big></span><small><small><sup>[[H7760M]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> Sam.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  | <span class="ashebrew"><big>שְּׁמ֖ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָֽם </big></span><small><small><sup>[[H0085]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tah-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הוּא֙]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you chose  |**<big>&#8207;[[H0977\|בָּחַ֙רְתָּ֙]]&#8207; </big>**| ba.Char.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> Abram  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0087\|אַבְרָ֔ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you brought out him  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאת֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.T<small><sup>[[HVhq2ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Ur  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0218B\|א֣וּר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] Chaldeans  |**<big>&#8207;[[H3778\|כַּשְׂדִּ֑ים]]&#8207; </big>**| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you made  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760M\|שַׂ֥מְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sam.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְּׁמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.6|<< Nehemiah 9:6]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.8|Nehemiah 9:8 >>]]</td></tr></table>
 
 

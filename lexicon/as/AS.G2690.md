@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κατα-στρέφω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">הפךְ</span> <small><sup>[[H2015]]</sup></small>, etc., [[LXX.Gen.19.21|Ge 19:21]], [[LXX.Jer.20.16|Je 20:16]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κατα-στρέφω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H2015|הפךְ]]</big>**, etc., [[LXX.Gen.19.21|Ge 19:21]], [[LXX.Jer.20.16|Je 20:16]], al.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to turn down</span>, <span class="asitalic">turn over</span>; as, the soil.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to overturn</span>, <span class="asitalic">overthrow</span>: [[Matt.21.12|Mt 21:12]], [[Mark.11.15|Mk 11:15]]; pass. pf. ptcp., [[Acts.15.16|Ac 15:16]]<span class="assuperscript">(LXX)</span>.†</span>
 

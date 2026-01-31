@@ -1,4 +1,3 @@
-<span class="ashebrew">‎חוּל‎</span> <small>***(chul)***</small> ==**to twist: writh in pain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H2342A]]</small> 
+<small>meaning of:</small> <small>**<big>[[H2342A|חוּל]]</big>**</small> 
 
 - : writh\_in\_pain/wound

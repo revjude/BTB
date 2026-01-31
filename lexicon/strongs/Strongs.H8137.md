@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שֶׁנְאַצַּר‎</span></big> **Shenʼatstsar** <small>*(shen-ats-tsar')*</small> ==**Shenazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שֶׁנְאַצַּר‎</span></big>** **Shenʼatstsar** <small>*(shen-ats-tsar')*</small> ==**Shenazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>apparently of Babylonian origin</small>
 
 $\quad$ Senazar.

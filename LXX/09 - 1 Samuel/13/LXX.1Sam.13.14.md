@@ -11,38 +11,38 @@ But now your kingdom will not endure; the LORD has sought a man after His own he
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand | <big><span class="asgreek">στήσεταί</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| with you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall seek | <big><span class="asgreek">ζητήσει</span></big> <sup><small><small>[[G2212]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall give charge | <big><span class="asgreek">εντελείται</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| keep | <big><span class="asgreek">εφύλαξας</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| stand | **<big>[[G2476\|στήσεταί]]</big>** |
+| with you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall seek | **<big>[[G2212\|ζητήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his heart. | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall give charge | **<big>[[G1781\|εντελείται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| keep | **<big>[[G5442\|εφύλαξας]]</big>** |
+| as many \[things\] as | **<big>[[G3745\|όσα]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[1Sam.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.13|<< 1 Samuel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.15|1 Samuel 13:15 >>]]</td></tr></table>
 
 

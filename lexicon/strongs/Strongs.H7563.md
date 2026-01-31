@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָשָׁע‎</span></big> **râshâʻ** <small>*(raw-shaw')*</small> ==**wicked**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎רָשַׁע‎</span><sup><small>[[H7561]]</small></sup></small>
+**<big><span class="ashebrew">‎רָשָׁע‎</span></big>** **râshâʻ** <small>*(raw-shaw')*</small> ==**wicked**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H7561|‎רָשַׁע‎]]</big>**</small>
 
 $\quad$ [phrase] condemned, guilty, ungodly, wicked (man), that did wrong.
 - morally ***wrong***
@@ -10,4 +10,4 @@ $\quad$ **1a)** guilty one, one guilty of crime (subst)
 $\quad$ **1b)** wicked (hostile to God)
 $\quad$ **1c)** wicked, guilty of sin (against God or man)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἀδίκως</span><sup><small>[[G0095]]</small></sup> · <span class="asgreek">ἁμαρτωλός</span><sup><small>[[G0268]]</small></sup> · <span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">ἄνομος</span><sup><small>[[G0459]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">ἔνοχος</span><sup><small>[[G1777]]</small></sup> · <span class="asgreek">λοιμός</span><sup><small>[[G3061]]</small></sup> · <span class="asgreek">πονηρός</span><sup><small>[[G4190]]</small></sup> · <span class="asgreek">πονηρότερος</span><sup><small>[[G4191]]</small></sup> · <span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0095|ἀδίκως]]</big>** · **<big>[[G0268|ἁμαρτωλός]]</big>** · **<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G0459|ἄνομος]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G1777|ἔνοχος]]</big>** · **<big>[[G3061|λοιμός]]</big>** · **<big>[[G4190|πονηρός]]</big>** · **<big>[[G4191|πονηρότερος]]</big>** · **<big>[[G4642|σκληρός]]</big>**

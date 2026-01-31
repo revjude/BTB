@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jaazaniah</span>, the son of Azzur, was one of the twenty-five men in Ezekiel's vision who were devising iniquity and giving wicked counsel \([[Ezek.11.1|Ezk.11.1]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezek.11.1|Ezk.11.1]]; 
-- only referred to as Jaazaniah<[[H2970I]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Azzur<[[H5809I]]>.
+- only referred to as Jaazaniah **<big>[[H2970|יַאֲזַנְיָה]]</big>**; 
+- a son of Azzur **<big>[[H5809|עַזּוּר]]</big>**.
 
 Jaazaniah, the son of Azzur, is mentioned in [[Ezek.11.1|Ezekiel 11:1]] as one of the twenty-five men who appeared in Ezekiel's vision at the entrance of the east gate of the Lord's house. Along with Pelatiah the son of Benaiah, Jaazaniah is described as a leader among these men. 
 
@@ -17,7 +17,7 @@ Jaazaniah's presence in this vision highlights the corruption and wickedness of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970I) <small>*Hebrew*</small> | 1x | [Ezk.11.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Ezk.11.1) |
-All Strong's for **Jaazaniah**: \[[[H2970I]]\]
+| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970I) | 1x | [Ezk.11.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Ezk.11.1) |
+All entries for **Jaazaniah**:  **<big>[[H2970|יַאֲזַנְיָה]]</big>**
 #### Related Profiles:
 - **[Azzur](H5809I)** (father)

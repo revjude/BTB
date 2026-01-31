@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָצוּד‎</span></big> **mâtsûwd** <small>*(maw-tsood')*</small> ==**net**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">מְצוּדָה</span> **mᵉtsûwdâh** <small>*(mets-oo-daw')*</small>; or <span class="ashebrew">מְצֻדָה</span> **mᵉtsudâh** <small>*(mets-oo-daw')*</small>; for <span class="ashebrew">‎מָצוֹד‎</span><sup><small>[[H4685]]</small></sup></small>
+**<big><span class="ashebrew">‎מָצוּד‎</span></big>** **mâtsûwd** <small>*(maw-tsood')*</small> ==**net**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">מְצוּדָה</span></big>** **mᵉtsûwdâh** <small>*(mets-oo-daw')*</small>; or **<big><span class="ashebrew">מְצֻדָה</span></big>** **mᵉtsudâh** <small>*(mets-oo-daw')*</small>; for **<big>[[H4685|‎מָצוֹד‎]]</big>**</small>
 
 $\quad$ castle, defense, fort(-ress), (strong) hold, be hunted, net, snare, strong place.
 - ***a net***, or (abstractly) ***capture***
@@ -10,4 +10,4 @@ $\quad$ **1a)** net
 $\quad$ **1b)** prey
 **2)** fastness, stronghold
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παγίς</span><sup><small>[[G3803]]</small></sup> · <span class="asgreek">περιοχή</span><sup><small>[[G4042]]</small></sup>
+<small>See Greek: </small>**<big>[[G3803|παγίς]]</big>** · **<big>[[G4042|περιοχή]]</big>**

@@ -7,52 +7,52 @@ Yet, behold, therein shall be left a remnant that shall be brought forth, [both]
 Yet, behold, some survivors will be left in it—sons and daughters who will be brought out. They will come out to you, and when you see their conduct and actions, you will be comforted regarding the disaster I have brought upon Jerusalem—all that I have brought upon it.<small><sub>**MT:**</sub></small>
 [[Ezek.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.21|<< Ezekiel 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.23|Ezekiel 14:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| these | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">υπολελειμμένοι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it -- | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| escaping | <big><span class="asgreek">ανασεσωσμένοι</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall lead out | <big><span class="asgreek">εξάξουσιν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters; | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εκπορεύσονται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall see | <big><span class="asgreek">όψεσθε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their thoughts; | <big><span class="asgreek">ενθυμήματα</span></big> <sup><small><small>[[G7243]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be repentant | <big><span class="asgreek">μεταμεληθήσεσθε</span></big> <sup><small><small>[[G3338]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hurts | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I brought | <big><span class="asgreek">επήγαγον</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I brought | <big><span class="asgreek">επήγαγον</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| these | **<big>[[G1473\|αυτοί]]</big>** |
+| being left behind | **<big>[[G5275\|υπολελειμμένοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it -- | **<big>[[G1473\|αυτή]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| escaping | **<big>[[G6314\|ανασεσωσμένοι]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| the ones who | **<big>[[G3748\|οίτινες]]</big>** |
+| shall lead out | **<big>[[G1806\|εξάξουσιν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters; | **<big>[[G2364\|θυγατέρας]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall go forth | **<big>[[G1607\|εκπορεύσονται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall see | **<big>[[G3708\|όψεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their thoughts; | **<big>[[G7243\|ενθυμήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be repentant | **<big>[[G3338\|μεταμεληθήσεσθε]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| hurts | **<big>[[G2556\|κακά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I brought | **<big>[[G1863\|επήγαγον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| I brought | **<big>[[G1863\|επήγαγον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.21|<< Ezekiel 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.23|Ezekiel 14:23 >>]]</td></tr></table>
 
 

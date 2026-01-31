@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שָׁרָה‎</span></big> **shârâh** <small>*(shaw-raw')*</small> ==**vine-row**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>probably feminine of <span class="ashebrew">‎שׁוּר‎</span><sup><small>[[H7791]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁרָה‎</span></big>** **shârâh** <small>*(shaw-raw')*</small> ==**vine-row**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>probably feminine of **<big>[[H7791|‎שׁוּר‎]]</big>**</small>
 
-$\quad$ sing (by mistake for <span class="ashebrew">‎שִׁיר‎</span><sup><small>[[H7891]]</small></sup>), wall.
+$\quad$ sing (by mistake for **<big>[[H7891|‎שִׁיר‎]]</big>**), wall.
 - ***a fortification*** (literally or figuratively)
 
 **1)** wall

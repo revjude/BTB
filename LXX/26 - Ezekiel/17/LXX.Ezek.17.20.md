@@ -7,36 +7,36 @@ And I will spread my net upon him, and he shall be taken in my snare, and I will
 I will spread My net over him and catch him in My snare. I will bring him to Babylon and execute judgment upon him there for the treason he committed against Me.<small><sub>**MT:**</sub></small>
 [[Ezek.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.19|<< Ezekiel 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.21|Ezekiel 17:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will spread forth | <big><span class="asgreek">εκπετάσω</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my net, | <big><span class="asgreek">δικτυόν</span></big> <sup><small><small>[[G1350]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall be captured | <big><span class="asgreek">αλώσεται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his being encompassed about. | <big><span class="asgreek">περιοχή</span></big> <sup><small><small>[[G4042]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall litigate | <big><span class="asgreek">διακριθήσομαι</span></big> <sup><small><small>[[G1252]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his iniquity | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he transgressed | <big><span class="asgreek">ηδίκησεν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will spread forth | **<big>[[G1600\|εκπετάσω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my net, | **<big>[[G1350\|δικτυόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall be captured | **<big>[[G6226\|αλώσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his being encompassed about. | **<big>[[G4042\|περιοχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G0071\|άξω]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall litigate | **<big>[[G1252\|διακριθήσομαι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his iniquity | **<big>[[G0093\|αδικίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| he transgressed | **<big>[[G0091\|ηδίκησεν]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
 [[Ezek.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.19|<< Ezekiel 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.21|Ezekiel 17:21 >>]]</td></tr></table>
 
 

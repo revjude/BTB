@@ -11,17 +11,17 @@ But I will proclaim Him forever; I will sing praise to the God of Jacob.<small>
 > $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall exult | <big><span class="asgreek">αγαλλιάσομαι</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon; | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| I shall strum | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall exult | **<big>[[G0021\|αγαλλιάσομαι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon; | **<big>[[G0165\|αιώνα]]</big>** |
+| I shall strum | **<big>[[G5567\|ψαλώ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Ps.75.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.8|<< Psalm 75:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.10|Psalm 75:10 >>]]</td></tr></table>
 
 

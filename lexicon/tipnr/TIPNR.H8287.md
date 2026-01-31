@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sharuhen</span>, also called Shaaraim or Shilhim, was a town allotted to the tribe of Simeon within Judah's territory \(Josh. 19:6; 1 Chr. 4:31; Josh. 15:32\).
 - A location first mentioned at [[Josh.19.6|Jos.19.6]]; 
-- referred to as Sharuhen<[[H8287]]> \(<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ח</span>ֶ֑<span class='tipnrLangHebrew'>ן</span>\), or Shaaraim<[[H8189H]]> \(<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\), or Shilhim<[[H7978]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Sharuhen **<big>[[H8287|שָׁרוּחֶן]]</big>**, or Shaaraim **<big>[[H8189|שַׁעֲרַיִם]]</big>**, or Shilhim **<big>[[H7978|שִׁלְחִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.282222,34.482500&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Sharuhen, also known as Shaaraim or Shilhim, was a town allotted to the tribe of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sharuhen | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ח</span>ֶ֑<span class='tipnrLangHebrew'>ן</span>](H8287) <small>*Hebrew*</small> | 1x | [Jos.19.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sharuhen\*\|reference=Jos.19.6) |
-| Shaaraim | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H8189H) <small>*Hebrew*</small> | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaaraim\*\|reference=1Ch.4.31) |
-| Shilhim | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7978) <small>*Hebrew*</small> | 1x | [Jos.15.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shilhim\*\|reference=Jos.15.32) |
-All Strong's for **Sharuhen or Shaaraim or Shilhim**: \[[[H8287]]\] \[[[H8189H]]\] \[[[H7978]]\]
+| Sharuhen | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ח</span>ֶ֑<span class='tipnrLangHebrew'>ן</span>](H8287) | 1x | [Jos.19.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sharuhen\*\|reference=Jos.19.6) |
+| Shaaraim | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H8189H) | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaaraim\*\|reference=1Ch.4.31) |
+| Shilhim | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7978) | 1x | [Jos.15.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shilhim\*\|reference=Jos.15.32) |
+All entries for **Sharuhen or Shaaraim or Shilhim**:  **<big>[[H8287|שָׁרוּחֶן]]</big>** ☩  **<big>[[H8189|שַׁעֲרַיִם]]</big>** ☩  **<big>[[H7978|שִׁלְחִים]]</big>**

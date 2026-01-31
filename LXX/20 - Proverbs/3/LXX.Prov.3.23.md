@@ -7,21 +7,21 @@ Then shalt thou walk in thy way safely, and thy foot shall not stumble.
 Then you will go on your way in safety, and your foot will not stumble.<small><sub>**MT:**</sub></small>
 [[Prov.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.22|<< Proverbs 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.24|Proverbs 3:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should go | <big><span class="asgreek">πορεύη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| yielded | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| in all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of yours | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should stumble. | <big><span class="asgreek">προσκόψη</span></big> <sup><small><small>[[G4350]]</small></small></sup> |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should go | **<big>[[G4198\|πορεύη]]</big>** |
+| yielded | **<big>[[G3982\|πεποιθώς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| in all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| foot | **<big>[[G4228\|πους]]</big>** |
+| of yours | **<big>[[G1473\|σου]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should stumble. | **<big>[[G4350\|προσκόψη]]</big>** |
 [[Prov.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.22|<< Proverbs 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.24|Proverbs 3:24 >>]]</td></tr></table>
 
 

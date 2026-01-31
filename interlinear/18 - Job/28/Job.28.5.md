@@ -6,16 +6,16 @@ Food may come from the earth, but from below it is transformed as by fire.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.4|<< Job 28:4]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.6|Job 28:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] earth  | <span class="ashebrew"><big>אֶ֗רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּ֥ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it comes forth  | <span class="ashebrew"><big>יֵֽצֵא </big></span><small><small><sup>[[H3318M]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.tze'- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>לָ֑חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and under it  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תַחְתֶּ֗י </big></span><small><small><sup>[[H8478G]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tach.Tei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is turned over  | <span class="ashebrew"><big>נֶהְפַּ֥ךְ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| neh.Pakh <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fire  | <span class="ashebrew"><big>אֵֽשׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776H\|אֶ֗רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּ֥]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it comes forth  |**<big>&#8207;[[H3318M\|יֵֽצֵא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.tze'-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H3899H\|לָ֑חֶם]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and under it  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8478G\|תַחְתֶּ֗י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tach.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is turned over  |**<big>&#8207;[[H2015\|נֶהְפַּ֥ךְ]]&#8207; </big>**| neh.Pakh<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.4|<< Job 28:4]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.6|Job 28:6 >>]]</td></tr></table>
 
 

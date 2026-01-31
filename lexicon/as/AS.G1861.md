@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπ-αγγέλλω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ezra.4.8|Es 4:8]] (<span class="ashebrew">אָמַר</span> <small><sup>[[H0559]]</sup></small>), [[LXX.Prov.13.12|Pr 13:12]], [[Wis.2.13|Wi 2:13]], al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπ-αγγέλλω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ezra.4.8|Es 4:8]] (**<big>[[H0559|אָמַר]]</big>**), [[LXX.Prov.13.12|Pr 13:12]], [[Wis.2.13|Wi 2:13]], al. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to announce, proclaim</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to promise</span>;</span>

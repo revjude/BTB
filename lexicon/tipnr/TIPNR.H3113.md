@@ -4,9 +4,9 @@ Priest living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Joiakim</span> served as a high priest during the early Persian period, succeeding his father Jeshua \(Neh.12.10,10,12,26\).
 - A High Priest from the tribe of Levi living at the time of Exile and Return, first mentioned at Neh.12.10; 
-- only referred to as Joiakim<[[H3113]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ים</span>\); 
-- a son of Joshua<[[H3091J]]>; 
--  father of Eliashib<[[H0475N]]>.
+- only referred to as Joiakim **<big>[[H3113|יוֹיָקִים]]</big>**; 
+- a son of Joshua **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**; 
+-  father of Eliashib **<big>[[H0475|אֶלְיָשִׁיב]]</big>**.
 
 Joiakim is mentioned in the book of Nehemiah as a high priest who served during the early Persian period. He was the son of Jeshua, the first high priest to return from the Babylonian exile \(Neh.12.10\). Joiakim is listed in the genealogy of the high priests, affirming his rightful claim to the office. 
 
@@ -18,8 +18,8 @@ As a high priest, Joiakim would have played a crucial role in the spiritual lead
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joiakim | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ים</span>](H3113) <small>*Hebrew*</small> | 4x | [[Neh.12.10a] ... [Neh.12.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiakim\*\|reference=Neh.12.10;Neh.12.10;Neh.12.12;Neh.12.26) |
-All Strong's for **Joiakim**: \[[[H3113]]\]
+| Joiakim | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ים</span>](H3113) | 4x | [[Neh.12.10a] ... [Neh.12.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiakim\*\|reference=Neh.12.10;Neh.12.10;Neh.12.12;Neh.12.26) |
+All entries for **Joiakim**:  **<big>[[H3113|יוֹיָקִים]]</big>**
 #### Related Profiles:
 - **[Joshua](H3091J)** (father)
 - **[Eliashib](H0475N)** (child)

@@ -6,13 +6,13 @@ Redeem me from the oppression of man, that I may keep Your precepts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.134|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.133|<< Psalms 119:133]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.135|Psalms 119:135 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| redeem me  | <span class="ashebrew"><big>פְּ֭דֵ </big></span><small><small><sup>[[H6299]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| Pe.de. <small><sup>[[HVqv2ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from oppression of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עֹ֣שֶׁק </big></span><small><small><sup>[[H6233]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'O.shek <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֑ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so let me keep  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶשְׁמְרָ֗ה </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'esh.me.Rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precepts your  | <span class="ashebrew"><big>פִּקּוּדֶֽי </big></span><small><small><sup>[[H6490]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pi.ku.Dei. <small><sup>[[HNcmpc]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| redeem me  |**<big>&#8207;[[H6299\|פְּ֭דֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Pe.de.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from oppression of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6233\|עֹ֣שֶׁק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'O.shek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֑ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so let me keep  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8104G\|אֶשְׁמְרָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'esh.me.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precepts your  |**<big>&#8207;[[H6490\|פִּקּוּדֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pi.ku.Dei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.133|<< Psalms 119:133]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.135|Psalms 119:135 >>]]</td></tr></table>
 
 

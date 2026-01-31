@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְפִיבֹשֶׁת‎</span></big> **Mᵉphîybôsheth** <small>*(mef-ee-bo'-sheth)*</small> ==**Mephibosheth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מְפִבֹשֶׁת</span> **Mᵉphibôsheth** <small>*(mef-ee-bo'-sheth)*</small>; probably from <span class="ashebrew">‎פָּאָה‎</span><sup><small>[[H6284]]</small></sup> and <span class="ashebrew">‎בֹּשֶׁת‎</span><sup><small>[[H1322]]</small></sup>; dispeller of shame (i.e. of Baal)</small>
+**<big><span class="ashebrew">‎מְפִיבֹשֶׁת‎</span></big>** **Mᵉphîybôsheth** <small>*(mef-ee-bo'-sheth)*</small> ==**Mephibosheth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְפִבֹשֶׁת</span></big>** **Mᵉphibôsheth** <small>*(mef-ee-bo'-sheth)*</small>; probably from **<big>[[H6284|‎פָּאָה‎]]</big>** and **<big>[[H1322|‎בֹּשֶׁת‎]]</big>**; dispeller of shame (i.e. of Baal)</small>
 
 $\quad$ Mephibosheth.
 - § Mephibosheth = *"exterminating the idol"*

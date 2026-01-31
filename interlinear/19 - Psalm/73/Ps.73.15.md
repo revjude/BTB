@@ -6,16 +6,16 @@ If I had said, “I will speak this way,” then I would have betrayed Your chil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.14|<< Psalms 73:14]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.16|Psalms 73:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I had said  | <span class="ashebrew"><big>אָ֭מַרְתִּי </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'A.mar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will speak  | <span class="ashebrew"><big>אֲסַפְּרָ֥ה </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| 'a.sa.pe.Rah <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְמ֑וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> &#8207;| khe.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] generation of  | <span class="ashebrew"><big>ד֭וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| Dor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children your  | <span class="ashebrew"><big>בָּנֶ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ba.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I dealt treacherously with  | <span class="ashebrew"><big>בָגָֽדְתִּי </big></span><small><small><sup>[[H0898]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va.Ga.de.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had said  |**<big>&#8207;[[H0559\|אָ֭מַרְתִּי]]&#8207; </big>**| 'A.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will speak  |**<big>&#8207;[[H5608A\|אֲסַפְּרָ֥ה]]&#8207; </big>**| 'a.sa.pe.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְמ֑וֹ]]&#8207; </big>**| khe.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] generation of  |**<big>&#8207;[[H1755\|ד֭וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children your  |**<big>&#8207;[[H1121A\|בָּנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I dealt treacherously with  |**<big>&#8207;[[H0898\|בָגָֽדְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.Ga.de.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.14|<< Psalms 73:14]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.16|Psalms 73:16 >>]]</td></tr></table>
 
 

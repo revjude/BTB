@@ -6,19 +6,19 @@ I will never say that you are right; I will maintain my integrity until I die.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.6|Job 27:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| far be it  | <span class="ashebrew"><big>חָלִ֣ילָה </big></span><small><small><sup>[[H2486]]</sup></small></small> &#8207;| cha.Li.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>לִּ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י֮ </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will declare right  | <span class="ashebrew"><big>אַצְדִּ֪יק </big></span><small><small><sup>[[H6663]]</sup></small></small> &#8207;| 'atz.Dik <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> you  | <span class="ashebrew"><big>אֶ֫תְ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>כֶ֥ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| 'et. <small><sup>[[HTo]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will expire  | <span class="ashebrew"><big>אֶגְוָ֑ע </big></span><small><small><sup>[[H1478]]</sup></small></small> &#8207;| 'eg.Va' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will put aside  | <span class="ashebrew"><big>אָסִ֖יר </big></span><small><small><sup>[[H5493G]]</sup></small></small> &#8207;| 'a.Sir <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| integrity my  | <span class="ashebrew"><big>תֻּמָּתִ֣ </big></span><small><small><sup>[[H8538]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| tu.ma.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from me  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נִּי </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| far be it  |**<big>&#8207;[[H2486\|חָלִ֣ילָה]]&#8207; </big>**| cha.Li.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will declare right  |**<big>&#8207;[[H6663\|אַצְדִּ֪יק]]&#8207; </big>**| 'atz.Dik<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  |**<big>&#8207;[[H0853\|אֶ֫תְ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will expire  |**<big>&#8207;[[H1478\|אֶגְוָ֑ע]]&#8207; </big>**| 'eg.Va'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will put aside  |**<big>&#8207;[[H5493G\|אָסִ֖יר]]&#8207; </big>**| 'a.Sir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| integrity my  |**<big>&#8207;[[H8538\|תֻּמָּתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tu.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9030\|נִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.6|Job 27:6 >>]]</td></tr></table>
 
 

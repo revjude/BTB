@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כּוֹרֶשׁ‎</span></big> **Kôwresh** <small>*(ko'-resh)*</small> ==**Cyrus**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כּוֹרֶשׁ‎</span><sup><small>[[H3566]]</small></sup></small>
+**<big><span class="ashebrew">‎כּוֹרֶשׁ‎</span></big>** **Kôwresh** <small>*(ko'-resh)*</small> ==**Cyrus**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3566|‎כּוֹרֶשׁ‎]]</big>**</small>
 
 $\quad$ Cyrus.
 - § Cyrus = *"posses thou the furnace"*

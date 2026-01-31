@@ -7,16 +7,16 @@ And Daniel continued [even] unto the first year of king Cyrus.
 And Daniel remained there until the first year of King Cyrus.<small><sub>**MT:**</sub></small>
 [[Dan.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.20|<< Daniel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.1|Daniel 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Daniel existed | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| year | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of Cyrus | <big><span class="asgreek">κύρου</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Daniel existed | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1158\|Δανιήλ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| year | **<big>[[G2094\|έτους]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| of Cyrus | **<big>[[H3567\|κύρου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Dan.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.20|<< Daniel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.1|Daniel 2:1 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ For day and night Your hand was heavy upon me; my strength was drained as in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.3|<< Psalms 32:3]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.5|Psalms 32:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by day  | <span class="ashebrew"><big>יוֹמָ֣ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and night  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַיְלָה֮ </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> lay.Lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was heavy  | <span class="ashebrew"><big>תִּכְבַּ֥ד </big></span><small><small><sup>[[H3513H]]</sup></small></small> &#8207;| tikh.Bad <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on me  | <span class="ashebrew"><big>עָלַ֗ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand your  | <span class="ashebrew"><big>יָ֫דֶ֥ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ya.De. <small><sup>[[HNcbsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was changed  | <span class="ashebrew"><big>נֶהְפַּ֥ךְ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| neh.Pakh <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| juice my  | <span class="ashebrew"><big>לְשַׁדִּ֑ </big></span><small><small><sup>[[H3955]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| le.sha.D <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] dry heat\<s> of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חַרְבֹ֖נֵי </big></span><small><small><sup>[[H2725]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> char.Vo.nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| summer  | <span class="ashebrew"><big>קַ֣יִץ </big></span><small><small><sup>[[H7019]]</sup></small></small> &#8207;| Ka.yitz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָ֣ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3915\|לַיְלָה֮]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> lay.Lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was heavy  |**<big>&#8207;[[H3513H\|תִּכְבַּ֥ד]]&#8207; </big>**| tikh.Bad<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  |**<big>&#8207;[[H5921A\|עָלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand your  |**<big>&#8207;[[H3027G\|יָ֫דֶ֥]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ya.De.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was changed  |**<big>&#8207;[[H2015\|נֶהְפַּ֥ךְ]]&#8207; </big>**| neh.Pakh<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| juice my  |**<big>&#8207;[[H3955\|לְשַׁדִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.sha.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] dry heat\<s> of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2725\|חַרְבֹ֖נֵי]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> char.Vo.nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| summer  |**<big>&#8207;[[H7019\|קַ֣יִץ]]&#8207; </big>**| Ka.yitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.3|<< Psalms 32:3]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.5|Psalms 32:5 >>]]</td></tr></table>
 
 

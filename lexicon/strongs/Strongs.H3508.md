@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֹתֶרֶת‎</span></big> **yôthereth** <small>*(yo-theh'-reth)*</small> ==**lobe**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎יָתַר‎</span><sup><small>[[H3498]]</small></sup></small>
+**<big><span class="ashebrew">‎יֹתֶרֶת‎</span></big>** **yôthereth** <small>*(yo-theh'-reth)*</small> ==**lobe**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H3498|‎יָתַר‎]]</big>**</small>
 
 $\quad$ caul.
 - ***the lobe*** or ***flap of the liver*** (as if redundant or outhanging)

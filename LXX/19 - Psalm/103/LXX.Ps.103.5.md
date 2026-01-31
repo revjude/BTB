@@ -7,19 +7,19 @@ Who satisfieth thy mouth with good [things; so that] thy youth is renewed like t
 who satisfies you with good things, so that your youth is renewed like the eagle’s.<small><sub>**MT:**</sub></small>
 [[Ps.103.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.4|<< Psalm 103:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.6|Psalm 103:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| filling | <big><span class="asgreek">εμπιπλώντα</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθοίς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your desire | <big><span class="asgreek">επιθυμίαν</span></big> <sup><small><small>[[G1939]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be renewed | <big><span class="asgreek">ανακαινισθήσεται</span></big> <sup><small><small>[[G0340]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an eagle | <big><span class="asgreek">αετού</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your youth | <big><span class="asgreek">νεότης</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| filling | **<big>[[G1705\|εμπιπλώντα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your desire | **<big>[[G1939\|επιθυμίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be renewed | **<big>[[G0340\|ανακαινισθήσεται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an eagle | **<big>[[G0105\|αετού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your youth | **<big>[[G3503\|νεότης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.103.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.4|<< Psalm 103:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.6|Psalm 103:6 >>]]</td></tr></table>
 
 

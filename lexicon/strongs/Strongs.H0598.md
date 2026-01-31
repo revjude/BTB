@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲנַס‎</span></big> **ʼănaç** <small>*(an-as')*</small> ==**to constrain**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אָנַס‎</span><sup><small>[[H0597]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲנַס‎</span></big>** **ʼănaç** <small>*(an-as')*</small> ==**to constrain**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0597|‎אָנַס‎]]</big>**</small>
 
 $\quad$ trouble.
 - figuratively, ***to distress***

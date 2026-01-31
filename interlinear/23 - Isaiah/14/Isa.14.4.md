@@ -6,20 +6,20 @@ you will sing this song of contempt against the king of Babylon: How the oppress
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.3|<< Isaiah 14:3]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.5|Isaiah 14:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will lift up  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָשָׂ֜אתָ </big></span><small><small><sup>[[H5375N]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.Sa.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the saying  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּשָׁ֥ל </big></span><small><small><sup>[[H4912]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Shal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּ֛ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֖ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמָ֑רְתָּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Ma.re.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how!  | <span class="ashebrew"><big>אֵ֚יךְ </big></span><small><small><sup>[[H0349A]]</sup></small></small> &#8207;| 'eikh <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has ceased  | <span class="ashebrew"><big>שָׁבַ֣ת </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| sha.Vat <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] oppressor  | <span class="ashebrew"><big>נֹגֵ֔שׂ </big></span><small><small><sup>[[H5065]]</sup></small></small> &#8207;| no.Ges <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has ceased  | <span class="ashebrew"><big>שָׁבְתָ֖ה </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| sha.ve.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| raging  | <span class="ashebrew"><big>מַדְהֵבָֽה </big></span><small><small><sup>[[H4062]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mad.he.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will lift up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375N\|נָשָׂ֜אתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the saying  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4912\|מָּשָׁ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Shal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֖ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמָ֑רְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Ma.re.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H0349A\|אֵ֚יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has ceased  |**<big>&#8207;[[H7673A\|שָׁבַ֣ת]]&#8207; </big>**| sha.Vat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oppressor  |**<big>&#8207;[[H5065\|נֹגֵ֔שׂ]]&#8207; </big>**| no.Ges<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has ceased  |**<big>&#8207;[[H7673A\|שָׁבְתָ֖ה]]&#8207; </big>**| sha.ve.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| raging  |**<big>&#8207;[[H4062\|מַדְהֵבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mad.he.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.3|<< Isaiah 14:3]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.5|Isaiah 14:5 >>]]</td></tr></table>
 
 

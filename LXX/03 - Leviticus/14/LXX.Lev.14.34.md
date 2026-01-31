@@ -7,34 +7,34 @@ When ye be come into the land of Canaan, which I give to you for a possession, a
 “When you enter the land of Canaan, which I am giving you as your possession, and I put a contamination of mildew into a house in that land,<small><sub>**MT:**</sub></small>
 [[Lev.14.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.33|<< Leviticus 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.35|Leviticus 14:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| When | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should enter | <big><span class="asgreek">εισέλθητε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites, | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δίδωμι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a possession, | <big><span class="asgreek">κτήσει</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| an infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of leprosy | <big><span class="asgreek">λέπρας</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οικίαις</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| procured | <big><span class="asgreek">εγκτήτου</span></big> <sup><small><small>[[G7031]]</small></small></sup> |
-| by you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| When | **<big>[[G5613\|ως]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should enter | **<big>[[G1525\|εισέλθητε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Canaanites, | **<big>[[G5477\|Χαναναίων]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give | **<big>[[G1325\|δίδωμι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| a possession, | **<big>[[G8111\|κτήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I put | **<big>[[G1325\|δώσω]]</big>** |
+| an infection | **<big>[[G0860\|αφήν]]</big>** |
+| of leprosy | **<big>[[G3014\|λέπρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| houses | **<big>[[G3614\|οικίαις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| procured | **<big>[[G7031\|εγκτήτου]]</big>** |
+| by you; | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.14.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.33|<< Leviticus 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.35|Leviticus 14:35 >>]]</td></tr></table>
 
 

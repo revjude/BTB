@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶגֶשׁ‎</span></big> **regesh** <small>*(reh'-ghesh)*</small> ==**throng**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">רִגְשָׁה</span> **rigshâh** <small>*(rigshaw')*</small>; from <span class="ashebrew">‎רָגַשׁ‎</span><sup><small>[[H7283]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶגֶשׁ‎</span></big>** **regesh** <small>*(reh'-ghesh)*</small> ==**throng**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">רִגְשָׁה</span></big>** **rigshâh** <small>*(rigshaw')*</small>; from **<big>[[H7283|‎רָגַשׁ‎]]</big>**</small>
 
 $\quad$ company, insurrection.
 - ***a tumultuous crowd***
@@ -10,4 +10,4 @@ n f
 **2)** throng
 **3)** (TWOT) scheming
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup>
+<small>See Greek: </small>**<big>[[G4128|πλῆθος]]</big>**

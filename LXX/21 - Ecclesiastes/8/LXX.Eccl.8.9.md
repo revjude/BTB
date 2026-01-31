@@ -7,34 +7,34 @@ All this have I seen, and applied my heart unto every work that is done under th
 All this I have seen, applying my mind to every deed that is done under the sun; there is a time when one man lords it over another to his own detriment.<small><sub>**MT:**</sub></small>
 [[Eccl.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.8|<< Ecclesiastes 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.10|Ecclesiastes 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">σύμπαν</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I beheld; | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| action | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I had done | <big><span class="asgreek">πεποίηται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun; | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| the \[things\], | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| exercises authority | <big><span class="asgreek">εξουσιάσατο</span></big> <sup><small><small>[[G1850]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to inflict evil | <big><span class="asgreek">κακώσαι</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| on him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G9270\|σύμπαν]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I beheld; | **<big>[[G1492\|είδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| action | **<big>[[G4161\|ποίημα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I had done | **<big>[[G4160\|πεποίηται]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun; | **<big>[[G2246\|ήλιον]]</big>** |
+| the \[things\], | **<big>[[G3588\|τα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| exercises authority | **<big>[[G1850\|εξουσιάσατο]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| a man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to inflict evil | **<big>[[G2559\|κακώσαι]]</big>** |
+| on him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Eccl.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.8|<< Ecclesiastes 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.10|Ecclesiastes 8:10 >>]]</td></tr></table>
 
 

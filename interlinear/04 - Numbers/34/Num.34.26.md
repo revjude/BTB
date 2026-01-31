@@ -6,15 +6,15 @@ Paltiel son of Azzan, a leader from the tribe of Issachar;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.25|<< Numbers 34:25]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.27|Numbers 34:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and of [the] tribe of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטֵּ֥ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Issachar  | <span class="ashebrew"><big>יִשָׂשכָ֖ר </big></span><small><small><sup>[[H3485G]]</sup></small></small> &#8207;| yi.so.sh.Khar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a leader  | <span class="ashebrew"><big>נָשִׂ֑יא </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| na.Si' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Paltiel  | <span class="ashebrew"><big>פַּלְטִיאֵ֖ל </big></span><small><small><sup>[[H6409G]]</sup></small></small> &#8207;| pal.ti.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Azzan  | <span class="ashebrew"><big>עַזָּֽן </big></span><small><small><sup>[[H5821]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Zan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of [the] tribe of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4294H\|מַטֵּ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Issachar  |**<big>&#8207;[[H3485G\|יִשָׂשכָ֖ר]]&#8207; </big>**| yi.so.sh.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a leader  |**<big>&#8207;[[H5387A\|נָשִׂ֑יא]]&#8207; </big>**| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Paltiel  |**<big>&#8207;[[H6409G\|פַּלְטִיאֵ֖ל]]&#8207; </big>**| pal.ti.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Azzan  |**<big>&#8207;[[H5821\|עַזָּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Zan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.25|<< Numbers 34:25]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.27|Numbers 34:27 >>]]</td></tr></table>
 
 

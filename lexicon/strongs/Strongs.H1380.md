@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּבַל‎</span></big> **Gᵉbal** <small>*(gheb-al')*</small> ==**Gebal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּבַל‎</span><sup><small>[[H1379]]</small></sup> (in the sense of a chain of hills); a mountain</small>
+**<big><span class="ashebrew">‎גְּבַל‎</span></big>** **Gᵉbal** <small>*(gheb-al')*</small> ==**Gebal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1379|‎גָּבַל‎]]</big>** (in the sense of a chain of hills); a mountain</small>
 
 $\quad$ Gebal.
 - § Gebal = *"mountain"*

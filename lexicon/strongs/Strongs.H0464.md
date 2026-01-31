@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִיפַז‎</span></big> **ʼĔlîyphaz** <small>*(el-ee-faz')*</small> ==**Eliphaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎פָּז‎</span><sup><small>[[H6337]]</small></sup>; God of gold</small>
+**<big><span class="ashebrew">‎אֱלִיפַז‎</span></big>** **ʼĔlîyphaz** <small>*(el-ee-faz')*</small> ==**Eliphaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H6337|‎פָּז‎]]</big>**; God of gold</small>
 
 $\quad$ Eliphaz.
 - § Eliphaz = *"my God is (fine) gold"*

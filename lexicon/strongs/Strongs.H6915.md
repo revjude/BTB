@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָדַד‎</span></big> **qâdad** <small>*(kaw-dad')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָדַד‎</span></big>** **qâdad** <small>*(kaw-dad')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bow (down) (the) head, stoop.
@@ -6,4 +6,4 @@ $\quad$ bow (down) (the) head, stoop.
 
 **1)** (Qal) to bow down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γόνυ</span><sup><small>[[G1119]]</small></sup> · <span class="asgreek">εὐδοκέω</span><sup><small>[[G2106]]</small></sup> · <span class="asgreek">κάμπτω</span><sup><small>[[G2578]]</small></sup> · <span class="asgreek">κύπτω</span><sup><small>[[G2955]]</small></sup> · <span class="asgreek">πίπτω</span><sup><small>[[G4098]]</small></sup>
+<small>See Greek: </small>**<big>[[G1119|γόνυ]]</big>** · **<big>[[G2106|εὐδοκέω]]</big>** · **<big>[[G2578|κάμπτω]]</big>** · **<big>[[G2955|κύπτω]]</big>** · **<big>[[G4098|πίπτω]]</big>**

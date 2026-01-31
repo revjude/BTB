@@ -7,23 +7,23 @@ Let thy fountain be blessed: and rejoice with the wife of thy youth.
 May your fountain be blessed, and may you rejoice in the wife of your youth:<small><sub>**MT:**</sub></small>
 [[Prov.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.17|<< Proverbs 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.19|Proverbs 5:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spring | <big><span class="asgreek">πηγή</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water -- | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| let it be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in particular! | <big><span class="asgreek">ιδία</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be glad | <big><span class="asgreek">συνευφραίνου</span></big> <sup><small><small>[[G9320]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \[the\] wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your youth! | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| spring | **<big>[[G4077\|πηγή]]</big>** |
+| of your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| water -- | **<big>[[G5204\|ύδατος]]</big>** |
+| let it be | **<big>[[G1510\|έστω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| in particular! | **<big>[[G2398\|ιδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be glad | **<big>[[G9320\|συνευφραίνου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \[the\] wife | **<big>[[G1135\|γυναικός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| your youth! | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Prov.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.17|<< Proverbs 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.19|Proverbs 5:19 >>]]</td></tr></table>
 
 

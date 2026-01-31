@@ -7,22 +7,22 @@ My mouth shall shew forth thy righteousness [and] thy salvation all the day; for
 My mouth will declare Your righteousness and Your salvation all day long, though I cannot know their full measure.<small><sub>**MT:**</sub></small>
 [[Ps.71.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.14|<< Psalm 71:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.16|Psalm 71:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall announce | <big><span class="asgreek">αναγγελεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day; | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance, | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| writings. | <big><span class="asgreek">γραμματείας</span></big> <sup><small><small>[[G6763]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| My mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall announce | **<big>[[G0312\|αναγγελεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day; | **<big>[[G2250\|ημέραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your deliverance, | **<big>[[G4991\|σωτηρίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνων]]</big>** |
+| writings. | **<big>[[G6763\|γραμματείας]]</big>** |
 [[Ps.71.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.14|<< Psalm 71:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.16|Psalm 71:16 >>]]</td></tr></table>
 
 

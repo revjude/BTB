@@ -7,19 +7,19 @@ And Moses let his father in law depart; and he went his way into his own land.
 Then Moses sent his father-in-law on his way, and Jethro returned to his own land.<small><sub>**MT:**</sub></small>
 [[Exod.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.26|<< Exodus 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.1|Exodus 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sent out | <big><span class="asgreek">εξαπέστειλε</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| father-in-law, | <big><span class="asgreek">γαμβρόν</span></big> <sup><small><small>[[G6716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sent out | **<big>[[G1821\|εξαπέστειλε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| father-in-law, | **<big>[[G6716\|γαμβρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his land. | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.26|<< Exodus 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.1|Exodus 19:1 >>]]</td></tr></table>
 
 

@@ -6,18 +6,18 @@ Saul’s servants said to him, “Surely a spirit of distress from God is tormen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.14|<< 1 Samuel 16:14]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.16|1 Samuel 16:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמְר֥וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.me.Ru <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] servants of  | <span class="ashebrew"><big>עַבְדֵֽי </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'av.dei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֖וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָ֑י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hi.neh- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֧א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit of  | <span class="ashebrew"><big>רֽוּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Ru.ach- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֛ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָעָ֖ה </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] terrifying you  | <span class="ashebrew"><big>מְבַעִתֶּֽ </big></span><small><small><sup>[[H1204]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.va.'i.Te. <small><sup>[[HVprmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'av.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֑י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֧א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit of  |**<big>&#8207;[[H7307G\|רֽוּחַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ru.ach-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451A\|רָעָ֖ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] terrifying you  |**<big>&#8207;[[H1204\|מְבַעִתֶּֽ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.va.'i.Te.<small><sup>[[HVprmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.14|<< 1 Samuel 16:14]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.16|1 Samuel 16:16 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ But she was plucked up in fury, she was cast down to the ground, and the east wi
 But it was uprooted in fury, cast down to the ground, and the east wind dried up its fruit. Its strong branches were stripped off and they withered; the fire consumed them.<small><sub>**MT:**</sub></small>
 [[Ezek.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.11|<< Ezekiel 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.13|Ezekiel 19:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she was broken off in pieces | <big><span class="asgreek">κατεκλάσθη</span></big> <sup><small><small>[[G2622]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage; | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| she was tossed | <big><span class="asgreek">ερρίφη</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμος</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| \[the\] burning | <big><span class="asgreek">καύσων</span></big> <sup><small><small>[[G2742]]</small></small></sup> |
-| dried | <big><span class="asgreek">εξήρανε</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her choice \[branches\]. | <big><span class="asgreek">εκλεκτά</span></big> <sup><small><small>[[G1588]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were punished | <big><span class="asgreek">εξεδικήθησαν</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were dried | <big><span class="asgreek">εξηράνθσαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| The | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rods | <big><span class="asgreek">ράβδοι</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her strength | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| consumed | <big><span class="asgreek">ανήλωσεν</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| she was broken off in pieces | **<big>[[G2622\|κατεκλάσθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rage; | **<big>[[G2372\|θυμώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| she was tossed | **<big>[[G4496\|ερρίφη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wind | **<big>[[G0417\|άνεμος]]</big>** |
+| \[the\] burning | **<big>[[G2742\|καύσων]]</big>** |
+| dried | **<big>[[G3583\|εξήρανε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her choice \[branches\]. | **<big>[[G1588\|εκλεκτά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were punished | **<big>[[G1556\|εξεδικήθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were dried | **<big>[[G3583\|εξηράνθσαν]]</big>** |
+| The | **<big>[[G3588\|αι]]</big>** |
+| rods | **<big>[[G4464\|ράβδοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of her strength | **<big>[[G2479\|ισχύος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| consumed | **<big>[[G0355\|ανήλωσεν]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.11|<< Ezekiel 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.13|Ezekiel 19:13 >>]]</td></tr></table>
 
 

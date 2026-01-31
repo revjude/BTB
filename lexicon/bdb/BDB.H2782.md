@@ -1,4 +1,4 @@
-<small>Also see: [[H2742]]</small>
+<small>Also see: **<big>[[H2742|חֲרוּץ]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎חָרַץ‎</span> **verb** ==cut, sharpen, decide== (Late Hebrew ***id., cut in, decide***, Aramaic in derivatives; Assyrian <abbr title="transliteration"><u>***—arâƒu***</u></abbr>, dig, decide, <abbr title="transliteration"><u>***—ariƒu***</u></abbr>, ***trench***, [[BDB#Zehnpf|Zehnpf]]<sup>BAS i. 502</sup>; Phoenician <span class="bdbLangHebrew">‎חרץ‎</span> ***decision***, [[BDB#Hoffm|Hoffm]]<sup>AGG xxxvi, May 1889, 11</sup>) — 
 

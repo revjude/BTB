@@ -11,46 +11,46 @@ And many peoples will come and say: “Come, let us go up to the mountain of the
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should ascend | <big><span class="asgreek">αναβώμεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Jacob; | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will announce | <big><span class="asgreek">αναγγελεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way; | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall go | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| law, | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσονται]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say, | **<big>[[G2046\|ερούσι]]</big>** |
+| Come, | **<big>[[G1205\|δεύτε]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| we should ascend | **<big>[[G0305\|αναβώμεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Jacob; | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will announce | **<big>[[G0312\|αναγγελεί]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his way; | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall go | **<big>[[G4198\|πορευσόμεθα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
+| For from out of | **<big>[[G1537\|εκ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| law, | **<big>[[G3551\|νόμος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Isa.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.2|<< Isaiah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.4|Isaiah 2:4 >>]]</td></tr></table>
 
 

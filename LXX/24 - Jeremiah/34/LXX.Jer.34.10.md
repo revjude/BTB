@@ -7,42 +7,42 @@ Now when all the princes, and all the people, which had entered into the covenan
 So all the officials and all the people who entered into this covenant agreed that they would free their menservants and maidservants and no longer hold them in bondage. They obeyed and released them,<small><sub>**MT:**</sub></small>
 [[Jer.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.9|<< Jeremiah 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.11|Jeremiah 34:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heeded | <big><span class="asgreek">επήκουσαν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great men | <big><span class="asgreek">μεγιστάνες</span></big> <sup><small><small>[[G3175]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισελθόντες</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to send | <big><span class="asgreek">αποστείλαι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his manservant | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his maidservant | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| free, | <big><span class="asgreek">ελευθέρους</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
-| to | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| serve | <big><span class="asgreek">δουλεύειν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| any more | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they heeded, | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let \[them\] go. | <big><span class="asgreek">αφήκαν</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| heeded | **<big>[[G1873\|επήκουσαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| great men | **<big>[[G3175\|μεγιστάνες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| entering | **<big>[[G1525\|εισελθόντες]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to send | **<big>[[G0649\|αποστείλαι]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his manservant | **<big>[[G3816\|παίδα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his maidservant | **<big>[[G3814\|παιδίσκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| free, | **<big>[[G1658\|ελευθέρους]]</big>** |
+| to | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| serve | **<big>[[G1398\|δουλεύειν]]</big>** |
+| any more | **<big>[[G2089\|έτι]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they heeded, | **<big>[[G0191\|ήκουσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let \[them\] go. | **<big>[[G0863\|αφήκαν]]</big>** |
 [[Jer.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.9|<< Jeremiah 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.11|Jeremiah 34:11 >>]]</td></tr></table>
 
 

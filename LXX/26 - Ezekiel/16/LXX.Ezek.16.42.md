@@ -7,26 +7,26 @@ So will I make my fury toward thee to rest, and my jealousy shall depart from th
 So I will lay to rest My wrath against you, and My jealousy will turn away from you. Then I will be calm and no longer angry.<small><sub>**MT:**</sub></small>
 [[Ezek.16.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.41|<< Ezekiel 16:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.43|Ezekiel 16:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will slacken | <big><span class="asgreek">επαφήσω</span></big> <sup><small><small>[[G7375]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be removed | <big><span class="asgreek">εξαρθήσεται</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my jealousy | <big><span class="asgreek">ζήλός</span></big> <sup><small><small>[[G2205]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will rest, | <big><span class="asgreek">αναπαύσομαι</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will I be anxious | <big><span class="asgreek">μεριμνήσω</span></big> <sup><small><small>[[G3309]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will slacken | **<big>[[G7375\|επαφήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be removed | **<big>[[G1808\|εξαρθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my jealousy | **<big>[[G2205\|ζήλός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will rest, | **<big>[[G0373\|αναπαύσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| will I be anxious | **<big>[[G3309\|μεριμνήσω]]</big>** |
+| any longer. | **<big>[[G2089\|έτι]]</big>** |
 [[Ezek.16.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.41|<< Ezekiel 16:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.43|Ezekiel 16:43 >>]]</td></tr></table>
 
 

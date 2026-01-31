@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Erech</span>, an ancient Mesopotamian city that was part of Nimrod's kingdom and later inhabited by people who opposed the rebuilding of the Jerusalem Temple.
 - A location first mentioned at [[Gen.10.10|Gen.10.10]]; 
-- referred to as Erech<[[H0751]]> \(<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\), or Erech \(KJV= Archevite, NIV= Uruk\) <[[H0756]]> \(Aramiac <span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- referred to as Erech **<big>[[H0751|אֶרֶךְ]]</big>**, or Erech \(KJV= Archevite, NIV= Uruk\)  **<big>[[H0756|אַרְכְּוַי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.322222,45.636111&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The biblical mentions of Erech, though brief, attest to its significance as an a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Erech (NIV= Uruk) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0751) <small>*Hebrew*</small> | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Erech\*\|reference=Gen.10.10) |
-| Erech (KJV= Archevite; NIV= Uruk) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0756) <small>*Aramaic*</small> | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Erech\*\|reference=Ezr.4.9) |
-All Strong's for **Erech**: \[[[H0751]]\] \[[[H0756]]\]
+| Erech (NIV= Uruk) | [<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0751) | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Erech\*\|reference=Gen.10.10) |
+| Erech (KJV= Archevite; NIV= Uruk) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0756) | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Erech\*\|reference=Ezr.4.9) |
+All entries for **Erech**:  **<big>[[H0751|אֶרֶךְ]]</big>** ☩  **<big>[[H0756|אַרְכְּוַי]]</big>**

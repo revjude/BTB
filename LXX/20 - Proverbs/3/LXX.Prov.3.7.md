@@ -11,20 +11,20 @@ Be not wise in your own eyes; fear the LORD and turn away from evil.<small><sub
 > $\quad$ referenced by: [[Rom.12.16|Rom 12:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ίσθι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| skilled | <big><span class="asgreek">φρόνιμος</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
-| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| but fear | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">έκκλινε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| evil! | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| Be not | **<big>[[G3361\|μη]]</big>** **<big>[[G1510\|ίσθι]]</big>** |
+| skilled | **<big>[[G5429\|φρόνιμος]]</big>** |
+| of | **<big>[[G3844\|παρά]]</big>** |
+| yourself, | **<big>[[G4572\|σεαυτώ]]</big>** |
+| but fear | **<big>[[G5399\|φοβού]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turn aside | **<big>[[G1578\|έκκλινε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| evil! | **<big>[[G2556\|κακού]]</big>** |
 [[Prov.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.6|<< Proverbs 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.8|Proverbs 3:8 >>]]</td></tr></table>
 
 

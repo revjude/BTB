@@ -7,23 +7,23 @@ Now therefore stand and see this great thing, which the LORD will do before your
 Now, therefore, present yourselves and see this great thing that the LORD will do before your eyes.<small><sub>**MT:**</sub></small>
 [[1Sam.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.15|<< 1 Samuel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.17|1 Samuel 12:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| stand | <big><span class="asgreek">κατάστητε</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| will do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes! | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| stand | **<big>[[G2525\|κατάστητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold | **<big>[[G1492\|ίδετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this great | **<big>[[G3173\|μέγα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| will do | **<big>[[G4160\|ποιήσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes! | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[1Sam.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.15|<< 1 Samuel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.17|1 Samuel 12:17 >>]]</td></tr></table>
 
 

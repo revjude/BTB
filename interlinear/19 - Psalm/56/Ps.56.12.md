@@ -6,14 +6,14 @@ Your vows are upon me, O God; I will render thank offerings to You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.11|<< Psalms 56:11]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.13|Psalms 56:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [are] on me  | <span class="ashebrew"><big>עָלַ֣ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vows your  | <span class="ashebrew"><big>נְדָרֶ֑י </big></span><small><small><sup>[[H5088]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ne.da.Rei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will pay  | <span class="ashebrew"><big>אֲשַׁלֵּ֖ם </big></span><small><small><sup>[[H7999A]]</sup></small></small> &#8207;| 'a.sha.Lem <small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thank-offerings  | <span class="ashebrew"><big>תּוֹדֹ֣ת </big></span><small><small><sup>[[H8426]]</sup></small></small> &#8207;| to.Dot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] on me  |**<big>&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vows your  |**<big>&#8207;[[H5088\|נְדָרֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ne.da.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will pay  |**<big>&#8207;[[H7999A\|אֲשַׁלֵּ֖ם]]&#8207; </big>**| 'a.sha.Lem<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thank-offerings  |**<big>&#8207;[[H8426\|תּוֹדֹ֣ת]]&#8207; </big>**| to.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.11|<< Psalms 56:11]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.13|Psalms 56:13 >>]]</td></tr></table>
 
 

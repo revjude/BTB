@@ -7,31 +7,31 @@ LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edo
 O LORD, when You went out from Seir, when You marched from the land of Edom, the earth trembled, the heavens poured out rain, and the clouds poured down water.<small><sub>**MT:**</sub></small>
 [[Judg.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.3|<< Judges 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.5|Judges 5:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your exodus | <big><span class="asgreek">εξόδω</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Seir, | <big><span class="asgreek">Σειρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your departing | <big><span class="asgreek">απαίρειν</span></big> <sup><small><small>[[G0522]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| was shaken, | <big><span class="asgreek">εσείσθη</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| and indeed | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| was disturbed, | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφέλαι</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| dripped | <big><span class="asgreek">έσταξαν</span></big> <sup><small><small>[[G9147]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| in | **<big>[[G1722\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your exodus | **<big>[[G1841\|εξόδω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1722\|εκ]]</big>** |
+| Seir, | **<big>[[H8165b\|Σειρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your departing | **<big>[[G0522\|απαίρειν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] field | **<big>[[G0068\|αγρού]]</big>** |
+| of Edom, | **<big>[[H0123\|Εδώμ]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γη]]</big>** |
+| was shaken, | **<big>[[G4579\|εσείσθη]]</big>** |
+| and indeed | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| was disturbed, | **<big>[[G5015\|εταράχθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| clouds | **<big>[[G3507\|νεφέλαι]]</big>** |
+| dripped | **<big>[[G9147\|έσταξαν]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Judg.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.3|<< Judges 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.5|Judges 5:5 >>]]</td></tr></table>
 
 

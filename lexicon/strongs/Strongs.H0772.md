@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲרַע‎</span></big> **ʼăraʻ** <small>*(ar-ah')*</small> ==**earth: soil**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אֶרֶץ‎</span><sup><small>[[H0776]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲרַע‎</span></big>** **ʼăraʻ** <small>*(ar-ah')*</small> ==**earth: soil**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0776|‎אֶרֶץ‎]]</big>**</small>
 
 $\quad$ earth, interior.
 - ***the earth***
@@ -7,4 +7,4 @@ $\quad$ earth, interior.
 
 **1)** earth, world, ground
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐλάσσων</span><sup><small>[[G1640]]</small></sup>
+<small>See Greek: </small>**<big>[[G1640|ἐλάσσων]]</big>**

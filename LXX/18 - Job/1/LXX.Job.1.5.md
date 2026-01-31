@@ -7,47 +7,47 @@ And it was so, when the days of [their] feasting were gone about, that Job sent 
 And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.<small><sub>**MT:**</sub></small>
 [[Job.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.4|<< Job 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.6|Job 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they completed | <big><span class="asgreek">συνετελέσθησαν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| banquet, | <big><span class="asgreek">πότου</span></big> <sup><small><small>[[G4224]]</small></small></sup> |
-| Job sent | <big><span class="asgreek">απέστελλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purified | <big><span class="asgreek">εκαθάριζεν</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rising up | <big><span class="asgreek">ανιστάμενος</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| offering | <big><span class="asgreek">προσεφέρων</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their number. | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said | <big><span class="asgreek">έλεγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Job | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| Lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| sinned | <big><span class="asgreek">ήμαρτον</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raved against | <big><span class="asgreek">ευλόγησαν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| Job did | <big><span class="asgreek">εποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| whenever | **<big>[[G5613\|ως]]</big>** **<big>[[G0302\|αν]]</big>** |
+| they completed | **<big>[[G4931\|συνετελέσθησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| banquet, | **<big>[[G4224\|πότου]]</big>** |
+| Job sent | **<big>[[G0649\|απέστελλεν]]</big>** **<big>[[G2492\|Ιωβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purified | **<big>[[G2511\|εκαθάριζεν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| rising up | **<big>[[G0450\|ανιστάμενος]]</big>** |
+| in the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| offering | **<big>[[G4374\|προσεφέρων]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσίας]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their number. | **<big>[[G0706\|αριθμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| said | **<big>[[G3004\|έλεγε]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| Job | **<big>[[G2492\|Ιωβ]]</big>** |
+| Lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| sinned | **<big>[[G0264\|ήμαρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raved against | **<big>[[G2127\|ευλόγησαν]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| their heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| Job did | **<big>[[G4160\|εποίει]]</big>** **<big>[[G2492\|Ιωβ]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Job.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.4|<< Job 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.6|Job 1:6 >>]]</td></tr></table>
 
 

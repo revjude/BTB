@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Puteoli</span> was a major port city in Italy where Paul stayed for seven days on his journey to Rome as a prisoner.
 - A location only mentioned at [[Num.33.43|Act.28.13]]; 
-- only referred to as Puteoli<[[G4223]]> \(<span class='tipnrLangGreek'>Ποτίολοι</span>\).
+- only referred to as Puteoli **<big>[[G4223|Ποτίολοι]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.83563065297087,14.2677438666742&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Puteoli, modern-day Pozzuoli, was an important port city located on the Bay of N
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Puteoli | [<span class='tipnrLangGreek'>Ποτίολοι</span>](G4223) <small>*Greek*</small> | 1x | [Act.28.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Puteoli\*\|reference=Act.28.13) |
-All Strong's for **Puteoli**: \[[[G4223]]\]
+| Puteoli | [<span class='tipnrLangGreek'>Ποτίολοι</span>](G4223) | 1x | [Act.28.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Puteoli\*\|reference=Act.28.13) |
+All entries for **Puteoli**:  **<big>[[G4223|Ποτίολοι]]</big>**

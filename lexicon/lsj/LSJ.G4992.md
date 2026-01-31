@@ -1,4 +1,4 @@
-form of: <small>[[G4991]]</small> 
+form of: <small>**<big>[[G4991|σωτηρία]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σωτήριον==</span>-<span class='asgreek'>ιος</span></b>, <span class='asgreek'>ον</span>, 

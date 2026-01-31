@@ -7,24 +7,24 @@ And offer a sacrifice of thanksgiving with leaven, and proclaim [and] publish th
 Offer leavened bread as a thank offering, and loudly proclaim your freewill offerings. For that is what you children of Israel love to do,” declares the Lord GOD.<small><sub>**MT:**</sub></small>
 [[Amos.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.4|<< Amos 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.6|Amos 4:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they read | <big><span class="asgreek">ανέγνωσαν</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| \[the\] law, | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| called for | <big><span class="asgreek">επεκαλέσαντο</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| an acknowledgment \[offering\]. | <big><span class="asgreek">ομολογίας</span></big> <sup><small><small>[[G3671]]</small></small></sup> |
-| Announce! | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| loved | <big><span class="asgreek">ηγάπησαν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they read | **<big>[[G0314\|ανέγνωσαν]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| \[the\] law, | **<big>[[G3551\|νόμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| called for | **<big>[[G1941\|επεκαλέσαντο]]</big>** |
+| an acknowledgment \[offering\]. | **<big>[[G3671\|ομολογίας]]</big>** |
+| Announce! | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| loved | **<big>[[G0025\|ηγάπησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Amos.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.4|<< Amos 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.6|Amos 4:6 >>]]</td></tr></table>
 
 

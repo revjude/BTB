@@ -7,24 +7,24 @@ But if  \[its\] owner should be with it, he shall not pay. But if a hireling sho
 If the owner was present, no restitution is required. If the animal was rented, the fee covers the loss.<small><sub>**MT:**</sub></small>
 [[Exod.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.14|<< Exodus 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.16|Exodus 22:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] owner | <big><span class="asgreek">κυριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pay. | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a hireling | <big><span class="asgreek">μισθωτός</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
-| should be \[with it\], | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wage. | <big><span class="asgreek">μισθού</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[its\] owner | **<big>[[G2962\|κυριός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| should be | **<big>[[G1510\|η]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτού]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| pay. | **<big>[[G0661\|αποτίσει]]</big>** |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a hireling | **<big>[[G3411\|μισθωτός]]</big>** |
+| should be \[with it\], | **<big>[[G1510\|η]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his wage. | **<big>[[G3408\|μισθού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.14|<< Exodus 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.16|Exodus 22:16 >>]]</td></tr></table>
 
 

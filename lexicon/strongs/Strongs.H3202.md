@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יְכֵל‎</span></big> **yᵉkêl** <small>*(yek-ale')*</small> ==**be able**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">יְכִיל</span> **yᵉkîyl** <small>*(yekeel')*</small>; (Aramaic), to <span class="ashebrew">‎יָכֹל‎</span><sup><small>[[H3201]]</small></sup></small>
+**<big><span class="asaramaic">‎יְכֵל‎</span></big>** **yᵉkêl** <small>*(yek-ale')*</small> ==**be able**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">יְכִיל</span></big>** **yᵉkîyl** <small>*(yekeel')*</small>; (Aramaic), to **<big>[[H3201|‎יָכֹל‎]]</big>**</small>
 
 $\quad$ be able, can, couldest, prevail.
 - {***to be able***, literally (can, could) or morally (may, might)}

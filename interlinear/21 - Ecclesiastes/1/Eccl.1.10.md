@@ -6,21 +6,21 @@ Is there a case where one can say, “Look, this is new”? It has already exist
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.9|<< Ecclesiastes 1:9]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.11|Ecclesiastes 1:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] there?  | <span class="ashebrew"><big>יֵ֥שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anything  | <span class="ashebrew"><big>דָּבָ֛ר </big></span><small><small><sup>[[H1697I]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that anyone will say  | <span class="ashebrew"><big>שֶׁ </big></span><small><small><sup>[[H9007]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַ֥ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| shei. <small><sup>[[HTr]]</sup></small> yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| see  | <span class="ashebrew"><big>רְאֵה </big></span><small><small><sup>[[H7200I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| re.'eh- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֖ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] new  | <span class="ashebrew"><big>חָדָ֣שׁ </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.Dash <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| already  | <span class="ashebrew"><big>כְּבָר֙ </big></span><small><small><sup>[[H3528]]</sup></small></small> &#8207;| ke.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been  | <span class="ashebrew"><big>הָיָ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to ancient times  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֹֽלָמִ֔ים </big></span><small><small><sup>[[H5769J]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.la.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was  | <span class="ashebrew"><big>הָיָ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from to before us  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>לְּ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פָנֵֽ </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> le. <small><sup>[[HR]]</sup></small> fa.Ne. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] there?  |**<big>&#8207;[[H3426\|יֵ֥שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything  |**<big>&#8207;[[H1697I\|דָּבָ֛ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that anyone will say  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H0559\|יֹּאמַ֥ר]]&#8207; </big>**| shei.<small><sup>[[HTr]]</sup></small> yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| see  |**<big>&#8207;[[H7200I\|רְאֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֖ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] new  |**<big>&#8207;[[H2319H\|חָדָ֣שׁ]]&#8207; </big>**| cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| already  |**<big>&#8207;[[H3528\|כְּבָר֙]]&#8207; </big>**| ke.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been  |**<big>&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ancient times  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769J\|עֹֽלָמִ֔ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was  |**<big>&#8207;[[H1961\|הָיָ֖ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to before us  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H6440G\|פָנֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> fa.Ne.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.9|<< Ecclesiastes 1:9]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.11|Ecclesiastes 1:11 >>]]</td></tr></table>
 
 

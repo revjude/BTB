@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׂרָיָה‎</span></big> **Sᵉrâyâh** <small>*(ser-aw-yaw')*</small> ==**Seraiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׂרָיָהוּ</span> **Sᵉrâyâhûw** <small>*(ser-awyaw'-hoo)*</small>; from <span class="ashebrew">‎שָׂרָה‎</span><sup><small>[[H8280]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has prevailed</small>
+**<big><span class="ashebrew">‎שְׂרָיָה‎</span></big>** **Sᵉrâyâh** <small>*(ser-aw-yaw')*</small> ==**Seraiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׂרָיָהוּ</span></big>** **Sᵉrâyâhûw** <small>*(ser-awyaw'-hoo)*</small>; from **<big>[[H8280|‎שָׂרָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has prevailed</small>
 
 $\quad$ Seraiah.
 - § Seraiah = *"Jehovah is ruler"*

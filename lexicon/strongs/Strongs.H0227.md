@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָז‎</span></big> **ʼâz** <small>*(awz)*</small> ==**then**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
+**<big><span class="ashebrew">‎אָז‎</span></big>** **ʼâz** <small>*(awz)*</small> ==**then**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
 <small>a demonstrative adverb</small>
 
 $\quad$ beginning, for, from, hitherto, now, of old, once, since, then, at which time, yet.
@@ -14,4 +14,4 @@ $\quad$ **1b)** logical expressions
 $\quad$ $\quad$ **1b1)** in that case
 $\quad$ $\quad$ **1b2)** that (being so)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πάλαι</span><sup><small>[[G3819]]</small></sup> · <span class="asgreek">παλαιός</span><sup><small>[[G3820]]</small></sup>
+<small>See Greek: </small>**<big>[[G3819|πάλαι]]</big>** · **<big>[[G3820|παλαιός]]</big>**

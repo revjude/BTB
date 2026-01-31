@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇקְתְאֵל‎</span></big> **Yoqthᵉʼêl** <small>*(yok-theh-ale')*</small> ==**Joktheel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from the same as <span class="ashebrew">‎יָקֶה‎</span><sup><small>[[H3348]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; veneration of God (compare <span class="ashebrew">‎יְקוּתִיאֵל‎</span><sup><small>[[H3354]]</small></sup>)</small>
+**<big><span class="ashebrew">‎יׇקְתְאֵל‎</span></big>** **Yoqthᵉʼêl** <small>*(yok-theh-ale')*</small> ==**Joktheel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from the same as **<big>[[H3348|‎יָקֶה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; veneration of God (compare **<big>[[H3354|‎יְקוּתִיאֵל‎]]</big>**)</small>
 
 $\quad$ Joktheel.
 - § Joktheel = *"the blessedness of God"*

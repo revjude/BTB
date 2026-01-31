@@ -7,14 +7,14 @@ The children of Giddel, the children of Gahar, the children of Reaiah,
 the descendants of Giddel, the descendants of Gahar, the descendants of Reaiah,<small><sub>**MT:**</sub></small>
 [[Ezra.2.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.46|<< Ezra 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.48|Ezra 2:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Giddel, | <big><span class="asgreek">Γεδδήλ</span></big> <sup><small><small>[[H1435]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gahar, | <big><span class="asgreek">Γαήρ</span></big> <sup><small><small>[[H1515]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Reaiah, | <big><span class="asgreek">Ραϊα</span></big> <sup><small><small>[[H7211]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Giddel, | **<big>[[H1435\|Γεδδήλ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Gahar, | **<big>[[H1515\|Γαήρ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Reaiah, | **<big>[[H7211\|Ραϊα]]</big>** |
 [[Ezra.2.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.46|<< Ezra 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.48|Ezra 2:48 >>]]</td></tr></table>
 
 

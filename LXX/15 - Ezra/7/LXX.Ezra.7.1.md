@@ -10,26 +10,26 @@ Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son 
 Many years later, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,<small><sub>**MT:**</sub></small>
 [[Ezra.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.22|<< Ezra 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.2|Ezra 7:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these things, | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Artaxerxes | <big><span class="asgreek">Αρθασασθά</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Persians, | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
-| there ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Ezra | <big><span class="asgreek">Έσδρας</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Seraiah, | <big><span class="asgreek">Σαραϊου</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azariah, | <big><span class="asgreek">Αζαρίου</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hilkiah, | <big><span class="asgreek">Χελκίου</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these things, | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of Artaxerxes | **<big>[[H0783b\|Αρθασασθά]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] Persians, | **<big>[[H6539\|Περσών]]</big>** |
+| there ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Ezra | **<big>[[H5831\|Έσδρας]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Seraiah, | **<big>[[H8304\|Σαραϊου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Azariah, | **<big>[[H5839\|Αζαρίου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hilkiah, | **<big>[[H2518\|Χελκίου]]</big>** |
 [[Ezra.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.22|<< Ezra 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.2|Ezra 7:2 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ For my enemies speak against me, and those who lie in wait for my life conspire,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.9|<< Psalms 71:9]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.11|Psalms 71:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have spoken  | <span class="ashebrew"><big>אָמְר֣וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.me.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies my  | <span class="ashebrew"><big>אוֹיְבַ֣ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'oy.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of me  | <span class="ashebrew"><big>לִ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [those who] watch of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁמְרֵ֥י </big></span><small><small><sup>[[H8104I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.me.Rei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>נַ֝פְשִׁ֗ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have consulted  | <span class="ashebrew"><big>נוֹעֲצ֥וּ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| no.'a.Tzu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יַחְדָּֽו </big></span><small><small><sup>[[H3162B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have spoken  |**<big>&#8207;[[H0559\|אָמְר֣וּ]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  |**<big>&#8207;[[H0341\|אוֹיְבַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of me  |**<big>&#8207;[[H9005\|לִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [those who] watch of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104I\|שֹׁמְרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.me.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H5315H\|נַ֝פְשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have consulted  |**<big>&#8207;[[H3289\|נוֹעֲצ֥וּ]]&#8207; </big>**| no.'a.Tzu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.9|<< Psalms 71:9]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.11|Psalms 71:11 >>]]</td></tr></table>
 
 

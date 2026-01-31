@@ -10,17 +10,17 @@ Taste and see that the LORD is good; blessed is the man who takes refuge in Him!
 > $\quad$ referenced by: [[1Pet.2.3|1Pet 2:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| taste  | <span class="ashebrew"><big>טַעֲמ֣וּ </big></span><small><small><sup>[[H2938]]</sup></small></small> &#8207;| ta.'a.Mu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and see  | <span class="ashebrew"><big>וּ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְאוּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| U. <small><sup>[[HC]]</sup></small> re.'u <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] good  | <span class="ashebrew"><big>ט֣וֹב </big></span><small><small><sup>[[H2895]]</sup></small></small> &#8207;| Tov <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how blessed!  | <span class="ashebrew"><big>אַֽשְׁרֵ֥י </big></span><small><small><sup>[[H0835]]</sup></small></small> &#8207;| 'ash.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the man  | <span class="ashebrew"><big>הַ֝ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גֶּ֗בֶר </big></span><small><small><sup>[[H1397]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ge.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] he takes refuge  | <span class="ashebrew"><big>יֶחֱסֶה </big></span><small><small><sup>[[H2620]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.che.seh- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in him  | <span class="ashebrew"><big>בּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| b <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| taste  |**<big>&#8207;[[H2938\|טַעֲמ֣וּ]]&#8207; </big>**| ta.'a.Mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and see  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H7200G\|רְאוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> re.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2895\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how blessed!  |**<big>&#8207;[[H0835\|אַֽשְׁרֵ֥י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the man  |**<big>&#8207;[[H9009\|הַ֝]]&#8207;&#8207;[[H1397\|גֶּ֗בֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] he takes refuge  |**<big>&#8207;[[H2620\|יֶחֱסֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.che.seh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  |**<big>&#8207;[[H9003\|בּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.7|<< Psalms 34:7]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.9|Psalms 34:9 >>]]</td></tr></table>
 
 

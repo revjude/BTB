@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁלֶף‎</span></big> **sheleph** <small>*(sheh'-lef)*</small> ==**Sheleph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַף‎</span><sup><small>[[H8025]]</small></sup>; extract</small>
+**<big><span class="ashebrew">‎שֶׁלֶף‎</span></big>** **sheleph** <small>*(sheh'-lef)*</small> ==**Sheleph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8025|‎שָׁלַף‎]]</big>**; extract</small>
 
 $\quad$ Sheleph.
 - § Sheleph = *"a drawing forth"*

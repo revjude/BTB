@@ -10,25 +10,25 @@ And Moses with the elders of Israel commanded the people, saying, Keep all the c
 Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today.<small><sub>**MT:**</sub></small>
 [[Deut.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.19|<< Deuteronomy 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.2|Deuteronomy 27:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| assigned | <big><span class="asgreek">προσέταξε</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| council of elders | <big><span class="asgreek">γερουσία</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Guard | <big><span class="asgreek">φυλάσσεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commandments! | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge | <big><span class="asgreek">εντέλλομαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| assigned | **<big>[[G4367\|προσέταξε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| council of elders | **<big>[[G1087\|γερουσία]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Guard | **<big>[[G5442\|φυλάσσεσθε]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| commandments! | **<big>[[G1785\|εντολάς]]</big>** |
+| as many as | **<big>[[G3745\|όσας]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge | **<big>[[G1781\|εντέλλομαι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[Deut.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.19|<< Deuteronomy 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.2|Deuteronomy 27:2 >>]]</td></tr></table>
 
 

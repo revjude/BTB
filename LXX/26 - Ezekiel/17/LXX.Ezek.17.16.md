@@ -7,34 +7,34 @@
 ‘As surely as I live,’ declares the Lord GOD, ‘he will die in Babylon, in the land of the king who enthroned him, whose oath he despised and whose covenant he broke.<small><sub>**MT:**</sub></small>
 [[Ezek.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.15|<< Ezekiel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.17|Ezekiel 17:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[As\] I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Surely | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving him reign, | <big><span class="asgreek">βασιλεύσαντος</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| disgraced | <big><span class="asgreek">ητίμωσε</span></big> <sup><small><small>[[G0821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my oath, | <big><span class="asgreek">αράν</span></big> <sup><small><small>[[G0685]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| violated | <big><span class="asgreek">παρέβη</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| he shall come to an end | <big><span class="asgreek">τελευτήσει</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
+| \[As\] I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Surely | **<big>[[G1437\|εάν]]</big>** **<big>[[G3361\|μη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of the | **<big>[[G2588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| giving him reign, | **<big>[[G0936\|βασιλεύσαντος]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| disgraced | **<big>[[G0821\|ητίμωσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my oath, | **<big>[[G0685\|αράν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| violated | **<big>[[G3845\|παρέβη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| he shall come to an end | **<big>[[G5053\|τελευτήσει]]</big>** |
 [[Ezek.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.15|<< Ezekiel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.17|Ezekiel 17:17 >>]]</td></tr></table>
 
 

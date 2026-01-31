@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָעַי‎</span></big> **Mâʻay** <small>*(maw-ah'-ee)*</small> ==**Maai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎מֵעֶה‎</span><sup><small>[[H4578]]</small></sup>; sympathetic</small>
+**<big><span class="ashebrew">‎מָעַי‎</span></big>** **Mâʻay** <small>*(maw-ah'-ee)*</small> ==**Maai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H4578|‎מֵעֶה‎]]</big>**; sympathetic</small>
 
 $\quad$ Maai.
 - § Maai = *"compassionate"*

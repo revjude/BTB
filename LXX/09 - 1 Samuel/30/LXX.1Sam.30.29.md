@@ -7,26 +7,26 @@ And to [them] which [were] in Rachal, and to [them] which [were] in the cities o
 to those in Racal and in the cities of the Jerahmeelites and Kenites;<small><sub>**MT:**</sub></small>
 [[1Sam.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.28|<< 1 Samuel 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.30|1 Samuel 30:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Rachal, | <big><span class="asgreek">Ραχάλ</span></big> <sup><small><small>[[H7403]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerahmeelite, | <big><span class="asgreek">Ιεραμιήλ</span></big> <sup><small><small>[[H3396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenite; | <big><span class="asgreek">Κενί</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Rachal, | **<big>[[H7403\|Ραχάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jerahmeelite, | **<big>[[H3396\|Ιεραμιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Kenite; | **<big>[[H7017\|Κενί]]</big>** |
 [[1Sam.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.28|<< 1 Samuel 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.30|1 Samuel 30:30 >>]]</td></tr></table>
 
 

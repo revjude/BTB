@@ -7,27 +7,27 @@ The children of the porters: the children of Shallum, the children of Ater, the 
 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.<small><sub>**MT:**</sub></small>
 [[Ezra.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.41|<< Ezra 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.43|Ezra 2:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatekeepers -- | <big><span class="asgreek">πυλωρών</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shallum, | <big><span class="asgreek">Σελλούμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ater, | <big><span class="asgreek">Ατήρ</span></big> <sup><small><small>[[H0333]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Telmon, | <big><span class="asgreek">Τελμών</span></big> <sup><small><small>[[H2929]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Akkub, | <big><span class="asgreek">Ακούβ</span></big> <sup><small><small>[[H6126]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hatita, | <big><span class="asgreek">Ατιτά</span></big> <sup><small><small>[[H2410]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shobai, | <big><span class="asgreek">Σωβαϊ</span></big> <sup><small><small>[[H7630]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in all -- | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| thirty-nine. | <big><span class="asgreek">τριακονταεννέα</span></big> <sup><small><small>[[G9474]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| gatekeepers -- | **<big>[[G8988\|πυλωρών]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Shallum, | **<big>[[H7968\|Σελλούμ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ater, | **<big>[[H0333\|Ατήρ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Telmon, | **<big>[[H2929\|Τελμών]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Akkub, | **<big>[[H6126\|Ακούβ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hatita, | **<big>[[H2410\|Ατιτά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Shobai, | **<big>[[H7630\|Σωβαϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| in all -- | **<big>[[G3956\|πάντες]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| thirty-nine. | **<big>[[G9474\|τριακονταεννέα]]</big>** |
 [[Ezra.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.41|<< Ezra 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.43|Ezra 2:43 >>]]</td></tr></table>
 
 

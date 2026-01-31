@@ -7,34 +7,34 @@ And go forth unto the valley of the son of Hinnom, which [is] by the entry of th
 and go out to the Valley of Ben-hinnom near the entrance of the Potsherd Gate. Proclaim there the words I speak to you,<small><sub>**MT:**</sub></small>
 [[Jer.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.1|<< Jeremiah 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.3|Jeremiah 19:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall go forth | <big><span class="asgreek">εξελεύση</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cemetery | <big><span class="asgreek">πολυάνδριον</span></big> <sup><small><small>[[G8848]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hinnom, | <big><span class="asgreek">Εννών</span></big> <sup><small><small>[[H2011]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">προθύρων</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of \[the\] gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Charsith, | <big><span class="asgreek">Χαρσεί</span></big> <sup><small><small>[[H2777]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| read | <big><span class="asgreek">ανάγνωθι</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words! | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I shall speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall go forth | **<big>[[G1831\|εξελεύση]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| cemetery | **<big>[[G8848\|πολυάνδριον]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Hinnom, | **<big>[[H2011\|Εννών]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| thresholds | **<big>[[G8895\|προθύρων]]</big>** |
+| of \[the\] gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Charsith, | **<big>[[H2777\|Χαρσεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| read | **<big>[[G0314\|ανάγνωθι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words! | **<big>[[G3056\|λόγους]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I shall speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Jer.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.1|<< Jeremiah 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.3|Jeremiah 19:3 >>]]</td></tr></table>
 
 

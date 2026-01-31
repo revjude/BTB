@@ -6,19 +6,19 @@ From that day forward the house of Israel will know that I am the LORD their God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.21|<< Ezekiel 39:21]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.23|Ezekiel 39:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they will know  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָֽדְעוּ֙ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.de.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  | <span class="ashebrew"><big>אֱלֹֽהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> that  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and onwards  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָֽלְאָה </big></span><small><small><sup>[[H1973]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Hal.'ah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָֽדְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and onwards  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1973\|הָֽלְאָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Hal.'ah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.21|<< Ezekiel 39:21]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.23|Ezekiel 39:23 >>]]</td></tr></table>
 
 

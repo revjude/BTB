@@ -6,15 +6,15 @@ Do you understand how the clouds float, those wonders of Him who is perfect in k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.15|<< Job 37:15]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.17|Job 37:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ do you know  | <span class="ashebrew"><big>הֲ֭ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>תֵדַע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTi]]</sup></small> te.da' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] balancing\<s> of  | <span class="ashebrew"><big>מִפְלְשֵׂי </big></span><small><small><sup>[[H4657]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mif.le.sei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] cloud[s]  | <span class="ashebrew"><big>עָ֑ב </big></span><small><small><sup>[[H5645]]</sup></small></small> &#8207;| 'Av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wondrous works of  | <span class="ashebrew"><big>מִ֝פְלְא֗וֹת </big></span><small><small><sup>[[H4652]]</sup></small></small> &#8207;| mif.le.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one] complete of  | <span class="ashebrew"><big>תְּמִ֣ים </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| te.Mim <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge\<s>  | <span class="ashebrew"><big>דֵּעִֽים </big></span><small><small><sup>[[H1843]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| de.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ do you know  |**<big>&#8207;[[H9008\|הֲ֭]]&#8207;&#8207;[[H3045\|תֵדַע]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> te.da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] balancing\<s> of  |**<big>&#8207;[[H4657\|מִפְלְשֵׂי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mif.le.sei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cloud[s]  |**<big>&#8207;[[H5645\|עָ֑ב]]&#8207; </big>**| 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wondrous works of  |**<big>&#8207;[[H4652\|מִ֝פְלְא֗וֹת]]&#8207; </big>**| mif.le.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] complete of  |**<big>&#8207;[[H8549G\|תְּמִ֣ים]]&#8207; </big>**| te.Mim<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge\<s>  |**<big>&#8207;[[H1843\|דֵּעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| de.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.15|<< Job 37:15]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.17|Job 37:17 >>]]</td></tr></table>
 
 

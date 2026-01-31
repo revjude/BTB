@@ -7,23 +7,23 @@ And the LORD heard the voice of Elijah; and the soul of the child came into him 
 And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived.<small><sub>**MT:**</sub></small>
 [[1Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.21|<< 1 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.23|1 Kings 17:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| so, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| returned | <big><span class="asgreek">επεστράφη</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδαρίου</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[him\]. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled out | <big><span class="asgreek">ανεβόησε</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετο]]</big>** |
+| so, | **<big>[[G3779\|ούτως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| returned | **<big>[[G1994\|επεστράφη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| life | **<big>[[G5590\|ψυχή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| boy | **<big>[[G3808\|παιδαρίου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[him\]. | **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| yelled out | **<big>[[G0310\|ανεβόησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| boy | **<big>[[G3808\|παιδάριον]]</big>** |
 [[1Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.21|<< 1 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.23|1 Kings 17:23 >>]]</td></tr></table>
 
 

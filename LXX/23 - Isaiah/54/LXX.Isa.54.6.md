@@ -7,27 +7,27 @@ For the LORD hath called thee as a woman forsaken and grieved in spirit, and a w
 For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God.<small><sub>**MT:**</sub></small>
 [[Isa.54.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.5|<< Isaiah 54:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.7|Isaiah 54:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| a forsaken | <big><span class="asgreek">καταλελειμμένην</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| faint-hearted | <big><span class="asgreek">ολιγόψυχον</span></big> <sup><small><small>[[G3642]]</small></small></sup> |
-| called | <big><span class="asgreek">κέκληκέ</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| youth | <big><span class="asgreek">νεότητος</span></big> <sup><small><small>[[G3503]]</small></small></sup> |
-| being detested | <big><span class="asgreek">μεμισημένην</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| a forsaken | **<big>[[G2641\|καταλελειμμένην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| faint-hearted | **<big>[[G3642\|ολιγόψυχον]]</big>** |
+| called | **<big>[[G2564\|κέκληκέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| nor | **<big>[[G3761\|ουδ΄]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| youth | **<big>[[G3503\|νεότητος]]</big>** |
+| being detested | **<big>[[G3404\|μεμισημένην]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.54.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.5|<< Isaiah 54:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.7|Isaiah 54:7 >>]]</td></tr></table>
 
 

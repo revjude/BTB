@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מַמְזֵר‎</span></big> **mamzêr** <small>*(mam-zare')*</small> ==**bastard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מַמְזֵר‎</span></big>** **mamzêr** <small>*(mam-zare')*</small> ==**bastard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to alienate</small>
 
 $\quad$ bastard.
@@ -9,4 +9,4 @@ $\quad$ **1a)** bastard
 $\quad$ **1b)** mixed population (fig.)
 $\quad$ **1c)** born of a Jewish father and a heathen mother or visa versa
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλογενής</span><sup><small>[[G0241]]</small></sup> · <span class="asgreek">πόρνη</span><sup><small>[[G4204]]</small></sup>
+<small>See Greek: </small>**<big>[[G0241|ἀλλογενής]]</big>** · **<big>[[G4204|πόρνη]]</big>**

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עַכְסָה‎</span> <small>***(akh.sah)***</small> ==**Achsah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living before Israel's Monarchy, first mentioned at [[Josh.15.16|Jos.15.16]]
--  daughter of: Caleb ([[H3612]])
--  sister of: Iru ([[H5900]]), Elah ([[H0425J]]) and Naam ([[H5277]]); married to Othniel ([[H6274]])
+-  daughter of: Caleb (**<big>[[H3612|כָּלֵב]]</big>**)
+-  sister of: Iru (**<big>[[H5900|עִירוּ]]</big>**), Elah (**<big>[[H0425J|אֵלָה]]</big>**) and Naam (**<big>[[H5277|נַעַם]]</big>**); married to Othniel (**<big>[[H6274|עׇתְנִיאֵל]]</big>**)

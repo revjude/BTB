@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַפְעַף‎</span></big> **ʻaphʻaph** <small>*(af-af')*</small> ==**eyelid**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּף‎</span><sup><small>[[H5774]]</small></sup></small>
+**<big><span class="ashebrew">‎עַפְעַף‎</span></big>** **ʻaphʻaph** <small>*(af-af')*</small> ==**eyelid**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5774|‎עוּף‎]]</big>**</small>
 
 $\quad$ dawning, eye-lid.
 - ***an eyelash*** (as fluttering)
@@ -9,4 +9,4 @@ $\quad$ dawning, eye-lid.
 $\quad$ **1a)** eyelid
 $\quad$ **1b)** of dawn, rays of sun (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατέλλω</span><sup><small>[[G0393]]</small></sup> · <span class="asgreek">εἶδος</span><sup><small>[[G1491]]</small></sup> · <span class="asgreek">ὀφθαλμός</span><sup><small>[[G3788]]</small></sup>
+<small>See Greek: </small>**<big>[[G0393|ἀνατέλλω]]</big>** · **<big>[[G1491|εἶδος]]</big>** · **<big>[[G3788|ὀφθαλμός]]</big>**

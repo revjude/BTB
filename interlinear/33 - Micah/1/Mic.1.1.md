@@ -6,26 +6,26 @@ This is the word of the LORD that came to Micah the Moreshite in the days of Jot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] word of  | <span class="ashebrew"><big>דְּבַר </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| de.var- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>הָיָ֗ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Micah  | <span class="ashebrew"><big>מִיכָה֙ </big></span><small><small><sup>[[H4318K]]</sup></small></small> &#8207;| mi.Khah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Morasthite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֹּ֣רַשְׁתִּ֔י </big></span><small><small><sup>[[H4183]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Mo.rash.Ti <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] days of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ימֵ֥י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jotham  | <span class="ashebrew"><big>יוֹתָ֛ם </big></span><small><small><sup>[[H3147H]]</sup></small></small> &#8207;| yo.Tam <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahaz  | <span class="ashebrew"><big>אָחָ֥ז </big></span><small><small><sup>[[H0271G]]</sup></small></small> &#8207;| 'a.Chaz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hezekiah  | <span class="ashebrew"><big>יְחִזְקִיָּ֖ה </big></span><small><small><sup>[[H3169H]]</sup></small></small> &#8207;| ye.chiz.ki.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֣י </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| mal.Khei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he saw  | <span class="ashebrew"><big>חָזָ֥ה </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| cha.Zah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samaria  | <span class="ashebrew"><big>שֹׁמְר֖וֹן </big></span><small><small><sup>[[H8111]]</sup></small></small> &#8207;| sho.me.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jerusalem  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ירֽוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> Ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  |**<big>&#8207;[[H1697G\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Micah  |**<big>&#8207;[[H4318K\|מִיכָה֙]]&#8207; </big>**| mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Morasthite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4183\|מֹּ֣רַשְׁתִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Mo.rash.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3117G\|ימֵ֥י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jotham  |**<big>&#8207;[[H3147H\|יוֹתָ֛ם]]&#8207; </big>**| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahaz  |**<big>&#8207;[[H0271G\|אָחָ֥ז]]&#8207; </big>**| 'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezekiah  |**<big>&#8207;[[H3169H\|יְחִזְקִיָּ֖ה]]&#8207; </big>**| ye.chiz.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֣י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saw  |**<big>&#8207;[[H2372\|חָזָ֥ה]]&#8207; </big>**| cha.Zah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֖וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jerusalem  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3389\|ירֽוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 
 

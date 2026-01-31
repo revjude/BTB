@@ -7,41 +7,41 @@ But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Az
 Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son of Azriel and Shelemiah son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet. But the LORD had hidden them.<small><sub>**MT:**</sub></small>
 [[Jer.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not hearken to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerahmeel | <big><span class="asgreek">Ιερεμεήλ</span></big> <sup><small><small>[[H3396]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Saraiah | <big><span class="asgreek">Σαραία</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azriel, | <big><span class="asgreek">Εσριήλ</span></big> <sup><small><small>[[H5837]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shelemiah | <big><span class="asgreek">Σελελία</span></big> <sup><small><small>[[H8018]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Abdeel, | <big><span class="asgreek">Αβδεήλ</span></big> <sup><small><small>[[H5655]]</small></small></sup> |
-| to seize | <big><span class="asgreek">συλλαβείν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baruch | <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματέα</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet -- | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were hidden. | <big><span class="asgreek">κατεκρύβησαν</span></big> <sup><small><small>[[G7861]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did not hearken to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσεν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jerahmeel | **<big>[[H3396\|Ιερεμεήλ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Saraiah | **<big>[[H8304\|Σαραία]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Azriel, | **<big>[[H5837\|Εσριήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shelemiah | **<big>[[H8018\|Σελελία]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Abdeel, | **<big>[[H5655\|Αβδεήλ]]</big>** |
+| to seize | **<big>[[G4815\|συλλαβείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Baruch | **<big>[[H1263\|Βαρούχ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| prophet -- | **<big>[[G4396\|προφήτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were hidden. | **<big>[[G7861\|κατεκρύβησαν]]</big>** |
 [[Jer.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
 

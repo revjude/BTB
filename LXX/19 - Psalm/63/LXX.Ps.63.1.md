@@ -12,30 +12,30 @@ A Psalm of David, when he was in the wilderness of Judah. O God, thou [art] my G
 A Psalm of David, when he was in the Wilderness of Judah. O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.<small><sub>**MT:**</sub></small>
 [[Ps.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.12|<< Psalm 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.2|Psalm 63:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I rise early. | <big><span class="asgreek">ορθρίζω</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| thirsted for | <big><span class="asgreek">εδίψησέ</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| How often | <big><span class="asgreek">ποσαπλώς</span></big> <sup><small><small>[[G8871]]</small></small></sup> |
-| \[longed\] for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| a barren | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| untrodden | <big><span class="asgreek">αβάτω</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| waterless | <big><span class="asgreek">ανύδρω</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| I rise early. | **<big>[[G3719\|ορθρίζω]]</big>** |
+| thirsted for | **<big>[[G1372\|εδίψησέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| How often | **<big>[[G8871\|ποσαπλώς]]</big>** |
+| \[longed\] for you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my flesh | **<big>[[G4561\|σαρξ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| a barren | **<big>[[G2048\|ερήμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| untrodden | **<big>[[G6101\|αβάτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| waterless | **<big>[[G0504\|ανύδρω]]</big>** |
 [[Ps.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.12|<< Psalm 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.2|Psalm 63:2 >>]]</td></tr></table>
 
 

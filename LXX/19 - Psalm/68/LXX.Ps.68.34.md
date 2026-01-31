@@ -7,23 +7,23 @@ Ascribe ye strength unto God: his excellency [is] over Israel, and his strength 
 Ascribe the power to God, whose majesty is over Israel, whose strength is in the skies.<small><sub>**MT:**</sub></small>
 [[Ps.68.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.33|<< Psalm 68:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.35|Psalm 68:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God! | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his majesty | <big><span class="asgreek">μεγαλοπρέπεια</span></big> <sup><small><small>[[G8266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his power | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clouds. | <big><span class="asgreek">νεφέλαις</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| Give | **<big>[[G1325\|δότε]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God! | **<big>[[G2316\|θεώ]]</big>** |
+| \[is\] over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his majesty | **<big>[[G8266\|μεγαλοπρέπεια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his power | **<big>[[G1411\|δύναμις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| clouds. | **<big>[[G3507\|νεφέλαις]]</big>** |
 [[Ps.68.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.33|<< Psalm 68:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.35|Psalm 68:35 >>]]</td></tr></table>
 
 

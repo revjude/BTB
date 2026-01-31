@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחֲגֹרֶת‎</span></big> **machăgôreth** <small>*(makh-ag-o'-reth)*</small> ==**girding**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָגַר‎</span><sup><small>[[H2296]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחֲגֹרֶת‎</span></big>** **machăgôreth** <small>*(makh-ag-o'-reth)*</small> ==**girding**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2296|‎חָגַר‎]]</big>**</small>
 
 $\quad$ girding.
 - ***a girdle***

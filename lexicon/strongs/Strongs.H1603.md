@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּעַל‎</span></big> **Gaʻal** <small>*(gah'-al)*</small> ==**Gaal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּעַל‎</span><sup><small>[[H1602]]</small></sup>; loathing</small>
+**<big><span class="ashebrew">‎גַּעַל‎</span></big>** **Gaʻal** <small>*(gah'-al)*</small> ==**Gaal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1602|‎גָּעַל‎]]</big>**; loathing</small>
 
 $\quad$ Gaal.
 - § Gaal = *"loathing"*

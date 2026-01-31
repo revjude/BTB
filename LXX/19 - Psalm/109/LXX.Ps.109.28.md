@@ -7,21 +7,21 @@ Let them curse, but bless thou: when they arise, let them be ashamed; but let th
 Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice.<small><sub>**MT:**</sub></small>
 [[Ps.109.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.27|<< Psalm 109:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.29|Psalm 109:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They shall curse | <big><span class="asgreek">καταράσονται</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| themselves, | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall bless. | <big><span class="asgreek">ευλογήσεις</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones rising up against | <big><span class="asgreek">επανιστάμενοί</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let them be ashamed! | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be glad. | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| They shall curse | **<big>[[G2672\|καταράσονται]]</big>** |
+| themselves, | **<big>[[G1473\|αυτοί]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall bless. | **<big>[[G2127\|ευλογήσεις]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| ones rising up against | **<big>[[G1881\|επανιστάμενοί]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| let them be ashamed! | **<big>[[G0153\|αισχυνθήτωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be glad. | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
 [[Ps.109.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.27|<< Psalm 109:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.29|Psalm 109:29 >>]]</td></tr></table>
 
 

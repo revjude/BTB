@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָגָה‎</span></big> **yâgâh** <small>*(yaw-gaw')*</small> ==**to suffer**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָגָה‎</span></big>** **yâgâh** <small>*(yaw-gaw')*</small> ==**to suffer**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ afflict, cause grief, grieve, sorrowful, vex.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Niphal) grieved, grieving (participle)
 $\quad$ **1b)** (Piel) to grieve
 $\quad$ **1c)** (Hiphil) to cause grief, cause sorrow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">φθάνω</span><sup><small>[[G5348]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>** · **<big>[[G5348|φθάνω]]</big>**

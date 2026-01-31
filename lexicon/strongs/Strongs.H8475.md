@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחְרֵעַ‎</span></big> **Tachrêaʻ** <small>*(takh-ray'-ah)*</small> ==**Tahrea**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎תַּאֲרֵעַ‎</span><sup><small>[[H8390]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחְרֵעַ‎</span></big>** **Tachrêaʻ** <small>*(takh-ray'-ah)*</small> ==**Tahrea**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H8390|‎תַּאֲרֵעַ‎]]</big>**</small>
 
 $\quad$ Tahrea.
 - § Tahrea = *"cunning"*

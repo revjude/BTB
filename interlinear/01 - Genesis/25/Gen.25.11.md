@@ -6,23 +6,23 @@ After Abraham’s death, God blessed his son Isaac, who lived near Beer-lahai-ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.10|<< Genesis 25:10]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.12|Genesis 25:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִ֗י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵי֙ </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] death of  | <span class="ashebrew"><big>מ֣וֹת </big></span><small><small><sup>[[H4194]]</sup></small></small> &#8207;| Mot <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֔ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he blessed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְבָ֥רֶךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Va.rekh <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֣ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְּנ֑ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he dwelt  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֣שֶׁב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.shev <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֔ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| near  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beer  | <span class="ashebrew"><big>בְּאֵ֥ר </big></span><small><small><sup>[[H0883]]</sup></small></small> &#8207;| be.'Er <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lahai  | <span class="ashebrew"><big>לַחַ֖י </big></span><small><small><sup>[[H0883]]</sup></small></small> &#8207;| la.Chai <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Roi  | <span class="ashebrew"><big>רֹאִֽי </big></span><small><small><sup>[[H0883]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ro.'I <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] death of  |**<big>&#8207;[[H4194\|מ֣וֹת]]&#8207; </big>**| Mot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֥רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֣ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְּנ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּ֣שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֔ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| near  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beer  |**<big>&#8207;[[H0883\|בְּאֵ֥ר]]&#8207; </big>**| be.'Er<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lahai  |**<big>&#8207;[[H0883\|לַחַ֖י]]&#8207; </big>**| la.Chai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Roi  |**<big>&#8207;[[H0883\|רֹאִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.'I<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.10|<< Genesis 25:10]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.12|Genesis 25:12 >>]]</td></tr></table>
 
 

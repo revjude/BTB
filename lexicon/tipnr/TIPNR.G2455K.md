@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Judas</span> the Galilean led a revolt against the Roman census during the time of Quirinius, governor of Syria.
 - A man living at the time of the New Testament, only mentioned at [[Gal.2.14|Act.5.37]]; 
-- only referred to as Judas<[[G2455K]]> \(<span class='tipnrLangGreek'>Ἰούδας</span>\).
+- only referred to as Judas **<big>[[G2455|Ἰούδας]]</big>**.
 
 Judas, also known as Judas the Galilean, is mentioned in Acts 5:37 as a Jewish rebel leader who led a revolt against the Roman census. The context of the passage is Gamaliel's speech to the Sanhedrin, where he advises caution in dealing with the apostles and their teaching \(Acts 5:34-39\). 
 
@@ -12,5 +12,5 @@ According to Gamaliel, Judas the Galilean rose up in the days of the census and 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455K) <small>*Greek*</small> | 1x | [Act.5.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Act.5.37) |
-All Strong's for **Judas**: \[[[G2455K]]\]
+| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455K) | 1x | [Act.5.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Act.5.37) |
+All entries for **Judas**:  **<big>[[G2455|Ἰούδας]]</big>**

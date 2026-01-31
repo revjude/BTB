@@ -15,7 +15,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.4.9|9]]**<span class="en
 
 [^2]: [[Ezek.5|Ezek 5:1-17]], [[Ezek.12|Ezek 12:3-16]]; [[1Sam.15|1Sam 15:27-28]]; [[1Kgs.11|1Kgs 11:30-31]]; [[Isa.20|Isa 20:2-4]]; [[Jer.13|Jer 13:1-14]], [[Jer.18|Jer 18:2-12]], [[Jer.19|Jer 19:1-15]], [[Jer.25|Jer 25:15-38]], [[Jer.27|Jer 27:2-22]]; [[Hos.1|Hos 1:2-9]], [[Hos.3|Hos 3:1-5]]; [[Hos.12|Hos 12:10]]
 
-[^3]: <span class="asgreek"><span class='asgreek'>μαπδ</span></span> (<span class="ashebrew">‎לְבֵנָה‎</span><sup><small>[[H3843]]</small></sup>), ***levainah*** generally denotes a brick, and Palladius informs us that the bricks in common use among the ancients were "two feet long, one foot broad, and four inches thick;" and on such a surface the whole siege might be easily pourtrayed. Perhaps, however, it may here denote a flat tile, like a Roman brick, which were commonly used for tablets, as we learn from Pliny, Hist. Nat. 1. vii. c. 57.
+[^3]: <span class="asgreek"><span class='asgreek'>μαπδ</span></span> ( [[H3843|‎לְבֵנָה‎]] ), ***levainah*** generally denotes a brick, and Palladius informs us that the bricks in common use among the ancients were "two feet long, one foot broad, and four inches thick;" and on such a surface the whole siege might be easily pourtrayed. Perhaps, however, it may here denote a flat tile, like a Roman brick, which were commonly used for tablets, as we learn from Pliny, Hist. Nat. 1. vii. c. 57.
 
 [^4]: [[Jer.6|Jer 6:6]], [[Jer.32|Jer 32:31]]; [[Amos.3|Amos 3:2]]
 

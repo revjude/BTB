@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁוָא‎</span></big> **Shᵉvâʼ** <small>*(shev-aw')*</small> ==**Sheva**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שָׁוְא‎</span><sup><small>[[H7723]]</small></sup>; false</small>
+**<big><span class="ashebrew">‎שְׁוָא‎</span></big>** **Shᵉvâʼ** <small>*(shev-aw')*</small> ==**Sheva**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H7723|‎שָׁוְא‎]]</big>**; false</small>
 
 $\quad$ Sheva.
 - § Sheva = *"Jehovah contends"*

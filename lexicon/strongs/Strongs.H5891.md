@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵיפָה‎</span></big> **ʻÊyphâh** <small>*(ay-faw')*</small> ==**Ephah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֵיפָה‎</span><sup><small>[[H5890]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵיפָה‎</span></big>** **ʻÊyphâh** <small>*(ay-faw')*</small> ==**Ephah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5890|‎עֵיפָה‎]]</big>**</small>
 
 $\quad$ Ephah.
 - § Ephah = *"gloomy"*

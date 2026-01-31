@@ -7,45 +7,45 @@ And when they of Ashdod arose early on the morrow, behold, Dagon [was] fallen up
 When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD. So they took Dagon and returned him to his place.<small><sub>**MT:**</sub></small>
 [[1Sam.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.2|<< 1 Samuel 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.4|1 Samuel 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose early | <big><span class="asgreek">ώρθρισαν</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashdodites | <big><span class="asgreek">Αζώτιοι</span></big> <sup><small><small>[[G0108]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Dagon | <big><span class="asgreek">Δαγών</span></big> <sup><small><small>[[H1712]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day. | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they saw, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Dagon | <big><span class="asgreek">Δαγών</span></big> <sup><small><small>[[H1712]]</small></small></sup> |
-| was fallen | <big><span class="asgreek">πεπτωκώς</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they raised | <big><span class="asgreek">ήγειραν</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Dagon, | <big><span class="asgreek">Δαγών</span></big> <sup><small><small>[[H1712]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed | <big><span class="asgreek">κατέστησαν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose early | **<big>[[G3719\|ώρθρισαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Ashdodites | **<big>[[G0108\|Αζώτιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Dagon | **<big>[[H1712\|Δαγών]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| next day. | **<big>[[G1887\|επαύριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they saw, | **<big>[[G1492\|είδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Dagon | **<big>[[H1712\|Δαγών]]</big>** |
+| was fallen | **<big>[[G4098\|πεπτωκώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they raised | **<big>[[G1453\|ήγειραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Dagon, | **<big>[[H1712\|Δαγών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they placed | **<big>[[G2525\|κατέστησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his place. | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.2|<< 1 Samuel 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.4|1 Samuel 5:4 >>]]</td></tr></table>
 
 

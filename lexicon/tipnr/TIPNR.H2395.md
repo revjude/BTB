@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hizki</span> was a descendant of Elpaal from the tribe of Benjamin.
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.17|1Ch.8.17]]; 
-- only referred to as Hizki<[[H2395]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Elpaal<[[H0508]]>; 
-- a brother of Eber<[[H5677I]]>, Misham<[[H4936]]>, Shemed<[[H8106B]]>, Beriah<[[H1283I]]>, Shema<[[H8087I]]>, Zebadiah<[[H2069H]]>, Meshullam<[[H4918J]]>, Heber<[[H2268J]]>, Ishmerai<[[H3461]]>, Izliah<[[H3152]]> and Jobab<[[H3103K]]>.
+- only referred to as Hizki **<big>[[H2395|חִזְקִי]]</big>**; 
+-  son of Elpaal **<big>[[H0508|אֶלְפַּעַל]]</big>**; 
+- a brother of Eber **<big>[[H5677|עֵבֵר]]</big>**, Misham **<big>[[H4936|מִשְׁעָם]]</big>**, Shemed **<big>[[H8106|שֶׁמֶר]]</big>**, Beriah **<big>[[H1283|בְּרִיעָה]]</big>**, Shema **<big>[[H8087|שֶׁמַע]]</big>**, Zebadiah **<big>[[H2069|זְבַדְיָה]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Heber **<big>[[H2268|חֶבֶר]]</big>**, Ishmerai **<big>[[H3461|יִשְׁמְרַי]]</big>**, Izliah **<big>[[H3152|יִזְלִיאָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Hizki is mentioned in [[1Chr.8.17|1 Chronicles 8:17]] as one of the descendants of Elpaal, who was a member of the tribe of Benjamin. He is listed among the sons of Elpaal, along with his brothers Meshullam, Heber, and Ishmerai. 
 
@@ -14,8 +14,8 @@ No further information is provided about Hizki in the Bible, but his inclusion i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hizki (KJV= Hezeki) | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H2395) <small>*Hebrew*</small> | 1x | [1Ch.8.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hizki\*\|reference=1Ch.8.17) |
-All Strong's for **Hizki**: \[[[H2395]]\]
+| Hizki (KJV= Hezeki) | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H2395) | 1x | [1Ch.8.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hizki\*\|reference=1Ch.8.17) |
+All entries for **Hizki**:  **<big>[[H2395|חִזְקִי]]</big>**
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Eber](H5677I)** (sibling)

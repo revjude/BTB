@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַד‎</span></big> **pârad** <small>*(paw-rad')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַד‎</span></big>** **pârad** <small>*(paw-rad')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ disperse, divide, be out of joint, part, scatter (abroad), separate (self), sever self, stretch, sunder.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1e1)** to divide, separate
 $\quad$ $\quad$ **1e2)** to make a division, make a separation
 $\quad$ **1f)** (Hithpael) to be divided, be separated, get separated
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποσπάω</span><sup><small>[[G0645]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">διαχωρίζομαι</span><sup><small>[[G1316]]</small></sup> · <span class="asgreek">διΐστημι</span><sup><small>[[G1339]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">λείπω</span><sup><small>[[G3007]]</small></sup> · <span class="asgreek">λείπω</span><sup><small>[[G3007]]</small></sup> · <span class="asgreek">ὁρίζω</span><sup><small>[[G3724]]</small></sup> · <span class="asgreek">σκορπίζω</span><sup><small>[[G4650]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup> · <span class="asgreek">χωρίζω</span><sup><small>[[G5563]]</small></sup>
+<small>See Greek: </small>**<big>[[G0645|ἀποσπάω]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1316|διαχωρίζομαι]]</big>** · **<big>[[G1339|διΐστημι]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G3007|λείπω]]</big>** · **<big>[[G3007|λείπω]]</big>** · **<big>[[G3724|ὁρίζω]]</big>** · **<big>[[G4650|σκορπίζω]]</big>** · **<big>[[G5015|ταράσσω]]</big>** · **<big>[[G5563|χωρίζω]]</big>**

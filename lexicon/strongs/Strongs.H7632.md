@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁבִיב‎</span></big> **shâbîyb** <small>*(shaw-beeb')*</small> ==**flame**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שָׁבָב‎</span><sup><small>[[H7616]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁבִיב‎</span></big>** **shâbîyb** <small>*(shaw-beeb')*</small> ==**flame**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H7616|‎שָׁבָב‎]]</big>**</small>
 
 $\quad$ spark.
 - ***flame*** (as split into tongues)
@@ -7,4 +7,4 @@ $\quad$ spark.
 **1)** flame
 $\quad$ **1a)** meaning dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φλόξ</span><sup><small>[[G5395]]</small></sup>
+<small>See Greek: </small>**<big>[[G5395|φλόξ]]</big>**

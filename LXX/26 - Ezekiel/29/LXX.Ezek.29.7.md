@@ -7,33 +7,33 @@ When they took hold of thee by thy hand, thou didst break, and rend all their sh
 When Israel took hold of you with their hands, you splintered, tearing all their shoulders; when they leaned on you, you broke, and their backs were wrenched.<small><sub>**MT:**</sub></small>
 [[Ezek.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.6|<< Ezekiel 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.8|Ezekiel 29:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| When | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| they took hold of | <big><span class="asgreek">επελάβοντό</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you were fractured; | <big><span class="asgreek">εθλάσθης</span></big> <sup><small><small>[[G7679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| prevailed | <big><span class="asgreek">επεκράτησεν</span></big> <sup><small><small>[[G7421]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| they rested | <big><span class="asgreek">επανεπαύσαντο</span></big> <sup><small><small>[[G1879]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you were broken, | <big><span class="asgreek">συνετρίβης</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you broke | <big><span class="asgreek">συνέκλασας</span></big> <sup><small><small>[[G9231]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] loin | <big><span class="asgreek">οσφύν</span></big> <sup><small><small>[[G3751]]</small></small></sup> |
+| When | **<big>[[G3753\|ότε]]</big>** |
+| they took hold of | **<big>[[G1949\|επελάβοντό]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you were fractured; | **<big>[[G7679\|εθλάσθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| prevailed | **<big>[[G7421\|επεκράτησεν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| they rested | **<big>[[G1879\|επανεπαύσαντο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| you were broken, | **<big>[[G4937\|συνετρίβης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you broke | **<big>[[G9231\|συνέκλασας]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| of all | **<big>[[G3956\|πάσαν]]</big>** |
+| \[the\] loin | **<big>[[G3751\|οσφύν]]</big>** |
 [[Ezek.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.6|<< Ezekiel 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.8|Ezekiel 29:8 >>]]</td></tr></table>
 
 

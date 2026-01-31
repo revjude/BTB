@@ -7,19 +7,19 @@ But let the righteous be glad; let them rejoice before God: yea, let them exceed
 But the righteous will be glad and rejoice before God; they will celebrate with joy.<small><sub>**MT:**</sub></small>
 [[Ps.68.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.2|<< Psalm 68:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.4|Psalm 68:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| let | <big><span class="asgreek">ευφρανθήτωσαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| Let them exult | <big><span class="asgreek">αγαλλιάσθωσαν</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Let them be made happy | <big><span class="asgreek">τερφθήτωσαν</span></big> <sup><small><small>[[G9425]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness! | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| just | **<big>[[G1342\|δίκαιοι]]</big>** |
+| let | **<big>[[G2165\|ευφρανθήτωσαν]]</big>** |
+| Let them exult | **<big>[[G0021\|αγαλλιάσθωσαν]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God! | **<big>[[G2316\|θεού]]</big>** |
+| Let them be made happy | **<big>[[G9425\|τερφθήτωσαν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| gladness! | **<big>[[G2167\|ευφροσύνη]]</big>** |
 [[Ps.68.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.2|<< Psalm 68:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.4|Psalm 68:4 >>]]</td></tr></table>
 
 

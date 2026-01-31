@@ -7,23 +7,23 @@ And they shall drink, and be moved, and be mad, because of the sword that I will
 And they will drink and stagger and go out of their minds, because of the sword that I will send among them.”<small><sub>**MT:**</sub></small>
 [[Jer.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.15|<< Jeremiah 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.17|Jeremiah 25:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall drink, | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vomit forth, | <big><span class="asgreek">εξεμούνται</span></big> <sup><small><small>[[G7311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be driven mad | <big><span class="asgreek">εκμανήσονται</span></big> <sup><small><small>[[G7119]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall send | <big><span class="asgreek">αποστέλλω</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall drink, | **<big>[[G4095\|πίονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| vomit forth, | **<big>[[G7311\|εξεμούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be driven mad | **<big>[[G7119\|εκμανήσονται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sword | **<big>[[G3162\|μαχαίρας]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall send | **<big>[[G0649\|αποστέλλω]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.15|<< Jeremiah 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.17|Jeremiah 25:17 >>]]</td></tr></table>
 
 

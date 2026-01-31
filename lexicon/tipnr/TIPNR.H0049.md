@@ -4,7 +4,7 @@ Woman living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Abishag</span>, the beautiful Shunammite who served King David in his old age and was later sought as a wife by Adonijah \([[1Kgs.1.3|1Ki.1.3]],15; 2.17,21,22\).
 - A woman living at the time of United Monarchy, first mentioned at [[1Kgs.1.3|1Ki.1.3]]; 
-- only referred to as Abishag<[[H0049]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>ג</span>\).
+- only referred to as Abishag **<big>[[H0049|אֲבִישַׁג]]</big>**.
 
 Abishag was a beautiful young woman from Shunem who was chosen to serve King David in his old age \([[1Kgs.1.3|1 Kings 1:3]]\). She was brought to the king to keep him warm and to attend to his needs, but David did not have sexual relations with her \(1 Kings 1:4\). 
 
@@ -14,5 +14,5 @@ Solomon responded with anger, interpreting Adonijah's request as tantamount to a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abishag | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>ג</span>](H0049) <small>*Hebrew*</small> | 5x | [[1Ki.1.3] ... [1Ki.2.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishag\*\|reference=1Ki.1.3;1Ki.1.15;1Ki.2.17;1Ki.2.21;1Ki.2.22) |
-All Strong's for **Abishag**: \[[[H0049]]\]
+| Abishag | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>ג</span>](H0049) | 5x | [[1Ki.1.3] ... [1Ki.2.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishag\*\|reference=1Ki.1.3;1Ki.1.15;1Ki.2.17;1Ki.2.21;1Ki.2.22) |
+All entries for **Abishag**:  **<big>[[H0049|אֲבִישַׁג]]</big>**

@@ -6,15 +6,15 @@ Return, O LORD! How long will it be? Have compassion on Your servants.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.12|<< Psalms 90:12]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.14|Psalms 90:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| return !  | <span class="ashebrew"><big>שׁוּבָ֣ </big></span><small><small><sup>[[H7725G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| shu.Va <small><sup>[[HVqv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>מָתָ֑י </big></span><small><small><sup>[[H4970]]</sup></small></small> &#8207;| ma.Tai <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and have compassion  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִנָּחֵ֗ם </big></span><small><small><sup>[[H5162G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hi.na.Chem <small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servants your  | <span class="ashebrew"><big>עֲבָדֶֽי </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.va.Dei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| return !  |**<big>&#8207;[[H7725G\|שׁוּבָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shu.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H4970\|מָתָ֑י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and have compassion  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5162G\|הִנָּחֵ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.na.Chem<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants your  |**<big>&#8207;[[H5650\|עֲבָדֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.12|<< Psalms 90:12]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.14|Psalms 90:14 >>]]</td></tr></table>
 
 

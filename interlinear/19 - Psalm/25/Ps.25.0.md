@@ -6,9 +6,9 @@ Of David. To You, O LORD, I lift up my soul;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.10|<< Psalms 24:10]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.1|Psalms 25:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| of David  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָוִ֡ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֡ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.10|<< Psalms 24:10]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.1|Psalms 25:1 >>]]</td></tr></table>
 
 

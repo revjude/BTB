@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֹבֶן‎</span></big> **ʼôben** <small>*(o' ben)*</small> ==**wheel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎אֶבֶן‎</span><sup><small>[[H0068]]</small></sup></small>
+**<big><span class="ashebrew">‎אֹבֶן‎</span></big>** **ʼôben** <small>*(o' ben)*</small> ==**wheel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H0068|‎אֶבֶן‎]]</big>**</small>
 
 $\quad$ wheel, stool.
 - ***a pair of stones*** (only dual)

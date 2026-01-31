@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שִׁבְעָה‎</span></big> **shibʻâh** <small>*(shib-aw')*</small> ==**seven**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֶׁבַע‎</span><sup><small>[[H7651]]</small></sup></small>
+**<big><span class="asaramaic">‎שִׁבְעָה‎</span></big>** **shibʻâh** <small>*(shib-aw')*</small> ==**seven**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7651|‎שֶׁבַע‎]]</big>**</small>
 
 $\quad$ seven (times).
 - {***seven*** (as the sacred full one)
@@ -9,4 +9,4 @@ $\quad$ seven (times).
 
 **1)** seven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰχμαλωσία</span><sup><small>[[G0161]]</small></sup> · <span class="asgreek">ὅρκος</span><sup><small>[[G3727]]</small></sup>
+<small>See Greek: </small>**<big>[[G0161|αἰχμαλωσία]]</big>** · **<big>[[G3727|ὅρκος]]</big>**

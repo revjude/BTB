@@ -6,15 +6,15 @@ Remember this and be brave; take it to heart, you transgressors!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.7|<< Isaiah 46:7]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.9|Isaiah 46:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| remember  | <span class="ashebrew"><big>זִכְרוּ </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| zikh.ru- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֖את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and pluck up courage  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִתְאֹשָׁ֑שׁוּ </big></span><small><small><sup>[[H0377]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hit.'o.Sha.shu <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bring [it] back  | <span class="ashebrew"><big>הָשִׁ֥יבוּ </big></span><small><small><sup>[[H7725N]]</sup></small></small> &#8207;| ha.Shi.vu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O rebels  | <span class="ashebrew"><big>פוֹשְׁעִ֖ים </big></span><small><small><sup>[[H6586]]</sup></small></small> &#8207;| fo.she.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵֽב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| remember  |**<big>&#8207;[[H2142\|זִכְרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zikh.ru-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pluck up courage  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0377\|הִתְאֹשָׁ֑שׁוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hit.'o.Sha.shu<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bring [it] back  |**<big>&#8207;[[H7725N\|הָשִׁ֥יבוּ]]&#8207; </big>**| ha.Shi.vu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O rebels  |**<big>&#8207;[[H6586\|פוֹשְׁעִ֖ים]]&#8207; </big>**| fo.she.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.7|<< Isaiah 46:7]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.9|Isaiah 46:9 >>]]</td></tr></table>
 
 

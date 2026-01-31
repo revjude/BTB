@@ -1,8 +1,8 @@
 <small>*Tel-harsha • Babylonian city from which exiles returned*</small>
 
 <span class='tipnrhighlight'>Tel-harsha</span>, a Babylonian city from which some Jewish exiles returned to Jerusalem, but could not prove their genealogy \([[Ezra.2.59|Ezra 2:59]]; Neh. 7:61\).
-- A location near Calneh<[[H3641A]]> first mentioned at [[Ezra.2.59|Ezr.2.59]]; 
-- only referred to as Tel-harsha<[[H8521]]> \(<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Calneh **<big>[[H3641|כַּלְנֶה]]</big>** first mentioned at [[Ezra.2.59|Ezr.2.59]]; 
+- only referred to as Tel-harsha **<big>[[H8521|תֵּל חַרְשָׁא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.127213,45.229995&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tel-harsha is mentioned in [[Ezra.2.59|Ezra 2:59]] and [[Neh.7.61|Nehemiah 7:61]
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tel-harsha (NIV= Tel Harsha) | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>](H8521) <small>*Hebrew*</small> | 2x | [[Ezr.2.59] & [Neh.7.61] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tel\*\|reference=Ezr.2.59;Neh.7.61) |
-All Strong's for **Tel-harsha**: \[[[H8521]]\]
+| Tel-harsha (NIV= Tel Harsha) | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>](H8521) | 2x | [[Ezr.2.59] & [Neh.7.61] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tel\*\|reference=Ezr.2.59;Neh.7.61) |
+All entries for **Tel-harsha**:  **<big>[[H8521|תֵּל חַרְשָׁא]]</big>**

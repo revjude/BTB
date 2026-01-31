@@ -7,28 +7,28 @@ Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an ho
 Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance.<small><sub>**MT:**</sub></small>
 [[Ps.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.1|<< Psalm 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.3|Psalm 31:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lean | <big><span class="asgreek">κλίνον</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hasten | <big><span class="asgreek">τάχυνον</span></big> <sup><small><small>[[G9406]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to take | <big><span class="asgreek">εξελέσθαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| me out! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Become | <big><span class="asgreek">γενού</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a defending God! | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υπερασπιστήν</span></big> <sup><small><small>[[G9544]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of refuge | <big><span class="asgreek">καταφυγής</span></big> <sup><small><small>[[G7950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαί</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Lean | **<big>[[G2827\|κλίνον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Hasten | **<big>[[G9406\|τάχυνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to take | **<big>[[G1807\|εξελέσθαι]]</big>** |
+| me out! | **<big>[[G1473\|με]]</big>** |
+| Become | **<big>[[G1096\|γενού]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| a defending God! | **<big>[[G2316\|θεόν]]</big>** **<big>[[G9544\|υπερασπιστήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| of refuge | **<big>[[G7950\|καταφυγής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαί]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Ps.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.1|<< Psalm 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.3|Psalm 31:3 >>]]</td></tr></table>
 
 

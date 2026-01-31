@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹט‎</span></big> **môwṭ** <small>*(mote)*</small> ==**yoke**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מוֹט‎</span><sup><small>[[H4131]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹט‎</span></big>** **môwṭ** <small>*(mote)*</small> ==**yoke**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4131|‎מוֹט‎]]</big>**</small>
 
 $\quad$ bar, be moved, staff, yoke.
 - ***a wavering***, i.e. ***fall***
@@ -11,4 +11,4 @@ $\quad$ **1a)** a shaking, tottering
 $\quad$ **1b)** pole, bar (for carrying)
 $\quad$ **1c)** bar of yoke
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σάλος</span><sup><small>[[G4535]]</small></sup>
+<small>See Greek: </small>**<big>[[G4535|σάλος]]</big>**

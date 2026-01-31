@@ -7,18 +7,18 @@ A fountain of gardens, a well of living waters, and streams from Lebanon.
 You are a garden spring, a well of fresh water flowing down from Lebanon.<small><sub>**MT:**</sub></small>
 [[Song.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.14|<< Song of Solomon 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.16|Song of Solomon 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A spring | <big><span class="asgreek">πηγή</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of gardens; | <big><span class="asgreek">κηπών</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| a well | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| living, | <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gurgling | <big><span class="asgreek">ροιζούντος</span></big> <sup><small><small>[[G9030]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| A spring | **<big>[[G4077\|πηγή]]</big>** |
+| of gardens; | **<big>[[G2779\|κηπών]]</big>** |
+| a well | **<big>[[G5421\|φρέαρ]]</big>** |
+| of water | **<big>[[G5204\|ύδατος]]</big>** |
+| living, | **<big>[[G2198\|ζώντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gurgling | **<big>[[G9030\|ροιζούντος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
 [[Song.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.14|<< Song of Solomon 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.16|Song of Solomon 4:16 >>]]</td></tr></table>
 
 

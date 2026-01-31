@@ -7,25 +7,25 @@ The words of the wise [are] as goads, and as nails fastened [by] the masters of 
 The words of the wise are like goads, and the anthologies of the masters are like firmly embedded nails driven by a single Shepherd.<small><sub>**MT:**</sub></small>
 [[Eccl.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.10|<< Ecclesiastes 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.12|Ecclesiastes 12:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] wise | <big><span class="asgreek">σοφων</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxgoads, | <big><span class="asgreek">βούκεντρα</span></big> <sup><small><small>[[G6689]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| nails | <big><span class="asgreek">ήλοι</span></big> <sup><small><small>[[G2247]]</small></small></sup> |
-| \[firmly\] planted; | <big><span class="asgreek">πεφυτευμένοι</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| ones which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| agreement | <big><span class="asgreek">συνθεμάτων</span></big> <sup><small><small>[[G9323]]</small></small></sup> |
-| were given | <big><span class="asgreek">εδόθησαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμένος</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \[The\] words | **<big>[[G3056\|λόγοι]]</big>** |
+| of \[the\] wise | **<big>[[G4680\|σοφων]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| oxgoads, | **<big>[[G6689\|βούκεντρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| nails | **<big>[[G2247\|ήλοι]]</big>** |
+| \[firmly\] planted; | **<big>[[G5452\|πεφυτευμένοι]]</big>** |
+| ones which | **<big>[[G3739\|οι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| agreement | **<big>[[G9323\|συνθεμάτων]]</big>** |
+| were given | **<big>[[G1325\|εδόθησαν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμένος]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
 [[Eccl.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.10|<< Ecclesiastes 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.12|Ecclesiastes 12:12 >>]]</td></tr></table>
 
 

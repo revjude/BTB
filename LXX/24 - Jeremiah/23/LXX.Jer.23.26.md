@@ -7,26 +7,26 @@ How long shall [this] be in the heart of the prophets that prophesy lies? yea, [
 How long will this continue in the hearts of these prophets who prophesy falsehood, these prophets of the delusion of their own minds?<small><sub>**MT:**</sub></small>
 [[Jer.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.25|<< Jeremiah 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.27|Jeremiah 23:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| how long | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| shall it be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητευόντων</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| lies, | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their prophesying | <big><span class="asgreek">προφητεύειν</span></big> <sup><small><small>[[G4395]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wants | <big><span class="asgreek">θελήματα</span></big> <sup><small><small>[[G2307]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their heart? | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G2193\|έως]]</big>** |
+| how long | **<big>[[G4219\|πότε]]</big>** |
+| shall it be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| prophets | **<big>[[G4396\|προφητών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| prophesying | **<big>[[G4395\|προφητευόντων]]</big>** |
+| lies, | **<big>[[G5571\|ψευδή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their prophesying | **<big>[[G4395\|προφητεύειν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wants | **<big>[[G2307\|θελήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their heart? | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.25|<< Jeremiah 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.27|Jeremiah 23:27 >>]]</td></tr></table>
 
 

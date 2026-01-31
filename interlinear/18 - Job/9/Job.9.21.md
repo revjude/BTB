@@ -6,15 +6,15 @@ Though I am blameless, I have no concern for myself; I despise my own life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.20|<< Job 9:20]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.22|Job 9:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [am] blameless  | <span class="ashebrew"><big>תָּֽם </big></span><small><small><sup>[[H8535]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tam- <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָ֭נִי </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'A.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>אֵדַ֥ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| 'e.Da' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self my  | <span class="ashebrew"><big>נַפְשִׁ֗ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I reject  | <span class="ashebrew"><big>אֶמְאַ֥ס </big></span><small><small><sup>[[H3988A]]</sup></small></small> &#8207;| 'em.'As <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>חַיָּֽ </big></span><small><small><sup>[[H2416E]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chai.Ya <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] blameless  |**<big>&#8207;[[H8535\|תָּֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tam-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אָ֭נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|אֵדַ֥ע]]&#8207; </big>**| 'e.Da'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I reject  |**<big>&#8207;[[H3988A\|אֶמְאַ֥ס]]&#8207; </big>**| 'em.'As<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H2416E\|חַיָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Ya<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.20|<< Job 9:20]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.22|Job 9:22 >>]]</td></tr></table>
 
 

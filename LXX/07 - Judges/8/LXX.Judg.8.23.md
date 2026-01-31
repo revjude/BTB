@@ -7,25 +7,25 @@ And Gideon said unto them, I will not rule over you, neither shall my son rule o
 But Gideon replied, “I will not rule over you, nor will my son. The LORD shall rule over you.”<small><sub>**MT:**</sub></small>
 [[Judg.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.22|<< Judges 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.24|Judges 8:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gideon | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| will not rule | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">άρξω</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not rule | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">άρξει</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you -- | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall rule | <big><span class="asgreek">άρξει</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Gideon | **<big>[[G1066\|Γεδεών]]</big>** |
+| will not rule | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0756\|άρξω]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will not rule | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0756\|άρξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you -- | **<big>[[G1473\|υμίν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| shall rule | **<big>[[G0756\|άρξει]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Judg.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.22|<< Judges 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.24|Judges 8:24 >>]]</td></tr></table>
 
 

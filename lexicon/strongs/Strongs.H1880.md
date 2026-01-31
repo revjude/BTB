@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֶּשֶׁן‎</span></big> **deshen** <small>*(deh'-shen)*</small> ==**ashes**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּשֵׁן‎</span><sup><small>[[H1878]]</small></sup></small>
+**<big><span class="ashebrew">‎דֶּשֶׁן‎</span></big>** **deshen** <small>*(deh'-shen)*</small> ==**ashes**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1878|‎דָּשֵׁן‎]]</big>**</small>
 
 $\quad$ ashes, fatness.
 - ***the fat***
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a1)** of fertility
 $\quad$ $\quad$ **1a2)** of blessing (fig.)
 $\quad$ **1b)** fat ashes (ashes of victims, mixed with the fat)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαθός</span><sup><small>[[G0018]]</small></sup> · <span class="asgreek">πιότης</span><sup><small>[[G4096]]</small></sup> · <span class="asgreek">σποδός</span><sup><small>[[G4700]]</small></sup>
+<small>See Greek: </small>**<big>[[G0018|ἀγαθός]]</big>** · **<big>[[G4096|πιότης]]</big>** · **<big>[[G4700|σποδός]]</big>**

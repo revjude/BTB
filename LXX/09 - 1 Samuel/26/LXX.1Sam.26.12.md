@@ -7,42 +7,42 @@ So David took the spear and the cruse of water from Saul’s bolster; and they g
 So David took the spear and water jug by Saul’s head, and they departed. No one saw them or knew about it, nor did anyone wake up; they all remained asleep, because a deep sleep from the LORD had fallen on them.<small><sub>**MT:**</sub></small>
 [[1Sam.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.11|<< 1 Samuel 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.13|1 Samuel 26:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flask | <big><span class="asgreek">φακόν</span></big> <sup><small><small>[[G9614]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went forth. | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeing, | <big><span class="asgreek">βλέπων</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing, | <big><span class="asgreek">γινώσκων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| awakening -- | <big><span class="asgreek">εξεγειρόμενος</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| were sleeping, | <big><span class="asgreek">υπνούντες</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a stupefaction | <big><span class="asgreek">θάμβος</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
-| \[from the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| fell | <big><span class="asgreek">επέπεσεν</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spear | **<big>[[G6965\|δόρυ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| flask | **<big>[[G9614\|φακόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| before | **<big>[[G4314\|προς]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went forth. | **<big>[[G0565\|απήλθον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| one | **<big>[[G3588\|ο]]</big>** |
+| seeing, | **<big>[[G0991\|βλέπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| one | **<big>[[G3588\|ο]]</big>** |
+| knowing, | **<big>[[G1097\|γινώσκων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| one | **<big>[[G3588\|ο]]</big>** |
+| awakening -- | **<big>[[G1825\|εξεγειρόμενος]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| were sleeping, | **<big>[[G9567\|υπνούντες]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a stupefaction | **<big>[[G2285\|θάμβος]]</big>** |
+| \[from the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| fell | **<big>[[G1968\|επέπεσεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[1Sam.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.11|<< 1 Samuel 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.13|1 Samuel 26:13 >>]]</td></tr></table>
 
 

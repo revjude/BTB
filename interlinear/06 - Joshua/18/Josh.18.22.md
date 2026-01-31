@@ -6,13 +6,13 @@ Beth-arabah, Zemaraim, Bethel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.21|<< Joshua 18:21]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.23|Joshua 18:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Beth  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֧ית </big></span><small><small><sup>[[H1026]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Veit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Arabah  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֲרָבָ֛ה </big></span><small><small><sup>[[H1026]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.ra.Vah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Zemaraim  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צְמָרַ֖יִם </big></span><small><small><sup>[[H6787]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> tze.ma.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Beth-  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵֽית </big></span><small><small><sup>[[H1008G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> veit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -el  | <span class="ashebrew"><big>אֵֽל </big></span><small><small><sup>[[H1008G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1026\|בֵ֧ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Arabah  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H1026\|עֲרָבָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zemaraim  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6787\|צְמָרַ֖יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.ma.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beth-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1008G\|בֵֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -el  |**<big>&#8207;[[H1008G\|אֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.21|<< Joshua 18:21]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.23|Joshua 18:23 >>]]</td></tr></table>
 
 

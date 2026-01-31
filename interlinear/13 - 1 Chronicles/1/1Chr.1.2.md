@@ -6,11 +6,11 @@ Kenan, Mahalalel, Jared,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.1|<< 1 Chronicles 1:1]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.3|1 Chronicles 1:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Kenan  | <span class="ashebrew"><big>קֵינָ֥ן </big></span><small><small><sup>[[H7018]]</sup></small></small> &#8207;| kei.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Mahalalel  | <span class="ashebrew"><big>מַהֲלַלְאֵ֖ל </big></span><small><small><sup>[[H4111G]]</sup></small></small> &#8207;| ma.ha.lal.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jared  | <span class="ashebrew"><big>יָֽרֶד </big></span><small><small><sup>[[H3382G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.red <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kenan  |**<big>&#8207;[[H7018\|קֵינָ֥ן]]&#8207; </big>**| kei.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mahalalel  |**<big>&#8207;[[H4111G\|מַהֲלַלְאֵ֖ל]]&#8207; </big>**| ma.ha.lal.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jared  |**<big>&#8207;[[H3382G\|יָֽרֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.red<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.1|<< 1 Chronicles 1:1]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.3|1 Chronicles 1:3 >>]]</td></tr></table>
 
 

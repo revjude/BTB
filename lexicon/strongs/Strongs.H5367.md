@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָקַשׁ‎</span></big> **nâqash** <small>*(naw-kash')*</small> ==**to snare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָקַשׁ‎</span></big>** **nâqash** <small>*(naw-kash')*</small> ==**to snare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ catch (lay a) snare.
@@ -15,4 +15,4 @@ $\quad$ **2b)** (Niphal) to be ensnared
 $\quad$ **2c)** (Piel) to lay snares
 $\quad$ **2d)** (Hithpael) to lay snares
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκζητέω</span><sup><small>[[G1567]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">παγιδεύω</span><sup><small>[[G3802]]</small></sup> · <span class="asgreek">συλλαμβάνω</span><sup><small>[[G4815]]</small></sup>
+<small>See Greek: </small>**<big>[[G1567|ἐκζητέω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G3802|παγιδεύω]]</big>** · **<big>[[G4815|συλλαμβάνω]]</big>**

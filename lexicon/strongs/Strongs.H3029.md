@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יְדָא‎</span></big> **yᵉdâʼ** <small>*(yed-aw')*</small> ==**to praise**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup></small>
+**<big><span class="asaramaic">‎יְדָא‎</span></big>** **yᵉdâʼ** <small>*(yed-aw')*</small> ==**to praise**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3034|‎יָדָה‎]]</big>**</small>
 
 $\quad$ (give) thank(-s).
 - ***to praise***

@@ -7,26 +7,26 @@ They shall howl, [saying], How is it broken down! how hath Moab turned the back 
 “How shattered it is! How they wail! How Moab has turned his back in shame! Moab has become an object of ridicule and horror to all those around him.”<small><sub>**MT:**</sub></small>
 [[Jer.48.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.38|<< Jeremiah 48:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.40|Jeremiah 48:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| he reconciled. | <big><span class="asgreek">κατήλλαξε</span></big> <sup><small><small>[[G2644]]</small></small></sup> |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| turned | <big><span class="asgreek">έστρεψε</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| \[his\] back | <big><span class="asgreek">νώτον</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| was shamed | <big><span class="asgreek">ησχύνθη</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| laughter, | <big><span class="asgreek">γέλωτα</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an object of anger | <big><span class="asgreek">εγκότημα</span></big> <sup><small><small>[[G7026]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| he reconciled. | **<big>[[G2644\|κατήλλαξε]]</big>** |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| turned | **<big>[[G4762\|έστρεψε]]</big>** |
+| \[his\] back | **<big>[[G3577\|νώτον]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| was shamed | **<big>[[G0153\|ησχύνθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| laughter, | **<big>[[G1071\|γέλωτα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an object of anger | **<big>[[G7026\|εγκότημα]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| her. | **<big>[[G1473\|αυτής]]</big>** |
 [[Jer.48.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.38|<< Jeremiah 48:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.40|Jeremiah 48:40 >>]]</td></tr></table>
 
 

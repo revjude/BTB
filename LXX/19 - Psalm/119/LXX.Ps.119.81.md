@@ -7,18 +7,18 @@ CAPH. My soul fainteth for thy salvation: [but] I hope in thy word.
 My soul faints for Your salvation; I wait for Your word.<small><sub>**MT:**</sub></small>
 [[Ps.119.81|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.80|<< Psalm 119:80]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.82|Psalm 119:82 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is wanting | <big><span class="asgreek">εκλείπει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I raised hope. | <big><span class="asgreek">επήλπισα</span></big> <sup><small><small>[[G7379]]</small></small></sup> |
+| is wanting | **<big>[[G1587\|εκλείπει]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| In | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I raised hope. | **<big>[[G7379\|επήλπισα]]</big>** |
 [[Ps.119.81|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.80|<< Psalm 119:80]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.82|Psalm 119:82 >>]]</td></tr></table>
 
 

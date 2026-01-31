@@ -7,15 +7,15 @@ I am [as] one mocked of his neighbour, who calleth upon God, and he answereth hi
 I am a laughingstock to my friends, though I called on God, and He answered. The righteous and upright man is a laughingstock.<small><sub>**MT:**</sub></small>
 [[Job.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.3|<< Job 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.5|Job 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For a just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| man, | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blameless, | <big><span class="asgreek">άμεμπτος</span></big> <sup><small><small>[[G0273]]</small></small></sup> |
-| was born | <big><span class="asgreek">εγεννήθη</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an object for taunts. | <big><span class="asgreek">χλεύασμα</span></big> <sup><small><small>[[G9736]]</small></small></sup> |
+| For a just | **<big>[[G1342\|δίκαιος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| man, | **<big>[[G0435\|ανήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blameless, | **<big>[[G0273\|άμεμπτος]]</big>** |
+| was born | **<big>[[G1080\|εγεννήθη]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an object for taunts. | **<big>[[G9736\|χλεύασμα]]</big>** |
 [[Job.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.3|<< Job 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.5|Job 12:5 >>]]</td></tr></table>
 
 

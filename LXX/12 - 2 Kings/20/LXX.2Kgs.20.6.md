@@ -7,37 +7,37 @@ And I will add unto thy days fifteen years; and I will deliver thee and this cit
 I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My sake and for the sake of My servant David.’”<small><sub>**MT:**</sub></small>
 [[2Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.5|<< 2 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.7|2 Kings 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will add | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fifteen | <big><span class="asgreek">πεντεκαίδεκα</span></big> <sup><small><small>[[G8699]]</small></small></sup> |
-| years; | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| I will deliver | <big><span class="asgreek">σώσω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall shield | <big><span class="asgreek">υπερασπίω</span></big> <sup><small><small>[[G9542]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| myself, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servant. | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will add | **<big>[[G4369\|προσθήσω]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your days | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| fifteen | **<big>[[G8699\|πεντεκαίδεκα]]</big>** |
+| years; | **<big>[[G2094\|έτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| I will deliver | **<big>[[G4982\|σώσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this city. | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall shield | **<big>[[G9542\|υπερασπίω]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| myself, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my servant. | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.5|<< 2 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.7|2 Kings 20:7 >>]]</td></tr></table>
 
 

@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎דֵּךְ‎</span></big> **dêk** <small>*(dake)*</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">דָּךְ</span> **dâk** <small>*(dawk)*</small>; (Aramaic), prolonged from <span class="asaramaic">‎דָּא‎</span><sup><small>[[H1668]]</small></sup></small>
+**<big><span class="asaramaic">‎דֵּךְ‎</span></big>** **dêk** <small>*(dake)*</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">דָּךְ</span></big>** **dâk** <small>*(dawk)*</small>; (Aramaic), prolonged from **<big>[[H1668|‎דָּא‎]]</big>**</small>
 
 $\quad$ the same, this.
 - ***this***
 
 **1)** this
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκεῖνος</span><sup><small>[[G1565]]</small></sup>
+<small>See Greek: </small>**<big>[[G1565|ἐκεῖνος]]</big>**

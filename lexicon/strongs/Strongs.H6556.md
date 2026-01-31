@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּרֶץ‎</span></big> **perets** <small>*(peh'-rets)*</small> ==**breach**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּרַץ‎</span><sup><small>[[H6555]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּרֶץ‎</span></big>** **perets** <small>*(peh'-rets)*</small> ==**breach**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6555|‎פָּרַץ‎]]</big>**</small>
 
 $\quad$ breach, breaking forth (in), [idiom] forth, gap.
 - ***a break*** (literally or figuratively)
@@ -10,4 +10,4 @@ $\quad$ **1b)** breach
 $\quad$ **1c)** broken wall
 $\quad$ **1d)** outburst (fig. of God's wrath)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πίπτω</span><sup><small>[[G4098]]</small></sup> · <span class="asgreek">πτῶμα</span><sup><small>[[G4430]]</small></sup> · <span class="asgreek">φραγμός</span><sup><small>[[G5418]]</small></sup>
+<small>See Greek: </small>**<big>[[G4098|πίπτω]]</big>** · **<big>[[G4430|πτῶμα]]</big>** · **<big>[[G5418|φραγμός]]</big>**

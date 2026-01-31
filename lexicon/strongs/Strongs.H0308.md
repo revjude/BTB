@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲחַסְבַּי‎</span></big> **ʼĂchaçbay** <small>*(akh-as-bah'ee)*</small> ==**Ahasbai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲחַסְבַּי‎</span></big>** **ʼĂchaçbay** <small>*(akh-as-bah'ee)*</small> ==**Ahasbai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Ahasbai.
@@ -7,4 +7,4 @@ $\quad$ Ahasbai.
 
 **1)** father of Eliphelet, one of David's heroes
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡσυχία</span><sup><small>[[G2271]]</small></sup> · <span class="asgreek">ὀφθαλμός</span><sup><small>[[G3788]]</small></sup>
+<small>See Greek: </small>**<big>[[G2271|ἡσυχία]]</big>** · **<big>[[G3788|ὀφθαλμός]]</big>**

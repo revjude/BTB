@@ -4,10 +4,10 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Shem</span>, one of Noah's three sons and the ancestor of the Semitic peoples.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.5.32|Gen.5.32]]; 
-- referred to as Shem<[[H8035]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ם</span>\), or Shem \(KJV= Sem\) <[[G4590]]> \(<span class='tipnrLangGreek'>Σήμ</span>\); 
--  son of Noah<[[H5146]]>; 
-- a brother of Ham<[[H2526G]]> and Japheth<[[H3315]]>; 
--  father of Asshur<[[H0804H]]>, Elam<[[H5867C]]>, Arpachshad<[[H0775]]>, Lud<[[H3865]]> and Aram<[[H0758G]]>.
+- referred to as Shem **<big>[[H8035|שֵׁם]]</big>**, or Shem \(KJV= Sem\)  **<big>[[G4590|Σήμ]]</big>**; 
+-  son of Noah **<big>[[H5146|נֹחַ]]</big>**; 
+- a brother of Ham **<big>[[H2526|חָם]]</big>** and Japheth **<big>[[H3315|יֶפֶת]]</big>**; 
+-  father of Asshur **<big>[[H0804|אַשּׁוּר]]</big>**, Elam **<big>[[H5867|עֵילָם]]</big>**, Arpachshad **<big>[[H0775|אַרְפַּכְשַׁד]]</big>**, Lud **<big>[[H3865|לוּד]]</big>** and Aram **<big>[[H0758|אֲרָם]]</big>**.
 
 Shem was one of the three sons of Noah, along with Ham and Japheth \([[Gen.5.32|Genesis 5:32]]; 6:10\). He and his wife were among the eight people who survived the great flood in the ark \([[Gen.7.13|Genesis 7:13]]\). After the flood, Shem and his brothers became the ancestors of the nations that repopulated the earth \([[Gen.9.18|Genesis 9:18]],19; 10:1\). 
 
@@ -17,9 +17,9 @@ Shem and Japheth showed respect for their father by covering his nakedness when 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shem | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ם</span>](H8035) <small>*Hebrew*</small> | 17x | [[Gen.5.32] ... [1Ch.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shem\*\|reference=Gen.5.32;Gen.6.10;Gen.7.13;Gen.9.18;Gen.9.23;Gen.9.26;Gen.9.27;Gen.10.1;Gen.10.21;Gen.10.22;Gen.10.31;Gen.11.10;Gen.11.10;Gen.11.11;1Ch.1.4;1Ch.1.17;1Ch.1.24) |
-| Shem (KJV= Sem) | [<span class='tipnrLangGreek'>Σήμ</span>](G4590) <small>*Greek*</small> | 1x | [Luk.3.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shem\*\|reference=Luk.3.36) |
-All Strong's for **Shem**: \[[[H8035]]\] \[[[G4590]]\]
+| Shem | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ם</span>](H8035) | 17x | [[Gen.5.32] ... [1Ch.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shem\*\|reference=Gen.5.32;Gen.6.10;Gen.7.13;Gen.9.18;Gen.9.23;Gen.9.26;Gen.9.27;Gen.10.1;Gen.10.21;Gen.10.22;Gen.10.31;Gen.11.10;Gen.11.10;Gen.11.11;1Ch.1.4;1Ch.1.17;1Ch.1.24) |
+| Shem (KJV= Sem) | [<span class='tipnrLangGreek'>Σήμ</span>](G4590) | 1x | [Luk.3.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shem\*\|reference=Luk.3.36) |
+All entries for **Shem**:  **<big>[[H8035|שֵׁם]]</big>** ☩  **<big>[[G4590|Σήμ]]</big>**
 #### Related Profiles:
 - **[Noah](H5146)** (father)
 - **[Naamah](H5279G)** (mother)

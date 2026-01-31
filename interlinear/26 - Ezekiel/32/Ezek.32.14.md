@@ -6,17 +6,17 @@ Then I will let her waters settle and will make her rivers flow like oil,’ dec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.13|<< Ezekiel 32:13]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.15|Ezekiel 32:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="ashebrew"><big>אָ֚ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make settle  | <span class="ashebrew"><big>אַשְׁקִ֣יעַ </big></span><small><small><sup>[[H8257]]</sup></small></small> &#8207;| 'ash.Ki.a' <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waters their  | <span class="ashebrew"><big>מֵֽימֵי </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| mei.mei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and rivers their  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נַהֲרוֹתָ֖ </big></span><small><small><sup>[[H5104H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.ha.ro.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> oil  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֣מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> She.men <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make go  | <span class="ashebrew"><big>אוֹלִ֑יךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| 'o.Likh <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם </big></span><small><small><sup>[[H5002]]</sup></small></small> &#8207;| ne.'Um <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִֽה </big></span><small><small><sup>[[H3069]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֚ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make settle  |**<big>&#8207;[[H8257\|אַשְׁקִ֣יעַ]]&#8207; </big>**| 'ash.Ki.a'<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waters their  |**<big>&#8207;[[H4325G\|מֵֽימֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| mei.mei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rivers their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5104H\|נַהֲרוֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.ha.ro.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> oil  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H8081\|שֶּׁ֣מֶן]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make go  |**<big>&#8207;[[H1980I\|אוֹלִ֑יךְ]]&#8207; </big>**| 'o.Likh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.13|<< Ezekiel 32:13]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.15|Ezekiel 32:15 >>]]</td></tr></table>
 
 

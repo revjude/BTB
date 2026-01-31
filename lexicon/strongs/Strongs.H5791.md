@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָוַת‎</span></big> **ʻâvath** <small>*(aw-vath')*</small> ==**to pervert**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָוַת‎</span></big>** **ʻâvath** <small>*(aw-vath')*</small> ==**to pervert**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bow self, (make) crooked., falsifying, overthrow, deal perversely, pervert, subvert, turn upside down.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** to bend, make crooked
 $\quad$ **1b)** (Pual) thing bent (participle)
 $\quad$ **1c)** (Hithpael) to bend oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">δανείζω</span><sup><small>[[G1155]]</small></sup> · <span class="asgreek">δάνειον</span><sup><small>[[G1156]]</small></sup> · <span class="asgreek">διαστρέφω</span><sup><small>[[G1294]]</small></sup> · <span class="asgreek">ἐκκλίνω</span><sup><small>[[G1578]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">καταδικάζω</span><sup><small>[[G2613]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1155|δανείζω]]</big>** · **<big>[[G1156|δάνειον]]</big>** · **<big>[[G1294|διαστρέφω]]</big>** · **<big>[[G1578|ἐκκλίνω]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G2613|καταδικάζω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

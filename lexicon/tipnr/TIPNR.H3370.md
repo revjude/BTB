@@ -4,11 +4,11 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Jokshan</span> was one of the sons born to Abraham and his wife Keturah after the death of Sarah \([[Gen.25.2|Gen.25.2]],3; 1Ch.1.32,32\).
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.25.2|Gen.25.2]]; 
-- only referred to as Jokshan<[[H3370]]> \(<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Abraham<[[H0085]]> and Keturah<[[H6989]]>; 
-- a brother of Zimran<[[H2175]]>, Medan<[[H4091]]>, Midian<[[H4080G]]>, Ishbak<[[H3435]]> and Shuah<[[H7744]]>; 
--  father of Sheba<[[H7614I]]> and Dedan<[[H1719C]]>; 
--  half-brother of: Ishmael<[[H3458G]]> and Isaac<[[H3327]]>.
+- only referred to as Jokshan **<big>[[H3370|יׇקְשָׁן]]</big>**; 
+-  son of Abraham **<big>[[H0085|אַבְרָהָם]]</big>** and Keturah **<big>[[H6989|קְטוּרָה]]</big>**; 
+- a brother of Zimran **<big>[[H2175|זִמְרָן]]</big>**, Medan **<big>[[H4091|מְדָן]]</big>**, Midian **<big>[[H4080|מִדְיָן]]</big>**, Ishbak **<big>[[H3435|יִשְׁבָּק]]</big>** and Shuah **<big>[[H7744|שׁוּחַ]]</big>**; 
+-  father of Sheba **<big>[[H7614|שְׁבָא]]</big>** and Dedan **<big>[[H1719|דְּדָן]]</big>**; 
+-  half-brother of: Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>** and Isaac **<big>[[H3327|יִצְחָק]]</big>**.
 
 Jokshan is mentioned in the Old Testament as one of the sons of Abraham and his wife Keturah. After the death of Sarah, Abraham took Keturah as his wife, and she bore him several children, including Jokshan \(Gen.25.1-2; 1Ch.1.32\). 
 
@@ -22,8 +22,8 @@ Beyond these details, the Bible does not provide any further information about J
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jokshan | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H3370) <small>*Hebrew*</small> | 4x | [[Gen.25.2] ... [1Ch.1.32b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokshan\*\|reference=Gen.25.2;Gen.25.3;1Ch.1.32;1Ch.1.32) |
-All Strong's for **Jokshan**: \[[[H3370]]\]
+| Jokshan | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H3370) | 4x | [[Gen.25.2] ... [1Ch.1.32b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokshan\*\|reference=Gen.25.2;Gen.25.3;1Ch.1.32;1Ch.1.32) |
+All entries for **Jokshan**:  **<big>[[H3370|יׇקְשָׁן]]</big>**
 #### Related Profiles:
 - **[Abraham](H0085)** (father)
 - **[Keturah](H6989)** (mother)

@@ -1,4 +1,4 @@
-form of: <small>[[G3398]]</small> 
+form of: <small>**<big>[[G3398|μικρός]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==μικρόν==</span></b> 

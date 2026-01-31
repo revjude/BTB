@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית פְּעוֹר‎</span></big> **Bêyth Pᵉʻôwr** <small>*(bayth pe-ore')*</small> ==**Beth-peor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎פְּעוֹר‎</span><sup><small>[[H6465]]</small></sup>; house of Peor</small>
+**<big><span class="ashebrew">‎בֵּית פְּעוֹר‎</span></big>** **Bêyth Pᵉʻôwr** <small>*(bayth pe-ore')*</small> ==**Beth-peor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H6465|‎פְּעוֹר‎]]</big>**; house of Peor</small>
 
 $\quad$ Bethpeor.
 - § Beth-peor = *"house of Peor"*

@@ -7,20 +7,20 @@ The flood breaketh out from the inhabitant; [even the waters] forgotten of the f
 Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways.<small><sub>**MT:**</sub></small>
 [[Job.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.5|Job 28:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[There is\] a breach | <big><span class="asgreek">διακοπή</span></big> <sup><small><small>[[G6838]]</small></small></sup> |
-| of \[the\] rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| powder; | <big><span class="asgreek">κονίας</span></big> <sup><small><small>[[G8062]]</small></small></sup> |
-| and the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| forgetting | <big><span class="asgreek">επιλανθανόμενοι</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[the\] just | <big><span class="asgreek">δικαίαν</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| are weakened; | <big><span class="asgreek">ησθένησαν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| mortals -- | <big><span class="asgreek">βροτών</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
-| they are shaken. | <big><span class="asgreek">εσαλεύθησαν</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| \[There is\] a breach | **<big>[[G6838\|διακοπή]]</big>** |
+| of \[the\] rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| powder; | **<big>[[G8062\|κονίας]]</big>** |
+| and the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| forgetting | **<big>[[G1950\|επιλανθανόμενοι]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| \[the\] just | **<big>[[G1342\|δικαίαν]]</big>** |
+| are weakened; | **<big>[[G0770\|ησθένησαν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| mortals -- | **<big>[[G6699\|βροτών]]</big>** |
+| they are shaken. | **<big>[[G4531\|εσαλεύθησαν]]</big>** |
 [[Job.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.5|Job 28:5 >>]]</td></tr></table>
 
 

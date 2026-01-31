@@ -7,28 +7,28 @@ The LORD [is] my strength and my shield; my heart trusted in him, and I am helpe
 The LORD is my strength and my shield; my heart trusts in Him, and I am helped. Therefore my heart rejoices, and I give thanks to Him with my song.<small><sub>**MT:**</sub></small>
 [[Ps.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.6|<< Psalm 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.8|Psalm 28:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] my helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my defender; | <big><span class="asgreek">υπερασπιστής</span></big> <sup><small><small>[[G9544]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hoped | <big><span class="asgreek">ήλπισεν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was helped; | <big><span class="asgreek">εβοηθήθην</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| flourished again | <big><span class="asgreek">ανέθαλεν</span></big> <sup><small><small>[[G0330]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my will | <big><span class="asgreek">θελήματος</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will make acknowledgment | <big><span class="asgreek">εξομολογήσομαι</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] my helper | **<big>[[G0998\|βοηθός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my defender; | **<big>[[G9544\|υπερασπιστής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| hoped | **<big>[[G1679\|ήλπισεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I was helped; | **<big>[[G0997\|εβοηθήθην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| flourished again | **<big>[[G0330\|ανέθαλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my flesh | **<big>[[G4561\|σαρξ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| my will | **<big>[[G2307\|θελήματος]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will make acknowledgment | **<big>[[G1843\|εξομολογήσομαι]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Ps.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.6|<< Psalm 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.8|Psalm 28:8 >>]]</td></tr></table>
 
 

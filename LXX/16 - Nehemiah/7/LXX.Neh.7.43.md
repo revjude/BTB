@@ -7,19 +7,19 @@ The Levites: the children of Jeshua, of Kadmiel, [and] of the children of Hodeva
 The Levites: the descendants of Jeshua (through Kadmiel, through the line of Hodevah), 74.<small><sub>**MT:**</sub></small>
 [[Neh.7.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.42|<< Nehemiah 7:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.44|Nehemiah 7:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites; | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeshua | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| the \[son\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Kadmiel, | <big><span class="asgreek">Καδμιήλ</span></big> <sup><small><small>[[H6934]]</small></small></sup> |
-| \[with\] the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hodevah, | <big><span class="asgreek">Ωδουία</span></big> <sup><small><small>[[H1937]]</small></small></sup> |
-| seventy-four. | <big><span class="asgreek">εβδομηκοντατέσσαρες</span></big> <sup><small><small>[[G6992]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| Levites; | **<big>[[G3017\|Λευίται]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jeshua | **<big>[[G2424\|Ιησού]]</big>** |
+| the \[son\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Kadmiel, | **<big>[[H6934\|Καδμιήλ]]</big>** |
+| \[with\] the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Hodevah, | **<big>[[H1937\|Ωδουία]]</big>** |
+| seventy-four. | **<big>[[G6992\|εβδομηκοντατέσσαρες]]</big>** |
 [[Neh.7.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.42|<< Nehemiah 7:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.44|Nehemiah 7:44 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּיס‎</span></big> **kîyç** <small>*(keece)*</small> ==**purse**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>a form for <span class="ashebrew">‎כּוֹס‎</span><sup><small>[[H3563]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּיס‎</span></big>** **kîyç** <small>*(keece)*</small> ==**purse**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>a form for **<big>[[H3563|‎כּוֹס‎]]</big>**</small>
 
 $\quad$ bag, cup, purse.
 - ***a cup***
@@ -8,4 +8,4 @@ $\quad$ bag, cup, purse.
 **1)** bag, purse
 $\quad$ **1a)** for weights, money
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βαλάντιον</span><sup><small>[[G0905]]</small></sup>
+<small>See Greek: </small>**<big>[[G0905|βαλάντιον]]</big>**

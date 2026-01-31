@@ -4,8 +4,8 @@ King living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nahash</span>, the king of the Ammonites and father of Hanun, had shown kindness to David, prompting David to send envoys to console Hanun after Nahash's death.
 - An Ammonite king living at the time of United Monarchy, first mentioned at [[2Sam.10.2|2Sa.10.2]]; 
-- only referred to as Nahash<[[H5176H]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  father of Hanun<[[H2586G]]>.
+- only referred to as Nahash **<big>[[H5176|נָחָשׁ]]</big>**; 
+-  father of Hanun **<big>[[H2586|חָנוּן]]</big>**.
 
 Nahash, mentioned in 2 Samuel 10 and 1 Chronicles 19, was the king of the Ammonites during the reign of King David of Israel. He was the father of Hanun, who succeeded him as king. 
 
@@ -19,7 +19,7 @@ The account of Nahash and his son Hanun highlights the complex diplomatic relati
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176H) <small>*Hebrew*</small> | 3x | [[2Sa.10.2] ... [1Ch.19.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.10.2;1Ch.19.1;1Ch.19.2) |
-All Strong's for **Nahash**: \[[[H5176H]]\]
+| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176H) | 3x | [[2Sa.10.2] ... [1Ch.19.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.10.2;1Ch.19.1;1Ch.19.2) |
+All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**
 #### Related Profiles:
 - **[Hanun](H2586G)** (child)

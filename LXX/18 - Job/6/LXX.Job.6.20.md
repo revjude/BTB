@@ -7,17 +7,17 @@ They were confounded because they had hoped; they came thither, and were ashamed
 They are confounded because they had hoped; their arrival brings disappointment.<small><sub>**MT:**</sub></small>
 [[Job.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.19|<< Job 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.21|Job 6:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| they shall owe -- | <big><span class="asgreek">οφειλήσουσιν</span></big> <sup><small><small>[[G3784]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] things | <big><span class="asgreek">χρήμασι</span></big> <sup><small><small>[[G5536]]</small></small></sup> |
-| relied upon \[there\]. | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| for shame | **<big>[[G0152\|αισχύνην]]</big>** |
+| they shall owe -- | **<big>[[G3784\|οφειλήσουσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| cities | **<big>[[G4172\|πόλεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] things | **<big>[[G5536\|χρήμασι]]</big>** |
+| relied upon \[there\]. | **<big>[[G3982\|πεποιθότες]]</big>** |
 [[Job.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.19|<< Job 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.21|Job 6:21 >>]]</td></tr></table>
 
 

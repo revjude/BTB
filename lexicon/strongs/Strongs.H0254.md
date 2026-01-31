@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָח‎</span></big> **ʼâch** <small>*(awkh)*</small> ==**hearth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎אָח‎</span></big>** **ʼâch** <small>*(awkh)*</small> ==**hearth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ hearth.

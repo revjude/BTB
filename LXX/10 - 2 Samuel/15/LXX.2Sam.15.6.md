@@ -7,28 +7,28 @@ And on this manner did Absalom to all Israel that came to the king for judgment:
 Absalom did this to all the Israelites who came to the king for justice. In this way he stole the hearts of the men of Israel.<small><sub>**MT:**</sub></small>
 [[2Sam.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.5|<< 2 Samuel 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.7|2 Samuel 15:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones coming | <big><span class="asgreek">παραγινομένοις</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom adopted | <big><span class="asgreek">ιδιοποιείτο</span></big> <sup><small><small>[[G7710]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of \[the\] men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom did | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| ones coming | **<big>[[G3854\|παραγινομένοις]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king. | **<big>[[G0935\|βασιλέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom adopted | **<big>[[G7710\|ιδιοποιείτο]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of \[the\] men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Sam.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.5|<< 2 Samuel 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.7|2 Samuel 15:7 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִפְאוּת‎</span></big> **riphʼûwth** <small>*(rif-ooth')*</small> ==**healing**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָפָא‎</span><sup><small>[[H7495]]</small></sup></small>
+**<big><span class="ashebrew">‎רִפְאוּת‎</span></big>** **riphʼûwth** <small>*(rif-ooth')*</small> ==**healing**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7495|‎רָפָא‎]]</big>**</small>
 
 $\quad$ health.
 - ***a cure***

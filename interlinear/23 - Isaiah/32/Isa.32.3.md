@@ -6,15 +6,15 @@ Then the eyes of those who see will no longer be closed, and the ears of those w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.2|<< Isaiah 32:2]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.4|Isaiah 32:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will gaze  | <span class="ashebrew"><big>תִשְׁעֶ֖ינָה </big></span><small><small><sup>[[H8159]]</sup></small></small> &#8207;| tish.'Ei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] eyes of  | <span class="ashebrew"><big>עֵינֵ֣י </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] see  | <span class="ashebrew"><big>רֹאִ֑ים </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ro.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] ears of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָזְנֵ֥י </big></span><small><small><sup>[[H0241G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.ze.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] hear  | <span class="ashebrew"><big>שֹׁמְעִ֖ים </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sho.me.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will pay attention  | <span class="ashebrew"><big>תִּקְשַֽׁבְנָה </big></span><small><small><sup>[[H7181]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tik.Shav.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will gaze  |**<big>&#8207;[[H8159\|תִשְׁעֶ֖ינָה]]&#8207; </big>**| tish.'Ei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] see  |**<big>&#8207;[[H7200G\|רֹאִ֑ים]]&#8207; </big>**| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] ears of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0241G\|אָזְנֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ze.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] hear  |**<big>&#8207;[[H8085G\|שֹׁמְעִ֖ים]]&#8207; </big>**| sho.me.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will pay attention  |**<big>&#8207;[[H7181\|תִּקְשַֽׁבְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tik.Shav.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.2|<< Isaiah 32:2]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.4|Isaiah 32:4 >>]]</td></tr></table>
 
 

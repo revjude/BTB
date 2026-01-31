@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַזְגָּד‎</span></big> **ʻAzgâd** <small>*(az-gawd')*</small> ==**Azgad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַז‎</span><sup><small>[[H5794]]</small></sup> and <span class="ashebrew">‎גָּד‎</span><sup><small>[[H1409]]</small></sup>; stern troop</small>
+**<big><span class="ashebrew">‎עַזְגָּד‎</span></big>** **ʻAzgâd** <small>*(az-gawd')*</small> ==**Azgad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5794|‎עַז‎]]</big>** and **<big>[[H1409|‎גָּד‎]]</big>**; stern troop</small>
 
 $\quad$ Azgad.
 - § Azgad = *"Gad is mighty"*

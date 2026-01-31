@@ -11,41 +11,41 @@ On the third day, when morning came, there was thunder and lightning. A thick cl
 > $\quad$ referenced by: [[Heb.12.18|Heb 12:18]] ☩ [[Rev.4.5|Rev 4:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| happening | <big><span class="asgreek">γενηθέντος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| dawn, | <big><span class="asgreek">όρθρον</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| voices, | <big><span class="asgreek">φωναί</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lightnings, | <big><span class="asgreek">άστραπαι</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφέλαι</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| overcast | <big><span class="asgreek">γνοφώδεις</span></big> <sup><small><small>[[G6754]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Sinai; | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpet | <big><span class="asgreek">σάλπιγγος</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| sounded | <big><span class="asgreek">ήχει</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| greatly, | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were terrified | <big><span class="asgreek">επτοήθη</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| third | **<big>[[G5154\|τρίτη]]</big>** |
+| happening | **<big>[[G1096\|γενηθέντος]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| dawn, | **<big>[[G3722\|όρθρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1096\|εγένοντο]]</big>** |
+| voices, | **<big>[[G5456\|φωναί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lightnings, | **<big>[[G0796\|άστραπαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clouds | **<big>[[G3507\|νεφέλαι]]</big>** |
+| overcast | **<big>[[G6754\|γνοφώδεις]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Sinai; | **<big>[[H6790\|Σινά]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| trumpet | **<big>[[G4536\|σάλπιγγος]]</big>** |
+| sounded | **<big>[[G2278\|ήχει]]</big>** |
+| greatly, | **<big>[[G3173\|μέγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were terrified | **<big>[[G4422\|επτοήθη]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολή]]</big>** |
 [[Exod.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.15|<< Exodus 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.17|Exodus 19:17 >>]]</td></tr></table>
 
 

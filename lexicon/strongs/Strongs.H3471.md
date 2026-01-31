@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָשְׁפֵה‎</span></big> **yâshᵉphêh** <small>*(yaw-shef-ay')*</small> ==**jasper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יָשְׁפֵה‎</span></big>** **yâshᵉphêh** <small>*(yaw-shef-ay')*</small> ==**jasper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to polish</small>
 
 $\quad$ jasper.
@@ -6,4 +6,4 @@ $\quad$ jasper.
 
 **1)** jasper (a precious stone)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἴασπις</span><sup><small>[[G2393]]</small></sup>
+<small>See Greek: </small>**<big>[[G2393|ἴασπις]]</big>**

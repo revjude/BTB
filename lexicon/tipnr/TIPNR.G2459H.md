@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 Jesus, also called <span class='tipnrhighlight'>Justus</span>, was one of the few Jewish believers who supported Paul during his imprisonment.
 - A man living at the time of the New Testament, only mentioned at [[Col.4.11|Col.4.11]]; 
-- referred to as Justus<[[G2459H]]> \(<span class='tipnrLangGreek'>Ἰοῦστος</span>\), or Jesus<[[G2424J]]> \(<span class='tipnrLangGreek'>Ἰησοῦς</span>\).
+- referred to as Justus **<big>[[G2459|Ἰοῦστος]]</big>**, or Jesus **<big>[[G2424|Ἰησοῦς]]</big>**.
 
 Jesus Justus is mentioned in [[Col.4.11|Colossians 4:11]] as one of the few Jewish believers who supported Paul during his imprisonment. The context of the passage is Paul's final greetings and instructions to the Colossian church, where he mentions several individuals who have been a comfort and support to him \(Colossians 4:7-18\). 
 
@@ -18,6 +18,6 @@ Apart from this brief mention in Paul's letter to the Colossians, no other infor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Justus | [<span class='tipnrLangGreek'>Ἰοῦστος</span>](G2459H) <small>*Greek*</small> | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Justus\*\|reference=Col.4.11) |
-| Jesus | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424J) <small>*Greek*</small> | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jesus\*\|reference=Col.4.11) |
-All Strong's for **Justus or Jesus**: \[[[G2459H]]\] \[[[G2424J]]\]
+| Justus | [<span class='tipnrLangGreek'>Ἰοῦστος</span>](G2459H) | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Justus\*\|reference=Col.4.11) |
+| Jesus | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424J) | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jesus\*\|reference=Col.4.11) |
+All entries for **Justus or Jesus**:  **<big>[[G2459|Ἰοῦστος]]</big>** ☩  **<big>[[G2424|Ἰησοῦς]]</big>**

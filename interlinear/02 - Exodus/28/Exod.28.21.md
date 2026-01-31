@@ -6,27 +6,27 @@ The twelve stones are to correspond to the names of the sons of Israel, each eng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.20|<< Exodus 28:20]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.22|Exodus 28:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the stones  | <span class="ashebrew"><big>וְ֠ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲבָנִים </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> 'a.va.nim <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>תִּֽהְיֶ֜יןָ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yei.na <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] names of  | <span class="ashebrew"><big>שְׁמֹ֧ת </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| she.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֛ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֥ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Teim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶשְׂרֵ֖ה </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'es.Reh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| names their  | <span class="ashebrew"><big>שְׁמֹתָ֑ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| she.mo.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] engravings of  | <span class="ashebrew"><big>פִּתּוּחֵ֤י </big></span><small><small><sup>[[H6603]]</sup></small></small> &#8207;| pi.tu.Chei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a seal  | <span class="ashebrew"><big>חוֹתָם֙ </big></span><small><small><sup>[[H2368]]</sup></small></small> &#8207;| cho.Tam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| each one  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name its  | <span class="ashebrew"><big>שְׁמ֔ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>תִּֽהְיֶ֕יןָ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yei.na <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] two [plus]  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁנֵ֥י </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.Nei <small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עָשָׂ֖ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tribe[s]  | <span class="ashebrew"><big>שָֽׁבֶט </big></span><small><small><sup>[[H7626H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the stones  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0068G\|אֲבָנִים]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.va.nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֜יןָ]]&#8207; </big>**| tih.Yei.na<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] names of  |**<big>&#8207;[[H8034\|שְׁמֹ֧ת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֛ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֥ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֖ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| names their  |**<big>&#8207;[[H8034\|שְׁמֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] engravings of  |**<big>&#8207;[[H6603\|פִּתּוּחֵ֤י]]&#8207; </big>**| pi.tu.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a seal  |**<big>&#8207;[[H2368\|חוֹתָם֙]]&#8207; </big>**| cho.Tam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each one  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name its  |**<big>&#8207;[[H8034\|שְׁמ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֕יןָ]]&#8207; </big>**| tih.Yei.na<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] two [plus]  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8147\|שְׁנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עָשָׂ֖ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tribe[s]  |**<big>&#8207;[[H7626H\|שָֽׁבֶט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.20|<< Exodus 28:20]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.22|Exodus 28:22 >>]]</td></tr></table>
 
 

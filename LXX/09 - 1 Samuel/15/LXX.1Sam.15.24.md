@@ -7,30 +7,30 @@ And Saul said unto Samuel, I have sinned: for I have transgressed the commandmen
 Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice.<small><sub>**MT:**</sub></small>
 [[1Sam.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.23|<< 1 Samuel 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.25|1 Samuel 15:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samuel, | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| I have sinned, | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I violated | <big><span class="asgreek">παρέβην</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| by you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I feared | <big><span class="asgreek">εφοβήθην</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I hearkened to | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their voice. | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samuel, | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| I have sinned, | **<big>[[G0264\|ημάρτηκα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I violated | **<big>[[G3845\|παρέβην]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| saying | **<big>[[G4487\|ρήμα]]</big>** |
+| by you; | **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I feared | **<big>[[G5399\|εφοβήθην]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I hearkened to | **<big>[[G0191\|ήκουσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their voice. | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[1Sam.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.23|<< 1 Samuel 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.25|1 Samuel 15:25 >>]]</td></tr></table>
 
 

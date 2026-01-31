@@ -7,23 +7,23 @@ But if ye will not do so, behold, ye have sinned against the LORD: and be sure y
 But if you do not do this, you will certainly sin against the LORD—and be assured that your sin will find you out.<small><sub>**MT:**</sub></small>
 [[Num.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.22|<< Numbers 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.24|Numbers 32:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| so, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall sin | <big><span class="asgreek">αμαρτήσεσθε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώσεσθε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sin, | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should overtake you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">καταλάβη</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad \[things\] | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| do | **<big>[[G4160\|ποιήσητε]]</big>** |
+| so, | **<big>[[G3779\|ούτως]]</big>** |
+| you shall sin | **<big>[[G0264\|αμαρτήσεσθε]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall know | **<big>[[G1097\|γνώσεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your sin, | **<big>[[G0266\|αμαρτίαν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should overtake you | **<big>[[G1473\|υμάς]]</big>** **<big>[[G2638\|καταλάβη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| bad \[things\] | **<big>[[G2556\|κακά]]</big>** |
 [[Num.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.22|<< Numbers 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.24|Numbers 32:24 >>]]</td></tr></table>
 
 

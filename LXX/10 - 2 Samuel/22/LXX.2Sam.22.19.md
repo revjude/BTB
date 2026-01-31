@@ -7,16 +7,16 @@ They prevented me in the day of my calamity: but the LORD was my stay.
 They confronted me in my day of calamity, but the LORD was my support.<small><sub>**MT:**</sub></small>
 [[2Sam.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.18|<< 2 Samuel 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.20|2 Samuel 22:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They anticipated | <big><span class="asgreek">προέφθασάν</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of my affliction, | <big><span class="asgreek">θλίψεώς</span></big> <sup><small><small>[[G2347]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| my stay. | <big><span class="asgreek">επιστήριγμά</span></big> <sup><small><small>[[G7455]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They anticipated | **<big>[[G4399\|προέφθασάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of my affliction, | **<big>[[G2347\|θλίψεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> became | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| my stay. | **<big>[[G7455\|επιστήριγμά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Sam.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.18|<< 2 Samuel 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.20|2 Samuel 22:20 >>]]</td></tr></table>
 
 

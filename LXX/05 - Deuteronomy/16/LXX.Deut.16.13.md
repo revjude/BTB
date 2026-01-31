@@ -10,24 +10,24 @@ Thou shalt observe the feast of tabernacles seven days, after that thou hast gat
 You are to celebrate the Feast of Tabernacles for seven days after you have gathered the produce of your threshing floor and your winepress.<small><sub>**MT:**</sub></small>
 [[Deut.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.12|<< Deuteronomy 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.14|Deuteronomy 16:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of tents | <big><span class="asgreek">σκηνών</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| you shall observe | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bringing | <big><span class="asgreek">συναγαγείν</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your threshing-floor, | <big><span class="asgreek">άλωνός</span></big> <sup><small><small>[[G0257]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wine vat. | <big><span class="asgreek">ληνού</span></big> <sup><small><small>[[G3025]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] holiday | **<big>[[G1859\|εορτήν]]</big>** |
+| of tents | **<big>[[G4633\|σκηνών]]</big>** |
+| you shall observe | **<big>[[G4160\|ποιήσεις]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your bringing | **<big>[[G4863\|συναγαγείν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your threshing-floor, | **<big>[[G0257\|άλωνός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your wine vat. | **<big>[[G3025\|ληνού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.12|<< Deuteronomy 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.14|Deuteronomy 16:14 >>]]</td></tr></table>
 
 

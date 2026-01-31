@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשָּׂשכָר‎</span></big> **Yissâˢkâr** <small>*(yis-saw-kawr')*</small> ==**Issachar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(strictly yis-saws-kawr'); from <span class="ashebrew">‎נָשָׂא‎</span><sup><small>[[H5375]]</small></sup> and <span class="ashebrew">‎שָׂכָר‎</span><sup><small>[[H7939]]</small></sup>; he will bring a reward</small>
+**<big><span class="ashebrew">‎יִשָּׂשכָר‎</span></big>** **Yissâˢkâr** <small>*(yis-saw-kawr')*</small> ==**Issachar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(strictly yis-saws-kawr'); from **<big>[[H5375|‎נָשָׂא‎]]</big>** and **<big>[[H7939|‎שָׂכָר‎]]</big>**; he will bring a reward</small>
 
 $\quad$ Issachar.
 - § Issachar = *"there is recompense"*
@@ -13,4 +13,4 @@ n pr coll
 n pr loc
 **4)** the territory allocated to the descendants of Issachar when they entered the land of Canaan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰσαχάρ</span><sup><small>[[G2466]]</small></sup>
+<small>See Greek: </small>**<big>[[G2466|Ἰσαχάρ]]</big>**

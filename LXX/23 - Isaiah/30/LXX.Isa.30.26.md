@@ -7,41 +7,41 @@ Moreover the light of the moon shall be as the light of the sun, and the light o
 The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted.<small><sub>**MT:**</sub></small>
 [[Isa.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνης</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun; | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| seven-fold | <big><span class="asgreek">επταπλάσιον</span></big> <sup><small><small>[[G7487]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> should heal | <big><span class="asgreek">ιάσηται</span></big> <sup><small><small>[[G2390]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breaking up | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grief | <big><span class="asgreek">οδύνην</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your calamity | <big><span class="asgreek">πληγής</span></big> <sup><small><small>[[G4127]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall heal | <big><span class="asgreek">ιάσεται</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| moon | **<big>[[G4582\|σελήνης]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sun; | **<big>[[G2246\|ηλίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sun | **<big>[[G2246\|ηλίου]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| seven-fold | **<big>[[G7487\|επταπλάσιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> should heal | **<big>[[G2390\|ιάσηται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breaking up | **<big>[[G4938\|σύντριμμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| grief | **<big>[[G3601\|οδύνην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your calamity | **<big>[[G4127\|πληγής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall heal | **<big>[[G2390\|ιάσεται]]</big>** |
 [[Isa.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁפְעִי‎</span></big> **Shiphʻîy** <small>*(shif-ee')*</small> ==**Shiphi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שֶׁפַע‎</span><sup><small>[[H8228]]</small></sup>; copious</small>
+**<big><span class="ashebrew">‎שִׁפְעִי‎</span></big>** **Shiphʻîy** <small>*(shif-ee')*</small> ==**Shiphi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8228|‎שֶׁפַע‎]]</big>**; copious</small>
 
 $\quad$ Shiphi.
 - § Shiphi = *"abundant"*

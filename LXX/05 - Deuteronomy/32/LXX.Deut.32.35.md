@@ -11,26 +11,26 @@ Vengeance is Mine; I will repay. In due time their foot will slip; for their day
 > $\quad$ referenced by: [[Rom.12.19|Rom 12:19]] ☩ [[Heb.10.30|Heb 10:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of punishment | <big><span class="asgreek">εκδικήσεως</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| I shall recompense, | <big><span class="asgreek">ανταποδώσω</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should trip | <big><span class="asgreek">σφαλή</span></big> <sup><small><small>[[G9366]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of their destruction | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at hand | <big><span class="asgreek">πάρεστιν</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
-| prepared | <big><span class="asgreek">έτοιμα</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| for you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of punishment | **<big>[[G1557\|εκδικήσεως]]</big>** |
+| I shall recompense, | **<big>[[G0467\|ανταποδώσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a time | **<big>[[G2540\|καιρώ]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should trip | **<big>[[G9366\|σφαλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their foot | **<big>[[G4228\|πους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] near | **<big>[[G1451\|εγγύς]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of their destruction | **<big>[[G0684\|απωλείας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at hand | **<big>[[G3918\|πάρεστιν]]</big>** |
+| prepared | **<big>[[G2092\|έτοιμα]]</big>** |
+| for you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Deut.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.34|<< Deuteronomy 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.36|Deuteronomy 32:36 >>]]</td></tr></table>
 
 

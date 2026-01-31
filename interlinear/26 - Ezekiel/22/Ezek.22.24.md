@@ -6,21 +6,21 @@ Son of man, say unto her, Thou [art] the land that is not cleansed, nor rained u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.23|<< Ezekiel 22:23]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.25|Ezekiel 22:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֕ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אֱמָר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.mor- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to it  | <span class="ashebrew"><big>לָ֕ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| la <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֣תְּ </big></span><small><small><sup>[[H0859C]]</sup></small></small> &#8207;| 'at <small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a land  | <span class="ashebrew"><big>אֶ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] cleansed  | <span class="ashebrew"><big>מְטֹהָרָ֖ה </big></span><small><small><sup>[[H2891]]</sup></small></small> &#8207;| me.to.ha.Rah <small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֑יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rain its  | <span class="ashebrew"><big>גֻשְׁמָ֖ </big></span><small><small><sup>[[H1656]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| gush.Ma <small><sup>[[HVPp3fs]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| indignation  | <span class="ashebrew"><big>זָֽעַם </big></span><small><small><sup>[[H2195]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Za.'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֕ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אֱמָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.mor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  |**<big>&#8207;[[H9005\|לָ֕]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859C\|אַ֣תְּ]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a land  |**<big>&#8207;[[H0776G\|אֶ֔רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] cleansed  |**<big>&#8207;[[H2891\|מְטֹהָרָ֖ה]]&#8207; </big>**| me.to.ha.Rah<small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֑יא]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rain its  |**<big>&#8207;[[H1656\|גֻשְׁמָ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| gush.Ma<small><sup>[[HVPp3fs]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| indignation  |**<big>&#8207;[[H2195\|זָֽעַם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Za.'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.23|<< Ezekiel 22:23]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.25|Ezekiel 22:25 >>]]</td></tr></table>
 
 

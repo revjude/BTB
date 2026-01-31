@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָתַק‎</span></big> **ʻâthaq** <small>*(aw-thak')*</small> ==**to proceed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָתַק‎</span></big>** **ʻâthaq** <small>*(aw-thak')*</small> ==**to proceed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ copy out, leave off, become (wax) old, remove.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to move forward, proceed, move on
 $\quad$ $\quad$ **1b2)** to remove
 $\quad$ $\quad$ **1b3)** to transcribe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">ἀπαίρω</span><sup><small>[[G0522]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">παλαιόω</span><sup><small>[[G3822]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G0522|ἀπαίρω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G3822|παλαιόω]]</big>**

@@ -7,39 +7,39 @@ And thou shalt hang up the vail under the taches, that thou mayest bring in thit
 And hang the veil from the clasps and place the ark of the Testimony behind the veil. So the veil will separate the Holy Place from the Most Holy Place.<small><sub>**MT:**</sub></small>
 [[Exod.26.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.32|<< Exodus 26:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.34|Exodus 26:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">θήσεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil | <big><span class="asgreek">καταπέτασμα</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts. | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall carry in | <big><span class="asgreek">εισοίσεις</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| inside | <big><span class="asgreek">εσώτερον</span></big> <sup><small><small>[[G7520]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil, | <big><span class="asgreek">καταπέτασματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony. | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall separate | <big><span class="asgreek">διοριεί</span></big> <sup><small><small>[[G6938]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil | <big><span class="asgreek">καταπέτασμα</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall put | **<big>[[G5087\|θήσεις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| veil | **<big>[[G2665\|καταπέτασμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| posts. | **<big>[[G4769\|στύλους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall carry in | **<big>[[G1533\|εισοίσεις]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| inside | **<big>[[G7520\|εσώτερον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| veil, | **<big>[[G2665\|καταπέτασματος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony. | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall separate | **<big>[[G6938\|διοριεί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| veil | **<big>[[G2665\|καταπέτασμα]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies. | **<big>[[G0039\|αγίων]]</big>** |
 [[Exod.26.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.32|<< Exodus 26:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.34|Exodus 26:34 >>]]</td></tr></table>
 
 

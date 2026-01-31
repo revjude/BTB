@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוֹגַרְמָה‎</span></big> **Tôwgarmâh** <small>*(to-gar-maw')*</small> ==**Togarmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">תֹּגַרְמָה</span> **Tôgarmâh** <small>*(to-gar-maw')*</small>; probably of foreign derivation</small>
+**<big><span class="ashebrew">‎תּוֹגַרְמָה‎</span></big>** **Tôwgarmâh** <small>*(to-gar-maw')*</small> ==**Togarmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֹּגַרְמָה</span></big>** **Tôgarmâh** <small>*(to-gar-maw')*</small>; probably of foreign derivation</small>
 
 $\quad$ Togarmah.
 - § Togarmah = *"thou wilt break her"*

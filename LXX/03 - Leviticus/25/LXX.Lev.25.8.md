@@ -7,27 +7,27 @@ And thou shalt number seven sabbaths of years unto thee, seven times seven years
 And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years.<small><sub>**MT:**</sub></small>
 [[Lev.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.7|<< Leviticus 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.9|Leviticus 25:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall count out | <big><span class="asgreek">εξαριθμήσεις</span></big> <sup><small><small>[[G7300]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| rests | <big><span class="asgreek">αναπαύσεις</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| of years, | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| seven times. | <big><span class="asgreek">επτάκις</span></big> <sup><small><small>[[G2034]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονταί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| periods of seven | <big><span class="asgreek">εβδομάδες</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| of years, | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| nine | <big><span class="asgreek">εννέα</span></big> <sup><small><small>[[G1767]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall count out | **<big>[[G7300\|εξαριθμήσεις]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| rests | **<big>[[G0372\|αναπαύσεις]]</big>** |
+| of years, | **<big>[[G2094\|ετών]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| seven times. | **<big>[[G2034\|επτάκις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| periods of seven | **<big>[[G6988\|εβδομάδες]]</big>** |
+| of years, | **<big>[[G2094\|ετών]]</big>** |
+| nine | **<big>[[G1767\|εννέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Lev.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.7|<< Leviticus 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.9|Leviticus 25:9 >>]]</td></tr></table>
 
 

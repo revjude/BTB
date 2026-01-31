@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָלַף‎</span></big> **ʼâlaph** <small>*(aw-laf')*</small> ==**to produce thousands**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>denominative from <span class="ashebrew">‎אֶלֶף‎</span><sup><small>[[H0505]]</small></sup></small>
+**<big><span class="ashebrew">‎אָלַף‎</span></big>** **ʼâlaph** <small>*(aw-laf')*</small> ==**to produce thousands**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>denominative from **<big>[[H0505|‎אֶלֶף‎]]</big>**</small>
 
 $\quad$ bring forth thousands.
 - causative, ***to make a******thousandfold***

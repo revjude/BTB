@@ -7,25 +7,25 @@ And they shall know that I [am] the LORD, when I have set a fire in Egypt, and [
 Then they will know that I am the LORD when I set fire to Egypt and all her helpers are shattered.<small><sub>**MT:**</sub></small>
 [[Ezek.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.7|<< Ezekiel 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.9|Ezekiel 30:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I shall appoint | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be broken | <big><span class="asgreek">συντριβώσι</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| helping | <big><span class="asgreek">βοηθούντες</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| I shall appoint | **<big>[[G1325\|δω]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be broken | **<big>[[G4937\|συντριβώσι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| helping | **<big>[[G0997\|βοηθούντες]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
 [[Ezek.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.7|<< Ezekiel 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.9|Ezekiel 30:9 >>]]</td></tr></table>
 
 

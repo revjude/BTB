@@ -6,14 +6,14 @@ And Jehu commanded, “Proclaim a solemn assembly for Baal.” So they announced
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.19|<< 2 Kings 10:19]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.21|2 Kings 10:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehu  | <span class="ashebrew"><big>יֵה֗וּא </big></span><small><small><sup>[[H3058H]]</sup></small></small> &#8207;| ye.Hu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| consecrate  | <span class="ashebrew"><big>קַדְּשׁ֧וּ </big></span><small><small><sup>[[H6942G]]</sup></small></small> &#8207;| ka.de.Shu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an assembly  | <span class="ashebrew"><big>עֲצָרָ֛ה </big></span><small><small><sup>[[H6116]]</sup></small></small> &#8207;| 'a.tza.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> Baal  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַּ֖עַל </big></span><small><small><sup>[[H1168A]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Ba.'al <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they proclaimed [it]  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקְרָֽאוּ </big></span><small><small><sup>[[H7121I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yik.Ra.'u <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  |**<big>&#8207;[[H3058H\|יֵה֗וּא]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consecrate  |**<big>&#8207;[[H6942G\|קַדְּשׁ֧וּ]]&#8207; </big>**| ka.de.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an assembly  |**<big>&#8207;[[H6116\|עֲצָרָ֛ה]]&#8207; </big>**| 'a.tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> Baal  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1168A\|בַּ֖עַל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they proclaimed [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.19|<< 2 Kings 10:19]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.21|2 Kings 10:21 >>]]</td></tr></table>
 
 

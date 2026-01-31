@@ -6,16 +6,16 @@ He who guards his mouth protects his life, but the one who opens his lips invite
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.2|<< Proverbs 13:2]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.4|Proverbs 13:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] guards  | <span class="ashebrew"><big>נֹצֵ֣ר </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| no.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth his  | <span class="ashebrew"><big>פִּ֭י </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| pi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] protecting  | <span class="ashebrew"><big>שֹׁמֵ֣ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life his  | <span class="ashebrew"><big>נַפְשׁ֑ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] opens  | <span class="ashebrew"><big>פֹּשֵׂ֥ק </big></span><small><small><sup>[[H6589]]</sup></small></small> &#8207;| po.Sek <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips his  | <span class="ashebrew"><big>שְׂ֝פָתָ֗י </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| Se.fa.Ta <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ruin  | <span class="ashebrew"><big>מְחִתָּה </big></span><small><small><sup>[[H4288]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me.chi.tah- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to him  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] guards  |**<big>&#8207;[[H5341\|נֹצֵ֣ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth his  |**<big>&#8207;[[H6310G\|פִּ֭י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] protecting  |**<big>&#8207;[[H8104H\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life his  |**<big>&#8207;[[H5315H\|נַפְשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] opens  |**<big>&#8207;[[H6589\|פֹּשֵׂ֥ק]]&#8207; </big>**| po.Sek<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips his  |**<big>&#8207;[[H8193G\|שְׂ֝פָתָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Se.fa.Ta<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ruin  |**<big>&#8207;[[H4288\|מְחִתָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.chi.tah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.2|<< Proverbs 13:2]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.4|Proverbs 13:4 >>]]</td></tr></table>
 
 

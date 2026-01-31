@@ -6,23 +6,23 @@ And God raised up against Solomon another adversary, Rezon the son of Eliada, wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.22|<< 1 Kings 11:22]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.24|1 Kings 11:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he raised up  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֨קֶם </big></span><small><small><sup>[[H6965H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.kem <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֥ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>ל </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an adversary  | <span class="ashebrew"><big>שָׂטָ֔ן </big></span><small><small><sup>[[H7854]]</sup></small></small> &#8207;| sa.Tan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rezon  | <span class="ashebrew"><big>רְז֖וֹן </big></span><small><small><sup>[[H7331]]</sup></small></small> &#8207;| re.Zon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliada  | <span class="ashebrew"><big>אֶלְיָדָ֑ע </big></span><small><small><sup>[[H0450H]]</sup></small></small> &#8207;| 'el.ya.Da' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had fled  | <span class="ashebrew"><big>בָּרַ֗ח </big></span><small><small><sup>[[H1272]]</sup></small></small> &#8207;| ba.Rach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֛ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hadadezer  | <span class="ashebrew"><big>הֲדַדְעֶ֥זֶר </big></span><small><small><sup>[[H1909]]</sup></small></small> &#8207;| ha.dad.'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zobah  | <span class="ashebrew"><big>צוֹבָ֖ה </big></span><small><small><sup>[[H6678G]]</sup></small></small> &#8207;| tzo.Vah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| master\<s> his  | <span class="ashebrew"><big>אֲדֹנָֽי </big></span><small><small><sup>[[H0113]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.do.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he raised up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|יָּ֨קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an adversary  |**<big>&#8207;[[H7854\|שָׂטָ֔ן]]&#8207; </big>**| sa.Tan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rezon  |**<big>&#8207;[[H7331\|רְז֖וֹן]]&#8207; </big>**| re.Zon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliada  |**<big>&#8207;[[H0450H\|אֶלְיָדָ֑ע]]&#8207; </big>**| 'el.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had fled  |**<big>&#8207;[[H1272\|בָּרַ֗ח]]&#8207; </big>**| ba.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֛ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hadadezer  |**<big>&#8207;[[H1909\|הֲדַדְעֶ֥זֶר]]&#8207; </big>**| ha.dad.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zobah  |**<big>&#8207;[[H6678G\|צוֹבָ֖ה]]&#8207; </big>**| tzo.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| master\<s> his  |**<big>&#8207;[[H0113\|אֲדֹנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.22|<< 1 Kings 11:22]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.24|1 Kings 11:24 >>]]</td></tr></table>
 
 

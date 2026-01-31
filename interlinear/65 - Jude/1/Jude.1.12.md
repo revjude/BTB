@@ -6,31 +6,31 @@ These men are hidden reefs in your love feasts, shamelessly feasting with you bu
 <small><sub>**Literal:**</sub></small>
 These are the ones in the love feasts of you hidden reefs, feasting together [with you] fearlessly themselves shepherding; clouds without water, by winds being carried away, trees autumnal without fruit, twice having died, having been uprooted;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.11|<< Jude 1:11]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.13|Jude 1:13 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| These |<big><span class="asgreek">Οὗτοί</span></big> <small><small><sup>[[G3778]]</sup></small></small> |Houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are |<big><span class="asgreek">εἰσιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the ones |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ταῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| love feasts |<big><span class="asgreek">ἀγάπαις</span></big> <small><small><sup>[[G0026]]</sup></small></small> |agapais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hidden reefs, |<big><span class="asgreek">σπιλάδες,</span></big> <small><small><sup>[[G4694]]</sup></small></small> |spilades <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| feasting together [with you] |<big><span class="asgreek">συνευωχούμενοι,</span></big> <small><small><sup>[[G4910]]</sup></small></small> |suneuōchoumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fearlessly |<big><span class="asgreek">ἀφόβως</span></big> <small><small><sup>[[G0870]]</sup></small></small> |aphobōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| themselves |<big><span class="asgreek">ἑαυτοὺς</span></big> <small><small><sup>[[G1438]]</sup></small></small> |he'autous <small><sup>[[F-3APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shepherding; |<big><span class="asgreek">ποιμαίνοντες·</span></big> <small><small><sup>[[G4165]]</sup></small></small> |poimainontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| clouds |<big><span class="asgreek">νεφέλαι</span></big> <small><small><sup>[[G3507]]</sup></small></small> |nephelai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| without water, |<big><span class="asgreek">ἄνυδροι,</span></big> <small><small><sup>[[G0504]]</sup></small></small> |anudroi <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by |<big><span class="asgreek">ὑπὸ</span></big> <small><small><sup>[[G5259G]]</sup></small></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| winds |<big><span class="asgreek">ἀνέμων</span></big> <small><small><sup>[[G0417]]</sup></small></small> |anemōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being carried away, [^1] |<big><span class="asgreek">παραφερόμεναι,</span></big> <small><small><sup>[[G3911]]</sup></small></small> |parapheromenai <small><sup>[[V-PPP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| trees |<big><span class="asgreek">δένδρα</span></big> <small><small><sup>[[G1186]]</sup></small></small> |dendra <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| autumnal |<big><span class="asgreek">φθινοπωρινὰ</span></big> <small><small><sup>[[G5352]]</sup></small></small> |phthinopōrina <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| without fruit, |<big><span class="asgreek">ἄκαρπα,</span></big> <small><small><sup>[[G0175]]</sup></small></small> |akarpa <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| twice |<big><span class="asgreek">δὶς</span></big> <small><small><sup>[[G1364]]</sup></small></small> |dis <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having died, |<big><span class="asgreek">ἀποθανόντα,</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apothanonta <small><sup>[[V-2AAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having been uprooted; |<big><span class="asgreek">ἐκριζωθέντα·</span></big> <small><small><sup>[[G1610]]</sup></small></small> |ekrizōthenta <small><sup>[[V-APP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| These |**<big>[[G3778\|Οὗτοί]]</big>**  |Houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the ones |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ταῖς]]</big>**  |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| love feasts |**<big>[[G0026\|ἀγάπαις]]</big>**  |agapais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hidden reefs, |**<big>[[G4694\|σπιλάδες,]]</big>**  |spilades <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| feasting together [with you] |**<big>[[G4910\|συνευωχούμενοι,]]</big>**  |suneuōchoumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fearlessly |**<big>[[G0870\|ἀφόβως]]</big>**  |aphobōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| themselves |**<big>[[G1438\|ἑαυτοὺς]]</big>**  |he'autous <small><sup>[[F-3APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shepherding; |**<big>[[G4165\|ποιμαίνοντες·]]</big>**  |poimainontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| clouds |**<big>[[G3507\|νεφέλαι]]</big>**  |nephelai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| without water, |**<big>[[G0504\|ἄνυδροι,]]</big>**  |anudroi <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by |**<big>[[G5259G\|ὑπὸ]]</big>**  |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| winds |**<big>[[G0417\|ἀνέμων]]</big>**  |anemōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being carried away, [^1] |**<big>[[G3911\|παραφερόμεναι,]]</big>**  |parapheromenai <small><sup>[[V-PPP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| trees |**<big>[[G1186\|δένδρα]]</big>**  |dendra <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| autumnal |**<big>[[G5352\|φθινοπωρινὰ]]</big>**  |phthinopōrina <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| without fruit, |**<big>[[G0175\|ἄκαρπα,]]</big>**  |akarpa <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| twice |**<big>[[G1364\|δὶς]]</big>**  |dis <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having died, |**<big>[[G0599\|ἀποθανόντα,]]</big>**  |apothanonta <small><sup>[[V-2AAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having been uprooted; |**<big>[[G1610\|ἐκριζωθέντα·]]</big>**  |ekrizōthenta <small><sup>[[V-APP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.11|<< Jude 1:11]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.13|Jude 1:13 >>]]</td></tr></table>
 
-[^1]: ==TR==: being carried about | <span class="asgreek">περιφερόμεναι</span><small><sup>[[G4064]]</sup></small> | peripheromenai<small><sup>[[V-PPP-NPF]]</sup></small>
+[^1]: ==TR==: being carried about | **<big>[[G4064|περιφερόμεναι]]</big>** | peripheromenai<small><sup>[[V-PPP-NPF]]</sup></small>

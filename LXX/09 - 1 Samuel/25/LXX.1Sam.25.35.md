@@ -7,33 +7,33 @@ So David received of her hand [that] which she had brought him, and said unto he
 Then David accepted from her hand what she had brought him, and he said to her, “Go home in peace. See, I have heeded your voice and granted your request.”<small><sub>**MT:**</sub></small>
 [[1Sam.25.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.34|<< 1 Samuel 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.36|1 Samuel 25:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| her hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she brought | <big><span class="asgreek">ήνεγκεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house. | <big><span class="asgreek">οίκόν</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| See, | <big><span class="asgreek">βλέπε</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| I hearkened to | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I took up | <big><span class="asgreek">ηρέτισα</span></big> <sup><small><small>[[G0140]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your person! | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| her hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| she brought | **<big>[[G5342\|ήνεγκεν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| Ascend | **<big>[[G0305\|ανάβηθι]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your house. | **<big>[[G3624\|οίκόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| See, | **<big>[[G0991\|βλέπε]]</big>** |
+| I hearkened to | **<big>[[G0191\|ήκουσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I took up | **<big>[[G0140\|ηρέτισα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your person! | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[1Sam.25.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.34|<< 1 Samuel 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.36|1 Samuel 25:36 >>]]</td></tr></table>
 
 

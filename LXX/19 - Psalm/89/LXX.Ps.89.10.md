@@ -7,21 +7,21 @@ Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thin
 You crushed Rahab like a carcass; You scattered Your enemies with Your mighty arm.<small><sub>**MT:**</sub></small>
 [[Ps.89.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.9|<< Psalm 89:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.11|Psalm 89:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| humbled | <big><span class="asgreek">εταπείνωσας</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| slain | <big><span class="asgreek">τραυματίαν</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| \[the\] proud | <big><span class="asgreek">υπερήφανον</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arm | <big><span class="asgreek">βραχίονι</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your might | <big><span class="asgreek">δυνάμεώς</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you dispersed | <big><span class="asgreek">διεσκόρπισας</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies. | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You | **<big>[[G1473\|συ]]</big>** |
+| humbled | **<big>[[G5013\|εταπείνωσας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| slain | **<big>[[G9470\|τραυματίαν]]</big>** |
+| \[the\] proud | **<big>[[G5244\|υπερήφανον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| arm | **<big>[[G1023\|βραχίονι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your might | **<big>[[G1411\|δυνάμεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you dispersed | **<big>[[G1287\|διεσκόρπισας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your enemies. | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.89.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.9|<< Psalm 89:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.11|Psalm 89:11 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶרֶג‎</span></big> **ʼereg** <small>*(eh'-reg)*</small> ==**shuttle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָרַג‎</span><sup><small>[[H0707]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶרֶג‎</span></big>** **ʼereg** <small>*(eh'-reg)*</small> ==**shuttle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0707|‎אָרַג‎]]</big>**</small>
 
 $\quad$ beam, weaver's shuttle.
 - ***a weaving***

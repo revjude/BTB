@@ -1,4 +1,3 @@
-<span class="ashebrew">‎רְפָיָה‎</span> <small>***(re.pha.yah)***</small> ==**Rephaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-- A man of the tribe of Simeon(?) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.42|1Ch.4.42]]
--  son of: Ishi ([[H3469I]])
--  brother of: Pelatiah ([[H6410H]]), Neariah ([[H5294H]]) and Uzziel ([[H5816H]])
+- A man of the tribe of Simeon living at the time of Divided Monarchy, only mentioned at [[1Chr.4.42|1Ch.4.42]]
+-  son of: Ishi (**<big>[[H3469I|יִשְׁעִי]]</big>**)
+-  brother of: Pelatiah (**<big>[[H6410H|פְּלַטְיָה]]</big>**), Neariah (**<big>[[H5294H|נְעַרְיָה]]</big>**) and Uzziel (**<big>[[H5816H|עֻזִּיאֵל]]</big>**)

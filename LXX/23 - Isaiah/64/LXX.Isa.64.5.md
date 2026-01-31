@@ -7,26 +7,26 @@ Thou meetest him that rejoiceth and worketh righteousness, [those that] remember
 You welcome those who gladly do right, who remember Your ways. Surely You were angry, for we sinned. How can we be saved if we remain in our sins?<small><sub>**MT:**</sub></small>
 [[Isa.64.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.4|<< Isaiah 64:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.6|Isaiah 64:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For he shall meet with | <big><span class="asgreek">συναντήσεται</span></big> <sup><small><small>[[G4876]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| justice, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be remembered. | <big><span class="asgreek">μνησθήσονται</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have been provoked to anger, | <big><span class="asgreek">ωργίσθης</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sinned; | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| we were wandered. | <big><span class="asgreek">επλανήθημεν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| For he shall meet with | **<big>[[G4876\|συναντήσεται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| doing | **<big>[[G4160\|ποιούσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| justice, | **<big>[[G1342\|δίκαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your ways | **<big>[[G3598\|οδών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be remembered. | **<big>[[G3403\|μνησθήσονται]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| have been provoked to anger, | **<big>[[G3710\|ωργίσθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| sinned; | **<big>[[G0264\|ημάρτομεν]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| we were wandered. | **<big>[[G4105\|επλανήθημεν]]</big>** |
 [[Isa.64.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.4|<< Isaiah 64:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.6|Isaiah 64:6 >>]]</td></tr></table>
 
 

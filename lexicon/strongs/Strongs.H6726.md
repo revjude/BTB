@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִיּוֹן‎</span></big> **Tsîyôwn** <small>*(tsee-yone')*</small> ==**Zion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same (regularly) as <span class="ashebrew">‎צִיּוּן‎</span><sup><small>[[H6725]]</small></sup></small>
+**<big><span class="ashebrew">‎צִיּוֹן‎</span></big>** **Tsîyôwn** <small>*(tsee-yone')*</small> ==**Zion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same (regularly) as **<big>[[H6725|‎צִיּוּן‎]]</big>**</small>
 
 $\quad$ Zion.
 - § Zion = *"parched place"*
@@ -7,4 +7,4 @@ $\quad$ Zion.
 
 **1)** another name for Jerusalem especially in the prophetic books
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σιών</span><sup><small>[[G4622]]</small></sup>
+<small>See Greek: </small>**<big>[[G4622|Σιών]]</big>**

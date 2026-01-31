@@ -7,35 +7,35 @@ Then said he unto Zebah and Zalmunna, What manner of men [were they] whom ye sle
 Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”<small><sub>**MT:**</sub></small>
 [[Judg.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.19|Judges 8:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Zebah | <big><span class="asgreek">Ζεβεέ</span></big> <sup><small><small>[[H2078]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zalmunna, | <big><span class="asgreek">Σαλμανά</span></big> <sup><small><small>[[H6759]]</small></small></sup> |
-| What \[manner are\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you killed | <big><span class="asgreek">απεκτείνατε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Tabor? | <big><span class="asgreek">Θαβόρ</span></big> <sup><small><small>[[H8396]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] likened | <big><span class="asgreek">όμοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to you -- | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιος</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] appearance | <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
-| of sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of kings. | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Zebah | **<big>[[H2078\|Ζεβεέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zalmunna, | **<big>[[H6759\|Σαλμανά]]</big>** |
+| What \[manner are\] | **<big>[[G4226\|που]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you killed | **<big>[[G0615\|απεκτείνατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Tabor? | **<big>[[H8396\|Θαβόρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| so | **<big>[[G5613\|ως]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| \[are\] likened | **<big>[[G3664\|όμοιός]]</big>** |
+| to you -- | **<big>[[G1473\|σοι]]</big>** |
+| likened | **<big>[[G3664\|όμοιος]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] appearance | **<big>[[G1491\|είδος]]</big>** |
+| of sons | **<big>[[G5207\|υιών]]</big>** |
+| of kings. | **<big>[[G0935\|βασιλέων]]</big>** |
 [[Judg.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.19|Judges 8:19 >>]]</td></tr></table>
 
 

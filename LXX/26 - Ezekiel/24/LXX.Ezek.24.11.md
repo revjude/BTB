@@ -7,29 +7,29 @@ Then set it empty upon the coals thereof, that the brass of it may be hot, and m
 Set the empty pot on its coals until it becomes hot and its copper glows. Then its impurity will melt within; its rust will be consumed.<small><sub>**MT:**</sub></small>
 [[Ezek.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.10|<< Ezekiel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.12|Ezekiel 24:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it should stand | <big><span class="asgreek">στη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her coals, | <big><span class="asgreek">άνθρακας</span></big> <sup><small><small>[[G0440]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">οπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| it should be burnt through | <big><span class="asgreek">προσκαυθή</span></big> <sup><small><small>[[G8926]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be heated | <big><span class="asgreek">θερμανθή</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her brass \[utensils\] | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should melt away | <big><span class="asgreek">τακή</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| her uncleanness | <big><span class="asgreek">ακαθαρσιας</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should fail | <big><span class="asgreek">εκλείπη</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her poison | <big><span class="asgreek">ιός</span></big> <sup><small><small>[[G2447]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| it should stand | **<big>[[G2476\|στη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her coals, | **<big>[[G0440\|άνθρακας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| so that | **<big>[[G3704\|οπως]]</big>** |
+| it should be burnt through | **<big>[[G8926\|προσκαυθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be heated | **<big>[[G2328\|θερμανθή]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her brass \[utensils\] | **<big>[[G5475\|χαλκός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should melt away | **<big>[[G5080\|τακή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of her | **<big>[[G1473\|αυτής]]</big>** |
+| her uncleanness | **<big>[[G0167\|ακαθαρσιας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should fail | **<big>[[G1587\|εκλείπη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her poison | **<big>[[G2447\|ιός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.10|<< Ezekiel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.12|Ezekiel 24:12 >>]]</td></tr></table>
 
 

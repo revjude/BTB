@@ -6,14 +6,14 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.33|<< Deuteronomy 32:33]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.35|Deuteronomy 32:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] that  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stored up  | <span class="ashebrew"><big>כָּמֻ֣ס </big></span><small><small><sup>[[H3647]]</sup></small></small> &#8207;| ka.Mus <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with me  | <span class="ashebrew"><big>עִמָּ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>דִ֑י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.ma.D <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sealed up  | <span class="ashebrew"><big>חָתֻ֖ם </big></span><small><small><sup>[[H2856]]</sup></small></small> &#8207;| cha.Tum <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in storehouses my  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אוֹצְרֹתָֽ </big></span><small><small><sup>[[H0214]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'otz.ro.Ta <small><sup>[[HNcfpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] that  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stored up  |**<big>&#8207;[[H3647\|כָּמֻ֣ס]]&#8207; </big>**| ka.Mus<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9030\|דִ֑י]]&#8207; </big>**| 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sealed up  |**<big>&#8207;[[H2856\|חָתֻ֖ם]]&#8207; </big>**| cha.Tum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in storehouses my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0214\|אוֹצְרֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'otz.ro.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.33|<< Deuteronomy 32:33]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.35|Deuteronomy 32:35 >>]]</td></tr></table>
 
 

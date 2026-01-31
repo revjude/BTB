@@ -7,35 +7,35 @@ Then spake Jeremiah unto all the princes and to all the people, saying, The LORD
 But Jeremiah said to all the officials and all the people, “The LORD sent me to prophesy against this house and against this city all the words that you have heard.<small><sub>**MT:**</sub></small>
 [[Jer.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.11|<< Jeremiah 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.13|Jeremiah 26:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremiah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιερεμίας</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers, | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to prophesy | <big><span class="asgreek">προφητεύσαι</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you heard. | <big><span class="asgreek">ηκούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeremiah said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2408\|Ιερεμίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers, | **<big>[[G0758\|άρχοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| sent | **<big>[[G0649\|απέστειλέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to prophesy | **<big>[[G4395\|προφητεύσαι]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this city | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| you heard. | **<big>[[G0191\|ηκούσατε]]</big>** |
 [[Jer.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.11|<< Jeremiah 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.13|Jeremiah 26:13 >>]]</td></tr></table>
 
 

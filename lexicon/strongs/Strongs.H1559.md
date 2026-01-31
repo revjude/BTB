@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּלָל‎</span></big> **Gâlâl** <small>*(gaw-lawl')*</small> ==**Galal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּלַל‎</span><sup><small>[[H1556]]</small></sup>, in the sense of <span class="asaramaic">‎גְּלָל‎</span><sup><small>[[H1560]]</small></sup>; great</small>
+**<big><span class="ashebrew">‎גָּלָל‎</span></big>** **Gâlâl** <small>*(gaw-lawl')*</small> ==**Galal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1556|‎גָּלַל‎]]</big>**, in the sense of **<big>[[H1560|‎גְּלָל‎]]</big>**; great</small>
 
 $\quad$ Galal.
 - § Galal = *"influential"*

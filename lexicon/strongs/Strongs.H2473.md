@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹלוֹן‎</span></big> **Chôlôwn** <small>*(kho-lone')*</small> ==**Holon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">חֹלֹן</span> **Chôlôn** <small>*(kholone')*</small>; probably from <span class="ashebrew">‎חוֹל‎</span><sup><small>[[H2344]]</small></sup>; sandy</small>
+**<big><span class="ashebrew">‎חֹלוֹן‎</span></big>** **Chôlôwn** <small>*(kho-lone')*</small> ==**Holon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">חֹלֹן</span></big>** **Chôlôn** <small>*(kholone')*</small>; probably from **<big>[[H2344|‎חוֹל‎]]</big>**; sandy</small>
 
 $\quad$ Holon.
 - § Holon = *"sandy"*

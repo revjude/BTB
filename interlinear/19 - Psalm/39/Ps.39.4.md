@@ -6,19 +6,19 @@ LORD, make me to know mine end, and the measure of my days, what it [is; that] I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.3|<< Psalms 39:3]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.5|Psalms 39:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| make known to me  | <span class="ashebrew"><big>הוֹדִ֘יעֵ֤ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ho.Di.'E. <small><sup>[[HVhv2ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֨ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| end my  | <span class="ashebrew"><big>קִצִּ֗ </big></span><small><small><sup>[[H7093]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ki.Tz <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] measure of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִדַּ֣ת </big></span><small><small><sup>[[H4060A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mi.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days my  | <span class="ashebrew"><big>יָמַ֣ </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ya.Ma <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] it  | <span class="ashebrew"><big>הִ֑יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let me know  | <span class="ashebrew"><big>אֵ֝דְעָ֗ה </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| 'e.de.'Ah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how!  | <span class="ashebrew"><big>מֶה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| meh- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fleeting  | <span class="ashebrew"><big>חָדֵ֥ל </big></span><small><small><sup>[[H2310]]</sup></small></small> &#8207;| cha.Del <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] I  | <span class="ashebrew"><big>אָֽנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make known to me  |**<big>&#8207;[[H3045\|הוֹדִ֘יעֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ho.Di.'E.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| end my  |**<big>&#8207;[[H7093\|קִצִּ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ki.Tz<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] measure of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4060A\|מִדַּ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days my  |**<big>&#8207;[[H3117G\|יָמַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] it  |**<big>&#8207;[[H1931\|הִ֑יא]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me know  |**<big>&#8207;[[H3045\|אֵ֝דְעָ֗ה]]&#8207; </big>**| 'e.de.'Ah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H4100\|מֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| meh-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fleeting  |**<big>&#8207;[[H2310\|חָדֵ֥ל]]&#8207; </big>**| cha.Del<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] I  |**<big>&#8207;[[H0589\|אָֽנִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.3|<< Psalms 39:3]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.5|Psalms 39:5 >>]]</td></tr></table>
 
 

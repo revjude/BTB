@@ -6,25 +6,25 @@ For this is what the Lord GOD says: I will deal with you according to your deeds
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will deal with  [^2] | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָשִׂ֥יתִי </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;[^3] | ve. <small><sup>[[Hc]]</sup></small> 'a.sit <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| with you  | <span class="ashebrew"><big>אוֹתָ֖ </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have done  | <span class="ashebrew"><big>עָשִׂ֑ית </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Sit <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [you] who  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you despised  | <span class="ashebrew"><big>בָּזִ֥ית </big></span><small><small><sup>[[H0959]]</sup></small></small> &#8207;| ba.Zit <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an oath  | <span class="ashebrew"><big>אָלָ֖ה </big></span><small><small><sup>[[H0423]]</sup></small></small> &#8207;| 'a.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by breaking  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הָפֵ֥ר </big></span><small><small><sup>[[H6565A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ha.Fer <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a covenant  | <span class="ashebrew"><big>בְּרִֽית </big></span><small><small><sup>[[H1285]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be.Rit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹ֤ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will deal with  [^2]|**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֥יתִי]]&#8207; </big>**[^3] | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| with you  |**<big>&#8207;[[H0854\|אוֹתָ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'o.Ta<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have done  |**<big>&#8207;[[H6213A\|עָשִׂ֑ית]]&#8207; </big>**| 'a.Sit<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [you] who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you despised  |**<big>&#8207;[[H0959\|בָּזִ֥ית]]&#8207; </big>**| ba.Zit<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an oath  |**<big>&#8207;[[H0423\|אָלָ֖ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by breaking  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6565A\|הָפֵ֥ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covenant  |**<big>&#8207;[[H1285\|בְּרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
-[^1]: ==K==: **and you will do ** | <small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>עָשִׂית</big></span> <small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
-[^2]: ==K==: **and you will do ** | <small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>עָשִׂית</big></span> <small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
+[^1]: ==K==: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
+[^2]: ==K==: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>וְעָשִׂ֥יתִ</big></span>**
 

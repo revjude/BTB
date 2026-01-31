@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לוּז‎</span></big> **Lûwz** <small>*(looz)*</small> ==**Luz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎לוּז‎</span><sup><small>[[H3869]]</small></sup> (as growing there)</small>
+**<big><span class="ashebrew">‎לוּז‎</span></big>** **Lûwz** <small>*(looz)*</small> ==**Luz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H3869|‎לוּז‎]]</big>** (as growing there)</small>
 
 $\quad$ Luz.
 - § Luz = *"almond tree"*

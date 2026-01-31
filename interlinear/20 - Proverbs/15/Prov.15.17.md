@@ -6,17 +6,17 @@ Better a dish of vegetables where there is love than a fattened ox with hatred.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] good  | <span class="ashebrew"><big>ט֤וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a portion of  | <span class="ashebrew"><big>אֲרֻחַ֣ת </big></span><small><small><sup>[[H0737]]</sup></small></small> &#8207;| 'a.ru.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vegetables  | <span class="ashebrew"><big>יָ֭רָק </big></span><small><small><sup>[[H3419]]</sup></small></small> &#8207;| Ya.rok <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and love  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַהֲבָה </big></span><small><small><sup>[[H0160]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.ha.vah- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] there  | <span class="ashebrew"><big>שָׁ֑ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than an ox  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שּׁ֥וֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Shor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fattened  | <span class="ashebrew"><big>אָ֝ב֗וּס </big></span><small><small><sup>[[H0075]]</sup></small></small> &#8207;| 'a.Vus <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hatred  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׂנְאָה </big></span><small><small><sup>[[H8135]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sin.'ah- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] with it  | <span class="ashebrew"><big>בֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a portion of  |**<big>&#8207;[[H0737\|אֲרֻחַ֣ת]]&#8207; </big>**| 'a.ru.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vegetables  |**<big>&#8207;[[H3419\|יָ֭רָק]]&#8207; </big>**| Ya.rok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and love  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0160\|אַהֲבָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.vah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than an ox  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7794\|שּׁ֥וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fattened  |**<big>&#8207;[[H0075\|אָ֝ב֗וּס]]&#8207; </big>**| 'a.Vus<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hatred  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8135\|שִׂנְאָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sin.'ah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with it  |**<big>&#8207;[[H9003\|בֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
 

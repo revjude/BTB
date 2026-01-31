@@ -7,40 +7,40 @@ But the princes of the children of Ammon said to Hanun, Thinkest thou that David
 the princes of the Ammonites said to Hanun, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Have not his servants come to you to explore the land, spy it out, and overthrow it?”<small><sub>**MT:**</sub></small>
 [[1Chr.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.2|<< 1 Chronicles 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.4|1 Chronicles 19:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Hanun, | <big><span class="asgreek">Ανάν</span></big> <sup><small><small>[[H2605]]</small></small></sup> |
-| Is | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| David glorifying | <big><span class="asgreek">δοξάζων</span></big> <sup><small><small>[[G1392]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to send | <big><span class="asgreek">απέστειλέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| comforters? | <big><span class="asgreek">παρακαλούντας</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| Is it not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they may search out | <big><span class="asgreek">εξερευνήσωσι</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to spy out | <big><span class="asgreek">κατασκοπήσαι</span></big> <sup><small><small>[[G2684]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Hanun, | **<big>[[H2605\|Ανάν]]</big>** |
+| Is | **<big>[[G3361\|μη]]</big>** |
+| David glorifying | **<big>[[G1392\|δοξάζων]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to send | **<big>[[G0649\|απέστειλέ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| comforters? | **<big>[[G3870\|παρακαλούντας]]</big>** |
+| Is it not | **<big>[[G3780\|ουχί]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+| they may search out | **<big>[[G1830\|εξερευνήσωσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to spy out | **<big>[[G2684\|κατασκοπήσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his servants | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
 [[1Chr.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.2|<< 1 Chronicles 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.4|1 Chronicles 19:4 >>]]</td></tr></table>
 
 

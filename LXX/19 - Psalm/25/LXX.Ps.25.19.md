@@ -7,18 +7,18 @@ Consider mine enemies; for they are many; and they hate me with cruel hatred.
 Consider my enemies, for they are many, and they hate me with vicious hatred.<small><sub>**MT:**</sub></small>
 [[Ps.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.18|<< Psalm 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.20|Psalm 25:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies! | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were multiplied, | <big><span class="asgreek">επληθύνθησαν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hatred | <big><span class="asgreek">μίσος</span></big> <sup><small><small>[[G8332]]</small></small></sup> |
-| with unjust | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| they detested | <big><span class="asgreek">εμίσησάν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold | **<big>[[G1492\|ίδε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my enemies! | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they were multiplied, | **<big>[[G4129\|επληθύνθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hatred | **<big>[[G8332\|μίσος]]</big>** |
+| with unjust | **<big>[[G0094\|άδικον]]</big>** |
+| they detested | **<big>[[G3404\|εμίσησάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
 [[Ps.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.18|<< Psalm 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.20|Psalm 25:20 >>]]</td></tr></table>
 
 

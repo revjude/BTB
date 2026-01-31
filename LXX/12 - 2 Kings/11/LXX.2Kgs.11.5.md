@@ -7,31 +7,31 @@ And he commanded them, saying, This [is] the thing that ye shall do; A third par
 and commanded them, “This is what you are to do: A third of you who come on duty on the Sabbath shall guard the royal palace,<small><sub>**MT:**</sub></small>
 [[2Kgs.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.4|<< 2 Kings 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.6|2 Kings 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall do; | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third \[part\] | <big><span class="asgreek">τρίτον</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you -- | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπορευόμενοι</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| on the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbath, | <big><span class="asgreek">σάββατον</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| let them guard | <big><span class="asgreek">φυλασσέτωσαν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king! | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| you shall do; | **<big>[[G4160\|ποιήσατε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| third \[part\] | **<big>[[G5154\|τρίτον]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| you -- | **<big>[[G1473\|υμών]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| entering | **<big>[[G1531\|εισπορευόμενοι]]</big>** |
+| on the | **<big>[[G3588\|το]]</big>** |
+| Sabbath, | **<big>[[G4521\|σάββατον]]</big>** |
+| let them guard | **<big>[[G5442\|φυλασσέτωσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| watch | **<big>[[G5438\|φυλακήν]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king! | **<big>[[G0935\|βασιλέως]]</big>** |
 [[2Kgs.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.4|<< 2 Kings 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.6|2 Kings 11:6 >>]]</td></tr></table>
 
 

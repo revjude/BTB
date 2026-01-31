@@ -6,16 +6,16 @@ When their liquor is gone, they turn to prostitution; their rulers dearly love d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.17|<< Hosea 4:17]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.19|Hosea 4:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has come to an end  | <span class="ashebrew"><big>סָ֖ר </big></span><small><small><sup>[[H5493H]]</sup></small></small> &#8207;| sar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| drink their  | <span class="ashebrew"><big>סָבְאָ֑ </big></span><small><small><sup>[[H5435]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| sa.ve.'A <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to prostitute themselves>  | <span class="ashebrew"><big>הַזְנֵ֣ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| haz.Neh <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have prostituted themselves  | <span class="ashebrew"><big>הִזְנ֔וּ </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| hiz.Nu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have loved  | <span class="ashebrew"><big>אָהֲב֥וּ </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'a.ha.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| love  | <span class="ashebrew"><big>הֵב֛וּ </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| he.Vu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shame  | <span class="ashebrew"><big>קָל֖וֹן </big></span><small><small><sup>[[H7036]]</sup></small></small> &#8207;| ka.Lon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shields its  | <span class="ashebrew"><big>מָגִנֶּֽי </big></span><small><small><sup>[[H4043]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.gi.Nei. <small><sup>[[HAampc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come to an end  |**<big>&#8207;[[H5493H\|סָ֖ר]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drink their  |**<big>&#8207;[[H5435\|סָבְאָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| sa.ve.'A<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to prostitute themselves>  |**<big>&#8207;[[H2181\|הַזְנֵ֣ה]]&#8207; </big>**| haz.Neh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have prostituted themselves  |**<big>&#8207;[[H2181\|הִזְנ֔וּ]]&#8207; </big>**| hiz.Nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have loved  |**<big>&#8207;[[H0157G\|אָהֲב֥וּ]]&#8207; </big>**| 'a.ha.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| love  |**<big>&#8207;[[H0157G\|הֵב֛וּ]]&#8207; </big>**| he.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shame  |**<big>&#8207;[[H7036\|קָל֖וֹן]]&#8207; </big>**| ka.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shields its  |**<big>&#8207;[[H4043\|מָגִנֶּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.gi.Nei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.17|<< Hosea 4:17]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.19|Hosea 4:19 >>]]</td></tr></table>
 
 

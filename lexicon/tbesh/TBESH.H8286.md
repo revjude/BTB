@@ -1,6 +1,4 @@
-<span class="ashebrew">‎שְׂרוּג‎</span> <small>***(se.rug)***</small> ==**Serug**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.11.20|Gen.11.20]]
--  son of: Reu ([[H7466]])
--  father of: Nahor ([[H5152]])
-- Also named: <i>Sarouch</i> (<span class='asgreek'>Σαρούχ</span> "Serug" [[G4562]])
-
+-  son of: Reu (**<big>[[H7466|רְעוּ]]</big>**)
+-  father of: Nahor (**<big>[[H5152|נָחוֹר]]</big>**)
+- Also named: <i>Sarouch</i> (<span class='asgreek'>Σαρούχ</span> "Serug" **<big>[[G4562|Σαρούχ]]</big>**)

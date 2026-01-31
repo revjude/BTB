@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָנָּא‎</span></big> **ʼânnâʼ** <small>*(awn-naw')*</small> ==**Please!**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
-<small>or <span class="ashebrew">אָנָּה</span> **ʼânnâh** <small>*(awn-naw')*</small>; apparent contracted from <span class="ashebrew">‎אַהֲבָה‎</span><sup><small>[[H0160]]</small></sup> and <span class="ashebrew">‎נָא‎</span><sup><small>[[H4994]]</small></sup></small>
+**<big><span class="ashebrew">‎אָנָּא‎</span></big>** **ʼânnâʼ** <small>*(awn-naw')*</small> ==**Please!**==  <sup><small>[[TEHMC#H:Intj|H:Intj]]</small></sup> 
+<small>or **<big><span class="ashebrew">אָנָּה</span></big>** **ʼânnâh** <small>*(awn-naw')*</small>; apparent contracted from **<big>[[H0160|‎אַהֲבָה‎]]</big>** and **<big>[[H4994|‎נָא‎]]</big>**</small>
 
 $\quad$ I (me) beseech (pray) thee, O.
 - ***oh now!***

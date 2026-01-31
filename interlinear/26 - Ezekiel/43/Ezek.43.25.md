@@ -6,22 +6,22 @@ For seven days you are to provide a male goat daily for a sin offering; you are 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.24|<< Ezekiel 43:24]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.26|Ezekiel 43:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| seven  | <span class="ashebrew"><big>שִׁבְעַ֣ת </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'At <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֔ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will offer  | <span class="ashebrew"><big>תַּעֲשֶׂ֥ה </big></span><small><small><sup>[[H6213I]]</sup></small></small> &#8207;| ta.'a.Seh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a male goat of  | <span class="ashebrew"><big>שְׂעִיר </big></span><small><small><sup>[[H8163B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| se.'ir- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sin offering  | <span class="ashebrew"><big>חַטָּ֖את </big></span><small><small><sup>[[H2403H]]</sup></small></small> &#8207;| cha.Tat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the day  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יּ֑וֹם </big></span><small><small><sup>[[H3117J]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> i.Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a young bull  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פַ֧ר </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a young one of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָּקָ֛ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a ram  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֥יִל </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'A.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the flock  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צֹּ֖אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תְּמִימִ֥ים </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| te.mi.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will offer  | <span class="ashebrew"><big>יַעֲשֽׂוּ </big></span><small><small><sup>[[H6213I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Su <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֣ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֔ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will offer  |**<big>&#8207;[[H6213I\|תַּעֲשֶׂ֥ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'ir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sin offering  |**<big>&#8207;[[H2403H\|חַטָּ֖את]]&#8207; </big>**| cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the day  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3117J\|יּ֑וֹם]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a young bull  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6499\|פַ֧ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young one of  |**<big>&#8207;[[H1121H\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָּקָ֛ר]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a ram  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0352A\|אַ֥יִל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6629G\|צֹּ֖אן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תְּמִימִ֥ים]]&#8207; </big>**| te.mi.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will offer  |**<big>&#8207;[[H6213I\|יַעֲשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.24|<< Ezekiel 43:24]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.26|Ezekiel 43:26 >>]]</td></tr></table>
 
 

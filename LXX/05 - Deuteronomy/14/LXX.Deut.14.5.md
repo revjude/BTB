@@ -7,21 +7,21 @@ The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygar
 the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope, and the mountain sheep.<small><sub>**MT:**</sub></small>
 [[Deut.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.4|<< Deuteronomy 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.6|Deuteronomy 14:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] stag, | <big><span class="asgreek">έλαφον</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| doe, | <big><span class="asgreek">δορκάδα</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| roebuck, | <big><span class="asgreek">βούβαλον</span></big> <sup><small><small>[[G6688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| antelope, | <big><span class="asgreek">τραγέλαφον</span></big> <sup><small><small>[[G9468]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| white-tailed hart, | <big><span class="asgreek">πύγαργον</span></big> <sup><small><small>[[G8985]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gazelle, | <big><span class="asgreek">όρυγα</span></big> <sup><small><small>[[G8557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cameleopard. | <big><span class="asgreek">καμηλοπάρδαλιν</span></big> <sup><small><small>[[G7789]]</small></small></sup> |
+| \[the\] stag, | **<big>[[G7180\|έλαφον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| doe, | **<big>[[G1393\|δορκάδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| roebuck, | **<big>[[G6688\|βούβαλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| antelope, | **<big>[[G9468\|τραγέλαφον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| white-tailed hart, | **<big>[[G8985\|πύγαργον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gazelle, | **<big>[[G8557\|όρυγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cameleopard. | **<big>[[G7789\|καμηλοπάρδαλιν]]</big>** |
 [[Deut.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.4|<< Deuteronomy 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.6|Deuteronomy 14:6 >>]]</td></tr></table>
 
 

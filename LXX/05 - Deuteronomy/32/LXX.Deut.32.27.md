@@ -7,31 +7,31 @@ Were it not that I feared the wrath of the enemy, lest their adversaries should 
 if I had not dreaded the taunt of the enemy, lest their adversaries misunderstand and say: ‘Our own hand has prevailed; it was not the LORD who did all this.’”<small><sub>**MT:**</sub></small>
 [[Deut.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unless | <big><span class="asgreek">ειμή</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| \[they should say it was\] on account | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[of the\] anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of \[the\] enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| that in no way | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| should they live a long time, | <big><span class="asgreek">μακροχρονίσωσι</span></big> <sup><small><small>[[G8237]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that in no way | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| join in making an attack | <big><span class="asgreek">συνεπιθώνται</span></big> <sup><small><small>[[G9315]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[their\] opponents | <big><span class="asgreek">υπεναντίοι</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| they should say, | <big><span class="asgreek">είπωσιν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| Our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| Unless | **<big>[[G1508\|ειμή]]</big>** |
+| \[they should say it was\] on account | **<big>[[G1223\|δι΄]]</big>** |
+| \[of the\] anger | **<big>[[G3709\|οργήν]]</big>** |
+| of \[the\] enemies, | **<big>[[G2190\|εχθρών]]</big>** |
+| that in no way | **<big>[[G2443\|ίνα]]</big>** **<big>[[G3361\|μη]]</big>** |
+| should they live a long time, | **<big>[[G8237\|μακροχρονίσωσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that in no way | **<big>[[G2443\|ίνα]]</big>** **<big>[[G3361\|μη]]</big>** |
+| join in making an attack | **<big>[[G9315\|συνεπιθώνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[their\] opponents | **<big>[[G5227\|υπεναντίοι]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| they should say, | **<big>[[G2036\|είπωσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| Our | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| high | **<big>[[G5308\|υψηλή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3780\|ουχί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| all these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
 [[Deut.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
 

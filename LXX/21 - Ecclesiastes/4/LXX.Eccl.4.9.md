@@ -7,21 +7,21 @@ Two [are] better than one; because they have a good reward for their labour.
 Two are better than one, because they have a good return for their labor.<small><sub>**MT:**</sub></small>
 [[Eccl.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.8|<< Ecclesiastes 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.10|Ecclesiastes 4:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Better | <big><span class="asgreek">αγαθοί</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one, | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| in which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their effort. | <big><span class="asgreek">μόχθω</span></big> <sup><small><small>[[G3449]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Better | **<big>[[G0018\|αγαθοί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one, | **<big>[[G1520\|ένα]]</big>** |
+| in which | **<big>[[G3739\|οις]]</big>** |
+| there is | **<big>[[G1510\|εστιν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| wage | **<big>[[G3408\|μισθός]]</big>** |
+| a good | **<big>[[G0018\|αγαθός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their effort. | **<big>[[G3449\|μόχθω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Eccl.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.8|<< Ecclesiastes 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.10|Ecclesiastes 4:10 >>]]</td></tr></table>
 
 

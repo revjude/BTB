@@ -7,24 +7,24 @@ Dimnah with her suburbs, Nahalal with her suburbs; four cities.
 Dimnah, and Nahalal—four cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
 [[Josh.21.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.34|<< Joshua 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.36|Joshua 21:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Dimnah | <big><span class="asgreek">Δαμνά</span></big> <sup><small><small>[[H1829]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outskirts | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nahalal | <big><span class="asgreek">Νααλώλ</span></big> <sup><small><small>[[H5096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outskirts | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> |
-| of it -- | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Dimnah | **<big>[[H1829\|Δαμνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| outskirts | **<big>[[G8756\|περισπόρια]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Nahalal | **<big>[[H5096\|Νααλώλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| outskirts | **<big>[[G8756\|περισπόρια]]</big>** |
+| of it -- | **<big>[[G1473\|αυτής]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
 [[Josh.21.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.34|<< Joshua 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.36|Joshua 21:36 >>]]</td></tr></table>
 
 

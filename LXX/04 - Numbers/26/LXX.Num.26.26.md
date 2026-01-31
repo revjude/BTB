@@ -7,27 +7,27 @@ Sons of Zebulun according to their peoples -- \[to\] Sered, \[the\] people the S
 These were the descendants of Zebulun by their clans: The Seredite clan from Sered, the Elonite clan from Elon, and the Jahleelite clan from Jahleel.<small><sub>**MT:**</sub></small>
 [[Num.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.25|<< Numbers 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.27|Numbers 26:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their peoples -- | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sered, | <big><span class="asgreek">Σαρέδ</span></big> <sup><small><small>[[H5624]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Seredites; | <big><span class="asgreek">Σαρεδεί</span></big> <sup><small><small>[[H5624]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elon, | <big><span class="asgreek">Αλλών</span></big> <sup><small><small>[[H0356]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elonites; | <big><span class="asgreek">Αλλωνεί</span></big> <sup><small><small>[[H0356]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jahleel, | <big><span class="asgreek">Αλλήλ</span></big> <sup><small><small>[[H3177]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jahleelites. | <big><span class="asgreek">Αλληλί</span></big> <sup><small><small>[[H3177]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their peoples -- | **<big>[[G1218\|δήμους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Sered, | **<big>[[H5624\|Σαρέδ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Seredites; | **<big>[[H5624\|Σαρεδεί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Elon, | **<big>[[H0356\|Αλλών]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Elonites; | **<big>[[H0356\|Αλλωνεί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jahleel, | **<big>[[H3177\|Αλλήλ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jahleelites. | **<big>[[H3177\|Αλληλί]]</big>** |
 [[Num.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.25|<< Numbers 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.27|Numbers 26:27 >>]]</td></tr></table>
 
 

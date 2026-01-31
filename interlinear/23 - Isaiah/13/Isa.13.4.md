@@ -6,24 +6,24 @@ Listen, a tumult on the mountains, like that of a great multitude! Listen, an up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.3|<< Isaiah 13:3]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.5|Isaiah 13:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sound of  | <span class="ashebrew"><big>ק֥וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tumult  | <span class="ashebrew"><big>הָמ֛וֹן </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on the mountains  | <span class="ashebrew"><big>בֶּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הָרִ֖ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| be. <small><sup>[[HRd]]</sup></small> ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] likeness of  | <span class="ashebrew"><big>דְּמ֣וּת </big></span><small><small><sup>[[H1823]]</sup></small></small> &#8207;| de.Mut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עַם </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'am- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| numerous  | <span class="ashebrew"><big>רָ֑ב </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| Rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sound of  | <span class="ashebrew"><big>ק֠וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an uproar of  | <span class="ashebrew"><big>שְׁא֞וֹן </big></span><small><small><sup>[[H7588]]</sup></small></small> &#8207;| she.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kingdoms of  | <span class="ashebrew"><big>מַמְלְכ֤וֹת </big></span><small><small><sup>[[H4467]]</sup></small></small> &#8207;| mam.le.Khot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גּוֹיִם֙ </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gathering  | <span class="ashebrew"><big>נֶֽאֱסָפִ֔ים </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| ne.'e.sa.Fim <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֔וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] mustering  | <span class="ashebrew"><big>מְפַקֵּ֖ד </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| me.fa.Ked <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an army of  | <span class="ashebrew"><big>צְבָ֥א </big></span><small><small><sup>[[H6635A]]</sup></small></small> &#8207;| tze.Va' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| battle  | <span class="ashebrew"><big>מִלְחָמָֽה </big></span><small><small><sup>[[H4421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963H\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tumult  |**<big>&#8207;[[H1995A\|הָמ֛וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on the mountains  |**<big>&#8207;[[H9003\|בֶּֽ]]&#8207;&#8207;[[H2022G\|הָרִ֖ים]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] likeness of  |**<big>&#8207;[[H1823\|דְּמ֣וּת]]&#8207; </big>**| de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| numerous  |**<big>&#8207;[[H7227A\|רָ֑ב]]&#8207; </big>**| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963H\|ק֠וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an uproar of  |**<big>&#8207;[[H7588\|שְׁא֞וֹן]]&#8207; </big>**| she.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kingdoms of  |**<big>&#8207;[[H4467\|מַמְלְכ֤וֹת]]&#8207; </big>**| mam.le.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גּוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gathering  |**<big>&#8207;[[H0622\|נֶֽאֱסָפִ֔ים]]&#8207; </big>**| ne.'e.sa.Fim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֔וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] mustering  |**<big>&#8207;[[H6485A\|מְפַקֵּ֖ד]]&#8207; </big>**| me.fa.Ked<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an army of  |**<big>&#8207;[[H6635A\|צְבָ֥א]]&#8207; </big>**| tze.Va'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.3|<< Isaiah 13:3]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.5|Isaiah 13:5 >>]]</td></tr></table>
 
 

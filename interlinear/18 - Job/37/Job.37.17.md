@@ -6,14 +6,14 @@ You whose clothes get hot when the land lies hushed under the south wind,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.16|<< Job 37:16]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.18|Job 37:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [you] whom  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clothes your  | <span class="ashebrew"><big>בְּגָדֶ֥י </big></span><small><small><sup>[[H0899B]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be.ga.Dei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] hot  | <span class="ashebrew"><big>חַמִּ֑ים </big></span><small><small><sup>[[H2525]]</sup></small></small> &#8207;| cha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when is still  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַשְׁקִ֥ט </big></span><small><small><sup>[[H8252]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> hash.Kit <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אֶ֝֗רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] south  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>דָּרֽוֹם </big></span><small><small><sup>[[H1864]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> da.Rom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [you] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothes your  |**<big>&#8207;[[H0899B\|בְּגָדֶ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| be.ga.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] hot  |**<big>&#8207;[[H2525\|חַמִּ֑ים]]&#8207; </big>**| cha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when is still  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8252\|הַשְׁקִ֥ט]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hash.Kit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אֶ֝֗רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] south  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1864\|דָּרֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> da.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.16|<< Job 37:16]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.18|Job 37:18 >>]]</td></tr></table>
 
 

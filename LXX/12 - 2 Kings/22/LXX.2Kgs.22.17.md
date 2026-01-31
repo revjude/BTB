@@ -7,31 +7,31 @@ Because they have forsaken me, and have burned incense unto other gods, that the
 because they have forsaken Me and burned incense to other gods, that they might provoke Me to anger with all the works of their hands. My wrath will be kindled against this place and will not be quenched.’<small><sub>**MT:**</sub></small>
 [[2Kgs.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.16|<< 2 Kings 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.18|2 Kings 22:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they abandoned | <big><span class="asgreek">εγκατέλιπόν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| burned incense | <big><span class="asgreek">εθυμίασαν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| to other gods, | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ετέροις</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should provoke me to anger | <big><span class="asgreek">παροργίσωσι</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall burn | <big><span class="asgreek">εκκαυθήσεται</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place, | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be extinguished. | <big><span class="asgreek">σβεσθήσεται</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they abandoned | **<big>[[G1459\|εγκατέλιπόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| burned incense | **<big>[[G2370\|εθυμίασαν]]</big>** |
+| to other gods, | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G2087\|ετέροις]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should provoke me to anger | **<big>[[G3949\|παροργίσωσι]]</big>** **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| works | **<big>[[G2041\|έργοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall burn | **<big>[[G1572\|εκκαυθήσεται]]</big>** |
+| my rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place, | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be extinguished. | **<big>[[G4570\|σβεσθήσεται]]</big>** |
 [[2Kgs.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.16|<< 2 Kings 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.18|2 Kings 22:18 >>]]</td></tr></table>
 
 

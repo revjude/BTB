@@ -7,38 +7,38 @@ And kept the feast of unleavened bread seven days with joy: for the LORD had mad
 For seven days they kept the Feast of Unleavened Bread with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel.<small><sub>**MT:**</sub></small>
 [[Ezra.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they observed | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unleavened \[breads\] | <big><span class="asgreek">αζύμων</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| gladness; | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| gladdened | <big><span class="asgreek">εύφρανεν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Assyria | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| to | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to fortify | <big><span class="asgreek">κραταιώσαι</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they observed | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| holiday | **<big>[[G1859\|εορτήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| unleavened \[breads\] | **<big>[[G0106\|αζύμων]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| gladness; | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| gladdened | **<big>[[G2165\|εύφρανεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Assyria | **<big>[[H0804\|Ασσούρ]]</big>** |
+| to | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| to fortify | **<big>[[G2901\|κραταιώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] works | **<big>[[G2041\|έργοις]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezra.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
 

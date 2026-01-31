@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֶשְׁפָּר‎</span></big> **ʼeshpâr** <small>*(esh-pawr')*</small> ==**raisin bun**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אֶשְׁפָּר‎</span></big>** **ʼeshpâr** <small>*(esh-pawr')*</small> ==**raisin bun**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ good piece (of flesh).

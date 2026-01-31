@@ -7,29 +7,29 @@ And in mercy shall the throne be established: and he shall sit upon it in truth 
 in loving devotion a throne will be established in the tent of David. A judge seeking justice and hastening righteousness will sit on it in faithfulness.<small><sub>**MT:**</sub></small>
 [[Isa.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.4|<< Isaiah 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.6|Isaiah 16:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be set right | <big><span class="asgreek">διορθωθήσεται</span></big> <sup><small><small>[[G6937]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| mercy | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| a throne | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one shall sit | <big><span class="asgreek">καθιείται</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| inquiring of | <big><span class="asgreek">εκζητών</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hastening | <big><span class="asgreek">σπεύδων</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| righteousness. | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be set right | **<big>[[G6937\|διορθωθήσεται]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| mercy | **<big>[[G1656\|ελέους]]</big>** |
+| a throne | **<big>[[G2362\|θρόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one shall sit | **<big>[[G2523\|καθιείται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| truth | **<big>[[G0225\|αληθείας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] tent | **<big>[[G4633\|σκηνή]]</big>** |
+| of David, | **<big>[[G1138\|Δαυίδ]]</big>** |
+| judging | **<big>[[G2919\|κρίνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| inquiring of | **<big>[[G1567\|εκζητών]]</big>** |
+| equity, | **<big>[[G2917\|κρίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hastening | **<big>[[G4692\|σπεύδων]]</big>** |
+| righteousness. | **<big>[[G1343\|δικαιοσύνην]]</big>** |
 [[Isa.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.4|<< Isaiah 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.6|Isaiah 16:6 >>]]</td></tr></table>
 
 

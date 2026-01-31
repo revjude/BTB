@@ -10,35 +10,35 @@ Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, t
 This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:<small><sub>**MT:**</sub></small>
 [[Isa.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.28|<< Isaiah 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.2|Isaiah 45:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my anointed | <big><span class="asgreek">χριστώ</span></big> <sup><small><small>[[G5547]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Cyrus, | <big><span class="asgreek">Κύρω</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| whose | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I held | <big><span class="asgreek">εκράτησα</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right \[hand\] | <big><span class="asgreek">δεξιάς</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| to heed | <big><span class="asgreek">επακούσαι</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for\] nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| I will tear up; | <big><span class="asgreek">διαρρήξω</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| I will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| shall not be closed up. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συγκλεισθήσονται</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my anointed | **<big>[[G5547\|χριστώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Cyrus, | **<big>[[H3567\|Κύρω]]</big>** |
+| whose | **<big>[[G3739\|ου]]</big>** |
+| I held | **<big>[[G2902\|εκράτησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| right \[hand\] | **<big>[[G1188\|δεξιάς]]</big>** |
+| to heed | **<big>[[G1873\|επακούσαι]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| \[for\] nations | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] strength | **<big>[[G2479\|ισχύν]]</big>** |
+| of kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| I will tear up; | **<big>[[G1284\|διαρρήξω]]</big>** |
+| I will open | **<big>[[G0455\|ανοίξω]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| doors | **<big>[[G2374\|θύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gates | **<big>[[G4439\|πύλαι]]</big>** |
+| shall not be closed up. | **<big>[[G3756\|ου]]</big>** **<big>[[G4788\|συγκλεισθήσονται]]</big>** |
 [[Isa.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.28|<< Isaiah 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.2|Isaiah 45:2 >>]]</td></tr></table>
 
 

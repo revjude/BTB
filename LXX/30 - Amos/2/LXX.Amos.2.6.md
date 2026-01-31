@@ -10,30 +10,30 @@ Thus saith the LORD; For three transgressions of Israel, and for four, I will no
 This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals.<small><sub>**MT:**</sub></small>
 [[Amos.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.5|<< Amos 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.7|Amos 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from. | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they rendered | <big><span class="asgreek">απέδοντο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \[for the\] just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| sandals; | <big><span class="asgreek">υποδημάτων</span></big> <sup><small><small>[[G5266]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from. | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they rendered | **<big>[[G0591\|απέδοντο]]</big>** |
+| silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| \[for the\] just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] needy | **<big>[[G3993\|πένητα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| sandals; | **<big>[[G5266\|υποδημάτων]]</big>** |
 [[Amos.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.5|<< Amos 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.7|Amos 2:7 >>]]</td></tr></table>
 
 

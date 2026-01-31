@@ -7,28 +7,28 @@ Take ye heed every one of his neighbour, and trust ye not in any brother: for ev
 “Let everyone guard against his neighbor; do not trust any brother, for every brother deals craftily, and every friend spreads slander.<small><sub>**MT:**</sub></small>
 [[Jer.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.3|<< Jeremiah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.5|Jeremiah 9:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| take guard | <big><span class="asgreek">φυλάξασθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their brethren | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let \[them\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| rely | <big><span class="asgreek">πεποίθατε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| with \[the\] heel | <big><span class="asgreek">πτέρνη</span></big> <sup><small><small>[[G4418]]</small></small></sup> |
-| shall stomp | <big><span class="asgreek">πτερνιεί</span></big> <sup><small><small>[[G8973]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| friend | <big><span class="asgreek">φίλος</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| deceitfully | <big><span class="asgreek">δολίως</span></big> <sup><small><small>[[G6958]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| take guard | **<big>[[G5442\|φυλάξασθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| their brethren | **<big>[[G0080\|αδελφοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| let \[them\] not | **<big>[[G3361\|μη]]</big>** |
+| rely | **<big>[[G3982\|πεποίθατε]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| with \[the\] heel | **<big>[[G4418\|πτέρνη]]</big>** |
+| shall stomp | **<big>[[G8973\|πτερνιεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| friend | **<big>[[G5384\|φίλος]]</big>** |
+| deceitfully | **<big>[[G6958\|δολίως]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσεται]]</big>** |
 [[Jer.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.3|<< Jeremiah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.5|Jeremiah 9:5 >>]]</td></tr></table>
 
 

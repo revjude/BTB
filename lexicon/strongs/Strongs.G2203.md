@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎Ζεύς‎</span></big> **Zeús** <small>*(dzyooce)*</small> ==**Zeus**==  <sup><small>[[TEGMC#N:N--T|N:N--T]]</small></sup> 
+**<big><span class="asgreek">‎Ζεύς‎</span></big>** **Zeús** <small>*(dzyooce)*</small> ==**Zeus**==  <sup><small>[[TEGMC#N:N--T|N:N--T]]</small></sup> 
 <small>of uncertain affinity</small>
 
 $\quad$ Jupiter.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמִּיאֵל‎</span></big> **ʻAmmîyʼêl** <small>*(am-mee-ale')*</small> ==**Ammiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; people of God</small>
+**<big><span class="ashebrew">‎עַמִּיאֵל‎</span></big>** **ʻAmmîyʼêl** <small>*(am-mee-ale')*</small> ==**Ammiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5971|‎עַם‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; people of God</small>
 
 $\quad$ Ammiel.
 - § Ammiel = *"my kinsman is God"*

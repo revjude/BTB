@@ -7,22 +7,22 @@ Preserve my soul; for I [am] holy: O thou my God, save thy servant that trusteth
 Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You.<small><sub>**MT:**</sub></small>
 [[Ps.86.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.1|<< Psalm 86:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.3|Psalm 86:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Guard | <big><span class="asgreek">φύλαξον</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul, | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I am sacred! | <big><span class="asgreek">όσιός</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Deliver | <big><span class="asgreek">σώσον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant, | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one hoping | <big><span class="asgreek">ελπίζοντα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Guard | **<big>[[G5442\|φύλαξον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul, | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I am sacred! | **<big>[[G3741\|όσιός]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| Deliver | **<big>[[G4982\|σώσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your servant, | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| my God! | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one hoping | **<big>[[G1679\|ελπίζοντα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Ps.86.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.1|<< Psalm 86:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.3|Psalm 86:3 >>]]</td></tr></table>
 
 

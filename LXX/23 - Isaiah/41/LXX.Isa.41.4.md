@@ -11,31 +11,31 @@ Who has performed this and carried it out, calling forth the generations from th
 > $\quad$ referenced by: [[Rev.1.8|Rev 1:8]] ☩ [[Rev.22.13|Rev 22:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| exerted energy | <big><span class="asgreek">ενήργησε</span></big> <sup><small><small>[[G1754]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| these \[things\]? | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| He called | <big><span class="asgreek">εκάλεσεν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| her -- | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calling | <big><span class="asgreek">καλών</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of generations | <big><span class="asgreek">γενεών</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| \[the\] beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτος</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming, | <big><span class="asgreek">επερχόμενα</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am. | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| exerted energy | **<big>[[G1754\|ενήργησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| these \[things\]? | **<big>[[G3778\|ταύτα]]</big>** |
+| He called | **<big>[[G2564\|εκάλεσεν]]</big>** |
+| her -- | **<big>[[G1473\|αυτήν]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| calling | **<big>[[G2564\|καλών]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| of generations | **<big>[[G1074\|γενεών]]</big>** |
+| \[the\] beginning | **<big>[[G0746\|αρχής]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| coming, | **<big>[[G1904\|επερχόμενα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am. | **<big>[[G1510\|ειμι]]</big>** |
 [[Isa.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.3|<< Isaiah 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.5|Isaiah 41:5 >>]]</td></tr></table>
 
 

@@ -7,43 +7,43 @@ But Jehoshaphat said, [Is there] not here a prophet of the LORD, that we may inq
 But Jehoshaphat asked, “Is there no prophet of the LORD here? Let us inquire of the LORD through him.” And one of the servants of the king of Israel answered, “Elisha son of Shaphat is here. He used to pour water on the hands of Elijah.”<small><sub>**MT:**</sub></small>
 [[2Kgs.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Is there not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| a prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should seek anxiously | <big><span class="asgreek">επιζητήσωμεν</span></big> <sup><small><small>[[G1934]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[is\] here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shaphat | <big><span class="asgreek">Σαφάτ</span></big> <sup><small><small>[[H8202]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| poured | <big><span class="asgreek">επέχεεν</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Elijah. | <big><span class="asgreek">Ηλίου</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Is there not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| a prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| we should seek anxiously | **<big>[[G1934\|επιζητήσωμεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| him? | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G3816\|παίδων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| \[is\] here | **<big>[[G5602\|ώδε]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shaphat | **<big>[[H8202\|Σαφάτ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| poured | **<big>[[G2022\|επέχεεν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Elijah. | **<big>[[G2243\|Ηλίου]]</big>** |
 [[2Kgs.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 
 

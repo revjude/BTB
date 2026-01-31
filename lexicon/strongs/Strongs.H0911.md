@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּדַד‎</span></big> **Bᵉdad** <small>*(bed-ad')*</small> ==**Bedad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּדַד‎</span><sup><small>[[H0909]]</small></sup>; separation</small>
+**<big><span class="ashebrew">‎בְּדַד‎</span></big>** **Bᵉdad** <small>*(bed-ad')*</small> ==**Bedad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0909|‎בָּדַד‎]]</big>**; separation</small>
 
 $\quad$ Bedad.
 - § Bedad = *"solitary"*
@@ -7,4 +7,4 @@ $\quad$ Bedad.
 
 **1)** the father of an Edomite chief
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλήθω</span><sup><small>[[G0229]]</small></sup> · <span class="asgreek">καταισχύνω</span><sup><small>[[G2617]]</small></sup>
+<small>See Greek: </small>**<big>[[G0229|ἀλήθω]]</big>** · **<big>[[G2617|καταισχύνω]]</big>**

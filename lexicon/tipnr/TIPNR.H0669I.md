@@ -1,8 +1,8 @@
 <small>*Gate of Ephraim • Gate in Jerusalem's wall, rebuilt during Nehemiah's time*</small>
 
 The <span class='tipnrhighlight'>Ephraim Gate</span>, a gate in Jerusalem's wall that was rebuilt during Nehemiah's time and used for public gatherings and proce∟ssions.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.8.16|Neh.8.16]]; 
-- only referred to as Ephraim\_Gate<[[H0669I]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.8.16|Neh.8.16]]; 
+- only referred to as Ephraim\_Gate **<big>[[H0669|אֶפְרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The Ephraim Gate's location is not specified, but it was likely on the north sid
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Gate of )Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669I) <small>*Hebrew*</small> | 2x | [[Neh.8.16] & [Neh.12.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Neh.8.16;Neh.12.39) |
-All Strong's for **Ephraim_Gate**: \[[[H0669I]]\]
+| (Gate of )Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669I) | 2x | [[Neh.8.16] & [Neh.12.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Neh.8.16;Neh.12.39) |
+All entries for **Ephraim Gate**:  **<big>[[H0669|אֶפְרַיִם]]</big>**

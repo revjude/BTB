@@ -7,38 +7,38 @@ And if the priest shall come in, and look [upon it], and, behold, the plague hat
 If, however, the priest comes and inspects it, and the mildew has not spread after the house has been replastered, he shall pronounce the house clean, because the mildew is gone.<small><sub>**MT:**</sub></small>
 [[Lev.14.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.47|<< Leviticus 14:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.49|Leviticus 14:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| coming, | <big><span class="asgreek">παραγενόμενος</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| should enter | <big><span class="asgreek">εισέλθη</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| look, | <big><span class="asgreek">ίδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| is not dispersed | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διαχείται</span></big> <sup><small><small>[[G6904]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plastering | <big><span class="asgreek">εξαλειφθήναι</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cleansed | <big><span class="asgreek">καθαριεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| is healed | <big><span class="asgreek">ιάθη</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| coming, | **<big>[[G3854\|παραγενόμενος]]</big>** |
+| should enter | **<big>[[G1525\|εισέλθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| look, | **<big>[[G1492\|ίδη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| is not dispersed | **<big>[[G3756\|ου]]</big>** **<big>[[G6904\|διαχείται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plastering | **<big>[[G1813\|εξαλειφθήναι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house, | **<big>[[G3614\|οικίαν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| cleansed | **<big>[[G2511\|καθαριεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| is healed | **<big>[[G2390\|ιάθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
 [[Lev.14.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.47|<< Leviticus 14:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.49|Leviticus 14:49 >>]]</td></tr></table>
 
 

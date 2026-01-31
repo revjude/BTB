@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָגַר‎</span></big> **çâgar** <small>*(saw-gar')*</small> ==**to shut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָגַר‎</span></big>** **çâgar** <small>*(saw-gar')*</small> ==**to shut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ close up, deliver (up), give over (up), inclose, [idiom] pure, repair, shut (in, self, out, up, up together), stop, [idiom] straitly.
@@ -19,4 +19,4 @@ $\quad$ **1e)** (Hiphil)
 $\quad$ $\quad$ **1e1)** to deliver up
 $\quad$ $\quad$ **1e2)** to shut up, imprison
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναπληρόω</span><sup><small>[[G0378]]</small></sup> · <span class="asgreek">ἀποκλείω</span><sup><small>[[G0608]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">καταλαμβάνω</span><sup><small>[[G2638]]</small></sup> · <span class="asgreek">κλείω</span><sup><small>[[G2808]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">σύνδεσμος</span><sup><small>[[G4886]]</small></sup>
+<small>See Greek: </small>**<big>[[G0378|ἀναπληρόω]]</big>** · **<big>[[G0608|ἀποκλείω]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G2638|καταλαμβάνω]]</big>** · **<big>[[G2808|κλείω]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4886|σύνδεσμος]]</big>**

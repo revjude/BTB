@@ -6,18 +6,18 @@ You must not exploit or oppress a foreign resident, for you yourselves were fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.20|<< Exodus 22:20]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.22|Exodus 22:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a sojourner  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גֵ֥ר </big></span><small><small><sup>[[H1616]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ger <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must maltreat  | <span class="ashebrew"><big>תוֹנֶ֖ה </big></span><small><small><sup>[[H3238]]</sup></small></small> &#8207;| to.Neh <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must oppress him  | <span class="ashebrew"><big>תִלְחָצֶ֑ </big></span><small><small><sup>[[H3905]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| til.cha.Tze. <small><sup>[[HVqi2ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sojourners  | <span class="ashebrew"><big>גֵרִ֥ים </big></span><small><small><sup>[[H1616]]</sup></small></small> &#8207;| ge.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you were  | <span class="ashebrew"><big>הֱיִיתֶ֖ם </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| he.yi.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] land of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a sojourner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1616\|גֵ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must maltreat  |**<big>&#8207;[[H3238\|תוֹנֶ֖ה]]&#8207; </big>**| to.Neh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must oppress him  |**<big>&#8207;[[H3905\|תִלְחָצֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| til.cha.Tze.<small><sup>[[HVqi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sojourners  |**<big>&#8207;[[H1616\|גֵרִ֥ים]]&#8207; </big>**| ge.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were  |**<big>&#8207;[[H1961\|הֱיִיתֶ֖ם]]&#8207; </big>**| he.yi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.20|<< Exodus 22:20]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.22|Exodus 22:22 >>]]</td></tr></table>
 
 

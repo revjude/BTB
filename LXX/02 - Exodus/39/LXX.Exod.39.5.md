@@ -7,31 +7,31 @@ And the curious girdle of his ephod, that [was] upon it, [was] of the same, acco
 And the skillfully woven waistband of the ephod was of one piece with the ephod, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
 [[Exod.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.4|<< Exodus 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.6|Exodus 39:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| making, | <big><span class="asgreek">ποίησιν</span></big> <sup><small><small>[[G4162]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blue, | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| being spun, | <big><span class="asgreek">διανενησμένου</span></big> <sup><small><small>[[G6851]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave orders | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| From | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| same | **<big>[[G1473\|αυτού]]</big>** |
+| making, | **<big>[[G4162\|ποίησιν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blue, | **<big>[[G5192\|υακίνθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet | **<big>[[G2847\|κοκκίνου]]</big>** |
+| being spun, | **<big>[[G6851\|διανενησμένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένης]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave orders | **<big>[[G4929\|συνέταξε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Exod.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.4|<< Exodus 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.6|Exodus 39:6 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּעָל‎</span></big> **Shûwʻâl** <small>*(shoo-awl')*</small> ==**Shual**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שׁוּעָל‎</span><sup><small>[[H7776]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּעָל‎</span></big>** **Shûwʻâl** <small>*(shoo-awl')*</small> ==**Shual**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7776|‎שׁוּעָל‎]]</big>**</small>
 
 $\quad$ Shual.
 - § Shual = *"jackal"*

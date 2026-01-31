@@ -7,19 +7,19 @@ On the seventh day Elishama the son of Ammihud, prince of the children of Ephrai
 On the seventh day Elishama son of Ammihud, the leader of the Ephraimites, drew near.<small><sub>**MT:**</sub></small>
 [[Num.7.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.47|<< Numbers 7:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.49|Numbers 7:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| \[the\] ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| Elishama | <big><span class="asgreek">Ελισαμά</span></big> <sup><small><small>[[H0476]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammihud | <big><span class="asgreek">Αμμιούδ</span></big> <sup><small><small>[[H5991]]</small></small></sup> |
+| The | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| \[the\] ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| Elishama | **<big>[[H0476\|Ελισαμά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ammihud | **<big>[[H5991\|Αμμιούδ]]</big>** |
 [[Num.7.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.47|<< Numbers 7:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.49|Numbers 7:49 >>]]</td></tr></table>
 
 

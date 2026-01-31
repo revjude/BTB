@@ -7,34 +7,34 @@ Therefore say unto them, Thus saith the Lord GOD; There shall none of my words b
 Therefore tell them that this is what the Lord GOD says: ‘None of My words will be delayed any longer. The message I speak will be fulfilled, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
 [[Ezek.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.27|<< Ezekiel 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.1|Ezekiel 13:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lengthen | <big><span class="asgreek">μηκυνώσιν</span></big> <sup><small><small>[[G3373]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should speak, | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I shall speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| a word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall act, | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| say | **<big>[[G2036\|ειπέ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them! | **<big>[[G1473\|αυτούς]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| lengthen | **<big>[[G3373\|μηκυνώσιν]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my words | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I should speak, | **<big>[[G2980\|λαλήσω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I shall speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| a word, | **<big>[[G3056\|λόγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall act, | **<big>[[G4160\|ποιήσω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.27|<< Ezekiel 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.1|Ezekiel 13:1 >>]]</td></tr></table>
 
 

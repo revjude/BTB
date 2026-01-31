@@ -6,17 +6,17 @@ You are not to do any work at all. This is a permanent statute for the generatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.30|<< Leviticus 23:30]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.32|Leviticus 23:32 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| any  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| work  | <span class="ashebrew"><big>מְלָאכָ֖ה </big></span><small><small><sup>[[H4399]]</sup></small></small> &#8207;| me.la.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will do  | <span class="ashebrew"><big>תַעֲשׂ֑וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Su <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a statute of  | <span class="ashebrew"><big>חֻקַּ֤ת </big></span><small><small><sup>[[H2708]]</sup></small></small> &#8207;| chu.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָם֙ </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to generations your  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דֹרֹ֣תֵי </big></span><small><small><sup>[[H1755]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> do.Ro.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֹ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dwelling places your  | <span class="ashebrew"><big>מֹֽשְׁבֹֽתֵי </big></span><small><small><sup>[[H4186]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Mo.she.Vo.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  |**<big>&#8207;[[H4399\|מְלָאכָ֖ה]]&#8207; </big>**| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  |**<big>&#8207;[[H6213A\|תַעֲשׂ֑וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a statute of  |**<big>&#8207;[[H2708\|חֻקַּ֤ת]]&#8207; </big>**| chu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָם֙]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1755\|דֹרֹ֣תֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> do.Ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling places your  |**<big>&#8207;[[H4186\|מֹֽשְׁבֹֽתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Mo.she.Vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.30|<< Leviticus 23:30]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.32|Leviticus 23:32 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּבִיר‎</span></big> **dᵉbîyr** <small>*(deb-eer')*</small> ==**sanctuary**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">דְּבִר</span> **dᵉbir** <small>*(deb-eer')*</small>; from <span class="ashebrew">‎דָבַר‎</span><sup><small>[[H1696]]</small></sup> (apparently in the sense of oracle)</small>
+**<big><span class="ashebrew">‎דְּבִיר‎</span></big>** **dᵉbîyr** <small>*(deb-eer')*</small> ==**sanctuary**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">דְּבִר</span></big>** **dᵉbir** <small>*(deb-eer')*</small>; from **<big>[[H1696|‎דָבַר‎]]</big>** (apparently in the sense of oracle)</small>
 
 $\quad$ oracle.
 - the ***shrine*** or innermost part of the sanctuary
@@ -8,4 +8,4 @@ $\quad$ oracle.
 $\quad$ **1a)** hindmost chamber, innermost room of the temple of Solomon, most holy place, holy of holies
 **2)** (TWOT) oracle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ναός</span><sup><small>[[G3485]]</small></sup>
+<small>See Greek: </small>**<big>[[G3485|ναός]]</big>**

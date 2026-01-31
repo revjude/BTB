@@ -6,17 +6,17 @@ Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.5|<< Micah 2:5]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.7|Micah 2:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you prophesy  | <span class="ashebrew"><big>תַּטִּ֖פוּ </big></span><small><small><sup>[[H5197]]</sup></small></small> &#8207;| ta.Ti.fu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they prophesy !  | <span class="ashebrew"><big>יַטִּיפ֑וּ </big></span><small><small><sup>[[H5197]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ya.ti.Fu <small><sup>[[HVhi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will prophesy  | <span class="ashebrew"><big>יַטִּ֣פוּ </big></span><small><small><sup>[[H5197]]</sup></small></small> &#8207;| ya.Ti.fu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of these [things]  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֔לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be turned back  | <span class="ashebrew"><big>יִסַּ֖ג </big></span><small><small><sup>[[H5253]]</sup></small></small> &#8207;| yi.Sag <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ignomini[es]  | <span class="ashebrew"><big>כְּלִמּֽוֹת </big></span><small><small><sup>[[H3639]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.li.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you prophesy  |**<big>&#8207;[[H5197\|תַּטִּ֖פוּ]]&#8207; </big>**| ta.Ti.fu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they prophesy !  |**<big>&#8207;[[H5197\|יַטִּיפ֑וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ya.ti.Fu<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will prophesy  |**<big>&#8207;[[H5197\|יַטִּ֣פוּ]]&#8207; </big>**| ya.Ti.fu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of these [things]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0428\|אֵ֔לֶּה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be turned back  |**<big>&#8207;[[H5253\|יִסַּ֖ג]]&#8207; </big>**| yi.Sag<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ignomini[es]  |**<big>&#8207;[[H3639\|כְּלִמּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.li.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.5|<< Micah 2:5]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.7|Micah 2:7 >>]]</td></tr></table>
 
 

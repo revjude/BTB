@@ -10,30 +10,30 @@ The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king 
 This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.<small><sub>**MT:**</sub></small>
 [[Jer.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having come | <big><span class="asgreek">γενόμενος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth | <big><span class="asgreek">δεκάτω</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of Zedekiah | <big><span class="asgreek">Σεδεκία</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah -- | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[the\] eighteenth | <big><span class="asgreek">οκτωκαιδέκατος</span></big> <sup><small><small>[[G8479]]</small></small></sup> |
-| of Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| having come | **<big>[[G1096\|γενόμενος]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| tenth | **<big>[[G1181\|δεκάτω]]</big>** |
+| of Zedekiah | **<big>[[H6667\|Σεδεκία]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Judah -- | **<big>[[G2448\|Ιούδα]]</big>** |
+| this \[is\] | **<big>[[G3778\|ούτος]]</big>** |
+| year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| \[the\] eighteenth | **<big>[[G8479\|οκτωκαιδέκατος]]</big>** |
+| of Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
 [[Jer.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
 
 

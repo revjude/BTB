@@ -7,19 +7,19 @@ The righteous shall flourish like the palm tree: he shall grow like a cedar in L
 The righteous will flourish like a palm tree, and grow like a cedar in Lebanon.<small><sub>**MT:**</sub></small>
 [[Ps.92.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.11|<< Psalm 92:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.13|Psalm 92:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] just one | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a palm tree | <big><span class="asgreek">φοίνιξ</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| shall bloom | <big><span class="asgreek">ανθήσει</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a cedar | <big><span class="asgreek">κέδρος</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon | <big><span class="asgreek">Λιβάνω</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| he shall be multiplied. | <big><span class="asgreek">πληθυνθήσεται</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| \[The\] just one | **<big>[[G1342\|δίκαιος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a palm tree | **<big>[[G5404\|φοίνιξ]]</big>** |
+| shall bloom | **<big>[[G6341\|ανθήσει]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a cedar | **<big>[[G2748\|κέδρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Lebanon | **<big>[[H3844\|Λιβάνω]]</big>** |
+| he shall be multiplied. | **<big>[[G4129\|πληθυνθήσεται]]</big>** |
 [[Ps.92.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.11|<< Psalm 92:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.13|Psalm 92:13 >>]]</td></tr></table>
 
 

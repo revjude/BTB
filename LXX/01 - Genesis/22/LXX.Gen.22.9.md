@@ -11,40 +11,40 @@ When they arrived at the place God had designated, Abraham built the altar there
 > $\quad$ referenced by: [[Jas.2.21|Jas 2:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| built | <big><span class="asgreek">ωκοδόμησεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed upon \[it\] | <big><span class="asgreek">επέθηκε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood. | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hand and foot | <big><span class="asgreek">συμποδίσας</span></big> <sup><small><small>[[G9277]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he placed | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood. | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| spoke | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| built | **<big>[[G3618\|ωκοδόμησεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed upon \[it\] | **<big>[[G2007\|επέθηκε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wood. | **<big>[[G3586\|ξύλα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| hand and foot | **<big>[[G9277\|συμποδίσας]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he placed | **<big>[[G2007\|επέθηκεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| wood. | **<big>[[G3586\|ξύλων]]</big>** |
 [[Gen.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.8|<< Genesis 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.10|Genesis 22:10 >>]]</td></tr></table>
 
 

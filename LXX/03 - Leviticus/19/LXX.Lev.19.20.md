@@ -7,38 +7,38 @@ And whosoever lieth carnally with a woman, that [is] a bondmaid, betrothed to an
 If a man lies carnally with a slave girl promised to another man but who has not been redeemed or given her freedom, there must be due punishment. But they are not to be put to death, because she had not been freed.<small><sub>**MT:**</sub></small>
 [[Lev.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.19|<< Leviticus 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.21|Leviticus 19:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| any \[man\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should go to bed | <big><span class="asgreek">κοιμηθή</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in the marriage-bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
-| of semen, | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is a domestic servant | <big><span class="asgreek">οικέτις</span></big> <sup><small><small>[[G8450]]</small></small></sup> |
-| being guarded | <big><span class="asgreek">διαπεφυλαγμένη</span></big> <sup><small><small>[[G1314]]</small></small></sup> |
-| for a man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ransoms | <big><span class="asgreek">λύτροις</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
-| have not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| been ransomed, | <big><span class="asgreek">λελύτρωται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| freedom | <big><span class="asgreek">ελευθερία</span></big> <sup><small><small>[[G1657]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to her; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an overseeing | <big><span class="asgreek">επισκοπή</span></big> <sup><small><small>[[G1984]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die, | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| she was not set free. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">απηλευθερώθη</span></big> <sup><small><small>[[G6407]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| any \[man\] | **<big>[[G5100\|τις]]</big>** |
+| should go to bed | **<big>[[G2837\|κοιμηθή]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a woman | **<big>[[G1135\|γυναικός]]</big>** |
+| in the marriage-bed | **<big>[[G2845\|κοίτην]]</big>** |
+| of semen, | **<big>[[G4690\|σπέρματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|αυτή]]</big>** |
+| is a domestic servant | **<big>[[G8450\|οικέτις]]</big>** |
+| being guarded | **<big>[[G1314\|διαπεφυλαγμένη]]</big>** |
+| for a man, | **<big>[[G0444\|ανθρώπω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| ransoms | **<big>[[G3083\|λύτροις]]</big>** |
+| have not | **<big>[[G3756\|ου]]</big>** |
+| been ransomed, | **<big>[[G3084\|λελύτρωται]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| freedom | **<big>[[G1657\|ελευθερία]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| given | **<big>[[G1325\|εδόθη]]</big>** |
+| to her; | **<big>[[G1473\|αυτή]]</big>** |
+| an overseeing | **<big>[[G1984\|επισκοπή]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die, | **<big>[[G0599\|αποθανούνται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| she was not set free. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G6407\|απηλευθερώθη]]</big>** |
 [[Lev.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.19|<< Leviticus 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.21|Leviticus 19:21 >>]]</td></tr></table>
 
 

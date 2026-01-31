@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֹבֹת‎</span></big> **ʼôbôth** <small>*(o-both')*</small> ==**Oboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎אוֹב‎</span><sup><small>[[H0178]]</small></sup>; water-skins</small>
+**<big><span class="ashebrew">‎אֹבֹת‎</span></big>** **ʼôbôth** <small>*(o-both')*</small> ==**Oboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H0178|‎אוֹב‎]]</big>**; water-skins</small>
 
 $\quad$ Oboth.
 - § Oboth = *"waterskins"*

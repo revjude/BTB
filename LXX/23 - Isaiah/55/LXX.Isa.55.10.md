@@ -11,39 +11,39 @@ For just as rain and snow fall from heaven and do not return without watering th
 > $\quad$ referenced by: [[2Cor.9.10|2Cor 9:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should come down | <big><span class="asgreek">καταβή</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| snow | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall it return | <big><span class="asgreek">αποστραφή</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| it should saturate | <big><span class="asgreek">μεθύση</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the earth\] should bring forth, | <big><span class="asgreek">εκτέκη</span></big> <sup><small><small>[[G7153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should sprout, | <big><span class="asgreek">εκβλαστήση</span></big> <sup><small><small>[[G7079]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sowing, | <big><span class="asgreek">σπείροντι</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| food; | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
+| For as | **<big>[[G5613\|ως]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should come down | **<big>[[G2597\|καταβή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rain | **<big>[[G5205\|υετός]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| snow | **<big>[[G5510\|χιών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall it return | **<big>[[G0654\|αποστραφή]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| it should saturate | **<big>[[G3184\|μεθύση]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the earth\] should bring forth, | **<big>[[G7153\|εκτέκη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should sprout, | **<big>[[G7079\|εκβλαστήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should give | **<big>[[G1325\|δω]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| sowing, | **<big>[[G4687\|σπείροντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| food; | **<big>[[G1035\|βρώσιν]]</big>** |
 [[Isa.55.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
 
 

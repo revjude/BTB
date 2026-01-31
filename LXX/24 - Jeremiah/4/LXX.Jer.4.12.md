@@ -7,18 +7,18 @@ A spirit of fullness shall come to me; but now I shall speak my judgments agains
 a wind too strong for that comes from Me. Now I also pronounce judgments against them.”<small><sub>**MT:**</sub></small>
 [[Jer.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.11|<< Jeremiah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.13|Jeremiah 4:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of fullness | <big><span class="asgreek">πληρώσεως</span></big> <sup><small><small>[[G8815]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| my judgments | <big><span class="asgreek">κρίματά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of fullness | **<big>[[G8815\|πληρώσεως]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
+| but now | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| my judgments | **<big>[[G2917\|κρίματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Jer.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.11|<< Jeremiah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.13|Jeremiah 4:13 >>]]</td></tr></table>
 
 

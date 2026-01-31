@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עוּל‎</span></big> **ʻûwl** <small>*(ool)*</small> ==**to nurse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עוּל‎</span></big>** **ʻûwl** <small>*(ool)*</small> ==**to nurse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ milch, (ewe great) with young.

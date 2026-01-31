@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּלִילָה‎</span></big> **Dᵉlîylâh** <small>*(del-ee-law')*</small> ==**Delilah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּלַל‎</span><sup><small>[[H1809]]</small></sup>; languishing</small>
+**<big><span class="ashebrew">‎דְּלִילָה‎</span></big>** **Dᵉlîylâh** <small>*(del-ee-law')*</small> ==**Delilah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H1809|‎דָּלַל‎]]</big>**; languishing</small>
 
 $\quad$ Delilah.
 - § Delilah = *"feeble"*

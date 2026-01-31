@@ -7,23 +7,23 @@ For his merciful kindness is great toward us: and the truth of the LORD [enduret
 For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!<small><sub>**MT:**</sub></small>
 [[Ps.117.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.117.1|<< Psalm 117:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.1|Psalm 118:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] strengthened | <big><span class="asgreek">εκραταιώθη</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθεια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| abides | <big><span class="asgreek">μένει</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] strengthened | **<big>[[G2901\|εκραταιώθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mercy | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| truth | **<big>[[G0225\|αλήθεια]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| abides | **<big>[[G3306\|μένει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
 [[Ps.117.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.117.1|<< Psalm 117:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.1|Psalm 118:1 >>]]</td></tr></table>
 
 

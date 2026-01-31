@@ -10,42 +10,42 @@ Even in times past, while Saul was king over us, you were the one who led Israel
 > $\quad$ referenced by: [[Matt.2.6|Matt 2:6]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| both  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| yesterday  | <span class="ashebrew"><big>אֶתְמ֣וֹל </big></span><small><small><sup>[[H0865]]</sup></small></small> &#8207;| 'et.Mol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as well as  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three days ago  | <span class="ashebrew"><big>שִׁלְשׁ֗וֹם </big></span><small><small><sup>[[H8032]]</sup></small></small> &#8207;| shil.Shom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when was  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הְי֨וֹת </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> h.Yot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֥וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king  | <span class="ashebrew"><big>מֶ֙לֶךְ֙ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over us  | <span class="ashebrew"><big>עָלֵ֔י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֗ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you were  | <span class="ashebrew"><big>הָיִ֛יתָ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;[^1] [^2] | ha.yi.tah <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| the [one who] led out  [^4] | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מּוֹצִ֥יא </big></span><small><small><sup>[[H3318H]]</sup></small></small> &#8207;[^5] | ha. <small><sup>[[HTd]]</sup></small> mo.tzi' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and the [one who] brought  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֵּבִ֖יא </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;[^6] [^7] | ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> me.vi' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֨אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֨ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will shepherd  | <span class="ashebrew"><big>תִרְעֶ֤ה </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| tir.'Eh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֛ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will become  | <span class="ashebrew"><big>תִּהְיֶ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> ruler  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נָגִ֖יד </big></span><small><small><sup>[[H5057]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> na.Gid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yesterday  |**<big>&#8207;[[H0865\|אֶתְמ֣וֹל]]&#8207; </big>**| 'et.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as well as  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three days ago  |**<big>&#8207;[[H8032\|שִׁלְשׁ֗וֹם]]&#8207; </big>**| shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when was  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1961\|הְי֨וֹת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֥וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king  |**<big>&#8207;[[H4428G\|מֶ֙לֶךְ֙]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over us  |**<big>&#8207;[[H5921A\|עָלֵ֔י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were  |**<big>&#8207;[[H1961\|הָיִ֛יתָ]]&#8207; </big>**[^1] [^2] | ha.yi.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| the [one who] led out  [^4]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3318H\|מּוֹצִ֥יא]]&#8207; </big>**[^5] | ha.<small><sup>[[HTd]]</sup></small> mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and the [one who] brought  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935P\|מֵּבִ֖יא]]&#8207; </big>**[^6] [^7] | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> me.vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֨ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will shepherd  |**<big>&#8207;[[H7462B\|תִרְעֶ֤ה]]&#8207; </big>**| tir.'Eh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will become  |**<big>&#8207;[[H1961\|תִּהְיֶ֥ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> ruler  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5057\|נָגִ֖יד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.Gid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.1|<< 2 Samuel 5:1]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.3|2 Samuel 5:3 >>]]</td></tr></table>
 
 [^1]: ==L== spelled: **<span class="ashebrew"><big>הָיִ֛יתָהַ</big></span>**
 [^2]: ==K== spelled: **<span class="ashebrew"><big>הָיִיתָה</big></span>**
-[^3]: ==K==: **leading out ** | <small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>מוֹצִיא</big></span>  | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
-[^4]: ==K==: **leading out ** | <small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>מוֹצִיא</big></span>  | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
+[^3]: ==K==: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
+[^4]: ==K==: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
 [^5]: ==L== spelled: **<span class="ashebrew"><big>מּוֹצִ֥יא</big></span>**
 [^6]: ==L== spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִ֖י</big></span>**
 [^7]: ==K== spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִי</big></span>**

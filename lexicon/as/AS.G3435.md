@@ -1,6 +1,6 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μολύνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.37.31|Ge 37:31]] (<span class="ashebrew">טבל</span> <small><sup>[[H2881]]</sup></small>), [[LXX.Isa.59.3|Is 59:3]] (<span class="ashebrew">גּאל</span> <small><sup>[[H1351]]</sup></small> ni.), [[LXX.Zech.14.2|Za 14:2]] (<span class="ashebrew">שׁכב</span> <small><sup>[[H7901]]</sup></small> ni.), [[Sir.21.28|Si 21:28]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μολύνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.37.31|Ge 37:31]] (**<big>[[H2881|טבל]]</big>**), [[LXX.Isa.59.3|Is 59:3]] (**<big>[[H1351|גּאל]]</big>** ni.), [[LXX.Zech.14.2|Za 14:2]] (**<big>[[H7901|שׁכב]]</big>** ni.), [[Sir.21.28|Si 21:28]], al.;\]</span> </span>
 <span class="asitalic">to stain</span>, <span class="asitalic">soil</span>, <span class="asitalic">defile</span>; in NT always symb. and fig.: [[1Cor.8.7|I Co 8:7]], [[Rev.3.4|Re 3:4]] [[Rev.14.4|14:4]].†
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asgreek">μιαίνω</span> <small><sup>[[G3392]]</sup></small>, q.v. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G3392|μιαίνω]]</big>**, q.v. </span>
 
 **Abbott-Smith References**
 

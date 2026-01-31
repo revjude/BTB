@@ -11,25 +11,25 @@ Male and female He created them, and He blessed them. And in the day they were c
 > $\quad$ referenced by: [[Matt.19.4|Matt 19:4]] ☩ [[Mark.10.6|Mark 10:6]] ☩ [[Jas.3.9|Jas 3:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Male | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| female | <big><span class="asgreek">θήλυ</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he named | <big><span class="asgreek">επωνόμασε</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Adam, | <big><span class="asgreek">Αδάμ</span></big> <sup><small><small>[[G0076]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Male | **<big>[[G0730\|άρσεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| female | **<big>[[G2338\|θήλυ]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he named | **<big>[[G2028\|επωνόμασε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Adam, | **<big>[[G0076\|Αδάμ]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Gen.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.1|<< Genesis 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.3|Genesis 5:3 >>]]</td></tr></table>
 
 

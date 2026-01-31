@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֵיחַ‎</span></big> **rêyach** <small>*(ray'-akh)*</small> ==**aroma**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רוּחַ‎</span><sup><small>[[H7306]]</small></sup></small>
+**<big><span class="ashebrew">‎רֵיחַ‎</span></big>** **rêyach** <small>*(ray'-akh)*</small> ==**aroma**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7306|‎רוּחַ‎]]</big>**</small>
 
 $\quad$ savour, scent, smell.
 - ***odor*** (as if blown)
@@ -8,4 +8,4 @@ $\quad$ savour, scent, smell.
 $\quad$ **1a)** scent, odour
 $\quad$ **1b)** odour of soothing (technical term for sacrifice to God)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀσμή</span><sup><small>[[G3744]]</small></sup>
+<small>See Greek: </small>**<big>[[G3744|ὀσμή]]</big>**

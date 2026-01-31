@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁימוֹן‎</span></big> **Shîymôwn** <small>*(shee-mone')*</small> ==**Shimon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently for <span class="ashebrew">‎יְשִׁימוֹן‎</span><sup><small>[[H3452]]</small></sup>; desert</small>
+**<big><span class="ashebrew">‎שִׁימוֹן‎</span></big>** **Shîymôwn** <small>*(shee-mone')*</small> ==**Shimon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently for **<big>[[H3452|‎יְשִׁימוֹן‎]]</big>**; desert</small>
 
 $\quad$ Shimon.
 - § Shimon = *"desert"*

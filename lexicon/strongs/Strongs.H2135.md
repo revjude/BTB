@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָכָה‎</span></big> **zâkâh** <small>*(zaw-kaw')*</small> ==**to clean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎זָכַךְ‎</span><sup><small>[[H2141]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זָכָה‎</span></big>** **zâkâh** <small>*(zaw-kaw')*</small> ==**to clean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2141|‎זָכַךְ‎]]</big>**)</small>
 
 $\quad$ be (make) clean, cleanse, be clear, count pure.
 - ***to be translucent***
@@ -15,4 +15,4 @@ $\quad$ **1c)** (Hithpael)
 $\quad$ $\quad$ **1c1)** to cleanse
 $\quad$ $\quad$ **1c2)** to make yourself clean, purify oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγνός</span><sup><small>[[G0053]]</small></sup> · <span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup> · <span class="asgreek">δικαιόω</span><sup><small>[[G1344]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">νικάω</span><sup><small>[[G3528]]</small></sup>
+<small>See Greek: </small>**<big>[[G0053|ἁγνός]]</big>** · **<big>[[G0273|ἄμεμπτος]]</big>** · **<big>[[G1344|δικαιόω]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G3528|νικάω]]</big>**

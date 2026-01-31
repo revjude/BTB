@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׂעֹרִים‎</span></big> **Sᵉʻôrîym** <small>*(seh-o-reem')*</small> ==**Seorim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>masculine plural of <span class="ashebrew">‎שְׂעֹרָה‎</span><sup><small>[[H8184]]</small></sup>; barley grains</small>
+**<big><span class="ashebrew">‎שְׂעֹרִים‎</span></big>** **Sᵉʻôrîym** <small>*(seh-o-reem')*</small> ==**Seorim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>masculine plural of **<big>[[H8184|‎שְׂעֹרָה‎]]</big>**; barley grains</small>
 
 $\quad$ Seorim.
 - § Seorim = *"barley"*

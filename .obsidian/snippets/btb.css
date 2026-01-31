@@ -8,6 +8,9 @@ abbr{
 table{
     width:100%;
 }
+a {
+    text-decoration: none !important;
+}
 .theme-light, .theme-dark {
   --popover-width: 800px; /* Adjust the width as needed */
   --popover-height: 600px; /* Adjust the height as needed */
@@ -190,7 +193,6 @@ span.mod-empty-attachment{
     margin-top: 1em;
     padding-top: 0.5em;
     border-top: 1px solid var(--text-faint);
-    color: var(--text-accent);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asref {
     font-weight: normal;

@@ -7,18 +7,18 @@ As a dream when [one] awaketh; [so], O Lord, when thou awakest, thou shalt despi
 Like one waking from a dream, so You, O Lord, awaken and despise their form.<small><sub>**MT:**</sub></small>
 [[Ps.73.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.19|<< Psalm 73:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.21|Psalm 73:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| of one awakening, | <big><span class="asgreek">εξεγειρομένου</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you will treat | <big><span class="asgreek">εξουδενώσεις</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| As | **<big>[[G5616\|ωσεί]]</big>** |
+| a dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| of one awakening, | **<big>[[G1825\|εξεγειρομένου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your city, | **<big>[[G4172\|πόλει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their image | **<big>[[G1504\|εικόνα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you will treat | **<big>[[G1847\|εξουδενώσεις]]</big>** |
 [[Ps.73.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.19|<< Psalm 73:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.21|Psalm 73:21 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲדִינוֹ‎</span></big> **ʻădîynôw** <small>*(ad-ee-no')*</small> ==**`wielded`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎עָדִין‎</span><sup><small>[[H5719]]</small></sup> in the original sense of slender (i.e. a spear)</small>
+**<big><span class="ashebrew">‎עֲדִינוֹ‎</span></big>** **ʻădîynôw** <small>*(ad-ee-no')*</small> ==**`wielded`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H5719|‎עָדִין‎]]</big>** in the original sense of slender (i.e. a spear)</small>
 
 $\quad$ Adino.
 - § Adino = *"his ornament"*

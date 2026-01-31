@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּזָה‎</span></big> **bâzâh** <small>*(baw-zaw')*</small> ==**to despise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּזָה‎</span></big>** **bâzâh** <small>*(baw-zaw')*</small> ==**to despise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ despise, disdain, contemn(-ptible), [phrase] think to scorn, vile person.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b2)** to be despicable
 $\quad$ $\quad$ **1b3)** to be vile, worthless
 $\quad$ **1c)** (Hiphil) to cause to despise
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄτιμος</span><sup><small>[[G0820]]</small></sup> · <span class="asgreek">ἀτιμόω</span><sup><small>[[G0821]]</small></sup> · <span class="asgreek">ἐξουδενόω</span><sup><small>[[G1847]]</small></sup> · <span class="asgreek">καταφρονέω</span><sup><small>[[G2706]]</small></sup> · <span class="asgreek">μυκτηρίζω</span><sup><small>[[G3456]]</small></sup>
+<small>See Greek: </small>**<big>[[G0820|ἄτιμος]]</big>** · **<big>[[G0821|ἀτιμόω]]</big>** · **<big>[[G1847|ἐξουδενόω]]</big>** · **<big>[[G2706|καταφρονέω]]</big>** · **<big>[[G3456|μυκτηρίζω]]</big>**

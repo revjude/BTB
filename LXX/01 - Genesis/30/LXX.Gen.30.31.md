@@ -7,31 +7,31 @@ And he said, What shall I give thee? And Jacob said, Thou shalt not give me any 
 “What can I give you?” Laban asked. “You do not need to give me anything,” Jacob replied. “If you do this one thing for me, I will keep on shepherding and keeping your flocks.<small><sub>**MT:**</sub></small>
 [[Gen.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.30|<< Genesis 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.32|Genesis 30:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Laban said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I give to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| You shall not give | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| anything. | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| I will tend | <big><span class="asgreek">ποιμανώ</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flocks, | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| guard \[them\]. | <big><span class="asgreek">φυλάξω</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Laban said | **<big>[[G2036\|είπε]]</big>** **<big>[[H3837b\|Λάβαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall I give to you? | **<big>[[G1473\|σοι]]</big>** **<big>[[G1325\|δώσω]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| You shall not give | **<big>[[G3756\|ου]]</big>** **<big>[[G1325\|δώσεις]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| anything. | **<big>[[G3762\|ουθέν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should do | **<big>[[G4160\|ποιήσης]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this word, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| I will tend | **<big>[[G4165\|ποιμανώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your flocks, | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| guard \[them\]. | **<big>[[G5442\|φυλάξω]]</big>** |
 [[Gen.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.30|<< Genesis 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.32|Genesis 30:32 >>]]</td></tr></table>
 
 

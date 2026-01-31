@@ -7,28 +7,28 @@ Go unto the house of the Rechabites, and speak unto them, and bring them into th
 “Go to the house of the Rechabites, speak to them, and bring them to one of the chambers of the house of the LORD to offer them a drink of wine.”<small><sub>**MT:**</sub></small>
 [[Jer.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.1|<< Jeremiah 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.3|Jeremiah 35:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Proceed | <big><span class="asgreek">βάδιζον</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] family | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of \[the\] Rechabites, | <big><span class="asgreek">Ραχαβείν</span></big> <sup><small><small>[[H7394]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| call | <big><span class="asgreek">κάλεσον</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring | <big><span class="asgreek">άξεις</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyards, | <big><span class="asgreek">αυλών</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink | <big><span class="asgreek">ποτιείς</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| Proceed | **<big>[[G6642\|βάδιζον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] family | **<big>[[G3614\|οικίαν]]</big>** |
+| of \[the\] Rechabites, | **<big>[[H7394\|Ραχαβείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| call | **<big>[[G2564\|κάλεσον]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bring | **<big>[[G0071\|άξεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| courtyards, | **<big>[[G0833\|αυλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink | **<big>[[G4222\|ποτιείς]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
 [[Jer.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.1|<< Jeremiah 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.3|Jeremiah 35:3 >>]]</td></tr></table>
 
 

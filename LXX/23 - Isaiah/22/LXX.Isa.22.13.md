@@ -11,30 +11,30 @@ But look, there is joy and gladness, butchering of cattle and slaughtering of sh
 > $\quad$ referenced by: [[1Cor.15.32|1Cor 15:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| were making | <big><span class="asgreek">εποιήσαντο</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| glad | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| leaping for joy, | <big><span class="asgreek">αγαλλίαμα</span></big> <sup><small><small>[[G6110]]</small></small></sup> |
-| slaying | <big><span class="asgreek">σφάζοντες</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrificing | <big><span class="asgreek">θύοντες</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| meat | <big><span class="asgreek">κρέατα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| We should eat | <big><span class="asgreek">φάγωμεν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drink, | <big><span class="asgreek">πίωμεν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| for tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| we die. | <big><span class="asgreek">αποθνήσκομεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| But they | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| were making | **<big>[[G4160\|εποιήσαντο]]</big>** |
+| glad | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| leaping for joy, | **<big>[[G6110\|αγαλλίαμα]]</big>** |
+| slaying | **<big>[[G4969\|σφάζοντες]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrificing | **<big>[[G2380\|θύοντες]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| meat | **<big>[[G2907\|κρέατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink | **<big>[[G4095\|πιείν]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| We should eat | **<big>[[G2068\|φάγωμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drink, | **<big>[[G4095\|πίωμεν]]</big>** |
+| for tomorrow | **<big>[[G0839\|αύριον]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| we die. | **<big>[[G0599\|αποθνήσκομεν]]</big>** |
 [[Isa.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.12|<< Isaiah 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.14|Isaiah 22:14 >>]]</td></tr></table>
 
 

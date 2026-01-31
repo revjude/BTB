@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Λευεί</span></span> (indecl.) and <span class="asgreek">Λευείς</span> (Rec. <span class="asgreek">-υΐ</span>, <span class="asgreek">-υΐς</span>), gen. <span class="asgreek">Λευεί</span>, acc. <span class="asgreek">-είν</span>, <span class="asgreek">ὁ</span> (Heb. <span class="ashebrew">לֵוִי</span> <small><sup>[[H3878]]</sup></small>),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Λευεί</span></span> (indecl.) and <span class="asgreek">Λευείς</span> (Rec. <span class="asgreek">-υΐ</span>, <span class="asgreek">-υΐς</span>), gen. <span class="asgreek">Λευεί</span>, acc. <span class="asgreek">-είν</span>, <span class="asgreek">ὁ</span> (Heb. **<big>[[H3878|לֵוִי]]</big>**),</span>
 <span class="asitalic">Levi</span>;
 <span class="asbullet"><span class="asbold">1.</span> the son of Jacob: [[Heb.7.5|He 7:5]], [[Heb.7.9|9]], [[Rev.7.7|Re 7:7]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Son of Melchi: [[Luke.3.24|Lk 3:24]].</span>

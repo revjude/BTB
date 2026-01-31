@@ -7,17 +7,17 @@ Thus were both the daughters of Lot with child by their father.
 Thus both of Lot’s daughters became pregnant by their father.<small><sub>**MT:**</sub></small>
 [[Gen.19.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.35|<< Genesis 19:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.37|Genesis 19:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| conceived | <big><span class="asgreek">συνέλαβον</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| conceived | **<big>[[G4815\|συνέλαβον]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| of Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Gen.19.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.35|<< Genesis 19:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.37|Genesis 19:37 >>]]</td></tr></table>
 
 

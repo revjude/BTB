@@ -10,30 +10,30 @@ Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have
 This is what the Lord GOD says: ‘Because the Philistines acted in vengeance, taking vengeance with malice of soul to destroy Judah with ancient hostility,<small><sub>**MT:**</sub></small>
 [[Ezek.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.14|<< Ezekiel 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.16|Ezekiel 25:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| vengeance, | <big><span class="asgreek">εκδικήσει</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raised up | <big><span class="asgreek">εξανέστησαν</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| rejoicing | <big><span class="asgreek">επιχαίροντες</span></big> <sup><small><small>[[G7471]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[their\] soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to wipe \[them\] away | <big><span class="asgreek">εξαλείψαι</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| vengeance, | **<big>[[G1557\|εκδικήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raised up | **<big>[[G1817\|εξανέστησαν]]</big>** |
+| vengeance | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| rejoicing | **<big>[[G7471\|επιχαίροντες]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[their\] soul | **<big>[[G5590\|ψυχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to wipe \[them\] away | **<big>[[G1813\|εξαλείψαι]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[Ezek.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.14|<< Ezekiel 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.16|Ezekiel 25:16 >>]]</td></tr></table>
 
 

@@ -10,39 +10,39 @@ And Hilkiah, and [they] that the king [had appointed], went to Huldah the prophe
 So Hilkiah and those the king had designated went and spoke to Huldah the prophetess, the wife of Shallum son of Tokhath, the son of Hasrah, the keeper of the wardrobe. She lived in Jerusalem, in the Second District.<small><sub>**MT:**</sub></small>
 [[2Chr.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.21|<< 2 Chronicles 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.23|2 Chronicles 34:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Helkiah went, | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Χελκίας</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the ones\] who | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| told | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Huldah | <big><span class="asgreek">Ολδάν</span></big> <sup><small><small>[[H2468]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophetess, | <big><span class="asgreek">προφήτιν</span></big> <sup><small><small>[[G4398]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Shallum, | <big><span class="asgreek">Σελλήμ</span></big> <sup><small><small>[[H8006]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Tikvath, | <big><span class="asgreek">Θεκώε</span></big> <sup><small><small>[[H8616]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hazrah | <big><span class="asgreek">Ασέρ</span></big> <sup><small><small>[[H2641]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| keeper of the cloaks; | <big><span class="asgreek">ιματιοφύλακος</span></big> <sup><small><small>[[G7721]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] second section. | <big><span class="asgreek">μασαναί</span></big> <sup><small><small>[[G8258]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Helkiah went, | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[H2518\|Χελκίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the ones\] who | **<big>[[G3739\|οις]]</big>** |
+| told | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king, | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Huldah | **<big>[[H2468\|Ολδάν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| prophetess, | **<big>[[G4398\|προφήτιν]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| of Shallum, | **<big>[[H8006\|Σελλήμ]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Tikvath, | **<big>[[H8616\|Θεκώε]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Hazrah | **<big>[[H2641\|Ασέρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| keeper of the cloaks; | **<big>[[G7721\|ιματιοφύλακος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G3778\|αύτη]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] second section. | **<big>[[G8258\|μασαναί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** |
 [[2Chr.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.21|<< 2 Chronicles 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.23|2 Chronicles 34:23 >>]]</td></tr></table>
 
 

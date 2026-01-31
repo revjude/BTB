@@ -7,27 +7,27 @@ And Gilead, and the border of the Geshurites and Maachathites, and all mount Her
 also Gilead and the territory of the Geshurites and Maacathites, all of Mount Hermon, and all Bashan as far as Salecah—<small><sub>**MT:**</sub></small>
 [[Josh.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.10|<< Joshua 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.12|Joshua 13:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead, | <big><span class="asgreek">Γαλααδίτιν</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of \[the\] Geshurites | <big><span class="asgreek">Γεσουρί</span></big> <sup><small><small>[[H1650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Maachathites, | <big><span class="asgreek">Μαχατί</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Hermon, | <big><span class="asgreek">Αερμών</span></big> <sup><small><small>[[H2768]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bashan | <big><span class="asgreek">Βασανίτιν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Salcah; | <big><span class="asgreek">Σελχά</span></big> <sup><small><small>[[H5548]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Gilead, | **<big>[[H1568\|Γαλααδίτιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| of \[the\] Geshurites | **<big>[[H1650\|Γεσουρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Maachathites, | **<big>[[H4601\|Μαχατί]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Hermon, | **<big>[[H2768\|Αερμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Bashan | **<big>[[H1316\|Βασανίτιν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Salcah; | **<big>[[H5548\|Σελχά]]</big>** |
 [[Josh.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.10|<< Joshua 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.12|Joshua 13:12 >>]]</td></tr></table>
 
 

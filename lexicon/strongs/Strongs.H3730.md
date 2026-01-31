@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּפְתֹּר‎</span></big> **kaphtôr** <small>*(kaf-tore')*</small> ==**capital**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (Amos 9:1) <span class="ashebrew">כַּפְתּוֹר</span> **kaphtôwr** <small>*(kaf-tore')*</small>; probably from an unused root meaning to encircle</small>
+**<big><span class="ashebrew">‎כַּפְתֹּר‎</span></big>** **kaphtôr** <small>*(kaf-tore')*</small> ==**capital**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (Amos 9:1) **<big><span class="ashebrew">כַּפְתּוֹר</span></big>** **kaphtôwr** <small>*(kaf-tore')*</small>; probably from an unused root meaning to encircle</small>
 
 $\quad$ knop, (upper) lintel.
 - ***a chaplet***

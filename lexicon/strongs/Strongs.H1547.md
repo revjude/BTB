@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎גָּלוּת‎</span></big> **gâlûwth** <small>*(gaw-looth')*</small> ==**captivity**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎גָּלוּת‎</span><sup><small>[[H1546]]</small></sup></small>
+**<big><span class="asaramaic">‎גָּלוּת‎</span></big>** **gâlûwth** <small>*(gaw-looth')*</small> ==**captivity**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1546|‎גָּלוּת‎]]</big>**</small>
 
 $\quad$ captivity.
 - {***captivity***

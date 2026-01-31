@@ -7,19 +7,19 @@ My heart is sore pained within me: and the terrors of death are fallen upon me.
 My heart pounds within me, and the terrors of death assail me.<small><sub>**MT:**</sub></small>
 [[Ps.55.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.3|<< Psalm 55:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.5|Psalm 55:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dread | <big><span class="asgreek">δειλία</span></big> <sup><small><small>[[G1167]]</small></small></sup> |
-| of death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| fell | <big><span class="asgreek">επέπεσεν</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dread | **<big>[[G1167\|δειλία]]</big>** |
+| of death | **<big>[[G2288\|θανάτου]]</big>** |
+| fell | **<big>[[G1968\|επέπεσεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me. | **<big>[[G1473\|εμέ]]</big>** |
 [[Ps.55.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.3|<< Psalm 55:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.5|Psalm 55:5 >>]]</td></tr></table>
 
 

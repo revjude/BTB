@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּעָה‎</span></big> **tâʻâh** <small>*(taw-aw')*</small> ==**to go astray**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּעָה‎</span></big>** **tâʻâh** <small>*(taw-aw')*</small> ==**to go astray**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (cause to) go astray, deceive, dissemble, (cause to, make to) err, pant, seduce, (make to) stagger, (cause to) wander, be out of the way.
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c1)** to cause to wander about (physically)
 $\quad$ $\quad$ **1c2)** to cause to wander (of intoxication)
 $\quad$ $\quad$ **1c3)** to cause to err, mislead (mentally and morally)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξάγω</span><sup><small>[[G1806]]</small></sup> · <span class="asgreek">ἐξωθέω</span><sup><small>[[G1856]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup>
+<small>See Greek: </small>**<big>[[G1806|ἐξάγω]]</big>** · **<big>[[G1856|ἐξωθέω]]</big>** · **<big>[[G4105|πλανάω]]</big>** · **<big>[[G4105|πλανάω]]</big>**

@@ -7,30 +7,30 @@ And said, Remember now, O LORD, I beseech thee, how I have walked before thee in
 saying, “Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.<small><sub>**MT:**</sub></small>
 [[Isa.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.2|<< Isaiah 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.4|Isaiah 38:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Remember, | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| I was gone | <big><span class="asgreek">επορεύθην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| truth, | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| a true | <big><span class="asgreek">αληθινή</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pleasing | <big><span class="asgreek">αρεστά</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did. | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah wept | <big><span class="asgreek">έκλαυσεν</span></big> <sup><small><small>[[G1478]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαυθμώ</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| with great | <big><span class="asgreek">μεγάλω</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Remember, | **<big>[[G3403\|μνήσθητι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| I was gone | **<big>[[G4198\|επορεύθην]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| truth, | **<big>[[G0225\|αληθείας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| a true | **<big>[[G0228\|αληθινή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| pleasing | **<big>[[G0701\|αρεστά]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| I did. | **<big>[[G4160\|εποίησα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hezekiah wept | **<big>[[G1478\|έκλαυσεν]]</big>** **<big>[[G2799\|Εζεκίας]]</big>** |
+| weeping | **<big>[[G2805\|κλαυθμώ]]</big>** |
+| with great | **<big>[[G3173\|μεγάλω]]</big>** |
 [[Isa.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.2|<< Isaiah 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.4|Isaiah 38:4 >>]]</td></tr></table>
 
 

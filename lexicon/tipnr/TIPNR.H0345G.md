@@ -4,9 +4,9 @@ Edomite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Aiah</span> was the son of Zibeon the Hivite and the brother of Anah, who was a descendant of Esau. \([[Gen.36.24|Gen.36.24]]; [[1Chr.1.40|1Ch.1.40]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.24|Gen.36.24]]; 
-- only referred to as Aiah<[[H0345G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Zibeon<[[H6649]]>; 
-- a brother of Anah<[[H6034]]>.
+- only referred to as Aiah **<big>[[H0345|אַיָּה]]</big>**; 
+-  son of Zibeon **<big>[[H6649|צִבְעוֹן]]</big>**; 
+- a brother of Anah **<big>[[H6034|עֲנָה]]</big>**.
 
 Aiah is mentioned in the genealogy of Esau, the son of Isaac and the brother of Israel \(or 'Jacob'\). He is listed as the son of Zibeon the Hivite and the brother of Anah. \([[Gen.36.24|Gen.36.24]]; [[1Chr.1.40|1Ch.1.40]]\) 
 
@@ -20,8 +20,8 @@ Apart from being listed in the genealogy, no further details are provided about 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aiah (KJV= Ajah) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0345G) <small>*Hebrew*</small> | 2x | [[Gen.36.24] & [1Ch.1.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiah\*\|reference=Gen.36.24;1Ch.1.40) |
-All Strong's for **Aiah**: \[[[H0345G]]\]
+| Aiah (KJV= Ajah) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0345G) | 2x | [[Gen.36.24] & [1Ch.1.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiah\*\|reference=Gen.36.24;1Ch.1.40) |
+All entries for **Aiah**:  **<big>[[H0345|אַיָּה]]</big>**
 #### Related Profiles:
 - **[Zibeon](H6649)** (father)
 - **[Anah](H6034)** (sibling)

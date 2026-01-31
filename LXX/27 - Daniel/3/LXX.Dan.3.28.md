@@ -7,65 +7,65 @@ And the king did obeisance before them to the <span class="smallcaps">lord</span
 Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king’s command and risked their lives rather than serve or worship any god except their own God.<small><sub>**MT:**</sub></small>
 [[Dan.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.27|<< Daniel 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.29|Daniel 3:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did obeisance | <big><span class="asgreek">προσεκύνησεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Blessed be | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abed-nego, | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his angel, | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rescued | <big><span class="asgreek">εξείλετο</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they relied | <big><span class="asgreek">επεποίθεισαν</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| they changed, | <big><span class="asgreek">ηλλοίωσαν</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they delivered up | <big><span class="asgreek">παρέδωκαν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bodies | <big><span class="asgreek">σώματα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| serve | <big><span class="asgreek">λατρεύσωσι</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| do obeisance to | <big><span class="asgreek">προσκυνήσωσι</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| god | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| except | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did obeisance | **<big>[[G4352\|προσεκύνησεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| responded | **<big>[[G0611\|απεκρίθη]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Blessed be | **<big>[[G2128\|ευλογητός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abed-nego, | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his angel, | **<big>[[G0032\|άγγελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rescued | **<big>[[G1807\|εξείλετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants, | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they relied | **<big>[[G3982\|επεποίθεισαν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| they changed, | **<big>[[G6230\|ηλλοίωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they delivered up | **<big>[[G3860\|παρέδωκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their bodies | **<big>[[G4983\|σώματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| serve | **<big>[[G3000\|λατρεύσωσι]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| do obeisance to | **<big>[[G4352\|προσκυνήσωσι]]</big>** |
+| any | **<big>[[G3956\|παντί]]</big>** |
+| god | **<big>[[G2316\|θεώ]]</big>** |
+| except | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Dan.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.27|<< Daniel 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.29|Daniel 3:29 >>]]</td></tr></table>
 
 

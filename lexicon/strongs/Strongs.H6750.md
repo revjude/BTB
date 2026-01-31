@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָלַל‎</span></big> **tsâlal** <small>*(tsaw-lal')*</small> ==**to tingle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָלַל‎</span></big>** **tsâlal** <small>*(tsaw-lal')*</small> ==**to tingle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root (identical with through the idea of vibration)</small>
 
 $\quad$ quiver, tingle.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Qal)
 $\quad$ $\quad$ **1a1)** to tingle (of ears)
 $\quad$ $\quad$ **1a2)** to quiver (of fear)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δύνω</span><sup><small>[[G1416]]</small></sup> · <span class="asgreek">ἠχέω</span><sup><small>[[G2278]]</small></sup> · <span class="asgreek">καθίστημι</span><sup><small>[[G2525]]</small></sup>
+<small>See Greek: </small>**<big>[[G1416|δύνω]]</big>** · **<big>[[G2278|ἠχέω]]</big>** · **<big>[[G2525|καθίστημι]]</big>**

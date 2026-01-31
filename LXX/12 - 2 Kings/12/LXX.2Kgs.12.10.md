@@ -7,42 +7,42 @@ And it was [so], when they saw that [there was] much money in the chest, that th
 Whenever they saw that there was a large amount of money in the chest, the royal scribe and the high priest would go up, count the money brought into the house of the LORD, and tie it up in bags.<small><sub>**MT:**</sub></small>
 [[2Kgs.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.9|<< 2 Kings 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.11|2 Kings 12:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| they saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[there was\] much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chest, | <big><span class="asgreek">κιβωτώ</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they grasped | <big><span class="asgreek">έσφιγξαν</span></big> <sup><small><small>[[G9373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| counted | <big><span class="asgreek">ηρίθμησαν</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found | <big><span class="asgreek">ευρεθέν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| they saw | **<big>[[G1492\|είδον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[there was\] much | **<big>[[G4183\|πολύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| chest, | **<big>[[G2787\|κιβωτώ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| scribe | **<big>[[G1122\|γραμματεύς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they grasped | **<big>[[G9373\|έσφιγξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| counted | **<big>[[G0705\|ηρίθμησαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being found | **<big>[[G2147\|ευρεθέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.9|<< 2 Kings 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.11|2 Kings 12:11 >>]]</td></tr></table>
 
 

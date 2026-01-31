@@ -6,16 +6,16 @@ Do not let the oppressed retreat in shame; may the poor and needy praise Your na
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.20|<< Psalms 74:20]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.22|Psalms 74:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he return  | <span class="ashebrew"><big>יָשֹׁ֣ב </big></span><small><small><sup>[[H7725I]]</sup></small></small> &#8207;| ya.Sho <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] oppressed  | <span class="ashebrew"><big>דַּ֣ךְ </big></span><small><small><sup>[[H1790]]</sup></small></small> &#8207;| dakh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humiliated  | <span class="ashebrew"><big>נִכְלָ֑ם </big></span><small><small><sup>[[H3637]]</sup></small></small> &#8207;| nikh.Lam <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] poor  | <span class="ashebrew"><big>עָנִ֥י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] needy  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶבְי֗וֹן </big></span><small><small><sup>[[H0034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ev.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may they praise  | <span class="ashebrew"><big>יְֽהַלְל֥וּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| ye.ha.Lu <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שְׁמֶֽ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Me. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he return  |**<big>&#8207;[[H7725I\|יָשֹׁ֣ב]]&#8207; </big>**| ya.Sho<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oppressed  |**<big>&#8207;[[H1790\|דַּ֣ךְ]]&#8207; </big>**| dakh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humiliated  |**<big>&#8207;[[H3637\|נִכְלָ֑ם]]&#8207; </big>**| nikh.Lam<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poor  |**<big>&#8207;[[H6041\|עָנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] needy  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0034\|אֶבְי֗וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they praise  |**<big>&#8207;[[H1984B\|יְֽהַלְל֥וּ]]&#8207; </big>**| ye.ha.Lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שְׁמֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.20|<< Psalms 74:20]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.22|Psalms 74:22 >>]]</td></tr></table>
 
 

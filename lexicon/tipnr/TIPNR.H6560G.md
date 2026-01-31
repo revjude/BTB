@@ -1,8 +1,8 @@
 <small>*Perez-uzzah • A place named after Uzzah's death*</small>
 
 <span class='tipnrhighlight'>Perez-uzza</span> was the name given to the place where Uzzah died after touching the Ark of the Covenant during its transport to Jerusalem.
-- A location near Jerusalem<[[H3389]]> only mentioned at [[1Chr.13.11|1Ch.13.11]]; 
-- only referred to as Perez-uzza<[[H6560G]]> \(<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ץ</span> <span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[1Chr.13.11|1Ch.13.11]]; 
+- only referred to as Perez-uzza **<big>[[H6560|פֶּרֶץ עֻזָּא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The incident at Perez-uzza highlights the sacredness of the Ark of the Covenant 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Perez-uzza (NIV= Perez-uzzah) | [<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ץ</span> <span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span>](H6560G) <small>*Hebrew*</small> | 1x | [1Ch.13.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perez\*\|reference=1Ch.13.11) |
-All Strong's for **Perez-uzza**: \[[[H6560G]]\]
+| Perez-uzza (NIV= Perez-uzzah) | [<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ץ</span> <span class='tipnrLangHebrew'>ע</span>ֻ<span class='tipnrLangHebrew'>ז</span>ָּ<span class='tipnrLangHebrew'>א</span>](H6560G) | 1x | [1Ch.13.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perez\*\|reference=1Ch.13.11) |
+All entries for **Perez-uzza**:  **<big>[[H6560|פֶּרֶץ עֻזָּא]]</big>**

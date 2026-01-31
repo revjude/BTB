@@ -7,31 +7,31 @@ And the priest shall offer them, the one [for] a sin offering, and the other [fo
 The priest is to sacrifice them, one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for the man before the LORD because of his discharge.<small><sub>**MT:**</sub></small>
 [[Lev.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.14|<< Leviticus 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.16|Leviticus 15:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall offer | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering. | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his flow. | <big><span class="asgreek">ρύσεως</span></big> <sup><small><small>[[G4511]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall offer | **<big>[[G4160\|ποιήσει]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering. | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| for | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his flow. | **<big>[[G4511\|ρύσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.14|<< Leviticus 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.16|Leviticus 15:16 >>]]</td></tr></table>
 
 

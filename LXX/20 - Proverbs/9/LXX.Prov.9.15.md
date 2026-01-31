@@ -7,17 +7,17 @@ To call passengers who go right on their ways:
 calling out to those who pass by, who make their paths straight.<small><sub>**MT:**</sub></small>
 [[Prov.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.14|<< Proverbs 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.16|Proverbs 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| calling | <big><span class="asgreek">προσκαλουμένη</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones passing by | <big><span class="asgreek">παριόντας</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| \[the\] way, | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones going straight | <big><span class="asgreek">κατευθύνοντας</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ways, \[saying\], | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| calling | **<big>[[G4341\|προσκαλουμένη]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones passing by | **<big>[[G3935\|παριόντας]]</big>** |
+| \[the\] way, | **<big>[[G3598\|οδόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones going straight | **<big>[[G2720\|κατευθύνοντας]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their ways, \[saying\], | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Prov.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.14|<< Proverbs 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.16|Proverbs 9:16 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Jordan</span> River and its surrounding region played a significant role in the history of Israel, from the time of the patriarchs to the New Testament era.
 - A location first mentioned at [[Gen.13.10|Gen.13.10]]; 
-- referred to as Jordan<[[H3383]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ן</span>\), or Jordan<[[G2446]]> \(<span class='tipnrLangGreek'>Ἰορδάνης</span>\).
+- referred to as Jordan **<big>[[H3383|יַרְדֵּן]]</big>**, or Jordan **<big>[[G2446|Ἰορδάνης]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.309099,35.559900&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ The Jordan River, the most prominent river in the Bible, flows from north to sou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jordan | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ן</span>](H3383) <small>*Hebrew*</small> | 182x | [[Gen.13.10] ... [Zec.11.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jordan\*\|reference=Gen.13.10;Gen.13.11;Gen.32.10;Gen.50.10;Gen.50.11;Num.13.29;Num.22.1;Num.26.3;Num.26.63;Num.31.12;Num.32.5;Num.32.19;Num.32.19;Num.32.21;Num.32.29;Num.32.32;Num.33.48;Num.33.49;Num.33.50;Num.33.51;Num.34.12;Num.34.15;Num.35.1;Num.35.10;Num.35.14;Num.36.13;Deu.1.1;Deu.1.5;Deu.2.29;Deu.3.8;Deu.3.17;Deu.3.20;Deu.3.25;Deu.3.27;Deu.4.21;Deu.4.22;Deu.4.26;Deu.4.41;Deu.4.46;Deu.4.47) |
-| Jordan | [<span class='tipnrLangGreek'>Ἰορδάνης</span>](G2446) <small>*Greek*</small> | 15x | [[Mat.3.5] ... [Jhn.10.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jordan\*\|reference=Mat.3.5;Mat.3.6;Mat.3.13;Mat.4.15;Mat.4.25;Mat.19.1;Mrk.1.5;Mrk.1.9;Mrk.3.8;Mrk.10.1;Luk.3.3;Luk.4.1;Jhn.1.28;Jhn.3.26;Jhn.10.40) |
-All Strong's for **Jordan**: \[[[H3383]]\] \[[[G2446]]\]
+| Jordan | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ן</span>](H3383) | 182x | [[Gen.13.10] ... [Zec.11.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jordan\*\|reference=Gen.13.10;Gen.13.11;Gen.32.10;Gen.50.10;Gen.50.11;Num.13.29;Num.22.1;Num.26.3;Num.26.63;Num.31.12;Num.32.5;Num.32.19;Num.32.19;Num.32.21;Num.32.29;Num.32.32;Num.33.48;Num.33.49;Num.33.50;Num.33.51;Num.34.12;Num.34.15;Num.35.1;Num.35.10;Num.35.14;Num.36.13;Deu.1.1;Deu.1.5;Deu.2.29;Deu.3.8;Deu.3.17;Deu.3.20;Deu.3.25;Deu.3.27;Deu.4.21;Deu.4.22;Deu.4.26;Deu.4.41;Deu.4.46;Deu.4.47) |
+| Jordan | [<span class='tipnrLangGreek'>Ἰορδάνης</span>](G2446) | 15x | [[Mat.3.5] ... [Jhn.10.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jordan\*\|reference=Mat.3.5;Mat.3.6;Mat.3.13;Mat.4.15;Mat.4.25;Mat.19.1;Mrk.1.5;Mrk.1.9;Mrk.3.8;Mrk.10.1;Luk.3.3;Luk.4.1;Jhn.1.28;Jhn.3.26;Jhn.10.40) |
+All entries for **Jordan**:  **<big>[[H3383|יַרְדֵּן]]</big>** ☩  **<big>[[G2446|Ἰορδάνης]]</big>**

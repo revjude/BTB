@@ -7,28 +7,28 @@ And early in the morning Laban rose up, and kissed his sons and his daughters, a
 Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home.<small><sub>**MT:**</sub></small>
 [[Gen.31.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.54|<< Genesis 31:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.1|Genesis 32:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| rising up | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| kissed | <big><span class="asgreek">κατεφίλησε</span></big> <sup><small><small>[[G2705]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of his, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Laban turned | <big><span class="asgreek">αποστραφείς</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| \[and\] went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| rising up | **<big>[[G0450\|αναστάς]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| in the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| kissed | **<big>[[G2705\|κατεφίλησε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| of his, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Laban turned | **<big>[[G0654\|αποστραφείς]]</big>** **<big>[[H3837b\|Λάβαν]]</big>** |
+| \[and\] went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his place. | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.31.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.54|<< Genesis 31:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.1|Genesis 32:1 >>]]</td></tr></table>
 
 

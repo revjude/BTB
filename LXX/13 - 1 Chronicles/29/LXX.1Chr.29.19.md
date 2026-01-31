@@ -7,40 +7,40 @@ And give unto Solomon my son a perfect heart, to keep thy commandments, thy test
 And give my son Solomon a whole heart to keep and carry out all Your commandments, decrees, and statutes, and to build Your palace for which I have made provision.”<small><sub>**MT:**</sub></small>
 [[1Chr.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.18|<< 1 Chronicles 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.20|1 Chronicles 29:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to observe | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your testimonies, | <big><span class="asgreek">μαρτύριά</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your orders, | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| completion | <big><span class="asgreek">τέλους</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| to lead | <big><span class="asgreek">αγαγείν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnishing | <big><span class="asgreek">κατασκευήν</span></big> <sup><small><small>[[G7920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I prepared. | <big><span class="asgreek">ητοίμασα</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my son | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| give | **<big>[[G1325\|δος]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| a good | **<big>[[G0018\|αγαθήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to observe | **<big>[[G4160\|ποιείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your testimonies, | **<big>[[G3142\|μαρτύριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your orders, | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| completion | **<big>[[G5056\|τέλους]]</big>** |
+| to lead | **<big>[[G0071\|αγαγείν]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| furnishing | **<big>[[G7920\|κατασκευήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G1510\|ην]]</big>** |
+| I prepared. | **<big>[[G2090\|ητοίμασα]]</big>** |
 [[1Chr.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.18|<< 1 Chronicles 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.20|1 Chronicles 29:20 >>]]</td></tr></table>
 
 

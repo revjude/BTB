@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צוּף‎</span></big> **Tsûwph** <small>*(tsoof)*</small> ==**Zuph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">צוֹפַי</span> **Tsôwphay** <small>*(tso-fah'-ee)*</small>; or <span class="ashebrew">צִיף</span> **Tsîyph** <small>*(tseef)*</small>; from <span class="ashebrew">‎צוּף‎</span><sup><small>[[H6688]]</small></sup>; honey-comb</small>
+**<big><span class="ashebrew">‎צוּף‎</span></big>** **Tsûwph** <small>*(tsoof)*</small> ==**Zuph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">צוֹפַי</span></big>** **Tsôwphay** <small>*(tso-fah'-ee)*</small>; or **<big><span class="ashebrew">צִיף</span></big>** **Tsîyph** <small>*(tseef)*</small>; from **<big>[[H6688|‎צוּף‎]]</big>**; honey-comb</small>
 
 $\quad$ Zophai, Zuph.
 - § Zuph or Zophai = *"honeycomb"*

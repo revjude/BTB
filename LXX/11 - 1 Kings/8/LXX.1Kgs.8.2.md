@@ -7,23 +7,23 @@ And all the men of Israel assembled themselves unto king Solomon at the feast in
 And all the men of Israel came together to King Solomon at the feast in the seventh month, the month of Ethanim.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.1|<< 1 Kings 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.3|1 Kings 8:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| Athanim | <big><span class="asgreek">αθανίμ</span></big> <sup><small><small>[[G6148]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| its holiday, | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| month | <big><span class="asgreek">μην</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \[the\] seventh | <big><span class="asgreek">έβδομος</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] month | **<big>[[G3376\|μηνί]]</big>** |
+| Athanim | **<big>[[G6148\|αθανίμ]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| its holiday, | **<big>[[G1859\|εορτή]]</big>** **<big>[[G1473\|αυτός]]</big>** |
+| this | **<big>[[G1473\|αυτός]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| month | **<big>[[G3376\|μην]]</big>** |
+| \[the\] seventh | **<big>[[G1442\|έβδομος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Kgs.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.1|<< 1 Kings 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.3|1 Kings 8:3 >>]]</td></tr></table>
 
 

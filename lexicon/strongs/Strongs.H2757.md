@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרִיץ‎</span></big> **chârîyts** <small>*(khaw-reets')*</small> ==**incision**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">חֲרִץ</span> **chărits** <small>*(khaw-reets')*</small>; from <span class="ashebrew">‎חָרַץ‎</span><sup><small>[[H2782]]</small></sup>; (compare <span class="ashebrew">‎חֲרוּץ‎</span><sup><small>[[H2742]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָרִיץ‎</span></big>** **chârîyts** <small>*(khaw-reets')*</small> ==**incision**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲרִץ</span></big>** **chărits** <small>*(khaw-reets')*</small>; from **<big>[[H2782|‎חָרַץ‎]]</big>**; (compare **<big>[[H2742|‎חֲרוּץ‎]]</big>**)</small>
 
 $\quad$ [phrase] cheese, harrow.
 - properly, ***incisure*** or (passively) ***incised***
@@ -8,4 +8,4 @@ $\quad$ [phrase] cheese, harrow.
 
 **1)** a cut, thing cut, sharp instrument, sharp cutting instrument, harrow, hoe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τρίβολος</span><sup><small>[[G5146]]</small></sup>
+<small>See Greek: </small>**<big>[[G5146|τρίβολος]]</big>**

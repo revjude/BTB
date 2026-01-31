@@ -7,22 +7,22 @@ They have healed also the hurt [of the daughter] of my people slightly, saying, 
 They dress the wound of My people with very little care, saying, ‘Peace, peace,’ when there is no peace at all.<small><sub>**MT:**</sub></small>
 [[Jer.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.13|<< Jeremiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.15|Jeremiah 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they repaired | <big><span class="asgreek">ιώντο</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destruction | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| treating it with contempt, | <big><span class="asgreek">εξουθενούντες</span></big> <sup><small><small>[[G1848]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Peace. | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| peace? | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they repaired | **<big>[[G2390\|ιώντο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| destruction | **<big>[[G4938\|σύντριμμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| treating it with contempt, | **<big>[[G1848\|εξουθενούντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Peace. | **<big>[[G1515\|ειρήνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| peace? | **<big>[[G1515\|ειρήνη]]</big>** |
 [[Jer.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.13|<< Jeremiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.15|Jeremiah 6:15 >>]]</td></tr></table>
 
 

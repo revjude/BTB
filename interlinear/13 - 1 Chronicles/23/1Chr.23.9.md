@@ -6,20 +6,20 @@ The sons of Shimei: Shelomoth, Haziel, and Haran—three in all. These were the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.8|<< 1 Chronicles 23:8]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.10|1 Chronicles 23:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shimei  | <span class="ashebrew"><big>שִׁמְעִ֗י </big></span><small><small><sup>[[H8096V]]</sup></small></small> &#8207;| shim.'I <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shelomith  [^1] | <span class="ashebrew"><big>שְׁלוֹמִ֧ית </big></span><small><small><sup>[[H8019K]]</sup></small></small> &#8207;[^2] | she.lo.mot <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and Haziel  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲזִיאֵ֛ל </big></span><small><small><sup>[[H2381]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.zi.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Haran  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָרָ֖ן </big></span><small><small><sup>[[H2039H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֑ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֛לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] heads of  | <span class="ashebrew"><big>רָאשֵׁ֥י </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fathers  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָב֖וֹת </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Ladan  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>לַעְדָּֽן </big></span><small><small><sup>[[H3936H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> la'.Dan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimei  |**<big>&#8207;[[H8096V\|שִׁמְעִ֗י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shelomith  [^1]|**<big>&#8207;[[H8019K\|שְׁלוֹמִ֧ית]]&#8207; </big>**[^2] | she.lo.mot<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and Haziel  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2381\|חֲזִיאֵ֛ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.zi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Haran  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2039H\|הָרָ֖ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֑ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] heads of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֥י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fathers  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0001G\|אָב֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Ladan  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3936H\|לַעְדָּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> la'.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.8|<< 1 Chronicles 23:8]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.10|1 Chronicles 23:10 >>]]</td></tr></table>
 
-[^1]: ==K==: **Shelomoth ** | <small><sup>[[H8013G]]</sup></small> <span class="ashebrew"><big>שְׁלֹמוֹת</big></span>  | she.lo.mot<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Shelomoth  | **<big>[[H8013G|שְׁלֹמוֹת]]</big> ** | she.lo.mot<small><sup>[[HNpm]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>שְׁלֹמִ֧ות</big></span>**
 

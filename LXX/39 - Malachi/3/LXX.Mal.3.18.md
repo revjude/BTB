@@ -7,25 +7,25 @@ Then shall ye return, and discern between the righteous and the wicked, between 
 So you will again distinguish between the righteous and the wicked, between those who serve God and those who do not.”<small><sub>**MT:**</sub></small>
 [[Mal.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.17|<< Malachi 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.1|Malachi 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall you be turned, | <big><span class="asgreek">επιστραφήσεσθε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall see | <big><span class="asgreek">όψεσθε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] just one | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] wrongdoer; | <big><span class="asgreek">αδίκου</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] one serving | <big><span class="asgreek">δουλεύοντος</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύοντος</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| shall you be turned, | **<big>[[G1994\|επιστραφήσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall see | **<big>[[G3708\|όψεσθε]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] just one | **<big>[[G1342\|δικαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] wrongdoer; | **<big>[[G0094\|αδίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] one serving | **<big>[[G1398\|δουλεύοντος]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| serving | **<big>[[G1398\|δουλεύοντος]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Mal.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.17|<< Malachi 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.1|Malachi 4:1 >>]]</td></tr></table>
 
 

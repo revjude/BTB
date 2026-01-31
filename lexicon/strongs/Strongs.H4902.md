@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֶשֶׁךְ‎</span></big> **Meshek** <small>*(meh'-shek)*</small> ==**Meshech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same in form as <span class="ashebrew">‎מֶשֶׁךְ‎</span><sup><small>[[H4901]]</small></sup>, but probably of foreign derivation</small>
+**<big><span class="ashebrew">‎מֶשֶׁךְ‎</span></big>** **Meshek** <small>*(meh'-shek)*</small> ==**Meshech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same in form as **<big>[[H4901|‎מֶשֶׁךְ‎]]</big>**, but probably of foreign derivation</small>
 
 $\quad$ Mesech, Meshech.
 - § Mesech or Meshech = *"drawing out"*

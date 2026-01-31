@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָהָה‎</span></big> **nâhâh** <small>*(naw-haw')*</small> ==**to wail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָהָה‎</span></big>** **nâhâh** <small>*(naw-haw')*</small> ==**to wail**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lament, wail.
@@ -9,4 +9,4 @@ $\quad$ lament, wail.
 $\quad$ **1a)** (Qal) to wail, lament
 $\quad$ **1b)** (Niphal) to go mourning after
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιβλέπω</span><sup><small>[[G1914]]</small></sup> · <span class="asgreek">θρηνέω</span><sup><small>[[G2354]]</small></sup>
+<small>See Greek: </small>**<big>[[G1914|ἐπιβλέπω]]</big>** · **<big>[[G2354|θρηνέω]]</big>**

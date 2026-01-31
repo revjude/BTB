@@ -6,17 +6,17 @@ The LORD has raised up the foes of Rezin against him and joined his enemies toge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.10|<< Isaiah 9:10]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.12|Isaiah 9:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he set on high  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְשַׂגֵּ֧ב </big></span><small><small><sup>[[H7682]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.sa.Gev <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] opponents of  | <span class="ashebrew"><big>צָרֵ֥י </big></span><small><small><sup>[[H6862C]]</sup></small></small> &#8207;| tza.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rezin  | <span class="ashebrew"><big>רְצִ֖ין </big></span><small><small><sup>[[H7526G]]</sup></small></small> &#8207;| re.Tzin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against him  | <span class="ashebrew"><big>עָלָ֑י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies his  | <span class="ashebrew"><big>אֹיְבָ֖י </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'o.ye.Va <small><sup>[[HVqrmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he provoked  | <span class="ashebrew"><big>יְסַכְסֵֽךְ </big></span><small><small><sup>[[H5526B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.sakh.Sekh <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he set on high  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7682\|יְשַׂגֵּ֧ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Gev<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] opponents of  |**<big>&#8207;[[H6862C\|צָרֵ֥י]]&#8207; </big>**| tza.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rezin  |**<big>&#8207;[[H7526G\|רְצִ֖ין]]&#8207; </big>**| re.Tzin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against him  |**<big>&#8207;[[H5921A\|עָלָ֑י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies his  |**<big>&#8207;[[H0341\|אֹיְבָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he provoked  |**<big>&#8207;[[H5526B\|יְסַכְסֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.sakh.Sekh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.10|<< Isaiah 9:10]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.12|Isaiah 9:12 >>]]</td></tr></table>
 
 

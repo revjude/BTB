@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בָּֽשְׂמַת‎</span> <small>***(bos.mat)***</small> ==**Basemath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Judah living at the time of United Monarchy, only mentioned at [[1Kgs.4.15|1Ki.4.15]]
--  daughter of: Solomon ([[H8010]])
--  sister of: Taphath ([[H2955]]) and Rehoboam ([[H7346]]); married to Ahimaaz ([[H0290I]])
+-  daughter of: Solomon (**<big>[[H8010|שְׁלֹמֹה]]</big>**)
+-  sister of: Taphath (**<big>[[H2955|טָפַת]]</big>**) and Rehoboam (**<big>[[H7346|רְחַבְעָם]]</big>**); married to Ahimaaz (**<big>[[H0290I|אֲחִימַעַץ]]</big>**)

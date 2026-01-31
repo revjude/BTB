@@ -7,31 +7,31 @@ And Judah and Israel dwelt safely, every man under his vine and under his fig tr
 Throughout the days of Solomon, Judah and Israel dwelt securely from Dan to Beersheba, each man under his own vine and his own fig tree.<small><sub>**MT:**</sub></small>
 [[1Kgs.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.24|<< 1 Kings 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.26|1 Kings 4:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| being yielded | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his grapevine | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fig-tree, | <big><span class="asgreek">συκήν</span></big> <sup><small><small>[[G4808]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Beer-sheba, | <big><span class="asgreek">Βηρσαβεέ</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Solomon. | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκει]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| being yielded | **<big>[[G3982\|πεποιθότες]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his grapevine | **<big>[[G0288\|άμπελον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his fig-tree, | **<big>[[G4808\|συκήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Beer-sheba, | **<big>[[H0884\|Βηρσαβεέ]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of Solomon. | **<big>[[G4672\|Σολομώντος]]</big>** |
 [[1Kgs.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.24|<< 1 Kings 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.26|1 Kings 4:26 >>]]</td></tr></table>
 
 

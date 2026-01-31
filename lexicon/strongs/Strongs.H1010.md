@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎בֵּית בַּעַל מְעוֹן‎</span></big> **Bêyth Baʻal Mᵉʻôwn** <small>*(bayth bah'-al me-own')*</small> ==**Beth-meon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup> and <span class="ashebrew">‎מָעוֹן‎</span><sup><small>[[H4583]]</small></sup>; house of Baal of (the) habitation of (apparently by transposition); or (shorter) <span class="ashebrew">בֵּית מְעוֹן</span> **Bêyth Mᵉʻôwn** <small>*(bayth me-own')*</small>; house of habitation of (Baal)</small>
+**<big><span class="ashebrew">‎בֵּית בַּעַל מְעוֹן‎</span></big>** **Bêyth Baʻal Mᵉʻôwn** <small>*(bayth bah'-al me-own')*</small> ==**Beth-meon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H1168|‎בַּעַל‎]]</big>** and **<big>[[H4583|‎מָעוֹן‎]]</big>**; house of Baal of (the) habitation of (apparently by transposition); or (shorter) **<big><span class="ashebrew">בֵּית מְעוֹן</span></big>** **Bêyth Mᵉʻôwn** <small>*(bayth me-own')*</small>; house of habitation of (Baal)</small>
 
-$\quad$ Beth-baal-meon. Compare <span class="ashebrew">‎בַּעַל מְעוֹן‎</span><sup><small>[[H1186]]</small></sup> and <span class="ashebrew">‎בְּעֹן‎</span><sup><small>[[H1194]]</small></sup>.
+$\quad$ Beth-baal-meon. Compare **<big>[[H1186|‎בַּעַל מְעוֹן‎]]</big>** and **<big>[[H1194|‎בְּעֹן‎]]</big>**.
 - § Beth-baal-meon = *"house of Baal"*
 - ***Beth-Baal-Meon***, a place in Palestine
 

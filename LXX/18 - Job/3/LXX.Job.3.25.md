@@ -7,18 +7,18 @@ For the thing which I greatly feared is come upon me, and that which I was afrai
 For the thing I feared has overtaken me, and what I dreaded has befallen me.<small><sub>**MT:**</sub></small>
 [[Job.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.24|<< Job 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.26|Job 3:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I thought about, | <big><span class="asgreek">εφρόντισα</span></big> <sup><small><small>[[G5431]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I had in awe, | <big><span class="asgreek">εδεδοίκειν</span></big> <sup><small><small>[[G6786]]</small></small></sup> |
-| met with | <big><span class="asgreek">συνήντησέ</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For \[the\] fear | **<big>[[G5401\|φόβος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I thought about, | **<big>[[G5431\|εφρόντισα]]</big>** |
+| came | **<big>[[G2064\|ήλθέ]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I had in awe, | **<big>[[G6786\|εδεδοίκειν]]</big>** |
+| met with | **<big>[[G4876\|συνήντησέ]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Job.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.24|<< Job 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.26|Job 3:26 >>]]</td></tr></table>
 
 

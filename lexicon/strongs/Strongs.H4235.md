@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָחוֹל‎</span></big> **Mâchôwl** <small>*(maw-khole')*</small> ==**Mahol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מָחוֹל‎</span><sup><small>[[H4234]]</small></sup>; dancing</small>
+**<big><span class="ashebrew">‎מָחוֹל‎</span></big>** **Mâchôwl** <small>*(maw-khole')*</small> ==**Mahol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4234|‎מָחוֹל‎]]</big>**; dancing</small>
 
 $\quad$ Mahol.
 - § Mahol = *"dancing"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָשַׁק‎</span></big> **nâshaq** <small>*(naw-shak')*</small> ==**to kiss**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (identical with <span class="ashebrew">‎נָשַׂק‎</span><sup><small>[[H5400]]</small></sup>, through the idea of fastening up; compare <span class="ashebrew">‎חָזַק‎</span><sup><small>[[H2388]]</small></sup>, <span class="ashebrew">‎חָשַׁק‎</span><sup><small>[[H2836]]</small></sup>)</small>
+**<big><span class="ashebrew">‎נָשַׁק‎</span></big>** **nâshaq** <small>*(naw-shak')*</small> ==**to kiss**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (identical with **<big>[[H5400|‎נָשַׂק‎]]</big>**, through the idea of fastening up; compare **<big>[[H2388|‎חָזַק‎]]</big>**, **<big>[[H2836|‎חָשַׁק‎]]</big>**)</small>
 
 $\quad$ armed (men), rule, kiss, that touched.
 - ***to kiss***, literally or figuratively (touch)
@@ -12,4 +12,4 @@ $\quad$ **1c)** (Hiphil) to touch gently
 **2)** to handle, be equipped with
 $\quad$ **2a)** (Qal) to be equipped
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δράσσομαι</span><sup><small>[[G1405]]</small></sup> · <span class="asgreek">καταφιλέω</span><sup><small>[[G2705]]</small></sup> · <span class="asgreek">προσκυνέω</span><sup><small>[[G4352]]</small></sup> · <span class="asgreek">ὑπακούω</span><sup><small>[[G5219]]</small></sup> · <span class="asgreek">φιλέω</span><sup><small>[[G5368]]</small></sup>
+<small>See Greek: </small>**<big>[[G1405|δράσσομαι]]</big>** · **<big>[[G2705|καταφιλέω]]</big>** · **<big>[[G4352|προσκυνέω]]</big>** · **<big>[[G5219|ὑπακούω]]</big>** · **<big>[[G5368|φιλέω]]</big>**

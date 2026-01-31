@@ -7,27 +7,27 @@ And he made fifty taches of gold, and coupled the curtains one unto another with
 He also made fifty gold clasps to join the curtains together, so that the tabernacle was a unit.<small><sub>**MT:**</sub></small>
 [[Exod.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.12|<< Exodus 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.14|Exodus 36:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| hooks | <big><span class="asgreek">κρίκους</span></big> <sup><small><small>[[G8095]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| of gold. | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he joined together | <big><span class="asgreek">συνήψε</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curtains | <big><span class="asgreek">αυλαίας</span></big> <sup><small><small>[[G6602]]</small></small></sup> |
-| an other | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| an other | <big><span class="asgreek">ετέρα</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| by the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hooks. | <big><span class="asgreek">κρίκοις</span></big> <sup><small><small>[[G8095]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| one. | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| hooks | **<big>[[G8095\|κρίκους]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| of gold. | **<big>[[G5552\|χρυσούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he joined together | **<big>[[G9297\|συνήψε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| curtains | **<big>[[G6602\|αυλαίας]]</big>** |
+| an other | **<big>[[G2087\|ετέραν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| an other | **<big>[[G2087\|ετέρα]]</big>** |
+| by the | **<big>[[G3588\|τοις]]</big>** |
+| hooks. | **<big>[[G8095\|κρίκοις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
+| one. | **<big>[[G1520\|μία]]</big>** |
 [[Exod.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.12|<< Exodus 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.14|Exodus 36:14 >>]]</td></tr></table>
 
 

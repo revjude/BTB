@@ -6,26 +6,26 @@ In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.28|<< Daniel 6:28]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.2|Daniel 7:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in year  | <span class="asaramaic"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="asaramaic"><big>שְׁנַ֣ת </big></span><small><small><sup>[[H8140]]</sup></small></small> &#8207;| bi <small><sup>[[AR]]</sup></small> sh.Nat <small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="asaramaic"><big>חֲדָ֗ה </big></span><small><small><sup>[[H2298]]</sup></small></small> &#8207;| cha.Dah <small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Belshazzar  | <span class="asaramaic"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="asaramaic"><big>בֵלְאשַׁצַּר֙ </big></span><small><small><sup>[[H1113]]</sup></small></small> &#8207;| le. <small><sup>[[AR]]</sup></small> ve.le.sha.Tzar <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="asaramaic"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4430]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="asaramaic"><big>בָּבֶ֔ל </big></span><small><small><sup>[[H0895]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Daniel  | <span class="ashebrew"><big>דָּנִיֵּאל֙ </big></span><small><small><sup>[[H1841H]]</sup></small></small> &#8207;| da.ni.yeL <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a dream  | <span class="asaramaic"><big>חֵ֣לֶם </big></span><small><small><sup>[[H2493]]</sup></small></small> &#8207;| Che.lem <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he saw  | <span class="asaramaic"><big>חֲזָ֔ה </big></span><small><small><sup>[[H2370]]</sup></small></small> &#8207;| cha.Zah <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] visions of  | <span class="asaramaic"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>חֶזְוֵ֥י </big></span><small><small><sup>[[H2376]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> chez.Vei <small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head his  | <span class="asaramaic"><big>רֵאשֵׁ֖ </big></span><small><small><sup>[[H7217]]</sup></small></small> <span class="asaramaic"><big>הּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| re.She <small><sup>[[ANcbsc]]</sup></small> h <small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="asaramaic"><big>עַֽל </big></span><small><small><sup>[[H5922]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bed his  | <span class="asaramaic"><big>מִשְׁכְּבֵ֑ </big></span><small><small><sup>[[H4903]]</sup></small></small> <span class="asaramaic"><big>הּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mish.ke.Ve <small><sup>[[ANcbsc]]</sup></small> h <small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> then  | <span class="asaramaic"><big>בֵּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="asaramaic"><big>אדַ֙יִן֙ </big></span><small><small><sup>[[H0116]]</sup></small></small> &#8207;| be. <small><sup>[[AR]]</sup></small> Da.yin <small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dream the  | <span class="asaramaic"><big>חֶלְמָ֣ </big></span><small><small><sup>[[H2493]]</sup></small></small> <span class="asaramaic"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| chel.Ma <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he wrote  | <span class="asaramaic"><big>כְתַ֔ב </big></span><small><small><sup>[[H3790]]</sup></small></small> &#8207;| khe.Tav <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] head of  | <span class="asaramaic"><big>רֵ֥אשׁ </big></span><small><small><sup>[[H7217]]</sup></small></small> &#8207;| resh <small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| matters  | <span class="asaramaic"><big>מִלִּ֖ין </big></span><small><small><sup>[[H4406]]</sup></small></small> &#8207;| mi.Lin <small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he said  | <span class="asaramaic"><big>אֲמַֽר </big></span><small><small><sup>[[H0560]]</sup></small></small> <span class="asaramaic"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8140\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[AR]]</sup></small> sh.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H2298\|חֲדָ֗ה]]&#8207; </big>**| cha.Dah<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Belshazzar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1113\|בֵלְאשַׁצַּר֙]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> ve.le.sha.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4430\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0895\|בָּבֶ֔ל]]&#8207; </big>**| ba.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Daniel  |**<big>&#8207;[[H1841H\|דָּנִיֵּאל֙]]&#8207; </big>**| da.ni.yeL<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a dream  |**<big>&#8207;[[H2493\|חֵ֣לֶם]]&#8207; </big>**| Che.lem<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saw  |**<big>&#8207;[[H2370\|חֲזָ֔ה]]&#8207; </big>**| cha.Zah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] visions of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2376\|חֶזְוֵ֥י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> chez.Vei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7217\|רֵאשֵׁ֖]]&#8207;&#8207;[[H9023\|הּ]]&#8207; </big>**| re.She<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5922\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bed his  |**<big>&#8207;[[H4903\|מִשְׁכְּבֵ֑]]&#8207;&#8207;[[H9023\|הּ]]&#8207; </big>**| mish.ke.Ve<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֙יִן֙]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dream the  |**<big>&#8207;[[H2493\|חֶלְמָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| chel.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he wrote  |**<big>&#8207;[[H3790\|כְתַ֔ב]]&#8207; </big>**| khe.Tav<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] head of  |**<big>&#8207;[[H7217\|רֵ֥אשׁ]]&#8207; </big>**| resh<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| matters  |**<big>&#8207;[[H4406\|מִלִּ֖ין]]&#8207; </big>**| mi.Lin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  |**<big>&#8207;[[H0560\|אֲמַֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.28|<< Daniel 6:28]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.2|Daniel 7:2 >>]]</td></tr></table>
 
 

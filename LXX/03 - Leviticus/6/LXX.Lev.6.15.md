@@ -7,44 +7,44 @@ And he shall take of it his handful, of the flour of the meat offering, and of t
 The priest is to remove a handful of fine flour and olive oil, together with all the frankincense from the grain offering, and burn the memorial portion on the altar as a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.14|<< Leviticus 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.16|Leviticus 6:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a handful | <big><span class="asgreek">δρακί</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice \[offering\] | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its olive oil, | <big><span class="asgreek">ελαιώ</span></big> <sup><small><small>[[G1637]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its frankincense | <big><span class="asgreek">λιβάνω</span></big> <sup><small><small>[[G3030]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice. | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer up | <big><span class="asgreek">ανοίσει</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωμα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma, | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| a memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall remove | **<big>[[G0851\|αφελεί]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| a handful | **<big>[[G6968\|δρακί]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| fine flour | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sacrifice \[offering\] | **<big>[[G2378\|θυσίας]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| its olive oil, | **<big>[[G1637\|ελαιώ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| its frankincense | **<big>[[G3030\|λιβάνω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being | **<big>[[G1510\|όντα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sacrifice. | **<big>[[G2378\|θυσίας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall offer up | **<big>[[G0399\|ανοίσει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| a yield \[offering\] | **<big>[[G7806\|κάρπωμα]]</big>** |
+| scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma, | **<big>[[G2175\|ευωδίας]]</big>** |
+| a memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.14|<< Leviticus 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.16|Leviticus 6:16 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ Hear my words, O ye wise [men]; and give ear unto me, ye that have knowledge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.1|<< Job 34:1]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.3|Job 34:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| hear  | <span class="ashebrew"><big>שִׁמְע֣וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| shim.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O wise [men]  | <span class="ashebrew"><big>חֲכָמִ֣ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words my  | <span class="ashebrew"><big>מִלָּ֑ </big></span><small><small><sup>[[H4405]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| mi.La <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and O [those who] know  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹדְעִ֗ים </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.de.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| give ear  | <span class="ashebrew"><big>הַאֲזִ֥ינוּ </big></span><small><small><sup>[[H0238]]</sup></small></small> &#8207;| ha.'a.Zi.nu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hear  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O wise [men]  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words my  |**<big>&#8207;[[H4405\|מִלָּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mi.La<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and O [those who] know  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3045\|יֹדְעִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.de.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give ear  |**<big>&#8207;[[H0238\|הַאֲזִ֥ינוּ]]&#8207; </big>**| ha.'a.Zi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.1|<< Job 34:1]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.3|Job 34:3 >>]]</td></tr></table>
 
 

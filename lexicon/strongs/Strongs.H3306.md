@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָפַח‎</span></big> **yâphach** <small>*(yaw-fakh')*</small> ==**to breathe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָפַח‎</span></big>** **yâphach** <small>*(yaw-fakh')*</small> ==**to breathe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bewail self.
@@ -7,4 +7,4 @@ $\quad$ bewail self.
 **1)** to breathe, breathe hard, puff
 $\quad$ **1a)** (Hithpael) to gasp for breath
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup>
+<small>See Greek: </small>**<big>[[G1590|ἐκλύω]]</big>**

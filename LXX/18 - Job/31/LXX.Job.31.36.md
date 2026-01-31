@@ -7,13 +7,13 @@ Surely I would take it upon my shoulder, [and] bind it [as] a crown to me.
 Surely I would carry it on my shoulder and wear it like a crown.<small><sub>**MT:**</sub></small>
 [[Job.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.35|<< Job 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.37|Job 31:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| even my shoulders | <big><span class="asgreek">ώμοις</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| putting \[it\] on | <big><span class="asgreek">περιθέμενος</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| a crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| I read it. | <big><span class="asgreek">ανεγίνωσκον</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| even my shoulders | **<big>[[G5606\|ώμοις]]</big>** **<big>[[G0302\|αν]]</big>** |
+| putting \[it\] on | **<big>[[G4060\|περιθέμενος]]</big>** |
+| a crown | **<big>[[G4735\|στέφανον]]</big>** |
+| I read it. | **<big>[[G0314\|ανεγίνωσκον]]</big>** |
 [[Job.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.35|<< Job 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.37|Job 31:37 >>]]</td></tr></table>
 
 

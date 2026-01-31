@@ -1,8 +1,8 @@
 <small>*Tubal • A nation, descendant of Japheth, known for trading*</small>
 
 <span class='tipnrhighlight'>Tubal</span>, a nation descended from Japheth, known for trading in slaves and bronze, and allied with Gog in the prophecy of Ezekiel \(Gen. 10:2; Isa. 66:19; Ezek. 27:13; 38:2-3; 39:1\).
-- A location near Pontus<[[G4195]]> first mentioned at [[Isa.66.19|Isa.66.19]]; 
-- only referred to as Tubal<[[H8422H]]> \(<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Pontus **<big>[[G4195|Πόντος]]</big>** first mentioned at [[Isa.66.19|Isa.66.19]]; 
+- only referred to as Tubal **<big>[[H8422|תּוּבַל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.905222,37.799969&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tubal is mentioned in the Bible as a nation descended from Tubal, one of the son
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tubal | [<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>](H8422H) <small>*Hebrew*</small> | 5x | [[Isa.66.19] ... [Ezk.39.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tubal\*\|reference=Isa.66.19;Ezk.27.13;Ezk.38.2;Ezk.38.3;Ezk.39.1) |
-All Strong's for **Tubal**: \[[[H8422H]]\]
+| Tubal | [<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ל</span>](H8422H) | 5x | [[Isa.66.19] ... [Ezk.39.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tubal\*\|reference=Isa.66.19;Ezk.27.13;Ezk.38.2;Ezk.38.3;Ezk.39.1) |
+All entries for **Tubal**:  **<big>[[H8422|תּוּבַל]]</big>**

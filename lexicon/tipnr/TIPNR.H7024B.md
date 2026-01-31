@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Kir</span>, a city or region in Mesopotamia, possibly Elam, was the place where the Arameans were exiled and from where they originally came \([[2Kgs.16.9|2 Kings 16:9]]; Amos 9:7\).
 - A location in Assyria first mentioned at [[2Kgs.16.9|2Ki.16.9]]; 
-- only referred to as Kir<[[H7024B]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Kir **<big>[[H7024|קִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.123611,45.931389&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Kir is mentioned in the Bible as a city or region in Mesopotamia, distinct from 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kir | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יר</span>](H7024B) <small>*Hebrew*</small> | 4x | [[2Ki.16.9] ... [Amo.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kir\*\|reference=2Ki.16.9;Isa.22.6;Amo.1.5;Amo.9.7) |
-All Strong's for **Kir**: \[[[H7024B]]\]
+| Kir | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יר</span>](H7024B) | 4x | [[2Ki.16.9] ... [Amo.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kir\*\|reference=2Ki.16.9;Isa.22.6;Amo.1.5;Amo.9.7) |
+All entries for **Kir**:  **<big>[[H7024|קִיר]]</big>**

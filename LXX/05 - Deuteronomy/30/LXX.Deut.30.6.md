@@ -7,34 +7,34 @@ And the LORD thy God will circumcise thine heart, and the heart of thy seed, to 
 The LORD your God will circumcise your hearts and the hearts of your descendants, and you will love Him with all your heart and with all your soul, so that you may live.<small><sub>**MT:**</sub></small>
 [[Deut.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.5|<< Deuteronomy 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.7|Deuteronomy 30:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall purge | <big><span class="asgreek">περικαθαριεί</span></big> <sup><small><small>[[G8729]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your seed, | <big><span class="asgreek">σπέρματός</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to love | <big><span class="asgreek">αγαπάν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should live. | <big><span class="asgreek">ζης</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall purge | **<big>[[G8729\|περικαθαριεί]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your seed, | **<big>[[G4690\|σπέρματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to love | **<big>[[G0025\|αγαπάν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| soul | **<big>[[G5590\|ψυχής]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should live. | **<big>[[G2198\|ζης]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Deut.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.5|<< Deuteronomy 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.7|Deuteronomy 30:7 >>]]</td></tr></table>
 
 

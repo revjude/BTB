@@ -7,51 +7,51 @@ Now when the prince shall prepare a voluntary burnt offering or peace offerings 
 When the prince makes a freewill offering to the LORD, whether a burnt offering or a peace offering, the gate facing east must be opened for him. He is to offer his burnt offering or peace offering just as he does on the Sabbath day. Then he shall go out, and the gate must be closed after he goes out.<small><sub>**MT:**</sub></small>
 [[Ezek.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.11|<< Ezekiel 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.13|Ezekiel 46:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should offer | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guiding | <big><span class="asgreek">αφηγούμενος</span></big> <sup><small><small>[[G6622]]</small></small></sup> |
-| an acknowledgment \[offering\] | <big><span class="asgreek">ομολογίαν</span></big> <sup><small><small>[[G3671]]</small></small></sup> |
-| of a whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[then one\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should open | <big><span class="asgreek">ανοίξη</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate, | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλέπουσαν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should offer | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his deliverance \[offering\], | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths. | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lock | <big><span class="asgreek">κλεισεί</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his going forth. | <big><span class="asgreek">εξελθείν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should offer | **<big>[[G4160\|ποιήση]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| guiding | **<big>[[G6622\|αφηγούμενος]]</big>** |
+| an acknowledgment \[offering\] | **<big>[[G3671\|ομολογίαν]]</big>** |
+| of a whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| of deliverance | **<big>[[G4992\|σωτηρίου]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| \[then one\] | **<big>[[G2532\|και]]</big>** |
+| should open | **<big>[[G0455\|ανοίξη]]</big>** |
+| to him | **<big>[[G1438\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate, | **<big>[[G4439\|πύλην]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| looking | **<big>[[G0991\|βλέπουσαν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should offer | **<big>[[G4160\|ποιήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for his deliverance \[offering\], | **<big>[[G4992\|σωτηρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| he did | **<big>[[G4160\|εποίει]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths. | **<big>[[G4521\|σαββάτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lock | **<big>[[G2808\|κλεισεί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| doors | **<big>[[G2374\|θύρας]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his going forth. | **<big>[[G1831\|εξελθείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Ezek.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.11|<< Ezekiel 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.13|Ezekiel 46:13 >>]]</td></tr></table>
 
 

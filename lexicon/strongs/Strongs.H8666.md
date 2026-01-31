@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּשׁוּבָה‎</span></big> **tᵉshûwbâh** <small>*(tesh-oo-baw')*</small> ==**turn**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תְּשֻׁבָה</span> **tᵉshubâh** <small>*(tesh-oobaw')*</small>; from <span class="ashebrew">‎שׁוּב‎</span><sup><small>[[H7725]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּשׁוּבָה‎</span></big>** **tᵉshûwbâh** <small>*(tesh-oo-baw')*</small> ==**turn**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תְּשֻׁבָה</span></big>** **tᵉshubâh** <small>*(tesh-oobaw')*</small>; from **<big>[[H7725|‎שׁוּב‎]]</big>**</small>
 
 $\quad$ answer, be expired, return.
 - ***a recurrence*** (of time or place)

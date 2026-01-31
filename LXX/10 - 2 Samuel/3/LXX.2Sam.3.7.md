@@ -7,34 +7,34 @@ And Saul had a concubine, whose name [was] Rizpah, the daughter of Aiah: and [Is
 Now Saul had a concubine named Rizpah, the daughter of Aiah. So Ish-bosheth questioned Abner, “Why did you sleep with my father’s concubine?”<small><sub>**MT:**</sub></small>
 [[2Sam.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.6|<< 2 Samuel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.8|2 Samuel 3:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a concubine, | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Rizpah, | <big><span class="asgreek">Ρεσφά</span></big> <sup><small><small>[[H7532]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Aiah. | <big><span class="asgreek">Αϊα</span></big> <sup><small><small>[[H0345]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Ishbosheth | <big><span class="asgreek">Ισβόσεθ</span></big> <sup><small><small>[[H0378]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abner, | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is it\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισήλθες</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| concubine | <big><span class="asgreek">παλλακήν</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father? | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| a concubine, | **<big>[[G8589\|παλλακή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| \[was\] Rizpah, | **<big>[[H7532\|Ρεσφά]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Aiah. | **<big>[[H0345\|Αϊα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| Ishbosheth | **<big>[[H0378\|Ισβόσεθ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abner, | **<big>[[H0074\|Αβενήρ]]</big>** |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| \[is it\] that | **<big>[[G3754\|ότι]]</big>** |
+| you enter | **<big>[[G1525\|εισήλθες]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| concubine | **<big>[[G8589\|παλλακήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father? | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Sam.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.6|<< 2 Samuel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.8|2 Samuel 3:8 >>]]</td></tr></table>
 
 

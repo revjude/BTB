@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּעַס‎</span></big> **kaʻaç** <small>*(kaw-as')*</small> ==**to provoke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כַּעַס‎</span></big>** **kaʻaç** <small>*(kaw-as')*</small> ==**to provoke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be angry, be grieved, take indignation, provoke (to anger, unto wrath), have sorrow, vex, be wroth.
@@ -14,4 +14,4 @@ $\quad$ **1c)** (Hiphil)
 $\quad$ $\quad$ **1c1)** to vex
 $\quad$ $\quad$ **1c2)** to vex, provoke to anger
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀθυμέω</span><sup><small>[[G0120]]</small></sup> · <span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">μεριμνάω</span><sup><small>[[G3309]]</small></sup> · <span class="asgreek">παραπικραίνω</span><sup><small>[[G3893]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">παροργίζω</span><sup><small>[[G3949]]</small></sup> · <span class="asgreek">πικραίνω</span><sup><small>[[G4087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0120|ἀθυμέω]]</big>** · **<big>[[G2373|θυμόω]]</big>** · **<big>[[G3309|μεριμνάω]]</big>** · **<big>[[G3893|παραπικραίνω]]</big>** · **<big>[[G3947|παροξύνω]]</big>** · **<big>[[G3949|παροργίζω]]</big>** · **<big>[[G4087|πικραίνω]]</big>**

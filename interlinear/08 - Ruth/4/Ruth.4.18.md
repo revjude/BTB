@@ -10,15 +10,15 @@ Now these are the generations of Perez: Perez was the father of Hezron,
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֙לֶּה֙ </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] descendants of  | <span class="ashebrew"><big>תּוֹלְד֣וֹת </big></span><small><small><sup>[[H8435]]</sup></small></small> &#8207;| tol.Dot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Perez  | <span class="ashebrew"><big>פָּ֔רֶץ </big></span><small><small><sup>[[H6557]]</sup></small></small> &#8207;| Pa.retz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Perez  | <span class="ashebrew"><big>פֶּ֖רֶץ </big></span><small><small><sup>[[H6557]]</sup></small></small> &#8207;| Pe.retz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֥יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hezron  | <span class="ashebrew"><big>חֶצְרֽוֹן </big></span><small><small><sup>[[H2696H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chetz.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] descendants of  |**<big>&#8207;[[H8435\|תּוֹלְד֣וֹת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Perez  |**<big>&#8207;[[H6557\|פָּ֔רֶץ]]&#8207; </big>**| Pa.retz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Perez  |**<big>&#8207;[[H6557\|פֶּ֖רֶץ]]&#8207; </big>**| Pe.retz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezron  |**<big>&#8207;[[H2696H\|חֶצְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chetz.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.17|<< Ruth 4:17]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.19|Ruth 4:19 >>]]</td></tr></table>
 
 

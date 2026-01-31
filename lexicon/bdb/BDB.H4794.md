@@ -1,4 +1,4 @@
-<small>Also see: [[H4835]] | [[H7533]]</small>
+<small>Also see: **<big>[[H4835|מְרֻצָה]]</big>** | **<big>[[H7533|רָצַץ]]</big>**</small>
 
  I. [<span class="bdbLangHebrew">‎מְרוּצָה‎</span>] 
 

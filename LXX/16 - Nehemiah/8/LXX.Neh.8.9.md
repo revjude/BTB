@@ -10,52 +10,52 @@ And Nehemiah, which [is] the Tirshatha, and Ezra the priest the scribe, and the 
 Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, “This day is holy to the LORD your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law.<small><sub>**MT:**</sub></small>
 [[Neh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.8|<< Nehemiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.10|Nehemiah 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nehemiah spoke, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Νεεμίας</span></big> <sup><small><small>[[H5166]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] Artasastha, | <big><span class="asgreek">Αταρσαθά</span></big> <sup><small><small>[[H8660]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezra | <big><span class="asgreek">Έσδρας</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bringing understanding to | <big><span class="asgreek">συνετίζοντες</span></big> <sup><small><small>[[G9318]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| a holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| It is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| mourn | <big><span class="asgreek">πενθείτε</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| weep! | <big><span class="asgreek">κλαίετε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| wept | <big><span class="asgreek">έκλαιε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| they heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law. | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Nehemiah spoke, | **<big>[[G2036\|είπε]]</big>** **<big>[[H5166\|Νεεμίας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \[the\] Artasastha, | **<big>[[H8660\|Αταρσαθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ezra | **<big>[[H5831\|Έσδρας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| bringing understanding to | **<big>[[G9318\|συνετίζοντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| a holy | **<big>[[G0039\|αγία]]</big>** |
+| It is | **<big>[[G1510\|εστί]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| our God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| mourn | **<big>[[G3996\|πενθείτε]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| weep! | **<big>[[G2799\|κλαίετε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| wept | **<big>[[G2799\|έκλαιε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| they heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| law. | **<big>[[G3551\|νόμου]]</big>** |
 [[Neh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.8|<< Nehemiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.10|Nehemiah 8:10 >>]]</td></tr></table>
 
 

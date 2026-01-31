@@ -6,16 +6,16 @@ The LORD tests the righteous and the wicked; His soul hates the lover of violenc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.4|<< Psalms 11:4]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.6|Psalms 11:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֮ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַדִּ֪יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he tests  | <span class="ashebrew"><big>יִ֫בְחָ֥ן </big></span><small><small><sup>[[H0974]]</sup></small></small> &#8207;| yiv.Chan <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] wicked  | <span class="ashebrew"><big>וְ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רָשָׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ra.sho' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] loves  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֹהֵ֣ב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.Hev <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| violence  | <span class="ashebrew"><big>חָמָ֑ס </big></span><small><small><sup>[[H2555]]</sup></small></small> &#8207;| cha.Mas <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it hates  | <span class="ashebrew"><big>שָֽׂנְאָ֥ה </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| sa.ne.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self his  | <span class="ashebrew"><big>נַפְשֽׁ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֪יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he tests  |**<big>&#8207;[[H0974\|יִ֫בְחָ֥ן]]&#8207; </big>**| yiv.Chan<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] wicked  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7563\|רָשָׁע]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] loves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0157G\|אֹהֵ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Hev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violence  |**<big>&#8207;[[H2555\|חָמָ֑ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it hates  |**<big>&#8207;[[H8130\|שָֽׂנְאָ֥ה]]&#8207; </big>**| sa.ne.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  |**<big>&#8207;[[H5315G\|נַפְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.4|<< Psalms 11:4]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.6|Psalms 11:6 >>]]</td></tr></table>
 
 

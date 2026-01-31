@@ -7,44 +7,44 @@ And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his bret
 Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his relatives from the Korahites were assigned to guard the thresholds of the Tent, just as their fathers had been assigned to guard the entrance to the dwelling of the LORD.<small><sub>**MT:**</sub></small>
 [[1Chr.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.18|<< 1 Chronicles 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.20|1 Chronicles 9:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shallum | <big><span class="asgreek">Σελλούμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kore, | <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ebiasaph, | <big><span class="asgreek">Αβιάσαχ</span></big> <sup><small><small>[[H0043]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Korah, | <big><span class="asgreek">κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their fathers, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Korahites, | <big><span class="asgreek">Κορινοί</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| service, | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">πρόθυρα</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολήν</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrance. | <big><span class="asgreek">είσοδον</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shallum | **<big>[[H7968\|Σελλούμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Kore, | **<big>[[G2879\|Κορέ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ebiasaph, | **<big>[[H0043\|Αβιάσαχ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Korah, | **<big>[[G2879\|κορέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brethren | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of their fathers, | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Korahites, | **<big>[[G2879\|Κορινοί]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| service, | **<big>[[G1397\|δουλείας]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thresholds | **<big>[[G8895\|πρόθυρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent, | **<big>[[G4633\|σκηνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολήν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| entrance. | **<big>[[G1529\|είσοδον]]</big>** |
 [[1Chr.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.18|<< 1 Chronicles 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.20|1 Chronicles 9:20 >>]]</td></tr></table>
 
 

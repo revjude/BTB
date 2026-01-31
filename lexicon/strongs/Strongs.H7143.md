@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָרֵחַ‎</span></big> **Qârêach** <small>*(kaw-ray'-akh)*</small> ==**Kareah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קָרַח‎</span><sup><small>[[H7139]]</small></sup>; bald</small>
+**<big><span class="ashebrew">‎קָרֵחַ‎</span></big>** **Qârêach** <small>*(kaw-ray'-akh)*</small> ==**Kareah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7139|‎קָרַח‎]]</big>**; bald</small>
 
 $\quad$ Careah, Kareah.
 - § Kareah = *"bald"*

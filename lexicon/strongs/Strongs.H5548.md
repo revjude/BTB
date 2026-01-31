@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סַלְכָה‎</span></big> **Çalkâh** <small>*(sal-kaw')*</small> ==**Salecah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎סַלְכָה‎</span></big>** **Çalkâh** <small>*(sal-kaw')*</small> ==**Salecah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root. meaning to walk; walking</small>
 
 $\quad$ Salcah, Salchah.

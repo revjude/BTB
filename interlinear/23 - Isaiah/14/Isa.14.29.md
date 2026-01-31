@@ -6,24 +6,24 @@ Do not rejoice, all you Philistines, that the rod that struck you is broken. For
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.28|<< Isaiah 14:28]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.30|Isaiah 14:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַֽל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you rejoice  | <span class="ashebrew"><big>תִּשְׂמְחִ֤י </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| tis.me.Chi <small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Philistia  | <span class="ashebrew"><big>פְלֶ֙שֶׁת֙ </big></span><small><small><sup>[[H6429]]</sup></small></small> &#8207;| fe.Le.shet <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of you  | <span class="ashebrew"><big>כֻּלֵּ֔ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ku.Le <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been broken  | <span class="ashebrew"><big>נִשְׁבַּ֖ר </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| nish.Bar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] rod of  | <span class="ashebrew"><big>שֵׁ֣בֶט </big></span><small><small><sup>[[H7626G]]</sup></small></small> &#8207;| She.vet <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] [one who] struck you  | <span class="ashebrew"><big>מַכֵּ֑ </big></span><small><small><sup>[[H5221]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| ma.Ke <small><sup>[[HVhrmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] root of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שֹּׁ֤רֶשׁ </big></span><small><small><sup>[[H8328]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sho.resh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a snake  | <span class="ashebrew"><big>נָחָשׁ֙ </big></span><small><small><sup>[[H5175]]</sup></small></small> &#8207;| na.Chash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go forth  | <span class="ashebrew"><big>יֵ֣צֵא </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| Ye.tze' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a viper  | <span class="ashebrew"><big>צֶ֔פַע </big></span><small><small><sup>[[H6848A]]</sup></small></small> &#8207;| Tze.fa' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fruit its  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פִרְי֖ </big></span><small><small><sup>[[H6529]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fir.Y <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a serpent  | <span class="ashebrew"><big>שָׂרָ֥ף </big></span><small><small><sup>[[H8314A]]</sup></small></small> &#8207;| sa.Raf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flying  | <span class="ashebrew"><big>מְעוֹפֵֽף </big></span><small><small><sup>[[H5774A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'o.Fef <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you rejoice  |**<big>&#8207;[[H8055\|תִּשְׂמְחִ֤י]]&#8207; </big>**| tis.me.Chi<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Philistia  |**<big>&#8207;[[H6429\|פְלֶ֙שֶׁת֙]]&#8207; </big>**| fe.Le.shet<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of you  |**<big>&#8207;[[H3605\|כֻּלֵּ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ku.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been broken  |**<big>&#8207;[[H7665\|נִשְׁבַּ֖ר]]&#8207; </big>**| nish.Bar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rod of  |**<big>&#8207;[[H7626G\|שֵׁ֣בֶט]]&#8207; </big>**| She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] [one who] struck you  |**<big>&#8207;[[H5221\|מַכֵּ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| ma.Ke<small><sup>[[HVhrmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] root of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8328\|שֹּׁ֤רֶשׁ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sho.resh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a snake  |**<big>&#8207;[[H5175\|נָחָשׁ֙]]&#8207; </big>**| na.Chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go forth  |**<big>&#8207;[[H3318G\|יֵ֣צֵא]]&#8207; </big>**| Ye.tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a viper  |**<big>&#8207;[[H6848A\|צֶ֔פַע]]&#8207; </big>**| Tze.fa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fruit its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6529\|פִרְי֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fir.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a serpent  |**<big>&#8207;[[H8314A\|שָׂרָ֥ף]]&#8207; </big>**| sa.Raf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flying  |**<big>&#8207;[[H5774A\|מְעוֹפֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'o.Fef<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.28|<< Isaiah 14:28]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.30|Isaiah 14:30 >>]]</td></tr></table>
 
 

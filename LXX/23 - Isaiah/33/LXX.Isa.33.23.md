@@ -7,33 +7,33 @@ Thy tacklings are loosed; they could not well strengthen their mast, they could 
 Your ropes are slack; they cannot secure the mast or spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.<small><sub>**MT:**</sub></small>
 [[Isa.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.22|<< Isaiah 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.24|Isaiah 33:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were torn | <big><span class="asgreek">ερράγησαν</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your rough cords | <big><span class="asgreek">σχοινία</span></big> <sup><small><small>[[G4979]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| have strength | <big><span class="asgreek">ενίσχυσεν</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| your mast | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">ιστός</span></big> <sup><small><small>[[G7733]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it leans, | <big><span class="asgreek">έκλινεν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| let down | <big><span class="asgreek">χαλάσει</span></big> <sup><small><small>[[G5465]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrouds, | <big><span class="asgreek">ιστία</span></big> <sup><small><small>[[G7732]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lift | <big><span class="asgreek">αρεί</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a signal \[flag\] | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it should be delivered up | <big><span class="asgreek">παραδοθή</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder; | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| therefore | <big><span class="asgreek">τοίνυν</span></big> <sup><small><small>[[G5106]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| lame men | <big><span class="asgreek">χωλοί</span></big> <sup><small><small>[[G5560]]</small></small></sup> |
-| plunder | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| shall cause | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| were torn | **<big>[[G4486\|ερράγησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| Your rough cords | **<big>[[G4979\|σχοινία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| does not | **<big>[[G3756\|ουκ]]</big>** |
+| have strength | **<big>[[G1765\|ενίσχυσεν]]</big>** |
+| your mast | **<big>[[G3588\|ο]]</big>** **<big>[[G7733\|ιστός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| it leans, | **<big>[[G2827\|έκλινεν]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| let down | **<big>[[G5465\|χαλάσει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| shrouds, | **<big>[[G7732\|ιστία]]</big>** |
+| it shall not | **<big>[[G3756\|ουκ]]</big>** |
+| lift | **<big>[[G0142\|αρεί]]</big>** |
+| a signal \[flag\] | **<big>[[G4592\|σημείον]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| it should be delivered up | **<big>[[G3860\|παραδοθή]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder; | **<big>[[G8903\|προνομήν]]</big>** |
+| therefore | **<big>[[G5106\|τοίνυν]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| lame men | **<big>[[G5560\|χωλοί]]</big>** |
+| plunder | **<big>[[G8903\|προνομήν]]</big>** |
+| shall cause | **<big>[[G4160\|ποιήσουσι]]</big>** |
 [[Isa.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.22|<< Isaiah 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.24|Isaiah 33:24 >>]]</td></tr></table>
 
 

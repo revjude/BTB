@@ -7,22 +7,22 @@ And the name of the wife of Abishur [was] Abihail, and she bare him Ahban, and M
 Abishur’s wife was named Abihail, and she bore to him Ahban and Molid.<small><sub>**MT:**</sub></small>
 [[1Chr.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.28|<< 1 Chronicles 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.30|1 Chronicles 2:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Abishur | <big><span class="asgreek">Αβισούρ</span></big> <sup><small><small>[[H0051]]</small></small></sup> |
-| \[was\] Abihail. | <big><span class="asgreek">Αβιήλ</span></big> <sup><small><small>[[H0032]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahban | <big><span class="asgreek">Αβάν</span></big> <sup><small><small>[[H0257]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Molid. | <big><span class="asgreek">Μωλίδ</span></big> <sup><small><small>[[H4140]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| wife | **<big>[[G1135\|γυναικί]]</big>** |
+| of Abishur | **<big>[[H0051\|Αβισούρ]]</big>** |
+| \[was\] Abihail. | **<big>[[H0032\|Αβιήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ahban | **<big>[[H0257\|Αβάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Molid. | **<big>[[H4140\|Μωλίδ]]</big>** |
 [[1Chr.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.28|<< 1 Chronicles 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.30|1 Chronicles 2:30 >>]]</td></tr></table>
 
 

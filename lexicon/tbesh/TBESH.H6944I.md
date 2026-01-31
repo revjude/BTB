@@ -1,6 +1,5 @@
-<span class="ashebrew">‎קֹ֫דֶשׁ‎</span> <small>***(qo.desh)***</small> ==**(Way of) Holiness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-part of: <small>[[H1870H]]</small> 
+<small>part of:</small> <small>**<big>[[H1870H|דֶּרֶךְ]]</big>**</small> 
 
 
-- Combined with <i>de.rekh</i> (<span class='ashebrew'>‎ד‎</span>ֶּ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ך‎</span>ְ "Way" [[H1870H]])
+- Combined with <i>de.rekh</i> (<span class='ashebrew'>‎ד‎</span>ֶּ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ך‎</span>ְ "Way" **<big>[[H1870H|דֶּרֶךְ]]</big>**)
 -  This name means  apartness, holiness, sacredness

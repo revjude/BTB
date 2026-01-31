@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֵיבָל‎</span></big> **ʻÊybâl** <small>*(ay-bawl')*</small> ==**Obal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎עֵיבָל‎</span></big>** **ʻÊybâl** <small>*(ay-bawl')*</small> ==**Obal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>perhaps from an unused root probably meaning to be bald; bare</small>
 
 $\quad$ Ebal.

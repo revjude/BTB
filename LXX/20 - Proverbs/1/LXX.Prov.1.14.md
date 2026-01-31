@@ -7,20 +7,20 @@ Cast in thy lot among us; let us all have one purse:
 Throw in your lot with us; let us all share one purse”—<small><sub>**MT:**</sub></small>
 [[Prov.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.13|<< Proverbs 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.15|Proverbs 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| throw | <big><span class="asgreek">βάλε</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| with us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| money bag | <big><span class="asgreek">μαρσίππιον</span></big> <sup><small><small>[[G8256]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| let there become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| your | **<big>[[G4674\|σον]]</big>** |
+| lot | **<big>[[G2819\|κλήρον]]</big>** |
+| throw | **<big>[[G0906\|βάλε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| with us, | **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| money bag | **<big>[[G8256\|μαρσίππιον]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| let there become | **<big>[[G1096\|γενηθήτω]]</big>** |
+| for us. | **<big>[[G1473\|ημίν]]</big>** |
 [[Prov.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.13|<< Proverbs 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.15|Proverbs 1:15 >>]]</td></tr></table>
 
 

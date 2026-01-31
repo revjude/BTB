@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָרַע‎</span></big> **tsâraʻ** <small>*(tsaw-rah')*</small> ==**be leprous**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָרַע‎</span></big>** **tsâraʻ** <small>*(tsaw-rah')*</small> ==**be leprous**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ leper, leprous.
@@ -8,4 +8,4 @@ $\quad$ leper, leprous.
 $\quad$ **1a)** (Qal) to be a leper
 $\quad$ **1b)** (Pual) to have leprosy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λεπρός</span><sup><small>[[G3015]]</small></sup>
+<small>See Greek: </small>**<big>[[G3015|λεπρός]]</big>**

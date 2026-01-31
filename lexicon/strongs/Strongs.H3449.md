@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשִּׁיָּה‎</span></big> **Yishshîyâh** <small>*(yish-shee-yaw')*</small> ==**Isshiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יִשִּׁיָּהוּ</span> **Yishshîyâhûw** <small>*(yish-shee-yaw'-hoo)*</small>; from <span class="ashebrew">‎נָשָׁה‎</span><sup><small>[[H5383]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will lend</small>
+**<big><span class="ashebrew">‎יִשִּׁיָּה‎</span></big>** **Yishshîyâh** <small>*(yish-shee-yaw')*</small> ==**Isshiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יִשִּׁיָּהוּ</span></big>** **Yishshîyâhûw** <small>*(yish-shee-yaw'-hoo)*</small>; from **<big>[[H5383|‎נָשָׁה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will lend</small>
 
 $\quad$ Ishiah, Isshiah, Ishijah, Jesiah.
 - § Ishiah or Ishijah or Jesiah = *"Jehovah will lend"*

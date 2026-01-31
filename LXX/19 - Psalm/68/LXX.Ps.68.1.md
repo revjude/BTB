@@ -12,20 +12,20 @@ To the chief Musician, A Psalm [or] Song of David. Let God arise, let his enemie
 For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.<small><sub>**MT:**</sub></small>
 [[Ps.68.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.7|<< Psalm 67:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.2|Psalm 68:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let God arise, | <big><span class="asgreek">αναστήτω</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be dispersed | <big><span class="asgreek">διασκορπισθήτωσαν</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| flee | <big><span class="asgreek">φυγέτωσαν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούντες</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Let God arise, | **<big>[[G0450\|αναστήτω]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be dispersed | **<big>[[G1287\|διασκορπισθήτωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| flee | **<big>[[G5343\|φυγέτωσαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| detesting | **<big>[[G3404\|μισούντες]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.68.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.7|<< Psalm 67:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.2|Psalm 68:2 >>]]</td></tr></table>
 
 

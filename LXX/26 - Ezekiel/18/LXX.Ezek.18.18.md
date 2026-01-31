@@ -7,28 +7,28 @@
 As for his father, he will die for his own iniquity, because he practiced extortion, robbed his brother, and did what was wrong among his people.<small><sub>**MT:**</sub></small>
 [[Ezek.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.17|<< Ezekiel 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.19|Ezekiel 18:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But \[if\] | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by affliction | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| afflicted, | <big><span class="asgreek">έθλιψε</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by seizure | <big><span class="asgreek">αρπαγμα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
-| seized by force, | <big><span class="asgreek">ήρπασε</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| contrary | <big><span class="asgreek">εναντία</span></big> <sup><small><small>[[G1727]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall die | <big><span class="asgreek">αποθανειται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his iniquity. | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| But \[if\] | **<big>[[G1161\|δε]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by affliction | **<big>[[G2347\|θλίψει]]</big>** |
+| afflicted, | **<big>[[G2346\|έθλιψε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by seizure | **<big>[[G6540\|αρπαγμα]]</big>** |
+| seized by force, | **<big>[[G0726\|ήρπασε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| contrary | **<big>[[G1727\|εναντία]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he shall die | **<big>[[G0599\|αποθανειται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his iniquity. | **<big>[[G0093\|αδικία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ezek.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.17|<< Ezekiel 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.19|Ezekiel 18:19 >>]]</td></tr></table>
 
 

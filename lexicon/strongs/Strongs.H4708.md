@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִצְפֶּה‎</span></big> **Mitspeh** <small>*(mits-peh')*</small> ==**Mizpeh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מִצְפֶּה‎</span><sup><small>[[H4707]]</small></sup></small>
+**<big><span class="ashebrew">‎מִצְפֶּה‎</span></big>** **Mitspeh** <small>*(mits-peh')*</small> ==**Mizpeh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H4707|‎מִצְפֶּה‎]]</big>**</small>
 
-$\quad$ Mizpeh, watch tower. Compare <span class="ashebrew">‎מִצְפָּה‎</span><sup><small>[[H4709]]</small></sup>.
+$\quad$ Mizpeh, watch tower. Compare **<big>[[H4709|‎מִצְפָּה‎]]</big>**.
 - § Mizpeh = *"watchtower"*
 - ***Mitspeh***, the name of five places in Palestine
 

@@ -2,7 +2,7 @@
 
  III. <span class="bdbLangHebrew">‎רִמּוֺן‎</span> **proper name, masculine** ==in Benjamin==, [[2Sam.4.2|2Sam 4:2]]; [[2Sam.4.5|2Sam 4:5]]; [[2Sam.4.9|2Sam 4:9]] <span class="bdbLangGreek">Ρεμμων</span>. 
 
-<small>Also see: [[H5871]] | [[H5884]]</small>
+<small>Also see: **<big>[[H5871|עַיִן]]</big>** | **<big>[[H5884|עֵין רִמּוֹן]]</big>**</small>
 
  IV. <span class="bdbLangHebrew">‎רִמּוֺן‎</span> 
 

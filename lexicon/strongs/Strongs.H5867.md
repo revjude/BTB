@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵילָם‎</span></big> **ʻÊylâm** <small>*(ay-lawm')*</small> ==**Elam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">עוֹלָם</span> **ʻÔwlâm** <small>*(o-lawm')*</small>; (Ezra 10:2; Jeremiah 49:36), probably from <span class="ashebrew">‎עָלַם‎</span><sup><small>[[H5956]]</small></sup>; hidden, i.e. distant</small>
+**<big><span class="ashebrew">‎עֵילָם‎</span></big>** **ʻÊylâm** <small>*(ay-lawm')*</small> ==**Elam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">עוֹלָם</span></big>** **ʻÔwlâm** <small>*(o-lawm')*</small>; (Ezra 10:2; Jeremiah 49:36), probably from **<big>[[H5956|‎עָלַם‎]]</big>**; hidden, i.e. distant</small>
 
 $\quad$ Elam.
 - § Elam = *"eternity"*
@@ -17,4 +17,4 @@ n pr m
 n pr loc
 **8)** a province east of Babylon and northeast of the lower Tigris
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐλαμίτης</span><sup><small>[[G1639]]</small></sup>
+<small>See Greek: </small>**<big>[[G1639|Ἐλαμίτης]]</big>**

@@ -1,8 +1,8 @@
 <small>*Gate of Benjamin • Gate in Jerusalem's wall, mentioned in Zechariah's prophecy.*</small>
 
 The <span class='tipnrhighlight'>Benjamin Gate</span> was a gate in Jerusalem's wall, mentioned in Zechariah's prophecy about the city's restoration. \([[Zech.14.10|Zechariah 14:10]]\)
-- A location in Jerusalem<[[H3389]]> only mentioned at [[Zech.14.10|Zec.14.10]]; 
-- only referred to as Benjamin\_Gate<[[H1144M]]> \(<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Zech.14.10|Zec.14.10]]; 
+- only referred to as Benjamin\_Gate **<big>[[H1144|בִּנְיָמִין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ It is worth noting that the Benjamin Gate mentioned in Zechariah may not necessa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Gate of )Benjamin | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H1144M) <small>*Hebrew*</small> | 1x | [Zec.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benjamin\*\|reference=Zec.14.10) |
-All Strong's for **Benjamin_Gate**: \[[[H1144M]]\]
+| (Gate of )Benjamin | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H1144M) | 1x | [Zec.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benjamin\*\|reference=Zec.14.10) |
+All entries for **Benjamin Gate**:  **<big>[[H1144|בִּנְיָמִין]]</big>**

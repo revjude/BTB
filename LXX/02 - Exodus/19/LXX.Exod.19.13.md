@@ -11,42 +11,42 @@ No hand shall touch him, but he shall surely be stoned or shot with arrows—whe
 > $\quad$ referenced by: [[Heb.12.20|Heb 12:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not touch it | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">άψεται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| His hand | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| for with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| they shall be stoned | <big><span class="asgreek">λιθοβοληθήσεται</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[with an\] arrow | <big><span class="asgreek">βολίδι</span></big> <sup><small><small>[[G1002]]</small></small></sup> |
-| they shall be shot; | <big><span class="asgreek">κατατοξευθήσεται</span></big> <sup><small><small>[[G2700]]</small></small></sup> |
-| if \[it be\] | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| \[or\] if \[it be\] | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| live. | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voices, | <big><span class="asgreek">φωναί</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets, | <big><span class="asgreek">σάλπιγγες</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| go forth | <big><span class="asgreek">απέλθη</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| they | <big><span class="asgreek">εκείνοι</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall ascend | <big><span class="asgreek">αναβήσονται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| shall not touch it | **<big>[[G3756\|ουχ]]</big>** **<big>[[G0680\|άψεται]]</big>** |
+| His hand | **<big>[[G1473\|αυτού]]</big>** **<big>[[G5495\|χειρ]]</big>** |
+| for with | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| stones | **<big>[[G3037\|λίθοις]]</big>** |
+| they shall be stoned | **<big>[[G3036\|λιθοβοληθήσεται]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \[with an\] arrow | **<big>[[G1002\|βολίδι]]</big>** |
+| they shall be shot; | **<big>[[G2700\|κατατοξευθήσεται]]</big>** |
+| if \[it be\] | **<big>[[G1437\|εάν]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| cattle, | **<big>[[G2934\|κτήνος]]</big>** |
+| \[or\] if \[it be\] | **<big>[[G1437\|εάν]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| live. | **<big>[[G2198\|ζήσεται]]</big>** |
+| And whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| voices, | **<big>[[G5456\|φωναί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| trumpets, | **<big>[[G4536\|σάλπιγγες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| go forth | **<big>[[G0565\|απέλθη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| they | **<big>[[G1565\|εκείνοι]]</big>** |
+| shall ascend | **<big>[[G0305\|αναβήσονται]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain. | **<big>[[G3735\|όρος]]</big>** |
 [[Exod.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.12|<< Exodus 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.14|Exodus 19:14 >>]]</td></tr></table>
 
 

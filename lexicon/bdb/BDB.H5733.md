@@ -1,4 +1,4 @@
-<small>Also see: [[H5734]]</small>
+<small>Also see: **<big>[[H5734|עַדְנָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עַדְנָא‎</span> 
 

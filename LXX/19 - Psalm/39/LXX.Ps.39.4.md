@@ -7,24 +7,24 @@ LORD, make me to know mine end, and the measure of my days, what it [is; that] I
 “Show me, O LORD, my end and the measure of my days. Let me know how fleeting my life is.<small><sub>**MT:**</sub></small>
 [[Ps.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.3|<< Psalm 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.5|Psalm 39:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Make known | <big><span class="asgreek">γνώρισόν</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my limit! | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my days, | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| it is, | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I should know | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| I lack. | <big><span class="asgreek">υστερώ</span></big> <sup><small><small>[[G5302]]</small></small></sup> <big><span class="asgreek">εγω</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Make known | **<big>[[G1107\|γνώρισόν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my limit! | **<big>[[G4009\|πέρας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| number | **<big>[[G0706\|αριθμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my days, | **<big>[[G2250\|ημερών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| it is, | **<big>[[G1510\|εστιν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I should know | **<big>[[G1097\|γνώ]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| I lack. | **<big>[[G5302\|υστερώ]]</big>** **<big>[[G1473\|εγω]]</big>** |
 [[Ps.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.3|<< Psalm 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.5|Psalm 39:5 >>]]</td></tr></table>
 
 

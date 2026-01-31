@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">συν-εσθίω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.43.32|Ge 43:32]], [[LXX.Exod.18.12|Ex 18:12]] (<span class="ashebrew">אכל</span> <small><sup>[[H0398]]</sup></small>), [[LXX.2Sam.12.17|II Ki 12:17]] (<span class="ashebrew">בּרה</span> <small><sup>[[H1262]]</sup></small>), [[LXX.Ps.101.5|Ps 100 (101):5]] \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">συν-εσθίω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.43.32|Ge 43:32]], [[LXX.Exod.18.12|Ex 18:12]] (**<big>[[H0398|אכל]]</big>**), [[LXX.2Sam.12.17|II Ki 12:17]] (**<big>[[H1262|בּרה]]</big>**), [[LXX.Ps.101.5|Ps 100 (101):5]] \* ;\] </span> </span>
 <span class="asitalic">to eat with</span> one: c. dat. pers., [[Luke.15.2|Lk 15:2]], [[Acts.10.41|Ac 10:41]] [[Acts.11.3|11:3]], [[1Cor.5.11|I Co 5:11]]; seq. <span class="asgreek">μετά</span>, c. gen. pers., [[Gal.2.12|Ga 2:12]].†
 
 **Abbott-Smith References**

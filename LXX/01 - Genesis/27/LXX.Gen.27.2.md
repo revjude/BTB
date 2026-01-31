@@ -7,19 +7,19 @@ And he said, Behold now, I am old, I know not the day of my death:
 “Look,” said Isaac, “I am now old, and I do not know the day of my death.<small><sub>**MT:**</sub></small>
 [[Gen.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.1|<< Genesis 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.3|Genesis 27:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have grown old, | <big><span class="asgreek">γεγήρακα</span></big> <sup><small><small>[[G1095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">γινώσκω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my decease. | <big><span class="asgreek">τελευτής</span></big> <sup><small><small>[[G5054]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I have grown old, | **<big>[[G1095\|γεγήρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I do not | **<big>[[G3756\|ου]]</big>** |
+| know | **<big>[[G1097\|γινώσκω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my decease. | **<big>[[G5054\|τελευτής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.1|<< Genesis 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.3|Genesis 27:3 >>]]</td></tr></table>
 
 

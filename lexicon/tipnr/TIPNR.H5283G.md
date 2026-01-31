@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Naaman</span>, also known as Nohah, was one of the sons of Benjamin mentioned in the genealogies of Genesis and 1 Chronicles.
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]; 
-- referred to as Naaman<[[H5283G]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Nohah<[[H5119]]> \(<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Benjamin<[[H1144G]]>; 
-- a brother of Bela<[[H1106A]]>, Becher<[[H1071G]]>, Ashbel<[[H0788]]>, Gera<[[H1617G]]>, Ahiram<[[H0297]]>, Rosh<[[H7220]]>, Muppim<[[H4649]]>, Huppim<[[H2650H]]>, Ard<[[H0714G]]>, Ahiram<[[H0297]]> and Jediael<[[H3043G]]>.
+- referred to as Naaman **<big>[[H5283|נַעֲמָן]]</big>**, or Nohah **<big>[[H5119|נוֹחָה]]</big>**; 
+-  son of Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+- a brother of Bela **<big>[[H1106|בֶּלַע]]</big>**, Becher **<big>[[H1071|בֶכֶר]]</big>**, Ashbel **<big>[[H0788|אַשְׁבֵּל]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>**, Rosh **<big>[[H7220|רֹאשׁ]]</big>**, Muppim **<big>[[H4649|מֻפִּים]]</big>**, Huppim **<big>[[H2650|חֻפִּים]]</big>**, Ard **<big>[[H0714|אַרְדְּ]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>** and Jediael **<big>[[H3043|יְדִיעֲאֵל]]</big>**.
 
 Naaman, also referred to as Nohah, appears in the genealogies of the tribe of Benjamin in [[Gen.46.21|Genesis 46:21]] and [[1Chr.8.2|1 Chronicles 8:2]]. He is listed among the sons of Benjamin who went down to Egypt with Israel \(or 'Jacob'\) and his family. 
 
@@ -18,9 +18,9 @@ Apart from being listed in these genealogies, no further information is provided
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283G) <small>*Hebrew*</small> | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=Gen.46.21) |
-| Nohah | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5119) <small>*Hebrew*</small> | 1x | [1Ch.8.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nohah\*\|reference=1Ch.8.2) |
-All Strong's for **Naaman or Nohah**: \[[[H5283G]]\] \[[[H5119]]\]
+| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283G) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=Gen.46.21) |
+| Nohah | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5119) | 1x | [1Ch.8.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nohah\*\|reference=1Ch.8.2) |
+All entries for **Naaman or Nohah**:  **<big>[[H5283|נַעֲמָן]]</big>** ☩  **<big>[[H5119|נוֹחָה]]</big>**
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

@@ -10,15 +10,15 @@ The LORD knows the thoughts of man, that they are futile.
 > $\quad$ referenced by: [[1Cor.3.20|1Cor 3:20]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְֽהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] knowing  | <span class="ashebrew"><big>יֹ֭דֵעַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Yo.de.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] thoughts of  | <span class="ashebrew"><big>מַחְשְׁב֣וֹת </big></span><small><small><sup>[[H4284]]</sup></small></small> &#8207;| mach.she.Vot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אָדָ֑ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֥מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a breath  | <span class="ashebrew"><big>הָֽבֶל </big></span><small><small><sup>[[H1892]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ha.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] knowing  |**<big>&#8207;[[H3045\|יֹ֭דֵעַ]]&#8207; </big>**| Yo.de.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] thoughts of  |**<big>&#8207;[[H4284\|מַחְשְׁב֣וֹת]]&#8207; </big>**| mach.she.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0120G\|אָדָ֑ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֥מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a breath  |**<big>&#8207;[[H1892\|הָֽבֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ha.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.10|<< Psalms 94:10]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.12|Psalms 94:12 >>]]</td></tr></table>
 
 

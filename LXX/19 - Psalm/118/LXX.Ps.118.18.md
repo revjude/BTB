@@ -7,18 +7,18 @@ The LORD hath chastened me sore: but he hath not given me over unto death.
 The LORD disciplined me severely, but He has not given me over to death.<small><sub>**MT:**</sub></small>
 [[Ps.118.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.17|<< Psalm 118:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.19|Psalm 118:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In correcting, | <big><span class="asgreek">παιδεύων</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| corrected | <big><span class="asgreek">επαίδευσέ</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| deliver me | <big><span class="asgreek">παρέδωκέ</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In correcting, | **<big>[[G3811\|παιδεύων]]</big>** |
+| corrected | **<big>[[G3811\|επαίδευσέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| death | **<big>[[G2288\|θανάτω]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| deliver me | **<big>[[G3860\|παρέδωκέ]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Ps.118.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.17|<< Psalm 118:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.19|Psalm 118:19 >>]]</td></tr></table>
 
 

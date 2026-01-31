@@ -7,22 +7,22 @@ In the number of all the males, from a month old and upward, [were] eight thousa
 The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.<small><sub>**MT:**</sub></small>
 [[Num.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.27|<< Numbers 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.29|Numbers 3:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| male | <big><span class="asgreek">αρσενικόν</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a month | <big><span class="asgreek">μηνιαίου</span></big> <sup><small><small>[[G8317]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| up -- | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| eight thousand | <big><span class="asgreek">οκτακισχίλιοι</span></big> <sup><small><small>[[G8475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred, | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watches | <big><span class="asgreek">φυλακάς</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\]. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| Every | **<big>[[G3956\|παν]]</big>** |
+| male | **<big>[[G6544\|αρσενικόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a month | **<big>[[G8317\|μηνιαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| up -- | **<big>[[G1883\|επάνω]]</big>** |
+| eight thousand | **<big>[[G8475\|οκτακισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred, | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| watches | **<big>[[G5438\|φυλακάς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holy \[place\]. | **<big>[[G0039\|αγίων]]</big>** |
 [[Num.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.27|<< Numbers 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.29|Numbers 3:29 >>]]</td></tr></table>
 
 

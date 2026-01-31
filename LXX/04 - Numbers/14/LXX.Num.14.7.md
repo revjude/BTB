@@ -7,24 +7,24 @@ And they spake unto all the company of the children of Israel, saying, The land,
 and said to the whole congregation of Israel, “The land we passed through and explored is an exceedingly good land.<small><sub>**MT:**</sub></small>
 [[Num.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.6|<< Numbers 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.8|Numbers 14:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] congregation | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we surveyed | <big><span class="asgreek">κατεσκεψάμεθα</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \[the\] congregation | **<big>[[G4864\|συναγωγήν]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| we surveyed | **<big>[[G7919\|κατεσκεψάμεθα]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| it is good | **<big>[[G0018\|αγαθήν]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Num.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.6|<< Numbers 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.8|Numbers 14:8 >>]]</td></tr></table>
 
 

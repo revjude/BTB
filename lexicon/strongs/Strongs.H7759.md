@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּלַמִּית‎</span></big> **Shûwlammîyth** <small>*(shoo-lam-meeth')*</small> ==**Shulammites**==  <sup><small>[[TEHMC#N:N-F-L|N:N-F-L]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּלַמִּית‎</span></big>** **Shûwlammîyth** <small>*(shoo-lam-meeth')*</small> ==**Shulammites**==  <sup><small>[[TEHMC#N:N-F-L|N:N-F-L]]</small></sup> 
+<small>from **<big>[[H7999|‎שָׁלַם‎]]</big>**</small>
 
 $\quad$ Shulamite.
 - § Shulamite = *"the perfect" or "the peaceful"*

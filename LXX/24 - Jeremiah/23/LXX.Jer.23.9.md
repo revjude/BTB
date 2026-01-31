@@ -7,38 +7,38 @@ Mine heart within me is broken because of the prophets; all my bones shake; I am
 As for the prophets: My heart is broken within me, and all my bones tremble. I have become like a drunkard, like a man overcome by wine, because of the LORD, because of His holy words.<small><sub>**MT:**</sub></small>
 [[Jer.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.8|<< Jeremiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.10|Jeremiah 23:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήταις</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| was broken | <big><span class="asgreek">συνετρίβη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were shaken | <big><span class="asgreek">εσαλεύθη</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| being broken, | <big><span class="asgreek">συντετριμμένος</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| constrained | <big><span class="asgreek">συνεχόμενος</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] countenance | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] countenance | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] beauty | <big><span class="asgreek">ευπρεπείας</span></big> <sup><small><small>[[G2143]]</small></small></sup> |
-| of his glory. | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| prophets | **<big>[[G4396\|προφήταις]]</big>** |
+| was broken | **<big>[[G4937\|συνετρίβη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| were shaken | **<big>[[G4531\|εσαλεύθη]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I became | **<big>[[G1096\|εγενήθην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| being broken, | **<big>[[G4937\|συντετριμμένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| constrained | **<big>[[G4912\|συνεχόμενος]]</big>** |
+| by | **<big>[[G0575\|από]]</big>** |
+| wine, | **<big>[[G3631\|οίνου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] countenance | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] countenance | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] beauty | **<big>[[G2143\|ευπρεπείας]]</big>** |
+| of his glory. | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.8|<< Jeremiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.10|Jeremiah 23:10 >>]]</td></tr></table>
 
 

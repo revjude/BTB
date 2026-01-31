@@ -7,21 +7,21 @@ Ye shall do no manner of work: [it shall be] a statute for ever throughout your 
 You are not to do any work at all. This is a permanent statute for the generations to come, wherever you live.<small><sub>**MT:**</sub></small>
 [[Lev.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.30|<< Leviticus 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.32|Leviticus 23:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do; | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμιμον</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| \[it is\] an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses. | <big><span class="asgreek">κατοικιάις</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|παν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| do; | **<big>[[G4160\|ποιήσετε]]</big>** |
+| law | **<big>[[G8403\|νόμιμον]]</big>** |
+| \[it is\] an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your generations | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your houses. | **<big>[[G2733\|κατοικιάις]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.30|<< Leviticus 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.32|Leviticus 23:32 >>]]</td></tr></table>
 
 

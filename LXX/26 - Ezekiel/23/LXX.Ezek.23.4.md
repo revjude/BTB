@@ -7,34 +7,34 @@ And the names of them [were] Aholah the elder, and Aholibah her sister: and they
 The older was named Oholah, and her sister was named Oholibah. They became Mine and gave birth to sons and daughters. As for their identities, Oholah is Samaria, and Oholibah is Jerusalem.<small><sub>**MT:**</sub></small>
 [[Ezek.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.3|<< Ezekiel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.5|Ezekiel 23:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names -- | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Aholah | <big><span class="asgreek">Οολλά</span></big> <sup><small><small>[[H0170]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elder, | <big><span class="asgreek">πρεσβυτέρα</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aholibah | <big><span class="asgreek">Οολιβά</span></big> <sup><small><small>[[H0172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her sister. | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were born | <big><span class="asgreek">εγένοντό</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave birth to | <big><span class="asgreek">έτεκον</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names -- | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμάρεια</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| \[is\] Aholah, | <big><span class="asgreek">Οολλά</span></big> <sup><small><small>[[H0170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[is\] Aholibah. | <big><span class="asgreek">Οολιβά</span></big> <sup><small><small>[[H0172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their names -- | **<big>[[G3686\|ονόματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Aholah | **<big>[[H0170\|Οολλά]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| elder, | **<big>[[G4245\|πρεσβυτέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aholibah | **<big>[[H0172\|Οολιβά]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her sister. | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were born | **<big>[[G1096\|εγένοντό]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave birth to | **<big>[[G5088\|έτεκον]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their names -- | **<big>[[G3686\|ονόματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμάρεια]]</big>** |
+| \[is\] Aholah, | **<big>[[H0170\|Οολλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[is\] Aholibah. | **<big>[[H0172\|Οολιβά]]</big>** |
 [[Ezek.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.3|<< Ezekiel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.5|Ezekiel 23:5 >>]]</td></tr></table>
 
 

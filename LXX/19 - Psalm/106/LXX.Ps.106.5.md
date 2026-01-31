@@ -7,27 +7,27 @@ That I may see the good of thy chosen, that I may rejoice in the gladness of thy
 that I may see the prosperity of Your chosen ones, and rejoice in the gladness of Your nation, and give glory with Your inheritance.<small><sub>**MT:**</sub></small>
 [[Ps.106.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.4|<< Psalm 106:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.6|Psalm 106:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| To behold | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gracious | <big><span class="asgreek">χρηστότητι</span></big> <sup><small><small>[[G5544]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your chosen ones; | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be glad | <big><span class="asgreek">ευφρανθήναι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your nation; | <big><span class="asgreek">έθνους</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to applaud | <big><span class="asgreek">επαινείσθαι</span></big> <sup><small><small>[[G1867]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your inheritance. | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| To behold | **<big>[[G1492\|ιδείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| gracious | **<big>[[G5544\|χρηστότητι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your chosen ones; | **<big>[[G1588\|εκλεκτών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be glad | **<big>[[G2165\|ευφρανθήναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your nation; | **<big>[[G1484\|έθνους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to applaud | **<big>[[G1867\|επαινείσθαι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your inheritance. | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.106.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.4|<< Psalm 106:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.6|Psalm 106:6 >>]]</td></tr></table>
 
 

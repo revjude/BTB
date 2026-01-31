@@ -11,19 +11,19 @@ When Moses had finished speaking with them, he put a veil over his face.<small>
 > $\quad$ referenced by: [[2Cor.3.13|2Cor 3:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as soon as | <big><span class="asgreek">επειδή</span></big> <sup><small><small>[[G1894]]</small></small></sup> |
-| he rested | <big><span class="asgreek">κατέπαυσε</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he placed | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covering. | <big><span class="asgreek">κάλυμμα</span></big> <sup><small><small>[[G2571]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as soon as | **<big>[[G1894\|επειδή]]</big>** |
+| he rested | **<big>[[G2664\|κατέπαυσε]]</big>** |
+| speaking | **<big>[[G2980\|λαλών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| he placed | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a covering. | **<big>[[G2571\|κάλυμμα]]</big>** |
 [[Exod.34.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.32|<< Exodus 34:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.34|Exodus 34:34 >>]]</td></tr></table>
 
 

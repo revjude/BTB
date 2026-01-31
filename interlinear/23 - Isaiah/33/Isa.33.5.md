@@ -6,17 +6,17 @@ The LORD is exalted, for He dwells on high; He has filled Zion with justice and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] exalted  | <span class="ashebrew"><big>נִשְׂגָּ֣ב </big></span><small><small><sup>[[H7682]]</sup></small></small> &#8207;| nis.Gav <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [he is] dwelling  | <span class="ashebrew"><big>שֹׁכֵ֖ן </big></span><small><small><sup>[[H7931]]</sup></small></small> &#8207;| sho.Khen <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a high place  | <span class="ashebrew"><big>מָר֑וֹם </big></span><small><small><sup>[[H4791]]</sup></small></small> &#8207;| ma.Rom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will fill  | <span class="ashebrew"><big>מִלֵּ֣א </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mi.Le' <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֖ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and righteousness  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צְדָקָֽה </big></span><small><small><sup>[[H6666]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] exalted  |**<big>&#8207;[[H7682\|נִשְׂגָּ֣ב]]&#8207; </big>**| nis.Gav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] dwelling  |**<big>&#8207;[[H7931\|שֹׁכֵ֖ן]]&#8207; </big>**| sho.Khen<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a high place  |**<big>&#8207;[[H4791\|מָר֑וֹם]]&#8207; </big>**| ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will fill  |**<big>&#8207;[[H4390\|מִלֵּ֣א]]&#8207; </big>**| mi.Le'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֖ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteousness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6666\|צְדָקָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
 

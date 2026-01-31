@@ -11,43 +11,43 @@ Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will lea
 > $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Travail, | <big><span class="asgreek">ώδινε</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take courage, | <big><span class="asgreek">ανδρίζου</span></big> <sup><small><small>[[G0407]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving birth! | <big><span class="asgreek">τίκτουσα</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| you shall come forth | <big><span class="asgreek">εξελεύση</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall encamp | <big><span class="asgreek">κατασκηνώσεις</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] plain, | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξεις</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| From there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| he shall rescue | <big><span class="asgreek">ρύσεταί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| he shall ransom | <big><span class="asgreek">λυτρώσεταί</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your enemies. | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Travail, | **<big>[[G5605\|ώδινε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take courage, | **<big>[[G0407\|ανδρίζου]]</big>** |
+| O daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| giving birth! | **<big>[[G5088\|τίκτουσα]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| you shall come forth | **<big>[[G1831\|εξελεύση]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall encamp | **<big>[[G2681\|κατασκηνώσεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] plain, | **<big>[[G8676\|πεδίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall come | **<big>[[G2240\|ήξεις]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| From there | **<big>[[G1564\|εκείθεν]]</big>** |
+| he shall rescue | **<big>[[G4506\|ρύσεταί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| he shall ransom | **<big>[[G3084\|λυτρώσεταί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your enemies. | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Mic.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.9|<< Micah 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.11|Micah 4:11 >>]]</td></tr></table>
 
 

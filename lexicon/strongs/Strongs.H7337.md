@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָחַב‎</span></big> **râchab** <small>*(raw-khab')*</small> ==**to enlarge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָחַב‎</span></big>** **râchab** <small>*(raw-khab')*</small> ==**to enlarge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be an en-(make) large(-ing), make room, make (open) wide.
@@ -11,4 +11,4 @@ $\quad$ **1c)** (Hiphil)
 $\quad$ $\quad$ **1c1)** to make large
 $\quad$ $\quad$ **1c2)** to enlarge
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνοίγω</span><sup><small>[[G0455]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">εὐρύχωρος</span><sup><small>[[G2149]]</small></sup> · <span class="asgreek">πλατύνω</span><sup><small>[[G4115]]</small></sup>
+<small>See Greek: </small>**<big>[[G0455|ἀνοίγω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G2149|εὐρύχωρος]]</big>** · **<big>[[G4115|πλατύνω]]</big>**

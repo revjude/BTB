@@ -9,20 +9,20 @@ For the sins of her prophets, [and] the iniquities of her priests, that have she
 But this was for the sins of her prophets and the guilt of her priests, who shed the blood of the righteous in her midst.<small><sub>**MT:**</sub></small>
 [[Lam.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.12|<< Lamentations 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.14|Lamentations 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΜΗΜ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΜΗΜ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| because of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of her prophets, | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[and\] iniquities | <big><span class="asgreek">αδικιών</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of her priests, | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pouring out | <big><span class="asgreek">εκχεόντων</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her midst. | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΜΗΜ <sup><small>[acrostic title]</small></sup> |  |
+| because of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] sins | **<big>[[G0266\|αμαρτιών]]</big>** |
+| of her prophets, | **<big>[[G4396\|προφητών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[and\] iniquities | **<big>[[G0093\|αδικιών]]</big>** |
+| of her priests, | **<big>[[G2409\|ιερέων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| pouring out | **<big>[[G1632\|εκχεόντων]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| just | **<big>[[G1342\|δίκαιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her midst. | **<big>[[G3319\|μέσω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lam.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.12|<< Lamentations 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.14|Lamentations 4:14 >>]]</td></tr></table>
 
 

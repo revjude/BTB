@@ -7,42 +7,42 @@ And David said to him, Canst thou bring me down to this company? And he said, Sw
 “Will you lead me to these raiders?” David asked. And the man replied, “Swear to me by God that you will not kill me or deliver me into the hand of my master, and I will lead you to them.”<small><sub>**MT:**</sub></small>
 [[1Sam.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.14|<< 1 Samuel 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.16|1 Samuel 30:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Will | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you lead | <big><span class="asgreek">κατάξεις</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this troop? | <big><span class="asgreek">γεδδούρ</span></big> <sup><small><small>[[G6722]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[If\] you swear by an oath | <big><span class="asgreek">όμοσον</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| put me to death, | <big><span class="asgreek">θανατώσαί</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">παραδούναί</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my master, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">κατάξω</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this troop. | <big><span class="asgreek">γεδδούρ</span></big> <sup><small><small>[[G6722]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| Will | **<big>[[G1487\|ει]]</big>** |
+| you lead | **<big>[[G2609\|κατάξεις]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this troop? | **<big>[[G6722\|γεδδούρ]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| \[If\] you swear by an oath | **<big>[[G3660\|όμοσον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| put me to death, | **<big>[[G2289\|θανατώσαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| to deliver | **<big>[[G3860\|παραδούναί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my master, | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G2609\|κατάξω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this troop. | **<big>[[G6722\|γεδδούρ]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 [[1Sam.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.14|<< 1 Samuel 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.16|1 Samuel 30:16 >>]]</td></tr></table>
 
 

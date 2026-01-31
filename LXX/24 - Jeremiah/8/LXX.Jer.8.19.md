@@ -7,36 +7,36 @@ Behold the voice of the cry of the daughter of my people because of them that dw
 Listen to the cry of the daughter of my people from a land far away: “Is the LORD no longer in Zion? Is her King no longer there?” “Why have they provoked Me to anger with their carved images, with their worthless foreign idols?”<small><sub>**MT:**</sub></small>
 [[Jer.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.18|<< Jeremiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.20|Jeremiah 8:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| far off. | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-|  | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion? | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| there? | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they provoked me to anger | <big><span class="asgreek">παρώργισαν</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their \[idolatrous\] carvings, | <big><span class="asgreek">γλυπτοίς</span></big> <sup><small><small>[[G6745]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| vanities | <big><span class="asgreek">ματαίοις</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| strange | <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] cry | **<big>[[G2906\|κραυγής]]</big>** |
+| of \[the\] daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| far off. | **<big>[[G3113\|μακρόθεν]]</big>** |
+|  | **<big>[[G3361\|μη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| Is | **<big>[[G1510\|έστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Zion? | **<big>[[G4622\|Σιών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| no | **<big>[[G3756\|ουκ]]</big>** |
+| is | **<big>[[G1510\|έστιν]]</big>** |
+| there? | **<big>[[G1563\|εκεί]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| they provoked me to anger | **<big>[[G3949\|παρώργισαν]]</big>** **<big>[[G1473\|με]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their \[idolatrous\] carvings, | **<big>[[G6745\|γλυπτοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| vanities | **<big>[[G3152\|ματαίοις]]</big>** |
+| strange | **<big>[[G0245\|αλλοτρίοις]]</big>** |
 [[Jer.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.18|<< Jeremiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.20|Jeremiah 8:20 >>]]</td></tr></table>
 
 

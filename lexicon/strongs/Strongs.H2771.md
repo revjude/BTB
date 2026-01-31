@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרָן‎</span></big> **Chârân** <small>*(kaw-rawn')*</small> ==**Haran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַר‎</span><sup><small>[[H2787]]</small></sup>; parched</small>
+**<big><span class="ashebrew">‎חָרָן‎</span></big>** **Chârân** <small>*(kaw-rawn')*</small> ==**Haran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2787|‎חָרַר‎]]</big>**; parched</small>
 
 $\quad$ Haran.
 - § Haran = *"mountaineer"*
@@ -10,4 +10,4 @@ n pr m
 n pr loc
 **2)** the city to which Abraham migrated when he left Ur of the Chaldees and where he stayed until his father died before leaving for the promised land; located in Mesopotamia in Padan-aram at the foot of Mount Masius between the Khabour and the Euphrates
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Χαῤῥάν</span><sup><small>[[G5488]]</small></sup>
+<small>See Greek: </small>**<big>[[G5488|Χαῤῥάν]]</big>**

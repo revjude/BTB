@@ -7,29 +7,29 @@ And when I beheld, lo, the sinews and the flesh came up upon them, and the skin 
 As I looked on, tendons appeared on them, flesh grew, and skin covered them; but there was no breath in them.<small><sub>**MT:**</sub></small>
 [[Ezek.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.7|<< Ezekiel 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.9|Ezekiel 37:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nerves | <big><span class="asgreek">νεύρα</span></big> <sup><small><small>[[G8391]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σάρκες</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| germinated, | <big><span class="asgreek">εφύοντο</span></big> <sup><small><small>[[G5453]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| skin | <big><span class="asgreek">δέρματα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| above; | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| breath | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld, | **<big>[[G1492\|είδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| nerves | **<big>[[G8391\|νεύρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| flesh | **<big>[[G4561\|σάρκες]]</big>** |
+| germinated, | **<big>[[G5453\|εφύοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| skin | **<big>[[G1192\|δέρματα]]</big>** |
+| above; | **<big>[[G1883\|επάνω]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| breath | **<big>[[G4151\|πνεύμα]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ezek.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.7|<< Ezekiel 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.9|Ezekiel 37:9 >>]]</td></tr></table>
 
 

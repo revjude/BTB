@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מַעֲשֶׂה‎</span> <small>***(ma.a.seh)***</small> ==**deed: custom**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H4639I]]</small> 
+<small>meaning of:</small> <small>**<big>[[H4639I|מַעֲשֶׂה]]</big>**</small> 
 
 - : custom/manner

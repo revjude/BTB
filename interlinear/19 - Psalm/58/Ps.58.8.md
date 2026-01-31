@@ -6,17 +6,17 @@ Like a slug that dissolves in its slime, like a woman’s stillborn child, may t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.7|<< Psalms 58:7]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.9|Psalms 58:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| like  | <span class="ashebrew"><big>כְּמ֣וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> &#8207;| ke.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a snail  | <span class="ashebrew"><big>שַׁ֭בְּלוּל </big></span><small><small><sup>[[H7642]]</sup></small></small> &#8207;| She.be.lul <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] melting away  | <span class="ashebrew"><big>תֶּ֣מֶס </big></span><small><small><sup>[[H8557]]</sup></small></small> &#8207;| Te.mes <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it goes  | <span class="ashebrew"><big>יַהֲלֹ֑ךְ </big></span><small><small><sup>[[H1980L]]</sup></small></small> &#8207;| ya.ha.Lokh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a miscarriage of  | <span class="ashebrew"><big>נֵ֥פֶל </big></span><small><small><sup>[[H5309]]</sup></small></small> &#8207;| Ne.fel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אֵ֝֗שֶׁת </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'E.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> [which] not  | <span class="ashebrew"><big>בַּל </big></span><small><small><sup>[[H1077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bal- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have seen  | <span class="ashebrew"><big>חָ֥זוּ </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| Cha.zu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sun  | <span class="ashebrew"><big>שָֽׁמֶשׁ </big></span><small><small><sup>[[H8121]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.mesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמ֣וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a snail  |**<big>&#8207;[[H7642\|שַׁ֭בְּלוּל]]&#8207; </big>**| She.be.lul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] melting away  |**<big>&#8207;[[H8557\|תֶּ֣מֶס]]&#8207; </big>**| Te.mes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it goes  |**<big>&#8207;[[H1980L\|יַהֲלֹ֑ךְ]]&#8207; </big>**| ya.ha.Lokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a miscarriage of  |**<big>&#8207;[[H5309\|נֵ֥פֶל]]&#8207; </big>**| Ne.fel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אֵ֝֗שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [which] not  |**<big>&#8207;[[H1077\|בַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have seen  |**<big>&#8207;[[H2372\|חָ֥זוּ]]&#8207; </big>**| Cha.zu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sun  |**<big>&#8207;[[H8121\|שָֽׁמֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.7|<< Psalms 58:7]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.9|Psalms 58:9 >>]]</td></tr></table>
 
 

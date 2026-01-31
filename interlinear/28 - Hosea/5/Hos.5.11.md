@@ -6,17 +6,17 @@ Ephraim is oppressed, crushed in judgment, for he is determined to follow worthl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.10|<< Hosea 5:10]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.12|Hosea 5:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] oppressed  | <span class="ashebrew"><big>עָשׁ֥וּק </big></span><small><small><sup>[[H6231]]</sup></small></small> &#8207;| 'a.Shuk <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֖יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] crushed of  | <span class="ashebrew"><big>רְצ֣וּץ </big></span><small><small><sup>[[H7533]]</sup></small></small> &#8207;| re.Tzutz <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgment  | <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941G]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was determined  | <span class="ashebrew"><big>הוֹאִ֔יל </big></span><small><small><sup>[[H2974]]</sup></small></small> &#8207;| ho.'Il <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he walked  | <span class="ashebrew"><big>הָלַ֖ךְ </big></span><small><small><sup>[[H1980N]]</sup></small></small> &#8207;| ha.Lakh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵי </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.cha.rei- <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a command  | <span class="ashebrew"><big>צָֽו </big></span><small><small><sup>[[H6673]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Tzav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] oppressed  |**<big>&#8207;[[H6231\|עָשׁ֥וּק]]&#8207; </big>**| 'a.Shuk<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] crushed of  |**<big>&#8207;[[H7533\|רְצ֣וּץ]]&#8207; </big>**| re.Tzutz<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgment  |**<big>&#8207;[[H4941G\|מִשְׁפָּ֑ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was determined  |**<big>&#8207;[[H2974\|הוֹאִ֔יל]]&#8207; </big>**| ho.'Il<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he walked  |**<big>&#8207;[[H1980N\|הָלַ֖ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a command  |**<big>&#8207;[[H6673\|צָֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tzav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.10|<< Hosea 5:10]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.12|Hosea 5:12 >>]]</td></tr></table>
 
 

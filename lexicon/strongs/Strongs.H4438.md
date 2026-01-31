@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלְכוּת‎</span></big> **malkûwth** <small>*(mal-kooth')*</small> ==**royalty**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מַלְכֻת</span> **malkuth** <small>*(malkooth')*</small>; or (in plural) <span class="ashebrew">מַלְכֻיָּה</span> **malkuyâh** <small>*(mal-koo-yah')*</small>; from <span class="ashebrew">‎מָלַךְ‎</span><sup><small>[[H4427]]</small></sup></small>
+**<big><span class="ashebrew">‎מַלְכוּת‎</span></big>** **malkûwth** <small>*(mal-kooth')*</small> ==**royalty**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַלְכֻת</span></big>** **malkuth** <small>*(malkooth')*</small>; or (in plural) **<big><span class="ashebrew">מַלְכֻיָּה</span></big>** **malkuyâh** <small>*(mal-koo-yah')*</small>; from **<big>[[H4427|‎מָלַךְ‎]]</big>**</small>
 
 $\quad$ empire, kingdom, realm, reign, royal.
 - ***a rule***
@@ -10,4 +10,4 @@ $\quad$ **1a)** royal power, dominion
 $\quad$ **1b)** reign
 $\quad$ **1c)** kingdom, realm
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βασιλεία</span><sup><small>[[G0932]]</small></sup>
+<small>See Greek: </small>**<big>[[G0932|βασιλεία]]</big>**

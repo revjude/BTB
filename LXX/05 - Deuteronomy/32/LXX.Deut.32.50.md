@@ -7,37 +7,37 @@ And die in the mount whither thou goest up, and be gathered unto thy people; as 
 And there on the mountain that you climb, you will die and be gathered to your people, just as your brother Aaron died on Mount Hor and was gathered to his people.<small><sub>**MT:**</sub></small>
 [[Deut.32.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.49|<< Deuteronomy 32:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.51|Deuteronomy 32:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come to an end | <big><span class="asgreek">τελεύτα</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you ascend | <big><span class="asgreek">αναβαίνεις</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| there! | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be added | <big><span class="asgreek">προστέθητι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people! | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Hor | <big><span class="asgreek">Ωρ</span></big> <sup><small><small>[[H2023]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was added | <big><span class="asgreek">προσετέθη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| come to an end | **<big>[[G5053\|τελεύτα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain | **<big>[[G3735\|όρει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| you ascend | **<big>[[G0305\|αναβαίνεις]]</big>** |
+| there! | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| be added | **<big>[[G4369\|προστέθητι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people! | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| died | **<big>[[G0599\|απέθανεν]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Hor | **<big>[[H2023\|Ωρ]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain, | **<big>[[G3735\|όρει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was added | **<big>[[G4369\|προσετέθη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.32.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.49|<< Deuteronomy 32:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.51|Deuteronomy 32:51 >>]]</td></tr></table>
 
 

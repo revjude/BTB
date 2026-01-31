@@ -7,26 +7,26 @@ And Nathan departed unto his house. And the LORD struck the child that Uriah’s
 After Nathan had gone home, the LORD struck the child that Uriah’s wife had borne to David, and he became ill.<small><sub>**MT:**</sub></small>
 [[2Sam.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.14|<< 2 Samuel 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.16|2 Samuel 12:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nathan went forth | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> <big><span class="asgreek">Ναθάν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> enfeebled | <big><span class="asgreek">έθραυσε</span></big> <sup><small><small>[[G2352]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Uriah | <big><span class="asgreek">Ουρίου</span></big> <sup><small><small>[[G3774]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unto David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was ill. | <big><span class="asgreek">ηρρώστησε</span></big> <sup><small><small>[[G6542]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Nathan went forth | **<big>[[G0565\|απήλθε]]</big>** **<big>[[G3481\|Ναθάν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house. | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> enfeebled | **<big>[[G2352\|έθραυσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| child | **<big>[[G3813\|παιδίον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[the\] wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Uriah | **<big>[[G3774\|Ουρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| unto David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was ill. | **<big>[[G6542\|ηρρώστησε]]</big>** |
 [[2Sam.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.14|<< 2 Samuel 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.16|2 Samuel 12:16 >>]]</td></tr></table>
 
 

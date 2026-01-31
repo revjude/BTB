@@ -7,42 +7,42 @@ And upon the table of shewbread they shall spread a cloth of blue, and put there
 Over the table of the Presence they are to spread a blue cloth and place the plates and cups on it, along with the bowls and pitchers for the drink offering. The regular bread offering is to remain on it.<small><sub>**MT:**</sub></small>
 [[Num.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.6|<< Numbers 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.8|Numbers 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table, | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being situated \[for the loaves\], | <big><span class="asgreek">προκειμένην</span></big> <sup><small><small>[[G4295]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">επιβαλούσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| entirely of purple, | <big><span class="asgreek">ολοπόρφυρον</span></big> <sup><small><small>[[G8497]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saucers, | <big><span class="asgreek">τρυβλία</span></big> <sup><small><small>[[G5165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| incense pans, | <big><span class="asgreek">θυϊσκας</span></big> <sup><small><small>[[G7695]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cups, | <big><span class="asgreek">κυάθους</span></big> <sup><small><small>[[G8112]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| libation bowls | <big><span class="asgreek">σπονδεία</span></big> <sup><small><small>[[G9144]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you offer a libation; | <big><span class="asgreek">σπένδει</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| continual | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| table, | **<big>[[G5132\|τράπεζαν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| being situated \[for the loaves\], | **<big>[[G4295\|προκειμένην]]</big>** |
+| they shall put | **<big>[[G1911\|επιβαλούσιν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| entirely of purple, | **<big>[[G8497\|ολοπόρφυρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| saucers, | **<big>[[G5165\|τρυβλία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| incense pans, | **<big>[[G7695\|θυϊσκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| cups, | **<big>[[G8112\|κυάθους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| libation bowls | **<big>[[G9144\|σπονδεία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| you offer a libation; | **<big>[[G4689\|σπένδει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| continual | **<big>[[G1275\|διαπαντός]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
 [[Num.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.6|<< Numbers 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.8|Numbers 4:8 >>]]</td></tr></table>
 
 

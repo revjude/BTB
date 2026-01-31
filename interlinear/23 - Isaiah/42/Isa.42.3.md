@@ -10,19 +10,19 @@ A bruised reed He will not break and a smoldering wick He will not extinguish; H
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a reed  | <span class="ashebrew"><big>קָנֶ֤ה </big></span><small><small><sup>[[H7070H]]</sup></small></small> &#8207;| ka.Neh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crushed  | <span class="ashebrew"><big>רָצוּץ֙ </big></span><small><small><sup>[[H7533]]</sup></small></small> &#8207;| ra.Tzutz <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will break  | <span class="ashebrew"><big>יִשְׁבּ֔וֹר </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| yish.Bor <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a wick  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פִשְׁתָּ֥ה </big></span><small><small><sup>[[H6594]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fish.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dim  | <span class="ashebrew"><big>כֵהָ֖ה </big></span><small><small><sup>[[H3544]]</sup></small></small> &#8207;| khe.Hah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will extinguish it  | <span class="ashebrew"><big>יְכַבֶּ֑ </big></span><small><small><sup>[[H3518]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ye.khab.Be. <small><sup>[[HVpi3ms]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to faithfulness  | <span class="ashebrew"><big>לֶ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֱמֶ֖ת </big></span><small><small><sup>[[H0571G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will bring forth  | <span class="ashebrew"><big>יוֹצִ֥יא </big></span><small><small><sup>[[H3318H]]</sup></small></small> &#8207;| yo.Tzi' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּֽט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a reed  |**<big>&#8207;[[H7070H\|קָנֶ֤ה]]&#8207; </big>**| ka.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crushed  |**<big>&#8207;[[H7533\|רָצוּץ֙]]&#8207; </big>**| ra.Tzutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will break  |**<big>&#8207;[[H7665\|יִשְׁבּ֔וֹר]]&#8207; </big>**| yish.Bor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a wick  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6594\|פִשְׁתָּ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fish.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dim  |**<big>&#8207;[[H3544\|כֵהָ֖ה]]&#8207; </big>**| khe.Hah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will extinguish it  |**<big>&#8207;[[H3518\|יְכַבֶּ֑]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| ye.khab.Be.<small><sup>[[HVpi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to faithfulness  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0571G\|אֱמֶ֖ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will bring forth  |**<big>&#8207;[[H3318H\|יוֹצִ֥יא]]&#8207; </big>**| yo.Tzi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.2|<< Isaiah 42:2]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.4|Isaiah 42:4 >>]]</td></tr></table>
 
 

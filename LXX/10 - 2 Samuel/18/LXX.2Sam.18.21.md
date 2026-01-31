@@ -7,24 +7,24 @@ Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed h
 So Joab said to a Cushite, “Go, tell the king what you have seen.” The Cushite bowed to Joab and took off running.<small><sub>**MT:**</sub></small>
 [[2Sam.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cushi, | <big><span class="asgreek">Χουσί</span></big> <sup><small><small>[[H2365]]</small></small></sup> |
-| Go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| announce | <big><span class="asgreek">ανάγγειλον</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have seen! | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Cushi did obeisance to | <big><span class="asgreek">προσεκύνησε</span></big> <sup><small><small>[[G4352]]</small></small></sup> <big><span class="asgreek">Χουσί</span></big> <sup><small><small>[[H3570]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ran. | <big><span class="asgreek">έδραμεν</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3097\|Ιωάβ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Cushi, | **<big>[[H2365\|Χουσί]]</big>** |
+| Go, | **<big>[[G4198\|πορεύου]]</big>** |
+| announce | **<big>[[G0312\|ανάγγειλον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you have seen! | **<big>[[G3708\|εώρακας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Cushi did obeisance to | **<big>[[G4352\|προσεκύνησε]]</big>** **<big>[[H3570\|Χουσί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he ran. | **<big>[[G5143\|έδραμεν]]</big>** |
 [[2Sam.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
 
 

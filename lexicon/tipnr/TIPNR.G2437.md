@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Illyricum</span>, a region where Paul preached the gospel \([[Rom.15.19|Romans 15:19]]\).
 - A location only mentioned at [[Rom.15.19|Rom.15.19]]; 
-- only referred to as Illyricum<[[G2437]]> \(<span class='tipnrLangGreek'>Ἰλλυρικόν</span>\).
+- only referred to as Illyricum **<big>[[G2437|Ἰλλυρικόν]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=43.515484,16.071538&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Illyricum was a region located along the eastern coast of the Adriatic Sea, corr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Illyricum | [<span class='tipnrLangGreek'>Ἰλλυρικόν</span>](G2437) <small>*Greek*</small> | 1x | [Rom.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Illyricum\*\|reference=Rom.15.19) |
-All Strong's for **Illyricum**: \[[[G2437]]\]
+| Illyricum | [<span class='tipnrLangGreek'>Ἰλλυρικόν</span>](G2437) | 1x | [Rom.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Illyricum\*\|reference=Rom.15.19) |
+All entries for **Illyricum**:  **<big>[[G2437|Ἰλλυρικόν]]</big>**

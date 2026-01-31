@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תַּעָב‎</span></big> **taʻâb** <small>*(taw-ab')*</small> ==**to abhor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תַּעָב‎</span></big>** **taʻâb** <small>*(taw-ab')*</small> ==**to abhor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make to be) abhor(-red), (be, commit more, do) abominable(-y), [idiom] utterly.
@@ -17,4 +17,4 @@ $\quad$ **1c)** (Hiphil) to make abominable, do abominably
 $\quad$ $\quad$ **1c1)** in the ritual sense
 $\quad$ $\quad$ **1c2)** in the ethical sense
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βδελύσσω</span><sup><small>[[G0948]]</small></sup> · <span class="asgreek">βδελύσσω</span><sup><small>[[G0948]]</small></sup> · <span class="asgreek">ἐπιθυμέω</span><sup><small>[[G1937]]</small></sup> · <span class="asgreek">ἐπιποθέω</span><sup><small>[[G1971]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">λυμαίνομαι</span><sup><small>[[G3075]]</small></sup> · <span class="asgreek">προσοχθίζω</span><sup><small>[[G4360]]</small></sup>
+<small>See Greek: </small>**<big>[[G0948|βδελύσσω]]</big>** · **<big>[[G0948|βδελύσσω]]</big>** · **<big>[[G1937|ἐπιθυμέω]]</big>** · **<big>[[G1971|ἐπιποθέω]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G3075|λυμαίνομαι]]</big>** · **<big>[[G4360|προσοχθίζω]]</big>**

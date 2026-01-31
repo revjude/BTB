@@ -6,16 +6,16 @@ Blessed be the LORD God, the God of Israel, who alone does marvelous deeds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.17|<< Psalms 72:17]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.19|Psalms 72:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [be] blessed  | <span class="ashebrew"><big>בָּר֤וּךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ba.Rukh <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱ֭לֹהִים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֣י </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'e.lo.Hei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] does  | <span class="ashebrew"><big>עֹשֵׂ֖ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> wonders  | <span class="ashebrew"><big>נִפְלָא֣וֹת </big></span><small><small><sup>[[H6381]]</sup></small></small> &#8207;| nif.la.'ot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to only him  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַדּֽ </big></span><small><small><sup>[[H0905H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> va.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] blessed  |**<big>&#8207;[[H1288\|בָּר֤וּךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] does  |**<big>&#8207;[[H6213A\|עֹשֵׂ֖ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> wonders  |**<big>&#8207;[[H6381\|נִפְלָא֣וֹת]]&#8207; </big>**| nif.la.'ot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to only him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַדּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.17|<< Psalms 72:17]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.19|Psalms 72:19 >>]]</td></tr></table>
 
 

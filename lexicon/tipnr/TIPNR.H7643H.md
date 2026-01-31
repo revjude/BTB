@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sibmah</span> was a Moabite town known for its vineyards, allotted to the tribe of Reuben \(Num. 32:38; Josh. 13:19\) and later mentioned in prophecies concerning Moab \(Isa. 16:8-9; Jer. 48:32\).
 - A location first mentioned at [[Num.32.38|Num.32.38]]; 
-- only referred to as Sibmah<[[H7643H]]> \(<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Sibmah **<big>[[H7643|שְׂבָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.815283,35.766738&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Although the exact location of Sibmah is uncertain, it is believed to have been 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sibmah | [<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ם</span>](H7643H) <small>*Hebrew*</small> | 5x | [[Num.32.38] ... [Jer.48.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sibmah\*\|reference=Num.32.38;Jos.13.19;Isa.16.8;Isa.16.9;Jer.48.32) |
-All Strong's for **Sibmah**: \[[[H7643H]]\]
+| Sibmah | [<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ם</span>](H7643H) | 5x | [[Num.32.38] ... [Jer.48.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sibmah\*\|reference=Num.32.38;Jos.13.19;Isa.16.8;Isa.16.9;Jer.48.32) |
+All entries for **Sibmah**:  **<big>[[H7643|שְׂבָם]]</big>**

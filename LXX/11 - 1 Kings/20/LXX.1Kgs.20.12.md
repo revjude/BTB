@@ -7,39 +7,39 @@ And it came to pass, when [Benhadad] heard this message, as he [was] drinking, h
 Ben-hadad received this message while he and the kings were drinking in their tents, and he said to his servants, “Take your positions.” So they stationed themselves against the city.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.11|<< 1 Kings 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.13|1 Kings 20:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| he answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was | <big><span class="asgreek">πίνων</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| drinking | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tents. | <big><span class="asgreek">σκηναίς</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Build | <big><span class="asgreek">οικοδομήσατε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a siege mound! | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a siege mound | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| he answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this word, | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| was | **<big>[[G4095\|πίνων]]</big>** |
+| drinking | **<big>[[G1510\|ην]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| tents. | **<big>[[G4633\|σκηναίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Build | **<big>[[G3618\|οικοδομήσατε]]</big>** |
+| a siege mound! | **<big>[[G5482\|χάρακα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they put | **<big>[[G5087\|έθεντο]]</big>** |
+| a siege mound | **<big>[[G5482\|χάρακα]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city. | **<big>[[G4172\|πόλιν]]</big>** |
 [[1Kgs.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.11|<< 1 Kings 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.13|1 Kings 20:13 >>]]</td></tr></table>
 
 

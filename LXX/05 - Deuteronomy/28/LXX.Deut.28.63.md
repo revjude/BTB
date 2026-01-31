@@ -7,39 +7,39 @@ And it shall come to pass, [that] as the LORD rejoiced over you to do you good, 
 Just as it pleased the LORD to make you prosper and multiply, so also it will please Him to annihilate you and destroy you. And you will be uprooted from the land you are entering to possess.<small><sub>**MT:**</sub></small>
 [[Deut.28.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.62|<< Deuteronomy 28:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.64|Deuteronomy 28:64 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in the | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> was glad | <big><span class="asgreek">ευφράνθη</span></big> <sup><small><small>[[G2165]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to multiply | <big><span class="asgreek">πληθύναι</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to lift you away | <big><span class="asgreek">εξαρθήσεσθε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισπορεύεσθε</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in the | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> was glad | **<big>[[G2165\|ευφράνθη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| for you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to multiply | **<big>[[G4129\|πληθύναι]]</big>** |
+| you; | **<big>[[G1473\|υμάς]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to lift you away | **<big>[[G1808\|εξαρθήσεσθε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| enter | **<big>[[G1531\|εισπορεύεσθε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Deut.28.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.62|<< Deuteronomy 28:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.64|Deuteronomy 28:64 >>]]</td></tr></table>
 
 

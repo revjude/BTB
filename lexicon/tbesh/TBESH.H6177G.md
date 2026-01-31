@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עֲרֹעֵר‎</span> <small>***(a.ro.er)***</small> ==**Aroer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 - Aroer = "ruins"
 - a city in Ammon near the Jabbok belonging to Gad
-- Also named: <i>a.ro.e.ri</i> (<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎ר‎</span>ֹ<span class='ashebrew'>‎ע‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎י‎</span> "Aroerite" [[H6200]])
+- Also named: <i>a.ro.e.ri</i> (<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎ר‎</span>ֹ<span class='ashebrew'>‎ע‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎י‎</span> "Aroerite" **<big>[[H6200|עֲרֹעֵרִי]]</big>**)

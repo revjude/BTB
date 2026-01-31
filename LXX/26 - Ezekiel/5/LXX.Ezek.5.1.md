@@ -10,37 +10,37 @@ And thou, son of man, take thee a sharp knife, take thee a barber’s rasor, and
 “As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.<small><sub>**MT:**</sub></small>
 [[Ezek.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.17|<< Ezekiel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.2|Ezekiel 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| a sharp | <big><span class="asgreek">οξείαν</span></big> <sup><small><small>[[G3691]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| a razor | <big><span class="asgreek">ξυρόν</span></big> <sup><small><small>[[G8434]]</small></small></sup> |
-| of a barber! | <big><span class="asgreek">κουρέως</span></big> <sup><small><small>[[G8079]]</small></small></sup> |
-| You shall acquire | <big><span class="asgreek">κτήση</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to yourself, | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring it | <big><span class="asgreek">επάξεις</span></big> <sup><small><small>[[G1863]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your beard. | <big><span class="asgreek">πώγωνά</span></big> <sup><small><small>[[G9002]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a yoke \[balance scale\] | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
-| of weights, | <big><span class="asgreek">σταθμίων</span></big> <sup><small><small>[[G9149]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall part them. | <big><span class="asgreek">διαστήσεις</span></big> <sup><small><small>[[G1339]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| a sharp | **<big>[[G3691\|οξείαν]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| a razor | **<big>[[G8434\|ξυρόν]]</big>** |
+| of a barber! | **<big>[[G8079\|κουρέως]]</big>** |
+| You shall acquire | **<big>[[G2932\|κτήση]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| to yourself, | **<big>[[G4572\|σεαυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bring it | **<big>[[G1863\|επάξεις]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your head, | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your beard. | **<big>[[G9002\|πώγωνά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| a yoke \[balance scale\] | **<big>[[G2218\|ζυγόν]]</big>** |
+| of weights, | **<big>[[G9149\|σταθμίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall part them. | **<big>[[G1339\|διαστήσεις]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Ezek.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.17|<< Ezekiel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.2|Ezekiel 5:2 >>]]</td></tr></table>
 
 

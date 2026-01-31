@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּדְמֹר‎</span></big> **Tadmôr** <small>*(tad-more')*</small> ==**Tadmor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">תַּמֹּר</span> **Tammôr** <small>*(tam-more')*</small>; (1 Kings 9:18), apparently from <span class="ashebrew">‎תָּמָר‎</span><sup><small>[[H8558]]</small></sup>; palm-city</small>
+**<big><span class="ashebrew">‎תַּדְמֹר‎</span></big>** **Tadmôr** <small>*(tad-more')*</small> ==**Tadmor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">תַּמֹּר</span></big>** **Tammôr** <small>*(tam-more')*</small>; (1 Kings 9:18), apparently from **<big>[[H8558|‎תָּמָר‎]]</big>**; palm-city</small>
 
 $\quad$ Tadmor.
 - § Tadmor = *"palm tree"*

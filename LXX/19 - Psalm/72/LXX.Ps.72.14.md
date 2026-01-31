@@ -7,23 +7,23 @@ He shall redeem their soul from deceit and violence: and precious shall their bl
 He will redeem them from oppression and violence, for their blood is precious in his sight.<small><sub>**MT:**</sub></small>
 [[Ps.72.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.13|<< Psalm 72:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.15|Psalm 72:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| interest | <big><span class="asgreek">τόκου</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| he shall ransom | <big><span class="asgreek">λυτρώσεται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their souls, | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| valued | <big><span class="asgreek">έντιμον</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| interest | **<big>[[G5110\|τόκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| injustice | **<big>[[G0093\|αδικίας]]</big>** |
+| he shall ransom | **<big>[[G3084\|λυτρώσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their souls, | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| valued | **<big>[[G1784\|έντιμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \[will be\] before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.72.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.13|<< Psalm 72:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.15|Psalm 72:15 >>]]</td></tr></table>
 
 

@@ -10,24 +10,24 @@ And He buried him in a valley in the land of Moab facing Beth-peor, and no one t
 > $\quad$ referenced by: [[Jude.1.9|Jude 1:9]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he buried  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקְבֹּ֨ר </big></span><small><small><sup>[[H6912]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yik.Bor <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֤ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the valley  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גַּיְ֙ </big></span><small><small><sup>[[H1516R]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> gaY <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] land of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֔ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opposite to  | <span class="ashebrew"><big>מ֖וּל </big></span><small><small><sup>[[H4136]]</sup></small></small> &#8207;| mul <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1047]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Peor  | <span class="ashebrew"><big>פְּע֑וֹר </big></span><small><small><sup>[[H1047]]</sup></small></small> &#8207;| pe.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knows  | <span class="ashebrew"><big>יָדַ֥ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>אִישׁ֙ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| burial place his  | <span class="ashebrew"><big>קְבֻ֣רָת֔ </big></span><small><small><sup>[[H6900]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ke.Vu.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַ֖ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֥וֹם </big></span><small><small><sup>[[H3117L]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּֽה </big></span><small><small><sup>[[H2088]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבֹּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Bor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the valley  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1516R\|גַּיְ֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> gaY<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֔ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opposite to  |**<big>&#8207;[[H4136\|מ֖וּל]]&#8207; </big>**| mul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1047\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Peor  |**<big>&#8207;[[H1047\|פְּע֑וֹר]]&#8207; </big>**| pe.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knows  |**<big>&#8207;[[H3045\|יָדַ֥ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0376I\|אִישׁ֙]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burial place his  |**<big>&#8207;[[H6900\|קְבֻ֣רָת֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ke.Vu.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.5|<< Deuteronomy 34:5]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.7|Deuteronomy 34:7 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H5449]]</small>
+<small>Also see: **<big>[[H5449|סַבָּל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎סֵ֫בֶל‎</span> **noun [masculine]** ==load, burden==; — absolute [[Neh.4.11|Neh 4:11]]; [[Ps.81.7|Ps 81:7]] (enforced burden); construct ***id.***, = ***burdensome labour*** (of ***corvée***) [[1Kgs.11.28|1Kgs 11:28]]. — See also <span class="bdbLangHebrew">‎סַבָּל‎</span>. 
 

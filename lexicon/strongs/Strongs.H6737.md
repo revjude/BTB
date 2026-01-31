@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָיַר‎</span></big> **tsâyar** <small>*(tsaw-yar')*</small> ==**to take provision**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a denominative from <span class="ashebrew">‎צִיר‎</span><sup><small>[[H6735]]</small></sup> in the sense of ambassador</small>
+**<big><span class="ashebrew">‎צָיַר‎</span></big>** **tsâyar** <small>*(tsaw-yar')*</small> ==**to take provision**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a denominative from **<big>[[H6735|‎צִיר‎]]</big>** in the sense of ambassador</small>
 
 $\quad$ make as if...had been ambassador.
 - ***to make an errand***, i.e. ***betake oneself***

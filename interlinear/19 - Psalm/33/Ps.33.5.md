@@ -6,15 +6,15 @@ The LORD loves righteousness and justice; the earth is full of His loving devoti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.4|<< Psalms 33:4]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.6|Psalms 33:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he is] loving  | <span class="ashebrew"><big>אֹ֭הֵב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'O.hev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צְדָקָ֣ה </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and justice  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] covenant loyalty of  | <span class="ashebrew"><big>חֶ֥סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Che.sed <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is full  | <span class="ashebrew"><big>מָלְאָ֥ה </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mal.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] loving  |**<big>&#8207;[[H0157G\|אֹ֭הֵב]]&#8207; </big>**| 'O.hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6666\|צְדָקָ֣ה]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and justice  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] covenant loyalty of  |**<big>&#8207;[[H2617A\|חֶ֥סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is full  |**<big>&#8207;[[H4390\|מָלְאָ֥ה]]&#8207; </big>**| mal.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.4|<< Psalms 33:4]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.6|Psalms 33:6 >>]]</td></tr></table>
 
 

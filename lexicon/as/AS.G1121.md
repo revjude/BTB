@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">γράμμα</span></span>, <span class="asgreek">-τος, τό</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">γράφω</span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">סֵפֶר</span> <small><sup>[[H5612]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">γράμμα</span></span>, <span class="asgreek">-τος, τό</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">γράφω</span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H5612|סֵפֶר]]</big>**, etc. ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">that which is traced</span> or <span class="asitalic">drawn, a picture</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">that which is written</span>;</span>

@@ -1,8 +1,8 @@
 <small>*Gur • A place near Ibleam where Ahaziah was wounded.*</small>
 
 <span class='tipnrhighlight'>Gur</span> was a place near Ibleam where Ahaziah, king of Judah, was wounded by Jehu's men while fleeing \([[2Kgs.9.27|2 Kings 9:27]]\).
-- A location near Ibleam<[[H2991]]> only mentioned at [[2Kgs.9.27|2Ki.9.27]]; 
-- only referred to as Gur<[[H1483]]> \(<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Ibleam **<big>[[H2991|יִבְלְעָם]]</big>** only mentioned at [[2Kgs.9.27|2Ki.9.27]]; 
+- only referred to as Gur **<big>[[H1483|גּוּר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.45,35.2833&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gur is a place mentioned briefly in the account of the death of Ahaziah, king of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gur | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1483) <small>*Hebrew*</small> | 1x | [2Ki.9.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gur\*\|reference=2Ki.9.27) |
-All Strong's for **Gur**: \[[[H1483]]\]
+| Gur | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1483) | 1x | [2Ki.9.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gur\*\|reference=2Ki.9.27) |
+All entries for **Gur**:  **<big>[[H1483|גּוּר]]</big>**

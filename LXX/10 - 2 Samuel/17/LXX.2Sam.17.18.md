@@ -7,37 +7,37 @@ Nevertheless a lad saw them, and told Absalom: but they went both of them away q
 But a young man did see them and told Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it.<small><sub>**MT:**</sub></small>
 [[2Sam.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.17|<< 2 Samuel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.19|2 Samuel 17:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a young man | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he reported | <big><span class="asgreek">ανήγγειλε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| quickly, | <big><span class="asgreek">ταχέως</span></big> <sup><small><small>[[G5030]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Bahurim, | <big><span class="asgreek">Βαουρίμ</span></big> <sup><small><small>[[H0980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto his | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cistern | <big><span class="asgreek">λάκκος</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard, | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went down | <big><span class="asgreek">κατέβησαν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| a young man | **<big>[[G3808\|παιδάριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he reported | **<big>[[G0312\|ανήγγειλε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| quickly, | **<big>[[G5030\|ταχέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| of a man | **<big>[[G0435\|ανδρός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Bahurim, | **<big>[[H0980\|Βαουρίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto his | **<big>[[G1473\|αυτώ]]</big>** |
+| cistern | **<big>[[G8154\|λάκκος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard, | **<big>[[G0833\|αυλή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went down | **<big>[[G2597\|κατέβησαν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[2Sam.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.17|<< 2 Samuel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.19|2 Samuel 17:19 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ And Jacob heard that he had defiled Dinah his daughter: now his sons were with h
 Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.<small><sub>**MT:**</sub></small>
 [[Gen.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.4|<< Genesis 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.6|Genesis 34:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| defiled | <big><span class="asgreek">εμίανεν</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hamor | <big><span class="asgreek">Εμμώρ</span></big> <sup><small><small>[[G1697]]</small></small></sup> |
-| Dinah | <big><span class="asgreek">Δίναν</span></big> <sup><small><small>[[H1783]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter. | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain. | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| remained silent | <big><span class="asgreek">παρεσιώπησε</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| they came. | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And Jacob | **<big>[[G2384\|Ιακώβ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| heard | **<big>[[G0191\|ήκουσεν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| defiled | **<big>[[G3392\|εμίανεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Hamor | **<big>[[G1697\|Εμμώρ]]</big>** |
+| Dinah | **<big>[[H1783\|Δίναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his daughter. | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| his sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his cattle | **<big>[[G2934\|κτηνών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| plain. | **<big>[[G8676\|πεδίω]]</big>** |
+| remained silent | **<big>[[G8637\|παρεσιώπησε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| they came. | **<big>[[G2064\|ελθείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Gen.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.4|<< Genesis 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.6|Genesis 34:6 >>]]</td></tr></table>
 
 

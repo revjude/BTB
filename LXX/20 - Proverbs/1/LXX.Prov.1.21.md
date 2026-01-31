@@ -7,18 +7,18 @@ She crieth in the chief place of concourse, in the openings of the gates: in the
 in the main concourse she cries aloud, at the city gates she makes her speech:<small><sub>**MT:**</sub></small>
 [[Prov.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.20|<< Proverbs 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.22|Proverbs 1:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] tops | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] walls | <big><span class="asgreek">τειχέων</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| she proclaims | <big><span class="asgreek">κηρύσσεται</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| and at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of \[the\] city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| courageously | <big><span class="asgreek">θαρρούσα</span></big> <sup><small><small>[[G2293]]</small></small></sup> |
-| says, | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] tops | **<big>[[G6208\|άκρων]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| of \[the\] walls | **<big>[[G5038\|τειχέων]]</big>** |
+| she proclaims | **<big>[[G2784\|κηρύσσεται]]</big>** |
+| and at | **<big>[[G1909\|επί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλαις]]</big>** |
+| of \[the\] city | **<big>[[G4172\|πόλεως]]</big>** |
+| courageously | **<big>[[G2293\|θαρρούσα]]</big>** |
+| says, | **<big>[[G3004\|λέγει]]</big>** |
 [[Prov.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.20|<< Proverbs 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.22|Proverbs 1:22 >>]]</td></tr></table>
 
 

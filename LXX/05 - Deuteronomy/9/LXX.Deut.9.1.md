@@ -10,30 +10,30 @@ Hear, O Israel: Thou [art] to pass over Jordan this day, to go in to possess nat
 Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.<small><sub>**MT:**</sub></small>
 [[Deut.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| O Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pass over | <big><span class="asgreek">διαβαίνεις</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| to enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stronger | <big><span class="asgreek">ισχυρότερα</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| than | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| walled | <big><span class="asgreek">τειχήρεις</span></big> <sup><small><small>[[G9408]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| Hear, | **<big>[[G0191\|άκουε]]</big>** |
+| O Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| pass over | **<big>[[G1224\|διαβαίνεις]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| to enter | **<big>[[G1525\|εισελθείν]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| great | **<big>[[G3173\|μεγάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stronger | **<big>[[G2478\|ισχυρότερα]]</big>** |
+| than | **<big>[[G3123\|μάλλον]]</big>** **<big>[[G2228\|η]]</big>** |
+| you; | **<big>[[G1473\|υμείς]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| great | **<big>[[G3173\|μεγάλας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| walled | **<big>[[G9408\|τειχήρεις]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
 [[Deut.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
 
 

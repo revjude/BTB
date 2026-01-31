@@ -6,18 +6,18 @@ he will dwell in ruined cities, in abandoned houses destined to become rubble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.27|<< Job 15:27]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.29|Job 15:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he dwelt  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁכּ֤וֹן </big></span><small><small><sup>[[H7931]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Kon <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cities  | <span class="ashebrew"><big>עָ֘רִ֤ים </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| destroyed  | <span class="ashebrew"><big>נִכְחָד֗וֹת </big></span><small><small><sup>[[H3582]]</sup></small></small> &#8207;| nikh.cha.Dot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| houses  | <span class="ashebrew"><big>בָּ֭תִּים </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| Ba.tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people will dwell  | <span class="ashebrew"><big>יֵ֣שְׁבוּ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| Ye.she.vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> themselves  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are destined  | <span class="ashebrew"><big>הִתְעַתְּד֣וּ </big></span><small><small><sup>[[H6257]]</sup></small></small> &#8207;| hit.'a.te.Du <small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for heaps of stones  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גַלִּֽים </big></span><small><small><sup>[[H1530G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ga.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7931\|יִּשְׁכּ֤וֹן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kon<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  |**<big>&#8207;[[H5892B\|עָ֘רִ֤ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destroyed  |**<big>&#8207;[[H3582\|נִכְחָד֗וֹת]]&#8207; </big>**| nikh.cha.Dot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| houses  |**<big>&#8207;[[H1004B\|בָּ֭תִּים]]&#8207; </big>**| Ba.tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will dwell  |**<big>&#8207;[[H3427\|יֵ֣שְׁבוּ]]&#8207; </big>**| Ye.she.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> themselves  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are destined  |**<big>&#8207;[[H6257\|הִתְעַתְּד֣וּ]]&#8207; </big>**| hit.'a.te.Du<small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for heaps of stones  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1530G\|גַלִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ga.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.27|<< Job 15:27]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.29|Job 15:29 >>]]</td></tr></table>
 
 

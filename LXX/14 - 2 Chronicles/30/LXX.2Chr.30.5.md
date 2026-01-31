@@ -7,41 +7,41 @@ So they established a decree to make proclamation throughout all Israel, from Be
 So they established a decree to circulate a proclamation throughout Israel, from Beersheba to Dan, that the people should come to keep the Passover of the LORD, the God of Israel, in Jerusalem. For they had not observed it in great numbers as prescribed.<small><sub>**MT:**</sub></small>
 [[2Chr.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.4|<< 2 Chronicles 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.6|2 Chronicles 30:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they established | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| a communication | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go through | <big><span class="asgreek">διελθείν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| by proclamation | <big><span class="asgreek">κήρυγμα</span></big> <sup><small><small>[[G2782]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Beer-sheba | <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Dan, | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to come | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to observe | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passover | <big><span class="asgreek">φασέκ</span></big> <sup><small><small>[[G9622]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scripture. | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they established | **<big>[[G2476\|έστησαν]]</big>** |
+| a communication | **<big>[[G3056\|λόγον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go through | **<big>[[G1330\|διελθείν]]</big>** |
+| by proclamation | **<big>[[G2782\|κήρυγμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Beer-sheba | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Dan, | **<big>[[H1835\|Δαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to come | **<big>[[G2064\|ελθείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to observe | **<big>[[G4160\|ποιήσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| passover | **<big>[[G9622\|φασέκ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| do | **<big>[[G4160\|εποίησε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| scripture. | **<big>[[G1124\|γραφήν]]</big>** |
 [[2Chr.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.4|<< 2 Chronicles 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.6|2 Chronicles 30:6 >>]]</td></tr></table>
 
 

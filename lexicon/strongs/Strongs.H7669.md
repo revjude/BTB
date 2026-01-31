@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁבֶר‎</span></big> **Sheber** <small>*(sheh'-ber)*</small> ==**Sheber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֶׁבֶר‎</span><sup><small>[[H7667]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁבֶר‎</span></big>** **Sheber** <small>*(sheh'-ber)*</small> ==**Sheber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7667|‎שֶׁבֶר‎]]</big>**</small>
 
 $\quad$ Sheber.
 - § Sheber = *"breaking"*

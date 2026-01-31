@@ -6,21 +6,21 @@ and seven pairs of every kind of bird of the air, male and female, to preserve t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.2|<< Genesis 7:2]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.4|Genesis 7:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| also  | <span class="ashebrew"><big>גַּ֣ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] bird[s] of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>ע֧וֹף </big></span><small><small><sup>[[H5775]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'of <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the heavens  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׁמַ֛יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שִׁבְעָ֥ה </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שִׁבְעָ֖ה </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| male  | <span class="ashebrew"><big>זָכָ֣ר </big></span><small><small><sup>[[H2145]]</sup></small></small> &#8207;| za.Khar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and female  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְקֵבָ֑ה </big></span><small><small><sup>[[H5347]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.ke.Vah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to preserve alive  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חַיּ֥וֹת </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> chai.Yot <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| offspring  | <span class="ashebrew"><big>זֶ֖רַע </big></span><small><small><sup>[[H2233H]]</sup></small></small> &#8207;| Ze.ra' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] surface of  | <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440J]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] bird[s] of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5775\|ע֧וֹף]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'of<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֛יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעָ֥ה]]&#8207; </big>**| shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעָ֖ה]]&#8207; </big>**| shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male  |**<big>&#8207;[[H2145\|זָכָ֣ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and female  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5347\|נְקֵבָ֑ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.ke.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to preserve alive  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2421\|חַיּ֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> chai.Yot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| offspring  |**<big>&#8207;[[H2233H\|זֶ֖רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.2|<< Genesis 7:2]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.4|Genesis 7:4 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ Therefore David ran, and stood upon the Philistine, and took his sword, and drew
 David ran and stood over him. He grabbed the Philistine’s sword and pulled it from its sheath and killed him, and he cut off his head with the sword. When the Philistines saw that their hero was dead, they turned and ran.<small><sub>**MT:**</sub></small>
 [[1Sam.17.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.50|<< 1 Samuel 17:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.52|1 Samuel 17:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David ran | <big><span class="asgreek">έδραμε</span></big> <sup><small><small>[[G5143]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">επέστη</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his broadsword, | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pulled it out | <big><span class="asgreek">εξέσπασεν</span></big> <sup><small><small>[[G7145]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its sheath, | <big><span class="asgreek">κουλεού</span></big> <sup><small><small>[[G8051]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put him to death, | <big><span class="asgreek">εθανάτωσεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he removed | <big><span class="asgreek">αφείλε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has died | <big><span class="asgreek">τέθνηκεν</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mighty one | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fled. | <big><span class="asgreek">έφυγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David ran | **<big>[[G5143\|έδραμε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2186\|επέστη]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his broadsword, | **<big>[[G4501\|ρομφαίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pulled it out | **<big>[[G7145\|εξέσπασεν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| of | **<big>[[G0575\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its sheath, | **<big>[[G8051\|κουλεού]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put him to death, | **<big>[[G2289\|εθανάτωσεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he removed | **<big>[[G0851\|αφείλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| has died | **<big>[[G2348\|τέθνηκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their mighty one | **<big>[[G1415\|δυνατός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fled. | **<big>[[G5343\|έφυγον]]</big>** |
 [[1Sam.17.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.50|<< 1 Samuel 17:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.52|1 Samuel 17:52 >>]]</td></tr></table>
 
 

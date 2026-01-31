@@ -7,39 +7,39 @@ And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the hou
 Jeroboam’s wife did as instructed; she arose and went to Shiloh and arrived at Ahijah’s house. Now Ahijah could not see, for his eyes were dim because of his age.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.3|<< 1 Kings 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.5|1 Kings 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shiloh, | <big><span class="asgreek">Σηλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahijah. | <big><span class="asgreek">Αχιά</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[was\] old | <big><span class="asgreek">πρεσβύτερος</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for seeing, | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were blunted | <big><span class="asgreek">ημβλυώπουν</span></big> <sup><small><small>[[G6254]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his old age. | <big><span class="asgreek">γήρως</span></big> <sup><small><small>[[G1094]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| thus | **<big>[[G3779\|ούτω]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she rose up, | **<big>[[G0450\|ανέστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Shiloh, | **<big>[[H7887\|Σηλώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Ahijah. | **<big>[[H0281\|Αχιά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \[was\] old | **<big>[[G4245\|πρεσβύτερος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for seeing, | **<big>[[G1492\|ιδείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were blunted | **<big>[[G6254\|ημβλυώπουν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his old age. | **<big>[[G1094\|γήρως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.3|<< 1 Kings 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.5|1 Kings 14:5 >>]]</td></tr></table>
 
 

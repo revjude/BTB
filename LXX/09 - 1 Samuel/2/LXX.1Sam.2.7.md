@@ -7,15 +7,15 @@ The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.
 The LORD sends poverty and wealth; He humbles and He exalts.<small><sub>**MT:**</sub></small>
 [[1Sam.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.6|<< 1 Samuel 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.8|1 Samuel 2:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| makes poor, | <big><span class="asgreek">πτωχίζει</span></big> <sup><small><small>[[G8984]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he enriches; | <big><span class="asgreek">πλουτίζει</span></big> <sup><small><small>[[G4148]]</small></small></sup> |
-| he humbles, | <big><span class="asgreek">ταπεινοί</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| elevates. | <big><span class="asgreek">ανυψοί</span></big> <sup><small><small>[[G6380]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| makes poor, | **<big>[[G8984\|πτωχίζει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he enriches; | **<big>[[G4148\|πλουτίζει]]</big>** |
+| he humbles, | **<big>[[G5013\|ταπεινοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| elevates. | **<big>[[G6380\|ανυψοί]]</big>** |
 [[1Sam.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.6|<< 1 Samuel 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.8|1 Samuel 2:8 >>]]</td></tr></table>
 
 

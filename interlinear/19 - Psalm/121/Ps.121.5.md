@@ -6,15 +6,15 @@ The LORD is your keeper; the LORD is the shade on your right hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.121.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.4|<< Psalms 121:4]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.6|Psalms 121:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] protector your  | <span class="ashebrew"><big>שֹׁמְרֶ֑ </big></span><small><small><sup>[[H8104H]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| sho.me.Re. <small><sup>[[HVqrmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] shade your  | <span class="ashebrew"><big>צִ֝לְּ </big></span><small><small><sup>[[H6738]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| tzi.le. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] hand of  | <span class="ashebrew"><big>יַ֥ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| yad <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| right your  | <span class="ashebrew"><big>יְמִינֶֽ </big></span><small><small><sup>[[H3225G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.mi.Ne. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] protector your  |**<big>&#8207;[[H8104H\|שֹׁמְרֶ֑]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| sho.me.Re.<small><sup>[[HVqrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] shade your  |**<big>&#8207;[[H6738\|צִ֝לְּ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| tzi.le.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hand of  |**<big>&#8207;[[H3027G\|יַ֥ד]]&#8207; </big>**| yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right your  |**<big>&#8207;[[H3225G\|יְמִינֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.mi.Ne.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.4|<< Psalms 121:4]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.6|Psalms 121:6 >>]]</td></tr></table>
 
 

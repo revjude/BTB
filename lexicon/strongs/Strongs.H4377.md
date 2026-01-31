@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֶכֶר‎</span></big> **meker** <small>*(meh'-ker)*</small> ==**merchandise**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָכַר‎</span><sup><small>[[H4376]]</small></sup></small>
+**<big><span class="ashebrew">‎מֶכֶר‎</span></big>** **meker** <small>*(meh'-ker)*</small> ==**merchandise**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4376|‎מָכַר‎]]</big>**</small>
 
 $\quad$ pay, price, ware.
 - ***merchandise***
@@ -7,4 +7,4 @@ $\quad$ pay, price, ware.
 
 **1)** merchandise, value, price
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup>
+<small>See Greek: </small>**<big>[[G5092|τιμή]]</big>**

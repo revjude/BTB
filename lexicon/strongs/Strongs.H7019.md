@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַיִץ‎</span></big> **qayits** <small>*(kah'-yits)*</small> ==**summer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּץ‎</span><sup><small>[[H6972]]</small></sup></small>
+**<big><span class="ashebrew">‎קַיִץ‎</span></big>** **qayits** <small>*(kah'-yits)*</small> ==**summer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6972|‎קוּץ‎]]</big>**</small>
 
 $\quad$ summer (fruit, house).
 - ***harvest*** (as the crop), whether the product (grain or fruit) or the (dry) season
@@ -8,4 +8,4 @@ $\quad$ summer (fruit, house).
 $\quad$ **1a)** summer
 $\quad$ **1b)** summer-fruit
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θερισμός</span><sup><small>[[G2326]]</small></sup> · <span class="asgreek">θέρος</span><sup><small>[[G2330]]</small></sup> · <span class="asgreek">καῦμα</span><sup><small>[[G2738]]</small></sup> · <span class="asgreek">ὀπώρα</span><sup><small>[[G3703]]</small></sup>
+<small>See Greek: </small>**<big>[[G2326|θερισμός]]</big>** · **<big>[[G2330|θέρος]]</big>** · **<big>[[G2738|καῦμα]]</big>** · **<big>[[G3703|ὀπώρα]]</big>**

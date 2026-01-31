@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎בְּטֵל‎</span></big> **bᵉṭêl** <small>*(bet-ale')*</small> ==**to cease**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בָּטֵל‎</span><sup><small>[[H0988]]</small></sup></small>
+**<big><span class="asaramaic">‎בְּטֵל‎</span></big>** **bᵉṭêl** <small>*(bet-ale')*</small> ==**to cease**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0988|‎בָּטֵל‎]]</big>**</small>
 
 $\quad$ (cause, make to), cease, hinder.
 - ***to stop***
@@ -8,4 +8,4 @@ $\quad$ (cause, make to), cease, hinder.
 $\quad$ **1a)** to cease
 $\quad$ **1b)** to make to cease
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀργέω</span><sup><small>[[G0691]]</small></sup> · <span class="asgreek">καταργέω</span><sup><small>[[G2673]]</small></sup>
+<small>See Greek: </small>**<big>[[G0691|ἀργέω]]</big>** · **<big>[[G2673|καταργέω]]</big>**

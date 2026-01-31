@@ -7,38 +7,38 @@ And he shall cleave it with the wings thereof, [but] shall not divide [it] asund
 He shall tear it open by its wings, without dividing the bird completely. And the priest is to burn it on the altar atop the burning wood. It is a burnt offering, a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.16|<< Leviticus 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.1|Leviticus 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall break | <big><span class="asgreek">εκκλάσει</span></big> <sup><small><small>[[G1575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wings, | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not divide it. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διελεί</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall place | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire -- | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωμά</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| scent | <big><span class="asgreek">οσμή</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall break | **<big>[[G1575\|εκκλάσει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| wings, | **<big>[[G4420\|πτερύγων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not divide it. | **<big>[[G3756\|ου]]</big>** **<big>[[G1244\|διελεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall place | **<big>[[G2007\|επιθήσει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| fire -- | **<big>[[G4442\|πυρός]]</big>** |
+| a yield \[offering\] | **<big>[[G7806\|κάρπωμά]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| scent | **<big>[[G3744\|οσμή]]</big>** |
+| of pleasant aroma | **<big>[[G2175\|ευωδίας]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.16|<< Leviticus 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.1|Leviticus 2:1 >>]]</td></tr></table>
 
 

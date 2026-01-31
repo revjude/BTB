@@ -7,13 +7,13 @@ He hath inclosed my ways with hewn stone, he hath made my paths crooked.
 He has barred my ways with cut stones; He has made my paths crooked.<small><sub>**MT:**</sub></small>
 [[Lam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.8|<< Lamentations 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.10|Lamentations 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He blocked up | <big><span class="asgreek">ανωκοδόμησεν</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
-| my ways; | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he obstructed | <big><span class="asgreek">ενέφραξε</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
-| my roads; | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he disturbed \[me\]. | <big><span class="asgreek">ετάραξεν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| He blocked up | **<big>[[G0456\|ανωκοδόμησεν]]</big>** |
+| my ways; | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he obstructed | **<big>[[G7213\|ενέφραξε]]</big>** |
+| my roads; | **<big>[[G5147\|τρίβους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he disturbed \[me\]. | **<big>[[G5015\|ετάραξεν]]</big>** |
 [[Lam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.8|<< Lamentations 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.10|Lamentations 3:10 >>]]</td></tr></table>
 
 

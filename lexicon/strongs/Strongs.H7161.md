@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֶרֶן‎</span></big> **qeren** <small>*(keh'-ren)*</small> ==**horn**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָרַן‎</span><sup><small>[[H7160]]</small></sup></small>
+**<big><span class="ashebrew">‎קֶרֶן‎</span></big>** **qeren** <small>*(keh'-ren)*</small> ==**horn**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7160|‎קָרַן‎]]</big>**</small>
 
 $\quad$ [idiom] hill, horn.
 - ***a horn*** (as projecting)
@@ -19,4 +19,4 @@ $\quad$ **1g)** hill
 n pr loc
 **2)** (BDB) a place conquered by Israel probably in Bashan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κέρας</span><sup><small>[[G2768]]</small></sup> · <span class="asgreek">κεφαλή</span><sup><small>[[G2776]]</small></sup> · <span class="asgreek">σάλπιγξ</span><sup><small>[[G4536]]</small></sup>
+<small>See Greek: </small>**<big>[[G2768|κέρας]]</big>** · **<big>[[G2776|κεφαλή]]</big>** · **<big>[[G4536|σάλπιγξ]]</big>**

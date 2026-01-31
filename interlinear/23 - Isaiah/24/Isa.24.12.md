@@ -6,14 +6,14 @@ The city is left in ruins; its gate is reduced to rubble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.11|<< Isaiah 24:11]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.13|Isaiah 24:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has remained  | <span class="ashebrew"><big>נִשְׁאַ֥ר </big></span><small><small><sup>[[H7604]]</sup></small></small> &#8207;| nish.'Ar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the city  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִ֖יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desolation  | <span class="ashebrew"><big>שַׁמָּ֑ה </big></span><small><small><sup>[[H8047G]]</sup></small></small> &#8207;| sha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and ruin  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁאִיָּ֖ה </big></span><small><small><sup>[[H7591]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.'i.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be crushed  | <span class="ashebrew"><big>יֻכַּת </big></span><small><small><sup>[[H3807]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yu.kat- <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gate  | <span class="ashebrew"><big>שָֽׁעַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has remained  |**<big>&#8207;[[H7604\|נִשְׁאַ֥ר]]&#8207; </big>**| nish.'Ar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the city  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5892B\|עִ֖יר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desolation  |**<big>&#8207;[[H8047G\|שַׁמָּ֑ה]]&#8207; </big>**| sha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and ruin  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7591\|שְׁאִיָּ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'i.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be crushed  |**<big>&#8207;[[H3807\|יֻכַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yu.kat-<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gate  |**<big>&#8207;[[H8179G\|שָֽׁעַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.11|<< Isaiah 24:11]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.13|Isaiah 24:13 >>]]</td></tr></table>
 
 

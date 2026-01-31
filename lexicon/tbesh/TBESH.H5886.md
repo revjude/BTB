@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עֵין תַּנִּים‎</span> <small>***(en tan.nim)***</small> ==**En-tannim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-combination of: <small>[[H8577B]] ([[H5869B]]+[[H8577B]])</small> 
+<small>combination of:</small> <small>**<big>[[H8577B|תַּנִּין]]</big>** (**<big>[[H5869B|עַיִן]]</big>**+**<big>[[H8577B|תַּנִּין]]</big>**)</small> 
 
 - En-tannim = "fountain of the jackal"

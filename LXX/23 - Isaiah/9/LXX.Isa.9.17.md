@@ -7,47 +7,47 @@ Therefore the Lord shall have no joy in their young men, neither shall have merc
 Therefore the Lord takes no pleasure in their young men; He has no compassion on their fatherless and widows. For every one of them is godless and wicked, and every mouth speaks folly. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
 [[Isa.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their young men | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be gladdened | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and \[upon\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their orphans | <big><span class="asgreek">ορφανούς</span></big> <sup><small><small>[[G3737]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their widows | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show mercy. | <big><span class="asgreek">ελεήσει</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[are\] lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wicked ones, | <big><span class="asgreek">πονηροί</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| speaks | <big><span class="asgreek">λαλεί</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| unjustly. | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] high. | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their young men | **<big>[[G3495\|νεανίσκους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be gladdened | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and \[upon\] | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their orphans | **<big>[[G3737\|ορφανούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their widows | **<big>[[G5503\|χήρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| show mercy. | **<big>[[G1653\|ελεήσει]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[are\] lawless ones | **<big>[[G0459\|άνομοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wicked ones, | **<big>[[G4190\|πονηροί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| speaks | **<big>[[G2980\|λαλεί]]</big>** |
+| unjustly. | **<big>[[G0094\|άδικα]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτοις]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away | **<big>[[G0654\|απεστράφη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] high. | **<big>[[G5308\|υψηλή]]</big>** |
 [[Isa.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
 
 

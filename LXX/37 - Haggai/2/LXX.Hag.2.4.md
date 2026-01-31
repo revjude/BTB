@@ -7,43 +7,43 @@ Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of
 But now be strong, O Zerubbabel, declares the LORD. Be strong, O Joshua son of Jehozadak, the high priest. And be strong, all you people of the land, declares the LORD. Work! For I am with you, declares the LORD of Hosts.<small><sub>**MT:**</sub></small>
 [[Hag.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.3|<< Haggai 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.5|Haggai 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| take strength, | <big><span class="asgreek">κατίσχυε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| O Zerubbabel, | <big><span class="asgreek">Ζοροβάβελ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take strength, | <big><span class="asgreek">κατίσχυε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| O Joshua, | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Josedech | <big><span class="asgreek">Ιωσεδέκ</span></big> <sup><small><small>[[H3087]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grow strong | <big><span class="asgreek">κατισχυέτω</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| act! | <big><span class="asgreek">ποιειτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">είμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| take strength, | **<big>[[G2729\|κατίσχυε]]</big>** |
+| O Zerubbabel, | **<big>[[G2216\|Ζοροβάβελ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| take strength, | **<big>[[G2729\|κατίσχυε]]</big>** |
+| O Joshua, | **<big>[[G2424\|Ιησού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Josedech | **<big>[[H3087\|Ιωσεδέκ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grow strong | **<big>[[G2729\|κατισχυέτω]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| act! | **<big>[[G4160\|ποιειτε]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| am | **<big>[[G1510\|είμι]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 [[Hag.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.3|<< Haggai 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.5|Haggai 2:5 >>]]</td></tr></table>
 
 

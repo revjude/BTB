@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּדַע‎</span></big> **pâdaʻ** <small>*(paw-dah')*</small> ==**to deliver**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּדַע‎</span></big>** **pâdaʻ** <small>*(paw-dah')*</small> ==**to deliver**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deliver.
@@ -7,4 +7,4 @@ $\quad$ deliver.
 **1)** (Qal) to deliver
 $\quad$ **1a)** meaning uncertain
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντέχομαι</span><sup><small>[[G0472]]</small></sup>
+<small>See Greek: </small>**<big>[[G0472|ἀντέχομαι]]</big>**

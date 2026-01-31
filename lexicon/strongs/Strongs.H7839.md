@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁחֲרוּת‎</span></big> **shachărûwth** <small>*(shakh-ar-ooth')*</small> ==**dark hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁחַר‎</span><sup><small>[[H7836]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁחֲרוּת‎</span></big>** **shachărûwth** <small>*(shakh-ar-ooth')*</small> ==**dark hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7836|‎שָׁחַר‎]]</big>**</small>
 
 $\quad$ youth.
 - ***a dawning***, i.e. (figuratively) ***juvenescence***

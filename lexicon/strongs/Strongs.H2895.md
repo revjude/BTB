@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טוֹב‎</span></big> **ṭôwb** <small>*(tobe)*</small> ==**be pleasing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טוֹב‎</span></big>** **ṭôwb** <small>*(tobe)*</small> ==**be pleasing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root,</small>
 
 $\quad$ be (do) better, cheer, be (do, seem) good, (make) goodly, [idiom] please, (be, do, go, play) well.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a4)** to be well with, be good for
 $\quad$ $\quad$ **1a5)** to be pleasing
 $\quad$ **1b)** (Hiphil) to do well, do good, act right, act rightly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρέσκω</span><sup><small>[[G0700]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">δοκέω</span><sup><small>[[G1380]]</small></sup> · <span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">καλῶς</span><sup><small>[[G2573]]</small></sup> · <span class="asgreek">συμφέρω</span><sup><small>[[G4851]]</small></sup>
+<small>See Greek: </small>**<big>[[G0700|ἀρέσκω]]</big>** · **<big>[[G1013|βούλημα]]</big>** · **<big>[[G1380|δοκέω]]</big>** · **<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G2573|καλῶς]]</big>** · **<big>[[G4851|συμφέρω]]</big>**

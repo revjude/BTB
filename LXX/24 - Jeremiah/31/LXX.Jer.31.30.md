@@ -7,23 +7,23 @@ But every one shall die for his own iniquity: every man that eateth the sour gra
 Instead, each will die for his own iniquity. If anyone eats the sour grapes, his own teeth will be set on edge.<small><sub>**MT:**</sub></small>
 [[Jer.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.29|<< Jeremiah 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.31|Jeremiah 31:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eating | <big><span class="asgreek">φαγόντος</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unripe grape, | <big><span class="asgreek">όμφακα</span></big> <sup><small><small>[[G8515]]</small></small></sup> |
-| shall have tooth-chills | <big><span class="asgreek">αιμωδιάσουσιν</span></big> <sup><small><small>[[G6163]]</small></small></sup> |
-| \[their\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| But | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| eating | **<big>[[G2068\|φαγόντος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| unripe grape, | **<big>[[G8515\|όμφακα]]</big>** |
+| shall have tooth-chills | **<big>[[G6163\|αιμωδιάσουσιν]]</big>** |
+| \[their\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| teeth | **<big>[[G3599\|οδόντες]]</big>** |
 [[Jer.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.29|<< Jeremiah 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.31|Jeremiah 31:31 >>]]</td></tr></table>
 
 

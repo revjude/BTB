@@ -7,33 +7,33 @@ And I said unto you, I [am] the LORD your God; fear not the gods of the Amorites
 And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”<small><sub>**MT:**</sub></small>
 [[Judg.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήσεσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites | <big><span class="asgreek">Αμορραίου</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικείτε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισηκούσατε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice. | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God; | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήσεσθε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Amorites | **<big>[[H0567\|Αμορραίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| dwell | **<big>[[G2730\|κατοικείτε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their land. | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| you hearkened not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1522\|εισηκούσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice. | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Judg.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
 

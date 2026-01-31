@@ -6,16 +6,16 @@ Do not say, “I will avenge this evil!” Wait on the LORD, and He will save yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.21|<< Proverbs 20:21]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.23|Proverbs 20:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you say  | <span class="ashebrew"><big>תֹּאמַ֥ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| to.Mar <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will repay  | <span class="ashebrew"><big>אֲשַׁלְּמָה </big></span><small><small><sup>[[H7999A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.sha.le.mah- <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָ֑ע </big></span><small><small><sup>[[H7451B]]</sup></small></small> &#8207;| Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wait  | <span class="ashebrew"><big>קַוֵּ֥ה </big></span><small><small><sup>[[H6960A]]</sup></small></small> &#8207;| ka.Veh <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for Yahweh  | <span class="ashebrew"><big>לַֽ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so may he deliver  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹ֣שַֽׁע </big></span><small><small><sup>[[H3467]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yo.sha' <small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> you  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you say  |**<big>&#8207;[[H0559\|תֹּאמַ֥ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will repay  |**<big>&#8207;[[H7999A\|אֲשַׁלְּמָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.sha.le.mah-<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451B\|רָ֑ע]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wait  |**<big>&#8207;[[H6960A\|קַוֵּ֥ה]]&#8207; </big>**| ka.Veh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Yahweh  |**<big>&#8207;[[H9005\|לַֽ֝]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so may he deliver  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3467\|יֹ֣שַֽׁע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yo.sha'<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.21|<< Proverbs 20:21]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.23|Proverbs 20:23 >>]]</td></tr></table>
 
 

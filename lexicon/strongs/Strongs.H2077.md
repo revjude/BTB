@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֶבַח‎</span></big> **zebach** <small>*(zeh'-bakh)*</small> ==**sacrifice**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זָבַח‎</span><sup><small>[[H2076]]</small></sup></small>
+**<big><span class="ashebrew">‎זֶבַח‎</span></big>** **zebach** <small>*(zeh'-bakh)*</small> ==**sacrifice**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2076|‎זָבַח‎]]</big>**</small>
 
 $\quad$ offer(-ing), sacrifice.
 - properly, ***a slaughter***, i.e. ***the flesh of an animal***

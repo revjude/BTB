@@ -7,42 +7,42 @@ And ye came near unto me every one of you, and said, We will send men before us,
 Then all of you approached me and said, “Let us send men ahead of us to search out the land and bring us word of what route to follow and which cities to enter.”<small><sub>**MT:**</sub></small>
 [[Deut.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forward | <big><span class="asgreek">προσήλθατέ</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">υμεις</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You should send | <big><span class="asgreek">αποστείλωμεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in front | <big><span class="asgreek">προτέρους</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| of us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them explore | <big><span class="asgreek">εφοδευσάτωσαν</span></big> <sup><small><small>[[G7583]]</small></small></sup> |
-| for us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them announce | <big><span class="asgreek">αναγγειλάτωσαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an answer | <big><span class="asgreek">απόκρισιν</span></big> <sup><small><small>[[G0612]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we shall ascend | <big><span class="asgreek">αναβησόμεθα</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we shall enter | <big><span class="asgreek">εισπορευσόμεθα</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forward | **<big>[[G4334\|προσήλθατέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| you all | **<big>[[G3956\|πάντες]]</big>** **<big>[[G1473\|υμεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπατε]]</big>** |
+| You should send | **<big>[[G0649\|αποστείλωμεν]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| in front | **<big>[[G4387\|προτέρους]]</big>** |
+| of us, | **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them explore | **<big>[[G7583\|εφοδευσάτωσαν]]</big>** |
+| for us | **<big>[[G1473\|ημίν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them announce | **<big>[[G0312\|αναγγειλάτωσαν]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| an answer | **<big>[[G0612\|απόκρισιν]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| we shall ascend | **<big>[[G0305\|αναβησόμεθα]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it! | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| we shall enter | **<big>[[G1531\|εισπορευσόμεθα]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| them. | **<big>[[G1473\|αυτάς]]</big>** |
 [[Deut.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
 

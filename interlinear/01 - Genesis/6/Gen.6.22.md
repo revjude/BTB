@@ -6,17 +6,17 @@ So Noah did everything precisely as God had commanded him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.21|<< Genesis 6:21]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.1|Genesis 7:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he did  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֖עַשׂ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Noah  | <span class="ashebrew"><big>נֹ֑חַ </big></span><small><small><sup>[[H5146]]</sup></small></small> &#8207;| No.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to all  | <span class="ashebrew"><big>כְּ֠ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>כֹל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| Ke. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he commanded  | <span class="ashebrew"><big>צִוָּ֥ה </big></span><small><small><sup>[[H6680]]</sup></small></small> &#8207;| tzi.Vah <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֛ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  | <span class="ashebrew"><big>עָשָֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֖עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Noah  |**<big>&#8207;[[H5146\|נֹ֑חַ]]&#8207; </big>**| No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  |**<big>&#8207;[[H9004\|כְּ֠]]&#8207;&#8207;[[H3605\|כֹל]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֛]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.21|<< Genesis 6:21]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.1|Genesis 7:1 >>]]</td></tr></table>
 
 

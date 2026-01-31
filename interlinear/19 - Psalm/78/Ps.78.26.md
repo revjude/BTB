@@ -6,14 +6,14 @@ He stirred the east wind from the heavens and drove the south wind by His might.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.25|<< Psalms 78:25]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.27|Psalms 78:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he led out  | <span class="ashebrew"><big>יַסַּ֣ע </big></span><small><small><sup>[[H5265]]</sup></small></small> &#8207;| ya.Sa' <small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an east wind  | <span class="ashebrew"><big>קָ֭דִים </big></span><small><small><sup>[[H6921]]</sup></small></small> &#8207;| Ka.dim <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the heavens  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שָּׁמָ֑יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he led forth  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְנַהֵ֖ג </big></span><small><small><sup>[[H5090A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.na.Heg <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by strength his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֻזּ֣ </big></span><small><small><sup>[[H5797]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'u.Z <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a south wind  | <span class="ashebrew"><big>תֵימָֽן </big></span><small><small><sup>[[H8486]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tei.Man <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he led out  |**<big>&#8207;[[H5265\|יַסַּ֣ע]]&#8207; </big>**| ya.Sa'<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an east wind  |**<big>&#8207;[[H6921\|קָ֭דִים]]&#8207; </big>**| Ka.dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the heavens  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8064\|שָּׁמָ֑יִם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he led forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5090A\|יְנַהֵ֖ג]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.Heg<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by strength his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5797\|עֻזּ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'u.Z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a south wind  |**<big>&#8207;[[H8486\|תֵימָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tei.Man<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.25|<< Psalms 78:25]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.27|Psalms 78:27 >>]]</td></tr></table>
 
 

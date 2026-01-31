@@ -11,19 +11,19 @@ Be pleased, O LORD, to deliver me; hurry, O LORD, to help me.<small><sub>**MT:*
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Think well, | <big><span class="asgreek">ευδόκησον</span></big> <sup><small><small>[[G2106]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to rescue | <big><span class="asgreek">ρύσασθαί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| help | <big><span class="asgreek">βοηθήσαί</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| take heed | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| Think well, | **<big>[[G2106\|ευδόκησον]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to rescue | **<big>[[G4506\|ρύσασθαί]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| help | **<big>[[G0997\|βοηθήσαί]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| take heed | **<big>[[G4337\|πρόσχες]]</big>** |
 [[Ps.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.12|<< Psalm 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.14|Psalm 40:14 >>]]</td></tr></table>
 
 

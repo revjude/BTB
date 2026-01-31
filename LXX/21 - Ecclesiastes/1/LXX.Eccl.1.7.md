@@ -7,32 +7,32 @@ All the rivers run into the sea; yet the sea [is] not full; unto the place from 
 All the rivers flow into the sea, yet the sea is never full; to the place from which the streams come, there again they flow.<small><sub>**MT:**</sub></small>
 [[Eccl.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing streams | <big><span class="asgreek">χείμαρροι</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| filled up. | <big><span class="asgreek">εμπιπλαμένη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| To | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing streams | <big><span class="asgreek">χείμαρροι</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| went, | <big><span class="asgreek">πορεύονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall return | <big><span class="asgreek">επιστρέψουσι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go \[again\]. | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rushing streams | **<big>[[G5493\|χείμαρροι]]</big>** |
+| go | **<big>[[G4198\|πορεύονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| filled up. | **<big>[[G1705\|εμπιπλαμένη]]</big>** |
+| To | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rushing streams | **<big>[[G5493\|χείμαρροι]]</big>** |
+| went, | **<big>[[G4198\|πορεύονται]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall return | **<big>[[G1994\|επιστρέψουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go \[again\]. | **<big>[[G4198\|πορευθήναι]]</big>** |
 [[Eccl.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ Thou hast also given me the shield of thy salvation: and thy right hand hath hol
 You have given me Your shield of salvation; Your right hand upholds me, and Your gentleness exalts me.<small><sub>**MT:**</sub></small>
 [[Ps.18.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.34|<< Psalm 18:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.36|Psalm 18:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you gave | <big><span class="asgreek">έδωκάς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a shielding | <big><span class="asgreek">υπερασπισμόν</span></big> <sup><small><small>[[G9543]]</small></small></sup> |
-| deliverance; | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your right \[hand\] | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| takes hold of | <big><span class="asgreek">αντελάβετό</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| re-erects | <big><span class="asgreek">ανώρθωσέ</span></big> <sup><small><small>[[G0461]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end; | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| itself | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| teaches me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">διδάξει</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| you gave | **<big>[[G1325\|έδωκάς]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a shielding | **<big>[[G9543\|υπερασπισμόν]]</big>** |
+| deliverance; | **<big>[[G4991\|σωτηρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your right \[hand\] | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| takes hold of | **<big>[[G0482\|αντελάβετό]]</big>** |
+| me; | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your instruction | **<big>[[G3809\|παιδεία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| re-erects | **<big>[[G0461\|ανώρθωσέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end; | **<big>[[G5056\|τέλος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your instruction | **<big>[[G3809\|παιδεία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| itself | **<big>[[G1473\|αυτή]]</big>** |
+| teaches me. | **<big>[[G1473\|με]]</big>** **<big>[[G1321\|διδάξει]]</big>** |
 [[Ps.18.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.34|<< Psalm 18:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.36|Psalm 18:36 >>]]</td></tr></table>
 
 

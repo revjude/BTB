@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּלַט‎</span></big> **pâlaṭ** <small>*(paw-lat')*</small> ==**to escape**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּלַט‎</span></big>** **pâlaṭ** <small>*(paw-lat')*</small> ==**to escape**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ calve, carry away safe, deliver, (cause to) escape.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b3)** to be delivered
 $\quad$ $\quad$ **1b4)** to slip away
 $\quad$ **1c)** (Hiphil) to bring into security, bring to safety
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διασώζω</span><sup><small>[[G1295]]</small></sup> · <span class="asgreek">ἐκβάλλω</span><sup><small>[[G1544]]</small></sup> · <span class="asgreek">ἐξάγω</span><sup><small>[[G1806]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">λυτρόω</span><sup><small>[[G3084]]</small></sup> · <span class="asgreek">ῥύομαι</span><sup><small>[[G4506]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup>
+<small>See Greek: </small>**<big>[[G1295|διασώζω]]</big>** · **<big>[[G1544|ἐκβάλλω]]</big>** · **<big>[[G1806|ἐξάγω]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G3084|λυτρόω]]</big>** · **<big>[[G4506|ῥύομαι]]</big>** · **<big>[[G4982|σώζω]]</big>**

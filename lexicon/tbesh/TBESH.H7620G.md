@@ -1,5 +1,3 @@
-<span class="ashebrew">‎שָׁבוּעַ‎</span> <small>***(sha.vu.a)***</small> ==**Weeks**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-
 - Feast of Weeks,
-- Also named: <i>pentēkostē</i> (<span class='asgreek'>πεντηκοστή</span> "Pentecost" [[G4005]])
+- Also named: <i>pentēkostē</i> (<span class='asgreek'>πεντηκοστή</span> "Pentecost" **<big>[[G4005|πεντηκοστή]]</big>**)
 -  This name means  seven,

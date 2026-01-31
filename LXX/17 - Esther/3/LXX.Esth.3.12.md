@@ -7,52 +7,52 @@ Then were the king’s scribes called on the thirteenth day of the first month, 
 On the thirteenth day of the first month, the royal scribes were summoned and the order was written exactly as Haman commanded the royal satraps, the governors of each province, and the officials of each people, in the script of each province and the language of every people. It was written in the name of King Xerxes and sealed with the royal signet ring.<small><sub>**MT:**</sub></small>
 [[Esth.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.11|<< Esther 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.13|Esther 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were called | <big><span class="asgreek">εκλήθησαν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribes | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| by the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \[in the\] first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirteenth \[day\], | <big><span class="asgreek">τρισκαιδεκάτη</span></big> <sup><small><small>[[G9491]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they wrote | <big><span class="asgreek">έγραψαν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Haman gave orders | <big><span class="asgreek">επέταξεν</span></big> <sup><small><small>[[G2004]]</small></small></sup> <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commandants, | <big><span class="asgreek">στρατηγοίς</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχουσι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| India | <big><span class="asgreek">Ινδικής</span></big> <sup><small><small>[[H1912]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ethiopia, | <big><span class="asgreek">Αιθιοπίας</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| twenty-seven | <big><span class="asgreek">εικοσιεπτά</span></big> <sup><small><small>[[G7057]]</small></small></sup> |
-| places, | <big><span class="asgreek">χώραις</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-|  | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχουσι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| form of speech, | <big><span class="asgreek">λέξιν</span></big> <sup><small><small>[[G8178]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Artaxerxes | <big><span class="asgreek">Αρταξέρξου</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were called | **<big>[[G2564\|εκλήθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| scribes | **<big>[[G1122\|γραμματείς]]</big>** |
+| by the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \[in the\] first | **<big>[[G4413\|πρώτω]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| thirteenth \[day\], | **<big>[[G9491\|τρισκαιδεκάτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they wrote | **<big>[[G1125\|έγραψαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Haman gave orders | **<big>[[G2004\|επέταξεν]]</big>** **<big>[[H2001\|Αμάν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| commandants, | **<big>[[G4755\|στρατηγοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| rulers | **<big>[[G0758\|άρχουσι]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| place | **<big>[[G5561\|χώραν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| India | **<big>[[H1912\|Ινδικής]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Ethiopia, | **<big>[[G0128\|Αιθιοπίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| to a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| twenty-seven | **<big>[[G7057\|εικοσιεπτά]]</big>** |
+| places, | **<big>[[G5561\|χώραις]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+|  | **<big>[[G5037\|τε]]</big>** |
+| rulers | **<big>[[G0758\|άρχουσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| form of speech, | **<big>[[G8178\|λέξιν]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| Artaxerxes | **<big>[[H0783b\|Αρταξέρξου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Esth.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.11|<< Esther 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.13|Esther 3:13 >>]]</td></tr></table>
 
 

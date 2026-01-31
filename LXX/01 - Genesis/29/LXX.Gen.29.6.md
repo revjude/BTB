@@ -7,23 +7,23 @@ And he said unto them, [Is] he well? And they said, [He is] well: and, behold, R
 “Is he well?” Jacob inquired. “Yes,” they answered, “and here comes his daughter Rachel with his sheep.”<small><sub>**MT:**</sub></small>
 [[Gen.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.5|<< Genesis 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.7|Genesis 29:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Is he in health? | <big><span class="asgreek">υγιαίνει</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
-| And | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| He is in health, | <big><span class="asgreek">υγιαίνει</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| comes | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| And he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Is he in health? | **<big>[[G5198\|υγιαίνει]]</big>** |
+| And | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| He is in health, | **<big>[[G5198\|υγιαίνει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his daughter | **<big>[[G2364\|θυγάτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| comes | **<big>[[G2064\|ήρχετο]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sheep. | **<big>[[G4263\|προβάτων]]</big>** |
 [[Gen.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.5|<< Genesis 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.7|Genesis 29:7 >>]]</td></tr></table>
 
 

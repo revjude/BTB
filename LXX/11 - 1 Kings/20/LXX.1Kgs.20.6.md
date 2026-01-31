@@ -7,41 +7,41 @@ Yet I will send my servants unto thee to morrow about this time, and they shall 
 But about this time tomorrow I will send my servants to search your palace and the houses of your servants. They will seize and carry away all that is precious to you.’”<small><sub>**MT:**</sub></small>
 [[1Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.5|<< 1 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.7|1 Kings 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hour | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| I will send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servants | <big><span class="asgreek">παίδάς</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will search | <big><span class="asgreek">ερευνήσουσι</span></big> <sup><small><small>[[G2045]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants. | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[that\] all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desires | <big><span class="asgreek">επιθυμήματα</span></big> <sup><small><small>[[G7410]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their eyes, | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they should put upon with | <big><span class="asgreek">επιβάλωσι</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall take. | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hour | **<big>[[G5610\|ώραν]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| I will send | **<big>[[G0649\|αποστελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my servants | **<big>[[G3816\|παίδάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will search | **<big>[[G2045\|ερευνήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your house, | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| houses | **<big>[[G3624\|οίκους]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants. | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| \[that\] all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| desires | **<big>[[G7410\|επιθυμήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their eyes, | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of | **<big>[[G1909\|εφ΄]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| they should put upon with | **<big>[[G1911\|επιβάλωσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands, | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall take. | **<big>[[G2983\|λήψονται]]</big>** |
 [[1Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.5|<< 1 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.7|1 Kings 20:7 >>]]</td></tr></table>
 
 

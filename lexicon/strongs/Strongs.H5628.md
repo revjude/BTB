@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָרַח‎</span></big> **çârach** <small>*(saw-rakh')*</small> ==**to overrun**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָרַח‎</span></big>** **çârach** <small>*(saw-rakh')*</small> ==**to overrun**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ exceeding, hand, spread, stretch self, banish.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ $\quad$ **1a1a)** overrunning, spreading (participle)
 $\quad$ $\quad$ **1a2)** to overhang
 $\quad$ **1b)** (Niphal) to be let loose or dismissed or gone
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπικαλύπτω</span><sup><small>[[G1943]]</small></sup>
+<small>See Greek: </small>**<big>[[G1943|ἐπικαλύπτω]]</big>**

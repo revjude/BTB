@@ -7,32 +7,32 @@ And all his fugitives with all his bands shall fall by the sword, and they that 
 All his choice troops will fall by the sword, and those who survive will be scattered to every wind. Then you will know that I, the LORD, have spoken.’<small><sub>**MT:**</sub></small>
 [[Ezek.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.20|<< Ezekiel 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.22|Ezekiel 17:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his exiles, | <big><span class="asgreek">φυγάσιν</span></big> <sup><small><small>[[G9675]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| battle array | <big><span class="asgreek">παραταξει</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| of his, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| they shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remaining | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| I shall scatter | <big><span class="asgreek">διασπερώ</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall realize | <big><span class="asgreek">επιγνώσεσθε</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| that | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| have spoken. | <big><span class="asgreek">λελάληκα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his exiles, | **<big>[[G9675\|φυγάσιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| battle array | **<big>[[G8640\|παραταξει]]</big>** |
+| of his, | **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| they shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| remaining | **<big>[[G2645\|καταλοίπους]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| wind | **<big>[[G0417\|άνεμον]]</big>** |
+| I shall scatter | **<big>[[G1289\|διασπερώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall realize | **<big>[[G1921\|επιγνώσεσθε]]</big>** |
+| that | **<big>[[G1360\|διότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| have spoken. | **<big>[[G2980\|λελάληκα]]</big>** |
 [[Ezek.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.20|<< Ezekiel 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.22|Ezekiel 17:22 >>]]</td></tr></table>
 
 

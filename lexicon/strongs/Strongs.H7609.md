@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁאֱרָה‎</span></big> **Sheʼĕrâh** <small>*(sheh-er-aw')*</small> ==**Sheerah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שַׁאֲרָה‎</span><sup><small>[[H7608]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁאֱרָה‎</span></big>** **Sheʼĕrâh** <small>*(sheh-er-aw')*</small> ==**Sheerah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H7608|‎שַׁאֲרָה‎]]</big>**</small>
 
 $\quad$ Sherah.
 - § Sherah = *"kinswoman"*

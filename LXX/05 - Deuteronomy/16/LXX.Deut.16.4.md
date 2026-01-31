@@ -7,35 +7,35 @@ And there shall be no leavened bread seen with thee in all thy coast seven days;
 No leaven is to be found in all your land for seven days, and none of the meat you sacrifice in the evening of the first day shall remain until morning.<small><sub>**MT:**</sub></small>
 [[Deut.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be seen | <big><span class="asgreek">οφθήσεταί</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| by you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[any\] yeast | <big><span class="asgreek">ζύμη</span></big> <sup><small><small>[[G2219]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your boundaries | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go to bed | <big><span class="asgreek">κοιμηθήσεται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with any | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats, | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should have sacrificed | <big><span class="asgreek">θυσήτε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| in the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evening, | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| \[left over\] the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτη</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the morning. | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| There shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be seen | **<big>[[G3708\|οφθήσεταί]]</big>** |
+| by you | **<big>[[G1473\|σοι]]</big>** |
+| \[any\] yeast | **<big>[[G2219\|ζύμη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your boundaries | **<big>[[G3725\|ορίοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for seven | **<big>[[G2033\|επτά]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| go to bed | **<big>[[G2837\|κοιμηθήσεται]]</big>** |
+| with any | **<big>[[G0575\|από]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| meats, | **<big>[[G2907\|κρεών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should have sacrificed | **<big>[[G2380\|θυσήτε]]</big>** |
+| in the | **<big>[[G3588\|το]]</big>** |
+| evening, | **<big>[[G2073\|εσπέρας]]</big>** |
+| \[left over\] the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| first | **<big>[[G4413\|πρώτη]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the morning. | **<big>[[G4404\|τοπρωϊ]]</big>** |
 [[Deut.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 
 

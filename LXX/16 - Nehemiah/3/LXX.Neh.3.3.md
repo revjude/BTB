@@ -7,26 +7,26 @@ But the fish gate did the sons of Hassenaah build, who [also] laid the beams the
 The Fish Gate was rebuilt by the sons of Hassenaah. They laid its beams and installed its doors, bolts, and bars.<small><sub>**MT:**</sub></small>
 [[Neh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.2|<< Nehemiah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.4|Nehemiah 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fish | <big><span class="asgreek">ιχθυηράν</span></big> <sup><small><small>[[G7741]]</small></small></sup> |
-| constructed | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hassenaah | <big><span class="asgreek">Ασανά</span></big> <sup><small><small>[[H5570]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| roofed | <big><span class="asgreek">εστέγασαν</span></big> <sup><small><small>[[G9157]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they set | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| its doors, | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its bolts, | <big><span class="asgreek">κλείθρα</span></big> <sup><small><small>[[G8017]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its bars. | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate | **<big>[[G4439\|πύλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| fish | **<big>[[G7741\|ιχθυηράν]]</big>** |
+| constructed | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hassenaah | **<big>[[H5570\|Ασανά]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| roofed | **<big>[[G9157\|εστέγασαν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they set | **<big>[[G2476\|έστησαν]]</big>** |
+| its doors, | **<big>[[G2374\|θύρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| its bolts, | **<big>[[G8017\|κλείθρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| its bars. | **<big>[[G8352\|μοχλούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Neh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.2|<< Nehemiah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.4|Nehemiah 3:4 >>]]</td></tr></table>
 
 

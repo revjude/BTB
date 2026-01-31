@@ -7,27 +7,27 @@ Also against his three friends was his wrath kindled, because they had found no 
 and he burned with anger against Job’s three friends because they had failed to refute Job, and yet had condemned him.<small><sub>**MT:**</sub></small>
 [[Job.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.4|Job 32:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| friends | <big><span class="asgreek">φίλων</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| he was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to answer | <big><span class="asgreek">αποκριθήναι</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| contrary to | <big><span class="asgreek">αντίθετα</span></big> <sup><small><small>[[G6364]]</small></small></sup> |
-| Job; | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they established | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| an impious man. | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| friends | **<big>[[G5384\|φίλων]]</big>** |
+| he was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| for | **<big>[[G1360\|ότι]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδυνήθησαν]]</big>** |
+| to answer | **<big>[[G0611\|αποκριθήναι]]</big>** |
+| contrary to | **<big>[[G6364\|αντίθετα]]</big>** |
+| Job; | **<big>[[G2492\|Ιωβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they established | **<big>[[G5087\|έθεντο]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| an impious man. | **<big>[[G0765\|ασεβή]]</big>** |
 [[Job.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.4|Job 32:4 >>]]</td></tr></table>
 
 

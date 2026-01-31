@@ -7,46 +7,46 @@ Now the men did diligently observe whether [any thing would come] from him, and 
 Now the men were looking for a sign of hope, and they quickly grasped at this word and replied, “Yes, your brother Ben-hadad.” “Go and get him!” said the king. Then Ben-hadad came out, and Ahab had him come up into his chariot.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.32|<< 1 Kings 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.34|1 Kings 20:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| foretold | <big><span class="asgreek">οιωνίσαντο</span></big> <sup><small><small>[[G8469]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hastened | <big><span class="asgreek">έσπευσαν</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gathered up | <big><span class="asgreek">ανελέξαντο</span></big> <sup><small><small>[[G6291]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth, | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Your brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hadad. | <big><span class="asgreek">Άδερ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Enter, | <big><span class="asgreek">εισέλθετε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| receive | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hadad | <big><span class="asgreek">Άδερ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they transported | <big><span class="asgreek">αναβιβάζουσιν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρμα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| foretold | **<big>[[G8469\|οιωνίσαντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hastened | **<big>[[G4692\|έσπευσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gathered up | **<big>[[G6291\|ανελέξαντο]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his mouth, | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| Your brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Hadad. | **<big>[[H2301\|Άδερ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Enter, | **<big>[[G1525\|εισέλθετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| receive | **<big>[[G2983\|λάβετε]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Hadad | **<big>[[H2301\|Άδερ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they transported | **<big>[[G0307\|αναβιβάζουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| chariot | **<big>[[G0716\|άρμα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[1Kgs.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.32|<< 1 Kings 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.34|1 Kings 20:34 >>]]</td></tr></table>
 
 

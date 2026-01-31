@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָצַץ‎</span></big> **châtsats** <small>*(khaw-tsats')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חָצָה‎</span><sup><small>[[H2673]]</small></sup>); also as denominative from <span class="ashebrew">‎חֵץ‎</span><sup><small>[[H2671]]</small></sup></small>
+**<big><span class="ashebrew">‎חָצַץ‎</span></big>** **châtsats** <small>*(khaw-tsats')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2673|‎חָצָה‎]]</big>**); also as denominative from **<big>[[H2671|‎חֵץ‎]]</big>**</small>
 
 $\quad$ archer, [idiom] bands, cut off in the midst.
 - properly, ***to chop into***, ***pierce*** or ***sever***
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Pual) to be cut off, be finished
 **2)** to shoot arrows
 $\quad$ **2a)** (Piel) archer (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαιρέω</span><sup><small>[[G1244]]</small></sup>
+<small>See Greek: </small>**<big>[[G1244|διαιρέω]]</big>**

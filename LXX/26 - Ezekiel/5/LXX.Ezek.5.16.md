@@ -7,35 +7,35 @@ When I shall send upon them the evil arrows of famine, which shall be for [their
 When I shower you with the deadly arrows of famine and destruction that I will send to destroy you, I will intensify the famine against you and cut off your supply of food.<small><sub>**MT:**</sub></small>
 [[Ezek.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.15|<< Ezekiel 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.17|Ezekiel 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sending | <big><span class="asgreek">εξαποστείλαί</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arrows | <big><span class="asgreek">βολίδας</span></big> <sup><small><small>[[G1002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of famine | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| want, | <big><span class="asgreek">έκλειψιν</span></big> <sup><small><small>[[G7111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to ruin | <big><span class="asgreek">διαφθείραι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμόν</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| I shall gather | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| unto | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall break | <big><span class="asgreek">συντρίψω</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| \[the\] reliance | <big><span class="asgreek">στήριγμα</span></big> <sup><small><small>[[G9176]]</small></small></sup> |
-| of your bread. | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my sending | **<big>[[G1821\|εξαποστείλαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| arrows | **<big>[[G1002\|βολίδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of famine | **<big>[[G3042\|λιμού]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| want, | **<big>[[G7111\|έκλειψιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall send | **<big>[[G0649\|αποστελώ]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| to ruin | **<big>[[G1311\|διαφθείραι]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| famine | **<big>[[G3042\|λιμόν]]</big>** |
+| I shall gather | **<big>[[G4863\|συνάξω]]</big>** |
+| unto | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall break | **<big>[[G4937\|συντρίψω]]</big>** |
+| \[the\] reliance | **<big>[[G9176\|στήριγμα]]</big>** |
+| of your bread. | **<big>[[G0740\|άρτου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.15|<< Ezekiel 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.17|Ezekiel 5:17 >>]]</td></tr></table>
 
 

@@ -4,10 +4,10 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Joktan</span>, a descendant of Shem through Eber, was the ancestor of several Arabian tribes \([[Gen.10.25|Gen.10.25]],26,29; [[1Chr.1.19|1Ch.1.19]],20,23\).
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.25|Gen.10.25]]; 
-- only referred to as Joktan<[[H3355]]> \(<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ט</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Eber<[[H5677G]]>; 
-- a brother of Peleg<[[H6389]]>; 
--  father of Almodad<[[H0486]]>, Sheleph<[[H8026]]>, Hazarmaveth<[[H2700]]>, Jerah<[[H3392]]>, Hadoram<[[H1913A]]>, Uzal<[[H0187G]]>, Diklah<[[H1853]]>, Obal<[[H5745]]>, Abimael<[[H0039]]>, Sheba<[[H7614H]]>, Ophir<[[H0211G]]>, Havilah<[[H2341I]]> and Jobab<[[H3103G]]>.
+- only referred to as Joktan **<big>[[H3355|יׇקְטָן]]</big>**; 
+-  son of Eber **<big>[[H5677|עֵבֵר]]</big>**; 
+- a brother of Peleg **<big>[[H6389|פֶּלֶג]]</big>**; 
+-  father of Almodad **<big>[[H0486|אַלְמוֹדָד]]</big>**, Sheleph **<big>[[H8026|שֶׁלֶף]]</big>**, Hazarmaveth **<big>[[H2700|חֲצַרְמָוֶת]]</big>**, Jerah **<big>[[H3392|יֶרַח]]</big>**, Hadoram **<big>[[H1913|הֲדוֹרָם]]</big>**, Uzal **<big>[[H0187|אוּזָל]]</big>**, Diklah **<big>[[H1853|דִּקְלָה]]</big>**, Obal **<big>[[H5745|עוֹבָל]]</big>**, Abimael **<big>[[H0039|אֲבִימָאֵל]]</big>**, Sheba **<big>[[H7614|שְׁבָא]]</big>**, Ophir **<big>[[H0211|אוֹפִיר]]</big>**, Havilah **<big>[[H2341|חֲוִילָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Joktan is mentioned in the genealogies of Genesis 10 and 1 Chronicles 1 as a descendant of Shem, the son of Noah. He was the son of Eber and the brother of Peleg \([[Gen.10.25|Gen.10.25]]; [[1Chr.1.19|1Ch.1.19]]\). The biblical record states that in the days of Peleg, the earth was divided, possibly referring to the division of languages and nations at the Tower of Babel \([[Gen.10.25|Gen.10.25]]\). 
 
@@ -19,8 +19,8 @@ Although no further details are provided about Joktan's life or his relationship
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joktan | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ט</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3355) <small>*Hebrew*</small> | 6x | [[Gen.10.25] ... [1Ch.1.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joktan\*\|reference=Gen.10.25;Gen.10.26;Gen.10.29;1Ch.1.19;1Ch.1.20;1Ch.1.23) |
-All Strong's for **Joktan**: \[[[H3355]]\]
+| Joktan | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ט</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3355) | 6x | [[Gen.10.25] ... [1Ch.1.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joktan\*\|reference=Gen.10.25;Gen.10.26;Gen.10.29;1Ch.1.19;1Ch.1.20;1Ch.1.23) |
+All entries for **Joktan**:  **<big>[[H3355|יׇקְטָן]]</big>**
 #### Related Profiles:
 - **[Eber](H5677G)** (father)
 - **[Peleg](H6389)** (sibling)

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ammah</span>, a hill near Giah on the way to the wilderness of Gibeon.
 - A location only mentioned at [[2Sam.2.24|2Sa.2.24]]; 
-- only referred to as Ammah<[[H0522]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Ammah **<big>[[H0522|אַמָּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.869005,35.343177&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from this single mention in the narrative of the conflict between David's 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ammah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0522) <small>*Hebrew*</small> | 1x | [2Sa.2.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ammah\*\|reference=2Sa.2.24) |
-All Strong's for **Ammah**: \[[[H0522]]\]
+| Ammah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0522) | 1x | [2Sa.2.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ammah\*\|reference=2Sa.2.24) |
+All entries for **Ammah**:  **<big>[[H0522|אַמָּה]]</big>**

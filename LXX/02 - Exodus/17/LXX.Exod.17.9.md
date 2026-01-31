@@ -7,40 +7,40 @@ And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to
 So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.”<small><sub>**MT:**</sub></small>
 [[Exod.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.8|<< Exodus 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.10|Exodus 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Joshua, | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| Choose | <big><span class="asgreek">επίλεξον</span></big> <sup><small><small>[[G1951]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εξελθών</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| deploy against | <big><span class="asgreek">παράταξαι</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amalek | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| tomorrow! | <big><span class="asgreek">άυριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall\] stand | <big><span class="asgreek">έστηκα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill, | <big><span class="asgreek">βουνού</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand. | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Joshua, | **<big>[[G2424\|Ιησού]]</big>** |
+| Choose | **<big>[[G1951\|επίλεξον]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| going forth | **<big>[[G1831\|εξελθών]]</big>** |
+| deploy against | **<big>[[G8641\|παράταξαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Amalek | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| tomorrow! | **<big>[[G0839\|άυριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[shall\] stand | **<big>[[G2476\|έστηκα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| top | **<big>[[G8073\|κορυφής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hill, | **<big>[[G1015\|βουνού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rod | **<big>[[G4464\|ράβδος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand. | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Exod.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.8|<< Exodus 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.10|Exodus 17:10 >>]]</td></tr></table>
 
 

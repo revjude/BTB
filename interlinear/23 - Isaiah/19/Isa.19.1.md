@@ -10,26 +10,26 @@ This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is
 > $\quad$ referenced by: [[Rev.14.14|Rev 14:14]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] oracle of  | <span class="ashebrew"><big>מַשָּׂ֖א </big></span><small><small><sup>[[H4853B]]</sup></small></small> &#8207;| ma.Sa' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֨ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] riding  | <span class="ashebrew"><big>רֹכֵ֨ב </big></span><small><small><sup>[[H7392]]</sup></small></small> &#8207;| ro.Khev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cloud  | <span class="ashebrew"><big>עָ֥ב </big></span><small><small><sup>[[H5645]]</sup></small></small> &#8207;| 'av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| swift  | <span class="ashebrew"><big>קַל֙ </big></span><small><small><sup>[[H7031]]</sup></small></small> &#8207;| kal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] coming  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בָ֣א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> Va' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will tremble  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָע֞וּ </big></span><small><small><sup>[[H5128]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] idols of  | <span class="ashebrew"><big>אֱלִילֵ֤י </big></span><small><small><sup>[[H0457]]</sup></small></small> &#8207;| 'e.li.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֙יִם֙ </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before him  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פָּנָ֔י </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pa.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] heart of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְבַ֥ב </big></span><small><small><sup>[[H3824]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le.Vav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֖יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will melt  | <span class="ashebrew"><big>יִמַּ֥ס </big></span><small><small><sup>[[H4549]]</sup></small></small> &#8207;| yi.Mas <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> within it  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבּֽ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.B <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] riding  |**<big>&#8207;[[H7392\|רֹכֵ֨ב]]&#8207; </big>**| ro.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cloud  |**<big>&#8207;[[H5645\|עָ֥ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| swift  |**<big>&#8207;[[H7031\|קַל֙]]&#8207; </big>**| kal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] coming  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will tremble  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5128\|נָע֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] idols of  |**<big>&#8207;[[H0457\|אֱלִילֵ֤י]]&#8207; </big>**| 'e.li.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before him  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440H\|פָּנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] heart of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3824\|לְבַ֥ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Vav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֖יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will melt  |**<big>&#8207;[[H4549\|יִמַּ֥ס]]&#8207; </big>**| yi.Mas<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> within it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
 
 

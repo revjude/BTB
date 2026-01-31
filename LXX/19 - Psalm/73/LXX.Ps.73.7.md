@@ -7,18 +7,18 @@ Their eyes stand out with fatness: they have more than heart could wish.
 From their prosperity proceeds iniquity; the imaginations of their hearts run wild.<small><sub>**MT:**</sub></small>
 [[Ps.73.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.6|<< Psalm 73:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.8|Psalm 73:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| comes forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| fatness | <big><span class="asgreek">στέατος</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their injustice | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They went | <big><span class="asgreek">διήλθοσαν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| disposition | <big><span class="asgreek">διάθεσιν</span></big> <sup><small><small>[[G6827]]</small></small></sup> |
-| of heart. | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| comes forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| fatness | **<big>[[G9155\|στέατος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Their injustice | **<big>[[G0093\|αδικία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| They went | **<big>[[G1330\|διήλθοσαν]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| disposition | **<big>[[G6827\|διάθεσιν]]</big>** |
+| of heart. | **<big>[[G2588\|καρδίας]]</big>** |
 [[Ps.73.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.6|<< Psalm 73:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.8|Psalm 73:8 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎גִּלְעָד‎</span> <small>***(gil.ad)***</small> ==**(Mount) Gilead**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-spelling of: <small>[[H1533H]]</small> 
+<small>spelling of:</small> <small>**<big>[[H1533H|גִּלְבֹּעַ]]</big>**</small> 
 
 - Gilead = "rocky region"

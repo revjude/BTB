@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Betonim</span> was a town allotted to the tribe of Gad in the region of Gilead.
 - A location only mentioned at [[Josh.13.26|Jos.13.26]]; 
-- only referred to as Betonim<[[H0993]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ט</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Betonim **<big>[[H0993|בְּטֹנִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.010500,35.706297&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Betonim was a town located in the region of Gilead, east of the Jordan River. It
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Betonim | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ט</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0993) <small>*Hebrew*</small> | 1x | [Jos.13.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Betonim\*\|reference=Jos.13.26) |
-All Strong's for **Betonim**: \[[[H0993]]\]
+| Betonim | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ט</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0993) | 1x | [Jos.13.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Betonim\*\|reference=Jos.13.26) |
+All entries for **Betonim**:  **<big>[[H0993|בְּטֹנִים]]</big>**

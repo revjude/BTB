@@ -11,27 +11,27 @@ But I have raised you up for this very purpose, that I might display My power to
 > $\quad$ referenced by: [[Rom.9.17|Rom 9:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you were carefully kept, | <big><span class="asgreek">διετηρήθης</span></big> <sup><small><small>[[G1301]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I might demonstrate | <big><span class="asgreek">ενδείξωμαι</span></big> <sup><small><small>[[G1731]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my strength, | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should be declared | <big><span class="asgreek">διαγγελή</span></big> <sup><small><small>[[G1229]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| you were carefully kept, | **<big>[[G1301\|διετηρήθης]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I might demonstrate | **<big>[[G1731\|ενδείξωμαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my strength, | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G3704\|όπως]]</big>** |
+| should be declared | **<big>[[G1229\|διαγγελή]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth. | **<big>[[G1093\|γη]]</big>** |
 [[Exod.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.15|<< Exodus 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.17|Exodus 9:17 >>]]</td></tr></table>
 
 

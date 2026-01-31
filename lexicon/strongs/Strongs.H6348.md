@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּחַז‎</span></big> **pâchaz** <small>*(paw-khaz')*</small> ==**be reckless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּחַז‎</span></big>** **pâchaz** <small>*(paw-khaz')*</small> ==**be reckless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ light.
@@ -6,4 +6,4 @@ $\quad$ light.
 
 **1)** (Qal) to be wanton, be reckless, be frothy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θαμβέω</span><sup><small>[[G2284]]</small></sup>
+<small>See Greek: </small>**<big>[[G2284|θαμβέω]]</big>**

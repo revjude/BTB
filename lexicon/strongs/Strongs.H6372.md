@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּינְחָס‎</span></big> **Pîynᵉchâç** <small>*(pee-nekh-aws')*</small> ==**Phinehas**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎פֶּה‎</span><sup><small>[[H6310]]</small></sup> and a variation of <span class="ashebrew">‎נָחָשׁ‎</span><sup><small>[[H5175]]</small></sup>; mouth of a serpent</small>
+**<big><span class="ashebrew">‎פִּינְחָס‎</span></big>** **Pîynᵉchâç** <small>*(pee-nekh-aws')*</small> ==**Phinehas**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H6310|‎פֶּה‎]]</big>** and a variation of **<big>[[H5175|‎נָחָשׁ‎]]</big>**; mouth of a serpent</small>
 
 $\quad$ Phinehas.
 - § Phinehas = *"mouth of brass"*

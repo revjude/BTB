@@ -1,3 +1,1 @@
-<span class="asaramaic">‎סוּף‎</span> <small>***(suph)***</small> ==**be fulfilled**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H5486]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H5486|סוּף]]</big>**</small>

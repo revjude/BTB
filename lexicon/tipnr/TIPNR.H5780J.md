@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Uz</span>, a region mentioned in the Bible as the homeland of Job, possibly located in Edom or Arabia \([[Job.1.1|Job 1:1]]; Jer. 25:20; Lam. 4:21\).
 - A location in Edom first mentioned at [[Job.1.1|Job.1.1]]; 
-- only referred to as Uz<[[H5780J]]> \(<span class='tipnrLangHebrew'>עו</span>ּ<span class='tipnrLangHebrew'>ץ</span>\).
+- only referred to as Uz **<big>[[H5780|עוּץ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.0334,36.44839&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Uz is a region mentioned in the Bible, most prominently as the homeland of Job, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Uz | [<span class='tipnrLangHebrew'>עו</span>ּ<span class='tipnrLangHebrew'>ץ</span>](H5780J) <small>*Hebrew*</small> | 3x | [[Job.1.1] ... [Lam.4.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uz\*\|reference=Job.1.1;Jer.25.20;Lam.4.21) |
-All Strong's for **Uz**: \[[[H5780J]]\]
+| Uz | [<span class='tipnrLangHebrew'>עו</span>ּ<span class='tipnrLangHebrew'>ץ</span>](H5780J) | 3x | [[Job.1.1] ... [Lam.4.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uz\*\|reference=Job.1.1;Jer.25.20;Lam.4.21) |
+All entries for **Uz**:  **<big>[[H5780|עוּץ]]</big>**

@@ -7,34 +7,34 @@ For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink
 For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’”<small><sub>**MT:**</sub></small>
 [[1Kgs.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.16|<< 1 Kings 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.18|1 Kings 13:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| it has been given charge | <big><span class="asgreek">εντέταλταί</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγης</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not drink | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">πίης</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not return | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">επιστρέψης</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you went | <big><span class="asgreek">επορεύθης</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| it has been given charge | **<big>[[G1781\|εντέταλταί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγω]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3361\|μη]]</big>** |
+| eat | **<big>[[G2068\|φάγης]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not drink | **<big>[[G3361\|μη]]</big>** **<big>[[G4095\|πίης]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not return | **<big>[[G3361\|μη]]</big>** **<big>[[G1994\|επιστρέψης]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| you went | **<big>[[G4198\|επορεύθης]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[1Kgs.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.16|<< 1 Kings 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.18|1 Kings 13:18 >>]]</td></tr></table>
 
 

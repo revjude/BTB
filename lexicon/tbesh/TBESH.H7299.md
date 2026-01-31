@@ -1,4 +1,3 @@
-<span class="asaramaic">‎רֵו‎</span> <small>***(rev)***</small> ==**appearance**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7212]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7212|רְאִית]]</big>**</small> 
 
-- Aramaic of <i>re.ut</i> (<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎או‎</span>ּ<span class='ashebrew'>‎ת‎</span> "sight" [[H7212]])
+- Aramaic of <i>re.ut</i> (<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎או‎</span>ּ<span class='ashebrew'>‎ת‎</span> "sight" **<big>[[H7212|רְאִית]]</big>**)

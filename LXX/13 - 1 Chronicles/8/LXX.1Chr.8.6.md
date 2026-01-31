@@ -7,23 +7,23 @@ And these [are] the sons of Ehud: these are the heads of the fathers of the inha
 These were the descendants of Ehud who were the heads of the families living in Geba and were exiled to Manahath:<small><sub>**MT:**</sub></small>
 [[1Chr.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.5|<< 1 Chronicles 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.7|1 Chronicles 8:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ehud. | <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| These | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] families | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούσι</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Geba, | <big><span class="asgreek">Γαβαά</span></big> <sup><small><small>[[H1390]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they resettled | <big><span class="asgreek">απώκισαν</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Manahath. | <big><span class="asgreek">Μανουάθ</span></big> <sup><small><small>[[H4506b]]</small></small></sup> |
+| These \[are\] | **<big>[[G3778\|ούτοι]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ehud. | **<big>[[H0161\|Αώδ]]</big>** |
+| These | **<big>[[G3778\|ούτοι]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of \[the\] families | **<big>[[G3965\|πατριών]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούσι]]</big>** |
+| in Geba, | **<big>[[H1390\|Γαβαά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they resettled | **<big>[[G6442\|απώκισαν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Manahath. | **<big>[[H4506b\|Μανουάθ]]</big>** |
 [[1Chr.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.5|<< 1 Chronicles 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.7|1 Chronicles 8:7 >>]]</td></tr></table>
 
 

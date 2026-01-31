@@ -1,8 +1,8 @@
 <small>*Gittaim • Town where Beerothites fled; later inhabited by Benjamites.*</small>
 
 <span class='tipnrhighlight'>Gittaim</span> was a town where the Beerothites fled and was later inhabited by the Benjamites after the Babylonian exile.
-- A location near Hadid<[[H2307]]> first mentioned at [[2Sam.4.3|2Sa.4.3]]; 
-- only referred to as Gittaim<[[H1664]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ת</span>ָּ֑<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Hadid **<big>[[H2307|חָדִיד]]</big>** first mentioned at [[2Sam.4.3|2Sa.4.3]]; 
+- only referred to as Gittaim **<big>[[H1664|גִּתַּיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.963575,34.952536&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Apart from these two brief references, no other information about Gittaim is pro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gittaim | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ת</span>ָּ֑<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H1664) <small>*Hebrew*</small> | 2x | [[2Sa.4.3] & [Neh.11.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gittaim\*\|reference=2Sa.4.3;Neh.11.33) |
-All Strong's for **Gittaim**: \[[[H1664]]\]
+| Gittaim | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ת</span>ָּ֑<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H1664) | 2x | [[2Sa.4.3] & [Neh.11.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gittaim\*\|reference=2Sa.4.3;Neh.11.33) |
+All entries for **Gittaim**:  **<big>[[H1664|גִּתַּיִם]]</big>**

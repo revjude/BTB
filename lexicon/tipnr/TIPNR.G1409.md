@@ -4,8 +4,8 @@ Woman living at the time of the New Testament
 
 <span class='tipnrhighlight'>Drusilla</span>, the Jewish wife of Felix, the Roman governor, was present when Paul spoke to Felix about faith in Christ. \([[1Sam.22.22|Act.24.24]]\)
 - A woman living at the time of the New Testament, only mentioned at [[1Sam.22.22|Act.24.24]]; 
-- only referred to as Drusilla<[[G1409]]> \(<span class='tipnrLangGreek'>Δρούσιλλα</span>\); 
-- wife of Felix<[[G5344]]>.
+- only referred to as Drusilla **<big>[[G1409|Δρούσιλλα]]</big>**; 
+- wife of Felix **<big>[[G5344|Φῆλιξ]]</big>**.
 
 Drusilla is mentioned in Acts 24:24 as the wife of Felix, the Roman governor of Judea. She was present when Felix summoned Paul to hear him speak about his faith in Christ. 
 
@@ -17,7 +17,7 @@ When Paul spoke to Felix and Drusilla about righteousness, self-control, and the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Drusilla | [<span class='tipnrLangGreek'>Δρούσιλλα</span>](G1409) <small>*Greek*</small> | 1x | [Act.24.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Drusilla\*\|reference=Act.24.24) |
-All Strong's for **Drusilla**: \[[[G1409]]\]
+| Drusilla | [<span class='tipnrLangGreek'>Δρούσιλλα</span>](G1409) | 1x | [Act.24.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Drusilla\*\|reference=Act.24.24) |
+All entries for **Drusilla**:  **<big>[[G1409|Δρούσιλλα]]</big>**
 #### Related Profiles:
 - **[Felix](G5344)** (spouse)

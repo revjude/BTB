@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לַפִּידוֹת‎</span></big> **Lappîydôwth** <small>*(lap-pee-doth')*</small> ==**Lappidoth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine plural of <span class="ashebrew">‎לַפִּיד‎</span><sup><small>[[H3940]]</small></sup></small>
+**<big><span class="ashebrew">‎לַפִּידוֹת‎</span></big>** **Lappîydôwth** <small>*(lap-pee-doth')*</small> ==**Lappidoth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine plural of **<big>[[H3940|‎לַפִּיד‎]]</big>**</small>
 
 $\quad$ Lappidoth.
 - § Lapidoth = *"torches"*

@@ -7,17 +7,17 @@ And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divide
 And Joshua cast lots for them in the presence of the LORD at Shiloh, where he distributed the land to the Israelites according to their divisions.<small><sub>**MT:**</sub></small>
 [[Josh.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.9|<< Joshua 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.11|Joshua 18:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cast | <big><span class="asgreek">ενέβαλεν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| a lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shiloh | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cast | **<big>[[G1685\|ενέβαλεν]]</big>** |
+| for them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| a lot | **<big>[[G2819\|κλήρον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shiloh | **<big>[[H7887\|Συλώ]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Josh.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.9|<< Joshua 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.11|Joshua 18:11 >>]]</td></tr></table>
 
 

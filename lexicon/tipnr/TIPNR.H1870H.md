@@ -1,8 +1,8 @@
 <small>*Way of Holiness • A prophesied highway for the redeemed in Isaiah*</small>
 
 The <span class='tipnrhighlight'>Way of Holiness</span>, a prophesied highway in Isaiah, reserved for the redeemed and leading to Zion \(Isa. 35:8\).
-- A location near Jerusalem<[[H3389]]> only mentioned at [[Isa.35.8|Isa.35.8]]; 
-- only referred to as Way\_of\_Holiness<[[H1870H]]><[[H1870H]]> \(<span class='tipnrLangHebrew'>ק</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ <span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Isa.35.8|Isa.35.8]]; 
+- only referred to as Way\_of\_Holiness **<big>[[H1870|דֶּרֶךְ]]</big>** **<big>[[H1870|דֶּרֶךְ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Way of Holiness is a prophetic concept mentioned in [[Isa.35.8|Isaiah 35:8]]
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Way/ of Holiness | [<span class='tipnrLangHebrew'>ק</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6944I)[<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H1870H) <small>*Hebrew*</small> | 1x | [Isa.35.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Way\*\|reference=Isa.35.8) |
-All Strong's for **Way_of_Holiness**: \[[[H6944I]]\] \[[[H1870H]]\]
+| Way/ of Holiness | [<span class='tipnrLangHebrew'>ק</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6944I)[<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H1870H) | 1x | [Isa.35.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Way\*\|reference=Isa.35.8) |
+All entries for **Way of Holiness**:  **<big>[[H6944|קֹדֶשׁ]]</big>** ☩  **<big>[[H1870|דֶּרֶךְ]]</big>**

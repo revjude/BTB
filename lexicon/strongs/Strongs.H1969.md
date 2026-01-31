@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הִין‎</span></big> **hîyn** <small>*(heen)*</small> ==**hin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎הִין‎</span></big>** **hîyn** <small>*(heen)*</small> ==**hin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably of Egyptian origin</small>
 
 $\quad$ hin.

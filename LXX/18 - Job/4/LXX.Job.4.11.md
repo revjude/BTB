@@ -7,19 +7,19 @@ The old lion perisheth for lack of prey, and the stout lion’s whelps are scatt
 The old lion perishes for lack of prey, and the cubs of the lioness are scattered.<small><sub>**MT:**</sub></small>
 [[Job.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.10|<< Job 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.12|Job 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] small lion | <big><span class="asgreek">μυρμηκολέων</span></big> <sup><small><small>[[G8364]]</small></small></sup> |
-| is destroyed | <big><span class="asgreek">ώλετο</span></big> <sup><small><small>[[G8491]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| having | <big><span class="asgreek">έχειν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| game; | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| and \[the\] cubs | <big><span class="asgreek">σκύμνοι</span></big> <sup><small><small>[[G9121]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of lions | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| forsook | <big><span class="asgreek">έλιπον</span></big> <sup><small><small>[[G3007]]</small></small></sup> |
-| one another. | <big><span class="asgreek">αλλήλους</span></big> <sup><small><small>[[G0240]]</small></small></sup> |
+| \[The\] small lion | **<big>[[G8364\|μυρμηκολέων]]</big>** |
+| is destroyed | **<big>[[G8491\|ώλετο]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| having | **<big>[[G2192\|έχειν]]</big>** |
+| game; | **<big>[[G2339\|θήραν]]</big>** |
+| and \[the\] cubs | **<big>[[G9121\|σκύμνοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of lions | **<big>[[G3023\|λεόντων]]</big>** |
+| forsook | **<big>[[G3007\|έλιπον]]</big>** |
+| one another. | **<big>[[G0240\|αλλήλους]]</big>** |
 [[Job.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.10|<< Job 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.12|Job 4:12 >>]]</td></tr></table>
 
 

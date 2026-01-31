@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲדָר‎</span></big> **ʼĂdâr** <small>*(ad-awr')*</small> ==**Adar**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
+**<big><span class="ashebrew">‎אֲדָר‎</span></big>** **ʼĂdâr** <small>*(ad-awr')*</small> ==**Adar**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
 <small>probably of foreign derivation; perhaps meaning fire</small>
 
 $\quad$ Adar.

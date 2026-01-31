@@ -7,44 +7,44 @@ And these [shall be] the measures thereof; the north side four thousand and five
 and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.<small><sub>**MT:**</sub></small>
 [[Ezek.48.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its measurements | <big><span class="asgreek">μέτρα</span></big> <sup><small><small>[[G3358]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the \[borders\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four thousand, | <big><span class="asgreek">τετρακισχίλιοι</span></big> <sup><small><small>[[G5070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the \[borders\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south, | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the \[borders\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the \[borders\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] west, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| four thousand | <big><span class="asgreek">τετρακισχιλίους</span></big> <sup><small><small>[[G5070]]</small></small></sup> |
-| five hundred. | <big><span class="asgreek">πεντακοσίους</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its measurements | **<big>[[G3358\|μέτρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the \[borders\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορράν]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four thousand, | **<big>[[G5070\|τετρακισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the \[borders\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south, | **<big>[[G3558\|νότον]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the \[borders\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the \[borders\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] west, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| four thousand | **<big>[[G5070\|τετρακισχιλίους]]</big>** |
+| five hundred. | **<big>[[G4001\|πεντακοσίους]]</big>** |
 [[Ezek.48.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
 

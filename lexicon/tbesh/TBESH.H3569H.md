@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כּוּשִׁי‎</span> <small>***(ku.shi)***</small> ==**Cushi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, only mentioned at [[Zeph.1.1|Zep.1.1]]
--  son of: Gedaliah ([[H1436H]])
--  father of: Zephaniah ([[H6846H]])
+-  son of: Gedaliah (**<big>[[H1436H|גְּדַּלְיָה]]</big>**)
+-  father of: Zephaniah (**<big>[[H6846H|צְפַנְיָה]]</big>**)

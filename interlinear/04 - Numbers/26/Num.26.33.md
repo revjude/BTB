@@ -6,26 +6,26 @@ Now Zelophehad son of Hepher had no sons but only daughters. The names of his da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.32|<< Numbers 26:32]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.34|Numbers 26:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Zelophehad  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צְלָפְחָ֣ד </big></span><small><small><sup>[[H6765]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> tze.la.fe.Chad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hepher  | <span class="ashebrew"><big>חֵ֗פֶר </big></span><small><small><sup>[[H2660A]]</sup></small></small> &#8207;| Che.fer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they belonged  | <span class="ashebrew"><big>הָ֥יוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| Ha.yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>ל֛ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons  | <span class="ashebrew"><big>בָּנִ֖ים </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588B]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| except  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| daughters  | <span class="ashebrew"><big>בָּנ֑וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| ba.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] name of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁם֙ </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zelophehad  | <span class="ashebrew"><big>צְלָפְחָ֔ד </big></span><small><small><sup>[[H6765]]</sup></small></small> &#8207;| tze.la.fe.Chad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Mahlah  | <span class="ashebrew"><big>מַחְלָ֣ה </big></span><small><small><sup>[[H4244G]]</sup></small></small> &#8207;| mach.Lah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Noah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֹעָ֔ה </big></span><small><small><sup>[[H5270]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> no.'Ah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hoglah  | <span class="ashebrew"><big>חָגְלָ֥ה </big></span><small><small><sup>[[H2295]]</sup></small></small> &#8207;| cha.ge.Lah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Milcah  | <span class="ashebrew"><big>מִלְכָּ֖ה </big></span><small><small><sup>[[H4435H]]</sup></small></small> &#8207;| mil.Kah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Tirzah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִרְצָֽה </big></span><small><small><sup>[[H8656G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tir.Tzah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zelophehad  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6765\|צְלָפְחָ֣ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.la.fe.Chad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hepher  |**<big>&#8207;[[H2660A\|חֵ֗פֶר]]&#8207; </big>**| Che.fer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they belonged  |**<big>&#8207;[[H1961\|הָ֥יוּ]]&#8207; </big>**| Ha.yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|ל֛]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  |**<big>&#8207;[[H1121A\|בָּנִ֖ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughters  |**<big>&#8207;[[H1323G\|בָּנ֑וֹת]]&#8207; </big>**| ba.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zelophehad  |**<big>&#8207;[[H6765\|צְלָפְחָ֔ד]]&#8207; </big>**| tze.la.fe.Chad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Mahlah  |**<big>&#8207;[[H4244G\|מַחְלָ֣ה]]&#8207; </big>**| mach.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Noah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5270\|נֹעָ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> no.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hoglah  |**<big>&#8207;[[H2295\|חָגְלָ֥ה]]&#8207; </big>**| cha.ge.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Milcah  |**<big>&#8207;[[H4435H\|מִלְכָּ֖ה]]&#8207; </big>**| mil.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tirzah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8656G\|תִרְצָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tir.Tzah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.32|<< Numbers 26:32]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.34|Numbers 26:34 >>]]</td></tr></table>
 
 

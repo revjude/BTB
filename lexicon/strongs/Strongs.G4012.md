@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎περί‎</span></big> **perí** <small>*(per-ee')*</small> ==**about**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
-<small>from the base of <span class="asgreek">πέραν</span><sup><small>[[G4008]]</small></sup></small>
+**<big><span class="asgreek">‎περί‎</span></big>** **perí** <small>*(per-ee')*</small> ==**about**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
+<small>from the base of **<big>[[G4008|‎πέραν‎]]</big>**</small>
 
 $\quad$ (there-)about, above, against, at, on behalf of, X and his company, which concern, (as) concerning, for, X how it will go with, ((there-, where-)) of, on, over, pertaining (to), for sake, X (e-)state, (as) touching, (where-)by (in), with.
 - properly, through (all over), i.e. around

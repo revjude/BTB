@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כָּנַשׁ‎</span></big> **kânash** <small>*(kaw-nash')*</small> ==**to gather**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כָּנַס‎</span><sup><small>[[H3664]]</small></sup></small>
+**<big><span class="asaramaic">‎כָּנַשׁ‎</span></big>** **kânash** <small>*(kaw-nash')*</small> ==**to gather**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3664|‎כָּנַס‎]]</big>**</small>
 
 $\quad$ gather together.
 - ***to assemble***

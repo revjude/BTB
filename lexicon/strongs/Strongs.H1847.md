@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דַּעַת‎</span></big> **daʻath** <small>*(dah'-ath)*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup></small>
+**<big><span class="ashebrew">‎דַּעַת‎</span></big>** **daʻath** <small>*(dah'-ath)*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>**</small>
 
 $\quad$ cunning, (ig-) norantly, know(-ledge), (un-) awares (wittingly).
 - ***knowledge***
@@ -8,4 +8,4 @@ $\quad$ cunning, (ig-) norantly, know(-ledge), (un-) awares (wittingly).
 $\quad$ **1a)** knowledge, perception, skill
 $\quad$ **1b)** discernment, understanding, wisdom
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴσθησις</span><sup><small>[[G0144]]</small></sup> · <span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">γνῶσις</span><sup><small>[[G1108]]</small></sup> · <span class="asgreek">ἔννοια</span><sup><small>[[G1771]]</small></sup> · <span class="asgreek">ἐπίγνωσις</span><sup><small>[[G1922]]</small></sup> · <span class="asgreek">νοῦς</span><sup><small>[[G3563]]</small></sup> · <span class="asgreek">παιδεία</span><sup><small>[[G3809]]</small></sup> · <span class="asgreek">σοφία</span><sup><small>[[G4678]]</small></sup> · <span class="asgreek">σύνεσις</span><sup><small>[[G4907]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup>
+<small>See Greek: </small>**<big>[[G0144|αἴσθησις]]</big>** · **<big>[[G1012|βουλή]]</big>** · **<big>[[G1013|βούλημα]]</big>** · **<big>[[G1108|γνῶσις]]</big>** · **<big>[[G1771|ἔννοια]]</big>** · **<big>[[G1922|ἐπίγνωσις]]</big>** · **<big>[[G3563|νοῦς]]</big>** · **<big>[[G3809|παιδεία]]</big>** · **<big>[[G4678|σοφία]]</big>** · **<big>[[G4907|σύνεσις]]</big>** · **<big>[[G5428|φρόνησις]]</big>**

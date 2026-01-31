@@ -9,28 +9,28 @@ The punishment of thine iniquity is accomplished, O daughter of Zion; he will no
 O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins.<small><sub>**MT:**</sub></small>
 [[Lam.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.21|<< Lamentations 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.1|Lamentations 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΘΑΥ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΘΑΥ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| is vanished | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| He shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resettling | <big><span class="asgreek">αποικίσαι</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He visited | <big><span class="asgreek">επεσκέψατο</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| your lawlessness, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Edom; | <big><span class="asgreek">Εδωμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| he revealed | <big><span class="asgreek">απεκάλυψεν</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your acts of impiety. | <big><span class="asgreek">ασεβήματά</span></big> <sup><small><small>[[G6567]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΘΑΥ <sup><small>[acrostic title]</small></sup> |  |
+| is vanished | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your lawlessness | **<big>[[G0458\|ανομία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O daughter | **<big>[[G2364\|θύγατερ]]</big>** |
+| of Zion. | **<big>[[G4622\|Σιών]]</big>** |
+| He shall not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσθήσει]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| resettling | **<big>[[G6442\|αποικίσαι]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| He visited | **<big>[[G1980\|επεσκέψατο]]</big>** |
+| your lawlessness, | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O daughter | **<big>[[G2364\|θύγατερ]]</big>** |
+| of Edom; | **<big>[[H0123\|Εδωμ]]</big>** |
+| he revealed | **<big>[[G0601\|απεκάλυψεν]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your acts of impiety. | **<big>[[G6567\|ασεβήματά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Lam.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.21|<< Lamentations 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.1|Lamentations 5:1 >>]]</td></tr></table>
 
 

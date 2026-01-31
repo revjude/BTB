@@ -1,4 +1,4 @@
-<small>Also see: [[H2356]] | [[H2715]] | [[H2735]]</small>
+<small>Also see: **<big>[[H2356|חוֹר]]</big>** | **<big>[[H2715|חֹר]]</big>** | **<big>[[H2735|חֹר הַגִּדְגָּד]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חֹר‎</span> ***noble***, <span class="bdbLangHebrew">‎חֹר‎</span>, <span class="bdbLangHebrew">‎חֻר‎</span> ***hole***, see below II. <span class="bdbLangHebrew">‎חרר‎</span>; <span class="bdbLangHebrew">‎חֹר‎</span> <span class="bdbLangHebrew">‎הַגִּדְגָּד‎</span> see below II. <span class="bdbLangHebrew">‎חור‎</span>. 
 

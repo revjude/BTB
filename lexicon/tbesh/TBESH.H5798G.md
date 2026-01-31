@@ -1,6 +1,5 @@
-<span class="ashebrew">‎עֻזָּא‎</span> <small>***(uz.za)***</small> ==**(Garden of) Uzza**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-part of: <small>[[H1588G]]</small> 
+<small>part of:</small> <small>**<big>[[H1588G|גַּן]]</big>**</small> 
 
 
-- Combined with <i>gan</i> (<span class='ashebrew'>‎ג‎</span>ַּ<span class='ashebrew'>‎ן‎</span> "garden" [[H1588]])
+- Combined with <i>gan</i> (<span class='ashebrew'>‎ג‎</span>ַּ<span class='ashebrew'>‎ן‎</span> "garden" **<big>[[H1588|גַּן]]</big>**)
 -  a Merarite Levite

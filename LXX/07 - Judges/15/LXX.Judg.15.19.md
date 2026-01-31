@@ -7,44 +7,44 @@ But God clave an hollow place that [was] in the jaw, and there came water thereo
 So God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned, and he was revived. That is why he named it En-hakkore, and it remains in Lehi to this day.<small><sub>**MT:**</sub></small>
 [[Judg.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.18|<< Judges 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.20|Judges 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God opened | <big><span class="asgreek">ήνοιξεν</span></big> <sup><small><small>[[G0455]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gash, | <big><span class="asgreek">τραύμα</span></big> <sup><small><small>[[G5134]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jaw, | <big><span class="asgreek">σιαγόνι</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| waters, | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he drank, | <big><span class="asgreek">έπιε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was restored | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he lived. | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is called | <big><span class="asgreek">εκλήθη</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Spring | <big><span class="asgreek">πηγή</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Calling Upon, | <big><span class="asgreek">επικαλουμένου</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jaw | <big><span class="asgreek">Σιαγόνι</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God opened | **<big>[[G0455\|ήνοιξεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gash, | **<big>[[G5134\|τραύμα]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Jaw, | **<big>[[G4600\|σιαγόνι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| waters, | **<big>[[G5204\|ύδατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he drank, | **<big>[[G4095\|έπιε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was restored | **<big>[[G1994\|επέστρεψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his spirit | **<big>[[G4151\|πνεύμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he lived. | **<big>[[G2198\|έζησε]]</big>** |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| is called | **<big>[[G2564\|εκλήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Spring | **<big>[[G4077\|πηγή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Calling Upon, | **<big>[[G1941\|επικαλουμένου]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jaw | **<big>[[G4600\|Σιαγόνι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[Judg.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.18|<< Judges 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.20|Judges 15:20 >>]]</td></tr></table>
 
 

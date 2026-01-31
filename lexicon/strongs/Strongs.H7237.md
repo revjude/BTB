@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַבָּה‎</span></big> **Rabbâh** <small>*(rab-baw')*</small> ==**Rabbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎רַב‎</span><sup><small>[[H7227]]</small></sup>; great</small>
+**<big><span class="ashebrew">‎רַבָּה‎</span></big>** **Rabbâh** <small>*(rab-baw')*</small> ==**Rabbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H7227|‎רַב‎]]</big>**; great</small>
 
 $\quad$ Rabbah, Rabbath.
 - § Rabbath = *"great"*

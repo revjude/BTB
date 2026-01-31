@@ -7,27 +7,27 @@ As much as you showed to me -- many afflictions and bad \[things\]; but turning,
 Though You have shown me many troubles and misfortunes, You will revive me once again. Even from the depths of the earth You will bring me back up.<small><sub>**MT:**</sub></small>
 [[Ps.71.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.19|<< Psalm 71:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.21|Psalm 71:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As much as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you showed | <big><span class="asgreek">έδειξάς</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to me -- | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| afflictions | <big><span class="asgreek">θλίψεις</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bad \[things\]; | <big><span class="asgreek">κακάς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turning, | <big><span class="asgreek">επιστρέψας</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| you restored life | <big><span class="asgreek">εζωοποίησάς</span></big> <sup><small><small>[[G2227]]</small></small></sup> |
-| to me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abysses | <big><span class="asgreek">αβύσσων</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you led | <big><span class="asgreek">ανήγαγές</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As much as | **<big>[[G3745\|όσας]]</big>** |
+| you showed | **<big>[[G1166\|έδειξάς]]</big>** |
+| to me -- | **<big>[[G1473\|μοι]]</big>** |
+| afflictions | **<big>[[G2347\|θλίψεις]]</big>** |
+| many | **<big>[[G4183\|πολλάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bad \[things\]; | **<big>[[G2556\|κακάς]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| turning, | **<big>[[G1994\|επιστρέψας]]</big>** |
+| you restored life | **<big>[[G2227\|εζωοποίησάς]]</big>** |
+| to me; | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| abysses | **<big>[[G0012\|αβύσσων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| you led | **<big>[[G0321\|ανήγαγές]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Ps.71.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.19|<< Psalm 71:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.21|Psalm 71:21 >>]]</td></tr></table>
 
 

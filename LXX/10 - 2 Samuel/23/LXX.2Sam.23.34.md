@@ -7,20 +7,20 @@ Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahith
 Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite,<small><sub>**MT:**</sub></small>
 [[2Sam.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.33|<< 2 Samuel 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.35|2 Samuel 23:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Eliphelet | <big><span class="asgreek">Ελιφαλάτ</span></big> <sup><small><small>[[H0467]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahasbai, | <big><span class="asgreek">Αχασβαϊ</span></big> <sup><small><small>[[H0308]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Maachathite. | <big><span class="asgreek">Μααχαθί</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| Eliam | <big><span class="asgreek">Ελιάμ</span></big> <sup><small><small>[[H0463]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahithophel | <big><span class="asgreek">Αχιτόφελ</span></big> <sup><small><small>[[H0302]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilonite. | <big><span class="asgreek">Γελωνίτου</span></big> <sup><small><small>[[H1526]]</small></small></sup> |
+| Eliphelet | **<big>[[H0467\|Ελιφαλάτ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of | **<big>[[G3588\|του]]</big>** |
+| Ahasbai, | **<big>[[H0308\|Αχασβαϊ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Maachathite. | **<big>[[H4601\|Μααχαθί]]</big>** |
+| Eliam | **<big>[[H0463\|Ελιάμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ahithophel | **<big>[[H0302\|Αχιτόφελ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Gilonite. | **<big>[[H1526\|Γελωνίτου]]</big>** |
 [[2Sam.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.33|<< 2 Samuel 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.35|2 Samuel 23:35 >>]]</td></tr></table>
 
 

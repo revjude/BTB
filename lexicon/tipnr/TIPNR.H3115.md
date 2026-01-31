@@ -4,11 +4,11 @@ Woman living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Jochebed</span>, the daughter of Levi, married her nephew Amram and became the mother of Moses, Aaron, and Miriam \([[Exod.6.20|Exo.6.20]]; [[Num.26.59|Num.26.59]]\).
 - A woman from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.20|Exo.6.20]]; 
-- only referred to as Jochebed<[[H3115]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>\); 
--  daughter of Levi<[[H3878]]>; 
-- a sister of Gershon<[[H1648]]>, Kohath<[[H6955]]> and Merari<[[H4847]]>; 
-- wife of Amram<[[H6019G]]>; 
--  mother of Moses<[[H4872]]>, Aaron<[[H0175]]> and Miriam<[[H4813G]]>.
+- only referred to as Jochebed **<big>[[H3115|יוֹכֶבֶד]]</big>**; 
+-  daughter of Levi **<big>[[H3878|לֵוִי]]</big>**; 
+- a sister of Gershon **<big>[[H1648|גֵּרְשׁוֹן]]</big>**, Kohath **<big>[[H6955|קְהָת]]</big>** and Merari **<big>[[H4847|מְרָרִי]]</big>**; 
+- wife of Amram **<big>[[H6019|עַמְרָם]]</big>**; 
+-  mother of Moses **<big>[[H4872|מֹשֶׁה]]</big>**, Aaron **<big>[[H0175|אַהֲרוֹן]]</big>** and Miriam **<big>[[H4813|מִרְיָם]]</big>**.
 
 Jochebed, meaning "Yahweh is glory," was the mother of Moses, Aaron, and Miriam. She is mentioned in [[Exod.6.20|Exodus 6:20]] and [[Num.26.59|Numbers 26:59]] in the genealogical records of the Levites. Jochebed was the daughter of Levi, born to him in Egypt. She married her nephew Amram, the son of her brother Kohath. This marriage took place before the laws prohibiting such unions were given \(Lev.18.12\). 
 
@@ -16,8 +16,8 @@ Jochebed gave birth to three children who would play significant roles in Israel
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jochebed | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3115) <small>*Hebrew*</small> | 2x | [[Exo.6.20] & [Num.26.59] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jochebed\*\|reference=Exo.6.20;Num.26.59) |
-All Strong's for **Jochebed**: \[[[H3115]]\]
+| Jochebed | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3115) | 2x | [[Exo.6.20] & [Num.26.59] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jochebed\*\|reference=Exo.6.20;Num.26.59) |
+All entries for **Jochebed**:  **<big>[[H3115|יוֹכֶבֶד]]</big>**
 #### Related Profiles:
 - **[Levi](H3878)** (father)
 - **[Amram](H6019G)** (spouse)

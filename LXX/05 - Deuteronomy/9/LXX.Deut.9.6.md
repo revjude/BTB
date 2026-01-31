@@ -7,30 +7,30 @@ Understand therefore, that the LORD thy God giveth thee not this good land to po
 Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people.<small><sub>**MT:**</sub></small>
 [[Deut.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.5|<< Deuteronomy 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.7|Deuteronomy 9:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your works of righteousness | <big><span class="asgreek">δικαιοσύνας</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to inherit; | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a hard-necked | <big><span class="asgreek">σκληροτράχηλος</span></big> <sup><small><small>[[G4644]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall know | **<big>[[G1097\|γνώση]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your works of righteousness | **<big>[[G1343\|δικαιοσύνας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| gives | **<big>[[G1325\|δίδωσί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this good | **<big>[[G0018\|αγαθήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| to inherit; | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a hard-necked | **<big>[[G4644\|σκληροτράχηλος]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** |
 [[Deut.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.5|<< Deuteronomy 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.7|Deuteronomy 9:7 >>]]</td></tr></table>
 
 

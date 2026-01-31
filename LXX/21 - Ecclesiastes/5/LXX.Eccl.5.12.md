@@ -7,28 +7,28 @@ The sleep of a labouring man [is] sweet, whether he eat little or much: but the 
 The sleep of the worker is sweet, whether he eats little or much, but the abundance of the rich man permits him no sleep.<small><sub>**MT:**</sub></small>
 [[Eccl.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.11|<< Ecclesiastes 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.13|Ecclesiastes 5:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] sweet | <big><span class="asgreek">γλυκύς</span></big> <sup><small><small>[[G1099]]</small></small></sup> |
-| Sleep | <big><span class="asgreek">ύπνος</span></big> <sup><small><small>[[G5258]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant, | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| he shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being filled | <big><span class="asgreek">εμπλησθέντι</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be rich | <big><span class="asgreek">πλουτήσαι</span></big> <sup><small><small>[[G4147]]</small></small></sup> |
-| there is none | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| allowing | <big><span class="asgreek">αφίων</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sleep. | <big><span class="asgreek">υπνώσαι</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
+| \[is\] sweet | **<big>[[G1099\|γλυκύς]]</big>** |
+| Sleep | **<big>[[G5258\|ύπνος]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| servant, | **<big>[[G1401\|δούλου]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| little | **<big>[[G3641\|ολίγον]]</big>** |
+| or | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| much | **<big>[[G4183\|πολύ]]</big>** |
+| he shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| being filled | **<big>[[G1705\|εμπλησθέντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be rich | **<big>[[G4147\|πλουτήσαι]]</big>** |
+| there is none | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| allowing | **<big>[[G0863\|αφίων]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sleep. | **<big>[[G9567\|υπνώσαι]]</big>** |
 [[Eccl.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.11|<< Ecclesiastes 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.13|Ecclesiastes 5:13 >>]]</td></tr></table>
 
 

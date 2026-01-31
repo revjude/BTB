@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָעַן‎</span></big> **ṭâʻan** <small>*(taw-an')*</small> ==**to load**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָעַן‎</span></big>** **ṭâʻan** <small>*(taw-an')*</small> ==**to load**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lade.
@@ -6,4 +6,4 @@ $\quad$ lade.
 
 **1)** (Qal) to load
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γεμίζω</span><sup><small>[[G1072]]</small></sup>
+<small>See Greek: </small>**<big>[[G1072|γεμίζω]]</big>**

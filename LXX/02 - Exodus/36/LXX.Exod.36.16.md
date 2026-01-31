@@ -7,23 +7,23 @@ And he coupled five curtains by themselves, and six curtains by themselves.
 He joined five of the curtains into one set and the other six into another.<small><sub>**MT:**</sub></small>
 [[Exod.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.15|<< Exodus 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.17|Exodus 36:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he joined together | <big><span class="asgreek">συνήψε</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| hide coverings | <big><span class="asgreek">δέρρεις</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| hide coverings | <big><span class="asgreek">δέρρεις</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he joined together | **<big>[[G9297\|συνήψε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| hide coverings | **<big>[[G6801\|δέρρεις]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| hide coverings | **<big>[[G6801\|δέρρεις]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same. | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.15|<< Exodus 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.17|Exodus 36:17 >>]]</td></tr></table>
 
 

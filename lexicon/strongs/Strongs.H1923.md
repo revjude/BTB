@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎הֲדַר‎</span></big> **hădar** <small>*(had-ar')*</small> ==**honor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎הֲדַר‎</span><sup><small>[[H1922]]</small></sup></small>
+**<big><span class="asaramaic">‎הֲדַר‎</span></big>** **hădar** <small>*(had-ar')*</small> ==**honor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H1922|‎הֲדַר‎]]</big>**</small>
 
 $\quad$ honour, majesty.
 - ***magnificence***

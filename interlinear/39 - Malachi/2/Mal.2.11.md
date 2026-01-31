@@ -6,25 +6,25 @@ Judah has broken faith; an abomination has been committed in Israel and in Jerus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has acted treacherously  | <span class="ashebrew"><big>בָּגְדָ֣ה </big></span><small><small><sup>[[H0898]]</sup></small></small> &#8207;| ba.ge.Dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an abomination  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תוֹעֵבָ֛ה </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.'e.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been done  | <span class="ashebrew"><big>נֶעֶשְׂתָ֥ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ne.'es.Tah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Israel  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in Jerusalem  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ירֽוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi. <small><sup>[[HR]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has profaned  | <span class="ashebrew"><big>חִלֵּ֣ל </big></span><small><small><sup>[[H2490H]]</sup></small></small> &#8207;| chi.Lel <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֗ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sanctuary of  | <span class="ashebrew"><big>קֹ֤דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he loves  | <span class="ashebrew"><big>אָהֵ֔ב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'a.Hev <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it has married  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָעַ֖ל </big></span><small><small><sup>[[H1166I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> va.'Al <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a god of  | <span class="ashebrew"><big>אֵ֥ל </big></span><small><small><sup>[[H0410K]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foreignness  | <span class="ashebrew"><big>נֵכָֽר </big></span><small><small><sup>[[H5236]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has acted treacherously  |**<big>&#8207;[[H0898\|בָּגְדָ֣ה]]&#8207; </big>**| ba.ge.Dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an abomination  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8441\|תוֹעֵבָ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.'e.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been done  |**<big>&#8207;[[H6213H\|נֶעֶשְׂתָ֥ה]]&#8207; </big>**| ne.'es.Tah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירֽוּשָׁלִָ֑ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has profaned  |**<big>&#8207;[[H2490H\|חִלֵּ֣ל]]&#8207; </big>**| chi.Lel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֗ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sanctuary of  |**<big>&#8207;[[H6944G\|קֹ֤דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he loves  |**<big>&#8207;[[H0157G\|אָהֵ֔ב]]&#8207; </big>**| 'a.Hev<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has married  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1166I\|בָעַ֖ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a god of  |**<big>&#8207;[[H0410K\|אֵ֥ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foreignness  |**<big>&#8207;[[H5236\|נֵכָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 
 

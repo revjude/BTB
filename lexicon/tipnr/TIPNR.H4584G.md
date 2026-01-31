@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Maon</span>, a city in the hill country of Judah \([[Josh.15.55|Joshua 15:55]]\), home of Nabal and Abigail \([[1Sam.25.2|1 Samuel 25:2]]\).
 - A location first mentioned at [[Josh.15.55|Jos.15.55]]; 
-- referred to as Maon or Maonite<[[H4584G]]> \(<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Maon or Maonite **<big>[[H4584|מָעוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.41666666666668,35.1166666666667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Maon was a city located in the hill country of Judah \([[Josh.15.55|Joshua 15:55
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Maon | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H4584G) <small>*Hebrew*</small> | 5x | [[Jos.15.55] ... [1Sa.25.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maon\*\|reference=Jos.15.55;1Sa.23.24;1Sa.23.25;1Sa.23.25;1Sa.25.2) |
-| Maonite | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H4584G) <small>*Hebrew*</small> | 1x | [Jdg.10.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maonite\*\|reference=Jdg.10.12) |
-All Strong's for **Maon**: \[[[H4584G]]\]
+| Maon | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H4584G) | 5x | [[Jos.15.55] ... [1Sa.25.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maon\*\|reference=Jos.15.55;1Sa.23.24;1Sa.23.25;1Sa.23.25;1Sa.25.2) |
+| Maonite | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H4584G) | 1x | [Jdg.10.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maonite\*\|reference=Jdg.10.12) |
+All entries for **Maon**:  **<big>[[H4584|מָעוֹן]]</big>**

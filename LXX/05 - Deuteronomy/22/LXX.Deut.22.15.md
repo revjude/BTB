@@ -7,28 +7,28 @@ Then shall the father of the damsel, and her mother, take and bring forth [the t
 Then the young woman’s father and mother shall bring the proof of her virginity to the city elders at the gate<small><sub>**MT:**</sub></small>
 [[Deut.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.14|<< Deuteronomy 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.16|Deuteronomy 22:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking, | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother, | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| they shall bring forth | <big><span class="asgreek">εξοίσουσι</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tokens of the virginity | <big><span class="asgreek">παρθένια</span></big> <sup><small><small>[[G8651]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| council of elders | <big><span class="asgreek">γερουσίαν</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate. | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking, | **<big>[[G2983\|λαβών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| child | **<big>[[G3816\|παιδός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| mother, | **<big>[[G3384\|μήτηρ]]</big>** |
+| they shall bring forth | **<big>[[G1627\|εξοίσουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| tokens of the virginity | **<big>[[G8651\|παρθένια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| child | **<big>[[G3816\|παιδός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| council of elders | **<big>[[G1087\|γερουσίαν]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate. | **<big>[[G4439\|πύλην]]</big>** |
 [[Deut.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.14|<< Deuteronomy 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.16|Deuteronomy 22:16 >>]]</td></tr></table>
 
 

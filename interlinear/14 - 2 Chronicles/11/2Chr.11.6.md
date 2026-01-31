@@ -6,16 +6,16 @@ He built up Bethlehem, Etam, Tekoa,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.5|<< 2 Chronicles 11:5]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.7|2 Chronicles 11:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he built  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּ֧בֶן </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yi.ven <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth-  | <span class="ashebrew"><big>בֵּֽית </big></span><small><small><sup>[[H1035G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -lehem  | <span class="ashebrew"><big>לֶ֛חֶם </big></span><small><small><sup>[[H1035G]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Etam  | <span class="ashebrew"><big>עֵיטָ֖ם </big></span><small><small><sup>[[H5862I]]</sup></small></small> &#8207;| 'ei.Tam <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tekoa  | <span class="ashebrew"><big>תְּקֽוֹעַ </big></span><small><small><sup>[[H8620]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.Ko.a' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֧בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  |**<big>&#8207;[[H1035G\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -lehem  |**<big>&#8207;[[H1035G\|לֶ֛חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Etam  |**<big>&#8207;[[H5862I\|עֵיטָ֖ם]]&#8207; </big>**| 'ei.Tam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tekoa  |**<big>&#8207;[[H8620\|תְּקֽוֹעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.Ko.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.5|<< 2 Chronicles 11:5]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.7|2 Chronicles 11:7 >>]]</td></tr></table>
 
 

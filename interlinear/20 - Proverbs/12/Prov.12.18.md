@@ -6,15 +6,15 @@ Speaking rashly is like a piercing sword, but the tongue of the wise brings heal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.17|<< Proverbs 12:17]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.19|Proverbs 12:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there  | <span class="ashebrew"><big>יֵ֣שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is one who] speaks rashly  | <span class="ashebrew"><big>בּ֭וֹטֶה </big></span><small><small><sup>[[H0981]]</sup></small></small> &#8207;| Bo.teh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like thrusts of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מַדְקְר֣וֹת </big></span><small><small><sup>[[H4094]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> mad.ke.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword  | <span class="ashebrew"><big>חָ֑רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Cha.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] tongue of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְשׁ֖וֹן </big></span><small><small><sup>[[H3956G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le.Shon <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise [people]  | <span class="ashebrew"><big>חֲכָמִ֣ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] healing  | <span class="ashebrew"><big>מַרְפֵּֽא </big></span><small><small><sup>[[H4832]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mar.Pe' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] speaks rashly  |**<big>&#8207;[[H0981\|בּ֭וֹטֶה]]&#8207; </big>**| Bo.teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like thrusts of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4094\|מַדְקְר֣וֹת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mad.ke.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  |**<big>&#8207;[[H2719\|חָ֑רֶב]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] tongue of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3956G\|לְשׁ֖וֹן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] healing  |**<big>&#8207;[[H4832\|מַרְפֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mar.Pe'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.17|<< Proverbs 12:17]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.19|Proverbs 12:19 >>]]</td></tr></table>
 
 

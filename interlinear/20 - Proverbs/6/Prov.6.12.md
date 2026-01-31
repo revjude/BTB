@@ -6,15 +6,15 @@ A worthless person, a wicked man, walks with a perverse mouth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a person of  | <span class="ashebrew"><big>אָדָ֣ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| worthlessness  | <span class="ashebrew"><big>בְּ֭לִיַּעַל </big></span><small><small><sup>[[H1100I]]</sup></small></small> &#8207;| Be.li.ya.'al <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person of  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wickedness  | <span class="ashebrew"><big>אָ֑וֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] walking  | <span class="ashebrew"><big>ה֝וֹלֵ֗ךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| ho.Lekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crookedness of  | <span class="ashebrew"><big>עִקְּשׁ֥וּת </big></span><small><small><sup>[[H6143]]</sup></small></small> &#8207;| 'i.ke.Shut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth  | <span class="ashebrew"><big>פֶּֽה </big></span><small><small><sup>[[H6310I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Peh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person of  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| worthlessness  |**<big>&#8207;[[H1100I\|בְּ֭לִיַּעַל]]&#8207; </big>**| Be.li.ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wickedness  |**<big>&#8207;[[H0205G\|אָ֑וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] walking  |**<big>&#8207;[[H1980I\|ה֝וֹלֵ֗ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crookedness of  |**<big>&#8207;[[H6143\|עִקְּשׁ֥וּת]]&#8207; </big>**| 'i.ke.Shut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth  |**<big>&#8207;[[H6310I\|פֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
 

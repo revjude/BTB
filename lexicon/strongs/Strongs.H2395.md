@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִזְקִי‎</span></big> **Chizqîy** <small>*(khiz-kee')*</small> ==**Hizki**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזַק‎</span><sup><small>[[H2388]]</small></sup>; strong</small>
+**<big><span class="ashebrew">‎חִזְקִי‎</span></big>** **Chizqîy** <small>*(khiz-kee')*</small> ==**Hizki**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2388|‎חָזַק‎]]</big>**; strong</small>
 
 $\quad$ Hezeki.
 - § Hezeki = *"strong"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחְדִּיאֵל‎</span></big> **Yachdîyʼêl** <small>*(yakh-dee-ale')*</small> ==**Jahdiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יַחַד‎</span><sup><small>[[H3162]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; unity of God</small>
+**<big><span class="ashebrew">‎יַחְדִּיאֵל‎</span></big>** **Yachdîyʼêl** <small>*(yakh-dee-ale')*</small> ==**Jahdiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3162|‎יַחַד‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; unity of God</small>
 
 $\quad$ Jahdiel.
 - § Jahdiel = *"my unity is God"*

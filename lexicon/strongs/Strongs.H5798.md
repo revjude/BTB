@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻזָּא‎</span></big> **ʻUzzâʼ** <small>*(ooz-zaw')*</small> ==**Uzzah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֻזָּה</span> **ʻUzzâh** <small>*(ooz-zaw')*</small>; feminine of <span class="ashebrew">‎עֹז‎</span><sup><small>[[H5797]]</small></sup>; strength</small>
+**<big><span class="ashebrew">‎עֻזָּא‎</span></big>** **ʻUzzâʼ** <small>*(ooz-zaw')*</small> ==**Uzzah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֻזָּה</span></big>** **ʻUzzâh** <small>*(ooz-zaw')*</small>; feminine of **<big>[[H5797|‎עֹז‎]]</big>**; strength</small>
 
 $\quad$ Uzza, Uzzah.
 - § Uzza or Uzzah = *"strength"*

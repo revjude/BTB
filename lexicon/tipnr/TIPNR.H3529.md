@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Chebar</span> River was a waterway in Babylonia near which the prophet Ezekiel received visions from God during the Babylonian exile.
 - A location first mentioned at [[Ezek.1.1|Ezk.1.1]]; 
-- only referred to as Chebar<[[H3529]]> \(<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Chebar **<big>[[H3529|כְּבָר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.159129,44.062930&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of the Chebar River is uncertain, but it was likely a navigab
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chebar | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>](H3529) <small>*Hebrew*</small> | 8x | [[Ezk.1.1] ... [Ezk.43.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chebar\*\|reference=Ezk.1.1;Ezk.1.3;Ezk.3.15;Ezk.3.23;Ezk.10.15;Ezk.10.20;Ezk.10.22;Ezk.43.3) |
-All Strong's for **Chebar**: \[[[H3529]]\]
+| Chebar | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>](H3529) | 8x | [[Ezk.1.1] ... [Ezk.43.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chebar\*\|reference=Ezk.1.1;Ezk.1.3;Ezk.3.15;Ezk.3.23;Ezk.10.15;Ezk.10.20;Ezk.10.22;Ezk.43.3) |
+All entries for **Chebar**:  **<big>[[H3529|כְּבָר]]</big>**

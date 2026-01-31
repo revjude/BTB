@@ -1,5 +1,5 @@
 <span class="asgreek">σύνοιδα</span> <small>***(sunoida)***</small> ==**be conscious of**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-spelling of: <small>[[G4894]]</small> 
+spelling of: <small>**<big>[[G4894|συνείδω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σύνοιδα==</span></b>, 

@@ -6,14 +6,14 @@ She makes linen garments and sells them; she delivers sashes to the merchants.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.23|<< Proverbs 31:23]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.25|Proverbs 31:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| linen garment[s]  | <span class="ashebrew"><big>סָדִ֣ין </big></span><small><small><sup>[[H5466]]</sup></small></small> &#8207;| sa.Din <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she makes  | <span class="ashebrew"><big>עָ֭שְׂתָה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'A.se.tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she sold  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּמְכֹּ֑ר </big></span><small><small><sup>[[H4376]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> tim.Kor <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a belt  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲג֗וֹר </big></span><small><small><sup>[[H2290B]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.Gor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she supplies  | <span class="ashebrew"><big>נָתְנָ֥ה </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.te.Nah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the merchants  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כְּנַעֲנִֽי </big></span><small><small><sup>[[H3669B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La. <small><sup>[[HRd]]</sup></small> ke.na.'a.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| linen garment[s]  |**<big>&#8207;[[H5466\|סָדִ֣ין]]&#8207; </big>**| sa.Din<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she makes  |**<big>&#8207;[[H6213H\|עָ֭שְׂתָה]]&#8207; </big>**| 'A.se.tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she sold  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4376\|תִּמְכֹּ֑ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tim.Kor<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a belt  |**<big>&#8207;[[H9002\|וַ֝]]&#8207;&#8207;[[H2290B\|חֲג֗וֹר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Gor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she supplies  |**<big>&#8207;[[H5414G\|נָתְנָ֥ה]]&#8207; </big>**| na.te.Nah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the merchants  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3669B\|כְּנַעֲנִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.23|<< Proverbs 31:23]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.25|Proverbs 31:25 >>]]</td></tr></table>
 
 

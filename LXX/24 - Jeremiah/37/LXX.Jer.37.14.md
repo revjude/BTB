@@ -7,31 +7,31 @@ Then said Jeremiah, [It is] false; I fall not away to the Chaldeans. But he hear
 “That is a lie,” Jeremiah replied. “I am not deserting to the Chaldeans!” But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials.<small><sub>**MT:**</sub></small>
 [[Jer.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.13|<< Jeremiah 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.15|Jeremiah 37:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[It is\] a lie, | <big><span class="asgreek">ψεύδος</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
-| \[am\] not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίους</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fleeing | <big><span class="asgreek">φεύγω</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισήκουσεν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Irijah seized | <big><span class="asgreek">συνέλαβε</span></big> <sup><small><small>[[G4815]]</small></small></sup> <big><span class="asgreek">Ιαρουϊας</span></big> <sup><small><small>[[H3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeremiah, | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought | <big><span class="asgreek">εισήγαγεν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers. | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| \[It is\] a lie, | **<big>[[G5579\|ψεύδος]]</big>** |
+| \[am\] not | **<big>[[G3780\|ουχί]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίους]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| fleeing | **<big>[[G5343\|φεύγω]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| listen to | **<big>[[G1522\|εισήκουσεν]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Irijah seized | **<big>[[G4815\|συνέλαβε]]</big>** **<big>[[H3376\|Ιαρουϊας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jeremiah, | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| brought | **<big>[[G1521\|εισήγαγεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers. | **<big>[[G0758\|άρχοντας]]</big>** |
 [[Jer.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.13|<< Jeremiah 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.15|Jeremiah 37:15 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he 
 So Benaiah son of Jehoiada went up, struck down Joab, and killed him. He was buried at his own home in the wilderness.<small><sub>**MT:**</sub></small>
 [[1Kgs.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.33|<< 1 Kings 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.35|1 Kings 2:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Benaiah | <big><span class="asgreek">Βανέας</span></big> <sup><small><small>[[H1131]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoiada | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| met | <big><span class="asgreek">απήντησεν</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| killed | <big><span class="asgreek">εθανάτωσεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψεν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Benaiah | **<big>[[H1131\|Βανέας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehoiada | **<big>[[H3111\|Ιωδαέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| met | **<big>[[G0528\|απήντησεν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| killed | **<big>[[G2289\|εθανάτωσεν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his house | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
 [[1Kgs.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.33|<< 1 Kings 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.35|1 Kings 2:35 >>]]</td></tr></table>
 
 

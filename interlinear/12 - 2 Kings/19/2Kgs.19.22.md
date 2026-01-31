@@ -6,22 +6,22 @@ Whom have you taunted and blasphemed? Against whom have you raised your voice an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.21|<< 2 Kings 19:21]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.23|2 Kings 19:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom?  | <span class="ashebrew"><big>מִ֤י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have you taunted  | <span class="ashebrew"><big>חֵרַ֙פְתָּ֙ </big></span><small><small><sup>[[H2778A]]</sup></small></small> &#8207;| che.Raf.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and have you blasphemed?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גִדַּ֔פְתָּ </big></span><small><small><sup>[[H1442]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> gi.Daf.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom?  | <span class="ashebrew"><big>מִ֖י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have you lifted up  | <span class="ashebrew"><big>הֲרִימ֣וֹתָ </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ha.ri.Mo.ta <small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a voice  | <span class="ashebrew"><big>קּ֑וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and have you lifted up?  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּשָּׂ֥א </big></span><small><small><sup>[[H5375M]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ti.Sa' <small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| height  | <span class="ashebrew"><big>מָר֛וֹם </big></span><small><small><sup>[[H4791]]</sup></small></small> &#8207;| ma.Rom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes your  | <span class="ashebrew"><big>עֵינֶ֖י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'ei.Nei. <small><sup>[[HNcfdc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [one] of  | <span class="ashebrew"><big>קְד֥וֹשׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ke.Do.osh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you taunted  |**<big>&#8207;[[H2778A\|חֵרַ֙פְתָּ֙]]&#8207; </big>**| che.Raf.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and have you blasphemed?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1442\|גִדַּ֔פְתָּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gi.Daf.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  |**<big>&#8207;[[H4310\|מִ֖י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you lifted up  |**<big>&#8207;[[H7311A\|הֲרִימ֣וֹתָ]]&#8207; </big>**| ha.ri.Mo.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a voice  |**<big>&#8207;[[H6963A\|קּ֑וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and have you lifted up?  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|תִּשָּׂ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height  |**<big>&#8207;[[H4791\|מָר֛וֹם]]&#8207; </big>**| ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  |**<big>&#8207;[[H5869A\|עֵינֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one] of  |**<big>&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.21|<< 2 Kings 19:21]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.23|2 Kings 19:23 >>]]</td></tr></table>
 
 

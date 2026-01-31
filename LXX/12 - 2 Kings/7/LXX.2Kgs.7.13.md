@@ -7,39 +7,39 @@ And one of his servants answered and said, Let [some] take, I pray thee, five of
 But one of his servants replied, “Please, have scouts take five of the horses that remain in the city. Their plight will be no worse than all the Israelites who are left here. You can see that all the Israelites here are doomed. So let us send them and find out.”<small><sub>**MT:**</sub></small>
 [[2Kgs.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his servants, | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Let them take | <big><span class="asgreek">λαβέτωσαν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses, | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind, | <big><span class="asgreek">υπολελειμμένων</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they left behind | <big><span class="asgreek">κατελείφθησαν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| faltering; | <big><span class="asgreek">εκλείπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will send | <big><span class="asgreek">αποστελούμεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see. | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his servants, | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| Let them take | **<big>[[G2983\|λαβέτωσαν]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| horses, | **<big>[[G2462\|ίππων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| being left behind, | **<big>[[G5275\|υπολελειμμένων]]</big>** |
+| which | **<big>[[G3739\|οι]]</big>** |
+| they left behind | **<big>[[G2641\|κατελείφθησαν]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| they are | **<big>[[G1510\|εισί]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| faltering; | **<big>[[G1587\|εκλείπον]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| we will send | **<big>[[G0649\|αποστελούμεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see. | **<big>[[G3708\|οψόμεθα]]</big>** |
 [[2Kgs.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
 

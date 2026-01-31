@@ -7,53 +7,53 @@ And the king commanded, and they brought those men which had accused Daniel, and
 At the command of the king, the men who had falsely accused Daniel were brought and thrown into the den of lions—they and their children and wives. And before they had reached the bottom of the den, the lions overpowered them and crushed all their bones.<small><sub>**MT:**</sub></small>
 [[Dan.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.23|<< Daniel 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.25|Daniel 6:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| accusing | <big><span class="asgreek">διαβαλόντας</span></big> <sup><small><small>[[G1225]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lions | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| they put | <big><span class="asgreek">ενεβλήθησαν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons, | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wives. | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come | <big><span class="asgreek">έφθασαν</span></big> <sup><small><small>[[G5348]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| floor | <big><span class="asgreek">έδαφος</span></big> <sup><small><small>[[G1475]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| before | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-|  | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| dominated | <big><span class="asgreek">εκυρίευσαν</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lions | <big><span class="asgreek">λέοντες</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made fine | <big><span class="asgreek">ελέπτυναν</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G0071\|ήγαγον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| accusing | **<big>[[G1225\|διαβαλόντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pit | **<big>[[G8154\|λάκκον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| lions | **<big>[[G3023\|λεόντων]]</big>** |
+| they put | **<big>[[G1685\|ενεβλήθησαν]]</big>** |
+| them | **<big>[[G1473\|αυτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their sons, | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their wives. | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| come | **<big>[[G5348\|έφθασαν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| floor | **<big>[[G1475\|έδαφος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| pit | **<big>[[G8154\|λάκκου]]</big>** |
+| before | **<big>[[G2193\|έως]]</big>** |
+|  | **<big>[[G3739\|ου]]</big>** |
+| dominated | **<big>[[G2961\|εκυρίευσαν]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| lions | **<big>[[G3023\|λέοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of their bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| made fine | **<big>[[G8183\|ελέπτυναν]]</big>** |
 [[Dan.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.23|<< Daniel 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.25|Daniel 6:25 >>]]</td></tr></table>
 
 

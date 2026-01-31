@@ -6,25 +6,25 @@ Because the Lord GOD helps Me, I have not been disgraced; therefore I have set M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.6|<< Isaiah 50:6]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.8|Isaiah 50:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] Lord  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אדֹנָ֤י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִה֙ </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he helps  | <span class="ashebrew"><big>יַֽעֲזָר </big></span><small><small><sup>[[H5826]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'a.zor- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> me  | <span class="ashebrew"><big>לִ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֖ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have been humiliated  | <span class="ashebrew"><big>נִכְלָ֑מְתִּי </big></span><small><small><sup>[[H3637]]</sup></small></small> &#8207;| nikh.La.me.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֞ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have made  | <span class="ashebrew"><big>שַׂ֤מְתִּי </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| Sam.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face my  | <span class="ashebrew"><big>פָנַ </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| fa.Na <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> flint  | <span class="ashebrew"><big>כַּֽ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>חַלָּמִ֔ישׁ </big></span><small><small><sup>[[H2496]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> cha.la.Mish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I have perceived  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֵדַ֖ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'e.Da' <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will be put to shame  | <span class="ashebrew"><big>אֵבֽוֹשׁ </big></span><small><small><sup>[[H0954]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Vo.osh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] Lord  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0136\|אדֹנָ֤י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he helps  |**<big>&#8207;[[H5826\|יַֽעֲזָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.zor-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֖ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have been humiliated  |**<big>&#8207;[[H3637\|נִכְלָ֑מְתִּי]]&#8207; </big>**| nikh.La.me.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֞ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made  |**<big>&#8207;[[H7760A\|שַׂ֤מְתִּי]]&#8207; </big>**| Sam.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָנַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> flint  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H2496\|חַלָּמִ֔ישׁ]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> cha.la.Mish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have perceived  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3045\|אֵדַ֖ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Da'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will be put to shame  |**<big>&#8207;[[H0954\|אֵבֽוֹשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Vo.osh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.6|<< Isaiah 50:6]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.8|Isaiah 50:8 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Washer's Field • A location near Jerusalem's wall, mentioned in prophecies*</small>
 
 The <span class='tipnrhighlight'>Washer's Field</span>, a location near Jerusalem's wall, where the Assyrian officials stood and delivered messages to King Hezekiah \(2 Kgs. 18:17; Isa. 7:3; 36:2\).
-- A location near Hinnom\_Valley<[[H8612]]> first mentioned at [[2Kgs.18.17|2Ki.18.17]]; 
-- only referred to as Washer's\_Field<[[H3526G]]><[[H7704H]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ס</span> <span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Hinnom\_Valley **<big>[[H8612|תֹּפֶת]]</big>** first mentioned at [[2Kgs.18.17|2Ki.18.17]]; 
+- only referred to as Washer's\_Field **<big>[[H3526|כָּבַס]]</big>** **<big>[[H7704|שָׂדֶה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.769079,35.227994&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Washer's Field, also known as the Fuller's Field, is a location mentioned in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Washer's/ Field (KJV= fuller's field; NIV= Launderer's Field) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ס</span>](H3526G)[<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H7704H) <small>*Hebrew*</small> | 3x | [[2Ki.18.17] ... [Isa.36.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Washer's\*\|reference=2Ki.18.17;Isa.7.3;Isa.36.2) |
-All Strong's for **Washer's_Field**: \[[[H3526G]]\]
+| Washer's/ Field (KJV= fuller's field; NIV= Launderer's Field) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ס</span>](H3526G)[<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H7704H) | 3x | [[2Ki.18.17] ... [Isa.36.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Washer's\*\|reference=2Ki.18.17;Isa.7.3;Isa.36.2) |
+All entries for **Washer's Field**:  **<big>[[H3526|כָּבַס]]</big>**

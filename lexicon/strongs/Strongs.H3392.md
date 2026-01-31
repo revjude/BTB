@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֶרַח‎</span></big> **Yerach** <small>*(yeh'-rakh)*</small> ==**Jerah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יֶרַח‎</span><sup><small>[[H3391]]</small></sup></small>
+**<big><span class="ashebrew">‎יֶרַח‎</span></big>** **Yerach** <small>*(yeh'-rakh)*</small> ==**Jerah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3391|‎יֶרַח‎]]</big>**</small>
 
 $\quad$ Jerah.
 - § Jerah = *"new moon"*

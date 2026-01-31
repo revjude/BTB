@@ -7,16 +7,16 @@ He shall spare the poor and needy, and shall save the souls of the needy.
 He will take pity on the poor and needy and save the lives of the oppressed.<small><sub>**MT:**</sub></small>
 [[Ps.72.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.12|<< Psalm 72:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.14|Psalm 72:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \[the\] poor | <big><span class="asgreek">πτωχού</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| needy; | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of \[the\] needy | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| he shall deliver. | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| He shall spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \[the\] poor | **<big>[[G4434\|πτωχού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| needy; | **<big>[[G3993\|πένητος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| of \[the\] needy | **<big>[[G3993\|πενήτων]]</big>** |
+| he shall deliver. | **<big>[[G4982\|σώσει]]</big>** |
 [[Ps.72.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.12|<< Psalm 72:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.14|Psalm 72:14 >>]]</td></tr></table>
 
 

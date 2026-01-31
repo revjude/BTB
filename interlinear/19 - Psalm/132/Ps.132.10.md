@@ -10,15 +10,15 @@ For the sake of Your servant David, do not reject Your anointed one.
 > $\quad$ referenced by: [[2Chr.6.42|2Chr 6:42]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for sake of  | <span class="ashebrew"><big>בַּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֲבוּר </big></span><small><small><sup>[[H5668]]</sup></small></small> &#8207;| Ba. <small><sup>[[HR]]</sup></small> 'a.vur <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֣ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant your  | <span class="ashebrew"><big>עַבְדֶּ֑ </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'av.De. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you turn away  | <span class="ashebrew"><big>תָּ֝שֵׁ֗ב </big></span><small><small><sup>[[H7725I]]</sup></small></small> &#8207;| ta.Shev <small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anointed your  | <span class="ashebrew"><big>מְשִׁיחֶֽ </big></span><small><small><sup>[[H4899]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.shi.Che. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for sake of  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H5668\|עֲבוּר]]&#8207; </big>**| Ba.<small><sup>[[HR]]</sup></small> 'a.vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֣ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  |**<big>&#8207;[[H5650\|עַבְדֶּ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'av.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you turn away  |**<big>&#8207;[[H7725I\|תָּ֝שֵׁ֗ב]]&#8207; </big>**| ta.Shev<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anointed your  |**<big>&#8207;[[H4899\|מְשִׁיחֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.shi.Che.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.9|<< Psalms 132:9]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.11|Psalms 132:11 >>]]</td></tr></table>
 
 

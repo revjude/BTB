@@ -7,30 +7,30 @@ And God made the firmament, and divided the waters which [were] under the firmam
 So God made the expanse and separated the waters beneath it from the waters above. And it was so.<small><sub>**MT:**</sub></small>
 [[Gen.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.6|<< Genesis 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.8|Genesis 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament, | <big><span class="asgreek">στέρεωμα</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God parted | <big><span class="asgreek">διεχώρισεν</span></big> <sup><small><small>[[G1316]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament, | <big><span class="asgreek">στερεώματος</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| above | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament. | <big><span class="asgreek">στερεώματος</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God made | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| firmament, | **<big>[[G4733\|στέρεωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| God parted | **<big>[[G1316\|διεχώρισεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| firmament, | **<big>[[G4733\|στερεώματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| above | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| firmament. | **<big>[[G4733\|στερεώματος]]</big>** |
 [[Gen.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.6|<< Genesis 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.8|Genesis 1:8 >>]]</td></tr></table>
 
 

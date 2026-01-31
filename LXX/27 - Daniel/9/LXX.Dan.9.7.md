@@ -7,50 +7,50 @@ O Lord, righteousness [belongeth] unto thee, but unto us confusion of faces, as 
 To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.<small><sub>**MT:**</sub></small>
 [[Dan.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.6|<< Daniel 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.8|Daniel 9:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shame | <big><span class="asgreek">αισχύνη</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day; | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to \[the\] man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούσιν</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| near, | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| far off | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you dispersed | <big><span class="asgreek">διέσπειρας</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| for | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| their rebellion | <big><span class="asgreek">αθεσία</span></big> <sup><small><small>[[G6149]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they annulled \[covenant\] | <big><span class="asgreek">ηθέτησαν</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| To you, | **<big>[[G1473\|σοι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| shame | **<big>[[G0152\|αισχύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of face, | **<big>[[G4383\|προσώπου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day; | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| to \[the\] man | **<big>[[G0435\|ανδρί]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούσιν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| near, | **<big>[[G1451\|εγγύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| far off | **<big>[[G3112\|μακράν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth, | **<big>[[G1093\|γη]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| you dispersed | **<big>[[G1289\|διέσπειρας]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| for | **<big>[[G0302\|αν]]</big>** |
+| their rebellion | **<big>[[G6149\|αθεσία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| they annulled \[covenant\] | **<big>[[G0114\|ηθέτησαν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Dan.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.6|<< Daniel 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.8|Daniel 9:8 >>]]</td></tr></table>
 
 

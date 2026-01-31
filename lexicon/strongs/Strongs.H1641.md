@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּרַר‎</span></big> **gârar** <small>*(gaw-rar')*</small> ==**to drag/chew/saw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּרַר‎</span></big>** **gârar** <small>*(gaw-rar')*</small> ==**to drag/chew/saw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ catch, chew, [idiom] continuing, destroy, saw.
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Niphal) to chew the cud
 $\quad$ **1c)** (Poal) sawn (participle)
 $\quad$ **1d)** (Hithpoel) roaring (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνάγω</span><sup><small>[[G0321]]</small></sup> · <span class="asgreek">ἑλκύω</span><sup><small>[[G1670]]</small></sup> · <span class="asgreek">στρέφω</span><sup><small>[[G4762]]</small></sup>
+<small>See Greek: </small>**<big>[[G0321|ἀνάγω]]</big>** · **<big>[[G1670|ἑλκύω]]</big>** · **<big>[[G4762|στρέφω]]</big>**

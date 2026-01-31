@@ -6,21 +6,21 @@ They were a wall around us, both day and night, the whole time we were herding o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.15|<< 1 Samuel 25:15]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.17|1 Samuel 25:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a wall  | <span class="ashebrew"><big>חוֹמָה֙ </big></span><small><small><sup>[[H2346G]]</sup></small></small> &#8207;| cho.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were  | <span class="ashebrew"><big>הָי֣וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with us  | <span class="ashebrew"><big>עָלֵ֔י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| both  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| night  | <span class="ashebrew"><big>לַ֖יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as well as  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by day  | <span class="ashebrew"><big>יוֹמָ֑ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֛י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being we  | <span class="ashebrew"><big>הֱיוֹתֵ֥ </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9045]]</sup></small></small> &#8207;| he.yo.Te. <small><sup>[[HVqcc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with them  | <span class="ashebrew"><big>עִמָּ֖ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'i.Ma <small><sup>[[HRd]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shepherding  | <span class="ashebrew"><big>רֹעִ֥ים </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| ro.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the flock  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צֹּֽאן </big></span><small><small><sup>[[H6629G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wall  |**<big>&#8207;[[H2346G\|חוֹמָה֙]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  |**<big>&#8207;[[H5921A\|עָלֵ֔י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night  |**<big>&#8207;[[H3915\|לַ֖יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as well as  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָ֑ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֛י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being we  |**<big>&#8207;[[H1961\|הֱיוֹתֵ֥]]&#8207;&#8207;[[H9045\|נוּ]]&#8207; </big>**| he.yo.Te.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  |**<big>&#8207;[[H5973A\|עִמָּ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'i.Ma<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shepherding  |**<big>&#8207;[[H7462B\|רֹעִ֥ים]]&#8207; </big>**| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6629G\|צֹּֽאן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.15|<< 1 Samuel 25:15]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.17|1 Samuel 25:17 >>]]</td></tr></table>
 
 

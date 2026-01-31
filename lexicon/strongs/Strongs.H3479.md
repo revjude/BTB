@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יִשְׂרָאֵל‎</span></big> **Yisrâʼêl** <small>*(yis-raw-ale')*</small> ==**Israel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יִשְׂרָאֵל‎</span><sup><small>[[H3478]]</small></sup></small>
+**<big><span class="asaramaic">‎יִשְׂרָאֵל‎</span></big>** **Yisrâʼêl** <small>*(yis-raw-ale')*</small> ==**Israel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3478|‎יִשְׂרָאֵל‎]]</big>**</small>
 
 $\quad$ Israel.
 - § Israel = *"God prevails"*

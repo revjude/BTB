@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּיחוֹן‎</span></big> **Gîychôwn** <small>*(ghee-khone')*</small> ==**Gihon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">גִּחוֹן</span> **Gichôwn** <small>*(ghee-khone')*</small>; from <span class="ashebrew">‎גִּיחַ‎</span><sup><small>[[H1518]]</small></sup>; stream</small>
+**<big><span class="ashebrew">‎גִּיחוֹן‎</span></big>** **Gîychôwn** <small>*(ghee-khone')*</small> ==**Gihon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">גִּחוֹן</span></big>** **Gichôwn** <small>*(ghee-khone')*</small>; from **<big>[[H1518|‎גִּיחַ‎]]</big>**; stream</small>
 
 $\quad$ Gihon.
 - § Gihon = *"bursting forth"*

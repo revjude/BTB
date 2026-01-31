@@ -7,21 +7,21 @@ They shall walk after the LORD: he shall roar like a lion: when he shall roar, t
 They will walk after the LORD; He will roar like a lion. When He roars, His children will come trembling from the west.<small><sub>**MT:**</sub></small>
 [[Hos.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.9|<< Hosea 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.11|Hosea 11:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I shall go | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| he shall bellow; | <big><span class="asgreek">ερεύξεται</span></big> <sup><small><small>[[G2044]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall roar, | <big><span class="asgreek">ωρύσεται</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be startled | <big><span class="asgreek">εκστήσονται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of \[the\] waters | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| I shall go | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| he shall bellow; | **<big>[[G2044\|ερεύξεται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall roar, | **<big>[[G5612\|ωρύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be startled | **<big>[[G1839\|εκστήσονται]]</big>** |
+| children | **<big>[[G5043\|τέκνα]]</big>** |
+| of \[the\] waters | **<big>[[G5204\|υδάτων]]</big>** |
 [[Hos.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.9|<< Hosea 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.11|Hosea 11:11 >>]]</td></tr></table>
 
 

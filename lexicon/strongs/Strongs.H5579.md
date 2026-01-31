@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סְנַפִּיר‎</span></big> **çᵉnappîyr** <small>*(sen-ap-peer')*</small> ==**fin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎סְנַפִּיר‎</span></big>** **çᵉnappîyr** <small>*(sen-ap-peer')*</small> ==**fin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ fins.
@@ -6,4 +6,4 @@ $\quad$ fins.
 
 **1)** fin
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πτερύγιον</span><sup><small>[[G4419]]</small></sup>
+<small>See Greek: </small>**<big>[[G4419|πτερύγιον]]</big>**

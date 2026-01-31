@@ -7,24 +7,24 @@ And I will bring you into the wilderness of the people, and there will I plead w
 And I will bring you into the wilderness of the nations, where I will enter into judgment with you face to face.<small><sub>**MT:**</sub></small>
 [[Ezek.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.34|<< Ezekiel 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.36|Ezekiel 20:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will litigate | <big><span class="asgreek">διακριθήσομαι</span></big> <sup><small><small>[[G1252]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| face. | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G0071\|άξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peoples, | **<big>[[G2992\|λαών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will litigate | **<big>[[G1252\|διακριθήσομαι]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| to | **<big>[[G2596\|κατά]]</big>** |
+| face. | **<big>[[G4383\|πρόσωπον]]</big>** |
 [[Ezek.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.34|<< Ezekiel 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.36|Ezekiel 20:36 >>]]</td></tr></table>
 
 

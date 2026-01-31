@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַצָּה‎</span></big> **matstsâh** <small>*(mats-tsaw')*</small> ==**unleavened bread**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎מָצַץ‎</span><sup><small>[[H4711]]</small></sup> in the sense of greedily devouring for sweetness</small>
+**<big><span class="ashebrew">‎מַצָּה‎</span></big>** **matstsâh** <small>*(mats-tsaw')*</small> ==**unleavened bread**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H4711|‎מָצַץ‎]]</big>** in the sense of greedily devouring for sweetness</small>
 
 $\quad$ unleaved (bread, cake), without leaven.
 - properly, ***sweetness***
@@ -8,4 +8,4 @@ $\quad$ unleaved (bread, cake), without leaven.
 
 **1)** unleavened (bread, cake), without leaven.
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρτος</span><sup><small>[[G0740]]</small></sup> · <span class="asgreek">κακός</span><sup><small>[[G2556]]</small></sup> · <span class="asgreek">μάχη</span><sup><small>[[G3163]]</small></sup>
+<small>See Greek: </small>**<big>[[G0740|ἄρτος]]</big>** · **<big>[[G2556|κακός]]</big>** · **<big>[[G3163|μάχη]]</big>**

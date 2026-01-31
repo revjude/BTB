@@ -6,11 +6,11 @@ Abdon, Zichri, Hanan,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.22|<< 1 Chronicles 8:22]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.24|1 Chronicles 8:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Abdon  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַבְדּ֥וֹן </big></span><small><small><sup>[[H5658I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Don <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Zikri  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זִכְרִ֖י </big></span><small><small><sup>[[H2147I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> zikh.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Hanan  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָנָֽן </big></span><small><small><sup>[[H2605G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abdon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5658I\|עַבְדּ֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Don<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zikri  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2147I\|זִכְרִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zikh.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hanan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2605G\|חָנָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.22|<< 1 Chronicles 8:22]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.24|1 Chronicles 8:24 >>]]</td></tr></table>
 
 

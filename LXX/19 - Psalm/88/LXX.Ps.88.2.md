@@ -7,19 +7,19 @@ Let my prayer come before thee: incline thine ear unto my cry;
 May my prayer come before You; incline Your ear to my cry.<small><sub>**MT:**</sub></small>
 [[Ps.88.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.1|<< Psalm 88:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.3|Psalm 88:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| enter | <big><span class="asgreek">εισελθέτω</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prayer | <big><span class="asgreek">προσευχή</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lean | <big><span class="asgreek">κλίνον</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my supplication! | <big><span class="asgreek">δέησίν</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| enter | **<big>[[G1525\|εισελθέτω]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my prayer | **<big>[[G4335\|προσευχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Lean | **<big>[[G2827\|κλίνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my supplication! | **<big>[[G1162\|δέησίν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.88.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.1|<< Psalm 88:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.3|Psalm 88:3 >>]]</td></tr></table>
 
 

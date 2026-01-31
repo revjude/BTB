@@ -7,20 +7,20 @@ Therefore came I forth to meet thee, diligently to seek thy face, and I have fou
 So I came out to meet you; I sought you, and I have found you.<small><sub>**MT:**</sub></small>
 [[Prov.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.14|<< Proverbs 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.16|Proverbs 7:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I come forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meeting | <big><span class="asgreek">συνάντησίν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| feeling the absence | <big><span class="asgreek">ποθούσα</span></big> <sup><small><small>[[G8829]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| I have found | <big><span class="asgreek">εύρηκά</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Because of | **<big>[[G1752\|ένεκα]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| I come forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| meeting | **<big>[[G4877\|συνάντησίν]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| feeling the absence | **<big>[[G8829\|ποθούσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of your | **<big>[[G4674\|σον]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| I have found | **<big>[[G2147\|εύρηκά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Prov.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.14|<< Proverbs 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.16|Proverbs 7:16 >>]]</td></tr></table>
 
 

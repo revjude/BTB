@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁלִישִׁי‎</span></big> **shᵉlîyshîy** <small>*(shel-ee-shee')*</small> ==**third**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>ordinal from <span class="ashebrew">‎שָׁלוֹשׁ‎</span><sup><small>[[H7969]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁלִישִׁי‎</span></big>** **shᵉlîyshîy** <small>*(shel-ee-shee')*</small> ==**third**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>ordinal from **<big>[[H7969|‎שָׁלוֹשׁ‎]]</big>**</small>
 
 $\quad$ third (part, rank, time), three (years old).
 - ***third***

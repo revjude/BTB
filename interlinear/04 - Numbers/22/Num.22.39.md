@@ -6,15 +6,15 @@ So Balaam accompanied Balak, and they came to Kiriath-huzoth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.38|<< Numbers 22:38]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.40|Numbers 22:40 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֥לֶךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.lekh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balaam  | <span class="ashebrew"><big>בִּלְעָ֖ם </big></span><small><small><sup>[[H1109A]]</sup></small></small> &#8207;| bil.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balak  | <span class="ashebrew"><big>בָּלָ֑ק </big></span><small><small><sup>[[H1111]]</sup></small></small> &#8207;| ba.Lak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they came  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּבֹ֖אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Vo.'u <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kiriath-  | <span class="ashebrew"><big>קִרְיַ֥ת </big></span><small><small><sup>[[H7155]]</sup></small></small> &#8207;| kir.Yat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| huzoth  | <span class="ashebrew"><big>חֻצֽוֹת </big></span><small><small><sup>[[H7155]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chu.Tzot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  |**<big>&#8207;[[H1109A\|בִּלְעָ֖ם]]&#8207; </big>**| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  |**<big>&#8207;[[H1111\|בָּלָ֑ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֖אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kiriath-  |**<big>&#8207;[[H7155\|קִרְיַ֥ת]]&#8207; </big>**| kir.Yat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| huzoth  |**<big>&#8207;[[H7155\|חֻצֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chu.Tzot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.38|<< Numbers 22:38]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.40|Numbers 22:40 >>]]</td></tr></table>
 
 

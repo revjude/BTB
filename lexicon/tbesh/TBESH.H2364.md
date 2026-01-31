@@ -1,4 +1,2 @@
-<span class="ashebrew">‎חוּשָׁה‎</span> <small>***(chu.shah)***</small> ==**Hushah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.4.4|1Ch.4.4]]
--  son of: Ezer ([[H5829]])
-
+-  son of: Ezer (**<big>[[H5829|עֵזֶר]]</big>**)

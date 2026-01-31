@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִדְמָה‎</span></big> **qidmâh** <small>*(kid-maw')*</small> ==**east**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎קֶדֶם‎</span><sup><small>[[H6924]]</small></sup></small>
+**<big><span class="ashebrew">‎קִדְמָה‎</span></big>** **qidmâh** <small>*(kid-maw')*</small> ==**east**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6924|‎קֶדֶם‎]]</big>**</small>
 
 $\quad$ east(-ward).
 - ***the forward part*** (or relatively) ***East*** (often adverbially, on the east or in front)

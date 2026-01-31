@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁם‎</span></big> **Shêm** <small>*(shame)*</small> ==**Shem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֵׁם‎</span><sup><small>[[H8034]]</small></sup>; name</small>
+**<big><span class="ashebrew">‎שֵׁם‎</span></big>** **Shêm** <small>*(shame)*</small> ==**Shem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8034|‎שֵׁם‎]]</big>**; name</small>
 
 $\quad$ Sem, Shem.
 - § Shem = *"name"*
@@ -7,4 +7,4 @@ $\quad$ Sem, Shem.
 
 **1)** the eldest son of Noah and progenitor of the Semitic tribes
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σήμ</span><sup><small>[[G4590]]</small></sup>
+<small>See Greek: </small>**<big>[[G4590|Σήμ]]</big>**

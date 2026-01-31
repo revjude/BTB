@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָפַד‎</span></big> **qâphad** <small>*(kaw-fad')*</small> ==**to roll**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָפַד‎</span></big>** **qâphad** <small>*(kaw-fad')*</small> ==**to roll**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut off.

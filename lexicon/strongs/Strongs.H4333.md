@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִישָׁאֵל‎</span></big> **Mîyshâʼêl** <small>*(mee-shaw-ale')*</small> ==**Mishael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מִישָׁאֵל‎</span><sup><small>[[H4332]]</small></sup></small>
+**<big><span class="ashebrew">‎מִישָׁאֵל‎</span></big>** **Mîyshâʼêl** <small>*(mee-shaw-ale')*</small> ==**Mishael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4332|‎מִישָׁאֵל‎]]</big>**</small>
 
 $\quad$ Mishael.
 - § Mishael = *"who is what God is"*

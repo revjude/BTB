@@ -4,9 +4,9 @@ Priest living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ithamar</span> was the fourth and youngest son of Aaron, who served as a priest alongside his brothers Nadab, Abihu, and Eleazar \([[Exod.6.23|Exo.6.23]]; [[Num.3.2|Num.3.2]]\).
 - A priest from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.23|Exo.6.23]]; 
-- only referred to as Ithamar<[[H0385]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Aaron<[[H0175]]> and Elisheba<[[H0472]]>; 
-- a brother of Nadab<[[H5070G]]>, Abihu<[[H0030]]> and Eleazar<[[H0499G]]>.
+- only referred to as Ithamar **<big>[[H0385|אִיתָמָר]]</big>**; 
+-  son of Aaron **<big>[[H0175|אַהֲרוֹן]]</big>** and Elisheba **<big>[[H0472|אֱלִישֶׁבַע]]</big>**; 
+- a brother of Nadab **<big>[[H5070|נָדָב]]</big>**, Abihu **<big>[[H0030|אֲבִיהוּא]]</big>** and Eleazar **<big>[[H0499|אֶלְעָזָר]]</big>**.
 
 Ithamar was the fourth and youngest son of Aaron, the first high priest of Israel \([[Exod.6.23|Exo.6.23]]\). He served as a priest alongside his brothers Nadab, Abihu, and Eleazar \([[Num.3.2|Num.3.2]]\). After the deaths of Nadab and Abihu for offering unauthorized fire before the Lord \(Lev.10.1-2\), Ithamar and Eleazar were warned not to mourn for them openly \([[Lev.10.6|Lev.10.6]]\). 
 
@@ -18,8 +18,8 @@ In [[Ezra.8.2|Ezra 8:2]], a descendant of Ithamar named Daniel is mentioned amon
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ithamar | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H0385) <small>*Hebrew*</small> | 21x | [[Exo.6.23] ... [Ezr.8.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithamar\*\|reference=Exo.6.23;Exo.28.1;Exo.38.21;Lev.10.6;Lev.10.12;Lev.10.16;Num.3.2;Num.3.4;Num.4.28;Num.4.33;Num.7.8;Num.26.60;1Ch.6.3;1Ch.24.1;1Ch.24.2;1Ch.24.3;1Ch.24.4;1Ch.24.4;1Ch.24.5;1Ch.24.6;Ezr.8.2) |
-All Strong's for **Ithamar**: \[[[H0385]]\]
+| Ithamar | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H0385) | 21x | [[Exo.6.23] ... [Ezr.8.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithamar\*\|reference=Exo.6.23;Exo.28.1;Exo.38.21;Lev.10.6;Lev.10.12;Lev.10.16;Num.3.2;Num.3.4;Num.4.28;Num.4.33;Num.7.8;Num.26.60;1Ch.6.3;1Ch.24.1;1Ch.24.2;1Ch.24.3;1Ch.24.4;1Ch.24.4;1Ch.24.5;1Ch.24.6;Ezr.8.2) |
+All entries for **Ithamar**:  **<big>[[H0385|אִיתָמָר]]</big>**
 #### Related Profiles:
 - **[Aaron](H0175)** (father)
 - **[Elisheba](H0472)** (mother)

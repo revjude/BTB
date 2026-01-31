@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲכִילָה‎</span></big> **Chăkîylâh** <small>*(khak-ee-law')*</small> ==**Hachilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎חַכְלִיל‎</span><sup><small>[[H2447]]</small></sup>; dark</small>
+**<big><span class="ashebrew">‎חֲכִילָה‎</span></big>** **Chăkîylâh** <small>*(khak-ee-law')*</small> ==**Hachilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H2447|‎חַכְלִיל‎]]</big>**; dark</small>
 
 $\quad$ Hachilah.
 - § Hachilah = *"dark"*

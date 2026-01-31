@@ -4,10 +4,10 @@ Woman living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nehushta</span>, the daughter of Elnathan of Jerusalem, was the mother of King Jehoiachin of Judah.
 - A woman living at the time of Divided Monarchy, only mentioned at [[2Kgs.24.8|2Ki.24.8]]; 
-- only referred to as Nehushta<[[H5179]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>\); 
-- a daughter of Elnathan<[[H0494G]]>; 
-- wife of Jehoiakim<[[H3079]]>; 
--  mother of Jehoiachin<[[H3078]]>.
+- only referred to as Nehushta **<big>[[H5179|נְחֻשְׁתָּא]]</big>**; 
+- a daughter of Elnathan **<big>[[H0494|אֶלְנָתָן]]</big>**; 
+- wife of Jehoiakim **<big>[[H3079|יְהוֹיָקִים]]</big>**; 
+-  mother of Jehoiachin **<big>[[H3078|יְהוֹיָכִין]]</big>**.
 
 Nehushta is mentioned in [[2Kgs.24.8|2 Kings 24:8]] as the mother of King Jehoiachin \(also known as Jeconiah\) of Judah. She was the daughter of Elnathan, a prominent figure from Jerusalem. 
 
@@ -23,8 +23,8 @@ The inclusion of Nehushta's name and lineage in the account of Jehoiachin's reig
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nehushta | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>](H5179) <small>*Hebrew*</small> | 1x | [2Ki.24.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehushta\*\|reference=2Ki.24.8) |
-All Strong's for **Nehushta**: \[[[H5179]]\]
+| Nehushta | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>א</span>](H5179) | 1x | [2Ki.24.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehushta\*\|reference=2Ki.24.8) |
+All entries for **Nehushta**:  **<big>[[H5179|נְחֻשְׁתָּא]]</big>**
 #### Related Profiles:
 - **[Elnathan](H0494G)** (father)
 - **[Jehoiakim](H3079)** (spouse)

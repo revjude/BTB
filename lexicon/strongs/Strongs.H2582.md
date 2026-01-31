@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵנָדָד‎</span></big> **Chênâdâd** <small>*(khay-naw-dawd')*</small> ==**Henadad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎חֵן‎</span><sup><small>[[H2580]]</small></sup> and <span class="ashebrew">‎הֲדַד‎</span><sup><small>[[H1908]]</small></sup>; favor of Hadad</small>
+**<big><span class="ashebrew">‎חֵנָדָד‎</span></big>** **Chênâdâd** <small>*(khay-naw-dawd')*</small> ==**Henadad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H2580|‎חֵן‎]]</big>** and **<big>[[H1908|‎הֲדַד‎]]</big>**; favor of Hadad</small>
 
 $\quad$ Henadad.
 - § Henadad = *"favour of Hadad"*

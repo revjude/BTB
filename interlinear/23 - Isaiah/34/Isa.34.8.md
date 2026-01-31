@@ -6,16 +6,16 @@ For the LORD has a day of vengeance, a year of recompense for the cause of Zion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.7|<< Isaiah 34:7]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.9|Isaiah 34:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a day of  | <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vengeance  | <span class="ashebrew"><big>נָקָ֖ם </big></span><small><small><sup>[[H5359]]</sup></small></small> &#8207;| na.Kam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year of  | <span class="ashebrew"><big>שְׁנַ֥ת </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| she.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| retribution\<s>  | <span class="ashebrew"><big>שִׁלּוּמִ֖ים </big></span><small><small><sup>[[H7966]]</sup></small></small> &#8207;| shi.lu.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] cause of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רִ֥יב </big></span><small><small><sup>[[H7379]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Riv <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּֽוֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a day of  |**<big>&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vengeance  |**<big>&#8207;[[H5359\|נָקָ֖ם]]&#8207; </big>**| na.Kam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year of  |**<big>&#8207;[[H8141\|שְׁנַ֥ת]]&#8207; </big>**| she.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| retribution\<s>  |**<big>&#8207;[[H7966\|שִׁלּוּמִ֖ים]]&#8207; </big>**| shi.lu.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] cause of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7379\|רִ֥יב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Riv<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.7|<< Isaiah 34:7]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.9|Isaiah 34:9 >>]]</td></tr></table>
 
 

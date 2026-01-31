@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְקוֹדָא‎</span></big> **Nᵉqôwdâʼ** <small>*(nek-o-daw')*</small> ==**Nekoda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נָקֹד‎</span><sup><small>[[H5348]]</small></sup> (in the figurative sense of marked); distinction</small>
+**<big><span class="ashebrew">‎נְקוֹדָא‎</span></big>** **Nᵉqôwdâʼ** <small>*(nek-o-daw')*</small> ==**Nekoda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>feminine of **<big>[[H5348|‎נָקֹד‎]]</big>** (in the figurative sense of marked); distinction</small>
 
 $\quad$ Nekoda.
 - § Nekoda = *"distinguished"*

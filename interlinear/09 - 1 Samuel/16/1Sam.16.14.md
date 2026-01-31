@@ -6,18 +6,18 @@ Now the Spirit of the LORD departed from Saul, and a spirit of distress from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.13|<< 1 Samuel 16:13]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.15|1 Samuel 16:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] spirit of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ר֧וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it departed  | <span class="ashebrew"><big>סָ֖רָה </big></span><small><small><sup>[[H5493H]]</sup></small></small> &#8207;| Sa.rah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עִ֣ם </big></span><small><small><sup>[[H5973B]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Im <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֑וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it terrified him  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בִֽעֲתַ֥תּ </big></span><small><small><sup>[[H1204]]</sup></small></small> <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> vi.'a.Ta.t <small><sup>[[HVpq3fs]]</sup></small> u <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit  | <span class="ashebrew"><big>רֽוּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Ru.ach- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָעָ֖ה </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] spirit of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֧וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it departed  |**<big>&#8207;[[H5493H\|סָ֖רָה]]&#8207; </big>**| Sa.rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5973B\|עִ֣ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֑וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it terrified him  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1204\|בִֽעֲתַ֥תּ]]&#8207;&#8207;[[H9033\|וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.'a.Ta.t<small><sup>[[HVpq3fs]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit  |**<big>&#8207;[[H7307G\|רֽוּחַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ru.ach-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451A\|רָעָ֖ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֥ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.13|<< 1 Samuel 16:13]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.15|1 Samuel 16:15 >>]]</td></tr></table>
 
 

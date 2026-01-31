@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂבַע‎</span></big> **sâbaʻ** <small>*(saw-bah')*</small> ==**to satisfy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">שָׂבֵעַ</span> **sâbêaʻ** <small>*(saw-bay'-ah)*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎שָׂבַע‎</span></big>** **sâbaʻ** <small>*(saw-bah')*</small> ==**to satisfy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׂבֵעַ</span></big>** **sâbêaʻ** <small>*(saw-bay'-ah)*</small>; a primitive root</small>
 
 $\quad$ have enough, fill (full, self, with), be (to the) full (of), have plenty of, be satiate, satisfy (with), suffice, be weary of.
 - ***to sate***, i.e. ***fill to satisfaction*** (literally or figuratively)
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c1)** to satisfy
 $\quad$ $\quad$ **1c2)** to enrich
 $\quad$ $\quad$ **1c3)** to sate, glut (with the undesired)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπίπλημι</span><sup><small>[[G1705]]</small></sup> · <span class="asgreek">πληθύνω</span><sup><small>[[G4129]]</small></sup> · <span class="asgreek">πλήθω</span><sup><small>[[G4130]]</small></sup> · <span class="asgreek">πληρόω</span><sup><small>[[G4137]]</small></sup> · <span class="asgreek">χορτάζω</span><sup><small>[[G5526]]</small></sup>
+<small>See Greek: </small>**<big>[[G1705|ἐμπίπλημι]]</big>** · **<big>[[G4129|πληθύνω]]</big>** · **<big>[[G4130|πλήθω]]</big>** · **<big>[[G4137|πληρόω]]</big>** · **<big>[[G5526|χορτάζω]]</big>**

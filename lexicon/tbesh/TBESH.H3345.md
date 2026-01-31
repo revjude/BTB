@@ -1,4 +1,3 @@
-<span class="asaramaic">‎יְקַד‎</span> <small>***(ye.qad)***</small> ==**to burn**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H3344]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3344|יָקַד]]</big>**</small> 
 
-- Aramaic of <i>ya.qad</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ק‎</span>ַ<span class='ashebrew'>‎ד‎</span> "to burn" [[H3344]])
+- Aramaic of <i>ya.qad</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ק‎</span>ַ<span class='ashebrew'>‎ד‎</span> "to burn" **<big>[[H3344|יָקַד]]</big>**)

@@ -6,16 +6,16 @@ Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.13|<< Genesis 32:13]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.15|Genesis 32:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| female goats  | <span class="ashebrew"><big>עִזִּ֣ים </big></span><small><small><sup>[[H5795]]</sup></small></small> &#8207;| 'i.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two hundred  | <span class="ashebrew"><big>מָאתַ֔יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| ma.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and male goats  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְיָשִׁ֖ים </big></span><small><small><sup>[[H8495]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.ya.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֑ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ewes  | <span class="ashebrew"><big>רְחֵלִ֥ים </big></span><small><small><sup>[[H7353]]</sup></small></small> &#8207;| re.che.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two hundred  | <span class="ashebrew"><big>מָאתַ֖יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| ma.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and rams  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵילִ֥ים </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twenty  | <span class="ashebrew"><big>עֶשְׂרִֽים </big></span><small><small><sup>[[H6242]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| female goats  |**<big>&#8207;[[H5795\|עִזִּ֣ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two hundred  |**<big>&#8207;[[H3967\|מָאתַ֔יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and male goats  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8495\|תְיָשִׁ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.ya.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֑ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ewes  |**<big>&#8207;[[H7353\|רְחֵלִ֥ים]]&#8207; </big>**| re.che.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two hundred  |**<big>&#8207;[[H3967\|מָאתַ֖יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rams  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0352A\|אֵילִ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.13|<< Genesis 32:13]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.15|Genesis 32:15 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲרִיסַי‎</span></big> **ʼĂrîyçay** <small>*(ar-ee-sah'-ee)*</small> ==**Arisai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲרִיסַי‎</span></big>** **ʼĂrîyçay** <small>*(ar-ee-sah'-ee)*</small> ==**Arisai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Arisai.

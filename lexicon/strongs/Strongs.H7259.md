@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רִבְקָה‎</span></big> **Ribqâh** <small>*(rib-kaw')*</small> ==**Rebekah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎רִבְקָה‎</span></big>** **Ribqâh** <small>*(rib-kaw')*</small> ==**Rebekah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>from an unused root probably meaning to clog by tying up the fetlock; fettering (by beauty)</small>
 
 $\quad$ Rebekah.
@@ -7,4 +7,4 @@ $\quad$ Rebekah.
 
 **1)** daughter of Bethuel, sister of Laban, wife of Isaac, and mother of Esau and Jacob
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ῥεβέκκα</span><sup><small>[[G4479]]</small></sup>
+<small>See Greek: </small>**<big>[[G4479|Ῥεβέκκα]]</big>**

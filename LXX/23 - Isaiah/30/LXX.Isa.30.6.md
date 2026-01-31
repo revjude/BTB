@@ -10,54 +10,54 @@ The burden of the beasts of the south: into the land of trouble and anguish, fro
 This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them.<small><sub>**MT:**</sub></small>
 [[Isa.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.5|<< Isaiah 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.7|Isaiah 30:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed, | <big><span class="asgreek">τετραπόδων</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| straits | <big><span class="asgreek">στενοχωρία</span></big> <sup><small><small>[[G4730]]</small></small></sup> |
-| \[are the\] lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| lion's | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| asps | <big><span class="asgreek">ασπίδες</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] progeny | <big><span class="asgreek">έκγονα</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
-| asps | <big><span class="asgreek">ασπίδων</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
-| of flying | <big><span class="asgreek">πετομένων</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| brought | <big><span class="asgreek">έφερον</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνων</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| camels | <big><span class="asgreek">καμήλων</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| who | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| benefit | <big><span class="asgreek">ωφελήσει</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| help, | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scorn. | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| four-footed, | **<big>[[G5074\|τετραπόδων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| affliction | **<big>[[G2347\|θλίψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| straits | **<big>[[G4730\|στενοχωρία]]</big>** |
+| \[are the\] lion | **<big>[[G3023\|λέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cub | **<big>[[G9121\|σκύμνος]]</big>** |
+| lion's | **<big>[[G3023\|λέοντος]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| asps | **<big>[[G0785\|ασπίδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] progeny | **<big>[[G1549\|έκγονα]]</big>** |
+| asps | **<big>[[G0785\|ασπίδων]]</big>** |
+| of flying | **<big>[[G4072\|πετομένων]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| brought | **<big>[[G5342\|έφερον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| donkeys | **<big>[[G3688\|όνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| camels | **<big>[[G2574\|καμήλων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of their riches | **<big>[[G4149\|πλούτον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| who | **<big>[[G3739\|ο]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| benefit | **<big>[[G5623\|ωφελήσει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| help, | **<big>[[G0996\|βοήθειαν]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| shame | **<big>[[G0152\|αισχύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scorn. | **<big>[[G3681\|όνειδος]]</big>** |
 [[Isa.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.5|<< Isaiah 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.7|Isaiah 30:7 >>]]</td></tr></table>
 
 

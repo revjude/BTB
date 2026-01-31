@@ -7,21 +7,21 @@ The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O Go
 The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise.<small><sub>**MT:**</sub></small>
 [[Ps.51.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.16|<< Psalm 51:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.18|Psalm 51:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] a spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| being broken; | <big><span class="asgreek">συντετριμμένον</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| a heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| being broken | <big><span class="asgreek">συντετριμμένην</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| humbled | <big><span class="asgreek">τεταπεινωμένην</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| treat with contempt | <big><span class="asgreek">εξουδενώσει</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| A sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God | **<big>[[G2316\|θεώ]]</big>** |
+| \[is\] a spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| being broken; | **<big>[[G4937\|συντετριμμένον]]</big>** |
+| a heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| being broken | **<big>[[G4937\|συντετριμμένην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| humbled | **<big>[[G5013\|τεταπεινωμένην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| treat with contempt | **<big>[[G1847\|εξουδενώσει]]</big>** |
 [[Ps.51.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.16|<< Psalm 51:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.18|Psalm 51:18 >>]]</td></tr></table>
 
 

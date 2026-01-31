@@ -7,37 +7,37 @@ And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? 
 But his wife Jezebel said to him, “Do you not reign over Israel? Get up, eat some food, and be cheerful, for I will get you the vineyard of Naboth the Jezreelite.”<small><sub>**MT:**</sub></small>
 [[1Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jezebel | <big><span class="asgreek">Ιεζάβελ</span></big> <sup><small><small>[[G2403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| act | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[as\] king | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Rise up, | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread, | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| be | <big><span class="asgreek">γενού</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vineyard | <big><span class="asgreek">αμπελώνα</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| of Naboth | <big><span class="asgreek">Ναβούθ</span></big> <sup><small><small>[[H5022]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jezreelite. | <big><span class="asgreek">Ιεζραηλίτου</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Jezebel | **<big>[[G2403\|Ιεζάβελ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Do you | **<big>[[G1473\|συ]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| so | **<big>[[G3779\|ούτω]]</big>** |
+| act | **<big>[[G4160\|ποιείς]]</big>** |
+| \[as\] king | **<big>[[G0935\|βασιλείς]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Rise up, | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eat | **<big>[[G2068\|φάγε]]</big>** |
+| bread, | **<big>[[G0740\|άρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| yourself | **<big>[[G4572\|σαυτού]]</big>** |
+| be | **<big>[[G1096\|γενού]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| vineyard | **<big>[[G0290\|αμπελώνα]]</big>** |
+| of Naboth | **<big>[[H5022\|Ναβούθ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jezreelite. | **<big>[[H3157\|Ιεζραηλίτου]]</big>** |
 [[1Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
 
 

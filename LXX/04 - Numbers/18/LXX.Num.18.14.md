@@ -7,14 +7,14 @@ Every thing devoted in Israel shall be thine.
 Every devoted thing in Israel belongs to you.<small><sub>**MT:**</sub></small>
 [[Num.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.13|<< Numbers 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.15|Numbers 18:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every \[thing\] | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| being devoted to consumption | <big><span class="asgreek">ανατεθεματισμένον</span></big> <sup><small><small>[[G0332]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| shall be to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Every \[thing\] | **<big>[[G3956\|παν]]</big>** |
+| being devoted to consumption | **<big>[[G0332\|ανατεθεματισμένον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| shall be to you. | **<big>[[G1473\|σοι]]</big>** **<big>[[G1510\|έσται]]</big>** |
 [[Num.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.13|<< Numbers 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.15|Numbers 18:15 >>]]</td></tr></table>
 
 

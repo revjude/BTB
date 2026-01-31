@@ -7,45 +7,45 @@ Go and proclaim these words toward the north, and say, Return, thou backsliding 
 Go, proclaim this message toward the north: ‘Return, O faithless Israel,’ declares the LORD. ‘I will no longer look on you with anger, for I am merciful,’ declares the LORD. ‘I will not be angry forever.<small><sub>**MT:**</sub></small>
 [[Jer.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.11|<< Jeremiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.13|Jeremiah 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Go | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| read | <big><span class="asgreek">ανάγνωθι</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north! | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Return | <big><span class="asgreek">επιστράφητι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">κατοικία</span></big> <sup><small><small>[[G2733]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I firmly fix | <big><span class="asgreek">στηρίσω</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| merciful | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
-| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be infuriated | <big><span class="asgreek">μηνιώ</span></big> <sup><small><small>[[G8320]]</small></small></sup> |
-| with you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| Go | **<big>[[G4198\|πορεύου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| read | **<big>[[G0314\|ανάγνωθι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north! | **<big>[[G1005\|βορράν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| Return | **<big>[[G1994\|επιστράφητι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O | **<big>[[G3588\|η]]</big>** |
+| house | **<big>[[G2733\|κατοικία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I firmly fix | **<big>[[G4741\|στηρίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| merciful | **<big>[[G1655\|ελεήμων]]</big>** |
+| I am | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be infuriated | **<big>[[G8320\|μηνιώ]]</big>** |
+| with you | **<big>[[G1473\|υμίν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
 [[Jer.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.11|<< Jeremiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.13|Jeremiah 3:13 >>]]</td></tr></table>
 
 

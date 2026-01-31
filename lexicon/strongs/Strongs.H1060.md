@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּכוֹר‎</span></big> **bᵉkôwr** <small>*(bek-ore')*</small> ==**firstborn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּכַר‎</span><sup><small>[[H1069]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּכוֹר‎</span></big>** **bᵉkôwr** <small>*(bek-ore')*</small> ==**firstborn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1069|‎בָּכַר‎]]</big>**</small>
 
 $\quad$ eldest (son), firstborn(-ling).
 - ***firstborn***
@@ -10,4 +10,4 @@ $\quad$ **1a)** of men and women
 $\quad$ **1b)** of animals
 $\quad$ **1c)** noun of relation (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παιδίον</span><sup><small>[[G3813]]</small></sup> · <span class="asgreek">πρωτότοκος</span><sup><small>[[G4416]]</small></sup>
+<small>See Greek: </small>**<big>[[G3813|παιδίον]]</big>** · **<big>[[G4416|πρωτότοκος]]</big>**

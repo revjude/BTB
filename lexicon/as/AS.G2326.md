@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">θερισμός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">θερίζω</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">קָצִיר</span> <small><sup>[[H7105]]</sup></small>;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">θερισμός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">θερίζω</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7105|קָצִיר]]</big>**;\] </span> </span>
 <span class="asitalic">harvest</span>;
 <span class="asbullet"><span class="asbold">(a)</span> the act: [[John.4.35|Jo 4:35]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> the time: fig., [[Matt.13.30|Mt 13:30]], [[Matt.13.39|39]], [[Mark.4.29|Mk 4:29]]</span>

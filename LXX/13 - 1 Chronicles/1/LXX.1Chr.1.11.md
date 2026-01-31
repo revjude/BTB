@@ -7,22 +7,22 @@ And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,<small><sub>**MT:**</sub></small>
 [[1Chr.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.10|<< 1 Chronicles 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.12|1 Chronicles 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mizraim | <big><span class="asgreek">Μεσραϊμ</span></big> <sup><small><small>[[H4714]]</small></small></sup> |
-| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ludim, | <big><span class="asgreek">Λουδιείμ</span></big> <sup><small><small>[[H3866]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Anamim, | <big><span class="asgreek">Αινομίμ</span></big> <sup><small><small>[[H6047]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lehabim, | <big><span class="asgreek">Λαβίμ</span></big> <sup><small><small>[[H3853]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Naphuhim | <big><span class="asgreek">Νεφθωχίμ</span></big> <sup><small><small>[[H5320]]</small></small></sup> |
+|  | **<big>[[G2532\|και]]</big>** |
+| Mizraim | **<big>[[H4714\|Μεσραϊμ]]</big>** |
+| procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Ludim, | **<big>[[H3866\|Λουδιείμ]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Anamim, | **<big>[[H6047\|Αινομίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Lehabim, | **<big>[[H3853\|Λαβίμ]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Naphuhim | **<big>[[H5320\|Νεφθωχίμ]]</big>** |
 [[1Chr.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.10|<< 1 Chronicles 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.12|1 Chronicles 1:12 >>]]</td></tr></table>
 
 

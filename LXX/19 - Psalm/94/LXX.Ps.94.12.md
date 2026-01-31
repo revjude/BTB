@@ -7,20 +7,20 @@ Blessed [is] the man whom thou chastenest, O LORD, and teachest him out of thy l
 Blessed is the man You discipline, O LORD, and teach from Your law,<small><sub>**MT:**</sub></small>
 [[Ps.94.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.11|<< Psalm 94:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.13|Psalm 94:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed \[is\] | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should correct, | <big><span class="asgreek">παιδεύσης</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should teach | <big><span class="asgreek">διδάξης</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Blessed \[is\] | **<big>[[G3107\|μακάριος]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should correct, | **<big>[[G3811\|παιδεύσης]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your law | **<big>[[G3551\|νόμου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you should teach | **<big>[[G1321\|διδάξης]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.94.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.11|<< Psalm 94:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.13|Psalm 94:13 >>]]</td></tr></table>
 
 

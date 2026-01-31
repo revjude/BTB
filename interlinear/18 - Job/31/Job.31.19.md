@@ -6,16 +6,16 @@ if I have seen one perish for lack of clothing, or a needy man without a cloak,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.18|<< Job 31:18]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.20|Job 31:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I saw  | <span class="ashebrew"><big>אֶרְאֶ֣ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| 'er.'Eh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] was perishing  | <span class="ashebrew"><big>א֭וֹבֵד </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| 'O.ved <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because not  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בְּלִ֣י </big></span><small><small><sup>[[H1097]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> be.Li <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clothing  | <span class="ashebrew"><big>לְב֑וּשׁ </big></span><small><small><sup>[[H3830]]</sup></small></small> &#8207;| le.Vush <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covering  | <span class="ashebrew"><big>כְּ֝ס֗וּת </big></span><small><small><sup>[[H3682]]</sup></small></small> &#8207;| ke.Sut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to the needy [person]  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֶבְיֽוֹן </big></span><small><small><sup>[[H0034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'ev.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I saw  |**<big>&#8207;[[H7200G\|אֶרְאֶ֣ה]]&#8207; </big>**| 'er.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] was perishing  |**<big>&#8207;[[H0006\|א֭וֹבֵד]]&#8207; </big>**| 'O.ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because not  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1097\|בְּלִ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Li<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothing  |**<big>&#8207;[[H3830\|לְב֑וּשׁ]]&#8207; </big>**| le.Vush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covering  |**<big>&#8207;[[H3682\|כְּ֝ס֗וּת]]&#8207; </big>**| ke.Sut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to the needy [person]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0034\|אֶבְיֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.18|<< Job 31:18]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.20|Job 31:20 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּאַשׁ‎</span></big> **bâʼash** <small>*(baw-ash')*</small> ==**to stink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּאַשׁ‎</span></big>** **bâʼash** <small>*(baw-ash')*</small> ==**to stink**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make to) be abhorred (had in abomination, loathsome, odious), (cause a, make to) stink(-ing savour), [idiom] utterly.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c3)** of wickedness (fig.)
 $\quad$ **1d)** (Hithpael) to make oneself odious
 **2)** (TWOT) to abhor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰσχύνομαι</span><sup><small>[[G0153]]</small></sup> · <span class="asgreek">ὄζω</span><sup><small>[[G3605]]</small></sup> · <span class="asgreek">ὀσμή</span><sup><small>[[G3744]]</small></sup>
+<small>See Greek: </small>**<big>[[G0153|αἰσχύνομαι]]</big>** · **<big>[[G3605|ὄζω]]</big>** · **<big>[[G3744|ὀσμή]]</big>**

@@ -6,15 +6,15 @@ For I have eaten ashes like bread and mixed my drink with tears
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.8|<< Psalms 102:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.10|Psalms 102:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ash[es]  | <span class="ashebrew"><big>אֵ֭פֶר </big></span><small><small><sup>[[H0665]]</sup></small></small> &#8207;| 'E.fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> food  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לֶּ֣חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have eaten  | <span class="ashebrew"><big>אָכָ֑לְתִּי </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.Khal.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and drinks my  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁקֻּוַ֗ </big></span><small><small><sup>[[H8249]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shi.ku.Va <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with weeping  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בְכִ֥י </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> v.Khi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have mixed  | <span class="ashebrew"><big>מָסָֽכְתִּי </big></span><small><small><sup>[[H4537]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.Sa.khe.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ash[es]  |**<big>&#8207;[[H0665\|אֵ֭פֶר]]&#8207; </big>**| 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> food  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3899H\|לֶּ֣חֶם]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have eaten  |**<big>&#8207;[[H0398\|אָכָ֑לְתִּי]]&#8207; </big>**| 'a.Khal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drinks my  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8249\|שִׁקֻּוַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.ku.Va<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with weeping  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1065\|בְכִ֥י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> v.Khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have mixed  |**<big>&#8207;[[H4537\|מָסָֽכְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Sa.khe.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.8|<< Psalms 102:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.10|Psalms 102:10 >>]]</td></tr></table>
 
 

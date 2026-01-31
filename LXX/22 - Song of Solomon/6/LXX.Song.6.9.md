@@ -7,31 +7,31 @@ My dove, my undefiled is [but] one; she [is] the [only] one of her mother, she [
 but my dove, my perfect one, is unique, the favorite of the mother who bore her. The maidens see her and call her blessed; the queens and concubines sing her praises.<small><sub>**MT:**</sub></small>
 [[Song.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.8|<< Song of Solomon 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.10|Song of Solomon 6:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| My dove | <big><span class="asgreek">πειρστερά</span></big> <sup><small><small>[[G4058]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my perfect one. | <big><span class="asgreek">τελεία</span></big> <sup><small><small>[[G5046]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| She is \[the only\] one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mother; | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] choice one | <big><span class="asgreek">εκλεκτή</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one giving birth to | <big><span class="asgreek">τεκούση</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδοσαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will declare her blessed | <big><span class="asgreek">μακαριούσιν</span></big> <sup><small><small>[[G3106]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| queens | <big><span class="asgreek">βασίλισσαι</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \[the\] concubines | <big><span class="asgreek">παλλακαί</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall praise | <big><span class="asgreek">αινέσουσιν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is one | **<big>[[G1520\|μία]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| My dove | **<big>[[G4058\|πειρστερά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my perfect one. | **<big>[[G5046\|τελεία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| She is \[the only\] one | **<big>[[G1520\|μία]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her mother; | **<big>[[G3384\|μητρί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[the\] choice one | **<big>[[G1588\|εκλεκτή]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| one giving birth to | **<big>[[G5088\|τεκούση]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| beheld | **<big>[[G1492\|είδοσαν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| \[The\] daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will declare her blessed | **<big>[[G3106\|μακαριούσιν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| queens | **<big>[[G0938\|βασίλισσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| \[the\] concubines | **<big>[[G8589\|παλλακαί]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| shall praise | **<big>[[G0134\|αινέσουσιν]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Song.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.8|<< Song of Solomon 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.10|Song of Solomon 6:10 >>]]</td></tr></table>
 
 

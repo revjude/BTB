@@ -6,18 +6,18 @@ to execute the judgment written against them. This honor is for all His saints. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.8|<< Psalms 149:8]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.150.1|Psalms 150:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to execute  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲשׂ֤וֹת </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.Sot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הֶ֨ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgment  | <span class="ashebrew"><big>מִשְׁפָּ֬ט </big></span><small><small><sup>[[H4941G]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| written  | <span class="ashebrew"><big>כָּת֗וּב </big></span><small><small><sup>[[H3789]]</sup></small></small> &#8207;| ka.Tuv <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] honor  | <span class="ashebrew"><big>הָדָ֣ר </big></span><small><small><sup>[[H1926]]</sup></small></small> &#8207;| ha.Dar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֭וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for all  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithful [people] his  | <span class="ashebrew"><big>חֲסִידָ֗י </big></span><small><small><sup>[[H2623]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cha.si.Da <small><sup>[[HAampc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| praise  | <span class="ashebrew"><big>הַֽלְלוּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha.lu- <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָֽהּ </big></span><small><small><sup>[[H3050]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to execute  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֤וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgment  |**<big>&#8207;[[H4941G\|מִשְׁפָּ֬ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| written  |**<big>&#8207;[[H3789\|כָּת֗וּב]]&#8207; </big>**| ka.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] honor  |**<big>&#8207;[[H1926\|הָדָ֣ר]]&#8207; </big>**| ha.Dar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֭וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithful [people] his  |**<big>&#8207;[[H2623\|חֲסִידָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| cha.si.Da<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H1984B\|הַֽלְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.lu-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָֽהּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.8|<< Psalms 149:8]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.150.1|Psalms 150:1 >>]]</td></tr></table>
 
 

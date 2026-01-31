@@ -7,19 +7,19 @@ And in the porch of the gate [were] two tables on this side, and two tables on t
 Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered.<small><sub>**MT:**</sub></small>
 [[Ezek.40.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.38|<< Ezekiel 40:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.40|Ezekiel 40:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they should slay | <big><span class="asgreek">σφαζωσιν</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| an ignorance \[offering\]. | <big><span class="asgreek">αγνοίας</span></big> <sup><small><small>[[G0052]]</small></small></sup> |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| they should slay | **<big>[[G4969\|σφαζωσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| an ignorance \[offering\]. | **<big>[[G0052\|αγνοίας]]</big>** |
 [[Ezek.40.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.38|<< Ezekiel 40:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.40|Ezekiel 40:40 >>]]</td></tr></table>
 
 

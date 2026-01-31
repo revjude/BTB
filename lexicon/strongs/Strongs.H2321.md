@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹדֶשׁ‎</span></big> **Chôdesh** <small>*(kho'-desh)*</small> ==**Hodesh**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חֹדֶשׁ‎</span><sup><small>[[H2320]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹדֶשׁ‎</span></big>** **Chôdesh** <small>*(kho'-desh)*</small> ==**Hodesh**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H2320|‎חֹדֶשׁ‎]]</big>**</small>
 
 $\quad$ Hodesh.
 - § Hodesh = *"new moon"*

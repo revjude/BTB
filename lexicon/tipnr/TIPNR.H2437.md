@@ -4,7 +4,7 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Hirah</span> was an Adullamite who was a close friend of Judah, the son of Jacob.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.38.1|Gen.38.1]]; 
-- only referred to as Hirah<[[H2437]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hirah **<big>[[H2437|חִירָה]]</big>**.
 
 Hirah is mentioned in [[Gen.38.1|Genesis 38:1]] and 12 as an Adullamite who was a close friend of Judah, the fourth son of Israel \(or 'Jacob'\). Adullam was a Canaanite city located in the Shephelah, the foothills between the coastal plain and the Judean hills. 
 
@@ -16,5 +16,5 @@ Hirah's presence in these narratives suggests that he was a trusted companion of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hirah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2437) <small>*Hebrew*</small> | 2x | [[Gen.38.1] & [Gen.38.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hirah\*\|reference=Gen.38.1;Gen.38.12) |
-All Strong's for **Hirah**: \[[[H2437]]\]
+| Hirah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2437) | 2x | [[Gen.38.1] & [Gen.38.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hirah\*\|reference=Gen.38.1;Gen.38.12) |
+All entries for **Hirah**:  **<big>[[H2437|חִירָה]]</big>**

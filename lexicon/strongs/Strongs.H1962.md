@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הַיָּה‎</span></big> **hayâh** <small>*(hah-yaw')*</small> ==**calamity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>another form for <span class="ashebrew">‎הֹוָה‎</span><sup><small>[[H1943]]</small></sup></small>
+**<big><span class="ashebrew">‎הַיָּה‎</span></big>** **hayâh** <small>*(hah-yaw')*</small> ==**calamity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>another form for **<big>[[H1943|‎הֹוָה‎]]</big>**</small>
 
 $\quad$ calamity.
 - ***ruin***

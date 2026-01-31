@@ -7,26 +7,26 @@ And the thing was known to Mordecai, who told [it] unto Esther the queen; and Es
 When Mordecai learned of the plot, he reported it to Queen Esther, and she informed the king on Mordecai’s behalf.<small><sub>**MT:**</sub></small>
 [[Esth.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.21|<< Esther 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.23|Esther 2:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was made manifest | <big><span class="asgreek">εδηλώθη</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to Mordecai | <big><span class="asgreek">Μαρδοχαίω</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he signaled | <big><span class="asgreek">εσήμανεν</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Esther, | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| revealed | <big><span class="asgreek">ενεφάνισε</span></big> <sup><small><small>[[G1718]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plot. | <big><span class="asgreek">επιβουλής</span></big> <sup><small><small>[[G1917]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was made manifest | **<big>[[G1213\|εδηλώθη]]</big>** |
+| to Mordecai | **<big>[[H4782\|Μαρδοχαίω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| matter | **<big>[[G3056\|λόγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he signaled | **<big>[[G4591\|εσήμανεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Esther, | **<big>[[H0635\|Εσθήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|αυτή]]</big>** |
+| revealed | **<big>[[G1718\|ενεφάνισε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| plot. | **<big>[[G1917\|επιβουλής]]</big>** |
 [[Esth.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.21|<< Esther 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.23|Esther 2:23 >>]]</td></tr></table>
 
 

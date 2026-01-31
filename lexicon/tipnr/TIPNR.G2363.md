@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Thyatira</span>, a city in Asia Minor, known for its dyeing industry and the home of Lydia, a convert of Paul \(Acts 16:14; Rev. 1:11; 2:18, 24\).
 - A location first mentioned at [[2Thess.1.1|Act.16.14]]; 
-- only referred to as Thyatira<[[G2363]]> \(<span class='tipnrLangGreek'>Θυάτειρα</span>\).
+- only referred to as Thyatira **<big>[[G2363|Θυάτειρα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=38.92579128786831,27.85655574592795&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Thyatira was a city in the Roman province of Asia Minor \(modern-day Turkey\), l
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Thyatira | [<span class='tipnrLangGreek'>Θυάτειρα</span>](G2363) <small>*Greek*</small> | 4x | [[Act.16.14] ... [Rev.2.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Thyatira\*\|reference=Act.16.14;Rev.1.11;Rev.2.18;Rev.2.24) |
-All Strong's for **Thyatira**: \[[[G2363]]\]
+| Thyatira | [<span class='tipnrLangGreek'>Θυάτειρα</span>](G2363) | 4x | [[Act.16.14] ... [Rev.2.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Thyatira\*\|reference=Act.16.14;Rev.1.11;Rev.2.18;Rev.2.24) |
+All entries for **Thyatira**:  **<big>[[G2363|Θυάτειρα]]</big>**

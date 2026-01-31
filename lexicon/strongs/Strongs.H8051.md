@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמּוּעַ‎</span></big> **Shammûwaʻ** <small>*(sham-moo'-ah)*</small> ==**Shammua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמֵם‎</span><sup><small>[[H8074]]</small></sup>; renowned</small>
+**<big><span class="ashebrew">‎שַׁמּוּעַ‎</span></big>** **Shammûwaʻ** <small>*(sham-moo'-ah)*</small> ==**Shammua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8074|‎שָׁמֵם‎]]</big>**; renowned</small>
 
 $\quad$ Shammua, Shammuah.
 - § Shammua = *"renowned"*

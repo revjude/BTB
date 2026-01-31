@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κῆρυξ</span></span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">κήρ-</span>, T), <span class="asgreek">-υκος, ὁ</span>,</span>  <span class="asseptuagint">\[in LXX: [[LXX.Dan.3.4|Da LXX TH 3:4]] (<span class="ashebrew">כָּרוֹז</span> <small><sup>[[H3744]]</sup></small>), [[LXX.Gen.41.43|Ge 41:43]], [[Sir.20.15|Si 20:15]], [[4Macc.6.4|IV Mac 6:4]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κῆρυξ</span></span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">κήρ-</span>, T), <span class="asgreek">-υκος, ὁ</span>,</span>  <span class="asseptuagint">\[in LXX: [[LXX.Dan.3.4|Da LXX TH 3:4]] (**<big>[[H3744|כָּרוֹז]]</big>**), [[LXX.Gen.41.43|Ge 41:43]], [[Sir.20.15|Si 20:15]], [[4Macc.6.4|IV Mac 6:4]]\*;\]</span> </span>
 <span class="asitalic">a herald</span>: [[1Tim.2.7|I Ti 2:7]], [[2Tim.1.11|II Ti 1:11]], [[2Pet.2.5|II Pe 2:5]].†
 
 **Abbott-Smith References**

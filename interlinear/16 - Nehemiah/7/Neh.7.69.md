@@ -6,19 +6,19 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.69|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.68|<< Nehemiah 7:68]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.70|Nehemiah 7:70 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| camels  | <span class="ashebrew"><big>גְּמַלִּ֕ים </big></span><small><small><sup>[[H1581]]</sup></small></small> &#8207;| ge.ma.Lim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבַּ֥ע </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba' <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲמִשָּׁ֑ה </big></span><small><small><sup>[[H2568]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| donkeys  | <span class="ashebrew"><big>חֲמֹרִ֕ים </big></span><small><small><sup>[[H2543]]</sup></small></small> &#8207;| cha.mo.Rim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁ֣שֶׁת </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| She.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֔ים </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שְׁבַ֥ע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| she.Va' <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶשְׂרִֽים </big></span><small><small><sup>[[H6242]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| camels  |**<big>&#8207;[[H1581\|גְּמַלִּ֕ים]]&#8207; </big>**| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבַּ֥ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֣ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֑ה]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| donkeys  |**<big>&#8207;[[H2543\|חֲמֹרִ֕ים]]&#8207; </big>**| cha.mo.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁ֣שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֔ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שְׁבַ֥ע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.68|<< Nehemiah 7:68]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.70|Nehemiah 7:70 >>]]</td></tr></table>
 
 

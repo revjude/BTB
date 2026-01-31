@@ -7,22 +7,22 @@ According to all these words, and according to all this vision, so did Nathan sp
 So Nathan relayed to David all the words of this entire revelation.<small><sub>**MT:**</sub></small>
 [[2Sam.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.16|<< 2 Samuel 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.18|2 Samuel 7:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this vision, | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| Nathan | <big><span class="asgreek">Ναθάν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words, | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this vision, | **<big>[[G3706\|όρασιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| Nathan | **<big>[[G3481\|Ναθάν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David. | **<big>[[G4622\|Δαυίδ]]</big>** |
 [[2Sam.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.16|<< 2 Samuel 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.18|2 Samuel 7:18 >>]]</td></tr></table>
 
 

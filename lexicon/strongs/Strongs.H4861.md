@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִשְׁאָל‎</span></big> **Mishʼâl** <small>*(mish-awl')*</small> ==**Mishal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup>; request</small>
+**<big><span class="ashebrew">‎מִשְׁאָל‎</span></big>** **Mishʼâl** <small>*(mish-awl')*</small> ==**Mishal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7592|‎שָׁאַל‎]]</big>**; request</small>
 
-$\quad$ Mishal, Misheal. Compare <span class="ashebrew">‎מָשָׁל‎</span><sup><small>[[H4913]]</small></sup>.
+$\quad$ Mishal, Misheal. Compare **<big>[[H4913|‎מָשָׁל‎]]</big>**.
 - § Misheal = *"entreaty"*
 - ***Mishal***, a place in Palestine
 

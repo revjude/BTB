@@ -6,20 +6,20 @@ And he shall take from the congregation of Israel two male goats for a sin offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.4|<< Leviticus 16:4]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.6|Leviticus 16:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and from with \<the>  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֗ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HRd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] congregation of  | <span class="ashebrew"><big>עֲדַת֙ </big></span><small><small><sup>[[H5712]]</sup></small></small> &#8207;| 'a.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will take  | <span class="ashebrew"><big>יִקַּ֛ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| yi.Kach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנֵֽי </big></span><small><small><sup>[[H8147]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| she.nei- <small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| male goats of  | <span class="ashebrew"><big>שְׂעִירֵ֥י </big></span><small><small><sup>[[H8163B]]</sup></small></small> &#8207;| se.'i.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עִזִּ֖ים </big></span><small><small><sup>[[H5795]]</sup></small></small> &#8207;| 'i.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a sin offering  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חַטָּ֑את </big></span><small><small><sup>[[H2403H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> cha.Tat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a ram  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֥יִל </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'A.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֖ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a burnt offering  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֹלָֽה </big></span><small><small><sup>[[H5930A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from with \<the>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֗ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HRd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] congregation of  |**<big>&#8207;[[H5712\|עֲדַת֙]]&#8207; </big>**| 'a.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will take  |**<big>&#8207;[[H3947G\|יִקַּ֛ח]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male goats of  |**<big>&#8207;[[H8163B\|שְׂעִירֵ֥י]]&#8207; </big>**| se.'i.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H5795\|עִזִּ֖ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a sin offering  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2403H\|חַטָּ֑את]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a ram  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0352A\|אַ֥יִל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֖ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a burnt offering  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.4|<< Leviticus 16:4]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.6|Leviticus 16:6 >>]]</td></tr></table>
 
 

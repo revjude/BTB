@@ -7,43 +7,43 @@ The carpenter stretcheth out [his] rule; he marketh it out with a line; he fitte
 The woodworker extends a measuring line; he marks it out with a stylus; he shapes it with chisels and outlines it with a compass. He fashions it in the likeness of man, like man in all his glory, that it may dwell in a shrine.<small><sub>**MT:**</sub></small>
 [[Isa.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.12|<< Isaiah 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.14|Isaiah 44:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| having chosen | <big><span class="asgreek">εκλεξάμενος</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| \[The\] fabricator | <big><span class="asgreek">τέκτων</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| \[a piece of\] wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| sets | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a measure, | <big><span class="asgreek">μέτρω</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forms | <big><span class="asgreek">εμόρφωσεν</span></big> <sup><small><small>[[G3445]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a scraper. | <big><span class="asgreek">παραγραφίδι</span></big> <sup><small><small>[[G8604]]</small></small></sup> |
-| He made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a carpenter's square, | <big><span class="asgreek">παραγωνίσκοις</span></big> <sup><small><small>[[G8605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| glue | <big><span class="asgreek">κόλλη</span></big> <sup><small><small>[[G8052]]</small></small></sup> |
-| he composes | <big><span class="asgreek">ερρύθμισεν</span></big> <sup><small><small>[[G9037]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] appearance | <big><span class="asgreek">μορφήν</span></big> <sup><small><small>[[G3444]]</small></small></sup> |
-| of a man, | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] beauty | <big><span class="asgreek">ωραιότητα</span></big> <sup><small><small>[[G9814]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| he sets | <big><span class="asgreek">στήσαι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a niche; | <big><span class="asgreek">οικίσκω</span></big> <sup><small><small>[[G8455]]</small></small></sup> |
+| having chosen | **<big>[[G1586\|εκλεξάμενος]]</big>** |
+| \[The\] fabricator | **<big>[[G5045\|τέκτων]]</big>** |
+| \[a piece of\] wood | **<big>[[G3586\|ξύλον]]</big>** |
+| sets | **<big>[[G2476\|έστησεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a measure, | **<big>[[G3358\|μέτρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forms | **<big>[[G3445\|εμόρφωσεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a scraper. | **<big>[[G8604\|παραγραφίδι]]</big>** |
+| He made | **<big>[[G4160\|εποίησεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a carpenter's square, | **<big>[[G8605\|παραγωνίσκοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| glue | **<big>[[G8052\|κόλλη]]</big>** |
+| he composes | **<big>[[G9037\|ερρύθμισεν]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] appearance | **<big>[[G3444\|μορφήν]]</big>** |
+| of a man, | **<big>[[G0435\|ανδρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] beauty | **<big>[[G9814\|ωραιότητα]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| he sets | **<big>[[G2476\|στήσαι]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a niche; | **<big>[[G8455\|οικίσκω]]</big>** |
 [[Isa.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.12|<< Isaiah 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.14|Isaiah 44:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Gamad • People group; defenders of the towers of Tyre*</small>
 
 The <span class='tipnrhighlight'>Gamad</span> were a people group mentioned in Ezekiel's prophecy as defenders of the towers of Tyre.
-- A location near Arvad<[[H0719]]> only mentioned at [[Ezek.27.11|Ezk.27.11]]; 
-- only referred to as Gamad<[[H1575]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Arvad **<big>[[H0719|אַרְוַד]]</big>** only mentioned at [[Ezek.27.11|Ezk.27.11]]; 
+- only referred to as Gamad **<big>[[H1575|גַּמָּד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.856082,35.858485&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of the Gamad in Ezekiel's prophecy serves to underscore the extensiv
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gamad | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1575) <small>*Hebrew*</small> | 1x | [Ezk.27.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gamad\*\|reference=Ezk.27.11) |
-All Strong's for **Gamad**: \[[[H1575]]\]
+| Gamad | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>מ</span>ָּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1575) | 1x | [Ezk.27.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gamad\*\|reference=Ezk.27.11) |
+All entries for **Gamad**:  **<big>[[H1575|גַּמָּד]]</big>**

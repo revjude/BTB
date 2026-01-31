@@ -7,31 +7,31 @@ And it shall come to pass in that day, saith the LORD, [that there shall be] the
 On that day,” declares the LORD, “a cry will go up from the Fish Gate, a wail from the Second District, and a loud crashing from the hills.<small><sub>**MT:**</sub></small>
 [[Zeph.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.9|<< Zephaniah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.11|Zephaniah 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of a cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of men piercing, | <big><span class="asgreek">αποκεντούντων</span></big> <sup><small><small>[[G6439]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shrieking of women | <big><span class="asgreek">ολολυγμός</span></big> <sup><small><small>[[G8496]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second \[quarter\], | <big><span class="asgreek">δευτέρας</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| conflict | <big><span class="asgreek">συντριμμός</span></big> <sup><small><small>[[G9341]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills. | <big><span class="asgreek">βουνών</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of a cry | **<big>[[G2906\|κραυγής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλης]]</big>** |
+| of men piercing, | **<big>[[G6439\|αποκεντούντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shrieking of women | **<big>[[G8496\|ολολυγμός]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| second \[quarter\], | **<big>[[G1208\|δευτέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| conflict | **<big>[[G9341\|συντριμμός]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hills. | **<big>[[G1015\|βουνών]]</big>** |
 [[Zeph.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.9|<< Zephaniah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.11|Zephaniah 1:11 >>]]</td></tr></table>
 
 

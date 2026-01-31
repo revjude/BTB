@@ -4,7 +4,7 @@ King living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Arioch</span>, king of Ellasar, was one of the four kings who joined forces with Chedorlaomer in the battle against the five kings of the plain.
 - A king in Mesopotamia living at the time of the Patriarchs, first mentioned at [[Gen.14.1|Gen.14.1]]; 
-- only referred to as Arioch<[[H0746A]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- only referred to as Arioch **<big>[[H0746|אֲרְיוֹךְ]]</big>**.
 
 Arioch is mentioned in Genesis 14 as the king of Ellasar, one of the four kings who allied with Chedorlaomer, king of Elam, in a battle against five kings in the region of Sodom and Gomorrah. The other kings allied with Chedorlaomer were Amraphel king of Shinar and Tidal king of Goiim. 
 
@@ -18,5 +18,5 @@ Apart from this event, no further information is provided about Arioch or his ki
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arioch | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ך</span>ְ](H0746A) <small>*Hebrew*</small> | 2x | [[Gen.14.1] & [Gen.14.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arioch\*\|reference=Gen.14.1;Gen.14.9) |
-All Strong's for **Arioch**: \[[[H0746A]]\]
+| Arioch | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ך</span>ְ](H0746A) | 2x | [[Gen.14.1] & [Gen.14.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arioch\*\|reference=Gen.14.1;Gen.14.9) |
+All entries for **Arioch**:  **<big>[[H0746|אֲרְיוֹךְ]]</big>**

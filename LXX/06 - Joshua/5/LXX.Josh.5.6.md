@@ -7,46 +7,46 @@ For the children of Israel walked forty years in the wilderness, till all the pe
 For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the LORD. So the LORD vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey.<small><sub>**MT:**</sub></small>
 [[Josh.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.5|<< Joshua 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.7|Joshua 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Therefore | <big><span class="asgreek">διό</span></big> <sup><small><small>[[G1352]]</small></small></sup> |
-| were uncircumcised | <big><span class="asgreek">απερίτμητοι</span></big> <sup><small><small>[[G0564]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| most | <big><span class="asgreek">πλείστοι</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for combat, | <big><span class="asgreek">μαχίμων</span></big> <sup><small><small>[[G8264]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones coming forth | <big><span class="asgreek">εξεληλυθότων</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resisting | <big><span class="asgreek">απειθήσαντες</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commandments | <big><span class="asgreek">εντολών</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and the ones whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| separated | <big><span class="asgreek">διώρισε</span></big> <sup><small><small>[[G6938]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to not behold | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our fathers | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| flowing | <big><span class="asgreek">ρέουσαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey. | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
+| Therefore | **<big>[[G1352\|διό]]</big>** |
+| were uncircumcised | **<big>[[G0564\|απερίτμητοι]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| most | **<big>[[G4183\|πλείστοι]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| for combat, | **<big>[[G8264\|μαχίμων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones coming forth | **<big>[[G1831\|εξεληλυθότων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| resisting | **<big>[[G0544\|απειθήσαντες]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| commandments | **<big>[[G1785\|εντολών]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God; | **<big>[[G2316\|θεού]]</big>** |
+| and the ones whom | **<big>[[G3739\|οις]]</big>** **<big>[[G2532\|και]]</big>** |
+| separated | **<big>[[G6938\|διώρισε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| to not behold | **<big>[[G3361\|μη]]</big>** **<big>[[G1492\|ιδείν]]</big>** |
+| for them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| our fathers | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| flowing | **<big>[[G4482\|ρέουσαν]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey. | **<big>[[G3192\|μέλι]]</big>** |
 [[Josh.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.5|<< Joshua 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.7|Joshua 5:7 >>]]</td></tr></table>
 
 

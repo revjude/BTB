@@ -7,27 +7,27 @@ And he changeth the times and the seasons: he removeth kings, and setteth up kin
 He changes the times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to the discerning.<small><sub>**MT:**</sub></small>
 [[Dan.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.20|<< Daniel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.22|Daniel 2:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| changes | <big><span class="asgreek">αλλοιοί</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| seasons | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| times; | <big><span class="asgreek">χρόνους</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| he ordains | <big><span class="asgreek">καθιστά</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| kings, | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| changes; | <big><span class="asgreek">μεθιστά</span></big> <sup><small><small>[[G3179]]</small></small></sup> |
-| giving | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise, | <big><span class="asgreek">σοφοίς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| intelligence | <big><span class="asgreek">φρόνησιν</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδόσι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| understanding. | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| changes | **<big>[[G6230\|αλλοιοί]]</big>** |
+| seasons | **<big>[[G2540\|καιρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| times; | **<big>[[G5550\|χρόνους]]</big>** |
+| he ordains | **<big>[[G2525\|καθιστά]]</big>** |
+| kings, | **<big>[[G0935\|βασιλείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| changes; | **<big>[[G3179\|μεθιστά]]</big>** |
+| giving | **<big>[[G1325\|διδούς]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wise, | **<big>[[G4680\|σοφοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| intelligence | **<big>[[G5428\|φρόνησιν]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| knowing | **<big>[[G1492\|ειδόσι]]</big>** |
+| understanding. | **<big>[[G4907\|σύνεσιν]]</big>** |
 [[Dan.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.20|<< Daniel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.22|Daniel 2:22 >>]]</td></tr></table>
 
 

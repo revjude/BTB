@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">νῆστις</span></span>, <span class="asgreek">-ιος, ὁ, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">νη-</span>, neg. prefix, + <span class="asgreek">ἐσθίω</span>),in cl., chiefly poët.,</span>  <span class="asseptuagint">\[in LXX: [[LXX.Dan.6.18|Da LXX 6:18]] ([[LXX.Dan.6.19|19]]) (<span class="ashebrew">טְוָת</span> <small><sup>[[H2908]]</sup></small>)\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">νῆστις</span></span>, <span class="asgreek">-ιος, ὁ, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">νη-</span>, neg. prefix, + <span class="asgreek">ἐσθίω</span>),in cl., chiefly poët.,</span>  <span class="asseptuagint">\[in LXX: [[LXX.Dan.6.18|Da LXX 6:18]] ([[LXX.Dan.6.19|19]]) (**<big>[[H2908|טְוָת]]</big>**)\*;\]</span> </span>
 <span class="asitalic">not eating</span>, <span class="asitalic">fasting</span>: [[Matt.15.32|Mt 15:32]], [[Mark.8.3|Mk 8:3]].†
 
 **Abbott-Smith References**

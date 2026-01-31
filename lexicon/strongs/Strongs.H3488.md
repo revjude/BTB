@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יְתִב‎</span></big> **yᵉthib** <small>*(yeth-eeb')*</small> ==**to dwell**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יָשַׁב‎</span><sup><small>[[H3427]]</small></sup></small>
+**<big><span class="asaramaic">‎יְתִב‎</span></big>** **yᵉthib** <small>*(yeth-eeb')*</small> ==**to dwell**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3427|‎יָשַׁב‎]]</big>**</small>
 
 $\quad$ dwell, (be) set, sit.
 - ***to sit*** or ***dwell***

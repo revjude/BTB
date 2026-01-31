@@ -7,15 +7,15 @@ The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.
 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;<small><sub>**MT:**</sub></small>
 [[Neh.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.28|<< Nehemiah 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.30|Nehemiah 7:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Kirjath-jearim, | <big><span class="asgreek">Καριαθιαρείμ</span></big> <sup><small><small>[[H7157]]</small></small></sup> |
-| Chephirah | <big><span class="asgreek">Καφηρά</span></big> <sup><small><small>[[H3716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beeroth, | <big><span class="asgreek">Βηρώθ</span></big> <sup><small><small>[[H0881]]</small></small></sup> |
-| seven hundred | <big><span class="asgreek">επτακόσιοι</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| forty-three; | <big><span class="asgreek">τεσσαρακοντατρείς</span></big> <sup><small><small>[[G9431]]</small></small></sup> |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Kirjath-jearim, | **<big>[[H7157\|Καριαθιαρείμ]]</big>** |
+| Chephirah | **<big>[[H3716\|Καφηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beeroth, | **<big>[[H0881\|Βηρώθ]]</big>** |
+| seven hundred | **<big>[[G7485\|επτακόσιοι]]</big>** |
+| forty-three; | **<big>[[G9431\|τεσσαρακοντατρείς]]</big>** |
 [[Neh.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.28|<< Nehemiah 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.30|Nehemiah 7:30 >>]]</td></tr></table>
 
 

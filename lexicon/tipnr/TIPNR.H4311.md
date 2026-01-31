@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Medeba</span>, a city in Moab captured by the Israelites \([[Num.21.30|Numbers 21:30]]; [[Josh.13.9|Joshua 13:9]], 16\), later a site of battle between the Ammonites and David's army \([[1Chr.19.7|1 Chronicles 19:7]]\).
 - A location first mentioned at [[Num.21.30|Num.21.30]]; 
-- only referred to as Medeba<[[H4311]]> \(<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Medeba **<big>[[H4311|מֵידְבָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.72045763248588,35.79197231962891&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Medeba was an ancient city located in Moab, east of the Dead Sea. It was capture
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Medeba | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H4311) <small>*Hebrew*</small> | 5x | [[Num.21.30] ... [Isa.15.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Medeba\*\|reference=Num.21.30;Jos.13.9;Jos.13.16;1Ch.19.7;Isa.15.2) |
-All Strong's for **Medeba**: \[[[H4311]]\]
+| Medeba | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H4311) | 5x | [[Num.21.30] ... [Isa.15.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Medeba\*\|reference=Num.21.30;Jos.13.9;Jos.13.16;1Ch.19.7;Isa.15.2) |
+All entries for **Medeba**:  **<big>[[H4311|מֵידְבָא]]</big>**

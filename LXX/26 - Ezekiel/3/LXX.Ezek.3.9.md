@@ -7,24 +7,24 @@ As an adamant harder than flint have I made thy forehead: fear them not, neither
 I will make your forehead like a diamond, harder than flint. Do not be afraid of them or dismayed at their presence, even though they are a rebellious house.”<small><sub>**MT:**</sub></small>
 [[Ezek.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| more strong | <big><span class="asgreek">κραταιότερον</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| than a rock. | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| You should not fear | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">φοβηθής</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| should you be terrified | <big><span class="asgreek">πτοηθής</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| a rebellious | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| more strong | **<big>[[G2900\|κραταιότερον]]</big>** |
+| than a rock. | **<big>[[G4073\|πέτρας]]</big>** |
+| You should not fear | **<big>[[G3361\|μη]]</big>** **<big>[[G5399\|φοβηθής]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| should you be terrified | **<big>[[G4422\|πτοηθής]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| their face; | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| a rebellious | **<big>[[G3893\|παραπικραίνων]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Ezek.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
 

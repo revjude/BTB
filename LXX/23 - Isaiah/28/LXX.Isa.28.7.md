@@ -10,36 +10,36 @@ But they also have erred through wine, and through strong drink are out of the w
 These also stagger from wine and stumble from strong drink: Priests and prophets reel from strong drink and are befuddled by wine. They stumble because of strong drink, muddled in their visions and stumbling in their judgments.<small><sub>**MT:**</sub></small>
 [[Isa.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.6|<< Isaiah 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.8|Isaiah 28:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in wine | <big><span class="asgreek">οίνω</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| wandering | <big><span class="asgreek">πεπλανημένοι</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| wandering | <big><span class="asgreek">επλανήθησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liquor; | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| \[the\] priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| are startled | <big><span class="asgreek">εξέστησαν</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liquor; | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| they are swallowed down | <big><span class="asgreek">κατεπόθησαν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine; | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| they are shaken | <big><span class="asgreek">εσείσθησαν</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| intoxication | <big><span class="asgreek">μέθης</span></big> <sup><small><small>[[G3178]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liquor; | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| they wandered; | <big><span class="asgreek">επλανήθησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| this is | <big><span class="asgreek">τουτ΄ έστι</span></big> <sup><small><small>[[G5123]]</small></small></sup> |
-| a visible manifestation. | <big><span class="asgreek">φάσμα</span></big> <sup><small><small>[[G9623]]</small></small></sup> |
+| For these | **<big>[[G3778\|ούτοι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| in wine | **<big>[[G3631\|οίνω]]</big>** |
+| wandering | **<big>[[G4105\|πεπλανημένοι]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
+| wandering | **<big>[[G4105\|επλανήθησαν]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| liquor; | **<big>[[G4608\|σίκερα]]</big>** |
+| \[the\] priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| are startled | **<big>[[G1839\|εξέστησαν]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| liquor; | **<big>[[G4608\|σίκερα]]</big>** |
+| they are swallowed down | **<big>[[G2666\|κατεπόθησαν]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wine; | **<big>[[G3631\|οίνον]]</big>** |
+| they are shaken | **<big>[[G4579\|εσείσθησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| intoxication | **<big>[[G3178\|μέθης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| liquor; | **<big>[[G4608\|σίκερα]]</big>** |
+| they wandered; | **<big>[[G4105\|επλανήθησαν]]</big>** |
+| this is | **<big>[[G5123\|τουτ΄ έστι]]</big>** |
+| a visible manifestation. | **<big>[[G9623\|φάσμα]]</big>** |
 [[Isa.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.6|<< Isaiah 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.8|Isaiah 28:8 >>]]</td></tr></table>
 
 

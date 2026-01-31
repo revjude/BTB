@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎כְּנֵמָא‎</span></big> **kᵉnêmâʼ** <small>*(ken-ay-maw')*</small> ==**thus**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כְּמוֹ‎</span><sup><small>[[H3644]]</small></sup></small>
+**<big><span class="asaramaic">‎כְּנֵמָא‎</span></big>** **kᵉnêmâʼ** <small>*(ken-ay-maw')*</small> ==**thus**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3644|‎כְּמוֹ‎]]</big>**</small>
 
 $\quad$ so, (in) this manner (sort), thus.
 - ***so*** or ***thus***
 
 **1)** thus, so, accordingly, as follows
 
-<sub><small>See Greek: </small></sub><span class="asgreek">οὗτος</span><sup><small>[[G3778]]</small></sup>
+<small>See Greek: </small>**<big>[[G3778|οὗτος]]</big>**

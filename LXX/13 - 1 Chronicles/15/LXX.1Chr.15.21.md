@@ -7,26 +7,26 @@ And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azazia
 And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith.<small><sub>**MT:**</sub></small>
 [[1Chr.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mattithiah, | <big><span class="asgreek">Ματταθίας</span></big> <sup><small><small>[[H4993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elipheleh, | <big><span class="asgreek">Ελιφαλού</span></big> <sup><small><small>[[H0466]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mikneiah, | <big><span class="asgreek">Μακκανίας</span></big> <sup><small><small>[[H4737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeiel, | <big><span class="asgreek">Ιεϊήλ</span></big> <sup><small><small>[[H3273]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Azaziah, | <big><span class="asgreek">Οζίας</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| lutes | <big><span class="asgreek">κινύραις</span></big> <sup><small><small>[[G8011]]</small></small></sup> |
-| \[with\] octaves | <big><span class="asgreek">αμασενίθ</span></big> <sup><small><small>[[G6249]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| growing in strength. | <big><span class="asgreek">ενισχύσαι</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Mattithiah, | **<big>[[H4993\|Ματταθίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Elipheleh, | **<big>[[H0466\|Ελιφαλού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Mikneiah, | **<big>[[H4737\|Μακκανίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom, | **<big>[[H0123\|Εδώμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeiel, | **<big>[[H3273\|Ιεϊήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Azaziah, | **<big>[[G3604\|Οζίας]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| lutes | **<big>[[G8011\|κινύραις]]</big>** |
+| \[with\] octaves | **<big>[[G6249\|αμασενίθ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| growing in strength. | **<big>[[G1765\|ενισχύσαι]]</big>** |
 [[1Chr.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
 
 

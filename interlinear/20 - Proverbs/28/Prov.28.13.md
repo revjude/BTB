@@ -6,15 +6,15 @@ He who conceals his sins will not prosper, but whoever confesses and renounces t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.12|<< Proverbs 28:12]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.14|Proverbs 28:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] conceals  | <span class="ashebrew"><big>מְכַסֶּ֣ה </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| me.kha.Seh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgressions his  | <span class="ashebrew"><big>פְ֭שָׁעָי </big></span><small><small><sup>[[H6588]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| Fe.sha.'a <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will prosper  | <span class="ashebrew"><big>יַצְלִ֑יחַ </big></span><small><small><sup>[[H6743B]]</sup></small></small> &#8207;| yatz.Li.ach <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] confesses  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מוֹדֶ֖ה </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mo.Deh <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] forsakes [them]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֹזֵ֣ב </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.Zev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be shown mercy  | <span class="ashebrew"><big>יְרֻחָֽם </big></span><small><small><sup>[[H7355]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ru.Cham <small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] conceals  |**<big>&#8207;[[H3680\|מְכַסֶּ֣ה]]&#8207; </big>**| me.kha.Seh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgressions his  |**<big>&#8207;[[H6588\|פְ֭שָׁעָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Fe.sha.'a<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will prosper  |**<big>&#8207;[[H6743B\|יַצְלִ֑יחַ]]&#8207; </big>**| yatz.Li.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] confesses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3034\|מוֹדֶ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Deh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] forsakes [them]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5800A\|עֹזֵ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Zev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be shown mercy  |**<big>&#8207;[[H7355\|יְרֻחָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.Cham<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.12|<< Proverbs 28:12]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.14|Proverbs 28:14 >>]]</td></tr></table>
 
 

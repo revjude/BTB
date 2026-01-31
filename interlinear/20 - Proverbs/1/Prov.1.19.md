@@ -6,17 +6,17 @@ Such is the fate of all who are greedy, whose unjust gain takes the lives of its
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.18|<< Proverbs 1:18]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.20|Proverbs 1:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [are] thus  | <span class="ashebrew"><big>כֵּ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] paths of  | <span class="ashebrew"><big>אָ֭רְחוֹת </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| 'A.re.chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] gains unjustly  | <span class="ashebrew"><big>בֹּ֣צֵֽעַ </big></span><small><small><sup>[[H1214I]]</sup></small></small> &#8207;| Bo.tze.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unjust gain  | <span class="ashebrew"><big>בָּ֑צַע </big></span><small><small><sup>[[H1215]]</sup></small></small> &#8207;| Ba.tza' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] life of  | <span class="ashebrew"><big>נֶ֖פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| owners its  | <span class="ashebrew"><big>בְּעָלָ֣י </big></span><small><small><sup>[[H1167G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.'a.La <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will take  | <span class="ashebrew"><big>יִקָּֽח </big></span><small><small><sup>[[H3947G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| yi.Kach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] thus  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] paths of  |**<big>&#8207;[[H0734\|אָ֭רְחוֹת]]&#8207; </big>**| 'A.re.chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] gains unjustly  |**<big>&#8207;[[H1214I\|בֹּ֣צֵֽעַ]]&#8207; </big>**| Bo.tze.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unjust gain  |**<big>&#8207;[[H1215\|בָּ֑צַע]]&#8207; </big>**| Ba.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] life of  |**<big>&#8207;[[H5315H\|נֶ֖פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| owners its  |**<big>&#8207;[[H1167G\|בְּעָלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.'a.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will take  |**<big>&#8207;[[H3947G\|יִקָּֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.18|<< Proverbs 1:18]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.20|Proverbs 1:20 >>]]</td></tr></table>
 
 

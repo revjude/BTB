@@ -7,24 +7,24 @@ And when he looked on Amalek, he took up his parable, and said, Amalek [was] the
 Then Balaam saw Amalek and lifted up an oracle, saying: “Amalek was first among the nations, but his end is destruction.”<small><sub>**MT:**</sub></small>
 [[Num.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.19|<< Numbers 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.21|Numbers 24:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having seen | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amalek, | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking up | <big><span class="asgreek">αναλαβών</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his parable, | <big><span class="asgreek">παραβολήν</span></big> <sup><small><small>[[G3850]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[The\] head | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| \[is\] Amalek, | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall perish. | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| having seen | **<big>[[G1492\|ιδών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Amalek, | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| taking up | **<big>[[G0353\|αναλαβών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his parable, | **<big>[[G3850\|παραβολήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| \[The\] head | **<big>[[G0746\|αρχή]]</big>** |
+| of nations | **<big>[[G1484\|εθνών]]</big>** |
+| \[is\] Amalek, | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall perish. | **<big>[[G0622\|απολείται]]</big>** |
 [[Num.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.19|<< Numbers 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.21|Numbers 24:21 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ The women of my people have ye cast out from their pleasant houses; from their c
 You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.<small><sub>**MT:**</sub></small>
 [[Mic.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.10|Micah 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones leading | <big><span class="asgreek">ηγούμενοι</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be thrown | <big><span class="asgreek">απορριφήσονται</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| their luxurious | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| practices | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were pushed out. | <big><span class="asgreek">εξώσθησαν</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
-| Approach | <big><span class="asgreek">εγγίσατε</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρεσιν</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| to everlasting | <big><span class="asgreek">αιωνίοις</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| The ones leading | **<big>[[G2233\|ηγούμενοι]]</big>** |
+| my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall be thrown | **<big>[[G0641\|απορριφήσονται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| houses | **<big>[[G3624\|οίκων]]</big>** |
+| their luxurious | **<big>[[G5172\|τρυφής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| wicked | **<big>[[G4190\|πονηρά]]</big>** |
+| practices | **<big>[[G7461\|επιτηδεύματα]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| they were pushed out. | **<big>[[G1856\|εξώσθησαν]]</big>** |
+| Approach | **<big>[[G1448\|εγγίσατε]]</big>** |
+| mountains | **<big>[[G3735\|όρεσιν]]</big>** |
+| to everlasting | **<big>[[G0166\|αιωνίοις]]</big>** |
 [[Mic.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.10|Micah 2:10 >>]]</td></tr></table>
 
 

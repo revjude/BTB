@@ -12,18 +12,18 @@ A Psalm [or] Song for the sabbath day. [It is a] good [thing] to give thanks unt
 A Psalm. A song for the Sabbath day. It is good to praise the LORD, and to sing praises to Your name, O Most High,<small><sub>**MT:**</sub></small>
 [[Ps.92.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.16|<< Psalm 91:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.2|Psalm 92:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is\] good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to make acknowledgment | <big><span class="asgreek">εξομολογείσθαι</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to strum | <big><span class="asgreek">ψάλλειν</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name, | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Highest One. | <big><span class="asgreek">ύψιστε</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| \[It is\] good | **<big>[[G0018\|αγαθόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to make acknowledgment | **<big>[[G1843\|εξομολογείσθαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to strum | **<big>[[G5567\|ψάλλειν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your name, | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Highest One. | **<big>[[G5310\|ύψιστε]]</big>** |
 [[Ps.92.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.16|<< Psalm 91:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.2|Psalm 92:2 >>]]</td></tr></table>
 
 

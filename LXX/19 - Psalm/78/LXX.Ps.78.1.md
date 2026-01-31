@@ -12,20 +12,20 @@ Maschil of Asaph. Give ear, O my people, [to] my law: incline your ears to the w
 A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.<small><sub>**MT:**</sub></small>
 [[Ps.78.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.20|<< Psalm 77:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.2|Psalm 78:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take heed, | <big><span class="asgreek">προσέχετε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| O my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to my law! | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lean | <big><span class="asgreek">κλίνατε</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my mouth! | <big><span class="asgreek">στόματός</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take heed, | **<big>[[G4337\|προσέχετε]]</big>** |
+| O my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to my law! | **<big>[[G3551\|νόμω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Lean | **<big>[[G2827\|κλίνατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my mouth! | **<big>[[G4750\|στόματός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.78.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.20|<< Psalm 77:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.2|Psalm 78:2 >>]]</td></tr></table>
 
 

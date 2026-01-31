@@ -6,26 +6,26 @@ This is the word that the LORD has spoken against him: ‘The Virgin Daughter of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.20|<< 2 Kings 19:20]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.22|2 Kings 19:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֶ֣ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the word  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דָּבָ֔ר </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has spoken  | <span class="ashebrew"><big>דִּבֶּ֥ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on him  | <span class="ashebrew"><big>עָלָ֑י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she has despised  | <span class="ashebrew"><big>בָּזָ֨ה </big></span><small><small><sup>[[H0959]]</sup></small></small> &#8207;| ba.Zah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֜ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she has mocked  | <span class="ashebrew"><big>לָעֲגָ֣ה </big></span><small><small><sup>[[H3932]]</sup></small></small> &#8207;| la.'a.Gah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] virgin of  | <span class="ashebrew"><big>בְּתוּלַת֙ </big></span><small><small><sup>[[H1330]]</sup></small></small> &#8207;| be.tu.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| behind you  | <span class="ashebrew"><big>אַחֲרֶ֙י </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.cha.Rei. <small><sup>[[HAcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a head  | <span class="ashebrew"><big>רֹ֣אשׁ </big></span><small><small><sup>[[H7218A]]</sup></small></small> &#8207;| rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she has shaken  | <span class="ashebrew"><big>הֵנִ֔יעָה </big></span><small><small><sup>[[H5128]]</sup></small></small> &#8207;| he.Ni.'ah <small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּ֖ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| bat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֶּ֥ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on him  |**<big>&#8207;[[H5921A\|עָלָ֑י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has despised  |**<big>&#8207;[[H0959\|בָּזָ֨ה]]&#8207; </big>**| ba.Zah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has mocked  |**<big>&#8207;[[H3932\|לָעֲגָ֣ה]]&#8207; </big>**| la.'a.Gah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] virgin of  |**<big>&#8207;[[H1330\|בְּתוּלַת֙]]&#8207; </big>**| be.tu.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| behind you  |**<big>&#8207;[[H0310A\|אַחֲרֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a head  |**<big>&#8207;[[H7218A\|רֹ֣אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has shaken  |**<big>&#8207;[[H5128\|הֵנִ֔יעָה]]&#8207; </big>**| he.Ni.'ah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּ֖ת]]&#8207; </big>**| bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.20|<< 2 Kings 19:20]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.22|2 Kings 19:22 >>]]</td></tr></table>
 
 

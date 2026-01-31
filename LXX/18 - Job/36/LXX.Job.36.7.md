@@ -7,24 +7,24 @@ He withdraweth not his eyes from the righteous: but with kings [are they] on the
 He does not take His eyes off the righteous, but He enthrones them with kings and exalts them forever.<small><sub>**MT:**</sub></small>
 [[Job.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.6|<< Job 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.8|Job 36:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] righteous | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[they shall be\] with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a throne; | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| he shall seat | <big><span class="asgreek">καθιεί</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| victory, | <big><span class="asgreek">νίκος</span></big> <sup><small><small>[[G3534]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be exalted. | <big><span class="asgreek">υψωθήσονται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| He will not | **<big>[[G3756\|ουκ]]</big>** |
+| remove | **<big>[[G0851\|αφελεί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] righteous | **<big>[[G1342\|δικαίου]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[they shall be\] with | **<big>[[G3326\|μετά]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| a throne; | **<big>[[G2362\|θρόνον]]</big>** |
+| he shall seat | **<big>[[G2523\|καθιεί]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| victory, | **<big>[[G3534\|νίκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be exalted. | **<big>[[G5312\|υψωθήσονται]]</big>** |
 [[Job.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.6|<< Job 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.8|Job 36:8 >>]]</td></tr></table>
 
 

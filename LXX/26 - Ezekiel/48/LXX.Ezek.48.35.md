@@ -11,26 +11,26 @@ The perimeter of the city will be 18,000 cubits, and from that day on the name o
 > $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] circumference, | <big><span class="asgreek">κύκλωμα</span></big> <sup><small><small>[[G8119]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| it takes place, | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] circumference, | **<big>[[G8119\|κύκλωμα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eight | **<big>[[G3638\|οκτώ]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| it takes place, | **<big>[[G1096\|γένηται]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.48.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.34|<< Ezekiel 48:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.1|Daniel 1:1 >>]]</td></tr></table>
 
 

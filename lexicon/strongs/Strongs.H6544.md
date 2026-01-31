@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַע‎</span></big> **pâraʻ** <small>*(paw-rah')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַע‎</span></big>** **pâraʻ** <small>*(paw-rah')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ avenge, avoid, bare, go back, let, (make) naked, set at nought, perish, refuse, uncover.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **2c1)** to cause to refrain
 $\quad$ $\quad$ **2c2)** to show lack of restraint
 $\quad$ $\quad$ **2c3)** to let loose restraints
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκατακάλυπτος</span><sup><small>[[G0177]]</small></sup> · <span class="asgreek">ἀποκαλύπτω</span><sup><small>[[G0601]]</small></sup> · <span class="asgreek">ἀπωθέομαι</span><sup><small>[[G0683]]</small></sup> · <span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">διαστρέφω</span><sup><small>[[G1294]]</small></sup>
+<small>See Greek: </small>**<big>[[G0177|ἀκατακάλυπτος]]</big>** · **<big>[[G0601|ἀποκαλύπτω]]</big>** · **<big>[[G0683|ἀπωθέομαι]]</big>** · **<big>[[G0757|ἄρχω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1294|διαστρέφω]]</big>**

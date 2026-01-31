@@ -7,30 +7,30 @@ And he shall set up an ensign for the nations, and shall assemble the outcasts o
 He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth.<small><sub>**MT:**</sub></small>
 [[Isa.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall lift | <big><span class="asgreek">αρεί</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a sign | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will bring together | <big><span class="asgreek">συνάξει</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being destroyed | <big><span class="asgreek">απολομένους</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being dispersed | <big><span class="asgreek">διεσπαρμένους</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| he will gather | <big><span class="asgreek">συνάξει</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall lift | **<big>[[G0142\|αρεί]]</big>** |
+| a sign | **<big>[[G4592\|σημείον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations. | **<big>[[G1484\|έθνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he will bring together | **<big>[[G4863\|συνάξει]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| being destroyed | **<big>[[G0622\|απολομένους]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| being dispersed | **<big>[[G1289\|διεσπαρμένους]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| he will gather | **<big>[[G4863\|συνάξει]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| wings | **<big>[[G4420\|πτερύγων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Isa.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
 
 

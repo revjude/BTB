@@ -7,19 +7,19 @@ The son of Abinadab, in all the region of Dor; which had Taphath the daughter of
 Ben-abinadab in Naphath-dor (Taphath, a daughter of Solomon, was his wife);<small><sub>**MT:**</sub></small>
 [[1Kgs.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.10|<< 1 Kings 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.12|1 Kings 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[belonged to the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Abinadab | <big><span class="asgreek">Αβιναδάβ</span></big> <sup><small><small>[[H0041]]</small></small></sup> |
-| All | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Nephador | <big><span class="asgreek">Νεφθδώρ</span></big> <sup><small><small>[[H5299b+H1756]]</small></small></sup> |
-| Taphath | <big><span class="asgreek">Ταφάθ</span></big> <sup><small><small>[[H2955]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| \[belonged to the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Abinadab | **<big>[[H0041\|Αβιναδάβ]]</big>** |
+| All | **<big>[[G3956\|πάσα]]</big>** |
+| Nephador | **<big>[[H5299b+H1756\|Νεφθδώρ]]</big>** |
+| Taphath | **<big>[[H2955\|Ταφάθ]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Kgs.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.10|<< 1 Kings 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.12|1 Kings 4:12 >>]]</td></tr></table>
 
 

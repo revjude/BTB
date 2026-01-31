@@ -7,31 +7,31 @@ They gave after their ability unto the treasure of the work threescore and one t
 According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.<small><sub>**MT:**</sub></small>
 [[Ezra.2.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their power | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] treasury | <big><span class="asgreek">θησαυρόν</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work; | <big><span class="asgreek">έργου</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| drachmas -- | <big><span class="asgreek">δραχμών</span></big> <sup><small><small>[[G1406]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| ten thousands | <big><span class="asgreek">μυριάδες</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a thousand; | <big><span class="asgreek">χιλίας</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| minas -- | <big><span class="asgreek">μνας</span></big> <sup><small><small>[[G3414]]</small></small></sup> |
-| five thousand; | <big><span class="asgreek">πεντακισχιλίας</span></big> <sup><small><small>[[G4000]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| garments | <big><span class="asgreek">χιτώνας</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests -- | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| a hundred. | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| According to | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their power | **<big>[[G1411\|δύναμις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] treasury | **<big>[[G2344\|θησαυρόν]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| work; | **<big>[[G2041\|έργου]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| drachmas -- | **<big>[[G1406\|δραχμών]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| ten thousands | **<big>[[G3461\|μυριάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a thousand; | **<big>[[G5507\|χιλίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| minas -- | **<big>[[G3414\|μνας]]</big>** |
+| five thousand; | **<big>[[G4000\|πεντακισχιλίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| garments | **<big>[[G5509\|χιτώνας]]</big>** |
+| for the | **<big>[[G3588\|των]]</big>** |
+| priests -- | **<big>[[G2409\|ιερέων]]</big>** |
+| a hundred. | **<big>[[G1540\|εκατόν]]</big>** |
 [[Ezra.2.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
 

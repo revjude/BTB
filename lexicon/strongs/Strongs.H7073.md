@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קְנַז‎</span></big> **Qᵉnaz** <small>*(ken-az')*</small> ==**Kenaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎קְנַז‎</span></big>** **Qᵉnaz** <small>*(ken-az')*</small> ==**Kenaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably from an unused root meaning to hunt; hunter</small>
 
 $\quad$ Kenaz.

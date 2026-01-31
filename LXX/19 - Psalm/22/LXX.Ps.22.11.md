@@ -11,20 +11,20 @@ Be not far from me, for trouble is near and there is no one to help.<small><sub
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| separate | <big><span class="asgreek">αποστής</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψις</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| \[is\] near, | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one helping | <big><span class="asgreek">βοηθών</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| separate | **<big>[[G0868\|αποστής]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| affliction | **<big>[[G2347\|θλίψις]]</big>** |
+| \[is\] near, | **<big>[[G1451\|εγγύς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one helping | **<big>[[G0997\|βοηθών]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Ps.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.10|<< Psalm 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.12|Psalm 22:12 >>]]</td></tr></table>
 
 

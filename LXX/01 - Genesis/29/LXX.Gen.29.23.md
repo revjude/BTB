@@ -7,25 +7,25 @@ And it came to pass in the evening, that he took Leah his daughter, and brought 
 But when evening came, Laban took his daughter Leah and gave her to Jacob, and he slept with her.<small><sub>**MT:**</sub></small>
 [[Gen.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.22|<< Genesis 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.24|Genesis 29:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρα</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| Leah | <big><span class="asgreek">Λείαν</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter, | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγεν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετο]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| Leah | **<big>[[H3812\|Λείαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his daughter, | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγεν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Gen.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.22|<< Genesis 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.24|Genesis 29:24 >>]]</td></tr></table>
 
 

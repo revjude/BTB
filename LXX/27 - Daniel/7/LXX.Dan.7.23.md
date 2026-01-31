@@ -7,35 +7,35 @@ Thus he said, The fourth beast shall be the fourth kingdom upon earth, which sha
 This is what he said: ‘The fourth beast is a fourth kingdom that will appear on the earth, different from all the other kingdoms, and it will devour the whole earth, trample it down, and crush it.<small><sub>**MT:**</sub></small>
 [[Dan.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.22|<< Daniel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.24|Daniel 7:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beast | <big><span class="asgreek">θηρίον</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τέταρτον</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| a fourth | <big><span class="asgreek">τετάρτη</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall excel | <big><span class="asgreek">υπερέξει</span></big> <sup><small><small>[[G5242]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdoms, | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall trample upon | <big><span class="asgreek">συμπατήσει</span></big> <sup><small><small>[[G9271]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cut it in pieces. | <big><span class="asgreek">κατακόψει</span></big> <sup><small><small>[[G2629]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| wild beast | **<big>[[G2342\|θηρίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| fourth | **<big>[[G5067\|τέταρτον]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| a fourth | **<big>[[G5067\|τετάρτη]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth, | **<big>[[G1093\|γη]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| shall excel | **<big>[[G5242\|υπερέξει]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| kingdoms, | **<big>[[G0932\|βασιλείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall trample upon | **<big>[[G9271\|συμπατήσει]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cut it in pieces. | **<big>[[G2629\|κατακόψει]]</big>** |
 [[Dan.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.22|<< Daniel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.24|Daniel 7:24 >>]]</td></tr></table>
 
 

@@ -7,13 +7,13 @@ Zenan, and Hadashah, and Migdalgad,
 Zenan, Hadashah, Migdal-gad,<small><sub>**MT:**</sub></small>
 [[Josh.15.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.36|<< Joshua 15:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.38|Joshua 15:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Zenan, | <big><span class="asgreek">Σενάμ</span></big> <sup><small><small>[[H6799]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hadashah, | <big><span class="asgreek">Αδασά</span></big> <sup><small><small>[[H2322]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Migdal-gad, | <big><span class="asgreek">Μαγδαλγάδ</span></big> <sup><small><small>[[H4028]]</small></small></sup> |
+| Zenan, | **<big>[[H6799\|Σενάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hadashah, | **<big>[[H2322\|Αδασά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Migdal-gad, | **<big>[[H4028\|Μαγδαλγάδ]]</big>** |
 [[Josh.15.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.36|<< Joshua 15:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.38|Joshua 15:38 >>]]</td></tr></table>
 
 

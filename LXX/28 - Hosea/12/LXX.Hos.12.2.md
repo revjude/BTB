@@ -7,27 +7,27 @@ The LORD hath also a controversy with Judah, and will punish Jacob according to 
 The LORD has a charge to bring against Judah. He will punish Jacob according to his ways and repay him according to his deeds.<small><sub>**MT:**</sub></small>
 [[Hos.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.1|<< Hosea 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.3|Hosea 12:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is a case | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| with the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to punish | <big><span class="asgreek">εκδικήσαι</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob; | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his practices | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will recompense | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there is a case | **<big>[[G2920\|κρίσις]]</big>** |
+| with the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to punish | **<big>[[G1556\|εκδικήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jacob; | **<big>[[G2384\|Ιακώβ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his practices | **<big>[[G7461\|επιτηδεύματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he will recompense | **<big>[[G0467\|ανταποδώσει]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Hos.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.1|<< Hosea 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.3|Hosea 12:3 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ After it a voice roareth: he thundereth with the voice of his excellency; and he
 Then there comes a roaring sound; He thunders with His majestic voice. He does not restrain the lightning when His voice resounds.<small><sub>**MT:**</sub></small>
 [[Job.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.3|<< Job 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.5|Job 37:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| After | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall yell out | <big><span class="asgreek">βοήσεται</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| a voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| he shall thunder | <big><span class="asgreek">βροντήσει</span></big> <sup><small><small>[[G6698]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of his insult; | <big><span class="asgreek">ύβρεως</span></big> <sup><small><small>[[G5196]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not bargain | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ανταλλάξει</span></big> <sup><small><small>[[G6355]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| one shall hear | <big><span class="asgreek">ακούσει</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| his voice. | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| After | **<big>[[G3694\|οπίσω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| shall yell out | **<big>[[G0994\|βοήσεται]]</big>** |
+| a voice | **<big>[[G5456\|φωνή]]</big>** |
+| he shall thunder | **<big>[[G6698\|βροντήσει]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of his insult; | **<big>[[G5196\|ύβρεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not bargain | **<big>[[G3756\|ουκ]]</big>** **<big>[[G6355\|ανταλλάξει]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| one shall hear | **<big>[[G0191\|ακούσει]]</big>** |
+| his voice. | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Job.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.3|<< Job 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.5|Job 37:5 >>]]</td></tr></table>
 
 

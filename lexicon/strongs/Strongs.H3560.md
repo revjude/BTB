@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כּוּן‎</span></big> **Kûwn** <small>*(koon)*</small> ==**Cun**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup>; established</small>
+**<big><span class="ashebrew">‎כּוּן‎</span></big>** **Kûwn** <small>*(koon)*</small> ==**Cun**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H3559|‎כּוּן‎]]</big>**; established</small>
 
 $\quad$ Chun.
 - § Chun = *"established"*

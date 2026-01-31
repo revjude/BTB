@@ -1,4 +1,4 @@
-Greek of: <small>[[H6453]]</small> 
+Greek of: <small>**<big>[[H6453|פֶּסַח]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πάσχα==</span></b>, <span class='asgreek'>τό</span>, 

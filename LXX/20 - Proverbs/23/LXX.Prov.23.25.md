@@ -7,21 +7,21 @@ Thy father and thy mother shall be glad, and she that bare thee shall rejoice.
 May your father and mother be glad, and may she who gave you birth rejoice!<small><sub>**MT:**</sub></small>
 [[Prov.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.24|<< Proverbs 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.26|Proverbs 23:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be glad | <big><span class="asgreek">ευφραινέσθω</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rejoice | <big><span class="asgreek">χαιρέτω</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one who gave birth to | <big><span class="asgreek">τεκούσά</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be glad | **<big>[[G2165\|ευφραινέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| mother | **<big>[[G3384\|μήτηρ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rejoice | **<big>[[G5463\|χαιρέτω]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| one who gave birth to | **<big>[[G5088\|τεκούσά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
 [[Prov.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.24|<< Proverbs 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.26|Proverbs 23:26 >>]]</td></tr></table>
 
 

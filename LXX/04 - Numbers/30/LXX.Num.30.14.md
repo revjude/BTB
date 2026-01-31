@@ -7,36 +7,36 @@ But if her husband altogether hold his peace at her from day to day; then he est
 But if her husband says nothing to her from day to day, then he confirms all the vows and pledges that bind her. He has confirmed them, because he said nothing to her on the day he heard about them.<small><sub>**MT:**</sub></small>
 [[Num.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.13|<< Numbers 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.15|Numbers 30:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in keeping silent | <big><span class="asgreek">σιωπών</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| he should remain silent | <big><span class="asgreek">παρασιωπήση</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| at her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her vows | <big><span class="asgreek">ευχάς</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sets of limits | <big><span class="asgreek">ορισμούς</span></big> <sup><small><small>[[G8547]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he kept silent | <big><span class="asgreek">εσιώπησεν</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| at her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he heard. | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in keeping silent | **<big>[[G4623\|σιωπών]]</big>** |
+| he should remain silent | **<big>[[G8637\|παρασιωπήση]]</big>** |
+| at her | **<big>[[G1473\|αυτή]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| by | **<big>[[G1537\|εξ]]</big>** |
+| day, | **<big>[[G2250\|ημέρας]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall stand | **<big>[[G2476\|στήσει]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her vows | **<big>[[G2171\|ευχάς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sets of limits | **<big>[[G8547\|ορισμούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| shall stand | **<big>[[G2476\|στήσει]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he kept silent | **<big>[[G4623\|εσιώπησεν]]</big>** |
+| at her | **<big>[[G1473\|αυτή]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| he heard. | **<big>[[G0191\|ήκουσεν]]</big>** |
 [[Num.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.13|<< Numbers 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.15|Numbers 30:15 >>]]</td></tr></table>
 
 

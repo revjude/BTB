@@ -10,28 +10,28 @@ Then he brought me back the way of the gate of the outward sanctuary which looke
 The man then brought me back to the outer gate of the sanctuary that faced east, but it was shut.<small><sub>**MT:**</sub></small>
 [[Ezek.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.27|<< Ezekiel 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.2|Ezekiel 44:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">επέστρεψέ</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outer | <big><span class="asgreek">εξωτέρας</span></big> <sup><small><small>[[G1857]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east; | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| locked. | <big><span class="asgreek">κεκλεισμένη</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G1994\|επέστρεψέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies | **<big>[[G0039\|αγίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| outer | **<big>[[G1857\|εξωτέρας]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east; | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| locked. | **<big>[[G2808\|κεκλεισμένη]]</big>** |
 [[Ezek.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.27|<< Ezekiel 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.2|Ezekiel 44:2 >>]]</td></tr></table>
 
 

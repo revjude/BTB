@@ -10,15 +10,15 @@ The LORD possessed me in the beginning of his way, before his works of old.
 The LORD created me as His first course, before His works of old.<small><sub>**MT:**</sub></small>
 [[Prov.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.21|<< Proverbs 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.23|Proverbs 8:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| created | <big><span class="asgreek">έκτισέ</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] head | <big><span class="asgreek">αρχήν</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of his ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his works. | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| created | **<big>[[G2936\|έκτισέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \[the\] head | **<big>[[G0746\|αρχήν]]</big>** |
+| of his ways | **<big>[[G3598\|οδών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| his works. | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.21|<< Proverbs 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.23|Proverbs 8:23 >>]]</td></tr></table>
 
 

@@ -7,45 +7,45 @@ And they came, every one whose heart stirred him up, and every one whom his spir
 And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments.<small><sub>**MT:**</sub></small>
 [[Exod.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.20|<< Exodus 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.22|Exodus 35:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| offered | <big><span class="asgreek">έφερεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it seemed | <big><span class="asgreek">έδοξε</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| \[good in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| a choice portion | <big><span class="asgreek">αφαίρεμα</span></big> <sup><small><small>[[G6616]]</small></small></sup> |
-| to \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upkeep | <big><span class="asgreek">κάτεργα</span></big> <sup><small><small>[[G7967]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκεν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| offered | **<big>[[G5342\|έφερεν]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones which | **<big>[[G3739\|οις]]</big>** |
+| it seemed | **<big>[[G1380\|έδοξε]]</big>** |
+| \[good in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| a choice portion | **<big>[[G6616\|αφαίρεμα]]</big>** |
+| to \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| upkeep | **<big>[[G7967\|κάτεργα]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
 [[Exod.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.20|<< Exodus 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.22|Exodus 35:22 >>]]</td></tr></table>
 
 

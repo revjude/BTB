@@ -1,4 +1,4 @@
-combination of: <small>[[G1487G]] ([[G1487G]]+[[G4007]])</small> 
+combination of: <small>**<big>[[G1487G|εἰ]]</big>** (**<big>[[G1487G|εἰ]]</big>**+**<big>[[G4007|περ]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==εἴπερ==</span></b> 

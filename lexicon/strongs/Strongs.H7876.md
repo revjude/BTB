@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁיָה‎</span></big> **shâyâh** <small>*(shaw-yaw')*</small> ==**to forget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁיָה‎</span></big>** **shâyâh** <small>*(shaw-yaw')*</small> ==**to forget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be unmindful. (Render Deuteronomy 32:18, 'A Rock bore thee, thou must recollect; and (yet) thou hast forgotten,' etc.)
@@ -6,4 +6,4 @@ $\quad$ be unmindful. (Render Deuteronomy 32:18, 'A Rock bore thee, thou must re
 
 **1)** (Qal) to forget, deprive
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐγκαταλείπω</span><sup><small>[[G1459]]</small></sup>
+<small>See Greek: </small>**<big>[[G1459|ἐγκαταλείπω]]</big>**

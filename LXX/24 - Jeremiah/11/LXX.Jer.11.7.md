@@ -7,57 +7,57 @@ For I earnestly protested unto your fathers in the day [that] I brought them up 
 For from the time I brought your fathers out of the land of Egypt until today, I strongly warned them again and again, saying, ‘Obey My voice.’<small><sub>**MT:**</sub></small>
 [[Jer.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.6|<< Jeremiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.8|Jeremiah 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| bearing witness together | <big><span class="asgreek">συμμαρτυρόμενος</span></big> <sup><small><small>[[G4828]]</small></small></sup> |
-| I bore witness | <big><span class="asgreek">συνεμαρτυρόμην</span></big> <sup><small><small>[[G4828]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατράσι</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I led them out | <big><span class="asgreek">εξήγαγον</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Rising early | <big><span class="asgreek">ορθρίζων</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| I bore witness | <big><span class="asgreek">συνεμαρτυρόμην</span></big> <sup><small><small>[[G4828]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not hear, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and they inclined not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">έκλιναν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ear; | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] deformity | <big><span class="asgreek">σκολιότητι</span></big> <sup><small><small>[[G9112]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήγαγον</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I commanded | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be done. | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| bearing witness together | **<big>[[G4828\|συμμαρτυρόμενος]]</big>** |
+| I bore witness | **<big>[[G4828\|συνεμαρτυρόμην]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your fathers | **<big>[[G3962\|πατράσι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| I led them out | **<big>[[G1806\|εξήγαγον]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| Rising early | **<big>[[G3719\|ορθρίζων]]</big>** |
+| I bore witness | **<big>[[G4828\|συνεμαρτυρόμην]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice! | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not hear, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσαν]]</big>** |
+| and they inclined not | **<big>[[G3756\|ου]]</big>** **<big>[[G1161\|δε]]</big>** **<big>[[G2827\|έκλιναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their ear; | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| they went | **<big>[[G4198\|επορεύοντο]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] deformity | **<big>[[G9112\|σκολιότητι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| of his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| evil | **<big>[[G4190\|πονηράς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1521\|εισήγαγον]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this covenant | **<big>[[G1242\|διαθήκης]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I commanded | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be done. | **<big>[[G4160\|ποιήσαι]]</big>** |
 [[Jer.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.6|<< Jeremiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.8|Jeremiah 11:8 >>]]</td></tr></table>
 
 

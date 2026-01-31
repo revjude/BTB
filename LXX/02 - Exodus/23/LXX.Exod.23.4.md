@@ -7,21 +7,21 @@ If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring
 If you encounter your enemy’s stray ox or donkey, you must return it to him.<small><sub>**MT:**</sub></small>
 [[Exod.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.3|<< Exodus 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.5|Exodus 23:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should meet up with | <big><span class="asgreek">συναντήσης</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ox | <big><span class="asgreek">βοί</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your enemy, | <big><span class="asgreek">εχθρού</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| with | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his beast of burden | <big><span class="asgreek">υποζυγίω</span></big> <sup><small><small>[[G5268]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wandering, | <big><span class="asgreek">πλανωμένοις</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| by returning, | <big><span class="asgreek">αποστρέψας</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you shall give it back | <big><span class="asgreek">αποδώσεις</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should meet up with | **<big>[[G4876\|συναντήσης]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| ox | **<big>[[G1016\|βοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your enemy, | **<big>[[G2190\|εχθρού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| with | **<big>[[G3588\|τω]]</big>** |
+| his beast of burden | **<big>[[G5268\|υποζυγίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| wandering, | **<big>[[G4105\|πλανωμένοις]]</big>** |
+| by returning, | **<big>[[G0654\|αποστρέψας]]</big>** |
+| you shall give it back | **<big>[[G0591\|αποδώσεις]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Exod.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.3|<< Exodus 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.5|Exodus 23:5 >>]]</td></tr></table>
 
 

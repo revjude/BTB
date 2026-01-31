@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַרְבִּית‎</span></big> **marbîyth** <small>*(mar-beeth')*</small> ==**greatness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָבָה‎</span><sup><small>[[H7235]]</small></sup></small>
+**<big><span class="ashebrew">‎מַרְבִּית‎</span></big>** **marbîyth** <small>*(mar-beeth')*</small> ==**greatness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7235|‎רָבָה‎]]</big>**</small>
 
 $\quad$ greatest part, greatness, increase, multitude.
 - ***a multitude***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a2)** increment, interest, usury
 $\quad$ **1b)** great number (of people)
 $\quad$ **1c)** greatness (of wisdom)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">περισσεύω</span><sup><small>[[G4052]]</small></sup>
+<small>See Greek: </small>**<big>[[G4052|περισσεύω]]</big>**

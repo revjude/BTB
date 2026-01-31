@@ -7,25 +7,25 @@ O God, [thou art] terrible out of thy holy places: the God of Israel [is] he tha
 O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!<small><sub>**MT:**</sub></small>
 [[Ps.68.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.34|<< Psalm 68:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.1|Psalm 69:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| God \[is\] wonderful | <big><span class="asgreek">θαυμαστός</span></big> <sup><small><small>[[G2298]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his holy \[places\]. | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel -- | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| power | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fortification | <big><span class="asgreek">κραταίωσιν</span></big> <sup><small><small>[[G8088]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Blessed \[be\] | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| God \[is\] wonderful | **<big>[[G2298\|θαυμαστός]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his holy \[places\]. | **<big>[[G0039\|αγίοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel -- | **<big>[[G2474\|Ισραήλ]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall give | **<big>[[G1325\|δώσει]]</big>** |
+| power | **<big>[[G1411\|δύναμιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fortification | **<big>[[G8088\|κραταίωσιν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his people. | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Blessed \[be\] | **<big>[[G2128\|ευλογητός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God. | **<big>[[G2316\|θεός]]</big>** |
 [[Ps.68.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.34|<< Psalm 68:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.1|Psalm 69:1 >>]]</td></tr></table>
 
 

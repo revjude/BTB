@@ -7,39 +7,39 @@ And Jeremiah lamented for Josiah: and all the singing men and the singing women 
 Then Jeremiah lamented over Josiah, and to this day all the male and female singers recite laments over Josiah. They established them as a statute for Israel, and indeed they are written in the Book of Laments.<small><sub>**MT:**</sub></small>
 [[2Chr.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.24|<< 2 Chronicles 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.26|2 Chronicles 35:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremiah lamented | <big><span class="asgreek">εθρήνησεν</span></big> <sup><small><small>[[G2354]]</small></small></sup> <big><span class="asgreek">Ιερεμίας</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Josiah. | <big><span class="asgreek">Ιωσίαν</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones in control | <big><span class="asgreek">άρχουσαι</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| a lamentation | <big><span class="asgreek">θρήνον</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Josiah | <big><span class="asgreek">Ιωσίαν</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| \[spoken\] until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they appointed | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as an | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| it is written | <big><span class="asgreek">γέγραπται</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamentations. | <big><span class="asgreek">θρήνων</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeremiah lamented | **<big>[[G2354\|εθρήνησεν]]</big>** **<big>[[G2408\|Ιερεμίας]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Josiah. | **<big>[[G2502\|Ιωσίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2036\|είπον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| ones in control | **<big>[[G0756\|άρχουσαι]]</big>** |
+| a lamentation | **<big>[[G2355\|θρήνον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Josiah | **<big>[[G2502\|Ιωσίαν]]</big>** |
+| \[spoken\] until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they appointed | **<big>[[G1325\|έδωκαν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| as an | **<big>[[G1519\|εις]]</big>** |
+| order | **<big>[[G8943\|πρόσταγμα]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| it is written | **<big>[[G1125\|γέγραπται]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| lamentations. | **<big>[[G2355\|θρήνων]]</big>** |
 [[2Chr.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.24|<< 2 Chronicles 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.26|2 Chronicles 35:26 >>]]</td></tr></table>
 
 

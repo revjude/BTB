@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֹבָה‎</span></big> **qôbâh** <small>*(ko'-baw)*</small> ==**belly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָבַב‎</span><sup><small>[[H6895]]</small></sup></small>
+**<big><span class="ashebrew">‎קֹבָה‎</span></big>** **qôbâh** <small>*(ko'-baw)*</small> ==**belly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6895|‎קָבַב‎]]</big>**</small>
 
 $\quad$ belly.
 - ***the abdomen*** (as a cavity)
@@ -8,4 +8,4 @@ $\quad$ belly.
 $\quad$ **1a)** stomach (of sacrificial victim)
 $\quad$ **1b)** belly (of woman)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μήτρα</span><sup><small>[[G3388]]</small></sup>
+<small>See Greek: </small>**<big>[[G3388|μήτρα]]</big>**

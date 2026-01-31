@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Eden</span>, along with other Levites, was appointed by Hezekiah to distribute the contributions, tithes, and dedicated gifts to his brethren in their cities. \([[2Chr.31.15|2Ch.31.15]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.31.15|2Ch.31.15]]; 
-- only referred to as Eden<[[H5731G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Eden **<big>[[H5731|עֵדֶן]]</big>**.
 
 Eden is mentioned in [[2Chr.31.15|2 Chronicles 31:15]] as one of the Levites appointed by King Hezekiah to distribute the contributions, tithes, and dedicated gifts to their fellow Levites in their cities. He is listed along with Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah as trustworthy individuals chosen for this task. 
 
@@ -18,5 +18,5 @@ Apart from this brief mention, no further information is provided about Eden or 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eden | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H5731G) <small>*Hebrew*</small> | 1x | [2Ch.31.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eden\*\|reference=2Ch.31.15) |
-All Strong's for **Eden**: \[[[H5731G]]\]
+| Eden | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H5731G) | 1x | [2Ch.31.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eden\*\|reference=2Ch.31.15) |
+All entries for **Eden**:  **<big>[[H5731|עֵדֶן]]</big>**

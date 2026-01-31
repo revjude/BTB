@@ -7,32 +7,32 @@ And thou shalt stone him with stones, that he die; because he hath sought to thr
 Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
 [[Deut.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.9|<< Deuteronomy 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.11|Deuteronomy 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall throw stones at | <big><span class="asgreek">λιθοβολήσουσιν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stones, | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall die; | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he sought | <big><span class="asgreek">εζήτησεν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to abstain | <big><span class="asgreek">αποστήσαί</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one leading | <big><span class="asgreek">εξαγαγόντος</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of slavery. | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall throw stones at | **<big>[[G3036\|λιθοβολήσουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| stones, | **<big>[[G3037\|λίθοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall die; | **<big>[[G0599\|αποθανείται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he sought | **<big>[[G2212\|εζήτησεν]]</big>** |
+| to abstain | **<big>[[G0868\|αποστήσαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| one leading | **<big>[[G1806\|εξαγαγόντος]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of slavery. | **<big>[[G1397\|δουλείας]]</big>** |
 [[Deut.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.9|<< Deuteronomy 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.11|Deuteronomy 13:11 >>]]</td></tr></table>
 
 

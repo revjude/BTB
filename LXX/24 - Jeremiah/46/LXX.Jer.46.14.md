@@ -7,32 +7,32 @@ Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes
 “Announce it in Egypt, and proclaim it in Migdol; proclaim it in Memphis and Tahpanhes: ‘Take your positions and prepare yourself, for the sword devours those around you.’<small><sub>**MT:**</sub></small>
 [[Jer.46.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.13|<< Jeremiah 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.15|Jeremiah 46:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Announce | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| audible | <big><span class="asgreek">ακουστόν</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Migdol, | <big><span class="asgreek">Μαγδωλόν</span></big> <sup><small><small>[[H4024b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| exhort | <big><span class="asgreek">παραγγείλατε</span></big> <sup><small><small>[[G3853]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Memphis! | <big><span class="asgreek">Μεμφίν</span></big> <sup><small><small>[[H5297]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Tahpanhes | <big><span class="asgreek">Τάφναις</span></big> <sup><small><small>[[H8471]]</small></small></sup> |
-| say! | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Attend to | <big><span class="asgreek">επίστηθι</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prepare! | <big><span class="asgreek">ετοίμασον</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| devoured | <big><span class="asgreek">κατέφαγε</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \[the\] sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your yew tree. | <big><span class="asgreek">σμίλακά</span></big> <sup><small><small>[[G9127]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Announce | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| audible | **<big>[[G6200\|ακουστόν]]</big>** |
+| make | **<big>[[G4160\|ποιήσατε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Migdol, | **<big>[[H4024b\|Μαγδωλόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| exhort | **<big>[[G3853\|παραγγείλατε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Memphis! | **<big>[[H5297\|Μεμφίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Tahpanhes | **<big>[[H8471\|Τάφναις]]</big>** |
+| say! | **<big>[[G2036\|είπατε]]</big>** |
+| Attend to | **<big>[[G2186\|επίστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prepare! | **<big>[[G2090\|ετοίμασον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| devoured | **<big>[[G2719\|κατέφαγε]]</big>** |
+| \[the\] sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your yew tree. | **<big>[[G9127\|σμίλακά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Jer.46.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.13|<< Jeremiah 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.15|Jeremiah 46:15 >>]]</td></tr></table>
 
 

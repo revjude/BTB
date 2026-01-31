@@ -7,32 +7,32 @@ Neither shall Pharaoh with [his] mighty army and great company make for him in t
 Pharaoh with his mighty army and vast horde will not help him in battle, when ramps are built and siege walls constructed to destroy many lives.<small><sub>**MT:**</sub></small>
 [[Ezek.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.16|<< Ezekiel 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.18|Ezekiel 17:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| power | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| multitude | <big><span class="asgreek">όχλω</span></big> <sup><small><small>[[G3793]]</small></small></sup> |
-| a great | <big><span class="asgreek">πολλώ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| throwing up a palisade | <big><span class="asgreek">χαρακοβολία</span></big> <sup><small><small>[[G9700]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| construction | <big><span class="asgreek">οικοδομή</span></big> <sup><small><small>[[G3619]]</small></small></sup> |
-| of a range of weapons | <big><span class="asgreek">βελοστάσεων</span></big> <sup><small><small>[[G6667]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to remove | <big><span class="asgreek">εξάραι</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| power | **<big>[[G1411\|δυνάμει]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| multitude | **<big>[[G3793\|όχλω]]</big>** |
+| a great | **<big>[[G4183\|πολλώ]]</big>** |
+| make | **<big>[[G4160\|ποιήσει]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| throwing up a palisade | **<big>[[G9700\|χαρακοβολία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| construction | **<big>[[G3619\|οικοδομή]]</big>** |
+| of a range of weapons | **<big>[[G6667\|βελοστάσεων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to remove | **<big>[[G1808\|εξάραι]]</big>** |
+| souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| many | **<big>[[G4183\|πολλάς]]</big>** |
 [[Ezek.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.16|<< Ezekiel 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.18|Ezekiel 17:18 >>]]</td></tr></table>
 
 

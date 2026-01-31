@@ -7,17 +7,17 @@ The slothful [man] roasteth not that which he took in hunting: but the substance
 A lazy man does not roast his game, but a diligent man prizes his possession.<small><sub>**MT:**</sub></small>
 [[Prov.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| succeed in | <big><span class="asgreek">επιτεύξεται</span></big> <sup><small><small>[[G2013]]</small></small></sup> |
-| A deceitful man | <big><span class="asgreek">δόλιος</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
-| hunting; | <big><span class="asgreek">θήρας</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| possession | <big><span class="asgreek">κτήμα</span></big> <sup><small><small>[[G2933]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[is\] an esteemed | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a pure | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| succeed in | **<big>[[G2013\|επιτεύξεται]]</big>** |
+| A deceitful man | **<big>[[G1386\|δόλιος]]</big>** |
+| hunting; | **<big>[[G2339\|θήρας]]</big>** |
+| possession | **<big>[[G2933\|κτήμα]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| \[is\] an esteemed | **<big>[[G5093\|τίμιον]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| a pure | **<big>[[G2513\|καθαρός]]</big>** |
 [[Prov.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 
 

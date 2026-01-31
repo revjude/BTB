@@ -14,24 +14,24 @@ But they conspired against Zechariah, and by order of the king, they stoned him 
 > $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they assailed | <big><span class="asgreek">επέθεντο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| against him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stoned | <big><span class="asgreek">ελιθοβόλησαν</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| by | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| command | <big><span class="asgreek">εντολής</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they assailed | **<big>[[G2007\|επέθεντο]]</big>** |
+| against him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stoned | **<big>[[G3036\|ελιθοβόλησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with stones | **<big>[[G3037\|λίθοις]]</big>** |
+| by | **<big>[[G1223\|δι΄]]</big>** |
+| command | **<big>[[G1785\|εντολής]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Chr.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.20|<< 2 Chronicles 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.22|2 Chronicles 24:22 >>]]</td></tr></table>
 
 

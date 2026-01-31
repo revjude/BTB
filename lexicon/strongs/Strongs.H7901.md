@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁכַב‎</span></big> **shâkab** <small>*(shaw-kab')*</small> ==**to lie down: lay down**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁכַב‎</span></big>** **shâkab** <small>*(shaw-kab')*</small> ==**to lie down: lay down**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] at all, cast down, (lover-)lay (self) (down), (make to) lie (down, down to sleep, still with), lodge, ravish, take rest, sleep, stay.
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Pual) to be lain with (sexually)
 $\quad$ **1d)** (Hiphil) to make to lie down
 $\quad$ **1e)** (Hophal) to be laid
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναπαύω</span><sup><small>[[G0373]]</small></sup> · <span class="asgreek">ἀποθνήσκω</span><sup><small>[[G0599]]</small></sup> · <span class="asgreek">καθεύδω</span><sup><small>[[G2518]]</small></sup> · <span class="asgreek">κάθημαι</span><sup><small>[[G2521]]</small></sup> · <span class="asgreek">κατάκειμαι</span><sup><small>[[G2621]]</small></sup> · <span class="asgreek">καταλύω</span><sup><small>[[G2647]]</small></sup> · <span class="asgreek">κατοικέω</span><sup><small>[[G2730]]</small></sup> · <span class="asgreek">κλίνω</span><sup><small>[[G2827]]</small></sup> · <span class="asgreek">κοιμάω</span><sup><small>[[G2837]]</small></sup> · <span class="asgreek">κοίτη</span><sup><small>[[G2845]]</small></sup> · <span class="asgreek">κυβερνήτης</span><sup><small>[[G2942]]</small></sup> · <span class="asgreek">μολύνω</span><sup><small>[[G3435]]</small></sup>
+<small>See Greek: </small>**<big>[[G0373|ἀναπαύω]]</big>** · **<big>[[G0599|ἀποθνήσκω]]</big>** · **<big>[[G2518|καθεύδω]]</big>** · **<big>[[G2521|κάθημαι]]</big>** · **<big>[[G2621|κατάκειμαι]]</big>** · **<big>[[G2647|καταλύω]]</big>** · **<big>[[G2730|κατοικέω]]</big>** · **<big>[[G2827|κλίνω]]</big>** · **<big>[[G2837|κοιμάω]]</big>** · **<big>[[G2845|κοίτη]]</big>** · **<big>[[G2942|κυβερνήτης]]</big>** · **<big>[[G3435|μολύνω]]</big>**

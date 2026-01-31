@@ -7,40 +7,40 @@ And it came to pass, when Joshua had spoken unto the people, that the seven prie
 After Joshua had spoken to the people, seven priests carrying seven rams’ horns before the LORD advanced and blew the horns, and the ark of the covenant of the LORD followed them.<small><sub>**MT:**</sub></small>
 [[Josh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.7|<< Joshua 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.9|Joshua 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Joshua spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| having | <big><span class="asgreek">έχοντας</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| trumpets | <big><span class="asgreek">σάλπιγγας</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| consecrated | <big><span class="asgreek">ιεράς</span></big> <sup><small><small>[[G2413]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went by | <big><span class="asgreek">παρελθέτωσαν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[and\] they passed | <big><span class="asgreek">παραπορευέσθωσαν</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| signified | <big><span class="asgreek">σημαινέτωσαν</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| intensely. | <big><span class="asgreek">ευτόνως</span></big> <sup><small><small>[[G2159]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτός</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| followed after | <big><span class="asgreek">επακολουθείτω</span></big> <sup><small><small>[[G1872]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Joshua spoke | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| \[the\] seven | **<big>[[G2033\|επτά]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| having | **<big>[[G2192\|έχοντας]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| trumpets | **<big>[[G4536\|σάλπιγγας]]</big>** |
+| consecrated | **<big>[[G2413\|ιεράς]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| went by | **<big>[[G3928\|παρελθέτωσαν]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \[and\] they passed | **<big>[[G3899\|παραπορευέσθωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| signified | **<big>[[G4591\|σημαινέτωσαν]]</big>** |
+| intensely. | **<big>[[G2159\|ευτόνως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ark | **<big>[[G2787\|κιβωτός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| followed after | **<big>[[G1872\|επακολουθείτω]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Josh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.7|<< Joshua 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.9|Joshua 6:9 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּבְנֹן‎</span></big> **gabnôn** <small>*(gab-nohn')*</small> ==**peak**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎גִּבֵּן‎</span><sup><small>[[H1384]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּבְנֹן‎</span></big>** **gabnôn** <small>*(gab-nohn')*</small> ==**peak**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H1384|‎גִּבֵּן‎]]</big>**</small>
 
 $\quad$ high.
 - ***a hump*** or ***peak of hills***

@@ -7,19 +7,19 @@ He sendeth forth his commandment [upon] earth: his word runneth very swiftly.
 He sends forth His command to the earth; His word runs swiftly.<small><sub>**MT:**</sub></small>
 [[Ps.147.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.14|<< Psalm 147:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.16|Psalm 147:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one sending | <big><span class="asgreek">αποστέλλων</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his oracle | <big><span class="asgreek">λόγιον</span></big> <sup><small><small>[[G3051]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-|  | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| quickly | <big><span class="asgreek">τάχους</span></big> <sup><small><small>[[G5034]]</small></small></sup> |
-| shall run | <big><span class="asgreek">δραμείται</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one sending | **<big>[[G0649\|αποστέλλων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his oracle | **<big>[[G3051\|λόγιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| earth; | **<big>[[G1093\|γη]]</big>** |
+|  | **<big>[[G2193\|έως]]</big>** |
+| quickly | **<big>[[G5034\|τάχους]]</big>** |
+| shall run | **<big>[[G5143\|δραμείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his word | **<big>[[G3056\|λόγος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.147.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.14|<< Psalm 147:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.16|Psalm 147:16 >>]]</td></tr></table>
 
 

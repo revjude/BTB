@@ -7,20 +7,20 @@ And the desolate land shall be tilled, whereas it lay desolate in the sight of a
 The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.<small><sub>**MT:**</sub></small>
 [[Ezek.36.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.33|<< Ezekiel 36:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.35|Ezekiel 36:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| having been obliterated | <big><span class="asgreek">ηφανισμένη</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| shall be worked; | <big><span class="asgreek">εργασθήσεται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| for reason | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| being obliterated | <big><span class="asgreek">ηφανισμένη</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| traveling by. | <big><span class="asgreek">παροδεύοντος</span></big> <sup><small><small>[[G8654]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| having been obliterated | **<big>[[G0853\|ηφανισμένη]]</big>** |
+| shall be worked; | **<big>[[G2038\|εργασθήσεται]]</big>** |
+| for reason | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| being obliterated | **<big>[[G0853\|ηφανισμένη]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of all | **<big>[[G3956\|παντός]]</big>** |
+| traveling by. | **<big>[[G8654\|παροδεύοντος]]</big>** |
 [[Ezek.36.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.33|<< Ezekiel 36:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.35|Ezekiel 36:35 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ The LORD shall smite thee in the knees, and in the legs, with a sore botch that 
 The LORD will afflict you with painful, incurable boils on your knees and thighs, from the soles of your feet to the top of your head.<small><sub>**MT:**</sub></small>
 [[Deut.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.34|<< Deuteronomy 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.36|Deuteronomy 28:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sore | <big><span class="asgreek">έλκει</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| a severe | <big><span class="asgreek">πονηρώ</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knees, | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| legs, | <big><span class="asgreek">κνήμας</span></big> <sup><small><small>[[G8033]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be able | <big><span class="asgreek">δύνασθαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to heal | <big><span class="asgreek">ιαθήναί</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sole | <big><span class="asgreek">ίχνους</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of your \[head\]. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| strike | **<big>[[G3960\|πατάξαι]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| sore | **<big>[[G1668\|έλκει]]</big>** |
+| a severe | **<big>[[G4190\|πονηρώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| knees, | **<big>[[G1119\|γόνατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| legs, | **<big>[[G8033\|κνήμας]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| be able | **<big>[[G1410\|δύνασθαι]]</big>** |
+| to heal | **<big>[[G2390\|ιαθήναί]]</big>** |
+| yourself | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sole | **<big>[[G2487\|ίχνους]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your feet | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| top | **<big>[[G8073\|κορυφής]]</big>** |
+| of your \[head\]. | **<big>[[G1473\|σου]]</big>** |
 [[Deut.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.34|<< Deuteronomy 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.36|Deuteronomy 28:36 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ Joy has left our hearts; our dancing has turned to mourning.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.14|<< Lamentations 5:14]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.16|Lamentations 5:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has ceased  | <span class="ashebrew"><big>שָׁבַת֙ </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| sha.Vat <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] joy of  | <span class="ashebrew"><big>מְשׂ֣וֹשׂ </big></span><small><small><sup>[[H4885]]</sup></small></small> &#8207;| me.Sos <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart our  | <span class="ashebrew"><big>לִבֵּ֔ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| li.Be. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been changed  | <span class="ashebrew"><big>נֶהְפַּ֥ךְ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| neh.Pakh <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into mourning  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֖בֶל </big></span><small><small><sup>[[H0060]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'E.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dancing our  | <span class="ashebrew"><big>מְחֹלֵֽ </big></span><small><small><sup>[[H4234]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.cho.Le. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has ceased  |**<big>&#8207;[[H7673A\|שָׁבַת֙]]&#8207; </big>**| sha.Vat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] joy of  |**<big>&#8207;[[H4885\|מְשׂ֣וֹשׂ]]&#8207; </big>**| me.Sos<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart our  |**<big>&#8207;[[H3820A\|לִבֵּ֔]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| li.Be.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been changed  |**<big>&#8207;[[H2015\|נֶהְפַּ֥ךְ]]&#8207; </big>**| neh.Pakh<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into mourning  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0060\|אֵ֖בֶל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'E.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dancing our  |**<big>&#8207;[[H4234\|מְחֹלֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.cho.Le.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.14|<< Lamentations 5:14]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.16|Lamentations 5:16 >>]]</td></tr></table>
 
 

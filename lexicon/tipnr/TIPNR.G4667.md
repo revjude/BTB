@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Smyrna</span> was one of the seven churches of Asia Minor addressed in the Book of Revelation, known for its persecution and poverty, yet faithful to Christ \(Rev. 1:11; 2:8-11\).
 - A location first mentioned at [[Rev.1.11|Rev.1.11]]; 
-- referred to as Smyrna<[[G4667]]> \(<span class='tipnrLangGreek'>Σμύρνα</span>\), or Smyrna<[[G4668]]> \(<span class='tipnrLangGreek'>Σμύρνα</span>\).
+- referred to as Smyrna **<big>[[G4667|Σμύρνα]]</big>**, or Smyrna **<big>[[G4668|Σμυρναῖος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=38.45196037886051,27.16192104844777&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The message to the church of Smyrna serves as an encouragement to all believers 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Smyrna | [<span class='tipnrLangGreek'>Σμύρνα</span>](G4667) <small>*Greek*</small> | 2x | [[Rev.1.11] & [Rev.2.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Smyrna\*\|reference=Rev.1.11;Rev.2.8) |
-| Smyrna | [<span class='tipnrLangGreek'>Σμύρνα</span>](G4668) <small>*Greek*</small> | 2x | [[Rev.1.11] & [Rev.2.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Smyrna\*\|reference=Rev.1.11;Rev.2.8) |
-All Strong's for **Smyrna**: \[[[G4667]]\] \[[[G4668]]\]
+| Smyrna | [<span class='tipnrLangGreek'>Σμύρνα</span>](G4667) | 2x | [[Rev.1.11] & [Rev.2.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Smyrna\*\|reference=Rev.1.11;Rev.2.8) |
+| Smyrna | [<span class='tipnrLangGreek'>Σμύρνα</span>](G4668) | 2x | [[Rev.1.11] & [Rev.2.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Smyrna\*\|reference=Rev.1.11;Rev.2.8) |
+All entries for **Smyrna**:  **<big>[[G4667|Σμύρνα]]</big>** ☩  **<big>[[G4668|Σμυρναῖος]]</big>**

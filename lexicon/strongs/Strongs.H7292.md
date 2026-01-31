@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָהַב‎</span></big> **râhab** <small>*(raw-hab')*</small> ==**to be assertive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָהַב‎</span></big>** **râhab** <small>*(raw-hab')*</small> ==**to be assertive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ overcome, behave self proudly, make sure, strengthen.

@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎גֶּשֶׁם‎</span></big> **geshem** <small>*(gheh'-shem)*</small> ==**rain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּשַׁם‎</span><sup><small>[[H1652]]</small></sup></small>
+**<big><span class="ashebrew">‎גֶּשֶׁם‎</span></big>** **geshem** <small>*(gheh'-shem)*</small> ==**rain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1652|‎גָּשַׁם‎]]</big>**</small>
 
 $\quad$ rain, shower.
 - ***a shower***
 
 **1)** rain, shower
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βροχή</span><sup><small>[[G1028]]</small></sup> · <span class="asgreek">ὑετός</span><sup><small>[[G5205]]</small></sup> · <span class="asgreek">χειμών</span><sup><small>[[G5494]]</small></sup>
+<small>See Greek: </small>**<big>[[G1028|βροχή]]</big>** · **<big>[[G5205|ὑετός]]</big>** · **<big>[[G5494|χειμών]]</big>**

@@ -7,14 +7,14 @@ But Sarai was barren; she [had] no child.
 But Sarai was barren; she had no children.<small><sub>**MT:**</sub></small>
 [[Gen.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.29|<< Genesis 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.31|Genesis 11:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sarai was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Σάρα</span></big> <sup><small><small>[[H6881]]</small></small></sup> |
-| sterile, | <big><span class="asgreek">στείρα</span></big> <sup><small><small>[[G4723]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able to produce children. | <big><span class="asgreek">ετεκνοποίει</span></big> <sup><small><small>[[G9411]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Sarai was | **<big>[[G1510\|ην]]</big>** **<big>[[H6881\|Σάρα]]</big>** |
+| sterile, | **<big>[[G4723\|στείρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| able to produce children. | **<big>[[G9411\|ετεκνοποίει]]</big>** |
 [[Gen.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.29|<< Genesis 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.31|Genesis 11:31 >>]]</td></tr></table>
 
 

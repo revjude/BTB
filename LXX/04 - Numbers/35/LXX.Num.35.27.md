@@ -7,32 +7,32 @@ And the revenger of blood find him without the borders of the city of his refuge
 and the avenger of blood finds him outside of his city of refuge and kills him, then the avenger will not be guilty of bloodshed,<small><sub>**MT:**</sub></small>
 [[Num.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.26|<< Numbers 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.28|Numbers 35:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should find | <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as next of kin | <big><span class="asgreek">αγχιστεύων</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of his refuge, | <big><span class="asgreek">καταφυγής</span></big> <sup><small><small>[[G7950]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should slaughter | <big><span class="asgreek">φονεύση</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as next of kin | <big><span class="asgreek">αγχιστεύων</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one man-slaying, | <big><span class="asgreek">φονεύσαντα</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| liable | <big><span class="asgreek">ένοχός</span></big> <sup><small><small>[[G1777]]</small></small></sup> |
-| is he | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should find | **<big>[[G2147\|εύρη]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| acting as next of kin | **<big>[[G6131\|αγχιστεύων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for blood | **<big>[[G0129\|αίμα]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G3725\|ορίων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| of his refuge, | **<big>[[G7950\|καταφυγής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should slaughter | **<big>[[G5407\|φονεύση]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| acting as next of kin | **<big>[[G6131\|αγχιστεύων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for blood | **<big>[[G0129\|αίμα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one man-slaying, | **<big>[[G5407\|φονεύσαντα]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| liable | **<big>[[G1777\|ένοχός]]</big>** |
+| is he | **<big>[[G1510\|εστιν]]</big>** |
 [[Num.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.26|<< Numbers 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.28|Numbers 35:28 >>]]</td></tr></table>
 
 

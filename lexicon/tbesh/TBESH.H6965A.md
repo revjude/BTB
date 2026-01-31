@@ -1,6 +1,5 @@
-<span class="ashebrew">‎קָמָי‎</span> <small>***(qa.may)***</small> ==**(Leb)-kamai**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-part of: <small>[[H3820B]]</small> 
+<small>part of:</small> <small>**<big>[[H3820B|לֵב]]</big>**</small> 
 
 
-- Combined with <i>lev</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "Leb" [[H3820B]])
+- Combined with <i>lev</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "Leb" **<big>[[H3820B|לֵב]]</big>**)
 -  Leb-kamai, i.e., people of Gambulai

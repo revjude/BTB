@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Doeg</span> the Edomite, Saul's chief shepherd, witnessed David receiving help from Ahimelech and later betrayed him to Saul, resulting in the massacre of the priests at Nob. \([[1Sam.21.7|1Sa.21.7]]; 22.9,18,18,22; Psa.52.1\)
 - A man living at the time of United Monarchy, first mentioned at [[1Sam.21.7|1Sa.21.7]]; 
-- only referred to as Doeg<[[H1673]]> \(<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ג</span>\).
+- only referred to as Doeg **<big>[[H1673|דֹּאֵג]]</big>**.
 
 Doeg the Edomite was a chief shepherd in the service of King Saul. He first appears in [[1Sam.21.7|1 Samuel 21:7]], where he is described as the chief herdsman of Saul and is present at the tabernacle in Nob when David arrives seeking help from the priest Ahimelech. 
 
@@ -18,5 +18,5 @@ Doeg's story serves as an example of the dangers of misplaced loyalty and the co
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Doeg | [<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ג</span>](H1673) <small>*Hebrew*</small> | 6x | [[1Sa.21.7] ... [Psa.52.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Doeg\*\|reference=1Sa.21.7;1Sa.22.9;1Sa.22.18;1Sa.22.18;1Sa.22.22;Psa.52.1) |
-All Strong's for **Doeg**: \[[[H1673]]\]
+| Doeg | [<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ג</span>](H1673) | 6x | [[1Sa.21.7] ... [Psa.52.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Doeg\*\|reference=1Sa.21.7;1Sa.22.9;1Sa.22.18;1Sa.22.18;1Sa.22.22;Psa.52.1) |
+All entries for **Doeg**:  **<big>[[H1673|דֹּאֵג]]</big>**

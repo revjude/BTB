@@ -7,22 +7,22 @@ He sent redemption unto his people: he hath commanded his covenant for ever: hol
 He has sent redemption to His people; He has ordained His covenant forever; holy and awesome is His name.<small><sub>**MT:**</sub></small>
 [[Ps.111.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.8|<< Psalm 111:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.10|Psalm 111:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a ransoming | <big><span class="asgreek">λύτρωσιν</span></big> <sup><small><small>[[G3085]]</small></small></sup> |
-| He sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people; | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| concerning his covenant; | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fearful | <big><span class="asgreek">φοβερόν</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a ransoming | **<big>[[G3085\|λύτρωσιν]]</big>** |
+| He sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| his people; | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| concerning his covenant; | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fearful | **<big>[[G5398\|φοβερόν]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.111.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.8|<< Psalm 111:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.10|Psalm 111:10 >>]]</td></tr></table>
 
 

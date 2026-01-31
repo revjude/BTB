@@ -7,15 +7,15 @@ He [is in] the way of life that keepeth instruction: but he that refuseth reproo
 Whoever heeds instruction is on the path to life, but he who ignores reproof goes astray.<small><sub>**MT:**</sub></small>
 [[Prov.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.16|<< Proverbs 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.18|Proverbs 10:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| keeps | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| Instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
-| but instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| unascertained | <big><span class="asgreek">ανεξέλεγκτος</span></big> <sup><small><small>[[G6335]]</small></small></sup> |
-| wanders. | <big><span class="asgreek">πλανάται</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| \[the\] ways | **<big>[[G3598\|οδούς]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| keeps | **<big>[[G5442\|φυλάσσει]]</big>** |
+| Instruction | **<big>[[G3809\|παιδεία]]</big>** |
+| but instruction | **<big>[[G3809\|παιδεία]]</big>** **<big>[[G1161\|δε]]</big>** |
+| unascertained | **<big>[[G6335\|ανεξέλεγκτος]]</big>** |
+| wanders. | **<big>[[G4105\|πλανάται]]</big>** |
 [[Prov.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.16|<< Proverbs 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.18|Proverbs 10:18 >>]]</td></tr></table>
 
 

@@ -6,18 +6,18 @@ For the wicked man boasts in the cravings of his heart; he blesses the greedy an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.2|<< Psalms 10:2]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.4|Psalms 10:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he boasts  | <span class="ashebrew"><big>הִלֵּ֣ל </big></span><small><small><sup>[[H1984H]]</sup></small></small> &#8207;| hi.Lel <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wicked [person]  | <span class="ashebrew"><big>רָ֭שָׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Ra.sho' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] desire of  | <span class="ashebrew"><big>תַּאֲוַ֣ת </big></span><small><small><sup>[[H8378]]</sup></small></small> &#8207;| ta.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self his  | <span class="ashebrew"><big>נַפְשׁ֑ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one] greedy for unjust gain  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֹצֵ֥עַ </big></span><small><small><sup>[[H1214I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vo.Tze.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he blesses  | <span class="ashebrew"><big>בֵּ֝רֵ֗ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| be.Rekh <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he spurns  | <span class="ashebrew"><big>נִ֘אֵ֥ץ </big></span><small><small><sup>[[H5006]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ni.'Etz <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he boasts  |**<big>&#8207;[[H1984H\|הִלֵּ֣ל]]&#8207; </big>**| hi.Lel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wicked [person]  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] desire of  |**<big>&#8207;[[H8378\|תַּאֲוַ֣ת]]&#8207; </big>**| ta.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  |**<big>&#8207;[[H5315G\|נַפְשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one] greedy for unjust gain  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1214I\|בֹצֵ֥עַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vo.Tze.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he blesses  |**<big>&#8207;[[H1288\|בֵּ֝רֵ֗ךְ]]&#8207; </big>**| be.Rekh<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spurns  |**<big>&#8207;[[H5006\|נִ֘אֵ֥ץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ni.'Etz<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.2|<< Psalms 10:2]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.4|Psalms 10:4 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ If he take him another [wife]; her food, her raiment, and her duty of marriage, 
 If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife.<small><sub>**MT:**</sub></small>
 [[Exod.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.9|<< Exodus 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.11|Exodus 21:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| another \[woman\] | <big><span class="asgreek">άλλην</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| he should take | <big><span class="asgreek">λάβη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to himself, | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[things\] necessary, | <big><span class="asgreek">δέοντα</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clothes, | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her companionship | <big><span class="asgreek">ομιλίαν</span></big> <sup><small><small>[[G3657]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| deprive. | <big><span class="asgreek">αποστερήσει</span></big> <sup><small><small>[[G0650]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| another \[woman\] | **<big>[[G0243\|άλλην]]</big>** |
+| he should take | **<big>[[G2983\|λάβη]]</big>** |
+| to himself, | **<big>[[G1438\|εαυτώ]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| \[things\] necessary, | **<big>[[G1163\|δέοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| clothes, | **<big>[[G2441\|ιματισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her companionship | **<big>[[G3657\|ομιλίαν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| deprive. | **<big>[[G0650\|αποστερήσει]]</big>** |
 [[Exod.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.9|<< Exodus 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.11|Exodus 21:11 >>]]</td></tr></table>
 
 

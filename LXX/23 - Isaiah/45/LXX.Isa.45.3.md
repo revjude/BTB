@@ -7,31 +7,31 @@ And I will give thee the treasures of darkness, and hidden riches of secret plac
 I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name.<small><sub>**MT:**</sub></small>
 [[Isa.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.2|<< Isaiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.4|Isaiah 45:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| treasures -- | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| obscure, | <big><span class="asgreek">σκοτεινούς</span></big> <sup><small><small>[[G4652]]</small></small></sup> |
-| concealed, | <big><span class="asgreek">αποκρύφους</span></big> <sup><small><small>[[G0614]]</small></small></sup> |
-| unseen. | <big><span class="asgreek">αοράτους</span></big> <sup><small><small>[[G0517]]</small></small></sup> |
-| I will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should know | <big><span class="asgreek">γνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calling | <big><span class="asgreek">καλών</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name, | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| treasures -- | **<big>[[G2344\|θησαυρούς]]</big>** |
+| obscure, | **<big>[[G4652\|σκοτεινούς]]</big>** |
+| concealed, | **<big>[[G0614\|αποκρύφους]]</big>** |
+| unseen. | **<big>[[G0517\|αοράτους]]</big>** |
+| I will open | **<big>[[G0455\|ανοίξω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should know | **<big>[[G1097\|γνως]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| calling | **<big>[[G2564\|καλών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name, | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.2|<< Isaiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.4|Isaiah 45:4 >>]]</td></tr></table>
 
 

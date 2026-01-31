@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּלַס‎</span></big> **pâlaç** <small>*(paw-las')*</small> ==**to envy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּלַס‎</span></big>** **pâlaç** <small>*(paw-las')*</small> ==**to envy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make, ponder, weigh.
@@ -9,4 +9,4 @@ $\quad$ make, ponder, weigh.
 $\quad$ **1a)** to weigh out
 $\quad$ **1b)** to make level or smooth
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">ὁδοιπορέω</span><sup><small>[[G3596]]</small></sup> · <span class="asgreek">ὀρθός</span><sup><small>[[G3717]]</small></sup> · <span class="asgreek">παρασκευάζω</span><sup><small>[[G3903]]</small></sup>
+<small>See Greek: </small>**<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G3596|ὁδοιπορέω]]</big>** · **<big>[[G3717|ὀρθός]]</big>** · **<big>[[G3903|παρασκευάζω]]</big>**

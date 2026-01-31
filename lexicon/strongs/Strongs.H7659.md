@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁבְעָתַיִם‎</span></big> **shibʻâthayim** <small>*(shib-aw-thah'-yim)*</small> ==**sevenfold**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>dual (adverbially) of <span class="ashebrew">‎שֶׁבַע‎</span><sup><small>[[H7651]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁבְעָתַיִם‎</span></big>** **shibʻâthayim** <small>*(shib-aw-thah'-yim)*</small> ==**sevenfold**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>dual (adverbially) of **<big>[[H7651|‎שֶׁבַע‎]]</big>**</small>
 
 $\quad$ seven(-fold, times).
 - ***seven-times***

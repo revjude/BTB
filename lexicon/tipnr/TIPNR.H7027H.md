@@ -4,10 +4,10 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Kish</span> was a Levite from the clan of Merari, whose descendants were assigned duties in the tabernacle service.
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.23.21|1Ch.23.21]]; 
-- only referred to as Kish<[[H7027H]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\); 
--  son of Mahli<[[H4249G]]>; 
-- a brother of Libni<[[H3845H]]> and Eleazar<[[H0499J]]>; 
--  father of Jerahmeel<[[H3396H]]>.
+- only referred to as Kish **<big>[[H7027|קִישׁ]]</big>**; 
+-  son of Mahli **<big>[[H4249|מַחְלִי]]</big>**; 
+- a brother of Libni **<big>[[H3845|לִבְנִי]]</big>** and Eleazar **<big>[[H0499|אֶלְעָזָר]]</big>**; 
+-  father of Jerahmeel **<big>[[H3396|יְרַחְמְאֵל]]</big>**.
 
 Kish is mentioned in [[1Chr.23.21|1 Chronicles 23:21]]-22 and 24:29 as a Levite from the clan of Merari. He is listed among the descendants of Mahli, one of the sons of Merari. 
 
@@ -19,8 +19,8 @@ Apart from these genealogical records and the mention of his descendants' duties
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027H) <small>*Hebrew*</small> | 4x | [[1Ch.23.21] ... [1Ch.24.29b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=1Ch.23.21;1Ch.23.22;1Ch.24.29;1Ch.24.29) |
-All Strong's for **Kish**: \[[[H7027H]]\]
+| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027H) | 4x | [[1Ch.23.21] ... [1Ch.24.29b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=1Ch.23.21;1Ch.23.22;1Ch.24.29;1Ch.24.29) |
+All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>**
 #### Related Profiles:
 - **[Mahli](H4249G)** (father)
 - **[Libni](H3845H)** (sibling)

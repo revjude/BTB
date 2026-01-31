@@ -7,27 +7,27 @@ From mount Hor ye shall point out [your border] unto the entrance of Hamath; and
 and from Mount Hor to Lebo-hamath, then extend to Zedad,<small><sub>**MT:**</sub></small>
 [[Num.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hor | <big><span class="asgreek">Όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| you shall measure | <big><span class="asgreek">καταμετρήσετε</span></big> <sup><small><small>[[G7876]]</small></small></sup> |
-| for yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπορευομένων</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hamath. | <big><span class="asgreek">Εμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Zedad. | <big><span class="asgreek">Σαδαδά</span></big> <sup><small><small>[[H6657]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Hor | **<big>[[G3735\|Όρος]]</big>** |
+| you shall measure | **<big>[[G7876\|καταμετρήσετε]]</big>** |
+| for yourselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| entering | **<big>[[G1531\|εισπορευομένων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hamath. | **<big>[[H2574\|Εμάθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| outer reaches | **<big>[[G1327\|διέξοδος]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| of Zedad. | **<big>[[H6657\|Σαδαδά]]</big>** |
 [[Num.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
 

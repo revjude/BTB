@@ -7,30 +7,30 @@ Thus saith the LORD; Cursed [be] the man that trusteth in man, and maketh flesh 
 This is what the LORD says: “Cursed is the man who trusts in mankind, who makes mere flesh his strength and turns his heart from the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.4|<< Jeremiah 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.6|Jeremiah 17:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Cursed \[is\] | <big><span class="asgreek">επικατάρατος</span></big> <sup><small><small>[[G1944]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fix firmly | <big><span class="asgreek">στηρίσει</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| \[the\] flesh | <big><span class="asgreek">σάρκα</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| of his arm, | <big><span class="asgreek">βραχίονος</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| should separate | <big><span class="asgreek">αποστή</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Cursed \[is\] | **<big>[[G1944\|επικατάρατος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hope | **<big>[[G1680\|ελπίδα]]</big>** |
+| has | **<big>[[G2192\|έχει]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| man, | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fix firmly | **<big>[[G4741\|στηρίσει]]</big>** |
+| \[the\] flesh | **<big>[[G4561\|σάρκα]]</big>** |
+| of his arm, | **<big>[[G1023\|βραχίονος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| should separate | **<big>[[G0868\|αποστή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.4|<< Jeremiah 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.6|Jeremiah 17:6 >>]]</td></tr></table>
 
 

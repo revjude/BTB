@@ -4,7 +4,7 @@ Moabite living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ithmah</span> the Moabite was one of the mighty warriors in David's army \([[1Chr.11.46|1Ch.11.46]]\).
 - A man of the Moabites living at the time of Divided Monarchy, only mentioned at [[1Chr.11.46|1Ch.11.46]]; 
-- only referred to as Ithmah<[[H3495]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Ithmah **<big>[[H3495|יִתְמָה]]</big>**.
 
 Ithmah the Moabite is mentioned briefly in [[1Chr.11.46|1 Chronicles 11:46]] as one of the mighty warriors who joined David's army. He is listed among the warriors from various tribes and nations who supported David during his reign as king of Israel. 
 
@@ -14,5 +14,5 @@ No other details are provided about Ithmah's background, family, or specific mil
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ithmah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3495) <small>*Hebrew*</small> | 1x | [1Ch.11.46 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithmah\*\|reference=1Ch.11.46) |
-All Strong's for **Ithmah**: \[[[H3495]]\]
+| Ithmah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3495) | 1x | [1Ch.11.46 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithmah\*\|reference=1Ch.11.46) |
+All entries for **Ithmah**:  **<big>[[H3495|יִתְמָה]]</big>**

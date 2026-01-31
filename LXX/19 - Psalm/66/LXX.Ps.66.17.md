@@ -7,18 +7,18 @@ I cried unto him with my mouth, and he was extolled with my tongue.
 I cried out to Him with my mouth and praised Him with my tongue.<small><sub>**MT:**</sub></small>
 [[Ps.66.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.16|<< Psalm 66:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.18|Psalm 66:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I cried out, | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I raised up high | <big><span class="asgreek">ύψωσα</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my tongue. | <big><span class="asgreek">γλώσσάν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| To | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my mouth | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I cried out, | **<big>[[G2896\|εκέκραξα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I raised up high | **<big>[[G5312\|ύψωσα]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my tongue. | **<big>[[G1100\|γλώσσάν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.66.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.16|<< Psalm 66:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.18|Psalm 66:18 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Wherefore should the heathen say, Where [is] their God? let him be known among t
 Why should the nations ask, “Where is their God?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants.<small><sub>**MT:**</sub></small>
 [[Ps.79.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.9|<< Psalm 79:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.11|Psalm 79:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| should say | <big><span class="asgreek">είπωσι</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God? | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let it be known | <big><span class="asgreek">γνωσθήτω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our eyes, | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδίκησις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being poured out! | <big><span class="asgreek">εκκεχυμένου</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| Lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| should say | **<big>[[G2036\|είπωσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their God? | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| let it be known | **<big>[[G1097\|γνωσθήτω]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσιν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| our eyes, | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| vengeance | **<big>[[G1557\|εκδίκησις]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| being poured out! | **<big>[[G1632\|εκκεχυμένου]]</big>** |
 [[Ps.79.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.9|<< Psalm 79:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.11|Psalm 79:11 >>]]</td></tr></table>
 
 

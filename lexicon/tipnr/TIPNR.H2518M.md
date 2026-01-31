@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hilkiah</span>, a priest from Anathoth, was the father of the prophet Jeremiah.
 - A man living at the time of Divided Monarchy, only mentioned at [[Jer.1.1|Jer.1.1]]; 
-- only referred to as Hilkiah<[[H2518M]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a brother of Shallum<[[H7967R]]>; 
--  father of Jeremiah<[[H3414L]]>.
+- only referred to as Hilkiah **<big>[[H2518|חִלְקִיָּה]]</big>**; 
+- a brother of Shallum **<big>[[H7967|שַׁלּוּם]]</big>**; 
+-  father of Jeremiah **<big>[[H3414|יִרְמְיָה]]</big>**.
 
 Hilkiah is mentioned in [[Jer.1.1|Jeremiah 1:1]] as the father of the prophet Jeremiah. He is described as one of the priests living in Anathoth, a city in the territory of Benjamin, just a few miles northeast of Jerusalem. 
 
@@ -16,8 +16,8 @@ Although little is known about Hilkiah beyond this brief mention, his role as th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518M) <small>*Hebrew*</small> | 1x | [Jer.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=Jer.1.1) |
-All Strong's for **Hilkiah**: \[[[H2518M]]\]
+| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518M) | 1x | [Jer.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=Jer.1.1) |
+All entries for **Hilkiah**:  **<big>[[H2518|חִלְקִיָּה]]</big>**
 #### Related Profiles:
 - **[father_of_Hilkiah](H2518N)** (father)
 - **[Shallum](H7967R)** (sibling)

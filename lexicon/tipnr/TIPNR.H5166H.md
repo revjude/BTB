@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nehemiah</span>, the son of Hacaliah, served as the governor of Judah and led the rebuilding of Jerusalem's walls in the mid-5th century BC.
 - A man living at the time of Exile and Return, first mentioned at [[Neh.1.1|Neh.1.1]]; 
-- only referred to as Nehemiah<[[H5166H]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Hacaliah<[[H2446]]>; 
-- a brother of Hanani<[[H2607J]]>.
+- only referred to as Nehemiah **<big>[[H5166|נְחֶמְיָה]]</big>**; 
+-  son of Hacaliah **<big>[[H2446|חֲכַלְיָה]]</big>**; 
+- a brother of Hanani **<big>[[H2607|חֲנָנִי]]</big>**.
 
 Nehemiah, the son of Hacaliah, was a prominent Jewish leader who served as the governor of Judah during the Persian period. He played a crucial role in the rebuilding of Jerusalem's walls and the restoration of the Jewish community in the mid-5th century BC. 
 
@@ -20,8 +20,8 @@ The book of Nehemiah, which bears his name, provides a detailed account of his l
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166H) <small>*Hebrew*</small> | 5x | [[Neh.1.1] ... [Neh.12.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Neh.1.1;Neh.8.9;Neh.10.1;Neh.12.26;Neh.12.47) |
-All Strong's for **Nehemiah**: \[[[H5166H]]\]
+| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166H) | 5x | [[Neh.1.1] ... [Neh.12.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Neh.1.1;Neh.8.9;Neh.10.1;Neh.12.26;Neh.12.47) |
+All entries for **Nehemiah**:  **<big>[[H5166|נְחֶמְיָה]]</big>**
 #### Related Profiles:
 - **[Hacaliah](H2446)** (father)
 - **[Hanani](H2607J)** (sibling)

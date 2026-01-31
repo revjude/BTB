@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎μετέπειτα‎</span></big> **metépeita** <small>*(met-ep'-i-tah)*</small> ==**afterward**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
-<small>from <span class="asgreek">μετά</span><sup><small>[[G3326]]</small></sup> and <span class="asgreek">ἔπειτα</span><sup><small>[[G1899]]</small></sup></small>
+**<big><span class="asgreek">‎μετέπειτα‎</span></big>** **metépeita** <small>*(met-ep'-i-tah)*</small> ==**afterward**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
+<small>from **<big>[[G3326|‎μετά‎]]</big>** and **<big>[[G1899|‎ἔπειτα‎]]</big>**</small>
 
 $\quad$ afterward.
 - thereafter

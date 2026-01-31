@@ -7,22 +7,22 @@ With arrows and with bows shall [men] come thither; because all the land shall b
 Men will go there with bow and arrow, for the land will be covered with briers and thorns.<small><sub>**MT:**</sub></small>
 [[Isa.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.23|<< Isaiah 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.25|Isaiah 7:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| arrow | <big><span class="asgreek">βέλους</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bow | <big><span class="asgreek">τοξεύματος</span></big> <sup><small><small>[[G9463]]</small></small></sup> |
-| they shall enter | <big><span class="asgreek">εισελεύσονται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| there; | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it is\] an uncultivated land, | <big><span class="asgreek">χέρσος</span></big> <sup><small><small>[[G9719]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] thorn-bush | <big><span class="asgreek">άκανθα</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| With | **<big>[[G3326\|μετά]]</big>** |
+| arrow | **<big>[[G0956\|βέλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bow | **<big>[[G9463\|τοξεύματος]]</big>** |
+| they shall enter | **<big>[[G1525\|εισελεύσονται]]</big>** |
+| there; | **<big>[[G1563\|εκεί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[it is\] an uncultivated land, | **<big>[[G9719\|χέρσος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] thorn-bush | **<big>[[G0173\|άκανθα]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| in all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land. | **<big>[[G1093\|γη]]</big>** |
 [[Isa.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.23|<< Isaiah 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.25|Isaiah 7:25 >>]]</td></tr></table>
 
 

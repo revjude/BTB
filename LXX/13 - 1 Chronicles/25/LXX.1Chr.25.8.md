@@ -7,23 +7,23 @@ And they cast lots, ward against [ward], as well the small as the great, the tea
 They cast lots for their duties, young and old alike, teacher as well as pupil.<small><sub>**MT:**</sub></small>
 [[1Chr.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.7|<< 1 Chronicles 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.9|1 Chronicles 25:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they threw | <big><span class="asgreek">έβαλον</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lots | <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| for \[the\] daily rotations, | <big><span class="asgreek">εφημεριών</span></big> <sup><small><small>[[G2183]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great, | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[the\] ones perfected | <big><span class="asgreek">τελείων</span></big> <sup><small><small>[[G5046]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one learning. | <big><span class="asgreek">μανθάνοντος</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they threw | **<big>[[G0906\|έβαλον]]</big>** |
+| for themselves | **<big>[[G1473\|αυτοίς]]</big>** |
+| lots | **<big>[[G2819\|κλήρους]]</big>** |
+| for \[the\] daily rotations, | **<big>[[G2183\|εφημεριών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| small | **<big>[[G3398\|μικρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| great, | **<big>[[G3173\|μέγαν]]</big>** |
+| \[the\] ones perfected | **<big>[[G5046\|τελείων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one learning. | **<big>[[G3129\|μανθάνοντος]]</big>** |
 [[1Chr.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.7|<< 1 Chronicles 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.9|1 Chronicles 25:9 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ Let everything that has breath praise the LORD! Hallelujah!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.150.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.150.5|<< Psalms 150:5]]</td><td align="center" style="border:none;">[[Ps.150|Psalms 150]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.1|Proverbs 1:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| every  | <span class="ashebrew"><big>כֹּ֣ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> breathing thing  | <span class="ashebrew"><big>הַ֭ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נְּשָׁמָה </big></span><small><small><sup>[[H5397]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTd]]</sup></small> ne.sha.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it praise  | <span class="ashebrew"><big>תְּהַלֵּ֥ל </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| te.ha.Lel <small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָ֗הּ </big></span><small><small><sup>[[H3050]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| praise  | <span class="ashebrew"><big>הַֽלְלוּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha.lu- <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָֽהּ </big></span><small><small><sup>[[H3050]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> breathing thing  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H5397\|נְּשָׁמָה]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ne.sha.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it praise  |**<big>&#8207;[[H1984B\|תְּהַלֵּ֥ל]]&#8207; </big>**| te.ha.Lel<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָ֗הּ]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H1984B\|הַֽלְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.lu-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָֽהּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.150.5|<< Psalms 150:5]]</td><td align="center" style="border:none;">[[Ps.150|Psalms 150]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.1|Proverbs 1:1 >>]]</td></tr></table>
 
 

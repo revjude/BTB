@@ -10,47 +10,47 @@ Thus saith the LORD; For three transgressions of Judah, and for four, I will not
 This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked.<small><sub>**MT:**</sub></small>
 [[Amos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.3|<< Amos 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.5|Amos 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their thrusting away | <big><span class="asgreek">απώσασθαι</span></big> <sup><small><small>[[G0683]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his orders | <big><span class="asgreek">προστάγματα</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they kept not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εφυλάξαντο</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| caused them to wander | <big><span class="asgreek">επλάνησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their vain \[idols\] | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the ones which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| followed | <big><span class="asgreek">εξηκολούθησαν</span></big> <sup><small><small>[[G1811]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| it; | **<big>[[G1473\|αυτόν]]</big>** |
+| Because | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their thrusting away | **<big>[[G0683\|απώσασθαι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| law | **<big>[[G3551\|νόμον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his orders | **<big>[[G8943\|προστάγματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they kept not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5442\|εφυλάξαντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| caused them to wander | **<big>[[G4105\|επλάνησαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their vain \[idols\] | **<big>[[G3152\|μάταια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| the ones which | **<big>[[G3739\|οις]]</big>** |
+| followed | **<big>[[G1811\|εξηκολούθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Amos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.3|<< Amos 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.5|Amos 2:5 >>]]</td></tr></table>
 
 

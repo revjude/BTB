@@ -6,13 +6,13 @@ He had four unmarried daughters who prophesied.
 <small><sub>**Literal:**</sub></small>
 With this [man] now there were daughters four virgins prophesying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.8|<< Acts 21:8]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.10|Acts 21:10 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| With this [man] |<big><span class="asgreek">τούτῳ</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| there were |<big><span class="asgreek">ἦσαν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| daughters |<big><span class="asgreek">θυγατέρες</span></big> <small><small><sup>[[G2364]]</sup></small></small> |thugateres <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| four |<big><span class="asgreek">τέσσαρες</span></big> <small><small><sup>[[G5064]]</sup></small></small> |tessares <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| virgins |<big><span class="asgreek">παρθένοι</span></big> <small><small><sup>[[G3933]]</sup></small></small> |parthenoi <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prophesying. |<big><span class="asgreek">προφητεύουσαι.¶</span></big> <small><small><sup>[[G4395]]</sup></small></small> |prophēteuousai <small><sup>[[V-PAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| With this [man] |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| there were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| daughters |**<big>[[G2364\|θυγατέρες]]</big>**  |thugateres <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| four |**<big>[[G5064\|τέσσαρες]]</big>**  |tessares <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| virgins |**<big>[[G3933\|παρθένοι]]</big>**  |parthenoi <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prophesying. |**<big>[[G4395\|προφητεύουσαι.¶]]</big>**  |prophēteuousai <small><sup>[[V-PAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.8|<< Acts 21:8]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.10|Acts 21:10 >>]]</td></tr></table>

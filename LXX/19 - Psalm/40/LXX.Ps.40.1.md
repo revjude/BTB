@@ -16,19 +16,19 @@ For the choirmaster. A Psalm of David. I waited patiently for the LORD; He incli
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Enduring, | <big><span class="asgreek">υπομένων</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| I waited | <big><span class="asgreek">υπέμεινα</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| on the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took heed | <big><span class="asgreek">προσέσχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heard | <big><span class="asgreek">εισήκουσε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my supplication. | <big><span class="asgreek">δεήσεώς</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Enduring, | **<big>[[G5278\|υπομένων]]</big>** |
+| I waited | **<big>[[G5278\|υπέμεινα]]</big>** |
+| on the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took heed | **<big>[[G4337\|προσέσχε]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he heard | **<big>[[G1522\|εισήκουσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my supplication. | **<big>[[G1162\|δεήσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
 
 

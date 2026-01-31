@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">θησαυρός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τίθημι</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">אוֹצָר</span> <small><sup>[[H0214]]</sup></small>;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">θησαυρός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τίθημι</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H0214|אוֹצָר]]</big>**;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a place of safe keeping</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a casket</span>: [[Matt.2.11|Mt 2:11]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">a treasury</span> ([[1Macc.3.29|I Mac 3:29]] and freq. in cl.);</span>

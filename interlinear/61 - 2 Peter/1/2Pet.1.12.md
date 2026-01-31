@@ -6,24 +6,24 @@ Therefore I will always remind you of these things, even though you know them an
 <small><sub>**Literal:**</sub></small>
 Therefore I will be ready always you to remind concerning these things though knowing [them] and strengthened in the being present [in you] truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.11|<< 2 Peter 1:11]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.13|2 Peter 1:13 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Therefore |<big><span class="asgreek">Διὸ</span></big> <small><small><sup>[[G1352]]</sup></small></small> |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I will be ready [^1] [^2] |<big><span class="asgreek">μελλήσω</span></big> <small><small><sup>[[G3195]]</sup></small></small> |mellēsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| always |<big><span class="asgreek">ἀεὶ</span></big> <small><small><sup>[[G0104]]</sup></small></small> |aei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<big><span class="asgreek">ὑμᾶς</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«2+Byz">NKO</abbr> | |
-| to remind |<big><span class="asgreek">ὑπομιμνῄσκειν</span></big> <small><small><sup>[[G5279]]</sup></small></small> |hupomimnēskein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| concerning |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| these things |<big><span class="asgreek">τούτων</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| though |<big><span class="asgreek">καίπερ</span></big> <small><small><sup>[[G2539]]</sup></small></small> |kaiper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knowing [them] |<big><span class="asgreek">εἰδότας</span></big> <small><small><sup>[[G6063]]</sup></small></small> |eidotas <small><sup>[[V-RAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| strengthened |<big><span class="asgreek">ἐστηριγμένους</span></big> <small><small><sup>[[G4741]]</sup></small></small> |estērigmenous <small><sup>[[V-RPP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being present [in you] |<big><span class="asgreek">παρούσῃ</span></big> <small><small><sup>[[G3918]]</sup></small></small> |parousē <small><sup>[[V-PAP-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| truth. |<big><span class="asgreek">ἀληθείᾳ.</span></big> <small><small><sup>[[G0225]]</sup></small></small> |alētheia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I will be ready [^1] [^2] |**<big>[[G3195\|μελλήσω]]</big>**  |mellēsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| always |**<big>[[G0104\|ἀεὶ]]</big>**  |aei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«2+Byz">NKO</abbr> | |
+| to remind |**<big>[[G5279\|ὑπομιμνῄσκειν]]</big>**  |hupomimnēskein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| these things |**<big>[[G3778\|τούτων]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| though |**<big>[[G2539\|καίπερ]]</big>**  |kaiper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knowing [them] |**<big>[[G6063\|εἰδότας]]</big>**  |eidotas <small><sup>[[V-RAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| strengthened |**<big>[[G4741\|ἐστηριγμένους]]</big>**  |estērigmenous <small><sup>[[V-RPP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being present [in you] |**<big>[[G3918\|παρούσῃ]]</big>**  |parousē <small><sup>[[V-PAP-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| truth. |**<big>[[G0225\|ἀληθείᾳ.]]</big>**  |alētheia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.11|<< 2 Peter 1:11]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.13|2 Peter 1:13 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**οὐκ**</span> <span class='asgreek'>**ἀμελήσω**</span>  (<i>ouk amelēsō</i>) 'not will neglect' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**μελλήσω**</span>  (<i>mellēsō</i>) 'I will be ready' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^2]: ==V-FAI-1S==: not will neglect | <span class="asgreek">οὐκ ἀμελήσω</span><small><sup>[[G3756]]</sup></small> | ouk amelēsō<small><sup>[[PRT-N + G0272]]</sup></small>
+[^1]: Variant:  **<big><span class='asgreek'>οὐκ</span></big>** **<big><span class='asgreek'>ἀμελήσω</span></big>**  (<i>ouk amelēsō</i>) 'not will neglect' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>μελλήσω</span></big>**  (<i>mellēsō</i>) 'I will be ready' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^2]: ==V-FAI-1S==: not will neglect | **<big>[[G3756|οὐκ ἀμελήσω]]</big>** | ouk amelēsō<small><sup>[[PRT-N + G0272]]</sup></small>

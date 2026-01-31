@@ -7,27 +7,27 @@ And the children of Gad and the children of Reuben spake unto Moses, saying, Thy
 The Gadites and Reubenites said to Moses, “Your servants will do just as our lord commands.<small><sub>**MT:**</sub></small>
 [[Num.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.24|<< Numbers 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.26|Numbers 32:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Reuben | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gad | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your servants | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our master | <big><span class="asgreek">κυριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives charge. | <big><span class="asgreek">εντέλλεται</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2036\|είπαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Reuben | **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Gad | **<big>[[G1045\|Γαδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your servants | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our master | **<big>[[G2962\|κυριός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| gives charge. | **<big>[[G1781\|εντέλλεται]]</big>** |
 [[Num.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.24|<< Numbers 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.26|Numbers 32:26 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed wh
 Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled—both the crop you plant and the fruit of your vineyard.<small><sub>**MT:**</sub></small>
 [[Deut.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.8|<< Deuteronomy 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.10|Deuteronomy 22:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| scatter abroad | <big><span class="asgreek">κατασπερείς</span></big> <sup><small><small>[[G7925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your vineyard | <big><span class="asgreek">αμπελώνά</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| diverse \[seed\], | <big><span class="asgreek">διάφορον</span></big> <sup><small><small>[[G1313]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be sanctified | <big><span class="asgreek">αγιασθή</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| produce | <big><span class="asgreek">γένημα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should sow | <big><span class="asgreek">σπείρης</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| produce | <big><span class="asgreek">γενήματος</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your vineyard. | <big><span class="asgreek">αμπελωνός</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| scatter abroad | **<big>[[G7925\|κατασπερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your vineyard | **<big>[[G0290\|αμπελώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| diverse \[seed\], | **<big>[[G1313\|διάφορον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be sanctified | **<big>[[G0037\|αγιασθή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| produce | **<big>[[G1081\|γένημα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should sow | **<big>[[G4687\|σπείρης]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| produce | **<big>[[G1081\|γενήματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your vineyard. | **<big>[[G0290\|αμπελωνός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.8|<< Deuteronomy 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.10|Deuteronomy 22:10 >>]]</td></tr></table>
 
 

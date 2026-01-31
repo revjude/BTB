@@ -7,19 +7,19 @@ My soul [waiteth] for the Lord more than they that watch for the morning: [I say
 My soul waits for the Lord more than watchmen wait for the morning—more than watchmen wait for the morning.<small><sub>**MT:**</sub></small>
 [[Ps.130.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.5|<< Psalm 130:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.7|Psalm 130:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| hoped | <big><span class="asgreek">ήλπισεν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| watch | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| \[the\] morning | <big><span class="asgreek">πρωϊας</span></big> <sup><small><small>[[G4405]]</small></small></sup> |
-| till | <big><span class="asgreek">μέχρι</span></big> <sup><small><small>[[G3360]]</small></small></sup> |
-| night. | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| hoped | **<big>[[G1679\|ήλπισεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| watch | **<big>[[G5438\|φυλακής]]</big>** |
+| \[the\] morning | **<big>[[G4405\|πρωϊας]]</big>** |
+| till | **<big>[[G3360\|μέχρι]]</big>** |
+| night. | **<big>[[G3571\|νυκτός]]</big>** |
 [[Ps.130.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.5|<< Psalm 130:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.7|Psalm 130:7 >>]]</td></tr></table>
 
 

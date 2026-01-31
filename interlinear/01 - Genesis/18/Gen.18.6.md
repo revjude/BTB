@@ -6,22 +6,22 @@ So Abraham hurried into the tent and said to Sarah, “Quick! Prepare three seah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.5|<< Genesis 18:5]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.7|Genesis 18:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he hurried  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְמַהֵ֧ר </big></span><small><small><sup>[[H4116A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.ma.Her <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֛ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the tent towards  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֹ֖הֱלָ </big></span><small><small><sup>[[H0168G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'O.he.la <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sarah  | <span class="ashebrew"><big>שָׂרָ֑ה </big></span><small><small><sup>[[H8283]]</sup></small></small> &#8207;| sa.Rah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֗אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bring quickly  | <span class="ashebrew"><big>מַהֲרִ֞י </big></span><small><small><sup>[[H4116A]]</sup></small></small> &#8207;| ma.ha.Ri <small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֤שׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Losh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seahs  | <span class="ashebrew"><big>סְאִים֙ </big></span><small><small><sup>[[H5429]]</sup></small></small> &#8207;| se.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flour  | <span class="ashebrew"><big>קֶ֣מַח </big></span><small><small><sup>[[H7058]]</sup></small></small> &#8207;| Ke.mach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fine flour  | <span class="ashebrew"><big>סֹ֔לֶת </big></span><small><small><sup>[[H5560]]</sup></small></small> &#8207;| So.let <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knead [it]  | <span class="ashebrew"><big>ל֖וּשִׁי </big></span><small><small><sup>[[H3888]]</sup></small></small> &#8207;| Lu.shi <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and make  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲשִׂ֥י </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Si <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bread cakes  | <span class="ashebrew"><big>עֻגֽוֹת </big></span><small><small><sup>[[H5692]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u.Got <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he hurried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|יְמַהֵ֧ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Her<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֛ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tent towards  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0168G\|אֹ֖הֱלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.he.la<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֑ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bring quickly  |**<big>&#8207;[[H4116A\|מַהֲרִ֞י]]&#8207; </big>**| ma.ha.Ri<small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֤שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seahs  |**<big>&#8207;[[H5429\|סְאִים֙]]&#8207; </big>**| se.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flour  |**<big>&#8207;[[H7058\|קֶ֣מַח]]&#8207; </big>**| Ke.mach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  |**<big>&#8207;[[H5560\|סֹ֔לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knead [it]  |**<big>&#8207;[[H3888\|ל֖וּשִׁי]]&#8207; </big>**| Lu.shi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and make  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213H\|עֲשִׂ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Si<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread cakes  |**<big>&#8207;[[H5692\|עֻגֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.Got<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.5|<< Genesis 18:5]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.7|Genesis 18:7 >>]]</td></tr></table>
 
 

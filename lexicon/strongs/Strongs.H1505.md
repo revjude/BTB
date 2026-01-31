@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎גְּזַר‎</span></big> **gᵉzar** <small>*(ghez-ar')*</small> ==**to determine**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎גָּזַר‎</span><sup><small>[[H1504]]</small></sup></small>
+**<big><span class="asaramaic">‎גְּזַר‎</span></big>** **gᵉzar** <small>*(ghez-ar')*</small> ==**to determine**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1504|‎גָּזַר‎]]</big>**</small>
 
 $\quad$ cut out, soothsayer.
 - ***to quarry***

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁלַם‎</span></big> **shᵉlam** <small>*(shel-am')*</small> ==**be complete**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁלַם‎</span></big>** **shᵉlam** <small>*(shel-am')*</small> ==**be complete**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7999|‎שָׁלַם‎]]</big>**</small>
 
 $\quad$ deliver, finish.
 - ***to complete***, ***to restore***

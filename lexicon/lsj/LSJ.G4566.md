@@ -1,4 +1,4 @@
-name of: <small>[[H7854]]</small> 
+name of: <small>**<big>[[H7854|שָׂטָן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σατάν==</span></b> 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Paphos</span> was a city on the island of Cyprus, where Paul and Barnabas encountered a sorcerer and converted the proconsul to Christianity.
 - A location first mentioned at [[Gen.31.24|Act.13.6]]; 
-- only referred to as Paphos<[[G3974]]> \(<span class='tipnrLangGreek'>Πάφος</span>\).
+- only referred to as Paphos **<big>[[G3974|Πάφος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.75410576175517,32.40016213313376&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Paul, filled with the Holy Spirit, rebuked Elymas and temporarily blinded him, d
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Paphos | [<span class='tipnrLangGreek'>Πάφος</span>](G3974) <small>*Greek*</small> | 2x | [[Act.13.6] & [Act.13.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paphos\*\|reference=Act.13.6;Act.13.13) |
-All Strong's for **Paphos**: \[[[G3974]]\]
+| Paphos | [<span class='tipnrLangGreek'>Πάφος</span>](G3974) | 2x | [[Act.13.6] & [Act.13.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paphos\*\|reference=Act.13.6;Act.13.13) |
+All entries for **Paphos**:  **<big>[[G3974|Πάφος]]</big>**

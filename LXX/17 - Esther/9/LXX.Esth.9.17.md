@@ -7,24 +7,24 @@ On the thirteenth day of the month Adar; and on the fourteenth day of the same r
 This was done on the thirteenth day of the month of Adar, and on the fourteenth day they rested, making it a day of feasting and joy.<small><sub>**MT:**</sub></small>
 [[Esth.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.16|<< Esther 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.18|Esther 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they rested | <big><span class="asgreek">ανεπαύσαντο</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτη</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they celebrated | <big><span class="asgreek">ήγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as a day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of rest | <big><span class="asgreek">αναπαύσεως</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| joy | <big><span class="asgreek">χαράς</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gladness. | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they rested | **<big>[[G0373\|ανεπαύσαντο]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| fourteenth | **<big>[[G5065\|τεσσαρεσκαιδεκάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| same | **<big>[[G1473\|αυτού]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they celebrated | **<big>[[G0071\|ήγον]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| as a day | **<big>[[G2250\|ημέραν]]</big>** |
+| of rest | **<big>[[G0372\|αναπαύσεως]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| joy | **<big>[[G5479\|χαράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gladness. | **<big>[[G2167\|ευφροσύνης]]</big>** |
 [[Esth.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.16|<< Esther 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.18|Esther 9:18 >>]]</td></tr></table>
 
 

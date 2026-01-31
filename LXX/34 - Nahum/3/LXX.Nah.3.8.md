@@ -7,28 +7,28 @@ Art thou better than populous No, that was situate among the rivers, [that had] 
 Are you better than Thebes, stationed by the Nile with water around her, whose rampart was the sea, whose wall was the water?<small><sub>**MT:**</sub></small>
 [[Nah.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.7|<< Nahum 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.9|Nahum 3:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Tune | <big><span class="asgreek">αρμόσαι</span></big> <sup><small><small>[[G0718]]</small></small></sup> |
-| \[the\] string of the lyre! | <big><span class="asgreek">χορδήν</span></big> <sup><small><small>[[G9746]]</small></small></sup> |
-| Prepare | <big><span class="asgreek">ετοιμάσαι</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| a part | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| for Amon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabiting | <big><span class="asgreek">κατοικούσα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rivers! | <big><span class="asgreek">ποταμοίς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \[is\] round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whose | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rule | <big><span class="asgreek">άρχη</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \[is the\] sea, | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her walls | <big><span class="asgreek">τείχη</span></big> <sup><small><small>[[G5038]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Tune | **<big>[[G0718\|αρμόσαι]]</big>** |
+| \[the\] string of the lyre! | **<big>[[G9746\|χορδήν]]</big>** |
+| Prepare | **<big>[[G2090\|ετοιμάσαι]]</big>** |
+| a part | **<big>[[G3310\|μερίς]]</big>** |
+| for Amon, | **<big>[[H5983\|Αμμών]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| inhabiting | **<big>[[G2730\|κατοικούσα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rivers! | **<big>[[G4215\|ποταμοίς]]</big>** |
+| Water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \[is\] round about | **<big>[[G2945\|κύκλω]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| whose | **<big>[[G3739\|ης]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| rule | **<big>[[G0746\|άρχη]]</big>** |
+| \[is the\] sea, | **<big>[[G2281\|θάλασσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her walls | **<big>[[G5038\|τείχη]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Nah.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.7|<< Nahum 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.9|Nahum 3:9 >>]]</td></tr></table>
 
 

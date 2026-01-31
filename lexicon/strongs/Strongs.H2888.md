@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טַבַּת‎</span></big> **Ṭabbath** <small>*(tab-bath')*</small> ==**Tabbath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎טַבַּת‎</span></big>** **Ṭabbath** <small>*(tab-bath')*</small> ==**Tabbath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Tabbath.

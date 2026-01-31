@@ -11,17 +11,17 @@ The eyes of the LORD are on the righteous, and His ears are inclined to their cr
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] just, | <big><span class="asgreek">δικαίους</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their supplication. | <big><span class="asgreek">δέησιν</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] just, | **<big>[[G1342\|δικαίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his ears | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] unto | **<big>[[G1519\|εις]]</big>** |
+| their supplication. | **<big>[[G1162\|δέησιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.14|<< Psalm 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.16|Psalm 34:16 >>]]</td></tr></table>
 
 

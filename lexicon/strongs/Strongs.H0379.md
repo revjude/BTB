@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִישְׁהוֹד‎</span></big> **ʼÎyshᵉhôwd** <small>*(eesh-hode')*</small> ==**Ishhod**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אִישׁ‎</span><sup><small>[[H0376]]</small></sup> and <span class="ashebrew">‎הוֹד‎</span><sup><small>[[H1935]]</small></sup>; man of renown</small>
+**<big><span class="ashebrew">‎אִישְׁהוֹד‎</span></big>** **ʼÎyshᵉhôwd** <small>*(eesh-hode')*</small> ==**Ishhod**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0376|‎אִישׁ‎]]</big>** and **<big>[[H1935|‎הוֹד‎]]</big>**; man of renown</small>
 
 $\quad$ Ishod.
 - § Ishod = *"man of majesty"*

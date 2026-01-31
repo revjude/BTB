@@ -14,31 +14,31 @@ Look, here come the riders, horsemen in pairs.” And one answered, saying: “F
 > $\quad$ referenced by: [[Rev.14.8|Rev 14:8]] ☩ [[Rev.18.2|Rev 18:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| comes -- | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| a rider | <big><span class="asgreek">αναβάτης</span></big> <sup><small><small>[[G6275]]</small></small></sup> |
-| of a double chariot; | <big><span class="asgreek">ξυνωρίδος</span></big> <sup><small><small>[[G8432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responding | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Has fallen, | <big><span class="asgreek">πέπτωκε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| has fallen, | <big><span class="asgreek">πέπτωκε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her statues; | <big><span class="asgreek">αγάλματα</span></big> <sup><small><small>[[G6111]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her handmade \[idols\] | <big><span class="asgreek">χειροποίητα</span></big> <sup><small><small>[[G5499]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were broken | <big><span class="asgreek">συνετρίβησαν</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| comes -- | **<big>[[G2064\|έρχεται]]</big>** |
+| a rider | **<big>[[G6275\|αναβάτης]]</big>** |
+| of a double chariot; | **<big>[[G8432\|ξυνωρίδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| responding | **<big>[[G0611\|αποκριθείς]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Has fallen, | **<big>[[G4098\|πέπτωκε]]</big>** |
+| has fallen, | **<big>[[G4098\|πέπτωκε]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her statues; | **<big>[[G6111\|αγάλματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her handmade \[idols\] | **<big>[[G5499\|χειροποίητα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were broken | **<big>[[G4937\|συνετρίβησαν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
 [[Isa.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.8|<< Isaiah 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.10|Isaiah 21:10 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters
 Now Hiram king of Tyre sent envoys to David, along with cedar logs, carpenters, and stonemasons, and they built a palace for David.<small><sub>**MT:**</sub></small>
 [[2Sam.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.10|<< 2 Samuel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.12|2 Samuel 5:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Tyre | <big><span class="asgreek">Τύρου</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedars, | <big><span class="asgreek">κέδρινα</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fabricators | <big><span class="asgreek">τέκτονας</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of woods, | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fabricators | <big><span class="asgreek">τέκτονας</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of stones, | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they built | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Tyre | **<big>[[G5184\|Τύρου]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| of cedars, | **<big>[[G7989\|κέδρινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fabricators | **<big>[[G5045\|τέκτονας]]</big>** |
+| of woods, | **<big>[[G3586\|ξύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fabricators | **<big>[[G5045\|τέκτονας]]</big>** |
+| of stones, | **<big>[[G3037\|λίθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they built | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for David. | **<big>[[G4622\|Δαυίδ]]</big>** |
 [[2Sam.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.10|<< 2 Samuel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.12|2 Samuel 5:12 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ Arise, go to Nineveh, that great city, and cry against it; for their wickedness 
 “Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.”<small><sub>**MT:**</sub></small>
 [[Jonah.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.1|<< Jonah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.3|Jonah 1:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rise up, | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύθητι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Nineveh | <big><span class="asgreek">Νινευϊ</span></big> <sup><small><small>[[G3535]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proclaim | <big><span class="asgreek">κήρυξον</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its evils | <big><span class="asgreek">κακίας αυτής</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Rise up, | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορεύθητι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Nineveh | **<big>[[G3535\|Νινευϊ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| great | **<big>[[G3173\|μεγάλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| proclaim | **<big>[[G2784\|κήρυξον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it! | **<big>[[G1473\|αυτή]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cry | **<big>[[G2906\|κραυγή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of its evils | **<big>[[G2549\|κακίας αυτής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Jonah.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.1|<< Jonah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.3|Jonah 1:3 >>]]</td></tr></table>
 
 

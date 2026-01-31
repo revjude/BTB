@@ -7,27 +7,27 @@ Behold, thy people in the midst of thee [are] women: the gates of thy land shall
 Look at your troops—they are like your women! The gates of your land are wide open to your enemies; fire consumes their bars.<small><sub>**MT:**</sub></small>
 [[Nah.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.12|<< Nahum 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.14|Nahum 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies. | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| By opening | <big><span class="asgreek">ανοιγόμεναι</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| shall be open | <big><span class="asgreek">ανοιχθήσονται</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| Fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bars | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| of your \[gates\]. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| women | **<big>[[G1135\|γυναίκες]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| your enemies. | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| By opening | **<big>[[G0455\|ανοιγόμεναι]]</big>** |
+| shall be open | **<big>[[G0455\|ανοιχθήσονται]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| Fire | **<big>[[G4442\|πυρ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bars | **<big>[[G8352\|μοχλούς]]</big>** |
+| of your \[gates\]. | **<big>[[G1473\|σου]]</big>** |
 [[Nah.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.12|<< Nahum 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.14|Nahum 3:14 >>]]</td></tr></table>
 
 

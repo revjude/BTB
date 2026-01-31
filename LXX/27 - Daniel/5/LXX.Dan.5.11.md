@@ -7,50 +7,50 @@ There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in 
 There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king,<small><sub>**MT:**</sub></small>
 [[Dan.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.10|<< Daniel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.12|Daniel 5:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your kingdom | <big><span class="asgreek">βασιλεία σου</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vigilance, | <big><span class="asgreek">γρηγόρησις</span></big> <sup><small><small>[[G6769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| understanding, | <big><span class="asgreek">σύνεσις</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| was found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of enchanters | <big><span class="asgreek">επαοιδών</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
-| of magi | <big><span class="asgreek">μάγων</span></big> <sup><small><small>[[G3097]]</small></small></sup> |
-| of Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| \[and\] of astrologers | <big><span class="asgreek">γαζαρηνών</span></big> <sup><small><small>[[G6708]]</small></small></sup> |
-| placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| There is | **<big>[[G1510\|έστιν]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your kingdom | **<big>[[G0932\|βασιλεία σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| vigilance, | **<big>[[G6769\|γρηγόρησις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| understanding, | **<big>[[G4907\|σύνεσις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| was found | **<big>[[G2147\|ευρέθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| of enchanters | **<big>[[G7368\|επαοιδών]]</big>** |
+| of magi | **<big>[[G3097\|μάγων]]</big>** |
+| of Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| \[and\] of astrologers | **<big>[[G6708\|γαζαρηνών]]</big>** |
+| placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
 [[Dan.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.10|<< Daniel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.12|Daniel 5:12 >>]]</td></tr></table>
 
 

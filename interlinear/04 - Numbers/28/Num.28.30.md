@@ -6,13 +6,13 @@ Include one male goat to make atonement for you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.29|<< Numbers 28:29]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.31|Numbers 28:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a male goat of  | <span class="ashebrew"><big>שְׂעִ֥יר </big></span><small><small><sup>[[H8163B]]</sup></small></small> &#8207;| se.'Ir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עִזִּ֖ים </big></span><small><small><sup>[[H5795]]</sup></small></small> &#8207;| 'i.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֑ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to make atonement  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כַפֵּ֖ר </big></span><small><small><sup>[[H3722A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> kha.Per <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on you  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִ֥יר]]&#8207; </big>**| se.'Ir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H5795\|עִזִּ֖ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֑ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make atonement  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3722A\|כַפֵּ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha.Per<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.29|<< Numbers 28:29]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.31|Numbers 28:31 >>]]</td></tr></table>
 
 

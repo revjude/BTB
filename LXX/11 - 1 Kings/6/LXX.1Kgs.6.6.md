@@ -7,48 +7,48 @@ The nethermost chamber [was] five cubits broad, and the middle [was] six cubits 
 The bottom floor was five cubits wide, the middle floor six cubits, and the third floor seven cubits. He also placed offset ledges around the outside of the temple, so that nothing would be inserted into its walls.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">πλευρά</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| underneath -- | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| middle -- | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width. | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third -- | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a space | <big><span class="asgreek">διάστημα</span></big> <sup><small><small>[[G1292]]</small></small></sup> |
-| he made | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| from outside | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| so as to | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| take hold | <big><span class="asgreek">επιλαμβάνωνται</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walls | <big><span class="asgreek">τοίχων</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| side | **<big>[[G4125\|πλευρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| underneath -- | **<big>[[G5270\|υποκάτω]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| of it. | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[for\] the | **<big>[[G3588\|το]]</big>** |
+| middle -- | **<big>[[G3319\|μέσον]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| width. | **<big>[[G4114\|πλάτος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| third -- | **<big>[[G5154\|τρίτη]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| of it. | **<big>[[G1473\|αυτής]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a space | **<big>[[G1292\|διάστημα]]</big>** |
+| he made | **<big>[[G1325\|έδωκε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| from outside | **<big>[[G1855\|έξωθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house, | **<big>[[G3624\|οίκου]]</big>** |
+| so as to | **<big>[[G3704\|όπως]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| take hold | **<big>[[G1949\|επιλαμβάνωνται]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| walls | **<big>[[G5109\|τοίχων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house. | **<big>[[G3624\|οίκου]]</big>** |
 [[1Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
 

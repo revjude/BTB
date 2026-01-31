@@ -7,29 +7,29 @@ And they took away their cattle; of their camels fifty thousand, and of sheep tw
 They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,<small><sub>**MT:**</sub></small>
 [[1Chr.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.20|<< 1 Chronicles 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.22|1 Chronicles 5:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they captured | <big><span class="asgreek">ηχμαλώτευσαν</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their possessions; | <big><span class="asgreek">κτήσεις</span></big> <sup><small><small>[[G8111]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| camels -- | <big><span class="asgreek">καμήλων</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep -- | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίας</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| donkeys -- | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| two thousand, | <big><span class="asgreek">δισχιλίους</span></big> <sup><small><small>[[G1367]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lives | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of men -- | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they captured | **<big>[[G0162\|ηχμαλώτευσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their possessions; | **<big>[[G8111\|κτήσεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| camels -- | **<big>[[G2574\|καμήλων]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep -- | **<big>[[G4263\|προβάτων]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| donkeys -- | **<big>[[G3688\|όνους]]</big>** |
+| two thousand, | **<big>[[G1367\|δισχιλίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lives | **<big>[[G5590\|ψυχάς]]</big>** |
+| of men -- | **<big>[[G0444\|ανθρώπων]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδας]]</big>** |
 [[1Chr.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.20|<< 1 Chronicles 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.22|1 Chronicles 5:22 >>]]</td></tr></table>
 
 

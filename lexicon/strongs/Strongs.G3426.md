@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎μόδιος‎</span></big> **módios** <small>*(mod'-ee-os)*</small> ==**bucket**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+**<big><span class="asgreek">‎μόδιος‎</span></big>** **módios** <small>*(mod'-ee-os)*</small> ==**bucket**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
 <small>of Latin origin</small>
 
 $\quad$ bushel.

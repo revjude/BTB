@@ -7,39 +7,39 @@ sulphur and salt incinerating; all  its land shall not be sown, nor shall rise, 
 All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger.<small><sub>**MT:**</sub></small>
 [[Deut.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sulphur | <big><span class="asgreek">θείον</span></big> <sup><small><small>[[G2303]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| salt | <big><span class="asgreek">άλας</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
-| incinerating; | <big><span class="asgreek">κατακεκαυμένον</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be sown, | <big><span class="asgreek">σπαρήσεται</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall rise, | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| should ascend | <big><span class="asgreek">αναβή</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| green \[thing\]. | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| were eradicated | <big><span class="asgreek">κατεστράφη</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| Sodom | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gomorrah | <big><span class="asgreek">Γόμορρα</span></big> <sup><small><small>[[G1116]]</small></small></sup> |
-| Admah | <big><span class="asgreek">Αδαμά</span></big> <sup><small><small>[[H0128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zeboim, | <big><span class="asgreek">Σεβωίμ</span></big> <sup><small><small>[[H6636]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> eradicated | <big><span class="asgreek">κατέστρεψε</span></big> <sup><small><small>[[G2690]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| anger, | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| sulphur | **<big>[[G2303\|θείον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| salt | **<big>[[G0251\|άλας]]</big>** |
+| incinerating; | **<big>[[G2618\|κατακεκαυμένον]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its land | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be sown, | **<big>[[G4687\|σπαρήσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall rise, | **<big>[[G0393\|ανατελεί]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| should ascend | **<big>[[G0305\|αναβή]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| green \[thing\]. | **<big>[[G5515\|χλωρόν]]</big>** |
+| As | **<big>[[G5618\|ώσπερ]]</big>** |
+| were eradicated | **<big>[[G2690\|κατεστράφη]]</big>** |
+| Sodom | **<big>[[G4670\|Σόδομα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Gomorrah | **<big>[[G1116\|Γόμορρα]]</big>** |
+| Admah | **<big>[[H0128\|Αδαμά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zeboim, | **<big>[[H6636\|Σεβωίμ]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> eradicated | **<big>[[G2690\|κατέστρεψε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rage | **<big>[[G2372\|θυμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| anger, | **<big>[[G3709\|οργή]]</big>** |
 [[Deut.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 
 

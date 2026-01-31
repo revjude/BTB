@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נְבוּזַרְאֲדָן‎</span></big> **Nᵉbûwzarʼădân** <small>*(neb-oo-zar-ad-awn')*</small> ==**Nebuzaradan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎נְבוּזַרְאֲדָן‎</span></big>** **Nᵉbûwzarʼădân** <small>*(neb-oo-zar-ad-awn')*</small> ==**Nebuzaradan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Nebuzaradan.

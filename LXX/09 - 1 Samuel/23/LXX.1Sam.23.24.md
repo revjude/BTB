@@ -7,32 +7,32 @@ And they arose, and went to Ziph before Saul: but David and his men [were] in th
 So they set out and went to Ziph ahead of Saul. Now David and his men were in the Wilderness of Maon in the Arabah south of Jeshimon,<small><sub>**MT:**</sub></small>
 [[1Sam.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ziphites | <big><span class="asgreek">Ζιφαίοι</span></big> <sup><small><small>[[H2130]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Maon, | <big><span class="asgreek">Μαών</span></big> <sup><small><small>[[H4584]]</small></small></sup> |
-| to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] west | <big><span class="asgreek">εσπέραν</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jeshimon. | <big><span class="asgreek">Ιεσσεμούν</span></big> <sup><small><small>[[H3452]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Ziphites | **<big>[[H2130\|Ζιφαίοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| of Maon, | **<big>[[H4584\|Μαών]]</big>** |
+| to | **<big>[[G2596\|καθ΄]]</big>** |
+| \[the\] west | **<big>[[G2073\|εσπέραν]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right | **<big>[[G1188\|δεξιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jeshimon. | **<big>[[H3452\|Ιεσσεμούν]]</big>** |
 [[1Sam.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
 
 

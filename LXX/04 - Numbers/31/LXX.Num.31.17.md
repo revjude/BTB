@@ -7,25 +7,25 @@ Now therefore kill every male among the little ones, and kill every woman that h
 So now, kill all the boys, as well as every woman who has had relations with a man,<small><sub>**MT:**</sub></small>
 [[Num.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.16|<< Numbers 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.18|Numbers 31:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| kill | <big><span class="asgreek">αποκτείνατε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| male | <big><span class="asgreek">αρσενικόν</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chattel! | <big><span class="asgreek">απαρτία</span></big> <sup><small><small>[[G6403]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| knew | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \[the\] marriage-bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
-| of a man | <big><span class="asgreek">άρσενος</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| kill! | <big><span class="asgreek">αποκτείνατε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| kill | **<big>[[G0615\|αποκτείνατε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| male | **<big>[[G6544\|αρσενικόν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| chattel! | **<big>[[G6403\|απαρτία]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| who | **<big>[[G3748\|ήτις]]</big>** |
+| knew | **<big>[[G1097\|έγνω]]</big>** |
+| \[the\] marriage-bed | **<big>[[G2845\|κοίτην]]</big>** |
+| of a man | **<big>[[G0730\|άρσενος]]</big>** |
+| kill! | **<big>[[G0615\|αποκτείνατε]]</big>** |
 [[Num.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.16|<< Numbers 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.18|Numbers 31:18 >>]]</td></tr></table>
 
 

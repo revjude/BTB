@@ -7,35 +7,35 @@ And it shall be, when he lieth down, that thou shalt mark the place where he sha
 When he lies down, note the place where he lies. Then go in and uncover his feet, and lie down, and he will explain to you what you should do.”<small><sub>**MT:**</sub></small>
 [[Ruth.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his going to sleep, | <big><span class="asgreek">κοιμηθήναι</span></big> <sup><small><small>[[G2837]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall perceive | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sleeps | <big><span class="asgreek">κοιμάται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall go in, | <big><span class="asgreek">ελεύση</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| uncover | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| his feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall go to sleep. | <big><span class="asgreek">κοιμηθήση</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall report | <big><span class="asgreek">απαγγελεί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall do. | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his going to sleep, | **<big>[[G2837\|κοιμηθήναι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall perceive | **<big>[[G1097\|γνώση]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| he sleeps | **<big>[[G2837\|κοιμάται]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall go in, | **<big>[[G2064\|ελεύση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| uncover | **<big>[[G0601\|αποκαλύψεις]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| by | **<big>[[G4314\|προς]]</big>** |
+| his feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall go to sleep. | **<big>[[G2837\|κοιμηθήση]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall report | **<big>[[G0518\|απαγγελεί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you shall do. | **<big>[[G4160\|ποιήσεις]]</big>** |
 [[Ruth.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 
 

@@ -1,7 +1,6 @@
-<span class="ashebrew">‎נַפְתָּלִי‎</span> <small>***(naph.ta.li)***</small> ==**Naphtali**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Naphtali  living at the time of the Patriarchs, first mentioned at [[Gen.30.8|Gen.30.8]]
--  son of: Israel ([[H3478]]) and Bilhah ([[H1090A]])
--  brother of: Dan ([[H1835H]])
--  half-brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Gad ([[H1410]]), Asher ([[H0836]]), Issachar ([[H3485]]), Zebulun ([[H2074]]), Dinah ([[H1783]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
--  father of: Jahzeel ([[H3183]]), Guni ([[H1476]]), Jezer ([[H3337]]) and Shillem ([[H8006]])
-- Also named: <i>Nephthaleim</i> (<span class='asgreek'>Νεφθαλείμ</span> "Naphtali" [[G3508]])
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Bilhah (**<big>[[H1090A|בִּלְהָה]]</big>**)
+-  brother of: Dan (**<big>[[H1835H|דָּן]]</big>**)
+-  half-brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**), Dinah (**<big>[[H1783|דִּינָה]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  father of: Jahzeel (**<big>[[H3183|יַחְצְאֵל]]</big>**), Guni (**<big>[[H1476|גּוּנִי]]</big>**), Jezer (**<big>[[H3337|יֵצֶר]]</big>**) and Shillem (**<big>[[H8006|שִׁלֵּם]]</big>**)
+- Also named: <i>Nephthaleim</i> (<span class='asgreek'>Νεφθαλείμ</span> "Naphtali" **<big>[[G3508|Νεφθαλείμ]]</big>**)

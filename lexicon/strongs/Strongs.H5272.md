@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְעִיאֵל‎</span></big> **Nᵉʻîyʼêl** <small>*(neh-ee-ale')*</small> ==**Neiel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎נוּעַ‎</span><sup><small>[[H5128]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; moved of God</small>
+**<big><span class="ashebrew">‎נְעִיאֵל‎</span></big>** **Nᵉʻîyʼêl** <small>*(neh-ee-ale')*</small> ==**Neiel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5128|‎נוּעַ‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; moved of God</small>
 
 $\quad$ Neiel.
 - § Neiel = *"moved by God"*

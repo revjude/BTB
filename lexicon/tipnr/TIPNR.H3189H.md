@@ -4,9 +4,9 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Jahath</span> was a Levite, a descendant of Shimei, and a grandson of Gershon \([[1Chr.23.10|1Ch.23.10]]-11\).
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.23.10|1Ch.23.10]]; 
-- only referred to as Jahath<[[H3189H]]> \(<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>\); 
--  son of Shimei<[[H8096G]]>; 
-- a brother of Zizah<[[H2126]]>, Jeush<[[H3266J]]>, and Beriah<[[H1283J]]>.
+- only referred to as Jahath **<big>[[H3189|יַחַת]]</big>**; 
+-  son of Shimei **<big>[[H8096|שִׁמְעִי]]</big>**; 
+- a brother of Zizah **<big>[[H2126|זִינָא]]</big>**, Jeush **<big>[[H3266|יְעוּשׁ]]</big>**, and Beriah **<big>[[H1283|בְּרִיעָה]]</big>**.
 
 Jahath is mentioned in [[1Chr.23.10|1 Chronicles 23:10]]-11 as a Levite, a descendant of Shimei, and a grandson of Gershon. This passage is part of a larger section that describes the organization of the Levites during the reign of King David. 
 
@@ -18,8 +18,8 @@ No other specific details are provided about Jahath's life, role, or responsibil
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189H) <small>*Hebrew*</small> | 2x | [[1Ch.23.10] & [1Ch.23.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=1Ch.23.10;1Ch.23.11) |
-All Strong's for **Jahath**: \[[[H3189H]]\]
+| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189H) | 2x | [[1Ch.23.10] & [1Ch.23.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=1Ch.23.10;1Ch.23.11) |
+All entries for **Jahath**:  **<big>[[H3189|יַחַת]]</big>**
 #### Related Profiles:
 - **[Shimei](H8096G)** (father)
 - **[Zizah](H2125)** (sibling)

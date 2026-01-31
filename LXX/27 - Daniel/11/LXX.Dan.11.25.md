@@ -7,44 +7,44 @@ And he shall stir up his power and his courage against the king of the south wit
 And with a large army he will stir up his power and his courage against the king of the South, who will mobilize a very large and powerful army but will not withstand the plots devised against him.<small><sub>**MT:**</sub></small>
 [[Dan.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be awakened | <big><span class="asgreek">εξεγερθήσεται</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| shall join together in | <big><span class="asgreek">συνάψει</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| war, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| power | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in strength | <big><span class="asgreek">ισχυρά</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand, | <big><span class="asgreek">στήσονται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they shall devise | <big><span class="asgreek">λογιούνται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| devices | <big><span class="asgreek">λογισμούς</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be awakened | **<big>[[G1825\|εξεγερθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| south | **<big>[[G3558\|νότου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| force | **<big>[[G1411\|δυνάμει]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| south | **<big>[[G3558\|νότου]]</big>** |
+| shall join together in | **<big>[[G9297\|συνάψει]]</big>** |
+| war, | **<big>[[G4171\|πόλεμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| power | **<big>[[G1411\|δυνάμει]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in strength | **<big>[[G2478\|ισχυρά]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| stand, | **<big>[[G2476\|στήσονται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they shall devise | **<big>[[G3049\|λογιούνται]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| devices | **<big>[[G3053\|λογισμούς]]</big>** |
 [[Dan.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
 

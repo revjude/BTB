@@ -1,6 +1,4 @@
-<span class="ashebrew">‎רֹאשׁ‎</span> <small>***(rosh)***</small> ==**Rosh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]
--  son of: Benjamin ([[H1144]])
--  brother of: Bela ([[H1106A]]), Becher ([[H1071]]), Ashbel ([[H0788]]), Gera ([[H1617]]), Naaman ([[H5283]]), Ehi ([[H0278]]), Muppim ([[H4649]]), Huppim ([[H2650H]]), Ard ([[H0714]]), Ahiram ([[H0297]]) and Jediael ([[H3043]]); also called Rapha at [[1Chr.8.2|1Ch.8.2]]
-- Also named: <i>ra.pah</i> (<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎פ‎</span>ָ<span class='ashebrew'>‎א‎</span> "Rapha" [[H7498H]])
-
+-  son of: Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  brother of: Bela (**<big>[[H1106A|בֶּלַע]]</big>**), Becher (**<big>[[H1071|בֶכֶר]]</big>**), Ashbel (**<big>[[H0788|אַשְׁבֵּל]]</big>**), Gera (**<big>[[H1617|גֵּרָא]]</big>**), Naaman (**<big>[[H5283|נַעֲמָן]]</big>**), Ehi (**<big>[[H0278|אֵחִי]]</big>**), Muppim (**<big>[[H4649|מֻפִּים]]</big>**), Huppim (**<big>[[H2650H|חֻפִּים]]</big>**), Ard (**<big>[[H0714|אַרְדְּ]]</big>**), Ahiram (**<big>[[H0297|אֲחִירָם]]</big>**) and Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**); also called Rapha at [[1Chr.8.2|1Ch.8.2]]
+- Also named: <i>ra.pah</i> (<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎פ‎</span>ָ<span class='ashebrew'>‎א‎</span> "Rapha" **<big>[[H7498H|רָפָא]]</big>**)

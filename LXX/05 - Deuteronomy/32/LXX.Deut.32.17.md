@@ -11,25 +11,25 @@ They sacrificed to demons, not to God, to gods they had not known, to newly arri
 > $\quad$ referenced by: [[1Cor.10.20|1Cor 10:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to demons, | <big><span class="asgreek">δαιμονίοις</span></big> <sup><small><small>[[G1140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| to God -- | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know; | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| new | <big><span class="asgreek">καινοί</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| newly made \[gods\] | <big><span class="asgreek">πρόσφατοι</span></big> <sup><small><small>[[G4372]]</small></small></sup> |
-| have come, | <big><span class="asgreek">ήκασιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| in whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They sacrificed | **<big>[[G2380\|έθυσαν]]</big>** |
+| to demons, | **<big>[[G1140\|δαιμονίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| to God -- | **<big>[[G2316\|θεώ]]</big>** |
+| to gods | **<big>[[G2316\|θεοίς]]</big>** |
+| in whom | **<big>[[G3739\|οις]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| know; | **<big>[[G1492\|ήδεισαν]]</big>** |
+| new | **<big>[[G2537\|καινοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| newly made \[gods\] | **<big>[[G4372\|πρόσφατοι]]</big>** |
+| have come, | **<big>[[G2240\|ήκασιν]]</big>** |
+| in whom | **<big>[[G3739\|οις]]</big>** |
+| knew not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|ήδεισαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.16|<< Deuteronomy 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.18|Deuteronomy 32:18 >>]]</td></tr></table>
 
 

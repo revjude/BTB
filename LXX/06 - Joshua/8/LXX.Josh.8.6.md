@@ -7,29 +7,29 @@ that whenever they should come forth after us, we shall draw them away from the 
 They will pursue us until we have drawn them away from the city, for they will say, ‘The Israelites are running away from us as they did before.’ So as we flee from them,<small><sub>**MT:**</sub></small>
 [[Josh.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.5|<< Joshua 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.7|Joshua 8:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they should come forth | <big><span class="asgreek">εξέλθωσιν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we shall draw them away | <big><span class="asgreek">αποσπάσομεν</span></big> <sup><small><small>[[G0645]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| They flee | <big><span class="asgreek">φεύγουσιν</span></big> <sup><small><small>[[G5343]]</small></small></sup> <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| our face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| before; | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall flee | <big><span class="asgreek">φευξόμεθα</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| whenever | **<big>[[G5613\|ως]]</big>** **<big>[[G0302\|αν]]</big>** |
+| they should come forth | **<big>[[G1831\|εξέλθωσιν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| we shall draw them away | **<big>[[G0645\|αποσπάσομεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they will say, | **<big>[[G2046\|ερούσι]]</big>** |
+| They flee | **<big>[[G5343\|φεύγουσιν]]</big>** **<big>[[G3778\|αυτοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| our face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| before; | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall flee | **<big>[[G5343\|φευξόμεθα]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.5|<< Joshua 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.7|Joshua 8:7 >>]]</td></tr></table>
 
 

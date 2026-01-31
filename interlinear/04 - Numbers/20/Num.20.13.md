@@ -6,19 +6,19 @@ These were the waters of Meribah, where the Israelites quarreled with the LORD, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.12|<< Numbers 20:12]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.14|Numbers 20:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they  | <span class="ashebrew"><big>הֵ֚מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] waters of  | <span class="ashebrew"><big>מֵ֣י </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meribah  | <span class="ashebrew"><big>מְרִיבָ֔ה </big></span><small><small><sup>[[H4809H]]</sup></small></small> &#8207;| me.ri.Vah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they quarreled  | <span class="ashebrew"><big>רָב֥וּ </big></span><small><small><sup>[[H7378]]</sup></small></small> &#8207;| ra.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he showed himself holy  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקָּדֵ֖שׁ </big></span><small><small><sup>[[H6942G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.ka.Desh <small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among \<the> them  | <span class="ashebrew"><big>בָּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Ba <small><sup>[[HRd]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֚מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] waters of  |**<big>&#8207;[[H4325G\|מֵ֣י]]&#8207; </big>**| mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meribah  |**<big>&#8207;[[H4809H\|מְרִיבָ֔ה]]&#8207; </big>**| me.ri.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they quarreled  |**<big>&#8207;[[H7378\|רָב֥וּ]]&#8207; </big>**| ra.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he showed himself holy  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6942G\|יִּקָּדֵ֖שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Desh<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> them  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.12|<< Numbers 20:12]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.14|Numbers 20:14 >>]]</td></tr></table>
 
 

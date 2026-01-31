@@ -6,15 +6,15 @@ The eyes of the LORD are in every place, observing the evil and the good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.2|<< Proverbs 15:2]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.4|Proverbs 15:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [are] in every  | <span class="ashebrew"><big>בְּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| place  | <span class="ashebrew"><big>מָ֭קוֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| Ma.kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] eyes of  | <span class="ashebrew"><big>עֵינֵ֣י </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| watching  | <span class="ashebrew"><big>צֹ֝פ֗וֹת </big></span><small><small><sup>[[H6822]]</sup></small></small> &#8207;| tzo.Fot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil [people]  | <span class="ashebrew"><big>רָעִ֥ים </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| ra.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and good [people]  | <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>טוֹבִֽים </big></span><small><small><sup>[[H2896A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| v. <small><sup>[[HC]]</sup></small> to.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] in every  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place  |**<big>&#8207;[[H4725\|מָ֭קוֹם]]&#8207; </big>**| Ma.kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watching  |**<big>&#8207;[[H6822\|צֹ֝פ֗וֹת]]&#8207; </big>**| tzo.Fot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil [people]  |**<big>&#8207;[[H7451H\|רָעִ֥ים]]&#8207; </big>**| ra.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and good [people]  |**<big>&#8207;[[H9002\|ו]]&#8207;&#8207;[[H2896A\|טוֹבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| v.<small><sup>[[HC]]</sup></small> to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.2|<< Proverbs 15:2]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.4|Proverbs 15:4 >>]]</td></tr></table>
 
 

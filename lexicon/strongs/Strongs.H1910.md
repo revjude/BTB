@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲדַדְרִמּוֹן‎</span></big> **Hădadrimmôwn** <small>*(had-ad-rim-mone')*</small> ==**Hadad-rimmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎הֲדַד‎</span><sup><small>[[H1908]]</small></sup> and <span class="ashebrew">‎רִמּוֹן‎</span><sup><small>[[H7417]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲדַדְרִמּוֹן‎</span></big>** **Hădadrimmôwn** <small>*(had-ad-rim-mone')*</small> ==**Hadad-rimmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1908|‎הֲדַד‎]]</big>** and **<big>[[H7417|‎רִמּוֹן‎]]</big>**</small>
 
 $\quad$ Hadad-rimmon.
 - § Hadad-rimmon = *"Hadad of the pomegranates"*

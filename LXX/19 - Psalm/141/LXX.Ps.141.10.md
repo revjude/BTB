@@ -7,17 +7,17 @@ Let the wicked fall into their own nets, whilst that I withal escape.
 Let the wicked fall into their own nets, while I pass by in safety.<small><sub>**MT:**</sub></small>
 [[Ps.141.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.9|<< Psalm 141:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.1|Psalm 142:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their own casting-net | <big><span class="asgreek">αμφιβλήστρω</span></big> <sup><small><small>[[G0293]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| alone | <big><span class="asgreek">καταμόνας</span></big> <sup><small><small>[[G2596]][[G3441]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should pass away. | <big><span class="asgreek">παρέλθω</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their own casting-net | **<big>[[G0293\|αμφιβλήστρω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| alone | **<big>[[G2596\|καταμόνας]]</big>**<sup><small>[[G3441\| [ • ] ]]</small></sup> |
+| I am | **<big>[[G1510\|ειμί]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| I should pass away. | **<big>[[G3928\|παρέλθω]]</big>** |
 [[Ps.141.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.9|<< Psalm 141:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.1|Psalm 142:1 >>]]</td></tr></table>
 
 

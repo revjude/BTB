@@ -1,4 +1,4 @@
-<small>Also see: [[H3607]]</small>
+<small>Also see: **<big>[[H3607|כָּלָא]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎כָּלָה‎</span><sub>206</sub> **verb** ==be complete, at an end, finished, accomplished, spent== (Late Hebrew ***id.***, Pi\`el; Phoenician <span class="bdbLangHebrew">‎כלה‎</span>; Assyrian <abbr title="transliteration"><u>***kalû, put and end to,***</u></abbr> and ***cease, vanish*** [[BDB#Dl|Dl]]<sup>HWB 329</sup>; late Aramaic <span class="bdbLangAramaic">‎כְּלָא‎</span> ***cease, perish*** (not [[BDB#Tg|ᵑ7]]); on root-meaning ***enclose*** compare <span class="bdbLangHebrew">‎כלא‎</span> and [[BDB#Ba|Ba]]<sup>ZMG 1887, 605</sup>) — 
 

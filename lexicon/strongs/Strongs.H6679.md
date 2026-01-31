@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צוּד‎</span></big> **tsûwd** <small>*(tsood)*</small> ==**to hunt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also denominative from <span class="ashebrew">‎צַיִד‎</span><sup><small>[[H6718]]</small></sup></small>
+**<big><span class="ashebrew">‎צוּד‎</span></big>** **tsûwd** <small>*(tsood)*</small> ==**to hunt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also denominative from **<big>[[H6718|‎צַיִד‎]]</big>**</small>
 
 $\quad$ chase, hunt, sore, take (provision).
 - ***to lie alongside*** (i.e. in wait)
@@ -11,4 +11,4 @@ $\quad$ **1a)** (Qal) to hunt
 $\quad$ **1b)** (Poel) to hunt, hunt eagerly or keenly
 $\quad$ **1c)** (Hithpael) take provision
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαστρέφω</span><sup><small>[[G1294]]</small></sup> · <span class="asgreek">ἐκστρέφω</span><sup><small>[[G1612]]</small></sup> · <span class="asgreek">θηρεύω</span><sup><small>[[G2340]]</small></sup>
+<small>See Greek: </small>**<big>[[G1294|διαστρέφω]]</big>** · **<big>[[G1612|ἐκστρέφω]]</big>** · **<big>[[G2340|θηρεύω]]</big>**

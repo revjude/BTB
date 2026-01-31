@@ -7,52 +7,52 @@ And it shall be to me a name of joy, a praise and an honour before all the natio
 So this city will bring Me renown, joy, praise, and glory before all the nations of the earth, who will hear of all the good I do for it. They will tremble in awe because of all the goodness and prosperity that I will provide for it.<small><sub>**MT:**</sub></small>
 [[Jer.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.8|<< Jeremiah 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.10|Jeremiah 33:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| praise, | <big><span class="asgreek">αίνεσιν</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| magnificence | <big><span class="asgreek">μεγαλειότητα</span></big> <sup><small><small>[[G3168]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall hear | <big><span class="asgreek">ακούσονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall fear | <big><span class="asgreek">φοβηθήσονται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be pricked | <big><span class="asgreek">πικρανθήσονται</span></big> <sup><small><small>[[G4087]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\], | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a name | **<big>[[G3686\|όνομα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| praise, | **<big>[[G0133\|αίνεσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| magnificence | **<big>[[G3168\|μεγαλειότητα]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| who | **<big>[[G3748\|οίτινες]]</big>** |
+| shall hear | **<big>[[G0191\|ακούσονται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| do | **<big>[[G4160\|ποιώ]]</big>** |
+| for them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall fear | **<big>[[G5399\|φοβηθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be pricked | **<big>[[G4087\|πικρανθήσονται]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| good \[things\], | **<big>[[G0018\|αγαθών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| peace | **<big>[[G1515\|ειρήνης]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| make | **<big>[[G4160\|ποιώ]]</big>** |
+| for them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Jer.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.8|<< Jeremiah 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.10|Jeremiah 33:10 >>]]</td></tr></table>
 
 

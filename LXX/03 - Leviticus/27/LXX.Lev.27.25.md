@@ -7,19 +7,19 @@ And all thy estimations shall be according to the shekel of the sanctuary: twent
 Every valuation will be according to the sanctuary shekel, twenty gerahs to the shekel.<small><sub>**MT:**</sub></small>
 [[Lev.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.24|<< Leviticus 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.26|Leviticus 27:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| weights | <big><span class="asgreek">σταθμοίς</span></big> <sup><small><small>[[G9149]]</small></small></sup> |
-| by holy | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma. | <big><span class="asgreek">δίδραχμον</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| value | **<big>[[G5092\|τιμή]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| weights | **<big>[[G9149\|σταθμοίς]]</big>** |
+| by holy | **<big>[[G0039\|αγίοις]]</big>** |
+| twenty | **<big>[[G1501\|είκοσιν]]</big>** |
+| oboli | **<big>[[G8438\|οβολοί]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| double-drachma. | **<big>[[G1323\|δίδραχμον]]</big>** |
 [[Lev.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.24|<< Leviticus 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.26|Leviticus 27:26 >>]]</td></tr></table>
 
 

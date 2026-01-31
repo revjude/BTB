@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ibsam</span> was a descendant of Issachar, mentioned in the genealogy of the tribe of Issachar in 1 Chronicles.
 - A man from the tribe of Issachar living at the time of Egypt and Wilderness, only mentioned at [[1Chr.7.2|1Ch.7.2]]; 
-- only referred to as Ibsam<[[H3005]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ם</span>\); 
--  son of Tola<[[H8439G]]>; 
-- a brother of Uzzi<[[H5813H]]>, Rephaiah<[[H7509I]]>, Jeriel<[[H3400]]>, Jahmai<[[H3181]]> and Shemuel<[[H8050I]]>.
+- only referred to as Ibsam **<big>[[H3005|יִבְשָׂם]]</big>**; 
+-  son of Tola **<big>[[H8439|תּוֹלָע]]</big>**; 
+- a brother of Uzzi **<big>[[H5813|עֻזִּי]]</big>**, Rephaiah **<big>[[H7509|רְפָיָה]]</big>**, Jeriel **<big>[[H3400|יְרִיאֵל]]</big>**, Jahmai **<big>[[H3181|יַחְמַי]]</big>** and Shemuel **<big>[[H8050|שְׁמוּאֵל]]</big>**.
 
 Ibsam is mentioned in [[1Chr.7.2|1 Chronicles 7:2]] as one of the sons of Tola, who was a son of Issachar. Issachar was one of the twelve tribes of Israel, and the genealogy in 1 Chronicles 7 lists the descendants of this tribe. 
 
@@ -18,8 +18,8 @@ Apart from this brief mention in the genealogy, no other specific details are pr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ibsam (KJV= Jibsam) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ם</span>](H3005) <small>*Hebrew*</small> | 1x | [1Ch.7.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibsam\*\|reference=1Ch.7.2) |
-All Strong's for **Ibsam**: \[[[H3005]]\]
+| Ibsam (KJV= Jibsam) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ם</span>](H3005) | 1x | [1Ch.7.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibsam\*\|reference=1Ch.7.2) |
+All entries for **Ibsam**:  **<big>[[H3005|יִבְשָׂם]]</big>**
 #### Related Profiles:
 - **[Tola](H8439G)** (father)
 - **[Uzzi](H5813H)** (sibling)

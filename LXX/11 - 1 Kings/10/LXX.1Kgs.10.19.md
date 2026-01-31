@@ -7,36 +7,36 @@ The throne had six steps, and the top of the throne [was] round behind: and [the
 The throne had six steps, and its back had a rounded top. There were armrests on both sides of the seat, with a lion standing beside each armrest.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.18|<< 1 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.20|1 Kings 10:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[there were\] Six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| stairs | <big><span class="asgreek">αναβαθμοί</span></big> <sup><small><small>[[G0304]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| throne, | <big><span class="asgreek">θρόνω</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] upper part | <big><span class="asgreek">προτομαί</span></big> <sup><small><small>[[G8952]]</small></small></sup> |
-| \[had\] calves | <big><span class="asgreek">μόσχων</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| throne. | <big><span class="asgreek">θρόνω</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| And \[There were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hand \[rails\] | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| on this side and that side | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chair, | <big><span class="asgreek">καθέδρας</span></big> <sup><small><small>[[G2515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| lions | <big><span class="asgreek">λέοντες</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστήκοτες</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand \[rails\]. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| \[there were\] Six | **<big>[[G1803\|εξ]]</big>** |
+| stairs | **<big>[[G0304\|αναβαθμοί]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| throne, | **<big>[[G2362\|θρόνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] upper part | **<big>[[G8952\|προτομαί]]</big>** |
+| \[had\] calves | **<big>[[G3448\|μόσχων]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| throne. | **<big>[[G2362\|θρόνω]]</big>** |
+| And \[There were\] | **<big>[[G2532\|και]]</big>** |
+| hand \[rails\] | **<big>[[G5495\|χείρες]]</big>** |
+| on this side and that side | **<big>[[G6033\|ένθεν και ένθεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| chair, | **<big>[[G2515\|καθέδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| lions | **<big>[[G3023\|λέοντες]]</big>** |
+| standing | **<big>[[G2476\|εστήκοτες]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hand \[rails\]. | **<big>[[G5495\|χείρας]]</big>** |
 [[1Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.18|<< 1 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.20|1 Kings 10:20 >>]]</td></tr></table>
 
 

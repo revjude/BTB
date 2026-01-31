@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Eden</span>, a Levite from the family of Joah, assisted in the cleansing of the temple during Hezekiah's reign. \([[2Chr.29.12|2Ch.29.12]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
-- only referred to as Eden<[[H5731A]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Joah<[[H3098L]]>.
+- only referred to as Eden **<big>[[H5731|עֵדֶן]]</big>**; 
+- a son of Joah **<big>[[H3098|יוֹאָח]]</big>**.
 
 Eden is mentioned in [[2Chr.29.12|2 Chronicles 29:12]] as one of the Levites who participated in the cleansing and rededication of the temple during the reign of King Hezekiah of Judah. He is identified as a member of the family of Joah, which was a Levitical clan. 
 
@@ -19,7 +19,7 @@ Apart from this brief mention, no further information is provided about Eden or 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eden | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H5731A) <small>*Hebrew*</small> | 1x | [2Ch.29.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eden\*\|reference=2Ch.29.12) |
-All Strong's for **Eden**: \[[[H5731A]]\]
+| Eden | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H5731A) | 1x | [2Ch.29.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eden\*\|reference=2Ch.29.12) |
+All entries for **Eden**:  **<big>[[H5731|עֵדֶן]]</big>**
 #### Related Profiles:
 - **[Joah](H3098L)** (father)

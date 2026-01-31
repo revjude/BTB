@@ -6,27 +6,27 @@ For the fields of Heshbon have withered, along with the grapevines of Sibmah. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fields of  | <span class="ashebrew"><big>שַׁדְמוֹת֩ </big></span><small><small><sup>[[H7709]]</sup></small></small> &#8207;| shad.mOt <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heshbon  | <span class="ashebrew"><big>חֶשְׁבּ֨וֹן </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| chesh.Bon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has withered  | <span class="ashebrew"><big>אֻמְלָ֜ל </big></span><small><small><sup>[[H0535]]</sup></small></small> &#8207;| 'um.Lal <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] vine[s] of  | <span class="ashebrew"><big>גֶּ֣פֶן </big></span><small><small><sup>[[H1612]]</sup></small></small> &#8207;| Ge.fen <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sibmah  | <span class="ashebrew"><big>שִׂבְמָ֗ה </big></span><small><small><sup>[[H7643H]]</sup></small></small> &#8207;| siv.Mah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rulers of  | <span class="ashebrew"><big>בַּעֲלֵ֤י </big></span><small><small><sup>[[H1167G]]</sup></small></small> &#8207;| ba.'a.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גוֹיִם֙ </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have struck down  | <span class="ashebrew"><big>הָלְמ֣וּ </big></span><small><small><sup>[[H1986]]</sup></small></small> &#8207;| hal.Mu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| choice grapes its  | <span class="ashebrew"><big>שְׂרוּקֶּ֔י </big></span><small><small><sup>[[H8291]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| se.ru.Kei. <small><sup>[[HAampc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jazer  | <span class="ashebrew"><big>יַעְזֵ֥ר </big></span><small><small><sup>[[H3270G]]</sup></small></small> &#8207;| ya'.Zer <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they reached  | <span class="ashebrew"><big>נָגָ֖עוּ </big></span><small><small><sup>[[H5060]]</sup></small></small> &#8207;| na.Ga.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they wandered  | <span class="ashebrew"><big>תָּ֣עוּ </big></span><small><small><sup>[[H8582]]</sup></small></small> &#8207;| Ta.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness  | <span class="ashebrew"><big>מִדְבָּ֑ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shoots its  | <span class="ashebrew"><big>שְׁלֻ֣חוֹתֶ֔י </big></span><small><small><sup>[[H7976]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| she.Lu.cho.Tei. <small><sup>[[HNcfpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were spread out  | <span class="ashebrew"><big>נִטְּשׁ֖וּ </big></span><small><small><sup>[[H5203]]</sup></small></small> &#8207;| ni.te.Shu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they passed over  | <span class="ashebrew"><big>עָ֥בְרוּ </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'A.ve.ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea  | <span class="ashebrew"><big>יָֽם </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fields of  |**<big>&#8207;[[H7709\|שַׁדְמוֹת֩]]&#8207; </big>**| shad.mOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֨וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has withered  |**<big>&#8207;[[H0535\|אֻמְלָ֜ל]]&#8207; </big>**| 'um.Lal<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vine[s] of  |**<big>&#8207;[[H1612\|גֶּ֣פֶן]]&#8207; </big>**| Ge.fen<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sibmah  |**<big>&#8207;[[H7643H\|שִׂבְמָ֗ה]]&#8207; </big>**| siv.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rulers of  |**<big>&#8207;[[H1167G\|בַּעֲלֵ֤י]]&#8207; </big>**| ba.'a.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have struck down  |**<big>&#8207;[[H1986\|הָלְמ֣וּ]]&#8207; </big>**| hal.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| choice grapes its  |**<big>&#8207;[[H8291\|שְׂרוּקֶּ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| se.ru.Kei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jazer  |**<big>&#8207;[[H3270G\|יַעְזֵ֥ר]]&#8207; </big>**| ya'.Zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they reached  |**<big>&#8207;[[H5060\|נָגָ֖עוּ]]&#8207; </big>**| na.Ga.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they wandered  |**<big>&#8207;[[H8582\|תָּ֣עוּ]]&#8207; </big>**| Ta.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּ֑ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shoots its  |**<big>&#8207;[[H7976\|שְׁלֻ֣חוֹתֶ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| she.Lu.cho.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were spread out  |**<big>&#8207;[[H5203\|נִטְּשׁ֖וּ]]&#8207; </big>**| ni.te.Shu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they passed over  |**<big>&#8207;[[H5674A\|עָ֥בְרוּ]]&#8207; </big>**| 'A.ve.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea  |**<big>&#8207;[[H3220G\|יָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 
 

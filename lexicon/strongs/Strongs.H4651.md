@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַפָּל‎</span></big> **mappâl** <small>*(map-pawl')*</small> ==**refuse**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָפַל‎</span><sup><small>[[H5307]]</small></sup></small>
+**<big><span class="ashebrew">‎מַפָּל‎</span></big>** **mappâl** <small>*(map-pawl')*</small> ==**refuse**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5307|‎נָפַל‎]]</big>**</small>
 
 $\quad$ flake, refuse.
 - ***a falling off***, i.e. ***chaff***

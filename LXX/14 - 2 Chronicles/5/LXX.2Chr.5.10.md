@@ -7,32 +7,32 @@ Nothing was in the ark except \[the\] two tablets which Moses stationed at Horeb
 There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of Egypt.<small><sub>**MT:**</sub></small>
 [[2Chr.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.9|<< 2 Chronicles 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.11|2 Chronicles 5:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Nothing | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτώ</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| \[the\] two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκες</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses stationed | <big><span class="asgreek">έθηκε</span></big> <sup><small><small>[[G5087]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Horeb, | <big><span class="asgreek">Χωρήβ</span></big> <sup><small><small>[[H2722]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their coming forth | <big><span class="asgreek">εξελθείν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Nothing | **<big>[[G3756\|ουκ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| ark | **<big>[[G2787\|κιβωτώ]]</big>** |
+| except | **<big>[[G4133\|πλην]]</big>** |
+| \[the\] two | **<big>[[G1417\|δύο]]</big>** |
+| tablets | **<big>[[G4109\|πλάκες]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| Moses stationed | **<big>[[G5087\|έθηκε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| Horeb, | **<big>[[H2722\|Χωρήβ]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordained | **<big>[[G1303\|διέθετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their coming forth | **<big>[[G1831\|εξελθείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[2Chr.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.9|<< 2 Chronicles 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.11|2 Chronicles 5:11 >>]]</td></tr></table>
 
 

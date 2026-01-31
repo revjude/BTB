@@ -1,4 +1,4 @@
-<small>Also see: [[H6352]]</small>
+<small>Also see: **<big>[[H6352|פֶּחָם]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎פַּח‎</span> **noun masculine**<sup>[[Ps.124.7|Ps 124:7]]</sup> ==bird-trap== (compare [[BDB#Wilkinson|Wilkinson]]<sup>Egyptians (1878) ii, 103, 109 f.</sup> [[BDB#Dr|Dr]]<sup>[[Amos.3.5|Amos 3:5]]</sup> [[BDB#Hoffm|Hoffm]]<sup>ZAW iii (1883), 101</sup>); **\*\***compare also Baldensperger<sup>PEF 1905, 38</sup> (<abbr title="transliteration"><u>***pahµ***</u></abbr> used now of a trap with a net). — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> absolute [[Hos.5.1|Hos 5:1]] +, <span class="bdbLangHebrew">‎פָּ֑ךְ‎</span> [[Jer.48.44|Jer 48:44]] +; construct <span class="bdbLangHebrew">‎פַּךְ‎</span> [[Hos.9.8|Hos 9:8]] +; plural <span class="bdbLangHebrew">‎פַּחִים‎</span> [[Jer.18.22|Jer 18:22]] +; — 
 

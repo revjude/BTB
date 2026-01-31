@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַח‎</span></big> **pârach** <small>*(paw-rakh')*</small> ==**to sprout**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַח‎</span></big>** **pârach** <small>*(paw-rakh')*</small> ==**to sprout**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] abroad, [idiom] abundantly, blossom, break forth (out), bud, flourish, make fly, grow, spread, spring (up).
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b2)** to show buds or sprouts
 **2)** (Qal) to break out (of leprosy)
 **3)** (Qal) to fly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναθάλλω</span><sup><small>[[G0330]]</small></sup> · <span class="asgreek">ἀνατέλλω</span><sup><small>[[G0393]]</small></sup> · <span class="asgreek">βλαστάνω</span><sup><small>[[G0985]]</small></sup> · <span class="asgreek">ἐξανίστημι</span><sup><small>[[G1817]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">καρποφορέω</span><sup><small>[[G2592]]</small></sup>
+<small>See Greek: </small>**<big>[[G0330|ἀναθάλλω]]</big>** · **<big>[[G0393|ἀνατέλλω]]</big>** · **<big>[[G0985|βλαστάνω]]</big>** · **<big>[[G1817|ἐξανίστημι]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G2592|καρποφορέω]]</big>**

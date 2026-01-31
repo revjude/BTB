@@ -7,32 +7,32 @@ His glory [is like] the firstling of his bullock, and his horns [are like] the h
 His majesty is like a firstborn bull, and his horns are like those of a wild ox. With them he will gore the nations, even to the ends of the earth. Such are the myriads of Ephraim, and such are the thousands of Manasseh.”<small><sub>**MT:**</sub></small>
 [[Deut.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.16|<< Deuteronomy 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.18|Deuteronomy 33:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[As\] a first-born | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρου</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] his beauty. | <big><span class="asgreek">κάλλος</span></big> <sup><small><small>[[G7782]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of a unicorn | <big><span class="asgreek">μονοκέρωτος</span></big> <sup><small><small>[[G8344]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| are his horns. | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| he shall gore | <big><span class="asgreek">κερατιεί</span></big> <sup><small><small>[[G7997]]</small></small></sup> |
-| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| even | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of \[the\] earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| These \[are\] | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] myriads | <big><span class="asgreek">μυριάδες</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these are | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] thousands | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| \[As\] a first-born | **<big>[[G4416\|πρωτότοκος]]</big>** |
+| bull | **<big>[[G5022\|ταύρου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[is\] his beauty. | **<big>[[G7782\|κάλλος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Horns | **<big>[[G2768\|κέρατα]]</big>** |
+| of a unicorn | **<big>[[G8344\|μονοκέρωτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| are his horns. | **<big>[[G2768\|κέρατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| With | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| he shall gore | **<big>[[G7997\|κερατιεί]]</big>** |
+| together, | **<big>[[G0260\|άμα]]</big>** |
+| even | **<big>[[G2193\|έως]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] tip | **<big>[[G6208\|άκρου]]</big>** |
+| of \[the\] earth. | **<big>[[G1093\|γης]]</big>** |
+| These \[are\] | **<big>[[G3778\|αύται]]</big>** |
+| \[the\] myriads | **<big>[[G3461\|μυριάδες]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these are | **<big>[[G3778\|αύται]]</big>** |
+| \[the\] thousands | **<big>[[G5505\|χιλιάδες]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
 [[Deut.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.16|<< Deuteronomy 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.18|Deuteronomy 33:18 >>]]</td></tr></table>
 
 

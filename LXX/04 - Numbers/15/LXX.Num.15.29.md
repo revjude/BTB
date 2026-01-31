@@ -7,28 +7,28 @@ Ye shall have one law for him that sinneth through ignorance, [both for] him tha
 You shall have the same law for the one who acts in error, whether he is a native-born Israelite or a foreigner residing among you.<small><sub>**MT:**</sub></small>
 [[Num.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.28|<< Numbers 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.30|Numbers 15:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| native inhabitant | <big><span class="asgreek">εγχωρίω</span></big> <sup><small><small>[[G7042]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">προσηλύτω</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lying near | <big><span class="asgreek">προσκειμένω</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| there shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should do it | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| unintentionally. | <big><span class="asgreek">ακουσίως</span></big> <sup><small><small>[[G6199]]</small></small></sup> |
+| To the | **<big>[[G3588\|τω]]</big>** |
+| native inhabitant | **<big>[[G7042\|εγχωρίω]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| foreigner | **<big>[[G4339\|προσηλύτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| lying near | **<big>[[G8929\|προσκειμένω]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| law | **<big>[[G3551\|νόμος]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| there shall be | **<big>[[G1510\|έσται]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should do it | **<big>[[G4160\|ποιήση]]</big>** |
+| unintentionally. | **<big>[[G6199\|ακουσίως]]</big>** |
 [[Num.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.28|<< Numbers 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.30|Numbers 15:30 >>]]</td></tr></table>
 
 

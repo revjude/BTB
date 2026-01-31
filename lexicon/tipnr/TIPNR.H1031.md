@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-hoglah</span> was a town on the border between Judah and Benjamin, near the northern end of the Dead Sea. \([[Josh.15.6|Joshua 15:6]]; 18:19, 21\)
 - A location first mentioned at [[Josh.15.6|Jos.15.6]]; 
-- only referred to as Beth-hoglah<[[H1031]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Beth-hoglah **<big>[[H1031|בֵּית חׇגְלָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.837062,35.513151&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The name "house of the partridge" may refer to the presence of these birds in th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-hoglah (NIV= Beth Hoglah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1031) <small>*Hebrew*</small> | 3x | [[Jos.15.6] ... [Jos.18.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.6;Jos.18.19;Jos.18.21) |
-All Strong's for **Beth-hoglah**: \[[[H1031]]\]
+| Beth-hoglah (NIV= Beth Hoglah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1031) | 3x | [[Jos.15.6] ... [Jos.18.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.6;Jos.18.19;Jos.18.21) |
+All entries for **Beth-hoglah**:  **<big>[[H1031|בֵּית חׇגְלָה]]</big>**

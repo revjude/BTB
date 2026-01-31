@@ -6,18 +6,18 @@ to a land of utter darkness, of deep shadow and disorder, where even the light i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.21|<< Job 10:21]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.1|Job 11:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] land of  | <span class="ashebrew"><big>אֶ֤רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>עֵיפָ֨תָה </big></span><small><small><sup>[[H5890]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'ei.Fa.tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמ֥וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> &#8207;| ke.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gloom of  | <span class="ashebrew"><big>אֹ֗פֶל </big></span><small><small><sup>[[H0652]]</sup></small></small> &#8207;| 'O.fel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deep darkness  | <span class="ashebrew"><big>צַ֭לְמָוֶת </big></span><small><small><sup>[[H6757]]</sup></small></small> &#8207;| Tzal.ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| order\<s>  | <span class="ashebrew"><big>סְדָרִ֗ים </big></span><small><small><sup>[[H5468]]</sup></small></small> &#8207;| se.da.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it shone forth  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֹּ֥פַע </big></span><small><small><sup>[[H3313]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> To.fa' <small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gloom  | <span class="ashebrew"><big>אֹֽפֶל </big></span><small><small><sup>[[H0652]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| 'O.fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H5890\|עֵיפָ֨תָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ei.Fa.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמ֥וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gloom of  |**<big>&#8207;[[H0652\|אֹ֗פֶל]]&#8207; </big>**| 'O.fel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep darkness  |**<big>&#8207;[[H6757\|צַ֭לְמָוֶת]]&#8207; </big>**| Tzal.ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| order\<s>  |**<big>&#8207;[[H5468\|סְדָרִ֗ים]]&#8207; </big>**| se.da.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it shone forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3313\|תֹּ֥פַע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.fa'<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gloom  |**<big>&#8207;[[H0652\|אֹֽפֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'O.fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.21|<< Job 10:21]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.1|Job 11:1 >>]]</td></tr></table>
 
 

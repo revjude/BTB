@@ -7,22 +7,22 @@ Ye which rejoice in a thing of nought, which say, Have we not taken to us horns 
 you who rejoice in Lo-debar and say, ‘Did we not take Karnaim by our own strength?’<small><sub>**MT:**</sub></small>
 [[Amos.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.12|<< Amos 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.14|Amos 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being glad | <big><span class="asgreek">ευφραινόμενοι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| no | <big><span class="asgreek">ουδενί</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθώ</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Was it not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we had | <big><span class="asgreek">έσχομεν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| horns? | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being glad | **<big>[[G2165\|ευφραινόμενοι]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| no | **<big>[[G3762\|ουδενί]]</big>** |
+| word | **<big>[[G3056\|λόγω]]</big>** |
+| good | **<big>[[G0018\|αγαθώ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Was it not | **<big>[[G3756\|ουκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| our strength | **<big>[[G2479\|ισχύϊ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| we had | **<big>[[G2192\|έσχομεν]]</big>** |
+| horns? | **<big>[[G2768\|κέρατα]]</big>** |
 [[Amos.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.12|<< Amos 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.14|Amos 6:14 >>]]</td></tr></table>
 
 

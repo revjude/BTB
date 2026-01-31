@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַעֲרָה‎</span></big> **yaʻărâh** <small>*(yah-ar-aw')*</small> ==**honeycomb**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎יַעַר‎</span><sup><small>[[H3293]]</small></sup>, and meaning the same</small>
+**<big><span class="ashebrew">‎יַעֲרָה‎</span></big>** **yaʻărâh** <small>*(yah-ar-aw')*</small> ==**honeycomb**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H3293|‎יַעַר‎]]</big>**, and meaning the same</small>
 
 $\quad$ (honey-) comb, forest.
 - {***a copse of bushes***

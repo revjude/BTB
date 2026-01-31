@@ -7,13 +7,13 @@ The children of Pashur, a thousand two hundred forty and seven.
 the descendants of Pashhur, 1,247;<small><sub>**MT:**</sub></small>
 [[Neh.7.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.40|<< Nehemiah 7:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.42|Nehemiah 7:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Pashur, | <big><span class="asgreek">Φασεούρ</span></big> <sup><small><small>[[H6583]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χίλιοι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| forty-seven; | <big><span class="asgreek">τεσσαρακονταεπτά</span></big> <sup><small><small>[[G9428]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Pashur, | **<big>[[H6583\|Φασεούρ]]</big>** |
+| a thousand | **<big>[[G5507\|χίλιοι]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσιοι]]</big>** |
+| forty-seven; | **<big>[[G9428\|τεσσαρακονταεπτά]]</big>** |
 [[Neh.7.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.40|<< Nehemiah 7:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.42|Nehemiah 7:42 >>]]</td></tr></table>
 
 

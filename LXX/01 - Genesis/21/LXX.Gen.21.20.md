@@ -7,22 +7,22 @@ And God was with the lad; and he grew, and dwelt in the wilderness, and became a
 And God was with the boy, and he grew up and settled in the wilderness and became a great archer.<small><sub>**MT:**</sub></small>
 [[Gen.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.19|<< Genesis 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.21|Genesis 21:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child. | <big><span class="asgreek">παιδίου</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he grew, | <big><span class="asgreek">ηυξήθη</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| And he became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a bowman. | <big><span class="asgreek">τοξότης</span></big> <sup><small><small>[[G9465]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God was | **<big>[[G1510\|ην]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| child. | **<big>[[G3813\|παιδίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he grew, | **<big>[[G0837\|ηυξήθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he dwelt | **<big>[[G2730\|κατώκησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
+| And he became | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a bowman. | **<big>[[G9465\|τοξότης]]</big>** |
 [[Gen.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.19|<< Genesis 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.21|Genesis 21:21 >>]]</td></tr></table>
 
 

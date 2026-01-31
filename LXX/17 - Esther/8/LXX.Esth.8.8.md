@@ -10,32 +10,32 @@ Write ye also for the Jews, as it liketh you, in the king’s name, and seal [it
 Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of the king and sealed with the royal signet ring cannot be revoked.”<small><sub>**MT:**</sub></small>
 [[Esth.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.7|<< Esther 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.9|Esther 8:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| write | <big><span class="asgreek">γράψατε</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| And you | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">ονόματός</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| it seems good | <big><span class="asgreek">δοκεί</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set a seal with | <big><span class="asgreek">σφραγίσατε</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ring! | <big><span class="asgreek">δακτυλίω</span></big> <sup><small><small>[[G1146]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[is\] written | <big><span class="asgreek">γράφεται</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in giving an order, | <big><span class="asgreek">επιτάξαντος</span></big> <sup><small><small>[[G2004]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] seal should be set | <big><span class="asgreek">σφραγισθή</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by my ring, | <big><span class="asgreek">δακτυλίω</span></big> <sup><small><small>[[G1146]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to contradict. | <big><span class="asgreek">αντειπείν</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
+| write | **<big>[[G1125\|γράψατε]]</big>** |
+| And you | **<big>[[G2532\|και]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| in | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my name | **<big>[[G3686\|ονόματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| it seems good | **<big>[[G1380\|δοκεί]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| set a seal with | **<big>[[G4972\|σφραγίσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my ring! | **<big>[[G1146\|δακτυλίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| For as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[is\] written | **<big>[[G1125\|γράφεται]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| in giving an order, | **<big>[[G2004\|επιτάξαντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] seal should be set | **<big>[[G4972\|σφραγισθή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| by my ring, | **<big>[[G1146\|δακτυλίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| it is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| to contradict. | **<big>[[G0471\|αντειπείν]]</big>** |
 [[Esth.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.7|<< Esther 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.9|Esther 8:9 >>]]</td></tr></table>
 
 

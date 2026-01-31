@@ -7,31 +7,31 @@ At the noise of the stamping of the hoofs of his strong [horses], at the rushing
 at the sound of the galloping hooves of stallions, the rumbling of chariots, and the clatter of their wheels. The fathers will not turn back for their sons; their hands will hang limp.<small><sub>**MT:**</sub></small>
 [[Jer.47.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of his thrust, | <big><span class="asgreek">ορμής</span></big> <sup><small><small>[[G3730]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hoofs | <big><span class="asgreek">όπλων</span></big> <sup><small><small>[[G8535]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] quake | <big><span class="asgreek">σεισμόυ</span></big> <sup><small><small>[[G4578]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his chariots, | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">ήχου</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
-| of his wheels. | <big><span class="asgreek">τροχών</span></big> <sup><small><small>[[G5164]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn | <big><span class="asgreek">επέστρεψαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| Fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] feebleness | <big><span class="asgreek">εκλύσεως</span></big> <sup><small><small>[[G7117]]</small></small></sup> |
-| of their hands, | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| of his thrust, | **<big>[[G3730\|ορμής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hoofs | **<big>[[G8535\|όπλων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] quake | **<big>[[G4578\|σεισμόυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his chariots, | **<big>[[G0716\|αρμάτων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] sound | **<big>[[G2279\|ήχου]]</big>** |
+| of his wheels. | **<big>[[G5164\|τροχών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| turn | **<big>[[G1994\|επέστρεψαν]]</big>** |
+| Fathers | **<big>[[G3962\|πατέρες]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| their sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] feebleness | **<big>[[G7117\|εκλύσεως]]</big>** |
+| of their hands, | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.47.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
 
 

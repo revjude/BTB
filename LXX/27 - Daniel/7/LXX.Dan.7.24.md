@@ -11,30 +11,30 @@ And the ten horns are ten kings who will rise from this kingdom. After them anot
 > $\quad$ referenced by: [[Rev.17.12|Rev 17:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| kings, | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[and\] they shall rise up. | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall rise up | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall overwhelm | <big><span class="asgreek">υπεροίσει</span></big> <sup><small><small>[[G9561]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prior, | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| he shall humble, | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| horns | **<big>[[G2768\|κέρατα]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] ten | **<big>[[G1176\|δέκα]]</big>** |
+| kings, | **<big>[[G0935\|βασιλείς]]</big>** |
+| \[and\] they shall rise up. | **<big>[[G0450\|αναστήσονται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| shall rise up | **<big>[[G0450\|αναστήσεται]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| shall overwhelm | **<big>[[G9561\|υπεροίσει]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| prior, | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| he shall humble, | **<big>[[G5013\|ταπεινώσει]]</big>** |
 [[Dan.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.23|<< Daniel 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.25|Daniel 7:25 >>]]</td></tr></table>
 
 

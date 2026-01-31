@@ -6,17 +6,17 @@ This is a regular burnt offering established at Mount Sinai as a pleasing aroma,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.5|<< Numbers 28:5]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.7|Numbers 28:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a burnt offering of  | <span class="ashebrew"><big>עֹלַ֖ת </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| 'o.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| continuity  | <span class="ashebrew"><big>תָּמִ֑יד </big></span><small><small><sup>[[H8548]]</sup></small></small> &#8207;| ta.Mid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which was instituted  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֲשֻׂיָה֙ </big></span><small><small><sup>[[H6213I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.su.Yah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at [the] mountain of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַ֣ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sinai  | <span class="ashebrew"><big>סִינַ֔י </big></span><small><small><sup>[[H5514G]]</sup></small></small> &#8207;| si.Nai <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to an odor of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֵ֣יחַ </big></span><small><small><sup>[[H7381]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Rei.ach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| soothing  | <span class="ashebrew"><big>נִיחֹ֔חַ </big></span><small><small><sup>[[H5207]]</sup></small></small> &#8207;| ni.Cho.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire offering  | <span class="ashebrew"><big>אִשֶּׁ֖ה </big></span><small><small><sup>[[H0801]]</sup></small></small> &#8207;| 'i.Sheh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֖ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continuity  |**<big>&#8207;[[H8548\|תָּמִ֑יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which was instituted  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6213I\|עֲשֻׂיָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.su.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֣ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  |**<big>&#8207;[[H5514G\|סִינַ֔י]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to an odor of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7381\|רֵ֣יחַ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soothing  |**<big>&#8207;[[H5207\|נִיחֹ֔חַ]]&#8207; </big>**| ni.Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire offering  |**<big>&#8207;[[H0801\|אִשֶּׁ֖ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.5|<< Numbers 28:5]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.7|Numbers 28:7 >>]]</td></tr></table>
 
 

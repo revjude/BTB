@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִיזָא‎</span></big> **Zîyzâʼ** <small>*(zee-zaw')*</small> ==**Ziza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from the same as <span class="ashebrew">‎זִיז‎</span><sup><small>[[H2123]]</small></sup>; prominence</small>
+**<big><span class="ashebrew">‎זִיזָא‎</span></big>** **Zîyzâʼ** <small>*(zee-zaw')*</small> ==**Ziza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from the same as **<big>[[H2123|‎זִיז‎]]</big>**; prominence</small>
 
 $\quad$ Ziza.
 - § Ziza = *"shining"*

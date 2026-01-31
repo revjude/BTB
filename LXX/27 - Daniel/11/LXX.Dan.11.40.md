@@ -7,43 +7,43 @@ And at the time of the end shall the king of the south push at him: and the king
 At the time of the end, the king of the South will engage him in battle, but the king of the North will storm out against him with chariots, horsemen, and many ships, invading many countries and sweeping through them like a flood.<small><sub>**MT:**</sub></small>
 [[Dan.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.39|<< Daniel 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.41|Daniel 11:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| end | <big><span class="asgreek">πέρατι</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| he will mix horns | <big><span class="asgreek">συγκερατισθήσεται</span></big> <sup><small><small>[[G9229]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south; | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be gathered together | <big><span class="asgreek">συναχθήσεται</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| north | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρμασι</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| horsemen, | <big><span class="asgreek">ιππεύσι</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ships | <big><span class="asgreek">ναυσί</span></big> <sup><small><small>[[G3491]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλαίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall break | <big><span class="asgreek">συντρίψει</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go by. | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| time | **<big>[[G2540\|καιρού]]</big>** |
+| end | **<big>[[G4009\|πέρατι]]</big>** |
+| he will mix horns | **<big>[[G9229\|συγκερατισθήσεται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| south; | **<big>[[G3558\|νότου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be gathered together | **<big>[[G4863\|συναχθήσεται]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| north | **<big>[[G1005\|βορρά]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| chariots, | **<big>[[G0716\|άρμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| horsemen, | **<big>[[G2460\|ιππεύσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| ships | **<big>[[G3491\|ναυσί]]</big>** |
+| many | **<big>[[G4183\|πολλαίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall break | **<big>[[G4937\|συντρίψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go by. | **<big>[[G3928\|παρελεύσεται]]</big>** |
 [[Dan.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.39|<< Daniel 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.41|Daniel 11:41 >>]]</td></tr></table>
 
 

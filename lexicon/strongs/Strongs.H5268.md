@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נִסְרֹךְ‎</span></big> **Niçrôk** <small>*(nis-roke')*</small> ==**Nisroch**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎נִסְרֹךְ‎</span></big>** **Niçrôk** <small>*(nis-roke')*</small> ==**Nisroch**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Nisroch.

@@ -6,16 +6,16 @@ A lazy man does not roast his game, but a diligent man prizes his possession.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he roasts  | <span class="ashebrew"><big>יַחֲרֹ֣ךְ </big></span><small><small><sup>[[H2760]]</sup></small></small> &#8207;| ya.cha.Rokh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| idleness  | <span class="ashebrew"><big>רְמִיָּ֣ה </big></span><small><small><sup>[[H7423B]]</sup></small></small> &#8207;| re.mi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| game his  | <span class="ashebrew"><big>צֵיד֑ </big></span><small><small><sup>[[H6718A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tzei.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] wealth of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הוֹן </big></span><small><small><sup>[[H1952]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hon- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אָדָ֖ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precious  | <span class="ashebrew"><big>יָקָ֣ר </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ya.Kar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| diligent  | <span class="ashebrew"><big>חָרֽוּץ </big></span><small><small><sup>[[H2742A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.Rutz <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he roasts  |**<big>&#8207;[[H2760\|יַחֲרֹ֣ךְ]]&#8207; </big>**| ya.cha.Rokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| idleness  |**<big>&#8207;[[H7423B\|רְמִיָּ֣ה]]&#8207; </big>**| re.mi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| game his  |**<big>&#8207;[[H6718A\|צֵיד֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tzei.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] wealth of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1952\|הוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hon-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precious  |**<big>&#8207;[[H3368\|יָקָ֣ר]]&#8207; </big>**| ya.Kar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| diligent  |**<big>&#8207;[[H2742A\|חָרֽוּץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Rutz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 
 

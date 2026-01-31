@@ -7,14 +7,14 @@ Out of Zion, the perfection of beauty, God hath shined.
 From Zion, perfect in beauty, God shines forth.<small><sub>**MT:**</sub></small>
 [[Ps.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.1|<< Psalm 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.3|Psalm 50:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| attractiveness | <big><span class="asgreek">ευπρέπεια</span></big> <sup><small><small>[[G2143]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his beauty. | <big><span class="asgreek">ωραιότητος</span></big> <sup><small><small>[[G9814]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| attractiveness | **<big>[[G2143\|ευπρέπεια]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his beauty. | **<big>[[G9814\|ωραιότητος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.1|<< Psalm 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.3|Psalm 50:3 >>]]</td></tr></table>
 
 

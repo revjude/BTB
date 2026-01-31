@@ -7,24 +7,24 @@ And after this did Jehoshaphat king of Judah join himself with Ahaziah king of I
 Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, who acted wickedly.<small><sub>**MT:**</sub></small>
 [[2Chr.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.34|<< 2 Chronicles 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.36|2 Chronicles 20:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| participated | <big><span class="asgreek">εκοινώνησεν</span></big> <sup><small><small>[[G2841]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Ahaziah | <big><span class="asgreek">Οχοζίου</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| acted lawlessly | <big><span class="asgreek">ηνόμησε</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do. | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| participated | **<big>[[G2841\|εκοινώνησεν]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Ahaziah | **<big>[[H0274\|Οχοζίου]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G3778\|αυτός]]</big>** |
+| acted lawlessly | **<big>[[G6349\|ηνόμησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do. | **<big>[[G4160\|ποιήσαι]]</big>** |
 [[2Chr.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.34|<< 2 Chronicles 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.36|2 Chronicles 20:36 >>]]</td></tr></table>
 
 

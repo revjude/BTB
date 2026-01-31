@@ -7,23 +7,23 @@ And the servant ran to meet her, and said, Let me, I pray thee, drink a little w
 So the servant ran to meet her and said, “Please let me have a little water from your jar.”<small><sub>**MT:**</sub></small>
 [[Gen.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.16|<< Genesis 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.18|Genesis 24:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ran | <big><span class="asgreek">επέδραμε</span></big> <sup><small><small>[[G7465]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Give me to drink | <big><span class="asgreek">πότισόν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a little | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your water-pitcher! | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ran | **<big>[[G7465\|επέδραμε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G3816\|παις]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet with | **<big>[[G4877\|συνάντησιν]]</big>** |
+| her, | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Give me to drink | **<big>[[G4222\|πότισόν]]</big>** **<big>[[G1473\|με]]</big>** |
+| a little | **<big>[[G3398\|μικρόν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your water-pitcher! | **<big>[[G5201\|υδρίας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.16|<< Genesis 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.18|Genesis 24:18 >>]]</td></tr></table>
 
 

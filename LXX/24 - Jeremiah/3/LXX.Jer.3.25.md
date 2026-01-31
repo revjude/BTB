@@ -7,38 +7,38 @@ We lie down in our shame, and our confusion covereth us: for we have sinned agai
 Let us lie down in our shame; let our disgrace cover us. We have sinned against the LORD our God, both we and our fathers; from our youth even to this day we have not obeyed the voice of the LORD our God.”<small><sub>**MT:**</sub></small>
 [[Jer.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.24|<< Jeremiah 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.1|Jeremiah 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We were gone to bed | <big><span class="asgreek">εκοιμήθημεν</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our shame, | <big><span class="asgreek">αισχύνη</span></big> <sup><small><small>[[G0152]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covered | <big><span class="asgreek">επέκαλυψεν</span></big> <sup><small><small>[[G1943]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our dishonor | <big><span class="asgreek">ατιμία</span></big> <sup><small><small>[[G0819]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sinned | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]][[G1473]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| our youth | <big><span class="asgreek">νεότητος</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we hearkened not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπηκούσαμεν</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We were gone to bed | **<big>[[G2837\|εκοιμήθημεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| our shame, | **<big>[[G0152\|αισχύνη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covered | **<big>[[G1943\|επέκαλυψεν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| our dishonor | **<big>[[G0819\|ατιμία]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| before | **<big>[[G1726\|έναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| sinned | **<big>[[G0264\|ημάρτομεν]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| our fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| our youth | **<big>[[G3503\|νεότητος]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day, | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we hearkened not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5219\|υπηκούσαμεν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Jer.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.24|<< Jeremiah 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.1|Jeremiah 4:1 >>]]</td></tr></table>
 
 

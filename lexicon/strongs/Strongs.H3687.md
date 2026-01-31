@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּסִילוּת‎</span></big> **kᵉçîylûwth** <small>*(kes-eel-ooth')*</small> ==**stupidity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כְּסִיל‎</span><sup><small>[[H3684]]</small></sup></small>
+**<big><span class="ashebrew">‎כְּסִילוּת‎</span></big>** **kᵉçîylûwth** <small>*(kes-eel-ooth')*</small> ==**stupidity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3684|‎כְּסִיל‎]]</big>**</small>
 
 $\quad$ foolish.
 - ***silliness***

@@ -7,31 +7,31 @@ The black horses which [are] therein go forth into the north country; and the wh
 The one with the black horses is going toward the land of the north, the one with the white horses toward the west, and the one with the dappled horses toward the south.”<small><sub>**MT:**</sub></small>
 [[Zech.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.5|<< Zechariah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.7|Zechariah 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποι</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| black | <big><span class="asgreek">μέλανες</span></big> <sup><small><small>[[G3189]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] north; | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white -- | <big><span class="asgreek">λευκοί</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| after | <big><span class="asgreek">κατόπισθεν</span></big> <sup><small><small>[[G7974]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spotted -- | <big><span class="asgreek">ποικίλοι</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">εξεπορεύοντο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] south, | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
+| with | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| horses | **<big>[[G2462\|ίπποι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| black | **<big>[[G3189\|μέλανες]]</big>** |
+| they went forth | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] north; | **<big>[[G1005\|βορρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| white -- | **<big>[[G3022\|λευκοί]]</big>** |
+| they went forth | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| after | **<big>[[G7974\|κατόπισθεν]]</big>** |
+| them; | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| spotted -- | **<big>[[G4164\|ποικίλοι]]</big>** |
+| they went forth | **<big>[[G1607\|εξεπορεύοντο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] south, | **<big>[[G3558\|νότου]]</big>** |
 [[Zech.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.5|<< Zechariah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.7|Zechariah 6:7 >>]]</td></tr></table>
 
 

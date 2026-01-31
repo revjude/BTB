@@ -7,17 +7,17 @@ He shall drink of the brook in the way: therefore shall he lift up the head.
 He will drink from the brook by the road; therefore He will lift up His head.<small><sub>**MT:**</sub></small>
 [[Ps.110.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.110.6|<< Psalm 110:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.1|Psalm 111:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| He shall drink | <big><span class="asgreek">πίεται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he shall raise up high | <big><span class="asgreek">υψώσει</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| a head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδώ]]</big>** |
+| He shall drink | **<big>[[G4095\|πίεται]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| he shall raise up high | **<big>[[G5312\|υψώσει]]</big>** |
+| a head. | **<big>[[G2776\|κεφαλήν]]</big>** |
 [[Ps.110.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.110.6|<< Psalm 110:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.1|Psalm 111:1 >>]]</td></tr></table>
 
 

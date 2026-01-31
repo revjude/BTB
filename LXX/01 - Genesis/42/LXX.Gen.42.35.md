@@ -7,36 +7,36 @@ And it came to pass as they emptied their sacks, that, behold, every man’s bun
 As they began emptying their sacks, there in each man’s sack was his bag of silver! And when they and their father saw the bags of silver, they were dismayed.<small><sub>**MT:**</sub></small>
 [[Gen.42.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.34|<< Genesis 42:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.36|Genesis 42:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their emptying | <big><span class="asgreek">κατακενούν</span></big> <sup><small><small>[[G7851]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sackcloths, | <big><span class="asgreek">σάκκους</span></big> <sup><small><small>[[G4526]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in each | <big><span class="asgreek">εκάστου</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a bundle | <big><span class="asgreek">δεσμός</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sackcloth. | <big><span class="asgreek">σάκκω</span></big> <sup><small><small>[[G4526]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bundles | <big><span class="asgreek">δεσμούς</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father, | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they feared. | <big><span class="asgreek">εφοβήθησαν</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| And it happened | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their emptying | **<big>[[G7851\|κατακενούν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their sackcloths, | **<big>[[G4526\|σάκκους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1510\|ην]]</big>** |
+| in each | **<big>[[G1538\|εκάστου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| a bundle | **<big>[[G1199\|δεσμός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their sackcloth. | **<big>[[G4526\|σάκκω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bundles | **<big>[[G1199\|δεσμούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their silver | **<big>[[G0694\|αργυρίου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to them, | **<big>[[G1473\|αυτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their father, | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they feared. | **<big>[[G5399\|εφοβήθησαν]]</big>** |
 [[Gen.42.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.34|<< Genesis 42:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.36|Genesis 42:36 >>]]</td></tr></table>
 
 

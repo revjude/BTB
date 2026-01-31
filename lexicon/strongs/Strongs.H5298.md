@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֶפֶג‎</span></big> **Nepheg** <small>*(neh'-feg)*</small> ==**Nepheg**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎נֶפֶג‎</span></big>** **Nepheg** <small>*(neh'-feg)*</small> ==**Nepheg**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root probably meaning to spring forth; a sprout</small>
 
 $\quad$ Nepheg.

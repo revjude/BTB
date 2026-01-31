@@ -7,41 +7,41 @@ And I contended with them, and cursed them, and smote certain of them, and pluck
 I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves!<small><sub>**MT:**</sub></small>
 [[Neh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.24|<< Nehemiah 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.26|Nehemiah 13:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I quarreled | <big><span class="asgreek">εμαχεσάμην</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cursed | <big><span class="asgreek">κατηρασάμην</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I struck | <big><span class="asgreek">επάταξα</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| some | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| of their | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I plucked their hair, | <big><span class="asgreek">εμαδάρωσα</span></big> <sup><small><small>[[G8224]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I bound them to an oath | <big><span class="asgreek">ώρκισα</span></big> <sup><small><small>[[G3726]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| give | <big><span class="asgreek">δώτε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not indeed take | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to yourselves. | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I quarreled | **<big>[[G3164\|εμαχεσάμην]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cursed | **<big>[[G2672\|κατηρασάμην]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I struck | **<big>[[G3960\|επάταξα]]</big>** |
+| some | **<big>[[G1722\|εν]]</big>** |
+| of their | **<big>[[G1473\|αυτοίς]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I plucked their hair, | **<big>[[G8224\|εμαδάρωσα]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I bound them to an oath | **<big>[[G3726\|ώρκισα]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God, | **<big>[[G2316\|θεώ]]</big>** |
+| You shall not | **<big>[[G0302\|αν]]</big>** |
+| give | **<big>[[G1325\|δώτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not indeed take | **<big>[[G0302\|αν]]</big>** **<big>[[G2983\|λήψεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their daughters | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[for\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to yourselves. | **<big>[[G1438\|εαυτοίς]]</big>** |
 [[Neh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.24|<< Nehemiah 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.26|Nehemiah 13:26 >>]]</td></tr></table>
 
 

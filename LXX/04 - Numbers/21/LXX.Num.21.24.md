@@ -10,32 +10,32 @@ And Israel smote him with the edge of the sword, and possessed his land from Arn
 And Israel put him to the sword and took possession of his land, from the Arnon to the Jabbok—but only up to the border of the Ammonites, because it was fortified.<small><sub>**MT:**</sub></small>
 [[Num.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.23|<< Numbers 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.25|Numbers 21:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a carnage | <big><span class="asgreek">φόνω</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
-| of \[the\] sword; | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they dominated | <big><span class="asgreek">κατεκυρίευσαν</span></big> <sup><small><small>[[G2634]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Arnon | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Jabbok, | <big><span class="asgreek">Ιαβόκ</span></big> <sup><small><small>[[H2999]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon. | <big><span class="asgreek">Αμμάν</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Jazer | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
-| \[the\] boundaries | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμάν</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a carnage | **<big>[[G5408\|φόνω]]</big>** |
+| of \[the\] sword; | **<big>[[G3162\|μαχαίρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they dominated | **<big>[[G2634\|κατεκυρίευσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Arnon | **<big>[[H0769\|Αρνών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Jabbok, | **<big>[[H2999\|Ιαβόκ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon. | **<big>[[H5983\|Αμμάν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| Jazer | **<big>[[H3270\|Ιαζήρ]]</big>** |
+| \[the\] boundaries | **<big>[[G3725\|όρια]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμάν]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
 [[Num.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.23|<< Numbers 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.25|Numbers 21:25 >>]]</td></tr></table>
 
 

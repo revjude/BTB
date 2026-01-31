@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָמַם‎</span></big> **râmam** <small>*(raw-mam')*</small> ==**be exalted**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָמַם‎</span></big>** **râmam** <small>*(raw-mam')*</small> ==**be exalted**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ exalt, get (oneself) up, lift up (self), mount up.

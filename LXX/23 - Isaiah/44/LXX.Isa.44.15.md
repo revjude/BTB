@@ -7,37 +7,37 @@ Then shall it be for a man to burn: for he will take thereof, and warm himself; 
 It serves as fuel for man. He takes some of it to warm himself, and he kindles a fire and bakes his bread. He also fashions it into a god and worships it; he makes an idol and bows down to it.<small><sub>**MT:**</sub></small>
 [[Isa.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.14|<< Isaiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.16|Isaiah 44:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| it might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[for\] men | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| burn. | <big><span class="asgreek">καύσιν</span></big> <sup><small><small>[[G2740]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he warms himself, | <big><span class="asgreek">εθερμάνθη</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in burning | <big><span class="asgreek">καύσαντες</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| they bake | <big><span class="asgreek">έπεψαν</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
-| bread \[loaves\] | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and \[with\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| remaining | <big><span class="asgreek">λοιπόν</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| he works out | <big><span class="asgreek">ειργάσαντο</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| does obeisance | <big><span class="asgreek">προσκυνούσιν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a carved \[idol\], | <big><span class="asgreek">γλυπτόν</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he bends | <big><span class="asgreek">κάμπτει</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| it might be | **<big>[[G1510\|η]]</big>** |
+| \[for\] men | **<big>[[G0444\|ανθρώποις]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| burn. | **<big>[[G2740\|καύσιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| he warms himself, | **<big>[[G2328\|εθερμάνθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in burning | **<big>[[G2545\|καύσαντες]]</big>** |
+| they bake | **<big>[[G8778\|έπεψαν]]</big>** |
+| bread \[loaves\] | **<big>[[G0740\|άρτους]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it; | **<big>[[G1473\|αυτώ]]</big>** |
+| and \[with\] the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| remaining | **<big>[[G3062\|λοιπόν]]</big>** |
+| he works out | **<big>[[G2038\|ειργάσαντο]]</big>** |
+| gods, | **<big>[[G2316\|θεούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| does obeisance | **<big>[[G4352\|προσκυνούσιν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| He made | **<big>[[G4160\|εποίησε]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| a carved \[idol\], | **<big>[[G6745\|γλυπτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he bends | **<big>[[G2578\|κάμπτει]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Isa.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.14|<< Isaiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.16|Isaiah 44:16 >>]]</td></tr></table>
 
 

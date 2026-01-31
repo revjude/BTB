@@ -10,35 +10,35 @@ At the beginning of thy supplications the commandment came forth, and I am come 
 At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:<small><sub>**MT:**</sub></small>
 [[Dan.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.22|<< Daniel 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.24|Daniel 9:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] beginning | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your supplication | <big><span class="asgreek">δεήσεώς</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to announce | <big><span class="asgreek">αναγγείλαί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| desired | <big><span class="asgreek">επιθυμιών</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And \[now\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reflect | <big><span class="asgreek">εννοήθητι</span></big> <sup><small><small>[[G7253]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter, | <big><span class="asgreek">ρήματι</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| perceive | <big><span class="asgreek">σύνες</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparition! | <big><span class="asgreek">οπτασία</span></big> <sup><small><small>[[G3701]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] beginning | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your supplication | **<big>[[G1162\|δεήσεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to announce | **<big>[[G0312\|αναγγείλαί]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| desired | **<big>[[G1939\|επιθυμιών]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
+| And \[now\] | **<big>[[G2532\|και]]</big>** |
+| reflect | **<big>[[G7253\|εννοήθητι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| matter, | **<big>[[G4487\|ρήματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| perceive | **<big>[[G4920\|σύνες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| apparition! | **<big>[[G3701\|οπτασία]]</big>** |
 [[Dan.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.22|<< Daniel 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.24|Daniel 9:24 >>]]</td></tr></table>
 
 

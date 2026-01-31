@@ -7,31 +7,31 @@ And the children of Israel were numbered, and were all present, and went against
 The Israelites also mobilized, gathered supplies, and marched out to meet them. The Israelites camped before them like two small flocks of goats, while the Arameans covered the countryside.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.26|<< 1 Kings 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.28|1 Kings 20:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| were mustered, | <big><span class="asgreek">επεσκέπησαν</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel camped | <big><span class="asgreek">παρενέβαλεν</span></big> <sup><small><small>[[G6070]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| of goats. | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Syria | <big><span class="asgreek">Συρία</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| filled | <big><span class="asgreek">έπλησε</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| were mustered, | **<big>[[G1980\|επεσκέπησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G0529\|απάντησιν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel camped | **<big>[[G6070\|παρενέβαλεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| flocks | **<big>[[G4168\|ποίμνια]]</big>** |
+| of goats. | **<big>[[G6167\|αιγών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Syria | **<big>[[G4947\|Συρία]]</big>** |
+| filled | **<big>[[G4130\|έπλησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
 [[1Kgs.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.26|<< 1 Kings 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.28|1 Kings 20:28 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And Saul said to David, Thou art not able to go against this Philistine to fight
 But Saul replied, “You cannot go out against this Philistine to fight him. You are just a boy, and he has been a warrior from his youth.”<small><sub>**MT:**</sub></small>
 [[1Sam.17.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.32|<< 1 Samuel 17:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.34|1 Samuel 17:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you be able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this Philistine | <big><span class="asgreek">αλλόφυλον</span></big> <sup><small><small>[[G0246]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to battle | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are a boy, | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| is a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of war | <big><span class="asgreek">πολεμιστής</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his youth. | <big><span class="asgreek">νεότητος</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you be able | **<big>[[G1410\|δυνήση]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this Philistine | **<big>[[G0246\|αλλόφυλον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| to battle | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are a boy, | **<big>[[G3808\|παιδάριον]]</big>** **<big>[[G1510\|ει]]</big>** |
+| and he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| is a man | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| of war | **<big>[[G8841\|πολεμιστής]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| his youth. | **<big>[[G3503\|νεότητος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.17.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.32|<< 1 Samuel 17:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.34|1 Samuel 17:34 >>]]</td></tr></table>
 
 

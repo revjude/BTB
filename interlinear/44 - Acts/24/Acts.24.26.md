@@ -6,29 +6,29 @@ At the same time, he was hoping that Paul would offer him a bribe. So he sent fo
 <small><sub>**Literal:**</sub></small>
 At the same time now also he is hoping that riches will be given to him by <the> Paul so that may release him Therefore also often him sending for he was talking with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.25|<< Acts 24:25]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.27|Acts 24:27 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| At the same time |<big><span class="asgreek">ἅμα</span></big> <small><small><sup>[[G0260]]</sup></small></small> |hama <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
-| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he is hoping |<big><span class="asgreek">ἐλπίζων</span></big> <small><small><sup>[[G1679]]</sup></small></small> |elpizōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| riches |<big><span class="asgreek">χρήματα</span></big> <small><small><sup>[[G5536]]</sup></small></small> |chrēmata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be given |<big><span class="asgreek">δοθήσεται</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dothēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by |<big><span class="asgreek">ὑπὸ</span></big> <small><small><sup>[[G5259G]]</sup></small></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Paul |<big><span class="asgreek">Παύλου</span></big> <small><small><sup>[[G3972G]]</sup></small></small> |Paulou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<big><span class="asgreek">ὅπως</span></big> <small><small><sup>[[G3704]]</sup></small></small> |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| may release |<big><span class="asgreek">λύσῃ</span></big> <small><small><sup>[[G3089]]</sup></small></small> |lusē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| him [^1] |<big><span class="asgreek">αὐτόν,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| Therefore |<big><span class="asgreek">διὸ</span></big> <small><small><sup>[[G1352]]</sup></small></small> |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| often |<big><span class="asgreek">πυκνότερον</span></big> <small><small><sup>[[G4437]]</sup></small></small> |puknoteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sending for |<big><span class="asgreek">μεταπεμπόμενος</span></big> <small><small><sup>[[G3343]]</sup></small></small> |metapempomenos <small><sup>[[V-PMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was talking |<big><span class="asgreek">ὡμίλει</span></big> <small><small><sup>[[G3656]]</sup></small></small> |hōmilei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with him. |<big><span class="asgreek">αὐτῷ.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| At the same time |**<big>[[G0260\|ἅμα]]</big>**  |hama <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
+| also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he is hoping |**<big>[[G1679\|ἐλπίζων]]</big>**  |elpizōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| riches |**<big>[[G5536\|χρήματα]]</big>**  |chrēmata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be given |**<big>[[G1325\|δοθήσεται]]</big>**  |dothēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by |**<big>[[G5259G\|ὑπὸ]]</big>**  |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Paul |**<big>[[G3972G\|Παύλου]]</big>**  |Paulou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| may release |**<big>[[G3089\|λύσῃ]]</big>**  |lusē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| him [^1] |**<big>[[G0846\|αὐτόν,]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| often |**<big>[[G4437\|πυκνότερον]]</big>**  |puknoteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sending for |**<big>[[G3343\|μεταπεμπόμενος]]</big>**  |metapempomenos <small><sup>[[V-PMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was talking |**<big>[[G3656\|ὡμίλει]]</big>**  |hōmilei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with him. |**<big>[[G0846\|αὐτῷ.¶]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.25|<< Acts 24:25]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.27|Acts 24:27 >>]]</td></tr></table>
 
-[^1]: Extra Text (12-13):  <span class='asgreek'>**ὅπως**</span>   <span class='asgreek'>**λύσῃ**</span>    <span class='asgreek'>**αὐτόν**</span>,   (<i>hopōs lusē auton</i>) 'so that may release him' is only in traditional manuscripts (TR+Byz)
+[^1]: Extra Text (12-13):  **<big><span class='asgreek'>ὅπως</span></big>**   **<big><span class='asgreek'>λύσῃ</span></big>**    **<big><span class='asgreek'>αὐτόν</span></big>**,   (<i>hopōs lusē auton</i>) 'so that may release him' is only in traditional manuscripts (TR+Byz)

@@ -6,23 +6,23 @@ All these sons of Jediael were heads of their families, mighty men of valor; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.10|<< 1 Chronicles 7:10]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.12|1 Chronicles 7:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֜לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֤י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jediael  | <span class="ashebrew"><big>יְדִֽיעֲאֵל֙ </big></span><small><small><sup>[[H3043G]]</sup></small></small> &#8207;| ye.di.'a.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] chiefs of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רָאשֵׁ֣י </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fathers  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָב֔וֹת </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty [men] of  | <span class="ashebrew"><big>גִּבּוֹרֵ֖י </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.bo.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength\<s>  | <span class="ashebrew"><big>חֲיָלִ֑ים </big></span><small><small><sup>[[H2428A]]</sup></small></small> &#8207;| cha.ya.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven-  | <span class="ashebrew"><big>שִׁבְעָֽה </big></span><small><small><sup>[[H7651]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shiv.'ah- <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָׂ֥ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אֶ֙לֶף֙ </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'e.lef <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and two hundred  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָאתַ֔יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] went forth of  | <span class="ashebrew"><big>יֹצְאֵ֥י </big></span><small><small><sup>[[H3318N]]</sup></small></small> &#8207;| yo.tze.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="ashebrew"><big>צָבָ֖א </big></span><small><small><sup>[[H6635H]]</sup></small></small> &#8207;| tza.Va' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> battle  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִּלְחָמָֽה </big></span><small><small><sup>[[H4421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jediael  |**<big>&#8207;[[H3043G\|יְדִֽיעֲאֵל֙]]&#8207; </big>**| ye.di.'a.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] chiefs of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fathers  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0001G\|אָב֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [men] of  |**<big>&#8207;[[H1368\|גִּבּוֹרֵ֖י]]&#8207; </big>**| gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength\<s>  |**<big>&#8207;[[H2428A\|חֲיָלִ֑ים]]&#8207; </big>**| cha.ya.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven-  |**<big>&#8207;[[H7651\|שִׁבְעָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shiv.'ah-<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָׂ֥ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אֶ֙לֶף֙]]&#8207; </big>**| 'e.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two hundred  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3967\|מָאתַ֔יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] went forth of  |**<big>&#8207;[[H3318N\|יֹצְאֵ֥י]]&#8207; </big>**| yo.tze.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H6635H\|צָבָ֖א]]&#8207; </big>**| tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> battle  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.10|<< 1 Chronicles 7:10]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.12|1 Chronicles 7:12 >>]]</td></tr></table>
 
 

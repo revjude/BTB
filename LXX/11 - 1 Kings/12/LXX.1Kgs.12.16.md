@@ -7,50 +7,50 @@ So when all Israel saw that the king hearkened not unto them, the people answere
 When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,<small><sub>**MT:**</sub></small>
 [[1Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.15|<< 1 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.17|1 Kings 12:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knew | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| did not hearken to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is our | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| David? | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| There is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| inheritance to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jesse. | <big><span class="asgreek">Ιεσσαί</span></big> <sup><small><small>[[G2421]]</small></small></sup> |
-| Run, | <big><span class="asgreek">απότρεχε</span></big> <sup><small><small>[[G6503]]</small></small></sup> |
-| O Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tents! | <big><span class="asgreek">σκηνώματά</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| graze | <big><span class="asgreek">βόσκε</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your \[own\] house, | <big><span class="asgreek">οίκόν</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David! | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tents. | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| knew | **<big>[[G1492\|είδε]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| did not hearken to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσεν]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| is our | **<big>[[G1473\|ημίν]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| David? | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and, | **<big>[[G2532\|και]]</big>** |
+| There is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| inheritance to us | **<big>[[G1473\|ημίν]]</big>** **<big>[[G2817\|κληρονομία]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιώ]]</big>** |
+| of Jesse. | **<big>[[G2421\|Ιεσσαί]]</big>** |
+| Run, | **<big>[[G6503\|απότρεχε]]</big>** |
+| O Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your tents! | **<big>[[G4638\|σκηνώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| graze | **<big>[[G1006\|βόσκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your \[own\] house, | **<big>[[G3624\|οίκόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| David! | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel went forth | **<big>[[G0565\|απήλθεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his tents. | **<big>[[G4638\|σκηνώματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.15|<< 1 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.17|1 Kings 12:17 >>]]</td></tr></table>
 
 

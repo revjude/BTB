@@ -7,21 +7,21 @@ And the damsel ran, and told [them of] her mother’s house these things.
 The girl ran and told her mother’s household about these things.<small><sub>**MT:**</sub></small>
 [[Gen.24.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.27|<< Genesis 24:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.29|Genesis 24:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| running, | <big><span class="asgreek">δραμούσα</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| maidservant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| announced | <big><span class="asgreek">ανήγγειλεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to her mother | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| about | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words. | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| running, | **<big>[[G5143\|δραμούσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| maidservant | **<big>[[G3816\|παις]]</big>** |
+| announced | **<big>[[G0312\|ανήγγειλεν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| to her mother | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| about | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these words. | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
 [[Gen.24.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.27|<< Genesis 24:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.29|Genesis 24:29 >>]]</td></tr></table>
 
 

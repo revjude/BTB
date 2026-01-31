@@ -1,4 +1,4 @@
-meaning of: <small>[[G5456H]]</small> 
+meaning of: <small>**<big>[[G5456H|φωνή]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φωνή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 

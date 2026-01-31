@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎רְמִיָּה‎</span></big> **rᵉmîyâh** <small>*(rem-ee-yaw')*</small> ==**deceit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָמָה‎</span><sup><small>[[H7411]]</small></sup></small>
+**<big><span class="ashebrew">‎רְמִיָּה‎</span></big>** **rᵉmîyâh** <small>*(rem-ee-yaw')*</small> ==**deceit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7411|‎רָמָה‎]]</big>**</small>
 
 $\quad$ deceit(-ful, -fully), false, guile, idle, slack, slothful.
 - ***remissness***, ***treachery***
 
 **1)** laxness, slackness, slackening, deceit, treachery
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἄνομος</span><sup><small>[[G0459]]</small></sup> · <span class="asgreek">δόλιος</span><sup><small>[[G1386]]</small></sup> · <span class="asgreek">δόλος</span><sup><small>[[G1388]]</small></sup>
+<small>See Greek: </small>**<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0459|ἄνομος]]</big>** · **<big>[[G1386|δόλιος]]</big>** · **<big>[[G1388|δόλος]]</big>**

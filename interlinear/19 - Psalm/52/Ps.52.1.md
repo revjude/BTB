@@ -6,16 +6,16 @@ For the choirmaster. A Maskil of David. After Doeg the Edomite went to Saul and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.0|<< Psalms 52:0]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.2|Psalms 52:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| why?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do you boast  | <span class="ashebrew"><big>תִּתְהַלֵּ֣ל </big></span><small><small><sup>[[H1984H]]</sup></small></small> &#8207;| tit.ha.Lel <small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in evil  | <span class="ashebrew"><big>בְּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָעָה </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| Be. <small><sup>[[HR]]</sup></small> ra.'ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O mighty [man]  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גִּבּ֑וֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> gi.Bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] covenant loyalty of  | <span class="ashebrew"><big>חֶ֥סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Che.sed <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֝֗ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּֽוֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you boast  |**<big>&#8207;[[H1984H\|תִּתְהַלֵּ֣ל]]&#8207; </big>**| tit.ha.Lel<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in evil  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H7451I\|רָעָה]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O mighty [man]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1368\|גִּבּ֑וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] covenant loyalty of  |**<big>&#8207;[[H2617A\|חֶ֥סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֝֗ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.0|<< Psalms 52:0]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.2|Psalms 52:2 >>]]</td></tr></table>
 
 

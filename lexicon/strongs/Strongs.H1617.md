@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֵּרָא‎</span></big> **Gêrâʼ** <small>*(gay-raw')*</small> ==**Gera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎גֵּרָה‎</span><sup><small>[[H1626]]</small></sup>; a grain</small>
+**<big><span class="ashebrew">‎גֵּרָא‎</span></big>** **Gêrâʼ** <small>*(gay-raw')*</small> ==**Gera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps from **<big>[[H1626|‎גֵּרָה‎]]</big>**; a grain</small>
 
 $\quad$ Gera.
 - § Gera = *"a grain"*

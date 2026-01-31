@@ -7,25 +7,25 @@ Defile not ye yourselves in any of these things: for in all these the nations ar
 Do not defile yourselves by any of these practices, for by all these things the nations I am driving out before you have defiled themselves.<small><sub>**MT:**</sub></small>
 [[Lev.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.23|<< Leviticus 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.25|Leviticus 18:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| defile \[yourselves\] | <big><span class="asgreek">μιαίνεσθε</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| any | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of these; | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| were defiled | <big><span class="asgreek">εμιάνθησαν</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| eject | <big><span class="asgreek">εξαποστελλώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| defile \[yourselves\] | **<big>[[G3392\|μιαίνεσθε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| any | **<big>[[G3956\|πάσι]]</big>** |
+| of these; | **<big>[[G3778\|τούτοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| these | **<big>[[G3778\|τούτοις]]</big>** |
+| were defiled | **<big>[[G3392\|εμιάνθησαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| eject | **<big>[[G1821\|εξαποστελλώ]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.23|<< Leviticus 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.25|Leviticus 18:25 >>]]</td></tr></table>
 
 

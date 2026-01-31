@@ -11,33 +11,33 @@ By oppression and judgment He was taken away, and who can recount His descendant
 > $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| humiliation, | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5014]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his equity, | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was lifted away. | <big><span class="asgreek">ήρθη</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall describe | <big><span class="asgreek">διηγήσεται</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was lifted away | <big><span class="asgreek">αίρεται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds | <big><span class="asgreek">ανομιών</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was led | <big><span class="asgreek">ήχθη</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death. | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| humiliation, | **<big>[[G5014\|ταπεινώσει]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| his equity, | **<big>[[G2920\|κρίσις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he was lifted away. | **<big>[[G0142\|ήρθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his generation | **<big>[[G1074\|γενεάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| shall describe | **<big>[[G1334\|διηγήσεται]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| was lifted away | **<big>[[G0142\|αίρεται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his life | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| lawless deeds | **<big>[[G0458\|ανομιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he was led | **<big>[[G0071\|ήχθη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| death. | **<big>[[G2288\|θάνατον]]</big>** |
 [[Isa.53.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.7|<< Isaiah 53:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.9|Isaiah 53:9 >>]]</td></tr></table>
 
 

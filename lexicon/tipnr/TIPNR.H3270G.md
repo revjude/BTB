@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Jazer</span>, a town in Gilead, allotted to Gad, known for its fertile land and vineyards.
 - A location first mentioned at [[Num.21.32|Num.21.32]]; 
-- only referred to as Jazer<[[H3270G]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Jazer **<big>[[H3270|יַעֲזֵיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.94352951689796,35.72776961157128&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Jazer was a town located in the region of Gilead, east of the Jordan River. It w
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jazer | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H3270G) <small>*Hebrew*</small> | 12x | [[Num.21.32] ... [Jer.48.32a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jazer\*\|reference=Num.21.32;Num.32.1;Num.32.3;Num.32.35;Jos.13.25;Jos.21.39;2Sa.24.5;1Ch.6.81;1Ch.26.31;Isa.16.8;Isa.16.9;Jer.48.32) |
-All Strong's for **Jazer**: \[[[H3270G]]\]
+| Jazer | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H3270G) | 12x | [[Num.21.32] ... [Jer.48.32a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jazer\*\|reference=Num.21.32;Num.32.1;Num.32.3;Num.32.35;Jos.13.25;Jos.21.39;2Sa.24.5;1Ch.6.81;1Ch.26.31;Isa.16.8;Isa.16.9;Jer.48.32) |
+All entries for **Jazer**:  **<big>[[H3270|יַעֲזֵיר]]</big>**

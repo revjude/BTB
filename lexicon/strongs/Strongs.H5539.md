@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָלַד‎</span></big> **çâlad** <small>*(saw-lad')*</small> ==**to rejoice**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָלַד‎</span></big>** **çâlad** <small>*(saw-lad')*</small> ==**to rejoice**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ harden self.

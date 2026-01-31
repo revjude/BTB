@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹשָׁב‎</span></big> **môwshâb** <small>*(mo-shawb')*</small> ==**seat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מֹשָׁב</span> **môshâb** <small>*(mo-shawb')*</small>; from <span class="ashebrew">‎יָשַׁב‎</span><sup><small>[[H3427]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹשָׁב‎</span></big>** **môwshâb** <small>*(mo-shawb')*</small> ==**seat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מֹשָׁב</span></big>** **môshâb** <small>*(mo-shawb')*</small>; from **<big>[[H3427|‎יָשַׁב‎]]</big>**</small>
 
 $\quad$ assembly, dwell in, dwelling(-place), wherein (that) dwelt (in), inhabited place, seat, sitting, situation, sojourning.
 - ***a seat***
@@ -15,4 +15,4 @@ $\quad$ **1c)** situation, location
 $\quad$ **1d)** time of dwelling
 $\quad$ **1e)** those dwelling, dweller
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καθέδρα</span><sup><small>[[G2515]]</small></sup> · <span class="asgreek">κατάσχεσις</span><sup><small>[[G2697]]</small></sup> · <span class="asgreek">κατοίκησις</span><sup><small>[[G2731]]</small></sup> · <span class="asgreek">κατοικητήριον</span><sup><small>[[G2732]]</small></sup> · <span class="asgreek">κατοικία</span><sup><small>[[G2733]]</small></sup>
+<small>See Greek: </small>**<big>[[G2515|καθέδρα]]</big>** · **<big>[[G2697|κατάσχεσις]]</big>** · **<big>[[G2731|κατοίκησις]]</big>** · **<big>[[G2732|κατοικητήριον]]</big>** · **<big>[[G2733|κατοικία]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּבְעֵרָה‎</span></big> **Tabʻêrâh** <small>*(tab-ay-raw')*</small> ==**Taberah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּעַר‎</span><sup><small>[[H1197]]</small></sup>; burning</small>
+**<big><span class="ashebrew">‎תַּבְעֵרָה‎</span></big>** **Tabʻêrâh** <small>*(tab-ay-raw')*</small> ==**Taberah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1197|‎בָּעַר‎]]</big>**; burning</small>
 
 $\quad$ Taberah.
 - § Taberah = *"burning"*

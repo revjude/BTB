@@ -10,46 +10,46 @@ And I arose in the night, I and some few men with me; neither told I [any] man w
 I set out at night with a few men. I did not tell anyone what my God had laid on my heart to do for Jerusalem. The only animal with me was the one on which I was riding.<small><sub>**MT:**</sub></small>
 [[Neh.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.11|<< Nehemiah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.13|Nehemiah 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I rose up | <big><span class="asgreek">ανέστην</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| at night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a few | <big><span class="asgreek">ολίγοι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">απήγγειλα</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to a man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| put it | <big><span class="asgreek">δίδωσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do \[this\] | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| except | <big><span class="asgreek">ειμή</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beast | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mounted | <big><span class="asgreek">επιβαίνω</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I rose up | **<big>[[G0450\|ανέστην]]</big>** |
+| at night, | **<big>[[G3571\|νυκτός]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| a few | **<big>[[G3641\|ολίγοι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0518\|απήγγειλα]]</big>** |
+| to a man, | **<big>[[G0444\|ανθρώπω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| put it | **<big>[[G1325\|δίδωσι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| my heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do \[this\] | **<big>[[G4160\|ποιήσαι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| beast | **<big>[[G2934\|κτήνος]]</big>** |
+| no | **<big>[[G3756\|ουκ]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| except | **<big>[[G1508\|ειμή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| beast | **<big>[[G2934\|κτήνος]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| mounted | **<big>[[G1910\|επιβαίνω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Neh.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.11|<< Nehemiah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.13|Nehemiah 2:13 >>]]</td></tr></table>
 
 

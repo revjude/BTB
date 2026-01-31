@@ -7,27 +7,27 @@ And Saul gathered the people together, and numbered them in Telaim, two hundred 
 So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.<small><sub>**MT:**</sub></small>
 [[1Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.3|<< 1 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.5|1 Samuel 15:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul gave exhortation | <big><span class="asgreek">παρήγγειλε</span></big> <sup><small><small>[[G3853]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he numbered | <big><span class="asgreek">επισκέπτεται</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilgal -- | <big><span class="asgreek">Γαλγάλοις</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίας</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| of \[the\] ranks, | <big><span class="asgreek">ταγμάτων</span></big> <sup><small><small>[[G5001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul gave exhortation | **<big>[[G3853\|παρήγγειλε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people. | **<big>[[G2992\|λαώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he numbered | **<big>[[G1980\|επισκέπτεται]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gilgal -- | **<big>[[H1537\|Γαλγάλοις]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίας]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| of \[the\] ranks, | **<big>[[G5001\|ταγμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
 [[1Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.3|<< 1 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.5|1 Samuel 15:5 >>]]</td></tr></table>
 
 

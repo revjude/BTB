@@ -6,14 +6,14 @@ In old age they will still bear fruit; healthy and green they will remain,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.13|<< Psalms 92:13]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.15|Psalms 92:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| still  | <span class="ashebrew"><big>ע֭וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will bear fruit !  | <span class="ashebrew"><big>יְנוּב֣וּ </big></span><small><small><sup>[[H5107]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ye.nu.Vu <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in old age  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׂיבָ֑ה </big></span><small><small><sup>[[H7872]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> sei.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fat  | <span class="ashebrew"><big>דְּשֵׁנִ֖ים </big></span><small><small><sup>[[H1879]]</sup></small></small> &#8207;| de.she.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fresh  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רַֽעֲנַנִּ֣ים </big></span><small><small><sup>[[H7488B]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.'a.na.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְיֽוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֭וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bear fruit !  |**<big>&#8207;[[H5107\|יְנוּב֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.nu.Vu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in old age  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7872\|שֵׂיבָ֑ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sei.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fat  |**<big>&#8207;[[H1879\|דְּשֵׁנִ֖ים]]&#8207; </big>**| de.she.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fresh  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7488B\|רַֽעֲנַנִּ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.'a.na.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְיֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.13|<< Psalms 92:13]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.15|Psalms 92:15 >>]]</td></tr></table>
 
 

@@ -6,24 +6,24 @@ And on that day I will surely hide My face because of all the evil they have don
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.17|<< Deuteronomy 31:17]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.19|Deuteronomy 31:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָנֹכִ֗י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to hide>  | <span class="ashebrew"><big>הַסְתֵּ֨ר </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| has.Ter <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will hide  | <span class="ashebrew"><big>אַסְתִּ֤יר </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| 'as.Tir <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face my  | <span class="ashebrew"><big>פָּנַ </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| pa.Na <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the day  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יּ֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> that  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַ֥ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the evil  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רָעָ֖ה </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has done  | <span class="ashebrew"><big>עָשָׂ֑ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has turned  | <span class="ashebrew"><big>פָנָ֔ה </big></span><small><small><sup>[[H6437G]]</sup></small></small> &#8207;| fa.Nah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430J]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| other  | <span class="ashebrew"><big>אֲחֵרִֽים </big></span><small><small><sup>[[H0312]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.che.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to hide>  |**<big>&#8207;[[H5641\|הַסְתֵּ֨ר]]&#8207; </big>**| has.Ter<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will hide  |**<big>&#8207;[[H5641\|אַסְתִּ֤יר]]&#8207; </big>**| 'as.Tir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָּנַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451I\|רָעָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has done  |**<big>&#8207;[[H6213A\|עָשָׂ֑ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has turned  |**<big>&#8207;[[H6437G\|פָנָ֔ה]]&#8207; </big>**| fa.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  |**<big>&#8207;[[H0312\|אֲחֵרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.17|<< Deuteronomy 31:17]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.19|Deuteronomy 31:19 >>]]</td></tr></table>
 
 

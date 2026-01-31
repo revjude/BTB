@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shechem</span> was a prominent city in Canaan, later allotted to the tribe of Ephraim, and the site of important events in Israel's history \(Gen. 12:6; 33:18-20; Josh. 20:7; 24:1, 25-26; Judg. 9; 1 Ki. 12:1, 25; Ps. 60:6; 108:7; Acts 7:16\).
 - A location first mentioned at [[Gen.12.6|Gen.12.6]]; 
-- referred to as Shechem<[[H7927G]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֶ<span class='tipnrLangHebrew'>ם</span>\), or Shechem<[[G4966]]> \(<span class='tipnrLangGreek'>Συχέμ</span>\).
+- referred to as Shechem **<big>[[H7927|שְׁכֶם]]</big>**, or Shechem **<big>[[G4966|Συχέμ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.21369123124062,35.2817986718367&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,6 +20,6 @@ Shechem's location at the crossroads of major trade routes contributed to its st
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shechem | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H7927G) <small>*Hebrew*</small> | 51x | [[Gen.12.6] ... [Hos.6.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shechem\*\|reference=Gen.12.6;Gen.33.18;Gen.35.4;Gen.37.12;Gen.37.13;Gen.37.14;Jos.17.7;Jos.20.7;Jos.21.21;Jos.24.1;Jos.24.25;Jos.24.32;Jos.24.32;Jdg.8.31;Jdg.9.1;Jdg.9.2;Jdg.9.3;Jdg.9.6;Jdg.9.6;Jdg.9.7;Jdg.9.18;Jdg.9.20;Jdg.9.20;Jdg.9.23;Jdg.9.23;Jdg.9.24;Jdg.9.25;Jdg.9.26;Jdg.9.26;Jdg.9.28;Jdg.9.28;Jdg.9.31;Jdg.9.34;Jdg.9.39;Jdg.9.41;Jdg.9.46;Jdg.9.47;Jdg.9.49;Jdg.9.57;Jdg.21.19) |
-| Shechem | [<span class='tipnrLangGreek'>Συχέμ</span>](G4966) <small>*Greek*</small> | 2x | [[Act.7.16a] & [Act.7.16b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shechem\*\|reference=Act.7.16;Act.7.16) |
-All Strong's for **Shechem**: \[[[H7927G]]\] \[[[G4966]]\]
+| Shechem | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H7927G) | 51x | [[Gen.12.6] ... [Hos.6.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shechem\*\|reference=Gen.12.6;Gen.33.18;Gen.35.4;Gen.37.12;Gen.37.13;Gen.37.14;Jos.17.7;Jos.20.7;Jos.21.21;Jos.24.1;Jos.24.25;Jos.24.32;Jos.24.32;Jdg.8.31;Jdg.9.1;Jdg.9.2;Jdg.9.3;Jdg.9.6;Jdg.9.6;Jdg.9.7;Jdg.9.18;Jdg.9.20;Jdg.9.20;Jdg.9.23;Jdg.9.23;Jdg.9.24;Jdg.9.25;Jdg.9.26;Jdg.9.26;Jdg.9.28;Jdg.9.28;Jdg.9.31;Jdg.9.34;Jdg.9.39;Jdg.9.41;Jdg.9.46;Jdg.9.47;Jdg.9.49;Jdg.9.57;Jdg.21.19) |
+| Shechem | [<span class='tipnrLangGreek'>Συχέμ</span>](G4966) | 2x | [[Act.7.16a] & [Act.7.16b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shechem\*\|reference=Act.7.16;Act.7.16) |
+All entries for **Shechem**:  **<big>[[H7927|שְׁכֶם]]</big>** ☩  **<big>[[G4966|Συχέμ]]</big>**

@@ -7,16 +7,16 @@ He divideth the sea with his power, and by his understanding he smiteth through 
 By His power He stirred the sea; by His understanding He shattered Rahab.<small><sub>**MT:**</sub></small>
 [[Job.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.11|<< Job 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.13|Job 26:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| he rested | <big><span class="asgreek">κατέπαυσε</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and by higher knowledge | <big><span class="asgreek">επιστήμη</span></big> <sup><small><small>[[G7454]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he spread forth | <big><span class="asgreek">έστρωσε</span></big> <sup><small><small>[[G4766]]</small></small></sup> |
-| for the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whale. | <big><span class="asgreek">κήτος</span></big> <sup><small><small>[[G2785]]</small></small></sup> |
+| By strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| he rested | **<big>[[G2664\|κατέπαυσε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and by higher knowledge | **<big>[[G7454\|επιστήμη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he spread forth | **<big>[[G4766\|έστρωσε]]</big>** |
+| for the | **<big>[[G3588\|το]]</big>** |
+| whale. | **<big>[[G2785\|κήτος]]</big>** |
 [[Job.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.11|<< Job 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.13|Job 26:13 >>]]</td></tr></table>
 
 

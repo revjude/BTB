@@ -7,49 +7,49 @@ He [was] a widow’s son of the tribe of Naphtali, and his father [was] a man of
 He was the son of a widow from the tribe of Naphtali, and his father was a man of Tyre, a craftsman in bronze. Huram had great skill, understanding, and knowledge for every kind of bronze work. So he came to King Solomon and carried out all his work.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.13|<< 1 Kings 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.15|1 Kings 7:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of a widow | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one \[was\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Naphtali, | <big><span class="asgreek">Νεφθαλίμ</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] a Tyrian man, | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">Τύριος</span></big> <sup><small><small>[[G5183]]</small></small></sup> |
-| a fabricator | <big><span class="asgreek">τέκτων</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of brass, | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being accomplished | <big><span class="asgreek">πεπληρωμένος</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| craft, | <big><span class="asgreek">τέχνης</span></big> <sup><small><small>[[G5078]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of understanding, | <big><span class="asgreek">συνέσεως</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full of knowledge | <big><span class="asgreek">επιγνώσεως</span></big> <sup><small><small>[[G1922]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| brass. | <big><span class="asgreek">χαλκώ</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was brought | <big><span class="asgreek">εισήχθη</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon, | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work. | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| \[the\] son | **<big>[[G5207\|υιόν]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| of a widow | **<big>[[G5503\|χήρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one \[was\] | **<big>[[G3778\|ούτος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Naphtali, | **<big>[[G3508\|Νεφθαλίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] a Tyrian man, | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G5183\|Τύριος]]</big>** |
+| a fabricator | **<big>[[G5045\|τέκτων]]</big>** |
+| of brass, | **<big>[[G5475\|χαλκού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being accomplished | **<big>[[G4137\|πεπληρωμένος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| craft, | **<big>[[G5078\|τέχνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of understanding, | **<big>[[G4907\|συνέσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full of knowledge | **<big>[[G1922\|επιγνώσεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \[the\] work | **<big>[[G2041\|έργον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| brass. | **<big>[[G5475\|χαλκώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he was brought | **<big>[[G1521\|εισήχθη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| Solomon, | **<big>[[G4672\|Σολομώντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| work. | **<big>[[G2041\|έργον]]</big>** |
 [[1Kgs.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.13|<< 1 Kings 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.15|1 Kings 7:15 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ In his hand [are] the deep places of the earth: the strength of the hills [is] h
 In His hand are the depths of the earth, and the mountain peaks belong to Him.<small><sub>**MT:**</sub></small>
 [[Ps.95.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ends | <big><span class="asgreek">πέρατα</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heights | <big><span class="asgreek">ύψη</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| are his. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] the | **<big>[[G3588\|τα]]</big>** |
+| ends | **<big>[[G4009\|πέρατα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| heights | **<big>[[G5311\|ύψη]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mountains | **<big>[[G3735\|ορέων]]</big>** |
+| are his. | **<big>[[G1473\|αυτού]]</big>** **<big>[[G1510\|εισιν]]</big>** |
 [[Ps.95.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
 
 

@@ -7,45 +7,45 @@ And it was so, when the king saw Esther the queen standing in the court, [that] 
 As soon as the king saw Queen Esther standing in the court, she found favor in his sight. The king extended the gold scepter in his hand toward Esther, and she approached and touched the tip of the scepter.<small><sub>**MT:**</sub></small>
 [[Esth.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.1|<< Esther 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.3|Esther 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Esther | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen | <big><span class="asgreek">βασίλισσαν</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| standing | <big><span class="asgreek">ισταμένην</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard, | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| that she found | <big><span class="asgreek">εύρε</span></big> <sup><small><small>[[G2147]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his eyes; | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stretching out | <big><span class="asgreek">εκτείνας</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Esther | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| golden | <big><span class="asgreek">χρυσήν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Esther approached | <big><span class="asgreek">προσήλθεν</span></big> <sup><small><small>[[G4334]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tip | <big><span class="asgreek">άκρας</span></big> <sup><small><small>[[G6202]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod. | <big><span class="asgreek">ράβδου</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| And as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| saw | **<big>[[G1492\|είδεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Esther | **<big>[[H0635\|Εσθήρ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| queen | **<big>[[G0938\|βασίλισσαν]]</big>** |
+| standing | **<big>[[G2476\|ισταμένην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard, | **<big>[[G0833\|αυλή]]</big>** |
+| that she found | **<big>[[G2147\|εύρε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his eyes; | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stretching out | **<big>[[G1614\|εκτείνας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Esther | **<big>[[H0635\|Εσθήρ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rod | **<big>[[G4464\|ράβδον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| golden | **<big>[[G5522\|χρυσήν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| Esther approached | **<big>[[G4334\|προσήλθεν]]</big>** **<big>[[G3588\|η]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| touched | **<big>[[G0680\|ήψατο]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tip | **<big>[[G6202\|άκρας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| rod. | **<big>[[G4464\|ράβδου]]</big>** |
 [[Esth.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.1|<< Esther 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.3|Esther 5:3 >>]]</td></tr></table>
 
 

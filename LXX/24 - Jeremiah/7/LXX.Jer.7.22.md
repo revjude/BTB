@@ -7,28 +7,28 @@ For I spake not unto your fathers, nor commanded them in the day that I brought 
 For when I brought your fathers out of the land of Egypt, I did not merely command them about burnt offerings and sacrifices,<small><sub>**MT:**</sub></small>
 [[Jer.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.21|<< Jeremiah 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.23|Jeremiah 7:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I spoke not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers, | <big><span class="asgreek">πατέρας</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| I led | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτωμάτων</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrifices. | <big><span class="asgreek">θυσιών</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I spoke not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2980\|ελάλησα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your fathers, | **<big>[[G3962\|πατέρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| give charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| I led | **<big>[[G0321\|ανήγαγον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτωμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrifices. | **<big>[[G2378\|θυσιών]]</big>** |
 [[Jer.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.21|<< Jeremiah 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.23|Jeremiah 7:23 >>]]</td></tr></table>
 
 

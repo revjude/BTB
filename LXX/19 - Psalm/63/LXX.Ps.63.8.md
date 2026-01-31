@@ -7,18 +7,18 @@ My soul followeth hard after thee: thy right hand upholdeth me.
 My soul clings to You; Your right hand upholds me.<small><sub>**MT:**</sub></small>
 [[Ps.63.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.7|<< Psalm 63:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.9|Psalm 63:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall cleave | <big><span class="asgreek">εκολλήθη</span></big> <sup><small><small>[[G2853]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| took hold | <big><span class="asgreek">αντελάβετο</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your right \[hand\] | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall cleave | **<big>[[G2853\|εκολλήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| of me | **<big>[[G1473\|εμού]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| took hold | **<big>[[G0482\|αντελάβετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your right \[hand\] | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.63.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.7|<< Psalm 63:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.9|Psalm 63:9 >>]]</td></tr></table>
 
 

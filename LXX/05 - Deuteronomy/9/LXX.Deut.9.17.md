@@ -7,25 +7,25 @@ And I took the two tables, and cast them out of my two hands, and brake them bef
 So I took the two tablets and threw them out of my hands, shattering them before your eyes.<small><sub>**MT:**</sub></small>
 [[Deut.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking hold of | <big><span class="asgreek">επιλαβόμενος</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets, | <big><span class="asgreek">πλακών</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| I tossed | <big><span class="asgreek">έρριψα</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I broke | <big><span class="asgreek">συνέτριψα</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| taking hold of | **<big>[[G1949\|επιλαβόμενος]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets, | **<big>[[G4109\|πλακών]]</big>** |
+| I tossed | **<big>[[G4496\|έρριψα]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| hands | **<big>[[G5495\|χειρών]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I broke | **<big>[[G4937\|συνέτριψα]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Deut.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
 
 

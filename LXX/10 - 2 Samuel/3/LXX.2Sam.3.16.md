@@ -7,31 +7,31 @@ And her husband went with her along weeping behind her to Bahurim. Then said Abn
 Her husband followed her, weeping all the way to Bahurim. Then Abner said to him, “Go back.” So he returned home.<small><sub>**MT:**</sub></small>
 [[2Sam.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.15|<< 2 Samuel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.17|2 Samuel 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενος</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαίων</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Behurim. | <big><span class="asgreek">Βαχουρίμ</span></big> <sup><small><small>[[H0980]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| return! | <big><span class="asgreek">ανάστρεφε</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned. | <big><span class="asgreek">ανέστρεψε</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| husband | **<big>[[G0435\|ανήρ]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| going | **<big>[[G4198\|πορευόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weeping | **<big>[[G2799\|κλαίων]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Behurim. | **<big>[[H0980\|Βαχουρίμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| Go | **<big>[[G4198\|πορεύου]]</big>** |
+| return! | **<big>[[G0390\|ανάστρεφε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he returned. | **<big>[[G0390\|ανέστρεψε]]</big>** |
 [[2Sam.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.15|<< 2 Samuel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.17|2 Samuel 3:17 >>]]</td></tr></table>
 
 

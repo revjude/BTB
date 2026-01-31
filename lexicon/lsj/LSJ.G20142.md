@@ -1,4 +1,4 @@
-form of: <small>[[G6537]]</small> 
+form of: <small>**<big>[[G6537|ἀροτρίασις]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἀροτριασμός==</span>-<span class='asgreek'>ιασμός</span></b>, <span class='asgreek'>ὁ</span>, 

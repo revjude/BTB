@@ -11,26 +11,26 @@ I, the LORD, search the heart; I examine the mind to reward a man according to h
 > $\quad$ referenced by: [[Rev.2.23|Rev 2:23]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| am examining | <big><span class="asgreek">ετάζων</span></big> <sup><small><small>[[G7521]]</small></small></sup> |
-| hearts, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| trying | <big><span class="asgreek">δοκιμάζων</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| kidneys, | <big><span class="asgreek">νεφρούς</span></big> <sup><small><small>[[G3510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπούς</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their practices. | <big><span class="asgreek">επιτηδευμάτων</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| am examining | **<big>[[G7521\|ετάζων]]</big>** |
+| hearts, | **<big>[[G2588\|καρδίας]]</big>** |
+| trying | **<big>[[G1381\|δοκιμάζων]]</big>** |
+| kidneys, | **<big>[[G3510\|νεφρούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| to each | **<big>[[G1538\|εκάστω]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| fruits | **<big>[[G2590\|καρπούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their practices. | **<big>[[G7461\|επιτηδευμάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.9|<< Jeremiah 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.11|Jeremiah 17:11 >>]]</td></tr></table>
 
 

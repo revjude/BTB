@@ -7,34 +7,34 @@ For the Canaanites and all the inhabitants of the land shall hear [of it], and s
 When the Canaanites and all who live in the land hear about this, they will surround us and wipe out our name from the earth. Then what will You do for Your great name?”<small><sub>**MT:**</sub></small>
 [[Josh.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.8|<< Joshua 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.10|Joshua 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearing, | <big><span class="asgreek">ακούσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χαναναίος</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| shall surround | <big><span class="asgreek">περικυκλώσουσιν</span></big> <sup><small><small>[[G4033]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall obliterate | <big><span class="asgreek">εκτρίψουσιν</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| for your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| hearing, | **<big>[[G0191\|ακούσας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Canaanite | **<big>[[G5477\|Χαναναίος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| shall surround | **<big>[[G4033\|περικυκλώσουσιν]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall obliterate | **<big>[[G7160\|εκτρίψουσιν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| will you do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομά]]</big>** |
+| for your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
 [[Josh.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.8|<< Joshua 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.10|Joshua 7:10 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָקַב‎</span></big> **râqab** <small>*(raw-kab')*</small> ==**to rot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָקַב‎</span></big>** **râqab** <small>*(raw-kab')*</small> ==**to rot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ rot.

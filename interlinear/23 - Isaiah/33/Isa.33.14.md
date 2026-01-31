@@ -6,24 +6,24 @@ The sinners in Zion are afraid; trembling grips the ungodly: “Who of us can dw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.13|<< Isaiah 33:13]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.15|Isaiah 33:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they are in dread  | <span class="ashebrew"><big>פָּחֲד֤וּ </big></span><small><small><sup>[[H6342]]</sup></small></small> &#8207;| pa.cha.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Zion  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צִיּוֹן֙ </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> tzi.yOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sinners  | <span class="ashebrew"><big>חַטָּאִ֔ים </big></span><small><small><sup>[[H2400]]</sup></small></small> &#8207;| cha.ta.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has seized  | <span class="ashebrew"><big>אָחֲזָ֥ה </big></span><small><small><sup>[[H0270]]</sup></small></small> &#8207;| 'a.cha.Zah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trembling  | <span class="ashebrew"><big>רְעָדָ֖ה </big></span><small><small><sup>[[H7461B]]</sup></small></small> &#8207;| re.'a.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| godless [people]  | <span class="ashebrew"><big>חֲנֵפִ֑ים </big></span><small><small><sup>[[H2611]]</sup></small></small> &#8207;| cha.ne.Fim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he sojourn  | <span class="ashebrew"><big>יָג֣וּר </big></span><small><small><sup>[[H1481A]]</sup></small></small> &#8207;| ya.Gur <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of us  | <span class="ashebrew"><big>לָ֗ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵ֚שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| consuming  | <span class="ashebrew"><big>אוֹכֵלָ֔ה </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'o.khe.Lah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he sojourn  | <span class="ashebrew"><big>יָג֥וּר </big></span><small><small><sup>[[H1481A]]</sup></small></small> &#8207;| ya.Gur <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of us  | <span class="ashebrew"><big>לָ֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hearths of  | <span class="ashebrew"><big>מוֹקְדֵ֥י </big></span><small><small><sup>[[H4168]]</sup></small></small> &#8207;| mok.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם </big></span><small><small><sup>[[H5769G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are in dread  |**<big>&#8207;[[H6342\|פָּחֲד֤וּ]]&#8207; </big>**| pa.cha.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zion  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sinners  |**<big>&#8207;[[H2400\|חַטָּאִ֔ים]]&#8207; </big>**| cha.ta.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has seized  |**<big>&#8207;[[H0270\|אָחֲזָ֥ה]]&#8207; </big>**| 'a.cha.Zah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trembling  |**<big>&#8207;[[H7461B\|רְעָדָ֖ה]]&#8207; </big>**| re.'a.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| godless [people]  |**<big>&#8207;[[H2611\|חֲנֵפִ֑ים]]&#8207; </big>**| cha.ne.Fim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he sojourn  |**<big>&#8207;[[H1481A\|יָג֣וּר]]&#8207; </big>**| ya.Gur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of us  |**<big>&#8207;[[H9005\|לָ֗]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵ֚שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consuming  |**<big>&#8207;[[H0398\|אוֹכֵלָ֔ה]]&#8207; </big>**| 'o.khe.Lah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he sojourn  |**<big>&#8207;[[H1481A\|יָג֥וּר]]&#8207; </big>**| ya.Gur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of us  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hearths of  |**<big>&#8207;[[H4168\|מוֹקְדֵ֥י]]&#8207; </big>**| mok.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.13|<< Isaiah 33:13]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.15|Isaiah 33:15 >>]]</td></tr></table>
 
 

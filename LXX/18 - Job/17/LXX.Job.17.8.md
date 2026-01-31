@@ -7,18 +7,18 @@ Upright [men] shall be astonied at this, and the innocent shall stir up himself 
 The upright are appalled at this, and the innocent are stirred against the godless.<small><sub>**MT:**</sub></small>
 [[Job.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.7|<< Job 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.9|Job 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Wonder | <big><span class="asgreek">θαύμα</span></big> <sup><small><small>[[G2295]]</small></small></sup> |
-| held | <big><span class="asgreek">έσχεν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| true men | <big><span class="asgreek">αληθινούς</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| these \[things\]; | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] lawbreaker | <big><span class="asgreek">παρανόμω</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
-| rise up | <big><span class="asgreek">επανασταίη</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
+| Wonder | **<big>[[G2295\|θαύμα]]</big>** |
+| held | **<big>[[G2192\|έσχεν]]</big>** |
+| true men | **<big>[[G0228\|αληθινούς]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| these \[things\]; | **<big>[[G3778\|τούτοις]]</big>** |
+| \[the\] just | **<big>[[G1342\|δίκαιος]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] lawbreaker | **<big>[[G8627\|παρανόμω]]</big>** |
+| rise up | **<big>[[G1881\|επανασταίη]]</big>** |
 [[Job.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.7|<< Job 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.9|Job 17:9 >>]]</td></tr></table>
 
 

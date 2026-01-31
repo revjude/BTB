@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֹכֶל‎</span></big> **ʼôkel** <small>*(o'-kel)*</small> ==**food**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָכַל‎</span><sup><small>[[H0398]]</small></sup></small>
+**<big><span class="ashebrew">‎אֹכֶל‎</span></big>** **ʼôkel** <small>*(o'-kel)*</small> ==**food**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0398|‎אָכַל‎]]</big>**</small>
 
 $\quad$ eating, food, meal(-time), meat, prey, victuals.
 - ***food***
@@ -10,4 +10,4 @@ $\quad$ **1b)** meat
 **2)** food supply
 **3)** meal, dinner
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βρῶμα</span><sup><small>[[G1033]]</small></sup> · <span class="asgreek">σῖτος</span><sup><small>[[G4621]]</small></sup> · <span class="asgreek">τροφή</span><sup><small>[[G5160]]</small></sup>
+<small>See Greek: </small>**<big>[[G1033|βρῶμα]]</big>** · **<big>[[G4621|σῖτος]]</big>** · **<big>[[G5160|τροφή]]</big>**

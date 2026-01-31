@@ -7,34 +7,34 @@ And the spies saw a man come forth out of the city, and they said unto him, Shew
 and when the spies saw a man coming out of the city, they said to him, “Please show us how to get into the city, and we will treat you kindly.”<small><sub>**MT:**</sub></small>
 [[Judg.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.23|<< Judges 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.25|Judges 1:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones keeping guard | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Show | <big><span class="asgreek">δείξον</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrance | <big><span class="asgreek">είσοδον</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will deal | <big><span class="asgreek">ποιήσομεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mercifully | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones keeping guard | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Show | **<big>[[G1166\|δείξον]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| entrance | **<big>[[G1529\|είσοδον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will deal | **<big>[[G4160\|ποιήσομεν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| mercifully | **<big>[[G1656\|έλεος]]</big>** |
 [[Judg.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.23|<< Judges 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.25|Judges 1:25 >>]]</td></tr></table>
 
 

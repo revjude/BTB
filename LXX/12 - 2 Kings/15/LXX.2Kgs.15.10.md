@@ -10,27 +10,27 @@ And Shallum the son of Jabesh conspired against him, and smote him before the pe
 Then Shallum son of Jabesh conspired against Zechariah, struck him down and killed him in front of the people, and reigned in his place.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.9|<< 2 Kings 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.11|2 Kings 15:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| confederated | <big><span class="asgreek">συνεστράφη</span></big> <sup><small><small>[[G4962]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shallum | <big><span class="asgreek">Σαλούμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jabesh | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Keblaam, | <big><span class="asgreek">Κεβλαάμ</span></big> <sup><small><small>[[H2991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| killed | <big><span class="asgreek">εθανάτωσαν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| confederated | **<big>[[G4962\|συνεστράφη]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Shallum | **<big>[[H7968\|Σαλούμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jabesh | **<big>[[H3003\|Ιαβής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Keblaam, | **<big>[[H2991\|Κεβλαάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| killed | **<big>[[G2289\|εθανάτωσαν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.9|<< 2 Kings 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.11|2 Kings 15:11 >>]]</td></tr></table>
 
 

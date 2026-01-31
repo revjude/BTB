@@ -7,44 +7,44 @@ And thou, son of man, be not afraid of them, neither be afraid of their words, t
 But you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns surround you, and you dwell among scorpions. Do not be afraid of their words or dismayed by their presence, though they are a rebellious house.<small><sub>**MT:**</sub></small>
 [[Ezek.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.5|<< Ezekiel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.7|Ezekiel 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be afraid | <big><span class="asgreek">φοβηθής</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| of them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| be startled | <big><span class="asgreek">εκστής</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they shall be heated, | <big><span class="asgreek">παροιστρήσουσι</span></big> <sup><small><small>[[G8658]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rise up together | <big><span class="asgreek">επισυστήσονται</span></big> <sup><small><small>[[G7458]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of scorpions | <big><span class="asgreek">σκορπίων</span></big> <sup><small><small>[[G4651]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικείς</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθής</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not be | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| startled, | <big><span class="asgreek">εκστής</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| it is a rebellious | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be afraid | **<big>[[G5399\|φοβηθής]]</big>** |
+| of them, | **<big>[[G1473\|αυτούς]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| be startled | **<big>[[G1839\|εκστής]]</big>** |
+| by | **<big>[[G0575\|από]]</big>** |
+| their face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| they shall be heated, | **<big>[[G8658\|παροιστρήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall rise up together | **<big>[[G7458\|επισυστήσονται]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of scorpions | **<big>[[G4651\|σκορπίων]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| dwell | **<big>[[G2730\|κατοικείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβηθής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| their face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you should not be | **<big>[[G3361\|μη]]</big>** |
+| startled, | **<big>[[G1839\|εκστής]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| it is a rebellious | **<big>[[G3893\|παραπικραίνων]]</big>** **<big>[[G1510\|εστί]]</big>** |
 [[Ezek.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.5|<< Ezekiel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.7|Ezekiel 2:7 >>]]</td></tr></table>
 
 

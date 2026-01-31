@@ -7,47 +7,47 @@ At the same time my reason returned unto me; and for the glory of my kingdom, mi
 At the same time my sanity was restored, my honor and splendor returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne, and surpassing greatness was added to me.<small><sub>**MT:**</sub></small>
 [[Dan.4.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.35|<< Daniel 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.37|Daniel 4:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| At the same | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my senses | <big><span class="asgreek">φρένες μου</span></big> <sup><small><small>[[G5424]]</small></small></sup> |
-| returned | <big><span class="asgreek">επεστράφησαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| honor | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my appearance | <big><span class="asgreek">μορφή</span></big> <sup><small><small>[[G3444]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| returned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sovereigns | <big><span class="asgreek">τύραννοί</span></big> <sup><small><small>[[G5181]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my great men | <big><span class="asgreek">μεγιστάνες</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sought | <big><span class="asgreek">εζήτουν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I was strengthened, | <big><span class="asgreek">εκραταιώθην</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| greatness | <big><span class="asgreek">μεγαλωσύνη</span></big> <sup><small><small>[[G3172]]</small></small></sup> |
-| more extra | <big><span class="asgreek">περισσοτέρα</span></big> <sup><small><small>[[G4053]]</small></small></sup> |
-| was added | <big><span class="asgreek">προσετέθη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| At the same | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| my senses | **<big>[[G5424\|φρένες μου]]</big>** |
+| returned | **<big>[[G1994\|επεστράφησαν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| honor | **<big>[[G5092\|τιμήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my kingdom | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my appearance | **<big>[[G3444\|μορφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| returned | **<big>[[G1994\|επέστρεψεν]]</big>** |
+| to | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my sovereigns | **<big>[[G5181\|τύραννοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my great men | **<big>[[G3175\|μεγιστάνες]]</big>** **<big>[[G1473\|μου]]</big>** |
+| sought | **<big>[[G2212\|εζήτουν]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my kingdom | **<big>[[G0932\|βασιλείαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I was strengthened, | **<big>[[G2901\|εκραταιώθην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| greatness | **<big>[[G3172\|μεγαλωσύνη]]</big>** |
+| more extra | **<big>[[G4053\|περισσοτέρα]]</big>** |
+| was added | **<big>[[G4369\|προσετέθη]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Dan.4.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.35|<< Daniel 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.37|Daniel 4:37 >>]]</td></tr></table>
 
 

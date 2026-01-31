@@ -7,25 +7,25 @@ The fig tree putteth forth her green figs, and the vines [with] the tender grape
 The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise, come away, my darling; come away with me, my beautiful one.”<small><sub>**MT:**</sub></small>
 [[Song.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.12|<< Song of Solomon 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.14|Song of Solomon 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fig-tree | <big><span class="asgreek">συκή</span></big> <sup><small><small>[[G4808]]</small></small></sup> |
-| brought forth | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| its immature figs; | <big><span class="asgreek">ολύνθους</span></big> <sup><small><small>[[G3653]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grapevines | <big><span class="asgreek">άμπελοι</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| blossom, | <big><span class="asgreek">κυπρίζουσιν</span></big> <sup><small><small>[[G8131]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a scent. | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| Rise up, | <big><span class="asgreek">ανάστα</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| come | <big><span class="asgreek">ελθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my dear one, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my fair one, | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my dove, | <big><span class="asgreek">περιστερά</span></big> <sup><small><small>[[G4058]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yes | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come! | <big><span class="asgreek">ελθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| the | **<big>[[G3588\|η]]</big>** |
+| fig-tree | **<big>[[G4808\|συκή]]</big>** |
+| brought forth | **<big>[[G1627\|εξήνεγκεν]]</big>** |
+| its immature figs; | **<big>[[G3653\|ολύνθους]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| grapevines | **<big>[[G0288\|άμπελοι]]</big>** |
+| blossom, | **<big>[[G8131\|κυπρίζουσιν]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| a scent. | **<big>[[G3744\|οσμήν]]</big>** |
+| Rise up, | **<big>[[G0450\|ανάστα]]</big>** |
+| come | **<big>[[G2064\|ελθέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my dear one, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my fair one, | **<big>[[G2570\|καλή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my dove, | **<big>[[G4058\|περιστερά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| yes | **<big>[[G2532\|και]]</big>** |
+| come! | **<big>[[G2064\|ελθέ]]</big>** |
 [[Song.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.12|<< Song of Solomon 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.14|Song of Solomon 2:14 >>]]</td></tr></table>
 
 

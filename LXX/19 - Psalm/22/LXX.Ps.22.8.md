@@ -11,18 +11,18 @@ He trusted on the LORD [that] he would deliver him: let him deliver him, seeing 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He hoped | <big><span class="asgreek">ήλπισεν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| let him rescue | <big><span class="asgreek">ρυσάσθω</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Let \[him\] deliver | <big><span class="asgreek">σωσάτω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he desired | <big><span class="asgreek">θέλει</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He hoped | **<big>[[G1679\|ήλπισεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| let him rescue | **<big>[[G4506\|ρυσάσθω]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| Let \[him\] deliver | **<big>[[G4982\|σωσάτω]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he desired | **<big>[[G2309\|θέλει]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.7|<< Psalm 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.9|Psalm 22:9 >>]]</td></tr></table>
 
 

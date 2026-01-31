@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּלַע‎</span></big> **gâlaʻ** <small>*(gaw-lah')*</small> ==**to quarrel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּלַע‎</span></big>** **gâlaʻ** <small>*(gaw-lah')*</small> ==**to quarrel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (inter-) meddle (with).

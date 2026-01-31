@@ -10,34 +10,34 @@ Sing unto the LORD a new song, [and] his praise from the end of the earth, ye th
 Sing to the LORD a new song—His praise from the ends of the earth—you who go down to the sea, and all that is in it, you islands, and all who dwell in them.<small><sub>**MT:**</sub></small>
 [[Isa.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.9|<< Isaiah 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.11|Isaiah 42:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sing | <big><span class="asgreek">υμνήσατε</span></big> <sup><small><small>[[G5214]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| hymn | <big><span class="asgreek">ύμνον</span></big> <sup><small><small>[[G5215]]</small></small></sup> |
-| a new | <big><span class="asgreek">καινόν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| Glorify | <big><span class="asgreek">δοξάζετε</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] uttermost part | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνοντες</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sailing | <big><span class="asgreek">πλέοντες</span></big> <sup><small><small>[[G4126]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| islands, | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling in | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Sing | **<big>[[G5214\|υμνήσατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| hymn | **<big>[[G5215\|ύμνον]]</big>** |
+| a new | **<big>[[G2537\|καινόν]]</big>** |
+| Glorify | **<big>[[G1392\|δοξάζετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] uttermost part | **<big>[[G6208\|άκρου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνοντες]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sailing | **<big>[[G4126\|πλέοντες]]</big>** |
+| it; | **<big>[[G1473\|αυτήν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| islands, | **<big>[[G3520\|νήσοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling in | **<big>[[G2730\|κατοικούντες]]</big>** |
+| them. | **<big>[[G1473\|αυτάς]]</big>** |
 [[Isa.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.9|<< Isaiah 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.11|Isaiah 42:11 >>]]</td></tr></table>
 
 

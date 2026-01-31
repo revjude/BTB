@@ -4,9 +4,9 @@ Levite living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ibri</span> was a Levite of the family of Merari, mentioned in the context of the divisions of the Levitical priests during the reign of King David.
 - A man from the tribe of Levi living at the time of Divided Monarchy, only mentioned at [[1Chr.24.27|1Ch.24.27]]; 
-- only referred to as Ibri<[[H5681]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Jaaziah<[[H3269]]>; 
-- a brother of Beno<[[H1121B]]>, Shoham<[[H7719]]> and Zaccur<[[H2139I]]>.
+- only referred to as Ibri **<big>[[H5681|עִבְרִי]]</big>**; 
+-  son of Jaaziah **<big>[[H3269|יַעֲזִיָּהוּ]]</big>**; 
+- a brother of Beno **<big>[[H1121|בֵּן]]</big>**, Shoham **<big>[[H7719|שֹׁהַם]]</big>** and Zaccur **<big>[[H2139|זַכּוּר]]</big>**.
 
 Ibri is mentioned in [[1Chr.24.27|1 Chronicles 24:27]] as a descendant of Merari, one of the three main divisions of the Levites. The Levites were the Israelite tribe designated to assist the priests in the tabernacle and temple services. 
 
@@ -20,8 +20,8 @@ Apart from being mentioned in this genealogical list, no other specific informat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ibri | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H5681) <small>*Hebrew*</small> | 1x | [1Ch.24.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibri\*\|reference=1Ch.24.27) |
-All Strong's for **Ibri**: \[[[H5681]]\]
+| Ibri | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H5681) | 1x | [1Ch.24.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibri\*\|reference=1Ch.24.27) |
+All entries for **Ibri**:  **<big>[[H5681|עִבְרִי]]</big>**
 #### Related Profiles:
 - **[Jaaziah](H3269)** (father)
 - **[Beno](H1121B)** (sibling)

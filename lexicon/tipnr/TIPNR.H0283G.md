@@ -4,9 +4,9 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahio</span>, along with his brother Uzzah, drove the cart carrying the ark of God from Kiriath-jearim. \([[2Sam.6.3|2Sa.6.3]],4; [[1Chr.13.7|1Ch.13.7]]\)
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.6.3|2Sa.6.3]]; 
-- only referred to as Ahio<[[H0283G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ\); 
--  son of Abinadab<[[H0041G]]>; 
-- a brother of Eleazar<[[H0499H]]> and Uzzah<[[H5798A]]>.
+- only referred to as Ahio **<big>[[H0283|אַחְיוֹ]]</big>**; 
+-  son of Abinadab **<big>[[H0041|אֲבִינָדָב]]</big>**; 
+- a brother of Eleazar **<big>[[H0499|אֶלְעָזָר]]</big>** and Uzzah **<big>[[H5798|עֻזָּא]]</big>**.
 
 Ahio was the son of Abinadab, in whose house the ark of God had been kept for many years after it was returned by the Philistines. When David decided to bring the ark to Jerusalem, Ahio and his brother Uzzah were tasked with transporting it. 
 
@@ -16,8 +16,8 @@ The biblical text does not mention Ahio's reaction to his brother's death or pro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahio | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ](H0283G) <small>*Hebrew*</small> | 3x | [[2Sa.6.3] ... [1Ch.13.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahio\*\|reference=2Sa.6.3;2Sa.6.4;1Ch.13.7) |
-All Strong's for **Ahio**: \[[[H0283G]]\]
+| Ahio | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ](H0283G) | 3x | [[2Sa.6.3] ... [1Ch.13.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahio\*\|reference=2Sa.6.3;2Sa.6.4;1Ch.13.7) |
+All entries for **Ahio**:  **<big>[[H0283|אַחְיוֹ]]</big>**
 #### Related Profiles:
 - **[Abinadab](H0041G)** (father)
 - **[Eleazar](H0499H)** (sibling)

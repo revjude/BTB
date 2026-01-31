@@ -7,28 +7,28 @@ Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on t
 Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You.<small><sub>**MT:**</sub></small>
 [[Ps.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.4|<< Psalm 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.6|Psalm 25:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Guide | <big><span class="asgreek">οδήγησόν</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your truth! | <big><span class="asgreek">αλήθειάν</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| teach | <big><span class="asgreek">δίδαξόν</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverer! | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I waited on you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υπέμεινα</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| all | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day. | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| Guide | **<big>[[G3594\|οδήγησόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your truth! | **<big>[[G0225\|αλήθειάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| teach | **<big>[[G1321\|δίδαξόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my deliverer! | **<big>[[G4990\|σωτήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I waited on you | **<big>[[G1473\|σε]]</big>** **<big>[[G5278\|υπέμεινα]]</big>** |
+| all | **<big>[[G3650\|όλην]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day. | **<big>[[G2250\|ημέραν]]</big>** |
 [[Ps.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.4|<< Psalm 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.6|Psalm 25:6 >>]]</td></tr></table>
 
 

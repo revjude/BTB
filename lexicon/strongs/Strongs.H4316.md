@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָא‎</span></big> **Mîykâʼ** <small>*(mee-kaw')*</small> ==**Mica**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎מִיכָה‎</span><sup><small>[[H4318]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיכָא‎</span></big>** **Mîykâʼ** <small>*(mee-kaw')*</small> ==**Mica**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a variation for **<big>[[H4318|‎מִיכָה‎]]</big>**</small>
 
 $\quad$ Micha.
 - § Micha = *"who is like God"*

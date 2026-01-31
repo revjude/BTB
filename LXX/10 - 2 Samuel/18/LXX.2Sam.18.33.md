@@ -7,44 +7,44 @@ And the king was much moved, and went up to the chamber over the gate, and wept:
 The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”<small><sub>**MT:**</sub></small>
 [[2Sam.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.32|<< 2 Samuel 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.1|2 Samuel 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upper room | <big><span class="asgreek">υπερώον</span></big> <sup><small><small>[[G5253]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wept. | <big><span class="asgreek">έκλαυσε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| as | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he wept, | <big><span class="asgreek">κλαίειν</span></big> <sup><small><small>[[G2799]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O My son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| O my son!, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| What \[that I couldn't\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| give | <big><span class="asgreek">δώη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my death | <big><span class="asgreek">θάνατόν</span></big> <sup><small><small>[[G2288]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Absalom, | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| O my son! | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my son. | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| upper room | **<big>[[G5253\|υπερώον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wept. | **<big>[[G2799\|έκλαυσε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| as | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| he wept, | **<big>[[G2799\|κλαίειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| O My son, | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| O my son!, | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O my son, | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| What \[that I couldn't\] | **<big>[[G5100\|τις]]</big>** |
+| give | **<big>[[G1325\|δώη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my death | **<big>[[G2288\|θάνατόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| Absalom, | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| O my son! | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O my son. | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Sam.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.32|<< 2 Samuel 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.1|2 Samuel 19:1 >>]]</td></tr></table>
 
 

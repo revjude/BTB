@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחִימֶלֶךְ‎</span></big> **ʼĂchîymelek** <small>*(akh-ee-meh'-lek)*</small> ==**Ahimelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup> and <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup>; brother of (the) king</small>
+**<big><span class="ashebrew">‎אֲחִימֶלֶךְ‎</span></big>** **ʼĂchîymelek** <small>*(akh-ee-meh'-lek)*</small> ==**Ahimelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0251|‎אָח‎]]</big>** and **<big>[[H4428|‎מֶלֶךְ‎]]</big>**; brother of (the) king</small>
 
 $\quad$ Ahimelech.
 - § Ahimelech = *"my brother is king" or "brother of Melek"*

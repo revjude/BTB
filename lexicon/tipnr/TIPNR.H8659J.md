@@ -4,7 +4,7 @@ Persian living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Tarshish</span> was one of the seven princes of Persia and Media who had access to King Ahasuerus's presence and held the highest positions in the kingdom.
 - A prince of Persia living at the time of Exile and Return, only mentioned at [[Esth.1.14|Est.1.14]]; 
-- only referred to as Tarshish<[[H8659J]]> \(<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יש</span>ׁ\).
+- only referred to as Tarshish **<big>[[H8659|תַּרְשִׁישׁ]]</big>**.
 
 Tarshish is mentioned in [[Esth.1.14|Esther 1:14]] as one of the seven princes of Persia and Media who served as advisors to King Ahasuerus \(also known as Xerxes I\). These seven princes had special access to the king's presence and were the most prominent officials in the Persian Empire. 
 
@@ -16,5 +16,5 @@ Apart from his role as one of the seven princes and his involvement in advising 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tarshish | [<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יש</span>ׁ](H8659J) <small>*Hebrew*</small> | 1x | [Est.1.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tarshish\*\|reference=Est.1.14) |
-All Strong's for **Tarshish**: \[[[H8659J]]\]
+| Tarshish | [<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יש</span>ׁ](H8659J) | 1x | [Est.1.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tarshish\*\|reference=Est.1.14) |
+All entries for **Tarshish**:  **<big>[[H8659|תַּרְשִׁישׁ]]</big>**

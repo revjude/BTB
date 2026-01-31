@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָעַף‎</span></big> **zâʻaph** <small>*(zaw-af')*</small> ==**to enrage**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָעַף‎</span></big>** **zâʻaph** <small>*(zaw-af')*</small> ==**to enrage**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fret, sad, worse liking, be wroth.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** to be enraged, be angry
 $\quad$ **2a)** to appear perplexed, appear troubled
 $\quad$ **2b)** to be sad-looking
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">ὀργίζω</span><sup><small>[[G3710]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G2373|θυμόω]]</big>** · **<big>[[G3710|ὀργίζω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

@@ -11,29 +11,29 @@ So the LORD God caused the man to fall into a deep sleep, and while he slept, He
 > $\quad$ referenced by: [[1Tim.2.13|1Tim 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">επέβαλε</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| a change of state | <big><span class="asgreek">έκστασιν</span></big> <sup><small><small>[[G1611]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Adam, | <big><span class="asgreek">Αδάμ</span></big> <sup><small><small>[[G0076]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he slept. | <big><span class="asgreek">ύπνωσε</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his ribs, | <big><span class="asgreek">πλευρών</span></big> <sup><small><small>[[G4125]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| supplied | <big><span class="asgreek">ανεπλήρωσε</span></big> <sup><small><small>[[G0378]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σάρκα</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| against | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1911\|επέβαλε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| a change of state | **<big>[[G1611\|έκστασιν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Adam, | **<big>[[G0076\|Αδάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he slept. | **<big>[[G9567\|ύπνωσε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβε]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his ribs, | **<big>[[G4125\|πλευρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| supplied | **<big>[[G0378\|ανεπλήρωσε]]</big>** |
+| flesh | **<big>[[G4561\|σάρκα]]</big>** |
+| against | **<big>[[G0473\|αντ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Gen.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.20|<< Genesis 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.22|Genesis 2:22 >>]]</td></tr></table>
 
 

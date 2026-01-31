@@ -7,22 +7,22 @@ Then the king said to the wise men, which knew the times, (for so [was] the king
 Then the king consulted the wise men who knew the times, for it was customary for him to confer with the experts in law and justice.<small><sub>**MT:**</sub></small>
 [[Esth.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.12|<< Esther 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.14|Esther 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his friends, | <big><span class="asgreek">φίλοις</span></big> <sup><small><small>[[G5384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Vashti spoke, | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">Αστί</span></big> <sup><small><small>[[H2060]]</small></small></sup> |
-| you deal | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judgment! | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his friends, | **<big>[[G5384\|φίλοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Thus | **<big>[[G2596\|κατά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| Vashti spoke, | **<big>[[G2980\|ελάλησεν]]</big>** **<big>[[H2060\|Αστί]]</big>** |
+| you deal | **<big>[[G4160\|ποιήσατε]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| law | **<big>[[G3551\|νόμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judgment! | **<big>[[G2920\|κρίσιν]]</big>** |
 [[Esth.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.12|<< Esther 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.14|Esther 1:14 >>]]</td></tr></table>
 
 

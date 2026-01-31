@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּרְכְּמִישׁ‎</span></big> **Karkᵉmîysh** <small>*(kar-kem-eesh')*</small> ==**Carchemish**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎כַּרְכְּמִישׁ‎</span></big>** **Karkᵉmîysh** <small>*(kar-kem-eesh')*</small> ==**Carchemish**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Carchemish.

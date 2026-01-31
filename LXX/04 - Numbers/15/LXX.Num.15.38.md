@@ -7,37 +7,37 @@ Speak unto the children of Israel, and bid them that they make them fringes in t
 “Speak to the Israelites and tell them that throughout the generations to come they are to make for themselves tassels for the corners of their garments, with a blue cord on each tassel.<small><sub>**MT:**</sub></small>
 [[Num.15.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.37|<< Numbers 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.39|Numbers 15:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them make | <big><span class="asgreek">ποιησάτωσαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| decorative hems | <big><span class="asgreek">κράσπεδα</span></big> <sup><small><small>[[G2899]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">πτερύγια</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their cloaks | <big><span class="asgreek">ιματίων</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[throughout\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their generations. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall place | <big><span class="asgreek">επιθήσετε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| decorative hems | <big><span class="asgreek">κράσπεδα</span></big> <sup><small><small>[[G2899]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">πτερυγίων</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| yarn | <big><span class="asgreek">κλώσμα</span></big> <sup><small><small>[[G8031]]</small></small></sup> |
-| of blue. | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
+| Speak | **<big>[[G2980\|λάλησον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them make | **<big>[[G4160\|ποιησάτωσαν]]</big>** |
+| for themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| decorative hems | **<big>[[G2899\|κράσπεδα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G4419\|πτερύγια]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their cloaks | **<big>[[G2440\|ιματίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[throughout\] | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their generations. | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall place | **<big>[[G2007\|επιθήσετε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| decorative hems | **<big>[[G2899\|κράσπεδα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G4419\|πτερυγίων]]</big>** |
+| yarn | **<big>[[G8031\|κλώσμα]]</big>** |
+| of blue. | **<big>[[G5191\|υακίνθινον]]</big>** |
 [[Num.15.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.37|<< Numbers 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.39|Numbers 15:39 >>]]</td></tr></table>
 
 

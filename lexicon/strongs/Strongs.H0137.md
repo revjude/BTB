@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדֹנִי־בֶזֶק‎</span></big> **ʼĂdônîy-Bezeq** <small>*(ad-o''-nee-beh'-zek)*</small> ==**Adoni-bezek**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָדוֹן‎</span><sup><small>[[H0113]]</small></sup> and <span class="ashebrew">‎בֶּזֶק‎</span><sup><small>[[H0966]]</small></sup>; lord of Bezek</small>
+**<big><span class="ashebrew">‎אֲדֹנִי־בֶזֶק‎</span></big>** **ʼĂdônîy-Bezeq** <small>*(ad-o''-nee-beh'-zek)*</small> ==**Adoni-bezek**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0113|‎אָדוֹן‎]]</big>** and **<big>[[H0966|‎בֶּזֶק‎]]</big>**; lord of Bezek</small>
 
 $\quad$ Adonibezek.
 - § Adoni-Bezek = *"my lord is Besek"*

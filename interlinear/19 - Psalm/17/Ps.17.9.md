@@ -6,16 +6,16 @@ from the wicked who assail me, from my mortal enemies who surround me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.8|<< Psalms 17:8]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.10|Psalms 17:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֭שָׁעִים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Re.sha.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>ז֣וּ </big></span><small><small><sup>[[H2098]]</sup></small></small> &#8207;| zu <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have assailed me  | <span class="ashebrew"><big>שַׁדּ֑וּ </big></span><small><small><sup>[[H7703]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| sha.Du. <small><sup>[[HVqp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies my  | <span class="ashebrew"><big>אֹיְבַ֥ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'o.ye.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with soul  | <span class="ashebrew"><big>בְּ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נֶ֗פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they surround  | <span class="ashebrew"><big>יַקִּ֥יפוּ </big></span><small><small><sup>[[H5362B]]</sup></small></small> &#8207;| ya.Ki.fu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<on> me  | <span class="ashebrew"><big>עָלָֽ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H2098\|ז֣וּ]]&#8207; </big>**| zu<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have assailed me  |**<big>&#8207;[[H7703\|שַׁדּ֑וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.Du.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  |**<big>&#8207;[[H0341\|אֹיְבַ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with soul  |**<big>&#8207;[[H9003\|בְּ֝]]&#8207;&#8207;[[H5315H\|נֶ֗פֶשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they surround  |**<big>&#8207;[[H5362B\|יַקִּ֥יפוּ]]&#8207; </big>**| ya.Ki.fu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<on> me  |**<big>&#8207;[[H5921A\|עָלָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.8|<< Psalms 17:8]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.10|Psalms 17:10 >>]]</td></tr></table>
 
 

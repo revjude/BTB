@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְבוּסִי‎</span></big> **Yᵉbûwçîy** <small>*(yeb-oo-see')*</small> ==**Jebusite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎יְבוּס‎</span><sup><small>[[H2982]]</small></sup></small>
+**<big><span class="ashebrew">‎יְבוּסִי‎</span></big>** **Yᵉbûwçîy** <small>*(yeb-oo-see')*</small> ==**Jebusite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H2982|‎יְבוּס‎]]</big>**</small>
 
 $\quad$ Jebusite(-s).
 - § Jebusite = *"descendants of Jebus"*

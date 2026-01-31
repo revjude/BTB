@@ -7,49 +7,49 @@ Moreover the soul that shall touch any unclean [thing, as] the uncleanness of ma
 If one touches anything unclean, whether human uncleanness, an unclean animal, or any unclean, detestable thing, and then eats any of the meat of the peace offering that belongs to the LORD, that person must be cut off from his people.”<small><sub>**MT:**</sub></small>
 [[Lev.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should touch | <big><span class="asgreek">άψηται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| thing | <big><span class="asgreek">πράγματος</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| unclean, | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| an uncleanness | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[creatures\] | <big><span class="asgreek">τετραπόδων</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean, | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| abomination | <big><span class="asgreek">βδελύγματος</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| of an unclean \[thing\], | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peace \[offerings\] | <big><span class="asgreek">ειρηνικών</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should touch | **<big>[[G0680\|άψηται]]</big>** |
+| any | **<big>[[G3956\|παντός]]</big>** |
+| thing | **<big>[[G4229\|πράγματος]]</big>** |
+| unclean, | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| an uncleanness | **<big>[[G0167\|ακαθαρσίας]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| four-footed \[creatures\] | **<big>[[G5074\|τετραπόδων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| unclean, | **<big>[[G0169\|ακαθάρτων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| any | **<big>[[G3956\|παντός]]</big>** |
+| abomination | **<big>[[G0946\|βδελύγματος]]</big>** |
+| of an unclean \[thing\], | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should eat | **<big>[[G2068\|φαγή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| meats | **<big>[[G2907\|κρεών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peace \[offerings\] | **<big>[[G1516\|ειρηνικών]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| shall be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
 

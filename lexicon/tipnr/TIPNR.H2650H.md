@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Huppim</span>, also known as Hupham or Huram, was a descendant of Benjamin mentioned in the genealogies of Genesis, Numbers, and 1 Chronicles.
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]; 
-- referred to as Huppim<[[H2650H]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>\), or Hupham<[[H2349]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Huram<[[H2361H]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Huphamite<[[H2350]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Benjamin<[[H1144G]]>; 
-- a brother of Bela<[[H1106A]]>, Becher<[[H1071G]]>, Ashbel<[[H0788]]>, Gera<[[H1617G]]>, Naaman<[[H5283G]]>, Ahiram<[[H0297]]>, Rosh<[[H7220]]>, Muppim<[[H4649]]>, Ard<[[H0714G]]>, Ahiram<[[H0297]]> and Jediael<[[H3043G]]>.
+- referred to as Huppim **<big>[[H2650|חֻפִּים]]</big>**, or Hupham **<big>[[H2349|חוּפָם]]</big>**, or Huram **<big>[[H2361|חוּרָם]]</big>**, or Huphamite **<big>[[H2350|חוּפָמִי]]</big>**; 
+-  son of Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+- a brother of Bela **<big>[[H1106|בֶּלַע]]</big>**, Becher **<big>[[H1071|בֶכֶר]]</big>**, Ashbel **<big>[[H0788|אַשְׁבֵּל]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>**, Rosh **<big>[[H7220|רֹאשׁ]]</big>**, Muppim **<big>[[H4649|מֻפִּים]]</big>**, Ard **<big>[[H0714|אַרְדְּ]]</big>**, Ahiram **<big>[[H0297|אֲחִירָם]]</big>** and Jediael **<big>[[H3043|יְדִיעֲאֵל]]</big>**.
 
 Huppim, also referred to as Hupham or Huram, is mentioned in the genealogies of Benjamin in [[Gen.46.21|Genesis 46:21]], [[Num.26.39|Numbers 26:39]], and [[1Chr.8.5|1 Chronicles 8:5]]. He is listed as one of the sons or descendants of Benjamin. 
 
@@ -22,11 +22,11 @@ Apart from being mentioned in these genealogies, no other information is provide
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650H) <small>*Hebrew*</small> | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=Gen.46.21) |
-| Hupham | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2349) <small>*Hebrew*</small> | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hupham\*\|reference=Num.26.39) |
-| Huram | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361H) <small>*Hebrew*</small> | 1x | [1Ch.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huram\*\|reference=1Ch.8.5) |
-| Huphamite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2350) <small>*Hebrew*</small> | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huphamite\*\|reference=Num.26.39) |
-All Strong's for **Huppim or Hupham or Huram**: \[[[H2650H]]\] \[[[H2349]]\] \[[[H2361H]]\] \[[[H2350]]\]
+| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650H) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=Gen.46.21) |
+| Hupham | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2349) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hupham\*\|reference=Num.26.39) |
+| Huram | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361H) | 1x | [1Ch.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huram\*\|reference=1Ch.8.5) |
+| Huphamite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2350) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huphamite\*\|reference=Num.26.39) |
+All entries for **Huppim or Hupham or Huram**:  **<big>[[H2650|חֻפִּים]]</big>** ☩  **<big>[[H2349|חוּפָם]]</big>** ☩  **<big>[[H2361|חוּרָם]]</big>** ☩  **<big>[[H2350|חוּפָמִי]]</big>**
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

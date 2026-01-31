@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲשֵׂיָה‎</span></big> **Maʻăsêyâh** <small>*(mah-as-ay-yaw')*</small> ==**Maaseiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַעֲשֵׂיָהוּ</span> **Maʻăsêyâhûw** <small>*(mah-as-ay-yaw'-hoo)*</small>; from <span class="ashebrew">‎מַעֲשֶׂה‎</span><sup><small>[[H4639]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; work of Jah</small>
+**<big><span class="ashebrew">‎מַעֲשֵׂיָה‎</span></big>** **Maʻăsêyâh** <small>*(mah-as-ay-yaw')*</small> ==**Maaseiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַעֲשֵׂיָהוּ</span></big>** **Maʻăsêyâhûw** <small>*(mah-as-ay-yaw'-hoo)*</small>; from **<big>[[H4639|‎מַעֲשֶׂה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; work of Jah</small>
 
 $\quad$ Maaseiah.
 - § Maaseiah = *"work of Jehovah"*

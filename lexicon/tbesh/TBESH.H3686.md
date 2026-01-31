@@ -1,4 +1,1 @@
-<span class="ashebrew">‎כְּסִיל‎</span> <small>***(ke.sil)***</small> ==**Chesil**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-
--  a town in the extreme south of Judah and 15 miles southwest of Beersheba; maybe same as <i>be.tul</i> (<span class='ashebrew'>‎ב‎</span>ְּ<span class='ashebrew'>‎תו‎</span>ּ<span class='ashebrew'>‎ל‎</span> "Bethul" [[H1329]])
-
+-  a town in the extreme south of Judah and 15 miles southwest of Beersheba; maybe same as <i>be.tul</i> (<span class='ashebrew'>‎ב‎</span>ְּ<span class='ashebrew'>‎תו‎</span>ּ<span class='ashebrew'>‎ל‎</span> "Bethul" **<big>[[H1329|בְּתוּל]]</big>**)

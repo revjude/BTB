@@ -7,30 +7,30 @@ And your father hath deceived me, and changed my wages ten times; but God suffer
 And although he has cheated me and changed my wages ten times, God has not allowed him to harm me.<small><sub>**MT:**</sub></small>
 [[Gen.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cheated | <big><span class="asgreek">παρεκρούσατο</span></big> <sup><small><small>[[G8621]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bartered | <big><span class="asgreek">ήλλαξε</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wage | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| lambs. | <big><span class="asgreek">αμνών</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the power\] to do evil | <big><span class="asgreek">κακοποιήσαί</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
-| \[against\] me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| cheated | **<big>[[G8621\|παρεκρούσατο]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bartered | **<big>[[G0236\|ήλλαξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my wage | **<big>[[G3408\|μισθόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for the | **<big>[[G3588\|των]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| lambs. | **<big>[[G0286\|αμνών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| give | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the power\] to do evil | **<big>[[G2554\|κακοποιήσαί]]</big>** |
+| \[against\] me. | **<big>[[G1473\|με]]</big>** |
 [[Gen.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
 

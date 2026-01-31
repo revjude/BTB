@@ -7,30 +7,30 @@ Ephraim compasseth me about with lies, and the house of Israel with deceit: but 
 Ephraim surrounds Me with lies, the house of Israel with deceit; but Judah still walks with God and is faithful to the Holy One.<small><sub>**MT:**</sub></small>
 [[Hos.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.11|<< Hosea 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.1|Hosea 12:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| encircled | <big><span class="asgreek">εκύκλωσέ</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a lie | <big><span class="asgreek">ψεύδει</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
-| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[but\] now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| knew | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| they shall be called | <big><span class="asgreek">κεκλήσεται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| encircled | **<big>[[G2944\|εκύκλωσέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a lie | **<big>[[G5579\|ψεύδει]]</big>** |
+| Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[but\] now | **<big>[[G3568\|νυν]]</big>** |
+| knew | **<big>[[G1097\|έγνω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a holy | **<big>[[G0039\|άγιος]]</big>** |
+| they shall be called | **<big>[[G2564\|κεκλήσεται]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
 [[Hos.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.11|<< Hosea 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.1|Hosea 12:1 >>]]</td></tr></table>
 
 

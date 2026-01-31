@@ -2,7 +2,7 @@
 
 The Valley of Achor, where Achan was punished for his sin.
 - A location first mentioned at [[Josh.7.24|Jos.7.24]]; 
-- only referred to as Achor\_Valley<[[H5911]]><[[H6010G]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כו</span>ֹ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Achor\_Valley **<big>[[H5911|עָכוֹר]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.836890,35.399737&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ In later prophetic writings, the Valley of Achor is used symbolically. [[Isa.65.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Achor | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H5911)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010G) <small>*Hebrew*</small> | 5x | [[Jos.7.24] ... [Hos.2.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.7.24;Jos.7.26;Jos.15.7;Isa.65.10;Hos.2.15) |
-All Strong's for **Achor_Valley**: \[[[H5911]]\]
+| Valley/ of Achor | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H5911)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010G) | 5x | [[Jos.7.24] ... [Hos.2.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.7.24;Jos.7.26;Jos.15.7;Isa.65.10;Hos.2.15) |
+All entries for **Achor Valley**:  **<big>[[H5911|עָכוֹר]]</big>**

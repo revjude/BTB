@@ -4,9 +4,9 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Alexander</span> was the son of Simon of Cyrene, who was compelled to carry Jesus' cross. \([[Mark.15.21|Mrk.15.21]]\)
 - A man living at the time of the New Testament, only mentioned at [[Mark.15.21|Mrk.15.21]]; 
-- only referred to as Alexander<[[G0223G]]> \(<span class='tipnrLangGreek'>Ἀλέξανδρος</span>\); 
--  son of Simon<[[G4613J]]>; 
-- a brother of Rufus<[[G4504G]]>.
+- only referred to as Alexander **<big>[[G0223|Ἀλέξανδρος]]</big>**; 
+-  son of Simon **<big>[[G4613|Σίμων]]</big>**; 
+- a brother of Rufus **<big>[[G4504|Ῥοῦφος]]</big>**.
 
 Alexander is mentioned briefly in the Gospel of Mark as the son of Simon of Cyrene, along with his brother Rufus. \([[Mark.15.21|Mrk.15.21]]\) 
 
@@ -22,8 +22,8 @@ The inclusion of Alexander and Rufus in the Gospel narrative serves to provide a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223G) <small>*Greek*</small> | 1x | [Mrk.15.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Mrk.15.21) |
-All Strong's for **Alexander**: \[[[G0223G]]\]
+| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223G) | 1x | [Mrk.15.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Mrk.15.21) |
+All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**
 #### Related Profiles:
 - **[Simon](G4613J)** (father)
 - **[Rufus](G4504G)** (sibling)

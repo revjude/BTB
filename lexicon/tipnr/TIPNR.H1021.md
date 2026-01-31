@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-haccherem</span> was a town in Judah, possibly fortified, mentioned by Jeremiah as a place to raise a signal fire. \([[Neh.3.14|Nehemiah 3:14]]; [[Jer.6.1|Jeremiah 6:1]]\)
 - A location first mentioned at [[Neh.3.14|Neh.3.14]]; 
-- only referred to as Beth-haccherem<[[H1021]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Beth-haccherem **<big>[[H1021|בֵּית הַכֶּרֶם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.665911,35.241516&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The location of the town remains uncertain.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-haccherem (KJV= Beth-haccerem) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H1021) <small>*Hebrew*</small> | 2x | [[Neh.3.14] & [Jer.6.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Neh.3.14;Jer.6.1) |
-All Strong's for **Beth-haccherem**: \[[[H1021]]\]
+| Beth-haccherem (KJV= Beth-haccerem) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H1021) | 2x | [[Neh.3.14] & [Jer.6.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Neh.3.14;Jer.6.1) |
+All entries for **Beth-haccherem**:  **<big>[[H1021|בֵּית הַכֶּרֶם]]</big>**

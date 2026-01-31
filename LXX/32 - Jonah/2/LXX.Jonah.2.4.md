@@ -7,23 +7,23 @@ Then I said, I am cast out of thy sight; yet I will look again toward thy holy t
 At this, I said, ‘I have been banished from Your sight; yet I will look once more toward Your holy temple.’<small><sub>**MT:**</sub></small>
 [[Jonah.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.3|<< Jonah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.5|Jonah 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Have I been thrust away | <big><span class="asgreek">απώσμαι</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your eyes? | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Surely | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| I shall proceed | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to look | <big><span class="asgreek">επιβλέψαι</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| temple | <big><span class="asgreek">ναόν</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγιόν</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| said, | **<big>[[G2036\|είπα]]</big>** |
+| Have I been thrust away | **<big>[[G0683\|απώσμαι]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| your eyes? | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Surely | **<big>[[G0686\|άρα]]</big>** |
+| I shall proceed | **<big>[[G4369\|προσθήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to look | **<big>[[G1914\|επιβλέψαι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| temple | **<big>[[G3485\|ναόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| holy | **<big>[[G0039\|αγιόν]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
 [[Jonah.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.3|<< Jonah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.5|Jonah 2:5 >>]]</td></tr></table>
 
 

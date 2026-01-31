@@ -10,33 +10,33 @@ Then all the children of Israel went out, and the congregation was gathered toge
 Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah.<small><sub>**MT:**</sub></small>
 [[Judg.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.30|<< Judges 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.2|Judges 20:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| held an assembly | <big><span class="asgreek">εξεκκλησιάσθη</span></big> <sup><small><small>[[G7308]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Beer-sheba, | <big><span class="asgreek">Βηρσαβαιέ</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mizpeh. | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| held an assembly | **<big>[[G7308\|εξεκκλησιάσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγή]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Beer-sheba, | **<big>[[H0884\|Βηρσαβαιέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| before | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Mizpeh. | **<big>[[H4709\|Μασσηφά]]</big>** |
 [[Judg.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.30|<< Judges 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.2|Judges 20:2 >>]]</td></tr></table>
 
 

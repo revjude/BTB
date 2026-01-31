@@ -1,4 +1,4 @@
-form of: <small>[[G4387]]</small> 
+form of: <small>**<big>[[G4387|πρότερος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πρότερον==</span></b> 

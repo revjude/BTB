@@ -6,27 +6,27 @@ Return home, my daughters. Go on, for I am too old to have another husband. Even
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| go back  | <span class="ashebrew"><big>שֹׁ֤בְנָה </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| Shoe.nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughters my  | <span class="ashebrew"><big>בְנֹתַ </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve.no.Ta <small><sup>[[HNcfpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go  | <span class="ashebrew"><big>לֵ֔כְןָ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| Le.khe.na <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am [too] old  | <span class="ashebrew"><big>זָקַ֖נְתִּי </big></span><small><small><sup>[[H2204]]</sup></small></small> &#8207;| za.Kan.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for belonging  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הְי֣וֹת </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| mi <small><sup>[[HR]]</sup></small> h.Yot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a husband  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אִ֑ישׁ </big></span><small><small><sup>[[H0376H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I said  | <span class="ashebrew"><big>אָמַ֙רְתִּי֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>יֶשׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yesh- <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> me  | <span class="ashebrew"><big>לִ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] hope  | <span class="ashebrew"><big>תִקְוָ֔ה </big></span><small><small><sup>[[H8615B]]</sup></small></small> &#8207;| tik.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּ֣ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I belonged  | <span class="ashebrew"><big>הָיִ֤יתִי </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yi.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this night  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לַּ֙יְלָה֙ </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a husband  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אִ֔ישׁ </big></span><small><small><sup>[[H0376H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַ֖ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I bore  | <span class="ashebrew"><big>יָלַ֥דְתִּי </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ya.Lad.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons  | <span class="ashebrew"><big>בָנִֽים </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go back  |**<big>&#8207;[[H7725G\|שֹׁ֤בְנָה]]&#8207; </big>**| Shoe.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughters my  |**<big>&#8207;[[H1323G\|בְנֹתַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ve.no.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לֵ֔כְןָ]]&#8207; </big>**| Le.khe.na<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am [too] old  |**<big>&#8207;[[H2204\|זָקַ֖נְתִּי]]&#8207; </big>**| za.Kan.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for belonging  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1961\|הְי֣וֹת]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a husband  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0376H\|אִ֑ישׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  |**<big>&#8207;[[H0559\|אָמַ֙רְתִּי֙]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  |**<big>&#8207;[[H9005\|לִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] hope  |**<big>&#8207;[[H8615B\|תִקְוָ֔ה]]&#8207; </big>**| tik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I belonged  |**<big>&#8207;[[H1961\|הָיִ֤יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לַּ֙יְלָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a husband  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0376H\|אִ֔ישׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I bore  |**<big>&#8207;[[H3205\|יָלַ֥דְתִּי]]&#8207; </big>**| ya.Lad.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  |**<big>&#8207;[[H1121A\|בָנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
 

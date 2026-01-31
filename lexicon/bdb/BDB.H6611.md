@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H6212]]</small>
+<small>Aramaic form: **<big>[[H6212|עֶשֶׂב]]</big>**</small>
  <span class="bdbLangHebrew">‎פְּתַחְיָה‎</span> **proper name, masculine** 
 
 **1.** priest [[1Chr.24.16|1Chr 24:16]], <span class="bdbLangGreek">Εζεκηλ</span>, <span class="bdbLangGreek">φεθεια</span> etc. 

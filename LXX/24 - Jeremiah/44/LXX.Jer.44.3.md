@@ -7,27 +7,27 @@ Because of their wickedness which they have committed to provoke me to anger, in
 because of the evil they have done. They provoked Me to anger by continuing to burn incense and to serve other gods that neither they nor you nor your fathers ever knew.<small><sub>**MT:**</sub></small>
 [[Jer.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.2|<< Jeremiah 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.4|Jeremiah 44:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of their wickedness | <big><span class="asgreek">πονηρίας</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to greatly embitter | <big><span class="asgreek">παραπικράναί</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευθέντες</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to burn incense | <big><span class="asgreek">θυμιάν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to other | <big><span class="asgreek">ετέροις</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμεις</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers. | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of their wickedness | **<big>[[G4189\|πονηρίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| to greatly embitter | **<big>[[G3893\|παραπικράναί]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| going | **<big>[[G4198\|πορευθέντες]]</big>** |
+| to burn incense | **<big>[[G2370\|θυμιάν]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| to other | **<big>[[G2087\|ετέροις]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| knew not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνων]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|υμεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers. | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Jer.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.2|<< Jeremiah 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.4|Jeremiah 44:4 >>]]</td></tr></table>
 
 

@@ -7,57 +7,57 @@ And Abimelech gat him up to mount Zalmon, he and all the people that [were] with
 he and all his men went up to Mount Zalmon. Abimelech took his axe in his hand and cut a branch from the trees, which he lifted to his shoulder, saying to his men, “Hurry and do what you have seen me do.”<small><sub>**MT:**</sub></small>
 [[Judg.9.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.47|<< Judges 9:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.49|Judges 9:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abimelech ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Zalmon, | <big><span class="asgreek">Σελμών</span></big> <sup><small><small>[[H6756b]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abimelech took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| axe | <big><span class="asgreek">αξίνην</span></big> <sup><small><small>[[G0513]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he cut | <big><span class="asgreek">έκοψε</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| a load | <big><span class="asgreek">φορτίον</span></big> <sup><small><small>[[G5413]]</small></small></sup> |
-| of wood, | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his shoulders. | <big><span class="asgreek">ώμους</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you see | <big><span class="asgreek">ίδετέ</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| doing, | <big><span class="asgreek">ποιούντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχέως</span></big> <sup><small><small>[[G5030]]</small></small></sup> |
-| you do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I! | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abimelech ascended | **<big>[[G0305\|ανέβη]]</big>** **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Zalmon, | **<big>[[H6756b\|Σελμών]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abimelech took | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| axe | **<big>[[G0513\|αξίνην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he cut | **<big>[[G2875\|έκοψε]]</big>** |
+| a load | **<big>[[G5413\|φορτίον]]</big>** |
+| of wood, | **<big>[[G3586\|ξύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[it\] | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his shoulders. | **<big>[[G5606\|ώμους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| you see | **<big>[[G1492\|ίδετέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| doing, | **<big>[[G4160\|ποιούντα]]</big>** |
+| quickly | **<big>[[G5030\|ταχέως]]</big>** |
+| you do | **<big>[[G4160\|ποιήσατε]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| I! | **<big>[[G1473\|εγώ]]</big>** |
 [[Judg.9.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.47|<< Judges 9:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.49|Judges 9:49 >>]]</td></tr></table>
 
 

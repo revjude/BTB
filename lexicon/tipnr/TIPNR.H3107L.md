@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jozabad</span>, along with other Levitical leaders, generously provided animals for the Passover offerings during King Josiah's reign.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.35.9|2Ch.35.9]]; 
-- only referred to as Jozabad<[[H3107L]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is mentioned in [[2Chr.35.9|2 Chronicles 35:9]] as one of the Levitical leaders who contributed to the Passover celebrations during the reign of King Josiah. The context of the passage is Josiah's restoration of the Passover observance as part of his religious reforms \(2 Chronicles 35:1-19\). 
 
@@ -14,5 +14,5 @@ This contribution demonstrated the Levitical leaders' support for Josiah's refor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107L) <small>*Hebrew*</small> | 1x | [2Ch.35.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=2Ch.35.9) |
-All Strong's for **Jozabad**: \[[[H3107L]]\]
+| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107L) | 1x | [2Ch.35.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=2Ch.35.9) |
+All entries for **Jozabad**:  **<big>[[H3107|יוֹזָבָד]]</big>**

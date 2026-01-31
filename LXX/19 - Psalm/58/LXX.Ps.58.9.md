@@ -7,22 +7,22 @@ Before your pots can feel the thorns, he shall take them away as with a whirlwin
 Before your pots can feel the burning thorns—whether green or dry—He will sweep them away.<small><sub>**MT:**</sub></small>
 [[Ps.58.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.8|<< Psalm 58:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.10|Psalm 58:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perceiving | <big><span class="asgreek">συνιέναι</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your thorn-bushes -- | <big><span class="asgreek">ακάνθας</span></big> <sup><small><small>[[G0173]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white-thorn shrub; | <big><span class="asgreek">ράμνον</span></big> <sup><small><small>[[G9010]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| living, | <big><span class="asgreek">ζώντας</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| he shall swallow | <big><span class="asgreek">καταπίεται</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| perceiving | **<big>[[G4920\|συνιέναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of your thorn-bushes -- | **<big>[[G0173\|ακάνθας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| white-thorn shrub; | **<big>[[G9010\|ράμνον]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| living, | **<big>[[G2198\|ζώντας]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| he shall swallow | **<big>[[G2666\|καταπίεται]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.58.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.8|<< Psalm 58:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.10|Psalm 58:10 >>]]</td></tr></table>
 
 

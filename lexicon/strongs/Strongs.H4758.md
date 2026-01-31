@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַרְאֶה‎</span></big> **marʼeh** <small>*(mar-eh')*</small> ==**appearance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָאָה‎</span><sup><small>[[H7200]]</small></sup></small>
+**<big><span class="ashebrew">‎מַרְאֶה‎</span></big>** **marʼeh** <small>*(mar-eh')*</small> ==**appearance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7200|‎רָאָה‎]]</big>**</small>
 
 $\quad$ [idiom] apparently, appearance(-reth), [idiom] as soon as beautiful(-ly), countenance, fair, favoured, form, goodly, to look (up) on (to), look(-eth), pattern, to see, seem, sight, visage, vision.
 - ***a view*** (the act of seeing)
@@ -12,4 +12,4 @@ $\quad$ **1b)** what is seen
 $\quad$ **1c)** a vision (supernatural)
 $\quad$ **1d)** sight, vision (power of seeing)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">εἶδος</span><sup><small>[[G1491]]</small></sup> · <span class="asgreek">ἰδέα</span><sup><small>[[G2397]]</small></sup> · <span class="asgreek">ὁμοίωμα</span><sup><small>[[G3667]]</small></sup> · <span class="asgreek">ὀπτασία</span><sup><small>[[G3701]]</small></sup> · <span class="asgreek">ὅραμα</span><sup><small>[[G3705]]</small></sup> · <span class="asgreek">ὅρασις</span><sup><small>[[G3706]]</small></sup> · <span class="asgreek">ὀφθαλμός</span><sup><small>[[G3788]]</small></sup> · <span class="asgreek">ὄψις</span><sup><small>[[G3799]]</small></sup> · <span class="asgreek">πρόσωπον</span><sup><small>[[G4383]]</small></sup>
+<small>See Greek: </small>**<big>[[G1391|δόξα]]</big>** · **<big>[[G1491|εἶδος]]</big>** · **<big>[[G2397|ἰδέα]]</big>** · **<big>[[G3667|ὁμοίωμα]]</big>** · **<big>[[G3701|ὀπτασία]]</big>** · **<big>[[G3705|ὅραμα]]</big>** · **<big>[[G3706|ὅρασις]]</big>** · **<big>[[G3788|ὀφθαλμός]]</big>** · **<big>[[G3799|ὄψις]]</big>** · **<big>[[G4383|πρόσωπον]]</big>**

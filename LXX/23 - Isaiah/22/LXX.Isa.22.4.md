@@ -7,25 +7,25 @@ Therefore said I, Look away from me; I will weep bitterly, labour not to comfort
 Therefore I said, “Turn away from me, let me weep bitterly! Do not try to console me over the destruction of the daughter of my people.”<small><sub>**MT:**</sub></small>
 [[Isa.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.3|<< Isaiah 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.5|Isaiah 22:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Let me go! | <big><span class="asgreek">άφετέ</span></big> <sup><small><small>[[G0863]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bitterly | <big><span class="asgreek">πικρώς</span></big> <sup><small><small>[[G4090]]</small></small></sup> |
-| I shall weep | <big><span class="asgreek">κλαύσομαι</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| grow strong | <big><span class="asgreek">κατισχύσητε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| to comfort | <big><span class="asgreek">παρακαλείν</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destruction | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| Let me go! | **<big>[[G0863\|άφετέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| bitterly | **<big>[[G4090\|πικρώς]]</big>** |
+| I shall weep | **<big>[[G2799\|κλαύσομαι]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| grow strong | **<big>[[G2729\|κατισχύσητε]]</big>** |
+| to comfort | **<big>[[G3870\|παρακαλείν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| destruction | **<big>[[G4938\|σύντριμμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.3|<< Isaiah 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.5|Isaiah 22:5 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ And there was also a man that prophesied in the name of the LORD, Urijah the son
 Now there was another man prophesying in the name of the LORD, Uriah son of Shemaiah from Kiriath-jearim. He prophesied against this city and against this land the same things that Jeremiah did.<small><sub>**MT:**</sub></small>
 [[Jer.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.19|<< Jeremiah 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.21|Jeremiah 26:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was another man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύων</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Urijah | <big><span class="asgreek">Ουρίας</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shemaiah | <big><span class="asgreek">Σαμαίου</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Kirjath-jearim; | <big><span class="asgreek">Καριαθιαρείμ</span></big> <sup><small><small>[[H7157]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prophesied | <big><span class="asgreek">προεφήτευσε</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Jeremiah. | <big><span class="asgreek">Ιερεμίου</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was another man | **<big>[[G0444\|άνθρωπος]]</big>** **<big>[[G1510\|ην]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύων]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| Urijah | **<big>[[H0223b\|Ουρίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shemaiah | **<big>[[H8098\|Σαμαίου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Kirjath-jearim; | **<big>[[H7157\|Καριαθιαρείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he prophesied | **<big>[[G4395\|προεφήτευσε]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this land | **<big>[[G1093\|γης]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| of Jeremiah. | **<big>[[G2408\|Ιερεμίου]]</big>** |
 [[Jer.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.19|<< Jeremiah 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.21|Jeremiah 26:21 >>]]</td></tr></table>
 
 

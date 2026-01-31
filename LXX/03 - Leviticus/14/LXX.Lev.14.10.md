@@ -7,36 +7,36 @@ And on the eighth day he shall take two he lambs without blemish, and one ewe la
 On the eighth day he is to bring two unblemished male lambs, an unblemished ewe lamb a year old, a grain offering of three-tenths of an ephah of fine flour mixed with olive oil, and one log of olive oil.<small><sub>**MT:**</sub></small>
 [[Lev.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.9|<< Leviticus 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.11|Leviticus 14:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eighth | <big><span class="asgreek">ογδόη</span></big> <sup><small><small>[[G3590]]</small></small></sup> |
-| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| lambs, | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| unblemished, | <big><span class="asgreek">αμώμους</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| of a year \[old\], | <big><span class="asgreek">ενιαυσίους</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| of a year \[old\], | <big><span class="asgreek">ενιαύσιον</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\], | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| being mixed | <big><span class="asgreek">πεφυραμένην</span></big> <sup><small><small>[[G9681]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| small cup | <big><span class="asgreek">κοτύλην</span></big> <sup><small><small>[[G8077]]</small></small></sup> |
-| of olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| eighth | **<big>[[G3590\|ογδόη]]</big>** |
+| he shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| lambs, | **<big>[[G0286\|αμνούς]]</big>** |
+| unblemished, | **<big>[[G0299\|αμώμους]]</big>** |
+| of a year \[old\], | **<big>[[G7245\|ενιαυσίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατον]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| of a year \[old\], | **<big>[[G7245\|ενιαύσιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| of fine flour | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\], | **<big>[[G2378\|θυσίαν]]</big>** |
+| being mixed | **<big>[[G9681\|πεφυραμένην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil, | **<big>[[G1637\|ελαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| small cup | **<big>[[G8077\|κοτύλην]]</big>** |
+| of olive oil | **<big>[[G1637\|ελαίου]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
 [[Lev.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.9|<< Leviticus 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.11|Leviticus 14:11 >>]]</td></tr></table>
 
 

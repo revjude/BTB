@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּסַל‎</span></big> **pâçal** <small>*(paw-sal')*</small> ==**to hew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּסַל‎</span></big>** **pâçal** <small>*(paw-sal')*</small> ==**to hew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ grave, hew.

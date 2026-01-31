@@ -6,12 +6,12 @@ The sons of Perez: Hezron and Hamul.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.4|<< 1 Chronicles 2:4]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.6|1 Chronicles 2:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Perez  | <span class="ashebrew"><big>פֶ֖רֶץ </big></span><small><small><sup>[[H6557]]</sup></small></small> &#8207;| Fe.retz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hezron  | <span class="ashebrew"><big>חֶצְר֥וֹן </big></span><small><small><sup>[[H2696H]]</sup></small></small> &#8207;| chetz.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Hamul  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָמֽוּל </big></span><small><small><sup>[[H2538]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.Mul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Perez  |**<big>&#8207;[[H6557\|פֶ֖רֶץ]]&#8207; </big>**| Fe.retz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezron  |**<big>&#8207;[[H2696H\|חֶצְר֥וֹן]]&#8207; </big>**| chetz.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hamul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2538\|חָמֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Mul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.4|<< 1 Chronicles 2:4]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.6|1 Chronicles 2:6 >>]]</td></tr></table>
 
 

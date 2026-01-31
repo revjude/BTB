@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹתֵר‎</span></big> **yôwthêr** <small>*(yo-thare')*</small> ==**advantage**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎יָתַר‎</span><sup><small>[[H3498]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹתֵר‎</span></big>** **yôwthêr** <small>*(yo-thare')*</small> ==**advantage**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>active participle of **<big>[[H3498|‎יָתַר‎]]</big>**</small>
 
 $\quad$ better, more(-over), over, profit.
 - properly, ***redundant***

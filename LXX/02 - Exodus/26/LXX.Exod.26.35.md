@@ -7,39 +7,39 @@ And thou shalt set the table without the vail, and the candlestick over against 
 And place the table outside the veil on the north side of the tabernacle, and put the lampstand opposite the table, on the south side.<small><sub>**MT:**</sub></small>
 [[Exod.26.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.34|<< Exodus 26:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.36|Exodus 26:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">θήσεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| outwardly | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil, | <big><span class="asgreek">καταπετάσματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamp-stand | <big><span class="asgreek">λυχνίαν</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
-| directly opposite | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τραπέζης</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">θήσεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall put | **<big>[[G5087\|θήσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| table | **<big>[[G5132\|τράπεζαν]]</big>** |
+| outwardly | **<big>[[G1855\|έξωθεν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| veil, | **<big>[[G2665\|καταπετάσματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| lamp-stand | **<big>[[G3087\|λυχνίαν]]</big>** |
+| directly opposite | **<big>[[G0561\|απέναντι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| table | **<big>[[G5132\|τραπέζης]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| \[the\] part | **<big>[[G3313\|μέρους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south. | **<big>[[G3558\|νότον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| table | **<big>[[G5132\|τράπεζαν]]</big>** |
+| you shall put | **<big>[[G5087\|θήσεις]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] part | **<big>[[G3313\|μέρους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορράν]]</big>** |
 [[Exod.26.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.34|<< Exodus 26:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.36|Exodus 26:36 >>]]</td></tr></table>
 
 

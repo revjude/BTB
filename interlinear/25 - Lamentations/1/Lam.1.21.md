@@ -6,28 +6,28 @@ People have heard my groaning, but there is no one to comfort me. All my enemies
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they heard  | <span class="ashebrew"><big>שָׁמְע֞וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sha.me.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] groaning  | <span class="ashebrew"><big>נֶאֱנָחָ֣ה </big></span><small><small><sup>[[H0584]]</sup></small></small> &#8207;| ne.'e.na.Chah <small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָ֗נִי </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'A.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>אֵ֤ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a comforter  | <span class="ashebrew"><big>מְנַחֵם֙ </big></span><small><small><sup>[[H5162G]]</sup></small></small> &#8207;| me.na.Chem <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to me  | <span class="ashebrew"><big>לִ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies my  | <span class="ashebrew"><big>אֹ֨יְבַ֜ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'o.ye.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they heard  | <span class="ashebrew"><big>שָׁמְע֤וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sha.me.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| distress my  | <span class="ashebrew"><big>רָֽעָתִ </big></span><small><small><sup>[[H7451C]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ra.'a.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they rejoiced  | <span class="ashebrew"><big>שָׂ֔שׂוּ </big></span><small><small><sup>[[H7797]]</sup></small></small> &#8207;| Sa.su <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֖ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have acted  | <span class="ashebrew"><big>עָשִׂ֑יתָ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Si.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have brought  | <span class="ashebrew"><big>הֵבֵ֥אתָ </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| he.Ve.ta <small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day  | <span class="ashebrew"><big>יוֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yom- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] you proclaimed  | <span class="ashebrew"><big>קָרָ֖אתָ </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| ka.Ra.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִֽהְי֥וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yih.Yu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like me  | <span class="ashebrew"><big>כָמֽוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| kha.Mo. <small><sup>[[HR]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they heard  |**<big>&#8207;[[H8085G\|שָׁמְע֞וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] groaning  |**<big>&#8207;[[H0584\|נֶאֱנָחָ֣ה]]&#8207; </big>**| ne.'e.na.Chah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אָ֗נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H0369\|אֵ֤ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a comforter  |**<big>&#8207;[[H5162G\|מְנַחֵם֙]]&#8207; </big>**| me.na.Chem<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  |**<big>&#8207;[[H0341\|אֹ֨יְבַ֜]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they heard  |**<big>&#8207;[[H8085G\|שָׁמְע֤וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| distress my  |**<big>&#8207;[[H7451C\|רָֽעָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ra.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they rejoiced  |**<big>&#8207;[[H7797\|שָׂ֔שׂוּ]]&#8207; </big>**| Sa.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have acted  |**<big>&#8207;[[H6213A\|עָשִׂ֑יתָ]]&#8207; </big>**| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have brought  |**<big>&#8207;[[H0935P\|הֵבֵ֥אתָ]]&#8207; </big>**| he.Ve.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day  |**<big>&#8207;[[H3117G\|יוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] you proclaimed  |**<big>&#8207;[[H7121I\|קָרָ֖אתָ]]&#8207; </big>**| ka.Ra.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may be  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1961\|יִֽהְי֥וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yih.Yu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like me  |**<big>&#8207;[[H3644G\|כָמֽוֹ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.Mo.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
 
 

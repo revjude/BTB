@@ -7,38 +7,38 @@ God thundereth marvellously with his voice; great things doeth he, which we cann
 God thunders wondrously with His voice; He does great things we cannot comprehend.<small><sub>**MT:**</sub></small>
 [[Job.37.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.6|Job 37:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| will thunder | <big><span class="asgreek">βροντήσει</span></big> <sup><small><small>[[G6698]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong one | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wonders | <big><span class="asgreek">θαυμασία</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
-| a season | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| He established | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for animals, | <big><span class="asgreek">κτήνεσιν</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and they know | <big><span class="asgreek">οίδασι</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] fold | <big><span class="asgreek">κοίτης</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
-| \[the\] order | <big><span class="asgreek">τάξιν</span></big> <sup><small><small>[[G5010]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| receded | <big><span class="asgreek">εξίσταταί</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thought | <big><span class="asgreek">διάνοια</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| nor \[is\] | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| reconciled | <big><span class="asgreek">διαλλάσσεταί</span></big> <sup><small><small>[[G1259]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| with | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[your\] body. | <big><span class="asgreek">σώματος</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| For he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| great \[things\] | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we knew not; | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήδειμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| will thunder | **<big>[[G6698\|βροντήσει]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| strong one | **<big>[[G2478\|ισχυρός]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| his voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| wonders | **<big>[[G2297\|θαυμασία]]</big>** |
+| a season | **<big>[[G5610\|ώραν]]</big>** |
+| He established | **<big>[[G5087\|έθετο]]</big>** |
+| for animals, | **<big>[[G2934\|κτήνεσιν]]</big>** |
+| and they know | **<big>[[G1492\|οίδασι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of \[the\] fold | **<big>[[G2845\|κοίτης]]</big>** |
+| \[the\] order | **<big>[[G5010\|τάξιν]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| all these \[things\] | **<big>[[G3778\|τούτοις]]</big>** **<big>[[G3956\|πάσιν]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** |
+| receded | **<big>[[G1839\|εξίσταταί]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| thought | **<big>[[G1271\|διάνοια]]</big>** |
+| nor \[is\] | **<big>[[G3761\|ουδέ]]</big>** |
+| reconciled | **<big>[[G1259\|διαλλάσσεταί]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| with | **<big>[[G0575\|από]]</big>** |
+| \[your\] body. | **<big>[[G4983\|σώματος]]</big>** |
+| For he did | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| great \[things\] | **<big>[[G3173\|μεγάλα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| we knew not; | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|ήδειμεν]]</big>** |
 [[Job.37.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.6|Job 37:6 >>]]</td></tr></table>
 
 

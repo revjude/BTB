@@ -7,29 +7,29 @@ That day [is] a day of wrath, a day of trouble and distress, a day of wasteness 
 That day will be a day of wrath, a day of trouble and distress, a day of destruction and desolation, a day of darkness and gloom, a day of clouds and blackness,<small><sub>**MT:**</sub></small>
 [[Zeph.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.14|<< Zephaniah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.16|Zephaniah 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] a mighty | <big><span class="asgreek">δυνατή</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| That day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of affliction | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| distress; | <big><span class="asgreek">ανάγκης</span></big> <sup><small><small>[[G0318]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of misery | <big><span class="asgreek">ταλαιπωρίας</span></big> <sup><small><small>[[G5004]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| extinction; | <big><span class="asgreek">αφανισμού</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of dimness | <big><span class="asgreek">γνόφου</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| darkness; | <big><span class="asgreek">σκότους</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of cloud | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fog; | <big><span class="asgreek">ομίχλης</span></big> <sup><small><small>[[G6068]]</small></small></sup> |
+| \[is\] a mighty | **<big>[[G1415\|δυνατή]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of anger | **<big>[[G3709\|οργής]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| That day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of affliction | **<big>[[G2347\|θλίψεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| distress; | **<big>[[G0318\|ανάγκης]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of misery | **<big>[[G5004\|ταλαιπωρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| extinction; | **<big>[[G0854\|αφανισμού]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of dimness | **<big>[[G1105\|γνόφου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| darkness; | **<big>[[G4655\|σκότους]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of cloud | **<big>[[G3507\|νεφέλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fog; | **<big>[[G6068\|ομίχλης]]</big>** |
 [[Zeph.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.14|<< Zephaniah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.16|Zephaniah 1:16 >>]]</td></tr></table>
 
 

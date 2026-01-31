@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲנָקִי‎</span></big> **ʻĂnâqîy** <small>*(an-aw-kee')*</small> ==**Anakite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎עָנָק‎</span><sup><small>[[H6061]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲנָקִי‎</span></big>** **ʻĂnâqîy** <small>*(an-aw-kee')*</small> ==**Anakite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H6061|‎עָנָק‎]]</big>**</small>
 
 $\quad$ Anakim.
 - § Anakims = *"long-necked"*

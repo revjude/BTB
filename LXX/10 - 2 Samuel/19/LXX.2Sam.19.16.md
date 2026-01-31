@@ -7,29 +7,29 @@ And Shimei the son of Gera, a Benjamite, which [was] of Bahurim, hasted and came
 Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of Judah to meet King David,<small><sub>**MT:**</sub></small>
 [[2Sam.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.15|<< 2 Samuel 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.17|2 Samuel 19:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hastened | <big><span class="asgreek">ετάχυνε</span></big> <sup><small><small>[[G9406]]</small></small></sup> |
-| Shimei | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gera | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Benjaminite | <big><span class="asgreek">Ιεμινί</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Bahurim | <big><span class="asgreek">Βαχουρίν</span></big> <sup><small><small>[[H0980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| hastened | **<big>[[G9406\|ετάχυνε]]</big>** |
+| Shimei | **<big>[[H8096\|Σεμεϊ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Gera | **<big>[[H1617\|Γηρά]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Benjaminite | **<big>[[G0958\|Ιεμινί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Bahurim | **<big>[[H0980\|Βαχουρίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went down | **<big>[[G2597\|κατέβη]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G0529\|απάντησιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| David. | **<big>[[G4622\|Δαυίδ]]</big>** |
 [[2Sam.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.15|<< 2 Samuel 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.17|2 Samuel 19:17 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ And Jacob rose up early in the morning, and took the stone that he had put [for]
 Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it,<small><sub>**MT:**</sub></small>
 [[Gen.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.17|<< Genesis 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.19|Genesis 28:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">το πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he placed | <big><span class="asgreek">υπέθηκεν</span></big> <sup><small><small>[[G5294]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| at | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| his head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he set | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as a\] monument, | <big><span class="asgreek">στήλην</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poured | <big><span class="asgreek">επέχεεν</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">άκρον</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jacob rose up | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| in the morning, | **<big>[[G4404\|το πρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he placed | **<big>[[G5294\|υπέθηκεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| at | **<big>[[G4314\|προς]]</big>** |
+| his head. | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he set | **<big>[[G2476\|έστησεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| \[as a\] monument, | **<big>[[G9171\|στήλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poured | **<big>[[G2022\|επέχεεν]]</big>** |
+| oil | **<big>[[G1637\|έλαιον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| top | **<big>[[G6208\|άκρον]]</big>** |
+| of it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Gen.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.17|<< Genesis 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.19|Genesis 28:19 >>]]</td></tr></table>
 
 

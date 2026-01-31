@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pi-hahiroth</span> was a location near the Red Sea where the Israelites camped before crossing the sea during the Exodus from Egypt.
 - A location first mentioned at [[Exod.14.2|Exo.14.2]]; 
-- referred to as Pi-hahiroth or Hahiroth<[[H6367]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- referred to as Pi-hahiroth or Hahiroth **<big>[[H6367|פִּי הַחִירֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.94658,32.425144&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Pi-hahiroth, also known as Hahiroth, was a place mentioned in the account of the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pi-hahiroth (NIV= Pi Hahiroth) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6367) <small>*Hebrew*</small> | 3x | [[Exo.14.2] ... [Num.33.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pi\*\|reference=Exo.14.2;Exo.14.9;Num.33.7) |
-| Hahiroth | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6367) <small>*Hebrew*</small> | 1x | [Num.33.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hahiroth\*\|reference=Num.33.8) |
-All Strong's for **Pi-hahiroth or Hahiroth**: \[[[H6367]]\]
+| Pi-hahiroth (NIV= Pi Hahiroth) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6367) | 3x | [[Exo.14.2] ... [Num.33.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pi\*\|reference=Exo.14.2;Exo.14.9;Num.33.7) |
+| Hahiroth | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H6367) | 1x | [Num.33.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hahiroth\*\|reference=Num.33.8) |
+All entries for **Pi-hahiroth or Hahiroth**:  **<big>[[H6367|פִּי הַחִירֹת]]</big>**

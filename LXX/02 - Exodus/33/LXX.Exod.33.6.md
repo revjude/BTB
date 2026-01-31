@@ -7,23 +7,23 @@ And the children of Israel stripped themselves of their ornaments by the mount H
 So the Israelites stripped themselves of their jewelry from Mount Horeb onward.<small><sub>**MT:**</sub></small>
 [[Exod.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.5|<< Exodus 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.7|Exodus 33:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| removed | <big><span class="asgreek">περιείλαντο</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ornamentation, | <big><span class="asgreek">κόσμον</span></big> <sup><small><small>[[G2889]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| attire | <big><span class="asgreek">περιστολήν</span></big> <sup><small><small>[[G8760]]</small></small></sup> |
-| at | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Horeb. | <big><span class="asgreek">Χωρήβ</span></big> <sup><small><small>[[H2722]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| removed | **<big>[[G4014\|περιείλαντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their ornamentation, | **<big>[[G2889\|κόσμον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| attire | **<big>[[G8760\|περιστολήν]]</big>** |
+| at | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Horeb. | **<big>[[H2722\|Χωρήβ]]</big>** |
 [[Exod.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.5|<< Exodus 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.7|Exodus 33:7 >>]]</td></tr></table>
 
 

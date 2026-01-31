@@ -6,11 +6,11 @@ A song. A Psalm of Asaph. O God, be not silent; be not speechless; be not still,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.8|<< Psalms 82:8]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.1|Psalms 83:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a song  | <span class="ashebrew"><big>שִׁ֖יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a psalm  | <span class="ashebrew"><big>מִזְמ֣וֹר </big></span><small><small><sup>[[H4210]]</sup></small></small> &#8207;| miz.Mor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Asaph  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָסָֽף </big></span><small><small><sup>[[H0623H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.Saf <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  |**<big>&#8207;[[H7892A\|שִׁ֖יר]]&#8207; </big>**| shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a psalm  |**<big>&#8207;[[H4210\|מִזְמ֣וֹר]]&#8207; </big>**| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Asaph  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0623H\|אָסָֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Saf<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.8|<< Psalms 82:8]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.1|Psalms 83:1 >>]]</td></tr></table>
 
 

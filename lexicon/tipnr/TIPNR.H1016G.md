@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-dagon</span> was a town in Judah, likely named after the Philistine god Dagon. \([[Josh.15.41|Joshua 15:41]]\)
 - A location only mentioned at [[Josh.15.41|Jos.15.41]]; 
-- only referred to as Beth-dagon<[[H1016G]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Beth-dagon **<big>[[H1016|בֵּית־דָּגוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.908,34.775&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Beth-dagon is not specified in the Bible, but it was likel
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-dagon (NIV= Beth Dagon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1016G) <small>*Hebrew*</small> | 1x | [Jos.15.41 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.41) |
-All Strong's for **Beth-dagon**: \[[[H1016G]]\]
+| Beth-dagon (NIV= Beth Dagon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1016G) | 1x | [Jos.15.41 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.41) |
+All entries for **Beth-dagon**:  **<big>[[H1016|בֵּית־דָּגוֹן]]</big>**

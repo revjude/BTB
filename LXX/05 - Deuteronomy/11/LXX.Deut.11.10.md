@@ -7,37 +7,37 @@ For the land, whither thou goest in to possess it, [is] not as the land of Egypt
 For the land that you are entering to possess is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated on foot, like a vegetable garden.<small><sub>**MT:**</sub></small>
 [[Deut.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.9|<< Deuteronomy 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.11|Deuteronomy 11:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For it is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισπορεύη</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
-| you went forth | <big><span class="asgreek">εκπεπόρευσθε</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from there; | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| they sow | <big><span class="asgreek">σπείρωσι</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed, | <big><span class="asgreek">σπόρον</span></big> <sup><small><small>[[G4703]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ποτίζωσι</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| with the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet, | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a garden | <big><span class="asgreek">κήπον</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| of vegetables. | <big><span class="asgreek">λαχανείας</span></big> <sup><small><small>[[G8169]]</small></small></sup> |
+| For it is | **<big>[[G1510\|έστι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you enter | **<big>[[G1531\|εισπορεύη]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| it; | **<big>[[G1473\|αυτήν]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| it is | **<big>[[G1510\|εστίν]]</big>** |
+| from where | **<big>[[G3606\|όθεν]]</big>** |
+| you went forth | **<big>[[G1607\|εκπεπόρευσθε]]</big>** |
+| from there; | **<big>[[G1564\|εκείθεν]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| they sow | **<big>[[G4687\|σπείρωσι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| seed, | **<big>[[G4703\|σπόρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G4222\|ποτίζωσι]]</big>** |
+| with the | **<big>[[G3588\|τοις]]</big>** |
+| feet, | **<big>[[G4228\|ποσίν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a garden | **<big>[[G2779\|κήπον]]</big>** |
+| of vegetables. | **<big>[[G8169\|λαχανείας]]</big>** |
 [[Deut.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.9|<< Deuteronomy 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.11|Deuteronomy 11:11 >>]]</td></tr></table>
 
 

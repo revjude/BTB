@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְעִישׁ‎</span></big> **Yᵉʻîysh** <small>*(yeh-eesh')*</small> ==**Jeush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּשׁ‎</span><sup><small>[[H5789]]</small></sup>; hasty</small>
+**<big><span class="ashebrew">‎יְעִישׁ‎</span></big>** **Yᵉʻîysh** <small>*(yeh-eesh')*</small> ==**Jeush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5789|‎עוּשׁ‎]]</big>**; hasty</small>
 
-$\quad$ Jeush (from the margin). Compare <span class="ashebrew">‎יְעוּשׁ‎</span><sup><small>[[H3266]]</small></sup>.
+$\quad$ Jeush (from the margin). Compare **<big>[[H3266|‎יְעוּשׁ‎]]</big>**.
 - § Jeush = *"assembler"*
 - ***Jeish***, the name of an Edomite and of a an Israelite
 

@@ -1,8 +1,8 @@
 <small>*Hazar-addar • A town on the southern border of Canaan.*</small>
 
 <span class='tipnrhighlight'>Hazar-addar</span> was a town on the southern border of Canaan, mentioned in the description of the land's boundaries.
-- A location near Addar<[[H0146G]]> only mentioned at [[Num.34.4|Num.34.4]]; 
-- only referred to as Hazar-addar<[[H2692]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span>־<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Addar **<big>[[H0146|אַדָּר]]</big>** only mentioned at [[Num.34.4|Num.34.4]]; 
+- only referred to as Hazar-addar **<big>[[H2692|חֲצַר אַדָּר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.9522,34.7187&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Hazar-addar in the biblical text serves to define the extent of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hazar-addar (NIV= Hazar Addar) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span>־<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H2692) <small>*Hebrew*</small> | 1x | [Num.34.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=Num.34.4) |
-All Strong's for **Hazar-addar**: \[[[H2692]]\]
+| Hazar-addar (NIV= Hazar Addar) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span>־<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H2692) | 1x | [Num.34.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=Num.34.4) |
+All entries for **Hazar-addar**:  **<big>[[H2692|חֲצַר אַדָּר]]</big>**

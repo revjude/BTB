@@ -7,18 +7,18 @@ A man’s belly shall be satisfied with the fruit of his mouth; [and] with the i
 From the fruit of his mouth a man’s belly is filled; with the harvest from his lips he is satisfied.<small><sub>**MT:**</sub></small>
 [[Prov.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.19|<< Proverbs 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.21|Proverbs 18:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπών</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| fills | <big><span class="asgreek">πίμπλησι</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| his belly; | <big><span class="asgreek">κοιλίαν</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπών</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of his lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall be filled up. | <big><span class="asgreek">εμπλησθήσεται</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| fruits | **<big>[[G2590\|καρπών]]</big>** |
+| of \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| fills | **<big>[[G4130\|πίμπλησι]]</big>** |
+| his belly; | **<big>[[G2836\|κοιλίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and from | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| fruits | **<big>[[G2590\|καρπών]]</big>** |
+| of his lips | **<big>[[G5491\|χειλέων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall be filled up. | **<big>[[G1705\|εμπλησθήσεται]]</big>** |
 [[Prov.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.19|<< Proverbs 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.21|Proverbs 18:21 >>]]</td></tr></table>
 
 

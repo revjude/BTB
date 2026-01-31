@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zaphon</span>, a city allotted to the tribe of Gad, also used as a term for the north or the heavenly dwelling place of God \(Josh. 13:27; Judg. 12:1; Ps. 48:2; Isa. 14:13\).
 - A location first mentioned at [[Josh.13.27|Jos.13.27]]; 
-- referred to as Zaphon or Zaphon \(KJV, ESV= "north"\) <[[H6828H]]> \(<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Zaphon<[[H6829]]> \(<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Zaphon or Zaphon \(KJV, ESV= "north"\)  **<big>[[H6828|צָפוֹן]]</big>**, or Zaphon **<big>[[H6829|צָפוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.237710,35.585865&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Zaphon has two distinct meanings in the Bible. First, it is the name of a city a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zaphon | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6828H) <small>*Hebrew*</small> | 1x | [Jdg.12.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jdg.12.1) |
-| Zaphon (KJV, ESV= north) | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6828H) <small>*Hebrew*</small> | 2x | [[Psa.48.2] & [Isa.14.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jdg.12.1) |
-| Zaphon | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6829) <small>*Hebrew*</small> | 1x | [Jos.13.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jos.13.27) |
-All Strong's for **Zaphon**: \[[[H6828H]]\] \[[[H6829]]\]
+| Zaphon | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6828H) | 1x | [Jdg.12.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jdg.12.1) |
+| Zaphon (KJV, ESV= north) | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6828H) | 2x | [[Psa.48.2] & [Isa.14.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jdg.12.1) |
+| Zaphon | [<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6829) | 1x | [Jos.13.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaphon\*\|reference=Jos.13.27) |
+All entries for **Zaphon**:  **<big>[[H6828|צָפוֹן]]</big>** ☩  **<big>[[H6829|צָפוֹן]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִנָּה‎</span></big> **tsinnâh** <small>*(tsin-naw')*</small> ==**hook**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎צֵן‎</span><sup><small>[[H6791]]</small></sup></small>
+**<big><span class="ashebrew">‎צִנָּה‎</span></big>** **tsinnâh** <small>*(tsin-naw')*</small> ==**hook**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6791|‎צֵן‎]]</big>**</small>
 
 $\quad$ buckler, cold, hook, shield, target.
 - ***a hook*** (as pointed)
@@ -12,4 +12,4 @@ $\quad$ **1a)** meaning dubious
 **3)** shield, large shield, buckler
 $\quad$ **3a)** shield
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔξοδος</span><sup><small>[[G1841]]</small></sup> · <span class="asgreek">θυρεός</span><sup><small>[[G2375]]</small></sup> · <span class="asgreek">ὅπλον</span><sup><small>[[G3696]]</small></sup>
+<small>See Greek: </small>**<big>[[G1841|ἔξοδος]]</big>** · **<big>[[G2375|θυρεός]]</big>** · **<big>[[G3696|ὅπλον]]</big>**

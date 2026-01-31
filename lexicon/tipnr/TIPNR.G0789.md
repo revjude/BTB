@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Assos</span>, a seaport in Mysia where Paul met his companions during his third missionary journey.
 - A location first mentioned at [[Rev.1.11|Act.20.13]]; 
-- only referred to as Assos<[[G0789]]> \(<span class='tipnrLangGreek'>Ἄσσος</span>\).
+- only referred to as Assos **<big>[[G0789|Ἄσσος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.48955031303715,26.33586734239906&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Apart from this brief mention in Acts, Assos does not play a significant role in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Assos | [<span class='tipnrLangGreek'>Ἄσσος</span>](G0789) <small>*Greek*</small> | 2x | [[Act.20.13] & [Act.20.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Assos\*\|reference=Act.20.13;Act.20.14) |
-All Strong's for **Assos**: \[[[G0789]]\]
+| Assos | [<span class='tipnrLangGreek'>Ἄσσος</span>](G0789) | 2x | [[Act.20.13] & [Act.20.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Assos\*\|reference=Act.20.13;Act.20.14) |
+All entries for **Assos**:  **<big>[[G0789|Ἄσσος]]</big>**

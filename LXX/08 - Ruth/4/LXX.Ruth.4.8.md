@@ -7,25 +7,25 @@ Therefore the kinsman said unto Boaz, Buy [it] for thee. So he drew off his shoe
 So the kinsman-redeemer removed his sandal and said to Boaz, “Buy it for yourself.”<small><sub>**MT:**</sub></small>
 [[Ruth.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.7|<< Ruth 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.9|Ruth 4:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relative | <big><span class="asgreek">αγχιστεύς</span></big> <sup><small><small>[[G6130]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Boaz, | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| You acquire | <big><span class="asgreek">κτήσαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my right of inheritance! | <big><span class="asgreek">αγχιστείαν</span></big> <sup><small><small>[[G6129]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he untied | <big><span class="asgreek">υπελύσατο</span></big> <sup><small><small>[[G9580]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sandal | <big><span class="asgreek">υπόδημα</span></big> <sup><small><small>[[G5266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave \[it\] | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| relative | **<big>[[G6130\|αγχιστεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Boaz, | **<big>[[G1003\|Βοόζ]]</big>** |
+| You acquire | **<big>[[G2932\|κτήσαι]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my right of inheritance! | **<big>[[G6129\|αγχιστείαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he untied | **<big>[[G9580\|υπελύσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his sandal | **<big>[[G5266\|υπόδημα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave \[it\] | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Ruth.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.7|<< Ruth 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.9|Ruth 4:9 >>]]</td></tr></table>
 
 

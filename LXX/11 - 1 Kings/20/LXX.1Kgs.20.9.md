@@ -7,40 +7,40 @@ Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All th
 So Ahab answered the messengers of Ben-hadad, “Tell my lord the king, ‘All that you demanded of your servant the first time I will do, but this thing I cannot do.’” So the messengers departed and relayed the message to Ben-hadad.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.8|<< 1 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.10|1 Kings 20:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλοις</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hadad, | <big><span class="asgreek">Άδερ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| Say | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your master! | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you sent | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| first, | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| I will do; | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| this thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to do. | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departed | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| returned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλοις]]</big>** |
+| of \[the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hadad, | **<big>[[H2301\|Άδερ]]</big>** |
+| Say | **<big>[[G3004\|λέγετε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your master! | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| you sent | **<big>[[G0649\|απέστειλας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your servant | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| first, | **<big>[[G4413\|πρώτοις]]</big>** |
+| I will do; | **<big>[[G4160\|ποιήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| this thing | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to do. | **<big>[[G4160\|ποιήσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| departed | **<big>[[G0522\|απήραν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| returned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] word. | **<big>[[G3056\|λόγον]]</big>** |
 [[1Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.8|<< 1 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.10|1 Kings 20:10 >>]]</td></tr></table>
 
 

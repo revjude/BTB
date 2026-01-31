@@ -10,22 +10,22 @@ Those who hate me without cause outnumber the hairs of my head; many are those w
 > $\quad$ referenced by: [[John.15.25|John 15:25]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they are many  | <span class="ashebrew"><big>רַבּ֤וּ </big></span><small><small><sup>[[H7231]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ra.Bu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than [the] hairs of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שַּׂעֲר֣וֹת </big></span><small><small><sup>[[H8185]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> sa.'a.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head my  | <span class="ashebrew"><big>רֹאשִׁ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>י֮ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ro.Sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] hate me  | <span class="ashebrew"><big>שֹׂנְאַ֪ </big></span><small><small><sup>[[H8130]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| so.ne.'A <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| without cause  | <span class="ashebrew"><big>חִ֫נָּ֥ם </big></span><small><small><sup>[[H2600]]</sup></small></small> &#8207;| chi.Nam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are numerous  | <span class="ashebrew"><big>עָצְמ֣וּ </big></span><small><small><sup>[[H6105A]]</sup></small></small> &#8207;| 'a.tze.Mu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] destroy me  | <span class="ashebrew"><big>מַ֭צְמִיתַ </big></span><small><small><sup>[[H6789]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| Matz.mi.ta <small><sup>[[HVhrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemies my  | <span class="ashebrew"><big>אֹיְבַ֣ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'o.ye.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֑קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I stole  | <span class="ashebrew"><big>גָ֝זַ֗לְתִּי </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| ga.Zal.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֣ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will return  | <span class="ashebrew"><big>אָשִֽׁיב </big></span><small><small><sup>[[H7725H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Shiv <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are many  |**<big>&#8207;[[H7231\|רַבּ֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Bu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than [the] hairs of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8185\|שַּׂעֲר֣וֹת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head my  |**<big>&#8207;[[H7218A\|רֹאשִׁ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] hate me  |**<big>&#8207;[[H8130\|שֹׂנְאַ֪]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| so.ne.'A<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| without cause  |**<big>&#8207;[[H2600\|חִ֫נָּ֥ם]]&#8207; </big>**| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are numerous  |**<big>&#8207;[[H6105A\|עָצְמ֣וּ]]&#8207; </big>**| 'a.tze.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] destroy me  |**<big>&#8207;[[H6789\|מַ֭צְמִיתַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| Matz.mi.ta<small><sup>[[HVhrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  |**<big>&#8207;[[H0341\|אֹיְבַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֑קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I stole  |**<big>&#8207;[[H1497\|גָ֝זַ֗לְתִּי]]&#8207; </big>**| ga.Zal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will return  |**<big>&#8207;[[H7725H\|אָשִֽׁיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Shiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.3|<< Psalms 69:3]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.5|Psalms 69:5 >>]]</td></tr></table>
 
 

@@ -6,11 +6,11 @@ Elishama, Beeliada, and Eliphelet.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.6|<< 1 Chronicles 14:6]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.8|1 Chronicles 14:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Elishama  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִישָׁמָ֥ע </big></span><small><small><sup>[[H0476H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.sha.Ma' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Beeliada  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְעֶלְיָדָ֖ע </big></span><small><small><sup>[[H1182]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.'el.ya.Da' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eliphelet  | <span class="ashebrew"><big>וֶ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱלִיפָֽלֶט </big></span><small><small><sup>[[H0467G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.li.Fa.let <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elishama  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0476H\|אֱלִישָׁמָ֥ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.sha.Ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beeliada  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1182\|בְעֶלְיָדָ֖ע]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.'el.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eliphelet  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0467G\|אֱלִיפָֽלֶט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Fa.let<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.6|<< 1 Chronicles 14:6]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.8|1 Chronicles 14:8 >>]]</td></tr></table>
 
 

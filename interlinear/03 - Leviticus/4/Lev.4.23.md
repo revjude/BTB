@@ -6,22 +6,22 @@ When he becomes aware of the sin he has committed, he must bring an unblemished 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or  | <span class="ashebrew"><big>אֽוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been made known  | <span class="ashebrew"><big>הוֹדַ֤ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ho.Da' <small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָי </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sin his  | <span class="ashebrew"><big>חַטָּאת֔ </big></span><small><small><sup>[[H2403B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cha.ta.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has sinned  | <span class="ashebrew"><big>חָטָ֖א </big></span><small><small><sup>[[H2398]]</sup></small></small> &#8207;| cha.Ta' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> it  | <span class="ashebrew"><big>בָּ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| Ba <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will bring  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הֵבִ֧יא </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> he.Vi' <small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| present his  | <span class="ashebrew"><big>קָרְבָּנ֛ </big></span><small><small><sup>[[H7133A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ka.re.ba.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a male goat of  | <span class="ashebrew"><big>שְׂעִ֥יר </big></span><small><small><sup>[[H8163B]]</sup></small></small> &#8207;| se.'Ir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עִזִּ֖ים </big></span><small><small><sup>[[H5795]]</sup></small></small> &#8207;| 'i.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a male  | <span class="ashebrew"><big>זָכָ֥ר </big></span><small><small><sup>[[H2145]]</sup></small></small> &#8207;| za.Khar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תָּמִֽים </big></span><small><small><sup>[[H8549G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Mim <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אֽוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been made known  |**<big>&#8207;[[H3045\|הוֹדַ֤ע]]&#8207; </big>**| ho.Da'<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sin his  |**<big>&#8207;[[H2403B\|חַטָּאת֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| cha.ta.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has sinned  |**<big>&#8207;[[H2398\|חָטָ֖א]]&#8207; </big>**| cha.Ta'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> it  |**<big>&#8207;[[H9003\|בָּ֑]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֧יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| present his  |**<big>&#8207;[[H7133A\|קָרְבָּנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.re.ba.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִ֥יר]]&#8207; </big>**| se.'Ir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H5795\|עִזִּ֖ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male  |**<big>&#8207;[[H2145\|זָכָ֥ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 
 

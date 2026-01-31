@@ -7,30 +7,30 @@ And he made ten candlesticks of gold according to their form, and set [them] in 
 He made ten gold lampstands according to their specifications and placed them in the temple, five on the south side and five on the north.<small><sub>**MT:**</sub></small>
 [[2Chr.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.6|<< 2 Chronicles 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.8|2 Chronicles 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamp-stands | <big><span class="asgreek">λυχνίας</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold -- | <big><span class="asgreek">χρυσάς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| ten, | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their distinguishing \[manner\]. | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple, | <big><span class="asgreek">ναώ</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right, | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| on | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left. | <big><span class="asgreek">αριστερών</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| lamp-stands | **<big>[[G3087\|λυχνίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of gold -- | **<big>[[G5552\|χρυσάς]]</big>** |
+| ten, | **<big>[[G1176\|δέκα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their distinguishing \[manner\]. | **<big>[[G2917\|κρίμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G5087\|έθηκεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| temple, | **<big>[[G3485\|ναώ]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right, | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| on | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left. | **<big>[[G0710\|αριστερών]]</big>** |
 [[2Chr.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.6|<< 2 Chronicles 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.8|2 Chronicles 4:8 >>]]</td></tr></table>
 
 

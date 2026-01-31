@@ -7,55 +7,55 @@ Then said the princes of the Philistines, What [do] these Hebrews [here]? And Ac
 Then the commanders of the Philistines asked, “What about these Hebrews?” Achish replied, “Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him.”<small><sub>**MT:**</sub></small>
 [[1Sam.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| Who are | <big><span class="asgreek">τίνες</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these traveling? | <big><span class="asgreek">διαπορευόμενοι ούτοι</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Achish said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπας</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| \[Is\] not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">δούλος</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| has been | <big><span class="asgreek">γέγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[some\] days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| year. | <big><span class="asgreek">έτος</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I have not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| found | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any \[fault\] | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he fell | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| in with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| satraps | **<big>[[G9059\|σατράπαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| Who are | **<big>[[G5100\|τίνες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these traveling? | **<big>[[G1279\|διαπορευόμενοι ούτοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Achish said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0397\|Ακχίς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| satraps | **<big>[[G9059\|σατράπας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| \[Is\] not | **<big>[[G3756\|ουχ]]</big>** |
+| this | **<big>[[G3778\|ούτος]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G1401\|δούλος]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| has been | **<big>[[G1096\|γέγονε]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \[some\] days | **<big>[[G2250\|ημέρας]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| year. | **<big>[[G2094\|έτος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I have not | **<big>[[G3756\|ουχ]]</big>** |
+| found | **<big>[[G2147\|εύρηκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| any \[fault\] | **<big>[[G3762\|ουδέν]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| he fell | **<big>[[G4098\|έπεσε]]</big>** |
+| in with | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[1Sam.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ After Jephthah, Ibzan of Bethlehem judged Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.7|<< Judges 12:7]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.9|Judges 12:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he judged  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁפֹּ֤ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Pot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after him  | <span class="ashebrew"><big>אַֽחֲרָי </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.cha.Ra <small><sup>[[HAcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ibzan  | <span class="ashebrew"><big>אִבְצָ֖ן </big></span><small><small><sup>[[H0078]]</sup></small></small> &#8207;| 'iv.Tzan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Beth-  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1035G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -lehem  | <span class="ashebrew"><big>לָֽחֶם </big></span><small><small><sup>[[H1035G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  |**<big>&#8207;[[H0310A\|אַֽחֲרָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ibzan  |**<big>&#8207;[[H0078\|אִבְצָ֖ן]]&#8207; </big>**| 'iv.Tzan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Beth-  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1035G\|בֵּ֥ית]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -lehem  |**<big>&#8207;[[H1035G\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.chem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.7|<< Judges 12:7]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.9|Judges 12:9 >>]]</td></tr></table>
 
 

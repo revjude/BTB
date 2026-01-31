@@ -7,27 +7,27 @@ Neither shall one thrust another; they shall walk every one in his path: and [wh
 They do not jostle one another; each proceeds in his path. They burst through the defenses, never breaking ranks.<small><sub>**MT:**</sub></small>
 [[Joel.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.7|<< Joel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.9|Joel 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not be at a distance | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αφέξεται</span></big> <sup><small><small>[[G0568]]</small></small></sup> |
-| being burdened | <big><span class="asgreek">καταβαρυνόμενοι</span></big> <sup><small><small>[[G2599]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their shields | <big><span class="asgreek">όπλοις</span></big> <sup><small><small>[[G3696]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arrows | <big><span class="asgreek">βέλεσιν</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
-| they shall fall, | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they be ended. | <big><span class="asgreek">συντελεσθώσι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not be at a distance | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0568\|αφέξεται]]</big>** |
+| being burdened | **<big>[[G2599\|καταβαρυνόμενοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their shields | **<big>[[G3696\|όπλοις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall go | **<big>[[G4198\|πορεύσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| arrows | **<big>[[G0956\|βέλεσιν]]</big>** |
+| they shall fall, | **<big>[[G4098\|πεσούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they be ended. | **<big>[[G4931\|συντελεσθώσι]]</big>** |
 [[Joel.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.7|<< Joel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.9|Joel 2:9 >>]]</td></tr></table>
 
 

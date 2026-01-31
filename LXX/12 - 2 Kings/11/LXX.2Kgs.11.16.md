@@ -7,24 +7,24 @@ And they laid hands on her; and she went by the way by the which the horses came
 So they seized Athaliah as she reached the horses’ entrance to the palace grounds, and there she was put to death.<small><sub>**MT:**</sub></small>
 [[2Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| by way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of \[the\] entrance | <big><span class="asgreek">εισόδου</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put her to death | <big><span class="asgreek">εθανάτωσαν</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G2007\|επέθηκαν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| by way | **<big>[[G3598\|οδόν]]</big>** |
+| of \[the\] entrance | **<big>[[G1529\|εισόδου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| horses | **<big>[[G2462\|ίππων]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they put her to death | **<big>[[G2289\|εθανάτωσαν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[2Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
 
 

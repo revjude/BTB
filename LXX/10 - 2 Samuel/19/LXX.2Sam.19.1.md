@@ -10,21 +10,21 @@ And it was told Joab, Behold, the king weepeth and mourneth for Absalom.
 Then it was reported to Joab, “The king is weeping and mourning over Absalom.”<small><sub>**MT:**</sub></small>
 [[2Sam.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.33|<< 2 Samuel 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.2|2 Samuel 19:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was announced | <big><span class="asgreek">ανηγγέλη</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| weeps | <big><span class="asgreek">κλαίει</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mourns | <big><span class="asgreek">πενθεί</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was announced | **<big>[[G0312\|ανηγγέλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| weeps | **<big>[[G2799\|κλαίει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mourns | **<big>[[G3996\|πενθεί]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
 [[2Sam.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.33|<< 2 Samuel 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.2|2 Samuel 19:2 >>]]</td></tr></table>
 
 

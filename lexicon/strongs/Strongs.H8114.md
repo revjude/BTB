@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמַרְיָה‎</span></big> **Shᵉmaryâh** <small>*(shem-ar-yaw')*</small> ==**Shemariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׁמַרְיָהוּ</span> **Shᵉmaryâhûw** <small>*(shem-ar-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁמַר‎</span><sup><small>[[H8104]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has guarded</small>
+**<big><span class="ashebrew">‎שְׁמַרְיָה‎</span></big>** **Shᵉmaryâh** <small>*(shem-ar-yaw')*</small> ==**Shemariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁמַרְיָהוּ</span></big>** **Shᵉmaryâhûw** <small>*(shem-ar-yaw'-hoo)*</small>; from **<big>[[H8104|‎שָׁמַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has guarded</small>
 
 $\quad$ Shamariah, Shemariah.
 - § Shemariah = *"kept by Jehovah"*

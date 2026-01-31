@@ -1,4 +1,4 @@
-spelling of: <small>[[G3563]]</small> 
+spelling of: <small>**<big>[[G3563|νοῦς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==νόος==</span></b>, <span class='asgreek'>νόου</span>, <span class='asgreek'>ὁ</span>, 

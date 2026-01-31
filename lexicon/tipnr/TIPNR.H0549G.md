@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Amana</span>, a mountain range featured in a poetic description of the beloved's beauty.
 - A location only mentioned at [[Josh.15.26|Sng.4.8]]; 
-- only referred to as Amana<[[H0549G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Amana **<big>[[H0549|אֲמָנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.681370,36.055039&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The mention of Amana in the Song of Solomon is part of a literary device that us
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amana | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0549G) <small>*Hebrew*</small> | 1x | [Sng.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amana\*\|reference=Sng.4.8) |
-All Strong's for **Amana**: \[[[H0549G]]\]
+| Amana | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0549G) | 1x | [Sng.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amana\*\|reference=Sng.4.8) |
+All entries for **Amana**:  **<big>[[H0549|אֲמָנָה]]</big>**

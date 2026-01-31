@@ -7,28 +7,28 @@ Ye shall defile also the covering of thy graven images of silver, and the orname
 So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”<small><sub>**MT:**</sub></small>
 [[Isa.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remove | <big><span class="asgreek">εξαρείς</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being silver plated; | <big><span class="asgreek">περιηργυρωμένα</span></big> <sup><small><small>[[G8716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones being gilded | <big><span class="asgreek">περικεχρυσωμένα</span></big> <sup><small><small>[[G8776]]</small></small></sup> |
-| fine \[dust\] | <big><span class="asgreek">λεπτά</span></big> <sup><small><small>[[G3016]]</small></small></sup> |
-| you shall make \[into\] | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall winnow | <big><span class="asgreek">λικμήσεις</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of a woman sitting apart, | <big><span class="asgreek">αποκαθημένης</span></big> <sup><small><small>[[G6436]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dung | <big><span class="asgreek">κόπρον</span></big> <sup><small><small>[[G8068]]</small></small></sup> |
-| you shall thrust | <big><span class="asgreek">ώσεις</span></big> <sup><small><small>[[G9809]]</small></small></sup> |
-| them away | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remove | **<big>[[G1808\|εξαρείς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| idols | **<big>[[G1497\|είδωλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being silver plated; | **<big>[[G8716\|περιηργυρωμένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones being gilded | **<big>[[G8776\|περικεχρυσωμένα]]</big>** |
+| fine \[dust\] | **<big>[[G3016\|λεπτά]]</big>** |
+| you shall make \[into\] | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall winnow | **<big>[[G3039\|λικμήσεις]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of a woman sitting apart, | **<big>[[G6436\|αποκαθημένης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dung | **<big>[[G8068\|κόπρον]]</big>** |
+| you shall thrust | **<big>[[G9809\|ώσεις]]</big>** |
+| them away | **<big>[[G1473\|αυτά]]</big>** |
 [[Isa.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 
 

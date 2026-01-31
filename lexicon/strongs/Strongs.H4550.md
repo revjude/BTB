@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַסַּע‎</span></big> **maççaʻ** <small>*(mas-sah')*</small> ==**journey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָסַע‎</span><sup><small>[[H5265]]</small></sup></small>
+**<big><span class="ashebrew">‎מַסַּע‎</span></big>** **maççaʻ** <small>*(mas-sah')*</small> ==**journey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5265|‎נָסַע‎]]</big>**</small>
 
 $\quad$ journey(-ing).
 - ***a departure*** (from striking the tents), i.e. ***march*** (not necessarily a single day's travel)

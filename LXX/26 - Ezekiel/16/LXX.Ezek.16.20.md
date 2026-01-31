@@ -7,25 +7,25 @@ Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto m
 You even took the sons and daughters you bore to Me and sacrificed them as food to idols. Was your prostitution not enough?<small><sub>**MT:**</sub></small>
 [[Ezek.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.19|<< Ezekiel 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.21|Ezekiel 16:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you took | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you bore, | <big><span class="asgreek">εγέννησας</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrificed \[these\] | <big><span class="asgreek">έθυσας</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| consumption, | <big><span class="asgreek">ανάλωσιν</span></big> <sup><small><small>[[G6293]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a little | <big><span class="asgreek">μικρά</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| you fornicated | <big><span class="asgreek">εξεπόρνευσας</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you took | **<big>[[G2983\|έλαβες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ας]]</big>** |
+| you bore, | **<big>[[G1080\|εγέννησας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrificed \[these\] | **<big>[[G2380\|έθυσας]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| consumption, | **<big>[[G6293\|ανάλωσιν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a little | **<big>[[G3398\|μικρά]]</big>** |
+| you fornicated | **<big>[[G1608\|εξεπόρνευσας]]</big>** |
 [[Ezek.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.19|<< Ezekiel 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.21|Ezekiel 16:21 >>]]</td></tr></table>
 
 

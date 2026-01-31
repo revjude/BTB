@@ -7,27 +7,27 @@ Nay, my sons; for [it is] no good report that I hear: ye make the LORD’S peopl
 No, my sons; it is not a good report I hear circulating among the LORD’s people.<small><sub>**MT:**</sub></small>
 [[1Sam.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.23|<< 1 Samuel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.25|1 Samuel 2:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| No | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| no, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούω</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαον</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| serve | <big><span class="asgreek">λατρεύειν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυριω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| No | **<big>[[G3361\|μη]]</big>** |
+| children, | **<big>[[G5043\|τέκνα]]</big>** |
+| no, | **<big>[[G3361\|μη]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[it is\] not | **<big>[[G3756\|ουκ]]</big>** |
+| good, | **<big>[[G0018\|αγαθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hearing | **<big>[[G0189\|ακοή]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| hear | **<big>[[G0191\|ακούω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| making | **<big>[[G4160\|ποιείν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαον]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| serve | **<big>[[G3000\|λατρεύειν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυριω]]</big>** |
 [[1Sam.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.23|<< 1 Samuel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.25|1 Samuel 2:25 >>]]</td></tr></table>
 
 

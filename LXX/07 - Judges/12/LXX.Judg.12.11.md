@@ -7,23 +7,23 @@ And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.
 After Ibzan, Elon the Zebulunite judged Israel ten years.<small><sub>**MT:**</sub></small>
 [[Judg.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.10|<< Judges 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.12|Judges 12:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judged | <big><span class="asgreek">έκρινε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Elon | <big><span class="asgreek">Αιλώμ</span></big> <sup><small><small>[[H0357]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zebulunite | <big><span class="asgreek">Ζαβουλωνίτης</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he judged | <big><span class="asgreek">έκρινεν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| judged | **<big>[[G2919\|έκρινε]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Elon | **<big>[[H0357\|Αιλώμ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Zebulunite | **<big>[[G2194\|Ζαβουλωνίτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he judged | **<big>[[G2919\|έκρινεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Judg.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.10|<< Judges 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.12|Judges 12:12 >>]]</td></tr></table>
 
 

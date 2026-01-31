@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H4961]]</small>
+<small>Aramaic form: **<big>[[H4961|מִשְׁתֶּה]]</big>**</small>
  <span class="bdbLangHebrew">‎מִשְׁתֶּה‎</span><sub>45</sub> **noun masculine**<sup>[[Gen.21.8|Gen 21:8]]</sup> 
 
 **1.** ==feast==; 

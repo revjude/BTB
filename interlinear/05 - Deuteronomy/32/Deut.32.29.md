@@ -6,14 +6,14 @@ If only they were wise, they would understand it; they would comprehend their fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.28|<< Deuteronomy 32:28]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.30|Deuteronomy 32:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>ל֥וּ </big></span><small><small><sup>[[H3863]]</sup></small></small> &#8207;| lu <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were wise  | <span class="ashebrew"><big>חָכְמ֖וּ </big></span><small><small><sup>[[H2449]]</sup></small></small> &#8207;| cha.khe.Mu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will comprehend  | <span class="ashebrew"><big>יַשְׂכִּ֣ילוּ </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| yas.Ki.lu <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֑את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will understand  | <span class="ashebrew"><big>יָבִ֖ינוּ </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| ya.Vi.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> end their  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אַחֲרִיתָֽ </big></span><small><small><sup>[[H0319]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.cha.ri.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3863\|ל֥וּ]]&#8207; </big>**| lu<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were wise  |**<big>&#8207;[[H2449\|חָכְמ֖וּ]]&#8207; </big>**| cha.khe.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will comprehend  |**<big>&#8207;[[H7919A\|יַשְׂכִּ֣ילוּ]]&#8207; </big>**| yas.Ki.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֑את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will understand  |**<big>&#8207;[[H0995\|יָבִ֖ינוּ]]&#8207; </big>**| ya.Vi.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> end their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0319\|אַחֲרִיתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.cha.ri.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.28|<< Deuteronomy 32:28]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.30|Deuteronomy 32:30 >>]]</td></tr></table>
 
 

@@ -7,16 +7,16 @@ And Abishua begat Bukki, and Bukki begat Uzzi,
 Abishua was the father of Bukki, Bukki was the father of Uzzi,<small><sub>**MT:**</sub></small>
 [[1Chr.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.4|<< 1 Chronicles 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.6|1 Chronicles 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Abishua | <big><span class="asgreek">Αβισού</span></big> <sup><small><small>[[H0050]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bukki, | <big><span class="asgreek">Βοκί</span></big> <sup><small><small>[[H1231]]</small></small></sup> |
-| Bukki | <big><span class="asgreek">Βοκί</span></big> <sup><small><small>[[H1231]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Uzzi, | <big><span class="asgreek">Οζί</span></big> <sup><small><small>[[H5813]]</small></small></sup> |
+| Abishua | **<big>[[H0050\|Αβισού]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Bukki, | **<big>[[H1231\|Βοκί]]</big>** |
+| Bukki | **<big>[[H1231\|Βοκί]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Uzzi, | **<big>[[H5813\|Οζί]]</big>** |
 [[1Chr.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.4|<< 1 Chronicles 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.6|1 Chronicles 6:6 >>]]</td></tr></table>
 
 

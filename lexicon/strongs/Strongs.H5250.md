@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נִמְשִׁי‎</span></big> **Nimshîy** <small>*(nim-shee')*</small> ==**Nimshi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎מָשָׁה‎</span><sup><small>[[H4871]]</small></sup>; extricated</small>
+**<big><span class="ashebrew">‎נִמְשִׁי‎</span></big>** **Nimshîy** <small>*(nim-shee')*</small> ==**Nimshi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H4871|‎מָשָׁה‎]]</big>**; extricated</small>
 
 $\quad$ Nimshi.
 - § Nimshi = *"rescued"*

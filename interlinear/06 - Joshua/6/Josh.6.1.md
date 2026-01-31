@@ -6,18 +6,18 @@ Now Jericho was tightly shut up because of the Israelites. No one went out and n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.15|<< Joshua 5:15]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.2|Joshua 6:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Jericho  | <span class="ashebrew"><big>וִֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ירִיחוֹ֙ </big></span><small><small><sup>[[H3405G]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> ri.Cho <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] shutting  | <span class="ashebrew"><big>סֹגֶ֣רֶת </big></span><small><small><sup>[[H5462]]</sup></small></small> &#8207;| so.Ge.ret <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and shut up  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְסֻגֶּ֔רֶת </big></span><small><small><sup>[[H5462]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.su.Ge.ret <small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֖י </big></span><small><small><sup>[[H6440I]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was one] going out  | <span class="ashebrew"><big>יוֹצֵ֖א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| yo.Tze' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was one] coming  | <span class="ashebrew"><big>בָּֽא </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Ba' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jericho  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3405G\|ירִיחוֹ֙]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] shutting  |**<big>&#8207;[[H5462\|סֹגֶ֣רֶת]]&#8207; </big>**| so.Ge.ret<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shut up  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5462\|מְסֻגֶּ֔רֶת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.su.Ge.ret<small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פְּנֵ֖י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one] going out  |**<big>&#8207;[[H3318G\|יוֹצֵ֖א]]&#8207; </big>**| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one] coming  |**<big>&#8207;[[H0935G\|בָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.15|<< Joshua 5:15]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.2|Joshua 6:2 >>]]</td></tr></table>
 
 

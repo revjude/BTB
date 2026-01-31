@@ -7,31 +7,31 @@ Ask ye now, and see whether a man doth travail with child? wherefore do I see ev
 Ask now, and see: Can a male give birth? Why then do I see every man with his hands on his stomach like a woman in labor and every face turned pale?<small><sub>**MT:**</sub></small>
 [[Jer.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ask | <big><span class="asgreek">ερωτήσατε</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| gave birth | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| a man | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I have seen | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his loin, | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| her giving birth; | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| are turned | <big><span class="asgreek">εστράφησαν</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| \[their\] faces | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| jaundice. | <big><span class="asgreek">ίκτερον</span></big> <sup><small><small>[[G7716]]</small></small></sup> |
+| Ask | **<big>[[G2065\|ερωτήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see | **<big>[[G1492\|ίδετε]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| gave birth | **<big>[[G5088\|έτεκεν]]</big>** |
+| a man | **<big>[[G0730\|άρσεν]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| I have seen | **<big>[[G3708\|εώρακα]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| man, | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his hands | **<big>[[G5495\|χείρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his loin, | **<big>[[G3751\|οσφύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| her giving birth; | **<big>[[G5088\|τικτούσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| are turned | **<big>[[G4762\|εστράφησαν]]</big>** |
+| \[their\] faces | **<big>[[G4383\|πρόσωπα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| jaundice. | **<big>[[G7716\|ίκτερον]]</big>** |
 [[Jer.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
 
 

@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Imlah</span> was the father of Micaiah, a prophet who spoke the truth to King Ahab of Israel, despite the king's displeasure.
 - A man living at the time of Divided Monarchy, first mentioned at [[1Kgs.22.8|1Ki.22.8]]; 
-- only referred to as Imlah<[[H3229]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Micaiah<[[H4321G]]>.
+- only referred to as Imlah **<big>[[H3229|יִמְלָא]]</big>**; 
+-  father of Micaiah **<big>[[H4321|מִיכָיְהוּ]]</big>**.
 
 Imlah is mentioned in the Bible as the father of the prophet Micaiah, who lived during the reign of King Ahab of Israel. Micaiah is known for his unwavering commitment to speaking the truth, even when it was unpopular or unwelcome. 
 
@@ -21,7 +21,7 @@ Although Imlah himself is not mentioned beyond being identified as Micaiah's fat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Imlah (KJV= Imla) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3229) <small>*Hebrew*</small> | 4x | [[1Ki.22.8] ... [2Ch.18.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imlah\*\|reference=1Ki.22.8;1Ki.22.9;2Ch.18.7;2Ch.18.8) |
-All Strong's for **Imlah**: \[[[H3229]]\]
+| Imlah (KJV= Imla) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3229) | 4x | [[1Ki.22.8] ... [2Ch.18.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imlah\*\|reference=1Ki.22.8;1Ki.22.9;2Ch.18.7;2Ch.18.8) |
+All entries for **Imlah**:  **<big>[[H3229|יִמְלָא]]</big>**
 #### Related Profiles:
 - **[Micaiah](H4321G)** (child)

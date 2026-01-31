@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ziklag</span> was a city allotted to Judah and Simeon that was later given to David by the Philistine king Achish \([[Josh.15.31|Jos.15.31]]; 19:5; 1Sa.27:6\).
 - A location in Philistia first mentioned at [[Josh.15.31|Jos.15.31]]; 
-- only referred to as Ziklag<[[H6860]]> \(<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ג</span>\).
+- only referred to as Ziklag **<big>[[H6860|צִקְלַג]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.37760000000001,34.87356199999998&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ziklag was a city located in the Negev region of Judah, initially allotted to th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ziklag | [<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ג</span>](H6860) <small>*Hebrew*</small> | 15x | [[Jos.15.31] ... [Neh.11.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ziklag\*\|reference=Jos.15.31;Jos.19.5;1Sa.27.6;1Sa.27.6;1Sa.30.1;1Sa.30.1;1Sa.30.1;1Sa.30.14;1Sa.30.26;2Sa.1.1;2Sa.4.10;1Ch.4.30;1Ch.12.1;1Ch.12.20;Neh.11.28) |
-All Strong's for **Ziklag**: \[[[H6860]]\]
+| Ziklag | [<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ג</span>](H6860) | 15x | [[Jos.15.31] ... [Neh.11.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ziklag\*\|reference=Jos.15.31;Jos.19.5;1Sa.27.6;1Sa.27.6;1Sa.30.1;1Sa.30.1;1Sa.30.1;1Sa.30.14;1Sa.30.26;2Sa.1.1;2Sa.4.10;1Ch.4.30;1Ch.12.1;1Ch.12.20;Neh.11.28) |
+All entries for **Ziklag**:  **<big>[[H6860|צִקְלַג]]</big>**

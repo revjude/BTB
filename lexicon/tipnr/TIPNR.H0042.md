@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Abinoam</span> was the father of Barak, the Israelite commander who, along with the prophetess Deborah, led the Israelites to victory against the Canaanite army led by Sisera.
 - A man living before Israel's Monarchy, first mentioned at [[Judg.4.6|Jdg.4.6]]; 
-- only referred to as Abinoam<[[H0042]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ינ</span>ֹ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>\); 
--  father of Barak<[[H1301]]>.
+- only referred to as Abinoam **<big>[[H0042|אֲבִינֹעַם]]</big>**; 
+-  father of Barak **<big>[[H1301|בָּרָק]]</big>**.
 
 Abinoam was the father of Barak, an Israelite commander during the time of the judges. Barak was from Kedesh in Naphtali, a region in northern Israel \([[Judg.4.6|Judges 4:6]]\). 
 
@@ -19,7 +19,7 @@ After the victory, Deborah and Barak sang a song of praise to the Lord, recounti
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abinoam | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ינ</span>ֹ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>](H0042) <small>*Hebrew*</small> | 4x | [[Jdg.4.6] ... [Jdg.5.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abinoam\*\|reference=Jdg.4.6;Jdg.4.12;Jdg.5.1;Jdg.5.12) |
-All Strong's for **Abinoam**: \[[[H0042]]\]
+| Abinoam | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ינ</span>ֹ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>](H0042) | 4x | [[Jdg.4.6] ... [Jdg.5.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abinoam\*\|reference=Jdg.4.6;Jdg.4.12;Jdg.5.1;Jdg.5.12) |
+All entries for **Abinoam**:  **<big>[[H0042|אֲבִינֹעַם]]</big>**
 #### Related Profiles:
 - **[Barak](H1301)** (child)

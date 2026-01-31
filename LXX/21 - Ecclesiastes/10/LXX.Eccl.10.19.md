@@ -7,23 +7,23 @@ A feast is made for laughter, and wine maketh merry: but money answereth all [th
 A feast is prepared for laughter, and wine makes life merry, but money is the answer for everything.<small><sub>**MT:**</sub></small>
 [[Eccl.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.18|<< Ecclesiastes 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.20|Ecclesiastes 10:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| laughter | <big><span class="asgreek">γέλωτα</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
-| they make | <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| bread, | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be glad | <big><span class="asgreek">ευφρανθήναι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| for \[the\] living | <big><span class="asgreek">ζώντας</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| all will heed. | <big><span class="asgreek">επακούσεται</span></big> <sup><small><small>[[G1873]]</small></small></sup> <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| For | **<big>[[G1519\|εις]]</big>** |
+| laughter | **<big>[[G1071\|γέλωτα]]</big>** |
+| they make | **<big>[[G4160\|ποιούσιν]]</big>** |
+| bread, | **<big>[[G0740\|άρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be glad | **<big>[[G2165\|ευφρανθήναι]]</big>** |
+| for \[the\] living | **<big>[[G2198\|ζώντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| money | **<big>[[G0694\|αργυρίου]]</big>** |
+| all will heed. | **<big>[[G1873\|επακούσεται]]</big>** **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
 [[Eccl.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.18|<< Ecclesiastes 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.20|Ecclesiastes 10:20 >>]]</td></tr></table>
 
 

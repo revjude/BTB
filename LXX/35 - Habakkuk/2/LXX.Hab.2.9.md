@@ -7,25 +7,25 @@ Woe to him that coveteth an evil covetousness to his house, that he may set his 
 Woe to him who builds his house by unjust gain, to place his nest on high and escape the hand of disaster!<small><sub>**MT:**</sub></small>
 [[Hab.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.8|<< Habakkuk 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.10|Habakkuk 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O, | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overabounding | <big><span class="asgreek">πλεονεκτών</span></big> <sup><small><small>[[G4122]]</small></small></sup> |
-| wealth | <big><span class="asgreek">πλεονεξίαν</span></big> <sup><small><small>[[G4124]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακήν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to arrange | <big><span class="asgreek">τάξαι</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| his nest | <big><span class="asgreek">νοσσιάν</span></big> <sup><small><small>[[G3555]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to pull out | <big><span class="asgreek">εκσπασθήναι</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of evils. | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| O, | **<big>[[G5599\|ω]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| overabounding | **<big>[[G4122\|πλεονεκτών]]</big>** |
+| wealth | **<big>[[G4124\|πλεονεξίαν]]</big>** |
+| evil | **<big>[[G2556\|κακήν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his house, | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to arrange | **<big>[[G5021\|τάξαι]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] height | **<big>[[G5311\|ύψος]]</big>** |
+| his nest | **<big>[[G3555\|νοσσιάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to pull out | **<big>[[G7145\|εκσπασθήναι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of evils. | **<big>[[G2556\|κακών]]</big>** |
 [[Hab.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.8|<< Habakkuk 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.10|Habakkuk 2:10 >>]]</td></tr></table>
 
 

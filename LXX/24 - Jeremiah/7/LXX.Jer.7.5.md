@@ -7,27 +7,27 @@ For if ye throughly amend your ways and your doings; if ye throughly execute jud
 For if you really correct your ways and deeds, if you act justly toward one another,<small><sub>**MT:**</sub></small>
 [[Jer.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.4|<< Jeremiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.6|Jeremiah 7:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in setting right, | <big><span class="asgreek">διορθούντες</span></big> <sup><small><small>[[G6937]]</small></small></sup> |
-| you should set right | <big><span class="asgreek">διορθώσητε</span></big> <sup><small><small>[[G6937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your practices, | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in doing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you should execute | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| in setting right, | **<big>[[G6937\|διορθούντες]]</big>** |
+| you should set right | **<big>[[G6937\|διορθώσητε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your practices, | **<big>[[G7461\|επιτηδεύματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in doing | **<big>[[G4160\|ποιούντες]]</big>** |
+| you should execute | **<big>[[G4160\|ποιήσητε]]</big>** |
+| equity | **<big>[[G2920\|κρίσιν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| a man | **<big>[[G0435\|ανδρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.4|<< Jeremiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.6|Jeremiah 7:6 >>]]</td></tr></table>
 
 

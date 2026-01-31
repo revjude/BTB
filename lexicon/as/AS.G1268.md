@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δια-νέμω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">חלק</span> <small><sup>[[H2505]]</sup></small>, [[LXX.Deut.29.25|De 29:26(25)]] \* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δια-νέμω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H2505|חלק]]</big>**, [[LXX.Deut.29.25|De 29:26(25)]] \* ;\]</span> </span>
 <span class="asitalic">to distribute, divide</span>: pass., <span class="asitalic">to be spread about</span>, [[Acts.4.17|Ac 4:17]].†
 
 **Abbott-Smith References**

@@ -7,35 +7,35 @@ And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in t
 The LORD will make Himself known to Egypt, and on that day Egypt will acknowledge the LORD. They will worship with sacrifices and offerings; they will make vows to the LORD and fulfill them.<small><sub>**MT:**</sub></small>
 [[Isa.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.20|<< Isaiah 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.22|Isaiah 19:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made known | <big><span class="asgreek">γνωστός</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians; | <big><span class="asgreek">Αιγυπτίοις</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day; | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall make | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a gift \[offering\]; | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall vow | <big><span class="asgreek">εύξονται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| vows | <big><span class="asgreek">ευχάς</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall render \[them\]. | <big><span class="asgreek">αποδώσουσι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| made known | **<big>[[G1110\|γνωστός]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Egyptians; | **<big>[[G0125\|Αιγυπτίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day; | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall make | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| a sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a gift \[offering\]; | **<big>[[G1435\|δώρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall vow | **<big>[[G2172\|εύξονται]]</big>** |
+| vows | **<big>[[G2171\|ευχάς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall render \[them\]. | **<big>[[G0591\|αποδώσουσι]]</big>** |
 [[Isa.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.20|<< Isaiah 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.22|Isaiah 19:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלִשְׁתִּי‎</span></big> **Pᵉlishtîy** <small>*(pel-ish-tee')*</small> ==**Philistine**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎פְּלֶשֶׁת‎</span><sup><small>[[H6429]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּלִשְׁתִּי‎</span></big>** **Pᵉlishtîy** <small>*(pel-ish-tee')*</small> ==**Philistine**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H6429|‎פְּלֶשֶׁת‎]]</big>**</small>
 
 $\quad$ Philistine.
 - § Philistine = *"immigrants"*

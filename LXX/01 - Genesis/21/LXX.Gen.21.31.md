@@ -7,21 +7,21 @@ Wherefore he called that place Beersheba; because there they sware both of them.
 So that place was called Beersheba, because it was there that the two of them swore an oath.<small><sub>**MT:**</sub></small>
 [[Gen.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.30|<< Genesis 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.32|Genesis 21:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was named | <big><span class="asgreek">επωνόμασε</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| Well | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| of \[the\] Oath, | <big><span class="asgreek">ορκισμού</span></big> <sup><small><small>[[G8548]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| swore by an oath | <big><span class="asgreek">ώμοσαν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| was named | **<big>[[G2028\|επωνόμασε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of that place | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| Well | **<big>[[G5421\|φρέαρ]]</big>** |
+| of \[the\] Oath, | **<big>[[G8548\|ορκισμού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| swore by an oath | **<big>[[G3660\|ώμοσαν]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
 [[Gen.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.30|<< Genesis 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.32|Genesis 21:32 >>]]</td></tr></table>
 
 

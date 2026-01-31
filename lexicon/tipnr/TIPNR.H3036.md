@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jadon</span> the Meronothite was one of the people who helped repair the walls of Jerusalem during Nehemiah's time \([[Neh.3.7|Neh.3.7]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Neh.3.7|Neh.3.7]]; 
-- only referred to as Jadon<[[H3036]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Jadon **<big>[[H3036|יָדוֹן]]</big>**.
 
 Jadon the Meronothite is mentioned in [[Neh.3.7|Nehemiah 3:7]] as one of the people who participated in the rebuilding of the walls of Jerusalem under Nehemiah's leadership. He is described as working alongside Melatiah the Gibeonite and the men of Gibeon and Mizpah. 
 
@@ -16,5 +16,5 @@ No other specific details are provided about Jadon's life or personal characteri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jadon | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H3036) <small>*Hebrew*</small> | 1x | [Neh.3.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jadon\*\|reference=Neh.3.7) |
-All Strong's for **Jadon**: \[[[H3036]]\]
+| Jadon | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H3036) | 1x | [Neh.3.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jadon\*\|reference=Neh.3.7) |
+All entries for **Jadon**:  **<big>[[H3036|יָדוֹן]]</big>**

@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nathan</span> is listed among the Israelites who had married foreign women during the Exile and pledged to put them away.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.39|Ezr.10.39]]; 
-- only referred to as Nathan<[[H5416L]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Nathan **<big>[[H5416|נָתָן]]</big>**.
 
 Nathan is mentioned in [[Ezra.10.39|Ezra 10:39]] as one of the Israelites who had married foreign women during the Babylonian Exile. This event took place after the return of the exiles to Jerusalem under the leadership of Ezra. 
 
@@ -16,5 +16,5 @@ The inclusion of Nathan in this list highlights the widespread nature of the pro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416L) <small>*Hebrew*</small> | 1x | [Ezr.10.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Ezr.10.39) |
-All Strong's for **Nathan**: \[[[H5416L]]\]
+| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416L) | 1x | [Ezr.10.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Ezr.10.39) |
+All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>**

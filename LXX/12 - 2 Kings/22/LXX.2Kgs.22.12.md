@@ -7,39 +7,39 @@ And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Ac
 and commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah the servant of the king:<small><sub>**MT:**</sub></small>
 [[2Kgs.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.11|<< 2 Kings 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.13|2 Kings 22:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hilkiah | <big><span class="asgreek">Χελκία</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahikam | <big><span class="asgreek">Αχικάμ</span></big> <sup><small><small>[[H0296]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shaphan, | <big><span class="asgreek">Σαπφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Achbor | <big><span class="asgreek">Αχοβώρ</span></big> <sup><small><small>[[H5907]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Michaiah, | <big><span class="asgreek">Μιχαίου</span></big> <sup><small><small>[[H4320]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shaphan | <big><span class="asgreek">Σαπφάν</span></big> <sup><small><small>[[H8227b]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματεί</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Asahiah | <big><span class="asgreek">Ασαϊα</span></big> <sup><small><small>[[H6222]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">δούλω</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Hilkiah | **<big>[[H2518\|Χελκία]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| priest, | **<big>[[G2409\|ιερεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ahikam | **<big>[[H0296\|Αχικάμ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Shaphan, | **<big>[[H8227b\|Σαπφάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Achbor | **<big>[[H5907\|Αχοβώρ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Michaiah, | **<big>[[H4320\|Μιχαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Shaphan | **<big>[[H8227b\|Σαπφάν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Asahiah | **<big>[[H6222\|Ασαϊα]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| servant | **<big>[[G1401\|δούλω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[2Kgs.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.11|<< 2 Kings 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.13|2 Kings 22:13 >>]]</td></tr></table>
 
 

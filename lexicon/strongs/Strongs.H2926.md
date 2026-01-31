@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָלַל‎</span></big> **ṭâlal** <small>*(taw-lal')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָלַל‎</span></big>** **ṭâlal** <small>*(taw-lal')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cover.
@@ -6,4 +6,4 @@ $\quad$ cover.
 
 **1)** (Piel) to cover with a roof, cover over, roof
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπατάω</span><sup><small>[[G0538]]</small></sup> · <span class="asgreek">ἐξαπατάω</span><sup><small>[[G1818]]</small></sup> · <span class="asgreek">παραλογίζομαι</span><sup><small>[[G3884]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup>
+<small>See Greek: </small>**<big>[[G0538|ἀπατάω]]</big>** · **<big>[[G1818|ἐξαπατάω]]</big>** · **<big>[[G3884|παραλογίζομαι]]</big>** · **<big>[[G4105|πλανάω]]</big>**

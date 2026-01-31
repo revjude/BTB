@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H5068]]</small>
+<small>Hebrew form: **<big>[[H5068|נָדַב]]</big>**</small>
  [<span class="bdbLangAramaic">‎נְדַב‎</span>] **verb Hithpa\`el** ==volunteer, offer freely== ([[BDB#Tg|ᵑ7]] Biblical Hebrew  <span class="bdbLangHebrew">‎נָדַב‎</span>); — ***Perfect*** 3 masculine plural <span class="bdbLangAramaic">‎הִתְנַדַּ֫בוּ‎</span> [[Ezra.7.15|Ezra 7:15]] ***Infinitive*** <span class="bdbLangAramaic">‎הִתְנַדָּבוּת‎</span> v[[Ezra.7.16|Ezra 7:16]] ***Participle*** v[[Ezra.7.13|Ezra 7:13]] plural <span class="bdbLangAramaic">‎מִתְנַדַּב‎</span> v[[Ezra.7.13|Ezra 7:13]] plural <span class="bdbLangAramaic">‎דְּבִין‎</span>- v[[Ezra.7.16|Ezra 7:16]] — 
 
 **1.** ***volunteer***, followed by infinitive, [[Ezra.7.13|Ezra 7:13]]. 

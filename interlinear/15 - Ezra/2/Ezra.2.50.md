@@ -6,18 +6,18 @@ the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Asnah  | <span class="ashebrew"><big>אַסְנָ֥ה </big></span><small><small><sup>[[H0619]]</sup></small></small> &#8207;| 'as.Nah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meunim  [^1] | <span class="ashebrew"><big>מְעוּנִ֖ים </big></span><small><small><sup>[[H4586H]]</sup></small></small> &#8207;[^2] | me.'i.nim <small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nephussim  [^3] | <span class="ashebrew"><big>נְפוּסִֽים </big></span><small><small><sup>[[H5304]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;[^4] | ne.fi.sim <small><sup>[[HNpt]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asnah  |**<big>&#8207;[[H0619\|אַסְנָ֥ה]]&#8207; </big>**| 'as.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meunim  [^1]|**<big>&#8207;[[H4586H\|מְעוּנִ֖ים]]&#8207; </big>**[^2] | me.'i.nim<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nephussim  [^3]|**<big>&#8207;[[H5304\|נְפוּסִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | ne.fi.sim<small><sup>[[HNpt]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
-[^1]: ==K==: **Meinim ** | <small><sup>[[H4586H]]</sup></small> <span class="ashebrew"><big>מְעִינִים</big></span>  | me.'i.nim<small><sup>[[HNpl]]</sup></small> 
+[^1]: ==K==: Meinim  | **<big>[[H4586H|מְעִינִים]]</big> ** | me.'i.nim<small><sup>[[HNpl]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>מְעיּנִ֖ים</big></span>**
-[^3]: ==K==: **Nephissim ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H5304]]</sup></small> <span class="ashebrew"><big>נְפִיסִים</big></span>  | ne.fi.sim<small><sup>[[HNpt]]</sup></small> 
+[^3]: ==K==: Nephissim  | **<big>[[H9016|׃]]</big><big>[[H5304|נְפִיסִים]]</big> ** | ne.fi.sim<small><sup>[[HNpt]]</sup></small> 
 [^4]: ==L== spelled: **<span class="ashebrew"><big>נְפיּסִֽים\׃</big></span>**
 

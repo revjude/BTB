@@ -11,33 +11,33 @@ And the LORD took him outside and said, “Now look to the heavens and count the
 > $\quad$ referenced by: [[Rom.4.18|Rom 4:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he led | <big><span class="asgreek">εξήγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Look up | <big><span class="asgreek">ανάβλεψον</span></big> <sup><small><small>[[G0308]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| count out | <big><span class="asgreek">αρίθμησον</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars, | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you are able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to count | <big><span class="asgreek">εξαριθμήσαι</span></big> <sup><small><small>[[G7300]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed. | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And he led | **<big>[[G1806\|εξήγαγε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| outside, | **<big>[[G1854\|έξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Look up | **<big>[[G0308\|ανάβλεψον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| count out | **<big>[[G0705\|αρίθμησον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stars, | **<big>[[G0792\|αστέρας]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you are able | **<big>[[G1410\|δυνήση]]</big>** |
+| to count | **<big>[[G7300\|εξαριθμήσαι]]</big>** |
+| them! | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed. | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.4|<< Genesis 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.6|Genesis 15:6 >>]]</td></tr></table>
 
 

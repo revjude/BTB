@@ -7,26 +7,26 @@ And tookest thy broidered garments, and coveredst them: and thou hast set mine o
 You took your embroidered garments to cover them, and you set My oil and incense before them.<small><sub>**MT:**</sub></small>
 [[Ezek.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.17|<< Ezekiel 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.19|Ezekiel 16:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you took | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clothes | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| colored | <big><span class="asgreek">ποικίλον</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covered them. | <big><span class="asgreek">περιέβαλες</span></big> <sup><small><small>[[G4016]]</small></small></sup> <big><span class="asgreek">αυτα</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my oil | <big><span class="asgreek">έλαιόν</span></big> <sup><small><small>[[G1637]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my incense | <big><span class="asgreek">θυμίαμά</span></big> <sup><small><small>[[G2368]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you put | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| their face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you took | **<big>[[G2983\|έλαβες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| clothes | **<big>[[G2441\|ιματισμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| colored | **<big>[[G4164\|ποικίλον]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covered them. | **<big>[[G4016\|περιέβαλες]]</big>** **<big>[[G1473\|αυτα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my oil | **<big>[[G1637\|έλαιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my incense | **<big>[[G2368\|θυμίαμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you put | **<big>[[G5087\|έθηκας]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| their face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.17|<< Ezekiel 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.19|Ezekiel 16:19 >>]]</td></tr></table>
 
 

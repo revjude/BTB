@@ -7,51 +7,51 @@ And their drink offerings shall be half an hin of wine unto a bullock, and the t
 Their drink offerings shall be half a hin of wine with each bull, a third of a hin with the ram, and a quarter hin with each lamb. This is the monthly burnt offering to be made at each new moon throughout the year.<small><sub>**MT:**</sub></small>
 [[Num.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.13|<< Numbers 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.15|Numbers 28:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[To\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their libation | <big><span class="asgreek">σπονδή</span></big> <sup><small><small>[[G9145]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hin \[of wine\] | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτον</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hin \[of wine\] | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τέταρτον</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hin | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb | <big><span class="asgreek">αμνώ</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| month | <big><span class="asgreek">μήνα</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| throughout | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| months | <big><span class="asgreek">μήνας</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year. | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| \[To\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their libation | **<big>[[G9145\|σπονδή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hin \[of wine\] | **<big>[[G9824\|ιν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| third | **<big>[[G5154\|τρίτον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hin \[of wine\] | **<big>[[G9824\|ιν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| ram | **<big>[[G8096\|κριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fourth | **<big>[[G5067\|τέταρτον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hin | **<big>[[G9824\|ιν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| lamb | **<big>[[G0286\|αμνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| of wine | **<big>[[G3631\|οίνου]]</big>** |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| month | **<big>[[G3376\|μήνα]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| throughout | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| months | **<big>[[G3376\|μήνας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| year. | **<big>[[G1763\|ενιαυτού]]</big>** |
 [[Num.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.13|<< Numbers 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.15|Numbers 28:15 >>]]</td></tr></table>
 
 

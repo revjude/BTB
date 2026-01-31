@@ -7,24 +7,24 @@ For the LORD [is] our judge, the LORD [is] our lawgiver, the LORD [is] our king;
 For the LORD is our Judge, the LORD is our lawgiver, the LORD is our King. It is He who will save us.<small><sub>**MT:**</sub></small>
 [[Isa.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.21|<< Isaiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.23|Isaiah 33:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| my God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is great; | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass me by | <big><span class="asgreek">παρελεύσεταί</span></big> <sup><small><small>[[G3928]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| our judge; | <big><span class="asgreek">κριτής</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| our ruler; | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| our king; | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall deliver us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| my God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is great; | **<big>[[G3173\|μέγας]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| pass me by | **<big>[[G3928\|παρελεύσεταί]]</big>** **<big>[[G1473\|με]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| our judge; | **<big>[[G2923\|κριτής]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| our ruler; | **<big>[[G0758\|άρχων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| our king; | **<big>[[G0935\|βασιλεύς]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| shall deliver us. | **<big>[[G1473\|ημάς]]</big>** **<big>[[G4982\|σώσει]]</big>** |
 [[Isa.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.21|<< Isaiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.23|Isaiah 33:23 >>]]</td></tr></table>
 
 

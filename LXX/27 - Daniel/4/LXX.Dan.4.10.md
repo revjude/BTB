@@ -7,29 +7,29 @@ Thus [were] the visions of mine head in my bed; I saw, and behold a tree in the 
 In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great.<small><sub>**MT:**</sub></small>
 [[Dan.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.9|<< Daniel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.11|Daniel 4:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| visions | <big><span class="asgreek">οράσεις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bed | <big><span class="asgreek">κοίτης</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I viewed | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a tree | <big><span class="asgreek">δένδρον</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] great. | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| visions | **<big>[[G3706\|οράσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my head | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my bed | **<big>[[G2845\|κοίτης]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I viewed | **<big>[[G2334\|εθεώρουν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a tree | **<big>[[G1186\|δένδρον]]</big>** |
+| \[was\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] great. | **<big>[[G4183\|πολύ]]</big>** |
 [[Dan.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.9|<< Daniel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.11|Daniel 4:11 >>]]</td></tr></table>
 
 

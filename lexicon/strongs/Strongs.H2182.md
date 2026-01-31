@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָנוֹחַ‎</span></big> **Zânôwach** <small>*(zaw-no'-akh)*</small> ==**Zanoah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎זָנַח‎</span><sup><small>[[H2186]]</small></sup>; rejected</small>
+**<big><span class="ashebrew">‎זָנוֹחַ‎</span></big>** **Zânôwach** <small>*(zaw-no'-akh)*</small> ==**Zanoah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2186|‎זָנַח‎]]</big>**; rejected</small>
 
 $\quad$ Zanoah.
 - § Zanoah = *"cast off"*

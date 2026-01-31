@@ -1,5 +1,4 @@
-<span class="ashebrew">‎[כִּי עַל] כֵּן‎</span> <small>***([ki al] ken)***</small> ==**as**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-meaning of: <small>[[H3588A]]</small> 
+<small>meaning of:</small> <small>**<big>[[H3588A|כִּי]]</big>**</small> 
 
 - adv
 -  forasmuch as, since

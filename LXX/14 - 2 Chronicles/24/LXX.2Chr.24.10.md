@@ -7,26 +7,26 @@ And all the princes and all the people rejoiced, and brought in, and cast into t
 All the officers and all the people rejoiced and brought their contributions, and they dropped them in the chest until it was full.<small><sub>**MT:**</sub></small>
 [[2Chr.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.9|<< 2 Chronicles 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.11|2 Chronicles 24:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were glad | <big><span class="asgreek">ευφράνθησαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people; | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they carried in, | <big><span class="asgreek">εισέφερον</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cast | <big><span class="asgreek">ενέβαλλον</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| container, | <big><span class="asgreek">γλωσσόκομον</span></big> <sup><small><small>[[G1101]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it was filled. | <big><span class="asgreek">επληρώθη</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were glad | **<big>[[G2165\|ευφράνθησαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people; | **<big>[[G2992\|λαός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they carried in, | **<big>[[G1533\|εισέφερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cast | **<big>[[G1685\|ενέβαλλον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| container, | **<big>[[G1101\|γλωσσόκομον]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| it was filled. | **<big>[[G4137\|επληρώθη]]</big>** |
 [[2Chr.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.9|<< 2 Chronicles 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.11|2 Chronicles 24:11 >>]]</td></tr></table>
 
 

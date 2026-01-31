@@ -7,36 +7,36 @@ But the seventh [year] thou shalt let it rest and lie still; that the poor of th
 but in the seventh year you must let it rest and lie fallow, so that the poor among your people may eat from the field and the wild animals may consume what they leave. Do the same with your vineyard and olive grove.<small><sub>**MT:**</sub></small>
 [[Exod.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but on the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| a release \[from work\] | <big><span class="asgreek">άφεσιν</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spare | <big><span class="asgreek">ανήσεις</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">έδονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχοί</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your nation | <big><span class="asgreek">έθνους</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">υπολειπόμενα</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field. | <big><span class="asgreek">άγρια</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with your vineyard, | <big><span class="asgreek">αμπελώνά</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your olive grove. | <big><span class="asgreek">ελαιώνά</span></big> <sup><small><small>[[G1638]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but on the | **<big>[[G3588\|τω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
+| a release \[from work\] | **<big>[[G0859\|άφεσιν]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spare | **<big>[[G0447\|ανήσεις]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall eat | **<big>[[G2068\|έδονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| poor | **<big>[[G4434\|πτωχοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your nation | **<big>[[G1484\|έθνους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| being left behind | **<big>[[G5275\|υπολειπόμενα]]</big>** |
+| of them | **<big>[[G1473\|αυτων]]</big>** |
+| shall eat | **<big>[[G2068\|έδεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| of the | **<big>[[G3588\|τα]]</big>** |
+| field. | **<big>[[G0068\|άγρια]]</big>** |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| with your vineyard, | **<big>[[G0290\|αμπελώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your olive grove. | **<big>[[G1638\|ελαιώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Exod.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
 

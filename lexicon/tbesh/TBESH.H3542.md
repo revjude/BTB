@@ -1,4 +1,3 @@
-<span class="asaramaic">‎כָּה‎</span> <small>***(kah)***</small> ==**thus**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-Aramaic of: <small>[[H3541]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3541|כֹּה]]</big>**</small> 
 
-- Aramaic of <i>koh</i> (<span class='ashebrew'>‎כ‎</span>ֹּ<span class='ashebrew'>‎ה‎</span> "thus" [[H3541]])
+- Aramaic of <i>koh</i> (<span class='ashebrew'>‎כ‎</span>ֹּ<span class='ashebrew'>‎ה‎</span> "thus" **<big>[[H3541|כֹּה]]</big>**)

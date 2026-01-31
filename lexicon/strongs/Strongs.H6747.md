@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צַלַּחַת‎</span></big> **tsallachath** <small>*(tsal-lakh'-ath)*</small> ==**dish**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎צָלַח‎</span><sup><small>[[H6743]]</small></sup></small>
+**<big><span class="ashebrew">‎צַלַּחַת‎</span></big>** **tsallachath** <small>*(tsal-lakh'-ath)*</small> ==**dish**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6743|‎צָלַח‎]]</big>**</small>
 
 $\quad$ bosom, dish.
 - ***something advanced*** or ***deep***, i.e. ***a bowl***
@@ -7,4 +7,4 @@ $\quad$ bosom, dish.
 
 **1)** dish, bowl
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κόλπος</span><sup><small>[[G2859]]</small></sup>
+<small>See Greek: </small>**<big>[[G2859|κόλπος]]</big>**

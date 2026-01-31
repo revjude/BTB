@@ -7,18 +7,18 @@ For he hath founded it upon the seas, and established it upon the floods.
 For He has founded it upon the seas and established it upon the waters.<small><sub>**MT:**</sub></small>
 [[Ps.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.1|<< Psalm 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.3|Psalm 24:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| seas | <big><span class="asgreek">θαλασσών</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| founded | <big><span class="asgreek">εθεμελίωσεν</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμών</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| he prepared | <big><span class="asgreek">ητοίμασεν</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He | **<big>[[G1473\|αυτός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| seas | **<big>[[G2281\|θαλασσών]]</big>** |
+| founded | **<big>[[G2311\|εθεμελίωσεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| rivers | **<big>[[G4215\|ποταμών]]</big>** |
+| he prepared | **<big>[[G2090\|ητοίμασεν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ps.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.1|<< Psalm 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.3|Psalm 24:3 >>]]</td></tr></table>
 
 

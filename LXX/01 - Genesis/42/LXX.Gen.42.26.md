@@ -7,17 +7,17 @@ And they laded their asses with the corn, and departed thence.
 and they loaded the grain on their donkeys and departed.<small><sub>**MT:**</sub></small>
 [[Gen.42.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.25|<< Genesis 42:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.27|Genesis 42:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placing | <big><span class="asgreek">επιθέντες</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grain | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their donkeys, | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from there. | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| placing | **<big>[[G2007\|επιθέντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| grain | **<big>[[G4621\|σίτον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their donkeys, | **<big>[[G3688\|όνους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they went forth | **<big>[[G0565\|απήλθον]]</big>** |
+| from there. | **<big>[[G1564\|εκείθεν]]</big>** |
 [[Gen.42.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.25|<< Genesis 42:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.27|Genesis 42:27 >>]]</td></tr></table>
 
 

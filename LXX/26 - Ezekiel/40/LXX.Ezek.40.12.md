@@ -7,32 +7,32 @@ The space also before the little chambers [was] one cubit [on this side], and th
 In front of each gate chamber was a wall one cubit high, and the gate chambers were six cubits square.<small><sub>**MT:**</sub></small>
 [[Ezek.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.11|<< Ezekiel 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.13|Ezekiel 40:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubit | <big><span class="asgreek">πήχυς</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| assembling | <big><span class="asgreek">επισυναγόμενος</span></big> <sup><small><small>[[G1996]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibules; | <big><span class="asgreek">θεείμ</span></big> <sup><small><small>[[G7645]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| border | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G8554]]</small></small></sup> |
-| on this side | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on that side. | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibule -- | <big><span class="asgreek">θεέ</span></big> <sup><small><small>[[G7645]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| on this side, | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| on that side. | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cubit | **<big>[[G4083\|πήχυς]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| assembling | **<big>[[G1996\|επισυναγόμενος]]</big>** |
+| in front of | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| vestibules; | **<big>[[G7645\|θεείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| border | **<big>[[G8554\|όρος]]</big>** |
+| on this side | **<big>[[G6033\|ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on that side. | **<big>[[G6033\|ένθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| vestibule -- | **<big>[[G7645\|θεέ]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| on this side, | **<big>[[G6033\|ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| on that side. | **<big>[[G6033\|ένθεν]]</big>** |
 [[Ezek.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.11|<< Ezekiel 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.13|Ezekiel 40:13 >>]]</td></tr></table>
 
 

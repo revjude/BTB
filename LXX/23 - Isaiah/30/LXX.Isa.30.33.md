@@ -11,33 +11,33 @@ For Topheth has long been prepared; it has been made ready for the king. Its fun
 > $\quad$ referenced by: [[Rev.19.20|Rev 19:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[some\] days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| shall be exacted | <big><span class="asgreek">απαιτηθήση</span></big> <sup><small><small>[[G0523]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was it prepared | <big><span class="asgreek">ητοιμάσθη</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| to reign? | <big><span class="asgreek">βασιλεύειν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| a deep | <big><span class="asgreek">βαθείαν</span></big> <sup><small><small>[[G0901]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| being situated near | <big><span class="asgreek">κείμενα</span></big> <sup><small><small>[[G2749]]</small></small></sup> |
-| a fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a ravine | <big><span class="asgreek">φάραγξ</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| sulphur | <big><span class="asgreek">θείου</span></big> <sup><small><small>[[G2303]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιομένη</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| For you | **<big>[[G1473\|συ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[some\] days | **<big>[[G2250\|ημερών]]</big>** |
+| shall be exacted | **<big>[[G0523\|απαιτηθήση]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| was it prepared | **<big>[[G2090\|ητοιμάσθη]]</big>** |
+| to reign? | **<big>[[G0936\|βασιλεύειν]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| a deep | **<big>[[G0901\|βαθείαν]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| being situated near | **<big>[[G2749\|κείμενα]]</big>** |
+| a fire, | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a ravine | **<big>[[G5327\|φάραγξ]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| sulphur | **<big>[[G2303\|θείου]]</big>** |
+| burning | **<big>[[G2545\|καιομένη]]</big>** |
 [[Isa.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
 
 

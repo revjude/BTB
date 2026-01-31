@@ -7,33 +7,33 @@ When I shall bring again their captivity, the captivity of Sodom and her daughte
 But I will restore Sodom and her daughters from captivity, as well as Samaria and her daughters. And I will restore you along with them.<small><sub>**MT:**</sub></small>
 [[Ezek.16.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rejection, | <big><span class="asgreek">αποστροφάς</span></big> <sup><small><small>[[G6493]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rejection | <big><span class="asgreek">αποστροφήν</span></big> <sup><small><small>[[G6493]]</small></small></sup> |
-| of Sodom | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughters; | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rejection of | <big><span class="asgreek">αποστροφήν</span></big> <sup><small><small>[[G6493]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her daughters; | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rejection | <big><span class="asgreek">αποστροφήν σου</span></big> <sup><small><small>[[G6493]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their rejection, | **<big>[[G6493\|αποστροφάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rejection | **<big>[[G6493\|αποστροφήν]]</big>** |
+| of Sodom | **<big>[[G4670\|Σοδόμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her daughters; | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rejection of | **<big>[[G6493\|αποστροφήν]]</big>** |
+| Samaria | **<big>[[G4541\|Σαμαρείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her daughters; | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your rejection | **<big>[[G6493\|αποστροφήν σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of them; | **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.16.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And they that know thy name will put their trust in thee: for thou, LORD, hast n
 Those who know Your name trust in You, for You, O LORD, have not forsaken those who seek You.<small><sub>**MT:**</sub></small>
 [[Ps.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.9|<< Psalm 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.11|Psalm 9:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπισάτωσαν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γινώσκοντες</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you abandoned not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγκατέλιπες</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking after | <big><span class="asgreek">εκζητούντάς</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| hope | **<big>[[G1679\|ελπισάτωσαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| knowing | **<big>[[G1097\|γινώσκοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you abandoned not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1459\|εγκατέλιπες]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| seeking after | **<big>[[G1567\|εκζητούντάς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Ps.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.9|<< Psalm 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.11|Psalm 9:11 >>]]</td></tr></table>
 
 

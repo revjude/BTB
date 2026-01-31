@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָצַל‎</span></big> **ʼâtsal** <small>*(aw-tsal')*</small> ==**to reserve**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to join; used only as a denominative from <span class="ashebrew">‎אֵצֶל‎</span><sup><small>[[H0681]]</small></sup></small>
+**<big><span class="ashebrew">‎אָצַל‎</span></big>** **ʼâtsal** <small>*(aw-tsal')*</small> ==**to reserve**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to join; used only as a denominative from **<big>[[H0681|‎אֵצֶל‎]]</big>**</small>
 
 $\quad$ keep, reserve, straiten, take.
 - ***to separate***
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal) to reserve, set apart, withhold
 $\quad$ **1b)** (Niphal) to be withdrawn
 $\quad$ **1c)** (Hiphil) to withdraw
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ὀκνέω</span><sup><small>[[G3635]]</small></sup> · <span class="asgreek">ὑπολείπω</span><sup><small>[[G5275]]</small></sup>
+<small>See Greek: </small>**<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G3635|ὀκνέω]]</big>** · **<big>[[G5275|ὑπολείπω]]</big>**

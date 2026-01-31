@@ -1,4 +1,4 @@
-form of: <small>[[G3306]]</small> 
+form of: <small>**<big>[[G3306|μένω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μνάομαι==</span></b>, 

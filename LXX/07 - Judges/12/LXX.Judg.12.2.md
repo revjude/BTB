@@ -7,35 +7,35 @@ And Jephthah said unto them, I and my people were at great strife with the child
 But Jephthah replied, “My people and I had a serious conflict with the Ammonites, and when I called, you did not save me out of their hands.<small><sub>**MT:**</sub></small>
 [[Judg.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.1|<< Judges 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.3|Judges 12:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jephthah said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| pleading | <big><span class="asgreek">αντιδικών</span></big> <sup><small><small>[[G6362]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| humbled | <big><span class="asgreek">εταπείνουν</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I yelled out | <big><span class="asgreek">εβόησα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| deliver | <big><span class="asgreek">εσώσατέ</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| their hand. | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jephthah said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2422\|Ιεφθάε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| pleading | **<big>[[G6362\|αντιδικών]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| humbled | **<big>[[G5013\|εταπείνουν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I yelled out | **<big>[[G0994\|εβόησα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| deliver | **<big>[[G4982\|εσώσατέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| their hand. | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Judg.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.1|<< Judges 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.3|Judges 12:3 >>]]</td></tr></table>
 
 

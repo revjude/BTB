@@ -6,16 +6,16 @@ They raise their voices, they shout for joy; from the west they proclaim the maj
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they  | <span class="ashebrew"><big>הֵ֛מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will lift up  | <span class="ashebrew"><big>יִשְׂא֥וּ </big></span><small><small><sup>[[H5375N]]</sup></small></small> &#8207;| yis.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voice their  | <span class="ashebrew"><big>קוֹלָ֖ </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ko.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will shout for joy  | <span class="ashebrew"><big>יָרֹ֑נּוּ </big></span><small><small><sup>[[H7442B]]</sup></small></small> &#8207;| ya.Ro.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] majesty of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גְא֣וֹן </big></span><small><small><sup>[[H1347]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> g.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will cry aloud  | <span class="ashebrew"><big>צָהֲל֖וּ </big></span><small><small><sup>[[H6670A]]</sup></small></small> &#8207;| tza.ha.Lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] west  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יָּֽם </big></span><small><small><sup>[[H3220H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֛מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will lift up  |**<big>&#8207;[[H5375N\|יִשְׂא֥וּ]]&#8207; </big>**| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice their  |**<big>&#8207;[[H6963A\|קוֹלָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ko.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will shout for joy  |**<big>&#8207;[[H7442B\|יָרֹ֑נּוּ]]&#8207; </big>**| ya.Ro.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] majesty of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1347\|גְא֣וֹן]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will cry aloud  |**<big>&#8207;[[H6670A\|צָהֲל֖וּ]]&#8207; </big>**| tza.ha.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] west  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3220H\|יָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
 

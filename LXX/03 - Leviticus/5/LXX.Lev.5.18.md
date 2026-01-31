@@ -7,40 +7,40 @@ And he shall bring a ram without blemish out of the flock, with thy estimation, 
 He is to bring to the priest an unblemished ram of proper value from the flock as a guilt offering. Then the priest will make atonement on his behalf for the wrong he has committed in ignorance, and he will be forgiven.<small><sub>**MT:**</sub></small>
 [[Lev.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.17|<< Leviticus 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.19|Leviticus 5:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall bring | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| an unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| \[the\] value | <big><span class="asgreek">τιμής</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] trespass \[offering\] | <big><span class="asgreek">πλημμέλειαν</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest. | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ignorance | <big><span class="asgreek">αγνοίας</span></big> <sup><small><small>[[G0052]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he was ignorant of, | <big><span class="asgreek">ηγνόησε</span></big> <sup><small><small>[[G0050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know. | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be forgiven | <big><span class="asgreek">αφεθήσεται</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| he shall bring | **<big>[[G5342\|οίσει]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| an unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| flocks, | **<big>[[G4263\|προβάτων]]</big>** |
+| \[the\] value | **<big>[[G5092\|τιμής]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] trespass \[offering\] | **<big>[[G8811\|πλημμέλειαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| priest. | **<big>[[G2409\|ιερέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his ignorance | **<big>[[G0052\|αγνοίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| he was ignorant of, | **<big>[[G0050\|ηγνόησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know. | **<big>[[G1492\|ήδει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be forgiven | **<big>[[G0863\|αφεθήσεται]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
 [[Lev.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.17|<< Leviticus 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.19|Leviticus 5:19 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ The wicked are overthrown and perish, but the house of the righteous will stand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.6|<< Proverbs 12:6]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.8|Proverbs 12:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [someone] overthrows  | <span class="ashebrew"><big>הָפ֣וֹךְ </big></span><small><small><sup>[[H2015]]</sup></small></small> &#8207;| ha.Fokh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֣ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not [are] they  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵינָ֑ </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9048]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Na <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] household of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֖ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֣ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it endures  | <span class="ashebrew"><big>יַעֲמֹֽד </big></span><small><small><sup>[[H5975G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Mod <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [someone] overthrows  |**<big>&#8207;[[H2015\|הָפ֣וֹךְ]]&#8207; </big>**| ha.Fokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [are] they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵינָ֑]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] household of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בֵ֖ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֣ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it endures  |**<big>&#8207;[[H5975G\|יַעֲמֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.6|<< Proverbs 12:6]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.8|Proverbs 12:8 >>]]</td></tr></table>
 
 

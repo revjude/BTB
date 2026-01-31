@@ -11,20 +11,20 @@ Whoever curses his father or mother, his lamp will be extinguished in deepest da
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Mark.7.10|Mark 7:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| One speaking evil of | <big><span class="asgreek">κακολογούντος</span></big> <sup><small><small>[[G2551]]</small></small></sup> |
-| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| shall be extinguished | <big><span class="asgreek">σβεσθήσεται</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| \[his\] torch | <big><span class="asgreek">λαμπτήρ</span></big> <sup><small><small>[[G8160]]</small></small></sup> |
-| and the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| pupils | <big><span class="asgreek">κόραι</span></big> <sup><small><small>[[G8070]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his eyes | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| darkness. | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| One speaking evil of | **<big>[[G2551\|κακολογούντος]]</big>** |
+| father | **<big>[[G3962\|πατέρα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| mother, | **<big>[[G3384\|μητέρα]]</big>** |
+| shall be extinguished | **<big>[[G4570\|σβεσθήσεται]]</big>** |
+| \[his\] torch | **<big>[[G8160\|λαμπτήρ]]</big>** |
+| and the | **<big>[[G3588\|αι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| pupils | **<big>[[G8070\|κόραι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his eyes | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall see | **<big>[[G3708\|όψονται]]</big>** |
+| darkness. | **<big>[[G4655\|σκότος]]</big>** |
 [[Prov.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.19|<< Proverbs 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.21|Proverbs 20:21 >>]]</td></tr></table>
 
 

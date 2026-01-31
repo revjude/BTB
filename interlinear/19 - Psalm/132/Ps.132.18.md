@@ -6,14 +6,14 @@ I will clothe his enemies with shame, but the crown upon him will gleam.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.17|<< Psalms 132:17]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.0|Psalms 133:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| enemies his  | <span class="ashebrew"><big>א֭וֹיְבָי </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'oy.va <small><sup>[[HVqrmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will clothe  | <span class="ashebrew"><big>אַלְבִּ֣ישׁ </big></span><small><small><sup>[[H3847]]</sup></small></small> &#8207;| 'al.Bish <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shame  | <span class="ashebrew"><big>בֹּ֑שֶׁת </big></span><small><small><sup>[[H1322]]</sup></small></small> &#8207;| Bo.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on him  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָלָ֗י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will shine  | <span class="ashebrew"><big>יָצִ֥יץ </big></span><small><small><sup>[[H6692A]]</sup></small></small> &#8207;| ya.Tzitz <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crown his  | <span class="ashebrew"><big>נִזְרֽ </big></span><small><small><sup>[[H5145H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| niz.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies his  |**<big>&#8207;[[H0341\|א֭וֹיְבָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'oy.va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will clothe  |**<big>&#8207;[[H3847\|אַלְבִּ֣ישׁ]]&#8207; </big>**| 'al.Bish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shame  |**<big>&#8207;[[H1322\|בֹּ֑שֶׁת]]&#8207; </big>**| Bo.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on him  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5921A\|עָלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will shine  |**<big>&#8207;[[H6692A\|יָצִ֥יץ]]&#8207; </big>**| ya.Tzitz<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crown his  |**<big>&#8207;[[H5145H\|נִזְרֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| niz.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.17|<< Psalms 132:17]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.0|Psalms 133:0 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ if I have devoured its produce without payment or broken the spirit of its tenan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.38|<< Job 31:38]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.40|Job 31:40 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| produce its  | <span class="ashebrew"><big>כֹּ֭חָ </big></span><small><small><sup>[[H3581B]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| Ko.cha <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have eaten  | <span class="ashebrew"><big>אָכַ֣לְתִּי </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.Khal.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בְלִי </big></span><small><small><sup>[[H1097]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.li- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| money  | <span class="ashebrew"><big>כָ֑סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Kha.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] life of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֶ֖פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ne.fesh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| owners its  | <span class="ashebrew"><big>בְּעָלֶ֣י </big></span><small><small><sup>[[H1167G]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| be.'a.Lei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have caused to breathe out  | <span class="ashebrew"><big>הִפָּֽחְתִּי </big></span><small><small><sup>[[H5301]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hi.Pa.che.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce its  |**<big>&#8207;[[H3581B\|כֹּ֭חָ]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| Ko.cha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have eaten  |**<big>&#8207;[[H0398\|אָכַ֣לְתִּי]]&#8207; </big>**| 'a.Khal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1097\|בְלִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| money  |**<big>&#8207;[[H3701G\|כָ֑סֶף]]&#8207; </big>**| Kha.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] life of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315H\|נֶ֖פֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| owners its  |**<big>&#8207;[[H1167G\|בְּעָלֶ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| be.'a.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have caused to breathe out  |**<big>&#8207;[[H5301\|הִפָּֽחְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hi.Pa.che.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.38|<< Job 31:38]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.40|Job 31:40 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ May they fear him as long as the sun shines, as long as the moon remains, throug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.4|<< Psalms 72:4]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.6|Psalms 72:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| people will fear you  | <span class="ashebrew"><big>יִֽירָא֥וּ </big></span><small><small><sup>[[H3372G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| yi.ra.'U. <small><sup>[[HVqi3mp]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sun  | <span class="ashebrew"><big>שָׁ֑מֶשׁ </big></span><small><small><sup>[[H8121]]</sup></small></small> &#8207;| Sha.mesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<to> before  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֥י </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] moon  | <span class="ashebrew"><big>יָ֝רֵ֗חַ </big></span><small><small><sup>[[H3394]]</sup></small></small> &#8207;| ya.Re.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| generation of  | <span class="ashebrew"><big>דּ֣וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| Dor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| generations  | <span class="ashebrew"><big>דּוֹרִֽים </big></span><small><small><sup>[[H1755]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| do.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will fear you  |**<big>&#8207;[[H3372G\|יִֽירָא֥וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yi.ra.'U.<small><sup>[[HVqi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sun  |**<big>&#8207;[[H8121\|שָׁ֑מֶשׁ]]&#8207; </big>**| Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440H\|פְנֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] moon  |**<big>&#8207;[[H3394\|יָ֝רֵ֗חַ]]&#8207; </big>**| ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| generation of  |**<big>&#8207;[[H1755\|דּ֣וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| generations  |**<big>&#8207;[[H1755\|דּוֹרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| do.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.4|<< Psalms 72:4]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.6|Psalms 72:6 >>]]</td></tr></table>
 
 

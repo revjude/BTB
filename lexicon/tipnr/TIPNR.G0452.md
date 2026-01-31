@@ -4,8 +4,8 @@ High Priest living at the time of the New Testament
 
 <span class='tipnrhighlight'>Annas</span>, a high priest, played a significant role in the events surrounding Jesus' arrest, trial, and crucifixion, as well as in the early persecution of the apostles.
 - A High Priest living at the time of the New Testament, first mentioned at [[Luke.3.2|Luk.3.2]]; 
-- only referred to as Annas<[[G0452]]> \(<span class='tipnrLangGreek'>Ἄννας</span>\); 
--  father in law of Caiaphas<[[G2533H]]>.
+- only referred to as Annas **<big>[[G0452|Ἄννας]]</big>**; 
+-  father in law of Caiaphas **<big>[[G2533|Καϊάφας]]</big>**.
 
 Annas was a high priest during the time of Jesus' ministry and played a significant role in the events surrounding Jesus' arrest and trial. He served as high priest from AD 6 to 15 and was succeeded by his son-in-law Caiaphas. However, even after his tenure, Annas retained significant influence and was still referred to as high priest. 
 
@@ -17,7 +17,7 @@ Annas' involvement in the events surrounding Jesus' trial and the persecution of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Annas | [<span class='tipnrLangGreek'>Ἄννας</span>](G0452) <small>*Greek*</small> | 4x | [[Luk.3.2] ... [Act.4.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Annas\*\|reference=Luk.3.2;Jhn.18.13;Jhn.18.24;Act.4.6) |
-All Strong's for **Annas**: \[[[G0452]]\]
+| Annas | [<span class='tipnrLangGreek'>Ἄννας</span>](G0452) | 4x | [[Luk.3.2] ... [Act.4.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Annas\*\|reference=Luk.3.2;Jhn.18.13;Jhn.18.24;Act.4.6) |
+All entries for **Annas**:  **<big>[[G0452|Ἄννας]]</big>**
 #### Related Profiles:
 - **[a_wife_of_Caiaphas](G2533H)** (child)

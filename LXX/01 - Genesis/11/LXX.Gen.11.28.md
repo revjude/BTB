@@ -7,24 +7,24 @@ And Haran died before his father Terah in the land of his nativity, in Ur of the
 During his father Terah’s lifetime, Haran died in his native land, in Ur of the Chaldeans.<small><sub>**MT:**</sub></small>
 [[Gen.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.27|<< Genesis 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.29|Genesis 11:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Haran died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Αράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Terah | <big><span class="asgreek">Θαρά</span></big> <sup><small><small>[[G2291]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[his\] father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he was procreated, | <big><span class="asgreek">εγεννήθη</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| region | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans. | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Haran died | **<big>[[G0599\|απέθανεν]]</big>** **<big>[[G5488\|Αράν]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| Terah | **<big>[[G2291\|Θαρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[his\] father, | **<big>[[G3962\|πατρός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| he was procreated, | **<big>[[G1080\|εγεννήθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| region | **<big>[[G5561\|χώρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans. | **<big>[[G5466\|Χαλδαίων]]</big>** |
 [[Gen.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.27|<< Genesis 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.29|Genesis 11:29 >>]]</td></tr></table>
 
 

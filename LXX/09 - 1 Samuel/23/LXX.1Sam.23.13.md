@@ -7,36 +7,36 @@ Then David and his men, [which were] about six hundred, arose and departed out o
 Then David and his men, about six hundred strong, set out and departed from Keilah, moving from place to place. When Saul was told that David had escaped from Keilah, he declined to go forth.<small><sub>**MT:**</sub></small>
 [[1Sam.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.12|<< 1 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.14|1 Samuel 23:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men -- | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| about | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| eight hundred. | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Keilah, | <big><span class="asgreek">Κεϊλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they could go. | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was reported | <big><span class="asgreek">απηγγέλη</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| David went safe | <big><span class="asgreek">διασέσωσται</span></big> <sup><small><small>[[G1295]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Keilah, | <big><span class="asgreek">Κεϊλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spared | <big><span class="asgreek">ανήκε</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to come forth. | <big><span class="asgreek">εξελθείν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David rose up, | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men -- | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| about | **<big>[[G5613\|ως]]</big>** |
+| eight hundred. | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they went forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Keilah, | **<big>[[H7084\|Κεϊλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύοντο]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| they could go. | **<big>[[G4198\|επορεύοντο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was reported | **<big>[[G0518\|απηγγέλη]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| David went safe | **<big>[[G1295\|διασέσωσται]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Keilah, | **<big>[[H7084\|Κεϊλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he spared | **<big>[[G0447\|ανήκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to come forth. | **<big>[[G1831\|εξελθείν]]</big>** |
 [[1Sam.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.12|<< 1 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.14|1 Samuel 23:14 >>]]</td></tr></table>
 
 

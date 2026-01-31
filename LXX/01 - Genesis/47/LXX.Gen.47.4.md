@@ -7,38 +7,38 @@ They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy
 Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”<small><sub>**MT:**</sub></small>
 [[Gen.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.3|<< Genesis 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.5|Genesis 47:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| to sojourn | <big><span class="asgreek">παροικείν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| We come | <big><span class="asgreek">ήκομεν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| pasture | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνεσι</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants, | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| grew in strength | <big><span class="asgreek">ενίσχυσε</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan. | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικήσομεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Goshen! | <big><span class="asgreek">Γεσέμ</span></big> <sup><small><small>[[H1657]]</small></small></sup> |
+| And they said | **<big>[[G2036\|είπαν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| to sojourn | **<big>[[G3939\|παροικείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| We come | **<big>[[G2240\|ήκομεν]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| there is | **<big>[[G1510\|εστι]]</big>** |
+| pasture | **<big>[[G3542\|νομή]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| cattle | **<big>[[G2934\|κτήνεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants, | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| grew in strength | **<big>[[G1765\|ενίσχυσε]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Canaan. | **<big>[[H3668\|Χαναάν]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| dwell | **<big>[[G2730\|κατοικήσομεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your servants | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Goshen! | **<big>[[H1657\|Γεσέμ]]</big>** |
 [[Gen.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.3|<< Genesis 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.5|Genesis 47:5 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Thy bow was made quite naked, [according] to the oaths of the tribes, [even thy]
 You brandished Your bow; You called for many arrows. Selah You split the earth with rivers.<small><sub>**MT:**</sub></small>
 [[Hab.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.8|<< Habakkuk 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.10|Habakkuk 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Stretching out, | <big><span class="asgreek">εντείνας</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| you shall stretch out | <big><span class="asgreek">εκτενείς</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chiefdoms, | <big><span class="asgreek">σκήπτρα</span></big> <sup><small><small>[[G9104]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
-| of rivers | <big><span class="asgreek">ποταμών</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| shall be torn | <big><span class="asgreek">ραγήσεται</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
-| \[The\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Stretching out, | **<big>[[G1614\|εντείνας]]</big>** |
+| you shall stretch out | **<big>[[G1614\|εκτενείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your bow | **<big>[[G5115\|τόξον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| chiefdoms, | **<big>[[G9104\|σκήπτρα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
+| of rivers | **<big>[[G4215\|ποταμών]]</big>** |
+| shall be torn | **<big>[[G4486\|ραγήσεται]]</big>** |
+| \[The\] land | **<big>[[G1093\|γη]]</big>** |
 [[Hab.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.8|<< Habakkuk 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.10|Habakkuk 3:10 >>]]</td></tr></table>
 
 

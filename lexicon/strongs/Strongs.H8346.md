@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁשִּׁים‎</span></big> **shishshîym** <small>*(shish-sheem')*</small> ==**sixty**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>multiple of <span class="ashebrew">‎שֵׁשׁ‎</span><sup><small>[[H8337]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁשִּׁים‎</span></big>** **shishshîym** <small>*(shish-sheem')*</small> ==**sixty**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>multiple of **<big>[[H8337|‎שֵׁשׁ‎]]</big>**</small>
 
 $\quad$ sixty, three score.
 - ***sixty***

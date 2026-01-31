@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְרִית‎</span></big> **Shimrîyth** <small>*(shim-reeth')*</small> ==**Shimrith**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שִׁמְרִי‎</span><sup><small>[[H8113]]</small></sup>; female guard</small>
+**<big><span class="ashebrew">‎שִׁמְרִית‎</span></big>** **Shimrîyth** <small>*(shim-reeth')*</small> ==**Shimrith**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H8113|‎שִׁמְרִי‎]]</big>**; female guard</small>
 
 $\quad$ Shimrith.
 - § Shimrith = *"vigilant"*

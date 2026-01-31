@@ -11,22 +11,22 @@ For in so doing, you will heap burning coals on his head, and the LORD will rewa
 > $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| coals | <big><span class="asgreek">άνθρακας</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| you shall heap | <big><span class="asgreek">σωρεύσεις</span></big> <sup><small><small>[[G4987]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head; | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| will recompense | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good \[things\]. | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| doing | **<big>[[G4160\|ποιών]]</big>** |
+| coals | **<big>[[G0440\|άνθρακας]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| you shall heap | **<big>[[G4987\|σωρεύσεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head; | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| will recompense | **<big>[[G0467\|ανταποδώσει]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| good \[things\]. | **<big>[[G0018\|αγαθά]]</big>** |
 [[Prov.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.21|<< Proverbs 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.23|Proverbs 25:23 >>]]</td></tr></table>
 
 

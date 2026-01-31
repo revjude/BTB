@@ -7,34 +7,34 @@ For his sins which he sinned in doing evil in the sight of the LORD, in walking 
 because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to act | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wickedly | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat, | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he committed | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| he led Israel into sin. | <big><span class="asgreek">εξήμαρτε</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his sins | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to act | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wickedly | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδώ]]</big>** |
+| of Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nebat, | **<big>[[H5028\|Ναβάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his sins | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| he committed | **<big>[[G4160\|εποίησεν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| he led Israel into sin. | **<big>[[G7292\|εξήμαρτε]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Kgs.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
 

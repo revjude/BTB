@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲכָתִי‎</span></big> **Maʻăkâthîy** <small>*(mah-ak-aw-thee')*</small> ==**Maacathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎מַעֲכָה‎</span><sup><small>[[H4601]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲכָתִי‎</span></big>** **Maʻăkâthîy** <small>*(mah-ak-aw-thee')*</small> ==**Maacathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H4601|‎מַעֲכָה‎]]</big>**</small>
 
 $\quad$ Maachathite.
 - § Maachathite = *"pressure (literally she has pressed)"*

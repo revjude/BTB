@@ -7,32 +7,32 @@ And he said, The LORD came from Sinai, and rose up from Seir unto them; he shine
 He said: “The LORD came from Sinai and dawned upon us from Seir; He shone forth from Mount Paran and came with myriads of holy ones, with flaming fire at His right hand.<small><sub>**MT:**</sub></small>
 [[Deut.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.1|<< Deuteronomy 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.3|Deuteronomy 33:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Sinai | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| is come | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he appeared | <big><span class="asgreek">επέφανεν</span></big> <sup><small><small>[[G2014]]</small></small></sup> |
-| upon | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Seir | <big><span class="asgreek">Σηείρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
-| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hastened | <big><span class="asgreek">κατέσπευσεν</span></big> <sup><small><small>[[G7926]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Paran | <big><span class="asgreek">Φαράν</span></big> <sup><small><small>[[H6290]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| myriads | <big><span class="asgreek">μυριάσι</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| of Kadesh -- | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Sinai | **<big>[[H6790\|Σινά]]</big>** |
+| is come | **<big>[[G2240\|ήκει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he appeared | **<big>[[G2014\|επέφανεν]]</big>** |
+| upon | **<big>[[G1537\|εκ]]</big>** |
+| Seir | **<big>[[H8165b\|Σηείρ]]</big>** |
+| to us. | **<big>[[G1473\|ημίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he hastened | **<big>[[G7926\|κατέσπευσεν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Paran | **<big>[[H6290\|Φαράν]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| myriads | **<big>[[G3461\|μυριάσι]]</big>** |
+| of Kadesh -- | **<big>[[H6946\|Κάδης]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| his right | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] angels | **<big>[[G0032\|άγγελοι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.1|<< Deuteronomy 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.3|Deuteronomy 33:3 >>]]</td></tr></table>
 
 

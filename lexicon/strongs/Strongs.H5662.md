@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹבַדְיָה‎</span></big> **ʻÔbadyâh** <small>*(o-bad-yaw')*</small> ==**Obadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֹבַדְיָהוּ</span> **ʻÔbadyâhûw** <small>*(obad-yaw'-hoo)*</small>; active participle of <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; serving Jah</small>
+**<big><span class="ashebrew">‎עֹבַדְיָה‎</span></big>** **ʻÔbadyâh** <small>*(o-bad-yaw')*</small> ==**Obadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֹבַדְיָהוּ</span></big>** **ʻÔbadyâhûw** <small>*(obad-yaw'-hoo)*</small>; active participle of **<big>[[H5647|‎עָבַד‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; serving Jah</small>
 
 $\quad$ Obadiah.
 - § Obadiah = *"servant of Jehovah"*

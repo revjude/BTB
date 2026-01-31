@@ -7,17 +7,17 @@ I would declare unto him the number of my steps; as a prince would I go near unt
 I would give account of all my steps; I would approach Him like a prince.)—<small><sub>**MT:**</sub></small>
 [[Job.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.36|<< Job 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.38|Job 31:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unless | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| tearing | <big><span class="asgreek">ρήξας</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I gave it back | <big><span class="asgreek">απέδωκα</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| having received | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| a debtor. | <big><span class="asgreek">χρεωφειλέτου</span></big> <sup><small><small>[[G5533]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| unless | **<big>[[G1508\|ει μη]]</big>** |
+| tearing | **<big>[[G4486\|ρήξας]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| I gave it back | **<big>[[G0591\|απέδωκα]]</big>** |
+| nothing | **<big>[[G3762\|ουθέν]]</big>** |
+| having received | **<big>[[G2983\|λαβών]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| a debtor. | **<big>[[G5533\|χρεωφειλέτου]]</big>** |
 [[Job.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.36|<< Job 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.38|Job 31:38 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זְבַדְיָה‎</span></big> **Zᵉbadyâh** <small>*(zeb-ad-yaw')*</small> ==**Zebadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">זְבַדְיָהוּ</span> **Zᵉbadyâhûw** <small>*(zebad-yaw'-hoo)*</small>; from <span class="ashebrew">‎זָבַד‎</span><sup><small>[[H2064]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has given</small>
+**<big><span class="ashebrew">‎זְבַדְיָה‎</span></big>** **Zᵉbadyâh** <small>*(zeb-ad-yaw')*</small> ==**Zebadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">זְבַדְיָהוּ</span></big>** **Zᵉbadyâhûw** <small>*(zebad-yaw'-hoo)*</small>; from **<big>[[H2064|‎זָבַד‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has given</small>
 
 $\quad$ Zebadiah.
 - § Zebadiah = *"endowment of Jehovah"*

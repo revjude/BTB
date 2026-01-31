@@ -7,16 +7,16 @@ The range of the mountains [is] his pasture, and he searcheth after every green 
 He roams the mountains for pasture, searching for any green thing.<small><sub>**MT:**</sub></small>
 [[Job.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.7|<< Job 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.9|Job 39:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall survey | <big><span class="asgreek">κατασκέψεται</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| \[the\] mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[as\] his pasture, | <big><span class="asgreek">νομήν</span></big> <sup><small><small>[[G3542]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| green \[thing\] | <big><span class="asgreek">χλωρού</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| he seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| He shall survey | **<big>[[G7919\|κατασκέψεται]]</big>** |
+| \[the\] mountains | **<big>[[G3735\|όρη]]</big>** |
+| \[as\] his pasture, | **<big>[[G3542\|νομήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| green \[thing\] | **<big>[[G5515\|χλωρού]]</big>** |
+| he seeks | **<big>[[G2212\|ζητεί]]</big>** |
 [[Job.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.7|<< Job 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.9|Job 39:9 >>]]</td></tr></table>
 
 

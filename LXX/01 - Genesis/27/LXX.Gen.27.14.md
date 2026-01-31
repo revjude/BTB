@@ -11,23 +11,23 @@ So Jacob went and got two goats and brought them to his mother, who made the tas
 > $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And going, | <big><span class="asgreek">πορευθείς</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he took \[them\], | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought \[them\] | <big><span class="asgreek">ήνεγκε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother. | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| food | <big><span class="asgreek">εδέσματα</span></big> <sup><small><small>[[G7043]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| was fond of | <big><span class="asgreek">εφίλει</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And going, | **<big>[[G4198\|πορευθείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he took \[them\], | **<big>[[G2983\|έλαβε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| brought \[them\] | **<big>[[G5342\|ήνεγκε]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| mother. | **<big>[[G3384\|μητρί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his mother | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| food | **<big>[[G7043\|εδέσματα]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| was fond of | **<big>[[G5368\|εφίλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.13|<< Genesis 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.15|Genesis 27:15 >>]]</td></tr></table>
 
 

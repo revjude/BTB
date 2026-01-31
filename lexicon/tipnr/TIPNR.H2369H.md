@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hotham</span> the Aroerite was listed among David's mighty warriors known for their military exploits.
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.11.44|1Ch.11.44]]; 
-- only referred to as Hotham<[[H2369H]]> \(<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>\); 
--  father of Shama<[[H8091]]>, Jeiel<[[H3273H]]>.
+- only referred to as Hotham **<big>[[H2369|חוֹתָם]]</big>**; 
+-  father of Shama **<big>[[H8091|שָׁמָע]]</big>**, Jeiel **<big>[[H3273|יְעִיאֵל]]</big>**.
 
 Hotham the Aroerite is mentioned in [[1Chr.11.44|1 Chronicles 11:44]] as one of David's mighty warriors. He is listed among the group of soldiers known for their bravery and military prowess. 
 
@@ -17,8 +17,8 @@ Apart from being listed among David's mighty warriors, no other information is p
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hotham (KJV= Hothan) | [<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2369H) <small>*Hebrew*</small> | 1x | [1Ch.11.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hotham\*\|reference=1Ch.11.44) |
-All Strong's for **Hotham**: \[[[H2369H]]\]
+| Hotham (KJV= Hothan) | [<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2369H) | 1x | [1Ch.11.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hotham\*\|reference=1Ch.11.44) |
+All entries for **Hotham**:  **<big>[[H2369|חוֹתָם]]</big>**
 #### Related Profiles:
 - **[Shama](H8091)** (child)
 - **[Jeiel](H3273H)** (child)

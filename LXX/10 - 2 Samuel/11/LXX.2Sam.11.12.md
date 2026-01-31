@@ -7,31 +7,31 @@ And David said to Uriah, Tarry here to day also, and to morrow I will let thee d
 “Stay here one more day,” David said to Uriah, “and tomorrow I will send you back.” So Uriah stayed in Jerusalem that day and the next.<small><sub>**MT:**</sub></small>
 [[2Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.11|<< 2 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.13|2 Samuel 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Uriah, | <big><span class="asgreek">Ουρίαν</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| Stay | <big><span class="asgreek">κάθισον</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| today! | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| I will send | <big><span class="asgreek">εξαποστελώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Uriah stayed | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">Ουρίας</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day. | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Uriah, | **<big>[[H0223b\|Ουρίαν]]</big>** |
+| Stay | **<big>[[G2523\|κάθισον]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| today! | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| I will send | **<big>[[G1821\|εξαποστελώ]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Uriah stayed | **<big>[[G2523\|εκάθισεν]]</big>** **<big>[[H0223b\|Ουρίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| next day. | **<big>[[G1887\|επαύριον]]</big>** |
 [[2Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.11|<< 2 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.13|2 Samuel 11:13 >>]]</td></tr></table>
 
 

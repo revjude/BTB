@@ -1,4 +1,4 @@
-spelling of: <small>[[G9657]]</small> 
+spelling of: <small>**<big>[[G9657|φορβεά]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φορβαία==</span>-<span class='asgreek'>αία</span></b>, <span class='asgreek'>ἡ</span>, 

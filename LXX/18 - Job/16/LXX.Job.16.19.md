@@ -11,20 +11,20 @@ Even now my witness is in heaven, and my advocate is on high.<small><sub>**MT:*
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] heavens | <big><span class="asgreek">ουρανοίς</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my joint witness | <big><span class="asgreek">συνίστωρ</span></big> <sup><small><small>[[G9327]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] highest. | <big><span class="asgreek">υψίστοις</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] heavens | **<big>[[G3772\|ουρανοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my witness | **<big>[[G3144\|μάρτυς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my joint witness | **<big>[[G9327\|συνίστωρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] highest. | **<big>[[G5310\|υψίστοις]]</big>** |
 [[Job.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.18|<< Job 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.20|Job 16:20 >>]]</td></tr></table>
 
 

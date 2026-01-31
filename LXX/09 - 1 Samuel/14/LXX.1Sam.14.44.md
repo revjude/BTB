@@ -7,25 +7,25 @@ And Saul answered, God do so and more also: for thou shalt surely die, Jonathan.
 And Saul declared, “May God punish me, and ever so severely, if you, Jonathan, do not surely die!”<small><sub>**MT:**</sub></small>
 [[1Sam.14.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.43|<< 1 Samuel 14:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.45|1 Samuel 14:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| add yet again, | <big><span class="asgreek">προσθείη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| add yet again, | **<big>[[G4369\|προσθείη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| in death | **<big>[[G2288\|θανάτω]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
 [[1Sam.14.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.43|<< 1 Samuel 14:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.45|1 Samuel 14:45 >>]]</td></tr></table>
 
 

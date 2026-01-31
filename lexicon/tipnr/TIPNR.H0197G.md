@@ -1,8 +1,8 @@
 <small>*Hall of Pillars • A porch with pillars in Solomon's palace.*</small>
 
 The <span class='tipnrhighlight'>Hall of Pillars</span> was a porch in Solomon's palace, measuring fifty cubits long and thirty cubits wide, with a portico of pillars and a canopy.
-- A location in Jerusalem<[[H3389]]> only mentioned at [[1Kgs.7.6|1Ki.7.6]]; 
-- only referred to as Hall\_of\_Pillars<[[H0197G]]><[[H0197G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ד</span> <span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[1Kgs.7.6|1Ki.7.6]]; 
+- only referred to as Hall\_of\_Pillars **<big>[[H0197|אוּלָם]]</big>** **<big>[[H0197|אוּלָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The construction of the Hall of Pillars, along with the other palace structures 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hall/ of Pillars | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H5982H)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197G) <small>*Hebrew*</small> | 1x | [1Ki.7.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.6) |
-All Strong's for **Hall_of_Pillars**: \[[[H5982H]]\] \[[[H0197G]]\]
+| Hall/ of Pillars | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H5982H)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197G) | 1x | [1Ki.7.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.6) |
+All entries for **Hall of Pillars**:  **<big>[[H5982|עַמּוּד]]</big>** ☩  **<big>[[H0197|אוּלָם]]</big>**

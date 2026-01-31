@@ -7,20 +7,20 @@ He will fulfil the desire of them that fear him: he also will hear their cry, an
 He fulfills the desires of those who fear Him; He hears their cry and saves them.<small><sub>**MT:**</sub></small>
 [[Ps.145.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.18|<< Psalm 145:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.20|Psalm 145:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] will | <big><span class="asgreek">θέλημα</span></big> <sup><small><small>[[G2307]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένων</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He will do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their supplication | <big><span class="asgreek">δεήσεως</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall listen to, | <big><span class="asgreek">εισακούσεται</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall deliver | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] will | **<big>[[G2307\|θέλημα]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένων]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| He will do | **<big>[[G4160\|ποιήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their supplication | **<big>[[G1162\|δεήσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he shall listen to, | **<big>[[G1522\|εισακούσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall deliver | **<big>[[G4982\|σώσει]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.145.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.18|<< Psalm 145:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.20|Psalm 145:20 >>]]</td></tr></table>
 
 

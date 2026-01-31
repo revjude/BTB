@@ -11,25 +11,25 @@ fracture for fracture, eye for eye, tooth for tooth. Just as he injured the othe
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A break | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| a break, | <big><span class="asgreek">συντρίμματος</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| eye | <big><span class="asgreek">οφθαλμόν</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| eye, | <big><span class="asgreek">οφθαλμού</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| tooth | <big><span class="asgreek">οδόντα</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| tooth; | <big><span class="asgreek">οδόντος</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| in so far | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a blemish | <big><span class="asgreek">μώμον</span></big> <sup><small><small>[[G3470]]</small></small></sup> |
-| to a man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| it shall be given | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A break | **<big>[[G4938\|σύντριμμα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| a break, | **<big>[[G4938\|συντρίμματος]]</big>** |
+| eye | **<big>[[G3788\|οφθαλμόν]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| eye, | **<big>[[G3788\|οφθαλμού]]</big>** |
+| tooth | **<big>[[G3599\|οδόντα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| tooth; | **<big>[[G3599\|οδόντος]]</big>** |
+| in so far | **<big>[[G2530\|καθότι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| he should give | **<big>[[G1325\|δω]]</big>** |
+| a blemish | **<big>[[G3470\|μώμον]]</big>** |
+| to a man, | **<big>[[G0444\|ανθρώπω]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| it shall be given | **<big>[[G1325\|δοθήσεται]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Lev.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.19|<< Leviticus 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.21|Leviticus 24:21 >>]]</td></tr></table>
 
 

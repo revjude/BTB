@@ -7,36 +7,36 @@ Therefore, thou son of man, prepare thee stuff for removing, and remove by day i
 Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house.<small><sub>**MT:**</sub></small>
 [[Ezek.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.2|<< Ezekiel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.4|Ezekiel 12:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| prepare | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of captivity, | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be \[as\] captured | <big><span class="asgreek">αιχμαλωτεύθητι</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| by day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in their presence! | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be \[as\] captured | <big><span class="asgreek">αιχμαλωτευθήση</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they should see, | <big><span class="asgreek">ίδωσι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| a rebelling | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| prepare | **<big>[[G4160\|ποίησον]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of captivity, | **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be \[as\] captured | **<big>[[G0162\|αιχμαλωτεύθητι]]</big>** |
+| by day | **<big>[[G2250\|ημέρας]]</big>** |
+| in their presence! | **<big>[[G1799\|ενώπιον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be \[as\] captured | **<big>[[G0162\|αιχμαλωτευθήση]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your place | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| another | **<big>[[G2087\|έτερον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| they should see, | **<big>[[G1492\|ίδωσι]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| a rebelling | **<big>[[G3893\|παραπικραίνων]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Ezek.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.2|<< Ezekiel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.4|Ezekiel 12:4 >>]]</td></tr></table>
 
 

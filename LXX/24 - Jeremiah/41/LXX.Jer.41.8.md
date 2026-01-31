@@ -7,43 +7,43 @@ But ten men were found among them that said unto Ishmael, Slay us not: for we ha
 But ten of the men among them said to Ishmael, “Do not kill us, for we have hidden treasure in the field—wheat, barley, oil, and honey!” So he refrained from killing them with the others.<small><sub>**MT:**</sub></small>
 [[Jer.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.7|<< Jeremiah 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.9|Jeremiah 41:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| were found | <big><span class="asgreek">ευρέθησαν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Ishmael, | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do away with | <big><span class="asgreek">ανέλης</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| treasures | <big><span class="asgreek">θησαυροί</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] field, | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| wheat | <big><span class="asgreek">πυροί</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| barley, | <big><span class="asgreek">κριθαί</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey, | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil. | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he passed by | <big><span class="asgreek">παρήλθε</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do away with | <big><span class="asgreek">ανείλεν</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their brethren. | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| were found | **<big>[[G2147\|ευρέθησαν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Ishmael, | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| do away with | **<big>[[G0337\|ανέλης]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there are | **<big>[[G1510\|εισίν]]</big>** |
+| with us | **<big>[[G1473\|ημίν]]</big>** |
+| treasures | **<big>[[G2344\|θησαυροί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] field, | **<big>[[G0068\|αγρώ]]</big>** |
+| wheat | **<big>[[G8994\|πυροί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| barley, | **<big>[[G2915\|κριθαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey, | **<big>[[G3192\|μέλι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil. | **<big>[[G1637\|έλαιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he passed by | **<big>[[G3928\|παρήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| do away with | **<big>[[G0337\|ανείλεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their brethren. | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.7|<< Jeremiah 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.9|Jeremiah 41:9 >>]]</td></tr></table>
 
 

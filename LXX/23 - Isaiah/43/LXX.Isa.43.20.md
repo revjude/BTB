@@ -11,35 +11,35 @@ The beasts of the field will honor Me, the jackals and the ostriches, because I 
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall bless | <big><span class="asgreek">ευλογήσουσί</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| sirens | <big><span class="asgreek">σειρήνες</span></big> <sup><small><small>[[G9063]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of ostriches; | <big><span class="asgreek">στρουθών</span></big> <sup><small><small>[[G9207]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I established | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waterless \[place\], | <big><span class="asgreek">ανύδρω</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
-| to give to drink to | <big><span class="asgreek">ποτίσαι</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| race | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτόν</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| shall bless | **<big>[[G2127\|ευλογήσουσί]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| sirens | **<big>[[G9063\|σειρήνες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of ostriches; | **<big>[[G9207\|στρουθών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I established | **<big>[[G1325\|έδωκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rivers | **<big>[[G4215\|ποταμούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| waterless \[place\], | **<big>[[G0504\|ανύδρω]]</big>** |
+| to give to drink to | **<big>[[G4222\|ποτίσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| race | **<big>[[G1085\|γένος]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτόν]]</big>** |
 [[Isa.43.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.19|<< Isaiah 43:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.21|Isaiah 43:21 >>]]</td></tr></table>
 
 

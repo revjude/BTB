@@ -7,33 +7,33 @@ Meddle not with them; for I will not give you of their land, no, not so much as 
 Do not provoke them, for I will not give you any of their land, not even a footprint, because I have given Mount Seir to Esau as his possession.<small><sub>**MT:**</sub></small>
 [[Deut.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.4|<< Deuteronomy 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.6|Deuteronomy 2:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| join | <big><span class="asgreek">συνάψητε</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[for\] war, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| for not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in any way | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| will I give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| a stool | <big><span class="asgreek">βήμα</span></big> <sup><small><small>[[G0968]]</small></small></sup> |
-| \[for your\] foot; | <big><span class="asgreek">ποδός</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρω</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Esau | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Seir. | <big><span class="asgreek">Σηείρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
+| You shall not | **<big>[[G3361\|μη]]</big>** |
+| join | **<big>[[G9297\|συνάψητε]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[for\] war, | **<big>[[G4171\|πόλεμον]]</big>** |
+| for not | **<big>[[G3756\|ου]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| in any way | **<big>[[G3361\|μη]]</big>** |
+| will I give | **<big>[[G1325\|δω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their land, | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| a stool | **<big>[[G0968\|βήμα]]</big>** |
+| \[for your\] foot; | **<big>[[G4228\|ποδός]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| lot | **<big>[[G2819\|κλήρω]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Esau | **<big>[[G2269\|Ησαύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Seir. | **<big>[[H8165b\|Σηείρ]]</big>** |
 [[Deut.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.4|<< Deuteronomy 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.6|Deuteronomy 2:6 >>]]</td></tr></table>
 
 

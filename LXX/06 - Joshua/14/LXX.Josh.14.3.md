@@ -7,31 +7,31 @@ For Moses had given the inheritance of two tribes and an half tribe on the other
 For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites.<small><sub>**MT:**</sub></small>
 [[Josh.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| a lot | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλαίς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ημίσει</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| was not given | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| a lot | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tribes | **<big>[[G5443\|φυλαίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| half | **<big>[[G2255\|ημίσει]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan. | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites | **<big>[[G3017\|Λευίταις]]</big>** |
+| was not given | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1325\|έδωκε]]</big>** |
+| a lot | **<big>[[G2819\|κλήρον]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Josh.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 
 

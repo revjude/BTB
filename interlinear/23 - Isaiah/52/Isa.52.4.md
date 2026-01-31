@@ -6,22 +6,22 @@ For this is what the Lord GOD says: “At first My people went down to Egypt to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.3|<< Isaiah 52:3]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.5|Isaiah 52:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֛יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it went down  | <span class="ashebrew"><big>יָֽרַד </big></span><small><small><sup>[[H3381]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.rad- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ֥ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at the former [time]  | <span class="ashebrew"><big>בָ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רִֽאשֹׁנָ֖ה </big></span><small><small><sup>[[H7223G]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> ri.sho.Nah <small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to sojourn  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ג֣וּר </big></span><small><small><sup>[[H1481A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Gur <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֑ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Assyria  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַשּׁ֖וּר </big></span><small><small><sup>[[H0804G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for nothing  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֥פֶס </big></span><small><small><sup>[[H0657A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.fes <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it oppressed it  | <span class="ashebrew"><big>עֲשָׁקֽ </big></span><small><small><sup>[[H6231]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.sha.K <small><sup>[[HVqp3ms]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹ֤ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֛יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it went down  |**<big>&#8207;[[H3381\|יָֽרַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.rad-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the former [time]  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H7223G\|רִֽאשֹׁנָ֖ה]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sojourn  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1481A\|ג֣וּר]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Gur<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Assyria  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0804G\|אַשּׁ֖וּר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for nothing  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0657A\|אֶ֥פֶס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.fes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it oppressed it  |**<big>&#8207;[[H6231\|עֲשָׁקֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.sha.K<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.3|<< Isaiah 52:3]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.5|Isaiah 52:5 >>]]</td></tr></table>
 
 

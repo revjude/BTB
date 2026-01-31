@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָדָם‎</span></big> **ʼÂdâm** <small>*(aw-dawm')*</small> ==**Adam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אָדָם‎</span><sup><small>[[H0120]]</small></sup></small>
+**<big><span class="ashebrew">‎אָדָם‎</span></big>** **ʼÂdâm** <small>*(aw-dawm')*</small> ==**Adam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0120|‎אָדָם‎]]</big>**</small>
 
 $\quad$ Adam.
 - § Adam = *"red"*
@@ -8,4 +8,4 @@ $\quad$ Adam.
 **1)** first man
 **2)** city in Jordan valley
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀδάμ</span><sup><small>[[G0076]]</small></sup>
+<small>See Greek: </small>**<big>[[G0076|Ἀδάμ]]</big>**

@@ -6,15 +6,15 @@ upon Dibon, Nebo, and Beth-diblathaim,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.21|<< Jeremiah 48:21]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.23|Jeremiah 48:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dibon  | <span class="ashebrew"><big>דִּיב֣וֹן </big></span><small><small><sup>[[H1769G]]</sup></small></small> &#8207;| di.Von <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebo  | <span class="ashebrew"><big>נְב֔וֹ </big></span><small><small><sup>[[H5015A]]</sup></small></small> &#8207;| ne.Vo <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֖ית </big></span><small><small><sup>[[H1015]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Diblathaim  | <span class="ashebrew"><big>דִּבְלָתָֽיִם </big></span><small><small><sup>[[H1015]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| div.la.Ta.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dibon  |**<big>&#8207;[[H1769G\|דִּיב֣וֹן]]&#8207; </big>**| di.Von<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebo  |**<big>&#8207;[[H5015A\|נְב֔וֹ]]&#8207; </big>**| ne.Vo<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1015\|בֵּ֖ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Diblathaim  |**<big>&#8207;[[H1015\|דִּבְלָתָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| div.la.Ta.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.21|<< Jeremiah 48:21]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.23|Jeremiah 48:23 >>]]</td></tr></table>
 
 

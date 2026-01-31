@@ -7,35 +7,35 @@ And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, an
 So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”<small><sub>**MT:**</sub></small>
 [[Exod.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.32|<< Exodus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.34|Exodus 16:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| jar | <big><span class="asgreek">στάμνον</span></big> <sup><small><small>[[G4713]]</small></small></sup> |
-| golden | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">έμβαλε</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a full | <big><span class="asgreek">πλήρες</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| homer | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of manna, | <big><span class="asgreek">μαν</span></big> <sup><small><small>[[G8245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put it aside | <big><span class="asgreek">αποθήσεις</span></big> <sup><small><small>[[G0659]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| preservation | <big><span class="asgreek">διατήρησιν</span></big> <sup><small><small>[[G6889]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your generations! | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| jar | **<big>[[G4713\|στάμνον]]</big>** |
+| golden | **<big>[[G5552\|χρυσούν]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1685\|έμβαλε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| a full | **<big>[[G4134\|πλήρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| homer | **<big>[[G6758\|γόμορ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of manna, | **<big>[[G8245\|μαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put it aside | **<big>[[G0659\|αποθήσεις]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| preservation | **<big>[[G6889\|διατήρησιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your generations! | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Exod.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.32|<< Exodus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.34|Exodus 16:34 >>]]</td></tr></table>
 
 

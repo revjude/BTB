@@ -7,25 +7,25 @@ Be thou prepared, and prepare for thyself, thou, and all thy company that are as
 Get ready; prepare yourself, you and all your company gathered around you; you will be their guard.<small><sub>**MT:**</sub></small>
 [[Ezek.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.6|<< Ezekiel 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.8|Ezekiel 38:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be prepared! | <big><span class="asgreek">ετοιμάσθητι</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| Prepare | <big><span class="asgreek">ετοίμασον</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| yourself! | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being brought together | <big><span class="asgreek">συνηγμένη</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an advance guard. | <big><span class="asgreek">προφυλακήν</span></big> <sup><small><small>[[G8955]]</small></small></sup> |
+| Be prepared! | **<big>[[G2090\|ετοιμάσθητι]]</big>** |
+| Prepare | **<big>[[G2090\|ετοίμασον]]</big>** |
+| yourself! | **<big>[[G4572\|σεαυτόν]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your gathering | **<big>[[G4864\|συναγωγή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| being brought together | **<big>[[G4863\|συνηγμένη]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an advance guard. | **<big>[[G8955\|προφυλακήν]]</big>** |
 [[Ezek.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.6|<< Ezekiel 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.8|Ezekiel 38:8 >>]]</td></tr></table>
 
 

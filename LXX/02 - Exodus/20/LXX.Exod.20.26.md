@@ -7,22 +7,22 @@ Neither shalt thou go up by steps unto mine altar, that thy nakedness be not dis
 And you must not go up to My altar on steps, lest your nakedness be exposed on it.’<small><sub>**MT:**</sub></small>
 [[Exod.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.25|<< Exodus 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.1|Exodus 21:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβήση</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stairs | <big><span class="asgreek">αναβαθμίσιν</span></big> <sup><small><small>[[G6272]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my altar, | <big><span class="asgreek">θυσιαστήριόν</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| that | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should not uncover | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αποκαλύψης</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| ascend | **<big>[[G0305\|αναβήση]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| stairs | **<big>[[G6272\|αναβαθμίσιν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my altar, | **<big>[[G2379\|θυσιαστήριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| so | **<big>[[G3704\|όπως]]</big>** |
+| that | **<big>[[G0302\|αν]]</big>** |
+| you should not uncover | **<big>[[G3361\|μη]]</big>** **<big>[[G0601\|αποκαλύψης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your indecency | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.25|<< Exodus 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.1|Exodus 21:1 >>]]</td></tr></table>
 
 

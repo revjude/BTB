@@ -1,4 +1,4 @@
-name of: <small>[[G2763G]]</small> 
+name of: <small>**<big>[[G2763G|κεραμεύς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κεραμεύς==</span>-<span class='asgreek'>εύς</span></b>, <span class='asgreek'>έως</span>, <span class='asgreek'>ὁ</span>, 

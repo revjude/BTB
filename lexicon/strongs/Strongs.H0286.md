@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחִילוּד‎</span></big> **ʼĂchîylûwd** <small>*(akh-ee-lood')*</small> ==**Ahilud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup> and <span class="ashebrew">‎יָלַד‎</span><sup><small>[[H3205]]</small></sup>; brother of one born</small>
+**<big><span class="ashebrew">‎אֲחִילוּד‎</span></big>** **ʼĂchîylûwd** <small>*(akh-ee-lood')*</small> ==**Ahilud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0251|‎אָח‎]]</big>** and **<big>[[H3205|‎יָלַד‎]]</big>**; brother of one born</small>
 
 $\quad$ Ahilud.
 - § Ahilud = *"child's brother"*

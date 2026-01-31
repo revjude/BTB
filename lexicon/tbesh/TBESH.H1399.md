@@ -1,4 +1,3 @@
-<span class="ashebrew">‎גֶּ֫בֶר‎</span> <small>***(ge.var)***</small> ==**great man**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-spelling of: <small>[[H1397]]</small> 
+<small>spelling of:</small> <small>**<big>[[H1397|גֶּבֶר]]</big>**</small> 
 
-- Another spelling of <i>ge.ver</i> (<span class='ashebrew'>‎ג‎</span>ֶּ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ר‎</span> "great man" [[H1397]])
+- Another spelling of <i>ge.ver</i> (<span class='ashebrew'>‎ג‎</span>ֶּ֫<span class='ashebrew'>‎ב‎</span>ֶ<span class='ashebrew'>‎ר‎</span> "great man" **<big>[[H1397|גֶּבֶר]]</big>**)

@@ -10,26 +10,26 @@ And this house was finished on the third day of the month Adar, which was in the
 And this temple was completed on the third day of the month of Adar, in the sixth year of the reign of King Darius.<small><sub>**MT:**</sub></small>
 [[Ezra.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.14|<< Ezra 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.16|Ezra 6:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they finished | <big><span class="asgreek">ετέλεσαν</span></big> <sup><small><small>[[G5055]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| by | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτης</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| of \[the\] month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| Adar, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is \[in\] | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| year | <big><span class="asgreek">έτος</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] sixth | <big><span class="asgreek">έκτον</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingship | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Darius | <big><span class="asgreek">Δαρείου</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they finished | **<big>[[G5055\|ετέλεσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| by | **<big>[[G2193\|έως]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτης]]</big>** |
+| of \[the\] month | **<big>[[G3376\|μηνός]]</big>** |
+| Adar, | **<big>[[G6135\|Αδάρ]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is \[in\] | **<big>[[G1510\|εστιν]]</big>** |
+| year | **<big>[[G2094\|έτος]]</big>** |
+| \[the\] sixth | **<big>[[G1623\|έκτον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| kingship | **<big>[[G0932\|βασιλείας]]</big>** |
+| of Darius | **<big>[[H1868\|Δαρείου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Ezra.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.14|<< Ezra 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.16|Ezra 6:16 >>]]</td></tr></table>
 
 

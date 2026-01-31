@@ -7,17 +7,17 @@ Where the word of a king [is, there is] power: and who may say unto him, What do
 For the king’s word is supreme, and who can say to him, “What are you doing?”<small><sub>**MT:**</sub></small>
 [[Eccl.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.3|<< Ecclesiastes 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.5|Ecclesiastes 8:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| exercising authority, | <big><span class="asgreek">εξουσιάζων</span></big> <sup><small><small>[[G1850]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you do? | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| As | **<big>[[G2531\|καθώς]]</big>** |
+| a king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| exercising authority, | **<big>[[G1850\|εξουσιάζων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall say | **<big>[[G2046\|ερεί]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| do you do? | **<big>[[G4160\|ποιείς]]</big>** |
 [[Eccl.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.3|<< Ecclesiastes 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.5|Ecclesiastes 8:5 >>]]</td></tr></table>
 
 

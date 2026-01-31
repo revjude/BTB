@@ -7,30 +7,30 @@ For my people have committed two evils; they have forsaken me the fountain of li
 “For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water.<small><sub>**MT:**</sub></small>
 [[Jer.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wicked \[things\] | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me; | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| \[the\] spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of life, | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they dug | <big><span class="asgreek">ώρυξαν</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| cisterns | <big><span class="asgreek">λάκκους</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| having been broken, | <big><span class="asgreek">συντετριμμένους</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the ones which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[are\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνήσονται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| to hold | <big><span class="asgreek">συνέχειν</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wicked \[things\] | **<big>[[G4190\|πονηρά]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to me; | **<big>[[G1473\|εμέ]]</big>** |
+| they abandoned | **<big>[[G1459\|εγκατέλιπον]]</big>** |
+| \[the\] spring | **<big>[[G4077\|πηγήν]]</big>** |
+| of water | **<big>[[G5204\|ύδατος]]</big>** |
+| of life, | **<big>[[G2222\|ζωής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they dug | **<big>[[G3736\|ώρυξαν]]</big>** |
+| for themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| cisterns | **<big>[[G8154\|λάκκους]]</big>** |
+| having been broken, | **<big>[[G4937\|συντετριμμένους]]</big>** |
+| the ones which | **<big>[[G3739\|οι]]</big>** |
+| \[are\] not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δυνήσονται]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| to hold | **<big>[[G4912\|συνέχειν]]</big>** |
 [[Jer.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
 
 

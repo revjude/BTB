@@ -1,4 +1,4 @@
-spelling of: <small>[[G1673]]</small> 
+spelling of: <small>**<big>[[G1673|Ἑλληνικός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἑλληνιστί=Ἑλληνικός==</span></b> 

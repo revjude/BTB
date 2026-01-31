@@ -6,16 +6,16 @@ Crumble it and pour oil on it; it is a grain offering.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.5|<< Leviticus 2:5]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.7|Leviticus 2:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you will crumble  | <span class="ashebrew"><big>פָּת֤וֹת </big></span><small><small><sup>[[H6626]]</sup></small></small> &#8207;| pa.Tot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹתָ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>הּ֙ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crumbs  | <span class="ashebrew"><big>פִּתִּ֔ים </big></span><small><small><sup>[[H6595A]]</sup></small></small> &#8207;| pi.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will pour  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָצַקְתָּ֥ </big></span><small><small><sup>[[H3332G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.tzak.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| oil  | <span class="ashebrew"><big>שָׁ֑מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| Sha.men <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a grain offering  | <span class="ashebrew"><big>מִנְחָ֖ה </big></span><small><small><sup>[[H4503G]]</sup></small></small> &#8207;| min.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִֽוא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will crumble  |**<big>&#8207;[[H6626\|פָּת֤וֹת]]&#8207; </big>**| pa.Tot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crumbs  |**<big>&#8207;[[H6595A\|פִּתִּ֔ים]]&#8207; </big>**| pi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will pour  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3332G\|יָצַקְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.tzak.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶ֖י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oil  |**<big>&#8207;[[H8081\|שָׁ֑מֶן]]&#8207; </big>**| Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a grain offering  |**<big>&#8207;[[H4503G\|מִנְחָ֖ה]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.5|<< Leviticus 2:5]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.7|Leviticus 2:7 >>]]</td></tr></table>
 
 

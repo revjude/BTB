@@ -7,20 +7,20 @@ The wicked shall see [it], and be grieved; he shall gnash with his teeth, and me
 The wicked man will see and be grieved; he will gnash his teeth and waste away; the desires of the wicked will perish.<small><sub>**MT:**</sub></small>
 [[Ps.112.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.9|<< Psalm 112:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.1|Psalm 113:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sinner | <big><span class="asgreek">αμαρτωλός</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be provoked to anger; | <big><span class="asgreek">οργισθήσεται</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall gnash | <big><span class="asgreek">βρύξει</span></big> <sup><small><small>[[G1031]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| melt away; | <big><span class="asgreek">τακήσεται</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| \[the\] desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| of \[the\] sinner | <big><span class="asgreek">αμαρτωλού</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| shall perish. | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| A sinner | **<big>[[G0268\|αμαρτωλός]]</big>** |
+| shall see | **<big>[[G3708\|όψεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be provoked to anger; | **<big>[[G3710\|οργισθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his teeth | **<big>[[G3599\|οδόντας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall gnash | **<big>[[G1031\|βρύξει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| melt away; | **<big>[[G5080\|τακήσεται]]</big>** |
+| \[the\] desire | **<big>[[G1939\|επιθυμία]]</big>** |
+| of \[the\] sinner | **<big>[[G0268\|αμαρτωλού]]</big>** |
+| shall perish. | **<big>[[G0622\|απολείται]]</big>** |
 [[Ps.112.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.9|<< Psalm 112:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.1|Psalm 113:1 >>]]</td></tr></table>
 
 

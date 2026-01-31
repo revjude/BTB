@@ -7,20 +7,20 @@ He maketh the storm a calm, so that the waves thereof are still.
 He calmed the storm to a whisper, and the waves of the sea were hushed.<small><sub>**MT:**</sub></small>
 [[Ps.107.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.28|<< Psalm 107:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.30|Psalm 107:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave orders | <big><span class="asgreek">επέταξε</span></big> <sup><small><small>[[G2004]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gale, | <big><span class="asgreek">καταιγίδι</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a breeze, | <big><span class="asgreek">αύραν</span></big> <sup><small><small>[[G6606]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were quiet | <big><span class="asgreek">εσίγησαν</span></big> <sup><small><small>[[G4601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its waves | <big><span class="asgreek">κύματα</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave orders | **<big>[[G2004\|επέταξε]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| gale, | **<big>[[G7844\|καταιγίδι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it stood | **<big>[[G2476\|έστη]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| a breeze, | **<big>[[G6606\|αύραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were quiet | **<big>[[G4601\|εσίγησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its waves | **<big>[[G2949\|κύματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.107.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.28|<< Psalm 107:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.30|Psalm 107:30 >>]]</td></tr></table>
 
 

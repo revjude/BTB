@@ -6,17 +6,17 @@ The son of Jonathan: Merib-baal, and Merib-baal was the father of Micah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.33|<< 1 Chronicles 8:33]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.35|1 Chronicles 8:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] son of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יְהוֹנָתָ֖ן </big></span><small><small><sup>[[H3083H]]</sup></small></small> &#8207;| ye.ho.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Merib-  | <span class="ashebrew"><big>מְרִ֣יב </big></span><small><small><sup>[[H4807]]</sup></small></small> &#8207;| me.Riv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -baal  | <span class="ashebrew"><big>בָּ֑עַל </big></span><small><small><sup>[[H4807]]</sup></small></small> &#8207;| Ba.'al <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Merib-  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְרִ֥יב </big></span><small><small><sup>[[H4807]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.Riv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -baal  | <span class="ashebrew"><big>בַּ֖עַל </big></span><small><small><sup>[[H4807]]</sup></small></small> &#8207;| Ba.'al <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fathered  | <span class="ashebrew"><big>הוֹלִ֥יד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ho.Lid <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Micah  | <span class="ashebrew"><big>מִיכָֽה </big></span><small><small><sup>[[H4318H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| mi.Khah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3083H\|יְהוֹנָתָ֖ן]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Merib-  |**<big>&#8207;[[H4807\|מְרִ֣יב]]&#8207; </big>**| me.Riv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -baal  |**<big>&#8207;[[H4807\|בָּ֑עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Merib-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4807\|מְרִ֥יב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Riv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -baal  |**<big>&#8207;[[H4807\|בַּ֖עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Micah  |**<big>&#8207;[[H4318H\|מִיכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.33|<< 1 Chronicles 8:33]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.35|1 Chronicles 8:35 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face 
 Let my fugitives stay with you; be a refuge for Moab from the destroyer.” When the oppressor has gone, destruction has ceased, and the oppressors have vanished from the land,<small><sub>**MT:**</sub></small>
 [[Isa.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall sojourn | <big><span class="asgreek">παροικήσουσί</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exiles | <big><span class="asgreek">φυγάδες</span></big> <sup><small><small>[[G9675]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a protection | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| for you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the one pursuing; | <big><span class="asgreek">διώκοντος</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was lifted away | <big><span class="asgreek">ήρθη</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your alliance in war | <big><span class="asgreek">συμμαχία</span></big> <sup><small><small>[[G9263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| perished | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trampling | <big><span class="asgreek">καταπατών</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| shall sojourn | **<big>[[G3939\|παροικήσουσί]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| exiles | **<big>[[G9675\|φυγάδες]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| a protection | **<big>[[G9098\|σκέπη]]</big>** |
+| for you | **<big>[[G1473\|υμίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the one pursuing; | **<big>[[G1377\|διώκοντος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| was lifted away | **<big>[[G0142\|ήρθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your alliance in war | **<big>[[G9263\|συμμαχία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| perished | **<big>[[G0622\|απώλετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| trampling | **<big>[[G2662\|καταπατών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Isa.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H8154]]</small>
+<small>Also see: **<big>[[H8154|שָׁסָה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎שָׁסַס‎</span>] **verb** id. (\|\| from of <span class="bdbLangHebrew">‎שׁסה‎</span>); — 
 

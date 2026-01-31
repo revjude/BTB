@@ -1,9 +1,7 @@
-<span class="asaramaic">‎מֹשֶׁה‎</span> <small>***(mo.sheh)***</small> ==**Moses**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-Aramaic of: <small>[[H4872]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4872|מֹשֶׁה]]</big>**</small> 
 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.2.10|Exo.2.10]]
--  son of: Amram ([[H6019]]) and Jochebed ([[H3115]])
--  brother of: Aaron ([[H0175]]) and Miriam ([[H4813]]); married to Zipporah ([[H6855]])
--  father of: Gershom ([[H1647]]) and Eliezer ([[H0461H]]); also called Manasseh at [[Judg.18.30|Jdg.18.30]] (?)
-- Aramaic of <i>mo.sheh</i> (<span class='ashebrew'>‎מ‎</span>ֹ<span class='ashebrew'>‎ש‎</span>ֶׁ<span class='ashebrew'>‎ה‎</span> "Moses" [[H4872]])
-
+-  son of: Amram (**<big>[[H6019|עַמְרָם]]</big>**) and Jochebed (**<big>[[H3115|יוֹכֶבֶד]]</big>**)
+-  brother of: Aaron (**<big>[[H0175|אַהֲרוֹן]]</big>**) and Miriam (**<big>[[H4813|מִרְיָם]]</big>**); married to Zipporah (**<big>[[H6855|צִפֹּרָה]]</big>**)
+-  father of: Gershom (**<big>[[H1647|גֵּרְשֹׁם]]</big>**) and Eliezer (**<big>[[H0461H|אֱלִיעֶזֶר]]</big>**); also called Manasseh at [[Judg.18.30|Jdg.18.30]]
+- Aramaic of <i>mo.sheh</i> (<span class='ashebrew'>‎מ‎</span>ֹ<span class='ashebrew'>‎ש‎</span>ֶׁ<span class='ashebrew'>‎ה‎</span> "Moses" **<big>[[H4872|מֹשֶׁה]]</big>**)

@@ -7,24 +7,24 @@ Thou shalt even take five shekels apiece by the poll, after the shekel of the sa
 you are to collect five shekels for each one, according to the sanctuary shekel of twenty gerahs.<small><sub>**MT:**</sub></small>
 [[Num.3.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.46|<< Numbers 3:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.48|Numbers 3:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| per | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| head; | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma | <big><span class="asgreek">δίδραχμον</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| of the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\] | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| you shall take \[them\]; | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shekel. | <big><span class="asgreek">σίκλος</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+|  | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| per | **<big>[[G2596\|κατά]]</big>** |
+| head; | **<big>[[G2776\|κεφαλήν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| double-drachma | **<big>[[G1323\|δίδραχμον]]</big>** |
+| of the | **<big>[[G3588\|το]]</big>** |
+| holy \[place\] | **<big>[[G0039\|άγιον]]</big>** |
+| you shall take \[them\]; | **<big>[[G2983\|λήψη]]</big>** |
+| twenty | **<big>[[G1501\|είκοσιν]]</big>** |
+| oboli | **<big>[[G8438\|οβολοί]]</big>** |
+| \[was\] the | **<big>[[G3588\|ο]]</big>** |
+| shekel. | **<big>[[G9079\|σίκλος]]</big>** |
 [[Num.3.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.46|<< Numbers 3:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.48|Numbers 3:48 >>]]</td></tr></table>
 
 

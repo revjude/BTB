@@ -1,3 +1,1 @@
-<span class="asaramaic">‎דָּת‎</span> <small>***(dat)***</small> ==**law**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-Aramaic of: <small>[[H1881]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1881|דָּת]]</big>**</small>

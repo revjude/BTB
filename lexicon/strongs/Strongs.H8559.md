@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תָּמָר‎</span></big> **Tâmâr** <small>*(taw-mawr')*</small> ==**Tamar**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎תָּמָר‎</span><sup><small>[[H8558]]</small></sup></small>
+**<big><span class="ashebrew">‎תָּמָר‎</span></big>** **Tâmâr** <small>*(taw-mawr')*</small> ==**Tamar**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H8558|‎תָּמָר‎]]</big>**</small>
 
 $\quad$ Tamar.
 - § Tamar = *"palm-tree"*
@@ -12,4 +12,4 @@ n pr f
 n pr loc
 **4)** a place on the southern border of Gad
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Θάμαρ</span><sup><small>[[G2283]]</small></sup>
+<small>See Greek: </small>**<big>[[G2283|Θάμαρ]]</big>**

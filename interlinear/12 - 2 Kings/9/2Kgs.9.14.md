@@ -6,28 +6,28 @@ Thus Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now J
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.13|<< 2 Kings 9:13]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.15|2 Kings 9:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he conspired  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְקַשֵּׁ֗ר </big></span><small><small><sup>[[H7194]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yit.ka.Sher <small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehu  | <span class="ashebrew"><big>יֵה֛וּא </big></span><small><small><sup>[[H3058H]]</sup></small></small> &#8207;| ye.Hu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehoshaphat  | <span class="ashebrew"><big>יְהוֹשָׁפָ֥ט </big></span><small><small><sup>[[H3092J]]</sup></small></small> &#8207;| ye.ho.sha.Fat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nimshi  | <span class="ashebrew"><big>נִמְשִׁ֖י </big></span><small><small><sup>[[H5250]]</sup></small></small> &#8207;| nim.Shi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joram  | <span class="ashebrew"><big>יוֹרָ֑ם </big></span><small><small><sup>[[H3141H]]</sup></small></small> &#8207;| yo.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Joram  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹרָם֩ </big></span><small><small><sup>[[H3141H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had been  | <span class="ashebrew"><big>הָיָ֨ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| watching  | <span class="ashebrew"><big>שֹׁמֵ֜ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Ramoth  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָמֹ֣ת </big></span><small><small><sup>[[H7418G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ra.Mot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  | <span class="ashebrew"><big>גִּלְעָ֗ד </big></span><small><small><sup>[[H1568M]]</sup></small></small> &#8207;| gil.'Ad <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֚וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from before  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hazael  | <span class="ashebrew"><big>חֲזָאֵ֖ל </big></span><small><small><sup>[[H2371]]</sup></small></small> &#8207;| cha.za.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aram  | <span class="ashebrew"><big>אֲרָֽם </big></span><small><small><sup>[[H0758I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Ram <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּתְקַשֵּׁ֗ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ka.Sher<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  |**<big>&#8207;[[H3058H\|יֵה֛וּא]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoshaphat  |**<big>&#8207;[[H3092J\|יְהוֹשָׁפָ֥ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nimshi  |**<big>&#8207;[[H5250\|נִמְשִׁ֖י]]&#8207; </big>**| nim.Shi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joram  |**<big>&#8207;[[H3141H\|יוֹרָ֑ם]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joram  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3141H\|יוֹרָם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had been  |**<big>&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watching  |**<big>&#8207;[[H8104H\|שֹׁמֵ֜ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Ramoth  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7418G\|רָמֹ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ra.Mot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568M\|גִּלְעָ֗ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֚וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazael  |**<big>&#8207;[[H2371\|חֲזָאֵ֖ל]]&#8207; </big>**| cha.za.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  |**<big>&#8207;[[H0758I\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.13|<< 2 Kings 9:13]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.15|2 Kings 9:15 >>]]</td></tr></table>
 
 

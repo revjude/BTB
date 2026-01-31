@@ -7,16 +7,16 @@ For he hath broken the gates of brass, and cut the bars of iron in sunder.
 For He has broken down the gates of bronze and cut through the bars of iron.<small><sub>**MT:**</sub></small>
 [[Ps.107.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.15|<< Psalm 107:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.17|Psalm 107:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he broke | <big><span class="asgreek">συνέτριψε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of brass; | <big><span class="asgreek">χαλκάς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] bars | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρούς</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| he fractured in pieces. | <big><span class="asgreek">συνέθλασεν</span></big> <sup><small><small>[[G4917]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he broke | **<big>[[G4937\|συνέτριψε]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλας]]</big>** |
+| of brass; | **<big>[[G5470\|χαλκάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] bars | **<big>[[G8352\|μοχλούς]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρούς]]</big>** |
+| he fractured in pieces. | **<big>[[G4917\|συνέθλασεν]]</big>** |
 [[Ps.107.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.15|<< Psalm 107:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.17|Psalm 107:17 >>]]</td></tr></table>
 
 

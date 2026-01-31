@@ -10,15 +10,15 @@ Yet have I set my king upon my holy hill of Zion.
 > $\quad$ referenced by: [[Rev.14.1|Rev 14:1]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I  | <span class="ashebrew"><big>וַ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| Va. <small><sup>[[HC]]</sup></small> 'a.ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have installed  | <span class="ashebrew"><big>נָסַ֣כְתִּי </big></span><small><small><sup>[[H5258B]]</sup></small></small> &#8207;| na.Sakh.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king my  | <span class="ashebrew"><big>מַלְכִּ֑ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| mal.K <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִ֝יּ֗וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness my  | <span class="ashebrew"><big>קָדְשִֽׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kod.sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have installed  |**<big>&#8207;[[H5258B\|נָסַ֣כְתִּי]]&#8207; </big>**| na.Sakh.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king my  |**<big>&#8207;[[H4428G\|מַלְכִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mal.K<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִ֝יּ֗וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness my  |**<big>&#8207;[[H6944G\|קָדְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kod.sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.5|<< Psalms 2:5]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.7|Psalms 2:7 >>]]</td></tr></table>
 
 

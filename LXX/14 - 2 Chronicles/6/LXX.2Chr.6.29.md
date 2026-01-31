@@ -7,37 +7,37 @@ then every prayer, and all supplication, whichever should be by any man, and all
 then may whatever prayer or plea Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—<small><sub>**MT:**</sub></small>
 [[2Chr.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.28|<< 2 Chronicles 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.30|2 Chronicles 6:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| prayer, | <big><span class="asgreek">προσευχήν</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| supplication, | <big><span class="asgreek">δέησιν</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
-| whichever | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| by any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| his infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his infirmity, | <big><span class="asgreek">μαλακίαν</span></big> <sup><small><small>[[G3119]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should open and spread out | <big><span class="asgreek">διαπετάση</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house; | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| prayer, | **<big>[[G4335\|προσευχήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| supplication, | **<big>[[G1162\|δέησιν]]</big>** |
+| whichever | **<big>[[G3739\|η]]</big>** **<big>[[G1437\|εάν]]</big>** |
+| should be | **<big>[[G1096\|γένηται]]</big>** |
+| by any | **<big>[[G3956\|παντί]]</big>** |
+| man, | **<big>[[G0444\|ανθρώπω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should know | **<big>[[G1097\|γνώ]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| his infection | **<big>[[G0860\|αφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his infirmity, | **<big>[[G3119\|μαλακίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should open and spread out | **<big>[[G6861\|διαπετάση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this house; | **<big>[[G3624\|οίκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[2Chr.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.28|<< 2 Chronicles 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.30|2 Chronicles 6:30 >>]]</td></tr></table>
 
 

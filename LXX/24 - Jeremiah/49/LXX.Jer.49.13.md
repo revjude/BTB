@@ -7,35 +7,35 @@ For I have sworn by myself, saith the LORD, that Bozrah shall become a desolatio
 For by Myself I have sworn, declares the LORD, that Bozrah will become a desolation, a disgrace, a ruin, and a curse, and all her cities will be in ruins forever.”<small><sub>**MT:**</sub></small>
 [[Jer.49.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.12|<< Jeremiah 49:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.14|Jeremiah 49:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτού</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| I swear by an oath, | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an untrodden \[land\], | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| scorning, | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a curse, | <big><span class="asgreek">κατάρασιν</span></big> <sup><small><small>[[G7906]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of her; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| wildernesses | <big><span class="asgreek">έρημοι</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| eon. | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| myself | **<big>[[G1683\|εμαυτού]]</big>** |
+| I swear by an oath, | **<big>[[G3660\|ώμοσα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an untrodden \[land\], | **<big>[[G6101\|άβατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| scorning, | **<big>[[G3680\|ονειδισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a curse, | **<big>[[G7906\|κατάρασιν]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of her; | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her cities | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| wildernesses | **<big>[[G2048\|έρημοι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| eon. | **<big>[[G3588\|τον]]</big>** **<big>[[G0166\|αιώνα]]</big>** |
 [[Jer.49.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.12|<< Jeremiah 49:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.14|Jeremiah 49:14 >>]]</td></tr></table>
 
 

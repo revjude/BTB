@@ -10,34 +10,34 @@ But in the last days it shall come to pass, [that] the mountain of the house of 
 In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it.<small><sub>**MT:**</sub></small>
 [[Mic.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] last | <big><span class="asgreek">εσχατων</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| apparent | <big><span class="asgreek">εμφανές</span></big> <sup><small><small>[[G1717]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| readied | <big><span class="asgreek">έτοιμον</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tops | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall rise up high | <big><span class="asgreek">μετεωρισθήσεται</span></big> <sup><small><small>[[G3349]]</small></small></sup> |
-| above | <big><span class="asgreek">υπεράνω</span></big> <sup><small><small>[[G5231]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills; | <big><span class="asgreek">βουνών</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall hasten | <big><span class="asgreek">σπεύσουσι</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| at | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] last | **<big>[[G2078\|εσχατων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| apparent | **<big>[[G1717\|εμφανές]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| readied | **<big>[[G2092\|έτοιμον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tops | **<big>[[G8073\|κορυφήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mountains, | **<big>[[G3735\|ορέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall rise up high | **<big>[[G3349\|μετεωρισθήσεται]]</big>** |
+| above | **<big>[[G5231\|υπεράνω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hills; | **<big>[[G1015\|βουνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall hasten | **<big>[[G4692\|σπεύσουσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
 [[Mic.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
 

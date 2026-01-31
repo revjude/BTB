@@ -1,4 +1,4 @@
-<small>Also see: [[H3328]]</small>
+<small>Also see: **<big>[[H3328|יִצְחַר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎צֹ֫חַר‎</span> 
 

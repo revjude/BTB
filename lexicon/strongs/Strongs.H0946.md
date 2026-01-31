@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בּוּנָה‎</span></big> **Bûwnâh** <small>*(boo-naw')*</small> ==**Bunah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בִּין‎</span><sup><small>[[H0995]]</small></sup>; discretion</small>
+**<big><span class="ashebrew">‎בּוּנָה‎</span></big>** **Bûwnâh** <small>*(boo-naw')*</small> ==**Bunah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0995|‎בִּין‎]]</big>**; discretion</small>
 
 $\quad$ Bunah.
 - § Bunah = *"intelligence"*

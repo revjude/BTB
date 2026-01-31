@@ -7,20 +7,20 @@ Remove thy stroke away from me: I am consumed by the blow of thine hand.
 Remove Your scourge from me; I am perishing by the force of Your hand.<small><sub>**MT:**</sub></small>
 [[Ps.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.9|<< Psalm 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.11|Psalm 39:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Abstain | <big><span class="asgreek">απόστησον</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your whips | <big><span class="asgreek">μαστιγάς</span></big> <sup><small><small>[[G3148]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| failed. | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| Abstain | **<big>[[G0868\|απόστησον]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your whips | **<big>[[G3148\|μαστιγάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| strength | **<big>[[G2479\|ισχύος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| failed. | **<big>[[G1587\|εξέλιπον]]</big>** |
 [[Ps.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.9|<< Psalm 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.11|Psalm 39:11 >>]]</td></tr></table>
 
 

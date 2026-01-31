@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְאִית‎</span></big> **rᵉʼîyth** <small>*(reh-eeth')*</small> ==**sight**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎רָאָה‎</span><sup><small>[[H7200]]</small></sup></small>
+**<big><span class="ashebrew">‎רְאִית‎</span></big>** **rᵉʼîyth** <small>*(reh-eeth')*</small> ==**sight**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H7200|‎רָאָה‎]]</big>**</small>
 
 $\quad$ beholding.
 - ***sight***

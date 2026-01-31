@@ -7,29 +7,29 @@ How then wilt thou turn away the face of one captain of the least of my master�
 For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?<small><sub>**MT:**</sub></small>
 [[2Kgs.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.23|<< 2 Kings 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.25|2 Kings 18:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| will you turn back | <big><span class="asgreek">αποστρέψεις</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| toparch | <big><span class="asgreek">τοπάρχου</span></big> <sup><small><small>[[G9466]]</small></small></sup> |
-| of one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my master | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| least of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">ελαχίστων</span></big> <sup><small><small>[[G1646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hope | <big><span class="asgreek">ήλπισας</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| horsemen? | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G4459\|πως]]</big>** |
+| will you turn back | **<big>[[G0654\|αποστρέψεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| toparch | **<big>[[G9466\|τοπάρχου]]</big>** |
+| of one | **<big>[[G1520\|ενός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G1401\|δούλων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my master | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| least of the | **<big>[[G3588\|των]]</big>** **<big>[[G1646\|ελαχίστων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hope | **<big>[[G1679\|ήλπισας]]</big>** |
+| for yourself | **<big>[[G4572\|σαυτώ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| chariots | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| horsemen? | **<big>[[G2460\|ιππείς]]</big>** |
 [[2Kgs.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.23|<< 2 Kings 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.25|2 Kings 18:25 >>]]</td></tr></table>
 
 

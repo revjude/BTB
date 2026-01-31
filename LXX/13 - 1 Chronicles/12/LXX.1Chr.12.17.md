@@ -7,51 +7,51 @@ And David went out to meet them, and answered and said unto them, If ye be come 
 And David went out to meet them, saying, “If you have come to me in peace to help me, my heart will be united with you; but if you have come to betray me to my enemies when my hands are free of violence, may the God of our fathers see it and judge you.”<small><sub>**MT:**</sub></small>
 [[1Chr.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.16|<< 1 Chronicles 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.18|1 Chronicles 12:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| you have come | <big><span class="asgreek">ήκατε</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to help | <big><span class="asgreek">βοηθήσαί</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| may it be | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| with | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| uniting. | <big><span class="asgreek">ένωσις</span></big> <sup><small><small>[[G7277]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver me up | <big><span class="asgreek">παραδούναί</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies, | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθεία</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| of hand, | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| see it | <big><span class="asgreek">ίδοι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reprove. | <big><span class="asgreek">ελέγξαι</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G0529\|απάντησιν]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| you have come | **<big>[[G2240\|ήκατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to help | **<big>[[G0997\|βοηθήσαί]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| may it be | **<big>[[G1510\|είη]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a heart | **<big>[[G2588\|καρδία]]</big>** |
+| with | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| uniting. | **<big>[[G7277\|ένωσις]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver me up | **<big>[[G3860\|παραδούναί]]</big>** **<big>[[G1473\|με]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my enemies, | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| truth | **<big>[[G0225\|αληθεία]]</big>** |
+| of hand, | **<big>[[G5495\|χειρός]]</big>** |
+| see it | **<big>[[G1492\|ίδοι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reprove. | **<big>[[G1651\|ελέγξαι]]</big>** |
 [[1Chr.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.16|<< 1 Chronicles 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.18|1 Chronicles 12:18 >>]]</td></tr></table>
 
 

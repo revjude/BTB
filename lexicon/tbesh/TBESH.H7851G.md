@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שִׁטִּים‎</span> <small>***(shit.tim)***</small> ==**Shittim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 - Shittim = "the acacias"
 -   place of Israel's encampment between the conquest of the transjordanic region and crossing the Jordan into Canaan
-- Also named: <i>a.vel hash.shit.tim</i> (<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ל‎</span> <span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ש‎</span>ִּׁ<span class='ashebrew'>‎ט‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Abel-shittim" [[H0063]])
+- Also named: <i>a.vel hash.shit.tim</i> (<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ל‎</span> <span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ש‎</span>ִּׁ<span class='ashebrew'>‎ט‎</span>ִּ<span class='ashebrew'>‎ים‎</span> "Abel-shittim" **<big>[[H0063|אָבֵל הַשִּׁטִּים]]</big>**)

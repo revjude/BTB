@@ -7,15 +7,15 @@ And he that stealeth a man, and selleth him, or if he be found in his hand, he s
 Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession.<small><sub>**MT:**</sub></small>
 [[Exod.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.15|<< Exodus 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.17|Exodus 21:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking evil | <big><span class="asgreek">κακολογών</span></big> <sup><small><small>[[G2551]]</small></small></sup> |
-| of his father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| let him come to an end! | <big><span class="asgreek">τελευτάτω</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| speaking evil | **<big>[[G2551\|κακολογών]]</big>** |
+| of his father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| his mother, | **<big>[[G3384\|μητέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| let him come to an end! | **<big>[[G5053\|τελευτάτω]]</big>** |
 [[Exod.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.15|<< Exodus 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.17|Exodus 21:17 >>]]</td></tr></table>
 
 

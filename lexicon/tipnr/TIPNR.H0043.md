@@ -4,10 +4,10 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ebiasaph</span>, also known as Abiasaph or Asaph, was a Levite descendant of Korah and an ancestor of temple gatekeepers. \([[1Chr.6.23|1Ch.6.23]],37; 9.19; [[Exod.6.24|Exo.6.24]]; [[1Chr.26.1|1Ch.26.1]]\)
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.24|Exo.6.24]]; 
-- referred to as Ebiasaph<[[H0043]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>, <span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>\), or Abiasaph<[[H0023]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>\), or Asaph<[[H0623K]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>\); 
--  son of Korah<[[H7141I]]>; 
-- a brother of Assir<[[H0617G]]> and Elkanah<[[H0511G]]>; 
--  father of Assir<[[H0617H]]> and Kore<[[H6981G]]>.
+- referred to as Ebiasaph **<big>[[H0043|אֶבְיָסָף]]</big>**, or Abiasaph **<big>[[H0023|אֲבִיאָסָף]]</big>**, or Asaph **<big>[[H0623|אָסָף]]</big>**; 
+-  son of Korah **<big>[[H7141|קֹרַח]]</big>**; 
+- a brother of Assir **<big>[[H0617|אַסִּיר]]</big>** and Elkanah **<big>[[H0511|אֶלְקָנָה]]</big>**; 
+-  father of Assir **<big>[[H0617|אַסִּיר]]</big>** and Kore **<big>[[H6981|קוֹרֵא]]</big>**.
 
 Ebiasaph, also known as Abiasaph or Asaph, is mentioned in several genealogies in the Old Testament. He was a descendant of Korah, the Levite who led a rebellion against Moses and Aaron in the wilderness \(Numbers 16\). 
 
@@ -25,10 +25,10 @@ Ebiasaph's inclusion in these genealogies highlights the importance of the Levit
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebiasaph | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>, <span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0043) <small>*Hebrew*</small> | 3x | [[1Ch.6.23] ... [1Ch.9.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebiasaph\*\|reference=1Ch.6.23;1Ch.6.37;1Ch.9.19) |
-| Abiasaph | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0023) <small>*Hebrew*</small> | 1x | [Exo.6.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abiasaph\*\|reference=Exo.6.24) |
-| Asaph | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0623K) <small>*Hebrew*</small> | 1x | [1Ch.26.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asaph\*\|reference=1Ch.26.1) |
-All Strong's for **Ebiasaph or Abiasaph or Asaph**: \[[[H0043]]\] \[[[H0023]]\] \[[[H0623K]]\]
+| Ebiasaph | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>, <span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0043) | 3x | [[1Ch.6.23] ... [1Ch.9.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebiasaph\*\|reference=1Ch.6.23;1Ch.6.37;1Ch.9.19) |
+| Abiasaph | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0023) | 1x | [Exo.6.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abiasaph\*\|reference=Exo.6.24) |
+| Asaph | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ף</span>](H0623K) | 1x | [1Ch.26.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asaph\*\|reference=1Ch.26.1) |
+All entries for **Ebiasaph or Abiasaph or Asaph**:  **<big>[[H0043|אֶבְיָסָף]]</big>** ☩  **<big>[[H0023|אֲבִיאָסָף]]</big>** ☩  **<big>[[H0623|אָסָף]]</big>**
 #### Related Profiles:
 - **[Korah](H7141I)** (father)
 - **[Assir](H0617G)** (sibling)

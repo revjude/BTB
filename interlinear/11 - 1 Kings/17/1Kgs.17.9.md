@@ -10,21 +10,21 @@ Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behol
 > $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| arise  | <span class="ashebrew"><big>ק֣וּם </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| kum <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go  | <span class="ashebrew"><big>לֵ֤ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| lekh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zarephath towards  | <span class="ashebrew"><big>צָרְפַ֙תָ </big></span><small><small><sup>[[H6886]]</sup></small></small> <span class="ashebrew"><big>ה֙ </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| tza.re.Fa.ta <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to Sidon  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>צִיד֔וֹן </big></span><small><small><sup>[[H6721H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> tzi.Don <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will dwell  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָשַׁבְתָּ֖ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.shav.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֑ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֨ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have commanded  | <span class="ashebrew"><big>צִוִּ֥יתִי </big></span><small><small><sup>[[H6680]]</sup></small></small> &#8207;| tzi.Vi.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֛ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁ֥ה </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a widow  | <span class="ashebrew"><big>אַלְמָנָ֖ה </big></span><small><small><sup>[[H0490]]</sup></small></small> &#8207;| 'al.ma.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to supply you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כַלְכְּלֶֽ </big></span><small><small><sup>[[H3557]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khal.ke.Le. <small><sup>[[HVpcc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arise  |**<big>&#8207;[[H6965B\|ק֣וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לֵ֤ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zarephath towards  |**<big>&#8207;[[H6886\|צָרְפַ֙תָ]]&#8207;&#8207;[[H9011\|ה֙]]&#8207; </big>**| tza.re.Fa.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to Sidon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6721H\|צִיד֔וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tzi.Don<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשַׁבְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.shav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have commanded  |**<big>&#8207;[[H6680\|צִוִּ֥יתִי]]&#8207; </big>**| tzi.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֛ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802H\|אִשָּׁ֥ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a widow  |**<big>&#8207;[[H0490\|אַלְמָנָ֖ה]]&#8207; </big>**| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to supply you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3557\|כַלְכְּלֶֽ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khal.ke.Le.<small><sup>[[HVpcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.8|<< 1 Kings 17:8]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.10|1 Kings 17:10 >>]]</td></tr></table>
 
 

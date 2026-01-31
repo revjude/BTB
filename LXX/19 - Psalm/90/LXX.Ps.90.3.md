@@ -7,18 +7,18 @@ Thou turnest man to destruction; and sayest, Return, ye children of men.
 You return man to dust, saying, “Return, O sons of mortals.”<small><sub>**MT:**</sub></small>
 [[Ps.90.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.2|<< Psalm 90:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.4|Psalm 90:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| return | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| humiliation, | <big><span class="asgreek">ταπείνωσιν</span></big> <sup><small><small>[[G5014]]</small></small></sup> |
-| whereas | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Return, | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of men! | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| return | **<big>[[G0654\|αποστρέψης]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| humiliation, | **<big>[[G5014\|ταπείνωσιν]]</big>** |
+| whereas | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπας]]</big>** |
+| Return, | **<big>[[G1994\|επιστρέψατε]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of men! | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Ps.90.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.2|<< Psalm 90:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.4|Psalm 90:4 >>]]</td></tr></table>
 
 

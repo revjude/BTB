@@ -7,25 +7,25 @@ But if I say thus unto the young man, Behold, the arrows [are] beyond thee; go t
 But if I say to the young man, ‘Look, the arrows are beyond you,’ then you must go, for the LORD has sent you away.<small><sub>**MT:**</sub></small>
 [[1Sam.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.21|<< 1 Samuel 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.23|1 Samuel 20:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| I should say | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young man, | <big><span class="asgreek">νεανία</span></big> <sup><small><small>[[G3494]]</small></small></sup> |
-| Here \[is\] | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dart, | <big><span class="asgreek">σχίζα</span></big> <sup><small><small>[[G9382]]</small></small></sup> |
-| away from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beyond. | <big><span class="asgreek">επέκεινα</span></big> <sup><small><small>[[G1900]]</small></small></sup> |
-| Go! | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| sends | <big><span class="asgreek">εξαπέσταλκέ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you out | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| I should say | **<big>[[G2036\|είπω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| young man, | **<big>[[G3494\|νεανία]]</big>** |
+| Here \[is\] | **<big>[[G5602\|ώδε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| dart, | **<big>[[G9382\|σχίζα]]</big>** |
+| away from | **<big>[[G0575\|από]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beyond. | **<big>[[G1900\|επέκεινα]]</big>** |
+| Go! | **<big>[[G4198\|πορεύου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| sends | **<big>[[G1821\|εξαπέσταλκέ]]</big>** |
+| you out | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[1Sam.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.21|<< 1 Samuel 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.23|1 Samuel 20:23 >>]]</td></tr></table>
 
 

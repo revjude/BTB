@@ -7,42 +7,42 @@ There is a vanity which is done upon the earth; that there be just [men], unto w
 There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.<small><sub>**MT:**</sub></small>
 [[Eccl.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.13|<< Ecclesiastes 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.15|Ecclesiastes 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a folly | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is done | <big><span class="asgreek">πεποίηται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| just ones | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| attain | <big><span class="asgreek">φθάνει</span></big> <sup><small><small>[[G5348]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] action | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious; | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| attain | <big><span class="asgreek">φθάνει</span></big> <sup><small><small>[[G5348]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] action | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just. | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Indeed also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] folly. | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
+| There is | **<big>[[G1510\|έστι]]</big>** |
+| a folly | **<big>[[G3153\|ματαιότης]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is done | **<big>[[G4160\|πεποίηται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there are | **<big>[[G1510\|εισί]]</big>** |
+| just ones | **<big>[[G1342\|δίκαιοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| attain | **<big>[[G5348\|φθάνει]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] action | **<big>[[G4161\|ποίημα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| impious; | **<big>[[G0765\|ασεβών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there are | **<big>[[G1510\|εισίν]]</big>** |
+| impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| attain | **<big>[[G5348\|φθάνει]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] action | **<big>[[G4161\|ποίημα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| just. | **<big>[[G1342\|δικαίων]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| Indeed also | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] folly. | **<big>[[G3153\|ματαιότης]]</big>** |
 [[Eccl.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.13|<< Ecclesiastes 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.15|Ecclesiastes 8:15 >>]]</td></tr></table>
 
 

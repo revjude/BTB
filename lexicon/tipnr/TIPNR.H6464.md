@@ -1,8 +1,8 @@
 <small>*Pau • In Edom • A city in Edom*</small>
 
 <span class='tipnrhighlight'>Pau</span>, also known as Pai, was a city in Edom mentioned in the genealogy of Edomite kings.
-- A location in Edom Bozrah<[[H1224G]]> first mentioned at [[Gen.36.39|Gen.36.39]]; 
-- referred to as Pau or Pai \(NIV= Pau\) <[[H6464]]> \(<span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>עו</span>ּ\).
+- A location in Edom Bozrah **<big>[[H1224|בׇּצְרָה]]</big>** first mentioned at [[Gen.36.39|Gen.36.39]]; 
+- referred to as Pau or Pai \(NIV= Pau\)  **<big>[[H6464|פָּעוּ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Pau, also referred to as Pai, was a city in the land of Edom, located south of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pau | [<span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>עו</span>ּ](H6464) <small>*Hebrew*</small> | 1x | [Gen.36.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pau\*\|reference=Gen.36.39) |
-| Pai (NIV= Pau) | [<span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>עו</span>ּ](H6464) <small>*Hebrew*</small> | 1x | [1Ch.1.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pai\*\|reference=1Ch.1.50) |
-All Strong's for **Pau or Pai**: \[[[H6464]]\]
+| Pau | [<span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>עו</span>ּ](H6464) | 1x | [Gen.36.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pau\*\|reference=Gen.36.39) |
+| Pai (NIV= Pau) | [<span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>עו</span>ּ](H6464) | 1x | [1Ch.1.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pai\*\|reference=1Ch.1.50) |
+All entries for **Pau or Pai**:  **<big>[[H6464|פָּעוּ]]</big>**

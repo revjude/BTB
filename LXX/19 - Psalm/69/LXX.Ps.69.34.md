@@ -7,22 +7,22 @@ Let the heaven and earth praise him, the seas, and every thing that moveth there
 Let heaven and earth praise Him, the seas and everything that moves in them.<small><sub>**MT:**</sub></small>
 [[Ps.69.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.33|<< Psalm 69:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.35|Psalm 69:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| praise | <big><span class="asgreek">αινεσάτωσαν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling | <big><span class="asgreek">έρποντα</span></big> <sup><small><small>[[G7508]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| praise | **<big>[[G0134\|αινεσάτωσαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth, | **<big>[[G1093\|γη]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| crawling | **<big>[[G7508\|έρποντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her! | **<big>[[G1473\|αυτή]]</big>** |
 [[Ps.69.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.33|<< Psalm 69:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.35|Psalm 69:35 >>]]</td></tr></table>
 
 

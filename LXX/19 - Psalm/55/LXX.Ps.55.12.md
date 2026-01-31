@@ -7,25 +7,25 @@ For [it was] not an enemy [that] reproached me; then I could have borne [it]: ne
 For it is not an enemy who insults me; that I could endure. It is not a foe who rises against me; from him I could hide.<small><sub>**MT:**</sub></small>
 [[Ps.55.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.11|<< Psalm 55:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.13|Psalm 55:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| an enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| berated | <big><span class="asgreek">ωνείδισέ</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I would have endured. | <big><span class="asgreek">υπήνεγκα</span></big> <sup><small><small>[[G5297]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one detesting | <big><span class="asgreek">μισών</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke great words | <big><span class="asgreek">εμεγαλορρημόνησεν</span></big> <sup><small><small>[[G8268]]</small></small></sup> |
-| I would have hidden | <big><span class="asgreek">εκρύβην</span></big> <sup><small><small>[[G2928]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| an enemy | **<big>[[G2190\|εχθρός]]</big>** |
+| berated | **<big>[[G3679\|ωνείδισέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| I would have endured. | **<big>[[G5297\|υπήνεγκα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one detesting | **<big>[[G3404\|μισών]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| spoke great words | **<big>[[G8268\|εμεγαλορρημόνησεν]]</big>** |
+| I would have hidden | **<big>[[G2928\|εκρύβην]]</big>** **<big>[[G0302\|αν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.55.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.11|<< Psalm 55:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.13|Psalm 55:13 >>]]</td></tr></table>
 
 

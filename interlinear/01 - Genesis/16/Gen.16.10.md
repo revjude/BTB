@@ -6,19 +6,19 @@ Then the angel added, “I will greatly multiply your offspring so that they wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.9|<< Genesis 16:9]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.11|Genesis 16:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֤אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> her  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ֙ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] angel of  | <span class="ashebrew"><big>מַלְאַ֣ךְ </big></span><small><small><sup>[[H4397H]]</sup></small></small> &#8207;| mal.'Akh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to increase>  | <span class="ashebrew"><big>הַרְבָּ֥ה </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| har.Bah <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will increase  | <span class="ashebrew"><big>אַרְבֶּ֖ה </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| 'ar.Beh <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| offspring your  | <span class="ashebrew"><big>זַרְעֵ֑ </big></span><small><small><sup>[[H2233H]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| zar.'E <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be counted  | <span class="ashebrew"><big>יִסָּפֵ֖ר </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| yi.sa.Fer <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from multitude  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רֹֽב </big></span><small><small><sup>[[H7230]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Ro <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֣ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to increase>  |**<big>&#8207;[[H7235A\|הַרְבָּ֥ה]]&#8207; </big>**| har.Bah<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will increase  |**<big>&#8207;[[H7235A\|אַרְבֶּ֖ה]]&#8207; </big>**| 'ar.Beh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| offspring your  |**<big>&#8207;[[H2233H\|זַרְעֵ֑]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| zar.'E<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be counted  |**<big>&#8207;[[H5608A\|יִסָּפֵ֖ר]]&#8207; </big>**| yi.sa.Fer<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from multitude  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7230\|רֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.9|<< Genesis 16:9]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.11|Genesis 16:11 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ All go unto one place; all are of the dust, and all turn to dust again.
 All go to one place; all come from dust, and all return to dust.<small><sub>**MT:**</sub></small>
 [[Eccl.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.19|<< Ecclesiastes 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.21|Ecclesiastes 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| all \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dust, | <big><span class="asgreek">χοός</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">παντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| return | <big><span class="asgreek">επιστρέφει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dust. | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
+| All \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| go | **<big>[[G4198\|πορεύεται]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| all \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| dust, | **<big>[[G5522\|χοός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|παντα]]</big>** |
+| return | **<big>[[G1994\|επιστρέφει]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| dust. | **<big>[[G5522\|χουν]]</big>** |
 [[Eccl.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.19|<< Ecclesiastes 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.21|Ecclesiastes 3:21 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַדְבְּאֵל‎</span></big> **ʼAdbᵉʼêl** <small>*(ad-beh-ale')*</small> ==**Adbeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎אָדַב‎</span><sup><small>[[H0109]]</small></sup> (in the sense of chastisement) and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; disciplined of God</small>
+**<big><span class="ashebrew">‎אַדְבְּאֵל‎</span></big>** **ʼAdbᵉʼêl** <small>*(ad-beh-ale')*</small> ==**Adbeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H0109|‎אָדַב‎]]</big>** (in the sense of chastisement) and **<big>[[H0410|‎אֵל‎]]</big>**; disciplined of God</small>
 
 $\quad$ Adbeel.
 - § Adbeel = *"chastened of God"*

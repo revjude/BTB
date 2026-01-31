@@ -6,25 +6,25 @@ and he reigned in Jerusalem three years. His mother’s name was Micaiah daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.1|<< 2 Chronicles 13:1]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.3|2 Chronicles 13:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| three  | <span class="ashebrew"><big>שָׁל֣וֹשׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| sha.Lo.osh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֗ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he reigned  | <span class="ashebrew"><big>מָלַךְ֙ </big></span><small><small><sup>[[H4427A]]</sup></small></small> &#8207;| ma.laKh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Jerusalem  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יר֣וּשָׁלִַ֔ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> Ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] name of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֣ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mother his  | <span class="ashebrew"><big>אִמּ֔ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'i.M <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Micaiah  | <span class="ashebrew"><big>מִיכָיָ֥הוּ </big></span><small><small><sup>[[H4322H]]</sup></small></small> &#8207;| mi.kha.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| vat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Uriel  | <span class="ashebrew"><big>אוּרִיאֵ֖ל </big></span><small><small><sup>[[H0222I]]</sup></small></small> &#8207;| 'u.ri.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gibeah  | <span class="ashebrew"><big>גִּבְעָ֑ה </big></span><small><small><sup>[[H1390G]]</sup></small></small> &#8207;| giv.'Ah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and war  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִלְחָמָ֥ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was  | <span class="ashebrew"><big>הָיְתָ֛ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.ye.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֥ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abijah  | <span class="ashebrew"><big>אֲבִיָּ֖ה </big></span><small><small><sup>[[H0029I]]</sup></small></small> &#8207;| 'a.vi.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and between  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Vein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeroboam  | <span class="ashebrew"><big>יָרָבְעָֽם </big></span><small><small><sup>[[H3379G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.ra.ve.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שָׁל֣וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֗ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he reigned  |**<big>&#8207;[[H4427A\|מָלַךְ֙]]&#8207; </big>**| ma.laKh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|יר֣וּשָׁלִַ֔ם]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  |**<big>&#8207;[[H0517\|אִמּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Micaiah  |**<big>&#8207;[[H4322H\|מִיכָיָ֥הוּ]]&#8207; </big>**| mi.kha.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uriel  |**<big>&#8207;[[H0222I\|אוּרִיאֵ֖ל]]&#8207; </big>**| 'u.ri.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gibeah  |**<big>&#8207;[[H1390G\|גִּבְעָ֑ה]]&#8207; </big>**| giv.'Ah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and war  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4421\|מִלְחָמָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was  |**<big>&#8207;[[H1961\|הָיְתָ֛ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֥ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abijah  |**<big>&#8207;[[H0029I\|אֲבִיָּ֖ה]]&#8207; </big>**| 'a.vi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֥ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.1|<< 2 Chronicles 13:1]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.3|2 Chronicles 13:3 >>]]</td></tr></table>
 
 

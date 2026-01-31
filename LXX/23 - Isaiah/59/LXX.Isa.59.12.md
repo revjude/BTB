@@ -7,29 +7,29 @@ For our transgressions are multiplied before thee, and our sins testify against 
 For our transgressions are multiplied before You, and our sins testify against us. Our transgressions are indeed with us, and we know our iniquities:<small><sub>**MT:**</sub></small>
 [[Isa.59.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.11|<< Isaiah 59:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.13|Isaiah 59:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] great | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]][[G1063]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our sins | <big><span class="asgreek">αμαρτίαι</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| withstood | <big><span class="asgreek">αντέστησαν</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| our lawless deeds | <big><span class="asgreek">ανομίαι</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our offences | <big><span class="asgreek">αδικήματα</span></big> <sup><small><small>[[G0092]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we knew. | <big><span class="asgreek">έγνωμεν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| \[is\] great | **<big>[[G4183\|πολλή]]</big>**<sup><small>[[G1063\| [ • ] ]]</small></sup> |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| our sins | **<big>[[G0266\|αμαρτίαι]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| withstood | **<big>[[G0436\|αντέστησαν]]</big>** |
+| us. | **<big>[[G1473\|ημίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| our lawless deeds | **<big>[[G0458\|ανομίαι]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| our offences | **<big>[[G0092\|αδικήματα]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| we knew. | **<big>[[G1097\|έγνωμεν]]</big>** |
 [[Isa.59.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.11|<< Isaiah 59:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.13|Isaiah 59:13 >>]]</td></tr></table>
 
 

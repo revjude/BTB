@@ -7,33 +7,33 @@ Neither hath Samaria committed half of thy sins; but thou hast multiplied thine 
 Furthermore, Samaria did not commit half the sins you did. You have multiplied your abominations beyond theirs, and all the abominations you have committed have made your sisters appear righteous.<small><sub>**MT:**</sub></small>
 [[Ezek.16.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.50|<< Ezekiel 16:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.52|Ezekiel 16:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμάρεια</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| halves | <big><span class="asgreek">ημίσεις</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sin | <big><span class="asgreek">ήμαρτε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lawless deeds | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| justified | <big><span class="asgreek">εδικαίωσας</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sisters | <big><span class="asgreek">αδελφάς</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lawless deeds | <big><span class="asgreek">ανομίαις</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did. | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμάρεια]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| halves | **<big>[[G2255\|ημίσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your sins | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| did not | **<big>[[G3756\|ουχ]]</big>** |
+| sin | **<big>[[G0264\|ήμαρτε]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| you multiplied | **<big>[[G4129\|επλήθυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your lawless deeds | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| justified | **<big>[[G1344\|εδικαίωσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your sisters | **<big>[[G0079\|αδελφάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your lawless deeds | **<big>[[G0458\|ανομίαις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| you did. | **<big>[[G4160\|εποίησας]]</big>** |
 [[Ezek.16.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.50|<< Ezekiel 16:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.52|Ezekiel 16:52 >>]]</td></tr></table>
 
 

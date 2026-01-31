@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוֹר‎</span></big> **dôwr** <small>*(dore)*</small> ==**generation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">דֹּר</span> **dôr** <small>*(dore)*</small>; from <span class="ashebrew">‎דּוּר‎</span><sup><small>[[H1752]]</small></sup></small>
+**<big><span class="ashebrew">‎דּוֹר‎</span></big>** **dôwr** <small>*(dore)*</small> ==**generation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">דֹּר</span></big>** **dôr** <small>*(dore)*</small>; from **<big>[[H1752|‎דּוּר‎]]</big>**</small>
 
 $\quad$ age, [idiom] evermore, generation, (n-) ever, posterity.
 - properly, ***a revolution of time***, i.e. ***an age*** or ***generation***
@@ -11,4 +11,4 @@ $\quad$ **1b)** generation (those living during a period)
 $\quad$ **1c)** generation (characterised by quality, condition, class of men)
 $\quad$ **1d)** dwelling-place, habitation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γενεά</span><sup><small>[[G1074]]</small></sup> · <span class="asgreek">γένεσις</span><sup><small>[[G1078]]</small></sup> · <span class="asgreek">ἔκγονον</span><sup><small>[[G1549]]</small></sup> · <span class="asgreek">τέκνον</span><sup><small>[[G5043]]</small></sup>
+<small>See Greek: </small>**<big>[[G1074|γενεά]]</big>** · **<big>[[G1078|γένεσις]]</big>** · **<big>[[G1549|ἔκγονον]]</big>** · **<big>[[G5043|τέκνον]]</big>**

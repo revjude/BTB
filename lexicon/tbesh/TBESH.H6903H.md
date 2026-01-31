@@ -1,5 +1,4 @@
-<span class="ashebrew">‎קֳבֵל‎</span> <small>***(qe.vel)***</small> ==**before: because**==  <sup><small>[[TEHMC#A:Conj|A:Conj]]</small></sup> 
-Hebrew of: <small>[[H6905H]]</small> 
+<small>Hebrew of:</small> <small>**<big>[[H6905H|קָבָל]]</big>**</small> 
 
 - subst
 - prep

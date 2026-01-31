@@ -1,4 +1,3 @@
-<span class="ashebrew">‎יְהֹוָה שָׁמָּה‎</span> <small>***(ye.ho.vah sham.mah)***</small> ==**YHWH/Yahweh-shammah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-combination of: <small>[[H3389]] ([[H3068H]]+[[H8033H]])</small> 
+<small>combination of:</small> <small>**<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** (**<big>[[H3068H|יְהֹוָה]]</big>**+**<big>[[H8033H|שָׁם]]</big>**)</small> 
 
 - Jehovah-shammah = "Jehovah is there"

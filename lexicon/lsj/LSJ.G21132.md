@@ -1,4 +1,4 @@
-spelling of: <small>[[G9216]]</small> 
+spelling of: <small>**<big>[[G9216|στυππίον]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==στιππύον==</span></b>, <span class='asgreek'>τό</span>,

@@ -7,35 +7,35 @@ And he went after the man of Israel into the tent, and thrust both of them throu
 followed the Israelite into the tent, and drove the spear through both of them—through the Israelite and on through the belly of the woman. So the plague against the Israelites was halted,<small><sub>**MT:**</sub></small>
 [[Num.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.7|<< Numbers 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.9|Numbers 25:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| he entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israelitish man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραηλίτου</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace, | <big><span class="asgreek">κάμινον</span></big> <sup><small><small>[[G2575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he pierced | <big><span class="asgreek">απεκέντησεν</span></big> <sup><small><small>[[G6439]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφοτέρους</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-|  | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| Israelitish man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ισραηλίτην</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her womb; | <big><span class="asgreek">μήτρας</span></big> <sup><small><small>[[G3388]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ceased | <big><span class="asgreek">επαύσατο</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| he entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Israelitish man | **<big>[[G0444\|ανθρώπου]]</big>** **<big>[[G3588\|του]]</big>** **<big>[[G2474\|Ισραηλίτου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| furnace, | **<big>[[G2575\|κάμινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he pierced | **<big>[[G6439\|απεκέντησεν]]</big>** |
+| both | **<big>[[G0297\|αμφοτέρους]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+|  | **<big>[[G5037\|τε]]</big>** |
+| Israelitish man, | **<big>[[G0444\|άνθρωπον]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2474\|Ισραηλίτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| her womb; | **<big>[[G3388\|μήτρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ceased | **<big>[[G3973\|επαύσατο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| calamity | **<big>[[G4127\|πληγή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.7|<< Numbers 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.9|Numbers 25:9 >>]]</td></tr></table>
 
 

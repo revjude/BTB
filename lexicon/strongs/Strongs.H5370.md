@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֵרְגַּל‎</span></big> **Nêrᵉgal** <small>*(nare-gal')*</small> ==**Nergal**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎נֵרְגַּל‎</span></big>** **Nêrᵉgal** <small>*(nare-gal')*</small> ==**Nergal**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Nergal.

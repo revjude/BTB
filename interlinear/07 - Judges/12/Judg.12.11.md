@@ -6,19 +6,19 @@ After Ibzan, Elon the Zebulunite judged Israel ten years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.10|<< Judges 12:10]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.12|Judges 12:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he judged  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁפֹּ֤ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Pot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after him  | <span class="ashebrew"><big>אַֽחֲרָי </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.cha.Ra <small><sup>[[HAcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elon  | <span class="ashebrew"><big>אֵיל֖וֹן </big></span><small><small><sup>[[H0356J]]</sup></small></small> &#8207;| 'ei.Lon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Zebulunite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זְּבֽוּלֹנִ֑י </big></span><small><small><sup>[[H2075]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ze.vu.lo.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he judged  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁפֹּ֥ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Pot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶ֥שֶׂר </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'E.ser <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִֽים </big></span><small><small><sup>[[H8141]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  |**<big>&#8207;[[H0310A\|אַֽחֲרָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elon  |**<big>&#8207;[[H0356J\|אֵיל֖וֹן]]&#8207; </big>**| 'ei.Lon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Zebulunite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2075\|זְּבֽוּלֹנִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.vu.lo.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֥ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֶ֥שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.10|<< Judges 12:10]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.12|Judges 12:12 >>]]</td></tr></table>
 
 

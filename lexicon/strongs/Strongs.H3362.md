@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇקְנְעָם‎</span></big> **Yoqnᵉʻâm** <small>*(yok-neh-awm')*</small> ==**Jokneam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּן‎</span><sup><small>[[H6969]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; (the) people will be lamented</small>
+**<big><span class="ashebrew">‎יׇקְנְעָם‎</span></big>** **Yoqnᵉʻâm** <small>*(yok-neh-awm')*</small> ==**Jokneam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6969|‎קוּן‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; (the) people will be lamented</small>
 
 $\quad$ Jokneam.
 - § Jokneam = *"the people lament"*

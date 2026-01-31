@@ -1,3 +1,1 @@
-<span class="asaramaic">‎סְבַל‎</span> <small>***(se.val)***</small> ==**to bear**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H5445]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H5445|סָבַל]]</big>**</small>

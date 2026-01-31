@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלּוּךְ‎</span></big> **Mallûwk** <small>*(mal-luke')*</small> ==**Malluch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַלּוּכִי</span> **Mallûwkîy** <small>*(mal-loo-kee')*</small>; (Nehemiah 12:14), from <span class="ashebrew">‎מָלַךְ‎</span><sup><small>[[H4427]]</small></sup>; remnant</small>
+**<big><span class="ashebrew">‎מַלּוּךְ‎</span></big>** **Mallûwk** <small>*(mal-luke')*</small> ==**Malluch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַלּוּכִי</span></big>** **Mallûwkîy** <small>*(mal-loo-kee')*</small>; (Nehemiah 12:14), from **<big>[[H4427|‎מָלַךְ‎]]</big>**; remnant</small>
 
 $\quad$ Malluch, Melichu (from the margin).
 - § Malluch or Melicu = *"counsellor"*

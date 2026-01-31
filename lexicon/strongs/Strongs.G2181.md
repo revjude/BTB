@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎Ἔφεσος‎</span></big> **Éphesos** <small>*(ef'-es-os)*</small> ==**Ephesus**==  <sup><small>[[TEGMC#N:N-F-L|N:N-F-L]]</small></sup> 
+**<big><span class="asgreek">‎Ἔφεσος‎</span></big>** **Éphesos** <small>*(ef'-es-os)*</small> ==**Ephesus**==  <sup><small>[[TEGMC#N:N-F-L|N:N-F-L]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Ephesus.

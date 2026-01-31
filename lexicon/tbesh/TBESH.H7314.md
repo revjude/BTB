@@ -1,3 +1,1 @@
-<span class="asaramaic">‎רוּם‎</span> <small>***(rum)***</small> ==**height**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7312]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7312|רוּם]]</big>**</small>

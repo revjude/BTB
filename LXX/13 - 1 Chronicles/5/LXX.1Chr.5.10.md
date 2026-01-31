@@ -7,34 +7,34 @@ And in the days of Saul they made war with the Hagarites, who fell by their hand
 During the days of Saul they waged war against the Hagrites, who were defeated at their hands, and they occupied the dwellings of the Hagrites throughout the region east of Gilead.<small><sub>**MT:**</sub></small>
 [[1Chr.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.9|<< 1 Chronicles 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.11|1 Chronicles 5:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hagarites, | <big><span class="asgreek">Αγαρηνών</span></big> <sup><small><small>[[G0028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fell | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they dwelt | <big><span class="asgreek">κατώκησαν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tents | <big><span class="asgreek">σκηναίς</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] east \[parts\] | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Gilead. | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Hagarites, | **<big>[[G0028\|Αγαρηνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fell | **<big>[[G4098\|έπεσον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they dwelt | **<big>[[G2730\|κατώκησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their tents | **<big>[[G4633\|σκηναίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] east \[parts\] | **<big>[[G0395\|ανατολών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Gilead. | **<big>[[H1568\|Γαλαάδ]]</big>** |
 [[1Chr.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.9|<< 1 Chronicles 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.11|1 Chronicles 5:11 >>]]</td></tr></table>
 
 

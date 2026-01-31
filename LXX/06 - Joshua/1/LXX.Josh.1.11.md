@@ -7,43 +7,43 @@ Pass through the host, and command the people, saying, Prepare you victuals; for
 “Go through the camp and tell the people, ‘Prepare your provisions, for within three days you will cross the Jordan to go in and take possession of the land that the LORD your God is giving you to possess.’”<small><sub>**MT:**</sub></small>
 [[Josh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Enter | <big><span class="asgreek">εισέλθετε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give charge | <big><span class="asgreek">εντείλασθε</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people! | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Prepare | <big><span class="asgreek">ετοιμάζεσθε</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| provisions! | <big><span class="asgreek">επισιτισμόν</span></big> <sup><small><small>[[G1979]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \[in\] three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pass over | <big><span class="asgreek">διαβαίνετε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this Jordan, | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισελθόντες</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to take control | <big><span class="asgreek">κατασχείν</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| \[of\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Enter | **<big>[[G1525\|εισέλθετε]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| give charge | **<big>[[G1781\|εντείλασθε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people! | **<big>[[G2992\|λαώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Prepare | **<big>[[G2090\|ετοιμάζεσθε]]</big>** |
+| provisions! | **<big>[[G1979\|επισιτισμόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| \[in\] three | **<big>[[G5140\|τρεις]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| pass over | **<big>[[G1224\|διαβαίνετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this Jordan, | **<big>[[G2446\|Ιορδάνην]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| entering | **<big>[[G1525\|εισελθόντες]]</big>** |
+| to take control | **<big>[[G2722\|κατασχείν]]</big>** |
+| \[of\] the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| gives | **<big>[[G1325\|δίδωσιν]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Josh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
 

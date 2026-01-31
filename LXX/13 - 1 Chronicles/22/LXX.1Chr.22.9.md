@@ -7,37 +7,37 @@ Behold, a son shall be born to thee, who shall be a man of rest; and I will give
 But a son will be born to you who will be a man of rest. I will give him rest from all his enemies on every side; for his name will be Solomon, and I will grant to Israel peace and quiet during his reign.<small><sub>**MT:**</sub></small>
 [[1Chr.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.8|<< 1 Chronicles 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.10|1 Chronicles 22:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| is born | <big><span class="asgreek">τίκτεταί</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of rest; | <big><span class="asgreek">αναπαύσεως</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will rest | <big><span class="asgreek">αναπαύσω</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \[is\] his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rest | <big><span class="asgreek">ησυχίαν</span></big> <sup><small><small>[[G2271]]</small></small></sup> |
-| I shall appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days. | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| is born | **<big>[[G5088\|τίκτεταί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| of rest; | **<big>[[G0372\|αναπαύσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will rest | **<big>[[G0373\|αναπαύσω]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his enemies | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| \[is\] his name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rest | **<big>[[G2271\|ησυχίαν]]</big>** |
+| I shall appoint | **<big>[[G1325\|δώσω]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his days. | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Chr.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.8|<< 1 Chronicles 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.10|1 Chronicles 22:10 >>]]</td></tr></table>
 
 

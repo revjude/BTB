@@ -9,37 +9,37 @@ Arise, cry out in the night: in the beginning of the watches pour out thine hear
 Arise, cry out in the night from the first watch of the night. Pour out your heart like water in the presence of the Lord. Lift up your hands to Him for the lives of your children who are fainting from hunger on the corner of every street.<small><sub>**MT:**</sub></small>
 [[Lam.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΚΩΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΚΩΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| to meditate | <big><span class="asgreek">αδολεσχήσαι</span></big> <sup><small><small>[[G6139]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] night! | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| At | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] beginnings | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of your watch | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pour out | <big><span class="asgreek">έκχεον</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Lift | <big><span class="asgreek">άρον</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \[the\] lives | <big><span class="asgreek">ψυχών</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of your infants, | <big><span class="asgreek">νηπίων</span></big> <sup><small><small>[[G3516]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fainting | <big><span class="asgreek">εκλυομένων</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| from hunger | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| at | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] corner | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] streets! | <big><span class="asgreek">εξόδων</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| ΚΩΦ <sup><small>[acrostic title]</small></sup> |  |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| to meditate | **<big>[[G6139\|αδολεσχήσαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] night! | **<big>[[G3571\|νυκτί]]</big>** |
+| At | **<big>[[G1519\|εις]]</big>** |
+| \[the\] beginnings | **<big>[[G0746\|αρχάς]]</big>** |
+| of your watch | **<big>[[G5438\|φυλακής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| pour out | **<big>[[G1632\|έκχεον]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| your heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| Lift | **<big>[[G0142\|άρον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| your hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \[the\] lives | **<big>[[G5590\|ψυχών]]</big>** |
+| of your infants, | **<big>[[G3516\|νηπίων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| fainting | **<big>[[G1590\|εκλυομένων]]</big>** |
+| from hunger | **<big>[[G3042\|λιμώ]]</big>** |
+| at | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] corner | **<big>[[G0746\|αρχής]]</big>** |
+| of all | **<big>[[G3956\|πασών]]</big>** |
+| \[the\] streets! | **<big>[[G1841\|εξόδων]]</big>** |
 [[Lam.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
 

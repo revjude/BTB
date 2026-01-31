@@ -7,28 +7,28 @@ And have cast their gods into the fire: for they [were] no gods, but the work of
 They have cast their gods into the fire and destroyed them, for they were not gods, but only wood and stone—the work of human hands.<small><sub>**MT:**</sub></small>
 [[Isa.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.18|<< Isaiah 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.20|Isaiah 37:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they raised | <big><span class="asgreek">ανέβαλον</span></big> <sup><small><small>[[G0306]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of \[the\] hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones -- | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they destroyed them. | <big><span class="asgreek">απώλεσαν</span></big> <sup><small><small>[[G0622]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they raised | **<big>[[G0306\|ανέβαλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their idols | **<big>[[G1497\|είδωλα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire, | **<big>[[G4442\|πυρ]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| gods | **<big>[[G2316\|θεοί]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of \[the\] hands | **<big>[[G5495\|χειρών]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones -- | **<big>[[G3037\|λίθοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they destroyed them. | **<big>[[G0622\|απώλεσαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 [[Isa.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.18|<< Isaiah 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.20|Isaiah 37:20 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ They encounter darkness by day and grope at noon as in the night.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.13|<< Job 5:13]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.15|Job 5:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| by day  | <span class="ashebrew"><big>יוֹמָ֥ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they meet  | <span class="ashebrew"><big>יְפַגְּשׁוּ </big></span><small><small><sup>[[H6298]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.fa.ge.shu- <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹ֑שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like \<the> night  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כַ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לַּ֗יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha. <small><sup>[[HRd]]</sup></small> Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they grope  | <span class="ashebrew"><big>יְֽמַשְׁשׁ֥וּ </big></span><small><small><sup>[[H4959]]</sup></small></small> &#8207;| ye.mash.Shu <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at \<the> noon\<s>  | <span class="ashebrew"><big>בַֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צָּהֳרָֽיִם </big></span><small><small><sup>[[H6672A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Va. <small><sup>[[HRd]]</sup></small> tzo.ho.Ra.yim <small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָ֥ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they meet  |**<big>&#8207;[[H6298\|יְפַגְּשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.fa.ge.shu-<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹ֑שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like \<the> night  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H3915\|לַּ֗יְלָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they grope  |**<big>&#8207;[[H4959\|יְֽמַשְׁשׁ֥וּ]]&#8207; </big>**| ye.mash.Shu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at \<the> noon\<s>  |**<big>&#8207;[[H9003\|בַֽ]]&#8207;&#8207;[[H6672A\|צָּהֳרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> tzo.ho.Ra.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.13|<< Job 5:13]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.15|Job 5:15 >>]]</td></tr></table>
 
 

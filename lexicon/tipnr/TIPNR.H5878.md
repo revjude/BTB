@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Harod</span> was a spring near the hill of Moreh, where Gideon gathered his army before battling the Midianites \([[Judg.7.1|Judges 7:1]]\).
 - A location first mentioned at [[Judg.7.1|Jdg.7.1]]; 
-- referred to as Harod<[[H5878]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>\), or Harod \(KJV, NIV= Harodite\) <[[H2733]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Harod \(KJV, NIV= Harodite\) <[[H2033]]> \(<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Harod **<big>[[H5878|עֵין חֲרֹד]]</big>**, or Harod \(KJV, NIV= Harodite\)  **<big>[[H2733|חֲרֹדִי]]</big>**, or Harod \(KJV, NIV= Harodite\)  **<big>[[H2033|הֲרוֹרִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.549638,35.355647&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Harod, also known as the Spring of Harod or the Well of Harod, was a significant
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Harod | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H5878) <small>*Hebrew*</small> | 1x | [Jdg.7.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=Jdg.7.1) |
-| Harod (KJV, NIV= Harodite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>](H2733) <small>*Hebrew*</small> | 2x | [[2Sa.23.25a] & [2Sa.23.25b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=2Sa.23.25;2Sa.23.25) |
-| Harod (KJV, NIV= Harodite) | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2033) <small>*Hebrew*</small> | 1x | [1Ch.11.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=1Ch.11.27) |
-All Strong's for **Harod**: \[[[H5878]]\] \[[[H2733]]\] \[[[H2033]]\]
+| Harod | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H5878) | 1x | [Jdg.7.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=Jdg.7.1) |
+| Harod (KJV, NIV= Harodite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>](H2733) | 2x | [[2Sa.23.25a] & [2Sa.23.25b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=2Sa.23.25;2Sa.23.25) |
+| Harod (KJV, NIV= Harodite) | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2033) | 1x | [1Ch.11.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harod\*\|reference=1Ch.11.27) |
+All entries for **Harod**:  **<big>[[H5878|עֵין חֲרֹד]]</big>** ☩  **<big>[[H2733|חֲרֹדִי]]</big>** ☩  **<big>[[H2033|הֲרוֹרִי]]</big>**

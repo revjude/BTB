@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎κολάζω‎</span></big> **kolázō** <small>*(kol-ad'-zo)*</small> ==**to punish**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎κολάζω‎</span></big>** **kolázō** <small>*(kol-ad'-zo)*</small> ==**to punish**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>from <greek BETA="KO/LOS" unicode="κόλος" translit="kólos"/> (dwarf)</small>
 
 $\quad$ punish.

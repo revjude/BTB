@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיָּמִן‎</span></big> **Mîyâmin** <small>*(me-yaw-meem')*</small> ==**Mijamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form for <span class="ashebrew">‎מִנְיָמִין‎</span><sup><small>[[H4509]]</small></sup></small>
+**<big><span class="ashebrew">‎מִיָּמִן‎</span></big>** **Mîyâmin** <small>*(me-yaw-meem')*</small> ==**Mijamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form for **<big>[[H4509|‎מִנְיָמִין‎]]</big>**</small>
 
 $\quad$ Miamin, Mijamin.
 - § Miamin or Mijamin = *"from the right hand"*

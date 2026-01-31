@@ -12,17 +12,17 @@ A Song of degrees. In my distress I cried unto the LORD, and he heard me.
 A song of ascents. In my distress I cried to the LORD, and He answered me.<small><sub>**MT:**</sub></small>
 [[Ps.120.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.176|<< Psalm 119:176]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.2|Psalm 120:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my being afflicted | <big><span class="asgreek">θλίβεσθαί</span></big> <sup><small><small>[[G2346]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he listened to | <big><span class="asgreek">εισήκουσέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my being afflicted | **<big>[[G2346\|θλίβεσθαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| I cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he listened to | **<big>[[G1522\|εισήκουσέ]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[Ps.120.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.176|<< Psalm 119:176]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.2|Psalm 120:2 >>]]</td></tr></table>
 
 

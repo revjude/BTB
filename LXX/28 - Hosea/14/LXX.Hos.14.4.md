@@ -10,19 +10,19 @@ I will heal their backsliding, I will love them freely: for mine anger is turned
 I will heal their apostasy; I will freely love them, for My anger has turned away from them.<small><sub>**MT:**</sub></small>
 [[Hos.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.3|<< Hosea 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.5|Hosea 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will repair | <big><span class="asgreek">ιάσομαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their dwellings; | <big><span class="asgreek">κατοικίας</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will love | <big><span class="asgreek">αγαπήσω</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| confessedly, | <big><span class="asgreek">ομολόγως</span></big> <sup><small><small>[[G8506]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| turned away | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| my anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will repair | **<big>[[G2390\|ιάσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their dwellings; | **<big>[[G2733\|κατοικίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| I will love | **<big>[[G0025\|αγαπήσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| confessedly, | **<big>[[G8506\|ομολόγως]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| turned away | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| my anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them; | **<big>[[G1473\|αυτών]]</big>** |
 [[Hos.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.3|<< Hosea 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.5|Hosea 14:5 >>]]</td></tr></table>
 
 

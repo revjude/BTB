@@ -7,36 +7,36 @@ And the LORD delivered Lachish into the hand of Israel, which took it on the sec
 And the LORD delivered Lachish into the hand of Israel, and Joshua captured it on the second day. He put all the people to the sword, just as he had done to Libnah.<small><sub>**MT:**</sub></small>
 [[Josh.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.31|<< Joshua 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.33|Joshua 10:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> delivered | <big><span class="asgreek">παρέδωκε</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lachish | <big><span class="asgreek">Λαχίς</span></big> <sup><small><small>[[H3923]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρα</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he slaughtered | <big><span class="asgreek">εφόνευσεν</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] sword, | <big><span class="asgreek">ξίφους</span></big> <sup><small><small>[[G8426]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| utterly destroyed | <big><span class="asgreek">εξωλόθρευσεν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Libna. | <big><span class="asgreek">Λεβνά</span></big> <sup><small><small>[[H3841]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> delivered | **<big>[[G3860\|παρέδωκε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Lachish | **<big>[[H3923\|Λαχίς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| second | **<big>[[G1208\|δευτέρα]]</big>** |
+| day, | **<big>[[G2250\|ημέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he slaughtered | **<big>[[G5407\|εφόνευσεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματι]]</big>** |
+| of \[the\] sword, | **<big>[[G8426\|ξίφους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| utterly destroyed | **<big>[[G1842\|εξωλόθρευσεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| he did | **<big>[[G4160\|εποίησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Libna. | **<big>[[H3841\|Λεβνά]]</big>** |
 [[Josh.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.31|<< Joshua 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.33|Joshua 10:33 >>]]</td></tr></table>
 
 

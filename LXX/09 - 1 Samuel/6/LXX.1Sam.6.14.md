@@ -7,38 +7,38 @@ And the cart came into the field of Joshua, a Bethshemite, and stood there, wher
 The cart came to the field of Joshua of Beth-shemesh and stopped there near a large rock. The people chopped up the cart and offered the cows as a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.13|<< 1 Samuel 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.15|1 Samuel 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wagon | <big><span class="asgreek">άμαξα</span></big> <sup><small><small>[[G6248]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Joshua, | <big><span class="asgreek">Ιωσιέ</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Beth-shemesh, | <big><span class="asgreek">Βαιθσαμής</span></big> <sup><small><small>[[H1053]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they split | <big><span class="asgreek">έσχισαν</span></big> <sup><small><small>[[G4977]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wagon, | <big><span class="asgreek">αμάξης</span></big> <sup><small><small>[[G6248]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βόας</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| they offered | <big><span class="asgreek">ανήνεγκαν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wagon | **<big>[[G6248\|άμαξα]]</big>** |
+| entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] field | **<big>[[G0068\|αγρόν]]</big>** |
+| of Joshua, | **<big>[[H3091\|Ιωσιέ]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Beth-shemesh, | **<big>[[H1053\|Βαιθσαμής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it stood | **<big>[[G2476\|έστη]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| a great | **<big>[[G3173\|μέγαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they split | **<big>[[G4977\|έσχισαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wagon, | **<big>[[G6248\|αμάξης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| oxen | **<big>[[G1016\|βόας]]</big>** |
+| they offered | **<big>[[G0399\|ανήνεγκαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[1Sam.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.13|<< 1 Samuel 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.15|1 Samuel 6:15 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ Hath a nation changed [their] gods, which [are] yet no gods? but my people have 
 Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols.<small><sub>**MT:**</sub></small>
 [[Jer.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.10|<< Jeremiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.12|Jeremiah 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| changed | <big><span class="asgreek">αλλάξωνται</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| their gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| gods! | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| changed | <big><span class="asgreek">ηλλάξατο</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| derive benefit. | <big><span class="asgreek">ωφεληθήσονται</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
+| if | **<big>[[G1487\|ει]]</big>** |
+| changed | **<big>[[G0236\|αλλάξωνται]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| their gods, | **<big>[[G2316\|θεούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| gods! | **<big>[[G2316\|θεοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| changed | **<big>[[G0236\|ηλλάξατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their glory | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1537\|εξ]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| derive benefit. | **<big>[[G5623\|ωφεληθήσονται]]</big>** |
 [[Jer.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.10|<< Jeremiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.12|Jeremiah 2:12 >>]]</td></tr></table>
 
 

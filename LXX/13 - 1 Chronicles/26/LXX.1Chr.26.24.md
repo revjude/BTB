@@ -7,20 +7,20 @@ And Shebuel the son of Gershom, the son of Moses, [was] ruler of the treasures.
 Shebuel, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.<small><sub>**MT:**</sub></small>
 [[1Chr.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.23|<< 1 Chronicles 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.25|1 Chronicles 26:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shebuel | <big><span class="asgreek">Σωβιήλ</span></big> <sup><small><small>[[H7619]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gershom, | <big><span class="asgreek">Γηρσάμ</span></big> <sup><small><small>[[H1647]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \[was\] leading | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treasures. | <big><span class="asgreek">θησαυρών</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shebuel | **<big>[[H7619\|Σωβιήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Gershom, | **<big>[[H1647\|Γηρσάμ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| \[was\] leading | **<big>[[G2233\|ηγούμενος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| treasures. | **<big>[[G2344\|θησαυρών]]</big>** |
 [[1Chr.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.23|<< 1 Chronicles 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.25|1 Chronicles 26:25 >>]]</td></tr></table>
 
 

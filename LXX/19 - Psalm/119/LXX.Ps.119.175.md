@@ -7,19 +7,19 @@ Let my soul live, and it shall praise thee; and let thy judgments help me.
 Let me live to praise You; may Your judgments sustain me.<small><sub>**MT:**</sub></small>
 [[Ps.119.175|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.174|<< Psalm 119:174]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.176|Psalm 119:176 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall live | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall praise | <big><span class="asgreek">αινέσει</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgments | <big><span class="asgreek">κρίματά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall help | <big><span class="asgreek">βοηθήσει</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall live | **<big>[[G2198\|ζήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall praise | **<big>[[G0134\|αινέσει]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your judgments | **<big>[[G2917\|κρίματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall help | **<big>[[G0997\|βοηθήσει]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Ps.119.175|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.174|<< Psalm 119:174]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.176|Psalm 119:176 >>]]</td></tr></table>
 
 

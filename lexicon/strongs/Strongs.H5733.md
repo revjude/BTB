@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַדְנָא‎</span></big> **ʻAdnâʼ** <small>*(ad-naw')*</small> ==**Adna**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָדַן‎</span><sup><small>[[H5727]]</small></sup>; pleasure</small>
+**<big><span class="ashebrew">‎עַדְנָא‎</span></big>** **ʻAdnâʼ** <small>*(ad-naw')*</small> ==**Adna**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5727|‎עָדַן‎]]</big>**; pleasure</small>
 
 $\quad$ Adna.
 - § Adna = *"rest" or "pleasure"*

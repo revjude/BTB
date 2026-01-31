@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דַּרְדַּע‎</span></big> **Dardaʻ** <small>*(dar-dah')*</small> ==**Darda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎דַּר‎</span><sup><small>[[H1858]]</small></sup> and <span class="ashebrew">‎דֵּעַ‎</span><sup><small>[[H1843]]</small></sup>; pearl of knowledge</small>
+**<big><span class="ashebrew">‎דַּרְדַּע‎</span></big>** **Dardaʻ** <small>*(dar-dah')*</small> ==**Darda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H1858|‎דַּר‎]]</big>** and **<big>[[H1843|‎דֵּעַ‎]]</big>**; pearl of knowledge</small>
 
 $\quad$ Darda.
 - § Darda = *"pearl of knowledge"*

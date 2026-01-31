@@ -7,22 +7,22 @@ Do therefore according to thy wisdom, and let not his hoar head go down to the g
 So act according to your wisdom, and do not let his gray head go down to Sheol in peace.<small><sub>**MT:**</sub></small>
 [[1Kgs.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.5|<< 1 Kings 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.7|1 Kings 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wisdom, | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lead down | <big><span class="asgreek">κατάξεις</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gray hair | <big><span class="asgreek">πολιάν</span></big> <sup><small><small>[[G8842]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your wisdom, | **<big>[[G4678\|σοφίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| lead down | **<big>[[G2609\|κατάξεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his gray hair | **<big>[[G8842\|πολιάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades. | **<big>[[G0086\|άδου]]</big>** |
 [[1Kgs.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.5|<< 1 Kings 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.7|1 Kings 2:7 >>]]</td></tr></table>
 
 

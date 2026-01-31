@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סוֹד‎</span></big> **çôwd** <small>*(sode)*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָסַד‎</span><sup><small>[[H3245]]</small></sup></small>
+**<big><span class="ashebrew">‎סוֹד‎</span></big>** **çôwd** <small>*(sode)*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3245|‎יָסַד‎]]</big>**</small>
 
 $\quad$ assembly, consel, inward, secret (counsel).
 - ***a session***, i.e. ***company of persons*** (in close deliberation)
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** counsel (itself)
 $\quad$ $\quad$ **1b2)** secret counsel
 $\quad$ $\quad$ **1b3)** familiar converse, intimacy (with God)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">γνώμη</span><sup><small>[[G1106]]</small></sup> · <span class="asgreek">ἐπισκοπή</span><sup><small>[[G1984]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup> · <span class="asgreek">συνέδριον</span><sup><small>[[G4892]]</small></sup> · <span class="asgreek">συστροφή</span><sup><small>[[G4963]]</small></sup> · <span class="asgreek">ὑπόστασις</span><sup><small>[[G5287]]</small></sup>
+<small>See Greek: </small>**<big>[[G1012|βουλή]]</big>** · **<big>[[G1106|γνώμη]]</big>** · **<big>[[G1984|ἐπισκοπή]]</big>** · **<big>[[G4864|συναγωγή]]</big>** · **<big>[[G4892|συνέδριον]]</big>** · **<big>[[G4963|συστροφή]]</big>** · **<big>[[G5287|ὑπόστασις]]</big>**

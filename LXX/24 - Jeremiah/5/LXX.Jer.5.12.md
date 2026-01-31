@@ -7,27 +7,27 @@ They have belied the LORD, and said, [It is] not he; neither shall evil come upo
 They have lied about the LORD and said: “He will not do anything; harm will not come to us; we will not see sword or famine.<small><sub>**MT:**</sub></small>
 [[Jer.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.11|<< Jeremiah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.13|Jeremiah 5:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They have lied | <big><span class="asgreek">εψεύσαντο</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| not \[so\] | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| are | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| These \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| there shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bad \[things\], | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hunger | <big><span class="asgreek">λιμόν</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| we will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see. | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| They have lied | **<big>[[G5574\|εψεύσαντο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| not \[so\] | **<big>[[G3756\|ουκ]]</big>** |
+| are | **<big>[[G1510\|έστι]]</big>** |
+| These \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| there shall not | **<big>[[G3756\|ουχ]]</big>** |
+| come | **<big>[[G2240\|ήξει]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| bad \[things\], | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hunger | **<big>[[G3042\|λιμόν]]</big>** |
+| we will not | **<big>[[G3756\|ουκ]]</big>** |
+| see. | **<big>[[G3708\|οψόμεθα]]</big>** |
 [[Jer.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.11|<< Jeremiah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.13|Jeremiah 5:13 >>]]</td></tr></table>
 
 

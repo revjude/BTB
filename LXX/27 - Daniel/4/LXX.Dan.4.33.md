@@ -7,46 +7,46 @@ The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven fro
 At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird.<small><sub>**MT:**</sub></small>
 [[Dan.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.32|<< Daniel 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.34|Daniel 4:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hour | <big><span class="asgreek">ώρα</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| was completed | <big><span class="asgreek">συνετελέσθη</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Nebuchadnezzar, | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| he was banished | <big><span class="asgreek">εξεδιώχθη</span></big> <sup><small><small>[[G1559]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτον</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an ox | <big><span class="asgreek">βούς</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| he ate | <big><span class="asgreek">ήσθιε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dew | <big><span class="asgreek">δρόσου</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was dipped, | <big><span class="asgreek">εβάφη</span></big> <sup><small><small>[[G0911]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hairs | <big><span class="asgreek">τρίχες αυτού</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| lions' \[hairs\] | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| were enlarged | <big><span class="asgreek">εμεγαλύνθησαν</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fingernails | <big><span class="asgreek">όνυχες</span></big> <sup><small><small>[[G8521]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| birds' \[claws\]. | <big><span class="asgreek">ορνέων</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| In this | **<big>[[G1473\|αυτή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| hour | **<big>[[G5610\|ώρα]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| was completed | **<big>[[G4931\|συνετελέσθη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Nebuchadnezzar, | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| he was banished | **<big>[[G1559\|εξεδιώχθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grass | **<big>[[G5528\|χόρτον]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an ox | **<big>[[G1016\|βούς]]</big>** |
+| he ate | **<big>[[G2068\|ήσθιε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| dew | **<big>[[G6970\|δρόσου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his body | **<big>[[G4983\|σώμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was dipped, | **<big>[[G0911\|εβάφη]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his hairs | **<big>[[G2359\|τρίχες αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| lions' \[hairs\] | **<big>[[G3023\|λεόντων]]</big>** |
+| were enlarged | **<big>[[G3170\|εμεγαλύνθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his fingernails | **<big>[[G8521\|όνυχες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| birds' \[claws\]. | **<big>[[G3732\|ορνέων]]</big>** |
 [[Dan.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.32|<< Daniel 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.34|Daniel 4:34 >>]]</td></tr></table>
 
 

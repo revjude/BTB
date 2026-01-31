@@ -11,42 +11,42 @@ For behold, you will conceive and give birth to a son. And no razor shall touch 
 > $\quad$ referenced by: [[Matt.2.23|Matt 2:23]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| have \[one\] | <big><span class="asgreek">έχεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bear | <big><span class="asgreek">τέξη</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| a son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an iron \[razor\] | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| shall not ascend | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a Nazarite | <big><span class="asgreek">Ναζιραίον</span></big> <sup><small><small>[[G3478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| womb; | <big><span class="asgreek">γαστρός</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall begin | <big><span class="asgreek">άρξεται</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώζειν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] Philistines. | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] womb | **<big>[[G1064\|γαστρί]]</big>** |
+| have \[one\] | **<big>[[G2192\|έχεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bear | **<big>[[G5088\|τέξη]]</big>** |
+| a son, | **<big>[[G5207\|υιόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an iron \[razor\] | **<big>[[G4604\|σίδηρος]]</big>** |
+| shall not ascend | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0305\|αναβήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a Nazarite | **<big>[[G3478\|Ναζιραίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God | **<big>[[G2316\|θεώ]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| boy | **<big>[[G3808\|παιδάριον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| womb; | **<big>[[G1064\|γαστρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall begin | **<big>[[G0756\|άρξεται]]</big>** |
+| to deliver | **<big>[[G4982\|σώζειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of \[the\] Philistines. | **<big>[[G0246\|αλλοφύλων]]</big>** |
 [[Judg.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.4|<< Judges 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.6|Judges 13:6 >>]]</td></tr></table>
 
 

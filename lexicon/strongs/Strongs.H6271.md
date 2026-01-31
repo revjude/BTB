@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲתַלְיָה‎</span></big> **ʻĂthalyâh** <small>*(ath-al-yaw')*</small> ==**Athaliah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>or <span class="ashebrew">עֲתַלְיָהוּ</span> **ʻĂthalyâhûw** <small>*(ath-al-yaw'-hoo)*</small>; from the same as <span class="ashebrew">‎עַתְלַי‎</span><sup><small>[[H6270]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has constrained</small>
+**<big><span class="ashebrew">‎עֲתַלְיָה‎</span></big>** **ʻĂthalyâh** <small>*(ath-al-yaw')*</small> ==**Athaliah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲתַלְיָהוּ</span></big>** **ʻĂthalyâhûw** <small>*(ath-al-yaw'-hoo)*</small>; from the same as **<big>[[H6270|‎עַתְלַי‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has constrained</small>
 
 $\quad$ Athaliah.
 - § Athaliah = *"afflicted of the Lord"*

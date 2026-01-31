@@ -7,16 +7,16 @@ Then I saw that she was defiled, [that] they [took] both one way,
 And I saw that she too had defiled herself; both of them had taken the same path.<small><sub>**MT:**</sub></small>
 [[Ezek.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.12|<< Ezekiel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.14|Ezekiel 23:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were defiled; | <big><span class="asgreek">μεμίανται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two \[of them\]. | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld | **<big>[[G1492\|ίδον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they were defiled; | **<big>[[G3392\|μεμίανται]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| \[for\] the | **<big>[[G3588\|των]]</big>** |
+| two \[of them\]. | **<big>[[G1417\|δύο]]</big>** |
 [[Ezek.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.12|<< Ezekiel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.14|Ezekiel 23:14 >>]]</td></tr></table>
 
 

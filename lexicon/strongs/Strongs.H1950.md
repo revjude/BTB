@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎הוֹמָם‎</span></big> **Hôwmâm** <small>*(ho-mawm')*</small> ==**Hemam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎הָמַם‎</span><sup><small>[[H2000]]</small></sup>; raging</small>
+**<big><span class="ashebrew">‎הוֹמָם‎</span></big>** **Hôwmâm** <small>*(ho-mawm')*</small> ==**Hemam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2000|‎הָמַם‎]]</big>**; raging</small>
 
-$\quad$ Homam. Compare <span class="ashebrew">‎הֵימָם‎</span><sup><small>[[H1967]]</small></sup>.
+$\quad$ Homam. Compare **<big>[[H1967|‎הֵימָם‎]]</big>**.
 - § Homam = *"confusion"*
 - ***Homam***, an Edomitish chieftain
 

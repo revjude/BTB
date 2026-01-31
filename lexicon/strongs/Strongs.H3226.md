@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יָמִין‎</span></big> **Yâmîyn** <small>*(yaw-meen')*</small> ==**Jamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יָמִין‎</span><sup><small>[[H3225]]</small></sup></small>
+**<big><span class="ashebrew">‎יָמִין‎</span></big>** **Yâmîyn** <small>*(yaw-meen')*</small> ==**Jamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3225|‎יָמִין‎]]</big>**</small>
 
-$\quad$ Jamin. See also <span class="ashebrew">‎בִּנְיָמִין‎</span><sup><small>[[H1144]]</small></sup>.
+$\quad$ Jamin. See also **<big>[[H1144|‎בִּנְיָמִין‎]]</big>**.
 - § Jamin = *"right hand"*
 - ***Jamin***, the name of three Israelites
 

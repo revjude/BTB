@@ -1,6 +1,4 @@
-<span class="ashebrew">‎זָ֑הַם‎</span> <small>***(za.ham)***</small> ==**Zaham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.11.19|2Ch.11.19]]
--  son of: Rehoboam ([[H7346]]) and Mahalath ([[H4258H]])
--  brother of: Jeush ([[H3266K]]) and Shemariah ([[H8114H]])
--  half-brother of: Abijah ([[H0029I]]), Attai ([[H6262I]]), Ziza ([[H2124H]]) and Shelomith ([[H8019G]])
-
+-  son of: Rehoboam (**<big>[[H7346|רְחַבְעָם]]</big>**) and Mahalath (**<big>[[H4258H|מַחֲלַת]]</big>**)
+-  brother of: Jeush (**<big>[[H3266K|יְעוּשׁ]]</big>**) and Shemariah (**<big>[[H8114H|שְׁמַרְיָה]]</big>**)
+-  half-brother of: Abijah (**<big>[[H0029I|אֲבִיָּה]]</big>**), Attai (**<big>[[H6262I|עַתַּי]]</big>**), Ziza (**<big>[[H2124H|זִיזָא]]</big>**) and Shelomith (**<big>[[H8019G|שְׁלֹמִית]]</big>**)

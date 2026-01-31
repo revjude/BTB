@@ -6,19 +6,19 @@ How long will you threaten a man? Will all of you throw him down like a leaning 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.2|<< Psalms 62:2]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.4|Psalms 62:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>אָ֤נָה </big></span><small><small><sup>[[H0575]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'A.nah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you attack  | <span class="ashebrew"><big>תְּהֽוֹתְת֣וּ </big></span><small><small><sup>[[H2050]]</sup></small></small> &#8207;| te.ho.Tu <small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִישׁ֮ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be murdered  | <span class="ashebrew"><big>תְּרָצְּח֪וּ </big></span><small><small><sup>[[H7523]]</sup></small></small> &#8207;| te.ra.tze.Chu <small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of you  | <span class="ashebrew"><big>כֻ֫לְּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>כֶ֥ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| khu.le. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a wall  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>קִ֥יר </big></span><small><small><sup>[[H7023]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Kir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bent down  | <span class="ashebrew"><big>נָט֑וּי </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| na.Tui <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fence  | <span class="ashebrew"><big>גָּ֝דֵ֗ר </big></span><small><small><sup>[[H1447]]</sup></small></small> &#8207;| ga.Der <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> pushed down  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דְּחוּיָֽה </big></span><small><small><sup>[[H1760A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> de.chu.Yah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H0575\|אָ֤נָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you attack  |**<big>&#8207;[[H2050\|תְּהֽוֹתְת֣וּ]]&#8207; </big>**| te.ho.Tu<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִישׁ֮]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be murdered  |**<big>&#8207;[[H7523\|תְּרָצְּח֪וּ]]&#8207; </big>**| te.ra.tze.Chu<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of you  |**<big>&#8207;[[H3605\|כֻ֫לְּ]]&#8207;&#8207;[[H9026\|כֶ֥ם]]&#8207; </big>**| khu.le.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a wall  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7023\|קִ֥יר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Kir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bent down  |**<big>&#8207;[[H5186\|נָט֑וּי]]&#8207; </big>**| na.Tui<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fence  |**<big>&#8207;[[H1447\|גָּ֝דֵ֗ר]]&#8207; </big>**| ga.Der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> pushed down  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1760A\|דְּחוּיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.chu.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.2|<< Psalms 62:2]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.4|Psalms 62:4 >>]]</td></tr></table>
 
 

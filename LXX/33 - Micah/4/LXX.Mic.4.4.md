@@ -7,28 +7,28 @@ But they shall sit every man under his vine and under his fig tree; and none sha
 And each man will sit under his own vine and under his own fig tree, with no one to frighten him. For the mouth of the LORD of Hosts has spoken.<small><sub>**MT:**</sub></small>
 [[Mic.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.3|<< Micah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.5|Micah 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσεται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| his grapevine, | <big><span class="asgreek">αμπέλου</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| his fig-tree. | <big><span class="asgreek">συκής</span></big> <sup><small><small>[[G4808]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| frightening \[them\], | <big><span class="asgreek">εκφοβών</span></big> <sup><small><small>[[G1629]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτορος</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσεται]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| his grapevine, | **<big>[[G0288\|αμπέλου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| his fig-tree. | **<big>[[G4808\|συκής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| one | **<big>[[G3588\|ο]]</big>** |
+| frightening \[them\], | **<big>[[G1629\|εκφοβών]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτορος]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| these \[things\]. | **<big>[[G3778\|ταύτα]]</big>** |
 [[Mic.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.3|<< Micah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.5|Micah 4:5 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And now I have sent a cunning man, endued with understanding, of Huram my father
 So now I am sending you Huram-abi, a skillful man endowed with creativity.<small><sub>**MT:**</sub></small>
 [[2Chr.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I have sent | <big><span class="asgreek">απέσταλκά</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφόν</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδότα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| understanding -- | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servant, | <big><span class="asgreek">παίδά</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| I have sent | **<big>[[G0649\|απέσταλκά]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| wise | **<big>[[G4680\|σοφόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| knowing | **<big>[[G1492\|ειδότα]]</big>** |
+| understanding -- | **<big>[[G4907\|σύνεσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my servant, | **<big>[[G3816\|παίδά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Chr.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 
 

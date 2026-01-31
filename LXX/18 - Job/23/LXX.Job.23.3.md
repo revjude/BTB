@@ -7,18 +7,18 @@ Oh that I knew where I might find him! [that] I might come [even] to his seat!
 If only I knew where to find Him, so that I could go to His seat.<small><sub>**MT:**</sub></small>
 [[Job.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.2|<< Job 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.4|Job 23:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">δ΄</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| is it that | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
-| may know | <big><span class="asgreek">γνοίη</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I might find | <big><span class="asgreek">εύροιμι</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and \[that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I might come | <big><span class="asgreek">έλθοιμι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end \[of the matter\]? | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| But who | **<big>[[G5100\|τις]]</big>** **<big>[[G1161\|δ΄]]</big>** |
+| is it that | **<big>[[G0686\|άρα]]</big>** |
+| may know | **<big>[[G1097\|γνοίη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I might find | **<big>[[G2147\|εύροιμι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and \[that\] | **<big>[[G2532\|και]]</big>** |
+| I might come | **<big>[[G2064\|έλθοιμι]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end \[of the matter\]? | **<big>[[G5056\|τέλος]]</big>** |
 [[Job.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.2|<< Job 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.4|Job 23:4 >>]]</td></tr></table>
 
 

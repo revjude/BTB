@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָהָל‎</span></big> **qâhâl** <small>*(kaw-hawl')*</small> ==**assembly**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קָהַל‎</span><sup><small>[[H6950]]</small></sup></small>
+**<big><span class="ashebrew">‎קָהָל‎</span></big>** **qâhâl** <small>*(kaw-hawl')*</small> ==**assembly**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6950|‎קָהַל‎]]</big>**</small>
 
 $\quad$ assembly, company, congregation, multitude.
 - ***assemblage*** (usually concretely)
@@ -11,4 +11,4 @@ $\quad$ **1b)** company (of returning exiles)
 $\quad$ **1c)** congregation
 $\quad$ $\quad$ **1c1)** as organised body
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκκλησία</span><sup><small>[[G1577]]</small></sup> · <span class="asgreek">λαός</span><sup><small>[[G2992]]</small></sup> · <span class="asgreek">οἶκος</span><sup><small>[[G3624]]</small></sup> · <span class="asgreek">ὄχλος</span><sup><small>[[G3793]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup> · <span class="asgreek">συνέδριον</span><sup><small>[[G4892]]</small></sup>
+<small>See Greek: </small>**<big>[[G1577|ἐκκλησία]]</big>** · **<big>[[G2992|λαός]]</big>** · **<big>[[G3624|οἶκος]]</big>** · **<big>[[G3793|ὄχλος]]</big>** · **<big>[[G4128|πλῆθος]]</big>** · **<big>[[G4864|συναγωγή]]</big>** · **<big>[[G4892|συνέδριον]]</big>**

@@ -7,25 +7,25 @@ And David sent and inquired after the woman. And [one] said, [Is] not this Baths
 So David sent and inquired about the woman, and he was told, “This is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.”<small><sub>**MT:**</sub></small>
 [[2Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.2|<< 2 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.4|2 Samuel 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sought | <big><span class="asgreek">εζήτησε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Is not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Bath-sheba, | <big><span class="asgreek">Βηρσαβεαί</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Eliam, | <big><span class="asgreek">Ελιάμ</span></big> <sup><small><small>[[H0463]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Uriah | <big><span class="asgreek">Ουρίου</span></big> <sup><small><small>[[G3774]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hittite? | <big><span class="asgreek">Χετταίου</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sought | **<big>[[G2212\|εζήτησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman. | **<big>[[G1135\|γυναίκα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said said, | **<big>[[G2036\|είπον]]</big>** |
+| Is not | **<big>[[G3780\|ουχί]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| Bath-sheba, | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Eliam, | **<big>[[H0463\|Ελιάμ]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Uriah | **<big>[[G3774\|Ουρίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Hittite? | **<big>[[H2850\|Χετταίου]]</big>** |
 [[2Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.2|<< 2 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.4|2 Samuel 11:4 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ Saying, No; but we will go into the land of Egypt, where we shall see no war, no
 and if you say, ‘No, but we will go to the land of Egypt and live there, where we will not see war or hear the sound of the ram’s horn or hunger for bread,’<small><sub>**MT:**</sub></small>
 [[Jer.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Far be it, | <big><span class="asgreek">μηδαμώς</span></big> <sup><small><small>[[G3365]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| we shall enter | <big><span class="asgreek">εισελευσόμεθα</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should we know | <big><span class="asgreek">είδωμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| war, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of a trumpet | <big><span class="asgreek">σάλπιγγος</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should we hear | <big><span class="asgreek">ακούσωμεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτοις</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should we hunger | <big><span class="asgreek">πεινάσωμεν</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall live there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> <big><span class="asgreek">οικήσομεν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Far be it, | **<big>[[G3365\|μηδαμώς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| we shall enter | **<big>[[G1525\|εισελευσόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should we know | **<big>[[G1492\|είδωμεν]]</big>** |
+| war, | **<big>[[G4171\|πόλεμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of a trumpet | **<big>[[G4536\|σάλπιγγος]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should we hear | **<big>[[G0191\|ακούσωμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτοις]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should we hunger | **<big>[[G3983\|πεινάσωμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall live there. | **<big>[[G1563\|εκεί]]</big>** **<big>[[G3611\|οικήσομεν]]</big>** |
 [[Jer.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
 

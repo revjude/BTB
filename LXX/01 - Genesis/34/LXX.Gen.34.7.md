@@ -7,38 +7,38 @@ And the sons of Jacob came out of the field when they heard [it]: and the men we
 When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done.<small><sub>**MT:**</sub></small>
 [[Gen.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.6|<< Genesis 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.8|Genesis 34:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain. | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| And as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they heard, | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| were vexed | <big><span class="asgreek">κατενύγησαν</span></big> <sup><small><small>[[G2660]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was distressing | <big><span class="asgreek">λυπηρόν</span></big> <sup><small><small>[[G8214]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an indecent \[act\] | <big><span class="asgreek">άσχημον</span></big> <sup><small><small>[[G0809]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| going to bed | <big><span class="asgreek">κοιμηθείς</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall it be. | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| plain. | **<big>[[G8676\|πεδίου]]</big>** |
+| And as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they heard, | **<big>[[G0191\|ήκουσαν]]</big>** |
+| were vexed | **<big>[[G2660\|κατενύγησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it was distressing | **<big>[[G8214\|λυπηρόν]]</big>** **<big>[[G1510\|ην]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| an indecent \[act\] | **<big>[[G0809\|άσχημον]]</big>** |
+| he did | **<big>[[G4160\|εποίησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| going to bed | **<big>[[G2837\|κοιμηθείς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| shall it be. | **<big>[[G1510\|έσται]]</big>** |
 [[Gen.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.6|<< Genesis 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.8|Genesis 34:8 >>]]</td></tr></table>
 
 

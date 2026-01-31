@@ -10,34 +10,34 @@ And before the throne [was something] like a sea of glass, like as crystal, And 
 > $\quad$ possibly alluding to: [[LXX.Exod.24.10|Exod 24:10]] ☩ [[LXX.Ezek.1.5|Ezek 1:5]] ☩ [[LXX.Ezek.1.22|Ezek 1:22]] ☩ [[LXX.Ezek.10.12|Ezek 10:12]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| before |<big><span class="asgreek">ἐνώπιον</span></big> <small><small><sup>[[G1799]]</sup></small></small> |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| throne |<big><span class="asgreek">θρόνου</span></big> <small><small><sup>[[G2362]]</sup></small></small> |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [was something] like [^1] |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| a sea |<big><span class="asgreek">θάλασσα</span></big> <small><small><sup>[[G2281]]</sup></small></small> |thalassa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of glass, |<big><span class="asgreek">ὑαλίνη,</span></big> <small><small><sup>[[G5193]]</sup></small></small> |hu'alinē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| like |<big><span class="asgreek">ὁμοία</span></big> <small><small><sup>[[G3664]]</sup></small></small> |homoia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as crystal, |<big><span class="asgreek">κρυστάλλῳ,</span></big> <small><small><sup>[[G2930]]</sup></small></small> |krustallō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] midst |<big><span class="asgreek">μέσῳ</span></big> <small><small><sup>[[G3319]]</sup></small></small> |mesō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| throne |<big><span class="asgreek">θρόνου</span></big> <small><small><sup>[[G2362]]</sup></small></small> |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| around |<big><span class="asgreek">κύκλῳ</span></big> <small><small><sup>[[G2945]]</sup></small></small> |kuklō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| throne |<big><span class="asgreek">θρόνου</span></big> <small><small><sup>[[G2362]]</sup></small></small> |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [were] four |<big><span class="asgreek">τέσσαρα</span></big> <small><small><sup>[[G5064]]</sup></small></small> [^2] |tessara <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| living creatures |<big><span class="asgreek">ζῷα</span></big> <small><small><sup>[[G2226]]</sup></small></small> |zōa <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being full |<big><span class="asgreek">γέμοντα</span></big> <small><small><sup>[[G1073]]</sup></small></small> |gemonta <small><sup>[[V-PAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of eyes |<big><span class="asgreek">ὀφθαλμῶν</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in front |<big><span class="asgreek">ἔμπροσθεν</span></big> <small><small><sup>[[G1715]]</sup></small></small> |emprosthen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| behind. |<big><span class="asgreek">ὄπισθεν.</span></big> <small><small><sup>[[G3693]]</sup></small></small> |opisthen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| before |**<big>[[G1799\|ἐνώπιον]]</big>**  |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| throne |**<big>[[G2362\|θρόνου]]</big>**  |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [was something] like [^1] |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| a sea |**<big>[[G2281\|θάλασσα]]</big>**  |thalassa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of glass, |**<big>[[G5193\|ὑαλίνη,]]</big>**  |hu'alinē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| like |**<big>[[G3664\|ὁμοία]]</big>**  |homoia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as crystal, |**<big>[[G2930\|κρυστάλλῳ,]]</big>**  |krustallō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] midst |**<big>[[G3319\|μέσῳ]]</big>**  |mesō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| throne |**<big>[[G2362\|θρόνου]]</big>**  |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| around |**<big>[[G2945\|κύκλῳ]]</big>**  |kuklō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| throne |**<big>[[G2362\|θρόνου]]</big>**  |thronou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [were] four |**<big>[[G5064\|τέσσαρα]]</big>**  [^2] |tessara <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| living creatures |**<big>[[G2226\|ζῷα]]</big>**  |zōa <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being full |**<big>[[G1073\|γέμοντα]]</big>**  |gemonta <small><sup>[[V-PAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of eyes |**<big>[[G3788\|ὀφθαλμῶν]]</big>**  |ophthalmōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in front |**<big>[[G1715\|ἔμπροσθεν]]</big>**  |emprosthen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| behind. |**<big>[[G3693\|ὄπισθεν.]]</big>**  |opisthen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.5|<< Revelation 4:5]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.7|Revelation 4:7 >>]]</td></tr></table>
 
-[^1]: Extra Text:  <span class='asgreek'>**ὡς**</span>  (<i>hōs</i>) '[was something] like' is only in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+Byz)
-[^2]: ==WH== spelled: <span class='asgreek'>**τέσσερα**</span>
+[^1]: Extra Text:  **<big><span class='asgreek'>ὡς</span></big>**  (<i>hōs</i>) '[was something] like' is only in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+Byz)
+[^2]: ==WH== spelled: **<big><span class='asgreek'>τέσσερα</span></big>**

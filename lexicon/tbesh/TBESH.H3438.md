@@ -1,5 +1,3 @@
-<span class="ashebrew">‎יִשְׁוָה‎</span> <small>***(yish.vah)***</small> ==**Ishvah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.17|Gen.46.17]]
--  son of: Asher ([[H0836]])
--  brother of: Imnah ([[H3232]]), Ishvi ([[H3440]]), Beriah ([[H1283]]) and Serah ([[H8294]])
-
+-  son of: Asher (**<big>[[H0836|אָשֵׁר]]</big>**)
+-  brother of: Imnah (**<big>[[H3232|יִמְנָה]]</big>**), Ishvi (**<big>[[H3440|יִשְׁוִי]]</big>**), Beriah (**<big>[[H1283|בְּרִיעָה]]</big>**) and Serah (**<big>[[H8294|שֶׂרַח]]</big>**)

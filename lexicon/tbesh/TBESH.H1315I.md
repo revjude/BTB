@@ -1,8 +1,7 @@
-<span class="ashebrew">‎בָּֽשְׂמַת‎</span> <small>***(bos.mat)***</small> ==**Basemath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-name of: <small>[[H4258G]]</small> 
+<small>name of:</small> <small>**<big>[[H4258G|מַחֲלַת]]</big>**</small> 
 
 - A woman of the Arabs living at the time of the Patriarchs, first mentioned at [[Gen.28.9|Gen.28.9]]
--  daughter of: Ishmael ([[H3458]])
--  sister of: Nebaioth ([[H5032]]), Kedar ([[H6938]]), Adbeel ([[H0110]]), Mibsam ([[H4017]]), Mishma ([[H4927]]), Dumah ([[H1746]]), Massa ([[H4854]]), Hadad ([[H2301]]), Tema ([[H8485]]), Jetur ([[H3195]]), Naphish ([[H5305]]) and Kedemah ([[H6929]]); married to Esau ([[H6215]])
--  mother of: Reuel ([[H7467]]); also called Basemath (KJV: Bashemath) at [[Gen.36.3|Gen.36.3]], [[Gen.36.4|4]], [[Gen.36.10|10]], [[Gen.36.13|13]], [[Gen.36.17|17]]
-- Another name of <i>ma.cha.lat</i> (<span class='ashebrew'>‎מ‎</span>ַ<span class='ashebrew'>‎ח‎</span>ֲ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Mahalath" [[H4258G]])
+-  daughter of: Ishmael (**<big>[[H3458|יִשְׁמָעֵאל]]</big>**)
+-  sister of: Nebaioth (**<big>[[H5032|נְבָיוֹת]]</big>**), Kedar (**<big>[[H6938|קֵדָר]]</big>**), Adbeel (**<big>[[H0110|אַדְבְּאֵל]]</big>**), Mibsam (**<big>[[H4017|מִבְשָׂם]]</big>**), Mishma (**<big>[[H4927|מִשְׁמָע]]</big>**), Dumah (**<big>[[H1746|דּוּמָה]]</big>**), Massa (**<big>[[H4854|מַשָּׂא]]</big>**), Hadad (**<big>[[H2301|חֲדַד]]</big>**), Tema (**<big>[[H8485|תֵּימָא]]</big>**), Jetur (**<big>[[H3195|יְטוּר]]</big>**), Naphish (**<big>[[H5305|נָפִישׁ]]</big>**) and Kedemah (**<big>[[H6929|קֵדְמָה]]</big>**); married to Esau (**<big>[[H6215|עֵשָׂו]]</big>**)
+-  mother of: Reuel (**<big>[[H7467|רְעוּאֵל]]</big>**); also called Basemath (KJV: Bashemath) at [[Gen.36.3|Gen.36.3]], [[Gen.36.4|4]], [[Gen.36.10|10]], [[Gen.36.13|13]], [[Gen.36.17|17]]
+- Another name of <i>ma.cha.lat</i> (<span class='ashebrew'>‎מ‎</span>ַ<span class='ashebrew'>‎ח‎</span>ֲ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Mahalath" **<big>[[H4258G|מַחֲלַת]]</big>**)

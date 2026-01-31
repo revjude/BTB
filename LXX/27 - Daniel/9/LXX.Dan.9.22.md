@@ -11,23 +11,23 @@ He instructed me and spoke with me, saying: “O Daniel, I have come now to give
 > $\quad$ referenced by: [[Rev.20.4|Rev 20:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought understanding to | <big><span class="asgreek">συνέτισέ</span></big> <sup><small><small>[[G9318]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to instruct | <big><span class="asgreek">συμβιβάσαι</span></big> <sup><small><small>[[G4822]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for understanding. | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought understanding to | **<big>[[G9318\|συνέτισέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| O Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| I came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| to instruct | **<big>[[G4822\|συμβιβάσαι]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| for understanding. | **<big>[[G4907\|σύνεσιν]]</big>** |
 [[Dan.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.21|<< Daniel 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.23|Daniel 9:23 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ Behold, he withholdeth the waters, and they dry up: also he sendeth them out, an
 If He holds back the waters, they dry up, and if He releases them, they overwhelm the land.<small><sub>**MT:**</sub></small>
 [[Job.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.14|<< Job 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.16|Job 12:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should restrain | <big><span class="asgreek">κωλύση</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| he shall dry | <big><span class="asgreek">ξηρανεί</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should let it loose, | <big><span class="asgreek">επαφή</span></big> <sup><small><small>[[G7375]]</small></small></sup> |
-| he destroys | <big><span class="asgreek">απώλεσεν</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by eradication. | <big><span class="asgreek">καταστρέψας</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| he should restrain | **<big>[[G2967\|κωλύση]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| he shall dry | **<big>[[G3583\|ξηρανεί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth; | **<big>[[G1093\|γην]]</big>** |
+| and if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should let it loose, | **<big>[[G7375\|επαφή]]</big>** |
+| he destroys | **<big>[[G0622\|απώλεσεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| by eradication. | **<big>[[G2690\|καταστρέψας]]</big>** |
 [[Job.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.14|<< Job 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.16|Job 12:16 >>]]</td></tr></table>
 
 

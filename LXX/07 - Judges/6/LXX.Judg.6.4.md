@@ -11,35 +11,35 @@ encamping against them as far as Gaza and destroying the produce of the land. Th
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ruined | <big><span class="asgreek">διέφθειραν</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resources | <big><span class="asgreek">εκφορια</span></big> <sup><small><small>[[G7169]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Gaza. | <big><span class="asgreek">Γάζαν</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not left behind | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπελείποντο</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| support | <big><span class="asgreek">υπόστασιν</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| for life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[for the\] flock, | <big><span class="asgreek">ποίμνιον</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| calf, | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| donkey. | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they ruined | **<big>[[G1311\|διέφθειραν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| resources | **<big>[[G7169\|εκφορια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| coming | **<big>[[G2064\|ελθείν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Gaza. | **<big>[[G1048\|Γάζαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was not left behind | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5275\|υπελείποντο]]</big>** |
+| support | **<big>[[G5287\|υπόστασιν]]</big>** |
+| for life | **<big>[[G2222\|ζωής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[for the\] flock, | **<big>[[G4168\|ποίμνιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| calf, | **<big>[[G3448\|μόσχον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| donkey. | **<big>[[G3688\|όνον]]</big>** |
 [[Judg.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.3|<< Judges 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.5|Judges 6:5 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Myra</span> was a city in Lycia, Asia Minor, where Paul's ship stopped on his journey to Rome as a prisoner.
 - A location only mentioned at [[Neh.3.31|Act.27.5]]; 
-- only referred to as Myra<[[G3460]]> \(<span class='tipnrLangGreek'>Μύρα</span>\).
+- only referred to as Myra **<big>[[G3460|Μύρα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.2307717908834,30.01145882074154&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Myra was a city in Lycia, a region on the southern coast of Asia Minor \(modern 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Myra | [<span class='tipnrLangGreek'>Μύρα</span>](G3460) <small>*Greek*</small> | 1x | [Act.27.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Myra\*\|reference=Act.27.5) |
-All Strong's for **Myra**: \[[[G3460]]\]
+| Myra | [<span class='tipnrLangGreek'>Μύρα</span>](G3460) | 1x | [Act.27.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Myra\*\|reference=Act.27.5) |
+All entries for **Myra**:  **<big>[[G3460|Μύρα]]</big>**

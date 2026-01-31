@@ -7,52 +7,52 @@ And at that time were some appointed over the chambers for the treasures, for th
 And on that same day men were appointed over the rooms that housed the supplies, contributions, firstfruits, and tithes. The portions specified by the Law for the priests and Levites were gathered into these storerooms from the fields of the villages, because Judah rejoiced over the priests and Levites who were serving.<small><sub>**MT:**</sub></small>
 [[Neh.12.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.43|<< Nehemiah 12:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.45|Nehemiah 12:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ordained | <big><span class="asgreek">κατέστησαν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treasuries, | <big><span class="asgreek">γαζοφυλακίων</span></big> <sup><small><small>[[G1049]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treasures, | <big><span class="asgreek">θησαυροίς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| for the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-fruits, | <big><span class="asgreek">απαρχαίς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenths, | <big><span class="asgreek">δεκάταις</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to gather | <big><span class="asgreek">συναγαγείν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fields | <big><span class="asgreek">αγρών</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| portions | <big><span class="asgreek">μερίδας</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites; | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there was gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing. | <big><span class="asgreek">εστώτας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they ordained | **<big>[[G2525\|κατέστησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| treasuries, | **<big>[[G1049\|γαζοφυλακίων]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| treasures, | **<big>[[G2344\|θησαυροίς]]</big>** |
+| for the | **<big>[[G3588\|ταις]]</big>** |
+| first-fruits, | **<big>[[G0536\|απαρχαίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|ταις]]</big>** |
+| tenths, | **<big>[[G1181\|δεκάταις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to gather | **<big>[[G4863\|συναγαγείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| fields | **<big>[[G0068\|αγρών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cities | **<big>[[G4172\|πόλεων]]</big>** |
+| portions | **<big>[[G3310\|μερίδας]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests | **<big>[[G2409\|ιερεύσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites; | **<big>[[G3017\|Λευίταις]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there was gladness | **<big>[[G2167\|ευφροσύνη]]</big>** **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίτας]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| standing. | **<big>[[G2476\|εστώτας]]</big>** |
 [[Neh.12.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.43|<< Nehemiah 12:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.45|Nehemiah 12:45 >>]]</td></tr></table>
 
 

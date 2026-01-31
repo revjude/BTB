@@ -7,43 +7,43 @@ And he removed that day the he goats that were ringstraked and spotted, and all 
 That very day Laban removed all the streaked or spotted male goats and every speckled or spotted female goat—every one that had any white on it—and every dark-colored lamb, and he placed them under the care of his sons.<small><sub>**MT:**</sub></small>
 [[Gen.30.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.34|<< Genesis 30:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.36|Genesis 30:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he drew apart | <big><span class="asgreek">διέστειλεν</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he-goats | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speckled | <big><span class="asgreek">ραντούς</span></big> <sup><small><small>[[G9011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white-mixed, | <big><span class="asgreek">διαλεύκους</span></big> <sup><small><small>[[G6842]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| goats, | <big><span class="asgreek">αίγας</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speckled | <big><span class="asgreek">ραντάς</span></big> <sup><small><small>[[G9011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white-mixed, | <big><span class="asgreek">διαλεύκους</span></big> <sup><small><small>[[G6842]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| gray, | <big><span class="asgreek">φαιόν</span></big> <sup><small><small>[[G9613]]</small></small></sup> |
-| the one which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rams. | <big><span class="asgreek">αρνάσι</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons. | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he drew apart | **<big>[[G1291\|διέστειλεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| he-goats | **<big>[[G5131\|τράγους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| speckled | **<big>[[G9011\|ραντούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| white-mixed, | **<big>[[G6842\|διαλεύκους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| goats, | **<big>[[G6167\|αίγας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| speckled | **<big>[[G9011\|ραντάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| white-mixed, | **<big>[[G6842\|διαλεύκους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| gray, | **<big>[[G9613\|φαιόν]]</big>** |
+| the one which | **<big>[[G3739\|ο]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| rams. | **<big>[[G0704\|αρνάσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκε]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons. | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.30.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.34|<< Genesis 30:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.36|Genesis 30:36 >>]]</td></tr></table>
 
 

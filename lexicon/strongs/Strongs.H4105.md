@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְהֵיטַבְאֵל‎</span></big> **Mᵉhêyṭabʼêl** <small>*(meh-hay-tab-ale')*</small> ==**Mehetabel**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָטַב‎</span><sup><small>[[H3190]]</small></sup> (augmented) and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; bettered of God</small>
+**<big><span class="ashebrew">‎מְהֵיטַבְאֵל‎</span></big>** **Mᵉhêyṭabʼêl** <small>*(meh-hay-tab-ale')*</small> ==**Mehetabel**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H3190|‎יָטַב‎]]</big>** (augmented) and **<big>[[H0410|‎אֵל‎]]</big>**; bettered of God</small>
 
 $\quad$ Mehetabeel, Mehetabel.
 - § Mehetabeel or Mehetabel = *"favoured of God"*

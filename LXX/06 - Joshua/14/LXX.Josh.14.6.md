@@ -7,44 +7,44 @@ Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jeph
 Then the sons of Judah approached Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know what the LORD said to Moses the man of God at Kadesh-barnea about you and me.<small><sub>**MT:**</sub></small>
 [[Josh.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.5|<< Joshua 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.7|Joshua 14:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came forward | <big><span class="asgreek">προσήλθοσαν</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούν</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilgal. | <big><span class="asgreek">Γαλγάλοις</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jephunneh | <big><span class="asgreek">Ιεφωνή</span></big> <sup><small><small>[[H3312]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenezite, | <big><span class="asgreek">Κενεζαίος</span></big> <sup><small><small>[[H7074]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">επίστη</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \[the\] man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Kadesh | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| Barnea. | <big><span class="asgreek">Βαρνή</span></big> <sup><small><small>[[H6947]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came forward | **<big>[[G4334\|προσήλθοσαν]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joshua | **<big>[[G2424\|Ιησούν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gilgal. | **<big>[[H1537\|Γαλγάλοις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Jephunneh | **<big>[[H3312\|Ιεφωνή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Kenezite, | **<big>[[H7074\|Κενεζαίος]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| know | **<big>[[G1987\|επίστη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> spoke | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| \[the\] man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Kadesh | **<big>[[H6946\|Κάδης]]</big>** |
+| Barnea. | **<big>[[H6947\|Βαρνή]]</big>** |
 [[Josh.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.5|<< Joshua 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.7|Joshua 14:7 >>]]</td></tr></table>
 
 

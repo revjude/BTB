@@ -10,21 +10,21 @@ The vision of the evenings and the mornings that has been spoken is true. Now yo
 > $\quad$ referenced by: [[Rev.10.4|Rev 10:4]] ☩ [[Rev.22.10|Rev 22:10]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] vision of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַרְאֵ֨ה </big></span><small><small><sup>[[H4758]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mar.'Eh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the evening  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֶ֧רֶב </big></span><small><small><sup>[[H6153]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'E.rev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the morning  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בֹּ֛קֶר </big></span><small><small><sup>[[H1242]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> Bo.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been told  | <span class="ashebrew"><big>נֶאֱמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ne.'e.Mar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] truth  | <span class="ashebrew"><big>אֱמֶ֣ת </big></span><small><small><sup>[[H0571H]]</sup></small></small> &#8207;| 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֑וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּה֙ </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| keep secret  | <span class="ashebrew"><big>סְתֹ֣ם </big></span><small><small><sup>[[H5640A]]</sup></small></small> &#8207;| se.Tom <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the vision  | <span class="ashebrew"><big>הֶֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חָז֔וֹן </big></span><small><small><sup>[[H2377]]</sup></small></small> &#8207;| he. <small><sup>[[HTd]]</sup></small> cha.Zon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֖י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] for days  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יָמִ֥ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּֽים </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] vision of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4758\|מַרְאֵ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the evening  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6153\|עֶ֧רֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the morning  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1242\|בֹּ֛קֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been told  |**<big>&#8207;[[H0559\|נֶאֱמַ֖ר]]&#8207; </big>**| ne.'e.Mar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] truth  |**<big>&#8207;[[H0571H\|אֱמֶ֣ת]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| keep secret  |**<big>&#8207;[[H5640A\|סְתֹ֣ם]]&#8207; </big>**| se.Tom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the vision  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2377\|חָז֔וֹן]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Zon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] for days  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|יָמִ֥ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.25|<< Daniel 8:25]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.27|Daniel 8:27 >>]]</td></tr></table>
 
 

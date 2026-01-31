@@ -1,4 +1,4 @@
-name of: <small>[[G4091]]</small> 
+name of: <small>**<big>[[G4091|Πιλᾶτος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Πόντιος==</span>-<span class='asgreek'>ιος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 

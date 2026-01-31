@@ -7,47 +7,47 @@ And when the children of Ammon saw that they stank before David, the children of
 When the Ammonites realized that they had become a stench to David, they hired twenty thousand Aramean foot soldiers from Beth-rehob and Zoba, as well as a thousand men from the king of Maacah and twelve thousand men from Tob.<small><sub>**MT:**</sub></small>
 [[2Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.5|<< 2 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.7|2 Samuel 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was disgraced | <big><span class="asgreek">κατησχύνθησαν</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they hired | <big><span class="asgreek">εμισθώσαντο</span></big> <sup><small><small>[[G3409]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| of Beth-rehob, | <big><span class="asgreek">Βεθραάβ</span></big> <sup><small><small>[[H1050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| of Zoba -- | <big><span class="asgreek">Συβά</span></big> <sup><small><small>[[H6678]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| footmen, | <big><span class="asgreek">πεζών</span></big> <sup><small><small>[[G8677]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Maacah -- | <big><span class="asgreek">Μααχά</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Tob -- | <big><span class="asgreek">Ιστώβ</span></big> <sup><small><small>[[H2897]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men. | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| was disgraced | **<big>[[G2617\|κατησχύνθησαν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they hired | **<big>[[G3409\|εμισθώσαντο]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Syrian | **<big>[[G4947\|Συρίαν]]</big>** |
+| of Beth-rehob, | **<big>[[H1050\|Βεθραάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Syrian | **<big>[[G4947\|Συρίαν]]</big>** |
+| of Zoba -- | **<big>[[H6678\|Συβά]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| footmen, | **<big>[[G8677\|πεζών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Maacah -- | **<big>[[H4601\|Μααχά]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| of Tob -- | **<big>[[H2897\|Ιστώβ]]</big>** |
+| twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| men. | **<big>[[G0435\|ανδρών]]</big>** |
 [[2Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.5|<< 2 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.7|2 Samuel 10:7 >>]]</td></tr></table>
 
 

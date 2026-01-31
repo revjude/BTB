@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרוּץ‎</span></big> **Chârûwts** <small>*(khaw-roots')*</small> ==**Haruz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חֲרוּץ‎</span><sup><small>[[H2742]]</small></sup>; earnest</small>
+**<big><span class="ashebrew">‎חָרוּץ‎</span></big>** **Chârûwts** <small>*(khaw-roots')*</small> ==**Haruz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2742|‎חֲרוּץ‎]]</big>**; earnest</small>
 
 $\quad$ Haruz.
 - § Haruz = *"zealous"*

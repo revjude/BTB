@@ -6,19 +6,19 @@ Sing for joy, O Daughter of Zion; shout aloud, O Israel! Be glad and rejoice wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.13|<< Zephaniah 3:13]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.15|Zephaniah 3:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| shout for joy  | <span class="ashebrew"><big>רָנִּי֙ </big></span><small><small><sup>[[H7442B]]</sup></small></small> &#8207;| ra.Ni <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shout  | <span class="ashebrew"><big>הָרִ֖יעוּ </big></span><small><small><sup>[[H7321]]</sup></small></small> &#8207;| ha.Ri.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rejoice  | <span class="ashebrew"><big>שִׂמְחִ֤י </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| sim.Chi <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and exult  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָלְזִי֙ </big></span><small><small><sup>[[H5937]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al.Zi <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heart  | <span class="ashebrew"><big>לֵ֔ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּ֖ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| bat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shout for joy  |**<big>&#8207;[[H7442B\|רָנִּי֙]]&#8207; </big>**| ra.Ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shout  |**<big>&#8207;[[H7321\|הָרִ֖יעוּ]]&#8207; </big>**| ha.Ri.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rejoice  |**<big>&#8207;[[H8055\|שִׂמְחִ֤י]]&#8207; </big>**| sim.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and exult  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5937\|עָלְזִי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al.Zi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart  |**<big>&#8207;[[H3820A\|לֵ֔ב]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּ֖ת]]&#8207; </big>**| bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.13|<< Zephaniah 3:13]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.15|Zephaniah 3:15 >>]]</td></tr></table>
 
 

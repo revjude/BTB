@@ -7,44 +7,44 @@ And the officers of the children of Israel, which Pharaoh’s taskmasters had se
 Then the Israelite foremen, whom Pharaoh’s taskmasters had set over the people, were beaten and asked, “Why have you not fulfilled your quota of bricks yesterday or today, as you did before?”<small><sub>**MT:**</sub></small>
 [[Exod.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were whipped -- | <big><span class="asgreek">εμαστιγώθησαν</span></big> <sup><small><small>[[G3146]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribes | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| race | <big><span class="asgreek">γένους</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being placed | <big><span class="asgreek">κατασταθέντες</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| supervisors | <big><span class="asgreek">επιστατών</span></big> <sup><small><small>[[G1988]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \[and\] saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| did you not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| complete | <big><span class="asgreek">συνετελέσατε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rate | <big><span class="asgreek">συντάξεις</span></big> <sup><small><small>[[G9336]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making of bricks | <big><span class="asgreek">πληνθείας</span></big> <sup><small><small>[[G8817]]</small></small></sup> |
-| as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yesterday | <big><span class="asgreek">εχθές</span></big> <sup><small><small>[[G5504]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτην</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| day \[before\] | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were whipped -- | **<big>[[G3146\|εμαστιγώθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| scribes | **<big>[[G1122\|γραμματείς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| race | **<big>[[G1085\|γένους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| being placed | **<big>[[G2525\|κατασταθέντες]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| supervisors | **<big>[[G1988\|επιστατών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| \[and\] saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Why | **<big>[[G1302\|διατί]]</big>** |
+| did you not | **<big>[[G3756\|ου]]</big>** |
+| complete | **<big>[[G4931\|συνετελέσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your rate | **<big>[[G9336\|συντάξεις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| making of bricks | **<big>[[G8817\|πληνθείας]]</big>** |
+| as | **<big>[[G2509\|καθάπερ]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| yesterday | **<big>[[G5504\|εχθές]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτην]]</big>** |
+| day \[before\] | **<big>[[G2250\|ημέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| today? | **<big>[[G4594\|σήμερον]]</big>** |
 [[Exod.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
 
 

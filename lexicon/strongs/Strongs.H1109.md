@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּלְעָם‎</span></big> **Bilʻâm** <small>*(bil-awm')*</small> ==**Balaam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎בַּל‎</span><sup><small>[[H1077]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; not (of the) people, i.e. foreigner</small>
+**<big><span class="ashebrew">‎בִּלְעָם‎</span></big>** **Bilʻâm** <small>*(bil-awm')*</small> ==**Balaam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H1077|‎בַּל‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; not (of the) people, i.e. foreigner</small>
 
 $\quad$ Balaam, Bileam.
 - § Balaam = *"not of the people"*
@@ -11,4 +11,4 @@ n pr m
 n pr loc
 **2)** a town in Manasseh
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Βαλαάμ</span><sup><small>[[G0903]]</small></sup>
+<small>See Greek: </small>**<big>[[G0903|Βαλαάμ]]</big>**

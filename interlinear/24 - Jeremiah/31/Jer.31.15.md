@@ -10,27 +10,27 @@ This is what the LORD says: “A voice is heard in Ramah, mourning and great wee
 > $\quad$ referenced by: [[Matt.2.18|Matt 2:18]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֣ה </big></span><small><small><sup>[[H3541]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a voice  | <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Ramah  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָמָ֤ה </big></span><small><small><sup>[[H7414G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ra.Mah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] heard  | <span class="ashebrew"><big>נִשְׁמָע֙ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| nish.Ma' <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mourning song  | <span class="ashebrew"><big>נְהִי֙ </big></span><small><small><sup>[[H5092]]</sup></small></small> &#8207;| ne.Hi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| weeping of  | <span class="ashebrew"><big>בְּכִ֣י </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| be.Khi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bitterness\<es>  | <span class="ashebrew"><big>תַמְרוּרִ֔ים </big></span><small><small><sup>[[H8563]]</sup></small></small> &#8207;| tam.ru.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rachel  | <span class="ashebrew"><big>רָחֵ֖ל </big></span><small><small><sup>[[H7354]]</sup></small></small> &#8207;| ra.Chel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] weeping  | <span class="ashebrew"><big>מְבַכָּ֣ה </big></span><small><small><sup>[[H1058]]</sup></small></small> &#8207;| me.va.Kah <small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children her  | <span class="ashebrew"><big>בָּנֶ֑י </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ba.Nei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she has refused  | <span class="ashebrew"><big>מֵאֲנָ֛ה </big></span><small><small><sup>[[H3985]]</sup></small></small> &#8207;| me.'a.Nah <small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to be comforted  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הִנָּחֵ֥ם </big></span><small><small><sup>[[H5162G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hi.na.Chem <small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children her  | <span class="ashebrew"><big>בָּנֶ֖י </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ba.Nei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not [is] he  | <span class="ashebrew"><big>אֵינֶֽ </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'ei.Ne. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a voice  |**<big>&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Ramah  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7414G\|רָמָ֤ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ra.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] heard  |**<big>&#8207;[[H8085G\|נִשְׁמָע֙]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mourning song  |**<big>&#8207;[[H5092\|נְהִי֙]]&#8207; </big>**| ne.Hi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weeping of  |**<big>&#8207;[[H1065\|בְּכִ֣י]]&#8207; </big>**| be.Khi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bitterness\<es>  |**<big>&#8207;[[H8563\|תַמְרוּרִ֔ים]]&#8207; </big>**| tam.ru.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rachel  |**<big>&#8207;[[H7354\|רָחֵ֖ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] weeping  |**<big>&#8207;[[H1058\|מְבַכָּ֣ה]]&#8207; </big>**| me.va.Kah<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children her  |**<big>&#8207;[[H1121A\|בָּנֶ֑י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has refused  |**<big>&#8207;[[H3985\|מֵאֲנָ֛ה]]&#8207; </big>**| me.'a.Nah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to be comforted  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5162G\|הִנָּחֵ֥ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hi.na.Chem<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children her  |**<big>&#8207;[[H1121A\|בָּנֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not [is] he  |**<big>&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.14|<< Jeremiah 31:14]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.16|Jeremiah 31:16 >>]]</td></tr></table>
 
 

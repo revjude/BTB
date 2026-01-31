@@ -7,41 +7,41 @@ Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thin
 Do not be quick to speak, and do not be hasty in your heart to utter a word before God. For God is in heaven and you are on earth. So let your words be few.<small><sub>**MT:**</sub></small>
 [[Eccl.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.1|<< Ecclesiastes 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.3|Ecclesiastes 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hasten | <big><span class="asgreek">σπεύδε</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| your mouth, | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hasten | <big><span class="asgreek">ταχυνέτω</span></big> <sup><small><small>[[G9406]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring forth | <big><span class="asgreek">εξενέγκαι</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| a word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[the\] presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανώ</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| upward, | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| be | <big><span class="asgreek">έστωσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| few! | <big><span class="asgreek">ολίγοι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| hasten | **<big>[[G4692\|σπεύδε]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| your mouth, | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| hasten | **<big>[[G9406\|ταχυνέτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring forth | **<big>[[G1627\|εξενέγκαι]]</big>** |
+| a word | **<big>[[G3056\|λόγον]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[the\] presence | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God! | **<big>[[G2316\|θεού]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| heaven | **<big>[[G3772\|ουρανώ]]</big>** |
+| upward, | **<big>[[G0507\|άνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| be | **<big>[[G1510\|έστωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your words | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| few! | **<big>[[G3641\|ολίγοι]]</big>** |
 [[Eccl.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.1|<< Ecclesiastes 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.3|Ecclesiastes 5:3 >>]]</td></tr></table>
 
 

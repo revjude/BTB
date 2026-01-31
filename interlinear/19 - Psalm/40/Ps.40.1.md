@@ -10,15 +10,15 @@ For the choirmaster. A Psalm of David. I waited patiently for the LORD; He incli
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| certainly \<to wait>  | <span class="ashebrew"><big>קַוֹּ֣ה </big></span><small><small><sup>[[H6960A]]</sup></small></small> &#8207;| ka.Voh <small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I waited for  | <span class="ashebrew"><big>קִוִּ֣יתִי </big></span><small><small><sup>[[H6960A]]</sup></small></small> &#8207;| ki.Vi.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he stretched out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֥ט </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yet <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>אֵ֝לַ֗ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he heard  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁמַ֥ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Ma' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cry for help my  | <span class="ashebrew"><big>שַׁוְעָתִֽ </big></span><small><small><sup>[[H7775]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| shav.'a.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to wait>  |**<big>&#8207;[[H6960A\|קַוֹּ֣ה]]&#8207; </big>**| ka.Voh<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I waited for  |**<big>&#8207;[[H6960A\|קִוִּ֣יתִי]]&#8207; </big>**| ki.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יֵּ֥ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H0413\|אֵ֝לַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cry for help my  |**<big>&#8207;[[H7775\|שַׁוְעָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shav.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.0|<< Psalms 40:0]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.2|Psalms 40:2 >>]]</td></tr></table>
 
 

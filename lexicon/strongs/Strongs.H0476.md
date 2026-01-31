@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִישָׁמָע‎</span></big> **ʼĔlîyshâmâʻ** <small>*(el-ee-shaw-maw')*</small> ==**Elishama**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup>; God of hearing</small>
+**<big><span class="ashebrew">‎אֱלִישָׁמָע‎</span></big>** **ʼĔlîyshâmâʻ** <small>*(el-ee-shaw-maw')*</small> ==**Elishama**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H8085|‎שָׁמַע‎]]</big>**; God of hearing</small>
 
 $\quad$ Elishama.
 - § Elishama = *"my God has heard"*

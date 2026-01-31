@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שֵׁכָר‎</span></big> **shêkâr** <small>*(shay-kawr')*</small> ==**strong drink**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁכַר‎</span><sup><small>[[H7937]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁכָר‎</span></big>** **shêkâr** <small>*(shay-kawr')*</small> ==**strong drink**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7937|‎שָׁכַר‎]]</big>**</small>
 
 $\quad$ strong drink, [phrase] drunkard, strong wine.
 - ***an intoxicant***, i.e. ***intensely alcoholic liquor***
 
 **1)** strong drink, intoxicating drink, fermented or intoxicating liquor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μέθη</span><sup><small>[[G3178]]</small></sup> · <span class="asgreek">οἶνος</span><sup><small>[[G3631]]</small></sup> · <span class="asgreek">σίκερα</span><sup><small>[[G4608]]</small></sup> · <span class="asgreek">Συχάρ</span><sup><small>[[G4965]]</small></sup>
+<small>See Greek: </small>**<big>[[G3178|μέθη]]</big>** · **<big>[[G3631|οἶνος]]</big>** · **<big>[[G4608|σίκερα]]</big>** · **<big>[[G4965|Συχάρ]]</big>**

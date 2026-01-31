@@ -11,22 +11,22 @@ A bruised reed He will not break and a smoldering wick He will not extinguish; H
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A reed | <big><span class="asgreek">κάλαμον</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| being crushed | <big><span class="asgreek">συντεθλασμένον</span></big> <sup><small><small>[[G4917]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| break, | <big><span class="asgreek">συντρίψει</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| flax | <big><span class="asgreek">λίνον</span></big> <sup><small><small>[[G3043]]</small></small></sup> |
-| smoking | <big><span class="asgreek">καπνιζόμενον</span></big> <sup><small><small>[[G7796]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| extinguish; | <big><span class="asgreek">σβέσει</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| validity | <big><span class="asgreek">αληθή</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
-| he will bring forth | <big><span class="asgreek">εξοίσει</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| judgment. | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| A reed | **<big>[[G2563\|κάλαμον]]</big>** |
+| being crushed | **<big>[[G4917\|συντεθλασμένον]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| break, | **<big>[[G4937\|συντρίψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| flax | **<big>[[G3043\|λίνον]]</big>** |
+| smoking | **<big>[[G7796\|καπνιζόμενον]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| extinguish; | **<big>[[G4570\|σβέσει]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| validity | **<big>[[G0227\|αληθή]]</big>** |
+| he will bring forth | **<big>[[G1627\|εξοίσει]]</big>** |
+| judgment. | **<big>[[G2920\|κρίσιν]]</big>** |
 [[Isa.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.2|<< Isaiah 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.4|Isaiah 42:4 >>]]</td></tr></table>
 
 

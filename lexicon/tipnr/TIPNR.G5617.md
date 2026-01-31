@@ -4,10 +4,10 @@ Prophet living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hosea</span> was a prophet who ministered to the northern kingdom of Israel during the reigns of several kings, calling the people to repent and return to God.
 - A prophet living at the time of Divided Monarchy, first mentioned at [[Hos.1.1|Hos.1.1]]; 
-- referred to as Hosea<[[H1954J]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ\), or Hosea<[[G5617]]> \(<span class='tipnrLangGreek'>Ὡσηέ</span>\); 
-- a son of Beeri<[[H0882H]]>; 
-- husband of Gomer<[[H1586H]]>; 
--  father of Jezreel<[[H3157K]]>, Lo-ruhamah<[[H3819]]>, Lo-ammi H3818\).
+- referred to as Hosea **<big>[[H1954|הוֹשֵׁעַ]]</big>**, or Hosea **<big>[[G5617|Ὡσηέ]]</big>**; 
+- a son of Beeri **<big>[[H0882|בְּאֵרִי]]</big>**; 
+- husband of Gomer **<big>[[H1586|גֹּמֶר]]</big>**; 
+-  father of Jezreel **<big>[[H3157|יִזְרְעֵאל]]</big>**, Lo-ruhamah **<big>[[H3819|לֹא רֻחָמָה]]</big>**, Lo-ammi H3818\).
 
 Hosea was one of the minor prophets in the Old Testament who prophesied to the northern kingdom of Israel during the 8th century BC. He is the author of the book that bears his name. 
 
@@ -21,9 +21,9 @@ In [[Rom.9.25|Romans 9:25]], the Apostle Paul quotes from Hosea 2:23, applying t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hosea (KJV= Osee) | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ](H1954J) <small>*Hebrew*</small> | 3x | [[Hos.1.1] ... [Hos.1.2b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosea\*\|reference=Hos.1.1;Hos.1.2;Hos.1.2) |
-| Hosea | [<span class='tipnrLangGreek'>Ὡσηέ</span>](G5617) <small>*Greek*</small> | 1x | [Rom.9.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosea\*\|reference=Rom.9.25) |
-All Strong's for **Hosea**: \[[[H1954J]]\] \[[[G5617]]\]
+| Hosea (KJV= Osee) | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ](H1954J) | 3x | [[Hos.1.1] ... [Hos.1.2b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosea\*\|reference=Hos.1.1;Hos.1.2;Hos.1.2) |
+| Hosea | [<span class='tipnrLangGreek'>Ὡσηέ</span>](G5617) | 1x | [Rom.9.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosea\*\|reference=Rom.9.25) |
+All entries for **Hosea**:  **<big>[[H1954|הוֹשֵׁעַ]]</big>** ☩  **<big>[[G5617|Ὡσηέ]]</big>**
 #### Related Profiles:
 - **[Beeri](H0882H)** (father)
 - **[Gomer](H1586H)** (spouse)

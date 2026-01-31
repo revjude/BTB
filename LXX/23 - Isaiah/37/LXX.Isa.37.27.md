@@ -7,23 +7,23 @@ Therefore their inhabitants [were] of small power, they were dismayed and confou
 Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown.<small><sub>**MT:**</sub></small>
 [[Isa.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I weakened | <big><span class="asgreek">ανήκα</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were dried up; | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| dry | <big><span class="asgreek">ξηρός</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] roofs, | <big><span class="asgreek">δωμάτων</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| wild grass. | <big><span class="asgreek">άγρωστις</span></big> <sup><small><small>[[G6128]]</small></small></sup> |
+| I weakened | **<big>[[G0447\|ανήκα]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands, | **<big>[[G5495\|χείρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were dried up; | **<big>[[G3583\|εξηράνθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they became | **<big>[[G1096\|εγένοντο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| grass | **<big>[[G5528\|χόρτος]]</big>** |
+| dry | **<big>[[G3584\|ξηρός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] roofs, | **<big>[[G1430\|δωμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| wild grass. | **<big>[[G6128\|άγρωστις]]</big>** |
 [[Isa.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
 
 

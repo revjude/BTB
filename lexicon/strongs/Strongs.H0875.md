@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵר‎</span></big> **bᵉʼêr** <small>*(be-ayr')*</small> ==**well**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּאַר‎</span><sup><small>[[H0874]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּאֵר‎</span></big>** **bᵉʼêr** <small>*(be-ayr')*</small> ==**well**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0874|‎בָּאַר‎]]</big>**</small>
 
 $\quad$ pit, well.
 - ***a pit***
@@ -7,4 +7,4 @@ $\quad$ pit, well.
 
 **1)** well, pit, spring
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φρέαρ</span><sup><small>[[G5421]]</small></sup>
+<small>See Greek: </small>**<big>[[G5421|φρέαρ]]</big>**

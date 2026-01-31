@@ -7,44 +7,44 @@ But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went 
 Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD.<small><sub>**MT:**</sub></small>
 [[Jonah.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.2|<< Jonah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.4|Jonah 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonah rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">Ιωνάς</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to flee | <big><span class="asgreek">φυγείν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Tarshish | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Joppa. | <big><span class="asgreek">Ιόππην</span></big> <sup><small><small>[[G2445]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he found | <big><span class="asgreek">έυρε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a boat | <big><span class="asgreek">πλοίον</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| proceeding | <big><span class="asgreek">βαδίζον</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Tarshish, | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fare, | <big><span class="asgreek">ναύλον</span></big> <sup><small><small>[[G8377]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sail | <big><span class="asgreek">πλεύσαι</span></big> <sup><small><small>[[G4126]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Tarshish | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonah rose up | **<big>[[G0450\|ανέστη]]</big>** **<big>[[G2495\|Ιωνάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to flee | **<big>[[G5343\|φυγείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Tarshish | **<big>[[H0948\|Θαρσείς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went down | **<big>[[G2597\|κατέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Joppa. | **<big>[[G2445\|Ιόππην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he found | **<big>[[G2147\|έυρε]]</big>** |
+| a boat | **<big>[[G4143\|πλοίον]]</big>** |
+| proceeding | **<big>[[G6642\|βαδίζον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Tarshish, | **<big>[[H0948\|Θαρσείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his fare, | **<big>[[G8377\|ναύλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sail | **<big>[[G4126\|πλεύσαι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Tarshish | **<big>[[H0948\|Θαρσείς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Jonah.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.2|<< Jonah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.4|Jonah 1:4 >>]]</td></tr></table>
 
 

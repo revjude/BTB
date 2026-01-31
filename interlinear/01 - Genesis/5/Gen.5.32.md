@@ -6,22 +6,22 @@ After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.31|<< Genesis 5:31]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.1|Genesis 6:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he was  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.hi- <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Noah  | <span class="ashebrew"><big>נֹ֕חַ </big></span><small><small><sup>[[H5146]]</sup></small></small> &#8207;| No.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121L]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he fathered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יּ֣וֹלֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.led <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Noah  | <span class="ashebrew"><big>נֹ֔חַ </big></span><small><small><sup>[[H5146]]</sup></small></small> &#8207;| No.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shem  | <span class="ashebrew"><big>שֵׁ֖ם </big></span><small><small><sup>[[H8035]]</sup></small></small> &#8207;| shem <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ham  | <span class="ashebrew"><big>חָ֥ם </big></span><small><small><sup>[[H2526G]]</sup></small></small> &#8207;| cham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Japheth  | <span class="ashebrew"><big>יָֽפֶת </big></span><small><small><sup>[[H3315]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.fet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Noah  |**<big>&#8207;[[H5146\|נֹ֕חַ]]&#8207; </big>**| No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֣וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Noah  |**<big>&#8207;[[H5146\|נֹ֔חַ]]&#8207; </big>**| No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shem  |**<big>&#8207;[[H8035\|שֵׁ֖ם]]&#8207; </big>**| shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ham  |**<big>&#8207;[[H2526G\|חָ֥ם]]&#8207; </big>**| cham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Japheth  |**<big>&#8207;[[H3315\|יָֽפֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.fet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.31|<< Genesis 5:31]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.1|Genesis 6:1 >>]]</td></tr></table>
 
 

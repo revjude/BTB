@@ -7,20 +7,20 @@ Look unto the heavens, and see; and behold the clouds [which] are higher than th
 Look to the heavens and see; gaze at the clouds high above you.<small><sub>**MT:**</sub></small>
 [[Job.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.4|<< Job 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.6|Job 35:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Look up | <big><span class="asgreek">ανάβλεψον</span></big> <sup><small><small>[[G0308]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold! | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| Study | <big><span class="asgreek">κατάμαθε</span></big> <sup><small><small>[[G2648]]</small></small></sup> |
-| \[the\] clouds, | <big><span class="asgreek">νέφη</span></big> <sup><small><small>[[G3509]]</small></small></sup> |
-| how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| \[they are\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you! | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Look up | **<big>[[G0308\|ανάβλεψον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold! | **<big>[[G1492\|ίδε]]</big>** |
+| Study | **<big>[[G2648\|κατάμαθε]]</big>** |
+| \[the\] clouds, | **<big>[[G3509\|νέφη]]</big>** |
+| how | **<big>[[G5613\|ως]]</big>** |
+| high | **<big>[[G5308\|υψηλά]]</big>** |
+| \[they are\] from | **<big>[[G0575\|από]]</big>** |
+| you! | **<big>[[G1473\|σου]]</big>** |
 [[Job.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.4|<< Job 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.6|Job 35:6 >>]]</td></tr></table>
 
 

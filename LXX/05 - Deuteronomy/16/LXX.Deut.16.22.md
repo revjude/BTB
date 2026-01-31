@@ -7,17 +7,17 @@ Neither shalt thou set thee up [any] image; which the LORD thy God hateth.
 and do not set up for yourselves a sacred pillar, which the LORD your God hates.<small><sub>**MT:**</sub></small>
 [[Deut.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.21|<< Deuteronomy 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.1|Deuteronomy 17:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set \[up\] | <big><span class="asgreek">στήσεις</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| a monument | <big><span class="asgreek">στήλην</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| detests | <big><span class="asgreek">εμίσησε</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| set \[up\] | **<big>[[G2476\|στήσεις]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| a monument | **<big>[[G9171\|στήλην]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| detests | **<big>[[G3404\|εμίσησε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.21|<< Deuteronomy 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.1|Deuteronomy 17:1 >>]]</td></tr></table>
 
 

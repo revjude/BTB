@@ -7,17 +7,17 @@ Remember, I beseech thee, that thou hast made me as the clay; and wilt thou brin
 Please remember that You molded me like clay. Would You now return me to dust?<small><sub>**MT:**</sub></small>
 [[Job.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.8|<< Job 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.10|Job 10:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| of clay | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| you shaped me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έπλασας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| and unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| you return | <big><span class="asgreek">αποστρέφεις</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| Remember | **<big>[[G3403\|μνήσθητι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| of clay | **<big>[[G4081\|πηλόν]]</big>** |
+| you shaped me | **<big>[[G1473\|με]]</big>** **<big>[[G4111\|έπλασας]]</big>** |
+| and unto | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γην]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| you return | **<big>[[G0654\|αποστρέφεις]]</big>** |
 [[Job.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.8|<< Job 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.10|Job 10:10 >>]]</td></tr></table>
 
 

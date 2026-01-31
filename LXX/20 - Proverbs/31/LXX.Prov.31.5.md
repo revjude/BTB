@@ -7,20 +7,20 @@ Lest they drink, and forget the law, and pervert the judgment of any of the affl
 lest they drink and forget what is decreed, depriving all the oppressed of justice.<small><sub>**MT:**</sub></small>
 [[Prov.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.4|<< Proverbs 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.6|Proverbs 31:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| lest | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| drinking | <big><span class="asgreek">πίνοντες</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| they should forget | <big><span class="asgreek">επιλάθωνται</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom, | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rightly | <big><span class="asgreek">ορθά</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| to judge | <big><span class="asgreek">κρινείν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| are able | <big><span class="asgreek">δύνωνται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weak. | <big><span class="asgreek">ασθενείς</span></big> <sup><small><small>[[G0772]]</small></small></sup> |
+| lest | **<big>[[G2443\|ίνα]]</big>** **<big>[[G3361\|μη]]</big>** |
+| drinking | **<big>[[G4095\|πίνοντες]]</big>** |
+| they should forget | **<big>[[G1950\|επιλάθωνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| wisdom, | **<big>[[G4678\|σοφίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rightly | **<big>[[G3717\|ορθά]]</big>** |
+| to judge | **<big>[[G2919\|κρινείν]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| are able | **<big>[[G1410\|δύνωνται]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| weak. | **<big>[[G0772\|ασθενείς]]</big>** |
 [[Prov.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.4|<< Proverbs 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.6|Proverbs 31:6 >>]]</td></tr></table>
 
 

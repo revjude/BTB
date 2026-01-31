@@ -1,4 +1,4 @@
-<small>Also see: [[H3199]]</small>
+<small>Also see: **<big>[[H3199|יָכִין]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יָרִיב‎</span> **proper name, masculine** (***he contendeth*** or ***taketh*** (our) ***part, conducteth*** (our) ***case***; compare Sabean <span class="bdbLangHebrew">‎ירב‎</span> [[BDB#Hal|Hal]]<sup>615</sup>); — 
 

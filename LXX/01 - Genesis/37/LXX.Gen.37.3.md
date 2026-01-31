@@ -7,25 +7,25 @@ Now Israel loved Joseph more than all his children, because he [was] the son of 
 Now Israel loved Joseph more than his other sons, because Joseph had been born to him in his old age; so he made him a robe of many colors.<small><sub>**MT:**</sub></small>
 [[Gen.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.2|<< Genesis 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.4|Genesis 37:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| loved | <big><span class="asgreek">ηγάπα</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| beyond | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of old age | <big><span class="asgreek">γήρως</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
-| he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| for him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| garment | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| a colored | <big><span class="asgreek">ποικίλον</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| But Jacob | **<big>[[G2384\|Ιακώβ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| loved | **<big>[[G0025\|ηγάπα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| beyond | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of old age | **<big>[[G1094\|γήρως]]</big>** |
+| he was | **<big>[[G1510\|ην]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| And he made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| for him | **<big>[[G1473\|αυτώ]]</big>** |
+| garment | **<big>[[G5509\|χιτώνα]]</big>** |
+| a colored | **<big>[[G4164\|ποικίλον]]</big>** |
 [[Gen.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.2|<< Genesis 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.4|Genesis 37:4 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the r
 Remember, O Lord, the reproach of Your servants, which I bear in my heart from so many people—<small><sub>**MT:**</sub></small>
 [[Ps.89.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.49|<< Psalm 89:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.51|Psalm 89:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember, | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scorning | <big><span class="asgreek">ονειδισμού</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants! | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I underwent | <big><span class="asgreek">υπέσχον</span></big> <sup><small><small>[[G5254]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bosom, | <big><span class="asgreek">κόλπω</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| nations; | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| Remember, | **<big>[[G3403\|μνήσθητι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| scorning | **<big>[[G3680\|ονειδισμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants! | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| I underwent | **<big>[[G5254\|υπέσχον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my bosom, | **<big>[[G2859\|κόλπω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of many | **<big>[[G4183\|πολλών]]</big>** |
+| nations; | **<big>[[G1484\|εθνών]]</big>** |
 [[Ps.89.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.49|<< Psalm 89:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.51|Psalm 89:51 >>]]</td></tr></table>
 
 

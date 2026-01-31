@@ -7,32 +7,32 @@ Was the LORD displeased against the rivers? [was] thine anger against the rivers
 Were You angry at the rivers, O LORD? Was Your wrath against the streams? Did You rage against the sea when You rode on Your horses, on Your chariots of salvation?<small><sub>**MT:**</sub></small>
 [[Hab.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.7|<< Habakkuk 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.9|Habakkuk 3:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Were\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] rivers | <big><span class="asgreek">ποταμοίς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| you provoked to anger | <big><span class="asgreek">ωργίσθης</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] rivers | <big><span class="asgreek">ποταμοίς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| was your rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[was\] your impulse | <big><span class="asgreek">ορμή</span></big> <sup><small><small>[[G3730]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riding | <big><span class="asgreek">αναβησόμενος</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your horses, | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your riding | <big><span class="asgreek">ιππασία</span></big> <sup><small><small>[[G7727]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] deliverance. | <big><span class="asgreek">σωτηρία</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| \[Were\] | **<big>[[G3361\|μη]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] rivers | **<big>[[G4215\|ποταμοίς]]</big>** |
+| you provoked to anger | **<big>[[G3710\|ωργίσθης]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] rivers | **<big>[[G4215\|ποταμοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| was your rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θαλάσση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[was\] your impulse | **<big>[[G3730\|ορμή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| riding | **<big>[[G0305\|αναβησόμενος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your horses, | **<big>[[G2462\|ίππους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your riding | **<big>[[G7727\|ιππασία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] deliverance. | **<big>[[G4991\|σωτηρία]]</big>** |
 [[Hab.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.7|<< Habakkuk 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.9|Habakkuk 3:9 >>]]</td></tr></table>
 
 

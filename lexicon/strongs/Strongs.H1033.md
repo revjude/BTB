@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית כַּר‎</span></big> **Bêyth Kar** <small>*(bayth kar)*</small> ==**Beth-car**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎כַּר‎</span><sup><small>[[H3733]]</small></sup>; house of pasture</small>
+**<big><span class="ashebrew">‎בֵּית כַּר‎</span></big>** **Bêyth Kar** <small>*(bayth kar)*</small> ==**Beth-car**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H3733|‎כַּר‎]]</big>**; house of pasture</small>
 
 $\quad$ Beth-car.
 - § Beth-car = *"house of the ram" or "place of the lamb"*

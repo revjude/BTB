@@ -7,19 +7,19 @@ They wandered in the wilderness in a solitary way; they found no city to dwell i
 Some wandered in desert wastelands, finding no path to a city in which to dwell.<small><sub>**MT:**</sub></small>
 [[Ps.107.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.3|<< Psalm 107:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.5|Psalm 107:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They wandered | <big><span class="asgreek">επλανήθησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a waterless | <big><span class="asgreek">ανύδρω</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
-| way; | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| a city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| for a home | <big><span class="asgreek">κατοικητηρίου</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| They wandered | **<big>[[G4105\|επλανήθησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a waterless | **<big>[[G0504\|ανύδρω]]</big>** |
+| way; | **<big>[[G3598\|οδόν]]</big>** |
+| a city | **<big>[[G4172\|πόλεως]]</big>** |
+| for a home | **<big>[[G2732\|κατοικητηρίου]]</big>** |
+| they did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρον]]</big>** |
 [[Ps.107.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.3|<< Psalm 107:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.5|Psalm 107:5 >>]]</td></tr></table>
 
 

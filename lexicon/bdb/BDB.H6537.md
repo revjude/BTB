@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H4484]]</small>
+<small>Also see: **<big>[[H4484|מְנֵא]]</big>**</small>
 
  <span class="bdbLangAramaic">‎פְּרֵס‎</span> (read <span class="bdbLangAramaic">‎פְּרָס‎</span> ? [[BDB#Marti|M]]<sup>78 \* f.</sup>) probably **noun [masculine]** ==half-mina== (Late Hebrew <span class="bdbLangHebrew">‎פְּרָס‎</span>, Old Aramaic <span class="bdbLangAramaic">‎פרס‎</span>, <span class="bdbLangAramaic">‎פרש‎</span> [[BDB#Ldzb|Lzb]]<sup>354</sup> [[BDB#Cook|SAC]]<sup>99</sup> [[BDB#Cooke|Cooke]]<sup>176, 406</sup>; see  <span class="bdbLangHebrew">‎מְנֵא‎</span> and references); — absolute <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎פ‎</span> [[Dan.5.28|Dan 5:28]] plural <span class="bdbLangAramaic">‎(וּ)פַרְסִין‎</span> [read <span class="bdbLangAramaic">‎פְּרָסִין‎</span> ? see [[BDB#Marti|M]]<sup>l.c</sup>.] v[[Dan.5.25|Dan 5:25]]. 
 

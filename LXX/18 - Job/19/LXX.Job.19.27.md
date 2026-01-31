@@ -7,23 +7,23 @@ Whom I shall see for myself, and mine eyes shall behold, and not another; [thoug
 I will see Him for myself; my eyes will behold Him, and not as a stranger. How my heart yearns within me!<small><sub>**MT:**</sub></small>
 [[Job.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.26|<< Job 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.28|Job 19:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| am conscious of, | <big><span class="asgreek">συνεπίσταμαι</span></big> <sup><small><small>[[G9313]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| my eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has seen, | <big><span class="asgreek">εώρακε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| another; | <big><span class="asgreek">άλλος</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| but all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| on me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has been exhausted | <big><span class="asgreek">συντετέλεσται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[my\] bosom. | <big><span class="asgreek">κόλπω</span></big> <sup><small><small>[[G2859]]</small></small></sup> |
+| which | **<big>[[G3739\|α]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| myself | **<big>[[G1683\|εμαυτώ]]</big>** |
+| am conscious of, | **<big>[[G9313\|συνεπίσταμαι]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| my eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| has seen, | **<big>[[G3708\|εώρακε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| another; | **<big>[[G0243\|άλλος]]</big>** |
+| but all | **<big>[[G3956\|πάντα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| on me | **<big>[[G1473\|μοι]]</big>** |
+| has been exhausted | **<big>[[G4931\|συντετέλεσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[my\] bosom. | **<big>[[G2859\|κόλπω]]</big>** |
 [[Job.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.26|<< Job 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.28|Job 19:28 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִצְפָּה‎</span></big> **Mitspâh** <small>*(mits-paw')*</small> ==**Mizpah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מִצְפֶּה‎</span><sup><small>[[H4708]]</small></sup></small>
+**<big><span class="ashebrew">‎מִצְפָּה‎</span></big>** **Mitspâh** <small>*(mits-paw')*</small> ==**Mizpah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H4708|‎מִצְפֶּה‎]]</big>**</small>
 
-$\quad$ Mitspah. (This seems rather to be only an orthographic variation of <span class="ashebrew">‎מִצְפֶּה‎</span><sup><small>[[H4708]]</small></sup> when 'in pause'.)
+$\quad$ Mitspah. (This seems rather to be only an orthographic variation of **<big>[[H4708|‎מִצְפֶּה‎]]</big>** when 'in pause'.)
 - § Mizpah = *"watchtower"*
 - ***Mitspah***, the name of two places in Palestine
 

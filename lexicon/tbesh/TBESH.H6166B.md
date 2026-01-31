@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עֲרָד‎</span> <small>***(a.rad)***</small> ==**Arad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin  living at the time of Egypt and Wilderness, only mentioned at [[1Chr.8.15|1Ch.8.15]]
--  son of: Beriah ([[H1283I]])
--  brother of: Ahio ([[H0283H]]), Shashak ([[H8349]]), Jeremoth ([[H3406I]]), Zebadiah ([[H2069]]), Eder ([[H5738]]), Michael ([[H4317L]]), Ishpah ([[H3472]]) and Joha ([[H3109]])
+-  son of: Beriah (**<big>[[H1283I|בְּרִיעָה]]</big>**)
+-  brother of: Ahio (**<big>[[H0283H|אַחְיוֹ]]</big>**), Shashak (**<big>[[H8349|שָׁשַׁק]]</big>**), Jeremoth (**<big>[[H3406I|יְרִימוֹת]]</big>**), Zebadiah (**<big>[[H2069|זְבַדְיָה]]</big>**), Eder (**<big>[[H5738|עֶדֶר]]</big>**), Michael (**<big>[[H4317L|מִיכָאֵל]]</big>**), Ishpah (**<big>[[H3472|יִשְׁפָּה]]</big>**) and Joha (**<big>[[H3109|יוֹחָא]]</big>**)

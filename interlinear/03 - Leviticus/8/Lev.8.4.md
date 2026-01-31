@@ -6,20 +6,20 @@ So Moses did as the LORD had commanded him, and the assembly gathered at the ent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.3|<< Leviticus 8:3]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.5|Leviticus 8:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he did  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֣עַשׂ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּֽ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֛ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had commanded  | <span class="ashebrew"><big>צִוָּ֥ה </big></span><small><small><sup>[[H6680]]</sup></small></small> &#8207;| tzi.Vah <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֑ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it assembled  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּקָּהֵל֙ </big></span><small><small><sup>[[H6950]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ti.ka.Hel <small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the congregation  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֵדָ֔ה </big></span><small><small><sup>[[H5712]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] entrance of  | <span class="ashebrew"><big>פֶּ֖תַח </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| Pe.tach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tent of  | <span class="ashebrew"><big>אֹ֥הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵֽד </big></span><small><small><sup>[[H4150I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֛ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|תִּקָּהֵל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ka.Hel<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the congregation  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5712\|עֵדָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  |**<big>&#8207;[[H6607\|פֶּ֖תַח]]&#8207; </big>**| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֥הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.3|<< Leviticus 8:3]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.5|Leviticus 8:5 >>]]</td></tr></table>
 
 

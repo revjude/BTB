@@ -7,36 +7,36 @@ And [concerning] the children of Israel and Judah, that dwelt in the cities of J
 And the Israelites and Judahites who lived in the cities of Judah also brought a tithe of their herds and flocks and a tithe of the holy things consecrated to the LORD their God, and they laid them in large heaps.<small><sub>**MT:**</sub></small>
 [[2Chr.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.5|<< 2 Chronicles 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.7|2 Chronicles 31:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">επιδέκατα</span></big> <sup><small><small>[[G7400]]</small></small></sup> |
-| of \[the\] calves, | <big><span class="asgreek">μόσχων</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">επιδέκατα</span></big> <sup><small><small>[[G7400]]</small></small></sup> |
-| of \[the\] goats. | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sanctified | <big><span class="asgreek">ηγίασαν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| their God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they carried in | <big><span class="asgreek">εισήνεγκαν</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">έθηκαν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| heaps | <big><span class="asgreek">σωρούς</span></big> <sup><small><small>[[G9391]]</small></small></sup> |
-| \[upon\] heaps. | <big><span class="asgreek">σωρούς</span></big> <sup><small><small>[[G9391]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| themselves | **<big>[[G1473\|αυτοί]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| a tenth | **<big>[[G7400\|επιδέκατα]]</big>** |
+| of \[the\] calves, | **<big>[[G3448\|μόσχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep, | **<big>[[G4263\|προβάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a tenth | **<big>[[G7400\|επιδέκατα]]</big>** |
+| of \[the\] goats. | **<big>[[G6167\|αιγών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sanctified | **<big>[[G0037\|ηγίασαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| their God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they carried in | **<big>[[G1533\|εισήνεγκαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G5087\|έθηκαν]]</big>** |
+| heaps | **<big>[[G9391\|σωρούς]]</big>** |
+| \[upon\] heaps. | **<big>[[G9391\|σωρούς]]</big>** |
 [[2Chr.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.5|<< 2 Chronicles 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.7|2 Chronicles 31:7 >>]]</td></tr></table>
 
 

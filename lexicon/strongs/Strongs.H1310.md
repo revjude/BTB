@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּשַׁל‎</span></big> **bâshal** <small>*(baw-shal')*</small> ==**to boil**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּשַׁל‎</span></big>** **bâshal** <small>*(baw-shal')*</small> ==**to boil**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bake, boil, bring forth, roast, seethe, sod (be sodden).
@@ -20,4 +20,4 @@ $\quad$ **1d)** (Hiphil)
 $\quad$ $\quad$ **1d1)** to ripen
 $\quad$ $\quad$ **1d2)** ripen, brought to ripeness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παρίστημι</span><sup><small>[[G3936]]</small></sup>
+<small>See Greek: </small>**<big>[[G3936|παρίστημι]]</big>**

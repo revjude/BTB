@@ -7,30 +7,30 @@ And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brot
 From Kadesh, Moses sent messengers to tell the king of Edom, “This is what your brother Israel says: You know all the hardship that has befallen us,<small><sub>**MT:**</sub></small>
 [[Num.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Kadesh | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have knowledge of | <big><span class="asgreek">επίστη</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trouble | <big><span class="asgreek">μόχθον</span></big> <sup><small><small>[[G3449]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| finding | <big><span class="asgreek">ευρόντα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses sent | **<big>[[G0649\|απέστειλε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Kadesh | **<big>[[H6946\|Κάδης]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Edom, | **<big>[[H0123\|Εδώμ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| have knowledge of | **<big>[[G1987\|επίστη]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| trouble | **<big>[[G3449\|μόχθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| finding | **<big>[[G2147\|ευρόντα]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
 [[Num.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
 
 

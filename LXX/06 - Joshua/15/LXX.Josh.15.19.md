@@ -7,36 +7,36 @@ Who answered, Give me a blessing; for thou hast given me a south land; give me a
 “Give me a blessing,” she answered. “Since you have given me land in the Negev, give me springs of water as well.” So Caleb gave her both the upper and lower springs.<small><sub>**MT:**</sub></small>
 [[Josh.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.18|<< Joshua 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.20|Joshua 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a blessing to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[of the\] Negev | <big><span class="asgreek">Ναγέβ</span></big> <sup><small><small>[[H5045]]</small></small></sup> |
-| you have appointed | <big><span class="asgreek">δέδωκάς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Golath-maim. | <big><span class="asgreek">Γολαθμάϊμ</span></big> <sup><small><small>[[H1543+H4325]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Golath-maim | <big><span class="asgreek">Γολαθμάϊμ</span></big> <sup><small><small>[[H1543+H4325]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upper \[part\], | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Golath | <big><span class="asgreek">Γολάθ</span></big> <sup><small><small>[[H1543]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[part\] below. | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| a blessing to me! | **<big>[[G1473\|μοι]]</big>** **<big>[[G2129\|ευλογίαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| \[of the\] Negev | **<big>[[H5045\|Ναγέβ]]</big>** |
+| you have appointed | **<big>[[G1325\|δέδωκάς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Golath-maim. | **<big>[[H1543+H4325\|Γολαθμάϊμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Golath-maim | **<big>[[H1543+H4325\|Γολαθμάϊμ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| upper \[part\], | **<big>[[G0507\|άνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Golath | **<big>[[H1543\|Γολάθ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| \[part\] below. | **<big>[[G2736\|κάτω]]</big>** |
 [[Josh.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.18|<< Joshua 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.20|Joshua 15:20 >>]]</td></tr></table>
 
 

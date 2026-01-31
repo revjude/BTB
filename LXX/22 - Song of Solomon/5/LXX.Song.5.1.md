@@ -10,40 +10,40 @@ I am come into my garden, my sister, [my] spouse: I have gathered my myrrh with 
 I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends, and drink; drink freely, O beloved.<small><sub>**MT:**</sub></small>
 [[Song.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.16|<< Song of Solomon 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.2|Song of Solomon 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| go down | <big><span class="asgreek">καταβήτω</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| my beloved \[man\] | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his garden, | <big><span class="asgreek">κήπον</span></big> <sup><small><small>[[G2779]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him eat | <big><span class="asgreek">φαγέτω</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \[the\] fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of his fruit trees! | <big><span class="asgreek">ακροδρύων</span></big> <sup><small><small>[[G6207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| my garden, | <big><span class="asgreek">κήπόν</span></big> <sup><small><small>[[G2779]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my sister, | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O bride. | <big><span class="asgreek">νύμφη</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| I gathered the vintage | <big><span class="asgreek">ετρύγησα</span></big> <sup><small><small>[[G5166]]</small></small></sup> |
-| of my myrrh | <big><span class="asgreek">σμύρναν</span></big> <sup><small><small>[[G4666]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| my aromatics; | <big><span class="asgreek">αρωμάτων</span></big> <sup><small><small>[[G0759]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| my bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| my honey; | <big><span class="asgreek">μέλιτός</span></big> <sup><small><small>[[G3192]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I drank | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνόν</span></big> <sup><small><small>[[G3631]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| my milk. | <big><span class="asgreek">γάλακτός</span></big> <sup><small><small>[[G1051]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Eat, | <big><span class="asgreek">φάγετε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| O dear men, | <big><span class="asgreek">πλήσιοι</span></big> <sup><small><small>[[G8816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drink! | <big><span class="asgreek">πίετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be intoxicated | <big><span class="asgreek">μεθύσθητε</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
-| beloved men! | <big><span class="asgreek">αδελφιδοί</span></big> <sup><small><small>[[G6137]]</small></small></sup> |
+| go down | **<big>[[G2597\|καταβήτω]]</big>** |
+| my beloved \[man\] | **<big>[[G6137\|αδελφιδός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| his garden, | **<big>[[G2779\|κήπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him eat | **<big>[[G2068\|φαγέτω]]</big>** |
+| \[the\] fruit | **<big>[[G2590\|καρπόν]]</big>** |
+| of his fruit trees! | **<big>[[G6207\|ακροδρύων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| my garden, | **<big>[[G2779\|κήπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my sister, | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O bride. | **<big>[[G3565\|νύμφη]]</big>** |
+| I gathered the vintage | **<big>[[G5166\|ετρύγησα]]</big>** |
+| of my myrrh | **<big>[[G4666\|σμύρναν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| my aromatics; | **<big>[[G0759\|αρωμάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I ate | **<big>[[G2068\|έφαγον]]</big>** |
+| my bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| my honey; | **<big>[[G3192\|μέλιτός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I drank | **<big>[[G4095\|έπιον]]</big>** |
+| wine | **<big>[[G3631\|οίνόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| my milk. | **<big>[[G1051\|γάλακτός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Eat, | **<big>[[G2068\|φάγετε]]</big>** |
+| O dear men, | **<big>[[G8816\|πλήσιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drink! | **<big>[[G4095\|πίετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be intoxicated | **<big>[[G3184\|μεθύσθητε]]</big>** |
+| beloved men! | **<big>[[G6137\|αδελφιδοί]]</big>** |
 [[Song.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.16|<< Song of Solomon 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.2|Song of Solomon 5:2 >>]]</td></tr></table>
 
 

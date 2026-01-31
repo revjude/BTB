@@ -7,24 +7,24 @@ The LORD of hosts hath purposed it, to stain the pride of all glory, [and] to br
 The LORD of Hosts planned it, to defile all its glorious beauty, to disgrace all the renowned of the earth.<small><sub>**MT:**</sub></small>
 [[Isa.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.8|<< Isaiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.10|Isaiah 23:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| plans | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| to disable | <big><span class="asgreek">παραλύσαι</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glorious ones, | <big><span class="asgreek">ενδόξων</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to dishonor | <big><span class="asgreek">ατιμάσαι</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| glorious \[thing\] | <big><span class="asgreek">ένδοξον</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| plans | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| to disable | **<big>[[G3886\|παραλύσαι]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| insolence | **<big>[[G5196\|ύβριν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| glorious ones, | **<big>[[G1741\|ενδόξων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to dishonor | **<big>[[G0818\|ατιμάσαι]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| glorious \[thing\] | **<big>[[G1741\|ένδοξον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Isa.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.8|<< Isaiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.10|Isaiah 23:10 >>]]</td></tr></table>
 
 

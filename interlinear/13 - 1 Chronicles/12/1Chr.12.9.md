@@ -6,14 +6,14 @@ Ezer the chief, Obadiah the second in command, Eliab the third,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.8|<< 1 Chronicles 12:8]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.10|1 Chronicles 12:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Ezer  | <span class="ashebrew"><big>עֵ֖זֶר </big></span><small><small><sup>[[H5829H]]</sup></small></small> &#8207;| 'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the chief  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רֹ֑אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Obadiah  | <span class="ashebrew"><big>עֹבַדְיָה֙ </big></span><small><small><sup>[[H5662L]]</sup></small></small> &#8207;| 'oad.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the second  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שֵּׁנִ֔י </big></span><small><small><sup>[[H8145]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.Ni <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliab  | <span class="ashebrew"><big>אֱלִיאָ֖ב </big></span><small><small><sup>[[H0446J]]</sup></small></small> &#8207;| 'e.li.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the third  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁלִשִֽׁי </big></span><small><small><sup>[[H7992]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.li.Shi <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ezer  |**<big>&#8207;[[H5829H\|עֵ֖זֶר]]&#8207; </big>**| 'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the chief  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7218H\|רֹ֑אשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Obadiah  |**<big>&#8207;[[H5662L\|עֹבַדְיָה֙]]&#8207; </big>**| 'oad.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliab  |**<big>&#8207;[[H0446J\|אֱלִיאָ֖ב]]&#8207; </big>**| 'e.li.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִֽׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.8|<< 1 Chronicles 12:8]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.10|1 Chronicles 12:10 >>]]</td></tr></table>
 
 

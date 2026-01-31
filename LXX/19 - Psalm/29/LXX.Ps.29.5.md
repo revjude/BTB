@@ -7,18 +7,18 @@ The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of 
 The voice of the LORD breaks the cedars; the LORD shatters the cedars of Lebanon.<small><sub>**MT:**</sub></small>
 [[Ps.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.4|<< Psalm 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.6|Psalm 29:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| breaking | <big><span class="asgreek">συντρίβοντος</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| cedars; | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> breaks | <big><span class="asgreek">συντρίψει</span></big> <sup><small><small>[[G4937]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon; | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| \[The\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| breaking | **<big>[[G4937\|συντρίβοντος]]</big>** |
+| cedars; | **<big>[[G2748\|κέδρους]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> breaks | **<big>[[G4937\|συντρίψει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cedars | **<big>[[G2748\|κέδρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon; | **<big>[[H3844\|Λιβάνου]]</big>** |
 [[Ps.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.4|<< Psalm 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.6|Psalm 29:6 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cauda</span> was an island where the ship carrying Paul sought shelter during a storm on his journey to Rome.
 - A location only mentioned at [[Ezra.8.17b|Act.27.16]]; 
-- only referred to as Cauda<[[G2802]]> \(<span class='tipnrLangGreek'>Κλαύδη</span>, <span class='tipnrLangGreek'>Καῦδα</span>\).
+- only referred to as Cauda **<big>[[G2802|Κλαύδη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.843510,24.091671&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Cauda is a small island located south of Crete in the Mediterranean Sea. It prov
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cauda | [<span class='tipnrLangGreek'>Κλαύδη</span>, <span class='tipnrLangGreek'>Καῦδα</span>](G2802) <small>*Greek*</small> | 1x | [Act.27.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cauda\*\|reference=Act.27.16) |
-All Strong's for **Cauda**: \[[[G2802]]\]
+| Cauda | [<span class='tipnrLangGreek'>Κλαύδη</span>, <span class='tipnrLangGreek'>Καῦδα</span>](G2802) | 1x | [Act.27.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cauda\*\|reference=Act.27.16) |
+All entries for **Cauda**:  **<big>[[G2802|Κλαύδη]]</big>**

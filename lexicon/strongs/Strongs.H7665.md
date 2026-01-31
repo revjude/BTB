@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שָׁבַר‎</span></big> **shâbar** <small>*(shaw-bar')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁבַר‎</span></big>** **shâbar** <small>*(shaw-bar')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ break (down, off, in pieces, up), broken (-hearted), bring to the birth, crush, destroy, hurt, quench, [idiom] quite, tear, view (by mistake for <span class="ashebrew">‎שָׂבַר‎</span><sup><small>[[H7663]]</small></sup>).
+$\quad$ break (down, off, in pieces, up), broken (-hearted), bring to the birth, crush, destroy, hurt, quench, [idiom] quite, tear, view (by mistake for **<big>[[H7663|‎שָׂבַר‎]]</big>**).
 - ***to burst*** (literally or figuratively)
 
 **1)** to break, break in pieces
@@ -15,4 +15,4 @@ $\quad$ **1c)** (Piel) to shatter, break
 $\quad$ **1d)** (Hiphil) to cause to break out, bring to the birth
 $\quad$ **1e)** (Hophal) to be broken, be shattered
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποδίδωμι</span><sup><small>[[G0591]]</small></sup> · <span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">γαζοφυλάκιον</span><sup><small>[[G1049]]</small></sup> · <span class="asgreek">διαλύω</span><sup><small>[[G1262]]</small></sup> · <span class="asgreek">ἐμπορεύομαι</span><sup><small>[[G1710]]</small></sup> · <span class="asgreek">ἐρημόω</span><sup><small>[[G2049]]</small></sup> · <span class="asgreek">θλίβω</span><sup><small>[[G2346]]</small></sup> · <span class="asgreek">μεταδίδωμι</span><sup><small>[[G3330]]</small></sup> · <span class="asgreek">-πώς</span><sup><small>[[G4458]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup>
+<small>See Greek: </small>**<big>[[G0591|ἀποδίδωμι]]</big>** · **<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G1049|γαζοφυλάκιον]]</big>** · **<big>[[G1262|διαλύω]]</big>** · **<big>[[G1710|ἐμπορεύομαι]]</big>** · **<big>[[G2049|ἐρημόω]]</big>** · **<big>[[G2346|θλίβω]]</big>** · **<big>[[G3330|μεταδίδωμι]]</big>** · **<big>[[G4458|-πώς]]</big>** · **<big>[[G4937|συντρίβω]]</big>**

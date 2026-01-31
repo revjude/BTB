@@ -6,19 +6,19 @@ The foundations were laid with large, costly stones, some ten cubits long and so
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.9|<< 1 Kings 7:9]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.11|1 Kings 7:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [it was] founded  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְיֻסָּ֕ד </big></span><small><small><sup>[[H3245]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.yu.Sad <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stones  | <span class="ashebrew"><big>אֲבָנִ֥ים </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'a.va.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| costly  | <span class="ashebrew"><big>יְקָר֖וֹת </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ye.ka.Rot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stones  | <span class="ashebrew"><big>אֲבָנִ֣ים </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'a.va.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| large  | <span class="ashebrew"><big>גְּדֹל֑וֹת </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stones of  | <span class="ashebrew"><big>אַבְנֵי֙ </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'av.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶ֣שֶׂר </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'E.ser <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubits  | <span class="ashebrew"><big>אַמּ֔וֹת </big></span><small><small><sup>[[H0520A]]</sup></small></small> &#8207;| 'a.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and stones of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַבְנֵ֖י </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eight  | <span class="ashebrew"><big>שְׁמֹנֶ֥ה </big></span><small><small><sup>[[H8083]]</sup></small></small> &#8207;| she.mo.Neh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubits  | <span class="ashebrew"><big>אַמּֽוֹת </big></span><small><small><sup>[[H0520A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [it was] founded  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3245\|מְיֻסָּ֕ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.yu.Sad<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֥ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| costly  |**<big>&#8207;[[H3368\|יְקָר֖וֹת]]&#8207; </big>**| ye.ka.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֣ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| large  |**<big>&#8207;[[H1419A\|גְּדֹל֑וֹת]]&#8207; </big>**| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones of  |**<big>&#8207;[[H0068G\|אַבְנֵי֙]]&#8207; </big>**| 'av.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֶ֣שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  |**<big>&#8207;[[H0520A\|אַמּ֔וֹת]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stones of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0068G\|אַבְנֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight  |**<big>&#8207;[[H8083\|שְׁמֹנֶ֥ה]]&#8207; </big>**| she.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  |**<big>&#8207;[[H0520A\|אַמּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.9|<< 1 Kings 7:9]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.11|1 Kings 7:11 >>]]</td></tr></table>
 
 

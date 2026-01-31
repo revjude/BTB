@@ -7,37 +7,37 @@ Then hear thou in heaven, and do, and judge thy servants, condemning the wicked,
 then may You hear from heaven and act. May You judge Your servants, condemning the wicked man by bringing down on his own head what he has done, and justifying the righteous man by rewarding him according to his righteousness.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.31|<< 1 Kings 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.33|1 Kings 8:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall listen | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall act, | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall judge | <big><span class="asgreek">κρινείς</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel -- | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to act as lawless | <big><span class="asgreek">ανομήσαι</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| \[with the\] lawless, | <big><span class="asgreek">άνομον</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| to impute | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his head; | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do justice | <big><span class="asgreek">δικαιώσαι</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| \[with the\] just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| to impute | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness. | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall listen | **<big>[[G1522\|εισακούση]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall act, | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall judge | **<big>[[G2919\|κρινείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Israel -- | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to act as lawless | **<big>[[G6349\|ανομήσαι]]</big>** |
+| \[with the\] lawless, | **<big>[[G0459\|άνομον]]</big>** |
+| to impute | **<big>[[G1325\|δούναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his way | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1519\|εις]]</big>** |
+| his head; | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do justice | **<big>[[G1344\|δικαιώσαι]]</big>** |
+| \[with the\] just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| to impute | **<big>[[G1325\|δούναι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his righteousness. | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.31|<< 1 Kings 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.33|1 Kings 8:33 >>]]</td></tr></table>
 
 

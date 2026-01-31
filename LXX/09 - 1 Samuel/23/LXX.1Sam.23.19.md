@@ -7,39 +7,39 @@ Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself
 Then the Ziphites came up to Saul at Gibeah and said, “Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah south of Jeshimon?<small><sub>**MT:**</sub></small>
 [[1Sam.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.18|<< 1 Samuel 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.20|1 Samuel 23:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended up | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ziphites | <big><span class="asgreek">Ζιφαίοι</span></big> <sup><small><small>[[H2130]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill, | <big><span class="asgreek">βουνόν</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold \[is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| hid | <big><span class="asgreek">κέκρυπται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| narrows, | <big><span class="asgreek">στενοίς</span></big> <sup><small><small>[[G4728]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| New, | <big><span class="asgreek">καινή</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνώ</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hachilah, | <big><span class="asgreek">Εχελά</span></big> <sup><small><small>[[H2444]]</small></small></sup> |
-| of the \[place\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jeshimon? | <big><span class="asgreek">Ιεσσεμούν</span></big> <sup><small><small>[[H3452]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended up | **<big>[[G0305\|ανέβησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Ziphites | **<big>[[H2130\|Ζιφαίοι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| hill, | **<big>[[G1015\|βουνόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Behold \[is\] not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2400\|ιδού]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| hid | **<big>[[G2928\|κέκρυπται]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| narrows, | **<big>[[G4728\|στενοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| New, | **<big>[[G2537\|καινή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| hill | **<big>[[G1015\|βουνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Hachilah, | **<big>[[H2444\|Εχελά]]</big>** |
+| of the \[place\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right | **<big>[[G1188\|δεξιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jeshimon? | **<big>[[H3452\|Ιεσσεμούν]]</big>** |
 [[1Sam.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.18|<< 1 Samuel 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.20|1 Samuel 23:20 >>]]</td></tr></table>
 
 

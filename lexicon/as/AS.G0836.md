@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">αὐλός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἄω</span></span>, <span class="asitalic">to blow</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">חָלִיל</span> <small><sup>[[H2485]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">αὐλός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἄω</span></span>, <span class="asitalic">to blow</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H2485|חָלִיל]]</big>**;\]</span> </span>
 <span class="asitalic">a pipe</span>: [[1Cor.14.7|I Co 14:7]].†
 
 **Abbott-Smith References**

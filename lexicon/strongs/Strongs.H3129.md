@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹנָתָן‎</span></big> **Yôwnâthân** <small>*(yo-naw-thawn')*</small> ==**Jonathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹנָתָן‎</span><sup><small>[[H3083]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹנָתָן‎</span></big>** **Yôwnâthân** <small>*(yo-naw-thawn')*</small> ==**Jonathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3083|‎יְהוֹנָתָן‎]]</big>**</small>
 
 $\quad$ Jonathan.
 - § Jonathan or Jehonathan = *"Jehovah has given"*

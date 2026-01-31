@@ -7,28 +7,28 @@ Give wings unto Moab, that it may flee and get away: for the cities thereof shal
 Put salt on Moab, for she will be laid waste; her cities will become desolate, with no one to dwell in them.<small><sub>**MT:**</sub></small>
 [[Jer.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.8|<< Jeremiah 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.10|Jeremiah 48:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Put | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| signs | <big><span class="asgreek">σημεία</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| \[upon\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by an infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| she shall be kindled; | <big><span class="asgreek">αναφθήσεται</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an untrodden \[land\] | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| because of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not being | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one dwelling | <big><span class="asgreek">οικούντα</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Put | **<big>[[G1325\|δότε]]</big>** |
+| signs | **<big>[[G4592\|σημεία]]</big>** |
+| \[upon\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| by an infection | **<big>[[G0860\|αφή]]</big>** |
+| she shall be kindled; | **<big>[[G0381\|αναφθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her cities | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an untrodden \[land\] | **<big>[[G6101\|άβατον]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| because of | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| not being | **<big>[[G3361\|μη]]</big>** **<big>[[G1510\|είναι]]</big>** |
+| one dwelling | **<big>[[G3611\|οικούντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Jer.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.8|<< Jeremiah 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.10|Jeremiah 48:10 >>]]</td></tr></table>
 
 

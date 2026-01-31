@@ -7,48 +7,48 @@ Now [that] which was prepared [for me] daily [was] one ox [and] six choice sheep
 Each day one ox, six choice sheep, and some fowl were prepared for me, and once every ten days an abundance of all kinds of wine was provided. But I did not demand the food allotted to the governor, because the burden on the people was so heavy.<small><sub>**MT:**</sub></small>
 [[Neh.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.17|<< Nehemiah 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.19|Nehemiah 5:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| coming | <big><span class="asgreek">γινόμενον</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχος</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| choice | <big><span class="asgreek">εκλεκτά</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a winter yearling; | <big><span class="asgreek">χίμαρος</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| \[there\] came | <big><span class="asgreek">εγίνοντό</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in multitude. | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my governing | <big><span class="asgreek">ηγεμονίας</span></big> <sup><small><small>[[G2231]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seek | <big><span class="asgreek">εζήτησα</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[was\] heavy | <big><span class="asgreek">βαρεία</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slavery | <big><span class="asgreek">δουλεία</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1510\|ην]]</big>** |
+| coming | **<big>[[G1096\|γινόμενον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| calf | **<big>[[G3448\|μόσχος]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| choice | **<big>[[G1588\|εκλεκτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a winter yearling; | **<big>[[G9733\|χίμαρος]]</big>** |
+| \[there\] came | **<big>[[G1096\|εγίνοντό]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of ten | **<big>[[G1176\|δέκα]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| in multitude. | **<big>[[G4128\|πλήθει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| these | **<big>[[G3778\|τούτοις]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my governing | **<big>[[G2231\|ηγεμονίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| seek | **<big>[[G2212\|εζήτησα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[was\] heavy | **<big>[[G0926\|βαρεία]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| slavery | **<big>[[G1397\|δουλεία]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[Neh.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.17|<< Nehemiah 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.19|Nehemiah 5:19 >>]]</td></tr></table>
 
 

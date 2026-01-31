@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עוֹלָם‎</span></big> **ʻôwlâm** <small>*(o-lawm')*</small> ==**forever: enduring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">עֹלָם</span> **ʻôlâm** <small>*(o-lawm')*</small>; from <span class="ashebrew">‎עָלַם‎</span><sup><small>[[H5956]]</small></sup></small>
+**<big><span class="ashebrew">‎עוֹלָם‎</span></big>** **ʻôwlâm** <small>*(o-lawm')*</small> ==**forever: enduring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֹלָם</span></big>** **ʻôlâm** <small>*(o-lawm')*</small>; from **<big>[[H5956|‎עָלַם‎]]</big>**</small>
 
-$\quad$ alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)) ever(-lasting, -more, of old), lasting, long (time), (of) old (time), perpetual, at any time, (beginning of the) world ([phrase] without end). Compare <span class="ashebrew">‎נֶצַח‎</span><sup><small>[[H5331]]</small></sup>, <span class="ashebrew">‎עַד‎</span><sup><small>[[H5703]]</small></sup>.
+$\quad$ alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)) ever(-lasting, -more, of old), lasting, long (time), (of) old (time), perpetual, at any time, (beginning of the) world ([phrase] without end). Compare **<big>[[H5331|‎נֶצַח‎]]</big>**, **<big>[[H5703|‎עַד‎]]</big>**.
 - properly, ***concealed***, i.e. the vanishing point
 -  generally, time out of mind (past or future), i.e. (practically) ***eternity***
 -  ***frequentatively***, adverbial (especially with prepositional prefix) ***always***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1b1)** for ever, always
 $\quad$ $\quad$ **1b2)** continuous existence, perpetual
 $\quad$ $\quad$ **1b3)** everlasting, indefinite or unending future, eternity
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀεί</span><sup><small>[[G0104]]</small></sup> · <span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">αἰώνιος</span><sup><small>[[G0166]]</small></sup> · <span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup>
+<small>See Greek: </small>**<big>[[G0104|ἀεί]]</big>** · **<big>[[G0165|αἰών]]</big>** · **<big>[[G0166|αἰώνιος]]</big>** · **<big>[[G0746|ἀρχή]]</big>**

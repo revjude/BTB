@@ -1,7 +1,5 @@
-<span class="ashebrew">‎רִבְקָה‎</span> <small>***(riv.qah)***</small> ==**Rebekah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time of the Patriarchs, first mentioned at [[Gen.22.23|Gen.22.23]]
--  daughter of: Bethuel ([[H1328A]])
--  sister of: Laban ([[H3837A]]); married to Isaac ([[H3327]])
--  mother of: Esau ([[H6215]]) and Israel ([[H3478]])
-- Also named: <i>Rhebekka</i> (<span class='asgreek'>Ῥεβέκκα</span> "Rebekah" [[G4479]])
-
+-  daughter of: Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**)
+-  sister of: Laban (**<big>[[H3837A|לָבָן]]</big>**); married to Isaac (**<big>[[H3327|יִצְחָק]]</big>**)
+-  mother of: Esau (**<big>[[H6215|עֵשָׂו]]</big>**) and Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**)
+- Also named: <i>Rhebekka</i> (<span class='asgreek'>Ῥεβέκκα</span> "Rebekah" **<big>[[G4479|Ῥεβέκκα]]</big>**)

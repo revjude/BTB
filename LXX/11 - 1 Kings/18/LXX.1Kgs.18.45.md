@@ -7,32 +7,32 @@ And it came to pass in the mean while, that the heaven was black with clouds and
 Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel.<small><sub>**MT:**</sub></small>
 [[1Kgs.18.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.44|<< 1 Kings 18:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.46|1 Kings 18:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| from | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| here, | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| darkened | <big><span class="asgreek">συνεσκότασε</span></big> <sup><small><small>[[G9355]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφέλαις</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wind, | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahab rode horseback, | <big><span class="asgreek">ίππευσεν Αχαάβ</span></big> <sup><small><small>[[G7728]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jezreel. | <big><span class="asgreek">Ιεζραήλ</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened | **<big>[[G1096\|εγένετο]]</big>** |
+| from | **<big>[[G2193\|έως]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| here, | **<big>[[G5602\|ώδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| darkened | **<big>[[G9355\|συνεσκότασε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| clouds | **<big>[[G3507\|νεφέλαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wind, | **<big>[[G4151\|πνεύματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there became | **<big>[[G1096\|εγένετο]]</big>** |
+| rain | **<big>[[G5205\|υετός]]</big>** |
+| a great | **<big>[[G3173\|μέγας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahab rode horseback, | **<big>[[G7728\|ίππευσεν Αχαάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jezreel. | **<big>[[H3157\|Ιεζραήλ]]</big>** |
 [[1Kgs.18.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.44|<< 1 Kings 18:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.46|1 Kings 18:46 >>]]</td></tr></table>
 
 

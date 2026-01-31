@@ -6,14 +6,14 @@ Before the mountains were settled, before the hills, I was brought forth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.24|<< Proverbs 8:24]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.26|Proverbs 8:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<in> before  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>טֶ֣רֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Te.rem <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִ֣ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were planted  | <span class="ashebrew"><big>הָטְבָּ֑עוּ </big></span><small><small><sup>[[H2883]]</sup></small></small> &#8207;| ha.te.Ba.'u <small><sup>[[HVHp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֖י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] hills  | <span class="ashebrew"><big>גְבָע֣וֹת </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| ge.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I was brought forth  | <span class="ashebrew"><big>חוֹלָֽלְתִּי </big></span><small><small><sup>[[H2342H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cho.Lal.ti <small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֣רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were planted  |**<big>&#8207;[[H2883\|הָטְבָּ֑עוּ]]&#8207; </big>**| ha.te.Ba.'u<small><sup>[[HVHp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֖י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hills  |**<big>&#8207;[[H1389I\|גְבָע֣וֹת]]&#8207; </big>**| ge.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was brought forth  |**<big>&#8207;[[H2342H\|חוֹלָֽלְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cho.Lal.ti<small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.24|<< Proverbs 8:24]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.26|Proverbs 8:26 >>]]</td></tr></table>
 
 

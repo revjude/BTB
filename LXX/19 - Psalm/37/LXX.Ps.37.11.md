@@ -11,17 +11,17 @@ But the meek will inherit the land and delight in abundant prosperity.<small><s
 > $\quad$ referenced by: [[Matt.5.5|Matt 5:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| gentle | <big><span class="asgreek">πραείς</span></big> <sup><small><small>[[G4239]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \[the\] earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall revel | <big><span class="asgreek">κατατρυφήσουσιν</span></big> <sup><small><small>[[G7940]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| an abundance | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of peace. | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| But the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| gentle | **<big>[[G4239\|πραείς]]</big>** |
+| shall inherit | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| \[the\] earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall revel | **<big>[[G7940\|κατατρυφήσουσιν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| an abundance | **<big>[[G4128\|πλήθει]]</big>** |
+| of peace. | **<big>[[G1515\|ειρήνης]]</big>** |
 [[Ps.37.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.10|<< Psalm 37:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.12|Psalm 37:12 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Even unto the morrow after the seventh sabbath shall ye number fifty days; and y
 You shall count off fifty days until the day after the seventh Sabbath, and then present an offering of new grain to the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.15|<< Leviticus 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.17|Leviticus 23:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| last | <big><span class="asgreek">εσχάτης</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| period of seven | <big><span class="asgreek">εβδομάδος</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| you shall count | <big><span class="asgreek">αριθμήσετε</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring | <big><span class="asgreek">προσοίσετε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| a new | <big><span class="asgreek">νέαν</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| next day | **<big>[[G1887\|επαύριον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| last | **<big>[[G2078\|εσχάτης]]</big>** |
+| period of seven | **<big>[[G6988\|εβδομάδος]]</big>** |
+| you shall count | **<big>[[G0705\|αριθμήσετε]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bring | **<big>[[G4374\|προσοίσετε]]</big>** |
+| sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| a new | **<big>[[G3501\|νέαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.15|<< Leviticus 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.17|Leviticus 23:17 >>]]</td></tr></table>
 
 

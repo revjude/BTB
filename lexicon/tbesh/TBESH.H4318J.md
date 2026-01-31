@@ -1,5 +1,4 @@
-<span class="ashebrew">‎מִיכָה‎</span> <small>***(mi.khah)***</small> ==**Micah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.23.20|1Ch.23.20]]
--  son of: Uzziel ([[H5816]])
--  brother of: Mishael ([[H4332]]), Elizaphan ([[H0469]]), Sithri ([[H5644]]) and Isshiah ([[H3449I]])
--  father of: Shamir ([[H8053]])
+-  son of: Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+-  brother of: Mishael (**<big>[[H4332|מִישָׁאֵל]]</big>**), Elizaphan (**<big>[[H0469|אֱלִיצָפָן]]</big>**), Sithri (**<big>[[H5644|סִתְרִי]]</big>**) and Isshiah (**<big>[[H3449I|יִשִּׁיָּה]]</big>**)
+-  father of: Shamir (**<big>[[H8053|שָׁמוּר]]</big>**)

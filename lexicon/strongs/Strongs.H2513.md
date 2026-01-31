@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְקָה‎</span></big> **chelqâh** <small>*(khel-kaw')*</small> ==**portion**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חֵלֶק‎</span><sup><small>[[H2506]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶלְקָה‎</span></big>** **chelqâh** <small>*(khel-kaw')*</small> ==**portion**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2506|‎חֵלֶק‎]]</big>**</small>
 
 $\quad$ field, flattering(-ry), ground, parcel, part, piece of land (ground), plat, portion, slippery place, smooth (thing).
 - properly, ***smoothness***
@@ -13,4 +13,4 @@ $\quad$ **2a)** smoothness, smooth part
 $\quad$ **2b)** slippery places
 $\quad$ **2c)** smoothness, flattery
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γυμνός</span><sup><small>[[G1131]]</small></sup> · <span class="asgreek">δόλιος</span><sup><small>[[G1386]]</small></sup> · <span class="asgreek">μερίς</span><sup><small>[[G3310]]</small></sup>
+<small>See Greek: </small>**<big>[[G1131|γυμνός]]</big>** · **<big>[[G1386|δόλιος]]</big>** · **<big>[[G3310|μερίς]]</big>**

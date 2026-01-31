@@ -7,29 +7,29 @@ So he departed from Elisha, and came to his master; who said to him, What said E
 So Hazael left Elisha and went to his master, who asked him, “What did Elisha say to you?” And he replied, “He told me that you would surely recover.”<small><sub>**MT:**</sub></small>
 [[2Kgs.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">απήλθεν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Elisha, | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Elisha to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| He said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| you shall live. | <big><span class="asgreek">ζήση</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went forth | **<big>[[G0565\|απήλθεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Elisha, | **<big>[[G1666\|Ελισεαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his master. | **<big>[[G2962\|κύριον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| Elisha to you? | **<big>[[G1473\|σοι]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| He said | **<big>[[G2036\|είπε]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| To life | **<big>[[G2222\|ζωή]]</big>** |
+| you shall live. | **<big>[[G2198\|ζήση]]</big>** |
 [[2Kgs.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
 
 

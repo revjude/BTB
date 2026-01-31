@@ -7,32 +7,32 @@ And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon
 And from the tribe of Naphtali they were given Kedesh in Galilee, Hammon, and Kiriathaim, together with their pasturelands.<small><sub>**MT:**</sub></small>
 [[1Chr.6.76|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.75|<< 1 Chronicles 6:75]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.77|1 Chronicles 6:77 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Naphtali -- | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kedesh | <big><span class="asgreek">Καδής</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Galilee | <big><span class="asgreek">Γαλιλαία</span></big> <sup><small><small>[[G1056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her outskirts, | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hammon | <big><span class="asgreek">Χαμών</span></big> <sup><small><small>[[H2540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her outskirts, | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kirjathaim | <big><span class="asgreek">Καριαθαϊμ</span></big> <sup><small><small>[[H7156]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her outskirts. | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Naphtali -- | **<big>[[G3508\|Νεφθαλί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Kedesh | **<big>[[H6946\|Καδής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Galilee | **<big>[[G1056\|Γαλιλαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her outskirts, | **<big>[[G8756\|περισπόρια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Hammon | **<big>[[H2540\|Χαμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her outskirts, | **<big>[[G8756\|περισπόρια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Kirjathaim | **<big>[[H7156\|Καριαθαϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her outskirts. | **<big>[[G8756\|περισπόρια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[1Chr.6.76|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.75|<< 1 Chronicles 6:75]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.77|1 Chronicles 6:77 >>]]</td></tr></table>
 
 

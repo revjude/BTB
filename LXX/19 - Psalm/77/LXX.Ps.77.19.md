@@ -7,24 +7,24 @@ Thy way [is] in the sea, and thy path in the great waters, and thy footsteps are
 Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found.<small><sub>**MT:**</sub></small>
 [[Ps.77.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.18|<< Psalm 77:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.20|Psalm 77:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your roads | <big><span class="asgreek">τρίβοι</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδασι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your footsteps | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be known. | <big><span class="asgreek">γνωσθήσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| sea | **<big>[[G2281\|θαλάσση]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your ways | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your roads | **<big>[[G5147\|τρίβοι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| waters | **<big>[[G5204\|ύδασι]]</big>** |
+| many | **<big>[[G4183\|πολλοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your footsteps | **<big>[[G2487\|ίχνη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be known. | **<big>[[G1097\|γνωσθήσονται]]</big>** |
 [[Ps.77.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.18|<< Psalm 77:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.20|Psalm 77:20 >>]]</td></tr></table>
 
 

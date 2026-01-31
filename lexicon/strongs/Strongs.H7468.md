@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְעוּת‎</span></big> **rᵉʻûwth** <small>*(reh-ooth')*</small> ==**neighbor**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָעָה‎</span><sup><small>[[H7462]]</small></sup> in the sense of <span class="ashebrew">‎רֵעַ‎</span><sup><small>[[H7453]]</small></sup></small>
+**<big><span class="ashebrew">‎רְעוּת‎</span></big>** **rᵉʻûwth** <small>*(reh-ooth')*</small> ==**neighbor**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7462|‎רָעָה‎]]</big>** in the sense of **<big>[[H7453|‎רֵעַ‎]]</big>**</small>
 
 $\quad$ [phrase] another, mate, neighbour.
 - ***a female associate***
@@ -7,4 +7,4 @@ $\quad$ [phrase] another, mate, neighbour.
 
 **1)** female companion, mate, neighbour woman
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρεστός</span><sup><small>[[G0701]]</small></sup> · <span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup> · <span class="asgreek">περισσεία</span><sup><small>[[G4050]]</small></sup>
+<small>See Greek: </small>**<big>[[G0701|ἀρεστός]]</big>** · **<big>[[G1135|γυνή]]</big>** · **<big>[[G4050|περισσεία]]</big>**

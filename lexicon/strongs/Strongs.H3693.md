@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּסָלוֹן‎</span></big> **Kᵉçâlôwn** <small>*(kes-aw-lone')*</small> ==**Chesalon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּסַל‎</span><sup><small>[[H3688]]</small></sup>; fertile</small>
+**<big><span class="ashebrew">‎כְּסָלוֹן‎</span></big>** **Kᵉçâlôwn** <small>*(kes-aw-lone')*</small> ==**Chesalon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3688|‎כָּסַל‎]]</big>**; fertile</small>
 
 $\quad$ Chesalon.
 - § Chesalon = *"hopes"*

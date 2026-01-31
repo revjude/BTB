@@ -6,15 +6,15 @@ Your testimonies are my heritage forever, for they are the joy of my heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.111|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.110|<< Psalms 119:110]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.112|Psalms 119:112 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I have inherited  | <span class="ashebrew"><big>נָחַ֣לְתִּי </big></span><small><small><sup>[[H5157]]</sup></small></small> &#8207;| na.Chal.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| testimonies your  | <span class="ashebrew"><big>עֵדְוֹתֶ֣י </big></span><small><small><sup>[[H5715]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'e.de.vo.Tei. <small><sup>[[HNcfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֑ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] joy of  | <span class="ashebrew"><big>שְׂשׂ֖וֹן </big></span><small><small><sup>[[H8342]]</sup></small></small> &#8207;| se.Son <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לִבִּ֣ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵֽמָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have inherited  |**<big>&#8207;[[H5157\|נָחַ֣לְתִּי]]&#8207; </big>**| na.Chal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| testimonies your  |**<big>&#8207;[[H5715\|עֵדְוֹתֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.de.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֑ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] joy of  |**<big>&#8207;[[H8342\|שְׂשׂ֖וֹן]]&#8207; </big>**| se.Son<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.110|<< Psalms 119:110]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.112|Psalms 119:112 >>]]</td></tr></table>
 
 

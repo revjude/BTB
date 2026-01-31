@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בִּלְשָׁן‎</span></big> **Bilshân** <small>*(bil-shawn')*</small> ==**Bilshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בִּלְשָׁן‎</span></big>** **Bilshân** <small>*(bil-shawn')*</small> ==**Bilshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Bilshan.

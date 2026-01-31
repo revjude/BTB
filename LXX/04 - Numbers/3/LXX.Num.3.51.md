@@ -7,28 +7,28 @@ And Moses gave the money of them that were redeemed unto Aaron and to his sons, 
 And Moses gave the redemption money to Aaron and his sons in obedience to the word of the LORD, just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
 [[Num.3.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.50|<< Numbers 3:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.1|Numbers 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money, | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ransoms | <big><span class="asgreek">λύτρα</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
-| for the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abounding, | <big><span class="asgreek">πλεοναζόντων</span></big> <sup><small><small>[[G4121]]</small></small></sup> |
-| to Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses gave | **<big>[[G1325\|έδωκε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money, | **<big>[[G0694\|αργύριον]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ransoms | **<big>[[G3083\|λύτρα]]</big>** |
+| for the ones | **<big>[[G3588\|των]]</big>** |
+| abounding, | **<big>[[G4121\|πλεοναζόντων]]</big>** |
+| to Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Num.3.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.50|<< Numbers 3:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.1|Numbers 4:1 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ And with Absalom went two hundred men out of Jerusalem, [that were] called; and 
 Two hundred men from Jerusalem accompanied Absalom. They had been invited as guests and they went along innocently, for they knew nothing about the matter.<small><sub>**MT:**</sub></small>
 [[2Sam.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.10|<< 2 Samuel 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.12|2 Samuel 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| chosen | <big><span class="asgreek">επίκλητοι</span></big> <sup><small><small>[[G7415]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in simplicity, | <big><span class="asgreek">απλότητι</span></big> <sup><small><small>[[G0572]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not know | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| not one | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| thing. | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| chosen | **<big>[[G7415\|επίκλητοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύοντο]]</big>** |
+| in simplicity, | **<big>[[G0572\|απλότητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not know | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|ήδεισαν]]</big>** |
+| not one | **<big>[[G3762\|ουθέν]]</big>** |
+| thing. | **<big>[[G4487\|ρήμα]]</big>** |
 [[2Sam.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.10|<< 2 Samuel 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.12|2 Samuel 15:12 >>]]</td></tr></table>
 
 

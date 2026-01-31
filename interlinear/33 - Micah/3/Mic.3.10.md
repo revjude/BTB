@@ -6,13 +6,13 @@ who build Zion with bloodshed and Jerusalem with iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.9|<< Micah 3:9]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.11|Micah 3:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [who] build  | <span class="ashebrew"><big>בֹּנֶ֥ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| bo.Neh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֖וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with blood\<s>  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דָמִ֑ים </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> da.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jerusalem  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ירוּשָׁלִַ֖ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with injustice  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַוְלָֽה </big></span><small><small><sup>[[H5766B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'av.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] build  |**<big>&#8207;[[H1129\|בֹּנֶ֥ה]]&#8207; </big>**| bo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֖וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with blood\<s>  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1818\|דָמִ֑ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jerusalem  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֖ם]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with injustice  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5766B\|עַוְלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.9|<< Micah 3:9]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.11|Micah 3:11 >>]]</td></tr></table>
 
 

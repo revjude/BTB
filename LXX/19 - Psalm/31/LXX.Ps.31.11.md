@@ -7,29 +7,29 @@ I was a reproach among all mine enemies, but especially among my neighbours, and
 Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends—they flee when they see me on the street.<small><sub>**MT:**</sub></small>
 [[Ps.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.10|<< Psalm 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.12|Psalm 31:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a scorn, | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my neighbors | <big><span class="asgreek">γείτοσί</span></big> <sup><small><small>[[G1069]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| exceedingly so, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my acquaintances. | <big><span class="asgreek">γνωστοίς</span></big> <sup><small><small>[[G1110]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones viewing | <big><span class="asgreek">θεωρούντές</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| fled | <big><span class="asgreek">έφυγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| By | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my enemies | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I became | **<big>[[G1096\|εγενήθην]]</big>** |
+| a scorn, | **<big>[[G3681\|όνειδος]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my neighbors | **<big>[[G1069\|γείτοσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| exceedingly so, | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a fear | **<big>[[G5401\|φόβος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my acquaintances. | **<big>[[G1110\|γνωστοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| ones viewing | **<big>[[G2334\|θεωρούντές]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| fled | **<big>[[G5343\|έφυγον]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Ps.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.10|<< Psalm 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.12|Psalm 31:12 >>]]</td></tr></table>
 
 

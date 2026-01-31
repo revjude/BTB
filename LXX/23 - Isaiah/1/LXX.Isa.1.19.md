@@ -7,19 +7,19 @@ If ye be willing and obedient, ye shall eat the good of the land:
 If you are willing and obedient, you will eat the best of the land.<small><sub>**MT:**</sub></small>
 [[Isa.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.18|<< Isaiah 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.20|Isaiah 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should want, | <big><span class="asgreek">θέλητε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[if\] you should listen to | <big><span class="asgreek">εισακούσητέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should want, | **<big>[[G2309\|θέλητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[if\] you should listen to | **<big>[[G1522\|εισακούσητέ]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
 [[Isa.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.18|<< Isaiah 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.20|Isaiah 1:20 >>]]</td></tr></table>
 
 

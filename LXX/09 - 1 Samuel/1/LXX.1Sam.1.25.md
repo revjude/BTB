@@ -7,25 +7,25 @@ And they slew a bullock, and brought the child to Eli.
 And when they had slaughtered the bull, they brought the boy to Eli.<small><sub>**MT:**</sub></small>
 [[1Sam.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.24|<< 1 Samuel 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.26|1 Samuel 1:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led \[him\] | <big><span class="asgreek">προσήγαγον</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they slew | <big><span class="asgreek">έσφαξαν</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf. | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought it | <big><span class="asgreek">προσήγαγεν</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| Hannah | <big><span class="asgreek">Άννα</span></big> <sup><small><small>[[H2584]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδαρίου</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Eli. | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they led \[him\] | **<big>[[G4317\|προσήγαγον]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they slew | **<big>[[G4969\|έσφαξαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| calf. | **<big>[[G3448\|μόσχον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| brought it | **<big>[[G4317\|προσήγαγεν]]</big>** |
+| Hannah | **<big>[[H2584\|Άννα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| mother | **<big>[[G3384\|μήτηρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| boy | **<big>[[G3808\|παιδαρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Eli. | **<big>[[G2242\|Ηλί]]</big>** |
 [[1Sam.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.24|<< 1 Samuel 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.26|1 Samuel 1:26 >>]]</td></tr></table>
 
 

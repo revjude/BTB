@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זוּב‎</span></big> **zûwb** <small>*(zoob)*</small> ==**to flow: flowing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זוּב‎</span></big>** **zûwb** <small>*(zoob)*</small> ==**to flow: flowing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ flow, gush out, have a (running) issue, pine away, run.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a2)** to die, pine away (fig.)
 $\quad$ $\quad$ **1a3)** to flow (of issue from woman), have an issue, flux
 $\quad$ $\quad$ **1a4)** flowing (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ῥέω</span><sup><small>[[G4482]]</small></sup> · <span class="asgreek">ῥύσις</span><sup><small>[[G4511]]</small></sup>
+<small>See Greek: </small>**<big>[[G4482|ῥέω]]</big>** · **<big>[[G4511|ῥύσις]]</big>**

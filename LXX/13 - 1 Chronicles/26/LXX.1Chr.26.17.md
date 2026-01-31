@@ -7,28 +7,28 @@ Eastward [were] six Levites, northward four a day, southward four a day, and tow
 Each day there were six Levites on the east, four on the north, four on the south, and two pairs at the storehouse.<small><sub>**MT:**</sub></small>
 [[1Chr.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| six Levites | <big><span class="asgreek">λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north -- | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day; | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| collections | <big><span class="asgreek">ασαφίμ</span></big> <sup><small><small>[[G6565]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| \[by\] two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| relieving; | <big><span class="asgreek">διαδεχομένους</span></big> <sup><small><small>[[G1237]]</small></small></sup> |
+| Towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| six Levites | **<big>[[G3017\|λευίται]]</big>** **<big>[[G1803\|εξ]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| day, | **<big>[[G2250\|ημέραν]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north -- | **<big>[[G1005\|βορράν]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| day; | **<big>[[G2250\|ημέραν]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south | **<big>[[G3558\|νότον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| collections | **<big>[[G6565\|ασαφίμ]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| \[by\] two | **<big>[[G1417\|δύο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| relieving; | **<big>[[G1237\|διαδεχομένους]]</big>** |
 [[1Chr.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
 
 

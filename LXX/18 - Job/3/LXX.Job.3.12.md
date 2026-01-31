@@ -7,16 +7,16 @@ Why did the knees prevent me? or why the breasts that I should suck?
 Why were there knees to receive me, and breasts that I should be nursed?<small><sub>**MT:**</sub></small>
 [[Job.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.11|<< Job 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.13|Job 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And why did | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνήντησάν</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knees | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| And why did | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[on the\] breasts | <big><span class="asgreek">μαστούς</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
-| I nurse | <big><span class="asgreek">εθήλασα</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
+| And why did | **<big>[[G2444\|ινατί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| meet | **<big>[[G4876\|συνήντησάν]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| knees | **<big>[[G1119\|γόνατα]]</big>** |
+| And why did | **<big>[[G2444\|ινατί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[on the\] breasts | **<big>[[G3149\|μαστούς]]</big>** |
+| I nurse | **<big>[[G2337\|εθήλασα]]</big>** |
 [[Job.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.11|<< Job 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.13|Job 3:13 >>]]</td></tr></table>
 
 

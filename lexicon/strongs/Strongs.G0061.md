@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἄγρα‎</span></big> **ágra** <small>*(ag'-rah)*</small> ==**catch**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
-<small>from <span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup></small>
+**<big><span class="asgreek">‎ἄγρα‎</span></big>** **ágra** <small>*(ag'-rah)*</small> ==**catch**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+<small>from **<big>[[G0071|‎ἄγω‎]]</big>**</small>
 
 $\quad$ draught.
 - (abstractly) a catching (of fish)

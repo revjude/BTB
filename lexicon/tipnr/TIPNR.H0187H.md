@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Uzal</span>, a place mentioned in Ezekiel's prophecy, possibly referring to a region in Arabia known for its high-quality swords \(Ezek. 27:19\).
 - A location only mentioned at [[Ezek.27.19|Ezk.27.19]]; 
-- only referred to as Uzal<[[H0187H]]> \(<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Uzal **<big>[[H0187|אוּזָל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=15.354879,44.215092&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Uzal is mentioned only once in the Bible, in [[Ezek.27.19|Ezekiel 27:19]], as pa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Uzal (KJV= going to; NIV= Izal) | [<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ל</span>](H0187H) <small>*Hebrew*</small> | 1x | [Ezk.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uzal\*\|reference=Ezk.27.19) |
-All Strong's for **Uzal**: \[[[H0187H]]\]
+| Uzal (KJV= going to; NIV= Izal) | [<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ל</span>](H0187H) | 1x | [Ezk.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uzal\*\|reference=Ezk.27.19) |
+All entries for **Uzal**:  **<big>[[H0187|אוּזָל]]</big>**

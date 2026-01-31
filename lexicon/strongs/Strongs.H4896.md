@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁטָר‎</span></big> **mishṭâr** <small>*(mish-tawr')*</small> ==**rule**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שֹׁטֵר‎</span><sup><small>[[H7860]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁטָר‎</span></big>** **mishṭâr** <small>*(mish-tawr')*</small> ==**rule**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7860|‎שֹׁטֵר‎]]</big>**</small>
 
 $\quad$ dominion.
 - ***jurisdiction***

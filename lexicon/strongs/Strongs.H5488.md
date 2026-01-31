@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎סוּף‎</span></big> **çûwph** <small>*(soof)*</small> ==**Red (Sea)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎סוּף‎</span></big>** **çûwph** <small>*(soof)*</small> ==**Red (Sea)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of Egyptian origin</small>
 
-$\quad$ flag, Red (sea), weed. Compare <span class="ashebrew">‎סוּף‎</span><sup><small>[[H5489]]</small></sup>.
+$\quad$ flag, Red (sea), weed. Compare **<big>[[H5489|‎סוּף‎]]</big>**.
 - ***a reed***, especially ***the papyrus***
 
 **1)** reed, rush, water plant

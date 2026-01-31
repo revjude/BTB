@@ -11,24 +11,24 @@ A ruin, a ruin, I will make it a ruin! And it will not be restored until the arr
 > $\quad$ referencing: [[LXX.Gen.49.10|Gen 49:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Injustice, | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| Injustice, | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Neither | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the one who | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is fit | <big><span class="asgreek">καθήκει</span></big> <sup><small><small>[[G2520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will deliver up | <big><span class="asgreek">παραδώσω</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Injustice, | **<big>[[G0093\|αδικίαν]]</big>** |
+| Injustice, | **<big>[[G0093\|αδικίαν]]</big>** |
+| I will appoint | **<big>[[G5087\|θήσομαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| Neither | **<big>[[G3761\|ουδέ]]</big>** |
+| this | **<big>[[G1473\|αυτή]]</big>** |
+| such | **<big>[[G5108\|τοιαύτη]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| shall come | **<big>[[G2064\|έλθη]]</big>** |
+| the one who | **<big>[[G3739\|ω]]</big>** |
+| is fit | **<big>[[G2520\|καθήκει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will deliver up | **<big>[[G3860\|παραδώσω]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Ezek.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.26|<< Ezekiel 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.28|Ezekiel 21:28 >>]]</td></tr></table>
 
 

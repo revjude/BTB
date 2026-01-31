@@ -7,40 +7,40 @@ Thus saith the LORD, He that remaineth in this city shall die by the sword, by t
 “This is what the LORD says: Whoever stays in this city will die by sword and famine and plague, but whoever surrenders to the Chaldeans will live; he will retain his life like a spoil of war, and he will live.<small><sub>**MT:**</sub></small>
 [[Jer.38.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| famine, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| pestilence; | <big><span class="asgreek">λοιμώ</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενος</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίους</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| shall live; | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| gain, | <big><span class="asgreek">εύρεμα</span></big> <sup><small><small>[[G7561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall live. | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this city | **<big>[[G4172\|πόλει]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| famine, | **<big>[[G3042\|λιμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| pestilence; | **<big>[[G3061\|λοιμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίους]]</big>** |
+| shall live; | **<big>[[G2198\|ζήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his life | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| gain, | **<big>[[G7561\|εύρεμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall live. | **<big>[[G2198\|ζήσεται]]</big>** |
 [[Jer.38.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
 

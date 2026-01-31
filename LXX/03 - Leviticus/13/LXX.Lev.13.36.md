@@ -7,31 +7,31 @@ Then the priest shall look on him: and, behold, if the scall be spread in the sk
 the priest is to examine him, and if the scaly outbreak has spread on the skin, the priest need not look for yellow hair; the person is unclean.<small><sub>**MT:**</sub></small>
 [[Lev.13.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.35|<< Leviticus 13:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.37|Leviticus 13:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall look at | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| should be diffused | <big><span class="asgreek">διακέχυται</span></big> <sup><small><small>[[G6904]]</small></small></sup> |
-| \[if\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outbreak | <big><span class="asgreek">θραύσμα</span></big> <sup><small><small>[[G7688]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| examine | <big><span class="asgreek">επισκέψεται</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hair | <big><span class="asgreek">τριχός</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being yellowish -- | <big><span class="asgreek">ξανθιζούσης</span></big> <sup><small><small>[[G8422]]</small></small></sup> |
-| he is unclean. | <big><span class="asgreek">ακάθαρτός</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall look at | **<big>[[G3708\|όψεται]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| should be diffused | **<big>[[G6904\|διακέχυται]]</big>** |
+| \[if\] the | **<big>[[G3588\|το]]</big>** |
+| outbreak | **<big>[[G7688\|θραύσμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| examine | **<big>[[G1980\|επισκέψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| hair | **<big>[[G2359\|τριχός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| being yellowish -- | **<big>[[G8422\|ξανθιζούσης]]</big>** |
+| he is unclean. | **<big>[[G0169\|ακάθαρτός]]</big>** **<big>[[G1510\|εστιν]]</big>** |
 [[Lev.13.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.35|<< Leviticus 13:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.37|Leviticus 13:37 >>]]</td></tr></table>
 
 

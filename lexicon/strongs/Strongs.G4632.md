@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎σκεῦος‎</span></big> **skeûos** <small>*(skyoo'-os)*</small> ==**vessel**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+**<big><span class="asgreek">‎σκεῦος‎</span></big>** **skeûos** <small>*(skyoo'-os)*</small> ==**vessel**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
 <small>of uncertain affinity</small>
 
 $\quad$ goods, sail, stuff, vessel.

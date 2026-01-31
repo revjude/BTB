@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֵזֵו‎</span></big> **chêzêv** <small>*(khay'-zev)*</small> ==**vision**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎חֲזָא‎</span><sup><small>[[H2370]]</small></sup></small>
+**<big><span class="asaramaic">‎חֵזֵו‎</span></big>** **chêzêv** <small>*(khay'-zev)*</small> ==**vision**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H2370|‎חֲזָא‎]]</big>**</small>
 
 $\quad$ look, vision.
 - ***a sight***

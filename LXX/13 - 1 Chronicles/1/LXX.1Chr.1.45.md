@@ -7,19 +7,19 @@ And when Jobab was dead, Husham of the land of the Temanites reigned in his stea
 When Jobab died, Husham from the land of the Temanites reigned in his place.<small><sub>**MT:**</sub></small>
 [[1Chr.1.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.44|<< 1 Chronicles 1:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.46|1 Chronicles 1:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jobab died, | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Ιωβάβ</span></big> <sup><small><small>[[H3103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Husham | <big><span class="asgreek">Ασόμ</span></big> <sup><small><small>[[H2367]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] Temanites. | <big><span class="asgreek">Θαιμανών</span></big> <sup><small><small>[[H8489]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jobab died, | **<big>[[G0599\|απέθανεν]]</big>** **<big>[[H3103\|Ιωβάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| Husham | **<big>[[H2367\|Ασόμ]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] Temanites. | **<big>[[H8489\|Θαιμανών]]</big>** |
 [[1Chr.1.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.44|<< 1 Chronicles 1:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.46|1 Chronicles 1:46 >>]]</td></tr></table>
 
 

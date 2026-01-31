@@ -10,36 +10,36 @@ And the children of Ammon came out, and put the battle in array at the entering 
 The Ammonites marched out and arrayed themselves for battle at the entrance of the city gate, while the Arameans of Zobah and Rehob and the men of Tob and Maacah were by themselves in the open country.<small><sub>**MT:**</sub></small>
 [[2Sam.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.7|<< 2 Samuel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.9|2 Samuel 10:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deployed | <big><span class="asgreek">παρετάξαντο</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| for war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate. | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| Zoba, | <big><span class="asgreek">Συβά</span></big> <sup><small><small>[[H6678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Rehob, | <big><span class="asgreek">Ροώβ</span></big> <sup><small><small>[[H7340]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| IshTob, | <big><span class="asgreek">Ιστώβ</span></big> <sup><small><small>[[H2897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Maacah | <big><span class="asgreek">Μααχά</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| \[were\] by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| themselves | <big><span class="asgreek">εαυτούς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field. | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deployed | **<big>[[G8641\|παρετάξαντο]]</big>** |
+| for war | **<big>[[G4171\|πόλεμον]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| door | **<big>[[G2374\|θύρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate. | **<big>[[G4439\|πύλης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Syrian | **<big>[[G4947\|Συρίας]]</big>** |
+| Zoba, | **<big>[[H6678\|Συβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Rehob, | **<big>[[H7340\|Ροώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| IshTob, | **<big>[[H2897\|Ιστώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Maacah | **<big>[[H4601\|Μααχά]]</big>** |
+| \[were\] by | **<big>[[G2596\|καθ΄]]</big>** |
+| themselves | **<big>[[G1438\|εαυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| field. | **<big>[[G8676\|πεδίω]]</big>** |
 [[2Sam.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.7|<< 2 Samuel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.9|2 Samuel 10:9 >>]]</td></tr></table>
 
 

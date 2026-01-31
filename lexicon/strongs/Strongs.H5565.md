@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סְמַכְיָהוּ‎</span></big> **Çᵉmakyâhûw** <small>*(sem-ak-yaw'-hoo)*</small> ==**Semachiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎סָמַךְ‎</span><sup><small>[[H5564]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; supported of Jah</small>
+**<big><span class="ashebrew">‎סְמַכְיָהוּ‎</span></big>** **Çᵉmakyâhûw** <small>*(sem-ak-yaw'-hoo)*</small> ==**Semachiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5564|‎סָמַךְ‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; supported of Jah</small>
 
 $\quad$ Semachiah.
 - § Semachiah = *"Jehovah has sustained"*

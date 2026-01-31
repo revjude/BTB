@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H2783]]</small>
+<small>Aramaic form: **<big>[[H2783|חֲרַץ]]</big>**</small>
  [<span class="bdbLangHebrew">‎חָלָץ‎</span>] **noun [feminine]** only dual, ==loins== (as seat of strength, vigour; compare Aramaic <span class="bdbLangAramaic">‎חַרְצָא‎</span> ***hip, loin***, Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHgAiAIAAAAAAAP///yH5BAAAAAAALAAAAAAeACIAAAJgjI+py+2fgIQ0yFnhRdi2zQHR1SmgUR5iOooqc8KsObdaVmehqzt5j+IBFz9g0cKLhR4kpDK4I0mlROH0+oSqQBhqVYgchkfD51F3xoHF2zU7+3ard/GuXO1lB9P6PrAAADs=">, [[BDB#Nö|Nö]]<sup>ZMG 1886, 741</sup>) — <span class="bdbLangHebrew">‎חֲלָצָ֑יִם‎</span> [[Isa.32.11|Isa 32:11]] suffix <span class="bdbLangHebrew">‎חֲלָצֶיךָ‎</span> [[Gen.35.11|Gen 35:11]] + 4 t.; <span class="bdbLangHebrew">‎חֲלָצָיו‎</span> [[Isa.5.27|Isa 5:27]] + 2 t.; <span class="bdbLangHebrew">‎חלצו‎</span> [[BDB#Kt|Kt]] [[Job.31.20|Job 31:20]], [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎חֲלָצָיו‎</span>; — ***loins:*** 
 
 **1.** as seat of virility <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יצא מן ח‎</span> [[Gen.35.11|Gen 35:11]] ([[BDB#P|P]]), [[1Kgs.8.19|1Kgs 8:19]]; [[2Chr.6.9|2Chr 6:9]]. 

@@ -7,20 +7,20 @@ Then did I beat them small as the dust before the wind: I did cast them out as t
 I ground them as dust in the face of the wind; I trampled them like mud in the streets.<small><sub>**MT:**</sub></small>
 [[Ps.18.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.41|<< Psalm 18:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.43|Psalm 18:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make them as fine | <big><span class="asgreek">λεπτυνώ</span></big> <sup><small><small>[[G8183]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] wind; | <big><span class="asgreek">ανέμου</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| mud | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| in the squares | <big><span class="asgreek">πλατειών</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| I will grind | <big><span class="asgreek">λεανώ</span></big> <sup><small><small>[[G8171]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will make them as fine | **<big>[[G8183\|λεπτυνώ]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| dust | **<big>[[G5522\|χουν]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] wind; | **<big>[[G0417\|ανέμου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| mud | **<big>[[G4081\|πηλόν]]</big>** |
+| in the squares | **<big>[[G4113\|πλατειών]]</big>** |
+| I will grind | **<big>[[G8171\|λεανώ]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.18.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.41|<< Psalm 18:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.43|Psalm 18:43 >>]]</td></tr></table>
 
 

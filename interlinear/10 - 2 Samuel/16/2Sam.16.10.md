@@ -6,33 +6,33 @@ But the king replied, “What have I to do with you, O sons of Zeruiah? If he cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.9|<< 2 Samuel 16:9]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.11|2 Samuel 16:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּ֔לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] to me  | <span class="ashebrew"><big>לִּ֥ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to \<the> you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zeruiah  | <span class="ashebrew"><big>צְרֻיָ֑ה </big></span><small><small><sup>[[H6870]]</sup></small></small> &#8207;| tze.ru.Yah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  [^1] | <span class="ashebrew"><big>כֹּ֣ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;[^2] | ki <small><sup>[[HD]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| he is cursing  | <span class="ashebrew"><big>יְקַלֵּ֗ל </big></span><small><small><sup>[[H7043]]</sup></small></small> &#8207;| ye.ka.Lel <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  [^3] | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;[^4] | ve.khi <small><sup>[[HTc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has said  | <span class="ashebrew"><big>אָ֤מַר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'A.mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>ל </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| curse  | <span class="ashebrew"><big>קַלֵּ֣ל </big></span><small><small><sup>[[H7043]]</sup></small></small> &#8207;| ka.Lel <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  | <span class="ashebrew"><big>דָּוִ֔ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and who?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he say  | <span class="ashebrew"><big>יֹאמַ֔ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| why?  | <span class="ashebrew"><big>מַדּ֖וּעַ </big></span><small><small><sup>[[H4069]]</sup></small></small> &#8207;| ma.Du.a' <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have you done  | <span class="ashebrew"><big>עָשִׂ֥יתָה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Si.tah <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵּֽן </big></span><small><small><sup>[[H3651C]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֔לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to me  |**<big>&#8207;[[H9005\|לִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to \<the> you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zeruiah  |**<big>&#8207;[[H6870\|צְרֻיָ֑ה]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  [^1]|**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207; </big>**[^2] | ki<small><sup>[[HD]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| he is cursing  |**<big>&#8207;[[H7043\|יְקַלֵּ֗ל]]&#8207; </big>**| ye.ka.Lel<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  [^3]|**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**[^4] | ve.khi<small><sup>[[HTc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has said  |**<big>&#8207;[[H0559\|אָ֤מַר]]&#8207; </big>**| 'A.mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curse  |**<big>&#8207;[[H7043\|קַלֵּ֣ל]]&#8207; </big>**| ka.Lel<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he say  |**<big>&#8207;[[H0559\|יֹאמַ֔ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  |**<big>&#8207;[[H4069\|מַדּ֖וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you done  |**<big>&#8207;[[H6213A\|עָשִׂ֥יתָה]]&#8207; </big>**| 'a.Si.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.9|<< 2 Samuel 16:9]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.11|2 Samuel 16:11 >>]]</td></tr></table>
 
-[^1]: ==K==: **that ** | <small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>כִּי</big></span>  | ki<small><sup>[[HTc]]</sup></small> 
+[^1]: ==K==: that  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HTc]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>כֹּ֣י</big></span>**
-[^3]: ==K==: **and for ** | <small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>כִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HTc]]</sup></small> 
+[^3]: ==K==: and for  | **<big>[[H3588A|כִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HTc]]</sup></small> 
 [^4]: ==L== spelled: **<span class="ashebrew"><big>וכִּ֤י</big></span>**
 

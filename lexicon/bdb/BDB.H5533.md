@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H4544]]</small>
+<small>Also see: **<big>[[H4544|מִסְכֵּנֻת]]</big>**</small>
 
  III. [<span class="bdbLangHebrew">‎סָכַן‎</span>] **verb** (so most) ==be poor==, but see below; — 
 

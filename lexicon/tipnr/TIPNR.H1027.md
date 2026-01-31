@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-haram</span> \(Beth-haran\) was a town allotted to the tribe of Gad, east of the Jordan River, which they fortified. \([[Josh.13.27|Joshua 13:27]]; [[Num.32.36|Numbers 32:36]]\)
 - A location first mentioned at [[Josh.13.27|Jos.13.27]]; 
-- referred to as Beth-haram<[[H1027]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Beth-haran \(NIV= Beth Haran\) <[[H1028]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Beth-haram **<big>[[H1027|בֵּית הָרָם]]</big>**, or Beth-haran \(NIV= Beth Haran\)  **<big>[[H1028|בֵּית הָרָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.816667,35.583333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ No other details about Beth-haram are provided in the Bible, and the exact locat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-haram (KJV= Beth-aram; NIV= Beth Haram) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H1027) <small>*Hebrew*</small> | 1x | [Jos.13.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.13.27) |
-| Beth-haran (NIV= Beth Haran) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1028) <small>*Hebrew*</small> | 1x | [Num.32.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Num.32.36) |
-All Strong's for **Beth-haram or Beth-haran**: \[[[H1027]]\] \[[[H1028]]\]
+| Beth-haram (KJV= Beth-aram; NIV= Beth Haram) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H1027) | 1x | [Jos.13.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.13.27) |
+| Beth-haran (NIV= Beth Haran) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1028) | 1x | [Num.32.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Num.32.36) |
+All entries for **Beth-haram or Beth-haran**:  **<big>[[H1027|בֵּית הָרָם]]</big>** ☩  **<big>[[H1028|בֵּית הָרָן]]</big>**

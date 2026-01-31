@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֲנָמָל‎</span></big> **chănâmâl** <small>*(khan-aw-mawl')*</small> ==**frost**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֲנָמָל‎</span></big>** **chănâmâl** <small>*(khan-aw-mawl')*</small> ==**frost**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ frost.

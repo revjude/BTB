@@ -6,16 +6,16 @@ And the LORD said, “Shall I hide from Abraham what I am about to do?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.16|<< Genesis 18:16]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.18|Genesis 18:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Yahweh  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהֹוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he said  | <span class="ashebrew"><big>אָמָ֑ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ [be] concealing  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>מְכַסֶּ֤ה </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| ha <small><sup>[[HTi]]</sup></small> m.kha.Seh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will] I  | <span class="ashebrew"><big>אֲנִי֙ </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Abraham  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אַבְרָהָ֔ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that] which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to do  | <span class="ashebrew"><big>עֹשֶֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהֹוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  |**<big>&#8207;[[H0559\|אָמָ֑ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [be] concealing  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H3680\|מְכַסֶּ֤ה]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.kha.Seh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will] I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Abraham  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to do  |**<big>&#8207;[[H6213A\|עֹשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.16|<< Genesis 18:16]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.18|Genesis 18:18 >>]]</td></tr></table>
 
 

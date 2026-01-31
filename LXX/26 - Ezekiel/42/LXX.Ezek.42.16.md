@@ -7,26 +7,26 @@ He measured the east side with the measuring reed, five hundred reeds, with the 
 With a measuring rod he measured the east side to be five hundred cubits long.<small><sub>**MT:**</sub></small>
 [[Ezek.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.15|<< Ezekiel 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.17|Ezekiel 42:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| at the | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακοσίους</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reed | <big><span class="asgreek">καλάμω</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| measure. | <big><span class="asgreek">μέτρου</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stood | **<big>[[G2476\|έστη]]</big>** |
+| at the | **<big>[[G2596\|κατά]]</big>** |
+| back | **<big>[[G3577\|νώτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακοσίους]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| reed | **<big>[[G2563\|καλάμω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| measure. | **<big>[[G3358\|μέτρου]]</big>** |
 [[Ezek.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.15|<< Ezekiel 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.17|Ezekiel 42:17 >>]]</td></tr></table>
 
 

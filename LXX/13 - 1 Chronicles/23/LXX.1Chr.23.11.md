@@ -7,31 +7,31 @@ And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not man
 Jahath was the first and Zizah was the second; but Jeush and Beriah did not have many sons, so they were counted as one family and received a single assignment.<small><sub>**MT:**</sub></small>
 [[1Chr.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.10|<< 1 Chronicles 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.12|1 Chronicles 23:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jahath was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Ιεέθ</span></big> <sup><small><small>[[H3189]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler, | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zizah | <big><span class="asgreek">Ζιζά</span></big> <sup><small><small>[[H2125]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second. | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeush | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beriah | <big><span class="asgreek">Βερία</span></big> <sup><small><small>[[H1283]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| multiply | <big><span class="asgreek">επλήθυναν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| sons; | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were \[assigned\] | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] family | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| numbering | <big><span class="asgreek">επίσκεψιν</span></big> <sup><small><small>[[G7448]]</small></small></sup> |
-| \[as\] one. | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jahath was | **<big>[[G1510\|ην]]</big>** **<big>[[H3189\|Ιεέθ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler, | **<big>[[G0758\|άρχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zizah | **<big>[[H2125\|Ζιζά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| second. | **<big>[[G1208\|δεύτερος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeush | **<big>[[H3135\|Ιωάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beriah | **<big>[[H1283\|Βερία]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| multiply | **<big>[[G4129\|επλήθυναν]]</big>** |
+| sons; | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were \[assigned\] | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] family | **<big>[[G3965\|πατριάς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| numbering | **<big>[[G7448\|επίσκεψιν]]</big>** |
+| \[as\] one. | **<big>[[G1520\|μίαν]]</big>** |
 [[1Chr.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.10|<< 1 Chronicles 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.12|1 Chronicles 23:12 >>]]</td></tr></table>
 
 

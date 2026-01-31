@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἐπαναπαύομαι‎</span></big> **epanapaúomai** <small>*(ep-an-ah-pow'-om-ahee)*</small> ==**to rest/rely on**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>middle voice from <span class="asgreek">ἐπί</span><sup><small>[[G1909]]</small></sup> and <span class="asgreek">ἀναπαύω</span><sup><small>[[G0373]]</small></sup></small>
+**<big><span class="asgreek">‎ἐπαναπαύομαι‎</span></big>** **epanapaúomai** <small>*(ep-an-ah-pow'-om-ahee)*</small> ==**to rest/rely on**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>middle voice from **<big>[[G1909|‎ἐπί‎]]</big>** and **<big>[[G0373|‎ἀναπαύω‎]]</big>**</small>
 
 $\quad$ rest in (upon).
 - to settle on

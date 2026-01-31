@@ -7,42 +7,42 @@ And her mother in law said unto her, Where hast thou gleaned to day? and where w
 Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.<small><sub>**MT:**</sub></small>
 [[Ruth.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.18|<< Ruth 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.20|Ruth 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother-in-law | <big><span class="asgreek">πενθερά</span></big> <sup><small><small>[[G3994]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Where did | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| you collect | <big><span class="asgreek">συνέλεξας</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| did you \[do it\]? | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| May it be | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recognizing | <big><span class="asgreek">επιγνούς</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a blessing. | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ruth reported | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mother-in-law | <big><span class="asgreek">πενθερά</span></big> <sup><small><small>[[G3994]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| she did \[it\]. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I did \[this\] | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| \[is\] Boaz. | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| mother-in-law | **<big>[[G3994\|πενθερά]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| Where did | **<big>[[G4226\|που]]</big>** |
+| you collect | **<big>[[G4816\|συνέλεξας]]</big>** |
+| today? | **<big>[[G4594\|σήμερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| did you \[do it\]? | **<big>[[G4160\|εποίησας]]</big>** |
+| May it be | **<big>[[G1510\|είη]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| recognizing | **<big>[[G1921\|επιγνούς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| a blessing. | **<big>[[G2127\|ευλογημένος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ruth reported | **<big>[[G0518\|απήγγειλε]]</big>** **<big>[[G4503\|Ρουθ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her mother-in-law | **<big>[[G3994\|πενθερά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| she did \[it\]. | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| man | **<big>[[G0435\|ανδρός]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| whom | **<big>[[G3739\|ου]]</big>** |
+| I did \[this\] | **<big>[[G4160\|εποίησα]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| \[is\] Boaz. | **<big>[[G1003\|Βοόζ]]</big>** |
 [[Ruth.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.18|<< Ruth 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.20|Ruth 2:20 >>]]</td></tr></table>
 
 

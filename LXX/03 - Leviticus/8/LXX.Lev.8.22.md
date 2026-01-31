@@ -7,29 +7,29 @@ And he brought the other ram, the ram of consecration: and Aaron and his sons la
 After that, Moses presented the other ram, the ram of ordination, and Aaron and his sons laid their hands on its head.<small><sub>**MT:**</sub></small>
 [[Lev.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.21|<< Leviticus 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.23|Leviticus 8:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses brought | <big><span class="asgreek">προσήγαγε</span></big> <sup><small><small>[[G4317]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \[the\] ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of consecration. | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram. | <big><span class="asgreek">κριού</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses brought | **<big>[[G4317\|προσήγαγε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| \[the\] ram | **<big>[[G8096\|κριόν]]</big>** |
+| of consecration. | **<big>[[G5050\|τελειώσεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| placed | **<big>[[G2007\|επέθηκεν]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ram. | **<big>[[G8096\|κριού]]</big>** |
 [[Lev.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.21|<< Leviticus 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.23|Leviticus 8:23 >>]]</td></tr></table>
 
 

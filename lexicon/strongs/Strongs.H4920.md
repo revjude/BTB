@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְשֶׁלֶמְיָה‎</span></big> **Mᵉshelemyâh** <small>*(mesh-eh-lem-yaw')*</small> ==**Meshelemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מְשֶׁלֶמְיָהוּ</span> **Mᵉshelemyâhûw** <small>*(mesh-eh-lem-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; ally of Jah</small>
+**<big><span class="ashebrew">‎מְשֶׁלֶמְיָה‎</span></big>** **Mᵉshelemyâh** <small>*(mesh-eh-lem-yaw')*</small> ==**Meshelemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְשֶׁלֶמְיָהוּ</span></big>** **Mᵉshelemyâhûw** <small>*(mesh-eh-lem-yaw'-hoo)*</small>; from **<big>[[H7999|‎שָׁלַם‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; ally of Jah</small>
 
 $\quad$ Meshelemiah.
 - § Meshelemiah = *"whom Jehovah repays"*

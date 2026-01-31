@@ -10,15 +10,15 @@ They will come and proclaim His righteousness to a people yet unborn—all that 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they will come  | <span class="ashebrew"><big>יָ֭בֹאוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ya.vo.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may declare  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַגִּ֣ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Gi.du <small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness his  | <span class="ashebrew"><big>צִדְקָת֑ </big></span><small><small><sup>[[H6666]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tzid.ka.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a people  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עַ֥ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| about to be born  | <span class="ashebrew"><big>נ֝וֹלָ֗ד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| no.Lad <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has acted  | <span class="ashebrew"><big>עָשָֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come  |**<big>&#8207;[[H0935G\|יָ֭בֹאוּ]]&#8207; </big>**| Ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may declare  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5046\|יַגִּ֣ידוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Gi.du<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness his  |**<big>&#8207;[[H6666\|צִדְקָת֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tzid.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a people  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עַ֥ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| about to be born  |**<big>&#8207;[[H3205\|נ֝וֹלָ֗ד]]&#8207; </big>**| no.Lad<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has acted  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.30|<< Psalms 22:30]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.0|Psalms 23:0 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַל‎</span></big> **ʻal** <small>*(al)*</small> ==**Most High**==  <sup><small>[[TEHMC#H:N-M / H:Adv|H:N-M / H:Adv]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="ashebrew">‎עַל‎</span></big>** **ʻal** <small>*(al)*</small> ==**Most High**==  <sup><small>[[TEHMC#H:N-M / H:Adv|H:N-M / H:Adv]]</small></sup> 
+<small>from **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
 $\quad$ above, high, most High.
 - properly, ***the top***

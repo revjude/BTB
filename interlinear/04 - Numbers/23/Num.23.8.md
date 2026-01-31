@@ -6,18 +6,18 @@ How can I curse those whom God has not cursed? How can I denounce those whom the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.7|<< Numbers 23:7]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.9|Numbers 23:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| what?  | <span class="ashebrew"><big>מָ֣ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I curse  | <span class="ashebrew"><big>אֶקֹּ֔ב </big></span><small><small><sup>[[H6895]]</sup></small></small> &#8207;| 'e.Ko <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one whom] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has cursed him  | <span class="ashebrew"><big>קַבֹּ֖ </big></span><small><small><sup>[[H6895]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ka.Bo <small><sup>[[HVqp3ms]]</sup></small> h <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and what?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָ֣ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I denounce  | <span class="ashebrew"><big>אֶזְעֹ֔ם </big></span><small><small><sup>[[H2194]]</sup></small></small> &#8207;| 'ez.'Om <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one whom] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has denounced  | <span class="ashebrew"><big>זָעַ֖ם </big></span><small><small><sup>[[H2194]]</sup></small></small> &#8207;| za.'Am <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I curse  |**<big>&#8207;[[H6895\|אֶקֹּ֔ב]]&#8207; </big>**| 'e.Ko<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one whom] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has cursed him  |**<big>&#8207;[[H6895\|קַבֹּ֖]]&#8207;&#8207;[[H9033\|ה]]&#8207; </big>**| ka.Bo<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I denounce  |**<big>&#8207;[[H2194\|אֶזְעֹ֔ם]]&#8207; </big>**| 'ez.'Om<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one whom] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has denounced  |**<big>&#8207;[[H2194\|זָעַ֖ם]]&#8207; </big>**| za.'Am<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.7|<< Numbers 23:7]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.9|Numbers 23:9 >>]]</td></tr></table>
 
 

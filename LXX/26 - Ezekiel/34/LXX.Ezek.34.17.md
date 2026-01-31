@@ -7,25 +7,25 @@ And [as for] you, O my flock, thus saith the Lord GOD; Behold, I judge between c
 This is what the Lord GOD says to you, My flock: ‘I will judge between one sheep and another, between the rams and the goats.<small><sub>**MT:**</sub></small>
 [[Ezek.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.16|<< Ezekiel 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.18|Ezekiel 34:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my sheep, | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| separate | <big><span class="asgreek">διακρινώ</span></big> <sup><small><small>[[G1252]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| sheep | <big><span class="asgreek">προβάτου</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">προβάτου</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he-goats. | <big><span class="asgreek">τράγων</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|υμείς]]</big>** |
+| my sheep, | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| separate | **<big>[[G1252\|διακρινώ]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| sheep | **<big>[[G4263\|προβάτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep, | **<big>[[G4263\|προβάτου]]</big>** |
+| rams | **<big>[[G8096\|κριών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he-goats. | **<big>[[G5131\|τράγων]]</big>** |
 [[Ezek.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.16|<< Ezekiel 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.18|Ezekiel 34:18 >>]]</td></tr></table>
 
 

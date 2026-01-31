@@ -6,17 +6,17 @@ My face is red with weeping, and deep shadows ring my eyes;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.17|Job 16:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| face my  | <span class="ashebrew"><big>פָּנַ֣ </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| pa.Na <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are reddened  [^1] | <span class="ashebrew"><big>חֳ֭מַרְמְרוּ </big></span><small><small><sup>[[H2560C]]</sup></small></small> &#8207;[^2] | cho.mar.me.rah <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| from  | <span class="ashebrew"><big>מִנִּי </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi.ni- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| weeping  | <span class="ashebrew"><big>בֶ֑כִי </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| Ve.khi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֖ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyelids my  | <span class="ashebrew"><big>עַפְעַפַּ֣ </big></span><small><small><sup>[[H6079]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'af.'a.Pa <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deep darkness  | <span class="ashebrew"><big>צַלְמָֽוֶת </big></span><small><small><sup>[[H6757]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzal.Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָּנַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are reddened  [^1]|**<big>&#8207;[[H2560C\|חֳ֭מַרְמְרוּ]]&#8207; </big>**[^2] | cho.mar.me.rah<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִנִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.ni-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weeping  |**<big>&#8207;[[H1065\|בֶ֑כִי]]&#8207; </big>**| Ve.khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyelids my  |**<big>&#8207;[[H6079\|עַפְעַפַּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'af.'a.Pa<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep darkness  |**<big>&#8207;[[H6757\|צַלְמָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzal.Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.17|Job 16:17 >>]]</td></tr></table>
 
-[^1]: ==K==: **it is reddened ** | <small><sup>[[H2560C]]</sup></small> <span class="ashebrew"><big>חֳמַרְמְרָה</big></span>  | cho.mar.me.rah<small><sup>[[HVpp3fs]]</sup></small> 
+[^1]: ==K==: it is reddened  | **<big>[[H2560C|חֳמַרְמְרָה]]</big> ** | cho.mar.me.rah<small><sup>[[HVpp3fs]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>חֳ֭מַרְמְרֻה</big></span>**
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזָאזֵל‎</span></big> **ʻăzâʼzêl** <small>*(az-aw-zale')*</small> ==**Azazel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עֵז‎</span><sup><small>[[H5795]]</small></sup> and <span class="ashebrew">‎אָזַל‎</span><sup><small>[[H0235]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲזָאזֵל‎</span></big>** **ʻăzâʼzêl** <small>*(az-aw-zale')*</small> ==**Azazel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5795|‎עֵז‎]]</big>** and **<big>[[H0235|‎אָזַל‎]]</big>**</small>
 
 $\quad$ scapegoat.
 - ***goat of departure***
@@ -9,4 +9,4 @@ $\quad$ scapegoat.
 $\quad$ **1a)** refers to the goat used for sacrifice for the sins of the people
 $\quad$ **1b)** meaning dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄφεσις</span><sup><small>[[G0859]]</small></sup>
+<small>See Greek: </small>**<big>[[G0859|ἄφεσις]]</big>**

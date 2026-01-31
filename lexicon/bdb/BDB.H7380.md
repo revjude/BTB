@@ -1,4 +1,4 @@
-<small>Also see: [[H3403]]</small>
+<small>Also see: **<big>[[H3403|יְרִיבַי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רִיבַי‎</span> **proper name, masculine** ==in Benjamin==, [[2Sam.23.29|2Sam 23:29]] (<span class="bdbLangGreek">Πειβα</span>, <span class="bdbLangGreek">Εριβα</span>) = [[1Chr.11.81|1Chr 11:81]] (<span class="bdbLangGreek">Πεβιε</span>, <span class="bdbLangGreek">Πηβαι</span>, <span class="bdbLangGreek">Πιβατ</span>, etc.); compare <span class="bdbLangHebrew">‎ידִיבי‎</span> below. 
 

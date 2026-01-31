@@ -7,29 +7,29 @@ The lofty looks of man shall be humbled, and the haughtiness of men shall be bow
 The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day.<small><sub>**MT:**</sub></small>
 [[Isa.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[are\] high, | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[is\] low; | <big><span class="asgreek">ταπεινός</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be abased | <big><span class="asgreek">ταπεινωθήσεται</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be raised up high | <big><span class="asgreek">υψωθήσεται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| For the | **<big>[[G3588\|οι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[are\] high, | **<big>[[G5308\|υψηλοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \[is\] low; | **<big>[[G5011\|ταπεινός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be abased | **<big>[[G5013\|ταπεινωθήσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be raised up high | **<big>[[G5312\|υψωθήσεται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[Isa.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
 

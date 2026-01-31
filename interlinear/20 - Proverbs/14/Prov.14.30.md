@@ -6,15 +6,15 @@ A tranquil heart is life to the body, but envy rots the bones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.29|<< Proverbs 14:29]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.31|Proverbs 14:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] [the] life of  | <span class="ashebrew"><big>חַיֵּ֣י </big></span><small><small><sup>[[H2416E]]</sup></small></small> &#8207;| chai.Yei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bodies  | <span class="ashebrew"><big>בְ֭שָׂרִים </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| Ve.sa.rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a heart of  | <span class="ashebrew"><big>לֵ֣ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| healing  | <span class="ashebrew"><big>מַרְפֵּ֑א </big></span><small><small><sup>[[H4832]]</sup></small></small> &#8207;| mar.Pe' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] rottenness of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְקַ֖ב </big></span><small><small><sup>[[H7538]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.Kav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bones  | <span class="ashebrew"><big>עֲצָמ֣וֹת </big></span><small><small><sup>[[H6106G]]</sup></small></small> &#8207;| a.tza.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jealousy  | <span class="ashebrew"><big>קִנְאָֽה </big></span><small><small><sup>[[H7068]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kin.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] life of  |**<big>&#8207;[[H2416E\|חַיֵּ֣י]]&#8207; </big>**| chai.Yei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bodies  |**<big>&#8207;[[H1320\|בְ֭שָׂרִים]]&#8207; </big>**| Ve.sa.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a heart of  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| healing  |**<big>&#8207;[[H4832\|מַרְפֵּ֑א]]&#8207; </big>**| mar.Pe'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] rottenness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7538\|רְקַ֖ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.Kav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bones  |**<big>&#8207;[[H6106G\|עֲצָמ֣וֹת]]&#8207; </big>**| a.tza.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jealousy  |**<big>&#8207;[[H7068\|קִנְאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.29|<< Proverbs 14:29]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.31|Proverbs 14:31 >>]]</td></tr></table>
 
 

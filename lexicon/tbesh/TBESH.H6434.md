@@ -1,4 +1,3 @@
-<span class="ashebrew">‎פֵּן‎</span> <small>***(pen)***</small> ==**Corner**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-spelling of: <small>[[H6438G]]</small> 
+<small>spelling of:</small> <small>**<big>[[H6438G|פִּנָּה]]</big>**</small> 
 
-- Name of a gate ([[H6438]])
+- Name of a gate (**<big>[[H6438|פִּנָּה]]</big>**)

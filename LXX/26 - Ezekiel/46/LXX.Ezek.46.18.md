@@ -7,37 +7,37 @@ Moreover the prince shall not take of the people’s inheritance by oppression, 
 The prince must not take any of the inheritance of the people by evicting them from their property. He is to provide an inheritance for his sons from his own property, so that none of My people will be displaced from his property.’”<small><sub>**MT:**</sub></small>
 [[Ezek.46.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.17|<< Ezekiel 46:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.19|Ezekiel 46:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one guiding | <big><span class="asgreek">αφηγούμενος</span></big> <sup><small><small>[[G6622]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to tyrannize over | <big><span class="asgreek">καταδυναστεύσαι</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own possession | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall give to inherit | <big><span class="asgreek">κατακληρονομήσει</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be dispersed | <big><span class="asgreek">διασκορπίζηται</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| from out of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his possession. | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| take | **<big>[[G2983\|λάβη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one guiding | **<big>[[G6622\|αφηγούμενος]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to tyrannize over | **<big>[[G2616\|καταδυναστεύσαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his own possession | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall give to inherit | **<big>[[G7853\|κατακληρονομήσει]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be dispersed | **<big>[[G1287\|διασκορπίζηται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| from out of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his possession. | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ezek.46.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.17|<< Ezekiel 46:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.19|Ezekiel 46:19 >>]]</td></tr></table>
 
 

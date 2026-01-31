@@ -1,4 +1,4 @@
-form of: <small>[[G1419]]</small> 
+form of: <small>**<big>[[G1419|δυσβάστακτος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==δυσ-==</span>-</b>, 

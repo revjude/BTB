@@ -7,48 +7,48 @@ And Hezekiah king of Judah sent to the king of Assyria to Lachish, saying, I hav
 So Hezekiah king of Judah sent word to the king of Assyria at Lachish, saying, “I have done wrong; withdraw from me, and I will pay whatever you demand from me.” And the king of Assyria exacted from Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.<small><sub>**MT:**</sub></small>
 [[2Kgs.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.13|<< 2 Kings 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.15|2 Kings 18:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Assyrians, | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Lachish, | <big><span class="asgreek">Λαχίς</span></big> <sup><small><small>[[H3923]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| I have sinned, | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| turn | <big><span class="asgreek">αποστράφηθι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should place | <big><span class="asgreek">επιθής</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will bear. | <big><span class="asgreek">βαστάσω</span></big> <sup><small><small>[[G0941]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed \[a tribute\] | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκίαν</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| of three hundred | <big><span class="asgreek">τριακόσια</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of gold. | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκίας]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Assyrians, | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Lachish, | **<big>[[H3923\|Λαχίς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| I have sinned, | **<big>[[G0264\|ημάρτηκα]]</big>** |
+| turn | **<big>[[G0654\|αποστράφηθι]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me! | **<big>[[G1473\|εμού]]</big>** |
+| What | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| you should place | **<big>[[G2007\|επιθής]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| I will bear. | **<big>[[G0941\|βαστάσω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| placed \[a tribute\] | **<big>[[G2007\|επέθηκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκίαν]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| of three hundred | **<big>[[G5145\|τριακόσια]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| of gold. | **<big>[[G5553\|χρυσίου]]</big>** |
 [[2Kgs.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.13|<< 2 Kings 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.15|2 Kings 18:15 >>]]</td></tr></table>
 
 

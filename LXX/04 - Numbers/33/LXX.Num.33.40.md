@@ -7,25 +7,25 @@ And king Arad the Canaanite, which dwelt in the south in the land of Canaan, hea
 Now the Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming.<small><sub>**MT:**</sub></small>
 [[Num.33.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.39|<< Numbers 33:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.41|Numbers 33:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heard \[of it\] | <big><span class="asgreek">ακούσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χανανίς</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Arad | <big><span class="asgreek">Αράδ</span></big> <sup><small><small>[[H0714]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισεπορεύοντο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| heard \[of it\] | **<big>[[G0191\|ακούσας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Canaanite | **<big>[[G5477\|Χανανίς]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Arad | **<big>[[H0714\|Αράδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| entered | **<big>[[G1531\|εισεπορεύοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.33.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.39|<< Numbers 33:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.41|Numbers 33:41 >>]]</td></tr></table>
 
 

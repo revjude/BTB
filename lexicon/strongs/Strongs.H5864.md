@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִיִּים‎</span></big> **ʻÎyîym** <small>*(ee-yeem')*</small> ==**Iyim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎עִי‎</span><sup><small>[[H5856]]</small></sup>; ruins</small>
+**<big><span class="ashebrew">‎עִיִּים‎</span></big>** **ʻÎyîym** <small>*(ee-yeem')*</small> ==**Iyim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H5856|‎עִי‎]]</big>**; ruins</small>
 
 $\quad$ Iim.
 - § Iim = *"ruins"*

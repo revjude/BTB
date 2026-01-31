@@ -7,28 +7,28 @@ Now therefore the wheat, and the barley, the oil, and the wine, which my lord ha
 Now let my lord send to his servants the wheat, barley, olive oil, and wine he promised.<small><sub>**MT:**</sub></small>
 [[2Chr.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.14|<< 2 Chronicles 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.16|2 Chronicles 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grain, | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| barley, | <big><span class="asgreek">κριθήν</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let him send \[it\] | <big><span class="asgreek">αποστειλάτω</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants! | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| grain, | **<big>[[G4621\|σίτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| barley, | **<big>[[G2915\|κριθήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| olive oil, | **<big>[[G1637\|έλαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| spoke | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| let him send \[it\] | **<big>[[G0649\|αποστειλάτω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants! | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.14|<< 2 Chronicles 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.16|2 Chronicles 2:16 >>]]</td></tr></table>
 
 

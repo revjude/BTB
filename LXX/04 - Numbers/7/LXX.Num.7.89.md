@@ -7,44 +7,44 @@ And when Moses was gone into the tabernacle of the congregation to speak with hi
 When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the mercy seat on the ark of the Testimony. Thus the LORD spoke to him.<small><sub>**MT:**</sub></small>
 [[Num.7.89|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.88|<< Numbers 7:88]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.1|Numbers 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses' entering | <big><span class="asgreek">εισπορεύεσθαι</span></big> <sup><small><small>[[G1531]]</small></small></sup> <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat, | <big><span class="asgreek">ιλαστηρίου</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| cherubim -- | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses' entering | **<big>[[G1531\|εισπορεύεσθαι]]</big>** **<big>[[G3475\|Μωυσήν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| to speak | **<big>[[G2980\|λαλήσαι]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| he heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| speaking | **<big>[[G2980\|λαλούντος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from above | **<big>[[G0509\|άνωθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| atonement-seat, | **<big>[[G2435\|ιλαστηρίου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| cherubim -- | **<big>[[G5502\|χερουβίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλει]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Num.7.89|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.88|<< Numbers 7:88]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.1|Numbers 8:1 >>]]</td></tr></table>
 
 

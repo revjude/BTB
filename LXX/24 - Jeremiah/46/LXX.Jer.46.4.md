@@ -7,26 +7,26 @@ Harness the horses; and get up, ye horsemen, and stand forth with [your] helmets
 Harness the horses; mount the steeds; take your positions with helmets on! Polish your spears; put on armor!<small><sub>**MT:**</sub></small>
 [[Jer.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.3|<< Jeremiah 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.5|Jeremiah 46:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Saddle | <big><span class="asgreek">επισάξατε</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses, | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| mount up | <big><span class="asgreek">επίβητε</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horsemen, | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">κατάστητε</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your helmets! | <big><span class="asgreek">περικεφαλαίαις</span></big> <sup><small><small>[[G4030]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Furbish | <big><span class="asgreek">προβάλλετε</span></big> <sup><small><small>[[G4261]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spears, | <big><span class="asgreek">δόρατα</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put on | <big><span class="asgreek">ενδύσασθε</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your chest \[plates\]! | <big><span class="asgreek">θώρακας</span></big> <sup><small><small>[[G2382]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saddle | **<big>[[G7442\|επισάξατε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| horses, | **<big>[[G2462\|ίππους]]</big>** |
+| mount up | **<big>[[G1910\|επίβητε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| horsemen, | **<big>[[G2460\|ιππείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G2525\|κατάστητε]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your helmets! | **<big>[[G4030\|περικεφαλαίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| Furbish | **<big>[[G4261\|προβάλλετε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| spears, | **<big>[[G6965\|δόρατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put on | **<big>[[G1746\|ενδύσασθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your chest \[plates\]! | **<big>[[G2382\|θώρακας]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Jer.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.3|<< Jeremiah 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.5|Jeremiah 46:5 >>]]</td></tr></table>
 
 

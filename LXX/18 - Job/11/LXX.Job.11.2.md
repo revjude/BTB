@@ -7,25 +7,25 @@ Should not the multitude of words be answered? and should a man full of talk be 
 “Should this stream of words go unanswered and such a speaker be vindicated?<small><sub>**MT:**</sub></small>
 [[Job.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.1|<< Job 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.3|Job 11:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| many \[things\] | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall listen in turn; | <big><span class="asgreek">αντακούσεται</span></big> <sup><small><small>[[G6354]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[does\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well-spoken | <big><span class="asgreek">εύλαλος</span></big> <sup><small><small>[[G7550]]</small></small></sup> |
-| imagine \[himself\] | <big><span class="asgreek">οίεται</span></big> <sup><small><small>[[G3633]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| just? | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| Blessed be | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[the\] one born | <big><span class="asgreek">γεννητός</span></big> <sup><small><small>[[G1084]]</small></small></sup> |
-| of woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| short-lived. | <big><span class="asgreek">ολιγόβιος</span></big> <sup><small><small>[[G8482]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| many \[things\] | **<big>[[G4183\|πολλά]]</big>** |
+| saying | **<big>[[G3004\|λέγων]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| shall listen in turn; | **<big>[[G6354\|αντακούσεται]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \[does\] | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| well-spoken | **<big>[[G7550\|εύλαλος]]</big>** |
+| imagine \[himself\] | **<big>[[G3633\|οίεται]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| just? | **<big>[[G1342\|δίκαιος]]</big>** |
+| Blessed be | **<big>[[G2127\|ευλογημένος]]</big>** |
+| \[the\] one born | **<big>[[G1084\|γεννητός]]</big>** |
+| of woman | **<big>[[G1135\|γυναικός]]</big>** |
+| short-lived. | **<big>[[G8482\|ολιγόβιος]]</big>** |
 [[Job.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.1|<< Job 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.3|Job 11:3 >>]]</td></tr></table>
 
 

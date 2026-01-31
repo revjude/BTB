@@ -7,26 +7,26 @@ Howbeit the high places were not taken away: for as yet the people had not prepa
 The high places, however, were not removed; the people had not yet set their hearts on the God of their fathers.<small><sub>**MT:**</sub></small>
 [[2Chr.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.32|<< 2 Chronicles 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.34|2 Chronicles 20:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\] | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| he did not remove, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξήρθη</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| straighten out | <big><span class="asgreek">κατευθυνε</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Only | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| high \[places\] | **<big>[[G5308\|υψηλά]]</big>** |
+| he did not remove, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1808\|εξήρθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| straighten out | **<big>[[G2720\|κατευθυνε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[2Chr.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.32|<< 2 Chronicles 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.34|2 Chronicles 20:34 >>]]</td></tr></table>
 
 

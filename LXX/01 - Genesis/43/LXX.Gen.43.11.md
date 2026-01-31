@@ -7,46 +7,46 @@ And their father Israel said unto them, If [it must be] so now, do this; take of
 Then their father Israel said to them, “If it must be so, then do this: Put some of the best products of the land in your packs and carry them down as a gift for the man—a little balm and a little honey, spices and myrrh, pistachios and almonds.<small><sub>**MT:**</sub></small>
 [[Gen.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.10|<< Genesis 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.12|Genesis 43:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| it is, | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you do! | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| You take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπών</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your containers, | <big><span class="asgreek">αγγείοις</span></big> <sup><small><small>[[G0030]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring | <big><span class="asgreek">καταγάγετε</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of balm, | <big><span class="asgreek">ρητίνης</span></big> <sup><small><small>[[G9023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of honey, | <big><span class="asgreek">μέλιτος</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| incense, | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| balsam, | <big><span class="asgreek">στάκτην</span></big> <sup><small><small>[[G9152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turpentine, | <big><span class="asgreek">τερέβινθον</span></big> <sup><small><small>[[G9421]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| walnuts! | <big><span class="asgreek">κάρυα</span></big> <sup><small><small>[[G7814]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| it is, | **<big>[[G1510\|εστί]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| you do! | **<big>[[G4160\|ποιήσατε]]</big>** |
+| You take | **<big>[[G2983\|λάβετε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| fruits | **<big>[[G2590\|καρπών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your containers, | **<big>[[G0030\|αγγείοις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring | **<big>[[G2609\|καταγάγετε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of balm, | **<big>[[G9023\|ρητίνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of honey, | **<big>[[G3192\|μέλιτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| incense, | **<big>[[G2368\|θυμίαμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| balsam, | **<big>[[G9152\|στάκτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turpentine, | **<big>[[G9421\|τερέβινθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| walnuts! | **<big>[[G7814\|κάρυα]]</big>** |
 [[Gen.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.10|<< Genesis 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.12|Genesis 43:12 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּחַת‎</span></big> **pachath** <small>*(pakh'-ath)*</small> ==**pit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פַּחַת‎</span></big>** **pachath** <small>*(pakh'-ath)*</small> ==**pit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably from an unused root apparently meaning to dig</small>
 
 $\quad$ hole, pit, snare.
@@ -6,4 +6,4 @@ $\quad$ hole, pit, snare.
 
 **1)** pit, hole
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βόθυνος</span><sup><small>[[G0999]]</small></sup> · <span class="asgreek">χάσμα</span><sup><small>[[G5490]]</small></sup>
+<small>See Greek: </small>**<big>[[G0999|βόθυνος]]</big>** · **<big>[[G5490|χάσμα]]</big>**

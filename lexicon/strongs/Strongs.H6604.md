@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פְּתוֹר‎</span></big> **Pᵉthôwr** <small>*(peth-ore')*</small> ==**Pethor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פְּתוֹר‎</span></big>** **Pᵉthôwr** <small>*(peth-ore')*</small> ==**Pethor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Pethor.

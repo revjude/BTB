@@ -7,39 +7,39 @@ And Joshua sent men from Jericho to Ai, which [is] beside Bethaven, on the east 
 Meanwhile, Joshua sent men from Jericho to Ai, which is near Beth-aven to the east of Bethel, and told them, “Go up and spy out the land.” So the men went up and spied out Ai.<small><sub>**MT:**</sub></small>
 [[Josh.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.1|<< Joshua 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.3|Joshua 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Jericho | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ai, | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Beth-aven, | <big><span class="asgreek">Βηθαυέν</span></big> <sup><small><small>[[H1007]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of Beth-el. | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In ascending, | <big><span class="asgreek">αναβάντες</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| survey | <big><span class="asgreek">κατασκέψασθε</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| surveyed | <big><span class="asgreek">κατεσκέψαντο</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ai. | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua sent | **<big>[[G0649\|απέστειλεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Jericho | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Ai, | **<big>[[H5857\|Γαί]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| Beth-aven, | **<big>[[H1007\|Βηθαυέν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| of Beth-el. | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| to them, | **<big>[[G1473\|αυτούς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| In ascending, | **<big>[[G0305\|αναβάντες]]</big>** |
+| survey | **<big>[[G7919\|κατασκέψασθε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land! | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| surveyed | **<big>[[G7919\|κατεσκέψαντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Ai. | **<big>[[H5857\|Γαί]]</big>** |
 [[Josh.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.1|<< Joshua 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.3|Joshua 7:3 >>]]</td></tr></table>
 
 

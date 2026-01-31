@@ -4,10 +4,10 @@ Edomite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Dishon</span> was a descendant of Seir the Horite and the son of Anah, mentioned in the genealogies of Esau's family. \([[Gen.36.21|Gen.36.21]],30; [[1Chr.1.38|1Ch.1.38]],41; [[Gen.36.26|Gen.36.26]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.21|Gen.36.21]]; 
-- referred to as Dishon<[[H1787G]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>\), or Dishon<[[H1789H]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Seir<[[H8165B]]>; 
-- a brother of Lotan<[[H3877]]>, Shobal<[[H7732G]]>, Zibeon<[[H6649]]>, Ezer<[[H0687]]>, Dishan<[[H1789G]]> and Timna<[[H8555]]>; 
--  father of Hemdan<[[H2533]]>, Eshban<[[H0790]]>, Ithran<[[H3506G]]>, Cheran<[[H3763]]>.
+- referred to as Dishon **<big>[[H1787|דִּישׁוֹן]]</big>**, or Dishon **<big>[[H1789|דִּישָׁן]]</big>**; 
+-  son of Seir **<big>[[H8165|שֵׂעִיר]]</big>**; 
+- a brother of Lotan **<big>[[H3877|לוֹטָן]]</big>**, Shobal **<big>[[H7732|שׁוֹבָל]]</big>**, Zibeon **<big>[[H6649|צִבְעוֹן]]</big>**, Ezer **<big>[[H0687|אֶצֶר]]</big>**, Dishan **<big>[[H1789|דִּישָׁן]]</big>** and Timna **<big>[[H8555|תִּמְנָע]]</big>**; 
+-  father of Hemdan **<big>[[H2533|חֶמְדָּן]]</big>**, Eshban **<big>[[H0790|אֶשְׁבָּן]]</big>**, Ithran **<big>[[H3506|יִתְרָן]]</big>**, Cheran **<big>[[H3763|כְּרָן]]</big>**.
 
 Dishon is mentioned in the genealogies of Esau's family in Genesis 36 and 1 Chronicles 1. He is listed as one of the sons of Seir the Horite, the inhabitants of the land of Edom before Esau's descendants settled there \(Genesis 36:20-21; [[1Chr.1.38|1 Chronicles 1:38]]\). 
 
@@ -21,9 +21,9 @@ Apart from these genealogical references, no further information is provided abo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>](H1787G) <small>*Hebrew*</small> | 4x | [[Gen.36.21] ... [1Ch.1.41b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.21;Gen.36.30;1Ch.1.38;1Ch.1.41) |
-| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H1789H) <small>*Hebrew*</small> | 1x | [Gen.36.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.26) |
-All Strong's for **Dishon**: \[[[H1787G]]\] \[[[H1789H]]\]
+| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>](H1787G) | 4x | [[Gen.36.21] ... [1Ch.1.41b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.21;Gen.36.30;1Ch.1.38;1Ch.1.41) |
+| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H1789H) | 1x | [Gen.36.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.26) |
+All entries for **Dishon**:  **<big>[[H1787|דִּישׁוֹן]]</big>** ☩  **<big>[[H1789|דִּישָׁן]]</big>**
 #### Related Profiles:
 - **[Seir](H8165B)** (father)
 - **[Lotan](H3877)** (sibling)

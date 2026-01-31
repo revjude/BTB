@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַחֲרִית‎</span></big> **ʼachărîyth** <small>*(akh-ar-eeth')*</small> ==**end**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎אַחַר‎</span><sup><small>[[H0310]]</small></sup></small>
+**<big><span class="ashebrew">‎אַחֲרִית‎</span></big>** **ʼachărîyth** <small>*(akh-ar-eeth')*</small> ==**end**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0310|‎אַחַר‎]]</big>**</small>
 
 $\quad$ (last, latter) end (time), hinder (utter) -most, length, posterity, remnant, residue, reward.
 - ***the last*** or ***end***, hence, ***the future***
@@ -11,4 +11,4 @@ $\quad$ **1b)** latter time (prophetic for future time)
 $\quad$ **1c)** posterity
 $\quad$ **1d)** last, hindermost
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔκγονον</span><sup><small>[[G1549]]</small></sup> · <span class="asgreek">ἔσχατος</span><sup><small>[[G2078]]</small></sup> · <span class="asgreek">σπέρμα</span><sup><small>[[G4690]]</small></sup> · <span class="asgreek">τέκνον</span><sup><small>[[G5043]]</small></sup> · <span class="asgreek">τελευτή</span><sup><small>[[G5054]]</small></sup> · <span class="asgreek">χρόνος</span><sup><small>[[G5550]]</small></sup>
+<small>See Greek: </small>**<big>[[G1549|ἔκγονον]]</big>** · **<big>[[G2078|ἔσχατος]]</big>** · **<big>[[G4690|σπέρμα]]</big>** · **<big>[[G5043|τέκνον]]</big>** · **<big>[[G5054|τελευτή]]</big>** · **<big>[[G5550|χρόνος]]</big>**

@@ -73,7 +73,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.19.16|16]]**<span class=
 
 [^30]: or, young men
 
-[^31]: Heb. Abshai, [[1Chr.11|1Chr 11:20]], [[1Chr.18|1Chr 18:12]]; The variation of ***ΰ<span class='asgreek'>αιωΡι</span>*** (<span class="ashebrew">‎אֲבִישַׁי‎</span><sup><small>[[H0052]]</small></sup>), ***Abishai***, and ***ΰ<span class='asgreek'>αωΡι</span>*** (<span class="ashebrew">‎אֲבִישַׁי‎</span><sup><small>[[H0052]]</small></sup>), ***Abshai***, is simply caused by the elision of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, which is by no means uncommon.
+[^31]: Heb. Abshai, [[1Chr.11|1Chr 11:20]], [[1Chr.18|1Chr 18:12]]; The variation of ***ΰ<span class='asgreek'>αιωΡι</span>*** ( [[H0052|‎אֲבִישַׁי‎]] ), ***Abishai***, and ***ΰ<span class='asgreek'>αωΡι</span>*** ( [[H0052|‎אֲבִישַׁי‎]] ), ***Abshai***, is simply caused by the elision of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, which is by no means uncommon.
 
 [^32]: [[1Chr.19|1Chr 19:9]]
 
@@ -93,7 +93,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.19.16|16]]**<span class=
 
 [^40]: that is, Euphrates
 
-[^41]: This variation arises from the permutation of <span class="asgreek"><span class='asgreek'>α</span></span>, ***baith***, and <span class="asgreek"><span class='asgreek'>τ</span></span>, ***pay***; being written in the parallel passage <span class="asgreek"><span class='asgreek'>ωΡεακ</span></span> (<span class="ashebrew">‎שׁוֹבָךְ‎</span><sup><small>[[H7731]]</small></sup>), ***Shobach***, and here <span class="asgreek"><span class='asgreek'>ωΡετκ</span> </span> (<span class="ashebrew">‎שׁוֹפָךְ‎</span><sup><small>[[H7780]]</small></sup>), ***Shophach*** [[2Sam.10|2Sam 10:16]], Shobach.
+[^41]: This variation arises from the permutation of <span class="asgreek"><span class='asgreek'>α</span></span>, ***baith***, and <span class="asgreek"><span class='asgreek'>τ</span></span>, ***pay***; being written in the parallel passage <span class="asgreek"><span class='asgreek'>ωΡεακ</span></span> ( [[H7731|‎שׁוֹבָךְ‎]] ), ***Shobach***, and here <span class="asgreek"><span class='asgreek'>ωΡετκ</span> </span> ( [[H7780|‎שׁוֹפָךְ‎]] ), ***Shophach*** [[2Sam.10|2Sam 10:16]], Shobach.
 
 [^42]: am 2968, bc 1036, An, Ex, Is, 455
 

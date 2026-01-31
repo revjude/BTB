@@ -49,7 +49,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Isa.7.17|17]]**<span class="e
 
 [^16]: [[Ps.2|Ps 2:2]], [[Ps.83|Ps 83:3-4]]; [[Nah.1|Nah 1:11]]; [[Zech.1|Zech 1:15]]
 
-[^17]: or, waken, lit, disgust, (<span class="ashebrew">‎קוּץ‎</span><sup><small>[[H6973]]</small></sup>)
+[^17]: or, waken, lit, disgust, ( [[H6973|‎קוּץ‎]] )
 
 [^18]: [[Isa.8|Isa 8:10]], [[Isa.10|Isa 10:6-12]], [[Isa.37|Isa 37:29]], [[Isa.46|Isa 46:10-11]]; [[Ps.2|Ps 2:4-6]], [[Ps.33|Ps 33:11]], [[Ps.76|Ps 76:10]]; [[Prov.21|Prov 21:30]]; [[Lam.3|Lam 3:37]]; [[Dan.4|Dan 4:35]]; [[Acts.4|Acts 4:25-28]]
 

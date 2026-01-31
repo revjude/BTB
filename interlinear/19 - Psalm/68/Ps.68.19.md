@@ -6,17 +6,17 @@ Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.18|<< Psalms 68:18]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.20|Psalms 68:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [be] blessed  | <span class="ashebrew"><big>בָּ֤ר֣וּךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| ba.Rukh <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָי֮ </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֤וֹם </big></span><small><small><sup>[[H3117J]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117J]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he carries a load  | <span class="ashebrew"><big>יַֽעֲמָס </big></span><small><small><sup>[[H6006]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'a.mos- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for us  | <span class="ashebrew"><big>לָ֗ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>הָ֘ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֵ֤ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salvation our  | <span class="ashebrew"><big>יְֽשׁוּעָתֵ֬ </big></span><small><small><sup>[[H3444]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| ye.shu.'a.Te. <small><sup>[[HNcfsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] blessed  |**<big>&#8207;[[H1288\|בָּ֤ר֣וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָי֮]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117J\|י֤וֹם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117J\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he carries a load  |**<big>&#8207;[[H6006\|יַֽעֲמָס]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.mos-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for us  |**<big>&#8207;[[H9005\|לָ֗]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ֘]]&#8207;&#8207;[[H0410G\|אֵ֤ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation our  |**<big>&#8207;[[H3444\|יְֽשׁוּעָתֵ֬]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ye.shu.'a.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.18|<< Psalms 68:18]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.20|Psalms 68:20 >>]]</td></tr></table>
 
 

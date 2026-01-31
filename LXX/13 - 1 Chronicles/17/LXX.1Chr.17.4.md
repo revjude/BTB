@@ -7,26 +7,26 @@ Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an ho
 “Go and tell My servant David that this is what the LORD says: You are not the one to build Me a house in which to dwell.<small><sub>**MT:**</sub></small>
 [[1Chr.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.3|<< 1 Chronicles 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.5|1 Chronicles 17:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servant! | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| build | <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for me to dwell | <big><span class="asgreek">κατοικήσαί</span></big> <sup><small><small>[[G2730]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You go, | **<big>[[G4198\|πορεύου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my servant! | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** **<big>[[G1473\|συ]]</big>** |
+| build | **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for me to dwell | **<big>[[G2730\|κατοικήσαί]]</big>** **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[1Chr.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.3|<< 1 Chronicles 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.5|1 Chronicles 17:5 >>]]</td></tr></table>
 
 

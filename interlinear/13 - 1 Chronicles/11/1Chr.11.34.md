@@ -6,15 +6,15 @@ the sons of Hashem the Gizonite, Jonathan son of Shagee the Hararite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.33|<< 1 Chronicles 11:33]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.35|1 Chronicles 11:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֗י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hashem  | <span class="ashebrew"><big>הָשֵׁם֙ </big></span><small><small><sup>[[H2044]]</sup></small></small> &#8207;| ha.Shem <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Gizonite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גִּ֣זוֹנִ֔י </big></span><small><small><sup>[[H1493]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Gi.zo.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יוֹנָתָ֥ן </big></span><small><small><sup>[[H3129P]]</sup></small></small> &#8207;| yo.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shageh  | <span class="ashebrew"><big>שָׁגֵ֖ה </big></span><small><small><sup>[[H7681]]</sup></small></small> &#8207;| sha.Geh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Hararite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הֲרָרִֽי </big></span><small><small><sup>[[H2043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ha.ra.Ri <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֗י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hashem  |**<big>&#8207;[[H2044\|הָשֵׁם֙]]&#8207; </big>**| ha.Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Gizonite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1493\|גִּ֣זוֹנִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Gi.zo.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3129P\|יוֹנָתָ֥ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shageh  |**<big>&#8207;[[H7681\|שָׁגֵ֖ה]]&#8207; </big>**| sha.Geh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hararite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2043\|הֲרָרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ha.ra.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.33|<< 1 Chronicles 11:33]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.35|1 Chronicles 11:35 >>]]</td></tr></table>
 
 

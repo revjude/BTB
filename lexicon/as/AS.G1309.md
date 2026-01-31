@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δια-φεύγω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Josh.8.22|Jos 8:22]] (<span class="ashebrew">פָּלִיט</span> <small><sup>[[H6412]]</sup></small>), [[LXX.Josh.10.28|ib. 10:28]] (<span class="ashebrew">שָׂרִיד</span> <small><sup>[[H8300]]</sup></small>), etc. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δια-φεύγω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Josh.8.22|Jos 8:22]] (**<big>[[H6412|פָּלִיט]]</big>**), [[LXX.Josh.10.28|ib. 10:28]] (**<big>[[H8300|שָׂרִיד]]</big>**), etc. ;\] </span> </span>
 <span class="asitalic">to flee through, escape</span>: [[Acts.27.42|Ac 27:42]].†
 
 **Abbott-Smith References**

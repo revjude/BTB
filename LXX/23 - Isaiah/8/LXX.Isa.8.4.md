@@ -7,28 +7,28 @@ For before the child shall have knowledge to cry, My father, and my mother, the 
 For before the boy knows how to cry ‘Father’ or ‘Mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”<small><sub>**MT:**</sub></small>
 [[Isa.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knows | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| to call | <big><span class="asgreek">καλείν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \[his\] father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| one shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| t \[\] he power | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of Damascus, | <big><span class="asgreek">Δαμασκού</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| of Samaria | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians. | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| knows | **<big>[[G1097\|γνώναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| child | **<big>[[G3813\|παιδίον]]</big>** |
+| to call | **<big>[[G2564\|καλείν]]</big>** |
+| \[his\] father | **<big>[[G3962\|πατέρα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| mother, | **<big>[[G3384\|μητέρα]]</big>** |
+| one shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| t \[\] he power | **<big>[[G1411\|δύναμιν]]</big>** |
+| of Damascus, | **<big>[[G1154\|Δαμασκού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| of Samaria | **<big>[[G4541\|Σαμαρείας]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] Assyrians. | **<big>[[H0804\|Ασσυρίων]]</big>** |
 [[Isa.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ All the paths of the LORD [are] mercy and truth unto such as keep his covenant a
 All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees.<small><sub>**MT:**</sub></small>
 [[Ps.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.9|<< Psalm 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.11|Psalm 25:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| are mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθεια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">εκζητούσι</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his testimonies. | <big><span class="asgreek">μαρτύρια</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| ways | **<big>[[G3598\|οδοί]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| are mercy | **<big>[[G1656\|έλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| truth | **<big>[[G0225\|αλήθεια]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| seeking | **<big>[[G1567\|εκζητούσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his testimonies. | **<big>[[G3142\|μαρτύρια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.9|<< Psalm 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.11|Psalm 25:11 >>]]</td></tr></table>
 
 

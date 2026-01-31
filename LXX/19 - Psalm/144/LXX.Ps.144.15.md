@@ -7,21 +7,21 @@ Happy [is that] people, that is in such a case: [yea], happy [is that] people, w
 Blessed are the people of whom this is so; blessed are the people whose God is the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.144.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.14|<< Psalm 144:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.1|Psalm 145:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| declare them happy | <big><span class="asgreek">εμακάρισαν</span></big> <sup><small><small>[[G3106]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are. | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Blessed \[be\] | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] his God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| declare them happy | **<big>[[G3106\|εμακάρισαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| to which | **<big>[[G3739\|ω]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτά]]</big>** |
+| are. | **<big>[[G1510\|εστι]]</big>** |
+| Blessed \[be\] | **<big>[[G3107\|μακάριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[is\] his God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.144.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.14|<< Psalm 144:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.1|Psalm 145:1 >>]]</td></tr></table>
 
 

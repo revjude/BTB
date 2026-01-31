@@ -7,21 +7,21 @@ She riseth also while it is yet night, and giveth meat to her household, and a p
 She rises while it is still night to provide food for her household and portions for her maidservants.<small><sub>**MT:**</sub></small>
 [[Prov.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.14|<< Proverbs 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.16|Proverbs 31:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she rises up | <big><span class="asgreek">ανίσταται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| nights, | <big><span class="asgreek">νυκτών</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appoints | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| foods | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| household, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| female attendants. | <big><span class="asgreek">θεραπαίναις</span></big> <sup><small><small>[[G7654]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| she rises up | **<big>[[G0450\|ανίσταται]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| nights, | **<big>[[G3571\|νυκτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| appoints | **<big>[[G1325\|έδωκε]]</big>** |
+| foods | **<big>[[G1033\|βρώματα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| household, | **<big>[[G3624\|οίκω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| female attendants. | **<big>[[G7654\|θεραπαίναις]]</big>** |
 [[Prov.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.14|<< Proverbs 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.16|Proverbs 31:16 >>]]</td></tr></table>
 
 

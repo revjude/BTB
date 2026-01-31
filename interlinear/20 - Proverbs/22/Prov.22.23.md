@@ -6,16 +6,16 @@ for the LORD will take up their case and will plunder those who rob them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.22|<< Proverbs 22:22]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.24|Proverbs 22:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will conduct  | <span class="ashebrew"><big>יָרִ֣יב </big></span><small><small><sup>[[H7378]]</sup></small></small> &#8207;| ya.Riv <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| case their  | <span class="ashebrew"><big>רִיבָ֑ </big></span><small><small><sup>[[H7379]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ri.Va <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will rob  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>קָבַ֖ע </big></span><small><small><sup>[[H6906]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ka.Va' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] rob them  | <span class="ashebrew"><big>קֹבְעֵי </big></span><small><small><sup>[[H6906]]</sup></small></small> <span class="ashebrew"><big>הֶ֣ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| koe.'ei. <small><sup>[[HVqrmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life  | <span class="ashebrew"><big>נָֽפֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will conduct  |**<big>&#8207;[[H7378\|יָרִ֣יב]]&#8207; </big>**| ya.Riv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| case their  |**<big>&#8207;[[H7379\|רִיבָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ri.Va<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will rob  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6906\|קָבַ֖ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] rob them  |**<big>&#8207;[[H6906\|קֹבְעֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| koe.'ei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life  |**<big>&#8207;[[H5315H\|נָֽפֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.22|<< Proverbs 22:22]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.24|Proverbs 22:24 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ If it be [so], our God whom we serve is able to deliver us from the burning fier
 If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king.<small><sub>**MT:**</sub></small>
 [[Dan.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.16|<< Daniel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.18|Daniel 3:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] heavens | <big><span class="asgreek">ουρανοίς</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| serve | <big><span class="asgreek">λατρευόμεν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| to rescue | <big><span class="asgreek">εξελέσθαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace | <big><span class="asgreek">καμίνου</span></big> <sup><small><small>[[G2575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιομένης</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands, | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| he shall rescue | <big><span class="asgreek">ρύσεται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] heavens | **<big>[[G3772\|ουρανοίς]]</big>** |
+| in whom | **<big>[[G3739\|ω]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| serve | **<big>[[G3000\|λατρευόμεν]]</big>** |
+| able | **<big>[[G1415\|δυνατός]]</big>** |
+| to rescue | **<big>[[G1807\|εξελέσθαι]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| furnace | **<big>[[G2575\|καμίνου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| burning | **<big>[[G2545\|καιομένης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your hands, | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| he shall rescue | **<big>[[G4506\|ρύσεται]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
 [[Dan.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.16|<< Daniel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.18|Daniel 3:18 >>]]</td></tr></table>
 
 

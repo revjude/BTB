@@ -7,26 +7,26 @@ Speak unto the children of Israel, that they bring me an offering: of every man 
 “Tell the Israelites to bring Me an offering. You are to receive My offering from every man whose heart compels him.<small><sub>**MT:**</sub></small>
 [[Exod.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.1|<< Exodus 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.3|Exodus 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Speak | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| first-fruits | <big><span class="asgreek">απαρχάς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the things which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| seem \[good\] | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart! | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| You shall take | <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-fruits | <big><span class="asgreek">απαρχάς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of mine. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Speak | **<big>[[G2036\|είπον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβετε]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
+| of | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the things which | **<big>[[G3739\|οις]]</big>** **<big>[[G0302\|αν]]</big>** |
+| seem \[good\] | **<big>[[G1380\|δόξη]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| heart! | **<big>[[G2588\|καρδία]]</big>** |
+| You shall take | **<big>[[G2983\|λήψεσθε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
+| of mine. | **<big>[[G1473\|μου]]</big>** |
 [[Exod.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.1|<< Exodus 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.3|Exodus 25:3 >>]]</td></tr></table>
 
 

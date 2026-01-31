@@ -7,35 +7,35 @@ And the priest shall see [him]: and, behold, [if] the rising [be] white in the s
 The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,<small><sub>**MT:**</sub></small>
 [[Lev.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.9|<< Leviticus 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.11|Leviticus 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall look | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| discoloration | <big><span class="asgreek">ουλή</span></big> <sup><small><small>[[G8566]]</small></small></sup> |
-| \[if it is\] a white | <big><span class="asgreek">λευκή</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[if\] it | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| turned | <big><span class="asgreek">μετέβαλε</span></big> <sup><small><small>[[G3328]]</small></small></sup> |
-| \[the\] hair | <big><span class="asgreek">τριχα</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| white, | <big><span class="asgreek">λευκήν</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[some\] of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| healthy | <big><span class="asgreek">υγιούς</span></big> <sup><small><small>[[G5199]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρκός</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| be living | <big><span class="asgreek">ζώσης</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| discoloration -- | <big><span class="asgreek">ουλή</span></big> <sup><small><small>[[G8566]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall look | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| discoloration | **<big>[[G8566\|ουλή]]</big>** |
+| \[if it is\] a white | **<big>[[G3022\|λευκή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[if\] it | **<big>[[G3778\|αύτη]]</big>** |
+| turned | **<big>[[G3328\|μετέβαλε]]</big>** |
+| \[the\] hair | **<big>[[G2359\|τριχα]]</big>** |
+| white, | **<big>[[G3022\|λευκήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[some\] of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| healthy | **<big>[[G5199\|υγιούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| flesh | **<big>[[G4561\|σαρκός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| be living | **<big>[[G2198\|ζώσης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| discoloration -- | **<big>[[G8566\|ουλή]]</big>** |
 [[Lev.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.9|<< Leviticus 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.11|Leviticus 13:11 >>]]</td></tr></table>
 
 

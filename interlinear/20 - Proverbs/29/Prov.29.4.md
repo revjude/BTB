@@ -6,15 +6,15 @@ By justice a king brings stability to the land, but a man who exacts tribute dem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.3|<< Proverbs 29:3]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.5|Proverbs 29:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a king  | <span class="ashebrew"><big>מֶ֗לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by justice  | <span class="ashebrew"><big>בְּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| Be. <small><sup>[[HR]]</sup></small> mish.pot <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he establishes  | <span class="ashebrew"><big>יַעֲמִ֣יד </big></span><small><small><sup>[[H5975I]]</sup></small></small> &#8207;| ya.'a.Mid <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a land  | <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a person of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| contributions  | <span class="ashebrew"><big>תְּרוּמ֣וֹת </big></span><small><small><sup>[[H8641]]</sup></small></small> &#8207;| te.ru.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he breaks down it  | <span class="ashebrew"><big>יֶֽהֶרְסֶֽ </big></span><small><small><sup>[[H2040]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ye.her.Se. <small><sup>[[HVqi3ms]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶ֗לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by justice  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H4941H\|מִשְׁפָּט]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> mish.pot<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he establishes  |**<big>&#8207;[[H5975I\|יַעֲמִ֣יד]]&#8207; </big>**| ya.'a.Mid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a land  |**<big>&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a person of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֖ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| contributions  |**<big>&#8207;[[H8641\|תְּרוּמ֣וֹת]]&#8207; </big>**| te.ru.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he breaks down it  |**<big>&#8207;[[H2040\|יֶֽהֶרְסֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ye.her.Se.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.3|<< Proverbs 29:3]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.5|Proverbs 29:5 >>]]</td></tr></table>
 
 

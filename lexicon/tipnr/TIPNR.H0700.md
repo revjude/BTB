@@ -1,8 +1,8 @@
 <small>*Arubboth • A district in Israel under Solomon's rule.*</small>
 
 <span class='tipnrhighlight'>Arubboth</span>, a district governed by one of Solomon's twelve officers.
-- A location near Socoh<[[H7755G]]> only mentioned at [[1Kgs.4.10|1Ki.4.10]]; 
-- only referred to as Arubboth<[[H0700]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֻ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- A location near Socoh **<big>[[H7755|שׂוֹכֹה]]</big>** only mentioned at [[1Kgs.4.10|1Ki.4.10]]; 
+- only referred to as Arubboth **<big>[[H0700|אֲרֻבּוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.68123465358001,34.97639817516712&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from this single reference in the list of Solomon's districts and their of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arubboth | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֻ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H0700) <small>*Hebrew*</small> | 1x | [1Ki.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arubboth\*\|reference=1Ki.4.10) |
-All Strong's for **Arubboth**: \[[[H0700]]\]
+| Arubboth | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֻ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H0700) | 1x | [1Ki.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arubboth\*\|reference=1Ki.4.10) |
+All entries for **Arubboth**:  **<big>[[H0700|אֲרֻבּוֹת]]</big>**

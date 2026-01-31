@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לִבְנִי‎</span></big> **Libnîy** <small>*(lib-nee')*</small> ==**Libnite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎לִבְנִי‎</span><sup><small>[[H3845]]</small></sup></small>
+**<big><span class="ashebrew">‎לִבְנִי‎</span></big>** **Libnîy** <small>*(lib-nee')*</small> ==**Libnite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H3845|‎לִבְנִי‎]]</big>**</small>
 
 $\quad$ Libnites.
 - § Libnites = *see Libni "white"*

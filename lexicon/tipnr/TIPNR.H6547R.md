@@ -4,7 +4,7 @@ Pharaoh living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hophra</span>, also known as Pharaoh Apries, was the king of Egypt during the time of the prophet Jeremiah and the Babylonian invasion of Judah.
 - An Egyptian Pharaoh living at the time of Divided Monarchy, first mentioned at [[Jer.37.5|Jer.37.5]]; 
-- referred to as Hophra<[[H6547R]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>\), or Pharaoh/-hophra \(NIV= Pharaoh Hophra\) <[[H6548]]><[[H6547S]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>\).
+- referred to as Hophra **<big>[[H6547|פַּרְעֹה]]</big>**, or Pharaoh/-hophra \(NIV= Pharaoh Hophra\)  **<big>[[H6548|פַּרְעֹה חׇפְרַע]]</big>** **<big>[[H6547|פַּרְעֹה]]</big>**.
 
 Hophra, also referred to as Pharaoh in the Bible, was the king of Egypt during the time of the prophet Jeremiah and the Babylonian invasion of Judah. He is mentioned in several passages in the books of Jeremiah and Ezekiel. 
 
@@ -20,6 +20,6 @@ The biblical account of Hophra highlights the political and military dynamics of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pharaoh | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547R) <small>*Hebrew*</small> | 18x | [[Jer.37.5] ... [Ezk.32.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=Jer.37.5;Jer.37.7;Jer.37.11;Jer.43.9;Jer.47.1;Ezk.17.17;Ezk.29.2;Ezk.29.3;Ezk.30.21;Ezk.30.22;Ezk.30.24;Ezk.30.25;Ezk.31.2;Ezk.31.18;Ezk.32.2;Ezk.32.31;Ezk.32.31;Ezk.32.32) |
-| Pharaoh/-hophra (NIV= Pharaoh Hophra) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H6548)[<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547S) <small>*Hebrew*</small> | 1x | [Jer.44.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=Jer.44.30) |
-All Strong's for **Hophra or Pharaoh**: \[[[H6547R]]\] \[[[H6548]]\]
+| Pharaoh | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547R) | 18x | [[Jer.37.5] ... [Ezk.32.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=Jer.37.5;Jer.37.7;Jer.37.11;Jer.43.9;Jer.47.1;Ezk.17.17;Ezk.29.2;Ezk.29.3;Ezk.30.21;Ezk.30.22;Ezk.30.24;Ezk.30.25;Ezk.31.2;Ezk.31.18;Ezk.32.2;Ezk.32.31;Ezk.32.31;Ezk.32.32) |
+| Pharaoh/-hophra (NIV= Pharaoh Hophra) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H6548)[<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H6547S) | 1x | [Jer.44.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharaoh\*\|reference=Jer.44.30) |
+All entries for **Hophra or Pharaoh**:  **<big>[[H6547|פַּרְעֹה]]</big>** ☩  **<big>[[H6548|פַּרְעֹה חׇפְרַע]]</big>**

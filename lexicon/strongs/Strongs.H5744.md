@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוֹבֵד‎</span></big> **ʻÔwbêd** <small>*(o-bade')*</small> ==**Obed**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup>; serving</small>
+**<big><span class="ashebrew">‎עוֹבֵד‎</span></big>** **ʻÔwbêd** <small>*(o-bade')*</small> ==**Obed**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>active participle of **<big>[[H5647|‎עָבַד‎]]</big>**; serving</small>
 
 $\quad$ Obed.
 - § Obed = *"serving"*
@@ -11,4 +11,4 @@ $\quad$ Obed.
 **4)** one of David's mighty warriors
 **5)** son of Shemaiah and a gatekeeper of the temple
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ὠβήδ</span><sup><small>[[G5601]]</small></sup>
+<small>See Greek: </small>**<big>[[G5601|Ὠβήδ]]</big>**

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎גִּלְגָּל‎</span></big> **Gilgâl** <small>*(ghil-gawl')*</small> ==**Gilgal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎גִּלְגָּל‎</span><sup><small>[[H1536]]</small></sup> (with the article as a properly, noun)</small>
+**<big><span class="ashebrew">‎גִּלְגָּל‎</span></big>** **Gilgâl** <small>*(ghil-gawl')*</small> ==**Gilgal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H1536|‎גִּלְגָּל‎]]</big>** (with the article as a properly, noun)</small>
 
-$\quad$ Gilgal. See also <span class="ashebrew">‎בֵּית הַגִּלְגָּל‎</span><sup><small>[[H1019]]</small></sup>.
+$\quad$ Gilgal. See also **<big>[[H1019|‎בֵּית הַגִּלְגָּל‎]]</big>**.
 - § Gilgal = *"a wheel, rolling"*
 - ***Gilgal***, the name of three places in Palestine
 

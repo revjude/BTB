@@ -7,16 +7,16 @@ They are brought down and fallen: but we are risen, and stand upright.
 They collapse and fall, but we rise up and stand firm.<small><sub>**MT:**</sub></small>
 [[Ps.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.7|<< Psalm 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.9|Psalm 20:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are bound hand and foot, | <big><span class="asgreek">συνεποδίσθησαν</span></big> <sup><small><small>[[G9277]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fall; | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| but we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστημεν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were re-erected. | <big><span class="asgreek">ανωρθώθημεν</span></big> <sup><small><small>[[G0461]]</small></small></sup> |
+| They | **<big>[[G1473\|αυτοί]]</big>** |
+| are bound hand and foot, | **<big>[[G9277\|συνεποδίσθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fall; | **<big>[[G4098\|έπεσον]]</big>** |
+| but we | **<big>[[G1473\|ημείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| rose up | **<big>[[G0450\|ανέστημεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were re-erected. | **<big>[[G0461\|ανωρθώθημεν]]</big>** |
 [[Ps.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.7|<< Psalm 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.9|Psalm 20:9 >>]]</td></tr></table>
 
 

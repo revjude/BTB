@@ -7,35 +7,35 @@ and turned his hand from injustice, \[and\] did not take \[money from\] interest
 He withholds his hand from harming the poor and takes no interest or usury. He keeps My ordinances and follows My statutes. Such a man will not die for his father’s iniquity. He will surely live.<small><sub>**MT:**</sub></small>
 [[Ezek.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.16|<< Ezekiel 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.18|Ezekiel 18:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| turned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| interest | <big><span class="asgreek">τόκον</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| usury | <big><span class="asgreek">πλεονασμόν</span></big> <sup><small><small>[[G8807]]</small></small></sup> |
-| \[and\] did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take \[money from\] | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| \[and\] executed | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders | <big><span class="asgreek">προστάγμασί</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come to an end | <big><span class="asgreek">τελευτήσει</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquities | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father; | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| he shall live. | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| injustice | **<big>[[G0093\|αδικίας]]</big>** |
+| turned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| interest | **<big>[[G5110\|τόκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| usury | **<big>[[G8807\|πλεονασμόν]]</big>** |
+| \[and\] did not | **<big>[[G3756\|ουκ]]</big>** |
+| take \[money from\] | **<big>[[G2983\|έλαβε]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| \[and\] executed | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my orders | **<big>[[G8943\|προστάγμασί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| come to an end | **<big>[[G5053\|τελευτήσει]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| iniquities | **<big>[[G0093\|αδικίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father; | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to life | **<big>[[G2222\|ζωή]]</big>** |
+| he shall live. | **<big>[[G2198\|ζήσεται]]</big>** |
 [[Ezek.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.16|<< Ezekiel 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.18|Ezekiel 18:18 >>]]</td></tr></table>
 
 

@@ -10,37 +10,37 @@ And the LORD said unto Moses, Yet will I bring one plague [more] upon Pharaoh, a
 Then the LORD said to Moses, “I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place. And when he lets you go, he will drive you out completely.<small><sub>**MT:**</sub></small>
 [[Exod.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.29|<< Exodus 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.2|Exodus 11:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| one \[more\] | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he will send | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from here. | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should send | <big><span class="asgreek">εξαποστέλη</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| all \[your things\] | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| by expulsion | <big><span class="asgreek">εκβολή</span></big> <sup><small><small>[[G1546]]</small></small></sup> |
-| he will cast | <big><span class="asgreek">εκβαλεί</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Still | **<big>[[G2089\|έτι]]</big>** |
+| one \[more\] | **<big>[[G1520\|μίαν]]</big>** |
+| calamity | **<big>[[G4127\|πληγήν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will bring | **<big>[[G1863\|επάξω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| this | **<big>[[G3778\|ταύτα]]</big>** |
+| he will send | **<big>[[G1821\|εξαποστελεί]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from here. | **<big>[[G1782\|εντεύθεν]]</big>** |
+| And whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should send | **<big>[[G1821\|εξαποστέλη]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| all \[your things\] | **<big>[[G3956\|πάση]]</big>** |
+| by expulsion | **<big>[[G1546\|εκβολή]]</big>** |
+| he will cast | **<big>[[G1544\|εκβαλεί]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
 [[Exod.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.29|<< Exodus 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.2|Exodus 11:2 >>]]</td></tr></table>
 
 

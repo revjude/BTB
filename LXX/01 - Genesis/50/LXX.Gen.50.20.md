@@ -7,31 +7,31 @@ But as for you, ye thought evil against me; [but] God meant it unto good, to bri
 As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.<small><sub>**MT:**</sub></small>
 [[Gen.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| planned | <big><span class="asgreek">εβουλεύσασθε</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| concerning | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| evil, | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| planned | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-|  | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| it should be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[it is\] today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he might maintain | <big><span class="asgreek">διατραφή</span></big> <sup><small><small>[[G6894]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| planned | **<big>[[G1011\|εβουλεύσασθε]]</big>** |
+| concerning | **<big>[[G2596\|κατ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| evil, | **<big>[[G4190\|πονηρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| planned | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| good, | **<big>[[G0018\|αγαθά]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+|  | **<big>[[G0302\|αν]]</big>** |
+| it should be | **<big>[[G1096\|γένηται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[it is\] today, | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he might maintain | **<big>[[G6894\|διατραφή]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| many | **<big>[[G4183\|πολύς]]</big>** |
 [[Gen.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
 

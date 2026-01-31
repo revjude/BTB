@@ -7,18 +7,18 @@ Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid o
 You will be hidden from the scourge of the tongue, and will not fear havoc when it comes.<small><sub>**MT:**</sub></small>
 [[Job.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.20|<< Job 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.22|Job 5:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] whip | <big><span class="asgreek">μάστιγος</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
-| of \[the\] tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| He shall hide you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κρύψει</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you be fearful | <big><span class="asgreek">φοβηθήση</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \[the\] coming | <big><span class="asgreek">ερχομένων</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] whip | **<big>[[G3148\|μάστιγος]]</big>** |
+| of \[the\] tongue | **<big>[[G1100\|γλώσσης]]</big>** |
+| He shall hide you | **<big>[[G1473\|σε]]</big>** **<big>[[G2928\|κρύψει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you be fearful | **<big>[[G5399\|φοβηθήση]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| evils | **<big>[[G2556\|κακών]]</big>** |
+| \[the\] coming | **<big>[[G2064\|ερχομένων]]</big>** |
 [[Job.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.20|<< Job 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.22|Job 5:22 >>]]</td></tr></table>
 
 

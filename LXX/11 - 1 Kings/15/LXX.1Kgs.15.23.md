@@ -7,49 +7,49 @@ The rest of all the acts of Asa, and all his might, and all that he did, and the
 Now the rest of the acts of Asa, along with all his might, all his accomplishments, and the cities he built, are they not written in the Book of the Chronicles of the Kings of Judah? In his old age, however, he became diseased in his feet.<small><sub>**MT:**</sub></small>
 [[1Kgs.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.22|<< 1 Kings 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.24|1 Kings 15:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιπά</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Asa, | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his dominion, | <big><span class="asgreek">δυναστεία</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he built, | <big><span class="asgreek">ωκοδόμησεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| are | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a scroll | <big><span class="asgreek">βιβλίω</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of \[the\] words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah? | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his old age | <big><span class="asgreek">γήρους</span></big> <sup><small><small>[[G1094]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| caused pain | <big><span class="asgreek">επόνεσε</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rest | **<big>[[G3062\|λοιπά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| of Asa, | **<big>[[G0760\|Ασά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his dominion, | **<big>[[G6973\|δυναστεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| he did, | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| he built, | **<big>[[G3618\|ωκοδόμησεν]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| behold | **<big>[[G2400\|ιδού]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| are | **<big>[[G1510\|εστίν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a scroll | **<big>[[G0975\|βιβλίω]]</big>** |
+| of \[the\] words | **<big>[[G3056\|λόγων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of Judah? | **<big>[[G2448\|Ιούδα]]</big>** |
+| Only | **<big>[[G4133\|πλην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his old age | **<big>[[G1094\|γήρους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| caused pain | **<big>[[G8862\|επόνεσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his feet | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.22|<< 1 Kings 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.24|1 Kings 15:24 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּגַל‎</span></big> **dâgal** <small>*(daw-gal')*</small> ==**to look**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּגַל‎</span></big>** **dâgal** <small>*(daw-gal')*</small> ==**to look**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (set up, with) banners, chiefest.
@@ -11,4 +11,4 @@ $\quad$ **1a)** (Qal) looked at, conspicuous (participle)
 $\quad$ **2a)**(Qal) to set up standard (in battle)
 $\quad$ **2b)** (Niphal) supplied with banners, bannered
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τάσσω</span><sup><small>[[G5021]]</small></sup>
+<small>See Greek: </small>**<big>[[G5021|τάσσω]]</big>**

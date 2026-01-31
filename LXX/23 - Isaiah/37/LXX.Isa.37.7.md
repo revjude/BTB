@@ -7,27 +7,27 @@ Behold, I will send a blast upon him, and he shall hear a rumour, and return to 
 Behold, I will put a spirit in him so that he will hear a rumor and return to his own land, where I will cause him to fall by the sword.’”<small><sub>**MT:**</sub></small>
 [[Isa.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.6|<< Isaiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.8|Isaiah 37:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall put | <big><span class="asgreek">εμβαλώ</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a spirit, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| a message | <big><span class="asgreek">αγγελίαν</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| he shall return | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place, | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \[by the\] sword | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall put | **<big>[[G1685\|εμβαλώ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| a spirit, | **<big>[[G4151\|πνεύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hearing | **<big>[[G0191\|ακούσας]]</big>** |
+| a message | **<big>[[G0031\|αγγελίαν]]</big>** |
+| he shall return | **<big>[[G0654\|αποστρέψει]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his place, | **<big>[[G5561\|χώραν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall fall | **<big>[[G4098\|πεσείται]]</big>** |
+| \[by the\] sword | **<big>[[G3162\|μαχαίρα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his land. | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.6|<< Isaiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.8|Isaiah 37:8 >>]]</td></tr></table>
 
 

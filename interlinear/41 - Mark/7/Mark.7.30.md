@@ -6,31 +6,31 @@ And she went home and found her child lying on the bed, and the demon was gone.
 <small><sub>**Literal:**</sub></small>
 And having gone away to the home of her she found the child laid on the bed and the demon having left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.29|<< Mark 7:29]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.31|Mark 7:31 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having gone away |<big><span class="asgreek">ἀπελθοῦσα</span></big> <small><small><sup>[[G0565]]</sup></small></small> |apelthousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| home |<big><span class="asgreek">οἶκον</span></big> <small><small><sup>[[G3624G]]</sup></small></small> |oikon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of her |<big><span class="asgreek">αὐτῆς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| she found |<big><span class="asgreek">εὗρεν</span></big> <small><small><sup>[[G2147]]</sup></small></small> |heuren <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> [^1] |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28«9+NA27«9+Tyn«9+SBL«9+WH«9+Treg«9+TR«9+Byz«9">NKO</abbr> | |
-| child [^2] [^3] |<big><span class="asgreek">παιδίον</span></big> <small><small><sup>[[G3813]]</sup></small></small> |paidion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| laid [^4] |<big><span class="asgreek">βεβλημένον</span></big> <small><small><sup>[[G0906H]]</sup></small></small> |beblēmenon <small><sup>[[V-RPP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| on |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»6+Byz»6">NKO</abbr> | |
-| the [^5] |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| bed [^6] |<big><span class="asgreek">κλίνην</span></big> <small><small><sup>[[G2825]]</sup></small></small> [^7] |klinēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»4+Byz»4">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| demon |<big><span class="asgreek">δαιμόνιον</span></big> <small><small><sup>[[G1140]]</sup></small></small> |daimonion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having left. |<big><span class="asgreek">ἐξεληλυθός.¶</span></big> <small><small><sup>[[G1831]]</sup></small></small> |exelēluthos <small><sup>[[V-2RAP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having gone away |**<big>[[G0565\|ἀπελθοῦσα]]</big>**  |apelthousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| home |**<big>[[G3624G\|οἶκον]]</big>**  |oikon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of her |**<big>[[G0846\|αὐτῆς]]</big>**  |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| she found |**<big>[[G2147\|εὗρεν]]</big>**  |heuren <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸ]]</big>**  [^1] |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28«9+NA27«9+Tyn«9+SBL«9+WH«9+Treg«9+TR«9+Byz«9">NKO</abbr> | |
+| child [^2] [^3] |**<big>[[G3813\|παιδίον]]</big>**  |paidion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| laid [^4] |**<big>[[G0906H\|βεβλημένον]]</big>**  |beblēmenon <small><sup>[[V-RPP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| on |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»6+Byz»6">NKO</abbr> | |
+| the [^5] |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| bed [^6] |**<big>[[G2825\|κλίνην]]</big>**  [^7] |klinēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»4+Byz»4">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| demon |**<big>[[G1140\|δαιμόνιον]]</big>**  |daimonion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having left. |**<big>[[G1831\|ἐξεληλυθός.¶]]</big>**  |exelēluthos <small><sup>[[V-2RAP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.29|<< Mark 7:29]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.31|Mark 7:31 >>]]</td></tr></table>
 
-[^1]: ==TR«9+Byz«9== spelled: <span class='asgreek'>**τὴν**</span>
-[^2]: Variant:  <span class='asgreek'>**θυγατέρα**</span>  (<i>thugatera</i>) 'daughter' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**παιδίον**</span>  (<i>paidion</i>) 'child' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^3]: ==TR»8+Byz»8==: daughter | <span class="asgreek">θυγατέρα</span><small><sup>[[G2364]]</sup></small> | thugatera<small><sup>[[N-ASF]]</sup></small>
-[^4]: ==TR»7+Byz»7==: laid | <span class="asgreek">βεβλημένην</span><small><sup>[[G0906]]</sup></small> | beblēmenēn<small><sup>[[V-RPP-ASF]]</sup></small>
-[^5]: ==TR»5+Byz»5==: the | <span class="asgreek">τῆς</span><small><sup>[[G3588]]</sup></small> | tēs<small><sup>[[T-GSF]]</sup></small>
-[^6]: ==TR»4+Byz»4==: bed | <span class="asgreek">κλίνης</span><small><sup>[[G2825]]</sup></small> | klinēs<small><sup>[[N-GSF]]</sup></small>
-[^7]: ==Tyn== spelled: <span class='asgreek'>**κλείνην**</span>
+[^1]: ==TR«9+Byz«9== spelled: **<big><span class='asgreek'>τὴν</span></big>**
+[^2]: Variant:  **<big><span class='asgreek'>θυγατέρα</span></big>**  (<i>thugatera</i>) 'daughter' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>παιδίον</span></big>**  (<i>paidion</i>) 'child' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^3]: ==TR»8+Byz»8==: daughter | **<big>[[G2364|θυγατέρα]]</big>** | thugatera<small><sup>[[N-ASF]]</sup></small>
+[^4]: ==TR»7+Byz»7==: laid | **<big>[[G0906|βεβλημένην]]</big>** | beblēmenēn<small><sup>[[V-RPP-ASF]]</sup></small>
+[^5]: ==TR»5+Byz»5==: the | **<big>[[G3588|τῆς]]</big>** | tēs<small><sup>[[T-GSF]]</sup></small>
+[^6]: ==TR»4+Byz»4==: bed | **<big>[[G2825|κλίνης]]</big>** | klinēs<small><sup>[[N-GSF]]</sup></small>
+[^7]: ==Tyn== spelled: **<big><span class='asgreek'>κλείνην</span></big>**

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎קְנָא‎</span> <small>***(qe.na)***</small> ==**to buy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H7069]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7069|קָנָה]]</big>**</small> 
 
-- Aramaic of <i>qa.nah</i> (<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "to buy" [[H7069]])
+- Aramaic of <i>qa.nah</i> (<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "to buy" **<big>[[H7069|קָנָה]]</big>**)

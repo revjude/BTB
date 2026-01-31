@@ -10,14 +10,14 @@ I believed, therefore I said, “I am greatly afflicted.”
 > $\quad$ referenced by: [[2Cor.4.13|2Cor 4:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I believed  | <span class="ashebrew"><big>הֶ֭אֱמַנְתִּי </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| He.'e.man.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I said  | <span class="ashebrew"><big>אֲדַבֵּ֑ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| 'a.da.Ber <small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲ֝נִ֗י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am afflicted  | <span class="ashebrew"><big>עָנִ֥יתִי </big></span><small><small><sup>[[H6031B]]</sup></small></small> &#8207;| 'a.Ni.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹֽד </big></span><small><small><sup>[[H3966]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I believed  |**<big>&#8207;[[H0539\|הֶ֭אֱמַנְתִּי]]&#8207; </big>**| He.'e.man.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  |**<big>&#8207;[[H1696G\|אֲדַבֵּ֑ר]]&#8207; </big>**| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲ֝נִ֗י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am afflicted  |**<big>&#8207;[[H6031B\|עָנִ֥יתִי]]&#8207; </big>**| 'a.Ni.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.9|<< Psalms 116:9]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.11|Psalms 116:11 >>]]</td></tr></table>
 
 

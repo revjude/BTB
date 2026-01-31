@@ -7,52 +7,52 @@ And she said, [As] the LORD thy God liveth, I have not a cake, but an handful of
 But she replied, “As surely as the LORD your God lives, I have no bread—only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks to take home and prepare a meal for myself and my son, so that we may eat it and die.”<small><sub>**MT:**</sub></small>
 [[1Kgs.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.11|<< 1 Kings 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.13|1 Kings 17:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a cake baked in hot ashes -- \[good\]? | <big><span class="asgreek">εγκρυφίας</span></big> <sup><small><small>[[G7030]]</small></small></sup> |
-| but \[I have\] only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| a handful | <big><span class="asgreek">δράξ</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
-| of flour | <big><span class="asgreek">αλεύρου</span></big> <sup><small><small>[[G0224]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pitcher, | <big><span class="asgreek">υδρία</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| jar. | <big><span class="asgreek">καψάκη</span></big> <sup><small><small>[[G7987]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall collected together | <big><span class="asgreek">συλλέξω</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sticks, | <big><span class="asgreek">ξυλάρια</span></big> <sup><small><small>[[G8427]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall enter | <big><span class="asgreek">εισελεύσομαι</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for myself | <big><span class="asgreek">εμαυτή</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my children, | <big><span class="asgreek">τέκνοις</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall eat | <big><span class="asgreek">φαγόμεθα</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| die. | <big><span class="asgreek">αποθανούμεθα</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| lives | **<big>[[G2198\|ζη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a cake baked in hot ashes -- \[good\]? | **<big>[[G7030\|εγκρυφίας]]</big>** |
+| but \[I have\] only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| as much as | **<big>[[G3745\|όσον]]</big>** |
+| a handful | **<big>[[G6968\|δράξ]]</big>** |
+| of flour | **<big>[[G0224\|αλεύρου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| pitcher, | **<big>[[G5201\|υδρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a little | **<big>[[G3641\|ολίγον]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| jar. | **<big>[[G7987\|καψάκη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall collected together | **<big>[[G4816\|συλλέξω]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sticks, | **<big>[[G8427\|ξυλάρια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall enter | **<big>[[G1525\|εισελεύσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G4160\|ποιήσω]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| for myself | **<big>[[G1683\|εμαυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my children, | **<big>[[G5043\|τέκνοις]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall eat | **<big>[[G2068\|φαγόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| die. | **<big>[[G0599\|αποθανούμεθα]]</big>** |
 [[1Kgs.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.11|<< 1 Kings 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.13|1 Kings 17:13 >>]]</td></tr></table>
 
 

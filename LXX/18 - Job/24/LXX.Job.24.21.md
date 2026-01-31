@@ -7,16 +7,16 @@ He evil entreateth the barren [that] beareth not: and doeth not good to the wido
 They prey on the barren and childless, and show no kindness to the widow.<small><sub>**MT:**</sub></small>
 [[Job.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.20|<< Job 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.22|Job 24:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] sterile woman | <big><span class="asgreek">στείραν</span></big> <sup><small><small>[[G4723]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| well | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| do | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[on the\] helpless woman | <big><span class="asgreek">γύναιον</span></big> <sup><small><small>[[G6775]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show mercy. | <big><span class="asgreek">ηλέησε</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| For \[the\] sterile woman | **<big>[[G4723\|στείραν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| well | **<big>[[G2095\|ευ]]</big>** |
+| do | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[on the\] helpless woman | **<big>[[G6775\|γύναιον]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| show mercy. | **<big>[[G1653\|ηλέησε]]</big>** |
 [[Job.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.20|<< Job 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.22|Job 24:22 >>]]</td></tr></table>
 
 

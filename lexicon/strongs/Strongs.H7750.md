@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׂוּט‎</span></big> **sûwṭ** <small>*(soot)*</small> ==**to swerve**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or (by permutation) <span class="ashebrew">סוּט</span> **çûwṭ** <small>*(soot)*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎שׂוּט‎</span></big>** **sûwṭ** <small>*(soot)*</small> ==**to swerve**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or (by permutation) **<big><span class="ashebrew">סוּט</span></big>** **çûwṭ** <small>*(soot)*</small>; a primitive root</small>
 
 $\quad$ turn aside to.
 - ***to detrude***, i.e. (intransitively and figuratively) ***become derelict*** (wrongly practise

@@ -6,14 +6,14 @@ For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.0|<< Psalms 60:0]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.2|Psalms 60:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O God  | <span class="ashebrew"><big>אֱ֭לֹהִים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have rejected us  | <span class="ashebrew"><big>זְנַחְתָּ֣ </big></span><small><small><sup>[[H2186A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| ze.nach.Ta. <small><sup>[[HVqp2ms]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have broken out against us  | <span class="ashebrew"><big>פְרַצְתָּ֑ </big></span><small><small><sup>[[H6555]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| fe.ratz.Ta. <small><sup>[[HVqp2ms]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have been angry  | <span class="ashebrew"><big>אָ֝נַ֗פְתָּ </big></span><small><small><sup>[[H0599]]</sup></small></small> &#8207;| 'a.Naf.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will restore  | <span class="ashebrew"><big>תְּשׁ֣וֹבֵ֥ב </big></span><small><small><sup>[[H7725H]]</sup></small></small> &#8207;| te.Sho.Vev <small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> us  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have rejected us  |**<big>&#8207;[[H2186A\|זְנַחְתָּ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ze.nach.Ta.<small><sup>[[HVqp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have broken out against us  |**<big>&#8207;[[H6555\|פְרַצְתָּ֑]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| fe.ratz.Ta.<small><sup>[[HVqp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have been angry  |**<big>&#8207;[[H0599\|אָ֝נַ֗פְתָּ]]&#8207; </big>**| 'a.Naf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will restore  |**<big>&#8207;[[H7725H\|תְּשׁ֣וֹבֵ֥ב]]&#8207; </big>**| te.Sho.Vev<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> us  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.0|<< Psalms 60:0]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.2|Psalms 60:2 >>]]</td></tr></table>
 
 

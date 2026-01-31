@@ -7,29 +7,29 @@ Then went I up in the night by the brook, and viewed the wall, and turned back, 
 so I went up the valley by night and inspected the wall. Then I headed back and reentered through the Valley Gate.<small><sub>**MT:**</sub></small>
 [[Neh.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.14|<< Nehemiah 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.16|Nehemiah 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβαίνων</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| at night. | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| studying | <big><span class="asgreek">κατανοών</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχει</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine, | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I returned. | <big><span class="asgreek">επέστρεψα</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| ascending | **<big>[[G0305\|αναβαίνων]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| at night. | **<big>[[G3571\|νυκτός]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| studying | **<big>[[G2657\|κατανοών]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| wall, | **<big>[[G5038\|τείχει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ravine, | **<big>[[G5327\|φάραγγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I returned. | **<big>[[G1994\|επέστρεψα]]</big>** |
 [[Neh.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.14|<< Nehemiah 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.16|Nehemiah 2:16 >>]]</td></tr></table>
 
 

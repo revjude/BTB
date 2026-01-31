@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אִם‎</span> <small>***(im)***</small> ==**if: until**==  <sup><small>[[TEHMC#H:Cond|H:Cond]]</small></sup> 
-meaning of: <small>[[H0518A]]</small> 
+<small>meaning of:</small> <small>**<big>[[H0518A|אִם]]</big>**</small> 
 
 - : until/except

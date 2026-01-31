@@ -1,4 +1,4 @@
-<small>Also see: [[H6664]] | [[H4428]]</small>
+<small>Also see: **<big>[[H6664|צֶדֶק]]</big>** | **<big>[[H4428|מֶלֶךְ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַלְכִּיצֶֿ֫דֶק‎</span> **proper name, masculine** ==king of== <span class="bdbLangHebrew">‎שָׁלֵם‎</span> (q. v.), (***my king is <abbr title="transliteration"><u>‚ede‡</u></abbr>***) — [[Gen.14.18|Gen 14:18]]. [[Ps.110.4|Ps 110:4]]. [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Μελχισεδεκ</span>. 
 

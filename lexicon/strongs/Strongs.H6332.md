@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פּוּר‎</span></big> **Pûwr** <small>*(poor)*</small> ==**Purim**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>also (plural) <span class="ashebrew">פּוּרִים</span> **Pûwrîym** <small>*(poo-reem')*</small>; or <span class="ashebrew">פֻּרִים</span> **Purîym** <small>*(poo-reem')*</small>; from <span class="ashebrew">‎פּוּר‎</span><sup><small>[[H6331]]</small></sup></small>
+**<big><span class="ashebrew">‎פּוּר‎</span></big>** **Pûwr** <small>*(poor)*</small> ==**Purim**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>also (plural) **<big><span class="ashebrew">פּוּרִים</span></big>** **Pûwrîym** <small>*(poo-reem')*</small>; or **<big><span class="ashebrew">פֻּרִים</span></big>** **Purîym** <small>*(poo-reem')*</small>; from **<big>[[H6331|‎פּוּר‎]]</big>**</small>
 
 $\quad$ Pur, Purim.
 - § Pur or Purim = *"lot" or "piece"*

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּנַף‎</span></big> **kânaph** <small>*(kaw-naf')*</small> ==**to corner**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּנַף‎</span></big>** **kânaph** <small>*(kaw-naf')*</small> ==**to corner**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be removed.

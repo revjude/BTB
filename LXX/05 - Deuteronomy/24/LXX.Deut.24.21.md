@@ -7,26 +7,26 @@ When thou gatherest the grapes of thy vineyard, thou shalt not glean [it] afterw
 When you gather the grapes of your vineyard, you must not go over the vines again. What remains will be for the foreigner, the fatherless, and the widow.<small><sub>**MT:**</sub></small>
 [[Deut.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.20|<< Deuteronomy 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.22|Deuteronomy 24:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And whenever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should gather the vintage | <big><span class="asgreek">τρυγήσης</span></big> <sup><small><small>[[G5166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your vineyard, | <big><span class="asgreek">αμπελώνά</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| glean | <big><span class="asgreek">επανατρυγήσεις</span></big> <sup><small><small>[[G7363]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">προσηλύτω</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| orphan | <big><span class="asgreek">ορφανώ</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| widow | <big><span class="asgreek">χήρα</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And whenever | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should gather the vintage | **<big>[[G5166\|τρυγήσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of your vineyard, | **<big>[[G0290\|αμπελώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| glean | **<big>[[G7363\|επανατρυγήσεις]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| foreigner | **<big>[[G4339\|προσηλύτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| orphan | **<big>[[G3737\|ορφανώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| widow | **<big>[[G5503\|χήρα]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
 [[Deut.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.20|<< Deuteronomy 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.22|Deuteronomy 24:22 >>]]</td></tr></table>
 
 

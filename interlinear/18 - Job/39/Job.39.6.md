@@ -6,14 +6,14 @@ I made the wilderness his home and the salt flats his dwelling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.5|<< Job 39:5]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.7|Job 39:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I appointed  | <span class="ashebrew"><big>שַׂ֣מְתִּי </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| Sam.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] desert plain  | <span class="ashebrew"><big>עֲרָבָ֣ה </big></span><small><small><sup>[[H6160L]]</sup></small></small> &#8207;| 'a.ra.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| home its  | <span class="ashebrew"><big>בֵית֑ </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| vei.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and dwelling-places its  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁכְּנוֹתָ֥י </big></span><small><small><sup>[[H4908]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.ke.no.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] saltiness  | <span class="ashebrew"><big>מְלֵֽחָה </big></span><small><small><sup>[[H4420]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.Le.chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I appointed  |**<big>&#8207;[[H7760H\|שַׂ֣מְתִּי]]&#8207; </big>**| Sam.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] desert plain  |**<big>&#8207;[[H6160L\|עֲרָבָ֣ה]]&#8207; </big>**| 'a.ra.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| home its  |**<big>&#8207;[[H1004B\|בֵית֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| vei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and dwelling-places its  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H4908\|מִשְׁכְּנוֹתָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.ke.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] saltiness  |**<big>&#8207;[[H4420\|מְלֵֽחָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.Le.chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.5|<< Job 39:5]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.7|Job 39:7 >>]]</td></tr></table>
 
 

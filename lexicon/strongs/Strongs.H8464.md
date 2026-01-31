@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחְמָס‎</span></big> **tachmâç** <small>*(takh-mawce')*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָמַס‎</span><sup><small>[[H2554]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחְמָס‎</span></big>** **tachmâç** <small>*(takh-mawce')*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2554|‎חָמַס‎]]</big>**</small>
 
 $\quad$ night hawk.
 - ***a species of unclean bird*** (from its violence), perhaps ***an owl***

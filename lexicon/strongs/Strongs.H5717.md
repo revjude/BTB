@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲדִיאֵל‎</span></big> **ʻĂdîyʼêl** <small>*(ad-ee-ale')*</small> ==**Adiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עֲדִי‎</span><sup><small>[[H5716]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; ornament of God</small>
+**<big><span class="ashebrew">‎עֲדִיאֵל‎</span></big>** **ʻĂdîyʼêl** <small>*(ad-ee-ale')*</small> ==**Adiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5716|‎עֲדִי‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; ornament of God</small>
 
 $\quad$ Adiel.
 - § Adiel = *"ornament of God"*

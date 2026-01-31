@@ -6,24 +6,24 @@ Depart in shameful nakedness, O dwellers of Shaphir. The dwellers of Zaanan will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.10|<< Micah 1:10]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.12|Micah 1:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| pass on  | <span class="ashebrew"><big>עִבְרִ֥י </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'iv.Ri <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> yourselves  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֛ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O inhabitant[s] of  | <span class="ashebrew"><big>יוֹשֶׁ֥בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.She.vet <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shaphir  | <span class="ashebrew"><big>שָׁפִ֖יר </big></span><small><small><sup>[[H8208]]</sup></small></small> &#8207;| sha.Fir <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nakedness  | <span class="ashebrew"><big>עֶרְיָה </big></span><small><small><sup>[[H6181]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'er.yah- <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shame  | <span class="ashebrew"><big>בֹ֑שֶׁת </big></span><small><small><sup>[[H1322]]</sup></small></small> &#8207;| Vo.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she came forth  | <span class="ashebrew"><big>יָֽצְאָה֙ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.tze.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] inhabitant[s] of  | <span class="ashebrew"><big>יוֹשֶׁ֣בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.She.vet <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zaanan  | <span class="ashebrew"><big>צַֽאֲנָ֔ן </big></span><small><small><sup>[[H6630]]</sup></small></small> &#8207;| tza.'a.Nan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] lament of  | <span class="ashebrew"><big>מִסְפַּד֙ </big></span><small><small><sup>[[H4553]]</sup></small></small> &#8207;| mis.Pad <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1018]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ezel  | <span class="ashebrew"><big>הָאֵ֔צֶל </big></span><small><small><sup>[[H1018]]</sup></small></small> &#8207;| ha.'E.tzel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will take  | <span class="ashebrew"><big>יִקַּ֥ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| yi.Kach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from you  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֶּ֖ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| standing ground its  | <span class="ashebrew"><big>עֶמְדָּתֽ </big></span><small><small><sup>[[H5979]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| em.da.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pass on  |**<big>&#8207;[[H5674A\|עִבְרִ֥י]]&#8207; </big>**| 'iv.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O inhabitant[s] of  |**<big>&#8207;[[H3427\|יוֹשֶׁ֥בֶת]]&#8207; </big>**| yo.She.vet<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shaphir  |**<big>&#8207;[[H8208\|שָׁפִ֖יר]]&#8207; </big>**| sha.Fir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nakedness  |**<big>&#8207;[[H6181\|עֶרְיָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'er.yah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shame  |**<big>&#8207;[[H1322\|בֹ֑שֶׁת]]&#8207; </big>**| Vo.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she came forth  |**<big>&#8207;[[H3318G\|יָֽצְאָה֙]]&#8207; </big>**| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitant[s] of  |**<big>&#8207;[[H3427\|יוֹשֶׁ֣בֶת]]&#8207; </big>**| yo.She.vet<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zaanan  |**<big>&#8207;[[H6630\|צַֽאֲנָ֔ן]]&#8207; </big>**| tza.'a.Nan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lament of  |**<big>&#8207;[[H4553\|מִסְפַּד֙]]&#8207; </big>**| mis.Pad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1018\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ezel  |**<big>&#8207;[[H1018\|הָאֵ֔צֶל]]&#8207; </big>**| ha.'E.tzel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will take  |**<big>&#8207;[[H3947G\|יִקַּ֥ח]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֖ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| standing ground its  |**<big>&#8207;[[H5979\|עֶמְדָּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| em.da.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.10|<< Micah 1:10]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.12|Micah 1:12 >>]]</td></tr></table>
 
 

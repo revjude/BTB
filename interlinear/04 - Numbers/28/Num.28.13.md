@@ -6,21 +6,21 @@ and a tenth of an ephah of fine flour mixed with oil as a grain offering with ea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.12|<< Numbers 28:12]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.14|Numbers 28:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a tenth [of an ephah]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עִשָּׂרֹ֣ן </big></span><small><small><sup>[[H6241]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'i.sa.Ron <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tenth [of an ephah]  | <span class="ashebrew"><big>עִשָּׂר֗וֹן </big></span><small><small><sup>[[H6241]]</sup></small></small> &#8207;| i.sa.Ron <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fine flour  | <span class="ashebrew"><big>סֹ֤לֶת </big></span><small><small><sup>[[H5560]]</sup></small></small> &#8207;| So.let <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a grain offering  | <span class="ashebrew"><big>מִנְחָה֙ </big></span><small><small><sup>[[H4503G]]</sup></small></small> &#8207;| min.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mixed  | <span class="ashebrew"><big>בְּלוּלָ֣ה </big></span><small><small><sup>[[H1101A]]</sup></small></small> &#8207;| be.lu.Lah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> oil  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֔מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> She.men <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the lamb  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶּ֖בֶשׂ </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Ke.ves <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> one  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶחָ֑ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a burnt offering  | <span class="ashebrew"><big>עֹלָה֙ </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| 'o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an odor of  | <span class="ashebrew"><big>רֵ֣יחַ </big></span><small><small><sup>[[H7381]]</sup></small></small> &#8207;| Rei.ach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| soothing  | <span class="ashebrew"><big>נִיחֹ֔חַ </big></span><small><small><sup>[[H5207]]</sup></small></small> &#8207;| ni.Cho.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire offering  | <span class="ashebrew"><big>אִשֶּׁ֖ה </big></span><small><small><sup>[[H0801]]</sup></small></small> &#8207;| 'i.Sheh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a tenth [of an ephah]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6241\|עִשָּׂרֹ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.sa.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tenth [of an ephah]  |**<big>&#8207;[[H6241\|עִשָּׂר֗וֹן]]&#8207; </big>**| i.sa.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  |**<big>&#8207;[[H5560\|סֹ֤לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a grain offering  |**<big>&#8207;[[H4503G\|מִנְחָה֙]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mixed  |**<big>&#8207;[[H1101A\|בְּלוּלָ֣ה]]&#8207; </big>**| be.lu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> oil  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8081\|שֶּׁ֔מֶן]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the lamb  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3532\|כֶּ֖בֶשׂ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ke.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָ֑ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָה֙]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an odor of  |**<big>&#8207;[[H7381\|רֵ֣יחַ]]&#8207; </big>**| Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soothing  |**<big>&#8207;[[H5207\|נִיחֹ֔חַ]]&#8207; </big>**| ni.Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire offering  |**<big>&#8207;[[H0801\|אִשֶּׁ֖ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.12|<< Numbers 28:12]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.14|Numbers 28:14 >>]]</td></tr></table>
 
 

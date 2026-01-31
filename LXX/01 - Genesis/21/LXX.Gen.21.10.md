@@ -11,30 +11,30 @@ and she said to Abraham, “Expel the slave woman and her son, for the slave wom
 > $\quad$ referenced by: [[Gal.4.30|Gal 4:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| You cast out | <big><span class="asgreek">έκβαλε</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this maidservant | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be heir | <big><span class="asgreek">κληρονομήσει</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| maidservant | <big><span class="asgreek">παιδίσκης</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Isaac. | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| You cast out | **<big>[[G1544\|έκβαλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this maidservant | **<big>[[G3814\|παιδίσκην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her son, | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+|  | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| shall not | **<big>[[G3361\|μη]]</big>** |
+| be heir | **<big>[[G2816\|κληρονομήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| maidservant | **<big>[[G3814\|παιδίσκης]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my son | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Isaac. | **<big>[[G2464\|Ισαάκ]]</big>** |
 [[Gen.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.9|<< Genesis 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.11|Genesis 21:11 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Hall of Judgment • A hall in Solomon's palace where he administered justice.*</small>
 
 The <span class='tipnrhighlight'>Hall of Judgment</span> was a hall in Solomon's palace where he sat to judge and administer justice \(1 Kings 7:7\).
-- A location in Jerusalem<[[H3389]]> only mentioned at 1Ki.7.7; 
-- only referred to as Hall\_of\_Judgment<[[H0197H]]><[[H0197H]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ט</span> <span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at 1Ki.7.7; 
+- only referred to as Hall\_of\_Judgment **<big>[[H0197|אוּלָם]]</big>** **<big>[[H0197|אוּלָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Hall of Judgment was a significant room in King Solomon's palace complex. It
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hall/ of Judgment (KJV= porch for the throne) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ט</span>](H4941K)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197H) <small>*Hebrew*</small> | 1x | [1Ki.7.7a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.7) |
-All Strong's for **Hall_of_Judgment**: \[[[H4941K]]\] \[[[H0197H]]\]
+| Hall/ of Judgment (KJV= porch for the throne) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ט</span>](H4941K)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197H) | 1x | [1Ki.7.7a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.7) |
+All entries for **Hall of Judgment**:  **<big>[[H4941|מִשְׁפָּט]]</big>** ☩  **<big>[[H0197|אוּלָם]]</big>**

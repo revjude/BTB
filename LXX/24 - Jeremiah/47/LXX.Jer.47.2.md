@@ -7,45 +7,45 @@ Thus saith the LORD; Behold, waters rise up out of the north, and shall be an ov
 This is what the LORD says: “See how the waters are rising from the north and becoming an overflowing torrent. They will overflow the land and its fullness, the cities and their inhabitants. The people will cry out, and all who dwell in the land will wail<small><sub>**MT:**</sub></small>
 [[Jer.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβαίνει</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a rushing stream, | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| flooding. | <big><span class="asgreek">κατακλύζοντα</span></big> <sup><small><small>[[G2626]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall flood | <big><span class="asgreek">κατακλύσει</span></big> <sup><small><small>[[G2626]]</small></small></sup> |
-| \[the\] land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fullness | <big><span class="asgreek">πλήρωμα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cry out | <big><span class="asgreek">κεκράξονται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall shout | <big><span class="asgreek">αλαλάξουσιν</span></big> <sup><small><small>[[G0214]]</small></small></sup> |
-| all together | <big><span class="asgreek">άπαντες</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| \[the\] ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
+| ascend | **<big>[[G0305\|αναβαίνει]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a rushing stream, | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| flooding. | **<big>[[G2626\|κατακλύζοντα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall flood | **<big>[[G2626\|κατακλύσει]]</big>** |
+| \[the\] land, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fullness | **<big>[[G4138\|πλήρωμα]]</big>** |
+| of it; | **<big>[[G1473\|αυτής]]</big>** |
+| \[the\] city | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall cry out | **<big>[[G2896\|κεκράξονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall shout | **<big>[[G0214\|αλαλάξουσιν]]</big>** |
+| all together | **<big>[[G0537\|άπαντες]]</big>** |
+| \[the\] ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
 [[Jer.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 
 

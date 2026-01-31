@@ -12,7 +12,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.26.6|6]]**<span class="e
 
 ***Judas Agrees to Betray Jesus***&emsp;<small><sup>\[ [[Mark.14|Mark 14:10–11]] <big>†</big> [[Luke.22|Luke 22:3–6]] ]</sup></small> ^bsb2226
 
- <span class="startversemarker">[</span>**[[Matt.26.14|14]]**<span class="endversemarker">]</span> <milestone<small><small>[^27]</small></small> marker="¶" type="x-p"/>Then one of the twelve, called Judas<small><small>[^28]</small></small> Iscariot, went unto the chief priests, <span class="startversemarker">[</span>**[[Matt.26.15|15]]**<span class="endversemarker">]</span> And said \[unto them\], What<small><small>[^29]</small></small> will ye give me, and I will deliver him unto you? And they covenanted with him for thirty<small><small>[^30]</small></small> pieces of silver. <span class="startversemarker">[</span>**[[Matt.26.16|16]]**<span class="endversemarker">]</span> And from that time he<small><small>[^31]</small></small> sought opportunity to betray him.
+ 
+
+$\quad$ <span class="startversemarker">[</span>**[[Matt.26.14|14]]**<span class="endversemarker">]</span> Then one<small><small>[^27]</small></small> of the twelve, called Judas<small><small>[^28]</small></small> Iscariot, went unto the chief priests, <span class="startversemarker">[</span>**[[Matt.26.15|15]]**<span class="endversemarker">]</span> And said \[unto them\], What<small><small>[^29]</small></small> will ye give me, and I will deliver him unto you? And they covenanted with him for thirty<small><small>[^30]</small></small> pieces of silver. <span class="startversemarker">[</span>**[[Matt.26.16|16]]**<span class="endversemarker">]</span> And from that time he<small><small>[^31]</small></small> sought opportunity to betray him.
 
 ***Preparing the Passover***&emsp;<small><sup>\[ [[Mark.14|Mark 14:12–16]] <big>†</big> [[Luke.22|Luke 22:7–13]] ]</sup></small> ^bsb2227
 

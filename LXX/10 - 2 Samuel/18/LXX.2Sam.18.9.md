@@ -7,54 +7,54 @@ And Absalom met the servants of David. And Absalom rode upon a mule, and the mul
 Now Absalom was riding on his mule when he met the servants of David, and as the mule went under the thick branches of a large oak, Absalom’s head was caught fast in the tree. The mule under him kept going, so that he was suspended in midair.<small><sub>**MT:**</sub></small>
 [[2Sam.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.8|<< 2 Samuel 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.10|2 Samuel 18:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom met | <big><span class="asgreek">συνήντησεν</span></big> <sup><small><small>[[G4876]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| mounted | <big><span class="asgreek">επιβεβηκώς</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mule, | <big><span class="asgreek">ημιόνου</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was entering | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mule | <big><span class="asgreek">ημίονος</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thicket | <big><span class="asgreek">δάσος</span></big> <sup><small><small>[[G6782]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oak | <big><span class="asgreek">δρυός</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was twisted | <big><span class="asgreek">περιεπλάκη</span></big> <sup><small><small>[[G8746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oak, | <big><span class="asgreek">δρυϊ</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hung | <big><span class="asgreek">εκρεμάσθη</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mule | <big><span class="asgreek">ημίονος</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went on. | <big><span class="asgreek">παρήλθε</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom met | **<big>[[G4876\|συνήντησεν]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G3816\|παίδων]]</big>** |
+| of David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| mounted | **<big>[[G1910\|επιβεβηκώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mule, | **<big>[[G7629\|ημιόνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was entering | **<big>[[G1525\|εισήλθεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| mule | **<big>[[G7629\|ημίονος]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thicket | **<big>[[G6782\|δάσος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| oak | **<big>[[G6972\|δρυός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| great | **<big>[[G3173\|μεγάλης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was twisted | **<big>[[G8746\|περιεπλάκη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his head | **<big>[[G2776\|κεφαλή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| oak, | **<big>[[G6972\|δρυϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he hung | **<big>[[G2910\|εκρεμάσθη]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| mule | **<big>[[G7629\|ημίονος]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| went on. | **<big>[[G3928\|παρήλθε]]</big>** |
 [[2Sam.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.8|<< 2 Samuel 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.10|2 Samuel 18:10 >>]]</td></tr></table>
 
 

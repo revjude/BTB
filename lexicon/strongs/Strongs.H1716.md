@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּגַר‎</span></big> **dâgar** <small>*(daw-gar')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּגַר‎</span></big>** **dâgar** <small>*(daw-gar')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root,</small>
 
 $\quad$ gather, sit.
@@ -6,4 +6,4 @@ $\quad$ gather, sit.
 
 **1)** (Qal) to gather together as a brood
 
-<sub><small>See Greek: </small></sub><span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup>
+<small>See Greek: </small>**<big>[[G4863|συνάγω]]</big>**

@@ -7,34 +7,34 @@ And it came to pass, when David was come to Mahanaim, that Shobi the son of Naha
 When David came to Mahanaim, he was met by Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim.<small><sub>**MT:**</sub></small>
 [[2Sam.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.26|<< 2 Samuel 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.28|2 Samuel 17:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| David entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mahanaim, | <big><span class="asgreek">Μαναϊμ</span></big> <sup><small><small>[[H4266]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shobi | <big><span class="asgreek">Σοβί</span></big> <sup><small><small>[[H7629]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nahash, | <big><span class="asgreek">Νάας</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Rabbah | <big><span class="asgreek">Ραβάθ</span></big> <sup><small><small>[[H7237]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Machir | <big><span class="asgreek">Μαχίρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammiel | <big><span class="asgreek">Αμιήλ</span></big> <sup><small><small>[[H5988]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Lo-debar, | <big><span class="asgreek">Λωδαβάρ</span></big> <sup><small><small>[[H3810]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Barzillai | <big><span class="asgreek">Βερζελαϊ</span></big> <sup><small><small>[[H1271]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gileadite | <big><span class="asgreek">Γαλααδίτης</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Rogelim, | <big><span class="asgreek">Ρογελίμ</span></big> <sup><small><small>[[H7274]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| David entered | **<big>[[G1525\|εισήλθε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Mahanaim, | **<big>[[H4266\|Μαναϊμ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| Shobi | **<big>[[H7629\|Σοβί]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Nahash, | **<big>[[H5176\|Νάας]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Rabbah | **<big>[[H7237\|Ραβάθ]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Machir | **<big>[[H4353\|Μαχίρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ammiel | **<big>[[H5988\|Αμιήλ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Lo-debar, | **<big>[[H3810\|Λωδαβάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Barzillai | **<big>[[H1271\|Βερζελαϊ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Gileadite | **<big>[[H1568\|Γαλααδίτης]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Rogelim, | **<big>[[H7274\|Ρογελίμ]]</big>** |
 [[2Sam.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.26|<< 2 Samuel 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.28|2 Samuel 17:28 >>]]</td></tr></table>
 
 

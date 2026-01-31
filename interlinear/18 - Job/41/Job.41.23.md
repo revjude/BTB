@@ -6,15 +6,15 @@ The folds of his flesh are tightly joined; they are firm and immovable.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.22|<< Job 41:22]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.24|Job 41:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] hanging parts of  | <span class="ashebrew"><big>מַפְּלֵ֣י </big></span><small><small><sup>[[H4651]]</sup></small></small> &#8207;| ma.pe.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flesh its  | <span class="ashebrew"><big>בְשָׂר֣ </big></span><small><small><sup>[[H1320]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve.sa.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they cling  | <span class="ashebrew"><big>דָבֵ֑קוּ </big></span><small><small><sup>[[H1692]]</sup></small></small> &#8207;| da.Ve.ku <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hard  | <span class="ashebrew"><big>יָצ֥וּק </big></span><small><small><sup>[[H3332H]]</sup></small></small> &#8207;| ya.Tzuk <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to it  | <span class="ashebrew"><big>עָ֝לָ֗י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HRd]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בַּל </big></span><small><small><sup>[[H1077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bal- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is moved  | <span class="ashebrew"><big>יִמּֽוֹט </big></span><small><small><sup>[[H4131]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.Mot <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hanging parts of  |**<big>&#8207;[[H4651\|מַפְּלֵ֣י]]&#8207; </big>**| ma.pe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh its  |**<big>&#8207;[[H1320\|בְשָׂר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cling  |**<big>&#8207;[[H1692\|דָבֵ֑קוּ]]&#8207; </big>**| da.Ve.ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hard  |**<big>&#8207;[[H3332H\|יָצ֥וּק]]&#8207; </big>**| ya.Tzuk<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  |**<big>&#8207;[[H5921A\|עָ֝לָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1077\|בַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is moved  |**<big>&#8207;[[H4131\|יִמּֽוֹט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Mot<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.22|<< Job 41:22]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.24|Job 41:24 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Atharim • A place where the Canaanite king of Arad fought Israel.*</small>
 
 <span class='tipnrhighlight'>Atharim</span>, a place near the Negev where the Canaanite king of Arad attacked the Israelites during their journey.
-- A location near Zephath<[[H6857]]> only mentioned at [[Num.21.1|Num.21.1]]; 
-- only referred to as Atharim<[[H0871]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Zephath **<big>[[H6857|צְפַת]]</big>** only mentioned at [[Num.21.1|Num.21.1]]; 
+- only referred to as Atharim **<big>[[H0871|אֲתָרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.880918,34.630620&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The event at Atharim highlights the ongoing challenges and conflicts the Israeli
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Atharim | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0871) <small>*Hebrew*</small> | 1x | [Num.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Atharim\*\|reference=Num.21.1) |
-All Strong's for **Atharim**: \[[[H0871]]\]
+| Atharim | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0871) | 1x | [Num.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Atharim\*\|reference=Num.21.1) |
+All entries for **Atharim**:  **<big>[[H0871|אֲתָרִים]]</big>**

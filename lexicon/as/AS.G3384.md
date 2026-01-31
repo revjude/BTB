@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μήτηρ</span></span>, gen., <span class="asgreek">μητρός, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">אֵם</span> <small><sup>[[H0517]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μήτηρ</span></span>, gen., <span class="asgreek">μητρός, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H0517|אֵם]]</big>**;\]</span> </span>
 <span class="asitalic">mother</span>: [[Matt.1.18|Mt 1:18]] [[Matt.2.11|2:11]], al.; fig., of one who takes the place of a mother, <span class="asgreek">ἰδοὺ, ἡ μ. μου</span>, [[Matt.12.49|Mt 12:49]] (cf. [[Matt.12.50|Mt 12:50]], [[Mark.3.35|Mk 3:35]], [[John.19.27|Jo 19:27]], [[Rom.16.13|Ro 16:13]], [[1Tim.5.2|I Ti 5:2]]); of a city, <span class="asgreek">ἥτις ἐσὶν μ. ἡμῶν</span>, [[Gal.4.26|Ga 4:26]]; symbolically of Babylon, <span class="asgreek">ἡ μ. τ. πορνῶν</span>, [[Rev.17.5|Re 17:5]].
 
 **Abbott-Smith References**

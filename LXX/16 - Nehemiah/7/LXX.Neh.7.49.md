@@ -7,14 +7,14 @@ The children of Hanan, the children of Giddel, the children of Gahar,
 the descendants of Hanan, the descendants of Giddel, the descendants of Gahar,<small><sub>**MT:**</sub></small>
 [[Neh.7.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.48|<< Nehemiah 7:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.50|Nehemiah 7:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hanan, | <big><span class="asgreek">Ανάν</span></big> <sup><small><small>[[H2605]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Giddel, | <big><span class="asgreek">Γαδήλ</span></big> <sup><small><small>[[H1435]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gahar, | <big><span class="asgreek">Γαήρ</span></big> <sup><small><small>[[H1515]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hanan, | **<big>[[H2605\|Ανάν]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Giddel, | **<big>[[H1435\|Γαδήλ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Gahar, | **<big>[[H1515\|Γαήρ]]</big>** |
 [[Neh.7.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.48|<< Nehemiah 7:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.50|Nehemiah 7:50 >>]]</td></tr></table>
 
 

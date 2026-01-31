@@ -6,20 +6,20 @@ The well-fed hire themselves out for food, but the starving hunger no more. The 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.4|<< 1 Samuel 2:4]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.6|1 Samuel 2:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| satisfied [people]  | <span class="ashebrew"><big>שְׂבֵעִ֤ים </big></span><small><small><sup>[[H7649]]</sup></small></small> &#8207;| se.ve.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> food  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֶּ֙חֶם֙ </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they hire themselves out  | <span class="ashebrew"><big>נִשְׂכָּ֔רוּ </big></span><small><small><sup>[[H7936B]]</sup></small></small> &#8207;| nis.Ka.ru <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hungry [people]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְעֵבִ֖ים </big></span><small><small><sup>[[H7457]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.'e.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they cease  | <span class="ashebrew"><big>חָדֵ֑לּוּ </big></span><small><small><sup>[[H2308]]</sup></small></small> &#8207;| cha.De.lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a barren [woman]  | <span class="ashebrew"><big>עֲקָרָה֙ </big></span><small><small><sup>[[H6135]]</sup></small></small> &#8207;| 'a.ka.Rah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she bears  | <span class="ashebrew"><big>יָלְדָ֣ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| Yal.dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven [children]  | <span class="ashebrew"><big>שִׁבְעָ֔ה </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'Ah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [a woman] many of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רַבַּ֥ת </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.Bat <small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons  | <span class="ashebrew"><big>בָּנִ֖ים </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she languishes  | <span class="ashebrew"><big>אֻמְלָֽלָה </big></span><small><small><sup>[[H0535]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'um.La.lah <small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| satisfied [people]  |**<big>&#8207;[[H7649\|שְׂבֵעִ֤ים]]&#8207; </big>**| se.ve.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> food  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3899H\|לֶּ֙חֶם֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they hire themselves out  |**<big>&#8207;[[H7936B\|נִשְׂכָּ֔רוּ]]&#8207; </big>**| nis.Ka.ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hungry [people]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7457\|רְעֵבִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'e.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cease  |**<big>&#8207;[[H2308\|חָדֵ֑לּוּ]]&#8207; </big>**| cha.De.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a barren [woman]  |**<big>&#8207;[[H6135\|עֲקָרָה֙]]&#8207; </big>**| 'a.ka.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bears  |**<big>&#8207;[[H3205\|יָלְדָ֣ה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven [children]  |**<big>&#8207;[[H7651\|שִׁבְעָ֔ה]]&#8207; </big>**| shiv.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [a woman] many of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7227A\|רַבַּ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Bat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  |**<big>&#8207;[[H1121A\|בָּנִ֖ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she languishes  |**<big>&#8207;[[H0535\|אֻמְלָֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'um.La.lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.4|<< 1 Samuel 2:4]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.6|1 Samuel 2:6 >>]]</td></tr></table>
 
 

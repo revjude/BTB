@@ -11,20 +11,20 @@ Terror and pit and snare await you, O dweller of the earth.<small><sub>**MT:**<
 > $\quad$ referenced by: [[Luke.21.35|Luke 21:35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Fear, | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a pit, | <big><span class="asgreek">βόθυνος</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| is upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούντας</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Fear, | **<big>[[G5401\|φόβος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a pit, | **<big>[[G0999\|βόθυνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a snare | **<big>[[G3803\|παγίς]]</big>** |
+| is upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| O ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούντας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Isa.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.16|<< Isaiah 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.18|Isaiah 24:18 >>]]</td></tr></table>
 
 

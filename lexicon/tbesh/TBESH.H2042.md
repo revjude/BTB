@@ -1,4 +1,3 @@
-<span class="ashebrew">‎הָרָר‎</span> <small>***(ha.rar)***</small> ==**mountain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-spelling of: <small>[[H2022G]]</small> 
+<small>spelling of:</small> <small>**<big>[[H2022G|הַר]]</big>**</small> 
 
-- Another spelling of <i>har</i> (<span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ר‎</span> ": mount" [[H2022]])
+- Another spelling of <i>har</i> (<span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ר‎</span> ": mount" **<big>[[H2022|הַר]]</big>**)

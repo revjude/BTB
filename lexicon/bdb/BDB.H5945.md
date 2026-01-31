@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H5946]]</small>
+<small>Aramaic form: **<big>[[H5946|עֶלְיוֹן]]</big>**</small>
  I. <span class="bdbLangHebrew">‎עֶלְיוֺן‎</span><sub>22</sub> adjective 
 
 **1.** ==high==; — masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Deut.26.19|Deut 26:19]]; [[Deut.28.1|Deut 28:1]]; [[1Kgs.9.8|1Kgs 9:8]] (? reading <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַבַּיִת הַזֶּה הָע‎</span> as [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> [[BDB#Benz|Benz]]) = [[2Chr.7.21|2Chr 7:21]], of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Ps.97.9|Ps 97:9]]. 

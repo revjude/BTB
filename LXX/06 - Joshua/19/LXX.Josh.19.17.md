@@ -10,21 +10,21 @@ And \[to\] Issachar came forth the fourth lot, to the sons of Issachar, accordin
 The fourth lot came out for the clans of the tribe of Issachar:<small><sub>**MT:**</sub></small>
 [[Josh.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.16|<< Joshua 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.18|Joshua 19:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Issachar | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Issachar, | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their kin. | <big><span class="asgreek">συγγένειαν</span></big> <sup><small><small>[[G4772]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Issachar | **<big>[[G2466\|Ισσάχαρ]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lot | **<big>[[G2819\|κλήρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| fourth | **<big>[[G5067\|τέταρτος]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Issachar, | **<big>[[G2466\|Ισσάχαρ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their kin. | **<big>[[G4772\|συγγένειαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.16|<< Joshua 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.18|Joshua 19:18 >>]]</td></tr></table>
 
 

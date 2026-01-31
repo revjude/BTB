@@ -11,76 +11,76 @@ Instead, you have exalted yourself against the Lord of heaven. The vessels from 
 > $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| you were haughty, | <big><span class="asgreek">υψώθης</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκας</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your great men, | <big><span class="asgreek">μεγιστάνες</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your concubines, | <big><span class="asgreek">παλλακαί</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mistresses | <big><span class="asgreek">παράκοιτοί</span></big> <sup><small><small>[[G8620]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| drank | <big><span class="asgreek">επίνετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρούς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of brass, | <big><span class="asgreek">χαλκούς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of iron, | <big><span class="asgreek">σιδηρούς</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of wood, | <big><span class="asgreek">ξυλίνους</span></big> <sup><small><small>[[G3585]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of stones, | <big><span class="asgreek">λιθίνους</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[that\] see not, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">βλέπουσι</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hear not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ακούουσι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| know not, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γινώσκουσιν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| you praised; | <big><span class="asgreek">ήνεσας</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your breath | <big><span class="asgreek">πνοή</span></big> <sup><small><small>[[G4157]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χειρί αυτού</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways -- | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you glorified not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδόξασας</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| you were haughty, | **<big>[[G5312\|υψώθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκας]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your great men, | **<big>[[G3175\|μεγιστάνες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your concubines, | **<big>[[G8589\|παλλακαί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your mistresses | **<big>[[G8620\|παράκοιτοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| drank | **<big>[[G4095\|επίνετε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of silver, | **<big>[[G0693\|αργυρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of brass, | **<big>[[G5470\|χαλκούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of iron, | **<big>[[G4603\|σιδηρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of wood, | **<big>[[G3585\|ξυλίνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of stones, | **<big>[[G3035\|λιθίνους]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| \[that\] see not, | **<big>[[G3756\|ου]]</big>** **<big>[[G0991\|βλέπουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hear not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ακούουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| know not, | **<big>[[G3756\|ου]]</big>** **<big>[[G1097\|γινώσκουσιν]]</big>** |
+| you praised; | **<big>[[G0134\|ήνεσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| of whom | **<big>[[G3739\|ου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your breath | **<big>[[G4157\|πνοή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| his hand, | **<big>[[G5495\|χειρί αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your ways -- | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| you glorified not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1392\|εδόξασας]]</big>** |
 [[Dan.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.22|<< Daniel 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.24|Daniel 5:24 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵדֶר‎</span></big> **ʻÊder** <small>*(ay'-der)*</small> ==**Eder**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֵדֶר‎</span><sup><small>[[H5739]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵדֶר‎</span></big>** **ʻÊder** <small>*(ay'-der)*</small> ==**Eder**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5739|‎עֵדֶר‎]]</big>**</small>
 
 $\quad$ Edar, Eder.
 - § Eder = *"a flock"*

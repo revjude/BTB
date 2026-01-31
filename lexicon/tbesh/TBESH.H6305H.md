@@ -1,5 +1,4 @@
-<span class="ashebrew">‎פְּדָיָהוּ‎</span> <small>***(pe.da.yah)***</small> ==**Pedaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.3.18|1Ch.3.18]]
--  son of: Shealtiel ([[H7597A]])(?)
--  brother of: Malchiram ([[H4443]]), Shenazzar ([[H8137]]), Jekamiah ([[H3359H]]), Hoshama ([[H1953]]) and Nedabiah ([[H5072]])
--  father of: Zerubbabel ([[H2216]]) and Shimei ([[H8096J]])
+-  son of: Shealtiel (**<big>[[H7597A|שְׁאַלְתִּיאֵל]]</big>**)
+-  brother of: Malchiram (**<big>[[H4443|מַלְכִּירָם]]</big>**), Shenazzar (**<big>[[H8137|שֶׁנְאַצַּר]]</big>**), Jekamiah (**<big>[[H3359H|יְקַמְיָה]]</big>**), Hoshama (**<big>[[H1953|הוֹשָׁמָע]]</big>**) and Nedabiah (**<big>[[H5072|נְדַבְיָה]]</big>**)
+-  father of: Zerubbabel (**<big>[[H2216|זְרֻבָּבֶל]]</big>**) and Shimei (**<big>[[H8096J|שִׁמְעִי]]</big>**)

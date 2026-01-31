@@ -7,28 +7,28 @@ But God said unto me, Thou shalt not build an house for my name, because thou [h
 but God said to me, ‘You are not to build a house for My Name, because you are a man of war who has shed blood.’<small><sub>**MT:**</sub></small>
 [[1Chr.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.2|<< 1 Chronicles 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.4|1 Chronicles 28:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You shall not build | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to name | <big><span class="asgreek">επονομάσαι</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of war | <big><span class="asgreek">πολεμιστής</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| you poured out | <big><span class="asgreek">εξέχεας</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| You shall not build | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to name | **<big>[[G2028\|επονομάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| of war | **<big>[[G8841\|πολεμιστής]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blood | **<big>[[G0129\|αίματα]]</big>** |
+| you poured out | **<big>[[G1632\|εξέχεας]]</big>** |
 [[1Chr.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.2|<< 1 Chronicles 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.4|1 Chronicles 28:4 >>]]</td></tr></table>
 
 

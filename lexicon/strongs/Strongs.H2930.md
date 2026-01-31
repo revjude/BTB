@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָמֵא‎</span></big> **ṭâmêʼ** <small>*(taw-may')*</small> ==**to defile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָמֵא‎</span></big>** **ṭâmêʼ** <small>*(taw-may')*</small> ==**to defile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ defile (self), pollute (self), be (make, make self, pronounce) unclean, [idiom] utterly.
@@ -26,4 +26,4 @@ $\quad$ **1d)** (Pual) to be defiled
 $\quad$ **1e)** (Hithpael) to be unclean
 $\quad$ **1f)** (Hothpael) to be defiled
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">μιαίνω</span><sup><small>[[G3392]]</small></sup>
+<small>See Greek: </small>**<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G3392|μιαίνω]]</big>**

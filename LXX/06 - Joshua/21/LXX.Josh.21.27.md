@@ -7,49 +7,49 @@ And unto the children of Gershon, of the families of the Levites, out of the [ot
 This is what the Levite clans of the Gershonites were given: From the half-tribe of Manasseh they were given Golan in Bashan, a city of refuge for the manslayer, and Beeshterah—two cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
 [[Josh.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gershon, | <big><span class="asgreek">Γηρσών</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relatives | <big><span class="asgreek">συγγενέσιν</span></big> <sup><small><small>[[G4773]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \[were\] from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[parts\] being separated | <big><span class="asgreek">αφωρισμένας</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| for the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| manslaying -- | <big><span class="asgreek">φονεύσασι</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Golan | <big><span class="asgreek">Γωλάν</span></big> <sup><small><small>[[H1474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bashan \[area\] | <big><span class="asgreek">Βασανίτιδι</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[parts\] being separated | <big><span class="asgreek">αφωρισμένα</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beeshterah | <big><span class="asgreek">Βεεσθερά</span></big> <sup><small><small>[[H1203]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[parts\] being separated | <big><span class="asgreek">αφωρισμένα</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| it -- | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Gershon, | **<big>[[H1648\|Γηρσών]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| relatives | **<big>[[G4773\|συγγενέσιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίταις]]</big>** |
+| \[were\] from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| half | **<big>[[G2255\|ημίσους]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| \[parts\] being separated | **<big>[[G0873\|αφωρισμένας]]</big>** |
+| for the ones | **<big>[[G3588\|τοις]]</big>** |
+| manslaying -- | **<big>[[G5407\|φονεύσασι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Golan | **<big>[[H1474\|Γωλάν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| Bashan \[area\] | **<big>[[H1316\|Βασανίτιδι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| \[parts\] being separated | **<big>[[G0873\|αφωρισμένα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Beeshterah | **<big>[[H1203\|Βεεσθερά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| \[parts\] being separated | **<big>[[G0873\|αφωρισμένα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| it -- | **<big>[[G1473\|αυτή]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
 [[Josh.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
 

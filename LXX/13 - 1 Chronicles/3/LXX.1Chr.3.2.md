@@ -7,22 +7,22 @@ The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the
 the third was Absalom the son of Maacah daughter of King Talmai of Geshur; the fourth was Adonijah the son of Haggith;<small><sub>**MT:**</sub></small>
 [[1Chr.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.1|<< 1 Chronicles 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.3|1 Chronicles 3:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third, | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| Absalom, | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Maachah | <big><span class="asgreek">Μααχά</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Talmai | <big><span class="asgreek">Θολμί</span></big> <sup><small><small>[[H8526]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Geshur. | <big><span class="asgreek">Γεσσούρ</span></big> <sup><small><small>[[H7793]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth, | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| Adonijah | <big><span class="asgreek">Αδωνίας</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Haggith. | <big><span class="asgreek">Αγγίθ</span></big> <sup><small><small>[[H2294]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| third, | **<big>[[G5154\|τρίτος]]</big>** |
+| Absalom, | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Maachah | **<big>[[H4601\|Μααχά]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of Talmai | **<big>[[H8526\|Θολμί]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Geshur. | **<big>[[H7793\|Γεσσούρ]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| fourth, | **<big>[[G5067\|τέταρτος]]</big>** |
+| Adonijah | **<big>[[H0138\|Αδωνίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Haggith. | **<big>[[H2294\|Αγγίθ]]</big>** |
 [[1Chr.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.1|<< 1 Chronicles 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.3|1 Chronicles 3:3 >>]]</td></tr></table>
 
 

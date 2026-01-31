@@ -7,28 +7,28 @@ Thy servant will go a little way over Jordan with the king: and why should the k
 Your servant will go with the king only a short distance past the Jordan; why should the king repay me with such a reward?<small><sub>**MT:**</sub></small>
 [[2Sam.19.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.35|<< 2 Samuel 19:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.37|2 Samuel 19:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| shall pass over | <big><span class="asgreek">διαβήσεται</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[does\] my master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| recompense | <big><span class="asgreek">ανταποδίδωσί</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| recompense? | <big><span class="asgreek">ανταπόδομα</span></big> <sup><small><small>[[G0468]]</small></small></sup> |
+| For | **<big>[[G3754\|οτι]]</big>** |
+| a little | **<big>[[G3641\|ολίγον]]</big>** |
+| shall pass over | **<big>[[G1224\|διαβήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[does\] my master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| recompense | **<big>[[G0467\|ανταποδίδωσί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| recompense? | **<big>[[G0468\|ανταπόδομα]]</big>** |
 [[2Sam.19.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.35|<< 2 Samuel 19:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.37|2 Samuel 19:37 >>]]</td></tr></table>
 
 

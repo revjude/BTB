@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לֶשַׁע‎</span></big> **Leshaʻ** <small>*(leh'-shah)*</small> ==**Lasha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎לֶשַׁע‎</span></big>** **Leshaʻ** <small>*(leh'-shah)*</small> ==**Lasha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root thought to mean to break through; a boiling spring</small>
 
 $\quad$ Lasha.

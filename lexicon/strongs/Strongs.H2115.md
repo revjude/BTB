@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זוּר‎</span></big> **zûwr** <small>*(zoor)*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎צוֹק‎</span><sup><small>[[H6695]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זוּר‎</span></big>** **zûwr** <small>*(zoor)*</small> ==**to crush**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H6695|‎צוֹק‎]]</big>**)</small>
 
 $\quad$ close, rush, thrust together.
 - ***to press together***, ***tighten***

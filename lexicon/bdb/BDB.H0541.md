@@ -1,4 +1,4 @@
-<small>Also see: [[H0533]]</small>
+<small>Also see: **<big>[[H0533|אַמִּיץ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎אָמֵץ‎</span>] **verb** ==be stout, strong, bold, alert== (according to [[BDB#Lag|Lag]]<sup>BN 28 f.</sup> from earlier <span class="bdbLangHebrew">‎אָמֹץ‎</span> compare <span class="bdbLangHebrew">‎אֹמֶץ‎</span>) — Qal. Perfect 3 plural <span class="bdbLangHebrew">‎אָֽמְצוּ‎</span> [[2Sam.22.18|2Sam 22:18]] + 2 t.; Imperfect <span class="bdbLangHebrew">‎יֶאֱמָ֑ץ‎</span> [[Gen.25.23|Gen 25:23]] <span class="bdbLangHebrew">‎וַיֶּאֶמְצוּ‎</span> [[2Chr.13.18|2Chr 13:18]] Imperative <span class="bdbLangHebrew">‎אֱמַץ‎</span> [[Josh.1.7|Josh 1:7]]; [[1Chr.28.20|1Chr 28:20]] <span class="bdbLangHebrew">‎אֱמַ֑ץ‎</span> [[Josh.1.6|Josh 1:6]] <span class="bdbLangHebrew">‎אֱמָ֑ץ‎</span> [[Deut.31.7|Deut 31:7]] + 3 t.; <span class="bdbLangHebrew">‎אִמְצוּ‎</span> [[Deut.31.6|Deut 31:6]] + 2 t. — 
 

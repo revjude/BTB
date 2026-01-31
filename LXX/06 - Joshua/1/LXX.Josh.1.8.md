@@ -7,41 +7,41 @@ This book of the law shall not depart out of thy mouth; but thou shalt meditate 
 This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do.<small><sub>**MT:**</sub></small>
 [[Josh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| leave | <big><span class="asgreek">αποστήσεται</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| book | <big><span class="asgreek">βίβλος</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth, | <big><span class="asgreek">στόματός</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall meditate | <big><span class="asgreek">μελετήσεις</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should perceive | <big><span class="asgreek">συνής</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| you shall prosper | <big><span class="asgreek">ευοδώσεις</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| you shall perceive. | <big><span class="asgreek">συνήσεις</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| leave | **<big>[[G0868\|αποστήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| book | **<big>[[G0976\|βίβλος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| law | **<big>[[G3551\|νόμου]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your mouth, | **<big>[[G4750\|στόματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall meditate | **<big>[[G3191\|μελετήσεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| night, | **<big>[[G3571\|νυκτός]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should perceive | **<big>[[G4920\|συνής]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| you shall prosper | **<big>[[G2137\|ευοδώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| you shall perceive. | **<big>[[G4920\|συνήσεις]]</big>** |
 [[Josh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
 

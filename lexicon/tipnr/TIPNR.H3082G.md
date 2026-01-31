@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jonadab</span>, the son of Rechab, instructed his descendants to abstain from wine, live in tents, and follow a nomadic lifestyle, which they faithfully observed \([[Jer.35.8|Jer.35.8]],14,16,18; 2Ki.10.15,15,23; [[Jer.35.6|Jer.35.6]],10,19\).
 - A man living at the time of Divided Monarchy, first mentioned at 2Ki.10.15; 
-- referred to as Jonadab or Jehonadab<[[H3082G]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>\), or Jonadab<[[H3122H]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
-- a son of Rechab<[[H7394H]]>.
+- referred to as Jonadab or Jehonadab **<big>[[H3082|יְהוֹנָדָב]]</big>**, or Jonadab **<big>[[H3122|יוֹנָדָב]]</big>**; 
+- a son of Rechab **<big>[[H7394|רֵכָב]]</big>**.
 
 Jonadab, the son of Rechab, is mentioned in the books of Jeremiah and 2 Kings as the founder of the Rechabites, a nomadic tribe known for their strict adherence to a set of rules that he established. Jonadab instructed his descendants to abstain from drinking wine, building houses, sowing seed, and planting vineyards \([[Jer.35.6|Jer.35.6]]-7\). Instead, they were to live in tents and follow a nomadic way of life. 
 
@@ -17,9 +17,9 @@ The example of Jonadab and the Rechabites serves as a reminder of the importance
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jonadab | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3082G) <small>*Hebrew*</small> | 4x | [[Jer.35.8] ... [Jer.35.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonadab\*\|reference=Jer.35.8;Jer.35.14;Jer.35.16;Jer.35.18) |
-| Jehonadab | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3082G) <small>*Hebrew*</small> | 3x | [[2Ki.10.15a] ... [2Ki.10.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehonadab\*\|reference=2Ki.10.15;2Ki.10.15;2Ki.10.23) |
-| Jonadab | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3122H) <small>*Hebrew*</small> | 3x | [[Jer.35.6] ... [Jer.35.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonadab\*\|reference=Jer.35.6;Jer.35.10;Jer.35.19) |
-All Strong's for **Jonadab or Jehonadab**: \[[[H3082G]]\] \[[[H3122H]]\]
+| Jonadab | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3082G) | 4x | [[Jer.35.8] ... [Jer.35.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonadab\*\|reference=Jer.35.8;Jer.35.14;Jer.35.16;Jer.35.18) |
+| Jehonadab | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3082G) | 3x | [[2Ki.10.15a] ... [2Ki.10.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehonadab\*\|reference=2Ki.10.15;2Ki.10.15;2Ki.10.23) |
+| Jonadab | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3122H) | 3x | [[Jer.35.6] ... [Jer.35.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonadab\*\|reference=Jer.35.6;Jer.35.10;Jer.35.19) |
+All entries for **Jonadab or Jehonadab**:  **<big>[[H3082|יְהוֹנָדָב]]</big>** ☩  **<big>[[H3122|יוֹנָדָב]]</big>**
 #### Related Profiles:
 - **[Rechab](H7394H)** (father)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוֹדַי‎</span></big> **Dôwday** <small>*(do-dah'ee)*</small> ==**Dodai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>formed like <span class="ashebrew">‎דּוּדַי‎</span><sup><small>[[H1736]]</small></sup>; amatory</small>
+**<big><span class="ashebrew">‎דּוֹדַי‎</span></big>** **Dôwday** <small>*(do-dah'ee)*</small> ==**Dodai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>formed like **<big>[[H1736|‎דּוּדַי‎]]</big>**; amatory</small>
 
 $\quad$ Dodai.
 - § Dodai = *"loving" or "amorous"*

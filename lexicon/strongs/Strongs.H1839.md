@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּנִי‎</span></big> **Dânîy** <small>*(daw-nee')*</small> ==**Danite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎דָּן‎</span><sup><small>[[H1835]]</small></sup></small>
+**<big><span class="ashebrew">‎דָּנִי‎</span></big>** **Dânîy** <small>*(daw-nee')*</small> ==**Danite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H1835|‎דָּן‎]]</big>**</small>
 
 $\quad$ Danites, of Daniel
 - § Danites = *"judge"*

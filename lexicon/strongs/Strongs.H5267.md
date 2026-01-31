@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְסַק‎</span></big> **nᵉçaq** <small>*(nes-ak')*</small> ==**to take up**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָסַק‎</span><sup><small>[[H5266]]</small></sup></small>
+**<big><span class="asaramaic">‎נְסַק‎</span></big>** **nᵉçaq** <small>*(nes-ak')*</small> ==**to take up**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5266|‎נָסַק‎]]</big>**</small>
 
 $\quad$ take up.
 - {***to go up***}

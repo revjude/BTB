@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּימָן‎</span></big> **têymân** <small>*(tay-mawn')*</small> ==**south**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תֵּמָן</span> **têmân** <small>*(tay-mawn')*</small>; denominative from <span class="ashebrew">‎יָמִין‎</span><sup><small>[[H3225]]</small></sup></small>
+**<big><span class="ashebrew">‎תֵּימָן‎</span></big>** **têymân** <small>*(tay-mawn')*</small> ==**south**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֵּמָן</span></big>** **têmân** <small>*(tay-mawn')*</small>; denominative from **<big>[[H3225|‎יָמִין‎]]</big>**</small>
 
 $\quad$ south (side, -ward, wind).
 - ***the south*** (as being on the right hand of a person facing the east)
@@ -10,4 +10,4 @@ $\quad$ **1b)** southern quarter (of the sky)
 $\quad$ **1c)** toward the south, southward (of direction)
 $\quad$ **1d)** south wind
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θάλασσα</span><sup><small>[[G2281]]</small></sup> · <span class="asgreek">λίψ</span><sup><small>[[G3047]]</small></sup> · <span class="asgreek">νότος</span><sup><small>[[G3558]]</small></sup>
+<small>See Greek: </small>**<big>[[G2281|θάλασσα]]</big>** · **<big>[[G3047|λίψ]]</big>** · **<big>[[G3558|νότος]]</big>**

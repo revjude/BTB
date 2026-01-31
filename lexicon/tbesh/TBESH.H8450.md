@@ -1,4 +1,3 @@
-<span class="asaramaic">‎תּוֹר‎</span> <small>***(tor)***</small> ==**bullock**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7794]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7794|שׁוֹר]]</big>**</small> 
 
-- Aramaic of <i>shor</i> (<span class='ashebrew'>‎ש‎</span>ׁ<span class='ashebrew'>‎ו‎</span>ֹ<span class='ashebrew'>‎ר‎</span> "cattle" [[H7794]])
+- Aramaic of <i>shor</i> (<span class='ashebrew'>‎ש‎</span>ׁ<span class='ashebrew'>‎ו‎</span>ֹ<span class='ashebrew'>‎ר‎</span> "cattle" **<big>[[H7794|שׁוֹר]]</big>**)

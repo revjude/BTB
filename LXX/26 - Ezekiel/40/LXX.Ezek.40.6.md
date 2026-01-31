@@ -10,34 +10,34 @@ Then came he unto the gate which looketh toward the east, and went up the stairs
 Then he came to the gate facing east and climbed its steps. He measured the threshold of the gate to be one rod deep.<small><sub>**MT:**</sub></small>
 [[Ezek.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.5|<< Ezekiel 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.7|Ezekiel 40:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate, | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλέπουσαν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| steps. | <big><span class="asgreek">αναβαθμοίς</span></big> <sup><small><small>[[G0304]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibule -- | <big><span class="asgreek">θεέ</span></big> <sup><small><small>[[G7645]]</small></small></sup> |
-| six \[by\] | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| six; | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \[was\] equal | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reed | <big><span class="asgreek">καλάμω</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| in width. | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate, | **<big>[[G4439\|πύλην]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| looking | **<big>[[G0991\|βλέπουσαν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| steps. | **<big>[[G0304\|αναβαθμοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| vestibule -- | **<big>[[G7645\|θεέ]]</big>** |
+| six \[by\] | **<big>[[G1803\|εξ]]</big>** |
+| six; | **<big>[[G1803\|εξ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \[was\] equal | **<big>[[G2470\|ίσον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| reed | **<big>[[G2563\|καλάμω]]</big>** |
+| in width. | **<big>[[G4114\|πλάτος]]</big>** |
 [[Ezek.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.5|<< Ezekiel 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.7|Ezekiel 40:7 >>]]</td></tr></table>
 
 

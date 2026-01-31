@@ -7,28 +7,28 @@ And I will set up one shepherd over them, and he shall feed them, [even] my serv
 I will appoint over them one shepherd, My servant David, and he will feed them. He will feed them and be their shepherd.<small><sub>**MT:**</sub></small>
 [[Ezek.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.22|<< Ezekiel 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.24|Ezekiel 34:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall raise up | <big><span class="asgreek">αναστήσω</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμένα</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will tend | <big><span class="asgreek">ποιμανεί</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servant | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| He | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will tend | <big><span class="asgreek">ποιμανεί</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shepherd. | <big><span class="asgreek">ποιμήν</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall raise up | **<big>[[G0450\|αναστήσω]]</big>** |
+| for | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμένα]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will tend | **<big>[[G4165\|ποιμανεί]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my servant | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| David. | **<big>[[G1138\|Δαυίδ]]</big>** |
+| He | **<big>[[G1473\|αυτός]]</big>** |
+| will tend | **<big>[[G4165\|ποιμανεί]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will be | **<big>[[G1510\|έσται]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| shepherd. | **<big>[[G4166\|ποιμήν]]</big>** |
 [[Ezek.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.22|<< Ezekiel 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.24|Ezekiel 34:24 >>]]</td></tr></table>
 
 

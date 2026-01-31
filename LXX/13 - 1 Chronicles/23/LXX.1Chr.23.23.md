@@ -7,16 +7,16 @@ The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 The sons of Mushi: Mahli, Eder, and Jeremoth—three in all.<small><sub>**MT:**</sub></small>
 [[1Chr.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.22|<< 1 Chronicles 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.24|1 Chronicles 23:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mushi -- | <big><span class="asgreek">Μουσεί</span></big> <sup><small><small>[[H4187]]</small></small></sup> |
-| Mahli, | <big><span class="asgreek">Μοολί</span></big> <sup><small><small>[[H4249]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eder, | <big><span class="asgreek">Εδέρ</span></big> <sup><small><small>[[H5740b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremoth -- | <big><span class="asgreek">Ιαρειμώθ</span></big> <sup><small><small>[[H3406]]</small></small></sup> |
-| three. | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Mushi -- | **<big>[[H4187\|Μουσεί]]</big>** |
+| Mahli, | **<big>[[H4249\|Μοολί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eder, | **<big>[[H5740b\|Εδέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeremoth -- | **<big>[[H3406\|Ιαρειμώθ]]</big>** |
+| three. | **<big>[[G5140\|τρεις]]</big>** |
 [[1Chr.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.22|<< 1 Chronicles 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.24|1 Chronicles 23:24 >>]]</td></tr></table>
 
 

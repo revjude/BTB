@@ -1,4 +1,4 @@
-<small>Also see: [[H6962]] | [[H6985]]</small>
+<small>Also see: **<big>[[H6962|קוּט]]</big>** | **<big>[[H6985|קַט]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎קוּט‎</span>] **verb** ==feel a loathing== (\|\| form of  <span class="bdbLangHebrew">‎קוּץ‎</span> q. v.); — 
 

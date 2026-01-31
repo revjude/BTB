@@ -7,22 +7,22 @@ And he said unto them, Depart yet [for] three days, then come again to me. And t
 Rehoboam answered, “Go away for three days and then return to me.” So the people departed.<small><sub>**MT:**</sub></small>
 [[1Kgs.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.4|<< 1 Kings 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.6|1 Kings 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">απέλθετε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| for | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| return | <big><span class="asgreek">αναστρέψατε</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went forth. | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Go forth | **<big>[[G0565\|απέλθετε]]</big>** |
+| for | **<big>[[G2193\|έως]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| return | **<big>[[G0390\|αναστρέψατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they went forth. | **<big>[[G0565\|απήλθον]]</big>** |
 [[1Kgs.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.4|<< 1 Kings 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.6|1 Kings 12:6 >>]]</td></tr></table>
 
 

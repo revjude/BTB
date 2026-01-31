@@ -7,17 +7,17 @@ But thou, O LORD, [art] a shield for me; my glory, and the lifter up of mine hea
 But You, O LORD, are a shield around me, my glory, and the One who lifts my head.<small><sub>**MT:**</sub></small>
 [[Ps.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.2|<< Psalm 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.4|Psalm 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| my shielder | <big><span class="asgreek">αντιλήπτωρ</span></big> <sup><small><small>[[G6367]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| my glory, | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one raising up | <big><span class="asgreek">υψών</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But you, | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| my shielder | **<big>[[G6367\|αντιλήπτωρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| my glory, | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one raising up | **<big>[[G5312\|υψών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.2|<< Psalm 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.4|Psalm 3:4 >>]]</td></tr></table>
 
 

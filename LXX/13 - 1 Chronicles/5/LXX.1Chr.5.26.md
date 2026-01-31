@@ -7,52 +7,52 @@ And the God of Israel stirred up the spirit of Pul king of Assyria, and the spir
 So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.<small><sub>**MT:**</sub></small>
 [[1Chr.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| roused up | <big><span class="asgreek">εξήγειρεν</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of Pul | <big><span class="asgreek">Φουλ</span></big> <sup><small><small>[[H6322]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians, | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of Tiglath-Pileser | <big><span class="asgreek">Θαγλαθφαλλασάρ</span></big> <sup><small><small>[[H8407]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians. | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he resettled | <big><span class="asgreek">απώκισε</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gadites, | <big><span class="asgreek">Γαδδί</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led | <big><span class="asgreek">ήγαγεν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Halah, | <big><span class="asgreek">Αλά</span></big> <sup><small><small>[[H2477]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Habor, | <big><span class="asgreek">Αβώρ</span></big> <sup><small><small>[[H2249]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hara, | <big><span class="asgreek">Αρρά</span></big> <sup><small><small>[[H2024]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] river | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Gozan, | <big><span class="asgreek">Γοζάν</span></big> <sup><small><small>[[H1470]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| roused up | **<big>[[G1825\|εξήγειρεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of Pul | **<big>[[H6322\|Φουλ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] Assyrians, | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of Tiglath-Pileser | **<big>[[H8407\|Θαγλαθφαλλασάρ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of \[the\] Assyrians. | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he resettled | **<big>[[G6442\|απώκισε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Reuben, | **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Gadites, | **<big>[[G1045\|Γαδδί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led | **<big>[[G0071\|ήγαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Halah, | **<big>[[H2477\|Αλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Habor, | **<big>[[H2249\|Αβώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hara, | **<big>[[H2024\|Αρρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] river | **<big>[[G4215\|ποταμόν]]</big>** |
+| Gozan, | **<big>[[H1470\|Γοζάν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[1Chr.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
 

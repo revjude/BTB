@@ -7,44 +7,44 @@ In the first year of Cyrus the king [the same] Cyrus the king made a decree [con
 In the first year of King Cyrus, he issued a decree concerning the house of God in Jerusalem: Let the house be rebuilt as a place for offering sacrifices, and let its foundations be firmly laid. It is to be sixty cubits high and sixty cubits wide,<small><sub>**MT:**</sub></small>
 [[Ezra.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.2|<< Ezra 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.4|Ezra 6:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| of king Cyrus, | <big><span class="asgreek">Κύρου</span></big> <sup><small><small>[[H3567]]</small></small></sup> <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Cyrus | <big><span class="asgreek">Κύρος</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| rendered | <big><span class="asgreek">έθηκε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a decree | <big><span class="asgreek">γνώμην</span></big> <sup><small><small>[[G1106]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem, \[saying\], | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| Let | <big><span class="asgreek">οικοδομηθήτω</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sacrifice | <big><span class="asgreek">θυσιάζουσι</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices! | <big><span class="asgreek">θυσιάσματα</span></big> <sup><small><small>[[G7701]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| set | <big><span class="asgreek">τεθήτω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \[the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| of sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| \[and the\] width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτω]]</big>** |
+| of king Cyrus, | **<big>[[H3567\|Κύρου]]</big>** **<big>[[G0935\|βασιλέως]]</big>** |
+| Cyrus | **<big>[[H3567\|Κύρος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| rendered | **<big>[[G5087\|έθηκε]]</big>** |
+| a decree | **<big>[[G1106\|γνώμην]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem, \[saying\], | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| Let | **<big>[[G3618\|οικοδομηθήτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] place | **<big>[[G5117\|τόπος]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they sacrifice | **<big>[[G7700\|θυσιάζουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sacrifices! | **<big>[[G7701\|θυσιάσματα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| foundations | **<big>[[G2310\|θεμέλια]]</big>** |
+| set | **<big>[[G5087\|τεθήτω]]</big>** |
+| \[the\] height | **<big>[[G5311\|ύψος]]</big>** |
+| cubits | **<big>[[G4083\|πήχεις]]</big>** |
+| of sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| \[and the\] width | **<big>[[G4114\|πλάτος]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
 [[Ezra.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.2|<< Ezra 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.4|Ezra 6:4 >>]]</td></tr></table>
 
 

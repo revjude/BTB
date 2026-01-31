@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵלָה‎</span></big> **ʼÊlâh** <small>*(ay-law')*</small> ==**Elah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אֵלָה‎</span><sup><small>[[H0424]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵלָה‎</span></big>** **ʼÊlâh** <small>*(ay-law')*</small> ==**Elah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0424|‎אֵלָה‎]]</big>**</small>
 
 $\quad$ Elah.
 - § Elah = *"An oak"*

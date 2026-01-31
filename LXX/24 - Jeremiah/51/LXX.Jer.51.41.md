@@ -7,24 +7,24 @@ How is Sheshach taken! and how is the praise of the whole earth surprised! how i
 How Sheshach has been captured! The praise of all the earth has been seized. What a horror Babylon has become among the nations!<small><sub>**MT:**</sub></small>
 [[Jer.51.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.40|<< Jeremiah 51:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.42|Jeremiah 51:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| Sheshach \[is\] captured, | <big><span class="asgreek">εάλω</span></big> <sup><small><small>[[G6226]]</small></small></sup> <big><span class="asgreek">Σεσάκ</span></big> <sup><small><small>[[H8347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is hunted | <big><span class="asgreek">εθηρεύθη</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boasting | <big><span class="asgreek">καύχημα</span></big> <sup><small><small>[[G2745]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| Babylon became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| Sheshach \[is\] captured, | **<big>[[G6226\|εάλω]]</big>** **<big>[[H8347\|Σεσάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is hunted | **<big>[[G2340\|εθηρεύθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| boasting | **<big>[[G2745\|καύχημα]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| Babylon became | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G0897\|Βαβυλών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction | **<big>[[G0854\|αφανισμόν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations. | **<big>[[G1484\|έθνεσιν]]</big>** |
 [[Jer.51.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.40|<< Jeremiah 51:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.42|Jeremiah 51:42 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ The place was called the brook Eshcol, because of the cluster of grapes which th
 Because of the cluster of grapes the Israelites cut there, that place was called the Valley of Eshcol.<small><sub>**MT:**</sub></small>
 [[Num.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| they named | <big><span class="asgreek">επωνόμασαν</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| Ravine | <big><span class="asgreek">φάραγξ</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of \[the\] Cluster, | <big><span class="asgreek">βότρυος</span></big> <sup><small><small>[[G1009]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cluster of grapes | <big><span class="asgreek">βότρυν</span></big> <sup><small><small>[[G1009]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| beat | <big><span class="asgreek">έκοψαν</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that place | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1565\|εκείνον]]</big>** |
+| they named | **<big>[[G2028\|επωνόμασαν]]</big>** |
+| Ravine | **<big>[[G5327\|φάραγξ]]</big>** |
+| of \[the\] Cluster, | **<big>[[G1009\|βότρυος]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| cluster of grapes | **<big>[[G1009\|βότρυν]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| beat | **<big>[[G2875\|έκοψαν]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
 

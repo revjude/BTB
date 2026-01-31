@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּדִי‎</span></big> **Gâdîy** <small>*(gaw-dee')*</small> ==**Gad**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎גָּד‎</span><sup><small>[[H1410]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּדִי‎</span></big>** **Gâdîy** <small>*(gaw-dee')*</small> ==**Gad**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H1410|‎גָּד‎]]</big>**</small>
 
 $\quad$ Gadites, children of Gad.
 - § Gadite = *"an invader: a troop: fortune"*

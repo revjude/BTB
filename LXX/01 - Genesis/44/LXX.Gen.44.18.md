@@ -7,29 +7,29 @@ Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray the
 Then Judah approached Joseph and said, “Sir, please let your servant speak personally to my lord. Do not be angry with your servant, for you are equal to Pharaoh himself.<small><sub>**MT:**</sub></small>
 [[Gen.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.17|<< Genesis 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.19|Genesis 44:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And approaching | <big><span class="asgreek">εγγίσας</span></big> <sup><small><small>[[G1448]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I beseech | <big><span class="asgreek">δέομαι</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
-| O lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλήσατω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[be\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| enraged | <big><span class="asgreek">θυμωθής</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant, | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Pharaoh! | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| And approaching | **<big>[[G1448\|εγγίσας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| I beseech | **<big>[[G1189\|δέομαι]]</big>** |
+| O lord, | **<big>[[G2962\|κύριε]]</big>** |
+| speak | **<big>[[G2980\|λαλήσατω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[be\] not | **<big>[[G3361\|μη]]</big>** |
+| enraged | **<big>[[G2373\|θυμωθής]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your servant, | **<big>[[G3816\|παιδί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| Pharaoh! | **<big>[[G5328\|Φαραώ]]</big>** |
 [[Gen.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.17|<< Genesis 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.19|Genesis 44:19 >>]]</td></tr></table>
 
 

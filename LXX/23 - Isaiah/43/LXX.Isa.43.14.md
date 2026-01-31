@@ -7,34 +7,34 @@ Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have
 Thus says the LORD your Redeemer, the Holy One of Israel: “For your sake, I will send to Babylon and bring them all as fugitives, even the Chaldeans, in the ships in which they rejoice.<small><sub>**MT:**</sub></small>
 [[Isa.43.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.13|<< Isaiah 43:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.15|Isaiah 43:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ransoming | <big><span class="asgreek">λυτρούμενος</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon, | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will rouse | <big><span class="asgreek">επεγερώ</span></big> <sup><small><small>[[G1892]]</small></small></sup> |
-| \[the\] ones fleeing | <big><span class="asgreek">φεύγοντας</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| boats | <big><span class="asgreek">πλοίοις</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| shall be tied | <big><span class="asgreek">δεθήσονται</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| ransoming | **<big>[[G3084\|λυτρούμενος]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| holy one | **<big>[[G0039\|άγιος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| I will send | **<big>[[G0649\|αποστελώ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Babylon, | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will rouse | **<big>[[G1892\|επεγερώ]]</big>** |
+| \[the\] ones fleeing | **<big>[[G5343\|φεύγοντας]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] Chaldeans | **<big>[[G5466\|Χαλδαίοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| boats | **<big>[[G4143\|πλοίοις]]</big>** |
+| shall be tied | **<big>[[G1210\|δεθήσονται]]</big>** |
 [[Isa.43.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.13|<< Isaiah 43:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.15|Isaiah 43:15 >>]]</td></tr></table>
 
 

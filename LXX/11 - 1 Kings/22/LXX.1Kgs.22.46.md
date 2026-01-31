@@ -7,25 +7,25 @@ And the remnant of the sodomites, which remained in the days of his father Asa, 
 He banished from the land the male shrine prostitutes who remained from the days of his father Asa.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.45|<< 1 Kings 22:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.47|1 Kings 22:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιπούς</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being initiated | <big><span class="asgreek">τετελεσμένων</span></big> <sup><small><small>[[G5055]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| things being forsaken | <big><span class="asgreek">καταλελειμμένων</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Asa | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he removed | <big><span class="asgreek">αφείλεν</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rest | **<big>[[G3062\|λοιπούς]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| being initiated | **<big>[[G5055\|τετελεσμένων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| things being forsaken | **<big>[[G2641\|καταλελειμμένων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Asa | **<big>[[G0760\|Ασά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he removed | **<big>[[G0851\|αφείλεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[1Kgs.22.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.45|<< 1 Kings 22:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.47|1 Kings 22:47 >>]]</td></tr></table>
 
 

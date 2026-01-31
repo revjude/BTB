@@ -1,3 +1,1 @@
-<span class="asaramaic">‎גַּלְגַּל‎</span> <small>***(gal.gal)***</small> ==**wheel**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H1534]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1534|גַּלְגַּל]]</big>**</small>

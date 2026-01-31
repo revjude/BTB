@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִישָׁע‎</span></big> **ʼĔlîyshâʻ** <small>*(el-ee-shaw')*</small> ==**Elisha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>contracted for <span class="ashebrew">‎אֱלִישׁוּעַ‎</span><sup><small>[[H0474]]</small></sup>.</small>
+**<big><span class="ashebrew">‎אֱלִישָׁע‎</span></big>** **ʼĔlîyshâʻ** <small>*(el-ee-shaw')*</small> ==**Elisha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>contracted for **<big>[[H0474|‎אֱלִישׁוּעַ‎]]</big>**.</small>
 
 $\quad$ Elisha.
 - § Elisha = *"God is salvation"*
@@ -7,4 +7,4 @@ $\quad$ Elisha.
 
 **1)** the great prophet who succeeded Elijah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐλισσαῖος</span><sup><small>[[G1666]]</small></sup>
+<small>See Greek: </small>**<big>[[G1666|Ἐλισσαῖος]]</big>**

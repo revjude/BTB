@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁרֵבְיָה‎</span></big> **Shêrêbᵉyâh** <small>*(shay-rayb-yaw')*</small> ==**Sherebiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁרָב‎</span><sup><small>[[H8273]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has brought heat</small>
+**<big><span class="ashebrew">‎שֵׁרֵבְיָה‎</span></big>** **Shêrêbᵉyâh** <small>*(shay-rayb-yaw')*</small> ==**Sherebiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8273|‎שָׁרָב‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has brought heat</small>
 
 $\quad$ Sherebiah.
 - § Sherebiah = *"Jehovah has scorched"*

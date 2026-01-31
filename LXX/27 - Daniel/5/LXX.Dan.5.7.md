@@ -7,54 +7,54 @@ The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsa
 The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.”<small><sub>**MT:**</sub></small>
 [[Dan.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled | <big><span class="asgreek">εβόησεν</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">εισαγαγείν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| magi, | <big><span class="asgreek">μάγους</span></big> <sup><small><small>[[G3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans, | <big><span class="asgreek">Χαλδαίους</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| astrologers. | <big><span class="asgreek">γαζαρηνούς</span></big> <sup><small><small>[[G6708]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise \[men\] | <big><span class="asgreek">σοφοίς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| Who ever | <big><span class="asgreek">ος αν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should read | <big><span class="asgreek">αναγνώ</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this writing, | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should make known | <big><span class="asgreek">γνωρίση</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| purple | <big><span class="asgreek">πορφύραν</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| shall be put on \[him\], | <big><span class="asgreek">ενδύσεται</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| necklace | <big><span class="asgreek">μανιάκης</span></big> <sup><small><small>[[G8251]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neck, | <big><span class="asgreek">τράχηλον</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as third | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall rule. | <big><span class="asgreek">άρξει</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| yelled | **<big>[[G0994\|εβόησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G1521\|εισαγαγείν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| magi, | **<big>[[G3097\|μάγους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Chaldeans, | **<big>[[G5466\|Χαλδαίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| astrologers. | **<big>[[G6708\|γαζαρηνούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wise \[men\] | **<big>[[G4680\|σοφοίς]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| Who ever | **<big>[[G1437\|ος αν]]</big>** |
+| should read | **<big>[[G0314\|αναγνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this writing, | **<big>[[G1124\|γραφήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| its interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| should make known | **<big>[[G1107\|γνωρίση]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| purple | **<big>[[G4209\|πορφύραν]]</big>** |
+| shall be put on \[him\], | **<big>[[G1746\|ενδύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| necklace | **<big>[[G8251\|μανιάκης]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| of gold | **<big>[[G5552\|χρυσούς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his neck, | **<big>[[G5137\|τράχηλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as third | **<big>[[G5154\|τρίτος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he shall rule. | **<big>[[G0756\|άρξει]]</big>** |
 [[Dan.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
 

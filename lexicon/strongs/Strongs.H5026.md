@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נִבְחַז‎</span></big> **Nibchaz** <small>*(nib-khaz')*</small> ==**Nibhaz**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎נִבְחַז‎</span></big>** **Nibchaz** <small>*(nib-khaz')*</small> ==**Nibhaz**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Nibhaz.

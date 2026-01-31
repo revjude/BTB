@@ -7,18 +7,18 @@ In the fulness of his sufficiency he shall be in straits: every hand of the wick
 In the midst of his plenty, he will be distressed; the full force of misery will come upon him.<small><sub>**MT:**</sub></small>
 [[Job.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.21|<< Job 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.23|Job 20:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it should seem | <big><span class="asgreek">δοκή</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| urgent | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
-| to accomplish \[something\], | <big><span class="asgreek">πεπληρώσθαι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| he shall be afflicted; | <big><span class="asgreek">θλιβήσεται</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| and all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| distress | <big><span class="asgreek">ανάγκη</span></big> <sup><small><small>[[G0318]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
+| And whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| it should seem | **<big>[[G1380\|δοκή]]</big>** |
+| urgent | **<big>[[G2235\|ήδη]]</big>** |
+| to accomplish \[something\], | **<big>[[G4137\|πεπληρώσθαι]]</big>** |
+| he shall be afflicted; | **<big>[[G2346\|θλιβήσεται]]</big>** |
+| and all | **<big>[[G3956\|πάσα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| distress | **<big>[[G0318\|ανάγκη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| shall come | **<big>[[G1904\|επελεύσεται]]</big>** |
 [[Job.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.21|<< Job 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.23|Job 20:23 >>]]</td></tr></table>
 
 

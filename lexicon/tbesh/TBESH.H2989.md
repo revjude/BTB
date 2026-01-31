@@ -1,5 +1,3 @@
-<span class="ashebrew">‎יָבָל‎</span> <small>***(ya.val)***</small> ==**Jabal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time before the Flood, only mentioned at [[Gen.4.20|Gen.4.20]]
--  son of: Lamech ([[H3929]]) and Adah ([[H5711]])
--  brother of: Jubal ([[H3106]]), Tubal-cain ([[H8423]]), Naamah ([[H5279]])
-
+-  son of: Lamech (**<big>[[H3929|לֶמֶךְ]]</big>**) and Adah (**<big>[[H5711|עָדָה]]</big>**)
+-  brother of: Jubal (**<big>[[H3106|יוּבַל]]</big>**), Tubal-cain (**<big>[[H8423|תּוּבַל קַיִן]]</big>**), Naamah (**<big>[[H5279|נַעֲמָה]]</big>**)

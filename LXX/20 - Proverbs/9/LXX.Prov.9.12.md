@@ -7,22 +7,22 @@ If thou be wise, thou shalt be wise for thyself: but [if] thou scornest, thou al
 If you are wise, you are wise to your own advantage; but if you scoff, you alone will bear the consequences.<small><sub>**MT:**</sub></small>
 [[Prov.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| you be | <big><span class="asgreek">γένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακός</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| you should turn out to be | <big><span class="asgreek">αποβής</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| then | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you shall draw | <big><span class="asgreek">αντλήσεις</span></big> <sup><small><small>[[G0501]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| O son, | **<big>[[G5207\|υιέ]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| wise | **<big>[[G4680\|σοφός]]</big>** |
+| you be | **<big>[[G1096\|γένη]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| wise | **<big>[[G4680\|σοφός]]</big>** |
+| you shall be | **<big>[[G1510\|έση]]</big>** |
+| and if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| evil | **<big>[[G2556\|κακός]]</big>** |
+| you should turn out to be | **<big>[[G0576\|αποβής]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| then | **<big>[[G0302\|αν]]</big>** |
+| you shall draw | **<big>[[G0501\|αντλήσεις]]</big>** |
+| evils | **<big>[[G2556\|κακά]]</big>** |
 [[Prov.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
 

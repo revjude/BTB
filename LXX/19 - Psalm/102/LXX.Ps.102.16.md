@@ -7,17 +7,17 @@ When the LORD shall build up Zion, he shall appear in his glory.
 For the LORD will rebuild Zion; He has appeared in His glory.<small><sub>**MT:**</sub></small>
 [[Ps.102.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.15|<< Psalm 102:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.17|Psalm 102:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall build up | <big><span class="asgreek">οικοδομήσει</span></big> <sup><small><small>[[G3618]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall appear | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his glory. | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall build up | **<big>[[G3618\|οικοδομήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall appear | **<big>[[G3708\|οφθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his glory. | **<big>[[G1391\|δόξη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.102.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.15|<< Psalm 102:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.17|Psalm 102:17 >>]]</td></tr></table>
 
 

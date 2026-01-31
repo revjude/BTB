@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Kenath</span>, a city in Gilead captured by Nobah and renamed after himself, was later recaptured by Geshur and Aram \([[Num.32.42|Numbers 32:42]]; [[Judg.8.11|Judges 8:11]]; [[1Chr.2.23|1 Chronicles 2:23]]\).
 - A location first mentioned at [[Num.21.30|Num.21.30]]; 
-- referred to as Kenath<[[H7079]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>\), or Nobah<[[H5025H]]> \(<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ח</span>\), or Nophah<[[H5302]]> \(<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ח</span>\).
+- referred to as Kenath **<big>[[H7079|קְנָת]]</big>**, or Nobah **<big>[[H5025|נֹבַח]]</big>**, or Nophah **<big>[[H5302|נֹפַח]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.756919,36.616400&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Kenath was a city located in the region of Gilead, east of the Jordan River. Dur
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kenath | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H7079) <small>*Hebrew*</small> | 2x | [[Num.32.42] & [1Ch.2.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenath\*\|reference=Num.32.42;1Ch.2.23) |
-| Nobah | [<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5025H) <small>*Hebrew*</small> | 2x | [[Num.32.42b] & [Jdg.8.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nobah\*\|reference=Num.32.42;Jdg.8.11) |
-| Nophah | [<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5302) <small>*Hebrew*</small> | 1x | [Num.21.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nophah\*\|reference=Num.21.30) |
-All Strong's for **Kenath or Nobah or Nophah**: \[[[H7079]]\] \[[[H5025H]]\] \[[[H5302]]\]
+| Kenath | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H7079) | 2x | [[Num.32.42] & [1Ch.2.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenath\*\|reference=Num.32.42;1Ch.2.23) |
+| Nobah | [<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5025H) | 2x | [[Num.32.42b] & [Jdg.8.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nobah\*\|reference=Num.32.42;Jdg.8.11) |
+| Nophah | [<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5302) | 1x | [Num.21.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nophah\*\|reference=Num.21.30) |
+All entries for **Kenath or Nobah or Nophah**:  **<big>[[H7079|קְנָת]]</big>** ☩  **<big>[[H5025|נֹבַח]]</big>** ☩  **<big>[[H5302|נֹפַח]]</big>**

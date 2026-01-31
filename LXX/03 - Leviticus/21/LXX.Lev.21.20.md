@@ -7,29 +7,29 @@ Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or s
 or who is a hunchback or dwarf, or who has an eye defect, a festering rash, scabs, or a crushed testicle.<small><sub>**MT:**</sub></small>
 [[Lev.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.19|<< Leviticus 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.21|Leviticus 21:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| humpback, | <big><span class="asgreek">κυρτός</span></big> <sup><small><small>[[G8133]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| peeling, | <big><span class="asgreek">έφηλος</span></big> <sup><small><small>[[G7581]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| hairless | <big><span class="asgreek">πτίλλος</span></big> <sup><small><small>[[G8980]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| mange | <big><span class="asgreek">ψώρα</span></big> <sup><small><small>[[G9805]]</small></small></sup> |
-| a wild | <big><span class="asgreek">αγρία</span></big> <sup><small><small>[[G0066]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| scabbed, | <big><span class="asgreek">λειχήν</span></big> <sup><small><small>[[G8175]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| having one testicle. | <big><span class="asgreek">μονόρχις</span></big> <sup><small><small>[[G8346]]</small></small></sup> |
+| or | **<big>[[G2228\|η]]</big>** |
+| humpback, | **<big>[[G8133\|κυρτός]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| peeling, | **<big>[[G7581\|έφηλος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| hairless | **<big>[[G8980\|πτίλλος]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| might be | **<big>[[G1510\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| mange | **<big>[[G9805\|ψώρα]]</big>** |
+| a wild | **<big>[[G0066\|αγρία]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| scabbed, | **<big>[[G8175\|λειχήν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| having one testicle. | **<big>[[G8346\|μονόρχις]]</big>** |
 [[Lev.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.19|<< Leviticus 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.21|Leviticus 21:21 >>]]</td></tr></table>
 
 

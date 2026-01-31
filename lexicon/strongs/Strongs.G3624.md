@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎οἶκος‎</span></big> **oîkos** <small>*(oy'-kos)*</small> ==**house: home**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+**<big><span class="asgreek">‎οἶκος‎</span></big>** **oîkos** <small>*(oy'-kos)*</small> ==**house: home**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
 <small>of uncertain affinity</small>
 
 $\quad$ home, house(-hold), temple.

@@ -7,38 +7,38 @@ Who [is] the wise man, that may understand this? and [who is he] to whom the mou
 Who is the man wise enough to understand this? To whom has the mouth of the LORD spoken, that he may explain it? Why is the land destroyed and scorched like a desert, so no one can pass through it?<small><sub>**MT:**</sub></small>
 [[Jer.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| discerning | <big><span class="asgreek">συνετός</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him perceive | <big><span class="asgreek">συνέτω</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| this! | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let him announce | <big><span class="asgreek">αναγγειλάτω</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| why | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| was destroyed | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| It was lit \[on fire\] | <big><span class="asgreek">ανήφθη</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a wilderness, | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| so as | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| travel through | <big><span class="asgreek">διοδεύεσθαι</span></big> <sup><small><small>[[G1353]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Who \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| discerning | **<big>[[G4908\|συνετός]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| let him perceive | **<big>[[G4920\|συνέτω]]</big>** |
+| this! | **<big>[[G3778\|τούτο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[is\] with | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| let him announce | **<big>[[G0312\|αναγγειλάτω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| on account of | **<big>[[G1752\|ένεκεν]]</big>** |
+| why | **<big>[[G5100\|τίνος]]</big>** |
+| was destroyed | **<big>[[G0622\|απώλετο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| It was lit \[on fire\] | **<big>[[G0381\|ανήφθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a wilderness, | **<big>[[G2048\|έρημος]]</big>** |
+| so as | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| travel through | **<big>[[G1353\|διοδεύεσθαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Jer.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
 

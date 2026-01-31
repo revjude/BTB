@@ -7,35 +7,35 @@ Then the men of the city said unto Joash, Bring out thy son, that he may die: be
 Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.”<small><sub>**MT:**</sub></small>
 [[Judg.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.29|<< Judges 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.31|Judges 6:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joash, | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| Lead out | <big><span class="asgreek">εξάγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he razed | <big><span class="asgreek">κατέσκαψε</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Baal, | <big><span class="asgreek">Βαάλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he cut down | <big><span class="asgreek">εξέκοψε</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred grove | <big><span class="asgreek">άλσος</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joash, | **<big>[[H3135\|Ιωάς]]</big>** |
+| Lead out | **<big>[[G1806\|εξάγαγε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him die! | **<big>[[G0599\|αποθανέτω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he razed | **<big>[[G2679\|κατέσκαψε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Baal, | **<big>[[G0896\|Βαάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| he cut down | **<big>[[G1581\|εξέκοψε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| sacred grove | **<big>[[G6242\|άλσος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Judg.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.29|<< Judges 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.31|Judges 6:31 >>]]</td></tr></table>
 
 

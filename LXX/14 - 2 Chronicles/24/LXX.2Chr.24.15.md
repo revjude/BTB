@@ -7,25 +7,25 @@ But Jehoiada waxed old, and was full of days when he died; an hundred and thirty
 When Jehoiada was old and full of years, he died at the age of 130.<small><sub>**MT:**</sub></small>
 [[2Chr.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.14|<< 2 Chronicles 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.16|2 Chronicles 24:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoiada grew old, | <big><span class="asgreek">εγήρασεν</span></big> <sup><small><small>[[G1095]]</small></small></sup> <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he came to an end | <big><span class="asgreek">ετελεύτησεν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| being | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his coming to an end. | <big><span class="asgreek">τελευτάν</span></big> <sup><small><small>[[G5053]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoiada grew old, | **<big>[[G1095\|εγήρασεν]]</big>** **<big>[[H3111\|Ιωδαέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| full | **<big>[[G4134\|πλήρης]]</big>** |
+| of days. | **<big>[[G2250\|ημερών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he came to an end | **<big>[[G5053\|ετελεύτησεν]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| being | **<big>[[G1510\|ον]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| years | **<big>[[G2094\|ετών]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his coming to an end. | **<big>[[G5053\|τελευτάν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[2Chr.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.14|<< 2 Chronicles 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.16|2 Chronicles 24:16 >>]]</td></tr></table>
 
 

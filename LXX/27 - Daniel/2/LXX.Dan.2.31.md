@@ -10,33 +10,33 @@ Thou, O king, sawest, and behold a great image. This great image, whose brightne
 As you, O king, were watching, a great statue appeared. A great and dazzling statue stood before you, and its form was awesome.<small><sub>**MT:**</sub></small>
 [[Dan.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.30|<< Daniel 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.32|Daniel 2:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλευ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| viewed. | <big><span class="asgreek">εθεώρεις</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| image | <big><span class="asgreek">εικών</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| image | <big><span class="asgreek">εικών</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| That | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| aspect | <big><span class="asgreek">πρόσοψις</span></big> <sup><small><small>[[G8939]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was overwhelming, | <big><span class="asgreek">υπερφερής</span></big> <sup><small><small>[[G9560]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστώσα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was fearful. | <big><span class="asgreek">φοβερά</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
+| You, | **<big>[[G1473\|συ]]</big>** |
+| O king, | **<big>[[G0935\|βασιλευ]]</big>** |
+| viewed. | **<big>[[G2334\|εθεώρεις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| image | **<big>[[G1504\|εικών]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| image | **<big>[[G1504\|εικών]]</big>** |
+| That | **<big>[[G1565\|εκείνη]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| aspect | **<big>[[G8939\|πρόσοψις]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| was overwhelming, | **<big>[[G9560\|υπερφερής]]</big>** |
+| standing | **<big>[[G2476\|εστώσα]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face; | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| was fearful. | **<big>[[G5398\|φοβερά]]</big>** |
 [[Dan.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.30|<< Daniel 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.32|Daniel 2:32 >>]]</td></tr></table>
 
 

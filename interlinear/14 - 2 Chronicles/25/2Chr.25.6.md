@@ -6,17 +6,17 @@ He also hired 100,000 mighty men of valor from Israel for a hundred talents of s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he hired  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׂכֹּ֣ר </big></span><small><small><sup>[[H7936B]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yis.Kor <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Israel  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יִּשְׂרָאֵ֗ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one hundred  | <span class="ashebrew"><big>מֵ֥אָה </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| Me.'ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אֶ֛לֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'E.lef <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty [man] of  | <span class="ashebrew"><big>גִּבּ֥וֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.Bor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>חָ֖יִל </big></span><small><small><sup>[[H2428G]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for one hundred  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מֵאָ֥ה </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> me.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| talent[s] of  | <span class="ashebrew"><big>כִכַּר </big></span><small><small><sup>[[H3603H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khi.kar- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כָּֽסֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ka.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he hired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7936B\|יִּשְׂכֹּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Israel  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3478\|יִּשְׂרָאֵ֗ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  |**<big>&#8207;[[H3967\|מֵ֥אָה]]&#8207; </big>**| Me.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אֶ֛לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [man] of  |**<big>&#8207;[[H1368\|גִּבּ֥וֹר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H2428G\|חָ֖יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for one hundred  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3967\|מֵאָ֥ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> me.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| talent[s] of  |**<big>&#8207;[[H3603H\|כִכַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi.kar-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כָּֽסֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
 
 

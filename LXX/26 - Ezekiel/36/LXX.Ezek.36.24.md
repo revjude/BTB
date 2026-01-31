@@ -7,27 +7,27 @@ For I will take you from among the heathen, and gather you out of all countries,
 For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.<small><sub>**MT:**</sub></small>
 [[Ezek.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.23|<< Ezekiel 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.25|Ezekiel 36:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will take | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will gather | <big><span class="asgreek">αθροίσω</span></big> <sup><small><small>[[G6003]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lands, | <big><span class="asgreek">γαιών</span></big> <sup><small><small>[[G6710]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring | <big><span class="asgreek">εισάξω</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will take | **<big>[[G2983\|λήψομαι]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations, | **<big>[[G1484\|εθνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will gather | **<big>[[G6003\|αθροίσω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| lands, | **<big>[[G6710\|γαιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will bring | **<big>[[G1521\|εισάξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your land. | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Ezek.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.23|<< Ezekiel 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.25|Ezekiel 36:25 >>]]</td></tr></table>
 
 

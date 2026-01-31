@@ -7,33 +7,33 @@ Then the heathen that are left round about you shall know that I the LORD build 
 Then the nations around you that remain will know that I, the LORD, have rebuilt what was destroyed, and I have replanted what was desolate. I, the LORD, have spoken, and I will do it.<small><sub>**MT:**</sub></small>
 [[Ezek.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.35|<< Ezekiel 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.37|Ezekiel 36:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| might | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| be left behind | <big><span class="asgreek">καταλειφθώσι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| built up | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been demolished; | <big><span class="asgreek">καθηρημένας</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I planted | <big><span class="asgreek">κατεφύτευσα</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been obliterated. | <big><span class="asgreek">ηφανισμένας</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| spoke, | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will act. | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| as many as | **<big>[[G3745\|όσα]]</big>** |
+| might | **<big>[[G0302\|αν]]</big>** |
+| be left behind | **<big>[[G2641\|καταλειφθώσι]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| built up | **<big>[[G3618\|ωκοδόμησα]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|τας]]</big>** |
+| having been demolished; | **<big>[[G2507\|καθηρημένας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I planted | **<big>[[G7952\|κατεφύτευσα]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|τας]]</big>** |
+| having been obliterated. | **<big>[[G0853\|ηφανισμένας]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| spoke, | **<big>[[G2980\|ελάλησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will act. | **<big>[[G4160\|ποιήσω]]</big>** |
 [[Ezek.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.35|<< Ezekiel 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.37|Ezekiel 36:37 >>]]</td></tr></table>
 
 

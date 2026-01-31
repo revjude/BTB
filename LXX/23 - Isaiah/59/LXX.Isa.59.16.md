@@ -10,28 +10,28 @@ And he saw that [there was] no man, and wondered that [there was] no intercessor
 He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him.<small><sub>**MT:**</sub></small>
 [[Isa.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he beheld, | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| man. | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he contemplated, | <big><span class="asgreek">κατενόησε</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assisting. | <big><span class="asgreek">αντιληψόμενος</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he defended | <big><span class="asgreek">ημύνατο</span></big> <sup><small><small>[[G0292]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his arm, | <big><span class="asgreek">βραχίονι</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[with his\] charity | <big><span class="asgreek">ελεημοσύνη</span></big> <sup><small><small>[[G1654]]</small></small></sup> |
-| he supported \[them\] | <big><span class="asgreek">εστηρίσατο</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he beheld, | **<big>[[G1492\|είδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| man. | **<big>[[G0435\|ανήρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he contemplated, | **<big>[[G2657\|κατενόησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no one | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| assisting. | **<big>[[G0482\|αντιληψόμενος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he defended | **<big>[[G0292\|ημύνατο]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his arm, | **<big>[[G1023\|βραχίονι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| \[with his\] charity | **<big>[[G1654\|ελεημοσύνη]]</big>** |
+| he supported \[them\] | **<big>[[G4741\|εστηρίσατο]]</big>** |
 [[Isa.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
 
 

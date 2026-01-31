@@ -7,29 +7,29 @@ And when Uriah was come unto him, David demanded [of him] how Joab did, and how 
 When Uriah came to him, David asked how Joab and the troops were doing and how the war was going.<small><sub>**MT:**</sub></small>
 [[2Sam.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.6|<< 2 Samuel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.8|2 Samuel 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Uriah came | <big><span class="asgreek">παραγίνεται</span></big> <sup><small><small>[[G3854]]</small></small></sup> <big><span class="asgreek">Ουρίας</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David asked | <big><span class="asgreek">επηρώτησε</span></big> <sup><small><small>[[G1905]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| of Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Uriah came | **<big>[[G3854\|παραγίνεται]]</big>** **<big>[[H0223b\|Ουρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David asked | **<big>[[G1905\|επηρώτησε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| of Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| war. | **<big>[[G4171\|πολέμου]]</big>** |
 [[2Sam.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.6|<< 2 Samuel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.8|2 Samuel 11:8 >>]]</td></tr></table>
 
 

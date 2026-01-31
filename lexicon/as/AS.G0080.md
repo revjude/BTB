@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ἀδελφός</span></span>, <span class="asgreek">-οῦ, ὁ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ἀ-</span> copul., <span class="asref"><span class="asgreek">δελφύς</span></span>, <span class="asitalic">womb</span>),</span> </span>
-in cl., <span class="asitalic">a brother</span>, born of the same parent or parents. \[In LXX (Hort, <span class="asitalic">Ja.</span>, 102 f.), for <span class="ashebrew">אָח</span> <small><sup>[[H0251]]</sup></small>;\]
+in cl., <span class="asitalic">a brother</span>, born of the same parent or parents. \[In LXX (Hort, <span class="asitalic">Ja.</span>, 102 f.), for **<big>[[H0251|אָח]]</big>**;\]
 <span class="asbullet"><span class="asbold">1.</span> lit. of a brother ([[LXX.Gen.4.2|Ge 4:2]], al.).</span>
 <span class="asbullet"><span class="asbold">2.</span> Of a neighbour ([[LXX.Lev.19.17|Le 19:17]]).</span>
 <span class="asbullet"><span class="asbold">3.</span> Of a member of the same nation ([[LXX.Exod.2.14|Ex 2:14]], [[LXX.Deut.15.3|De 15:3]]). In NT in each of these senses (1. [[Matt.1.2|Mt 1:2]], al.; 2. [[Matt.7.3|Mt 7:3]]; 3. [[Rom.9.3|Ro 9:3]]) and also,</span>

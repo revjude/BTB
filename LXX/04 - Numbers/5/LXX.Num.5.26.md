@@ -7,32 +7,32 @@ And the priest shall take an handful of the offering, [even] the memorial thereo
 Then the priest is to take a handful of the grain offering as a memorial portion and burn it on the altar; after that he is to have the woman drink the water.<small><sub>**MT:**</sub></small>
 [[Num.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.25|<< Numbers 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.27|Numbers 5:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall grab | <big><span class="asgreek">δράξεται</span></big> <sup><small><small>[[G1405]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| as a memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer | <big><span class="asgreek">ανοίσει</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar; | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to drink | <big><span class="asgreek">ποτιεί</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall grab | **<big>[[G1405\|δράξεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| as a memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall offer | **<big>[[G0399\|ανοίσει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar; | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| to drink | **<big>[[G4222\|ποτιεί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Num.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.25|<< Numbers 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.27|Numbers 5:27 >>]]</td></tr></table>
 
 

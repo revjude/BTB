@@ -7,48 +7,48 @@ Wherefore shall we die before thine eyes, both we and our land? buy us and our l
 Why should we perish before your eyes—we and our land as well? Purchase us and our land in exchange for food. Then we, along with our land, will be slaves to Pharaoh. Give us seed that we may live and not die, and that the land may not become desolate.”<small><sub>**MT:**</sub></small>
 [[Gen.47.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.18|<< Genesis 47:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.20|Genesis 47:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| we might not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθάνωμεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| should be made desolate, | <big><span class="asgreek">ερημωθή</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| you acquire | <big><span class="asgreek">κτήσαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| bread loaves, | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will be | <big><span class="asgreek">εσόμεθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Pharaoh! | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[us\] seed! | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| we should sow, | <big><span class="asgreek">σπείρωμεν</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should live | <big><span class="asgreek">ζώμεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| die, | <big><span class="asgreek">αποθάνωμεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[will\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be made desolate. | <big><span class="asgreek">ερημωθήσεται</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| we might not | **<big>[[G3361\|μη]]</big>** |
+| die | **<big>[[G0599\|αποθάνωμεν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| should be made desolate, | **<big>[[G2049\|ερημωθή]]</big>** |
+| you acquire | **<big>[[G2932\|κτήσαι]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| our land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| bread loaves, | **<big>[[G0740\|άρτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will be | **<big>[[G1510\|εσόμεθα]]</big>** |
+| to you | **<big>[[G1473\|ημείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| our land, | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| servants | **<big>[[G3816\|παίδες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Pharaoh! | **<big>[[G5328\|Φαραώ]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| \[us\] seed! | **<big>[[G4690\|σπέρμα]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| we should sow, | **<big>[[G4687\|σπείρωμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should live | **<big>[[G2198\|ζώμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| die, | **<big>[[G0599\|αποθάνωμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \[will\] not | **<big>[[G3756\|ουκ]]</big>** |
+| be made desolate. | **<big>[[G2049\|ερημωθήσεται]]</big>** |
 [[Gen.47.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.18|<< Genesis 47:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.20|Genesis 47:20 >>]]</td></tr></table>
 
 

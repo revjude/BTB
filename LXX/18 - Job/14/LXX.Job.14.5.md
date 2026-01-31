@@ -7,28 +7,28 @@ Seeing his days [are] determined, the number of his months [are] with thee, thou
 Since his days are determined and the number of his months is with You, and since You have set limits that he cannot exceed,<small><sub>**MT:**</sub></small>
 [[Job.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.4|<< Job 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.6|Job 14:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[be\] one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his existence | <big><span class="asgreek">βίος</span></big> <sup><small><small>[[G0979]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| are counted | <big><span class="asgreek">αριθμητοί</span></big> <sup><small><small>[[G6531]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his months | <big><span class="asgreek">μήνες</span></big> <sup><small><small>[[G3376]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a time | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| You appointed \[him\] | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he pass beyond. | <big><span class="asgreek">υπερβή</span></big> <sup><small><small>[[G5233]]</small></small></sup> |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[be\] one | **<big>[[G1520\|μία]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his existence | **<big>[[G0979\|βίος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| are counted | **<big>[[G6531\|αριθμητοί]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| his months | **<big>[[G3376\|μήνες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a time | **<big>[[G5550\|χρόνον]]</big>** |
+| You appointed \[him\] | **<big>[[G5087\|έθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he pass beyond. | **<big>[[G5233\|υπερβή]]</big>** |
 [[Job.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.4|<< Job 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.6|Job 14:6 >>]]</td></tr></table>
 
 

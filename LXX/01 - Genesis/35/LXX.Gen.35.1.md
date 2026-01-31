@@ -10,40 +10,40 @@ And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there
 Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”<small><sub>**MT:**</sub></small>
 [[Gen.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.31|<< Genesis 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.2|Genesis 35:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| Rising up, | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| Beth-el! | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| live | <big><span class="asgreek">οίκει</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God! | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to the \[one\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearing | <big><span class="asgreek">οφθέντι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| running away | <big><span class="asgreek">αποδιδράσκειν</span></big> <sup><small><small>[[G6424]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Esau | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| Rising up, | **<big>[[G0450\|αναστάς]]</big>** |
+| ascend | **<big>[[G0305\|ανάβηθι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| Beth-el! | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| live | **<big>[[G3611\|οίκει]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G4160\|ποίησον]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God! | **<big>[[G2316\|θεώ]]</big>** |
+| to the \[one\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| appearing | **<big>[[G3708\|οφθέντι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| running away | **<big>[[G6424\|αποδιδράσκειν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Esau | **<big>[[G2269\|Ησαύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.31|<< Genesis 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.2|Genesis 35:2 >>]]</td></tr></table>
 
 

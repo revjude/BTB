@@ -10,17 +10,17 @@ What He tears down cannot be rebuilt; the man He imprisons cannot be released.
 > $\quad$ referenced by: [[Rev.3.7|Rev 3:7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הֵ֣ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he tears down  | <span class="ashebrew"><big>יַ֭הֲרוֹס </big></span><small><small><sup>[[H2040]]</sup></small></small> &#8207;| Ya.ha.ros <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be rebuilt  | <span class="ashebrew"><big>יִבָּנֶ֑ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| yi.ba.Neh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he shuts  | <span class="ashebrew"><big>יִסְגֹּ֥ר </big></span><small><small><sup>[[H5462]]</sup></small></small> &#8207;| yis.Gor <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֝֗ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be opened  | <span class="ashebrew"><big>יִפָּתֵֽחַ </big></span><small><small><sup>[[H6605A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.pa.Te.ach <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he tears down  |**<big>&#8207;[[H2040\|יַ֭הֲרוֹס]]&#8207; </big>**| Ya.ha.ros<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be rebuilt  |**<big>&#8207;[[H1129\|יִבָּנֶ֑ה]]&#8207; </big>**| yi.ba.Neh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he shuts  |**<big>&#8207;[[H5462\|יִסְגֹּ֥ר]]&#8207; </big>**| yis.Gor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֝֗ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be opened  |**<big>&#8207;[[H6605A\|יִפָּתֵֽחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.pa.Te.ach<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.13|<< Job 12:13]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.15|Job 12:15 >>]]</td></tr></table>
 
 

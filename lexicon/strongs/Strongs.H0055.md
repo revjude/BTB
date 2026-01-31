@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָבַךְ‎</span></big> **ʼâbak** <small>*(aw-bak')*</small> ==**to roll up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָבַךְ‎</span></big>** **ʼâbak** <small>*(aw-bak')*</small> ==**to roll up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mount up.

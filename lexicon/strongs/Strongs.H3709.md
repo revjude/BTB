@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּף‎</span></big> **kaph** <small>*(kaf)*</small> ==**palm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּפַף‎</span><sup><small>[[H3721]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּף‎</span></big>** **kaph** <small>*(kaf)*</small> ==**palm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3721|‎כָּפַף‎]]</big>**</small>
 
 $\quad$ branch, [phrase] foot, hand((-ful), -dle, (-led)), hollow, middle, palm, paw, power, sole, spoon.
 - ***the hollow hand*** or ***palm*** (so of the paw of an animal, of the sole, and even of the bowl of a dish or sling, the handle of a bolt, the leaves of a palm-tree)
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1d3)** hollow (of sling)
 $\quad$ $\quad$ **1d4)** hand-shaped branches or fronds (of palm trees)
 $\quad$ $\quad$ **1d5)** handles (as bent)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δάκτυλος</span><sup><small>[[G1147]]</small></sup> · <span class="asgreek">ἴχνος</span><sup><small>[[G2487]]</small></sup> · <span class="asgreek">κλάδος</span><sup><small>[[G2798]]</small></sup> · <span class="asgreek">πῆχυς</span><sup><small>[[G4083]]</small></sup> · <span class="asgreek">πλάτος</span><sup><small>[[G4114]]</small></sup> · <span class="asgreek">τρύβλιον</span><sup><small>[[G5165]]</small></sup> · <span class="asgreek">χείρ</span><sup><small>[[G5495]]</small></sup>
+<small>See Greek: </small>**<big>[[G1147|δάκτυλος]]</big>** · **<big>[[G2487|ἴχνος]]</big>** · **<big>[[G2798|κλάδος]]</big>** · **<big>[[G4083|πῆχυς]]</big>** · **<big>[[G4114|πλάτος]]</big>** · **<big>[[G5165|τρύβλιον]]</big>** · **<big>[[G5495|χείρ]]</big>**

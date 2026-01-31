@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִדְחֶה‎</span></big> **midcheh** <small>*(mid-kheh')*</small> ==**ruin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּחָה‎</span><sup><small>[[H1760]]</small></sup></small>
+**<big><span class="ashebrew">‎מִדְחֶה‎</span></big>** **midcheh** <small>*(mid-kheh')*</small> ==**ruin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1760|‎דָּחָה‎]]</big>**</small>
 
 $\quad$ ruin.
 - ***overthrow***
@@ -7,4 +7,4 @@ $\quad$ ruin.
 **1)** occasion of stumbling, means of stumbling
 **2)** (TWOT) ruin
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκαταστασία</span><sup><small>[[G0181]]</small></sup>
+<small>See Greek: </small>**<big>[[G0181|ἀκαταστασία]]</big>**

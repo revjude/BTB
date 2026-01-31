@@ -6,19 +6,19 @@ Like cages full of birds, so their houses are full of deceit. Therefore they hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.26|<< Jeremiah 5:26]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.28|Jeremiah 5:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| like a cage  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>כְלוּב֙ </big></span><small><small><sup>[[H3619]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> kh.Luv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| full  | <span class="ashebrew"><big>מָ֣לֵא </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| Ma.le' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bird[s]  | <span class="ashebrew"><big>ע֔וֹף </big></span><small><small><sup>[[H5775]]</sup></small></small> &#8207;| of <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| houses their  | <span class="ashebrew"><big>בָּתֵּי </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ba.tei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] full  | <span class="ashebrew"><big>מְלֵאִ֣ים </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| me.le.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deceit  | <span class="ashebrew"><big>מִרְמָ֑ה </big></span><small><small><sup>[[H4820]]</sup></small></small> &#8207;| mir.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have become great  | <span class="ashebrew"><big>גָּדְל֖וּ </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| ga.de.Lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they have gained riches  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲשִֽׁירוּ </big></span><small><small><sup>[[H6238]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Va <small><sup>[[Hc]]</sup></small> i.ya.'a.Shi.ru <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a cage  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3619\|כְלוּב֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> kh.Luv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  |**<big>&#8207;[[H4392\|מָ֣לֵא]]&#8207; </big>**| Ma.le'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bird[s]  |**<big>&#8207;[[H5775\|ע֔וֹף]]&#8207; </big>**| of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| houses their  |**<big>&#8207;[[H1004B\|בָּתֵּי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| ba.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] full  |**<big>&#8207;[[H4392\|מְלֵאִ֣ים]]&#8207; </big>**| me.le.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deceit  |**<big>&#8207;[[H4820\|מִרְמָ֑ה]]&#8207; </big>**| mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become great  |**<big>&#8207;[[H1431\|גָּדְל֖וּ]]&#8207; </big>**| ga.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have gained riches  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6238\|יַּעֲשִֽׁירוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.Shi.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.26|<< Jeremiah 5:26]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.28|Jeremiah 5:28 >>]]</td></tr></table>
 
 

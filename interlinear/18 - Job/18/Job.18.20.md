@@ -6,15 +6,15 @@ Those in the west are appalled at his fate, while those in the east tremble in h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.19|<< Job 18:19]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.21|Job 18:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day his  | <span class="ashebrew"><big>י֭וֹמ </big></span><small><small><sup>[[H3117L]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| yo.m <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are appalled  | <span class="ashebrew"><big>נָשַׁ֣מּוּ </big></span><small><small><sup>[[H8074H]]</sup></small></small> &#8207;| na.Sha.mu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] behind  | <span class="ashebrew"><big>אַחֲרֹנִ֑ים </big></span><small><small><sup>[[H0314]]</sup></small></small> &#8207;| 'a.cha.ro.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [those] before  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קַדְמֹנִ֗ים </big></span><small><small><sup>[[H6931G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kad.mo.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they take hold of  | <span class="ashebrew"><big>אָ֣חֲזוּ </big></span><small><small><sup>[[H0270]]</sup></small></small> &#8207;| 'A.cha.zu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a shudder  | <span class="ashebrew"><big>שָֽׂעַר </big></span><small><small><sup>[[H8178A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sa.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day his  |**<big>&#8207;[[H3117L\|י֭וֹמ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| yo.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are appalled  |**<big>&#8207;[[H8074H\|נָשַׁ֣מּוּ]]&#8207; </big>**| na.Sha.mu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] behind  |**<big>&#8207;[[H0314\|אַחֲרֹנִ֑ים]]&#8207; </big>**| 'a.cha.ro.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [those] before  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H6931G\|קַדְמֹנִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kad.mo.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they take hold of  |**<big>&#8207;[[H0270\|אָ֣חֲזוּ]]&#8207; </big>**| 'A.cha.zu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shudder  |**<big>&#8207;[[H8178A\|שָֽׂעַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sa.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.19|<< Job 18:19]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.21|Job 18:21 >>]]</td></tr></table>
 
 

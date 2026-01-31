@@ -7,56 +7,56 @@ When thou art departed from me to day, then thou shalt find two men by Rachel’
 When you leave me today, you will find two men at Rachel’s tomb in Zelzah on the border of Benjamin. They will say to you, ‘The donkeys you seek have been found, and now your father has stopped worrying about the donkeys and started worrying about you, asking, “What should I do about my son?”’<small><sub>**MT:**</sub></small>
 [[1Sam.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.1|<< 1 Samuel 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.3|1 Samuel 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As soon | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should go forth | <big><span class="asgreek">απέλθης</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall find | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| near | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burying-places | <big><span class="asgreek">τάφοις</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
-| of Rachel, | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| leaping | <big><span class="asgreek">αλλομένους</span></big> <sup><small><small>[[G0242]]</small></small></sup> |
-| greatly. | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall say | <big><span class="asgreek">ερούσί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have been found | <big><span class="asgreek">εύρηνται</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you went | <big><span class="asgreek">επορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to seek. | <big><span class="asgreek">ζητείν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| brushed off | <big><span class="asgreek">αποτετίνακται</span></big> <sup><small><small>[[G0660]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys, | <big><span class="asgreek">όνων</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is worried | <big><span class="asgreek">εδαψιλεύσατο</span></big> <sup><small><small>[[G6785]]</small></small></sup> |
-| about | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should I do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| about | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son? | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As soon | **<big>[[G5613\|ως]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| you should go forth | **<big>[[G0565\|απέλθης]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall find | **<big>[[G2147\|ευρήσεις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| near | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| burying-places | **<big>[[G5028\|τάφοις]]</big>** |
+| of Rachel, | **<big>[[G4478\|Ραχήλ]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| borders | **<big>[[G3725\|ορίοις]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| leaping | **<big>[[G0242\|αλλομένους]]</big>** |
+| greatly. | **<big>[[G3173\|μεγάλα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall say | **<big>[[G2046\|ερούσί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| have been found | **<big>[[G2147\|εύρηνται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you went | **<big>[[G4198\|επορεύθητε]]</big>** |
+| to seek. | **<big>[[G2212\|ζητείν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| brushed off | **<big>[[G0660\|αποτετίνακται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| donkeys, | **<big>[[G3688\|όνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is worried | **<big>[[G6785\|εδαψιλεύσατο]]</big>** |
+| about | **<big>[[G1223\|δι΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| should I do | **<big>[[G4160\|ποιήσω]]</big>** |
+| about | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my son? | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[1Sam.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.1|<< 1 Samuel 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.3|1 Samuel 10:3 >>]]</td></tr></table>
 
 

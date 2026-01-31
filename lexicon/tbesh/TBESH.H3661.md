@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כָּנַן‎</span> <small>***(ka.nan)***</small> ==**stock**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-spelling of: <small>[[H3657]]</small> 
+<small>spelling of:</small> <small>**<big>[[H3657|כַּנָּה]]</big>**</small> 
 
-- Also spelled: <i>kan.nah</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎נ‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "shoot" [[H3657]])
+- Also spelled: <i>kan.nah</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎נ‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "shoot" **<big>[[H3657|כַּנָּה]]</big>**)

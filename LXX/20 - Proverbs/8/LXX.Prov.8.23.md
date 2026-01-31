@@ -7,20 +7,20 @@ I was set up from everlasting, from the beginning, or ever the earth was.
 From everlasting I was established, from the beginning, before the earth began.<small><sub>**MT:**</sub></small>
 [[Prov.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.22|<< Proverbs 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.24|Proverbs 8:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| he founded | <big><span class="asgreek">εθεμελίωσέ</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] beginning, | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| Before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon | **<big>[[G0165\|αιώνος]]</big>** |
+| he founded | **<big>[[G2311\|εθεμελίωσέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] beginning, | **<big>[[G0746\|αρχή]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| making | **<big>[[G4160\|ποιήσαι]]</big>** |
 [[Prov.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.22|<< Proverbs 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.24|Proverbs 8:24 >>]]</td></tr></table>
 
 

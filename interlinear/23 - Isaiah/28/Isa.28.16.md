@@ -10,26 +10,26 @@ So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone
 > $\quad$ referenced by: [[Acts.4.11|Acts 4:11]] ☩ [[Rom.10.11|Rom 10:11]] ☩ [[1Pet.2.6|1Pet 2:6]] ☩ [[Rom.9.33|Rom 9:33]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> therefore  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֵ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֛י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has laid  | <span class="ashebrew"><big>יִסַּ֥ד </big></span><small><small><sup>[[H3245]]</sup></small></small> &#8207;| yi.Sad <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Zion  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צִיּ֖וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a stone  | <span class="ashebrew"><big>אָ֑בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a stone of  | <span class="ashebrew"><big>אֶ֣בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| testing  | <span class="ashebrew"><big>בֹּ֜חַן </big></span><small><small><sup>[[H0976]]</sup></small></small> &#8207;| Bo.chan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a corner of  | <span class="ashebrew"><big>פִּנַּ֤ת </big></span><small><small><sup>[[H6438H]]</sup></small></small> &#8207;| pi.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| preciousness of  | <span class="ashebrew"><big>יִקְרַת֙ </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| yik.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a foundation  | <span class="ashebrew"><big>מוּסָ֣ד </big></span><small><small><sup>[[H4143]]</sup></small></small> &#8207;| mu.Sad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| founded  | <span class="ashebrew"><big>מוּסָּ֔ד </big></span><small><small><sup>[[H3245]]</sup></small></small> &#8207;| mu.Sad <small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the [one who] trusts  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּאֲמִ֖ין </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.'a.Min <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make haste  | <span class="ashebrew"><big>יָחִֽישׁ </big></span><small><small><sup>[[H2363A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Chish <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֛י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has laid  |**<big>&#8207;[[H3245\|יִסַּ֥ד]]&#8207; </big>**| yi.Sad<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zion  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6726\|צִיּ֖וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stone  |**<big>&#8207;[[H0068G\|אָ֑בֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stone of  |**<big>&#8207;[[H0068G\|אֶ֣בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| testing  |**<big>&#8207;[[H0976\|בֹּ֜חַן]]&#8207; </big>**| Bo.chan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a corner of  |**<big>&#8207;[[H6438H\|פִּנַּ֤ת]]&#8207; </big>**| pi.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| preciousness of  |**<big>&#8207;[[H3368\|יִקְרַת֙]]&#8207; </big>**| yik.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a foundation  |**<big>&#8207;[[H4143\|מוּסָ֣ד]]&#8207; </big>**| mu.Sad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| founded  |**<big>&#8207;[[H3245\|מוּסָּ֔ד]]&#8207; </big>**| mu.Sad<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one who] trusts  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H0539\|מַּאֲמִ֖ין]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Min<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make haste  |**<big>&#8207;[[H2363A\|יָחִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Chish<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 
 

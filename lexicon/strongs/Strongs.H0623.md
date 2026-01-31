@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָסָף‎</span></big> **ʼÂçâph** <small>*(aw-sawf')*</small> ==**Asaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָסַף‎</span><sup><small>[[H0622]]</small></sup>; collector</small>
+**<big><span class="ashebrew">‎אָסָף‎</span></big>** **ʼÂçâph** <small>*(aw-sawf')*</small> ==**Asaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0622|‎אָסַף‎]]</big>**; collector</small>
 
 $\quad$ Asaph.
 - § Asaph = *"gatherer"*

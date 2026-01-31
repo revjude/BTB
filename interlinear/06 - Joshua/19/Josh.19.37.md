@@ -6,12 +6,12 @@ Kedesh, Edrei, En-hazor,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.36|<< Joshua 19:36]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.38|Joshua 19:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Kedesh  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קֶ֥דֶשׁ </big></span><small><small><sup>[[H6943G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ke.desh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Edrei  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶדְרֶ֖עִי </big></span><small><small><sup>[[H0154]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ed.Re.'i <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and En  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵ֥ין </big></span><small><small><sup>[[H5877]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hazor  | <span class="ashebrew"><big>חָצֽוֹר </big></span><small><small><sup>[[H5877]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.Tzor <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kedesh  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6943G\|קֶ֥דֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ke.desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Edrei  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0154\|אֶדְרֶ֖עִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ed.Re.'i<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and En  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5877\|עֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazor  |**<big>&#8207;[[H5877\|חָצֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.36|<< Joshua 19:36]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.38|Joshua 19:38 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Thy name, O LORD, [endureth] for ever; [and] thy memorial, O LORD, throughout al
 Your name, O LORD, endures forever, Your renown, O LORD, through all generations.<small><sub>**MT:**</sub></small>
 [[Ps.135.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.12|<< Psalm 135:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.14|Psalm 135:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your memorial | <big><span class="asgreek">μνημόσυνόν</span></big> <sup><small><small>[[G3422]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation. | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon, | **<big>[[G0165\|αιώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your memorial | **<big>[[G3422\|μνημόσυνόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation. | **<big>[[G1074\|γενεάν]]</big>** |
 [[Ps.135.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.12|<< Psalm 135:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.14|Psalm 135:14 >>]]</td></tr></table>
 
 

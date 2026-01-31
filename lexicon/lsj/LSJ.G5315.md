@@ -1,4 +1,4 @@
-form of: <small>[[G2068]]</small> 
+form of: <small>**<big>[[G2068|ἐσθίω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φαγεῖν==</span></b>, 

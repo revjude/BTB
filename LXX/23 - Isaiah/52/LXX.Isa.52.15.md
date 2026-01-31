@@ -11,30 +11,30 @@ so He will sprinkle many nations. Kings will shut their mouths because of Him. F
 > $\quad$ referenced by: [[Rom.15.21|Rom 15:21]] ☩ [[1Cor.2.9|1Cor 2:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall wonder | <big><span class="asgreek">θαυμάσονται</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall hold | <big><span class="asgreek">συνέξουσι</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth. | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| announced | <big><span class="asgreek">ανηγγέλη</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall see; | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| heard not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ακηκόασι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| shall perceive. | <big><span class="asgreek">συνήσουσι</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| shall wonder | **<big>[[G2296\|θαυμάσονται]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall hold | **<big>[[G4912\|συνέξουσι]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their mouth. | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| to whom | **<big>[[G3739\|οις]]</big>** |
+| it was not | **<big>[[G3756\|ουκ]]</big>** |
+| announced | **<big>[[G0312\|ανηγγέλη]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| they shall see; | **<big>[[G3708\|όψονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] ones who | **<big>[[G3739\|οι]]</big>** |
+| heard not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ακηκόασι]]</big>** |
+| shall perceive. | **<big>[[G4920\|συνήσουσι]]</big>** |
 [[Isa.52.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.14|<< Isaiah 52:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.1|Isaiah 53:1 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And the fortress of the high fort of thy walls shall he bring down, lay low, [an
 The high-walled fortress will be brought down, cast to the ground, into the dust.<small><sub>**MT:**</sub></small>
 [[Isa.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.11|<< Isaiah 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.1|Isaiah 26:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| refuge | <big><span class="asgreek">καταφυγής</span></big> <sup><small><small>[[G7950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will lower; | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall go down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">εδάφους</span></big> <sup><small><small>[[G1475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| refuge | **<big>[[G7950\|καταφυγής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| he will lower; | **<big>[[G5013\|ταπεινώσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall go down | **<big>[[G2597\|καταβήσεται]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ground. | **<big>[[G1475\|εδάφους]]</big>** |
 [[Isa.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.11|<< Isaiah 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.1|Isaiah 26:1 >>]]</td></tr></table>
 
 

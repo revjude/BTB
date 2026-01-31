@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H6399]]</small>
-<small>Also see: [[H3373]]</small>
+<small>Aramaic form: **<big>[[H6399|פְּלַח]]</big>**</small>
+<small>Also see: **<big>[[H3373|יָרֵא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יָרֵא‎</span> **verb** ==fear== (Late Hebrew ***id.***; Assyrian <abbr title="transliteration"><u>***îrû, id.;***</u></abbr> [[BDB#Hpt|Hpt]] [[BDB#KAT|KAT]]<sup>2, Gloss i.</sup>, [[BDB#COT|COT]]<sup>Gloss</sup>) — 
 

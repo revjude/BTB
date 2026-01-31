@@ -7,33 +7,33 @@ At that time shall it be said to this people and to Jerusalem, A dry wind of the
 At that time it will be said to this people and to Jerusalem, “A searing wind from the barren heights in the desert blows toward the daughter of My people, but not to winnow or to sift;<small><sub>**MT:**</sub></small>
 [[Jer.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.10|<< Jeremiah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.12|Jeremiah 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| they shall say | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to this people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[There is\] a spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of addiction to a delusion | <big><span class="asgreek">πλανήσεως</span></big> <sup><small><small>[[G8801]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness; | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| purity, | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| holiness. | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that time | **<big>[[G2540\|καιρώ]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| they shall say | **<big>[[G2046\|ερούσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to this people, | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[There is\] a spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of addiction to a delusion | **<big>[[G8801\|πλανήσεως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness; | **<big>[[G2048\|ερήμω]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] not | **<big>[[G3756\|ουκ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| purity, | **<big>[[G2513\|καθαρόν]]</big>** |
+| nor | **<big>[[G3761\|ουδ΄]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| holiness. | **<big>[[G0039\|άγιον]]</big>** |
 [[Jer.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.10|<< Jeremiah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.12|Jeremiah 4:12 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָטַר‎</span></big> **nâṭar** <small>*(naw-tar')*</small> ==**to keep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָטַר‎</span></big>** **nâṭar** <small>*(naw-tar')*</small> ==**to keep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear grudge, keep(-er), reserve.

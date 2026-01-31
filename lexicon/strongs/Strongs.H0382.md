@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִישׁ־טוֹב‎</span></big> **ʼÎysh-Ṭôwb** <small>*(eesh-tobe')*</small> ==**Ish-tob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אִישׁ‎</span><sup><small>[[H0376]]</small></sup> and <span class="ashebrew">‎טוֹב‎</span><sup><small>[[H2897]]</small></sup>; man of Tob</small>
+**<big><span class="ashebrew">‎אִישׁ־טוֹב‎</span></big>** **ʼÎysh-Ṭôwb** <small>*(eesh-tobe')*</small> ==**Ish-tob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0376|‎אִישׁ‎]]</big>** and **<big>[[H2897|‎טוֹב‎]]</big>**; man of Tob</small>
 
 $\quad$ Ish-tob.
 - § Ishtob = *"man of Tob"*

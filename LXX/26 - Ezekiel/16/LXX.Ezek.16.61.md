@@ -7,34 +7,34 @@ Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy s
 Then you will remember your ways and be ashamed when you receive your older and younger sisters. I will give them to you as daughters, but not because of My covenant with you.<small><sub>**MT:**</sub></small>
 [[Ezek.16.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.60|<< Ezekiel 16:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.62|Ezekiel 16:62 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remember | <big><span class="asgreek">μνησθήση</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your way, | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be despised | <big><span class="asgreek">εξατιμωθήση</span></big> <sup><small><small>[[G7305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your taking up | <big><span class="asgreek">αναλαμβάνειν</span></big> <sup><small><small>[[G0353]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sisters, | <big><span class="asgreek">αδελφάς</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your older \[ones\] | <big><span class="asgreek">πρεσβυτέρας</span></big> <sup><small><small>[[G4245]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your younger \[ones\]; | <big><span class="asgreek">νεωτέραις</span></big> <sup><small><small>[[G3501]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| edifying, | <big><span class="asgreek">οικοδομήν</span></big> <sup><small><small>[[G3619]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your covenant. | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remember | **<big>[[G3403\|μνησθήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your way, | **<big>[[G3598\|οδών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be despised | **<big>[[G7305\|εξατιμωθήση]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your taking up | **<big>[[G0353\|αναλαμβάνειν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your sisters, | **<big>[[G0079\|αδελφάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your older \[ones\] | **<big>[[G4245\|πρεσβυτέρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your younger \[ones\]; | **<big>[[G3501\|νεωτέραις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| edifying, | **<big>[[G3619\|οικοδομήν]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| your covenant. | **<big>[[G1242\|διαθήκης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.16.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.60|<< Ezekiel 16:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.62|Ezekiel 16:62 >>]]</td></tr></table>
 
 

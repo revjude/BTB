@@ -7,36 +7,36 @@ Then shalt thou say unto them, Because your fathers have forsaken me, saith the 
 Then you are to answer them: ‘It is because your fathers have forsaken Me, declares the LORD, and followed other gods, and served and worshiped them. They abandoned Me and did not keep My instruction.<small><sub>**MT:**</sub></small>
 [[Jer.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.10|<< Jeremiah 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.12|Jeremiah 16:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπόν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they set out | <big><span class="asgreek">ώχοντο</span></big> <sup><small><small>[[G8468]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| strange gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίων</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they served | <big><span class="asgreek">εδούλευσαν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did obeisance | <big><span class="asgreek">προσεκύνησαν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they abandoned me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| keep | <big><span class="asgreek">εφυλάξαντο</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they set out | **<big>[[G8468\|ώχοντο]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| strange gods, | **<big>[[G2316\|θεών]]</big>** **<big>[[G0245\|αλλοτρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they served | **<big>[[G1398\|εδούλευσαν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did obeisance | **<big>[[G4352\|προσεκύνησαν]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they abandoned me, | **<big>[[G1473\|εμέ]]</big>** **<big>[[G1459\|εγκατέλιπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my law | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| keep | **<big>[[G5442\|εφυλάξαντο]]</big>** |
 [[Jer.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.10|<< Jeremiah 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.12|Jeremiah 16:12 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ And there was no \[one\]  comforting you from all  your children whom you gave b
 Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand.<small><sub>**MT:**</sub></small>
 [[Isa.51.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no \[one\] | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comforting | <big><span class="asgreek">παρακαλών</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children | <big><span class="asgreek">τέκνων σου</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you gave birth. | <big><span class="asgreek">έτεκες</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was none | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking hold of | <big><span class="asgreek">αντιλαμβανόμενος</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand, | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you raised. | <big><span class="asgreek">ύψωσας</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was no \[one\] | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| comforting | **<big>[[G3870\|παρακαλών]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your children | **<big>[[G5043\|τέκνων σου]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| you gave birth. | **<big>[[G5088\|έτεκες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was none | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| taking hold of | **<big>[[G0482\|αντιλαμβανόμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your hand, | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| you raised. | **<big>[[G5312\|ύψωσας]]</big>** |
 [[Isa.51.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
 
 

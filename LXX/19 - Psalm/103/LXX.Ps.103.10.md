@@ -7,20 +7,20 @@ He hath not dealt with us after our sins; nor rewarded us according to our iniqu
 He has not dealt with us according to our sins or repaid us according to our iniquities.<small><sub>**MT:**</sub></small>
 [[Ps.103.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.9|<< Psalm 103:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.11|Psalm 103:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our lawless deeds | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did he deal | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with us; | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did he recompense | <big><span class="asgreek">ανταπέδωκεν</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Not | **<big>[[G3756\|ου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our lawless deeds | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| did he deal | **<big>[[G4160\|εποίησεν]]</big>** |
+| with us; | **<big>[[G1473\|ημίν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our sins | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| did he recompense | **<big>[[G0467\|ανταπέδωκεν]]</big>** |
+| to us. | **<big>[[G1473\|ημίν]]</big>** |
 [[Ps.103.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.9|<< Psalm 103:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.11|Psalm 103:11 >>]]</td></tr></table>
 
 

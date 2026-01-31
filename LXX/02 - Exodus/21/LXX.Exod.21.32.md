@@ -7,25 +7,25 @@ If the ox shall push a manservant or a maidservant; he shall give unto their mas
 If the ox gores a manservant or maidservant, the owner must pay thirty shekels of silver to the master of that servant, and the ox must be stoned.<small><sub>**MT:**</sub></small>
 [[Exod.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.31|<< Exodus 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.33|Exodus 21:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a manservant | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| should have gored | <big><span class="asgreek">κερατίση</span></big> <sup><small><small>[[G7997]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a maidservant, | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| double-drachmas | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their owner, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| shall be stoned. | <big><span class="asgreek">λιθοβοληθήσεται</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a manservant | **<big>[[G3816\|παίδα]]</big>** |
+| should have gored | **<big>[[G7997\|κερατίση]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bull | **<big>[[G5022\|ταύρος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a maidservant, | **<big>[[G3814\|παιδίσκην]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| double-drachmas | **<big>[[G1323\|δίδραχμα]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| their owner, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bull | **<big>[[G5022\|ταύρος]]</big>** |
+| shall be stoned. | **<big>[[G3036\|λιθοβοληθήσεται]]</big>** |
 [[Exod.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.31|<< Exodus 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.33|Exodus 21:33 >>]]</td></tr></table>
 
 

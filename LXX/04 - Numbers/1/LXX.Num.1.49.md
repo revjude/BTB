@@ -7,24 +7,24 @@ Only thou shalt not number the tribe of Levi, neither take the sum of them among
 “Do not number the tribe of Levi in the census with the other Israelites.<small><sub>**MT:**</sub></small>
 [[Num.1.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.48|<< Numbers 1:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.50|Numbers 1:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Know \[that\]! | <big><span class="asgreek">όρα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλήν</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Levi | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| consider | <big><span class="asgreek">συνεπισκέψη</span></big> <sup><small><small>[[G9312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Know \[that\]! | **<big>[[G3708\|όρα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tribe | **<big>[[G5443\|φυλήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Levi | **<big>[[G3017\|Λευί]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| consider | **<big>[[G9312\|συνεπισκέψη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their number | **<big>[[G0706\|αριθμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.1.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.48|<< Numbers 1:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.50|Numbers 1:50 >>]]</td></tr></table>
 
 

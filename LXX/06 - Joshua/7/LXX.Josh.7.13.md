@@ -7,43 +7,43 @@ Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thu
 Get up and consecrate the people, saying, ‘Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: Among you, O Israel, there are things devoted to destruction. You cannot stand against your enemies until you remove them.<small><sub>**MT:**</sub></small>
 [[Josh.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.12|<< Joshua 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.14|Joshua 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In rising up, | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| purify | <big><span class="asgreek">άγνισον</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tell \[them\] | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to be sanctified | <big><span class="asgreek">αγνισθήναι</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tomorrow! | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offering devoted for consumption | <big><span class="asgreek">ανάθεμά</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσεσθε</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to withstand | <big><span class="asgreek">αντιστήναι</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should lift away | <big><span class="asgreek">εξάρηται</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offering for consumption | <big><span class="asgreek">ανάθεμα</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In rising up, | **<big>[[G0450\|αναστάς]]</big>** |
+| purify | **<big>[[G0048\|άγνισον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tell \[them\] | **<big>[[G2036\|είπον]]</big>** |
+| to be sanctified | **<big>[[G0048\|αγνισθήναι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| tomorrow! | **<big>[[G0839\|αύριον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| offering devoted for consumption | **<big>[[G0331\|ανάθεμά]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| O Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσεσθε]]</big>** |
+| to withstand | **<big>[[G0436\|αντιστήναι]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| you should lift away | **<big>[[G1808\|εξάρηται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| offering for consumption | **<big>[[G0331\|ανάθεμα]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Josh.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.12|<< Joshua 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.14|Joshua 7:14 >>]]</td></tr></table>
 
 

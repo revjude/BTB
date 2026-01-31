@@ -7,22 +7,22 @@ And he went up and down among the lions, he became a young lion, and learned to 
 He prowled among the lions, and became a young lion. After learning to tear his prey, he devoured men.<small><sub>**MT:**</sub></small>
 [[Ezek.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.5|<< Ezekiel 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.7|Ezekiel 19:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he paced | <big><span class="asgreek">ανεστρέφετο</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of lions; | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| he became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| learned | <big><span class="asgreek">έμαθεν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| to seize | <big><span class="asgreek">αρπάζειν</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| prey, | <big><span class="asgreek">αρπάγματα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| he devoured | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he paced | **<big>[[G0390\|ανεστρέφετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of lions; | **<big>[[G3023\|λεόντων]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| he became | **<big>[[G1096\|εγένετο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| learned | **<big>[[G3129\|έμαθεν]]</big>** |
+| to seize | **<big>[[G0726\|αρπάζειν]]</big>** |
+| prey, | **<big>[[G6540\|αρπάγματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0444\|ανθρώπους]]</big>** |
+| he devoured | **<big>[[G2068\|έφαγε]]</big>** |
 [[Ezek.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.5|<< Ezekiel 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.7|Ezekiel 19:7 >>]]</td></tr></table>
 
 

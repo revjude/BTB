@@ -1,5 +1,4 @@
-<span class="ashebrew">‎מִלְכָּה‎</span> <small>***(mil.kah)***</small> ==**Milcah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time of the Patriarchs, first mentioned at [[Gen.11.29|Gen.11.29]]
--  daughter of: Haran ([[H2039]])
--  sister of: Lot ([[H3876]]) and Iscah ([[H3252]]); married to Nahor ([[H5152H]])
--  mother of: Uz ([[H5780H]]), Buz ([[H0938]]), Kemuel ([[H7055]]), Chesed ([[H3777]]), Hazo ([[H2375]]), Pildash ([[H6394]]), Jidlaph ([[H3044]]) and Bethuel ([[H1328A]])
+-  daughter of: Haran (**<big>[[H2039|הָרָן]]</big>**)
+-  sister of: Lot (**<big>[[H3876|לוֹט]]</big>**) and Iscah (**<big>[[H3252|יִסְכָּה]]</big>**); married to Nahor (**<big>[[H5152H|נָחוֹר]]</big>**)
+-  mother of: Uz (**<big>[[H5780H|עוּץ]]</big>**), Buz (**<big>[[H0938|בּוּז]]</big>**), Kemuel (**<big>[[H7055|קְמוּאֵל]]</big>**), Chesed (**<big>[[H3777|כֶּשֶׂד]]</big>**), Hazo (**<big>[[H2375|חֲזוֹ]]</big>**), Pildash (**<big>[[H6394|פִּלְדָּשׁ]]</big>**), Jidlaph (**<big>[[H3044|יִדְלָף]]</big>**) and Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**)

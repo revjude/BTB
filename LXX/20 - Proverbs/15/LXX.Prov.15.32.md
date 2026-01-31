@@ -7,18 +7,18 @@ He that refuseth instruction despiseth his own soul: but he that heareth reproof
 He who ignores discipline despises himself, but whoever heeds correction gains understanding.<small><sub>**MT:**</sub></small>
 [[Prov.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.31|<< Proverbs 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.33|Proverbs 15:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| thrusts away | <big><span class="asgreek">απωθείται</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| instruction | <big><span class="asgreek">παιδείαν</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
-| detests | <big><span class="asgreek">μισεί</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| himself; | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| giving heed to | <big><span class="asgreek">τηρών</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| reproofs | <big><span class="asgreek">ελέγχους</span></big> <sup><small><small>[[G1650]]</small></small></sup> |
-| loves | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| his life. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The one who | **<big>[[G3739\|ος]]</big>** |
+| thrusts away | **<big>[[G0683\|απωθείται]]</big>** |
+| instruction | **<big>[[G3809\|παιδείαν]]</big>** |
+| detests | **<big>[[G3404\|μισεί]]</big>** |
+| himself; | **<big>[[G1438\|εαυτόν]]</big>** |
+| but the one | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| giving heed to | **<big>[[G5083\|τηρών]]</big>** |
+| reproofs | **<big>[[G1650\|ελέγχους]]</big>** |
+| loves | **<big>[[G0025\|αγαπά]]</big>** |
+| his life. | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.31|<< Proverbs 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.33|Proverbs 15:33 >>]]</td></tr></table>
 
 

@@ -6,24 +6,24 @@ In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi be
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in year  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שְׁנַ֨ת </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> sh.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֤ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and nine  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תֵ֙שַׁע֙ </big></span><small><small><sup>[[H8672]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Te.sha' <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year  | <span class="ashebrew"><big>שָׁנָ֔ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Azariah  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲזַרְיָ֖ה </big></span><small><small><sup>[[H5838x]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.zar.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he became king  | <span class="ashebrew"><big>מָ֠לַךְ </big></span><small><small><sup>[[H4427A]]</sup></small></small> &#8207;| Ma.lakh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Menahem  | <span class="ashebrew"><big>מְנַחֵ֨ם </big></span><small><small><sup>[[H4505]]</sup></small></small> &#8207;| me.na.Chem <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gadi  | <span class="ashebrew"><big>גָּדִ֧י </big></span><small><small><sup>[[H1424]]</sup></small></small> &#8207;| ga.Di <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֛ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶ֥שֶׂר </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'E.ser <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֖ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Samaria  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֹׁמְרֽוֹן </big></span><small><small><sup>[[H8111]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> sho.me.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֤ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and nine  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H8672\|תֵ֙שַׁע֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Te.sha'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year  |**<big>&#8207;[[H8141\|שָׁנָ֔ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Azariah  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5838x\|עֲזַרְיָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.zar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he became king  |**<big>&#8207;[[H4427A\|מָ֠לַךְ]]&#8207; </big>**| Ma.lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Menahem  |**<big>&#8207;[[H4505\|מְנַחֵ֨ם]]&#8207; </big>**| me.na.Chem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gadi  |**<big>&#8207;[[H1424\|גָּדִ֧י]]&#8207; </big>**| ga.Di<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֛ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֶ֥שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Samaria  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 
 

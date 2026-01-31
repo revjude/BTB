@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁמֶר‎</span></big> **Shemer** <small>*(sheh'-mer)*</small> ==**Shemer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֶׁמֶר‎</span><sup><small>[[H8105]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁמֶר‎</span></big>** **Shemer** <small>*(sheh'-mer)*</small> ==**Shemer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8105|‎שֶׁמֶר‎]]</big>**</small>
 
 $\quad$ Shamer, Shemer.
 - § Shemer or Shamer or Shamed = *"preserved"*

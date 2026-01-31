@@ -1,8 +1,8 @@
 <small>*Gethsemane • Garden near Jerusalem; site of Jesus' prayer and arrest*</small>
 
 <span class='tipnrhighlight'>Gethsemane</span>, a garden at the Mount of Olives, was the site where Jesus prayed and was arrested before his crucifixion.
-- A location near Jerusalem<[[H3389]]> first mentioned at [[Matt.26.36|Mat.26.36]]; 
-- only referred to as Gethsemane<[[G1068]]> \(<span class='tipnrLangGreek'>Γεθσημανῆ</span>\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Matt.26.36|Mat.26.36]]; 
+- only referred to as Gethsemane **<big>[[G1068|Γεθσημανῆ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ During his prayer, Jesus was deeply distressed and sorrowful, to the point of sw
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gethsemane | [<span class='tipnrLangGreek'>Γεθσημανῆ</span>](G1068) <small>*Greek*</small> | 2x | [[Mat.26.36] & [Mrk.14.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gethsemane\*\|reference=Mat.26.36;Mrk.14.32) |
-All Strong's for **Gethsemane**: \[[[G1068]]\]
+| Gethsemane | [<span class='tipnrLangGreek'>Γεθσημανῆ</span>](G1068) | 2x | [[Mat.26.36] & [Mrk.14.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gethsemane\*\|reference=Mat.26.36;Mrk.14.32) |
+All entries for **Gethsemane**:  **<big>[[G1068|Γεθσημανῆ]]</big>**

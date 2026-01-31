@@ -7,41 +7,41 @@ And the priest shall look on him the seventh day: and, behold, [if] the plague i
 On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days.<small><sub>**MT:**</sub></small>
 [[Lev.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall look at | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[if\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| abides | <big><span class="asgreek">μένει</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him, \[and\] | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| degenerate | <big><span class="asgreek">μετέπεσεν</span></big> <sup><small><small>[[G8302]]</small></small></sup> |
-| \[if\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall separate | <big><span class="asgreek">αφοριεί</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second \[time\]. | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall look at | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| infection | **<big>[[G0860\|αφήν]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[if\] the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| abides | **<big>[[G3306\|μένει]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him, \[and\] | **<big>[[G1473\|αυτού]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| degenerate | **<big>[[G8302\|μετέπεσεν]]</big>** |
+| \[if\] the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall separate | **<big>[[G0873\|αφοριεί]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| second \[time\]. | **<big>[[G1208\|δεύτερον]]</big>** |
 [[Lev.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 
 

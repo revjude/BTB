@@ -6,25 +6,25 @@ For this is what the LORD of Hosts says: “Cut down the trees and raise a siege
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.5|<< Jeremiah 6:5]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.7|Jeremiah 6:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֔וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cut down  | <span class="ashebrew"><big>כִּרְת֣וּ </big></span><small><small><sup>[[H3772G]]</sup></small></small> &#8207;| kir.Tu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood  | <span class="ashebrew"><big>עֵצָ֔ה </big></span><small><small><sup>[[H6097]]</sup></small></small> &#8207;| 'e.Tzah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and pour out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁפְכ֥וּ </big></span><small><small><sup>[[H8210I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shif.Khu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֖ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mound  | <span class="ashebrew"><big>סֹלְלָ֑ה </big></span><small><small><sup>[[H5550]]</sup></small></small> &#8207;| so.le.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>הִ֚יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> city  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עִ֣יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be visited  | <span class="ashebrew"><big>הָפְקַ֔ד </big></span><small><small><sup>[[H6485H]]</sup></small></small> &#8207;| ha.fe.Kad <small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of it  | <span class="ashebrew"><big>כֻּלָּ֖ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] oppression  | <span class="ashebrew"><big>עֹ֥שֶׁק </big></span><small><small><sup>[[H6233]]</sup></small></small> &#8207;| 'O.shek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in midst its  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבָּֽ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.Ba <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹ֤ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֔וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cut down  |**<big>&#8207;[[H3772G\|כִּרְת֣וּ]]&#8207; </big>**| kir.Tu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood  |**<big>&#8207;[[H6097\|עֵצָ֔ה]]&#8207; </big>**| 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pour out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8210I\|שִׁפְכ֥וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shif.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֖ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mound  |**<big>&#8207;[[H5550\|סֹלְלָ֑ה]]&#8207; </big>**| so.le.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|הִ֚יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be visited  |**<big>&#8207;[[H6485H\|הָפְקַ֔ד]]&#8207; </big>**| ha.fe.Kad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  |**<big>&#8207;[[H3605\|כֻּלָּ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] oppression  |**<big>&#8207;[[H6233\|עֹ֥שֶׁק]]&#8207; </big>**| 'O.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.5|<< Jeremiah 6:5]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.7|Jeremiah 6:7 >>]]</td></tr></table>
 
 

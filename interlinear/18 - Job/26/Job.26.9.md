@@ -6,14 +6,14 @@ He covers the face of the full moon, spreading over it His cloud.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.8|<< Job 26:8]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.10|Job 26:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he] covers  | <span class="ashebrew"><big>מְאַחֵ֥ז </big></span><small><small><sup>[[H0270]]</sup></small></small> &#8207;| me.'a.Chez <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] presence of  | <span class="ashebrew"><big>פְּנֵי </big></span><small><small><sup>[[H6440J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] throne  | <span class="ashebrew"><big>כִסֵּ֑ה </big></span><small><small><sup>[[H3678G]]</sup></small></small> &#8207;| khi.Seh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he spreads  | <span class="ashebrew"><big>פַּרְשֵׁ֖ז </big></span><small><small><sup>[[H6576]]</sup></small></small> &#8207;| par.Shez <small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over it  | <span class="ashebrew"><big>עָלָ֣י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cloud his  | <span class="ashebrew"><big>עֲנָנֽ </big></span><small><small><sup>[[H6051]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.na.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he] covers  |**<big>&#8207;[[H0270\|מְאַחֵ֥ז]]&#8207; </big>**| me.'a.Chez<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] presence of  |**<big>&#8207;[[H6440J\|פְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] throne  |**<big>&#8207;[[H3678G\|כִסֵּ֑ה]]&#8207; </big>**| khi.Seh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spreads  |**<big>&#8207;[[H6576\|פַּרְשֵׁ֖ז]]&#8207; </big>**| par.Shez<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over it  |**<big>&#8207;[[H5921A\|עָלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cloud his  |**<big>&#8207;[[H6051\|עֲנָנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.na.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.8|<< Job 26:8]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.10|Job 26:10 >>]]</td></tr></table>
 
 

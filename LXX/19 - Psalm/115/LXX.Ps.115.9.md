@@ -7,17 +7,17 @@ O Israel, trust thou in the LORD: he [is] their help and their shield.
 O Israel, trust in the LORD! He is their help and shield.<small><sub>**MT:**</sub></small>
 [[Ps.115.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.8|<< Psalm 115:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.10|Psalm 115:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| hopes | <big><span class="asgreek">ήλπισεν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| defender | <big><span class="asgreek">υπερασπιστής</span></big> <sup><small><small>[[G9544]]</small></small></sup> |
-| he is their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[The\] house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| hopes | **<big>[[G1679\|ήλπισεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριον]]</big>** |
+| helper | **<big>[[G0998\|βοηθός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| defender | **<big>[[G9544\|υπερασπιστής]]</big>** |
+| he is their | **<big>[[G1473\|αυτών]]</big>** **<big>[[G1510\|εστιν]]</big>** |
 [[Ps.115.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.8|<< Psalm 115:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.10|Psalm 115:10 >>]]</td></tr></table>
 
 

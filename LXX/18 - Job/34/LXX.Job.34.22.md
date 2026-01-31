@@ -7,17 +7,17 @@ nor is there a place  to hide for the ones doing  lawless deeds.
 There is no darkness or deep shadow where the workers of iniquity can hide.<small><sub>**MT:**</sub></small>
 [[Job.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.21|<< Job 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.23|Job 34:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| is there | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hide | <big><span class="asgreek">κρυβήναι</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| for the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds. | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| is there | **<big>[[G1510\|εστι]]</big>** |
+| a place | **<big>[[G5117\|τόπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to hide | **<big>[[G2928\|κρυβήναι]]</big>** |
+| for the ones | **<big>[[G3588\|τους]]</big>** |
+| doing | **<big>[[G4160\|ποιούντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| lawless deeds. | **<big>[[G0459\|άνομα]]</big>** |
 [[Job.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.21|<< Job 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.23|Job 34:23 >>]]</td></tr></table>
 
 

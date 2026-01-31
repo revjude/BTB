@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזַזְיָהוּ‎</span></big> **ʻĂzazyâhûw** <small>*(az-az-yaw'-hoo)*</small> ==**Azaziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָזַז‎</span><sup><small>[[H5810]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has strengthened</small>
+**<big><span class="ashebrew">‎עֲזַזְיָהוּ‎</span></big>** **ʻĂzazyâhûw** <small>*(az-az-yaw'-hoo)*</small> ==**Azaziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5810|‎עָזַז‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has strengthened</small>
 
 $\quad$ Azaziah.
 - § Azaziah = *"Jehovah is mighty"*

@@ -10,35 +10,35 @@ And it fell on a day, that Elisha passed to Shunem, where [was] a great woman; a
 One day Elisha went to Shunem, and a prominent woman who lived there persuaded him to have a meal. So whenever he would pass by, he would stop there to eat.<small><sub>**MT:**</sub></small>
 [[2Kgs.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.7|<< 2 Kings 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.9|2 Kings 4:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha passed over | <big><span class="asgreek">διέβη</span></big> <sup><small><small>[[G1224]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shunem, | <big><span class="asgreek">Σωνάμ</span></big> <sup><small><small>[[H7766]]</small></small></sup> |
-| and \[there was\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she took hold | <big><span class="asgreek">εκράτησεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| of him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[whenever it was\] | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| fit | <big><span class="asgreek">ικανού</span></big> <sup><small><small>[[G2425]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for him to enter | <big><span class="asgreek">εισπορεύεσθαι</span></big> <sup><small><small>[[G1531]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[that\] he turned aside | <big><span class="asgreek">εξέκλινε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Elisha passed over | **<big>[[G1224\|διέβη]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Shunem, | **<big>[[H7766\|Σωνάμ]]</big>** |
+| and \[there was\] | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she took hold | **<big>[[G2902\|εκράτησεν]]</big>** |
+| of him | **<big>[[G1473\|αυτόν]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| bread. | **<big>[[G0740\|άρτον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| \[whenever it was\] | **<big>[[G0575\|αφ΄]]</big>** |
+| fit | **<big>[[G2425\|ικανού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for him to enter | **<big>[[G1531\|εισπορεύεσθαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \[that\] he turned aside | **<big>[[G1578\|εξέκλινε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| bread. | **<big>[[G0740\|άρτον]]</big>** |
 [[2Kgs.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.7|<< 2 Kings 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.9|2 Kings 4:9 >>]]</td></tr></table>
 
 

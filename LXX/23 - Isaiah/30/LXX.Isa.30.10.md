@@ -7,29 +7,29 @@ Which say to the seers, See not; and to the prophets, Prophesy not unto us right
 They say to the seers, “Stop seeing visions!” and to the prophets, “Do not prophesy to us the truth! Speak to us pleasant words; prophesy illusions.<small><sub>**MT:**</sub></small>
 [[Isa.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.9|<< Isaiah 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.11|Isaiah 30:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφήταις</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| announce | <big><span class="asgreek">αναγγέλλετε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to us! | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| visions | <big><span class="asgreek">οράματα</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| that see | <big><span class="asgreek">ορώσι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλείτε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| speak to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">λαλείτε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| announce to us | <big><span class="asgreek">αναγγέλλετε</span></big> <sup><small><small>[[G0312]]</small></small></sup> <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| another | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| addicting delusion, | <big><span class="asgreek">πλάνησιν</span></big> <sup><small><small>[[G8801]]</small></small></sup> |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| prophets, | **<big>[[G4396\|προφήταις]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| announce | **<big>[[G0312\|αναγγέλλετε]]</big>** |
+| to us! | **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| visions | **<big>[[G3705\|οράματα]]</big>** |
+| that see | **<big>[[G3708\|ορώσι]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| speak | **<big>[[G2980\|λαλείτε]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| speak to us, | **<big>[[G1473\|ημίν]]</big>** **<big>[[G2980\|λαλείτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| announce to us | **<big>[[G0312\|αναγγέλλετε]]</big>** **<big>[[G1473\|ημίν]]</big>** |
+| another | **<big>[[G2087\|ετέραν]]</big>** |
+| addicting delusion, | **<big>[[G8801\|πλάνησιν]]</big>** |
 [[Isa.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.9|<< Isaiah 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.11|Isaiah 30:11 >>]]</td></tr></table>
 
 

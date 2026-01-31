@@ -7,30 +7,30 @@ They that tarry long at the wine; they that go to seek mixed wine.
 Those who linger over wine, who go to taste mixed drinks.<small><sub>**MT:**</sub></small>
 [[Prov.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.29|<< Proverbs 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.31|Proverbs 23:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is it\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones lingering | <big><span class="asgreek">εγχρονιζόντων</span></big> <sup><small><small>[[G7041]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| wines? | <big><span class="asgreek">οίνοις</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| \[is it\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prowling | <big><span class="asgreek">ιχνευόντων</span></big> <sup><small><small>[[G7743]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| parties | <big><span class="asgreek">πότοι</span></big> <sup><small><small>[[G4224]]</small></small></sup> |
-| happen? | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be intoxicated | <big><span class="asgreek">μεθύσκεσθε</span></big> <sup><small><small>[[G3182]]</small></small></sup> |
-| by wine, | <big><span class="asgreek">οίνω</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| consort | <big><span class="asgreek">ομιλείτε</span></big> <sup><small><small>[[G3656]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| with just | <big><span class="asgreek">δικαίοις</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| consort | <big><span class="asgreek">ομιλείτε</span></big> <sup><small><small>[[G3656]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] promenades! | <big><span class="asgreek">περιπάτοις</span></big> <sup><small><small>[[G8745]]</small></small></sup> |
+| \[is it\] not | **<big>[[G3756\|ου]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones lingering | **<big>[[G7041\|εγχρονιζόντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| wines? | **<big>[[G3631\|οίνοις]]</big>** |
+| \[is it\] not | **<big>[[G3756\|ου]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| prowling | **<big>[[G7743\|ιχνευόντων]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| parties | **<big>[[G4224\|πότοι]]</big>** |
+| happen? | **<big>[[G1096\|γίνονται]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| be intoxicated | **<big>[[G3182\|μεθύσκεσθε]]</big>** |
+| by wine, | **<big>[[G3631\|οίνω]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| consort | **<big>[[G3656\|ομιλείτε]]</big>** |
+| men | **<big>[[G0444\|ανθρώποις]]</big>** |
+| with just | **<big>[[G1342\|δικαίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| consort | **<big>[[G3656\|ομιλείτε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] promenades! | **<big>[[G8745\|περιπάτοις]]</big>** |
 [[Prov.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.29|<< Proverbs 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.31|Proverbs 23:31 >>]]</td></tr></table>
 
 

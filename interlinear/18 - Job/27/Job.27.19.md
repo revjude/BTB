@@ -6,15 +6,15 @@ He lies down wealthy, but will do so no more; when he opens his eyes, all is gon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.20|Job 27:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| rich  | <span class="ashebrew"><big>עָשִׁ֣יר </big></span><small><small><sup>[[H6223]]</sup></small></small> &#8207;| 'a.Shir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will lie down  | <span class="ashebrew"><big>יִ֭שְׁכַּב </big></span><small><small><sup>[[H7901H]]</sup></small></small> &#8207;| Yish.kav <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be removed  | <span class="ashebrew"><big>יֵאָסֵ֑ף </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| ye.'a.Sef <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes his  | <span class="ashebrew"><big>עֵינָ֖י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he opens  | <span class="ashebrew"><big>פָּקַ֣ח </big></span><small><small><sup>[[H6491]]</sup></small></small> &#8207;| pa.Kach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not [is] it  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵינֶֽ </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Ne. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rich  |**<big>&#8207;[[H6223\|עָשִׁ֣יר]]&#8207; </big>**| 'a.Shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will lie down  |**<big>&#8207;[[H7901H\|יִ֭שְׁכַּב]]&#8207; </big>**| Yish.kav<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be removed  |**<big>&#8207;[[H0622\|יֵאָסֵ֑ף]]&#8207; </big>**| ye.'a.Sef<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes his  |**<big>&#8207;[[H5869A\|עֵינָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he opens  |**<big>&#8207;[[H6491\|פָּקַ֣ח]]&#8207; </big>**| pa.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [is] it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.20|Job 27:20 >>]]</td></tr></table>
 
 

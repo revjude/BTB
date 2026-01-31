@@ -12,15 +12,15 @@ To the chief Musician upon Nehiloth, A Psalm of David. Give ear to my words, O L
 For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning.<small><sub>**MT:**</sub></small>
 [[Ps.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.8|<< Psalm 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.2|Psalm 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">ρήματά</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give ear to | <big><span class="asgreek">ενώτισαι</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Take notice | <big><span class="asgreek">σύνες</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my cry! | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my words | **<big>[[G4487\|ρήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Give ear to | **<big>[[G1801\|ενώτισαι]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| Take notice | **<big>[[G4920\|σύνες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my cry! | **<big>[[G2906\|κραυγής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.8|<< Psalm 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.2|Psalm 5:2 >>]]</td></tr></table>
 
 

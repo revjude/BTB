@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חֲיָא‎</span> <small>***(cha.ya)***</small> ==**to live**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2421]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2421|חָיָה]]</big>**</small>

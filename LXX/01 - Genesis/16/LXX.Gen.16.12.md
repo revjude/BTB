@@ -7,29 +7,29 @@ And he will be a wild man; his hand [will be] against every man, and every man�
 He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”<small><sub>**MT:**</sub></small>
 [[Gen.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.11|<< Genesis 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.13|Genesis 16:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a rugged | <big><span class="asgreek">άγροικος</span></big> <sup><small><small>[[G6127]]</small></small></sup> |
-| man; | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all, | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will dwell | <big><span class="asgreek">κατοικήσει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| a rugged | **<big>[[G6127\|άγροικος]]</big>** |
+| man; | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his hands | **<big>[[G5495\|χείρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[will be\] upon | **<big>[[G1909\|επί]]</big>** |
+| all, | **<big>[[G3956\|πάντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| hands | **<big>[[G5495\|χείρες]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his brothers | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he will dwell | **<big>[[G2730\|κατοικήσει]]</big>** |
 [[Gen.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.11|<< Genesis 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.13|Genesis 16:13 >>]]</td></tr></table>
 
 

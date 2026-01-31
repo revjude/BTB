@@ -7,21 +7,21 @@ For again the Edomites had come and smitten Judah, and carried away captives.
 The Edomites had again come and attacked Judah and carried away captives.<small><sub>**MT:**</sub></small>
 [[2Chr.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.16|<< 2 Chronicles 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.18|2 Chronicles 28:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edomites | <big><span class="asgreek">Ιδουμαίοι</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| attacked | <big><span class="asgreek">επέθεντο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took captive | <big><span class="asgreek">ηχμαλώτευσαν</span></big> <sup><small><small>[[G0163]]</small></small></sup> |
-| a captivity. | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Edomites | **<big>[[H0123\|Ιδουμαίοι]]</big>** |
+| attacked | **<big>[[G2007\|επέθεντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they took captive | **<big>[[G0163\|ηχμαλώτευσαν]]</big>** |
+| a captivity. | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
 [[2Chr.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.16|<< 2 Chronicles 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.18|2 Chronicles 28:18 >>]]</td></tr></table>
 
 

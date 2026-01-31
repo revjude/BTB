@@ -1,4 +1,3 @@
-<span class="asaramaic">‎דִּכֵּן‎</span> <small>***(dik.ken)***</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H2088]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2088|זֶה]]</big>**</small> 
 
-- Aramaic of <i>zeh</i> (<span class='ashebrew'>‎ז‎</span>ֶ<span class='ashebrew'>‎ה‎</span> "this" [[H2088]])
+- Aramaic of <i>zeh</i> (<span class='ashebrew'>‎ז‎</span>ֶ<span class='ashebrew'>‎ה‎</span> "this" **<big>[[H2088|זֶה]]</big>**)

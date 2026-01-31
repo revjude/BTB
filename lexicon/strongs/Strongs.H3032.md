@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָדַד‎</span></big> **yâdad** <small>*(yaw-dad')*</small> ==**to cast a lot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; (compare <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup>)</small>
+**<big><span class="ashebrew">‎יָדַד‎</span></big>** **yâdad** <small>*(yaw-dad')*</small> ==**to cast a lot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; (compare **<big>[[H3034|‎יָדָה‎]]</big>**)</small>
 
 $\quad$ cast.
 - properly, ***to handle***, i.e. ***to throw***, e.g. ***lots***
@@ -9,4 +9,4 @@ v
 n
 **2)** love, loving-one, friend
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάλλω</span><sup><small>[[G0906]]</small></sup>
+<small>See Greek: </small>**<big>[[G0906|βάλλω]]</big>**

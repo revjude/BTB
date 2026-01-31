@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>En-shemesh</span>, a spring on the border between the territories of Judah and Benjamin, near Jerusalem.
 - A location first mentioned at [[Josh.15.7|Jos.15.7]]; 
-- only referred to as En-shemesh<[[H5885]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- only referred to as En-shemesh **<big>[[H5885|עֵין שֶׁמֶשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.774020,35.270231&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from its role in demarcating the tribal boundaries, no other details about
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| En-shemesh (NIV= En Shemesh) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H5885) <small>*Hebrew*</small> | 2x | [[Jos.15.7] & [Jos.18.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.15.7;Jos.18.17) |
-All Strong's for **En-shemesh**: \[[[H5885]]\]
+| En-shemesh (NIV= En Shemesh) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H5885) | 2x | [[Jos.15.7] & [Jos.18.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.15.7;Jos.18.17) |
+All entries for **En-shemesh**:  **<big>[[H5885|עֵין שֶׁמֶשׁ]]</big>**

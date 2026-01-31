@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-gader</span> was a town associated with the descendants of Hareph, mentioned in the genealogy of Judah. \([[1Chr.2.51|1 Chronicles 2:51]]\)
 - A location in Judea only mentioned at [[1Chr.2.51|1Ch.2.51]]; 
-- only referred to as Beth-gader<[[H1013]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Beth-gader **<big>[[H1013|בֵּית־גָּדֵר]]</big>**.
 
 Beth-gader is mentioned only once in the Bible, in [[1Chr.2.51|1 Chronicles 2:51]], as part of the genealogy of the tribe of Judah. The verse states, "Salma the father of Bethlehem, Hareph the father of Beth-gader." 
 
@@ -14,5 +14,5 @@ The genealogy in 1 Chronicles 2 traces the descendants of Judah, focusing on the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-gader (NIV= Beth Gader) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H1013) <small>*Hebrew*</small> | 1x | [1Ch.2.51 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.2.51) |
-All Strong's for **Beth-gader**: \[[[H1013]]\]
+| Beth-gader (NIV= Beth Gader) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H1013) | 1x | [1Ch.2.51 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.2.51) |
+All entries for **Beth-gader**:  **<big>[[H1013|בֵּית־גָּדֵר]]</big>**

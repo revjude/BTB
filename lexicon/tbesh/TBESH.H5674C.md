@@ -1,3 +1,1 @@
-<span class="ashebrew">‎עָבַר‎</span> <small>***(a.var)***</small> ==**to pass: bring**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H5674A]]</small> 
-
+<small>meaning of:</small> <small>**<big>[[H5674A|עָבַר]]</big>**</small>

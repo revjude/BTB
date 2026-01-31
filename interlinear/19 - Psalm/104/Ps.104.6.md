@@ -6,15 +6,15 @@ You covered it with the deep like a garment; the waters stood above the mountain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.5|<< Psalms 104:5]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.7|Psalms 104:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] deep  | <span class="ashebrew"><big>תְּ֭הוֹם </big></span><small><small><sup>[[H8415]]</sup></small></small> &#8207;| Te.hom <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> clothing  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לְּב֣וּשׁ </big></span><small><small><sup>[[H3830]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> le.Vush <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you covered it  | <span class="ashebrew"><big>כִּסִּית֑ </big></span><small><small><sup>[[H3680]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ki.si.T <small><sup>[[HVpp2ms]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| above  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountains  | <span class="ashebrew"><big>הָ֝רִ֗ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they stood  | <span class="ashebrew"><big>יַֽעַמְדוּ </big></span><small><small><sup>[[H5975G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'am.du- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] waters  | <span class="ashebrew"><big>מָֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deep  |**<big>&#8207;[[H8415\|תְּ֭הוֹם]]&#8207; </big>**| Te.hom<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> clothing  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3830\|לְּב֣וּשׁ]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> le.Vush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you covered it  |**<big>&#8207;[[H3680\|כִּסִּית֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ki.si.T<small><sup>[[HVpp2ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountains  |**<big>&#8207;[[H2022G\|הָ֝רִ֗ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they stood  |**<big>&#8207;[[H5975G\|יַֽעַמְדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'am.du-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waters  |**<big>&#8207;[[H4325G\|מָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.5|<< Psalms 104:5]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.7|Psalms 104:7 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pharpar</span> was one of the rivers of Damascus, mentioned by Naaman the leper when comparing them to the Jordan River in Israel.
 - A location only mentioned at [[2Kgs.5.12|2Ki.5.12]]; 
-- only referred to as Pharpar<[[H6554]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Pharpar **<big>[[H6554|פַּרְפַּר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.379601,36.306085&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Pharpar, along with the Abana \(or Amana\), was one of the two rivers of Damascu
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pharpar | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>](H6554) <small>*Hebrew*</small> | 1x | [2Ki.5.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharpar\*\|reference=2Ki.5.12) |
-All Strong's for **Pharpar**: \[[[H6554]]\]
+| Pharpar | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>](H6554) | 1x | [2Ki.5.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pharpar\*\|reference=2Ki.5.12) |
+All entries for **Pharpar**:  **<big>[[H6554|פַּרְפַּר]]</big>**

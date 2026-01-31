@@ -7,21 +7,21 @@ They reap [every one] his corn in the field: and they gather the vintage of the 
 They gather fodder in the fields and glean the vineyards of the wicked.<small><sub>**MT:**</sub></small>
 [[Job.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.5|<< Job 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.7|Job 24:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[its\] season | <big><span class="asgreek">ώρας</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| being their own | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">όντα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| They harvested | <big><span class="asgreek">εθέρισαν</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| and \[the\] disabled | <big><span class="asgreek">αδύνατοι</span></big> <sup><small><small>[[G0102]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] vineyards | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| without pay | <big><span class="asgreek">αμισθί</span></big> <sup><small><small>[[G6260]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| without eating | <big><span class="asgreek">ασιτοί</span></big> <sup><small><small>[[G0777]]</small></small></sup> |
-| worked | <big><span class="asgreek">ειργάσαντο</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| a field | **<big>[[G0068\|αγρόν]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[its\] season | **<big>[[G5610\|ώρας]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| being their own | **<big>[[G1473\|αυτών]]</big>** **<big>[[G1510\|όντα]]</big>** |
+| They harvested | **<big>[[G2325\|εθέρισαν]]</big>** |
+| and \[the\] disabled | **<big>[[G0102\|αδύνατοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] vineyards | **<big>[[G0290\|αμπελώνας]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβών]]</big>** |
+| without pay | **<big>[[G6260\|αμισθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| without eating | **<big>[[G0777\|ασιτοί]]</big>** |
+| worked | **<big>[[G2038\|ειργάσαντο]]</big>** |
 [[Job.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.5|<< Job 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.7|Job 24:7 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H0750]]</small>
+<small>Hebrew form: **<big>[[H0750|אָרֵךְ]]</big>**</small>
  I. <span class="bdbLangAramaic">‎ארך‎</span> (√ of following; Biblical Hebrew [ <span class="bdbLangHebrew">‎אָרַךְ‎</span>,  <span class="bdbLangHebrew">‎אָרֵךְ‎</span>]). 
 
  II. <span class="bdbLangAramaic">‎ארך‎</span> (√ of following; according to most, weakened from <span class="bdbLangAramaic">‎ערך‎</span> (compare Biblical Hebrew) [[BDB#Be|BeRy]]<sup>[[Ezra.4.14|Ezra 4:14]]</sup>; but <span class="bdbLangAramaic">‎אַרִיךְ‎</span> loan-word from Persian (Old Iranian) <abbr title="transliteration"><u>***¹ryaka***</u></abbr>, ***worthy of an Aryan***, [[BDB#Scheft|Scheft]]<sup>79</sup>). 

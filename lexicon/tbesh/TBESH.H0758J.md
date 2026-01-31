@@ -1,6 +1,5 @@
-<span class="ashebrew">‎אֲרָם‎</span> <small>***(a.ram)***</small> ==**Aram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.34|1Ch.7.34]]
--  son of: Shomer ([[H7763H]])
--  brother of: Ahi ([[H0277H]]), Rohgah ([[H7303]]) and Jehubbah ([[H3160]])
+-  son of: Shomer (**<big>[[H7763H|שׁוֹמֵר]]</big>**)
+-  brother of: Ahi (**<big>[[H0277H|אֲחִי]]</big>**), Rohgah (**<big>[[H7303|רוֹהֲגָה]]</big>**) and Jehubbah (**<big>[[H3160|יְחֻבָּה]]</big>**)
 - Aram = "exalted"
 - n m

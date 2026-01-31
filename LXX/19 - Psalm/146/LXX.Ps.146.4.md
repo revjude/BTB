@@ -7,24 +7,24 @@ His breath goeth forth, he returneth to his earth; in that very day his thoughts
 When his spirit departs, he returns to the ground; on that very day his plans perish.<small><sub>**MT:**</sub></small>
 [[Ps.146.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.3|<< Psalm 146:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.5|Psalm 146:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His breath | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| that | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| shall perish | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his devices | <big><span class="asgreek">διαλογισμοί</span></big> <sup><small><small>[[G1261]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| His breath | **<big>[[G4151\|πνεύμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall return | **<big>[[G1994\|επιστρέψει]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his earth. | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| that | **<big>[[G1565\|εκείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| shall perish | **<big>[[G0622\|απολούνται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his devices | **<big>[[G1261\|διαλογισμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.146.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.3|<< Psalm 146:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.5|Psalm 146:5 >>]]</td></tr></table>
 
 

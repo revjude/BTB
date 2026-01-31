@@ -7,16 +7,16 @@
 It is better to take refuge in the LORD than to trust in princes.<small><sub>**MT:**</sub></small>
 [[Ps.118.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.8|<< Psalm 118:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.10|Psalm 118:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is\] good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| to hope | <big><span class="asgreek">ελπίζειν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to hope | <big><span class="asgreek">ελπίζειν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| rulers. | <big><span class="asgreek">άρχουσι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| \[It is\] good | **<big>[[G0018\|αγαθόν]]</big>** |
+| to hope | **<big>[[G1679\|ελπίζειν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| to hope | **<big>[[G1679\|ελπίζειν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| rulers. | **<big>[[G0758\|άρχουσι]]</big>** |
 [[Ps.118.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.8|<< Psalm 118:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.10|Psalm 118:10 >>]]</td></tr></table>
 
 

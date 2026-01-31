@@ -7,33 +7,33 @@ Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, 
 Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out.<small><sub>**MT:**</sub></small>
 [[Isa.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| did you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know? | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \[Have\] you not | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| heard? | <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] eternal | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carefully preparing | <big><span class="asgreek">κατασκευάσας</span></big> <sup><small><small>[[G2680]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tips | <big><span class="asgreek">άκρα</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hunger | <big><span class="asgreek">πεινάσει</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| tire, | <big><span class="asgreek">κοπιάσει</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| is \[there\] | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a finding out | <big><span class="asgreek">εξεύρεσις</span></big> <sup><small><small>[[G7318]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his intelligence; | <big><span class="asgreek">φρονήσεως</span></big> <sup><small><small>[[G5428]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| did you not | **<big>[[G3756\|ουκ]]</big>** |
+| know? | **<big>[[G1097\|έγνως]]</big>** |
+| \[Have\] you not | **<big>[[G1508\|ει μη]]</big>** |
+| heard? | **<big>[[G0191\|ήκουσας]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[the\] eternal | **<big>[[G0166\|αιώνιος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| carefully preparing | **<big>[[G2680\|κατασκευάσας]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| tips | **<big>[[G6208\|άκρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| hunger | **<big>[[G3983\|πεινάσει]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| tire, | **<big>[[G2872\|κοπιάσει]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| is \[there\] | **<big>[[G1510\|έστιν]]</big>** |
+| a finding out | **<big>[[G7318\|εξεύρεσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his intelligence; | **<big>[[G5428\|φρονήσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
 

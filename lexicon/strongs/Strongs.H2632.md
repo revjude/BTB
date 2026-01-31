@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֵסֶן‎</span></big> **chêçen** <small>*(khay'-sen)*</small> ==**authority**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎חֲסַן‎</span><sup><small>[[H2631]]</small></sup></small>
+**<big><span class="asaramaic">‎חֵסֶן‎</span></big>** **chêçen** <small>*(khay'-sen)*</small> ==**authority**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H2631|‎חֲסַן‎]]</big>**</small>
 
 $\quad$ power.
 - ***strength***

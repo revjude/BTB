@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָכָר‎</span></big> **zâkâr** <small>*(zaw-kawr')*</small> ==**male**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זָכַר‎</span><sup><small>[[H2142]]</small></sup></small>
+**<big><span class="ashebrew">‎זָכָר‎</span></big>** **zâkâr** <small>*(zaw-kawr')*</small> ==**male**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2142|‎זָכַר‎]]</big>**</small>
 
 $\quad$ [idiom] him, male, man(child, -kind).
 - properly, ***remembered***, i.e. ***a male*** (of man or animals, as being the most noteworthy sex)
@@ -9,4 +9,4 @@ n m
 adj
 **2)** male (of humans)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">ἄῤῥην</span><sup><small>[[G0730]]</small></sup> · <span class="asgreek">μνεία</span><sup><small>[[G3417]]</small></sup>
+<small>See Greek: </small>**<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G0730|ἄῤῥην]]</big>** · **<big>[[G3417|μνεία]]</big>**

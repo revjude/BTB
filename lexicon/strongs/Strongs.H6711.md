@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָחַק‎</span></big> **tsâchaq** <small>*(tsaw-khak')*</small> ==**to laugh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָחַק‎</span></big>** **tsâchaq** <small>*(tsaw-khak')*</small> ==**to laugh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ laugh, mock, play, make sport.
@@ -11,4 +11,4 @@ $\quad$ **1b)** (Piel)
 $\quad$ $\quad$ **1b1)** to jest
 $\quad$ $\quad$ **1b2)** to sport, play, make sport, toy with, make a toy of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γελάω</span><sup><small>[[G1070]]</small></sup> · <span class="asgreek">ἐμπαίζω</span><sup><small>[[G1702]]</small></sup> · <span class="asgreek">παίζω</span><sup><small>[[G3815]]</small></sup>
+<small>See Greek: </small>**<big>[[G1070|γελάω]]</big>** · **<big>[[G1702|ἐμπαίζω]]</big>** · **<big>[[G3815|παίζω]]</big>**

@@ -7,31 +7,31 @@ Pure \[is\] the eye  to not see evil \[things\], and you are not able to look up
 Your eyes are too pure to look upon evil, and You cannot tolerate wrongdoing. So why do You tolerate the faithless? Why are You silent while the wicked swallow up those more righteous than themselves?<small><sub>**MT:**</sub></small>
 [[Hab.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.12|<< Habakkuk 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.14|Habakkuk 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Pure | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| see | <big><span class="asgreek">οράν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| evil \[things\], | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to look | <big><span class="asgreek">επιβλέπειν</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| evils | <big><span class="asgreek">πονηρούς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| you are not able | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| should you look | <big><span class="asgreek">επιβλέπεις</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| ones disdaining? | <big><span class="asgreek">καταφρονούντας</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
-| Shall you remain silent | <big><span class="asgreek">παρασιωπήση</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| swallowing down | <big><span class="asgreek">καταπίνειν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just? | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| Pure | **<big>[[G2513\|καθαρός]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| eye | **<big>[[G3788\|οφθαλμός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| see | **<big>[[G3708\|οράν]]</big>** |
+| evil \[things\], | **<big>[[G4190\|πονηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to look | **<big>[[G1914\|επιβλέπειν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| evils | **<big>[[G4190\|πονηρούς]]</big>** |
+| you are not able | **<big>[[G3756\|ου]]</big>** **<big>[[G1410\|δυνήση]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| should you look | **<big>[[G1914\|επιβλέπεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| ones disdaining? | **<big>[[G2706\|καταφρονούντας]]</big>** |
+| Shall you remain silent | **<big>[[G8637\|παρασιωπήση]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| swallowing down | **<big>[[G2666\|καταπίνειν]]</big>** |
+| impious | **<big>[[G0765\|ασεβή]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| just? | **<big>[[G1342\|δίκαιον]]</big>** |
 [[Hab.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.12|<< Habakkuk 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.14|Habakkuk 1:14 >>]]</td></tr></table>
 
 

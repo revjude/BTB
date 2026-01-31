@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְעִילָה‎</span></big> **Qᵉʻîylâh** <small>*(keh-ee-law')*</small> ==**Keilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎קָלַע‎</span><sup><small>[[H7049]]</small></sup> in the sense of enclosing; citadel</small>
+**<big><span class="ashebrew">‎קְעִילָה‎</span></big>** **Qᵉʻîylâh** <small>*(keh-ee-law')*</small> ==**Keilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>perhaps from **<big>[[H7049|‎קָלַע‎]]</big>** in the sense of enclosing; citadel</small>
 
 $\quad$ Keilah.
 - § Keilah = *"fortress"*

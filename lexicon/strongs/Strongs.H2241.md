@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֵתָם‎</span></big> **Zêthâm** <small>*(zay-thawm')*</small> ==**Zetham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently a variation for <span class="ashebrew">‎זֵיתָן‎</span><sup><small>[[H2133]]</small></sup></small>
+**<big><span class="ashebrew">‎זֵתָם‎</span></big>** **Zêthâm** <small>*(zay-thawm')*</small> ==**Zetham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently a variation for **<big>[[H2133|‎זֵיתָן‎]]</big>**</small>
 
 $\quad$ Zetham.
 - § Zetham = *"olive"*

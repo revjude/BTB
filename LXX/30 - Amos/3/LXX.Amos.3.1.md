@@ -10,28 +10,28 @@ Hear this word that the LORD hath spoken against you, O children of Israel, agai
 Hear this word that the LORD has spoken against you, O children of Israel, against the whole family that I brought up out of the land of Egypt:<small><sub>**MT:**</sub></small>
 [[Amos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.16|<< Amos 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.2|Amos 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word! | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| concerning | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I led | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this word! | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> spoke | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| concerning | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| every | **<big>[[G3956\|πάσης]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I led | **<big>[[G0321\|ανήγαγον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Amos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.16|<< Amos 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.2|Amos 3:2 >>]]</td></tr></table>
 
 

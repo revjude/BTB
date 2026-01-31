@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎צְבִיָּה‎</span></big> **tsᵉbîyâh** <small>*(tseb-ee-yaw')*</small> ==**gazelle**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎צְבִי‎</span><sup><small>[[H6643]]</small></sup></small>
+**<big><span class="ashebrew">‎צְבִיָּה‎</span></big>** **tsᵉbîyâh** <small>*(tseb-ee-yaw')*</small> ==**gazelle**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6643|‎צְבִי‎]]</big>**</small>
 
 $\quad$ roe.
 - ***a female gazelle***
 
 **1)** gazelle, doe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ταβιθά</span><sup><small>[[G5000]]</small></sup>
+<small>See Greek: </small>**<big>[[G5000|Ταβιθά]]</big>**

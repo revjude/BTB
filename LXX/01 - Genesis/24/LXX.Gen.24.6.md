@@ -7,20 +7,20 @@ And Abraham said unto him, Beware thou that thou bring not my son thither again.
 Abraham replied, “Make sure that you do not take my son back there.<small><sub>**MT:**</sub></small>
 [[Gen.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.5|<< Genesis 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.7|Genesis 24:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| Take heed | <big><span class="asgreek">πρόσεχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \[that you\] should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| return | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| Take heed | **<big>[[G4337\|πρόσεχε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \[that you\] should not | **<big>[[G3361\|μη]]</big>** |
+| return | **<big>[[G0654\|αποστρέψης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Gen.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.5|<< Genesis 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.7|Genesis 24:7 >>]]</td></tr></table>
 
 

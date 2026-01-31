@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Crispus</span>, the synagogue leader in Corinth, believed in Jesus and was baptized by Paul. \([[2Tim.4.10|Act.18.8]]; [[1Cor.1.14|1Co.1.14]]\)
 - A man living at the time of the New Testament, first mentioned at [[2Tim.4.10|Act.18.8]]; 
-- only referred to as Crispus<[[G2921]]> \(<span class='tipnrLangGreek'>Κρίσπος</span>\).
+- only referred to as Crispus **<big>[[G2921|Κρίσπος]]</big>**.
 
 Crispus was the ruler of the synagogue in Corinth during Paul's ministry there. According to Acts 18:8, Crispus believed in the Lord, along with his entire household, after hearing Paul's preaching. This conversion was significant, as Crispus held a prominent position in the Jewish community. 
 
@@ -14,5 +14,5 @@ Crispus' conversion likely had a considerable impact on the Jewish community in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Crispus | [<span class='tipnrLangGreek'>Κρίσπος</span>](G2921) <small>*Greek*</small> | 2x | [[Act.18.8] & [1Co.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Crispus\*\|reference=Act.18.8;1Co.1.14) |
-All Strong's for **Crispus**: \[[[G2921]]\]
+| Crispus | [<span class='tipnrLangGreek'>Κρίσπος</span>](G2921) | 2x | [[Act.18.8] & [1Co.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Crispus\*\|reference=Act.18.8;1Co.1.14) |
+All entries for **Crispus**:  **<big>[[G2921|Κρίσπος]]</big>**

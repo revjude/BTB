@@ -1,8 +1,8 @@
 <small>*Field of Blood • Field purchased with Judas' betrayal money; burial place for strangers*</small>
 
 <span class='tipnrhighlight'>Akeldama</span>, also known as the Field of Blood or Potter's Field, was purchased with the money Judas received for betraying Jesus and used as a burial place for foreigners.
-- A location near Jerusalem<[[H3389]]> first mentioned at [[Matt.27.7|Mat.27.7]]; 
-- referred to as Akeldama<[[G0184]]> \(<span class='tipnrLangGreek'>Ἀκελδαμά</span>\), or Field of Blood<[[G0129H]]><[[G0068H]]> \(<span class='tipnrLangGreek'>αἷμα</span> <span class='tipnrLangGreek'>ἀγρός</span>\), or Field of Blood<[[G0129H]]><[[G5564H]]> \(<span class='tipnrLangGreek'>αἷμα</span> <span class='tipnrLangGreek'>χωρίον</span>\), or Field of Potter<[[G2763H]]><[[G5564H]]> \(<span class='tipnrLangGreek'>κεραμεύς</span> <span class='tipnrLangGreek'>χωρίον</span>\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Matt.27.7|Mat.27.7]]; 
+- referred to as Akeldama **<big>[[G0184|Ἀκελδαμά]]</big>**, or Field of Blood **<big>[[G0129|αἷμα]]</big>** **<big>[[G0068|ἀγρός]]</big>**, or Field of Blood **<big>[[G0129|αἷμα]]</big>** **<big>[[G5564|χωρίον]]</big>**, or Field of Potter **<big>[[G2763|κεραμεύς]]</big>** **<big>[[G5564|χωρίον]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,8 +18,8 @@ The purchase of Akeldama with the money from Judas' betrayal is seen as a fulfil
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Akeldama | [<span class='tipnrLangGreek'>Ἀκελδαμά</span>](G0184) <small>*Greek*</small> | 1x | [Act.1.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akeldama\*\|reference=Act.1.19) |
-| Field of Blood | [<span class='tipnrLangGreek'>αἷμα</span>](G0129H)[<span class='tipnrLangGreek'>ἀγρός</span>](G0068H) <small>*Greek*</small> | 1x | [Mat.27.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Mat.27.8) |
-| Field of Blood | [<span class='tipnrLangGreek'>αἷμα</span>](G0129H)[<span class='tipnrLangGreek'>χωρίον</span>](G5564H) <small>*Greek*</small> | 1x | [Act.1.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Act.1.19) |
-| Field of Potter | [<span class='tipnrLangGreek'>κεραμεύς</span>](G2763H)[<span class='tipnrLangGreek'>χωρίον</span>](G5564H) <small>*Greek*</small> | 2x | [[Mat.27.7] & [Mat.27.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Mat.27.7;Mat.27.10) |
-All Strong's for **Akeldama or Field_of_Blood or PottersField**: \[[[G0184]]\] \[[[G0129H]]\] \[[[G2763H]]\]
+| Akeldama | [<span class='tipnrLangGreek'>Ἀκελδαμά</span>](G0184) | 1x | [Act.1.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akeldama\*\|reference=Act.1.19) |
+| Field of Blood | [<span class='tipnrLangGreek'>αἷμα</span>](G0129H)[<span class='tipnrLangGreek'>ἀγρός</span>](G0068H) | 1x | [Mat.27.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Mat.27.8) |
+| Field of Blood | [<span class='tipnrLangGreek'>αἷμα</span>](G0129H)[<span class='tipnrLangGreek'>χωρίον</span>](G5564H) | 1x | [Act.1.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Act.1.19) |
+| Field of Potter | [<span class='tipnrLangGreek'>κεραμεύς</span>](G2763H)[<span class='tipnrLangGreek'>χωρίον</span>](G5564H) | 2x | [[Mat.27.7] & [Mat.27.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Field\*\|reference=Mat.27.7;Mat.27.10) |
+All entries for **Akeldama or Field of Blood or PottersField**:  **<big>[[G0184|Ἀκελδαμά]]</big>** ☩  **<big>[[G0129|αἷμα]]</big>** ☩  **<big>[[G2763|κεραμεύς]]</big>**

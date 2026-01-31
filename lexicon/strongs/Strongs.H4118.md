@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַהֵר‎</span></big> **mahêr** <small>*(mah-hare')*</small> ==**quick**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎מָהַר‎</span><sup><small>[[H4116]]</small></sup></small>
+**<big><span class="ashebrew">‎מַהֵר‎</span></big>** **mahêr** <small>*(mah-hare')*</small> ==**quick**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H4116|‎מָהַר‎]]</big>**</small>
 
 $\quad$ hasteth, hastily, at once, quickly, soon, speedily, suddenly.
 - properly, ***hurrying***

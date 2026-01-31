@@ -7,26 +7,26 @@ He judged the cause of the poor and needy; then [it was] well [with him: was] no
 He took up the cause of the poor and needy, and so it went well with him. Is this not what it means to know Me?” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.15|<< Jeremiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.17|Jeremiah 22:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know, | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| judge | <big><span class="asgreek">έκριναν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| with equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to \[the\] humble, | <big><span class="asgreek">ταπεινώ</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| with equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to \[the\] needy. | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| this not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[because of\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γνώναί</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| your | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| They did not | **<big>[[G3756\|ουκ]]</big>** |
+| know, | **<big>[[G1097\|έγνωσαν]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| judge | **<big>[[G2919\|έκριναν]]</big>** |
+| with equity | **<big>[[G2920\|κρίσιν]]</big>** |
+| to \[the\] humble, | **<big>[[G5011\|ταπεινώ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| with equity | **<big>[[G2920\|κρίσιν]]</big>** |
+| to \[the\] needy. | **<big>[[G3993\|πένητος]]</big>** |
+| this not | **<big>[[G3756\|ου]]</big>** **<big>[[G3778\|τούτό]]</big>** |
+| Is | **<big>[[G1510\|εστι]]</big>** |
+| \[because of\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| knowing | **<big>[[G1097\|γνώναί]]</big>** |
+| your | **<big>[[G1473\|σε]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.15|<< Jeremiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.17|Jeremiah 22:17 >>]]</td></tr></table>
 
 

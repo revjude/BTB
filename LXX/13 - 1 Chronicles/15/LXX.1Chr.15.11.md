@@ -7,31 +7,31 @@ And David called for Zadok and Abiathar the priests, and for the Levites, for Ur
 David summoned the priests Zadok and Abiathar and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.<small><sub>**MT:**</sub></small>
 [[1Chr.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.10|<< 1 Chronicles 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.12|1 Chronicles 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zadok | <big><span class="asgreek">Σαδώκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abiathar | <big><span class="asgreek">Αβιάθαρ</span></big> <sup><small><small>[[G0008]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites -- | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Uriel, | <big><span class="asgreek">Ουριήλ</span></big> <sup><small><small>[[H0222]]</small></small></sup> |
-| Asiah, | <big><span class="asgreek">Ασαϊα</span></big> <sup><small><small>[[H6222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joel, | <big><span class="asgreek">Ιωήλ</span></big> <sup><small><small>[[G2493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shemaiah, | <big><span class="asgreek">Σαμέα</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eliel, | <big><span class="asgreek">Ελιήλ</span></big> <sup><small><small>[[H0447]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amminadab. | <big><span class="asgreek">Αμμιναδάβ</span></big> <sup><small><small>[[G0284]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David called | **<big>[[G2564\|εκάλεσε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zadok | **<big>[[G4524\|Σαδώκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Abiathar | **<big>[[G0008\|Αβιάθαρ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites -- | **<big>[[G3017\|Λευίτας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Uriel, | **<big>[[H0222\|Ουριήλ]]</big>** |
+| Asiah, | **<big>[[H6222\|Ασαϊα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Joel, | **<big>[[G2493\|Ιωήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shemaiah, | **<big>[[H8098\|Σαμέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eliel, | **<big>[[H0447\|Ελιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amminadab. | **<big>[[G0284\|Αμμιναδάβ]]</big>** |
 [[1Chr.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.10|<< 1 Chronicles 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.12|1 Chronicles 15:12 >>]]</td></tr></table>
 
 

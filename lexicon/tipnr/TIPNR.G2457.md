@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Julius</span>, a centurion of the Augustan Cohort, was responsible for escorting Paul to Rome and showed him kindness during the journey.
 - A man living at the time of the New Testament, first mentioned at [[Rom.16.15|Act.27.1]]; 
-- only referred to as Julius<[[G2457]]> \(<span class='tipnrLangGreek'>Ἰούλιος</span>\).
+- only referred to as Julius **<big>[[G2457|Ἰούλιος]]</big>**.
 
 Julius is mentioned in Acts 27:1 and 27:3 as a centurion of the Augustan Cohort who was responsible for escorting Paul to Rome. The context of the passage is Paul's journey to Rome as a prisoner, where he would stand trial before Caesar \(Acts 25:11-12; 27:1-44\). 
 
@@ -18,5 +18,5 @@ Apart from his role in escorting Paul to Rome, no other details about Julius' li
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Julius | [<span class='tipnrLangGreek'>Ἰούλιος</span>](G2457) <small>*Greek*</small> | 2x | [[Act.27.1] & [Act.27.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Julius\*\|reference=Act.27.1;Act.27.3) |
-All Strong's for **Julius**: \[[[G2457]]\]
+| Julius | [<span class='tipnrLangGreek'>Ἰούλιος</span>](G2457) | 2x | [[Act.27.1] & [Act.27.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Julius\*\|reference=Act.27.1;Act.27.3) |
+All entries for **Julius**:  **<big>[[G2457|Ἰούλιος]]</big>**

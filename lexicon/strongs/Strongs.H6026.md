@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָנַג‎</span></big> **ʻânag** <small>*(aw-nag')*</small> ==**to delight**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָנַג‎</span></big>** **ʻânag** <small>*(aw-nag')*</small> ==**to delight**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ delicate(-ness), (have) delight (self), sport self.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1b1)** to be of dainty habit, be pampered
 $\quad$ $\quad$ **1b2)** to be happy about, take exquisite delight
 $\quad$ $\quad$ **1b3)** to make merry over, make sport of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐντρυφάω</span><sup><small>[[G1792]]</small></sup> · <span class="asgreek">παῤῥησιάζομαι</span><sup><small>[[G3955]]</small></sup> · <span class="asgreek">τρυφάω</span><sup><small>[[G5171]]</small></sup>
+<small>See Greek: </small>**<big>[[G1792|ἐντρυφάω]]</big>** · **<big>[[G3955|παῤῥησιάζομαι]]</big>** · **<big>[[G5171|τρυφάω]]</big>**

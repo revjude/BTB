@@ -7,29 +7,29 @@ And what nation [is there so] great, that hath statutes and judgments [so] right
 And what nation is great enough to have righteous statutes and ordinances like this entire law I set before you today?<small><sub>**MT:**</sub></small>
 [[Deut.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">ποίον</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ordinances | <big><span class="asgreek">δικαιώματα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this law, | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δίδωμι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G4169\|ποίον]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| there is | **<big>[[G1510\|έστιν]]</big>** |
+| to it | **<big>[[G1473\|αυτώ]]</big>** |
+| ordinances | **<big>[[G1345\|δικαιώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| just | **<big>[[G1342\|δίκαια]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this law, | **<big>[[G3551\|νόμον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give | **<big>[[G1325\|δίδωμι]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| today? | **<big>[[G4594\|σήμερον]]</big>** |
 [[Deut.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
 
 

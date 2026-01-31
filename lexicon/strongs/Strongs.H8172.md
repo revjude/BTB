@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁעַן‎</span></big> **shâʻan** <small>*(shaw-an')*</small> ==**to lean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁעַן‎</span></big>** **shâʻan** <small>*(shaw-an')*</small> ==**to lean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lean, lie, rely, rest (on, self), stay.
@@ -8,4 +8,4 @@ $\quad$ lean, lie, rely, rest (on, self), stay.
 $\quad$ **1a)** (Niphal) to lean, lean upon, support oneself
 $\quad$ $\quad$ **1a1)** of trust in God (fig)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐλπίζω</span><sup><small>[[G1679]]</small></sup> · <span class="asgreek">ἐπαίρω</span><sup><small>[[G1869]]</small></sup> · <span class="asgreek">ἐπαναπαύομαι</span><sup><small>[[G1879]]</small></sup> · <span class="asgreek">ἐπιστηρίζω</span><sup><small>[[G1991]]</small></sup> · <span class="asgreek">καταψύχω</span><sup><small>[[G2711]]</small></sup> · <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup>
+<small>See Greek: </small>**<big>[[G1679|ἐλπίζω]]</big>** · **<big>[[G1869|ἐπαίρω]]</big>** · **<big>[[G1879|ἐπαναπαύομαι]]</big>** · **<big>[[G1991|ἐπιστηρίζω]]</big>** · **<big>[[G2711|καταψύχω]]</big>** · **<big>[[G3982|πείθω]]</big>**

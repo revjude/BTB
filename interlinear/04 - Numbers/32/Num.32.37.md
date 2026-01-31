@@ -6,17 +6,17 @@ The Reubenites built up Heshbon, Elealeh, Kiriathaim,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.36|<< Numbers 32:36]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.38|Numbers 32:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] descendants of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֤י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reuben  | <span class="ashebrew"><big>רְאוּבֵן֙ </big></span><small><small><sup>[[H7205]]</sup></small></small> &#8207;| re.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they built  | <span class="ashebrew"><big>בָּנ֔וּ </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ba.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heshbon  | <span class="ashebrew"><big>חֶשְׁבּ֖וֹן </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| chesh.Bon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elealeh  | <span class="ashebrew"><big>אֶלְעָלֵ֑א </big></span><small><small><sup>[[H0500]]</sup></small></small> &#8207;| 'el.'a.Le' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kiriathaim  | <span class="ashebrew"><big>קִרְיָתָֽיִם </big></span><small><small><sup>[[H7156G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kir.ya.Ta.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵן֙]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they built  |**<big>&#8207;[[H1129\|בָּנ֔וּ]]&#8207; </big>**| ba.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֖וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elealeh  |**<big>&#8207;[[H0500\|אֶלְעָלֵ֑א]]&#8207; </big>**| 'el.'a.Le'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kiriathaim  |**<big>&#8207;[[H7156G\|קִרְיָתָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kir.ya.Ta.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.36|<< Numbers 32:36]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.38|Numbers 32:38 >>]]</td></tr></table>
 
 

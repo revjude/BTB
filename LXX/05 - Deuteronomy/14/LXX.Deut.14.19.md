@@ -7,21 +7,21 @@ And every creeping thing that flieth [is] unclean unto you: they shall not be ea
 All flying insects are unclean for you; they may not be eaten.<small><sub>**MT:**</sub></small>
 [[Deut.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.18|<< Deuteronomy 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.20|Deuteronomy 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling things | <big><span class="asgreek">ερπετά</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| winged creatures -- | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτα</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| crawling things | **<big>[[G2062\|ερπετά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| winged creatures -- | **<big>[[G4071\|πετεινών]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτα]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| are | **<big>[[G1510\|εστιν]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.18|<< Deuteronomy 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.20|Deuteronomy 14:20 >>]]</td></tr></table>
 
 

@@ -7,37 +7,37 @@ And the children of Israel said unto him, We will go by the high way: and if I a
 “We will stay on the main road,” the Israelites replied, “and if we or our herds drink your water, we will pay for it. There will be no problem; only let us pass through on foot.”<small><sub>**MT:**</sub></small>
 [[Num.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.18|<< Numbers 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.20|Numbers 20:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| We shall go | <big><span class="asgreek">παρελευσόμεθα</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your water | <big><span class="asgreek">ύδατός</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we drink | <big><span class="asgreek">πίωμεν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| both I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my cattle, | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[the\] value \[of it\] | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| is nothing, | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| we shall go | <big><span class="asgreek">παρελευσόμεθα</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G3004\|λέγουσιν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| We shall go | **<big>[[G3928\|παρελευσόμεθα]]</big>** |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your water | **<big>[[G5204\|ύδατός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| we drink | **<big>[[G4095\|πίωμεν]]</big>** |
+| both I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G5037\|τε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my cattle, | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \[the\] value \[of it\] | **<big>[[G5092\|τιμήν]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thing | **<big>[[G4229\|πράγμα]]</big>** |
+| is nothing, | **<big>[[G3762\|ουθέν]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| we shall go | **<big>[[G3928\|παρελευσόμεθα]]</big>** |
 [[Num.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.18|<< Numbers 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.20|Numbers 20:20 >>]]</td></tr></table>
 
 

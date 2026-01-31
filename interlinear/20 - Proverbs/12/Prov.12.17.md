@@ -6,15 +6,15 @@ He who speaks the truth declares what is right, but a false witness speaks decei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.16|<< Proverbs 12:16]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.18|Proverbs 12:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he breathes out  | <span class="ashebrew"><big>יָפִ֣יחַ </big></span><small><small><sup>[[H6315]]</sup></small></small> &#8207;| ya.Fi.ach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness  | <span class="ashebrew"><big>אֱ֭מוּנָה </big></span><small><small><sup>[[H0530]]</sup></small></small> &#8207;| 'E.mu.nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he declares  | <span class="ashebrew"><big>יַגִּ֣יד </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ya.Gid <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צֶ֑דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a witness of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵ֖ד </big></span><small><small><sup>[[H5707]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ed <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lies  | <span class="ashebrew"><big>שְׁקָרִ֣ים </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| she.ka.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deceit  | <span class="ashebrew"><big>מִרְמָֽה </big></span><small><small><sup>[[H4820]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mir.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he breathes out  |**<big>&#8207;[[H6315\|יָפִ֣יחַ]]&#8207; </big>**| ya.Fi.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  |**<big>&#8207;[[H0530\|אֱ֭מוּנָה]]&#8207; </big>**| 'E.mu.nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he declares  |**<big>&#8207;[[H5046\|יַגִּ֣יד]]&#8207; </big>**| ya.Gid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6664G\|צֶ֑דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a witness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5707\|עֵ֖ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lies  |**<big>&#8207;[[H8267\|שְׁקָרִ֣ים]]&#8207; </big>**| she.ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deceit  |**<big>&#8207;[[H4820\|מִרְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.16|<< Proverbs 12:16]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.18|Proverbs 12:18 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ Now thou art commanded, this do ye; take you wagons out of the land of Egypt for
 You are also directed to tell them: ‘Take wagons from the land of Egypt for your young children and your wives, and bring your father and come back.<small><sub>**MT:**</sub></small>
 [[Gen.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.18|<< Genesis 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.20|Genesis 45:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you charge | <big><span class="asgreek">έντειλαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wagons | <big><span class="asgreek">αμάξας</span></big> <sup><small><small>[[G6248]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your children, | <big><span class="asgreek">παιδίοις</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wives! | <big><span class="asgreek">γυναιξίν</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking up | <big><span class="asgreek">αναλαβόντες</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come! | <big><span class="asgreek">παραγίνεσθε</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
+|  | **<big>[[G1473\|συ]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| you charge | **<big>[[G1781\|έντειλαι]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| for themselves | **<big>[[G1473\|αυτοίς]]</big>** |
+| wagons | **<big>[[G6248\|αμάξας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| for your children, | **<big>[[G3813\|παιδίοις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your wives! | **<big>[[G1135\|γυναιξίν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking up | **<big>[[G0353\|αναλαβόντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| come! | **<big>[[G3854\|παραγίνεσθε]]</big>** |
 [[Gen.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.18|<< Genesis 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.20|Genesis 45:20 >>]]</td></tr></table>
 
 

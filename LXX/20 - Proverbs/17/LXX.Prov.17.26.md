@@ -7,18 +7,18 @@ Also to punish the just [is] not good, [nor] to strike princes for equity.
 It is surely not good to punish the innocent or to flog a noble for his honesty.<small><sub>**MT:**</sub></small>
 [[Prov.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.25|<< Proverbs 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.27|Proverbs 17:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To penalize | <big><span class="asgreek">ζημιούν</span></big> <sup><small><small>[[G2210]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \[is\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| good; | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[is it\] sacred | <big><span class="asgreek">όσιον</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
-| to plot against | <big><span class="asgreek">επιβούλευειν</span></big> <sup><small><small>[[G7390]]</small></small></sup> |
-| monarchs | <big><span class="asgreek">δυνάσταις</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| just | <big><span class="asgreek">δικαίοις</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| To penalize | **<big>[[G2210\|ζημιούν]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| a just | **<big>[[G1342\|δίκαιον]]</big>** |
+| \[is\] not | **<big>[[G3756\|ου]]</big>** |
+| good; | **<big>[[G2570\|καλόν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[is it\] sacred | **<big>[[G3741\|όσιον]]</big>** |
+| to plot against | **<big>[[G7390\|επιβούλευειν]]</big>** |
+| monarchs | **<big>[[G1413\|δυνάσταις]]</big>** |
+| just | **<big>[[G1342\|δικαίοις]]</big>** |
 [[Prov.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.25|<< Proverbs 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.27|Proverbs 17:27 >>]]</td></tr></table>
 
 

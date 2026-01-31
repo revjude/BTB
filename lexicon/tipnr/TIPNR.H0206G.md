@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aven Valley</span>, a plain near Damascus, was prophesied to be destroyed. \(Amos 1:5\)
 - A location only mentioned at [[Num.32.35|Amo.1.5]]; 
-- only referred to as Aven\_Valley<[[H0206G]]><[[H1237J]]> \(<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Aven\_Valley **<big>[[H0206|אָוֶן]]</big>** **<big>[[H1237|בִּקְעָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.006944,36.203889&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Aven Valley is mentioned in Amos 1:5 as part of a prophecy against Damascus, the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Aven | [<span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H0206G)[<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1237J) <small>*Hebrew*</small> | 1x | [Amo.1.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Amo.1.5) |
-All Strong's for **Aven_Valley**: \[[[H0206G]]\]
+| Valley/ of Aven | [<span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H0206G)[<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1237J) | 1x | [Amo.1.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Amo.1.5) |
+All entries for **Aven Valley**:  **<big>[[H0206|אָוֶן]]</big>**

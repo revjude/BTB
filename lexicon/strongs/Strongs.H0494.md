@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶלְנָתָן‎</span></big> **ʼElnâthân** <small>*(el-naw-thawn')*</small> ==**Elnathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup>; God (is the) giver</small>
+**<big><span class="ashebrew">‎אֶלְנָתָן‎</span></big>** **ʼElnâthân** <small>*(el-naw-thawn')*</small> ==**Elnathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H5414|‎נָתַן‎]]</big>**; God (is the) giver</small>
 
 $\quad$ Elnathan.
 - § Elnathan = *"God has given"*

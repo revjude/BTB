@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">βραχύς</span></span>, <span class="asgreek">-εῖα, -ύ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">מְעַט</span> <small><sup>[[H4592]]</sup></small> ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">βραχύς</span></span>, <span class="asgreek">-εῖα, -ύ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H4592|מְעַט]]</big>** ;\]</span> </span>
 <span class="asitalic">short</span>;
 <span class="asbullet"><span class="asbold">(a)</span> of time; <span class="asitalic">short, little</span>: <span class="asgreek">βραχύ</span>, [[Acts.5.34|Ac 5:34]]; <span class="asgreek">μετὰ β.</span>, [[Luke.22.58|Lk 22:58]]; <span class="asgreek">β. τι</span>, <span class="asitalic">a short time</span>, [[Heb.2.7|He 2:7]],  [[Heb.2.9|9]] RV, mg.;</span>
 <span class="asbullet"><span class="asbold">(b)</span> of distance: [[Acts.27.28|Ac 27:28]];</span>

@@ -11,36 +11,36 @@ Pour out Your wrath on the nations that do not acknowledge You, and on the famil
 > $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Pour out | <big><span class="asgreek">έκχεον</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] nations! | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδότα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| kingdoms | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| called not upon | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επεκαλέσαντο</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they devoured | <big><span class="asgreek">κατέφαγον</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| completely consumed | <big><span class="asgreek">εξανήλωσαν</span></big> <sup><small><small>[[G7294]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his pasture | <big><span class="asgreek">νομήν</span></big> <sup><small><small>[[G3542]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made desolate | <big><span class="asgreek">ηρήμωσαν</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| Pour out | **<big>[[G1632\|έκχεον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] nations! | **<big>[[G1484\|έθνη]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| knowing | **<big>[[G1492\|ειδότα]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| kingdoms | **<big>[[G0932\|βασιλείας]]</big>** |
+| which | **<big>[[G3739\|αι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| called not upon | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1941\|επεκαλέσαντο]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| they devoured | **<big>[[G2719\|κατέφαγον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| completely consumed | **<big>[[G7294\|εξανήλωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his pasture | **<big>[[G3542\|νομήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| made desolate | **<big>[[G2049\|ηρήμωσαν]]</big>** |
 [[Jer.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.24|<< Jeremiah 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.1|Jeremiah 11:1 >>]]</td></tr></table>
 
 

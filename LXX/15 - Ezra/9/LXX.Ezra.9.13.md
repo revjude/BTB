@@ -7,37 +7,37 @@ And after all that is come upon us for our evil deeds, and for our great trespas
 After all that has come upon us because of our evil deeds and our great guilt (though You, our God, have punished us less than our iniquities deserve and have given us such a remnant as this),<small><sub>**MT:**</sub></small>
 [[Ezra.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.12|<< Ezra 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.14|Ezra 9:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχόμενον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| our actions | <big><span class="asgreek">ποιήμασιν</span></big> <sup><small><small>[[G4161]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[things\], | <big><span class="asgreek">πονηροίς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trespasses | <big><span class="asgreek">πλημμελεία</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lightened | <big><span class="asgreek">εκούφισας</span></big> <sup><small><small>[[G2893]]</small></small></sup> |
-| of us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliverance; | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| coming | **<big>[[G2064\|ερχόμενον]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| our actions | **<big>[[G4161\|ποιήμασιν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| in the | **<big>[[G3588\|τοις]]</big>** |
+| wicked \[things\], | **<big>[[G4190\|πονηροίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| trespasses | **<big>[[G8811\|πλημμελεία]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| lightened | **<big>[[G2893\|εκούφισας]]</big>** |
+| of us | **<big>[[G1473\|ημών]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| lawless deeds, | **<big>[[G0458\|ανομίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκας]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| deliverance; | **<big>[[G4991\|σωτηρίαν]]</big>** |
 [[Ezra.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.12|<< Ezra 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.14|Ezra 9:14 >>]]</td></tr></table>
 
 

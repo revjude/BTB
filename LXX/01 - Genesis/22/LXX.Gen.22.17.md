@@ -11,40 +11,40 @@ I will surely bless you, and I will multiply your descendants like the stars in 
 > $\quad$ referenced by: [[Heb.6.13|Heb 6:13-14]] ☩ [[Heb.11.12|Heb 11:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Assuredly | <big><span class="asgreek">η μήν</span></big> <sup><small><small>[[G2228]][[G3361]]</small></small></sup> |
-| in blessing, | <big><span class="asgreek">ευλογών</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| I will bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in multiplying | <big><span class="asgreek">πληθύνων</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| I will multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμον</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| edge | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will inherit | <big><span class="asgreek">κληρονομήσει</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of \[your\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opponents. | <big><span class="asgreek">υπεναντίων</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
+| Assuredly | **<big>[[G2228\|η μήν]]</big>**<sup><small>[[G3361\| [ • ] ]]</small></sup> |
+| in blessing, | **<big>[[G2127\|ευλογών]]</big>** |
+| I will bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in multiplying | **<big>[[G4129\|πληθύνων]]</big>** |
+| I will multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stars | **<big>[[G0792\|αστέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sand | **<big>[[G0285\|άμμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| edge | **<big>[[G5491\|χείλος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea. | **<big>[[G2281\|θαλάσσης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will inherit | **<big>[[G2816\|κληρονομήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of \[your\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| opponents. | **<big>[[G5227\|υπεναντίων]]</big>** |
 [[Gen.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.16|<< Genesis 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.18|Genesis 22:18 >>]]</td></tr></table>
 
 

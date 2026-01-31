@@ -7,29 +7,29 @@ And in the fourth month, in the ninth [day] of the month, the famine was sore in
 By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.<small><sub>**MT:**</sub></small>
 [[Jer.52.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.5|<< Jeremiah 52:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.7|Jeremiah 52:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| \[the\] ninth | <big><span class="asgreek">εννάτη</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was solidified | <big><span class="asgreek">εστερεώθη</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτω]]</big>** |
+| \[the\] ninth | **<big>[[G1766\|εννάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| was solidified | **<big>[[G4732\|εστερεώθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city, | **<big>[[G4172\|πόλει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there were no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτοι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[Jer.52.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.5|<< Jeremiah 52:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.7|Jeremiah 52:7 >>]]</td></tr></table>
 
 

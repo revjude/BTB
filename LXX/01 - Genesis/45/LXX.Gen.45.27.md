@@ -7,32 +7,32 @@ And they told him all the words of Joseph, which he had said unto them: and when
 However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.<small><sub>**MT:**</sub></small>
 [[Gen.45.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.26|<< Genesis 45:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.28|Genesis 45:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sayings | <big><span class="asgreek">ρηθέντα</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| of | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wagons | <big><span class="asgreek">αμάξας</span></big> <sup><small><small>[[G6248]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Joseph sent, | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to take | <big><span class="asgreek">αναλαβείν</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rekindled | <big><span class="asgreek">ανεζωπύρησε</span></big> <sup><small><small>[[G0329]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And they spoke | **<big>[[G2980\|ελάλησαν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sayings | **<big>[[G2046\|ρηθέντα]]</big>** |
+| of | **<big>[[G5259\|υπό]]</big>** |
+| Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And seeing | **<big>[[G1492\|ιδών]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| wagons | **<big>[[G6248\|αμάξας]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| Joseph sent, | **<big>[[G0649\|απέστειλεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to take | **<big>[[G0353\|αναλαβείν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| rekindled | **<big>[[G0329\|ανεζωπύρησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Gen.45.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.26|<< Genesis 45:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.28|Genesis 45:28 >>]]</td></tr></table>
 
 

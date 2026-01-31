@@ -7,29 +7,29 @@ And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which 
 Meanwhile, Saul was staying under the pomegranate tree in Migron on the outskirts of Gibeah. And the troops who were with him numbered about six hundred men,<small><sub>**MT:**</sub></small>
 [[1Sam.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.1|<< 1 Samuel 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.3|1 Samuel 14:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| settled | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνού</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pomegranate, | <big><span class="asgreek">ροάν</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Migron. | <big><span class="asgreek">Μαγδών</span></big> <sup><small><small>[[H4051]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] about | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| settled | **<big>[[G2521\|εκάθητο]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| hill | **<big>[[G1015\|βουνού]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| pomegranate, | **<big>[[G9029\|ροάν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Migron. | **<big>[[H4051\|Μαγδών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] about | **<big>[[G5613\|ως]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| men. | **<big>[[G0435\|άνδρες]]</big>** |
 [[1Sam.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.1|<< 1 Samuel 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.3|1 Samuel 14:3 >>]]</td></tr></table>
 
 

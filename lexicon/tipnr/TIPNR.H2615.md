@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hannathon</span> was a border town in the territory allotted to the tribe of Zebulun \([[Josh.19.14|Joshua 19:14]]\).
 - A location only mentioned at [[Josh.19.14|Jos.19.14]]; 
-- only referred to as Hannathon<[[H2615]]> \(<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Hannathon **<big>[[H2615|חַנָּתֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.916002,35.426637&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The tribe of Zebulun, along with the tribes of Issachar and Naphtali, occupied t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hannathon | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2615) <small>*Hebrew*</small> | 1x | [Jos.19.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hannathon\*\|reference=Jos.19.14) |
-All Strong's for **Hannathon**: \[[[H2615]]\]
+| Hannathon | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ת</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2615) | 1x | [Jos.19.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hannathon\*\|reference=Jos.19.14) |
+All entries for **Hannathon**:  **<big>[[H2615|חַנָּתֹן]]</big>**

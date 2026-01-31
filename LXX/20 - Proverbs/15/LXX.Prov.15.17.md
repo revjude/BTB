@@ -7,20 +7,20 @@ Better [is] a dinner of herbs where love is, than a stalled ox and hatred therew
 Better a dish of vegetables where there is love than a fattened ox with hatred.<small><sub>**MT:**</sub></small>
 [[Prov.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Better | <big><span class="asgreek">κρείσσων</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
-| hospitality | <big><span class="asgreek">ξενισμός</span></big> <sup><small><small>[[G8424]]</small></small></sup> |
-| of vegetables | <big><span class="asgreek">λαχάνων</span></big> <sup><small><small>[[G3001]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| friendship | <big><span class="asgreek">φιλίαν</span></big> <sup><small><small>[[G5373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| favor, | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a fete | <big><span class="asgreek">παράθεσις</span></big> <sup><small><small>[[G8612]]</small></small></sup> |
-| of calves | <big><span class="asgreek">μόσχων</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| hatred. | <big><span class="asgreek">έχθρας</span></big> <sup><small><small>[[G2189]]</small></small></sup> |
+| Better | **<big>[[G2908\|κρείσσων]]</big>** |
+| hospitality | **<big>[[G8424\|ξενισμός]]</big>** |
+| of vegetables | **<big>[[G3001\|λαχάνων]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| friendship | **<big>[[G5373\|φιλίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| favor, | **<big>[[G5485\|χάριν]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| a fete | **<big>[[G8612\|παράθεσις]]</big>** |
+| of calves | **<big>[[G3448\|μόσχων]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| hatred. | **<big>[[G2189\|έχθρας]]</big>** |
 [[Prov.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
 

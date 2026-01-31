@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָלֶה‎</span></big> **ʻâleh** <small>*(aw-leh')*</small> ==**leaf**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="ashebrew">‎עָלֶה‎</span></big>** **ʻâleh** <small>*(aw-leh')*</small> ==**leaf**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
 $\quad$ branch, leaf.
 - ***a leaf*** (as coming up on a tree)
@@ -7,4 +7,4 @@ $\quad$ branch, leaf.
 
 **1)** leaf, leafage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φύλλον</span><sup><small>[[G5444]]</small></sup>
+<small>See Greek: </small>**<big>[[G5444|φύλλον]]</big>**

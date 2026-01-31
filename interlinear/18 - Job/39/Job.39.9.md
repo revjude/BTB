@@ -6,15 +6,15 @@ Will the wild ox consent to serve you? Will he stay by your manger at night?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.8|<< Job 39:8]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.10|Job 39:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ is it willing  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>יֹ֣אבֶה </big></span><small><small><sup>[[H0014]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Yoeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wild ox  | <span class="ashebrew"><big>רֵּ֣ים </big></span><small><small><sup>[[H7214]]</sup></small></small> &#8207;| reim <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to serve you  | <span class="ashebrew"><big>עָבְדֶ֑ </big></span><small><small><sup>[[H5647G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.ve.De. <small><sup>[[HVqcc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or?  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will it pass [the] night  | <span class="ashebrew"><big>יָ֝לִ֗ין </big></span><small><small><sup>[[H3885A]]</sup></small></small> &#8207;| ya.Lin <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feeding trough your  | <span class="ashebrew"><big>אֲבוּסֶֽ </big></span><small><small><sup>[[H0018]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.vu.Se. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ is it willing  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H0014\|יֹ֣אבֶה]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Yoeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wild ox  |**<big>&#8207;[[H7214\|רֵּ֣ים]]&#8207; </big>**| reim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to serve you  |**<big>&#8207;[[H5647G\|עָבְדֶ֑]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.ve.De.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or?  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will it pass [the] night  |**<big>&#8207;[[H3885A\|יָ֝לִ֗ין]]&#8207; </big>**| ya.Lin<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feeding trough your  |**<big>&#8207;[[H0018\|אֲבוּסֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.vu.Se.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.8|<< Job 39:8]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.10|Job 39:10 >>]]</td></tr></table>
 
 

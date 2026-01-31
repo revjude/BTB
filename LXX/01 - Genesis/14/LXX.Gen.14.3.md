@@ -7,21 +7,21 @@ All these were joined together in the vale of Siddim, which is the salt sea.
 The latter five came as allies to the Valley of Siddim (that is, the Salt Sea).<small><sub>**MT:**</sub></small>
 [[Gen.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.2|<< Genesis 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.4|Genesis 14:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| joined in harmony | <big><span class="asgreek">συνεφώνησαν</span></big> <sup><small><small>[[G4856]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| salty | <big><span class="asgreek">αλυκήν</span></big> <sup><small><small>[[G0252]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[being\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of salts. | <big><span class="asgreek">αλών</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| joined in harmony | **<big>[[G4856\|συνεφώνησαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| salty | **<big>[[G0252\|αλυκήν]]</big>** |
+| this | **<big>[[G3778\|αυτή]]</big>** |
+| \[being\] the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of salts. | **<big>[[G0251\|αλών]]</big>** |
 [[Gen.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.2|<< Genesis 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.4|Genesis 14:4 >>]]</td></tr></table>
 
 

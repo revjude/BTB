@@ -7,36 +7,36 @@ But he said, Then bring meal. And he cast [it] into the pot; and he said, Pour o
 Then Elisha said, “Get some flour.” He threw it into the pot and said, “Pour it out for the people to eat.” And there was nothing harmful in the pot.<small><sub>**MT:**</sub></small>
 [[2Kgs.4.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| flour, | <big><span class="asgreek">άλευρον</span></big> <sup><small><small>[[G0224]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put it | <big><span class="asgreek">εμβάλετε</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kettle! | <big><span class="asgreek">λέβητα</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put. | <big><span class="asgreek">ενέβαλον</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Gehazi, | <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
-| Pour out | <big><span class="asgreek">έγχει</span></big> <sup><small><small>[[G7040]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them eat! | <big><span class="asgreek">εσθιέτωσαν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| a bad | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kettle. | <big><span class="asgreek">λέβητι</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| You take | **<big>[[G2983\|λάβετε]]</big>** |
+| flour, | **<big>[[G0224\|άλευρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put it | **<big>[[G1685\|εμβάλετε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| kettle! | **<big>[[G8172\|λέβητα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they put. | **<big>[[G1685\|ενέβαλον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Gehazi, | **<big>[[H1522\|Γιεζί]]</big>** |
+| Pour out | **<big>[[G7040\|έγχει]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them eat! | **<big>[[G2068\|εσθιέτωσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγένετο]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| a bad | **<big>[[G4190\|πονηρόν]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| kettle. | **<big>[[G8172\|λέβητι]]</big>** |
 [[2Kgs.4.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
 

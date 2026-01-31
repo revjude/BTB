@@ -7,17 +7,17 @@ He putteth his mouth in the dust; if so be there may be hope.
 Let him bury his face in the dust—perhaps there is still hope.<small><sub>**MT:**</sub></small>
 [[Lam.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.28|<< Lamentations 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.30|Lamentations 3:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall put | <big><span class="asgreek">θήσει</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| dust | <big><span class="asgreek">κονιορτώ</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| perhaps | <big><span class="asgreek">ποτε</span></big> <sup><small><small>[[G4218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[there is\] hope. | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
+| He shall put | **<big>[[G5087\|θήσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| dust | **<big>[[G2868\|κονιορτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| perhaps | **<big>[[G4218\|ποτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[there is\] hope. | **<big>[[G1680\|ελπίς]]</big>** |
 [[Lam.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.28|<< Lamentations 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.30|Lamentations 3:30 >>]]</td></tr></table>
 
 

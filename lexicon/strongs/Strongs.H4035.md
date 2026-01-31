@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְגוּרָה‎</span></big> **mᵉgûwrâh** <small>*(meg-oo-raw')*</small> ==**fear**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מָגוֹר‎</span><sup><small>[[H4032]]</small></sup> or of <span class="ashebrew">‎מָגוּר‎</span><sup><small>[[H4033]]</small></sup></small>
+**<big><span class="ashebrew">‎מְגוּרָה‎</span></big>** **mᵉgûwrâh** <small>*(meg-oo-raw')*</small> ==**fear**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4032|‎מָגוֹר‎]]</big>** or of **<big>[[H4033|‎מָגוּר‎]]</big>**</small>
 
 $\quad$ barn, fear.
 - ***a fright***
@@ -8,4 +8,4 @@ $\quad$ barn, fear.
 **1)** fear, terror
 **2)** storehouse, granary
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θλῖψις</span><sup><small>[[G2347]]</small></sup>
+<small>See Greek: </small>**<big>[[G2347|θλῖψις]]</big>**

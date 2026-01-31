@@ -6,17 +6,17 @@ Shouts of joy and salvation resound in the tents of the righteous: “The right 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.14|<< Psalms 118:14]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.16|Psalms 118:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sound of  | <span class="ashebrew"><big>ק֤וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a shout of joy  | <span class="ashebrew"><big>רִנָּ֬ה </big></span><small><small><sup>[[H7440]]</sup></small></small> &#8207;| ri.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and salvation  | <span class="ashebrew"><big>וִֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ישׁוּעָ֗ה </big></span><small><small><sup>[[H3444]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> shu.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in [the] tents of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָהֳלֵ֥י </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'o.ho.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֑ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] right [hand] of  | <span class="ashebrew"><big>יְמִ֥ין </big></span><small><small><sup>[[H3225G]]</sup></small></small> &#8207;| ye.Min <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] doing  | <span class="ashebrew"><big>עֹ֣שָׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'O.sah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>חָֽיִל </big></span><small><small><sup>[[H2428G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963A\|ק֤וֹל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shout of joy  |**<big>&#8207;[[H7440\|רִנָּ֬ה]]&#8207; </big>**| ri.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and salvation  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3444\|ישׁוּעָ֗ה]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] tents of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אָהֳלֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.ho.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֑ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] right [hand] of  |**<big>&#8207;[[H3225G\|יְמִ֥ין]]&#8207; </big>**| ye.Min<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] doing  |**<big>&#8207;[[H6213A\|עֹ֣שָׂה]]&#8207; </big>**| 'O.sah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H2428G\|חָֽיִל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.14|<< Psalms 118:14]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.16|Psalms 118:16 >>]]</td></tr></table>
 
 

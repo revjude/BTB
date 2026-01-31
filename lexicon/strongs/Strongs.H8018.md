@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁלֶמְיָה‎</span></big> **Shelemyâh** <small>*(shel-em-yaw')*</small> ==**Shelemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שֶׁלֶמְיָהוּ</span> **Shelemyâhûw** <small>*(shel-em-yaw'-hoo)*</small>; from <span class="ashebrew">‎שֶׁלֶם‎</span><sup><small>[[H8002]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; thankoffering of Jah</small>
+**<big><span class="ashebrew">‎שֶׁלֶמְיָה‎</span></big>** **Shelemyâh** <small>*(shel-em-yaw')*</small> ==**Shelemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שֶׁלֶמְיָהוּ</span></big>** **Shelemyâhûw** <small>*(shel-em-yaw'-hoo)*</small>; from **<big>[[H8002|‎שֶׁלֶם‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; thankoffering of Jah</small>
 
 $\quad$ Shelemiah.
 - § Shelemiah = *"repaid by Jehovah"*

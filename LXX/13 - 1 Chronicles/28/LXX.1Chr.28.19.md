@@ -7,26 +7,26 @@ All [this, said David], the LORD made me understand in writing by [his] hand upo
 “All this,” said David, “all the details of this plan, the LORD has made clear to me in writing by His hand upon me.”<small><sub>**MT:**</sub></small>
 [[1Chr.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.18|<< 1 Chronicles 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.20|1 Chronicles 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] writing | <big><span class="asgreek">γραφή</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| David gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Solomon, | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| advantage | <big><span class="asgreek">περιγενηθείσαν</span></big> <sup><small><small>[[G8721]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| working out | <big><span class="asgreek">κατεργασίας</span></big> <sup><small><small>[[G7966]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plan. | <big><span class="asgreek">παραδείγματος</span></big> <sup><small><small>[[G8606]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] writing | **<big>[[G1124\|γραφή]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| David gave | **<big>[[G1325\|έδωκε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Solomon, | **<big>[[G4672\|Σολομώντι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| advantage | **<big>[[G8721\|περιγενηθείσαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| for understanding | **<big>[[G4907\|σύνεσιν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| working out | **<big>[[G7966\|κατεργασίας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plan. | **<big>[[G8606\|παραδείγματος]]</big>** |
 [[1Chr.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.18|<< 1 Chronicles 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.20|1 Chronicles 28:20 >>]]</td></tr></table>
 
 

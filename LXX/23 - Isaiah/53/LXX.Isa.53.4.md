@@ -11,31 +11,31 @@ Surely He took up our infirmities and carried our sorrows; yet we considered Him
 > $\quad$ referenced by: [[Matt.8.17|Matt 8:17]] ☩ [[1Pet.2.24|1Pet 2:24]] ☩ [[1John.3.5|1John 3:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bore | <big><span class="asgreek">φέρει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was grieved. | <big><span class="asgreek">οδυνάται</span></big> <sup><small><small>[[G3600]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| considered | <big><span class="asgreek">ελογισάμεθα</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| misery, | <big><span class="asgreek">πόνω</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ill treatment. | <big><span class="asgreek">κακώσει</span></big> <sup><small><small>[[G2561]]</small></small></sup> |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our sins | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| bore | **<big>[[G5342\|φέρει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| he was grieved. | **<big>[[G3600\|οδυνάται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| considered | **<big>[[G3049\|ελογισάμεθα]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| misery, | **<big>[[G4192\|πόνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| calamity | **<big>[[G4127\|πληγή]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| God, | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| ill treatment. | **<big>[[G2561\|κακώσει]]</big>** |
 [[Isa.53.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.3|<< Isaiah 53:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.5|Isaiah 53:5 >>]]</td></tr></table>
 
 

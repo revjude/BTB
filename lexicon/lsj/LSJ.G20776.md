@@ -1,4 +1,4 @@
-spelling of: <small>[[G3463]]</small> 
+spelling of: <small>**<big>[[G3463|μύριοι]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μυριότης==</span>-<span class='asgreek'>της</span></b>, <span class='asgreek'>ητος</span>, <span class='asgreek'>ἡ</span>, 

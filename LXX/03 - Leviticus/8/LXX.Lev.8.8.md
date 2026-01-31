@@ -7,24 +7,24 @@ And he put the breastplate upon him: also he put in the breastplate the Urim and
 Then he put the breastpiece on him and placed the Urim and Thummim in the breastpiece.<small><sub>**MT:**</sub></small>
 [[Lev.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.7|<< Leviticus 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.9|Leviticus 8:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle; | <big><span class="asgreek">λόγιον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Manifestation | <big><span class="asgreek">δήλωσιν</span></big> <sup><small><small>[[G6809]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Truth. | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle; | **<big>[[G3051\|λόγιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λογείον]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Manifestation | **<big>[[G6809\|δήλωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Truth. | **<big>[[G0225\|αλήθειαν]]</big>** |
 [[Lev.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.7|<< Leviticus 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.9|Leviticus 8:9 >>]]</td></tr></table>
 
 

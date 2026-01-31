@@ -7,25 +7,25 @@ Let his heart be changed from man’s, and let a beast’s heart be given unto h
 Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by.<small><sub>**MT:**</sub></small>
 [[Dan.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| shall be changed | <big><span class="asgreek">αλλοιωθήσεται</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of a wild beast | <big><span class="asgreek">θηρίου</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| shall be given | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| times | <big><span class="asgreek">καιροί</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| shall change | <big><span class="asgreek">αλλαγήσονται</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| His heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| shall be changed | **<big>[[G6230\|αλλοιωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of a wild beast | **<big>[[G2342\|θηρίου]]</big>** |
+| shall be given | **<big>[[G1325\|δοθήσεται]]</big>** |
+| to him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| times | **<big>[[G2540\|καιροί]]</big>** |
+| shall change | **<big>[[G0236\|αλλαγήσονται]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Dan.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 
 

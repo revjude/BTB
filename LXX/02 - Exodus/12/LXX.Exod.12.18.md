@@ -11,29 +11,29 @@ In the first month you are to eat unleavened bread, from the evening of the four
 > $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Commencing | <big><span class="asgreek">εναρχομένη</span></big> <sup><small><small>[[G1728]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτη</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| unleavened \[breads\] | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth | <big><span class="asgreek">εικάδος</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| Commencing | **<big>[[G1728\|εναρχομένη]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| fourteenth | **<big>[[G5065\|τεσσαρεσκαιδεκάτη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| first | **<big>[[G4413\|πρώτου]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| you shall eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| unleavened \[breads\] | **<big>[[G0106\|άζυμα]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| \[the\] first | **<big>[[G1520\|μιάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth | **<big>[[G7051\|εικάδος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρας]]</big>** |
 [[Exod.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.17|<< Exodus 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.19|Exodus 12:19 >>]]</td></tr></table>
 
 

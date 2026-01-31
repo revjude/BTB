@@ -1,4 +1,4 @@
-spelling of: <small>[[H7676]]</small> 
+spelling of: <small>**<big>[[H7676|שַׁבָּת]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σάββατον==</span>-<span class='asgreek'>ον</span></b>, <span class='asgreek'>τό</span>, 

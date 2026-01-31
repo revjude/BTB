@@ -7,24 +7,24 @@ Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall
 You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall winnow \[them\], | <big><span class="asgreek">λικμήσεις</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wind | <big><span class="asgreek">άνεμος</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gale | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| shall scatter | <big><span class="asgreek">διασπερεί</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall be glad | <big><span class="asgreek">ευφρανθήση</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy ones | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall winnow \[them\], | **<big>[[G3039\|λικμήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a wind | **<big>[[G0417\|άνεμος]]</big>** |
+| shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gale | **<big>[[G7844\|καταιγίς]]</big>** |
+| shall scatter | **<big>[[G1289\|διασπερεί]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall be glad | **<big>[[G2165\|ευφρανθήση]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| holy ones | **<big>[[G0039\|αγίοις]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
 

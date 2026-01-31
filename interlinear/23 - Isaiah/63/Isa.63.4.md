@@ -6,15 +6,15 @@ For the day of vengeance was in My heart, and the year of My redemption had come
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a day of  | <span class="ashebrew"><big>י֥וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vengeance  | <span class="ashebrew"><big>נָקָ֖ם </big></span><small><small><sup>[[H5359]]</sup></small></small> &#8207;| na.Kam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] in heart my  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לִבִּ֑ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] year of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁנַ֥ת </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| redemption\<s> my  | <span class="ashebrew"><big>גְּאוּלַ֖ </big></span><small><small><sup>[[H1350B]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ge.'u.La <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had come  | <span class="ashebrew"><big>בָּֽאָה </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ba.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a day of  |**<big>&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vengeance  |**<big>&#8207;[[H5359\|נָקָ֖ם]]&#8207; </big>**| na.Kam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in heart my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לִבִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] year of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8141\|שְׁנַ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| redemption\<s> my  |**<big>&#8207;[[H1350B\|גְּאוּלַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ge.'u.La<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had come  |**<big>&#8207;[[H0935G\|בָּֽאָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
 

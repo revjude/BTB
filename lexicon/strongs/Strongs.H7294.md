@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַהַב‎</span></big> **Rahab** <small>*(rah'-hab)*</small> ==**Rahab monster**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>the same as <span class="ashebrew">‎רַהַב‎</span><sup><small>[[H7293]]</small></sup></small>
+**<big><span class="ashebrew">‎רַהַב‎</span></big>** **Rahab** <small>*(rah'-hab)*</small> ==**Rahab monster**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>the same as **<big>[[H7293|‎רַהַב‎]]</big>**</small>
 
 $\quad$ Rahab.
 - § Rahab = *"breadth"*

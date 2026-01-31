@@ -7,39 +7,39 @@ Thou knowest how that David my father could not build an house unto the name of 
 “As you are well aware, due to the wars waged on all sides against my father David, he could not build a house for the Name of the LORD his God until the LORD had put his enemies under his feet.<small><sub>**MT:**</sub></small>
 [[1Kgs.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.2|<< 1 Kings 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.4|1 Kings 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| knew | <big><span class="asgreek">οίδας</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύνατο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| facing | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wars | <big><span class="asgreek">πολέμων</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| that were | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| encircling | <big><span class="asgreek">κυκλωσάντων</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> put | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soles | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his feet. | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You | **<big>[[G1473\|συ]]</big>** |
+| knew | **<big>[[G1492\|οίδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he was not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύνατο]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| facing | **<big>[[G4383\|προσώπου]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| wars | **<big>[[G4171\|πολέμων]]</big>** |
+| that were | **<big>[[G3588\|των]]</big>** |
+| encircling | **<big>[[G2944\|κυκλωσάντων]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> put | **<big>[[G1325\|δούναι]]</big>** **<big>[[G2962\|κύριον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| soles | **<big>[[G2487\|ίχνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his feet. | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Kgs.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.2|<< 1 Kings 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.4|1 Kings 5:4 >>]]</td></tr></table>
 
 

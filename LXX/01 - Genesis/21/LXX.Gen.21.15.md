@@ -7,22 +7,22 @@ And the water was spent in the bottle, and she cast the child under one of the s
 When the water in the skin was gone, she left the boy under one of the bushes.<small><sub>**MT:**</sub></small>
 [[Gen.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.14|<< Genesis 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.16|Genesis 21:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ceased | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \[coming\] from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leather bag, | <big><span class="asgreek">ασκού</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| male child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| fir tree. | <big><span class="asgreek">ελάτης</span></big> <sup><small><small>[[G7177]]</small></small></sup> |
+| ceased | **<big>[[G1587\|εξέλιπε]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \[coming\] from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| leather bag, | **<big>[[G0779\|ασκού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she tossed | **<big>[[G4496\|έρριψε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| male child | **<big>[[G3813\|παιδίον]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| one | **<big>[[G1520\|μιάς]]</big>** |
+| fir tree. | **<big>[[G7177\|ελάτης]]</big>** |
 [[Gen.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.14|<< Genesis 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.16|Genesis 21:16 >>]]</td></tr></table>
 
 

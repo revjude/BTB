@@ -1,5 +1,5 @@
 <span class="asgreek">εἰ μήν</span> <small>***(ei mēn)***</small> ==**is it not?**==  <sup><small>[[TEGMC#|]]</small></sup> 
-combination of: <small>[[G3375]] ([[G1487G]]+[[G3375]])</small> 
+combination of: <small>**<big>[[G3375|μήν]]</big>** (**<big>[[G1487G|εἰ]]</big>**+**<big>[[G3375|μήν]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==εἰ μήν==</span></b>, 

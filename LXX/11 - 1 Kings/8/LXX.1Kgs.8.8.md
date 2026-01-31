@@ -7,35 +7,35 @@ And they drew out the staves, that the ends of the staves were seen out in the h
 The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| projected | <big><span class="asgreek">υπερείχον</span></big> <sup><small><small>[[G5242]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sanctified \[staves\] | <big><span class="asgreek">ηγιασμένα</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked out | <big><span class="asgreek">ενεβλέποντο</span></big> <sup><small><small>[[G1689]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heads | <big><span class="asgreek">κεφαλαί</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sanctified \[staves\] | <big><span class="asgreek">ηγιασμένων</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dabir. | <big><span class="asgreek">δαβίρ</span></big> <sup><small><small>[[G6780]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seen | <big><span class="asgreek">ωπτάνοντο</span></big> <sup><small><small>[[G3700]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| projected | **<big>[[G5242\|υπερείχον]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sanctified \[staves\] | **<big>[[G0037\|ηγιασμένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| looked out | **<big>[[G1689\|ενεβλέποντο]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| heads | **<big>[[G2776\|κεφαλαί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sanctified \[staves\] | **<big>[[G0037\|ηγιασμένων]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holies | **<big>[[G0039\|αγίων]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| dabir. | **<big>[[G6780\|δαβίρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| seen | **<big>[[G3700\|ωπτάνοντο]]</big>** |
+| outside, | **<big>[[G1854\|έξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were | **<big>[[G1510\|ήσαν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[1Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בֵּית עַשְׁתָּרוֹת‎</span> <small>***(bet ash.ta.rot)***</small> ==**Beth-ashtaroth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-combination of: <small>[[H6253]] ([[H1004B]]+[[H6253]])</small> 
+<small>combination of:</small> <small>**<big>[[H6253|עַשְׁתֹּרֶת]]</big>** (**<big>[[H1004B|בַּיִת]]</big>**+**<big>[[H6253|עַשְׁתֹּרֶת]]</big>**)</small> 
 
 - Beth-ashtaroth = "house of Ashtaroth"

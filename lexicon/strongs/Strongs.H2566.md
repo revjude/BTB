@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַמְרָן‎</span></big> **Chamrân** <small>*(kham-rawn')*</small> ==**Hemdan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָמַר‎</span><sup><small>[[H2560]]</small></sup>; red</small>
+**<big><span class="ashebrew">‎חַמְרָן‎</span></big>** **Chamrân** <small>*(kham-rawn')*</small> ==**Hemdan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2560|‎חָמַר‎]]</big>**; red</small>
 
 $\quad$ Amran.
 - § Amram = *"the people is exalted" or "their slime"*

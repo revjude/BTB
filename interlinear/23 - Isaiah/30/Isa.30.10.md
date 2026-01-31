@@ -6,23 +6,23 @@ They say to the seers, “Stop seeing visions!” and to the prophets, “Do not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.9|<< Isaiah 30:9]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.11|Isaiah 30:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have said  | <span class="ashebrew"><big>אָמְר֤וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.me.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the seers  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֹאִים֙ </big></span><small><small><sup>[[H7203A]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ro.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must see  | <span class="ashebrew"><big>תִרְא֔וּ </big></span><small><small><sup>[[H7200L]]</sup></small></small> &#8207;| tir.'U <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to the seers  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חֹזִ֔ים </big></span><small><small><sup>[[H2374]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> La. <small><sup>[[HRd]]</sup></small> cho.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must see  | <span class="ashebrew"><big>תֶחֱזוּ </big></span><small><small><sup>[[H2372]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| te.che.zu- <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for us  | <span class="ashebrew"><big>לָ֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| straightforwardness\<es>  | <span class="ashebrew"><big>נְכֹח֑וֹת </big></span><small><small><sup>[[H5229]]</sup></small></small> &#8207;| ne.kho.Chot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| speak  | <span class="ashebrew"><big>דַּבְּרוּ </big></span><small><small><sup>[[H1696G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| da.be.ru- <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to us  | <span class="ashebrew"><big>לָ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flattering [words]  | <span class="ashebrew"><big>חֲלָק֔וֹת </big></span><small><small><sup>[[H2513B]]</sup></small></small> &#8207;| cha.la.Kot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| see  | <span class="ashebrew"><big>חֲז֖וּ </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| cha.Zu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deception\<s>  | <span class="ashebrew"><big>מַהֲתַלּֽוֹת </big></span><small><small><sup>[[H4123]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.ha.ta.Lot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have said  |**<big>&#8207;[[H0559\|אָמְר֤וּ]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the seers  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H7203A\|רֹאִים֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ro.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must see  |**<big>&#8207;[[H7200L\|תִרְא֔וּ]]&#8207; </big>**| tir.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to the seers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ֣]]&#8207;&#8207;[[H2374\|חֹזִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HRd]]</sup></small> cho.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must see  |**<big>&#8207;[[H2372\|תֶחֱזוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.che.zu-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for us  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| straightforwardness\<es>  |**<big>&#8207;[[H5229\|נְכֹח֑וֹת]]&#8207; </big>**| ne.kho.Chot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speak  |**<big>&#8207;[[H1696G\|דַּבְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| da.be.ru-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flattering [words]  |**<big>&#8207;[[H2513B\|חֲלָק֔וֹת]]&#8207; </big>**| cha.la.Kot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| see  |**<big>&#8207;[[H2372\|חֲז֖וּ]]&#8207; </big>**| cha.Zu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deception\<s>  |**<big>&#8207;[[H4123\|מַהֲתַלּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.ha.ta.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.9|<< Isaiah 30:9]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.11|Isaiah 30:11 >>]]</td></tr></table>
 
 

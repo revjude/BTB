@@ -7,24 +7,24 @@ And they departed from the mountains of Abarim, and pitched in the plains of Moa
 They set out from the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho.<small><sub>**MT:**</sub></small>
 [[Num.33.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.47|<< Numbers 33:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.49|Numbers 33:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departing | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορεών</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of Abarim, | <big><span class="asgreek">Αβαρίμ</span></big> <sup><small><small>[[H5682]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] descent | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Jericho. | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| departing | **<big>[[G0522\|απήραν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains | **<big>[[G3735\|ορεών]]</big>** |
+| of Abarim, | **<big>[[H5682\|Αβαρίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] descent | **<big>[[G1424\|δυσμών]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| Jericho. | **<big>[[G2410\|Ιεριχώ]]</big>** |
 [[Num.33.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.47|<< Numbers 33:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.49|Numbers 33:49 >>]]</td></tr></table>
 
 

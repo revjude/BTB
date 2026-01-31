@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלָיָה‎</span></big> **Pᵉlâyâh** <small>*(pel-aw-yaw')*</small> ==**Pelaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">פְּלָאיָה</span> **Pᵉlâʼyâh** <small>*(pel-aw-yaw')*</small>; from <span class="ashebrew">‎פָּלָא‎</span><sup><small>[[H6381]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has distinguished</small>
+**<big><span class="ashebrew">‎פְּלָיָה‎</span></big>** **Pᵉlâyâh** <small>*(pel-aw-yaw')*</small> ==**Pelaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">פְּלָאיָה</span></big>** **Pᵉlâʼyâh** <small>*(pel-aw-yaw')*</small>; from **<big>[[H6381|‎פָּלָא‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has distinguished</small>
 
 $\quad$ Pelaiah.
 - § Pelaiah = *"Jehovah does wonders"*

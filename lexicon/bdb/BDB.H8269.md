@@ -1,4 +1,4 @@
-<small>Also see: [[H3256]]</small>
+<small>Also see: **<big>[[H3256|יָסַר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שַׂר‎</span><sub>420</sub> **noun masculine** ==chieftain, chief, ruler, official, captain, prince== (Late Hebrew especially of angels; Assyrian <abbr title="transliteration"><u>***šarru***</u></abbr>, ***king***); — absolute <span class="bdbLangHebrew">‎שַׂר‎</span> [[2Sam.3.38|2Sam 3:38]] +, <span class="bdbLangHebrew">‎הַשַּׂר‎</span> [[Mic.7.3|Mic 7:3]] +, <span class="bdbLangHebrew">‎שָׂ֑ר‎</span> [[Hos.3.4|Hos 3:4]] +; construct <span class="bdbLangHebrew">‎שַׂר‎</span> [[Judg.4.2|Judg 4:2]] +; suffix <span class="bdbLangHebrew">‎שַׂרְכֶם‎</span> [[Dan.10.21|Dan 10:21]] plural <span class="bdbLangHebrew">‎שָׂרִים‎</span> [[1Kgs.4.2|1Kgs 4:2]] +; construct <span class="bdbLangHebrew">‎שָׂרֵי‎</span> [[Gen.12.15|Gen 12:15]] +; suffix <span class="bdbLangHebrew">‎שָׂרַי‎</span> [[Judg.5.15|Judg 5:15]]; [[Isa.10.8|Isa 10:8]], <span class="bdbLangHebrew">‎שָׂרֵיכֶם‎</span> [[Jer.44.21|Jer 44:21]], <span class="bdbLangHebrew">‎שָׂרֵיהֶם‎</span> [[Isa.3.4|Isa 3:4]] +; — 
 

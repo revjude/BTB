@@ -7,42 +7,42 @@ Then Zedekiah the king commanded that they should commit Jeremiah into the court
 So King Zedekiah gave orders for Jeremiah to be placed in the courtyard of the guard and given a loaf of bread daily from the street of the bakers, until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.<small><sub>**MT:**</sub></small>
 [[Jer.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.20|<< Jeremiah 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.1|Jeremiah 38:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ordered | <big><span class="asgreek">συνέταξεν</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put him | <big><span class="asgreek">ενεβάλοσαν</span></big> <sup><small><small>[[G1685]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guard, | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave | <big><span class="asgreek">εδίδοσαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bread \[loaf\] | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| from outside | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they baked, | <big><span class="asgreek">πέσσουσιν</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremiah stayed | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">Ιερεμίας</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guard. | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ordered | **<big>[[G4929\|συνέταξεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they put him | **<big>[[G1685\|ενεβάλοσαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3614\|οικίαν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| guard, | **<big>[[G5438\|φυλακής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gave | **<big>[[G1325\|εδίδοσαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| bread \[loaf\] | **<big>[[G0740\|άρτον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| a day | **<big>[[G2250\|ημέρας]]</big>** |
+| from outside | **<big>[[G1855\|έξωθεν]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they baked, | **<big>[[G8778\|πέσσουσιν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτοι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeremiah stayed | **<big>[[G2523\|εκάθισεν]]</big>** **<big>[[G2408\|Ιερεμίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| guard. | **<big>[[G5438\|φυλακής]]</big>** |
 [[Jer.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.20|<< Jeremiah 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.1|Jeremiah 38:1 >>]]</td></tr></table>
 
 

@@ -9,39 +9,39 @@ Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon th
 My eyes fail from weeping; I am churning within. My heart is poured out in grief over the destruction of the daughter of my people, because children and infants faint in the streets of the city.<small><sub>**MT:**</sub></small>
 [[Lam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.10|<< Lamentations 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.12|Lamentations 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΧΑΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΧΑΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tears | <big><span class="asgreek">δάκρυσιν</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is poured out | <big><span class="asgreek">εξεχύθη</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| onto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destruction | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| failing | <big><span class="asgreek">εκλείπειν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| infant | <big><span class="asgreek">νήπιον</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones nursing | <big><span class="asgreek">θηλάζοντα</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] squares | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| of the city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| ΧΑΦ <sup><small>[acrostic title]</small></sup> |  |
+| failed | **<big>[[G1587\|εξέλιπον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| tears | **<big>[[G1144\|δάκρυσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is poured out | **<big>[[G1632\|εξεχύθη]]</big>** |
+| onto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| destruction | **<big>[[G4938\|σύντριμμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| failing | **<big>[[G1587\|εκλείπειν]]</big>** |
+| infant | **<big>[[G3516\|νήπιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones nursing | **<big>[[G2337\|θηλάζοντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] squares | **<big>[[G4113\|πλατείαις]]</big>** |
+| of the city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Lam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.10|<< Lamentations 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.12|Lamentations 2:12 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Wherefore I have not sinned against thee, but thou doest me wrong to war against
 I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.”<small><sub>**MT:**</sub></small>
 [[Judg.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.26|<< Judges 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.28|Judges 11:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| sinned not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήμαρτόν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wickedness | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to wage war | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| May \[the\] <span class="smallcaps">lord</span> judge, | <big><span class="asgreek">κρίναι</span></big> <sup><small><small>[[G2919]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon. | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| And I | **<big>[[G2504\|καγώ]]</big>** |
+| sinned not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G0264\|ήμαρτόν]]</big>** |
+| against you, | **<big>[[G1473\|σοι]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| do | **<big>[[G4160\|ποιείς]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| wickedness | **<big>[[G4189\|πονηρίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to wage war | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
+| May \[the\] <span class="smallcaps">lord</span> judge, | **<big>[[G2919\|κρίναι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one judging | **<big>[[G2919\|κρίνων]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon. | **<big>[[H5983\|Αμμών]]</big>** |
 [[Judg.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.26|<< Judges 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.28|Judges 11:28 >>]]</td></tr></table>
 
 

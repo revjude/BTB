@@ -1,4 +1,4 @@
-<small>Also see: [[H8092]]</small>
+<small>Also see: **<big>[[H8092|שִׁמְעָא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שַׁמּוּעַ‎</span> 
 

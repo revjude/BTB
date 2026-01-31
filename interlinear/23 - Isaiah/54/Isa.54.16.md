@@ -6,24 +6,24 @@ Behold, I have created the craftsman who fans the coals into flame and forges a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  [^1] | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;[^2] | hen <small><sup>[[HTj]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| I  | <span class="ashebrew"><big>אָֽנֹכִי֙ </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I created  | <span class="ashebrew"><big>בָּרָ֣אתִי </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| ba.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a craftsman  | <span class="ashebrew"><big>חָרָ֔שׁ </big></span><small><small><sup>[[H2796]]</sup></small></small> &#8207;| cha.Rash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] blows  | <span class="ashebrew"><big>נֹפֵ֙חַ֙ </big></span><small><small><sup>[[H5301]]</sup></small></small> &#8207;| no.Fe.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on a fire of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֵ֣שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Esh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| charcoal  | <span class="ashebrew"><big>פֶּחָ֔ם </big></span><small><small><sup>[[H6352]]</sup></small></small> &#8207;| pe.Cham <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] produces  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מוֹצִ֥יא </big></span><small><small><sup>[[H3318M]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mo.Tzi' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a weapon  | <span class="ashebrew"><big>כְלִ֖י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| khe.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for work its  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַעֲשֵׂ֑ </big></span><small><small><sup>[[H4639G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ma.'a.Se. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָנֹכִ֛י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I created  | <span class="ashebrew"><big>בָּרָ֥אתִי </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| ba.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a destroyer  | <span class="ashebrew"><big>מַשְׁחִ֖ית </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| mash.Chit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to ruin  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חַבֵּֽל </big></span><small><small><sup>[[H2254B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> cha.Bel <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  [^1]|**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**[^2] | hen<small><sup>[[HTj]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I created  |**<big>&#8207;[[H1254A\|בָּרָ֣אתִי]]&#8207; </big>**| ba.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a craftsman  |**<big>&#8207;[[H2796\|חָרָ֔שׁ]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] blows  |**<big>&#8207;[[H5301\|נֹפֵ֙חַ֙]]&#8207; </big>**| no.Fe.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on a fire of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Esh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| charcoal  |**<big>&#8207;[[H6352\|פֶּחָ֔ם]]&#8207; </big>**| pe.Cham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] produces  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3318M\|מוֹצִ֥יא]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Tzi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a weapon  |**<big>&#8207;[[H3627\|כְלִ֖י]]&#8207; </big>**| khe.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for work its  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4639G\|מַעֲשֵׂ֑]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.'a.Se.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֛י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I created  |**<big>&#8207;[[H1254A\|בָּרָ֥אתִי]]&#8207; </big>**| ba.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a destroyer  |**<big>&#8207;[[H7843\|מַשְׁחִ֖ית]]&#8207; </big>**| mash.Chit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ruin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2254B\|חַבֵּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Bel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
-[^1]: ==K==: **here! ** | <small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>הֵן</big></span>  | hen<small><sup>[[HTj]]</sup></small> 
+[^1]: ==K==: here!  | **<big>[[H2005|הֵן]]</big> ** | hen<small><sup>[[HTj]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>הִןֵּ֤</big></span>**
 

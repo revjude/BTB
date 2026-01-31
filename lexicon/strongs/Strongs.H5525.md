@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֻכִּי‎</span></big> **Çukkîy** <small>*(sook-kee')*</small> ==**Sukkiim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from an unknown name (perhaps <span class="ashebrew">‎סֹךְ‎</span><sup><small>[[H5520]]</small></sup>)</small>
+**<big><span class="ashebrew">‎סֻכִּי‎</span></big>** **Çukkîy** <small>*(sook-kee')*</small> ==**Sukkiim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from an unknown name (perhaps **<big>[[H5520|‎סֹךְ‎]]</big>**)</small>
 
 $\quad$ Sukkiims.
 - § Sukkiims = *"booth dwellers"*

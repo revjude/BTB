@@ -7,27 +7,27 @@ Moreover [there are] workmen with thee in abundance, hewers and workers of stone
 You also have many workers: stonecutters, masons, carpenters, and men skilled in every kind of work—<small><sub>**MT:**</sub></small>
 [[1Chr.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.14|<< 1 Chronicles 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.16|1 Chronicles 22:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| 3in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| 4multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| 1doing | <big><span class="asgreek">ποιούντων</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| 2 \[the\] works] | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \[are\] craftsmen, | <big><span class="asgreek">τεχνίται</span></big> <sup><small><small>[[G5079]]</small></small></sup> |
-| quarriers | <big><span class="asgreek">λατόμοι</span></big> <sup><small><small>[[G8166]]</small></small></sup> |
-| of stones, | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fabricators | <big><span class="asgreek">τέκτονες</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| of wood, | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| wise one | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work; | <big><span class="asgreek">έργω</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| 3in | **<big>[[G1519\|εις]]</big>** |
+| 4multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| 1doing | **<big>[[G4160\|ποιούντων]]</big>** |
+| 2 \[the\] works] | **<big>[[G2041\|έργα]]</big>** |
+| \[are\] craftsmen, | **<big>[[G5079\|τεχνίται]]</big>** |
+| quarriers | **<big>[[G8166\|λατόμοι]]</big>** |
+| of stones, | **<big>[[G3037\|λίθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fabricators | **<big>[[G5045\|τέκτονες]]</big>** |
+| of wood, | **<big>[[G3586\|ξύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| wise one | **<big>[[G4680\|σοφός]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| work; | **<big>[[G2041\|έργω]]</big>** |
 [[1Chr.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.14|<< 1 Chronicles 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.16|1 Chronicles 22:16 >>]]</td></tr></table>
 
 

@@ -14,36 +14,36 @@ Then the glory of the LORD rose from above the cherubim and stood over the thres
 > $\quad$ referenced by: [[Rev.15.8|Rev 15:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departed | <big><span class="asgreek">απήρεν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| open air | <big><span class="asgreek">αίθριον</span></big> <sup><small><small>[[G6159]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was filled | <big><span class="asgreek">έπλησε</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \[with\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud, | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| was filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brightness | <big><span class="asgreek">φέγγους</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| departed | **<big>[[G0522\|απήρεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cherubim | **<big>[[G5502\|χερουβείμ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| open air | **<big>[[G6159\|αίθριον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house. | **<big>[[G3624\|οίκου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was filled | **<big>[[G4130\|έπλησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \[with\] the | **<big>[[G3588\|η]]</big>** |
+| cloud, | **<big>[[G3507\|νεφέλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| was filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| brightness | **<big>[[G5338\|φέγγους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| glory | **<big>[[G1391\|δόξης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ezek.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.3|<< Ezekiel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.5|Ezekiel 10:5 >>]]</td></tr></table>
 
 

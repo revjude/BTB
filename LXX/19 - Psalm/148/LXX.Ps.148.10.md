@@ -7,18 +7,18 @@ Beasts, and all cattle; creeping things, and flying fowl:
 wild animals and all cattle, crawling creatures and flying birds,<small><sub>**MT:**</sub></small>
 [[Ps.148.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.9|<< Psalm 148:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.11|Psalm 148:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle; | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| \[the\] reptiles, | <big><span class="asgreek">ερπετά</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| feathered | <big><span class="asgreek">πτερωτά</span></big> <sup><small><small>[[G8978]]</small></small></sup> |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cattle; | **<big>[[G2934\|κτήνη]]</big>** |
+| \[the\] reptiles, | **<big>[[G2062\|ερπετά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινά]]</big>** |
+| feathered | **<big>[[G8978\|πτερωτά]]</big>** |
 [[Ps.148.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.9|<< Psalm 148:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.11|Psalm 148:11 >>]]</td></tr></table>
 
 

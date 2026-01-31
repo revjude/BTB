@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מִתְנִי‎</span></big> **Mithnîy** <small>*(mith-nee')*</small> ==**Mithnite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎מִתְנִי‎</span></big>** **Mithnîy** <small>*(mith-nee')*</small> ==**Mithnite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>probably patrial from an unused noun meaning slenderness</small>
 
 $\quad$ Mithnite.

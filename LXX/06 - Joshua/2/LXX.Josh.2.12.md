@@ -7,32 +7,32 @@ Now therefore, I pray you, swear unto me by the LORD, since I have shewed you ki
 Now therefore, please swear to me by the LORD that you will indeed show kindness to my family, because I showed kindness to you. Give me a sure sign<small><sub>**MT:**</sub></small>
 [[Josh.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.11|<< Joshua 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.13|Joshua 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| swear by an oath | <big><span class="asgreek">ομόσατέ</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[by the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God! | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I performed | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[an act of\] mercy to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall also perform | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yourself | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[an act of\] mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσετέ</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sign | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| a true | <big><span class="asgreek">αληθινόν</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| swear by an oath | **<big>[[G3660\|ομόσατέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \[by the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God! | **<big>[[G2316\|θεόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I performed | **<big>[[G4160\|ποιώ]]</big>** |
+| \[an act of\] mercy to you, | **<big>[[G1473\|υμίν]]</big>** **<big>[[G1656\|έλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall also perform | **<big>[[G4160\|ποιήσετε]]</big>** **<big>[[G2532\|και]]</big>** |
+| yourself | **<big>[[G1473\|υμείς]]</big>** |
+| \[an act of\] mercy | **<big>[[G1656\|έλεος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall give | **<big>[[G1325\|δώσετέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| sign | **<big>[[G4592\|σημείον]]</big>** |
+| a true | **<big>[[G0228\|αληθινόν]]</big>** |
 [[Josh.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.11|<< Joshua 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.13|Joshua 2:13 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִדְּעֹנִי‎</span></big> **yiddᵉʻônîy** <small>*(yid-deh-o-nee')*</small> ==**spiritist**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup></small>
+**<big><span class="ashebrew">‎יִדְּעֹנִי‎</span></big>** **yiddᵉʻônîy** <small>*(yid-deh-o-nee')*</small> ==**spiritist**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>**</small>
 
 $\quad$ wizard.
 - properly, ***a knowing one***
@@ -9,4 +9,4 @@ $\quad$ wizard.
 **1)** a knower, one who has a familiar spirit
 $\quad$ **1a)** a familiar spirit, soothsayer, necromancer (meton)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γνώστης</span><sup><small>[[G1109]]</small></sup>
+<small>See Greek: </small>**<big>[[G1109|γνώστης]]</big>**

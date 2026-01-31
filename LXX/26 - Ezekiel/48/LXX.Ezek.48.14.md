@@ -7,24 +7,24 @@ And they shall not sell of it, neither exchange, nor alienate the firstfruits of
 They must not sell or exchange any of it, and they must not transfer this best part of the land, for it is holy to the LORD.<small><sub>**MT:**</sub></small>
 [[Ezek.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.13|<< Ezekiel 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.15|Ezekiel 48:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| No \[part\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shall be sold | <big><span class="asgreek">πραθήσεται</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| measured out \[for sale\], | <big><span class="asgreek">καταμετρηθήσεται</span></big> <sup><small><small>[[G7876]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall there be removed | <big><span class="asgreek">αφαιρεθήσεται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \[any of\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first produce | <big><span class="asgreek">πρωτογεννήματα</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it is holy | <big><span class="asgreek">άγιόν</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| No \[part\] | **<big>[[G3756\|ου]]</big>** |
+| shall be sold | **<big>[[G4097\|πραθήσεται]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| measured out \[for sale\], | **<big>[[G7876\|καταμετρηθήσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall there be removed | **<big>[[G0851\|αφαιρεθήσεται]]</big>** |
+| \[any of\] the | **<big>[[G3588\|τα]]</big>** |
+| first produce | **<big>[[G8966\|πρωτογεννήματα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it is holy | **<big>[[G0039\|άγιόν]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Ezek.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.13|<< Ezekiel 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.15|Ezekiel 48:15 >>]]</td></tr></table>
 
 

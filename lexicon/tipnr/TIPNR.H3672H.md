@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chinneroth</span>, also known as Chinnereth, was a region and a city near the Sea of Galilee, which was also called the Sea of Chinnereth.
 - A location first mentioned at [[Josh.11.2|Jos.11.2]]; 
-- referred to as Chinneroth<[[H3672H]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>\), or Chinnereth \(KJV= Chinnereth, NIV= Kinnereth\) <[[H3672I]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>\).
+- referred to as Chinneroth **<big>[[H3672|כִּנְּרוֹת]]</big>**, or Chinnereth \(KJV= Chinnereth, NIV= Kinnereth\)  **<big>[[H3672|כִּנְּרוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.80677585520321,35.58936052679091&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ In [[1Kgs.15.20|1 Kings 15:20]], during the reign of King Baasha of Israel, Ben-
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chinneroth (KJV= Cinneroth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3672H) <small>*Hebrew*</small> | 3x | [[Jos.11.2] ... [1Ki.15.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.11.2;Jos.19.35;1Ki.15.20) |
-| Chinnereth (KJV= Chinnereth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672I) <small>*Hebrew*</small> | 1x | [Jos.19.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.19.35) |
-All Strong's for **Chinneroth or Chinnereth**: \[[[H3672H]]\] \[[[H3672I]]\]
+| Chinneroth (KJV= Cinneroth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3672H) | 3x | [[Jos.11.2] ... [1Ki.15.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.11.2;Jos.19.35;1Ki.15.20) |
+| Chinnereth (KJV= Chinnereth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672I) | 1x | [Jos.19.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.19.35) |
+All entries for **Chinneroth or Chinnereth**:  **<big>[[H3672|כִּנְּרוֹת]]</big>** ☩  **<big>[[H3672|כִּנְּרוֹת]]</big>**

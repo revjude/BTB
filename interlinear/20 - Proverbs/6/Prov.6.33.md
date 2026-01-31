@@ -6,14 +6,14 @@ Wounds and dishonor will befall him, and his reproach will never be wiped away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.32|<< Proverbs 6:32]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.34|Proverbs 6:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a wound  | <span class="ashebrew"><big>נֶֽגַע </big></span><small><small><sup>[[H5061]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ne.ga'- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and shame  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קָל֥וֹן </big></span><small><small><sup>[[H7036]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ka.Lon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will find  | <span class="ashebrew"><big>יִמְצָ֑א </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| yim.Tza' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and reproach his  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֶרְפָּת֗ </big></span><small><small><sup>[[H2781]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cher.pa.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be wiped away  | <span class="ashebrew"><big>תִמָּחֶֽה </big></span><small><small><sup>[[H4229A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.ma.Cheh <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wound  |**<big>&#8207;[[H5061\|נֶֽגַע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.ga'-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shame  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7036\|קָל֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will find  |**<big>&#8207;[[H4672\|יִמְצָ֑א]]&#8207; </big>**| yim.Tza'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and reproach his  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H2781\|חֶרְפָּת֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cher.pa.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be wiped away  |**<big>&#8207;[[H4229A\|תִמָּחֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ti.ma.Cheh<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.32|<< Proverbs 6:32]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.34|Proverbs 6:34 >>]]</td></tr></table>
 
 

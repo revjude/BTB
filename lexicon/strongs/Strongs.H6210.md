@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֶרֶשׂ‎</span></big> **ʻeres** <small>*(eh'res)*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎עֶרֶשׂ‎</span></big>** **ʻeres** <small>*(eh'res)*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning perhaps to arch</small>
 
 $\quad$ bed(-stead), couch.
@@ -6,4 +6,4 @@ $\quad$ bed(-stead), couch.
 
 **1)** couch, divan, bed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλίνη</span><sup><small>[[G2825]]</small></sup>
+<small>See Greek: </small>**<big>[[G2825|κλίνη]]</big>**

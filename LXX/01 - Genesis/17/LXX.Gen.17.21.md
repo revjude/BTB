@@ -7,26 +7,26 @@ But my covenant will I establish with Isaac, which Sarah shall bear unto thee at
 But I will establish My covenant with Isaac, whom Sarah will bear to you at this time next year.”<small><sub>**MT:**</sub></small>
 [[Gen.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.20|<< Genesis 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.22|Genesis 17:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will establish | <big><span class="asgreek">στήσω</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall bear | <big><span class="asgreek">τέξεταί</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρρα</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| another | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| my covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will establish | **<big>[[G2476\|στήσω]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| shall bear | **<big>[[G5088\|τέξεταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρρα]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this time | **<big>[[G2540\|καιρόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| another | **<big>[[G2087\|ετέρω]]</big>** |
 [[Gen.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.20|<< Genesis 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.22|Genesis 17:22 >>]]</td></tr></table>
 
 

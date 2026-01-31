@@ -6,15 +6,15 @@ They no longer sing and drink wine; strong drink is bitter to those who consume 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.8|<< Isaiah 24:8]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.10|Isaiah 24:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| with \<the> song  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שִּׁ֖יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Shir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people will drink  | <span class="ashebrew"><big>יִשְׁתּוּ </big></span><small><small><sup>[[H8354]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yish.tu- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wine  | <span class="ashebrew"><big>יָ֑יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be bitter  | <span class="ashebrew"><big>יֵמַ֥ר </big></span><small><small><sup>[[H4843]]</sup></small></small> &#8207;| ye.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strong drink  | <span class="ashebrew"><big>שֵׁכָ֖ר </big></span><small><small><sup>[[H7941]]</sup></small></small> &#8207;| she.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [those who] drink it  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֹׁתָֽי </big></span><small><small><sup>[[H8354]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sho.Ta <small><sup>[[HVqrmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> song  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7892A\|שִּׁ֖יר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will drink  |**<big>&#8207;[[H8354\|יִשְׁתּוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.tu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  |**<big>&#8207;[[H3196\|יָ֑יִן]]&#8207; </big>**| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be bitter  |**<big>&#8207;[[H4843\|יֵמַ֥ר]]&#8207; </big>**| ye.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong drink  |**<big>&#8207;[[H7941\|שֵׁכָ֖ר]]&#8207; </big>**| she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [those who] drink it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8354\|שֹׁתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sho.Ta<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.8|<< Isaiah 24:8]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.10|Isaiah 24:10 >>]]</td></tr></table>
 
 

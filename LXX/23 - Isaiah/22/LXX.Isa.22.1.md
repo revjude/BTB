@@ -10,23 +10,23 @@ The burden of the valley of vision. What aileth thee now, that thou art wholly g
 This is the burden against the Valley of Vision: What ails you now, that you have all gone up to the rooftops,<small><sub>**MT:**</sub></small>
 [[Isa.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| happened | <big><span class="asgreek">εγένετό</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβητε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] roofs | <big><span class="asgreek">δώματα</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
-| in vain? | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγος]]</big>** |
+| of Zion. | **<big>[[G4622\|Σιών]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| happened | **<big>[[G1096\|εγένετό]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| ascended | **<big>[[G0305\|ανέβητε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] roofs | **<big>[[G1430\|δώματα]]</big>** |
+| in vain? | **<big>[[G3152\|μάταια]]</big>** |
 [[Isa.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
 

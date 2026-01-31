@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמִינִי‎</span></big> **shᵉmîynîy** <small>*(shem-ee-nee')*</small> ==**eighth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎שְׁמֹנֶה‎</span><sup><small>[[H8083]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁמִינִי‎</span></big>** **shᵉmîynîy** <small>*(shem-ee-nee')*</small> ==**eighth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H8083|‎שְׁמֹנֶה‎]]</big>**</small>
 
 $\quad$ eight.
 - ***eight***

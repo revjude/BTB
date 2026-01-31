@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Stephen</span>, one of the seven deacons chosen by the early church, was full of faith and the Holy Spirit, performed miracles, and became the first Christian martyr after his powerful testimony before the Sanhedrin.
 - A man living at the time of the New Testament, first mentioned at [[1Cor.16.24|Act.6.5]]; 
-- only referred to as Stephen<[[G4736]]> \(<span class='tipnrLangGreek'>Στέφανος</span>\).
+- only referred to as Stephen **<big>[[G4736|Στέφανος]]</big>**.
 
 Stephen was one of the seven men chosen by the early church in Jerusalem to serve as deacons, responsible for the daily distribution of food to widows \(Acts 6:1-6\). He is described as being full of faith, wisdom, and the Holy Spirit \(Acts 6:5, 8\). 
 
@@ -22,5 +22,5 @@ Stephen's martyrdom marked a significant turning point in the early church, as i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Stephen | [<span class='tipnrLangGreek'>Στέφανος</span>](G4736) <small>*Greek*</small> | 7x | [[Act.6.5] ... [Act.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stephen\*\|reference=Act.6.5;Act.6.8;Act.6.9;Act.7.59;Act.8.2;Act.11.19;Act.22.20) |
-All Strong's for **Stephen**: \[[[G4736]]\]
+| Stephen | [<span class='tipnrLangGreek'>Στέφανος</span>](G4736) | 7x | [[Act.6.5] ... [Act.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stephen\*\|reference=Act.6.5;Act.6.8;Act.6.9;Act.7.59;Act.8.2;Act.11.19;Act.22.20) |
+All entries for **Stephen**:  **<big>[[G4736|Στέφανος]]</big>**

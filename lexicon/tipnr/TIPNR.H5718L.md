@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adaiah</span>, one of the descendants of Harim, was a priest who had married a foreign woman during the time of Ezra \([[Ezra.10.39|Ezr.10.39]]\).
 - A priest living at the time of Exile and Return, only mentioned at [[Ezra.10.39|Ezr.10.39]]; 
-- only referred to as Adaiah<[[H5718L]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Adaiah **<big>[[H5718|עֲדָיָה]]</big>**.
 
 Adaiah, a priest mentioned in the book of Ezra, was among those who had married foreign women during the post-exilic period \([[Ezra.10.39|Ezra 10:39]]\). He was a descendant of Harim, one of the priestly families that returned to Jerusalem after the Babylonian exile. 
 
@@ -16,5 +16,5 @@ No further details are provided about Adaiah's personal life or the specific con
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718L) <small>*Hebrew*</small> | 1x | [Ezr.10.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=Ezr.10.39) |
-All Strong's for **Adaiah**: \[[[H5718L]]\]
+| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718L) | 1x | [Ezr.10.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=Ezr.10.39) |
+All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**

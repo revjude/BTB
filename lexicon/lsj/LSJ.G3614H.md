@@ -1,4 +1,4 @@
-meaning of: <small>[[G3614G]]</small> 
+meaning of: <small>**<big>[[G3614G|οἰκία]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==οἰκία==</span>-<span class='asgreek'>α</span></b>, 

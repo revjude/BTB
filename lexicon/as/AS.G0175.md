@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἄ-καρπος</span></span>, <span class="asgreek">-ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Jer.2.6|Je 2:6]] (<span class="ashebrew">צַלְמָוֶת</span> <small><sup>[[H6757]]</sup></small>), [[Wis.15.4|Wi 15:4]], [[4Macc.16.7|IV Mac 16:7]];\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἄ-καρπος</span></span>, <span class="asgreek">-ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Jer.2.6|Je 2:6]] (**<big>[[H6757|צַלְמָוֶת]]</big>**), [[Wis.15.4|Wi 15:4]], [[4Macc.16.7|IV Mac 16:7]];\]</span> </span>
 <span class="asitalic">unfruitful</span>, <span class="asitalic">barren</span>: fig., [[Matt.13.22|Mt 13:22]], [[Mark.4.19|Mk 4:19]], [[1Cor.14.14|I Co 14:14]], [[Eph.5.11|Eph 5:11]], [[Titus.3.14|Tit 3:14]], [[2Pet.1.8|II Pe 1:8]], [[Jude.1.12|Ju 12]].†
 
 **Abbott-Smith References**

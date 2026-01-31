@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אִכָּר‎</span></big> **ʼikkâr** <small>*(ik-kawr')*</small> ==**farmer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אִכָּר‎</span></big>** **ʼikkâr** <small>*(ik-kawr')*</small> ==**farmer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to dig</small>
 
 $\quad$ husbandman, ploughman.
@@ -7,4 +7,4 @@ $\quad$ husbandman, ploughman.
 **1)** plowman, husbandman, farmer
 $\quad$ **1a)** working the land, yet not owning any of it
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γεωργός</span><sup><small>[[G1092]]</small></sup>
+<small>See Greek: </small>**<big>[[G1092|γεωργός]]</big>**

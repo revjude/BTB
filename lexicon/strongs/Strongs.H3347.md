@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇקְדְעָם‎</span></big> **Yoqdᵉʻâm** <small>*(yok-deh-awm')*</small> ==**Jokdeam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָקַד‎</span><sup><small>[[H3344]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; burning of (the) people</small>
+**<big><span class="ashebrew">‎יׇקְדְעָם‎</span></big>** **Yoqdᵉʻâm** <small>*(yok-deh-awm')*</small> ==**Jokdeam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3344|‎יָקַד‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; burning of (the) people</small>
 
 $\quad$ Jokdeam.
 - § Jokdeam = *"burning of a people"*

@@ -7,25 +7,25 @@ And my people are bent to backsliding from me: though they called them to the mo
 My people are bent on turning from Me. Though they call to the Most High, He will by no means exalt them.<small><sub>**MT:**</sub></small>
 [[Hos.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.6|<< Hosea 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.8|Hosea 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are hanging | <big><span class="asgreek">επικρεμάμενος</span></big> <sup><small><small>[[G7422]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his house; | <big><span class="asgreek">κατοικίας</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his esteemed | <big><span class="asgreek">τίμια</span></big> <sup><small><small>[[G5093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be enraged | <big><span class="asgreek">θυμωθήσεται</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should he exalt him. | <big><span class="asgreek">υψώση</span></big> <sup><small><small>[[G5312]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are hanging | **<big>[[G7422\|επικρεμάμενος]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his house; | **<big>[[G2733\|κατοικίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his esteemed | **<big>[[G5093\|τίμια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall be enraged | **<big>[[G2373\|θυμωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should he exalt him. | **<big>[[G5312\|υψώση]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Hos.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.6|<< Hosea 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.8|Hosea 11:8 >>]]</td></tr></table>
 
 

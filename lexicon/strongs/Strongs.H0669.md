@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶפְרַיִם‎</span></big> **ʼEphrayim** <small>*(ef-rah'-yim)*</small> ==**Ephraim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>dual of masculine form of <span class="ashebrew">‎אֶפְרָת‎</span><sup><small>[[H0672]]</small></sup>; double fruit</small>
+**<big><span class="ashebrew">‎אֶפְרַיִם‎</span></big>** **ʼEphrayim** <small>*(ef-rah'-yim)*</small> ==**Ephraim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>dual of masculine form of **<big>[[H0672|‎אֶפְרָת‎]]</big>**; double fruit</small>
 
 $\quad$ Ephraim, Ephraimites.
 - § Ephraim = *"double ash-heap: I shall be doubly fruitful"*
@@ -13,4 +13,4 @@ $\quad$ Ephraim, Ephraimites.
 **5)** a city near Baal-hazor
 **6)** a chief gate of Jerusalem
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐφραίμ</span><sup><small>[[G2187]]</small></sup>
+<small>See Greek: </small>**<big>[[G2187|Ἐφραίμ]]</big>**

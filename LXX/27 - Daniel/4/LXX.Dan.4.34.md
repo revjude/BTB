@@ -10,53 +10,53 @@ And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and
 But at the end of those days I, Nebuchadnezzar, looked up to heaven, and my sanity was restored to me. Then I praised the Most High, and I honored and glorified Him who lives forever: “For His dominion is an everlasting dominion, and His kingdom endures from generation to generation.<small><sub>**MT:**</sub></small>
 [[Dan.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.33|<< Daniel 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.35|Daniel 4:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| lifted up | <big><span class="asgreek">ανελαβον</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my senses | <big><span class="asgreek">φρένες</span></big> <sup><small><small>[[G5424]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| returned | <big><span class="asgreek">επεστράφησαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest | <big><span class="asgreek">υψίστω</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| I blessed, | <big><span class="asgreek">ηυλόγησα</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| I praised | <big><span class="asgreek">ήνεσα</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glorified. | <big><span class="asgreek">εδόξασα</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his authority | <big><span class="asgreek">εξουσία</span></big> <sup><small><small>[[G1849]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| authority | <big><span class="asgreek">εξουσία</span></big> <sup><small><small>[[G1849]]</small></small></sup> |
-| \[is\] an eternal | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation. | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| end | **<big>[[G5056\|τέλος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| lifted up | **<big>[[G0353\|ανελαβον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| my senses | **<big>[[G5424\|φρένες]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| returned | **<big>[[G1994\|επεστράφησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| highest | **<big>[[G5310\|υψίστω]]</big>** |
+| I blessed, | **<big>[[G2127\|ηυλόγησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| living | **<big>[[G2198\|ζώντι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eons | **<big>[[G0165\|αιώνας]]</big>** |
+| I praised | **<big>[[G0134\|ήνεσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glorified. | **<big>[[G1392\|εδόξασα]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his authority | **<big>[[G1849\|εξουσία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| authority | **<big>[[G1849\|εξουσία]]</big>** |
+| \[is\] an eternal | **<big>[[G0166\|αιώνιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] unto | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation. | **<big>[[G1074\|γενεάν]]</big>** |
 [[Dan.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.33|<< Daniel 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.35|Daniel 4:35 >>]]</td></tr></table>
 
 

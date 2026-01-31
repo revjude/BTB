@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּעְתֻּעַ‎</span></big> **taʻtuaʻ** <small>*(tah-too'-ah)*</small> ==**delusion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎תָּעַע‎</span><sup><small>[[H8591]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּעְתֻּעַ‎</span></big>** **taʻtuaʻ** <small>*(tah-too'-ah)*</small> ==**delusion**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8591|‎תָּעַע‎]]</big>**</small>
 
 $\quad$ error.
 - ***a fraud***

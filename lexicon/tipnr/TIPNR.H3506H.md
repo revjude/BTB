@@ -4,10 +4,10 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ithran</span> \(or Jether\) was a descendant of Asher, the son of Zophah \([[1Chr.7.37|1Ch.7.37]]-38\).
 - A man from the tribe of Asher living at the time of Divided Monarchy, first mentioned at [[1Chr.7.37|1Ch.7.37]]; 
-- referred to as Ithran<[[H3506H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Jether<[[H3500K]]> \(<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Zophah<[[H6690]]>; 
-- a brother of Suah<[[H5477]]>, Harnepher<[[H2774]]>, Shual<[[H7777B]]>, Beri<[[H1275]]>, Imrah<[[H3236]]>, Bezer<[[H1221H]]>, Hod<[[H1936]]>, Shamma<[[H8037H]]>, Shilshah<[[H8030]]> and Beera<[[H0878]]>; 
--  father of Jephunneh<[[H3312H]]>, Pispa<[[H6462]]> and Ara<[[H0690]]>.
+- referred to as Ithran **<big>[[H3506|יִתְרָן]]</big>**, or Jether **<big>[[H3500|יֶתֶר]]</big>**; 
+-  son of Zophah **<big>[[H6690|צוֹפַח]]</big>**; 
+- a brother of Suah **<big>[[H5477|סוּחַ]]</big>**, Harnepher **<big>[[H2774|חַרְנֶפֶר]]</big>**, Shual **<big>[[H7777|שׁוּעָל]]</big>**, Beri **<big>[[H1275|בֵּרִי]]</big>**, Imrah **<big>[[H3236|יִמְרָה]]</big>**, Bezer **<big>[[H1221|בֶּצֶר]]</big>**, Hod **<big>[[H1936|הוֹד]]</big>**, Shamma **<big>[[H8037|שַׁמָּא]]</big>**, Shilshah **<big>[[H8030|שִׁלְשָׁה]]</big>** and Beera **<big>[[H0878|בְּאֵרָא]]</big>**; 
+-  father of Jephunneh **<big>[[H3312|יְפֻנֶּה]]</big>**, Pispa **<big>[[H6462|פִּסְפָּה]]</big>** and Ara **<big>[[H0690|אֲרָא]]</big>**.
 
 Ithran, also known as Jether, is mentioned in the genealogy of the tribe of Asher in [[1Chr.7.37|1 Chronicles 7:37]]-38. He is listed as the son of Zophah and a descendant of Asher, one of the twelve sons of Israel \(or 'Jacob'\). 
 
@@ -17,9 +17,9 @@ No other information is provided about Ithran's life, occupation, or role within
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ithran | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3506H) <small>*Hebrew*</small> | 1x | [1Ch.7.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithran\*\|reference=1Ch.7.37) |
-| Jether | [<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H3500K) <small>*Hebrew*</small> | 1x | [1Ch.7.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jether\*\|reference=1Ch.7.38) |
-All Strong's for **Ithran or Jether**: \[[[H3506H]]\] \[[[H3500K]]\]
+| Ithran | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3506H) | 1x | [1Ch.7.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithran\*\|reference=1Ch.7.37) |
+| Jether | [<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H3500K) | 1x | [1Ch.7.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jether\*\|reference=1Ch.7.38) |
+All entries for **Ithran or Jether**:  **<big>[[H3506|יִתְרָן]]</big>** ☩  **<big>[[H3500|יֶתֶר]]</big>**
 #### Related Profiles:
 - **[Zophah](H6690)** (father)
 - **[Suah](H5477)** (sibling)

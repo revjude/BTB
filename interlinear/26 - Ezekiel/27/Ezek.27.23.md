@@ -6,16 +6,16 @@ Haran, Canneh, and Eden traded with you, and so did the merchants of Sheba, Assh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.22|<< Ezekiel 27:22]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.24|Ezekiel 27:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Haran  | <span class="ashebrew"><big>חָרָ֤ן </big></span><small><small><sup>[[H2771A]]</sup></small></small> &#8207;| cha.Ran <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Canneh  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כַנֵּה֙ </big></span><small><small><sup>[[H3656]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha.Neh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eden  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶ֔דֶן </big></span><small><small><sup>[[H5729]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'E.den <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] traders of  | <span class="ashebrew"><big>רֹכְלֵ֖י </big></span><small><small><sup>[[H7402]]</sup></small></small> &#8207;| ro.khe.Lei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sheba  | <span class="ashebrew"><big>שְׁבָ֑א </big></span><small><small><sup>[[H7614J]]</sup></small></small> &#8207;| she.Va' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Asshur  | <span class="ashebrew"><big>אַשּׁ֖וּר </big></span><small><small><sup>[[H0804G]]</sup></small></small> &#8207;| 'a.Shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Chilmad  | <span class="ashebrew"><big>כִּלְמַ֥ד </big></span><small><small><sup>[[H3638]]</sup></small></small> &#8207;| kil.Mad <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] trader your  | <span class="ashebrew"><big>רֹכַלְתֵּֽ </big></span><small><small><sup>[[H7402]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.khal.Te <small><sup>[[HVqrfsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haran  |**<big>&#8207;[[H2771A\|חָרָ֤ן]]&#8207; </big>**| cha.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Canneh  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3656\|כַנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Neh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eden  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H5729\|עֶ֔דֶן]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'E.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] traders of  |**<big>&#8207;[[H7402\|רֹכְלֵ֖י]]&#8207; </big>**| ro.khe.Lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheba  |**<big>&#8207;[[H7614J\|שְׁבָ֑א]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asshur  |**<big>&#8207;[[H0804G\|אַשּׁ֖וּר]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Chilmad  |**<big>&#8207;[[H3638\|כִּלְמַ֥ד]]&#8207; </big>**| kil.Mad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] trader your  |**<big>&#8207;[[H7402\|רֹכַלְתֵּֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.khal.Te<small><sup>[[HVqrfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.22|<< Ezekiel 27:22]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.24|Ezekiel 27:24 >>]]</td></tr></table>
 
 

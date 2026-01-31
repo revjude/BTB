@@ -7,39 +7,39 @@ To fetch about this form of speech hath thy servant Joab done this thing: and my
 Joab your servant has done this to bring about this change of affairs, but my lord has wisdom like the wisdom of the angel of God, to know everything that happens in the land.”<small><sub>**MT:**</sub></small>
 [[2Sam.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So as for | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to come about | <big><span class="asgreek">περιελθείν</span></big> <sup><small><small>[[G4022]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this matter | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| prepared | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[is\] wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[the\] wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| of a messenger | <big><span class="asgreek">αγγέλου</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| So as for | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to come about | **<big>[[G4022\|περιελθείν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this matter | **<big>[[G4487\|ρήματος]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| prepared | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this thing. | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \[is\] wise | **<big>[[G4680\|σοφός]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[the\] wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| of a messenger | **<big>[[G0032\|αγγέλου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to know | **<big>[[G1097\|γνώναι]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land. | **<big>[[G1093\|γη]]</big>** |
 [[2Sam.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
 

@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎לָבָן‎</span></big> **lâbân** <small>*(law-bawn')*</small> ==**white**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or (Genesis 49:12) <span class="ashebrew">לָבֵן</span> **lâbên** <small>*(lawbane')*</small>; from <span class="ashebrew">‎לָבַן‎</span><sup><small>[[H3835]]</small></sup></small>
+**<big><span class="ashebrew">‎לָבָן‎</span></big>** **lâbân** <small>*(law-bawn')*</small> ==**white**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or (Genesis 49:12) **<big><span class="ashebrew">לָבֵן</span></big>** **lâbên** <small>*(lawbane')*</small>; from **<big>[[H3835|‎לָבַן‎]]</big>**</small>
 
 $\quad$ white.
 - ***white***
 
 **1)** white
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">λευκός</span><sup><small>[[G3022]]</small></sup> · <span class="asgreek">χλωρός</span><sup><small>[[G5515]]</small></sup>
+<small>See Greek: </small>**<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G3022|λευκός]]</big>** · **<big>[[G5515|χλωρός]]</big>**

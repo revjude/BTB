@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְקַת‎</span></big> **Chelqath** <small>*(khel-kath')*</small> ==**Helkath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a form of <span class="ashebrew">‎חֶלְקָה‎</span><sup><small>[[H2513]]</small></sup>; smoothness</small>
+**<big><span class="ashebrew">‎חֶלְקַת‎</span></big>** **Chelqath** <small>*(khel-kath')*</small> ==**Helkath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a form of **<big>[[H2513|‎חֶלְקָה‎]]</big>**; smoothness</small>
 
 $\quad$ Helkath.
 - § Helkath = *"smooth"*

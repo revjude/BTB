@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Elah Valley</span>, where David defeated the Philistine giant Goliath.
 - A location first mentioned at [[1Sam.17.2|1Sa.17.2]]; 
-- only referred to as Elah\_Valley<[[H0425L]]><[[H6010I]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Elah\_Valley **<big>[[H0425|אֵלָה]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.690629,34.963136&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ After this victory, the Elah Valley became famous as the site of David's triumph
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Elah | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0425L)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010I) <small>*Hebrew*</small> | 3x | [[1Sa.17.2] ... [1Sa.21.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=1Sa.17.2;1Sa.17.19;1Sa.21.9) |
-All Strong's for **Elah_Valley**: \[[[H0425L]]\]
+| Valley/ of Elah | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0425L)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010I) | 3x | [[1Sa.17.2] ... [1Sa.21.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=1Sa.17.2;1Sa.17.19;1Sa.21.9) |
+All entries for **Elah Valley**:  **<big>[[H0425|אֵלָה]]</big>**

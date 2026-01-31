@@ -7,18 +7,18 @@ An evil [man] seeketh only rebellion: therefore a cruel messenger shall be sent 
 An evil man seeks only rebellion; a cruel messenger will be sent against him.<small><sub>**MT:**</sub></small>
 [[Prov.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.10|<< Proverbs 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.12|Proverbs 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Disputes | <big><span class="asgreek">αντιλογίας</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
-| arise | <big><span class="asgreek">εγείρει</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| \[with\] every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| evil \[man\]; | <big><span class="asgreek">κακός</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| an unmerciful | <big><span class="asgreek">ανελεήμονα</span></big> <sup><small><small>[[G0415]]</small></small></sup> |
-| shall send forth | <big><span class="asgreek">εκπέμψει</span></big> <sup><small><small>[[G1599]]</small></small></sup> |
-| against him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Disputes | **<big>[[G0485\|αντιλογίας]]</big>** |
+| arise | **<big>[[G1453\|εγείρει]]</big>** |
+| \[with\] every | **<big>[[G3956\|πας]]</big>** |
+| evil \[man\]; | **<big>[[G2556\|κακός]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| angel | **<big>[[G0032\|άγγελον]]</big>** |
+| an unmerciful | **<big>[[G0415\|ανελεήμονα]]</big>** |
+| shall send forth | **<big>[[G1599\|εκπέμψει]]</big>** |
+| against him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Prov.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.10|<< Proverbs 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.12|Proverbs 17:12 >>]]</td></tr></table>
 
 

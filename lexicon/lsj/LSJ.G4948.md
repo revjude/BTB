@@ -1,4 +1,4 @@
-group of: <small>[[H0758I]]</small> 
+group of: <small>**<big>[[H0758I|אֲרָם]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σύρος==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ὁ</span>, 

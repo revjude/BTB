@@ -7,28 +7,28 @@ And they went to bury her: but they found no more of her than the skull, and the
 But when they went out to bury her, they found nothing but her skull, her feet, and the palms of her hands.<small><sub>**MT:**</sub></small>
 [[2Kgs.9.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.34|<< 2 Kings 9:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.36|2 Kings 9:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to bury | <big><span class="asgreek">θάψαι</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| of | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skull, | <big><span class="asgreek">κρανίον</span></big> <sup><small><small>[[G2898]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet, | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| palms | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
-| \[of her\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| to bury | **<big>[[G2290\|θάψαι]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρον]]</big>** |
+| of | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| but only | **<big>[[G6227\|αλλ η]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| skull, | **<big>[[G2898\|κρανίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| feet, | **<big>[[G4228\|πόδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| palms | **<big>[[G2487\|ίχνη]]</big>** |
+| \[of her\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| hands. | **<big>[[G5495\|χειρών]]</big>** |
 [[2Kgs.9.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.34|<< 2 Kings 9:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.36|2 Kings 9:36 >>]]</td></tr></table>
 
 

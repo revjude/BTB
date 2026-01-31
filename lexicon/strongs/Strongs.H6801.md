@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָנַף‎</span></big> **tsânaph** <small>*(tsaw-naf')*</small> ==**to wrap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָנַף‎</span></big>** **tsânaph** <small>*(tsaw-naf')*</small> ==**to wrap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be attired, [idiom] surely, violently turn.
@@ -6,4 +6,4 @@ $\quad$ be attired, [idiom] surely, violently turn.
 
 **1)** (Qal) to wrap, wrap or wind up together, wind around
 
-<sub><small>See Greek: </small></sub><span class="asgreek">περιτίθημι</span><sup><small>[[G4060]]</small></sup>
+<small>See Greek: </small>**<big>[[G4060|περιτίθημι]]</big>**

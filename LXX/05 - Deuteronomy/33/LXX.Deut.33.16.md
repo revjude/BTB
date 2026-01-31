@@ -7,31 +7,31 @@ And for the precious things of the earth and fulness thereof, and [for] the good
 with the choice gifts of the land and everything in it, and with the favor of Him who dwelt in the burning bush. May these rest on the head of Joseph and crown the brow of the prince of his brothers.<small><sub>**MT:**</sub></small>
 [[Deut.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.15|<< Deuteronomy 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.17|Deuteronomy 33:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| in season | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| of \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] fullness | <big><span class="asgreek">πληρώσεως</span></big> <sup><small><small>[[G8815]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| accepted \[things\] | <big><span class="asgreek">δεκτά</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being seen | <big><span class="asgreek">οφθέντι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bush -- | <big><span class="asgreek">βάτω</span></big> <sup><small><small>[[G0942]]</small></small></sup> |
-| may they come | <big><span class="asgreek">έλθοισαν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| being glorified | <big><span class="asgreek">δοξασθείς</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| brethren. | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| in season | **<big>[[G5610\|ώραν]]</big>** |
+| of \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| \[the\] fullness | **<big>[[G8815\|πληρώσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| accepted \[things\] | **<big>[[G1184\|δεκτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| being seen | **<big>[[G3708\|οφθέντι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| bush -- | **<big>[[G0942\|βάτω]]</big>** |
+| may they come | **<big>[[G2064\|έλθοισαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] top | **<big>[[G8073\|κορυφήν]]</big>** |
+| being glorified | **<big>[[G1392\|δοξασθείς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| brethren. | **<big>[[G0080\|αδελφοίς]]</big>** |
 [[Deut.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.15|<< Deuteronomy 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.17|Deuteronomy 33:17 >>]]</td></tr></table>
 
 

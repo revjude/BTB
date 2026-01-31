@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּפַף‎</span></big> **tâphaph** <small>*(taw-faf')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּפַף‎</span></big>** **tâphaph** <small>*(taw-faf')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ taber, play with timbrels.
@@ -8,4 +8,4 @@ $\quad$ taber, play with timbrels.
 $\quad$ **1a)** (Qal) playing (participle)
 $\quad$ **1b)** (Poel) beating (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φθέγγομαι</span><sup><small>[[G5350]]</small></sup>
+<small>See Greek: </small>**<big>[[G5350|φθέγγομαι]]</big>**

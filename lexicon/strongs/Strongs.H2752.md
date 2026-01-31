@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹרִי‎</span></big> **Chôrîy** <small>*(kho-ree')*</small> ==**Horite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>from <span class="ashebrew">‎חוֹר‎</span><sup><small>[[H2356]]</small></sup>; cave-dweller or troglodyte</small>
+**<big><span class="ashebrew">‎חֹרִי‎</span></big>** **Chôrîy** <small>*(kho-ree')*</small> ==**Horite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>from **<big>[[H2356|‎חוֹר‎]]</big>**; cave-dweller or troglodyte</small>
 
 $\quad$ Horims, Horites.
 - § Horite = *"cave dweller"*

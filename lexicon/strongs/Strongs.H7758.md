@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוֹלָל‎</span></big> **shôwlâl** <small>*(sho-lawl')*</small> ==**barefoot**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">שֵׁילָל</span> **shêylâl** <small>*(shay-lawl')*</small>; (Micah 1:8), from <span class="ashebrew">‎שָׁלַל‎</span><sup><small>[[H7997]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוֹלָל‎</span></big>** **shôwlâl** <small>*(sho-lawl')*</small> ==**barefoot**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">שֵׁילָל</span></big>** **shêylâl** <small>*(shay-lawl')*</small>; (Micah 1:8), from **<big>[[H7997|‎שָׁלַל‎]]</big>**</small>
 
 $\quad$ spoiled, stripped.
 - ***nude*** (especially bare-foot)
@@ -7,4 +7,4 @@ $\quad$ spoiled, stripped.
 
 **1)** barefoot
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰχμάλωτος</span><sup><small>[[G0164]]</small></sup>
+<small>See Greek: </small>**<big>[[G0164|αἰχμάλωτος]]</big>**

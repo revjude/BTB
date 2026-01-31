@@ -7,38 +7,38 @@ Then said Zebul unto him, Where [is] now thy mouth, wherewith thou saidst, Who [
 “Where is your gloating now?” Zebul replied. “You said, ‘Who is Abimelech that we should serve him?’ Are these not the people you ridiculed? Go out now and fight them!”<small><sub>**MT:**</sub></small>
 [[Judg.9.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.37|<< Judges 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.39|Judges 9:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Zebul | <big><span class="asgreek">Ζεβούλ</span></big> <sup><small><small>[[H2083]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth, | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Abimelech, | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we will serve | <big><span class="asgreek">δουλεύσομεν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Is this | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you treated with contempt? | <big><span class="asgreek">εξουδένωσας</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wage war | <big><span class="asgreek">πολέμει</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Zebul | **<big>[[H2083\|Ζεβούλ]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mouth, | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| saying, | **<big>[[G3004\|λέγον]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| Abimelech, | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| we will serve | **<big>[[G1398\|δουλεύσομεν]]</big>** |
+| him? | **<big>[[G1473\|αυτώ]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| Is this | **<big>[[G3778\|ούτός]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you treated with contempt? | **<big>[[G1847\|εξουδένωσας]]</big>** |
+| Go forth | **<big>[[G1831\|έξελθε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wage war | **<big>[[G4170\|πολέμει]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
 [[Judg.9.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.37|<< Judges 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.39|Judges 9:39 >>]]</td></tr></table>
 
 

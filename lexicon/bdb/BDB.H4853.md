@@ -1,4 +1,4 @@
-<small>Also see: [[H4854]]</small>
+<small>Also see: **<big>[[H4854|מַשָּׂא]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> **noun masculine**<sup>[[Ps.38.5|Ps 38:5]]</sup> ==load, burden, lifting, bearing, tribute==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute [[Neh.13.19|Neh 13:19]] +; construct [[2Kgs.5.17|2Kgs 5:17]] +; suffix <span class="bdbLangHebrew">‎מַשָּׂאוֺ‎</span> [[Exod.23.5|Exod 23:5]] + 2 t.; <span class="bdbLangHebrew">‎מַשַּׂאֲכֶם‎</span> [[Deut.1.12|Deut 1:12]] <span class="bdbLangHebrew">‎מַשָּׂאָם‎</span> [[Num.4.27|Num 4:27]] + 2 t.; — 
 

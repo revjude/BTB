@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹ‎</span></big> **ʼôw** <small>*(o)*</small> ==**or**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
-<small>presumed to be the 'constructive' or genitival form of <span class="ashebrew">אַו</span> **ʼav** <small>*(av)*</small> ; short for <span class="ashebrew">‎אַוָּה‎</span><sup><small>[[H0185]]</small></sup></small>
+**<big><span class="ashebrew">‎אוֹ‎</span></big>** **ʼôw** <small>*(o)*</small> ==**or**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
+<small>presumed to be the 'constructive' or genitival form of **<big><span class="ashebrew">אַו</span></big>** **ʼav** <small>*(av)*</small> ; short for **<big>[[H0185|‎אַוָּה‎]]</big>**</small>
 
 $\quad$ also, and, either, if, at the least, [idiom] nor, or, otherwise, then, whether.
 - ***desire*** (and so probably in Proverbs 31:4)

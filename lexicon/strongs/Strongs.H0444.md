@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָלַח‎</span></big> **ʼâlach** <small>*(aw-lakh')*</small> ==**to corrupt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָלַח‎</span></big>** **ʼâlach** <small>*(aw-lakh')*</small> ==**to corrupt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ become filthy.
@@ -6,4 +6,4 @@ $\quad$ become filthy.
 
 **1)** (Niphal) to be corrupt morally, tainted
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκάθαρτος</span><sup><small>[[G0169]]</small></sup> · <span class="asgreek">ἀχρειόω</span><sup><small>[[G0889]]</small></sup>
+<small>See Greek: </small>**<big>[[G0169|ἀκάθαρτος]]</big>** · **<big>[[G0889|ἀχρειόω]]</big>**

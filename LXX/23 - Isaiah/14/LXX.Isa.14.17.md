@@ -7,21 +7,21 @@ the one making the inhabitable world desolate, and  demolished its cities; the o
 who turned the world into a desert and destroyed its cities, who refused to let the captives return to their homes?”<small><sub>**MT:**</sub></small>
 [[Isa.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.16|<< Isaiah 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.18|Isaiah 14:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">θείς</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| desolate, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| demolished | <big><span class="asgreek">καθείλε</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| enslavement | <big><span class="asgreek">απαγωγή</span></big> <sup><small><small>[[G6387]]</small></small></sup> |
-| he did not loose. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έλυσε</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| making | **<big>[[G5087\|θείς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένην]]</big>** |
+| desolate, | **<big>[[G2048\|έρημον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| its cities | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| demolished | **<big>[[G2507\|καθείλε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| enslavement | **<big>[[G6387\|απαγωγή]]</big>** |
+| he did not loose. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3089\|έλυσε]]</big>** |
 [[Isa.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.16|<< Isaiah 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.18|Isaiah 14:18 >>]]</td></tr></table>
 
 

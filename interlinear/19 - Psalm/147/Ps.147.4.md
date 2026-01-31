@@ -6,14 +6,14 @@ He determines the number of the stars; He calls them each by name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.3|<< Psalms 147:3]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.5|Psalms 147:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he is] counting  | <span class="ashebrew"><big>מוֹנֶ֣ה </big></span><small><small><sup>[[H4487]]</sup></small></small> &#8207;| mo.Neh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] number  | <span class="ashebrew"><big>מִ֭סְפָּר </big></span><small><small><sup>[[H4557]]</sup></small></small> &#8207;| Mis.por <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of the stars  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כּוֹכָבִ֑ים </big></span><small><small><sup>[[H3556]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ko.kha.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to all of them  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֻלָּ֗ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khu.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| names  | <span class="ashebrew"><big>שֵׁמ֥וֹת </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| she.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he calls  | <span class="ashebrew"><big>יִקְרָֽא </big></span><small><small><sup>[[H7121H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yik.Ra' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] counting  |**<big>&#8207;[[H4487\|מוֹנֶ֣ה]]&#8207; </big>**| mo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] number  |**<big>&#8207;[[H4557\|מִ֭סְפָּר]]&#8207; </big>**| Mis.por<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the stars  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3556\|כּוֹכָבִ֑ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ko.kha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to all of them  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H3605\|כֻלָּ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| names  |**<big>&#8207;[[H8034\|שֵׁמ֥וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he calls  |**<big>&#8207;[[H7121H\|יִקְרָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yik.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.3|<< Psalms 147:3]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.5|Psalms 147:5 >>]]</td></tr></table>
 
 

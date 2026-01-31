@@ -6,16 +6,16 @@ As drought and heat consume the melting snow, so Sheol steals those who have sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.18|<< Job 24:18]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.20|Job 24:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| drought  | <span class="ashebrew"><big>צִיָּ֤ה </big></span><small><small><sup>[[H6723]]</sup></small></small> &#8207;| tzi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heat  | <span class="ashebrew"><big>חֹ֗ם </big></span><small><small><sup>[[H2527]]</sup></small></small> &#8207;| Chom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they snatch away  | <span class="ashebrew"><big>יִגְזְל֥וּ </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| yig.ze.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] waters of  | <span class="ashebrew"><big>מֵֽימֵי </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mei.mei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| snow  | <span class="ashebrew"><big>שֶׁ֗לֶג </big></span><small><small><sup>[[H7950]]</sup></small></small> &#8207;| She.leg <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sheol  | <span class="ashebrew"><big>שְׁא֣וֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| she.'ol <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] they have sinned  | <span class="ashebrew"><big>חָטָֽאוּ </big></span><small><small><sup>[[H2398]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.Ta.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drought  |**<big>&#8207;[[H6723\|צִיָּ֤ה]]&#8207; </big>**| tzi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heat  |**<big>&#8207;[[H2527\|חֹ֗ם]]&#8207; </big>**| Chom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they snatch away  |**<big>&#8207;[[H1497\|יִגְזְל֥וּ]]&#8207; </big>**| yig.ze.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waters of  |**<big>&#8207;[[H4325G\|מֵֽימֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mei.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| snow  |**<big>&#8207;[[H7950\|שֶׁ֗לֶג]]&#8207; </big>**| She.leg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  |**<big>&#8207;[[H7585\|שְׁא֣וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] they have sinned  |**<big>&#8207;[[H2398\|חָטָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Ta.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.18|<< Job 24:18]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.20|Job 24:20 >>]]</td></tr></table>
 
 

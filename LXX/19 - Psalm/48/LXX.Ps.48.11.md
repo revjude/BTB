@@ -7,22 +7,22 @@ Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgm
 Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments.<small><sub>**MT:**</sub></small>
 [[Ps.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.10|<< Psalm 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.12|Psalm 48:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be glad, | <big><span class="asgreek">ευφρανθήτω</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| exult | <big><span class="asgreek">αγαλλιάσθωσαν</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judea! | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgments, | <big><span class="asgreek">κριμάτων</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Be glad, | **<big>[[G2165\|ευφρανθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Zion! | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| exult | **<big>[[G0021\|αγαλλιάσθωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Judea! | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your judgments, | **<big>[[G2917\|κριμάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Ps.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.10|<< Psalm 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.12|Psalm 48:12 >>]]</td></tr></table>
 
 

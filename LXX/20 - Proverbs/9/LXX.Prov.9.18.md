@@ -7,21 +7,21 @@ But he knoweth not that the dead [are] there; [and that] her guests [are] in the
 But they do not know that the dead are there, that her guests are in the depths of Sheol.<small><sub>**MT:**</sub></small>
 [[Prov.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.17|<< Proverbs 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.1|Proverbs 10:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But he | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| earth-born men | <big><span class="asgreek">γηγενείς</span></big> <sup><small><small>[[G6734]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] destroyed | <big><span class="asgreek">όλλυνται</span></big> <sup><small><small>[[G8491]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] perch | <big><span class="asgreek">πέταυρον</span></big> <sup><small><small>[[G8781]]</small></small></sup> |
-| of Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| he meets | <big><span class="asgreek">συναντά</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
+| But he | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| does not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|οίδεν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| earth-born men | **<big>[[G6734\|γηγενείς]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| \[are\] destroyed | **<big>[[G8491\|όλλυνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] perch | **<big>[[G8781\|πέταυρον]]</big>** |
+| of Hades | **<big>[[G0086\|άδου]]</big>** |
+| he meets | **<big>[[G4876\|συναντά]]</big>** |
 [[Prov.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.17|<< Proverbs 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.1|Proverbs 10:1 >>]]</td></tr></table>
 
 

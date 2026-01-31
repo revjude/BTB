@@ -1,4 +1,4 @@
-spelling of: <small>[[G2854]]</small> 
+spelling of: <small>**<big>[[G2854|κολλούριον]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κολλύριον==</span>-<span class='asgreek'>ιον</span></b> [<span class='asgreek'>ῡ</span>], <span class='asgreek'>τό</span>, 

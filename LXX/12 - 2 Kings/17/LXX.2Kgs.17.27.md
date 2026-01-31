@@ -7,37 +7,37 @@ Then the king of Assyria commanded, saying, Carry thither one of the priests who
 Then the king of Assyria commanded: “Send back one of the priests you carried off from Samaria, and have him go back to live there and teach the requirements of the God of the land.”<small><sub>**MT:**</sub></small>
 [[2Kgs.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.26|<< 2 Kings 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.28|2 Kings 17:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Lead away | <big><span class="asgreek">απαγάγετε</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I resettled | <big><span class="asgreek">απώκισα</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Samaria! | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him go | <big><span class="asgreek">πορευθήτω</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him dwell | <big><span class="asgreek">κατοικήτω</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| there! | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall enlighten | <big><span class="asgreek">φωτιεί</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| distinguishing \[manner\] | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Lead away | **<big>[[G0520\|απαγάγετε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| I resettled | **<big>[[G6442\|απώκισα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Samaria! | **<big>[[G4541\|Σαμαρείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him go | **<big>[[G4198\|πορευθήτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him dwell | **<big>[[G2730\|κατοικήτω]]</big>** |
+| there! | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall enlighten | **<big>[[G5461\|φωτιεί]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| on the | **<big>[[G3588\|το]]</big>** |
+| distinguishing \[manner\] | **<big>[[G2917\|κρίμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[2Kgs.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.26|<< 2 Kings 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.28|2 Kings 17:28 >>]]</td></tr></table>
 
 

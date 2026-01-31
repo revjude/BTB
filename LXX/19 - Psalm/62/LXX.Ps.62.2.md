@@ -7,18 +7,18 @@ He only [is] my rock and my salvation; [he is] my defence; I shall not be greatl
 He alone is my rock and my salvation. He is my fortress; I will never be shaken.<small><sub>**MT:**</sub></small>
 [[Ps.62.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.1|<< Psalm 62:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.3|Psalm 62:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he \[is\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my deliverer, | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my shielder. | <big><span class="asgreek">αντιλήπτωρ</span></big> <sup><small><small>[[G6367]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I be shaken | <big><span class="asgreek">σαλευθώ</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| many. | <big><span class="asgreek">πλείον</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| For even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he \[is\] | **<big>[[G1473\|αυτός]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my deliverer, | **<big>[[G4990\|σωτήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my shielder. | **<big>[[G6367\|αντιλήπτωρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should I be shaken | **<big>[[G4531\|σαλευθώ]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| many. | **<big>[[G4183\|πλείον]]</big>** |
 [[Ps.62.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.1|<< Psalm 62:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.3|Psalm 62:3 >>]]</td></tr></table>
 
 

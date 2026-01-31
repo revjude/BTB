@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱוִלִי‎</span></big> **ʼĕvilîy** <small>*(ev-ee-lee')*</small> ==**foolish**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אֱוִיל‎</span><sup><small>[[H0191]]</small></sup></small>
+**<big><span class="ashebrew">‎אֱוִלִי‎</span></big>** **ʼĕvilîy** <small>*(ev-ee-lee')*</small> ==**foolish**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0191|‎אֱוִיל‎]]</big>**</small>
 
 $\quad$ foolish.
 - ***silly***, ***foolish***
@@ -7,4 +7,4 @@ $\quad$ foolish.
 
 **1)** foolish
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄπειρος</span><sup><small>[[G0552]]</small></sup>
+<small>See Greek: </small>**<big>[[G0552|ἄπειρος]]</big>**

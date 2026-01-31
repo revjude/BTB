@@ -7,41 +7,41 @@ And when he was gone, a lion met him by the way, and slew him: and his carcase w
 As he went on his way, a lion met him on the road and killed him, and his body was left lying in the road, with the donkey and the lion standing beside it.<small><sub>**MT:**</sub></small>
 [[1Kgs.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.23|<< 1 Kings 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.25|1 Kings 13:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went forth. | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it killed | <big><span class="asgreek">εθανάτωσεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tossed | <big><span class="asgreek">ερριμμένον</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| stood | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| stood | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| body. | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went forth. | **<big>[[G0565\|απήλθε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| found | **<big>[[G2147\|εύρεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it killed | **<big>[[G2289\|εθανάτωσεν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his body | **<big>[[G4983\|σώμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| tossed | **<big>[[G4496\|ερριμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| donkey | **<big>[[G3688\|όνος]]</big>** |
+| stood | **<big>[[G2476\|ειστήκει]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lion | **<big>[[G3023\|λέων]]</big>** |
+| stood | **<big>[[G2476\|ειστήκει]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| body. | **<big>[[G4983\|σώμα]]</big>** |
 [[1Kgs.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.23|<< 1 Kings 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.25|1 Kings 13:25 >>]]</td></tr></table>
 
 

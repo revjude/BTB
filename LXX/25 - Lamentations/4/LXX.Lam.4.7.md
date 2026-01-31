@@ -9,22 +9,22 @@ Her Nazarites were purer than snow, they were whiter than milk, they were more r
 Her dignitaries were brighter than snow, whiter than milk; their bodies were more ruddy than rubies, their appearance like sapphires.<small><sub>**MT:**</sub></small>
 [[Lam.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΖΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| were clean | <big><span class="asgreek">εκαθαριώθησαν</span></big> <sup><small><small>[[G7752]]</small></small></sup> |
-| Her Nazarites | <big><span class="asgreek">Ναζαραίοι</span></big> <sup><small><small>[[H5139]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| snow | <big><span class="asgreek">χιόνα</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
-| they radiated | <big><span class="asgreek">έλαμψαν</span></big> <sup><small><small>[[G2989]]</small></small></sup> |
-| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| they were purified | <big><span class="asgreek">επυρώθησαν</span></big> <sup><small><small>[[G4448]]</small></small></sup> |
-| \[were\] above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of sapphire | <big><span class="asgreek">σαπφείρου</span></big> <sup><small><small>[[G4552]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their broken \[pieces\] | <big><span class="asgreek">απόσπασμα</span></big> <sup><small><small>[[G6485]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> |  |
+| were clean | **<big>[[G7752\|εκαθαριώθησαν]]</big>** |
+| Her Nazarites | **<big>[[H5139\|Ναζαραίοι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| more than | **<big>[[G5228\|υπέρ]]</big>** |
+| snow | **<big>[[G5510\|χιόνα]]</big>** |
+| they radiated | **<big>[[G2989\|έλαμψαν]]</big>** |
+| more than | **<big>[[G5228\|υπέρ]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| they were purified | **<big>[[G4448\|επυρώθησαν]]</big>** |
+| \[were\] above | **<big>[[G5228\|υπέρ]]</big>** |
+| stone | **<big>[[G3037\|λίθου]]</big>** |
+| of sapphire | **<big>[[G4552\|σαπφείρου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Their broken \[pieces\] | **<big>[[G6485\|απόσπασμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lam.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
 

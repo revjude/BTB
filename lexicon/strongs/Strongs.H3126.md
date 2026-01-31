@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹנֵק‎</span></big> **yôwnêq** <small>*(yo-nake')*</small> ==**sapling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎יָנַק‎</span><sup><small>[[H3243]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹנֵק‎</span></big>** **yôwnêq** <small>*(yo-nake')*</small> ==**sapling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>active participle of **<big>[[H3243|‎יָנַק‎]]</big>**</small>
 
 $\quad$ tender plant.
 - ***a sucker***
@@ -7,4 +7,4 @@ $\quad$ tender plant.
 
 **1)** sucker, suckling, sapling, young plant
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παιδίον</span><sup><small>[[G3813]]</small></sup> · <span class="asgreek">παιδίον</span><sup><small>[[G3813]]</small></sup>
+<small>See Greek: </small>**<big>[[G3813|παιδίον]]</big>** · **<big>[[G3813|παιδίον]]</big>**

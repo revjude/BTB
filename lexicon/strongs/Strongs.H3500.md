@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יֶתֶר‎</span></big> **Yether** <small>*(yeh'-ther)*</small> ==**Jether**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יֶתֶר‎</span><sup><small>[[H3499]]</small></sup></small>
+**<big><span class="ashebrew">‎יֶתֶר‎</span></big>** **Yether** <small>*(yeh'-ther)*</small> ==**Jether**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3499|‎יֶתֶר‎]]</big>**</small>
 
-$\quad$ Jether, Jethro. Compare <span class="ashebrew">‎יִתְרוֹ‎</span><sup><small>[[H3503]]</small></sup>.
+$\quad$ Jether, Jethro. Compare **<big>[[H3503|‎יִתְרוֹ‎]]</big>**.
 - § Jether = *"abundance"*
 - ***Jether***, the name of five or six Israelites and of one Midianite
 

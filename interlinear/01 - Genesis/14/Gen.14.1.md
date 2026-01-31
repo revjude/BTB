@@ -6,22 +6,22 @@ In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.18|<< Genesis 13:18]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.2|Genesis 14:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִ֗י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Hi <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] days of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ימֵי֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| bi. <small><sup>[[HR]]</sup></small> Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amraphel  | <span class="ashebrew"><big>אַמְרָפֶ֣ל </big></span><small><small><sup>[[H0569]]</sup></small></small> &#8207;| 'am.ra.Fel <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shinar  | <span class="ashebrew"><big>שִׁנְעָ֔ר </big></span><small><small><sup>[[H8152]]</sup></small></small> &#8207;| shin.'Ar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Arioch  | <span class="ashebrew"><big>אַרְי֖וֹךְ </big></span><small><small><sup>[[H0746A]]</sup></small></small> &#8207;| 'ar.Yokh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ellasar  | <span class="ashebrew"><big>אֶלָּסָ֑ר </big></span><small><small><sup>[[H0495]]</sup></small></small> &#8207;| 'e.la.Sar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kedorlaomer  | <span class="ashebrew"><big>כְּדָרְלָעֹ֙מֶר֙ </big></span><small><small><sup>[[H3540]]</sup></small></small> &#8207;| ke.da.re.la.'O.mer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elam  | <span class="ashebrew"><big>עֵילָ֔ם </big></span><small><small><sup>[[H5867A]]</sup></small></small> &#8207;| 'ei.Lam <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Tidal  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִדְעָ֖ל </big></span><small><small><sup>[[H8413]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tid.'Al <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Goyim  | <span class="ashebrew"><big>גּוֹיִֽם </big></span><small><small><sup>[[H1471B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3117G\|ימֵי֙]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amraphel  |**<big>&#8207;[[H0569\|אַמְרָפֶ֣ל]]&#8207; </big>**| 'am.ra.Fel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shinar  |**<big>&#8207;[[H8152\|שִׁנְעָ֔ר]]&#8207; </big>**| shin.'Ar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arioch  |**<big>&#8207;[[H0746A\|אַרְי֖וֹךְ]]&#8207; </big>**| 'ar.Yokh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ellasar  |**<big>&#8207;[[H0495\|אֶלָּסָ֑ר]]&#8207; </big>**| 'e.la.Sar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedorlaomer  |**<big>&#8207;[[H3540\|כְּדָרְלָעֹ֙מֶר֙]]&#8207; </big>**| ke.da.re.la.'O.mer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elam  |**<big>&#8207;[[H5867A\|עֵילָ֔ם]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tidal  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8413\|תִדְעָ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tid.'Al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Goyim  |**<big>&#8207;[[H1471B\|גּוֹיִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| go.Yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.18|<< Genesis 13:18]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.2|Genesis 14:2 >>]]</td></tr></table>
 
 

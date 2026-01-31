@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַרְבַּעְתַּיִם‎</span></big> **ʼarbaʻtayim** <small>*(ar-bah-tah'-yim)*</small> ==**fourfold**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>dual of <span class="ashebrew">‎אַרְבַּע‎</span><sup><small>[[H0702]]</small></sup></small>
+**<big><span class="ashebrew">‎אַרְבַּעְתַּיִם‎</span></big>** **ʼarbaʻtayim** <small>*(ar-bah-tah'-yim)*</small> ==**fourfold**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>dual of **<big>[[H0702|‎אַרְבַּע‎]]</big>**</small>
 
 $\quad$ fourfold.
 - ***fourfold***

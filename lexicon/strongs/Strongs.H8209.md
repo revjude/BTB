@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎שַׁפִּיר‎</span></big> **shappîyr** <small>*(shap-peer')*</small> ==**fair**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) intensive of a form corresponding to <span class="ashebrew">‎שָׁפִיר‎</span><sup><small>[[H8208]]</small></sup></small>
+**<big><span class="asaramaic">‎שַׁפִּיר‎</span></big>** **shappîyr** <small>*(shap-peer')*</small> ==**fair**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) intensive of a form corresponding to **<big>[[H8208|‎שָׁפִיר‎]]</big>**</small>
 
 $\quad$ fair.
 - ***beautiful***
 
 **1)** fair, beautiful (of foliage)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὡραῖος</span><sup><small>[[G5611]]</small></sup>
+<small>See Greek: </small>**<big>[[G5611|ὡραῖος]]</big>**

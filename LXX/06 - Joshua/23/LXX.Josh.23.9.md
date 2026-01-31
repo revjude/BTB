@@ -7,27 +7,27 @@ For the LORD hath driven out from before you great nations and strong: but [as f
 The LORD has driven out great and powerful nations before you, and to this day no one can stand against you.<small><sub>**MT:**</sub></small>
 [[Josh.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.8|<< Joshua 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.10|Joshua 23:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall utterly destroy | <big><span class="asgreek">εξολοθρεύσει</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| your face -- | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρά</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| withstood | <big><span class="asgreek">αντέστη</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| before | <big><span class="asgreek">κατενώπιον</span></big> <sup><small><small>[[G2714]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall utterly destroy | **<big>[[G1842\|εξολοθρεύσει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| your face -- | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| great | **<big>[[G3173\|μεγάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong | **<big>[[G2478\|ισχυρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| no one | **<big>[[G3762\|ουδείς]]</big>** |
+| withstood | **<big>[[G0436\|αντέστη]]</big>** |
+| before | **<big>[[G2714\|κατενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[Josh.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.8|<< Joshua 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.10|Joshua 23:10 >>]]</td></tr></table>
 
 

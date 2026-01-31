@@ -1,5 +1,4 @@
-<span class="ashebrew">‎נַעֲמָן‎</span> <small>***(na.a.man)***</small> ==**Naaman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Num.26.40|Num.26.40]]
--  son of: Bela ([[H1106A]])
--  brother of: Ard ([[H0714H]]), Ezbon ([[H0675H]]), Uzzi ([[H5813I]]), Uzziel ([[H5816I]]), Jerimoth ([[H3406]]), Iri ([[H5901]]), Addar ([[H0146H]]), Gera ([[H1617I]]), Abihud ([[H0031]]), Abishua ([[H0050H]]) and Ahoah ([[H0265]]); also called Naamite at [[Num.26.40|Num.26.40]]
-- Also named: <i>na.a.mi</i> (<span class='ashebrew'>‎נ‎</span>ַ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Naamite" [[H5280]])
+-  son of: Bela (**<big>[[H1106A|בֶּלַע]]</big>**)
+-  brother of: Ard (**<big>[[H0714H|אַרְדְּ]]</big>**), Ezbon (**<big>[[H0675H|אֶצְבּוֹן]]</big>**), Uzzi (**<big>[[H5813I|עֻזִּי]]</big>**), Uzziel (**<big>[[H5816I|עֻזִּיאֵל]]</big>**), Jerimoth (**<big>[[H3406|יְרִימוֹת]]</big>**), Iri (**<big>[[H5901|עִירִי]]</big>**), Addar (**<big>[[H0146H|אַדָּר]]</big>**), Gera (**<big>[[H1617I|גֵּרָא]]</big>**), Abihud (**<big>[[H0031|אֲבִיהוּד]]</big>**), Abishua (**<big>[[H0050H|אֲבִישׁוּעַ]]</big>**) and Ahoah (**<big>[[H0265|אֲחוֹחַ]]</big>**); also called Naamite at [[Num.26.40|Num.26.40]]
+- Also named: <i>na.a.mi</i> (<span class='ashebrew'>‎נ‎</span>ַ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Naamite" **<big>[[H5280|נַעֲמִי]]</big>**)

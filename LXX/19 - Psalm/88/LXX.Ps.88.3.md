@@ -7,19 +7,19 @@ For my soul is full of troubles: and my life draweth nigh unto the grave.
 For my soul is full of troubles, and my life draws near to Sheol.<small><sub>**MT:**</sub></small>
 [[Ps.88.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| is filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| of bad \[things\] | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδη</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| approached | <big><span class="asgreek">ήγγισε</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| is filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| of bad \[things\] | **<big>[[G2556\|κακών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my life | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Hades | **<big>[[G0086\|άδη]]</big>** |
+| approached | **<big>[[G1448\|ήγγισε]]</big>** |
 [[Ps.88.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
 
 

@@ -10,26 +10,26 @@ Rejoice not, O Israel, for joy, as [other] people: for thou hast gone a whoring 
 Do not rejoice, O Israel, with exultation like the nations, for you have played the harlot against your God; you have made love for hire on every threshing floor.<small><sub>**MT:**</sub></small>
 [[Hos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.14|<< Hosea 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.2|Hosea 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rejoice not, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">χαίρε</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| O Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| be glad | <big><span class="asgreek">ευφραίνου</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples! | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you went whoring | <big><span class="asgreek">επόρνευσας</span></big> <sup><small><small>[[G4203]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You loved | <big><span class="asgreek">ηγάπησας</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δόματα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| threshing-floor | <big><span class="asgreek">άλωνα</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| of grain. | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| Rejoice not, | **<big>[[G3361\|μη]]</big>** **<big>[[G5463\|χαίρε]]</big>** |
+| O Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| be glad | **<big>[[G2165\|ευφραίνου]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples! | **<big>[[G2992\|λαοί]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you went whoring | **<big>[[G4203\|επόρνευσας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You loved | **<big>[[G0025\|ηγάπησας]]</big>** |
+| gifts | **<big>[[G1390\|δόματα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| threshing-floor | **<big>[[G0257\|άλωνα]]</big>** |
+| of grain. | **<big>[[G4621\|σίτου]]</big>** |
 [[Hos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.14|<< Hosea 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.2|Hosea 9:2 >>]]</td></tr></table>
 
 

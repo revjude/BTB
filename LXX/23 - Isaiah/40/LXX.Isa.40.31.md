@@ -7,25 +7,25 @@ But they that wait upon the LORD shall renew [their] strength; they shall mount 
 But those who wait upon the LORD will renew their strength; they will mount up with wings like eagles; they will run and not grow weary, they will walk and not faint.<small><sub>**MT:**</sub></small>
 [[Isa.40.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.30|<< Isaiah 40:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.1|Isaiah 41:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| waiting upon | <big><span class="asgreek">υπομένοντες</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| shall change | <big><span class="asgreek">αλλάξουσιν</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| in strength; | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| they shall grow wings | <big><span class="asgreek">πτεροφυήσουσιν</span></big> <sup><small><small>[[G8976]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| eagles; | <big><span class="asgreek">αετοί</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| they shall run | <big><span class="asgreek">δραμούνται</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| tire; | <big><span class="asgreek">κοπιάσουσι</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| they shall proceed | <big><span class="asgreek">βαδιούνται</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hunger. | <big><span class="asgreek">πεινάσουσιν</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| But the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| waiting upon | **<big>[[G5278\|υπομένοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| shall change | **<big>[[G0236\|αλλάξουσιν]]</big>** |
+| in strength; | **<big>[[G2479\|ισχύν]]</big>** |
+| they shall grow wings | **<big>[[G8976\|πτεροφυήσουσιν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| eagles; | **<big>[[G0105\|αετοί]]</big>** |
+| they shall run | **<big>[[G5143\|δραμούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| tire; | **<big>[[G2872\|κοπιάσουσι]]</big>** |
+| they shall proceed | **<big>[[G6642\|βαδιούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| hunger. | **<big>[[G3983\|πεινάσουσιν]]</big>** |
 [[Isa.40.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.30|<< Isaiah 40:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.1|Isaiah 41:1 >>]]</td></tr></table>
 
 

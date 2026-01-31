@@ -1,8 +1,8 @@
 <small>*Karkor • A place where Gideon defeated Zebah and Zalmunna*</small>
 
 <span class='tipnrhighlight'>Karkor</span>, the place where Gideon defeated the Midianite kings Zebah and Zalmunna \([[Judg.8.10|Judges 8:10]]\).
-- A location near Peniel<[[H6439G]]> only mentioned at [[Judg.8.10|Jdg.8.10]]; 
-- only referred to as Karkor<[[H7174]]> \(<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Peniel **<big>[[H6439|פְּנוּאֵל]]</big>** only mentioned at [[Judg.8.10|Jdg.8.10]]; 
+- only referred to as Karkor **<big>[[H7174|קַרְקֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.1843727808126,35.70287002746794&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Karkor was a location east of the Jordan River where Gideon, a judge of Israel, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Karkor | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H7174) <small>*Hebrew*</small> | 1x | [Jdg.8.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Karkor\*\|reference=Jdg.8.10) |
-All Strong's for **Karkor**: \[[[H7174]]\]
+| Karkor | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H7174) | 1x | [Jdg.8.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Karkor\*\|reference=Jdg.8.10) |
+All entries for **Karkor**:  **<big>[[H7174|קַרְקֹר]]</big>**

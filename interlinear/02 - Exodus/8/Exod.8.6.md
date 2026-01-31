@@ -6,21 +6,21 @@ So Aaron stretched out his hand over the waters of Egypt, and the frogs came up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.5|<< Exodus 8:5]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.7|Exodus 8:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he stretched out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֤ט </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yet <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aaron  | <span class="ashebrew"><big>אַהֲרֹן֙ </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand his  | <span class="ashebrew"><big>יָד֔ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ya.D <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַ֖ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] waters of  | <span class="ashebrew"><big>מֵימֵ֣י </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| mei.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it went up  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תַּ֙עַל֙ </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Ta.'al <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the frog[s]  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צְּפַרְדֵּ֔עַ </big></span><small><small><sup>[[H6854]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tze.far.De.a' <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it covered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תְּכַ֖ס </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.Khas <small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יֵּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹן֙]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  |**<big>&#8207;[[H3027G\|יָד֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waters of  |**<big>&#8207;[[H4325G\|מֵימֵ֣י]]&#8207; </big>**| mei.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּ֙עַל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'al<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the frog[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6854\|צְּפַרְדֵּ֔עַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.far.De.a'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it covered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3680\|תְּכַ֖ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Khas<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.5|<< Exodus 8:5]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.7|Exodus 8:7 >>]]</td></tr></table>
 
 

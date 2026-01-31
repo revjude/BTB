@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H1868]]</small>
+<small>Aramaic form: **<big>[[H1868|דָּֽרְיָוֵשׁ]]</big>**</small>
  <span class="bdbLangHebrew">‎דָּֽרְיָ֫וֶשׁ‎</span> **proper name, masculine** ==Darius== (Old Persian <abbr title="transliteration"><u>***Dârayaua'ush***</u></abbr> compare [[BDB#Spieg|Spieg]]<sup>APK 81</sup>) — 
 
 **1.** Darius Hystaspis, 522-485 [[Ezra.4.5|Ezra 4:5]]; [[Hag.1.1|Hag 1:1]]; [[Hag.1.15|Hag 1:15]]; [[Hag.2.10|Hag 2:10]]; [[Zech.1.1|Zech 1:1]]; [[Zech.1.7|Zech 1:7]]; [[Zech.7.1|Zech 7:1]]. 

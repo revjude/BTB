@@ -7,31 +7,31 @@ Absalom said moreover, Oh that I were made judge in the land, that every man whi
 And he would add, “If only someone would appoint me judge in the land, then everyone with a grievance or dispute could come to me, and I would give him justice.”<small><sub>**MT:**</sub></small>
 [[2Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.3|<< 2 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.5|2 Samuel 15:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| Why | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall he \[not\] place me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">καταστήσει</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| for judge | <big><span class="asgreek">κριτήν</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ελεύσεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| there might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a dispute, | <big><span class="asgreek">αντιλογία</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a case, | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will do justice | <big><span class="asgreek">δικαιώσω</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| for him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| Why | **<big>[[G5100\|τις]]</big>** |
+| shall he \[not\] place me | **<big>[[G1473\|με]]</big>** **<big>[[G2525\|καταστήσει]]</big>** |
+| for judge | **<big>[[G2923\|κριτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| shall come | **<big>[[G2064\|ελεύσεται]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| to whom | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| there might be | **<big>[[G1510\|η]]</big>** |
+| a dispute, | **<big>[[G0485\|αντιλογία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a case, | **<big>[[G2920\|κρίσις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will do justice | **<big>[[G1344\|δικαιώσω]]</big>** |
+| for him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.3|<< 2 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.5|2 Samuel 15:5 >>]]</td></tr></table>
 
 

@@ -6,30 +6,30 @@ And the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.7|<< Amos 7:7]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.9|Amos 7:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֨אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>אֵלַ֗ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מָֽה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] you  | <span class="ashebrew"><big>אַתָּ֤ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seeing  | <span class="ashebrew"><big>רֹאֶה֙ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ro.'Eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Amos  | <span class="ashebrew"><big>עָמ֔וֹס </big></span><small><small><sup>[[H5986]]</sup></small></small> &#8207;| a.Mos <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I said  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֹמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'o.Mar <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tin  | <span class="ashebrew"><big>אֲנָ֑ךְ </big></span><small><small><sup>[[H0594]]</sup></small></small> &#8207;| 'a.Nakh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֗י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֨י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to put  | <span class="ashebrew"><big>שָׂ֤ם </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| sam <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tin  | <span class="ashebrew"><big>אֲנָךְ֙ </big></span><small><small><sup>[[H0594]]</sup></small></small> &#8207;| 'a.noKh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] midst of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קֶ֙רֶב֙ </big></span><small><small><sup>[[H7130G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ke.rev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ֣ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will repeat  | <span class="ashebrew"><big>אוֹסִ֥יף </big></span><small><small><sup>[[H3254G]]</sup></small></small> &#8207;| 'o.Sif <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֖וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to pass by  | <span class="ashebrew"><big>עֲב֥וֹר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| a.Vor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> it  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H0413\|אֵלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seeing  |**<big>&#8207;[[H7200G\|רֹאֶה֙]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Amos  |**<big>&#8207;[[H5986\|עָמ֔וֹס]]&#8207; </big>**| a.Mos<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֖ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tin  |**<big>&#8207;[[H0594\|אֲנָ֑ךְ]]&#8207; </big>**| 'a.Nakh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֗י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to put  |**<big>&#8207;[[H7760A\|שָׂ֤ם]]&#8207; </big>**| sam<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tin  |**<big>&#8207;[[H0594\|אֲנָךְ֙]]&#8207; </big>**| 'a.noKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קֶ֙רֶב֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will repeat  |**<big>&#8207;[[H3254G\|אוֹסִ֥יף]]&#8207; </big>**| 'o.Sif<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to pass by  |**<big>&#8207;[[H5674A\|עֲב֥וֹר]]&#8207; </big>**| a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> it  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.7|<< Amos 7:7]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.9|Amos 7:9 >>]]</td></tr></table>
 
 

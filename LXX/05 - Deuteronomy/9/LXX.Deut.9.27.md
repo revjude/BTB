@@ -7,34 +7,34 @@ Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness
 Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of this people and the wickedness of their sin.<small><sub>**MT:**</sub></small>
 [[Deut.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.26|<< Deuteronomy 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.28|Deuteronomy 9:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your attendants! | <big><span class="asgreek">θεραπόντων</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ones to whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you swore by an oath | <big><span class="asgreek">ώμοσας</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| yourself. | <big><span class="asgreek">σεαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| look | <big><span class="asgreek">επιβλέψης</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hardness | <big><span class="asgreek">σκληρότητα</span></big> <sup><small><small>[[G4643]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their acts of impiety, | <big><span class="asgreek">ασεβήματα</span></big> <sup><small><small>[[G6567]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins; | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Remember | **<big>[[G3403\|μνήσθητι]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your attendants! | **<big>[[G2324\|θεραπόντων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| ones to whom | **<big>[[G3739\|οις]]</big>** |
+| you swore by an oath | **<big>[[G3660\|ώμοσας]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| yourself. | **<big>[[G4572\|σεαυτού]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| look | **<big>[[G1914\|επιβλέψης]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hardness | **<big>[[G4643\|σκληρότητα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their acts of impiety, | **<big>[[G6567\|ασεβήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their sins; | **<big>[[G0265\|αμαρτήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.26|<< Deuteronomy 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.28|Deuteronomy 9:28 >>]]</td></tr></table>
 
 

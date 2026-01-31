@@ -2,7 +2,7 @@
 
 Mount Esau, the mountainous region of Edom, against which the prophet Obadiah declared God's judgment for their hostility toward Israel.
 - A location first mentioned at [[Ezra.4.9|Oba.1.8]]; 
-- only referred to as Esau\_Mount<[[H6215I]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ו</span>\).
+- only referred to as Esau\_Mount **<big>[[H6215|עֵשָׂו]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The reference to Mount Esau symbolizes the pride and security of the Edomites in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Esau | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ו</span>](H6215I) <small>*Hebrew*</small> | 4x | [[Oba.1.8] ... [Oba.1.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Esau\*\|reference=Oba.1.8;Oba.1.9;Oba.1.19;Oba.1.21) |
-All Strong's for **Esau_Mount**: \[[[H6215I]]\]
+| (Mount )Esau | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ו</span>](H6215I) | 4x | [[Oba.1.8] ... [Oba.1.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Esau\*\|reference=Oba.1.8;Oba.1.9;Oba.1.19;Oba.1.21) |
+All entries for **Esau Mount**:  **<big>[[H6215|עֵשָׂו]]</big>**

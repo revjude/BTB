@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁדֵפָה‎</span></big> **shᵉdêphâh** <small>*(shed-ay-faw')*</small> ==**blight**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">שִׁדָּפוֹן</span> **shiddâphôwn** <small>*(shid-daw-fone')*</small>; from <span class="ashebrew">‎שָׁדַף‎</span><sup><small>[[H7710]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁדֵפָה‎</span></big>** **shᵉdêphâh** <small>*(shed-ay-faw')*</small> ==**blight**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">שִׁדָּפוֹן</span></big>** **shiddâphôwn** <small>*(shid-daw-fone')*</small>; from **<big>[[H7710|‎שָׁדַף‎]]</big>**</small>
 
 $\quad$ blasted(-ing).
 - ***blight***
@@ -9,4 +9,4 @@ n f
 n m
 **2)** blight (of crops)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδιαφθορία</span><sup><small>[[G0090]]</small></sup> · <span class="asgreek">ἀπορία</span><sup><small>[[G0640]]</small></sup> · <span class="asgreek">πύρωσις</span><sup><small>[[G4451]]</small></sup>
+<small>See Greek: </small>**<big>[[G0090|ἀδιαφθορία]]</big>** · **<big>[[G0640|ἀπορία]]</big>** · **<big>[[G4451|πύρωσις]]</big>**

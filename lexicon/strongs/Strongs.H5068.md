@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָדַב‎</span></big> **nâdab** <small>*(naw-dab')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָדַב‎</span></big>** **nâdab** <small>*(naw-dab')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ offer freely, be (give, make, offer self) willing(-ly).
@@ -11,4 +11,4 @@ $\quad$ **1b)** (Hithpael)
 $\quad$ $\quad$ **1b1)** to volunteer
 $\quad$ $\quad$ **1b2)** to offer free-will offerings
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δοκέω</span><sup><small>[[G1380]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">ἑκούσιον</span><sup><small>[[G1595]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup>
+<small>See Greek: </small>**<big>[[G1380|δοκέω]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G1595|ἑκούσιον]]</big>** · **<big>[[G5342|φέρω]]</big>**

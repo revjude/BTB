@@ -4,9 +4,9 @@ Levite living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ichabod</span> was the son of Phinehas, born when the ark of God was captured by the Philistines and named to reflect the departure of glory from Israel.
 - A man living at the time of United Monarchy, first mentioned at [[1Sam.4.21|1Sa.4.21]]; 
-- only referred to as Ichabod<[[H0350]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ד</span>\); 
--  son of Phinehas<[[H6372H]]>; 
-- a brother of Ahitub<[[H0285G]]>.
+- only referred to as Ichabod **<big>[[H0350|אִי־כָבוֹד]]</big>**; 
+-  son of Phinehas **<big>[[H6372|פִּינְחָס]]</big>**; 
+- a brother of Ahitub **<big>[[H0285|אֲחִיטוּב]]</big>**.
 
 Ichabod is mentioned in [[1Sam.4.21|1 Samuel 4:21]] and 14:3 as the son of Phinehas and the grandson of Eli, the high priest of Israel. His birth is recorded in the context of a tragic event in Israel's history. 
 
@@ -20,8 +20,8 @@ The story of Ichabod's birth highlights the importance of the ark of the covenan
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ichabod | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H0350) <small>*Hebrew*</small> | 2x | [[1Sa.4.21] & [1Sa.14.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ichabod\*\|reference=1Sa.4.21;1Sa.14.3) |
-All Strong's for **Ichabod**: \[[[H0350]]\]
+| Ichabod | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H0350) | 2x | [[1Sa.4.21] & [1Sa.14.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ichabod\*\|reference=1Sa.4.21;1Sa.14.3) |
+All entries for **Ichabod**:  **<big>[[H0350|אִי־כָבוֹד]]</big>**
 #### Related Profiles:
 - **[Phinehas](H6372H)** (father)
 - **[Ahitub](H0285G)** (sibling)

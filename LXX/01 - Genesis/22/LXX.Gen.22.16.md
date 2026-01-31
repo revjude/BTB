@@ -11,27 +11,27 @@ saying, “By Myself I have sworn, declares the LORD, that because you have done
 > $\quad$ referenced by: [[Luke.1.73|Luke 1:73]] ☩ [[Heb.6.13|Heb 6:13-14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτού</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| I swear by an oath, | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">είνεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this saying, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">εφείσω</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beloved | <big><span class="asgreek">αγαπητού</span></big> <sup><small><small>[[G0027]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| According to | **<big>[[G2596\|κατ΄]]</big>** |
+| myself | **<big>[[G1683\|εμαυτού]]</big>** |
+| I swear by an oath, | **<big>[[G3660\|ώμοσα]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| because | **<big>[[G3756\|ου]]</big>** **<big>[[G1752\|είνεκεν]]</big>** |
+| you did | **<big>[[G4160\|εποίησας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this saying, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| spare | **<big>[[G5339\|εφείσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| beloved | **<big>[[G0027\|αγαπητού]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| me. | **<big>[[G1473\|εμέ]]</big>** |
 [[Gen.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.15|<< Genesis 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.17|Genesis 22:17 >>]]</td></tr></table>
 
 

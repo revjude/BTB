@@ -7,29 +7,29 @@ Therefore they shall be as the morning cloud, and as the early dew that passeth 
 Therefore they will be like the morning mist, like the early dew that vanishes, like chaff blown from a threshing floor, like smoke through an open window.<small><sub>**MT:**</sub></small>
 [[Hos.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| an early morning | <big><span class="asgreek">πρωϊνή</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dew | <big><span class="asgreek">δρόσος</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| early morning | <big><span class="asgreek">ορθρινή</span></big> <sup><small><small>[[G3720]]</small></small></sup> |
-| going \[away\], | <big><span class="asgreek">πορευομένη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dust | <big><span class="asgreek">χνους</span></big> <sup><small><small>[[G9741]]</small></small></sup> |
-| being blown away | <big><span class="asgreek">αποφυσώμενος</span></big> <sup><small><small>[[G6512]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] threshing floor, | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a vapor | <big><span class="asgreek">ατμίς</span></big> <sup><small><small>[[G0822]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| tears. | <big><span class="asgreek">δακρύων</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| an early morning | **<big>[[G4407\|πρωϊνή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dew | **<big>[[G6970\|δρόσος]]</big>** |
+| early morning | **<big>[[G3720\|ορθρινή]]</big>** |
+| going \[away\], | **<big>[[G4198\|πορευομένη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dust | **<big>[[G9741\|χνους]]</big>** |
+| being blown away | **<big>[[G6512\|αποφυσώμενος]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] threshing floor, | **<big>[[G0257\|άλωνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a vapor | **<big>[[G0822\|ατμίς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| tears. | **<big>[[G1144\|δακρύων]]</big>** |
 [[Hos.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
 
 

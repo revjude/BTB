@@ -7,26 +7,26 @@ Build you cities for your little ones, and folds for your sheep; and do that whi
 Build cities for your little ones and folds for your flocks, but do what you have promised.”<small><sub>**MT:**</sub></small>
 [[Num.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.23|<< Numbers 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.25|Numbers 32:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[thus\] you shall build | <big><span class="asgreek">οικοδομήσετε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your belongings, | <big><span class="asgreek">αποσκευή</span></big> <sup><small><small>[[G6478]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| properties | <big><span class="asgreek">επαύλεις</span></big> <sup><small><small>[[G1886]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your cattle; | <big><span class="asgreek">κτήνεσιν</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall do. | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[thus\] you shall build | **<big>[[G3618\|οικοδομήσετε]]</big>** |
+| to yourselves | **<big>[[G1473\|υμίν]]</big>** |
+| for them | **<big>[[G1473\|αυτοίς]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| for your belongings, | **<big>[[G6478\|αποσκευή]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| properties | **<big>[[G1886\|επαύλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| for your cattle; | **<big>[[G2934\|κτήνεσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you shall do. | **<big>[[G4160\|ποιήσετε]]</big>** |
 [[Num.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.23|<< Numbers 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.25|Numbers 32:25 >>]]</td></tr></table>
 
 

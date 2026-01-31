@@ -7,23 +7,23 @@ Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] sa
 before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us.<small><sub>**MT:**</sub></small>
 [[Ps.80.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.1|<< Psalm 80:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.3|Psalm 80:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| awaken | <big><span class="asgreek">εξέγειρον</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your might, | <big><span class="asgreek">δυναστείαν</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come | <big><span class="asgreek">ελθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| delivering | <big><span class="asgreek">σώσαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Before | **<big>[[G1726\|εναντίον]]</big>** |
+| Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| awaken | **<big>[[G1825\|εξέγειρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your might, | **<big>[[G6973\|δυναστείαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| come | **<big>[[G2064\|ελθέ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| delivering | **<big>[[G4982\|σώσαι]]</big>** |
+| us! | **<big>[[G1473\|ημάς]]</big>** |
 [[Ps.80.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.1|<< Psalm 80:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.3|Psalm 80:3 >>]]</td></tr></table>
 
 

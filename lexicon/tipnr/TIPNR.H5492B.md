@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Suphah</span>, a place mentioned in the Book of the Wars of the Lord \(Num. 21:14\).
 - A location only mentioned at [[Num.21.14|Num.21.14]]; 
-- only referred to as Suphah<[[H5492B]]> \(<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Suphah **<big>[[H5492|סוּפָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=27.088473,34.771729&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Suphah is mentioned only once in the Bible, in [[Num.21.14|Numbers 21:14]], as p
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Suphah | [<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5492B) <small>*Hebrew*</small> | 1x | [Num.21.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Suphah\*\|reference=Num.21.14) |
-All Strong's for **Suphah**: \[[[H5492B]]\]
+| Suphah | [<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5492B) | 1x | [Num.21.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Suphah\*\|reference=Num.21.14) |
+All entries for **Suphah**:  **<big>[[H5492|סוּפָה]]</big>**

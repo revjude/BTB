@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אַשְׁכְּנַז‎</span> <small>***(ash.ke.naz)***</small> ==**Ashkenaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the Gomerians living at the time of the Patriarchs, first mentioned at [[Gen.10.3|Gen.10.3]]
--  son of: Gomer ([[H1586]])
--  brother of: Riphath ([[H7384A]]) and Togarmah ([[H8425]])
+-  son of: Gomer (**<big>[[H1586|גֹּמֶר]]</big>**)
+-  brother of: Riphath (**<big>[[H7384A|רִיפַת]]</big>**) and Togarmah (**<big>[[H8425|תּוֹגַרְמָה]]</big>**)

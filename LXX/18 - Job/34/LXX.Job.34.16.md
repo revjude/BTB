@@ -7,15 +7,15 @@ If now [thou hast] understanding, hear this: hearken to the voice of my words.
 If you have understanding, hear this; listen to my words.<small><sub>**MT:**</sub></small>
 [[Job.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.15|<< Job 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.17|Job 34:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should not admonish, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">νουθετή</span></big> <sup><small><small>[[G3560]]</small></small></sup> |
-| \[then\] hear | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| these \[things\]! | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Give ear | <big><span class="asgreek">ενωτίζου</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
-| to \[the\] sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of words! | <big><span class="asgreek">ρημάτων</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| But if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should not admonish, | **<big>[[G3361\|μη]]</big>** **<big>[[G3560\|νουθετή]]</big>** |
+| \[then\] hear | **<big>[[G0191\|άκουε]]</big>** |
+| these \[things\]! | **<big>[[G3778\|ταύτα]]</big>** |
+| Give ear | **<big>[[G1801\|ενωτίζου]]</big>** |
+| to \[the\] sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of words! | **<big>[[G4487\|ρημάτων]]</big>** |
 [[Job.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.15|<< Job 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.17|Job 34:17 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ If grapegatherers come to thee, would they not leave [some] gleaning grapes? if 
 If grape gatherers came to you, would they not leave some gleanings? Were thieves to come in the night, would they not steal only what they wanted?<small><sub>**MT:**</sub></small>
 [[Jer.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.8|<< Jeremiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.10|Jeremiah 49:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| grape gatherers | <big><span class="asgreek">τρυγηταί</span></big> <sup><small><small>[[G9505]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθόν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to you -- | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| who shall not leave behind | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">καταλείψουσί</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vestiges. | <big><span class="asgreek">καταλείμματα</span></big> <sup><small><small>[[G2640]]</small></small></sup> |
-| As | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| thieves | <big><span class="asgreek">κλέπται</span></big> <sup><small><small>[[G2812]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] night | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">επιθήσουσι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| their hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| grape gatherers | **<big>[[G9505\|τρυγηταί]]</big>** |
+| came | **<big>[[G2064\|ήλθόν]]</big>** |
+| to you -- | **<big>[[G1473\|σοι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| who shall not leave behind | **<big>[[G3756\|ου]]</big>** **<big>[[G2641\|καταλείψουσί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| vestiges. | **<big>[[G2640\|καταλείμματα]]</big>** |
+| As | **<big>[[G5616\|ωσεί]]</big>** |
+| thieves | **<big>[[G2812\|κλέπται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] night | **<big>[[G3571\|νυκτί]]</big>** |
+| they shall put | **<big>[[G2007\|επιθήσουσι]]</big>** |
+| their hands. | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.8|<< Jeremiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.10|Jeremiah 49:10 >>]]</td></tr></table>
 
 

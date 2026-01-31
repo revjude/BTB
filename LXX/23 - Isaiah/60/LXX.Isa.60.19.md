@@ -11,34 +11,34 @@ No longer will the sun be your light by day, nor the brightness of the moon shin
 > $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[the\] rising | <big><span class="asgreek">ανατολή</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνης</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| shall give light | <big><span class="asgreek">φωτιεί</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of your glory. | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] light | **<big>[[G5457\|φως]]</big>** |
+| of day, | **<big>[[G2250\|ημέρας]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[the\] rising | **<big>[[G0395\|ανατολή]]</big>** |
+| moon | **<big>[[G4582\|σελήνης]]</big>** |
+| shall give light | **<big>[[G5461\|φωτιεί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| at night. | **<big>[[G3571\|νύκτα]]</big>** |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of your glory. | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.60.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.18|<< Isaiah 60:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.20|Isaiah 60:20 >>]]</td></tr></table>
 
 

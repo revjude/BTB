@@ -1,3 +1,1 @@
-<span class="ashebrew">‎עָזַב‎</span> <small>***(a.zav)***</small> ==**to leave: release**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H5800A]]</small> 
-
+<small>meaning of:</small> <small>**<big>[[H5800A|עָזַב]]</big>**</small>

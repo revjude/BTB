@@ -7,30 +7,30 @@ And shall say unto them, Hear, O Israel, ye approach this day unto battle agains
 saying to them, “Hear, O Israel, today you are going into battle with your enemies. Do not be fainthearted or afraid; do not be alarmed or terrified because of them.<small><sub>**MT:**</sub></small>
 [[Deut.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.2|<< Deuteronomy 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.4|Deuteronomy 20:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| O Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies; | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| loosen | <big><span class="asgreek">εκλυέσθω</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart; | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| be devastated, | <big><span class="asgreek">θραύεσθε</span></big> <sup><small><small>[[G2352]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλίνετε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face! | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hear, | **<big>[[G0191\|άκουε]]</big>** |
+| O Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your enemies; | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| loosen | **<big>[[G1590\|εκλυέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your heart; | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβείσθε]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| be devastated, | **<big>[[G2352\|θραύεσθε]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλίνετε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their face! | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.2|<< Deuteronomy 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.4|Deuteronomy 20:4 >>]]</td></tr></table>
 
 

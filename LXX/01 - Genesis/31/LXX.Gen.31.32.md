@@ -7,44 +7,44 @@ With whomsoever thou findest thy gods, let him not live: before our brethren dis
 If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the idols.<small><sub>**MT:**</sub></small>
 [[Gen.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.31|<< Genesis 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.33|Genesis 31:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιακωβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| By | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| whomsoever | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should find | <big><span class="asgreek">εύρης</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not live | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our brethren. | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Recognize | <big><span class="asgreek">επίγνωθι</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of yours, | <big><span class="asgreek">σων</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take \[them\]! | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| recognize | <big><span class="asgreek">επέγνω</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| among | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[what was\] his -- | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not one \[thing\]. | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stole | <big><span class="asgreek">έκλεψεν</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jacob said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2384\|Ιακωβ]]</big>** |
+| By | **<big>[[G3844\|παρ΄]]</big>** |
+| whomsoever | **<big>[[G3739\|ω]]</big>** **<big>[[G0302\|αν]]</big>** |
+| you should find | **<big>[[G2147\|εύρης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your gods, | **<big>[[G2316\|θεούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| he shall not live | **<big>[[G3756\|ου]]</big>** **<big>[[G2198\|ζήσεται]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| our brethren. | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| Recognize | **<big>[[G1921\|επίγνωθι]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| of the \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| of yours, | **<big>[[G4674\|σων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take \[them\]! | **<big>[[G2983\|λάβε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| recognize | **<big>[[G1921\|επέγνω]]</big>** |
+| among | **<big>[[G3844\|παρ΄]]</big>** |
+| \[what was\] his -- | **<big>[[G1473\|αυτώ]]</big>** |
+| not one \[thing\]. | **<big>[[G3762\|ουδέν]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδει]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| stole | **<big>[[G2813\|έκλεψεν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Gen.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.31|<< Genesis 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.33|Genesis 31:33 >>]]</td></tr></table>
 
 

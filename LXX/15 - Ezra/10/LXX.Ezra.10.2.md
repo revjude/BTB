@@ -7,41 +7,41 @@ And Shechaniah the son of Jehiel, [one] of the sons of Elam, answered and said u
 Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel.<small><sub>**MT:**</sub></small>
 [[Ezra.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.1|<< Ezra 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.3|Ezra 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered one | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| Shechaniah | <big><span class="asgreek">Σεχενίας</span></big> <sup><small><small>[[H7935]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehiel, | <big><span class="asgreek">Ιεϊήλ</span></big> <sup><small><small>[[H3273]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Elam, | <big><span class="asgreek">Ηλάμ</span></big> <sup><small><small>[[H0198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Ezra, | <big><span class="asgreek">Έσδρα</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| We | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| broke contract | <big><span class="asgreek">ησυνθετήσαμεν</span></big> <sup><small><small>[[G6581]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| settled with | <big><span class="asgreek">εκαθίσαμεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλοτρίας</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this \[thing\]. | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered one | **<big>[[G0611\|απεκρίθη]]</big>** |
+| Shechaniah | **<big>[[H7935\|Σεχενίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehiel, | **<big>[[H3273\|Ιεϊήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Elam, | **<big>[[H0198\|Ηλάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Ezra, | **<big>[[H5831\|Έσδρα]]</big>** |
+| We | **<big>[[G1473\|ημείς]]</big>** |
+| broke contract | **<big>[[G6581\|ησυνθετήσαμεν]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| settled with | **<big>[[G2523\|εκαθίσαμεν]]</big>** |
+| wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| alien | **<big>[[G0245\|αλλοτρίας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| peoples | **<big>[[G2992\|λαών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| there is | **<big>[[G1510\|εστιν]]</big>** |
+| hope | **<big>[[G1680\|ελπίς]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| this \[thing\]. | **<big>[[G3778\|τούτω]]</big>** |
 [[Ezra.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.1|<< Ezra 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.3|Ezra 10:3 >>]]</td></tr></table>
 
 

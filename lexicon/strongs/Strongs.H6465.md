@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎פְּעוֹר‎</span></big> **Pᵉʻôwr** <small>*(peh-ore')*</small> ==**Peor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּעַר‎</span><sup><small>[[H6473]]</small></sup>; a gap; also <span class="ashebrew">‎בַּעַל פְּעוֹר‎</span><sup><small>[[H1187]]</small></sup>)</small>
+**<big><span class="ashebrew">‎פְּעוֹר‎</span></big>** **Pᵉʻôwr** <small>*(peh-ore')*</small> ==**Peor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6473|‎פָּעַר‎]]</big>**; a gap; also **<big>[[H1187|‎בַּעַל פְּעוֹר‎]]</big>**)</small>
 
-$\quad$ Peor. See also <span class="ashebrew">‎בֵּית פְּעוֹר‎</span><sup><small>[[H1047]]</small></sup>.
+$\quad$ Peor. See also **<big>[[H1047|‎בֵּית פְּעוֹר‎]]</big>**.
 - § Peor = *"cleft"*
 - ***Peor***, a mountain East of Jordan
 -  Baal Peor, (for a deity worshipped there

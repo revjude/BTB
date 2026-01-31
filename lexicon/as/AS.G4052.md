@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">περισσεύω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περισσός</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.1Sam.2.33|I Ki 2:33]] (<span class="ashebrew">מַרְבִּית</span> <small><sup>[[H4768]]</sup></small>), [[LXX.1Sam.2.36|I Ki 2:36]], [[LXX.Eccl.3.19|Ec 3:19]] (<span class="ashebrew">יתר</span> <small><sup>[[H3498]]</sup></small> ni., <span class="ashebrew">יוׄתֵר</span> <small><sup>[[H3148]]</sup></small>), [[Tob.4.16|To 4:16]], [[Sir.10.27|Si 10:27]] [[Sir.11.12|11:12]] [[Sir.19.24|19:24]], [[Sir.30.38|30:38]] ([[Sir.33.29|33:29]]), [[1Macc.3.30|I Mac 3:30]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">περισσεύω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περισσός</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.1Sam.2.33|I Ki 2:33]] (**<big>[[H4768|מַרְבִּית]]</big>**), [[LXX.1Sam.2.36|I Ki 2:36]], [[LXX.Eccl.3.19|Ec 3:19]] (**<big>[[H3498|יתר]]</big>** ni., **<big>[[H3148|יוׄתֵר]]</big>**), [[Tob.4.16|To 4:16]], [[Sir.10.27|Si 10:27]] [[Sir.11.12|11:12]] [[Sir.19.24|19:24]], [[Sir.30.38|30:38]] ([[Sir.33.29|33:29]]), [[1Macc.3.30|I Mac 3:30]]\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">I.</span> Prop., intrans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> of things, <span class="asitalic">to be over and above</span> the number (Hes.), hence,</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to be</span> or <span class="asitalic">remain over</span>: [[Matt.14.20|Mt 14:20]] [[Matt.15.37|15:37]], [[Luke.9.17|Lk 9:17]], [[John.6.12|Jo 6:12]], [[John.6.13|13]];</span>
@@ -9,7 +9,7 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span clas
 <span class="asbullet"><span class="asbold">II.</span> In late writers (Lft., <span class="asitalic">Notes</span>, 48 f.), trans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to make to abound</span>: c. acc. seq. <span class="asgreek">εἰς</span>, [[2Cor.4.15|II Co 4:15]] [[2Cor.9.8|9:8]], [[Eph.1.8|Eph 1:8]]; pass., [[Matt.13.12|Mt 13:12]] [[Matt.25.29|25:29]]; c. gen. rei, [[Luke.15.17|Lk 15:17]], WH;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to make to excel</span>: c. acc. pers., dat. rei, [[1Thess.3.12|I Th 3:12]] (cf. <span class="asgreek">ὑπερ-περισσεύω</span>).†</span>
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asgreek">πλεονάζω</span> <small><sup>[[G4121]]</sup></small>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G4121|πλεονάζω]]</big>**. </span>
 
 **Abbott-Smith References**
 

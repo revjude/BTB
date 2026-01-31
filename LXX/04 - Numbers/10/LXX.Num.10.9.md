@@ -7,36 +7,36 @@ And if ye go to war in your land against the enemy that oppresseth you, then ye 
 When you enter into battle in your land against an adversary who attacks you, sound short blasts on the trumpets, and you will be remembered before the LORD your God and saved from your enemies.<small><sub>**MT:**</sub></small>
 [[Num.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.8|<< Numbers 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.10|Numbers 10:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should go forth | <big><span class="asgreek">εξέλθητε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opponents | <big><span class="asgreek">υπεναντίους</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opposing | <big><span class="asgreek">ανθεστηκότας</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall signify | <big><span class="asgreek">σημανείτε</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| with the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets; | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be called to mind | <big><span class="asgreek">αναμνησθήσεσθε</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be preserved | <big><span class="asgreek">διασωθήσεσθε</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies. | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should go forth | **<big>[[G1831\|εξέλθητε]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your land | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| opponents | **<big>[[G5227\|υπεναντίους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| opposing | **<big>[[G0436\|ανθεστηκότας]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall signify | **<big>[[G4591\|σημανείτε]]</big>** |
+| with the | **<big>[[G3588\|ταις]]</big>** |
+| trumpets; | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will be called to mind | **<big>[[G0363\|αναμνησθήσεσθε]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be preserved | **<big>[[G1295\|διασωθήσεσθε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your enemies. | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Num.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.8|<< Numbers 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.10|Numbers 10:10 >>]]</td></tr></table>
 
 

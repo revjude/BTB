@@ -7,25 +7,25 @@ Because thou hast forgotten the God of thy salvation, and hast not been mindful 
 For you have forgotten the God of your salvation and failed to remember the Rock of your refuge. Therefore, though you cultivate delightful plots and set out cuttings from exotic vines—<small><sub>**MT:**</sub></small>
 [[Isa.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.9|<< Isaiah 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.11|Isaiah 17:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you forsook | <big><span class="asgreek">κατελίπες</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverer, | <big><span class="asgreek">σωτήρά</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you remembered not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εμνήσθης</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall plant | <big><span class="asgreek">φυτεύσεις</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| plant | <big><span class="asgreek">φύτευμα</span></big> <sup><small><small>[[G9686]]</small></small></sup> |
-| an untrustworthy | <big><span class="asgreek">άπιστον</span></big> <sup><small><small>[[G0571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| an untrustworthy | <big><span class="asgreek">άπιστον</span></big> <sup><small><small>[[G0571]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| you forsook | **<big>[[G2641\|κατελίπες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your deliverer, | **<big>[[G4990\|σωτήρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| your God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you remembered not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3403\|εμνήσθης]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| you shall plant | **<big>[[G5452\|φυτεύσεις]]</big>** |
+| plant | **<big>[[G9686\|φύτευμα]]</big>** |
+| an untrustworthy | **<big>[[G0571\|άπιστον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| an untrustworthy | **<big>[[G0571\|άπιστον]]</big>** |
 [[Isa.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.9|<< Isaiah 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.11|Isaiah 17:11 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּתְרוֹס‎</span></big> **Pathrôwç** <small>*(path-roce')*</small> ==**Pathros**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פַּתְרוֹס‎</span></big>** **Pathrôwç** <small>*(path-roce')*</small> ==**Pathros**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Pathros.

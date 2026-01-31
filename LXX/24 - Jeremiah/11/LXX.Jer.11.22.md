@@ -7,32 +7,32 @@ Therefore thus saith the LORD of hosts, Behold, I will punish them: the young me
 So this is what the LORD of Hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.<small><sub>**MT:**</sub></small>
 [[Jer.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.21|<< Jeremiah 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.23|Jeremiah 11:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will make a visit | <big><span class="asgreek">επισκέψομαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their young men | <big><span class="asgreek">νεανίσκοι</span></big> <sup><small><small>[[G3495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sword | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come to an end | <big><span class="asgreek">τελευτήσουσιν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| famine. | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will make a visit | **<big>[[G1980\|επισκέψομαι]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Their young men | **<big>[[G3495\|νεανίσκοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sword | **<big>[[G3162\|μαχαίρα]]</big>** |
+| shall die | **<big>[[G0599\|αποθανούνται]]</big>** |
+| their sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall come to an end | **<big>[[G5053\|τελευτήσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| famine. | **<big>[[G3042\|λιμώ]]</big>** |
 [[Jer.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.21|<< Jeremiah 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.23|Jeremiah 11:23 >>]]</td></tr></table>
 
 

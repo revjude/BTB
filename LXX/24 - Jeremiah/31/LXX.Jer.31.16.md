@@ -7,34 +7,34 @@ Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: 
 This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy.<small><sub>**MT:**</sub></small>
 [[Jer.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.15|<< Jeremiah 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.17|Jeremiah 31:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Stop | <big><span class="asgreek">διαλειπέτω</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| weeping, | <big><span class="asgreek">κλαυθμού</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| tears, | <big><span class="asgreek">δακρύων</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your | <big><span class="asgreek">σοις</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| works, | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall return | <big><span class="asgreek">επιστρέψουσιν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] enemies; | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Stop | **<big>[[G1257\|διαλειπέτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| weeping, | **<big>[[G2805\|κλαυθμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| tears, | **<big>[[G1144\|δακρύων]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| a wage | **<big>[[G3408\|μισθός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| for your | **<big>[[G4674\|σοις]]</big>** |
+| works, | **<big>[[G2041\|έργοις]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall return | **<big>[[G1994\|επιστρέψουσιν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of \[the\] enemies; | **<big>[[G2190\|εχθρών]]</big>** |
 [[Jer.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.15|<< Jeremiah 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.17|Jeremiah 31:17 >>]]</td></tr></table>
 
 

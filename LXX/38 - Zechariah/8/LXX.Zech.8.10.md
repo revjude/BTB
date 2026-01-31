@@ -7,47 +7,47 @@ For before these days there was no hire for man, nor any hire for beast; neither
 For before those days neither man nor beast received wages, nor was there safety from the enemy for anyone who came or went, for I had turned every man against his neighbor.<small><sub>**MT:**</sub></small>
 [[Zech.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.9|<< Zechariah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.11|Zechariah 8:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| profitability, | <big><span class="asgreek">όνησιν</span></big> <sup><small><small>[[G8518]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exist. | <big><span class="asgreek">υπάρξει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευομένω</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπορευομένω</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| there will be no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| affliction. | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall send out | <big><span class="asgreek">εξαποστελώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| those days | **<big>[[G2250\|ημερών]]</big>** **<big>[[G1565\|εκείνων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| wage | **<big>[[G3408\|μισθός]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| profitability, | **<big>[[G8518\|όνησιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| wage | **<big>[[G3408\|μισθός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cattle | **<big>[[G2934\|κτηνών]]</big>** |
+| does not | **<big>[[G3756\|ουχ]]</big>** |
+| exist. | **<big>[[G5225\|υπάρξει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευομένω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| entering | **<big>[[G1531\|εισπορευομένω]]</big>** |
+| there will be no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| because of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| affliction. | **<big>[[G2347\|θλίψεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall send out | **<big>[[G1821\|εξαποστελώ]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπους]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his neighbor. | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Zech.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.9|<< Zechariah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.11|Zechariah 8:11 >>]]</td></tr></table>
 
 

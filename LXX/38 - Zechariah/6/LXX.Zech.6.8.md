@@ -7,27 +7,27 @@ Then cried he upon me, and spake unto me, saying, Behold, these that go toward t
 Then the LORD summoned me and said, “Behold, those going to the land of the north have given rest to My Spirit in the land of the north.”<small><sub>**MT:**</sub></small>
 [[Zech.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.7|<< Zechariah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.9|Zechariah 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he yelled out | <big><span class="asgreek">ανεβόησε</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενοι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] north | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| caused rest | <big><span class="asgreek">ανέπαυσαν</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] north. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he yelled out | **<big>[[G0310\|ανεβόησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying | **<big>[[G3004\|λέγων]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενοι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] north | **<big>[[G1005\|βορρά]]</big>** |
+| caused rest | **<big>[[G0373\|ανέπαυσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for my rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of \[the\] north. | **<big>[[G1005\|βορρά]]</big>** |
 [[Zech.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.7|<< Zechariah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.9|Zechariah 6:9 >>]]</td></tr></table>
 
 

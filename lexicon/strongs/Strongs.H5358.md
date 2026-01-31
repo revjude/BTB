@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָקַם‎</span></big> **nâqam** <small>*(naw-kam')*</small> ==**to avenge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָקַם‎</span></big>** **nâqam** <small>*(naw-kam')*</small> ==**to avenge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ avenge(-r, self), punish, revenge (self), [idiom] surely, take vengeance.
@@ -15,4 +15,4 @@ $\quad$ **1c)** (Piel) to avenge
 $\quad$ **1d)** (Hophal) to be avenged, vengeance be taken (for blood)
 $\quad$ **1e)** (Hithpael) to avenge oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμύνομαι</span><sup><small>[[G0292]]</small></sup> · <span class="asgreek">ἀνταποδίδωμι</span><sup><small>[[G0467]]</small></sup> · <span class="asgreek">ἀνταπόδοσις</span><sup><small>[[G0469]]</small></sup> · <span class="asgreek">ἐκδικέω</span><sup><small>[[G1556]]</small></sup> · <span class="asgreek">ἐκδιώκω</span><sup><small>[[G1559]]</small></sup> · <span class="asgreek">ἐξανίστημι</span><sup><small>[[G1817]]</small></sup> · <span class="asgreek">κρίσις</span><sup><small>[[G2920]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup>
+<small>See Greek: </small>**<big>[[G0292|ἀμύνομαι]]</big>** · **<big>[[G0467|ἀνταποδίδωμι]]</big>** · **<big>[[G0469|ἀνταπόδοσις]]</big>** · **<big>[[G1556|ἐκδικέω]]</big>** · **<big>[[G1559|ἐκδιώκω]]</big>** · **<big>[[G1817|ἐξανίστημι]]</big>** · **<big>[[G2920|κρίσις]]</big>** · **<big>[[G3886|παραλύω]]</big>**

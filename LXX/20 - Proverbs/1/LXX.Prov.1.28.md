@@ -7,22 +7,22 @@ Then shall they call upon me, but I will not answer; they shall seek me early, b
 Then they will call on me, but I will not answer; they will earnestly seek me, but will not find me.<small><sub>**MT:**</sub></small>
 [[Prov.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.27|<< Proverbs 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.29|Proverbs 1:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should call upon | <big><span class="asgreek">επικαλέσησθέ</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισακούσομαι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall seek | <big><span class="asgreek">ζητήσουσί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Evil men | <big><span class="asgreek">κακοί</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find \[me\]; | <big><span class="asgreek">ευρήσουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| that it will be | **<big>[[G1510\|έσται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should call upon | **<big>[[G1941\|επικαλέσησθέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| even I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| listen to | **<big>[[G1522\|εισακούσομαι]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
+| shall seek | **<big>[[G2212\|ζητήσουσί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| Evil men | **<big>[[G2556\|κακοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will not | **<big>[[G3756\|ουχ]]</big>** |
+| find \[me\]; | **<big>[[G2147\|ευρήσουσιν]]</big>** |
 [[Prov.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.27|<< Proverbs 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.29|Proverbs 1:29 >>]]</td></tr></table>
 
 

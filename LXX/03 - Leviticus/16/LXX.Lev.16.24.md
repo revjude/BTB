@@ -7,46 +7,46 @@ And he shall wash his flesh with water in the holy place, and put on his garment
 He is to bathe himself with water in a holy place and put on his own clothes. Then he must go out and sacrifice his burnt offering and the people’s burnt offering to make atonement for himself and for the people.<small><sub>**MT:**</sub></small>
 [[Lev.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.23|<< Leviticus 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.25|Leviticus 16:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall bathe | <big><span class="asgreek">λούσεται</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \[the\] holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall put on | <big><span class="asgreek">ενδύσεται</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his apparel, | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξελθών</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| shall offer | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people; | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| himself, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οικου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests. | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall bathe | **<big>[[G3068\|λούσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his body | **<big>[[G4983\|σώμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in water | **<big>[[G5204\|ύδατι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| \[the\] holy | **<big>[[G0039\|αγίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall put on | **<big>[[G1746\|ενδύσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his apparel, | **<big>[[G4749\|στολήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| coming forth | **<big>[[G1831\|εξελθών]]</big>** |
+| shall offer | **<big>[[G4160\|ποιήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| whole offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people; | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| himself, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his house, | **<big>[[G3624\|οικου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| priests. | **<big>[[G2409\|ιερέων]]</big>** |
 [[Lev.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.23|<< Leviticus 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.25|Leviticus 16:25 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ From the wicked that oppress me, [from] my deadly enemies, [who] compass me abou
 from the wicked who assail me, from my mortal enemies who surround me.<small><sub>**MT:**</sub></small>
 [[Ps.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.8|<< Psalm 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.10|Psalm 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[even\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones causing misery | <big><span class="asgreek">ταλαιπωρησάντων</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
-| for me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| compass | <big><span class="asgreek">περιέσχον</span></big> <sup><small><small>[[G4023]]</small></small></sup> |
+| \[even\] from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| ones causing misery | **<big>[[G5003\|ταλαιπωρησάντων]]</big>** |
+| for me. | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| compass | **<big>[[G4023\|περιέσχον]]</big>** |
 [[Ps.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.8|<< Psalm 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.10|Psalm 17:10 >>]]</td></tr></table>
 
 

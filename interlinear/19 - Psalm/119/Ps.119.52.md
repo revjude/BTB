@@ -6,13 +6,13 @@ I remember Your judgments of old, O LORD, and in them I find comfort.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.51|<< Psalms 119:51]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.53|Psalms 119:53 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I remember  | <span class="ashebrew"><big>זָ֘כַ֤רְתִּי </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| za.Khar.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgments your  | <span class="ashebrew"><big>מִשְׁפָּטֶ֖י </big></span><small><small><sup>[[H4941G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| mish.pa.Tei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from long ago  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֥ם </big></span><small><small><sup>[[H5769J]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I have comforted myself  | <span class="ashebrew"><big>וָֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֶתְנֶחָֽם </big></span><small><small><sup>[[H5162G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Va. <small><sup>[[Hc]]</sup></small> 'et.ne.Cham <small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I remember  |**<big>&#8207;[[H2142\|זָ֘כַ֤רְתִּי]]&#8207; </big>**| za.Khar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments your  |**<big>&#8207;[[H4941G\|מִשְׁפָּטֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mish.pa.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from long ago  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5769J\|עוֹלָ֥ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have comforted myself  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H5162G\|אֶתְנֶחָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> 'et.ne.Cham<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.51|<< Psalms 119:51]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.53|Psalms 119:53 >>]]</td></tr></table>
 
 

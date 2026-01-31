@@ -11,32 +11,32 @@ Therefore I will again confound these people with wonder upon wonder. The wisdom
 > $\quad$ referenced by: [[1Cor.1.19|1Cor 1:19]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall proceed | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to transpose | <big><span class="asgreek">μεταθείναι</span></big> <sup><small><small>[[G3346]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people; | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will transpose | <big><span class="asgreek">μεταθήσω</span></big> <sup><small><small>[[G3346]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise; | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| discerning | <big><span class="asgreek">συνετών</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| I will hide | <big><span class="asgreek">κρύψω</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall proceed | **<big>[[G4369\|προσθήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to transpose | **<big>[[G3346\|μεταθείναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people; | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will transpose | **<big>[[G3346\|μεταθήσω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wise; | **<big>[[G4680\|σοφών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| understanding | **<big>[[G4907\|σύνεσιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| discerning | **<big>[[G4908\|συνετών]]</big>** |
+| I will hide | **<big>[[G2928\|κρύψω]]</big>** |
 [[Isa.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.13|<< Isaiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.15|Isaiah 29:15 >>]]</td></tr></table>
 
 

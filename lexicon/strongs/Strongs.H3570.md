@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כּוּשִׁי‎</span></big> **Kûwshîy** <small>*(koo-shee')*</small> ==**Cushi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎כּוּשִׁי‎</span><sup><small>[[H3569]]</small></sup></small>
+**<big><span class="ashebrew">‎כּוּשִׁי‎</span></big>** **Kûwshîy** <small>*(koo-shee')*</small> ==**Cushi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3569|‎כּוּשִׁי‎]]</big>**</small>
 
 $\quad$ Cushi.
 - § Cushi = *"their blackness"*

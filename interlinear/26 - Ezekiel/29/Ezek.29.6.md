@@ -6,21 +6,21 @@ Then all the people of Egypt will know that I am the LORD. For you were only a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they will know  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָֽדְעוּ֙ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.de.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֣י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.she.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֖י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because  | <span class="ashebrew"><big>יַ֧עַן </big></span><small><small><sup>[[H3282]]</sup></small></small> &#8207;| Ya.'an <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have been they  | <span class="ashebrew"><big>הֱיוֹתָ֛ </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9048]]</sup></small></small> &#8207;| he.yo.Ta <small><sup>[[HVqcc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a staff of  | <span class="ashebrew"><big>מִשְׁעֶ֥נֶת </big></span><small><small><sup>[[H4938B]]</sup></small></small> &#8207;| mish.'E.net <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| reed  | <span class="ashebrew"><big>קָנֶ֖ה </big></span><small><small><sup>[[H7070H]]</sup></small></small> &#8207;| ka.Neh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] house of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָֽדְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H3282\|יַ֧עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have been they  |**<big>&#8207;[[H1961\|הֱיוֹתָ֛]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| he.yo.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a staff of  |**<big>&#8207;[[H4938B\|מִשְׁעֶ֥נֶת]]&#8207; </big>**| mish.'E.net<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reed  |**<big>&#8207;[[H7070H\|קָנֶ֖ה]]&#8207; </big>**| ka.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵ֥ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
 

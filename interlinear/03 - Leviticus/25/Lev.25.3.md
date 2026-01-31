@@ -6,19 +6,19 @@ For six years you may sow your field and prune your vineyard and gather its crop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| six  | <span class="ashebrew"><big>שֵׁ֤שׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| shesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִים֙ </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will sow  | <span class="ashebrew"><big>תִּזְרַ֣ע </big></span><small><small><sup>[[H2232]]</sup></small></small> &#8207;| tiz.Ra' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| field your  | <span class="ashebrew"><big>שָׂדֶ֔ </big></span><small><small><sup>[[H7704G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| sa.De. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and six  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֥שׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֖ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will prune  | <span class="ashebrew"><big>תִּזְמֹ֣ר </big></span><small><small><sup>[[H2168]]</sup></small></small> &#8207;| tiz.Mor <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vineyard your  | <span class="ashebrew"><big>כַּרְמֶ֑ </big></span><small><small><sup>[[H3754]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| kar.Me. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will gather  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָסַפְתָּ֖ </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.saf.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| produce its  | <span class="ashebrew"><big>תְּבוּאָתָֽ </big></span><small><small><sup>[[H8393]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.vu.'a.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁ֤שׁ]]&#8207; </big>**| shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִים֙]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will sow  |**<big>&#8207;[[H2232\|תִּזְרַ֣ע]]&#8207; </big>**| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| field your  |**<big>&#8207;[[H7704G\|שָׂדֶ֔]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| sa.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שֵׁ֥שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will prune  |**<big>&#8207;[[H2168\|תִּזְמֹ֣ר]]&#8207; </big>**| tiz.Mor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyard your  |**<big>&#8207;[[H3754\|כַּרְמֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| kar.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will gather  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0622\|אָסַפְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.saf.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce its  |**<big>&#8207;[[H8393\|תְּבוּאָתָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vu.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 
 

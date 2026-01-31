@@ -6,16 +6,16 @@ Surely I would carry it on my shoulder and wear it like a crown.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.35|<< Job 31:35]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.37|Job 31:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lo.Shi- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shoulder my  | <span class="ashebrew"><big>שִׁ֭כְמִ </big></span><small><small><sup>[[H7926]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| Shikh.m <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will carry it  | <span class="ashebrew"><big>אֶשָּׂאֶ֑ </big></span><small><small><sup>[[H5375H]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'es.sa.'E. <small><sup>[[HVqi1cs]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will tie on it  | <span class="ashebrew"><big>אֶֽעֶנְדֶ֖ </big></span><small><small><sup>[[H6029]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.'en.De. <small><sup>[[HVqi1cs]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a crown\<s>  | <span class="ashebrew"><big>עֲטָר֣וֹת </big></span><small><small><sup>[[H5850]]</sup></small></small> &#8207;| a.ta.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to myself  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lo.Shi-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shoulder my  |**<big>&#8207;[[H7926\|שִׁ֭כְמִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Shikh.m<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will carry it  |**<big>&#8207;[[H5375H\|אֶשָּׂאֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'es.sa.'E.<small><sup>[[HVqi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will tie on it  |**<big>&#8207;[[H6029\|אֶֽעֶנְדֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'e.'en.De.<small><sup>[[HVqi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a crown\<s>  |**<big>&#8207;[[H5850\|עֲטָר֣וֹת]]&#8207; </big>**| a.ta.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to myself  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.35|<< Job 31:35]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.37|Job 31:37 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇמְרִי‎</span></big> **ʻOmrîy** <small>*(om-ree')*</small> ==**Omri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַר‎</span><sup><small>[[H6014]]</small></sup>; heaping</small>
+**<big><span class="ashebrew">‎עׇמְרִי‎</span></big>** **ʻOmrîy** <small>*(om-ree')*</small> ==**Omri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6014|‎עָמַר‎]]</big>**; heaping</small>
 
 $\quad$ Omri.
 - § Omri = *"pupil of Jehovah"*

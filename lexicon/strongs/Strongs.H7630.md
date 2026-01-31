@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֹׁבַי‎</span></big> **Shôbay** <small>*(sho-bah'-ee)*</small> ==**Shobai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎שֹׁבִי‎</span><sup><small>[[H7629]]</small></sup></small>
+**<big><span class="ashebrew">‎שֹׁבַי‎</span></big>** **Shôbay** <small>*(sho-bah'-ee)*</small> ==**Shobai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H7629|‎שֹׁבִי‎]]</big>**</small>
 
 $\quad$ Shobai.
 - § Shobai = *"glorious"*

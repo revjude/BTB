@@ -7,43 +7,43 @@ The land of Egypt [is] before thee; in the best of the land make thy father and 
 the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”<small><sub>**MT:**</sub></small>
 [[Gen.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.5|<< Genesis 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.7|Genesis 47:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| best | <big><span class="asgreek">βελτίστη</span></big> <sup><small><small>[[G0957]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| settle | <big><span class="asgreek">κατοίκισον</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brothers. | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Let them dwell | <big><span class="asgreek">κατοικείτωσαν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Goshen! | <big><span class="asgreek">Γεσέμ</span></big> <sup><small><small>[[H1657]]</small></small></sup> |
-| And if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should have knowledge | <big><span class="asgreek">επίστη</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| you place | <big><span class="asgreek">κατάστησον</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in charge | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my | <big><span class="asgreek">εμών</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| cattle! | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| best | **<big>[[G0957\|βελτίστη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| settle | **<big>[[G6052\|κατοίκισον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your brothers. | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Let them dwell | **<big>[[G2730\|κατοικείτωσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Goshen! | **<big>[[H1657\|Γεσέμ]]</big>** |
+| And if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should have knowledge | **<big>[[G1987\|επίστη]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there are | **<big>[[G1510\|εισίν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| able | **<big>[[G1415\|δυνατοί]]</big>** |
+| you place | **<big>[[G2525\|κατάστησον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in charge | **<big>[[G0758\|άρχοντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my | **<big>[[G1699\|εμών]]</big>** |
+| cattle! | **<big>[[G2934\|κτηνών]]</big>** |
 [[Gen.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.5|<< Genesis 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.7|Genesis 47:7 >>]]</td></tr></table>
 
 

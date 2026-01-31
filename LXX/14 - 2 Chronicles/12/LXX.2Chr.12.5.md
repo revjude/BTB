@@ -7,43 +7,43 @@ Then came Shemaiah the prophet to Rehoboam, and [to] the princes of Judah, that 
 Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gathered at Jerusalem because of Shishak, and he said to them, “This is what the LORD says: ‘You have forsaken Me; therefore, I have forsaken you into the hand of Shishak.’”<small><sub>**MT:**</sub></small>
 [[2Chr.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.4|<< 2 Chronicles 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.6|2 Chronicles 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shemaiah | <big><span class="asgreek">Σαμαίας</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Rehoboam, | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering together | <big><span class="asgreek">συναχθέντας</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Shishak. | <big><span class="asgreek">Σουσάκ</span></big> <sup><small><small>[[H7895]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατελίπετέ</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall abandon | <big><span class="asgreek">εγκαταλείψω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Shishak. | <big><span class="asgreek">Σουσάκ</span></big> <sup><small><small>[[H7895]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shemaiah | **<big>[[H8098\|Σαμαίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Rehoboam, | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| gathering together | **<big>[[G4863\|συναχθέντας]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Shishak. | **<big>[[H7895\|Σουσάκ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατελίπετέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall abandon | **<big>[[G1459\|εγκαταλείψω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Shishak. | **<big>[[H7895\|Σουσάκ]]</big>** |
 [[2Chr.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.4|<< 2 Chronicles 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.6|2 Chronicles 12:6 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Kain</span>, a town in the hill country of Judah \([[Josh.15.57|Joshua 15:57]]\), is possibly associated with the Kenites mentioned in [[Num.24.22|Numbers 24:22]].
 - A location first mentioned at [[Num.24.22|Num.24.22]]; 
-- only referred to as Kain<[[H7014A]]> \(<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Kain **<big>[[H7014|קַיִן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.500000,35.166667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Kain was a town located in the hill country of Judah \([[Josh.15.57|Joshua 15:57
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kain (KJV= Cain) | [<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H7014A) <small>*Hebrew*</small> | 2x | [[Num.24.22] & [Jos.15.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kain\*\|reference=Num.24.22;Jos.15.57) |
-All Strong's for **Kain**: \[[[H7014A]]\]
+| Kain (KJV= Cain) | [<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H7014A) | 2x | [[Num.24.22] & [Jos.15.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kain\*\|reference=Num.24.22;Jos.15.57) |
+All entries for **Kain**:  **<big>[[H7014|קַיִן]]</big>**

@@ -7,21 +7,21 @@ Thou drewest near in the day [that] I called upon thee: thou saidst, Fear not.
 You drew near when I called on You; You said, “Do not be afraid.”<small><sub>**MT:**</sub></small>
 [[Lam.3.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.56|<< Lamentations 3:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.58|Lamentations 3:58 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my help | <big><span class="asgreek">βοήθείαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You approached | <big><span class="asgreek">ήγγισας</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I called upon | <big><span class="asgreek">επεκαλεσάμην</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You said | <big><span class="asgreek">είπάς</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my help | **<big>[[G0996\|βοήθείαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You approached | **<big>[[G1448\|ήγγισας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| I called upon | **<big>[[G1941\|επεκαλεσάμην]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| You said | **<big>[[G2036\|είπάς]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φόβου]]</big>** |
 [[Lam.3.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.56|<< Lamentations 3:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.58|Lamentations 3:58 >>]]</td></tr></table>
 
 

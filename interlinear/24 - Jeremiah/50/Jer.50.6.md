@@ -6,27 +6,27 @@ My people are lost sheep; their shepherds have led them astray, causing them to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.5|<< Jeremiah 50:5]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.7|Jeremiah 50:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| sheep  | <span class="ashebrew"><big>צֹ֤אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lost  | <span class="ashebrew"><big>אֹֽבְדוֹת֙ </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| 'oe.dOt <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have become  [^1] | <span class="ashebrew"><big>הָי֣וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;[^2] | ha.yah <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ֔ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shepherds their  | <span class="ashebrew"><big>רֹעֵי </big></span><small><small><sup>[[H7462B]]</sup></small></small> <span class="ashebrew"><big>הֶ֣ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ro.'ei. <small><sup>[[HVqrmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have caused to wander them  | <span class="ashebrew"><big>הִתְע֔וּ </big></span><small><small><sup>[[H8582]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| hit.'U <small><sup>[[HVhp3cp]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִ֖ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have led away them  [^4] | <span class="ashebrew"><big>שֽׁוֹבְב֑וּ </big></span><small><small><sup>[[H7726]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;[^5] | shoe.vi <small><sup>[[HVpp3cp]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| from mountain  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הַ֤ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hill  | <span class="ashebrew"><big>גִּבְעָה֙ </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| giv.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have gone  | <span class="ashebrew"><big>הָלָ֔כוּ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| ha.La.khu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have forgotten  | <span class="ashebrew"><big>שָׁכְח֖וּ </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| sha.khe.Chu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| resting place their  | <span class="ashebrew"><big>רִבְצָֽ </big></span><small><small><sup>[[H7258]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| riv.Tza <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep  |**<big>&#8207;[[H6629G\|צֹ֤אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lost  |**<big>&#8207;[[H0006\|אֹֽבְדוֹת֙]]&#8207; </big>**| 'oe.dOt<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become  [^1]|**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**[^2] | ha.yah<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shepherds their  |**<big>&#8207;[[H7462B\|רֹעֵי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| ro.'ei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have caused to wander them  |**<big>&#8207;[[H8582\|הִתְע֔וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| hit.'U<small><sup>[[HVhp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִ֖ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have led away them  [^4]|**<big>&#8207;[[H7726\|שֽׁוֹבְב֑וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**[^5] | shoe.vi<small><sup>[[HVpp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| from mountain  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2022G\|הַ֤ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hill  |**<big>&#8207;[[H1389I\|גִּבְעָה֙]]&#8207; </big>**| giv.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have gone  |**<big>&#8207;[[H1980G\|הָלָ֔כוּ]]&#8207; </big>**| ha.La.khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have forgotten  |**<big>&#8207;[[H7911\|שָׁכְח֖וּ]]&#8207; </big>**| sha.khe.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| resting place their  |**<big>&#8207;[[H7258\|רִבְצָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| riv.Tza<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.5|<< Jeremiah 50:5]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.7|Jeremiah 50:7 >>]]</td></tr></table>
 
-[^1]: ==K==: **it has become ** | <small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>הָיָה</big></span>  | ha.yah<small><sup>[[HVqp3ms]]</sup></small> 
+[^1]: ==K==: it has become  | **<big>[[H1961|הָיָה]]</big> ** | ha.yah<small><sup>[[HVqp3ms]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>הָיֻ֣ה</big></span>**
-[^3]: ==K==: **backsliding ** | <small><sup>[[H7726]]</sup></small> <span class="ashebrew"><big>שׁוֹבֵבִים</big></span>  | shoe.vim<small><sup>[[HAampa]]</sup></small> 
-[^4]: ==K==: **backsliding ** | <small><sup>[[H7726]]</sup></small> <span class="ashebrew"><big>שׁוֹבֵבִים</big></span>  | shoe.vim<small><sup>[[HAampa]]</sup></small> 
+[^3]: ==K==: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> 
+[^4]: ==K==: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> 
 [^5]: ==L== spelled: **<span class="ashebrew"><big>שֽׁוֹבְב֑יּם</big></span>**
 

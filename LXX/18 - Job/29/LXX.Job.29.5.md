@@ -7,16 +7,16 @@ When the Almighty [was] yet with me, [when] my children [were] about me;
 when the Almighty was still with me and my children were around me,<small><sub>**MT:**</sub></small>
 [[Job.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.4|<< Job 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.6|Job 29:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| flush | <big><span class="asgreek">υλώδης</span></big> <sup><small><small>[[G9534]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
-| and round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[were\] my children; | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| flush | **<big>[[G9534\|υλώδης]]</big>** |
+| exceedingly | **<big>[[G3029\|λίαν]]</big>** |
+| and round about | **<big>[[G2945\|κύκλω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[were\] my children; | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Job.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.4|<< Job 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.6|Job 29:6 >>]]</td></tr></table>
 
 

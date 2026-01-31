@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Raamah</span> was a place, possibly located in Arabia, that traded with the city of Tyre, offering spices, precious stones, and gold.
 - A location only mentioned at [[Ezek.27.22|Ezk.27.22]]; 
-- only referred to as Raamah<[[H7484H]]> \(<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Raamah **<big>[[H7484|רַעְמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=15.68,42.78&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Raamah is mentioned in the Bible as one of the trading partners of the city of T
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Raamah | [<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7484H) <small>*Hebrew*</small> | 1x | [Ezk.27.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Raamah\*\|reference=Ezk.27.22) |
-All Strong's for **Raamah**: \[[[H7484H]]\]
+| Raamah | [<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7484H) | 1x | [Ezk.27.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Raamah\*\|reference=Ezk.27.22) |
+All entries for **Raamah**:  **<big>[[H7484|רַעְמָה]]</big>**

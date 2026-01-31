@@ -7,30 +7,30 @@ And he made him to ride in the second chariot which he had; and they cried befor
 He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee!” So he placed him over all the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Gen.41.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.42|<< Genesis 41:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.44|Genesis 41:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he transported | <big><span class="asgreek">ανεβίβασεν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρμα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proclaimed | <big><span class="asgreek">εκήρυξεν</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a herald | <big><span class="asgreek">κήρυξ</span></big> <sup><small><small>[[G2783]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he transported | **<big>[[G0307\|ανεβίβασεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| chariot | **<big>[[G0716\|άρμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| proclaimed | **<big>[[G2784\|εκήρυξεν]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| a herald | **<big>[[G2783\|κήρυξ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλης]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Gen.41.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.42|<< Genesis 41:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.44|Genesis 41:44 >>]]</td></tr></table>
 
 

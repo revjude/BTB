@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲוָא‎</span></big> **chăvâʼ** <small>*(khav-aw')*</small> ==**to show**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎חָוָה‎</span><sup><small>[[H2331]]</small></sup></small>
+**<big><span class="asaramaic">‎חֲוָא‎</span></big>** **chăvâʼ** <small>*(khav-aw')*</small> ==**to show**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2331|‎חָוָה‎]]</big>**</small>
 
 $\quad$ shew.
 - ***to show***
@@ -8,4 +8,4 @@ $\quad$ shew.
 $\quad$ **1a)** (Pael) to show, interpret
 $\quad$ **1b)** (Aphel) to show
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπαγγέλλω</span><sup><small>[[G0518]]</small></sup> · <span class="asgreek">γνωρίζω</span><sup><small>[[G1107]]</small></sup> · <span class="asgreek">δηλόω</span><sup><small>[[G1213]]</small></sup> · <span class="asgreek">διασαφέω</span><sup><small>[[G1285]]</small></sup> · <span class="asgreek">ὑποδείκνυμι</span><sup><small>[[G5263]]</small></sup>
+<small>See Greek: </small>**<big>[[G0518|ἀπαγγέλλω]]</big>** · **<big>[[G1107|γνωρίζω]]</big>** · **<big>[[G1213|δηλόω]]</big>** · **<big>[[G1285|διασαφέω]]</big>** · **<big>[[G5263|ὑποδείκνυμι]]</big>**

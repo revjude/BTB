@@ -6,15 +6,15 @@ Poverty and shame come to him who ignores discipline, but whoever heeds correcti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.17|<< Proverbs 13:17]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.19|Proverbs 13:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| poverty  | <span class="ashebrew"><big>רֵ֣ישׁ </big></span><small><small><sup>[[H7389A]]</sup></small></small> &#8207;| reish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and shame  | <span class="ashebrew"><big>וְ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קָלוֹן </big></span><small><small><sup>[[H7036]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ka.lon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] ignores  | <span class="ashebrew"><big>פּוֹרֵ֣עַ </big></span><small><small><sup>[[H6544B]]</sup></small></small> &#8207;| po.Re.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| discipline  | <span class="ashebrew"><big>מוּסָ֑ר </big></span><small><small><sup>[[H4148G]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] keeps  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שׁוֹמֵ֖ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| correction  | <span class="ashebrew"><big>תּוֹכַ֣חַת </big></span><small><small><sup>[[H8433B]]</sup></small></small> &#8207;| to.Kha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is honored  | <span class="ashebrew"><big>יְכֻבָּֽד </big></span><small><small><sup>[[H3513G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.khu.Bad <small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poverty  |**<big>&#8207;[[H7389A\|רֵ֣ישׁ]]&#8207; </big>**| reish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shame  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7036\|קָלוֹן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ka.lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] ignores  |**<big>&#8207;[[H6544B\|פּוֹרֵ֣עַ]]&#8207; </big>**| po.Re.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| discipline  |**<big>&#8207;[[H4148G\|מוּסָ֑ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] keeps  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104H\|שׁוֹמֵ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correction  |**<big>&#8207;[[H8433B\|תּוֹכַ֣חַת]]&#8207; </big>**| to.Kha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is honored  |**<big>&#8207;[[H3513G\|יְכֻבָּֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.khu.Bad<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.17|<< Proverbs 13:17]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.19|Proverbs 13:19 >>]]</td></tr></table>
 
 

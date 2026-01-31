@@ -7,47 +7,47 @@ Nevertheless leave the stump of his roots in the earth, even with a band of iron
 But leave the stump with its roots in the ground, with a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven and graze with the beasts on the grass of the earth.<small><sub>**MT:**</sub></small>
 [[Dan.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.14|<< Daniel 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.16|Daniel 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| development | <big><span class="asgreek">φυήν</span></big> <sup><small><small>[[G9676]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his roots | <big><span class="asgreek">ριζών αυτού</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| allow! | <big><span class="asgreek">εάσατε</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a bond | <big><span class="asgreek">δεσμώ</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρώ</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brass, | <big><span class="asgreek">χαλκώ</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tender shoots \[of grass\] | <big><span class="asgreek">χλοή</span></big> <sup><small><small>[[G5514]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outside; | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dew | <big><span class="asgreek">δρόσω</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| he shall lay down, | <big><span class="asgreek">αυλισθήσεται</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρίων</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτω</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Only | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| development | **<big>[[G9676\|φυήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his roots | **<big>[[G4491\|ριζών αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| allow! | **<big>[[G1439\|εάσατε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a bond | **<big>[[G1199\|δεσμώ]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| brass, | **<big>[[G5470\|χαλκώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tender shoots \[of grass\] | **<big>[[G5514\|χλοή]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| outside; | **<big>[[G1854\|έξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| dew | **<big>[[G6970\|δρόσω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| he shall lay down, | **<big>[[G0835\|αυλισθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his portion | **<big>[[G3310\|μερίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[will be\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| grass | **<big>[[G5528\|χόρτω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ground. | **<big>[[G1093\|γης]]</big>** |
 [[Dan.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.14|<< Daniel 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.16|Daniel 4:16 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Avenge the children of Israel of the Midianites: afterward shalt thou be gathere
 “Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people.”<small><sub>**MT:**</sub></small>
 [[Num.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| avenge | <big><span class="asgreek">εκδίκει</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with punishment | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| on | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Midianites; | <big><span class="asgreek">Μαδιανιτών</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at \[the\] last | <big><span class="asgreek">έσχατον</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| you shall be added | <big><span class="asgreek">προστεθήση</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| avenge | **<big>[[G1556\|εκδίκει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| with punishment | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| on | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Midianites; | **<big>[[G3099\|Μαδιανιτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at \[the\] last | **<big>[[G2078\|έσχατον]]</big>** |
+| you shall be added | **<big>[[G4369\|προστεθήση]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Num.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
 

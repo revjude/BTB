@@ -2,7 +2,7 @@
 
 The Valley of Zephathah is where King Asa of Judah defeated Zerah the Cushite's large army \([[2Chr.14.10|2Ch.14.10]]\).
 - A location only mentioned at [[2Chr.14.10|2Ch.14.10]]; 
-- only referred to as Zephathah\_Valley<[[H6859]]><[[H1516L]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֫<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Zephathah\_Valley **<big>[[H6859|צְפָתָה]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.615198,34.910085&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Valley of Zephathah is mentioned in the Bible as the location where King Asa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Zephathah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֫<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6859)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516L) <small>*Hebrew*</small> | 1x | [2Ch.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Ch.14.10) |
-All Strong's for **Zephathah_Valley**: \[[[H6859]]\]
+| Valley/ of Zephathah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ֫<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6859)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516L) | 1x | [2Ch.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=2Ch.14.10) |
+All entries for **Zephathah Valley**:  **<big>[[H6859|צְפָתָה]]</big>**

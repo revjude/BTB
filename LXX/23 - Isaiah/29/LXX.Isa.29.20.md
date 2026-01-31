@@ -7,19 +7,19 @@ For the terrible one is brought to nought, and the scorner is consumed, and all 
 For the ruthless will vanish, the mockers will disappear, and all who look for evil will be cut down—<small><sub>**MT:**</sub></small>
 [[Isa.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.19|<< Isaiah 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.21|Isaiah 29:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| failed | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[The\] lawless one | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is destroyed | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \[the\] proud one | <big><span class="asgreek">υπερήφανος</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be utterly destroyed | <big><span class="asgreek">εξωλοθρεύθησαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting lawlessly | <big><span class="asgreek">ανομούντες</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
+| failed | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| \[The\] lawless one | **<big>[[G0459\|άνομος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is destroyed | **<big>[[G0622\|απώλετο]]</big>** |
+| \[the\] proud one | **<big>[[G5244\|υπερήφανος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be utterly destroyed | **<big>[[G1842\|εξωλοθρεύθησαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| acting lawlessly | **<big>[[G6349\|ανομούντες]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| evil | **<big>[[G2549\|κακία]]</big>** |
 [[Isa.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.19|<< Isaiah 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.21|Isaiah 29:21 >>]]</td></tr></table>
 
 

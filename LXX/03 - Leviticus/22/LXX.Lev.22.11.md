@@ -7,26 +7,26 @@ But if the priest buy [any] soul with his money, he shall eat of it, and he that
 But if a priest buys a slave with his own money, or if a slave is born in his household, that slave may eat his food.<small><sub>**MT:**</sub></small>
 [[Lev.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.10|<< Leviticus 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.12|Leviticus 22:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| should acquire | <big><span class="asgreek">κτήσηται</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| a soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| procured | <big><span class="asgreek">έγκτητον</span></big> <sup><small><small>[[G7031]]</small></small></sup> |
-| with silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his bread loaf; | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his native-born servants, | <big><span class="asgreek">οικογενείς</span></big> <sup><small><small>[[G8456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">αύτοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his bread loaf. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| should acquire | **<big>[[G2932\|κτήσηται]]</big>** |
+| a soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| procured | **<big>[[G7031\|έγκτητον]]</big>** |
+| with silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of his bread loaf; | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his native-born servants, | **<big>[[G8456\|οικογενείς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G1473\|αύτοι]]</big>** |
+| shall eat | **<big>[[G2068\|φάγονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of his bread loaf. | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.10|<< Leviticus 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.12|Leviticus 22:12 >>]]</td></tr></table>
 
 

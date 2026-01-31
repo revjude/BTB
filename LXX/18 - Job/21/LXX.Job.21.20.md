@@ -7,17 +7,17 @@ His eyes shall see his destruction, and he shall drink of the wrath of the Almig
 Let his eyes see his own destruction; let him drink for himself the wrath of the Almighty.<small><sub>**MT:**</sub></small>
 [[Job.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.19|<< Job 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.21|Job 21:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| behold | <big><span class="asgreek">ίδοισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| slaughter; | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
-| and by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| may he not be delivered. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">διασωθείη</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| behold | **<big>[[G1492\|ίδοισαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| slaughter; | **<big>[[G4967\|σφαγήν]]</big>** |
+| and by | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| may he not be delivered. | **<big>[[G3361\|μη]]</big>** **<big>[[G1295\|διασωθείη]]</big>** |
 [[Job.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.19|<< Job 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.21|Job 21:21 >>]]</td></tr></table>
 
 

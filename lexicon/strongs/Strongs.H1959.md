@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הֵידָד‎</span></big> **hêydâd** <small>*(hay-dawd')*</small> ==**shout**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎הֵידָד‎</span></big>** **hêydâd** <small>*(hay-dawd')*</small> ==**shout**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root (meaning to shout)</small>
 
 $\quad$ shout(-ing).

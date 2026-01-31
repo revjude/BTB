@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְהוּדָה‎</span></big> **Yᵉhûwdâh** <small>*(yeh-hoo-daw')*</small> ==**Judah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup>; celebrated</small>
+**<big><span class="ashebrew">‎יְהוּדָה‎</span></big>** **Yᵉhûwdâh** <small>*(yeh-hoo-daw')*</small> ==**Judah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3034|‎יָדָה‎]]</big>**; celebrated</small>
 
 $\quad$ Judah.
 - § Judah = *"praised"*
@@ -15,4 +15,4 @@ $\quad$ Judah.
 **7)** a Levite musician in the time of Nehemiah
 **8)** a priest in the time of Nehemiah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰουδά</span><sup><small>[[G2448]]</small></sup> · <span class="asgreek">Ἰούδας</span><sup><small>[[G2455]]</small></sup>
+<small>See Greek: </small>**<big>[[G2448|Ἰουδά]]</big>** · **<big>[[G2455|Ἰούδας]]</big>**

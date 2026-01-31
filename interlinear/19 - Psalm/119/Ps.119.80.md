@@ -6,15 +6,15 @@ May my heart be blameless in Your statutes, that I may not be put to shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.80|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.79|<< Psalms 119:79]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.81|Psalms 119:81 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may it be  | <span class="ashebrew"><big>יְהִֽי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.hi- <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לִבִּ֣ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| li.B <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blameless  | <span class="ashebrew"><big>תָמִ֣ים </big></span><small><small><sup>[[H8549H]]</sup></small></small> &#8207;| ta.Mim <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in decrees your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֻקֶּ֑י </big></span><small><small><sup>[[H2706G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> chu.Kei. <small><sup>[[HNcmpc]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so that  | <span class="ashebrew"><big>לְ֝מַ֗עַן </big></span><small><small><sup>[[H4616]]</sup></small></small> &#8207;| le.Ma.'an <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will be ashamed  | <span class="ashebrew"><big>אֵבֽוֹשׁ </big></span><small><small><sup>[[H0954]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Vo.osh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it be  |**<big>&#8207;[[H1961\|יְהִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blameless  |**<big>&#8207;[[H8549H\|תָמִ֣ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in decrees your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2706G\|חֻקֶּ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.Kei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  |**<big>&#8207;[[H4616\|לְ֝מַ֗עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will be ashamed  |**<big>&#8207;[[H0954\|אֵבֽוֹשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Vo.osh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.79|<< Psalms 119:79]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.81|Psalms 119:81 >>]]</td></tr></table>
 
 

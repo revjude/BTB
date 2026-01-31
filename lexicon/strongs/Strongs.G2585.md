@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎καπηλεύω‎</span></big> **kapēleúō** <small>*(kap-ale-yoo'-o)*</small> ==**to peddle**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎καπηλεύω‎</span></big>** **kapēleúō** <small>*(kap-ale-yoo'-o)*</small> ==**to peddle**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>from <greek BETA="KA/PHLOS" unicode="κάπηλος" translit="kápēlos"/> (a huckster)</small>
 
 $\quad$ corrupt.

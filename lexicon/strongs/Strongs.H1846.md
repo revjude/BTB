@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּעַךְ‎</span></big> **dâʻak** <small>*(daw-ak')*</small> ==**to put out**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּעַךְ‎</span></big>** **dâʻak** <small>*(daw-ak')*</small> ==**to put out**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be extinct, consumed, put out, quenched.
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal) to go out, be extinguished
 $\quad$ **1b)** (Niphal) to be made extinct, be dried up
 $\quad$ **1c)** (Pual) to be extinguished, be quenched
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ἐπιγινώσκω</span><sup><small>[[G1921]]</small></sup> · <span class="asgreek">σβέννυμι</span><sup><small>[[G4570]]</small></sup>
+<small>See Greek: </small>**<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G1921|ἐπιγινώσκω]]</big>** · **<big>[[G4570|σβέννυμι]]</big>**

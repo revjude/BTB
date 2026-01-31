@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀπολείπω‎</span></big> **apoleípō** <small>*(ap-ol-ipe'-o)*</small> ==**to leave**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">ἀπό</span><sup><small>[[G0575]]</small></sup> and <span class="asgreek">λείπω</span><sup><small>[[G3007]]</small></sup></small>
+**<big><span class="asgreek">‎ἀπολείπω‎</span></big>** **apoleípō** <small>*(ap-ol-ipe'-o)*</small> ==**to leave**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G0575|‎ἀπό‎]]</big>** and **<big>[[G3007|‎λείπω‎]]</big>**</small>
 
 $\quad$ leave, remain.
 - to leave behind (passively, remain)

@@ -7,50 +7,50 @@ And let it come to pass, that the damsel to whom I shall say, Let down thy pitch
 Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”<small><sub>**MT:**</sub></small>
 [[Gen.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.13|<< Genesis 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.15|Genesis 24:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virgin, | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| who | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should have said, | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Incline | <big><span class="asgreek">επίκλινον</span></big> <sup><small><small>[[G7416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your water-pitcher! | <big><span class="asgreek">υδρίαν</span></big> <sup><small><small>[[G5201]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I might drink. | <big><span class="asgreek">πίω</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she should have said | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You drink! | <big><span class="asgreek">πίε</span></big> <sup><small><small>[[G4095]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your camels | <big><span class="asgreek">καμήλους</span></big> <sup><small><small>[[G2574]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will water | <big><span class="asgreek">ποτιώ</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they cease | <big><span class="asgreek">παύσωνται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| to drink -- | <big><span class="asgreek">πίνουσαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| this one | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you prepared | <big><span class="asgreek">ητοίμασας</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your servant | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Isaac, | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will know | <big><span class="asgreek">γνώσομαι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you executed | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abraham. | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| virgin, | **<big>[[G3933\|παρθένος]]</big>** |
+| who | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| should have said, | **<big>[[G2036\|είπω]]</big>** |
+| Incline | **<big>[[G7416\|επίκλινον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your water-pitcher! | **<big>[[G5201\|υδρίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I might drink. | **<big>[[G4095\|πίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she should have said | **<big>[[G2036\|είπη]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| You drink! | **<big>[[G4095\|πίε]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your camels | **<big>[[G2574\|καμήλους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will water | **<big>[[G4222\|ποτιώ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| they cease | **<big>[[G3973\|παύσωνται]]</big>** |
+| to drink -- | **<big>[[G4095\|πίνουσαι]]</big>** |
+| this one | **<big>[[G3778\|ταύτην]]</big>** |
+| you prepared | **<big>[[G2090\|ητοίμασας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for your servant | **<big>[[G3816\|παιδί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Isaac, | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| I will know | **<big>[[G1097\|γνώσομαι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you executed | **<big>[[G4160\|εποίησας]]</big>** |
+| mercy | **<big>[[G1656\|έλεος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my master | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Abraham. | **<big>[[G0011\|Αβραάμ]]</big>** |
 [[Gen.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.13|<< Genesis 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.15|Genesis 24:15 >>]]</td></tr></table>
 
 

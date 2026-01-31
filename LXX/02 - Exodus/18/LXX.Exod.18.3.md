@@ -11,22 +11,22 @@ along with her two sons. One son was named Gershom, for Moses had said, “I hav
 > $\quad$ referenced by: [[Acts.7.29|Acts 7:29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of his -- | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] Gershom, | <big><span class="asgreek">Γηρσάμ</span></big> <sup><small><small>[[H1647]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| I was a sojourner | <big><span class="asgreek">πάροικος</span></big> <sup><small><small>[[G3941]]</small></small></sup> <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| an alien | <big><span class="asgreek">αλλοτρία</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of his -- | **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| \[was\] Gershom, | **<big>[[H1647\|Γηρσάμ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| I was a sojourner | **<big>[[G3941\|πάροικος]]</big>** **<big>[[G1510\|ήμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| an alien | **<big>[[G0245\|αλλοτρία]]</big>** |
 [[Exod.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.2|<< Exodus 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.4|Exodus 18:4 >>]]</td></tr></table>
 
 

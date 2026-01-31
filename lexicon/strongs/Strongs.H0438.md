@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַלּוֹן‎</span></big> **ʼAllôwn** <small>*(al-lone')*</small> ==**oak**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אַלּוֹן‎</span><sup><small>[[H0437]]</small></sup></small>
+**<big><span class="ashebrew">‎אַלּוֹן‎</span></big>** **ʼAllôwn** <small>*(al-lone')*</small> ==**oak**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H0437|‎אַלּוֹן‎]]</big>**</small>
 
 $\quad$ Allon.
 - § Allon = *"great tree" or "oak"*

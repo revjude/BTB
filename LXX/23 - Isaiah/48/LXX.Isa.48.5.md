@@ -7,37 +7,37 @@ I have even from the beginning declared [it] to thee; before it came to pass I s
 Therefore I declared it to you long ago; I announced it before it came to pass, so that you could not claim, ‘My idol has done this; my carved image and molten god has ordained it.’<small><sub>**MT:**</sub></small>
 [[Isa.48.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.4|<< Isaiah 48:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.6|Isaiah 48:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I announced | <big><span class="asgreek">ανήγγειλά</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| earlier | <big><span class="asgreek">πάλαι</span></big> <sup><small><small>[[G3819]]</small></small></sup> |
-| what \[would happen\] | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-| it came | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Audibly | <big><span class="asgreek">ακουστόν</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did \[it\], | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| at some time or other | <big><span class="asgreek">ποτε</span></big> <sup><small><small>[[G4218]]</small></small></sup> |
-| you should say | <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My idols | <big><span class="asgreek">είδωλά</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should say | <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molten \[images\] | <big><span class="asgreek">χωνευτά</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I announced | **<big>[[G0312\|ανήγγειλά]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| earlier | **<big>[[G3819\|πάλαι]]</big>** |
+| what \[would happen\] | **<big>[[G3739\|α]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+| it came | **<big>[[G2064\|ελθείν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| Audibly | **<big>[[G6200\|ακουστόν]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| I did \[it\], | **<big>[[G4160\|εποίησα]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| at some time or other | **<big>[[G4218\|ποτε]]</big>** |
+| you should say | **<big>[[G2036\|είπης]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| My idols | **<big>[[G1497\|είδωλά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| did. | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you should say | **<big>[[G2036\|είπης]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| molten \[images\] | **<big>[[G9778\|χωνευτά]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατό]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
 [[Isa.48.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.4|<< Isaiah 48:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.6|Isaiah 48:6 >>]]</td></tr></table>
 
 

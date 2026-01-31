@@ -1,4 +1,4 @@
-Greek of: <small>[[H3778]]</small> 
+Greek of: <small>**<big>[[H3778|כַּשְׂדִּי]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Χαλδαῖος==</span>-<span class='asgreek'>αῖος</span></b>, <span class='asgreek'>ὁ</span>, 

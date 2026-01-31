@@ -7,31 +7,31 @@ And they possessed his land, and the land of Og king of Bashan, two kings of the
 They took possession of the land belonging to Sihon and to Og king of Bashan—the two Amorite kings across the Jordan to the east—<small><sub>**MT:**</sub></small>
 [[Deut.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they inherited | <big><span class="asgreek">εκληρονόμησαν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Og | <big><span class="asgreek">Ωγ</span></big> <sup><small><small>[[H5747]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Bashan, | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] rising | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of \[the\] sun. | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they inherited | **<big>[[G2816\|εκληρονόμησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his land, | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Og | **<big>[[H5747\|Ωγ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Bashan, | **<big>[[H1316\|Βασάν]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Amorites | **<big>[[H0567\|Αμορραίων]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] rising | **<big>[[G0395\|ανατολάς]]</big>** |
+| of \[the\] sun. | **<big>[[G2246\|ηλίου]]</big>** |
 [[Deut.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
 

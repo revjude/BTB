@@ -1,6 +1,6 @@
 <span class="asform"><span class="asgreek"><span class="asbold">Σιών </span></span></span>
 indecl.,
-in NT anarth., but in LXX when used of the city of Jerusalem, <span class="asgreek">ἡ Σ.</span>  <span class="asetym">  <span class="asderivation">(Heb. <span class="ashebrew">צִיּוֹן</span> <small><sup>[[H6726]]</sup></small>), </span> </span>
+in NT anarth., but in LXX when used of the city of Jerusalem, <span class="asgreek">ἡ Σ.</span>  <span class="asetym">  <span class="asderivation">(Heb. **<big>[[H6726|צִיּוֹן]]</big>**), </span> </span>
 <span class="asitalic">Zion</span>;
 <span class="asbullet"><span class="asbold">1.</span> the mountain: in typical sense, of the Church, [[Heb.12.22|He 12:22]]; of heaven, [[Rev.14.1|Re 14:1]].</span>
 <span class="asbullet"><span class="asbold">2.</span> The city, i.e. Jerusalem; in poetical sense;</span>

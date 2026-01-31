@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֹּב‎</span></big> **Gôb** <small>*(gobe)*</small> ==**Gob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (fully) <span class="ashebrew">גּוֹב</span> **Gôwb** <small>*(gobe')*</small>; from <span class="ashebrew">‎גּוּב‎</span><sup><small>[[H1461]]</small></sup>; pit</small>
+**<big><span class="ashebrew">‎גֹּב‎</span></big>** **Gôb** <small>*(gobe)*</small> ==**Gob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (fully) **<big><span class="ashebrew">גּוֹב</span></big>** **Gôwb** <small>*(gobe')*</small>; from **<big>[[H1461|‎גּוּב‎]]</big>**; pit</small>
 
 $\quad$ Gob.
 - § Gob = *"cistern"*

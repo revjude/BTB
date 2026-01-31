@@ -1,5 +1,4 @@
-<span class="ashebrew">‎נֵכַח‎</span> <small>***(ne.khach)***</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-spelling of: <small>[[H5227]]</small> 
+<small>spelling of:</small> <small>**<big>[[H5227|נֹכַח]]</big>**</small> 
 
 - subst
 - adv

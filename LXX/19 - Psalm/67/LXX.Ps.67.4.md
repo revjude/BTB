@@ -7,24 +7,24 @@ O let the nations be glad and sing for joy: for thou shalt judge the people righ
 Let the nations be glad and sing for joy, for You judge the peoples justly and lead the nations of the earth. Selah<small><sub>**MT:**</sub></small>
 [[Ps.67.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.3|<< Psalm 67:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.67.5|Psalm 67:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be glad | <big><span class="asgreek">ευφρανθήτωσαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| exult, | <big><span class="asgreek">αγαλλιάσθωσαν</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| O nations! | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you shall judge | <big><span class="asgreek">κρινείς</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \[the\] peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| straightness, | <big><span class="asgreek">ευθύτητι</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| you shall guide | <big><span class="asgreek">οδηγήσεις</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
+| Be glad | **<big>[[G2165\|ευφρανθήτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| exult, | **<big>[[G0021\|αγαλλιάσθωσαν]]</big>** |
+| O nations! | **<big>[[G1484\|έθνη]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you shall judge | **<big>[[G2919\|κρινείς]]</big>** |
+| \[the\] peoples | **<big>[[G2992\|λαούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| straightness, | **<big>[[G2118\|ευθύτητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| you shall guide | **<big>[[G3594\|οδηγήσεις]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
 [[Ps.67.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.3|<< Psalm 67:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.67.5|Psalm 67:5 >>]]</td></tr></table>
 
 

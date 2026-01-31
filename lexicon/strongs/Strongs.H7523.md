@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָצַח‎</span></big> **râtsach** <small>*(raw-tsakh')*</small> ==**to murder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָצַח‎</span></big>** **râtsach** <small>*(raw-tsakh')*</small> ==**to murder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ put to death, kill, (man-) slay(-er), murder(-er).
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c1)** to murder, assassinate
 $\quad$ $\quad$ **1c2)** murderer, assassin (participle) (subst)
 $\quad$ **1d)** (Pual) to be killed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φονεύω</span><sup><small>[[G5407]]</small></sup> · <span class="asgreek">φόνος</span><sup><small>[[G5408]]</small></sup>
+<small>See Greek: </small>**<big>[[G5407|φονεύω]]</big>** · **<big>[[G5408|φόνος]]</big>**

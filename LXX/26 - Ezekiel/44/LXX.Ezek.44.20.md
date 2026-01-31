@@ -7,20 +7,20 @@ Neither shall they shave their heads, nor suffer their locks to grow long; they 
 They must not shave their heads or let their hair grow long, but must carefully trim their hair.<small><sub>**MT:**</sub></small>
 [[Ezek.44.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.19|<< Ezekiel 44:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.21|Ezekiel 44:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heads | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not shave, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ξυρήσονται</span></big> <sup><small><small>[[G3587]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hair | <big><span class="asgreek">κόμας</span></big> <sup><small><small>[[G2864]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not make bare; | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ψιλώσουσι</span></big> <sup><small><small>[[G9796]]</small></small></sup> |
-| by covering | <big><span class="asgreek">καλύπτοντες</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| they shall cover | <big><span class="asgreek">καλύψουσι</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heads. | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their heads | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall not shave, | **<big>[[G3756\|ου]]</big>** **<big>[[G3587\|ξυρήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hair | **<big>[[G2864\|κόμας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall not make bare; | **<big>[[G3756\|ου]]</big>** **<big>[[G9796\|ψιλώσουσι]]</big>** |
+| by covering | **<big>[[G2572\|καλύπτοντες]]</big>** |
+| they shall cover | **<big>[[G2572\|καλύψουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their heads. | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.44.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.19|<< Ezekiel 44:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.21|Ezekiel 44:21 >>]]</td></tr></table>
 
 

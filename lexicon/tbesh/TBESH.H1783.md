@@ -1,6 +1,4 @@
-<span class="ashebrew">‎דִּינָה‎</span> <small>***(di.nah)***</small> ==**Dinah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time of the Patriarchs, first mentioned at [[Gen.30.21|Gen.30.21]]
--  daughter of: Israel ([[H3478]]) and Leah ([[H3812]])
--  sister of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Issachar ([[H3485]]) and Zebulun ([[H2074]])
--  half-sister of: Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
-
+-  daughter of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)
+-  sister of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**) and Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**)
+-  half-sister of: Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)

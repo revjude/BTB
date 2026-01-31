@@ -4,11 +4,11 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Shashai</span> was one of the Israelites who had married a foreign woman and agreed to divorce her as part of Ezra's religious reforms.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.40|Ezr.10.40]]; 
-- only referred to as Shashai<[[H8343]]> \(<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Shashai **<big>[[H8343|שָׁשַׁי]]</big>**.
 
 Shashai, mentioned in [[Ezra.10.40|Ezra 10:40]], was one of the Israelites who had married a foreign woman during the time of Ezra. Following the Babylonian exile, when the Israelites returned to Jerusalem, Ezra discovered that many of them, including priests and Levites, had intermarried with the neighboring peoples. This was seen as a violation of God's law and a threat to the religious purity of the community. Ezra called for an assembly of the people and urged them to confess their sins and separate themselves from their foreign wives. Shashai was among those who agreed to divorce his foreign wife as part of this religious reform. The text does not provide any further details about Shashai's background or the specific circumstances of his marriage. However, his inclusion in the list of those who divorced their foreign wives highlights the importance of maintaining religious purity and the challenges faced by the Israelites in the post-exilic period.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shashai | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H8343) <small>*Hebrew*</small> | 1x | [Ezr.10.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shashai\*\|reference=Ezr.10.40) |
-All Strong's for **Shashai**: \[[[H8343]]\]
+| Shashai | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H8343) | 1x | [Ezr.10.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shashai\*\|reference=Ezr.10.40) |
+All entries for **Shashai**:  **<big>[[H8343|שָׁשַׁי]]</big>**

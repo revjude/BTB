@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">γραφή</span></span>, <span class="asgreek">-ῆς, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">γράφω</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">כְּתָב</span> <small><sup>[[H3791]]</sup></small> ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">γραφή</span></span>, <span class="asgreek">-ῆς, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">γράφω</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H3791|כְּתָב]]</big>** ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a drawing, painting</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> </span>

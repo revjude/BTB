@@ -89,7 +89,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.30|30]]**<span class="
 
 [^24]: [[Num.26|Num 26:35-36]]
 
-[^25]: Or rather, "when <span class="asgreek"><span class='asgreek'>λι</span></span> (<span class="ashebrew">‎כִּי‎</span><sup><small>[[H3588]]</small></sup>), (***kee***) they came down to take away their cattle;" for it does not appear that the sons of Ephraim were the aggressors, but the men of Gath, who appear to have been born in Egypt. This is the only place in the Sacred Writings where this piece of history is mentioned, and the transaction seems to have happened before the Israelites came out of Egypt; for it appears from the following verse, that Ephraim was alive when these children of his were slain.
+[^25]: Or rather, "when <span class="asgreek"><span class='asgreek'>λι</span></span> ( [[H3588|‎כִּי‎]] ), (***kee***) they came down to take away their cattle;" for it does not appear that the sons of Ephraim were the aggressors, but the men of Gath, who appear to have been born in Egypt. This is the only place in the Sacred Writings where this piece of history is mentioned, and the transaction seems to have happened before the Israelites came out of Egypt; for it appears from the following verse, that Ephraim was alive when these children of his were slain.
 
 [^26]: [[Gen.37|Gen 37:34]]
 
@@ -131,6 +131,6 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.30|30]]**<span class="
 
 [^45]: [[1Chr.7|1Chr 7:32]], Shomer
 
-[^46]: This name is essentially the same, the variation being caused by a paragogic <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***. Here it is written <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψο</span></span> (<span class="ashebrew">‎יִתְרָן‎</span><sup><small>[[H3506]]</small></sup>), ***Ithran***, and in the following verse <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span></span> (<span class="ashebrew">‎יֶתֶר‎</span><sup><small>[[H3500]]</small></sup>), ***Jether***. [[1Chr.7|1Chr 7:38]], Jether
+[^46]: This name is essentially the same, the variation being caused by a paragogic <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***. Here it is written <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψο</span></span> ( [[H3506|‎יִתְרָן‎]] ), ***Ithran***, and in the following verse <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span></span> ( [[H3500|‎יֶתֶר‎]] ), ***Jether***. [[1Chr.7|1Chr 7:38]], Jether
 
 [^47]: [[1Chr.21|1Chr 21:1-5]]; [[2Sam.24|2Sam 24:1-9]]

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בִּלְדַּד‎</span></big> **Bildad** <small>*(bil-dad')*</small> ==**Bildad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בִּלְדַּד‎</span></big>** **Bildad** <small>*(bil-dad')*</small> ==**Bildad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Bildad.

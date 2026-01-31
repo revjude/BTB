@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Goshen</span> was the region in Egypt where Jacob and his family settled during the time of Joseph, and where the Israelites lived and prospered until the Exodus \([[Gen.45.10|Genesis 45:10]]; 46:28-29, 34; 47:1, 4, 6, 27; 50:8; [[Exod.8.22|Exodus 8:22]]; 9:26\).
 - A location first mentioned at [[Gen.45.10|Gen.45.10]]; 
-- only referred to as Goshen<[[H1657G]]> \(<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Goshen **<big>[[H1657|גֹּשֶׁן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.72850163814402,31.80469223616506&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Goshen was a fertile region in the eastern Nile Delta of Egypt, where Israel \(o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Goshen | [<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>](H1657G) <small>*Hebrew*</small> | 12x | [[Gen.45.10] ... [Exo.9.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goshen\*\|reference=Gen.45.10;Gen.46.28;Gen.46.28;Gen.46.29;Gen.46.34;Gen.47.1;Gen.47.4;Gen.47.6;Gen.47.27;Gen.50.8;Exo.8.22;Exo.9.26) |
-All Strong's for **Goshen**: \[[[H1657G]]\]
+| Goshen | [<span class='tipnrLangHebrew'>ג</span>ֹּ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ן</span>](H1657G) | 12x | [[Gen.45.10] ... [Exo.9.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Goshen\*\|reference=Gen.45.10;Gen.46.28;Gen.46.28;Gen.46.29;Gen.46.34;Gen.47.1;Gen.47.4;Gen.47.6;Gen.47.27;Gen.50.8;Exo.8.22;Exo.9.26) |
+All entries for **Goshen**:  **<big>[[H1657|גֹּשֶׁן]]</big>**

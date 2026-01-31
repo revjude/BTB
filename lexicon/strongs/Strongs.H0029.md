@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִיָּה‎</span></big> **ʼĂbîyâh** <small>*(ab-ee-yaw')*</small> ==**Abijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or prolonged <span class="ashebrew">אֲבִיָּהוּ</span> **ʼĂbîyâhûw** <small>*(abee-yaw'-hoo)*</small> ; from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; father (i.e. worshipper) of Jah</small>
+**<big><span class="ashebrew">‎אֲבִיָּה‎</span></big>** **ʼĂbîyâh** <small>*(ab-ee-yaw')*</small> ==**Abijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or prolonged **<big><span class="ashebrew">אֲבִיָּהוּ</span></big>** **ʼĂbîyâhûw** <small>*(abee-yaw'-hoo)*</small> ; from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; father (i.e. worshipper) of Jah</small>
 
 $\quad$ Abiah, Abijah.
 - § Abia or Abiah or Abijah = *"Jehovah is (my) father"*
@@ -12,6 +12,6 @@ $\quad$ Abiah, Abijah.
 **5)** head of a priestly house (one of the 24 Levite groups)
 **6)** head of a priestly house (after the exile)
 **7)** wife of Hezron
-**8)** mother of Hezekiah (cf <span class="ashebrew">אֲבִי</span><sup><small>[[H0021]]</small></sup>)
+**8)** mother of Hezekiah (cf **<big>[[H0021|אֲבִי]]</big>**)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀβιά</span><sup><small>[[G0007]]</small></sup>
+<small>See Greek: </small>**<big>[[G0007|Ἀβιά]]</big>**

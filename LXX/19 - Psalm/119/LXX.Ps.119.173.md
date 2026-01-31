@@ -7,18 +7,18 @@ Let thine hand help me; for I have chosen thy precepts.
 May Your hand be ready to help me, for I have chosen Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.173|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.172|<< Psalm 119:172]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.174|Psalm 119:174 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be | <big><span class="asgreek">γενέσθω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαί</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I took up | <big><span class="asgreek">ηρετισάμην</span></big> <sup><small><small>[[G0140]]</small></small></sup> |
+| be | **<big>[[G1096\|γενέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαί]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I took up | **<big>[[G0140\|ηρετισάμην]]</big>** |
 [[Ps.119.173|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.172|<< Psalm 119:172]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.174|Psalm 119:174 >>]]</td></tr></table>
 
 

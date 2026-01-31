@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎לֵוִי‎</span></big> **Lêvîy** <small>*(lay-vee')*</small> ==**Levite**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎לִוְיָה‎</span><sup><small>[[H3880]]</small></sup></small>
+**<big><span class="asaramaic">‎לֵוִי‎</span></big>** **Lêvîy** <small>*(lay-vee')*</small> ==**Levite**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3880|‎לִוְיָה‎]]</big>**</small>
 
 $\quad$ Levite.
 - § Levite = *see Levi "joined to"*

@@ -7,36 +7,36 @@ Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evid
 “This is what the LORD of Hosts, the God of Israel, says: Take these deeds—both the sealed copy and the open copy of the deed of purchase—and put them in a clay jar to preserve them for a long time.<small><sub>**MT:**</sub></small>
 [[Jer.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.13|<< Jeremiah 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.15|Jeremiah 32:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this possession! | <big><span class="asgreek">κτήσεως</span></big> <sup><small><small>[[G8111]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[this\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being sealed | <big><span class="asgreek">εσφραγισμένον</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being read. | <big><span class="asgreek">ανεγωνσμένον</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put \[it\] | <big><span class="asgreek">θήσεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| receptacle | <big><span class="asgreek">αγγείον</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
-| an earthenware | <big><span class="asgreek">οστράκινον</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| it should remain | <big><span class="asgreek">διαμείνη</span></big> <sup><small><small>[[G1265]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| many more | <big><span class="asgreek">πλείονας</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this possession! | **<big>[[G8111\|κτήσεως]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[this\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being sealed | **<big>[[G4972\|εσφραγισμένον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being read. | **<big>[[G0314\|ανεγωνσμένον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall put \[it\] | **<big>[[G5087\|θήσεις]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| receptacle | **<big>[[G0030\|αγγείον]]</big>** |
+| an earthenware | **<big>[[G3749\|οστράκινον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| it should remain | **<big>[[G1265\|διαμείνη]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| many more | **<big>[[G4183\|πλείονας]]</big>** |
 [[Jer.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.13|<< Jeremiah 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.15|Jeremiah 32:15 >>]]</td></tr></table>
 
 

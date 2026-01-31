@@ -1,8 +1,8 @@
 <small>*Shoa • People group mentioned in Ezekiel's prophecy*</small>
 
 <span class='tipnrhighlight'>Shoa</span> was a people group mentioned along with the Babylonians, Chaldeans, and Assyrians in Ezekiel's prophecy against Jerusalem \(Ezek. 23:23\).
-- A location near Ecbatana<[[H0307]]> only mentioned at [[Ezek.23.23|Ezk.23.23]]; 
-- only referred to as Shoa<[[H7772]]> \(<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ\).
+- A location near Ecbatana **<big>[[H0307|אַחְמְתָא]]</big>** only mentioned at [[Ezek.23.23|Ezk.23.23]]; 
+- only referred to as Shoa **<big>[[H7772|שׁוֹעַ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.798311,48.514966&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shoa is mentioned briefly in the book of Ezekiel, in the context of a prophecy a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shoa | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ](H7772) <small>*Hebrew*</small> | 1x | [Ezk.23.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shoa\*\|reference=Ezk.23.23) |
-All Strong's for **Shoa**: \[[[H7772]]\]
+| Shoa | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ](H7772) | 1x | [Ezk.23.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shoa\*\|reference=Ezk.23.23) |
+All entries for **Shoa**:  **<big>[[H7772|שׁוֹעַ]]</big>**

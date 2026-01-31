@@ -1,4 +1,4 @@
-<small>Also see: [[H0204]]</small>
+<small>Also see: **<big>[[H0204|אוֹן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אָ֫וֶן‎</span><sub>85</sub> **noun masculine**<sup>[[Job.5.6|Job 5:6]]</sup> trouble, sorrow, wickedness — absolute [[Num.23.21|Num 23:21]] +; suffix <span class="bdbLangHebrew">‎אוֺנִי‎</span> [[Gen.35.18|Gen 35:18]] etc.; ***plural*** <span class="bdbLangHebrew">‎אוֺנִים‎</span> [[Hos.9.4|Hos 9:4]] — 
 

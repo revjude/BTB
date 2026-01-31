@@ -6,15 +6,15 @@ Then he made poles of acacia wood and overlaid them with gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.3|<< Exodus 37:3]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.5|Exodus 37:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he made  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֥עַשׂ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poles of  | <span class="ashebrew"><big>בַּדֵּ֖י </big></span><small><small><sup>[[H0905G]]</sup></small></small> &#8207;| ba.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood\<s> of  | <span class="ashebrew"><big>עֲצֵ֣י </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'a.Tzei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| acacia  | <span class="ashebrew"><big>שִׁטִּ֑ים </big></span><small><small><sup>[[H7848]]</sup></small></small> &#8207;| shi.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he overlaid  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְצַ֥ף </big></span><small><small><sup>[[H6823]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.Tzaf <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֖ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָֽב </big></span><small><small><sup>[[H2091]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poles of  |**<big>&#8207;[[H0905G\|בַּדֵּ֖י]]&#8207; </big>**| ba.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s> of  |**<big>&#8207;[[H6086G\|עֲצֵ֣י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| acacia  |**<big>&#8207;[[H7848\|שִׁטִּ֑ים]]&#8207; </big>**| shi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he overlaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6823\|יְצַ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzaf<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.3|<< Exodus 37:3]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.5|Exodus 37:5 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And
 “Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand.<small><sub>**MT:**</sub></small>
 [[Exod.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.3|<< Exodus 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.5|Exodus 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Stretch out | <big><span class="asgreek">έκτεινον</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take hold of | <big><span class="asgreek">επιλαβού</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tail! | <big><span class="asgreek">κέρκου</span></big> <sup><small><small>[[G8002]]</small></small></sup> |
-| Stretching out | <big><span class="asgreek">εκτείνας</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| he took hold of | <big><span class="asgreek">επελάβετο</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tail, | <big><span class="asgreek">κέρκου</span></big> <sup><small><small>[[G8002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand -- | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| Stretch out | **<big>[[G1614\|έκτεινον]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand, | **<big>[[G5495\|χείρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take hold of | **<big>[[G1949\|επιλαβού]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tail! | **<big>[[G8002\|κέρκου]]</big>** |
+| Stretching out | **<big>[[G1614\|εκτείνας]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand, | **<big>[[G5495\|χείρα]]</big>** |
+| he took hold of | **<big>[[G1949\|επελάβετο]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tail, | **<big>[[G8002\|κέρκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετο]]</big>** |
+| a rod | **<big>[[G4464\|ράβδος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand -- | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.3|<< Exodus 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.5|Exodus 4:5 >>]]</td></tr></table>
 
 

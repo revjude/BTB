@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Iddo</span>, also known as Adaia, was a priest who returned to Jerusalem with Zerubbabel and was head of a priestly family during the time of Joiakim.
 - A priest living at the time of Exile and Return, first mentioned at [[Neh.12.4|Neh.12.4]]; 
-- referred to as Iddo<[[H5714K]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ\), or Iddo \(=Qere. Ketiv=Adaia\) <[[H5714K]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>\), or Adaia \(=Ketiv\) <[[H5718O]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>\).
+- referred to as Iddo **<big>[[H5714|עִדּוֹ]]</big>**, or Iddo \(=Qere. Ketiv=Adaia\)  **<big>[[H5714|עִדּוֹ]]</big>**, or Adaia \(=Ketiv\)  **<big>[[H5718|עֲדָיָה]]</big>**.
 
 Iddo, also referred to as Adaia, is mentioned in [[Neh.12.4|Nehemiah 12:4]] and 12:16 as a priest who returned to Jerusalem with Zerubbabel, the governor of Judah, after the Babylonian exile. He is listed among the priests who came back to Jerusalem to help rebuild the city and restore the temple worship. 
 
@@ -18,7 +18,7 @@ Iddo's involvement in the restoration of the temple and his leadership role amon
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Iddo | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H5714K) <small>*Hebrew*</small> | 1x | [Neh.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.4) |
-| Iddo (=Qere. Ketiv=Adaia) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5714K) <small>*Hebrew*</small> | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
-| Adaia (=Ketiv) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5718O) <small>*Hebrew*</small> | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
-All Strong's for **Iddo or Adaia**: \[[[H5714K]]\] \[[[H5718O]]\]
+| Iddo | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H5714K) | 1x | [Neh.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.4) |
+| Iddo (=Qere. Ketiv=Adaia) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5714K) | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
+| Adaia (=Ketiv) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5718O) | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
+All entries for **Iddo or Adaia**:  **<big>[[H5714|עִדּוֹ]]</big>** ☩  **<big>[[H5718|עֲדָיָה]]</big>**

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎חׇגְלָה‎</span></big> **Choglâh** <small>*(khog-law')*</small> ==**Hoglah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎חׇגְלָה‎</span></big>** **Choglâh** <small>*(khog-law')*</small> ==**Hoglah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>of uncertain derivation; probably a partridge</small>
 
-$\quad$ Hoglah. See also <span class="ashebrew">‎בֵּית חׇגְלָה‎</span><sup><small>[[H1031]]</small></sup>.
+$\quad$ Hoglah. See also **<big>[[H1031|‎בֵּית חׇגְלָה‎]]</big>**.
 - § Hoglah = *"partridge"*
 - ***Choglah***, an Israelitess
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂפָה‎</span></big> **sâphâh** <small>*(saw-faw')*</small> ==**lips**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (in dual and plural) <span class="ashebrew">שֶׂפֶת</span> **sepheth** <small>*(sef-eth')*</small>; probably from <span class="ashebrew">‎סָפָה‎</span><sup><small>[[H5595]]</small></sup> or <span class="ashebrew">‎שָׁפָה‎</span><sup><small>[[H8192]]</small></sup> through the idea of termination (compare <span class="ashebrew">‎סוֹף‎</span><sup><small>[[H5490]]</small></sup>)</small>
+**<big><span class="ashebrew">‎שָׂפָה‎</span></big>** **sâphâh** <small>*(saw-faw')*</small> ==**lips**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (in dual and plural) **<big><span class="ashebrew">שֶׂפֶת</span></big>** **sepheth** <small>*(sef-eth')*</small>; probably from **<big>[[H5595|‎סָפָה‎]]</big>** or **<big>[[H8192|‎שָׁפָה‎]]</big>** through the idea of termination (compare **<big>[[H5490|‎סוֹף‎]]</big>**)</small>
 
 $\quad$ band, bank, binding, border, brim, brink, edge, language, lip, prating, (sea-)shore, side, speech, talk, (vain) words.
 - ***the lip*** (as a natural boundary)
@@ -11,4 +11,4 @@ $\quad$ **1a)** lip (as body part)
 $\quad$ **1b)** language
 $\quad$ **1c)** edge, shore, bank (of cup, sea, river, etc)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γλῶσσα</span><sup><small>[[G1100]]</small></sup> · <span class="asgreek">λόγος</span><sup><small>[[G3056]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">στόμα</span><sup><small>[[G4750]]</small></sup> · <span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup> · <span class="asgreek">χεῖλος</span><sup><small>[[G5491]]</small></sup>
+<small>See Greek: </small>**<big>[[G1100|γλῶσσα]]</big>** · **<big>[[G3056|λόγος]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G4750|στόμα]]</big>** · **<big>[[G5456|φωνή]]</big>** · **<big>[[G5491|χεῖλος]]</big>**

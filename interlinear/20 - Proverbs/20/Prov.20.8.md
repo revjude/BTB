@@ -6,17 +6,17 @@ A king who sits on a throne to judge sifts out all evil with his eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.7|<< Proverbs 20:7]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.9|Proverbs 20:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a king  | <span class="ashebrew"><big>מֶ֗לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] sits  | <span class="ashebrew"><big>יוֹשֵׁ֥ב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.Shev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a throne of  | <span class="ashebrew"><big>כִּסֵּא </big></span><small><small><sup>[[H3678G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki.se'- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgment  | <span class="ashebrew"><big>דִ֑ין </big></span><small><small><sup>[[H1779]]</sup></small></small> &#8207;| Din <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] winnowing  | <span class="ashebrew"><big>מְזָרֶ֖ה </big></span><small><small><sup>[[H2219]]</sup></small></small> &#8207;| me.za.Reh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with eyes his  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵינָ֣י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'ei.Na <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָֽע </big></span><small><small><sup>[[H7451H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶ֗לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] sits  |**<big>&#8207;[[H3427\|יוֹשֵׁ֥ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a throne of  |**<big>&#8207;[[H3678G\|כִּסֵּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki.se'-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgment  |**<big>&#8207;[[H1779\|דִ֑ין]]&#8207; </big>**| Din<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] winnowing  |**<big>&#8207;[[H2219\|מְזָרֶ֖ה]]&#8207; </big>**| me.za.Reh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with eyes his  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869A\|עֵינָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451H\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.7|<< Proverbs 20:7]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.9|Proverbs 20:9 >>]]</td></tr></table>
 
 

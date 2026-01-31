@@ -11,18 +11,18 @@ He rained down manna for them to eat; He gave them grain from heaven.<small><su
 > $\quad$ referenced by: [[John.6.31|John 6:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rained upon | <big><span class="asgreek">έβρεξεν</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| manna | <big><span class="asgreek">μάννα</span></big> <sup><small><small>[[G3131]]</small></small></sup> |
-| to eat; | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| rained upon | **<big>[[G1026\|έβρεξεν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| manna | **<big>[[G3131\|μάννα]]</big>** |
+| to eat; | **<big>[[G2068\|φαγείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] bread | **<big>[[G0740\|άρτον]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ps.78.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.23|<< Psalm 78:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.25|Psalm 78:25 >>]]</td></tr></table>
 
 

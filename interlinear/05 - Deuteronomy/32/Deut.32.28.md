@@ -6,16 +6,16 @@ Israel is a nation devoid of counsel, with no understanding among them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.27|<< Deuteronomy 32:27]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.29|Deuteronomy 32:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a nation  | <span class="ashebrew"><big>ג֛וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perishing  | <span class="ashebrew"><big>אֹבַ֥ד </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| 'o.Vad <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of counsel\<s>  | <span class="ashebrew"><big>עֵצ֖וֹת </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| e.Tzot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֑מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> them  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] understanding  | <span class="ashebrew"><big>תְּבוּנָֽה </big></span><small><small><sup>[[H8394]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.vu.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a nation  |**<big>&#8207;[[H1471A\|ג֛וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perishing  |**<big>&#8207;[[H0006\|אֹבַ֥ד]]&#8207; </big>**| 'o.Vad<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of counsel\<s>  |**<big>&#8207;[[H6098\|עֵצ֖וֹת]]&#8207; </big>**| e.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֑מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] understanding  |**<big>&#8207;[[H8394\|תְּבוּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.27|<< Deuteronomy 32:27]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.29|Deuteronomy 32:29 >>]]</td></tr></table>
 
 

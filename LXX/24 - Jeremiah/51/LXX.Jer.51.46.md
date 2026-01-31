@@ -7,42 +7,42 @@ And lest your heart faint, and ye fear for the rumour that shall be heard in the
 Do not let your heart grow faint, and do not be afraid when the rumor is heard in the land; for a rumor will come one year—and then another the next year—of violence in the land and of ruler against ruler.<small><sub>**MT:**</sub></small>
 [[Jer.51.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.45|<< Jeremiah 51:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.47|Jeremiah 51:47 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| should be consumed | <big><span class="asgreek">απαλωθή</span></big> <sup><small><small>[[G6397]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should be afraid | <big><span class="asgreek">φοβηθήτε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| report | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall be heard | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[the\] report | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[another\] report; | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| misery | <big><span class="asgreek">ταλαιπωρία</span></big> <sup><small><small>[[G5004]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iniquity | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one dominating | <big><span class="asgreek">κυριεύων</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] one dominating. | <big><span class="asgreek">κυριεύοντα</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
+| Lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| should be consumed | **<big>[[G6397\|απαλωθή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should be afraid | **<big>[[G5399\|φοβηθήτε]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| report | **<big>[[G0189\|ακοήν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| shall be heard | **<big>[[G0191\|ακουσθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| \[the\] report | **<big>[[G0189\|ακοή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| year | **<big>[[G1763\|ενιαυτόν]]</big>** |
+| \[another\] report; | **<big>[[G0189\|ακοή]]</big>** |
+| misery | **<big>[[G5004\|ταλαιπωρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iniquity | **<big>[[G0093\|αδικία]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one dominating | **<big>[[G2961\|κυριεύων]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \[the\] one dominating. | **<big>[[G2961\|κυριεύοντα]]</big>** |
 [[Jer.51.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.45|<< Jeremiah 51:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.47|Jeremiah 51:47 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶקֶם‎</span></big> **Reqem** <small>*(reh'-kem)*</small> ==**Rekem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָקַם‎</span><sup><small>[[H7551]]</small></sup>; versi-color</small>
+**<big><span class="ashebrew">‎רֶקֶם‎</span></big>** **Reqem** <small>*(reh'-kem)*</small> ==**Rekem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7551|‎רָקַם‎]]</big>**; versi-color</small>
 
 $\quad$ Rekem.
 - § Rekem = *"variegation"*

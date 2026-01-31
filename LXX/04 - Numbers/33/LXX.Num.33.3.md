@@ -7,37 +7,37 @@ And they departed from Rameses in the first month, on the fifteenth day of the f
 On the fifteenth day of the first month, on the day after the Passover, the Israelites set out from Rameses. They marched out defiantly in full view of all the Egyptians,<small><sub>**MT:**</sub></small>
 [[Num.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.2|<< Numbers 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.4|Numbers 33:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Departing | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Rameses | <big><span class="asgreek">Ραμεσσή</span></big> <sup><small><small>[[H7486]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifteenth | <big><span class="asgreek">πεντεκαιδεκάτη</span></big> <sup><small><small>[[G4003]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passover | <big><span class="asgreek">πάσχα</span></big> <sup><small><small>[[G3957]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| a high | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians. | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Departing | **<big>[[G0522\|απήραν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Rameses | **<big>[[H7486\|Ραμεσσή]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| first | **<big>[[G4413\|πρώτω]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| fifteenth | **<big>[[G4003\|πεντεκαιδεκάτη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| first | **<big>[[G4413\|πρώτου]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| next day | **<big>[[G1887\|επαύριον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| passover | **<big>[[G3957\|πάσχα]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| a high | **<big>[[G5308\|υψηλή]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Egyptians. | **<big>[[G0125\|Αιγυπτίων]]</big>** |
 [[Num.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.2|<< Numbers 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.4|Numbers 33:4 >>]]</td></tr></table>
 
 

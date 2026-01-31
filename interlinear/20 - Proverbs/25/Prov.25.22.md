@@ -10,17 +10,17 @@ For in so doing, you will heap burning coals on his head, and the LORD will rewa
 > $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| burning coals  | <span class="ashebrew"><big>גֶֽחָלִ֗ים </big></span><small><small><sup>[[H1513]]</sup></small></small> &#8207;| ge.cha.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֭תָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will] snatch up  | <span class="ashebrew"><big>חֹתֶ֣ה </big></span><small><small><sup>[[H2846]]</sup></small></small> &#8207;| cho.Teh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head his  | <span class="ashebrew"><big>רֹאשׁ֑ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ro.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Yahweh  | <span class="ashebrew"><big>וַֽ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will repay  | <span class="ashebrew"><big>יְשַׁלֶּם </big></span><small><small><sup>[[H7999A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.sha.lem- <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burning coals  |**<big>&#8207;[[H1513\|גֶֽחָלִ֗ים]]&#8207; </big>**| ge.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַ֭תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will] snatch up  |**<big>&#8207;[[H2846\|חֹתֶ֣ה]]&#8207; </big>**| cho.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7218A\|רֹאשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  |**<big>&#8207;[[H9002\|וַֽ֝]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will repay  |**<big>&#8207;[[H7999A\|יְשַׁלֶּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.sha.lem-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.21|<< Proverbs 25:21]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.23|Proverbs 25:23 >>]]</td></tr></table>
 
 

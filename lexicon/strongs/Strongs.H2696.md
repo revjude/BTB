@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶצְרוֹן‎</span></big> **Chetsrôwn** <small>*(khets-rone')*</small> ==**Hezron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצֵר‎</span><sup><small>[[H2691]]</small></sup>; court-yard</small>
+**<big><span class="ashebrew">‎חֶצְרוֹן‎</span></big>** **Chetsrôwn** <small>*(khets-rone')*</small> ==**Hezron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2691|‎חָצֵר‎]]</big>**; court-yard</small>
 
 $\quad$ Hezron.
 - § Hezron = *"surrounded by a wall"*
@@ -12,4 +12,4 @@ n pr m
 n pr loc
 **3)** a place in the extreme south of Judah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐσρώμ</span><sup><small>[[G2074]]</small></sup>
+<small>See Greek: </small>**<big>[[G2074|Ἐσρώμ]]</big>**

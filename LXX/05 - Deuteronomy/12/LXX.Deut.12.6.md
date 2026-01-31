@@ -10,36 +10,36 @@ And thither ye shall bring your burnt offerings, and your sacrifices, and your t
 To that place you are to bring your burnt offerings and sacrifices, your tithes and heave offerings, your vow offerings and freewill offerings, as well as the firstborn of your herds and flocks.<small><sub>**MT:**</sub></small>
 [[Deut.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.5|<< Deuteronomy 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.7|Deuteronomy 12:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring | <big><span class="asgreek">οίσετε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| of yours, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sacrifices, | <big><span class="asgreek">θυσιάσματα</span></big> <sup><small><small>[[G7701]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tenths, | <big><span class="asgreek">δεκάτας</span></big> <sup><small><small>[[G1181]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your vow \[offerings\], | <big><span class="asgreek">ευχάς</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voluntary \[offerings\], | <big><span class="asgreek">εκούσια</span></big> <sup><small><small>[[G1595]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your acknowledgment \[offerings\], | <big><span class="asgreek">ομολογίας</span></big> <sup><small><small>[[G3671]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall bring | **<big>[[G5342\|οίσετε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| of yours, | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sacrifices, | **<big>[[G7701\|θυσιάσματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your tenths, | **<big>[[G1181\|δεκάτας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your vow \[offerings\], | **<big>[[G2171\|ευχάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your voluntary \[offerings\], | **<big>[[G1595\|εκούσια]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your acknowledgment \[offerings\], | **<big>[[G3671\|ομολογίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your oxen, | **<big>[[G1016\|βοών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your sheep. | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Deut.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.5|<< Deuteronomy 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.7|Deuteronomy 12:7 >>]]</td></tr></table>
 
 

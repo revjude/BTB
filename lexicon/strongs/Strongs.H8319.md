@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁרַק‎</span></big> **shâraq** <small>*(shaw-rak')*</small> ==**to whistle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁרַק‎</span></big>** **shâraq** <small>*(shaw-rak')*</small> ==**to whistle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ hiss.

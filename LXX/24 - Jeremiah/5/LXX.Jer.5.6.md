@@ -7,42 +7,42 @@ Wherefore a lion out of the forest shall slay them, [and] a wolf of the evenings
 Therefore a lion from the forest will strike them down, a wolf from the desert will ravage them. A leopard will lie in wait near their cities, and everyone who ventures out will be torn to pieces. For their rebellious acts are many, and their unfaithful deeds are numerous.<small><sub>**MT:**</sub></small>
 [[Jer.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.5|<< Jeremiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.7|Jeremiah 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| smote | <big><span class="asgreek">έπαισεν</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forest; | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] wolf | <big><span class="asgreek">λύκος</span></big> <sup><small><small>[[G3074]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[their\] houses | <big><span class="asgreek">οικιών</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| annihilated | <big><span class="asgreek">ωλόθρευσεν</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a leopard | <big><span class="asgreek">πάρδαλις</span></big> <sup><small><small>[[G3917]]</small></small></sup> |
-| acted vigilant | <big><span class="asgreek">εγρηγόρησεν</span></big> <sup><small><small>[[G1127]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cities. | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενοι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be hunted; | <big><span class="asgreek">θηρεύσονται</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they multiplied | <big><span class="asgreek">επλήθυναν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| their impiety, | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they strengthened | <big><span class="asgreek">ίσχυσαν</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rejection. | <big><span class="asgreek">αποστροφαίς</span></big> <sup><small><small>[[G6493]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| smote | **<big>[[G3817\|έπαισεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| forest; | **<big>[[G6971\|δρυμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] wolf | **<big>[[G3074\|λύκος]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| \[their\] houses | **<big>[[G3614\|οικιών]]</big>** |
+| annihilated | **<big>[[G3645\|ωλόθρευσεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a leopard | **<big>[[G3917\|πάρδαλις]]</big>** |
+| acted vigilant | **<big>[[G1127\|εγρηγόρησεν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their cities. | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενοι]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| shall be hunted; | **<big>[[G2340\|θηρεύσονται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they multiplied | **<big>[[G4129\|επλήθυναν]]</big>** |
+| their impiety, | **<big>[[G0763\|ασεβείας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they strengthened | **<big>[[G2480\|ίσχυσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their rejection. | **<big>[[G6493\|αποστροφαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.5|<< Jeremiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.7|Jeremiah 5:7 >>]]</td></tr></table>
 
 

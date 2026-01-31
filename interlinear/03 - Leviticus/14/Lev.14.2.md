@@ -10,17 +10,17 @@ This shall be the law of the leper in the day of his cleansing: He shall be brou
 > $\quad$ referenced by: [[Matt.8.4|Matt 8:4]] ☩ [[Mark.1.44|Mark 1:44]] ☩ [[Luke.5.14|Luke 5:14]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֹ֤את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  | <span class="ashebrew"><big>תִּֽהְיֶה֙ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] legal [procedure] of  | <span class="ashebrew"><big>תּוֹרַ֣ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the [one who] has a serious skin disease  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מְּצֹרָ֔ע </big></span><small><small><sup>[[H6879]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> me.tzo.Ra' <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֖וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purification his  | <span class="ashebrew"><big>טָהֳרָת֑ </big></span><small><small><sup>[[H2893]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| to.ho.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will be brought  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הוּבָ֖א </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hu.Va' <small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priest  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֵֽן </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Hen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֤את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶה֙]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] legal [procedure] of  |**<big>&#8207;[[H8451\|תּוֹרַ֣ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one who] has a serious skin disease  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6879\|מְּצֹרָ֔ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.tzo.Ra'<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֖וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purification his  |**<big>&#8207;[[H2893\|טָהֳרָת֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| to.ho.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be brought  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הוּבָ֖א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.Va'<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.1|<< Leviticus 14:1]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.3|Leviticus 14:3 >>]]</td></tr></table>
 
 

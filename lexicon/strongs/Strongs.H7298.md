@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רַהַט‎</span></big> **rahaṭ** <small>*(rah'-hat)*</small> ==**trough**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎רַהַט‎</span></big>** **rahaṭ** <small>*(rah'-hat)*</small> ==**trough**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root apparently meaning to hollow out</small>
 
 $\quad$ gallery, gutter, trough.
@@ -9,4 +9,4 @@ $\quad$ gallery, gutter, trough.
 **2)** lock of hair
 $\quad$ **2a)** meaning dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ληνός</span><sup><small>[[G3025]]</small></sup>
+<small>See Greek: </small>**<big>[[G3025|ληνός]]</big>**

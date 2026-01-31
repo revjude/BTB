@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶמֶת‎</span></big> **ʼemeth** <small>*(eh'-meth)*</small> ==**truth: faithful**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>contracted from <span class="ashebrew">‎אָמַן‎</span><sup><small>[[H0539]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶמֶת‎</span></big>** **ʼemeth** <small>*(eh'-meth)*</small> ==**truth: faithful**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>contracted from **<big>[[H0539|‎אָמַן‎]]</big>**</small>
 
 $\quad$ assured(-ly), establishment, faithful, right, sure, true (-ly, -th), verity.
 - ***stability***
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d5)** true doctrine
 adv
 **2)** in truth, truly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλήθεια</span><sup><small>[[G0225]]</small></sup> · <span class="asgreek">ἀληθεύω</span><sup><small>[[G0226]]</small></sup> · <span class="asgreek">ἀληθής</span><sup><small>[[G0227]]</small></sup> · <span class="asgreek">ἀληθινός</span><sup><small>[[G0228]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δικαιοσύνη</span><sup><small>[[G1343]]</small></sup> · <span class="asgreek">ἐλεημοσύνη</span><sup><small>[[G1654]]</small></sup>
+<small>See Greek: </small>**<big>[[G0225|ἀλήθεια]]</big>** · **<big>[[G0226|ἀληθεύω]]</big>** · **<big>[[G0227|ἀληθής]]</big>** · **<big>[[G0228|ἀληθινός]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1343|δικαιοσύνη]]</big>** · **<big>[[G1654|ἐλεημοσύνη]]</big>**

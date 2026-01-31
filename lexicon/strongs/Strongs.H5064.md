@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָגַר‎</span></big> **nâgar** <small>*(naw-gar')*</small> ==**to pour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָגַר‎</span></big>** **nâgar** <small>*(naw-gar')*</small> ==**to pour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fall, flow away, pour down (out), run, shed, spilt, trickle down.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1a4)** to be stretched out
 $\quad$ **1b)** (Hiphil) to pour down
 $\quad$ **1c)** (Hophal) to melt
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">καταπίνω</span><sup><small>[[G2666]]</small></sup> · <span class="asgreek">καταφέρω</span><sup><small>[[G2702]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup>
+<small>See Greek: </small>**<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G2666|καταπίνω]]</big>** · **<big>[[G2702|καταφέρω]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4867|συναθροίζω]]</big>**

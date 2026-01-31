@@ -1,8 +1,8 @@
 <small>*Jeruel • A wilderness where Jehoshaphat defeated his enemies*</small>
 
 The Wilderness of <span class='tipnrhighlight'>Jeruel</span>, where Jehoshaphat and Judah defeated their enemies \([[2Chr.20.16|2 Chronicles 20:16]]\).
-- A location near Ziz<[[H6732]]> only mentioned at [[2Chr.20.16|2Ch.20.16]]; 
-- only referred to as Jeruel<[[H3385]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Ziz **<big>[[H6732|צִיץ]]</big>** only mentioned at [[2Chr.20.16|2Ch.20.16]]; 
+- only referred to as Jeruel **<big>[[H3385|יְרוּאֵל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.572903,35.406346&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Wilderness of Jeruel is mentioned in [[2Chr.20.16|2 Chronicles 20:16]] as th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jeruel | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3385) <small>*Hebrew*</small> | 1x | [2Ch.20.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeruel\*\|reference=2Ch.20.16) |
-All Strong's for **Jeruel**: \[[[H3385]]\]
+| Jeruel | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3385) | 1x | [2Ch.20.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeruel\*\|reference=2Ch.20.16) |
+All entries for **Jeruel**:  **<big>[[H3385|יְרוּאֵל]]</big>**

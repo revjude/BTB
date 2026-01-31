@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁעַר‎</span></big> **shâʻar** <small>*(shaw-ar')*</small> ==**to calculate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; to split or open, i.e. (literally, but only as denominative from <span class="ashebrew">‎שַׁעַר‎</span><sup><small>[[H8179]]</small></sup>); compare see <span class="ashebrew">‎שׁוֹעֵר‎</span><sup><small>[[H7778]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁעַר‎</span></big>** **shâʻar** <small>*(shaw-ar')*</small> ==**to calculate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to split or open, i.e. (literally, but only as denominative from **<big>[[H8179|‎שַׁעַר‎]]</big>**); compare see **<big>[[H7778|‎שׁוֹעֵר‎]]</big>**</small>
 
 $\quad$ think.
 - ***to act as gatekeeper***

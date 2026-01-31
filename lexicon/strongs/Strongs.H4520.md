@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְנַשִּׁי‎</span></big> **Mᵉnashshîy** <small>*(men-ash-shee')*</small> ==**Manassite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>from <span class="ashebrew">‎מְנַשֶּׁה‎</span><sup><small>[[H4519]]</small></sup></small>
+**<big><span class="ashebrew">‎מְנַשִּׁי‎</span></big>** **Mᵉnashshîy** <small>*(men-ash-shee')*</small> ==**Manassite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>from **<big>[[H4519|‎מְנַשֶּׁה‎]]</big>**</small>
 
 $\quad$ of Manasseh, Manassites.
 - § Manassites = *Manasseh "causing to forget"*

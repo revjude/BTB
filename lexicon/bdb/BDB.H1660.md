@@ -1,4 +1,4 @@
-<small>Also see: [[H1661]] | [[H1663]]</small>
+<small>Also see: **<big>[[H1661|גַּת]]</big>** | **<big>[[H1663|גִּתִּי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎גַּת‎</span> wine-press. <span class="bdbLangHebrew">‎גַּת‎</span> **proper name** <span class="bdbLangHebrew">‎גִּתִּי‎</span> **adjective, of a people** 
 

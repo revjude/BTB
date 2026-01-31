@@ -1,4 +1,2 @@
-<span class="ashebrew">‎כַּסְלֻחִים‎</span> <small>***(kas.lu.chim)***</small> ==**Casluhim**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-- People descended from Casluch(?) of the Egyptians, first mentioned at [[Gen.10.14|Gen.10.14]] descended from Egypt ([[H4714]]); along with Ludim ([[H3866]]), Anamim ([[H6047]]), Lehabim ([[H3853]]), Naphtuhim ([[H5320]]), Pathrusim ([[H6625]]) and Caphtorim ([[H3732]])
--  progenitors of: the Philistine ([[H6430]])
-
+- People descended from Casluch of the Egyptians, first mentioned at [[Gen.10.14|Gen.10.14]] descended from Egypt (**<big>[[H4714|מִצְרַיִם]]</big>**); along with Ludim (**<big>[[H3866|לוּדִי]]</big>**), Anamim (**<big>[[H6047|עֲנָמִים]]</big>**), Lehabim (**<big>[[H3853|לְהָבִים]]</big>**), Naphtuhim (**<big>[[H5320|נַפְתֻּחִים]]</big>**), Pathrusim (**<big>[[H6625|פַּתְרֻסִי]]</big>**) and Caphtorim (**<big>[[H3732|כַּפְתֹּרִי]]</big>**)
+-  progenitors of: the Philistine (**<big>[[H6430|פְּלִשְׁתִּי]]</big>**)

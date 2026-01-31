@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּדַּלְיָה‎</span></big> **Gᵉdalyâh** <small>*(ghed-al-yaw')*</small> ==**Gedaliah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">גְּדַלְיָהוּ</span> **Gᵉdalyâhûw** <small>*(ghed-al-yaw'-hoo)*</small>; from <span class="ashebrew">‎גָּדַל‎</span><sup><small>[[H1431]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has become great</small>
+**<big><span class="ashebrew">‎גְּדַּלְיָה‎</span></big>** **Gᵉdalyâh** <small>*(ghed-al-yaw')*</small> ==**Gedaliah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">גְּדַלְיָהוּ</span></big>** **Gᵉdalyâhûw** <small>*(ghed-al-yaw'-hoo)*</small>; from **<big>[[H1431|‎גָּדַל‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has become great</small>
 
 $\quad$ Gedaliah.
 - § Gedaliah = *"Jehovah is great"*

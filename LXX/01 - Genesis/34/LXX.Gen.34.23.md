@@ -7,29 +7,29 @@ And  their cattle, and the four-footed \[animals\], and  their possessions -- be
 Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”<small><sub>**MT:**</sub></small>
 [[Gen.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cattle, | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[animals\], | <big><span class="asgreek">τετράποδα</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their possessions -- | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ours | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Only | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| should we be like | <big><span class="asgreek">ομοιωθώμεν</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will live | <big><span class="asgreek">οικήσουσι</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their cattle, | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| four-footed \[animals\], | **<big>[[G5074\|τετράποδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their possessions -- | **<big>[[G5225\|υπάρχοντα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| ours | **<big>[[G1473\|ημών]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| Only | **<big>[[G3440\|μόνον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this, | **<big>[[G3778\|τούτω]]</big>** |
+| should we be like | **<big>[[G3666\|ομοιωθώμεν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will live | **<big>[[G3611\|οικήσουσι]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us. | **<big>[[G1473\|ημών]]</big>** |
 [[Gen.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
 
 

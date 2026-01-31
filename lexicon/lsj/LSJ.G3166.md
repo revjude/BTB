@@ -1,4 +1,4 @@
-combination of: <small>[[G6094]] ([[G3173]]+[[G6094]])</small> 
+combination of: <small>**<big>[[G6094|αὐχέω]]</big>** (**<big>[[G3173|μέγας]]</big>**+**<big>[[G6094|αὐχέω]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==μεγαλαυχέω==</span>-<span class='asgreek'>αυχέω</span></b>, 

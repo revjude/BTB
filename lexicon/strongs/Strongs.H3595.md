@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּיּוֹר‎</span></big> **kîyôwr** <small>*(kee-yore')*</small> ==**basin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">כִּיֹּר</span> **kîyôr** <small>*(kee-yore')*</small>; from the same as <span class="ashebrew">‎כּוּר‎</span><sup><small>[[H3564]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּיּוֹר‎</span></big>** **kîyôwr** <small>*(kee-yore')*</small> ==**basin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">כִּיֹּר</span></big>** **kîyôr** <small>*(kee-yore')*</small>; from the same as **<big>[[H3564|‎כּוּר‎]]</big>**</small>
 
 $\quad$ hearth, laver, pan, scaffold.
 - properly, ***something round*** (as excavated or bored), i.e. ***a chafing-dish for******coals*** or ***a caldron for******cooking***
@@ -12,4 +12,4 @@ $\quad$ **1b)** fire-pot, brazier
 $\quad$ **1c)** basin, laver
 $\quad$ **1d)** platform, stage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάσις</span><sup><small>[[G0939]]</small></sup>
+<small>See Greek: </small>**<big>[[G0939|βάσις]]</big>**

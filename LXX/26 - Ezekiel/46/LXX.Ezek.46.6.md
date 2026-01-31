@@ -7,22 +7,22 @@ And in the day of the new moon [it shall be] a young bullock without blemish, an
 On the day of the New Moon he shall offer a young, unblemished bull, six lambs, and a ram without blemish.<small><sub>**MT:**</sub></small>
 [[Ezek.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new moons, | <big><span class="asgreek">νουμηνίας</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| an unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| lambs, | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a ram -- | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| they shall be unblemished; | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| new moons, | **<big>[[G3561\|νουμηνίας]]</big>** |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| an unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| lambs, | **<big>[[G0286\|αμνούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a ram -- | **<big>[[G8096\|κριόν]]</big>** |
+| they shall be unblemished; | **<big>[[G0299\|άμωμον]]</big>** **<big>[[G1510\|έσονται]]</big>** |
 [[Ezek.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 
 

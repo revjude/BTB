@@ -7,20 +7,20 @@ Thou didst blow with thy wind, the sea covered them: they sank as lead in the mi
 But You blew with Your breath, and the sea covered them. They sank like lead in the mighty waters.<small><sub>**MT:**</sub></small>
 [[Exod.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.9|<< Exodus 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.11|Exodus 15:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You sent | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your breath, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| they went down | <big><span class="asgreek">έδυσαν</span></big> <sup><small><small>[[G1416]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| lead | <big><span class="asgreek">μόλιβδος</span></big> <sup><small><small>[[G8337]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| vehement | <big><span class="asgreek">σφοδρώ</span></big> <sup><small><small>[[G9374]]</small></small></sup> |
+| You sent | **<big>[[G0649\|απέστειλας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your breath, | **<big>[[G4151\|πνεύμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| covered | **<big>[[G2572\|εκάλυψεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| they went down | **<big>[[G1416\|έδυσαν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| lead | **<big>[[G8337\|μόλιβδος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| water | **<big>[[G5204\|ύδατι]]</big>** |
+| vehement | **<big>[[G9374\|σφοδρώ]]</big>** |
 [[Exod.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.9|<< Exodus 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.11|Exodus 15:11 >>]]</td></tr></table>
 
 

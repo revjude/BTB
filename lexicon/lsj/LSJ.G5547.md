@@ -1,4 +1,4 @@
-name of: <small>[[G2424G]]</small> 
+name of: <small>**<big>[[G2424G|Ἰησοῦς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Χριστός==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

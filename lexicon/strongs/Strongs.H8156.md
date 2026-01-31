@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁסַע‎</span></big> **shâçaʻ** <small>*(shaw-sah')*</small> ==**to cleave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁסַע‎</span></big>** **shâçaʻ** <small>*(shaw-sah')*</small> ==**to cleave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cleave, (be) cloven (footed), rend, stay.
@@ -9,4 +9,4 @@ $\quad$ cleave, (be) cloven (footed), rend, stay.
 $\quad$ **1a)** (Qal) cleaving, cleft (participle)
 $\quad$ **1b)** (Piel) to tear in two, cleave in two
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διασπάω</span><sup><small>[[G1288]]</small></sup> · <span class="asgreek">ἐκκλάω</span><sup><small>[[G1575]]</small></sup> · <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup>
+<small>See Greek: </small>**<big>[[G1288|διασπάω]]</big>** · **<big>[[G1575|ἐκκλάω]]</big>** · **<big>[[G3982|πείθω]]</big>** · **<big>[[G4937|συντρίβω]]</big>**

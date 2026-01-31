@@ -7,29 +7,29 @@ And it came to pass the same day, that Isaac’s servants came, and told him con
 On that same day, Isaac’s servants came and told him about the well they had dug. “We have found water!” they told him.<small><sub>**MT:**</sub></small>
 [[Gen.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.31|<< Genesis 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.33|Genesis 26:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| coming | <big><span class="asgreek">παραγενόμενοι</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| reported | <big><span class="asgreek">απήγγειλαν</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well | <big><span class="asgreek">φρέατος</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they dug, | <big><span class="asgreek">ώρυξαν</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">έυρομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| coming | **<big>[[G3854\|παραγενόμενοι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| servants | **<big>[[G3816\|παίδες]]</big>** |
+| of Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| reported | **<big>[[G0518\|απήγγειλαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| well | **<big>[[G5421\|φρέατος]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| they dug, | **<big>[[G3736\|ώρυξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπαν]]</big>** |
+| We did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|έυρομεν]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Gen.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.31|<< Genesis 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.33|Genesis 26:33 >>]]</td></tr></table>
 
 

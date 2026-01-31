@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲפַרְסְכַי‎</span></big> **ʼĂpharçᵉkay** <small>*(af-ar-sek-ah'ee)*</small> ==**governors**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">אֲפַרְסַתְכַי</span> **ʼĂpharçathkay** <small>*(af-ar-sath-kah'ee)*</small>; (Aramaic), of foreign origin (only in the plural)</small>
+**<big><span class="ashebrew">‎אֲפַרְסְכַי‎</span></big>** **ʼĂpharçᵉkay** <small>*(af-ar-sek-ah'ee)*</small> ==**governors**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">אֲפַרְסַתְכַי</span></big>** **ʼĂpharçathkay** <small>*(af-ar-sath-kah'ee)*</small>; (Aramaic), of foreign origin (only in the plural)</small>
 
 $\quad$ Apharsachites, Apharasthchites.
 - ***an Apharsekite*** or ***Apharsathkite***, an unknown Assyrian tribe

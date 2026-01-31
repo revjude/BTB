@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵצָה‎</span></big> **ʻêtsâh** <small>*(ay-tsaw')*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎יָעַץ‎</span><sup><small>[[H3289]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵצָה‎</span></big>** **ʻêtsâh** <small>*(ay-tsaw')*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3289|‎יָעַץ‎]]</big>**</small>
 
 $\quad$ advice, advisement, counsel(l-(or)), purpose.
 - ***advice***
@@ -8,4 +8,4 @@ $\quad$ advice, advisement, counsel(l-(or)), purpose.
 
 **1)** counsel, advice, purpose
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">ἔργον</span><sup><small>[[G2041]]</small></sup> · <span class="asgreek">ὠόν</span><sup><small>[[G5609]]</small></sup>
+<small>See Greek: </small>**<big>[[G1012|βουλή]]</big>** · **<big>[[G1013|βούλημα]]</big>** · **<big>[[G2041|ἔργον]]</big>** · **<big>[[G5609|ὠόν]]</big>**

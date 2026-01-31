@@ -6,14 +6,14 @@ I am lowly and despised, but I do not forget Your precepts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.141|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.140|<< Psalms 119:140]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.142|Psalms 119:142 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [am] insignificant  | <span class="ashebrew"><big>צָעִ֣יר </big></span><small><small><sup>[[H6810]]</sup></small></small> &#8207;| tza.'Ir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹכִ֣י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [am] despised  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נִבְזֶ֑ה </big></span><small><small><sup>[[H0959]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> niv.Zeh <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precepts your  | <span class="ashebrew"><big>פִּ֝קֻּדֶ֗י </big></span><small><small><sup>[[H6490]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| pi.ku.Dei. <small><sup>[[HNcmpc]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have forgotten  | <span class="ashebrew"><big>שָׁכָֽחְתִּי </big></span><small><small><sup>[[H7911]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Kha.che.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] insignificant  |**<big>&#8207;[[H6810\|צָעִ֣יר]]&#8207; </big>**| tza.'Ir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [am] despised  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0959\|נִבְזֶ֑ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> niv.Zeh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precepts your  |**<big>&#8207;[[H6490\|פִּ֝קֻּדֶ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| pi.ku.Dei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have forgotten  |**<big>&#8207;[[H7911\|שָׁכָֽחְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Kha.che.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.140|<< Psalms 119:140]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.142|Psalms 119:142 >>]]</td></tr></table>
 
 

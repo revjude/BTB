@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קְשִׂיטָה‎</span></big> **qᵉsîyṭâh** <small>*(kes-ee-taw')*</small> ==**coin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎קְשִׂיטָה‎</span></big>** **qᵉsîyṭâh** <small>*(kes-ee-taw')*</small> ==**coin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root (probably meaning to weigh out)</small>
 
 $\quad$ piece of money (silver).
@@ -7,4 +7,4 @@ $\quad$ piece of money (silver).
 **1)** a unit of unknown value
 $\quad$ **1a)** perhaps weight, money
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμνός</span><sup><small>[[G0286]]</small></sup>
+<small>See Greek: </small>**<big>[[G0286|ἀμνός]]</big>**

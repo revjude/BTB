@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשְׂכִּיל‎</span></big> **maskîyl** <small>*(mas-keel')*</small> ==**Maskil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂכַל‎</span><sup><small>[[H7919]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשְׂכִּיל‎</span></big>** **maskîyl** <small>*(mas-keel')*</small> ==**Maskil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7919|‎שָׂכַל‎]]</big>**</small>
 
 $\quad$ Maschil.
 - ***instructive***, i.e. ***a didactic poem***

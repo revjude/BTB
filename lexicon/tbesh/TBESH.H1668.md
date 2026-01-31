@@ -1,4 +1,3 @@
-<span class="asaramaic">‎דָּא‎</span> <small>***(da)***</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H1454]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1454|גֵּה]]</big>**</small> 
 
-- Aramaic of <i>geh</i> (<span class='ashebrew'>‎ג‎</span>ֵּ<span class='ashebrew'>‎ה‎</span> "this" [[H1454]])
+- Aramaic of <i>geh</i> (<span class='ashebrew'>‎ג‎</span>ֵּ<span class='ashebrew'>‎ה‎</span> "this" **<big>[[H1454|גֵּה]]</big>**)

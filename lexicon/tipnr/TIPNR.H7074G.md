@@ -4,7 +4,7 @@ People from Keniz\(?\)
 
 The <span class='tipnrhighlight'>Kenizzites</span> were one of the Canaanite tribes inhabiting the land God promised to give to Abraham's descendants.
 - People from Keniz\(?\), only mentioned at [[Gen.15.19|Gen.15.19]]; 
-- only referred to as Kenizzites<[[H7074G]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Kenizzites **<big>[[H7074|קְנִזִּי]]</big>**.
 
 The Kenizzites are mentioned in [[Gen.15.19|Genesis 15:19]] as one of the tribes inhabiting the land that God promised to give to Abraham's descendants. They are listed among other Canaanite tribes, such as the Kenites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites, Canaanites, Girgashites, and Jebusites. 
 
@@ -14,5 +14,5 @@ Apart from this single mention in the list of Canaanite tribes, no further infor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kenizzite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>](H7074G) <small>*Hebrew*</small> | 1x | [Gen.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenizzite\*\|reference=Gen.15.19) |
-All Strong's for **Kenizzites**: \[[[H7074G]]\]
+| Kenizzite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>](H7074G) | 1x | [Gen.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenizzite\*\|reference=Gen.15.19) |
+All entries for **Kenizzites**:  **<big>[[H7074|קְנִזִּי]]</big>**

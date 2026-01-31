@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Meshech</span>, a nation descended from Japheth \(Genesis 10:2\), often mentioned together with Tubal as trading partners of Tyre \([[Ezek.27.13|Ezekiel 27:13]]\) and allies of Gog \([[Ezek.38.2|Ezekiel 38:2]], 3; 39:1\).
 - A location in Asia first mentioned at Psa.120.5; 
-- referred to as Meshech or Meshech \(KJV= Mesech, NIV= Meshek\) <[[H4902H]]> \(<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- referred to as Meshech or Meshech \(KJV= Mesech, NIV= Meshek\)  **<big>[[H4902|מֶשֶׁךְ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=46,47&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Meshech was a nation descended from Japheth, one of the sons of Noah \(Genesis 1
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Meshech (NIV= Meshek) | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ](H4902H) <small>*Hebrew*</small> | 4x | [[Ezk.27.13] ... [Ezk.39.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshech\*\|reference=Ezk.27.13;Ezk.38.2;Ezk.38.3;Ezk.39.1) |
-| Meshech (KJV= Mesech; NIV= Meshek) | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ](H4902H) <small>*Hebrew*</small> | 1x | [Psa.120.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshech\*\|reference=Psa.120.5) |
-All Strong's for **Meshech**: \[[[H4902H]]\]
+| Meshech (NIV= Meshek) | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ](H4902H) | 4x | [[Ezk.27.13] ... [Ezk.39.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshech\*\|reference=Ezk.27.13;Ezk.38.2;Ezk.38.3;Ezk.39.1) |
+| Meshech (KJV= Mesech; NIV= Meshek) | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ](H4902H) | 1x | [Psa.120.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshech\*\|reference=Psa.120.5) |
+All entries for **Meshech**:  **<big>[[H4902|מֶשֶׁךְ]]</big>**

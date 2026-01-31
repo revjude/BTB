@@ -7,30 +7,30 @@ And he made chains, [as] in the oracle, and put [them] on the heads of the pilla
 He made interwoven chains and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.<small><sub>**MT:**</sub></small>
 [[2Chr.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.15|<< 2 Chronicles 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.17|2 Chronicles 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| chain-work | <big><span class="asgreek">αλυσιδωτά</span></big> <sup><small><small>[[G6244]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dabir, | <big><span class="asgreek">δαβίρ</span></big> <sup><small><small>[[G6780]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put them | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tops | <big><span class="asgreek">κεφαλών</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns. | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| figures of pomegranates | <big><span class="asgreek">ροϊσκους</span></big> <sup><small><small>[[G9032]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[them\] | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chainwork. | <big><span class="asgreek">χαλαστών</span></big> <sup><small><small>[[G9691]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| chain-work | **<big>[[G6244\|αλυσιδωτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| dabir, | **<big>[[G6780\|δαβίρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put them | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tops | **<big>[[G2776\|κεφαλών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns. | **<big>[[G4769\|στύλων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| figures of pomegranates | **<big>[[G9032\|ροϊσκους]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[them\] | **<big>[[G5087\|έθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| chainwork. | **<big>[[G9691\|χαλαστών]]</big>** |
 [[2Chr.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.15|<< 2 Chronicles 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.17|2 Chronicles 3:17 >>]]</td></tr></table>
 
 

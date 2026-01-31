@@ -4,8 +4,8 @@ Woman living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Jael</span>, the wife of Heber the Kenite, killed Sisera, the commander of the Canaanite army, by driving a tent peg through his temple \([[Judg.4.17|Jdg.4.17]]-22; 5.24-27\).
 - A woman living before Israel's Monarchy, first mentioned at [[Judg.4.17|Jdg.4.17]]; 
-- only referred to as Jael<[[H3278]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
-- wife of Heber<[[H2268H]]>.
+- only referred to as Jael **<big>[[H3278|יָעֵל]]</big>**; 
+- wife of Heber **<big>[[H2268|חֶבֶר]]</big>**.
 
 Jael was the wife of Heber the Kenite, an ally of the Israelites during the time of the judges. She is best known for her role in the defeat of Sisera, the commander of the Canaanite army under King Jabin of Hazor \(Jdg.4.2\). 
 
@@ -19,7 +19,7 @@ Jael's story highlights the significant role that women played in the history of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jael | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3278) <small>*Hebrew*</small> | 6x | [[Jdg.4.17] ... [Jdg.5.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jael\*\|reference=Jdg.4.17;Jdg.4.18;Jdg.4.21;Jdg.4.22;Jdg.5.6;Jdg.5.24) |
-All Strong's for **Jael**: \[[[H3278]]\]
+| Jael | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3278) | 6x | [[Jdg.4.17] ... [Jdg.5.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jael\*\|reference=Jdg.4.17;Jdg.4.18;Jdg.4.21;Jdg.4.22;Jdg.5.6;Jdg.5.24) |
+All entries for **Jael**:  **<big>[[H3278|יָעֵל]]</big>**
 #### Related Profiles:
 - **[Heber](H2268H)** (spouse)

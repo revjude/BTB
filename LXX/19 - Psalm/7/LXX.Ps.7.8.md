@@ -7,23 +7,23 @@ The LORD shall judge the people: judge me, O LORD, according to my righteousness
 The LORD judges the peoples; vindicate me, O LORD, according to my righteousness and integrity.<small><sub>**MT:**</sub></small>
 [[Ps.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.7|<< Psalm 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.9|Psalm 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| judges | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| peoples. | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Judge | <big><span class="asgreek">κρίνόν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my righteousness! | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my innocence | <big><span class="asgreek">ακακίαν</span></big> <sup><small><small>[[G6177]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[judge\] for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| judges | **<big>[[G2919\|κρινεί]]</big>** |
+| peoples. | **<big>[[G2992\|λαούς]]</big>** |
+| Judge | **<big>[[G2919\|κρίνόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my righteousness! | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my innocence | **<big>[[G6177\|ακακίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[judge\] for | **<big>[[G1909\|επ΄]]</big>** |
+| me! | **<big>[[G1473\|εμοί]]</big>** |
 [[Ps.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.7|<< Psalm 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.9|Psalm 7:9 >>]]</td></tr></table>
 
 

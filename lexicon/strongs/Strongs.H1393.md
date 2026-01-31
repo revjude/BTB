@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּבְעֹנִי‎</span></big> **Gibʻônîy** <small>*(ghib-o-nee')*</small> ==**Gibeonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎גִּבְעוֹן‎</span><sup><small>[[H1391]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּבְעֹנִי‎</span></big>** **Gibʻônîy** <small>*(ghib-o-nee')*</small> ==**Gibeonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H1391|‎גִּבְעוֹן‎]]</big>**</small>
 
 $\quad$ Gibeonite.
 - § Gibeonite = *"little hill: hilly"*

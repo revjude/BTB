@@ -7,29 +7,29 @@ For I brought thee up out of the land of Egypt, and redeemed thee out of the hou
 For I brought you up from the land of Egypt and redeemed you from the house of slavery. I sent Moses before you, as well as Aaron and Miriam.<small><sub>**MT:**</sub></small>
 [[Mic.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.3|<< Micah 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.5|Micah 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I led | <big><span class="asgreek">ανήγαγόν</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt; | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of slavery | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| I ransomed | <big><span class="asgreek">ελυτρωσάμην</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent out | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Miriam. | <big><span class="asgreek">Μαριάμ</span></big> <sup><small><small>[[G3137]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| I led | **<big>[[G0321\|ανήγαγόν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt; | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of slavery | **<big>[[G1397\|δουλείας]]</big>** |
+| I ransomed | **<big>[[G3084\|ελυτρωσάμην]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sent out | **<big>[[G1821\|εξαπέστειλα]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Miriam. | **<big>[[G3137\|Μαριάμ]]</big>** |
 [[Mic.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.3|<< Micah 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.5|Micah 6:5 >>]]</td></tr></table>
 
 

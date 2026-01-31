@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שַׁעַטְנֵז‎</span></big> **shaʻaṭnêz** <small>*(shah-at-naze')*</small> ==**mixed stuff**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שַׁעַטְנֵז‎</span></big>** **shaʻaṭnêz** <small>*(shah-at-naze')*</small> ==**mixed stuff**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ garment of divers sorts, linen and wollen.

@@ -7,19 +7,19 @@ And of the Danites expert in war twenty and eight thousand and six hundred.
 From Dan: 28,600 prepared for battle.<small><sub>**MT:**</sub></small>
 [[1Chr.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.34|<< 1 Chronicles 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.36|1 Chronicles 12:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Danites | <big><span class="asgreek">Δανιτών</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| being deployed | <big><span class="asgreek">παρατασσόμενοι</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war -- | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| twenty-eight | <big><span class="asgreek">εικοσιοκτώ</span></big> <sup><small><small>[[G7058]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred. | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Danites | **<big>[[H1835\|Δανιτών]]</big>** |
+| being deployed | **<big>[[G8641\|παρατασσόμενοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war -- | **<big>[[G4171\|πόλεμον]]</big>** |
+| twenty-eight | **<big>[[G7058\|εικοσιοκτώ]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred. | **<big>[[G1812\|εξακόσιοι]]</big>** |
 [[1Chr.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.34|<< 1 Chronicles 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.36|1 Chronicles 12:36 >>]]</td></tr></table>
 
 

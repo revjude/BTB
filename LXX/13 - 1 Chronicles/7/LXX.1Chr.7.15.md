@@ -7,32 +7,32 @@ And Machir took to wife [the sister] of Huppim and Shuppim, whose sister’s nam
 Machir took a wife from among the Huppites and Shuppites. The name of his sister was Maacah. Another descendant was named Zelophehad, who had only daughters.<small><sub>**MT:**</sub></small>
 [[1Chr.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.14|<< 1 Chronicles 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.16|1 Chronicles 7:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Machir | <big><span class="asgreek">Μαχείρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Huppim | <big><span class="asgreek">Οφέμ</span></big> <sup><small><small>[[H2650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Shuppim. | <big><span class="asgreek">Σαφίμ</span></big> <sup><small><small>[[H8206]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Maachah. | <big><span class="asgreek">Μααχά</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \[was\] Zelophehad. | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were born | <big><span class="asgreek">εγεννήθησαν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Zelophehad | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Machir | **<big>[[H4353\|Μαχείρ]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for Huppim | **<big>[[H2650\|Οφέμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for Shuppim. | **<big>[[H8206\|Σαφίμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their sister | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[was\] Maachah. | **<big>[[H4601\|Μααχά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| second | **<big>[[G1208\|δευτέρω]]</big>** |
+| \[was\] Zelophehad. | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| were born | **<big>[[G1080\|εγεννήθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Zelophehad | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
 [[1Chr.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.14|<< 1 Chronicles 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.16|1 Chronicles 7:16 >>]]</td></tr></table>
 
 

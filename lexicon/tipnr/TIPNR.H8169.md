@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shaalbim</span>, also called Shaalabbin, was a town allotted to the tribe of Dan \(Josh. 19:42; Judg. 1:35\) and the hometown of some of David's mighty men \(2 Sam. 23:32; 1 Chr. 11:33\). It was also a town under Solomon's administration \(1 Ki. 4:9\).
 - A location first mentioned at [[Judg.1.35|Jdg.1.35]]; 
-- referred to as Shaalbim or Shaalabbin<[[H8169]]> \(<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>\), or Shaalbonite<[[H8170]]> \(<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Shaalbim or Shaalabbin **<big>[[H8169|שַׁעַלְבִים]]</big>**, or Shaalbonite **<big>[[H8170|שַׁעַלְבֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.870364,34.981728&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Shaalbim, also known as Shaalabbin, was a town allotted to the tribe of Dan in t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shaalbim | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H8169) <small>*Hebrew*</small> | 2x | [[Jdg.1.35] & [1Ki.4.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalbim\*\|reference=Jdg.1.35;1Ki.4.9) |
-| Shaalabbin | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H8169) <small>*Hebrew*</small> | 1x | [Jos.19.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalabbin\*\|reference=Jos.19.42) |
-| Shaalbonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8170) <small>*Hebrew*</small> | 2x | [[2Sa.23.32] & [1Ch.11.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalbonite\*\|reference=2Sa.23.32;1Ch.11.33) |
-All Strong's for **Shaalbim or Shaalabbin or Shaalbonite**: \[[[H8169]]\] \[[[H8170]]\]
+| Shaalbim | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H8169) | 2x | [[Jdg.1.35] & [1Ki.4.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalbim\*\|reference=Jdg.1.35;1Ki.4.9) |
+| Shaalabbin | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H8169) | 1x | [Jos.19.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalabbin\*\|reference=Jos.19.42) |
+| Shaalbonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8170) | 2x | [[2Sa.23.32] & [1Ch.11.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaalbonite\*\|reference=2Sa.23.32;1Ch.11.33) |
+All entries for **Shaalbim or Shaalabbin or Shaalbonite**:  **<big>[[H8169|שַׁעַלְבִים]]</big>** ☩  **<big>[[H8170|שַׁעַלְבֹנִי]]</big>**

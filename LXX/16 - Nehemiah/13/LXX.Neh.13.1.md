@@ -10,35 +10,35 @@ On that day they read in the book of Moses in the audience of the people; and th
 At that time the Book of Moses was read aloud in the hearing of the people, and in it they found the passage stating that no Ammonite or Moabite should ever enter the assembly of God,<small><sub>**MT:**</sub></small>
 [[Neh.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.47|<< Nehemiah 12:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.2|Nehemiah 13:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \[they\] read | <big><span class="asgreek">ανεγνώσθη</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] scroll | <big><span class="asgreek">βιβλίω</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of Moses | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] ears | <big><span class="asgreek">ωσί</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| written | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| how that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισέλθωσιν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| \[the\] Ammonite | <big><span class="asgreek">Αμμανίται</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moabite | <big><span class="asgreek">Μωαβίται</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| \[they\] read | **<big>[[G0314\|ανεγνώσθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] scroll | **<big>[[G0975\|βιβλίω]]</big>** |
+| of Moses | **<big>[[G3475\|Μωυσή]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \[the\] ears | **<big>[[G3775\|ωσί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was found | **<big>[[G2147\|ευρέθη]]</big>** |
+| written | **<big>[[G1125\|γεγραμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| how that | **<big>[[G3704\|όπως]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| enter | **<big>[[G1525\|εισέλθωσιν]]</big>** |
+| \[the\] Ammonite | **<big>[[H5983\|Αμμανίται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Moabite | **<big>[[H4124\|Μωαβίται]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \[the\] assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[Neh.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.47|<< Nehemiah 12:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.2|Nehemiah 13:2 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָלַם‎</span></big> **châlam** <small>*(khaw-lam')*</small> ==**be healthy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָלַם‎</span></big>** **châlam** <small>*(khaw-lam')*</small> ==**be healthy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (cause to) dream(-er), be in good liking, recover.
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Hiphil) to dream
 $\quad$ **2a)** (Qal) to be healthy
 $\quad$ **2b)** (Hiphil) to restore to health
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπίπτω</span><sup><small>[[G1706]]</small></sup> · <span class="asgreek">ἐνυπνιάζομαι</span><sup><small>[[G1797]]</small></sup> · <span class="asgreek">ἐνύπνιον</span><sup><small>[[G1798]]</small></sup> · <span class="asgreek">ἐνύπνιον</span><sup><small>[[G1798]]</small></sup> · <span class="asgreek">ὁράω</span><sup><small>[[G3708]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup>
+<small>See Greek: </small>**<big>[[G1706|ἐμπίπτω]]</big>** · **<big>[[G1797|ἐνυπνιάζομαι]]</big>** · **<big>[[G1798|ἐνύπνιον]]</big>** · **<big>[[G1798|ἐνύπνιον]]</big>** · **<big>[[G3708|ὁράω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>**

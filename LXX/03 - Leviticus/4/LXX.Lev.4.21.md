@@ -11,30 +11,30 @@ Then he is to take the bull outside the camp and burn it, just as he burned the 
 > $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bring forth | <big><span class="asgreek">εξοίσουσι</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| complete | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall incinerate | <big><span class="asgreek">κατακαύσουσι</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf, | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| they incinerated | <big><span class="asgreek">κατέκαυσαν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly -- | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| a sin \[offering\] | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| for \[the\] congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall bring forth | **<big>[[G1627\|εξοίσουσι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| complete | **<big>[[G3650\|όλον]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall incinerate | **<big>[[G2618\|κατακαύσουσι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| calf, | **<big>[[G3448\|μόσχον]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| they incinerated | **<big>[[G2618\|κατέκαυσαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| formerly -- | **<big>[[G4387\|πρότερον]]</big>** |
+| a sin \[offering\] | **<big>[[G0266\|αμαρτία]]</big>** |
+| for \[the\] congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
 [[Lev.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.20|<< Leviticus 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.22|Leviticus 4:22 >>]]</td></tr></table>
 
 

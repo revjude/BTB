@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Huppah</span> was a priest who was assigned the thirteenth division of priestly service during King David's reign.
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.24.13|1Ch.24.13]]; 
-- only referred to as Huppah<[[H2647]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Huppah **<big>[[H2647|חֻפָּה]]</big>**.
 
 Huppah is mentioned in [[1Chr.24.13|1 Chronicles 24:13]] as one of the priests who were assigned divisions of service in the temple during the reign of King David. He was the head of the thirteenth division of priestly service. 
 
@@ -18,5 +18,5 @@ Apart from being mentioned in this context, no other information is provided abo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Huppah | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2647) <small>*Hebrew*</small> | 1x | [1Ch.24.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppah\*\|reference=1Ch.24.13) |
-All Strong's for **Huppah**: \[[[H2647]]\]
+| Huppah | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2647) | 1x | [1Ch.24.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppah\*\|reference=1Ch.24.13) |
+All entries for **Huppah**:  **<big>[[H2647|חֻפָּה]]</big>**

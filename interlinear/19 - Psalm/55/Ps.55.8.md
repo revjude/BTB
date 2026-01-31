@@ -6,14 +6,14 @@ I would hurry to my shelter, far from this raging tempest.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.7|<< Psalms 55:7]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.9|Psalms 55:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I want to make haste  | <span class="ashebrew"><big>אָחִ֣ישָׁה </big></span><small><small><sup>[[H2363A]]</sup></small></small> &#8207;| 'a.Chi.shah <small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a place of escape  | <span class="ashebrew"><big>מִפְלָ֣ט </big></span><small><small><sup>[[H4655]]</sup></small></small> &#8207;| mif.Lat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of me  | <span class="ashebrew"><big>לִ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a wind  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>ר֖וּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rushing  | <span class="ashebrew"><big>סֹעָ֣ה </big></span><small><small><sup>[[H5584]]</sup></small></small> &#8207;| so.'Ah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a storm  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>סָּֽעַר </big></span><small><small><sup>[[H5591A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sa.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I want to make haste  |**<big>&#8207;[[H2363A\|אָחִ֣ישָׁה]]&#8207; </big>**| 'a.Chi.shah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a place of escape  |**<big>&#8207;[[H4655\|מִפְלָ֣ט]]&#8207; </big>**| mif.Lat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of me  |**<big>&#8207;[[H9005\|לִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a wind  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7307H\|ר֖וּחַ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rushing  |**<big>&#8207;[[H5584\|סֹעָ֣ה]]&#8207; </big>**| so.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a storm  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5591A\|סָּֽעַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sa.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.7|<< Psalms 55:7]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.9|Psalms 55:9 >>]]</td></tr></table>
 
 

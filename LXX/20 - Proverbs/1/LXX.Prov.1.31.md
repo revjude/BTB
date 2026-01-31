@@ -7,20 +7,20 @@ Therefore shall they eat of the fruit of their own way, and be filled with their
 So they will eat the fruit of their own way, and be filled with their own devices.<small><sub>**MT:**</sub></small>
 [[Prov.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.30|<< Proverbs 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.32|Proverbs 1:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Accordingly | <big><span class="asgreek">τοιγαρούν</span></big> <sup><small><small>[[G5105]]</small></small></sup> |
-| they shall eat | <big><span class="asgreek">έδονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their own | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruits | <big><span class="asgreek">καρπούς</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with their own | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσονται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| Accordingly | **<big>[[G5105\|τοιγαρούν]]</big>** |
+| they shall eat | **<big>[[G2068\|έδονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their own | **<big>[[G1438\|εαυτών]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| fruits | **<big>[[G2590\|καρπούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| with their own | **<big>[[G1438\|εαυτών]]</big>** |
+| impiety | **<big>[[G0763\|ασεβείας]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσονται]]</big>** |
 [[Prov.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.30|<< Proverbs 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.32|Proverbs 1:32 >>]]</td></tr></table>
 
 

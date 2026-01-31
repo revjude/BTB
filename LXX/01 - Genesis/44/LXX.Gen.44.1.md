@@ -10,35 +10,35 @@ And he commanded the steward of his house, saying, Fill the men’s sacks [with]
 Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack.<small><sub>**MT:**</sub></small>
 [[Gen.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.34|<< Genesis 43:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.2|Genesis 44:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joseph gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Fill | <big><span class="asgreek">πλήσατε</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bags | <big><span class="asgreek">μαρσίππους</span></big> <sup><small><small>[[G8257]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[with\] foods, | <big><span class="asgreek">βρωμάτων</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| as much | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they are able | <big><span class="asgreek">δύνωνται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to lift away. | <big><span class="asgreek">άραι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">εμβάλετε</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| in each | <big><span class="asgreek">εκάστου</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bag. | <big><span class="asgreek">μαρσίππου</span></big> <sup><small><small>[[G8257]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joseph gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his house, | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Fill | **<big>[[G4130\|πλήσατε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bags | **<big>[[G8257\|μαρσίππους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| \[with\] foods, | **<big>[[G1033\|βρωμάτων]]</big>** |
+| as much | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| they are able | **<big>[[G1410\|δύνωνται]]</big>** |
+| to lift away. | **<big>[[G0142\|άραι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1685\|εμβάλετε]]</big>** |
+| in each | **<big>[[G1538\|εκάστου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| bag. | **<big>[[G8257\|μαρσίππου]]</big>** |
 [[Gen.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.34|<< Genesis 43:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.2|Genesis 44:2 >>]]</td></tr></table>
 
 

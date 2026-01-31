@@ -7,36 +7,36 @@ Then they said to Jeremiah, The LORD be a true and faithful witness between us, 
 Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us.<small><sub>**MT:**</sub></small>
 [[Jer.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.4|<< Jeremiah 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.6|Jeremiah 42:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jeremiah, | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| Let \[the\] <span class="smallcaps">lord</span> be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| witness | <big><span class="asgreek">μάρτυρα</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trustworthy | <big><span class="asgreek">πιστόν</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| if we do not | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which ever | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should send | <big><span class="asgreek">αποστείλη</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us -- | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| we will do. | <big><span class="asgreek">ποιήσωμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jeremiah, | **<big>[[G2408\|Ιερεμία]]</big>** |
+| Let \[the\] <span class="smallcaps">lord</span> be | **<big>[[G1510\|έστω]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| witness | **<big>[[G3144\|μάρτυρα]]</big>** |
+| just | **<big>[[G1342\|δίκαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trustworthy | **<big>[[G4103\|πιστόν]]</big>** |
+| if we do not | **<big>[[G1508\|ει μη]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| which ever | **<big>[[G3739\|ον]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should send | **<big>[[G0649\|αποστείλη]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| us -- | **<big>[[G1473\|ημάς]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| we will do. | **<big>[[G4160\|ποιήσωμεν]]</big>** |
 [[Jer.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.4|<< Jeremiah 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.6|Jeremiah 42:6 >>]]</td></tr></table>
 
 

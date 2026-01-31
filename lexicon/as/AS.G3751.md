@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὀσφύς</span></span>, <span class="asgreek">-ύος, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">מָתְנַיִם</span> <small><sup>[[H4975]]</sup></small>, also for <span class="ashebrew">חָלָץ</span> <small><sup>[[H2502]]</sup></small>, etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὀσφύς</span></span>, <span class="asgreek">-ύος, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H4975|מָתְנַיִם]]</big>**, also for **<big>[[H2502|חָלָץ]]</big>**, etc.;\]</span> </span>
 <span class="asitalic">the loin</span>: [[Matt.3.4|Mt 3:4]], [[Mark.1.6|Mk 1:6]]; metaph., <span class="asgreek">περιζώννυσθαι</span> (<span class="asgreek">ἀναζ-</span>) <span class="asgreek">τ. ὀσφύας</span>, [[Luke.12.35|Lk 12:35]], [[Eph.6.14|Eph 6:14]], [[1Pet.1.13|I Pe 1:13]]; regarded, as by the Hebrews, as the seat of generative power, [[Heb.7.5|He 7:5]], [[Heb.7.10|10]]; metaph., <span class="asgreek">καρπὸς τ. ὀσφύος</span>, [[Acts.2.30|Ac 2:30]].
 
 **Abbott-Smith References**

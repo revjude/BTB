@@ -7,39 +7,39 @@ And all his servants passed on beside him; and all the Cherethites, and all the 
 and all his servants marched past him—all the Cherethites and Pelethites, and six hundred Gittites who had followed him from Gath.<small><sub>**MT:**</sub></small>
 [[2Sam.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.17|<< 2 Samuel 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.19|2 Samuel 15:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">ανά</span></big> <sup><small><small>[[G0303]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| passed | <big><span class="asgreek">παρήγον</span></big> <sup><small><small>[[G3855]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cherethite, | <big><span class="asgreek">Χερεθί</span></big> <sup><small><small>[[H3774]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Pelethite, | <big><span class="asgreek">Φελεθί</span></big> <sup><small><small>[[H6432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gittites -- | <big><span class="asgreek">Γεθαίοι</span></big> <sup><small><small>[[H1663]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having come | <big><span class="asgreek">ήκοντες</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Gath | <big><span class="asgreek">Γεθ</span></big> <sup><small><small>[[H1661]]</small></small></sup> |
-| by foot, | <big><span class="asgreek">πεζοί</span></big> <sup><small><small>[[G8677]]</small></small></sup> |
-| were passing | <big><span class="asgreek">παρεπορεύοντο</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his servants | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G0303\|ανά]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| passed | **<big>[[G3855\|παρήγον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Cherethite, | **<big>[[H3774\|Χερεθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Pelethite, | **<big>[[H6432\|Φελεθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Gittites -- | **<big>[[H1663\|Γεθαίοι]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| having come | **<big>[[G2240\|ήκοντες]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Gath | **<big>[[H1661\|Γεθ]]</big>** |
+| by foot, | **<big>[[G8677\|πεζοί]]</big>** |
+| were passing | **<big>[[G3899\|παρεπορεύοντο]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[2Sam.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.17|<< 2 Samuel 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.19|2 Samuel 15:19 >>]]</td></tr></table>
 
 

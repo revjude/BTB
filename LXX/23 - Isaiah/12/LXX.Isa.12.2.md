@@ -11,30 +11,30 @@ Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is 
 > $\quad$ referenced by: [[LXX.Exod.15.2|Exod 15:2]] ☩ [[LXX.Ps.118.14|Ps 118:14]] ☩ [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my deliverer; | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will be yielding | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be fearful. | <big><span class="asgreek">φοβηθήσομαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] my glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my praise | <big><span class="asgreek">αίνεσίς</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετό</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance. | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my deliverer; | **<big>[[G4990\|σωτήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will be yielding | **<big>[[G3982\|πεποιθώς]]</big>** **<big>[[G1510\|έσομαι]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| be fearful. | **<big>[[G5399\|φοβηθήσομαι]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[is\] my glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my praise | **<big>[[G0133\|αίνεσίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετό]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| deliverance. | **<big>[[G4991\|σωτηρίαν]]</big>** |
 [[Isa.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.12.1|<< Isaiah 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.3|Isaiah 12:3 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָטַף‎</span></big> **ʻâṭaph** <small>*(aw-taf')*</small> ==**to turn aside**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָטַף‎</span></big>** **ʻâṭaph** <small>*(aw-taf')*</small> ==**to turn aside**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cover (over), fail, faint, feebler, hide self, be overwhelmed, swoon.
@@ -15,4 +15,4 @@ $\quad$ **3b)** (Niphal) to faint
 $\quad$ **3c)** (Hiphil) to show feebleness
 $\quad$ **3d)** (Hithpael) to faint, faint away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄσημος</span><sup><small>[[G0767]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ἐξέρχομαι</span><sup><small>[[G1831]]</small></sup> · <span class="asgreek">περιβάλλω</span><sup><small>[[G4016]]</small></sup> · <span class="asgreek">πληθύνω</span><sup><small>[[G4129]]</small></sup>
+<small>See Greek: </small>**<big>[[G0767|ἄσημος]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G1831|ἐξέρχομαι]]</big>** · **<big>[[G4016|περιβάλλω]]</big>** · **<big>[[G4129|πληθύνω]]</big>**

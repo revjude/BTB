@@ -1,4 +1,4 @@
-<small>Also see: [[H7497]]</small>
+<small>Also see: **<big>[[H7497|רָפָא]]</big>**</small>
 
  I, II. <span class="bdbLangHebrew">‎רְפָאִים‎</span> see below <span class="bdbLangHebrew">‎רפה‎</span>. 
 

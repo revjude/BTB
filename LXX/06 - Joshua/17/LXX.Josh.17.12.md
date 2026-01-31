@@ -7,25 +7,25 @@ Yet the children of Manasseh could not drive out [the inhabitants of] those citi
 But the descendants of Manasseh were unable to occupy these cities, because the Canaanites were determined to stay in this land.<small><sub>**MT:**</sub></small>
 [[Josh.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">εδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these cities. | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτας</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| began | <big><span class="asgreek">ήρξατο</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χαναναίος</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| to dwell | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|εδυνήθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| these cities. | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G3778\|ταύτας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| began | **<big>[[G0756\|ήρξατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Canaanite | **<big>[[G5477\|Χαναναίος]]</big>** |
+| to dwell | **<big>[[G2730\|κατοικείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this land. | **<big>[[G1093\|γη]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
 [[Josh.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
 
 

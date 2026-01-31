@@ -7,20 +7,20 @@ But made his own people to go forth like sheep, and guided them in the wildernes
 He led out His people like sheep and guided them like a flock in the wilderness.<small><sub>**MT:**</sub></small>
 [[Ps.78.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.51|<< Psalm 78:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.53|Psalm 78:53 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he departed | <big><span class="asgreek">απήρεν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led them up | <big><span class="asgreek">ανήγαγεν</span></big> <sup><small><small>[[G0321]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a flock | <big><span class="asgreek">ποίμνιον</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he departed | **<big>[[G0522\|απήρεν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he led them up | **<big>[[G0321\|ανήγαγεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a flock | **<big>[[G4168\|ποίμνιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
 [[Ps.78.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.51|<< Psalm 78:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.53|Psalm 78:53 >>]]</td></tr></table>
 
 

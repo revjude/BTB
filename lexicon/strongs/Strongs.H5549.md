@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָלַל‎</span></big> **çâlal** <small>*(saw-lal')*</small> ==**to build**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָלַל‎</span></big>** **çâlal** <small>*(saw-lal')*</small> ==**to build**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cast up, exalt (self), extol, make plain, raise up.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a3)** to lift up (of song)
 $\quad$ **1b)** (Pilpel) to exalt, esteem highly, prize
 $\quad$ **1c)** (Hithpoel) to exalt oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ὁδοιπορέω</span><sup><small>[[G3596]]</small></sup>
+<small>See Greek: </small>**<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G3596|ὁδοιπορέω]]</big>**

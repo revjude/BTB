@@ -6,19 +6,19 @@ The living, only the living, can thank You, as I do today; fathers will tell the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.18|<< Isaiah 38:18]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.20|Isaiah 38:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] living  | <span class="ashebrew"><big>חַ֥י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] living  | <span class="ashebrew"><big>חַ֛י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֥וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he gives thanks to you  | <span class="ashebrew"><big>יוֹדֶ֖ </big></span><small><small><sup>[[H3034]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| yo.De. <small><sup>[[HVhi3ms]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as I  | <span class="ashebrew"><big>כָּמ֣וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ka.Mo. <small><sup>[[HR]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֑וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a father  | <span class="ashebrew"><big>אָ֣ב </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to children  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בָנִ֔ים </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> va.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he makes known  | <span class="ashebrew"><big>יוֹדִ֖יעַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| yo.Di.a' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| concerning  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness your  | <span class="ashebrew"><big>אֲמִתֶּֽ </big></span><small><small><sup>[[H0571G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.mi.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] living  |**<big>&#8207;[[H2416A\|חַ֥י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] living  |**<big>&#8207;[[H2416A\|חַ֛י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gives thanks to you  |**<big>&#8207;[[H3034\|יוֹדֶ֖]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yo.De.<small><sup>[[HVhi3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as I  |**<big>&#8207;[[H3644G\|כָּמ֣וֹ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ka.Mo.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֑וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a father  |**<big>&#8207;[[H0001G\|אָ֣ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to children  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בָנִ֔ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he makes known  |**<big>&#8207;[[H3045\|יוֹדִ֖יעַ]]&#8207; </big>**| yo.Di.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness your  |**<big>&#8207;[[H0571G\|אֲמִתֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.mi.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.18|<< Isaiah 38:18]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.20|Isaiah 38:20 >>]]</td></tr></table>
 
 

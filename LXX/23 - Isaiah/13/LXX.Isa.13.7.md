@@ -7,18 +7,18 @@ Therefore shall all hands be faint, and every man’s heart shall melt:
 Therefore all hands will fall limp, and every man’s heart will melt.<small><sub>**MT:**</sub></small>
 [[Isa.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.6|<< Isaiah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.8|Isaiah 13:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| shall be loosened, | <big><span class="asgreek">εκλυθήσεται</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| shall be timid. | <big><span class="asgreek">δειλιάσει</span></big> <sup><small><small>[[G1168]]</small></small></sup> |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| shall be loosened, | **<big>[[G1590\|εκλυθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| shall be timid. | **<big>[[G1168\|δειλιάσει]]</big>** |
 [[Isa.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.6|<< Isaiah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.8|Isaiah 13:8 >>]]</td></tr></table>
 
 

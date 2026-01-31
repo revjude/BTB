@@ -7,33 +7,33 @@ And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, a
 Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.<small><sub>**MT:**</sub></small>
 [[1Chr.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Azel | <big><span class="asgreek">Ασήλ</span></big> <sup><small><small>[[H0682b]]</small></small></sup> |
-| \[were\] six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| sons, | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names -- | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Azrikam | <big><span class="asgreek">Εζερικάμ</span></big> <sup><small><small>[[H5840]]</small></small></sup> |
-| his first-born, | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ishmael, | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shearaiah, | <big><span class="asgreek">Σαρία</span></big> <sup><small><small>[[H8187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah, | <big><span class="asgreek">Αβδία</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hanan | <big><span class="asgreek">Αννάν</span></big> <sup><small><small>[[H2605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asa; | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azel. | <big><span class="asgreek">Ασήλ</span></big> <sup><small><small>[[H0682b]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Azel | **<big>[[H0682b\|Ασήλ]]</big>** |
+| \[were\] six | **<big>[[G1803\|εξ]]</big>** |
+| sons, | **<big>[[G5207\|υιοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these are | **<big>[[G3778\|ταύτα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their names -- | **<big>[[G3686\|ονόματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Azrikam | **<big>[[H5840\|Εζερικάμ]]</big>** |
+| his first-born, | **<big>[[G4416\|πρωτότοκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ishmael, | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shearaiah, | **<big>[[H8187\|Σαρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Obadiah, | **<big>[[H5662\|Αβδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hanan | **<big>[[H2605\|Αννάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asa; | **<big>[[G0760\|Ασά]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \[were\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Azel. | **<big>[[H0682b\|Ασήλ]]</big>** |
 [[1Chr.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
 
 

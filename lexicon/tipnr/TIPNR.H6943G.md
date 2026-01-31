@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Kedesh</span> \(Kedesh-naphtali\), a Canaanite city conquered by Joshua, became a Levitical city and a city of refuge in the territory of Naphtali \([[Josh.12.22|Joshua 12:22]]; 19:37; 20:7; 21:32\).
 - A location first mentioned at [[Josh.12.22|Jos.12.22]]; 
-- referred to as Kedesh<[[H6943G]]> \(<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ\), or Kedesh/-naphtali \(NIV= Kedesh in Naphtali\) <[[H6943J]]><[[H5321H]]> \(<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ <span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Kedesh **<big>[[H6943|קֶדֶשׁ]]</big>**, or Kedesh/-naphtali \(NIV= Kedesh in Naphtali\)  **<big>[[H6943|קֶדֶשׁ]]</big>** **<big>[[H5321|נַפְתָּלִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.11298357486105,35.53361334150225&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Kedesh, also known as Kedesh-naphtali, was a significant city in the northern pa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kedesh | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6943G) <small>*Hebrew*</small> | 9x | [[Jos.12.22] ... [1Ch.6.76] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedesh\*\|reference=Jos.12.22;Jos.19.37;Jos.20.7;Jos.21.32;Jdg.4.9;Jdg.4.10;Jdg.4.11;2Ki.15.29;1Ch.6.76) |
-| Kedesh/-naphtali (NIV= Kedesh in Naphtali) | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6943J)[<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H5321H) <small>*Hebrew*</small> | 1x | [Jdg.4.6a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedesh\*\|reference=Jdg.4.6) |
-All Strong's for **Kedesh or Kedesh-naphtali**: \[[[H6943G]]\] \[[[H6943J]]\]
+| Kedesh | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6943G) | 9x | [[Jos.12.22] ... [1Ch.6.76] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedesh\*\|reference=Jos.12.22;Jos.19.37;Jos.20.7;Jos.21.32;Jdg.4.9;Jdg.4.10;Jdg.4.11;2Ki.15.29;1Ch.6.76) |
+| Kedesh/-naphtali (NIV= Kedesh in Naphtali) | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H6943J)[<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H5321H) | 1x | [Jdg.4.6a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedesh\*\|reference=Jdg.4.6) |
+All entries for **Kedesh or Kedesh-naphtali**:  **<big>[[H6943|קֶדֶשׁ]]</big>** ☩  **<big>[[H6943|קֶדֶשׁ]]</big>**

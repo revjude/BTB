@@ -6,23 +6,23 @@ March around the city with all the men of war, circling the city one time. Do th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.2|<< Joshua 6:2]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.4|Joshua 6:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will go around  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>סַבֹּתֶ֣ם </big></span><small><small><sup>[[H5437H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sa.bo.Tem <small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the city  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עִ֗יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּ֚ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] men of  | <span class="ashebrew"><big>אַנְשֵׁ֣י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> war  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּלְחָמָ֔ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will encircle  | <span class="ashebrew"><big>הַקֵּ֥יף </big></span><small><small><sup>[[H5362B]]</sup></small></small> &#8207;| ha.Keif <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the city  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עִ֖יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a time  | <span class="ashebrew"><big>פַּ֣עַם </big></span><small><small><sup>[[H6471]]</sup></small></small> &#8207;| Pa.'am <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֑ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֥ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will do  | <span class="ashebrew"><big>תַעֲשֶׂ֖ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Seh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁ֥שֶׁת </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| She.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will go around  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437H\|סַבֹּתֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.bo.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֗יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> war  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will encircle  |**<big>&#8207;[[H5362B\|הַקֵּ֥יף]]&#8207; </big>**| ha.Keif<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֖יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a time  |**<big>&#8207;[[H6471\|פַּ֣עַם]]&#8207; </big>**| Pa.'am<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֑ת]]&#8207; </big>**| 'e.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  |**<big>&#8207;[[H6213A\|תַעֲשֶׂ֖ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁ֥שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.2|<< Joshua 6:2]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.4|Joshua 6:4 >>]]</td></tr></table>
 
 

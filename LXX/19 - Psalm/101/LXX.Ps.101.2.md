@@ -7,26 +7,26 @@ I will behave myself wisely in a perfect way. O when wilt thou come unto me? I w
 I will ponder the way that is blameless—when will You come to me? I will walk in my house with integrity of heart.<small><sub>**MT:**</sub></small>
 [[Ps.101.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.1|<< Psalm 101:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.3|Psalm 101:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall strum, | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall perceive | <big><span class="asgreek">συνήσω</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| an unblemished | <big><span class="asgreek">αμώμω</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| When | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| shall you come | <big><span class="asgreek">ήξεις</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me? | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I traveled | <big><span class="asgreek">διεπορευόμην</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] innocence | <big><span class="asgreek">ακακία</span></big> <sup><small><small>[[G6177]]</small></small></sup> |
-| of my heart; | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall strum, | **<big>[[G5567\|ψαλώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall perceive | **<big>[[G4920\|συνήσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| an unblemished | **<big>[[G0299\|αμώμω]]</big>** |
+| When | **<big>[[G4219\|πότε]]</big>** |
+| shall you come | **<big>[[G2240\|ήξεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me? | **<big>[[G1473\|με]]</big>** |
+| I traveled | **<big>[[G1279\|διεπορευόμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] innocence | **<big>[[G6177\|ακακία]]</big>** |
+| of my heart; | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my house. | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.101.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.1|<< Psalm 101:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.3|Psalm 101:3 >>]]</td></tr></table>
 
 

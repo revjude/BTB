@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pirathon</span> was a town in the hill country of Ephraim, associated with the judge Abdon and two of David's mighty men, Benaiah and Hiddai.
 - A location first mentioned at [[Judg.12.15|Jdg.12.15]]; 
-- referred to as Pirathon<[[H6552]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Pirathon or Pirathonite<[[H6553]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Pirathon **<big>[[H6552|פִּרְעָתוֹן]]</big>**, or Pirathon or Pirathonite **<big>[[H6553|פִּרְעָתוֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.286022,35.022944&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Pirathon was a town located in the hill country of Ephraim, in the territory all
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6552) <small>*Hebrew*</small> | 1x | [Jdg.12.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=Jdg.12.15) |
-| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) <small>*Hebrew*</small> | 3x | [[2Sa.23.30] ... [1Ch.27.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=2Sa.23.30;1Ch.11.31;1Ch.27.14) |
-| Pirathonite | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) <small>*Hebrew*</small> | 2x | [[Jdg.12.13] & [Jdg.12.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathonite\*\|reference=Jdg.12.13;Jdg.12.15) |
-All Strong's for **Pirathon**: \[[[H6552]]\] \[[[H6553]]\]
+| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6552) | 1x | [Jdg.12.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=Jdg.12.15) |
+| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) | 3x | [[2Sa.23.30] ... [1Ch.27.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=2Sa.23.30;1Ch.11.31;1Ch.27.14) |
+| Pirathonite | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) | 2x | [[Jdg.12.13] & [Jdg.12.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathonite\*\|reference=Jdg.12.13;Jdg.12.15) |
+All entries for **Pirathon**:  **<big>[[H6552|פִּרְעָתוֹן]]</big>** ☩  **<big>[[H6553|פִּרְעָתוֹנִי]]</big>**

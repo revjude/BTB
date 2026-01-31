@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּלָה‎</span></big> **kâlâh** <small>*(kaw-law')*</small> ==**consumption**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָה‎</span><sup><small>[[H3615]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּלָה‎</span></big>** **kâlâh** <small>*(kaw-law')*</small> ==**consumption**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3615|‎כָּלָה‎]]</big>**</small>
 
 $\quad$ altogether, (be, utterly) consume(-d), consummation(-ption), was determined, (full, utter) end, riddance.
 - ***a completion***
@@ -11,4 +11,4 @@ $\quad$ **1a)** completion
 $\quad$ $\quad$ **1a1)** completely, altogether (adv)
 $\quad$ **1b)** complete destruction, consumption, annihilation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πᾶς</span><sup><small>[[G3956]]</small></sup>
+<small>See Greek: </small>**<big>[[G3956|πᾶς]]</big>**

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cushan</span>, a location mentioned in [[Hab.3.7|Habakkuk 3:7]], is possibly related to Cush or another unidentified place.
 - A location only mentioned at [[Hab.3.7|Hab.3.7]]; 
-- only referred to as Cushan<[[H3572]]> \(<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Cushan **<big>[[H3572|כּוּשָׁן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=21.959788,31.343557&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Given the limited information available, it is difficult to draw definitive conc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cushan | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H3572) <small>*Hebrew*</small> | 1x | [Hab.3.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cushan\*\|reference=Hab.3.7) |
-All Strong's for **Cushan**: \[[[H3572]]\]
+| Cushan | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H3572) | 1x | [Hab.3.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cushan\*\|reference=Hab.3.7) |
+All entries for **Cushan**:  **<big>[[H3572|כּוּשָׁן]]</big>**

@@ -10,40 +10,40 @@ And when the builders laid the foundation of the temple of the LORD, they set th
 When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed.<small><sub>**MT:**</sub></small>
 [[Ezra.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.9|<< Ezra 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.11|Ezra 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| laid a foundation | <big><span class="asgreek">εθεμελίωσαν</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones building | <big><span class="asgreek">οικοδομούντες</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| being robed | <big><span class="asgreek">εστολισμένοι</span></big> <sup><small><small>[[G9188]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trumpets, | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asaph | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cymbals, | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to praise | <big><span class="asgreek">αινείν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| laid a foundation | **<big>[[G2311\|εθεμελίωσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones building | **<big>[[G3618\|οικοδομούντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| being robed | **<big>[[G9188\|εστολισμένοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| trumpets, | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Asaph | **<big>[[H0623\|Ασάφ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cymbals, | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to praise | **<big>[[G0134\|αινείν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezra.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.9|<< Ezra 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.11|Ezra 3:11 >>]]</td></tr></table>
 
 

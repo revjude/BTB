@@ -6,16 +6,16 @@ But if only God would speak and open His lips against you,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.4|<< Job 11:4]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.6|Job 11:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and but  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אוּלָ֗ם </big></span><small><small><sup>[[H0199]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'u.Lam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he give  | <span class="ashebrew"><big>יִתֵּ֣ן </big></span><small><small><sup>[[H5414Q]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱל֣וֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'e.Lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to speak  | <span class="ashebrew"><big>דַּבֵּ֑ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| da.Ber <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he may open  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִפְתַּ֖ח </big></span><small><small><sup>[[H6605A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yif.Tach <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips his  | <span class="ashebrew"><big>שְׂפָתָ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| se.fa.Ta <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with you  | <span class="ashebrew"><big>עִמָּֽ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'i.Ma <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and but  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0199\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give  |**<big>&#8207;[[H5414Q\|יִתֵּ֣ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0433\|אֱל֣וֹהַּ]]&#8207; </big>**| 'e.Lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֑ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may open  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6605A\|יִפְתַּ֖ח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yif.Tach<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips his  |**<big>&#8207;[[H8193G\|שְׂפָתָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| se.fa.Ta<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.4|<< Job 11:4]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.6|Job 11:6 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דִּלְעָן‎</span></big> **Dilʻân** <small>*(dil-awn')*</small> ==**Dilean**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎דִּלְעָן‎</span></big>** **Dilʻân** <small>*(dil-awn')*</small> ==**Dilean**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Dilean.

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁוָה‎</span></big> **shâvâh** <small>*(shaw-vaw')*</small> ==**be like**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁוָה‎</span></big>** **shâvâh** <small>*(shaw-vaw')*</small> ==**be like**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ avail, behave, bring forth, compare, countervail, (be, make) equal, lay, be (make, a-) like, make plain, profit, reckon.
@@ -17,4 +17,4 @@ $\quad$ **1c)** (Hiphil) to make like
 $\quad$ **1d)** (Nithpael) to be alike
 **2)** (Piel) to set, place
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄξιος</span><sup><small>[[G0514]]</small></sup> · <span class="asgreek">ἀπάγω</span><sup><small>[[G0520]]</small></sup> · <span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">ἀρέσκω</span><sup><small>[[G0700]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">καταρτίζω</span><sup><small>[[G2675]]</small></sup> · <span class="asgreek">λαμβάνω</span><sup><small>[[G2983]]</small></sup> · <span class="asgreek">προοράω</span><sup><small>[[G4308]]</small></sup> · <span class="asgreek">συμφέρω</span><sup><small>[[G4851]]</small></sup> · <span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0514|ἄξιος]]</big>** · **<big>[[G0520|ἀπάγω]]</big>** · **<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G0700|ἀρέσκω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2675|καταρτίζω]]</big>** · **<big>[[G2983|λαμβάνω]]</big>** · **<big>[[G4308|προοράω]]</big>** · **<big>[[G4851|συμφέρω]]</big>** · **<big>[[G5087|τίθημι]]</big>**

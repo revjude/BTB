@@ -7,23 +7,23 @@ And the priest that offereth any man’s burnt offering, [even] the priest shall
 As for the priest who presents a burnt offering for anyone, the hide of that offering belongs to him.<small><sub>**MT:**</sub></small>
 [[Lev.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.7|<< Leviticus 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.9|Leviticus 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bringing | <big><span class="asgreek">προσάγων</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \[the\] whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| of a man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαυτώσεως</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| offers | <big><span class="asgreek">προσφέρει</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| will be his. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| bringing | **<big>[[G4317\|προσάγων]]</big>** |
+| \[the\] whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| of a man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| skin | **<big>[[G1192\|δέρμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| whole burnt-offering | **<big>[[G8495\|ολοκαυτώσεως]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| offers | **<big>[[G4374\|προσφέρει]]</big>** |
+| will be his. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1510\|έσται]]</big>** |
 [[Lev.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.7|<< Leviticus 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.9|Leviticus 7:9 >>]]</td></tr></table>
 
 

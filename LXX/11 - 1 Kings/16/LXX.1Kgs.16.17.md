@@ -7,21 +7,21 @@ And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirz
 Then Omri and all the Israelites marched up from Gibbethon and besieged Tirzah.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.16|<< 1 Kings 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.18|1 Kings 16:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Omri ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">Αμβρί</span></big> <sup><small><small>[[H6018]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Gibbethon, | <big><span class="asgreek">Γαβαθών</span></big> <sup><small><small>[[H1405]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they besieged | <big><span class="asgreek">περιεκάθισαν</span></big> <sup><small><small>[[G8731]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Tizrah. | <big><span class="asgreek">Θερσά</span></big> <sup><small><small>[[H8656]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Omri ascended | **<big>[[G0305\|ανέβη]]</big>** **<big>[[H6018\|Αμβρί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Gibbethon, | **<big>[[H1405\|Γαβαθών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they besieged | **<big>[[G8731\|περιεκάθισαν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Tizrah. | **<big>[[H8656\|Θερσά]]</big>** |
 [[1Kgs.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.16|<< 1 Kings 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.18|1 Kings 16:18 >>]]</td></tr></table>
 
 

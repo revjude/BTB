@@ -7,26 +7,26 @@ They said in their hearts, Let us destroy them together: they have burned up all
 They said in their hearts, “We will crush them completely.” They burned down every place where God met us in the land.<small><sub>**MT:**</sub></small>
 [[Ps.74.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.7|<< Psalm 74:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.9|Psalm 74:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their kin | <big><span class="asgreek">συγγένεια</span></big> <sup><small><small>[[G4772]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| together | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
-| Come | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let us cause to cease | <big><span class="asgreek">καταπαύσωμεν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holidays | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Their kin | **<big>[[G4772\|συγγένεια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| together | **<big>[[G7464\|επιτοαυτό]]</big>** |
+| Come | **<big>[[G1205\|δεύτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let us cause to cease | **<big>[[G2664\|καταπαύσωμεν]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| holidays | **<big>[[G1859\|εορτάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land! | **<big>[[G1093\|γης]]</big>** |
 [[Ps.74.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.7|<< Psalm 74:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.9|Psalm 74:9 >>]]</td></tr></table>
 
 

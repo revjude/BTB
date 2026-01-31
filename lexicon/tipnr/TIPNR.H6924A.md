@@ -1,8 +1,8 @@
 <small>*East • A direction associated with invading armies and nomadic tribes.*</small>
 
 In the Bible, the <span class='tipnrhighlight'>East</span> is often associated with invading armies and nomadic tribes \([[Judg.6.3|Judges 6:3]], 33; 7:12; 8:10; [[Ezek.25.4|Ezekiel 25:4]], 10\).
-- A location near Ammon<[[H5983]]> first mentioned at [[Judg.6.3|Jdg.6.3]]; 
-- only referred to as East<[[H6924A]]> \(<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Ammon **<big>[[H5983|עַמּוֹן]]</big>** first mentioned at [[Judg.6.3|Jdg.6.3]]; 
+- only referred to as East **<big>[[H6924|קֶדֶם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.95018855468469,35.92413135872749&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ In the Bible, the East is a direction that is often associated with invading arm
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| East | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H6924A) <small>*Hebrew*</small> | 6x | [[Jdg.6.3] ... [Ezk.25.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=East\*\|reference=Jdg.6.3;Jdg.6.33;Jdg.7.12;Jdg.8.10;Ezk.25.4;Ezk.25.10) |
-All Strong's for **East**: \[[[H6924A]]\]
+| East | [<span class='tipnrLangHebrew'>ק</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H6924A) | 6x | [[Jdg.6.3] ... [Ezk.25.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=East\*\|reference=Jdg.6.3;Jdg.6.33;Jdg.7.12;Jdg.8.10;Ezk.25.4;Ezk.25.10) |
+All entries for **East**:  **<big>[[H6924|קֶדֶם]]</big>**

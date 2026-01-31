@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎אֹשֶׁר‎</span></big> **ʼôsher** <small>*(o'-sher)*</small> ==**happy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup></small>
+**<big><span class="ashebrew">‎אֹשֶׁר‎</span></big>** **ʼôsher** <small>*(o'-sher)*</small> ==**happy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0833|‎אָשַׁר‎]]</big>**</small>
 
 $\quad$ happy.
 - ***happiness***
 
 **1)** happiness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μακάριος</span><sup><small>[[G3107]]</small></sup>
+<small>See Greek: </small>**<big>[[G3107|μακάριος]]</big>**

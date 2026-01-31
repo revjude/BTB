@@ -1,3 +1,1 @@
-<span class="asaramaic">‎נְתַר‎</span> <small>***(ne.tar)***</small> ==**to strip**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H5425B]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H5425B|נָתַר]]</big>**</small>

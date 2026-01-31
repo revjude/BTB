@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּעוּ‎</span></big> **Pâʻûw** <small>*(paw-oo')*</small> ==**Pau**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">פָּעִי</span> **Pâʻîy** <small>*(paw-ee')*</small>; from <span class="ashebrew">‎פָּעָה‎</span><sup><small>[[H6463]]</small></sup>; screaming</small>
+**<big><span class="ashebrew">‎פָּעוּ‎</span></big>** **Pâʻûw** <small>*(paw-oo')*</small> ==**Pau**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">פָּעִי</span></big>** **Pâʻîy** <small>*(paw-ee')*</small>; from **<big>[[H6463|‎פָּעָה‎]]</big>**; screaming</small>
 
 $\quad$ Pai, Pau.
 - § Pai or Pau = *"bleating"*

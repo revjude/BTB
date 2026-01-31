@@ -7,27 +7,27 @@ And, behold, ye are risen up in your fathers’ stead, an increase of sinful men
 Now behold, you, a brood of sinners, have risen up in place of your fathers to further stoke the burning anger of the LORD against Israel.<small><sub>**MT:**</sub></small>
 [[Num.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.13|<< Numbers 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.15|Numbers 32:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you rose up | <big><span class="asgreek">ανέστητε</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in place of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers, | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a confederation | <big><span class="asgreek">σύστρεμμα</span></big> <sup><small><small>[[G9361]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of sinners | <big><span class="asgreek">αμαρτωλών</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| to add | <big><span class="asgreek">προσθείναι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you rose up | **<big>[[G0450\|ανέστητε]]</big>** |
+| in place of | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your fathers, | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| a confederation | **<big>[[G9361\|σύστρεμμα]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| of sinners | **<big>[[G0268\|αμαρτωλών]]</big>** |
+| to add | **<big>[[G4369\|προσθείναι]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rage | **<big>[[G2372\|θυμόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| anger | **<big>[[G3709\|οργής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.13|<< Numbers 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.15|Numbers 32:15 >>]]</td></tr></table>
 
 

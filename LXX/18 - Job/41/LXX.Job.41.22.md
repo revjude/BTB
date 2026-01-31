@@ -7,16 +7,16 @@ In his neck remaineth strength, and sorrow is turned into joy before him.
 Strength resides in his neck, and dismay leaps before him.<small><sub>**MT:**</sub></small>
 [[Job.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.21|<< Job 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.23|Job 41:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his neck | <big><span class="asgreek">τραχήλω</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lodges | <big><span class="asgreek">αυλίζεται</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| power. | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| runs | <big><span class="asgreek">τρέχει</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| Destruction | <big><span class="asgreek">απώλεια</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
+| And in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| his neck | **<big>[[G5137\|τραχήλω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| lodges | **<big>[[G0835\|αυλίζεται]]</big>** |
+| power. | **<big>[[G1411\|δύναμις]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| runs | **<big>[[G5143\|τρέχει]]</big>** |
+| Destruction | **<big>[[G0684\|απώλεια]]</big>** |
 [[Job.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.21|<< Job 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.23|Job 41:23 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵין חֲרֹד‎</span></big> **ʻÊyn Chărôd** <small>*(ane khar-ode')*</small> ==**Harod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup> and a derivative of <span class="ashebrew">‎חָרַד‎</span><sup><small>[[H2729]]</small></sup>; fountain of trembling</small>
+**<big><span class="ashebrew">‎עֵין חֲרֹד‎</span></big>** **ʻÊyn Chărôd** <small>*(ane khar-ode')*</small> ==**Harod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>** and a derivative of **<big>[[H2729|‎חָרַד‎]]</big>**; fountain of trembling</small>
 
 $\quad$ well of Harod.
 - § En-harod = *"spring of Herod"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲרָשִׁים‎</span></big> **Chărâshîym** <small>*(khar-aw-sheem')*</small> ==**(Ge)-harashim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎חָרָשׁ‎</span><sup><small>[[H2796]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲרָשִׁים‎</span></big>** **Chărâshîym** <small>*(khar-aw-sheem')*</small> ==**(Ge)-harashim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H2796|‎חָרָשׁ‎]]</big>**</small>
 
 $\quad$ Charashim, craftsmen.
 - § Charashim or Harashim = *"valley of craftsmen"*

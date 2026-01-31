@@ -7,19 +7,19 @@ Why hast thou [then] broken down her hedges, so that all they which pass by the 
 Why have You broken down its walls, so that all who pass by pick its fruit?<small><sub>**MT:**</sub></small>
 [[Ps.80.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.11|<< Psalm 80:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.13|Psalm 80:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| did you demolish | <big><span class="asgreek">καθείλες</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her barrier, | <big><span class="asgreek">φραγμόν</span></big> <sup><small><small>[[G5418]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gather her vintage | <big><span class="asgreek">τρυγώσιν</span></big> <sup><small><small>[[G5166]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passing by | <big><span class="asgreek">παραπορευόμενοι</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| did you demolish | **<big>[[G2507\|καθείλες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her barrier, | **<big>[[G5418\|φραγμόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gather her vintage | **<big>[[G5166\|τρυγώσιν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| passing by | **<big>[[G3899\|παραπορευόμενοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
 [[Ps.80.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.11|<< Psalm 80:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.13|Psalm 80:13 >>]]</td></tr></table>
 
 

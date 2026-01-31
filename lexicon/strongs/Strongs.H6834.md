@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִפּוֹר‎</span></big> **Tsippôwr** <small>*(tsip-pore')*</small> ==**Zippor**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎צִפּוֹר‎</span><sup><small>[[H6833]]</small></sup></small>
+**<big><span class="ashebrew">‎צִפּוֹר‎</span></big>** **Tsippôwr** <small>*(tsip-pore')*</small> ==**Zippor**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6833|‎צִפּוֹר‎]]</big>**</small>
 
 $\quad$ Zippor.
 - § Zippor = *"sparrow"*

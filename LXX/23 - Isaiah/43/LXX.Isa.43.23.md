@@ -7,29 +7,29 @@ Thou hast not brought me the small cattle of thy burnt offerings; neither hast t
 You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.<small><sub>**MT:**</sub></small>
 [[Isa.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.22|<< Isaiah 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.24|Isaiah 43:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bring | <big><span class="asgreek">ήνεγκάς</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of your sheep, | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your whole offering; | <big><span class="asgreek">ολοκαρπώσεώς</span></big> <sup><small><small>[[G8493]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sacrifices | <big><span class="asgreek">θυσίαις</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you glorified | <big><span class="asgreek">εδόξασάς</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You were not enslaved | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδούλωσας</span></big> <sup><small><small>[[G1402]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sacrifices, | <big><span class="asgreek">θυσίαις</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| weary | <big><span class="asgreek">έγκοπον</span></big> <sup><small><small>[[G7024]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| frankincense. | <big><span class="asgreek">λιβάνω</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
+| You did not | **<big>[[G3756\|ουκ]]</big>** |
+| bring | **<big>[[G5342\|ήνεγκάς]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| of your sheep, | **<big>[[G4263\|πρόβατα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| of your whole offering; | **<big>[[G8493\|ολοκαρπώσεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your sacrifices | **<big>[[G2378\|θυσίαις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you glorified | **<big>[[G1392\|εδόξασάς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| You were not enslaved | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1402\|εδούλωσας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| sacrifices, | **<big>[[G2378\|θυσίαις]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| weary | **<big>[[G7024\|έγκοπον]]</big>** |
+| did | **<big>[[G4160\|εποίησας]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| frankincense. | **<big>[[G3030\|λιβάνω]]</big>** |
 [[Isa.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.22|<< Isaiah 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.24|Isaiah 43:24 >>]]</td></tr></table>
 
 

@@ -7,40 +7,40 @@ And it shall come to pass, [that] instead of sweet smell there shall be stink; a
 Instead of fragrance there will be a stench; instead of a belt, a rope; instead of styled hair, baldness; instead of fine clothing, sackcloth; instead of beauty, shame.<small><sub>**MT:**</sub></small>
 [[Isa.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.23|<< Isaiah 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.25|Isaiah 3:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| scent | <big><span class="asgreek">οσμής</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| an agreeable | <big><span class="asgreek">ηδείας</span></big> <sup><small><small>[[G7620]]</small></small></sup> |
-| a cloud of dust | <big><span class="asgreek">κονιορτός</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| a belt, | <big><span class="asgreek">ζώνης</span></big> <sup><small><small>[[G2223]]</small></small></sup> |
-| with a rough cord | <big><span class="asgreek">σχοινίω</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
-| you shall tie around | <big><span class="asgreek">ζώση</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ornament | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| baldness | <big><span class="asgreek">φαλάκρωμα</span></big> <sup><small><small>[[G9616]]</small></small></sup> |
-| you shall have | <big><span class="asgreek">έξεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your works; | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| instead | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner garment | <big><span class="asgreek">χιτώνος</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of purple ornamentation, | <big><span class="asgreek">μεσοπορφύρου</span></big> <sup><small><small>[[G8292]]</small></small></sup> |
-| you shall gird on | <big><span class="asgreek">περιζώση</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| sackcloth. | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| scent | **<big>[[G3744\|οσμής]]</big>** |
+| an agreeable | **<big>[[G7620\|ηδείας]]</big>** |
+| a cloud of dust | **<big>[[G2868\|κονιορτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| a belt, | **<big>[[G2223\|ζώνης]]</big>** |
+| with a rough cord | **<big>[[G4979\|σχοινίω]]</big>** |
+| you shall tie around | **<big>[[G2224\|ζώση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ornament | **<big>[[G2889\|κόσμου]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| baldness | **<big>[[G9616\|φαλάκρωμα]]</big>** |
+| you shall have | **<big>[[G2192\|έξεις]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your works; | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| instead | **<big>[[G0473\|αντί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| inner garment | **<big>[[G5509\|χιτώνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of purple ornamentation, | **<big>[[G8292\|μεσοπορφύρου]]</big>** |
+| you shall gird on | **<big>[[G4024\|περιζώση]]</big>** |
+| sackcloth. | **<big>[[G4526\|σάκκον]]</big>** |
 [[Isa.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.23|<< Isaiah 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.25|Isaiah 3:25 >>]]</td></tr></table>
 
 

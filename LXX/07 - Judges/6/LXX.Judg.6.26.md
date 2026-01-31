@@ -7,45 +7,45 @@ And build an altar unto the LORD thy God upon the top of this rock, in the order
 Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”<small><sub>**MT:**</sub></small>
 [[Judg.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.25|<< Judges 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.27|Judges 6:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall build | <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearing | <big><span class="asgreek">οφθέντι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of Maoz | <big><span class="asgreek">Μαώζ</span></big> <sup><small><small>[[H4581]]</small></small></sup> |
-| of this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle array. | <big><span class="asgreek">παρατάξει</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ανοίσεις</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλοις</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred grove | <big><span class="asgreek">άλσους</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you cut down. | <big><span class="asgreek">εκκόψεις</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall build | **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| appearing | **<big>[[G3708\|οφθέντι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| top | **<big>[[G8073\|κορυφής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| of Maoz | **<big>[[H4581\|Μαώζ]]</big>** |
+| of this | **<big>[[G3778\|τούτου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| battle array. | **<big>[[G8640\|παρατάξει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall take | **<big>[[G2983\|λήψη]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| second | **<big>[[G1208\|δευτέρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall offer | **<big>[[G0399\|ανοίσεις]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| trees | **<big>[[G3586\|ξύλοις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sacred grove | **<big>[[G6242\|άλσους]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| you cut down. | **<big>[[G1581\|εκκόψεις]]</big>** |
 [[Judg.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.25|<< Judges 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.27|Judges 6:27 >>]]</td></tr></table>
 
 

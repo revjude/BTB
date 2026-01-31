@@ -7,18 +7,18 @@ For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thys
 Should I hold my head high, You would hunt me like a lion, and again display Your power against me.<small><sub>**MT:**</sub></small>
 [[Job.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For I am caught | <big><span class="asgreek">αγρεύομαι</span></big> <sup><small><small>[[G0064]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| slaughter; | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
-| and again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in turning | <big><span class="asgreek">μεταβαλών</span></big> <sup><small><small>[[G3328]]</small></small></sup> |
-| awfully | <big><span class="asgreek">δεινώς</span></big> <sup><small><small>[[G1171]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you destroy | <big><span class="asgreek">ολέκεις</span></big> <sup><small><small>[[G8481]]</small></small></sup> |
+| For I am caught | **<big>[[G0064\|αγρεύομαι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| slaughter; | **<big>[[G4967\|σφαγήν]]</big>** |
+| and again | **<big>[[G3825\|πάλιν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in turning | **<big>[[G3328\|μεταβαλών]]</big>** |
+| awfully | **<big>[[G1171\|δεινώς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| you destroy | **<big>[[G8481\|ολέκεις]]</big>** |
 [[Job.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
 
 

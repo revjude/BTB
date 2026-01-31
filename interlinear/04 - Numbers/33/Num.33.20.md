@@ -6,13 +6,13 @@ They set out from Rimmon-perez and camped at Libnah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.19|<< Numbers 33:19]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.21|Numbers 33:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they set out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּסְע֖וּ </big></span><small><small><sup>[[H5265]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yis.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Rimmon-  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רִמֹּ֣ן </big></span><small><small><sup>[[H7428]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> ri.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perez  | <span class="ashebrew"><big>פָּ֑רֶץ </big></span><small><small><sup>[[H7428]]</sup></small></small> &#8207;| Pa.retz <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they encamped  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּחֲנ֖וּ </big></span><small><small><sup>[[H2583]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.cha.Nu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Libnah  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לִבְנָֽה </big></span><small><small><sup>[[H3841G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> liv.Nah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְע֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Rimmon-  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7428\|רִמֹּ֣ן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perez  |**<big>&#8207;[[H7428\|פָּ֑רֶץ]]&#8207; </big>**| Pa.retz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2583\|יַּחֲנ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Libnah  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3841G\|לִבְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> liv.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.19|<< Numbers 33:19]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.21|Numbers 33:21 >>]]</td></tr></table>
 
 

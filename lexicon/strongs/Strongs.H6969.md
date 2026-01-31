@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קוּן‎</span></big> **qûwn** <small>*(koon)*</small> ==**to chant**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קוּן‎</span></big>** **qûwn** <small>*(koon)*</small> ==**to chant**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lament, mourning woman.

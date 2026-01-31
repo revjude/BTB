@@ -7,31 +7,31 @@ And the servant that was set over the reapers answered and said, It [is] the Moa
 The foreman answered, “She is the Moabitess who returned with Naomi from the land of Moab.<small><sub>**MT:**</sub></small>
 [[Ruth.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.5|<< Ruth 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.7|Ruth 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| attending | <big><span class="asgreek">εφεστός</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvesting | <big><span class="asgreek">θερίζοντας</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| She | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moabitess | <big><span class="asgreek">Μωαβίτις</span></big> <sup><small><small>[[H4125]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| returning | <big><span class="asgreek">αποστραφείσα</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Naomi | <big><span class="asgreek">Νοομί</span></big> <sup><small><small>[[H5281]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] country | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| servant | **<big>[[G3808\|παιδάριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| attending | **<big>[[G2186\|εφεστός]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| harvesting | **<big>[[G2325\|θερίζοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| She | **<big>[[G3588\|η]]</big>** |
+| servant | **<big>[[G3816\|παις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| Moabitess | **<big>[[H4125\|Μωαβίτις]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| returning | **<big>[[G0654\|αποστραφείσα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Naomi | **<big>[[H5281\|Νοομί]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] country | **<big>[[G0068\|αγρού]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Ruth.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.5|<< Ruth 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.7|Ruth 2:7 >>]]</td></tr></table>
 
 

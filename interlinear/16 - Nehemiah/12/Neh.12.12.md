@@ -6,18 +6,18 @@ In the days of Joiakim, these were the heads of the priestly families: of the fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and in [the] days of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ימֵי֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi. <small><sup>[[HR]]</sup></small> Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joiakim  | <span class="ashebrew"><big>יֽוֹיָקִ֔ים </big></span><small><small><sup>[[H3113]]</sup></small></small> &#8207;| yo.ya.Kim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were  | <span class="ashebrew"><big>הָי֥וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| priests  | <span class="ashebrew"><big>כֹהֲנִ֖ים </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| kho.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] leaders of  | <span class="ashebrew"><big>רָאשֵׁ֣י </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fathers  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָב֑וֹת </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Seraiah  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׂרָיָ֣ה </big></span><small><small><sup>[[H8304L]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> s.ra.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meraiah  | <span class="ashebrew"><big>מְרָיָ֔ה </big></span><small><small><sup>[[H4811]]</sup></small></small> &#8207;| me.ra.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Jeremiah  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יִרְמְיָ֖ה </big></span><small><small><sup>[[H3414M]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> yir.me.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hananiah  | <span class="ashebrew"><big>חֲנַנְיָֽה </big></span><small><small><sup>[[H2608J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.nan.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in [the] days of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3117G\|ימֵי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joiakim  |**<big>&#8207;[[H3113\|יֽוֹיָקִ֔ים]]&#8207; </big>**| yo.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  |**<big>&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priests  |**<big>&#8207;[[H3548\|כֹהֲנִ֖ים]]&#8207; </big>**| kho.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fathers  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0001G\|אָב֑וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Seraiah  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8304L\|שְׂרָיָ֣ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> s.ra.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meraiah  |**<big>&#8207;[[H4811\|מְרָיָ֔ה]]&#8207; </big>**| me.ra.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jeremiah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3414M\|יִרְמְיָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yir.me.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hananiah  |**<big>&#8207;[[H2608J\|חֲנַנְיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.nan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 
 

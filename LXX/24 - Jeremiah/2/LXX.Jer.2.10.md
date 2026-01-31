@@ -7,27 +7,27 @@ For pass over the isles of Chittim, and see; and send unto Kedar, and consider d
 Cross over to the coasts of Cyprus and take a look; send to Kedar and consider carefully; see if there has ever been anything like this:<small><sub>**MT:**</sub></small>
 [[Jer.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.9|<< Jeremiah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.11|Jeremiah 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| go | <big><span class="asgreek">διέλθετε</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] islands | <big><span class="asgreek">νήσους</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| of \[the\] Chittim, | <big><span class="asgreek">Χεττιείμ</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Kedar | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
-| send | <big><span class="asgreek">αποστείλατε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| comprehend | <big><span class="asgreek">νοήσατε</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| exceedingly! | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| have taken place | <big><span class="asgreek">γέγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| such \[things\] | <big><span class="asgreek">τοιαύτα</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
+| For | **<big>[[G2089\|έτι]]</big>** |
+| go | **<big>[[G1330\|διέλθετε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] islands | **<big>[[G3520\|νήσους]]</big>** |
+| of \[the\] Chittim, | **<big>[[H2850\|Χεττιείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see! | **<big>[[G1492\|ίδετε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Kedar | **<big>[[H6938\|Κηδάρ]]</big>** |
+| send | **<big>[[G0649\|αποστείλατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| comprehend | **<big>[[G3539\|νοήσατε]]</big>** |
+| exceedingly! | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| see! | **<big>[[G1492\|ίδετε]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| have taken place | **<big>[[G1096\|γέγονε]]</big>** |
+| such \[things\] | **<big>[[G5108\|τοιαύτα]]</big>** |
 [[Jer.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.9|<< Jeremiah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.11|Jeremiah 2:11 >>]]</td></tr></table>
 
 

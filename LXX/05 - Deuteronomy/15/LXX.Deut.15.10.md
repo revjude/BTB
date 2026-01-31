@@ -7,45 +7,45 @@ Thou shalt surely give him, and thine heart shall not be grieved when thou gives
 Give generously to him, and do not let your heart be grieved when you do so. And because of this the LORD your God will bless you in all your work and in everything to which you put your hand.<small><sub>**MT:**</sub></small>
 [[Deut.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.9|<< Deuteronomy 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.11|Deuteronomy 15:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Giving, | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a loan | <big><span class="asgreek">δάνειον</span></big> <sup><small><small>[[G1156]]</small></small></sup> |
-| you shall lend | <big><span class="asgreek">δανιείς</span></big> <sup><small><small>[[G1155]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he wants | <big><span class="asgreek">επιδέηται</span></big> <sup><small><small>[[G7402]]</small></small></sup> |
-| of you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not fret | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λυπηθήση</span></big> <sup><small><small>[[G3076]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of your giving | <big><span class="asgreek">διδόντος</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will bless | <big><span class="asgreek">ευλογήσει</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your works, | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should put | <big><span class="asgreek">επιβάλης</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand \[to\]. | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Giving, | **<big>[[G1325\|διδούς]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a loan | **<big>[[G1156\|δάνειον]]</big>** |
+| you shall lend | **<big>[[G1155\|δανιείς]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as much as | **<big>[[G3745\|όσον]]</big>** **<big>[[G0302\|αν]]</big>** |
+| he wants | **<big>[[G7402\|επιδέηται]]</big>** |
+| of you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall not fret | **<big>[[G3756\|ου]]</big>** **<big>[[G3076\|λυπηθήση]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of your giving | **<big>[[G1325\|διδόντος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this matter | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| will bless | **<big>[[G2127\|ευλογήσει]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your works, | **<big>[[G2041\|έργοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάσιν]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should put | **<big>[[G1911\|επιβάλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hand \[to\]. | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.9|<< Deuteronomy 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.11|Deuteronomy 15:11 >>]]</td></tr></table>
 
 

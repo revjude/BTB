@@ -7,22 +7,22 @@ In the day of our king the princes have made [him] sick with bottles of wine; he
 The princes are inflamed with wine on the day of our king; so he joins hands with those who mock him.<small><sub>**MT:**</sub></small>
 [[Hos.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.4|<< Hosea 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.6|Hosea 7:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In \[the\] days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| began | <big><span class="asgreek">ήρξαντο</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| to be enraged | <big><span class="asgreek">θυμούσθαι</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| wine; | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| he stretched out | <big><span class="asgreek">εξέτεινε</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| pestilent ones. | <big><span class="asgreek">λοιμών</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
+| In \[the\] days | **<big>[[G2250\|ημέραι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our kings | **<big>[[G0935\|βασιλέων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| began | **<big>[[G0756\|ήρξαντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| to be enraged | **<big>[[G2373\|θυμούσθαι]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| wine; | **<big>[[G3631\|οίνου]]</big>** |
+| he stretched out | **<big>[[G1614\|εξέτεινε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hands | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| pestilent ones. | **<big>[[G3061\|λοιμών]]</big>** |
 [[Hos.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.4|<< Hosea 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.6|Hosea 7:6 >>]]</td></tr></table>
 
 

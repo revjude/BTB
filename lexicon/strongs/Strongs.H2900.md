@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טוֹבִיָּה‎</span></big> **Ṭôwbîyâh** <small>*(to-bee-yaw')*</small> ==**Tobijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">טוֹבִיָּהוּ</span> **Ṭôwbîyâhûw** <small>*(tobee-yaw'-hoo)*</small>; from <span class="ashebrew">‎טוֹב‎</span><sup><small>[[H2896]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; goodness of Jehovah</small>
+**<big><span class="ashebrew">‎טוֹבִיָּה‎</span></big>** **Ṭôwbîyâh** <small>*(to-bee-yaw')*</small> ==**Tobijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">טוֹבִיָּהוּ</span></big>** **Ṭôwbîyâhûw** <small>*(tobee-yaw'-hoo)*</small>; from **<big>[[H2896|‎טוֹב‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; goodness of Jehovah</small>
 
 $\quad$ Tobiah, Tobijah.
 - § Tobiah = *"Jehovah is good"*

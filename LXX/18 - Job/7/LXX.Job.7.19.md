@@ -7,20 +7,20 @@ How long wilt thou not depart from me, nor let me alone till I swallow down my s
 Will You never look away from me, or leave me alone to swallow my spittle?<small><sub>**MT:**</sub></small>
 [[Job.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.20|Job 7:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For how long | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you not allow | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εάς</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| let me go, | <big><span class="asgreek">προϊη</span></big> <sup><small><small>[[G8896]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should swallow down | <big><span class="asgreek">καταπίω</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spittle | <big><span class="asgreek">πτύελόν</span></big> <sup><small><small>[[G8981]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| grief? | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| For how long | **<big>[[G2193\|έως]]</big>** **<big>[[G5100\|τίνος]]</big>** |
+| do you not allow | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1439\|εάς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| let me go, | **<big>[[G8896\|προϊη]]</big>** **<big>[[G1473\|με]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| I should swallow down | **<big>[[G2666\|καταπίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my spittle | **<big>[[G8981\|πτύελόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| grief? | **<big>[[G3601\|οδύνη]]</big>** |
 [[Job.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.20|Job 7:20 >>]]</td></tr></table>
 
 

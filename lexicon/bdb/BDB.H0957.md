@@ -1,4 +1,4 @@
-<small>Also see: [[H0897]]</small>
+<small>Also see: **<big>[[H0897|בַּג]]</big>**</small>
 
  <span class="bdbLangHebrew">‎בַּז‎</span> **noun [masculine]** ==spoiling, robbery==; spoil, booty — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בּ‎</span> absolute [[Num.14.3|Num 14:3]] +; so also [[Ezek.25.7|Ezek 25:7]] [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎בג‎</span> meaningless); <span class="bdbLangHebrew">‎בַּ֑ז‎</span> [[Jer.2.14|Jer 2:14]] +; but <span class="bdbLangHebrew">‎הַבָּ֔ז‎</span> [[Num.31.32|Num 31:32]] see [[BDB#van d.H.|d. H]]; suffix <span class="bdbLangHebrew">‎בִּזָּהּ‎</span> [[Exod.29.19|Exod 29:19]] — 
 

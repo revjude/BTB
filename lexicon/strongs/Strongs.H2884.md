@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טַבָּעוֹת‎</span></big> **Ṭabbâʻôwth** <small>*(tab-baw-othe')*</small> ==**Tabbaoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural of <span class="ashebrew">‎טַבַּעַת‎</span><sup><small>[[H2885]]</small></sup>; rings</small>
+**<big><span class="ashebrew">‎טַבָּעוֹת‎</span></big>** **Ṭabbâʻôwth** <small>*(tab-baw-othe')*</small> ==**Tabbaoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural of **<big>[[H2885|‎טַבַּעַת‎]]</big>**; rings</small>
 
 $\quad$ Tabaoth.
 - § Tabbaoth = *"rings"*

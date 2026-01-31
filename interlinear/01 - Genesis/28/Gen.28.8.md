@@ -6,17 +6,17 @@ And seeing that his father Isaac disapproved of the Canaanite women,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.7|<< Genesis 28:7]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.9|Genesis 28:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he saw  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֣רְא </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yar' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָׂ֔ו </big></span><small><small><sup>[[H6215G]]</sup></small></small> &#8207;| 'e.Sav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] displeasing  | <span class="ashebrew"><big>רָע֖וֹת </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| ra.'ot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Canaan  | <span class="ashebrew"><big>כְּנָ֑עַן </big></span><small><small><sup>[[H3667A]]</sup></small></small> &#8207;| ke.Na.'an <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] eyes of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵינֵ֖י </big></span><small><small><sup>[[H5869I]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Isaac  | <span class="ashebrew"><big>יִצְחָ֥ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  | <span class="ashebrew"><big>אָבִֽי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֔ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] displeasing  |**<big>&#8207;[[H7451H\|רָע֖וֹת]]&#8207; </big>**| ra.'ot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנָ֑עַן]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵ֖י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֥ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.7|<< Genesis 28:7]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.9|Genesis 28:9 >>]]</td></tr></table>
 
 

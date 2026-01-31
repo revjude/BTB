@@ -6,16 +6,16 @@ Surely all of you have seen it for yourselves. Why then do you keep up this empt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.11|<< Job 27:11]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.13|Job 27:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הֵן </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hen- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתֶּ֣ם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| 'a.Tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of you  | <span class="ashebrew"><big>כֻּלְּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>כֶ֣ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| ku.le. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have seen  | <span class="ashebrew"><big>חֲזִיתֶ֑ם </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| cha.zi.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<to> why?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> la. <small><sup>[[HR]]</sup></small> mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶּ֝֗ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vanity  | <span class="ashebrew"><big>הֶ֣בֶל </big></span><small><small><sup>[[H1892]]</sup></small></small> &#8207;| He.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do you act in vain  | <span class="ashebrew"><big>תֶּהְבָּֽלוּ </big></span><small><small><sup>[[H1891]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| teh.Ba.lu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2005\|הֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859D\|אַתֶּ֣ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of you  |**<big>&#8207;[[H3605\|כֻּלְּ]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| ku.le.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have seen  |**<big>&#8207;[[H2372\|חֲזִיתֶ֑ם]]&#8207; </big>**| cha.zi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶּ֝֗ה]]&#8207; </big>**| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vanity  |**<big>&#8207;[[H1892\|הֶ֣בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you act in vain  |**<big>&#8207;[[H1891\|תֶּהְבָּֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| teh.Ba.lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.11|<< Job 27:11]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.13|Job 27:13 >>]]</td></tr></table>
 
 

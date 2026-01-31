@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדֹנִיָּה‎</span></big> **ʼĂdônîyâh** <small>*(ad-o-nee-yaw')*</small> ==**Adonijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>original (prolonged) <span class="ashebrew">אֲדֹנִיָּהוּ</span> **ʼĂdônîyâhûw** <small>*(ad-o-nee-yaw'-hoo)*</small> ; from <span class="ashebrew">‎אָדוֹן‎</span><sup><small>[[H0113]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; lord (i.e. worshipper) of Jah</small>
+**<big><span class="ashebrew">‎אֲדֹנִיָּה‎</span></big>** **ʼĂdônîyâh** <small>*(ad-o-nee-yaw')*</small> ==**Adonijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>original (prolonged) **<big><span class="ashebrew">אֲדֹנִיָּהוּ</span></big>** **ʼĂdônîyâhûw** <small>*(ad-o-nee-yaw'-hoo)*</small> ; from **<big>[[H0113|‎אָדוֹן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; lord (i.e. worshipper) of Jah</small>
 
 $\quad$ Adonijah.
 - § Adonijah = *"my lord is Jehovah"*

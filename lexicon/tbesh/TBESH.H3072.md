@@ -1,4 +1,3 @@
-<span class="ashebrew">‎יְהֹוָה צִדְקֵנוּ‎</span> <small>***(ye.ho.vah tsid.qe.nu)***</small> ==**YHWH/Yahweh-tsidkenu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-combination of: <small>[[H3068G]] ([[H3068G]]+[[H6664H]])</small> 
+<small>combination of:</small> <small>**<big>[[H3068G|יְהֹוָה]]</big>** (**<big>[[H3068G|יְהֹוָה]]</big>**+**<big>[[H6664H|צֶדֶק]]</big>**)</small> 
 
 - Jehovah is our righteousness

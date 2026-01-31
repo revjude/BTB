@@ -7,48 +7,48 @@ But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, 
 But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”<small><sub>**MT:**</sub></small>
 [[Ezra.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.2|<< Ezra 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.4|Ezra 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Zerubbabel | <big><span class="asgreek">Ζοροβαβέλ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeshua, | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιποι</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| families | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[It is\] not for us | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ourselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| together | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall build | <big><span class="asgreek">οικοδομήσομεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Cyrus | <big><span class="asgreek">Κύρος</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Persians | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Zerubbabel | **<big>[[G2216\|Ζοροβαβέλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeshua, | **<big>[[H3091\|Ιησούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιποι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| families | **<big>[[G3965\|πατριών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[It is\] not for us | **<big>[[G3756\|ουχ]]</big>** **<big>[[G1473\|ημίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| ourselves | **<big>[[G1473\|αυτοί]]</big>** |
+| together | **<big>[[G1909\|επί]]</big>** **<big>[[G3588\|το]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| shall build | **<big>[[G3618\|οικοδομήσομεν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| Cyrus | **<big>[[H3567\|Κύρος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Persians | **<big>[[H6539\|Περσών]]</big>** |
 [[Ezra.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.2|<< Ezra 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.4|Ezra 4:4 >>]]</td></tr></table>
 
 

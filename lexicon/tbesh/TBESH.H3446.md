@@ -1,9 +1,7 @@
-<span class="ashebrew">‎יִשְׂחָק‎</span> <small>***(yis.chaq)***</small> ==**Isaac**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-spelling of: <small>[[H3327]]</small> 
+<small>spelling of:</small> <small>**<big>[[H3327|יִצְחָק]]</big>**</small> 
 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.17.19|Gen.17.19]]
--  son of: Abraham ([[H0085]]) and Sarah ([[H8283]])
--  half-brother of: Ishmael ([[H3458]]), Zimran ([[H2175]]), Jokshan ([[H3370]]), Medan ([[H4091]]), Midian ([[H4080]]), Ishbak ([[H3435]]) and Shuah ([[H7744]]); married to Rebekah ([[H7259]])
--  father of: Esau ([[H6215]]) and Israel ([[H3478]])
-- Another spelling of <i>yits.chaq</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ק‎</span> "Isaac" [[H3327]])
-
+-  son of: Abraham (**<big>[[H0085|אַבְרָהָם]]</big>**) and Sarah (**<big>[[H8283|שָׂרָה]]</big>**)
+-  half-brother of: Ishmael (**<big>[[H3458|יִשְׁמָעֵאל]]</big>**), Zimran (**<big>[[H2175|זִמְרָן]]</big>**), Jokshan (**<big>[[H3370|יׇקְשָׁן]]</big>**), Medan (**<big>[[H4091|מְדָן]]</big>**), Midian (**<big>[[H4080|מִדְיָן]]</big>**), Ishbak (**<big>[[H3435|יִשְׁבָּק]]</big>**) and Shuah (**<big>[[H7744|שׁוּחַ]]</big>**); married to Rebekah (**<big>[[H7259|רִבְקָה]]</big>**)
+-  father of: Esau (**<big>[[H6215|עֵשָׂו]]</big>**) and Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**)
+- Another spelling of <i>yits.chaq</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ק‎</span> "Isaac" **<big>[[H3327|יִצְחָק]]</big>**)

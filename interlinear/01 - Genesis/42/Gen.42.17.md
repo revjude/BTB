@@ -6,14 +6,14 @@ So Joseph imprisoned them for three days,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.16|<< Genesis 42:16]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.18|Genesis 42:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he removed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֶּאֱסֹ֥ף </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.'e.Sof <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֛ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| custody  | <span class="ashebrew"><big>מִשְׁמָ֖ר </big></span><small><small><sup>[[H4929]]</sup></small></small> &#8207;| mish.Mar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֥שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Lo.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֶּאֱסֹ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Sof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֛]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| custody  |**<big>&#8207;[[H4929\|מִשְׁמָ֖ר]]&#8207; </big>**| mish.Mar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.16|<< Genesis 42:16]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.18|Genesis 42:18 >>]]</td></tr></table>
 
 

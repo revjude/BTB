@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְטַל‎</span></big> **nᵉṭal** <small>*(net-al')*</small> ==**to lift**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָטַל‎</span><sup><small>[[H5190]]</small></sup></small>
+**<big><span class="asaramaic">‎נְטַל‎</span></big>** **nᵉṭal** <small>*(net-al')*</small> ==**to lift**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5190|‎נָטַל‎]]</big>**</small>
 
 $\quad$ take up.
 - ***to raise***
@@ -8,4 +8,4 @@ $\quad$ take up.
 $\quad$ **1a)** (P'al) to lift, lift up
 $\quad$ **1b)** (P'il) to be lifted
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκατάστατος</span><sup><small>[[G0182]]</small></sup> · <span class="asgreek">ἔκστασις</span><sup><small>[[G1611]]</small></sup> · <span class="asgreek">κλύδων</span><sup><small>[[G2830]]</small></sup> · <span class="asgreek">λαῖλαψ</span><sup><small>[[G2978]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup>
+<small>See Greek: </small>**<big>[[G0182|ἀκατάστατος]]</big>** · **<big>[[G1611|ἔκστασις]]</big>** · **<big>[[G2830|κλύδων]]</big>** · **<big>[[G2978|λαῖλαψ]]</big>** · **<big>[[G3709|ὀργή]]</big>**

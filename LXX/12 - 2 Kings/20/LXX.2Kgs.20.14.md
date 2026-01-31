@@ -7,40 +7,40 @@ Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said th
 Then the prophet Isaiah went to King Hezekiah and asked, “Where did those men come from, and what did they say to you?” “They came from a distant land,” Hezekiah replied, “from Babylon.”<small><sub>**MT:**</sub></small>
 [[2Kgs.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.13|<< 2 Kings 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.15|2 Kings 20:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| Isaiah | <big><span class="asgreek">Ησαϊας</span></big> <sup><small><small>[[G2268]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκίαν</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What did | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| say | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from what place | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| came they | <big><span class="asgreek">ήκον</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| at a distance -- | <big><span class="asgreek">πόρρωθεν</span></big> <sup><small><small>[[G4207]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήκον</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| Isaiah | **<big>[[G2268\|Ησαϊας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκίαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| What did | **<big>[[G5100\|τι]]</big>** |
+| say | **<big>[[G2980\|ελάλησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from what place | **<big>[[G4159\|πόθεν]]</big>** |
+| came they | **<big>[[G2240\|ήκον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hezekiah said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1478\|Εζεκίας]]</big>** |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| at a distance -- | **<big>[[G4207\|πόρρωθεν]]</big>** |
+| they came | **<big>[[G2240\|ήκον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
 [[2Kgs.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.13|<< 2 Kings 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.15|2 Kings 20:15 >>]]</td></tr></table>
 
 

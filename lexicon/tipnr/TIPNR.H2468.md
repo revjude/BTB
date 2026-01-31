@@ -4,8 +4,8 @@ Prophetess living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Huldah</span> was a prophetess who was consulted by King Josiah's officials regarding the authenticity of the Book of the Law discovered during temple repairs.
 - A prophetess living at the time of Divided Monarchy, first mentioned at [[2Kgs.22.14|2Ki.22.14]]; 
-- only referred to as Huldah<[[H2468]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Shallum<[[H7967H]]>.
+- only referred to as Huldah **<big>[[H2468|חֻלְדָּה]]</big>**; 
+- wife of Shallum **<big>[[H7967|שַׁלּוּם]]</big>**.
 
 Huldah was a prophetess who lived in Jerusalem during the reign of King Josiah of Judah \(640-609 BC\). She is mentioned in [[2Kgs.22.14|2 Kings 22:14]] and [[2Chr.34.22|2 Chronicles 34:22]] in connection with the discovery of the Book of the Law during the repair and restoration of the temple. 
 
@@ -17,7 +17,7 @@ Huldah's role as a prophetess during this crucial time in Judah's history highli
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Huldah | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2468) <small>*Hebrew*</small> | 2x | [[2Ki.22.14] & [2Ch.34.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huldah\*\|reference=2Ki.22.14;2Ch.34.22) |
-All Strong's for **Huldah**: \[[[H2468]]\]
+| Huldah | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2468) | 2x | [[2Ki.22.14] & [2Ch.34.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huldah\*\|reference=2Ki.22.14;2Ch.34.22) |
+All entries for **Huldah**:  **<big>[[H2468|חֻלְדָּה]]</big>**
 #### Related Profiles:
 - **[Shallum](H7967H)** (spouse)

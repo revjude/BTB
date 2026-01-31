@@ -7,30 +7,30 @@ And David said unto God, I have sinned greatly, because I have done this thing: 
 Then David said to God, “I have sinned greatly because I have done this thing. Now I beg You to take away the iniquity of Your servant, for I have acted very foolishly.”<small><sub>**MT:**</sub></small>
 [[1Chr.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.7|<< 1 Chronicles 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.9|1 Chronicles 21:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I have sinned | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I did | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing. | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| remove | <big><span class="asgreek">περίελε</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servant! | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I acted in folly | <big><span class="asgreek">εματαιώθην</span></big> <sup><small><small>[[G3154]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| I have sinned | **<big>[[G0264\|ημάρτηκα]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I did | **<big>[[G4160\|εποίησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing. | **<big>[[G4229\|πράγμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| remove | **<big>[[G4014\|περίελε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| iniquity | **<big>[[G0093\|αδικίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your servant! | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I acted in folly | **<big>[[G3154\|εματαιώθην]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[1Chr.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.7|<< 1 Chronicles 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.9|1 Chronicles 21:9 >>]]</td></tr></table>
 
 

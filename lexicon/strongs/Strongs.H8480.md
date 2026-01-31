@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחַת‎</span></big> **Tachath** <small>*(takh'-ath)*</small> ==**Tahath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎תַּחַת‎</span><sup><small>[[H8478]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחַת‎</span></big>** **Tachath** <small>*(takh'-ath)*</small> ==**Tahath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H8478|‎תַּחַת‎]]</big>**</small>
 
 $\quad$ Tahath.
 - § Tahath = *"station"*

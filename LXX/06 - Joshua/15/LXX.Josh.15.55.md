@@ -7,15 +7,15 @@ Maon, Carmel, and Ziph, and Juttah,
 Maon, Carmel, Ziph, Juttah,<small><sub>**MT:**</sub></small>
 [[Josh.15.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.54|<< Joshua 15:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.56|Joshua 15:56 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Maon, | <big><span class="asgreek">Μαών</span></big> <sup><small><small>[[H4584]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Carmel, | <big><span class="asgreek">Χερμέλ</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ziph, | <big><span class="asgreek">Ζιφ</span></big> <sup><small><small>[[H2128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Juttah, | <big><span class="asgreek">Ιεττά</span></big> <sup><small><small>[[H3194]]</small></small></sup> |
+| Maon, | **<big>[[H4584\|Μαών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Carmel, | **<big>[[H3760\|Χερμέλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ziph, | **<big>[[H2128\|Ζιφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Juttah, | **<big>[[H3194\|Ιεττά]]</big>** |
 [[Josh.15.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.54|<< Joshua 15:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.56|Joshua 15:56 >>]]</td></tr></table>
 
 

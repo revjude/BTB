@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָפַל‎</span></big> **ṭâphal** <small>*(taw-fal')*</small> ==**to smear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָפַל‎</span></big>** **ṭâphal** <small>*(taw-fal')*</small> ==**to smear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ forge(-r), sew up.

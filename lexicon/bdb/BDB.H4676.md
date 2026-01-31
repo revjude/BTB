@@ -1,4 +1,4 @@
-<small>Also see: [[H5324]]</small>
+<small>Also see: **<big>[[H5324|נָצַב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַצֵּבָה‎</span>, <span class="bdbLangHebrew">‎מַצֶּ֫בֶת‎</span> **noun feminine** ==pillar==, <abbr title="transliteration"><u>***maƒƒ¢b¹***</u></abbr>, ***stump***; — absolute <span class="bdbLangHebrew">‎מַצֵּבָה‎</span> [[Hos.3.4|Hos 3:4]] +,<span class="bdbLangHebrew">‎מַצֶּ֫בֶת‎</span> [[2Sam.18.18|2Sam 18:18]] a (read <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַמּ‎</span> [[BDB#Sept|ᵐ5]] [[BDB#Dr|Dr]] [[BDB#Bu|Bu]] [[BDB#Kit|Kit]]), v[[2Sam.18.18|2Sam 18:18]] b [[Isa.6.13|Isa 6:13]], construct <span class="bdbLangHebrew">‎מַצְּבַת‎</span> [[2Kgs.3.2|2Kgs 3:2]]; [[2Kgs.10.27|2Kgs 10:27]], <span class="bdbLangHebrew">‎מַצֶּ֫בֶת‎</span> [[Gen.35.14|Gen 35:14]]; [[Gen.35.20|Gen 35:20]] suffix <span class="bdbLangHebrew">‎מַצַּבְתָּהּ‎</span> [[Isa.6.13|Isa 6:13]] plural absolute <span class="bdbLangHebrew">‎מַצֵּבוֺת‎</span> [[1Kgs.14.28|1Kgs 14:28]], construct <span class="bdbLangHebrew">‎מַצְּבוֺת‎</span> [[2Kgs.10.26|2Kgs 10:26]], etc.; — 
 

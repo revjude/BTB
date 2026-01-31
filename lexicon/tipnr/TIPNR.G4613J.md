@@ -4,8 +4,8 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Simon</span> of Cyrene was compelled by Roman soldiers to carry Jesus' cross on the way to his crucifixion.
 - A man living at the time of the New Testament, first mentioned at [[Matt.27.32|Mat.27.32]]; 
-- only referred to as Simon<[[G4613J]]> \(<span class='tipnrLangGreek'>Σίμων</span>\); 
--  father of Alexander<[[G0223G]]>, Rufus<[[G4504G]]>.
+- only referred to as Simon **<big>[[G4613|Σίμων]]</big>**; 
+-  father of Alexander **<big>[[G0223|Ἀλέξανδρος]]</big>**, Rufus **<big>[[G4504|Ῥοῦφος]]</big>**.
 
 Simon of Cyrene is mentioned in [[Matt.27.32|Matthew 27:32]], [[Mark.15.21|Mark 15:21]], and [[Luke.23.26|Luke 23:26]] as the man who was compelled by Roman soldiers to carry Jesus' cross on the way to his crucifixion at Golgotha. Cyrene was a city in modern-day Libya, North Africa, indicating that Simon may have been a visitor to Jerusalem, possibly for the Passover festival. 
 
@@ -17,8 +17,8 @@ Simon's role in carrying Jesus' cross has been seen as a symbolic representation
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Simon | [<span class='tipnrLangGreek'>Σίμων</span>](G4613J) <small>*Greek*</small> | 3x | [[Mat.27.32] ... [Luk.23.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simon\*\|reference=Mat.27.32;Mrk.15.21;Luk.23.26) |
-All Strong's for **Simon**: \[[[G4613J]]\]
+| Simon | [<span class='tipnrLangGreek'>Σίμων</span>](G4613J) | 3x | [[Mat.27.32] ... [Luk.23.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simon\*\|reference=Mat.27.32;Mrk.15.21;Luk.23.26) |
+All entries for **Simon**:  **<big>[[G4613|Σίμων]]</big>**
 #### Related Profiles:
 - **[Alexander](G0223G)** (child)
 - **[Rufus](G4504G)** (child)

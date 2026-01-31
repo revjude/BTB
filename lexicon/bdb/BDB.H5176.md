@@ -1,4 +1,4 @@
-<small>Also see: [[H5904]]</small>
+<small>Also see: **<big>[[H5904|עִיר נָחָשׁ]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎נָחָשׁ‎</span> 
 

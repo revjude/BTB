@@ -7,16 +7,16 @@ The liberal soul shall be made fat: and he that watereth shall be watered also h
 A generous soul will prosper, and he who refreshes others will himself be refreshed.<small><sub>**MT:**</sub></small>
 [[Prov.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.24|<< Proverbs 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.26|Proverbs 11:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| is being blessed | <big><span class="asgreek">ευλογουμένη</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sincere | <big><span class="asgreek">απλή</span></big> <sup><small><small>[[G0573]]</small></small></sup> |
-| but a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| inclined to rage | <big><span class="asgreek">θυμώδης</span></big> <sup><small><small>[[G7698]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| decent. | <big><span class="asgreek">ευσχήμων</span></big> <sup><small><small>[[G2158]]</small></small></sup> |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| is being blessed | **<big>[[G2127\|ευλογουμένη]]</big>** |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| sincere | **<big>[[G0573\|απλή]]</big>** |
+| but a man | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| inclined to rage | **<big>[[G7698\|θυμώδης]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** |
+| decent. | **<big>[[G2158\|ευσχήμων]]</big>** |
 [[Prov.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.24|<< Proverbs 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.26|Proverbs 11:26 >>]]</td></tr></table>
 
 

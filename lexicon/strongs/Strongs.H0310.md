@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַחַר‎</span></big> **ʼachar** <small>*(akh-ar')*</small> ==**after**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אָחַר‎</span><sup><small>[[H0309]]</small></sup></small>
+**<big><span class="ashebrew">‎אַחַר‎</span></big>** **ʼachar** <small>*(akh-ar')*</small> ==**after**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0309|‎אָחַר‎]]</big>**</small>
 
 $\quad$ after (that, -ward), again, at, away from, back (from, -side), behind, beside, by, follow (after, -ing), forasmuch, from, hereafter, hinder end, [phrase] out (over) live, [phrase] persecute, posterity, pursuing, remnant, seeing, since, thence(-forth), when, with.
 - properly, ***the hind part***
@@ -21,4 +21,4 @@ $\quad$ **1e)** with other prepositions
 $\quad$ $\quad$ **1e1)** from behind
 $\quad$ $\quad$ **1e2)** from following after
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὄπισθεν</span><sup><small>[[G3693]]</small></sup> · <span class="asgreek">ὄπισθεν</span><sup><small>[[G3693]]</small></sup> · <span class="asgreek">ὀπίσω</span><sup><small>[[G3694]]</small></sup> · <span class="asgreek">ὀπίσω</span><sup><small>[[G3694]]</small></sup>
+<small>See Greek: </small>**<big>[[G3693|ὄπισθεν]]</big>** · **<big>[[G3693|ὄπισθεν]]</big>** · **<big>[[G3694|ὀπίσω]]</big>** · **<big>[[G3694|ὀπίσω]]</big>**

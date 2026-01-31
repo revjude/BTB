@@ -1,4 +1,4 @@
-form of: <small>[[G3117]]</small> 
+form of: <small>**<big>[[G3117|μακρός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μακράν==</span></b>, 

@@ -7,24 +7,24 @@ Ye shall buy meat of them for money, that ye may eat; and ye shall also buy wate
 You are to pay them in silver for the food you eat and the water you drink.’”<small><sub>**MT:**</sub></small>
 [[Deut.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.5|<< Deuteronomy 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.7|Deuteronomy 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| foods | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| buy | <big><span class="asgreek">αγοράσατε</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eat, | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| measured out | <big><span class="asgreek">μέτρω</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| you shall receive | <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall drink. | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| With silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| foods | **<big>[[G1033\|βρώματα]]</big>** |
+| buy | **<big>[[G0059\|αγοράσατε]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eat, | **<big>[[G2068\|φάγεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| measured out | **<big>[[G3358\|μέτρω]]</big>** |
+| you shall receive | **<big>[[G2983\|λήψεσθε]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| by silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall drink. | **<big>[[G4095\|πίεσθε]]</big>** |
 [[Deut.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.5|<< Deuteronomy 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.7|Deuteronomy 2:7 >>]]</td></tr></table>
 
 

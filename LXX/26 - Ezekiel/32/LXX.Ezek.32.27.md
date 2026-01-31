@@ -7,44 +7,44 @@ And they shall not lie with the mighty [that are] fallen of the uncircumcised, w
 They do not lie down with the fallen warriors of old, who went down to Sheol with their weapons of war, whose swords were placed under their heads, whose shields rested on their bones, although the terror of the mighty was once in the land of the living.<small><sub>**MT:**</sub></small>
 [[Ezek.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.26|<< Ezekiel 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.28|Ezekiel 32:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sleep | <big><span class="asgreek">εκοιμήθησαν</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giants | <big><span class="asgreek">γιγάντων</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having fallen | <big><span class="asgreek">πεπτωκότων</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] eon, | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| \[the\] ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβησαν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| weapons | <big><span class="asgreek">όπλοις</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| of warfare; | <big><span class="asgreek">πολεμικοίς</span></big> <sup><small><small>[[G8839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put | <big><span class="asgreek">έθηκαν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their swords | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heads, | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lawless deeds | <big><span class="asgreek">ανομίαι</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bones, | <big><span class="asgreek">οστεών</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were frightened | <big><span class="asgreek">εξεφοβήθησαν</span></big> <sup><small><small>[[G1629]]</small></small></sup> |
-| giants | <big><span class="asgreek">γίγαντες</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their life. | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sleep | **<big>[[G2837\|εκοιμήθησαν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| giants | **<big>[[G6736\|γιγάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| having fallen | **<big>[[G4098\|πεπτωκότων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] eon, | **<big>[[G0165\|αιώνος]]</big>** |
+| \[the\] ones who | **<big>[[G3739\|οι]]</big>** |
+| went down | **<big>[[G2597\|κατέβησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades | **<big>[[G0086\|άδου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| weapons | **<big>[[G3696\|όπλοις]]</big>** |
+| of warfare; | **<big>[[G8839\|πολεμικοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they put | **<big>[[G5087\|έθηκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their swords | **<big>[[G3162\|μαχαίρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their heads, | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their lawless deeds | **<big>[[G0458\|ανομίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their bones, | **<big>[[G3747\|οστεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they were frightened | **<big>[[G1629\|εξεφοβήθησαν]]</big>** |
+| giants | **<big>[[G6736\|γίγαντες]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their life. | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.26|<< Ezekiel 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.28|Ezekiel 32:28 >>]]</td></tr></table>
 
 

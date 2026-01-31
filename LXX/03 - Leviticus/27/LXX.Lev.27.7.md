@@ -7,27 +7,27 @@ And if [it be] from sixty years old and above; if [it be] a male, then thy estim
 And if the person is sixty years of age or older, then your valuation shall be fifteen shekels for the male and ten shekels for the female.<small><sub>**MT:**</sub></small>
 [[Lev.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.6|<< Leviticus 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.8|Leviticus 27:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| sixty years old | <big><span class="asgreek">εξηκονταετών</span></big> <sup><small><small>[[G7326]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| up, | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| indeed | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| a male | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| it might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fifteen | <big><span class="asgreek">πεντεκαιδέκα</span></big> <sup><small><small>[[G8699]]</small></small></sup> |
-| double-drachmas | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| of silver; | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| female | <big><span class="asgreek">θηλείας</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| double-drachmas. | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| sixty years old | **<big>[[G7326\|εξηκονταετών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| up, | **<big>[[G1883\|επάνω]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| indeed | **<big>[[G3303\|μεν]]</big>** |
+| a male | **<big>[[G0730\|άρσεν]]</big>** |
+| it might be | **<big>[[G1510\|η]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his value | **<big>[[G5092\|τιμή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| fifteen | **<big>[[G8699\|πεντεκαιδέκα]]</big>** |
+| double-drachmas | **<big>[[G1323\|δίδραχμα]]</big>** |
+| of silver; | **<big>[[G0694\|αργυρίου]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| female | **<big>[[G2338\|θηλείας]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| double-drachmas. | **<big>[[G1323\|δίδραχμα]]</big>** |
 [[Lev.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.6|<< Leviticus 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.8|Leviticus 27:8 >>]]</td></tr></table>
 
 

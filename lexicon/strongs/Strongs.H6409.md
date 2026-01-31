@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּלְטִיאֵל‎</span></big> **Palṭîyʼêl** <small>*(pal-tee-ale')*</small> ==**Paltiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎פֶּלֶט‎</span><sup><small>[[H6404]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; deliverance of God</small>
+**<big><span class="ashebrew">‎פַּלְטִיאֵל‎</span></big>** **Palṭîyʼêl** <small>*(pal-tee-ale')*</small> ==**Paltiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H6404|‎פֶּלֶט‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; deliverance of God</small>
 
 $\quad$ Paltiel, Phaltiel.
 - § Paltiel or Phaltiel = *"God delivers"*

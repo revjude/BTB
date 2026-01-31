@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶרֶךְ‎</span></big> **ʼErek** <small>*(eh'-rek)*</small> ==**Erech**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָרַךְ‎</span><sup><small>[[H0748]]</small></sup>; length</small>
+**<big><span class="ashebrew">‎אֶרֶךְ‎</span></big>** **ʼErek** <small>*(eh'-rek)*</small> ==**Erech**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0748|‎אָרַךְ‎]]</big>**; length</small>
 
 $\quad$ Erech.
 - § Erech = *"long"*

@@ -1,4 +1,4 @@
-<small>Also see: [[H5991]]</small>
+<small>Also see: **<big>[[H5991|עַמִּיחוּר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עַמִּיהוּד‎</span> **proper name, masculine** (***my kinsman is majesty***); — [[BDB#Sept|ᵐ5]] (<span class="bdbLangGreek">Σ</span>)<span class="bdbLangGreek">εμιουδ</span>, <span class="bdbLangGreek">Αμιουδ</span>, etc.: 
 

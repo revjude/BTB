@@ -6,16 +6,16 @@ All these were heads of families, the chiefs according to their genealogies, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.27|<< 1 Chronicles 8:27]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.29|1 Chronicles 8:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֣לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were the] chiefs of  | <span class="ashebrew"><big>רָאשֵׁ֥י </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fathers  | <span class="ashebrew"><big>אָב֛וֹת </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to generations their  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>תֹלְדוֹתָ֖ </big></span><small><small><sup>[[H8435]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> to.le.do.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chiefs  | <span class="ashebrew"><big>רָאשִׁ֑ים </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ra.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they dwelt  | <span class="ashebrew"><big>יָשְׁב֥וּ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| ya.she.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Jerusalem  | <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ירוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| vi. <small><sup>[[HR]]</sup></small> ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were the] chiefs of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֥י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers  |**<big>&#8207;[[H0001G\|אָב֛וֹת]]&#8207; </big>**| 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8435\|תֹלְדוֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chiefs  |**<big>&#8207;[[H7218H\|רָאשִׁ֑ים]]&#8207; </big>**| ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they dwelt  |**<big>&#8207;[[H3427\|יָשְׁב֥וּ]]&#8207; </big>**| ya.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.27|<< 1 Chronicles 8:27]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.29|1 Chronicles 8:29 >>]]</td></tr></table>
 
 

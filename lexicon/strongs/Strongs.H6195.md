@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇרְמָה‎</span></big> **ʻormâh** <small>*(or-maw')*</small> ==**craftiness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹרֶם‎</span><sup><small>[[H6193]]</small></sup></small>
+**<big><span class="ashebrew">‎עׇרְמָה‎</span></big>** **ʻormâh** <small>*(or-maw')*</small> ==**craftiness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6193|‎עֹרֶם‎]]</big>**</small>
 
 $\quad$ guile, prudence, subtilty, wilily, wisdom.
 - ***trickery***
@@ -7,4 +7,4 @@ $\quad$ guile, prudence, subtilty, wilily, wisdom.
 
 **1)** shrewdness, craftiness, prudence
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">δόλος</span><sup><small>[[G1388]]</small></sup> · <span class="asgreek">πανουργία</span><sup><small>[[G3834]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup>
+<small>See Greek: </small>**<big>[[G1012|βουλή]]</big>** · **<big>[[G1388|δόλος]]</big>** · **<big>[[G3834|πανουργία]]</big>** · **<big>[[G5428|φρόνησις]]</big>**

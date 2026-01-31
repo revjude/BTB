@@ -10,20 +10,20 @@ Beautiful in loftiness, the joy of all the earth, like the peaks of Zaphon is Mo
 > $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [it is] beautiful of  | <span class="ashebrew"><big>יְפֵ֥ה </big></span><small><small><sup>[[H3303]]</sup></small></small> &#8207;| ye.Peh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| height  | <span class="ashebrew"><big>נוֹף֮ </big></span><small><small><sup>[[H5131]]</sup></small></small> &#8207;| nOf <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] joy of  | <span class="ashebrew"><big>מְשׂ֪וֹשׂ </big></span><small><small><sup>[[H4885]]</sup></small></small> &#8207;| me.Sos <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ֫ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִ֭יּוֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| Tzi.yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] remotest parts of  | <span class="ashebrew"><big>יַרְכְּתֵ֣י </big></span><small><small><sup>[[H3411]]</sup></small></small> &#8207;| yar.ke.Tei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zaphon  | <span class="ashebrew"><big>צָפ֑וֹן </big></span><small><small><sup>[[H6828H]]</sup></small></small> &#8207;| tza.Fon <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] town of  | <span class="ashebrew"><big>קִ֝רְיַ֗ת </big></span><small><small><sup>[[H7151]]</sup></small></small> &#8207;| kir.Yat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>רָֽב </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] beautiful of  |**<big>&#8207;[[H3303\|יְפֵ֥ה]]&#8207; </big>**| ye.Peh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height  |**<big>&#8207;[[H5131\|נוֹף֮]]&#8207; </big>**| nOf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] joy of  |**<big>&#8207;[[H4885\|מְשׂ֪וֹשׂ]]&#8207; </big>**| me.Sos<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ֫]]&#8207;&#8207;[[H0776G\|אָ֥רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִ֭יּוֹן]]&#8207; </big>**| Tzi.yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] remotest parts of  |**<big>&#8207;[[H3411\|יַרְכְּתֵ֣י]]&#8207; </big>**| yar.ke.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zaphon  |**<big>&#8207;[[H6828H\|צָפ֑וֹן]]&#8207; </big>**| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] town of  |**<big>&#8207;[[H7151\|קִ֝רְיַ֗ת]]&#8207; </big>**| kir.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7227A\|רָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.1|<< Psalms 48:1]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.3|Psalms 48:3 >>]]</td></tr></table>
 
 

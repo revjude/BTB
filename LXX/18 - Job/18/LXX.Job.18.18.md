@@ -7,20 +7,20 @@ He shall be driven from light into darkness, and chased out of the world.
 He is driven from light into darkness and is chased from the inhabited world.<small><sub>**MT:**</sub></small>
 [[Job.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.17|<< Job 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.19|Job 18:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May one thrust | <big><span class="asgreek">απώσειεν</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| light | <big><span class="asgreek">φωτός</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| darkness; | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένης</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| they displaced | <big><span class="asgreek">μετώκισαν</span></big> <sup><small><small>[[G3351]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May one thrust | **<big>[[G0683\|απώσειεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| light | **<big>[[G5457\|φωτός]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| darkness; | **<big>[[G4655\|σκότος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένης]]</big>** |
+| they displaced | **<big>[[G3351\|μετώκισαν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Job.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.17|<< Job 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.19|Job 18:19 >>]]</td></tr></table>
 
 

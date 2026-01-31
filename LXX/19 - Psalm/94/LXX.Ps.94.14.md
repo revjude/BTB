@@ -11,19 +11,19 @@ For the LORD will not forsake His people; He will never abandon His heritage.<s
 > $\quad$ referenced by: [[Rom.11.1|Rom 11:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thrust away | <big><span class="asgreek">απώσεται</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλείψει</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| thrust away | **<big>[[G0683\|απώσεται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλείψει]]</big>** |
 [[Ps.94.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.13|<< Psalm 94:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.15|Psalm 94:15 >>]]</td></tr></table>
 
 

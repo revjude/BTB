@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ararat</span>, the mountain range where Noah's ark came to rest after the flood.
 - A location first mentioned at [[Gen.8.4|Gen.8.4]]; 
-- only referred to as Ararat<[[H0780]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ט</span>\).
+- only referred to as Ararat **<big>[[H0780|אֲרָרַט]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.70289295384448,44.29818047261773&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The biblical references to Ararat highlight its significance as a geographical l
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ararat | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ט</span>](H0780) <small>*Hebrew*</small> | 4x | [[Gen.8.4] ... [Jer.51.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ararat\*\|reference=Gen.8.4;2Ki.19.37;Isa.37.38;Jer.51.27) |
-All Strong's for **Ararat**: \[[[H0780]]\]
+| Ararat | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ט</span>](H0780) | 4x | [[Gen.8.4] ... [Jer.51.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ararat\*\|reference=Gen.8.4;2Ki.19.37;Isa.37.38;Jer.51.27) |
+All entries for **Ararat**:  **<big>[[H0780|אֲרָרַט]]</big>**

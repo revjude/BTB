@@ -7,41 +7,41 @@ Be it known unto the king, that the Jews which came up from thee to us are come 
 Let it be known to the king that the Jews who came from you to us have returned to Jerusalem and are rebuilding that rebellious and wicked city. They are restoring its walls and repairing its foundations.<small><sub>**MT:**</sub></small>
 [[Ezra.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.11|<< Ezra 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.13|Ezra 4:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| be made known | <big><span class="asgreek">γνωστόν</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| let it | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίοι</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβάντες</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| defecting | <big><span class="asgreek">αποστάτιν</span></big> <sup><small><small>[[G6491]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηράν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they are building; | <big><span class="asgreek">οικοδομούσι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walls | <big><span class="asgreek">τείχη</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are being readied, | <big><span class="asgreek">κατηρτισμένα</span></big> <sup><small><small>[[G2675]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] foundations | <big><span class="asgreek">θεμελίους</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they elevated. | <big><span class="asgreek">ανύψωσαν</span></big> <sup><small><small>[[G6380]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| be made known | **<big>[[G1110\|γνωστόν]]</big>** |
+| let it | **<big>[[G1510\|έστω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίοι]]</big>** |
+| ascending | **<big>[[G0305\|αναβάντες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| defecting | **<big>[[G6491\|αποστάτιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wicked | **<big>[[G4190\|πονηράν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| they are building; | **<big>[[G3618\|οικοδομούσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| walls | **<big>[[G5038\|τείχη]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| are being readied, | **<big>[[G2675\|κατηρτισμένα]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] foundations | **<big>[[G2310\|θεμελίους]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| they elevated. | **<big>[[G6380\|ανύψωσαν]]</big>** |
 [[Ezra.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.11|<< Ezra 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.13|Ezra 4:13 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And stand in the holy [place] according to the divisions of the families of the 
 Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites.<small><sub>**MT:**</sub></small>
 [[2Chr.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.4|<< 2 Chronicles 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.6|2 Chronicles 35:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stand | <big><span class="asgreek">στήτε</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| divisions | <big><span class="asgreek">διαιρέσεις</span></big> <sup><small><small>[[G1243]]</small></small></sup> |
-| of \[the\] houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of your families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your brethren, | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of the house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] family | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites! | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stand | **<big>[[G2476\|στήτε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| divisions | **<big>[[G1243\|διαιρέσεις]]</big>** |
+| of \[the\] houses | **<big>[[G3624\|οίκων]]</big>** |
+| of your families, | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| of your brethren, | **<big>[[G0080\|αδελφοίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] portion | **<big>[[G3310\|μερίς]]</big>** |
+| of the house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] family | **<big>[[G3965\|πατριάς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites! | **<big>[[G3017\|Λευίταις]]</big>** |
 [[2Chr.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.4|<< 2 Chronicles 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.6|2 Chronicles 35:6 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ By reason of the voice of my groaning my bones cleave to my skin.
 Through my loud groaning my skin hangs on my bones.<small><sub>**MT:**</sub></small>
 [[Ps.102.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.4|<< Psalm 102:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.6|Psalm 102:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my moaning | <big><span class="asgreek">στεναγμού</span></big> <sup><small><small>[[G4726]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cleaves | <big><span class="asgreek">εκολλήθη</span></big> <sup><small><small>[[G2853]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bone | <big><span class="asgreek">οστούν</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my flesh. | <big><span class="asgreek">σαρκί</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my moaning | **<big>[[G4726\|στεναγμού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| cleaves | **<big>[[G2853\|εκολλήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my bone | **<big>[[G3747\|οστούν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G3588\|τη]]</big>** |
+| my flesh. | **<big>[[G4561\|σαρκί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.102.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.4|<< Psalm 102:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.6|Psalm 102:6 >>]]</td></tr></table>
 
 

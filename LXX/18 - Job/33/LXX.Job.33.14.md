@@ -7,16 +7,16 @@ For God speaketh once, yea twice, [yet man] perceiveth it not.
 For God speaks in one way and in another, yet no one notices.<small><sub>**MT:**</sub></small>
 [[Job.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.13|<< Job 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.15|Job 33:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| once | <big><span class="asgreek">άπαξ</span></big> <sup><small><small>[[G0530]]</small></small></sup> |
-| speaks | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or a | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second \[time\], | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| For when | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| once | **<big>[[G0530\|άπαξ]]</big>** |
+| speaks | **<big>[[G2980\|λαλήσαι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| or a | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** **<big>[[G3588\|τω]]</big>** |
+| second \[time\], | **<big>[[G1208\|δευτέρω]]</big>** |
 [[Job.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.13|<< Job 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.15|Job 33:15 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָחָה‎</span></big> **mâchâh** <small>*(maw-khaw')*</small> ==**to wipe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָחָה‎</span></big>** **mâchâh** <small>*(maw-khaw')*</small> ==**to wipe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abolish, blot out, destroy, full of marrow, put out, reach unto, [idiom] utterly, wipe (away, out).
@@ -20,4 +20,4 @@ $\quad$ **1c)** (Hiphil) to blot out (from memory)
 **2)** (Qal) to strike
 **3)** (Pual) full of marrow (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπονίπτω</span><sup><small>[[G0633]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἐξαλείφω</span><sup><small>[[G1813]]</small></sup>
+<small>See Greek: </small>**<big>[[G0633|ἀπονίπτω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1813|ἐξαλείφω]]</big>**

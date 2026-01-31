@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָשֵׁשׁ‎</span></big> **yâshêsh** <small>*(yaw-shaysh')*</small> ==**decrepit**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+**<big><span class="ashebrew">‎יָשֵׁשׁ‎</span></big>** **yâshêsh** <small>*(yaw-shaysh')*</small> ==**decrepit**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
 <small>from an unused root meaning to blanch</small>
 
 $\quad$ stoop for age.

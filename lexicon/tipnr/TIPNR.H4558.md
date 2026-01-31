@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Mispar</span>, also known as Mispereth, was among the first group of exiles who returned to Jerusalem from Babylon under the leadership of Zerubbabel.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.2|Ezr.2.2]]; 
-- referred to as Mispar<[[H4558]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>\), or Mispereth<[[H4559]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>\).
+- referred to as Mispar **<big>[[H4558|מִסְפָּר]]</big>**, or Mispereth **<big>[[H4559|מִסְפֶּרֶת]]</big>**.
 
 Mispar, also referred to as Mispereth, is mentioned in [[Ezra.2.2|Ezra 2:2]] and [[Neh.7.7|Nehemiah 7:7]] as one of the individuals who returned to Jerusalem from Babylonian captivity. He was part of the first group of exiles who made the journey back to their homeland under the leadership of Zerubbabel, following the decree of King Cyrus of Persia. 
 
@@ -16,6 +16,6 @@ The return of Mispar and the others marked the beginning of a new era in Jewish 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mispar | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H4558) <small>*Hebrew*</small> | 1x | [Ezr.2.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mispar\*\|reference=Ezr.2.2) |
-| Mispereth | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H4559) <small>*Hebrew*</small> | 1x | [Neh.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mispereth\*\|reference=Neh.7.7) |
-All Strong's for **Mispar or Mispereth**: \[[[H4558]]\] \[[[H4559]]\]
+| Mispar | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H4558) | 1x | [Ezr.2.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mispar\*\|reference=Ezr.2.2) |
+| Mispereth | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H4559) | 1x | [Neh.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mispereth\*\|reference=Neh.7.7) |
+All entries for **Mispar or Mispereth**:  **<big>[[H4558|מִסְפָּר]]</big>** ☩  **<big>[[H4559|מִסְפֶּרֶת]]</big>**

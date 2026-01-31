@@ -1,3 +1,1 @@
-<span class="asaramaic">‎גְּדָֽבְרַיָּא‎</span> <small>***(ge.da.var)***</small> ==**treasurer**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H1489]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1489|גִּזְבָּר]]</big>**</small>

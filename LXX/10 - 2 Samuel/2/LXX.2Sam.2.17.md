@@ -7,29 +7,29 @@ And there was a very sore battle that day; and Abner was beaten, and the men of 
 The battle that day was intense, and Abner and the men of Israel were defeated by the servants of David.<small><sub>**MT:**</sub></small>
 [[2Sam.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| hard | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| so as to | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| an exceeding \[degree\] | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| failed | <big><span class="asgreek">έπταισεν</span></big> <sup><small><small>[[G4417]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| battle | **<big>[[G4171\|πόλεμος]]</big>** |
+| hard | **<big>[[G4642\|σκληρός]]</big>** |
+| so as to | **<big>[[G5620\|ώστε]]</big>** |
+| an exceeding \[degree\] | **<big>[[G3029\|λίαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| failed | **<big>[[G4417\|έπταισεν]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G3816\|παίδων]]</big>** |
+| of David. | **<big>[[G4622\|Δαυίδ]]</big>** |
 [[2Sam.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
 
 

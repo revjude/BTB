@@ -6,16 +6,16 @@ For our hearts rejoice in Him, since we trust in His holy name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.20|<< Psalms 33:20]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.22|Psalms 33:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in him  | <span class="ashebrew"><big>ב֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it rejoices  | <span class="ashebrew"><big>יִשְׂמַ֣ח </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| yis.Mach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart our  | <span class="ashebrew"><big>לִבֵּ֑ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| li.Be. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] name of  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֖ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness his  | <span class="ashebrew"><big>קָדְשׁ֣ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ka.de.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we trust  | <span class="ashebrew"><big>בָטָֽחְנוּ </big></span><small><small><sup>[[H0982]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va.Ta.che.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  |**<big>&#8207;[[H9003\|ב֭]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it rejoices  |**<big>&#8207;[[H8055\|יִשְׂמַ֣ח]]&#8207; </big>**| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart our  |**<big>&#8207;[[H3820A\|לִבֵּ֑]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| li.Be.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] name of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8034\|שֵׁ֖ם]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness his  |**<big>&#8207;[[H6944G\|קָדְשׁ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.de.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we trust  |**<big>&#8207;[[H0982\|בָטָֽחְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.Ta.che.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.20|<< Psalms 33:20]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.22|Psalms 33:22 >>]]</td></tr></table>
 
 

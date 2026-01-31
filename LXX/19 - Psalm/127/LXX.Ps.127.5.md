@@ -7,23 +7,23 @@ Happy [is] the man that hath his quiver full of them: they shall not be ashamed,
 Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate.<small><sub>**MT:**</sub></small>
 [[Ps.127.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.127.4|<< Psalm 127:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.1|Psalm 128:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed \[is\] | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| the one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall fill | <big><span class="asgreek">πληρώσει</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his desire | <big><span class="asgreek">επιθυμίαν</span></big> <sup><small><small>[[G1939]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be disgraced | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| they should speak | <big><span class="asgreek">λαλώσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his enemies | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] gates. | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| Blessed \[is\] | **<big>[[G3107\|μακάριος]]</big>** |
+| the one who | **<big>[[G3739\|ος]]</big>** |
+| shall fill | **<big>[[G4137\|πληρώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his desire | **<big>[[G1939\|επιθυμίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G1537\|εξ]]</big>** |
+| them; | **<big>[[G1473\|αυτών]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| be disgraced | **<big>[[G2617\|καταισχυνθήσονται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| they should speak | **<big>[[G2980\|λαλώσι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his enemies | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] gates. | **<big>[[G4439\|πύλαις]]</big>** |
 [[Ps.127.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.127.4|<< Psalm 127:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.1|Psalm 128:1 >>]]</td></tr></table>
 
 

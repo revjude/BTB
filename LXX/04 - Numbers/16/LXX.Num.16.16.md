@@ -7,26 +7,26 @@ And Moses said unto Korah, Be thou and all thy company before the LORD, thou, an
 And Moses said to Korah, “You and all your followers are to appear before the LORD tomorrow—you and they and Aaron.<small><sub>**MT:**</sub></small>
 [[Num.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.15|<< Numbers 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.17|Numbers 16:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Korah, | <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| Sanctify | <big><span class="asgreek">αγίασον</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your congregation, | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come | <big><span class="asgreek">γίνεσθε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| prepared | <big><span class="asgreek">έτοιμοι</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they, | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| tomorrow! | <big><span class="asgreek">άυριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses said | **<big>[[G2036\|είπε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Korah, | **<big>[[G2879\|Κορέ]]</big>** |
+| Sanctify | **<big>[[G0037\|αγίασον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your congregation, | **<big>[[G4864\|συναγωγήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| come | **<big>[[G1096\|γίνεσθε]]</big>** |
+| prepared | **<big>[[G2092\|έτοιμοι]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they, | **<big>[[G1473\|αυτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| tomorrow! | **<big>[[G0839\|άυριον]]</big>** |
 [[Num.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.15|<< Numbers 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.17|Numbers 16:17 >>]]</td></tr></table>
 
 

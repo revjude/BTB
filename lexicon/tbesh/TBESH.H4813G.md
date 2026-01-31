@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מִרְיָם‎</span> <small>***(mir.yam)***</small> ==**Miriam**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.15.20|Exo.15.20]]
--  daughter of: Amram ([[H6019]]) and Jochebed ([[H3115]])
--  sister of: Moses ([[H4872]]) and Aaron ([[H0175]])
+-  daughter of: Amram (**<big>[[H6019|עַמְרָם]]</big>**) and Jochebed (**<big>[[H3115|יוֹכֶבֶד]]</big>**)
+-  sister of: Moses (**<big>[[H4872|מֹשֶׁה]]</big>**) and Aaron (**<big>[[H0175|אַהֲרוֹן]]</big>**)

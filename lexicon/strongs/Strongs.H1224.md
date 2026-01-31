@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בׇּצְרָה‎</span></big> **Botsrâh** <small>*(bots-raw')*</small> ==**Bozrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בׇּצְרָה‎</span><sup><small>[[H1223]]</small></sup></small>
+**<big><span class="ashebrew">‎בׇּצְרָה‎</span></big>** **Botsrâh** <small>*(bots-raw')*</small> ==**Bozrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H1223|‎בׇּצְרָה‎]]</big>**</small>
 
 $\quad$ Bozrah.
 - § Bozrah = *"sheepfold" or "fortress"*

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרַק‎</span></big> **ʻâraq** <small>*(aw-rak')*</small> ==**to gnaw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרַק‎</span></big>** **ʻâraq** <small>*(aw-rak')*</small> ==**to gnaw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fleeing, sinew.
@@ -7,4 +7,4 @@ $\quad$ fleeing, sinew.
 
 **1)** (Qal) to gnaw, chew
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φεύγω</span><sup><small>[[G5343]]</small></sup>
+<small>See Greek: </small>**<big>[[G5343|φεύγω]]</big>**

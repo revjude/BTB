@@ -7,37 +7,37 @@ And what man [is he] that hath planted a vineyard, and hath not [yet] eaten of i
 Has any man planted a vineyard and not begun to enjoy its fruit? Let him return home, or he may die in battle and another man enjoy its fruit.<small><sub>**MT:**</sub></small>
 [[Deut.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.5|<< Deuteronomy 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.7|Deuteronomy 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whoever | <big><span class="asgreek">όστις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| plants | <big><span class="asgreek">εφύτευσεν</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| a vineyard, | <big><span class="asgreek">αμπελώνα</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| glad | <big><span class="asgreek">ευφράνθη</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it? | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Let him go, | <big><span class="asgreek">πορευέσθω</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him return | <big><span class="asgreek">αποστραφήτω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house! | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| he should die | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his \[labor\]. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Who \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| whoever | **<big>[[G3748\|όστις]]</big>** |
+| plants | **<big>[[G5452\|εφύτευσεν]]</big>** |
+| a vineyard, | **<big>[[G0290\|αμπελώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| glad | **<big>[[G2165\|ευφράνθη]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| it? | **<big>[[G1473\|αυτού]]</big>** |
+| Let him go, | **<big>[[G4198\|πορευέσθω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him return | **<big>[[G0654\|αποστραφήτω]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his house! | **<big>[[G3614\|οικίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| he should die | **<big>[[G0599\|αποθάνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| war, | **<big>[[G4171\|πολέμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| his \[labor\]. | **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.5|<< Deuteronomy 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.7|Deuteronomy 20:7 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֲנַמֶּלֶךְ‎</span></big> **ʻĂnammelek** <small>*(an-am-meh'-lek)*</small> ==**Anammelech**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎עֲנַמֶּלֶךְ‎</span></big>** **ʻĂnammelek** <small>*(an-am-meh'-lek)*</small> ==**Anammelech**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Anammelech.

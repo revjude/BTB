@@ -10,30 +10,30 @@ And when any will offer a meat offering unto the LORD, his offering shall be [of
 “When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it,<small><sub>**MT:**</sub></small>
 [[Lev.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.17|<< Leviticus 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.2|Leviticus 2:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| should bring | <big><span class="asgreek">προσφέρη</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| a gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| fine flour | <big><span class="asgreek">σεμίδαλις</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall pour | <big><span class="asgreek">επιχεεί</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| olive oil. | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall place | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| frankincense -- | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
-| it is a sacrifice. | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a soul | **<big>[[G5590\|ψυχή]]</big>** |
+| should bring | **<big>[[G4374\|προσφέρη]]</big>** |
+| a gift \[offering\] | **<big>[[G1435\|δώρον]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| fine flour | **<big>[[G4585\|σεμίδαλις]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift \[offering\] | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall pour | **<big>[[G2022\|επιχεεί]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| olive oil. | **<big>[[G1637\|έλαιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall place | **<big>[[G2007\|επιθήσει]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| frankincense -- | **<big>[[G3030\|λίβανον]]</big>** |
+| it is a sacrifice. | **<big>[[G2378\|θυσία]]</big>** **<big>[[G1510\|εστί]]</big>** |
 [[Lev.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.17|<< Leviticus 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.2|Leviticus 2:2 >>]]</td></tr></table>
 
 

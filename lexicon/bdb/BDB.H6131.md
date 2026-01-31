@@ -1,4 +1,4 @@
-<small>Also see: [[H5193]]</small>
+<small>Also see: **<big>[[H5193|נָטַע]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎עָקַר‎</span>] **verb denominative** ==pluck or root up== — 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹמָם‎</span></big> **yôwmâm** <small>*(yo-mawm')*</small> ==**by day**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>from <span class="ashebrew">‎יוֹם‎</span><sup><small>[[H3117]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹמָם‎</span></big>** **yôwmâm** <small>*(yo-mawm')*</small> ==**by day**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>from **<big>[[H3117|‎יוֹם‎]]</big>**</small>
 
 $\quad$ daily, (by, in the) day(-time).
 - ***daily***
@@ -9,4 +9,4 @@ adv
 subst
 **2)** daytime
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡμέρα</span><sup><small>[[G2250]]</small></sup>
+<small>See Greek: </small>**<big>[[G2250|ἡμέρα]]</big>**

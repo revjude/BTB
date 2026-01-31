@@ -7,25 +7,25 @@ The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; b
 They killed these ten sons of Haman son of Hammedatha, the enemy of the Jews, but they did not lay a hand on the plunder.<small><sub>**MT:**</sub></small>
 [[Esth.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.9|<< Esther 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.11|Esther 9:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| \[son of\] Hammedatha | <big><span class="asgreek">Αμαδαθού</span></big> <sup><small><small>[[H4099]]</small></small></sup> |
-| \[the\] Bougean, | <big><span class="asgreek">Βουγαίου</span></big> <sup><small><small>[[G9826]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enemy | <big><span class="asgreek">εχθρού</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews; | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they plundered not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διήρπασαν</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[that\] | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| \[son of\] Hammedatha | **<big>[[H4099\|Αμαδαθού]]</big>** |
+| \[the\] Bougean, | **<big>[[G9826\|Βουγαίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| enemy | **<big>[[G2190\|εχθρού]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Jews; | **<big>[[G2453\|Ιουδαίων]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| they plundered not | **<big>[[G3756\|ου]]</big>** **<big>[[G1283\|διήρπασαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[that\] | **<big>[[G1473\|αυτή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day. | **<big>[[G2250\|ημέρα]]</big>** |
 [[Esth.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.9|<< Esther 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.11|Esther 9:11 >>]]</td></tr></table>
 
 

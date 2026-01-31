@@ -7,34 +7,34 @@ And the LORD gave them rest round about, according to all that he sware unto the
 And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.<small><sub>**MT:**</sub></small>
 [[Josh.21.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.43|<< Joshua 21:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.45|Joshua 21:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rested | <big><span class="asgreek">κατέπαυσεν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| he swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers. | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| before | <big><span class="asgreek">κατενώπιον</span></big> <sup><small><small>[[G2714]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their enemies; | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| delivered up | <big><span class="asgreek">παρέδωκε</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rested | **<big>[[G2664\|κατέπαυσεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| he swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their fathers. | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Not | **<big>[[G3756\|ουκ]]</big>** |
+| rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| one | **<big>[[G3762\|ουδείς]]</big>** |
+| before | **<big>[[G2714\|κατενώπιον]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their enemies; | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their enemies | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| delivered up | **<big>[[G3860\|παρέδωκε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands. | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.21.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.43|<< Joshua 21:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.45|Joshua 21:45 >>]]</td></tr></table>
 
 

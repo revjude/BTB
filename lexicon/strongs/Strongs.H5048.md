@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶגֶד‎</span></big> **neged** <small>*(neh'-ghed)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎נָגַד‎</span><sup><small>[[H5046]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶגֶד‎</span></big>** **neged** <small>*(neh'-ghed)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H5046|‎נָגַד‎]]</big>**</small>
 
 $\quad$ about, (over) against, [idiom] aloof, [idiom] far (off), [idiom] from, over, presence, [idiom] other side, sight, [idiom] to view.
 - ***a front***, i.e. ***part opposite***
@@ -26,4 +26,4 @@ prep
 **14)** from before, in front of
 **15)** as far as the front of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βλέπω</span><sup><small>[[G0991]]</small></sup> · <span class="asgreek">ἐναντίον</span><sup><small>[[G1726]]</small></sup> · <span class="asgreek">ἐναντίον</span><sup><small>[[G1726]]</small></sup> · <span class="asgreek">ἐναντίος</span><sup><small>[[G1727]]</small></sup> · <span class="asgreek">ἐναντίος</span><sup><small>[[G1727]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ὅμοιος</span><sup><small>[[G3664]]</small></sup> · <span class="asgreek">οὖς</span><sup><small>[[G3775]]</small></sup>
+<small>See Greek: </small>**<big>[[G0991|βλέπω]]</big>** · **<big>[[G1726|ἐναντίον]]</big>** · **<big>[[G1726|ἐναντίον]]</big>** · **<big>[[G1727|ἐναντίος]]</big>** · **<big>[[G1727|ἐναντίος]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G3664|ὅμοιος]]</big>** · **<big>[[G3775|οὖς]]</big>**

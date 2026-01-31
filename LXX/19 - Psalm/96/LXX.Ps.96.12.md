@@ -7,23 +7,23 @@ Let the field be joyful, and all that [is] therein: then shall all the trees of 
 Let the fields exult, and all that is in them. Then all the trees of the forest will sing for joy<small><sub>**MT:**</sub></small>
 [[Ps.96.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.11|<< Psalm 96:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.13|Psalm 96:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall rejoice | <big><span class="asgreek">χαρήσεται</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plains | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forest | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| shall rejoice | **<big>[[G5463\|χαρήσεται]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| plains | **<big>[[G8676\|πεδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| shall exult | **<big>[[G0021\|αγαλλιάσονται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| forest | **<big>[[G6971\|δρυμού]]</big>** |
 [[Ps.96.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.11|<< Psalm 96:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.13|Psalm 96:13 >>]]</td></tr></table>
 
 

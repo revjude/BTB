@@ -7,26 +7,26 @@ The merchants of Sheba and Raamah, they [were] thy merchants: they occupied in t
 The merchants of Sheba and Raamah traded with you; for your wares they exchanged gold, the finest of all spices, and precious stones.<small><sub>**MT:**</sub></small>
 [[Ezek.27.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.21|<< Ezekiel 27:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.23|Ezekiel 27:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your merchants | <big><span class="asgreek">έμποροί</span></big> <sup><small><small>[[G1713]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Raamah, | <big><span class="asgreek">Ραγμά</span></big> <sup><small><small>[[H7484]]</small></small></sup> |
-| these | <big><span class="asgreek">αύτοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] your merchants | <big><span class="asgreek">έμποροί</span></big> <sup><small><small>[[G1713]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| foremost | <big><span class="asgreek">πρώτων</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| of spices, | <big><span class="asgreek">ηδυσμάτων</span></big> <sup><small><small>[[G7621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| precious | <big><span class="asgreek">χρηστών</span></big> <sup><small><small>[[G5543]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσόν</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your market. | <big><span class="asgreek">αγοράν</span></big> <sup><small><small>[[G0058]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your merchants | **<big>[[G1713\|έμποροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[were\] Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Raamah, | **<big>[[H7484\|Ραγμά]]</big>** |
+| these | **<big>[[G1473\|αύτοι]]</big>** |
+| \[were\] your merchants | **<big>[[G1713\|έμποροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| foremost | **<big>[[G4413\|πρώτων]]</big>** |
+| of spices, | **<big>[[G7621\|ηδυσμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones | **<big>[[G3037\|λίθων]]</big>** |
+| precious | **<big>[[G5543\|χρηστών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gold | **<big>[[G5557\|χρυσόν]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| for your market. | **<big>[[G0058\|αγοράν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.27.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.21|<< Ezekiel 27:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.23|Ezekiel 27:23 >>]]</td></tr></table>
 
 

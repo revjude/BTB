@@ -6,15 +6,15 @@ slanderers, God-haters, insolent, arrogant, and boastful. They invent new forms 
 <small><sub>**Literal:**</sub></small>
 slanderers, hateful to God, insolent arrogant, boastful, inventors of evil things, to parents disobedient,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.29|<< Romans 1:29]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.31|Romans 1:31 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| slanderers, |<big><span class="asgreek">καταλάλους,</span></big> <small><small><sup>[[G2637]]</sup></small></small> |katalalous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hateful to God, |<big><span class="asgreek">θεοστυγεῖς,</span></big> <small><small><sup>[[G2319]]</sup></small></small> |theostugeis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| insolent |<big><span class="asgreek">ὑβριστάς,</span></big> <small><small><sup>[[G5197]]</sup></small></small> |hubristas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| arrogant, |<big><span class="asgreek">ὑπερηφάνους,</span></big> <small><small><sup>[[G5244]]</sup></small></small> |huperēphanous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| boastful, |<big><span class="asgreek">ἀλαζόνας,</span></big> <small><small><sup>[[G0213]]</sup></small></small> |alazonas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| inventors |<big><span class="asgreek">ἐφευρετὰς</span></big> <small><small><sup>[[G2182]]</sup></small></small> |epheuretas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of evil things, |<big><span class="asgreek">κακῶν,</span></big> <small><small><sup>[[G2556G]]</sup></small></small> |kakōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to parents |<big><span class="asgreek">γονεῦσιν</span></big> <small><small><sup>[[G1118]]</sup></small></small> |goneusin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| disobedient, |<big><span class="asgreek">ἀπειθεῖς,</span></big> <small><small><sup>[[G0545]]</sup></small></small> |apeitheis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| slanderers, |**<big>[[G2637\|καταλάλους,]]</big>**  |katalalous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hateful to God, |**<big>[[G2319\|θεοστυγεῖς,]]</big>**  |theostugeis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| insolent |**<big>[[G5197\|ὑβριστάς,]]</big>**  |hubristas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| arrogant, |**<big>[[G5244\|ὑπερηφάνους,]]</big>**  |huperēphanous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| boastful, |**<big>[[G0213\|ἀλαζόνας,]]</big>**  |alazonas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| inventors |**<big>[[G2182\|ἐφευρετὰς]]</big>**  |epheuretas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of evil things, |**<big>[[G2556G\|κακῶν,]]</big>**  |kakōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to parents |**<big>[[G1118\|γονεῦσιν]]</big>**  |goneusin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| disobedient, |**<big>[[G0545\|ἀπειθεῖς,]]</big>**  |apeitheis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.29|<< Romans 1:29]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.31|Romans 1:31 >>]]</td></tr></table>

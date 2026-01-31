@@ -7,21 +7,21 @@ He setteth an end to darkness, and searcheth out all perfection: the stones of d
 Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness.<small><sub>**MT:**</sub></small>
 [[Job.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.4|Job 28:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| an order | <big><span class="asgreek">τάξιν</span></big> <sup><small><small>[[G5010]]</small></small></sup> |
-| He established | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for darkness, | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| limit | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| determines exactly; | <big><span class="asgreek">εξακριβάζεται</span></big> <sup><small><small>[[G7287]]</small></small></sup> |
-| \[is as\] a stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκοτία</span></big> <sup><small><small>[[G4653]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| of death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| an order | **<big>[[G5010\|τάξιν]]</big>** |
+| He established | **<big>[[G5087\|έθετο]]</big>** |
+| for darkness, | **<big>[[G4655\|σκότει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| limit | **<big>[[G4009\|πέρας]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| determines exactly; | **<big>[[G7287\|εξακριβάζεται]]</big>** |
+| \[is as\] a stone | **<big>[[G3037\|λίθος]]</big>** |
+| darkness | **<big>[[G4653\|σκοτία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] shadow | **<big>[[G4639\|σκιά]]</big>** |
+| of death | **<big>[[G2288\|θανάτου]]</big>** |
 [[Job.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.4|Job 28:4 >>]]</td></tr></table>
 
 

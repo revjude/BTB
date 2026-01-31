@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּבֵּחַ‎</span></big> **gibbêach** <small>*(ghib-bay'-akh)*</small> ==**bald**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+**<big><span class="ashebrew">‎גִּבֵּחַ‎</span></big>** **gibbêach** <small>*(ghib-bay'-akh)*</small> ==**bald**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
 <small>from an unused root meaning to be high (in the forehead)</small>
 
 $\quad$ forehead bald.

@@ -7,37 +7,37 @@ When Ephraim saw his sickness, and Judah [saw] his wound, then went Ephraim to t
 When Ephraim saw his sickness and Judah his wound, then Ephraim turned to Assyria and sent to the great king. But he cannot cure you or heal your wound.<small><sub>**MT:**</sub></small>
 [[Hos.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.12|<< Hosea 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.14|Hosea 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ephraim beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his disease, | <big><span class="asgreek">νόσον</span></big> <sup><small><small>[[G3554]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his grief. | <big><span class="asgreek">οδύνην αυτού</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ephraim went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Assyria, | <big><span class="asgreek">Ασσυρίους</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| ambassadors | <big><span class="asgreek">πρέσβεις</span></big> <sup><small><small>[[G8881]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Jareb; | <big><span class="asgreek">Ιαρείμ</span></big> <sup><small><small>[[H3377]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδυνήθη</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to rescue; | <big><span class="asgreek">ρύσασθαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should there be a discontinuance | <big><span class="asgreek">διαπαύση</span></big> <sup><small><small>[[G6858]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| grief. | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ephraim beheld | **<big>[[G1492\|είδεν]]</big>** **<big>[[G2187\|Εφραϊμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his disease, | **<big>[[G3554\|νόσον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his grief. | **<big>[[G3601\|οδύνην αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ephraim went | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[G2187\|Εφραϊμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Assyria, | **<big>[[H0804\|Ασσυρίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| ambassadors | **<big>[[G8881\|πρέσβεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| Jareb; | **<big>[[H3377\|Ιαρείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G3778\|αυτός]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδυνήθη]]</big>** |
+| to rescue; | **<big>[[G4506\|ρύσασθαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should there be a discontinuance | **<big>[[G6858\|διαπαύση]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| grief. | **<big>[[G3601\|οδύνη]]</big>** |
 [[Hos.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.12|<< Hosea 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.14|Hosea 5:14 >>]]</td></tr></table>
 
 

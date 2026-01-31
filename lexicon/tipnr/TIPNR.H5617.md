@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sepharvaim</span> was one of the cities from which the Assyrians brought people to resettle in Samaria after the deportation of the Israelites \(2 Ki. 17:24, 31; 18:34; 19:13; Isa. 36:19; 37:13\).
 - A location first mentioned at [[2Kgs.17.24|2Ki.17.24]]; 
-- referred to as Sepharvaim<[[H5617]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\), or Sepharvaim \(=Qere. Ketiv= Sepharim\) <[[H5616]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Sepharvaim **<big>[[H5617|סְפַרְוַיִם]]</big>**, or Sepharvaim \(=Qere. Ketiv= Sepharim\)  **<big>[[H5616|סְפַרְוִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.789693,44.459399&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Sepharvaim is mentioned in the Bible as one of the cities from which the Assyria
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sepharvaim | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5617) <small>*Hebrew*</small> | 6x | [[2Ki.17.24] ... [Isa.37.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharvaim\*\|reference=2Ki.17.24;2Ki.17.31;2Ki.18.34;2Ki.19.13;Isa.36.19;Isa.37.13) |
-| Sepharvaim (=Qere. Ketiv= Sepharim) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>](H5616) <small>*Hebrew*</small> | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharvaim\*\|reference=2Ki.17.31) |
-All Strong's for **Sepharvaim**: \[[[H5617]]\] \[[[H5616]]\]
+| Sepharvaim | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5617) | 6x | [[2Ki.17.24] ... [Isa.37.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharvaim\*\|reference=2Ki.17.24;2Ki.17.31;2Ki.18.34;2Ki.19.13;Isa.36.19;Isa.37.13) |
+| Sepharvaim (=Qere. Ketiv= Sepharim) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>](H5616) | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharvaim\*\|reference=2Ki.17.31) |
+All entries for **Sepharvaim**:  **<big>[[H5617|סְפַרְוַיִם]]</big>** ☩  **<big>[[H5616|סְפַרְוִי]]</big>**

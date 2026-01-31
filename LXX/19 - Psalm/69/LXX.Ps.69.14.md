@@ -7,26 +7,26 @@ Deliver me out of the mire, and let me not sink: let me be delivered from them t
 Rescue me from the mire and do not let me sink; deliver me from my foes and out of the deep waters.<small><sub>**MT:**</sub></small>
 [[Ps.69.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.13|<< Psalm 69:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.15|Psalm 69:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| mud! | <big><span class="asgreek">πηλού</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be stuck. | <big><span class="asgreek">εμπαγώ</span></big> <sup><small><small>[[G7195]]</small></small></sup> |
-| May I be rescued | <big><span class="asgreek">ρυσθείην</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούντων</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depths | <big><span class="asgreek">βαθέων</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waters. | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| Deliver | **<big>[[G4982\|σώσόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| mud! | **<big>[[G4081\|πηλού]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I should not | **<big>[[G3361\|μη]]</big>** |
+| be stuck. | **<big>[[G7195\|εμπαγώ]]</big>** |
+| May I be rescued | **<big>[[G4506\|ρυσθείην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| detesting | **<big>[[G3404\|μισούντων]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| depths | **<big>[[G0899\|βαθέων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| waters. | **<big>[[G5204\|υδάτων]]</big>** |
 [[Ps.69.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.13|<< Psalm 69:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.15|Psalm 69:15 >>]]</td></tr></table>
 
 

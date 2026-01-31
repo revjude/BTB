@@ -7,24 +7,24 @@ Let them be ashamed and brought to confusion together that rejoice at mine hurt:
 May those who gloat in my distress be ashamed and confounded; may those who exalt themselves over me be clothed in shame and reproach.<small><sub>**MT:**</sub></small>
 [[Ps.35.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.25|<< Psalm 35:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.27|Psalm 35:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May they be ashamed, | <big><span class="asgreek">αισχυνθείησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| feel remorse | <big><span class="asgreek">εντραπείησαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rejoicing at | <big><span class="asgreek">επιχαίροντες</span></big> <sup><small><small>[[G7471]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hurts | <big><span class="asgreek">κακοίς</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be clothed in | <big><span class="asgreek">ενδυσάσθωσαν</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| remorse | <big><span class="asgreek">εντροπήν</span></big> <sup><small><small>[[G1791]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking great words | <big><span class="asgreek">μεγαλορρημονούντες</span></big> <sup><small><small>[[G8268]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May they be ashamed, | **<big>[[G0153\|αισχυνθείησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| feel remorse | **<big>[[G1788\|εντραπείησαν]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| rejoicing at | **<big>[[G7471\|επιχαίροντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my hurts | **<big>[[G2556\|κακοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| be clothed in | **<big>[[G1746\|ενδυσάσθωσαν]]</big>** |
+| shame | **<big>[[G0152\|αισχύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| remorse | **<big>[[G1791\|εντροπήν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| speaking great words | **<big>[[G8268\|μεγαλορρημονούντες]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
 [[Ps.35.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.25|<< Psalm 35:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.27|Psalm 35:27 >>]]</td></tr></table>
 
 

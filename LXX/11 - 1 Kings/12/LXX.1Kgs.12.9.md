@@ -7,34 +7,34 @@ And he said unto them, What counsel give ye that we may answer this people, who 
 He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”<small><sub>**MT:**</sub></small>
 [[1Kgs.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.8|<< 1 Kings 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.10|1 Kings 12:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| advise, | <big><span class="asgreek">συμβουλεύετε</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should I answer | <big><span class="asgreek">αποκριθώ</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to this people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλήσασι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λεγόντων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Lighten | <big><span class="asgreek">κούφισον</span></big> <sup><small><small>[[G2893]]</small></small></sup> |
-| up | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neck yoke | <big><span class="asgreek">κλοιού</span></big> <sup><small><small>[[G8027]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| put | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| do you | **<big>[[G1473\|υμείς]]</big>** |
+| advise, | **<big>[[G4823\|συμβουλεύετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| should I answer | **<big>[[G0611\|αποκριθώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to this people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| speaking | **<big>[[G2980\|λαλήσασι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λεγόντων]]</big>** |
+| Lighten | **<big>[[G2893\|κούφισον]]</big>** |
+| up | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| neck yoke | **<big>[[G8027\|κλοιού]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| put | **<big>[[G1325\|έδωκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| us? | **<big>[[G1473\|ημάς]]</big>** |
 [[1Kgs.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.8|<< 1 Kings 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.10|1 Kings 12:10 >>]]</td></tr></table>
 
 

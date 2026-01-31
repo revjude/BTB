@@ -6,18 +6,18 @@ These are the names of the men who are to assist you: From the tribe of Reuben, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֙לֶּה֙ </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] names of  | <span class="ashebrew"><big>שְׁמ֣וֹת </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| she.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the men  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲנָשִׁ֔ים </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will stand  | <span class="ashebrew"><big>יַֽעַמְד֖וּ </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| ya.'am.Du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with you  | <span class="ashebrew"><big>אִתְּ </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| 'i.te. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for Reuben  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רְאוּבֵ֕ן </big></span><small><small><sup>[[H7205]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> r.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elizur  | <span class="ashebrew"><big>אֱלִיצ֖וּר </big></span><small><small><sup>[[H0468]]</sup></small></small> &#8207;| 'e.li.Tzur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shedeur  | <span class="ashebrew"><big>שְׁדֵיאֽוּר </big></span><small><small><sup>[[H7707]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.dei.'Ur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֣וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will stand  |**<big>&#8207;[[H5975G\|יַֽעַמְד֖וּ]]&#8207; </big>**| ya.'am.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  |**<big>&#8207;[[H0854\|אִתְּ]]&#8207;&#8207;[[H9036\|כֶ֑ם]]&#8207; </big>**| 'i.te.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Reuben  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7205\|רְאוּבֵ֕ן]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elizur  |**<big>&#8207;[[H0468\|אֱלִיצ֖וּר]]&#8207; </big>**| 'e.li.Tzur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shedeur  |**<big>&#8207;[[H7707\|שְׁדֵיאֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.dei.'Ur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
 

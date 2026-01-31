@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָפִיעַ‎</span></big> **Yâphîyaʻ** <small>*(yaw-fee'-ah)*</small> ==**Japhia**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָפַע‎</span><sup><small>[[H3313]]</small></sup>; bright</small>
+**<big><span class="ashebrew">‎יָפִיעַ‎</span></big>** **Yâphîyaʻ** <small>*(yaw-fee'-ah)*</small> ==**Japhia**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3313|‎יָפַע‎]]</big>**; bright</small>
 
 $\quad$ Japhia.
 - § Japhia = *"shining"*

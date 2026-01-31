@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׂרֶד‎</span></big> **sered** <small>*(seh'-red)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂרַד‎</span><sup><small>[[H8277]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׂרֶד‎</span></big>** **sered** <small>*(seh'-red)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8277|‎שָׂרַד‎]]</big>**</small>
 
 $\quad$ line.
 - ***a*** (carpenter's) ***scribing-awl*** (for pricking or scratching measurements)

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎רָפָא‎</span></big> **râphâʼ** <small>*(raw-faw')*</small> ==**to heal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">רָפָה</span> **râphâh** <small>*(raw-faw')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎רָפָא‎</span></big>** **râphâʼ** <small>*(raw-faw')*</small> ==**to heal**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">רָפָה</span></big>** **râphâh** <small>*(raw-faw')*</small>; a primitive root</small>
 
-$\quad$ cure, (cause to) heal, physician, repair, [idiom] thoroughly, make whole. See <span class="ashebrew">‎רָפָה‎</span><sup><small>[[H7503]]</small></sup>.
+$\quad$ cure, (cause to) heal, physician, repair, [idiom] thoroughly, make whole. See **<big>[[H7503|‎רָפָה‎]]</big>**.
 - properly, ***to mend*** (by stitching), i.e. (figuratively) ***to cure***
 
 **1)** to heal, make healthful
@@ -20,4 +20,4 @@ $\quad$ $\quad$ **1c1)** literal
 $\quad$ $\quad$ **1c2)** of national defects or hurts (fig)
 $\quad$ **1d)** (Hithpael) in order to get healed (infinitive)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἰάομαι</span><sup><small>[[G2390]]</small></sup>
+<small>See Greek: </small>**<big>[[G2390|ἰάομαι]]</big>**

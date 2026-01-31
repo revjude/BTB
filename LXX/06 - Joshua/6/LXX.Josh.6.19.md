@@ -7,25 +7,25 @@ But all the silver, and gold, and vessels of brass and iron, [are] consecrated u
 For all the silver and gold and all the articles of bronze and iron are holy to the LORD; they must go into His treasury.”<small><sub>**MT:**</sub></small>
 [[Josh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.18|<< Joshua 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.20|Joshua 6:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| brass | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| will be holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] treasury | <big><span class="asgreek">θησαυρόν</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| it shall be carried | <big><span class="asgreek">εισενεχθήσεται</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| brass | **<big>[[G5475\|χαλκός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iron, | **<big>[[G4604\|σίδηρος]]</big>** |
+| will be holy | **<big>[[G0039\|άγιον]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίω]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] treasury | **<big>[[G2344\|θησαυρόν]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| it shall be carried | **<big>[[G1533\|εισενεχθήσεται]]</big>** |
 [[Josh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.18|<< Joshua 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.20|Joshua 6:20 >>]]</td></tr></table>
 
 

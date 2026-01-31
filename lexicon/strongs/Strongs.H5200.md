@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְטֹפָתִי‎</span></big> **Nᵉṭôphâthîy** <small>*(net-o-faw-thee')*</small> ==**Netophathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎נְטֹפָה‎</span><sup><small>[[H5199]]</small></sup></small>
+**<big><span class="ashebrew">‎נְטֹפָתִי‎</span></big>** **Nᵉṭôphâthîy** <small>*(net-o-faw-thee')*</small> ==**Netophathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patronymic from **<big>[[H5199|‎נְטֹפָה‎]]</big>**</small>
 
 $\quad$ Netophathite.
 - § Netophathite = *see Netophath "dropping"*

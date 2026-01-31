@@ -7,30 +7,30 @@ For the LORD saw the affliction of Israel, [that it was] very bitter: for [there
 For the LORD saw that the affliction of the Israelites, both slave and free, was very bitter. There was no one to help Israel,<small><sub>**MT:**</sub></small>
 [[2Kgs.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.25|<< 2 Kings 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.27|2 Kings 14:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> beheld | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| humiliation | <big><span class="asgreek">ταπείνωσιν</span></big> <sup><small><small>[[G5014]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| bitter | <big><span class="asgreek">πικράν</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
-| \[that it was\] exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| very few, | <big><span class="asgreek">ολιγοστούς</span></big> <sup><small><small>[[G8483]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being held together, | <big><span class="asgreek">συνεχομένους</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being depleted, | <big><span class="asgreek">εσπανισμένους</span></big> <sup><small><small>[[G9134]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being abandoned, | <big><span class="asgreek">εγκαταλελειμμένους</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one helping | <big><span class="asgreek">βοηθών</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> beheld | **<big>[[G1492\|είδε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| humiliation | **<big>[[G5014\|ταπείνωσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| bitter | **<big>[[G4089\|πικράν]]</big>** |
+| \[that it was\] exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| very few, | **<big>[[G8483\|ολιγοστούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being held together, | **<big>[[G4912\|συνεχομένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being depleted, | **<big>[[G9134\|εσπανισμένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being abandoned, | **<big>[[G1459\|εγκαταλελειμμένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one helping | **<big>[[G0997\|βοηθών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.25|<< 2 Kings 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.27|2 Kings 14:27 >>]]</td></tr></table>
 
 

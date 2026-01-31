@@ -10,18 +10,18 @@ I praise You, for I am fearfully and wonderfully made. Marvelous are Your works,
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I will give thanks to you  | <span class="ashebrew"><big>אֽוֹדְ </big></span><small><small><sup>[[H3034]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'od. <small><sup>[[HVhi1cs]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַ֤ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| awesome  | <span class="ashebrew"><big>נוֹרָא֗וֹת </big></span><small><small><sup>[[H3372H]]</sup></small></small> &#8207;| no.ra.'ot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am wonderful  | <span class="ashebrew"><big>נִ֫פְלֵ֥יתִי </big></span><small><small><sup>[[H6395]]</sup></small></small> &#8207;| nif.Lei.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] wonderful  | <span class="ashebrew"><big>נִפְלָאִ֥ים </big></span><small><small><sup>[[H6381]]</sup></small></small> &#8207;| nif.la.'Im <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| works your  | <span class="ashebrew"><big>מַעֲשֶׂ֑י </big></span><small><small><sup>[[H4639G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ma.'a.Sei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and self my  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נַפְשִׁ֗ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] knowing  | <span class="ashebrew"><big>יֹדַ֥עַת </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| yo.Da.'at <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹֽד </big></span><small><small><sup>[[H3966]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give thanks to you  |**<big>&#8207;[[H3034\|אֽוֹדְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'od.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| awesome  |**<big>&#8207;[[H3372H\|נוֹרָא֗וֹת]]&#8207; </big>**| no.ra.'ot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am wonderful  |**<big>&#8207;[[H6395\|נִ֫פְלֵ֥יתִי]]&#8207; </big>**| nif.Lei.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] wonderful  |**<big>&#8207;[[H6381\|נִפְלָאִ֥ים]]&#8207; </big>**| nif.la.'Im<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| works your  |**<big>&#8207;[[H4639G\|מַעֲשֶׂ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ma.'a.Sei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and self my  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5315G\|נַפְשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] knowing  |**<big>&#8207;[[H3045\|יֹדַ֥עַת]]&#8207; </big>**| yo.Da.'at<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.13|<< Psalms 139:13]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.15|Psalms 139:15 >>]]</td></tr></table>
 
 

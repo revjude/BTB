@@ -7,22 +7,22 @@ But they know not the thoughts of the LORD, neither understand they his counsel:
 But they do not know the thoughts of the LORD or understand His plan, for He has gathered them like sheaves to the threshing floor.<small><sub>**MT:**</sub></small>
 [[Mic.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.11|<< Micah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.13|Micah 4:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devices | <big><span class="asgreek">λογισμούς</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| perceived not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήκαν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his counsel. | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he gathered them | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| sheaves | <big><span class="asgreek">δράγματα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| for \[the\] threshing-floor. | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
+| But they | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| knew not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνωσαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| devices | **<big>[[G3053\|λογισμούς]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| perceived not | **<big>[[G3756\|ου]]</big>** **<big>[[G4920\|συνήκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his counsel. | **<big>[[G1012\|βουλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he gathered them | **<big>[[G4863\|συνήγαγεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| sheaves | **<big>[[G6967\|δράγματα]]</big>** |
+| for \[the\] threshing-floor. | **<big>[[G0257\|άλωνος]]</big>** |
 [[Mic.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.11|<< Micah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.13|Micah 4:13 >>]]</td></tr></table>
 
 

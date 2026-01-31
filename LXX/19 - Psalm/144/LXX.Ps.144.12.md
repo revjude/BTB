@@ -7,24 +7,24 @@ That our sons [may be] as plants grown up in their youth; [that] our daughters [
 Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.<small><sub>**MT:**</sub></small>
 [[Ps.144.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.11|<< Psalm 144:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.13|Psalm 144:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| newly planted, | <big><span class="asgreek">νεόφυτα</span></big> <sup><small><small>[[G3504]]</small></small></sup> |
-| secure | <big><span class="asgreek">ιδρυμένα</span></big> <sup><small><small>[[G7711]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their youth; | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being bedecked, | <big><span class="asgreek">κακαλλωπισμέναι</span></big> <sup><small><small>[[G7784]]</small></small></sup> |
-| being adorned sumptuously | <big><span class="asgreek">περικεκοσμημέναι</span></big> <sup><small><small>[[G8734]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| of a temple; | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| newly planted, | **<big>[[G3504\|νεόφυτα]]</big>** |
+| secure | **<big>[[G7711\|ιδρυμένα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their youth; | **<big>[[G3503\|νεότητι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their daughters | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| being bedecked, | **<big>[[G7784\|κακαλλωπισμέναι]]</big>** |
+| being adorned sumptuously | **<big>[[G8734\|περικεκοσμημέναι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] likeness | **<big>[[G3667\|ομοίωμα]]</big>** |
+| of a temple; | **<big>[[G3485\|ναού]]</big>** |
 [[Ps.144.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.11|<< Psalm 144:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.13|Psalm 144:13 >>]]</td></tr></table>
 
 

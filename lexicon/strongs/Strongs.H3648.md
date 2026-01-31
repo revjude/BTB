@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּמַר‎</span></big> **kâmar** <small>*(kaw-mar')*</small> ==**to grow warm**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּמַר‎</span></big>** **kâmar** <small>*(kaw-mar')*</small> ==**to grow warm**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be black, be kindled, yearn.
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Niphal)
 $\quad$ $\quad$ **1a1)** to grow warm and tender
 $\quad$ $\quad$ **1a2)** to be or grow hot
 
-<sub><small>See Greek: </small></sub><span class="asgreek">συστρέφω</span><sup><small>[[G4962]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G4962|συστρέφω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

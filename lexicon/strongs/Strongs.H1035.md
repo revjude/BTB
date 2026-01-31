@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית לֶחֶם‎</span></big> **Bêyth Lechem** <small>*(bayth leh'-khem)*</small> ==**Bethlehem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎לֶחֶם‎</span><sup><small>[[H3899]]</small></sup>; house of bread</small>
+**<big><span class="ashebrew">‎בֵּית לֶחֶם‎</span></big>** **Bêyth Lechem** <small>*(bayth leh'-khem)*</small> ==**Bethlehem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H3899|‎לֶחֶם‎]]</big>**; house of bread</small>
 
 $\quad$ Bethlehem.
 - § Beth-lehem = *"house of bread (food)"*
@@ -8,4 +8,4 @@ $\quad$ Bethlehem.
 **1)** a city in Judah, birthplace of David
 **2)** a place in Zebulun
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Βηθλεέμ</span><sup><small>[[G0965]]</small></sup>
+<small>See Greek: </small>**<big>[[G0965|Βηθλεέμ]]</big>**

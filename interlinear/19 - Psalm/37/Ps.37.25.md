@@ -6,19 +6,19 @@ I once was young and now am old, yet never have I seen the righteous abandoned o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.24|<< Psalms 37:24]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.26|Psalms 37:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a young man  | <span class="ashebrew"><big>נַ֤עַר </big></span><small><small><sup>[[H5288]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Na.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have been  | <span class="ashebrew"><big>הָיִ֗יתִי </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yi.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am old  | <span class="ashebrew"><big>זָ֫קַ֥נְתִּי </big></span><small><small><sup>[[H2204]]</sup></small></small> &#8207;| za.Kan.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have seen  | <span class="ashebrew"><big>רָ֭אִיתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| Ra.'i.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַדִּ֣יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| forsaken  | <span class="ashebrew"><big>נֶעֱזָ֑ב </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| ne.'e.Zav <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and offspring his  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זַרְע֗ </big></span><small><small><sup>[[H2233H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> zar.' <small><sup>[[HNcmsc]]</sup></small> O <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seeking  | <span class="ashebrew"><big>מְבַקֶּשׁ </big></span><small><small><sup>[[H1245]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me.va.kesh- <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>לָֽחֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young man  |**<big>&#8207;[[H5288\|נַ֤עַר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have been  |**<big>&#8207;[[H1961\|הָיִ֗יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am old  |**<big>&#8207;[[H2204\|זָ֫קַ֥נְתִּי]]&#8207; </big>**| za.Kan.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  |**<big>&#8207;[[H7200G\|רָ֭אִיתִי]]&#8207; </big>**| Ra.'i.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֣יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forsaken  |**<big>&#8207;[[H5800A\|נֶעֱזָ֑ב]]&#8207; </big>**| ne.'e.Zav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and offspring his  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H2233H\|זַרְע֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zar.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seeking  |**<big>&#8207;[[H1245\|מְבַקֶּשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.va.kesh-<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H3899H\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.24|<< Psalms 37:24]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.26|Psalms 37:26 >>]]</td></tr></table>
 
 

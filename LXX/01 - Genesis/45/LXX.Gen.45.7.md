@@ -7,26 +7,26 @@ And God sent me before you to preserve you a posterity in the earth, and to save
 God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance.<small><sub>**MT:**</sub></small>
 [[Gen.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.6|<< Genesis 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.8|Genesis 45:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[that there may\] be left | <big><span class="asgreek">υπολείπεσθαι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a vestige | <big><span class="asgreek">κατάλειμμα</span></big> <sup><small><small>[[G2640]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to nourish | <big><span class="asgreek">εκθρέψαι</span></big> <sup><small><small>[[G1625]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| remnant | <big><span class="asgreek">κατάλειψιν</span></big> <sup><small><small>[[G7865]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| \[that there may\] be left | **<big>[[G5275\|υπολείπεσθαι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| a vestige | **<big>[[G2640\|κατάλειμμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to nourish | **<big>[[G1625\|εκθρέψαι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| remnant | **<big>[[G7865\|κατάλειψιν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
 [[Gen.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.6|<< Genesis 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.8|Genesis 45:8 >>]]</td></tr></table>
 
 

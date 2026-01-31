@@ -7,42 +7,42 @@ And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and u
 Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.”<small><sub>**MT:**</sub></small>
 [[1Kgs.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.4|<< 1 Kings 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.6|1 Kings 18:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahab said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Obadiah, | <big><span class="asgreek">Αβδίου</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should go through | <big><span class="asgreek">διέλθωμεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| springs | <big><span class="asgreek">πηγάς</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waters, | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing streams, | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| perchance | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4458]]</small></small></sup> |
-| we should find | <big><span class="asgreek">εύρωμεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| pasturage, | <big><span class="asgreek">βοτάνην</span></big> <sup><small><small>[[G1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should preserve | <big><span class="asgreek">περιποιησώμεθα</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| \[the\] horses | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mules, | <big><span class="asgreek">ημιόνους</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not be destroyed | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahab said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0256\|Αχαάβ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Obadiah, | **<big>[[H5662\|Αβδίου]]</big>** |
+| Come, | **<big>[[G1204\|δεύρο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should go through | **<big>[[G1330\|διέλθωμεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| springs | **<big>[[G4077\|πηγάς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| waters, | **<big>[[G5204\|υδάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rushing streams, | **<big>[[G5493\|χειμάρρους]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| perchance | **<big>[[G4458\|πως]]</big>** |
+| we should find | **<big>[[G2147\|εύρωμεν]]</big>** |
+| pasturage, | **<big>[[G1008\|βοτάνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should preserve | **<big>[[G4046\|περιποιησώμεθα]]</big>** |
+| \[the\] horses | **<big>[[G2462\|ίππους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mules, | **<big>[[G7629\|ημιόνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not be destroyed | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
 [[1Kgs.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.4|<< 1 Kings 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.6|1 Kings 18:6 >>]]</td></tr></table>
 
 

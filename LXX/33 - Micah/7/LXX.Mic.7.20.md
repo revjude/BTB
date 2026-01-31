@@ -7,24 +7,24 @@ Thou wilt perform the truth to Jacob, [and] the mercy to Abraham, which thou has
 You will show faithfulness to Jacob and loving devotion to Abraham, as You swore to our fathers from the days of old.<small><sub>**MT:**</sub></small>
 [[Mic.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.19|<< Micah 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.1|Nahum 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| truth | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| you swore an oath | <big><span class="asgreek">ώμοσας</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our fathers, | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| former | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| He shall give | **<big>[[G1325\|δώσει]]</big>** |
+| truth | **<big>[[G1519\|εις]]</big>** **<big>[[G0225\|αλήθειαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| you swore an oath | **<big>[[G3660\|ώμοσας]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| our fathers, | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| former | **<big>[[G1715\|έμπροσθεν]]</big>** |
 [[Mic.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.19|<< Micah 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.1|Nahum 1:1 >>]]</td></tr></table>
 
 

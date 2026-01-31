@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִיב‎</span></big> **rîyb** <small>*(reeb)*</small> ==**to contend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">רוּב</span> **rûwb** <small>*(roob)*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎רִיב‎</span></big>** **rîyb** <small>*(reeb)*</small> ==**to contend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">רוּב</span></big>** **rûwb** <small>*(roob)*</small>; a primitive root</small>
 
 $\quad$ adversary, chide, complain, contend, debate, [idiom] ever, [idiom] lay wait, plead, rebuke, strive, [idiom] thoroughly.
 - properly, ***to toss***, i.e. ***grapple***
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1a3)** to make complaint
 $\quad$ $\quad$ **1a4)** to quarrel
 $\quad$ **1b)** (Hiphil) to contend against
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντίδικος</span><sup><small>[[G0476]]</small></sup> · <span class="asgreek">ἀντιλέγω</span><sup><small>[[G0483]]</small></sup> · <span class="asgreek">διακρίνω</span><sup><small>[[G1252]]</small></sup> · <span class="asgreek">διαλέγομαι</span><sup><small>[[G1256]]</small></sup> · <span class="asgreek">δικαιόω</span><sup><small>[[G1344]]</small></sup> · <span class="asgreek">δίκη</span><sup><small>[[G1349]]</small></sup> · <span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">λοιδορέω</span><sup><small>[[G3058]]</small></sup> · <span class="asgreek">μάχη</span><sup><small>[[G3163]]</small></sup> · <span class="asgreek">μάχομαι</span><sup><small>[[G3164]]</small></sup> · <span class="asgreek">ὀργίζω</span><sup><small>[[G3710]]</small></sup> · <span class="asgreek">στάσις</span><sup><small>[[G4714]]</small></sup>
+<small>See Greek: </small>**<big>[[G0476|ἀντίδικος]]</big>** · **<big>[[G0483|ἀντιλέγω]]</big>** · **<big>[[G1252|διακρίνω]]</big>** · **<big>[[G1256|διαλέγομαι]]</big>** · **<big>[[G1344|δικαιόω]]</big>** · **<big>[[G1349|δίκη]]</big>** · **<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G3058|λοιδορέω]]</big>** · **<big>[[G3163|μάχη]]</big>** · **<big>[[G3164|μάχομαι]]</big>** · **<big>[[G3710|ὀργίζω]]</big>** · **<big>[[G4714|στάσις]]</big>**

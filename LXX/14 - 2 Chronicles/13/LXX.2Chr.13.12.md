@@ -7,38 +7,38 @@ And, behold, God himself [is] with us for [our] captain, and his priests with so
 Now behold, God Himself is with us as our head, and His priests with their trumpets sound the battle call against you. O children of Israel, do not fight against the LORD, the God of your fathers, for you will not succeed.”<small><sub>**MT:**</sub></small>
 [[2Chr.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.11|<< 2 Chronicles 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.13|2 Chronicles 13:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| head | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \[is the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets | <big><span class="asgreek">σάλπιγγες</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| signal | <big><span class="asgreek">σημασίας</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to signify | <big><span class="asgreek">σημαίνειν</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| you should not wage war | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">πολεμήσητε</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| your ways shall not be prospered. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευοδωθήσεσθε</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| as | **<big>[[G1722\|εν]]</big>** |
+| head | **<big>[[G0746\|αρχή]]</big>** |
+| \[is the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his priests, | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| trumpets | **<big>[[G4536\|σάλπιγγες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| signal | **<big>[[G9070\|σημασίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to signify | **<big>[[G4591\|σημαίνειν]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| you should not wage war | **<big>[[G3361\|μη]]</big>** **<big>[[G4170\|πολεμήσητε]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your fathers; | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| your ways shall not be prospered. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2137\|ευοδωθήσεσθε]]</big>** |
 [[2Chr.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.11|<< 2 Chronicles 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.13|2 Chronicles 13:13 >>]]</td></tr></table>
 
 

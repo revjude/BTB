@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַגַּי‎</span></big> **Chaggay** <small>*(khag-gah'-ee)*</small> ==**Haggai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חַג‎</span><sup><small>[[H2282]]</small></sup>; festive</small>
+**<big><span class="ashebrew">‎חַגַּי‎</span></big>** **Chaggay** <small>*(khag-gah'-ee)*</small> ==**Haggai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2282|‎חַג‎]]</big>**; festive</small>
 
 $\quad$ Haggai.
 - § Haggai = *"festive"*

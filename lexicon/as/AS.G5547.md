@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">χριστός (Χρ-)</span></span>, <span class="asgreek">-ή, -όν</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">χρίω</span></span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מָשִׁיחַ</span> <small><sup>[[H4899]]</sup></small> and cogn. forms ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">χριστός (Χρ-)</span></span>, <span class="asgreek">-ή, -όν</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">χρίω</span></span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H4899|מָשִׁיחַ]]</big>** and cogn. forms ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> as <span class="asgramGrp"><span class="aspos">adj.</span></span>,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of things, <span class="asitalic">anointing, to be used as ointment</span> (Æsch., Eur., al.; <span class="asgreek">τ. ἔλαιον τὸ χ.</span>, [[LXX.Lev.21.10|Le 21:10]]);</span>

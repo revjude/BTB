@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שָׂפָה‎</span> <small>***(sa.phah)***</small> ==**lip: shore**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-meaning of: <small>[[H8193G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H8193G|שָׂפָה]]</big>**</small> 
 
 - : shore/bank(of\_sea/river)

@@ -6,14 +6,14 @@ Do you give strength to the horse or adorn his neck with a mane?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.18|<< Job 39:18]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.20|Job 39:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ do you give  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>תִתֵּ֣ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> ti.Ten <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the horse  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>סּ֣וּס </big></span><small><small><sup>[[H5483M]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Sus <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>גְּבוּרָ֑ה </big></span><small><small><sup>[[H1369]]</sup></small></small> &#8207;| ge.vu.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ do you clothe  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>תַלְבִּ֖ישׁ </big></span><small><small><sup>[[H3847]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> tal.Bish <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neck its  | <span class="ashebrew"><big>צַוָּאר֣ </big></span><small><small><sup>[[H6677A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tza.va.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mane  | <span class="ashebrew"><big>רַעְמָֽה </big></span><small><small><sup>[[H7483]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra'.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ do you give  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5414G\|תִתֵּ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the horse  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5483M\|סּ֣וּס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Sus<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H1369\|גְּבוּרָ֑ה]]&#8207; </big>**| ge.vu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ do you clothe  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3847\|תַלְבִּ֖ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tal.Bish<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neck its  |**<big>&#8207;[[H6677A\|צַוָּאר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tza.va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mane  |**<big>&#8207;[[H7483\|רַעְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra'.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.18|<< Job 39:18]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.20|Job 39:20 >>]]</td></tr></table>
 
 

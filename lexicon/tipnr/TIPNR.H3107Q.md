@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jozabad</span>, one of the leaders of the Levites, was in charge of the outside work of the house of God.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.11.16|Neh.11.16]]; 
-- only referred to as Jozabad<[[H3107Q]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is mentioned in [[Neh.11.16|Nehemiah 11:16]] as one of the leaders of the Levites who were in charge of the outside work of the house of God. The context of the passage is the listing of the people who settled in Jerusalem after the Babylonian exile \(Nehemiah 11:1-36\). 
 
@@ -14,5 +14,5 @@ The mention of Jozabad's role highlights the various responsibilities of the Lev
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107Q) <small>*Hebrew*</small> | 1x | [Neh.11.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=Neh.11.16) |
-All Strong's for **Jozabad**: \[[[H3107Q]]\]
+| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107Q) | 1x | [Neh.11.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=Neh.11.16) |
+All entries for **Jozabad**:  **<big>[[H3107|יוֹזָבָד]]</big>**

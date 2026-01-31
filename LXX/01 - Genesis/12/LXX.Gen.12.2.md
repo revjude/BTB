@@ -11,24 +11,24 @@ I will make you into a great nation, and I will bless you; I will make your name
 > $\quad$ referenced by: [[Heb.11.8|Heb 11:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will magnify | <big><span class="asgreek">μεγαλυνώ</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name, | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a blessing. | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| a great | **<big>[[G3173\|μέγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will magnify | **<big>[[G3170\|μεγαλυνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name, | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| a blessing. | **<big>[[G2127\|ευλογημένος]]</big>** |
 [[Gen.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.1|<< Genesis 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.3|Genesis 12:3 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ According to the number of years after the jubile thou shalt buy of thy neighbou
 You are to buy from your neighbor according to the number of years since the last Jubilee; he is to sell to you according to the number of harvest years remaining.<small><sub>**MT:**</sub></small>
 [[Lev.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.14|<< Leviticus 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.16|Leviticus 25:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| indication | <big><span class="asgreek">σημασίαν</span></big> <sup><small><small>[[G9070]]</small></small></sup> |
-| shall you acquire | <big><span class="asgreek">κτήση</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| \[land\] from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| your | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| \[and\] according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of years \[left\] | <big><span class="asgreek">ενιαυτών</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of \[the\] produce | <big><span class="asgreek">γενημάτων</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| shall he sell | <big><span class="asgreek">αποδώσεταί</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμόν]]</big>** |
+| of years | **<big>[[G2094\|ετών]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| indication | **<big>[[G9070\|σημασίαν]]</big>** |
+| shall you acquire | **<big>[[G2932\|κτήση]]</big>** |
+| \[land\] from | **<big>[[G3844\|παρά]]</big>** |
+| your | **<big>[[G3588\|του]]</big>** |
+| neighbor, | **<big>[[G4139\|πλησίον]]</big>** |
+| \[and\] according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμόν]]</big>** |
+| of years \[left\] | **<big>[[G1763\|ενιαυτών]]</big>** |
+| of \[the\] produce | **<big>[[G1081\|γενημάτων]]</big>** |
+| shall he sell | **<big>[[G0591\|αποδώσεταί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Lev.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.14|<< Leviticus 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.16|Leviticus 25:16 >>]]</td></tr></table>
 
 

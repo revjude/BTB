@@ -7,20 +7,20 @@ And the flax and the barley was smitten: for the barley [was] in the ear, and th
 (Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;<small><sub>**MT:**</sub></small>
 [[Exod.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.30|<< Exodus 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.32|Exodus 9:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| flax | <big><span class="asgreek">λίνον</span></big> <sup><small><small>[[G3043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| barley | <big><span class="asgreek">κριθή</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| were struck. | <big><span class="asgreek">επλήγη</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
-| For the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| barley | <big><span class="asgreek">κριθή</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| was standing, | <big><span class="asgreek">παρεστηκύια</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| and the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| flax | <big><span class="asgreek">λίνον</span></big> <sup><small><small>[[G3043]]</small></small></sup> |
-| was seeding. | <big><span class="asgreek">σπερματίζον</span></big> <sup><small><small>[[G9138]]</small></small></sup> |
+| And the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| flax | **<big>[[G3043\|λίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| barley | **<big>[[G2915\|κριθή]]</big>** |
+| were struck. | **<big>[[G4141\|επλήγη]]</big>** |
+| For the | **<big>[[G3588\|η]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| barley | **<big>[[G2915\|κριθή]]</big>** |
+| was standing, | **<big>[[G3936\|παρεστηκύια]]</big>** |
+| and the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| flax | **<big>[[G3043\|λίνον]]</big>** |
+| was seeding. | **<big>[[G9138\|σπερματίζον]]</big>** |
 [[Exod.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.30|<< Exodus 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.32|Exodus 9:32 >>]]</td></tr></table>
 
 

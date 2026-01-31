@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁשָׁן‎</span></big> **Shêshân** <small>*(shay-shawn')*</small> ==**Sheshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps for <span class="ashebrew">‎שׁוּשַׁן‎</span><sup><small>[[H7799]]</small></sup>; lily</small>
+**<big><span class="ashebrew">‎שֵׁשָׁן‎</span></big>** **Shêshân** <small>*(shay-shawn')*</small> ==**Sheshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps for **<big>[[H7799|‎שׁוּשַׁן‎]]</big>**; lily</small>
 
 $\quad$ Sheshan.
 - § Sheshan = *"noble"*

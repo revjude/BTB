@@ -7,28 +7,28 @@ Sing unto God, sing praises to his name: extol him that rideth upon the heavens 
 Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His name is the LORD—and rejoice before Him.<small><sub>**MT:**</sub></small>
 [[Ps.68.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.3|<< Psalm 68:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.5|Psalm 68:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sing | <big><span class="asgreek">άσατε</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God! | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Strum | <big><span class="asgreek">ψάλατε</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name! | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Open the way | <big><span class="asgreek">οδοποιήσατε</span></big> <sup><small><small>[[G8445]]</small></small></sup> |
-| \[to\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being mounted | <big><span class="asgreek">επιβεβηκότι</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] west -- | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| exult | <big><span class="asgreek">αγαλλιάσθε</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They shall be disturbed | <big><span class="asgreek">ταραχθήσονται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| his face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Sing | **<big>[[G0103\|άσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God! | **<big>[[G2316\|θεώ]]</big>** |
+| Strum | **<big>[[G5567\|ψάλατε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his name! | **<big>[[G3686\|ονόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Open the way | **<big>[[G8445\|οδοποιήσατε]]</big>** |
+| \[to\] the | **<big>[[G3588\|τω]]</big>** |
+| one being mounted | **<big>[[G1910\|επιβεβηκότι]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] west -- | **<big>[[G1424\|δυσμών]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] his name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| exult | **<big>[[G0021\|αγαλλιάσθε]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| They shall be disturbed | **<big>[[G5015\|ταραχθήσονται]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| his face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.68.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.3|<< Psalm 68:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.5|Psalm 68:5 >>]]</td></tr></table>
 
 

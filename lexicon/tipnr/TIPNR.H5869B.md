@@ -1,8 +1,8 @@
 <small>*Fountain Gate • Gate in Jerusalem's wall; rebuilt by Shallun during Nehemiah's time*</small>
 
 The <span class='tipnrhighlight'>Fountain Gate</span>, a gate in Jerusalem's wall, was rebuilt by Shallun during Nehemiah's time and was a location for processions and gatherings.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.2.14|Neh.2.14]]; 
-- only referred to as Fountain\_Gate<[[H5869B]]> \(<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.2.14|Neh.2.14]]; 
+- only referred to as Fountain\_Gate **<big>[[H5869|עַיִן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The rebuilding of the Fountain Gate during Nehemiah's time was part of the large
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Fountain (Gate) | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5869B) <small>*Hebrew*</small> | 3x | [[Neh.2.14] ... [Neh.12.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Fountain\*\|reference=Neh.2.14;Neh.3.15;Neh.12.37) |
-All Strong's for **Fountain_Gate**: \[[[H5869B]]\]
+| Fountain (Gate) | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5869B) | 3x | [[Neh.2.14] ... [Neh.12.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Fountain\*\|reference=Neh.2.14;Neh.3.15;Neh.12.37) |
+All entries for **Fountain Gate**:  **<big>[[H5869|עַיִן]]</big>**

@@ -6,17 +6,17 @@ Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorde
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.14|<< 1 Chronicles 18:14]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.16|1 Chronicles 18:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Joab  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹאָ֥ב </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zeruiah  | <span class="ashebrew"><big>צְרוּיָ֖ה </big></span><small><small><sup>[[H6870]]</sup></small></small> &#8207;| tze.ru.Yah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the army  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צָּבָ֑א </big></span><small><small><sup>[[H6635A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tza.Va' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jehoshaphat  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוֹשָׁפָ֥ט </big></span><small><small><sup>[[H3092G]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> ho.sha.Fat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahilud  | <span class="ashebrew"><big>אֲחִיל֖וּד </big></span><small><small><sup>[[H0286]]</sup></small></small> &#8207;| 'a.chi.Lud <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was the] recorder  | <span class="ashebrew"><big>מַזְכִּֽיר </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| maz.Kir <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָ֥ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zeruiah  |**<big>&#8207;[[H6870\|צְרוּיָ֖ה]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the army  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6635A\|צָּבָ֑א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jehoshaphat  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3092G\|יהוֹשָׁפָ֥ט]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahilud  |**<big>&#8207;[[H0286\|אֲחִיל֖וּד]]&#8207; </big>**| 'a.chi.Lud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was the] recorder  |**<big>&#8207;[[H2142\|מַזְכִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| maz.Kir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.14|<< 1 Chronicles 18:14]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.16|1 Chronicles 18:16 >>]]</td></tr></table>
 
 

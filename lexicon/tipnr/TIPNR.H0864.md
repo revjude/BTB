@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Etham</span>, a wilderness area on the edge of the desert where the Israelites camped during their journey from Egypt to the Promised Land.
 - A location first mentioned at [[Exod.13.20|Exo.13.20]]; 
-- only referred to as Etham<[[H0864]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Etham **<big>[[H0864|אֵתָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.467511,32.282767&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The wilderness of Etham is also mentioned in [[Num.33.8|Numbers 33:8]], referrin
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Etham | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0864) <small>*Hebrew*</small> | 4x | [[Exo.13.20] ... [Num.33.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etham\*\|reference=Exo.13.20;Num.33.6;Num.33.7;Num.33.8) |
-All Strong's for **Etham**: \[[[H0864]]\]
+| Etham | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0864) | 4x | [[Exo.13.20] ... [Num.33.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etham\*\|reference=Exo.13.20;Num.33.6;Num.33.7;Num.33.8) |
+All entries for **Etham**:  **<big>[[H0864|אֵתָם]]</big>**

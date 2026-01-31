@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִמָּה‎</span></big> **Zimmâh** <small>*(zim-maw')*</small> ==**Zimmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎זִמָּה‎</span><sup><small>[[H2154]]</small></sup></small>
+**<big><span class="ashebrew">‎זִמָּה‎</span></big>** **Zimmâh** <small>*(zim-maw')*</small> ==**Zimmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2154|‎זִמָּה‎]]</big>**</small>
 
 $\quad$ Zimmah.
 - § Zimmah = *"plotter"*

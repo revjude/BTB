@@ -10,35 +10,35 @@ And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: an
 Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,<small><sub>**MT:**</sub></small>
 [[Gen.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.33|<< Genesis 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.2|Genesis 19:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Sodom | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| \[at\] evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| And Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| settled | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Sodom. | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| And seeing, | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| rose up | <big><span class="asgreek">εξανέστη</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did obeisance \[with\] | <big><span class="asgreek">προσεκύνησε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| \[his\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| angels | **<big>[[G0032\|άγγελοι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Sodom | **<big>[[G4670\|Σόδομα]]</big>** |
+| \[at\] evening. | **<big>[[G2073\|εσπέρας]]</big>** |
+| And Lot | **<big>[[G3091\|Λωτ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| settled | **<big>[[G2521\|εκάθητο]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| of Sodom. | **<big>[[G4670\|Σοδόμων]]</big>** |
+| And seeing, | **<big>[[G1492\|ιδών]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| rose up | **<big>[[G1817\|εξανέστη]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did obeisance \[with\] | **<big>[[G4352\|προσεκύνησε]]</big>** |
+| \[his\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| face | **<big>[[G4383\|προσώπω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
 [[Gen.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.33|<< Genesis 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.2|Genesis 19:2 >>]]</td></tr></table>
 
 

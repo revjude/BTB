@@ -14,30 +14,30 @@ If a man commits adultery with another man’s wife—with the wife of his neigh
 > $\quad$ referenced by: [[John.8.5|John 8:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever should | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| commit adultery | <big><span class="asgreek">μοιχεύσηται</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[with\] a man's | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should commit adultery | <big><span class="asgreek">μοιχεύσηται</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
-| \[with\] a wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| let them be put to death! | <big><span class="asgreek">θανατούσθωσαν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[man\] committing adultery | <big><span class="asgreek">μοιχεύων</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[woman\] committing adultery. | <big><span class="asgreek">μοιχευομένη</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever should | **<big>[[G0302\|αν]]</big>** |
+| commit adultery | **<big>[[G3431\|μοιχεύσηται]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \[with\] a man's | **<big>[[G0435\|ανδρός]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should commit adultery | **<big>[[G3431\|μοιχεύσηται]]</big>** |
+| \[with\] a wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| let them be put to death! | **<big>[[G2289\|θανατούσθωσαν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[man\] committing adultery | **<big>[[G3431\|μοιχεύων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| \[woman\] committing adultery. | **<big>[[G3431\|μοιχευομένη]]</big>** |
 [[Lev.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.9|<< Leviticus 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.11|Leviticus 20:11 >>]]</td></tr></table>
 
 

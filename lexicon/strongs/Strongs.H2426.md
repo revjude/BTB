@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵיל‎</span></big> **chêyl** <small>*(khale)*</small> ==**rampart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">חֵל</span> **chêl** <small>*(khale)*</small>; a collateral form of <span class="ashebrew">‎חַיִל‎</span><sup><small>[[H2428]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵיל‎</span></big>** **chêyl** <small>*(khale)*</small> ==**rampart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">חֵל</span></big>** **chêl** <small>*(khale)*</small>; a collateral form of **<big>[[H2428|‎חַיִל‎]]</big>**</small>
 
 $\quad$ army, bulwark, host, [phrase] poor, rampart, trench, wall.
 - ***an army***
@@ -9,4 +9,4 @@ $\quad$ army, bulwark, host, [phrase] poor, rampart, trench, wall.
 $\quad$ **1a)** rampart
 $\quad$ **1b)** fortress
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup>
+<small>See Greek: </small>**<big>[[G0746|ἀρχή]]</big>**

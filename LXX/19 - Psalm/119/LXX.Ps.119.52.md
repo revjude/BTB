@@ -7,16 +7,16 @@ I remembered thy judgments of old, O LORD; and have comforted myself.
 I remember Your judgments of old, O LORD, and in them I find comfort.<small><sub>**MT:**</sub></small>
 [[Ps.119.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.51|<< Psalm 119:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.53|Psalm 119:53 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I remembered | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgments | <big><span class="asgreek">κριμάτων</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] eon, | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was comforted. | <big><span class="asgreek">παρεκλήθην</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
+| I remembered | **<big>[[G3403\|εμνήσθην]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your judgments | **<big>[[G2917\|κριμάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] eon, | **<big>[[G0165\|αιώνος]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I was comforted. | **<big>[[G3870\|παρεκλήθην]]</big>** |
 [[Ps.119.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.51|<< Psalm 119:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.53|Psalm 119:53 >>]]</td></tr></table>
 
 

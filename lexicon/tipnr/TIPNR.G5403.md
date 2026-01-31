@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Phoenicia</span> was a region along the Mediterranean coast, north of Israel, known for its maritime trade and mentioned in the New Testament in connection with the spread of the gospel.
 - A location first mentioned at [[Zech.9.6|Act.11.19]]; 
-- only referred to as Phoenicia<[[G5403]]> \(<span class='tipnrLangGreek'>Φοινίκη</span>\).
+- only referred to as Phoenicia **<big>[[G5403|Φοινίκη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.56316734135746,35.36634649354799&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Phoenicia was an ancient region and civilization located along the Mediterranean
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Phoenicia | [<span class='tipnrLangGreek'>Φοινίκη</span>](G5403) <small>*Greek*</small> | 3x | [[Act.11.19] ... [Act.21.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phoenicia\*\|reference=Act.11.19;Act.15.3;Act.21.2) |
-All Strong's for **Phoenicia**: \[[[G5403]]\]
+| Phoenicia | [<span class='tipnrLangGreek'>Φοινίκη</span>](G5403) | 3x | [[Act.11.19] ... [Act.21.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phoenicia\*\|reference=Act.11.19;Act.15.3;Act.21.2) |
+All entries for **Phoenicia**:  **<big>[[G5403|Φοινίκη]]</big>**

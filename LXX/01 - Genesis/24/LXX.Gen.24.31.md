@@ -7,26 +7,26 @@ And he said, Come in, thou blessed of the LORD; wherefore standest thou without?
 “Come, you who are blessed by the LORD,” said Laban. “Why are you standing out here? I have prepared the house and a place for the camels.”<small><sub>**MT:**</sub></small>
 [[Gen.24.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.30|<< Genesis 24:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.32|Genesis 24:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| enter | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| blessed | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| stand | <big><span class="asgreek">έστηκας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| outside? | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| For I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| prepared | <big><span class="asgreek">ητοίμασα</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| residence, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| for the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camels. | <big><span class="asgreek">καμήλοις</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Come, | **<big>[[G1204\|δεύρο]]</big>** |
+| enter | **<big>[[G1525\|είσελθε]]</big>** |
+| blessed | **<big>[[G2128\|ευλογητός]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| stand | **<big>[[G2476\|έστηκας]]</big>** |
+| outside? | **<big>[[G1854\|έξω]]</big>** |
+| For I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| prepared | **<big>[[G2090\|ητοίμασα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| residence, | **<big>[[G3614\|οικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a place | **<big>[[G5117\|τόπον]]</big>** |
+| for the | **<big>[[G3588\|ταις]]</big>** |
+| camels. | **<big>[[G2574\|καμήλοις]]</big>** |
 [[Gen.24.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.30|<< Genesis 24:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.32|Genesis 24:32 >>]]</td></tr></table>
 
 

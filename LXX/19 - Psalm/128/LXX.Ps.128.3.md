@@ -7,26 +7,26 @@ Thy wife [shall be] as a fruitful vine by the sides of thine house: thy children
 Your wife will be like a fruitful vine flourishing within your house, your sons like olive shoots sitting around your table.<small><sub>**MT:**</sub></small>
 [[Ps.128.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.2|<< Psalm 128:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.4|Psalm 128:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| prospering | <big><span class="asgreek">ευθηνούσα</span></big> <sup><small><small>[[G7541]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">κλίτεσι</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house; | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| newly planted | <big><span class="asgreek">νεόφυτα</span></big> <sup><small><small>[[G3504]]</small></small></sup> |
-| olive \[plants\] | <big><span class="asgreek">ελαιών</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your table. | <big><span class="asgreek">τραπέζης</span></big> <sup><small><small>[[G5132]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is as | **<big>[[G5613\|ως]]</big>** |
+| a grapevine | **<big>[[G0288\|άμπελος]]</big>** |
+| prospering | **<big>[[G7541\|ευθηνούσα]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| sides | **<big>[[G8026\|κλίτεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your house; | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| newly planted | **<big>[[G3504\|νεόφυτα]]</big>** |
+| olive \[plants\] | **<big>[[G1636\|ελαιών]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your table. | **<big>[[G5132\|τραπέζης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.128.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.2|<< Psalm 128:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.4|Psalm 128:4 >>]]</td></tr></table>
 
 

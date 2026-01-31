@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָצָה‎</span></big> **râtsâh** <small>*(raw-tsaw')*</small> ==**to accept**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָצָה‎</span></big>** **râtsâh** <small>*(raw-tsaw')*</small> ==**to accept**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (be) accept(-able), accomplish, set affection, approve, consent with, delight (self), enjoy, (be, have a) favour(-able), like, observe, pardon, (be, have, take) please(-ure), reconcile self.
@@ -17,4 +17,4 @@ $\quad$ **1c)** (Piel) to seek favour of
 $\quad$ **1d)** (Hiphil) to please, pay off
 $\quad$ **1e)** (Hithpael) to make oneself acceptable or pleasing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">δεκτός</span><sup><small>[[G1184]]</small></sup> · <span class="asgreek">δέχομαι</span><sup><small>[[G1209]]</small></sup> · <span class="asgreek">διαλλάσσω</span><sup><small>[[G1259]]</small></sup> · <span class="asgreek">εἰσακούω</span><sup><small>[[G1522]]</small></sup> · <span class="asgreek">ἐπισκοπή</span><sup><small>[[G1984]]</small></sup> · <span class="asgreek">εὐδοκέω</span><sup><small>[[G2106]]</small></sup> · <span class="asgreek">εὐλογέω</span><sup><small>[[G2127]]</small></sup> · <span class="asgreek">εὐοδόω</span><sup><small>[[G2137]]</small></sup> · <span class="asgreek">θέλω</span><sup><small>[[G2309]]</small></sup> · <span class="asgreek">λύω</span><sup><small>[[G3089]]</small></sup> · <span class="asgreek">παραδέχομαι</span><sup><small>[[G3858]]</small></sup> · <span class="asgreek">προσδέχομαι</span><sup><small>[[G4327]]</small></sup> · <span class="asgreek">συντρέχω</span><sup><small>[[G4936]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G1184|δεκτός]]</big>** · **<big>[[G1209|δέχομαι]]</big>** · **<big>[[G1259|διαλλάσσω]]</big>** · **<big>[[G1522|εἰσακούω]]</big>** · **<big>[[G1984|ἐπισκοπή]]</big>** · **<big>[[G2106|εὐδοκέω]]</big>** · **<big>[[G2127|εὐλογέω]]</big>** · **<big>[[G2137|εὐοδόω]]</big>** · **<big>[[G2309|θέλω]]</big>** · **<big>[[G3089|λύω]]</big>** · **<big>[[G3858|παραδέχομαι]]</big>** · **<big>[[G4327|προσδέχομαι]]</big>** · **<big>[[G4936|συντρέχω]]</big>**

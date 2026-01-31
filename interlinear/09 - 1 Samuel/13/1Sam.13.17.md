@@ -6,23 +6,23 @@ And raiders went out of the Philistine camp in three divisions. One headed towar
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.16|<< 1 Samuel 13:16]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.18|1 Samuel 13:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it came out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּצֵ֧א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.Tze' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the destroyer  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּשְׁחִ֛ית </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mash.Chit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] camp of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מַּחֲנֵ֥ה </big></span><small><small><sup>[[H4264]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ma.cha.Neh <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּ֖ים </big></span><small><small><sup>[[H6430G]]</sup></small></small> &#8207;| fe.lish.Tim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֣ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| companies  | <span class="ashebrew"><big>רָאשִׁ֑ים </big></span><small><small><sup>[[H7218K]]</sup></small></small> &#8207;| ra.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the company  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רֹ֨אשׁ </big></span><small><small><sup>[[H7218K]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֥ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it turned  | <span class="ashebrew"><big>יִפְנֶ֛ה </big></span><small><small><sup>[[H6437G]]</sup></small></small> &#8207;| yif.Neh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] direction of  | <span class="ashebrew"><big>דֶּ֥רֶךְ </big></span><small><small><sup>[[H1870J]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ophrah  | <span class="ashebrew"><big>עָפְרָ֖ה </big></span><small><small><sup>[[H6084G]]</sup></small></small> &#8207;| 'a.fe.Rah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shual  | <span class="ashebrew"><big>שׁוּעָֽל </big></span><small><small><sup>[[H7777A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| shu.'Al <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the destroyer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7843\|מַּשְׁחִ֛ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mash.Chit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] camp of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4264\|מַּחֲנֵ֥ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֖ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֣ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| companies  |**<big>&#8207;[[H7218K\|רָאשִׁ֑ים]]&#8207; </big>**| ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the company  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7218K\|רֹ֨אשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it turned  |**<big>&#8207;[[H6437G\|יִפְנֶ֛ה]]&#8207; </big>**| yif.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] direction of  |**<big>&#8207;[[H1870J\|דֶּ֥רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ophrah  |**<big>&#8207;[[H6084G\|עָפְרָ֖ה]]&#8207; </big>**| 'a.fe.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shual  |**<big>&#8207;[[H7777A\|שׁוּעָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shu.'Al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.16|<< 1 Samuel 13:16]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.18|1 Samuel 13:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַשּׁוּב‎</span></big> **Chashshûwb** <small>*(khash-shoob')*</small> ==**Hasshub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָשַׁב‎</span><sup><small>[[H2803]]</small></sup>; intelligent</small>
+**<big><span class="ashebrew">‎חַשּׁוּב‎</span></big>** **Chashshûwb** <small>*(khash-shoob')*</small> ==**Hasshub**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2803|‎חָשַׁב‎]]</big>**; intelligent</small>
 
 $\quad$ Hashub, Hasshub.
 - § Hashub = *"considerate"*

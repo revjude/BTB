@@ -7,44 +7,44 @@ And the men that died not were smitten with the emerods: and the cry of the city
 Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.<small><sub>**MT:**</sub></small>
 [[1Sam.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.11|<< 1 Samuel 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.1|1 Samuel 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a confusion | <big><span class="asgreek">σύγχυσις</span></big> <sup><small><small>[[G4799]]</small></small></sup> |
-| of death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| severe | <big><span class="asgreek">βαρεία</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτός</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντες</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dying | <big><span class="asgreek">αποθανόντες</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| were struck | <big><span class="asgreek">επλήγησαν</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| buttocks. | <big><span class="asgreek">έδρας</span></big> <sup><small><small>[[G7045]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| unto | <big><span class="asgreek">εως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| there came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| a confusion | **<big>[[G4799\|σύγχυσις]]</big>** |
+| of death | **<big>[[G2288\|θανάτου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| city, | **<big>[[G4172\|πόλει]]</big>** |
+| severe | **<big>[[G0926\|βαρεία]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ark | **<big>[[G2787\|κιβωτός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| living | **<big>[[G2198\|ζώντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| dying | **<big>[[G0599\|αποθανόντες]]</big>** |
+| were struck | **<big>[[G4141\|επλήγησαν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| buttocks. | **<big>[[G7045\|έδρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cry | **<big>[[G2906\|κραυγή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| unto | **<big>[[G2193\|εως]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανόν]]</big>** |
 [[1Sam.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.11|<< 1 Samuel 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.1|1 Samuel 6:1 >>]]</td></tr></table>
 
 

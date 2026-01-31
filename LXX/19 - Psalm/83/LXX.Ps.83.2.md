@@ -7,19 +7,19 @@ For, lo, thine enemies make a tumult: and they that hate thee have lifted up the
 See how Your enemies rage, how Your foes have reared their heads.<small><sub>**MT:**</sub></small>
 [[Ps.83.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.1|<< Psalm 83:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.3|Psalm 83:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sounded, | <big><span class="asgreek">ήχησαν</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούντές</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lift | <big><span class="asgreek">ήραν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \[their\] head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| sounded, | **<big>[[G2278\|ήχησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| detesting | **<big>[[G3404\|μισούντές]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| lift | **<big>[[G0142\|ήραν]]</big>** |
+| \[their\] head. | **<big>[[G2776\|κεφαλήν]]</big>** |
 [[Ps.83.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.1|<< Psalm 83:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.3|Psalm 83:3 >>]]</td></tr></table>
 
 

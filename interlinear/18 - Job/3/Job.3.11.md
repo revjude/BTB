@@ -6,15 +6,15 @@ Why did I not perish at birth; why did I not die as I came from the womb?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.10|<< Job 3:10]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.12|Job 3:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> why?  | <span class="ashebrew"><big>לָ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹּ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] womb  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רֶ֣חֶם </big></span><small><small><sup>[[H7358]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Re.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| did I die  | <span class="ashebrew"><big>אָמ֑וּת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| 'a.Mut <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] belly  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בֶּ֖טֶן </big></span><small><small><sup>[[H0990H]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Be.ten <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I came forth  | <span class="ashebrew"><big>יָצָ֣אתִי </big></span><small><small><sup>[[H3318M]]</sup></small></small> &#8207;| ya.Tza.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I may expire?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶגְוָֽע </big></span><small><small><sup>[[H1478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'eg.Va' <small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹּ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] womb  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7358\|רֶ֣חֶם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Re.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did I die  |**<big>&#8207;[[H4191\|אָמ֑וּת]]&#8207; </big>**| 'a.Mut<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] belly  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0990H\|בֶּ֖טֶן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Be.ten<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I came forth  |**<big>&#8207;[[H3318M\|יָצָ֣אתִי]]&#8207; </big>**| ya.Tza.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may expire?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1478\|אֶגְוָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'eg.Va'<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.10|<< Job 3:10]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.12|Job 3:12 >>]]</td></tr></table>
 
 

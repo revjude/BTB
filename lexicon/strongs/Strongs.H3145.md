@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יוֹשַׁוְיָה‎</span></big> **Yôwshavyâh** <small>*(yo-shav-yaw')*</small> ==**Joshaviah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎שָׁוָה‎</span><sup><small>[[H7737]]</small></sup>; Jehovah-set</small>
+**<big><span class="ashebrew">‎יוֹשַׁוְיָה‎</span></big>** **Yôwshavyâh** <small>*(yo-shav-yaw')*</small> ==**Joshaviah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H7737|‎שָׁוָה‎]]</big>**; Jehovah-set</small>
 
-$\quad$ Joshaviah. Compare <span class="ashebrew">‎יוֹשָׁה‎</span><sup><small>[[H3144]]</small></sup>.
+$\quad$ Joshaviah. Compare **<big>[[H3144|‎יוֹשָׁה‎]]</big>**.
 - § Joshaviah = *"Jehovah makes equal"*
 - ***Joshavjah***, an Israelite
 

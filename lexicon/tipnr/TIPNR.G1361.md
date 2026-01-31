@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Diotrephes</span> was a church leader who loved to be first and refused to welcome John and his companions. \([[3John.1.9|3Jn.1.9]]\)
 - A man living at the time of the New Testament, only mentioned at [[3John.1.9|3Jn.1.9]]; 
-- only referred to as Diotrephes<[[G1361]]> \(<span class='tipnrLangGreek'>Διοτρεφής</span>\).
+- only referred to as Diotrephes **<big>[[G1361|Διοτρεφής]]</big>**.
 
 Diotrephes is mentioned in [[3John.1.9|3 John 1:9]]-10 as a church leader who opposed the apostle John and his associates. John describes Diotrephes as someone "who loves to be first" among the church members, suggesting that he had a dominant and controlling personality. 
 
@@ -16,5 +16,5 @@ John declared his intention to confront Diotrephes about his actions when he vis
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Diotrephes | [<span class='tipnrLangGreek'>Διοτρεφής</span>](G1361) <small>*Greek*</small> | 1x | [3Jn.1.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Diotrephes\*\|reference=3Jn.1.9) |
-All Strong's for **Diotrephes**: \[[[G1361]]\]
+| Diotrephes | [<span class='tipnrLangGreek'>Διοτρεφής</span>](G1361) | 1x | [3Jn.1.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Diotrephes\*\|reference=3Jn.1.9) |
+All entries for **Diotrephes**:  **<big>[[G1361|Διοτρεφής]]</big>**

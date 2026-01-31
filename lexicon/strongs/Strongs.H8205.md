@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁפִי‎</span></big> **shᵉphîy** <small>*(shef-ee')*</small> ==**bareness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפָה‎</span><sup><small>[[H8192]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁפִי‎</span></big>** **shᵉphîy** <small>*(shef-ee')*</small> ==**bareness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8192|‎שָׁפָה‎]]</big>**</small>
 
 $\quad$ high place, stick out.
 - ***bareness***
@@ -9,4 +9,4 @@ $\quad$ high place, stick out.
 $\quad$ **1a)** bareness
 $\quad$ **1b)** bare place, bare height
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">ὄρος</span><sup><small>[[G3735]]</small></sup>
+<small>See Greek: </small>**<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G3735|ὄρος]]</big>**

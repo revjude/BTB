@@ -10,42 +10,42 @@ In his days Pharaohnechoh king of Egypt went up against the king of Assyria to t
 During Josiah’s reign, Pharaoh Neco king of Egypt marched up to help the king of Assyria at the Euphrates River. King Josiah went out to confront him, but Neco faced him and killed him at Megiddo.<small><sub>**MT:**</sub></small>
 [[2Kgs.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.28|<< 2 Kings 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.30|2 Kings 23:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Necho | <big><span class="asgreek">Νεχαώ</span></big> <sup><small><small>[[H5224]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Euphrates. | <big><span class="asgreek">Ευφράτην</span></big> <sup><small><small>[[G2166]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| Josiah | <big><span class="asgreek">Ιωσίας</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a meeting | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| against him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| killed | <big><span class="asgreek">εθανάτωσεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Necho | <big><span class="asgreek">Νεχαώ</span></big> <sup><small><small>[[H5224]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Megiddo, | <big><span class="asgreek">Μαγεδδώ</span></big> <sup><small><small>[[H4023]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seeing | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| Necho | **<big>[[H5224\|Νεχαώ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| river | **<big>[[G4215\|ποταμόν]]</big>** |
+| Euphrates. | **<big>[[G2166\|Ευφράτην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| Josiah | **<big>[[G2502\|Ιωσίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a meeting | **<big>[[G0529\|απάντησιν]]</big>** |
+| against him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| killed | **<big>[[G2289\|εθανάτωσεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Necho | **<big>[[H5224\|Νεχαώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Megiddo, | **<big>[[H4023\|Μαγεδδώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his seeing | **<big>[[G1492\|ιδείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Kgs.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.28|<< 2 Kings 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.30|2 Kings 23:30 >>]]</td></tr></table>
 
 

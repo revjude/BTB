@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ithiel</span> is mentioned twice in Proverbs 30:1, but the meaning and context of the name are uncertain.
 - A man living at the time of United Monarchy, first mentioned at Pro.30.1; 
-- referred to as Ithiel or God \(KJV= Ithiel\) <[[H0384H]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Ithiel or God \(KJV= Ithiel\)  **<big>[[H0384|אִיתִיאֵל]]</big>**.
 
 Ithiel is mentioned twice in Proverbs 30:1, which introduces the sayings of Agur son of Jakeh. The verse reads, "The sayings of Agur son of Jakeh—an inspired utterance. This man's utterance to Ithiel: 'I am weary, God, but I can prevail.'" 
 
@@ -14,6 +14,6 @@ Given the uncertainty surrounding the identity of Ithiel and the cryptic nature 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| God (KJV, NIV= Ithiel) | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0384H) <small>*Hebrew*</small> | 1x | [Pro.30.1a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="God"\*\|reference=Pro.30.1) |
-| God (KJV= Ithiel) | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0384H) <small>*Hebrew*</small> | 1x | [Pro.30.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="God"\*\|reference=Pro.30.1) |
-All Strong's for **Ithiel or "God"**: \[[[H0384H]]\]
+| God (KJV, NIV= Ithiel) | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0384H) | 1x | [Pro.30.1a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="God"\*\|reference=Pro.30.1) |
+| God (KJV= Ithiel) | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ית</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0384H) | 1x | [Pro.30.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="God"\*\|reference=Pro.30.1) |
+All entries for **Ithiel or "God"**:  **<big>[[H0384|אִיתִיאֵל]]</big>**

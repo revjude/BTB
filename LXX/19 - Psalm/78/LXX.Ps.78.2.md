@@ -11,17 +11,17 @@ I will open my mouth in parables; I will utter things hidden from the beginning,
 > $\quad$ referenced by: [[Matt.13.35|Matt 13:35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| parables | <big><span class="asgreek">παραβολαίς</span></big> <sup><small><small>[[G3850]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will utter | <big><span class="asgreek">φθέγξομαι</span></big> <sup><small><small>[[G5350]]</small></small></sup> |
-| riddles | <big><span class="asgreek">προβλήματα</span></big> <sup><small><small>[[G8892]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning; | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| I will open | **<big>[[G0455\|ανοίξω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| parables | **<big>[[G3850\|παραβολαίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will utter | **<big>[[G5350\|φθέγξομαι]]</big>** |
+| riddles | **<big>[[G8892\|προβλήματα]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning; | **<big>[[G0746\|αρχής]]</big>** |
 [[Ps.78.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.1|<< Psalm 78:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.3|Psalm 78:3 >>]]</td></tr></table>
 
 

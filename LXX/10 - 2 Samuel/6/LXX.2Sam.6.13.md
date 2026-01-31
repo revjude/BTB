@@ -7,25 +7,25 @@ And it was [so], that when they that bare the ark of the LORD had gone six paces
 When those carrying the ark of the LORD had advanced six paces, he sacrificed an ox and a fattened calf.<small><sub>**MT:**</sub></small>
 [[2Sam.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίροντες</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| companies of dancers, | <big><span class="asgreek">χοροί</span></big> <sup><small><small>[[G5525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for sacrifice | <big><span class="asgreek">θύμα</span></big> <sup><small><small>[[G7697]]</small></small></sup> |
-| a calf | <big><span class="asgreek">μόσχου</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lambs | <big><span class="asgreek">άρνες</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| lifting | **<big>[[G0142\|αίροντες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| companies of dancers, | **<big>[[G5525\|χοροί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for sacrifice | **<big>[[G7697\|θύμα]]</big>** |
+| a calf | **<big>[[G3448\|μόσχου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lambs | **<big>[[G0704\|άρνες]]</big>** |
 [[2Sam.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 
 

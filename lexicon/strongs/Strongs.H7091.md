@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קִפּוֹז‎</span></big> **qippôwz** <small>*(kip-poze')*</small> ==**arrow snake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎קִפּוֹז‎</span></big>** **qippôwz** <small>*(kip-poze')*</small> ==**arrow snake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to contract, i.e.</small>
 
 $\quad$ great owl.

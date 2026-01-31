@@ -7,29 +7,29 @@ Thus shalt thou say unto him, The LORD saith thus; Behold, [that] which I have b
 Thus Jeremiah was to say to Baruch: “This is what the LORD says: Throughout the land I will demolish what I have built and uproot what I have planted.<small><sub>**MT:**</sub></small>
 [[Jer.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.3|<< Jeremiah 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.5|Jeremiah 45:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| What | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| built up | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| demolish, | <big><span class="asgreek">καθαίρω</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I planted | <big><span class="asgreek">εφύτευσα</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pluck, | <big><span class="asgreek">εκτίλλω</span></big> <sup><small><small>[[G7154]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of mine. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| You said | **<big>[[G2036\|είπον]]</big>** |
+| to him! | **<big>[[G1473\|αυτώ]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| What | **<big>[[G3739\|ους]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| built up | **<big>[[G3618\|ωκοδόμησα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| demolish, | **<big>[[G2507\|καθαίρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G3739\|ους]]</big>** |
+| I planted | **<big>[[G5452\|εφύτευσα]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| pluck, | **<big>[[G7154\|εκτίλλω]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of mine. | **<big>[[G1699\|εμού]]</big>** |
 [[Jer.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.3|<< Jeremiah 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.5|Jeremiah 45:5 >>]]</td></tr></table>
 
 

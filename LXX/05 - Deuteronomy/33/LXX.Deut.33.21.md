@@ -7,27 +7,27 @@ And he provided the first part for himself, because there, [in] a portion of the
 He chose the best land for himself, because a ruler’s portion was reserved for him there. He came with the leaders of the people; he administered the LORD’s justice and His ordinances for Israel.”<small><sub>**MT:**</sub></small>
 [[Deut.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.20|<< Deuteronomy 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.22|Deuteronomy 33:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| his first-fruit, | <big><span class="asgreek">απαρχήν</span></big> <sup><small><small>[[G0536]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| was portioned | <big><span class="asgreek">εμερίσθη</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| by rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| being brought | <big><span class="asgreek">συνηγμένων</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| heads | <big><span class="asgreek">αρχηγοίς</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
-| of peoples; | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he beheld | **<big>[[G1492\|είδεν]]</big>** |
+| his first-fruit, | **<big>[[G0536\|απαρχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| was portioned | **<big>[[G3307\|εμερίσθη]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| by rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| being brought | **<big>[[G4863\|συνηγμένων]]</big>** |
+| together, | **<big>[[G0260\|άμα]]</big>** |
+| heads | **<big>[[G0747\|αρχηγοίς]]</big>** |
+| of peoples; | **<big>[[G2992\|λαών]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his equity | **<big>[[G2920\|κρίσιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] with | **<big>[[G3326\|μετά]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Deut.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.20|<< Deuteronomy 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.22|Deuteronomy 33:22 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ And the battle went sore against Saul, and the archers hit him, and he was wound
 When the battle intensified against Saul, the archers overtook him and wounded him.<small><sub>**MT:**</sub></small>
 [[1Chr.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.2|<< 1 Chronicles 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.4|1 Chronicles 10:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pressed | <big><span class="asgreek">εβαρύνθη</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bowmen | <big><span class="asgreek">τοξόται</span></big> <sup><small><small>[[G9465]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] bows, | <big><span class="asgreek">τόξοις</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[he was in\] miseries | <big><span class="asgreek">πόνοις</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| suffering pain | <big><span class="asgreek">επόνεσεν</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bows. | <big><span class="asgreek">τόξων</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| pressed | **<big>[[G0925\|εβαρύνθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| battle | **<big>[[G4171\|πόλεμος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| found | **<big>[[G2147\|εύρον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bowmen | **<big>[[G9465\|τοξόται]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] bows, | **<big>[[G5115\|τόξοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[he was in\] miseries | **<big>[[G4192\|πόνοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| suffering pain | **<big>[[G8862\|επόνεσεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| bows. | **<big>[[G5115\|τόξων]]</big>** |
 [[1Chr.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.2|<< 1 Chronicles 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.4|1 Chronicles 10:4 >>]]</td></tr></table>
 
 

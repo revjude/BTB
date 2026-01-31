@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קוּר‎</span></big> **qûwr** <small>*(koor)*</small> ==**to dig**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also denominative from <span class="ashebrew">‎קִיר‎</span><sup><small>[[H7023]]</small></sup></small>
+**<big><span class="ashebrew">‎קוּר‎</span></big>** **qûwr** <small>*(koor)*</small> ==**to dig**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also denominative from **<big>[[H7023|‎קִיר‎]]</big>**</small>
 
 $\quad$ break down, cast out, destroy, dig.
 - ***to trench***
@@ -11,4 +11,4 @@ $\quad$ break down, cast out, destroy, dig.
 $\quad$ **2a)** (Hiphil) to make or keep cool
 **3)** (Pilpel) destroy, break down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup> · <span class="asgreek">ψύχω</span><sup><small>[[G5594]]</small></sup>
+<small>See Greek: </small>**<big>[[G5087|τίθημι]]</big>** · **<big>[[G5594|ψύχω]]</big>**

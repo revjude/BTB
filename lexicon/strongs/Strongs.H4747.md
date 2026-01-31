@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מְקֵרָה‎</span></big> **mᵉqêrâh** <small>*(mek-ay-raw')*</small> ==**cool**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎קַר‎</span><sup><small>[[H7119]]</small></sup></small>
+**<big><span class="ashebrew">‎מְקֵרָה‎</span></big>** **mᵉqêrâh** <small>*(mek-ay-raw')*</small> ==**cool**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the same as **<big>[[H7119|‎קַר‎]]</big>**</small>
 
 $\quad$ [idiom] summer.
 - ***a cooling off***
 
 **1)** coolness, cooling
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοιτών</span><sup><small>[[G2846]]</small></sup>
+<small>See Greek: </small>**<big>[[G2846|κοιτών]]</big>**

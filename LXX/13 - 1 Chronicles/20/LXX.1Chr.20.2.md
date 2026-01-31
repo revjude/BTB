@@ -7,43 +7,43 @@ And David took the crown of their king from off his head, and found it to weigh 
 Then David took the crown from the head of their king. It was found to weigh a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.<small><sub>**MT:**</sub></small>
 [[1Chr.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.1|<< 1 Chronicles 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.3|1 Chronicles 20:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weight | <big><span class="asgreek">σταθμός</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to be\] a talent | <big><span class="asgreek">τάλαντον</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of gold. | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| a valuable | <big><span class="asgreek">τίμιος</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| from the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| he brought forth | <big><span class="asgreek">εξήνεγκε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| crown | **<big>[[G4735\|στέφανον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their king | **<big>[[G0935\|βασιλέως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| found | **<big>[[G2147\|ευρέθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| weight | **<big>[[G9150\|σταθμός]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| \[to be\] a talent | **<big>[[G5007\|τάλαντον]]</big>** |
+| of gold. | **<big>[[G5553\|χρυσίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| stone | **<big>[[G3037\|λίθος]]</big>** |
+| a valuable | **<big>[[G5093\|τίμιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it was | **<big>[[G1510\|ην]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| from the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| he brought forth | **<big>[[G1627\|εξήνεγκε]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
 [[1Chr.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.1|<< 1 Chronicles 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.3|1 Chronicles 20:3 >>]]</td></tr></table>
 
 

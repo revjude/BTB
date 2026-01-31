@@ -7,16 +7,16 @@ To set up on high those that be low; that those which mourn may be exalted to sa
 He sets the lowly on high, so that mourners are lifted to safety.<small><sub>**MT:**</sub></small>
 [[Job.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.10|<< Job 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.12|Job 5:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appointing | <big><span class="asgreek">ποιούντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] humble | <big><span class="asgreek">ταπεινούς</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] height, | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ones perishing | <big><span class="asgreek">απολωλότας</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| raising up | <big><span class="asgreek">εξεγείροντα</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| appointing | **<big>[[G4160\|ποιούντα]]</big>** |
+| \[the\] humble | **<big>[[G5011\|ταπεινούς]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] height, | **<big>[[G5311\|ύψος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] ones perishing | **<big>[[G0622\|απολωλότας]]</big>** |
+| raising up | **<big>[[G1825\|εξεγείροντα]]</big>** |
 [[Job.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.10|<< Job 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.12|Job 5:12 >>]]</td></tr></table>
 
 

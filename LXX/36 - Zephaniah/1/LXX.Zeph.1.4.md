@@ -7,37 +7,37 @@ I will also stretch out mine hand upon Judah, and upon all the inhabitants of Je
 “I will stretch out My hand against Judah and against all who dwell in Jerusalem. I will cut off from this place every remnant of Baal, the names of the idolatrous and pagan priests—<small><sub>**MT:**</sub></small>
 [[Zeph.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.3|<< Zephaniah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.5|Zephaniah 1:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will stretch out | <big><span class="asgreek">εκτενώ</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will remove | <big><span class="asgreek">εξαρώ</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Baal, | <big><span class="asgreek">Βαάλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecrated \[things\]; | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2413]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will stretch out | **<big>[[G1614\|εκτενώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will remove | **<big>[[G1808\|εξαρώ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this place | **<big>[[G5117\|τόπου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Baal, | **<big>[[G0896\|Βαάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| consecrated \[things\]; | **<big>[[G2413\|ιερέων]]</big>** |
 [[Zeph.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.3|<< Zephaniah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.5|Zephaniah 1:5 >>]]</td></tr></table>
 
 

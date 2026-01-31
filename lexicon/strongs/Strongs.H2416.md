@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַי‎</span></big> **chay** <small>*(khah'-ee)*</small> ==**alive**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup></small>
+**<big><span class="ashebrew">‎חַי‎</span></big>** **chay** <small>*(khah'-ee)*</small> ==**alive**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2421|‎חָיָה‎]]</big>**</small>
 
 $\quad$ [phrase] age, alive, appetite, (wild) beast, company, congregation, life(-time), live(-ly), living (creature, thing), maintenance, [phrase] merry, multitude, [phrase] (be) old, quick, raw, running, springing, troop.
 - ***alive***
@@ -26,4 +26,4 @@ $\quad$ **4c)** appetite
 $\quad$ **4d)** revival, renewal
 **5)** community
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθρωπος</span><sup><small>[[G0444]]</small></sup> · <span class="asgreek">βίος</span><sup><small>[[G0979]]</small></sup> · <span class="asgreek">ἑρπετόν</span><sup><small>[[G2062]]</small></sup> · <span class="asgreek">ζωή</span><sup><small>[[G2222]]</small></sup> · <span class="asgreek">ζωογονέω</span><sup><small>[[G2225]]</small></sup> · <span class="asgreek">ζῶον</span><sup><small>[[G2226]]</small></sup> · <span class="asgreek">θηρίον</span><sup><small>[[G2342]]</small></sup> · <span class="asgreek">θηρίον</span><sup><small>[[G2342]]</small></sup> · <span class="asgreek">θνητός</span><sup><small>[[G2349]]</small></sup> · <span class="asgreek">κτῆνος</span><sup><small>[[G2934]]</small></sup> · <span class="asgreek">τάγμα</span><sup><small>[[G5001]]</small></sup> · <span class="asgreek">τετράπους</span><sup><small>[[G5074]]</small></sup> · <span class="asgreek">ὑγιής</span><sup><small>[[G5199]]</small></sup> · <span class="asgreek">ψυχή</span><sup><small>[[G5590]]</small></sup>
+<small>See Greek: </small>**<big>[[G0444|ἄνθρωπος]]</big>** · **<big>[[G0979|βίος]]</big>** · **<big>[[G2062|ἑρπετόν]]</big>** · **<big>[[G2222|ζωή]]</big>** · **<big>[[G2225|ζωογονέω]]</big>** · **<big>[[G2226|ζῶον]]</big>** · **<big>[[G2342|θηρίον]]</big>** · **<big>[[G2342|θηρίον]]</big>** · **<big>[[G2349|θνητός]]</big>** · **<big>[[G2934|κτῆνος]]</big>** · **<big>[[G5001|τάγμα]]</big>** · **<big>[[G5074|τετράπους]]</big>** · **<big>[[G5199|ὑγιής]]</big>** · **<big>[[G5590|ψυχή]]</big>**

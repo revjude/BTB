@@ -6,15 +6,15 @@ the king of Kedesh, one; the king of Jokneam in Carmel, one;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.21|<< Joshua 12:21]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.23|Joshua 12:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] king of  | <span class="ashebrew"><big>מֶ֤לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kedesh  | <span class="ashebrew"><big>קֶ֙דֶשׁ֙ </big></span><small><small><sup>[[H6943G]]</sup></small></small> &#8207;| ke.desh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֔ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jokneam  | <span class="ashebrew"><big>יָקְנֳעָ֥ם </big></span><small><small><sup>[[H3362]]</sup></small></small> &#8207;| ya.ke.no.'Am <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> Carmel  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כַּרְמֶ֖ל </big></span><small><small><sup>[[H3760G]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> kar.Mel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָֽד </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֤לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedesh  |**<big>&#8207;[[H6943G\|קֶ֙דֶשׁ֙]]&#8207; </big>**| ke.desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֔ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jokneam  |**<big>&#8207;[[H3362\|יָקְנֳעָ֥ם]]&#8207; </big>**| ya.ke.no.'Am<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> Carmel  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3760G\|כַּרְמֶ֖ל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> kar.Mel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.21|<< Joshua 12:21]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.23|Joshua 12:23 >>]]</td></tr></table>
 
 

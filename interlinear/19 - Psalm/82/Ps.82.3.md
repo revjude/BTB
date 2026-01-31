@@ -6,14 +6,14 @@ Defend the cause of the weak and fatherless; uphold the rights of the afflicted 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.2|<< Psalms 82:2]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.4|Psalms 82:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give judgment for  | <span class="ashebrew"><big>שִׁפְטוּ </big></span><small><small><sup>[[H8199]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shif.tu- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] poor  | <span class="ashebrew"><big>דַ֥ל </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| dal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] fatherless  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָת֑וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] afflicted  | <span class="ashebrew"><big>עָנִ֖י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] poor  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רָ֣שׁ </big></span><small><small><sup>[[H7326]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Rash <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vindicate  | <span class="ashebrew"><big>הַצְדִּֽיקוּ </big></span><small><small><sup>[[H6663]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hatz.Di.ku <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give judgment for  |**<big>&#8207;[[H8199\|שִׁפְטוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shif.tu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poor  |**<big>&#8207;[[H1800\|דַ֥ל]]&#8207; </big>**| dal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fatherless  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3490\|יָת֑וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] afflicted  |**<big>&#8207;[[H6041\|עָנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] poor  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7326\|רָ֣שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vindicate  |**<big>&#8207;[[H6663\|הַצְדִּֽיקוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hatz.Di.ku<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.2|<< Psalms 82:2]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.4|Psalms 82:4 >>]]</td></tr></table>
 
 

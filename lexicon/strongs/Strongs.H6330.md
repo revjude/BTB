@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פּוּקָה‎</span></big> **pûwqâh** <small>*(poo-kaw')*</small> ==**staggering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎פּוּק‎</span><sup><small>[[H6328]]</small></sup></small>
+**<big><span class="ashebrew">‎פּוּקָה‎</span></big>** **pûwqâh** <small>*(poo-kaw')*</small> ==**staggering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6328|‎פּוּק‎]]</big>**</small>
 
 $\quad$ grief.
 - ***a stumbling-block***

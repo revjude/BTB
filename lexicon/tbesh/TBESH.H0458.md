@@ -1,4 +1,2 @@
-<span class="ashebrew">‎אֱלִימֶ֫לֶךְ‎</span> <small>***(e.li.me.lekh)***</small> ==**Elimelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-- A man living before Israel's Monarchy, first mentioned at [[Ruth.1.2|Rut.1.2]] married to Naomi ([[H5281]])
--  father of: Mahlon ([[H4248]]), Chilion ([[H3630]])
-
+- A man living before Israel's Monarchy, first mentioned at [[Ruth.1.2|Rut.1.2]] married to Naomi (**<big>[[H5281|נׇעֳמִי]]</big>**)
+-  father of: Mahlon (**<big>[[H4248|מַחְלוֹן]]</big>**), Chilion (**<big>[[H3630|כִּלְיוֹן]]</big>**)

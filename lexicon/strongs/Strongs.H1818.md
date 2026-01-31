@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּם‎</span></big> **dâm** <small>*(dawm)*</small> ==**blood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּמַם‎</span><sup><small>[[H1826]]</small></sup> (compare <span class="ashebrew">‎אָדַם‎</span><sup><small>[[H0119]]</small></sup>)</small>
+**<big><span class="ashebrew">‎דָּם‎</span></big>** **dâm** <small>*(dawm)*</small> ==**blood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1826|‎דָּמַם‎]]</big>** (compare **<big>[[H0119|‎אָדַם‎]]</big>**)</small>
 
 $\quad$ blood(-y, -guiltiness, (-thirsty), [phrase] innocent.
 - ***blood*** (as that which when shed causes death) ***of man*** or ***an animal***
@@ -9,4 +9,4 @@ $\quad$ blood(-y, -guiltiness, (-thirsty), [phrase] innocent.
 **1)** blood
 $\quad$ **1a)** of wine (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἷμα</span><sup><small>[[G0129]]</small></sup> · <span class="asgreek">ἔνοχος</span><sup><small>[[G1777]]</small></sup> · <span class="asgreek">μέτοχος</span><sup><small>[[G3353]]</small></sup> · <span class="asgreek">φόνος</span><sup><small>[[G5408]]</small></sup> · <span class="asgreek">Ἀκελδαμά</span><sup><small>[[G0184]]</small></sup>
+<small>See Greek: </small>**<big>[[G0129|αἷμα]]</big>** · **<big>[[G1777|ἔνοχος]]</big>** · **<big>[[G3353|μέτοχος]]</big>** · **<big>[[G5408|φόνος]]</big>** · **<big>[[G0184|Ἀκελδαμά]]</big>**

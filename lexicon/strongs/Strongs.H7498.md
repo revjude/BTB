@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָפָא‎</span></big> **Râphâʼ** <small>*(raw-faw')*</small> ==**Raphah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">רָפָה</span> **Râphâh** <small>*(raw-faw')*</small>; probably the same as <span class="ashebrew">‎רָפָא‎</span><sup><small>[[H7497]]</small></sup>; giant</small>
+**<big><span class="ashebrew">‎רָפָא‎</span></big>** **Râphâʼ** <small>*(raw-faw')*</small> ==**Raphah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">רָפָה</span></big>** **Râphâh** <small>*(raw-faw')*</small>; probably the same as **<big>[[H7497|‎רָפָא‎]]</big>**; giant</small>
 
 $\quad$ Rapha.
 - § Rapha = *"tall"*

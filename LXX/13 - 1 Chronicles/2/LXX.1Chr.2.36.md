@@ -7,18 +7,18 @@ And Attai begat Nathan, and Nathan begat Zabad,
 Attai was the father of Nathan, Nathan was the father of Zabad,<small><sub>**MT:**</sub></small>
 [[1Chr.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.35|<< 1 Chronicles 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.37|1 Chronicles 2:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Attai | <big><span class="asgreek">Εθί</span></big> <sup><small><small>[[H0863]]</small></small></sup> |
-| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nathan, | <big><span class="asgreek">Νάθαν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nathan | <big><span class="asgreek">Νάθαν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zabad, | <big><span class="asgreek">Ζαβάδ</span></big> <sup><small><small>[[H2066]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Attai | **<big>[[H0863\|Εθί]]</big>** |
+| procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Nathan, | **<big>[[G3481\|Νάθαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nathan | **<big>[[G3481\|Νάθαν]]</big>** |
+| procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zabad, | **<big>[[H2066\|Ζαβάδ]]</big>** |
 [[1Chr.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.35|<< 1 Chronicles 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.37|1 Chronicles 2:37 >>]]</td></tr></table>
 
 

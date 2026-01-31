@@ -10,35 +10,35 @@ And Hiram king of Tyre sent his servants unto Solomon; for he had heard that the
 Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David.<small><sub>**MT:**</sub></small>
 [[1Kgs.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.34|<< 1 Kings 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.2|1 Kings 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Tyre | <big><span class="asgreek">Τύρου</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Solomon; | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| for he heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they anointed him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έχρισαν</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in place of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπών</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Tyre | **<big>[[G5184\|Τύρου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Solomon; | **<big>[[G4672\|Σολομώντα]]</big>** |
+| for he heard | **<big>[[G0191\|ήκουσε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they anointed him | **<big>[[G1473\|αυτόν]]</big>** **<big>[[G5548\|έχρισαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| in place of | **<big>[[G0473\|αντί]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| loving | **<big>[[G0025\|αγαπών]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[1Kgs.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.34|<< 1 Kings 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.2|1 Kings 5:2 >>]]</td></tr></table>
 
 

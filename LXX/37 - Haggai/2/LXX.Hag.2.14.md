@@ -7,50 +7,50 @@ Then answered Haggai, and said, So [is] this people, and so [is] this nation bef
 Then Haggai replied, “So it is with this people and this nation before Me, declares the LORD, and so it is with every work of their hands; whatever they offer there is defiled.<small><sub>**MT:**</sub></small>
 [[Hag.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.13|<< Haggai 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.15|Haggai 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Haggai answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">Αγγαίας</span></big> <sup><small><small>[[H2292b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their hands; | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should approach | <big><span class="asgreek">εγγίση</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| \[unto\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| shall be defiled; | <big><span class="asgreek">μιανθήσεται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their concerns | <big><span class="asgreek">λημμάτων</span></big> <sup><small><small>[[G8189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| early morning \[burdens\]; | <big><span class="asgreek">ορθρινών</span></big> <sup><small><small>[[G3720]]</small></small></sup> |
-| they shall grieve | <big><span class="asgreek">οδυνηθήσονται</span></big> <sup><small><small>[[G3600]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of their wickednesses; | <big><span class="asgreek">πονηριών</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you detested | <big><span class="asgreek">εμισείτε</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] doors | <big><span class="asgreek">θύραις</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| reproving | <big><span class="asgreek">ελέγχοντα</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Haggai answered | **<big>[[G0611\|απεκρίθη]]</big>** **<big>[[H2292b\|Αγγαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this nation | **<big>[[G1484\|έθνος]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] before | **<big>[[G1799\|ενώπιον]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their hands; | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whoever | **<big>[[G3739\|ος]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should approach | **<big>[[G1448\|εγγίση]]</big>** |
+| \[unto\] there | **<big>[[G1563\|εκεί]]</big>** |
+| shall be defiled; | **<big>[[G3392\|μιανθήσεται]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their concerns | **<big>[[G8189\|λημμάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| early morning \[burdens\]; | **<big>[[G3720\|ορθρινών]]</big>** |
+| they shall grieve | **<big>[[G3600\|οδυνηθήσονται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of their wickednesses; | **<big>[[G4189\|πονηριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you detested | **<big>[[G3404\|εμισείτε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] doors | **<big>[[G2374\|θύραις]]</big>** |
+| reproving | **<big>[[G1651\|ελέγχοντα]]</big>** |
 [[Hag.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.13|<< Haggai 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.15|Haggai 2:15 >>]]</td></tr></table>
 
 

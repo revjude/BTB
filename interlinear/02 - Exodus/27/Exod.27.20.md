@@ -6,23 +6,23 @@ And you are to command the Israelites to bring you pure oil of pressed olives fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.19|<< Exodus 27:19]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.21|Exodus 27:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֞ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will command  | <span class="ashebrew"><big>תְּצַוֶּ֣ה </big></span><small><small><sup>[[H6680]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| te.tza.Veh <small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֗ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may bring  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִקְח֨וּ </big></span><small><small><sup>[[H3947J]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yik.Chu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>אֵלֶ֜י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HRd]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| oil of  | <span class="ashebrew"><big>שֶׁ֣מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| She.men <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| olive  | <span class="ashebrew"><big>זַ֥יִת </big></span><small><small><sup>[[H2132H]]</sup></small></small> &#8207;| Za.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure  | <span class="ashebrew"><big>זָ֛ךְ </big></span><small><small><sup>[[H2134]]</sup></small></small> &#8207;| zakh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pressed  | <span class="ashebrew"><big>כָּתִ֖ית </big></span><small><small><sup>[[H3795]]</sup></small></small> &#8207;| ka.Tit <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the light  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּא֑וֹר </big></span><small><small><sup>[[H3974]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ma.'or <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to lift up  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַעֲלֹ֥ת </big></span><small><small><sup>[[H5927I]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ha.'a.Lot <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lamp  | <span class="ashebrew"><big>נֵ֖ר </big></span><small><small><sup>[[H5216A]]</sup></small></small> &#8207;| ner <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| continually  | <span class="ashebrew"><big>תָּמִֽיד </big></span><small><small><sup>[[H8548]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Mid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will command  |**<big>&#8207;[[H6680\|תְּצַוֶּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.tza.Veh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may bring  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3947J\|יִקְח֨וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yik.Chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H0413\|אֵלֶ֜י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oil of  |**<big>&#8207;[[H8081\|שֶׁ֣מֶן]]&#8207; </big>**| She.men<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| olive  |**<big>&#8207;[[H2132H\|זַ֥יִת]]&#8207; </big>**| Za.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  |**<big>&#8207;[[H2134\|זָ֛ךְ]]&#8207; </big>**| zakh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pressed  |**<big>&#8207;[[H3795\|כָּתִ֖ית]]&#8207; </big>**| ka.Tit<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the light  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3974\|מָּא֑וֹר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ma.'or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to lift up  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5927I\|הַעֲלֹ֥ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lamp  |**<big>&#8207;[[H5216A\|נֵ֖ר]]&#8207; </big>**| ner<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continually  |**<big>&#8207;[[H8548\|תָּמִֽיד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.19|<< Exodus 27:19]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.21|Exodus 27:21 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָנַק‎</span></big> **yânaq** <small>*(yaw-nak')*</small> ==**to suckle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָנַק‎</span></big>** **yânaq** <small>*(yaw-nak')*</small> ==**to suckle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ milch, nurse(-ing mother), (give, make to) suck(-ing child, -ling).
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to give suck to, nurse
 $\quad$ $\quad$ **1b2)** nursing, nursing woman, nurse (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐσθίω</span><sup><small>[[G2068]]</small></sup> · <span class="asgreek">θηλάζω</span><sup><small>[[G2337]]</small></sup> · <span class="asgreek">νήπιος</span><sup><small>[[G3516]]</small></sup> · <span class="asgreek">τροφός</span><sup><small>[[G5162]]</small></sup>
+<small>See Greek: </small>**<big>[[G2068|ἐσθίω]]</big>** · **<big>[[G2337|θηλάζω]]</big>** · **<big>[[G3516|νήπιος]]</big>** · **<big>[[G5162|τροφός]]</big>**

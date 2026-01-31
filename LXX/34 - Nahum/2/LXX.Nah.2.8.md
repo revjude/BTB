@@ -7,24 +7,24 @@ But Nineveh [is] of old like a pool of water: yet they shall flee away. Stand, s
 Nineveh has been like a pool of water throughout her days, but now it is draining away. “Stop! Stop!” they cry, but no one turns back.<small><sub>**MT:**</sub></small>
 [[Nah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.7|<< Nahum 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.9|Nahum 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nineveh, | <big><span class="asgreek">Νινευϊ</span></big> <sup><small><small>[[G3535]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a pool | <big><span class="asgreek">κολυμβήθρα</span></big> <sup><small><small>[[G2861]]</small></small></sup> |
-| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fleeing | <big><span class="asgreek">φεύγοντες</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand, | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was none | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| paying attention. | <big><span class="asgreek">επιβλέπων</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Nineveh, | **<big>[[G3535\|Νινευϊ]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| a pool | **<big>[[G2861\|κολυμβήθρα]]</big>** |
+| of water | **<big>[[G5204\|ύδατος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her waters | **<big>[[G5204\|ύδατα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| fleeing | **<big>[[G5343\|φεύγοντες]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| stand, | **<big>[[G2476\|έστησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was none | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| paying attention. | **<big>[[G1914\|επιβλέπων]]</big>** |
 [[Nah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.7|<< Nahum 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.9|Nahum 2:9 >>]]</td></tr></table>
 
 

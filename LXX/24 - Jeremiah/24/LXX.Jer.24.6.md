@@ -7,34 +7,34 @@ For I will set mine eyes upon them for good, and I will bring them again to this
 I will keep My eyes on them for good and will return them to this land. I will build them up and not tear them down; I will plant them and not uproot them.<small><sub>**MT:**</sub></small>
 [[Jer.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.5|<< Jeremiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.7|Jeremiah 24:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall firmly fix | <big><span class="asgreek">στηριώ</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall restore | <big><span class="asgreek">αποκαταστήσω</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will rebuild | <big><span class="asgreek">ανοικοδομήσω</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| demolish; | <big><span class="asgreek">καθελώ</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will plant | <big><span class="asgreek">καταφυτεύσω</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will I pluck \[them\] up. | <big><span class="asgreek">εκτίλω</span></big> <sup><small><small>[[G7154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall firmly fix | **<big>[[G4741\|στηριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| good, | **<big>[[G0018\|αγαθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall restore | **<big>[[G0600\|αποκαταστήσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this land. | **<big>[[G1093\|γην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will rebuild | **<big>[[G0456\|ανοικοδομήσω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| demolish; | **<big>[[G2507\|καθελώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will plant | **<big>[[G7952\|καταφυτεύσω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| will I pluck \[them\] up. | **<big>[[G7154\|εκτίλω]]</big>** |
 [[Jer.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.5|<< Jeremiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.7|Jeremiah 24:7 >>]]</td></tr></table>
 
 

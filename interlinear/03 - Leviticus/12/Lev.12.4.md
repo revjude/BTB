@@ -10,27 +10,27 @@ The woman shall continue in purification from her bleeding for thirty-three days
 > $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and thirty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹשִׁ֥ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day[s]  | <span class="ashebrew"><big>יוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| yOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and three  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹ֣שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.Lo.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֔ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will remain  | <span class="ashebrew"><big>תֵּשֵׁ֖ב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| te.Shev <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] blood\<s> of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דְמֵ֣י </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> d.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purification  | <span class="ashebrew"><big>טָהֳרָ֑ה </big></span><small><small><sup>[[H2892A]]</sup></small></small> &#8207;| to.ho.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> any  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holy thing  | <span class="ashebrew"><big>קֹ֣דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will touch  | <span class="ashebrew"><big>תִגָּ֗ע </big></span><small><small><sup>[[H5060]]</sup></small></small> &#8207;| ti.Ga' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and into  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sanctuary  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּקְדָּשׁ֙ </big></span><small><small><sup>[[H4720]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mik.Dash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will go  | <span class="ashebrew"><big>תָבֹ֔א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ta.Vo' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are completed  | <span class="ashebrew"><big>מְלֹ֖את </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| me.Lot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֥י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purification her  | <span class="ashebrew"><big>טָהֳרָֽ </big></span><small><small><sup>[[H2892A]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.ho.Ra <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day[s]  |**<big>&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹ֣שֶׁת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֔ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will remain  |**<big>&#8207;[[H3427\|תֵּשֵׁ֖ב]]&#8207; </big>**| te.Shev<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] blood\<s> of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1818\|דְמֵ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> d.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purification  |**<big>&#8207;[[H2892A\|טָהֳרָ֑ה]]&#8207; </big>**| to.ho.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> any  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy thing  |**<big>&#8207;[[H6944G\|קֹ֣דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will touch  |**<big>&#8207;[[H5060\|תִגָּ֗ע]]&#8207; </big>**| ti.Ga'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and into  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sanctuary  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4720\|מִּקְדָּשׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Dash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will go  |**<big>&#8207;[[H0935G\|תָבֹ֔א]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are completed  |**<big>&#8207;[[H4390\|מְלֹ֖את]]&#8207; </big>**| me.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֥י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purification her  |**<big>&#8207;[[H2892A\|טָהֳרָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.ho.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
 
 

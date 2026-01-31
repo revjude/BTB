@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְעָתִי‎</span></big> **Shimʻâthîy** <small>*(shim-aw-thee')*</small> ==**Shimeathite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎שִׁמְעָה‎</span><sup><small>[[H8093]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁמְעָתִי‎</span></big>** **Shimʻâthîy** <small>*(shim-aw-thee')*</small> ==**Shimeathite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H8093|‎שִׁמְעָה‎]]</big>**</small>
 
 $\quad$ Shimeathites.
 - § Shimeathites = *see Shimeath "report"*

@@ -7,33 +7,33 @@ And the Levite, the husband of the woman that was slain, answered and said, I ca
 So the Levite, the husband of the murdered woman, answered: “I and my concubine came to Gibeah in Benjamin to spend the night.<small><sub>**MT:**</sub></small>
 [[Judg.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.3|<< Judges 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.5|Judges 20:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite, | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been murdered. | <big><span class="asgreek">πεφονευμένης</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Gibeah | <big><span class="asgreek">Γαβαά</span></big> <sup><small><small>[[H1390]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Benjamin | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my concubine | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to rest up. | <big><span class="asgreek">καταλύσαι</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite, | **<big>[[G3017\|Λευίτης]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| husband | **<big>[[G0435\|ανήρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| having been murdered. | **<big>[[G5407\|πεφονευμένης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Gibeah | **<big>[[H1390\|Γαβαά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Benjamin | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my concubine | **<big>[[G8589\|παλλακή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to rest up. | **<big>[[G2647\|καταλύσαι]]</big>** |
 [[Judg.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.3|<< Judges 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.5|Judges 20:5 >>]]</td></tr></table>
 
 

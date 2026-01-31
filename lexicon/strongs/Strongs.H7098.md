@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָצָה‎</span></big> **qâtsâh** <small>*(kaw-tsaw')*</small> ==**end**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎קָצֶה‎</span><sup><small>[[H7097]]</small></sup>; (used like <span class="ashebrew">‎קָצֶה‎</span><sup><small>[[H7097]]</small></sup>)</small>
+**<big><span class="ashebrew">‎קָצָה‎</span></big>** **qâtsâh** <small>*(kaw-tsaw')*</small> ==**end**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>feminine of **<big>[[H7097|‎קָצֶה‎]]</big>**; (used like **<big>[[H7097|‎קָצֶה‎]]</big>**)</small>
 
 $\quad$ coast, corner, (selv-) edge, lowest, (uttermost) participle
 - ***a termination***
@@ -8,4 +8,4 @@ $\quad$ coast, corner, (selv-) edge, lowest, (uttermost) participle
 $\quad$ **1a)** end
 $\quad$ **1b)** from the whole of, from among (of what is included between extremities)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πτερύγιον</span><sup><small>[[G4419]]</small></sup>
+<small>See Greek: </small>**<big>[[G4419|πτερύγιον]]</big>**

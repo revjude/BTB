@@ -7,20 +7,20 @@ He hath taken a bag of money with him, [and] will come home at the day appointed
 He took with him a bag of money and will not return till the moon is full.”<small><sub>**MT:**</sub></small>
 [[Prov.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.19|<< Proverbs 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.21|Proverbs 7:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a bundle | <big><span class="asgreek">ένδεσμον</span></big> <sup><small><small>[[G7221]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hands; | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for \[only after\] | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| will he come back again | <big><span class="asgreek">επανήξει</span></big> <sup><small><small>[[G7364]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a bundle | **<big>[[G7221\|ένδεσμον]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| taking | **<big>[[G2983\|λαβών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his hands; | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for \[only after\] | **<big>[[G1223\|δι΄]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
+| will he come back again | **<big>[[G7364\|επανήξει]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house. | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.19|<< Proverbs 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.21|Proverbs 7:21 >>]]</td></tr></table>
 
 

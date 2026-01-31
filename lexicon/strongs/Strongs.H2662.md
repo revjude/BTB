@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶפְרִי‎</span></big> **Chephrîy** <small>*(khef-ree')*</small> ==**Hepherite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎חֵפֶר‎</span><sup><small>[[H2660]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶפְרִי‎</span></big>** **Chephrîy** <small>*(khef-ree')*</small> ==**Hepherite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H2660|‎חֵפֶר‎]]</big>**</small>
 
 $\quad$ Hepherites.
 - § Hepherites = *see Hepher "a pit" or "shame"*

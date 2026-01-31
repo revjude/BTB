@@ -7,29 +7,29 @@ And thou shalt overlay it with pure gold, the top thereof, and the sides thereof
 Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it.<small><sub>**MT:**</sub></small>
 [[Exod.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.2|<< Exodus 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.4|Exodus 30:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall gild | <big><span class="asgreek">καταχρυσώσεις</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| these | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| in pure | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] grates, | <big><span class="asgreek">εσχάραν</span></big> <sup><small><small>[[G7516]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] walls | <big><span class="asgreek">τοίχους</span></big> <sup><small><small>[[G5109]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] horns. | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a twisted | <big><span class="asgreek">στρεπτήν</span></big> <sup><small><small>[[G9823]]</small></small></sup> |
-| rim | <big><span class="asgreek">στεφάνην</span></big> <sup><small><small>[[G9168]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσήν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall gild | **<big>[[G7958\|καταχρυσώσεις]]</big>** |
+| these | **<big>[[G1473\|αυτά]]</big>** |
+| gold | **<big>[[G5553\|χρυσίω]]</big>** |
+| in pure | **<big>[[G2513\|καθαρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| \[its\] grates, | **<big>[[G7516\|εσχάραν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| \[its\] walls | **<big>[[G5109\|τοίχους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| round about, | **<big>[[G2945\|κύκλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[its\] horns. | **<big>[[G2768\|κέρατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| for it | **<big>[[G1473\|αυτώ]]</big>** |
+| a twisted | **<big>[[G9823\|στρεπτήν]]</big>** |
+| rim | **<big>[[G9168\|στεφάνην]]</big>** |
+| gold | **<big>[[G5552\|χρυσήν]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
 [[Exod.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.2|<< Exodus 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.4|Exodus 30:4 >>]]</td></tr></table>
 
 

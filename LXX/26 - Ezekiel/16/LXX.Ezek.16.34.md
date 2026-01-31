@@ -7,36 +7,36 @@ And the contrary is in thee from [other] women in thy whoredoms, whereas none fo
 So your prostitution is the opposite of that of other women: No one solicited your favors, and you paid a fee instead of receiving one; so you are the very opposite!<small><sub>**MT:**</sub></small>
 [[Ezek.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.33|<< Ezekiel 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.35|Ezekiel 16:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a perverseness | <big><span class="asgreek">διεστραμμένον</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
-| beyond | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the \[other\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harlotry | <big><span class="asgreek">πορνεία</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| of your harlotry, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they shall commit harlotry. | <big><span class="asgreek">πορνεύσουσιν</span></big> <sup><small><small>[[G4203]]</small></small></sup> |
-| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in addition | <big><span class="asgreek">προσδιδόναι</span></big> <sup><small><small>[[G8915]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wages | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
-| (and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wages | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
-| were not given | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you,) | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has taken place | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a perverseness | <big><span class="asgreek">διεστραμμένον</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| a perverseness | **<big>[[G1294\|διεστραμμένον]]</big>** |
+| beyond | **<big>[[G3844\|παρά]]</big>** |
+| the \[other\]\<obj.> | **<big>[[G3588\|τας]]</big>** |
+| women | **<big>[[G1135\|γυναίκας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| harlotry | **<big>[[G4202\|πορνεία]]</big>** |
+| of your harlotry, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| they shall commit harlotry. | **<big>[[G4203\|πορνεύσουσιν]]</big>** |
+| For in | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| in addition | **<big>[[G8915\|προσδιδόναι]]</big>** **<big>[[G1473\|σε]]</big>** |
+| wages | **<big>[[G3410\|μισθώματα]]</big>** |
+| (and | **<big>[[G2532\|και]]</big>** |
+| wages | **<big>[[G3410\|μισθώματα]]</big>** |
+| were not given | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1325\|εδόθη]]</big>** |
+| to you,) | **<big>[[G1473\|σοι]]</big>** |
+| has taken place | **<big>[[G1096\|γέγονεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| a perverseness | **<big>[[G1294\|διεστραμμένον]]</big>** |
 [[Ezek.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.33|<< Ezekiel 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.35|Ezekiel 16:35 >>]]</td></tr></table>
 
 

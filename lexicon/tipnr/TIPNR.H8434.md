@@ -1,8 +1,8 @@
 <small>*Tolad • Town in the territory of Simeon*</small>
 
 <span class='tipnrhighlight'>Tolad</span>, a town allotted to the tribe of Simeon \(1 Chr. 4:29\).
-- A location near Beersheba<[[H0884]]> only mentioned at [[1Chr.4.29|1Ch.4.29]]; 
-- only referred to as Tolad<[[H8434]]> \(<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ֑<span class='tipnrLangHebrew'>ד</span>\).
+- A location near Beersheba **<big>[[H0884|בְּאֵר שֶׁבַע]]</big>** only mentioned at [[1Chr.4.29|1Ch.4.29]]; 
+- only referred to as Tolad **<big>[[H8434|תּוֹלָד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.244952,34.840888&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tolad is mentioned in [[1Chr.4.29|1 Chronicles 4:29]] as one of the towns allott
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tolad | [<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ֑<span class='tipnrLangHebrew'>ד</span>](H8434) <small>*Hebrew*</small> | 1x | [1Ch.4.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tolad\*\|reference=1Ch.4.29) |
-All Strong's for **Tolad**: \[[[H8434]]\]
+| Tolad | [<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ֑<span class='tipnrLangHebrew'>ד</span>](H8434) | 1x | [1Ch.4.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tolad\*\|reference=1Ch.4.29) |
+All entries for **Tolad**:  **<big>[[H8434|תּוֹלָד]]</big>**

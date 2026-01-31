@@ -7,24 +7,24 @@ In God I will praise his word, in God I have put my trust; I will not fear what 
 In God, whose word I praise—in God I trust. I will not be afraid. What can man do to me?<small><sub>**MT:**</sub></small>
 [[Ps.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.3|<< Psalm 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.5|Psalm 56:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I will praise | <big><span class="asgreek">επαινέσω</span></big> <sup><small><small>[[G1867]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by my words. | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| I hoped. | <big><span class="asgreek">ήλπισα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήσομαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| I will praise | **<big>[[G1867\|επαινέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| by my words. | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| I hoped. | **<big>[[G1679\|ήλπισα]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήσομαι]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| flesh | **<big>[[G4561\|σαρξ]]</big>** |
 [[Ps.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.3|<< Psalm 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.5|Psalm 56:5 >>]]</td></tr></table>
 
 

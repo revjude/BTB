@@ -7,55 +7,55 @@ Hear thou in heaven thy dwelling place, and do according to all that the strange
 then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.42|<< 1 Kings 8:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.44|1 Kings 8:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall listen | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| prepared | <big><span class="asgreek">ετοίμου</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| home | <big><span class="asgreek">κατοικητηρίου</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall act | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| should call upon | <big><span class="asgreek">επικαλέσηταί</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλότριος</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| so | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| that | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώσι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name, | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should fear | <big><span class="asgreek">φοβώνταί</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has been called | <big><span class="asgreek">επικέκληται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[in\] this house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I built. | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall listen | **<big>[[G1522\|εισακούση]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| prepared | **<big>[[G2092\|ετοίμου]]</big>** |
+| home | **<big>[[G2732\|κατοικητηρίου]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall act | **<big>[[G4160\|ποιήσεις]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| should call upon | **<big>[[G1941\|επικαλέσηταί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| alien | **<big>[[G0245\|αλλότριος]]</big>** |
+| so | **<big>[[G3704\|όπως]]</big>** |
+| that | **<big>[[G0302\|αν]]</big>** |
+| should know | **<big>[[G1097\|γνώσι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name, | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| so that | **<big>[[G2532\|και]]</big>** |
+| they should fear | **<big>[[G5399\|φοβώνταί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should know | **<big>[[G1097\|γνώσιν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| has been called | **<big>[[G1941\|επικέκληται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[in\] this house, | **<big>[[G3624\|οίκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I built. | **<big>[[G3618\|ωκοδόμησα]]</big>** |
 [[1Kgs.8.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.42|<< 1 Kings 8:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.44|1 Kings 8:44 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲצָרָה‎</span></big> **ʻătsârâh** <small>*(ats-aw-raw')*</small> ==**assembly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">עֲצֶרֶת</span> **ʻătsereth** <small>*(ats-eh'-reth)*</small>; from <span class="ashebrew">‎עָצָר‎</span><sup><small>[[H6113]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲצָרָה‎</span></big>** **ʻătsârâh** <small>*(ats-aw-raw')*</small> ==**assembly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲצֶרֶת</span></big>** **ʻătsereth** <small>*(ats-eh'-reth)*</small>; from **<big>[[H6113|‎עָצָר‎]]</big>**</small>
 
 $\quad$ (solemn) assembly (meeting).
 - ***an assembly***, especially ***on a******festival*** or ***holiday***
@@ -8,4 +8,4 @@ $\quad$ (solemn) assembly (meeting).
 $\quad$ **1a)** assembly (sacred or festive meeting)
 $\quad$ **1b)** assemblage, company, group
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θεραπεία</span><sup><small>[[G2322]]</small></sup> · <span class="asgreek">πανήγυρις</span><sup><small>[[G3831]]</small></sup>
+<small>See Greek: </small>**<big>[[G2322|θεραπεία]]</big>** · **<big>[[G3831|πανήγυρις]]</big>**

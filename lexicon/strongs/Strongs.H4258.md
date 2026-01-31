@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחֲלַת‎</span></big> **Machălath** <small>*(makh-al-ath')*</small> ==**Mahalath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מַחֲלַת‎</span><sup><small>[[H4257]]</small></sup>; sickness</small>
+**<big><span class="ashebrew">‎מַחֲלַת‎</span></big>** **Machălath** <small>*(makh-al-ath')*</small> ==**Mahalath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H4257|‎מַחֲלַת‎]]</big>**; sickness</small>
 
 $\quad$ Mahalath.
 - § Mahalath = *"stringed instrument"*

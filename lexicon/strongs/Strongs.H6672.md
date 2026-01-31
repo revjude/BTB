@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֹהַר‎</span></big> **tsôhar** <small>*(tso'-har)*</small> ==**midday**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָהַר‎</span><sup><small>[[H6671]]</small></sup></small>
+**<big><span class="ashebrew">‎צֹהַר‎</span></big>** **tsôhar** <small>*(tso'-har)*</small> ==**midday**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6671|‎צָהַר‎]]</big>**</small>
 
 $\quad$ midday, noon(-day, -tide), window.
 - ***a light*** (i.e. window)
@@ -13,4 +13,4 @@ n f
 **2)** roof
 $\quad$ **2a)** meaning dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μεσημβρία</span><sup><small>[[G3314]]</small></sup>
+<small>See Greek: </small>**<big>[[G3314|μεσημβρία]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קְבֵל‎</span></big> **qᵉbêl** <small>*(keb-ale')*</small> ==**before**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">קֳבֵל</span> **qŏbêl** <small>*(kobale')*</small>; (Aramaic), (corresponding to <span class="ashebrew">‎קָבָל‎</span><sup><small>[[H6905]]</small></sup></small>
+**<big><span class="asaramaic">‎קְבֵל‎</span></big>** **qᵉbêl** <small>*(keb-ale')*</small> ==**before**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">קֳבֵל</span></big>** **qŏbêl** <small>*(kobale')*</small>; (Aramaic), (corresponding to **<big>[[H6905|‎קָבָל‎]]</big>**</small>
 
 $\quad$ [phrase] according to, [phrase] as, [phrase] because, before, [phrase] for this cause, [phrase] forasmuch as, [phrase] by this means, over against, by reason of, [phrase] that, [phrase] therefore, [phrase] though, [phrase] wherefore.
 - (adverbially) ***in front of***

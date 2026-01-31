@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵרֶם‎</span></big> **chêrem** <small>*(khay'-rem)*</small> ==**devoted thing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (Zechariah 14:11) <span class="ashebrew">חֶרֶם</span> **cherem** <small>*(kheh'-rem)*</small>; from <span class="ashebrew">‎חָרַם‎</span><sup><small>[[H2763]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵרֶם‎</span></big>** **chêrem** <small>*(khay'-rem)*</small> ==**devoted thing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (Zechariah 14:11) **<big><span class="ashebrew">חֶרֶם</span></big>** **cherem** <small>*(kheh'-rem)*</small>; from **<big>[[H2763|‎חָרַם‎]]</big>**</small>
 
 $\quad$ (ac-) curse(-d, -d thing), dedicated thing, things which should have been utterly destroyed, (appointed to) utter destruction, devoted (thing), net.
 - physical (as shutting in) ***a net*** (either literally or figuratively)
@@ -10,4 +10,4 @@ $\quad$ (ac-) curse(-d, -d thing), dedicated thing, things which should have bee
 **2)** a net, thing perforated
 **3)** have been utterly destroyed, (appointed to) utter destruction
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγκιστρον</span><sup><small>[[G0044]]</small></sup> · <span class="asgreek">ἀμφίβληστρον</span><sup><small>[[G0293]]</small></sup> · <span class="asgreek">ἀνάθεμα</span><sup><small>[[G0331]]</small></sup> · <span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">ὄλεθρος</span><sup><small>[[G3639]]</small></sup> · <span class="asgreek">σαγήνη</span><sup><small>[[G4522]]</small></sup>
+<small>See Greek: </small>**<big>[[G0044|ἄγκιστρον]]</big>** · **<big>[[G0293|ἀμφίβληστρον]]</big>** · **<big>[[G0331|ἀνάθεμα]]</big>** · **<big>[[G0684|ἀπώλεια]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G3639|ὄλεθρος]]</big>** · **<big>[[G4522|σαγήνη]]</big>**

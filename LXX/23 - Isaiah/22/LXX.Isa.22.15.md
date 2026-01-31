@@ -7,23 +7,23 @@ Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, [even] unto 
 This is what the Lord GOD of Hosts says: “Go, say to Shebna, the steward in charge of the palace:<small><sub>**MT:**</sub></small>
 [[Isa.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.14|<< Isaiah 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.16|Isaiah 22:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts, | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cubicle, | <big><span class="asgreek">παστοφόριον</span></big> <sup><small><small>[[G8665]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Somnan | <big><span class="asgreek">Σομνάν</span></big> <sup><small><small>[[H7644]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storekeeper, | <big><span class="asgreek">ταμίαν</span></big> <sup><small><small>[[G9398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts, | **<big>[[G4519\|σαβαώθ]]</big>** |
+| Go | **<big>[[G4198\|πορεύου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| cubicle, | **<big>[[G8665\|παστοφόριον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Somnan | **<big>[[H7644\|Σομνάν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| storekeeper, | **<big>[[G9398\|ταμίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
 [[Isa.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.14|<< Isaiah 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.16|Isaiah 22:16 >>]]</td></tr></table>
 
 

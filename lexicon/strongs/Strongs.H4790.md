@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְרוֹחַ‎</span></big> **mᵉrôwach** <small>*(mer-o-akh')*</small> ==**crushed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָרַח‎</span><sup><small>[[H4799]]</small></sup></small>
+**<big><span class="ashebrew">‎מְרוֹחַ‎</span></big>** **mᵉrôwach** <small>*(mer-o-akh')*</small> ==**crushed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4799|‎מָרַח‎]]</big>**</small>
 
 $\quad$ broken.
 - ***bruised***, i.e. ***emasculated***

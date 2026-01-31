@@ -117,7 +117,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.27.25|25]]**<span class=
 
 [^47]: or, secretary
 
-[^48]: (<span class="ashebrew">‎חַכְמוֹנִי‎</span><sup><small>[[H2453]]</small></sup>), or, Hachmonite, [[1Chr.11|1Chr 11:11]]
+[^48]: ( [[H2453|‎חַכְמוֹנִי‎]] ), or, Hachmonite, [[1Chr.11|1Chr 11:11]]
 
 [^49]: [[2Sam.15|2Sam 15:12]], [[2Sam.16|2Sam 16:23]], [[2Sam.17|2Sam 17:23]]
 

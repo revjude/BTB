@@ -7,41 +7,41 @@ Behold now, thy servant hath found grace in thy sight, and thou hast magnified t
 Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die.<small><sub>**MT:**</sub></small>
 [[Gen.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.18|<< Genesis 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.20|Genesis 19:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| since | <big><span class="asgreek">επειδή</span></big> <sup><small><small>[[G1894]]</small></small></sup> |
-| found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you magnified | <big><span class="asgreek">εμεγάλυνας</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your righteousness, | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you do | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| may live | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to come through safe | <big><span class="asgreek">διασωθήναι</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| overtake | <big><span class="asgreek">καταλάβη</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I die. | <big><span class="asgreek">αποθάνω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| since | **<big>[[G1894\|επειδή]]</big>** |
+| found | **<big>[[G2147\|εύρεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your servant | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you magnified | **<big>[[G3170\|εμεγάλυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your righteousness, | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| you do | **<big>[[G4160\|ποιείς]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| that | **<big>[[G3588\|του]]</big>** |
+| may live | **<big>[[G2198\|ζην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to come through safe | **<big>[[G1295\|διασωθήναι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain, | **<big>[[G3735\|όρος]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| overtake | **<big>[[G2638\|καταλάβη]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| evils | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I die. | **<big>[[G0599\|αποθάνω]]</big>** |
 [[Gen.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.18|<< Genesis 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.20|Genesis 19:20 >>]]</td></tr></table>
 
 

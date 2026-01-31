@@ -7,31 +7,31 @@ For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multip
 Israel has forgotten his Maker and built palaces; Judah has multiplied its fortified cities. But I will send fire upon their cities, and it will consume their citadels.<small><sub>**MT:**</sub></small>
 [[Hos.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.13|<< Hosea 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.1|Hosea 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel forgot | <big><span class="asgreek">επελάθετο</span></big> <sup><small><small>[[G1950]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσαντος</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they built | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| sacred precincts, | <big><span class="asgreek">τεμένη</span></big> <sup><small><small>[[G9418]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| multiplied | <big><span class="asgreek">επλήθυνε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| being walled up. | <big><span class="asgreek">τετειχισμένας</span></big> <sup><small><small>[[G9409]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send out | <big><span class="asgreek">εξαποστελώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his cities, | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his foundations. | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel forgot | **<big>[[G1950\|επελάθετο]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| making | **<big>[[G4160\|ποιήσαντος]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they built | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| sacred precincts, | **<big>[[G9418\|τεμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| multiplied | **<big>[[G4129\|επλήθυνε]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| being walled up. | **<big>[[G9409\|τετειχισμένας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will send out | **<big>[[G1821\|εξαποστελώ]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his cities, | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his foundations. | **<big>[[G2310\|θεμέλια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Hos.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.13|<< Hosea 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.1|Hosea 9:1 >>]]</td></tr></table>
 
 

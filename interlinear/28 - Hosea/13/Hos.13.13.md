@@ -6,22 +6,22 @@ Labor pains come upon him, but he is an unwise son. When the time arrives, he fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.12|<< Hosea 13:12]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.14|Hosea 13:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] pains of  | <span class="ashebrew"><big>חֶבְלֵ֥י </big></span><small><small><sup>[[H2256B]]</sup></small></small> &#8207;| chev.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] gives birth  | <span class="ashebrew"><big>יֽוֹלֵדָ֖ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yo.le.Dah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come  | <span class="ashebrew"><big>יָבֹ֣אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>ל֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>הוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hu'- <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a son  | <span class="ashebrew"><big>בֵן֙ </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise  | <span class="ashebrew"><big>חָכָ֔ם </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a time  | <span class="ashebrew"><big>עֵ֥ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| 'et <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will present himself  | <span class="ashebrew"><big>יַעֲמֹ֖ד </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| ya.'a.Mod <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at birth of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִשְׁבַּ֥ר </big></span><small><small><sup>[[H4866]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mish.Bar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children  | <span class="ashebrew"><big>בָּנִֽים </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pains of  |**<big>&#8207;[[H2256B\|חֶבְלֵ֥י]]&#8207; </big>**| chev.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] gives birth  |**<big>&#8207;[[H3205\|יֽוֹלֵדָ֖ה]]&#8207; </big>**| yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come  |**<big>&#8207;[[H0935G\|יָבֹ֣אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H9005\|ל֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a son  |**<big>&#8207;[[H1121A\|בֵן֙]]&#8207; </big>**| ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise  |**<big>&#8207;[[H2450\|חָכָ֔ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a time  |**<big>&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will present himself  |**<big>&#8207;[[H5975G\|יַעֲמֹ֖ד]]&#8207; </big>**| ya.'a.Mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at birth of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4866\|מִשְׁבַּ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mish.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children  |**<big>&#8207;[[H1121A\|בָּנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.12|<< Hosea 13:12]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.14|Hosea 13:14 >>]]</td></tr></table>
 
 

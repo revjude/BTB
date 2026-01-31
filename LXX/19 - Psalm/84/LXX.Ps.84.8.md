@@ -7,21 +7,21 @@ O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
 O LORD God of Hosts, hear my prayer; give ear, O God of Jacob. Selah<small><sub>**MT:**</sub></small>
 [[Ps.84.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.7|<< Psalm 84:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.9|Psalm 84:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prayer! | <big><span class="asgreek">προσευχής</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give ear, | <big><span class="asgreek">ενώτισαι</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Jacob! | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| listen to | **<big>[[G1522\|εισάκουσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my prayer! | **<big>[[G4335\|προσευχής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Give ear, | **<big>[[G1801\|ενώτισαι]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Jacob! | **<big>[[G2384\|Ιακώβ]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
 [[Ps.84.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.7|<< Psalm 84:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.9|Psalm 84:9 >>]]</td></tr></table>
 
 

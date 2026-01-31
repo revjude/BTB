@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲדוֹרָם‎</span></big> **Hădôwrâm** <small>*(had-o-rawm')*</small> ==**Hadoram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">הֲדֹרָם</span> **Hădôrâm** <small>*(hado-rawm')*</small>; probably of foreign derivation</small>
+**<big><span class="ashebrew">‎הֲדוֹרָם‎</span></big>** **Hădôwrâm** <small>*(had-o-rawm')*</small> ==**Hadoram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">הֲדֹרָם</span></big>** **Hădôrâm** <small>*(hado-rawm')*</small>; probably of foreign derivation</small>
 
 $\quad$ Hadoram.
 - § Hadoram = *"noble honour"*

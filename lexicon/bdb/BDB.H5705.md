@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H5704]]</small>
+<small>Hebrew form: **<big>[[H5704|עַד]]</big>**</small>
  <span class="bdbLangAramaic">‎עַד‎</span><sub>35</sub> **preposition and conjunction** ==even to, until== (Biblical Hebrew III.  <span class="bdbLangHebrew">‎עַד‎</span>; so [[BDB#Tg|ᵑ7]], Syriac, Old Aramaic, Nabataean, Palmyrene, Egyptian Aramaic ([[BDB#Ldzb|Lzb]]<sup>336</sup> [[BDB#S-C|S-C]]<sup>A 5</sup> +)); — 
 
 **1.** ***preposition:*** 

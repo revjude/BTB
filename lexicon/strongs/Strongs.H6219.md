@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עָשׁוֹת‎</span></big> **ʻâshôwth** <small>*(aw-shoth')*</small> ==**smooth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎עָשַׁת‎</span><sup><small>[[H6245]]</small></sup></small>
+**<big><span class="ashebrew">‎עָשׁוֹת‎</span></big>** **ʻâshôwth** <small>*(aw-shoth')*</small> ==**smooth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6245|‎עָשַׁת‎]]</big>**</small>
 
 $\quad$ bright.
 - ***shining***, i.e. ***polished***
 
 **1)** smooth, shiny
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐργάζομαι</span><sup><small>[[G2038]]</small></sup>
+<small>See Greek: </small>**<big>[[G2038|ἐργάζομαι]]</big>**

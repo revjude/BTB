@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּלְשַׁאצַּר‎</span></big> **Bêlshaʼtstsar** <small>*(bale-shats-tsar')*</small> ==**Belshazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">בֵּלְאשַׁצַּר</span> **Bêlʼshatstsar** <small>*(bale-shats-tsar')*</small>; of foreign origin (compare <span class="ashebrew">‎בֵּלְטְשַׁאצַּר‎</span><sup><small>[[H1095]]</small></sup>)</small>
+**<big><span class="ashebrew">‎בֵּלְשַׁאצַּר‎</span></big>** **Bêlshaʼtstsar** <small>*(bale-shats-tsar')*</small> ==**Belshazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">בֵּלְאשַׁצַּר</span></big>** **Bêlʼshatstsar** <small>*(bale-shats-tsar')*</small>; of foreign origin (compare **<big>[[H1095|‎בֵּלְטְשַׁאצַּר‎]]</big>**)</small>
 
 $\quad$ Belshazzar.
 - § Belshazzar = *"Bel protect the king"*

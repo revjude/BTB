@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָנֶה‎</span></big> **qâneh** <small>*(kaw-neh')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קָנָה‎</span><sup><small>[[H7069]]</small></sup></small>
+**<big><span class="ashebrew">‎קָנֶה‎</span></big>** **qâneh** <small>*(kaw-neh')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7069|‎קָנָה‎]]</big>**</small>
 
 $\quad$ balance, bone, branch, calamus, cane, reed, [idiom] spearman, stalk.
 - ***a reed*** (as erect)
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1d4)** shaft (of lampstand)
 $\quad$ $\quad$ **1d5)** branches (of lampstand)
 $\quad$ $\quad$ **1d6)** shoulder-joint
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζυγός</span><sup><small>[[G2218]]</small></sup> · <span class="asgreek">θυμίαμα</span><sup><small>[[G2368]]</small></sup> · <span class="asgreek">κάλαμος</span><sup><small>[[G2563]]</small></sup> · <span class="asgreek">κανών</span><sup><small>[[G2583]]</small></sup> · <span class="asgreek">πῆχυς</span><sup><small>[[G4083]]</small></sup>
+<small>See Greek: </small>**<big>[[G2218|ζυγός]]</big>** · **<big>[[G2368|θυμίαμα]]</big>** · **<big>[[G2563|κάλαμος]]</big>** · **<big>[[G2583|κανών]]</big>** · **<big>[[G4083|πῆχυς]]</big>**

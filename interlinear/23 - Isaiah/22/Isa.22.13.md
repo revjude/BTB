@@ -10,24 +10,24 @@ But look, there is joy and gladness, butchering of cattle and slaughtering of sh
 > $\quad$ referenced by: [[1Cor.15.32|1Cor 15:32]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and there!  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| joy  | <span class="ashebrew"><big>שָׂשׂ֣וֹן </big></span><small><small><sup>[[H8342]]</sup></small></small> &#8207;| sa.Son <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gladness  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׂמְחָ֗ה </big></span><small><small><sup>[[H8057]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sim.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are killing  | <span class="ashebrew"><big>הָרֹ֤ג </big></span><small><small><sup>[[H2026]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ha.Rog <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָּקָר֙ </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they are slaughtering  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁחֹ֣ט </big></span><small><small><sup>[[H7819A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.Chot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sheep  | <span class="ashebrew"><big>צֹ֔אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are eating  | <span class="ashebrew"><big>אָכֹ֥ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.Khol <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meat  | <span class="ashebrew"><big>בָּשָׂ֖ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they are drinking  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁת֣וֹת </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.Tot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wine  | <span class="ashebrew"><big>יָ֑יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will eat  | <span class="ashebrew"><big>אָכ֣וֹל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.Khol <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and we will drink  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁת֔וֹ </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sha.To <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tomorrow  | <span class="ashebrew"><big>מָחָ֖ר </big></span><small><small><sup>[[H4279]]</sup></small></small> &#8207;| ma.Char <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will die  | <span class="ashebrew"><big>נָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.Mut <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| joy  |**<big>&#8207;[[H8342\|שָׂשׂ֣וֹן]]&#8207; </big>**| sa.Son<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gladness  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8057\|שִׂמְחָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are killing  |**<big>&#8207;[[H2026\|הָרֹ֤ג]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.Rog<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָּקָר֙]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they are slaughtering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7819A\|שָׁחֹ֣ט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Chot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep  |**<big>&#8207;[[H6629G\|צֹ֔אן]]&#8207; </big>**| Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are eating  |**<big>&#8207;[[H0398\|אָכֹ֥ל]]&#8207; </big>**| 'a.Khol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meat  |**<big>&#8207;[[H1320\|בָּשָׂ֖ר]]&#8207; </big>**| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they are drinking  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8354\|שָׁת֣וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Tot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  |**<big>&#8207;[[H3196\|יָ֑יִן]]&#8207; </big>**| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will eat  |**<big>&#8207;[[H0398\|אָכ֣וֹל]]&#8207; </big>**| 'a.Khol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we will drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8354\|שָׁת֔וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.To<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tomorrow  |**<big>&#8207;[[H4279\|מָחָ֖ר]]&#8207; </big>**| ma.Char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will die  |**<big>&#8207;[[H4191\|נָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Mut<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.12|<< Isaiah 22:12]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.14|Isaiah 22:14 >>]]</td></tr></table>
 
 

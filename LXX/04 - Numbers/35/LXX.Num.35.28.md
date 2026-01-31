@@ -7,36 +7,36 @@ Because he should have remained in the city of his refuge until the death of the
 because the manslayer must remain in his city of refuge until the death of the high priest. Only after the death of the high priest may he return to the land he owns.<small><sub>**MT:**</sub></small>
 [[Num.35.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.27|<< Numbers 35:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.29|Numbers 35:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his refuge | <big><span class="asgreek">καταφυγής</span></big> <sup><small><small>[[G7950]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let him dwell | <big><span class="asgreek">κατοικείτω</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| should die | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dying | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| of the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| will be able to return | <big><span class="asgreek">επαναστραφήσεται</span></big> <sup><small><small>[[G7362]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man-slaying | <big><span class="asgreek">φονεύσας</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his possession. | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For in | **<big>[[G1722\|εν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his refuge | **<big>[[G7950\|καταφυγής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| let him dwell | **<big>[[G2730\|κατοικείτω]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| should die | **<big>[[G0599\|αποθάνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dying | **<big>[[G0599\|αποθανείν]]</big>** |
+| of the | **<big>[[G3588\|τον]]</big>** |
+| priest | **<big>[[G2409\|ιερέα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| great | **<big>[[G3173\|μέγαν]]</big>** |
+| will be able to return | **<big>[[G7362\|επαναστραφήσεται]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| man-slaying | **<big>[[G5407\|φονεύσας]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his possession. | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.35.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.27|<< Numbers 35:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.29|Numbers 35:29 >>]]</td></tr></table>
 
 

@@ -11,33 +11,33 @@ the gates of the city will be named after the tribes of Israel. On the north sid
 > $\quad$ referenced by: [[Rev.21.12|Rev 21:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] names | <big><span class="asgreek">ονόμασι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| Three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north; | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Reuben -- | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| one, | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Judah -- | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| one, | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Levi -- | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| one. | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| gates | **<big>[[G4439\|πύλαι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] names | **<big>[[G3686\|ονόμασι]]</big>** |
+| of \[the\] tribes | **<big>[[G5443\|φυλών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| gates | **<big>[[G4439\|πύλαι]]</big>** |
+| Three | **<big>[[G5140\|τρεις]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north; | **<big>[[G1005\|βορράν]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Reuben -- | **<big>[[G4502\|Ρουβήν]]</big>** |
+| one, | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Judah -- | **<big>[[G2448\|Ιούδα]]</big>** |
+| one, | **<big>[[G1520\|μία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gate | **<big>[[G4439\|πύλη]]</big>** |
+| of Levi -- | **<big>[[G3017\|Λευί]]</big>** |
+| one. | **<big>[[G1520\|μία]]</big>** |
 [[Ezek.48.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.30|<< Ezekiel 48:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.32|Ezekiel 48:32 >>]]</td></tr></table>
 
 

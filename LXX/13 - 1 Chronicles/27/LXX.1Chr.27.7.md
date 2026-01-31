@@ -7,34 +7,34 @@ The fourth [captain] for the fourth month [was] Asahel the brother of Joab, and 
 The fourth, for the fourth month, was Joab’s brother Asahel, and his son Zebadiah was commander after him. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
 [[1Chr.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.6|<< 1 Chronicles 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.8|1 Chronicles 27:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μήνα</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| \[was\] Asahel | <big><span class="asgreek">Ασαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zebadiah | <big><span class="asgreek">Ζαβδαίας</span></big> <sup><small><small>[[H2069]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after him; | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his division | <big><span class="asgreek">διαιρέσεως</span></big> <sup><small><small>[[G1243]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| fourth | **<big>[[G5067\|τέταρτος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| month | **<big>[[G3376\|μήνα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτω]]</big>** |
+| \[was\] Asahel | **<big>[[H6214\|Ασαήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| of Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zebadiah | **<big>[[H2069\|Ζαβδαίας]]</big>** |
+| his son, | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brethren | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| after him; | **<big>[[G3694\|οπίσω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his division | **<big>[[G1243\|διαιρέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[1Chr.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.6|<< 1 Chronicles 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.8|1 Chronicles 27:8 >>]]</td></tr></table>
 
 

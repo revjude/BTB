@@ -7,22 +7,22 @@ He measured also the porch of the gate within, one reed.
 Then he measured the portico of the gateway inside;<small><sub>**MT:**</sub></small>
 [[Ezek.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.7|<< Ezekiel 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.9|Ezekiel 40:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibule | <big><span class="asgreek">θεέ</span></big> <sup><small><small>[[G7645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτον</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| equal | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reed | <big><span class="asgreek">καλάμω</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| \[in\] length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| equal | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reed | <big><span class="asgreek">καλάμω</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| \[in\] width. | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| vestibule | **<big>[[G7645\|θεέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| third | **<big>[[G5154\|τρίτον]]</big>** |
+| equal | **<big>[[G2470\|ίσον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| reed | **<big>[[G2563\|καλάμω]]</big>** |
+| \[in\] length, | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| equal | **<big>[[G2470\|ίσον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| reed | **<big>[[G2563\|καλάμω]]</big>** |
+| \[in\] width. | **<big>[[G4114\|πλάτος]]</big>** |
 [[Ezek.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.7|<< Ezekiel 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.9|Ezekiel 40:9 >>]]</td></tr></table>
 
 

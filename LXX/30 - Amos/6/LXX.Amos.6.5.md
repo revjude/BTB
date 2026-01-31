@@ -7,22 +7,22 @@ That chant to the sound of the viol, [and] invent to themselves instruments of m
 You improvise songs on the harp like David and invent your own musical instruments.<small><sub>**MT:**</sub></small>
 [[Amos.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.4|<< Amos 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.6|Amos 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clapping | <big><span class="asgreek">επικροτούντες</span></big> <sup><small><small>[[G7423]]</small></small></sup> |
-| along with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of instruments; | <big><span class="asgreek">οργάνων</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
-| (as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| being established | <big><span class="asgreek">εστηκότα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| they considered them, | <big><span class="asgreek">ελογίσαντο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| fleeting;) | <big><span class="asgreek">φεύγοντα</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| clapping | **<big>[[G7423\|επικροτούντες]]</big>** |
+| along with | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of instruments; | **<big>[[G8545\|οργάνων]]</big>** |
+| (as | **<big>[[G5613\|ως]]</big>** |
+| being established | **<big>[[G2476\|εστηκότα]]</big>** |
+| they considered them, | **<big>[[G3049\|ελογίσαντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| fleeting;) | **<big>[[G5343\|φεύγοντα]]</big>** |
 [[Amos.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.4|<< Amos 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.6|Amos 6:6 >>]]</td></tr></table>
 
 

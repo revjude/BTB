@@ -6,15 +6,15 @@ The violence of the wicked will sweep them away because they refuse to do what i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] violence of  | <span class="ashebrew"><big>שֹׁד </big></span><small><small><sup>[[H7701]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shod- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֥ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will drag away them  | <span class="ashebrew"><big>יְגוֹרֵ֑ </big></span><small><small><sup>[[H1641]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| ye.go.Re <small><sup>[[HVqi3ms]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they refuse  | <span class="ashebrew"><big>מֵ֝אֲנ֗וּ </big></span><small><small><sup>[[H3985]]</sup></small></small> &#8207;| me.'a.Nu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to do  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲשׂ֥וֹת </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.Sot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּֽט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] violence of  |**<big>&#8207;[[H7701\|שֹׁד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֥ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will drag away them  |**<big>&#8207;[[H1641\|יְגוֹרֵ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ye.go.Re<small><sup>[[HVqi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they refuse  |**<big>&#8207;[[H3985\|מֵ֝אֲנ֗וּ]]&#8207; </big>**| me.'a.Nu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 
 

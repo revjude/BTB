@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צִיָּה‎</span></big> **tsîyâh** <small>*(tsee-yaw')*</small> ==**dryness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎צִיָּה‎</span></big>** **tsîyâh** <small>*(tsee-yaw')*</small> ==**dryness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to parch</small>
 
 $\quad$ barren, drought, dry (land, place), solitary place, wilderness.
@@ -7,4 +7,4 @@ $\quad$ barren, drought, dry (land, place), solitary place, wilderness.
 
 **1)** dryness, drought, desert
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνυδρος</span><sup><small>[[G0504]]</small></sup> · <span class="asgreek">διψάω</span><sup><small>[[G1372]]</small></sup> · <span class="asgreek">ἔρημος</span><sup><small>[[G2048]]</small></sup> · <span class="asgreek">ξηρός</span><sup><small>[[G3584]]</small></sup>
+<small>See Greek: </small>**<big>[[G0504|ἄνυδρος]]</big>** · **<big>[[G1372|διψάω]]</big>** · **<big>[[G2048|ἔρημος]]</big>** · **<big>[[G3584|ξηρός]]</big>**

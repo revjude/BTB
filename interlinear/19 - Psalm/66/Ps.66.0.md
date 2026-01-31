@@ -6,11 +6,11 @@ For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.13|<< Psalms 65:13]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.1|Psalms 66:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to the choirmaster  | <span class="ashebrew"><big>לַ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְנַצֵּחַ </big></span><small><small><sup>[[H5329]]</sup></small></small> &#8207;| La <small><sup>[[HRd]]</sup></small> m.na.tze.ach <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a song  | <span class="ashebrew"><big>שִׁ֣יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a psalm  | <span class="ashebrew"><big>מִזְמ֑וֹר </big></span><small><small><sup>[[H4210]]</sup></small></small> &#8207;| miz.Mor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the choirmaster  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H5329\|מְנַצֵּחַ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> m.na.tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  |**<big>&#8207;[[H7892A\|שִׁ֣יר]]&#8207; </big>**| shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a psalm  |**<big>&#8207;[[H4210\|מִזְמ֑וֹר]]&#8207; </big>**| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.13|<< Psalms 65:13]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.1|Psalms 66:1 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Heman</span> was known for his wisdom, though not as wise as Solomon. \([[1Kgs.4.31|1Ki.4.31]]\)
 - A man living at the time of United Monarchy, first mentioned at [[1Kgs.4.31|1Ki.4.31]]; 
-- only referred to as Heman<[[H1968G]]> \(<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Mahol<[[H4235]]>; 
-- a brother of Ethan<[[H0387G]]>, Calcol<[[H3633G]]> and Darda<[[H1862]]>.
+- only referred to as Heman **<big>[[H1968|הֵימָן]]</big>**; 
+-  son of Mahol **<big>[[H4235|מָחוֹל]]</big>**; 
+- a brother of Ethan **<big>[[H0387|אֵיתָן]]</big>**, Calcol **<big>[[H3633|כַּלְכֹּל]]</big>** and Darda **<big>[[H1862|דַּרְדַּע]]</big>**.
 
 Heman is mentioned in the book of 1 Kings as one of the wise men during the reign of King Solomon. He is described as a man of great wisdom, along with Ethan the Ezrahite and the sons of Mahol \([[1Kgs.4.31|1Ki.4.31]]\). However, the passage also states that Solomon's wisdom surpassed that of all these men, indicating that Heman, while wise, was not as wise as Solomon himself. The comparison serves to highlight the exceptional wisdom that God had granted to Solomon.  
 
@@ -14,8 +14,8 @@ Heman the Ezrahite was a psalmist and musician mentioned in the title of Psalm 8
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Heman | [<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1968G) <small>*Hebrew*</small> | 2x | [[1Ki.4.31] & [Psa.88.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heman\*\|reference=1Ki.4.31;Psa.88.1) |
-All Strong's for **Heman**: \[[[H1968G]]\]
+| Heman | [<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1968G) | 2x | [[1Ki.4.31] & [Psa.88.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heman\*\|reference=1Ki.4.31;Psa.88.1) |
+All entries for **Heman**:  **<big>[[H1968|הֵימָן]]</big>**
 #### Related Profiles:
 - **[Mahol](H4235)** (father)
 - **[Ethan](H0387G)** (sibling)

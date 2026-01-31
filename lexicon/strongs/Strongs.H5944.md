@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲלִיָּה‎</span></big> **ʻălîyâh** <small>*(al-ee-yaw')*</small> ==**upper room**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲלִיָּה‎</span></big>** **ʻălîyâh** <small>*(al-ee-yaw')*</small> ==**upper room**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine from **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
 $\quad$ ascent, (upper) chamber, going up, loft, parlour.
 - ***something lofty***, i.e. ***a stair-way***
@@ -8,4 +8,4 @@ $\quad$ ascent, (upper) chamber, going up, loft, parlour.
 
 **1)** roof-room, roof chamber
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκκεντέω</span><sup><small>[[G1574]]</small></sup>
+<small>See Greek: </small>**<big>[[G1574|ἐκκεντέω]]</big>**

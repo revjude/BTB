@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחְתִּי‎</span></big> **tachtîy** <small>*(takh-tee')*</small> ==**lower**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎תַּחַת‎</span><sup><small>[[H8478]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחְתִּי‎</span></big>** **tachtîy** <small>*(takh-tee')*</small> ==**lower**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H8478|‎תַּחַת‎]]</big>**</small>
 
 $\quad$ low (parts, -er, -er parts, -est), nether (part).
 - ***lowermost***
@@ -9,4 +9,4 @@ $\quad$ low (parts, -er, -er parts, -est), nether (part).
 $\quad$ **1a)** lowest (as adj)
 $\quad$ **1b)** the lower parts (subst)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάθος</span><sup><small>[[G0899]]</small></sup> · <span class="asgreek">θεμέλιος</span><sup><small>[[G2310]]</small></sup> · <span class="asgreek">κατώτερος</span><sup><small>[[G2737]]</small></sup> · <span class="asgreek">ταπεινός</span><sup><small>[[G5011]]</small></sup>
+<small>See Greek: </small>**<big>[[G0899|βάθος]]</big>** · **<big>[[G2310|θεμέλιος]]</big>** · **<big>[[G2737|κατώτερος]]</big>** · **<big>[[G5011|ταπεινός]]</big>**

@@ -6,14 +6,14 @@ The lotus plants conceal him in their shade; the willows of the brook surround h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.21|<< Job 40:21]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.23|Job 40:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they cover it  | <span class="ashebrew"><big>יְסֻכֻּ֣ </big></span><small><small><sup>[[H5526B]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ye.su.Ku. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thorny lotus plants  | <span class="ashebrew"><big>צֶאֱלִ֣ים </big></span><small><small><sup>[[H6628]]</sup></small></small> &#8207;| tze.'e.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shade its  | <span class="ashebrew"><big>צִֽלֲל֑ </big></span><small><small><sup>[[H6752]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tzi.la.L <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they surround it  | <span class="ashebrew"><big>יְ֝סֻבּ֗וּ </big></span><small><small><sup>[[H5437H]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ye.su.Bu. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] poplars of  | <span class="ashebrew"><big>עַרְבֵי </big></span><small><small><sup>[[H6155H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ar.vei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wadi  | <span class="ashebrew"><big>נָֽחַל </big></span><small><small><sup>[[H5158A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.chal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cover it  |**<big>&#8207;[[H5526B\|יְסֻכֻּ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ye.su.Ku.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thorny lotus plants  |**<big>&#8207;[[H6628\|צֶאֱלִ֣ים]]&#8207; </big>**| tze.'e.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shade its  |**<big>&#8207;[[H6752\|צִֽלֲל֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tzi.la.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they surround it  |**<big>&#8207;[[H5437H\|יְ֝סֻבּ֗וּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ye.su.Bu.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poplars of  |**<big>&#8207;[[H6155H\|עַרְבֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ar.vei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi  |**<big>&#8207;[[H5158A\|נָֽחַל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.21|<< Job 40:21]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.23|Job 40:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Amaw • A place near the Euphrates River, associated with Balaam.*</small>
 
 <span class='tipnrhighlight'>Amaw</span>, a place near the Euphrates, where Balaam son of Beor lived.
-- A location near Pethor<[[H6604]]> only mentioned at [[Num.22.5|Num.22.5]]; 
-- only referred to as Amaw<[[H5971J]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Pethor **<big>[[H6604|פְּתוֹר]]</big>** only mentioned at [[Num.22.5|Num.22.5]]; 
+- only referred to as Amaw **<big>[[H5971|עַם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.654616,38.068879&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its association with Balaam, no other information about Amaw is provi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amaw (KJV, NIV= people) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>](H5971J) <small>*Hebrew*</small> | 1x | [Num.22.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amaw\*\|reference=Num.22.5) |
-All Strong's for **Amaw**: \[[[H5971J]]\]
+| Amaw (KJV, NIV= people) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ם</span>](H5971J) | 1x | [Num.22.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amaw\*\|reference=Num.22.5) |
+All entries for **Amaw**:  **<big>[[H5971|עַם]]</big>**

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δουλεία</span></span> (T, <span class="asgreek">-λία</span>), <span class="asgreek">-ας, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δουλεύω</span>), </span>  <span class="asseptuagint">\[in LXX, as [[LXX.Exod.13.3|Ex 13:3]], for <span class="ashebrew">עֶבֶד</span> <small><sup>[[H5650]]</sup></small> and cognates ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δουλεία</span></span> (T, <span class="asgreek">-λία</span>), <span class="asgreek">-ας, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δουλεύω</span>), </span>  <span class="asseptuagint">\[in LXX, as [[LXX.Exod.13.3|Ex 13:3]], for **<big>[[H5650|עֶבֶד]]</big>** and cognates ;\]</span> </span>
 <span class="asitalic">slavery, bondage</span>: [[Rom.8.15|Ro 8:15]], [[Rom.8.21|21]], [[Gal.4.24|Ga 4:24]] [[Gal.5.1|5:1]], [[Heb.2.15|He 2:15]].†
 
 **Abbott-Smith References**

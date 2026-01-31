@@ -6,16 +6,16 @@ Who set the wild donkey free? Who released the swift donkey from the harness?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.4|<< Job 39:4]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.6|Job 39:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| did he let loose  | <span class="ashebrew"><big>שִׁלַּ֣ח </big></span><small><small><sup>[[H7971H]]</sup></small></small> &#8207;| shi.Lach <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wild donkey  | <span class="ashebrew"><big>פֶּ֣רֶא </big></span><small><small><sup>[[H6501]]</sup></small></small> &#8207;| Pe.re' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| free  | <span class="ashebrew"><big>חָפְשִׁ֑י </big></span><small><small><sup>[[H2670]]</sup></small></small> &#8207;| cha.fe.Shi <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] fetters of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֹסְר֥וֹת </big></span><small><small><sup>[[H4147]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mo.se.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wild ass  | <span class="ashebrew"><big>עָ֝ר֗וֹד </big></span><small><small><sup>[[H6171]]</sup></small></small> &#8207;| a.Rod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| did he loosen  | <span class="ashebrew"><big>פִתֵּֽחַ </big></span><small><small><sup>[[H6605A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| fi.Te.ach <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he let loose  |**<big>&#8207;[[H7971H\|שִׁלַּ֣ח]]&#8207; </big>**| shi.Lach<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wild donkey  |**<big>&#8207;[[H6501\|פֶּ֣רֶא]]&#8207; </big>**| Pe.re'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| free  |**<big>&#8207;[[H2670\|חָפְשִׁ֑י]]&#8207; </big>**| cha.fe.Shi<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fetters of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4147\|מֹסְר֥וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.se.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wild ass  |**<big>&#8207;[[H6171\|עָ֝ר֗וֹד]]&#8207; </big>**| a.Rod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he loosen  |**<big>&#8207;[[H6605A\|פִתֵּֽחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fi.Te.ach<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.4|<< Job 39:4]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.6|Job 39:6 >>]]</td></tr></table>
 
 

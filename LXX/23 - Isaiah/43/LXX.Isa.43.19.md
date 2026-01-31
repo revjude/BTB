@@ -11,29 +11,29 @@ Behold, I am about to do something new; even now it is coming. Do you not see it
 > $\quad$ referenced by: [[2Cor.5.17|2Cor 5:17]] ☩ [[Rev.21.5|Rev 21:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| new \[things\] | <big><span class="asgreek">καινά</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| shall arise, | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you all shall know | <big><span class="asgreek">γνώσεσθε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| a way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waterless \[place\] | <big><span class="asgreek">ανύδρω</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| do | **<big>[[G4160\|ποιώ]]</big>** |
+| new \[things\] | **<big>[[G2537\|καινά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| shall arise, | **<big>[[G0393\|ανατελεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you all shall know | **<big>[[G1097\|γνώσεσθε]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| a way | **<big>[[G3598\|οδόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| waterless \[place\] | **<big>[[G0504\|ανύδρω]]</big>** |
+| rivers | **<big>[[G4215\|ποταμούς]]</big>** |
 [[Isa.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.18|<< Isaiah 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.20|Isaiah 43:20 >>]]</td></tr></table>
 
 

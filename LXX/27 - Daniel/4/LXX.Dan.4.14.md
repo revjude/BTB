@@ -7,41 +7,41 @@ He cried aloud, and said thus, Hew down the tree, and cut off his branches, shak
 He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches.<small><sub>**MT:**</sub></small>
 [[Dan.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.13|<< Daniel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.15|Daniel 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke out loud | <big><span class="asgreek">εφώνησεν</span></big> <sup><small><small>[[G5455]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength, | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Cut down | <big><span class="asgreek">εκκόψατε</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree, | <big><span class="asgreek">δένδρον</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pluck off | <big><span class="asgreek">εκτίλατε</span></big> <sup><small><small>[[G7154]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his branches, | <big><span class="asgreek">κλάδους</span></big> <sup><small><small>[[G2798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shake off | <big><span class="asgreek">εκτινάξατε</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his leaves, | <big><span class="asgreek">φύλλα</span></big> <sup><small><small>[[G5444]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scatter | <big><span class="asgreek">διασκορπίσατε</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fruit! | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be shaken away | <big><span class="asgreek">σαλευθήτωσαν</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| from beneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his branches! | <big><span class="asgreek">κλάδων</span></big> <sup><small><small>[[G2798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spoke out loud | **<big>[[G5455\|εφώνησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength, | **<big>[[G2479\|ισχύϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Cut down | **<big>[[G1581\|εκκόψατε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tree, | **<big>[[G1186\|δένδρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pluck off | **<big>[[G7154\|εκτίλατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his branches, | **<big>[[G2798\|κλάδους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shake off | **<big>[[G1621\|εκτινάξατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his leaves, | **<big>[[G5444\|φύλλα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scatter | **<big>[[G1287\|διασκορπίσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his fruit! | **<big>[[G2590\|καρπόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| be shaken away | **<big>[[G4531\|σαλευθήτωσαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| from beneath | **<big>[[G9575\|υποκάτωθεν]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| birds | **<big>[[G3732\|όρνεα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his branches! | **<big>[[G2798\|κλάδων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Dan.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.13|<< Daniel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.15|Daniel 4:15 >>]]</td></tr></table>
 
 

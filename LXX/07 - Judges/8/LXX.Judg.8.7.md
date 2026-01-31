@@ -7,37 +7,37 @@ And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into 
 “Very well,” Gideon replied, “when the LORD has delivered Zebah and Zalmunna into my hand, I will tear your flesh with the thorns and briers of the wilderness!”<small><sub>**MT:**</sub></small>
 [[Judg.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.6|<< Judges 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.8|Judges 8:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gideon said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-|  | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[by the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zebah | <big><span class="asgreek">Ζεβεέ</span></big> <sup><small><small>[[H2078]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zalmunna | <big><span class="asgreek">Σαλμανά</span></big> <sup><small><small>[[H6759]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will rend in shreds | <big><span class="asgreek">καταξανώ</span></big> <sup><small><small>[[G7882]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thorn-bushes | <big><span class="asgreek">ακάνθαις</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Barkenim. | <big><span class="asgreek">Βαρκηνίμ</span></big> <sup><small><small>[[H1303]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gideon said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G1066\|Γεδεών]]</big>** |
+|  | **<big>[[G3756\|ουχ]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| giving | **<big>[[G1325\|δούναι]]</big>** |
+| \[by the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zebah | **<big>[[H2078\|Ζεβεέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zalmunna | **<big>[[H6759\|Σαλμανά]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I will rend in shreds | **<big>[[G7882\|καταξανώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your flesh | **<big>[[G4561\|σάρκας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| thorn-bushes | **<big>[[G0173\|ακάνθαις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| Barkenim. | **<big>[[H1303\|Βαρκηνίμ]]</big>** |
 [[Judg.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.6|<< Judges 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.8|Judges 8:8 >>]]</td></tr></table>
 
 

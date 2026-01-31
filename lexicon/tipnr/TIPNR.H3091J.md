@@ -4,9 +4,9 @@ High Priest living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Joshua</span> \(or Jeshua\), the son of Jehozadak, was the high priest who led the rebuilding of the temple after the Babylonian exile.
 - A High Priest from the tribe of Levi living at the time of Exile and Return, first mentioned at [[Ezra.2.2|Ezr.2.2]]; 
-- referred to as Joshua<[[H3091J]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\), or Jeshua \(NIV= Joshua\) <[[H3442P]]> \(<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\), or Jeshua \(NIV= Joshua\) <[[H3443]]> \(Aramiac <span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\); 
-- a son of Jehozadak<[[H3087]]>; 
--  father of Joiakim<[[H3113]]>.
+- referred to as Joshua **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**, or Jeshua \(NIV= Joshua\)  **<big>[[H3442|יֵשׁוּעַ]]</big>**, or Jeshua \(NIV= Joshua\)  **<big>[[H3443|יֵשׁוּעַ]]</big>**; 
+- a son of Jehozadak **<big>[[H3087|יְהוֹצָדָק]]</big>**; 
+-  father of Joiakim **<big>[[H3113|יוֹיָקִים]]</big>**.
 
 Joshua, also known as Jeshua, was the high priest who played a significant role in the rebuilding of the temple in Jerusalem after the Babylonian exile. He was the son of Jehozadak \(or Jozadak\) and is mentioned in the books of Haggai, Zechariah, Ezra, and Nehemiah. 
 
@@ -18,10 +18,10 @@ Joshua continued to serve as high priest during the early years of the restored 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joshua | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3091J) <small>*Hebrew*</small> | 11x | [[Hag.1.1] ... [Zec.6.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joshua\*\|reference=Hag.1.1;Hag.1.12;Hag.1.14;Hag.2.2;Hag.2.4;Zec.3.1;Zec.3.3;Zec.3.6;Zec.3.8;Zec.3.9;Zec.6.11) |
-| Jeshua (NIV= Joshua) | [<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3442P) <small>*Hebrew*</small> | 9x | [[Ezr.2.2] ... [Neh.12.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshua\*\|reference=Ezr.2.2;Ezr.3.2;Ezr.3.8;Ezr.4.3;Neh.7.7;Neh.12.1;Neh.12.7;Neh.12.10;Neh.12.26) |
-| Jeshua (NIV= Joshua) | [<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3443) <small>*Aramaic*</small> | 1x | [Ezr.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshua\*\|reference=Ezr.5.2) |
-All Strong's for **Joshua or Jeshua**: \[[[H3091J]]\] \[[[H3442P]]\] \[[[H3443]]\]
+| Joshua | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3091J) | 11x | [[Hag.1.1] ... [Zec.6.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joshua\*\|reference=Hag.1.1;Hag.1.12;Hag.1.14;Hag.2.2;Hag.2.4;Zec.3.1;Zec.3.3;Zec.3.6;Zec.3.8;Zec.3.9;Zec.6.11) |
+| Jeshua (NIV= Joshua) | [<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3442P) | 9x | [[Ezr.2.2] ... [Neh.12.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshua\*\|reference=Ezr.2.2;Ezr.3.2;Ezr.3.8;Ezr.4.3;Neh.7.7;Neh.12.1;Neh.12.7;Neh.12.10;Neh.12.26) |
+| Jeshua (NIV= Joshua) | [<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3443) | 1x | [Ezr.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshua\*\|reference=Ezr.5.2) |
+All entries for **Joshua or Jeshua**:  **<big>[[H3091|יְהוֹשׁוּעַ]]</big>** ☩  **<big>[[H3442|יֵשׁוּעַ]]</big>** ☩  **<big>[[H3443|יֵשׁוּעַ]]</big>**
 #### Related Profiles:
 - **[Jehozadak](H3087)** (father)
 - **[Joiakim](H3113)** (child)

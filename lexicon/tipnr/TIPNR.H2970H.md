@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jaazaniah</span>, the son of Shaphan, was one of the seventy elders of Israel who participated in idolatrous practices in the temple, as seen in Ezekiel's vision \([[Ezek.8.11|Ezk.8.11]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezek.8.11|Ezk.8.11]]; 
-- only referred to as Jaazaniah<[[H2970H]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Shaphan<[[H8227G]]>.
+- only referred to as Jaazaniah **<big>[[H2970|יַאֲזַנְיָה]]</big>**; 
+- a son of Shaphan **<big>[[H8227|שָׁפָן]]</big>**.
 
 Jaazaniah, the son of Shaphan, is mentioned in [[Ezek.8.11|Ezekiel 8:11]] as one of the seventy elders of Israel who were involved in idolatrous practices within the temple. In a vision, God shows Ezekiel the various forms of idolatry being practiced by the people of Judah, even within the sacred precincts of the temple \(Ezk.8.5-18\). 
 
@@ -17,7 +17,7 @@ The inclusion of Jaazaniah in this vision serves to demonstrate the corruption a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970H) <small>*Hebrew*</small> | 1x | [Ezk.8.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Ezk.8.11) |
-All Strong's for **Jaazaniah**: \[[[H2970H]]\]
+| Jaazaniah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2970H) | 1x | [Ezk.8.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaazaniah\*\|reference=Ezk.8.11) |
+All entries for **Jaazaniah**:  **<big>[[H2970|יַאֲזַנְיָה]]</big>**
 #### Related Profiles:
 - **[Shaphan](H8227G)** (father)

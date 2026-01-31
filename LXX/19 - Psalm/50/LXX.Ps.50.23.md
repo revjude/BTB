@@ -7,20 +7,20 @@ Whoso offereth praise glorifieth me: and to him that ordereth [his] conversation
 He who sacrifices a thank offering honors Me, and to him who rightly orders his way, I will show the salvation of God.”<small><sub>**MT:**</sub></small>
 [[Ps.50.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.22|<< Psalm 50:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.1|Psalm 51:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of praise | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| shall glorify | <big><span class="asgreek">δοξάσει</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \[in the\] way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| I will show | <big><span class="asgreek">δείξω</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverance. | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| of praise | **<big>[[G0133\|αινέσεως]]</big>** |
+| shall glorify | **<big>[[G1392\|δοξάσει]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| \[in the\] way | **<big>[[G3598\|οδός]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| I will show | **<big>[[G1166\|δείξω]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my deliverance. | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.50.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.22|<< Psalm 50:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.1|Psalm 51:1 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ξένος</span></span>, <span class="asgreek">-η, -ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">נׇכְרִי</span> <small><sup>[[H5237]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ξένος</span></span>, <span class="asgreek">-η, -ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5237|נׇכְרִי]]</big>**;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">foreign</span>, <span class="asitalic">alien</span>: <span class="asgreek">δαιμόνια</span>, [[Acts.17.18|Ac 17:18]]; <span class="asgreek">διδαχαί</span>, [[Heb.13.9|He 13:9]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> c. gen. rei, <span class="asitalic">strange to</span>, <span class="asitalic">estranged from</span>, <span class="asitalic">ignorant of </span>: [[Eph.2.12|Eph 2:12]];</span>

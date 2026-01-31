@@ -7,18 +7,18 @@ One generation shall praise thy works to another, and shall declare thy mighty a
 One generation will commend Your works to the next, and will proclaim Your mighty acts—<small><sub>**MT:**</sub></small>
 [[Ps.145.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.3|<< Psalm 145:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.5|Psalm 145:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Generation | <big><span class="asgreek">γενεά</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεά</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| shall praise | <big><span class="asgreek">επαινέσει</span></big> <sup><small><small>[[G1867]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your works, | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your power | <big><span class="asgreek">δύναμίν</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they will report | <big><span class="asgreek">απαγγελούσι</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| Generation | **<big>[[G1074\|γενεά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation | **<big>[[G1074\|γενεά]]</big>** |
+| shall praise | **<big>[[G1867\|επαινέσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your works, | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your power | **<big>[[G1411\|δύναμίν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they will report | **<big>[[G0518\|απαγγελούσι]]</big>** |
 [[Ps.145.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.3|<< Psalm 145:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.5|Psalm 145:5 >>]]</td></tr></table>
 
 

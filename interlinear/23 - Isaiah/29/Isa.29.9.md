@@ -6,18 +6,18 @@ Stop and be astonished; blind yourselves and be sightless; be drunk, but not wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.8|<< Isaiah 29:8]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.10|Isaiah 29:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| delay  | <span class="ashebrew"><big>הִתְמַהְמְה֣וּ </big></span><small><small><sup>[[H4102]]</sup></small></small> &#8207;| hit.mah.me.Hu <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and be astounded  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְמָ֔הוּ </big></span><small><small><sup>[[H8539]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.Ma.hu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blind yourselves  | <span class="ashebrew"><big>הִשְׁתַּֽעַשְׁע֖וּ </big></span><small><small><sup>[[H8173A]]</sup></small></small> &#8207;| hish.ta.'ash.'U <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and be blind  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁ֑עוּ </big></span><small><small><sup>[[H8173A]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Sho.'u <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people have become drunk  | <span class="ashebrew"><big>שָֽׁכְר֣וּ </big></span><small><small><sup>[[H7937]]</sup></small></small> &#8207;| sha.khe.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wine  | <span class="ashebrew"><big>יַ֔יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people have staggered  | <span class="ashebrew"><big>נָע֖וּ </big></span><small><small><sup>[[H5128]]</sup></small></small> &#8207;| na.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strong drink  | <span class="ashebrew"><big>שֵׁכָֽר </big></span><small><small><sup>[[H7941]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| delay  |**<big>&#8207;[[H4102\|הִתְמַהְמְה֣וּ]]&#8207; </big>**| hit.mah.me.Hu<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and be astounded  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8539\|תְמָ֔הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Ma.hu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blind yourselves  |**<big>&#8207;[[H8173A\|הִשְׁתַּֽעַשְׁע֖וּ]]&#8207; </big>**| hish.ta.'ash.'U<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and be blind  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H8173A\|שֹׁ֑עוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Sho.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people have become drunk  |**<big>&#8207;[[H7937\|שָֽׁכְר֣וּ]]&#8207; </big>**| sha.khe.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  |**<big>&#8207;[[H3196\|יַ֔יִן]]&#8207; </big>**| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people have staggered  |**<big>&#8207;[[H5128\|נָע֖וּ]]&#8207; </big>**| na.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong drink  |**<big>&#8207;[[H7941\|שֵׁכָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.8|<< Isaiah 29:8]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.10|Isaiah 29:10 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁחָה‎</span></big> **shâchâh** <small>*(shaw-khaw')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁחָה‎</span></big>** **shâchâh** <small>*(shaw-khaw')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bow (self) down, crouch, fall down (flat), humbly beseech, do (make) obeisance, do reverence, make to stoop, worship.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ $\quad$ **1c1b)** before God in worship
 $\quad$ $\quad$ $\quad$ **1c1c)** before false gods
 $\quad$ $\quad$ $\quad$ **1c1d)** before angel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καταφιλέω</span><sup><small>[[G2705]]</small></sup> · <span class="asgreek">κύπτω</span><sup><small>[[G2955]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">προσκυνέω</span><sup><small>[[G4352]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G2705|καταφιλέω]]</big>** · **<big>[[G2955|κύπτω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4352|προσκυνέω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

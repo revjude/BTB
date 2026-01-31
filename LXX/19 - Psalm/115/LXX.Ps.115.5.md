@@ -7,18 +7,18 @@ They have mouths, but they speak not: eyes have they, but they see not:
 They have mouths, but cannot speak; they have eyes, but cannot see;<small><sub>**MT:**</sub></small>
 [[Ps.115.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.4|<< Psalm 115:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.6|Psalm 115:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| They have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak; | <big><span class="asgreek">λαλήσουσιν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| they have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see; | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| a mouth | **<big>[[G4750\|στόμα]]</big>** |
+| They have | **<big>[[G2192\|έχουσι]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| speak; | **<big>[[G2980\|λαλήσουσιν]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| they have | **<big>[[G2192\|έχουσι]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| see; | **<big>[[G3708\|όψονται]]</big>** |
 [[Ps.115.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.4|<< Psalm 115:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.6|Psalm 115:6 >>]]</td></tr></table>
 
 

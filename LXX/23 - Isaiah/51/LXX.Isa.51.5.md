@@ -7,31 +7,31 @@ My righteousness [is] near; my salvation is gone forth, and mine arms shall judg
 My righteousness draws near, My salvation is on the way, and My arms will bring justice to the nations. The islands will look for Me and wait in hope for My arm.<small><sub>**MT:**</sub></small>
 [[Isa.51.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.4|<< Isaiah 51:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.6|Isaiah 51:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| approaches | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my arm | <big><span class="asgreek">βραχίονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall hope. | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Islands | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| shall wait | <big><span class="asgreek">υπομενούσι</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my arm | <big><span class="asgreek">βραχιονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall hope. | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
+| approaches | **<big>[[G1448\|εγγίζει]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my arm | **<big>[[G1023\|βραχίονά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they shall hope. | **<big>[[G1679\|ελπιούσιν]]</big>** |
+| for me | **<big>[[G1473\|εμέ]]</big>** |
+| Islands | **<big>[[G3520\|νήσοι]]</big>** |
+| shall wait | **<big>[[G5278\|υπομενούσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my arm | **<big>[[G1023\|βραχιονά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they shall hope. | **<big>[[G1679\|ελπιούσιν]]</big>** |
 [[Isa.51.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.4|<< Isaiah 51:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.6|Isaiah 51:6 >>]]</td></tr></table>
 
 

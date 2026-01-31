@@ -1,4 +1,4 @@
-name of: <small>[[G4074G]]</small> 
+name of: <small>**<big>[[G4074G|Πέτρος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σίμων==</span></b> [<span class='asgreek'>ῐ</span>], <span class='asgreek'>ωνος</span>, <span class='asgreek'>ὁ</span>, 

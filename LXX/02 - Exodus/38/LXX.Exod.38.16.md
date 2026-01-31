@@ -7,16 +7,16 @@ All the hangings of the court round about [were] of fine twined linen.
 All the curtains around the courtyard were made of finely spun linen.<small><sub>**MT:**</sub></small>
 [[Exod.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.15|<< Exodus 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.17|Exodus 38:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curtains | <big><span class="asgreek">αυλαίαι</span></big> <sup><small><small>[[G6602]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| \[were\] of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined. | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
+| All | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| curtains | **<big>[[G6602\|αυλαίαι]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| \[were\] of | **<big>[[G1537\|εκ]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined. | **<big>[[G8029\|κεκλωσμένης]]</big>** |
 [[Exod.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.15|<< Exodus 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.17|Exodus 38:17 >>]]</td></tr></table>
 
 

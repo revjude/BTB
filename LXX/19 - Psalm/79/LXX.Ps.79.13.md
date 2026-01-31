@@ -7,27 +7,27 @@ So we thy people and sheep of thy pasture will give thee thanks for ever: we wil
 Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.<small><sub>**MT:**</sub></small>
 [[Ps.79.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.12|<< Psalm 79:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.1|Psalm 80:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But we \[are\] | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| of your pasture. | <big><span class="asgreek">νομής</span></big> <sup><small><small>[[G3542]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We shall confess | <big><span class="asgreek">ανθομολογησόμεθά</span></big> <sup><small><small>[[G0437]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon; | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| we shall declare | <big><span class="asgreek">εξαγγελούμεν</span></big> <sup><small><small>[[G1804]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your praise. | <big><span class="asgreek">αίνεσίν</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But we \[are\] | **<big>[[G1473\|ημείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| your people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| of your pasture. | **<big>[[G3542\|νομής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| We shall confess | **<big>[[G0437\|ανθομολογησόμεθά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon; | **<big>[[G0165\|αιώνα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| we shall declare | **<big>[[G1804\|εξαγγελούμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your praise. | **<big>[[G0133\|αίνεσίν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.79.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.12|<< Psalm 79:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.1|Psalm 80:1 >>]]</td></tr></table>
 
 

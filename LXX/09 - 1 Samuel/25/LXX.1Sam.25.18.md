@@ -7,38 +7,38 @@ Then Abigail made haste, and took two hundred loaves, and two bottles of wine, a
 Then Abigail hurried and took two hundred loaves of bread, two skins of wine, five butchered sheep, five seahs of roasted grain, a hundred clusters of raisins, and two hundred cakes of figs. She loaded them on donkeys<small><sub>**MT:**</sub></small>
 [[1Sam.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.17|<< 1 Samuel 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.19|1 Samuel 25:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abigail hastened, | <big><span class="asgreek">έσπευσεν</span></big> <sup><small><small>[[G4692]]</small></small></sup> <big><span class="asgreek">Αβιγαϊλ</span></big> <sup><small><small>[[H0026]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| bread \[loaves\], | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| receptacles | <big><span class="asgreek">αγγεία</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
-| of wine, | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| prepared, | <big><span class="asgreek">πεποιημένα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| ephahs | <big><span class="asgreek">οίφι</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
-| of toasted grains, | <big><span class="asgreek">αλφίτων</span></big> <sup><small><small>[[G6245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| homer | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of dried grapes, | <big><span class="asgreek">σταφίδων</span></big> <sup><small><small>[[G9154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| dried clusters of figs; | <big><span class="asgreek">παλάθας</span></big> <sup><small><small>[[G8584]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she put \[them\] | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys. | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abigail hastened, | **<big>[[G4692\|έσπευσεν]]</big>** **<big>[[H0026\|Αβιγαϊλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίους]]</big>** |
+| bread \[loaves\], | **<big>[[G0740\|άρτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| receptacles | **<big>[[G0030\|αγγεία]]</big>** |
+| of wine, | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| prepared, | **<big>[[G4160\|πεποιημένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| ephahs | **<big>[[G8467\|οίφι]]</big>** |
+| of toasted grains, | **<big>[[G6245\|αλφίτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| homer | **<big>[[G6758\|γόμορ]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| of dried grapes, | **<big>[[G9154\|σταφίδων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίους]]</big>** |
+| dried clusters of figs; | **<big>[[G8584\|παλάθας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she put \[them\] | **<big>[[G5087\|έθετο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| donkeys. | **<big>[[G3688\|όνους]]</big>** |
 [[1Sam.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.17|<< 1 Samuel 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.19|1 Samuel 25:19 >>]]</td></tr></table>
 
 

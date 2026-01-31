@@ -6,15 +6,15 @@ But a noble man makes honorable plans; he stands up for worthy causes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.7|<< Isaiah 32:7]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.9|Isaiah 32:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a noble [person]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָדִ֖יב </big></span><small><small><sup>[[H5081H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Div <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| noble deeds  | <span class="ashebrew"><big>נְדִיב֣וֹת </big></span><small><small><sup>[[H5081H]]</sup></small></small> &#8207;| ne.di.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he plans  | <span class="ashebrew"><big>יָעָ֑ץ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| ya.'Atz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| noble deeds  | <span class="ashebrew"><big>נְדִיב֥וֹת </big></span><small><small><sup>[[H5081H]]</sup></small></small> &#8207;| ne.di.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he stands  | <span class="ashebrew"><big>יָקֽוּם </big></span><small><small><sup>[[H6965I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ya.Kum <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a noble [person]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5081H\|נָדִ֖יב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Div<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| noble deeds  |**<big>&#8207;[[H5081H\|נְדִיב֣וֹת]]&#8207; </big>**| ne.di.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he plans  |**<big>&#8207;[[H3289\|יָעָ֑ץ]]&#8207; </big>**| ya.'Atz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| noble deeds  |**<big>&#8207;[[H5081H\|נְדִיב֥וֹת]]&#8207; </big>**| ne.di.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he stands  |**<big>&#8207;[[H6965I\|יָקֽוּם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.7|<< Isaiah 32:7]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.9|Isaiah 32:9 >>]]</td></tr></table>
 
 

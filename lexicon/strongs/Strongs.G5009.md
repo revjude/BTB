@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ταμεῖον‎</span></big> **tameîon** <small>*(tam-i'-on)*</small> ==**inner room**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+**<big><span class="asgreek">‎ταμεῖον‎</span></big>** **tameîon** <small>*(tam-i'-on)*</small> ==**inner room**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
 <small>neuter contraction of a presumed derivative of <greek BETA="TAMI/AS" unicode="ταμίας" translit="tamías"/> (a dispenser or distributor</small>
 
 $\quad$ secret chamber, closet, storehouse.

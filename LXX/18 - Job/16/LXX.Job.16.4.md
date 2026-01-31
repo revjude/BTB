@@ -7,28 +7,28 @@ I also could speak as ye [do]: if your soul were in my soul’s stead, I could h
 I could also speak like you if you were in my place; I could heap up words against you and shake my head at you.<small><sub>**MT:**</sub></small>
 [[Job.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.3|<< Job 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.5|Job 16:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I also | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| as | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| could speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| laid | <big><span class="asgreek">υπέκειτο</span></big> <sup><small><small>[[G9576]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my \[life\]. | <big><span class="asgreek">εμής</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| So then | <big><span class="asgreek">ειτ΄</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
-| I shall assail | <big><span class="asgreek">εναλούμαι</span></big> <sup><small><small>[[G7216]]</small></small></sup> |
-| against you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with words, | <big><span class="asgreek">ρήμασι</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| and I will shake | <big><span class="asgreek">κινήσω</span></big> <sup><small><small>[[G2795]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| as | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[my\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| I also | **<big>[[G2504\|καγώ]]</big>** |
+| as | **<big>[[G2596\|καθ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| could speak | **<big>[[G2980\|λαλήσω]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| laid | **<big>[[G9576\|υπέκειτο]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your life | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my \[life\]. | **<big>[[G1699\|εμής]]</big>** |
+| So then | **<big>[[G1534\|ειτ΄]]</big>** |
+| I shall assail | **<big>[[G7216\|εναλούμαι]]</big>** |
+| against you | **<big>[[G1473\|υμίν]]</big>** |
+| with words, | **<big>[[G4487\|ρήμασι]]</big>** |
+| and I will shake | **<big>[[G2795\|κινήσω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| as | **<big>[[G2596\|καθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| \[my\] head | **<big>[[G2776\|κεφαλήν]]</big>** |
 [[Job.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.3|<< Job 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.5|Job 16:5 >>]]</td></tr></table>
 
 

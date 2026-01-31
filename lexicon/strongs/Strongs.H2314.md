@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָדַר‎</span></big> **châdar** <small>*(khaw-dar')*</small> ==**to surround**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָדַר‎</span></big>** **châdar** <small>*(khaw-dar')*</small> ==**to surround**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ enter a privy chamber.
@@ -6,4 +6,4 @@ $\quad$ enter a privy chamber.
 
 **1)** (Qal) to encompass, surround, enclose
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup>
+<small>See Greek: </small>**<big>[[G1839|ἐξίστημι]]</big>**

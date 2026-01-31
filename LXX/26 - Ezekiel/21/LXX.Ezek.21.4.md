@@ -7,29 +7,29 @@ Seeing then that I will cut off from thee the righteous and the wicked, therefor
 Because I will cut off both the righteous and the wicked, My sword will be unsheathed against everyone from south to north.<small><sub>**MT:**</sub></small>
 [[Ezek.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| I will utterly destroy | <big><span class="asgreek">εξολοθρεύσω</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] unjust one | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] lawless one | <big><span class="asgreek">άνομον</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my knife | <big><span class="asgreek">εγχειρίδιόν</span></big> <sup><small><small>[[G7038]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its sheath | <big><span class="asgreek">κολεού</span></big> <sup><small><small>[[G8051]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh, | <big><span class="asgreek">σάρκα</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">απηλιώτου</span></big> <sup><small><small>[[G6411]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| I will utterly destroy | **<big>[[G1842\|εξολοθρεύσω]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \[the\] unjust one | **<big>[[G0094\|άδικον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] lawless one | **<big>[[G0459\|άνομον]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my knife | **<big>[[G7038\|εγχειρίδιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its sheath | **<big>[[G8051\|κολεού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| flesh, | **<big>[[G4561\|σάρκα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] east | **<big>[[G6411\|απηλιώτου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορρά]]</big>** |
 [[Ezek.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
 
 

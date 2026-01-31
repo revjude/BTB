@@ -7,26 +7,26 @@ Then called Esther for Hatach, [one] of the king’s chamberlains, whom he had a
 Then Esther summoned Hathach, one of the king’s eunuchs appointed to her, and she dispatched him to Mordecai to learn what was troubling him and why.<small><sub>**MT:**</sub></small>
 [[Esth.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.4|<< Esther 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.7|Esther 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And then | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Esther | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| called on | <big><span class="asgreek">προσεκαλέσατο</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
-| Hatach | <big><span class="asgreek">Αθάχ</span></big> <sup><small><small>[[H2047]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her eunuch | <big><span class="asgreek">ευνούχον</span></big> <sup><small><small>[[G2135]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| stood beside | <big><span class="asgreek">παρειστήκει</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to learn | <big><span class="asgreek">μαθείν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| for herself | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίου</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exact \[situation\]. | <big><span class="asgreek">ακριβές</span></big> <sup><small><small>[[G0196]]</small></small></sup> |
+| And then | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Esther | **<big>[[H0635\|Εσθήρ]]</big>** |
+| called on | **<big>[[G4341\|προσεκαλέσατο]]</big>** |
+| Hatach | **<big>[[H2047\|Αθάχ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her eunuch | **<big>[[G2135\|ευνούχον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| stood beside | **<big>[[G3936\|παρειστήκει]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to learn | **<big>[[G3129\|μαθείν]]</big>** |
+| for herself | **<big>[[G1473\|αυτή]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| exact \[situation\]. | **<big>[[G0196\|ακριβές]]</big>** |
 [[Esth.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.4|<< Esther 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.7|Esther 4:7 >>]]</td></tr></table>
 
 

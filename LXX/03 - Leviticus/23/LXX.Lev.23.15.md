@@ -10,29 +10,29 @@ And ye shall count unto you from the morrow after the sabbath, from the day that
 From the day after the Sabbath, the day you brought the sheaf of the wave offering, you are to count off seven full weeks.<small><sub>**MT:**</sub></small>
 [[Lev.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.14|<< Leviticus 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.16|Leviticus 23:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall count | <big><span class="asgreek">αριθμήσετε</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths, | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should bring | <big><span class="asgreek">προσενέγκητε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheaf | <big><span class="asgreek">δράγμα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| increase \[offering\], | <big><span class="asgreek">επιθέματος</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| periods of seven | <big><span class="asgreek">εβδομάδας</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| entire | <big><span class="asgreek">ολοκλήρους</span></big> <sup><small><small>[[G3648]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall count | **<big>[[G0705\|αριθμήσετε]]</big>** |
+| to yourselves | **<big>[[G1473\|υμίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| next day | **<big>[[G1887\|επαύριον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths, | **<big>[[G4521\|σαββάτων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should bring | **<big>[[G4374\|προσενέγκητε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| sheaf | **<big>[[G6967\|δράγμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| increase \[offering\], | **<big>[[G7409\|επιθέματος]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| periods of seven | **<big>[[G6988\|εβδομάδας]]</big>** |
+| entire | **<big>[[G3648\|ολοκλήρους]]</big>** |
 [[Lev.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.14|<< Leviticus 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.16|Leviticus 23:16 >>]]</td></tr></table>
 
 

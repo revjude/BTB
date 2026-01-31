@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹזָבָד‎</span></big> **Yôwzâbâd** <small>*(yo-zaw-bawd')*</small> ==**Jozacar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹזָבָד‎</span><sup><small>[[H3075]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹזָבָד‎</span></big>** **Yôwzâbâd** <small>*(yo-zaw-bawd')*</small> ==**Jozacar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3075|‎יְהוֹזָבָד‎]]</big>**</small>
 
 $\quad$ Josabad, Jozabad.
 - § Jozabad or Josabad = *"Jehovah has endowed"*

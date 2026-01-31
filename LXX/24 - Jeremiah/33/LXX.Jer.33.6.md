@@ -7,28 +7,28 @@ Behold, I will bring it health and cure, and I will cure them, and will reveal u
 Nevertheless, I will bring to it health and healing, and I will heal its people and reveal to them the abundance of peace and truth.<small><sub>**MT:**</sub></small>
 [[Jer.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.5|<< Jeremiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.7|Jeremiah 33:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lead | <big><span class="asgreek">ανάγω</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a closing of her wound | <big><span class="asgreek">συνούλωσιν</span></big> <sup><small><small>[[G9333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cure. | <big><span class="asgreek">ίαμα</span></big> <sup><small><small>[[G2386]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will treat | <big><span class="asgreek">ιατρεύσω</span></big> <sup><small><small>[[G7707]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make manifest | <big><span class="asgreek">φανερώσω</span></big> <sup><small><small>[[G5319]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to hear, | <big><span class="asgreek">εισακούειν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trust. | <big><span class="asgreek">πίστιν</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| lead | **<big>[[G0321\|ανάγω]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| a closing of her wound | **<big>[[G9333\|συνούλωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cure. | **<big>[[G2386\|ίαμα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will treat | **<big>[[G7707\|ιατρεύσω]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will make manifest | **<big>[[G5319\|φανερώσω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| to hear, | **<big>[[G1522\|εισακούειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trust. | **<big>[[G4102\|πίστιν]]</big>** |
 [[Jer.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.5|<< Jeremiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.7|Jeremiah 33:7 >>]]</td></tr></table>
 
 

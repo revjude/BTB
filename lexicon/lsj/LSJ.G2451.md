@@ -1,4 +1,4 @@
-group of: <small>[[H3064G]]</small> 
+group of: <small>**<big>[[H3064G|יְהוּדִי]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==Ἰουδαϊκός==</span></b>, <span class='asgreek'>ὁ</span>, 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צִקְלֹן‎</span></big> **tsiqlôn** <small>*(tsik-lone')*</small> ==**sack**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎צִקְלֹן‎</span></big>** **tsiqlôn** <small>*(tsik-lone')*</small> ==**sack**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to wind</small>
 
 $\quad$ husk.

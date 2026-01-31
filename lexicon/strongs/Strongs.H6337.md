@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּז‎</span></big> **pâz** <small>*(pawz)*</small> ==**pure gold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּזַז‎</span><sup><small>[[H6338]]</small></sup></small>
+**<big><span class="ashebrew">‎פָּז‎</span></big>** **pâz** <small>*(pawz)*</small> ==**pure gold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6338|‎פָּזַז‎]]</big>**</small>
 
 $\quad$ fine (pure) gold.
 - ***pure*** (gold)
@@ -7,4 +7,4 @@ $\quad$ fine (pure) gold.
 
 **1)** refined or pure gold
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λίθος</span><sup><small>[[G3037]]</small></sup> · <span class="asgreek">τίμιος</span><sup><small>[[G5093]]</small></sup> · <span class="asgreek">τοπάζιον</span><sup><small>[[G5116]]</small></sup> · <span class="asgreek">χρύσεος</span><sup><small>[[G5552]]</small></sup> · <span class="asgreek">χρυσίον</span><sup><small>[[G5553]]</small></sup>
+<small>See Greek: </small>**<big>[[G3037|λίθος]]</big>** · **<big>[[G5093|τίμιος]]</big>** · **<big>[[G5116|τοπάζιον]]</big>** · **<big>[[G5552|χρύσεος]]</big>** · **<big>[[G5553|χρυσίον]]</big>**

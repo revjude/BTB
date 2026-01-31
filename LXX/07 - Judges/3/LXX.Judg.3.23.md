@@ -7,27 +7,27 @@ Then Ehud went forth through the porch, and shut the doors of the parlour upon h
 Then Ehud went out through the porch, closing and locking the doors of the upper room behind him.<small><sub>**MT:**</sub></small>
 [[Judg.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.22|<< Judges 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.24|Judges 3:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ehud went forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| antechamber; | <big><span class="asgreek">προστάδα</span></big> <sup><small><small>[[G8944]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went forth \[by\] | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| set in order, | <big><span class="asgreek">διατεταγμένους</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| locked | <big><span class="asgreek">απέκλεισε</span></big> <sup><small><small>[[G0608]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upper room | <big><span class="asgreek">υπερώου</span></big> <sup><small><small>[[G5253]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wedged \[them\]. | <big><span class="asgreek">εσφήνωσε</span></big> <sup><small><small>[[G9372]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ehud went forth | **<big>[[G1831\|εξήλθεν]]</big>** **<big>[[H0161\|Αώδ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| antechamber; | **<big>[[G8944\|προστάδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went forth \[by\] | **<big>[[G1831\|εξήλθε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τους]]</big>** |
+| set in order, | **<big>[[G1299\|διατεταγμένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| locked | **<big>[[G0608\|απέκλεισε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| doors | **<big>[[G2374\|θύρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| upper room | **<big>[[G5253\|υπερώου]]</big>** |
+| by | **<big>[[G2596\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wedged \[them\]. | **<big>[[G9372\|εσφήνωσε]]</big>** |
 [[Judg.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.22|<< Judges 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.24|Judges 3:24 >>]]</td></tr></table>
 
 

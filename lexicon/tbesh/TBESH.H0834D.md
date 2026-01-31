@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כַּאֲשֶׁר‎</span> <small>***(ka.a.sher)***</small> ==**as which**==  <sup><small>[[TEHMC#H:Prep+H:RelP|H:Prep+H:RelP]]</small></sup> 
-combination of: <small>[[H0834A]] ([[H9004]]+[[H0834A]])</small> 
+<small>combination of:</small> <small>**<big>[[H0834A|אֲשֶׁר]]</big>** (**<big>[[H9004|/כ]]</big>**+**<big>[[H0834A|אֲשֶׁר]]</big>**)</small> 
 
 - conj

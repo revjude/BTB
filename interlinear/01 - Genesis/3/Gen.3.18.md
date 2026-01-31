@@ -10,16 +10,16 @@ Both thorns and thistles it will yield for you, and you will eat the plants of t
 > $\quad$ referenced by: [[Heb.6.8|Heb 6:8]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and thorn[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ק֥וֹץ </big></span><small><small><sup>[[H6975]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Kotz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thistle[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דַרְדַּ֖ר </big></span><small><small><sup>[[H1863]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> dar.Dar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<it> will cause to sprout  | <span class="ashebrew"><big>תַּצְמִ֣יחַֽ </big></span><small><small><sup>[[H6779]]</sup></small></small> &#8207;| tatz.Mi.ach <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  | <span class="ashebrew"><big>לָ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| La <small><sup>[[HRd]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will eat  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָכַלְתָּ֖ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.khal.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] vegetation of  | <span class="ashebrew"><big>עֵ֥שֶׂב </big></span><small><small><sup>[[H6212]]</sup></small></small> &#8207;| 'E.sev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶֽה </big></span><small><small><sup>[[H7704G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thorn[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6975\|ק֥וֹץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kotz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thistle[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1863\|דַרְדַּ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> dar.Dar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<it> will cause to sprout  |**<big>&#8207;[[H6779\|תַּצְמִ֣יחַֽ]]&#8207; </big>**| tatz.Mi.ach<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ֑]]&#8207;&#8207;[[H9031\|ךְ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכַלְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khal.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vegetation of  |**<big>&#8207;[[H6212\|עֵ֥שֶׂב]]&#8207; </big>**| 'E.sev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.17|<< Genesis 3:17]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.19|Genesis 3:19 >>]]</td></tr></table>
 
 

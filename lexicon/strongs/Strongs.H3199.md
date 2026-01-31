@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָכִין‎</span></big> **Yâkîyn** <small>*(yaw-keen')*</small> ==**Jachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup>; he (or it) will establish</small>
+**<big><span class="ashebrew">‎יָכִין‎</span></big>** **Yâkîyn** <small>*(yaw-keen')*</small> ==**Jachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3559|‎כּוּן‎]]</big>**; he (or it) will establish</small>
 
 $\quad$ Jachin.
 - § Jachin = *"He will establish"*

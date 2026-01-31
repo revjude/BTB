@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎יָשִׁיב‎</span> **proper name** see  <span class="bdbLangHebrew">‎יָשׁוּב‎</span> below <span class="bdbLangHebrew">‎שׁוב‎</span>. <span class="bdbLangHebrew">‎יִשִּׁיָּה(וּׅ‎</span> see  <span class="bdbLangHebrew">‎נשׁה‎</span> 
 
-<small>Also see: [[H7610]]</small>
+<small>Also see: **<big>[[H7610|שְׁאָר יָשׁוּב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יָשׁוּב‎</span> **proper name, masculine** usually <span class="bdbLangGreek">Ιασουβ</span>; — 
 

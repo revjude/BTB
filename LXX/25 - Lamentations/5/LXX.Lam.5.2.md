@@ -7,13 +7,13 @@ Our inheritance is turned to strangers, our houses to aliens.
 Our inheritance has been turned over to strangers, our houses to foreigners.<small><sub>**MT:**</sub></small>
 [[Lam.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.1|<< Lamentations 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.3|Lamentations 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Our inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was converted over | <big><span class="asgreek">μετεστράφη</span></big> <sup><small><small>[[G3344]]</small></small></sup> |
-| to aliens; | <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| our houses | <big><span class="asgreek">οικοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to strangers. | <big><span class="asgreek">ξένοις</span></big> <sup><small><small>[[G3581]]</small></small></sup> |
+| Our inheritance | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| was converted over | **<big>[[G3344\|μετεστράφη]]</big>** |
+| to aliens; | **<big>[[G0245\|αλλοτρίοις]]</big>** |
+| our houses | **<big>[[G3624\|οικοι]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| to strangers. | **<big>[[G3581\|ξένοις]]</big>** |
 [[Lam.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.1|<< Lamentations 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.3|Lamentations 5:3 >>]]</td></tr></table>
 
 

@@ -7,47 +7,47 @@ And foundest his heart faithful before thee, and madest a covenant with him to g
 You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous.<small><sub>**MT:**</sub></small>
 [[Neh.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.7|<< Nehemiah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.9|Nehemiah 9:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you found | <big><span class="asgreek">εύρες</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| trustworthy | <big><span class="asgreek">πιστήν</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you ordained | <big><span class="asgreek">διέθου</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \[so as\] to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites, | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hittites, | <big><span class="asgreek">Χετταίων</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Perizzites, | <big><span class="asgreek">Φερεζαίων</span></big> <sup><small><small>[[H6522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jebusites, | <big><span class="asgreek">Ιεβουσαίων</span></big> <sup><small><small>[[H2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Girgashites, | <big><span class="asgreek">Γεργεσαίων</span></big> <sup><small><small>[[H1622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seed. | <big><span class="asgreek">σπέρματι</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you established | <big><span class="asgreek">έστησας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you \[are\] just. | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you found | **<big>[[G2147\|εύρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| trustworthy | **<big>[[G4103\|πιστήν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you ordained | **<big>[[G1303\|διέθου]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| a covenant, | **<big>[[G1242\|διαθήκην]]</big>** |
+| \[so as\] to give | **<big>[[G1325\|δούναι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Canaanites, | **<big>[[G5477\|Χαναναίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hittites, | **<big>[[H2850\|Χετταίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Perizzites, | **<big>[[H6522\|Φερεζαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jebusites, | **<big>[[H2983\|Ιεβουσαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Girgashites, | **<big>[[H1622\|Γεργεσαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his seed. | **<big>[[G4690\|σπέρματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you established | **<big>[[G2476\|έστησας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your words, | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you \[are\] just. | **<big>[[G1342\|δίκαιος]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Neh.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.7|<< Nehemiah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.9|Nehemiah 9:9 >>]]</td></tr></table>
 
 

@@ -7,52 +7,52 @@ And Samson’s wife wept before him, and said, Thou dost but hate me, and lovest
 Then Samson’s wife came to him, weeping, and said, “You hate me! You do not really love me! You have posed to my people a riddle, but have not explained it to me.” “Look,” he said, “I have not even explained it to my father or mother, so why should I explain it to you?”<small><sub>**MT:**</sub></small>
 [[Judg.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.15|<< Judges 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.17|Judges 14:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wept | <big><span class="asgreek">έκλαυσεν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You detest | <big><span class="asgreek">μεμίσηκάς</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| love | <big><span class="asgreek">ηγάπησάς</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riddle | <big><span class="asgreek">πρόβλημα</span></big> <sup><small><small>[[G8892]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you propounded | <big><span class="asgreek">προεβαλόυ</span></big> <sup><small><small>[[G4261]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| explain | <big><span class="asgreek">απήγγειλας</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mother | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">απήγγειλα</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should I report to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">απαγγελώ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| wept | **<big>[[G2799\|έκλαυσεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Samson | **<big>[[G4546\|Σαμψών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| You detest | **<big>[[G3404\|μεμίσηκάς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| love | **<big>[[G0025\|ηγάπησάς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| riddle | **<big>[[G8892\|πρόβλημα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| you propounded | **<big>[[G4261\|προεβαλόυ]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| explain | **<big>[[G0518\|απήγγειλας]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| it to me. | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| Samson | **<big>[[G4546\|Σαμψών]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| my father | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my mother | **<big>[[G3384\|μητρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0518\|απήγγειλα]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should I report to you? | **<big>[[G1473\|σοι]]</big>** **<big>[[G0518\|απαγγελώ]]</big>** |
 [[Judg.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.15|<< Judges 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.17|Judges 14:17 >>]]</td></tr></table>
 
 

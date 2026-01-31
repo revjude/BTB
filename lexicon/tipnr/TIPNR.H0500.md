@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elealeh</span>, a Moabite city assigned to the tribe of Reuben, later featured in prophecies of Moab's destruction.
 - A location first mentioned at [[Num.32.3|Num.32.3]]; 
-- only referred to as Elealeh<[[H0500]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Elealeh **<big>[[H0500|אֶלְעָלֵא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.813796,35.824275&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ However, the prophets Isaiah and Jeremiah later pronounced judgment on Moab, inc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elealeh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0500) <small>*Hebrew*</small> | 5x | [[Num.32.3] ... [Jer.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elealeh\*\|reference=Num.32.3;Num.32.37;Isa.15.4;Isa.16.9;Jer.48.34) |
-All Strong's for **Elealeh**: \[[[H0500]]\]
+| Elealeh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0500) | 5x | [[Num.32.3] ... [Jer.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elealeh\*\|reference=Num.32.3;Num.32.37;Isa.15.4;Isa.16.9;Jer.48.34) |
+All entries for **Elealeh**:  **<big>[[H0500|אֶלְעָלֵא]]</big>**

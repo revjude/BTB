@@ -11,28 +11,28 @@ Why do you now cry aloud? Is there no king among you? Has your counselor perishe
 > $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| did you know | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| bad \[things\]? | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-|  | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| not a king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[has\] your counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| perished? | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| hold firmly | <big><span class="asgreek">κατεκράτησάν</span></big> <sup><small><small>[[G7860]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one giving birth. | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| did you know | **<big>[[G1097\|έγνως]]</big>** |
+| bad \[things\]? | **<big>[[G2556\|κακά]]</big>** |
+|  | **<big>[[G3361\|μη]]</big>** |
+| not a king | **<big>[[G0935\|βασιλεύς]]</big>** **<big>[[G3756\|ουκ]]</big>** |
+| Was | **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you? | **<big>[[G1473\|σοι]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[has\] your counsel | **<big>[[G1012\|βουλή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| perished? | **<big>[[G0622\|απώλετο]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| hold firmly | **<big>[[G7860\|κατεκράτησάν]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| pangs | **<big>[[G5604\|ωδίνες]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one giving birth. | **<big>[[G5088\|τικτούσης]]</big>** |
 [[Mic.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.8|<< Micah 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.10|Micah 4:10 >>]]</td></tr></table>
 
 

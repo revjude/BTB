@@ -7,23 +7,23 @@ And afterward the people removed from Hazeroth, and pitched in the wilderness of
 After that, the people set out from Hazeroth and camped in the Wilderness of Paran.<small><sub>**MT:**</sub></small>
 [[Num.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.15|<< Numbers 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.1|Numbers 13:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| lifted away | <big><span class="asgreek">εξήρεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Hazeroth, | <big><span class="asgreek">Ασηρώθ</span></big> <sup><small><small>[[H2698]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Paran. | <big><span class="asgreek">Φαράν</span></big> <sup><small><small>[[H6290]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| lifted away | **<big>[[G1808\|εξήρεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| Hazeroth, | **<big>[[H2698\|Ασηρώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Paran. | **<big>[[H6290\|Φαράν]]</big>** |
 [[Num.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.15|<< Numbers 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.1|Numbers 13:1 >>]]</td></tr></table>
 
 

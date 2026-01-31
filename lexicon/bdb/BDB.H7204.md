@@ -1,4 +1,4 @@
-<small>Also see: [[H7211]]</small>
+<small>Also see: **<big>[[H7211|רְאָיָה]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎רֹאֶה‎</span> **proper name, masculine** [[1Chr.2.52|1Chr 2:52]], see  <span class="bdbLangHebrew">‎רְאָיָה‎</span> below 
 

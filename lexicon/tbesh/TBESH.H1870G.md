@@ -1,4 +1,3 @@
-<span class="ashebrew">‎דֶּ֫רֶךְ‎</span> <small>***(de.rekh)***</small> ==**way: conduct**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H1870K]]</small> 
+<small>meaning of:</small> <small>**<big>[[H1870K|דֶּרֶךְ]]</big>**</small> 
 
 - : conduct/lifestyle

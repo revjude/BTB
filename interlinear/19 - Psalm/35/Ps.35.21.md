@@ -6,16 +6,16 @@ They gape at me and say, “Aha, aha! Our eyes have seen!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.20|<< Psalms 35:20]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.22|Psalms 35:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they have opened wide  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּרְחִ֥יבוּ </big></span><small><small><sup>[[H7337]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yar.Chi.vu <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on me  | <span class="ashebrew"><big>עָלַ֗ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth their  | <span class="ashebrew"><big>פִּ֫י </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>הֶ֥ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| pi. <small><sup>[[HNcmsc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have said  | <span class="ashebrew"><big>אָ֭מְרוּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'A.me.ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| aha!  | <span class="ashebrew"><big>הֶאָ֣ח </big></span><small><small><sup>[[H1889]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| he.'Ach <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| aha!  | <span class="ashebrew"><big>הֶאָ֑ח </big></span><small><small><sup>[[H1889]]</sup></small></small> &#8207;| he.'Ach <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has seen  | <span class="ashebrew"><big>רָאֲתָ֥ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'a.Tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes our  | <span class="ashebrew"><big>עֵינֵֽי </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ei.Nei. <small><sup>[[HNcfdc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have opened wide  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7337\|יַּרְחִ֥יבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.Chi.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  |**<big>&#8207;[[H5921A\|עָלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth their  |**<big>&#8207;[[H6310G\|פִּ֫י]]&#8207;&#8207;[[H9028\|הֶ֥ם]]&#8207; </big>**| pi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have said  |**<big>&#8207;[[H0559\|אָ֭מְרוּ]]&#8207; </big>**| 'A.me.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| aha!  |**<big>&#8207;[[H1889\|הֶאָ֣ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| he.'Ach<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| aha!  |**<big>&#8207;[[H1889\|הֶאָ֑ח]]&#8207; </big>**| he.'Ach<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has seen  |**<big>&#8207;[[H7200G\|רָאֲתָ֥ה]]&#8207; </big>**| ra.'a.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes our  |**<big>&#8207;[[H5869A\|עֵינֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.20|<< Psalms 35:20]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.22|Psalms 35:22 >>]]</td></tr></table>
 
 

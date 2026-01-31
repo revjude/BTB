@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּקַח‎</span></big> **pâqach** <small>*(paw-kakh')*</small> ==**to open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּקַח‎</span></big>** **pâqach** <small>*(paw-kakh')*</small> ==**to open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ open.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** to open (the eyes)
 $\quad$ $\quad$ **1a2)** to open (the ears)
 $\quad$ **1b)** (Niphal) to be opened
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνοίγω</span><sup><small>[[G0455]]</small></sup> · <span class="asgreek">διανοίγω</span><sup><small>[[G1272]]</small></sup>
+<small>See Greek: </small>**<big>[[G0455|ἀνοίγω]]</big>** · **<big>[[G1272|διανοίγω]]</big>**

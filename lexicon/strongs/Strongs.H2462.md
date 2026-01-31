@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְבָּה‎</span></big> **Chelbâh** <small>*(khel-baw')*</small> ==**Helbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חֶלֶב‎</span><sup><small>[[H2459]]</small></sup>; fertility</small>
+**<big><span class="ashebrew">‎חֶלְבָּה‎</span></big>** **Chelbâh** <small>*(khel-baw')*</small> ==**Helbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H2459|‎חֶלֶב‎]]</big>**; fertility</small>
 
 $\quad$ Helbah.
 - § Helbah = *"fertile"*

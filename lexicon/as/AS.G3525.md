@@ -1,6 +1,6 @@
 <span class="asform">\* <span class="asgreek"><span class="asbold">νήφω</span></span>,</span>
 <span class="asitalic">to be sober</span>, <span class="asitalic">abstain from wine</span>; metaph., of moral alertness,   <span class="asitalic">to be sober</span>, <span class="asitalic">calm</span>, <span class="asitalic">circumspect</span>: [[1Thess.5.6|I Th 5:6]] [[1Thess.5.8|8]], [[2Tim.4.5|II Ti 4:5]] (v. Ellic., in l.), [[1Pet.1.13|I Pe 1:13]] [[1Pet.4.7|4:7]] [[1Pet.5.8|5:8]] (cf. <span class="asgreek">ἀνα-</span>, <span class="asgreek">ἐκ-νήφω</span>, and v. MM, xvii).†
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asgreek">ἀγρυπνέω</span> <small><sup>[[G0069]]</sup></small>, <span class="asgreek">γρηγορέω</span> <small><sup>[[G1127]]</sup></small>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G0069|ἀγρυπνέω]]</big>**, **<big>[[G1127|γρηγορέω]]</big>**. </span>
 
 **Abbott-Smith References**
 

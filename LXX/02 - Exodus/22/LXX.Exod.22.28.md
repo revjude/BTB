@@ -11,18 +11,18 @@ You must not blaspheme God or curse the ruler of your people.<small><sub>**MT:*
 > $\quad$ referenced by: [[Acts.23.5|Acts 23:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| magistrates | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak evil of | <big><span class="asgreek">κακολογήσεις</span></big> <sup><small><small>[[G2551]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| wickedly. | <big><span class="asgreek">κακώς</span></big> <sup><small><small>[[G2560]]</small></small></sup> |
+| magistrates | **<big>[[G2316\|θεούς]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| speak evil of | **<big>[[G2551\|κακολογήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| speak | **<big>[[G2046\|ερείς]]</big>** |
+| wickedly. | **<big>[[G2560\|κακώς]]</big>** |
 [[Exod.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.27|<< Exodus 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.29|Exodus 22:29 >>]]</td></tr></table>
 
 

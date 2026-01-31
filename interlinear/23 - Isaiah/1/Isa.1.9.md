@@ -10,19 +10,19 @@ Unless the LORD of Hosts had left us a few survivors, we would have become like 
 > $\quad$ referenced by: [[Rom.9.29|Rom 9:29]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if not  | <span class="ashebrew"><big>לוּלֵי֙ </big></span><small><small><sup>[[H3884]]</sup></small></small> &#8207;| lu.Lei <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  | <span class="ashebrew"><big>צְבָא֔וֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had left  | <span class="ashebrew"><big>הוֹתִ֥יר </big></span><small><small><sup>[[H3498]]</sup></small></small> &#8207;| ho.Tir <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to us  | <span class="ashebrew"><big>לָ֛ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| survivor[s]  | <span class="ashebrew"><big>שָׂרִ֖יד </big></span><small><small><sup>[[H8300]]</sup></small></small> &#8207;| sa.Rid <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a little  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מְעָ֑ט </big></span><small><small><sup>[[H4592]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> m.'At <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like Sodom  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>סְדֹ֣ם </big></span><small><small><sup>[[H5467]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> s.Dom <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we were  | <span class="ashebrew"><big>הָיִ֔ינוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yi.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Gomorrah  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲמֹרָ֖ה </big></span><small><small><sup>[[H6017]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.mo.Rah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we were like  | <span class="ashebrew"><big>דָּמִֽינוּ </big></span><small><small><sup>[[H1819]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| da.Mi.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if not  |**<big>&#8207;[[H3884\|לוּלֵי֙]]&#8207; </big>**| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָא֔וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had left  |**<big>&#8207;[[H3498\|הוֹתִ֥יר]]&#8207; </big>**| ho.Tir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  |**<big>&#8207;[[H9005\|לָ֛]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| survivor[s]  |**<big>&#8207;[[H8300\|שָׂרִ֖יד]]&#8207; </big>**| sa.Rid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a little  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4592\|מְעָ֑ט]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Sodom  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H5467\|סְדֹ֣ם]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> s.Dom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we were  |**<big>&#8207;[[H1961\|הָיִ֔ינוּ]]&#8207; </big>**| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Gomorrah  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6017\|עֲמֹרָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.mo.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we were like  |**<big>&#8207;[[H1819\|דָּמִֽינוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Mi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.8|<< Isaiah 1:8]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.10|Isaiah 1:10 >>]]</td></tr></table>
 
 

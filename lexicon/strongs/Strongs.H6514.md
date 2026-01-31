@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּרוּדָא‎</span></big> **Pᵉrûwdâʼ** <small>*(per-oo-daw')*</small> ==**Peruda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">פְּרִידָא</span> **Pᵉrîydâʼ** <small>*(per-eedaw')*</small>; from <span class="ashebrew">‎פָּרַד‎</span><sup><small>[[H6504]]</small></sup>; dispersion</small>
+**<big><span class="ashebrew">‎פְּרוּדָא‎</span></big>** **Pᵉrûwdâʼ** <small>*(per-oo-daw')*</small> ==**Peruda**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">פְּרִידָא</span></big>** **Pᵉrîydâʼ** <small>*(per-eedaw')*</small>; from **<big>[[H6504|‎פָּרַד‎]]</big>**; dispersion</small>
 
 $\quad$ Perida, Peruda.
 - § Peruda or Perida = *"grain" or "kernel"*

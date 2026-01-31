@@ -7,16 +7,16 @@ Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;
 ‘I will give you the land of Canaan as the portion of your inheritance.’<small><sub>**MT:**</sub></small>
 [[1Chr.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.17|<< 1 Chronicles 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.19|1 Chronicles 16:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| To you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| a piece of measured out land | <big><span class="asgreek">σχοίνισμα</span></big> <sup><small><small>[[G9385]]</small></small></sup> |
-| for your inheritance, | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saying, | **<big>[[G3004\|λέγων]]</big>** |
+| To you | **<big>[[G1473\|σοι]]</big>** |
+| I shall give | **<big>[[G1325\|δώσω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| a piece of measured out land | **<big>[[G9385\|σχοίνισμα]]</big>** |
+| for your inheritance, | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[1Chr.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.17|<< 1 Chronicles 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.19|1 Chronicles 16:19 >>]]</td></tr></table>
 
 

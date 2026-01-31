@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲחַשְׁדַּרְפַּן‎</span></big> **ʼăchashdarpan** <small>*(akh-ash-dar-pan')*</small> ==**satrap**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אֲחַשְׁדַּרְפַּן‎</span></big>** **ʼăchashdarpan** <small>*(akh-ash-dar-pan')*</small> ==**satrap**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ lieutenant.
@@ -6,4 +6,4 @@ $\quad$ lieutenant.
 
 **1)** satrap, a governor of a Persian province
 
-<sub><small>See Greek: </small></sub><span class="asgreek">στρατηγός</span><sup><small>[[G4755]]</small></sup>
+<small>See Greek: </small>**<big>[[G4755|στρατηγός]]</big>**

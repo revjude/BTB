@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לָבַשׁ‎</span></big> **lâbash** <small>*(law-bash')*</small> ==**to clothe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">לָבֵשׁ</span> **lâbêsh** <small>*(law-bashe')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎לָבַשׁ‎</span></big>** **lâbash** <small>*(law-bash')*</small> ==**to clothe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">לָבֵשׁ</span></big>** **lâbêsh** <small>*(law-bashe')*</small>; a primitive root</small>
 
 $\quad$ (in) apparel, arm, array (self), clothe (self), come upon, put (on, upon), wear.
 - properly, ***wrap around***, i.e. (by implication) ***to put on a******garment*** or ***clothe*** (oneself, or another), literally or figuratively
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** to put on, be clothed with (fig.)
 $\quad$ **1b)** (Pual) to be fully clothed
 $\quad$ **1c)** (Hiphil) to clothe, array with, dress
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμφιέννυμι</span><sup><small>[[G0294]]</small></sup> · <span class="asgreek">ἐνδιδύσκω</span><sup><small>[[G1737]]</small></sup> · <span class="asgreek">ἐνδυναμόω</span><sup><small>[[G1743]]</small></sup> · <span class="asgreek">ἐνδύνω</span><sup><small>[[G1744]]</small></sup> · <span class="asgreek">ἐνδύω</span><sup><small>[[G1746]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">περιβάλλω</span><sup><small>[[G4016]]</small></sup> · <span class="asgreek">περιτίθημι</span><sup><small>[[G4060]]</small></sup>
+<small>See Greek: </small>**<big>[[G0294|ἀμφιέννυμι]]</big>** · **<big>[[G1737|ἐνδιδύσκω]]</big>** · **<big>[[G1743|ἐνδυναμόω]]</big>** · **<big>[[G1744|ἐνδύνω]]</big>** · **<big>[[G1746|ἐνδύω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G4016|περιβάλλω]]</big>** · **<big>[[G4060|περιτίθημι]]</big>**

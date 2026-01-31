@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁקַל‎</span></big> **shâqal** <small>*(shaw-kal')*</small> ==**to weigh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁקַל‎</span></big>** **shâqal** <small>*(shaw-kal')*</small> ==**to weigh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ pay, receive(-r), spend, [idiom] throughly, weigh.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Niphal)
 $\quad$ $\quad$ **1b1)** to be weighed
 $\quad$ $\quad$ **1b2)** to be weighed out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποκαθίστημι</span><sup><small>[[G0600]]</small></sup> · <span class="asgreek">ἀποτίνω</span><sup><small>[[G0661]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">παρίστημι</span><sup><small>[[G3936]]</small></sup> · <span class="asgreek">συμβάλλω</span><sup><small>[[G4820]]</small></sup> · <span class="asgreek">τιμάω</span><sup><small>[[G5091]]</small></sup>
+<small>See Greek: </small>**<big>[[G0600|ἀποκαθίστημι]]</big>** · **<big>[[G0661|ἀποτίνω]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G3936|παρίστημι]]</big>** · **<big>[[G4820|συμβάλλω]]</big>** · **<big>[[G5091|τιμάω]]</big>**

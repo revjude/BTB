@@ -7,41 +7,41 @@ But his wife said unto him, If the LORD were pleased to kill us, he would not ha
 But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”<small><sub>**MT:**</sub></small>
 [[Judg.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.22|<< Judges 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.24|Judges 13:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| wanted | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to kill us, | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he would not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| have received | <big><span class="asgreek">εδέξατο</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a sacrifice \[offering\], | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he would not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| have enlightened | <big><span class="asgreek">εφώτισεν</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[this\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time, | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he would not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| audible | <big><span class="asgreek">ακουστά</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| have made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| wanted | **<big>[[G1014\|εβούλετο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to kill us, | **<big>[[G2289\|θανατώσαι]]</big>** **<big>[[G1473\|ημάς]]</big>** |
+| he would not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0302\|αν]]</big>** |
+| have received | **<big>[[G1209\|εδέξατο]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| our hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| a whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a sacrifice \[offering\], | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he would not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0302\|αν]]</big>** |
+| have enlightened | **<big>[[G5461\|εφώτισεν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[this\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| time, | **<big>[[G2540\|καιρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he would not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0302\|αν]]</big>** |
+| audible | **<big>[[G6200\|ακουστά]]</big>** |
+| have made | **<big>[[G4160\|εποίησεν]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
 [[Judg.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.22|<< Judges 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.24|Judges 13:24 >>]]</td></tr></table>
 
 

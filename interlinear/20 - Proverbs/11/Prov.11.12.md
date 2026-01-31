@@ -6,15 +6,15 @@ Whoever shows contempt for his neighbor lacks judgment, but a man of understandi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.11|<< Proverbs 11:11]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.13|Proverbs 11:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] despises  | <span class="ashebrew"><big>בָּז </big></span><small><small><sup>[[H0936]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| boz- <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> neighbor his  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֵעֵ֥ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] lacking of  | <span class="ashebrew"><big>חֲסַר </big></span><small><small><sup>[[H2638]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| cha.sar- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵ֑ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a person of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding\<s>  | <span class="ashebrew"><big>תְּבוּנ֣וֹת </big></span><small><small><sup>[[H8394]]</sup></small></small> &#8207;| te.vu.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he keeps quiet  | <span class="ashebrew"><big>יַחֲרִֽישׁ </big></span><small><small><sup>[[H2790B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.cha.Rish <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] despises  |**<big>&#8207;[[H0936\|בָּז]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| boz-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵ֥]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] lacking of  |**<big>&#8207;[[H2638\|חֲסַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.sar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֑ב]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a person of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֖ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding\<s>  |**<big>&#8207;[[H8394\|תְּבוּנ֣וֹת]]&#8207; </big>**| te.vu.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he keeps quiet  |**<big>&#8207;[[H2790B\|יַחֲרִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.cha.Rish<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.11|<< Proverbs 11:11]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.13|Proverbs 11:13 >>]]</td></tr></table>
 
 

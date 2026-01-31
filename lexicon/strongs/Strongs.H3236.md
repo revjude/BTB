@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִמְרָה‎</span></big> **Yimrâh** <small>*(yim-raw')*</small> ==**Imrah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎יָמַר‎</span><sup><small>[[H3235]]</small></sup>; interchange</small>
+**<big><span class="ashebrew">‎יִמְרָה‎</span></big>** **Yimrâh** <small>*(yim-raw')*</small> ==**Imrah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H3235|‎יָמַר‎]]</big>**; interchange</small>
 
 $\quad$ Imrah.
 - § Imrah = *"bitterness"*

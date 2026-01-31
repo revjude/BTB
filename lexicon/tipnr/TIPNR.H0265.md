@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 The Ahohites, descendants of <span class='tipnrhighlight'>Ahoah</span> of Benjamin, were a clan that included some of David's mighty men, such as Eleazar and Zalmon. \([[2Sam.23.9|2Sa.23.9]],28; [[1Chr.8.4|1Ch.8.4]]; 11.12,29; 27.4\)
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[2Sam.23.9|2Sa.23.9]]; 
-- referred to as Ahoah<[[H0265]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ\), or Ahohi \(KJV, NIV= Ahohite\) or Ahohite<[[H0266]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Bela<[[H1106A]]>; 
-- a brother of Ard<[[H0714H]]>, Naaman<[[H5283H]]>, Ezbon<[[H0675H]]>, Uzzi<[[H5813I]]>, Uzziel<[[H5816I]]>, Jerimoth<[[H3406G]]>, Iri<[[H5901]]>, Addar<[[H0146H]]>, Gera<[[H1617I]]>, Abihud<[[H0031]]> and Abishua<[[H0050H]]>.
+- referred to as Ahoah **<big>[[H0265|אֲחוֹחַ]]</big>**, or Ahohi \(KJV, NIV= Ahohite\) or Ahohite **<big>[[H0266|אֲחוֹחִי]]</big>**; 
+-  son of Bela **<big>[[H1106|בֶּלַע]]</big>**; 
+- a brother of Ard **<big>[[H0714|אַרְדְּ]]</big>**, Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ezbon **<big>[[H0675|אֶצְבּוֹן]]</big>**, Uzzi **<big>[[H5813|עֻזִּי]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Iri **<big>[[H5901|עִירִי]]</big>**, Addar **<big>[[H0146|אַדָּר]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Abihud **<big>[[H0031|אֲבִיהוּד]]</big>** and Abishua **<big>[[H0050|אֲבִישׁוּעַ]]</big>**.
 
 Ahoah, also known as Ahohi, was a descendant of Benjamin and the ancestor of the Ahohite clan. The Ahohites were a family within the tribe of Benjamin known for their military prowess and loyalty to King David. 
 
@@ -20,10 +20,10 @@ The repeated mention of Ahohites among David's mighty men and Solomon's military
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahoah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ](H0265) <small>*Hebrew*</small> | 1x | [1Ch.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahoah\*\|reference=1Ch.8.4) |
-| Ahohi (KJV, NIV= Ahohite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H0266) <small>*Hebrew*</small> | 1x | [2Sa.23.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahohi\*\|reference=2Sa.23.9) |
-| Ahohite | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H0266) <small>*Hebrew*</small> | 4x | [[2Sa.23.28] ... [1Ch.27.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahohite\*\|reference=2Sa.23.28;1Ch.11.12;1Ch.11.29;1Ch.27.4) |
-All Strong's for **Ahoah or Ahohi or Ahohite**: \[[[H0265]]\] \[[[H0266]]\]
+| Ahoah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ַ](H0265) | 1x | [1Ch.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahoah\*\|reference=1Ch.8.4) |
+| Ahohi (KJV, NIV= Ahohite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H0266) | 1x | [2Sa.23.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahohi\*\|reference=2Sa.23.9) |
+| Ahohite | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H0266) | 4x | [[2Sa.23.28] ... [1Ch.27.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahohite\*\|reference=2Sa.23.28;1Ch.11.12;1Ch.11.29;1Ch.27.4) |
+All entries for **Ahoah or Ahohi or Ahohite**:  **<big>[[H0265|אֲחוֹחַ]]</big>** ☩  **<big>[[H0266|אֲחוֹחִי]]</big>**
 #### Related Profiles:
 - **[Bela](H1106A)** (father)
 - **[Ard](H0714H)** (sibling)

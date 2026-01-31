@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָשׇׁבְעָם‎</span></big> **Yâshobʻâm** <small>*(yaw-shob-awm')*</small> ==**Jashobeam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שׁוּב‎</span><sup><small>[[H7725]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; people will return</small>
+**<big><span class="ashebrew">‎יָשׇׁבְעָם‎</span></big>** **Yâshobʻâm** <small>*(yaw-shob-awm')*</small> ==**Jashobeam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7725|‎שׁוּב‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; people will return</small>
 
 $\quad$ Jashobeam.
 - § Jashobeam = *"the people will return"*

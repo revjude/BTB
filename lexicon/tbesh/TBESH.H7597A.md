@@ -1,5 +1,4 @@
-<span class="ashebrew">‎שְׁאַלְתִּיאֵל‎</span> <small>***(she.al.ti.el)***</small> ==**Shealtiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Exile and Return, first mentioned at [[1Chr.3.17|1Ch.3.17]]
--  son of: Jehoiachin ([[H3078]])
--  brother of: Zedekiah ([[H6667I]])(?); father(?) of Malchiram ([[H4443]]), Pedaiah ([[H6305H]]), Shenazzar ([[H8137]]), Jekamiah ([[H3359H]]), Hoshama ([[H1953]]) and Nedabiah ([[H5072]])
+-  son of: Jehoiachin (**<big>[[H3078|יְהוֹיָכִין]]</big>**)
+-  brother of: Zedekiah (**<big>[[H6667I|צִדְקִיָּה]]</big>**); father of Malchiram (**<big>[[H4443|מַלְכִּירָם]]</big>**), Pedaiah (**<big>[[H6305H|פְּדָיָה]]</big>**), Shenazzar (**<big>[[H8137|שֶׁנְאַצַּר]]</big>**), Jekamiah (**<big>[[H3359H|יְקַמְיָה]]</big>**), Hoshama (**<big>[[H1953|הוֹשָׁמָע]]</big>**) and Nedabiah (**<big>[[H5072|נְדַבְיָה]]</big>**)
 -  son of king Jehoiachin or Jeconiah or Coniah of Judah and uncle of Zerubbabel

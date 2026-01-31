@@ -11,36 +11,36 @@ And they shall go forth, and look upon the carcases of the men that have transgr
 > $\quad$ referenced by: [[Mark.9.44|Mark 9:44]] ☩ [[Mark.9.46|Mark 9:46]] ☩ [[Mark.9.48|Mark 9:48]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall go forth, | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carcasses | <big><span class="asgreek">κώλα</span></big> <sup><small><small>[[G2966]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| violating | <big><span class="asgreek">παραβεβηκότων</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| their worm | <big><span class="asgreek">σκώληξ</span></big> <sup><small><small>[[G4663]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come to an end, | <big><span class="asgreek">τελευτήσει</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be extinguished. | <big><span class="asgreek">σβεσθήσεται</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sight | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh. | <big><span class="asgreek">σαρκί</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall go forth, | **<big>[[G1831\|εξελεύσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall see | **<big>[[G3708\|όψονται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carcasses | **<big>[[G2966\|κώλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| violating | **<big>[[G3845\|παραβεβηκότων]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| me. | **<big>[[G1473\|εμοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| their worm | **<big>[[G4663\|σκώληξ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| come to an end, | **<big>[[G5053\|τελευτήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their fire | **<big>[[G4442\|πυρ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be extinguished. | **<big>[[G4570\|σβεσθήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sight | **<big>[[G3706\|όρασιν]]</big>** |
+| to all | **<big>[[G3956\|πάση]]</big>** |
+| flesh. | **<big>[[G4561\|σαρκί]]</big>** |
 [[Isa.66.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.23|<< Isaiah 66:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.1|Jeremiah 1:1 >>]]</td></tr></table>
 
 

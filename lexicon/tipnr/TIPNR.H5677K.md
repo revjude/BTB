@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Eber</span> was a priest who served during the time of Joiakim, the son of Jeshua, after the return from Babylonian exile. \([[Neh.12.20|Neh.12.20]]\)
 - A priest living at the time of Exile and Return, only mentioned at [[Neh.12.20|Neh.12.20]]; 
-- only referred to as Eber<[[H5677K]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Eber **<big>[[H5677|עֵבֵר]]</big>**.
 
 Eber is mentioned in [[Neh.12.20|Nehemiah 12:20]] as one of the priests who served during the time of Joiakim, the son of Jeshua. Joiakim was the high priest who led the religious community in Jerusalem after the return from the Babylonian exile. 
 
@@ -16,5 +16,5 @@ The listing of the priests in Nehemiah 12 is part of a larger narrative that des
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eber | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677K) <small>*Hebrew*</small> | 1x | [Neh.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Neh.12.20) |
-All Strong's for **Eber**: \[[[H5677K]]\]
+| Eber | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677K) | 1x | [Neh.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=Neh.12.20) |
+All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>**

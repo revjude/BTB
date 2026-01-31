@@ -7,33 +7,33 @@ And the chapiters that [were] upon the top of the pillars [were] of lily work in
 And the capitals atop the pillars in the portico were shaped like lilies, four cubits high.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.18|<< 1 Kings 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.20|1 Kings 7:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| capitals | <big><span class="asgreek">επιθέματα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heads | <big><span class="asgreek">κεφαλών</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns, | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of lily | <big><span class="asgreek">κρίνου</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
-| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch -- | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| cubits; | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a ridge | <big><span class="asgreek">μέλαθρον</span></big> <sup><small><small>[[G8277]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφοτέρων</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns, | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on top | <big><span class="asgreek">επάνωθεν</span></big> <sup><small><small>[[G7366]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">πλευρών</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| of \[the\] capital. | <big><span class="asgreek">επίθεμα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| capitals | **<big>[[G7409\|επιθέματα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| heads | **<big>[[G2776\|κεφαλών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns, | **<big>[[G4769\|στύλων]]</big>** |
+| a work | **<big>[[G2041\|έργον]]</big>** |
+| of lily | **<big>[[G2918\|κρίνου]]</big>** |
+| for | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| columned porch -- | **<big>[[G6161\|αιλάμ]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| cubits; | **<big>[[G4083\|πηχέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a ridge | **<big>[[G8277\|μέλαθρον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| both | **<big>[[G0297\|αμφοτέρων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns, | **<big>[[G4769\|στύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on top | **<big>[[G7366\|επάνωθεν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sides | **<big>[[G4125\|πλευρών]]</big>** |
+| of \[the\] capital. | **<big>[[G7409\|επίθεμα]]</big>** |
 [[1Kgs.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.18|<< 1 Kings 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.20|1 Kings 7:20 >>]]</td></tr></table>
 
 

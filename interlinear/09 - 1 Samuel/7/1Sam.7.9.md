@@ -10,29 +10,29 @@ Then Samuel took a suckling lamb and offered it as a whole burnt offering to the
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקַּ֣ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samuel  | <span class="ashebrew"><big>שְׁמוּאֵ֗ל </big></span><small><small><sup>[[H8050G]]</sup></small></small> &#8207;| she.mu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lamb of  | <span class="ashebrew"><big>טְלֵ֤ה </big></span><small><small><sup>[[H2924]]</sup></small></small> &#8207;| te.Leh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| milk  | <span class="ashebrew"><big>חָלָב֙ </big></span><small><small><sup>[[H2461]]</sup></small></small> &#8207;| cha.Lav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֔ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he offered up it  [^3] | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲלֵ֧ </big></span><small><small><sup>[[H5927I]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;[^4] | va <small><sup>[[Hc]]</sup></small> i.ya.'a.le. <small><sup>[[HVhw3ms]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| a burnt offering  | <span class="ashebrew"><big>עוֹלָ֛ה </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a whole offering  | <span class="ashebrew"><big>כָּלִ֖יל </big></span><small><small><sup>[[H3632]]</sup></small></small> &#8207;| ka.Lil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he cried out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּזְעַ֨ק </big></span><small><small><sup>[[H2199]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yiz.'Ak <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samuel  | <span class="ashebrew"><big>שְׁמוּאֵ֤ל </big></span><small><small><sup>[[H8050G]]</sup></small></small> &#8207;| she.mu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>בְּעַ֣ד </big></span><small><small><sup>[[H1157]]</sup></small></small> &#8207;| be.'Ad <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he answered him  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲנֵ֖ </big></span><small><small><sup>[[H6030B]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'a.Ne. <small><sup>[[HVqw3ms]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֗ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lamb of  |**<big>&#8207;[[H2924\|טְלֵ֤ה]]&#8207; </big>**| te.Leh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| milk  |**<big>&#8207;[[H2461\|חָלָב֙]]&#8207; </big>**| cha.Lav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֔ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he offered up it  [^3]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927I\|יַּעֲלֵ֧]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**[^4] | va<small><sup>[[Hc]]</sup></small> i.ya.'a.le.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| a burnt offering  |**<big>&#8207;[[H5930A\|עוֹלָ֛ה]]&#8207; </big>**| o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a whole offering  |**<big>&#8207;[[H3632\|כָּלִ֖יל]]&#8207; </big>**| ka.Lil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יִּזְעַ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.'Ak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֤ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H1157\|בְּעַ֣ד]]&#8207; </big>**| be.'Ad<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he answered him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6030B\|יַּעֲנֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Ne.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.8|<< 1 Samuel 7:8]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.10|1 Samuel 7:10 >>]]</td></tr></table>
 
-[^1]: ==K==: **and he offered up ** | <small><sup>[[H5927I]]</sup></small> <span class="ashebrew"><big>יַּעֲלֶה</big></span> <small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: **and he offered up ** | <small><sup>[[H5927I]]</sup></small> <span class="ashebrew"><big>יַּעֲלֶה</big></span> <small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==K==: **and he offered up ** | <small><sup>[[H5927I]]</sup></small> <span class="ashebrew"><big>יַּעֲלֶה</big></span> <small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
+[^1]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
+[^2]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
+[^3]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
 [^4]: ==L== spelled: **<span class="ashebrew"><big>וַיַּעֲלֵ֧הֻ</big></span>**
 

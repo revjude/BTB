@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָצַב‎</span></big> **ʻâtsab** <small>*(aw-tsab')*</small> ==**to hurt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָצַב‎</span></big>** **ʻâtsab** <small>*(aw-tsab')*</small> ==**to hurt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ displease, grieve, hurt, make, be sorry, vex, worship, wrest.
@@ -15,4 +15,4 @@ $\quad$ **1e)** (Hithpael) to feel grieved, be vexed
 $\quad$ **2a)** (Piel) to shape, form
 $\quad$ **2b)** (Hiphil) to form, copy, fashion
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βδελύσσω</span><sup><small>[[G0948]]</small></sup> · <span class="asgreek">διαπονέω</span><sup><small>[[G1278]]</small></sup> · <span class="asgreek">θραύω</span><sup><small>[[G2352]]</small></sup> · <span class="asgreek">κατανύσσω</span><sup><small>[[G2660]]</small></sup> · <span class="asgreek">καταπίπτω</span><sup><small>[[G2667]]</small></sup> · <span class="asgreek">λυπέω</span><sup><small>[[G3076]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">παροργίζω</span><sup><small>[[G3949]]</small></sup> · <span class="asgreek">πλάσσω</span><sup><small>[[G4111]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup>
+<small>See Greek: </small>**<big>[[G0948|βδελύσσω]]</big>** · **<big>[[G1278|διαπονέω]]</big>** · **<big>[[G2352|θραύω]]</big>** · **<big>[[G2660|κατανύσσω]]</big>** · **<big>[[G2667|καταπίπτω]]</big>** · **<big>[[G3076|λυπέω]]</big>** · **<big>[[G3947|παροξύνω]]</big>** · **<big>[[G3949|παροργίζω]]</big>** · **<big>[[G4111|πλάσσω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>**

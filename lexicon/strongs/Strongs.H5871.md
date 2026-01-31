@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַיִן‎</span></big> **ʻAyin** <small>*(ah'-yin)*</small> ==**Ain**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup>; fountain</small>
+**<big><span class="ashebrew">‎עַיִן‎</span></big>** **ʻAyin** <small>*(ah'-yin)*</small> ==**Ain**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H5869|‎עַיִן‎]]</big>**; fountain</small>
 
 $\quad$ Ain.
 - § Ain = *"spring"*

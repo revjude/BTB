@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶפֶס דַּמִּים‎</span></big> **ʼEpheç Dammîym** <small>*(eh'-fes dam-meem')*</small> ==**Ephes-dammim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אֶפֶס‎</span><sup><small>[[H0657]]</small></sup> and the plural of <span class="ashebrew">‎דָּם‎</span><sup><small>[[H1818]]</small></sup>; boundary of blood-drops</small>
+**<big><span class="ashebrew">‎אֶפֶס דַּמִּים‎</span></big>** **ʼEpheç Dammîym** <small>*(eh'-fes dam-meem')*</small> ==**Ephes-dammim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0657|‎אֶפֶס‎]]</big>** and the plural of **<big>[[H1818|‎דָּם‎]]</big>**; boundary of blood-drops</small>
 
 $\quad$ Ephes-dammim.
 - § Ephes Dammim = *"edge of blood"*

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-togarmah</span> was a region or people group that traded horses and mules with Tyre and was allied with Gog, a future enemy of Israel. \([[Ezek.27.14|Ezekiel 27:14]]; 38:6\)
 - A location first mentioned at [[Ezek.27.14|Ezk.27.14]]; 
-- only referred to as Beth-togarmah<[[H8425H]]><[[H8425H]]> \(<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ת</span>ֹּ<span class='tipnrLangHebrew'>ג</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Beth-togarmah **<big>[[H8425|תּוֹגַרְמָה]]</big>** **<big>[[H8425|תּוֹגַרְמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.065539,45.036328&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The prophecy in Ezekiel 38-39 is often interpreted as a symbolic representation 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth/-togarmah (KJV= house of Togarmah) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004I)[<span class='tipnrLangHebrew'>ת</span>ֹּ<span class='tipnrLangHebrew'>ג</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8425H) <small>*Hebrew*</small> | 2x | [[Ezk.27.14] & [Ezk.38.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Ezk.27.14;Ezk.38.6) |
-All Strong's for **Beth-togarmah**: \[[[H1004Im H8425H]]\]
+| Beth/-togarmah (KJV= house of Togarmah) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004I)[<span class='tipnrLangHebrew'>ת</span>ֹּ<span class='tipnrLangHebrew'>ג</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8425H) | 2x | [[Ezk.27.14] & [Ezk.38.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Ezk.27.14;Ezk.38.6) |
+All entries for **Beth-togarmah**:  **<big>[[H1004|בַּיִת]]</big>**

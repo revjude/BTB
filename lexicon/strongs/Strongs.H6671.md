@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָהַר‎</span></big> **tsâhar** <small>*(tsaw-har')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; to glisten; used only as denominative from <span class="ashebrew">‎יִצְהָר‎</span><sup><small>[[H3323]]</small></sup>,</small>
+**<big><span class="ashebrew">‎צָהַר‎</span></big>** **tsâhar** <small>*(tsaw-har')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to glisten; used only as denominative from **<big>[[H3323|‎יִצְהָר‎]]</big>**,</small>
 
 $\quad$ make oil.
 - ***to press out oil***

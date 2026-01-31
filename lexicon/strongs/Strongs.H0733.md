@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָרַח‎</span></big> **ʼÂrach** <small>*(aw-rakh')*</small> ==**Arah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָרַח‎</span><sup><small>[[H0732]]</small></sup>; way faring</small>
+**<big><span class="ashebrew">‎אָרַח‎</span></big>** **ʼÂrach** <small>*(aw-rakh')*</small> ==**Arah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0732|‎אָרַח‎]]</big>**; way faring</small>
 
 $\quad$ Arah.
 - § Arah = *"traveller"*

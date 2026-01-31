@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-barah</span> \(Bethabara\) was a place where Gideon stationed men to intercept the fleeing Midianites, and where John the Baptist baptized. \(Judges 7:24; [[John.1.28|John 1:28]]\)
 - A location first mentioned at Jdg.7.24; 
-- referred to as Beth-barah<[[H1012]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Bethany \(KJV= Bethabara\) <[[G0962]]> \(<span class='tipnrLangGreek'>Βηθαβαρά</span>,<span class='tipnrLangGreek'>Βηθανία</span>\).
+- referred to as Beth-barah **<big>[[H1012|בֵּית בָּרָה]]</big>**, or Bethany \(KJV= Bethabara\)  **<big>[[G0962|Βηθαβαρά]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8363211491438,35.55260017422344&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,7 +14,7 @@ The exact location of Beth-barah/Bethabara is uncertain, but it was likely a for
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-barah (NIV= Beth Barah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1012) <small>*Hebrew*</small> | 2x | [[Jdg.7.24a] & [Jdg.7.24b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.7.24;Jdg.7.24) |
-| Bethany | [<span class='tipnrLangGreek'>Βηθανία</span>](G0963) <small>*Greek*</small> | 1x | [Jhn.1.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethany\*\|reference=Jhn.1.28) |
-| Bethabara (=Var, KJV) | [<span class='tipnrLangGreek'>Βηθαβαρά</span>](G0962) <small>*Greek*</small> | 1x | [Jhn.1.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethany\*\|reference=Jhn.1.28) |
-All Strong's for **Beth-barah, Bethany or Bethabara**: \[[[H1012]]\] \[[[G0962]]\]
+| Beth-barah (NIV= Beth Barah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1012) | 2x | [[Jdg.7.24a] & [Jdg.7.24b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.7.24;Jdg.7.24) |
+| Bethany | [<span class='tipnrLangGreek'>Βηθανία</span>](G0963) | 1x | [Jhn.1.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethany\*\|reference=Jhn.1.28) |
+| Bethabara (=Var, KJV) | [<span class='tipnrLangGreek'>Βηθαβαρά</span>](G0962) | 1x | [Jhn.1.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethany\*\|reference=Jhn.1.28) |
+All entries for **Beth-barah, Bethany or Bethabara**:  **<big>[[H1012|בֵּית בָּרָה]]</big>** ☩  **<big>[[G0962|Βηθαβαρά]]</big>**

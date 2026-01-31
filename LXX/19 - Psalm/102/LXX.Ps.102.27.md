@@ -11,17 +11,17 @@ But You remain the same, and Your years will never end.<small><sub>**MT:**</sub
 > $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]] ☩ [[2Pet.3.10|2Pet 3:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cease. | <big><span class="asgreek">εκλείψουσιν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| same | **<big>[[G1473\|αυτός]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your years | **<big>[[G2094\|έτη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| cease. | **<big>[[G1587\|εκλείψουσιν]]</big>** |
 [[Ps.102.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.26|<< Psalm 102:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.28|Psalm 102:28 >>]]</td></tr></table>
 
 

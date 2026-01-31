@@ -11,18 +11,18 @@ The LORD is a refuge for the oppressed, a stronghold in times of trouble.<small
 > $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a refuge | <big><span class="asgreek">καταφυγή</span></big> <sup><small><small>[[G7950]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy; | <big><span class="asgreek">πένητι</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| a helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| an opportune time | <big><span class="asgreek">ευκαιρίαις</span></big> <sup><small><small>[[G2120]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| afflictions. | <big><span class="asgreek">θλίψεσι</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> became | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| a refuge | **<big>[[G7950\|καταφυγή]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| needy; | **<big>[[G3993\|πένητι]]</big>** |
+| a helper | **<big>[[G0998\|βοηθός]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| an opportune time | **<big>[[G2120\|ευκαιρίαις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| afflictions. | **<big>[[G2347\|θλίψεσι]]</big>** |
 [[Ps.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.8|<< Psalm 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.10|Psalm 9:10 >>]]</td></tr></table>
 
 

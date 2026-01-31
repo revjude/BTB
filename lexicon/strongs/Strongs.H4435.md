@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִלְכָּה‎</span></big> **Milkâh** <small>*(mil-kaw')*</small> ==**Milcah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎מַלְכָּה‎</span><sup><small>[[H4436]]</small></sup>; queen</small>
+**<big><span class="ashebrew">‎מִלְכָּה‎</span></big>** **Milkâh** <small>*(mil-kaw')*</small> ==**Milcah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>a form of **<big>[[H4436|‎מַלְכָּה‎]]</big>**; queen</small>
 
 $\quad$ Milcah.
 - § Milcah = *"queen"*

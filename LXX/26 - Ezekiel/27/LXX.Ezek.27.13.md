@@ -7,28 +7,28 @@ Javan, Tubal, and Meshech, they [were] thy merchants: they traded the persons of
 Javan, Tubal, and Meshech were your merchants. They exchanged slaves and bronze utensils for your merchandise.<small><sub>**MT:**</sub></small>
 [[Ezek.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Greek | <big><span class="asgreek">Ελλάς</span></big> <sup><small><small>[[G1673]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole \[world\], | <big><span class="asgreek">σύμπασα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| extending; | <big><span class="asgreek">παρατείνοντα</span></big> <sup><small><small>[[G3905]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| traded | <big><span class="asgreek">ενεπορεύοντό</span></big> <sup><small><small>[[G1710]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| lives | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of men; | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of brass | <big><span class="asgreek">χαλκά</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your trade. | <big><span class="asgreek">εμπορία</span></big> <sup><small><small>[[G1711]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| Greek | **<big>[[G1673\|Ελλάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| whole \[world\], | **<big>[[G9270\|σύμπασα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| extending; | **<big>[[G3905\|παρατείνοντα]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| traded | **<big>[[G1710\|ενεπορεύοντό]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| lives | **<big>[[G5590\|ψυχαίς]]</big>** |
+| of men; | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of brass | **<big>[[G5470\|χαλκά]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| for your trade. | **<big>[[G1711\|εμπορία]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
 

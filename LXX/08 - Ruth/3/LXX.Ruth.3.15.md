@@ -7,36 +7,36 @@ Also he said, Bring the vail that [thou hast] upon thee, and hold it. And when s
 And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he poured in six measures of barley and placed it on her. Then he went into the city.<small><sub>**MT:**</sub></small>
 [[Ruth.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.14|<< Ruth 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.16|Ruth 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Bring | <big><span class="asgreek">φέρε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apron, | <big><span class="asgreek">περίζωμα</span></big> <sup><small><small>[[G8726]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hold | <big><span class="asgreek">κράτησον</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And she | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| held | <big><span class="asgreek">εκράτησεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured out | <big><span class="asgreek">εμέτρησεν</span></big> <sup><small><small>[[G3354]]</small></small></sup> |
-| six \[measures\] | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| of barley, | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed them | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| Bring | **<big>[[G5342\|φέρε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| apron, | **<big>[[G8726\|περίζωμα]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hold | **<big>[[G2902\|κράτησον]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
+| And she | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| held | **<big>[[G2902\|εκράτησεν]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured out | **<big>[[G3354\|εμέτρησεν]]</big>** |
+| six \[measures\] | **<big>[[G1803\|εξ]]</big>** |
+| of barley, | **<big>[[G2915\|κριθών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed them | **<big>[[G2007\|επέθηκεν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city. | **<big>[[G4172\|πόλιν]]</big>** |
 [[Ruth.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.14|<< Ruth 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.16|Ruth 3:16 >>]]</td></tr></table>
 
 

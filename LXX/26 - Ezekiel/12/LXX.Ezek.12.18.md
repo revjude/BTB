@@ -7,23 +7,23 @@ Son of man, eat thy bread with quaking, and drink thy water with trembling and w
 “Son of man, eat your bread with trembling, and drink your water with quivering and anxiety.<small><sub>**MT:**</sub></small>
 [[Ezek.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.17|<< Ezekiel 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.19|Ezekiel 12:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| grief | <big><span class="asgreek">οδύνης</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φαγεσαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| torment | <big><span class="asgreek">βασάνου</span></big> <sup><small><small>[[G0931]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| you shall drink | <big><span class="asgreek">πίεσαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| grief | **<big>[[G3601\|οδύνης]]</big>** |
+| you shall eat | **<big>[[G2068\|φαγεσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your water | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| torment | **<big>[[G0931\|βασάνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| affliction | **<big>[[G2347\|θλίψεως]]</big>** |
+| you shall drink | **<big>[[G4095\|πίεσαι]]</big>** |
 [[Ezek.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.17|<< Ezekiel 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.19|Ezekiel 12:19 >>]]</td></tr></table>
 
 

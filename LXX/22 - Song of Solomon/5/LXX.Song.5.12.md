@@ -7,21 +7,21 @@ His eyes [are] as [the eyes] of doves by the rivers of waters, washed with milk,
 His eyes are like doves beside the streams of water, bathed in milk and mounted like jewels.<small><sub>**MT:**</sub></small>
 [[Song.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.11|<< Song of Solomon 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.13|Song of Solomon 5:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| His eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| doves | <big><span class="asgreek">περιστεραί</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] fullnesses | <big><span class="asgreek">πληρώματα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of waters, | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| being bathed | <big><span class="asgreek">λελουσμέναι</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| milk, | <big><span class="asgreek">γάλακτι</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| sitting down | <big><span class="asgreek">καθήμεναι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] fullnesses | <big><span class="asgreek">πληρώματα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of waters. | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| His eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| doves | **<big>[[G4058\|περιστεραί]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] fullnesses | **<big>[[G4138\|πληρώματα]]</big>** |
+| of waters, | **<big>[[G5204\|υδάτων]]</big>** |
+| being bathed | **<big>[[G3068\|λελουσμέναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| milk, | **<big>[[G1051\|γάλακτι]]</big>** |
+| sitting down | **<big>[[G2521\|καθήμεναι]]</big>** |
+| upon | **<big>[[G1909\|επι]]</big>** |
+| \[the\] fullnesses | **<big>[[G4138\|πληρώματα]]</big>** |
+| of waters. | **<big>[[G5204\|υδάτων]]</big>** |
 [[Song.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.11|<< Song of Solomon 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.13|Song of Solomon 5:13 >>]]</td></tr></table>
 
 

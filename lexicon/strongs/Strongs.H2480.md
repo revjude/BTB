@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָלַט‎</span></big> **châlaṭ** <small>*(khaw-lat')*</small> ==**to catch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָלַט‎</span></big>** **châlaṭ** <small>*(khaw-lat')*</small> ==**to catch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ catch.

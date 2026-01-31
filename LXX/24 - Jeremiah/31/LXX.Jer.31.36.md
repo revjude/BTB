@@ -7,30 +7,30 @@ If those ordinances depart from before me, saith the LORD, [then] the seed of Is
 “Only if this fixed order departed from My presence, declares the LORD, would Israel’s descendants ever cease to be a nation before Me.”<small><sub>**MT:**</sub></small>
 [[Jer.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.35|<< Jeremiah 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.37|Jeremiah 31:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should cease | <big><span class="asgreek">παύσωνται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| laws | <big><span class="asgreek">νόμοι</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| race | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| shall cease | <big><span class="asgreek">παύσεται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| to become | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should cease | **<big>[[G3973\|παύσωνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| laws | **<big>[[G3551\|νόμοι]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of me, | **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| race | **<big>[[G1085\|γένος]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| shall cease | **<big>[[G3973\|παύσεται]]</big>** |
+| to become | **<big>[[G1096\|γενέσθαι]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπόν]]</big>** |
+| of me | **<big>[[G1473\|μου]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Jer.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.35|<< Jeremiah 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.37|Jeremiah 31:37 >>]]</td></tr></table>
 
 

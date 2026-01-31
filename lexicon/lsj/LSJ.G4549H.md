@@ -1,4 +1,4 @@
-Greek of: <small>[[H7586G]]</small> 
+Greek of: <small>**<big>[[H7586G|שָׁאוּל]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σαούλ==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

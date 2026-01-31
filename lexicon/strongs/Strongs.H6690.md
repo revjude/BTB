@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צוֹפַח‎</span></big> **Tsôwphach** <small>*(tso-fakh')*</small> ==**Zophah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎צוֹפַח‎</span></big>** **Tsôwphach** <small>*(tso-fakh')*</small> ==**Zophah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to expand, breadth</small>
 
 $\quad$ Zophah.

@@ -7,20 +7,20 @@ Be not thou afraid when one is made rich, when the glory of his house is increas
 Do not be afraid when a man grows rich, when the splendor of his house increases.<small><sub>**MT:**</sub></small>
 [[Ps.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.15|<< Psalm 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.17|Psalm 49:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be enriched | <big><span class="asgreek">πλουτήση</span></big> <sup><small><small>[[G4147]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be multiplied | <big><span class="asgreek">πληθυνθή</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβού]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be enriched | **<big>[[G4147\|πλουτήση]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be multiplied | **<big>[[G4129\|πληθυνθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.15|<< Psalm 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.17|Psalm 49:17 >>]]</td></tr></table>
 
 

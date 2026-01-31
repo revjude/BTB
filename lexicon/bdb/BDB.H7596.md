@@ -1,4 +1,4 @@
-<small>Also see: [[H7956]]</small>
+<small>Also see: **<big>[[H7956|שֵׁלָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שְׁאֵלָה‎</span> [I. <span class="bdbLangHebrew">‎שֵׁלָה‎</span>] **noun feminine** ==request, thing asked for==: — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׁא‎</span> [[Judg.8.24|Judg 8:24]], +; suffix <span class="bdbLangHebrew">‎שְׁאֵלָתִּי‎</span> [[1Sam.1.27|1Sam 1:27]] +, <span class="bdbLangHebrew">‎שֶׁאֱלָתּי‎</span> [[Job.6.8|Job 6:8]], <span class="bdbLangHebrew">‎שְׁאֵלָתֵךְ‎</span> [[Esth.5.6|Esth 5:6]] +, <span class="bdbLangHebrew">‎שֵׁלָתֵךְ‎</span> [[1Sam.1.17|1Sam 1:17]], <span class="bdbLangHebrew">‎שֶׁאֱלָתָם‎</span> [[Ps.106.15|Ps 106:15]] — 
 

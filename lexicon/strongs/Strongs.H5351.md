@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְקֻדָּה‎</span></big> **nᵉquddâh** <small>*(ned-ood-daw')*</small> ==**bead**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נָקֹד‎</span><sup><small>[[H5348]]</small></sup></small>
+**<big><span class="ashebrew">‎נְקֻדָּה‎</span></big>** **nᵉquddâh** <small>*(ned-ood-daw')*</small> ==**bead**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5348|‎נָקֹד‎]]</big>**</small>
 
 $\quad$ stud.
 - ***a boss***
@@ -7,4 +7,4 @@ $\quad$ stud.
 **1)** point, drop
 $\quad$ **1a)** of silver
 
-<sub><small>See Greek: </small></sub><span class="asgreek">στίγμα</span><sup><small>[[G4742]]</small></sup>
+<small>See Greek: </small>**<big>[[G4742|στίγμα]]</big>**

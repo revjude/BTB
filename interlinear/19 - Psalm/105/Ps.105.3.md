@@ -6,15 +6,15 @@ Glory in His holy name; let the hearts of those who seek the LORD rejoice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.2|<< Psalms 105:2]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.4|Psalms 105:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| boast  | <span class="ashebrew"><big>הִֽ֭תְהַלְלוּ </big></span><small><small><sup>[[H1984H]]</sup></small></small> &#8207;| Hit.ha.lu <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] name of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֣ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness his  | <span class="ashebrew"><big>קָדְשׁ֑ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ka.de.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it rejoice  | <span class="ashebrew"><big>יִ֝שְׂמַ֗ח </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| yis.Mach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heart of  | <span class="ashebrew"><big>לֵ֤ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] seek  | <span class="ashebrew"><big>מְבַקְשֵׁ֬י </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| me.vak.Shei <small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| boast  |**<big>&#8207;[[H1984H\|הִֽ֭תְהַלְלוּ]]&#8207; </big>**| Hit.ha.lu<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness his  |**<big>&#8207;[[H6944G\|קָדְשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.de.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it rejoice  |**<big>&#8207;[[H8055\|יִ֝שְׂמַ֗ח]]&#8207; </big>**| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֤ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] seek  |**<big>&#8207;[[H1245\|מְבַקְשֵׁ֬י]]&#8207; </big>**| me.vak.Shei<small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.2|<< Psalms 105:2]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.4|Psalms 105:4 >>]]</td></tr></table>
 
 

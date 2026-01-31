@@ -1,6 +1,6 @@
-<span class="asform"><span class="asgreek"><span class="asbold">φωστήρ</span></span>, <span class="asgreek">-ῆρος, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">φῶς</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.1.14|Ge 1:14]], [[LXX.Gen.1.16|16]] (<span class="ashebrew">מָאוֹר</span> <small><sup>[[H3974]]</sup></small>), [[LXX.Dan.12.3|Da LXX 12:3]] (<span class="ashebrew">זֹהַר</span> <small><sup>[[H2096]]</sup></small>), [[1Esd.8.79|I Es 8:79]], [[Wis.13.2|Wi 13:2]], [[Sir.43.7|Si 43:7]] \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">φωστήρ</span></span>, <span class="asgreek">-ῆρος, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">φῶς</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.1.14|Ge 1:14]], [[LXX.Gen.1.16|16]] (**<big>[[H3974|מָאוֹר]]</big>**), [[LXX.Dan.12.3|Da LXX 12:3]] (**<big>[[H2096|זֹהַר]]</big>**), [[1Esd.8.79|I Es 8:79]], [[Wis.13.2|Wi 13:2]], [[Sir.43.7|Si 43:7]] \* ;\] </span> </span>
 <span class="asitalic">a luminary, light</span>: [[Phil.2.15|Phl 2:15]], [[Rev.21.11|Re 21:11]].†
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asref"><span class="asgreek">φέγγος</span> <small><sup>[[G5338]]</sup></small></span>, <span class="asref"><span class="asgreek">φῶς</span> <small><sup>[[G5457]]</sup></small></span>  </span>
+<span class="asre"><span class="asitalic">SYN.</span>: <span class="asref">**<big>[[G5338|φέγγος]]</big>**</span>, <span class="asref">**<big>[[G5457|φῶς]]</big>**</span>  </span>
 
 **Abbott-Smith References**
 

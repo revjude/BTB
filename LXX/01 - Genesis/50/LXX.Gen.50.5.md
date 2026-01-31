@@ -7,34 +7,34 @@ My father made me swear, saying, Lo, I die: in my grave which I have digged for 
 my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”<small><sub>**MT:**</sub></small>
 [[Gen.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.4|<< Genesis 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.6|Genesis 50:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bound me by an oath | <big><span class="asgreek">ώρκισέ</span></big> <sup><small><small>[[G3726]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his coming to an end, | <big><span class="asgreek">τελευτήσαι</span></big> <sup><small><small>[[G5053]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| memorial | <big><span class="asgreek">μνημείω</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I dug | <big><span class="asgreek">ώρυξα</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| myself, | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| entomb me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">θάψεις</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| ascending, | <big><span class="asgreek">αναβάς</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| I will entomb | <big><span class="asgreek">θάψω</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father, | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return back. | <big><span class="asgreek">επανελεύσομαι</span></big> <sup><small><small>[[G1880]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| bound me by an oath | **<big>[[G3726\|ώρκισέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his coming to an end, | **<big>[[G5053\|τελευτήσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| memorial | **<big>[[G3419\|μνημείω]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| I dug | **<big>[[G3736\|ώρυξα]]</big>** |
+| myself, | **<big>[[G1683\|εμαυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| entomb me! | **<big>[[G1473\|με]]</big>** **<big>[[G2290\|θάψεις]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| ascending, | **<big>[[G0305\|αναβάς]]</big>** |
+| I will entomb | **<big>[[G2290\|θάψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my father, | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will return back. | **<big>[[G1880\|επανελεύσομαι]]</big>** |
 [[Gen.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.4|<< Genesis 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.6|Genesis 50:6 >>]]</td></tr></table>
 
 

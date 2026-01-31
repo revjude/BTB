@@ -7,21 +7,21 @@ For from Israel [was] it also: the workman made it; therefore it [is] not God: b
 For this thing is from Israel—a craftsman made it, and it is not God. It will be broken to pieces, that calf of Samaria.<small><sub>**MT:**</sub></small>
 [[Hos.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.5|<< Hosea 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.7|Hosea 8:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] fabricator | <big><span class="asgreek">τέκτων</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| was wandering \[you\] | <big><span class="asgreek">πλανών</span></big> <sup><small><small>[[G4105]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your calf | <big><span class="asgreek">μόσχος</span></big> <sup><small><small>[[G3448]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Samaria. | <big><span class="asgreek">Σαμάρεια</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| \[the\] fabricator | **<big>[[G5045\|τέκτων]]</big>** |
+| made | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| was wandering \[you\] | **<big>[[G4105\|πλανών]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your calf | **<big>[[G3448\|μόσχος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Samaria. | **<big>[[G4540\|Σαμάρεια]]</big>** |
 [[Hos.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.5|<< Hosea 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.7|Hosea 8:7 >>]]</td></tr></table>
 
 

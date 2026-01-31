@@ -10,33 +10,33 @@ I have smitten you with blasting and mildew: when your gardens and your vineyard
 “I struck you with blight and mildew in your growing gardens and vineyards; the locust devoured your fig and olive trees, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Amos.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.8|<< Amos 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.10|Amos 4:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I struck | <big><span class="asgreek">επάταξα</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| burning fire | <big><span class="asgreek">πυρώσει</span></big> <sup><small><small>[[G4451]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| jaundice. | <big><span class="asgreek">ικτέρω</span></big> <sup><small><small>[[G7716]]</small></small></sup> |
-| You multiplied | <big><span class="asgreek">επληθύνατε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| your gardens. | <big><span class="asgreek">κήπους</span></big> <sup><small><small>[[G2779]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Your vineyards, | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your fig groves, | <big><span class="asgreek">συκώνας υμών</span></big> <sup><small><small>[[G9246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your olive groves -- | <big><span class="asgreek">ελαιώνας</span></big> <sup><small><small>[[G1638]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| devoured \[them\] | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| caterpillar | <big><span class="asgreek">κάμπη</span></big> <sup><small><small>[[G7791]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| neither | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you returned | <big><span class="asgreek">επεστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I struck | **<big>[[G3960\|επάταξα]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| burning fire | **<big>[[G4451\|πυρώσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| jaundice. | **<big>[[G7716\|ικτέρω]]</big>** |
+| You multiplied | **<big>[[G4129\|επληθύνατε]]</big>** |
+| your gardens. | **<big>[[G2779\|κήπους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| Your vineyards, | **<big>[[G0290\|αμπελώνας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your fig groves, | **<big>[[G9246\|συκώνας υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your olive groves -- | **<big>[[G1638\|ελαιώνας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| devoured \[them\] | **<big>[[G2719\|κατέφαγεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| caterpillar | **<big>[[G7791\|κάμπη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| neither | **<big>[[G3761\|ουδ΄]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| you returned | **<big>[[G1994\|επεστρέψατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Amos.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.8|<< Amos 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.10|Amos 4:10 >>]]</td></tr></table>
 
 

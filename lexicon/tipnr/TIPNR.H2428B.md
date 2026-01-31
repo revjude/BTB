@@ -1,8 +1,8 @@
 <small>*Helech • A place or people mentioned in Ezekiel's prophecy.*</small>
 
 <span class='tipnrhighlight'>Helech</span> was either a place, possibly in Cilicia, or a term referring to the army of Tyre, mentioned in Ezekiel's prophecy against Tyre.
-- A location near Arvad<[[H0719]]> only mentioned at [[Ezek.27.11|Ezk.27.11]]; 
-- only referred to as Helech<[[H2428B]]> \(<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ך</span>ְ\).
+- A location near Arvad **<big>[[H0719|אַרְוַד]]</big>** only mentioned at [[Ezek.27.11|Ezk.27.11]]; 
+- only referred to as Helech **<big>[[H2428|חַיִל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.856082,35.858485&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Given the limited information provided in the single biblical reference, the exa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Helech (KJV= thine army; NIV= Helek) | [<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ך</span>ְ](H2428B) <small>*Hebrew*</small> | 1x | [Ezk.27.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helech\*\|reference=Ezk.27.11) |
-All Strong's for **Helech**: \[[[H2428B]]\]
+| Helech (KJV= thine army; NIV= Helek) | [<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ך</span>ְ](H2428B) | 1x | [Ezk.27.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helech\*\|reference=Ezk.27.11) |
+All entries for **Helech**:  **<big>[[H2428|חַיִל]]</big>**

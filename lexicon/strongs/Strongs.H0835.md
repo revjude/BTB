@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶשֶׁר‎</span></big> **ʼesher** <small>*(eh'-sher)*</small> ==**blessed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶשֶׁר‎</span></big>** **ʼesher** <small>*(eh'-sher)*</small> ==**blessed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0833|‎אָשַׁר‎]]</big>**</small>
 
 $\quad$ blessed, happy.
 - ***happiness***

@@ -6,17 +6,17 @@ The clouds poured down water; the skies resounded with thunder; Your arrows flas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.16|<< Psalms 77:16]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.18|Psalms 77:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they poured forth  | <span class="ashebrew"><big>זֹ֤רְמוּ </big></span><small><small><sup>[[H2229]]</sup></small></small> &#8207;| Zo.re.mu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מַ֨יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clouds  | <span class="ashebrew"><big>עָב֗וֹת </big></span><small><small><sup>[[H5645]]</sup></small></small> &#8207;| a.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sound  | <span class="ashebrew"><big>ק֭וֹל </big></span><small><small><sup>[[H6963I]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they gave forth  | <span class="ashebrew"><big>נָתְנ֣וּ </big></span><small><small><sup>[[H5414M]]</sup></small></small> &#8207;| na.te.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clouds  | <span class="ashebrew"><big>שְׁחָקִ֑ים </big></span><small><small><sup>[[H7834]]</sup></small></small> &#8207;| she.cha.Kim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrows your  | <span class="ashebrew"><big>חֲ֝צָצֶ֗י </big></span><small><small><sup>[[H2671]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| cha.tza.Tzei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they went about  | <span class="ashebrew"><big>יִתְהַלָּֽכוּ </big></span><small><small><sup>[[H1980I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yit.ha.La.khu <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they poured forth  |**<big>&#8207;[[H2229\|זֹ֤רְמוּ]]&#8207; </big>**| Zo.re.mu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clouds  |**<big>&#8207;[[H5645\|עָב֗וֹת]]&#8207; </big>**| a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sound  |**<big>&#8207;[[H6963I\|ק֭וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they gave forth  |**<big>&#8207;[[H5414M\|נָתְנ֣וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clouds  |**<big>&#8207;[[H7834\|שְׁחָקִ֑ים]]&#8207; </big>**| she.cha.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrows your  |**<big>&#8207;[[H2671\|חֲ֝צָצֶ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| cha.tza.Tzei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they went about  |**<big>&#8207;[[H1980I\|יִתְהַלָּֽכוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.ha.La.khu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.16|<< Psalms 77:16]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.18|Psalms 77:18 >>]]</td></tr></table>
 
 

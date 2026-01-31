@@ -7,28 +7,28 @@ Yea, he loved the people; all his saints [are] in thy hand: and they sat down at
 Surely You love the people; all the holy ones are in Your hand, and they sit down at Your feet; each receives Your words—<small><sub>**MT:**</sub></small>
 [[Deut.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.2|<< Deuteronomy 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.4|Deuteronomy 33:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spared | <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being sanctified | <big><span class="asgreek">ηγιασμένοι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| by | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands; | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he received | <big><span class="asgreek">εδέξατο</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spared | **<big>[[G5339\|εφείσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones being sanctified | **<big>[[G0037\|ηγιασμένοι]]</big>** |
+| by | **<big>[[G1909\|επι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hands; | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| are | **<big>[[G1510\|εισί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he received | **<big>[[G1209\|εδέξατο]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his words | **<big>[[G3056\|λόγων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.2|<< Deuteronomy 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.4|Deuteronomy 33:4 >>]]</td></tr></table>
 
 

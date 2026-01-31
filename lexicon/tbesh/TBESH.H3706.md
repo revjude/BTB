@@ -1,4 +1,3 @@
-<span class="asaramaic">‎כְּעֶ֫נֶת‎</span> <small>***(ke.e.net)***</small> ==**now**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-Aramaic of: <small>[[H3705]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3705|כְּעַן]]</big>**</small> 
 
-- Aramaic of <i>ke.an</i> (<span class='ashebrew'>‎כ‎</span>ְּ<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ן‎</span> "now" [[H3705]])
+- Aramaic of <i>ke.an</i> (<span class='ashebrew'>‎כ‎</span>ְּ<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ן‎</span> "now" **<big>[[H3705|כְּעַן]]</big>**)

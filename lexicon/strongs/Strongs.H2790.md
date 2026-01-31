@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָרַשׁ‎</span></big> **chârash** <small>*(khaw-rash')*</small> ==**to plow/plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָרַשׁ‎</span></big>** **chârash** <small>*(khaw-rash')*</small> ==**to plow/plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] altogether, cease, conceal, be deaf, devise, ear, graven, imagine, leave off speaking, hold peace, plow(-er, man), be quiet, rest, practise secretly, keep silence, be silent, speak not a word, be still, hold tongue, worker.
@@ -25,4 +25,4 @@ $\quad$ $\quad$ **2b2)** to make silent
 $\quad$ $\quad$ **2b3)** to be deaf, show deafness
 $\quad$ **2c)** (Hithpael) to remain silent
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">αἰσχύνομαι</span><sup><small>[[G0153]]</small></sup> · <span class="asgreek">ἀροτριόω</span><sup><small>[[G0722]]</small></sup> · <span class="asgreek">ἡσυχάζω</span><sup><small>[[G2270]]</small></sup> · <span class="asgreek">ἡσυχία</span><sup><small>[[G2271]]</small></sup> · <span class="asgreek">θερίζω</span><sup><small>[[G2325]]</small></sup> · <span class="asgreek">κατασκευάζω</span><sup><small>[[G2680]]</small></sup> · <span class="asgreek">παρακούω</span><sup><small>[[G3878]]</small></sup> · <span class="asgreek">σιγάω</span><sup><small>[[G4601]]</small></sup> · <span class="asgreek">σιωπάω</span><sup><small>[[G4623]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0153|αἰσχύνομαι]]</big>** · **<big>[[G0722|ἀροτριόω]]</big>** · **<big>[[G2270|ἡσυχάζω]]</big>** · **<big>[[G2271|ἡσυχία]]</big>** · **<big>[[G2325|θερίζω]]</big>** · **<big>[[G2680|κατασκευάζω]]</big>** · **<big>[[G3878|παρακούω]]</big>** · **<big>[[G4601|σιγάω]]</big>** · **<big>[[G4623|σιωπάω]]</big>**

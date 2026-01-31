@@ -7,43 +7,43 @@ Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams
 you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.<small><sub>**MT:**</sub></small>
 [[Deut.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.2|<< Deuteronomy 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.4|Deuteronomy 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">ακούσεσθε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that prophet, | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one dreaming | <big><span class="asgreek">ενυπνιαζομένου</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that dream; | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> <big><span class="asgreek">εκείνο</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| tests | <big><span class="asgreek">πειράζει</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to know, | <big><span class="asgreek">ειδέναι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you love | <big><span class="asgreek">αγαπάτε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| hearken to | **<big>[[G0191\|ακούσεσθε]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of that prophet, | **<big>[[G4396\|προφήτου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| one dreaming | **<big>[[G1797\|ενυπνιαζομένου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| that dream; | **<big>[[G1798\|ενύπνιον]]</big>** **<big>[[G1565\|εκείνο]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| tests | **<big>[[G3985\|πειράζει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to know, | **<big>[[G1492\|ειδέναι]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you love | **<big>[[G0025\|αγαπάτε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| soul | **<big>[[G5590\|ψυχής]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
 [[Deut.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.2|<< Deuteronomy 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.4|Deuteronomy 13:4 >>]]</td></tr></table>
 
 

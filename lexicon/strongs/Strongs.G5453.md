@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎φύω‎</span></big> **phýō** <small>*(foo'-o)*</small> ==**to grow**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎φύω‎</span></big>** **phýō** <small>*(foo'-o)*</small> ==**to grow**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ spring (up).

@@ -6,17 +6,17 @@ Look at Behemoth, which I made along with you. He feeds on grass like an ox.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.14|<< Job 40:14]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.16|Job 40:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hi.neh- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֣א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Behemoth  | <span class="ashebrew"><big>בְ֭הֵמוֹת </big></span><small><small><sup>[[H0930]]</sup></small></small> &#8207;| Ve.he.mot <small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I made  | <span class="ashebrew"><big>עָשִׂ֣יתִי </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Si.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with you  | <span class="ashebrew"><big>עִמָּ֑ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| 'i.Ma <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grass  | <span class="ashebrew"><big>חָ֝צִ֗יר </big></span><small><small><sup>[[H2682A]]</sup></small></small> &#8207;| cha.Tzir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> ox  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>בָּקָ֥ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it eats  | <span class="ashebrew"><big>יֹאכֵֽל </big></span><small><small><sup>[[H0398]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.Khel <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Behemoth  |**<big>&#8207;[[H0930\|בְ֭הֵמוֹת]]&#8207; </big>**| Ve.he.mot<small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I made  |**<big>&#8207;[[H6213H\|עָשִׂ֣יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  |**<big>&#8207;[[H5973A\|עִמָּ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grass  |**<big>&#8207;[[H2682A\|חָ֝צִ֗יר]]&#8207; </big>**| cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> ox  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1241\|בָּקָ֥ר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it eats  |**<big>&#8207;[[H0398\|יֹאכֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Khel<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.14|<< Job 40:14]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.16|Job 40:16 >>]]</td></tr></table>
 
 

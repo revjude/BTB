@@ -7,34 +7,34 @@ The king answered unto Daniel, and said, Of a truth [it is], that your God [is] 
 The king said to Daniel, “Your God is truly the God of gods and Lord of kings, the Revealer of Mysteries, since you were able to reveal this mystery.”<small><sub>**MT:**</sub></small>
 [[Dan.2.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.46|<< Daniel 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.48|Daniel 2:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responding | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| In | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he is | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings, | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| uncovering | <big><span class="asgreek">αποκαλύπτων</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| mysteries, | <big><span class="asgreek">μυστήρια</span></big> <sup><small><small>[[G3466]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you were able | <big><span class="asgreek">ηδυνήθης</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to uncover | <big><span class="asgreek">αποκαλύψαι</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this mystery. | <big><span class="asgreek">μυστήριον</span></big> <sup><small><small>[[G3466]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| responding | **<big>[[G0611\|αποκριθείς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| In | **<big>[[G1909\|επ΄]]</big>** |
+| truth | **<big>[[G0225\|αληθείας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| he is | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of gods, | **<big>[[G2316\|θεών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lord | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| kings, | **<big>[[G0935\|βασιλέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| uncovering | **<big>[[G0601\|αποκαλύπτων]]</big>** |
+| mysteries, | **<big>[[G3466\|μυστήρια]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you were able | **<big>[[G1410\|ηδυνήθης]]</big>** |
+| to uncover | **<big>[[G0601\|αποκαλύψαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this mystery. | **<big>[[G3466\|μυστήριον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 [[Dan.2.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.46|<< Daniel 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.48|Daniel 2:48 >>]]</td></tr></table>
 
 

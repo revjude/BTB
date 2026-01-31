@@ -1,4 +1,4 @@
-<small>Also see: [[H5884]]</small>
+<small>Also see: **<big>[[H5884|עֵין רִמּוֹן]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎עַ֫יִן‎</span> 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Accad</span>, one of the cities in Nimrod's kingdom, likely the Akkadian city of Akkad.
 - A location only mentioned at [[Gen.10.10|Gen.10.10]]; 
-- only referred to as Accad<[[H0390]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Accad **<big>[[H0390|אַכַּד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.09201653975629,44.12924814594658&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Accad is mentioned in [[Gen.10.10|Genesis 10:10]] as one of the four cities that
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Accad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ד</span>](H0390) <small>*Hebrew*</small> | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Accad\*\|reference=Gen.10.10) |
-All Strong's for **Accad**: \[[[H0390]]\]
+| Accad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ד</span>](H0390) | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Accad\*\|reference=Gen.10.10) |
+All entries for **Accad**:  **<big>[[H0390|אַכַּד]]</big>**

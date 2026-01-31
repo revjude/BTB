@@ -6,21 +6,21 @@ In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.35|<< Ezekiel 48:35]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.2|Daniel 1:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in year  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שְׁנַ֣ת </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> sh.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שָׁל֔וֹשׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| sha.Lo.osh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] reign of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַלְכ֖וּת </big></span><small><small><sup>[[H4438]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mal.Khut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehoiakim  | <span class="ashebrew"><big>יְהוֹיָקִ֣ים </big></span><small><small><sup>[[H3079]]</sup></small></small> &#8207;| ye.ho.ya.Kim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he came  | <span class="ashebrew"><big>בָּ֣א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ba' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nebuchadnezzar  | <span class="ashebrew"><big>נְבוּכַדְנֶאצַּ֧ר </big></span><small><small><sup>[[H5019]]</sup></small></small> &#8207;| ne.vu.khad.ne.Tzar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֛ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֖ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he laid siege  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֥צַר </big></span><small><small><sup>[[H6696A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.tzar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶֽי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HR]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שָׁל֔וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] reign of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4438\|מַלְכ֖וּת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiakim  |**<big>&#8207;[[H3079\|יְהוֹיָקִ֣ים]]&#8207; </big>**| ye.ho.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he came  |**<big>&#8207;[[H0935G\|בָּ֣א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  |**<big>&#8207;[[H5019\|נְבוּכַדְנֶאצַּ֧ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֛ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֖ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he laid siege  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6696A\|יָּ֥צַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.tzar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶֽי]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.35|<< Ezekiel 48:35]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.2|Daniel 1:2 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Simon</span> the leper was a man in Bethany who hosted a meal for Jesus, during which a woman anointed Jesus with expensive perfume.
 - A man living at the time of the New Testament, first mentioned at [[Matt.26.6|Mat.26.6]]; 
-- only referred to as Simon<[[G4613I]]> \(<span class='tipnrLangGreek'>Σίμων</span>\).
+- only referred to as Simon **<big>[[G4613|Σίμων]]</big>**.
 
 Simon the leper is mentioned in [[Matt.26.6|Matthew 26:6]] and [[Mark.14.3|Mark 14:3]] as a man living in Bethany who hosted a meal for Jesus. The Gospel of Luke also mentions a similar event, but the host is called Simon the Pharisee \([[Luke.7.40|Luke 7:40]],43,44\). 
 
@@ -14,5 +14,5 @@ The title "the leper" suggests that Simon had been afflicted with leprosy at som
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Simon | [<span class='tipnrLangGreek'>Σίμων</span>](G4613I) <small>*Greek*</small> | 5x | [[Mat.26.6] ... [Luk.7.44] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simon\*\|reference=Mat.26.6;Mrk.14.3;Luk.7.40;Luk.7.43;Luk.7.44) |
-All Strong's for **Simon**: \[[[G4613I]]\]
+| Simon | [<span class='tipnrLangGreek'>Σίμων</span>](G4613I) | 5x | [[Mat.26.6] ... [Luk.7.44] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simon\*\|reference=Mat.26.6;Mrk.14.3;Luk.7.40;Luk.7.43;Luk.7.44) |
+All entries for **Simon**:  **<big>[[G4613|Σίμων]]</big>**

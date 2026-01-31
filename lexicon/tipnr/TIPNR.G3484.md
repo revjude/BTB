@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Nain</span> was a town in Galilee where Jesus raised a widow's son from the dead.
 - A location only mentioned at [[Luke.7.11|Luk.7.11]]; 
-- only referred to as Nain<[[G3484]]> \(<span class='tipnrLangGreek'>Ναΐν</span>\).
+- only referred to as Nain **<big>[[G3484|Ναΐν]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.63083336680386,35.34782689102158&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Nain was a town in Galilee, mentioned in the New Testament as the place where Je
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nain | [<span class='tipnrLangGreek'>Ναΐν</span>](G3484) <small>*Greek*</small> | 1x | [Luk.7.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nain\*\|reference=Luk.7.11) |
-All Strong's for **Nain**: \[[[G3484]]\]
+| Nain | [<span class='tipnrLangGreek'>Ναΐν</span>](G3484) | 1x | [Luk.7.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nain\*\|reference=Luk.7.11) |
+All entries for **Nain**:  **<big>[[G3484|Ναΐν]]</big>**

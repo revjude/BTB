@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁחִיף‎</span></big> **shâchîyph** <small>*(shaw-kheef')*</small> ==**paneled**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שַׁחַף‎</span><sup><small>[[H7828]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁחִיף‎</span></big>** **shâchîyph** <small>*(shaw-kheef')*</small> ==**paneled**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from the same as **<big>[[H7828|‎שַׁחַף‎]]</big>**</small>
 
 $\quad$ cieled with.
 - ***a board*** (as chipped thin)

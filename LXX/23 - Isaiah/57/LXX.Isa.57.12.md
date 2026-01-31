@@ -7,19 +7,19 @@ I will declare thy righteousness, and thy works; for they shall not profit thee.
 I will expose your righteousness and your works, and they will not profit you.<small><sub>**MT:**</sub></small>
 [[Isa.57.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.11|<< Isaiah 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.13|Isaiah 57:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will report | <big><span class="asgreek">απαγγελώ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your righteousness; | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| benefit | <big><span class="asgreek">ωφελήσουσί</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will report | **<big>[[G0518\|απαγγελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your righteousness; | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your evils | **<big>[[G2556\|κακά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| benefit | **<big>[[G5623\|ωφελήσουσί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Isa.57.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.11|<< Isaiah 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.13|Isaiah 57:13 >>]]</td></tr></table>
 
 

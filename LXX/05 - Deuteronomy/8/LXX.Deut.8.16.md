@@ -7,39 +7,39 @@ Who fed thee in the wilderness with manna, which thy fathers knew not, that he m
 He fed you in the wilderness with manna that your fathers had not known, in order to humble you and test you, so that in the end He might cause you to prosper.<small><sub>**MT:**</sub></small>
 [[Deut.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.15|<< Deuteronomy 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.17|Deuteronomy 8:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feeding | <big><span class="asgreek">ψωμίσαντός</span></big> <sup><small><small>[[G5595]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| manna | <big><span class="asgreek">μάννα</span></big> <sup><small><small>[[G3131]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| had not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| known | <big><span class="asgreek">ήδεις</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should afflict | <big><span class="asgreek">κακώση</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should put you to the test, | <big><span class="asgreek">εκπειράση</span></big> <sup><small><small>[[G1598]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| unto you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] last | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your days; | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the one | **<big>[[G3588\|του]]</big>** |
+| feeding | **<big>[[G5595\|ψωμίσαντός]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| manna | **<big>[[G3131\|μάννα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| had not | **<big>[[G3756\|ουκ]]</big>** |
+| known | **<big>[[G1492\|ήδεις]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδεισαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should afflict | **<big>[[G2559\|κακώση]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should put you to the test, | **<big>[[G1598\|εκπειράση]]</big>** **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| unto you | **<big>[[G1473\|σε]]</big>** |
+| do | **<big>[[G4160\|ποιήση]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] last | **<big>[[G2078\|εσχάτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your days; | **<big>[[G2250\|ημερών]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.15|<< Deuteronomy 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.17|Deuteronomy 8:17 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אַל‎</span></big> **ʼal** <small>*(al)*</small> ==**not**==  <sup><small>[[TEHMC#A:Neg|A:Neg]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אַל‎</span><sup><small>[[H0408]]</small></sup></small>
+**<big><span class="asaramaic">‎אַל‎</span></big>** **ʼal** <small>*(al)*</small> ==**not**==  <sup><small>[[TEHMC#A:Neg|A:Neg]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0408|‎אַל‎]]</big>**</small>
 
 $\quad$ not.
 - {***not*** (the qualified negation, used as a deprecative)

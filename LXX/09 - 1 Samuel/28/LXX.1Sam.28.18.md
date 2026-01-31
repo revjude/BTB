@@ -7,30 +7,30 @@ Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath
 Because you did not obey the LORD or carry out His burning anger against Amalek, the LORD has done this to you today.<small><sub>**MT:**</sub></small>
 [[1Sam.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.17|<< 1 Samuel 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.19|1 Samuel 28:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| you hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fill | <big><span class="asgreek">έπλησας</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amalek; | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| you hearkened not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσας]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| fill | **<big>[[G4130\|έπλησας]]</big>** |
+| rage | **<big>[[G2372\|θυμόν]]</big>** |
+| of anger | **<big>[[G3709\|οργής]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Amalek; | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> did | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
 [[1Sam.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.17|<< 1 Samuel 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.19|1 Samuel 28:19 >>]]</td></tr></table>
 
 

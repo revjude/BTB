@@ -7,42 +7,42 @@ And when the inhabitants of the land, the Canaanites, saw the mourning in the fl
 When the Canaanites of the land saw the mourning at the threshing floor of Atad, they said, “This is a solemn ceremony of mourning by the Egyptians.” Thus the place across the Jordan is called Abel-mizraim.<small><sub>**MT:**</sub></small>
 [[Gen.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.10|<< Genesis 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.12|Genesis 50:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitants | <big><span class="asgreek">κάτοικοι</span></big> <sup><small><small>[[G7972]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] threshing-floor | <big><span class="asgreek">άλωνι</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| of Atad. | <big><span class="asgreek">Ατάδ</span></big> <sup><small><small>[[H0329]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians. | <big><span class="asgreek">Αιγυπτίοις</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they called | <big><span class="asgreek">εκάλεσαν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that place, | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| Mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| inhabitants | **<big>[[G7972\|κάτοικοι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of Canaan | **<big>[[H3668\|Χαναάν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mourning | **<big>[[G3997\|πένθος]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] threshing-floor | **<big>[[G0257\|άλωνι]]</big>** |
+| of Atad. | **<big>[[H0329\|Ατάδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| mourning | **<big>[[G3997\|πένθος]]</big>** |
+| a great | **<big>[[G3173\|μέγα]]</big>** |
+| This | **<big>[[G3778\|τούτό]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Egyptians. | **<big>[[G0125\|Αιγυπτίοις]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| they called | **<big>[[G2564\|εκάλεσαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of that place, | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| Mourning | **<big>[[G3997\|πένθος]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan. | **<big>[[G2446\|Ιορδάνου]]</big>** |
 [[Gen.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.10|<< Genesis 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.12|Genesis 50:12 >>]]</td></tr></table>
 
 

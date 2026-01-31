@@ -1,8 +1,8 @@
 <small>*Bethesda • Pool in Jerusalem where Jesus healed a paralyzed man.*</small>
 
 <span class='tipnrhighlight'>Bethesda</span> \(Bethzatha\) was a pool in Jerusalem with five roofed colonnades, where Jesus healed a man who had been an invalid for thirty-eight years. \([[John.5.2|John 5:2]]\)
-- A location in Jerusalem<[[H3389]]> only mentioned at [[John.5.2|Jhn.5.2]]; 
-- referred to as Bethesda<[[G0964]]> \(<span class='tipnrLangGreek'>Βηθεσδά</span>\), or Bethzatha \(=Var\) <[[G0964]]> \(<span class='tipnrLangGreek'>Βηθζαθά</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[John.5.2|Jhn.5.2]]; 
+- referred to as Bethesda **<big>[[G0964|Βηθεσδά]]</big>**, or Bethzatha \(=Var\)  **<big>[[G0964|Βηθεσδά]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -22,6 +22,6 @@ Archaeologists have uncovered a site near the Church of St. Anne in Jerusalem, w
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bethesda | [<span class='tipnrLangGreek'>Βηθεσδά</span>](G0964) <small>*Greek*</small> | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethesda\*\|reference=Jhn.5.2) |
-| Bethzatha (=Var) | [<span class='tipnrLangGreek'>Βηθζαθά</span>](G0964) <small>*Greek*</small> | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=reference=Jhn.5.2) |
-All Strong's for **Bethesda or Bethzatha**: \[[[G0964]]\]
+| Bethesda | [<span class='tipnrLangGreek'>Βηθεσδά</span>](G0964) | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethesda\*\|reference=Jhn.5.2) |
+| Bethzatha (=Var) | [<span class='tipnrLangGreek'>Βηθζαθά</span>](G0964) | 1x | [Jhn.5.2 ⌕](https://www.stepbible.org/?q=reference=Jhn.5.2) |
+All entries for **Bethesda or Bethzatha**:  **<big>[[G0964|Βηθεσδά]]</big>**

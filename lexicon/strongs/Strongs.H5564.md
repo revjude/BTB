@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָמַךְ‎</span></big> **çâmak** <small>*(saw-mak')*</small> ==**to support**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָמַךְ‎</span></big>** **çâmak** <small>*(saw-mak')*</small> ==**to support**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear up, establish, (up-) hold, lay, lean, lie hard, put, rest self, set self, stand fast, stay (self), sustain.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** to support, uphold, sustain
 $\quad$ **1b)** (Niphal) to support or brace oneself
 $\quad$ **1c)** (Piel) to sustain, refresh, revive
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντιλαμβάνομαι</span><sup><small>[[G0482]]</small></sup> · <span class="asgreek">ἐπιστηρίζω</span><sup><small>[[G1991]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">ἐφίστημι</span><sup><small>[[G2186]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">προσάγω</span><sup><small>[[G4317]]</small></sup> · <span class="asgreek">στηρίζω</span><sup><small>[[G4741]]</small></sup>
+<small>See Greek: </small>**<big>[[G0482|ἀντιλαμβάνομαι]]</big>** · **<big>[[G1991|ἐπιστηρίζω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2186|ἐφίστημι]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G4317|προσάγω]]</big>** · **<big>[[G4741|στηρίζω]]</big>**

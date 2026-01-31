@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צוּלָה‎</span></big> **tsûwlâh** <small>*(tsoo-law')*</small> ==**deep**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎צוּלָה‎</span></big>** **tsûwlâh** <small>*(tsoo-law')*</small> ==**deep**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to sink</small>
 
 $\quad$ deep.
@@ -6,4 +6,4 @@ $\quad$ deep.
 
 **1)** ocean-deep, deep, ocean depth
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄβυσσος</span><sup><small>[[G0012]]</small></sup>
+<small>See Greek: </small>**<big>[[G0012|ἄβυσσος]]</big>**

@@ -7,39 +7,39 @@ Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and
 This is what the LORD of Hosts, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying to you lies in My name: “I will deliver them to Nebuchadnezzar king of Babylon, and he will kill them before your very eyes.<small><sub>**MT:**</sub></small>
 [[Jer.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Ahab | <big><span class="asgreek">Αχάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kolaiah, | <big><span class="asgreek">Κωλιά</span></big> <sup><small><small>[[H6964]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Zedekiah | <big><span class="asgreek">Σεδεκίαν</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Maaseiah, | <big><span class="asgreek">Μαασία</span></big> <sup><small><small>[[H4641]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύοντας</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδώς</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δίδωμι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall strike | <big><span class="asgreek">πατάξει</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your eyes. | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Ahab | **<big>[[H0256\|Αχάβ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Kolaiah, | **<big>[[H6964\|Κωλιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Zedekiah | **<big>[[H6667\|Σεδεκίαν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Maaseiah, | **<big>[[H4641\|Μαασία]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύοντας]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| lies | **<big>[[G5579\|ψευδώς]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give | **<big>[[G1325\|δίδωμι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall strike | **<big>[[G3960\|πατάξει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| your eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Jer.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 
 

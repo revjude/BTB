@@ -7,34 +7,34 @@ Therefore set I in the lower places behind the wall, [and] on the higher places,
 So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows.<small><sub>**MT:**</sub></small>
 [[Neh.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I stood \[men\] | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lowermost | <big><span class="asgreek">κατώτατα</span></big> <sup><small><small>[[G2737]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| from behind | <big><span class="asgreek">κατόπισθεν</span></big> <sup><small><small>[[G7974]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| protected \[places\]. | <big><span class="asgreek">σκεπεινοίς</span></big> <sup><small><small>[[G9099]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I stood | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| their broadswords, | <big><span class="asgreek">ρομφαιών</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wooden spears, | <big><span class="asgreek">δοράτων</span></big> <sup><small><small>[[G6965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their bows. | <big><span class="asgreek">τόξων</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I stood \[men\] | **<big>[[G2476\|έστησα]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| lowermost | **<big>[[G2737\|κατώτατα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| from behind | **<big>[[G7974\|κατόπισθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wall, | **<big>[[G5038\|τείχους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| protected \[places\]. | **<big>[[G9099\|σκεπεινοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I stood | **<big>[[G2476\|έστησα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| peoples, | **<big>[[G1218\|δήμους]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| their broadswords, | **<big>[[G4501\|ρομφαιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their wooden spears, | **<big>[[G6965\|δοράτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their bows. | **<big>[[G5115\|τόξων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Neh.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
 

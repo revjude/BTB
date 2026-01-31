@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵיתָן‎</span></big> **ʼÊythân** <small>*(ay-thawn')*</small> ==**Ethan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אֵיתָן‎</span><sup><small>[[H0386]]</small></sup>; permanent</small>
+**<big><span class="ashebrew">‎אֵיתָן‎</span></big>** **ʼÊythân** <small>*(ay-thawn')*</small> ==**Ethan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0386|‎אֵיתָן‎]]</big>**; permanent</small>
 
 $\quad$ Ethan.
 - § Ethan = *"enduring"*

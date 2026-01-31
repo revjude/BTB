@@ -1,4 +1,4 @@
-Greek of: <small>[[H6721H]]</small> 
+Greek of: <small>**<big>[[H6721H|צִידוֹן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σιδών==</span></b>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ἡ</span>, 

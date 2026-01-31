@@ -10,25 +10,25 @@ Thus saith the LORD, Keep ye judgment, and do justice: for my salvation [is] nea
 This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed.<small><sub>**MT:**</sub></small>
 [[Isa.56.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.13|<< Isaiah 55:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.2|Isaiah 56:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Guard | <big><span class="asgreek">φυλάσσεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| righteousness! | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| is near | <big><span class="asgreek">ήγγικε</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to come, | <big><span class="asgreek">παραγίνεσθαι</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be uncovered. | <big><span class="asgreek">αποκαλυφθήναι</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Guard | **<big>[[G5442\|φυλάσσεσθε]]</big>** |
+| equity, | **<big>[[G2920\|κρίσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do | **<big>[[G4160\|ποιήσατε]]</big>** |
+| righteousness! | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| is near | **<big>[[G1448\|ήγγικε]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to come, | **<big>[[G3854\|παραγίνεσθαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to be uncovered. | **<big>[[G0601\|αποκαλυφθήναι]]</big>** |
 [[Isa.56.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.13|<< Isaiah 55:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.2|Isaiah 56:2 >>]]</td></tr></table>
 
 

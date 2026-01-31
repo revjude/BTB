@@ -7,40 +7,40 @@ Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to t
 Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”<small><sub>**MT:**</sub></small>
 [[Ezek.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.8|<< Ezekiel 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.10|Ezekiel 37:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Prophesy | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wind! | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| Prophesy, | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wind! | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| winds, | <big><span class="asgreek">πνευμάτων</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| come | <big><span class="asgreek">ελθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| wind | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| breathe | <big><span class="asgreek">εμφύσησον</span></big> <sup><small><small>[[G1720]]</small></small></sup> |
-| onto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these dead, | <big><span class="asgreek">νεκρούς</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them live! | <big><span class="asgreek">ζησάτωσαν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Prophesy | **<big>[[G4395\|προφήτευσον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wind! | **<big>[[G4151\|πνεύμα]]</big>** |
+| Prophesy, | **<big>[[G4395\|προφήτευσον]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|ειπέ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| wind! | **<big>[[G4151\|πνεύματι]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| winds, | **<big>[[G4151\|πνευμάτων]]</big>** |
+| come | **<big>[[G2064\|ελθέ]]</big>** |
+| wind | **<big>[[G4151\|πνεύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| breathe | **<big>[[G1720\|εμφύσησον]]</big>** |
+| onto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these dead, | **<big>[[G3498\|νεκρούς]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them live! | **<big>[[G2198\|ζησάτωσαν]]</big>** |
 [[Ezek.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.8|<< Ezekiel 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.10|Ezekiel 37:10 >>]]</td></tr></table>
 
 

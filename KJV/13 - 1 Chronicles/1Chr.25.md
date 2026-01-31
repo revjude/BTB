@@ -97,11 +97,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.25.8|8]]**<span class="e
 
 [^45]: [[1Chr.25|1Chr 25:2]]
 
-[^46]: <span class="asgreek"><span class='asgreek'>ιφψι</span></span> (<span class="ashebrew">‎יִצְרִי‎</span><sup><small>[[H3339]]</small></sup>), ***Izri***, seems to be called <span class="asgreek"><span class='asgreek'>φψι</span></span> (<span class="ashebrew">‎צְרִי‎</span><sup><small>[[H6874]]</small></sup>), ***Zeri***, by the apheresis of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[1Chr.25|1Chr 25:3]], Zeri
+[^46]: <span class="asgreek"><span class='asgreek'>ιφψι</span></span> ( [[H3339|‎יִצְרִי‎]] ), ***Izri***, seems to be called <span class="asgreek"><span class='asgreek'>φψι</span></span> ( [[H6874|‎צְרִי‎]] ), ***Zeri***, by the apheresis of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[1Chr.25|1Chr 25:3]], Zeri
 
 [^47]: [[1Chr.25|1Chr 25:2]]
 
-[^48]: This variation rises from the mutation of ***ΰ***, ***aleph***, and <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***; the word being written in the parallel passage ***ΰ<span class='asgreek'>ω</span>�<span class='asgreek'>ψ</span>ΰ<span class='asgreek'>μδ</span>*** (<span class="ashebrew">‎אֲשַׂרְאֵלָה‎</span><sup><small>[[H0841]]</small></sup>), ***Asarelah***, and here, <span class="asgreek"><span class='asgreek'>ιω</span>�<span class='asgreek'>ψ</span>ΰ<span class='asgreek'>μδ</span> </span> (<span class="ashebrew">‎יְשַׂרְאֵלָה‎</span><sup><small>[[H3480]]</small></sup>), ***Jesarelah***. [[1Chr.25|1Chr 25:2]], Asarelah
+[^48]: This variation rises from the mutation of ***ΰ***, ***aleph***, and <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***; the word being written in the parallel passage ***ΰ<span class='asgreek'>ω</span>�<span class='asgreek'>ψ</span>ΰ<span class='asgreek'>μδ</span>*** ( [[H0841|‎אֲשַׂרְאֵלָה‎]] ), ***Asarelah***, and here, <span class="asgreek"><span class='asgreek'>ιω</span>�<span class='asgreek'>ψ</span>ΰ<span class='asgreek'>μδ</span> </span> ( [[H3480|‎יְשַׂרְאֵלָה‎]] ), ***Jesarelah***. [[1Chr.25|1Chr 25:2]], Asarelah
 
 [^49]: Probably this person was called by both names; or Uzziel may be a mistake for Azareel. In the Syriac and Arabic, the name is nearly the same in both places. [[1Chr.25|1Chr 25:4]], Uzziel
 

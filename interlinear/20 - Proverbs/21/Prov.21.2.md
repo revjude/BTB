@@ -6,16 +6,16 @@ All a man’s ways seem right to him, but the LORD weighs the heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.1|<< Proverbs 21:1]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.3|Proverbs 21:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| every  | <span class="ashebrew"><big>כָּֽל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kal- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way of  | <span class="ashebrew"><big>דֶּרֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| de.rekh- <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֭ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] upright  | <span class="ashebrew"><big>יָשָׁ֣ר </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ya.Shar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in own eyes his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵינָ֑י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ei.Na <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] weighing  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תֹכֵ֖ן </big></span><small><small><sup>[[H8505]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.Khen <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hearts  | <span class="ashebrew"><big>לִבּ֣וֹת </big></span><small><small><sup>[[H3826]]</sup></small></small> &#8207;| li.Bot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way of  |**<big>&#8207;[[H1870G\|דֶּרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.rekh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] upright  |**<big>&#8207;[[H3477G\|יָשָׁ֣ר]]&#8207; </big>**| ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in own eyes his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869A\|עֵינָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] weighing  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8505\|תֹכֵ֖ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Khen<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hearts  |**<big>&#8207;[[H3826\|לִבּ֣וֹת]]&#8207; </big>**| li.Bot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.1|<< Proverbs 21:1]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.3|Proverbs 21:3 >>]]</td></tr></table>
 
 

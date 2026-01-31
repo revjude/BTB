@@ -12,7 +12,7 @@
 
 
 
-<small>Also see: [[H7510]]</small>
+<small>Also see: **<big>[[H7510|רִפְיוֹן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רְפָיָה‎</span> **proper name, masculine** see below <span class="bdbLangHebrew">‎רפא‎</span>. <span class="bdbLangHebrew">‎רִפְיוֺן‎</span> see  <span class="bdbLangHebrew">‎רפה‎</span>. above, 
 

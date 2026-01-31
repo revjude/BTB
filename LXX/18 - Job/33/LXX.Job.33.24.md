@@ -7,27 +7,27 @@ Then he is gracious unto him, and saith, Deliver him from going down to the pit:
 to be gracious to him and say, ‘Spare him from going down to the Pit; I have found his ransom,’<small><sub>**MT:**</sub></small>
 [[Job.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.23|<< Job 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.25|Job 33:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| he shall hold \[him\] | <big><span class="asgreek">ανθέξεται</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fall | <big><span class="asgreek">πεσείν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death; | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| and he shall renew | <big><span class="asgreek">ανανεώσει</span></big> <sup><small><small>[[G0365]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[new\] plaster | <big><span class="asgreek">αλοιφήν</span></big> <sup><small><small>[[G6241]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a wall; | <big><span class="asgreek">τοίχου</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will fill up | <big><span class="asgreek">εμπλήσει</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| with marrow. | <big><span class="asgreek">μυελού</span></big> <sup><small><small>[[G3452]]</small></small></sup> |
+| he shall hold \[him\] | **<big>[[G0472\|ανθέξεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| fall | **<big>[[G4098\|πεσείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| death; | **<big>[[G2288\|θάνατον]]</big>** |
+| and he shall renew | **<big>[[G0365\|ανανεώσει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| body | **<big>[[G4983\|σώμα]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[new\] plaster | **<big>[[G6241\|αλοιφήν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a wall; | **<big>[[G5109\|τοίχου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| his bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he will fill up | **<big>[[G1705\|εμπλήσει]]</big>** |
+| with marrow. | **<big>[[G3452\|μυελού]]</big>** |
 [[Job.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.23|<< Job 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.25|Job 33:25 >>]]</td></tr></table>
 
 

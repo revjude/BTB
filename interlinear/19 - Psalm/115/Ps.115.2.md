@@ -6,14 +6,14 @@ Why should the nations say, “Where is their God?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.1|<< Psalms 115:1]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.3|Psalms 115:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> why?  | <span class="ashebrew"><big>לָ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will they say  | <span class="ashebrew"><big>יֹאמְר֣וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.me.Ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the nations  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִ֑ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where?  | <span class="ashebrew"><big>אַיֵּה </big></span><small><small><sup>[[H0346]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ai.yeh- <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֝֗א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| Na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] God their  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> why?  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will they say  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where?  |**<big>&#8207;[[H0346\|אַיֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ai.yeh-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֝֗א]]&#8207; </big>**| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.1|<< Psalms 115:1]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.3|Psalms 115:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲדַרְעֶזֶר‎</span></big> **Hădarʻezer** <small>*(had-ar-eh'-zer)*</small> ==**Hadarezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎הֲדַר‎</span><sup><small>[[H1924]]</small></sup> and <span class="ashebrew">‎עֵזֶר‎</span><sup><small>[[H5828]]</small></sup>; Hadar (i.e. Hadad, <span class="ashebrew">‎הֲדַד‎</span><sup><small>[[H1908]]</small></sup>) is his help; (i.e. Hadadezer, <span class="ashebrew">‎הֲדַדְעֶזֶר‎</span><sup><small>[[H1909]]</small></sup>)</small>
+**<big><span class="ashebrew">‎הֲדַרְעֶזֶר‎</span></big>** **Hădarʻezer** <small>*(had-ar-eh'-zer)*</small> ==**Hadarezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1924|‎הֲדַר‎]]</big>** and **<big>[[H5828|‎עֵזֶר‎]]</big>**; Hadar (i.e. Hadad, **<big>[[H1908|‎הֲדַד‎]]</big>**) is his help; (i.e. Hadadezer, **<big>[[H1909|‎הֲדַדְעֶזֶר‎]]</big>**)</small>
 
 $\quad$ Hadarezer.
 - § Hadarezer = *"Hadad is help"*

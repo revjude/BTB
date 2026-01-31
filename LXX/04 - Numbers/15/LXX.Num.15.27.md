@@ -7,19 +7,19 @@ And if any soul sin through ignorance, then he shall bring a she goat of the fir
 Also, if one person sins unintentionally, he is to present a year-old female goat as a sin offering.<small><sub>**MT:**</sub></small>
 [[Num.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.26|<< Numbers 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.28|Numbers 15:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| should sin | <big><span class="asgreek">αμάρτη</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| unintentionally, | <big><span class="asgreek">ακουσίως</span></big> <sup><small><small>[[G6199]]</small></small></sup> |
-| he shall lead forward | <big><span class="asgreek">προσάξει</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| goat | <big><span class="asgreek">αίγα</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαυσίαν</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| should sin | **<big>[[G0264\|αμάρτη]]</big>** |
+| unintentionally, | **<big>[[G6199\|ακουσίως]]</big>** |
+| he shall lead forward | **<big>[[G4317\|προσάξει]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| goat | **<big>[[G6167\|αίγα]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαυσίαν]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\]. | **<big>[[G0266\|αμαρτίας]]</big>** |
 [[Num.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.26|<< Numbers 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.28|Numbers 15:28 >>]]</td></tr></table>
 
 

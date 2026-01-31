@@ -6,15 +6,15 @@ The prudent see danger and take cover, but the simple keep going and pay the pen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.11|<< Proverbs 27:11]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.13|Proverbs 27:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a sensible [person]  | <span class="ashebrew"><big>עָר֤וּם </big></span><small><small><sup>[[H6175]]</sup></small></small> &#8207;| 'a.Rum <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sees  | <span class="ashebrew"><big>רָאָ֣ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָעָ֣ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he hides himself  | <span class="ashebrew"><big>נִסְתָּ֑ר </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| nis.Tar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| naive people  | <span class="ashebrew"><big>פְּ֝תָאיִ֗ם </big></span><small><small><sup>[[H6612A]]</sup></small></small> &#8207;| pe.ta.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they pass on  | <span class="ashebrew"><big>עָבְר֥וּ </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.ve.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are punished  | <span class="ashebrew"><big>נֶעֱנָֽשׁוּ </big></span><small><small><sup>[[H6064]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.'e.Na.shu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sensible [person]  |**<big>&#8207;[[H6175\|עָר֤וּם]]&#8207; </big>**| 'a.Rum<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sees  |**<big>&#8207;[[H7200G\|רָאָ֣ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451C\|רָעָ֣ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he hides himself  |**<big>&#8207;[[H5641\|נִסְתָּ֑ר]]&#8207; </big>**| nis.Tar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| naive people  |**<big>&#8207;[[H6612A\|פְּ֝תָאיִ֗ם]]&#8207; </big>**| pe.ta.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they pass on  |**<big>&#8207;[[H5674A\|עָבְר֥וּ]]&#8207; </big>**| 'a.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are punished  |**<big>&#8207;[[H6064\|נֶעֱנָֽשׁוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.'e.Na.shu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.11|<< Proverbs 27:11]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.13|Proverbs 27:13 >>]]</td></tr></table>
 
 

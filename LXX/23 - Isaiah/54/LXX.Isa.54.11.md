@@ -11,24 +11,24 @@ O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay t
 > $\quad$ referenced by: [[Rev.21.19|Rev 21:19]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Humble | <big><span class="asgreek">ταπεινή</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| confused, | <big><span class="asgreek">ακατάστατος</span></big> <sup><small><small>[[G0182]]</small></small></sup> |
-| you were not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| comforted. | <big><span class="asgreek">παρεκλήθης</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| prepare | <big><span class="asgreek">ετοιμάζω</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| carbuncle | <big><span class="asgreek">άνθρακα</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your stone, | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and \[for\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your foundations | <big><span class="asgreek">θεμέλιά</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sapphire. | <big><span class="asgreek">σάπφειρον</span></big> <sup><small><small>[[G4552]]</small></small></sup> |
+| Humble | **<big>[[G5011\|ταπεινή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| confused, | **<big>[[G0182\|ακατάστατος]]</big>** |
+| you were not | **<big>[[G3756\|ου]]</big>** |
+| comforted. | **<big>[[G3870\|παρεκλήθης]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| prepare | **<big>[[G2090\|ετοιμάζω]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| carbuncle | **<big>[[G0440\|άνθρακα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| for your stone, | **<big>[[G3037\|λίθον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and \[for\] | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your foundations | **<big>[[G2310\|θεμέλιά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| sapphire. | **<big>[[G4552\|σάπφειρον]]</big>** |
 [[Isa.54.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.10|<< Isaiah 54:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.12|Isaiah 54:12 >>]]</td></tr></table>
 
 

@@ -7,38 +7,38 @@ And it came to pass, before he had done speaking, that, behold, Rebekah came out
 Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor.<small><sub>**MT:**</sub></small>
 [[Gen.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.14|<< Genesis 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.16|Genesis 24:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completing | <big><span class="asgreek">συντελέσαι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλούντα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mind, | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| came forth -- | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| born to | <big><span class="asgreek">τεχθείσα</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| Bethuel, | <big><span class="asgreek">Βαθουήλ</span></big> <sup><small><small>[[H6602]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Milcah, | <big><span class="asgreek">Μελχάς</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Nahor, | <big><span class="asgreek">Ναχώρ</span></big> <sup><small><small>[[G3493]]</small></small></sup> |
-| and brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| having | <big><span class="asgreek">έχουσα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water-pitcher | <big><span class="asgreek">υδρίαν</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her shoulders. | <big><span class="asgreek">ώμων</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| completing | **<big>[[G4931\|συντελέσαι]]</big>** |
+| his | **<big>[[G1473\|αυτόν]]</big>** |
+| speaking | **<big>[[G2980\|λαλούντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his mind, | **<big>[[G1271\|διανοία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκα]]</big>** |
+| came forth -- | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| born to | **<big>[[G5088\|τεχθείσα]]</big>** |
+| Bethuel, | **<big>[[H6602\|Βαθουήλ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Milcah, | **<big>[[H4435\|Μελχάς]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wife | **<big>[[G1135\|γυναικός]]</big>** |
+| of Nahor, | **<big>[[G3493\|Ναχώρ]]</big>** |
+| and brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| having | **<big>[[G2192\|έχουσα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| water-pitcher | **<big>[[G5201\|υδρίαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her shoulders. | **<big>[[G5606\|ώμων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Gen.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.14|<< Genesis 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.16|Genesis 24:16 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Ether • City allotted to Judah and Simeon*</small>
 
 <span class='tipnrhighlight'>Ether</span>, a city allotted to the tribes of Judah and Simeon in the Shephelah region.
-- A location near Ashnah<[[H0823]]> first mentioned at [[Josh.15.42|Jos.15.42]]; 
-- only referred to as Ether<[[H6281]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Ashnah **<big>[[H0823|אַשְׁנָה]]</big>** first mentioned at [[Josh.15.42|Jos.15.42]]; 
+- only referred to as Ether **<big>[[H6281|עֶתֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8099,34.9365&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Ether in the lists of cities allotted to Judah and Simeon helps t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ether | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H6281) <small>*Hebrew*</small> | 2x | [[Jos.15.42] & [Jos.19.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ether\*\|reference=Jos.15.42;Jos.19.7) |
-All Strong's for **Ether**: \[[[H6281]]\]
+| Ether | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H6281) | 2x | [[Jos.15.42] & [Jos.19.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ether\*\|reference=Jos.15.42;Jos.19.7) |
+All entries for **Ether**:  **<big>[[H6281|עֶתֶר]]</big>**

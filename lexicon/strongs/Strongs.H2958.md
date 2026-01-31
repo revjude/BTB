@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טְרוֹם‎</span></big> **ṭᵉrôwm** <small>*(ter-ome')*</small> ==**before**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎טֶרֶם‎</span><sup><small>[[H2962]]</small></sup></small>
+**<big><span class="ashebrew">‎טְרוֹם‎</span></big>** **ṭᵉrôwm** <small>*(ter-ome')*</small> ==**before**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>a variation of **<big>[[H2962|‎טֶרֶם‎]]</big>**</small>
 
 $\quad$ before.
 - ***not yet***

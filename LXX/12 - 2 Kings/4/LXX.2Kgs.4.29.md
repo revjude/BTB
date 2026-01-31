@@ -11,46 +11,46 @@ So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, an
 > $\quad$ referenced by: [[Luke.10.4|Luke 10:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Gehazi, | <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
-| Tie up | <big><span class="asgreek">ζώσαι</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your loin, | <big><span class="asgreek">οσφύν</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my staff | <big><span class="asgreek">βακτηρίαν</span></big> <sup><small><small>[[G6648]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go! | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should find | <big><span class="asgreek">εύρης</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| a man \[in the way\], | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bless | <big><span class="asgreek">ευλογήσεις</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should bless | <big><span class="asgreek">ευλογήση</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| you shall not answer | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αποκριθήση</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall place | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my staff | <big><span class="asgreek">βακτηρίαν</span></big> <sup><small><small>[[G6648]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy. | <big><span class="asgreek">παιδαρίου</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Gehazi, | **<big>[[H1522\|Γιεζί]]</big>** |
+| Tie up | **<big>[[G2224\|ζώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your loin, | **<big>[[G3751\|οσφύν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my staff | **<big>[[G6648\|βακτηρίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go! | **<big>[[G4198\|πορεύου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should find | **<big>[[G2147\|εύρης]]</big>** |
+| a man \[in the way\], | **<big>[[G0435\|άνδρα]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| bless | **<big>[[G2127\|ευλογήσεις]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should bless | **<big>[[G2127\|ευλογήση]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| you shall not answer | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0611\|αποκριθήση]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall place | **<big>[[G2007\|επιθήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my staff | **<big>[[G6648\|βακτηρίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| boy. | **<big>[[G3808\|παιδαρίου]]</big>** |
 [[2Kgs.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
 
 

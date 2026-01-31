@@ -7,26 +7,26 @@ The thing that hath been, it [is that] which shall be; and that which is done [i
 What has been will be again, and what has been done will be done again; there is nothing new under the sun.<small><sub>**MT:**</sub></small>
 [[Eccl.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.8|<< Ecclesiastes 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.10|Ecclesiastes 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking place? | <big><span class="asgreek">γεγονός</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the same \[thing\] as | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shall be taking place. | <big><span class="asgreek">γενησόμενον</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being done? | <big><span class="asgreek">πεποιημένον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the same \[thing\]\<the> | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that shall be done; | <big><span class="asgreek">ποιηθησόμενον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| anything | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| newly made | <big><span class="asgreek">πρόσφατον</span></big> <sup><small><small>[[G4372]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun. | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[is\] the \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| taking place? | **<big>[[G1096\|γεγονός]]</big>** |
+| the same \[thing\] as | **<big>[[G1473\|αυτό]]</big>** **<big>[[G3588\|το]]</big>** |
+| shall be taking place. | **<big>[[G1096\|γενησόμενον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| \[is\] the \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| being done? | **<big>[[G4160\|πεποιημένον]]</big>** |
+| the same \[thing\]\<obj.> | **<big>[[G1473\|αυτό]]</big>** **<big>[[G3588\|το]]</big>** |
+| that shall be done; | **<big>[[G4160\|ποιηθησόμενον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| anything | **<big>[[G3956\|παν]]</big>** |
+| newly made | **<big>[[G4372\|πρόσφατον]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun. | **<big>[[G2246\|ήλιον]]</big>** |
 [[Eccl.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.8|<< Ecclesiastes 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.10|Ecclesiastes 1:10 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-combination of: <small>[[G5104]] ([[G2532]]+[[G5104]])</small> 
+combination of: <small>**<big>[[G5104|τοί]]</big>** (**<big>[[G2532|καί]]</big>**+**<big>[[G5104|τοί]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>καί</span> <span class='asgreek'>τοι</span></b>, 

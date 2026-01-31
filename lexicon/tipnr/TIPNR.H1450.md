@@ -1,8 +1,8 @@
 <small>*Gederoth • Town in Judah; captured by Philistines during Ahaz's reign*</small>
 
 <span class='tipnrhighlight'>Gederoth</span>, a town in Judah, was captured by the Philistines during the reign of King Ahaz.
-- A location near Gederah<[[H1449]]> first mentioned at [[Josh.15.41|Jos.15.41]]; 
-- only referred to as Gederoth<[[H1450]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- A location near Gederah **<big>[[H1449|גְּדֵרָה]]</big>** first mentioned at [[Josh.15.41|Jos.15.41]]; 
+- only referred to as Gederoth **<big>[[H1450|גְּדֵרוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.823337,34.777779&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Gederoth is not specified in the Bible, but based on its a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gederoth | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1450) <small>*Hebrew*</small> | 2x | [[Jos.15.41] & [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederoth\*\|reference=Jos.15.41;2Ch.28.18) |
-All Strong's for **Gederoth**: \[[[H1450]]\]
+| Gederoth | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1450) | 2x | [[Jos.15.41] & [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gederoth\*\|reference=Jos.15.41;2Ch.28.18) |
+All entries for **Gederoth**:  **<big>[[H1450|גְּדֵרוֹת]]</big>**

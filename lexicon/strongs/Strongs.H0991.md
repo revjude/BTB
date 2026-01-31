@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּטֶן‎</span></big> **Beṭen** <small>*(beh'-ten)*</small> ==**Beten**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בֶּטֶן‎</span><sup><small>[[H0990]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּטֶן‎</span></big>** **Beṭen** <small>*(beh'-ten)*</small> ==**Beten**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H0990|‎בֶּטֶן‎]]</big>**</small>
 
 $\quad$ Beten.
 - § Beten = *"womb"*

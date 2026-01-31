@@ -7,20 +7,20 @@ And with the arms of a flood shall they be overflown from before him, and shall 
 Then a flood of forces will be swept away before him and destroyed, along with a prince of the covenant.<small><sub>**MT:**</sub></small>
 [[Dan.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.21|<< Daniel 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.23|Daniel 11:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] arms | <big><span class="asgreek">βραχίονες</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inundating | <big><span class="asgreek">κατακλύζοντος</span></big> <sup><small><small>[[G2626]]</small></small></sup> |
-| shall be flooded | <big><span class="asgreek">κατακλυσθήσονται</span></big> <sup><small><small>[[G2626]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| his face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be broken; | <big><span class="asgreek">συντριβήσονται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one taking the lead | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| of \[the\] covenant. | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] arms | **<big>[[G1023\|βραχίονες]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| inundating | **<big>[[G2626\|κατακλύζοντος]]</big>** |
+| shall be flooded | **<big>[[G2626\|κατακλυσθήσονται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| his face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be broken; | **<big>[[G4937\|συντριβήσονται]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[the\] one taking the lead | **<big>[[G2233\|ηγούμενος]]</big>** |
+| of \[the\] covenant. | **<big>[[G1242\|διαθήκης]]</big>** |
 [[Dan.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.21|<< Daniel 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.23|Daniel 11:23 >>]]</td></tr></table>
 
 

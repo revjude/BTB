@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁנְאָב‎</span></big> **Shinʼâb** <small>*(shin-awb')*</small> ==**Shinab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎שָׁנָא‎</span><sup><small>[[H8132]]</small></sup> and <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup>; a father has turned</small>
+**<big><span class="ashebrew">‎שִׁנְאָב‎</span></big>** **Shinʼâb** <small>*(shin-awb')*</small> ==**Shinab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H8132|‎שָׁנָא‎]]</big>** and **<big>[[H0001|‎אָב‎]]</big>**; a father has turned</small>
 
 $\quad$ Shinab.
 - § Shinab = *"splendour of the father"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְסוֹד‎</span></big> **yᵉçôwd** <small>*(yes-ode')*</small> ==**(Gate of the) Foundation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎יָסַד‎</span><sup><small>[[H3245]]</small></sup></small>
+**<big><span class="ashebrew">‎יְסוֹד‎</span></big>** **yᵉçôwd** <small>*(yes-ode')*</small> ==**(Gate of the) Foundation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3245|‎יָסַד‎]]</big>**</small>
 
 $\quad$ bottom, foundation, repairing
 - ***a foundation*** (literally or figuratively)
@@ -8,4 +8,4 @@ $\quad$ bottom, foundation, repairing
 $\quad$ **1a)** foundation
 $\quad$ **1b)** base, bottom
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάσις</span><sup><small>[[G0939]]</small></sup> · <span class="asgreek">διάστημα</span><sup><small>[[G1292]]</small></sup>
+<small>See Greek: </small>**<big>[[G0939|βάσις]]</big>** · **<big>[[G1292|διάστημα]]</big>**

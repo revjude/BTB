@@ -1,8 +1,8 @@
 <small>*Jair • An Israelite who possessed towns in Gilead*</small>
 
 <span class='tipnrhighlight'>Jair</span>, an Israelite who possessed towns in Gilead \([[Josh.13.30|Joshua 13:30]]\).
-- A location near Gilead<[[H1568G]]> only mentioned at [[Josh.13.30|Jos.13.30]]; 
-- only referred to as Jair<[[H2971H]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- A location near Gilead **<big>[[H1568|גִּלְעָד]]</big>** only mentioned at [[Josh.13.30|Jos.13.30]]; 
+- only referred to as Jair **<big>[[H2971|יָאִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.042523,35.724241&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Jair was an Israelite who possessed towns in the region of Gilead, east of the J
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jair | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>יר</span>](H2971H) <small>*Hebrew*</small> | 1x | [Jos.13.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jair\*\|reference=Jos.13.30) |
-All Strong's for **Jair**: \[[[H2971H]]\]
+| Jair | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>יר</span>](H2971H) | 1x | [Jos.13.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jair\*\|reference=Jos.13.30) |
+All entries for **Jair**:  **<big>[[H2971|יָאִיר]]</big>**

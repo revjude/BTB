@@ -1,4 +1,4 @@
-<small>Also see: [[H2733]]</small>
+<small>Also see: **<big>[[H2733|חֲרֹדִי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎הֲרוֺרִי‎</span> **adjective, of a people** [[1Chr.11.27|1Chr 11:27]] <span class="bdbLangHebrew">‎הַהֲרוֺרִי‎</span>; but read probably <span class="bdbLangHebrew">‎הַחֲרוֺדִי‎</span> (compare \|\| [[2Sam.23.25|2Sam 23:25]]) q. v. 
 

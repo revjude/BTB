@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּימָן‎</span></big> **Têymân** <small>*(tay-mawn')*</small> ==**Teman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">תֵּמָן</span> **Têmân** <small>*(tay-mawn')*</small>; the same as <span class="ashebrew">‎תֵּימָן‎</span><sup><small>[[H8486]]</small></sup></small>
+**<big><span class="ashebrew">‎תֵּימָן‎</span></big>** **Têymân** <small>*(tay-mawn')*</small> ==**Teman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֵּמָן</span></big>** **Têmân** <small>*(tay-mawn')*</small>; the same as **<big>[[H8486|‎תֵּימָן‎]]</big>**</small>
 
 $\quad$ south, Teman.
 - § Teman = *"south"*

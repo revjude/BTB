@@ -7,15 +7,15 @@ When thou didst terrible things [which] we looked not for, thou camest down, the
 When You did awesome works that we did not expect, You came down, and the mountains trembled at Your presence.<small><sub>**MT:**</sub></small>
 [[Isa.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.2|<< Isaiah 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.4|Isaiah 64:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should do | <big><span class="asgreek">ποιής</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| honorable \[things\] | <big><span class="asgreek">ένδοξα</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| trembling | <big><span class="asgreek">τρόμος</span></big> <sup><small><small>[[G5156]]</small></small></sup> |
-| shall take \[hold\] | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| of mountains. | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should do | **<big>[[G4160\|ποιής]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| honorable \[things\] | **<big>[[G1741\|ένδοξα]]</big>** |
+| trembling | **<big>[[G5156\|τρόμος]]</big>** |
+| shall take \[hold\] | **<big>[[G2983\|λήψεται]]</big>** |
+| of mountains. | **<big>[[G3735\|όρη]]</big>** |
 [[Isa.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.2|<< Isaiah 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.4|Isaiah 64:4 >>]]</td></tr></table>
 
 

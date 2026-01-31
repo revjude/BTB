@@ -6,16 +6,16 @@ An unjust man is detestable to the righteous, and one whose way is upright is de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.26|<< Proverbs 29:26]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.1|Proverbs 30:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] an abomination of  | <span class="ashebrew"><big>תּוֹעֲבַ֣ת </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| to.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַ֭דִּיקִים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.di.kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person of  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| injustice  | <span class="ashebrew"><big>עָ֑וֶל </big></span><small><small><sup>[[H5766A]]</sup></small></small> &#8207;| 'A.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] an abomination of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תוֹעֲבַ֖ת </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wicked  | <span class="ashebrew"><big>רָשָׁ֣ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a [person] upright of  | <span class="ashebrew"><big>יְשַׁר </big></span><small><small><sup>[[H3477G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.shar- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way  | <span class="ashebrew"><big>דָּֽרֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] an abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֣ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  |**<big>&#8207;[[H5766A\|עָ֑וֶל]]&#8207; </big>**| 'A.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] an abomination of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8441\|תוֹעֲבַ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wicked  |**<big>&#8207;[[H7563\|רָשָׁ֣ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a [person] upright of  |**<big>&#8207;[[H3477G\|יְשַׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.shar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way  |**<big>&#8207;[[H1870G\|דָּֽרֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.26|<< Proverbs 29:26]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.1|Proverbs 30:1 >>]]</td></tr></table>
 
 

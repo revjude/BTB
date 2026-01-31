@@ -7,49 +7,49 @@ O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy serv
 O Lord, may Your ear be attentive to my prayer and to the prayers of Your servants who delight to revere Your name. Give Your servant success this day, I pray, and grant him mercy in the sight of this man.” (At that time I was the cupbearer to the king.)<small><sub>**MT:**</sub></small>
 [[Neh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.10|<< Nehemiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.1|Nehemiah 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| let be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heeding | <big><span class="asgreek">προσέχον</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prayer | <big><span class="asgreek">προσευχήν</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servant, | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prayer | <big><span class="asgreek">προσευχήν</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| of your children! | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wanting | <big><span class="asgreek">θελόντων</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| to fear | <big><span class="asgreek">φοβείσθαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prosper the way | <big><span class="asgreek">ευόδωσον</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servant | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| compassions | <big><span class="asgreek">οικτιρμούς</span></big> <sup><small><small>[[G3628]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this man! | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a wine server | <big><span class="asgreek">οινοχόος</span></big> <sup><small><small>[[G8465]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Indeed, | **<big>[[G1211\|δη]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| let be | **<big>[[G1510\|έστω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| heeding | **<big>[[G4337\|προσέχον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| prayer | **<big>[[G4335\|προσευχήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your servant, | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| prayer | **<big>[[G4335\|προσευχήν]]</big>** |
+| of your children! | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| wanting | **<big>[[G2309\|θελόντων]]</big>** |
+| to fear | **<big>[[G5399\|φοβείσθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name. | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| prosper the way | **<big>[[G2137\|ευόδωσον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of your servant | **<big>[[G3816\|παιδί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| give | **<big>[[G1325\|δος]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| compassions | **<big>[[G3628\|οικτιρμούς]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this man! | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| was | **<big>[[G1510\|ήμην]]</big>** |
+| a wine server | **<big>[[G8465\|οινοχόος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king. | **<big>[[G0935\|βασιλεί]]</big>** |
 [[Neh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.10|<< Nehemiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.1|Nehemiah 2:1 >>]]</td></tr></table>
 
 

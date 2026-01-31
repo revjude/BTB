@@ -7,23 +7,23 @@ And the sons of Eshek his brother [were], Ulam his firstborn, Jehush the second,
 The sons of his brother Eshek: Ulam was his firstborn, Jeush second, and Eliphelet third.<small><sub>**MT:**</sub></small>
 [[1Chr.8.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.38|<< 1 Chronicles 8:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.40|1 Chronicles 8:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Eshek | <big><span class="asgreek">Ασέκ</span></big> <sup><small><small>[[H6232]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother -- | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ulam | <big><span class="asgreek">Ουλάμ</span></big> <sup><small><small>[[H0198]]</small></small></sup> |
-| his first-born, | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeush | <big><span class="asgreek">Ιηούς</span></big> <sup><small><small>[[H3266]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second, | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eliphelet | <big><span class="asgreek">Ελιφαλέτ</span></big> <sup><small><small>[[H0467]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third. | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Eshek | **<big>[[H6232\|Ασέκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother -- | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Ulam | **<big>[[H0198\|Ουλάμ]]</big>** |
+| his first-born, | **<big>[[G4416\|πρωτότοκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeush | **<big>[[H3266\|Ιηούς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| second, | **<big>[[G1208\|δεύτερος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eliphelet | **<big>[[H0467\|Ελιφαλέτ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| third. | **<big>[[G5154\|τρίτος]]</big>** |
 [[1Chr.8.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.38|<< 1 Chronicles 8:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.40|1 Chronicles 8:40 >>]]</td></tr></table>
 
 

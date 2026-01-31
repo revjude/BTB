@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּדַּלְתִּי‎</span></big> **Giddaltîy** <small>*(ghid-dal'-tee)*</small> ==**Giddalti**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּדַל‎</span><sup><small>[[H1431]]</small></sup>; I have made great</small>
+**<big><span class="ashebrew">‎גִּדַּלְתִּי‎</span></big>** **Giddaltîy** <small>*(ghid-dal'-tee)*</small> ==**Giddalti**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1431|‎גָּדַל‎]]</big>**; I have made great</small>
 
 $\quad$ Giddalti.
 - § Giddalti = *"I make great"*

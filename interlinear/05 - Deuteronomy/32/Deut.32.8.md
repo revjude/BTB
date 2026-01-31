@@ -6,20 +6,20 @@ When the Most High gave the nations their inheritance, when He divided the sons 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.7|<< Deuteronomy 32:7]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.9|Deuteronomy 32:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| when gave inheritances to  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַנְחֵ֤ל </big></span><small><small><sup>[[H5157]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> han.Chel <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Most High  | <span class="ashebrew"><big>עֶלְיוֹן֙ </big></span><small><small><sup>[[H5945B]]</sup></small></small> &#8207;| 'el.yOn <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גּוֹיִ֔ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when separated he  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַפְרִיד֖ </big></span><small><small><sup>[[H6504]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9043]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> haf.ri.D <small><sup>[[HVhcc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] children of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֑ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he fixed  | <span class="ashebrew"><big>יַצֵּב֙ </big></span><small><small><sup>[[H5324]]</sup></small></small> &#8207;| ya.Tzev <small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| boundaries of  | <span class="ashebrew"><big>גְּבֻלֹ֣ת </big></span><small><small><sup>[[H1367]]</sup></small></small> &#8207;| ge.vu.Lot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֔ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] number of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִסְפַּ֖ר </big></span><small><small><sup>[[H4557]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mis.Par <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when gave inheritances to  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5157\|הַנְחֵ֤ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> han.Chel<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Most High  |**<big>&#8207;[[H5945B\|עֶלְיוֹן֙]]&#8207; </big>**| 'el.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when separated he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6504\|הַפְרִיד֖]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> haf.ri.D<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] children of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֑ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fixed  |**<big>&#8207;[[H5324\|יַצֵּב֙]]&#8207; </big>**| ya.Tzev<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| boundaries of  |**<big>&#8207;[[H1367\|גְּבֻלֹ֣ת]]&#8207; </big>**| ge.vu.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֔ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] number of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4557\|מִסְפַּ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.7|<< Deuteronomy 32:7]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.9|Deuteronomy 32:9 >>]]</td></tr></table>
 
 

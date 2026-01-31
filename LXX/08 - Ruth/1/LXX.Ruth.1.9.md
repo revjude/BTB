@@ -7,26 +7,26 @@ The LORD grant you that ye may find rest, each [of you] in the house of her husb
 May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud<small><sub>**MT:**</sub></small>
 [[Ruth.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.8|<< Ruth 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.10|Ruth 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> give | <big><span class="asgreek">δώη</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should find | <big><span class="asgreek">εύροιτε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| rest | <big><span class="asgreek">ανάπαυσιν</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| each | <big><span class="asgreek">εκάστη</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of her husband. | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she kissed | <big><span class="asgreek">κατεφίλησεν</span></big> <sup><small><small>[[G2705]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they lifted up | <big><span class="asgreek">επήραν</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wept. | <big><span class="asgreek">έκλαυσαν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> give | **<big>[[G1325\|δώη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you should find | **<big>[[G2147\|εύροιτε]]</big>** |
+| rest | **<big>[[G0372\|ανάπαυσιν]]</big>** |
+| each | **<big>[[G1538\|εκάστη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of her husband. | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she kissed | **<big>[[G2705\|κατεφίλησεν]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they lifted up | **<big>[[G1869\|επήραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their voice | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wept. | **<big>[[G2799\|έκλαυσαν]]</big>** |
 [[Ruth.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.8|<< Ruth 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.10|Ruth 1:10 >>]]</td></tr></table>
 
 

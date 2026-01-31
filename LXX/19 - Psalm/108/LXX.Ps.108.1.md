@@ -12,22 +12,22 @@ A Song [or] Psalm of David. O God, my heart is fixed; I will sing and give prais
 A song. A Psalm of David. My heart is steadfast, O God; I will sing and make music with all my being.<small><sub>**MT:**</sub></small>
 [[Ps.108.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.43|<< Psalm 107:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.2|Psalm 108:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] prepared | <big><span class="asgreek">ετοίμη</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] prepared | <big><span class="asgreek">ετοίμη</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall sing | <big><span class="asgreek">άσομαι</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strum | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my glory. | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] prepared | **<big>[[G2092\|ετοίμη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] prepared | **<big>[[G2092\|ετοίμη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I shall sing | **<big>[[G0103\|άσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strum | **<big>[[G5567\|ψαλώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my glory. | **<big>[[G1391\|δόξη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.108.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.43|<< Psalm 107:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.2|Psalm 108:2 >>]]</td></tr></table>
 
 

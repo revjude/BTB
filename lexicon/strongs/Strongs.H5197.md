@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָטַף‎</span></big> **nâṭaph** <small>*(naw-taf')*</small> ==**to drip/prophesy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָטַף‎</span></big>** **nâṭaph** <small>*(naw-taf')*</small> ==**to drip/prophesy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ drop(-ping), prophesy(-et).

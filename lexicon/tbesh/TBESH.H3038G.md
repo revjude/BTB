@@ -1,6 +1,5 @@
-<span class="ashebrew">‎יְדוּתוּן‎</span> <small>***(ye.du.tun)***</small> ==**Jeduthun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[1Chr.6.44|1Ch.6.44]]
--  son of: Kishi ([[H7029]])
--  father of: Obed-edom ([[H5654]]), Mattithiah ([[H4993H]]), Gedaliah ([[H1436I]]), Zeri ([[H6874]]), Jeshaiah ([[H3470H]]), Hashabiah ([[H2811I]]), Shemaiah ([[H8098K]]) and Uzziel ([[H5816K]]); also called Ethan at [[1Chr.6.44|1Ch.6.44]] [[1Chr.15.17| 15.17]], [[1Chr.15.19|19]]
-- Also named: <i>e.tan</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ית‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Ethan" [[H0387J]])
+-  son of: Kishi (**<big>[[H7029|קִישִׁי]]</big>**)
+-  father of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**), Mattithiah (**<big>[[H4993H|מַתִּתְיָה]]</big>**), Gedaliah (**<big>[[H1436I|גְּדַּלְיָה]]</big>**), Zeri (**<big>[[H6874|צְרִי]]</big>**), Jeshaiah (**<big>[[H3470H|יְשַׁעְיָה]]</big>**), Hashabiah (**<big>[[H2811I|חֲשַׁבְיָה]]</big>**), Shemaiah (**<big>[[H8098K|שְׁמַעְיָה]]</big>**) and Uzziel (**<big>[[H5816K|עֻזִּיאֵל]]</big>**); also called Ethan at [[1Chr.6.44|1Ch.6.44]] [[1Chr.15.17| 15.17]], [[1Chr.15.19|19]]
+- Also named: <i>e.tan</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ית‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Ethan" **<big>[[H0387J|אֵיתָן]]</big>**)
 -  a Levite of the family of Merari and the chief of one of the 3 choirs of the temple whose descendants also formed one of the perpetual temple choirs; he is named at the beginning of 3 Psalms ([[Ps.39.1|Psa.39.1 62:1]] [[Ps.39.77| 77:]] either as the composer or the recipient of those Psalms but most likely as the leader of the choir by which those Psalms were to be sung

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-φώσκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">הָלַל</span> <small><sup>[[H1984]]</sup></small> hi., [[LXX.Job.41.18|Jb 41:18]] A (B<span class="ashebrew">א</span>, <span class="asgreek">ἐπιφαύσκ-</span>) \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-φώσκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1984|הָלַל]]</big>** hi., [[LXX.Job.41.18|Jb 41:18]] A (B<span class="ashebrew">א</span>, <span class="asgreek">ἐπιφαύσκ-</span>) \* ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to let shine</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to dawn</span> (cf. MM, <span class="asitalic">Exp.</span>, xiv): [[Luke.23.54|Lk 23:54]]; seq. <span class="asgreek">εἰς</span>, [[Matt.28.1|Mt 28:1]].†</span>
 

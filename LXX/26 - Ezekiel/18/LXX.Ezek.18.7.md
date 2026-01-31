@@ -7,29 +7,29 @@ And hath not oppressed any, [but] hath restored to the debtor his pledge, hath s
 He does not oppress another, but restores the pledge to the debtor. He does not commit robbery, but gives his bread to the hungry and covers the naked with clothing.<small><sub>**MT:**</sub></small>
 [[Ezek.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.6|<< Ezekiel 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.8|Ezekiel 18:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he tyrannize over | <big><span class="asgreek">καταδυναστεύση</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| collateral taken as a pledge | <big><span class="asgreek">ενεχυρασμόν</span></big> <sup><small><small>[[G7238]]</small></small></sup> |
-| being owed | <big><span class="asgreek">οφείλοντος</span></big> <sup><small><small>[[G3784]]</small></small></sup> |
-| he shall give back, | <big><span class="asgreek">αποδώσει</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| things for seizure | <big><span class="asgreek">άρπαγμα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seize by force, \[and\] | <big><span class="asgreek">αρπάται</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hungering | <big><span class="asgreek">πεινώντι</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] naked | <big><span class="asgreek">γυμνόν</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
-| he shall cover | <big><span class="asgreek">περιβαλεί</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| with a garment; | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he tyrannize over | **<big>[[G2616\|καταδυναστεύση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| collateral taken as a pledge | **<big>[[G7238\|ενεχυρασμόν]]</big>** |
+| being owed | **<big>[[G3784\|οφείλοντος]]</big>** |
+| he shall give back, | **<big>[[G0591\|αποδώσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| things for seizure | **<big>[[G6540\|άρπαγμα]]</big>** |
+| he shall not | **<big>[[G3756\|ουχ]]</big>** |
+| seize by force, \[and\] | **<big>[[G0726\|αρπάται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| hungering | **<big>[[G3983\|πεινώντι]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] naked | **<big>[[G1131\|γυμνόν]]</big>** |
+| he shall cover | **<big>[[G4016\|περιβαλεί]]</big>** |
+| with a garment; | **<big>[[G2440\|ιμάτιον]]</big>** |
 [[Ezek.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.6|<< Ezekiel 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.8|Ezekiel 18:8 >>]]</td></tr></table>
 
 

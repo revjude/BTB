@@ -7,22 +7,22 @@ Make haste, my beloved, and be thou like to a roe or to a young hart upon the mo
 Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.<small><sub>**MT:**</sub></small>
 [[Song.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.13|<< Song of Solomon 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.1|Isaiah 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Flee, | <big><span class="asgreek">φύγε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| O my beloved \[man\], | <big><span class="asgreek">αδελφιδέ</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be like | <big><span class="asgreek">ομοιώθητι</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doe | <big><span class="asgreek">δορκάδι</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fawn | <big><span class="asgreek">νεβρώ</span></big> <sup><small><small>[[G8381]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hinds | <big><span class="asgreek">ελάφων</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of aromatics! | <big><span class="asgreek">αρωμάτων</span></big> <sup><small><small>[[G0759]]</small></small></sup> |
+| Flee, | **<big>[[G5343\|φύγε]]</big>** |
+| O my beloved \[man\], | **<big>[[G6137\|αδελφιδέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be like | **<big>[[G3666\|ομοιώθητι]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| doe | **<big>[[G1393\|δορκάδι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| fawn | **<big>[[G8381\|νεβρώ]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| hinds | **<big>[[G7180\|ελάφων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| of aromatics! | **<big>[[G0759\|αρωμάτων]]</big>** |
 [[Song.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.13|<< Song of Solomon 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.1|Isaiah 1:1 >>]]</td></tr></table>
 
 

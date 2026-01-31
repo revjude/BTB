@@ -11,18 +11,18 @@ From birth I was cast upon You; from my mother’s womb You have been my God.<s
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I was cast | <big><span class="asgreek">επερρίφην</span></big> <sup><small><small>[[G1977]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] womb; | <big><span class="asgreek">μήτρας</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| of my mother | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| I was cast | **<big>[[G1977\|επερρίφην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] womb; | **<big>[[G3388\|μήτρας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] belly | **<big>[[G2836\|κοιλίας]]</big>** |
+| of my mother | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Ps.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.9|<< Psalm 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.11|Psalm 22:11 >>]]</td></tr></table>
 
 

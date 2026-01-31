@@ -6,15 +6,15 @@ I have spoken once, but I have no answer—twice, but I have nothing to add.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.4|<< Job 40:4]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.6|Job 40:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| one [time]  | <span class="ashebrew"><big>אַחַ֣ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'a.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spoken  | <span class="ashebrew"><big>דִּ֭בַּרְתִּי </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| Di.bar.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will answer  | <span class="ashebrew"><big>אֶֽעֱנֶ֑ה </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| 'e.'e.Neh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and two [times]  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁתַּ֗יִם </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will repeat  | <span class="ashebrew"><big>אוֹסִֽיף </big></span><small><small><sup>[[H3254G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| 'o.Sif <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one [time]  |**<big>&#8207;[[H0259\|אַחַ֣ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spoken  |**<big>&#8207;[[H1696G\|דִּ֭בַּרְתִּי]]&#8207; </big>**| Di.bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will answer  |**<big>&#8207;[[H6030B\|אֶֽעֱנֶ֑ה]]&#8207; </big>**| 'e.'e.Neh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two [times]  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H8147\|שְׁתַּ֗יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will repeat  |**<big>&#8207;[[H3254G\|אוֹסִֽיף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'o.Sif<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.4|<< Job 40:4]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.6|Job 40:6 >>]]</td></tr></table>
 
 

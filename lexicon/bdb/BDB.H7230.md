@@ -1,4 +1,4 @@
-<small>Also see: [[H7231]]</small>
+<small>Also see: **<big>[[H7231|רָבַב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רב‎</span><sub>151</sub> **noun masculine**<sup>[[Job.11.2|Job 11:2]]</sup> ==multitude, abundance, greatness==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Gen.16.10|Gen 16:10]] +, <span class="bdbLangHebrew">‎רוֺב‎</span> [[1Chr.4.38|1Chr 4:38]]; [[2Chr.31.10|2Chr 31:10]] + [[Job.33.19|Job 33:19]] [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎ריב‎</span>); construct <span class="bdbLangHebrew">‎רֹב‎</span> [[Exod.15.7|Exod 15:7]] + (<span class="bdbLangHebrew">‎רֹבֿ‎</span> [[Job.37.23|Job 37:23]] [[BDB#Baer|Baer]] [[BDB#Gi|Gi]]), <span class="bdbLangHebrew">‎רָבֿ‎</span> [[Job.23.6|Job 23:6]] +; [[2Kgs.19.23|2Kgs 19:23]] and plural construct <span class="bdbLangHebrew">‎רֻבֵּי‎</span> [[Hos.8.12|Hos 8:12]] see below; 
 

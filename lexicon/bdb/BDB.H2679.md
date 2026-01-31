@@ -1,4 +1,4 @@
-<small>Also see: [[H2680]]</small>
+<small>Also see: **<big>[[H2680|חֲצִי הַמְּנַחְתִּי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חֲצִי הַמְּנֻחוֺת‎</span> [[1Chr.2.52|1Chr 2:52]], and <span class="bdbLangHebrew">‎חֲצִי הַמָּנַחְתִּי‎</span> v[[1Chr.2.54|1Chr 2:54]], see <span class="bdbLangHebrew">‎מָנַהַת‎</span> below <span class="bdbLangHebrew">‎נוח‎</span>. 
 

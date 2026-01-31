@@ -6,24 +6,24 @@ For they sow the wind, and they shall reap the whirlwind. There is no standing g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.6|<< Hosea 8:6]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.8|Hosea 8:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wind  | <span class="ashebrew"><big>ר֥וּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they sow  | <span class="ashebrew"><big>יִזְרָ֖עוּ </big></span><small><small><sup>[[H2232]]</sup></small></small> &#8207;| yiz.Ra.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a storm-wind \<towards>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>סוּפָ֣תָ </big></span><small><small><sup>[[H5492A]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> su.Fa.ta <small><sup>[[HNcfsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will reap  | <span class="ashebrew"><big>יִקְצֹ֑רוּ </big></span><small><small><sup>[[H7114B]]</sup></small></small> &#8207;| yik.Tzo.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| standing grain  | <span class="ashebrew"><big>קָמָ֣ה </big></span><small><small><sup>[[H7054]]</sup></small></small> &#8207;| ka.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>אֵֽין </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ein- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to it  | <span class="ashebrew"><big>ל֗ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| growth  | <span class="ashebrew"><big>צֶ֚מַח </big></span><small><small><sup>[[H6780]]</sup></small></small> &#8207;| Tze.mach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בְּלִ֣י </big></span><small><small><sup>[[H1097]]</sup></small></small> &#8207;| be.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will produce  | <span class="ashebrew"><big>יַֽעֲשֶׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'a.seh- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flour  | <span class="ashebrew"><big>קֶּ֔מַח </big></span><small><small><sup>[[H7058]]</sup></small></small> &#8207;| Ke.mach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perhaps  | <span class="ashebrew"><big>אוּלַ֣י </big></span><small><small><sup>[[H0194]]</sup></small></small> &#8207;| 'u.Lai <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will produce  | <span class="ashebrew"><big>יַֽעֲשֶׂ֔ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strangers  | <span class="ashebrew"><big>זָרִ֖ים </big></span><small><small><sup>[[H2114A]]</sup></small></small> &#8207;| za.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will swallow it  | <span class="ashebrew"><big>יִבְלָעֻֽ </big></span><small><small><sup>[[H1104]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yiv.la.'U. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wind  |**<big>&#8207;[[H7307H\|ר֥וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sow  |**<big>&#8207;[[H2232\|יִזְרָ֖עוּ]]&#8207; </big>**| yiz.Ra.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a storm-wind \<towards>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5492A\|סוּפָ֣תָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> su.Fa.ta<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will reap  |**<big>&#8207;[[H7114B\|יִקְצֹ֑רוּ]]&#8207; </big>**| yik.Tzo.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| standing grain  |**<big>&#8207;[[H7054\|קָמָ֣ה]]&#8207; </big>**| ka.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to it  |**<big>&#8207;[[H9005\|ל֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| growth  |**<big>&#8207;[[H6780\|צֶ֚מַח]]&#8207; </big>**| Tze.mach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1097\|בְּלִ֣י]]&#8207; </big>**| be.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will produce  |**<big>&#8207;[[H6213A\|יַֽעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.seh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flour  |**<big>&#8207;[[H7058\|קֶּ֔מַח]]&#8207; </big>**| Ke.mach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perhaps  |**<big>&#8207;[[H0194\|אוּלַ֣י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will produce  |**<big>&#8207;[[H6213A\|יַֽעֲשֶׂ֔ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strangers  |**<big>&#8207;[[H2114A\|זָרִ֖ים]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will swallow it  |**<big>&#8207;[[H1104\|יִבְלָעֻֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yiv.la.'U.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.6|<< Hosea 8:6]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.8|Hosea 8:8 >>]]</td></tr></table>
 
 

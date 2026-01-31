@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Dumah</span>, a city located in the hill country of Judah \([[Josh.15.52|Joshua 15:52]]\).
 - A location only mentioned at [[Josh.15.52|Jos.15.52]]; 
-- only referred to as Dumah<[[H7316G]]> \(<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Dumah **<big>[[H7316|רוּמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.438270,34.982762&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dumah was a city located in the hill country of Judah, mentioned in the list of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dumah | [<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7316G) <small>*Hebrew*</small> | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dumah\*\|reference=Jos.15.52) |
-All Strong's for **Dumah**: \[[[H7316G]]\]
+| Dumah | [<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7316G) | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dumah\*\|reference=Jos.15.52) |
+All entries for **Dumah**:  **<big>[[H7316|רוּמָה]]</big>**

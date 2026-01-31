@@ -10,46 +10,46 @@ Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the
 When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—<small><sub>**MT:**</sub></small>
 [[Neh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| Sanballat heard, | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Σαναβαλάτ</span></big> <sup><small><small>[[H5571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Tobiah, | <big><span class="asgreek">Τωβία</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Geshem | <big><span class="asgreek">Γησάμ</span></big> <sup><small><small>[[H1654]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabian, | <big><span class="asgreek">Αραβί</span></big> <sup><small><small>[[G0690]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">καταλοίποις</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I built | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| left | <big><span class="asgreek">κατελείφθη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| breach | <big><span class="asgreek">διακοπή</span></big> <sup><small><small>[[G6838]]</small></small></sup> |
-| (and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that time | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \[the\] doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set up | <big><span class="asgreek">επέστησα</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates) | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| Sanballat heard, | **<big>[[G0191\|ηκούσθη]]</big>** **<big>[[G3588\|τω]]</big>** **<big>[[H5571\|Σαναβαλάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Tobiah, | **<big>[[H2900\|Τωβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Geshem | **<big>[[H1654\|Γησάμ]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| Arabian, | **<big>[[G0690\|Αραβί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| rest | **<big>[[G2645\|καταλοίποις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I built | **<big>[[G3618\|ωκοδόμησα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall, | **<big>[[G5038\|τείχος]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ου]]</big>** |
+| left | **<big>[[G2641\|κατελείφθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| breach | **<big>[[G6838\|διακοπή]]</big>** |
+| (and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| that time | **<big>[[G2540\|καιρού]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| \[the\] doors | **<big>[[G2374\|θύρας]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| set up | **<big>[[G2186\|επέστησα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| gates) | **<big>[[G4439\|πύλαις]]</big>** |
 [[Neh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 
 

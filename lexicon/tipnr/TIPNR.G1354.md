@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Dionysius</span> the Areopagite was one of the people who believed Paul's message when he preached in Athens. \([[Ezra.4.9|Act.17.34]]\)
 - A man living at the time of the New Testament, only mentioned at [[Ezra.4.9|Act.17.34]]; 
-- only referred to as Dionysius<[[G1354]]> \(<span class='tipnrLangGreek'>Διονύσιος</span>\).
+- only referred to as Dionysius **<big>[[G1354|Διονύσιος]]</big>**.
 
 Dionysius, also known as Dionysius the Areopagite, is mentioned in Acts 17:34 as one of the individuals who believed in Paul's message when he preached in Athens. The Areopagus was a council of elders and a place of philosophical discussion in ancient Athens, and Dionysius was a member of this council. 
 
@@ -18,5 +18,5 @@ According to church tradition, Dionysius later became the first bishop of Athens
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dionysius | [<span class='tipnrLangGreek'>Διονύσιος</span>](G1354) <small>*Greek*</small> | 1x | [Act.17.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dionysius\*\|reference=Act.17.34) |
-All Strong's for **Dionysius**: \[[[G1354]]\]
+| Dionysius | [<span class='tipnrLangGreek'>Διονύσιος</span>](G1354) | 1x | [Act.17.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dionysius\*\|reference=Act.17.34) |
+All entries for **Dionysius**:  **<big>[[G1354|Διονύσιος]]</big>**

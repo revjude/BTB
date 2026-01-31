@@ -6,16 +6,16 @@ Whoever tells the guilty, “You are innocent”—peoples will curse him, and n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.23|<< Proverbs 24:23]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.25|Proverbs 24:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] says  | <span class="ashebrew"><big>אֹ֤מֵ֨ר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'o.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a wicked [person]  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רָשָׁע֮ </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] righteous  | <span class="ashebrew"><big>צַדִּ֪יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אָ֥תָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will curse him  | <span class="ashebrew"><big>יִקְּבֻ֥ </big></span><small><small><sup>[[H6895]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| yi.ke.Vu. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֑ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will denounce him  | <span class="ashebrew"><big>יִזְעָמ֥וּ </big></span><small><small><sup>[[H2194]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| yiz.'a.Mu. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>לְאֻמִּֽים </big></span><small><small><sup>[[H3816]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le.'u.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] says  |**<big>&#8207;[[H0559\|אֹ֤מֵ֨ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a wicked [person]  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7563\|רָשָׁע֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] righteous  |**<big>&#8207;[[H6662\|צַדִּ֪יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אָ֥תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will curse him  |**<big>&#8207;[[H6895\|יִקְּבֻ֥]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yi.ke.Vu.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֑ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will denounce him  |**<big>&#8207;[[H2194\|יִזְעָמ֥וּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yiz.'a.Mu.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H3816\|לְאֻמִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.'u.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.23|<< Proverbs 24:23]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.25|Proverbs 24:25 >>]]</td></tr></table>
 
 

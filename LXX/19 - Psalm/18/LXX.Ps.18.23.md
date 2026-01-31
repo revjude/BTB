@@ -7,18 +7,18 @@ I was also upright before him, and I kept myself from mine iniquity.
 And I have been blameless before Him and kept myself from iniquity.<small><sub>**MT:**</sub></small>
 [[Ps.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.22|<< Psalm 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.24|Psalm 18:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμος</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall guard myself | <big><span class="asgreek">φυλάξομαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lawlessness. | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμος]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall guard myself | **<big>[[G5442\|φυλάξομαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my lawlessness. | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.22|<< Psalm 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.24|Psalm 18:24 >>]]</td></tr></table>
 
 

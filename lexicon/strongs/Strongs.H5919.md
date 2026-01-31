@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עַכְשׁוּב‎</span></big> **ʻakshûwb** <small>*(ak-shoob')*</small> ==**viper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎עַכְשׁוּב‎</span></big>** **ʻakshûwb** <small>*(ak-shoob')*</small> ==**viper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably from an unused root meaning to coil</small>
 
 $\quad$ adder.

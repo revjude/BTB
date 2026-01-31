@@ -6,15 +6,15 @@ Ain, Rimmon, Ether, and Ashan—four cities, along with their villages,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.6|<< Joshua 19:6]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.8|Joshua 19:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Ain  | <span class="ashebrew"><big>עַ֥יִן </big></span><small><small><sup>[[H5871H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rimmon  | <span class="ashebrew"><big>רִמּ֖וֹן </big></span><small><small><sup>[[H7417I]]</sup></small></small> &#8207;| ri.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ether  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶ֣תֶר </big></span><small><small><sup>[[H6281]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'E.ter <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ashan  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָשָׁ֑ן </big></span><small><small><sup>[[H6228]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Shan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cities  | <span class="ashebrew"><big>עָרִ֥ים </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבַּ֖ע </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and villages their  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַצְרֵי </big></span><small><small><sup>[[H2691B]]</sup></small></small> <span class="ashebrew"><big>הֶֽן </big></span><small><small><sup>[[H9029]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> chatz.rei. <small><sup>[[HNcmpc]]</sup></small> Hen <small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ain  |**<big>&#8207;[[H5871H\|עַ֥יִן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.yin<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rimmon  |**<big>&#8207;[[H7417I\|רִמּ֖וֹן]]&#8207; </big>**| ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ether  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6281\|עֶ֣תֶר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'E.ter<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ashan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6228\|עָשָׁ֑ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  |**<big>&#8207;[[H5892B\|עָרִ֥ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבַּ֖ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and villages their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691B\|חַצְרֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.6|<< Joshua 19:6]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.8|Joshua 19:8 >>]]</td></tr></table>
 
 

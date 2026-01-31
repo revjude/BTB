@@ -7,22 +7,22 @@ Who have said, With our tongue will we prevail; our lips [are] our own: who [is]
 They say, “With our tongues we will prevail. We own our lips—who can be our master?”<small><sub>**MT:**</sub></small>
 [[Ps.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.3|<< Psalm 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.5|Psalm 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having said, | <big><span class="asgreek">ειπόντας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our tongues | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We will magnify | <big><span class="asgreek">μεγαλυνούμεν</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| having said, | **<big>[[G2036\|ειπόντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| our tongues | **<big>[[G1100\|γλώσσαν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| We will magnify | **<big>[[G3170\|μεγαλυνούμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| our lips | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G3844\|παρ΄]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| are | **<big>[[G1510\|εστι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| lord | **<big>[[G2962\|κύριος]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
 [[Ps.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.3|<< Psalm 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.5|Psalm 12:5 >>]]</td></tr></table>
 
 

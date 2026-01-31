@@ -7,21 +7,21 @@ But if the cloud were not taken up, then they journeyed not till the day that it
 If the cloud was not lifted, they would not set out until the day it was taken up.<small><sub>**MT:**</sub></small>
 [[Exod.40.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.36|<< Exodus 40:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.38|Exodus 40:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| ascends not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| break camp | <big><span class="asgreek">ανεζεύγνυσαν</span></big> <sup><small><small>[[G6279]]</small></small></sup> |
-| till | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| But if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| ascends not | **<big>[[G3361\|μη]]</big>** **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| break camp | **<big>[[G6279\|ανεζεύγνυσαν]]</big>** |
+| till | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
 [[Exod.40.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.36|<< Exodus 40:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.38|Exodus 40:38 >>]]</td></tr></table>
 
 

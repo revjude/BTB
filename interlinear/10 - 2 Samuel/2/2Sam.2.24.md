@@ -6,27 +6,27 @@ But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.23|<< 2 Samuel 2:23]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.25|2 Samuel 2:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they pursued  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּרְדְּפ֛וּ </big></span><small><small><sup>[[H7291]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yir.de.Fu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joab  | <span class="ashebrew"><big>יוֹאָ֥ב </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Abishai  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִישַׁ֖י </big></span><small><small><sup>[[H0052]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Shai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֣י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abner  | <span class="ashebrew"><big>אַבְנֵ֑ר </big></span><small><small><sup>[[H0074]]</sup></small></small> &#8207;| 'av.Ner <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the sun  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֣מֶשׁ </big></span><small><small><sup>[[H8121]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> She.mesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it set  | <span class="ashebrew"><big>בָּ֔אָה </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵ֗מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they came  | <span class="ashebrew"><big>בָּ֚אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] hill of  | <span class="ashebrew"><big>גִּבְעַ֣ת </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| giv.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammah  | <span class="ashebrew"><big>אַמָּ֔ה </big></span><small><small><sup>[[H0522]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר֙ </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵי </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Giah  | <span class="ashebrew"><big>גִ֔יחַ </big></span><small><small><sup>[[H1520]]</sup></small></small> &#8207;| Gi.ach <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֖רֶךְ </big></span><small><small><sup>[[H1870K]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness of  | <span class="ashebrew"><big>מִדְבַּ֥ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gibeon  | <span class="ashebrew"><big>גִּבְעֽוֹן </big></span><small><small><sup>[[H1391]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| giv.'on <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they pursued  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֥ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abishai  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0052\|אֲבִישַׁ֖י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֑ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the sun  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שֶּׁ֣מֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it set  |**<big>&#8207;[[H0935G\|בָּ֔אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֗מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came  |**<big>&#8207;[[H0935G\|בָּ֚אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hill of  |**<big>&#8207;[[H1389I\|גִּבְעַ֣ת]]&#8207; </big>**| giv.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammah  |**<big>&#8207;[[H0522\|אַמָּ֔ה]]&#8207; </big>**| 'a.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Giah  |**<big>&#8207;[[H1520\|גִ֔יחַ]]&#8207; </big>**| Gi.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870K\|דֶּ֖רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness of  |**<big>&#8207;[[H4057B\|מִדְבַּ֥ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gibeon  |**<big>&#8207;[[H1391\|גִּבְעֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| giv.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.23|<< 2 Samuel 2:23]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.25|2 Samuel 2:25 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, [
 Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields—I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”<small><sub>**MT:**</sub></small>
 [[Jer.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Your adultery, | <big><span class="asgreek">μοιχεία</span></big> <sup><small><small>[[G3430]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your snorting, | <big><span class="asgreek">χρεμετισμός</span></big> <sup><small><small>[[G9755]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| alienation | <big><span class="asgreek">απαλλοτρίωσις</span></big> <sup><small><small>[[G6391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your harlotry | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills, | <big><span class="asgreek">βουνών</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fields | <big><span class="asgreek">αγροίς</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| I have seen -- | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your abominations. | <big><span class="asgreek">βδελύγματά</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you were not cleansed | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκαθαρίσθης</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| \[to follow\] after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For how long | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| yet? | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| Your adultery, | **<big>[[G3430\|μοιχεία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your snorting, | **<big>[[G9755\|χρεμετισμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| alienation | **<big>[[G6391\|απαλλοτρίωσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your harlotry | **<big>[[G4202\|πορνείας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hills, | **<big>[[G1015\|βουνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| fields | **<big>[[G0068\|αγροίς]]</big>** |
+| I have seen -- | **<big>[[G3708\|εώρακα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your abominations. | **<big>[[G0946\|βδελύγματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| O Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you were not cleansed | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2511\|εκαθαρίσθης]]</big>** |
+| \[to follow\] after | **<big>[[G3694\|οπίσω]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
+| For how long | **<big>[[G2193\|έως]]</big>** **<big>[[G5100\|τίνος]]</big>** |
+| yet? | **<big>[[G2089\|έτι]]</big>** |
 [[Jer.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
 
 

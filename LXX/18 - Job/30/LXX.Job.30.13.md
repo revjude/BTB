@@ -7,16 +7,16 @@ They mar my path, they set forward my calamity, they have no helper.
 They tear up my path; they profit from my destruction, with no one to restrain them.<small><sub>**MT:**</sub></small>
 [[Job.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.12|<< Job 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.14|Job 30:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| they obliterated | <big><span class="asgreek">εξετρίβησαν</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| my paths; | <big><span class="asgreek">τρίβοι</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for he took off | <big><span class="asgreek">εξέδυσε</span></big> <sup><small><small>[[G1562]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparel; | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| with his spear | <big><span class="asgreek">βέλεσιν</span></big> <sup><small><small>[[G0956]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he ran me through; | <big><span class="asgreek">κατηκόντισέ</span></big> <sup><small><small>[[G7857]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they obliterated | **<big>[[G7160\|εξετρίβησαν]]</big>** |
+| my paths; | **<big>[[G5147\|τρίβοι]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for he took off | **<big>[[G1562\|εξέδυσε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| apparel; | **<big>[[G4749\|στολήν]]</big>** |
+| with his spear | **<big>[[G0956\|βέλεσιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he ran me through; | **<big>[[G7857\|κατηκόντισέ]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Job.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.12|<< Job 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.14|Job 30:14 >>]]</td></tr></table>
 
 

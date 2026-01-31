@@ -7,26 +7,26 @@ And their pillars [were] four, and their sockets [of] brass four; their hooks [o
 with four posts and four bronze bases. Their hooks were silver, as well as the bands and the plating of their tops.<small><sub>**MT:**</sub></small>
 [[Exod.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their posts -- | <big><span class="asgreek">στύλοι</span></big> <sup><small><small>[[G4769]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four; | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bases -- | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| \[were of\] brass; | <big><span class="asgreek">χαλκαί</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hooks | <big><span class="asgreek">αγκύλαι</span></big> <sup><small><small>[[G6117]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were of\] silver, | <big><span class="asgreek">αργυραί</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tips | <big><span class="asgreek">κεφαλίδες</span></big> <sup><small><small>[[G2777]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being silver plated | <big><span class="asgreek">περιηργυρωμέναι</span></big> <sup><small><small>[[G8716]]</small></small></sup> |
-| in silver. | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their posts -- | **<big>[[G4769\|στύλοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| four; | **<big>[[G5064\|τέσσαρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their bases -- | **<big>[[G0939\|βάσεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρες]]</big>** |
+| \[were of\] brass; | **<big>[[G5470\|χαλκαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their hooks | **<big>[[G6117\|αγκύλαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[were of\] silver, | **<big>[[G0693\|αργυραί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their tips | **<big>[[G2777\|κεφαλίδες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| being silver plated | **<big>[[G8716\|περιηργυρωμέναι]]</big>** |
+| in silver. | **<big>[[G0694\|αργυρίω]]</big>** |
 [[Exod.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
 

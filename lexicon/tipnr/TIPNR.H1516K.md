@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ge-harashim</span>, the Valley of Craftsmen, was inhabited by some Benjamites after the return from the Babylonian exile.
 - A location first mentioned at [[1Chr.4.14|1Ch.4.14]]; 
-- referred to as Ge-harashim<[[H1516K]]><[[H1516K]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\), or "valley/ of craftsmen" \(NIV= Ge-harashim\) <[[H2798]]><[[H1516K]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span> <span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Ge-harashim **<big>[[H1516|גַּיְא]]</big>** **<big>[[H1516|גַּיְא]]</big>**, or "valley/ of craftsmen" \(NIV= Ge-harashim\)  **<big>[[H2798|חֲרָשִׁים]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 
 Ge-harashim, which means "Valley of Craftsmen" in Hebrew, is mentioned in two passages in the Bible. In [[1Chr.4.14|1 Chronicles 4:14]], Joab, the father of Ge-harashim, is listed among the descendants of Judah, specifically from the clan of Othniel. This suggests that the valley was associated with skilled artisans and craftsmen from the tribe of Judah. 
 
@@ -16,6 +16,6 @@ The name "Valley of Craftsmen" suggests that the area was known for its concentr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ge/-harashim (KJV= valley of Charashim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2798)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516K) <small>*Hebrew*</small> | 1x | [1Ch.4.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ge\*\|reference=1Ch.4.14) |
-| valley/ of craftsmen (NIV= Ge-harashim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2798)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516K) <small>*Hebrew*</small> | 1x | [Neh.11.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=valley\*\|reference=Neh.11.35) |
-All Strong's for **Ge-harashim**: \[[[H2798]]\] \[[[H1516K]]\]
+| Ge/-harashim (KJV= valley of Charashim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2798)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516K) | 1x | [1Ch.4.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ge\*\|reference=1Ch.4.14) |
+| valley/ of craftsmen (NIV= Ge-harashim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2798)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516K) | 1x | [Neh.11.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=valley\*\|reference=Neh.11.35) |
+All entries for **Ge-harashim**:  **<big>[[H2798|חֲרָשִׁים]]</big>** ☩  **<big>[[H1516|גַּיְא]]</big>**

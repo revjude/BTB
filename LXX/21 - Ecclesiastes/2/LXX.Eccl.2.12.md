@@ -7,30 +7,30 @@ And I turned myself to behold wisdom, and madness, and folly: for what [can] the
 Then I turned to consider wisdom and madness and folly; for what more can the king’s successor do than what has already been accomplished?<small><sub>**MT:**</sub></small>
 [[Eccl.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.11|<< Ecclesiastes 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.13|Ecclesiastes 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I looked around | <big><span class="asgreek">επέβλεψα</span></big> <sup><small><small>[[G1914]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to behold | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deviation | <big><span class="asgreek">περιφοράν</span></big> <sup><small><small>[[G8770]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| folly; | <big><span class="asgreek">αφροσύνην</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is the\] man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| will come | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| counsel, | <big><span class="asgreek">βουλής</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it? | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I looked around | **<big>[[G1914\|επέβλεψα]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to behold | **<big>[[G1492\|ιδείν]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deviation | **<big>[[G8770\|περιφοράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| folly; | **<big>[[G0877\|αφροσύνην]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| \[is the\] man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| will come | **<big>[[G1904\|επελεύσεται]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| counsel, | **<big>[[G1012\|βουλής]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| it? | **<big>[[G1473\|αυτήν]]</big>** |
 [[Eccl.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.11|<< Ecclesiastes 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.13|Ecclesiastes 2:13 >>]]</td></tr></table>
 
 

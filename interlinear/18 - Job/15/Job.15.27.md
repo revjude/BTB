@@ -6,16 +6,16 @@ Though his face is covered with fat and his waistline bulges with flesh,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.26|<< Job 15:26]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.28|Job 15:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has covered  | <span class="ashebrew"><big>כִסָּ֣ה </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| khi.Sah <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face his  | <span class="ashebrew"><big>פָנָ֣י </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| fa.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with fat his  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֶלְבּ֑ </big></span><small><small><sup>[[H2459]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> chel.B <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has made  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֖עַשׂ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fat  | <span class="ashebrew"><big>פִּימָ֣ה </big></span><small><small><sup>[[H6371]]</sup></small></small> &#8207;| pi.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loins  | <span class="ashebrew"><big>כָֽסֶל </big></span><small><small><sup>[[H3689]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Kha.sel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has covered  |**<big>&#8207;[[H3680\|כִסָּ֣ה]]&#8207; </big>**| khi.Sah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face his  |**<big>&#8207;[[H6440H\|פָנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with fat his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2459\|חֶלְבּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chel.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֖עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fat  |**<big>&#8207;[[H6371\|פִּימָ֣ה]]&#8207; </big>**| pi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loins  |**<big>&#8207;[[H3689\|כָֽסֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Kha.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.26|<< Job 15:26]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.28|Job 15:28 >>]]</td></tr></table>
 
 

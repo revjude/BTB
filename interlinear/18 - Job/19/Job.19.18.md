@@ -6,15 +6,15 @@ Even little boys scorn me; when I appear, they deride me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.17|<< Job 19:17]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.19|Job 19:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young boys  | <span class="ashebrew"><big>עֲ֭וִילִים </big></span><small><small><sup>[[H5759]]</sup></small></small> &#8207;| 'A.vi.lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they reject  | <span class="ashebrew"><big>מָ֣אֲסוּ </big></span><small><small><sup>[[H3988A]]</sup></small></small> &#8207;| Ma.'a.su <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> me  | <span class="ashebrew"><big>בִ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| V <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I arise  | <span class="ashebrew"><big>אָ֝ק֗וּמָה </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| 'a.Ku.mah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they spoke  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְדַבְּרוּ </big></span><small><small><sup>[[H1696G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.da.be.ru- <small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against me  | <span class="ashebrew"><big>בִֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| V <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young boys  |**<big>&#8207;[[H5759\|עֲ֭וִילִים]]&#8207; </big>**| 'A.vi.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they reject  |**<big>&#8207;[[H3988A\|מָ֣אֲסוּ]]&#8207; </big>**| Ma.'a.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> me  |**<big>&#8207;[[H9003\|בִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| V<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I arise  |**<big>&#8207;[[H6965B\|אָ֝ק֗וּמָה]]&#8207; </big>**| 'a.Ku.mah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.ru-<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against me  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| V<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.17|<< Job 19:17]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.19|Job 19:19 >>]]</td></tr></table>
 
 

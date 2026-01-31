@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sin</span> was a wilderness area between Elim and Sinai where the Israelites camped during their journey from Egypt to the Promised Land \(Exod. 16:1; 17:1; Num. 33:11-12\).
 - A location first mentioned at [[Exod.16.1|Exo.16.1]]; 
-- only referred to as Sin<[[H5512B]]> \(<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Sin **<big>[[H5512|סִין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.838778,33.420573&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The experiences of the Israelites in the Wilderness of Sin, including the provis
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sin | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5512B) <small>*Hebrew*</small> | 4x | [[Exo.16.1] ... [Num.33.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sin\*\|reference=Exo.16.1;Exo.17.1;Num.33.11;Num.33.12) |
-All Strong's for **Sin**: \[[[H5512B]]\]
+| Sin | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5512B) | 4x | [[Exo.16.1] ... [Num.33.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sin\*\|reference=Exo.16.1;Exo.17.1;Num.33.11;Num.33.12) |
+All entries for **Sin**:  **<big>[[H5512|סִין]]</big>**

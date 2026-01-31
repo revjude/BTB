@@ -7,23 +7,23 @@ But the path of the just [is] as the shining light, that shineth more and more u
 The path of the righteous is like the first gleam of dawn, shining brighter and brighter until midday.<small><sub>**MT:**</sub></small>
 [[Prov.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.17|<< Proverbs 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.19|Proverbs 4:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| are likened | <big><span class="asgreek">ομοίως</span></big> <sup><small><small>[[G3668]]</small></small></sup> |
-| to light -- | <big><span class="asgreek">φωτί</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| they radiate. | <big><span class="asgreek">λάμπουσι</span></big> <sup><small><small>[[G2989]]</small></small></sup> |
-| They go before | <big><span class="asgreek">προπορεύονται</span></big> <sup><small><small>[[G4313]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give light | <big><span class="asgreek">φωτίζουσιν</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should set up | <big><span class="asgreek">κατορθώση</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| But the | **<big>[[G3588\|αι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| ways | **<big>[[G3598\|οδοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| just | **<big>[[G1342\|δικαίων]]</big>** |
+| are likened | **<big>[[G3668\|ομοίως]]</big>** |
+| to light -- | **<big>[[G5457\|φωτί]]</big>** |
+| they radiate. | **<big>[[G2989\|λάμπουσι]]</big>** |
+| They go before | **<big>[[G4313\|προπορεύονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| give light | **<big>[[G5461\|φωτίζουσιν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should set up | **<big>[[G7976\|κατορθώση]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
 [[Prov.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.17|<< Proverbs 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.19|Proverbs 4:19 >>]]</td></tr></table>
 
 

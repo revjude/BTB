@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎πρός‎</span></big> **prós** <small>*(pros)*</small> ==**to/with**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
-<small>a strengthened form of <span class="asgreek">πρό</span><sup><small>[[G4253]]</small></sup></small>
+**<big><span class="asgreek">‎πρός‎</span></big>** **prós** <small>*(pros)*</small> ==**to/with**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
+<small>a strengthened form of **<big>[[G4253|‎πρό‎]]</big>**</small>
 
 $\quad$ about, according to , against, among, at, because of, before, between, (where-)by, for, X at thy house, in, for intent, nigh unto, of, which pertain to, that, to (the end that), X together, to (you) -ward, unto, with(-in).
 - a preposition of direction

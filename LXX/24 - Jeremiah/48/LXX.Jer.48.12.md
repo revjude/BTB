@@ -7,30 +7,30 @@ Therefore, behold, the days come, saith the LORD, that I will send unto him wand
 Therefore behold, the days are coming, declares the LORD, when I will send to him wanderers, who will pour him out. They will empty his vessels and shatter his jars.<small><sub>**MT:**</sub></small>
 [[Jer.48.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.11|<< Jeremiah 48:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.13|Jeremiah 48:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| come, | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will send | <big><span class="asgreek">αποστελώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ones leaning \[him down\], | <big><span class="asgreek">κλίνοντας</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall lean | <big><span class="asgreek">κλίνουσιν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| him \[down\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his vessels | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall thin out | <big><span class="asgreek">λεπτύνουσι</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall break. | <big><span class="asgreek">συντρίψουσι</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| come, | **<big>[[G2064\|έρχονται]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will send | **<big>[[G0649\|αποστελώ]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| ones leaning \[him down\], | **<big>[[G2827\|κλίνοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall lean | **<big>[[G2827\|κλίνουσιν]]</big>** |
+| him \[down\], | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his vessels | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they shall thin out | **<big>[[G8183\|λεπτύνουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his horns | **<big>[[G2768\|κέρατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall break. | **<big>[[G4937\|συντρίψουσι]]</big>** |
 [[Jer.48.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.11|<< Jeremiah 48:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.13|Jeremiah 48:13 >>]]</td></tr></table>
 
 

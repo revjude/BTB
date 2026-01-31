@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּתָה‎</span></big> **pâthâh** <small>*(paw-thaw')*</small> ==**to open wide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּתָה‎</span></big>** **pâthâh** <small>*(paw-thaw')*</small> ==**to open wide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ allure, deceive, enlarge, entice, flatter, persuade, silly (one).
@@ -21,4 +21,4 @@ $\quad$ **2d)** (Pual)
 $\quad$ $\quad$ **2d1)** to be persuaded
 $\quad$ $\quad$ **2d2)** to be deceived
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἀπατάω</span><sup><small>[[G0538]]</small></sup> · <span class="asgreek">ἐξακολουθέω</span><sup><small>[[G1811]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup> · <span class="asgreek">πλατύνω</span><sup><small>[[G4115]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0538|ἀπατάω]]</big>** · **<big>[[G1811|ἐξακολουθέω]]</big>** · **<big>[[G4105|πλανάω]]</big>** · **<big>[[G4115|πλατύνω]]</big>**

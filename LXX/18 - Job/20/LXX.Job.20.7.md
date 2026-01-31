@@ -7,22 +7,22 @@ for whenever he should seem already firmly fixed, then he shall perish unto \[th
 he will perish forever, like his own dung; those who had seen him will ask, ‘Where is he?’<small><sub>**MT:**</sub></small>
 [[Job.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.6|<< Job 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.8|Job 20:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he should seem | <big><span class="asgreek">δοκή</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| already | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
-| firmly fixed, | <big><span class="asgreek">κατεστηρίχθαι</span></big> <sup><small><small>[[G7930]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| he shall perish | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| and the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδότες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is he? | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he should seem | **<big>[[G1380\|δοκή]]</big>** |
+| already | **<big>[[G2235\|ήδη]]</big>** |
+| firmly fixed, | **<big>[[G7930\|κατεστηρίχθαι]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end | **<big>[[G5056\|τέλος]]</big>** |
+| he shall perish | **<big>[[G0622\|απολείται]]</big>** |
+| and the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| knowing | **<big>[[G1492\|ειδότες]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| shall say, | **<big>[[G2046\|ερούσι]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is he? | **<big>[[G1510\|εστιν]]</big>** |
 [[Job.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.6|<< Job 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.8|Job 20:8 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ And yet for all that, when they be in the land of their enemies, I will not cast
 Yet in spite of this, when they are in the land of their enemies, I will not reject or despise them so as to destroy them and break My covenant with them; for I am the LORD their God.<small><sub>**MT:**</sub></small>
 [[Lev.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.43|<< Leviticus 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.45|Leviticus 26:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they being | <big><span class="asgreek">όντων</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not overlook | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπερείδον</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| loathed | <big><span class="asgreek">προσωχθίσα</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| in them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to completely consume | <big><span class="asgreek">εξαναλώσαι</span></big> <sup><small><small>[[G7294]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for effacing | <big><span class="asgreek">διασκεδάσαι</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| thus, | **<big>[[G3779\|ούτως]]</big>** |
+| they being | **<big>[[G1510\|όντων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| I did not overlook | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5237\|υπερείδον]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| loathed | **<big>[[G4360\|προσωχθίσα]]</big>** |
+| in them | **<big>[[G1473\|αυτοίς]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to completely consume | **<big>[[G7294\|εξαναλώσαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for effacing | **<big>[[G6876\|διασκεδάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| For I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lev.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.43|<< Leviticus 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.45|Leviticus 26:45 >>]]</td></tr></table>
 
 

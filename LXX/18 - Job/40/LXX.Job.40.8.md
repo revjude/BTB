@@ -7,21 +7,21 @@ Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be r
 Would you really annul My justice? Would you condemn Me to justify yourself?<small><sub>**MT:**</sub></small>
 [[Job.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.7|<< Job 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.9|Job 40:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| should you undo | <big><span class="asgreek">αποποίη</span></big> <sup><small><small>[[G6469]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgment? | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| And do you imagine | <big><span class="asgreek">οίει</span></big> <sup><small><small>[[G3633]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| otherwise | <big><span class="asgreek">άλλως</span></big> <sup><small><small>[[G0247]]</small></small></sup> |
-| executing things with you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κεχρηματικέναι</span></big> <sup><small><small>[[G5537]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should appear | <big><span class="asgreek">αναφανής</span></big> <sup><small><small>[[G0398]]</small></small></sup> |
-| just? | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| should you undo | **<big>[[G6469\|αποποίη]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| judgment? | **<big>[[G2917\|κρίμα]]</big>** |
+| And do you imagine | **<big>[[G3633\|οίει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| otherwise | **<big>[[G0247\|άλλως]]</big>** |
+| executing things with you? | **<big>[[G1473\|σοι]]</big>** **<big>[[G5537\|κεχρηματικέναι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should appear | **<big>[[G0398\|αναφανής]]</big>** |
+| just? | **<big>[[G1342\|δίκαιος]]</big>** |
 [[Job.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.7|<< Job 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.9|Job 40:9 >>]]</td></tr></table>
 
 

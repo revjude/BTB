@@ -7,19 +7,19 @@ Set a watch, O LORD, before my mouth; keep the door of my lips.
 Set a guard, O LORD, over my mouth; keep watch at the door of my lips.<small><sub>**MT:**</sub></small>
 [[Ps.141.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.2|<< Psalm 141:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.4|Psalm 141:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Set, | <big><span class="asgreek">θου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| for | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth, | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| a citadel | <big><span class="asgreek">περιοχής</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lips! | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Set, | **<big>[[G5087\|θου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| a watch | **<big>[[G5438\|φυλακήν]]</big>** |
+| for | **<big>[[G3588\|τω]]</big>** |
+| my mouth, | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| a citadel | **<big>[[G4042\|περιοχής]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my lips! | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.141.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.2|<< Psalm 141:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.4|Psalm 141:4 >>]]</td></tr></table>
 
 

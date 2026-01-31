@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲשַׁבְנְיָה‎</span></big> **Chăshabnᵉyâh** <small>*(khash-ab-neh-yaw')*</small> ==**Hashabneiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶשְׁבּוֹן‎</span><sup><small>[[H2808]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; thought of Jah</small>
+**<big><span class="ashebrew">‎חֲשַׁבְנְיָה‎</span></big>** **Chăshabnᵉyâh** <small>*(khash-ab-neh-yaw')*</small> ==**Hashabneiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2808|‎חֶשְׁבּוֹן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; thought of Jah</small>
 
 $\quad$ Hashabniah.
 - § Hashabniah = *"whom Jehovah regards"*

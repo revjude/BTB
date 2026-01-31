@@ -7,29 +7,29 @@ And the mouth of it within the chapiter and above [was] a cubit: but the mouth t
 The opening to each stand inside the crown at the top was one cubit deep, with a round opening like the design of a pedestal, a cubit and a half wide. And around its opening were engravings, but the panels of the stands were square, not round.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.30|<< 1 Kings 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.32|1 Kings 7:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] globular, | <big><span class="asgreek">στρογγυλούν</span></big> <sup><small><small>[[G9203]]</small></small></sup> |
-| a thing made | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| thus -- | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| half | <big><span class="asgreek">ημίσεως</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| a cubit. | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G0253]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] carvings. | <big><span class="asgreek">διατορεύματα</span></big> <sup><small><small>[[G6892]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G0253]]</small></small></sup> |
-| their small pillars | <big><span class="asgreek">διάπηγα</span></big> <sup><small><small>[[G6862]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] four-cornered, | <big><span class="asgreek">τετράγωνα</span></big> <sup><small><small>[[G5068]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| globular. | <big><span class="asgreek">στρογγύλα</span></big> <sup><small><small>[[G9203]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] globular, | **<big>[[G9203\|στρογγυλούν]]</big>** |
+| a thing made | **<big>[[G4161\|ποίημα]]</big>** |
+| thus -- | **<big>[[G3779\|ούτω]]</big>** |
+| a cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| half | **<big>[[G2255\|ημίσεως]]</big>** |
+| a cubit. | **<big>[[G4083\|πήχεως]]</big>** |
+| And | **<big>[[G0253\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] carvings. | **<big>[[G6892\|διατορεύματα]]</big>** |
+| And | **<big>[[G0253\|και]]</big>** |
+| their small pillars | **<big>[[G6862\|διάπηγα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[were\] four-cornered, | **<big>[[G5068\|τετράγωνα]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| globular. | **<big>[[G9203\|στρογγύλα]]</big>** |
 [[1Kgs.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.30|<< 1 Kings 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.32|1 Kings 7:32 >>]]</td></tr></table>
 
 

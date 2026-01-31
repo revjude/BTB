@@ -7,37 +7,37 @@ But if her father disallow her in the day that he heareth; not any of her vows, 
 But if her father prohibits her on the day he hears about it, then none of the vows or pledges by which she has bound herself shall stand. The LORD will absolve her because her father has prohibited her.<small><sub>**MT:**</sub></small>
 [[Num.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.4|<< Numbers 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.6|Numbers 30:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in shaking his head in dissent | <big><span class="asgreek">ανανεύων</span></big> <sup><small><small>[[G6296]]</small></small></sup> |
-| should dissent | <big><span class="asgreek">ανανεύση</span></big> <sup><small><small>[[G6296]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he should hear | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her vows, | <big><span class="asgreek">ευχάς</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her sets of limits | <big><span class="asgreek">ορισμούς</span></big> <sup><small><small>[[G8547]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she confirmed | <big><span class="asgreek">ωρίσατο</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
-| on | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her life, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[then\] they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand; | <big><span class="asgreek">στήσονται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall clear | <big><span class="asgreek">καθαριεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shook his head in dissent | <big><span class="asgreek">ανένευσεν</span></big> <sup><small><small>[[G6296]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in shaking his head in dissent | **<big>[[G6296\|ανανεύων]]</big>** |
+| should dissent | **<big>[[G6296\|ανανεύση]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he should hear | **<big>[[G0191\|ακούση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her vows, | **<big>[[G2171\|ευχάς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her sets of limits | **<big>[[G8547\|ορισμούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| she confirmed | **<big>[[G3724\|ωρίσατο]]</big>** |
+| on | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| her life, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[then\] they shall not | **<big>[[G3756\|ου]]</big>** |
+| stand; | **<big>[[G2476\|στήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| shall clear | **<big>[[G2511\|καθαριεί]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| shook his head in dissent | **<big>[[G6296\|ανένευσεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Num.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.4|<< Numbers 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.6|Numbers 30:6 >>]]</td></tr></table>
 
 

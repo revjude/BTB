@@ -10,26 +10,26 @@ Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is 
 > $\quad$ referenced by: [[Rev.19.13|Rev 19:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֣ה </big></span><small><small><sup>[[H2088]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] coming  | <span class="ashebrew"><big>בָּ֣א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ba' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Edom  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֱד֗וֹם </big></span><small><small><sup>[[H0123G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'e.Dom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| red of  | <span class="ashebrew"><big>חֲמ֤וּץ </big></span><small><small><sup>[[H2556B]]</sup></small></small> &#8207;| cha.Mutz <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| garments  | <span class="ashebrew"><big>בְּגָדִים֙ </big></span><small><small><sup>[[H0899B]]</sup></small></small> &#8207;| be.ga.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Bozrah  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בָּצְרָ֔ה </big></span><small><small><sup>[[H1224G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ba.tze.Rah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this one  | <span class="ashebrew"><big>זֶ֚ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] adorned  | <span class="ashebrew"><big>הָד֣וּר </big></span><small><small><sup>[[H1921]]</sup></small></small> &#8207;| ha.Dur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in clothing his  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לְבוּשׁ֔ </big></span><small><small><sup>[[H3830]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> l.vu.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] stooping  | <span class="ashebrew"><big>צֹעֶ֖ה </big></span><small><small><sup>[[H6808]]</sup></small></small> &#8207;| tzo.'Eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] greatness of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רֹ֣ב </big></span><small><small><sup>[[H7230]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ro <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength his  | <span class="ashebrew"><big>כֹּח֑ </big></span><small><small><sup>[[H3581B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ko.Ch <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֛י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] speaking  | <span class="ashebrew"><big>מְדַבֵּ֥ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| me.da.Ber <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in righteousness  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צְדָקָ֖ה </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> tz.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>רַ֥ב </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to save  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הוֹשִֽׁיעַ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ho.Shi.a' <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] coming  |**<big>&#8207;[[H0935G\|בָּ֣א]]&#8207; </big>**| ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Edom  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0123G\|אֱד֗וֹם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| red of  |**<big>&#8207;[[H2556B\|חֲמ֤וּץ]]&#8207; </big>**| cha.Mutz<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments  |**<big>&#8207;[[H0899B\|בְּגָדִים֙]]&#8207; </big>**| be.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Bozrah  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1224G\|בָּצְרָ֔ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.tze.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this one  |**<big>&#8207;[[H2088\|זֶ֚ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] adorned  |**<big>&#8207;[[H1921\|הָד֣וּר]]&#8207; </big>**| ha.Dur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in clothing his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3830\|לְבוּשׁ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> l.vu.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] stooping  |**<big>&#8207;[[H6808\|צֹעֶ֖ה]]&#8207; </big>**| tzo.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] greatness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength his  |**<big>&#8207;[[H3581B\|כֹּח֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ko.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֛י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] speaking  |**<big>&#8207;[[H1696G\|מְדַבֵּ֥ר]]&#8207; </big>**| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in righteousness  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6666\|צְדָקָ֖ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> tz.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7227A\|רַ֥ב]]&#8207; </big>**| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to save  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3467\|הוֹשִֽׁיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.Shi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
 
 

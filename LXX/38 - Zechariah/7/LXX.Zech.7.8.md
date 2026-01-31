@@ -10,15 +10,15 @@ And the word of the LORD came unto Zechariah, saying,
 Then the word of the LORD came to Zechariah, saying,<small><sub>**MT:**</sub></small>
 [[Zech.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.7|<< Zechariah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.9|Zechariah 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Zechariah, | <big><span class="asgreek">Ζαχαρίαν</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Zechariah, | **<big>[[G2197\|Ζαχαρίαν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Zech.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.7|<< Zechariah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.9|Zechariah 7:9 >>]]</td></tr></table>
 
 

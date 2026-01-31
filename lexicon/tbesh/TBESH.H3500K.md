@@ -1,8 +1,7 @@
-<span class="ashebrew">‎יֶ֫תֶר‎</span> <small>***(ye.ter)***</small> ==**Jether**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H3506H]]</small> 
+<small>name of:</small> <small>**<big>[[H3506H|יִתְרָן]]</big>**</small> 
 
 - A man of the tribe of Asher living at the time of Divided Monarchy, first mentioned at [[1Chr.7.37|1Ch.7.37]]
--  son of: Zophah ([[H6690]])
--  brother of: Suah ([[H5477]]), Harnepher ([[H2774]]), Shual ([[H7777B]]), Beri ([[H1275]]), Imrah ([[H3236]]), Bezer ([[H1221H]]), Hod ([[H1936]]), Shamma ([[H8037H]]), Shilshah ([[H8030]]) and Beera ([[H0878]])
--  father of: Jephunneh ([[H3312H]]), Pispa ([[H6462]]) and Ara ([[H0690]]); also called Jether at [[1Chr.7.38|1Ch.7.38]]
-- Another name of <i>yit.ran</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎ת‎</span>ְ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Ithran" [[H3506H]])
+-  son of: Zophah (**<big>[[H6690|צוֹפַח]]</big>**)
+-  brother of: Suah (**<big>[[H5477|סוּחַ]]</big>**), Harnepher (**<big>[[H2774|חַרְנֶפֶר]]</big>**), Shual (**<big>[[H7777B|שׁוּעָל]]</big>**), Beri (**<big>[[H1275|בֵּרִי]]</big>**), Imrah (**<big>[[H3236|יִמְרָה]]</big>**), Bezer (**<big>[[H1221H|בֶּצֶר]]</big>**), Hod (**<big>[[H1936|הוֹד]]</big>**), Shamma (**<big>[[H8037H|שַׁמָּא]]</big>**), Shilshah (**<big>[[H8030|שִׁלְשָׁה]]</big>**) and Beera (**<big>[[H0878|בְּאֵרָא]]</big>**)
+-  father of: Jephunneh (**<big>[[H3312H|יְפֻנֶּה]]</big>**), Pispa (**<big>[[H6462|פִּסְפָּה]]</big>**) and Ara (**<big>[[H0690|אֲרָא]]</big>**); also called Jether at [[1Chr.7.38|1Ch.7.38]]
+- Another name of <i>yit.ran</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎ת‎</span>ְ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Ithran" **<big>[[H3506H|יִתְרָן]]</big>**)

@@ -4,10 +4,10 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Isshiah</span> was a Levite, the son of Rehabiah and grandson of Moses, who served during King David's reign \([[1Chr.23.20|1Ch.23.20]], 24.25\).
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.23.20|1Ch.23.20]]; 
-- referred to as Isshiah or Isshiah \(KJV= Jesiah, NIV= Ishiah\) <[[H3449I]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  son of Uzziel<[[H5816G]]>; 
-- a brother of Mishael<[[H4332G]]>, Elizaphan<[[H0469G]]>, Sithri<[[H5644]]> and Micah<[[H4318J]]>; 
--  father of Zechariah<[[H2148E]]>.
+- referred to as Isshiah or Isshiah \(KJV= Jesiah, NIV= Ishiah\)  **<big>[[H3449|יִשִּׁיָּה]]</big>**; 
+-  son of Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**; 
+- a brother of Mishael **<big>[[H4332|מִישָׁאֵל]]</big>**, Elizaphan **<big>[[H0469|אֱלִיצָפָן]]</big>**, Sithri **<big>[[H5644|סִתְרִי]]</big>** and Micah **<big>[[H4318|מִיכָה]]</big>**; 
+-  father of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
 Isshiah is mentioned in two passages in 1 Chronicles as a Levite who served during the reign of King David. In [[1Chr.23.20|1 Chronicles 23:20]], he is listed as a descendant of Moses, specifically as the son of Rehabiah and the grandson of Moses. 
 
@@ -19,9 +19,9 @@ No other specific details are provided about Isshiah's life or role. His inclusi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Isshiah (NIV= Ishiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H3449I) <small>*Hebrew*</small> | 2x | [[1Ch.24.25a] & [1Ch.24.25b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isshiah\*\|reference=1Ch.24.25;1Ch.24.25) |
-| Isshiah (KJV= Jesiah; NIV= Ishiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H3449I) <small>*Hebrew*</small> | 1x | [1Ch.23.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isshiah\*\|reference=1Ch.23.20) |
-All Strong's for **Isshiah**: \[[[H3449I]]\]
+| Isshiah (NIV= Ishiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H3449I) | 2x | [[1Ch.24.25a] & [1Ch.24.25b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isshiah\*\|reference=1Ch.24.25;1Ch.24.25) |
+| Isshiah (KJV= Jesiah; NIV= Ishiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H3449I) | 1x | [1Ch.23.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isshiah\*\|reference=1Ch.23.20) |
+All entries for **Isshiah**:  **<big>[[H3449|יִשִּׁיָּה]]</big>**
 #### Related Profiles:
 - **[Uzziel](H5816G)** (father)
 - **[Mishael](H4332G)** (sibling)

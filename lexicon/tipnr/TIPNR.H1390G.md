@@ -1,8 +1,8 @@
 <small>*Gibeah\_2 • A town in the hill country of Judah.*</small>
 
 <span class='tipnrhighlight'>Gibeah</span>, a town in the hill country of Judah, was the hometown of Maacah, the mother of King Abijah \([[Josh.15.57|Joshua 15:57]]; [[2Chr.13.2|2 Chronicles 13:2]]\).
-- A location near Carmel<[[H3760G]]> first mentioned at [[Josh.15.57|Jos.15.57]]; 
-- only referred to as Gibeah<[[H1390G]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Carmel **<big>[[H3760|כַּרְמֶל]]</big>** first mentioned at [[Josh.15.57|Jos.15.57]]; 
+- only referred to as Gibeah **<big>[[H1390|גִּבְעָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.43333151674604,35.13333188530802&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gibeah was a town located in the hill country of Judah \([[Josh.15.57|Joshua 15:
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gibeah | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1390G) <small>*Hebrew*</small> | 2x | [[Jos.15.57] & [2Ch.13.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibeah\*\|reference=Jos.15.57;2Ch.13.2) |
-All Strong's for **Gibeah**: \[[[H1390G]]\]
+| Gibeah | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1390G) | 2x | [[Jos.15.57] & [2Ch.13.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibeah\*\|reference=Jos.15.57;2Ch.13.2) |
+All entries for **Gibeah**:  **<big>[[H1390|גִּבְעָה]]</big>**

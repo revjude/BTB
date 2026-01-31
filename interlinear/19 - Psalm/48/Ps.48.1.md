@@ -10,16 +10,16 @@ A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be prais
 > $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] great  | <span class="ashebrew"><big>גָּ֘ד֤וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] to be praised  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְהֻלָּ֣ל </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.hu.Lal <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹ֑ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] city of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִ֥יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ir <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  | <span class="ashebrew"><big>אֱ֝לֹהֵ֗י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness his  | <span class="ashebrew"><big>קָדְשֽׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.de.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] great  |**<big>&#8207;[[H1419A\|גָּ֘ד֤וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] to be praised  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1984B\|מְהֻלָּ֣ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.hu.Lal<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֑ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] city of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עִ֥יר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱ֝לֹהֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness his  |**<big>&#8207;[[H6944G\|קָדְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.de.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.0|<< Psalms 48:0]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.2|Psalms 48:2 >>]]</td></tr></table>
 
 

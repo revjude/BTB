@@ -1,4 +1,2 @@
-<span class="ashebrew">‎אׇרְנָן‎</span> <small>***(or.nan)***</small> ==**Ornan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.24.16|2Sa.24.16]] [[2Sam.24.0| a]] lso called Araunah at [[2Sam.24.16|2Sa.24.16]], [[2Sam.24.18|18]], [[2Sam.24.20|20]], [[2Sam.24.21|21]], [[2Sam.24.22|22]], [[2Sam.24.23|23]], [[2Sam.24.24|24]]
-- Also named: <i>a.rav.nah</i> (<span class='ashebrew'>‎א‎</span>ֲ<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ו‎</span>ְ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "Araunah" [[H0728]])
-
+- Also named: <i>a.rav.nah</i> (<span class='ashebrew'>‎א‎</span>ֲ<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ו‎</span>ְ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "Araunah" **<big>[[H0728|אֲרַוְנָה]]</big>**)

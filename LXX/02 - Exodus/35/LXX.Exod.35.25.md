@@ -7,30 +7,30 @@ And all the women that were wise hearted did spin with their hands, and brought 
 Every skilled woman spun with her hands and brought what she had spun: blue, purple, or scarlet yarn, or fine linen.<small><sub>**MT:**</sub></small>
 [[Exod.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.24|<< Exodus 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.26|Exodus 35:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφή</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| in | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| considering | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| with the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| to spin, | <big><span class="asgreek">νήθειν</span></big> <sup><small><small>[[G3514]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| \[works\] being spun -- | <big><span class="asgreek">νενησμένα</span></big> <sup><small><small>[[G3514]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blue, | <big><span class="asgreek">υάκινθον</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύραν</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| linen. | <big><span class="asgreek">βύσσον</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| wise | **<big>[[G4680\|σοφή]]</big>** |
+| in | **<big>[[G3588\|τη]]</big>** |
+| considering | **<big>[[G1271\|διανοία]]</big>** |
+| with the | **<big>[[G3588\|ταις]]</big>** |
+| hands | **<big>[[G5495\|χερσί]]</big>** |
+| to spin, | **<big>[[G3514\|νήθειν]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| \[works\] being spun -- | **<big>[[G3514\|νενησμένα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| blue, | **<big>[[G5192\|υάκινθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| purple, | **<big>[[G4209\|πορφύραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| linen. | **<big>[[G1040\|βύσσον]]</big>** |
 [[Exod.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.24|<< Exodus 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.26|Exodus 35:26 >>]]</td></tr></table>
 
 

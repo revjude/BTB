@@ -7,24 +7,24 @@ And if thou wilt make me an altar of stone, thou shalt not build it of hewn ston
 Now if you make an altar of stones for Me, you must not build it with stones shaped by tools; for if you use a chisel on it, you will defile it.<small><sub>**MT:**</sub></small>
 [[Exod.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.24|<< Exodus 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.26|Exodus 20:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| you should make | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not build | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cut into shape; | <big><span class="asgreek">τμητούς</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| your knife | <big><span class="asgreek">εγχειρίδιόν</span></big> <sup><small><small>[[G7038]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you have put | <big><span class="asgreek">επιβέβληκας</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they are defiled. | <big><span class="asgreek">μεμίανται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| stones | **<big>[[G3037\|λίθων]]</big>** |
+| you should make | **<big>[[G4160\|ποιήσης]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| you shall not build | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| cut into shape; | **<big>[[G1510\|τμητούς]]</big>** |
+| for | **<big>[[G3588\|το]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| your knife | **<big>[[G7038\|εγχειρίδιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you have put | **<big>[[G1911\|επιβέβληκας]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they are defiled. | **<big>[[G3392\|μεμίανται]]</big>** |
 [[Exod.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.24|<< Exodus 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.26|Exodus 20:26 >>]]</td></tr></table>
 
 

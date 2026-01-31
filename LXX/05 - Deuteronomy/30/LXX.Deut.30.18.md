@@ -7,30 +7,30 @@ I denounce unto you this day, that ye shall surely perish, [and that] ye shall n
 I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess.<small><sub>**MT:**</sub></small>
 [[Deut.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.17|<< Deuteronomy 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.19|Deuteronomy 30:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I announce | <big><span class="asgreek">αναγγέλλω</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by destruction | <big><span class="asgreek">απωλεία</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| you will be destroyed, | <big><span class="asgreek">απολείσθε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| many days | <big><span class="asgreek">πολυήμεροι</span></big> <sup><small><small>[[G8850]]</small></small></sup> |
-| shall there be | <big><span class="asgreek">γένησθε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pass over | <big><span class="asgreek">διαβαίνετε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to inherit | <big><span class="asgreek">κληρονομήσαι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I announce | **<big>[[G0312\|αναγγέλλω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| by destruction | **<big>[[G0684\|απωλεία]]</big>** |
+| you will be destroyed, | **<big>[[G0622\|απολείσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| many days | **<big>[[G8850\|πολυήμεροι]]</big>** |
+| shall there be | **<big>[[G1096\|γένησθε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| pass over | **<big>[[G1224\|διαβαίνετε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to inherit | **<big>[[G2816\|κληρονομήσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Deut.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.17|<< Deuteronomy 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.19|Deuteronomy 30:19 >>]]</td></tr></table>
 
 

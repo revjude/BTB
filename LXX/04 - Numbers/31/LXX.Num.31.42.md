@@ -7,21 +7,21 @@ And of the children of Israel’s half, which Moses divided from the men that wa
 From the Israelites’ half, which Moses had set apart from the men who had gone to war,<small><sub>**MT:**</sub></small>
 [[Num.31.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ημισεύματος</span></big> <sup><small><small>[[G7630]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses divided | <big><span class="asgreek">διείλε</span></big> <sup><small><small>[[G1244]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warrior | <big><span class="asgreek">πολεμιστών</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| half | **<big>[[G7630\|ημισεύματος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| Moses divided | **<big>[[G1244\|διείλε]]</big>** **<big>[[G1473\|Μωυσής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| warrior | **<big>[[G8841\|πολεμιστών]]</big>** |
 [[Num.31.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 
 

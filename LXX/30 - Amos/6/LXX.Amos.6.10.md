@@ -7,44 +7,44 @@ And a man’s uncle shall take him up, and he that burneth him, to bring out the
 And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, “Is anyone else with you?” “None,” that person will answer. “Silence,” the relative will retort, “for the name of the LORD must not be invoked.”<small><sub>**MT:**</sub></small>
 [[Amos.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.9|<< Amos 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.11|Amos 6:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be left behind | <big><span class="asgreek">υπολειφθήσονται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their family members | <big><span class="asgreek">οικείοι</span></big> <sup><small><small>[[G3609]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should press | <big><span class="asgreek">παραβιώνται</span></big> <sup><small><small>[[G3849]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring forth | <big><span class="asgreek">εξενέγκαι</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house; | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[one\] shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| set over | <big><span class="asgreek">προεστηκόσι</span></big> <sup><small><small>[[G4291]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| Is \[there\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \[any\] existing | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| No longer, | <big><span class="asgreek">ουκ έτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the other\] shall say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Quiet, | <big><span class="asgreek">σίγα</span></big> <sup><small><small>[[G4601]]</small></small></sup> |
-| so as | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| name | <big><span class="asgreek">ονομάσαι</span></big> <sup><small><small>[[G3687]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be left behind | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their family members | **<big>[[G3609\|οικείοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should press | **<big>[[G3849\|παραβιώνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring forth | **<big>[[G1627\|εξενέγκαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house; | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[one\] shall say | **<big>[[G2046\|ερεί]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| set over | **<big>[[G4291\|προεστηκόσι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| house, | **<big>[[G3614\|οικίας]]</big>** |
+| Is \[there\] | **<big>[[G1487\|ει]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| \[any\] existing | **<big>[[G5225\|υπάρχει]]</big>** |
+| with | **<big>[[G3844\|παρά]]</big>** |
+| you? | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall say, | **<big>[[G2046\|ερεί]]</big>** |
+| No longer, | **<big>[[G3765\|ουκ έτι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the other\] shall say, | **<big>[[G2046\|ερεί]]</big>** |
+| Quiet, | **<big>[[G4601\|σίγα]]</big>** |
+| so as | **<big>[[G1752\|ένεκα]]</big>** **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| name | **<big>[[G3687\|ονομάσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Amos.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.9|<< Amos 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.11|Amos 6:11 >>]]</td></tr></table>
 
 

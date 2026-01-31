@@ -7,27 +7,27 @@ Surely after that I was turned, I repented; and after that I was instructed, I s
 After I returned, I repented; and after I was instructed, I struck my thigh in grief. I was ashamed and humiliated because I bore the disgrace of my youth.’<small><sub>**MT:**</sub></small>
 [[Jer.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.18|<< Jeremiah 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.20|Jeremiah 31:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| after | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
-| my captivity, | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I changed my mind; | <big><span class="asgreek">μετενόησα</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my knowing, | <big><span class="asgreek">γνώναί</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I moaned | <big><span class="asgreek">εστέναξα</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of shame. | <big><span class="asgreek">αισχύνης</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I showed you plainly | <big><span class="asgreek">υπέδειξά</span></big> <sup><small><small>[[G5263]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| scorning | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my youth. | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| after | **<big>[[G5305\|ύστερον]]</big>** |
+| my captivity, | **<big>[[G0161\|αιχμαλωσίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I changed my mind; | **<big>[[G3340\|μετενόησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G5305\|ύστερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my knowing, | **<big>[[G1097\|γνώναί]]</big>** **<big>[[G1473\|με]]</big>** |
+| I moaned | **<big>[[G4727\|εστέναξα]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρας]]</big>** |
+| of shame. | **<big>[[G0152\|αισχύνης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I showed you plainly | **<big>[[G5263\|υπέδειξά]]</big>** **<big>[[G1473\|σε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I took | **<big>[[G2983\|έλαβον]]</big>** |
+| scorning | **<big>[[G3680\|ονειδισμόν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| my youth. | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.18|<< Jeremiah 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.20|Jeremiah 31:20 >>]]</td></tr></table>
 
 

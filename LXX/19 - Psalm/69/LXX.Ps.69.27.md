@@ -7,18 +7,18 @@ Add iniquity unto their iniquity: and let them not come into thy righteousness.
 Add iniquity to their iniquity; let them not share in Your righteousness.<small><sub>**MT:**</sub></small>
 [[Ps.69.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.26|<< Psalm 69:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.28|Psalm 69:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Add | <big><span class="asgreek">πρόσθες</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lawlessness! | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελθέτωσαν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Add | **<big>[[G4369\|πρόσθες]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their lawlessness! | **<big>[[G0458\|ανομία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| enter | **<big>[[G1525\|εισελθέτωσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.69.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.26|<< Psalm 69:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.28|Psalm 69:28 >>]]</td></tr></table>
 
 

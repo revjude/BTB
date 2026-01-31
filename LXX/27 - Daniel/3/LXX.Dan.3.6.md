@@ -11,24 +11,24 @@ And whoever does not fall down and worship will immediately be thrown into the b
 > $\quad$ referenced by: [[Matt.13.42|Matt 13:42]][[Matt.13.50|, 50]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fall | <big><span class="asgreek">πεσών</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| to do obeisance, | <big><span class="asgreek">προσκυνήση</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| in that same | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hour | <big><span class="asgreek">ώρα</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| they shall be put | <big><span class="asgreek">εμβληθήσεται</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace | <big><span class="asgreek">κάμινον</span></big> <sup><small><small>[[G2575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιομένην</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| fall | **<big>[[G4098\|πεσών]]</big>** |
+| to do obeisance, | **<big>[[G4352\|προσκυνήση]]</big>** |
+| in that same | **<big>[[G1473\|αυτή]]</big>** **<big>[[G3588\|τη]]</big>** |
+| hour | **<big>[[G5610\|ώρα]]</big>** |
+| they shall be put | **<big>[[G1685\|εμβληθήσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| furnace | **<big>[[G2575\|κάμινον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| burning | **<big>[[G2545\|καιομένην]]</big>** |
 [[Dan.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.5|<< Daniel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.7|Daniel 3:7 >>]]</td></tr></table>
 
 

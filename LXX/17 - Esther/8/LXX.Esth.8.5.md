@@ -7,34 +7,34 @@ And said, If it please the king, and if I have found favour in his sight, and th
 “If it pleases the king,” she said, “and if I have found favor in his sight, and the matter seems proper to the king, and I am pleasing in his sight, may an order be written to revoke the letters that the scheming Haman son of Hammedatha, the Agagite, wrote to destroy the Jews in all the king’s provinces.<small><sub>**MT:**</sub></small>
 [[Esth.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.4|<< Esther 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.6|Esther 8:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Esther said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it seems \[good\] | <big><span class="asgreek">δοκεί</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor, | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| let it be sent forth | <big><span class="asgreek">πεμφθήτω</span></big> <sup><small><small>[[G3992]]</small></small></sup> |
-| to return | <big><span class="asgreek">αποστραφήναι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| letters | <big><span class="asgreek">γράμματα</span></big> <sup><small><small>[[G1121]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being sent | <big><span class="asgreek">απεσταλμένα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been written | <big><span class="asgreek">γραφέντα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσθαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are | <big><span class="asgreek">είσιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your kingdom. | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Esther said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| it seems \[good\] | **<big>[[G1380\|δοκεί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I found | **<big>[[G2147\|εύρον]]</big>** |
+| favor, | **<big>[[G5485\|χάριν]]</big>** |
+| let it be sent forth | **<big>[[G3992\|πεμφθήτω]]</big>** |
+| to return | **<big>[[G0654\|αποστραφήναι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| letters | **<big>[[G1121\|γράμματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being sent | **<big>[[G0649\|απεσταλμένα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| having been written | **<big>[[G1125\|γραφέντα]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσθαι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίους]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| are | **<big>[[G1510\|είσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your kingdom. | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Esth.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.4|<< Esther 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.6|Esther 8:6 >>]]</td></tr></table>
 
 

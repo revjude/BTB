@@ -6,32 +6,32 @@ But require of them the same quota of bricks as before; do not reduce it. For th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.7|<< Exodus 5:7]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.9|Exodus 5:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] measurement of  | <span class="ashebrew"><big>מַתְכֹּ֨נֶת </big></span><small><small><sup>[[H4971]]</sup></small></small> &#8207;| mat.Ko.net <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the bricks  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לְּבֵנִ֜ים </big></span><small><small><sup>[[H3843]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> le.ve.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵם֩ </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] making  | <span class="ashebrew"><big>עֹשִׂ֨ים </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'o.Sim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| yesterday  | <span class="ashebrew"><big>תְּמ֤וֹל </big></span><small><small><sup>[[H8543]]</sup></small></small> &#8207;| te.Mol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three days ago  | <span class="ashebrew"><big>שִׁלְשֹׁם֙ </big></span><small><small><sup>[[H8032]]</sup></small></small> &#8207;| shil.Shom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will place  | <span class="ashebrew"><big>תָּשִׂ֣ימוּ </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| ta.Si.mu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will diminish  | <span class="ashebrew"><big>תִגְרְע֖וּ </big></span><small><small><sup>[[H1639]]</sup></small></small> &#8207;| tig.re.'U <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּ֑ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] idle  | <span class="ashebrew"><big>נִרְפִּ֣ים </big></span><small><small><sup>[[H7503]]</sup></small></small> &#8207;| nir.Pim <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֔ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֤ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] crying out  | <span class="ashebrew"><big>צֹֽעֲקִים֙ </big></span><small><small><sup>[[H6817]]</sup></small></small> &#8207;| tzo.'a.Kim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֔ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us go  | <span class="ashebrew"><big>נֵלְכָ֖ה </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| ne.le.Khah <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us sacrifice  | <span class="ashebrew"><big>נִזְבְּחָ֥ה </big></span><small><small><sup>[[H2076]]</sup></small></small> &#8207;| niz.be.Chah <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to God our  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אלֹהֵֽי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> lo.Hei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] measurement of  |**<big>&#8207;[[H4971\|מַתְכֹּ֨נֶת]]&#8207; </big>**| mat.Ko.net<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the bricks  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3843\|לְּבֵנִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.ve.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵם֩]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] making  |**<big>&#8207;[[H6213H\|עֹשִׂ֨ים]]&#8207; </big>**| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yesterday  |**<big>&#8207;[[H8543\|תְּמ֤וֹל]]&#8207; </big>**| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three days ago  |**<big>&#8207;[[H8032\|שִׁלְשֹׁם֙]]&#8207; </big>**| shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will place  |**<big>&#8207;[[H7760H\|תָּשִׂ֣ימוּ]]&#8207; </big>**| ta.Si.mu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will diminish  |**<big>&#8207;[[H1639\|תִגְרְע֖וּ]]&#8207; </big>**| tig.re.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] idle  |**<big>&#8207;[[H7503\|נִרְפִּ֣ים]]&#8207; </big>**| nir.Pim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֔ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֤ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] crying out  |**<big>&#8207;[[H6817\|צֹֽעֲקִים֙]]&#8207; </big>**| tzo.'a.Kim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֔ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us go  |**<big>&#8207;[[H1980G\|נֵלְכָ֖ה]]&#8207; </big>**| ne.le.Khah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us sacrifice  |**<big>&#8207;[[H2076\|נִזְבְּחָ֥ה]]&#8207; </big>**| niz.be.Chah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to God our  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430G\|אלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.7|<< Exodus 5:7]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.9|Exodus 5:9 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְצִיב‎</span></big> **Nᵉtsîyb** <small>*(nets-eeb')*</small> ==**Nezib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נְצִיב‎</span><sup><small>[[H5333]]</small></sup>; station</small>
+**<big><span class="ashebrew">‎נְצִיב‎</span></big>** **Nᵉtsîyb** <small>*(nets-eeb')*</small> ==**Nezib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H5333|‎נְצִיב‎]]</big>**; station</small>
 
 $\quad$ Nezib.
 - § Nezib = *"garrison" or "pillar"*

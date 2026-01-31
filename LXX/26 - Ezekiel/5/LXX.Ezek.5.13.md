@@ -7,35 +7,35 @@ Thus shall mine anger be accomplished, and I will cause my fury to rest upon the
 And when My anger is spent and I have vented My wrath against them, I will be appeased. And when I have spent My wrath on them, they will know that I, the LORD, in My zeal have spoken.<small><sub>**MT:**</sub></small>
 [[Ezek.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.12|<< Ezekiel 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.14|Ezekiel 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be exhausted | <big><span class="asgreek">συντελεσθήσεται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall enjoin, | <big><span class="asgreek">παρακληθήσομαι</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know, | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| have spoken | <big><span class="asgreek">λελάληκα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my zeal | <big><span class="asgreek">ζήλω</span></big> <sup><small><small>[[G2205]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my exhausting | <big><span class="asgreek">συντελέσαι</span></big> <sup><small><small>[[G4931]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my anger | <big><span class="asgreek">οργήν μου</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be exhausted | **<big>[[G4931\|συντελεσθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall enjoin, | **<big>[[G3870\|παρακληθήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall know, | **<big>[[G1097\|γνώση]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| have spoken | **<big>[[G2980\|λελάληκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my zeal | **<big>[[G2205\|ζήλω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my exhausting | **<big>[[G4931\|συντελέσαι]]</big>** **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my anger | **<big>[[G3709\|οργήν μου]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ezek.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.12|<< Ezekiel 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.14|Ezekiel 5:14 >>]]</td></tr></table>
 
 

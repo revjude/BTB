@@ -7,29 +7,29 @@ And he arose, and did eat and drink, and went in the strength of that meat forty
 So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God.<small><sub>**MT:**</sub></small>
 [[1Kgs.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he rose up, | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drank. | <big><span class="asgreek">έπιε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that food | <big><span class="asgreek">βρώσεως</span></big> <sup><small><small>[[G1035]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| nights | <big><span class="asgreek">νύκτας</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Horeb. | <big><span class="asgreek">Χωρήβ</span></big> <sup><small><small>[[H2722]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he rose up, | **<big>[[G0450\|ανέστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ate | **<big>[[G2068\|έφαγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drank. | **<big>[[G4095\|έπιε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went | **<big>[[G4198\|επορεύθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of that food | **<big>[[G1035\|βρώσεως]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| nights | **<big>[[G3571\|νύκτας]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Horeb. | **<big>[[H2722\|Χωρήβ]]</big>** |
 [[1Kgs.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
 
 

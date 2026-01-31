@@ -6,16 +6,16 @@ For now I would be lying down in peace; I would be asleep and at rest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.12|<< Job 3:12]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.14|Job 3:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>עַ֭תָּה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I lay down  | <span class="ashebrew"><big>שָׁכַ֣בְתִּי </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| sha.Khav.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I may be at peace  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶשְׁק֑וֹט </big></span><small><small><sup>[[H8252]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'esh.Kot <small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I slept  | <span class="ashebrew"><big>יָ֝שַׁ֗נְתִּי </big></span><small><small><sup>[[H3462]]</sup></small></small> &#8207;| ya.Shan.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֤ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is at rest  | <span class="ashebrew"><big>יָנ֬וּחַֽ </big></span><small><small><sup>[[H5117]]</sup></small></small> &#8207;| ya.Nu.ach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עַ֭תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I lay down  |**<big>&#8207;[[H7901G\|שָׁכַ֣בְתִּי]]&#8207; </big>**| sha.Khav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may be at peace  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8252\|אֶשְׁק֑וֹט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'esh.Kot<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I slept  |**<big>&#8207;[[H3462\|יָ֝שַׁ֗נְתִּי]]&#8207; </big>**| ya.Shan.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is at rest  |**<big>&#8207;[[H5117\|יָנ֬וּחַֽ]]&#8207; </big>**| ya.Nu.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.12|<< Job 3:12]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.14|Job 3:14 >>]]</td></tr></table>
 
 

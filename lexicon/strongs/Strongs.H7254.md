@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֶבַע‎</span></big> **Rebaʻ** <small>*(reh'-bah)*</small> ==**Reba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎רֶבַע‎</span><sup><small>[[H7253]]</small></sup></small>
+**<big><span class="ashebrew">‎רֶבַע‎</span></big>** **Rebaʻ** <small>*(reh'-bah)*</small> ==**Reba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7253|‎רֶבַע‎]]</big>**</small>
 
 $\quad$ Reba.
 - § Reba = *"four"*

@@ -7,43 +7,43 @@ And the space in which we came from Kadeshbarnea, until we were come over the br
 The time we spent traveling from Kadesh-barnea until we crossed over the Brook of Zered was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the LORD had sworn to them.<small><sub>**MT:**</sub></small>
 [[Deut.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.13|<< Deuteronomy 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.15|Deuteronomy 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we passed | <big><span class="asgreek">παρεπορεύθημεν</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Kadesh | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
-| Barnea | <big><span class="asgreek">Βαρνή</span></big> <sup><small><small>[[H6947]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we went by | <big><span class="asgreek">παρήλθομεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγα</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Zared | <big><span class="asgreek">Ζαρέδ</span></big> <sup><small><small>[[H2218]]</small></small></sup> |
-| \[was\] thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| perished | <big><span class="asgreek">διέπεσε</span></big> <sup><small><small>[[G6863]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεά</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of war | <big><span class="asgreek">πολεμιστών</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| dying | <big><span class="asgreek">αποθνήσκοντες</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| we passed | **<big>[[G3899\|παρεπορεύθημεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Kadesh | **<big>[[H6946\|Κάδης]]</big>** |
+| Barnea | **<big>[[H6947\|Βαρνή]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| we went by | **<big>[[G3928\|παρήλθομεν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγα]]</big>** |
+| of Zared | **<big>[[H2218\|Ζαρέδ]]</big>** |
+| \[was\] thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| eight | **<big>[[G3638\|οκτώ]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| perished | **<big>[[G6863\|διέπεσε]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| generation | **<big>[[G1074\|γενεά]]</big>** |
+| of men | **<big>[[G0435\|ανδρών]]</big>** |
+| of war | **<big>[[G8841\|πολεμιστών]]</big>** |
+| dying | **<big>[[G0599\|αποθνήσκοντες]]</big>** |
+| from | **<big>[[G0575\|απο]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| as | **<big>[[G2530\|καθότι]]</big>** |
+| swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Deut.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.13|<< Deuteronomy 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.15|Deuteronomy 2:15 >>]]</td></tr></table>
 
 

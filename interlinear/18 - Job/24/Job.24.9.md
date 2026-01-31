@@ -6,14 +6,14 @@ The fatherless infant is snatched from the breast; the nursing child of the poor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.8|<< Job 24:8]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.10|Job 24:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| people tear away  | <span class="ashebrew"><big>יִ֭גְזְלוּ </big></span><small><small><sup>[[H1497]]</sup></small></small> &#8207;| Yig.ze.lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] breast  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שֹּׁ֣ד </big></span><small><small><sup>[[H7699B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Shod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fatherless one  | <span class="ashebrew"><big>יָת֑וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] poor  | <span class="ashebrew"><big>עָנִ֥י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they take pledges  | <span class="ashebrew"><big>יַחְבֹּֽלוּ </big></span><small><small><sup>[[H2254A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yach.Bo.lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people tear away  |**<big>&#8207;[[H1497\|יִ֭גְזְלוּ]]&#8207; </big>**| Yig.ze.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] breast  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7699B\|שֹּׁ֣ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fatherless one  |**<big>&#8207;[[H3490\|יָת֑וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poor  |**<big>&#8207;[[H6041\|עָנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they take pledges  |**<big>&#8207;[[H2254A\|יַחְבֹּֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yach.Bo.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.8|<< Job 24:8]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.10|Job 24:10 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cabul</span> was a border town in the territory of Asher.
 - A location only mentioned at [[Josh.19.27|Jos.19.27]]; 
-- only referred to as Cabul<[[H3521G]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Cabul **<big>[[H3521|כָּבוּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.865661,35.211814&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Cabul was a town located on the border of the territory allotted to the tribe of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cabul | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H3521G) <small>*Hebrew*</small> | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cabul\*\|reference=Jos.19.27) |
-All Strong's for **Cabul**: \[[[H3521G]]\]
+| Cabul | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H3521G) | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cabul\*\|reference=Jos.19.27) |
+All entries for **Cabul**:  **<big>[[H3521|כָּבוּל]]</big>**

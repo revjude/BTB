@@ -7,22 +7,22 @@ And he took up his parable, and said, Balaam the son of Beor hath said, and the 
 and he lifted up an oracle, saying: “This is the prophecy of Balaam son of Beor, the prophecy of a man whose eyes are open,<small><sub>**MT:**</sub></small>
 [[Num.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.2|<< Numbers 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.4|Numbers 24:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taking up | <big><span class="asgreek">αναλαβών</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his parable, | <big><span class="asgreek">παραβολήν</span></big> <sup><small><small>[[G3850]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| Balaam | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Beor. | <big><span class="asgreek">Βεώρ</span></big> <sup><small><small>[[G1007]]</small></small></sup> |
-| Says | <big><span class="asgreek">φησίν</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| seeing | <big><span class="asgreek">ορών</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| taking up | **<big>[[G0353\|αναλαβών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his parable, | **<big>[[G3850\|παραβολήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Says | **<big>[[G5346\|φησί]]</big>** |
+| Balaam | **<big>[[G0903\|Βαλαάμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Beor. | **<big>[[G1007\|Βεώρ]]</big>** |
+| Says | **<big>[[G5346\|φησίν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| true | **<big>[[G0228\|αληθινός]]</big>** |
+| seeing | **<big>[[G3708\|ορών]]</big>** |
 [[Num.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.2|<< Numbers 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.4|Numbers 24:4 >>]]</td></tr></table>
 
 

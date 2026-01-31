@@ -6,19 +6,19 @@ But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.14|<< Genesis 18:14]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.16|Genesis 18:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she denied  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תְּכַחֵ֨שׁ </big></span><small><small><sup>[[H3584]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.kha.Chesh <small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sarah  | <span class="ashebrew"><big>שָׂרָ֧ה </big></span><small><small><sup>[[H8283]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| sa.Rah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֛ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I laughed  | <span class="ashebrew"><big>צָחַ֖קְתִּי </big></span><small><small><sup>[[H6711]]</sup></small></small> &#8207;| tza.Chak.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she was afraid  | <span class="ashebrew"><big>יָרֵ֑אָה </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ya.Re.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֥אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| In-  | <span class="ashebrew"><big>לֹ֖א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deed  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you laughed  | <span class="ashebrew"><big>צָחָֽקְתְּ </big></span><small><small><sup>[[H6711]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tza.Cha.ket <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she denied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3584\|תְּכַחֵ֨שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.kha.Chesh<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֧ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֛ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I laughed  |**<big>&#8207;[[H6711\|צָחַ֖קְתִּי]]&#8207; </big>**| tza.Chak.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she was afraid  |**<big>&#8207;[[H3372G\|יָרֵ֑אָה]]&#8207; </big>**| ya.Re.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| In-  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you laughed  |**<big>&#8207;[[H6711\|צָחָֽקְתְּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tza.Cha.ket<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.14|<< Genesis 18:14]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.16|Genesis 18:16 >>]]</td></tr></table>
 
 

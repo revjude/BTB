@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jabesh</span>, the son of Shallum, conspired against and assassinated Zechariah, becoming king of Israel, but reigned for only one month before being killed by Menahem \([[2Kgs.15.10|2Ki.15.10]],13-14\).
 - A man of the Kingdom of Israel, living at the time of Divided Monarchy, first mentioned at [[2Kgs.15.10|2Ki.15.10]]; 
-- only referred to as Jabesh<[[H3003H]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  father of Shallum<[[H7967G]]>.
+- only referred to as Jabesh **<big>[[H3003|יָבֵשׁ]]</big>**; 
+-  father of Shallum **<big>[[H7967|שַׁלּוּם]]</big>**.
 
 Jabesh, the son of Shallum, appears in [[2Kgs.15.10|2 Kings 15:10]], 13-14 as a short-lived king of Israel during a period of political instability. He conspired against Zechariah, the son of Jeroboam II, and assassinated him in front of the people, thereby ending the dynasty of Jehu \([[2Kgs.15.10|2Ki.15.10]]\). 
 
@@ -17,7 +17,7 @@ Jabesh's actions in assassinating Zechariah and seizing the throne demonstrate t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jabesh | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ](H3003H) <small>*Hebrew*</small> | 3x | [[2Ki.15.10] ... [2Ki.15.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabesh\*\|reference=2Ki.15.10;2Ki.15.13;2Ki.15.14) |
-All Strong's for **Jabesh**: \[[[H3003H]]\]
+| Jabesh | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ש</span>ׁ](H3003H) | 3x | [[2Ki.15.10] ... [2Ki.15.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabesh\*\|reference=2Ki.15.10;2Ki.15.13;2Ki.15.14) |
+All entries for **Jabesh**:  **<big>[[H3003|יָבֵשׁ]]</big>**
 #### Related Profiles:
 - **[Shallum](H7967G)** (child)

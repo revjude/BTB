@@ -7,22 +7,22 @@ My soul shall be satisfied as [with] marrow and fatness; and my mouth shall prai
 My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You.<small><sub>**MT:**</sub></small>
 [[Ps.63.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.4|<< Psalm 63:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.6|Psalm 63:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| fat | <big><span class="asgreek">στέατος</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fatness | <big><span class="asgreek">πιότητος</span></big> <sup><small><small>[[G4096]]</small></small></sup> |
-| be filled | <big><span class="asgreek">εμπλησθείη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of exultation | <big><span class="asgreek">αγαλλιάσεως</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
-| shall praise | <big><span class="asgreek">αινέσει</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| fat | **<big>[[G9155\|στέατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fatness | **<big>[[G4096\|πιότητος]]</big>** |
+| be filled | **<big>[[G1705\|εμπλησθείη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[with\] lips | **<big>[[G5491\|χείλη]]</big>** |
+| of exultation | **<big>[[G0020\|αγαλλιάσεως]]</big>** |
+| shall praise | **<big>[[G0134\|αινέσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.63.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.4|<< Psalm 63:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.6|Psalm 63:6 >>]]</td></tr></table>
 
 

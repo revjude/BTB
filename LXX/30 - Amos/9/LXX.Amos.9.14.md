@@ -7,36 +7,36 @@ And I will bring again the captivity of my people of Israel, and they shall buil
 I will restore My people Israel from captivity; they will rebuild and inhabit the ruined cities. They will plant vineyards and drink their wine; they will make gardens and eat their fruit.<small><sub>**MT:**</sub></small>
 [[Amos.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.13|<< Amos 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.15|Amos 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will return | <big><span class="asgreek">επιστρέψω</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall rebuild | <big><span class="asgreek">οικοδομήσουσι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been obliterated, | <big><span class="asgreek">ηφανισμένας</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall inhabit \[them\]; | <big><span class="asgreek">κατοικήσουσι</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall plant | <big><span class="asgreek">φυτεύσουσιν</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| vineyards, | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wine; | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall make | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| gardens, | <big><span class="asgreek">κήπους</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fruit. | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will return | **<big>[[G1994\|επιστρέψω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall rebuild | **<big>[[G3618\|οικοδομήσουσι]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| having been obliterated, | **<big>[[G0853\|ηφανισμένας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall inhabit \[them\]; | **<big>[[G2730\|κατοικήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall plant | **<big>[[G5452\|φυτεύσουσιν]]</big>** |
+| vineyards, | **<big>[[G0290\|αμπελώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall drink | **<big>[[G4095\|πίονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their wine; | **<big>[[G3631\|οίνον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall make | **<big>[[G4160\|ποιήσουσι]]</big>** |
+| gardens, | **<big>[[G2779\|κήπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall eat | **<big>[[G2068\|φάγονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their fruit. | **<big>[[G2590\|καρπόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Amos.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.13|<< Amos 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.15|Amos 9:15 >>]]</td></tr></table>
 
 

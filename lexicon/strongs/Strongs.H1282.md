@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּרִיחַ‎</span></big> **Bârîyach** <small>*(baw-ree'-akh)*</small> ==**Bariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בָּרִיחַ‎</span><sup><small>[[H1281]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּרִיחַ‎</span></big>** **Bârîyach** <small>*(baw-ree'-akh)*</small> ==**Bariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1281|‎בָּרִיחַ‎]]</big>**</small>
 
 $\quad$ Bariah.
 - § Bariah = *"fleeing" or "fugitive"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָמוֹת‎</span></big> **Râmôwth** <small>*(raw-moth)*</small> ==**Ramoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">רָמַת נֶגֶב</span> **Râmath Negeb** <small>*(raw'-math neh'-gheb)*</small>; from the plural or construct form of <span class="ashebrew">‎רָמָה‎</span><sup><small>[[H7413]]</small></sup> and <span class="ashebrew">‎נֶגֶב‎</span><sup><small>[[H5045]]</small></sup>; heights (or height) of the South</small>
+**<big><span class="ashebrew">‎רָמוֹת‎</span></big>** **Râmôwth** <small>*(raw-moth)*</small> ==**Ramoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">רָמַת נֶגֶב</span></big>** **Râmath Negeb** <small>*(raw'-math neh'-gheb)*</small>; from the plural or construct form of **<big>[[H7413|‎רָמָה‎]]</big>** and **<big>[[H5045|‎נֶגֶב‎]]</big>**; heights (or height) of the South</small>
 
 $\quad$ south Ramoth, Ramath of the south.
 - § Ramoth = *"heights"*

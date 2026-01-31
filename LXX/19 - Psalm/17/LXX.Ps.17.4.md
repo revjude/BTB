@@ -7,21 +7,21 @@ Concerning the works of men, by the word of thy lips I have kept [me from] the p
 As for the deeds of men—by the word of Your lips I have avoided the ways of the violent.<small><sub>**MT:**</sub></small>
 [[Ps.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.3|<< Psalm 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.5|Psalm 17:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Concerning\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| guarded | <big><span class="asgreek">εφύλαξα</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| hard | <big><span class="asgreek">σκληράς</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| \[Concerning\] the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your lips | **<big>[[G5491\|χειλέων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| guarded | **<big>[[G5442\|εφύλαξα]]</big>** |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| hard | **<big>[[G4642\|σκληράς]]</big>** |
 [[Ps.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.3|<< Psalm 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.5|Psalm 17:5 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀ-δύνατος</span></span>, <span class="asgreek">-ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֶבְיוֹן</span> <small><sup>[[H0034]]</sup></small>, <span class="ashebrew">דַּל</span> <small><sup>[[H1800]]</sup></small>, etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀ-δύνατος</span></span>, <span class="asgreek">-ον</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H0034|אֶבְיוֹן]]</big>**, **<big>[[H1800|דַּל]]</big>**, etc.;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> of persons, <span class="asitalic">unable</span>, <span class="asitalic">powerless</span>: [[Acts.14.8|Ac 14:8]]; fig. [[Rom.15.1|Ro 15:1]] (MM, <span class="asitalic">VGT</span>, s.v.).</span>
 <span class="asbullet"><span class="asbold">2.</span> Of things, <span class="asitalic">impossible</span>: [[Matt.19.26|Mt 19:26]], [[Mark.10.27|Mk 10:27]], [[Luke.18.27|Lk 18:27]], [[Rom.8.3|Ro 8:3]], [[Heb.6.4|He 6:4]], [[Heb.6.18|18]] [[Heb.10.4|10:4]] [[Heb.11.6|11:6]].†</span>

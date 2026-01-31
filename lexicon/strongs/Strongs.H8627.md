@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎תְּקַן‎</span></big> **tᵉqan** <small>*(tek-an')*</small> ==**to confirm**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎תָּקַן‎</span><sup><small>[[H8626]]</small></sup></small>
+**<big><span class="asaramaic">‎תְּקַן‎</span></big>** **tᵉqan** <small>*(tek-an')*</small> ==**to confirm**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8626|‎תָּקַן‎]]</big>**</small>
 
 $\quad$ establish.
 - ***to straighten up***, i.e. ***confirm***
@@ -7,4 +7,4 @@ $\quad$ establish.
 **1)** to be in order
 $\quad$ **1a)** (Hophal) to be established, be reestablished, confirm
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κραταιόω</span><sup><small>[[G2901]]</small></sup> · <span class="asgreek">κρατέω</span><sup><small>[[G2902]]</small></sup>
+<small>See Greek: </small>**<big>[[G2901|κραταιόω]]</big>** · **<big>[[G2902|κρατέω]]</big>**

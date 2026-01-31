@@ -7,21 +7,21 @@ For who in the heaven can be compared unto the LORD? [who] among the sons of the
 For who in the skies can compare with the LORD? Who among the heavenly beings is like the LORD?<small><sub>**MT:**</sub></small>
 [[Ps.89.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.5|<< Psalm 89:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.7|Psalm 89:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] clouds | <big><span class="asgreek">νεφέλαις</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| shall be equal | <big><span class="asgreek">ισωθήσεται</span></big> <sup><small><small>[[G7730]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| likened | <big><span class="asgreek">ομοιωθήσεται</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of God? | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] clouds | **<big>[[G3507\|νεφέλαις]]</big>** |
+| shall be equal | **<big>[[G7730\|ισωθήσεται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίω]]</big>** |
+| likened | **<big>[[G3666\|ομοιωθήσεται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of God? | **<big>[[G2316\|θεού]]</big>** |
 [[Ps.89.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.5|<< Psalm 89:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.7|Psalm 89:7 >>]]</td></tr></table>
 
 

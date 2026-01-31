@@ -6,15 +6,15 @@ But a witless man can no more become wise than the colt of a wild donkey can be 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.13|Job 11:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a person  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hollow  | <span class="ashebrew"><big>נָ֭בוּב </big></span><small><small><sup>[[H5014]]</sup></small></small> &#8207;| Na.vuv <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will become intelligent  | <span class="ashebrew"><big>יִלָּבֵ֑ב </big></span><small><small><sup>[[H3823A]]</sup></small></small> &#8207;| yi.la.Vev <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a male donkey of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֥יִר </big></span><small><small><sup>[[H5895]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'A.yir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wild donkey  | <span class="ashebrew"><big>פֶּ֝֗רֶא </big></span><small><small><sup>[[H6501]]</sup></small></small> &#8207;| Pe.re' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a human being  | <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be born  | <span class="ashebrew"><big>יִוָּלֵֽד </big></span><small><small><sup>[[H3205]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.va.Led <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a person  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hollow  |**<big>&#8207;[[H5014\|נָ֭בוּב]]&#8207; </big>**| Na.vuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become intelligent  |**<big>&#8207;[[H3823A\|יִלָּבֵ֑ב]]&#8207; </big>**| yi.la.Vev<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a male donkey of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5895\|עַ֥יִר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.yir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wild donkey  |**<big>&#8207;[[H6501\|פֶּ֝֗רֶא]]&#8207; </big>**| Pe.re'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a human being  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be born  |**<big>&#8207;[[H3205\|יִוָּלֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.va.Led<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.13|Job 11:13 >>]]</td></tr></table>
 
 

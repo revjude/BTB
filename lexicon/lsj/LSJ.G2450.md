@@ -1,4 +1,4 @@
-group of: <small>[[H3064G]]</small> 
+group of: <small>**<big>[[H3064G|יְהוּדִי]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἰουδαΐζω==</span>-<span class='asgreek'>ΐζω</span></b>, 

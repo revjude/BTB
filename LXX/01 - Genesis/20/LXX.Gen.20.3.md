@@ -7,30 +7,30 @@ But God came to Abimelech in a dream by night, and said to him, Behold, thou [ar
 One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.”<small><sub>**MT:**</sub></small>
 [[Gen.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.2|<< Genesis 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.4|Genesis 20:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sleep | <big><span class="asgreek">ύπνω</span></big> <sup><small><small>[[G5258]]</small></small></sup> |
-| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθνήσκεις</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you took, | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| living | <big><span class="asgreek">συνωκηκυία</span></big> <sup><small><small>[[G4924]]</small></small></sup> |
-| with a man. | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God entered | **<big>[[G1525\|εισήλθεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| sleep | **<big>[[G5258\|ύπνω]]</big>** |
+| in the | **<big>[[G3588\|την]]</big>** |
+| night. | **<big>[[G3571\|νύκτα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| die | **<big>[[G0599\|αποθνήσκεις]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| of whom | **<big>[[G3739\|ης]]</big>** |
+| you took, | **<big>[[G2983\|έλαβες]]</big>** |
+| for she | **<big>[[G3778\|αύτη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| living | **<big>[[G4924\|συνωκηκυία]]</big>** |
+| with a man. | **<big>[[G0435\|ανδρί]]</big>** |
 [[Gen.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.2|<< Genesis 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.4|Genesis 20:4 >>]]</td></tr></table>
 
 

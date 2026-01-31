@@ -1,4 +1,4 @@
-<small>Also see: [[H0256]] | [[H0257]]</small>
+<small>Also see: **<big>[[H0256|אַחְאָב]]</big>** | **<big>[[H0257|אַחְבָן]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎אָח‎</span>, <span class="bdbLangHebrew">‎אַחְאָב‎</span>, <span class="bdbLangHebrew">‎אֶחָב‎</span>, <span class="bdbLangHebrew">‎אַחְבָּן‎</span> etc. see  <span class="bdbLangHebrew">‎אחה‎</span>. 
 

@@ -6,19 +6,19 @@ Concerning Gad he said: “Blessed is he who enlarges the domain of Gad! He lies
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.19|<< Deuteronomy 33:19]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.21|Deuteronomy 33:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and of Gad  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גָ֣ד </big></span><small><small><sup>[[H1410G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> Gad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he said  | <span class="ashebrew"><big>אָמַ֔ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [be] blessed  | <span class="ashebrew"><big>בָּר֖וּךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| ba.Rukh <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] enlarges  | <span class="ashebrew"><big>מַרְחִ֣יב </big></span><small><small><sup>[[H7337]]</sup></small></small> &#8207;| mar.Chiv <small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gad  | <span class="ashebrew"><big>גָּ֑ד </big></span><small><small><sup>[[H1410G]]</sup></small></small> &#8207;| Gad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a lion  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לָבִ֣יא </big></span><small><small><sup>[[H3833C]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> la.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he dwells  | <span class="ashebrew"><big>שָׁכֵ֔ן </big></span><small><small><sup>[[H7931]]</sup></small></small> &#8207;| sha.Khen <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he tears  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>טָרַ֥ף </big></span><small><small><sup>[[H2963]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ta.Raf <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an arm  | <span class="ashebrew"><big>זְר֖וֹעַ </big></span><small><small><sup>[[H2220]]</sup></small></small> &#8207;| ze.Ro.a' <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a scalp  | <span class="ashebrew"><big>קָדְקֹֽד </big></span><small><small><sup>[[H6936]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.de.Kod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of Gad  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1410G\|גָ֣ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  |**<big>&#8207;[[H0559\|אָמַ֔ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] blessed  |**<big>&#8207;[[H1288\|בָּר֖וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] enlarges  |**<big>&#8207;[[H7337\|מַרְחִ֣יב]]&#8207; </big>**| mar.Chiv<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gad  |**<big>&#8207;[[H1410G\|גָּ֑ד]]&#8207; </big>**| Gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a lion  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3833C\|לָבִ֣יא]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> la.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he dwells  |**<big>&#8207;[[H7931\|שָׁכֵ֔ן]]&#8207; </big>**| sha.Khen<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he tears  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2963\|טָרַ֥ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Raf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an arm  |**<big>&#8207;[[H2220\|זְר֖וֹעַ]]&#8207; </big>**| ze.Ro.a'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a scalp  |**<big>&#8207;[[H6936\|קָדְקֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.de.Kod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.19|<< Deuteronomy 33:19]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.21|Deuteronomy 33:21 >>]]</td></tr></table>
 
 

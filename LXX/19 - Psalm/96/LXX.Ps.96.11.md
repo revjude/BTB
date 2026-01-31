@@ -7,22 +7,22 @@ Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fu
 Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it.<small><sub>**MT:**</sub></small>
 [[Ps.96.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.10|<< Psalm 96:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.12|Psalm 96:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be glad | <big><span class="asgreek">ευφραινέσθωσαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| exult | <big><span class="asgreek">αγαλλιάσθω</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| be shaken | <big><span class="asgreek">σαλευθήτω</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fullness | <big><span class="asgreek">πλήρωμα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of it! | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be glad | **<big>[[G2165\|ευφραινέσθωσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| exult | **<big>[[G0021\|αγαλλιάσθω]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| be shaken | **<big>[[G4531\|σαλευθήτω]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fullness | **<big>[[G4138\|πλήρωμα]]</big>** |
+| of it! | **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.96.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.10|<< Psalm 96:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.12|Psalm 96:12 >>]]</td></tr></table>
 
 

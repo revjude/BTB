@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָוָה‎</span></big> **ʼâvâh** <small>*(aw-vaw')*</small> ==**to mark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָוָה‎</span></big>** **ʼâvâh** <small>*(aw-vaw')*</small> ==**to mark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ point out.

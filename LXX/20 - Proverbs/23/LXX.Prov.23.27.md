@@ -7,18 +7,18 @@ For a whore [is] a deep ditch; and a strange woman [is] a narrow pit.
 For a prostitute is a deep pit, and an adulteress is a narrow well.<small><sub>**MT:**</sub></small>
 [[Prov.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.26|<< Proverbs 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.28|Proverbs 23:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a cask | <big><span class="asgreek">πίθος</span></big> <sup><small><small>[[G8792]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| having been drilled | <big><span class="asgreek">τετριμένος</span></big> <sup><small><small>[[G9435]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a strange | <big><span class="asgreek">αλλότριος</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| well | <big><span class="asgreek">φρεάρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| is narrow | <big><span class="asgreek">στενόν</span></big> <sup><small><small>[[G4728]]</small></small></sup> |
-| a strange | <big><span class="asgreek">αλλότριον</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| a cask | **<big>[[G8792\|πίθος]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| having been drilled | **<big>[[G9435\|τετριμένος]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| a strange | **<big>[[G0245\|αλλότριος]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| well | **<big>[[G5421\|φρεάρ]]</big>** |
+| is narrow | **<big>[[G4728\|στενόν]]</big>** |
+| a strange | **<big>[[G0245\|αλλότριον]]</big>** |
 [[Prov.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.26|<< Proverbs 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.28|Proverbs 23:28 >>]]</td></tr></table>
 
 

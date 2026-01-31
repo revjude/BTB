@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּלַל‎</span></big> **gâlal** <small>*(gaw-lal')*</small> ==**to roll**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּלַל‎</span></big>** **gâlal** <small>*(gaw-lal')*</small> ==**to roll**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ commit, remove, roll (away, down, together), run down, seek occasion, trust, wallow.
@@ -15,4 +15,4 @@ $\quad$ **1e)** (Hithpoel) to roll oneself
 $\quad$ **1f)** (Hithpalpel) to roll oneself
 $\quad$ **1g)** (Hiphil) to roll away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποκαλύπτω</span><sup><small>[[G0601]]</small></sup> · <span class="asgreek">ἀποκυλίω</span><sup><small>[[G0617]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἑλίσσω</span><sup><small>[[G1667]]</small></sup> · <span class="asgreek">ἐλπίζω</span><sup><small>[[G1679]]</small></sup> · <span class="asgreek">κυλιόω</span><sup><small>[[G2947]]</small></sup> · <span class="asgreek">περιαιρέω</span><sup><small>[[G4014]]</small></sup> · <span class="asgreek">συκοφαντέω</span><sup><small>[[G4811]]</small></sup>
+<small>See Greek: </small>**<big>[[G0601|ἀποκαλύπτω]]</big>** · **<big>[[G0617|ἀποκυλίω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1667|ἑλίσσω]]</big>** · **<big>[[G1679|ἐλπίζω]]</big>** · **<big>[[G2947|κυλιόω]]</big>** · **<big>[[G4014|περιαιρέω]]</big>** · **<big>[[G4811|συκοφαντέω]]</big>**

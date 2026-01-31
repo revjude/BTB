@@ -7,37 +7,37 @@ And they baked unleavened cakes of the dough which they brought forth out of Egy
 Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.<small><sub>**MT:**</sub></small>
 [[Exod.12.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.38|<< Exodus 12:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.40|Exodus 12:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they baked | <big><span class="asgreek">έπεψαν</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dough | <big><span class="asgreek">σταις</span></big> <sup><small><small>[[G9151]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they brought | <big><span class="asgreek">εξήνεγκαν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt -- | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| cakes baked in hot ashes | <big><span class="asgreek">εγκρυφίας</span></big> <sup><small><small>[[G7030]]</small></small></sup> |
-| unleavened | <big><span class="asgreek">αζύμους</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| it was | <big><span class="asgreek">εζυμώθη</span></big> <sup><small><small>[[G2220]]</small></small></sup> |
-| out | <big><span class="asgreek">εξέβαλον</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| because | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδυνάθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to remain, | <big><span class="asgreek">υπομείναι</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| provisions | <big><span class="asgreek">επισιτισμόν</span></big> <sup><small><small>[[G1979]]</small></small></sup> |
-| to prepare | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| journey. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they baked | **<big>[[G8778\|έπεψαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dough | **<big>[[G9151\|σταις]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| they brought | **<big>[[G1627\|εξήνεγκαν]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt -- | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| cakes baked in hot ashes | **<big>[[G7030\|εγκρυφίας]]</big>** |
+| unleavened | **<big>[[G0106\|αζύμους]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| it was | **<big>[[G2220\|εζυμώθη]]</big>** |
+| out | **<big>[[G1544\|εξέβαλον]]</big>** |
+| because | **<big>[[G1063\|γαρ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδυνάθησαν]]</big>** |
+| to remain, | **<big>[[G5278\|υπομείναι]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| provisions | **<big>[[G1979\|επισιτισμόν]]</big>** |
+| to prepare | **<big>[[G4160\|εποίησαν]]</big>** |
+| for themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| journey. | **<big>[[G3598\|οδόν]]</big>** |
 [[Exod.12.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.38|<< Exodus 12:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.40|Exodus 12:40 >>]]</td></tr></table>
 
 

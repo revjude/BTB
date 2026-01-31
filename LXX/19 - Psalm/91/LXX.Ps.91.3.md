@@ -7,18 +7,18 @@ Surely he shall deliver thee from the snare of the fowler, [and] from the noisom
 Surely He will deliver you from the snare of the fowler, and from the deadly plague.<small><sub>**MT:**</sub></small>
 [[Ps.91.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.2|<< Psalm 91:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.4|Psalm 91:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">ρύσεταί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] snare | <big><span class="asgreek">παγίδος</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| of hunters, | <big><span class="asgreek">θηρευτών</span></big> <sup><small><small>[[G7656]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| matter | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| a disturbing | <big><span class="asgreek">ταραχώδους</span></big> <sup><small><small>[[G9403]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall rescue | **<big>[[G4506\|ρύσεταί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] snare | **<big>[[G3803\|παγίδος]]</big>** |
+| of hunters, | **<big>[[G7656\|θηρευτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| matter | **<big>[[G3056\|λόγου]]</big>** |
+| a disturbing | **<big>[[G9403\|ταραχώδους]]</big>** |
 [[Ps.91.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.2|<< Psalm 91:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.4|Psalm 91:4 >>]]</td></tr></table>
 
 

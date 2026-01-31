@@ -7,33 +7,33 @@ Then Saul said to David, Blessed [be] thou, my son David: thou shalt both do gre
 Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home.<small><sub>**MT:**</sub></small>
 [[1Sam.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.24|<< 1 Samuel 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.1|1 Samuel 27:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Being blessed | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[are\] you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| son | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by performing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you shall perform, | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in ability | <big><span class="asgreek">δυνάμενος</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| you shall be able. | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David went forth | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way, | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| returned | <big><span class="asgreek">ανέστρεψεν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| Being blessed | **<big>[[G2127\|ευλογημένος]]</big>** |
+| \[are\] you, | **<big>[[G1473\|συ]]</big>** |
+| son | **<big>[[G5043\|τέκνον]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by performing | **<big>[[G4160\|ποιών]]</big>** |
+| you shall perform, | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in ability | **<big>[[G1410\|δυνάμενος]]</big>** |
+| you shall be able. | **<big>[[G1410\|δυνήση]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David went forth | **<big>[[G0565\|απήλθε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his way, | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| returned | **<big>[[G0390\|ανέστρεψεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his place. | **<big>[[G5117\|τόπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.24|<< 1 Samuel 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.1|1 Samuel 27:1 >>]]</td></tr></table>
 
 

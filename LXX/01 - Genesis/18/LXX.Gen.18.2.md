@@ -11,35 +11,35 @@ And Abraham looked up and saw three men standing nearby. When he saw them, he ra
 > $\quad$ referenced by: [[Heb.13.2|Heb 13:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And lifting up | <big><span class="asgreek">αναβλέψας</span></big> <sup><small><small>[[G0308]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he saw; | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| had set | <big><span class="asgreek">ειστήκεισαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seeing, | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| he ran up | <big><span class="asgreek">προσέδραμεν</span></big> <sup><small><small>[[G4370]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did obeisance | <big><span class="asgreek">προσεκύνησεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And lifting up | **<big>[[G0308\|αναβλέψας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he saw; | **<big>[[G1492\|είδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| had set | **<big>[[G2476\|ειστήκεισαν]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| seeing, | **<big>[[G1492\|ιδών]]</big>** |
+| he ran up | **<big>[[G4370\|προσέδραμεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet with | **<big>[[G4877\|συνάντησιν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his tent. | **<big>[[G4633\|σκηνής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did obeisance | **<big>[[G4352\|προσεκύνησεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
 [[Gen.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.1|<< Genesis 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.3|Genesis 18:3 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ Surely I will not come into the tabernacle of my house, nor go up into my bed;
 “I will not enter my house or get into my bed,<small><sub>**MT:**</sub></small>
 [[Ps.132.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.2|<< Psalm 132:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.4|Psalm 132:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I enter | <big><span class="asgreek">εισελεύσομαι</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] tent | <big><span class="asgreek">σκήνωμα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
-| of my house, \[no\]. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I ascend | <big><span class="asgreek">αναβήσομαι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] bier | <big><span class="asgreek">κλίνης</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| of my stewn bed, \[no\]. | <big><span class="asgreek">στρωμνής</span></big> <sup><small><small>[[G9213]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I enter | **<big>[[G1525\|εισελεύσομαι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] tent | **<big>[[G4638\|σκήνωμα]]</big>** |
+| of my house, \[no\]. | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I ascend | **<big>[[G0305\|αναβήσομαι]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] bier | **<big>[[G2825\|κλίνης]]</big>** |
+| of my stewn bed, \[no\]. | **<big>[[G9213\|στρωμνής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.132.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.2|<< Psalm 132:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.4|Psalm 132:4 >>]]</td></tr></table>
 
 

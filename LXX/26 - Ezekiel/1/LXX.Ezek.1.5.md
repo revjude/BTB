@@ -11,24 +11,24 @@ and within it was the form of four living creatures. And this was their appearan
 > $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| of four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| living creatures. | <big><span class="asgreek">ζώων</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their vision -- | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[was\] unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| midst | **<big>[[G3319\|μέσω]]</big>** |
+| \[was\] as | **<big>[[G5613\|ως]]</big>** |
+| a likeness | **<big>[[G3667\|ομοίωμα]]</big>** |
+| of four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| living creatures. | **<big>[[G2226\|ζώων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| their vision -- | **<big>[[G3706\|όρασις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| a likeness | **<big>[[G3667\|ομοίωμα]]</big>** |
+| of a man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \[was\] unto | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ezek.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.4|<< Ezekiel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.6|Ezekiel 1:6 >>]]</td></tr></table>
 
 

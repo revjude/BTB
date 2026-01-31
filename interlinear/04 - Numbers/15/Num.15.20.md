@@ -6,18 +6,18 @@ From the first of your dough, you are to lift up a cake as a contribution; offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.19|<< Numbers 15:19]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.21|Numbers 15:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] first of  | <span class="ashebrew"><big>רֵאשִׁית֙ </big></span><small><small><sup>[[H7225G]]</sup></small></small> &#8207;| re.Shit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dough\<s> your  | <span class="ashebrew"><big>עֲרִסֹ֣תֵ </big></span><small><small><sup>[[H6182]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| 'a.ri.So.te. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cake  | <span class="ashebrew"><big>חַלָּ֖ה </big></span><small><small><sup>[[H2471]]</sup></small></small> &#8207;| cha.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will offer up  | <span class="ashebrew"><big>תָּרִ֣ימוּ </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ta.Ri.mu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a contribution  | <span class="ashebrew"><big>תְרוּמָ֑ה </big></span><small><small><sup>[[H8641]]</sup></small></small> &#8207;| te.ru.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a contribution of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>תְרוּמַ֣ת </big></span><small><small><sup>[[H8641]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> t.ru.Mat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] threshing floor  | <span class="ashebrew"><big>גֹּ֔רֶן </big></span><small><small><sup>[[H1637]]</sup></small></small> &#8207;| Go.ren <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֖ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will offer up  | <span class="ashebrew"><big>תָּרִ֥ימוּ </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ta.Ri.mu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹתָֽ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] first of  |**<big>&#8207;[[H7225G\|רֵאשִׁית֙]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dough\<s> your  |**<big>&#8207;[[H6182\|עֲרִסֹ֣תֵ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'a.ri.So.te.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cake  |**<big>&#8207;[[H2471\|חַלָּ֖ה]]&#8207; </big>**| cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will offer up  |**<big>&#8207;[[H7311A\|תָּרִ֣ימוּ]]&#8207; </big>**| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a contribution  |**<big>&#8207;[[H8641\|תְרוּמָ֑ה]]&#8207; </big>**| te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a contribution of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8641\|תְרוּמַ֣ת]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> t.ru.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] threshing floor  |**<big>&#8207;[[H1637\|גֹּ֔רֶן]]&#8207; </big>**| Go.ren<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֖ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will offer up  |**<big>&#8207;[[H7311A\|תָּרִ֥ימוּ]]&#8207; </big>**| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.19|<< Numbers 15:19]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.21|Numbers 15:21 >>]]</td></tr></table>
 
 

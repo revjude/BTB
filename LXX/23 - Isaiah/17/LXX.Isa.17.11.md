@@ -7,31 +7,31 @@ In the day shalt thou make thy plant to grow, and in the morning shalt thou make
 though on the day you plant you make them grow, and on that morning you help your seed sprout—yet the harvest will vanish on the day of disease and incurable pain.<small><sub>**MT:**</sub></small>
 [[Isa.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.10|<< Isaiah 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.12|Isaiah 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| whenever | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should plant, | <big><span class="asgreek">φυτεύσης</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| you shall be misled; | <big><span class="asgreek">πλανηθήση</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[by\] morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should sow | <big><span class="asgreek">σπείρης</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| it shall bloom | <big><span class="asgreek">ανθήσει</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a harvest | <big><span class="asgreek">αμητόν</span></big> <sup><small><small>[[G6259]]</small></small></sup> |
-| in whatever | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of inheritance; | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of a man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| you shall choose by lot | <big><span class="asgreek">κληρώση</span></big> <sup><small><small>[[G2820]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your sons. | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And in the | **<big>[[G3588\|τη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| whenever | **<big>[[G3739\|η]]</big>** **<big>[[G0302\|αν]]</big>** |
+| you should plant, | **<big>[[G5452\|φυτεύσης]]</big>** |
+| you shall be misled; | **<big>[[G4105\|πλανηθήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| \[by\] morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should sow | **<big>[[G4687\|σπείρης]]</big>** |
+| it shall bloom | **<big>[[G6341\|ανθήσει]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a harvest | **<big>[[G6259\|αμητόν]]</big>** |
+| in whatever | **<big>[[G3739\|η]]</big>** **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of inheritance; | **<big>[[G2817\|κληρονομίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a father | **<big>[[G3962\|πατήρ]]</big>** |
+| of a man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| you shall choose by lot | **<big>[[G2820\|κληρώση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| for your sons. | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.10|<< Isaiah 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.12|Isaiah 17:12 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Salmone</span> was a promontory on the island of Crete that Paul's ship passed on his voyage to Rome \(Acts 27:7\).
 - A location only mentioned at [[John.3.23|Act.27.7]]; 
-- only referred to as Salmone<[[G4534]]> \(<span class='tipnrLangGreek'>Σαλμώνη</span>\).
+- only referred to as Salmone **<big>[[G4534|Σαλμώνη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.21229729880597,26.27449174374278&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Salmone is mentioned in the book of Acts as a promontory or coastal feature on t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Salmone | [<span class='tipnrLangGreek'>Σαλμώνη</span>](G4534) <small>*Greek*</small> | 1x | [Act.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salmone\*\|reference=Act.27.7) |
-All Strong's for **Salmone**: \[[[G4534]]\]
+| Salmone | [<span class='tipnrLangGreek'>Σαλμώνη</span>](G4534) | 1x | [Act.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salmone\*\|reference=Act.27.7) |
+All entries for **Salmone**:  **<big>[[G4534|Σαλμώνη]]</big>**

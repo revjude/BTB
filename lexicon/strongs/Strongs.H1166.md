@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּעַל‎</span></big> **bâʻal** <small>*(baw-al')*</small> ==**Married**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>a primitive root; also as denominative from <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1167]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּעַל‎</span></big>** **bâʻal** <small>*(baw-al')*</small> ==**Married**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>a primitive root; also as denominative from **<big>[[H1167|‎בַּעַל‎]]</big>**</small>
 
 $\quad$ have dominion (over), be husband, marry(-ried, [idiom] wife).
 - ***to be master***

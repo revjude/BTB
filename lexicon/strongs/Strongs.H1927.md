@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲדָרָה‎</span></big> **hădârâh** <small>*(had-aw-raw')*</small> ==**adornment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎הָדָר‎</span><sup><small>[[H1926]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲדָרָה‎</span></big>** **hădârâh** <small>*(had-aw-raw')*</small> ==**adornment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H1926|‎הָדָר‎]]</big>**</small>
 
 $\quad$ beauty, honour.
 - ***decoration***
@@ -8,4 +8,4 @@ $\quad$ beauty, honour.
 $\quad$ **1a)** holy adornment (of public worship)
 $\quad$ **1b)** glory (of the king)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰνέω</span><sup><small>[[G0134]]</small></sup> · <span class="asgreek">αὐλή</span><sup><small>[[G0833]]</small></sup> · <span class="asgreek">ἐξομολογέω</span><sup><small>[[G1843]]</small></sup>
+<small>See Greek: </small>**<big>[[G0134|αἰνέω]]</big>** · **<big>[[G0833|αὐλή]]</big>** · **<big>[[G1843|ἐξομολογέω]]</big>**

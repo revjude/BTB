@@ -7,19 +7,19 @@ And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.
 Beth-nimrah, and Beth-haran as fortified cities, and they built folds for their flocks.<small><sub>**MT:**</sub></small>
 [[Num.32.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.35|<< Numbers 32:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.37|Numbers 32:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beth-nimrah, | <big><span class="asgreek">Βηθιαμράμ</span></big> <sup><small><small>[[H1039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beth-haran -- | <big><span class="asgreek">Βαιθαρράν</span></big> <sup><small><small>[[H1028]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| properties | <big><span class="asgreek">επαύλεις</span></big> <sup><small><small>[[G1886]]</small></small></sup> |
-| of flocks. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Beth-nimrah, | **<big>[[H1039\|Βηθιαμράμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Beth-haran -- | **<big>[[H1028\|Βαιθαρράν]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| fortified | **<big>[[G8575\|οχυράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| properties | **<big>[[G1886\|επαύλεις]]</big>** |
+| of flocks. | **<big>[[G4263\|προβάτων]]</big>** |
 [[Num.32.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.35|<< Numbers 32:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.37|Numbers 32:37 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ And he said, What [is] the thing that [the LORD] hath said unto thee? I pray the
 “What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.”<small><sub>**MT:**</sub></small>
 [[1Sam.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.16|<< 1 Samuel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.18|1 Samuel 3:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being spoken | <big><span class="asgreek">λαληθέν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| hide \[them\] | <big><span class="asgreek">κρύψης</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| add to it | <big><span class="asgreek">προσθείη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should hide | <big><span class="asgreek">κρύψης</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] word. | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being spoken | **<big>[[G2980\|λαληθέν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| hide \[them\] | **<big>[[G2928\|κρύψης]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me! | **<big>[[G1473\|εμού]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| add to it | **<big>[[G4369\|προσθείη]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should hide | **<big>[[G2928\|κρύψης]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \[the\] word. | **<big>[[G4487\|ρήμα]]</big>** |
 [[1Sam.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.16|<< 1 Samuel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.18|1 Samuel 3:18 >>]]</td></tr></table>
 
 

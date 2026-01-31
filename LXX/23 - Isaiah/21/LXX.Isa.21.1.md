@@ -10,22 +10,22 @@ The burden of the desert of the sea. As whirlwinds in the south pass through; [s
 This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror.<small><sub>**MT:**</sub></small>
 [[Isa.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.6|<< Isaiah 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.2|Isaiah 21:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όραμα</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a blast | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| a wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| might go | <big><span class="asgreek">διέλθοι</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| vision | **<big>[[G3705\|όραμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμου]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| a blast | **<big>[[G7844\|καταιγίς]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| a wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| might go | **<big>[[G1330\|διέλθοι]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| coming | **<big>[[G2064\|ερχομένη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| land; | **<big>[[G1093\|γης]]</big>** |
 [[Isa.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.6|<< Isaiah 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.2|Isaiah 21:2 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ain</span> or Rimmon, a location marking the eastern border of Israel's territory.
 - A location first mentioned at [[Num.34.11|Num.34.11]]; 
-- referred to as Ain<[[H5871G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>\), or Rimmon<[[H7417G]]> \(<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>, <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ\).
+- referred to as Ain **<big>[[H5871|עַיִן]]</big>**, or Rimmon **<big>[[H7417|רִמּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.353071,36.385705&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ The exact location of the Ain or Rimmon mentioned in [[Num.34.11|Numbers 34:11]]
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ain | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5871G) <small>*Hebrew*</small> | 1x | [Num.34.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ain\*\|reference=Num.34.11) |
-| Rimmon | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>, <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417G) <small>*Hebrew*</small> | 1x | [Zec.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Zec.14.10) |
-All Strong's for **Ain or Rimmon**: \[[[H5871G]]\] \[[[H7417G]]\]
+| Ain | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5871G) | 1x | [Num.34.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ain\*\|reference=Num.34.11) |
+| Rimmon | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>, <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>נו</span>ֹ](H7417G) | 1x | [Zec.14.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rimmon\*\|reference=Zec.14.10) |
+All entries for **Ain or Rimmon**:  **<big>[[H5871|עַיִן]]</big>** ☩  **<big>[[H7417|רִמּוֹן]]</big>**

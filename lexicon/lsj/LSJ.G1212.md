@@ -1,4 +1,4 @@
-Greek of: <small>[[H0224]]</small> 
+Greek of: <small>**<big>[[H0224|אוּרִים]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==δῆλος==</span></b> 

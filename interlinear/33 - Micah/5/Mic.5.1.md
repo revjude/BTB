@@ -10,22 +10,22 @@ Now, O daughter of troops, mobilize your troops; for a siege is laid against us!
 > $\quad$ referenced by: [[John.7.42|John 7:42]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| now  | <span class="ashebrew"><big>עַתָּה֙ </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will cut yourself  | <span class="ashebrew"><big>תִּתְגֹּדְדִ֣י </big></span><small><small><sup>[[H1413]]</sup></small></small> &#8207;| tit.go.de.Di <small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| vat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| troop[s]  | <span class="ashebrew"><big>גְּד֔וּד </big></span><small><small><sup>[[H1416]]</sup></small></small> &#8207;| ge.Dud <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a siege  | <span class="ashebrew"><big>מָצ֖וֹר </big></span><small><small><sup>[[H4692]]</sup></small></small> &#8207;| ma.Tzor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone has set  | <span class="ashebrew"><big>שָׂ֣ם </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| sam <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on us  | <span class="ashebrew"><big>עָלֵ֑י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> rod  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵּׁ֙בֶט֙ </big></span><small><small><sup>[[H7626G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> She.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will strike  | <span class="ashebrew"><big>יַכּ֣וּ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| ya.Ku <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַֽל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the cheek  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לְּחִ֔י </big></span><small><small><sup>[[H3895H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> le.Chi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] judge of  | <span class="ashebrew"><big>שֹׁפֵ֥ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| sho.Fet <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will cut yourself  |**<big>&#8207;[[H1413\|תִּתְגֹּדְדִ֣י]]&#8207; </big>**| tit.go.de.Di<small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| troop[s]  |**<big>&#8207;[[H1416\|גְּד֔וּד]]&#8207; </big>**| ge.Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a siege  |**<big>&#8207;[[H4692\|מָצ֖וֹר]]&#8207; </big>**| ma.Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone has set  |**<big>&#8207;[[H7760A\|שָׂ֣ם]]&#8207; </big>**| sam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on us  |**<big>&#8207;[[H5921A\|עָלֵ֑י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> rod  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7626G\|שֵּׁ֙בֶט֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will strike  |**<big>&#8207;[[H5221\|יַכּ֣וּ]]&#8207; </big>**| ya.Ku<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cheek  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3895H\|לְּחִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.Chi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] judge of  |**<big>&#8207;[[H8199\|שֹׁפֵ֥ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.13|<< Micah 4:13]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.2|Micah 5:2 >>]]</td></tr></table>
 
 

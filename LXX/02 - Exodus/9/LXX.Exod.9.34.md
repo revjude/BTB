@@ -11,32 +11,32 @@ When Pharaoh saw that the rain and hail and thunder had ceased, he sinned again 
 > $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has been ceased | <big><span class="asgreek">πέπαυται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail, | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sounds -- | <big><span class="asgreek">φωναί</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| he added | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sin. | <big><span class="asgreek">αμαρτάνειν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was oppressed | <big><span class="asgreek">εβάρυνεν</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his attendants. | <big><span class="asgreek">θεραπόντων</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδών]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| has been ceased | **<big>[[G3973\|πέπαυται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rain | **<big>[[G5205\|υετός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hail, | **<big>[[G5464\|χάλαζα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| sounds -- | **<big>[[G5456\|φωναί]]</big>** |
+| he added | **<big>[[G4369\|προσέθετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sin. | **<big>[[G0264\|αμαρτάνειν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was oppressed | **<big>[[G0925\|εβάρυνεν]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| of his attendants. | **<big>[[G2324\|θεραπόντων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.9.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.33|<< Exodus 9:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.35|Exodus 9:35 >>]]</td></tr></table>
 
 

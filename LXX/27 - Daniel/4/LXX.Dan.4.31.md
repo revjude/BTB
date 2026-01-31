@@ -10,29 +10,29 @@ While the word [was] in the king’s mouth, there fell a voice from heaven, [say
 While the words were still in the king’s mouth, a voice came from heaven: “It is decreed to you, King Nebuchadnezzar, that the kingdom has departed from you.<small><sub>**MT:**</sub></small>
 [[Dan.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.30|<< Daniel 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.32|Daniel 4:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| came, | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| To you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is spoken, | <big><span class="asgreek">λέγεται</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| O king Nebuchadnezzar, | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went | <big><span class="asgreek">παρήλθεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| With | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| word | **<big>[[G3056\|λόγου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mouth | **<big>[[G4750\|στόματι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+| a voice | **<big>[[G5456\|φωνή]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| came, | **<big>[[G1096\|εγένετο]]</big>** |
+| To you | **<big>[[G1473\|σοι]]</big>** |
+| it is spoken, | **<big>[[G3004\|λέγεται]]</big>** |
+| O king Nebuchadnezzar, | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** **<big>[[G0935\|βασιλεύ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| went | **<big>[[G3928\|παρήλθεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Dan.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.30|<< Daniel 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.32|Daniel 4:32 >>]]</td></tr></table>
 
 

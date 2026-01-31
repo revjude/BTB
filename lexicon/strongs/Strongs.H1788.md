@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּישֹׁן‎</span></big> **dîyshôn** <small>*(dee-shone')*</small> ==**ibex**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דּוּשׁ‎</span><sup><small>[[H1758]]</small></sup></small>
+**<big><span class="ashebrew">‎דִּישֹׁן‎</span></big>** **dîyshôn** <small>*(dee-shone')*</small> ==**ibex**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1758|‎דּוּשׁ‎]]</big>**</small>
 
 $\quad$ pygarg.
 - ***the leaper***, i.e. ***an antelope***

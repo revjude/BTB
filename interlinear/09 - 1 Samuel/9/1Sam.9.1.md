@@ -6,32 +6,32 @@ Now there was a Benjamite, a powerful man, whose name was Kish son of Abiel, the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.22|<< 1 Samuel 8:22]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.2|1 Samuel 9:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he was  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.hi- <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Benjamin  [^2] | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בִּנְיָמִ֗ין </big></span><small><small><sup>[[H1144G]]</sup></small></small> &#8207;[^3] | mi. <small><sup>[[HR]]</sup></small> bin.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [ ]  [^4] | <span class="ashebrew"><big> </big></span><small><small><sup>[[]]</sup></small></small> &#8207;[^5] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and name his  | <span class="ashebrew"><big>וּ֠ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.m <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Kish  | <span class="ashebrew"><big>קִ֣ישׁ </big></span><small><small><sup>[[H7027G]]</sup></small></small> &#8207;| kish <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abiel  | <span class="ashebrew"><big>אֲבִיאֵ֞ל </big></span><small><small><sup>[[H0022G]]</sup></small></small> &#8207;| 'a.vi.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zeror  | <span class="ashebrew"><big>צְר֧וֹר </big></span><small><small><sup>[[H6872C]]</sup></small></small> &#8207;| tze.Ror <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Becorath  | <span class="ashebrew"><big>בְּכוֹרַ֛ת </big></span><small><small><sup>[[H1064]]</sup></small></small> &#8207;| be.kho.Rat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aphiah  | <span class="ashebrew"><big>אֲפִ֖יחַ </big></span><small><small><sup>[[H0647]]</sup></small></small> &#8207;| 'a.Fi.ach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a Jaminite  | <span class="ashebrew"><big>יְמִינִ֑י </big></span><small><small><sup>[[H3227B]]</sup></small></small> &#8207;| ye.mi.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mighty [man] of  | <span class="ashebrew"><big>גִּבּ֖וֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.Bor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wealth  | <span class="ashebrew"><big>חָֽיִל </big></span><small><small><sup>[[H2428H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Benjamin  [^2]|**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1144G\|בִּנְיָמִ֗ין]]&#8207; </big>**[^3] | mi.<small><sup>[[HR]]</sup></small> bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [ ]  [^4]|**<big>&#8207;[[\|]]&#8207; </big>**[^5] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and name his  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H8034\|שְׁמ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Kish  |**<big>&#8207;[[H7027G\|קִ֣ישׁ]]&#8207; </big>**| kish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abiel  |**<big>&#8207;[[H0022G\|אֲבִיאֵ֞ל]]&#8207; </big>**| 'a.vi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zeror  |**<big>&#8207;[[H6872C\|צְר֧וֹר]]&#8207; </big>**| tze.Ror<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Becorath  |**<big>&#8207;[[H1064\|בְּכוֹרַ֛ת]]&#8207; </big>**| be.kho.Rat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aphiah  |**<big>&#8207;[[H0647\|אֲפִ֖יחַ]]&#8207; </big>**| 'a.Fi.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  |**<big>&#8207;[[H1121G\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a Jaminite  |**<big>&#8207;[[H3227B\|יְמִינִ֑י]]&#8207; </big>**| ye.mi.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mighty [man] of  |**<big>&#8207;[[H1368\|גִּבּ֖וֹר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth  |**<big>&#8207;[[H2428H\|חָֽיִל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.22|<< 1 Samuel 8:22]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.2|1 Samuel 9:2 >>]]</td></tr></table>
 
-[^1]: ==K==: **from Ben- ** | <small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>־</big></span> <small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>בִּן</big></span> <small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִ</big></span>  | mi.<small><sup>[[HR]]</sup></small> bin-<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: **from Ben- ** | <small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>־</big></span> <small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>בִּן</big></span> <small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִ</big></span>  | mi.<small><sup>[[HR]]</sup></small> bin-<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: from Ben-  | **<big>[[H9014|־]]</big><big>[[H1121A|בִּן]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> bin-<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==K==: from Ben-  | **<big>[[H9014|־]]</big><big>[[H1121A|בִּן]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> bin-<small><sup>[[HNpm]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>מִבִּן\־</big></span>**
-[^4]: ==K==: **-jamin ** | <small><sup>[[H3225I]]</sup></small> <span class="ashebrew"><big>יָמִין</big></span>  | ya.Min<small><sup>[[HNpm]]</sup></small> 
+[^4]: ==K==: -jamin  | **<big>[[H3225I|יָמִין]]</big> ** | ya.Min<small><sup>[[HNpm]]</sup></small> 
 [^5]: ==L== spelled: **<span class="ashebrew"><big>יָמִ֗ין</big></span>**
 

@@ -1,8 +1,8 @@
 <small>*Casiphia • Place where Levites were recruited for temple service*</small>
 
 <span class='tipnrhighlight'>Casiphia</span> was a place in Babylon where Ezra sent for Levites to join the returning exiles in Jerusalem.
-- A location near Hamath<[[H2574G]]> first mentioned at Ezr.8.17; 
-- only referred to as Casiphia<[[H3703]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Hamath **<big>[[H2574|חֲמָת]]</big>** first mentioned at Ezr.8.17; 
+- only referred to as Casiphia **<big>[[H3703|כָּסִפְיָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.136204,36.749488&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of Casiphia is unknown, but it was likely a settlement in Bab
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Casiphia (NIV= Kasiphia) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>](H3703) <small>*Hebrew*</small> | 2x | [[Ezr.8.17a] & [Ezr.8.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Casiphia\*\|reference=Ezr.8.17;Ezr.8.17) |
-All Strong's for **Casiphia**: \[[[H3703]]\]
+| Casiphia (NIV= Kasiphia) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>א</span>](H3703) | 2x | [[Ezr.8.17a] & [Ezr.8.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Casiphia\*\|reference=Ezr.8.17;Ezr.8.17) |
+All entries for **Casiphia**:  **<big>[[H3703|כָּסִפְיָא]]</big>**

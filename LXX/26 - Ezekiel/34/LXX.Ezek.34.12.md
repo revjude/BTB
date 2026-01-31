@@ -7,42 +7,42 @@ As a shepherd seeketh out his flock in the day that he is among his sheep [that 
 As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness.<small><sub>**MT:**</sub></small>
 [[Ezek.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.11|<< Ezekiel 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.13|Ezekiel 34:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμήν</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his flock | <big><span class="asgreek">ποίμνιον</span></big> <sup><small><small>[[G4168]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| there might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| dimness | <big><span class="asgreek">γνόφος</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of his sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| having been parted, | <big><span class="asgreek">διακεχωρισμένων</span></big> <sup><small><small>[[G1316]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall I seek after | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sheep. | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will drive them away | <big><span class="asgreek">απελάσω</span></big> <sup><small><small>[[G0556]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they were scattered | <big><span class="asgreek">διεσπάρησαν</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of cloud | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dimness. | <big><span class="asgreek">γνόφου</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
+| As if | **<big>[[G5618\|ώσπερ]]</big>** |
+| seeks | **<big>[[G2212\|ζητεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his flock | **<big>[[G4168\|ποίμνιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G0302\|αν]]</big>** |
+| there might be | **<big>[[G1510\|η]]</big>** |
+| dimness | **<big>[[G1105\|γνόφος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of his sheep | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| having been parted, | **<big>[[G1316\|διακεχωρισμένων]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall I seek after | **<big>[[G1567\|εκζητήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my sheep. | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will drive them away | **<big>[[G0556\|απελάσω]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they were scattered | **<big>[[G1289\|διεσπάρησαν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of cloud | **<big>[[G3507\|νεφέλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dimness. | **<big>[[G1105\|γνόφου]]</big>** |
 [[Ezek.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.11|<< Ezekiel 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.13|Ezekiel 34:13 >>]]</td></tr></table>
 
 

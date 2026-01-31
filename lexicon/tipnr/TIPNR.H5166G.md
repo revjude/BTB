@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nehemiah</span> was among the leaders who returned with Zerubbabel from Babylonian exile to Jerusalem.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.2|Ezr.2.2]]; 
-- only referred to as Nehemiah<[[H5166G]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Nehemiah **<big>[[H5166|נְחֶמְיָה]]</big>**.
 
 Nehemiah is mentioned in [[Ezra.2.2|Ezra 2:2]] and [[Neh.7.7|Nehemiah 7:7]] as one of the leaders who returned to Jerusalem from Babylonian captivity along with Zerubbabel. This event took place around 538 BC, when the Persian king Cyrus issued a decree allowing the Jews to return to their homeland and rebuild the temple in Jerusalem \(Ezra 1:1-4\). 
 
@@ -14,5 +14,5 @@ However, it is important to note that this Nehemiah is not the same person as th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166G) <small>*Hebrew*</small> | 2x | [[Ezr.2.2] & [Neh.7.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Ezr.2.2;Neh.7.7) |
-All Strong's for **Nehemiah**: \[[[H5166G]]\]
+| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166G) | 2x | [[Ezr.2.2] & [Neh.7.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Ezr.2.2;Neh.7.7) |
+All entries for **Nehemiah**:  **<big>[[H5166|נְחֶמְיָה]]</big>**

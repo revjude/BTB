@@ -7,40 +7,40 @@ But it came to pass, [that] when Sanballat, and Tobiah, and the Arabians, and th
 When Sanballat and Tobiah, together with the Arabs, Ammonites, and Ashdodites, heard that the repair to the walls of Jerusalem was progressing and that the gaps were being closed, they were furious,<small><sub>**MT:**</sub></small>
 [[Neh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.6|<< Nehemiah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.8|Nehemiah 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Sanballat heard, | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Σαναβαλάτ</span></big> <sup><small><small>[[H5571]]</small></small></sup> |
-| (and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tobiah, | <big><span class="asgreek">Τωβίας</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabians, | <big><span class="asgreek">Άραβες</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonites, | <big><span class="asgreek">Αμμανίται</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashdodites, | <big><span class="asgreek">Αζώτιοι</span></big> <sup><small><small>[[G0108]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| development | <big><span class="asgreek">φυή</span></big> <sup><small><small>[[G9676]]</small></small></sup> |
-| of the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walls | <big><span class="asgreek">τείχεσιν</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they began | <big><span class="asgreek">ήρξαντο</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gaps | <big><span class="asgreek">διασφαγαί</span></big> <sup><small><small>[[G6884]]</small></small></sup> |
-| to block up | <big><span class="asgreek">αναφράσσεσθαι</span></big> <sup><small><small>[[G6321]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it appeared | <big><span class="asgreek">εφάνη</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Sanballat heard, | **<big>[[G0191\|ήκουσε]]</big>** **<big>[[H5571\|Σαναβαλάτ]]</big>** |
+| (and | **<big>[[G2532\|και]]</big>** |
+| Tobiah, | **<big>[[H2900\|Τωβίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Arabians, | **<big>[[G0688\|Άραβες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Ammonites, | **<big>[[H5983\|Αμμανίται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Ashdodites, | **<big>[[G0108\|Αζώτιοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| development | **<big>[[G9676\|φυή]]</big>** |
+| of the | **<big>[[G3588\|τοις]]</big>** |
+| walls | **<big>[[G5038\|τείχεσιν]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they began | **<big>[[G0756\|ήρξαντο]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| gaps | **<big>[[G6884\|διασφαγαί]]</big>** |
+| to block up | **<big>[[G6321\|αναφράσσεσθαι]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| wicked | **<big>[[G4190\|πονηρόν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| it appeared | **<big>[[G5316\|εφάνη]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Neh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.6|<< Nehemiah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.8|Nehemiah 4:8 >>]]</td></tr></table>
 
 

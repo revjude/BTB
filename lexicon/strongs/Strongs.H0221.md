@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוּרִי‎</span></big> **ʼÛwrîy** <small>*(oo-ree')*</small> ==**Uri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אוּר‎</span><sup><small>[[H0217]]</small></sup>; fiery</small>
+**<big><span class="ashebrew">‎אוּרִי‎</span></big>** **ʼÛwrîy** <small>*(oo-ree')*</small> ==**Uri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0217|‎אוּר‎]]</big>**; fiery</small>
 
 $\quad$ Uri.
 - § Uri = *"fiery"*

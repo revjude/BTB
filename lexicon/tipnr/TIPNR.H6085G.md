@@ -4,8 +4,8 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Ephron</span> the Hittite sold the cave of Machpelah to Abraham as a burial site for Sarah \(Gen.23\).
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.23.8|Gen.23.8]]; 
-- only referred to as Ephron<[[H6085G]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Zohar<[[H6714G]]>.
+- only referred to as Ephron **<big>[[H6085|עֶפְרוֹן]]</big>**; 
+- a son of Zohar **<big>[[H6714|צֹחַר]]</big>**.
 
 Ephron was a Hittite man who lived in the city of Hebron during the time of Abraham. He owned a field containing the cave of Machpelah, which Abraham sought to purchase as a burial place for his wife Sarah \(Gen.23\). 
 
@@ -17,7 +17,7 @@ Ephron's interaction with Abraham demonstrates the legal and social customs of p
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ephron | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6085G) <small>*Hebrew*</small> | 12x | [[Gen.23.8] ... [Gen.50.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephron\*\|reference=Gen.23.8;Gen.23.10;Gen.23.10;Gen.23.13;Gen.23.14;Gen.23.16;Gen.23.16;Gen.23.17;Gen.25.9;Gen.49.29;Gen.49.30;Gen.50.13) |
-All Strong's for **Ephron**: \[[[H6085G]]\]
+| Ephron | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6085G) | 12x | [[Gen.23.8] ... [Gen.50.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephron\*\|reference=Gen.23.8;Gen.23.10;Gen.23.10;Gen.23.13;Gen.23.14;Gen.23.16;Gen.23.16;Gen.23.17;Gen.25.9;Gen.49.29;Gen.49.30;Gen.50.13) |
+All entries for **Ephron**:  **<big>[[H6085|עֶפְרוֹן]]</big>**
 #### Related Profiles:
 - **[Zohar](H6714G)** (father)

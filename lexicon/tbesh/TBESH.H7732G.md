@@ -1,5 +1,4 @@
-<span class="ashebrew">‎שׁוֹבָל‎</span> <small>***(sho.val)***</small> ==**Shobal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.20|Gen.36.20]]
--  son of: Seir ([[H8165B]])
--  brother of: Lotan ([[H3877]]), Zibeon ([[H6649H]]), Anah ([[H6034H]]), Dishon ([[H1787]]), Ezer ([[H0687]]), Dishan ([[H1789]]) and Timna ([[H8555H]])
--  father of: Alvan ([[H5935]]), Manahath ([[H4506B]]), Ebal ([[H5858B]]), Shepho ([[H8195]]), Onam ([[H0208]])
+-  son of: Seir (**<big>[[H8165B|שֵׂעִיר]]</big>**)
+-  brother of: Lotan (**<big>[[H3877|לוֹטָן]]</big>**), Zibeon (**<big>[[H6649H|צִבְעוֹן]]</big>**), Anah (**<big>[[H6034H|עֲנָה]]</big>**), Dishon (**<big>[[H1787|דִּישׁוֹן]]</big>**), Ezer (**<big>[[H0687|אֶצֶר]]</big>**), Dishan (**<big>[[H1789|דִּישָׁן]]</big>**) and Timna (**<big>[[H8555H|תִּמְנָע]]</big>**)
+-  father of: Alvan (**<big>[[H5935|עַלְוָן]]</big>**), Manahath (**<big>[[H4506B|מָנַחַת]]</big>**), Ebal (**<big>[[H5858B|עֵיבָל]]</big>**), Shepho (**<big>[[H8195|שְׁפוֹ]]</big>**), Onam (**<big>[[H0208|אוֹנָם]]</big>**)

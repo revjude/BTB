@@ -6,31 +6,31 @@ However, he did not acquire the priests’ portion of the land, for it had been 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.21|<< Genesis 47:21]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.23|Genesis 47:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| only  | <span class="ashebrew"><big>רַ֛ק </big></span><small><small><sup>[[H7535]]</sup></small></small> &#8207;| rak <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אַדְמַ֥ת </big></span><small><small><sup>[[H0127G]]</sup></small></small> &#8207;| 'ad.Mat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priests  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֲנִ֖ים </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he bought  | <span class="ashebrew"><big>קָנָ֑ה </big></span><small><small><sup>[[H7069]]</sup></small></small> &#8207;| ka.Nah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an allowance  | <span class="ashebrew"><big>חֹ֨ק </big></span><small><small><sup>[[H2706H]]</sup></small></small> &#8207;| chok <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to the priests  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֹּהֲנִ֜ים </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ko.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֗ה </big></span><small><small><sup>[[H6547H]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they eat  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָֽכְל֤וּ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.khe.Lu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| allowance their  | <span class="ashebrew"><big>חֻקָּ </big></span><small><small><sup>[[H2706H]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| chu.Ka <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he gave  | <span class="ashebrew"><big>נָתַ֤ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.Tan <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶם֙ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֔ה </big></span><small><small><sup>[[H6547H]]</sup></small></small> &#8207;| par.'Oh <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֕ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they sold  | <span class="ashebrew"><big>מָכְר֖וּ </big></span><small><small><sup>[[H4376]]</sup></small></small> &#8207;| ma.khe.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| land their  | <span class="ashebrew"><big>אַדְמָתָֽ </big></span><small><small><sup>[[H0127G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ad.ma.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H7535\|רַ֛ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0127G\|אַדְמַ֥ת]]&#8207; </big>**| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bought  |**<big>&#8207;[[H7069\|קָנָ֑ה]]&#8207; </big>**| ka.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an allowance  |**<big>&#8207;[[H2706H\|חֹ֨ק]]&#8207; </big>**| chok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to the priests  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֜ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֣ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֗ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָֽכְל֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| allowance their  |**<big>&#8207;[[H2706H\|חֻקָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| chu.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gave  |**<big>&#8207;[[H5414G\|נָתַ֤ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֔ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֕ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sold  |**<big>&#8207;[[H4376\|מָכְר֖וּ]]&#8207; </big>**| ma.khe.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land their  |**<big>&#8207;[[H0127G\|אַדְמָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ad.ma.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.21|<< Genesis 47:21]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.23|Genesis 47:23 >>]]</td></tr></table>
 
 

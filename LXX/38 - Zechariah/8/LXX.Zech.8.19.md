@@ -7,48 +7,48 @@ Thus saith the LORD of hosts; The fast of the fourth [month], and the fast of th
 “This is what the LORD of Hosts says: The fasts of the fourth, the fifth, the seventh, and the tenth months will become times of joy and gladness, cheerful feasts for the house of Judah. Therefore you are to love both truth and peace.”<small><sub>**MT:**</sub></small>
 [[Zech.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.18|<< Zechariah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.20|Zechariah 8:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| Fasting | <big><span class="asgreek">νηστεία</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| on the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth \[month\], | <big><span class="asgreek">τετάρτη</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fasting | <big><span class="asgreek">νηστεία</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| on the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth, | <big><span class="asgreek">πέμπτη</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fasting | <big><span class="asgreek">νηστεία</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| on the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh, | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fasting | <big><span class="asgreek">νηστεία</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| on the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth, | <big><span class="asgreek">δεκάτη</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| joy | <big><span class="asgreek">χαράν</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| holiday \[feasts\] | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθάς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be glad, | <big><span class="asgreek">ευφρανθήσεσθε</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| love | <big><span class="asgreek">αγαπήσατε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| Fasting | **<big>[[G3521\|νηστεία]]</big>** |
+| on the | **<big>[[G3588\|η]]</big>** |
+| fourth \[month\], | **<big>[[G5067\|τετάρτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fasting | **<big>[[G3521\|νηστεία]]</big>** |
+| on the | **<big>[[G3588\|η]]</big>** |
+| fifth, | **<big>[[G3991\|πέμπτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fasting | **<big>[[G3521\|νηστεία]]</big>** |
+| on the | **<big>[[G3588\|η]]</big>** |
+| seventh, | **<big>[[G1442\|εβδόμη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fasting | **<big>[[G3521\|νηστεία]]</big>** |
+| on the | **<big>[[G3588\|η]]</big>** |
+| tenth, | **<big>[[G1181\|δεκάτη]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| joy | **<big>[[G5479\|χαράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| holiday \[feasts\] | **<big>[[G1859\|εορτάς]]</big>** |
+| good | **<big>[[G0018\|αγαθάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be glad, | **<big>[[G2165\|ευφρανθήσεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| truth | **<big>[[G0225\|αλήθειαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| love | **<big>[[G0025\|αγαπήσατε]]</big>** |
 [[Zech.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.18|<< Zechariah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.20|Zechariah 8:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַנּוֹת‎</span></big> **channôwth** <small>*(klan-noth')*</small> ==**to entreat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup> (in the sense of prayer)</small>
+**<big><span class="ashebrew">‎חַנּוֹת‎</span></big>** **channôwth** <small>*(klan-noth')*</small> ==**to entreat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>** (in the sense of prayer)</small>
 
 $\quad$ be gracious, intreated.
 - ***supplication***

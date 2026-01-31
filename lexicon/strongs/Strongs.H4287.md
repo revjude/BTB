@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחַת‎</span></big> **Machath** <small>*(makh'-ath)*</small> ==**Mahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎מָחָה‎</span><sup><small>[[H4229]]</small></sup>; erasure</small>
+**<big><span class="ashebrew">‎מַחַת‎</span></big>** **Machath** <small>*(makh'-ath)*</small> ==**Mahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H4229|‎מָחָה‎]]</big>**; erasure</small>
 
 $\quad$ Mahath.
 - § Mahath = *"grasping"*

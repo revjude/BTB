@@ -4,7 +4,7 @@ People from Hushath\(?\)
 
 The <span class='tipnrhighlight'>Hushathites</span> were a clan or family that produced several of David's mighty warriors, including Sibbecai and Mebunnai.
 - People from Hushath\(?\), first mentioned at [[2Sam.21.18|2Sa.21.18]]; 
-- only referred to as Hushathites<[[H2843]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Hushathites **<big>[[H2843|חֻשָׁתִי]]</big>**.
 
 The Hushathites are mentioned in several passages in 2 Samuel and 1 Chronicles as a clan or family that produced notable warriors during the reign of King David. 
 
@@ -20,5 +20,5 @@ The Hushathites' repeated mention in the context of David's mighty warriors and 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hushathite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H2843) <small>*Hebrew*</small> | 5x | [[2Sa.21.18] ... [1Ch.27.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushathite\*\|reference=2Sa.21.18;2Sa.23.27;1Ch.11.29;1Ch.20.4;1Ch.27.11) |
-All Strong's for **Hushathites**: \[[[H2843]]\]
+| Hushathite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H2843) | 5x | [[2Sa.21.18] ... [1Ch.27.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushathite\*\|reference=2Sa.21.18;2Sa.23.27;1Ch.11.29;1Ch.20.4;1Ch.27.11) |
+All entries for **Hushathites**:  **<big>[[H2843|חֻשָׁתִי]]</big>**

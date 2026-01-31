@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סְפַרְוִי‎</span></big> **Çᵉpharvîy** <small>*(sef-ar-vee')*</small> ==**Sepharvaim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎סְפַרְוַיִם‎</span><sup><small>[[H5617]]</small></sup></small>
+**<big><span class="ashebrew">‎סְפַרְוִי‎</span></big>** **Çᵉpharvîy** <small>*(sef-ar-vee')*</small> ==**Sepharvaim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H5617|‎סְפַרְוַיִם‎]]</big>**</small>
 
 $\quad$ Sepharvite.
 - § Sepharvites see Sepharvaim = *"enumeration"*

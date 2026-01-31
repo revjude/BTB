@@ -7,18 +7,18 @@ Shall the throne of iniquity have fellowship with thee, which frameth mischief b
 Can a corrupt throne be Your ally—one devising mischief by decree?<small><sub>**MT:**</sub></small>
 [[Ps.94.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.19|<< Psalm 94:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.21|Psalm 94:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| adhere with | <big><span class="asgreek">συμπροσέσται</span></big> <sup><small><small>[[G9281]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] throne | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| of lawlessness | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shaping | <big><span class="asgreek">πλάσσων</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| trouble | <big><span class="asgreek">κόπον</span></big> <sup><small><small>[[G2873]]</small></small></sup> |
-| out of | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| order? | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| adhere with | **<big>[[G9281\|συμπροσέσται]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] throne | **<big>[[G2362\|θρόνος]]</big>** |
+| of lawlessness | **<big>[[G0458\|ανομίας]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| shaping | **<big>[[G4111\|πλάσσων]]</big>** |
+| trouble | **<big>[[G2873\|κόπον]]</big>** |
+| out of | **<big>[[G1909\|επί]]</big>** |
+| order? | **<big>[[G8943\|πρόσταγμα]]</big>** |
 [[Ps.94.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.19|<< Psalm 94:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.21|Psalm 94:21 >>]]</td></tr></table>
 
 

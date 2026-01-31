@@ -11,26 +11,26 @@ Depart, depart, go out from there! Touch no unclean thing; come out from it, pur
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]] ☩ [[2Cor.6.16|2Cor 6:16-18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Leave! | <big><span class="asgreek">απόστητε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| Leave! | <big><span class="asgreek">απόστητε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">εξέλθετε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] unclean \[thing\] | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| touch! | <big><span class="asgreek">άπτεσθε</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">εξέλθετε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of it! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Separate yourselves, | <big><span class="asgreek">αφορίσθητε</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing | <big><span class="asgreek">φέροντες</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vessels | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Leave! | **<big>[[G0868\|απόστητε]]</big>** |
+| Leave! | **<big>[[G0868\|απόστητε]]</big>** |
+| Go forth | **<big>[[G1831\|εξέλθετε]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] unclean \[thing\] | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| touch! | **<big>[[G0680\|άπτεσθε]]</big>** |
+| Go forth | **<big>[[G1831\|εξέλθετε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of it! | **<big>[[G1473\|αυτού]]</big>** |
+| Separate yourselves, | **<big>[[G0873\|αφορίσθητε]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| bearing | **<big>[[G5342\|φέροντες]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| vessels | **<big>[[G4632\|σκεύη]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[Isa.52.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.10|<< Isaiah 52:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.12|Isaiah 52:12 >>]]</td></tr></table>
 
 

@@ -7,12 +7,12 @@ The children of Adonikam, six hundred sixty and six.
 the descendants of Adonikam, 666;<small><sub>**MT:**</sub></small>
 [[Ezra.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.12|<< Ezra 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.14|Ezra 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Adonikam -- | <big><span class="asgreek">Αδονικάμ</span></big> <sup><small><small>[[H0140]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| sixty-six. | <big><span class="asgreek">εξηκονταέξ</span></big> <sup><small><small>[[G7324]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Adonikam -- | **<big>[[H0140\|Αδονικάμ]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| sixty-six. | **<big>[[G7324\|εξηκονταέξ]]</big>** |
 [[Ezra.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.12|<< Ezra 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.14|Ezra 2:14 >>]]</td></tr></table>
 
 

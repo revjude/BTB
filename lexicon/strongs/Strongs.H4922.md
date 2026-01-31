@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְשֻׁלֶּמֶת‎</span></big> **Mᵉshullemeth** <small>*(mesh-ool-leh'-meth')*</small> ==**Meshullemeth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מְשֻׁלָּם‎</span><sup><small>[[H4918]]</small></sup></small>
+**<big><span class="ashebrew">‎מְשֻׁלֶּמֶת‎</span></big>** **Mᵉshullemeth** <small>*(mesh-ool-leh'-meth')*</small> ==**Meshullemeth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H4918|‎מְשֻׁלָּם‎]]</big>**</small>
 
 $\quad$ Meshullemeth.
 - § Meshullemeth = *"friend"*

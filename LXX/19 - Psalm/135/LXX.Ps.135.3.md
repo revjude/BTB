@@ -7,18 +7,18 @@ Praise the LORD; for the LORD [is] good: sing praises unto his name; for [it is]
 Hallelujah, for the LORD is good; sing praises to His name, for it is lovely.<small><sub>**MT:**</sub></small>
 [[Ps.135.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.2|<< Psalm 135:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.4|Psalm 135:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> \[is\] good! | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Strum | <big><span class="asgreek">ψάλατε</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name, | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it is\] good! | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> \[is\] good! | **<big>[[G0018\|αγαθός]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| Strum | **<big>[[G5567\|ψάλατε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his name, | **<big>[[G3686\|ονόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[it is\] good! | **<big>[[G2570\|καλόν]]</big>** |
 [[Ps.135.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.2|<< Psalm 135:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.4|Psalm 135:4 >>]]</td></tr></table>
 
 

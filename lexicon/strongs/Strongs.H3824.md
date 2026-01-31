@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לֵבָב‎</span></big> **lêbâb** <small>*(lay-bawb')*</small> ==**heart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎לָבַב‎</span><sup><small>[[H3823]]</small></sup>; used also like <span class="ashebrew">‎לֵב‎</span><sup><small>[[H3820]]</small></sup></small>
+**<big><span class="ashebrew">‎לֵבָב‎</span></big>** **lêbâb** <small>*(lay-bawb')*</small> ==**heart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3823|‎לָבַב‎]]</big>**; used also like **<big>[[H3820|‎לֵב‎]]</big>**</small>
 
 $\quad$ [phrase] bethink themselves, breast, comfortably, courage, ((faint), (tender-) heart(-ed), midst, mind, [idiom] unawares, understanding.
 - ***the heart*** (as the most interior organ)
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1a7)** heart (of moral character)
 $\quad$ $\quad$ **1a8)** as seat of appetites
 $\quad$ $\quad$ **1a9)** as seat of emotions and passions 1a10) as seat of courage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διάνοια</span><sup><small>[[G1271]]</small></sup> · <span class="asgreek">ἐπιθυμία</span><sup><small>[[G1939]]</small></sup> · <span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">νοῦς</span><sup><small>[[G3563]]</small></sup> · <span class="asgreek">ψυχή</span><sup><small>[[G5590]]</small></sup>
+<small>See Greek: </small>**<big>[[G1271|διάνοια]]</big>** · **<big>[[G1939|ἐπιθυμία]]</big>** · **<big>[[G2588|καρδία]]</big>** · **<big>[[G3563|νοῦς]]</big>** · **<big>[[G5590|ψυχή]]</big>**

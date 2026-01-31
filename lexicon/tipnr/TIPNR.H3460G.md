@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ishmaiah</span> the Gibeonite was a mighty warrior among the Thirty who joined David at Ziklag \([[1Chr.12.4|1Ch.12.4]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.4|1Ch.12.4]]; 
-- only referred to as Ishmaiah<[[H3460G]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Ishmaiah **<big>[[H3460|יִשְׁמַעְיָה]]</big>**.
 
 Ishmaiah the Gibeonite is mentioned in [[1Chr.12.4|1 Chronicles 12:4]] as one of the mighty warriors who joined David at Ziklag. He is described as a Gibeonite, indicating that he was from the city of Gibeon, which had made a treaty with Israel during the conquest of Canaan \(Josh.9\). 
 
@@ -16,5 +16,5 @@ No other details are provided about Ishmaiah's life or specific actions. His inc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishmaiah (KJV= Ismaiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3460G) <small>*Hebrew*</small> | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmaiah\*\|reference=1Ch.12.4) |
-All Strong's for **Ishmaiah**: \[[[H3460G]]\]
+| Ishmaiah (KJV= Ismaiah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3460G) | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmaiah\*\|reference=1Ch.12.4) |
+All entries for **Ishmaiah**:  **<big>[[H3460|יִשְׁמַעְיָה]]</big>**

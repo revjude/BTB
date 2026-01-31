@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחֲזִיאֵל‎</span></big> **Yachăzîyʼêl** <small>*(yakh-az-ee-ale')*</small> ==**Jahaziel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; beheld of God</small>
+**<big><span class="ashebrew">‎יַחֲזִיאֵל‎</span></big>** **Yachăzîyʼêl** <small>*(yakh-az-ee-ale')*</small> ==**Jahaziel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2372|‎חָזָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; beheld of God</small>
 
 $\quad$ Jahaziel, Jahziel.
 - § Jahaziel = *"beheld of God"*

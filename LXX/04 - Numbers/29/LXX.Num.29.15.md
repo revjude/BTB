@@ -7,21 +7,21 @@ And a several tenth deal to each lamb of the fourteen lambs:
 and a tenth of an ephah with each of the fourteen lambs.<small><sub>**MT:**</sub></small>
 [[Num.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.14|<< Numbers 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.16|Numbers 29:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| tithe | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb | <big><span class="asgreek">αμνώ</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| lambs. | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| a tenth | **<big>[[G1181\|δέκατον]]</big>** |
+| tithe | **<big>[[G1181\|δέκατον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| lamb | **<big>[[G0286\|αμνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| four | **<big>[[G5064\|τέσσαρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| lambs. | **<big>[[G0286\|αμνούς]]</big>** |
 [[Num.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.14|<< Numbers 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.16|Numbers 29:16 >>]]</td></tr></table>
 
 

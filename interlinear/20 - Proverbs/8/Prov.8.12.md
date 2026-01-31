@@ -6,15 +6,15 @@ I, wisdom, dwell together with prudence, and I find knowledge and discretion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.11|<< Proverbs 8:11]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.13|Proverbs 8:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I  | <span class="ashebrew"><big>אֲֽנִי </big></span><small><small><sup>[[H0589]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ani- <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָ֭כְמָה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I dwell  | <span class="ashebrew"><big>שָׁכַ֣נְתִּי </big></span><small><small><sup>[[H7931]]</sup></small></small> &#8207;| sha.Khan.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prudence  | <span class="ashebrew"><big>עָרְמָ֑ה </big></span><small><small><sup>[[H6195]]</sup></small></small> &#8207;| 'a.re.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and knowledge of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דַ֖עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Da.'at <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| discretion  | <span class="ashebrew"><big>מְזִמּ֣וֹת </big></span><small><small><sup>[[H4209]]</sup></small></small> &#8207;| me.zi.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I find  | <span class="ashebrew"><big>אֶמְצָֽא </big></span><small><small><sup>[[H4672]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'em.Tza' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲֽנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ani-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָ֭כְמָה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I dwell  |**<big>&#8207;[[H7931\|שָׁכַ֣נְתִּי]]&#8207; </big>**| sha.Khan.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prudence  |**<big>&#8207;[[H6195\|עָרְמָ֑ה]]&#8207; </big>**| 'a.re.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and knowledge of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1847\|דַ֖עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Da.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| discretion  |**<big>&#8207;[[H4209\|מְזִמּ֣וֹת]]&#8207; </big>**| me.zi.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I find  |**<big>&#8207;[[H4672\|אֶמְצָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'em.Tza'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.11|<< Proverbs 8:11]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.13|Proverbs 8:13 >>]]</td></tr></table>
 
 

@@ -7,42 +7,42 @@ And they built the high places of Baal, which [are] in the valley of the son of 
 They have built the high places of Baal in the Valley of Ben-hinnom to make their sons and daughters pass through the fire to Molech—something I never commanded them, nor had it ever entered My mind, that they should commit such an abomination and cause Judah to sin.<small><sub>**MT:**</sub></small>
 [[Jer.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.34|<< Jeremiah 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.36|Jeremiah 32:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they built | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrines | <big><span class="asgreek">βωμούς</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baal, | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hinnom, | <big><span class="asgreek">Εννόμ</span></big> <sup><small><small>[[H2011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to offer | <big><span class="asgreek">αναφέρειν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Molech; | <big><span class="asgreek">Μολόχ</span></big> <sup><small><small>[[G3434]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I ordered not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνέταξα</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it ascended not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this abomination, | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seduce Judah to sin. | <big><span class="asgreek">εφαμαρτείν</span></big> <sup><small><small>[[G7578]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they built | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| shrines | **<big>[[G1041\|βωμούς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Baal, | **<big>[[G0896\|Βάαλ]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγι]]</big>** |
+| of \[the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hinnom, | **<big>[[H2011\|Εννόμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to offer | **<big>[[G0399\|αναφέρειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Molech; | **<big>[[G3434\|Μολόχ]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I ordered not | **<big>[[G3756\|ου]]</big>** **<big>[[G4929\|συνέταξα]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it ascended not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0305\|ανέβη]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| my heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this abomination, | **<big>[[G0946\|βδέλυγμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| seduce Judah to sin. | **<big>[[G7578\|εφαμαρτείν]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2448\|Ιούδαν]]</big>** |
 [[Jer.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.34|<< Jeremiah 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.36|Jeremiah 32:36 >>]]</td></tr></table>
 
 

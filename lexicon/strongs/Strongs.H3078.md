@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹיָכִין‎</span></big> **Yᵉhôwyâkîyn** <small>*(yeh-ho-yaw-keen')*</small> ==**Jehoiachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup>; Jehovah will establish</small>
+**<big><span class="ashebrew">‎יְהוֹיָכִין‎</span></big>** **Yᵉhôwyâkîyn** <small>*(yeh-ho-yaw-keen')*</small> ==**Jehoiachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H3559|‎כּוּן‎]]</big>**; Jehovah will establish</small>
 
-$\quad$ Jehoiachin. Compare <span class="ashebrew">‎יוֹיָכִין‎</span><sup><small>[[H3112]]</small></sup>.
+$\quad$ Jehoiachin. Compare **<big>[[H3112|‎יוֹיָכִין‎]]</big>**.
 - § Jehoiachin = *"Jehovah establishes"*
 - ***Jehojakin***, a Jewish king
 

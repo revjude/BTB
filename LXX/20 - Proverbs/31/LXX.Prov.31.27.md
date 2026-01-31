@@ -7,15 +7,15 @@ She looketh well to the ways of her household, and eateth not the bread of idlen
 She watches over the affairs of her household and does not eat the bread of idleness.<small><sub>**MT:**</sub></small>
 [[Prov.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.26|<< Proverbs 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.28|Proverbs 31:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| are roofed | <big><span class="asgreek">στεγναί</span></big> <sup><small><small>[[G9158]]</small></small></sup> |
-| \[The\] pastimes | <big><span class="asgreek">διατριβαί</span></big> <sup><small><small>[[G6896]]</small></small></sup> |
-| to her house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and \[the\] grain | <big><span class="asgreek">σίτα</span></big> <sup><small><small>[[G4621]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of laziness | <big><span class="asgreek">οκνηρά</span></big> <sup><small><small>[[G3636]]</small></small></sup> |
-| she does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat. | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| are roofed | **<big>[[G9158\|στεγναί]]</big>** |
+| \[The\] pastimes | **<big>[[G6896\|διατριβαί]]</big>** |
+| to her house | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and \[the\] grain | **<big>[[G4621\|σίτα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of laziness | **<big>[[G3636\|οκνηρά]]</big>** |
+| she does not | **<big>[[G3756\|ουκ]]</big>** |
+| eat. | **<big>[[G2068\|έφαγε]]</big>** |
 [[Prov.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.26|<< Proverbs 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.28|Proverbs 31:28 >>]]</td></tr></table>
 
 

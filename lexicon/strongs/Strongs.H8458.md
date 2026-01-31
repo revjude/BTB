@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּחְבֻּלָה‎</span></big> **tachbulâh** <small>*(takh-boo-law')*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תַּחְבּוּלָה</span> **tachbûwlâh** <small>*(takh-boo-law')*</small>; from <span class="ashebrew">‎חָבַל‎</span><sup><small>[[H2254]]</small></sup> as denominative from <span class="ashebrew">‎חֶבֶל‎</span><sup><small>[[H2256]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּחְבֻּלָה‎</span></big>** **tachbulâh** <small>*(takh-boo-law')*</small> ==**counsel**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תַּחְבּוּלָה</span></big>** **tachbûwlâh** <small>*(takh-boo-law')*</small>; from **<big>[[H2254|‎חָבַל‎]]</big>** as denominative from **<big>[[H2256|‎חֶבֶל‎]]</big>**</small>
 
 $\quad$ good advice, (wise) counsels.
 - (only in plural) properly, ***steerage*** (as a management of ropes), i.e. (figuratively) ***guidance*** or (by implication) ***a plan***
@@ -10,4 +10,4 @@ $\quad$ **1b)** counsel
 $\quad$ $\quad$ **1b1)** good or wise counsel
 $\quad$ $\quad$ **1b2)** of the wicked
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">κυβέρνησις</span><sup><small>[[G2941]]</small></sup>
+<small>See Greek: </small>**<big>[[G1013|βούλημα]]</big>** · **<big>[[G2941|κυβέρνησις]]</big>**

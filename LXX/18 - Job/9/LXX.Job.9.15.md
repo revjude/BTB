@@ -7,17 +7,17 @@ Whom, though I were righteous, [yet] would I not answer, [but] I would make supp
 For even if I were right, I could not answer. I could only beg my Judge for mercy.<small><sub>**MT:**</sub></small>
 [[Job.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.14|<< Job 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.16|Job 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| I should be | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| shall he listen not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισακούσεταί</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his equity | <big><span class="asgreek">κρίματος</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will beseech. | <big><span class="asgreek">δεηθήσομαι</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
+| even if | **<big>[[G1437\|εάν]]</big>** **<big>[[G5037\|τε]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| just | **<big>[[G1342\|δίκαιος]]</big>** |
+| I should be | **<big>[[G1510\|ω]]</big>** |
+| shall he listen not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1522\|εισακούσεταί]]</big>** |
+| me? | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his equity | **<big>[[G2917\|κρίματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I will beseech. | **<big>[[G1189\|δεηθήσομαι]]</big>** |
 [[Job.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.14|<< Job 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.16|Job 9:16 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּלַע‎</span></big> **bâlaʻ** <small>*(baw-lah')*</small> ==**to swallow up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּלַע‎</span></big>** **bâlaʻ** <small>*(baw-lah')*</small> ==**to swallow up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cover, destroy, devour, eat up, be at end, spend up, swallow down (up).
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c3)** squandering (fig.)
 $\quad$ **1d)** (Pual) to be swallowed up
 $\quad$ **1e)** (Hithpael) to be ended
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">γεύομαι</span><sup><small>[[G1089]]</small></sup> · <span class="asgreek">ἐξάπινα</span><sup><small>[[G1819]]</small></sup> · <span class="asgreek">καταπίνω</span><sup><small>[[G2666]]</small></sup> · <span class="asgreek">καταποντίζω</span><sup><small>[[G2670]]</small></sup> · <span class="asgreek">κατεσθίω</span><sup><small>[[G2719]]</small></sup> · <span class="asgreek">παίω</span><sup><small>[[G3817]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G1089|γεύομαι]]</big>** · **<big>[[G1819|ἐξάπινα]]</big>** · **<big>[[G2666|καταπίνω]]</big>** · **<big>[[G2670|καταποντίζω]]</big>** · **<big>[[G2719|κατεσθίω]]</big>** · **<big>[[G3817|παίω]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

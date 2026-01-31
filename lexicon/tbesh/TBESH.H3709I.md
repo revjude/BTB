@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כַּף‎</span> <small>***(kaph)***</small> ==**palm: dish**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-meaning of: <small>[[H3709G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H3709G|כַּף]]</big>**</small> 
 
 - : dish/socket

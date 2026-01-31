@@ -7,32 +7,32 @@ And the soul that turneth after such as have familiar spirits, and after wizards
 Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people.<small><sub>**MT:**</sub></small>
 [[Lev.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.5|<< Leviticus 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.7|Leviticus 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| who | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should follow after | <big><span class="asgreek">επακολουθήση</span></big> <sup><small><small>[[G1872]]</small></small></sup> |
-| ones who deliver oracles | <big><span class="asgreek">εγγαστριμύθοις</span></big> <sup><small><small>[[G6995]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| enchanters, | <big><span class="asgreek">επαοιδοίς</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to fornicate | <big><span class="asgreek">εκπορνεύσαι</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul, | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a soul | **<big>[[G5590\|ψυχή]]</big>** |
+| who | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should follow after | **<big>[[G1872\|επακολουθήση]]</big>** |
+| ones who deliver oracles | **<big>[[G6995\|εγγαστριμύθοις]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| enchanters, | **<big>[[G7368\|επαοιδοίς]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to fornicate | **<big>[[G1608\|εκπορνεύσαι]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| I will set | **<big>[[G2186\|επιστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that soul, | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|εκείνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.5|<< Leviticus 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.7|Leviticus 20:7 >>]]</td></tr></table>
 
 

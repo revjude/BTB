@@ -6,16 +6,16 @@ who devise evil in their hearts and stir up war all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.1|<< Psalms 140:1]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.3|Psalms 140:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [those] who  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they plan  | <span class="ashebrew"><big>חָשְׁב֣וּ </big></span><small><small><sup>[[H2803I]]</sup></small></small> &#8207;| cha.she.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil things  | <span class="ashebrew"><big>רָע֣וֹת </big></span><small><small><sup>[[H7451I]]</sup></small></small> &#8207;| ra.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] heart  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֵ֑ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֝֗וֹם </big></span><small><small><sup>[[H3117K]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they stir up trouble  | <span class="ashebrew"><big>יָג֥וּרוּ </big></span><small><small><sup>[[H1481B]]</sup></small></small> &#8207;| ya.Gu.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wars  | <span class="ashebrew"><big>מִלְחָמֽוֹת </big></span><small><small><sup>[[H4421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mil.cha.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they plan  |**<big>&#8207;[[H2803I\|חָשְׁב֣וּ]]&#8207; </big>**| cha.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil things  |**<big>&#8207;[[H7451I\|רָע֣וֹת]]&#8207; </big>**| ra.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] heart  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לֵ֑ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117K\|י֝֗וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they stir up trouble  |**<big>&#8207;[[H1481B\|יָג֥וּרוּ]]&#8207; </big>**| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wars  |**<big>&#8207;[[H4421\|מִלְחָמֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mil.cha.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.1|<< Psalms 140:1]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.3|Psalms 140:3 >>]]</td></tr></table>
 
 

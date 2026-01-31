@@ -6,28 +6,28 @@ Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| wail  | <span class="ashebrew"><big>הֵילִ֨ילִי </big></span><small><small><sup>[[H3213]]</sup></small></small> &#8207;| hei.Li.li <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Heshbon  | <span class="ashebrew"><big>חֶשְׁבּ֜וֹן </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| chesh.Bon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been devastated  | <span class="ashebrew"><big>שֻׁדְּדָה </big></span><small><small><sup>[[H7703]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shu.de.dah- <small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ai  | <span class="ashebrew"><big>עַ֗י </big></span><small><small><sup>[[H5857H]]</sup></small></small> &#8207;| 'Ai <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cry out  | <span class="ashebrew"><big>צְעַקְנָה֮ </big></span><small><small><sup>[[H6817]]</sup></small></small> &#8207;| tze.'ak.Nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rabbah  | <span class="ashebrew"><big>רַבָּה֒ </big></span><small><small><sup>[[H7237]]</sup></small></small> &#8207;| ra.Bah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gird yourselves  | <span class="ashebrew"><big>חֲגֹ֣רְנָה </big></span><small><small><sup>[[H2296]]</sup></small></small> &#8207;| cha.Go.re.nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sackcloth\<s>  | <span class="ashebrew"><big>שַׂקִּ֔ים </big></span><small><small><sup>[[H8242]]</sup></small></small> &#8207;| sa.Kim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mourn  | <span class="ashebrew"><big>סְפֹ֕דְנָה </big></span><small><small><sup>[[H5594]]</sup></small></small> &#8207;| se.Fo.de.nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and run to and fro  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִתְשׁוֹטַ֖טְנָה </big></span><small><small><sup>[[H7751A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hit.sho.Tat.nah <small><sup>[[HVtv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the walls  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גְּדֵר֑וֹת </big></span><small><small><sup>[[H1448]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ge.de.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Milcom  | <span class="ashebrew"><big>מַלְכָּם֙ </big></span><small><small><sup>[[H4428K]]</sup></small></small> &#8207;| mal.Kam <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> exile  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גּוֹלָ֣ה </big></span><small><small><sup>[[H1473]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> go.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go  | <span class="ashebrew"><big>יֵלֵ֔ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| ye.Lekh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| priests his  | <span class="ashebrew"><big>כֹּהֲנָ֥י </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ko.ha.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and officials his  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׂרָ֖י </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sa.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יַחְדָּֽיו </big></span><small><small><sup>[[H3162B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wail  |**<big>&#8207;[[H3213\|הֵילִ֨ילִי]]&#8207; </big>**| hei.Li.li<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֜וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been devastated  |**<big>&#8207;[[H7703\|שֻׁדְּדָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shu.de.dah-<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ai  |**<big>&#8207;[[H5857H\|עַ֗י]]&#8207; </big>**| 'Ai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cry out  |**<big>&#8207;[[H6817\|צְעַקְנָה֮]]&#8207; </big>**| tze.'ak.Nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rabbah  |**<big>&#8207;[[H7237\|רַבָּה֒]]&#8207; </big>**| ra.Bah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gird yourselves  |**<big>&#8207;[[H2296\|חֲגֹ֣רְנָה]]&#8207; </big>**| cha.Go.re.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sackcloth\<s>  |**<big>&#8207;[[H8242\|שַׂקִּ֔ים]]&#8207; </big>**| sa.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mourn  |**<big>&#8207;[[H5594\|סְפֹ֕דְנָה]]&#8207; </big>**| se.Fo.de.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and run to and fro  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7751A\|הִתְשׁוֹטַ֖טְנָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hit.sho.Tat.nah<small><sup>[[HVtv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the walls  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1448\|גְּדֵר֑וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ge.de.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Milcom  |**<big>&#8207;[[H4428K\|מַלְכָּם֙]]&#8207; </big>**| mal.Kam<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> exile  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1473\|גּוֹלָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go  |**<big>&#8207;[[H1980G\|יֵלֵ֔ךְ]]&#8207; </big>**| ye.Lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priests his  |**<big>&#8207;[[H3548\|כֹּהֲנָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ko.ha.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and officials his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽיו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
 

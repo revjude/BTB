@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אֵלוֹן‎</span> <small>***(e.lon)***</small> ==**Elon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Zebulun living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.14|Gen.46.14]]
--  son of: Zebulun ([[H2074]])
--  brother of: Sered ([[H5624]]) and Jahleel ([[H3177]])
-- Also named: <i>e.lo.ni</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span>ֹ<span class='ashebrew'>‎נ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Elonite" [[H0440]])
+-  son of: Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**)
+-  brother of: Sered (**<big>[[H5624|סֶרֶד]]</big>**) and Jahleel (**<big>[[H3177|יַחְלְאֵל]]</big>**)
+- Also named: <i>e.lo.ni</i> (<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span>ֹ<span class='ashebrew'>‎נ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Elonite" **<big>[[H0440|אֵלוֹנִי]]</big>**)

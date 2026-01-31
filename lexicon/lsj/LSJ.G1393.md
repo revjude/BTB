@@ -1,4 +1,4 @@
-name of: <small>[[G5000]]</small> 
+name of: <small>**<big>[[G5000|Ταβιθά]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Δορκάς==</span></b>, <span class='asgreek'>άδος</span> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ἡ</span>, 

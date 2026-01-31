@@ -7,18 +7,18 @@ Shew us thy mercy, O LORD, and grant us thy salvation.
 Show us Your loving devotion, O LORD, and grant us Your salvation.<small><sub>**MT:**</sub></small>
 [[Ps.85.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.6|<< Psalm 85:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.8|Psalm 85:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Show | <big><span class="asgreek">δείξον</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy! | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| may you give | <big><span class="asgreek">δώης</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Show | **<big>[[G1166\|δείξον]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy! | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| may you give | **<big>[[G1325\|δώης]]</big>** |
+| to us. | **<big>[[G1473\|ημίν]]</big>** |
 [[Ps.85.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.6|<< Psalm 85:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.8|Psalm 85:8 >>]]</td></tr></table>
 
 

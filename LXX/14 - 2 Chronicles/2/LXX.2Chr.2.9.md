@@ -7,22 +7,22 @@ Even to prepare me timber in abundance: for the house which I am about to build 
 to prepare for me timber in abundance, because the temple I am building will be great and wonderful.<small><sub>**MT:**</sub></small>
 [[2Chr.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.8|<< 2 Chronicles 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.10|2 Chronicles 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to prepare | <big><span class="asgreek">ετοιμάσαι</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude, | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| build | <big><span class="asgreek">οικοδομώ</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| \[is\] great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glorious. | <big><span class="asgreek">ένδοξος</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
+| to prepare | **<big>[[G2090\|ετοιμάσαι]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude, | **<big>[[G4128\|πλήθος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| build | **<big>[[G3618\|οικοδομώ]]</big>** |
+| \[is\] great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glorious. | **<big>[[G1741\|ένδοξος]]</big>** |
 [[2Chr.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.8|<< 2 Chronicles 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.10|2 Chronicles 2:10 >>]]</td></tr></table>
 
 

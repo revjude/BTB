@@ -7,23 +7,23 @@ Shall we then hearken unto you to do all this great evil, to transgress against 
 Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?”<small><sub>**MT:**</sub></small>
 [[Neh.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.26|<< Nehemiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.28|Nehemiah 13:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should we not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken | <big><span class="asgreek">ακούσωεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wickedness, | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to break contract | <big><span class="asgreek">ασυνθετήσαι</span></big> <sup><small><small>[[G6581]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to settle with | <big><span class="asgreek">καθίσαι</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλοτρίας</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| So | **<big>[[G2532\|και]]</big>** |
+| with you | **<big>[[G1473\|υμών]]</big>** |
+| should we not | **<big>[[G3361\|μη]]</big>** |
+| hearken | **<big>[[G0191\|ακούσωεν]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this wickedness, | **<big>[[G4189\|πονηρίαν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| to break contract | **<big>[[G6581\|ασυνθετήσαι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to settle with | **<big>[[G2523\|καθίσαι]]</big>** |
+| wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| alien | **<big>[[G0245\|αλλοτρίας]]</big>** |
 [[Neh.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.26|<< Nehemiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.28|Nehemiah 13:28 >>]]</td></tr></table>
 
 

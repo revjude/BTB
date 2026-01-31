@@ -7,32 +7,32 @@ And if ye take this also from me, and mischief befall him, ye shall bring down m
 Now if you also take this one from me and harm comes to him, you will bring my gray hair down to Sheol in sorrow.’<small><sub>**MT:**</sub></small>
 [[Gen.44.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.28|<< Genesis 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.30|Genesis 44:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| you should take | <big><span class="asgreek">λάβητε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[one\] | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| comes to pass | <big><span class="asgreek">συμβή</span></big> <sup><small><small>[[G4819]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an infirmity | <big><span class="asgreek">μαλακία</span></big> <sup><small><small>[[G3119]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| then \[know that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will lead | <big><span class="asgreek">κατάξετέ</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in old age | <big><span class="asgreek">γήρας</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| distress | <big><span class="asgreek">λύπης</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| you should take | **<big>[[G2983\|λάβητε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| this \[one\] | **<big>[[G3778\|τούτον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| comes to pass | **<big>[[G4819\|συμβή]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| an infirmity | **<big>[[G3119\|μαλακία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| then \[know that\] | **<big>[[G2532\|και]]</big>** |
+| you will lead | **<big>[[G2609\|κατάξετέ]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in old age | **<big>[[G1094\|γήρας]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| distress | **<big>[[G3077\|λύπης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades. | **<big>[[G0086\|άδου]]</big>** |
 [[Gen.44.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.28|<< Genesis 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.30|Genesis 44:30 >>]]</td></tr></table>
 
 

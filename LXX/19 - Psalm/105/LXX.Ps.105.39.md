@@ -7,19 +7,19 @@ He spread a cloud for a covering; and fire to give light in the night.
 He spread a cloud as a covering and a fire to light up the night.<small><sub>**MT:**</sub></small>
 [[Ps.105.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.38|<< Psalm 105:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.40|Psalm 105:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He opened and spread out | <big><span class="asgreek">διεπέτασε</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| a cloud | <big><span class="asgreek">νεφέλην</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their protection, | <big><span class="asgreek">σκέπην</span></big> <sup><small><small>[[G9098]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give light | <big><span class="asgreek">φωτίσαι</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at night. | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| He opened and spread out | **<big>[[G6861\|διεπέτασε]]</big>** |
+| a cloud | **<big>[[G3507\|νεφέλην]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| their protection, | **<big>[[G9098\|σκέπην]]</big>** **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give light | **<big>[[G5461\|φωτίσαι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| at night. | **<big>[[G3571\|νύκτα]]</big>** |
 [[Ps.105.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.38|<< Psalm 105:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.40|Psalm 105:40 >>]]</td></tr></table>
 
 

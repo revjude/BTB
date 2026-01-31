@@ -7,39 +7,39 @@ Then shall he give the rain of thy seed, that thou shalt sow the ground withal; 
 Then He will send rain for the seed that you have sown in the ground, and the food that comes from your land will be rich and plentiful. On that day your cattle will graze in open pastures.<small><sub>**MT:**</sub></small>
 [[Isa.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.22|<< Isaiah 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.24|Isaiah 30:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρματι</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτος</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| from the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| produce | <big><span class="asgreek">γεννήματός</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| plenteous | <big><span class="asgreek">πλησμονή</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lustrous; | <big><span class="asgreek">λιπαρός</span></big> <sup><small><small>[[G3045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall graze | <big><span class="asgreek">βοσκηθήσονταί</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \[in\] a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| fertile | <big><span class="asgreek">πίονα</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| broad-spaced. | <big><span class="asgreek">ευρύχωρον</span></big> <sup><small><small>[[G2149]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| rain | **<big>[[G5205\|υετός]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| seed | **<big>[[G4690\|σπέρματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land; | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bread | **<big>[[G0740\|άρτος]]</big>** |
+| from the | **<big>[[G3588\|του]]</big>** |
+| produce | **<big>[[G1081\|γεννήματός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| plenteous | **<big>[[G4140\|πλησμονή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lustrous; | **<big>[[G3045\|λιπαρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall graze | **<big>[[G1006\|βοσκηθήσονταί]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| \[in\] a place | **<big>[[G5117\|τόπον]]</big>** |
+| fertile | **<big>[[G8798\|πίονα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| broad-spaced. | **<big>[[G2149\|ευρύχωρον]]</big>** |
 [[Isa.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.22|<< Isaiah 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.24|Isaiah 30:24 >>]]</td></tr></table>
 
 

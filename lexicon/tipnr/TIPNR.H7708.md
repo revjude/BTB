@@ -2,7 +2,7 @@
 
 The Valley of Siddim, located near the Dead Sea, was the site of a battle between the kings of Sodom and Gomorrah and the kings of Elam and their allies \(Gen. 14:3, 8, 10\).
 - A location first mentioned at [[Gen.14.3|Gen.14.3]]; 
-- only referred to as Siddim\_Valley<[[H7708]]><[[H6010Q]]> \(<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ים</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Siddim\_Valley **<big>[[H7708|שִׂדִּים]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.235341,35.517624&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of the Valley of Siddim in the Bible is significant, as it sets the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Siddim | [<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7708)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010Q) <small>*Hebrew*</small> | 3x | [[Gen.14.3] ... [Gen.14.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Gen.14.3;Gen.14.8;Gen.14.10) |
-All Strong's for **Siddim_Valley**: \[[[H7708]]\]
+| Valley/ of Siddim | [<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H7708)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010Q) | 3x | [[Gen.14.3] ... [Gen.14.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Gen.14.3;Gen.14.8;Gen.14.10) |
+All entries for **Siddim Valley**:  **<big>[[H7708|שִׂדִּים]]</big>**

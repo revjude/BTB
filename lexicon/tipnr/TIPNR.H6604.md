@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pethor</span> was the hometown of Balaam, the prophet hired by Balak to curse Israel, located near the Euphrates River in Mesopotamia.
 - A location first mentioned at [[Num.22.5|Num.22.5]]; 
-- only referred to as Pethor<[[H6604]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Pethor **<big>[[H6604|פְּתוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.654616,38.068879&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Pethor was a city in Mesopotamia, located near the Euphrates River, and is menti
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pethor | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H6604) <small>*Hebrew*</small> | 2x | [[Num.22.5] & [Deu.23.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pethor\*\|reference=Num.22.5;Deu.23.4) |
-All Strong's for **Pethor**: \[[[H6604]]\]
+| Pethor | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H6604) | 2x | [[Num.22.5] & [Deu.23.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pethor\*\|reference=Num.22.5;Deu.23.4) |
+All entries for **Pethor**:  **<big>[[H6604|פְּתוֹר]]</big>**

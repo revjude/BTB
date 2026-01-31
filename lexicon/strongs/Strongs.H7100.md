@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קֶצַח‎</span></big> **qetsach** <small>*(keh'-tsakh)*</small> ==**dill**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎קֶצַח‎</span></big>** **qetsach** <small>*(keh'-tsakh)*</small> ==**dill**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root apparently meaning to incise</small>
 
 $\quad$ fitches.

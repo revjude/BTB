@@ -7,28 +7,28 @@ Take heed to thyself, lest thou make a covenant with the inhabitants of the land
 Be careful not to make a treaty with the inhabitants of the land you are entering, lest they become a snare in your midst.<small><sub>**MT:**</sub></small>
 [[Exod.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.11|<< Exodus 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.13|Exodus 34:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take heed | <big><span class="asgreek">πρόσεχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourself! | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| you should establish | <big><span class="asgreek">θης</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a covenant \[with\] | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lying in wait | <big><span class="asgreek">εγκαθημένοις</span></big> <sup><small><small>[[G7002]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισπορεύη</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| it become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| an occasion of stumbling | <big><span class="asgreek">πρόσκομμα</span></big> <sup><small><small>[[G4348]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take heed | **<big>[[G4337\|πρόσεχε]]</big>** |
+| to yourself! | **<big>[[G4572\|σεαυτώ]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| you should establish | **<big>[[G5087\|θης]]</big>** |
+| a covenant \[with\] | **<big>[[G1242\|διαθήκην]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| lying in wait | **<big>[[G7002\|εγκαθημένοις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you enter | **<big>[[G1531\|εισπορεύη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| lest at any time | **<big>[[G3361\|μή ποτε]]</big>** |
+| it become | **<big>[[G1096\|γένηται]]</big>** |
+| an occasion of stumbling | **<big>[[G4348\|πρόσκομμα]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Exod.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.11|<< Exodus 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.13|Exodus 34:13 >>]]</td></tr></table>
 
 

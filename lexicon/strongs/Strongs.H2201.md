@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַעַק‎</span></big> **zaʻaq** <small>*(zah'-ak)*</small> ==**outcry**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>and (feminine) <span class="ashebrew">זְעָקָה</span> **zᵉʻâqâh** <small>*(zeh-awkaw')*</small>; from <span class="ashebrew">‎זָעַק‎</span><sup><small>[[H2199]]</small></sup></small>
+**<big><span class="ashebrew">‎זַעַק‎</span></big>** **zaʻaq** <small>*(zah'-ak)*</small> ==**outcry**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>and (feminine) **<big><span class="ashebrew">זְעָקָה</span></big>** **zᵉʻâqâh** <small>*(zeh-awkaw')*</small>; from **<big>[[H2199|‎זָעַק‎]]</big>**</small>
 
 $\quad$ cry(-ing).
 - ***a shriek*** or ***outcry***
@@ -9,4 +9,4 @@ $\quad$ **1a)** outcry
 $\quad$ **1b)** cry of distress
 $\quad$ **1c)** outcry, clamour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοάω</span><sup><small>[[G0994]]</small></sup> · <span class="asgreek">βοή</span><sup><small>[[G0995]]</small></sup> · <span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup>
+<small>See Greek: </small>**<big>[[G0994|βοάω]]</big>** · **<big>[[G0995|βοή]]</big>** · **<big>[[G5456|φωνή]]</big>**

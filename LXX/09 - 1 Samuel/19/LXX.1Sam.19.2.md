@@ -7,37 +7,37 @@ But Jonathan Saul’s son delighted much in David: and Jonathan told David, sayi
 so he warned David, saying, “My father Saul intends to kill you. Be on your guard in the morning; find a secret place and hide there.<small><sub>**MT:**</sub></small>
 [[1Sam.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.1|<< 1 Samuel 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.3|1 Samuel 19:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| took to | <big><span class="asgreek">ηρείτο</span></big> <sup><small><small>[[G0138]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan reported | <big><span class="asgreek">απήγγειλεν</span></big> <sup><small><small>[[G0518]]</small></small></sup> <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to put you to death; | <big><span class="asgreek">θανατώσαί</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| be on guard | <big><span class="asgreek">φύλαξαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hide | <big><span class="asgreek">κρύβηθι</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stay | <big><span class="asgreek">κάθισον</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| in secret! | <big><span class="asgreek">κρυφή</span></big> <sup><small><small>[[G2931]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| took to | **<big>[[G0138\|ηρείτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonathan reported | **<big>[[G0518\|απήγγειλεν]]</big>** **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| seeks | **<big>[[G2212\|ζητεί]]</big>** |
+| to put you to death; | **<big>[[G2289\|θανατώσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| be on guard | **<big>[[G5442\|φύλαξαι]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| morning, | **<big>[[G4404\|πρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hide | **<big>[[G2928\|κρύβηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stay | **<big>[[G2523\|κάθισον]]</big>** |
+| in secret! | **<big>[[G2931\|κρυφή]]</big>** |
 [[1Sam.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.1|<< 1 Samuel 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.3|1 Samuel 19:3 >>]]</td></tr></table>
 
 

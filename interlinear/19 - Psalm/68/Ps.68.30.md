@@ -6,22 +6,22 @@ Rebuke the beast in the reeds, the herd of bulls among the calves of the nations
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.29|<< Psalms 68:29]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.31|Psalms 68:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| rebuke  | <span class="ashebrew"><big>גְּעַ֨ר </big></span><small><small><sup>[[H1605]]</sup></small></small> &#8207;| ge.'Ar <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] animal[s] of  | <span class="ashebrew"><big>חַיַּ֪ת </big></span><small><small><sup>[[H2416C]]</sup></small></small> &#8207;| chai.Yat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] reed[s]  | <span class="ashebrew"><big>קָנֶ֡ה </big></span><small><small><sup>[[H7070H]]</sup></small></small> &#8207;| ka.Neh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a herd of  | <span class="ashebrew"><big>עֲדַ֤ת </big></span><small><small><sup>[[H5712]]</sup></small></small> &#8207;| 'a.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty [bulls]  | <span class="ashebrew"><big>אַבִּירִ֨ים </big></span><small><small><sup>[[H0047G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.bi.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with calves of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶגְלֵ֬י </big></span><small><small><sup>[[H5695]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'eg.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֗ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trampling  | <span class="ashebrew"><big>מִתְרַפֵּ֥ס </big></span><small><small><sup>[[H7511]]</sup></small></small> &#8207;| mit.ra.Pes <small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on pieces of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רַצֵּי </big></span><small><small><sup>[[H7518]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ra.tzei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כָ֑סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Kha.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has scattered  | <span class="ashebrew"><big>בִּזַּ֥ר </big></span><small><small><sup>[[H0967]]</sup></small></small> &#8207;| bi.Zar <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַ֝מִּ֗ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] wars  | <span class="ashebrew"><big>קְרָב֥וֹת </big></span><small><small><sup>[[H7128]]</sup></small></small> &#8207;| ke.ra.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they delight in  | <span class="ashebrew"><big>יֶחְפָּֽצוּ </big></span><small><small><sup>[[H2654A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yech.Pa.tzu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rebuke  |**<big>&#8207;[[H1605\|גְּעַ֨ר]]&#8207; </big>**| ge.'Ar<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] animal[s] of  |**<big>&#8207;[[H2416C\|חַיַּ֪ת]]&#8207; </big>**| chai.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] reed[s]  |**<big>&#8207;[[H7070H\|קָנֶ֡ה]]&#8207; </big>**| ka.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a herd of  |**<big>&#8207;[[H5712\|עֲדַ֤ת]]&#8207; </big>**| 'a.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [bulls]  |**<big>&#8207;[[H0047G\|אַבִּירִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with calves of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5695\|עֶגְלֵ֬י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'eg.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֗ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trampling  |**<big>&#8207;[[H7511\|מִתְרַפֵּ֥ס]]&#8207; </big>**| mit.ra.Pes<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on pieces of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7518\|רַצֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ra.tzei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כָ֑סֶף]]&#8207; </big>**| Kha.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has scattered  |**<big>&#8207;[[H0967\|בִּזַּ֥ר]]&#8207; </big>**| bi.Zar<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַ֝מִּ֗ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] wars  |**<big>&#8207;[[H7128\|קְרָב֥וֹת]]&#8207; </big>**| ke.ra.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they delight in  |**<big>&#8207;[[H2654A\|יֶחְפָּֽצוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yech.Pa.tzu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.29|<< Psalms 68:29]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.31|Psalms 68:31 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוֹר‎</span></big> **ʻôwr** <small>*(ore)*</small> ==**skin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּר‎</span><sup><small>[[H5783]]</small></sup></small>
+**<big><span class="ashebrew">‎עוֹר‎</span></big>** **ʻôwr** <small>*(ore)*</small> ==**skin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5783|‎עוּר‎]]</big>**</small>
 
 $\quad$ hide, leather, skin.
 - ***skin*** (as naked)

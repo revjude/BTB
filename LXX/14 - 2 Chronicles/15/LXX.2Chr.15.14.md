@@ -7,24 +7,24 @@ And they sware unto the LORD with a loud voice, and with shouting, and with trum
 They took an oath to the LORD with a loud voice, with shouting, trumpets, and rams’ horns.<small><sub>**MT:**</sub></small>
 [[2Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.13|<< 2 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.15|2 Chronicles 15:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they swore by an oath | <big><span class="asgreek">ώμοσαν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| shouting, | <big><span class="asgreek">αλαλαγμώ</span></big> <sup><small><small>[[G6214]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trumpets, | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| horns. | <big><span class="asgreek">κερατίναις</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they swore by an oath | **<big>[[G3660\|ώμοσαν]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| shouting, | **<big>[[G6214\|αλαλαγμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| trumpets, | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| horns. | **<big>[[G7998\|κερατίναις]]</big>** |
 [[2Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.13|<< 2 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.15|2 Chronicles 15:15 >>]]</td></tr></table>
 
 

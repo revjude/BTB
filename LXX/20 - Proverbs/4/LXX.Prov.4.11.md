@@ -7,17 +7,17 @@ I have taught thee in the way of wisdom; I have led thee in right paths.
 I will guide you in the way of wisdom; I will lead you on straight paths.<small><sub>**MT:**</sub></small>
 [[Prov.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.10|<< Proverbs 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.12|Proverbs 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of wisdom | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| I teach | <big><span class="asgreek">διδάσκω</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on board | <big><span class="asgreek">εμβιβάζω</span></big> <sup><small><small>[[G1688]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tracks | <big><span class="asgreek">τροχιαίς</span></big> <sup><small><small>[[G5163]]</small></small></sup> |
-| straight | <big><span class="asgreek">ορθαίς</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
+| For \[the\] ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of wisdom | **<big>[[G4678\|σοφίας]]</big>** |
+| I teach | **<big>[[G1321\|διδάσκω]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| on board | **<big>[[G1688\|εμβιβάζω]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| tracks | **<big>[[G5163\|τροχιαίς]]</big>** |
+| straight | **<big>[[G3717\|ορθαίς]]</big>** |
 [[Prov.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.10|<< Proverbs 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.12|Proverbs 4:12 >>]]</td></tr></table>
 
 

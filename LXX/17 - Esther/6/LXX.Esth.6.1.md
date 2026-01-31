@@ -10,29 +10,29 @@ On that night could not the king sleep, and he commanded to bring the book of re
 That night sleep escaped the king; so he ordered the Book of Records, the Chronicles, to be brought in and read to him.<small><sub>**MT:**</sub></small>
 [[Esth.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.14|<< Esther 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.2|Esther 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| removed | <big><span class="asgreek">απέστησε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sleep | <big><span class="asgreek">ύπνον</span></big> <sup><small><small>[[G5258]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night; | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he told | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant | <big><span class="asgreek">διακόνω</span></big> <sup><small><small>[[G1249]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to carry in | <big><span class="asgreek">εισφέρειν</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| letters | <big><span class="asgreek">γράμματα</span></big> <sup><small><small>[[G1121]]</small></small></sup> |
-| \[the\] memorandum | <big><span class="asgreek">μνημόσυνα</span></big> <sup><small><small>[[G8334]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to read | <big><span class="asgreek">αναγινώσκειν</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| removed | **<big>[[G0868\|απέστησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sleep | **<big>[[G5258\|ύπνον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that night; | **<big>[[G3571\|νύκτα]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he told | **<big>[[G2036\|είπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his servant | **<big>[[G1249\|διακόνω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to carry in | **<big>[[G1533\|εισφέρειν]]</big>** |
+| letters | **<big>[[G1121\|γράμματα]]</big>** |
+| \[the\] memorandum | **<big>[[G8334\|μνημόσυνα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| to read | **<big>[[G0314\|αναγινώσκειν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Esth.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.14|<< Esther 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.2|Esther 6:2 >>]]</td></tr></table>
 
 

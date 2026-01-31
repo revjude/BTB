@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֹטֵר‎</span></big> **chôṭêr** <small>*(kho'-ter)*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֹטֵר‎</span></big>** **chôṭêr** <small>*(kho'-ter)*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root of uncertain signification</small>
 
 $\quad$ rod.
@@ -6,4 +6,4 @@ $\quad$ rod.
 
 **1)** branch, twig, rod
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ῥάβδος</span><sup><small>[[G4464]]</small></sup>
+<small>See Greek: </small>**<big>[[G4464|ῥάβδος]]</big>**

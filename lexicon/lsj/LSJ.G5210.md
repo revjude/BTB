@@ -1,4 +1,4 @@
-spelling of: <small>[[G4771]]</small> 
+spelling of: <small>**<big>[[G4771|σύ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὑμεῖς==</span></b> [<span class='asgreek'>ῠ</span>], 

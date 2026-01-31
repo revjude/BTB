@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Sotai</span> was the ancestor of a family of Solomon's servants who were among the exiles that returned to Jerusalem from Babylon.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.55|Ezr.2.55]]; 
-- only referred to as Sotai<[[H5479]]> \(<span class='tipnrLangHebrew'>סו</span>ֹ<span class='tipnrLangHebrew'>ט</span>ַ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Sotai **<big>[[H5479|סוֹטַי]]</big>**.
 
 Sotai is mentioned in [[Ezra.2.55|Ezra 2:55]] and [[Neh.7.57|Nehemiah 7:57]] as the ancestor of a family of Solomon's servants who were among the exiles that returned to Jerusalem from Babylon. Solomon's servants were a group of people who were assigned to work for King Solomon and his descendants, possibly as craftsmen, laborers, or officials. 
 
@@ -14,5 +14,5 @@ The mention of Sotai and his descendants in the lists of returning exiles highli
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sotai | [<span class='tipnrLangHebrew'>סו</span>ֹ<span class='tipnrLangHebrew'>ט</span>ַ<span class='tipnrLangHebrew'>י</span>](H5479) <small>*Hebrew*</small> | 2x | [[Ezr.2.55] & [Neh.7.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sotai\*\|reference=Ezr.2.55;Neh.7.57) |
-All Strong's for **Sotai**: \[[[H5479]]\]
+| Sotai | [<span class='tipnrLangHebrew'>סו</span>ֹ<span class='tipnrLangHebrew'>ט</span>ַ<span class='tipnrLangHebrew'>י</span>](H5479) | 2x | [[Ezr.2.55] & [Neh.7.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sotai\*\|reference=Ezr.2.55;Neh.7.57) |
+All entries for **Sotai**:  **<big>[[H5479|סוֹטַי]]</big>**

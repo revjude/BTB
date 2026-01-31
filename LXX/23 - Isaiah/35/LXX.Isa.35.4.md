@@ -11,28 +11,28 @@ Say to those with anxious hearts: “Be strong, do not fear! Behold, your God wi
 > $\quad$ referenced by: [[John.12.15|John 12:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take comfort! | <big><span class="asgreek">παρακαλέσατε</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| O | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| faint-hearted | <big><span class="asgreek">ολιγόψυχοι</span></big> <sup><small><small>[[G3642]]</small></small></sup> |
-| in | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mind. | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| Be strong! | <big><span class="asgreek">ισχύσατε</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| recompenses | <big><span class="asgreek">ανταποδίδωσι</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will recompense. | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]][[G1473]]</small></small></sup> |
-| He himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come, | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall deliver | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take comfort! | **<big>[[G3870\|παρακαλέσατε]]</big>** |
+| O | **<big>[[G3588\|οι]]</big>** |
+| faint-hearted | **<big>[[G3642\|ολιγόψυχοι]]</big>** |
+| in | **<big>[[G3588\|τη]]</big>** |
+| mind. | **<big>[[G1271\|διανοία]]</big>** |
+| Be strong! | **<big>[[G2480\|ισχύσατε]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φοβείσθε]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| recompenses | **<big>[[G0467\|ανταποδίδωσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will recompense. | **<big>[[G0467\|ανταποδώσει]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| He himself | **<big>[[G1473\|αυτός]]</big>** |
+| shall come, | **<big>[[G2240\|ήξει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall deliver | **<big>[[G4982\|σώσει]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
 [[Isa.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.3|<< Isaiah 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.5|Isaiah 35:5 >>]]</td></tr></table>
 
 

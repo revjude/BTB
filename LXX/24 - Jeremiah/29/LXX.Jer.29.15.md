@@ -7,16 +7,16 @@ Because ye have said, The LORD hath raised us up prophets in Babylon;
 Because you may say, “The LORD has raised up for us prophets in Babylon,”<small><sub>**MT:**</sub></small>
 [[Jer.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.14|<< Jeremiah 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.16|Jeremiah 29:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνι</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you said, | **<big>[[G2036\|είπατε]]</big>** |
+| placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνι]]</big>** |
 [[Jer.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.14|<< Jeremiah 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.16|Jeremiah 29:16 >>]]</td></tr></table>
 
 

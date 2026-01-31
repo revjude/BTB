@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָבַד‎</span></big> **râbad** <small>*(raw-bad')*</small> ==**to spread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָבַד‎</span></big>** **râbad** <small>*(raw-bad')*</small> ==**to spread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deck.

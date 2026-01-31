@@ -7,19 +7,19 @@ The hills were covered with the shadow of it, and the boughs thereof [were like]
 The mountains were covered by its shade, and the mighty cedars with its branches.<small><sub>**MT:**</sub></small>
 [[Ps.80.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.9|<< Psalm 80:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.11|Psalm 80:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Her shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her tendrils | <big><span class="asgreek">αναδενδράδες</span></big> <sup><small><small>[[G6278]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[covered\] the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| covered | **<big>[[G2572\|εκάλυψεν]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Her shadow | **<big>[[G4639\|σκιά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her tendrils | **<big>[[G6278\|αναδενδράδες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[covered\] the | **<big>[[G3588\|τας]]</big>** |
+| cedars | **<big>[[G2748\|κέδρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
 [[Ps.80.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.9|<< Psalm 80:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.11|Psalm 80:11 >>]]</td></tr></table>
 
 

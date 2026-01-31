@@ -7,38 +7,38 @@ So I took the chief of your tribes, wise men, and known, and made them heads ove
 So I took the leaders of your tribes, wise and respected men, and appointed them as leaders over you—as commanders of thousands, of hundreds, of fifties, and of tens, and as officers for your tribes.<small><sub>**MT:**</sub></small>
 [[Deut.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.14|<< Deuteronomy 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.16|Deuteronomy 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having knowledge, | <big><span class="asgreek">επιστήμονας</span></big> <sup><small><small>[[G1990]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| discerning | <big><span class="asgreek">συνετούς</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tribes. | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I ordained | <big><span class="asgreek">κατέστησα</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take the lead | <big><span class="asgreek">ηγείσθαι</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you -- | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| commanders of thousands, | <big><span class="asgreek">χιλιάρχους</span></big> <sup><small><small>[[G5506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of hundreds, | <big><span class="asgreek">εκατοντάρχους</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of fifties, | <big><span class="asgreek">πεντηκοντάρχους</span></big> <sup><small><small>[[G8705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commanders of tens, | <big><span class="asgreek">δεκάρχους</span></big> <sup><small><small>[[G6797]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judicial recorders | <big><span class="asgreek">γραμματοεισαγωγείς</span></big> <sup><small><small>[[G6766]]</small></small></sup> |
-| \[for\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judges. | <big><span class="asgreek">κριταίς</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I took | **<big>[[G2983\|έλαβον]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| wise | **<big>[[G4680\|σοφούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| having knowledge, | **<big>[[G1990\|επιστήμονας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| discerning | **<big>[[G4908\|συνετούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your tribes. | **<big>[[G5443\|φυλάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I ordained | **<big>[[G2525\|κατέστησα]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| to take the lead | **<big>[[G2233\|ηγείσθαι]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| you -- | **<big>[[G1473\|υμών]]</big>** |
+| commanders of thousands, | **<big>[[G5506\|χιλιάρχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of hundreds, | **<big>[[G1543\|εκατοντάρχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of fifties, | **<big>[[G8705\|πεντηκοντάρχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commanders of tens, | **<big>[[G6797\|δεκάρχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judicial recorders | **<big>[[G6766\|γραμματοεισαγωγείς]]</big>** |
+| \[for\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your judges. | **<big>[[G2923\|κριταίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Deut.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.14|<< Deuteronomy 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.16|Deuteronomy 1:16 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לַחְמָס‎</span></big> **Lachmâç** <small>*(lakh-maws')*</small> ==**Lahmam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably by erroneous transcription for <span class="ashebrew">לַחְמָם</span> **Lachmâm** <small>*(lakh-mawm')*</small>; from <span class="ashebrew">‎לֶחֶם‎</span><sup><small>[[H3899]]</small></sup>; food-like</small>
+**<big><span class="ashebrew">‎לַחְמָס‎</span></big>** **Lachmâç** <small>*(lakh-maws')*</small> ==**Lahmam**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably by erroneous transcription for **<big><span class="ashebrew">לַחְמָם</span></big>** **Lachmâm** <small>*(lakh-mawm')*</small>; from **<big>[[H3899|‎לֶחֶם‎]]</big>**; food-like</small>
 
 $\quad$ Lahmam.
 - § Lahmam = *"provisions"*

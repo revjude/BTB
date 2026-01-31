@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קֹ֫רַח‎</span> <small>***(qo.rach)***</small> ==**Korah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah  living at the time of Divided Monarchy, only mentioned at [[1Chr.2.43|1Ch.2.43]]
--  son of: Hebron ([[H2275I]])
--  brother of: Tappuah ([[H8599A]]), Rekem ([[H7552I]]) and Shema ([[H8087]])
+-  son of: Hebron (**<big>[[H2275I|חֶבְרוֹן]]</big>**)
+-  brother of: Tappuah (**<big>[[H8599A|תַּפּוּחַ]]</big>**), Rekem (**<big>[[H7552I|רֶקֶם]]</big>**) and Shema (**<big>[[H8087|שֶׁמַע]]</big>**)

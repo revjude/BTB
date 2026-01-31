@@ -7,19 +7,19 @@ And these [things] hast thou hid in thine heart: I know that this [is] with thee
 Yet You concealed these things in Your heart, and I know that this was in Your mind:<small><sub>**MT:**</sub></small>
 [[Job.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.12|<< Job 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.14|Job 10:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Having these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| you are able \[to do\] | <big><span class="asgreek">δύνασαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| is impossible | <big><span class="asgreek">αδυνατεί</span></big> <sup><small><small>[[G0101]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not one \[thing\] | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| Having these \[things\] | **<big>[[G3778\|ταύτα]]</big>** **<big>[[G2192\|έχων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| yourself, | **<big>[[G4572\|σεαυτώ]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάντα]]</big>** |
+| you are able \[to do\] | **<big>[[G1410\|δύνασαι]]</big>** |
+| is impossible | **<big>[[G0101\|αδυνατεί]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| not one \[thing\] | **<big>[[G3762\|ουδέν]]</big>** |
 [[Job.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.12|<< Job 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.14|Job 10:14 >>]]</td></tr></table>
 
 

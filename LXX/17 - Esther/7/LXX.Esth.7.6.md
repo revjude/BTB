@@ -7,22 +7,22 @@ And Esther said, The adversary and enemy [is] this wicked Haman. Then Haman was 
 Esther replied, “The adversary and enemy is this wicked man—Haman!” And Haman stood in terror before the king and queen.<small><sub>**MT:**</sub></small>
 [[Esth.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.5|<< Esther 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.7|Esther 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And Esther said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| A man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| an enemy, | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wicked \[man\]. | <big><span class="asgreek">πονηρός</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen. | <big><span class="asgreek">βασιλίσσης</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
+| And Esther said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
+| A man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| an enemy, | **<big>[[G2190\|εχθρός]]</big>** |
+| Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this wicked \[man\]. | **<big>[[G4190\|πονηρός]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| And Haman | **<big>[[H2001\|Αμάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| queen. | **<big>[[G0938\|βασιλίσσης]]</big>** |
 [[Esth.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.5|<< Esther 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.7|Esther 7:7 >>]]</td></tr></table>
 
 

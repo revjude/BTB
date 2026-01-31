@@ -7,38 +7,38 @@ And ye shall eat neither bread, nor parched corn, nor green ears, until the self
 You must not eat any bread or roasted or new grain until the very day you have brought this offering to your God. This is to be a permanent statute for the generations to come, wherever you live.<small><sub>**MT:**</sub></small>
 [[Lev.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.13|<< Leviticus 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.15|Leviticus 23:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| parched | <big><span class="asgreek">πεφρυγμένα</span></big> <sup><small><small>[[G9670]]</small></small></sup> |
-| green wheat | <big><span class="asgreek">χίδρα</span></big> <sup><small><small>[[G9728]]</small></small></sup> |
-| new | <big><span class="asgreek">νέα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-|  | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should offer | <big><span class="asgreek">προσενέγκητε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God -- | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμιμον</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικία</span></big> <sup><small><small>[[G2733]]</small></small></sup> |
-| of yours. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| parched | **<big>[[G9670\|πεφρυγμένα]]</big>** |
+| green wheat | **<big>[[G9728\|χίδρα]]</big>** |
+| new | **<big>[[G3501\|νέα]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+|  | **<big>[[G1519\|εις]]</big>** |
+| same | **<big>[[G1473\|αυτήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| you should offer | **<big>[[G4374\|προσενέγκητε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your God -- | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| law | **<big>[[G8403\|νόμιμον]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your generations | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| dwelling | **<big>[[G2733\|κατοικία]]</big>** |
+| of yours. | **<big>[[G1473\|υμών]]</big>** |
 [[Lev.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.13|<< Leviticus 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.15|Leviticus 23:15 >>]]</td></tr></table>
 
 

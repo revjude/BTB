@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Kish</span>, a Levite from the clan of Merari, participated in the purification of the temple during the reign of King Hezekiah.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
-- only referred to as Kish<[[H7027I]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\); 
-- a son of Abdi<[[H5660H]]>.
+- only referred to as Kish **<big>[[H7027|קִישׁ]]</big>**; 
+- a son of Abdi **<big>[[H5660|עַבְדִּי]]</big>**.
 
 Kish is mentioned in [[2Chr.29.12|2 Chronicles 29:12]] as one of the Levites who participated in the purification of the temple during the reign of King Hezekiah. He is specifically identified as a descendant of Merari, one of the three main Levitical clans. 
 
@@ -17,7 +17,7 @@ The mention of Kish in this context highlights the importance of the Levites' ro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027I) <small>*Hebrew*</small> | 1x | [2Ch.29.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=2Ch.29.12) |
-All Strong's for **Kish**: \[[[H7027I]]\]
+| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027I) | 1x | [2Ch.29.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=2Ch.29.12) |
+All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>**
 #### Related Profiles:
 - **[Abdi](H5660H)** (father)

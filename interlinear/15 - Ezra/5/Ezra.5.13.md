@@ -6,23 +6,23 @@ In the first year of his reign, however, Cyrus king of Babylon issued a decree t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| nevertheless  | <span class="asaramaic"><big>בְּרַם֙ </big></span><small><small><sup>[[H1297]]</sup></small></small> &#8207;| be.Ram <small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in year  | <span class="asaramaic"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="asaramaic"><big>שְׁנַ֣ת </big></span><small><small><sup>[[H8140]]</sup></small></small> &#8207;| bi <small><sup>[[AR]]</sup></small> sh.Nat <small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="asaramaic"><big>חֲדָ֔ה </big></span><small><small><sup>[[H2298]]</sup></small></small> &#8207;| cha.Dah <small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Cyrus  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כ֥וֹרֶשׁ </big></span><small><small><sup>[[H3567]]</sup></small></small> &#8207;| le. <small><sup>[[AR]]</sup></small> Kho.resh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king the  | <span class="asaramaic"><big>מַלְכָּ֖ </big></span><small><small><sup>[[H4430]]</sup></small></small> <span class="asaramaic"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| mal.Ka <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of  | <span class="asaramaic"><big>דִּ֣י </big></span><small><small><sup>[[H1768]]</sup></small></small> &#8207;| di <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="asaramaic"><big>בָבֶ֑ל </big></span><small><small><sup>[[H0895]]</sup></small></small> &#8207;| va.Vel <small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cyrus  | <span class="ashebrew"><big>כּ֤וֹרֶשׁ </big></span><small><small><sup>[[H3567]]</sup></small></small> &#8207;| Ko.resh <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king the  | <span class="asaramaic"><big>מַלְכָּ </big></span><small><small><sup>[[H4430]]</sup></small></small> <span class="asaramaic"><big>א֙ </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| mal.Ka <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he made  | <span class="asaramaic"><big>שָׂ֣ם </big></span><small><small><sup>[[H7761G]]</sup></small></small> &#8207;| sam <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a decree  | <span class="asaramaic"><big>טְעֵ֔ם </big></span><small><small><sup>[[H2942]]</sup></small></small> &#8207;| te.'Em <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="asaramaic"><big>בֵּית </big></span><small><small><sup>[[H1005]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| beit- <small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>אֱלָהָ֥ </big></span><small><small><sup>[[H0426]]</sup></small></small> <span class="ashebrew"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| 'e.la.Ha <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="asaramaic"><big>דְנָ֖ה </big></span><small><small><sup>[[H1836]]</sup></small></small> &#8207;| de.Nah <small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to build  | <span class="asaramaic"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="asaramaic"><big>בְּנֵֽא </big></span><small><small><sup>[[H1124]]</sup></small></small> <span class="asaramaic"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| li. <small><sup>[[AR]]</sup></small> be.Ne' <small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nevertheless  |**<big>&#8207;[[H1297\|בְּרַם֙]]&#8207; </big>**| be.Ram<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8140\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[AR]]</sup></small> sh.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H2298\|חֲדָ֔ה]]&#8207; </big>**| cha.Dah<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Cyrus  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3567\|כ֥וֹרֶשׁ]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> Kho.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  |**<big>&#8207;[[H4430\|מַלְכָּ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0895\|בָבֶ֑ל]]&#8207; </big>**| va.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cyrus  |**<big>&#8207;[[H3567\|כּ֤וֹרֶשׁ]]&#8207; </big>**| Ko.resh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  |**<big>&#8207;[[H4430\|מַלְכָּ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H7761G\|שָׂ֣ם]]&#8207; </big>**| sam<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a decree  |**<big>&#8207;[[H2942\|טְעֵ֔ם]]&#8207; </big>**| te.'Em<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1005\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H0426\|אֱלָהָ֥]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'e.la.Ha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H1836\|דְנָ֖ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to build  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1124\|בְּנֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li.<small><sup>[[AR]]</sup></small> be.Ne'<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
 

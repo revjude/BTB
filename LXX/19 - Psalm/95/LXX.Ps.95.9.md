@@ -11,19 +11,19 @@ where your fathers tested and tried Me, though they had seen My work.<small><su
 > $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| tested | <big><span class="asgreek">επείρασάν</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they tried | <big><span class="asgreek">εδοκίμασάν</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my works. | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| tested | **<big>[[G3985\|επείρασάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| they tried | **<big>[[G1381\|εδοκίμασάν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they beheld | **<big>[[G1492\|είδον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my works. | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.95.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.8|<< Psalm 95:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.10|Psalm 95:10 >>]]</td></tr></table>
 
 

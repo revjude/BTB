@@ -7,16 +7,16 @@ So shall Bethel do unto you because of your great wickedness: in a morning shall
 Thus it will be done to you, O Bethel, because of your great wickedness. When the day dawns, the king of Israel will be utterly cut off.<small><sub>**MT:**</sub></small>
 [[Hos.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.14|<< Hosea 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.1|Hosea 11:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in front of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| your evils. | <big><span class="asgreek">κακιών</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| I will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in front of | **<big>[[G0575\|από]]</big>** **<big>[[G4383\|προσώπου]]</big>** |
+| your evils. | **<big>[[G2549\|κακιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Hos.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.14|<< Hosea 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.1|Hosea 11:1 >>]]</td></tr></table>
 
 

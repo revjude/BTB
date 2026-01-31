@@ -6,15 +6,15 @@ Many seek the ruler’s favor, but a man receives justice from the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.25|<< Proverbs 29:25]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.27|Proverbs 29:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| many [people]  | <span class="ashebrew"><big>רַ֭בִּים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| Ra.bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] seeking  | <span class="ashebrew"><big>מְבַקְשִׁ֣ים </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| me.vak.Shim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵי </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ruler  | <span class="ashebrew"><big>מוֹשֵׁ֑ל </big></span><small><small><sup>[[H4910]]</sup></small></small> &#8207;| mo.Shel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] from Yahweh  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| vu. <small><sup>[[HC]]</sup></small> me. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice of  | <span class="ashebrew"><big>מִשְׁפַּט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mish.pat- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִֽישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many [people]  |**<big>&#8207;[[H7227A\|רַ֭בִּים]]&#8207; </big>**| Ra.bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] seeking  |**<big>&#8207;[[H1245\|מְבַקְשִׁ֣ים]]&#8207; </big>**| me.vak.Shim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ruler  |**<big>&#8207;[[H4910\|מוֹשֵׁ֑ל]]&#8207; </big>**| mo.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] from Yahweh  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| vu.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice of  |**<big>&#8207;[[H4941H\|מִשְׁפַּט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mish.pat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.25|<< Proverbs 29:25]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.27|Proverbs 29:27 >>]]</td></tr></table>
 
 

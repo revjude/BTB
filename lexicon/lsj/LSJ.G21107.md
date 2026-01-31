@@ -1,4 +1,4 @@
-spelling of: <small>[[G4653]]</small> 
+spelling of: <small>**<big>[[G4653|σκοτία]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σκοτεία==</span>-<span class='asgreek'>εία</span></b>, <span class='asgreek'>ἡ</span>, 

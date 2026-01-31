@@ -7,36 +7,36 @@ And they said, The God of the Hebrews hath met with us: let us go, we pray thee,
 “The God of the Hebrews has met with us,” they answered. “Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.”<small><sub>**MT:**</sub></small>
 [[Exod.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.2|<< Exodus 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.4|Exodus 5:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they say | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrews | <big><span class="asgreek">Εβραίων</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| called on | <big><span class="asgreek">προσκέκληται</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We will go | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| \[on\] a journey | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| we may sacrifice | <big><span class="asgreek">θύσωμεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| might meet with | <big><span class="asgreek">συναντήση</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| murder | <big><span class="asgreek">φόνος</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they say | **<big>[[G3004\|λέγουσιν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Hebrews | **<big>[[G1444\|Εβραίων]]</big>** |
+| called on | **<big>[[G4341\|προσκέκληται]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
+| We will go | **<big>[[G4198\|πορευσόμεθα]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| \[on\] a journey | **<big>[[G3598\|οδόν]]</big>** |
+| of three | **<big>[[G5140\|τριών]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness, | **<big>[[G2048\|έρημον]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+| we may sacrifice | **<big>[[G2380\|θύσωμεν]]</big>** |
+| to \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| might meet with | **<big>[[G4876\|συναντήση]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| death | **<big>[[G2288\|θάνατος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| murder | **<big>[[G5408\|φόνος]]</big>** |
 [[Exod.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.2|<< Exodus 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.4|Exodus 5:4 >>]]</td></tr></table>
 
 

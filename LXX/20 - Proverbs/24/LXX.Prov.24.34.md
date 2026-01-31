@@ -7,21 +7,21 @@ So shall thy poverty come [as] one that travelleth; and thy want as an armed man
 and poverty will come upon you like a robber, and need like a bandit.<small><sub>**MT:**</sub></small>
 [[Prov.24.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.33|<< Proverbs 24:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.1|Proverbs 25:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should do this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">ποιής</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| before | <big><span class="asgreek">προπορευομένη</span></big> <sup><small><small>[[G4313]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poverty | <big><span class="asgreek">πενία</span></big> <sup><small><small>[[G8693]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lack | <big><span class="asgreek">ένδεια</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| runner. | <big><span class="asgreek">δρομεύς</span></big> <sup><small><small>[[G6969]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should do this, | **<big>[[G3778\|τούτο]]</big>** **<big>[[G4160\|ποιής]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| before | **<big>[[G4313\|προπορευομένη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| poverty | **<big>[[G8693\|πενία]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| lack | **<big>[[G7218\|ένδεια]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a good | **<big>[[G0018\|αγαθός]]</big>** |
+| runner. | **<big>[[G6969\|δρομεύς]]</big>** |
 [[Prov.24.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.33|<< Proverbs 24:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.1|Proverbs 25:1 >>]]</td></tr></table>
 
 

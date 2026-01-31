@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-anath</span> was a Canaanite town allotted to the tribe of Naphtali, but the Naphtalites did not drive out its inhabitants. \([[Josh.19.38|Joshua 19:38]]; Judges 1:33\)
 - A location first mentioned at [[Josh.19.38|Jos.19.38]]; 
-- only referred to as Beth-anath<[[H1043]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Beth-anath **<big>[[H1043|בֵּית עֲנָת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.146864,35.427134&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Beth-anath was a Canaanite town mentioned in [[Josh.19.38|Joshua 19:38]] as part
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-anath (NIV= Beth Anath) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H1043) <small>*Hebrew*</small> | 3x | [[Jos.19.38] ... [Jdg.1.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.38;Jdg.1.33;Jdg.1.33) |
-All Strong's for **Beth-anath**: \[[[H1043]]\]
+| Beth-anath (NIV= Beth Anath) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>](H1043) | 3x | [[Jos.19.38] ... [Jdg.1.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.38;Jdg.1.33;Jdg.1.33) |
+All entries for **Beth-anath**:  **<big>[[H1043|בֵּית עֲנָת]]</big>**

@@ -7,35 +7,35 @@ Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zid
 Asher failed to drive out the inhabitants of Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob.<small><sub>**MT:**</sub></small>
 [[Judg.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.30|<< Judges 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.32|Judges 1:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asher | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remove | <big><span class="asgreek">εξήρε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Accho, | <big><span class="asgreek">Ακχώ</span></big> <sup><small><small>[[H5910]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Sidon, | <big><span class="asgreek">Σιδώνα</span></big> <sup><small><small>[[G4605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Ahlab, | <big><span class="asgreek">Αχλάβ</span></big> <sup><small><small>[[H0303]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Achzib, | <big><span class="asgreek">Αχαζίβ</span></big> <sup><small><small>[[H0392]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Helbah, | <big><span class="asgreek">Ελβά</span></big> <sup><small><small>[[H2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Aphik, | <big><span class="asgreek">Αφέκ</span></big> <sup><small><small>[[H0647]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rehob. | <big><span class="asgreek">Ροώβ</span></big> <sup><small><small>[[H7340]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Asher | **<big>[[G0768\|Ασήρ]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| remove | **<big>[[G1808\|εξήρε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Accho, | **<big>[[H5910\|Ακχώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Sidon, | **<big>[[G4605\|Σιδώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Ahlab, | **<big>[[H0303\|Αχλάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Achzib, | **<big>[[H0392\|Αχαζίβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Helbah, | **<big>[[H2462\|Ελβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Aphik, | **<big>[[H0647\|Αφέκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Rehob. | **<big>[[H7340\|Ροώβ]]</big>** |
 [[Judg.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.30|<< Judges 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.32|Judges 1:32 >>]]</td></tr></table>
 
 

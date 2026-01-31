@@ -7,22 +7,22 @@ And the people said unto me, Wilt thou not tell us what these [things are] to us
 Then the people asked me, “Won’t you tell us what these things you are doing mean to us?”<small><sub>**MT:**</sub></small>
 [[Ezek.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.18|<< Ezekiel 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.20|Ezekiel 24:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Will you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">απαγγέλεις</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| these \[things\] are | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do? | <big><span class="asgreek">ποιείς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| Will you not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0518\|απαγγέλεις]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| these \[things\] are | **<big>[[G1510\|εστι]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| do? | **<big>[[G4160\|ποιείς]]</big>** |
 [[Ezek.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.18|<< Ezekiel 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.20|Ezekiel 24:20 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ Behold, [here is] my daughter a maiden, and his concubine; them I will bring out
 Look, let me bring out my virgin daughter and the man’s concubine, and you can use them and do with them as you wish. But do not do such a vile thing to this man.”<small><sub>**MT:**</sub></small>
 [[Judg.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.23|<< Judges 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.25|Judges 19:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| my daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virgin, | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his concubine; | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I will bring | <big><span class="asgreek">εξάξω</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you humble | <big><span class="asgreek">ταπεινώσατε</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[thing\] | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to this man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you should not do | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this folly. | <big><span class="asgreek">αφροσύνης</span></big> <sup><small><small>[[G0877]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| my daughter | **<big>[[G2364\|θυγάτηρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| virgin, | **<big>[[G3933\|παρθένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his concubine; | **<big>[[G8589\|παλλακή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and I will bring | **<big>[[G1806\|εξάξω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you humble | **<big>[[G5013\|ταπεινώσατε]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do | **<big>[[G4160\|ποιήσατε]]</big>** |
+| to them | **<big>[[G1473\|αυταίς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| good \[thing\] | **<big>[[G0018\|αγαθόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to this man | **<big>[[G0435\|ανδρί]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| you should not do | **<big>[[G3361\|μη]]</big>** **<big>[[G4160\|ποιήσητε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this folly. | **<big>[[G0877\|αφροσύνης]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
 [[Judg.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.23|<< Judges 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.25|Judges 19:25 >>]]</td></tr></table>
 
 

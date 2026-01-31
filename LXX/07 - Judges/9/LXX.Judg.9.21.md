@@ -7,24 +7,24 @@ And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Ab
 Then Jotham ran away, escaping to Beer, and he lived there for fear of his brother Abimelech.<small><sub>**MT:**</sub></small>
 [[Judg.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.20|<< Judges 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.22|Judges 9:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jotham ran away | <big><span class="asgreek">απέδρα Ιωθάμ</span></big> <sup><small><small>[[G6424]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled, | <big><span class="asgreek">έφυγε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Beer, | <big><span class="asgreek">Βηρά</span></big> <sup><small><small>[[H0876]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| away from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jotham ran away | **<big>[[G6424\|απέδρα Ιωθάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fled, | **<big>[[G5343\|έφυγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Beer, | **<big>[[H0876\|Βηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| away from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.20|<< Judges 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.22|Judges 9:22 >>]]</td></tr></table>
 
 

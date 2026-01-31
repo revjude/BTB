@@ -7,38 +7,38 @@ Then Jeremiah the prophet said unto them, I have heard [you]; behold, I will pra
 “I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers. I will not withhold a word from you.”<small><sub>**MT:**</sub></small>
 [[Jer.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.3|<< Jeremiah 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.5|Jeremiah 42:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίας</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| I heard, | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I will pray | <big><span class="asgreek">προσεύξομαι</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your words. | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall answer | <big><span class="asgreek">αποκριθήσεται</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will announce | <big><span class="asgreek">αναγγελώ</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I hide | <big><span class="asgreek">κρύψω</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a word. | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| I heard, | **<big>[[G0191\|ήκουσα]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I will pray | **<big>[[G4336\|προσεύξομαι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| our God | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your words. | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| shall answer | **<big>[[G0611\|αποκριθήσεται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| I will announce | **<big>[[G0312\|αναγγελώ]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I hide | **<big>[[G2928\|κρύψω]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| a word. | **<big>[[G4487\|ρήμα]]</big>** |
 [[Jer.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.3|<< Jeremiah 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.5|Jeremiah 42:5 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָזַב‎</span></big> **ʻâzab** <small>*(aw-zab')*</small> ==**to leave: forsake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָזַב‎</span></big>** **ʻâzab** <small>*(aw-zab')*</small> ==**to leave: forsake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ commit self, fail, forsake, fortify, help, leave (destitute, off), refuse, [idiom] surely.
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Pual) to be deserted
 **2)** to restore, repair
 $\quad$ **2a)** (Qal) to repair
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπολείπω</span><sup><small>[[G0620]]</small></sup> · <span class="asgreek">ἀφίημι</span><sup><small>[[G0863]]</small></sup> · <span class="asgreek">διαρπάζω</span><sup><small>[[G1283]]</small></sup> · <span class="asgreek">ἐγκαταλείπω</span><sup><small>[[G1459]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐπιστρέφω</span><sup><small>[[G1994]]</small></sup> · <span class="asgreek">ἐπιτρέπω</span><sup><small>[[G2010]]</small></sup> · <span class="asgreek">καταλείπω</span><sup><small>[[G2641]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup> · <span class="asgreek">συναίρω</span><sup><small>[[G4868]]</small></sup> · <span class="asgreek">συνεγείρω</span><sup><small>[[G4891]]</small></sup> · <span class="asgreek">ὑπολείπω</span><sup><small>[[G5275]]</small></sup>
+<small>See Greek: </small>**<big>[[G0620|ἀπολείπω]]</big>** · **<big>[[G0863|ἀφίημι]]</big>** · **<big>[[G1283|διαρπάζω]]</big>** · **<big>[[G1459|ἐγκαταλείπω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1994|ἐπιστρέφω]]</big>** · **<big>[[G2010|ἐπιτρέπω]]</big>** · **<big>[[G2641|καταλείπω]]</big>** · **<big>[[G3935|παρίημι]]</big>** · **<big>[[G4868|συναίρω]]</big>** · **<big>[[G4891|συνεγείρω]]</big>** · **<big>[[G5275|ὑπολείπω]]</big>**

@@ -7,34 +7,34 @@ So they two went until they came to Bethlehem. And it came to pass, when they we
 So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”<small><sub>**MT:**</sub></small>
 [[Ruth.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.18|<< Ruth 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.20|Ruth 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεραι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their arriving | <big><span class="asgreek">παραγενέσθαι</span></big> <sup><small><small>[[G3854]]</small></small></sup> <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Beth-lehem. | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Beth-lehem, | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| resounded | <big><span class="asgreek">ήχησε</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Is this | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Naomi? | <big><span class="asgreek">Νοομί</span></big> <sup><small><small>[[H5281]]</small></small></sup> |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| both | **<big>[[G0297\|αμφότεραι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their arriving | **<big>[[G3854\|παραγενέσθαι]]</big>** **<big>[[G1473\|αυτάς]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Beth-lehem. | **<big>[[G0965\|Βηθλεέμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their coming | **<big>[[G2064\|ελθείν]]</big>** **<big>[[G1473\|αυτάς]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Beth-lehem, | **<big>[[G0965\|Βηθλεέμ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| resounded | **<big>[[G2278\|ήχησε]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| concerning | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυταίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| Is this | **<big>[[G1487\|ει]]</big>** **<big>[[G3778\|αύτη]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| Naomi? | **<big>[[H5281\|Νοομί]]</big>** |
 [[Ruth.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.18|<< Ruth 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.20|Ruth 1:20 >>]]</td></tr></table>
 
 

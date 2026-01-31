@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁבוּת‎</span></big> **shᵉbûwth** <small>*(sheb-ooth')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">שְׁבִית</span> **shᵉbîyth** <small>*(sheb-eeth')*</small>; from <span class="ashebrew">‎שָׁבָה‎</span><sup><small>[[H7617]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁבוּת‎</span></big>** **shᵉbûwth** <small>*(sheb-ooth')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁבִית</span></big>** **shᵉbîyth** <small>*(sheb-eeth')*</small>; from **<big>[[H7617|‎שָׁבָה‎]]</big>**</small>
 
 $\quad$ captive(-ity).
 - ***exile***, concretely, ***prisoners***
@@ -7,4 +7,4 @@ $\quad$ captive(-ity).
 
 **1)** captivity, captives
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰχμαλωσία</span><sup><small>[[G0161]]</small></sup>
+<small>See Greek: </small>**<big>[[G0161|αἰχμαλωσία]]</big>**

@@ -7,29 +7,29 @@ And the LORD said to Samuel, Hearken unto their voice, and make them a king. And
 “Listen to their voice,” the LORD said to Samuel. “Appoint a king for them.” Then Samuel told the men of Israel, “Everyone must go back to his city.”<small><sub>**MT:**</sub></small>
 [[1Sam.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.21|<< 1 Samuel 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.1|1 Samuel 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samuel, | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Hearken | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reign | <big><span class="asgreek">βασίλευσον</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| unto them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| run | <big><span class="asgreek">αποτρέχετω</span></big> <sup><small><small>[[G6503]]</small></small></sup> |
-| each \[man\] | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his city! | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samuel, | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Hearken | **<big>[[G0191\|άκουσον]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| their voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reign | **<big>[[G0936\|βασίλευσον]]</big>** |
+| unto them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a king | **<big>[[G0935\|βασιλέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| run | **<big>[[G6503\|αποτρέχετω]]</big>** |
+| each \[man\] | **<big>[[G1538\|έκαστος]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his city! | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.21|<< 1 Samuel 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.1|1 Samuel 9:1 >>]]</td></tr></table>
 
 

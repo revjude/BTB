@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹאֵל‎</span></big> **Yôwʼêl** <small>*(yo-ale')*</small> ==**Joel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; Jehovah (is his) God</small>
+**<big><span class="ashebrew">‎יוֹאֵל‎</span></big>** **Yôwʼêl** <small>*(yo-ale')*</small> ==**Joel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; Jehovah (is his) God</small>
 
 $\quad$ Joel.
 - § Joel = *"Jehovah is God"*
@@ -20,4 +20,4 @@ $\quad$ Joel.
 **13)** a Gershonite Levite chief in the time of David
 **14)** a Gershonite Levite, son of Jehiel and a descendant of Laadan; maybe same as 13
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰωήλ</span><sup><small>[[G2493]]</small></sup>
+<small>See Greek: </small>**<big>[[G2493|Ἰωήλ]]</big>**

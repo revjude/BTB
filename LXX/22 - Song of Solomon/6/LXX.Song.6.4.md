@@ -7,19 +7,19 @@ Thou [art] beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as [an
 You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic as troops with banners.<small><sub>**MT:**</sub></small>
 [[Song.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You are fair, | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| O dear one, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| good-pleasure; | <big><span class="asgreek">ευδοκία</span></big> <sup><small><small>[[G2107]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραία</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Jerusalem; | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| a consternation | <big><span class="asgreek">θάμβος</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| ones arranged \[for battle\]. | <big><span class="asgreek">τεταγμέναι</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
+| You are fair, | **<big>[[G2570\|καλή]]</big>** **<big>[[G1510\|ει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| O dear one, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| good-pleasure; | **<big>[[G2107\|ευδοκία]]</big>** |
+| beautiful | **<big>[[G5611\|ωραία]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Jerusalem; | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| a consternation | **<big>[[G2285\|θάμβος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| ones arranged \[for battle\]. | **<big>[[G5021\|τεταγμέναι]]</big>** |
 [[Song.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 
 

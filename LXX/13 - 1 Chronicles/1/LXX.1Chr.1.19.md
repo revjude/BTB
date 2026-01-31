@@ -7,30 +7,30 @@ And unto Eber were born two sons: the name of the one [was] Peleg; because in hi
 Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.<small><sub>**MT:**</sub></small>
 [[1Chr.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.18|<< 1 Chronicles 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.20|1 Chronicles 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Eber | <big><span class="asgreek">Έβερ</span></big> <sup><small><small>[[G1443]]</small></small></sup> |
-| were procreated | <big><span class="asgreek">εγεννήθησαν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \[The\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] Peleg; | <big><span class="asgreek">Φαλέγ</span></big> <sup><small><small>[[G5317]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was portioned | <big><span class="asgreek">εμερίσθη</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Joktan. | <big><span class="asgreek">Ιεκτάν</span></big> <sup><small><small>[[H3355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Eber | **<big>[[G1443\|Έβερ]]</big>** |
+| were procreated | **<big>[[G1080\|εγεννήθησαν]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \[The\] name | **<big>[[G3686\|όνομα]]</big>** |
+| \[to\] the | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| \[was\] Peleg; | **<big>[[G5317\|Φαλέγ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was portioned | **<big>[[G3307\|εμερίσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his brother | **<big>[[G0080\|αδελφώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] Joktan. | **<big>[[H3355\|Ιεκτάν]]</big>** |
 [[1Chr.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.18|<< 1 Chronicles 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.20|1 Chronicles 1:20 >>]]</td></tr></table>
 
 

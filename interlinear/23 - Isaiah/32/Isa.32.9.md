@@ -6,17 +6,17 @@ Stand up, you complacent women; listen to me. Give ear to my word, you overconfi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.8|<< Isaiah 32:8]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.10|Isaiah 32:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O women  | <span class="ashebrew"><big>נָשִׁים֙ </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| carefree  | <span class="ashebrew"><big>שַֽׁאֲנַנּ֔וֹת </big></span><small><small><sup>[[H7600]]</sup></small></small> &#8207;| sha.'a.na.Not <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arise  | <span class="ashebrew"><big>קֹ֖מְנָה </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| Ko.me.nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hear  | <span class="ashebrew"><big>שְׁמַ֣עְנָה </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| she.Ma'.nah <small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voice my  | <span class="ashebrew"><big>קוֹלִ֑ </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ko.L <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughters  | <span class="ashebrew"><big>בָּנוֹת֙ </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| ba.nOt <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| confident  | <span class="ashebrew"><big>בֹּֽטח֔וֹת </big></span><small><small><sup>[[H0982]]</sup></small></small> &#8207;| bo.t.Chot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| give ear to  | <span class="ashebrew"><big>הַאְזֵ֖נָּה </big></span><small><small><sup>[[H0238]]</sup></small></small> &#8207;| ha'.Ze.nah <small><sup>[[HVhv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| utterance my  | <span class="ashebrew"><big>אִמְרָתִֽ </big></span><small><small><sup>[[H0565A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'im.ra.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O women  |**<big>&#8207;[[H0802G\|נָשִׁים֙]]&#8207; </big>**| na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| carefree  |**<big>&#8207;[[H7600\|שַֽׁאֲנַנּ֔וֹת]]&#8207; </big>**| sha.'a.na.Not<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arise  |**<big>&#8207;[[H6965B\|קֹ֖מְנָה]]&#8207; </big>**| Ko.me.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hear  |**<big>&#8207;[[H8085G\|שְׁמַ֣עְנָה]]&#8207; </big>**| she.Ma'.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice my  |**<big>&#8207;[[H6963A\|קוֹלִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ko.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughters  |**<big>&#8207;[[H1323G\|בָּנוֹת֙]]&#8207; </big>**| ba.nOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| confident  |**<big>&#8207;[[H0982\|בֹּֽטח֔וֹת]]&#8207; </big>**| bo.t.Chot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give ear to  |**<big>&#8207;[[H0238\|הַאְזֵ֖נָּה]]&#8207; </big>**| ha'.Ze.nah<small><sup>[[HVhv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| utterance my  |**<big>&#8207;[[H0565A\|אִמְרָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'im.ra.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.8|<< Isaiah 32:8]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.10|Isaiah 32:10 >>]]</td></tr></table>
 
 

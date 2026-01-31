@@ -6,10 +6,10 @@ A Psalm of praise. Of David. I will exalt You, my God and King; I will bless You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.15|<< Psalms 144:15]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.1|Psalms 145:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| praise  | <span class="ashebrew"><big>תְּהִלָּ֗ה </big></span><small><small><sup>[[H8416]]</sup></small></small> &#8207;| te.hi.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of David  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָ֫וִ֥ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H8416\|תְּהִלָּ֗ה]]&#8207; </big>**| te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָ֫וִ֥ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.15|<< Psalms 144:15]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.1|Psalms 145:1 >>]]</td></tr></table>
 
 

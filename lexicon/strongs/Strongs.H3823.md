@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לָבַב‎</span></big> **lâbab** <small>*(law-bab')*</small> ==**to encourage**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to be enclosed (as if with fat); by implication (as denominative from <span class="ashebrew">‎לֵבָב‎</span><sup><small>[[H3824]]</small></sup>);  to unheart;  also as denominative from <span class="ashebrew">‎לָבִיבָה‎</span><sup><small>[[H3834]]</small></sup> i.e.</small>
+**<big><span class="ashebrew">‎לָבַב‎</span></big>** **lâbab** <small>*(law-bab')*</small> ==**to encourage**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to be enclosed (as if with fat); by implication (as denominative from **<big>[[H3824|‎לֵבָב‎]]</big>**);  to unheart;  also as denominative from **<big>[[H3834|‎לָבִיבָה‎]]</big>** i.e.</small>
 
 $\quad$ make cakes, ravish, be wise.
 - (in a good sense) ***transport*** (with love), or (in a bad sense) ***stultify***

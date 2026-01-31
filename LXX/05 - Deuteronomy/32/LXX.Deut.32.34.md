@@ -7,18 +7,18 @@ Behold, \[are\] not these \[things\] brought together by me, and a set seal amon
 “Have I not stored up these things, sealed up within My vaults?<small><sub>**MT:**</sub></small>
 [[Deut.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.33|<< Deuteronomy 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.35|Deuteronomy 32:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, \[are\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| brought together | <big><span class="asgreek">συνήκται</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a set seal | <big><span class="asgreek">εσφράγισται</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my treasures? | <big><span class="asgreek">θησαυροίς</span></big> <sup><small><small>[[G2344]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, \[are\] not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2400\|ιδού]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| brought together | **<big>[[G4863\|συνήκται]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a set seal | **<big>[[G4972\|εσφράγισται]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my treasures? | **<big>[[G2344\|θησαυροίς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Deut.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.33|<< Deuteronomy 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.35|Deuteronomy 32:35 >>]]</td></tr></table>
 
 

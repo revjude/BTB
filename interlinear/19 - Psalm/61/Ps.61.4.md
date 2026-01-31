@@ -6,15 +6,15 @@ Let me dwell in Your tent forever and take refuge in the shelter of Your wings. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.3|<< Psalms 61:3]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.5|Psalms 61:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| let me sojourn  | <span class="ashebrew"><big>אָג֣וּרָה </big></span><small><small><sup>[[H1481A]]</sup></small></small> &#8207;| 'a.Gu.rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in tent your  | <span class="ashebrew"><big>בְ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָהָלְ </big></span><small><small><sup>[[H0168G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| Ve. <small><sup>[[HR]]</sup></small> 'a.hal. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| forever  | <span class="ashebrew"><big>עוֹלָמִ֑ים </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| o.la.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let me take refuge  | <span class="ashebrew"><big>אֶֽחֱסֶ֨ה </big></span><small><small><sup>[[H2620]]</sup></small></small> &#8207;| 'e.che.Seh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] shelter of  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>סֵ֖תֶר </big></span><small><small><sup>[[H5643A]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Se.ter <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wings your  | <span class="ashebrew"><big>כְּנָפֶ֣י </big></span><small><small><sup>[[H3671]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ke.na.Fei. <small><sup>[[HNcfdc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶּֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me sojourn  |**<big>&#8207;[[H1481A\|אָג֣וּרָה]]&#8207; </big>**| 'a.Gu.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in tent your  |**<big>&#8207;[[H9003\|בְ֭]]&#8207;&#8207;[[H0168G\|אָהָלְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Ve.<small><sup>[[HR]]</sup></small> 'a.hal.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forever  |**<big>&#8207;[[H5769G\|עוֹלָמִ֑ים]]&#8207; </big>**| o.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me take refuge  |**<big>&#8207;[[H2620\|אֶֽחֱסֶ֨ה]]&#8207; </big>**| 'e.che.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] shelter of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5643A\|סֵ֖תֶר]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Se.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wings your  |**<big>&#8207;[[H3671\|כְּנָפֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ke.na.Fei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶּֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.3|<< Psalms 61:3]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.5|Psalms 61:5 >>]]</td></tr></table>
 
 

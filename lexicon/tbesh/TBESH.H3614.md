@@ -1,9 +1,7 @@
-<span class="ashebrew">‎כָּלִבִּי‎</span> <small>***(ka.lib.bo)***</small> ==**Calebite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H3612G]]</small> 
+<small>group of:</small> <small>**<big>[[H3612G|כָּלֵב]]</big>**</small> 
 
 - Someone descended from Caleb who was a man living at the time of Egypt and Wilderness and Israel before the Monarchy, first mentioned at [[Num.13.6|Num.13.6]]
--  son of: Jephunneh ([[H3312]])
--  brother of: Kenaz ([[H7073I]])
--  father of: Achsah ([[H5915]]), Iru ([[H5900]]), Elah ([[H0425J]]), Naam ([[H5277]])
-- Group of <i>ka.lev</i> (<span class='ashebrew'>‎כ‎</span>ָּ<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "Caleb" [[H3612]])
-
+-  son of: Jephunneh (**<big>[[H3312|יְפֻנֶּה]]</big>**)
+-  brother of: Kenaz (**<big>[[H7073I|קְנַז]]</big>**)
+-  father of: Achsah (**<big>[[H5915|עַכְסָה]]</big>**), Iru (**<big>[[H5900|עִירוּ]]</big>**), Elah (**<big>[[H0425J|אֵלָה]]</big>**), Naam (**<big>[[H5277|נַעַם]]</big>**)
+- Group of <i>ka.lev</i> (<span class='ashebrew'>‎כ‎</span>ָּ<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "Caleb" **<big>[[H3612|כָּלֵב]]</big>**)

@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H5110]]</small>
+<small>Hebrew form: **<big>[[H5110|נוּד]]</big>**</small>
  [<span class="bdbLangAramaic">‎נְדַד‎</span>] **verb** ==flee== (see Biblical Hebrew I.  <span class="bdbLangHebrew">‎נדד‎</span>); — 
 
 **Pe\`al** ***Perfect*** 3 feminine singular <span class="bdbLangAramaic">‎שִׁנְּתֵהּ נַדַּת עֲלוֺהִי‎</span> ([[BDB#Kau|K]]<sup>§ 46, Beisp.</sup> ***a***)) [[Dan.6.19|Dan 6:19]]. 

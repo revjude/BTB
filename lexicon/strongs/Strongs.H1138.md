@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֻּנִּי‎</span></big> **Bunnîy** <small>*(boon-nee')*</small> ==**Bunni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (fuller) <span class="ashebrew">בּוּנִי</span> **Bûwnîy** <small>*(boo-nee')*</small>; from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup>; built</small>
+**<big><span class="ashebrew">‎בֻּנִּי‎</span></big>** **Bunnîy** <small>*(boon-nee')*</small> ==**Bunni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (fuller) **<big><span class="ashebrew">בּוּנִי</span></big>** **Bûwnîy** <small>*(boo-nee')*</small>; from **<big>[[H1129|‎בָּנָה‎]]</big>**; built</small>
 
 $\quad$ Bunni.
 - § Bunni = *"built"*

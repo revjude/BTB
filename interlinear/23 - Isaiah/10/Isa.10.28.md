@@ -6,16 +6,16 @@ Assyria has entered Aiath and passed through Migron, storing their supplies at M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.27|<< Isaiah 10:27]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.29|Isaiah 10:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he has come  | <span class="ashebrew"><big>בָּ֥א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ba' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aiath  | <span class="ashebrew"><big>עַיַּ֖ת </big></span><small><small><sup>[[H5857G]]</sup></small></small> &#8207;| 'ai.Yat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has passed  | <span class="ashebrew"><big>עָבַ֣ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Migron  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִגְר֑וֹן </big></span><small><small><sup>[[H4051]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mig.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Micmash  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִכְמָ֖שׂ </big></span><small><small><sup>[[H4363]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mikh.Mas <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he deposits  | <span class="ashebrew"><big>יַפְקִ֥יד </big></span><small><small><sup>[[H6485L]]</sup></small></small> &#8207;| yaf.Kid <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| baggage\<s> his  | <span class="ashebrew"><big>כֵּלָֽי </big></span><small><small><sup>[[H3627]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.La <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has come  |**<big>&#8207;[[H0935G\|בָּ֥א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aiath  |**<big>&#8207;[[H5857G\|עַיַּ֖ת]]&#8207; </big>**| 'ai.Yat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has passed  |**<big>&#8207;[[H5674A\|עָבַ֣ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Migron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4051\|מִגְר֑וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mig.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Micmash  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4363\|מִכְמָ֖שׂ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mikh.Mas<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he deposits  |**<big>&#8207;[[H6485L\|יַפְקִ֥יד]]&#8207; </big>**| yaf.Kid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| baggage\<s> his  |**<big>&#8207;[[H3627\|כֵּלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.27|<< Isaiah 10:27]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.29|Isaiah 10:29 >>]]</td></tr></table>
 
 

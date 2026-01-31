@@ -6,14 +6,14 @@ My eyes fail from grief; they grow dim because of all my foes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.6|<< Psalms 6:6]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.8|Psalms 6:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has wasted away  | <span class="ashebrew"><big>עָֽשְׁשָׁ֣ה </big></span><small><small><sup>[[H6244]]</sup></small></small> &#8207;| 'a.she.Shah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from grief  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כַּ֣עַס </big></span><small><small><sup>[[H3708A]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Ka.'as <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye my  | <span class="ashebrew"><big>עֵינִ֑ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'ei.N <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has grown weak  | <span class="ashebrew"><big>עָֽ֝תְקָ֗ה </big></span><small><small><sup>[[H6275]]</sup></small></small> &#8207;| 'a.te.Kah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opposers my  | <span class="ashebrew"><big>צוֹרְרָֽ </big></span><small><small><sup>[[H6887D]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzo.Ra <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has wasted away  |**<big>&#8207;[[H6244\|עָֽשְׁשָׁ֣ה]]&#8207; </big>**| 'a.she.Shah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from grief  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3708A\|כַּ֣עַס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye my  |**<big>&#8207;[[H5869A\|עֵינִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has grown weak  |**<big>&#8207;[[H6275\|עָֽ֝תְקָ֗ה]]&#8207; </big>**| 'a.te.Kah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opposers my  |**<big>&#8207;[[H6887D\|צוֹרְרָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzo.Ra<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.6|<< Psalms 6:6]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.8|Psalms 6:8 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׂעֹרָה‎</span></big> **sᵉʻôrâh** <small>*(seh-o-raw')*</small> ==**barley**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">שְׂעוֹרָה</span> **sᵉʻôwrâh** <small>*(seh-o-raw')*</small> (feminine meaning the plant); and (masculine meaning the grain); also <span class="ashebrew">שְׂעֹר</span> **sᵉʻôr** <small>*(seh-ore')*</small>; or <span class="ashebrew">שְׂעוֹר</span> **sᵉʻôwr** <small>*(seh-ore')*</small>; from <span class="ashebrew">‎שָׂעַר‎</span><sup><small>[[H8175]]</small></sup> in the sense of roughness</small>
+**<big><span class="ashebrew">‎שְׂעֹרָה‎</span></big>** **sᵉʻôrâh** <small>*(seh-o-raw')*</small> ==**barley**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׂעוֹרָה</span></big>** **sᵉʻôwrâh** <small>*(seh-o-raw')*</small> (feminine meaning the plant); and (masculine meaning the grain); also **<big><span class="ashebrew">שְׂעֹר</span></big>** **sᵉʻôr** <small>*(seh-ore')*</small>; or **<big><span class="ashebrew">שְׂעוֹר</span></big>** **sᵉʻôwr** <small>*(seh-ore')*</small>; from **<big>[[H8175|‎שָׂעַר‎]]</big>** in the sense of roughness</small>
 
 $\quad$ barley.
 - ***barley*** (as villose)
@@ -8,4 +8,4 @@ $\quad$ barley.
 $\quad$ **1a)** barley (of the plant)
 $\quad$ **1b)** barley (of the meal or grain)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κριθή</span><sup><small>[[G2915]]</small></sup> · <span class="asgreek">κρίθινος</span><sup><small>[[G2916]]</small></sup>
+<small>See Greek: </small>**<big>[[G2915|κριθή]]</big>** · **<big>[[G2916|κρίθινος]]</big>**

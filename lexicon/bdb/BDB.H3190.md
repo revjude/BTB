@@ -1,4 +1,4 @@
-<small>Also see: [[H2895]]</small>
+<small>Also see: **<big>[[H2895|טוֹב]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎יָטַב‎</span>] **verb** ==be good, well, glad, pleasing== (Aramaic <span class="bdbLangAramaic">‎יְטַב‎</span> Zinjirli <span class="bdbLangHebrew">‎יטב‎</span> [[BDB#DHM|DHM]]<sup>Sendsch. 57</sup>) — 
 

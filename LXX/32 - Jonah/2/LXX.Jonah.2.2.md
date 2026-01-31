@@ -7,26 +7,26 @@ And said, I cried by reason of mine affliction unto the LORD, and he heard me; o
 saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice.<small><sub>**MT:**</sub></small>
 [[Jonah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.1|<< Jonah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.3|Jonah 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I yelled | <big><span class="asgreek">εβόησα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my affliction | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he hearkened to | <big><span class="asgreek">εισήκουσέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| of Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \[was\] my cry; | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you heard | <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| my voice. | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I yelled | **<big>[[G0994\|εβόησα]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| my affliction | **<big>[[G2347\|θλίψει]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my God, | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he hearkened to | **<big>[[G1522\|εισήκουσέ]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] belly | **<big>[[G2836\|κοιλίας]]</big>** |
+| of Hades | **<big>[[G0086\|άδου]]</big>** |
+| \[was\] my cry; | **<big>[[G2906\|κραυγής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you heard | **<big>[[G0191\|ήκουσας]]</big>** |
+| my voice. | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jonah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.1|<< Jonah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.3|Jonah 2:3 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And Judah did evil in the sight of the LORD, and they provoked him to jealousy w
 And Judah did evil in the sight of the LORD, and by the sins they committed they provoked Him to jealous anger more than all their fathers had done.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.21|<< 1 Kings 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.23|1 Kings 14:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah acted | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wickedly | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| provoked him to jealousy | <big><span class="asgreek">παρεζήλωσεν</span></big> <sup><small><small>[[G3863]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\] which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sinned. | <big><span class="asgreek">ήμαρτον</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Judah acted | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G2448\|Ιούδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| wickedly | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| provoked him to jealousy | **<big>[[G3863\|παρεζήλωσεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| the \[things\] which | **<big>[[G3739\|οις]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their sins | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| they sinned. | **<big>[[G0264\|ήμαρτον]]</big>** |
 [[1Kgs.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.21|<< 1 Kings 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.23|1 Kings 14:23 >>]]</td></tr></table>
 
 

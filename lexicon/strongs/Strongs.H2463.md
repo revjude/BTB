@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְבּוֹן‎</span></big> **Chelbôwn** <small>*(khel-bone')*</small> ==**Helbon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶלֶב‎</span><sup><small>[[H2459]]</small></sup>; fruitful</small>
+**<big><span class="ashebrew">‎חֶלְבּוֹן‎</span></big>** **Chelbôwn** <small>*(khel-bone')*</small> ==**Helbon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2459|‎חֶלֶב‎]]</big>**; fruitful</small>
 
 $\quad$ Helbah.
 - § Helbon = *"fertile"*

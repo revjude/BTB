@@ -7,39 +7,39 @@ And the anger of the LORD was kindled against Moses, and he said, [Is] not Aaron
 Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart.<small><sub>**MT:**</sub></small>
 [[Exod.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.13|<< Exodus 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.15|Exodus 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being enraged | <big><span class="asgreek">θυμωθείς</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| in anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, \[is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother, | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite? | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| I know | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| speaking, | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| he will speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησίν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will rejoice | <big><span class="asgreek">χαρήσεται</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| himself. | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| being enraged | **<big>[[G2373\|θυμωθείς]]</big>** |
+| in anger | **<big>[[G3709\|οργή]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, \[is\] not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2400\|ιδού]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your brother, | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite? | **<big>[[G3017\|Λευίτης]]</big>** |
+| I know | **<big>[[G1987\|επίσταμαι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| speaking, | **<big>[[G2980\|λαλών]]</big>** |
+| he will speak | **<big>[[G2980\|λαλήσει]]</big>** **<big>[[G1473\|αυτός]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησίν]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seeing | **<big>[[G1492\|ιδών]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| he will rejoice | **<big>[[G5463\|χαρήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| himself. | **<big>[[G1438\|εαυτώ]]</big>** |
 [[Exod.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.13|<< Exodus 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.15|Exodus 4:15 >>]]</td></tr></table>
 
 

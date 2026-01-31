@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶקֶב‎</span></big> **Neqeb** <small>*(neh'-keb)*</small> ==**(Adami)-nekeb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נֶקֶב‎</span><sup><small>[[H5345]]</small></sup>; dell</small>
+**<big><span class="ashebrew">‎נֶקֶב‎</span></big>** **Neqeb** <small>*(neh'-keb)*</small> ==**(Adami)-nekeb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H5345|‎נֶקֶב‎]]</big>**; dell</small>
 
 $\quad$ Nekeb.
 - § Nekeb or Nekeb = *"cavern"*

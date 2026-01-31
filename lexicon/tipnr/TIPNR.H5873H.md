@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>En-gannim</span> \(or Anem\), a Levitical city in the territory of Issachar, given to the Gershonite Levites.
 - A location first mentioned at [[Josh.19.21|Jos.19.21]]; 
-- referred to as En-gannim<[[H5873H]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>נ</span>ִּ<span class='tipnrLangHebrew'>ים</span>\), or Anem<[[H6046]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as En-gannim **<big>[[H5873|עֵין גַּנִּים]]</big>**, or Anem **<big>[[H6046|עָנֵם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.46349905885267,35.3036831926058&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ Apart from its allocation to Issachar and its designation as a Levitical city, n
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| En-gannim (NIV= En Gannim) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>נ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H5873H) <small>*Hebrew*</small> | 2x | [[Jos.19.21] & [Jos.21.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.19.21;Jos.21.29) |
-| Anem | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>](H6046) <small>*Hebrew*</small> | 1x | [1Ch.6.73 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anem\*\|reference=1Ch.6.73) |
-All Strong's for **En-gannim or Anem**: \[[[H5873H]]\] \[[[H6046]]\]
+| En-gannim (NIV= En Gannim) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>נ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H5873H) | 2x | [[Jos.19.21] & [Jos.21.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.19.21;Jos.21.29) |
+| Anem | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ם</span>](H6046) | 1x | [1Ch.6.73 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anem\*\|reference=1Ch.6.73) |
+All entries for **En-gannim or Anem**:  **<big>[[H5873|עֵין גַּנִּים]]</big>** ☩  **<big>[[H6046|עָנֵם]]</big>**

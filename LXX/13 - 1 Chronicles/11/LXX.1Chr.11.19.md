@@ -7,41 +7,41 @@ And said, My God forbid it me, that I should do this thing: shall I drink the bl
 saying, “Far be it from me, my God, to do this! How can I drink the blood of these men who risked their lives?” Because they had brought it at the risk of their lives, David refused to drink it. Such were the exploits of the three mighty men.<small><sub>**MT:**</sub></small>
 [[1Chr.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.18|<< 1 Chronicles 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.20|1 Chronicles 11:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Kindness | <big><span class="asgreek">ίλεώς</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing. | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of these men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I drink | <big><span class="asgreek">πίομαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their lives, \[no\]. | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lives | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">εβούλετο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| These \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| mighty men | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Kindness | **<big>[[G2436\|ίλεώς]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing. | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of these men | **<big>[[G0435\|ανδρών]]</big>** **<big>[[G3778\|τούτων]]</big>** |
+| I drink | **<big>[[G4095\|πίομαι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| their lives, \[no\]. | **<big>[[G5590\|ψυχαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their lives | **<big>[[G5590\|ψυχαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I do not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G1014\|εβούλετο]]</big>** |
+| to drink | **<big>[[G4095\|πιείν]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
+| These \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| mighty men | **<big>[[G1415\|δυνατοί]]</big>** |
 [[1Chr.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.18|<< 1 Chronicles 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.20|1 Chronicles 11:20 >>]]</td></tr></table>
 
 

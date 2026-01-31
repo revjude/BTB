@@ -7,18 +7,18 @@ But unto thee have I cried, O LORD; and in the morning shall my prayer prevent t
 But to You, O LORD, I cry for help; in the morning my prayer comes before You.<small><sub>**MT:**</sub></small>
 [[Ps.88.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.12|<< Psalm 88:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.14|Psalm 88:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my prayer | <big><span class="asgreek">προσευχή</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be with you beforehand. | <big><span class="asgreek">προφθάσει</span></big> <sup><small><small>[[G4399]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But I | **<big>[[G2504\|καγώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my prayer | **<big>[[G4335\|προσευχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall be with you beforehand. | **<big>[[G4399\|προφθάσει]]</big>** **<big>[[G1473\|σε]]</big>** |
 [[Ps.88.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.12|<< Psalm 88:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.14|Psalm 88:14 >>]]</td></tr></table>
 
 

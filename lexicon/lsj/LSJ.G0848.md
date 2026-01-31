@@ -1,4 +1,4 @@
-form of: <small>[[G1438]]</small> 
+form of: <small>**<big>[[G1438|ἑαυτοῦ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==αὑτοῦ==</span></b>, <span class='asgreek'>ῆς</span>, <span class='asgreek'>οῦ</span>, <span class='asgreek'>ἑαυτῷ</span>, <span class='asgreek'>ῇ</span>, <span class='asgreek'>ῷ</span>, <span class='asgreek'>ἑαυτόν</span>, <span class='asgreek'>ήν</span>, <span class='asgreek'>ό</span>, 

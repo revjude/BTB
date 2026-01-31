@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵין מִשְׁפָּט‎</span></big> **ʻÊyn Mishpâṭ** <small>*(ane mish-pawt')*</small> ==**En-mishpat**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup> and <span class="ashebrew">‎מִשְׁפָּט‎</span><sup><small>[[H4941]]</small></sup>; fountain of judgment</small>
+**<big><span class="ashebrew">‎עֵין מִשְׁפָּט‎</span></big>** **ʻÊyn Mishpâṭ** <small>*(ane mish-pawt')*</small> ==**En-mishpat**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>** and **<big>[[H4941|‎מִשְׁפָּט‎]]</big>**; fountain of judgment</small>
 
 $\quad$ En-mishpat.
 - § En-mishpat = *"spring of judgment"*

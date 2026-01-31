@@ -10,17 +10,17 @@ Look at the proud one; his soul is not upright—but the righteous will live by 
 > $\quad$ referenced by: [[Rom.1.17|Rom 1:17]] ☩ [[Gal.3.11|Gal 3:11]] ☩ [[Heb.10.37|Heb 10:37-38]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is swollen  | <span class="ashebrew"><big>עֻפְּלָ֔ה </big></span><small><small><sup>[[H6075A]]</sup></small></small> &#8207;| 'u.pe.Lah <small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is upright  | <span class="ashebrew"><big>יָשְׁרָ֥ה </big></span><small><small><sup>[[H3474]]</sup></small></small> &#8207;| ya.she.Rah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self his  | <span class="ashebrew"><big>נַפְשׁ֖ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in him  | <span class="ashebrew"><big>בּ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| b <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] righteous  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צַדִּ֖יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by faithfulness his  | <span class="ashebrew"><big>בֶּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֱמוּנָת֥ </big></span><small><small><sup>[[H0530]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'e.mu.na.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will live  | <span class="ashebrew"><big>יִחְיֶֽה </big></span><small><small><sup>[[H2421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yich.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is swollen  |**<big>&#8207;[[H6075A\|עֻפְּלָ֔ה]]&#8207; </big>**| 'u.pe.Lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is upright  |**<big>&#8207;[[H3474\|יָשְׁרָ֥ה]]&#8207; </big>**| ya.she.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  |**<big>&#8207;[[H5315G\|נַפְשׁ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  |**<big>&#8207;[[H9003\|בּ֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] righteous  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6662\|צַדִּ֖יק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by faithfulness his  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H0530\|אֱמוּנָת֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.mu.na.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will live  |**<big>&#8207;[[H2421\|יִחְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.3|<< Habakkuk 2:3]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.5|Habakkuk 2:5 >>]]</td></tr></table>
 
 

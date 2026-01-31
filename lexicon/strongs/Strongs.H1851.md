@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דַּק‎</span></big> **daq** <small>*(dak)*</small> ==**thin**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּקַק‎</span><sup><small>[[H1854]]</small></sup></small>
+**<big><span class="ashebrew">‎דַּק‎</span></big>** **daq** <small>*(dak)*</small> ==**thin**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H1854|‎דָּקַק‎]]</big>**</small>
 
 $\quad$ dwarf, lean(-fleshed), very little thing, small, thin.
 - ***crushed***, i.e. (by implication) ***small*** or ***thin***

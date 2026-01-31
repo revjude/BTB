@@ -6,13 +6,13 @@ I will sing to the LORD, for He has been good to me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.5|<< Psalms 13:5]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.0|Psalms 14:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I will sing  | <span class="ashebrew"><big>אָשִׁ֥ירָה </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| 'a.Shi.rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֖י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has dealt bountifully  | <span class="ashebrew"><big>גָמַ֣ל </big></span><small><small><sup>[[H1580]]</sup></small></small> &#8207;| ga.Mal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| towards me  | <span class="ashebrew"><big>עָלָֽ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will sing  |**<big>&#8207;[[H7891\|אָשִׁ֥ירָה]]&#8207; </big>**| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has dealt bountifully  |**<big>&#8207;[[H1580\|גָמַ֣ל]]&#8207; </big>**| ga.Mal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards me  |**<big>&#8207;[[H5921A\|עָלָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.5|<< Psalms 13:5]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.0|Psalms 14:0 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ Weep ye not for the dead, neither bemoan him: [but] weep sore for him that goeth
 Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him who is exiled, for he will never return to see his native land.<small><sub>**MT:**</sub></small>
 [[Jer.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| weep | <big><span class="asgreek">κλαίετε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| for the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died, | <big><span class="asgreek">τεθνηκότα</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| lament | <big><span class="asgreek">θρηνείτε</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Weep! | <big><span class="asgreek">κλαύσατε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| by weeping | <big><span class="asgreek">κλαυθμώ</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| for the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one going forth, | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| again, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall he see | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of his fatherland. | <big><span class="asgreek">πατρίδος</span></big> <sup><small><small>[[G3968]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| weep | **<big>[[G2799\|κλαίετε]]</big>** |
+| for the one | **<big>[[G3588\|τον]]</big>** |
+| having died, | **<big>[[G2348\|τεθνηκότα]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| lament | **<big>[[G2354\|θρηνείτε]]</big>** |
+| him! | **<big>[[G1473\|αυτόν]]</big>** |
+| Weep! | **<big>[[G2799\|κλαύσατε]]</big>** |
+| by weeping | **<big>[[G2805\|κλαυθμώ]]</big>** |
+| for the | **<big>[[G3588\|τον]]</big>** |
+| one going forth, | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| return | **<big>[[G1994\|επιστρέψει]]</big>** |
+| again, | **<big>[[G2089\|έτι]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall he see | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of his fatherland. | **<big>[[G3968\|πατρίδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
 

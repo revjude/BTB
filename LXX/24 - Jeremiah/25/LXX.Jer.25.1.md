@@ -10,37 +10,37 @@ The word that came to Jeremiah concerning all the people of Judah in the fourth 
 This is the word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon.<small><sub>**MT:**</sub></small>
 [[Jer.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.10|<< Jeremiah 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.2|Jeremiah 25:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">γενόμενος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jehoiakim | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3079]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Josiah | <big><span class="asgreek">Ιωσία</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah; | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| it \[was\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτος</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon; | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| coming | **<big>[[G1096\|γενόμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jehoiakim | **<big>[[H3079\|Ιωακείμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Josiah | **<big>[[G2502\|Ιωσία]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah; | **<big>[[G2448\|Ιούδα]]</big>** |
+| it \[was\] | **<big>[[G1473\|αυτός]]</big>** |
+| year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Babylon; | **<big>[[G0897\|Βαβυλώνος]]</big>** |
 [[Jer.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.10|<< Jeremiah 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.2|Jeremiah 25:2 >>]]</td></tr></table>
 
 

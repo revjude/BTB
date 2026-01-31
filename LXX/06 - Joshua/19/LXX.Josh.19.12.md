@@ -7,29 +7,29 @@ And turned from Sarid eastward toward the sunrising unto the border of Chislotht
 From Sarid it turned eastward along the border of Chisloth-tabor and went on to Daberath and up to Japhia.<small><sub>**MT:**</sub></small>
 [[Josh.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.11|<< Joshua 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.13|Joshua 19:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they return | <big><span class="asgreek">ανέστρεψαν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Sarid | <big><span class="asgreek">Σαρίδ</span></big> <sup><small><small>[[H8301]]</small></small></sup> |
-| right | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| opposite | <big><span class="asgreek">εναντίας</span></big> <sup><small><small>[[G1727]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| east | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of Samis, | <big><span class="asgreek">Σαμές</span></big> <sup><small><small>[[H5905]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Chisloth-tabor, | <big><span class="asgreek">Χασελλαθθαβώρ</span></big> <sup><small><small>[[H3696]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall go through | <big><span class="asgreek">διελεύσεται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Daberath, | <big><span class="asgreek">Δαβράθ</span></big> <sup><small><small>[[H1705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall ascend | <big><span class="asgreek">προσαναβήσεται</span></big> <sup><small><small>[[G4320]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Japhia. | <big><span class="asgreek">Ιαφφιέ</span></big> <sup><small><small>[[H3309]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they return | **<big>[[G0390\|ανέστρεψαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Sarid | **<big>[[H8301\|Σαρίδ]]</big>** |
+| right | **<big>[[G1537\|εξ]]</big>** |
+| opposite | **<big>[[G1727\|εναντίας]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| east | **<big>[[G0395\|ανατολών]]</big>** |
+| of Samis, | **<big>[[H5905\|Σαμές]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| of Chisloth-tabor, | **<big>[[H3696\|Χασελλαθθαβώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall go through | **<big>[[G1330\|διελεύσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Daberath, | **<big>[[H1705\|Δαβράθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall ascend | **<big>[[G4320\|προσαναβήσεται]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| Japhia. | **<big>[[H3309\|Ιαφφιέ]]</big>** |
 [[Josh.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.11|<< Joshua 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.13|Joshua 19:13 >>]]</td></tr></table>
 
 

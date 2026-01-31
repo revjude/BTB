@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁכֶם‎</span></big> **Shekem** <small>*(sheh'-kem)*</small> ==**Shechem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎שְׁכֶם‎</span><sup><small>[[H7926]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁכֶם‎</span></big>** **Shekem** <small>*(sheh'-kem)*</small> ==**Shechem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H7926|‎שְׁכֶם‎]]</big>**</small>
 
 $\quad$ Shechem.
 - § Shechem = *"back" or "shoulder"*

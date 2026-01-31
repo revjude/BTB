@@ -7,53 +7,53 @@ Now therefore, if [it seem] good to the king, let there be search made in the ki
 Now, therefore, if it pleases the king, let a search be made of the royal archives in Babylon to see if King Cyrus did indeed issue a decree to rebuild the house of God in Jerusalem. Then let the king send us his decision in this matter.<small><sub>**MT:**</sub></small>
 [[Ezra.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.16|<< Ezra 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.1|Ezra 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[it seems\] good, | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| let it be overseen | <big><span class="asgreek">επισκοπείτω</span></big> <sup><small><small>[[G1983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treasury | <big><span class="asgreek">γάζης</span></big> <sup><small><small>[[G1047]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Babylon! | <big><span class="asgreek">Βαβυλώνι</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| so as | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| to know | <big><span class="asgreek">γνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that \[if\] | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Cyrus | <big><span class="asgreek">Κύρου</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| was rendered | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a decree | <big><span class="asgreek">γνώμη</span></big> <sup><small><small>[[G1106]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| that one | <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γνους</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| let him send forth \[a reply\] | <big><span class="asgreek">πεμψάτω</span></big> <sup><small><small>[[G3992]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| \[it seems\] good, | **<big>[[G0018\|αγαθόν]]</big>** |
+| let it be overseen | **<big>[[G1983\|επισκοπείτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| treasury | **<big>[[G1047\|γάζης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Babylon! | **<big>[[G0897\|Βαβυλώνι]]</big>** |
+| so as | **<big>[[G3704\|όπως]]</big>** |
+| to know | **<big>[[G1097\|γνως]]</big>** |
+| that \[if\] | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| Cyrus | **<big>[[H3567\|Κύρου]]</big>** |
+| was rendered | **<big>[[G5087\|ετέθη]]</big>** |
+| a decree | **<big>[[G1106\|γνώμη]]</big>** |
+| to build | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| that one | **<big>[[G1565\|εκείνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| knowing | **<big>[[G1097\|γνους]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| this, | **<big>[[G3778\|τούτου]]</big>** |
+| let him send forth \[a reply\] | **<big>[[G3992\|πεμψάτω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| us! | **<big>[[G1473\|ημάς]]</big>** |
 [[Ezra.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.16|<< Ezra 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.1|Ezra 6:1 >>]]</td></tr></table>
 
 

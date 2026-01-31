@@ -6,26 +6,26 @@ Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| wail  | <span class="ashebrew"><big>הֵילֵ֤ל </big></span><small><small><sup>[[H3213]]</sup></small></small> &#8207;| hei.Lel <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O cypress  | <span class="ashebrew"><big>בְּרוֹשׁ֙ </big></span><small><small><sup>[[H1265]]</sup></small></small> &#8207;| be.ro.Vosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has fallen  | <span class="ashebrew"><big>נָ֣פַל </big></span><small><small><sup>[[H5307M]]</sup></small></small> &#8207;| Na.fal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cedar  | <span class="ashebrew"><big>אֶ֔רֶז </big></span><small><small><sup>[[H0730]]</sup></small></small> &#8207;| 'E.rez <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| majestic [trees]  | <span class="ashebrew"><big>אַדִּרִ֖ים </big></span><small><small><sup>[[H0117]]</sup></small></small> &#8207;| 'a.di.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have been devastated  | <span class="ashebrew"><big>שֻׁדָּ֑דוּ </big></span><small><small><sup>[[H7703]]</sup></small></small> &#8207;| shu.Da.du <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wail  | <span class="ashebrew"><big>הֵילִ֙ילוּ֙ </big></span><small><small><sup>[[H3213]]</sup></small></small> &#8207;| hei.Li.lu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O oaks of  | <span class="ashebrew"><big>אַלּוֹנֵ֣י </big></span><small><small><sup>[[H0437]]</sup></small></small> &#8207;| 'a.lo.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bashan  | <span class="ashebrew"><big>בָשָׁ֔ן </big></span><small><small><sup>[[H1316]]</sup></small></small> &#8207;| va.Shan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has come down  | <span class="ashebrew"><big>יָרַ֖ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.Rad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] forest  | <span class="ashebrew"><big>יַ֥עַר </big></span><small><small><sup>[[H3293A]]</sup></small></small> &#8207;| Ya.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of the vintage  [^2] | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּצִֽיר </big></span><small><small><sup>[[H1210]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;[^3] | ha. <small><sup>[[HTd]]</sup></small> ba.tzur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| wail  |**<big>&#8207;[[H3213\|הֵילֵ֤ל]]&#8207; </big>**| hei.Lel<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O cypress  |**<big>&#8207;[[H1265\|בְּרוֹשׁ֙]]&#8207; </big>**| be.ro.Vosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has fallen  |**<big>&#8207;[[H5307M\|נָ֣פַל]]&#8207; </big>**| Na.fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cedar  |**<big>&#8207;[[H0730\|אֶ֔רֶז]]&#8207; </big>**| 'E.rez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| majestic [trees]  |**<big>&#8207;[[H0117\|אַדִּרִ֖ים]]&#8207; </big>**| 'a.di.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been devastated  |**<big>&#8207;[[H7703\|שֻׁדָּ֑דוּ]]&#8207; </big>**| shu.Da.du<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wail  |**<big>&#8207;[[H3213\|הֵילִ֙ילוּ֙]]&#8207; </big>**| hei.Li.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O oaks of  |**<big>&#8207;[[H0437\|אַלּוֹנֵ֣י]]&#8207; </big>**| 'a.lo.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bashan  |**<big>&#8207;[[H1316\|בָשָׁ֔ן]]&#8207; </big>**| va.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come down  |**<big>&#8207;[[H3381\|יָרַ֖ד]]&#8207; </big>**| ya.Rad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] forest  |**<big>&#8207;[[H3293A\|יַ֥עַר]]&#8207; </big>**| Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the vintage  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1210\|בָּצִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
-[^1]: ==K==: **\<the> older ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H1208]]</sup></small> <span class="ashebrew"><big>בָּצוּר</big></span> <small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
-[^2]: ==K==: **\<the> older ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H1208]]</sup></small> <span class="ashebrew"><big>בָּצוּר</big></span> <small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
+[^1]: ==K==: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
+[^2]: ==K==: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>הַבָּצִֽור\׃</big></span>**
 

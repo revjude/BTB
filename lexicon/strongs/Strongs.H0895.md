@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎בַּבֶל‎</span></big> **Babel** <small>*(baw-bel')*</small> ==**Babylon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בָּבֶל‎</span><sup><small>[[H0894]]</small></sup></small>
+**<big><span class="asaramaic">‎בַּבֶל‎</span></big>** **Babel** <small>*(baw-bel')*</small> ==**Babylon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0894|‎בָּבֶל‎]]</big>**</small>
 
 $\quad$ Babylon.
 - § Babel or Babylon = *"confusion (by mixing)"*

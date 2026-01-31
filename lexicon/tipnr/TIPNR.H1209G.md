@@ -4,11 +4,11 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Bezai</span> was an ancestor of 323 individuals who returned to Jerusalem from Babylonian captivity.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.17|Ezr.2.17]]; 
-- only referred to as Bezai<[[H1209G]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>צ</span>ָ֑<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Bezai **<big>[[H1209|בֵּצַי]]</big>**.
 
 Bezai was the ancestor of a group of people who returned to Jerusalem from the Babylonian captivity \(Ezr. 2:17; Neh. 7:23\). According to the records, 323 individuals from Bezai's family were among those who made the journey back to their homeland. The return of the exiles to Jerusalem was a significant event in Jewish history, as it marked the beginning of the restoration of their religious and cultural identity after decades of captivity in Babylon. The mention of Bezai and the number of his descendants highlights the importance of family lineage and the preservation of ancestral records among the returning exiles.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bezai | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>צ</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H1209G) <small>*Hebrew*</small> | 2x | [[Ezr.2.17] & [Neh.7.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bezai\*\|reference=Ezr.2.17;Neh.7.23) |
-All Strong's for **Bezai**: \[[[H1209G]]\]
+| Bezai | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>צ</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H1209G) | 2x | [[Ezr.2.17] & [Neh.7.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bezai\*\|reference=Ezr.2.17;Neh.7.23) |
+All entries for **Bezai**:  **<big>[[H1209|בֵּצַי]]</big>**

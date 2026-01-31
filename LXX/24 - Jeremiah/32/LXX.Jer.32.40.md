@@ -7,31 +7,31 @@ And I will make an everlasting covenant with them, that I will not turn away fro
 I will make an everlasting covenant with them: I will never turn away from doing good to them, and I will put My fear in their hearts, so that they will never turn away from Me.<small><sub>**MT:**</sub></small>
 [[Jer.32.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.39|<< Jeremiah 32:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.41|Jeremiah 32:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will ordain | <big><span class="asgreek">διαθήσομαι</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| an everlasting | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I turn | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| behind | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| separate them | <big><span class="asgreek">αποστήναι</span></big> <sup><small><small>[[G0868]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will ordain | **<big>[[G1303\|διαθήσομαι]]</big>** |
+| with them | **<big>[[G1473\|αυτοίς]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| an everlasting | **<big>[[G0166\|αιώνιον]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I turn | **<big>[[G0654\|αποστρέψω]]</big>** |
+| behind | **<big>[[G3693\|όπισθεν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my fear | **<big>[[G5401\|φόβον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| separate them | **<big>[[G0868\|αποστήναι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Jer.32.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.39|<< Jeremiah 32:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.41|Jeremiah 32:41 >>]]</td></tr></table>
 
 

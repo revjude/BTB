@@ -7,32 +7,32 @@ Now there was found in it a poor wise man, and he by his wisdom delivered the ci
 Now a poor wise man was found in the city, and he saved the city by his wisdom. Yet no one remembered that poor man.<small><sub>**MT:**</sub></small>
 [[Eccl.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there should be found | <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| wise | <big><span class="asgreek">σοφόν</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall deliver | <big><span class="asgreek">διασώσει</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| he himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wisdom; | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| remembered not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πένητος</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| that | <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| there should be found | **<big>[[G2147\|εύρη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| a needy | **<big>[[G3993\|πένητα]]</big>** |
+| wise | **<big>[[G4680\|σοφόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall deliver | **<big>[[G1295\|διασώσει]]</big>** |
+| he himself | **<big>[[G1473\|αυτός]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his wisdom; | **<big>[[G4678\|σοφία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| remembered not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3403\|εμνήσθη]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| man | **<big>[[G0435\|ανδρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| needy | **<big>[[G3993\|πένητος]]</big>** |
+| that | **<big>[[G1565\|εκείνου]]</big>** |
 [[Eccl.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 
 

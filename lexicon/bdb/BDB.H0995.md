@@ -1,4 +1,4 @@
-<small>Also see: [[H4000]]</small>
+<small>Also see: **<big>[[H4000|מָבוֹן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎בִּין‎</span> **verb** ==discern== ([[BDB#Nö|Nö]]<sup>ZMG 1883, 592 f.</sup>; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHAAYAIAAAP///wAAACH5BAAAAAAALAAAAAAcABgAAAJLhI+puxEMk5sPOXgNrZKfbUXZN0WNZ6ZoKrLu6jbKGANrWds3LGsw3wnNLJyRMUMhkpa+DYpWfOp6pxpNKIpWTUcnzurNEb/iMqMAADs="> ***become separated, be distinct***, IV. ***speak perspicuously***; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHAARAIAAAP///wAAACH5BAAAAAAALAAAAAAcABEAAAJHhI9pEeoME5yAohkXqzmfzYGdCGpNeEaUZZrpNp7uR3rh5cUyWst5SesFgzvUrEXE+X5F5rJkY0lXUygQwyM2sI6u9wsOFwAAOw=="> 1. 2 ***consider, perceive***, Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHQAeAIAAAP///wAAACH5BAAAAAAALAAAAAAdAB4AAAJShI+py+0PowsShktTBrvhr4HPxWFaWZFkWKEc23pdTNd2aN7GlyO9z+L5RIefosfbCGWUpNP0hEZVUxEos0JNi1ldqaszhsHjWdk7JN/Ea7S3AAA7"> ***make to understand***, compare Sabean <span class="bdbLangHebrew">‎בין‎</span> (***the***) ***wise***, as epithet, Mordt<sup>ZMG 1876, 37</sup>) — 
 

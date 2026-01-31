@@ -7,22 +7,22 @@ And he set the porters at the gates of the house of the LORD, that none [which w
 He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.<small><sub>**MT:**</sub></small>
 [[2Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.18|<< 2 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.20|2 Chronicles 23:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatekeepers | <big><span class="asgreek">πυλωροί</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall not enter | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| anything | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| gatekeepers | **<big>[[G8988\|πυλωροί]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| gates | **<big>[[G4439\|πύλας]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| there shall not enter | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1525\|εισελεύσεται]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτος]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| anything | **<big>[[G3956\|παν]]</big>** **<big>[[G4229\|πράγμα]]</big>** |
 [[2Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.18|<< 2 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.20|2 Chronicles 23:20 >>]]</td></tr></table>
 
 

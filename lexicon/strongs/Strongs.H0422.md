@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָלָה‎</span></big> **ʼâlâh** <small>*(aw-law')*</small> ==**to swear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָלָה‎</span></big>** **ʼâlâh** <small>*(aw-law')*</small> ==**to swear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ adjure, curse, swear.

@@ -7,23 +7,23 @@ As birds flying, so will the LORD of hosts defend Jerusalem; defending also he w
 Like birds hovering overhead, so the LORD of Hosts will protect Jerusalem. He will shield it and deliver it; He will pass over it and preserve it.”<small><sub>**MT:**</sub></small>
 [[Isa.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.4|<< Isaiah 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.6|Isaiah 31:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| flying, | <big><span class="asgreek">πετόμενα</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shield | <big><span class="asgreek">υπερασπιεί</span></big> <sup><small><small>[[G9542]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| Jerusalem; | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall rescue | <big><span class="asgreek">εξελείται</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall protect | <big><span class="asgreek">περιποιήσεται</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall deliver. | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| birds | **<big>[[G3732\|όρνεα]]</big>** |
+| flying, | **<big>[[G4072\|πετόμενα]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shield | **<big>[[G9542\|υπερασπιεί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| Jerusalem; | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall rescue | **<big>[[G1807\|εξελείται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall protect | **<big>[[G4046\|περιποιήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall deliver. | **<big>[[G4982\|σώσει]]</big>** |
 [[Isa.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.4|<< Isaiah 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.6|Isaiah 31:6 >>]]</td></tr></table>
 
 

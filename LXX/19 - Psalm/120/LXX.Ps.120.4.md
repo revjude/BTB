@@ -7,18 +7,18 @@ Sharp arrows of the mighty, with coals of juniper.
 Sharp arrows will come from the warrior, with burning coals of the broom tree!<small><sub>**MT:**</sub></small>
 [[Ps.120.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.3|<< Psalm 120:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.5|Psalm 120:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arrows | <big><span class="asgreek">βέλη</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατού</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| \[are\] being sharpened | <big><span class="asgreek">ηκονημένα</span></big> <sup><small><small>[[G6193]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coals | <big><span class="asgreek">άνθραξι</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| solitary | <big><span class="asgreek">ερημικοίς</span></big> <sup><small><small>[[G7503]]</small></small></sup> |
+| The | **<big>[[G3588\|τα]]</big>** |
+| arrows | **<big>[[G0956\|βέλη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mighty | **<big>[[G1415\|δυνατού]]</big>** |
+| \[are\] being sharpened | **<big>[[G6193\|ηκονημένα]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| coals | **<big>[[G0440\|άνθραξι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| solitary | **<big>[[G7503\|ερημικοίς]]</big>** |
 [[Ps.120.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.3|<< Psalm 120:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.5|Psalm 120:5 >>]]</td></tr></table>
 
 

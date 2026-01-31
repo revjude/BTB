@@ -7,19 +7,19 @@ None [of them] can by any means redeem his brother, nor give to God a ransom for
 No man can possibly redeem his brother or pay his ransom to God.<small><sub>**MT:**</sub></small>
 [[Ps.49.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.6|<< Psalm 49:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.8|Psalm 49:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ransom. | <big><span class="asgreek">λυτρούται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| ransom | <big><span class="asgreek">λυτρώσεται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| He shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| an appeasement | <big><span class="asgreek">εξίλασμα</span></big> <sup><small><small>[[G7332]]</small></small></sup> |
-| for himself. | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| A brother | **<big>[[G0080\|αδελφός]]</big>** |
+| does not | **<big>[[G3756\|ου]]</big>** |
+| ransom. | **<big>[[G3084\|λυτρούται]]</big>** |
+| ransom | **<big>[[G3084\|λυτρώσεται]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| He shall not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσει]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| an appeasement | **<big>[[G7332\|εξίλασμα]]</big>** |
+| for himself. | **<big>[[G1438\|εαυτού]]</big>** |
 [[Ps.49.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.6|<< Psalm 49:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.8|Psalm 49:8 >>]]</td></tr></table>
 
 

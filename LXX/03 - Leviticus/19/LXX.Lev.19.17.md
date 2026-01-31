@@ -11,24 +11,24 @@ You must not harbor hatred against your brother in your heart. Directly rebuke y
 > $\quad$ referenced by: [[Matt.18.15|Matt 18:15]] ☩ [[Luke.17.3|Luke 17:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| detest | <big><span class="asgreek">μισήσεις</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mind. | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| With rebuke | <big><span class="asgreek">ελεγμώ</span></big> <sup><small><small>[[G6031]]</small></small></sup> |
-| you shall reprove | <big><span class="asgreek">ελέγξεις</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| detest | **<big>[[G3404\|μισήσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your mind. | **<big>[[G1271\|διανοία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| With rebuke | **<big>[[G6031\|ελεγμώ]]</big>** |
+| you shall reprove | **<big>[[G1651\|ελέγξεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
 [[Lev.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.16|<< Leviticus 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.18|Leviticus 19:18 >>]]</td></tr></table>
 
 

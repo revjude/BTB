@@ -7,20 +7,20 @@ Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty wi
 Adina son of Shiza the Reubenite, chief of the Reubenites, and the thirty with him,<small><sub>**MT:**</sub></small>
 [[1Chr.11.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.41|<< 1 Chronicles 11:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.43|1 Chronicles 11:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Adina | <big><span class="asgreek">Αδεινά</span></big> <sup><small><small>[[H5721]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shiza | <big><span class="asgreek">Σιζά</span></big> <sup><small><small>[[H7877]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Reubenite, | <big><span class="asgreek">Ρουβηνί</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thirty. | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
+| Adina | **<big>[[H5721\|Αδεινά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shiza | **<big>[[H7877\|Σιζά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Reubenite, | **<big>[[G4502\|Ρουβηνί]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Reuben, | **<big>[[G4502\|Ρουβήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| thirty. | **<big>[[G5144\|τριάκοντα]]</big>** |
 [[1Chr.11.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.41|<< 1 Chronicles 11:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.43|1 Chronicles 11:43 >>]]</td></tr></table>
 
 

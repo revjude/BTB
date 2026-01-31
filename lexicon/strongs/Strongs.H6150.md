@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָרַב‎</span></big> **ʻârab** <small>*(aw-rab')*</small> ==**to grow dark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (rather identical with <span class="ashebrew">‎עָרַב‎</span><sup><small>[[H6148]]</small></sup> through the idea of covering with a texture)</small>
+**<big><span class="ashebrew">‎עָרַב‎</span></big>** **ʻârab** <small>*(aw-rab')*</small> ==**to grow dark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (rather identical with **<big>[[H6148|‎עָרַב‎]]</big>** through the idea of covering with a texture)</small>
 
 $\quad$ be darkened, (toward) evening.
 - to ***grow dusky*** at sundown

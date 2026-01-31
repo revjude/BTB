@@ -1,4 +1,3 @@
-<span class="asaramaic">‎יְבַל‎</span> <small>***(ye.val)***</small> ==**to bring**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2986]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2986|יָבַל]]</big>**</small> 
 
-- Aramaic of <i>ya.val</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ל‎</span> "to conduct" [[H2986]])
+- Aramaic of <i>ya.val</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ל‎</span> "to conduct" **<big>[[H2986|יָבַל]]</big>**)

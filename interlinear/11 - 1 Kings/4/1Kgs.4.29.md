@@ -6,22 +6,22 @@ And God gave Solomon wisdom, exceedingly deep insight, and understanding beyond 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.28|<< 1 Kings 4:28]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.30|1 Kings 4:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he gave  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתֵּן֩ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Ten <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֨ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֧ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Solomon  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁלֹמֹ֛ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and understanding  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְבוּנָ֖ה </big></span><small><small><sup>[[H8394]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.vu.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>הַרְבֵּ֣ה </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| har.Beh <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| very  | <span class="ashebrew"><big>מְאֹ֑ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and breadth of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֣חַב </big></span><small><small><sup>[[H7341]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ro.chav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵ֔ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like the sand  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ח֕וֹל </big></span><small><small><sup>[[H2344]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> Chol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] shore of  | <span class="ashebrew"><big>שְׂפַ֥ת </big></span><small><small><sup>[[H8193J]]</sup></small></small> &#8207;| se.Fat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sea  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּֽם </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֵּן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֨ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֧ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Solomon  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֛ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and understanding  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8394\|תְבוּנָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7235A\|הַרְבֵּ֣ה]]&#8207; </big>**| har.Beh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  |**<big>&#8207;[[H3966\|מְאֹ֑ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and breadth of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7341\|רֹ֣חַב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ro.chav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֔ב]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the sand  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2344\|ח֕וֹל]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Chol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shore of  |**<big>&#8207;[[H8193J\|שְׂפַ֥ת]]&#8207; </big>**| se.Fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220G\|יָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.28|<< 1 Kings 4:28]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.30|1 Kings 4:30 >>]]</td></tr></table>
 
 

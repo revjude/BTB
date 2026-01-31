@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὧδε</span></span>, <span class="asgramGrp"><span class="aspos">adv.</span></span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">הֲֲלֹם ,פֹּה ,הִנֶּה</span> <small><sup>[[H1988]]</sup></small><small><sup>[[H6311]]</sup></small><small><sup>[[H2009]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὧδε</span></span>, <span class="asgramGrp"><span class="aspos">adv.</span></span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1988|הֲֲלֹם]]</big>** **<big>[[H6311|פֹּה]]</big>** **<big>[[H2009|הִנֶּה]]</big>**, etc. ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> prop., of manner, <span class="asitalic">so</span> (Hom., al.).</span>
 <span class="asbullet"><span class="asbold">2.</span> In poets (rarely) and late writers, of place,</span>

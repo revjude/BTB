@@ -7,20 +7,20 @@ Let them be confounded and troubled for ever; yea, let them be put to shame, and
 May they be ever ashamed and terrified; may they perish in disgrace.<small><sub>**MT:**</sub></small>
 [[Ps.83.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.16|<< Psalm 83:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.18|Psalm 83:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let them be shamed | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| disturbed | <big><span class="asgreek">ταραχθήτωσαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon! | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them feel remorse | <big><span class="asgreek">εντραπήτωσαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be destroyed! | <big><span class="asgreek">απολέσθωσαν</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| Let them be shamed | **<big>[[G0153\|αισχυνθήτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| disturbed | **<big>[[G5015\|ταραχθήτωσαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| eon! | **<big>[[G0165\|αιώνος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them feel remorse | **<big>[[G1788\|εντραπήτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be destroyed! | **<big>[[G0622\|απολέσθωσαν]]</big>** |
 [[Ps.83.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.16|<< Psalm 83:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.18|Psalm 83:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָצוּם‎</span></big> **ʻâtsûwm** <small>*(aw-tsoom')*</small> ==**mighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">עָצֻם</span> **ʻâtsum** <small>*(aw-tsoom')*</small>; passive participle of <span class="ashebrew">‎עָצַם‎</span><sup><small>[[H6105]]</small></sup></small>
+**<big><span class="ashebrew">‎עָצוּם‎</span></big>** **ʻâtsûwm** <small>*(aw-tsoom')*</small> ==**mighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">עָצֻם</span></big>** **ʻâtsum** <small>*(aw-tsoom')*</small>; passive participle of **<big>[[H6105|‎עָצַם‎]]</big>**</small>
 
 $\quad$ [phrase] feeble, great, mighty, must, strong.
 - ***powerful*** (specifically, a paw)
@@ -9,4 +9,4 @@ $\quad$ [phrase] feeble, great, mighty, must, strong.
 $\quad$ **1a)** mighty, strong (in number)
 $\quad$ **1b)** numerous, countless
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βαρύς</span><sup><small>[[G0926]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">μέγας</span><sup><small>[[G3173]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup>
+<small>See Greek: </small>**<big>[[G0926|βαρύς]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G3173|μέγας]]</big>** · **<big>[[G4128|πλῆθος]]</big>**

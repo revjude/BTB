@@ -7,21 +7,21 @@ Therefore the ungodly shall not stand in the judgment, nor sinners in the congre
 Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.<small><sub>**MT:**</sub></small>
 [[Ps.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.4|<< Psalm 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.6|Psalm 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rise up | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| judgment, | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[the\] sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| of \[the\] just. | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| rise up | **<big>[[G0450\|αναστήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| judgment, | **<big>[[G2920\|κρίσει]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[the\] sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] counsel | **<big>[[G1012\|βουλή]]</big>** |
+| of \[the\] just. | **<big>[[G1342\|δικαίων]]</big>** |
 [[Ps.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.4|<< Psalm 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.6|Psalm 1:6 >>]]</td></tr></table>
 
 

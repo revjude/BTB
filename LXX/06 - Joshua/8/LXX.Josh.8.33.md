@@ -7,68 +7,68 @@ And all Israel, and their elders, and officers, and their judges, stood on this 
 All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.<small><sub>**MT:**</sub></small>
 [[Josh.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.32|<< Joshua 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.34|Joshua 8:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their elders, | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their magistrates, | <big><span class="asgreek">δικασταί</span></big> <sup><small><small>[[G1348]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their scribes, | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] coming near | <big><span class="asgreek">παρεπορεύοντο</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| on this side and that side | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήραν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">προσήλυτος</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| native born | <big><span class="asgreek">αυτόχθων</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
-| were \[there\]; | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| halves | <big><span class="asgreek">ημίσεις</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| neighboring | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Gerizim, | <big><span class="asgreek">Γαριζίν</span></big> <sup><small><small>[[H1630]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| halves | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| neighboring | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Ebal, | <big><span class="asgreek">Γαιβάλ</span></big> <sup><small><small>[[H5858c]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| attendant | <big><span class="asgreek">θεράπων</span></big> <sup><small><small>[[G2324]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to bless | <big><span class="asgreek">ευλογήσαι</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their elders, | **<big>[[G4245\|πρεσβύτεροι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their magistrates, | **<big>[[G1348\|δικασταί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their scribes, | **<big>[[G1122\|γραμματείς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[were\] coming near | **<big>[[G3899\|παρεπορεύοντο]]</big>** |
+| on this side and that side | **<big>[[G6033\|ένθεν]]</big>** **<big>[[G2532\|και]]</big>** **<big>[[G6033\|ένθεν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| lifted | **<big>[[G0142\|ήραν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark | **<big>[[G2787\|κιβωτόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner | **<big>[[G4339\|προσήλυτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| native born | **<big>[[G6611\|αυτόχθων]]</big>** |
+| were \[there\]; | **<big>[[G1510\|ήσαν]]</big>** |
+| the | **<big>[[G3739\|οι]]</big>** |
+| halves | **<big>[[G2255\|ημίσεις]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| neighboring | **<big>[[G1909\|επι]]</big>** **<big>[[G4139\|πλησίον]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Gerizim, | **<big>[[H1630\|Γαριζίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3739\|οι]]</big>** |
+| halves | **<big>[[G2255\|ήμισυ]]</big>** |
+| neighboring | **<big>[[G1909\|επι]]</big>** **<big>[[G4139\|πλησίον]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Ebal, | **<big>[[H5858c\|Γαιβάλ]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| attendant | **<big>[[G2324\|θεράπων]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to bless | **<big>[[G2127\|ευλογήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| first | **<big>[[G4413\|πρώτοις]]</big>** |
 [[Josh.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.32|<< Joshua 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.34|Joshua 8:34 >>]]</td></tr></table>
 
 

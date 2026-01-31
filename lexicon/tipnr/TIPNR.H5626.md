@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sirah</span>, also called the Cistern of Sirah, was a place near Hebron where Joab killed Abner in revenge for the death of his brother Asahel \(2 Sam. 3:26\).
 - A location first mentioned at [[2Sam.3.26|2Sa.3.26]]; 
-- referred to as Sirah<[[H5626]]> \(<span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or "cistern of Sirah" <[[H0953B]]><[[H5626]]> \(<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\)
+- referred to as Sirah **<big>[[H5626|סִרָה]]</big>**, or "cistern of Sirah"  **<big>[[H0953|בּוֹר]]</big>** **<big>[[H5626|סִרָה]]</big>**
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.55,35.1&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ David, who had not authorized Abner's murder, mourned his death and publicly cur
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sirah | [<span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5626) <small>*Hebrew*</small> | 1x | [2Sa.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sirah\*\|reference=2Sa.3.26) |
-| cistern of Sirah | [<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H0953B)[<span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5626) <small>*Hebrew*</small> | 1x | [2Sa.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sirah\*\|reference=2Sa.3.26) |
-All Strong's for **Sirah or Cistern of Sirah**: \[[[H5626]]\] \[[[H0953B]]\]
+| Sirah | [<span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5626) | 1x | [2Sa.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sirah\*\|reference=2Sa.3.26) |
+| cistern of Sirah | [<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H0953B)[<span class='tipnrLangHebrew'>ס</span>ִּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5626) | 1x | [2Sa.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sirah\*\|reference=2Sa.3.26) |
+All entries for **Sirah or Cistern of Sirah**:  **<big>[[H5626|סִרָה]]</big>** ☩  **<big>[[H0953|בּוֹר]]</big>**

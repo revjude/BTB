@@ -6,15 +6,15 @@ So mankind will be brought low, and each man humbled; the arrogant will lower th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.14|<< Isaiah 5:14]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.16|Isaiah 5:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he has been humbled  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשַּׁ֥ח </big></span><small><small><sup>[[H7817]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Shach <small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everyone  | <span class="ashebrew"><big>אָדָ֖ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has become low  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁפַּל </big></span><small><small><sup>[[H8213]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.pal- <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everyone  | <span class="ashebrew"><big>אִ֑ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] eyes of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵינֵ֥י </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| proud [people]  | <span class="ashebrew"><big>גְבֹהִ֖ים </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ge.vo.Him <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will become low  | <span class="ashebrew"><big>תִּשְׁפַּֽלְנָה </big></span><small><small><sup>[[H8213]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.Pal.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has been humbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7817\|יִּשַּׁ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Shach<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has become low  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8213\|יִּשְׁפַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.pal-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  |**<big>&#8207;[[H0376I\|אִ֑ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] eyes of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| proud [people]  |**<big>&#8207;[[H1364\|גְבֹהִ֖ים]]&#8207; </big>**| ge.vo.Him<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will become low  |**<big>&#8207;[[H8213\|תִּשְׁפַּֽלְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.Pal.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.14|<< Isaiah 5:14]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.16|Isaiah 5:16 >>]]</td></tr></table>
 
 

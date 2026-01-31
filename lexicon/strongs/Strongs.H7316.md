@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רוּמָה‎</span></big> **Rûwmâh** <small>*(roo-maw')*</small> ==**Dumah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>; height</small>
+**<big><span class="ashebrew">‎רוּמָה‎</span></big>** **Rûwmâh** <small>*(roo-maw')*</small> ==**Dumah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7311|‎רוּם‎]]</big>**; height</small>
 
 $\quad$ Rumah.
 - § Rumah = *"height"*

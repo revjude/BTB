@@ -14,54 +14,54 @@ Now these [are] the names of the tribes. From the north end to the coast of the 
 > $\quad$ referenced by: [[Rev.21.2|Rev 21:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| descent | <big><span class="asgreek">καταβάσεως</span></big> <sup><small><small>[[G2600]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| splitting | <big><span class="asgreek">περισχίζοντος</span></big> <sup><small><small>[[G8765]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrance | <big><span class="asgreek">είσοδον</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hamath, | <big><span class="asgreek">Ημάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| \[the\] courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Enan, | <big><span class="asgreek">Αιμώμ</span></big> <sup><small><small>[[H5881]]</small></small></sup> |
-| \[the\] border | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Damascus | <big><span class="asgreek">Δαμασκού</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of Hamath's | <big><span class="asgreek">Ημάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| courtyard; | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| theirs | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[parts\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] west -- | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| for Dan, | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| one \[portion\]. | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tribes | **<big>[[G5443\|φυλών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| top | **<big>[[G0746\|αρχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορράν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| part | **<big>[[G3313\|μέρος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| descent | **<big>[[G2600\|καταβάσεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| splitting | **<big>[[G8765\|περισχίζοντος]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| entrance | **<big>[[G1529\|είσοδον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Hamath, | **<big>[[H2574\|Ημάθ]]</big>** |
+| \[the\] courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Enan, | **<big>[[H5881\|Αιμώμ]]</big>** |
+| \[the\] border | **<big>[[G3725\|όριον]]</big>** |
+| of Damascus | **<big>[[G1154\|Δαμασκού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north | **<big>[[G1005\|βορράν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] part | **<big>[[G3313\|μέρος]]</big>** |
+| of Hamath's | **<big>[[H2574\|Ημάθ]]</big>** |
+| courtyard; | **<big>[[G0833\|αυλής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| theirs | **<big>[[G1473\|αυτοίς]]</big>** |
+| the \[parts\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] west -- | **<big>[[G2281\|θάλασσαν]]</big>** |
+| for Dan, | **<big>[[H1835\|Δαν]]</big>** |
+| one \[portion\]. | **<big>[[G1520\|μία]]</big>** |
 [[Ezek.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.23|<< Ezekiel 47:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.2|Ezekiel 48:2 >>]]</td></tr></table>
 
 

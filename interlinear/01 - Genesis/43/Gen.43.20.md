@@ -6,16 +6,16 @@ And said, O sir, we came indeed down at the first time to buy food:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.19|<< Genesis 43:19]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.21|Genesis 43:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמְר֖וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.me.Ru <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pardon us  | <span class="ashebrew"><big>בִּ֣י </big></span><small><small><sup>[[H0994]]</sup></small></small> &#8207;| bi <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O lord my  | <span class="ashebrew"><big>אֲדֹנִ֑ </big></span><small><small><sup>[[H0113]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.do.N <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to come down>  | <span class="ashebrew"><big>יָרֹ֥ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.Rod <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we came down  | <span class="ashebrew"><big>יָרַ֛דְנוּ </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.Rad.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at the beginning  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תְּחִלָּ֖ה </big></span><small><small><sup>[[H8462]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> te.chi.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to buy  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁבָּר </big></span><small><small><sup>[[H7666]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.bor- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>אֹֽכֶל </big></span><small><small><sup>[[H0400]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'O.khel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pardon us  |**<big>&#8207;[[H0994\|בִּ֣י]]&#8207; </big>**| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to come down>  |**<big>&#8207;[[H3381\|יָרֹ֥ד]]&#8207; </big>**| ya.Rod<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we came down  |**<big>&#8207;[[H3381\|יָרַ֛דְנוּ]]&#8207; </big>**| ya.Rad.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the beginning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8462\|תְּחִלָּ֖ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> te.chi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to buy  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7666\|שְׁבָּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.bor-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H0400\|אֹֽכֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.19|<< Genesis 43:19]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.21|Genesis 43:21 >>]]</td></tr></table>
 
 

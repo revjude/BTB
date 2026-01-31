@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲנוֹךְ‎</span></big> **Chănôwk** <small>*(khan-oke')*</small> ==**Enoch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַךְ‎</span><sup><small>[[H2596]]</small></sup>; initiated</small>
+**<big><span class="ashebrew">‎חֲנוֹךְ‎</span></big>** **Chănôwk** <small>*(khan-oke')*</small> ==**Enoch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2596|‎חָנַךְ‎]]</big>**; initiated</small>
 
 $\quad$ Enoch.
 - § Hanoch = *"dedicated"*
@@ -14,4 +14,4 @@ n pr m
 **4)** a son of Midian, the third child
 **5)** the eldest son of Reuben
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐνώχ</span><sup><small>[[G1802]]</small></sup>
+<small>See Greek: </small>**<big>[[G1802|Ἐνώχ]]</big>**

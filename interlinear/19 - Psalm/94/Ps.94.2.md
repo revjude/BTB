@@ -6,15 +6,15 @@ Rise up, O Judge of the earth; render a reward to the proud.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.1|<< Psalms 94:1]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.3|Psalms 94:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| raise yourself up  | <span class="ashebrew"><big>הִ֭נָּשֵׂא </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| Hi.na.se' <small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O judge of  | <span class="ashebrew"><big>שֹׁפֵ֣ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| sho.Fet <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| repay  | <span class="ashebrew"><big>הָשֵׁ֥ב </big></span><small><small><sup>[[H7725K]]</sup></small></small> &#8207;| ha.Shev <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| recompense  | <span class="ashebrew"><big>גְּ֝מ֗וּל </big></span><small><small><sup>[[H1576]]</sup></small></small> &#8207;| ge.Mul <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| proud [people]  | <span class="ashebrew"><big>גֵּאִֽים </big></span><small><small><sup>[[H1343]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ge.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| raise yourself up  |**<big>&#8207;[[H5375G\|הִ֭נָּשֵׂא]]&#8207; </big>**| Hi.na.se'<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O judge of  |**<big>&#8207;[[H8199\|שֹׁפֵ֣ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| repay  |**<big>&#8207;[[H7725K\|הָשֵׁ֥ב]]&#8207; </big>**| ha.Shev<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recompense  |**<big>&#8207;[[H1576\|גְּ֝מ֗וּל]]&#8207; </big>**| ge.Mul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| proud [people]  |**<big>&#8207;[[H1343\|גֵּאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.1|<< Psalms 94:1]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.3|Psalms 94:3 >>]]</td></tr></table>
 
 

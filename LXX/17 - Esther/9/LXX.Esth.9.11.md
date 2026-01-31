@@ -7,16 +7,16 @@ On that day the number of those that were slain in Shushan the palace was brough
 On that day the number of those killed in the citadel of Susa was reported to the king,<small><sub>**MT:**</sub></small>
 [[Esth.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.10|<< Esther 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.12|Esther 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And was given | <big><span class="asgreek">επεδόθη</span></big> <sup><small><small>[[G1929]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being destroyed | <big><span class="asgreek">απολωλότων</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shushan. | <big><span class="asgreek">Σούσοις</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
+| And was given | **<big>[[G1929\|επεδόθη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμός]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones being destroyed | **<big>[[G0622\|απολωλότων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shushan. | **<big>[[H7800\|Σούσοις]]</big>** |
 [[Esth.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.10|<< Esther 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.12|Esther 9:12 >>]]</td></tr></table>
 
 

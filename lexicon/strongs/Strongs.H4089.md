@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַדְמַנָּה‎</span></big> **Madmannâh** <small>*(mad-man-naw')*</small> ==**Madmannah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎מַדְמֵנָה‎</span><sup><small>[[H4087]]</small></sup></small>
+**<big><span class="ashebrew">‎מַדְמַנָּה‎</span></big>** **Madmannâh** <small>*(mad-man-naw')*</small> ==**Madmannah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a variation for **<big>[[H4087|‎מַדְמֵנָה‎]]</big>**</small>
 
 $\quad$ Madmannah.
 - § Madmannah = *"dunghill"*

@@ -6,15 +6,15 @@ The son of Shammai was Maon, and Maon was the father of Beth-zur.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.44|<< 1 Chronicles 2:44]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.46|1 Chronicles 2:46 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] son of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shammai  | <span class="ashebrew"><big>שַׁמַּ֖י </big></span><small><small><sup>[[H8060H]]</sup></small></small> &#8207;| sha.Mai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Maon  | <span class="ashebrew"><big>מָע֑וֹן </big></span><small><small><sup>[[H4584H]]</sup></small></small> &#8207;| ma.'on <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Maon  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָע֖וֹן </big></span><small><small><sup>[[H4584H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.'on <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] father of  | <span class="ashebrew"><big>אֲבִ֥י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵֽית </big></span><small><small><sup>[[H1049]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| veit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zur  | <span class="ashebrew"><big>צֽוּר </big></span><small><small><sup>[[H1049]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Tzur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shammai  |**<big>&#8207;[[H8060H\|שַׁמַּ֖י]]&#8207; </big>**| sha.Mai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Maon  |**<big>&#8207;[[H4584H\|מָע֑וֹן]]&#8207; </big>**| ma.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Maon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4584H\|מָע֖וֹן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֥י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1049\|בֵֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zur  |**<big>&#8207;[[H1049\|צֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tzur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.44|<< 1 Chronicles 2:44]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.46|1 Chronicles 2:46 >>]]</td></tr></table>
 
 

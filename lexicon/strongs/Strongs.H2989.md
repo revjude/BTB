@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָבָל‎</span></big> **Yâbâl** <small>*(yaw-bawl')*</small> ==**Jabal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יָבָל‎</span><sup><small>[[H2988]]</small></sup></small>
+**<big><span class="ashebrew">‎יָבָל‎</span></big>** **Yâbâl** <small>*(yaw-bawl')*</small> ==**Jabal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2988|‎יָבָל‎]]</big>**</small>
 
 $\quad$ Jabal.
 - § Jabal = *"stream of water"*

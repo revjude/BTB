@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּקַע‎</span></big> **bâqaʻ** <small>*(baw-kah')*</small> ==**to break up/open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּקַע‎</span></big>** **bâqaʻ** <small>*(baw-kah')*</small> ==**to break up/open**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make a breach, break forth (into, out, in pieces, through, up), be ready to burst, cleave (asunder), cut out, divide, hatch, rend (asunder), rip up, tear, win.
@@ -25,4 +25,4 @@ $\quad$ $\quad$ **1e2)** to break through
 $\quad$ **1f)** (Hophal) to be broken into
 $\quad$ **1g)** (Hithpael) to burst (themselves) open, cleave asunder
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνοίγω</span><sup><small>[[G0455]]</small></sup> · <span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">διασπάω</span><sup><small>[[G1288]]</small></sup> · <span class="asgreek">εὑρίσκω</span><sup><small>[[G2147]]</small></sup> · <span class="asgreek">καταδυναστεύω</span><sup><small>[[G2616]]</small></sup> · <span class="asgreek">ῥήγνυμι</span><sup><small>[[G4486]]</small></sup> · <span class="asgreek">σχίζω</span><sup><small>[[G4977]]</small></sup> · <span class="asgreek">τήκω</span><sup><small>[[G5080]]</small></sup>
+<small>See Greek: </small>**<big>[[G0455|ἀνοίγω]]</big>** · **<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G1288|διασπάω]]</big>** · **<big>[[G2147|εὑρίσκω]]</big>** · **<big>[[G2616|καταδυναστεύω]]</big>** · **<big>[[G4486|ῥήγνυμι]]</big>** · **<big>[[G4977|σχίζω]]</big>** · **<big>[[G5080|τήκω]]</big>**

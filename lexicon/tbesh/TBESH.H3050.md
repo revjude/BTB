@@ -1,6 +1,5 @@
-<span class="ashebrew">‎יָהּ‎</span> <small>***(yah)***</small> ==**LORD**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H3068G]]</small> 
+<small>name of:</small> <small>**<big>[[H3068G|יְהֹוָה]]</big>**</small> 
 
 
-- A shortened form of the  name  <i>ye.ho.vah</i> (<span class='ashebrew'>‎יהוה‎</span> "LORD" [[H3068]])
+- A shortened form of the  name  <i>ye.ho.vah</i> (<span class='ashebrew'>‎יהוה‎</span> "LORD" **<big>[[H3068|יְהֹוָה]]</big>**)
 -  used in many compounds as  the letters 'Je'  or 'jah'

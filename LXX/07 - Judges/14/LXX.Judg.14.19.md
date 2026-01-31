@@ -7,44 +7,44 @@ And the Spirit of the LORD came upon him, and he went down to Ashkelon, and slew
 Then the Spirit of the LORD came mightily upon him, and he went down to Ashkelon, killed thirty of their men, took their apparel, and gave their clothes to those who had solved the riddle. And burning with anger, Samson returned to his father’s house,<small><sub>**MT:**</sub></small>
 [[Judg.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.18|<< Judges 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.20|Judges 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| straightened | <big><span class="asgreek">κατεύθυνεν</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ashkelon, | <big><span class="asgreek">Ασκάλωνα</span></big> <sup><small><small>[[H0831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| smote | <big><span class="asgreek">έπαισεν</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their robes, | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave \[them\] | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| explaining | <big><span class="asgreek">απαγγείλασι</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riddle. | <big><span class="asgreek">πρόβλημα</span></big> <sup><small><small>[[G8892]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was enraged | <big><span class="asgreek">εθυμώθη</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| in anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| straightened | **<big>[[G2720\|κατεύθυνεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went down | **<big>[[G2597\|κατέβη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Ashkelon, | **<big>[[H0831\|Ασκάλωνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| smote | **<big>[[G3817\|έπαισεν]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their robes, | **<big>[[G4749\|στολάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave \[them\] | **<big>[[G1325\|έδωκε]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| explaining | **<big>[[G0518\|απαγγείλασι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| riddle. | **<big>[[G8892\|πρόβλημα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was enraged | **<big>[[G2373\|εθυμώθη]]</big>** |
+| in anger | **<big>[[G3709\|οργή]]</big>** |
+| Samson | **<big>[[G4546\|Σαμψών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.18|<< Judges 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.20|Judges 14:20 >>]]</td></tr></table>
 
 

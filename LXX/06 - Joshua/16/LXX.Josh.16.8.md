@@ -7,33 +7,33 @@ The border went out from Tappuah westward unto the river Kanah; and the goings o
 From Tappuah the border went westward to the Brook of Kanah and ended at the Sea. This was the inheritance of the clans of the tribe of Ephraim,<small><sub>**MT:**</sub></small>
 [[Josh.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Tappuah | <big><span class="asgreek">Θαπφουέ</span></big> <sup><small><small>[[H8599b]]</small></small></sup> |
-| will go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-|  | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| west | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] rushing stream | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Kanah; | <big><span class="asgreek">Χανά</span></big> <sup><small><small>[[H7071]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| This \[is\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their peoples. | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Tappuah | **<big>[[H8599b\|Θαπφουέ]]</big>** |
+| will go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+|  | **<big>[[G1909\|επί]]</big>** |
+| west | **<big>[[G2281\|θάλασσαν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] rushing stream | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| Kanah; | **<big>[[H7071\|Χανά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its outer reaches | **<big>[[G1327\|διέξοδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] sea. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| This \[is\] | **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομία]]</big>** |
+| of \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their peoples. | **<big>[[G1218\|δήμους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
 
 

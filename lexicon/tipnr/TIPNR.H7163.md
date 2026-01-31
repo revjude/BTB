@@ -4,9 +4,9 @@ Woman living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Keren-happuch</span> was the name of Job's third daughter, born to him after God restored his fortunes.
 - A woman living at the time of the Patriarchs, only mentioned at [[Job.42.14|Job.42.14]]; 
-- only referred to as Keren-happuch<[[H7163]]> \(<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ך</span>ְ\); 
--  daughter of Job<[[H0347]]>; 
-- a sister of Jemimah<[[H3224]]> and Keziah<[[H7103]]>.
+- only referred to as Keren-happuch **<big>[[H7163|קֶרֶן הַפּוּךְ]]</big>**; 
+-  daughter of Job **<big>[[H0347|אִיּוֹב]]</big>**; 
+- a sister of Jemimah **<big>[[H3224|יְמִימָה]]</big>** and Keziah **<big>[[H7103|קְצִיעָה]]</big>**.
 
 Keren-happuch is mentioned in [[Job.42.14|Job 42:14]] as the name of Job's third daughter, born to him after God restored his fortunes. The name Keren-happuch means "horn of antimony," which was a cosmetic used for beautifying the eyes. 
 
@@ -18,8 +18,8 @@ The mention of Keren-happuch and her sisters highlights the completeness of Job'
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Keren-happuch | [<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ך</span>ְ](H7163) <small>*Hebrew*</small> | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keren\*\|reference=Job.42.14) |
-All Strong's for **Keren-happuch**: \[[[H7163]]\]
+| Keren-happuch | [<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ך</span>ְ](H7163) | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keren\*\|reference=Job.42.14) |
+All entries for **Keren-happuch**:  **<big>[[H7163|קֶרֶן הַפּוּךְ]]</big>**
 #### Related Profiles:
 - **[Job](H0347)** (father)
 - **[Jemimah](H3224)** (sibling)

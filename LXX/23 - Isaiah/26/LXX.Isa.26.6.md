@@ -7,16 +7,16 @@ The foot shall tread it down, [even] the feet of the poor, [and] the steps of th
 Feet trample it down—the feet of the oppressed, the steps of the poor.<small><sub>**MT:**</sub></small>
 [[Isa.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.5|<< Isaiah 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.7|Isaiah 26:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will tread | <big><span class="asgreek">πατήσουσιν</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| gentle | <big><span class="asgreek">πραέων</span></big> <sup><small><small>[[G4239]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of humble | <big><span class="asgreek">ταπεινών</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| rostrums. | <big><span class="asgreek">βήματα</span></big> <sup><small><small>[[G0968]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will tread | **<big>[[G3961\|πατήσουσιν]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| feet | **<big>[[G4228\|πόδες]]</big>** |
+| gentle | **<big>[[G4239\|πραέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of humble | **<big>[[G5011\|ταπεινών]]</big>** |
+| rostrums. | **<big>[[G0968\|βήματα]]</big>** |
 [[Isa.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.5|<< Isaiah 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.7|Isaiah 26:7 >>]]</td></tr></table>
 
 

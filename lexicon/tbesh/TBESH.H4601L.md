@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מַעֲכָה‎</span> <small>***(ma.a.khah)***</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A womanof the tribe of Judah  living at the time of Divided Monarchy, only mentioned at [[1Chr.2.48|1Ch.2.48]] married to Caleb ([[H3612H]])
--  mother of: Sheber ([[H7669]]), Tirhanah ([[H8647]]), Shaaph ([[H8174H]]), Sheva ([[H7724]])
+- A womanof the tribe of Judah  living at the time of Divided Monarchy, only mentioned at [[1Chr.2.48|1Ch.2.48]] married to Caleb (**<big>[[H3612H|כָּלֵב]]</big>**)
+-  mother of: Sheber (**<big>[[H7669|שֶׁבֶר]]</big>**), Tirhanah (**<big>[[H8647|תִּרְחֲנָה]]</big>**), Shaaph (**<big>[[H8174H|שַׁעַף]]</big>**), Sheva (**<big>[[H7724|שְׁוָא]]</big>**)
 - concubine of Caleb the son of Hezron

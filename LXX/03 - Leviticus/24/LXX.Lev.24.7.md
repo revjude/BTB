@@ -7,26 +7,26 @@ And thou shalt put pure frankincense upon [each] row, that it may be on the brea
 And you are to place pure frankincense near each row, so that it may serve as a memorial portion for the bread, a food offering to the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.6|<< Leviticus 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.8|Leviticus 24:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall place | <big><span class="asgreek">επιθήσετε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">θέμα</span></big> <sup><small><small>[[G7651]]</small></small></sup> |
-| frankincense | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| salt; | <big><span class="asgreek">άλας</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| remembrance | <big><span class="asgreek">ανάμνησιν</span></big> <sup><small><small>[[G0364]]</small></small></sup> |
-| being situated before | <big><span class="asgreek">προκείμενα</span></big> <sup><small><small>[[G4295]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall place | **<big>[[G2007\|επιθήσετε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| place | **<big>[[G7651\|θέμα]]</big>** |
+| frankincense | **<big>[[G3030\|λίβανον]]</big>** |
+| pure | **<big>[[G2513\|καθαρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| salt; | **<big>[[G0251\|άλας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| remembrance | **<big>[[G0364\|ανάμνησιν]]</big>** |
+| being situated before | **<big>[[G4295\|προκείμενα]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Lev.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.6|<< Leviticus 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.8|Leviticus 24:8 >>]]</td></tr></table>
 
 

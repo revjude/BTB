@@ -1,4 +1,4 @@
-group of: <small>[[H3120G]]</small> 
+group of: <small>**<big>[[H3120G|יָוָן]]</big>**</small> 
 
 
 1. <i>feminine</i> of <span class='asgreek'>Ἕλλην</span>, attic. 

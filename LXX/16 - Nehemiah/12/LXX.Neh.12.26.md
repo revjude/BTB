@@ -7,28 +7,28 @@ These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and i
 They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe.<small><sub>**MT:**</sub></small>
 [[Neh.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Joiakim | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3113]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeshua, | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jozadak, | <big><span class="asgreek">Ιωσεδέκ</span></big> <sup><small><small>[[H3136b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Nehemiah | <big><span class="asgreek">Νεεμία</span></big> <sup><small><small>[[H5166]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler, | <big><span class="asgreek">άρχοντος</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezra | <big><span class="asgreek">Έσδρας</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scribe. | <big><span class="asgreek">γραμματέως</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
+| These | **<big>[[G3778\|ούτοι]]</big>** |
+| \[were\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Joiakim | **<big>[[H3113\|Ιωακείμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jeshua, | **<big>[[G2424\|Ιησού]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jozadak, | **<big>[[H3136b\|Ιωσεδέκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Nehemiah | **<big>[[H5166\|Νεεμία]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ruler, | **<big>[[G0758\|άρχοντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ezra | **<big>[[H5831\|Έσδρας]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scribe. | **<big>[[G1122\|γραμματέως]]</big>** |
 [[Neh.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
 

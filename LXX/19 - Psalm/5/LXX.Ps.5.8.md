@@ -7,22 +7,22 @@ Lead me, O LORD, in thy righteousness because of mine enemies; make thy way stra
 Lead me, O LORD, in Your righteousness because of my enemies; make straight Your way before me.<small><sub>**MT:**</sub></small>
 [[Ps.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.7|<< Psalm 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.9|Psalm 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| guide | <big><span class="asgreek">οδήγησόν</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your righteousness, | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies! | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Straighten out | <big><span class="asgreek">κατεύθυνον</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| guide | **<big>[[G3594\|οδήγησόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your righteousness, | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| because of | **<big>[[G1752\|ένεκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my enemies! | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Straighten out | **<big>[[G2720\|κατεύθυνον]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my way | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.7|<< Psalm 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.9|Psalm 5:9 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּנִי‎</span></big> **Bânîy** <small>*(baw-nee')*</small> ==**Bani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup>; built</small>
+**<big><span class="ashebrew">‎בָּנִי‎</span></big>** **Bânîy** <small>*(baw-nee')*</small> ==**Bani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1129|‎בָּנָה‎]]</big>**; built</small>
 
 $\quad$ Bani.
 - § Bani = *"built"*

@@ -7,27 +7,27 @@ The portion of Jacob [is] not like them: for he [is] the former of all [things];
 The Portion of Jacob is not like these, for He is the Maker of all things, and Israel is the tribe of His inheritance—the LORD of Hosts is His name.<small><sub>**MT:**</sub></small>
 [[Jer.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.15|<< Jeremiah 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.17|Jeremiah 10:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Such | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shaping | <big><span class="asgreek">πλάσας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| is he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[is the\] rod | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of his inheritance -- | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of forces | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \[is\] his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| Such | **<big>[[G5108\|τοιαύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| shaping | **<big>[[G4111\|πλάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάντα]]</big>** |
+| is he, | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[is the\] rod | **<big>[[G4464\|ράβδος]]</big>** |
+| of his inheritance -- | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of forces | **<big>[[G1411\|δυνάμεων]]</big>** |
+| \[is\] his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
 [[Jer.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.15|<< Jeremiah 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.17|Jeremiah 10:17 >>]]</td></tr></table>
 
 

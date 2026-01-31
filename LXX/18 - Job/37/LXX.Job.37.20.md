@@ -7,17 +7,17 @@ Shall it be told him that I speak? if a man speak, surely he shall be swallowed 
 Should He be told that I want to speak? Would a man ask to be swallowed up?<small><sub>**MT:**</sub></small>
 [[Job.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.19|<< Job 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.21|Job 37:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Is there | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| a book | <big><span class="asgreek">βίβλος</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| scribe | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| standing beside me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">παρέστηκεν</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστηκώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| I should quell | <big><span class="asgreek">κατασιωπήσω</span></big> <sup><small><small>[[G7917]]</small></small></sup> |
+| Is there | **<big>[[G3361\|μη]]</big>** |
+| a book | **<big>[[G0976\|βίβλος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| scribe | **<big>[[G1122\|γραμματεύς]]</big>** |
+| standing beside me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G3936\|παρέστηκεν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| standing | **<big>[[G2476\|εστηκώς]]</big>** |
+| I should quell | **<big>[[G7917\|κατασιωπήσω]]</big>** |
 [[Job.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.19|<< Job 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.21|Job 37:21 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And Jacob sent and called Rachel and Leah to the field unto his flock,
 So Jacob sent word and called Rachel and Leah to the field where his flocks were,<small><sub>**MT:**</sub></small>
 [[Gen.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.3|<< Genesis 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.5|Genesis 31:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sending | <big><span class="asgreek">αποστείλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| Leah | <big><span class="asgreek">Λείαν</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
+| sending | **<big>[[G0649\|αποστείλας]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| Leah | **<big>[[H3812\|Λείαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plain | **<big>[[G8676\|πεδίον]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| were | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| flocks | **<big>[[G4168\|ποίμνια]]</big>** |
 [[Gen.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.3|<< Genesis 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.5|Genesis 31:5 >>]]</td></tr></table>
 
 

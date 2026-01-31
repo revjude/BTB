@@ -7,17 +7,17 @@ Great peace have they which love thy law: and nothing shall offend them.
 Abundant peace belongs to those who love Your law; nothing can make them stumble.<small><sub>**MT:**</sub></small>
 [[Ps.119.165|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.164|<< Psalm 119:164]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.166|Psalm 119:166 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| Great | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \[is\] to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώσι</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law, | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| obstacle to them. | <big><span class="asgreek">αυτοις</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σκάνδαλον</span></big> <sup><small><small>[[G4625]]</small></small></sup> |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| Great | **<big>[[G4183\|πολλή]]</big>** |
+| \[is\] to the ones | **<big>[[G3588\|τοις]]</big>** |
+| loving | **<big>[[G0025\|αγαπώσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your law, | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| obstacle to them. | **<big>[[G1473\|αυτοις]]</big>** **<big>[[G4625\|σκάνδαλον]]</big>** |
 [[Ps.119.165|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.164|<< Psalm 119:164]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.166|Psalm 119:166 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ I [am] a companion of all [them] that fear thee, and of them that keep thy prece
 I am a friend to all who fear You, and to those who keep Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.62|<< Psalm 119:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.64|Psalm 119:64 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a partner | <big><span class="asgreek">μέτοχος</span></big> <sup><small><small>[[G3353]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένων</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| keeping | <big><span class="asgreek">φυλασσόντων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments. | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a partner | **<big>[[G3353\|μέτοχος]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένων]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| keeping | **<big>[[G5442\|φυλασσόντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments. | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.62|<< Psalm 119:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.64|Psalm 119:64 >>]]</td></tr></table>
 
 

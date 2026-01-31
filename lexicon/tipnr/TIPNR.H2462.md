@@ -1,8 +1,8 @@
 <small>*Helbah • Canaanite town not conquered by the tribe of Asher*</small>
 
 <span class='tipnrhighlight'>Helbah</span> was a Canaanite town that the tribe of Asher failed to conquer during the period of the judges \(Judg 1:31\).
-- A location near Aphek<[[H0663H]]> only mentioned at [[Judg.1.31|Jdg.1.31]]; 
-- only referred to as Helbah<[[H2462]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Aphek **<big>[[H0663|אֲפֵק]]</big>** only mentioned at [[Judg.1.31|Jdg.1.31]]; 
+- only referred to as Helbah **<big>[[H2462|חֶלְבָּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.066067,35.865801&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Helbah was a Canaanite town mentioned in [[Judg.1.31|Judges 1:31]] as one of the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Helbah | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2462) <small>*Hebrew*</small> | 1x | [Jdg.1.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helbah\*\|reference=Jdg.1.31) |
-All Strong's for **Helbah**: \[[[H2462]]\]
+| Helbah | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2462) | 1x | [Jdg.1.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helbah\*\|reference=Jdg.1.31) |
+All entries for **Helbah**:  **<big>[[H2462|חֶלְבָּה]]</big>**

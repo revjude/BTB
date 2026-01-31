@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָדַי‎</span></big> **Mâday** <small>*(maw-dah'-ee)*</small> ==**Madai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎מָדַי‎</span></big>** **Mâday** <small>*(maw-dah'-ee)*</small> ==**Madai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Madai, Medes, Media.
@@ -10,4 +10,4 @@ n pr m
 n pr loc
 **2)** land inhabited by the descendants of Japheth; located northwest of Persia proper, south and southwest of the Caspian Sea, east of Armenia and Assyria, and west and northwest of the great salt desert of Iram
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Μῆδος</span><sup><small>[[G3370]]</small></sup>
+<small>See Greek: </small>**<big>[[G3370|Μῆδος]]</big>**

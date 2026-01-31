@@ -10,32 +10,32 @@ And if his oblation [be] a sacrifice of peace offering, if he offer [it] of the 
 “If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.16|<< Leviticus 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.2|Leviticus 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[be a\] sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[and\] if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| then | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he should bring \[it\]; | <big><span class="asgreek">προσαγάγη</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| indeed | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| a male, | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| \[and\] if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| indeed | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| a female, | <big><span class="asgreek">θήλυ</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| he shall bring | <big><span class="asgreek">προσάξει</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[be a\] sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| of deliverance | **<big>[[G4992\|σωτηρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift \[offering\] | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| \[and\] if | **<big>[[G1437\|εάν]]</big>** |
+| then | **<big>[[G3303\|μεν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his oxen | **<big>[[G1016\|βοών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he should bring \[it\]; | **<big>[[G4317\|προσαγάγη]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| indeed | **<big>[[G5037\|τε]]</big>** |
+| a male, | **<big>[[G0730\|άρσεν]]</big>** |
+| \[and\] if | **<big>[[G1437\|εάν]]</big>** |
+| indeed | **<big>[[G5037\|τε]]</big>** |
+| a female, | **<big>[[G2338\|θήλυ]]</big>** |
+| unblemished | **<big>[[G0299\|άμωμον]]</big>** |
+| he shall bring | **<big>[[G4317\|προσάξει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Lev.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.16|<< Leviticus 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.2|Leviticus 3:2 >>]]</td></tr></table>
 
 

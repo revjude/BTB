@@ -6,15 +6,15 @@ The sacrifice of the wicked is detestable to the LORD, but the prayer of the upr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.7|<< Proverbs 15:7]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.9|Proverbs 15:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sacrifice of  | <span class="ashebrew"><big>זֶ֣בַח </big></span><small><small><sup>[[H2077]]</sup></small></small> &#8207;| Ze.vach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֭שָׁעִים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Re.sha.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] abomination of  | <span class="ashebrew"><big>תּוֹעֲבַ֣ת </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| to.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is the] prayer of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְפִלַּ֖ת </big></span><small><small><sup>[[H8605]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.fi.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright [people]  | <span class="ashebrew"><big>יְשָׁרִ֣ים </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ye.sha.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| delight his  | <span class="ashebrew"><big>רְצוֹנֽ </big></span><small><small><sup>[[H7522]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.tzo.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֣ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is the] prayer of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8605\|תְפִלַּ֖ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.fi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֣ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| delight his  |**<big>&#8207;[[H7522\|רְצוֹנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.tzo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.7|<< Proverbs 15:7]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.9|Proverbs 15:9 >>]]</td></tr></table>
 
 

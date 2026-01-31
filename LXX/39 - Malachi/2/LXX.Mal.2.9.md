@@ -7,29 +7,29 @@ Therefore have I also made you contemptible and base before all the people, acco
 “So I in turn have made you despised and humiliated before all the people, because you have not kept My ways, but have shown partiality in matters of the law.”<small><sub>**MT:**</sub></small>
 [[Mal.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.8|<< Malachi 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.10|Malachi 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you \[over\] | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as ones being treated with contempt, | <big><span class="asgreek">εξουδενωμένους</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones being disregarded | <big><span class="asgreek">παρειμένους</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| among | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| guarded not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εφυλάξασθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| you took | <big><span class="asgreek">ελαμβάνετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| persons | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] law. | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| you \[over\] | **<big>[[G1473\|υμάς]]</big>** |
+| as ones being treated with contempt, | **<big>[[G1847\|εξουδενωμένους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones being disregarded | **<big>[[G3935\|παρειμένους]]</big>** |
+| among | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| guarded not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5442\|εφυλάξασθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| you took | **<big>[[G2983\|ελαμβάνετε]]</big>** |
+| persons | **<big>[[G4383\|πρόσωπα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] law. | **<big>[[G3551\|νόμω]]</big>** |
 [[Mal.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.8|<< Malachi 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.10|Malachi 2:10 >>]]</td></tr></table>
 
 

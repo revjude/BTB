@@ -7,36 +7,36 @@ My heart shall cry out for Moab; his fugitives [shall flee] unto Zoar, an heifer
 My heart cries out over Moab; her fugitives flee as far as Zoar, as far as Eglath-shelishiyah. With weeping they ascend the slope of Luhith; they lament their destruction on the road to Horonaim.<small><sub>**MT:**</sub></small>
 [[Isa.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.4|<< Isaiah 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.6|Isaiah 15:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[land of\] Moab | <big><span class="asgreek">Μωαβίτιδος</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| yells | <big><span class="asgreek">βοά</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Zoar; | <big><span class="asgreek">Σηγώρ</span></big> <sup><small><small>[[H6820]]</small></small></sup> |
-| heifer | <big><span class="asgreek">δάμαλις</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| it is \[as\] | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a three years \[old\] | <big><span class="asgreek">τριετής</span></big> <sup><small><small>[[G9484]]</small></small></sup> |
-| But upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascent | <big><span class="asgreek">αναβάσεως</span></big> <sup><small><small>[[G6273]]</small></small></sup> |
-| of Luhith | <big><span class="asgreek">Λουήθ</span></big> <sup><small><small>[[H3872]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαίοντες</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| they shall ascend | <big><span class="asgreek">αναβήσονται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Horonaim | <big><span class="asgreek">Αρωνιείμ</span></big> <sup><small><small>[[H2773]]</small></small></sup> |
-| she yells, | <big><span class="asgreek">βοά</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| Defeat | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| quaking. | <big><span class="asgreek">σεισμός</span></big> <sup><small><small>[[G4578]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| \[land of\] Moab | **<big>[[H4124\|Μωαβίτιδος]]</big>** |
+| yells | **<big>[[G0994\|βοά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Zoar; | **<big>[[H6820\|Σηγώρ]]</big>** |
+| heifer | **<big>[[G1151\|δάμαλις]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| it is \[as\] | **<big>[[G1510\|εστι]]</big>** |
+| a three years \[old\] | **<big>[[G9484\|τριετής]]</big>** |
+| But upon | **<big>[[G1909\|επί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ascent | **<big>[[G6273\|αναβάσεως]]</big>** |
+| of Luhith | **<big>[[H3872\|Λουήθ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| weeping | **<big>[[G2799\|κλαίοντες]]</big>** |
+| they shall ascend | **<big>[[G0305\|αναβήσονται]]</big>** |
+| by the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| of Horonaim | **<big>[[H2773\|Αρωνιείμ]]</big>** |
+| she yells, | **<big>[[G0994\|βοά]]</big>** |
+| Defeat | **<big>[[G4938\|σύντριμμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| quaking. | **<big>[[G4578\|σεισμός]]</big>** |
 [[Isa.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.4|<< Isaiah 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.6|Isaiah 15:6 >>]]</td></tr></table>
 
 

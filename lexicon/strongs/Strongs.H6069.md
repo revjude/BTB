@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַנְתֹתִי‎</span></big> **ʻAnthôthîy** <small>*(an-tho-thee')*</small> ==**Anathoth**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>or <span class="ashebrew">עַנְּתוֹתִי</span> **ʻAnnᵉthôwthîy** <small>*(an-ne-tho-thee')*</small>; patrial from <span class="ashebrew">‎עֲנָתוֹת‎</span><sup><small>[[H6068]]</small></sup></small>
+**<big><span class="ashebrew">‎עַנְתֹתִי‎</span></big>** **ʻAnthôthîy** <small>*(an-tho-thee')*</small> ==**Anathoth**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>or **<big><span class="ashebrew">עַנְּתוֹתִי</span></big>** **ʻAnnᵉthôwthîy** <small>*(an-ne-tho-thee')*</small>; patrial from **<big>[[H6068|‎עֲנָתוֹת‎]]</big>**</small>
 
 $\quad$ of Anathoth, Anethothite, Anetothite, Antothite.
 - § Anethothite = *see Anathoth "affliction"*

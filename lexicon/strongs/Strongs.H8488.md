@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּימְנִי‎</span></big> **Têymᵉnîy** <small>*(tay-men-ee')*</small> ==**Temeni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎תֵּימָנִי‎</span><sup><small>[[H8489]]</small></sup></small>
+**<big><span class="ashebrew">‎תֵּימְנִי‎</span></big>** **Têymᵉnîy** <small>*(tay-men-ee')*</small> ==**Temeni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H8489|‎תֵּימָנִי‎]]</big>**</small>
 
 $\quad$ Temeni.
 - § Temeni = *"southern"*

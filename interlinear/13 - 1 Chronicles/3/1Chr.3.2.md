@@ -6,20 +6,20 @@ the third was Absalom the son of Maacah daughter of King Talmai of Geshur; the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.1|<< 1 Chronicles 3:1]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.3|1 Chronicles 3:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the third  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁלִשִׁי֙ </big></span><small><small><sup>[[H7992]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.li.Shi <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Absalom  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אַבְשָׁל֣וֹם </big></span><small><small><sup>[[H0053]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'av.sha.Lom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Maacah  | <span class="ashebrew"><big>מַעֲכָ֔ה </big></span><small><small><sup>[[H4601I]]</sup></small></small> &#8207;| ma.'a.Khah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Talmai  | <span class="ashebrew"><big>תַּלְמַ֖י </big></span><small><small><sup>[[H8526H]]</sup></small></small> &#8207;| tal.Mai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Geshur  | <span class="ashebrew"><big>גְּשׁ֑וּר </big></span><small><small><sup>[[H1650]]</sup></small></small> &#8207;| ge.Shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the fourth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רְבִיעִ֖י </big></span><small><small><sup>[[H7243]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> re.vi.'I <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Adonijah  | <span class="ashebrew"><big>אֲדֹנִיָּ֥ה </big></span><small><small><sup>[[H0138G]]</sup></small></small> &#8207;| 'a.do.ni.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Haggith  | <span class="ashebrew"><big>חַגִּֽית </big></span><small><small><sup>[[H2294]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cha.Git <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִׁי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֣וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maacah  |**<big>&#8207;[[H4601I\|מַעֲכָ֔ה]]&#8207; </big>**| ma.'a.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Talmai  |**<big>&#8207;[[H8526H\|תַּלְמַ֖י]]&#8207; </big>**| tal.Mai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geshur  |**<big>&#8207;[[H1650\|גְּשׁ֑וּר]]&#8207; </big>**| ge.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּ֥ה]]&#8207; </big>**| 'a.do.ni.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haggith  |**<big>&#8207;[[H2294\|חַגִּֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Git<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.1|<< 1 Chronicles 3:1]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.3|1 Chronicles 3:3 >>]]</td></tr></table>
 
 

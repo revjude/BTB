@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶזְיוֹן‎</span></big> **Chezyôwn** <small>*(khez-yone')*</small> ==**Hezion**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup>; vision</small>
+**<big><span class="ashebrew">‎חֶזְיוֹן‎</span></big>** **Chezyôwn** <small>*(khez-yone')*</small> ==**Hezion**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2372|‎חָזָה‎]]</big>**; vision</small>
 
 $\quad$ Hezion.
 - § Hezion = *"vision"*

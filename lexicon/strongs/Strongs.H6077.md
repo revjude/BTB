@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹפֶל‎</span></big> **ʻÔphel** <small>*(o'-fel)*</small> ==**Ophel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֹפֶל‎</span><sup><small>[[H6076]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹפֶל‎</span></big>** **ʻÔphel** <small>*(o'-fel)*</small> ==**Ophel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H6076|‎עֹפֶל‎]]</big>**</small>
 
 $\quad$ Ophel.
 - § Ophel = *"hill"*

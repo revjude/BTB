@@ -7,21 +7,21 @@ Thou hast walked in the way of thy sister; therefore will I give her cup into th
 Because you have followed the path of your sister, I will put her cup into your hand.’<small><sub>**MT:**</sub></small>
 [[Ezek.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You went | <big><span class="asgreek">επορεύθης</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cup | <big><span class="asgreek">ποτήριον</span></big> <sup><small><small>[[G4221]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands. | <big><span class="asgreek">χείράς σου</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your sister | **<big>[[G0079\|αδελφής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You went | **<big>[[G4198\|επορεύθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| her cup | **<big>[[G4221\|ποτήριον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hands. | **<big>[[G5495\|χείράς σου]]</big>** |
 [[Ezek.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
 

@@ -7,52 +7,52 @@ For they covered the face of the whole earth, so that the land was darkened; and
 They covered the face of all the land until it was black, and they consumed all the plants on the ground and all the fruit on the trees that the hail had left behind. Nothing green was left on any tree or plant in all the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.14|<< Exodus 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.16|Exodus 10:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they covered | <big><span class="asgreek">εκάλυψε</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψιν</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| corrupted | <big><span class="asgreek">εφθάρη</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate up | <big><span class="asgreek">κατέφαγε</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pasturage | <big><span class="asgreek">βοτάνην</span></big> <sup><small><small>[[G1008]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees, | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were left behind | <big><span class="asgreek">υπελείφθη</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail. | <big><span class="asgreek">χαλάζης</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| There was not left | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπελειφθη</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| a green \[thing\], | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| not one \[thing\] | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees, | <big><span class="asgreek">ξύλοις</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] pasturage | <big><span class="asgreek">βοτάνη</span></big> <sup><small><small>[[G1008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they covered | **<big>[[G2572\|εκάλυψε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| appearance | **<big>[[G3799\|όψιν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| corrupted | **<big>[[G5351\|εφθάρη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ate up | **<big>[[G2719\|κατέφαγε]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| pasturage | **<big>[[G1008\|βοτάνην]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fruit | **<big>[[G2590\|καρπόν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| trees, | **<big>[[G3586\|ξύλων]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| were left behind | **<big>[[G5275\|υπελείφθη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| hail. | **<big>[[G5464\|χαλάζης]]</big>** |
+| There was not left | **<big>[[G3756\|ου]]</big>** **<big>[[G5275\|υπελειφθη]]</big>** |
+| a green \[thing\], | **<big>[[G5515\|χλωρόν]]</big>** |
+| not one \[thing\] | **<big>[[G3762\|ουδέν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| trees, | **<big>[[G3586\|ξύλοις]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] pasturage | **<big>[[G1008\|βοτάνη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plain | **<big>[[G8676\|πεδίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.14|<< Exodus 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.16|Exodus 10:16 >>]]</td></tr></table>
 
 

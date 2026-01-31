@@ -1,5 +1,3 @@
-<span class="ashebrew">‎יִמְרָה‎</span> <small>***(yim.rah)***</small> ==**Imrah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.36|1Ch.7.36]]
--  son of: Zophah ([[H6690]])
--  brother of: Suah ([[H5477]]), Harnepher ([[H2774]]), Shual ([[H7777B]]), Beri ([[H1275]]), Bezer ([[H1221H]]), Hod ([[H1936]]), Shamma ([[H8037H]]), Shilshah ([[H8030]]), Ithran ([[H3506H]]) and Beera ([[H0878]])
-
+-  son of: Zophah (**<big>[[H6690|צוֹפַח]]</big>**)
+-  brother of: Suah (**<big>[[H5477|סוּחַ]]</big>**), Harnepher (**<big>[[H2774|חַרְנֶפֶר]]</big>**), Shual (**<big>[[H7777B|שׁוּעָל]]</big>**), Beri (**<big>[[H1275|בֵּרִי]]</big>**), Bezer (**<big>[[H1221H|בֶּצֶר]]</big>**), Hod (**<big>[[H1936|הוֹד]]</big>**), Shamma (**<big>[[H8037H|שַׁמָּא]]</big>**), Shilshah (**<big>[[H8030|שִׁלְשָׁה]]</big>**), Ithran (**<big>[[H3506H|יִתְרָן]]</big>**) and Beera (**<big>[[H0878|בְּאֵרָא]]</big>**)

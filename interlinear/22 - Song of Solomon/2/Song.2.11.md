@@ -6,19 +6,19 @@ For now the winter is past; the rain is over and gone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.10|<< Song of Solomon 2:10]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.12|Song of Solomon 2:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֥ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the winter  [^2] | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>סְּתָ֖יו </big></span><small><small><sup>[[H5638]]</sup></small></small> &#8207;[^3] | ha. <small><sup>[[HTd]]</sup></small> se.tav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| it has passed  | <span class="ashebrew"><big>עָבָ֑ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the rain  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גֶּ֕שֶׁם </big></span><small><small><sup>[[H1653]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ge.shem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has passed away  | <span class="ashebrew"><big>חָלַ֖ף </big></span><small><small><sup>[[H2498]]</sup></small></small> &#8207;| cha.Laf <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has gone  | <span class="ashebrew"><big>הָלַ֥ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| ha.Lakh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> itself  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the winter  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5638\|סְּתָ֖יו]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| it has passed  |**<big>&#8207;[[H5674A\|עָבָ֑ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1653\|גֶּ֕שֶׁם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.shem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has passed away  |**<big>&#8207;[[H2498\|חָלַ֖ף]]&#8207; </big>**| cha.Laf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone  |**<big>&#8207;[[H1980G\|הָלַ֥ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> itself  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.10|<< Song of Solomon 2:10]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.12|Song of Solomon 2:12 >>]]</td></tr></table>
 
-[^1]: ==K==: **the winter ** | <small><sup>[[H5638]]</sup></small> <span class="ashebrew"><big>סְּתָו</big></span> <small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: **the winter ** | <small><sup>[[H5638]]</sup></small> <span class="ashebrew"><big>סְּתָו</big></span> <small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
+[^1]: ==K==: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==K==: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>הַסְּתָ֖ו</big></span>**
 

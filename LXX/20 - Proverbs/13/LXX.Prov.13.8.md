@@ -7,18 +7,18 @@ The ransom of a man’s life [are] his riches: but the poor heareth not rebuke.
 Riches may ransom a man’s life, but a poor man hears no threat.<small><sub>**MT:**</sub></small>
 [[Prov.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.7|<< Proverbs 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.9|Proverbs 13:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is \[the\] ransom | <big><span class="asgreek">λύτρον</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
-| A man's | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of \[his\] life | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| own | <big><span class="asgreek">ίδιος</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| but \[the\] poor | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand | <big><span class="asgreek">υφίσταται</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
-| at intimidation. | <big><span class="asgreek">απειλήν</span></big> <sup><small><small>[[G0547]]</small></small></sup> |
+| is \[the\] ransom | **<big>[[G3083\|λύτρον]]</big>** |
+| A man's | **<big>[[G0435\|ανδρός]]</big>** |
+| of \[his\] life | **<big>[[G5590\|ψυχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| own | **<big>[[G2398\|ίδιος]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| but \[the\] poor | **<big>[[G4434\|πτωχός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| does not | **<big>[[G3756\|ουχ]]</big>** |
+| stand | **<big>[[G9609\|υφίσταται]]</big>** |
+| at intimidation. | **<big>[[G0547\|απειλήν]]</big>** |
 [[Prov.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.7|<< Proverbs 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.9|Proverbs 13:9 >>]]</td></tr></table>
 
 

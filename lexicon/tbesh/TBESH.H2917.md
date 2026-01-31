@@ -1,4 +1,3 @@
-<span class="asaramaic">‎טִין‎</span> <small>***(tin)***</small> ==**common**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H2916]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2916|טִיט]]</big>**</small> 
 
-- Aramaic of <i>tit</i> (<span class='ashebrew'>‎ט‎</span>ִ<span class='ashebrew'>‎יט‎</span> "mud" [[H2916]])
+- Aramaic of <i>tit</i> (<span class='ashebrew'>‎ט‎</span>ִ<span class='ashebrew'>‎יט‎</span> "mud" **<big>[[H2916|טִיט]]</big>**)

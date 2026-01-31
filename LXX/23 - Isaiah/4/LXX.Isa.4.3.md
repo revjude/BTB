@@ -7,28 +7,28 @@ And it shall come to pass, [that he that is] left in Zion, and [he that] remaine
 Whoever remains in Zion and whoever is left in Jerusalem will be called holy—all in Jerusalem who are recorded among the living—<small><sub>**MT:**</sub></small>
 [[Isa.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.2|<< Isaiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.4|Isaiah 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one left behind | <big><span class="asgreek">υπολειφθέν</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one left behind | <big><span class="asgreek">καταλειφθέν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιοι</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| shall be called | <big><span class="asgreek">κληθήσονται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written | <big><span class="asgreek">γραφέντες</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| one left behind | **<big>[[G5275\|υπολειφθέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| one left behind | **<big>[[G2641\|καταλειφθέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| holy | **<big>[[G0039\|άγιοι]]</big>** |
+| shall be called | **<big>[[G2564\|κληθήσονται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being written | **<big>[[G1125\|γραφέντες]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| life | **<big>[[G2222\|ζωήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Isa.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.2|<< Isaiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.4|Isaiah 4:4 >>]]</td></tr></table>
 
 

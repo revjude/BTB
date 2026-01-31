@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎γαστήρ‎</span></big> **gastḗr** <small>*(gas-tare')*</small> ==**belly**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+**<big><span class="asgreek">‎γαστήρ‎</span></big>** **gastḗr** <small>*(gas-tare')*</small> ==**belly**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ belly, + with child, womb.

@@ -7,32 +7,32 @@ With twelve hundred chariots, and threescore thousand horsemen: and the people [
 with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.<small><sub>**MT:**</sub></small>
 [[2Chr.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.2|<< 2 Chronicles 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.4|2 Chronicles 12:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίοις</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίοις</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρμασι</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| horsemen, | <big><span class="asgreek">ιππέων</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| count | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθόντος</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt -- | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| Lubim, | <big><span class="asgreek">Λίβυες</span></big> <sup><small><small>[[H3864]]</small></small></sup> |
-| Sukkiim, | <big><span class="asgreek">Σουχιείμ</span></big> <sup><small><small>[[H5525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ethiopians. | <big><span class="asgreek">Αιθίοπες</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίοις]]</big>** |
+| chariots, | **<big>[[G0716\|άρμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάσιν]]</big>** |
+| horsemen, | **<big>[[G2460\|ιππέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| count | **<big>[[G0706\|αριθμός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| coming | **<big>[[G2064\|ελθόντος]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt -- | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| Lubim, | **<big>[[H3864\|Λίβυες]]</big>** |
+| Sukkiim, | **<big>[[H5525\|Σουχιείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ethiopians. | **<big>[[G0128\|Αιθίοπες]]</big>** |
 [[2Chr.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.2|<< 2 Chronicles 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.4|2 Chronicles 12:4 >>]]</td></tr></table>
 
 

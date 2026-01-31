@@ -59,7 +59,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.2.68|68]]**<span class="
 
 [^16]: [[Neh.7|Neh 7:14]]
 
-[^17]: The variation of Bani, <span class="asgreek"><span class='asgreek'>απι</span></span> (<span class="ashebrew">‎בָּנִי‎</span><sup><small>[[H1137]]</small></sup>), and Binnui, <span class="asgreek"><span class='asgreek'>απει</span></span> (<span class="ashebrew">‎בִּנּוּי‎</span><sup><small>[[H1131]]</small></sup>), arises from the elision of, <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***, but the LXX have here <span class="asgreek"><span class='asgreek'>Βανουι</span></span>, as in the parallel place. [[Ezra.10|Ezra 10:34]]; [[Neh.7|Neh 7:15]], Binnui. 648
+[^17]: The variation of Bani, <span class="asgreek"><span class='asgreek'>απι</span></span> ( [[H1137|‎בָּנִי‎]] ), and Binnui, <span class="asgreek"><span class='asgreek'>απει</span></span> ( [[H1131|‎בִּנּוּי‎]] ), arises from the elision of, <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***, but the LXX have here <span class="asgreek"><span class='asgreek'>Βανουι</span></span>, as in the parallel place. [[Ezra.10|Ezra 10:34]]; [[Neh.7|Neh 7:15]], Binnui. 648
 
 [^18]: [[Ezra.8|Ezra 8:11]], [[Ezra.10|Ezra 10:28]]; [[Neh.7|Neh 7:16]]. 628
 
@@ -99,7 +99,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.2.68|68]]**<span class="
 
 [^36]: This Nebo was probably the Nabau which Eusebius and Jerome place eight miles south from Hebron. [[Num.32|Num 32:3]]; [[Deut.32|Deut 32:49]]; [[Neh.7|Neh 7:33]]; [[Isa.15|Isa 15:2]]; [[Jer.48|Jer 48:1]], [[Jer.48|Jer 48:22]]
 
-[^37]: i.e. congregating; crystallizing, (<span class="ashebrew">‎מַגְבִּישׁ‎</span><sup><small>[[H4019]]</small></sup>). The children of Magbish are not named in our present copies of Nehemiah; but the Alexandrian manuscript of the LXX has the same reading as here. [[Ezra.2|Ezra 2:30]]
+[^37]: i.e. congregating; crystallizing, ( [[H4019|‎מַגְבִּישׁ‎]] ). The children of Magbish are not named in our present copies of Nehemiah; but the Alexandrian manuscript of the LXX has the same reading as here. [[Ezra.2|Ezra 2:30]]
 
 [^38]: [[Ezra.2|Ezra 2:7]]; [[Neh.7|Neh 7:34]]
 
@@ -133,9 +133,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.2.68|68]]**<span class="
 
 [^53]: This variation only exists in the translation, the original being written here Husupha, and in the parallel place defectively, Hasupha. [[Neh.7|Neh 7:46]], Hashupha
 
-[^54]: ***Sia***, <span class="asgreek"><span class='asgreek'>ρις</span>ΰ</span> (<span class="ashebrew">‎סִיעָא‎</span><sup><small>[[H5517]]</small></sup>), is merely a contraction of, <span class="asgreek"><span class='asgreek'>ριςδ</span>ΰ</span> (<span class="ashebrew">‎סִיעָא‎</span><sup><small>[[H5517]]</small></sup>), ***Siaha***, by the elision of, <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***. [[Neh.7|Neh 7:47]], Sia
+[^54]: ***Sia***, <span class="asgreek"><span class='asgreek'>ρις</span>ΰ</span> ( [[H5517|‎סִיעָא‎]] ), is merely a contraction of, <span class="asgreek"><span class='asgreek'>ριςδ</span>ΰ</span> ( [[H5517|‎סִיעָא‎]] ), ***Siaha***, by the elision of, <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***. [[Neh.7|Neh 7:47]], Sia
 
-[^55]: These variations merely arise from the mutation of, <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***, into, ***ΰ***, according to the Chaldee dialect; the original, being respectively <span class="asgreek"><span class='asgreek'>μαπδ</span></span> (<span class="ashebrew">‎לְבָנָא‎</span><sup><small>[[H3838]]</small></sup>), ***Lebanah***, and <span class="asgreek"><span class='asgreek'>μαπ</span>ΰ </span> (<span class="ashebrew">‎לְבָנָא‎</span><sup><small>[[H3838]]</small></sup>) ***Lebana***; <span class="asgreek"><span class='asgreek'>ηβαδ</span></span> (<span class="ashebrew">‎חֲגָבָא‎</span><sup><small>[[H2286]]</small></sup>), ***Hagabah***, and <span class="asgreek"><span class='asgreek'>ηβα</span>ΰ</span> (<span class="ashebrew">‎חֲגָבָא‎</span><sup><small>[[H2286]]</small></sup>), ***Hagaba***. [[Neh.7|Neh 7:48]], Lebana, Hagaba
+[^55]: These variations merely arise from the mutation of, <span class="asgreek"><span class='asgreek'>δ</span></span>, ***hay***, into, ***ΰ***, according to the Chaldee dialect; the original, being respectively <span class="asgreek"><span class='asgreek'>μαπδ</span></span> ( [[H3838|‎לְבָנָא‎]] ), ***Lebanah***, and <span class="asgreek"><span class='asgreek'>μαπ</span>ΰ </span> ( [[H3838|‎לְבָנָא‎]] ) ***Lebana***; <span class="asgreek"><span class='asgreek'>ηβαδ</span></span> ( [[H2286|‎חֲגָבָא‎]] ), ***Hagabah***, and <span class="asgreek"><span class='asgreek'>ηβα</span>ΰ</span> ( [[H2286|‎חֲגָבָא‎]] ), ***Hagaba***. [[Neh.7|Neh 7:48]], Lebana, Hagaba
 
 [^56]: or, Shamlai, Shamlai, of the Kethiv, is evidently a mistake for Shalmai, as the Keri and LXX have.
 

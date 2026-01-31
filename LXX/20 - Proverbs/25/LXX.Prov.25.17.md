@@ -7,20 +7,20 @@ Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and [s
 Seldom set foot in your neighbor’s house, lest he grow weary and hate you.<small><sub>**MT:**</sub></small>
 [[Prov.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.16|<< Proverbs 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.18|Proverbs 25:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sparingly | <big><span class="asgreek">σπάνιον</span></big> <sup><small><small>[[G9135]]</small></small></sup> |
-| bring | <big><span class="asgreek">είσαγε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| your own | <big><span class="asgreek">σεαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| friend! | <big><span class="asgreek">φίλον</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| he be filled | <big><span class="asgreek">πλησθείς</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| of you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and should detest | <big><span class="asgreek">μισήση</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Sparingly | **<big>[[G9135\|σπάνιον]]</big>** |
+| bring | **<big>[[G1521\|είσαγε]]</big>** |
+| your | **<big>[[G4674\|σον]]</big>** |
+| foot | **<big>[[G4228\|πόδα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| your own | **<big>[[G4572\|σεαυτού]]</big>** |
+| friend! | **<big>[[G5384\|φίλον]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| he be filled | **<big>[[G4130\|πλησθείς]]</big>** |
+| of you, | **<big>[[G1473\|σου]]</big>** |
+| and should detest | **<big>[[G3404\|μισήση]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Prov.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.16|<< Proverbs 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.18|Proverbs 25:18 >>]]</td></tr></table>
 
 

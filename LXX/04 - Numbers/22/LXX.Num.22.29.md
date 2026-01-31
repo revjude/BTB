@@ -7,25 +7,25 @@ And Balaam said unto the ass, Because thou hast mocked me: I would there were a 
 Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”<small><sub>**MT:**</sub></small>
 [[Num.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.28|<< Numbers 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.30|Numbers 22:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balaam said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey | <big><span class="asgreek">όνω</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| You have mocked | <big><span class="asgreek">εμπέπαιχάς</span></big> <sup><small><small>[[G1702]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I had | <big><span class="asgreek">είχον</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| a sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| already | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I would have stabbed | <big><span class="asgreek">εξεκέντησά</span></big> <sup><small><small>[[G1574]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balaam said | **<big>[[G2036\|είπε]]</big>** **<big>[[G0903\|Βαλαάμ]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| donkey | **<big>[[G3688\|όνω]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| You have mocked | **<big>[[G1702\|εμπέπαιχάς]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| I had | **<big>[[G2192\|είχον]]</big>** |
+| a sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| already | **<big>[[G2235\|ήδη]]</big>** **<big>[[G0302\|αν]]</big>** |
+| I would have stabbed | **<big>[[G1574\|εξεκέντησά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Num.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.28|<< Numbers 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.30|Numbers 22:30 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִוֵּר‎</span></big> **ʻivvêr** <small>*(iv-vare')*</small> ==**blind**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>intensive from <span class="ashebrew">‎עָוַר‎</span><sup><small>[[H5786]]</small></sup></small>
+**<big><span class="ashebrew">‎עִוֵּר‎</span></big>** **ʻivvêr** <small>*(iv-vare')*</small> ==**blind**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>intensive from **<big>[[H5786|‎עָוַר‎]]</big>**</small>
 
 $\quad$ blind (men, people).
 - ***blind*** (literally or figuratively)
@@ -8,4 +8,4 @@ $\quad$ blind (men, people).
 $\quad$ **1a)** blind (physically)
 $\quad$ **1b)** blind (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τυφλός</span><sup><small>[[G5185]]</small></sup> · <span class="asgreek">τυφλόω</span><sup><small>[[G5186]]</small></sup>
+<small>See Greek: </small>**<big>[[G5185|τυφλός]]</big>** · **<big>[[G5186|τυφλόω]]</big>**

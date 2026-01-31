@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פֶּלֶת‎</span></big> **Peleth** <small>*(peh'-leth)*</small> ==**Peleth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פֶּלֶת‎</span></big>** **Peleth** <small>*(peh'-leth)*</small> ==**Peleth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to flee; swiftness</small>
 
 $\quad$ Peleth.

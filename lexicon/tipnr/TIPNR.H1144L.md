@@ -1,8 +1,8 @@
 <small>*Benjamin Gate • Gate in Jerusalem, associated with the tribe of Benjamin.*</small>
 
 The <span class='tipnrhighlight'>Benjamin Gate</span> was a gate in Jerusalem, associated with the tribe of Benjamin. \([[Jer.20.2|Jeremiah 20:2]], 37:13, 38:7\)
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Jer.20.2|Jer.20.2]]; 
-- only referred to as Benjamin\_Gate<[[H1144L]]> \(<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Jer.20.2|Jer.20.2]]; 
+- only referred to as Benjamin\_Gate **<big>[[H1144|בִּנְיָמִין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The Benjamin Gate served as a significant location in the book of Jeremiah, bein
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Benjamin (Gate) | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H1144L) <small>*Hebrew*</small> | 3x | [[Jer.20.2] ... [Jer.38.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benjamin\*\|reference=Jer.20.2;Jer.37.13;Jer.38.7) |
-All Strong's for **Benjamin_Gate**: \[[[H1144L]]\]
+| Benjamin (Gate) | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H1144L) | 3x | [[Jer.20.2] ... [Jer.38.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benjamin\*\|reference=Jer.20.2;Jer.37.13;Jer.38.7) |
+All entries for **Benjamin Gate**:  **<big>[[H1144|בִּנְיָמִין]]</big>**

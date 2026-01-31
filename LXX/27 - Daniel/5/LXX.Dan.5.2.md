@@ -7,52 +7,52 @@ Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver 
 Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines.<small><sub>**MT:**</sub></small>
 [[Dan.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.1|<< Daniel 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.3|Daniel 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drinking | <big><span class="asgreek">πίνων</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| Belshazzar | <big><span class="asgreek">Βαλτάσαρ</span></big> <sup><small><small>[[H1113]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tasting | <big><span class="asgreek">γεύσει</span></big> <sup><small><small>[[G6730]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">ενεγκείν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items, | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρά</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| brought forth | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they drank | <big><span class="asgreek">πιέτωσαν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them -- | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his great men, | <big><span class="asgreek">μεγιστάνες</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his concubines, | <big><span class="asgreek">παλλακαί</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αί</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mistresses. | <big><span class="asgreek">παράκοιτοι</span></big> <sup><small><small>[[G8620]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| drinking | **<big>[[G4095\|πίνων]]</big>** |
+| Belshazzar | **<big>[[H1113\|Βαλτάσαρ]]</big>** |
+| spoke | **<big>[[G2036\|είπεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tasting | **<big>[[G6730\|γεύσει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wine | **<big>[[G3631\|οίνου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G5342\|ενεγκείν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items, | **<big>[[G4632\|σκεύη]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| of gold | **<big>[[G5552\|χρυσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| of silver | **<big>[[G0693\|αργυρά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| brought forth | **<big>[[G1627\|εξήνεγκεν]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| temple | **<big>[[G3485\|ναού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they drank | **<big>[[G4095\|πιέτωσαν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them -- | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king, | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his great men, | **<big>[[G3175\|μεγιστάνες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his concubines, | **<big>[[G8589\|παλλακαί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αί]]</big>** |
+| his mistresses. | **<big>[[G8620\|παράκοιτοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Dan.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.1|<< Daniel 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.3|Daniel 5:3 >>]]</td></tr></table>
 
 

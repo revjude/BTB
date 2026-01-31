@@ -6,27 +6,27 @@ Do not be afraid, for you will not be put to shame; do not be intimidated, for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.3|<< Isaiah 54:3]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.5|Isaiah 54:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be afraid  | <span class="ashebrew"><big>תִּֽירְאִי֙ </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ti.re.'I <small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be put to shame  | <span class="ashebrew"><big>תֵב֔וֹשִׁי </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| te.Vo.o.shi <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and may not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be ashamed  | <span class="ashebrew"><big>תִּכָּלְמִ֖י </big></span><small><small><sup>[[H3637]]</sup></small></small> &#8207;| ti.kal.Mi <small><sup>[[HVNj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will display shame  | <span class="ashebrew"><big>תַחְפִּ֑ירִי </big></span><small><small><sup>[[H2659]]</sup></small></small> &#8207;| tach.Pi.ri <small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] shame of  | <span class="ashebrew"><big>בֹ֤שֶׁת </big></span><small><small><sup>[[H1322]]</sup></small></small> &#8207;| Vo.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| youth\<s> your  | <span class="ashebrew"><big>עֲלוּמַ֙יִ </big></span><small><small><sup>[[H5934]]</sup></small></small> <span class="ashebrew"><big>ךְ֙ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| 'a.lu.Ma.yi <small><sup>[[HNcmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will forget  | <span class="ashebrew"><big>תִּשְׁכָּ֔חִי </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| tish.Ka.chi <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] reproach of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֶרְפַּ֥ת </big></span><small><small><sup>[[H2781]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cher.Pat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| widowhood your  | <span class="ashebrew"><big>אַלְמְנוּתַ֖יִ </big></span><small><small><sup>[[H0491]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| 'al.me.nu.Ta.yi <small><sup>[[HNcfsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will remember  | <span class="ashebrew"><big>תִזְכְּרִי </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tiz.ke.ri- <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עֽוֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be afraid  |**<big>&#8207;[[H3372G\|תִּֽירְאִי֙]]&#8207; </big>**| ti.re.'I<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be put to shame  |**<big>&#8207;[[H0954\|תֵב֔וֹשִׁי]]&#8207; </big>**| te.Vo.o.shi<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be ashamed  |**<big>&#8207;[[H3637\|תִּכָּלְמִ֖י]]&#8207; </big>**| ti.kal.Mi<small><sup>[[HVNj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will display shame  |**<big>&#8207;[[H2659\|תַחְפִּ֑ירִי]]&#8207; </big>**| tach.Pi.ri<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shame of  |**<big>&#8207;[[H1322\|בֹ֤שֶׁת]]&#8207; </big>**| Vo.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| youth\<s> your  |**<big>&#8207;[[H5934\|עֲלוּמַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| 'a.lu.Ma.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will forget  |**<big>&#8207;[[H7911\|תִּשְׁכָּ֔חִי]]&#8207; </big>**| tish.Ka.chi<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] reproach of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2781\|חֶרְפַּ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cher.Pat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| widowhood your  |**<big>&#8207;[[H0491\|אַלְמְנוּתַ֖יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'al.me.nu.Ta.yi<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remember  |**<big>&#8207;[[H2142\|תִזְכְּרִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tiz.ke.ri-<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.3|<< Isaiah 54:3]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.5|Isaiah 54:5 >>]]</td></tr></table>
 
 

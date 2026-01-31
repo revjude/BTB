@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָדַשׁ‎</span></big> **ʼâdash** <small>*(aw-dash')*</small> ==**to thresh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָדַשׁ‎</span></big>** **ʼâdash** <small>*(aw-dash')*</small> ==**to thresh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ thresh.

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יִשְׁמָעֵאל‎</span> <small>***(yish.ma.el)***</small> ==**Ishmael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of Arabia living at the time of the Patriarchs, first mentioned at [[Gen.16.11|Gen.16.11]]
--  son of: Abraham ([[H0085]]) and Hagar ([[H1904]])
--  half-brother of: Isaac ([[H3327]]), Zimran ([[H2175]]), Jokshan ([[H3370]]), Medan ([[H4091]]), Midian ([[H4080]]), Ishbak ([[H3435]]) and Shuah ([[H7744]])
--  father of: Nebaioth ([[H5032]]), Kedar ([[H6938]]), Adbeel ([[H0110]]), Mibsam ([[H4017]]), Mishma ([[H4927]]), Dumah ([[H1746]]), Massa ([[H4854]]), Hadad ([[H2301]]), Tema ([[H8485]]), Jetur ([[H3195]]), Naphish ([[H5305]]), Kedemah ([[H6929]]) and Mahalath ([[H4258]])
+-  son of: Abraham (**<big>[[H0085|אַבְרָהָם]]</big>**) and Hagar (**<big>[[H1904|הָגָר]]</big>**)
+-  half-brother of: Isaac (**<big>[[H3327|יִצְחָק]]</big>**), Zimran (**<big>[[H2175|זִמְרָן]]</big>**), Jokshan (**<big>[[H3370|יׇקְשָׁן]]</big>**), Medan (**<big>[[H4091|מְדָן]]</big>**), Midian (**<big>[[H4080|מִדְיָן]]</big>**), Ishbak (**<big>[[H3435|יִשְׁבָּק]]</big>**) and Shuah (**<big>[[H7744|שׁוּחַ]]</big>**)
+-  father of: Nebaioth (**<big>[[H5032|נְבָיוֹת]]</big>**), Kedar (**<big>[[H6938|קֵדָר]]</big>**), Adbeel (**<big>[[H0110|אַדְבְּאֵל]]</big>**), Mibsam (**<big>[[H4017|מִבְשָׂם]]</big>**), Mishma (**<big>[[H4927|מִשְׁמָע]]</big>**), Dumah (**<big>[[H1746|דּוּמָה]]</big>**), Massa (**<big>[[H4854|מַשָּׂא]]</big>**), Hadad (**<big>[[H2301|חֲדַד]]</big>**), Tema (**<big>[[H8485|תֵּימָא]]</big>**), Jetur (**<big>[[H3195|יְטוּר]]</big>**), Naphish (**<big>[[H5305|נָפִישׁ]]</big>**), Kedemah (**<big>[[H6929|קֵדְמָה]]</big>**) and Mahalath (**<big>[[H4258|מַחֲלַת]]</big>**)

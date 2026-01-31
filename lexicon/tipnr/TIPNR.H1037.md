@@ -1,8 +1,8 @@
 <small>*Beth-millo • Fortified place in Shechem, associated with Abimelech's rule.*</small>
 
 <span class='tipnrhighlight'>Beth-millo</span> was a fortified place in Shechem where the men of the city made Abimelech king, later becoming his enemies. \([[Judg.9.6|Judges 9:6]], 20\)
-- A location near Shechem<[[H7927G]]> first mentioned at [[Judg.9.6|Jdg.9.6]]; 
-- referred to as Beth-millo or "house of Millo" \(KJV, NIV= Beth-millo\) <[[H1037]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Shechem **<big>[[H7927|שְׁכֶם]]</big>** first mentioned at [[Judg.9.6|Jdg.9.6]]; 
+- referred to as Beth-millo or "house of Millo" \(KJV, NIV= Beth-millo\)  **<big>[[H1037|בֵּית מִלּוֹא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.21369123124062,35.2817986718367&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The story of Abimelech and Beth-millo highlights the political instability and p
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-millo (KJV= house of Millo; NIV= Beth Millo) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H1037) <small>*Hebrew*</small> | 3x | [[Jdg.9.6] ... [Jdg.9.20b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.9.6;Jdg.9.20;Jdg.9.20) |
-| house of Millo (KJV, NIV= Beth-millo) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H1037) <small>*Hebrew*</small> | 1x | [2Ki.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=house\*\|reference=2Ki.12.20) |
-All Strong's for **Beth-millo**: \[[[H1037]]\]
+| Beth-millo (KJV= house of Millo; NIV= Beth Millo) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H1037) | 3x | [[Jdg.9.6] ... [Jdg.9.20b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jdg.9.6;Jdg.9.20;Jdg.9.20) |
+| house of Millo (KJV, NIV= Beth-millo) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H1037) | 1x | [2Ki.12.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=house\*\|reference=2Ki.12.20) |
+All entries for **Beth-millo**:  **<big>[[H1037|בֵּית מִלּוֹא]]</big>**

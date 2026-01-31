@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַעְמָה‎</span></big> **Raʻmâh** <small>*(rah-maw')*</small> ==**Raamah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎רַעְמָה‎</span><sup><small>[[H7483]]</small></sup></small>
+**<big><span class="ashebrew">‎רַעְמָה‎</span></big>** **Raʻmâh** <small>*(rah-maw')*</small> ==**Raamah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7483|‎רַעְמָה‎]]</big>**</small>
 
 $\quad$ Raamah.
 - § Raamah = *"horse's mane"*

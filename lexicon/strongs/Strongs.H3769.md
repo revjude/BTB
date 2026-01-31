@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּרַר‎</span></big> **kârar** <small>*(kaw-rar')*</small> ==**to dance**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּרַר‎</span></big>** **kârar** <small>*(kaw-rar')*</small> ==**to dance**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ dance(-ing).
@@ -7,4 +7,4 @@ $\quad$ dance(-ing).
 **1)** (Pilpel) to whirl, dance
 $\quad$ **1a)** whirling, dancing (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀρχέομαι</span><sup><small>[[G3738]]</small></sup>
+<small>See Greek: </small>**<big>[[G3738|ὀρχέομαι]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָפֵץ‎</span></big> **châphêts** <small>*(khaw-fates')*</small> ==**to delight in**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָפֵץ‎</span></big>** **châphêts** <small>*(khaw-fates')*</small> ==**to delight in**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] any at all, (have, take) delight, desire, favour, like, move, be (well) pleased, have pleasure, will, would.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ $\quad$ **1a2b)** to be pleased to do
 **2)** to move, bend down
 $\quad$ **2a)** (Qal) to bend down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">αἱρέομαι</span><sup><small>[[G0138]]</small></sup> · <span class="asgreek">αἱρετίζω</span><sup><small>[[G0140]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">ἐπιθυμέω</span><sup><small>[[G1937]]</small></sup> · <span class="asgreek">εὐδοκέω</span><sup><small>[[G2106]]</small></sup> · <span class="asgreek">θέλω</span><sup><small>[[G2309]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0138|αἱρέομαι]]</big>** · **<big>[[G0140|αἱρετίζω]]</big>** · **<big>[[G1013|βούλημα]]</big>** · **<big>[[G1937|ἐπιθυμέω]]</big>** · **<big>[[G2106|εὐδοκέω]]</big>** · **<big>[[G2309|θέλω]]</big>** · **<big>[[G2476|ἵστημι]]</big>**

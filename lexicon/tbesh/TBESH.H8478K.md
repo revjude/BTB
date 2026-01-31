@@ -1,5 +1,4 @@
-<span class="ashebrew">‎תַּחַת‎</span> <small>***(ta.chat)***</small> ==**underneath: owning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H8478G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H8478G|תַּחַת]]</big>**</small> 
 
 - : owning/rule/under(hand)
 - conj

@@ -7,18 +7,18 @@ They also do no iniquity: they walk in his ways.
 They do no iniquity; they walk in His ways.<small><sub>**MT:**</sub></small>
 [[Ps.119.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.2|<< Psalm 119:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.4|Psalm 119:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| practicing | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gone | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| not | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| practicing | **<big>[[G2038\|εργαζόμενοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his ways | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| gone | **<big>[[G4198\|επορεύθησαν]]</big>** |
 [[Ps.119.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.2|<< Psalm 119:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.4|Psalm 119:4 >>]]</td></tr></table>
 
 

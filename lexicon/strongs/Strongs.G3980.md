@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎πειθαρχέω‎</span></big> **peitharchéō** <small>*(pi-tharkh-eh'-o)*</small> ==**to obey**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from a compound of <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup> and <span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup></small>
+**<big><span class="asgreek">‎πειθαρχέω‎</span></big>** **peitharchéō** <small>*(pi-tharkh-eh'-o)*</small> ==**to obey**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from a compound of **<big>[[G3982|‎πείθω‎]]</big>** and **<big>[[G0757|‎ἄρχω‎]]</big>**</small>
 
 $\quad$ hearken, obey (magistrates).
 - to be persuaded by a ruler, i.e. (genitive case) to submit to authority

@@ -7,19 +7,19 @@ And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.
 and also against Hamath, which borders it, as well as Tyre and Sidon, though they are very shrewd.<small><sub>**MT:**</sub></small>
 [[Zech.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.1|<< Zechariah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.3|Zechariah 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hamath | <big><span class="asgreek">Εμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her limits, | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Tyre | <big><span class="asgreek">Τύρος</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sidon, | <big><span class="asgreek">Σιδών</span></big> <sup><small><small>[[G4605]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| they thought | <big><span class="asgreek">εφρόνησαν</span></big> <sup><small><small>[[G5426]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hamath | **<big>[[H2574\|Εμάθ]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| her limits, | **<big>[[G3725\|ορίοις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Tyre | **<big>[[G5184\|Τύρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Sidon, | **<big>[[G4605\|Σιδών]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| they thought | **<big>[[G5426\|εφρόνησαν]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Zech.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.1|<< Zechariah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.3|Zechariah 9:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְבוֹאָה‎</span></big> **mᵉbôwʼâh** <small>*(meb-o-aw')*</small> ==**entry**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מָבוֹא‎</span><sup><small>[[H3996]]</small></sup></small>
+**<big><span class="ashebrew">‎מְבוֹאָה‎</span></big>** **mᵉbôwʼâh** <small>*(meb-o-aw')*</small> ==**entry**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H3996|‎מָבוֹא‎]]</big>**</small>
 
 $\quad$ entry.
 - ***a haven***

@@ -7,20 +7,20 @@ Because I knew that thou [art] obstinate, and thy neck [is] an iron sinew, and t
 For I knew that you are stubborn; your neck is iron and your forehead is bronze.<small><sub>**MT:**</sub></small>
 [[Isa.48.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.3|<< Isaiah 48:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.5|Isaiah 48:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I know | <big><span class="asgreek">γινώσκω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you are hardened, | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[is\] a nerve | <big><span class="asgreek">νεύρον</span></big> <sup><small><small>[[G8391]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρούν</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your neck | <big><span class="asgreek">τράχηλός</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your forehead | <big><span class="asgreek">μέτωπόν</span></big> <sup><small><small>[[G3359]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is as\] brass. | <big><span class="asgreek">χαλκούν</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| I know | **<big>[[G1097\|γινώσκω]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you are hardened, | **<big>[[G4642\|σκληρός]]</big>** **<big>[[G1510\|ει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[is\] a nerve | **<big>[[G8391\|νεύρον]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρούν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your neck | **<big>[[G5137\|τράχηλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your forehead | **<big>[[G3359\|μέτωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is as\] brass. | **<big>[[G5470\|χαλκούν]]</big>** |
 [[Isa.48.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.3|<< Isaiah 48:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.5|Isaiah 48:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוּתַי‎</span></big> **ʻÛwthay** <small>*(oo-thah'-ee)*</small> ==**Uthai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּת‎</span><sup><small>[[H5790]]</small></sup>; succoring</small>
+**<big><span class="ashebrew">‎עוּתַי‎</span></big>** **ʻÛwthay** <small>*(oo-thah'-ee)*</small> ==**Uthai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5790|‎עוּת‎]]</big>**; succoring</small>
 
 $\quad$ Uthai.
 - § Uthai = *"helpful"*

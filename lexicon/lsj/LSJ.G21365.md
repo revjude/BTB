@@ -1,4 +1,4 @@
-spelling of: <small>[[G5604]]</small> 
+spelling of: <small>**<big>[[G5604|ὠδίν]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὠδίς==</span></b> 

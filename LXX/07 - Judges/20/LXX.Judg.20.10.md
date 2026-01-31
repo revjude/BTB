@@ -7,47 +7,47 @@ And we will take ten men of an hundred throughout all the tribes of Israel, and 
 We will take ten men out of every hundred from all the tribes of Israel, and a hundred out of every thousand, and a thousand out of every ten thousand, to supply provisions for the army when they go to Gibeah in Benjamin to punish them for the atrocity they have committed in Israel.”<small><sub>**MT:**</sub></small>
 [[Judg.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.9|<< Judges 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.11|Judges 20:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall take | <big><span class="asgreek">ληψόμεθα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[out of\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| \[out of\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a thousand \[men\], | <big><span class="asgreek">χιλίοις</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| \[out of\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten thousand \[men\], | <big><span class="asgreek">μυρίοις</span></big> <sup><small><small>[[G3463]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a provision | <big><span class="asgreek">επισιτισμόν</span></big> <sup><small><small>[[G1979]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to complete \[the task\] | <big><span class="asgreek">επιτελέσαι</span></big> <sup><small><small>[[G2005]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευομένοις</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gibeah | <big><span class="asgreek">Γαβαά</span></big> <sup><small><small>[[H1390]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| folly | <big><span class="asgreek">αφροσύνην</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| we shall take | **<big>[[G2983\|ληψόμεθα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| \[out of\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \[the\] tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| \[out of\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| a thousand \[men\], | **<big>[[G5507\|χιλίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| \[out of\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| ten thousand \[men\], | **<big>[[G3463\|μυρίοις]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| a provision | **<big>[[G1979\|επισιτισμόν]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| to complete \[the task\] | **<big>[[G2005\|επιτελέσαι]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| going | **<big>[[G4198\|πορευομένοις]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Gibeah | **<big>[[H1390\|Γαβαά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| folly | **<big>[[G0877\|αφροσύνην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Judg.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.9|<< Judges 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.11|Judges 20:11 >>]]</td></tr></table>
 
 

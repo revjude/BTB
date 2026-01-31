@@ -6,16 +6,16 @@ For seven days you are to eat unleavened bread, and on the seventh day there sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.5|<< Exodus 13:5]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.7|Exodus 13:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| seven  | <span class="ashebrew"><big>שִׁבְעַ֥ת </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'At <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֖ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will eat  | <span class="ashebrew"><big>תֹּאכַ֣ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| to.Khal <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unleavened bread\<s>  | <span class="ashebrew"><big>מַצֹּ֑ת </big></span><small><small><sup>[[H4682]]</sup></small></small> &#8207;| ma.Tzot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [will be] on the day  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יּוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vai. <small><sup>[[HRd]]</sup></small> yOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> seventh  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁבִיעִ֔י </big></span><small><small><sup>[[H7637]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.vi.'I <small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a festival  | <span class="ashebrew"><big>חַ֖ג </big></span><small><small><sup>[[H2282]]</sup></small></small> &#8207;| chag <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֥ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֖ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will eat  |**<big>&#8207;[[H0398\|תֹּאכַ֣ל]]&#8207; </big>**| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unleavened bread\<s>  |**<big>&#8207;[[H4682\|מַצֹּ֑ת]]&#8207; </big>**| ma.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> seventh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a festival  |**<big>&#8207;[[H2282\|חַ֖ג]]&#8207; </big>**| chag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.5|<< Exodus 13:5]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.7|Exodus 13:7 >>]]</td></tr></table>
 
 

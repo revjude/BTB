@@ -7,23 +7,23 @@ And Pharaoh turned and went into his house, neither did he set his heart to this
 Instead, Pharaoh turned around, went into his palace, and did not take any of this to heart.<small><sub>**MT:**</sub></small>
 [[Exod.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.22|<< Exodus 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.24|Exodus 7:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| turned | <big><span class="asgreek">επιστραφείς</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| to enter | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set | <big><span class="asgreek">επέστησε</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mind | <big><span class="asgreek">νούν</span></big> <sup><small><small>[[G3563]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| neither | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this \[thing\]. | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| turned | **<big>[[G1994\|επιστραφείς]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| to enter | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house, | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| set | **<big>[[G2186\|επέστησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his mind | **<big>[[G3563\|νούν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| neither | **<big>[[G3761\|ουδέ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| this \[thing\]. | **<big>[[G3778\|τούτω]]</big>** |
 [[Exod.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.22|<< Exodus 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.24|Exodus 7:24 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִיאָב‎</span></big> **ʼĔlîyʼâb** <small>*(el-ee-awb')*</small> ==**Eliab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup>; God of (his) father</small>
+**<big><span class="ashebrew">‎אֱלִיאָב‎</span></big>** **ʼĔlîyʼâb** <small>*(el-ee-awb')*</small> ==**Eliab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H0001|‎אָב‎]]</big>**; God of (his) father</small>
 
 $\quad$ Eliab.
 - § Eliab = *"my God is father" or "God is father"*

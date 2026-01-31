@@ -6,18 +6,18 @@ And Balak took Balaam to the top of Peor, which overlooks the wasteland.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.27|<< Numbers 23:27]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.29|Numbers 23:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקַּ֥ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balak  | <span class="ashebrew"><big>בָּלָ֖ק </big></span><small><small><sup>[[H1111]]</sup></small></small> &#8207;| ba.Lak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balaam  | <span class="ashebrew"><big>בִּלְעָ֑ם </big></span><small><small><sup>[[H1109A]]</sup></small></small> &#8207;| bil.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] top of  | <span class="ashebrew"><big>רֹ֣אשׁ </big></span><small><small><sup>[[H7218I]]</sup></small></small> &#8207;| rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Peor  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>פְּע֔וֹר </big></span><small><small><sup>[[H6465]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> pe.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which looks down  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נִּשְׁקָ֖ף </big></span><small><small><sup>[[H8259]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> nish.Kaf <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440J]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the desolate place  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יְשִׁימֹֽן </big></span><small><small><sup>[[H3452H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha <small><sup>[[HTd]]</sup></small> y.shi.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  |**<big>&#8207;[[H1111\|בָּלָ֖ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  |**<big>&#8207;[[H1109A\|בִּלְעָ֑ם]]&#8207; </big>**| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] top of  |**<big>&#8207;[[H7218I\|רֹ֣אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Peor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6465\|פְּע֔וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which looks down  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8259\|נִּשְׁקָ֖ף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nish.Kaf<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the desolate place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3452H\|יְשִׁימֹֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.shi.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.27|<< Numbers 23:27]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.29|Numbers 23:29 >>]]</td></tr></table>
 
 

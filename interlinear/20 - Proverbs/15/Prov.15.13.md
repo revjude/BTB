@@ -6,16 +6,16 @@ A joyful heart makes a cheerful countenance, but sorrow of the heart crushes the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.12|<< Proverbs 15:12]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.14|Proverbs 15:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a heart  | <span class="ashebrew"><big>לֵ֣ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| joyful  | <span class="ashebrew"><big>שָׂ֭מֵחַ </big></span><small><small><sup>[[H8056]]</sup></small></small> &#8207;| Sa.me.ach <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it makes good  | <span class="ashebrew"><big>יֵיטִ֣ב </big></span><small><small><sup>[[H3190]]</sup></small></small> &#8207;| yei.Tiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a face  | <span class="ashebrew"><big>פָּנִ֑ים </big></span><small><small><sup>[[H6440H]]</sup></small></small> &#8207;| pa.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and by sorrow of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַצְּבַת </big></span><small><small><sup>[[H6094]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'a.tze.vat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵ֝ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit  | <span class="ashebrew"><big>ר֣וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] stricken  | <span class="ashebrew"><big>נְכֵאָֽה </big></span><small><small><sup>[[H5218B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.khe.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a heart  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| joyful  |**<big>&#8207;[[H8056\|שָׂ֭מֵחַ]]&#8207; </big>**| Sa.me.ach<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it makes good  |**<big>&#8207;[[H3190\|יֵיטִ֣ב]]&#8207; </big>**| yei.Tiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a face  |**<big>&#8207;[[H6440H\|פָּנִ֑ים]]&#8207; </big>**| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by sorrow of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6094\|עַצְּבַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.tze.vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֝ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit  |**<big>&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] stricken  |**<big>&#8207;[[H5218B\|נְכֵאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.khe.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.12|<< Proverbs 15:12]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.14|Proverbs 15:14 >>]]</td></tr></table>
 
 

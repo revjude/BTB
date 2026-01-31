@@ -7,28 +7,28 @@ A people great and tall, the children of the Anakims, whom thou knowest, and [of
 The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”<small><sub>**MT:**</sub></small>
 [[Deut.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.1|<< Deuteronomy 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.3|Deuteronomy 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| populous | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tall -- | <big><span class="asgreek">ευμήκη</span></big> <sup><small><small>[[G7553]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Anak | <big><span class="asgreek">Ενάκ</span></big> <sup><small><small>[[H6061]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know, | <big><span class="asgreek">οίσθα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have heard \[said\], | <big><span class="asgreek">ακήκοας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| can withstand | <big><span class="asgreek">αντιστήσεται</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Anak? | <big><span class="asgreek">Ενάκ</span></big> <sup><small><small>[[H6061]]</small></small></sup> |
+| a people | **<big>[[G2992\|λαόν]]</big>** |
+| great | **<big>[[G3173\|μέγαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| populous | **<big>[[G4183\|πολύν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tall -- | **<big>[[G7553\|ευμήκη]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Anak | **<big>[[H6061\|Ενάκ]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| know, | **<big>[[G1492\|οίσθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| have heard \[said\], | **<big>[[G0191\|ακήκοας]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| can withstand | **<big>[[G0436\|αντιστήσεται]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Anak? | **<big>[[H6061\|Ενάκ]]</big>** |
 [[Deut.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.1|<< Deuteronomy 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.3|Deuteronomy 9:3 >>]]</td></tr></table>
 
 

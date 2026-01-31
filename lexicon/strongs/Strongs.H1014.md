@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית גָּמוּל‎</span></big> **Bêyth Gâmûwl** <small>*(bayth gaw-mool')*</small> ==**Beth-gamul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and the passive participle of <span class="ashebrew">‎גְּמוּל‎</span><sup><small>[[H1576]]</small></sup>; house of (the) weaned</small>
+**<big><span class="ashebrew">‎בֵּית גָּמוּל‎</span></big>** **Bêyth Gâmûwl** <small>*(bayth gaw-mool')*</small> ==**Beth-gamul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and the passive participle of **<big>[[H1576|‎גְּמוּל‎]]</big>**; house of (the) weaned</small>
 
 $\quad$ Beth-gamul.
 - § Beth-gamul = *"house of recompense"*

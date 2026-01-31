@@ -6,17 +6,17 @@ If one blesses his neighbor with a loud voice early in the morning, it will be c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.13|<< Proverbs 27:13]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.15|Proverbs 27:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] blesses  | <span class="ashebrew"><big>מְבָ֘רֵ֤ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| me.Va.Rekh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neighbor his  | <span class="ashebrew"><big>רֵעֵ֨ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with a voice  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גָּ֭דוֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| Ga.dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the morning  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֹּ֣קֶר </big></span><small><small><sup>[[H1242]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Bo.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rising early  | <span class="ashebrew"><big>הַשְׁכֵּ֑ים </big></span><small><small><sup>[[H7925]]</sup></small></small> &#8207;| hash.Keim <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a curse  | <span class="ashebrew"><big>קְ֝לָלָ֗ה </big></span><small><small><sup>[[H7045]]</sup></small></small> &#8207;| ke.la.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is reckoned  | <span class="ashebrew"><big>תֵּחָ֥שֶׁב </big></span><small><small><sup>[[H2803H]]</sup></small></small> &#8207;| te.Cha.shev <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] blesses  |**<big>&#8207;[[H1288\|מְבָ֘רֵ֤ךְ]]&#8207; </big>**| me.Va.Rekh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  |**<big>&#8207;[[H7453\|רֵעֵ֨]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a voice  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָּ֭דוֹל]]&#8207; </big>**| Ga.dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֣קֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rising early  |**<big>&#8207;[[H7925\|הַשְׁכֵּ֑ים]]&#8207; </big>**| hash.Keim<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a curse  |**<big>&#8207;[[H7045\|קְ֝לָלָ֗ה]]&#8207; </big>**| ke.la.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is reckoned  |**<big>&#8207;[[H2803H\|תֵּחָ֥שֶׁב]]&#8207; </big>**| te.Cha.shev<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.13|<< Proverbs 27:13]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.15|Proverbs 27:15 >>]]</td></tr></table>
 
 

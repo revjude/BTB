@@ -7,32 +7,32 @@ So now [it was] not you [that] sent me hither, but God: and he hath made me a fa
 Therefore it was not you who sent me here, but God, who has made me a father to Pharaoh—lord of all his household and ruler over all the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Gen.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.7|<< Genesis 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.9|Genesis 45:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| send me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">απεστάλκατε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| here, | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| to Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| master | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| you did not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| send me | **<big>[[G1473\|με]]</big>** **<big>[[G0649\|απεστάλκατε]]</big>** |
+| here, | **<big>[[G5602\|ώδε]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God. | **<big>[[G2316\|θεός]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| father | **<big>[[G3962\|πατέρα]]</big>** |
+| to Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| master | **<big>[[G2962\|κύριον]]</big>** |
+| of all | **<big>[[G3956\|παντός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his house, | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Gen.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.7|<< Genesis 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.9|Genesis 45:9 >>]]</td></tr></table>
 
 

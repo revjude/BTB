@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָדַי‎</span></big> **Mâday** <small>*(maw-dah'-ee)*</small> ==**Mede**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎מָדַי‎</span><sup><small>[[H4074]]</small></sup></small>
+**<big><span class="ashebrew">‎מָדַי‎</span></big>** **Mâday** <small>*(maw-dah'-ee)*</small> ==**Mede**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H4074|‎מָדַי‎]]</big>**</small>
 
 $\quad$ Mede.
 - § Mede = *"middle land"*

@@ -7,27 +7,27 @@ When my spirit was overwhelmed within me, then thou knewest my path. In the way 
 Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me.<small><sub>**MT:**</sub></small>
 [[Ps.142.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.2|<< Psalm 142:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.4|Psalm 142:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| failing | <big><span class="asgreek">εκλείπειν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit | <big><span class="asgreek">πνεύμά</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| knew | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my paths; | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this \[very\] way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| that | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| I went, | <big><span class="asgreek">επορευόμην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| they hid | <big><span class="asgreek">έκρυψαν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| a snare | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| for me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| failing | **<big>[[G1587\|εκλείπειν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my spirit | **<big>[[G4151\|πνεύμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| knew | **<big>[[G1097\|έγνως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my paths; | **<big>[[G5147\|τρίβους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this \[very\] way | **<big>[[G3598\|οδώ]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| that | **<big>[[G3588\|η]]</big>** |
+| I went, | **<big>[[G4198\|επορευόμην]]</big>** |
+| they hid | **<big>[[G2928\|έκρυψαν]]</big>** |
+| a snare | **<big>[[G3803\|παγίδα]]</big>** |
+| for me. | **<big>[[G1473\|μοι]]</big>** |
 [[Ps.142.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.2|<< Psalm 142:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.4|Psalm 142:4 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחוֹחִי‎</span></big> **ʼĂchôwchîy** <small>*(akh-o-khee')*</small> ==**Ahohite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎אַחֲוָה‎</span><sup><small>[[H0264]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲחוֹחִי‎</span></big>** **ʼĂchôwchîy** <small>*(akh-o-khee')*</small> ==**Ahohite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H0264|‎אַחֲוָה‎]]</big>**</small>
 
 $\quad$ Ahohite.
 - § Ahohite = *"brother of rest"*

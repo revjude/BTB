@@ -6,14 +6,14 @@ The LORD is far from the wicked, but He hears the prayer of the righteous.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.28|<< Proverbs 15:28]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.30|Proverbs 15:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] far  | <span class="ashebrew"><big>רָח֣וֹק </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| ra.Chok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from wicked [people]  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רְשָׁעִ֑ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] prayer of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְפִלַּ֖ת </big></span><small><small><sup>[[H8605]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.fi.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֣ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he hears  | <span class="ashebrew"><big>יִשְׁמָֽע </big></span><small><small><sup>[[H8085G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yish.Ma' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] far  |**<big>&#8207;[[H7350\|רָח֣וֹק]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from wicked [people]  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7563\|רְשָׁעִ֑ים]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] prayer of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8605\|תְפִלַּ֖ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.fi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֣ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he hears  |**<big>&#8207;[[H8085G\|יִשְׁמָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.28|<< Proverbs 15:28]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.30|Proverbs 15:30 >>]]</td></tr></table>
 
 

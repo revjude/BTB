@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹקֵד‎</span></big> **môwqêd** <small>*(mo-kade')*</small> ==**burning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָקַד‎</span><sup><small>[[H3344]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹקֵד‎</span></big>** **môwqêd** <small>*(mo-kade')*</small> ==**burning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3344|‎יָקַד‎]]</big>**</small>
 
 $\quad$ burning, hearth.
 - ***a fire*** or ***fuel***

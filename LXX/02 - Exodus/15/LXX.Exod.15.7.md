@@ -7,24 +7,24 @@ And in the greatness of thine excellency thou hast overthrown them that rose up 
 You overthrew Your adversaries by Your great majesty. You unleashed Your burning wrath; it consumed them like stubble.<small><sub>**MT:**</sub></small>
 [[Exod.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.6|<< Exodus 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.8|Exodus 15:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| magnitude | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you broke | <big><span class="asgreek">συνέτριψας</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opponents. | <big><span class="asgreek">υπεναντίους</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
-| You sent | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your anger, | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| stubble. | <big><span class="asgreek">καλάμην</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τω]]</big>** |
+| magnitude | **<big>[[G4128\|πλήθει]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your glory | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you broke | **<big>[[G4937\|συνέτριψας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| opponents. | **<big>[[G5227\|υπεναντίους]]</big>** |
+| You sent | **<big>[[G0649\|απέστειλας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your anger, | **<big>[[G3709\|οργήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it devoured | **<big>[[G2719\|κατέφαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| stubble. | **<big>[[G2562\|καλάμην]]</big>** |
 [[Exod.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.6|<< Exodus 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.8|Exodus 15:8 >>]]</td></tr></table>
 
 

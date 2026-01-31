@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎אֲדַרְגָּזֵר‎</span></big> **ʼădargâzêr** <small>*(ad-ar''-gaw-zare')*</small> ==**judge**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from the same as <span class="asaramaic">‎אִדַּר‎</span><sup><small>[[H0147]]</small></sup>, and <span class="asaramaic">‎גְּזַר‎</span><sup><small>[[H1505]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲדַרְגָּזֵר‎</span></big>** **ʼădargâzêr** <small>*(ad-ar''-gaw-zare')*</small> ==**judge**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from the same as **<big>[[H0147|‎אִדַּר‎]]</big>**, and **<big>[[H1505|‎גְּזַר‎]]</big>**</small>
 
 $\quad$ judge.
 - ***a chief diviner***, or ***astrologer***
 
 **1)** judge (diviner), counsellor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup>
+<small>See Greek: </small>**<big>[[G2233|ἡγέομαι]]</big>**

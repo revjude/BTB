@@ -11,35 +11,35 @@ This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh ma
 > $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of foreigners, | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| \[with an\] uncircumcised | <big><span class="asgreek">απερίτμητος</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
-| heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| uncircumcised | <big><span class="asgreek">απερίτμητος</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
-| in flesh, | <big><span class="asgreek">σαρκί</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy places, | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">αλλογενών</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \[of the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| sons | **<big>[[G5207\|υιός]]</big>** |
+| of foreigners, | **<big>[[G0241\|αλλογενής]]</big>** |
+| \[with an\] uncircumcised | **<big>[[G0564\|απερίτμητος]]</big>** |
+| heart, | **<big>[[G2588\|καρδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| uncircumcised | **<big>[[G0564\|απερίτμητος]]</big>** |
+| in flesh, | **<big>[[G4561\|σαρκί]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my holy places, | **<big>[[G0039\|άγιά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| foreigners | **<big>[[G0241\|αλλογενών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \[of the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.8|<< Ezekiel 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.10|Ezekiel 44:10 >>]]</td></tr></table>
 
 

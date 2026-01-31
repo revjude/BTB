@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צַר‎</span></big> **tsar** <small>*(tsar)*</small> ==**narrow**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">צָר</span> **tsâr** <small>*(tsawr)*</small>; from <span class="ashebrew">‎צָרַר‎</span><sup><small>[[H6887]]</small></sup>; compare as in <span class="ashebrew">‎צֹר‎</span><sup><small>[[H6864]]</small></sup></small>
+**<big><span class="ashebrew">‎צַר‎</span></big>** **tsar** <small>*(tsar)*</small> ==**narrow**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">צָר</span></big>** **tsâr** <small>*(tsawr)*</small>; from **<big>[[H6887|‎צָרַר‎]]</big>**; compare as in **<big>[[H6864|‎צֹר‎]]</big>**</small>
 
 $\quad$ adversary, afflicted(-tion), anguish, close, distress, enemy, flint, foe, narrow, small, sorrow, strait, tribulation, trouble.
 - ***narrow***
@@ -12,4 +12,4 @@ $\quad$ adversary, afflicted(-tion), anguish, close, distress, enemy, flint, foe
 **3)** adversary, foe, enemy, oppressor
 **4)** hard pebble, flint
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνάγκη</span><sup><small>[[G0318]]</small></sup> · <span class="asgreek">βίαιος</span><sup><small>[[G0972]]</small></sup> · <span class="asgreek">διάβολος</span><sup><small>[[G1228]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐχθρός</span><sup><small>[[G2190]]</small></sup> · <span class="asgreek">θλίβω</span><sup><small>[[G2346]]</small></sup> · <span class="asgreek">θλῖψις</span><sup><small>[[G2347]]</small></sup> · <span class="asgreek">κακός</span><sup><small>[[G2556]]</small></sup> · <span class="asgreek">στενός</span><sup><small>[[G4728]]</small></sup> · <span class="asgreek">στερεός</span><sup><small>[[G4731]]</small></sup> · <span class="asgreek">ὑπεναντίος</span><sup><small>[[G5227]]</small></sup>
+<small>See Greek: </small>**<big>[[G0318|ἀνάγκη]]</big>** · **<big>[[G0972|βίαιος]]</big>** · **<big>[[G1228|διάβολος]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G2190|ἐχθρός]]</big>** · **<big>[[G2346|θλίβω]]</big>** · **<big>[[G2347|θλῖψις]]</big>** · **<big>[[G2556|κακός]]</big>** · **<big>[[G4728|στενός]]</big>** · **<big>[[G4731|στερεός]]</big>** · **<big>[[G5227|ὑπεναντίος]]</big>**

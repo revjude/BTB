@@ -10,15 +10,15 @@ Woe to the land shadowing with wings, which [is] beyond the rivers of Ethiopia:
 Woe to the land of whirring wings, along the rivers of Cush,<small><sub>**MT:**</sub></small>
 [[Isa.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Woe, | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| O land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of boats | <big><span class="asgreek">πλοίων</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| of wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| beyond | <big><span class="asgreek">επέκεινα</span></big> <sup><small><small>[[G1900]]</small></small></sup> |
-| \[the\] rivers | <big><span class="asgreek">ποταμών</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| of Ethiopia. | <big><span class="asgreek">Αιθιοπίας</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| Woe, | **<big>[[G3759\|ουαί]]</big>** |
+| O land | **<big>[[G1093\|γης]]</big>** |
+| of boats | **<big>[[G4143\|πλοίων]]</big>** |
+| of wings | **<big>[[G4420\|πτερύγων]]</big>** |
+| beyond | **<big>[[G1900\|επέκεινα]]</big>** |
+| \[the\] rivers | **<big>[[G4215\|ποταμών]]</big>** |
+| of Ethiopia. | **<big>[[G0128\|Αιθιοπίας]]</big>** |
 [[Isa.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 
 

@@ -10,22 +10,22 @@ And there was a great cry of the people and of their wives against their brethre
 About that time there was a great outcry from the people and their wives against their fellow Jews.<small><sub>**MT:**</sub></small>
 [[Neh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their wives | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews. | <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| cry | **<big>[[G2906\|κραυγή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their wives | **<big>[[G1135\|γυναικών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| Jews. | **<big>[[G2453\|Ιουδαίους]]</big>** |
 [[Neh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 
 

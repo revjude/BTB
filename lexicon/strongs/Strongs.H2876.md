@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טַבָּח‎</span></big> **ṭabbâch** <small>*(tab-bawkh')*</small> ==**guard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎טָבַח‎</span><sup><small>[[H2873]]</small></sup></small>
+**<big><span class="ashebrew">‎טַבָּח‎</span></big>** **ṭabbâch** <small>*(tab-bawkh')*</small> ==**guard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2873|‎טָבַח‎]]</big>**</small>
 
 $\quad$ cook, guard.
 - properly, ***a butcher***

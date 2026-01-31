@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָנַק‎</span></big> **ʻânaq** <small>*(aw-nak')*</small> ==**to ornament**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; properly, to choke; used only as denominative from <span class="ashebrew">‎עָנָק‎</span><sup><small>[[H6060]]</small></sup>,</small>
+**<big><span class="ashebrew">‎עָנַק‎</span></big>** **ʻânaq** <small>*(aw-nak')*</small> ==**to ornament**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; properly, to choke; used only as denominative from **<big>[[H6060|‎עָנָק‎]]</big>**,</small>
 
 $\quad$ compass about as a chain, furnish, liberally.
 - ***to collar***, i.e. ***adorn with a******necklace***

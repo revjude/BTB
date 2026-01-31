@@ -7,21 +7,21 @@ Oh that I might have my request; and that God would grant [me] the thing that I 
 If only my request were granted and God would fulfill my hope:<small><sub>**MT:**</sub></small>
 [[Job.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.9|Job 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if \[only\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he might give | <big><span class="asgreek">δώη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| might come | <big><span class="asgreek">έλθοι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| requests | <big><span class="asgreek">αίτησις</span></big> <sup><small><small>[[G6173]]</small></small></sup> |
-| and \[that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| might grant | <big><span class="asgreek">δώη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For if \[only\] | **<big>[[G1487\|ει]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he might give | **<big>[[G1325\|δώη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| might come | **<big>[[G2064\|έλθοι]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| requests | **<big>[[G6173\|αίτησις]]</big>** |
+| and \[that\] | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hope | **<big>[[G1680\|ελπίδα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| might grant | **<big>[[G1325\|δώη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
 [[Job.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.9|Job 6:9 >>]]</td></tr></table>
 
 

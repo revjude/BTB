@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Rhodes</span> was an island where Paul stopped during his journey to Jerusalem \(Act. 21:1\).
 - A location only mentioned at [[Isa.37.12|Act.21.1]]; 
-- only referred to as Rhodes<[[G4499]]> \(<span class='tipnrLangGreek'>Ῥόδος</span>\).
+- only referred to as Rhodes **<big>[[G4499|Ῥόδος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.44192632910195,28.22672173336723&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Rhodes is an island in the Aegean Sea, located off the southwestern coast of Asi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Rhodes | [<span class='tipnrLangGreek'>Ῥόδος</span>](G4499) <small>*Greek*</small> | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rhodes\*\|reference=Act.21.1) |
-All Strong's for **Rhodes**: \[[[G4499]]\]
+| Rhodes | [<span class='tipnrLangGreek'>Ῥόδος</span>](G4499) | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rhodes\*\|reference=Act.21.1) |
+All entries for **Rhodes**:  **<big>[[G4499|Ῥόδος]]</big>**

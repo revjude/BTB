@@ -4,7 +4,7 @@ Emperor living at the time of the New Testament
 
 <span class='tipnrhighlight'>Claudius</span> was the Roman emperor during part of Paul's ministry. \([[2Tim.4.21|Act.11.28]]; 18.2; 17.7; 25.8,10,11,12,12,21; 26.32; 27.24; 28.19\)
 - A Roman Emperor living at the time of the New Testament, first mentioned at [[2Tim.4.21|Act.11.28]]; 
-- referred to as Claudius<[[G2804G]]> \(<span class='tipnrLangGreek'>Κλαύδιος</span>\), or Caesar<[[G2541H]]> \(<span class='tipnrLangGreek'>Καῖσαρ</span>\).
+- referred to as Claudius **<big>[[G2804|Κλαύδιος]]</big>**, or Caesar **<big>[[G2541|Καῖσαρ]]</big>**.
 
 Claudius, also referred to as Caesar, was the Roman emperor during a significant portion of Paul's ministry. He is mentioned in several contexts throughout the book of Acts. 
 
@@ -24,6 +24,6 @@ These references to Claudius provide historical context for the events in Acts a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Claudius | [<span class='tipnrLangGreek'>Κλαύδιος</span>](G2804G) <small>*Greek*</small> | 2x | [[Act.11.28] & [Act.18.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Claudius\*\|reference=Act.11.28;Act.18.2) |
-| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541H) <small>*Greek*</small> | 11x | [[Act.11.28] ... [Act.28.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Act.11.28;Act.17.7;Act.25.8;Act.25.10;Act.25.11;Act.25.12;Act.25.12;Act.25.21;Act.26.32;Act.27.24;Act.28.19) |
-All Strong's for **Claudius or Caesar**: \[[[G2804G]]\] \[[[G2541H]]\]
+| Claudius | [<span class='tipnrLangGreek'>Κλαύδιος</span>](G2804G) | 2x | [[Act.11.28] & [Act.18.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Claudius\*\|reference=Act.11.28;Act.18.2) |
+| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541H) | 11x | [[Act.11.28] ... [Act.28.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Act.11.28;Act.17.7;Act.25.8;Act.25.10;Act.25.11;Act.25.12;Act.25.12;Act.25.21;Act.26.32;Act.27.24;Act.28.19) |
+All entries for **Claudius or Caesar**:  **<big>[[G2804|Κλαύδιος]]</big>** ☩  **<big>[[G2541|Καῖσαρ]]</big>**

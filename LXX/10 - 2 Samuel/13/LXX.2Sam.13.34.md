@@ -7,34 +7,34 @@ But Absalom fled. And the young man that kept the watch lifted up his eyes, and 
 Meanwhile, Absalom had fled. When the young man standing watch looked up, he saw many people coming down the road west of him, along the side of the hill. And the watchman went and reported to the king, “I see men coming from the direction of Horonaim, along the side of the hill.”<small><sub>**MT:**</sub></small>
 [[2Sam.13.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.33|<< 2 Samuel 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.35|2 Samuel 13:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Absalom ran away. | <big><span class="asgreek">απέδρα</span></big> <sup><small><small>[[G6424]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήρε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watchman | <big><span class="asgreek">σκοπός</span></big> <sup><small><small>[[G4649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked. | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \[there were\] many | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενος</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| behind | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] side | <big><span class="asgreek">πλευράς</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Absalom ran away. | **<big>[[G6424\|απέδρα]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| lifted | **<big>[[G0142\|ήρε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| servant | **<big>[[G3808\|παιδάριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| watchman | **<big>[[G4649\|σκοπός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| looked. | **<big>[[G1492\|είδε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \[there were\] many | **<big>[[G4183\|πολύς]]</big>** |
+| going | **<big>[[G4198\|πορευόμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| behind | **<big>[[G3693\|όπισθεν]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] side | **<big>[[G4125\|πλευράς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mountain. | **<big>[[G3735\|όρους]]</big>** |
 [[2Sam.13.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.33|<< 2 Samuel 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.35|2 Samuel 13:35 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶשֶׁת‎</span></big> **ʻesheth** <small>*(eh'-sheth)*</small> ==**plate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָשַׁת‎</span><sup><small>[[H6245]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶשֶׁת‎</span></big>** **ʻesheth** <small>*(eh'-sheth)*</small> ==**plate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6245|‎עָשַׁת‎]]</big>**</small>
 
 $\quad$ bright.
 - ***a fabric***

@@ -7,28 +7,28 @@ Now these [are the things wherein] Solomon was instructed for the building of th
 The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.<small><sub>**MT:**</sub></small>
 [[2Chr.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Solomon began | <big><span class="asgreek">ήρξατο</span></big> <sup><small><small>[[G0756]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to build: | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God -- | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| measurement | <big><span class="asgreek">διαμετρήσεως</span></big> <sup><small><small>[[G6849]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτης</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| Solomon began | **<big>[[G0756\|ήρξατο]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to build: | **<big>[[G3618\|οικοδομήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God -- | **<big>[[G2316\|θεού]]</big>** |
+| \[the\] length | **<big>[[G3372\|μήκος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| measurement | **<big>[[G6849\|διαμετρήσεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| first | **<big>[[G4413\|πρώτης]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \[was\] sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] breadth | **<big>[[G7563\|εύρος]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
 [[2Chr.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
 
 

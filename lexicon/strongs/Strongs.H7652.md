@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁבַע‎</span></big> **shebaʻ** <small>*(sheh'-bah)*</small> ==**Sheba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֶׁבַע‎</span><sup><small>[[H7651]]</small></sup>; seven</small>
+**<big><span class="ashebrew">‎שֶׁבַע‎</span></big>** **shebaʻ** <small>*(sheh'-bah)*</small> ==**Sheba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7651|‎שֶׁבַע‎]]</big>**; seven</small>
 
 $\quad$ Sheba.
 - § Sheba = *"seven"*

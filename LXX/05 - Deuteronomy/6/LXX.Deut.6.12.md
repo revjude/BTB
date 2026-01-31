@@ -7,24 +7,24 @@ take heed to yourself! \[that\] you should not forget \[the\] <span class="small
 be careful not to forget the LORD who brought you out of the land of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
 [[Deut.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.11|<< Deuteronomy 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.13|Deuteronomy 6:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| take heed | <big><span class="asgreek">προσέχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourself! | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \[that\] you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| forget | <big><span class="asgreek">επιλάθη</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leading | <big><span class="asgreek">εξαγαγόντος</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of slavery. | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
+| take heed | **<big>[[G4337\|προσέχε]]</big>** |
+| to yourself! | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \[that\] you should not | **<big>[[G3361\|μη]]</big>** |
+| forget | **<big>[[G1950\|επιλάθη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| leading | **<big>[[G1806\|εξαγαγόντος]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| a house | **<big>[[G3624\|οίκου]]</big>** |
+| of slavery. | **<big>[[G1397\|δουλείας]]</big>** |
 [[Deut.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.11|<< Deuteronomy 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.13|Deuteronomy 6:13 >>]]</td></tr></table>
 
 

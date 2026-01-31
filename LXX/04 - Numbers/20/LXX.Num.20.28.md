@@ -10,36 +10,36 @@ And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and
 After Moses had removed Aaron’s garments and put them on his son Eleazar, Aaron died there on top of the mountain. Then Moses and Eleazar came down from the mountain.<small><sub>**MT:**</sub></small>
 [[Num.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.27|<< Numbers 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.29|Numbers 20:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| stripped off | <big><span class="asgreek">εξέδυσε</span></big> <sup><small><small>[[G1562]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garments, | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">ενέδυσεν</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| them \[on\] | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Eleazar | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son. | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eleazar | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| stripped off | **<big>[[G1562\|εξέδυσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his garments, | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G1746\|ενέδυσεν]]</big>** |
+| them \[on\] | **<big>[[G1473\|αυτά]]</big>** |
+| Eleazar | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his son. | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Aaron died | **<big>[[G0599\|απέθανεν]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| top | **<big>[[G8073\|κορυφής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mountain. | **<big>[[G3735\|όρους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came down | **<big>[[G2597\|κατέβη]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eleazar | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain. | **<big>[[G3735\|όρους]]</big>** |
 [[Num.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.27|<< Numbers 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.29|Numbers 20:29 >>]]</td></tr></table>
 
 

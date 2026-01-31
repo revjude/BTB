@@ -1,7 +1,5 @@
-<span class="ashebrew">‎לוּד‎</span> <small>***(lud)***</small> ==**Lud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.22|Gen.10.22]]
--  son of: Shem ([[H8035]])
--  brother of: Asshur ([[H0804H]]), Elam ([[H5867C]]), Arpachshad ([[H0775]]) and Aram ([[H0758]])
-- Also named: <i>lu.di</i> (<span class='ashebrew'>‎לו‎</span>ּ<span class='ashebrew'>‎ד‎</span>ִ<span class='ashebrew'>‎י‎</span> "Lydian" [[H3866H]])
+-  son of: Shem (**<big>[[H8035|שֵׁם]]</big>**)
+-  brother of: Asshur (**<big>[[H0804H|אַשּׁוּר]]</big>**), Elam (**<big>[[H5867C|עֵילָם]]</big>**), Arpachshad (**<big>[[H0775|אַרְפַּכְשַׁד]]</big>**) and Aram (**<big>[[H0758|אֲרָם]]</big>**)
+- Also named: <i>lu.di</i> (<span class='ashebrew'>‎לו‎</span>ּ<span class='ashebrew'>‎ד‎</span>ִ<span class='ashebrew'>‎י‎</span> "Lydian" **<big>[[H3866H|לוּדִי]]</big>**)
 - n patr
-

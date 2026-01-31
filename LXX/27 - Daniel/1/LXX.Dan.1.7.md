@@ -7,29 +7,29 @@ Unto whom the prince of the eunuchs gave names: for he gave unto Daniel [the nam
 The chief official gave them new names: To Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.<small><sub>**MT:**</sub></small>
 [[Dan.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.6|<< Daniel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.8|Daniel 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| added | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief eunuch | <big><span class="asgreek">αρχιευνούχος</span></big> <sup><small><small>[[G6553]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Daniel -- | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| Belteshazzar, | <big><span class="asgreek">Βαλτάσαρ</span></big> <sup><small><small>[[H1113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hananiah -- | <big><span class="asgreek">Ανανία</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mishael -- | <big><span class="asgreek">Μισαήλ</span></big> <sup><small><small>[[H4333]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάκ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Azariah -- | <big><span class="asgreek">Αζαρία</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| Abed-nego. | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| added | **<big>[[G2007\|επέθηκεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief eunuch | **<big>[[G6553\|αρχιευνούχος]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Daniel -- | **<big>[[G1158\|Δανιήλ]]</big>** |
+| Belteshazzar, | **<big>[[H1113\|Βαλτάσαρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Hananiah -- | **<big>[[H2608b\|Ανανία]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Mishael -- | **<big>[[H4333\|Μισαήλ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Azariah -- | **<big>[[H5839\|Αζαρία]]</big>** |
+| Abed-nego. | **<big>[[H5665\|Αβδεναγώ]]</big>** |
 [[Dan.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.6|<< Daniel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.8|Daniel 1:8 >>]]</td></tr></table>
 
 

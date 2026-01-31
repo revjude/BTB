@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֳהָתִי‎</span></big> **Qŏhâthîy** <small>*(ko-haw-thee')*</small> ==**Kohathite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎קְהָת‎</span><sup><small>[[H6955]]</small></sup></small>
+**<big><span class="ashebrew">‎קֳהָתִי‎</span></big>** **Qŏhâthîy** <small>*(ko-haw-thee')*</small> ==**Kohathite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H6955|‎קְהָת‎]]</big>**</small>
 
 $\quad$ Kohathites.
 - § Kohathites = *see Kohath "assembly"*

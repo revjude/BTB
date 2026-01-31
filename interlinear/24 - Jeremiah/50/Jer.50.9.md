@@ -6,30 +6,30 @@ For behold, I stir up and bring against Babylon an assembly of great nations fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.8|<< Jeremiah 50:8]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.10|Jeremiah 50:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹכִ֡י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to rouse  | <span class="ashebrew"><big>מֵעִיר֩ </big></span><small><small><sup>[[H5782]]</sup></small></small> &#8207;| me.'Ir <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [am] about to bring up  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַעֲלֶ֨ה </big></span><small><small><sup>[[H5927H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.'a.Leh <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֜ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an assembly of  | <span class="ashebrew"><big>קְהַל </big></span><small><small><sup>[[H6951]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.hal- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גּוֹיִ֤ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גְּדֹלִים֙ </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a land of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] north  | <span class="ashebrew"><big>צָפ֔וֹן </big></span><small><small><sup>[[H6828G]]</sup></small></small> &#8207;| tza.Fon <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will line up  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָ֣רְכוּ </big></span><small><small><sup>[[H6186A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'A.re.khu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> it  | <span class="ashebrew"><big>לָ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| La <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from there  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שָּׁ֖ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be captured  | <span class="ashebrew"><big>תִּלָּכֵ֑ד </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| ti.la.Khed <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrows its  | <span class="ashebrew"><big>חִצָּי </big></span><small><small><sup>[[H2671]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| chi.Tza <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] like a warrior  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>גִבּ֣וֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> gi.Bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| skillful  | <span class="ashebrew"><big>מַשְׁכִּ֔יל </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| mash.Kil <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he returns  | <span class="ashebrew"><big>יָשׁ֖וּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ya.Shuv <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| empty  | <span class="ashebrew"><big>רֵיקָֽם </big></span><small><small><sup>[[H7387]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| rei.Kam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֡י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to rouse  |**<big>&#8207;[[H5782\|מֵעִיר֩]]&#8207; </big>**| me.'Ir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [am] about to bring up  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5927H\|מַעֲלֶ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Leh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֜ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an assembly of  |**<big>&#8207;[[H6951\|קְהַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.hal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֤ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גְּדֹלִים֙]]&#8207; </big>**| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] north  |**<big>&#8207;[[H6828G\|צָפ֔וֹן]]&#8207; </big>**| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will line up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6186A\|עָ֣רְכוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.re.khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> it  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֖ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be captured  |**<big>&#8207;[[H3920\|תִּלָּכֵ֑ד]]&#8207; </big>**| ti.la.Khed<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrows its  |**<big>&#8207;[[H2671\|חִצָּי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| chi.Tza<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] like a warrior  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1368\|גִבּ֣וֹר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skillful  |**<big>&#8207;[[H7919A\|מַשְׁכִּ֔יל]]&#8207; </big>**| mash.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he returns  |**<big>&#8207;[[H7725G\|יָשׁ֖וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| empty  |**<big>&#8207;[[H7387\|רֵיקָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| rei.Kam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.8|<< Jeremiah 50:8]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.10|Jeremiah 50:10 >>]]</td></tr></table>
 
 

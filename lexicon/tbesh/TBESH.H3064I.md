@@ -1,9 +1,8 @@
-<span class="ashebrew">‎יְהוּדִי‎</span> <small>***(ye.hu.di)***</small> ==**of Judah**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H3063G]]</small> 
+<small>group of:</small> <small>**<big>[[H3063G|יְהוּדָה]]</big>**</small> 
 
 - People descended from Judah, living at the time of the Patriarchs, first mentioned at [[Gen.29.35|Gen.29.35]]
--  son of: Israel ([[H3478]]) and Leah ([[H3812]])
--  brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Issachar ([[H3485]]), Zebulun ([[H2074]]) and Dinah ([[H1783]])
--  half-brother of: Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Joseph ([[H3130]]) and Benjamin ([[H1144]]); married to Bath-shua ([[H1323I]]) and Tamar ([[H8559]])
--  father of: Er ([[H6147]]), Onan ([[H0209]]), Shelah ([[H7956]]), Perez ([[H6557]]) and Zerah ([[H2226I]])
-- Group of <i>ye.hu.dah</i> (<span class='ashebrew'>‎י‎</span>ְ<span class='ashebrew'>‎הו‎</span>ּ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ה‎</span> "Judah" [[H3063]])
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)
+-  brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)
+-  half-brother of: Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**); married to Bath-shua (**<big>[[H1323I|בַּת]]</big>**) and Tamar (**<big>[[H8559|תָּמָר]]</big>**)
+-  father of: Er (**<big>[[H6147|עֵר]]</big>**), Onan (**<big>[[H0209|אוֹנָן]]</big>**), Shelah (**<big>[[H7956|שֵׁלָה]]</big>**), Perez (**<big>[[H6557|פֶּרֶץ]]</big>**) and Zerah (**<big>[[H2226I|זֶרַח]]</big>**)
+- Group of <i>ye.hu.dah</i> (<span class='ashebrew'>‎י‎</span>ְ<span class='ashebrew'>‎הו‎</span>ּ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ה‎</span> "Judah" **<big>[[H3063|יְהוּדָה]]</big>**)

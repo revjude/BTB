@@ -7,25 +7,25 @@ And the earth shall hear the corn, and the wine, and the oil; and they shall hea
 And the earth will respond to the grain, to the new wine and oil, and they will respond to Jezreel.<small><sub>**MT:**</sub></small>
 [[Hos.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.21|<< Hosea 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.23|Hosea 2:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| shall heed | <big><span class="asgreek">επακούσεται</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grain, | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive oil; | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall \[give\] heed | <big><span class="asgreek">επακούσεται</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jezreel. | <big><span class="asgreek">Ιεζραέλ</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| shall heed | **<big>[[G1873\|επακούσεται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| grain, | **<big>[[G4621\|σίτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| olive oil; | **<big>[[G1637\|έλαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτά]]</big>** |
+| shall \[give\] heed | **<big>[[G1873\|επακούσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jezreel. | **<big>[[H3157\|Ιεζραέλ]]</big>** |
 [[Hos.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.21|<< Hosea 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.23|Hosea 2:23 >>]]</td></tr></table>
 
 

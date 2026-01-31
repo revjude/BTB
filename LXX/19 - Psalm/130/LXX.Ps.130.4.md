@@ -7,20 +7,20 @@ But [there is] forgiveness with thee, that thou mayest be feared.
 But with You there is forgiveness, so that You may be feared.<small><sub>**MT:**</sub></small>
 [[Ps.130.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.3|<< Psalm 130:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.5|Psalm 130:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement | <big><span class="asgreek">ιλασμός</span></big> <sup><small><small>[[G2434]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">ονόματός</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I waited | <big><span class="asgreek">υπέμεινά</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| for you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| atonement | **<big>[[G2434\|ιλασμός]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your name | **<big>[[G3686\|ονόματός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I waited | **<big>[[G5278\|υπέμεινά]]</big>** |
+| for you, | **<big>[[G1473\|σε]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Ps.130.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.3|<< Psalm 130:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.5|Psalm 130:5 >>]]</td></tr></table>
 
 

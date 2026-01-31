@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Arab</span>, a town in the hill country of Judah.
 - A location only mentioned at [[Josh.15.52|Jos.15.52]]; 
-- only referred to as Arab<[[H0694]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Arab **<big>[[H0694|אֲרָב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.450746,35.045648&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its mention in the list of Judah's cities, no other information about
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arab | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0694) <small>*Hebrew*</small> | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arab\*\|reference=Jos.15.52) |
-All Strong's for **Arab**: \[[[H0694]]\]
+| Arab | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0694) | 1x | [Jos.15.52 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arab\*\|reference=Jos.15.52) |
+All entries for **Arab**:  **<big>[[H0694|אֲרָב]]</big>**

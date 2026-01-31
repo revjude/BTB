@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹשֵׁעַ‎</span></big> **Hôwshêaʻ** <small>*(ho-shay'-ah)*</small> ==**Hoshea**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָשַׁע‎</span><sup><small>[[H3467]]</small></sup>; deliverer</small>
+**<big><span class="ashebrew">‎הוֹשֵׁעַ‎</span></big>** **Hôwshêaʻ** <small>*(ho-shay'-ah)*</small> ==**Hoshea**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3467|‎יָשַׁע‎]]</big>**; deliverer</small>
 
 $\quad$ Hosea, Hoshea, Oshea.
 - § Hosea or Hoshea or Oshea = *"salvation"*
@@ -11,4 +11,4 @@ $\quad$ Hosea, Hoshea, Oshea.
 **4)** a son of Azaziah, a chief of Ephraim in the time of David
 **5)** an Israelite chief who sealed the covenant with Nehemiah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ὡσηέ</span><sup><small>[[G5617]]</small></sup>
+<small>See Greek: </small>**<big>[[G5617|Ὡσηέ]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּבְרִי‎</span></big> **Dibrîy** <small>*(dib-ree')*</small> ==**Dibri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּבָר‎</span><sup><small>[[H1697]]</small></sup>; wordy</small>
+**<big><span class="ashebrew">‎דִּבְרִי‎</span></big>** **Dibrîy** <small>*(dib-ree')*</small> ==**Dibri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1697|‎דָּבָר‎]]</big>**; wordy</small>
 
 $\quad$ Dibri.
 - § Dibri = *"my word"*

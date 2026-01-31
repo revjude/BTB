@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּעָה‎</span></big> **bâʻâh** <small>*(baw-aw')*</small> ==**to enquire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּעָה‎</span></big>** **bâʻâh** <small>*(baw-aw')*</small> ==**to enquire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cause, inquire, seek up, swell out.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Niphal)
 $\quad$ $\quad$ **1b1)** to be searched out
 $\quad$ $\quad$ **1b2)** to be swelling, bulging, swelling out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζητέω</span><sup><small>[[G2212]]</small></sup> · <span class="asgreek">κατακαίω</span><sup><small>[[G2618]]</small></sup> · <span class="asgreek">καταλαμβάνω</span><sup><small>[[G2638]]</small></sup>
+<small>See Greek: </small>**<big>[[G2212|ζητέω]]</big>** · **<big>[[G2618|κατακαίω]]</big>** · **<big>[[G2638|καταλαμβάνω]]</big>**

@@ -7,28 +7,28 @@ Then he said, God do so and more also to me, if the head of Elisha the son of Sh
 He announced, “May God punish me, and ever so severely, if the head of Elisha son of Shaphat remains on his shoulders through this day!”<small><sub>**MT:**</sub></small>
 [[2Kgs.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.30|<< 2 Kings 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.32|2 Kings 6:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| add more, | <big><span class="asgreek">προσθείη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shaphat | <big><span class="asgreek">Σαφάτ</span></big> <sup><small><small>[[H8202]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| add more, | **<big>[[G4369\|προσθείη]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| shall stand | **<big>[[G2476\|στήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| head | **<big>[[G2776\|κεφαλή]]</big>** |
+| of Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Shaphat | **<big>[[H8202\|Σαφάτ]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[2Kgs.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.30|<< 2 Kings 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.32|2 Kings 6:32 >>]]</td></tr></table>
 
 

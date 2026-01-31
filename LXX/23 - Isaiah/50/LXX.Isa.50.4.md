@@ -7,27 +7,27 @@ The Lord GOD hath given me the tongue of the learned, that I should know how to 
 The Lord GOD has given Me the tongue of discipleship, to sustain the weary with a word. He awakens Me morning by morning; He awakens My ear to listen as a disciple.<small><sub>**MT:**</sub></small>
 [[Isa.50.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.3|<< Isaiah 50:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.5|Isaiah 50:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] Lord, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a tongue | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| of instruction | <big><span class="asgreek">παιδείας</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| it is necessary | <big><span class="asgreek">δει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
-| to speak | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| a word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| He stood | <big><span class="asgreek">έθηκέ</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \[by\] morning. | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| He added | <big><span class="asgreek">προσέθηκέ</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| an ear for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ωτίον</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
-| to hear. | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \[The\] Lord, | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| gives | **<big>[[G1325\|δίδωσί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a tongue | **<big>[[G1100\|γλώσσαν]]</big>** |
+| of instruction | **<big>[[G3809\|παιδείας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to know | **<big>[[G1097\|γνώναι]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| it is necessary | **<big>[[G1163\|δει]]</big>** |
+| to speak | **<big>[[G2036\|ειπείν]]</big>** |
+| a word. | **<big>[[G3056\|λόγον]]</big>** |
+| He stood | **<big>[[G5087\|έθηκέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| \[by\] morning. | **<big>[[G4404\|πρωϊ]]</big>** |
+| He added | **<big>[[G4369\|προσέθηκέ]]</big>** |
+| an ear for me | **<big>[[G1473\|μοι]]</big>** **<big>[[G5621\|ωτίον]]</big>** |
+| to hear. | **<big>[[G0191\|ακούειν]]</big>** |
 [[Isa.50.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.3|<< Isaiah 50:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.5|Isaiah 50:5 >>]]</td></tr></table>
 
 

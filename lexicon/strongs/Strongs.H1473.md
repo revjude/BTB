@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גּוֹלָה‎</span></big> **gôwlâh** <small>*(go-law')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">גֹּלָה</span> **gôlâh** <small>*(go-law')*</small>; active participle feminine of <span class="ashebrew">‎גָּלָה‎</span><sup><small>[[H1540]]</small></sup></small>
+**<big><span class="ashebrew">‎גּוֹלָה‎</span></big>** **gôwlâh** <small>*(go-law')*</small> ==**captivity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">גֹּלָה</span></big>** **gôlâh** <small>*(go-law')*</small>; active participle feminine of **<big>[[H1540|‎גָּלָה‎]]</big>**</small>
 
 $\quad$ (carried away), captive(-ity), removing.
 - ***exile***
@@ -9,4 +9,4 @@ $\quad$ (carried away), captive(-ity), removing.
 $\quad$ **1a)** exiles (coll)
 $\quad$ **1b)** exile, captivity (abstract)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰχμαλωσία</span><sup><small>[[G0161]]</small></sup> · <span class="asgreek">αἰχμάλωτος</span><sup><small>[[G0164]]</small></sup> · <span class="asgreek">μετοικεσία</span><sup><small>[[G3350]]</small></sup> · <span class="asgreek">παροικία</span><sup><small>[[G3940]]</small></sup>
+<small>See Greek: </small>**<big>[[G0161|αἰχμαλωσία]]</big>** · **<big>[[G0164|αἰχμάλωτος]]</big>** · **<big>[[G3350|μετοικεσία]]</big>** · **<big>[[G3940|παροικία]]</big>**

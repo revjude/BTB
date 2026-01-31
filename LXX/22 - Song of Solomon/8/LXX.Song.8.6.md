@@ -7,34 +7,34 @@ Set me as a seal upon thine heart, as a seal upon thine arm: for love [is] stron
 Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.<small><sub>**MT:**</sub></small>
 [[Song.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.5|<< Song of Solomon 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.7|Song of Solomon 8:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Set | <big><span class="asgreek">θες</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a seal | <big><span class="asgreek">σφραγίδα</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a seal | <big><span class="asgreek">σφραγίδα</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your arm! | <big><span class="asgreek">βραχίονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] strong | <big><span class="asgreek">κραταιά</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| love | <big><span class="asgreek">αγάπη</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| hard | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδης</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \[is\] jealousy; | <big><span class="asgreek">ζήλος</span></big> <sup><small><small>[[G2205]]</small></small></sup> |
-| her sparks | <big><span class="asgreek">περίπτερα</span></big> <sup><small><small>[[G8749]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] sparks | <big><span class="asgreek">περίπτερα</span></big> <sup><small><small>[[G8749]]</small></small></sup> |
-| of \[the\] fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| of her flames. | <big><span class="asgreek">φλόγες</span></big> <sup><small><small>[[G5395]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Set | **<big>[[G5087\|θες]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a seal | **<big>[[G4973\|σφραγίδα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a seal | **<big>[[G4973\|σφραγίδα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your arm! | **<big>[[G1023\|βραχίονά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] strong | **<big>[[G2900\|κραταιά]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| death | **<big>[[G2288\|θάνατος]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| love | **<big>[[G0026\|αγάπη]]</big>** |
+| hard | **<big>[[G4642\|σκληρός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Hades | **<big>[[G0086\|άδης]]</big>** |
+| \[is\] jealousy; | **<big>[[G2205\|ζήλος]]</big>** |
+| her sparks | **<big>[[G8749\|περίπτερα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[are\] sparks | **<big>[[G8749\|περίπτερα]]</big>** |
+| of \[the\] fire | **<big>[[G4442\|πυρός]]</big>** |
+| of her flames. | **<big>[[G5395\|φλόγες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Song.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.5|<< Song of Solomon 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.7|Song of Solomon 8:7 >>]]</td></tr></table>
 
 

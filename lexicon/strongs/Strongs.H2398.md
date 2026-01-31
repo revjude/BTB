@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָטָא‎</span></big> **châṭâʼ** <small>*(khaw-taw')*</small> ==**to sin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָטָא‎</span></big>** **châṭâʼ** <small>*(khaw-taw')*</small> ==**to sin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear the blame, cleanse, commit (sin), by fault, harm he hath done, loss, miss, (make) offend(-er), offer for sin, purge, purify (self), make reconciliation, (cause, make) sin(-ful, -ness), trespass.
@@ -24,4 +24,4 @@ $\quad$ **1d)** (Hithpael)
 $\quad$ $\quad$ **1d1)** to miss oneself, lose oneself, wander from the way
 $\quad$ $\quad$ **1d2)** to purify oneself from uncleanness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἁγνίζω</span><sup><small>[[G0048]]</small></sup> · <span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἁμαρτάνω</span><sup><small>[[G0264]]</small></sup> · <span class="asgreek">ἁμαρτία</span><sup><small>[[G0266]]</small></sup> · <span class="asgreek">ἁμαρτωλός</span><sup><small>[[G0268]]</small></sup> · <span class="asgreek">ἀναφέρω</span><sup><small>[[G0399]]</small></sup> · <span class="asgreek">ἀσεβής</span><sup><small>[[G0765]]</small></sup> · <span class="asgreek">ἐκκλίνω</span><sup><small>[[G1578]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">μιαίνω</span><sup><small>[[G3392]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">ῥαντίζω</span><sup><small>[[G4472]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0048|ἁγνίζω]]</big>** · **<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0264|ἁμαρτάνω]]</big>** · **<big>[[G0266|ἁμαρτία]]</big>** · **<big>[[G0268|ἁμαρτωλός]]</big>** · **<big>[[G0399|ἀναφέρω]]</big>** · **<big>[[G0765|ἀσεβής]]</big>** · **<big>[[G1578|ἐκκλίνω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G3392|μιαίνω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4472|ῥαντίζω]]</big>**

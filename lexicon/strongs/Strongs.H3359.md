@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְקַמְיָה‎</span></big> **Yᵉqamyâh** <small>*(yek-am-yaw')*</small> ==**Jekamiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will rise</small>
+**<big><span class="ashebrew">‎יְקַמְיָה‎</span></big>** **Yᵉqamyâh** <small>*(yek-am-yaw')*</small> ==**Jekamiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6965|‎קוּם‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will rise</small>
 
-$\quad$ Jekamiah. Compare <span class="ashebrew">‎יְהוֹיָקִים‎</span><sup><small>[[H3079]]</small></sup>.
+$\quad$ Jekamiah. Compare **<big>[[H3079|‎יְהוֹיָקִים‎]]</big>**.
 - § Jecamiah or Jekamiah = *"Jehovah raises"*
 - ***Jekamjah***, the name of two Israelites
 

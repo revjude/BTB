@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎סִפַּי‎</span></big> **Çippay** <small>*(sip-pah'-ee)*</small> ==**Sippai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎סַף‎</span><sup><small>[[H5592]]</small></sup>; bason-like</small>
+**<big><span class="ashebrew">‎סִפַּי‎</span></big>** **Çippay** <small>*(sip-pah'-ee)*</small> ==**Sippai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5592|‎סַף‎]]</big>**; bason-like</small>
 
-$\quad$ Sippai. Compare <span class="ashebrew">‎סַף‎</span><sup><small>[[H5593]]</small></sup>.
+$\quad$ Sippai. Compare **<big>[[H5593|‎סַף‎]]</big>**.
 - § Sippai = *"threshold"*
 - ***Sippai***, a Philistine
 

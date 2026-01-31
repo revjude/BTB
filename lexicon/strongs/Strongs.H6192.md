@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרַם‎</span></big> **ʻâram** <small>*(aw-ram')*</small> ==**to pile up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרַם‎</span></big>** **ʻâram** <small>*(aw-ram')*</small> ==**to pile up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gather together.

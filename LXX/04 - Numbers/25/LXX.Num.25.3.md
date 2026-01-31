@@ -7,18 +7,18 @@ And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled a
 So Israel joined in worshiping Baal of Peor, and the anger of the LORD burned against them.<small><sub>**MT:**</sub></small>
 [[Num.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.2|<< Numbers 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.4|Numbers 25:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel was initiated | <big><span class="asgreek">ετελέσθη</span></big> <sup><small><small>[[G5055]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Baal-peor; | <big><span class="asgreek">Βεελφεγώρ</span></big> <sup><small><small>[[H1187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| in rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel was initiated | **<big>[[G5055\|ετελέσθη]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Baal-peor; | **<big>[[H1187\|Βεελφεγώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** |
+| in rage | **<big>[[G2372\|θυμώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| with Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Num.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.2|<< Numbers 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.4|Numbers 25:4 >>]]</td></tr></table>
 
 

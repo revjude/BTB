@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּעֹן‎</span></big> **Bᵉʻôn** <small>*(beh-ohn')*</small> ==**Beon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably a contraction of <span class="ashebrew">‎בֵּית בַּעַל מְעוֹן‎</span><sup><small>[[H1010]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּעֹן‎</span></big>** **Bᵉʻôn** <small>*(beh-ohn')*</small> ==**Beon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably a contraction of **<big>[[H1010|‎בֵּית בַּעַל מְעוֹן‎]]</big>**</small>
 
 $\quad$ Beon.
 - § Beon = *"in the dwelling: indwelling"*

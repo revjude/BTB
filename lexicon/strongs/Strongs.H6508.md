@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּרְדֵּס‎</span></big> **pardêç** <small>*(par-dace')*</small> ==**park**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פַּרְדֵּס‎</span></big>** **pardêç** <small>*(par-dace')*</small> ==**park**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ forest, orchard.
@@ -6,4 +6,4 @@ $\quad$ forest, orchard.
 
 **1)** park, preserve, enclosed garden, forest
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παράδεισος</span><sup><small>[[G3857]]</small></sup>
+<small>See Greek: </small>**<big>[[G3857|παράδεισος]]</big>**

@@ -7,33 +7,33 @@ And king Rehoboam took counsel with the old men that had stood before Solomon hi
 Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.<small><sub>**MT:**</sub></small>
 [[2Chr.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.5|<< 2 Chronicles 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.7|2 Chronicles 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought together | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέρους</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστώτας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life, | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| do you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλεύεσθε</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to answer | <big><span class="asgreek">αποκριθήναι</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to this people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| a word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| brought together | **<big>[[G4863\|συνήγαγεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέρους]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| standing | **<big>[[G2476\|εστώτας]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his life, | **<big>[[G2198\|ζην]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| How | **<big>[[G4459\|πως]]</big>** |
+| do you | **<big>[[G1473\|υμείς]]</big>** |
+| counsel | **<big>[[G1011\|βουλεύεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to answer | **<big>[[G0611\|αποκριθήναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to this people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| a word | **<big>[[G3056\|λόγον]]</big>** |
 [[2Chr.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.5|<< 2 Chronicles 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.7|2 Chronicles 10:7 >>]]</td></tr></table>
 
 

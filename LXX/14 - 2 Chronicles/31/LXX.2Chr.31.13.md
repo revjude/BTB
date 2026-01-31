@@ -7,46 +7,46 @@ And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and 
 Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the authority of Conaniah and his brother Shimei, by appointment of King Hezekiah and of Azariah the chief official of the house of God.<small><sub>**MT:**</sub></small>
 [[2Chr.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.12|<< 2 Chronicles 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.14|2 Chronicles 31:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehiel, | <big><span class="asgreek">Ιεϊήλ</span></big> <sup><small><small>[[H3273]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Azaziah, | <big><span class="asgreek">Οζίας</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nahath, | <big><span class="asgreek">Ναάθ</span></big> <sup><small><small>[[H5184]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asahel, | <big><span class="asgreek">Ασαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jerimoth, | <big><span class="asgreek">Ιεριμώθ</span></big> <sup><small><small>[[H3406]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jozabad, | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eliel, | <big><span class="asgreek">Ελιήλ</span></big> <sup><small><small>[[H0447]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ismachiah, | <big><span class="asgreek">Σαμαχία</span></big> <sup><small><small>[[H3253]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mahath, | <big><span class="asgreek">Μαάθ</span></big> <sup><small><small>[[H4287]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benaiah | <big><span class="asgreek">Βανέας</span></big> <sup><small><small>[[H1131]]</small></small></sup> |
-| being placed | <big><span class="asgreek">καθεστάμενοι</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Cononiah | <big><span class="asgreek">Χωνενίου</span></big> <sup><small><small>[[H3562]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shimei | <big><span class="asgreek">Σεμεεί</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| assigned | <big><span class="asgreek">προσέταξεν</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Azariah | <big><span class="asgreek">Αζαρίας</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leader | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehiel, | **<big>[[H3273\|Ιεϊήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Azaziah, | **<big>[[G3604\|Οζίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nahath, | **<big>[[H5184\|Ναάθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asahel, | **<big>[[H6214\|Ασαήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jerimoth, | **<big>[[H3406\|Ιεριμώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jozabad, | **<big>[[H3107\|Ιωζαβάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eliel, | **<big>[[H0447\|Ελιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ismachiah, | **<big>[[H3253\|Σαμαχία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Mahath, | **<big>[[H4287\|Μαάθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benaiah | **<big>[[H1131\|Βανέας]]</big>** |
+| being placed | **<big>[[G2525\|καθεστάμενοι]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| Cononiah | **<big>[[H3562\|Χωνενίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shimei | **<big>[[H8096\|Σεμεεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| assigned | **<big>[[G4367\|προσέταξεν]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Azariah | **<big>[[H5839\|Αζαρίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| leader | **<big>[[G2233\|ηγούμενος]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Chr.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.12|<< 2 Chronicles 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.14|2 Chronicles 31:14 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ Strike a mocker, and the simple will beware; rebuke the discerning man, and he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.24|<< Proverbs 19:24]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.26|Proverbs 19:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a mocker  | <span class="ashebrew"><big>לֵ֣ץ </big></span><small><small><sup>[[H3887]]</sup></small></small> &#8207;| letz <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will strike  | <span class="ashebrew"><big>תַּ֭כֶּה </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| Ta.keh <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a naive person  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פֶ֣תִי </big></span><small><small><sup>[[H6612A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Fe.ti <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will become prudent  | <span class="ashebrew"><big>יַעְרִ֑ם </big></span><small><small><sup>[[H6191]]</sup></small></small> &#8207;| ya'.Rim <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to reprove  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הוֹכִ֥יחַ </big></span><small><small><sup>[[H3198]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ho.Khi.ach <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> a discerning [person]  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נָב֗וֹן </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> na.Von <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will understand  | <span class="ashebrew"><big>יָבִ֥ין </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| ya.Vin <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דָּֽעַת </big></span><small><small><sup>[[H1847]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mocker  |**<big>&#8207;[[H3887\|לֵ֣ץ]]&#8207; </big>**| letz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will strike  |**<big>&#8207;[[H5221\|תַּ֭כֶּה]]&#8207; </big>**| Ta.keh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a naive person  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6612A\|פֶ֣תִי]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fe.ti<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become prudent  |**<big>&#8207;[[H6191\|יַעְרִ֑ם]]&#8207; </big>**| ya'.Rim<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to reprove  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3198\|הוֹכִ֥יחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ho.Khi.ach<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> a discerning [person]  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H0995\|נָב֗וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will understand  |**<big>&#8207;[[H0995\|יָבִ֥ין]]&#8207; </big>**| ya.Vin<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דָּֽעַת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.24|<< Proverbs 19:24]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.26|Proverbs 19:26 >>]]</td></tr></table>
 
 

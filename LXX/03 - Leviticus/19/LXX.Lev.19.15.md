@@ -11,26 +11,26 @@ You must not pervert justice; you must not show partiality to the poor or favori
 > $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[Jas.2.1|Jas 2:1]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| act | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| unjustly | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a judgment. | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take \[favor\] | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| on \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] poor, | <big><span class="asgreek">πτωχού</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| marvel | <big><span class="asgreek">θαυμάσης</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| \[before the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of a mighty one. | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| you shall judge | <big><span class="asgreek">κρινείς</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| act | **<big>[[G4160\|ποιήσετε]]</big>** |
+| unjustly | **<big>[[G0094\|άδικον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a judgment. | **<big>[[G2920\|κρίσει]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| take \[favor\] | **<big>[[G2983\|λήψη]]</big>** |
+| on \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] poor, | **<big>[[G4434\|πτωχού]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| marvel | **<big>[[G2296\|θαυμάσης]]</big>** |
+| \[before the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of a mighty one. | **<big>[[G1413\|δυνάστου]]</big>** |
+| With | **<big>[[G1722\|εν]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| you shall judge | **<big>[[G2919\|κρινείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your neighbor. | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Lev.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.14|<< Leviticus 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.16|Leviticus 19:16 >>]]</td></tr></table>
 
 

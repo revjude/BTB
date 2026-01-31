@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית שֶׁמֶשׁ‎</span></big> **Bêyth Shemesh** <small>*(bayth sheh'-mesh)*</small> ==**Beth-shemesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎שֶׁמֶשׁ‎</span><sup><small>[[H8121]]</small></sup>; house of (the) sun</small>
+**<big><span class="ashebrew">‎בֵּית שֶׁמֶשׁ‎</span></big>** **Bêyth Shemesh** <small>*(bayth sheh'-mesh)*</small> ==**Beth-shemesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H8121|‎שֶׁמֶשׁ‎]]</big>**; house of (the) sun</small>
 
 $\quad$ Beth-shemesh.
 - § Beth-shemesh = *"house of the sun" or "sun-temple"*

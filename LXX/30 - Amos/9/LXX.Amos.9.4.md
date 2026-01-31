@@ -7,35 +7,35 @@ And though they go into captivity before their enemies, thence will I command th
 Though they are driven by their enemies into captivity, there I will command the sword to slay them. I will fix My eyes upon them for harm and not for good.”<small><sub>**MT:**</sub></small>
 [[Amos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.3|<< Amos 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.5|Amos 9:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| they go | <big><span class="asgreek">πορευθώσιν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσία</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| in front | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| I will give charge | <big><span class="asgreek">εντελούμαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall kill | <big><span class="asgreek">αποκτενεί</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will firmly fix | <big><span class="asgreek">στηριώ</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| bad, | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| good. | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| they go | **<big>[[G4198\|πορευθώσιν]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσία]]</big>** |
+| in front | **<big>[[G4253\|προ]]</big>** **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| I will give charge | **<big>[[G1781\|εντελούμαι]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall kill | **<big>[[G0615\|αποκτενεί]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will firmly fix | **<big>[[G4741\|στηριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| bad, | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| good. | **<big>[[G0018\|αγαθά]]</big>** |
 [[Amos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.3|<< Amos 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.5|Amos 9:5 >>]]</td></tr></table>
 
 

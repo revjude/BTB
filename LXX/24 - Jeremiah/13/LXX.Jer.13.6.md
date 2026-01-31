@@ -7,34 +7,34 @@ And it came to pass after many days, that the LORD said unto me, Arise, go to Eu
 Many days later the LORD said to me, “Arise, go to Perath, and get the loincloth that I commanded you to hide there.”<small><sub>**MT:**</sub></small>
 [[Jer.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.5|<< Jeremiah 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.7|Jeremiah 13:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Arise! | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| Proceed | <big><span class="asgreek">βάδισον</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Euphrates, | <big><span class="asgreek">Ευφράτην</span></big> <sup><small><small>[[G2166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loincloth! | <big><span class="asgreek">περίζωμα</span></big> <sup><small><small>[[G8726]]</small></small></sup> |
-| the one which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hide | <big><span class="asgreek">κατακρύψαι</span></big> <sup><small><small>[[G7861]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| after | **<big>[[G3326\|μεθ΄]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| many | **<big>[[G4183\|πολλάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Arise! | **<big>[[G0450\|ανάστηθι]]</big>** |
+| Proceed | **<big>[[G6642\|βάδισον]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Euphrates, | **<big>[[G2166\|Ευφράτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| loincloth! | **<big>[[G8726\|περίζωμα]]</big>** |
+| the one which | **<big>[[G3739\|ο]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to hide | **<big>[[G7861\|κατακρύψαι]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Jer.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.5|<< Jeremiah 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.7|Jeremiah 13:7 >>]]</td></tr></table>
 
 

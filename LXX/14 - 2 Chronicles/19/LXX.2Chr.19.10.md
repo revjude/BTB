@@ -7,59 +7,59 @@ And what cause soever shall come to you of your brethren that dwell in their cit
 For every dispute that comes before you from your brothers who dwell in their cities—whether it regards bloodshed or some other violation of law, commandments, statutes, or ordinances—you are to warn them, so that they will not incur guilt before the LORD and wrath will not come upon you and your brothers. Do this, and you will not incur guilt.<small><sub>**MT:**</sub></small>
 [[2Chr.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[with\] a judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθούσαν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their cities, | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[whether\] between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| order | <big><span class="asgreek">προστάγματος</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| commandment, | <big><span class="asgreek">εντολής</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ordinances | <big><span class="asgreek">δικαιώματα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judgments, | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall warn | <big><span class="asgreek">διαστελείτε</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτήσονται</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren -- | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall do, | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not sin. | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αμαρτήσεσθε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| Every | **<big>[[G3956\|πας]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| \[with\] a judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| coming | **<big>[[G2064\|ελθούσαν]]</big>** |
+| unto | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your brethren | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their cities, | **<big>[[G4172\|πόλεσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[whether\] between | **<big>[[G6271\|αναμέσον]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| blood, | **<big>[[G0129\|αίματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| order | **<big>[[G8943\|προστάγματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| commandment, | **<big>[[G1785\|εντολής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| ordinances | **<big>[[G1345\|δικαιώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judgments, | **<big>[[G2917\|κρίματα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall warn | **<big>[[G1291\|διαστελείτε]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουχ]]</big>** |
+| sin | **<big>[[G0264\|αμαρτήσονται]]</big>** |
+| against the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| there will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your brethren -- | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| thus | **<big>[[G3779\|ούτω]]</big>** |
+| you shall do, | **<big>[[G4160\|ποιήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not sin. | **<big>[[G3756\|ουχ]]</big>** **<big>[[G0264\|αμαρτήσεσθε]]</big>** |
 [[2Chr.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
 

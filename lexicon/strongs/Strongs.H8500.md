@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֻּכִּי‎</span></big> **tukkîy** <small>*(took-kee')*</small> ==**peacock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">תּוּכִּי</span> **tûwkkîy** <small>*(took-kee')*</small></small>
+**<big><span class="ashebrew">‎תֻּכִּי‎</span></big>** **tukkîy** <small>*(took-kee')*</small> ==**peacock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">תּוּכִּי</span></big>** **tûwkkîy** <small>*(took-kee')*</small></small>
 
 $\quad$ peacock.
 - probably ***of foreign derivation***

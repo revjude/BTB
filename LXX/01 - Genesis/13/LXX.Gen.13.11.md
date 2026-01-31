@@ -7,26 +7,26 @@ Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they sep
 So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company.<small><sub>**MT:**</sub></small>
 [[Gen.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.10|<< Genesis 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.12|Genesis 13:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lot chose | <big><span class="asgreek">εξελέξατο</span></big> <sup><small><small>[[G1586]]</small></small></sup> <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place round about | <big><span class="asgreek">περίχωρον</span></big> <sup><small><small>[[G4066]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lot departed | <big><span class="asgreek">απήρε</span></big> <sup><small><small>[[G0522]]</small></small></sup> <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were parted, | <big><span class="asgreek">διεχωρίσθησαν</span></big> <sup><small><small>[[G1316]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Lot chose | **<big>[[G1586\|εξελέξατο]]</big>** **<big>[[G3091\|Λωτ]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| place round about | **<big>[[G4066\|περίχωρον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jordan. | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Lot departed | **<big>[[G0522\|απήρε]]</big>** **<big>[[G3091\|Λωτ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were parted, | **<big>[[G1316\|διεχωρίσθησαν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.10|<< Genesis 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.12|Genesis 13:12 >>]]</td></tr></table>
 
 

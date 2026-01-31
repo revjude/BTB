@@ -7,56 +7,56 @@ Then Achish called David, and said unto him, Surely, [as] the LORD liveth, thou 
 So Achish summoned David and told him, “As surely as the LORD lives, you have been upright, and it seems right in my sight that you should march in and out with me in the army, because I have found no fault in you from the day you came to me until this day. But you are not good in the sight of the leaders.<small><sub>**MT:**</sub></small>
 [[1Sam.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.5|<< 1 Samuel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.7|1 Samuel 29:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Achish called | <big><span class="asgreek">εκάλεσεν</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[know\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you \[are\] upright | <big><span class="asgreek">ευθύς</span></big> <sup><small><small>[[G7543]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[so is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your exiting | <big><span class="asgreek">έξοδός</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your entering | <big><span class="asgreek">είσοδός</span></big> <sup><small><small>[[G1529]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you came | <big><span class="asgreek">ήκεις</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατραπών</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| you are | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Achish called | **<big>[[G2564\|εκάλεσεν]]</big>** **<big>[[H0397\|Ακχίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| As \[the\] <span class="smallcaps">lord</span> lives, | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[know\] that | **<big>[[G3754\|ότι]]</big>** |
+| you \[are\] upright | **<big>[[G7543\|ευθύς]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| good | **<big>[[G0018\|αγαθός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[so is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| your exiting | **<big>[[G1841\|έξοδός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your entering | **<big>[[G1529\|είσοδός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολή]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρον]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| an evil | **<big>[[G2549\|κακίαν]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| you came | **<big>[[G2240\|ήκεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| satraps | **<big>[[G9059\|σατραπών]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| good | **<big>[[G0018\|αγαθός]]</big>** |
+| you are | **<big>[[G1473\|συ]]</big>** |
 [[1Sam.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.5|<< 1 Samuel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.7|1 Samuel 29:7 >>]]</td></tr></table>
 
 

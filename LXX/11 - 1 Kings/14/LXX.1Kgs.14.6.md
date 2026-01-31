@@ -7,35 +7,35 @@ And it was [so], when Ahijah heard the sound of her feet, as she came in at the 
 So when Ahijah heard the sound of her feet entering the door, he said, “Come in, wife of Jeroboam! Why are you disguised? For I have been sent to you with bad news.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.5|<< 1 Kings 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.7|1 Kings 14:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Ahijah heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Αχιά</span></big> <sup><small><small>[[H0281]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of her feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of her entering | <big><span class="asgreek">εισερχομένης</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passage, | <big><span class="asgreek">ανοίγματι</span></big> <sup><small><small>[[G6348]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Enter, | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| O wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Jeroboam! | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are as a stranger, | <big><span class="asgreek">αποξενούσαι</span></big> <sup><small><small>[[G6461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| envoy | <big><span class="asgreek">απόστολος</span></big> <sup><small><small>[[G0652]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a harsh | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Ahijah heard | **<big>[[G0191\|ήκουσεν]]</big>** **<big>[[H0281\|Αχιά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of her feet | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| of her entering | **<big>[[G1525\|εισερχομένης]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| passage, | **<big>[[G6348\|ανοίγματι]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Enter, | **<big>[[G1525\|είσελθε]]</big>** |
+| O wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Jeroboam! | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| \[is\] this | **<big>[[G3778\|τούτο]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are as a stranger, | **<big>[[G6461\|αποξενούσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| envoy | **<big>[[G0652\|απόστολος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| a harsh | **<big>[[G4642\|σκληρός]]</big>** |
 [[1Kgs.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.5|<< 1 Kings 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.7|1 Kings 14:7 >>]]</td></tr></table>
 
 

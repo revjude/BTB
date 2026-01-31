@@ -7,33 +7,33 @@ O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own 
 O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”<small><sub>**MT:**</sub></small>
 [[Dan.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.18|<< Daniel 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.20|Daniel 9:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hearken, | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Atone, | <big><span class="asgreek">ιλάσθητι</span></big> <sup><small><small>[[G2433]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Take heed, | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Act, | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| delay | <big><span class="asgreek">χρονίσης</span></big> <sup><small><small>[[G5549]]</small></small></sup> |
-| for your \[sake\], | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is called | <big><span class="asgreek">επικέκληται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hearken, | **<big>[[G1522\|εισάκουσον]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| Atone, | **<big>[[G2433\|ιλάσθητι]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| Take heed, | **<big>[[G4337\|πρόσχες]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| Act, | **<big>[[G4160\|ποίησον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| delay | **<big>[[G5549\|χρονίσης]]</big>** |
+| for your \[sake\], | **<big>[[G1752\|ένεκεν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God! | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is called | **<big>[[G1941\|επικέκληται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your city, | **<big>[[G4172\|πόλιν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Dan.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.18|<< Daniel 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.20|Daniel 9:20 >>]]</td></tr></table>
 
 

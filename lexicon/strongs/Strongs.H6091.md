@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עָצָב‎</span></big> **ʻâtsâb** <small>*(aw-tsawb')*</small> ==**idol**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָצַב‎</span><sup><small>[[H6087]]</small></sup></small>
+**<big><span class="ashebrew">‎עָצָב‎</span></big>** **ʻâtsâb** <small>*(aw-tsawb')*</small> ==**idol**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6087|‎עָצַב‎]]</big>**</small>
 
 $\quad$ idol, image.
 - ***an*** (idolatrous) ***image***
 
 **1)** idol, image
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θεός</span><sup><small>[[G2316]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">κλαυθμός</span><sup><small>[[G2805]]</small></sup> · <span class="asgreek">μέγας</span><sup><small>[[G3173]]</small></sup>
+<small>See Greek: </small>**<big>[[G2316|θεός]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G2805|κλαυθμός]]</big>** · **<big>[[G3173|μέγας]]</big>**

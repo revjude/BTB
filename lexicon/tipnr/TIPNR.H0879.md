@@ -1,8 +1,8 @@
 <small>*Beer-elim • Place mentioned in Isaiah's prophecy against Moab.*</small>
 
 <span class='tipnrhighlight'>Beer-elim</span> was a place mentioned in Isaiah's prophecy against Moab. \([[Isa.15.8|Isaiah 15:8]]\)
-- A location near Eneglaim<[[H5882]]> only mentioned at [[Isa.15.8|Isa.15.8]]; 
-- only referred to as Beer-elim<[[H0879]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Eneglaim **<big>[[H5882|עֵין עֶגְלַיִם]]</big>** only mentioned at [[Isa.15.8|Isa.15.8]]; 
+- only referred to as Beer-elim **<big>[[H0879|בְּאֵר אֵלִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.998062,35.498547&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The prophecy against Moab in Isaiah 15 is part of a larger series of oracles aga
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beer-elim (NIV= Beer Elim) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0879) <small>*Hebrew*</small> | 1x | [Isa.15.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Isa.15.8) |
-All Strong's for **Beer-elim**: \[[[H0879]]\]
+| Beer-elim (NIV= Beer Elim) | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>יל</span>ִ<span class='tipnrLangHebrew'>ים</span>](H0879) | 1x | [Isa.15.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Isa.15.8) |
+All entries for **Beer-elim**:  **<big>[[H0879|בְּאֵר אֵלִים]]</big>**

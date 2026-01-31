@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַכְמוֹנִי‎</span></big> **Chakmôwnîy** <small>*(khak-mo-nee')*</small> ==**Hachmonite**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָכַם‎</span><sup><small>[[H2449]]</small></sup>; skilful</small>
+**<big><span class="ashebrew">‎חַכְמוֹנִי‎</span></big>** **Chakmôwnîy** <small>*(khak-mo-nee')*</small> ==**Hachmonite**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2449|‎חָכַם‎]]</big>**; skilful</small>
 
 $\quad$ Hachmoni, Hachmonite.
 - § Hachmoni or Hachmonite = *"wise"*

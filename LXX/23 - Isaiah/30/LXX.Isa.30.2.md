@@ -7,24 +7,24 @@ That walk to go down into Egypt, and have not asked at my mouth; to strengthen t
 They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade.<small><sub>**MT:**</sub></small>
 [[Isa.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενοι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| went down | <big><span class="asgreek">καταβήναι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| (but of me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ask) | <big><span class="asgreek">επηρώτησαν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be helped | <big><span class="asgreek">βοηθηθήναι</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheltered | <big><span class="asgreek">σκεπασθήναι</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \[the\] Egyptians. | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| going | **<big>[[G4198\|πορευόμενοι]]</big>** |
+| went down | **<big>[[G2597\|καταβήναι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| (but of me | **<big>[[G1473\|εμέ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| ask) | **<big>[[G1905\|επηρώτησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be helped | **<big>[[G0997\|βοηθηθήναι]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheltered | **<big>[[G9095\|σκεπασθήναι]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| \[the\] Egyptians. | **<big>[[G0125\|Αιγυπτίων]]</big>** |
 [[Isa.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
 
 

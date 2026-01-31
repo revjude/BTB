@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּקַע‎</span></big> **tâqaʻ** <small>*(taw-kah')*</small> ==**to blow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּקַע‎</span></big>** **tâqaʻ** <small>*(taw-kah')*</small> ==**to blow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ blow (a trumpet), cast, clap, fasten, pitch (tent), smite, sound, strike, [idiom] suretiship, thrust.
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Niphal)
 $\quad$ $\quad$ **1b1)** to be blown, blast (of horn)
 $\quad$ $\quad$ **1b2)** to strike or pledge oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάλλω</span><sup><small>[[G0906]]</small></sup> · <span class="asgreek">ἐμβάλλω</span><sup><small>[[G1685]]</small></sup> · <span class="asgreek">ἦχος</span><sup><small>[[G2279]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">πήγνυμι</span><sup><small>[[G4078]]</small></sup> · <span class="asgreek">σαλπίζω</span><sup><small>[[G4537]]</small></sup> · <span class="asgreek">σημαίνω</span><sup><small>[[G4591]]</small></sup> · <span class="asgreek">στηρίζω</span><sup><small>[[G4741]]</small></sup> · <span class="asgreek">συνδέω</span><sup><small>[[G4887]]</small></sup> · <span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup> · <span class="asgreek">φωνέω</span><sup><small>[[G5455]]</small></sup>
+<small>See Greek: </small>**<big>[[G0906|βάλλω]]</big>** · **<big>[[G1685|ἐμβάλλω]]</big>** · **<big>[[G2279|ἦχος]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4078|πήγνυμι]]</big>** · **<big>[[G4537|σαλπίζω]]</big>** · **<big>[[G4591|σημαίνω]]</big>** · **<big>[[G4741|στηρίζω]]</big>** · **<big>[[G4887|συνδέω]]</big>** · **<big>[[G5087|τίθημι]]</big>** · **<big>[[G5455|φωνέω]]</big>**

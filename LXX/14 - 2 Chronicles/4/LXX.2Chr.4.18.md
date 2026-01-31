@@ -7,22 +7,22 @@ Thus Solomon made all these vessels in great abundance: for the weight of the br
 Solomon made all these articles in such great abundance that the weight of the bronze could not be determined.<small><sub>**MT:**</sub></small>
 [[2Chr.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.17|<< 2 Chronicles 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.19|2 Chronicles 4:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude, | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| exceedingly; | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[was\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| wanting | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[the\] scale-weight | <big><span class="asgreek">ολκή</span></big> <sup><small><small>[[G8490]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brass | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these items | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude, | **<big>[[G4128\|πλήθος]]</big>** |
+| exceedingly; | **<big>[[G4970\|σφόδρα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[was\] not | **<big>[[G3756\|ουκ]]</big>** |
+| wanting | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| \[the\] scale-weight | **<big>[[G8490\|ολκή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| brass | **<big>[[G5475\|χαλκού]]</big>** |
 [[2Chr.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.17|<< 2 Chronicles 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.19|2 Chronicles 4:19 >>]]</td></tr></table>
 
 

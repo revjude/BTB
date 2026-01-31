@@ -7,32 +7,32 @@ And the haft also went in after the blade; and the fat closed upon the blade, so
 Even the handle sank in after the blade, and Eglon’s fat closed in over it, so that Ehud did not withdraw the sword from his belly. And Eglon’s bowels emptied.<small><sub>**MT:**</sub></small>
 [[Judg.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.21|<< Judges 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.23|Judges 3:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought in addition | <big><span class="asgreek">επεισήνεγκε</span></big> <sup><small><small>[[G7378]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| handle | <big><span class="asgreek">λαβήν</span></big> <sup><small><small>[[G8148]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blade; | <big><span class="asgreek">φλογός</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| locked | <big><span class="asgreek">απέκλεισε</span></big> <sup><small><small>[[G0608]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| onto | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blade, | <big><span class="asgreek">φλογός</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he could not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pull out | <big><span class="asgreek">εξέσπασε</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knife | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his belly. | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought in addition | **<big>[[G7378\|επεισήνεγκε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| handle | **<big>[[G8148\|λαβήν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| blade; | **<big>[[G5395\|φλογός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| locked | **<big>[[G0608\|απέκλεισε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fat | **<big>[[G9155\|στέαρ]]</big>** |
+| onto | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| blade, | **<big>[[G5395\|φλογός]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he could not | **<big>[[G3756\|ουκ]]</big>** |
+| pull out | **<big>[[G7145\|εξέσπασε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| knife | **<big>[[G3162\|μάχαιραν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his belly. | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.21|<< Judges 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.23|Judges 3:23 >>]]</td></tr></table>
 
 

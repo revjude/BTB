@@ -7,37 +7,37 @@ And before I had done speaking in mine heart, behold, Rebekah came forth with he
 And before I had finished praying in my heart, there was Rebekah coming out with her jar on her shoulder, and she went down to the spring and drew water. So I said to her, ‘Please give me a drink.’<small><sub>**MT:**</sub></small>
 [[Gen.24.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.44|<< Genesis 24:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.46|Genesis 24:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| completing | <big><span class="asgreek">συντελέσαι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| my | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλούντα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mind, | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| straightway | <big><span class="asgreek">ευθύς</span></big> <sup><small><small>[[G2112]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| having | <big><span class="asgreek">έχουσα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water-pitcher | <big><span class="asgreek">υδρίαν</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulders, | <big><span class="asgreek">ώμων</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spring, | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she drew water. | <big><span class="asgreek">υδρεύσατο</span></big> <sup><small><small>[[G9528]]</small></small></sup> |
-| And I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give me a drink! | <big><span class="asgreek">πότισόν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| completing | **<big>[[G4931\|συντελέσαι]]</big>** |
+| my | **<big>[[G1473\|με]]</big>** |
+| speaking | **<big>[[G2980\|λαλούντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my mind, | **<big>[[G1271\|διανοία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| straightway | **<big>[[G2112\|ευθύς]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκα]]</big>** |
+| came forth | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| having | **<big>[[G2192\|έχουσα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| water-pitcher | **<big>[[G5201\|υδρίαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| shoulders, | **<big>[[G5606\|ώμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she went down | **<big>[[G2597\|κατέβη]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| spring, | **<big>[[G4077\|πηγήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she drew water. | **<big>[[G9528\|υδρεύσατο]]</big>** |
+| And I said | **<big>[[G2036\|είπα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| Give me a drink! | **<big>[[G4222\|πότισόν]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Gen.24.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.44|<< Genesis 24:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.46|Genesis 24:46 >>]]</td></tr></table>
 
 

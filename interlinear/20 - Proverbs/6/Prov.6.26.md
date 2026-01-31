@@ -6,20 +6,20 @@ For the levy of the prostitute is poverty, and the adulteress preys upon your ve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] price  | <span class="ashebrew"><big>בְעַד </big></span><small><small><sup>[[H1157]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.'ad- <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁ֥ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a prostitute  | <span class="ashebrew"><big>זוֹנָ֗ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| zo.Nah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַֽד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a round loaf of  | <span class="ashebrew"><big>כִּכַּ֫ר </big></span><small><small><sup>[[H3603H]]</sup></small></small> &#8207;| ki.Kar <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bread  | <span class="ashebrew"><big>לָ֥חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] wife of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֥שֶׁת </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִ֑ישׁ </big></span><small><small><sup>[[H0376H]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a life  | <span class="ashebrew"><big>נֶ֖פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precious  | <span class="ashebrew"><big>יְקָרָ֣ה </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ye.ka.Rah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she hunts  | <span class="ashebrew"><big>תָצֽוּד </big></span><small><small><sup>[[H6679A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ta.Tzud <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] price  |**<big>&#8207;[[H1157\|בְעַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.'ad-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֥ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  |**<big>&#8207;[[H2181\|זוֹנָ֗ה]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַֽד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a round loaf of  |**<big>&#8207;[[H3603H\|כִּכַּ֫ר]]&#8207; </big>**| ki.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  |**<big>&#8207;[[H3899H\|לָ֥חֶם]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] wife of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אֵ֥שֶׁת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376H\|אִ֑ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a life  |**<big>&#8207;[[H5315H\|נֶ֖פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precious  |**<big>&#8207;[[H3368\|יְקָרָ֣ה]]&#8207; </big>**| ye.ka.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she hunts  |**<big>&#8207;[[H6679A\|תָצֽוּד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ta.Tzud<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
 
 

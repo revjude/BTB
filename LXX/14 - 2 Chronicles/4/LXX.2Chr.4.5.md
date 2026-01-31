@@ -7,27 +7,27 @@ And the thickness of it [was] an handbreadth, and the brim of it like the work o
 It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold three thousand baths.<small><sub>**MT:**</sub></small>
 [[2Chr.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its thickness | <big><span class="asgreek">πάχος</span></big> <sup><small><small>[[G8673]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] a palm, | <big><span class="asgreek">παλαιστής</span></big> <sup><small><small>[[G8585]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its lip | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lip | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of a cup, | <big><span class="asgreek">ποτηρίου</span></big> <sup><small><small>[[G4221]]</small></small></sup> |
-| having been carved | <big><span class="asgreek">διαγεγλυμμένου</span></big> <sup><small><small>[[G6821]]</small></small></sup> |
-| of buds | <big><span class="asgreek">βλαστούς</span></big> <sup><small><small>[[G0986]]</small></small></sup> |
-| of a lily, | <big><span class="asgreek">κρίνου</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
-| having a capacity | <big><span class="asgreek">χωρούσα</span></big> <sup><small><small>[[G5562]]</small></small></sup> |
-| measures | <big><span class="asgreek">μετρητάς</span></big> <sup><small><small>[[G3355]]</small></small></sup> |
-| of three thousand | <big><span class="asgreek">τρισχιλίους</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he completed | <big><span class="asgreek">εξετέλεσε</span></big> <sup><small><small>[[G1615]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its thickness | **<big>[[G8673\|πάχος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[was\] a palm, | **<big>[[G8585\|παλαιστής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its lip | **<big>[[G5491\|χείλος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[was\] as | **<big>[[G5613\|ως]]</big>** |
+| a lip | **<big>[[G5491\|χείλος]]</big>** |
+| of a cup, | **<big>[[G4221\|ποτηρίου]]</big>** |
+| having been carved | **<big>[[G6821\|διαγεγλυμμένου]]</big>** |
+| of buds | **<big>[[G0986\|βλαστούς]]</big>** |
+| of a lily, | **<big>[[G2918\|κρίνου]]</big>** |
+| having a capacity | **<big>[[G5562\|χωρούσα]]</big>** |
+| measures | **<big>[[G3355\|μετρητάς]]</big>** |
+| of three thousand | **<big>[[G5153\|τρισχιλίους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he completed | **<big>[[G1615\|εξετέλεσε]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[2Chr.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
 
 

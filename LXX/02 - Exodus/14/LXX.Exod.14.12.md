@@ -7,35 +7,35 @@ Was this not the saying which we spoke in Egypt to you? saying, Disregard us! so
 Did we not say to you in Egypt, ‘Leave us alone so that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”<small><sub>**MT:**</sub></small>
 [[Exod.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.11|<< Exodus 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.13|Exodus 14:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| this not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we spoke | <big><span class="asgreek">ελαλήσαμεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Disregard | <big><span class="asgreek">πάρες</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| we may slave | <big><span class="asgreek">δουλεύσωμεν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians. | <big><span class="asgreek">Αιγυπτίοις</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| For \[it is\] better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| for us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to slave | <big><span class="asgreek">δουλεύειν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians, | <big><span class="asgreek">Αιγυπτίοις</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to die | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| this not | **<big>[[G3756\|ου]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| Was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| saying | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| we spoke | **<big>[[G2980\|ελαλήσαμεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| Disregard | **<big>[[G3935\|πάρες]]</big>** |
+| us! | **<big>[[G1473\|ημάς]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| we may slave | **<big>[[G1398\|δουλεύσωμεν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Egyptians. | **<big>[[G0125\|Αιγυπτίοις]]</big>** |
+| For \[it is\] better | **<big>[[G2908\|κρείσσον]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| for us | **<big>[[G1473\|ημάς]]</big>** |
+| to slave | **<big>[[G1398\|δουλεύειν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Egyptians, | **<big>[[G0125\|Αιγυπτίοις]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| to die | **<big>[[G0599\|αποθανείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this wilderness. | **<big>[[G2048\|ερήμω]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
 [[Exod.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.11|<< Exodus 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.13|Exodus 14:13 >>]]</td></tr></table>
 
 

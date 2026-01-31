@@ -7,37 +7,37 @@ And their coast was from Aroer, that [is] on the bank of the river Arnon, and th
 The territory from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, to the whole plateau beyond Medeba,<small><sub>**MT:**</sub></small>
 [[Josh.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.15|<< Joshua 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.17|Joshua 13:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| theirs | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boundaries | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Aroer, | <big><span class="asgreek">Αροήρ</span></big> <sup><small><small>[[H6177]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] ravine | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| Arnon, | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Arnon, | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Misor | <big><span class="asgreek">Μισώρ</span></big> <sup><small><small>[[H4334]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Medeba | <big><span class="asgreek">Μεδαβά</span></big> <sup><small><small>[[H4311]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Heshbon, | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| theirs | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| boundaries | **<big>[[G3725\|όρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Aroer, | **<big>[[H6177\|Αροήρ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] ravine | **<big>[[G5327\|φάραγγος]]</big>** |
+| Arnon, | **<big>[[H0769\|Αρνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city, | **<big>[[G4172\|πόλις]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγι]]</big>** |
+| of Arnon, | **<big>[[H0769\|Αρνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Misor | **<big>[[H4334\|Μισώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Medeba | **<big>[[H4311\|Μεδαβά]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Heshbon, | **<big>[[H2809\|Εσεβών]]</big>** |
 [[Josh.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.15|<< Joshua 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.17|Joshua 13:17 >>]]</td></tr></table>
 
 

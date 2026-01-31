@@ -1,4 +1,4 @@
-<small>Also see: [[H4883]] | [[H5493]]</small>
+<small>Also see: **<big>[[H4883|מַשּׂוֹר]]</big>** | **<big>[[H5493|סוּר]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎שׂוּר‎</span>] **verb** ==saw== (\|\| form of <span class="bdbLangHebrew">‎נָשַׂר‎</span>; denominative from <span class="bdbLangHebrew">‎מַשּׁוֺר‎</span>?); — 
 

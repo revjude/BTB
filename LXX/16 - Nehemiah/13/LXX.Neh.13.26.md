@@ -7,44 +7,44 @@ Did not Solomon king of Israel sin by these things? yet among many nations was t
 Did not King Solomon of Israel sin in matters like this? There was not a king like him among many nations, and he was loved by his God, who made him king over all Israel—yet foreign women drew him into sin.<small><sub>**MT:**</sub></small>
 [[Neh.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.25|<< Nehemiah 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.27|Nehemiah 13:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| sin | <big><span class="asgreek">ήμαρτε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιος</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one being loved | <big><span class="asgreek">αγαπώμενος</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appointed | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in this | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| turned \[him\] aside | <big><span class="asgreek">εξέκλιναν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλότριαι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| Did not | **<big>[[G3756\|ουχ]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| sin | **<big>[[G0264\|ήμαρτε]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| many | **<big>[[G4183\|πολλοίς]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| a king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| likened | **<big>[[G3664\|όμοιος]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one being loved | **<big>[[G0025\|αγαπώμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| by God | **<big>[[G2316\|θεώ]]</big>** |
+| he was | **<big>[[G1510\|ην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| appointed | **<big>[[G1325\|έδωκεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in this | **<big>[[G3778\|τούτον]]</big>** |
+| turned \[him\] aside | **<big>[[G1578\|εξέκλιναν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| wives | **<big>[[G1135\|γυναίκες]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| alien | **<big>[[G0245\|αλλότριαι]]</big>** |
 [[Neh.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.25|<< Nehemiah 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.27|Nehemiah 13:27 >>]]</td></tr></table>
 
 

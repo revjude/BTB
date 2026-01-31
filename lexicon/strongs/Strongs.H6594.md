@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּשְׁתָּה‎</span></big> **pishtâh** <small>*(pish-taw')*</small> ==**flax**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎פִּשְׁתֶּה‎</span><sup><small>[[H6593]]</small></sup></small>
+**<big><span class="ashebrew">‎פִּשְׁתָּה‎</span></big>** **pishtâh** <small>*(pish-taw')*</small> ==**flax**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6593|‎פִּשְׁתֶּה‎]]</big>**</small>
 
 $\quad$ flax, tow.
 - ***flax***
@@ -9,4 +9,4 @@ $\quad$ flax, tow.
 $\quad$ **1a)** flax (of the plant)
 $\quad$ **1b)** as wick for lamp
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λίνον</span><sup><small>[[G3043]]</small></sup>
+<small>See Greek: </small>**<big>[[G3043|λίνον]]</big>**

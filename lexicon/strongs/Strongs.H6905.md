@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָבָל‎</span></big> **qâbâl** <small>*(kaw-bawl')*</small> ==**Ible**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָבַל‎</span><sup><small>[[H6901]]</small></sup> in the sense of opposite (see <span class="ashebrew">‎קֹבֶל‎</span><sup><small>[[H6904]]</small></sup>)</small>
+**<big><span class="ashebrew">‎קָבָל‎</span></big>** **qâbâl** <small>*(kaw-bawl')*</small> ==**Ible**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6901|‎קָבַל‎]]</big>** in the sense of opposite (see **<big>[[H6904|‎קֹבֶל‎]]</big>**)</small>
 
 $\quad$ before.
 - ***the presence***, i.e. (adverbially) ***in front of***

@@ -14,38 +14,38 @@ So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| assigned | <big><span class="asgreek">προσέταξε</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| a gourd, | <big><span class="asgreek">κολοκύνθη</span></big> <sup><small><small>[[G8057]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Jonah, | <big><span class="asgreek">Ιωνά</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| shading | <big><span class="asgreek">σκιάν</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| up above | <big><span class="asgreek">υπεράνω</span></big> <sup><small><small>[[G5231]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to shade | <big><span class="asgreek">σκιάζειν</span></big> <sup><small><small>[[G9106]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hurts. | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonah rejoiced | <big><span class="asgreek">εχάρη</span></big> <sup><small><small>[[G5463]]</small></small></sup> <big><span class="asgreek">Ιωνάς</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gourd | <big><span class="asgreek">κολοκύνθη</span></big> <sup><small><small>[[G8057]]</small></small></sup> |
-| joy | <big><span class="asgreek">χαράν</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| \[with\] great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| assigned | **<big>[[G4367\|προσέταξε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| a gourd, | **<big>[[G8057\|κολοκύνθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of Jonah, | **<big>[[G2495\|Ιωνά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| shading | **<big>[[G4639\|σκιάν]]</big>** |
+| up above | **<big>[[G5231\|υπεράνω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to shade | **<big>[[G9106\|σκιάζειν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his hurts. | **<big>[[G2556\|κακών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonah rejoiced | **<big>[[G5463\|εχάρη]]</big>** **<big>[[G2495\|Ιωνάς]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| gourd | **<big>[[G8057\|κολοκύνθη]]</big>** |
+| joy | **<big>[[G5479\|χαράν]]</big>** |
+| \[with\] great | **<big>[[G3173\|μεγάλην]]</big>** |
 [[Jonah.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.5|<< Jonah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.7|Jonah 4:7 >>]]</td></tr></table>
 
 

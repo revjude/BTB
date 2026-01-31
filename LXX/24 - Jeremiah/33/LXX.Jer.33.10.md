@@ -7,39 +7,39 @@ Thus saith the LORD; Again there shall be heard in this place, which ye say [sha
 This is what the LORD says: In this place you say is a wasteland without man or beast, in the cities of Judah and in the streets of Jerusalem that are deserted—inhabited by neither man nor beast—there will be heard again<small><sub>**MT:**</sub></small>
 [[Jer.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.9|<< Jeremiah 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.11|Jeremiah 33:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| There shall still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| be heard | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| (in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| say, | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| It is desolate | <big><span class="asgreek">έρημός</span></big> <sup><small><small>[[G2048]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| animals, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| in the \[places\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been made desolate | <big><span class="asgreek">ηρημωμέναις</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast,) | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| There shall still | **<big>[[G2089\|έτι]]</big>** |
+| be heard | **<big>[[G0191\|ακουσθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| (in which | **<big>[[G3739\|ω]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| say, | **<big>[[G3004\|λέγετε]]</big>** |
+| It is desolate | **<big>[[G2048\|έρημός]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| animals, | **<big>[[G2934\|κτηνών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| outside | **<big>[[G1855\|έξωθεν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| in the \[places\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| having been made desolate | **<big>[[G2049\|ηρημωμέναις]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast,) | **<big>[[G2934\|κτήνος]]</big>** |
 [[Jer.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.9|<< Jeremiah 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.11|Jeremiah 33:11 >>]]</td></tr></table>
 
 

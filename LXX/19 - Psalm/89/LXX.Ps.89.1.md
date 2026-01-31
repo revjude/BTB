@@ -12,25 +12,25 @@ Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: 
 A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.<small><sub>**MT:**</sub></small>
 [[Ps.89.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.18|<< Psalm 88:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.2|Psalm 89:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your mercies | <big><span class="asgreek">ελέη</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| I shall sing | <big><span class="asgreek">άσομαι</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| Unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| I shall report | <big><span class="asgreek">απαγγελώ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth. | <big><span class="asgreek">στόματί</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of your mercies | **<big>[[G1656\|ελέη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| I shall sing | **<big>[[G0103\|άσομαι]]</big>** |
+| Unto | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| I shall report | **<big>[[G0518\|απαγγελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your truth | **<big>[[G0225\|αλήθειαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my mouth. | **<big>[[G4750\|στόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.89.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.18|<< Psalm 88:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.2|Psalm 89:2 >>]]</td></tr></table>
 
 

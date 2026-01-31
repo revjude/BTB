@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָלַט‎</span></big> **mâlaṭ** <small>*(maw-lat')*</small> ==**to escape**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָלַט‎</span></big>** **mâlaṭ** <small>*(maw-lat')*</small> ==**to escape**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deliver (self), escape, lay, leap out, let alone, let go, preserve, save, [idiom] speedily, [idiom] surely.
@@ -22,4 +22,4 @@ $\quad$ **1d)** (Hithpael)
 $\quad$ $\quad$ **1d1)** to slip forth, slip out, escape
 $\quad$ $\quad$ **1d2)** to escape
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαβαίνω</span><sup><small>[[G1224]]</small></sup> · <span class="asgreek">διασώζω</span><sup><small>[[G1295]]</small></sup> · <span class="asgreek">διαφεύγω</span><sup><small>[[G1309]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">εὑρίσκω</span><sup><small>[[G2147]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ῥύομαι</span><sup><small>[[G4506]]</small></sup> · <span class="asgreek">σώζω</span><sup><small>[[G4982]]</small></sup> · <span class="asgreek">τίκτω</span><sup><small>[[G5088]]</small></sup>
+<small>See Greek: </small>**<big>[[G1224|διαβαίνω]]</big>** · **<big>[[G1295|διασώζω]]</big>** · **<big>[[G1309|διαφεύγω]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G2147|εὑρίσκω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G4506|ῥύομαι]]</big>** · **<big>[[G4982|σώζω]]</big>** · **<big>[[G5088|τίκτω]]</big>**

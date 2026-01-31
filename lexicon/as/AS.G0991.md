@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">βλέπω</span></span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">ראה</span> <small><sup>[[H7200]]</sup></small>, also for <span class="ashebrew">פּנה</span> <small><sup>[[H6437]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">βλέπω</span></span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7200|ראה]]</big>**, also for **<big>[[H6437|פּנה]]</big>**, etc. ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> of bodily sight;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to see, have sight</span> (opp. to <span class="asgreek">τυφλὸς εἶναι</span>): [[Matt.12.22|Mt 12:22]], [[John.9.7|Jo 9:7]], [[Acts.9.9|Ac 9:9]], [[Rom.11.8|Ro 11:8]], [[Rev.3.18|Re 3:18]], al.;</span>

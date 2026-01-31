@@ -7,42 +7,42 @@ Then said he unto me, These waters issue out toward the east country, and go dow
 And he said to me, “This water flows out to the eastern region and goes down into the Arabah. When it empties into the Dead Sea, the water there becomes fresh.<small><sub>**MT:**</sub></small>
 [[Ezek.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.7|<< Ezekiel 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.9|Ezekiel 47:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| This water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Galilee, | <big><span class="asgreek">Γαλιλαίαν</span></big> <sup><small><small>[[G1056]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| goes down | <big><span class="asgreek">κατεβαίνεν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabia, | <big><span class="asgreek">Αραβίαν</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| comes | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| as far as | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outlet, | <big><span class="asgreek">διεκβολής</span></big> <sup><small><small>[[G6914]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall heal | <big><span class="asgreek">υγιάσει</span></big> <sup><small><small>[[G9522]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waters. | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| This water | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Galilee, | **<big>[[G1056\|Γαλιλαίαν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| goes down | **<big>[[G2597\|κατεβαίνεν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Arabia, | **<big>[[G0688\|Αραβίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| comes | **<big>[[G2064\|ήρχετο]]</big>** |
+| as far as | **<big>[[G2193\|έως]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| outlet, | **<big>[[G6914\|διεκβολής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall heal | **<big>[[G9522\|υγιάσει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| waters. | **<big>[[G5204\|ύδατα]]</big>** |
 [[Ezek.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.7|<< Ezekiel 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.9|Ezekiel 47:9 >>]]</td></tr></table>
 
 

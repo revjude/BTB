@@ -7,27 +7,27 @@ Then came in all the king’s wise [men]: but they could not read the writing, n
 So all the king’s wise men came in, but they could not read the inscription or interpret it for him.<small><sub>**MT:**</sub></small>
 [[Dan.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.7|<< Daniel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.9|Daniel 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισεπορεύοντο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| \[were\] all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise \[men\] | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| writing | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
-| to read | <big><span class="asgreek">αναγνώναι</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| to make known | <big><span class="asgreek">γνωρίσαι</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| entering | **<big>[[G1531\|εισεπορεύοντο]]</big>** |
+| \[were\] all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| wise \[men\] | **<big>[[G4680\|σοφοί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύναντο]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| writing | **<big>[[G1124\|γραφήν]]</big>** |
+| to read | **<big>[[G0314\|αναγνώναι]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| to make known | **<big>[[G1107\|γνωρίσαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king. | **<big>[[G0935\|βασιλεί]]</big>** |
 [[Dan.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.7|<< Daniel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.9|Daniel 5:9 >>]]</td></tr></table>
 
 

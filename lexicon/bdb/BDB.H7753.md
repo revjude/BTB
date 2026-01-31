@@ -1,4 +1,4 @@
-<small>Also see: [[H5526]]</small>
+<small>Also see: **<big>[[H5526|סָכַךְ]]</big>**</small>
 
  I. [<span class="bdbLangHebrew">‎שׂוּךְ‎</span>] **verb** ==hedge or fence up, about== (= II.  <span class="bdbLangHebrew">‎סוּךְ‎</span>, q. v.); — 
 

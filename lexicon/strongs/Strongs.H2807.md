@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲשֻׁבָה‎</span></big> **Chăshubâh** <small>*(khash-oo-baw')*</small> ==**Hashubah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָשַׁב‎</span><sup><small>[[H2803]]</small></sup>; estimation</small>
+**<big><span class="ashebrew">‎חֲשֻׁבָה‎</span></big>** **Chăshubâh** <small>*(khash-oo-baw')*</small> ==**Hashubah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2803|‎חָשַׁב‎]]</big>**; estimation</small>
 
 $\quad$ Hashubah.
 - § Hashubah = *"consideration"*

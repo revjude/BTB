@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ezion-geber</span>, an Israelite encampment during the Exodus and later a port city on the Red Sea, known for its maritime trade and shipbuilding.
 - A location first mentioned at [[Num.33.35|Num.33.35]]; 
-- only referred to as Ezion-geber<[[H6100]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Ezion-geber **<big>[[H6100|עֶצְיוֹן גֶּבֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.75804307645581,35.0306017443078&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Later, during the reign of Jehoshaphat, the king of Judah, there was an attempt 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ezion-geber (NIV= Ezion Geber) | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H6100) <small>*Hebrew*</small> | 7x | [[Num.33.35] ... [2Ch.20.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezion\*\|reference=Num.33.35;Num.33.36;Deu.2.8;1Ki.9.26;1Ki.22.48;2Ch.8.17;2Ch.20.36) |
-All Strong's for **Ezion-geber**: \[[[H6100]]\]
+| Ezion-geber (NIV= Ezion Geber) | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H6100) | 7x | [[Num.33.35] ... [2Ch.20.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezion\*\|reference=Num.33.35;Num.33.36;Deu.2.8;1Ki.9.26;1Ki.22.48;2Ch.8.17;2Ch.20.36) |
+All entries for **Ezion-geber**:  **<big>[[H6100|עֶצְיוֹן גֶּבֶר]]</big>**

@@ -7,22 +7,22 @@ Fear not, thou worm Jacob, [and] ye men of Israel; I will help thee, saith the L
 Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.13|<< Isaiah 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.15|Isaiah 41:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear, | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| O Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| O Israel, very few in number! | <big><span class="asgreek">ολιγοστός</span></big> <sup><small><small>[[G8483]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gave help | <big><span class="asgreek">εβοήθησά</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ransoming | <big><span class="asgreek">λυτρούμενός</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear, | **<big>[[G5399\|φόβου]]</big>** |
+| O Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| O Israel, very few in number! | **<big>[[G8483\|ολιγοστός]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| gave help | **<big>[[G0997\|εβοήθησά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| ransoming | **<big>[[G3084\|λυτρούμενός]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Isa.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.13|<< Isaiah 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.15|Isaiah 41:15 >>]]</td></tr></table>
 
 

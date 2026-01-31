@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Antioch</span>, a city in Syria where the gospel first reached Gentiles and the believers were first called Christians.
 - A location first mentioned at Act.6.5; 
-- referred to as Antioch<[[G0490G]]> \(<span class='tipnrLangGreek'>Ἀντιόχεια</span>\), or Antiochian<[[G0491]]> \(<span class='tipnrLangGreek'>Ἀντιοχεύς</span>\).
+- referred to as Antioch **<big>[[G0490|Ἀντιόχεια]]</big>**, or Antiochian **<big>[[G0491|Ἀντιοχεύς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.20233087051257,36.16238775165068&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ The church in Antioch became a model of a multicultural, mission-oriented congre
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Antioch | [<span class='tipnrLangGreek'>Ἀντιόχεια</span>](G0490G) <small>*Greek*</small> | 14x | [[Act.11.19] ... [Gal.2.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.11.19;Act.11.20;Act.11.22;Act.11.26;Act.11.26;Act.11.27;Act.13.1;Act.14.26;Act.15.22;Act.15.23;Act.15.30;Act.15.35;Act.18.22;Gal.2.11) |
-| Antiochian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀντιοχεύς</span>](G0491) <small>*Greek*</small> | 1x | [Act.6.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.6.5) |
-All Strong's for **Antioch**: \[[[G0490G]]\] \[[[G0491]]\]
+| Antioch | [<span class='tipnrLangGreek'>Ἀντιόχεια</span>](G0490G) | 14x | [[Act.11.19] ... [Gal.2.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.11.19;Act.11.20;Act.11.22;Act.11.26;Act.11.26;Act.11.27;Act.13.1;Act.14.26;Act.15.22;Act.15.23;Act.15.30;Act.15.35;Act.18.22;Gal.2.11) |
+| Antiochian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀντιοχεύς</span>](G0491) | 1x | [Act.6.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.6.5) |
+All entries for **Antioch**:  **<big>[[G0490|Ἀντιόχεια]]</big>** ☩  **<big>[[G0491|Ἀντιοχεύς]]</big>**

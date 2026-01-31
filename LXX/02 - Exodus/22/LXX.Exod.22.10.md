@@ -7,32 +7,32 @@ If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, 
 If a man gives a donkey, an ox, a sheep, or any other animal to be cared for by his neighbor, but it dies or is injured or stolen while no one is watching,<small><sub>**MT:**</sub></small>
 [[Exod.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.9|<< Exodus 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.11|Exodus 22:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| a beast of burden, | <big><span class="asgreek">υποζύγιον</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a calf, | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| to guard; | <big><span class="asgreek">φυλάξαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it should break, | <big><span class="asgreek">συντριβή</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| come to an end, | <big><span class="asgreek">τελευτήση</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| captive | <big><span class="asgreek">αιχμάλωτον</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
-| become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no one | <big><span class="asgreek">μηδείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| should know, | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| should give | **<big>[[G1325\|δω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| neighbor | **<big>[[G4139\|πλησίον]]</big>** |
+| a beast of burden, | **<big>[[G5268\|υποζύγιον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a calf, | **<big>[[G3448\|μόσχον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| sheep, | **<big>[[G4263\|πρόβατον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| cattle | **<big>[[G2934\|κτήνος]]</big>** |
+| to guard; | **<big>[[G5442\|φυλάξαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it should break, | **<big>[[G4937\|συντριβή]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| come to an end, | **<big>[[G5053\|τελευτήση]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| captive | **<big>[[G0164\|αιχμάλωτον]]</big>** |
+| become | **<big>[[G1096\|γένηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no one | **<big>[[G3367\|μηδείς]]</big>** |
+| should know, | **<big>[[G1097\|γνώ]]</big>** |
 [[Exod.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.9|<< Exodus 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.11|Exodus 22:11 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֹכַח‎</span></big> **nôkach** <small>*(no'-kakh)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎נֵכַח‎</span><sup><small>[[H5226]]</small></sup></small>
+**<big><span class="ashebrew">‎נֹכַח‎</span></big>** **nôkach** <small>*(no'-kakh)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from the same as **<big>[[H5226|‎נֵכַח‎]]</big>**</small>
 
 $\quad$ (over) against, before, direct(-ly), for, right (on).
 - properly, ***the front part***
@@ -12,4 +12,4 @@ adv
 prep
 **3)** towards the front of, in front of, on behalf of, as far as in front of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐναντίον</span><sup><small>[[G1726]]</small></sup> · <span class="asgreek">ἐναντίος</span><sup><small>[[G1727]]</small></sup> · <span class="asgreek">ὀρθός</span><sup><small>[[G3717]]</small></sup>
+<small>See Greek: </small>**<big>[[G1726|ἐναντίον]]</big>** · **<big>[[G1727|ἐναντίος]]</big>** · **<big>[[G3717|ὀρθός]]</big>**

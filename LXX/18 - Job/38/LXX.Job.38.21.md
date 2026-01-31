@@ -7,15 +7,15 @@ Knowest thou [it], because thou wast then born? or [because] the number of thy d
 Surely you know, for you were already born! And the number of your days is great!<small><sub>**MT:**</sub></small>
 [[Job.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.20|<< Job 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.22|Job 38:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Have you known | <big><span class="asgreek">οίδας</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that it is so | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| \[because\] you were born, | <big><span class="asgreek">γεγέννησαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| and \[the\] number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of your years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| great? | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| Have you known | **<big>[[G1492\|οίδας]]</big>** |
+| that it is so | **<big>[[G0686\|άρα]]</big>** **<big>[[G3754\|ότι]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| \[because\] you were born, | **<big>[[G1080\|γεγέννησαι]]</big>** |
+| and \[the\] number | **<big>[[G0706\|αριθμός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of your years | **<big>[[G2094\|ετών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| great? | **<big>[[G4183\|πολύς]]</big>** |
 [[Job.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.20|<< Job 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.22|Job 38:22 >>]]</td></tr></table>
 
 

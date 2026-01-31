@@ -7,22 +7,22 @@ the one laying the foundation for the earth in  its stability (it shall not lean
 He set the earth on its foundations, never to be moved.<small><sub>**MT:**</sub></small>
 [[Ps.104.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.4|<< Psalm 104:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.6|Psalm 104:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| laying the foundation | <big><span class="asgreek">θεμελιών</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its stability | <big><span class="asgreek">ασφάλειαν</span></big> <sup><small><small>[[G0803]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| (it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lean | <big><span class="asgreek">κλιθήσεται</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon); | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| laying the foundation | **<big>[[G2311\|θεμελιών]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| its stability | **<big>[[G0803\|ασφάλειαν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| (it shall not | **<big>[[G3756\|ου]]</big>** |
+| lean | **<big>[[G2827\|κλιθήσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| eon); | **<big>[[G0165\|αιώνος]]</big>** |
 [[Ps.104.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.4|<< Psalm 104:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.6|Psalm 104:6 >>]]</td></tr></table>
 
 

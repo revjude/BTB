@@ -7,26 +7,26 @@ And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and
 But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can we make a treaty with you?”<small><sub>**MT:**</sub></small>
 [[Josh.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hivites, | <big><span class="asgreek">ευαίον</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
-| Look, | <big><span class="asgreek">όρα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell together | <big><span class="asgreek">συκατοικής</span></big> <sup><small><small>[[G9227]]</small></small></sup> |
-| so | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| do we ordain | <big><span class="asgreek">διαθώμεν</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant? | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Hivites, | **<big>[[H2340\|ευαίον]]</big>** |
+| Look, | **<big>[[G3708\|όρα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| dwell together | **<big>[[G9227\|συκατοικής]]</big>** |
+| so | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G4459\|πως]]</big>** |
+| do we ordain | **<big>[[G1303\|διαθώμεν]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| a covenant? | **<big>[[G1242\|διαθήκην]]</big>** |
 [[Josh.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
 

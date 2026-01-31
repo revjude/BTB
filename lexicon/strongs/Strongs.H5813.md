@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻזִּי‎</span></big> **ʻUzzîy** <small>*(ooz-zee')*</small> ==**Uzzi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָזַז‎</span><sup><small>[[H5810]]</small></sup>; forceful</small>
+**<big><span class="ashebrew">‎עֻזִּי‎</span></big>** **ʻUzzîy** <small>*(ooz-zee')*</small> ==**Uzzi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5810|‎עָזַז‎]]</big>**; forceful</small>
 
 $\quad$ Uzzi.
 - § Uzzi = *"strong"*

@@ -10,17 +10,17 @@ The perimeter of the city will be 18,000 cubits, and from that day on the name o
 > $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] circuit  | <span class="ashebrew"><big>סָבִ֕יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] eight-  | <span class="ashebrew"><big>שְׁמֹנָ֥ה </big></span><small><small><sup>[[H8083]]</sup></small></small> &#8207;| she.mo.Nah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָׂ֖ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand [cubits]  | <span class="ashebrew"><big>אָ֑לֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'A.lef <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] name of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁם </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shem- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the city  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עִ֥יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] day  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יּ֖וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [Is] There \<towards>  | <span class="ashebrew"><big>שָֽׁמָּ </big></span><small><small><sup>[[H8033H]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.ma <small><sup>[[HD]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] circuit  |**<big>&#8207;[[H5439G\|סָבִ֕יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] eight-  |**<big>&#8207;[[H8083\|שְׁמֹנָ֥ה]]&#8207; </big>**| she.mo.Nah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָׂ֖ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  |**<big>&#8207;[[H0505G\|אָ֑לֶף]]&#8207; </big>**| 'A.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֥יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] day  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] Yahweh  |**<big>&#8207;[[H3068H\|יְהוָ֥ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [Is] There \<towards>  |**<big>&#8207;[[H8033H\|שָֽׁמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.34|<< Ezekiel 48:34]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.1|Daniel 1:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
 <span class="asgreek">Ἀδμίν</span> <small>***(Admin)***</small> ==**Admin**==  <sup><small>[[TEGMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H7410G]]</small> 
+name of: <small>**<big>[[H7410G|רָם]]</big>**</small> 
 
 
  <b><span class='asgreek'>==Ἀδμίν==</span></b> (WH, mg., <span class='asgreek'>Ἀδάμ</span>), 6, indecl., 

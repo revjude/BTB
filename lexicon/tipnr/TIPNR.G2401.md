@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Idumea</span>, a region south of Judea, inhabited by Edomites.
 - A location only mentioned at [[Mark.3.8|Mrk.3.8]]; 
-- only referred to as Idumea<[[G2401]]> \(<span class='tipnrLangGreek'>Ἰδουμαία</span>\).
+- only referred to as Idumea **<big>[[G2401|Ἰδουμαία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Idumea was a region located south of Judea, inhabited by the descendants of Esau
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Idumea | [<span class='tipnrLangGreek'>Ἰδουμαία</span>](G2401) <small>*Greek*</small> | 1x | [Mrk.3.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Idumea\*\|reference=Mrk.3.8) |
-All Strong's for **Idumea**: \[[[G2401]]\]
+| Idumea | [<span class='tipnrLangGreek'>Ἰδουμαία</span>](G2401) | 1x | [Mrk.3.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Idumea\*\|reference=Mrk.3.8) |
+All entries for **Idumea**:  **<big>[[G2401|Ἰδουμαία]]</big>**

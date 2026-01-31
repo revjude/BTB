@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָשַׁךְ‎</span></big> **châshak** <small>*(khaw-shak')*</small> ==**to darken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָשַׁךְ‎</span></big>** **châshak** <small>*(khaw-shak')*</small> ==**to darken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be black, be (make) dark, darken, cause darkness, be dim, hide.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b1)** to make dark, cause to be dark
 $\quad$ $\quad$ **1b2)** to hide, conceal
 $\quad$ $\quad$ **1b3)** to obscure, confuse (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">σκοτία</span><sup><small>[[G4653]]</small></sup> · <span class="asgreek">σκοτίζω</span><sup><small>[[G4654]]</small></sup> · <span class="asgreek">σκοτόω</span><sup><small>[[G4656]]</small></sup>
+<small>See Greek: </small>**<big>[[G2928|κρύπτω]]</big>** · **<big>[[G4653|σκοτία]]</big>** · **<big>[[G4654|σκοτίζω]]</big>** · **<big>[[G4656|σκοτόω]]</big>**

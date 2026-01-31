@@ -6,21 +6,21 @@ Behold, all his companions will be put to shame, for the craftsmen themselves ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הֵ֤ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| companions his  | <span class="ashebrew"><big>חֲבֵרָי </big></span><small><small><sup>[[H2270]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| cha.ve.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be ashamed  | <span class="ashebrew"><big>יֵבֹ֔שׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ye.Vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and craftsmen  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָרָשִׁ֥ים </big></span><small><small><sup>[[H2796]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.ra.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֖מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] from humankind  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָדָ֑ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let them gather together  | <span class="ashebrew"><big>יִֽתְקַבְּצ֤וּ </big></span><small><small><sup>[[H6908]]</sup></small></small> &#8207;| yit.ka.be.Tzu <small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  | <span class="ashebrew"><big>כֻלָּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| khu.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let them stand up  | <span class="ashebrew"><big>יַֽעֲמֹ֔דוּ </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| ya.'a.Mo.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let them be in dread  | <span class="ashebrew"><big>יִפְחֲד֖וּ </big></span><small><small><sup>[[H6342]]</sup></small></small> &#8207;| yif.cha.Du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let them be ashamed  | <span class="ashebrew"><big>יֵבֹ֥שׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ye.Vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| altogether  | <span class="ashebrew"><big>יָֽחַד </big></span><small><small><sup>[[H3162A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| companions his  |**<big>&#8207;[[H2270\|חֲבֵרָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| cha.ve.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֔שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and craftsmen  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2796\|חָרָשִׁ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֖מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] from humankind  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0120G\|אָדָ֑ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them gather together  |**<big>&#8207;[[H6908\|יִֽתְקַבְּצ֤וּ]]&#8207; </big>**| yit.ka.be.Tzu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| khu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them stand up  |**<big>&#8207;[[H5975G\|יַֽעֲמֹ֔דוּ]]&#8207; </big>**| ya.'a.Mo.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them be in dread  |**<big>&#8207;[[H6342\|יִפְחֲד֖וּ]]&#8207; </big>**| yif.cha.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֥שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| altogether  |**<big>&#8207;[[H3162A\|יָֽחַד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
 

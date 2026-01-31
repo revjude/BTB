@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎תְּרַע‎</span></big> **tᵉraʻ** <small>*(ter-ah')*</small> ==**door**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שַׁעַר‎</span><sup><small>[[H8179]]</small></sup></small>
+**<big><span class="asaramaic">‎תְּרַע‎</span></big>** **tᵉraʻ** <small>*(ter-ah')*</small> ==**door**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8179|‎שַׁעַר‎]]</big>**</small>
 
 $\quad$ gate mouth.
 - ***a door***
@@ -10,4 +10,4 @@ $\quad$ **1a)** door
 $\quad$ **1b)** gate
 $\quad$ **1c)** court
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αὐλή</span><sup><small>[[G0833]]</small></sup> · <span class="asgreek">θύρα</span><sup><small>[[G2374]]</small></sup>
+<small>See Greek: </small>**<big>[[G0833|αὐλή]]</big>** · **<big>[[G2374|θύρα]]</big>**

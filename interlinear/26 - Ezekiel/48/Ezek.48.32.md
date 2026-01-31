@@ -6,26 +6,26 @@ On the east side, which will be 4,500 cubits long, there will be three gates: th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.31|<< Ezekiel 48:31]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.33|Ezekiel 48:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] side of  | <span class="ashebrew"><big>פְּאַ֣ת </big></span><small><small><sup>[[H6285]]</sup></small></small> &#8207;| pe.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| east -ward  | <span class="ashebrew"><big>קָדִ֗ימָ </big></span><small><small><sup>[[H6921]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| ka.Di.ma <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] five  | <span class="ashebrew"><big>חֲמֵ֤שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵאוֹת֙ </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'Ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and four  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַרְבַּ֣עַת </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ar.Ba.'at <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand [cubits]  | <span class="ashebrew"><big>אֲלָפִ֔ים </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gates  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁעָרִ֖ים </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֑ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] gate of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שַׁ֨עַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Sha.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֜ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֗ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gate of  | <span class="ashebrew"><big>שַׁ֤עַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| Sha.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Benjamin  | <span class="ashebrew"><big>בִּנְיָמִן֙ </big></span><small><small><sup>[[H1144G]]</sup></small></small> &#8207;| bin.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֔ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gate of  | <span class="ashebrew"><big>שַׁ֥עַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| Sha.'ar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dan  | <span class="ashebrew"><big>דָּ֖ן </big></span><small><small><sup>[[H1835G]]</sup></small></small> &#8207;| dan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָֽד </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] side of  |**<big>&#8207;[[H6285\|פְּאַ֣ת]]&#8207; </big>**| pe.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| east -ward  |**<big>&#8207;[[H6921\|קָדִ֗ימָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ka.Di.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] five  |**<big>&#8207;[[H2568\|חֲמֵ֤שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאוֹת֙]]&#8207; </big>**| me.'Ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֣עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba.'at<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  |**<big>&#8207;[[H0505G\|אֲלָפִ֔ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gates  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8179G\|שְׁעָרִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֑ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] gate of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8179G\|שַׁ֨עַר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֜ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֗ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gate of  |**<big>&#8207;[[H8179G\|שַׁ֤עַר]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  |**<big>&#8207;[[H1144G\|בִּנְיָמִן֙]]&#8207; </big>**| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֔ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gate of  |**<big>&#8207;[[H8179G\|שַׁ֥עַר]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dan  |**<big>&#8207;[[H1835G\|דָּ֖ן]]&#8207; </big>**| dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.31|<< Ezekiel 48:31]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.33|Ezekiel 48:33 >>]]</td></tr></table>
 
 

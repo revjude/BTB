@@ -7,34 +7,34 @@ And it came to pass, when the captains of the chariots saw Jehoshaphat, that the
 When the chariot commanders saw Jehoshaphat, they said, “Surely this is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.31|<< 1 Kings 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.33|1 Kings 22:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in charge | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariots | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| It appears \[that\] | <big><span class="asgreek">φαίνεται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| \[is the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| this \[one\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they encircled | <big><span class="asgreek">εκύκλωσαν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do battle. | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat shouted aloud. | <big><span class="asgreek">ανέκραξε</span></big> <sup><small><small>[[G0349]]</small></small></sup> <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| saw | **<big>[[G1492\|είδον]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| in charge | **<big>[[G0758\|άρχοντες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| chariots | **<big>[[G0716\|αρμάτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| said, | **<big>[[G2036\|είπον]]</big>** |
+| It appears \[that\] | **<big>[[G5316\|φαίνεται]]</big>** |
+| \[is the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| this \[one\] | **<big>[[G3778\|ούτος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they encircled | **<big>[[G2944\|εκύκλωσαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do battle. | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat shouted aloud. | **<big>[[G0349\|ανέκραξε]]</big>** **<big>[[G2498\|Ιωσαφάτ]]</big>** |
 [[1Kgs.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.31|<< 1 Kings 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.33|1 Kings 22:33 >>]]</td></tr></table>
 
 

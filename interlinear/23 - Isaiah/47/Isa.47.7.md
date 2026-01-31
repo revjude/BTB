@@ -10,21 +10,21 @@ You said, ‘I will be queen forever.’ You did not take these things to heart 
 > $\quad$ referenced by: [[Rev.18.7|Rev 18:7-8]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֹּ֣אמְרִ֔י </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Tom.Ri <small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֖ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will be  | <span class="ashebrew"><big>אֶהְיֶ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| 'eh.Yeh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a queen  | <span class="ashebrew"><big>גְבָ֑רֶת </big></span><small><small><sup>[[H1404]]</sup></small></small> &#8207;| ge.Va.ret <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַ֣ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you put  | <span class="ashebrew"><big>שַׂ֥מְתְּ </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| samt <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these [things]  | <span class="ashebrew"><big>אֵ֙לֶּה֙ </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'e.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart your  | <span class="ashebrew"><big>לִבֵּ֔ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| li.Be <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you remembered  | <span class="ashebrew"><big>זָכַ֖רְתְּ </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| za.Khart <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| outcome its  | <span class="ashebrew"><big>אַחֲרִיתָֽ </big></span><small><small><sup>[[H0319]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'a.cha.ri.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמְרִ֔י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Tom.Ri<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֖ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will be  |**<big>&#8207;[[H1961\|אֶהְיֶ֣ה]]&#8207; </big>**| 'eh.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a queen  |**<big>&#8207;[[H1404\|גְבָ֑רֶת]]&#8207; </big>**| ge.Va.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַ֣ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you put  |**<big>&#8207;[[H7760H\|שַׂ֥מְתְּ]]&#8207; </big>**| samt<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  |**<big>&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  |**<big>&#8207;[[H3820A\|לִבֵּ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| li.Be<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you remembered  |**<big>&#8207;[[H2142\|זָכַ֖רְתְּ]]&#8207; </big>**| za.Khart<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| outcome its  |**<big>&#8207;[[H0319\|אַחֲרִיתָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.cha.ri.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.6|<< Isaiah 47:6]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.8|Isaiah 47:8 >>]]</td></tr></table>
 
 

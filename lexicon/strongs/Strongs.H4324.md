@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָל‎</span></big> **Mîykâl** <small>*(me-kawl')*</small> ==**Michal**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>apparently the same as <span class="ashebrew">‎מִיכָל‎</span><sup><small>[[H4323]]</small></sup>; revulet</small>
+**<big><span class="ashebrew">‎מִיכָל‎</span></big>** **Mîykâl** <small>*(me-kawl')*</small> ==**Michal**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>apparently the same as **<big>[[H4323|‎מִיכָל‎]]</big>**; revulet</small>
 
 $\quad$ Michal.
 - § Michal = *"who is like God"*

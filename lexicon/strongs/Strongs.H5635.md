@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָרַף‎</span></big> **çâraph** <small>*(saw-raf')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָרַף‎</span></big>** **çâraph** <small>*(saw-raf')*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ burn.

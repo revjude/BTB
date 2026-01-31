@@ -1,8 +1,8 @@
-<small>Also see: [[H7389]]</small>
+<small>Also see: **<big>[[H7389|רֵישׁ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רָאשׁ‎</span> ***poor***, <span class="bdbLangHebrew">‎רֵאשׁ‎</span> ***poverty***, see  <span class="bdbLangHebrew">‎רושׁ‎</span>. 
 
-<small>Also see: [[H3426]] | [[H7567]]</small>
+<small>Also see: **<big>[[H3426|יֵשׁ]]</big>** | **<big>[[H7567|רָשַׁשׁ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎רוּשׁ‎</span> or <span class="bdbLangHebrew">‎רִישׁ‎</span>]<sub>24</sub> **verb** ==be in want, poor== (related to <span class="bdbLangHebrew">‎ירשׁ‎</span> [compare **Qal 3, Niph\`al Hiph\`il 3**]? so [[BDB#Thes|Thes]]); — 
 

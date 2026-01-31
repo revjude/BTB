@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְלֻי‎</span></big> **machluy** <small>*(makh-loo'-ee)*</small> ==**suffering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלָה‎</span><sup><small>[[H2470]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחְלֻי‎</span></big>** **machluy** <small>*(makh-loo'-ee)*</small> ==**suffering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2470|‎חָלָה‎]]</big>**</small>
 
 $\quad$ disease.
 - ***a disease***

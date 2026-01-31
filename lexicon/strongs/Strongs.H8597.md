@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּפְאָרָה‎</span></big> **tiphʼârâh** <small>*(tif-aw-raw')*</small> ==**beauty**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תִּפְאֶרֶת</span> **tiphʼereth** <small>*(tif-eh'-reth)*</small>; from <span class="ashebrew">‎פָּאַר‎</span><sup><small>[[H6286]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּפְאָרָה‎</span></big>** **tiphʼârâh** <small>*(tif-aw-raw')*</small> ==**beauty**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תִּפְאֶרֶת</span></big>** **tiphʼereth** <small>*(tif-eh'-reth)*</small>; from **<big>[[H6286|‎פָּאַר‎]]</big>**</small>
 
 $\quad$ beauty(-iful), bravery, comely, fair, glory(-ious), honour, majesty.
 - ***ornament*** (abstractly or concretely, literally or figuratively)
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b2)** as attribute of God
 $\quad$ **1c)** honour (or nation Israel)
 $\quad$ **1d)** glorying, boasting (of individual)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">καύχημα</span><sup><small>[[G2745]]</small></sup> · <span class="asgreek">καύχησις</span><sup><small>[[G2746]]</small></sup> · <span class="asgreek">κόσμος</span><sup><small>[[G2889]]</small></sup> · <span class="asgreek">μεγαλειότης</span><sup><small>[[G3168]]</small></sup> · <span class="asgreek">μεγαλωσύνη</span><sup><small>[[G3172]]</small></sup> · <span class="asgreek">τρυφή</span><sup><small>[[G5172]]</small></sup>
+<small>See Greek: </small>**<big>[[G1391|δόξα]]</big>** · **<big>[[G2745|καύχημα]]</big>** · **<big>[[G2746|καύχησις]]</big>** · **<big>[[G2889|κόσμος]]</big>** · **<big>[[G3168|μεγαλειότης]]</big>** · **<big>[[G3172|μεγαλωσύνη]]</big>** · **<big>[[G5172|τρυφή]]</big>**

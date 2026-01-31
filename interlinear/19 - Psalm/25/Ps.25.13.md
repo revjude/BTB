@@ -6,14 +6,14 @@ His soul will dwell in prosperity, and his descendants will inherit the land.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.12|<< Psalms 25:12]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.14|Psalms 25:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| self his  | <span class="ashebrew"><big>נַ֭פְשׁ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in good  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ט֣וֹב </big></span><small><small><sup>[[H2896B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will remain  | <span class="ashebrew"><big>תָּלִ֑ין </big></span><small><small><sup>[[H3885A]]</sup></small></small> &#8207;| ta.Lin <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and offspring his  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זַרְע֗ </big></span><small><small><sup>[[H2233H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> zar.' <small><sup>[[HNcmsc]]</sup></small> O <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will possess  | <span class="ashebrew"><big>יִ֣ירַשׁ </big></span><small><small><sup>[[H3423G]]</sup></small></small> &#8207;| Yi.rash <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  |**<big>&#8207;[[H5315G\|נַ֭פְשׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in good  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2896B\|ט֣וֹב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will remain  |**<big>&#8207;[[H3885A\|תָּלִ֑ין]]&#8207; </big>**| ta.Lin<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and offspring his  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H2233H\|זַרְע֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zar.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will possess  |**<big>&#8207;[[H3423G\|יִ֣ירַשׁ]]&#8207; </big>**| Yi.rash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.12|<< Psalms 25:12]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.14|Psalms 25:14 >>]]</td></tr></table>
 
 

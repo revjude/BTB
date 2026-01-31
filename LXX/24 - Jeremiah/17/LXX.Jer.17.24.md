@@ -7,42 +7,42 @@ And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to 
 If, however, you listen carefully to Me, says the LORD, and bring no load through the gates of this city on the Sabbath day, and keep the Sabbath day holy, and do no work on it,<small><sub>**MT:**</sub></small>
 [[Jer.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.23|<< Jeremiah 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.25|Jeremiah 17:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be, | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should hearken to | <big><span class="asgreek">εισακούσητέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| carry in | <big><span class="asgreek">εισφέρειν</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| burdens | <big><span class="asgreek">βαστάγματα</span></big> <sup><small><small>[[G6660]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πυλών</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths, | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάζειν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be, | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should hearken to | **<big>[[G1522\|εισακούσητέ]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| carry in | **<big>[[G1533\|εισφέρειν]]</big>** |
+| burdens | **<big>[[G6660\|βαστάγματα]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| gates | **<big>[[G4439\|πυλών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of this city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths, | **<big>[[G4521\|σαββάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάζειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| do | **<big>[[G4160\|ποιείν]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
 [[Jer.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.23|<< Jeremiah 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.25|Jeremiah 17:25 >>]]</td></tr></table>
 
 

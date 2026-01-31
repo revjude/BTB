@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַרְקַע‎</span></big> **Qarqaʻ** <small>*(kar-kah')*</small> ==**Karka**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קַרְקַע‎</span><sup><small>[[H7172]]</small></sup>; ground-floor</small>
+**<big><span class="ashebrew">‎קַרְקַע‎</span></big>** **Qarqaʻ** <small>*(kar-kah')*</small> ==**Karka**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H7172|‎קַרְקַע‎]]</big>**; ground-floor</small>
 
 $\quad$ Karkaa.
 - § Karkaa = *"floor"*

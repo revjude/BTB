@@ -1,4 +1,3 @@
-<span class="asaramaic">‎שֵׁיצִי‎</span> <small>***(ye.tsa)***</small> ==**to bring forth**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H3318G]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3318G|יָצָא]]</big>**</small> 
 
-- Aramaic of <i>ya.tsa</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎צ‎</span>ָ<span class='ashebrew'>‎א‎</span> ": come" [[H3318]])
+- Aramaic of <i>ya.tsa</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎צ‎</span>ָ<span class='ashebrew'>‎א‎</span> ": come" **<big>[[H3318|יָצָא]]</big>**)

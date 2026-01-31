@@ -7,28 +7,28 @@ And after that Hezron was dead in Calebephratah, then Abiah Hezron’s wife bare
 After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the father of Tekoa.<small><sub>**MT:**</sub></small>
 [[1Chr.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.23|<< 1 Chronicles 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.25|1 Chronicles 2:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dying | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| of Hezron, | <big><span class="asgreek">Εσρών</span></big> <sup><small><small>[[G2074]]</small></small></sup> |
-| Caleb came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ephratah. | <big><span class="asgreek">Εφραθά</span></big> <sup><small><small>[[H6084]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Hezron | <big><span class="asgreek">Εσρών</span></big> <sup><small><small>[[G2074]]</small></small></sup> |
-| \[was\] Abiah, | <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashur | <big><span class="asgreek">Ασοώρ</span></big> <sup><small><small>[[H0805]]</small></small></sup> |
-| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Tekoa. | <big><span class="asgreek">Θεκωέ</span></big> <sup><small><small>[[H8621]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dying | **<big>[[G0599\|αποθανείν]]</big>** |
+| of Hezron, | **<big>[[G2074\|Εσρών]]</big>** |
+| Caleb came | **<big>[[G2064\|ήλθε]]</big>** **<big>[[H3612\|Χαλέβ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Ephratah. | **<big>[[H6084\|Εφραθά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Hezron | **<big>[[G2074\|Εσρών]]</big>** |
+| \[was\] Abiah, | **<big>[[G0007\|Αβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ashur | **<big>[[H0805\|Ασοώρ]]</big>** |
+| father | **<big>[[G3962\|πατέρα]]</big>** |
+| of Tekoa. | **<big>[[H8621\|Θεκωέ]]</big>** |
 [[1Chr.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.23|<< 1 Chronicles 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.25|1 Chronicles 2:25 >>]]</td></tr></table>
 
 

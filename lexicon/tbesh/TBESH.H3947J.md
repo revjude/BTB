@@ -1,4 +1,3 @@
-<span class="ashebrew">‎לָקַח‎</span> <small>***(la.qach)***</small> ==**to take: bring**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H3947G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H3947G|לָקַח]]</big>**</small> 
 
 - : bring/put

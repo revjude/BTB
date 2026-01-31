@@ -7,17 +7,17 @@ They shall have like portions to eat, beside that which cometh of the sale of hi
 They shall eat equal portions, even though he has received money from the sale of his father’s estate.<small><sub>**MT:**</sub></small>
 [[Deut.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.7|<< Deuteronomy 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.9|Deuteronomy 18:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a portion | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| having been portioned | <big><span class="asgreek">μεμερισμένην</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| He shall eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sale | <big><span class="asgreek">πράσεως</span></big> <sup><small><small>[[G8876]]</small></small></sup> |
-| of the \[things\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| family. | <big><span class="asgreek">πατριάν</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| a portion | **<big>[[G3310\|μερίδα]]</big>** |
+| having been portioned | **<big>[[G3307\|μεμερισμένην]]</big>** |
+| He shall eat | **<big>[[G2068\|φάγεται]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sale | **<big>[[G8876\|πράσεως]]</big>** |
+| of the \[things\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his | **<big>[[G2596\|κατά]]</big>** |
+| family. | **<big>[[G3965\|πατριάν]]</big>** |
 [[Deut.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.7|<< Deuteronomy 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.9|Deuteronomy 18:9 >>]]</td></tr></table>
 
 

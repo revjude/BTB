@@ -7,22 +7,22 @@ For, behold, I will send serpents, cockatrices, among you, which [will] not [be]
 “For behold, I will send snakes among you, vipers that cannot be charmed, and they will bite you,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.16|<< Jeremiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.18|Jeremiah 8:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| send out | <big><span class="asgreek">εξαποστέλλω</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| serpents | <big><span class="asgreek">όφεις</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| putting to death, | <big><span class="asgreek">θανατούντας</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| ones which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| charmed; | <big><span class="asgreek">επάσαι</span></big> <sup><small><small>[[G7358]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bite | <big><span class="asgreek">δήξονται</span></big> <sup><small><small>[[G1143]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| send out | **<big>[[G1821\|εξαποστέλλω]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| serpents | **<big>[[G3789\|όφεις]]</big>** |
+| putting to death, | **<big>[[G2289\|θανατούντας]]</big>** |
+| ones which | **<big>[[G3739\|οις]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| charmed; | **<big>[[G7358\|επάσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall bite | **<big>[[G1143\|δήξονται]]</big>** |
+| you; | **<big>[[G1473\|υμάς]]</big>** |
 [[Jer.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.16|<< Jeremiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.18|Jeremiah 8:18 >>]]</td></tr></table>
 
 

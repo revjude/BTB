@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎πλάσσω‎</span></big> **plássō** <small>*(plas'-so)*</small> ==**to mold**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎πλάσσω‎</span></big>** **plássō** <small>*(plas'-so)*</small> ==**to mold**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ form.

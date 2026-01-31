@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרָמִית‎</span></big> **ʼĂrâmîyth** <small>*(ar-aw-meeth')*</small> ==**Aramaic**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אֲרַמִּי‎</span><sup><small>[[H0761]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲרָמִית‎</span></big>** **ʼĂrâmîyth** <small>*(ar-aw-meeth')*</small> ==**Aramaic**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>feminine of **<big>[[H0761|‎אֲרַמִּי‎]]</big>**</small>
 
 $\quad$ in the Syrian language (tongue), in Syriac.
 - § Aramaic = *"language"*

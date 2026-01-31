@@ -10,46 +10,46 @@ Now there cried a certain woman of the wives of the sons of the prophets unto El
 Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”<small><sub>**MT:**</sub></small>
 [[2Kgs.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.27|<< 2 Kings 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.2|2 Kings 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| yelled | <big><span class="asgreek">εβόα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Elisha, | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγουσα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your servant, | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| died, | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβούμενος</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money-lender | <big><span class="asgreek">δανειστής</span></big> <sup><small><small>[[G1157]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| servants | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| to himself. | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| prophets | **<big>[[G4396\|προφητών]]</big>** |
+| yelled | **<big>[[G0994\|εβόα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Elisha, | **<big>[[G1666\|Ελισεαί]]</big>** |
+| saying, | **<big>[[G3004\|λέγουσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your servant, | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my husband | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| died, | **<big>[[G0599\|απέθανε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| know | **<big>[[G1097\|έγνως]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| fearing | **<big>[[G5399\|φοβούμενος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| money-lender | **<big>[[G1157\|δανειστής]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| servants | **<big>[[G1401\|δούλους]]</big>** |
+| to himself. | **<big>[[G1438\|εαυτώ]]</big>** |
 [[2Kgs.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.27|<< 2 Kings 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.2|2 Kings 4:2 >>]]</td></tr></table>
 
 

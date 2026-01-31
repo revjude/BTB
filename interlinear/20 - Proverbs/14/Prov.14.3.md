@@ -6,15 +6,15 @@ The proud speech of a fool brings a rod to his back, but the lips of the wise pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.2|<< Proverbs 14:2]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.4|Proverbs 14:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] in [the] mouth of  | <span class="ashebrew"><big>בְּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פִי </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> fi- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fool  | <span class="ashebrew"><big>אֱ֭וִיל </big></span><small><small><sup>[[H0191]]</sup></small></small> &#8207;| 'E.vil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a shoot of  | <span class="ashebrew"><big>חֹ֣טֶר </big></span><small><small><sup>[[H2415]]</sup></small></small> &#8207;| Cho.ter <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pride  | <span class="ashebrew"><big>גַּאֲוָ֑ה </big></span><small><small><sup>[[H1346]]</sup></small></small> &#8207;| ga.'a.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] lips of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׂפְתֵ֥י </big></span><small><small><sup>[[H8193G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sif.Tei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise [people]  | <span class="ashebrew"><big>חֲ֝כָמִ֗ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it preserves them  | <span class="ashebrew"><big>תִּשְׁמוּרֵֽ </big></span><small><small><sup>[[H8104H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.mu.Re <small><sup>[[HVqi2ms]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] mouth of  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H6310G\|פִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  |**<big>&#8207;[[H0191\|אֱ֭וִיל]]&#8207; </big>**| 'E.vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shoot of  |**<big>&#8207;[[H2415\|חֹ֣טֶר]]&#8207; </big>**| Cho.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pride  |**<big>&#8207;[[H1346\|גַּאֲוָ֑ה]]&#8207; </big>**| ga.'a.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] lips of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8193G\|שִׂפְתֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people]  |**<big>&#8207;[[H2450\|חֲ֝כָמִ֗ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it preserves them  |**<big>&#8207;[[H8104H\|תִּשְׁמוּרֵֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.mu.Re<small><sup>[[HVqi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.2|<< Proverbs 14:2]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.4|Proverbs 14:4 >>]]</td></tr></table>
 
 

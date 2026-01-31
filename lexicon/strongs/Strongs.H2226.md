@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֶרַח‎</span></big> **Zerach** <small>*(zeh'-rakh)*</small> ==**Zerah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎זֶרַח‎</span><sup><small>[[H2225]]</small></sup></small>
+**<big><span class="ashebrew">‎זֶרַח‎</span></big>** **Zerach** <small>*(zeh'-rakh)*</small> ==**Zerah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2225|‎זֶרַח‎]]</big>**</small>
 
 $\quad$ Zarah, Zerah.
 - § Zerah or Zarah = *"rising"*
@@ -12,4 +12,4 @@ $\quad$ Zarah, Zerah.
 **5)** the Ethiopian or Cushite, invader of Judah in the reign of Asa who defeated the invaders; probably the same as the Egyptian king Usarken I, second king of the Egyptian 22nd dynasty or perhaps more probably Usarken II, his 2nd successor
 **6)** another Edomite leader; possibly same as 1
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ζαρά</span><sup><small>[[G2196]]</small></sup>
+<small>See Greek: </small>**<big>[[G2196|Ζαρά]]</big>**

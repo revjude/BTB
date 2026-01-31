@@ -16,24 +16,24 @@ A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice whe
 > $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Listen to | <big><span class="asgreek">εισάκουσόν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Take heed | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my supplication | <big><span class="asgreek">δεήσεώς</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my crying | <big><span class="asgreek">κεκραγέναι</span></big> <sup><small><small>[[G2896]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| I cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| Listen to | **<big>[[G1522\|εισάκουσόν]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| Take heed | **<big>[[G4337\|πρόσχες]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my supplication | **<big>[[G1162\|δεήσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my crying | **<big>[[G2896\|κεκραγέναι]]</big>** **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you! | **<big>[[G1473\|σε]]</big>** |
 [[Ps.141.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.13|<< Psalm 140:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.2|Psalm 141:2 >>]]</td></tr></table>
 
 

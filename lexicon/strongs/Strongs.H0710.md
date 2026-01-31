@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎אַרְגְּוָן‎</span></big> **ʼargᵉvân** <small>*(arg-ev-awn')*</small> ==**purple**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎אַרְגָּמָן‎</span><sup><small>[[H0713]]</small></sup></small>
+**<big><span class="ashebrew">‎אַרְגְּוָן‎</span></big>** **ʼargᵉvân** <small>*(arg-ev-awn')*</small> ==**purple**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>a variation for **<big>[[H0713|‎אַרְגָּמָן‎]]</big>**</small>
 
 $\quad$ purple.
 - ***purple***
 
 **1)** purple
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πορφύρα</span><sup><small>[[G4209]]</small></sup>
+<small>See Greek: </small>**<big>[[G4209|πορφύρα]]</big>**

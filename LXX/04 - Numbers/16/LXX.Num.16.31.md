@@ -14,19 +14,19 @@ As soon as Moses had finished saying all this, the ground beneath them split ope
 > $\quad$ referenced by: [[1John.3.12|1John 3:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he ceased | <big><span class="asgreek">επαύσατο</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[was\] torn | <big><span class="asgreek">ερράγη</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he ceased | **<big>[[G3973\|επαύσατο]]</big>** |
+| speaking | **<big>[[G2980\|λαλών]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words, | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| \[was\] torn | **<big>[[G4486\|ερράγη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Num.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.32|Numbers 16:32 >>]]</td></tr></table>
 
 

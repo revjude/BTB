@@ -7,30 +7,30 @@
 There was a small city with few men. A mighty king came against it, surrounded it, and built large siege ramps against it.<small><sub>**MT:**</sub></small>
 [[Eccl.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.13|<< Ecclesiastes 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.15|Ecclesiastes 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \[If there were\] a small | <big><span class="asgreek">μικρά</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| few; | <big><span class="asgreek">ολίγοι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there should come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall encircle | <big><span class="asgreek">κυκλώσει</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall build | <big><span class="asgreek">οικοδομήσει</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| siege mounds | <big><span class="asgreek">χάρακας</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλους</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| \[If there were\] a small | **<big>[[G3398\|μικρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| few; | **<big>[[G3641\|ολίγοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there should come | **<big>[[G2064\|έλθη]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| a great | **<big>[[G3173\|μέγας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall encircle | **<big>[[G2944\|κυκλώσει]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall build | **<big>[[G3618\|οικοδομήσει]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| siege mounds | **<big>[[G5482\|χάρακας]]</big>** |
+| great | **<big>[[G3173\|μεγάλους]]</big>** |
 [[Eccl.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.13|<< Ecclesiastes 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.15|Ecclesiastes 9:15 >>]]</td></tr></table>
 
 

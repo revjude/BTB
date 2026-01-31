@@ -6,15 +6,15 @@ Give us aid against the enemy, for the help of man is worthless.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.10|<< Psalms 60:10]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.12|Psalms 60:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give !  | <span class="ashebrew"><big>הָֽבָ </big></span><small><small><sup>[[H3051]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ha.va <small><sup>[[HVqv2ms]]</sup></small> h- <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to us  | <span class="ashebrew"><big>לָּ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| help  | <span class="ashebrew"><big>עֶזְרָ֣ת </big></span><small><small><sup>[[H5833]]</sup></small></small> &#8207;| 'ez.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] foe  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>צָּ֑ר </big></span><small><small><sup>[[H6862C]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Tzar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] worthlessness  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׁ֗וְא </big></span><small><small><sup>[[H7723H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shav' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] deliverance of  | <span class="ashebrew"><big>תְּשׁוּעַ֥ת </big></span><small><small><sup>[[H8668G]]</sup></small></small> &#8207;| te.shu.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָם </big></span><small><small><sup>[[H0120G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give !  |**<big>&#8207;[[H3051\|הָֽבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.va<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  |**<big>&#8207;[[H9005\|לָּ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| help  |**<big>&#8207;[[H5833\|עֶזְרָ֣ת]]&#8207; </big>**| 'ez.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] foe  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6862C\|צָּ֑ר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] worthlessness  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H7723H\|שָׁ֗וְא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deliverance of  |**<big>&#8207;[[H8668G\|תְּשׁוּעַ֥ת]]&#8207; </big>**| te.shu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.10|<< Psalms 60:10]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.12|Psalms 60:12 >>]]</td></tr></table>
 
 

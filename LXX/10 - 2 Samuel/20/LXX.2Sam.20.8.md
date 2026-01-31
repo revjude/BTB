@@ -7,47 +7,47 @@ When they [were] at the great stone which [is] in Gibeon, Amasa went before them
 And while they were at the great stone in Gibeon, Amasa joined them. Now Joab was dressed in military attire, with a dagger strapped to his belt. And as he stepped forward, he slipped the dagger from its sheath.<small><sub>**MT:**</sub></small>
 [[2Sam.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.7|<< 2 Samuel 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.9|2 Samuel 20:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they \[were\] | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθω</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλω</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gibeon. | <big><span class="asgreek">Γαβαών</span></big> <sup><small><small>[[H1391]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amasa | <big><span class="asgreek">Αμεσσά</span></big> <sup><small><small>[[H6021]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| being girded | <big><span class="asgreek">περιεζωσμένος</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| uniform | <big><span class="asgreek">μανδύαν</span></big> <sup><small><small>[[G8249]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garment | <big><span class="asgreek">ένδυμα</span></big> <sup><small><small>[[G1742]]</small></small></sup> |
-| with his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being tied around | <big><span class="asgreek">εζωσμένος</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
-| \[was\] a sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| being teamed up | <big><span class="asgreek">εζευγμένην</span></big> <sup><small><small>[[G7599]]</small></small></sup> |
-| on | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his loin | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| its sheath. | <big><span class="asgreek">κολέω</span></big> <sup><small><small>[[G8051]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell. | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they \[were\] | **<big>[[G1473\|αυτοί]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| stone | **<big>[[G3037\|λίθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| great | **<big>[[G3173\|μεγάλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gibeon. | **<big>[[H1391\|Γαβαών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Amasa | **<big>[[H6021\|Αμεσσά]]</big>** |
+| entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| being girded | **<big>[[G4024\|περιεζωσμένος]]</big>** |
+| uniform | **<big>[[G8249\|μανδύαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| garment | **<big>[[G1742\|ένδυμα]]</big>** |
+| with his | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| being tied around | **<big>[[G2224\|εζωσμένος]]</big>** |
+| \[was\] a sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| being teamed up | **<big>[[G7599\|εζευγμένην]]</big>** |
+| on | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his loin | **<big>[[G3751\|οσφύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| its sheath. | **<big>[[G8051\|κολέω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fell. | **<big>[[G4098\|έπεσε]]</big>** |
 [[2Sam.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.7|<< 2 Samuel 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.9|2 Samuel 20:9 >>]]</td></tr></table>
 
 

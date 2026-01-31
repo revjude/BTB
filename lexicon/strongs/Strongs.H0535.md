@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָמַל‎</span></big> **ʼâmal** <small>*(aw-mal')*</small> ==**to weaken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָמַל‎</span></big>** **ʼâmal** <small>*(aw-mal')*</small> ==**to weaken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ languish, be weak, wax feeble.

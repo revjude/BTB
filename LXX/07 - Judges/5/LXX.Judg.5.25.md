@@ -7,20 +7,20 @@ He asked water, [and] she gave [him] milk; she brought forth butter in a lordly 
 He asked for water, and she gave him milk. In a magnificent bowl she brought him curds.<small><sub>**MT:**</sub></small>
 [[Judg.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.24|<< Judges 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.26|Judges 5:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| He asked | <big><span class="asgreek">ήτησεν</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| she gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a pan; | <big><span class="asgreek">λεκάνη</span></big> <sup><small><small>[[G8177]]</small></small></sup> |
-| of strong ones | <big><span class="asgreek">ισχυρών</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| she drew near | <big><span class="asgreek">προσήγγισε</span></big> <sup><small><small>[[G4331]]</small></small></sup> |
-| butter | <big><span class="asgreek">βούτυρον</span></big> <sup><small><small>[[G6694]]</small></small></sup> |
+| for water | **<big>[[G5204\|ύδωρ]]</big>** |
+| He asked | **<big>[[G0154\|ήτησεν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| milk | **<big>[[G1051\|γάλα]]</big>** |
+| she gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a pan; | **<big>[[G8177\|λεκάνη]]</big>** |
+| of strong ones | **<big>[[G2478\|ισχυρών]]</big>** |
+| she drew near | **<big>[[G4331\|προσήγγισε]]</big>** |
+| butter | **<big>[[G6694\|βούτυρον]]</big>** |
 [[Judg.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.24|<< Judges 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.26|Judges 5:26 >>]]</td></tr></table>
 
 

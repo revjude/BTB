@@ -6,14 +6,14 @@ I cry out to God Most High, to God who fulfills His purpose for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.1|<< Psalms 57:1]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.3|Psalms 57:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I call out  | <span class="ashebrew"><big>אֶ֭קְרָא </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| 'Ek.ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to God  | <span class="ashebrew"><big>לֵֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אלֹהִ֣ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Most High  | <span class="ashebrew"><big>עֶלְי֑וֹן </big></span><small><small><sup>[[H5945B]]</sup></small></small> &#8207;| el.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> God  | <span class="ashebrew"><big>לָ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֗ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] avenges  | <span class="ashebrew"><big>גֹּמֵ֥ר </big></span><small><small><sup>[[H1584]]</sup></small></small> &#8207;| go.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on me  | <span class="ashebrew"><big>עָלָֽ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I call out  |**<big>&#8207;[[H7121G\|אֶ֭קְרָא]]&#8207; </big>**| 'Ek.ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to God  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430G\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Most High  |**<big>&#8207;[[H5945B\|עֶלְי֑וֹן]]&#8207; </big>**| el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> God  |**<big>&#8207;[[H9005\|לָ֝]]&#8207;&#8207;[[H0410G\|אֵ֗ל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] avenges  |**<big>&#8207;[[H1584\|גֹּמֵ֥ר]]&#8207; </big>**| go.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  |**<big>&#8207;[[H5921A\|עָלָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.1|<< Psalms 57:1]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.3|Psalms 57:3 >>]]</td></tr></table>
 
 

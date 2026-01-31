@@ -7,22 +7,22 @@ For thus hath the Lord said unto me, Go, set a watchman, let him declare what he
 For this is what the Lord says to me: “Go, post a lookout and have him report what he sees.<small><sub>**MT:**</sub></small>
 [[Isa.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.5|<< Isaiah 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.7|Isaiah 21:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Proceeding, | <big><span class="asgreek">βαδίσας</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| stand | <big><span class="asgreek">στήσον</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| as watchman, | <big><span class="asgreek">σκοπόν</span></big> <sup><small><small>[[G4649]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whatever | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should behold | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| announce! | <big><span class="asgreek">ανάγγειλον</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Proceeding, | **<big>[[G6642\|βαδίσας]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| stand | **<big>[[G2476\|στήσον]]</big>** |
+| as watchman, | **<big>[[G4649\|σκοπόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whatever | **<big>[[G3739\|ο]]</big>** **<big>[[G0302\|αν]]</big>** |
+| you should behold | **<big>[[G1492\|ίδης]]</big>** |
+| announce! | **<big>[[G0312\|ανάγγειλον]]</big>** |
 [[Isa.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.5|<< Isaiah 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.7|Isaiah 21:7 >>]]</td></tr></table>
 
 

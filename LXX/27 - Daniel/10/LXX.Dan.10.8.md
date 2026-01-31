@@ -11,33 +11,33 @@ So I was left alone, gazing at this great vision. No strength remained in me; my
 > $\quad$ referenced by: [[Rev.1.17|Rev 1:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was left behind | <big><span class="asgreek">υπελείφθην</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| alone. | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparition | <big><span class="asgreek">οπτασίαν</span></big> <sup><small><small>[[G3701]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| left | <big><span class="asgreek">υπελείφθη</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strength, | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| converted | <big><span class="asgreek">μετεστράφη</span></big> <sup><small><small>[[G3344]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| corruption, | <big><span class="asgreek">διαφθοράν</span></big> <sup><small><small>[[G1312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I held no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκράτησα</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| strength. | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| was left behind | **<big>[[G5275\|υπελείφθην]]</big>** |
+| alone. | **<big>[[G3441\|μόνος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld | **<big>[[G1492\|είδον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| apparition | **<big>[[G3701\|οπτασίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this great | **<big>[[G3173\|μεγάλην]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was not | **<big>[[G3756\|ουχ]]</big>** |
+| left | **<big>[[G5275\|υπελείφθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| strength, | **<big>[[G2479\|ισχύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| converted | **<big>[[G3344\|μετεστράφη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| corruption, | **<big>[[G1312\|διαφθοράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I held no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2902\|εκράτησα]]</big>** |
+| strength. | **<big>[[G2479\|ισχύος]]</big>** |
 [[Dan.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.7|<< Daniel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.9|Daniel 10:9 >>]]</td></tr></table>
 
 

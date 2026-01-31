@@ -6,25 +6,25 @@ Ephraim is a well-trained heifer that loves to thresh; but I will place a yoke o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.10|<< Hosea 10:10]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.12|Hosea 10:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Ephraim  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶפְרַ֜יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] a heifer  | <span class="ashebrew"><big>עֶגְלָ֤ה </big></span><small><small><sup>[[H5697A]]</sup></small></small> &#8207;| 'eg.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trained  | <span class="ashebrew"><big>מְלֻמָּדָה֙ </big></span><small><small><sup>[[H3925G]]</sup></small></small> &#8207;| me.lu.ma.Dah <small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] loved  | <span class="ashebrew"><big>אֹהַ֣בְתִּי </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'o.Hav.ti <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to thresh  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ד֔וּשׁ </big></span><small><small><sup>[[H1758]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Dush <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I passed  | <span class="ashebrew"><big>עָבַ֔רְתִּי </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] goodness of  | <span class="ashebrew"><big>ט֖וּב </big></span><small><small><sup>[[H2898]]</sup></small></small> &#8207;| tuv <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neck its  | <span class="ashebrew"><big>צַוָּארָ֑ </big></span><small><small><sup>[[H6677A]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| tza.va.Ra <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will cause to draw  | <span class="ashebrew"><big>אַרְכִּ֤יב </big></span><small><small><sup>[[H7392]]</sup></small></small> &#8207;| 'ar.Kiv <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֙יִם֙ </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will plow  | <span class="ashebrew"><big>יַחֲר֣וֹשׁ </big></span><small><small><sup>[[H2790A]]</sup></small></small> &#8207;| ya.cha.Ro.osh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will harrow  | <span class="ashebrew"><big>יְשַׂדֶּד </big></span><small><small><sup>[[H7702]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.sa.ded- <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> itself  | <span class="ashebrew"><big>ל֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹֽב </big></span><small><small><sup>[[H3290]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ephraim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0669G\|אֶפְרַ֜יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a heifer  |**<big>&#8207;[[H5697A\|עֶגְלָ֤ה]]&#8207; </big>**| 'eg.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trained  |**<big>&#8207;[[H3925G\|מְלֻמָּדָה֙]]&#8207; </big>**| me.lu.ma.Dah<small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] loved  |**<big>&#8207;[[H0157G\|אֹהַ֣בְתִּי]]&#8207; </big>**| 'o.Hav.ti<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to thresh  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1758\|ד֔וּשׁ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Dush<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I passed  |**<big>&#8207;[[H5674A\|עָבַ֔רְתִּי]]&#8207; </big>**| 'a.Var.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] goodness of  |**<big>&#8207;[[H2898\|ט֖וּב]]&#8207; </big>**| tuv<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neck its  |**<big>&#8207;[[H6677A\|צַוָּארָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| tza.va.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will cause to draw  |**<big>&#8207;[[H7392\|אַרְכִּ֤יב]]&#8207; </big>**| 'ar.Kiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will plow  |**<big>&#8207;[[H2790A\|יַחֲר֣וֹשׁ]]&#8207; </big>**| ya.cha.Ro.osh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will harrow  |**<big>&#8207;[[H7702\|יְשַׂדֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.sa.ded-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> itself  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.10|<< Hosea 10:10]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.12|Hosea 10:12 >>]]</td></tr></table>
 
 

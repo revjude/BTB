@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְבוּס‎</span></big> **Yᵉbûwç** <small>*(yeb-oos')*</small> ==**Jebus**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בּוּס‎</span><sup><small>[[H0947]]</small></sup>; trodden, i.e. threshing-place</small>
+**<big><span class="ashebrew">‎יְבוּס‎</span></big>** **Yᵉbûwç** <small>*(yeb-oos')*</small> ==**Jebus**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0947|‎בּוּס‎]]</big>**; trodden, i.e. threshing-place</small>
 
 $\quad$ Jebus.
 - § Jebus = *"threshing place"*

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּמַךְ‎</span></big> **tâmak** <small>*(taw-mak')*</small> ==**to grasp**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּמַךְ‎</span></big>** **tâmak** <small>*(taw-mak')*</small> ==**to grasp**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (take, up-) hold (up), maintain, retain, stay (up).
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a3)** to hold, keep
 $\quad$ $\quad$ **1a4)** to take hold of each other
 $\quad$ **1b)** (Niphal) to be seized, be held
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντιλαμβάνομαι</span><sup><small>[[G0482]]</small></sup> · <span class="asgreek">ἀποκαθίστημι</span><sup><small>[[G0600]]</small></sup> · <span class="asgreek">ἀσφάλεια</span><sup><small>[[G0803]]</small></sup> · <span class="asgreek">ἀσφαλίζω</span><sup><small>[[G0805]]</small></sup> · <span class="asgreek">ἐρείδω</span><sup><small>[[G2043]]</small></sup> · <span class="asgreek">καταρτίζω</span><sup><small>[[G2675]]</small></sup> · <span class="asgreek">στηρίζω</span><sup><small>[[G4741]]</small></sup>
+<small>See Greek: </small>**<big>[[G0482|ἀντιλαμβάνομαι]]</big>** · **<big>[[G0600|ἀποκαθίστημι]]</big>** · **<big>[[G0803|ἀσφάλεια]]</big>** · **<big>[[G0805|ἀσφαλίζω]]</big>** · **<big>[[G2043|ἐρείδω]]</big>** · **<big>[[G2675|καταρτίζω]]</big>** · **<big>[[G4741|στηρίζω]]</big>**

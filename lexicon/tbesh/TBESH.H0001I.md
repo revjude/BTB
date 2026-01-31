@@ -1,6 +1,5 @@
-<span class="ashebrew">‎אָב‎</span> <small>***(av)***</small> ==**father of**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-part of: <small>[[H0022G]]</small> 
+<small>part of:</small> <small>**<big>[[H0022G|אֲבִיאֵל]]</big>**</small> 
 
 - The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Sam.9.1|1Sa.9.1]]
--  son of: Zeror ([[H6872C]]); married to Maacah ([[H4601N]])
--  father of: Kish ([[H7027G]]), Ner ([[H5369G]]), Abdon ([[H5658J]]), Zur ([[H6698I]]), Baal ([[H1168B]]), Nadab ([[H5070J]]), Gedor ([[H1446I]]), Ahio ([[H0283I]]), Zecher ([[H2144]]) and Mikloth ([[H4732G]]); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at [[1Chr.9.35|1Ch.9.35]] Ner at [[1Chr.8.33|1Ch.8.33]] [[1Chr.9.39| 9.39]]
+-  son of: Zeror (**<big>[[H6872C|צְרוֹר]]</big>**); married to Maacah (**<big>[[H4601N|מַעֲכָה]]</big>**)
+-  father of: Kish (**<big>[[H7027G|קִישׁ]]</big>**), Ner (**<big>[[H5369G|נֵר]]</big>**), Abdon (**<big>[[H5658J|עַבְדוֹן]]</big>**), Zur (**<big>[[H6698I|צוּר]]</big>**), Baal (**<big>[[H1168B|בַּעַל]]</big>**), Nadab (**<big>[[H5070J|נָדָב]]</big>**), Gedor (**<big>[[H1446I|גְדֹר]]</big>**), Ahio (**<big>[[H0283I|אַחְיוֹ]]</big>**), Zecher (**<big>[[H2144|זֶכֶר]]</big>**) and Mikloth (**<big>[[H4732G|מִקְלוֹת]]</big>**); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at [[1Chr.9.35|1Ch.9.35]] Ner at [[1Chr.8.33|1Ch.8.33]] [[1Chr.9.39| 9.39]]

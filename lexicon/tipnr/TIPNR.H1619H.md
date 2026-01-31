@@ -1,8 +1,8 @@
 <small>*Gareb • A hill near Jerusalem*</small>
 
 <span class='tipnrhighlight'>Gareb</span>, a hill mentioned in [[Jer.31.39|Jeremiah 31:39]], was located near Jerusalem and was to be included within the city's future boundaries.
-- A location in Jerusalem<[[H3389]]> only mentioned at [[Jer.31.39|Jer.31.39]]; 
-- only referred to as Gareb<[[H1619H]]> \(<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ב</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Jer.31.39|Jer.31.39]]; 
+- only referred to as Gareb **<big>[[H1619|גָּרֵב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Although the hill of Gareb is only mentioned briefly in the Bible, its inclusion
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gareb | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ב</span>](H1619H) <small>*Hebrew*</small> | 1x | [Jer.31.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gareb\*\|reference=Jer.31.39) |
-All Strong's for **Gareb**: \[[[H1619H]]\]
+| Gareb | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ב</span>](H1619H) | 1x | [Jer.31.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gareb\*\|reference=Jer.31.39) |
+All entries for **Gareb**:  **<big>[[H1619|גָּרֵב]]</big>**

@@ -1,4 +1,4 @@
-<small>Also see: [[H7927]]</small>
+<small>Also see: **<big>[[H7927|שְׁכֶם]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎שְׁכֶם‎</span> **noun masculine**<sup>[[Zeph.3.9|Zeph 3:9]]</sup> ==shoulder==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Gen.48.2|Gen 48:2]] +, <span class="bdbLangHebrew">‎שְׁכֶ֑ם‎</span> [[Gen.33.19|Gen 33:19]] +, <span class="bdbLangHebrew">‎שֶׁ֑כֶם‎</span> [[Ps.21.13|Ps 21:13]] (whence original \****šakm*** inferred [[BDB#Ol|Ol]]<sup>§ 147 a near the end</sup> [[BDB#Sta|Sta]]<sup>§ 199 a</sup>; but <span class="bdbLangHebrew">‎ֶ֯‎</span> derived from <span class="bdbLangHebrew">‎ִ֯‎</span> before <span class="bdbLangHebrew">‎כ‎</span>, [[BDB#Ba|Ba]]<sup>NB 104</sup> [[BDB#Kö|Kö]] ii.l.67, 506); construct <span class="bdbLangHebrew">‎שְׁכֶם‎</span> [[Gen.9.23|Gen 9:23]] suffix <span class="bdbLangHebrew">‎שִׁכְמוֺ‎</span> [[Gen.49.15|Gen 49:15]] +, <span class="bdbLangHebrew">‎שִׁכְמָה‎</span> (for <span class="bdbLangHebrew">‎שִׁכְמָהּ‎</span> [[BDB#Ges|Ges]]<sup>«GKC:91e»§ 91e</sup>) [[Job.31.22|Job 31:22]], etc.; — 
 

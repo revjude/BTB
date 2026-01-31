@@ -7,35 +7,35 @@ And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradven
 “Stay here by your burnt offering while I am gone,” Balaam said to Balak. “Perhaps the LORD will meet with me. And whatever He reveals to me, I will tell you.” So Balaam went off to a barren height,<small><sub>**MT:**</sub></small>
 [[Num.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balaam said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Balak, | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| You stand | <big><span class="asgreek">παράστηθι</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| beside | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sacrifice! | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall go | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \[and see\] if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall appear | <big><span class="asgreek">φανείται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συναντήσει</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he shall show to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| I shall announce | <big><span class="asgreek">αναγγελώ</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| straight. | <big><span class="asgreek">ευθείαν</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balaam said | **<big>[[G2036\|είπε]]</big>** **<big>[[G0903\|Βαλαάμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Balak, | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| You stand | **<big>[[G3936\|παράστηθι]]</big>** |
+| beside | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your sacrifice! | **<big>[[G2378\|θυσίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall go | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| \[and see\] if | **<big>[[G1487\|ει]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| shall appear | **<big>[[G5316\|φανείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| meet with | **<big>[[G4877\|συναντήσει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] saying | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| he shall show to me | **<big>[[G1473\|μοι]]</big>** **<big>[[G1166\|δείξει]]</big>** |
+| I shall announce | **<big>[[G0312\|αναγγελώ]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he went | **<big>[[G4198\|επορεύθη]]</big>** |
+| straight. | **<big>[[G2117\|ευθείαν]]</big>** |
 [[Num.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
 
 

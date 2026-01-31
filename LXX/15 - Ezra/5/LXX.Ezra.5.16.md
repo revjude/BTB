@@ -7,31 +7,31 @@ Then came the same Sheshbazzar, [and] laid the foundation of the house of God wh
 So this Sheshbazzar came and laid the foundation of the house of God in Jerusalem, and from that time until now it has been under construction, but it has not yet been completed.”<small><sub>**MT:**</sub></small>
 [[Ezra.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| that Sheshbazzar | <big><span class="asgreek">Σασαβασάρ</span></big> <sup><small><small>[[H8340]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[down\] | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμελίους</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| it is being built, | <big><span class="asgreek">οικοδομείται</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was not finished. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ετελέσθη</span></big> <sup><small><small>[[G5055]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| that Sheshbazzar | **<big>[[H8340\|Σασαβασάρ]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[down\] | **<big>[[G1325\|έδωκε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| foundations | **<big>[[G2310\|θεμελίους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| it is being built, | **<big>[[G3618\|οικοδομείται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was not finished. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5055\|ετελέσθη]]</big>** |
 [[Ezra.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 
 

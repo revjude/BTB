@@ -7,27 +7,27 @@ And their south border was from the shore of the salt sea, from the bay that loo
 Their southern border started at the bay on the southern tip of the Salt Sea,<small><sub>**MT:**</sub></small>
 [[Josh.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.1|<< Joshua 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.3|Joshua 15:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| a part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| salty | <big><span class="asgreek">αλυκής</span></big> <sup><small><small>[[G0252]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ridge | <big><span class="asgreek">λοφίας</span></big> <sup><small><small>[[G8212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing | <big><span class="asgreek">φερούσης</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγενήθη]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] south | **<big>[[G3047\|λιβός]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| a part | **<big>[[G3313\|μέρους]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| salty | **<big>[[G0252\|αλυκής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ridge | **<big>[[G8212\|λοφίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| bearing | **<big>[[G5342\|φερούσης]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| \[the\] south. | **<big>[[G3047\|λίβα]]</big>** |
 [[Josh.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.1|<< Joshua 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.3|Joshua 15:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָצוֹן‎</span></big> **râtsôwn** <small>*(raw-tsone')*</small> ==**acceptance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">רָצֹן</span> **râtsôn** <small>*(raw-tsone')*</small>; from <span class="ashebrew">‎רָצָה‎</span><sup><small>[[H7521]]</small></sup></small>
+**<big><span class="ashebrew">‎רָצוֹן‎</span></big>** **râtsôwn** <small>*(raw-tsone')*</small> ==**acceptance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">רָצֹן</span></big>** **râtsôn** <small>*(raw-tsone')*</small>; from **<big>[[H7521|‎רָצָה‎]]</big>**</small>
 
 $\quad$ (be) acceptable(-ance, -ed), delight, desire, favour, (good) pleasure, (own, self, voluntary) will, as...(what) would.
 - ***delight*** (especially as shown)
@@ -9,4 +9,4 @@ $\quad$ **1a)** goodwill, favour
 $\quad$ **1b)** acceptance
 $\quad$ **1c)** will, desire, pleasure, self-will
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρεστός</span><sup><small>[[G0701]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">δεκτός</span><sup><small>[[G1184]]</small></sup> · <span class="asgreek">ἔλεος</span><sup><small>[[G1656]]</small></sup> · <span class="asgreek">ἐπιθυμία</span><sup><small>[[G1939]]</small></sup> · <span class="asgreek">εὐδοκία</span><sup><small>[[G2107]]</small></sup> · <span class="asgreek">θέλημα</span><sup><small>[[G2307]]</small></sup> · <span class="asgreek">θέλησις</span><sup><small>[[G2308]]</small></sup> · <span class="asgreek">ἱλαρός</span><sup><small>[[G2431]]</small></sup> · <span class="asgreek">ἱλαρότης</span><sup><small>[[G2432]]</small></sup> · <span class="asgreek">χάρις</span><sup><small>[[G5485]]</small></sup>
+<small>See Greek: </small>**<big>[[G0701|ἀρεστός]]</big>** · **<big>[[G1013|βούλημα]]</big>** · **<big>[[G1184|δεκτός]]</big>** · **<big>[[G1656|ἔλεος]]</big>** · **<big>[[G1939|ἐπιθυμία]]</big>** · **<big>[[G2107|εὐδοκία]]</big>** · **<big>[[G2307|θέλημα]]</big>** · **<big>[[G2308|θέλησις]]</big>** · **<big>[[G2431|ἱλαρός]]</big>** · **<big>[[G2432|ἱλαρότης]]</big>** · **<big>[[G5485|χάρις]]</big>**

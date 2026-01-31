@@ -7,17 +7,17 @@ Keep thy heart with all diligence; for out of it [are] the issues of life.
 Guard your heart with all diligence, for from it flow springs of life.<small><sub>**MT:**</sub></small>
 [[Prov.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.22|<< Proverbs 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.24|Proverbs 4:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| guard, | <big><span class="asgreek">φυλακή</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| give heed to | <big><span class="asgreek">τήρει</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| your | <big><span class="asgreek">σην</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| heart! | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| for from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[are the\] issues | <big><span class="asgreek">έξοδοι</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
-| of life. | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| With all | **<big>[[G3956\|πάση]]</big>** |
+| guard, | **<big>[[G5438\|φυλακή]]</big>** |
+| give heed to | **<big>[[G5083\|τήρει]]</big>** |
+| your | **<big>[[G4674\|σην]]</big>** |
+| heart! | **<big>[[G2588\|καρδίαν]]</big>** |
+| for from out of | **<big>[[G1537\|εκ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτων]]</big>** |
+| \[are the\] issues | **<big>[[G1841\|έξοδοι]]</big>** |
+| of life. | **<big>[[G2222\|ζωής]]</big>** |
 [[Prov.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.22|<< Proverbs 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.24|Proverbs 4:24 >>]]</td></tr></table>
 
 

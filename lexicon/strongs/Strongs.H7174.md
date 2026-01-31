@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַרְקֹר‎</span></big> **Qarqôr** <small>*(kar-kore')*</small> ==**Karkor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּר‎</span><sup><small>[[H6979]]</small></sup>; foundation</small>
+**<big><span class="ashebrew">‎קַרְקֹר‎</span></big>** **Qarqôr** <small>*(kar-kore')*</small> ==**Karkor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6979|‎קוּר‎]]</big>**; foundation</small>
 
 $\quad$ Karkor.
 - § Karkor = *"foundation"*

@@ -6,15 +6,15 @@ As I have observed, those who plow iniquity and those who sow trouble reap the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.7|<< Job 4:7]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.9|Job 4:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| just as  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have seen  | <span class="ashebrew"><big>רָ֭אִיתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| Ra.'i.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| plowers of  | <span class="ashebrew"><big>חֹ֣רְשֵׁי </big></span><small><small><sup>[[H2790A]]</sup></small></small> &#8207;| Cho.re.shei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wickedness  | <span class="ashebrew"><big>אָ֑וֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sowers of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זֹרְעֵ֖י </big></span><small><small><sup>[[H2232]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> zo.re.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mischief  | <span class="ashebrew"><big>עָמָ֣ל </big></span><small><small><sup>[[H5999]]</sup></small></small> &#8207;| 'a.Mal <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they harvest it  | <span class="ashebrew"><big>יִקְצְרֻֽ </big></span><small><small><sup>[[H7114B]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yik.tze.Ru. <small><sup>[[HVqi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  |**<big>&#8207;[[H7200G\|רָ֭אִיתִי]]&#8207; </big>**| Ra.'i.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plowers of  |**<big>&#8207;[[H2790A\|חֹ֣רְשֵׁי]]&#8207; </big>**| Cho.re.shei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wickedness  |**<big>&#8207;[[H0205G\|אָ֑וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sowers of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2232\|זֹרְעֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zo.re.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mischief  |**<big>&#8207;[[H5999\|עָמָ֣ל]]&#8207; </big>**| 'a.Mal<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they harvest it  |**<big>&#8207;[[H7114B\|יִקְצְרֻֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yik.tze.Ru.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.7|<< Job 4:7]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.9|Job 4:9 >>]]</td></tr></table>
 
 

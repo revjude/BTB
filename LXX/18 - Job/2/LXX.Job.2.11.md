@@ -10,50 +10,50 @@ Now when Job’s three friends heard of all this evil that was come upon him, th
 Now when Job’s three friends—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite—heard about all this adversity that had come upon him, each of them came from his home, and they met together to go and sympathize with Job and comfort him.<small><sub>**MT:**</sub></small>
 [[Job.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.10|<< Job 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.12|Job 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| hearing | <big><span class="asgreek">ακούσαντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| friends | <big><span class="asgreek">φίλοι</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad \[things\] | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming upon | <big><span class="asgreek">επελθόντα</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| their | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| own | <big><span class="asgreek">ιδίας</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| place | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Eliphaz | <big><span class="asgreek">Ελιφάζ</span></big> <sup><small><small>[[H0464]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Temanite -- | <big><span class="asgreek">Θαιμανών</span></big> <sup><small><small>[[H8489]]</small></small></sup> |
-| a king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Baldad | <big><span class="asgreek">Βαλδάδ</span></big> <sup><small><small>[[H1085]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shuhite -- | <big><span class="asgreek">Σαυχαίων</span></big> <sup><small><small>[[H7747]]</small></small></sup> |
-| a sovereign, | <big><span class="asgreek">τύραννος</span></big> <sup><small><small>[[G5181]]</small></small></sup> |
-| Zophar | <big><span class="asgreek">Σωφάρ</span></big> <sup><small><small>[[H6691]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Minaean -- | <big><span class="asgreek">Μιναίων</span></big> <sup><small><small>[[H5284]]</small></small></sup> |
-| a king. | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with one accord | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to comfort | <big><span class="asgreek">παρακαλέσαι</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| visit | <big><span class="asgreek">επισκέψασθαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| hearing | **<big>[[G0191\|ακούσαντες]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| friends | **<big>[[G5384\|φίλοι]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bad \[things\] | **<big>[[G2556\|κακά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| coming upon | **<big>[[G1904\|επελθόντα]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| their | **<big>[[G3588\|της]]</big>** |
+| own | **<big>[[G2398\|ιδίας]]</big>** |
+| place | **<big>[[G5561\|χώρας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| Eliphaz | **<big>[[H0464\|Ελιφάζ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Temanite -- | **<big>[[H8489\|Θαιμανών]]</big>** |
+| a king, | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Baldad | **<big>[[H1085\|Βαλδάδ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Shuhite -- | **<big>[[H7747\|Σαυχαίων]]</big>** |
+| a sovereign, | **<big>[[G5181\|τύραννος]]</big>** |
+| Zophar | **<big>[[H6691\|Σωφάρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Minaean -- | **<big>[[H5284\|Μιναίων]]</big>** |
+| a king. | **<big>[[G0935\|βασιλεύς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with one accord | **<big>[[G3661\|ομοθυμαδόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to comfort | **<big>[[G3870\|παρακαλέσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| visit | **<big>[[G1980\|επισκέψασθαι]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Job.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.10|<< Job 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.12|Job 2:12 >>]]</td></tr></table>
 
 

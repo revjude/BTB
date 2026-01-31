@@ -1,4 +1,4 @@
-meaning of: <small>[[G2839G]]</small> 
+meaning of: <small>**<big>[[G2839G|κοινός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κοινός==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

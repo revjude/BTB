@@ -7,32 +7,32 @@ Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory [of th
 You have indeed defeated Edom, and your heart has become proud. Glory in that and stay at home. Why should you stir up trouble so that you fall—you and Judah with you?”<small><sub>**MT:**</sub></small>
 [[2Kgs.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.9|<< 2 Kings 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.11|2 Kings 14:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Having beaten | <big><span class="asgreek">τύπτων</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| you struck | <big><span class="asgreek">επάταξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom, | <big><span class="asgreek">Ιδουμαίαν</span></big> <sup><small><small>[[G2401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| encouraged you | <big><span class="asgreek">επήρέ</span></big> <sup><small><small>[[G1869]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Be glorified | <big><span class="asgreek">ενδοξάσθητι</span></big> <sup><small><small>[[G1740]]</small></small></sup> |
-| sitting down | <big><span class="asgreek">καθήμενος</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house. | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| do you contend | <big><span class="asgreek">ερίζεις</span></big> <sup><small><small>[[G2051]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your evil, | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall fall | <big><span class="asgreek">πεσή</span></big> <sup><small><small>[[G4098]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Having beaten | **<big>[[G5180\|τύπτων]]</big>** |
+| you struck | **<big>[[G3960\|επάταξας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Edom, | **<big>[[G2401\|Ιδουμαίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| encouraged you | **<big>[[G1869\|επήρέ]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Be glorified | **<big>[[G1740\|ενδοξάσθητι]]</big>** |
+| sitting down | **<big>[[G2521\|καθήμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your house. | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| do you contend | **<big>[[G2051\|ερίζεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| your evil, | **<big>[[G2549\|κακία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall fall | **<big>[[G4098\|πεσή]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you? | **<big>[[G1473\|σου]]</big>** |
 [[2Kgs.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.9|<< 2 Kings 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.11|2 Kings 14:11 >>]]</td></tr></table>
 
 

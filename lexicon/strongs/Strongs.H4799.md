@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָרַח‎</span></big> **mârach** <small>*(maw-rakh')*</small> ==**to rub**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָרַח‎</span></big>** **mârach** <small>*(maw-rakh')*</small> ==**to rub**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lay for a plaister.

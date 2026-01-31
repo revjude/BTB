@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲטָאָה‎</span></big> **chăṭâʼâh** <small>*(khat-aw-aw')*</small> ==**sin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חֵטְא‎</span><sup><small>[[H2399]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲטָאָה‎</span></big>** **chăṭâʼâh** <small>*(khat-aw-aw')*</small> ==**sin**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2399|‎חֵטְא‎]]</big>**</small>
 
 $\quad$ sin (offering).
 - ***an offence***, or ***a sacrifice for******it***

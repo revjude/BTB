@@ -7,34 +7,34 @@ In the day when the keepers of the house shall tremble, and the strong men shall
 on the day the keepers of the house tremble and the strong men stoop, when those grinding cease because they are few and those watching through windows see dimly,<small><sub>**MT:**</sub></small>
 [[Eccl.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be shaken | <big><span class="asgreek">σαλευθώσι</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| \[the\] keepers | <big><span class="asgreek">φύλακες</span></big> <sup><small><small>[[G5441]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be turned aside | <big><span class="asgreek">διαστραφώσιν</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of power | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[are\] idle | <big><span class="asgreek">ήργησαν</span></big> <sup><small><small>[[G0691]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grinding \[women\] | <big><span class="asgreek">αλήθουσαι</span></big> <sup><small><small>[[G0229]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they are made few, | <big><span class="asgreek">ωλιγώθησαν</span></big> <sup><small><small>[[G8487]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall darken | <big><span class="asgreek">σκοτάσουσιν</span></big> <sup><small><small>[[G9117]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[women\] looking | <big><span class="asgreek">βλέπουσαι</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| out of | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| openings | <big><span class="asgreek">οπαίς</span></big> <sup><small><small>[[G3692]]</small></small></sup> |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should be shaken | **<big>[[G4531\|σαλευθώσι]]</big>** |
+| \[the\] keepers | **<big>[[G5441\|φύλακες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| house | **<big>[[G3614\|οικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be turned aside | **<big>[[G1294\|διαστραφώσιν]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of power | **<big>[[G1411\|δυνάμεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[are\] idle | **<big>[[G0691\|ήργησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| grinding \[women\] | **<big>[[G0229\|αλήθουσαι]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| they are made few, | **<big>[[G8487\|ωλιγώθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall darken | **<big>[[G9117\|σκοτάσουσιν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| \[women\] looking | **<big>[[G0991\|βλέπουσαι]]</big>** |
+| out of | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| openings | **<big>[[G3692\|οπαίς]]</big>** |
 [[Eccl.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
 

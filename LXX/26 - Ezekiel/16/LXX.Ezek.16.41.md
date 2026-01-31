@@ -7,32 +7,32 @@ And they shall burn thine houses with fire, and execute judgments upon thee in t
 Then they will burn down your houses and execute judgment against you in the sight of many women. I will put an end to your prostitution, and you will never again pay your lovers.<small><sub>**MT:**</sub></small>
 [[Ezek.16.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.40|<< Ezekiel 16:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.42|Ezekiel 16:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall burn | <big><span class="asgreek">εμπρήσουσι</span></big> <sup><small><small>[[G1714]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses | <big><span class="asgreek">οίκους σου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall execute | <big><span class="asgreek">ποιήσουσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| acts of vengeance | <big><span class="asgreek">εκδικήσεις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will turn | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| harlotry, | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for wages | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will I give you up | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall burn | **<big>[[G1714\|εμπρήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your houses | **<big>[[G3624\|οίκους σου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire, | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall execute | **<big>[[G4160\|ποιήσουσιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| acts of vengeance | **<big>[[G1557\|εκδικήσεις]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| women | **<big>[[G1135\|γυναικών]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will turn | **<big>[[G0654\|αποστρέψω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| harlotry, | **<big>[[G4202\|πορνείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for wages | **<big>[[G3410\|μισθώματα]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| will I give you up | **<big>[[G1325\|δώσω]]</big>** |
+| any longer. | **<big>[[G3765\|ουκέτι]]</big>** |
 [[Ezek.16.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.40|<< Ezekiel 16:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.42|Ezekiel 16:42 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ He believeth not that he shall return out of darkness, and he is waited for of t
 He despairs of his return from darkness; he is marked for the sword.<small><sub>**MT:**</sub></small>
 [[Job.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.21|<< Job 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.23|Job 15:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let him not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| trust | <big><span class="asgreek">πιστευέτω</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| to return | <big><span class="asgreek">αποστραφήναι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| darkness, | <big><span class="asgreek">σκότους</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| for he has been given charge | <big><span class="asgreek">εντέταλται</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| already | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of iron. | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| Let him not | **<big>[[G3361\|μη]]</big>** |
+| trust | **<big>[[G4100\|πιστευέτω]]</big>** |
+| to return | **<big>[[G0654\|αποστραφήναι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| darkness, | **<big>[[G4655\|σκότους]]</big>** |
+| for he has been given charge | **<big>[[G1781\|εντέταλται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| already | **<big>[[G2235\|ήδη]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of iron. | **<big>[[G4604\|σιδήρου]]</big>** |
 [[Job.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.21|<< Job 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.23|Job 15:23 >>]]</td></tr></table>
 
 

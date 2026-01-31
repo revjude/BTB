@@ -7,28 +7,28 @@ All they that know thee among the people shall be astonished at thee: thou shalt
 All the nations who know you are appalled over you. You have come to a horrible end and will be no more.’”<small><sub>**MT:**</sub></small>
 [[Ezek.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.18|<< Ezekiel 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.20|Ezekiel 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">επιστάμενοί</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| shall be gloomy | <big><span class="asgreek">στυγνάσουσιν</span></big> <sup><small><small>[[G4768]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for destruction | <big><span class="asgreek">απώλεια</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| you became | <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exist | <big><span class="asgreek">υπάρξεις</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| knowing | **<big>[[G1987\|επιστάμενοί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| shall be gloomy | **<big>[[G4768\|στυγνάσουσιν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
+| for destruction | **<big>[[G0684\|απώλεια]]</big>** |
+| you became | **<big>[[G1096\|εγένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουχ]]</big>** |
+| exist | **<big>[[G5225\|υπάρξεις]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
 [[Ezek.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.18|<< Ezekiel 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.20|Ezekiel 28:20 >>]]</td></tr></table>
 
 

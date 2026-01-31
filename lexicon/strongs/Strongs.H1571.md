@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גַּם‎</span></big> **gam** <small>*(gam)*</small> ==**also**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
+**<big><span class="ashebrew">‎גַּם‎</span></big>** **gam** <small>*(gam)*</small> ==**also**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
 <small>by contraction from an unused root meaning to gather</small>
 
 $\quad$ again, alike, also, (so much) as (soon), both (so)...and, but, either...or, even, for all, (in) likewise (manner), moreover, nay...neither, one, then(-refore), though, what, with, yea.
@@ -16,4 +16,4 @@ $\quad$ **1f)** but, yet, though (adversative)
 $\quad$ **1g)** even, yea, yea though (with 'when' in hypothetical case)
 **2)** (TWOT) again, alike
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀληθῶς</span><sup><small>[[G0230]]</small></sup>
+<small>See Greek: </small>**<big>[[G0230|ἀληθῶς]]</big>**

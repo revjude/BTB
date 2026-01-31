@@ -7,41 +7,41 @@ And the children of Israel said, Who [is there] among all the tribes of Israel t
 The Israelites asked, “Who among all the tribes of Israel did not come to the assembly before the LORD?” For they had taken a solemn oath that anyone who failed to come up before the LORD at Mizpah would surely be put to death.<small><sub>**MT:**</sub></small>
 [[Judg.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.4|<< Judges 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.6|Judges 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβάς</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of \[the\] tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oath | <big><span class="asgreek">όρκος</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[concerning\] the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβάντι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mizpeh, | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| To death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| he shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Who \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| ascending | **<big>[[G0305\|αναβάς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| of \[the\] tribes | **<big>[[G5443\|φυλών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| oath | **<big>[[G3727\|όρκος]]</big>** |
+| a great | **<big>[[G3173\|μέγας]]</big>** |
+| there was | **<big>[[G1510\|ην]]</big>** |
+| \[concerning\] the one | **<big>[[G3588\|τω]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| ascending | **<big>[[G0305\|αναβάντι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Mizpeh, | **<big>[[H4709\|Μασσηφά]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| To death | **<big>[[G2288\|θανάτω]]</big>** |
+| he shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[Judg.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.4|<< Judges 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.6|Judges 21:6 >>]]</td></tr></table>
 
 

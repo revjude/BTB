@@ -6,15 +6,15 @@ And the consecrated offerings were six hundred bulls and three thousand sheep.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.32|<< 2 Chronicles 29:32]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.34|2 Chronicles 29:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the holy offerings  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קֳּדָשִׁ֑ים </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> ko.da.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] cattle  | <span class="ashebrew"><big>בָּקָר֙ </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁ֣שׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| shesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֔וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sheep  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צֹ֖אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֥שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Lo.shet <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִֽים </big></span><small><small><sup>[[H0505G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the holy offerings  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6944G\|קֳּדָשִׁ֑ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ko.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] cattle  |**<big>&#8207;[[H1241\|בָּקָר֙]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁ֣שׁ]]&#8207; </big>**| shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֔וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sheep  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6629G\|צֹ֖אן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.32|<< 2 Chronicles 29:32]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.34|2 Chronicles 29:34 >>]]</td></tr></table>
 
 

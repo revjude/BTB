@@ -7,38 +7,38 @@
 As surely as the LORD your God lives, there is no nation or kingdom where my lord has not sent someone to search for you. When they said, ‘He is not here,’ he made that kingdom or nation swear that they had not found you.<small><sub>**MT:**</sub></small>
 [[1Kgs.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.9|<< 1 Kings 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.11|1 Kings 18:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is there | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| send | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to seek | <big><span class="asgreek">ζητείν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| He is not \[here\]; | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he adjured | <big><span class="asgreek">ώρκισεν</span></big> <sup><small><small>[[G3726]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its places, | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρηκέ</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lives | **<big>[[G2198\|ζη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is there | **<big>[[G1487\|ει]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| send | **<big>[[G0649\|απέστειλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to seek | **<big>[[G2212\|ζητείν]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| He is not \[here\]; | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he adjured | **<big>[[G3726\|ώρκισεν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλείαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| its places, | **<big>[[G5561\|χώρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρηκέ]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[1Kgs.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.9|<< 1 Kings 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.11|1 Kings 18:11 >>]]</td></tr></table>
 
 

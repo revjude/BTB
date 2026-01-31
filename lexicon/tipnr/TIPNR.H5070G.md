@@ -4,9 +4,9 @@ Priest living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Nadab</span>, the eldest son of Aaron, was consumed by fire from the Lord for offering unauthorized incense.
 - A priest from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.23|Exo.6.23]]; 
-- only referred to as Nadab<[[H5070G]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Aaron<[[H0175]]> and Elisheba<[[H0472]]>; 
-- a brother of Abihu<[[H0030]]>, Eleazar<[[H0499G]]> and Ithamar<[[H0385]]>.
+- only referred to as Nadab **<big>[[H5070|נָדָב]]</big>**; 
+-  son of Aaron **<big>[[H0175|אַהֲרוֹן]]</big>** and Elisheba **<big>[[H0472|אֱלִישֶׁבַע]]</big>**; 
+- a brother of Abihu **<big>[[H0030|אֲבִיהוּא]]</big>**, Eleazar **<big>[[H0499|אֶלְעָזָר]]</big>** and Ithamar **<big>[[H0385|אִיתָמָר]]</big>**.
 
 Nadab was the eldest son of Aaron, the first High Priest of Israel, and his wife Elisheba \([[Exod.6.23|Exodus 6:23]]\). Along with his brothers Abihu, Eleazar, and Ithamar, Nadab was consecrated as a priest to serve in the Tabernacle \([[Exod.28.1|Exodus 28:1]]\). 
 
@@ -20,8 +20,8 @@ The story of Nadab and Abihu underscores the holiness of God and the seriousness
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nadab | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H5070G) <small>*Hebrew*</small> | 12x | [[Exo.6.23] ... [1Ch.24.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nadab\*\|reference=Exo.6.23;Exo.24.1;Exo.24.9;Exo.28.1;Lev.10.1;Num.3.2;Num.3.4;Num.26.60;Num.26.61;1Ch.6.3;1Ch.24.1;1Ch.24.2) |
-All Strong's for **Nadab**: \[[[H5070G]]\]
+| Nadab | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H5070G) | 12x | [[Exo.6.23] ... [1Ch.24.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nadab\*\|reference=Exo.6.23;Exo.24.1;Exo.24.9;Exo.28.1;Lev.10.1;Num.3.2;Num.3.4;Num.26.60;Num.26.61;1Ch.6.3;1Ch.24.1;1Ch.24.2) |
+All entries for **Nadab**:  **<big>[[H5070|נָדָב]]</big>**
 #### Related Profiles:
 - **[Aaron](H0175)** (father)
 - **[Elisheba](H0472)** (mother)

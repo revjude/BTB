@@ -7,15 +7,15 @@ They are inclosed in their own fat: with their mouth they speak proudly.
 They have closed their callous hearts; their mouths speak with arrogance.<small><sub>**MT:**</sub></small>
 [[Ps.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.9|<< Psalm 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.11|Psalm 17:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in their own fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They are enclosed | <big><span class="asgreek">συνέκλεισαν</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speaks | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| pride. | <big><span class="asgreek">υπερηφανίαν</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in their own fat | **<big>[[G9155\|στέαρ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| They are enclosed | **<big>[[G4788\|συνέκλεισαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| speaks | **<big>[[G2980\|ελάλησεν]]</big>** |
+| pride. | **<big>[[G5243\|υπερηφανίαν]]</big>** |
 [[Ps.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.9|<< Psalm 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.11|Psalm 17:11 >>]]</td></tr></table>
 
 

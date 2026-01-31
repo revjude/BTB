@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָטַר‎</span></big> **qâṭar** <small>*(kaw-tar')*</small> ==**to offer: burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָטַר‎</span></big>** **qâṭar** <small>*(kaw-tar')*</small> ==**to offer: burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root (identical with through the idea of fumigation in a close place and perhaps thus driving out the occupants)</small>
 
 $\quad$ burn (incense, sacrifice) (upon), (altar for) incense, kindle, offer (incense, a sacrifice).
@@ -20,4 +20,4 @@ n m
 n f
 **3)** incense-altar
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναφέρω</span><sup><small>[[G0399]]</small></sup> · <span class="asgreek">ἐπιτελέω</span><sup><small>[[G2005]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">θυμίαμα</span><sup><small>[[G2368]]</small></sup> · <span class="asgreek">θυμιάω</span><sup><small>[[G2370]]</small></sup> · <span class="asgreek">θύω</span><sup><small>[[G2380]]</small></sup> · <span class="asgreek">προσφέρω</span><sup><small>[[G4374]]</small></sup>
+<small>See Greek: </small>**<big>[[G0399|ἀναφέρω]]</big>** · **<big>[[G2005|ἐπιτελέω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2368|θυμίαμα]]</big>** · **<big>[[G2370|θυμιάω]]</big>** · **<big>[[G2380|θύω]]</big>** · **<big>[[G4374|προσφέρω]]</big>**

@@ -6,16 +6,16 @@ A discerning son keeps the law, but a companion of gluttons disgraces his father
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] keeps  | <span class="ashebrew"><big>נוֹצֵ֣ר </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| no.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] law  | <span class="ashebrew"><big>תּ֭וֹרָה </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| To.rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a son  | <span class="ashebrew"><big>בֵּ֣ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>מֵבִ֑ין </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| me.Vin <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] associates with  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹעֶה </big></span><small><small><sup>[[H7462C]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ro.'eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gluttons  | <span class="ashebrew"><big>זֽ֝וֹלְלִ֗ים </big></span><small><small><sup>[[H2151B]]</sup></small></small> &#8207;| zo.Lim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he shames  | <span class="ashebrew"><big>יַכְלִ֥ים </big></span><small><small><sup>[[H3637]]</sup></small></small> &#8207;| yakh.Lim <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  | <span class="ashebrew"><big>אָבִֽי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] keeps  |**<big>&#8207;[[H5341\|נוֹצֵ֣ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] law  |**<big>&#8207;[[H8451\|תּ֭וֹרָה]]&#8207; </big>**| To.rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a son  |**<big>&#8207;[[H1121A\|בֵּ֣ן]]&#8207; </big>**| ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0995\|מֵבִ֑ין]]&#8207; </big>**| me.Vin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] associates with  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7462C\|רֹעֶה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.'eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gluttons  |**<big>&#8207;[[H2151B\|זֽ֝וֹלְלִ֗ים]]&#8207; </big>**| zo.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he shames  |**<big>&#8207;[[H3637\|יַכְלִ֥ים]]&#8207; </big>**| yakh.Lim<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
 

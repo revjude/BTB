@@ -6,17 +6,17 @@ But God will redeem my life from Sheol, for He will surely take me to Himself. S
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.14|<< Psalms 49:14]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.16|Psalms 49:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| surely  | <span class="ashebrew"><big>אַךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'akh- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will redeem  | <span class="ashebrew"><big>יִפְדֶּ֣ה </big></span><small><small><sup>[[H6299]]</sup></small></small> &#8207;| yif.Deh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>נַ֭פְשִׁ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| Naf.sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] hand of  | <span class="ashebrew"><big>מִֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>יַּד </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> yad- <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sheol  | <span class="ashebrew"><big>שְׁא֑וֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| she.'ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֖י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will take me  | <span class="ashebrew"><big>יִקָּחֵ֣ </big></span><small><small><sup>[[H3947H]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| yi.ka.Che. <small><sup>[[HVqi3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will redeem  |**<big>&#8207;[[H6299\|יִפְדֶּ֣ה]]&#8207; </big>**| yif.Deh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H5315G\|נַ֭פְשִׁ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Naf.sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H3027H\|יַּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  |**<big>&#8207;[[H7585\|שְׁא֑וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will take me  |**<big>&#8207;[[H3947H\|יִקָּחֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yi.ka.Che.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.14|<< Psalms 49:14]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.16|Psalms 49:16 >>]]</td></tr></table>
 
 

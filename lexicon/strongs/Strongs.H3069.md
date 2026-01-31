@@ -1,8 +1,8 @@
-<big><span class="ashebrew">‎יְהֹוִה‎</span></big> **Yᵉhôvih** <small>*(yeh-ho-vee')*</small> ==**YHWH/God**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>a variation of <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> (used after <span class="ashebrew">‎אֲדֹנָי‎</span><sup><small>[[H0136]]</small></sup>, and pronounced by Jews as <span class="ashebrew">‎אֱלֹהִים‎</span><sup><small>[[H0430]]</small></sup>, in order to prevent the repetition of the same sound, since they elsewhere pronounce <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> as <span class="ashebrew">‎אֲדֹנָי‎</span><sup><small>[[H0136]]</small></sup>)</small>
+**<big><span class="ashebrew">‎יְהֹוִה‎</span></big>** **Yᵉhôvih** <small>*(yeh-ho-vee')*</small> ==**YHWH/God**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>a variation of **<big>[[H3068|‎יְהֹוָה‎]]</big>** (used after **<big>[[H0136|‎אֲדֹנָי‎]]</big>**, and pronounced by Jews as **<big>[[H0430|‎אֱלֹהִים‎]]</big>**, in order to prevent the repetition of the same sound, since they elsewhere pronounce **<big>[[H3068|‎יְהֹוָה‎]]</big>** as **<big>[[H0136|‎אֲדֹנָי‎]]</big>**)</small>
 
 $\quad$ God.
 - {***YHWH***}
 
 **1)** Jehovah-used primarily in the combination 'Lord Jehovah'
-$\quad$ **1a)** equal to <span class="ashebrew">יְהֹוָה</span><sup><small>[[H3068]]</small></sup> but pointed with the vowels of <span class="ashebrew">אֱלֹהִים</span><sup><small>[[H0430]]</small></sup>
+$\quad$ **1a)** equal to **<big>[[H3068|יְהֹוָה]]</big>** but pointed with the vowels of **<big>[[H0430|אֱלֹהִים]]</big>**

@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎קֹר‎</span></big> **qôr** <small>*(kore)*</small> ==**cold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎קַר‎</span><sup><small>[[H7119]]</small></sup></small>
+**<big><span class="ashebrew">‎קֹר‎</span></big>** **qôr** <small>*(kore)*</small> ==**cold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H7119|‎קַר‎]]</big>**</small>
 
 $\quad$ cold.
 - ***cold***
 
 **1)** cold
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ψύχος</span><sup><small>[[G5592]]</small></sup>
+<small>See Greek: </small>**<big>[[G5592|ψύχος]]</big>**

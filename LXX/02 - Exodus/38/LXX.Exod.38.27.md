@@ -7,37 +7,37 @@ And of the hundred talents of silver were cast the sockets of the sanctuary, and
 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base.<small><sub>**MT:**</sub></small>
 [[Exod.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.26|<< Exodus 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.28|Exodus 38:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molten casting | <big><span class="asgreek">χώνευσιν</span></big> <sup><small><small>[[G9775]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tips | <big><span class="asgreek">κεφαλίδων</span></big> <sup><small><small>[[G2777]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tips | <big><span class="asgreek">κεφαλίδας</span></big> <sup><small><small>[[G2777]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| veil; | <big><span class="asgreek">καταπετάσματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| tips | <big><span class="asgreek">κεφαλίδες</span></big> <sup><small><small>[[G2777]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| talents, | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| a talent | <big><span class="asgreek">τάλαντον</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tip. | <big><span class="asgreek">κεφαλίδι</span></big> <sup><small><small>[[G2777]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγενήθη]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| molten casting | **<big>[[G9775\|χώνευσιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tips | **<big>[[G2777\|κεφαλίδων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent, | **<big>[[G4633\|σκηνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tips | **<big>[[G2777\|κεφαλίδας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| veil; | **<big>[[G2665\|καταπετάσματος]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| tips | **<big>[[G2777\|κεφαλίδες]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| talents, | **<big>[[G5007\|τάλαντα]]</big>** |
+| a talent | **<big>[[G5007\|τάλαντον]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| tip. | **<big>[[G2777\|κεφαλίδι]]</big>** |
 [[Exod.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.26|<< Exodus 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.28|Exodus 38:28 >>]]</td></tr></table>
 
 

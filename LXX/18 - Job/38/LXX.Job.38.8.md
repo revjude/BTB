@@ -7,17 +7,17 @@ Or [who] shut up the sea with doors, when it brake forth, [as if] it had issued 
 Who enclosed the sea behind doors when it burst forth from the womb,<small><sub>**MT:**</sub></small>
 [[Job.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.7|<< Job 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.9|Job 38:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I shut up | <big><span class="asgreek">έφραξα</span></big> <sup><small><small>[[G5420]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| with gates, | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| it was led irresistibly | <big><span class="asgreek">εμαίμασσεν</span></big> <sup><small><small>[[G8229]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| its mother's | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευομένη</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| And I shut up | **<big>[[G5420\|έφραξα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| with gates, | **<big>[[G4439\|πύλαις]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| it was led irresistibly | **<big>[[G8229\|εμαίμασσεν]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| belly | **<big>[[G2836\|κοιλίας]]</big>** |
+| its mother's | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευομένη]]</big>** |
 [[Job.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.7|<< Job 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.9|Job 38:9 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎זְכַרְיָהוּ‎</span> <small>***(ze.khar.yah)***</small> ==**Zechariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.21.2|2Ch.21.2]]
--  son of: Jehoshaphat ([[H3092I]])
--  brother of: Jehoram ([[H3088]]), Azariah ([[H5838Q]]), Jehiel ([[H3171J]]), Azariahu ([[H5838R]]), Michael ([[H4317O]]) and Shephatiah ([[H8203K]])
+-  son of: Jehoshaphat (**<big>[[H3092I|יְהוֹשָׁפָט]]</big>**)
+-  brother of: Jehoram (**<big>[[H3088|יְהוֹרָם]]</big>**), Azariah (**<big>[[H5838Q|עֲזַרְיָה]]</big>**), Jehiel (**<big>[[H3171J|יְחִיאֵל]]</big>**), Azariahu (**<big>[[H5838R|עֲזַרְיָה]]</big>**), Michael (**<big>[[H4317O|מִיכָאֵל]]</big>**) and Shephatiah (**<big>[[H8203K|שְׁפַטְיָה]]</big>**)

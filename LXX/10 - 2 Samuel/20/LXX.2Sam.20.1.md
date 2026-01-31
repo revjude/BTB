@@ -10,44 +10,44 @@ And there happened to be there a man of Belial, whose name [was] Sheba, the son 
 Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”<small><sub>**MT:**</sub></small>
 [[2Sam.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.43|<< 2 Samuel 19:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.2|2 Samuel 20:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| was encountered | <big><span class="asgreek">απήντα</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| a mischievous | <big><span class="asgreek">λοιμός</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was Sheba | <big><span class="asgreek">Σαβεαί</span></big> <sup><small><small>[[H7652a]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Bichri, | <big><span class="asgreek">Βοχορί</span></big> <sup><small><small>[[H1075]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Benjamin. | <big><span class="asgreek">Ιεμινί</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he trumped | <big><span class="asgreek">εσάλπισε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| \[the\] trumpet, | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| There is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| an inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jesse. | <big><span class="asgreek">Ιεσσαί</span></big> <sup><small><small>[[G2421]]</small></small></sup> |
-| Each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tents, | <big><span class="asgreek">σκηνώματά</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| was encountered | **<big>[[G0528\|απήντα]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| a mischievous | **<big>[[G3061\|λοιμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
+| was Sheba | **<big>[[H7652a\|Σαβεαί]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Bichri, | **<big>[[H1075\|Βοχορί]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| of Benjamin. | **<big>[[G0958\|Ιεμινί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he trumped | **<big>[[G4537\|εσάλπισε]]</big>** |
+| \[the\] trumpet, | **<big>[[G4536\|σάλπιγγι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| There is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| a portion | **<big>[[G3310\|μερίς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| an inheritance | **<big>[[G2817\|κληρονομία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Jesse. | **<big>[[G2421\|Ιεσσαί]]</big>** |
+| Each | **<big>[[G1538\|έκαστος]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his tents, | **<big>[[G4638\|σκηνώματά]]</big>** **<big>[[G1473\|αυτου]]</big>** |
+| O Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Sam.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.43|<< 2 Samuel 19:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.2|2 Samuel 20:2 >>]]</td></tr></table>
 
 

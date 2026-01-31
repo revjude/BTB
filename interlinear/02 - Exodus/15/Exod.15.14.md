@@ -6,15 +6,15 @@ The nations will hear and tremble; anguish will grip the dwellers of Philistia.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.13|<< Exodus 15:13]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.15|Exodus 15:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they have heard  | <span class="ashebrew"><big>שָֽׁמְע֥וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sha.me.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֖ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they tremble !  | <span class="ashebrew"><big>יִרְגָּז֑וּ </big></span><small><small><sup>[[H7264]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| yir.ga.Zu <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anguish  | <span class="ashebrew"><big>חִ֣יל </big></span><small><small><sup>[[H2427A]]</sup></small></small> &#8207;| chil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has seized  | <span class="ashebrew"><big>אָחַ֔ז </big></span><small><small><sup>[[H0270]]</sup></small></small> &#8207;| 'a.Chaz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֖י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.she.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Philistia  | <span class="ashebrew"><big>פְּלָֽשֶׁת </big></span><small><small><sup>[[H6429]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pe.La.shet <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have heard  |**<big>&#8207;[[H8085G\|שָֽׁמְע֥וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֖ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they tremble !  |**<big>&#8207;[[H7264\|יִרְגָּז֑וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| yir.ga.Zu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anguish  |**<big>&#8207;[[H2427A\|חִ֣יל]]&#8207; </big>**| chil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has seized  |**<big>&#8207;[[H0270\|אָחַ֔ז]]&#8207; </big>**| 'a.Chaz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֖י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Philistia  |**<big>&#8207;[[H6429\|פְּלָֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pe.La.shet<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.13|<< Exodus 15:13]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.15|Exodus 15:15 >>]]</td></tr></table>
 
 

@@ -11,34 +11,34 @@ With a strong hand, an outstretched arm, and outpoured wrath I will bring you ou
 > $\quad$ referenced by: [[2Cor.6.17|2Cor 6:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead you | <big><span class="asgreek">εξάξω</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will take | <big><span class="asgreek">εισδέξομαι</span></big> <sup><small><small>[[G1523]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you were dispersed | <big><span class="asgreek">διεσκορπίσθητε</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| a fortified | <big><span class="asgreek">κραταιά</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| arm | <big><span class="asgreek">βραχίονι</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| a high | <big><span class="asgreek">υψηλώ</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| being poured forth. | <big><span class="asgreek">κεχυμένω</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will lead you | **<big>[[G1806\|εξάξω]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| peoples, | **<big>[[G2992\|λαών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will take | **<big>[[G1523\|εισδέξομαι]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| places | **<big>[[G5561\|χωρών]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| you were dispersed | **<big>[[G1287\|διεσκορπίσθητε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυταίς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| a fortified | **<big>[[G2900\|κραταιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| arm | **<big>[[G1023\|βραχίονι]]</big>** |
+| a high | **<big>[[G5308\|υψηλώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| rage | **<big>[[G2372\|θυμώ]]</big>** |
+| being poured forth. | **<big>[[G9721\|κεχυμένω]]</big>** |
 [[Ezek.20.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.33|<< Ezekiel 20:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.35|Ezekiel 20:35 >>]]</td></tr></table>
 
 

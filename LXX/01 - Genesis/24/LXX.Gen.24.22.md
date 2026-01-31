@@ -7,33 +7,33 @@ And it came to pass, as the camels had done drinking, that the man took a golden
 And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels.<small><sub>**MT:**</sub></small>
 [[Gen.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.21|<< Genesis 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.23|Genesis 24:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| ceased | <big><span class="asgreek">επαύσαντο</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camels | <big><span class="asgreek">κάμηλοι</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| drinking, | <big><span class="asgreek">πίνουσαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| ear-rings | <big><span class="asgreek">ενώτια</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| \[worth\] up to | <big><span class="asgreek">ανά</span></big> <sup><small><small>[[G0303]]</small></small></sup> |
-| a drachma | <big><span class="asgreek">δραχμήν</span></big> <sup><small><small>[[G1406]]</small></small></sup> |
-| scale-weight, | <big><span class="asgreek">ολκής</span></big> <sup><small><small>[[G8490]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| bracelets, | <big><span class="asgreek">ψελλία</span></big> <sup><small><small>[[G9790]]</small></small></sup> |
-| \[and put them\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands -- | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| pieces of gold | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| scale-weight | <big><span class="asgreek">ολκή</span></big> <sup><small><small>[[G8490]]</small></small></sup> |
-| \[was\] their \[weight\]. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| ceased | **<big>[[G3973\|επαύσαντο]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| camels | **<big>[[G2574\|κάμηλοι]]</big>** |
+| drinking, | **<big>[[G4095\|πίνουσαι]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| ear-rings | **<big>[[G7278\|ενώτια]]</big>** |
+| of gold | **<big>[[G5552\|χρυσά]]</big>** |
+| \[worth\] up to | **<big>[[G0303\|ανά]]</big>** |
+| a drachma | **<big>[[G1406\|δραχμήν]]</big>** |
+| scale-weight, | **<big>[[G8490\|ολκής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| bracelets, | **<big>[[G9790\|ψελλία]]</big>** |
+| \[and put them\] upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her hands -- | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| pieces of gold | **<big>[[G5552\|χρυσών]]</big>** |
+| scale-weight | **<big>[[G8490\|ολκή]]</big>** |
+| \[was\] their \[weight\]. | **<big>[[G1473\|αυτών]]</big>** |
 [[Gen.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.21|<< Genesis 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.23|Genesis 24:23 >>]]</td></tr></table>
 
 

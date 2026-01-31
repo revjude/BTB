@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָפֵל‎</span></big> **ʼâphêl** <small>*(aw-fale')*</small> ==**gloom**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+**<big><span class="ashebrew">‎אָפֵל‎</span></big>** **ʼâphêl** <small>*(aw-fale')*</small> ==**gloom**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
 <small>from an unused root meaning to set as the sun</small>
 
 $\quad$ very dark.
@@ -6,4 +6,4 @@ $\quad$ very dark.
 
 **1)** gloomy, dark
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γνόφος</span><sup><small>[[G1105]]</small></sup>
+<small>See Greek: </small>**<big>[[G1105|γνόφος]]</big>**

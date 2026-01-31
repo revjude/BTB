@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Aiah</span> was the father of Rizpah, who was a concubine of King Saul. \([[2Sam.3.7|2Sa.3.7]]; 21.8\)
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.3.7|2Sa.3.7]]; 
-- only referred to as Aiah<[[H0345H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Rizpah<[[H7532]]>.
+- only referred to as Aiah **<big>[[H0345|אַיָּה]]</big>**; 
+-  father of Rizpah **<big>[[H7532|רִצְפָּה]]</big>**.
 
 Aiah is mentioned in the Bible as the father of Rizpah, a concubine of King Saul. Rizpah had two sons with Saul, named Armoni and Mephibosheth. \([[2Sam.21.8|2Sa.21.8]]\) 
 
@@ -21,7 +21,7 @@ Aiah's daughter, Rizpah, demonstrated remarkable courage, loyalty, and maternal 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aiah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0345H) <small>*Hebrew*</small> | 4x | [[2Sa.3.7] ... [2Sa.21.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiah\*\|reference=2Sa.3.7;2Sa.21.8;2Sa.21.10;2Sa.21.11) |
-All Strong's for **Aiah**: \[[[H0345H]]\]
+| Aiah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0345H) | 4x | [[2Sa.3.7] ... [2Sa.21.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiah\*\|reference=2Sa.3.7;2Sa.21.8;2Sa.21.10;2Sa.21.11) |
+All entries for **Aiah**:  **<big>[[H0345|אַיָּה]]</big>**
 #### Related Profiles:
 - **[Rizpah](H7532)** (child)

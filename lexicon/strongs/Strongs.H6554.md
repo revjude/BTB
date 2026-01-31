@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּרְפַּר‎</span></big> **Parpar** <small>*(par-par')*</small> ==**Pharpar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎פָּרַר‎</span><sup><small>[[H6565]]</small></sup> in the sense of rushing; rapid</small>
+**<big><span class="ashebrew">‎פַּרְפַּר‎</span></big>** **Parpar** <small>*(par-par')*</small> ==**Pharpar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H6565|‎פָּרַר‎]]</big>** in the sense of rushing; rapid</small>
 
 $\quad$ Pharpar.
 - § Pharpar = *"swift"*

@@ -1,8 +1,8 @@
 <small>*Beth-eden • Place associated with the rulers of Aram \(Syria\).*</small>
 
 <span class='tipnrhighlight'>Beth-eden</span> was a place associated with the rulers of Aram \(Syria\), mentioned in Amos's prophecy against Damascus. \(Amos 1:5\)
-- A location near Damascus<[[H1834]]> only mentioned at [[Josh.19.27|Amo.1.5]]; 
-- only referred to as Beth-eden<[[H1040]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ֶ֑<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Damascus **<big>[[H1834|דַּמֶּשֶׂק]]</big>** only mentioned at [[Josh.19.27|Amo.1.5]]; 
+- only referred to as Beth-eden **<big>[[H1040|בֵּית עֵדֶן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.519299,36.31344999999999&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Amos's prophecy against Aram was delivered during a time when the Arameans were 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-eden (KJV= house of Eden; NIV= Beth Eden) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ֶ֑<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H1040) <small>*Hebrew*</small> | 1x | [Amo.1.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Amo.1.5) |
-All Strong's for **Beth-eden**: \[[[H1040]]\]
+| Beth-eden (KJV= house of Eden; NIV= Beth Eden) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ע</span>ֶ֑<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H1040) | 1x | [Amo.1.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Amo.1.5) |
+All entries for **Beth-eden**:  **<big>[[H1040|בֵּית עֵדֶן]]</big>**

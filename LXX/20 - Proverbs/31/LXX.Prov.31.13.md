@@ -7,16 +7,16 @@ She seeketh wool, and flax, and worketh willingly with her hands.
 She selects wool and flax and works with eager hands.<small><sub>**MT:**</sub></small>
 [[Prov.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.12|<< Proverbs 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.14|Proverbs 31:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| furling | <big><span class="asgreek">μηρυομένη</span></big> <sup><small><small>[[G8324]]</small></small></sup> |
-| wool | <big><span class="asgreek">έρια</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| flax | <big><span class="asgreek">λίνον</span></big> <sup><small><small>[[G3043]]</small></small></sup> |
-| She makes | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| useful | <big><span class="asgreek">εύχρηστα</span></big> <sup><small><small>[[G2173]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| furling | **<big>[[G8324\|μηρυομένη]]</big>** |
+| wool | **<big>[[G2053\|έρια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| flax | **<big>[[G3043\|λίνον]]</big>** |
+| She makes | **<big>[[G4160\|εποίησεν]]</big>** |
+| useful | **<big>[[G2173\|εύχρηστα]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| her hands | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Prov.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.12|<< Proverbs 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.14|Proverbs 31:14 >>]]</td></tr></table>
 
 

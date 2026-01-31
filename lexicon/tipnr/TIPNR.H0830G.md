@@ -1,8 +1,8 @@
 <small>*Dung Gate • A gate in Jerusalem's wall, possibly used for waste removal.*</small>
 
 The <span class='tipnrhighlight'>Dung Gate</span> was one of the gates in Jerusalem's wall, possibly used for removing waste from the city \([[Neh.2.13|Nehemiah 2:13]]; 3:13-14; 12:31\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.2.13|Neh.2.13]]; 
-- only referred to as Dung\_Gate<[[H0830G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ֹּ<span class='tipnrLangHebrew'>ת</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.2.13|Neh.2.13]]; 
+- only referred to as Dung\_Gate **<big>[[H0830|אַשְׁפֹּת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Dung Gate was one of the gates in the wall of Jerusalem, mentioned in the bo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dung (Gate) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ֹּ<span class='tipnrLangHebrew'>ת</span>](H0830G) <small>*Hebrew*</small> | 4x | [[Neh.2.13] ... [Neh.12.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dung\*\|reference=Neh.2.13;Neh.3.13;Neh.3.14;Neh.12.31) |
-All Strong's for **Dung_Gate**: \[[[H0830G]]\]
+| Dung (Gate) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ֹּ<span class='tipnrLangHebrew'>ת</span>](H0830G) | 4x | [[Neh.2.13] ... [Neh.12.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dung\*\|reference=Neh.2.13;Neh.3.13;Neh.3.14;Neh.12.31) |
+All entries for **Dung Gate**:  **<big>[[H0830|אַשְׁפֹּת]]</big>**

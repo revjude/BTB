@@ -7,33 +7,33 @@ And it shall be, [that] the city [which is] next unto the slain man, even the el
 Then the elders of the city nearest the victim shall take a heifer that has never been yoked or used for work,<small><sub>**MT:**</sub></small>
 [[Deut.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.2|<< Deuteronomy 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.4|Deuteronomy 21:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγίζουσα</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slain \[person\], | <big><span class="asgreek">τραυματία</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| council of elders | <big><span class="asgreek">γερουσία</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| a heifer | <big><span class="asgreek">δάμαλιν</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] oxen, | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| worked, | <big><span class="asgreek">είργασται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| draw | <big><span class="asgreek">είλκυσε</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
-| a yoke; | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| near | **<big>[[G1448\|εγγίζουσα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| slain \[person\], | **<big>[[G9470\|τραυματία]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| council of elders | **<big>[[G1087\|γερουσία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of that city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| a heifer | **<big>[[G1151\|δάμαλιν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] oxen, | **<big>[[G1016\|βοών]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| has not | **<big>[[G3756\|ουκ]]</big>** |
+| worked, | **<big>[[G2038\|είργασται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| did not | **<big>[[G3756\|ουχ]]</big>** |
+| draw | **<big>[[G1670\|είλκυσε]]</big>** |
+| a yoke; | **<big>[[G2218\|ζυγόν]]</big>** |
 [[Deut.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.2|<< Deuteronomy 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.4|Deuteronomy 21:4 >>]]</td></tr></table>
 
 

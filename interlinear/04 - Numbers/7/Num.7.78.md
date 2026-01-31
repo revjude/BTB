@@ -6,18 +6,18 @@ On the twelfth day Ahira son of Enan, the leader of the Naphtalites, drew near.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.77|<< Numbers 7:77]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.79|Numbers 7:79 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on [the] day  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> yOm <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] two [plus]  | <span class="ashebrew"><big>שְׁנֵ֣ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Neim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עָשָׂ֣ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֔וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] leader  | <span class="ashebrew"><big>נָשִׂ֖יא </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| na.Si' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] descendants of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Naphtali  | <span class="ashebrew"><big>נַפְתָּלִ֑י </big></span><small><small><sup>[[H5321G]]</sup></small></small> &#8207;| naf.ta.Li <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahira  | <span class="ashebrew"><big>אֲחִירַ֖ע </big></span><small><small><sup>[[H0299]]</sup></small></small> &#8207;| 'a.chi.Ra' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Enan  | <span class="ashebrew"><big>עֵינָֽן </big></span><small><small><sup>[[H5881]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ei.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two [plus]  |**<big>&#8207;[[H8147\|שְׁנֵ֣ים]]&#8207; </big>**| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עָשָׂ֣ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117G\|י֔וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leader  |**<big>&#8207;[[H5387A\|נָשִׂ֖יא]]&#8207; </big>**| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֑י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahira  |**<big>&#8207;[[H0299\|אֲחִירַ֖ע]]&#8207; </big>**| 'a.chi.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121G\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Enan  |**<big>&#8207;[[H5881\|עֵינָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.77|<< Numbers 7:77]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.79|Numbers 7:79 >>]]</td></tr></table>
 
 

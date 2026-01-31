@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָמוּלִי‎</span></big> **Châmûwlîy** <small>*(khaw-moo-lee')*</small> ==**Hamulite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎חָמוּל‎</span><sup><small>[[H2538]]</small></sup></small>
+**<big><span class="ashebrew">‎חָמוּלִי‎</span></big>** **Châmûwlîy** <small>*(khaw-moo-lee')*</small> ==**Hamulite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H2538|‎חָמוּל‎]]</big>**</small>
 
 $\quad$ Hamulites.
 - § Hamulites = *"spared"*

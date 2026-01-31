@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H3289]]</small>
+<small>Hebrew form: **<big>[[H3289|יָעַץ]]</big>**</small>
  [<span class="bdbLangAramaic">‎יְעַט‎</span>] **verb** ==advise== (so Jewish-Aramaic; Biblical Hebrew <span class="bdbLangAramaic">‎יעץ‎</span>); — 
 
 **Ithpa\`al** ***Perfect*** 3 masculine plural <span class="bdbLangAramaic">‎אִתְיָעַ֫טוּ‎</span> ([[BDB#Kau|K]]<sup>§§ 23, 1. Anm</sup>.; 39, 5) [[Dan.6.8|Dan 6:8]] reciprocal ***took counsel with each other***, followed by infinitive 

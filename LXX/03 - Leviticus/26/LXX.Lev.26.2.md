@@ -7,18 +7,18 @@ Ye shall keep my sabbaths, and reverence my sanctuary: I [am] the LORD.
 You must keep My Sabbaths and have reverence for My sanctuary. I am the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My Sabbaths | <big><span class="asgreek">σάββατά</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall keep, | <big><span class="asgreek">φυλάξεσθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy \[things\] | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall fear. | <big><span class="asgreek">φοβηθήσεσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| My Sabbaths | **<big>[[G4521\|σάββατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you shall keep, | **<big>[[G5442\|φυλάξεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my holy \[things\] | **<big>[[G0039\|αγίων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you shall fear. | **<big>[[G5399\|φοβηθήσεσθε]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Lev.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
 
 

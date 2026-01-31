@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲשַׁח‎</span></big> **chăshach** <small>*(khash-akh')*</small> ==**to need**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) a collateral root to one corresponding to <span class="ashebrew">‎חוּשׁ‎</span><sup><small>[[H2363]]</small></sup> in the sense of readiness</small>
+**<big><span class="asaramaic">‎חֲשַׁח‎</span></big>** **chăshach** <small>*(khash-akh')*</small> ==**to need**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) a collateral root to one corresponding to **<big>[[H2363|‎חוּשׁ‎]]</big>** in the sense of readiness</small>
 
 $\quad$ careful, have need of.
 - ***to be necessary*** (from the idea of convenience) or (transitively) ***to need***
@@ -9,4 +9,4 @@ v
 n
 **2)** (P'al) the thing needed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὑστέρημα</span><sup><small>[[G5303]]</small></sup> · <span class="asgreek">χρεία</span><sup><small>[[G5532]]</small></sup>
+<small>See Greek: </small>**<big>[[G5303|ὑστέρημα]]</big>** · **<big>[[G5532|χρεία]]</big>**

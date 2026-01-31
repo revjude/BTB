@@ -7,31 +7,31 @@ For as the earth bringeth forth her bud, and as the garden causeth the things th
 For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations.<small><sub>**MT:**</sub></small>
 [[Isa.61.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| growing | <big><span class="asgreek">αύξουσαν</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its flower, | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a garden | <big><span class="asgreek">κήπος</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its seeds | <big><span class="asgreek">σπέρματα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sprouts forth | <big><span class="asgreek">εκβλαστάνει</span></big> <sup><small><small>[[G7079]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| will raise up | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a leap for joy | <big><span class="asgreek">αγαλλίαμα</span></big> <sup><small><small>[[G6110]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γην]]</big>** |
+| growing | **<big>[[G0837\|αύξουσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its flower, | **<big>[[G0438\|άνθος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a garden | **<big>[[G2779\|κήπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its seeds | **<big>[[G4690\|σπέρματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| sprouts forth | **<big>[[G7079\|εκβλαστάνει]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| will raise up | **<big>[[G0393\|ανατελεί]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a leap for joy | **<big>[[G6110\|αγαλλίαμα]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations. | **<big>[[G1484\|εθνών]]</big>** |
 [[Isa.61.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
 
 

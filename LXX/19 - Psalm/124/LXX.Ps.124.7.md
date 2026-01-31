@@ -7,24 +7,24 @@ Our soul is escaped as a bird out of the snare of the fowlers: the snare is brok
 We have escaped like a bird from the snare of the fowler; the net is torn, and we have slipped away.<small><sub>**MT:**</sub></small>
 [[Ps.124.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.6|<< Psalm 124:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.8|Psalm 124:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Our soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a sparrow | <big><span class="asgreek">στρουθίον</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
-| was rescued | <big><span class="asgreek">ερρύσθη</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| snare | <big><span class="asgreek">παγίδος</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hunting. | <big><span class="asgreek">θηρευόντων</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| was broken, | <big><span class="asgreek">συνετρίβη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were rescued. | <big><span class="asgreek">ερρύσθημεν</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Our soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a sparrow | **<big>[[G4765\|στρουθίον]]</big>** |
+| was rescued | **<big>[[G4506\|ερρύσθη]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| snare | **<big>[[G3803\|παγίδος]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| hunting. | **<big>[[G2340\|θηρευόντων]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| snare | **<big>[[G3803\|παγίς]]</big>** |
+| was broken, | **<big>[[G4937\|συνετρίβη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| were rescued. | **<big>[[G4506\|ερρύσθημεν]]</big>** |
 [[Ps.124.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.6|<< Psalm 124:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.8|Psalm 124:8 >>]]</td></tr></table>
 
 

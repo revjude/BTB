@@ -7,27 +7,27 @@ For death is come up into our windows, [and] is entered into our palaces, to cut
 For death has climbed in through our windows; it has entered our fortresses to cut off the children from the streets, the young men from the town squares.<small><sub>**MT:**</sub></small>
 [[Jer.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.20|<< Jeremiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.22|Jeremiah 9:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your windows; | <big><span class="asgreek">θυρίδων</span></big> <sup><small><small>[[G2376]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to obliterate | <big><span class="asgreek">εκτρίψαι</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| infants | <big><span class="asgreek">νήπια</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| young men | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| squares. | <big><span class="asgreek">πλατειών</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| death | **<big>[[G2288\|θάνατος]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your windows; | **<big>[[G2376\|θυρίδων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| it entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to obliterate | **<big>[[G7160\|εκτρίψαι]]</big>** |
+| infants | **<big>[[G3516\|νήπια]]</big>** |
+| outside, | **<big>[[G1855\|έξωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| young men | **<big>[[G3495\|νεανίσκους]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| squares. | **<big>[[G4113\|πλατειών]]</big>** |
 [[Jer.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.20|<< Jeremiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.22|Jeremiah 9:22 >>]]</td></tr></table>
 
 

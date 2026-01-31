@@ -7,38 +7,38 @@ When I was gone up into the mount to receive the tables of stone, [even] the tab
 When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the LORD made with you, I stayed on the mountain forty days and forty nights. I ate no bread and drank no water.<small><sub>**MT:**</sub></small>
 [[Deut.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.8|<< Deuteronomy 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.10|Deuteronomy 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of my ascending | <big><span class="asgreek">αναβαίνοντός</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκας</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of stone, | <big><span class="asgreek">λιθίνας</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκας</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| of covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was occupied | <big><span class="asgreek">κατεγενόμην</span></big> <sup><small><small>[[G7831]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| nights. | <big><span class="asgreek">νύκτας</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| I did not eat | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| I did not drink. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| Of my ascending | **<big>[[G0305\|αναβαίνοντός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tablets | **<big>[[G4109\|πλάκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of stone, | **<big>[[G3035\|λιθίνας]]</big>** |
+| tablets | **<big>[[G4109\|πλάκας]]</big>** |
+| of covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordained | **<big>[[G1303\|διέθετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I was occupied | **<big>[[G7831\|κατεγενόμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain | **<big>[[G3735\|όρει]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| nights. | **<big>[[G3571\|νύκτας]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| I did not eat | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| I did not drink. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4095\|έπιον]]</big>** |
 [[Deut.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.8|<< Deuteronomy 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.10|Deuteronomy 9:10 >>]]</td></tr></table>
 
 

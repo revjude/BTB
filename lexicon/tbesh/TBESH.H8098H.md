@@ -1,3 +1,2 @@
-<span class="ashebrew">‎שְׁמַעְיָ֫הוּ‎</span> <small>***(she.ma.yah)***</small> ==**Shemaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.24.6|1Ch.24.6]]
--  son of: Nethanel ([[H5417J]])
+-  son of: Nethanel (**<big>[[H5417J|נְתַנְאֵל]]</big>**)

@@ -7,18 +7,18 @@ Who [is] this [that] cometh up as a flood, whose waters are moved as the rivers?
 Who is this, rising like the Nile, like rivers whose waters churn?<small><sub>**MT:**</sub></small>
 [[Jer.46.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.6|<< Jeremiah 46:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.8|Jeremiah 46:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What \[is\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| \[that\] shall ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| swell up | <big><span class="asgreek">κυμαίνουσιν</span></big> <sup><small><small>[[G8121]]</small></small></sup> |
-| by water? | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| What \[is\] | **<big>[[G5100\|τι]]</big>** |
+| this | **<big>[[G3778\|ούτος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a river | **<big>[[G4215\|ποταμός]]</big>** |
+| \[that\] shall ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| rivers | **<big>[[G4215\|ποταμοί]]</big>** |
+| swell up | **<big>[[G8121\|κυμαίνουσιν]]</big>** |
+| by water? | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Jer.46.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.6|<< Jeremiah 46:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.8|Jeremiah 46:8 >>]]</td></tr></table>
 
 

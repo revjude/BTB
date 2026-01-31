@@ -7,31 +7,31 @@ Or [if] I send a pestilence into that land, and pour out my fury upon it in bloo
 Or if I send a plague into that land and pour out My wrath upon it through bloodshed, cutting off from it both man and beast,<small><sub>**MT:**</sub></small>
 [[Ezek.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.18|<< Ezekiel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.20|Ezekiel 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a plague | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I should send | <big><span class="asgreek">επαποστέλλω</span></big> <sup><small><small>[[G7369]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall pour out | <big><span class="asgreek">εκχεώ</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| blood, | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast, | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| a plague | **<big>[[G2288\|θάνατον]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| I should send | **<big>[[G7369\|επαποστέλλω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that land, | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|εκείνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall pour out | **<big>[[G1632\|εκχεώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| blood, | **<big>[[G0129\|αίματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast, | **<big>[[G2934\|κτήνος]]</big>** |
 [[Ezek.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.18|<< Ezekiel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.20|Ezekiel 14:20 >>]]</td></tr></table>
 
 

@@ -1,7 +1,5 @@
-<span class="ashebrew">‎שֵׁם‎</span> <small>***(shem)***</small> ==**Shem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.5.32|Gen.5.32]]
--  son of: Noah ([[H5146]])
--  brother of: Ham ([[H2526]]) and Japheth ([[H3315]])
--  father of: Asshur ([[H0804H]]), Elam ([[H5867C]]), Arpachshad ([[H0775]]), Lud ([[H3865]]) and Aram ([[H0758]])
-- Also named: <i>Sēm</i> (<span class='asgreek'>Σήμ</span> "Shem" [[G4590]])
-
+-  son of: Noah (**<big>[[H5146|נֹחַ]]</big>**)
+-  brother of: Ham (**<big>[[H2526|חָם]]</big>**) and Japheth (**<big>[[H3315|יֶפֶת]]</big>**)
+-  father of: Asshur (**<big>[[H0804H|אַשּׁוּר]]</big>**), Elam (**<big>[[H5867C|עֵילָם]]</big>**), Arpachshad (**<big>[[H0775|אַרְפַּכְשַׁד]]</big>**), Lud (**<big>[[H3865|לוּד]]</big>**) and Aram (**<big>[[H0758|אֲרָם]]</big>**)
+- Also named: <i>Sēm</i> (<span class='asgreek'>Σήμ</span> "Shem" **<big>[[G4590|Σήμ]]</big>**)

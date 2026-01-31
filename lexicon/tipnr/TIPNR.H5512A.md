@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pelusium</span>, also known as Sin, was an important Egyptian city mentioned in Ezekiel's prophecy against Egypt.
 - A location first mentioned at [[Ezek.30.15|Ezk.30.15]]; 
-- only referred to as Pelusium<[[H5512A]]> \(<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Pelusium **<big>[[H5512|סִין]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.838778,33.420573&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Pelusium, referred to as Sin in the Hebrew Bible, was an ancient Egyptian city l
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pelusium (KJV= Sin) | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5512A) <small>*Hebrew*</small> | 2x | [[Ezk.30.15] & [Ezk.30.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pelusium\*\|reference=Ezk.30.15;Ezk.30.16) |
-All Strong's for **Pelusium**: \[[[H5512A]]\]
+| Pelusium (KJV= Sin) | [<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ין</span>](H5512A) | 2x | [[Ezk.30.15] & [Ezk.30.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pelusium\*\|reference=Ezk.30.15;Ezk.30.16) |
+All entries for **Pelusium**:  **<big>[[H5512|סִין]]</big>**

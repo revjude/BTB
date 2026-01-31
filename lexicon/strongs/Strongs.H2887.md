@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טֵבֶת‎</span></big> **Ṭêbeth** <small>*(tay'-beth)*</small> ==**Tebeth**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
+**<big><span class="ashebrew">‎טֵבֶת‎</span></big>** **Ṭêbeth** <small>*(tay'-beth)*</small> ==**Tebeth**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Tebeth.

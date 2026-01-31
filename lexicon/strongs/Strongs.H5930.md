@@ -1,11 +1,11 @@
-<big><span class="ashebrew">‎עֹלָה‎</span></big> **ʻôlâh** <small>*(o-law')*</small> ==**burnt offering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">עוֹלָה</span> **ʻôwlâh** <small>*(o-law')*</small>; feminine active participle of <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹלָה‎</span></big>** **ʻôlâh** <small>*(o-law')*</small> ==**burnt offering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">עוֹלָה</span></big>** **ʻôwlâh** <small>*(o-law')*</small>; feminine active participle of **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
-$\quad$ ascent, burnt offering (sacrifice), go up to. See also <span class="ashebrew">‎עֶוֶל‎</span><sup><small>[[H5766]]</small></sup>.
+$\quad$ ascent, burnt offering (sacrifice), go up to. See also **<big>[[H5766|‎עֶוֶל‎]]</big>**.
 - ***a step*** or (collectively, stairs, as ascending)
 -  usually ***a holocaust*** (as going up in smoke)
 
 **1)** whole burnt offering
 **2)** ascent, stairway, steps
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">θυσία</span><sup><small>[[G2378]]</small></sup> · <span class="asgreek">ὁλοκαύτωμα</span><sup><small>[[G3646]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G2378|θυσία]]</big>** · **<big>[[G3646|ὁλοκαύτωμα]]</big>**

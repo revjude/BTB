@@ -7,32 +7,32 @@ But hast done evil above all that were before thee: for thou hast gone and made 
 You have done more evil than all who came before you. You have proceeded to make for yourself other gods and molten images to provoke Me, and you have flung Me behind your back.<small><sub>**MT:**</sub></small>
 [[1Kgs.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.8|<< 1 Kings 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.10|1 Kings 14:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did wickedly | <big><span class="asgreek">επονηρεύσω</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| more than | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in front | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you went | <big><span class="asgreek">επορεύθης</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| other gods, | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| molten \[images\], | <big><span class="asgreek">χωνευτά</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to provoke me to anger, | <big><span class="asgreek">παροργίσαι</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed me | <big><span class="asgreek">εμε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έρριψας</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| you did wickedly | **<big>[[G8863\|επονηρεύσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| doing | **<big>[[G4160\|ποιήσαι]]</big>** |
+| more than | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| as many as | **<big>[[G3745\|όσοι]]</big>** |
+| were | **<big>[[G1096\|εγένοντο]]</big>** |
+| in front | **<big>[[G1519\|εις]]</big>** **<big>[[G4383\|πρόσωπόν]]</big>** |
+| of you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you went | **<big>[[G4198\|επορεύθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησας]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| other gods, | **<big>[[G2316\|θεούς]]</big>** **<big>[[G2087\|ετέρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| molten \[images\], | **<big>[[G9778\|χωνευτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to provoke me to anger, | **<big>[[G3949\|παροργίσαι]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed me | **<big>[[G1473\|εμε]]</big>** **<big>[[G4496\|έρριψας]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[1Kgs.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.8|<< 1 Kings 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.10|1 Kings 14:10 >>]]</td></tr></table>
 
 

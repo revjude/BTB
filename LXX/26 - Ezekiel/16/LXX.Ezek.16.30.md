@@ -7,29 +7,29 @@ How weak is thine heart, saith the Lord GOD, seeing thou doest all these [things
 How weak-willed is your heart, declares the Lord GOD, while you do all these things, the acts of a shameless prostitute!<small><sub>**MT:**</sub></small>
 [[Ezek.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.29|<< Ezekiel 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.31|Ezekiel 16:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[while\]\<the> | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| you do | <big><span class="asgreek">ποιήσαί</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| harlot | <big><span class="asgreek">πόρνης</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| speaking openly. | <big><span class="asgreek">παρρησιαζομένης</span></big> <sup><small><small>[[G3955]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you fornicated | <big><span class="asgreek">εξεπόρνευσας</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| thrice | <big><span class="asgreek">τρισσώς</span></big> <sup><small><small>[[G9495]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters -- | <big><span class="asgreek">θυγατράσι</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall I do | **<big>[[G4160\|ποιήσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \[while\]\<obj.> | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** |
+| you do | **<big>[[G4160\|ποιήσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of a woman | **<big>[[G1135\|γυναικός]]</big>** |
+| harlot | **<big>[[G4204\|πόρνης]]</big>** |
+| speaking openly. | **<big>[[G3955\|παρρησιαζομένης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you fornicated | **<big>[[G1608\|εξεπόρνευσας]]</big>** |
+| thrice | **<big>[[G9495\|τρισσώς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your daughters -- | **<big>[[G2364\|θυγατράσι]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.29|<< Ezekiel 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.31|Ezekiel 16:31 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Adoni-bezek</span> was a Canaanite king who was defeated by the men of Judah, and had his thumbs and big toes cut off as he had done to seventy other kings.
 - A man living before Israel's Monarchy, first mentioned at [[Judg.1.5|Jdg.1.5]]; 
-- only referred to as Adoni-bezek<[[H0137]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Adoni-bezek **<big>[[H0137|אֲדֹנִי־בֶזֶק]]</big>**.
 
 Adoni-bezek was a Canaanite king mentioned in [[Judg.1.5|Judges 1:5]]-7. He ruled over the city of Bezek, which was located in the territory allocated to the tribe of Judah after the Israelites entered the Promised Land. 
 
@@ -18,5 +18,5 @@ After his capture and mutilation, Adoni-bezek was brought to Jerusalem, where he
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adoni-bezek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0137) <small>*Hebrew*</small> | 3x | [[Jdg.1.5] ... [Jdg.1.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoni\*\|reference=Jdg.1.5;Jdg.1.6;Jdg.1.7) |
-All Strong's for **Adoni-bezek**: \[[[H0137]]\]
+| Adoni-bezek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>ב</span>ֶ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0137) | 3x | [[Jdg.1.5] ... [Jdg.1.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoni\*\|reference=Jdg.1.5;Jdg.1.6;Jdg.1.7) |
+All entries for **Adoni-bezek**:  **<big>[[H0137|אֲדֹנִי־בֶזֶק]]</big>**

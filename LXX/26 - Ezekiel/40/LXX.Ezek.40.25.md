@@ -7,29 +7,29 @@ And [there were] windows in it and in the arches thereof round about, like those
 Both the gateway and its portico had windows all around, like the other windows. It was fifty cubits long and twenty-five cubits wide.<small><sub>**MT:**</sub></small>
 [[Ezek.40.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.24|<< Ezekiel 40:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.26|Ezekiel 40:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its windows | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pediments | <big><span class="asgreek">αιλαμμών</span></big> <sup><small><small>[[G6162]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| \[were\] as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| windows | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch; | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| twenty-five | <big><span class="asgreek">εικοσιπέντε</span></big> <sup><small><small>[[G7059]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its breadth. | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| its windows | **<big>[[G2376\|θυρίδες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| pediments | **<big>[[G6162\|αιλαμμών]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| \[were\] as | **<big>[[G2531\|καθώς]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| windows | **<big>[[G2376\|θυρίδες]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch; | **<big>[[G6161\|αιλάμ]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| \[was\] fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its length | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| twenty-five | **<big>[[G7059\|εικοσιπέντε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its breadth. | **<big>[[G7563\|εύρος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.40.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.24|<< Ezekiel 40:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.26|Ezekiel 40:26 >>]]</td></tr></table>
 
 

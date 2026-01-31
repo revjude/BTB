@@ -7,17 +7,17 @@ He paweth in the valley, and rejoiceth in [his] strength: he goeth on to meet th
 He paws in the valley and rejoices in his strength; he charges into battle.<small><sub>**MT:**</sub></small>
 [[Job.39.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.20|<< Job 39:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.22|Job 39:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| rooting up | <big><span class="asgreek">ανορύσσων</span></big> <sup><small><small>[[G6351]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| He prances | <big><span class="asgreek">γαυριά</span></big> <sup><small><small>[[G6720]]</small></small></sup> |
-| and he goes forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] plain | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength. | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| rooting up | **<big>[[G6351\|ανορύσσων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] plain | **<big>[[G8676\|πεδίω]]</big>** |
+| He prances | **<big>[[G6720\|γαυριά]]</big>** |
+| and he goes forth | **<big>[[G1607\|εκπορεύεται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] plain | **<big>[[G8676\|πεδίον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength. | **<big>[[G2479\|ισχύϊ]]</big>** |
 [[Job.39.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.20|<< Job 39:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.22|Job 39:22 >>]]</td></tr></table>
 
 

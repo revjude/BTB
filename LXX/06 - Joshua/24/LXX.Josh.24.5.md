@@ -7,22 +7,22 @@ I sent Moses also and Aaron, and I plagued Egypt, according to that which I did 
 Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and afterward I brought you out.<small><sub>**MT:**</sub></small>
 [[Josh.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.4|<< Joshua 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.6|Joshua 24:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the things which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sent | **<big>[[G0649\|απέστειλα]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the things which | **<big>[[G3739\|οις]]</big>** |
+| he did | **<big>[[G4160\|εποίησεν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Josh.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.4|<< Joshua 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.6|Joshua 24:6 >>]]</td></tr></table>
 
 

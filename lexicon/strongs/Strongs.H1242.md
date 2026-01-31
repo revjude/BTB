@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֹּקֶר‎</span></big> **bôqer** <small>*(bo'-ker)*</small> ==**morning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּקַר‎</span><sup><small>[[H1239]]</small></sup></small>
+**<big><span class="ashebrew">‎בֹּקֶר‎</span></big>** **bôqer** <small>*(bo'-ker)*</small> ==**morning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1239|‎בָּקַר‎]]</big>**</small>
 
 $\quad$ ([phrase]) day, early, morning, morrow.
 - properly, ***dawn*** (as the break of day)
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a4)** of beginning of day
 $\quad$ $\quad$ **1a5)** of bright joy after night of distress (fig.)
 $\quad$ **1b)** morrow, next day, next morning
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡμέρα</span><sup><small>[[G2250]]</small></sup> · <span class="asgreek">ὄρθρος</span><sup><small>[[G3722]]</small></sup> · <span class="asgreek">πρωΐ</span><sup><small>[[G4404]]</small></sup> · <span class="asgreek">πρωϊνός</span><sup><small>[[G4407]]</small></sup> · <span class="asgreek">φέγγος</span><sup><small>[[G5338]]</small></sup>
+<small>See Greek: </small>**<big>[[G2250|ἡμέρα]]</big>** · **<big>[[G3722|ὄρθρος]]</big>** · **<big>[[G4404|πρωΐ]]</big>** · **<big>[[G4407|πρωϊνός]]</big>** · **<big>[[G5338|φέγγος]]</big>**

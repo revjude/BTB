@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִיכָיָה‎</span></big> **Mîykâyâh** <small>*(me-kaw-yaw')*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מִי‎</span><sup><small>[[H4310]]</small></sup> and (the prefix derivative from) <span class="ashebrew">‎כִּי‎</span><sup><small>[[H3588]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; who (is) like Jah?</small>
+**<big><span class="ashebrew">‎מִיכָיָה‎</span></big>** **Mîykâyâh** <small>*(me-kaw-yaw')*</small> ==**Micaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4310|‎מִי‎]]</big>** and (the prefix derivative from) **<big>[[H3588|‎כִּי‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; who (is) like Jah?</small>
 
-$\quad$ Micah, Michaiah. Compare <span class="ashebrew">‎מִיכָה‎</span><sup><small>[[H4318]]</small></sup>.
+$\quad$ Micah, Michaiah. Compare **<big>[[H4318|‎מִיכָה‎]]</big>**.
 - § Micah or Michaiah = *"who is like God"*
 - ***Micajah***, the name of two Israelites
 

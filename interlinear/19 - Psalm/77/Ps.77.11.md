@@ -6,17 +6,17 @@ I will remember the works of the LORD; yes, I will remember Your wonders of old.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.10|<< Psalms 77:10]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.12|Psalms 77:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I will remember  [^1] | <span class="ashebrew"><big>אֶזְכּ֥וֹר </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;[^2] | 'ez.Kor <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [the] deeds of  | <span class="ashebrew"><big>מַֽעַלְלֵי </big></span><small><small><sup>[[H4611]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ma.'a.lei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָ֑הּ </big></span><small><small><sup>[[H3050]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will remember  | <span class="ashebrew"><big>אֶזְכְּרָ֖ה </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| 'ez.ke.Rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from antiquity  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קֶּ֣דֶם </big></span><small><small><sup>[[H6924H]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Ke.dem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonder[s] your  | <span class="ashebrew"><big>פִּלְאֶֽ </big></span><small><small><sup>[[H6382]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pil.'E. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will remember  [^1]|**<big>&#8207;[[H2142\|אֶזְכּ֥וֹר]]&#8207; </big>**[^2] | 'ez.Kor<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] deeds of  |**<big>&#8207;[[H4611\|מַֽעַלְלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.'a.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָ֑הּ]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will remember  |**<big>&#8207;[[H2142\|אֶזְכְּרָ֖ה]]&#8207; </big>**| 'ez.ke.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from antiquity  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6924H\|קֶּ֣דֶם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonder[s] your  |**<big>&#8207;[[H6382\|פִּלְאֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pil.'E.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.10|<< Psalms 77:10]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.12|Psalms 77:12 >>]]</td></tr></table>
 
-[^1]: ==K==: **I will bring to remembrance ** | <small><sup>[[H2142]]</sup></small> <span class="ashebrew"><big>אַזְכִּיר</big></span>  | 'ez.Kor<small><sup>[[HVhi1cs]]</sup></small> 
+[^1]: ==K==: I will bring to remembrance  | **<big>[[H2142|אַזְכִּיר]]</big> ** | 'ez.Kor<small><sup>[[HVhi1cs]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>אֶזְכֹּ֥יר</big></span>**
 

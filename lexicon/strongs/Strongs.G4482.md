@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ῥέω‎</span></big> **rhéō** <small>*(hreh'-o)*</small> ==**to flow**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎ῥέω‎</span></big>** **rhéō** <small>*(hreh'-o)*</small> ==**to flow**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ flow.

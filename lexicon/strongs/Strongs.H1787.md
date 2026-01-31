@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּישׁוֹן‎</span></big> **Dîyshôwn** <small>*(dee-shone')*</small> ==**Dishon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Diyshon, the same as <span class="ashebrew">‎דִּישֹׁן‎</span><sup><small>[[H1788]]</small></sup></small>
+**<big><span class="ashebrew">‎דִּישׁוֹן‎</span></big>** **Dîyshôwn** <small>*(dee-shone')*</small> ==**Dishon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Diyshon, the same as **<big>[[H1788|‎דִּישֹׁן‎]]</big>**</small>
 
 $\quad$ Dishon.
 - § Dishon = *"thresher"*

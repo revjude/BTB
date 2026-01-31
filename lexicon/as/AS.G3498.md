@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">νεκρός</span></span>, <span class="asgreek">-ά, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">מֵת</span> <small><sup>[[H4194]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">νεκρός</span></span>, <span class="asgreek">-ά, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H4194|מֵת]]</big>**;\]</span> </span>
 <span class="asitalic">dead</span>,
 <span class="asbullet"><span class="asbold">I.</span> as <span class="asgramGrp"><span class="aspos">adj.</span></span>,</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> prop.: [[Acts.5.10|Ac 5:10]] [[Acts.20.9|20:9]], [[Jas.2.26|Ja 2:26]], [[Rev.1.18|Re 1:18]], al.; <span class="asgreek">ὡσεὶ ν.</span>, [[Matt.28.4|Mt 28:4]], [[Mark.9.26|Mk 9:26]], [[Rev.1.17|Re 1:17]];   of that which is subject to death, [[Rom.8.10|Ro 8:10]].</span>

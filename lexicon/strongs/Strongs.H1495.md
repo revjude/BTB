@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּזֵז‎</span></big> **Gâzêz** <small>*(gaw-zaze')*</small> ==**Gazez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גַּזָז‎</span><sup><small>[[H1494]]</small></sup>; shearer</small>
+**<big><span class="ashebrew">‎גָּזֵז‎</span></big>** **Gâzêz** <small>*(gaw-zaze')*</small> ==**Gazez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1494|‎גַּזָז‎]]</big>**; shearer</small>
 
 $\quad$ Gazez.
 - § Gazez = *"shearer"*

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aenon</span>, a site near Salim where John the Baptist conducted baptisms.
 - A location only mentioned at [[John.3.23|Jhn.3.23]]; 
-- only referred to as Aenon<[[G0137]]> \(<span class='tipnrLangGreek'>Αἰνών</span>\).
+- only referred to as Aenon **<big>[[G0137|Αἰνών]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.398936,35.543510&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The name Aenon is derived from the Greek word "aenon," meaning "springs" or "fou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aenon | [<span class='tipnrLangGreek'>Αἰνών</span>](G0137) <small>*Greek*</small> | 1x | [Jhn.3.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aenon\*\|reference=Jhn.3.23) |
-All Strong's for **Aenon**: \[[[G0137]]\]
+| Aenon | [<span class='tipnrLangGreek'>Αἰνών</span>](G0137) | 1x | [Jhn.3.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aenon\*\|reference=Jhn.3.23) |
+All entries for **Aenon**:  **<big>[[G0137|Αἰνών]]</big>**

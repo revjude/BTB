@@ -10,48 +10,48 @@ And Moses went and returned to Jethro his father in law, and said unto him, Let 
 Then Moses went back to his father-in-law Jethro and said to him, “Please let me return to my brothers in Egypt to see if they are still alive.” “Go in peace,” Jethro replied.<small><sub>**MT:**</sub></small>
 [[Exod.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.17|<< Exodus 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.19|Exodus 4:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he returned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jethro | <big><span class="asgreek">Ιοθώρ</span></big> <sup><small><small>[[H3503]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father-in-law. | <big><span class="asgreek">πενθερόν</span></big> <sup><small><small>[[G3995]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he says, | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| I will go, | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my brethren, | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will see | <big><span class="asgreek">όψομαι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| they still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| live. | <big><span class="asgreek">ζώσι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jethro said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιοθώρ</span></big> <sup><small><small>[[H3503]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Proceed, | <big><span class="asgreek">βάδιζε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| be in health! | <big><span class="asgreek">υγιαίνων</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
-| But after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> <big><span class="asgreek">εκείνας</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| came to an end | <big><span class="asgreek">ετελεύτησεν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he returned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jethro | **<big>[[H3503\|Ιοθώρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his father-in-law. | **<big>[[G3995\|πενθερόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he says, | **<big>[[G3004\|λέγει]]</big>** |
+| I will go, | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| return | **<big>[[G0654\|αποστρέψω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my brethren, | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will see | **<big>[[G3708\|όψομαι]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| they still | **<big>[[G2089\|έτι]]</big>** |
+| live. | **<big>[[G2198\|ζώσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jethro said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3503\|Ιοθώρ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| Proceed, | **<big>[[G6642\|βάδιζε]]</big>** |
+| be in health! | **<big>[[G5198\|υγιαίνων]]</big>** |
+| But after | **<big>[[G3326\|μετά]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| those many | **<big>[[G4183\|πολλάς]]</big>** **<big>[[G1565\|εκείνας]]</big>** |
+| came to an end | **<big>[[G5053\|ετελεύτησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.17|<< Exodus 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.19|Exodus 4:19 >>]]</td></tr></table>
 
 

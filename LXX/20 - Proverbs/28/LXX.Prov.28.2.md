@@ -7,18 +7,18 @@ For the transgression of a land many [are] the princes thereof: but by a man of 
 A land in rebellion has many rulers, but a man of understanding and knowledge maintains order.<small><sub>**MT:**</sub></small>
 [[Prov.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of \[the\] impious, | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| litigations | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| arise; | <big><span class="asgreek">εγείρονται</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a clever | <big><span class="asgreek">πανούργος</span></big> <sup><small><small>[[G3835]]</small></small></sup> |
-| extinguishes | <big><span class="asgreek">κατασβέσει</span></big> <sup><small><small>[[G7915]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Because of | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| of \[the\] impious, | **<big>[[G0765\|ασεβών]]</big>** |
+| litigations | **<big>[[G2920\|κρίσεις]]</big>** |
+| arise; | **<big>[[G1453\|εγείρονται]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| a clever | **<big>[[G3835\|πανούργος]]</big>** |
+| extinguishes | **<big>[[G7915\|κατασβέσει]]</big>** |
+| them. | **<big>[[G1473\|αυτάς]]</big>** |
 [[Prov.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
 

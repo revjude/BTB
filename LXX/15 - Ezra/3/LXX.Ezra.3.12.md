@@ -7,48 +7,48 @@ But many of the priests and Levites and chief of the fathers, [who were] ancient
 But many of the older priests, Levites, and family heads who had seen the first temple wept loudly when they saw the foundation of this temple. Still, many others shouted joyfully.<small><sub>**MT:**</sub></small>
 [[Ezra.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.11|<< Ezra 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.13|Ezra 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| families -- | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders, | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| the ones \[who\] | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτον</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| its groundwork, | <big><span class="asgreek">θεμελιώσει</span></big> <sup><small><small>[[G7652]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| wept | <big><span class="asgreek">έκλαιον</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοι</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a shout | <big><span class="asgreek">αλαλαγμώ</span></big> <sup><small><small>[[G6214]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to raise up high | <big><span class="asgreek">υψώσαι</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| a sound. | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| priests, | **<big>[[G2409\|ιερέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Levites, | **<big>[[G3017\|Λευιτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| families -- | **<big>[[G3965\|πατριών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders, | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| the ones \[who\] | **<big>[[G3739\|οι]]</big>** |
+| beheld | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| first | **<big>[[G4413\|πρώτον]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| its groundwork, | **<big>[[G7652\|θεμελιώσει]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|τούτον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| their eyes, | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1438\|αυτών]]</big>** |
+| wept | **<big>[[G2799\|έκλαιον]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| many | **<big>[[G4183\|πολλοι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a shout | **<big>[[G6214\|αλαλαγμώ]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to raise up high | **<big>[[G5312\|υψώσαι]]</big>** |
+| a sound. | **<big>[[G5456\|φωνήν]]</big>** |
 [[Ezra.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.11|<< Ezra 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.13|Ezra 3:13 >>]]</td></tr></table>
 
 

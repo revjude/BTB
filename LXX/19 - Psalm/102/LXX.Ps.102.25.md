@@ -11,22 +11,22 @@ In the beginning You laid the foundations of the earth, and the heavens are the 
 > $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| At | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] beginning, | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| laid a foundation | <big><span class="asgreek">εθεμελίωσας</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens. | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| At | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] beginning, | **<big>[[G0746\|αρχάς]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| laid a foundation | **<big>[[G2311\|εθεμελίωσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] works | **<big>[[G2041\|έργα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| heavens. | **<big>[[G3772\|ουρανοί]]</big>** |
 [[Ps.102.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.24|<< Psalm 102:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.26|Psalm 102:26 >>]]</td></tr></table>
 
 

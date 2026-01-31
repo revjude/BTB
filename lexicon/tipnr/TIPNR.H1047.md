@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-peor</span> was a place east of the Jordan River, where the Israelites camped and Moses was buried in an unknown valley. \(Deuteronomy 3:29; 4:46; 34:6; [[Josh.13.20|Joshua 13:20]]\)
 - A location first mentioned at [[Neh.11.26|Deu.3.29]]; 
-- only referred to as Beth-peor<[[H1047]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Beth-peor **<big>[[H1047|בֵּית פְּעוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.656099,35.711870&zoom=10&maptype=satellite"></iframe>
 
 
@@ -22,5 +22,5 @@ The location of Beth-peor is not precisely known, but it was likely situated in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-peor (NIV= Beth Peor) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1047) <small>*Hebrew*</small> | 4x | [[Deu.3.29] ... [Jos.13.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Deu.3.29;Deu.4.46;Deu.34.6;Jos.13.20) |
-All Strong's for **Beth-peor**: \[[[H1047]]\]
+| Beth-peor (NIV= Beth Peor) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1047) | 4x | [[Deu.3.29] ... [Jos.13.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Deu.3.29;Deu.4.46;Deu.34.6;Jos.13.20) |
+All entries for **Beth-peor**:  **<big>[[H1047|בֵּית פְּעוֹר]]</big>**

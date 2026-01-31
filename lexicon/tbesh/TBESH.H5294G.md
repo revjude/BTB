@@ -1,5 +1,4 @@
-<span class="ashebrew">‎נְעַרְיָה‎</span> <small>***(ne.ar.yah)***</small> ==**Neariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.3.22|1Ch.3.22]]
--  son of: Shemaiah ([[H8098B]])
--  brother of: Hattush ([[H2407]]), Igal ([[H3008I]]), Bariah ([[H1282]]) and Shaphat ([[H8202I]])
--  father of: Elioenai ([[H0454B]]), Hizkiah ([[H2396H]]) and Azrikam ([[H5840]])
+-  son of: Shemaiah (**<big>[[H8098B|שְׁמַעְיָה]]</big>**)
+-  brother of: Hattush (**<big>[[H2407|חַטּוּשׁ]]</big>**), Igal (**<big>[[H3008I|יִגְאָל]]</big>**), Bariah (**<big>[[H1282|בָּרִיחַ]]</big>**) and Shaphat (**<big>[[H8202I|שָׁפָט]]</big>**)
+-  father of: Elioenai (**<big>[[H0454B|אֶלְיְהוֹעֵינַי]]</big>**), Hizkiah (**<big>[[H2396H|חִזְקִיָּה]]</big>**) and Azrikam (**<big>[[H5840|עַזְרִיקָם]]</big>**)

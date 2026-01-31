@@ -7,30 +7,30 @@ If an ox gore a man or a woman, that they die: then the ox shall be surely stone
 If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. But the owner of the ox shall not be held responsible.<small><sub>**MT:**</sub></small>
 [[Exod.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.27|<< Exodus 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.29|Exodus 21:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should gore | <big><span class="asgreek">κερατίση</span></big> <sup><small><small>[[G7997]]</small></small></sup> |
-| a bull | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[either\] die; | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| with stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| you shall stone | <big><span class="asgreek">λιθοβοληθήσεται</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bull, | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of \[its\] meats; | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| owner | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρου</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| shall be innocent. | <big><span class="asgreek">αθώος</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should gore | **<big>[[G7997\|κερατίση]]</big>** |
+| a bull | **<big>[[G5022\|ταύρος]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| woman, | **<big>[[G1135\|γυναίκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[either\] die; | **<big>[[G0599\|αποθάνη]]</big>** |
+| with stones | **<big>[[G3037\|λίθοις]]</big>** |
+| you shall stone | **<big>[[G3036\|λιθοβοληθήσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bull, | **<big>[[G5022\|ταύρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G0977\|βρωθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of \[its\] meats; | **<big>[[G2907\|κρέα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| owner | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| bull | **<big>[[G5022\|ταύρου]]</big>** |
+| shall be innocent. | **<big>[[G0121\|αθώος]]</big>** **<big>[[G1510\|έσται]]</big>** |
 [[Exod.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.27|<< Exodus 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.29|Exodus 21:29 >>]]</td></tr></table>
 
 

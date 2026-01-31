@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּר‎</span></big> **Shûwr** <small>*(shoor)*</small> ==**Shur**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שׁוּר‎</span><sup><small>[[H7791]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּר‎</span></big>** **Shûwr** <small>*(shoor)*</small> ==**Shur**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H7791|‎שׁוּר‎]]</big>**</small>
 
 $\quad$ Shur.
 - § Shur = *"wall"*

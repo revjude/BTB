@@ -7,21 +7,21 @@ And Solomon had forty thousand stalls of horses for his chariots, and twelve tho
 Solomon had 4,000 stalls for his chariot horses and 12,000 horses.<small><sub>**MT:**</sub></small>
 [[1Kgs.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.25|<< 1 Kings 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.27|1 Kings 4:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποι</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twelve | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| horsemen. | <big><span class="asgreek">ιππέων</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντι]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| horses | **<big>[[G2462\|ίπποι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| chariots, | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twelve | **<big>[[G1427\|δώδεκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| horsemen. | **<big>[[G2460\|ιππέων]]</big>** |
 [[1Kgs.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.25|<< 1 Kings 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.27|1 Kings 4:27 >>]]</td></tr></table>
 
 

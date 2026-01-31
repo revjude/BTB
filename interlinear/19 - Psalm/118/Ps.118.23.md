@@ -10,15 +10,15 @@ This is from the LORD, and it is marvelous in our eyes.
 > $\quad$ referenced by: [[Matt.21.42|Matt 21:42]] ☩ [[Mark.12.10|Mark 12:10-11]] ☩ [[Luke.20.17|Luke 20:17]] ☩ [[Acts.4.11|Acts 4:11]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has come  | <span class="ashebrew"><big>הָ֣יְתָה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| Ha.ye.tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹּ֑את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֖יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is wonderful  | <span class="ashebrew"><big>נִפְלָ֣את </big></span><small><small><sup>[[H6381]]</sup></small></small> &#8207;| nif.Lat <small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in view our  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵינֵֽי </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ei.Nei. <small><sup>[[HNcfdc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֣ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come  |**<big>&#8207;[[H1961\|הָ֣יְתָה]]&#8207; </big>**| Ha.ye.tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹּ֑את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֖יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is wonderful  |**<big>&#8207;[[H6381\|נִפְלָ֣את]]&#8207; </big>**| nif.Lat<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view our  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869A\|עֵינֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.22|<< Psalms 118:22]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.24|Psalms 118:24 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ Whatsoever shall touch the flesh thereof shall be holy: and when there is sprink
 Anything that touches its flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place.<small><sub>**MT:**</sub></small>
 [[Lev.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.26|<< Leviticus 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.28|Leviticus 6:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be sanctified. | <big><span class="asgreek">αγιασθήσεται</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be sprinkled upon | <big><span class="asgreek">επιρραντισθή</span></big> <sup><small><small>[[G7439]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its blood, | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cloak -- | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| who | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be sprinkled | <big><span class="asgreek">ραντισθή</span></big> <sup><small><small>[[G4472]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| by it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be washed | <big><span class="asgreek">πλυθήσεται</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| a holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| Every one | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| touching | **<big>[[G0680\|απτόμενος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of its meats | **<big>[[G2907\|κρεών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall be sanctified. | **<big>[[G0037\|αγιασθήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| to whom | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should be sprinkled upon | **<big>[[G7439\|επιρραντισθή]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its blood, | **<big>[[G0129\|αίματος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| cloak -- | **<big>[[G2440\|ιμάτιον]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| who | **<big>[[G0302\|αν]]</big>** |
+| should be sprinkled | **<big>[[G4472\|ραντισθή]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| by it | **<big>[[G1473\|αυτό]]</big>** |
+| shall be washed | **<big>[[G4150\|πλυθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| a holy | **<big>[[G0039\|αγίω]]</big>** |
 [[Lev.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.26|<< Leviticus 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.28|Leviticus 6:28 >>]]</td></tr></table>
 
 

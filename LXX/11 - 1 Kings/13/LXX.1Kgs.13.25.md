@@ -7,42 +7,42 @@ And, behold, men passed by, and saw the carcase cast in the way, and the lion st
 And there were men passing by who saw the body lying in the road with the lion standing beside it, and they went and reported this in the city where the old prophet lived.<small><sub>**MT:**</sub></small>
 [[1Kgs.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.24|<< 1 Kings 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.26|1 Kings 13:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| coming near | <big><span class="asgreek">παραπορευόμενοι</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| decaying flesh | <big><span class="asgreek">θνησιμαίον</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| tossed | <big><span class="asgreek">ερριμμένον</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| standing | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| decaying flesh. | <big><span class="asgreek">θνησιμαίου</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet, | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| old man, | <big><span class="asgreek">πρεσβύτης</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| coming near | **<big>[[G3899\|παραπορευόμενοι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| decaying flesh | **<big>[[G7681\|θνησιμαίον]]</big>** |
+| tossed | **<big>[[G4496\|ερριμμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lion | **<big>[[G3023\|λέων]]</big>** |
+| standing | **<big>[[G2476\|ειστήκει]]</big>** |
+| next to | **<big>[[G2192\|εχόμενα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| decaying flesh. | **<big>[[G7681\|θνησιμαίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| prophet, | **<big>[[G4396\|προφήτης]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| old man, | **<big>[[G4246\|πρεσβύτης]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[1Kgs.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.24|<< 1 Kings 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.26|1 Kings 13:26 >>]]</td></tr></table>
 
 

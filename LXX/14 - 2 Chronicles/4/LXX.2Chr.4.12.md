@@ -7,38 +7,38 @@ two columns, and the pommels, and the capitals upon the tops of the two columns,
 the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of network covering both bowls of the capitals atop the pillars;<small><sub>**MT:**</sub></small>
 [[2Chr.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.11|<< 2 Chronicles 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.13|2 Chronicles 4:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| columns | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pommels, | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| capitals | <big><span class="asgreek">χωθαρώθ</span></big> <sup><small><small>[[G9769]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tops | <big><span class="asgreek">κεφαλών</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| latticed \[works\] | <big><span class="asgreek">δίκτυα</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| to cover up | <big><span class="asgreek">συγκαλύψαι</span></big> <sup><small><small>[[G4780]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| pommels | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| capitals, | <big><span class="asgreek">χωθαρώθ</span></big> <sup><small><small>[[G9769]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[are\] | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tops | <big><span class="asgreek">κεφαλών</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns; | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| columns | **<big>[[G4769\|στύλους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| pommels, | **<big>[[G0939\|βάσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| capitals | **<big>[[G9769\|χωθαρώθ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tops | **<big>[[G2776\|κεφαλών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns | **<big>[[G4769\|στύλων]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| latticed \[works\] | **<big>[[G1350\|δίκτυα]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| to cover up | **<big>[[G4780\|συγκαλύψαι]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| pommels | **<big>[[G0939\|βάσεις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| capitals, | **<big>[[G9769\|χωθαρώθ]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| \[are\] | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tops | **<big>[[G2776\|κεφαλών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns; | **<big>[[G4769\|στύλων]]</big>** |
 [[2Chr.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.11|<< 2 Chronicles 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.13|2 Chronicles 4:13 >>]]</td></tr></table>
 
 

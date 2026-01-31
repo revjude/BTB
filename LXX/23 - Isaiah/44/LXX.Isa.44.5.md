@@ -7,31 +7,31 @@ One shall say, I [am] the LORD’S; and another shall call [himself] by the name
 One will say, ‘I belong to the LORD,’ another will call himself by the name of Jacob, and still another will write on his hand, ‘The LORD’s,’ and will take the name of Israel.”<small><sub>**MT:**</sub></small>
 [[Isa.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| I am of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall call himself | <big><span class="asgreek">βοήσεται</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| shall inscribe | <big><span class="asgreek">επιγράψει</span></big> <sup><small><small>[[G1924]]</small></small></sup> |
-| with his hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| I am of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| he shall call himself | <big><span class="asgreek">βοήσεται</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| shall say | **<big>[[G2046\|ερεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| I am of God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| shall call himself | **<big>[[G0994\|βοήσεται]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| shall inscribe | **<big>[[G1924\|επιγράψει]]</big>** |
+| with his hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| I am of God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| he shall call himself | **<big>[[G0994\|βοήσεται]]</big>** |
 [[Isa.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
 
 

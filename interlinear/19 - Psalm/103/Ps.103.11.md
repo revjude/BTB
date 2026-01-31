@@ -6,17 +6,17 @@ For as high as the heavens are above the earth, so great is His loving devotion 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.10|<< Psalms 103:10]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.12|Psalms 103:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as is high  | <span class="ashebrew"><big>כִ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>גְבֹ֣הַּ </big></span><small><small><sup>[[H1361]]</sup></small></small> &#8207;| khi <small><sup>[[HR]]</sup></small> g.Vo.ah <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁ֭מַיִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| above  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is strong  | <span class="ashebrew"><big>גָּבַ֥ר </big></span><small><small><sup>[[H1396]]</sup></small></small> &#8207;| ga.Var <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covenant loyalty his  | <span class="ashebrew"><big>חַ֝סְדּ֗ </big></span><small><small><sup>[[H2617A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| chas.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| towards  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] fearing him  | <span class="ashebrew"><big>יְרֵאָֽי </big></span><small><small><sup>[[H3373]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.re.'A <small><sup>[[HAampc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as is high  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H1361\|גְבֹ֣הַּ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> g.Vo.ah<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is strong  |**<big>&#8207;[[H1396\|גָּבַ֥ר]]&#8207; </big>**| ga.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty his  |**<big>&#8207;[[H2617A\|חַ֝סְדּ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] fearing him  |**<big>&#8207;[[H3373\|יְרֵאָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.re.'A<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.10|<< Psalms 103:10]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.12|Psalms 103:12 >>]]</td></tr></table>
 
 

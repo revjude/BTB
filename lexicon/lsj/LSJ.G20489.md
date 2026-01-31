@@ -1,4 +1,4 @@
-form of: <small>[[G2198]]</small> 
+form of: <small>**<big>[[G2198|ζάω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ζῆ==</span></b>, 

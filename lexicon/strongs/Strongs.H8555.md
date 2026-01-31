@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּמְנָע‎</span></big> **Timnâʻ** <small>*(tim-naw')*</small> ==**Timna**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מָנַע‎</span><sup><small>[[H4513]]</small></sup>; restraint</small>
+**<big><span class="ashebrew">‎תִּמְנָע‎</span></big>** **Timnâʻ** <small>*(tim-naw')*</small> ==**Timna**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H4513|‎מָנַע‎]]</big>**; restraint</small>
 
 $\quad$ Timna, Timnah.
 - § Timna or Timnah = *"restrained"*

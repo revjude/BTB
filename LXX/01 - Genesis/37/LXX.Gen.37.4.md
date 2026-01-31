@@ -11,30 +11,30 @@ When Joseph’s brothers saw that their father loved him more than any of them, 
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδόντες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| was fond of | <big><span class="asgreek">φιλεί</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
-| over | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they detested | <big><span class="asgreek">εμίσησαν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not one \[thing\] | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| peaceable. | <big><span class="asgreek">ειρηνικόν</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδόντες]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brothers | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| was fond of | **<big>[[G5368\|φιλεί]]</big>** |
+| over | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they detested | **<big>[[G3404\|εμίσησαν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύναντο]]</big>** |
+| to speak | **<big>[[G2980\|λαλείν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| not one \[thing\] | **<big>[[G3762\|ουδέν]]</big>** |
+| peaceable. | **<big>[[G1516\|ειρηνικόν]]</big>** |
 [[Gen.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.3|<< Genesis 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.5|Genesis 37:5 >>]]</td></tr></table>
 
 

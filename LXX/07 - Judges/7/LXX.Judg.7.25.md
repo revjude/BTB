@@ -7,49 +7,49 @@ And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb u
 They also captured Oreb and Zeeb, the two princes of Midian; and they killed Oreb at the rock of Oreb and Zeeb at the winepress of Zeeb. So they pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon on the other side of the Jordan.<small><sub>**MT:**</sub></small>
 [[Judg.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.24|<< Judges 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.1|Judges 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they seized | <big><span class="asgreek">συνέλαβον</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Midian -- | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Oreb | <big><span class="asgreek">Ορήβ</span></big> <sup><small><small>[[H6159]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zeeb; | <big><span class="asgreek">Ζηβ</span></big> <sup><small><small>[[H3342+H2062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Oreb | <big><span class="asgreek">Ορήβ</span></big> <sup><small><small>[[H6159]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Sur, | <big><span class="asgreek">Σουρ</span></big> <sup><small><small>[[H9840]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zeeb | <big><span class="asgreek">Ζηβ</span></big> <sup><small><small>[[H3342+H2062]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jakeb Zeeb. | <big><span class="asgreek">Ιακέβ Ζηβ</span></big> <sup><small><small>[[H3342+H2062]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they pursued | <big><span class="asgreek">κατεδίωξαν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Midian. | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Oreb, | <big><span class="asgreek">Ορήβ</span></big> <sup><small><small>[[H6159]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of Zeeb | <big><span class="asgreek">Ζηβ</span></big> <sup><small><small>[[H3342+H2062]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Gideon | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they seized | **<big>[[G4815\|συνέλαβον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of Midian -- | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Oreb | **<big>[[H6159\|Ορήβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zeeb; | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Oreb | **<big>[[H6159\|Ορήβ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Sur, | **<big>[[H9840\|Σουρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zeeb | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jakeb Zeeb. | **<big>[[H3342+H2062\|Ιακέβ Ζηβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they pursued | **<big>[[G2614\|κατεδίωξαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Midian. | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Oreb, | **<big>[[H6159\|Ορήβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of Zeeb | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Gideon | **<big>[[G1066\|Γεδεών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan. | **<big>[[G2446\|Ιορδάνου]]</big>** |
 [[Judg.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.24|<< Judges 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.1|Judges 8:1 >>]]</td></tr></table>
 
 

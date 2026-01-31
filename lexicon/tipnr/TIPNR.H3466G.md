@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Jeshanah</span>, a town captured by King Abijah of Judah from Jeroboam of Israel \([[2Chr.13.19|2 Chronicles 13:19]]\).
 - A location only mentioned at [[2Chr.13.19|2Ch.13.19]]; 
-- only referred to as Jeshanah<[[H3466G]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Jeshanah **<big>[[H3466|יְשָׁנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.980029,35.229709&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Jeshanah was a town that was captured by King Abijah of Judah during his war aga
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jeshanah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3466G) <small>*Hebrew*</small> | 1x | [2Ch.13.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshanah\*\|reference=2Ch.13.19) |
-All Strong's for **Jeshanah**: \[[[H3466G]]\]
+| Jeshanah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3466G) | 1x | [2Ch.13.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshanah\*\|reference=2Ch.13.19) |
+All entries for **Jeshanah**:  **<big>[[H3466|יְשָׁנָה]]</big>**

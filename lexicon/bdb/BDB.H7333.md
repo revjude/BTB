@@ -1,4 +1,4 @@
-<small>Also see: [[H7332]]</small>
+<small>Also see: **<big>[[H7332|רָזוֹן]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎רָזוֺן‎</span> **noun masculine** ==potentate==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Prov.14.28|Prov 14:28]] (\|\| <span class="bdbLangHebrew">‎מֶלֶךְ‎</span>). — I. <span class="bdbLangHebrew">‎רָזוֺן‎</span> see below <span class="bdbLangHebrew">‎רזה‎</span> above 
 

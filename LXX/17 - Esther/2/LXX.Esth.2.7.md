@@ -7,37 +7,37 @@ And he brought up Hadassah, that [is], Esther, his uncle’s daughter: for she h
 And Mordecai had brought up Hadassah (that is, Esther), the daughter of his uncle, because she did not have a father or mother. The young woman was lovely in form and appearance, and when her father and mother had died, Mordecai had taken her as his own daughter.<small><sub>**MT:**</sub></small>
 [[Esth.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.6|<< Esther 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.8|Esther 2:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to this man | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| a child | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \[that\] he brought up, | <big><span class="asgreek">θρεπτή</span></big> <sup><small><small>[[G7690]]</small></small></sup> |
-| \[the\] daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of \[the\] brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of his father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| her name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Esther. | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| And at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| changeover | <big><span class="asgreek">μεταλλάξαι</span></big> <sup><small><small>[[G3337]]</small></small></sup> |
-| of her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| parents, | <big><span class="asgreek">γονείς</span></big> <sup><small><small>[[G1118]]</small></small></sup> |
-| he instructed | <big><span class="asgreek">επαίδευσεν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a woman. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman | <big><span class="asgreek">κοράσιον</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in appearance. | <big><span class="asgreek">είδει</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1510\|ην]]</big>** |
+| to this man | **<big>[[G3778\|τούτω]]</big>** |
+| a child | **<big>[[G3816\|παις]]</big>** |
+| \[that\] he brought up, | **<big>[[G7690\|θρεπτή]]</big>** |
+| \[the\] daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of \[the\] brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of his father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| her name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτή]]</big>** |
+| \[was\] Esther. | **<big>[[H0635\|Εσθήρ]]</big>** |
+| And at | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| changeover | **<big>[[G3337\|μεταλλάξαι]]</big>** |
+| of her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| parents, | **<big>[[G1118\|γονείς]]</big>** |
+| he instructed | **<big>[[G3811\|επαίδευσεν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a woman. | **<big>[[G1135\|γυναίκα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| young woman | **<big>[[G2877\|κοράσιον]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in appearance. | **<big>[[G1491\|είδει]]</big>** |
 [[Esth.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.6|<< Esther 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.8|Esther 2:8 >>]]</td></tr></table>
 
 

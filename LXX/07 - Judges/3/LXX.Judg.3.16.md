@@ -7,29 +7,29 @@ But Ehud made him a dagger which had two edges, of a cubit length; and he did gi
 Now Ehud had made for himself a double-edged sword a cubit long. He strapped it to his right thigh under his cloak<small><sub>**MT:**</sub></small>
 [[Judg.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.15|<< Judges 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.17|Judges 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Ehud | <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| a knife, | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| double-edged, | <big><span class="asgreek">δίστομον</span></big> <sup><small><small>[[G1366]]</small></small></sup> |
-| a span | <big><span class="asgreek">σπιθαμής</span></big> <sup><small><small>[[G9140]]</small></small></sup> |
-| \[being\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he girded | <big><span class="asgreek">περιεζώσατο</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uniform, | <big><span class="asgreek">μανδύαν</span></big> <sup><small><small>[[G8249]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thigh | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his right | <big><span class="asgreek">δεξιόν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Ehud | **<big>[[H0161\|Αώδ]]</big>** |
+| a knife, | **<big>[[G3162\|μάχαιραν]]</big>** |
+| double-edged, | **<big>[[G1366\|δίστομον]]</big>** |
+| a span | **<big>[[G9140\|σπιθαμής]]</big>** |
+| \[being\] the | **<big>[[G3588\|το]]</big>** |
+| length | **<big>[[G3372\|μήκος]]</big>** |
+| of it; | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he girded | **<big>[[G4024\|περιεζώσατο]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| uniform, | **<big>[[G8249\|μανδύαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| thigh | **<big>[[G3382\|μηρόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his right | **<big>[[G1188\|δεξιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.15|<< Judges 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.17|Judges 3:17 >>]]</td></tr></table>
 
 

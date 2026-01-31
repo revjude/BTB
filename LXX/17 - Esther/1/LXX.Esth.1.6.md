@@ -7,46 +7,46 @@ being adorned in fine linen, and cotton being stretched upon lines of fine linen
 Hangings of white and blue linen were fastened with cords of fine white and purple material to silver rings on the marble pillars. Gold and silver couches were arranged on a mosaic pavement of porphyry, marble, mother-of-pearl, and other costly stones.<small><sub>**MT:**</sub></small>
 [[Esth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.5|<< Esther 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.7|Esther 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| being adorned | <big><span class="asgreek">κεκοσμημένη</span></big> <sup><small><small>[[G2885]]</small></small></sup> |
-| in fine linen, | <big><span class="asgreek">βυσσίνοις</span></big> <sup><small><small>[[G1039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cotton | <big><span class="asgreek">καρπασίνοις</span></big> <sup><small><small>[[G7800]]</small></small></sup> |
-| being stretched | <big><span class="asgreek">τεταμένοις</span></big> <sup><small><small>[[G9407]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| lines | <big><span class="asgreek">σχοινίοις</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
-| of fine linen | <big><span class="asgreek">βυσσίνοις</span></big> <sup><small><small>[[G1039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of purple, | <big><span class="asgreek">πορφυροίς</span></big> <sup><small><small>[[G4210]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| cube \[studs\] | <big><span class="asgreek">κύβοις</span></big> <sup><small><small>[[G8115]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσοίς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργυροίς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| of Parian \[marble\], | <big><span class="asgreek">Παρίνοις</span></big> <sup><small><small>[[G9834]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones, | <big><span class="asgreek">λιθίνοις</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| with beds | <big><span class="asgreek">κλίναι</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσαί</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυραί</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a stone pavement | <big><span class="asgreek">λιθοστρώτου</span></big> <sup><small><small>[[G3038]]</small></small></sup> |
-| of emerald | <big><span class="asgreek">σμαραγδίτου</span></big> <sup><small><small>[[G9124]]</small></small></sup> |
-| stone, | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mother of pearl, | <big><span class="asgreek">πινίνου</span></big> <sup><small><small>[[G8795]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Parian \[marble\] | <big><span class="asgreek">Παρίνου</span></big> <sup><small><small>[[G9834]]</small></small></sup> |
-| stone, | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strewn beds | <big><span class="asgreek">στρωμναί</span></big> <sup><small><small>[[G9213]]</small></small></sup> |
-| transparent | <big><span class="asgreek">διαφανείς</span></big> <sup><small><small>[[G1307]]</small></small></sup> |
-| variously | <big><span class="asgreek">ποικίλως</span></big> <sup><small><small>[[G8836]]</small></small></sup> |
-| being decorated | <big><span class="asgreek">διηνθισμέναι</span></big> <sup><small><small>[[G6852]]</small></small></sup> |
+| being adorned | **<big>[[G2885\|κεκοσμημένη]]</big>** |
+| in fine linen, | **<big>[[G1039\|βυσσίνοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cotton | **<big>[[G7800\|καρπασίνοις]]</big>** |
+| being stretched | **<big>[[G9407\|τεταμένοις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| lines | **<big>[[G4979\|σχοινίοις]]</big>** |
+| of fine linen | **<big>[[G1039\|βυσσίνοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of purple, | **<big>[[G4210\|πορφυροίς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| cube \[studs\] | **<big>[[G8115\|κύβοις]]</big>** |
+| of gold | **<big>[[G5552\|χρυσοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver, | **<big>[[G0693\|αργυροίς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| columns | **<big>[[G4769\|στύλοις]]</big>** |
+| of Parian \[marble\], | **<big>[[G9834\|Παρίνοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones, | **<big>[[G3035\|λιθίνοις]]</big>** |
+| with beds | **<big>[[G2825\|κλίναι]]</big>** |
+| of gold | **<big>[[G5552\|χρυσαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver | **<big>[[G0693\|αργυραί]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a stone pavement | **<big>[[G3038\|λιθοστρώτου]]</big>** |
+| of emerald | **<big>[[G9124\|σμαραγδίτου]]</big>** |
+| stone, | **<big>[[G3037\|λίθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mother of pearl, | **<big>[[G8795\|πινίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Parian \[marble\] | **<big>[[G9834\|Παρίνου]]</big>** |
+| stone, | **<big>[[G3037\|λίθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strewn beds | **<big>[[G9213\|στρωμναί]]</big>** |
+| transparent | **<big>[[G1307\|διαφανείς]]</big>** |
+| variously | **<big>[[G8836\|ποικίλως]]</big>** |
+| being decorated | **<big>[[G6852\|διηνθισμέναι]]</big>** |
 [[Esth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.5|<< Esther 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.7|Esther 1:7 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ I have longed for thy salvation, O LORD; and thy law [is] my delight.
 I long for Your salvation, O LORD, and Your law is my delight.<small><sub>**MT:**</sub></small>
 [[Ps.119.174|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I longed after | <big><span class="asgreek">επεπόθησα</span></big> <sup><small><small>[[G1971]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance, | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my meditation | <big><span class="asgreek">μελέτη</span></big> <sup><small><small>[[G8281]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| I longed after | **<big>[[G1971\|επεπόθησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your deliverance, | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your law | **<big>[[G3551\|νόμος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| my meditation | **<big>[[G8281\|μελέτη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
 [[Ps.119.174|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
 
 

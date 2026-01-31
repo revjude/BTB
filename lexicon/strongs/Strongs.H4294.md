@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַטֶּה‎</span></big> **maṭṭeh** <small>*(mat-teh')*</small> ==**tribe: rod**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">מַטָּה</span> **maṭṭâh** <small>*(mat-taw')*</small>; from <span class="ashebrew">‎נָטָה‎</span><sup><small>[[H5186]]</small></sup></small>
+**<big><span class="ashebrew">‎מַטֶּה‎</span></big>** **maṭṭeh** <small>*(mat-teh')*</small> ==**tribe: rod**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">מַטָּה</span></big>** **maṭṭâh** <small>*(mat-taw')*</small>; from **<big>[[H5186|‎נָטָה‎]]</big>**</small>
 
 $\quad$ rod, staff, tribe.
 - ***a branch*** (as extending)
@@ -13,4 +13,4 @@ $\quad$ **1b)** branch (of vine)
 $\quad$ **1c)** tribe
 $\quad$ $\quad$ **1c1)** company led by chief with staff (originally)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζυγός</span><sup><small>[[G2218]]</small></sup> · <span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup> · <span class="asgreek">πληγή</span><sup><small>[[G4127]]</small></sup> · <span class="asgreek">ῥάβδος</span><sup><small>[[G4464]]</small></sup> · <span class="asgreek">φυλή</span><sup><small>[[G5443]]</small></sup>
+<small>See Greek: </small>**<big>[[G2218|ζυγός]]</big>** · **<big>[[G2372|θυμός]]</big>** · **<big>[[G4127|πληγή]]</big>** · **<big>[[G4464|ῥάβδος]]</big>** · **<big>[[G5443|φυλή]]</big>**

@@ -7,23 +7,23 @@ By the word of the LORD were the heavens made; and all the host of them by the b
 By the word of the LORD the heavens were made, and all the stars by the breath of His mouth.<small><sub>**MT:**</sub></small>
 [[Ps.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.5|<< Psalm 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.7|Psalm 33:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[By\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \[were\] solidified, | <big><span class="asgreek">εστερεώθησαν</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[by\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breath | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their force; | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[By\] the | **<big>[[G3588\|τω]]</big>** |
+| word | **<big>[[G3056\|λόγω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| \[were\] solidified, | **<big>[[G4732\|εστερεώθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[by\] the | **<big>[[G3588\|τω]]</big>** |
+| breath | **<big>[[G4151\|πνεύματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their force; | **<big>[[G1411\|δύναμις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.5|<< Psalm 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.7|Psalm 33:7 >>]]</td></tr></table>
 
 

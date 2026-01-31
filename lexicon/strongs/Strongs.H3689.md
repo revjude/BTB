@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֶּסֶל‎</span></big> **keçel** <small>*(keh'-sel)*</small> ==**loin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּסַל‎</span><sup><small>[[H3688]]</small></sup></small>
+**<big><span class="ashebrew">‎כֶּסֶל‎</span></big>** **keçel** <small>*(keh'-sel)*</small> ==**loin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3688|‎כָּסַל‎]]</big>**</small>
 
 $\quad$ confidence, flank, folly, hope, loin.
 - properly, ***fatness***, i.e. by implication (literally) ***the loin*** (as the seat of the leaf fat) or (generally) ***the viscera***
@@ -9,4 +9,4 @@ $\quad$ confidence, flank, folly, hope, loin.
 **2)** stupidity, folly
 **3)** confidence, hope
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐλπίς</span><sup><small>[[G1680]]</small></sup> · <span class="asgreek">μηρός</span><sup><small>[[G3382]]</small></sup> · <span class="asgreek">σκάνδαλον</span><sup><small>[[G4625]]</small></sup>
+<small>See Greek: </small>**<big>[[G1680|ἐλπίς]]</big>** · **<big>[[G3382|μηρός]]</big>** · **<big>[[G4625|σκάνδαλον]]</big>**

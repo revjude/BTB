@@ -1,4 +1,4 @@
-group of: <small>[[G2424G]]</small> 
+group of: <small>**<big>[[G2424G|Ἰησοῦς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Χριστιανός==</span></b>, <span class='asgreek'>ὁ</span>, 

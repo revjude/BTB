@@ -7,25 +7,25 @@ And [that] she increased her whoredoms: for when she saw men pourtrayed upon the
 But Oholibah carried her prostitution even further. She saw the men portrayed on the wall, images of the Chaldeans, engraved in vermilion,<small><sub>**MT:**</sub></small>
 [[Ezek.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she added | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| unto | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her harlotry, | <big><span class="asgreek">πορνείαν</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she saw | <big><span class="asgreek">ίδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| having been portrayed | <big><span class="asgreek">εζωγραφημένους</span></big> <sup><small><small>[[G7609]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τοίχου</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| images | <big><span class="asgreek">εικόνας</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| of Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| having been portrayed | <big><span class="asgreek">εζωγραφημένους</span></big> <sup><small><small>[[G7609]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a stylus; | <big><span class="asgreek">γραφίδι</span></big> <sup><small><small>[[G6768]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she added | **<big>[[G4369\|προσέθετο]]</big>** |
+| unto | **<big>[[G1909\|επι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her harlotry, | **<big>[[G4202\|πορνείαν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she saw | **<big>[[G1492\|ίδεν]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| having been portrayed | **<big>[[G7609\|εζωγραφημένους]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wall, | **<big>[[G5109\|τοίχου]]</big>** |
+| images | **<big>[[G1504\|εικόνας]]</big>** |
+| of Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| having been portrayed | **<big>[[G7609\|εζωγραφημένους]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a stylus; | **<big>[[G6768\|γραφίδι]]</big>** |
 [[Ezek.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 
 

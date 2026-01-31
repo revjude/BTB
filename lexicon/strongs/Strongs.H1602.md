@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּעַל‎</span></big> **gâʻal** <small>*(gaw-al')*</small> ==**to abhor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּעַל‎</span></big>** **gâʻal** <small>*(gaw-al')*</small> ==**to abhor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abhor, fail, lothe, vilely cast away.

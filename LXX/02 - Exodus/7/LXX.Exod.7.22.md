@@ -11,29 +11,29 @@ But the magicians of Egypt did the same things by their magic arts. So Pharaoh�
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enchanters | <big><span class="asgreek">επαοιδοί</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in their sorceries. | <big><span class="asgreek">φαρμακείαις</span></big> <sup><small><small>[[G5331]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was hardened | <big><span class="asgreek">εσκληρύνθη</span></big> <sup><small><small>[[G4645]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισήκουσεν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said. | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| enchanters | **<big>[[G7368\|επαοιδοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| in their sorceries. | **<big>[[G5331\|φαρμακείαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was hardened | **<big>[[G4645\|εσκληρύνθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| of Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| listen to | **<big>[[G1522\|εισήκουσεν]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said. | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
 [[Exod.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.21|<< Exodus 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.23|Exodus 7:23 >>]]</td></tr></table>
 
 

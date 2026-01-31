@@ -10,26 +10,26 @@ Into their bosom as land, as an eagle against \[the\] house of \[the\] <span cla
 Put the ram’s horn to your lips! An eagle looms over the house of the LORD, because the people have transgressed My covenant and rebelled against My law.<small><sub>**MT:**</sub></small>
 [[Hos.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.16|<< Hosea 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.2|Hosea 8:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their bosom | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an eagle | <big><span class="asgreek">αετός</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| they violated | <big><span class="asgreek">παρέβησαν</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were impious. | <big><span class="asgreek">ησέβησαν</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| Into | **<big>[[G1519\|εις]]</big>** |
+| their bosom | **<big>[[G2859\|κόλπον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an eagle | **<big>[[G0105\|αετός]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| they violated | **<big>[[G3845\|παρέβησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my law | **<big>[[G3551\|νόμου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they were impious. | **<big>[[G0764\|ησέβησαν]]</big>** |
 [[Hos.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.16|<< Hosea 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.2|Hosea 8:2 >>]]</td></tr></table>
 
 

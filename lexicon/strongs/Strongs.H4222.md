@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָחָא‎</span></big> **mâchâʼ** <small>*(maw-khaw')*</small> ==**to clap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָחָא‎</span></big>** **mâchâʼ** <small>*(maw-khaw')*</small> ==**to clap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ clap.

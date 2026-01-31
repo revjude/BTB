@@ -6,26 +6,26 @@ I will not execute the full fury of My anger; I will not destroy Ephraim again. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will carry out  | <span class="ashebrew"><big>אֶֽעֱשֶׂה֙ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'e.'e.Seh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] burning of  | <span class="ashebrew"><big>חֲר֣וֹן </big></span><small><small><sup>[[H2740]]</sup></small></small> &#8207;| cha.Ron <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger my  | <span class="ashebrew"><big>אַפִּ֔ </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.P <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will repeat  | <span class="ashebrew"><big>אָשׁ֖וּב </big></span><small><small><sup>[[H7725J]]</sup></small></small> &#8207;| 'a.Shuv <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to destroy  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שַׁחֵ֣ת </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.Chet <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרָ֑יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] God  | <span class="ashebrew"><big>אֵ֤ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָֽנֹכִי֙ </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a human  | <span class="ashebrew"><big>אִ֔ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in midst your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבְּ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.be. <small><sup>[[HNcmsc]]</sup></small> Cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [one]  | <span class="ashebrew"><big>קָד֔וֹשׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ka.Do.osh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will come  | <span class="ashebrew"><big>אָב֖וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| 'a.Vo' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in rage  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִֽיר </big></span><small><small><sup>[[H5892A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will carry out  |**<big>&#8207;[[H6213A\|אֶֽעֱשֶׂה֙]]&#8207; </big>**| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] burning of  |**<big>&#8207;[[H2740\|חֲר֣וֹן]]&#8207; </big>**| cha.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger my  |**<big>&#8207;[[H0639G\|אַפִּ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will repeat  |**<big>&#8207;[[H7725J\|אָשׁ֖וּב]]&#8207; </big>**| 'a.Shuv<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to destroy  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7843\|שַׁחֵ֣ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Chet<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרָ֑יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] God  |**<big>&#8207;[[H0410G\|אֵ֤ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a human  |**<big>&#8207;[[H0376G\|אִ֔ישׁ]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.be.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one]  |**<big>&#8207;[[H6918G\|קָד֔וֹשׁ]]&#8207; </big>**| ka.Do.osh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will come  |**<big>&#8207;[[H0935G\|אָב֖וֹא]]&#8207; </big>**| 'a.Vo'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in rage  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892A\|עִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
 

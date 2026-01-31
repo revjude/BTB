@@ -1,6 +1,4 @@
-<span class="ashebrew">‎מֶ֫רֶד‎</span> <small>***(me.red)***</small> ==**Mered**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-- A man of the tribe of Judah(?) living at the time of Divided Monarchy, first mentioned at [[1Chr.4.17|1Ch.4.17]]
--  son of: Ezrah ([[H5834]])
--  brother of: Jether ([[H3500J]]), Epher ([[H6081H]]) and Jalon ([[H3210]]); married to Bithiah ([[H1332]])(?) and Jehudijah ([[H3057]])(?)
--  father of: Miriam ([[H4813H]])(?), Shammai ([[H8060I]])(?), Ishbah ([[H3431]])(?), Jered ([[H3382H]])(?), Heber ([[H2268I]])(?) and Jekuthiel ([[H3354]])(?)
-
+- A man of the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.4.17|1Ch.4.17]]
+-  son of: Ezrah (**<big>[[H5834|עֶזְרָה]]</big>**)
+-  brother of: Jether (**<big>[[H3500J|יֶתֶר]]</big>**), Epher (**<big>[[H6081H|עֵפֶר]]</big>**) and Jalon (**<big>[[H3210|יָלוֹן]]</big>**); married to Bithiah (**<big>[[H1332|בִּתְיָה]]</big>**) and Jehudijah (**<big>[[H3057|יְהֻדִיָּה]]</big>**)
+-  father of: Miriam (**<big>[[H4813H|מִרְיָם]]</big>**), Shammai (**<big>[[H8060I|שַׁמַּי]]</big>**), Ishbah (**<big>[[H3431|יִשְׁבַּח]]</big>**), Jered (**<big>[[H3382H|יֶרֶד]]</big>**), Heber (**<big>[[H2268I|חֶבֶר]]</big>**) and Jekuthiel (**<big>[[H3354|יְקוּתִיאֵל]]</big>**)

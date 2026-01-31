@@ -11,34 +11,34 @@ This is what the LORD says: “Let not the wise man boast in his wisdom, nor the
 > $\quad$ referenced by: [[1Cor.1.31|1Cor 1:31]] ☩ [[2Cor.10.17|2Cor 10:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| boast | <big><span class="asgreek">καυχάσθω</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise \[man\] | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wisdom! | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| boast | <big><span class="asgreek">καυχάσθω</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong \[man\] | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his strength! | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| boast | <big><span class="asgreek">καυχάσθω</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rich \[man\] | <big><span class="asgreek">πλούσιος</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his riches! | <big><span class="asgreek">πλούτω</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| boast | **<big>[[G2744\|καυχάσθω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| wise \[man\] | **<big>[[G4680\|σοφός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his wisdom! | **<big>[[G4678\|σοφία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| boast | **<big>[[G2744\|καυχάσθω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| strong \[man\] | **<big>[[G2478\|ισχυρός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his strength! | **<big>[[G2479\|ισχύϊ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let not | **<big>[[G3361\|μη]]</big>** |
+| boast | **<big>[[G2744\|καυχάσθω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rich \[man\] | **<big>[[G4145\|πλούσιος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his riches! | **<big>[[G4149\|πλούτω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.22|<< Jeremiah 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.24|Jeremiah 9:24 >>]]</td></tr></table>
 
 

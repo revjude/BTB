@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִטָּה‎</span></big> **miṭṭâh** <small>*(mit-taw')*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָטָה‎</span><sup><small>[[H5186]]</small></sup></small>
+**<big><span class="ashebrew">‎מִטָּה‎</span></big>** **miṭṭâh** <small>*(mit-taw')*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5186|‎נָטָה‎]]</big>**</small>
 
 $\quad$ bed(-chamber), bier.
 - ***a bed*** (as extended) ***for******sleeping*** or ***eating***
@@ -7,4 +7,4 @@ $\quad$ bed(-chamber), bier.
 
 **1)** couch, bed, bier
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλίνη</span><sup><small>[[G2825]]</small></sup>
+<small>See Greek: </small>**<big>[[G2825|κλίνη]]</big>**

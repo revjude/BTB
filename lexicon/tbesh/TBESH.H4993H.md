@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מַתִּתְיָ֫הוּ‎</span> <small>***(mat.tit.yah)***</small> ==**Mattithiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[1Chr.15.18|1Ch.15.18]]
--  son of: Jeduthun ([[H3038]])
--  brother of: Obed-edom ([[H5654]]), Gedaliah ([[H1436I]]), Zeri ([[H6874]]), Jeshaiah ([[H3470H]]), Hashabiah ([[H2811I]])
+-  son of: Jeduthun (**<big>[[H3038|יְדוּתוּן]]</big>**)
+-  brother of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**), Gedaliah (**<big>[[H1436I|גְּדַּלְיָה]]</big>**), Zeri (**<big>[[H6874|צְרִי]]</big>**), Jeshaiah (**<big>[[H3470H|יְשַׁעְיָה]]</big>**), Hashabiah (**<big>[[H2811I|חֲשַׁבְיָה]]</big>**)

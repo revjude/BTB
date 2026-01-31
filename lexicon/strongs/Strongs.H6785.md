@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צֶמֶר‎</span></big> **tsemer** <small>*(tseh'-mer)*</small> ==**wool**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎צֶמֶר‎</span></big>** **tsemer** <small>*(tseh'-mer)*</small> ==**wool**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to be shaggy</small>
 
 $\quad$ wool(-len).
@@ -9,4 +9,4 @@ $\quad$ **1a)** wool
 $\quad$ **1b)** whiteness (metaph.)
 $\quad$ **1c)** wool (in garments)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔριον</span><sup><small>[[G2053]]</small></sup> · <span class="asgreek">ἱμάτιον</span><sup><small>[[G2440]]</small></sup>
+<small>See Greek: </small>**<big>[[G2053|ἔριον]]</big>** · **<big>[[G2440|ἱμάτιον]]</big>**

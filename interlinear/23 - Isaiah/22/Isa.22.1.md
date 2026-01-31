@@ -6,18 +6,18 @@ This is the burden against the Valley of Vision: What ails you now, that you hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] oracle of  | <span class="ashebrew"><big>מַשָּׂ֖א </big></span><small><small><sup>[[H4853B]]</sup></small></small> &#8207;| ma.Sa' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] valley of  | <span class="ashebrew"><big>גֵּ֣יא </big></span><small><small><sup>[[H1516R]]</sup></small></small> &#8207;| gei' <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vision  | <span class="ashebrew"><big>חִזָּי֑וֹן </big></span><small><small><sup>[[H2384]]</sup></small></small> &#8207;| chi.za.Yon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] to you  | <span class="ashebrew"><big>לָּ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| la <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אֵפ֔וֹא </big></span><small><small><sup>[[H0645]]</sup></small></small> &#8207;| 'e.Fo' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have gone up  | <span class="ashebrew"><big>עָלִ֥ית </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'a.Lit <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of you  | <span class="ashebrew"><big>כֻּלָּ֖ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the roofs  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גַּגּֽוֹת </big></span><small><small><sup>[[H1406]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> ga.Got <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] valley of  |**<big>&#8207;[[H1516R\|גֵּ֣יא]]&#8207; </big>**| gei'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vision  |**<big>&#8207;[[H2384\|חִזָּי֑וֹן]]&#8207; </big>**| chi.za.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to you  |**<big>&#8207;[[H9005\|לָּ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0645\|אֵפ֔וֹא]]&#8207; </big>**| 'e.Fo'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have gone up  |**<big>&#8207;[[H5927G\|עָלִ֥ית]]&#8207; </big>**| 'a.Lit<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of you  |**<big>&#8207;[[H3605\|כֻּלָּ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the roofs  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1406\|גַּגּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ga.Got<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
 

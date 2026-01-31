@@ -7,24 +7,24 @@ All these had taken strange wives: and [some] of them had wives by whom they had
 All these men had married foreign women, and some of them had children by these wives.<small><sub>**MT:**</sub></small>
 [[Ezra.10.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλοτρίας</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| also there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| in which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they engendered | <big><span class="asgreek">εγέννησαν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| took | **<big>[[G2983\|έλαβον]]</big>** |
+| wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| alien | **<big>[[G0245\|αλλοτρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| also there are | **<big>[[G1510\|εισί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wives | **<big>[[G1135\|γυναικών]]</big>** |
+| in which | **<big>[[G3739\|αι]]</big>** |
+| they engendered | **<big>[[G1080\|εγέννησαν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
 [[Ezra.10.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
 

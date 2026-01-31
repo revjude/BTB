@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָצָא‎</span></big> **râtsâʼ** <small>*(raw-tsaw')*</small> ==**to run**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָצָא‎</span></big>** **râtsâʼ** <small>*(raw-tsaw')*</small> ==**to run**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ accept, run.
@@ -7,4 +7,4 @@ $\quad$ accept, run.
 
 **1)** (Qal) to run
 
-<sub><small>See Greek: </small></sub><span class="asgreek">προσδέχομαι</span><sup><small>[[G4327]]</small></sup>
+<small>See Greek: </small>**<big>[[G4327|προσδέχομαι]]</big>**

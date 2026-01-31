@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּגַע‎</span></big> **pâgaʻ** <small>*(paw-gah')*</small> ==**to fall on**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּגַע‎</span></big>** **pâgaʻ** <small>*(paw-gah')*</small> ==**to fall on**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ come (betwixt), cause to entreat, fall (upon), make intercession, intercessor, intreat, lay, light (upon), meet (together), pray, reach, run.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **1b3)** to make entreaty, interpose
 $\quad$ $\quad$ **1b4)** to make attack
 $\quad$ $\quad$ **1b5)** to reach the mark
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναιρέω</span><sup><small>[[G0337]]</small></sup> · <span class="asgreek">ἀντιλαμβάνομαι</span><sup><small>[[G0482]]</small></sup> · <span class="asgreek">ἀπαντάω</span><sup><small>[[G0528]]</small></sup> · <span class="asgreek">ἀποκτείνω</span><sup><small>[[G0615]]</small></sup> · <span class="asgreek">διέρχομαι</span><sup><small>[[G1330]]</small></sup> · <span class="asgreek">ἐμπίπτω</span><sup><small>[[G1706]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">θανατόω</span><sup><small>[[G2289]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">προσέρχομαι</span><sup><small>[[G4334]]</small></sup> · <span class="asgreek">συναντάω</span><sup><small>[[G4876]]</small></sup> · <span class="asgreek">ὑποτίθημι</span><sup><small>[[G5294]]</small></sup>
+<small>See Greek: </small>**<big>[[G0337|ἀναιρέω]]</big>** · **<big>[[G0482|ἀντιλαμβάνομαι]]</big>** · **<big>[[G0528|ἀπαντάω]]</big>** · **<big>[[G0615|ἀποκτείνω]]</big>** · **<big>[[G1330|διέρχομαι]]</big>** · **<big>[[G1706|ἐμπίπτω]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G2289|θανατόω]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G4334|προσέρχομαι]]</big>** · **<big>[[G4876|συναντάω]]</big>** · **<big>[[G5294|ὑποτίθημι]]</big>**

@@ -75,7 +75,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎לְמִן‎</span> (<spa
 
 <span class="bdbLangHebrew">‎מְנָאוֺת‎</span> see  <span class="bdbLangHebrew">‎מְנָת‎</span> below <span class="bdbLangHebrew">‎מנה‎</span>. below[<span class="bdbLangHebrew">‎מַנְגִּינָה‎</span>] see  <span class="bdbLangHebrew">‎נגן‎</span>. 
 
-<small>Also see: [[H4482]]</small>
+<small>Also see: **<big>[[H4482|מֵן]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎מִנִּי‎</span>, <span class="bdbLangHebrew">‎מִנֵּי‎</span> see  <span class="bdbLangHebrew">‎מִן‎</span>. <span class="bdbLangHebrew">‎מִנִּי‎</span> [[Ps.45.9|Ps 45:9]] see I. [ <span class="bdbLangHebrew">‎מֵן‎</span>]. <span class="bdbLangHebrew">‎מִנָיוֺת‎</span> see  <span class="bdbLangHebrew">‎מְנָת‎</span> below <span class="bdbLangHebrew">‎מנה‎</span>. <span class="bdbLangHebrew">‎מִנְיָמִין‎</span>, <span class="bdbLangHebrew">‎מִנְיָמִן‎</span> see  <span class="bdbLangHebrew">‎מִיָּמִן‎</span>. <span class="bdbLangHebrew">‎מִנְלָם‎</span> see [ <span class="bdbLangHebrew">‎מִנְלֶה‎</span>] below <span class="bdbLangHebrew">‎נלה‎</span>. 
 

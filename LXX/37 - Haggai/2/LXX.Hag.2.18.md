@@ -7,38 +7,38 @@ Consider now from this day and upward, from the four and twentieth day of the ni
 Consider carefully from this day forward—from the twenty-fourth day of the ninth month, the day the foundation of the LORD’s temple was laid—consider carefully:<small><sub>**MT:**</sub></small>
 [[Hag.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.17|<< Haggai 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.19|Haggai 2:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Arrange | <big><span class="asgreek">τάξατε</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hearts | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beyond! | <big><span class="asgreek">επέκεινα</span></big> <sup><small><small>[[G1900]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετράδος</span></big> <sup><small><small>[[G9440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth day | <big><span class="asgreek">εικάδος</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ninth | <big><span class="asgreek">εννάτου</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was laid a foundation | <big><span class="asgreek">εθεμελίωθη</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple | <big><span class="asgreek">ναός</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| establish it | <big><span class="asgreek">θέσθε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hearts! | <big><span class="asgreek">καρδίαις</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Arrange | **<big>[[G5021\|τάξατε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hearts | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G1473\|ταύτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beyond! | **<big>[[G1900\|επέκεινα]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| fourth | **<big>[[G9440\|τετράδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth day | **<big>[[G7051\|εικάδος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ninth | **<big>[[G1766\|εννάτου]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| was laid a foundation | **<big>[[G2311\|εθεμελίωθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| temple | **<big>[[G3485\|ναός]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| establish it | **<big>[[G5087\|θέσθε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your hearts! | **<big>[[G2588\|καρδίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Hag.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.17|<< Haggai 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.19|Haggai 2:19 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ For yet a very little while, and the indignation shall cease, and mine anger in 
 For in just a little while My fury against you will subside, and My anger will turn to their destruction.”<small><sub>**MT:**</sub></small>
 [[Isa.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.24|<< Isaiah 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.26|Isaiah 10:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a little \[time\] | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cease | <big><span class="asgreek">παύσεται</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger, | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their plan. | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For yet | **<big>[[G2089\|έτι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| a little \[time\] | **<big>[[G3398\|μικρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will cease | **<big>[[G3973\|παύσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| anger, | **<big>[[G3709\|οργή]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| my rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their plan. | **<big>[[G1012\|βουλήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.24|<< Isaiah 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.26|Isaiah 10:26 >>]]</td></tr></table>
 
 

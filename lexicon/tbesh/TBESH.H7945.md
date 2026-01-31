@@ -1,3 +1,1 @@
-<span class="ashebrew">‎שֶׁל‎</span> <small>***(shel)***</small> ==**which**==  <sup><small>[[TEHMC#H:RelP|H:RelP]]</small></sup> 
-combination of: <small>[[H9007]] ([[H9007]]+[[H9005]])</small> 
-
+<small>combination of:</small> <small>**<big>[[H9007|/שׁ]]</big>** (**<big>[[H9007|/שׁ]]</big>**+**<big>[[H9005|/ל]]</big>**)</small>

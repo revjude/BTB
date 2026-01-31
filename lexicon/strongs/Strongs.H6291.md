@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּג‎</span></big> **pag** <small>*(pag)*</small> ==**early fig**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פַּג‎</span></big>** **pag** <small>*(pag)*</small> ==**early fig**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to be torpid, i.e.</small>
 
 $\quad$ green figuratively
@@ -7,4 +7,4 @@ $\quad$ green figuratively
 
 **1)** green fig, early fig
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὄλυνθος</span><sup><small>[[G3653]]</small></sup> · <span class="asgreek">Βηθφαγή</span><sup><small>[[G0967]]</small></sup>
+<small>See Greek: </small>**<big>[[G3653|ὄλυνθος]]</big>** · **<big>[[G0967|Βηθφαγή]]</big>**

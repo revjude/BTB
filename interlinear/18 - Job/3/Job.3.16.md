@@ -6,17 +6,17 @@ Or why was I not hidden like a stillborn child, like an infant who never sees da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.15|<< Job 3:15]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.17|Job 3:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or  | <span class="ashebrew"><big>א֤וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a miscarriage  | <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>נֵ֣פֶל </big></span><small><small><sup>[[H5309]]</sup></small></small> &#8207;| khe. <small><sup>[[HR]]</sup></small> Ne.fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hidden  | <span class="ashebrew"><big>טָ֭מוּן </big></span><small><small><sup>[[H2934]]</sup></small></small> &#8207;| Ta.mun <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| was I?  | <span class="ashebrew"><big>אֶהְיֶ֑ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| 'eh.Yeh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like children  | <span class="ashebrew"><big>כְּ֝ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עֹלְלִ֗ים </big></span><small><small><sup>[[H5768]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> 'o.le.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have seen  | <span class="ashebrew"><big>רָ֥אוּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| Ra.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| light  | <span class="ashebrew"><big>אֽוֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֤וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a miscarriage  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5309\|נֵ֣פֶל]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> Ne.fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hidden  |**<big>&#8207;[[H2934\|טָ֭מוּן]]&#8207; </big>**| Ta.mun<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| was I?  |**<big>&#8207;[[H1961\|אֶהְיֶ֑ה]]&#8207; </big>**| 'eh.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like children  |**<big>&#8207;[[H9004\|כְּ֝]]&#8207;&#8207;[[H5768\|עֹלְלִ֗ים]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'o.le.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have seen  |**<big>&#8207;[[H7200G\|רָ֥אוּ]]&#8207; </big>**| Ra.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light  |**<big>&#8207;[[H0216\|אֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.15|<< Job 3:15]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.17|Job 3:17 >>]]</td></tr></table>
 
 

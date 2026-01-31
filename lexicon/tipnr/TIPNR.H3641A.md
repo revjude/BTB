@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Calneh</span> \(Calno\) was an ancient city in Mesopotamia, mentioned as one of Nimrod's cities and later as a trading partner of Tyre.
 - A location first mentioned at [[Gen.10.10|Gen.10.10]]; 
-- referred to as Calneh<[[H3641A]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֵ֑<span class='tipnrLangHebrew'>ה</span>\), or Calneh \(NIV= Kalneh\) or Calno \(NIV= Kalno\) <[[H3641B]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֶ<span class='tipnrLangHebrew'>ה</span>\), or Canneh \(NIV= Kanneh\) <[[H3656]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ֶּ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Calneh **<big>[[H3641|כַּלְנֶה]]</big>**, or Calneh \(NIV= Kalneh\) or Calno \(NIV= Kalno\)  **<big>[[H3641|כַּלְנֶה]]</big>**, or Canneh \(NIV= Kanneh\)  **<big>[[H3656|כַּנֶּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.127213,45.229995&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,8 +18,8 @@ Although the biblical references to Calneh are brief, they suggest that it was a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Calneh (NIV= Kalneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֵ֑<span class='tipnrLangHebrew'>ה</span>](H3641A) <small>*Hebrew*</small> | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calneh\*\|reference=Gen.10.10) |
-| Calneh (NIV= Kalneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H3641B) <small>*Hebrew*</small> | 1x | [Amo.6.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calneh\*\|reference=Amo.6.2) |
-| Calno (NIV= Kalno) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H3641B) <small>*Hebrew*</small> | 1x | [Isa.10.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calno\*\|reference=Isa.10.9) |
-| Canneh (NIV= Kanneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ֶּ<span class='tipnrLangHebrew'>ה</span>](H3656) <small>*Hebrew*</small> | 1x | [Ezk.27.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Canneh\*\|reference=Ezk.27.23) |
-All Strong's for **Calneh or Calno**: \[[[H3641A]]\] \[[[H3641B]]\] \[[[H3656]]\]
+| Calneh (NIV= Kalneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֵ֑<span class='tipnrLangHebrew'>ה</span>](H3641A) | 1x | [Gen.10.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calneh\*\|reference=Gen.10.10) |
+| Calneh (NIV= Kalneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H3641B) | 1x | [Amo.6.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calneh\*\|reference=Amo.6.2) |
+| Calno (NIV= Kalno) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>נ</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H3641B) | 1x | [Isa.10.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Calno\*\|reference=Isa.10.9) |
+| Canneh (NIV= Kanneh) | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ֶּ<span class='tipnrLangHebrew'>ה</span>](H3656) | 1x | [Ezk.27.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Canneh\*\|reference=Ezk.27.23) |
+All entries for **Calneh or Calno**:  **<big>[[H3641|כַּלְנֶה]]</big>** ☩  **<big>[[H3641|כַּלְנֶה]]</big>** ☩  **<big>[[H3656|כַּנֶּה]]</big>**
